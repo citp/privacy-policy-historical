@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the llnw.com privacy policy that was archived on 2012-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521235307id_/http%3A//www.limelight.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the llnw.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010184310id_/http%3A//www.limelight.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy | Limelight Networks</title>
@@ -7,7 +7,7 @@
 	<meta name="keywords" content="Limelight Networks, Limelight Networks Privacy Policy">
 	<meta name="charset" content="utf-8">
 	<meta name="robots" content="noodp,noydir,index,follow">
-	<link href="http://www.limelight.com/Content/Site3.css" rel="stylesheet" type="text/css">
+	<link href="http://www.limelight.com/Content/Site5.css" rel="stylesheet" type="text/css">
 	<link href="http://www.limelight.com/assets/js/lightbox/thickbox.css" rel="stylesheet" type="text/css">
 	<link href="/Content/print.css" rel="stylesheet" type="text/css" media="print">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -40,203 +40,213 @@
 
 
 		jQuery(document).ready(function () {
-			//jQuery for Support Select
-			$('div.portals').click(function () {
-				$('.cl-select ul').slideToggle('fast');
-			});
-			$('a.control').click(function () {
-				$('span.replace').replaceWith('<span class="replace">Limelight CONTROL (CDN)</span>');
-				$('.cl-select ul').slideUp('fast');
-			});
-			$('a.int-adv').click(function () {
-				$('span.replace').replaceWith('<span class="replace">Interacrive Advertising Reporting</span>');
-				$('.cl-select ul').slideUp('fast');
-			});
-			$('a.mobile').click(function () {
-				$('span.replace').replaceWith('<span class="replace">Limelight Reach</span>');
-				$('.cl-select ul').slideUp('fast');
-			});
-			$('a.support').click(function () {
-				$('span.replace').replaceWith('<span class="replace">General Support</span>');
-				$('.cl-select ul').slideUp('fast');
-			});
-			$('a.reseller').click(function () {
-				$('span.replace').replaceWith('<span class="replace">Reseller Portal</span>');
-				$('.cl-select ul').slideUp('fast');
-			});
-			//jQuery for input boxes
-			$('input.clearme').focus(function () {
-				$(this).attr({ value: '' });
-			});
-			//jQuery for Selected Menu Item
-			var cookieJar = $("p.cookieTrail a:nth-child(2)").attr("href");
-			if (cookieJar == '/services/') {
-				jQuery('ul.main-nav li:nth-child(2)').addClass('here');
-			}
-			if (cookieJar == '/solutions/') {
-				jQuery('ul.main-nav li:nth-child(1)').addClass('here');
-			}
-			if (window.location.pathname.match("/services/")) {
-				jQuery('ul.main-nav li:nth-child(2)').addClass('here');
-			}
-			if (window.location.pathname.match("/solutions/")) {
-				jQuery('ul.main-nav li:nth-child(1)').addClass('here');
-			}
-			if (window.location.pathname.match("/showcase/")) {
-				jQuery('ul.main-nav li:nth-child(3)').addClass('here');
-			}
-			if (window.location.pathname.match("/insights/")) {
-				jQuery('ul.main-nav li:nth-child(4)').addClass('here');
-			}
-			if (window.location.pathname.match("/company/")) {
-				jQuery('ul.main-nav li:nth-child(5)').addClass('here');
-			}
-			if (window.location.pathname.match("/support/")) {
-				jQuery('ul.main-nav li:nth-child(6)').addClass('here');
-			}
+		    //jQuery for Support Select
+		    $('div.portals').click(function () {
+		        $('.cl-select ul').slideToggle('fast');
+		    });
+		    $('a.control').click(function () {
+		        $('span.replace').replaceWith('<span class="replace">Limelight CONTROL (CDN)</span>');
+		        $('.cl-select ul').slideUp('fast');
+		    });
+		    $('a.int-adv').click(function () {
+		        $('span.replace').replaceWith('<span class="replace">Interacrive Advertising Reporting</span>');
+		        $('.cl-select ul').slideUp('fast');
+		    });
+		    $('a.mobile').click(function () {
+		        $('span.replace').replaceWith('<span class="replace">Limelight Reach</span>');
+		        $('.cl-select ul').slideUp('fast');
+		    });
+		    $('a.support').click(function () {
+		        $('span.replace').replaceWith('<span class="replace">General Support</span>');
+		        $('.cl-select ul').slideUp('fast');
+		    });
+		    $('a.reseller').click(function () {
+		        $('span.replace').replaceWith('<span class="replace">Reseller Portal</span>');
+		        $('.cl-select ul').slideUp('fast');
+		    });
+		    //jQuery for input boxes
+		    $('input.clearme').focus(function () {
+		        $(this).attr({ value: '' });
+		    });
+		    //jQuery for Selected Menu Item
+		    var cookieJar = $("p.cookieTrail a:nth-child(2)").attr("href");
+		    if (cookieJar == '/services/') {
+		        jQuery('ul.main-nav li:nth-child(2)').addClass('here');
+		    }
+		    if (cookieJar == '/solutions/') {
+		        jQuery('ul.main-nav li:nth-child(1)').addClass('here');
+		    }
+		    if (window.location.pathname.match("/services/")) {
+		        jQuery('ul.main-nav li:nth-child(2)').addClass('here');
+		    }
+		    if (window.location.pathname.match("/solutions/")) {
+		        jQuery('ul.main-nav li:nth-child(1)').addClass('here');
+		    }
+		    if (window.location.pathname.match("/showcase/")) {
+		        jQuery('ul.main-nav li:nth-child(3)').addClass('here');
+		    }
+		    if (window.location.pathname.match("/insights/")) {
+		        jQuery('ul.main-nav li:nth-child(4)').addClass('here');
+		    }
+		    if (window.location.pathname.match("/company/")) {
+		        jQuery('ul.main-nav li:nth-child(5)').addClass('here');
+		    }
+		    if (window.location.pathname.match("/support/")) {
+		        jQuery('ul.main-nav li:nth-child(6)').addClass('here');
+		    }
 
-			//jQuery for the menus
-			jQuery('.main-nav li.logining').hover(
+		    //jQuery for the menus
+		    jQuery('.main-nav li.logining').hover(
 				function () {
-					jQuery('.cl-select ul').hide();
+				    jQuery('.cl-select ul').hide();
 				},
 				function () {
-					jQuery('.cl-select ul').hide();
+				    jQuery('.cl-select ul').hide();
 				});
-			jQuery('.main-nav li').hover(
+		    jQuery('.main-nav li').hover(
 				function () {
-					jQuery(this).addClass('hover');
+				    jQuery(this).addClass('hover');
 				},
 				function () {
-					jQuery(this).removeClass('hover');
+				    jQuery(this).removeClass('hover');
 				});
-			jQuery('.main-nav li').hoverIntent(
+		    jQuery('.main-nav li').hoverIntent(
 				function () {
-					jQuery('div.mega', this).slideDown();
+				    jQuery('div.mega', this).slideDown();
 				},
 				function () {
-					jQuery('div.mega', this).hide();
-					jQuery(this).removeClass('hover');
+				    jQuery('div.mega', this).hide();
+				    jQuery(this).removeClass('hover');
 				});
-			jQuery('li.cl').hover(
+		    jQuery('li.cl').hover(
 				function () {
-					jQuery('div.login', this).show();
-					jQuery('.cl-select ul').hide();
+				    jQuery('div.login', this).show();
+				    jQuery('.cl-select ul').hide();
 				},
 				function () {
-					jQuery('div.login', this).hide();
+				    jQuery('div.login', this).hide();
 				});
-			jQuery('li.int').hover(
+		    jQuery('li.int').hover(
 				function () { jQuery('li.int ul li').show(); },
 				function () {
-					jQuery('li.int ul li').hide();
+				    jQuery('li.int ul li').hide();
 				});
 
-			//jQuery for Solutions and Services
-			$('div.m1a .serv').hoverIntent(function () {
-				$('div.m1b').show();
-				$('div.m1a').hide();
-			}, function () { });
-			$('div.m1b .sol').hoverIntent(function () {
-				$('div.m1a').show();
-				$('div.m1b').hide();
-			}, function () { });
+		    //jQuery for Solutions and Services
+		    $('div.m1a .serv').hoverIntent(function () {
+		        $('div.m1b').show();
+		        $('div.m1a').hide();
+		    }, function () { });
+		    $('div.m1b .sol').hoverIntent(function () {
+		        $('div.m1a').show();
+		        $('div.m1b').hide();
+		    }, function () { });
 
-			$('.plus').click(function () {
-				$(this).siblings('ul').slideToggle();
-				$(this).toggleClass("minus");
-				$(this).siblings('p.plus').toggleClass("minus");
-			});
-			$('p.plus').click(function () {
-				$(this).siblings('ul').slideToggle();
-				$(this).siblings('ul li').slideToggle();
-				$(this).toggleClass("minus");
-				$(this).siblings('p.plus').toggleClass("minus");
-			});
-
-			//jQuery for Left Menu
-			jQuery('.leftSidebar li').hover(
+		    /*$('.plus').click(function () {
+		    $(this).siblings('ul').slideToggle();
+		    $(this).toggleClass("minus");
+		    $(this).siblings('p.plus').toggleClass("minus");
+		    });
+		    $('p.plus').click(function () {
+		    $(this).siblings('ul').slideToggle();
+		    $(this).siblings('ul li').slideToggle();
+		    $(this).toggleClass("minus");
+		    $(this).siblings('p.plus').toggleClass("minus");
+		    });*/
+		    $('h2.plus').click(function () {
+		        $(this).siblings('ul').slideToggle();
+		        $(this).toggleClass("minus");
+		        $(this).siblings('p.plus').toggleClass("minus");
+		    });
+		    $('p.plus').click(function () {
+		        $(this).siblings('ul').slideToggle();
+		        $(this).siblings('ul li').slideToggle();
+		        $(this).toggleClass("minus");
+		        $(this).siblings('p.plus').toggleClass("minus");
+		    });
+		    //jQuery for Left Menu
+		    jQuery('.leftSidebar li').hover(
 				function () {
-					jQuery(this).addClass('hover');
+				    jQuery(this).addClass('hover');
 				},
 				function () {
-					jQuery(this).removeClass('hover');
+				    jQuery(this).removeClass('hover');
 				});
 
-			//jQuery for Gray Menu (Insights)
-			$('div.insight_header li').click(function () {
-				$('div.insight_header li.selected').removeClass('selected');
-				$(this).addClass('selected');
-			});
+		    //jQuery for Gray Menu (Insights)
+		    $('div.insight_header li').click(function () {
+		        $('div.insight_header li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		    });
 
-			//jQuery for Gray Menu (Showcase)
-			$('div.showcase_header li').click(function () {
-				$('div.showcase_header li.selected').removeClass('selected');
-				$(this).addClass('selected');
-				$('div.showcase_sub_header li.selected').removeClass('selected');
-				$('div#subcatAd li:first').addClass('selected');
-				$('div#subcatVideo li:first').addClass('selected');
-				$('div#subcatContentManagement li:first').addClass('selected');
-			});
-			//(Subs)
-			$('div#subcatAd li').click(function () {
-				$('div#subcatAd li.selected').removeClass('selected');
-				$(this).addClass('selected');
-			});
-			$('div#subcatVideo li').click(function () {
-				$('div#subcatVideo li.selected').removeClass('selected');
-				$(this).addClass('selected');
-			});
-			$('div#subcatContentManagement li').click(function () {
-				$('div#subcatContentManagement li.selected').removeClass('selected');
-				$(this).addClass('selected');
-			});
-			//Showcase featured image clipping
-			$('.hero-black-trans .featured img').jclip(5, 5, 360, 205);
+		    //jQuery for Gray Menu (Showcase)
+		    $('div.showcase_header li').click(function () {
+		        $('div.showcase_header li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		        $('div.showcase_sub_header li.selected').removeClass('selected');
+		        $('div#subcatAd li:first').addClass('selected');
+		        $('div#subcatVideo li:first').addClass('selected');
+		        $('div#subcatContentManagement li:first').addClass('selected');
+		    });
+		    //(Subs)
+		    $('div#subcatAd li').click(function () {
+		        $('div#subcatAd li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		    });
+		    $('div#subcatVideo li').click(function () {
+		        $('div#subcatVideo li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		    });
+		    $('div#subcatContentManagement li').click(function () {
+		        $('div#subcatContentManagement li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		    });
+		    //Showcase featured image clipping
+		    $('.hero-black-trans .featured img').jclip(5, 5, 360, 205);
 
-			//jQuery for Gray Menu (Support)
-			$('li.supportFAQ').click(function () {
-				$('.support-tabs li.selected').removeClass('selected');
-				$(this).addClass('selected');
-				$('div.tab').slideUp(200);
-				$('div.supportFAQ').delay(200).slideDown();
-			});
-			$('li.supportHelp').click(function () {
-				$('.support-tabs li.selected').removeClass('selected');
-				$(this).addClass('selected');
-				$('div.tab').slideUp(200);
-				$('div.supportHelp').delay(200).slideDown();
-			});
-			$('li.manageMyServices').click(function () {
-				$('.support-tabs li.selected').removeClass('selected');
-				$(this).addClass('selected');
-				$('div.tab').slideUp(200);
-				$('div.manageMyServices').delay(200).slideDown();
-			});
+		    //jQuery for Gray Menu (Support)
+		    $('li.supportFAQ').click(function () {
+		        $('.support-tabs li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		        $('div.tab').slideUp(200);
+		        $('div.supportFAQ').delay(200).slideDown();
+		    });
+		    $('li.supportHelp').click(function () {
+		        $('.support-tabs li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		        $('div.tab').slideUp(200);
+		        $('div.supportHelp').delay(200).slideDown();
+		    });
+		    $('li.manageMyServices').click(function () {
+		        $('.support-tabs li.selected').removeClass('selected');
+		        $(this).addClass('selected');
+		        $('div.tab').slideUp(200);
+		        $('div.manageMyServices').delay(200).slideDown();
+		    });
 
-			//jQuery for Partners
+		    //jQuery for Partners
 
-			Limelight = { slideLock: false, accActClass: 'accordion_toggle_active', sendProp19: function (self) { var s = s_gi(s_account); s.prop19 = jQuery(self).attr('prop19'); s.linkTrackVars = 'prop19'; s.tl(self, 'o', s.prop19); }, slideDownPartnerGroup: function () {
-				if (!Limelight.slideLock) {
-					var toggle = jQuery('.accordion_toggle', this); if (toggle.hasClass(Limelight.accActClass))
-						return; Limelight.slideLock = true; jQuery('.accordion_toggle').removeClass(Limelight.accActClass); jQuery('.accordion_content').slideUp('fast'); toggle.addClass(Limelight.accActClass); jQuery('.accordion_content', this).slideDown('slow', function () { Limelight.slideLock = false; });
-				}
-			}, slideUpPartnerGroup: function () {
-				if (!Limelight.slideLock) {
-					var toggle = jQuery('.accordion_toggle', this); if (!toggle.hasClass(Limelight.accActClass))
-						return; Limelight.slideLock = true; toggle.removeClass(Limelight.accActClass); jQuery('.accordion_content', this).slideUp('fast', function () { Limelight.slideLock = false; });
-				}
-			}
-			}; jQuery(document).ready(function () { jQuery('.partner-group').mousemove(Limelight.slideDownPartnerGroup); jQuery('.accordion_toggle[title]').hover(function () { Limelight.sendProp19(this); }, function () { }); });
+		    Limelight = { slideLock: false, accActClass: 'accordion_toggle_active', sendProp19: function (self) { var s = s_gi(s_account); s.prop19 = jQuery(self).attr('prop19'); s.linkTrackVars = 'prop19'; s.tl(self, 'o', s.prop19); }, slideDownPartnerGroup: function () {
+		        if (!Limelight.slideLock) {
+		            var toggle = jQuery('.accordion_toggle', this); if (toggle.hasClass(Limelight.accActClass))
+		                return; Limelight.slideLock = true; jQuery('.accordion_toggle').removeClass(Limelight.accActClass); jQuery('.accordion_content').slideUp('fast'); toggle.addClass(Limelight.accActClass); jQuery('.accordion_content', this).slideDown('slow', function () { Limelight.slideLock = false; });
+		        }
+		    }, slideUpPartnerGroup: function () {
+		        if (!Limelight.slideLock) {
+		            var toggle = jQuery('.accordion_toggle', this); if (!toggle.hasClass(Limelight.accActClass))
+		                return; Limelight.slideLock = true; toggle.removeClass(Limelight.accActClass); jQuery('.accordion_content', this).slideUp('fast', function () { Limelight.slideLock = false; });
+		        }
+		    }
+		    }; jQuery(document).ready(function () { jQuery('.partner-group').mousemove(Limelight.slideDownPartnerGroup); jQuery('.accordion_toggle[title]').hover(function () { Limelight.sendProp19(this); }, function () { }); });
 
-			//trunication
-			$('.itemlist li a').truncate();
+		    //trunication
+		    $('.itemlist li a').truncate();
 
 		});
 
  
 	</script>
-<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=5510502"></script></head>
+<script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=5510502"></script></head>
 <body class="">
 	<div class="area">
 		<!-- [[[[HEADER]]]] -->
@@ -251,6 +261,60 @@
 
         $("#" + Selection + LoginLocation + "Login").show();
     }
+
+    (function (h) {
+        h.fn.rssfeed = function (q, f, r) {
+            f = h.extend({ limit: 10, header: !0, titletag: "h4", date: !0, content: !0, snippet: !0, media: !0, showerror: !0, errormsg: "", key: null, ssl: !1, linktarget: "_self" }, f); return this.each(function (s, l) {
+                var p = h(l), d = ""; f.ssl && (d = "s"); p.hasClass("rssFeed") || p.addClass("rssFeed"); if (null == q) return !1; d = "http" + d + "://ajax.googleapis.com/ajax/services/feed/load?v=1.0&callback=?&q=" + encodeURIComponent(q); null != f.limit && (d += "&num=" + f.limit); null != f.key && (d += "&key=" + f.key); h.getJSON(d + "&output=json_xml",
+function (b) {
+    if (200 == b.responseStatus) {
+        var e = b.responseData, b = f, g = e.feed; if (g) {
+            var a = "", d = "odd"; if (b.media) { var j = e.xmlString; "Microsoft Internet Explorer" == navigator.appName ? (e = new ActiveXObject("Microsoft.XMLDOM"), e.async = "false", e.loadXML(j)) : e = (new DOMParser).parseFromString(j, "text/xml"); j = e.getElementsByTagName("item") } b.header && (a += '<div class="rssHeader"><a href="' + g.link + '" title="' + g.description + '">' + g.title + "</a></div>"); a += '<div class="rssBody"><ul>'; for (e = 0; e < g.entries.length; e++) {
+                var c =
+g.entries[e], i; c.publishedDate && (i = new Date(c.publishedDate), i = i.toLocaleDateString() + " " + i.toLocaleTimeString()); a += '<li class="rssRow ' + d + '"><' + b.titletag + '><a href="' + c.link + '" title="View this feed at ' + g.title + '">' + c.title + "</a></" + b.titletag + ">"; b.date && i && (a += "<div>" + i + "</div>"); b.content && (a += "<p>" + (b.snippet && "" != c.contentSnippet ? c.contentSnippet : c.content) + "</p>"); if (b.media && 0 < j.length) {
+                    c = j[e].getElementsByTagName("enclosure"); if (0 < c.length) {
+                        for (var a = a + '<div class="rssMedia"><div>Media files</div><ul>',
+k = 0; k < c.length; k++) var m = c[k].getAttribute("url"), n = c[k].getAttribute("type"), o = c[k].getAttribute("length"), m = '<li><a href="' + m + '" title="Download this media">' + m.split("/").pop() + "</a> (" + n + ", ", n = Math.floor(Math.log(o) / Math.log(1024)), o = (o / Math.pow(1024, Math.floor(n))).toFixed(2) + " " + "bytes,kb,MB,GB,TB,PB".split(",")[n], a = a + (m + o + ")</li>"); a += "</ul></div>"
+                    } a += "</li>"
+                } d = "odd" == d ? "even" : "odd"
+            } h(l).html(a + "</ul></div>"); h("a", l).attr("target", b.linktarget)
+        } h.isFunction(r) && r.call(this, p)
+    } else f.showerror &&
+(g = "" != f.errormsg ? f.errormsg : b.responseDetails), h(l).html('<div class="rssError"><p>' + g + "</p></div>")
+})
+            })
+        }
+    })(jQuery);
+
+    (function ($) {
+        $.fn.twitterfeed = function (username, options) {
+            var defaults = { limit: 10, header: true, tweeticon: true, tweetname: true, tweettime: true, retweets: true, replies: true, ssl: false }; var options = $.extend(defaults, options); return this.each(function (i, e) {
+                var $e = $(e); var s = ''; if (!$e.hasClass('twitterFeed')) $e.addClass('twitterFeed'); if (username == null) return false; if (options.limit > 200) options.limit = 200; if (options.ssl) s = 's'; if (options.replies == true) { options.replies = false; } else { options.replies = true; }
+                var url = 'http' + s + '://api.twitter.com/1/statuses/user_timeline.json?include_rts=' + options.retweets + '&exclude_replies=' + options.replies + '&screen_name=' + username + '&count=' + options.limit; var params = {}; params.count = options.limit; jQuery.ajax({ url: url, data: params, dataType: 'jsonp', success: function (o) { _callback(e, o, options); } });
+            });
+        }; var _callback = function (e, feeds, options) {
+            if (!feeds) { return false; }
+            var html = ''; var row = 'odd'; if (options.header) {
+                var name = feeds[0].user.name; var screenname = feeds[0].user.screen_name; var icon = feeds[0].user.profile_image_url; var link = '<a href="http://twitter.com/' + screenname + '/" title="Visit ' + name + ' on Twitter">'; html += '<div class="twitterHeader">' +
+link + '<img src="' + icon + '" alt="' + name + '" /></a>' + '<span>' + link + name + '</a></span>' + '</div>';
+            }
+            html += '<div class="twitterBody">' + '<ul>'; for (var i = 0; i < feeds.length; i++) {
+                if (feeds[i].retweeted_status) { var tweet = feeds[i].retweeted_status; } else { var tweet = feeds[i]; }
+                var link = '<a href="http://twitter.com/' + tweet.user.screen_name + '/" title="Visit ' + tweet.user.name + ' on Twitter">'; html += '<li class="twitterRow ' + row + '">'; if (options.tweeticon) { var icon = tweet.user.profile_image_url; html += link + '<img src="' + icon + '" alt="' + name + '" /></a>'; }
+                if (options.tweetname) { var name = tweet.user.name; html += '<div class="tweetName">' + link + name + '</a></div>' }
+                if (options.tweettime) { var lapsedTime = getLapsedTime(tweet.created_at); html += '<div class="tweetTime">' + lapsedTime + '</div>' }
+                var text = tweet.text.replace(/(https?:\/\/[-_.!~*\'()a-zA-Z0-9;\/?:\@&=+\$,%#]+)/, function (u) { var shortUrl = (u.length > 30) ? u.substr(0, 30) + '...' : u; return '<a href="' + u + '" title="Click to view this link">' + shortUrl + '</a>'; }).replace(/@([a-zA-Z0-9_]+)/g, '@<a href="http://twitter.com/$1" title="Click to view $1 on Twitter">$1</a>').replace(/(?:^|\s)#([^\s\.\+:!]+)/g, function (a, u) { return ' <a href="http://twitter.com/search?q=' + encodeURIComponent(u) + '" title="Click to view this on Twitter">#' + u + '</a>'; }); html += '<p>' + text + '</p>'
+                html += '</li>'; if (row == 'odd') { row = 'even'; } else { row = 'odd'; }
+            }
+            html += '</ul>' + '</div>'
+            $(e).html(html);
+        }; function getLapsedTime(strDate) {
+            strDate = Date.parse(strDate.replace(/^([a-z]{3})( [a-z]{3} \d\d?)(.*)( \d{4})$/i, '$1,$2$4$3')); var todayDate = new Date(); var tweetDate = new Date(strDate)
+            var lapsedTime = Math.round((todayDate.getTime() - tweetDate.getTime()) / 1000)
+            if (lapsedTime < 60) { return '< 1m'; } else if (lapsedTime < (60 * 60)) { return (Math.round(lapsedTime / 60) - 1) + 'm'; } else if (lapsedTime < (24 * 60 * 60)) { return (Math.round(lapsedTime / 3600) - 1) + 'h'; } else if (lapsedTime < (7 * 24 * 60 * 60)) { return (Math.round(lapsedTime / 86400) - 1) + 'd'; } else { return (Math.round(lapsedTime / 604800) - 1) + 'w'; }
+        };
+    })(jQuery);
+
 </script>
 <!-- lang  -->
 <div class="header">
@@ -336,13 +400,16 @@
                 </div>
             </li>
             <li class="div-left"><a href="http://www.limelight.com/contact/">CONTACT US</a></li>
-            <li class="int"><a class="int">INTERNATIONAL</a>
+            <li class="int"><a class="int">LANGUAGE</a>
                 <ul>
-                    <li><a href="http://limelight.com/">US</a></li>
-                    <li><a href="http://uk.limelight.com/">UK</a></li>
-                    <li><a href="http://de.llnw.com/">Germany</a></li>
-                    <li><a href="http://fr.llnw.com">France</a></li>
-                    <li><a href="http://jp.limelight.com/">Japan</a></li>
+                    <li><a class="SL_norewrite" href="http://www.limelight.com/">US English</a></li>
+                    <li><a href="http://uk.limelight.com/">UK English</a></li>
+                    <li><a href="http://fr.llnw.com">French</a></li>
+                    <li><a href="http://de.limelight.com/">German</a></li>
+                    <li><a href="http://jp.limelight.com/">Japanese</a></li>
+                    <li><a href="http://kr.limelight.com/">Korean</a></li>
+                    <li><a href="http://pt.limelight.com/">Portuguese</a></li>
+                    <li><a href="http://es.limelight.com/">Spanish</a></li>
                 </ul>
             </li>
         </ul>
@@ -538,24 +605,32 @@
                 <div class="mega m2 mShowcase">
                     <div class="col1">
                         <img src="http://www.limelight.com/assets/images/showcase/showcase-cowboys.jpg" alt="Showcase Promotion">
-                        <h3>Limelight Networks Showcases</h3>
-                        <p>Take a look at video, demos, and other examples of our customers’ work</p>
+                        <h3>
+                            Limelight Networks Showcases</h3>
+                        <p>
+                            Take a look at video, demos, and other examples of our customers’ work</p>
                         <br clear="all">
                     </div>
                     <div class="col">
-                        <h3><a href="http://www.limelight.com/showcase/OurWork">Our Work</a></h3>
-                        <h3><a href="http://www.limelight.com/showcase/OurCustomers">Our Customers</a></h3>
-                        <h3><a href="http://www.limelight.com/showcase/CaseStudies">Customer Case Studies</a></h3>
-                        <h3><a href="http://www.limelight.com/showcase/WhatOurCustomersAreSaying">What Our Customers Are Saying</a></h3>
+                        <h3>
+                            <a href="http://www.limelight.com/showcase/OurWork">Our Work</a></h3>
+                        <h3>
+                            <a href="http://www.limelight.com/showcase/OurCustomers">Our Customers</a></h3>
+                        <h3>
+                            <a href="http://www.limelight.com/showcase/CaseStudies">Customer Case Studies</a></h3>
+                        <h3>
+                            <a href="http://www.limelight.com/showcase/WhatOurCustomersAreSaying">What Our Customers Are
+                                Saying</a></h3>
                         <br clear="all">
                     </div>
                     <div class="col3">
-                        <h3>Featured Customer Case Studies</h3>
+                        <h3>
+                            Featured Customer Case Studies</h3>
                         <ul>
-                                <li><a href="/insights/cesarsway">George Gomez, Web Director, CesarsWay.com</a></li>
-                                <li><a href="/insights/sxsw-video-streaming">Live Video Streaming Brings SXSW Conference to Global Fans</a></li>
-                                <li><a href="http://media.limelight.com/documents/Limelight Video Platform Case Study - KC Chiefs.pdf">KC Chiefs Case Study</a></li>
-                                <li><a href="http://media.limelight.com/documents/e.Republic_cs_0312.pdf">e.Republic</a></li>
+                                <li><a href="http://media.limelight.com/documents/Mydeo_Case_Study.pdf">Mydeo</a></li>
+                                <li><a href="http://media.limelight.com/documents/BroadcastMed_Case_Study.pdf">BroadcastMed</a></li>
+                                <li><a href="http://media.limelight.com/documents/ClickDistrict+Case+Study.pdf">ClickDistrict</a></li>
+                                <li><a href="http://media.limelight.com/documents/University_of_Rhode_Island_Case_Study.pdf">University of Rhode Island</a></li>
                         </ul>
                         <br>
                     </div>
@@ -578,14 +653,14 @@
                     </div>
                     <div class="col">
                         <h3>
-                            <a href="http://www.limelight.com/insights/cloud-big-data-collaboration">Cloud Storage, Big Data, and Collaboration</a></h3>
-                        <p>How companies are able to move, access and collaborate around big data files in real-time and the impact this has had on their business.</p>
+                            <a href="http://resources.limelight.com/achieving-marketing-success-whitepaper.html">Achieving Online Marketing Success Through Your Digital Presence Strategy</a></h3>
+                        <p></p>
                         <h3>
-                            <a href="http://www.limelight.com/insights/nab-press-conference-0412">Limelight is joined by CesarsWay.com and Broadcast Interactive Media at NAB</a></h3>
-                        <p>CesarsWay.com, the #1 dog website from Cesar Millan, discusses how executing their new online video strategy with Limelight Video Platform has helped them drive revenue and more than triple site traffic. Limelight’s Edgardo Nazario also highlights Reach Live, our new mobile live streaming offering, while Jeff Freund is joined by Broadcast Interactive Media to discuss our renewed partnership and latest enhancements to Limelight Dynamic Site Platform for Mobile.</p>
+                            <a href="/insights/Achieving_Online_Marketing_Success_Through_Your_Digital_Presence_Strategy">Is Poor Performance Undermining Your Digital Presence?</a></h3>
+                        <p>Achieve marketing success by delivering a brilliant Digital Presence to your prospects and customers.</p>
                         <h3>
-                            <a href="http://www.limelight.com/insights/magic-quadrant-web-content-management">Magic Quadrant for Web Content Management</a></h3>
-                        <p>Limelight Networks has been positioned as a visionary in the Gartner Magic Quadrant for Web Content Management.</p>
+                            <a href="http://resources.limelight.com/benchmarking-your-digital-strategy.html">Benchmarking Your Digital Marketing Strategy</a></h3>
+                        <p>Top 10 ways that high-tech marketers can create an awesome digital presence.</p>
                         <a href="http://www.limelight.com/insights/">
                             <img src="http://www.limelight.com/assets/images/more.png" alt="See all" width="73" height="31" class="see-all-rt"></a>
                         <br clear="all">
@@ -594,11 +669,11 @@
                         <h3>
                             Featured White Papers</h3>
                         <ul>
-                                <li><a href="http://www.limelight.com/insights/magic-quadrant-web-content-management">Magic Quadrant for Web Content Management</a></li>
-                                <li><a href="http://www.limelight.com/insights/warp-speed">Warp Speed: The Nuts and Bolts of Web Acceleration Solutions</a></li>
-                                <li><a href="http://www.limelight.com/insights/boost-transaction-web-acceleration">3 Proven Ways to Boost Transactions with Web Acceleration</a></li>
-                                <li><a href="http://www.limelight.com/insights/stop-webpage-speed-killing-marketing">How to Stop Webpage Speed from Killing Your Marketing</a></li>
-                                <li><a href="http://www.limelight.com/insights/optimize-mobile-commerce">Optimizing the Mobile Commerce Experience</a></li>
+                                <li><a href="http://resources.limelight.com/achieving-marketing-success-whitepaper.html">Achieving Online Marketing Success Through Your Digital Presence Strategy</a></li>
+                                <li><a href="/insights/Achieving_Online_Marketing_Success_Through_Your_Digital_Presence_Strategy">Is Poor Performance Undermining Your Digital Presence?</a></li>
+                                <li><a href="http://resources.limelight.com/benchmarking-your-digital-strategy.html">Benchmarking Your Digital Marketing Strategy</a></li>
+                                <li><a href="/insights/website-globalization">CMO Survey: Global Website Challenges</a></li>
+                                <li><a href="http://resources.limelight.com/warp-speed-mobile-web-acceleration-ty.html">Warp Speed: The Nuts and Bolts of Web Acceleration Solutions</a></li>
                         </ul>
                         <br>
                     </div>
@@ -610,9 +685,9 @@
                 <div class="mega m3">
                     <!-- company -->
                     <div class="col1">
-                      	    <img src="http://media.limelight.com/images/company_mega_image.jpg" alt="Corporate Headquarters">
-                            <br clear="all">
-                        </div>
+                        <img src="http://media.limelight.com/images/company_mega_image.jpg" alt="Corporate Headquarters">
+                        <br clear="all">
+                    </div>
                     <div class="col">
                         <h3>
                             Media</h3>
@@ -766,11 +841,11 @@
                             <h3>
                                 <a href="http://blog.limelight.com">In the Limelight Blog</a></h3>
                             <ul class="notranslate">
-                                <li><a href="http://blog.limelight.com/2012/04/content-delivery-to-all-devices-can-you-afford-not-to/" target="_blank">Content Delivery to All Devices: Can You Afford NOT To?</a></li>
-<li><a href="http://blog.limelight.com/2012/04/defining-the-mobile-in-your-video-strategy/" target="_blank">Defining the "Mobile" In Your Video Strategy</a></li>
-<li><a href="http://blog.limelight.com/2012/03/the-evolving-video-experience/" target="_blank">The Evolving Video Experience (Hint: It's More Than Just the Video)</a></li>
-<li><a href="http://blog.limelight.com/2012/03/video-news-in-review-week-of-march-5th/" target="_blank">Video News in Review (Week of March 5th)</a></li>
-<li><a href="http://blog.limelight.com/2012/03/video-news-in-review-week-of-february-27th/" target="_blank">Video News in Review (Week of February 27th)</a></li>
+                                <li><a href="http://blog.limelight.com/2012/08/high-tech-marketers-engaging-prospects-in-the-2-0-sales-cycle-part-3/" target="_blank">High-Tech Marketers: Engaging Prospects in the 2.0 Sales Cycle, Part 3</a></li>
+<li><a href="http://blog.limelight.com/2012/08/why-a-digital-presence/" target="_blank">Why a Digital Presence?</a></li>
+<li><a href="http://blog.limelight.com/2012/08/1764/" target="_blank">High-Tech Marketers: Engaging Prospects in the 2.0 Sales Cycle, Part 2</a></li>
+<li><a href="http://blog.limelight.com/2012/08/high-tech-marketers-engaging-prospects-in-the-2-0-sales-cycle/" target="_blank">High-Tech Marketers: Engaging Prospects in the 2.0 Sales Cycle</a></li>
+<li><a href="http://blog.limelight.com/2012/08/assessing-our-digital-presence-day-4/" target="_blank">Assessing our Digital Presence (Day 4)</a></li>
 
 
                             </ul>                             
@@ -780,9 +855,9 @@
                         <h3>
                             <a href="http://blog.delvenetworks.com/">Limelight Video Platform Blog</a></h3>
                         <ul class="notranslate">
-                            <li><a href="http://blog.delvenetworks.com/2012/04/16/lvp-nab/" target="_blank">LVP @ NAB!</a></li>
-<li><a href="http://blog.delvenetworks.com/2012/04/12/video-players-that-never-go-out-of-style/" target="_blank">Video Players that Never Go Out of Style</a></li>
-<li><a href="http://blog.delvenetworks.com/2012/04/06/maximize-the-effectiveness-of-your-online-videos-by-following-these-5-helpful-tips/" target="_blank">Maximize the Effectiveness of Your Online Videos by Following these 5 Helpful Tips</a></li>
+                            <li><a href="http://blog.delvenetworks.com/2012/09/06/llnw-celebrating-10-years-at-ibc/" target="_blank">LLNW Celebrating 10 Years at IBC</a></li>
+<li><a href="http://blog.delvenetworks.com/2012/08/28/advertising-is-easy-with-lvp/" target="_blank">Advertising is Easy with LVP!</a></li>
+<li><a href="http://blog.delvenetworks.com/2012/08/20/pre-roll-for-live-streams/" target="_blank">Pre-Roll for Live Streams</a></li>
 
                         </ul>
                         <br clear="all">
@@ -791,9 +866,9 @@
                             <h3>
                                 <a href="http://www.twitter.com/LLNW/">Limelight Twitter</a></h3>
                             <ul class="notranslate">
-                                <li><a href="http://twitter.com/llnw/statuses/190841751739711488" target="_blank">llnw: Mobile Video, Social Boost US Mobile Content Consumption - eMarketer http://t.co/kngn7L1v via @Po_st</a></li>
-<li><a href="http://twitter.com/llnw/statuses/190840241534402562" target="_blank">llnw: Our very own http://t.co/onwiwr0C has been selected as an Official Honoree of the 16th Annual Webby Awards http://t.co/uj4l1Nn5</a></li>
-<li><a href="http://twitter.com/llnw/statuses/190455584829612032" target="_blank">llnw: Telecom Provider Bestel Embraces Limelight Networks' Industry-Leading CDN and Complete Suite of Cloud-Based Services http://t.co/S8lZpm4m</a></li>
+                                <li><a href="http://twitter.com/llnw/statuses/248509352091201536" target="_blank">llnw: RT @_jasonthibeault: Want to learn more about Digtial Presence? Take part in the conversation in my LinkedIn Group: http://t.co/uMPcbvF0 ...</a></li>
+<li><a href="http://twitter.com/llnw/statuses/248481609983078400" target="_blank">llnw: RT @ozmakiwave: Cool case study......from adobe http://t.co/b4NSPdYT</a></li>
+<li><a href="http://twitter.com/llnw/statuses/248134686101106690" target="_blank">llnw: #digitalpresence @adage: A business user should be able to publish digital content and not rely on IT to eliminate bottlenecks.</a></li>
 
                             </ul>
                         <br clear="all">
@@ -812,17 +887,23 @@
 		<!-- [[[[CONTENT]]]] -->
 		<div class="container">
 			<!-- constrain -->
-			<div class="herospace contentPage"></div>
+			<div class="herospace contentPage">
+</div>
 <div class="constrain">
-<p class="cookieTrail"></p>
-    <div class="contentArea no-left"><h2>Privacy Policy</h2>
+    <p class="cookieTrail">
+    </p>
+    <div class="contentArea no-left">
+<h2>Privacy Policy</h2>
 <p>Welcome to the Limelight Networks ("Limelight") web site (www.limelightnetworks.com), and any other web sites, networks, applications, or services operated or produced by Limelight (collectively, the "Limelight Platform"). Limelight values the privacy of the users, subscribers, publishers, members, and others who visit and use the Limelight Platform (collectively or individually, "you" or "Users").</p>
 <p>By using the Limelight Platform, you expressly consent to the information handling practices described in this Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Limelight Platform.</p>
 <p>This Privacy Policy should be read in connection with the Limelight Acceptable Use Policy. Your use of the Limelight Platform and any personal information you provide through the Limelight Platform are subject at all times to this Privacy Policy and the Acceptable Use Policy.</p>
-<p><a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.limelightnetworks.com" target="_blank"><img style="border: none; padding-right: 10px; padding-bottom: 10px;" src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.limelightnetworks.com/seal.png" title="TRUSTe - Click to Verify" alt="TRUSTe - Click to verify" align="left"></a>Limelight Networks, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.limelightnetworks.com. Because Limelight wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
+<div style="float: left;" id="4ab98209-74ac-451e-91d0-867cb1cc3037">
+<script type="text/javascript" src="http://privacy-policy.truste.com/privacy-seal/Limelight-Networks,-Inc-/asc?rid=4ab98209-74ac-451e-91d0-867cb1cc3037"></script>
+<a href="http://privacy.truste.com/privacy-seal/Limelight-Networks,-Inc-/validation?rid=d9ce8b8a-dba1-41a7-9cdd-085b08d4f9b5" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none;" src="http://privacy-policy.truste.com/privacy-seal/Limelight-Networks,-Inc-/seal?rid=d9ce8b8a-dba1-41a7-9cdd-085b08d4f9b5" alt="TRUSTe European Safe Harbor certification"></a></div>
+<p>Limelight Networks, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.limelightnetworks.com. Because Limelight wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
 <p>If you have questions or concerns regarding this statement, you should first contact <a href="mailto:websupport@limelightnetworks.com">websupport@limelightnetworks.com</a>. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</p>
 <p>TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
-<p><a href="http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.limelightnetworks.com" target="_blank"><img style="border: none; padding-right: 10px; padding-bottom: 10px;" src="http://privacy-policy.truste.com/certified-seal/eusafe/en/www.limelightnetworks.com/seal.png" title="TRUSTe - EU Safe Harbor" alt="TRUSTe - EU Safe Harbor" align="left"></a>Limelight Networks, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.</p>
+<p><br>Limelight Networks, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.</p>
 <p>The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this web site.</p>
 <p>TABLE OF CONTENTS</p>
 <ol>
@@ -901,11 +982,10 @@
 <p></p>
 <p></p>
 <p></p>
-<p style="text-align: right;"><span style="font-size: x-small;"><em>V2.0 March 5_12</em></span></p></div>
+<p style="text-align: right;"><span style="font-size: x-small;"><em>V2.0 March 5_12</em></span></p>    </div>
     <div class="rightSidebar"></div>
     <br clear="all">
 </div>
-
 			<br clear="all" style="height: 1px;">
 		</div>
 		<!-- container -->
@@ -991,41 +1071,7 @@
 <!-- footer -->
 
 	<!-- [[[[/FOOTER]]]] -->
-	<!-- SiteCatalyst code version: H.17.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/assets/js/s_code.js"></script>
-<script type="text/javascript">    /*
-    Copyright 2010 Ben Griffith Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. 
-    */
-    (function (a) { a.fn.elqTrack = function (e, d) { if (typeof d == "undefined") { d = "" } if (typeof e == "undefined") { return false } var f = "v200"; var c = (document.location.protocol == "https:" ? "https://secure" : "http://now") + ".eloqua.com/visitor/" + f + "/svrGP.aspx"; var b = document.referrer != "" ? document.referrer : "elqNone"; this.each(function () { var g = this.href; if (g == "") { return false } a(this).click(function () { var i = new Date().getMilliseconds(); var h = c + "?pps=10&siteid=" + e + "&elq=" + d + "&ref=" + g + "&ref2=" + b + "&ms=" + i; a.ajax({ url: h, async: false, dataType: "script" }); return false }) }) }; a.elq = function (c) { var e = "v200"; var b = (document.location.protocol == "https:" ? "https://secure" : "http://now") + ".eloqua.com/visitor/" + e + "/svrGP.aspx"; var c = c; var d; this.pageTrack = function (h) { settings = a.extend({ url: "", success: "" }, h); var f = document.referrer != "" ? document.referrer : "elqNone"; var k = new Date(20020101).getTimezoneOffset(); var g = new Date().getMilliseconds(); if (settings.url != "") { var i = b + "?pps=31&siteid=" + c + "&ref=" + settings.url + "&ref2=" + f + "&tzo=" + k + "&ms=" + g; if (a("#elqFrame").length > 0) { a(j).load(function () { if (typeof settings.success == "function") { settings.success() } }); a("#elqFrame").attr("src", i) } else { var j = document.createElement("iframe"); j.style.display = "none"; j.id = "elqFrame"; a(j).load(function () { if (typeof settings.success == "function") { settings.success() } }); j.src = i; document.body.appendChild(j) } } else { var i = b + "?pps=3&siteid=" + c + "&ref2=" + f + "&tzo=" + k + "&ms=" + g; var l = new Image(1, 1); a(l).load(function () { if (typeof settings.success == "function") { settings.success() } }); l.src = i } }; this.getGUID = function (j) { var h = location.href; var g = new Date().getMilliseconds(); var f = b + "?pps=70&siteid=" + c + "&ref=" + h + "&ms=" + g; var i; a.ajax({ url: f, async: false, dataType: "script", success: function () { var k; if (typeof GetElqCustomerGUID == "function") { k = GetElqCustomerGUID() } else { return false } if (typeof j == "function") { j(k) } else { return false } } }) }; this.getData = function (g) { settings = a.extend({ key: "", lookup: "", success: "" }, g); if (settings.key != "") { var f = new Date().getMilliseconds(); var h = b + "?pps=50&siteid=" + c + "&DLKey=" + settings.key + "&DLLookup=" + settings.lookup + "&ms=" + f; a.ajax({ url: h, async: false, dataType: "script", success: function () { if (typeof settings.success == "function") { settings.success() } else { return false } } }) } }; this.redirect = function (h) { settings = a.extend({ url: "", elq: "" }, h); if (settings.url == "") { return false } var g = new Date().getMilliseconds(); var f = document.referrer != "" ? document.referrer : "elqNone"; var i = b + "?pps=10&siteid=" + c + "&elq=" + settings.elq + "&ref=" + settings.url + "&ref2=" + f + "&ms=" + g; a.ajax({ url: i, async: false, dataType: "script" }) } } })(jQuery);</script>
-
-<script language="JavaScript" type="text/javascript"><!--
-var elqTracker = new jQuery.elq(653);
-elqTracker.pageTrack({success: function() {
-    elqTracker.getGUID(function(guid) {
-        var exdays = 360;
-        var exdate = new Date();
-        exdate.setTime(exdate.getTime()+(exdays*24*60*60*1000));
-        document.cookie="ELOQUA="+guid+";expires="+exdate+";path=/;";
-    });
-}});
-/* You may give each page an identifying name, server, and channel on the next lines. */
-s.pageName = "us:privacy:home";
-s.prop2 = "us:privacy:home";
-s.channel = "us:privacy";
-s.prop1 = "us:privacy:home";
-s.prop12 = "us";
-s.prop3 = "us:privacy:home";
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-//TODO: uncoment out this line to make it work
-var s_code=s.t();if(s_code)document.write(s_code)//-->
-
-</script>
-<!-- End SiteCatalyst code version: H.17. -->
-
-<script type="text/javascript" language="JavaScript" src="/assets/js/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/assets/js/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=653&amp;ref2=elqNone&amp;tzo=0&amp;ms=362" border="0" width="1" height="1"></layer>
+	
 <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
 <script type="text/javascript">    __sfga();</script>
 <script type="text/javascript">
@@ -1041,11 +1087,27 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-
-
-
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('767-AQP-559');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = document.location.protocol + '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
 </script>
-
 
 
 </body></html>
