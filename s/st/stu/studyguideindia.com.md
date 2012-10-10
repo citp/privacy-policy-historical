@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the studyguideindia.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105233800id_/http%3A//www.studyguideindia.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyguideindia.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010073410id_/http%3A//www.studyguideindia.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# List of Colleges, Universities in India, Scholarships, Study Abroad, Online Exams, Career Option, Education Events.
+# Studyguideindia - Privacy Policy
 
-**Collection of your Personal Information**
+### Collection of your Personal Information
 
 We will ask you time to time to enter or update your personal information which identifies you or allows us to contact you to provide a service or carry out a transaction that you have requested. The service may include receiving information about **StudyGuideIndia.com** products and services, entering a contest, ordering e-mail newsletters, joining a limited-access premium site or service, signing up for an event or training, or when purchasing, downloading and/or registering **StudyGuideIndia.com** products. The personal information we collect may include your name, title, college, course,company or organization name, work e-mail, work phone, work or home address, information about your job function and information about your company.
 
@@ -12,7 +12,7 @@ Refer a Friend: You can choose the option to invite your friend(s) to **StudyGui
 
 **StudyGuideIndia.com** technical communities provide opportunities to interact with **StudyGuideIndia.com** employees, experts, and your peers in order to share knowledge and news about **StudyGuideIndia.com** products and related technologies. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, **StudyGuideIndia.com** advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums.
 
-**Use of your Personal Information:**
+### Use of your Personal Information:
 
 The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
 
@@ -32,7 +32,7 @@ Some services on **StudyGuideIndia.com** offer individuals the ability to public
 
 Personal information collected on the Site may be stored and processed in India or any other country in which **StudyGuideIndia.com** or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
 
-**Control of your Personal Information:**
+### Control of your Personal Information:
 
 Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of **StudyGuideIndia.com** and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
 
@@ -40,11 +40,11 @@ Please be aware that this privacy statement and any choices you make on the Site
 
 **StudyGuideIndia.com** may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by **StudyGuideIndia.com** , contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen.
 
-**Security of your Personal Information:**
+### Security of your Personal Information:
 
 **StudyGuideIndia.com** is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that is located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-**Acceptance of Terms/Changes to our Privacy Policy:**
+### Acceptance of Terms/Changes to our Privacy Policy:
 
 Using **StudyGuideIndia.com** will assume that you accept the privacy policy of this site. When we use any third party for any affiliated service, the third party privacy policy also applicable to you by using this site.
 
