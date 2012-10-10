@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512122441id_/http%3A//www.cipd.co.uk/absite/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010082944id_/http%3A//www.cipd.co.uk/absite/privacy.htm) for the most accurate reproduction.*
 
 # CIPD - Privacy policy
 
@@ -35,6 +35,7 @@
   5. advising you of other products and services which may be of interest 
   6. inviting you to participate in research studies and/or market research activities 
   7. compiling case studies in relation to the purpose for which the information was submitted (eg. awards nominations), or otherwise in an anonymised format unless otherwise expressly notified to you in advance 
+  8. responding to queries from members of the public about your membership status
 
 
 
