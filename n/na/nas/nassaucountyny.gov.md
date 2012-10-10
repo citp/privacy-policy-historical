@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nassaucountyny.gov privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528004552id_/http%3A//www.nassaucountyny.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nassaucountyny.gov privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010124026id_/http%3A//www.nassaucountyny.gov/privacy.html) for the most accurate reproduction.*
 
 # 
 
