@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623211231id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010224903id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Filmmakers, Film Industry, Film Festivals, Awards & Movie Reviews | Indiewire
 
