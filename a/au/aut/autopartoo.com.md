@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autopartoo.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507134825id_/http%3A//www.autopartoo.com/help/rule_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopartoo.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010233242id_/http%3A//www.autopartoo.com/help/rule_privacy_policy.html) for the most accurate reproduction.*
 
 # Display products
 
