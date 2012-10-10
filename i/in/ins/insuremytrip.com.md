@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623203148id_/http%3A//www.insuremytrip.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010105643id_/http%3A//www.insuremytrip.com/about/privacy.html) for the most accurate reproduction.*
 
 # InsureMyTrip.com | About Us | Privacy Policy
 
