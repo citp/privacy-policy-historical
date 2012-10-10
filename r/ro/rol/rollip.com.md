@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512113618id_/http%3A//www.rollip.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010063612id_/http%3A//www.rollip.com/privacy) for the most accurate reproduction.*
 
 # Rollip - Online Photo Effects
+
+For users who might be concerned about losing rights on the images uploaded to our site: **You retain ownership of all images uploaded to Rollip**. We do not 'grab' the ownership from you; what is yours will stay yours. 
+
+Rollip respects your privacy and works hard to protect your personal information. We want you to understand how we may collect, store, use and protect any personal information. We will not share your information with anyone except as described in this Privacy Policy. When you downloaded our software in order to use our services you agreed to accept this policy. We may change this policy at any time. We will post notifications of revised versions of our policy on our website, and revised policies will be immediately effective. Throughout this Privacy Policy, we will refer to our website, software, and services collectively as the “Service.” Please note, this Privacy Policy does not apply to information we collect by other means than your use of the Service (including offline) or from other sources.
 
 ### What information do we collect?
 
@@ -55,7 +59,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by contact us using the webpage available at <http://www.rollip.com/contact/new>
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by contact us using the webpage available at <http://www.rollip.com/contact>
 
 ### Visitors Under Age 13
 
@@ -81,7 +85,7 @@ This policy was last modified on **May 22, 2010**
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at the webpage available at <http://www.rollip.com/contact/new>
+If there are any questions regarding this privacy policy you may contact us at the webpage available at <http://www.rollip.com/contact>
 
 ### Privacy Policy Customer Pledge
 
