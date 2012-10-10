@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zeen.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611002225id_/http%3A//zeen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeen.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010220022id_/http%3A//zeen.com/privacy) for the most accurate reproduction.*
 
 # Zeen | Privacy Policy
 
-## Last Updated: April 4, 2012
+## Last Updated: July 12, 2012
 
 AVOS Systems, Inc. ( **“AVOS”** , **“our”** , **“us”** or **“we”** ) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [zeen.com](http://zeen.com/) and any other domains owned and controlled by AVOS through which the Zeen service is accessible (collectively, the **“Site”** ) and, if available, any bookmarklet extension for your internet browser (the **“Zeen Bookmarklet”** ) (any and all of the foregoing, the “Service”). This Privacy Policy applies only to information that you provide to us through the Service.  When using our Service you consent to the collection, disclosure, transfer, processing, storage and other uses of your information as described in this Privacy Policy.
 
@@ -72,6 +72,6 @@ This Service is not directed to children under 13.  We do not knowingly collect
 
 ### Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at support@zeen.com.
+If you have any questions about this Privacy Policy, please contact us at [support@zeen.com](mailto:support@zeen.com).
 
 _Archive of Previous Privacy Policy: No Previous Zeen Privacy Policies_
