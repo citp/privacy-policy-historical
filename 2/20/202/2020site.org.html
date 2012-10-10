@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 2020site.org privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626001704id_/http%3A//www.2020site.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2020site.org privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010063215id_/http%3A//www.2020site.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="alternate" type="application/rss+xml" title="2020 Site RSS" href="http://www.2020site.org/rss.php">
@@ -20,6 +20,95 @@
 <div id="page">
 	<div id="head">  <a href="/"><img src="/images/common/blank.gif" id="homelink"></a> 
     	<div id="artTitle"><link rel="stylesheet" type="text/css" href="../2020_custom.css"> 
+
+<style>
+/* div container containing the form  */
+#searchContainer {
+	margin:10px;
+}
+
+/* Style the search input field. */
+#field {
+	float:left;
+	width:300px;
+	height:20px;
+	line-height:18px;
+	text-indent:10px;
+	font-family:arial, sans-serif;
+	font-size:1em;
+	color:#333;
+	background: #fff;
+	border:solid 1px #d9d9d9;
+	border-top:solid 1px #c0c0c0;
+	border-right:none;
+}
+
+/* Style the "X" text button next to the search input field */
+#delete {
+	float:left;
+	width:16px;
+	height:22px;
+	line-height:18px;
+	margin-right:15px;
+	padding:0 8px 0 8px;
+	font-family: "Lucida Sans", "Lucida Sans Unicode",sans-serif;
+	font-size:22px;
+	background: #fff;
+	border:solid 1px #d9d9d9;
+	border-top:solid 1px #c0c0c0;
+	border-left:none;
+}
+/* Set default state of "X" and hide it */
+#delete #x {
+	color:#A1B9ED;
+	cursor:pointer;
+	display:none;
+	
+}
+/* Set the hover state of "X" */
+#delete #x:hover {
+	color:#36c;
+	
+}
+/* Syle the search button. Settings of line-height, font-size, text-indent used to hide submit value in IE */
+#submit {
+	cursor:pointer;
+	width:70px;
+	height: 22px;
+	line-height:0;
+	font-size:0;
+	text-indent:-999px;
+	color: transparent;
+	background: url(http://www.2020site.org/ico-search.png) no-repeat #4d90fe center;
+	border: 1px solid #3079ED;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+/* Style the search button hover state */
+#submit:hover {
+	background: url(ico-search.png) no-repeat center #357AE8;
+	border: 1px solid #2F5BB7;
+}
+/* Clear floats */
+.fclear {clear:both}
+</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.1.min.js"></script>
+<script type="text/javascript">
+$().ready(function() {
+	// if text input field value is not empty show the "X" button
+	$("#field").keyup(function() {
+		$("#x").fadeIn();
+		if ($.trim($("#field").val()) == "") {
+			$("#x").fadeOut();
+		}
+	});
+	// on click of "X", delete input field value and hide "X"
+	$("#x").click(function() {
+		$("#field").val("");
+		$(this).hide();
+	});
+});
+</script>
 <!--[if IE 6]>
 <link rel='stylesheet' type='text/css' href='../2020_custom-IE6.css' />  
 <![endif]-->
@@ -32,9 +121,12 @@
 </style>
 <![endif]-->
 <table><tbody><tr valign="middle"><td class="padding">  
-<div id="searchbox">  
-<script type="text/javascript" src="http://www.lijit.com/wijitinit?uri=http%3A%2F%2Fwww.lijit.com%2Fusers%2F2020&amp;js=1"></script>  
-<script type="text/javascript" src="../lwp_hide_2020.js"></script></div></td>  
+
+<form method="get" action="/googletest.html">
+		<input type="text" name="q" id="field" onblur="if(this.value == '') { this.value='Google Search'}" onfocus="if (this.value == 'Google Search') {this.value=''}" value="Google Search">
+		<div id="delete"><span id="x">x</span></div>
+		<input type="submit" name="submit" id="submit" value="Search">
+</form></td>  
 <td><a id="rssButton" href="/rss.php"><img border="0" src="../2020-rss-button.gif"></a></td>  
 </tr></tbody></table> 
  </div><div id="crumbs">
@@ -46,7 +138,8 @@
         <div id="leftnav">
         	<div id="lTop">Learn more</div>
             <div id="lContent">
-            	<ul id="statictree"><li><a href="/wedding/">Weddings</a></li><li><a href="/knots/">Knots</a></li><li><a href="/trees/">Trees</a></li><li><a href="/riddles/">Riddles</a></li><li><a href="/fun-facts/">Fun Facts</a></li><li><a href="/templates/">Templates</a></li><li><a href="/heraldry/">Family Crests</a></li><li><a href="/hamsters/">Hamsters</a></li><li><a href="/robbinhood/">Adventure Stories</a></li><li><a href="/rome/">Rome</a></li></ul>            </div>
+            	<ul id="statictree"><li><a href="/wedding/">Wedding Invitation Wording</a></li><li><a href="/knots/">Knots</a></li><li><a href="/trees/">Trees</a></li><li><a href="/riddles/">Riddles</a></li><li><a href="/fun-facts/">Fun Facts</a></li><li><a href="/templates/">Templates</a></li><li><a href="/heraldry/">Family Crests</a></li><li><a href="/hamsters/">Hamsters</a></li><li><a href="/robbinhood/">Adventure Stories</a></li><li><a href="/rome/">Rome</a></li></ul>
+            </div>
             <div id="lBottom"></div>
         </div>
         <div id="cont">
