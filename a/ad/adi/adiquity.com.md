@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adiquity.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013346id_/http%3A//adiquity.com/%3Fpage_id%3D382) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adiquity.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010120643id_/http%3A//adiquity.com/%3Fpage_id%3D382) for the most accurate reproduction.*
 
-# Privacy Policy AdIQuity
+# Privacy Policy - AdIQuity | AdIQuity
 
 **Privacy Policy**
 
-AdIQuity.com is a property of Guruji.com Software Private Ltd. (“Guruji.com”), and is a technology platform for simplifying publishing and advertising on mobile. This Privacy Policy applies to all the online services provided by Guruji.com, including those on AdIQuity.com. This Privacy Policy describes our practices with respect to you or your company’s personally identifiable information. This Privacy Policy sets forth the types of personal information collected by us, how we collect and use it and with whom, if anyone, user information is shared. You are advised to please read the policy. By accessing the services provided by AdIQuity.com, you agree to the collection and use of your data by Guruji.com in the manner provided in this policy.
+AdIQuity.com is a property of Guruji.com Software Private Ltd. (“Guruji.com”), and is a technology platform for simplifying publishing and advertising on mobile. This Privacy Policy applies to all the online services provided by Guruji.com, including those on AdIQuity.com. This Privacy Policy describes our practices with respect to you or your [company](http://adiquity.com/?page_id=15 "company")’s personally identifiable information. This Privacy Policy sets forth the types of personal information collected by us, how we collect and use it and with whom, if anyone, user information is shared. You are advised to please read the policy. By accessing the services provided by AdIQuity.com, you agree to the collection and use of your data by Guruji.com in the manner provided in this policy.
 
 The policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by AdIQuity.com or to the people that are not engaged, employed or managed by AdIQuity.com.
 
