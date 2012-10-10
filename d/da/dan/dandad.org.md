@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613203031id_/http%3A//www.dandad.org/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010190846id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -51,10 +51,10 @@ In addition, our web servers are housed behind a secure firewall that prevents a
 For the purposes of the Data Protection Act (1998), the controller of all information collected on this website is:
 
 D&AD  
-9 Graphite Square  
-Vauxhall Walk  
+Britannia House  
+68 - 80 Hanbury Street  
 London  
-SE11 5EE
+E1 5JL
 
 If you wish to view, delete or amend any of the information we hold on you, this can be done by contacting us through the web site, or by writing to us at the address provided above. We will not charge for amending or deleting personal information, but may charge for viewing information held on you as specified in the Data Protection Act (1998).
 
