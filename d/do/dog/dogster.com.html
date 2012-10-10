@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dogster.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505061222id_/http%3A//www.dogster.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dogster.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010102712id_/http%3A//www.dogster.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -28,7 +28,7 @@
                 return null;
             }
         })
-        .script("http://a1.cdnsters.com/releases/20120313-1557/resc_cdn/common_js.min.js").wait(function(){
+        .script("http://a1.cdnsters.com/releases/20120815-1015/resc_cdn/common_js.min.js").wait(function(){
         if(fb_enabled == '1'){
             facebook.init(124416164846);
             var fb_id = '';
@@ -55,26 +55,24 @@ function repositionPromoImages() {
 </script>
 
     
-    <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120313-1557/resc_cdn/reset-dsterText-960-jquery.min.css" type="text/css" media="screen, print" charset="utf-8">
+    <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120815-1015/resc_cdn/reset-dsterText-960-jquery.min.css" type="text/css" media="screen, print" charset="utf-8">
     
-    <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120313-1557/resc_cdn/2colster-d.min.css" type="text/css" media="screen, print" charset="utf-8">
-    
-    <link rel="stylesheet" href="http://files.dogster.com/dcmag/dmg-style.css" type="text/css" media="screen, print" charset="utf-8">
+    <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120815-1015/resc_cdn/2colster-d.min.css" type="text/css" media="screen, print" charset="utf-8">
     
     
     
     
     <!--[if IE]>
-        <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120313-1557/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
+        <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120815-1015/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
     <![endif]-->
     
     <!--[if lt IE 7]>
-        <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120313-1557/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
+        <link rel="stylesheet" href="http://a1.cdnsters.com/releases/20120815-1015/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
         
         <script type="text/javascript">
         $LAB
-        .script("http://a1.cdnsters.com/releases/20120313-1557/layouts/fullwidth/js/DD_belatedPNG_0.0.8a-min.min.js")
-        .script("http://a1.cdnsters.com/releases/20120313-1557/layouts/fullwidth/js/pngfix.min.js");
+        .script("http://a1.cdnsters.com/releases/20120815-1015/layouts/fullwidth/js/DD_belatedPNG_0.0.8a-min.min.js")
+        .script("http://a1.cdnsters.com/releases/20120815-1015/layouts/fullwidth/js/pngfix.min.js");
         </script>
     <![endif]-->
     
@@ -153,7 +151,6 @@ function repositionPromoImages() {
 					<a class="dmg-mail" href="/newsletters/">Contact Us</a>
 				</div>
 				
-				
 				<script type="text/javascript">
 					$(function() {
 						$('.dmg-gplus').hover(function(e){
@@ -175,7 +172,20 @@ function repositionPromoImages() {
 						});
 					});
 				</script>
-				
+				<script>
+					try {
+						$j(function() {
+							$j('.dmg-gplus').hover(function(e){ $j('.dmg-gplus-hover').show(); $j(this).remove(); });
+						});
+						$j(function() {
+							$j('.dmg-fb').hover(function(e){ $j('.dmg-fb-hover').show(); $j(this).remove(); });
+						});
+						$j(function() {
+							$j('.dmg-twtr-hover').hide();
+							$j('.dmg-twtr').hover(function(e){ $j('.dmg-twtr-hover').show(); $j('.dmg-twtr').remove(); });
+						});
+					} catch(e) {}
+				</script>
 	        </div>
 	    </div>
 	
@@ -187,9 +197,9 @@ function repositionPromoImages() {
   
   <div class="pane-content">
     <div class="coverline">
-	<a href="/lifestyle/i-rescued-my-dog-from-druggies-in-scotland">
-				<span class="dmg-img"><img src="http://www.dogster.com/files/styles/70_80sc/public/fields/sally.png" alt=""></span>
-		<span class="dmg-text">confessions<em>I Rescued My Dog from Druggies in Scotland</em></span>
+	<a href="/the-scoop/michael-vick-new-dog-twitter" onclick="trackEvent(this,'Dogster header','click','Coverlines');return false;">
+				<span class="dmg-img"><img src="http://www.dogster.com/files/styles/70_80sc/public/fields/dog2222.png" alt=""></span>
+		<span class="dmg-text">Dogster Debate<em>Does Michael Vick Already Secretly Have a New Dog?</em></span>
 	</a>
 </div>  </div>
 
@@ -197,14 +207,14 @@ function repositionPromoImages() {
   </div>
 	    	</div>
 	    	
-	        <a href="/"><h1 id="dmg-logo-large">Dogster</h1></a>
+	        <a href="/" onclick="trackEvent(this,'Dogster header','click','Main Logo');return false;"><h1 id="dmg-logo-large">Dogster</h1></a>
 	        
 	        <div id="dmg-search">
 	        	<form action="/search/" method="GET">
 	        		<input type="hidden" value="partner-pub-4825131360774708:e3pun6vlxz3" name="cx">
 					<input type="hidden" value="FORID:9" name="cof">
-	        		<input name="as_q" id="dmg-search-submit-text" type="text" value="" placeholder="Search!">
-	        		<input type="submit" id="dmg-search-submit-btn" value="">
+	        		<input name="as_q" id="dmg-search-submit-text" type="text" value="" placeholder="Search!" onchange="trackEvent(this,'Dogster search','Search Typing',this.value);return false;">
+	        		<input type="submit" id="dmg-search-submit-btn" value="" onclick="trackEvent(this,'Dogster search','Search',this.form.as_q.value);return false;">
 	        	</form>
 	        </div>
 	    </div>
@@ -223,25 +233,25 @@ function repositionPromoImages() {
     <div class="subMenuItem column-left">
     	<ul>
        		<li>
-       			<a href="/lifestyle/">
+       			<a href="/lifestyle/" onclick="trackEvent(this,'Dogster header','click','Lifestyle');return false;">
                 	<p class="subMenu-title">Lifestyle</p>
                 	<p class="subMenu-text">Your Dog, Your Life</p>
                 </a>
         	</li>
-       		<li>
-       			<a href="/the-scoop/">
+       		<li> 
+       			<a href="/the-scoop/" onclick="trackEvent(this,'Dogster header','click','The Scoop');return false;">
 			        <p class="subMenu-title">The Scoop</p>
 			        <p class="subMenu-text">Dog News, Politics</p>
 			    </a>
         	</li>
        		<li>
-    		    <a href="/BOLz/">
+    		    <a href="/BOLz/" onclick="trackEvent(this,'Dogster header','click','BOLz');return false;">
 			    	<p class="subMenu-title">BOLz</p>
 			    	<p class="subMenu-text">Bark-Out-Loud Humor</p>
 		    	</a>
         	</li>
             <li>
-            	<a href="/doggie-style/">
+            	<a href="/doggie-style/" onclick="trackEvent(this,'Dogster header','click','Doggie Style');return false;">
                 	<p class="subMenu-title">Doggie Style</p>
                 	<p class="subMenu-text">Gear and Glam</p>
                 </a>
@@ -251,31 +261,31 @@ function repositionPromoImages() {
     <div class="subMenuItem column-right">
     	<div class="nav-label">Top Stories</div>
 	    	<ul>
-	    			        		<li>
-	        			<a href="/lifestyle/asthma-puffers-can-be-deadly-for-dogs">Ask a Vet: Can Asthma Puffers Be Deadly for Dogs?</a>
+	    			    			    				        		<li>
+	        			<a rel="author" href="/lifestyle/national-pit-bull-awareness-month-why-it-matters" onclick="trackEvent(this,'Dogster header','click','Top Story 1');return false;">Why National Pit Bull Awareness Month Matters</a>
 	        			<div class="dmg-meta">
 		    					    				<span class="dmg-author">
-		    					<a href="/author/drbarchas">Dr. Eric Barchas</a>&nbsp;|
+		    					<a el="author" href="/author/julia-szabo" onclick="trackEvent(this,'Dogster header','click','Top Story 1 Author');return false;">Julia Szabo</a>&nbsp;|
 		    				</span>
-		    					    				<span class="dmg-comments"><a href="/lifestyle/asthma-puffers-can-be-deadly-for-dogs#comments"><img alt="" src="/static/208b9b4655f0e66b643d33fa490147af26773fcf/images/icons/icon-comment-gry.png">1</a></span>
+		    					    				<span class="dmg-comments"><a href="/lifestyle/national-pit-bull-awareness-month-why-it-matters#comments" onclick="trackEvent(this,'Dogster header','click','Top Story 1 Comments');return false;"><img alt="" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/icon-comment-gry.png">0</a></span>
 		  				</div>
 	        		</li>
-	        		        		<li>
-	        			<a href="/bolz/viral-video-we-love-dog-guards-bike-then-goes-for-a-ride">Bicycle Commuters! Wouldn't You Love a Canine Bike Body Guard?</a>
+	        		    				        		<li>
+	        			<a rel="author" href="/lifestyle/a-dog-named-boo-book-lisa-edwards-contest" onclick="trackEvent(this,'Dogster header','click','Top Story 2');return false;">Win a Copy of Lisa Edwards' Book, "A Dog Named Boo"</a>
 	        			<div class="dmg-meta">
 		    					    				<span class="dmg-author">
-		    					<a href="/author/liz">Liz Acosta</a>&nbsp;|
+		    					<a el="author" href="/author/lisa-edwards" onclick="trackEvent(this,'Dogster header','click','Top Story 2 Author');return false;">Lisa Edwards</a>&nbsp;|
 		    				</span>
-		    					    				<span class="dmg-comments"><a href="/bolz/viral-video-we-love-dog-guards-bike-then-goes-for-a-ride#comments"><img alt="" src="/static/208b9b4655f0e66b643d33fa490147af26773fcf/images/icons/icon-comment-gry.png">2</a></span>
+		    					    				<span class="dmg-comments"><a href="/lifestyle/a-dog-named-boo-book-lisa-edwards-contest#comments" onclick="trackEvent(this,'Dogster header','click','Top Story 2 Comments');return false;"><img alt="" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/icon-comment-gry.png">4</a></span>
 		  				</div>
 	        		</li>
-	        		        		<li>
-	        			<a href="/the-scoop/save-our-waterways-unscooped-dog-poop-pollutes">Save Our Waterways! Unscooped Dog Poop Pollutes! </a>
+	        		    				        		<li>
+	        			<a rel="author" href="/doggie-style/dog-is-good-pop-art-dog-ladies" onclick="trackEvent(this,'Dogster header','click','Top Story 3');return false;">What We're Obsessed With: Pop Art Dog Ladies from Dog Is Good</a>
 	        			<div class="dmg-meta">
 		    					    				<span class="dmg-author">
-		    					<a href="/author/arufus">Anneli Rufus</a>&nbsp;|
+		    					<a el="author" href="/author/janine" onclick="trackEvent(this,'Dogster header','click','Top Story 3 Author');return false;">Janine Kahn</a>&nbsp;|
 		    				</span>
-		    					    				<span class="dmg-comments"><a href="/the-scoop/save-our-waterways-unscooped-dog-poop-pollutes#comments"><img alt="" src="/static/208b9b4655f0e66b643d33fa490147af26773fcf/images/icons/icon-comment-gry.png">4</a></span>
+		    					    				<span class="dmg-comments"><a href="/doggie-style/dog-is-good-pop-art-dog-ladies#comments" onclick="trackEvent(this,'Dogster header','click','Top Story 3 Comments');return false;"><img alt="" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/icon-comment-gry.png">0</a></span>
 		  				</div>
 	        		</li>
 	        		        </ul>
@@ -297,13 +307,13 @@ function repositionPromoImages() {
     <div class="sub vid">
     <div class="subMenuItem column-left">
     <div class="nav-label">The Dog Show</div>
-        <ul>
+        <ul id="main-dog-show">
         	<li>
-				<a class="dmg-featured-vid" href="/video/the-dog-show-whos-your-mama" title="The Dog Show: Who's Your Mama?"><img src="http://www.dogster.com/files/styles/260_146sc/public/fields/blackdog.jpg"></a>
-				<a href="/video/the-dog-show-whos-your-mama">The Dog Show: Who's Your Mama?</a>
+				<a class="dmg-featured-vid" href="/video/the-ultimate-dog-tease-spoof" title="The Ultimate Dog Tease: Dog Report-Style" onclick="trackEvent(this,'Dogster header','click','The Dog Show');return false;"><img src="http://www.dogster.com/files/styles/260_146sc/public/fields/dog-tease.jpg"><img id="play-icon" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/video-PlayBtn.png"></a>
+				<a href="/video/the-ultimate-dog-tease-spoof" onclick="trackEvent(this,'Dogster header','click','The Dog Show');return false;">The Ultimate Dog Tease: Dog Report-Style</a>
 				<div class="dmg-meta">
-            		<p class="subMenu-text">This week on The Dog Show, Ted shows us that dogs will play mother to almost any creature.</p>
-		    		<span class="dmg-comments"><a href="/video/the-dog-show-whos-your-mama"><img alt="" src="/static/208b9b4655f0e66b643d33fa490147af26773fcf/images/icons/icon-comment-gry.png">&nbsp;6</a></span>
+            		<p class="subMenu-text">Dogster's The Dog Report spoofs The Ultimate Dog Tease video.</p>
+		    		<span class="dmg-comments"><a href="/video/the-ultimate-dog-tease-spoof" onclick="trackEvent(this,'Dogster header','click','The Dog Show Comments');return false;"><img alt="" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/icon-comment-gry.png">&nbsp;0</a></span>
 		    	</div>
         	</li>
     	</ul>
@@ -313,30 +323,30 @@ function repositionPromoImages() {
 		<ul>
 			<li>
 				<div class="dmg-vid-img">
-					<a href="/video/the-dog-show-puppies-babies-and-painting-with-dogs" title="The Dog Show: Puppies, Babies and Painting with Dogs"><img src="http://www.dogster.com/files/styles/120_70sc/public/fields/ted_ian.jpg"></a>
+					<a href="/video/foxtails-dog-report" title="And Now, a Word on Foxtails from The Dog Report" onclick="trackEvent(this,'Dogster header','click','More Videos 1');return false;"><img src="http://www.dogster.com/files/styles/120_70sc/public/fields/arf.jpg"><img id="play-icon-small" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/video-PlayBtn.png"></a>
 				</div>
 				<div class="dmg-vid-descr">
-		        	<a href="/video/the-dog-show-puppies-babies-and-painting-with-dogs">The Dog Show: Puppies, Babies and Painting with Dogs</a>
+		        	<a href="/video/foxtails-dog-report" onclick="trackEvent(this,'Dogster header','click','More Videos 1');return false;">And Now, a Word on Foxtails from The Dog Report</a>
 		        	<div class="dmg-meta">
 			    		<span class="dmg-timestamp">
-			    			Posted on: April 25, 2012&nbsp;|
+			    			Posted on: July 11, 2012&nbsp;|
 			    		</span>
-			    		<span class="dmg-comments"><a href="/video/the-dog-show-puppies-babies-and-painting-with-dogs"><img alt="" src="/static/208b9b4655f0e66b643d33fa490147af26773fcf/images/icons/icon-comment-gry.png">&nbsp;2</a></span>
+			    		<span class="dmg-comments"><a href="/video/foxtails-dog-report" onclick="trackEvent(this,'Dogster header','click','More Videos 1');return false;"><img alt="" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/icon-comment-gry.png">&nbsp;1</a></span>
 			    		
 			  		</div>
 		  		</div>
 	        </li>
 						<li>
 				<div class="dmg-vid-img">
-					<a href="/video/the-dog-show-making-faces-and-couples-therapy" title="The Dog Show: Making Faces and Couples' Therapy"><img src="http://www.dogster.com/files/styles/120_70sc/public/fields/small_janine.jpg"></a>
+					<a href="/video/the-dog-report" title="It's Here: Watch &quot;The Dog Report,&quot; a Dogster Original Mini-Series" onclick="trackEvent(this,'Dogster header','click','More Videos 2');return false;"><img src="http://www.dogster.com/files/styles/120_70sc/public/fields/ted-arf-small.jpg"><img id="play-icon-small" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/video-PlayBtn.png"></a>
 				</div>
 				<div class="dmg-vid-descr">
-		        	<a href="/video/the-dog-show-making-faces-and-couples-therapy">The Dog Show: Making Faces and Couples' Therapy</a>
+		        	<a href="/video/the-dog-report" onclick="trackEvent(this,'Dogster header','click','More Videos 2');return false;">It's Here: Watch "The Dog Report," a Dogster Original Mini-Series</a>
 		        	<div class="dmg-meta">
 			    		<span class="dmg-timestamp">
-			    			Posted on: April 18, 2012&nbsp;|
+			    			Posted on: July 10, 2012&nbsp;|
 			    		</span>
-			    		<span class="dmg-comments"><a href="/video/the-dog-show-puppies-babies-and-painting-with-dogs"><img alt="" src="/static/208b9b4655f0e66b643d33fa490147af26773fcf/images/icons/icon-comment-gry.png">&nbsp;8</a></span>
+			    		<span class="dmg-comments"><a href="/video/foxtails-dog-report" onclick="trackEvent(this,'Dogster header','click','More Videos 2');return false;"><img alt="" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/icon-comment-gry.png">&nbsp;4</a></span>
 			    		
 			  		</div>
 		  		</div>
@@ -344,15 +354,15 @@ function repositionPromoImages() {
 	        	        
 	        	        <li>
 				<div class="dmg-vid-img">
-					<a href="/video/the-dog-show-leash-or-no-leash-also-dog-fishing" title="The Dog Show: Leash or No Leash? Also: Dog Fishing!"><img src="http://www.dogster.com/files/styles/120_70sc/public/fields/janine_dog_fishing.jpg"></a>
+					<a href="/video/the-dog-show-whos-your-mama" title="The Dog Show: Who's Your Mama?" onclick="trackEvent(this,'Dogster header','click','More Videos 3');return false;"><img src="http://www.dogster.com/files/styles/120_70sc/public/fields/blackdog.jpg"><img id="play-icon-small" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/video-PlayBtn.png"></a>
 				</div>
 				<div class="dmg-vid-descr">
-		        	<a href="/video/the-dog-show-leash-or-no-leash-also-dog-fishing">The Dog Show: Leash or No Leash? Also: Dog Fishing!</a>
+		        	<a href="/video/the-dog-show-whos-your-mama" onclick="trackEvent(this,'Dogster header','click','More Videos 3');return false;">The Dog Show: Who's Your Mama?</a>
 		        	<div class="dmg-meta">
 			    		<span class="dmg-timestamp">
-			    			Posted on: April 11, 2012&nbsp;|
+			    			Posted on: May 2, 2012&nbsp;|
 			    		</span>
-			    		<span class="dmg-comments"><a href="/video/the-dog-show-puppies-babies-and-painting-with-dogs"><img alt="" src="/static/208b9b4655f0e66b643d33fa490147af26773fcf/images/icons/icon-comment-gry.png">&nbsp;9</a></span>
+			    		<span class="dmg-comments"><a href="/video/foxtails-dog-report" onclick="trackEvent(this,'Dogster header','click','More Videos 3');return false;"><img alt="" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/icons/icon-comment-gry.png">&nbsp;9</a></span>
 			    		
 			  		</div>
 		  		</div>
@@ -381,17 +391,17 @@ function repositionPromoImages() {
     <div class="subMenuItem column-left">
         <ul>
         	<li>
-        		<a href="/dog-breeds/">
+        		<a href="/dog-breeds/" onclick="trackEvent(this,'Dogster header','click','Dog Breeds');return false;">
                 	<p class="subMenu-title">Dog Breeds</p>
             	</a>
             </li>
 			<li>
-	        	<a href="/puppies/">
+	        	<a href="/puppies/" onclick="trackEvent(this,'Dogster header','click','Puppies');return false;">
 	                <p class="subMenu-title">Puppies</p>
 	           	</a>
         	</li>
         	<li>
-        		<a href="/dog-food/">
+        		<a href="/dog-food/" onclick="trackEvent(this,'Dogster header','click','Food &amp; Treats');return false;">
                 	<p class="subMenu-title">Foods &amp; Treats</p>
             	</a>
             </li>
@@ -400,15 +410,20 @@ function repositionPromoImages() {
     <div class="subMenuItem column-right">
     	<ul>
     		<li>
-	        	<a href="/dog-health-care/">
+	        	<a href="/dog-health-care/" onclick="trackEvent(this,'Dogster header','click','Health &amp; Care');return false;">
 	                <p class="subMenu-title">Health &amp; Care</p>
 	            </a>
         	</li>
            	<li>
-        		<a href="/dog-training/">
+        		<a href="/dog-training/" onclick="trackEvent(this,'Dogster header','click','Dog Training');return false;">
                 	<p class="subMenu-title">Behavior &amp; Training</p>
             	</a>
-       		</li>         
+       		</li>  
+       		<li>
+        		<a href="/dogs-and-cleaning/" onclick="trackEvent(this,'Dogster header','click','Dog Cleaning');return false;">
+                	<p class="subMenu-title">Dogs &amp; Cleaning</p>
+            	</a>
+       		</li>        
         </ul>
     </div><!--closes subMenuItem-->
 
@@ -419,19 +434,19 @@ function repositionPromoImages() {
 	            </li>
 	            
 	            <li>
-	                <a href="/answers/">Answers</a>
+	                <a href="/answers/" onclick="trackEvent(this,'Dogster header','click','Answers');return false;">Answers</a>
 	            </li>
 	            
 	            <li>
-	                <a href="/dog-pictures/">Galleries</a>
+	                <a href="/dog-pictures/" onclick="trackEvent(this,'Dogster header','click','Dog Pictures');return false;">Galleries</a>
 	            </li>
 	            
 	            <li class="last-menu">
-	                <a href="/dog-adoption/">Adoption</a>
+	                <a href="/dog-adoption/" onclick="trackEvent(this,'Dogster header','click','Adoption');return false;">Adoption</a>
 	            </li>
 	            
 	            <li class="last community">
-	            	<a href="/dog-community/">Community</a>
+	            	<a href="/dog-community/" onclick="trackEvent(this,'Dogster header','click','Community');return false;">Community</a>
 	                <div class="panel-pane pane-orion-blocks pane-blocks-nav-community-html" id="nav_community-0">
   
       
@@ -445,38 +460,38 @@ function repositionPromoImages() {
             	<p class="top">Dog of the Day</p>
             	
 	            <span class="subMenu-img">
-	                <a href="/dogs/647566"><img src="http://s3.amazonaws.com/sters.com/static/resizer/647566_1333833013_180x180.jpg"></a>
+	                <a href="/dogs/1021351" onclick="trackEvent(this,'Dogster header','click','Dog of the Day');return false;"><img src="http://s3.amazonaws.com/sters.com/static/resizer/1021351_1249696351_180x180.jpg"></a>
 	            </span>
 	            
-	            <a href="/dogs/647566">
-		            <p class="potd-name">Chico</p>
-		            <p class="potd-stats">9-year-old Male</p>
-		            <p class="potd-stats"><em>Fort Worth, TX</em></p>
+	            <a href="/dogs/1021351" onclick="trackEvent(this,'Dogster header','click','Dog of the Day');return false;">
+		            <p class="potd-name">Zoe </p>
+		            <p class="potd-stats">3-year-old Female</p>
+		            <p class="potd-stats"><em>Milpitas, CA</em></p>
 		        </a>
             </div>
         </div><!--closes column-3-->    
         
  		<div class="column-3 comm-menuList comm-border">
             <ul>
-                <li><a href="/dog-community/">Community Homepage</a></li>
-                <li><a href="/group/">Groups</a></li>
-                <li><a href="/forums/">Forums</a></li>
-                <li><a href="/answers/">Answers</a></li>
-                <li><a href="/local/">Local Listings</a></li>
-                <li><a href="/games/">Game Center</a></li>
-                <li><a href="/diary/dcentral.php">Diary Central</a></li>
+                <li><a href="/dog-community/" onclick="trackEvent(this,'Dogster header','click','Community Homepage');return false;">Community Homepage</a></li>
+                <li><a href="/group/" onclick="trackEvent(this,'Dogster header','click','Groups');return false;">Groups</a></li>
+                <li><a href="/forums/" onclick="trackEvent(this,'Dogster header','click','Forums');return false;">Forums</a></li>
+                <li><a href="/answers/" onclick="trackEvent(this,'Dogster header','click','Answers-Community Tab');return false;">Answers</a></li>
+                <li><a href="/local/" onclick="trackEvent(this,'Dogster header','click','Local Listings');return false;">Local Listings</a></li>
+                <li><a href="/games/" onclick="trackEvent(this,'Dogster header','click','Game Center');return false;">Game Center</a></li>
+                <li><a href="/diary/dcentral.php" onclick="trackEvent(this,'Dogster header','click','Diary Central');return false;">Diary Central</a></li>
             </ul>
         </div><!--closes column-3-->
         
  		<div class="column-3 comm-menuList last">
  			<ul>
-                <li><a href="/account.php">Account</a></li>
-                <li><a href="/message_list.php">Paw Mail</a></li>
-                <li><a href="/gifts/">Gift Store</a></li>
-                <li><a href="/forums/my_posts.php">My Forum Posts</a></li>
-                <li><a href="/activity/friends">Recent Pal Activity</a></li>
-                <li><a href="/activity/corral">Recent Corral Activity</a></li>
-                <li><a href="/dogs">See the Dogs</a></li>
+                <li><a href="/account.php" onclick="trackEvent(this,'Dogster header','click','Account');return false;">Account</a></li>
+                <li><a href="/message_list.php" onclick="trackEvent(this,'Dogster header','click','Paw Mail');return false;">Paw Mail</a></li>
+                <li><a href="/gifts/" onclick="trackEvent(this,'Dogster header','click','Gift Store');return false;">Gift Store</a></li>
+                <li><a href="/forums/my_posts.php" onclick="trackEvent(this,'Dogster header','click','My Forums Posts');return false;">My Forum Posts</a></li>
+                <li><a href="/activity/friends" onclick="trackEvent(this,'Dogster header','click','Recent Pal Activity');return false;">Recent Pal Activity</a></li>
+                <li><a href="/activity/corral" onclick="trackEvent(this,'Dogster header','click','Recent Corral Activity');return false;">Recent Corral Activity</a></li>
+                <li><a href="/dogs" onclick="trackEvent(this,'Dogster header','click','See the Dogs');return false;">See the Dogs</a></li>
             </ul>
         </div><!--closes column-3-->
     </div><!--closes subMenuItem-->
@@ -494,8 +509,8 @@ function repositionPromoImages() {
 
 
 	<script type="text/javascript">
-		$LAB.script('/static/208b9b4655f0e66b643d33fa490147af26773fcf/js/libs/jquery.hoverIntent.minified.js')
-			.script('/static/208b9b4655f0e66b643d33fa490147af26773fcf/js/script.js');
+		$LAB.script('/static/7600fe17d531a49a3290827ec629dce1b3226358/js/libs/jquery.hoverIntent.minified.js')
+			.script('/static/7600fe17d531a49a3290827ec629dce1b3226358/js/script.js');
 	</script>
 
 <!-- ORION HEADER END -->
@@ -591,7 +606,7 @@ Again, feel free to contact us any time, and if you have further questions about
 			<!-- begin Partner: Dogster, Integration: DOGSTER-160X600-ROS, Size: 160x600-->
 		<script type="text/javascript">
 	       document.write("<script type='text/javascript' src='http://ads.saymedia.com/ai0154340528de970c015391f59688970b.js?ord="+Math.random()+"'></sc"+"ript>");
-		</script><script type="text/javascript" src="http://ads.saymedia.com/ai0154340528de970c015391f59688970b.js?ord=0.2744623042894101"></script>
+		</script><script type="text/javascript" src="http://ads.saymedia.com/ai0154340528de970c015391f59688970b.js?ord=0.08441553012149039"></script>
 		<!-- end -->
 			<div id="nsphere">
 		   		
@@ -600,14 +615,8 @@ Again, feel free to contact us any time, and if you have further questions about
 		
 		<div class="clear"><!-- --></div>
 		
-		<div id="bottom-ad">
-		    <!-- begin Partner: Dogster, Integration: DOGSTER-728X90-ROS, Size: 728x90-->
-		<script type="text/javascript">
-	       document.write("<script type='text/javascript' src='http://ads.saymedia.com/ai0154340528de970c014e8be9759f970d.js?ord="+Math.random()+"'></sc"+"ript>");
-		</script><script type="text/javascript" src="http://ads.saymedia.com/ai0154340528de970c014e8be9759f970d.js?ord=0.06068606108990604"></script>
-		<!-- end -->
-		</div>
-		
+				
+				
 	</div><!--/content-->
 	
 	<div id="dmg-footer">
@@ -662,6 +671,7 @@ Again, feel free to contact us any time, and if you have further questions about
 			<div class="tertiary-links">
 				<ul>
 					<li><a href="/about">About Dogster</a>&nbsp;|&nbsp;</li>
+					<li><a href="/lifestyle/dogster-values">Philosophy</a>&nbsp;|&nbsp;</li>
 					<li><a href="http://www.saymedia.com/advertisingcontact.php">Advertise</a>&nbsp;|&nbsp;</li>
 					<li><a href="/contact.php">Contact</a>&nbsp;|&nbsp;</li>
 					<li><a href="/about/community_guidelines.php">Community Guidelines</a>&nbsp;|&nbsp;</li>
@@ -669,6 +679,7 @@ Again, feel free to contact us any time, and if you have further questions about
 					<li><a href="/terms_of_service.php">Terms of Service</a></li>
 				</ul>
 				<p class="dmg-copyright">Dogster, A Say Media Property</p>
+				<img alt="SAY: Pets" src="/static/7600fe17d531a49a3290827ec629dce1b3226358/images/logos/Pets-dark-04.png">
 			</div>
 			
 			<div class="dmg-ster-promo">
