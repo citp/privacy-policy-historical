@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507160532id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010220243id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Workers Web Site Privacy Policy & Important Notices
 
 **You are here:**
 
   * [Home](https://web.archive.org/)
-  * Web Site Privacy Policy & Important Notices
+  * Web Site Imprint, Privacy Policy & Important Notices
 
 
+
+## SEO Workers Web Site Imprint, Privacy Policy & Important Notices
 
 Thank you for visiting SEO Workers and reviewing our policy notices. We have integrated these statements into a single posting for ease of use.
 
 The following links will help you navigate to a specific section:
 
+  * SEO Workers Official Impressum for Privacy Related Matters.
   * Web Site Privacy Policy;
   * Automatically Collected Information;
   * Information Collected for Tracking and Customization (Cookies);
@@ -23,9 +26,31 @@ The following links will help you navigate to a specific section:
   * Linking Policy and Disclaimer of Endorsement;
   * Warranty and Disclaimer;
   * Reproduction of Articles and Tutorials;
-  * SEO Workers Officials for Privacy Related Matters.
 
 
+
+* * *
+
+* * *
+
+### SEO Workers Official Impressum for Privacy Related Matters
+
+According to § 2 DL-InfoV the following information is provided:
+
+Helga Haas   
+SEO Workers   
+Willi-Stoer Str. 4  
+D-86159 Augsburg  
+Germany.
+
+Telephone number: +49-821-4087363
+
+Local Tax Identification Number: 103/174/22801  
+International Tax Identification Number: DE283547288
+
+Updated: September 25th, 2012.
+
+Notice: The impressum above, also reflects to our Facebook company page <http://www.facebook.com/seoworkers>.
 
 * * *
 
@@ -96,9 +121,13 @@ A few SEO Workers Web sites may also make use of persistent cookies to remember 
 
 Each SEO Workers site using persistent cookies identifies itself as doing so.
 
-Your private information, whether stored in persistent cookies or elsewhere, are only shared with the third party service of **Google, Inc.** and only for our use of their service called **"Google Analytics"** , but your IP is not delivered to this third party website.
+Your private information, whether stored in persistent cookies or elsewhere, are only shared with the third party service of **Google, Inc.** and only for our use of their service called **"Google Analytics"** , but your IP address is not delivered to this third party website.
 
-If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some SEO Workers Web sites.
+To provide website visitors more choice on how their data is collected by Google Analytics, Google also have developed the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en "External web site"). The add-on communicates with the Google Analytics JavaScript to indicate that information about the website visit should not be sent to Google Analytics. 
+
+If you want to opt-out, download and install the add-on for your current web browser. The Google Analytics Opt-out Browser Add-on is available for Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari and Opera.
+
+If you do not wish to have any session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some SEO Workers Web sites.
 
 * * *
 
@@ -167,16 +196,15 @@ You also can send mail to the following postal address:
 Helga Haas, CEO   
 Will-Stoer Str. 4,   
 D-86159 Augsburg,   
+Bavaria   
 Germany.
 
-You can call one of the following telephone/fax numbers:
+You can call one of the following telephone:
 
-**Germany:** +49-821-4082715   
+**Germany:** +49-821-4087363   
 **United States:** : +1-323-580-6285    
 **United Kingdom:** +44-20-3286-0213   
-**Australia:** +61-2-80113838
-
-**Facsimile (fax):** +49-821-4082715
+**Australia:** +61-3-9016-3603
 
 * * *
 
@@ -226,21 +254,4 @@ The site, materials and services may be out of date, and SEO Workers makes no co
 
 ### Reproduction of Articles and Tutorials
 
-SEO Workers retains full copyrights to all articles and tutorials published by them on this site.
-
-These articles and tutorials may be reproduced on a web site, CD-ROM, e-zine, book, magazine, etc. so long as permission is first received from SEO Workers and the author’s name is included in full.
-
-If the reproduction is by electronic media, a link back to this web site should be included.
-
-Please [**contact SEO Workers**](https://web.archive.org/contact.html) for reproduction permission.
-
-* * *
-
-### SEO Workers Official for Privacy Related Matters
-
-**Mrs. Helga Haas, CEO**
-
-**Telephone:** +49-821-4082715
-
-**Date of publication:** October, 2006.
-  *[CD]: Compact Disc
+SEO Workers retains full copyrights to all materials published by them on this site. None of the material published on this site may be used, in part or in whole, in any medium whatsoever, by any entity outside of SEO Workers.
