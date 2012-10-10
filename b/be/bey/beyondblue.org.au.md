@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyondblue.org.au privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608235648id_/http%3A//www.beyondblue.org.au/index.aspx%3Flink_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondblue.org.au privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010064138id_/http%3A//www.beyondblue.org.au/index.aspx%3Flink_id%3D16) for the most accurate reproduction.*
 
-# beyondblue: the national depression initiative and anxiety - Privacy
+# beyondblue: the national depression and anxiety initiative - Privacy
 
 beyondblue.org.au Privacy Statement
 
