@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624020915id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010181913id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,6 @@ Your use of this site indicates acceptance of this privacy policy.
 
 Return to [Best Job Interview](http://www.best-job-interview.com/job-interview-skills.html)
 
-  
 **Share this page:  **  
 
 
