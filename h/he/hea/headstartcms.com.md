@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headstartcms.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232408id_/http%3A//www.headstartcms.com/www.headstartcms.com%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headstartcms.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010231816id_/http%3A//www.headstartcms.com/www.headstartcms.com%3Fq%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement | HeadStartCMS
 
