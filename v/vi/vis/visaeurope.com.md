@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525230738id_/http%3A//www.visaeurope.com/en/site_services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010140847id_/http%3A//www.visaeurope.com/en/site_services/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
