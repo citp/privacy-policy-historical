@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505035528id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010090429id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
 
 # Talent Management, Employee Performance Management Software, Performance Appraisals
 
@@ -113,7 +113,7 @@ SumTotal Systems is a general audience Web site and does not request the age of 
 
 ###  **Safe Harbor**
 
-SumTotal Systems adheres to the EU’s Safe Harbor principles.  SumTotal has agreed to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
+SumTotal complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  SumTotal has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view SumTotal’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ###  **Contacting Us**
 
