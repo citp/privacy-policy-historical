@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525181805id_/https%3A//www.v.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010171610id_/https%3A//www.v.me/pages/privacy) for the most accurate reproduction.*
 
-# V.me by Visa - Home
+# V.me by Visa - Privacy Policy
 
 [Read our full Privacy Policy](https://web.archive.org/pages/privacy#privacy_policy)
 
