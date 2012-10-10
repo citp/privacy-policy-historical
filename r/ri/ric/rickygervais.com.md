@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickygervais.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619131413id_/http%3A//www.rickygervais.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickygervais.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010080352id_/http%3A//www.rickygervais.com/privacy.php) for the most accurate reproduction.*
 
 # Ricky Gervais... Obviously.
 
