@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606151002id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010095736id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # worldatlas.com and graphic maps privacy policy
 
@@ -50,5 +50,6 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
   2. You can send mail to the following postal address:  2724 61st Street, Suite B, #107, Galveston, Texas 77551 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you should contact: [jm@worldatlas.com   
-](mailto:jm@worldatlas.com)[ ](mailto:jm@worldatlas.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you should contact: [jm@worldatlas.com](mailto:jm@worldatlas.com)
+
+worldatlas.com web hosting by [**TVCNet.com**](http://www.tvcnet.com/)
