@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentis.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125035030id_/http%3A//momentis.net/pdfs/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentis.net privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010111727id_/http%3A//momentis.net/pdfs/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # MOMENTIS ONLINE PRIVACY STATEMENT
 
@@ -8,11 +8,11 @@ safeguarding your right to privacy. This Privacy Statement sets out the manner i
 collect, use, disclose and otherwise manage your personal information.
 Collection of Personal Information
 We collect personal information that you provide us when you:
-         Sign up for one of our products or services;
-         Access our Web site;
-         Contact our customer service department;
-         Provide us with comments or suggestions; or
-         Make payments online.
+     Sign up for one of our products or services;
+     Access our Web site;
+     Contact our customer service department;
+     Provide us with comments or suggestions; or
+     Make payments online.
 Information we may request includes your email address, name, home address, and telephone
 number, credit card and billing information. We may also ask for your Social Security Number
 or Social Insurance Number to process your credit or financing request.
@@ -24,21 +24,21 @@ Uniform Resource Locator (URL) of the website that referred you to our website a
 URL you browse away from our site if you click on a link on our site.
 How We Use Personal Information
 Momentis uses your personal information to:
-         Develop, enhance, market or provide products and services;
-         Send communications to you such as information about products and services available
+        Develop, enhance, market or provide products and services;
+        Send communications to you such as information about products and services available
          from Momentis or its affiliates;
-         Enforce our contract(s);
-         Prevent fraud and other prohibited or illegal activities;
-         Meet legal and regulatory requirements; or
-         Otherwise, as disclosed to you at the point of collection.
+        Enforce our contract(s);
+        Prevent fraud and other prohibited or illegal activities;
+        Meet legal and regulatory requirements; or
+        Otherwise, as disclosed to you at the point of collection.
 Personal information collected may be stored and processed in Canada, the United States or any
 other country in which Momentis or its corporate affiliates, subsidiaries or agents maintain
 facilities, and by using Momentis products or services (including our website), you consent to
 any such transfer of information outside of your country.
-
-
 Information is retained for the duration of any contract period, as well as for a period of up to 10
 years after the termination of customer contracts and any renewals thereof.
+
+
 Other Parties with Whom Momentis May Share Personal Information
 We may share your personal information with Momentis affiliates, subsidiaries or agents to
 provide you with product(s) or service(s) you request or to make our business of that of our
@@ -73,12 +73,12 @@ statement.
 Safeguarding Personal Information
 Momentis is committed to protecting the security of your personal information. We use a variety
 of technological, physical and organizational protections and procedures to help protect your
-
-
 personal information from unauthorized access, use, or disclosure, such as encryption,
 passwords, physical security, etc. While we strive to protect your personal information,
 Momentis cannot ensure or warrant that the personal information or private communications you
 transmit to us will always remain private, and you do so at your own risk.
+
+
 If a password is used to help protect your accounts and personal information, it is your
 responsibility to keep your password confidential. Do not share this information with anyone. If
 you are sharing a computer with anyone you should always log out before leaving a site or
@@ -104,12 +104,10 @@ this section. We encourage you to periodically review this statement to be infor
 Momentis is protecting your personal information.
 Contacting Us
 If you would like to contact us for any reason regarding our privacy practices, please write to us
-at the following address:
-Momentis
-6345 Dixie Road, Suite 200
-Mississauga, Ontario, L5T 2E6
-Canada
-
-
-You may also email us at cs@justenergy.com
+at the following addresses:
+United States                                          Canada
+8750 N. Central Expressway, Ste. 650                   25 Sheppard Avenue West, Ste. 690
+Dallas, Texas 75231                                    Toronto, Ontario M2N 6S6
+USA                                                    Canada
+You may also email us at repservices@momentis.net
 Privacy Statement Effective Date: March 1, 2010
