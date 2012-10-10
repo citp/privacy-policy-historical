@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locanto.co.za privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527050642id_/http%3A//www.locanto.co.za/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locanto.co.za privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010100857id_/http%3A//www.locanto.co.za/info/privacy) for the most accurate reproduction.*
 
 # Locanto Info pages
 
@@ -50,10 +50,6 @@ We collect information when you register to join Locanto by logging into an acco
   
 
 
-  
-
-
   * Copyright © 2012 Locanto™
 
-  
 
