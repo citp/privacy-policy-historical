@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621051043id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010133216id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
 
-# Inspire Me Today - Daily Inspiration, Interviews, Videos and More!
+# Inspire Me Today - Daily Inspiration, Interviews, and More!
+
+[](http://www.inspiremetoday.com/interviews.php) [Enjoy our Featured Weekly Interview or choose one from hundreds in the archives! It's FREE!](http://www.inspiremetoday.com/interviews.php)
+
+  
+
 
 |   | 
 
@@ -143,18 +148,35 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 * * *
 
-[Blackout](https://web.archive.org/blog/?p=4972)  
+[Your Gift to the World](https://web.archive.org/blog/?p=5378)  
   
-June 20, 2012  
-By B. Lynn Goodwin. "Hello. I'm calling from the Starbuck's on Camino Ramon in Danville," the young manager in the gree...
+October 8, 2012  
+By Thomas McGreevy. Someone very close to me started a business recently and it gave me the opportunity to witness a ...
 
-[The Pain Is Real](https://web.archive.org/blog/?p=5018)  
+[Read More](https://web.archive.org/blog/?p=5378 "Permalink to Your Gift to the World")  
+
+[Harvesting Happiness: I Want... I Wish ](https://web.archive.org/blog/?p=5315)  
   
-June 19, 2012  
-By Penny Kane. It's hard for me to write this. The emotion that it stirs up even after all of these years is intense....
+October 5, 2012  
+By Lisa Cypers Kamen. I want, I wish, only if... are some of the phrases we use to describe an ambiguous point in our...
+
+[Read More](https://web.archive.org/blog/?p=5315 "Permalink to Harvesting Happiness: I Want... I Wish ")  
+
+[Jill's Inspirational Weight Loss](https://web.archive.org/blog/?p=5341)  
+  
+October 2, 2012  
+By Kathi Casey. Today, when I was pondering my daily gratitudes, I began thinking about synchronistic events and ...
+
+[Read More](https://web.archive.org/blog/?p=5341 "Permalink to Jill's Inspirational Weight Loss")  
+
+[Harvesting Happiness: Focus on Being Positive](https://web.archive.org/blog/?p=5295)  
+  
+September 28, 2012  
+By Lisa Cypers Kamen. Focus on being positive. Stop yourself from saying things like "I'll never finish this project"...
+
+[Read More](https://web.archive.org/blog/?p=5295 "Permalink to Harvesting Happiness: Focus on Being Positive")  
 
   
-
-
-[](https://secure.vitamix.com/redirect.aspx?COUPON=06-005644)  
+  
+  
 ---|---|---|---|---
