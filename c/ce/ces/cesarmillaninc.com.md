@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618065510id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010221152id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Dog Whisperer Cesar Millan
 
@@ -28,7 +28,7 @@ When you make a purchase through the Site, you are required to provide us with p
 
 Placing an order through the Site automatically registers you on the Site.
 
-We may offer various other ways for you to provide personal information to us voluntarily on our Site or our Service. For example, we may offer account registration (which, as stated above, is automatic when you make a purchase), the ability to create and maintain user profiles, the ability for you to participate in surveys or contests that we may provide, and the ability to post or share photographs, [videos](http://www.cesarsway.com/channel/news-and-events/videos), and other content with other users of our Site and our Service. We also collect personal information when you request information about our services, request help or support, or otherwise communicate with us using contact forms or other methods for contacting us on our Site or our Service. We may collect personal information such as name, email address, city, state, country, other demographic information, interests and preferences, and personally identifying photographs and videos in these manners. 
+We may offer various other ways for you to provide personal information to us voluntarily on our Site or our Service. For example, we may offer account registration (which, as stated above, is automatic when you make a purchase), the ability to create and maintain user profiles, the ability for you to participate in surveys or contests that we may provide, and the ability to post or share photographs, videos, and other content with other users of our Site and our Service. We also collect personal information when you request information about our services, request help or support, or otherwise communicate with us using contact forms or other methods for contacting us on our Site or our Service. We may collect personal information such as name, email address, city, state, country, other demographic information, interests and preferences, and personally identifying photographs and videos in these manners. 
 
 #### Information from Other Sources
 
