@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewanetwork.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507072023id_/http%3A//www.ewanetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewanetwork.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010124614id_/http%3A//www.ewanetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EWA Network
 
