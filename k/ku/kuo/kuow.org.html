@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kuow.org privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617103001id_/http%3A//www.kuow.org/listen/online_security.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kuow.org privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010065807id_/http%3A//www.kuow.org/listen/online_security.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -30,7 +30,7 @@
 			<!--pledge font js-->
 <script type="text/javascript">
   WebFontConfig = {
-    google: { families: [ 'Open+Sans:400,300,800:latin' ] }
+    google: { families: [ 'Syncopate:400,700:latin', 'Open+Sans:400,300,800:latin'  ]}
   };
   (function() {
     var wf = document.createElement('script');
@@ -45,20 +45,19 @@
 		<link href="css/pledge.css" type="text/css" rel="stylesheet" media="screen" />
 		-->
 		<!--Pledge Overlay-->
-		</head><body><div id="pledgeOverlay">	
+		</head><body><div id="pledgeOverlay">		
 				<img src="/splash/close_up.png" id="hide-pledgeOverlay" name="pic1" onmouseover="up('pic1')" onmouseout="off('pic1')" width="41px" height="38px">
 				<div id="yui3-widget-hd">
-					<img src="/splash/tower.png" alt="tower" width="55" height="55"><img src="/splash/radio.png" alt="radio" width="55" height="55"><img src="/splash/headphones.png" alt="headphones" width="55" height="55"><img src="/splash/brains.png" name="brains" width="55" height="55">
+					<p>EXPANDING NEWS HORIZONS</p>
+					<!--p>LISTEN <span style="color:white">LEARN</span> <a href="https://www.kuow.org/pledge/" onClick="javascript:urchinTracker('/clicks/pledgeoverlay');">PLEDGE</a></p-->
 				</div>
 <!--count down script-->
 															
 				<div id="yui3-widget-bd">
 					<!--a href="https://www.kuow.org/pledge" onClick="javascript:urchinTracker('/clicks/pledgeoverlay');"><img src="/splash/pledge_off.jpg" name="pic2" onMouseOver="up('pic2')" onMouseOut="off('pic2')" width="583" height="226" /></a-->
-				<p>LISTEN <span style="color:white">LEARN</span> <a href="https://www.kuow.org/pledge/" onclick="javascript:urchinTracker('/clicks/pledgeoverlay');">PLEDGE</a></p>
+					<p>We're almost there! The end of the drive is in sight. Don't miss <a href="https://www.kuow.org/pledge/"><span style="color:#cb2529;font-weight:bold;">your chance to pledge!</span></a></p>
 				</div>
 				<div id="yui3-widget-ft">					
-					<p>Your support keeps KUOW strong.</p> 
-					<p><a href="https://www.kuow.org/pledge/">Give by June 30.</a></p>
 					<p id="hide-pledgeOverlay1">[ <em>continue without pledging</em> ]</p>
 				</div>
 		</div>
@@ -97,7 +96,7 @@
 							Y.one('#hide-pledgeOverlay1').on('click', Y.bind(pledgeOverlay.hide, pledgeOverlay));
 							
 							var expire_time = new Date();
-							expire_time.setMinutes(expire_time.getMinutes()+60); 
+							expire_time.setMinutes(expire_time.getMinutes()+90); 
 							
 							Y.Cookie.set("KUOWpledge", "sleep", {
 								expires: expire_time
@@ -131,10 +130,10 @@
 		if (document.images)
 		   {
 		     pic1on= new Image;
-			 pic1on.src="http://128.208.34.45/splash/close_down.png";
+			 pic1on.src="http://128.208.34.41/splash/close_down.png";
 
 			 pic1off= new Image;
-			 pic1off.src="http://128.208.34.45/splash/close_up.png";
+			 pic1off.src="http://128.208.34.41/splash/close_up.png";
 		   }
 		function up(imgName,imgName2)
 		 {
@@ -220,7 +219,7 @@
 					</li>
 					<li><a href="/inthecommunity.php" class="rollover" id="events" title="events"><span class="alt">Events</span><img src="/images/rollover/blank.gif" alt="Events" name="Events" height="21" width="65"></a></li>
 					<li><a href="/contact.php" class="rollover" id="contact" title="contact"><span class="alt">Contact</span><img src="/images/rollover/blank.gif" alt="Contact" name="Contact" height="21" width="78"></a></li>
-										<li><a href="/about" class="rollover" id="about" title="about"><span class="alt">About</span><img src="/images/rollover/blank.gif" alt="About" name="About" height="21" width="63"></a>
+					<li><a href="/about" class="rollover" id="about" title="about"><span class="alt">About</span><img src="/images/rollover/blank.gif" alt="About" name="About" height="21" width="63"></a>
 						<ul>
 							<li><a href="/about" title="about KUOW">About KUOW</a></li>
 							<li><a href="/contact.php" title="contact">Contact Us</a></li>
@@ -235,7 +234,7 @@
 						</ul>
 					</li>
 				</ul>
-		  </div><!--head-->
+			</div><!--head-->
 		<div id="main">
 		<div id="search">
 			<form action="/search.php" method="get" name="form_search" id="form_search">
@@ -286,33 +285,34 @@
   </div><!--end page-->
   </div><!--end main-->  
   <div id="sub_sidebar">
-    <p id="date">06.17.12</p>
+    <p id="date">10.09.12</p>
 		<h3 style="margin-left:20px;">Today's Schedule</h3>
 		<div id="schedule">
     	<table cellspacing="0" cellpadding="0">
                     <tbody><tr>
-                        <td class="time">12:00 a.m.</td>
-                        <td><a title="BBC World Service" href="http://www.bbc.co.uk/worldservice/" onclick="javascript:urchinTracker('/outgoing/BWS');">BBC World Service</a></td>
+                        <td class="time">7:00 p.m.</td>
+                        <td><a title="BBC Newsday" href="http://www.bbc.co.uk/programmes/p00w940j" onclick="javascript:urchinTracker('/outgoing/BBC');">BBC Newsday</a></td>
                     </tr>
                     <tr>
-                        <td class="time">5:00 a.m.</td>
-                        <td><a title="Weekend Edition Sunday" href="http://www.npr.org" onclick="javascript:urchinTracker('/outgoing/WED');">Weekend Edition Sunday</a></td>
+                        <td class="time">8:00 p.m.</td>
+                        <td><a title="WireTap" href="http://www.cbc.ca/wiretap" onclick="javascript:urchinTracker('/outgoing/WT');">WireTap</a></td>
                     </tr>
                     <tr>
-                        <td class="time">10:00 a.m.</td>
-                        <td><a title="A Prairie Home Companion" href="http://prairiehome.publicradio.org/" onclick="javascript:urchinTracker('/outgoing/PHC');">A Prairie Home Companion</a></td>
+                        <td class="time">9:00 p.m.</td>
+                        <td><a title="KUOW Presents" href="/kuowpresents" onclick="javascript:urchinTracker('/outgoing/KP3');">KUOW Presents</a></td>
                     </tr>
                     <tr>
-                        <td class="time">12:00 p.m.</td>
-                        <td><a title="Vinyl Cafe" href="http://www.cbc.ca/vinylcafe/" onclick="javascript:urchinTracker('/outgoing/VC');">Vinyl Cafe</a></td>
+                        <td class="time">10:00 p.m.</td>
+                        <td><a title="Selected Shorts" href="http://www.wnyc.org/shows/shorts/" onclick="javascript:urchinTracker('/outgoing/SS');">Selected Shorts</a></td>
                     </tr>
                     <tr>
-                        <td class="time">1:00 p.m.</td>
-                        <td><a title="The Tobolowsky Files" href="http://www.tobolowskyfiles.com" onclick="javascript:urchinTracker('/outgoing/TF');">The Tobolowsky Files</a></td>
+                        <td class="time">11:00 p.m.</td>
+                        <td><a title="As It Happens" href="http://www.cbc.ca/aih/" onclick="javascript:urchinTracker('/outgoing/AIH');">As It Happens</a></td>
                     </tr>
 	        </tbody></table>
     <h3>Schedules</h3>
-    <p id="day_week"><a title="Daily Schedule" href="/schedules/sched_daily.php" tabindex="400">Daily</a> / <a title="Weekly Schedule" href="/schedules/">Weekly</a></p>
+    <p id="day_week"><a title="Daily Schedule" href="/schedules/sched_daily.php">Daily</a> / <a title="Weekly Schedule" href="/schedules/">Weekly</a></p>
+	<p><a href="http://www.kuow2.org/listen.php" title="KUOW2"><img src="/images/bg/stream_kuow2.png" alt="KUOW2" width="200" height="40"></a></p>
 </div><!--schedule-->    <div id="sidebar_content">
       <div class="sidebar_res">
   <h3>News Podcasts </h3>
@@ -433,7 +433,7 @@
   <!--sidebar-->  
 
   			<div id="sub_tiles"> <img src="/images/hdrs/support_from.gif" alt="Support for KUOW comes from:" width="165" height="25">
-				<a href="http://www.ryanswansonlaw.com" title="Ryan Swanson Cleveland" onclick="javascript:urchinTracker('/outgoing/RyanSwanson');"><img src="/images/tiles/Ryan_Swanson.jpg" alt="Ryan Swanson Cleveland"></a>
+				<a href="http://www.dwt.com/" title="Davis Wright Tremaine" onclick="javascript:urchinTracker('/outgoing/DWT');"><img src="/images/tiles/dwt.gif" alt="Davis Wright Tremaine"></a>
 				<a href="http://www.bookstore.washington.edu/_media/_bannertrack.taf?url=http://www.bookstore.washington.edu/home/home.taf?link=kuow&amp;campaign=2011-12" title="University Book Store" onclick="javascript:urchinTracker('/outgoing/UniversityBookStore');"><img src="/images/tiles/UniversityBookStoreWebTile.gif" alt="University Book Store"></a>
 				</div>
 				<div id="footer">								
