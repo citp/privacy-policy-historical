@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617063410id_/http%3A//www2.fundable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010113951id_/https%3A//www.fundable.com/privacy-policy) for the most accurate reproduction.*
 
 # Crowdfunding for Startup Businesses on Fundable
 
@@ -44,7 +44,7 @@ Fundable Startups never receive users' credit card information.
 
 **Affiliate Services**
 
-Amazon Payments processes all of the transactions on Fundable. No one sees your credit card information besides Amazon, not even us.
+WePay processes all of the transactions on Fundable. No one sees your credit card information besides WePay, not even us.
 
 **Questions**
 
