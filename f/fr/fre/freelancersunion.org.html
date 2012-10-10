@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freelancersunion.org privacy policy that was archived on 2012-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517190511id_/http%3A//www.freelancersunion.org/about/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freelancersunion.org privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010071926id_/http%3A//www.freelancersunion.org/about/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Freelancers Union :: Privacy Policy - Pages from Freelancers Union</title>
@@ -7,16 +7,16 @@
 		<meta content="text/css" http-equiv="Content-Style-Type">
 		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 		<meta name="description" content="Freelancers Union offers health insurance and other benefits, plus advocacy, solidarity, and resources for freelancers and independent workers.">
-<link href="http://fu-res.org/images/favicon.ico" rel="shortcut icon">
-<link href="http://fu-res.org/css/fu.min.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://fu-res.org/images/favicon.ico" rel="shortcut icon">
+<link href="https://fu-res.org/css/fu.min.css" media="all" rel="stylesheet" type="text/css">
 
 <!-- only load JQ in header, everything else should be in a onready block or embedded as low down as possible -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-<script src="http://fu-res.org/javascripts/fu-top.min.js" type="text/javascript"></script>
+<script src="https://fu-res.org/javascripts/fu-top.min.js" type="text/javascript"></script>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
-<script src="http://fu-res.org/javascripts/jquery.colorbox-min.js" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="http://fu-res.org/css/colorbox.css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script src="https://fu-res.org/javascripts/jquery.colorbox-min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="https://fu-res.org/css/colorbox.css">
 
 
 
@@ -57,7 +57,6 @@
 				<li><a href="https://be.freelancersunion.org/the-freelance-life/">» Freelance stories</a></li>
 				<li><a href="http://www.freelancersunion.org/discounts/member-to-member/">» Member-to-member discounts</a></li>
 				<li><a href="../events/index.html">» Events</a></li>
-				<li><a href="../political-action/member-meetings.html">» Monthly Member Meetings</a></li>
 				<li><a href="https://be.freelancersunion.org/blog/">» Blog</a></li>
 					</ul>
 				</div>			
@@ -87,7 +86,7 @@
 				</div>			
 			</li>
 			<li class="top-nav"><a href="../political-action/index.html" class="pol-action-main-nav">Political Action</a></li>
-			<li class="top-nav"><a href="https://be.freelancersunion.org/f/register/action/emailReg">Join</a></li>		
+			<li class="top-nav"><a href="https://be.freelancersunion.org/registration/signup">Join</a></li>		
 		</ul>
 					
 	</div>
@@ -98,7 +97,7 @@
 <div id="dashboard">
 	<div class="login-link"> 		
 		<ul>
-			<li><a href="https://be.freelancersunion.org/s/index.php/user/login/">Sign In</a></li>
+			<li><a href="https://be.freelancersunion.org/login/">Sign In</a></li>
 			<li><a href="index.html">About</a></li>
 			<li class="last-child"><a href="contact.html">Contact</a></li>
 		</ul>
@@ -107,7 +106,7 @@
 	<div class="logout-link">
 		<ul>
 			<li><a href="https://be.freelancersunion.org/yp/myprofile/">Edit My Profile</a></li>
-			<li id="myhome"><a href="https://be.freelancersunion.org/home/">My home </a></li>
+			<li id="myhome"><a href="https://be.freelancersunion.org/members/home/">My home </a></li>
 			<li><a href="https://be.freelancersunion.org/logout/">Sign Out</a></li>
 			<li><a href="index.html">About</a></li>
 			<li class="last-child"><a href="contact.html">Contact</a></li>			
@@ -225,6 +224,7 @@ This Privacy Policy is subject to change at anytime. Changes will be posted on t
 </div>
 
 
+<!--yup-->
 
 			</div>
 	</div>
@@ -247,19 +247,11 @@ function addCommasToNumber(nStr)
 }
 
 jQuery(document).ready(function(e) {
-	var url = FU.loader.yql.generateQuery("https://be.freelancersunion.org/yp/feed.php?feed=total",{data_type:"json", output_type:"json"});
-	var parseTotal = function(results) {
-		jQuery("#member-count").removeClass('spinner');
-		try {
-			var total = results.query.results.json.result.count;
-			total = addCommasToNumber(total);
-			jQuery("#member-count").text(total);
-		}
-		catch(ex) {
-			jQuery("#member-count").text("Over 160k");
-		}
-	};
-	jQuery.ajax( { url:url, dataType: "jsonp", success: function(r){parseTotal(r);} });
+	jQuery("#member-count").removeClass('spinner');
+	jQuery("#member-count").text('Over 170k');
+	var response = jQuery.getJSON("/api/members", {}, function(data){
+		jQuery("#member-count").text(addCommasToNumber(data))
+	})
 	jQuery('.buzzmap').click(function(e){
 		e.preventDefault();
 		e.stopPropagation();
@@ -278,7 +270,7 @@ jQuery(document).ready(function(e) {
 
 <a href="https://be.freelancersunion.org/f/register/action/emailReg" class="clearfix">
 	<div class="internal-ad">
-		<img class="center-bee" src="http://fu-res.org/images/common/freelancersu_bee_sm.png" alt="Join Today!">
+		<img class="center-bee" src="https://fu-res.org/images/common/freelancersu_bee_sm.png" alt="Join Today!">
 		<h3 class="center">Join. For Free.</h3>
 	</div>
 </a>
@@ -321,7 +313,7 @@ jQuery(document).ready(function(e) {
 	
 		<h2>Work with us</h2>
 		<p>We like to find and hang on to good people. If you'd like to work at a lively, collaborative, and entrepreneurial nonprofit, check out our current job openings.</p>
-<p><a href="jobs/index.html">Jobs at Freelancers Union</a></p>	
+<p><a href="http://www.freelancersunion.org/about/jobs/">Jobs at Freelancers Union</a></p>	
 </div>
 
 
@@ -343,7 +335,6 @@ jQuery(document).ready(function(e) {
 				<li><a href="https://be.freelancersunion.org/the-freelance-life/">Freelance stories</a></li>
 				<li><a href="http://www.freelancersunion.org/discounts/member-to-member/">Member-to-member discounts</a></li>
 				<li><a href="../events/index.html">Events</a></li>
-				<li><a href="../political-action/member-meetings.html">Monthly Member Meetings</a></li>
 				<li><a href="https://be.freelancersunion.org/blog/">Blog</a></li>
 
 			</ul>		
@@ -383,16 +374,10 @@ jQuery(document).ready(function(e) {
 		<div class="footer-nav">
 		<a href="../political-action/index.html"><h3>Political Action</h3></a>
 			<ul>
-				<li><a href="../political-action/affordablehealth.html">Affordable health insurance</a></li>
 				<li><a href="../political-action/fairtaxation.html">Fair taxation</a></li>
-				<li><a href="../political-action/unemployment.html">Unemployment protection</a></li>		
 				<li><a href="../political-action/paymentprotection.html">Payment protection</a></li>
 				<li><a href="../political-action/electingallies.html">Electing Allies</a></li>				
 				<li><a href="https://be.freelancersunion.org/pac/nys_contribution_first">Donate</a></li>
-			<!--	
-				<li><a href="../political-action/index.html">Research</a></li>
-				<li><a href="../political-action/2010-freelancer-slate.html">Victories</a></li>
-			-->
 			</ul>		
 		</div>
 		
@@ -404,18 +389,19 @@ jQuery(document).ready(function(e) {
 				<li><a href="history.html">History</a></li>
 				<li><a href="../new-mutualism.html">New Mutualism</a></li>
 				<li><a href="https://be.freelancersunion.org/about/press/">Press</a></li>
-				<li><a href="jobs/index.html">Careers</a></li>
+				<li><a href="http://www.freelancersunion.org/about/jobs/">Careers</a></li>
 			</ul>		
 		</div>	
 		
 		<div class="footer-nav" style="border-left: 1px solid #444;">
 			
 			<ul>
-				<li><a href="https://be.freelancersunion.org/f/register/action/emailReg">Join</a></li>
+				<li><a href="https://be.freelancersunion.org/registration/signup">Join</a></li>
 				<li><a href="contact.html">Contact</a></li>
 				<li><a href="../faqs/index.html">FAQs</a></li>
 				<li><a href="terms-of-use.html">Terms of use</a></li>
 				<li><a href="privacy-policy.html">Privacy policy</a></li>
+				<li><a href="http://nytm.org/made">Made in NY</a></li>
 			</ul>		
 		</div>		
 	</div>				
@@ -429,10 +415,10 @@ jQuery(document).ready(function(e) {
 </div>
 	</div> <!-- /#ft -->
 <!-- START_JS -->
-<script src="http://fu-res.org/javascripts/fu.min.js" type="text/javascript"></script>
-<script src="http://fu-res.org/javascripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
-<script src="http://fu-res.org/javascripts/slider.js" type="text/javascript"></script>
-<script src="http://fu-res.org/javascripts/header-rollover-dash.js" type="text/javascript"></script>
+<script src="https://fu-res.org/javascripts/fu.min.js" type="text/javascript"></script>
+<script src="https://fu-res.org/javascripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+<script src="https://fu-res.org/javascripts/slider.js" type="text/javascript"></script>
+<script src="https://fu-res.org/javascripts/header-rollover-dash.js" type="text/javascript"></script>
 <script type="text/javascript">
 // <![CDATA[
 // Google Analtyics
