@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshnewgames.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501211731id_/http%3A//www.freegamesjungle.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshnewgames.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010120224id_/http%3A//www.freegamesjungle.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free games Jungle - Privacy Policy
 
