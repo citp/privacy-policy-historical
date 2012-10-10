@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329091956id_/https%3A//www.websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010164222id_/https%3A//www.websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.*
 
 # webSaver.ca - Privacy Policy
 
