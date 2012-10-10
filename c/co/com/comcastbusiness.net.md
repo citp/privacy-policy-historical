@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the comcastbusiness.net privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221102013id_/http%3A//business.comcast.com/SMB/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastbusiness.net privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010074140id_/http%3A//business.comcast.com/smb/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-##  Privacy Practices and Feedback
+## Privacy Practices and Feedback
+
+  
+
 
 Looking for our customer privacy statement? [Click here](https://web.archive.org/customer-privacy-statement).
 
@@ -82,3 +85,6 @@ We may change this privacy statement from time to time If we change this privacy
 This privacy statement discloses the privacy practices for this website only. Comcast supplies a copy of the privacy notice that applies to our cable television, high-speed Internet, and phone products and services separately to our subscribers. You may also view this privacy notice at www.comcast.com at any time by searching for “privacy policy” and clicking on the link for the privacy notice.
 
 Effective: August 18, 2008
+
+  
+
