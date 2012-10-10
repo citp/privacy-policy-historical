@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localcorporation.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231037id_/http%3A//localcorporation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localcorporation.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011011547id_/http%3A//localcorporation.com/privacy) for the most accurate reproduction.*
 
 # Local Coporation - Privacy Policy
 
