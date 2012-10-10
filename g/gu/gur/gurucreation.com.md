@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurucreation.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613220127id_/http%3A//www.gurucreation.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurucreation.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010205513id_/http%3A//www.gurucreation.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
