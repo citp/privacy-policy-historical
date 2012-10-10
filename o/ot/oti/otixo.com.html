@@ -1,27 +1,29 @@
-<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2012-01-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120125004629id_/http%3A//otixo.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010110336id_/http%3A//otixo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Otixo: Privacy Policy</title>
 	
 		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="manwriting_regular_macroman/stylesheet.css" type="text/css" charset="utf-8">
+
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/960.css">
-	<link rel="stylesheet" href="css/otixo_website.css">
+	<link rel="stylesheet" href="css/otixo_website.css?123">
+	<link rel="stylesheet" href="css/otixo_website_v2.css">
+	<link rel="stylesheet" href="css/header_footer_highlight.css">
 
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" href="css/otixo_website_v2_ie8.css" />
+	<![endif]-->
+	
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>	
-
-	<!-- FancyBox -->
-	<link rel="stylesheet" type="text/css" href="./fancybox/jquery.fancybox-1.3.4.css" media="screen">	
-	<script type="text/javascript" src="./fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-	<!-- / FancyBox -->
-	
-	<!-- SimpleTip -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 	<script type="text/javascript" src="./js/jquery.simpletip.js"></script>
-	<!-- / SimpleTip -->
+	<script type="text/javascript" src="./js/jquery.scrollTo-min.js"></script>
 	
 	<!-- Google Analytics script -->
 	<script type="text/javascript">
@@ -36,59 +38,6 @@
 		})();
 	</script>
 	<!-- / Google Analytics script -->
-
-	<script type="text/javascript" charset="utf-8">
-
-		$(document).ready(function(){
-
-			$("#video").click(function() {
-                 $.fancybox({
-					'autoDimensions'		: false,
-					'centerOnScroll'		: true,
-					'overlayColor'			: '#fff',
-					'overlayOpacity'		: 0.4,
-					'padding'				: 30,
-					'autoScale'				: false,
-					'transitionIn'			: 'fade',
-					'transitionOut'			: 'fade',
-					'width'					: 640,
-					'height'				: 388,
-					'href'					: this.href = this.href.replace(new RegExp("watch\\?v=", "i"), 'v/') + '&autoplay=1',
-					'type'					: 'swf',
-					'swf' 					: {'allowfullscreen':'true', 'wmode':'transparent'}
-                  });
-                 return false;
-            }); 	
-
-			$(".showcontacts").fancybox({
-				'autoDimensions'		: false,
-				'centerOnScroll'		: true,
-				'overlayColor'			: '#fff',
-				'overlayOpacity'		: 0.4,		
-				'padding'				: 20,
-				'transitionIn'			: 'fade',
-				'transitionOut'			: 'fade',
-				'showCloseButton'		: true,
-				'enableEscapeButton'	: true,
-				'width'					: 400,
-				'height'				: 240
-			});
-
-			$('.personal .balloon').simpletip({
-				content: "<p>\"Bandwidth Usage\" is the amount of network traffic or data transfer that you use while interacting with your files and folders Otixo.</p>",
-				fixed: true,
-				position : [-5, -5]
-			});
-
-			$('.business .balloon').simpletip({
-				content: "<p>\"Bandwidth Usage\" is the amount of network traffic or data transfer that you use while interacting with your files and folders Otixo.</p><p>\"Unlimited\" usage is subject to our <a href=\"../license.html\" target=\"_blank\">Terms and Conditions</a> policy.</p>",
-				fixed: true,
-				position : [-5, -5]
-			});			
-			
-		});
-		
-	</script>
 	
 	<script type="text/javascript" charset="utf-8">
 		var is_ssl = ("https:" == document.location.protocol);
@@ -108,45 +57,207 @@
 		var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 	</script>	
 
+	<script type="text/javascript">
+		var appUrl = "https://app.otixo.com/";
+	</script>
+	
+	<script type="text/javascript" charset="utf-8">
+		
+		$(document).ready(function(){
+			$('.login_button').click(function(event){
+				event.preventDefault();
+
+				var surl =  appUrl + "logincheck?jsonp_callback=?";
+				/*
+				$.ajax({
+					dataType: 'jsonp',
+					data: 'id=10',
+					jsonp: 'jsonp_callback',
+					url: surl,
+					success: function (jsonp) {
+						alert(jsonp.loggedin);
+					},
+					error: function (xhr, ajaxOptions, thrownError){
+						alert(xhr.status);
+						alert(thrownError);
+					}    
+				});
+				*/
+				$.getJSON(surl, function(json) {
+					if (json.loggedin=="false"){
+						$('#glass-panel').css('filter', 'alpha(opacity=40)');
+						$('#glass-panel').fadeIn('fast');
+						$('#login-absolute-wrapper').fadeIn('fast');
+						var tinyLoginFormUrl = appUrl + 'tiny-login-form.jsp';
+						if ($('#login-form-iframe').attr('src') != tinyLoginFormUrl){
+							$('#login-form-iframe').attr('src', tinyLoginFormUrl);
+						}
+					}
+					else {
+						window.location.replace(appUrl + "workspace.jsp");
+					}		
+				});
+				/*
+				$.ajax({
+					url: "http://127.0.0.1:8888/logincheck",
+					crossDomain: true,
+					cache: false,
+					success: function(html){
+						if( console && console.log ) {
+							console.log(html);
+						}
+						if (html=="fail"){
+							$('#glass-panel').css('filter', 'alpha(opacity=40)');
+							$('#glass-panel').fadeIn('fast');
+							$('#login-absolute-wrapper').fadeIn('fast');		
+						}
+						else {
+							window.location.replace("https://app.otixo.com/workspace.jsp");
+						}
+					}
+				});
+				*/
+				/*
+				var xhr = new easyXDM.Rpc({
+					remote: "http://wwt.otixo.com/js/easyXDM/cors/index.html" // path to provider
+				}, {
+					remote: {
+						request: {} 
+					}
+				});
+				
+				xhr.request(
+					{
+						url: "http://127.0.0.1:8888/logincheck",  // request URL
+						method: "POST",
+						data: {}
+					}, function(response) { // deal the response
+						alert(response.status);
+						alert(response.data);
+					}
+				);
+				
+				*/
+				// if iframe not yet created
+/*				if ($('#login-form-iframe').length==0){
+					var iframeElement = $('<iframe></iframe>');
+					iframeElement.attr({
+						id: 'login-form-iframe',
+						src: 'http://127.0.0.1:8888/tiny-login-form.jsp',
+						marginheight : '0',
+						marginwidth : '0',
+						frameborder : '0',
+						'class': 'loading'
+					});
+
+					$('body').append(iframeElement);				
+
+					$('#login-form-iframe').bind('load', function( event ){
+						setTimeout(function() {
+							$('#login-form-iframe').unbind('load');
+							$('#login-form-wrapper').prepend($('#login-form-iframe'));
+							$('#login-form-iframe').removeClass("loading");
+							$('#glass-panel').css('filter', 'alpha(opacity=40)');
+							$('#glass-panel').fadeIn('fast');
+							$('#login-absolute-wrapper').fadeIn('fast');			
+						}, 5000);
+					});
+				} else {
+						$('#glass-panel').css('filter', 'alpha(opacity=40)');
+						$('#glass-panel').fadeIn('fast');
+						$('#login-absolute-wrapper').fadeIn('fast');			
+				}*/	
+				$('.login_button').addClass('pressed');
+			});
+
+			$('#login-absolute-wrapper').click(function(){
+				$('#glass-panel').stop();
+				$('#glass-panel').hide();
+				$('#login-absolute-wrapper').stop();
+				$('#login-absolute-wrapper').hide();
+				$('.login_button').removeClass('pressed');
+//				$(document).unbind('mousewheel DOMMouseScroll');
+			});
+
+			$('#login-form-wrapper').click(function(event){
+				event.stopPropagation();
+			});	
+
+		});
+
+		function stopWheel(e){
+			if(!e) { /* IE7, IE8, Chrome, Safari */ 
+				e = window.event; 
+			}
+			if (e.preventDefault) { /* Chrome, Safari, Firefox */ 
+				e.preventDefault(); 
+			} 
+			e.returnValue = false; /* IE7, IE8 */
+		}
+	</script>
 	
 	</head>
 <body class="licence" id="privacy">
 
-<div class="container_12">
-	<a class="grid_3" href="index.html"><div class="grid_3 alpha omega logo"></div></a>
+<div class="container_12" id="header">
+	<a class="grid_3 logo_emboss" href="index.html"></a>
 	<!-- end .grid_3 -->
-	<div class="grid_9 topmenu">
-		<a href="index.html">Home</a>
-		<a href="product.html">Product</a>
-		<a href="kudos.html">Kudos</a>
-		<a href="http://blog.otixo.com">Blog</a>
-		<a href="pricing.html">Pricing</a>		
-		<a href="http://app.otixo.com/login.jsp#register" class="grn">Register</a>
-		<a href="http://app.otixo.com/login.jsp" class="grn">Login</a>
+	<div class="grid_9 menu_container">
+		<div class="links_parent_container">
+			<a href="/" class="selected">Home</a>
+			<a href="product">Product</a>
+			<!--<a href="kudos">Kudos</a>-->
+			<a href="http://blog.otixo.com">Blog</a>
+			<a href="stories">Users’ Stories</a>
+			<a href="security">Security</a>
+			<a href="pricing">Pricing</a>		
+		</div>
+		<div class="register_login_parent_container">
+			<div class="register_login_child_container">
+				<a href="register" class="register_button">Register</a>
+				<a href="https://app.otixo.com/login.jsp" class="login_button">Login</a>
+			</div>
+		</div>
 	</div>
 	<!-- end .grid_9 -->
 	<div class="clear"></div>
 </div>
 <!-- end .container_12 -->
-<div class="clear"></div>
+<div class="clear" id="header_spacer"></div>
+
+<!-- login_form -->
+<div id="glass-panel" class="absolute-snap"></div>
+<div id="login-absolute-wrapper" class="absolute-snap">
+	<div class="container_12">
+		<div class="grid_4 prefix_8">
+			<div class="grid_4 alpha omega" id="login-form-wrapper">
+				<iframe id="login-form-iframe" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+				<div id="login-form-arrow"></div>
+			</div>
+			<!-- end .grid_4 -->
+			<div class="clear"></div>			
+		</div>
+		<!-- end .grid_4 -->
+		<div class="clear"></div>			
+	</div>
+	<!-- end .container_12 -->
+	<div class="clear"></div>
+</div>
 
 
 <div class="container_12">
-	<div class="grid_12 space"></div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>	<div class="grid_12" style="text-align: center">
-		<h1>ONLINE PRIVACY POLICY</h1>
-	</div>
-	<!-- end .grid_11 -->
-	<div class="clear"></div>
-	<div class="grid_12 space"></div>
+	<h1 class="grid_12 heading">Online Privacy Policy</h1>
 	<!-- end .grid_12 -->
 	<div class="clear"></div>
-	<div class="grid_12" style="text-align: center">
-		<h3>&nbsp;</h3>	
-	</div>
-	<!-- end .grid_11 -->
+
+	<p class="grid_12 sub_heading strict">&nbsp;</p>
+	<!-- end .grid_12 -->
 	<div class="clear"></div>
+</div>
+<!-- end .container_12 -->
+<div class="clear"></div>
+
+<div class="container_12">
 	<div class="grid_12 space"></div>	
 	<!-- end .grid_11 -->
 	<div class="clear"></div>
@@ -158,11 +269,12 @@
 	<div class="clear"></div>
 </div>
 <!-- end .container_12 -->
+<div class="clear"></div>
 
 <div class="container_12 include-container">
 	<div class="grid_12">
 
-		<h3>Last Updated: January 15, 2012</h3>
+		<h3>Last Updated: October 7, 2011</h3>
 
 		<p class="emboss">Otixo, Inc. (“Otixo,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.</p>
 
@@ -292,9 +404,9 @@
 		<p style="margin-left: 40px;">
 			<strong>Otixo, Inc.</strong><br>
 			Attn: Privacy Policy<br>
-			4450 Arapahoe Ave.<br>
-			Suite 100<br>
-			Boulder, CO 80304<br>
+			954 Pearl St.<br>
+			Suite B<br>
+			Boulder, CO 80302<br>
 			<a href="mailto:info@otixo.com">info@otixo.com </a>
 		</p>
 
@@ -305,9 +417,9 @@
 		<p style="margin-left: 40px;">
 			<strong>Otixo, Inc.</strong><br>
 			Attn: Privacy Policy<br>
-			4450 Arapahoe Ave.<br>
-			Suite 100<br>
-			Boulder, CO 80304<br>
+			954 Pearl St.<br>
+			Suite B<br>
+			Boulder, CO 80302<br>
 			<a href="mailto:info@otixo.com">info@otixo.com </a>
 		</p>
 
@@ -327,62 +439,83 @@
 <div class="clear"></div>		
 
 
-<div class="container_12 footer">
-	<div class="grid_8 alignmiddle">
-		<a href="http://otixo.assistly.com/">Support</a>	
-		<a class="showcontacts" href="#contact">Contact Us</a>
-		<a href="licence.html">Terms and Conditions</a>
-		<a href="privacy.html">Privacy</a>
-		<a href="http://www.facebook.com/otixo" target="_blank" class="facebook"></a>
-		<a href="http://www.twitter.com/otixo" target="_blank" class="twitter"></a>
-	</div>
-	<!-- end .grid_8 -->
-	<div class="grid_4 alignmiddle">
-		<p>Copyright © 2012, Otixo, Inc. All Rights Reserved.</p>
-	</div>
-	<!-- end .grid_4 -->
-	<div class="clear"></div>
-</div>
+<div class="container_12 copyright"></div>	
 <!-- end .container_12 -->
 <div class="clear"></div>
 
-<div class="container_12 copyright"></div>
-<!-- end .container_12 -->
-<div class="clear"></div>
+<div class="grey_background">
+	<div class="container_12" id="footer">
+	
+		<div class="grid_12" id="footer_spacer"></div>
+		<!-- end .grid_3 -->
+		<div class="clear"></div>
+		<div class="grid_6 navigation">
+			<h5 class="grid_6 alpha omega section">Navigation</h5>
+			<div class="grid_6 alpha omega section-separator"></div>
+			<ul class="grid_6 alpha omega links-container">
+				<li class="grid_2 alpha"><a href="/">Home</a></li>
+				<li class="grid_2 fix"><a href="stories">Our Users' Stories</a></li> 
+				<li class="grid_2 omega"><a href="http://otixo.assistly.com/">Support</a></li>
+				<li class="grid_2 alpha"><a href="product">Product</a></li>
+<!--				<li class="grid_2 fix"><a href="security">Feel Safe In The Cloud</a></li> -->
+				<li class="grid_2 fix"><a href="security">Security</a></li>
+				<li class="grid_2 omega"><a href="license">Terms of Use</a></li>
+				<li class="grid_2 alpha"><a href="kudos">Kudos</a></li>
+				<li class="grid_2 fix"><a href="pricing">Pricing</a></li>
+				<li class="grid_2 omega"><a href="privacy">Privacy Policy</a></li>
+				<li class="grid_2 alpha"><a href="register" class="green">Register</a></li>
+				<li class="grid_2 fix"><a href="login" class="green">Login</a></li>		
+<!--				<li class="grid_2 omega"><a href="/team">Otixo Team</a></li> -->
+			</ul>	
+		</div>
+		<!-- end .grid_6 -->
 
+		<div class="grid_3 social">
+			<h5 class="grid_3 alpha omega section">Social</h5>
+			<div class="grid_3 alpha omega section-separator"></div>
+			<ul class="grid_3 alpha omega links-container">
+				<li class="grid_3 alpha omega wordpress"><a href="http://blog.otixo.com">Visit Our Blog</a></li>
+				<li class="grid_3 alpha omega twitter"><a href="http://www.twitter.com/otixo">Give Us a Shout</a></li>
+				<li class="grid_3 alpha omega facebook"><a href="http://www.facebook.com/otixo">Otixo Fan Page</a></li> 
+			</ul>	
+		</div>
+		<!-- end .grid_3 -->
 
-<div style="display:none">
-	<div id="contact">
-	<h1>Otixo, Inc.</h1>
-	<h2>4450 Arapahoe Ave.<br>Suite 100<br>Boulder, CO 80304<br>USA</h2>
-	<div class="space"></div>
-	<div class="right">
-		<table>
-			<tbody><tr>
-				<td>Phone:</td>
-				<td>(720) 334-8496</td>
-			</tr>
-			<tr>
-				<td>Email: </td>
-				<td><a class="grn" href="info@otixo.com">info@otixo.com</a></td>
-			</tr>
-			<tr>
-				<td>Support:</td>
-				<td><a class="grn" href="support@otixo.com">support@otixo.com</a></td>
-			</tr>
-			<tr>
-				<td>Twitter:</td>
-				<td><a class="grn" href="http://twitter.com/otixo">@otixo</a></td>
-			</tr>
-			<tr>
-				<td>Facebook:&nbsp;&nbsp;</td>
-				<td><a class="grn" href="http://facebook.com/otixo">Otixo Fan Page</a></td>
-			</tr>
-		</tbody></table>
+		<div class="grid_3 contact_us">
+			<h5 class="grid_3 alpha omega section">Contact Us</h5>
+			<div class="grid_3 alpha omega section-separator"></div>
+			<ul class="grid_3 alpha omega links-container">
+				<li class="grid_3 alpha omega pin"><p>954 Pearl St.<br>Suite&nbsp;B<br>Boulder,&nbsp;CO&nbsp;80302&nbsp;USA</p></li>
+				<li class="grid_3 alpha omega phone"><p>(720) 334-8496</p></li>
+				<li class="grid_3 alpha omega mail">
+					<p>
+						<a class="grn" href="info@otixo.com">info@otixo.com</a>
+						<br>
+						<a class="grn" href="support@otixo.com">support@otixo.com</a>
+					</p>
+				</li> 
+			</ul>	
+		</div>		
+		<!-- end .grid_3 -->
+		<div class="clear"></div>
+		
+		<div class="grid_12 bottom_line"></div>
+		<!-- end .grid_12 -->
+
+		<div class="grid_12 bottom_container">
+			<div class="grid_3 alpha">&nbsp;</div>
+			<div class="grid_3 grey_logo"></div>
+			<div class="grid_6 omega copyright_text">Copyright © 2012, Otixo, Inc. All Rights Reserved.</div>
+		</div>
+		<!-- end .grid_12 -->
+
+		<div class="clear"></div>
+		
 	</div>
+	<!-- end .container_12 -->
 </div>
 
-</div>
+
 
 
 </body></html>
