@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505073033id_/http%3A//www.uslegalforms.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010201918id_/http%3A//www.uslegalforms.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # U.S. Legal Forms, Inc. - Privacy Policy
 
