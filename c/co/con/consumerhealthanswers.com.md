@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consumerhealthanswers.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618084808id_/http%3A//www.consumerhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerhealthanswers.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010120510id_/http%3A//www.consumerhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 Consumerhealthanswers.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -38,8 +38,4 @@ Consumerhealthanswers.com reserves the right to change this policy at any time. 
 
 Any personal information (E-mail address, Phone numbers, fax numbers, physical address) and medical information is only used for correspondence with the viewers and is never used for marketing purpose. This information is also not shared with any third party.
 
-#### Product Endorsements Policy
-
-“We do not endorse any healthcare product and any links to a recommended product is solely for the purpose of viewer information. Our intention is to direct the customer to the sites which we have referenced for our research. We do not recommend any product purchase from any particular manufacturer. Also, Consumerhealthanswers does not have a funding mechanism by way of Clicks made on a particular link.”
-
-**This Privacy Policy was last updated on 04-21-2011.**
+**This Privacy Policy was last updated on 07-21-2012.**
