@@ -1,58 +1,17 @@
-> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604035421id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010154702id_/http%3A//www.pennystocks.com/privacy) for the most accurate reproduction.*
 
-# Individual Investor
+# Privacy | 100% Free Penny Stocks Newsletter: Get Alerts on Stocks Before They go up!
 
-Individual Investor Group, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.individualinvestor.com**. 
+PennyStocks.com is Acqua Impero Energia, Praia do Botafogo 300/5 Andar, 22250-040 Rio de Janeiro, Rio de Janeiro, Brazil. 
 
-individualinvestor.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you, your individualinvestor.com portfolio, your message board posts and / or to gather broad demographic information. 
+This policy covers how PennyStocks treats personal information that PennyStocks collects and receives. 
 
-individualinvestor.com uses cookies to keep track of your portfolio, your message board identity and to make sure you don't see the same interstitial promotion repeatedly. We use cookies to deliver content that may be specific to your browser, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
+Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. PennyStocks, Inc. collects personal information when you register anywhere on PennyStocks. We ask for information such as your full name, full address, email address and phone number. Once you register with PennyStocks and sign in to our website, you are not anonymous to us. By becoming a member of PennyStocks, you are giving us the permission to contact you via telephone (voice broadcast/live person), text message (SMS-standard messaging rates apply-contact your carrier for details), email, direct mail and by any means necessary. 
 
-individualinvestor.com requires users to give us certain contact information (like their name and email address) and demographic information (like their zip code, age, or income level) at various times: including **registration forms, order forms** and **online surveys**. We use the contact information we collect from such forms and surveys to send the user individualinvestor.com's daily newsletter, information about our company and promotional material from some of our partners. The user's contact information is also used to contact the user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. We use the demographic information we collect from such forms and surveys to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We also use this information for other internal purposes. We also share this information on an aggregate basis with advertisers and partners. 
+PennyStocks, Inc. automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request. PennyStocks, Inc. uses information for the following general purposes: to personalize the content you see, fulfill your requests, contact you, and to improve our services. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We may place a cookie on your personal computer. A cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. 
 
-**WE WILL NEVER SHARE WITH ANY THIRD PARTY ANY INFORMATION THAT SPECIFICALLY IDENTIFIES YOU, WITHOUT FIRST RECEIVING YOUR CONSENT.**
+PennyStocks, Inc. may update this policy at anytime. It is up to the user to check back regularly to see if there have been changes made. The PennyStocks website requires consideration for and as a condition of allowing you access. Reading and accepting the terms of use and reading and accepting the provisions of our privacy policy are required considerations for granting you the right to visit, read or interact with it. All persons under the age of 18 are denied access to this website. If you are under 18 years of age, it is unlawful for you to visit, read, or interact with this website or its contents in any manner. This website specifically denies access to any individual that is covered by the Child Online Privacy Act (COPA) of 1998. This website reserves the right to deny access to any person or viewer for any reason. Under the terms of the privacy policy, which you accept as a condition for viewing, the website is allowed to collect and store data and information for the purpose of exclusion and for many other uses. The terms of use agreement may change from time to time. Visitors have an affirmative duty, as part of the consideration for permission to view this website, to keep themselves informed of changes. 
 
-individualinvestor.com contains links to other sites. individualinvestor.com is not responsible for the privacy practices or the content of such Web sites. This site also contains links to certain co-branded pages hosted by other parties. The privacy practices applicable to those co-branded pages will be the privacy practices applied by the parties hosting those pages. 
+Viewers, users, or customers, collectively referred to herein as "Visitors," are parties to this agreement. The website (www.PennyStocks.com) and its owners and/or operators are parties to this agreement, herein referred to as "Website." Unless you have entered into an express written contract with this website to the contrary, visitors have no right to use this information in a commercial or public setting; they have no right to broadcast it, copy it, save it, print it, sell it, or publish any portions of the content of this website. By viewing the contents of this website you agree this condition of viewing and you acknowledge that any unauthorized use is unlawful and may subject you to civil or criminal penalties. The website and its contents are owned or licensed by the website. Material contained on the website must be presumed to be proprietary and copyrighted. Visitors have no rights whatsoever in the site content. Use of website content for any reason is unlawful unless it is done with express contract or permission of the website. The website disclaims any responsibility for the accuracy of the content of this website. Visitors assume the all risk of viewing, reading, using, or relying upon this information. Unless you have otherwise formed an express contract to the contrary with the website, you have no right to rely on any information contained herein as accurate. The website makes no such warranty. The website assumes no responsibility for damage to computers or software of the visitor or any person the visitor subsequently communicates with from corrupting code or data that is inadvertently passed to the visitor's computer. 
 
-individualinvestor.com uses an outside advertising company to display certain ads on our site. These ads may contain cookies. While we use cookies in other parts of our web site, cookies received with ads displayed by our ad company are collected by our ad company, and we may not have access to this information. Our ad company's privacy policies may be different than ours. 
-
-**Public Forums**   
-individualinvestor.com makes message boards, contests and/or other community related features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Security**   
-individualinvestor.com has security measures in place to protect the loss, misuse and alteration of the information under our control. Examples of those measures include firewalls, encryption, one-time passwords and site monitoring. 
-
-**Children's Guidelines**   
-With respect to persons whom we believe to be minors, individualinvestor.com will 
-
-  * **not** collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes; 
-  * **not** collect personally identifiable offline contact information without prior parental consent; 
-  * **not** distribute to third parties any personally identifiable information without prior parental consent; 
-  * **not** give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity 
-
-
-
-**Choice/Opt-Out**   
-individualinvestor.com provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. We give users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
-
-  * Mailing Address   
-You can send mail to the following postal address:   
-125 Broad Street, 14th Floor, New York, NY 10004  
-
-
-  * Correct/Update   
-This site gives users the following options for changing and modifying information previously provided. visit <http://www.individualinvestor.com/help/> or from the site directory, choose "Your Account".  
-
-
-  * Contacting the Web Site   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-Greg Barton   
-Individual Investor Group, Inc.   
-125 Broad St   
-14th Floor   
-New York, NY 10004   
-[gbarton@individualinvestor.com](mailto:gbarton@individualinvestor.com)
-
-
-
+Again, visitor views and interacts with this site, or banners or pop-ups or advertising displayed thereon, at his own risk. By viewing, using, or interacting in any manner with this site, including banners, advertising, or pop-ups, and as a condition of the website to allow his lawful viewing, Visitor forever waives all right to claims of damage of any and all description based on any causal factor resulting in any possible harm, no matter how heinous or extensive, whether physical or emotional, foreseeable or unforeseeable, whether personal or business in nature. Visitor agrees as a condition of viewing, that any communication between Visitor and Website is deemed a submission. All submissions, including portions thereof, graphics contained thereon, or any of the content of the submission, shall become the exclusive property of the Website and may be used, without further permission, for commercial use without additional consideration of any kind. OPT-OUT FROM MAIL LIST At any time you may request to be removed from our mailing list by clicking the unsubscribe link provided in each newsletter. 
