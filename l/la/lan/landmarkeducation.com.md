@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkeducation.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525101455id_/http%3A//www.landmarkeducation.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkeducation.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010125848id_/http%3A//www.landmarkeducation.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Landmark Education: Privacy Policy
 
