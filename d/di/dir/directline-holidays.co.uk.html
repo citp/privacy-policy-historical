@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directline-holidays.co.uk privacy policy that was archived on 2012-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607014122id_/http%3A//www.directline-holidays.co.uk/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directline-holidays.co.uk privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010060229id_/http%3A//www.directline-holidays.co.uk/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
@@ -12,7 +12,7 @@
 		
 		<meta name="msvalidate.01" content="BF01CEA1D9511A00AAE5A885CD6F61CE">
 		
-	<link rel="stylesheet" type="text/css" href="http://dlhcdn.com/bc/dlh.css?20120516">
+	<link rel="stylesheet" type="text/css" href="http://dlhcdn.com/bc/dlh.css?20120927">
 	
 		<link rel="alternate" type="application/rss+xml" title="directline holidays" href="/rss.xml">
 	
@@ -23,7 +23,7 @@
 	
 
 	<!--[if lte IE 7]>
-		<link rel="stylesheet" type="text/css" href="http://dlhcdn.com/bc/fix4ie.css?20120516">
+		<link rel="stylesheet" type="text/css" href="http://dlhcdn.com/bc/fix4ie.css?20120927">
 	<![endif]-->
 
 	
@@ -31,10 +31,10 @@
 	
 	<noscript>
 		<style type="text/css">
-			#hs_rooms_occ { display: none }
+			.hs_rooms_occ { display: none }
 		</style>
 	</noscript>
-	
+
 	
 	
 </head>
@@ -59,9 +59,9 @@
 <div id="main" class="twocol_layout" style="position: relative;">
 	<div id="header">
 		
-		
+
 		<div id="topbanner">
-			<a href="http://www.directline-holidays.co.uk"><img src="http://www.directline-holidays.co.uk/uploadImages/Default-Left-Hand-Banner.jpg" alt="Directline Holidays" width="310"></a><a href="/Low-Deposit-Holidays"><img src="http://www.directline-holidays.co.uk/uploadImages/Centre-Banner-Early-Bookings-49.png" alt="Low Deposit Holidays" width="420"></a><a href="/About-Us"><img src="http://www.directline-holidays.co.uk/uploadImages/Defaut-Right-Hand-Banner.png" alt="About Us" width="270"></a>
+			<a href="http://www.directline-holidays.co.uk"><img src="http://www.directline-holidays.co.uk/uploadImages/Default-Left-Hand-Banner.jpg" alt="Directline Holidays" width="310"></a><a href="/booking-holidays/summer-2013-price-promise"><img src="http://www.directline-holidays.co.uk/uploadImages/Centre-Banner-Summer2013-Price-Promise-V2.png" alt="Summer 2013 Price Promise" width="420"></a><a href="/About-Us"><img src="http://www.directline-holidays.co.uk/uploadImages/Defaut-Right-Hand-Banner.png" alt="About Us" width="270"></a> 
 		</div>
 		
 		<br class="c">
@@ -70,9 +70,9 @@
 		<div class="lft">
 			<div id="center">
 				
-				<div class="inner">
+				<div class="inner ">
 
-        <div class="basic_content">
+		<div class="basic_content">
 
     <p><strong><font color="#FF6600">Data protection and Privacy<br></font></strong>In order to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements we need to use the information you provide (such as name, address, any special needs/dietary requirements etc).<br>
     <br>
@@ -361,9 +361,9 @@
 
         <li><a href="/contact_us.cfm">Contact Us</a></li>
 
-        <li><a href="/faqs.cfm">Frequently Asked Questions</a></li>
+        <li><a href="/faq">Frequently Asked Questions</a></li>
     </ul> 
-        </div>
+		</div>
 
 				</div>
 			</div>
@@ -384,16 +384,15 @@
 	<form id="frm_holidaySearch" name="holidaySearch" action="http://search.directline-holidays.co.uk/searchRedirect.cfm" method="post">
 			
 
-			<div style="display:none;" id="hs_site_select">
+			<div id="hs_site_select">
 				
-				<div id="sb_dlh"><a href="javascript: _gaq.push(['_trackEvent','Left-hand search box','Holiday']);ms_SetSite('DLH');" id="sb_dlh_a" class="sb_dlh_sprite_selected"><img src="http://dlhcdn.com/bi/images/spacer.gif" id="sb_dlh_sprite" alt="holiday"></a></div>
-				<div id="sb_dlf"><a href="javascript: _gaq.push(['_trackEvent','Left-hand search box','Flight Only']);ms_SetSite('DLF');" id="sb_dlf_a" class="sb_dlf_sprite"><img src="http://dlhcdn.com/bi/images/spacer.gif" id="sb_dlf_sprite" alt="flight"></a></div>
-				<div id="sb_dla"><a href="javascript: _gaq.push(['_trackEvent','Left-hand search box','Hotel Only']);ms_SetSite('DLA');" id="sb_dla_a" class="sb_dla_sprite"><img src="http://dlhcdn.com/bi/images/spacer.gif" id="sb_dla_sprite" alt="hotel"></a></div>
+				<div id="sb_dlh"></div>
+				<div id="sb_dlc"></div>
+				<div id="sb_dla"></div>
 				<br class="c">
 				
 				<input type="hidden" id="s_site" name="s_site" value="DLH">
 			</div>
-			<br class="c">
 
 			
 			
@@ -402,16 +401,29 @@
 			<div class="sb_cont">
 				
 
+
+				<div class="cpep_switch">
+
+					<div class="sb_label" id="hs_dlc_header">
+						Travel by?
+					</div>
+					<input type="radio" value="CP" name="package_type" id="package_type_cp" checked="checked">
+					<label for="package_type_cp">Flight</label>
+					<input type="radio" value="EP" name="package_type" id="package_type_ep">
+					<label for="package_type_ep">Eurostar</label>
+					<br class="c">
+				</div>
+
+
 				<div class="sb_label" id="hs_dept_header">
 					Leaving from
 				</div>
 
 				<div id="dlh_dept_point" class="sb_selection">
 					
-	<select name="DeptCodes" onclick="hideCalendar();" class="airportSelect">
+		<select name="DeptCodes" class="airportSelect">
 	
-		<option value="0" selected="">--- Please Select ---</option>
-		
+		<option value="0" selected="selected">--- Please Select ---</option>
 		
 			<option value="LGW,LHR,LTN,STN,LCY,SEN">Any London</option>
 		
@@ -500,21 +512,248 @@
 			<option value="MME">Teesside</option>
 		
 	</select>
-	
+
+
 				</div>
 
 
 				
 
 
-				<div id="dlf_dept_point" class="sb_selection" style="display:none;clear:left;width:auto;">
+				<div id="dlc_dept_point" class="sb_selection">
 					
-					
-					<input type="hidden" name="frm_country_point" id="frm_country_point" value="GB">
-					<input type="hidden" id="frm_departure_point" name="frm_departure_point" value="DL1">
-					<input autocomplete="off" type="text" id="frm_departure_name" name="frm_departure_name" value="Any London" style="width:228px;">
-					<div class="anchordiv"><div id="frm_departure_suggestions" class="frm_suggestion_box"></div></div>
-
+	
+	<select name="num_deptID_cp" id="num_deptID_cp" class="airportSelect">
+		
+		<option value="0" selected="">--- Please Select ---</option>
+		
+				<option value="1">Any London</option>
+			
+				<option value="6">Any Midlands</option>
+			
+				<option value="10">Any North West</option>
+			
+				<option value="14">Any North East</option>
+			
+				<option value="19">Any Scotland</option>
+			
+				<option value="24">Any South</option>
+			
+				<option value="28">Any South West</option>
+			
+				<option value="32">Any East Anglia</option>
+			
+				<option value="37">Any Northern Ireland</option>
+			
+		<option value="0">&nbsp;</option>
+		
+				<option value="20">Aberdeen</option>
+			
+				<option value="51">Belfast City</option>
+			
+				<option value="38">Belfast International</option>
+			
+				<option value="7">Birmingham</option>
+			
+				<option value="11">Blackpool</option>
+			
+				<option value="26">Bournemouth</option>
+			
+				<option value="29">Bristol</option>
+			
+				<option value="36">Cardiff</option>
+			
+				<option value="54">City of Derry</option>
+			
+				<option value="8">Coventry</option>
+			
+				<option value="39">Doncaster Sheffield</option>
+			
+				<option value="56">Dundee</option>
+			
+				<option value="9">East Midlands</option>
+			
+				<option value="21">Edinburgh</option>
+			
+				<option value="30">Exeter</option>
+			
+				<option value="2">Gatwick</option>
+			
+				<option value="22">Glasgow</option>
+			
+				<option value="3">Heathrow</option>
+			
+				<option value="15">Humberside</option>
+			
+				<option value="50">Inverness</option>
+			
+				<option value="40">Kent International</option>
+			
+				<option value="16">Leeds Bradford</option>
+			
+				<option value="12">Liverpool</option>
+			
+				<option value="52">London City</option>
+			
+				<option value="41">London Gatwick</option>
+			
+				<option value="44">London Heathrow</option>
+			
+				<option value="43">London Luton</option>
+			
+				<option value="55">London Southend</option>
+			
+				<option value="42">London Stansted</option>
+			
+				<option value="4">Luton</option>
+			
+				<option value="13">Manchester</option>
+			
+				<option value="17">Newcastle</option>
+			
+				<option value="33">Norwich</option>
+			
+				<option value="23">Prestwick</option>
+			
+				<option value="27">Southampton</option>
+			
+				<option value="57">Southend</option>
+			
+				<option value="5">Stansted</option>
+			
+				<option value="18">Teesside</option>
+			
+	</select>
+	<select id="num_deptID_cp_template" style="display:none;">
+		
+		<option value="0" selected="">--- Please Select ---</option>
+		
+				<option value="1">Any London</option>
+			
+				<option value="6">Any Midlands</option>
+			
+				<option value="10">Any North West</option>
+			
+				<option value="14">Any North East</option>
+			
+				<option value="19">Any Scotland</option>
+			
+				<option value="24">Any South</option>
+			
+				<option value="28">Any South West</option>
+			
+				<option value="32">Any East Anglia</option>
+			
+				<option value="37">Any Northern Ireland</option>
+			
+		<option value="0">&nbsp;</option>
+		
+				<option value="20">Aberdeen</option>
+			
+				<option value="51">Belfast City</option>
+			
+				<option value="38">Belfast International</option>
+			
+				<option value="7">Birmingham</option>
+			
+				<option value="11">Blackpool</option>
+			
+				<option value="26">Bournemouth</option>
+			
+				<option value="29">Bristol</option>
+			
+				<option value="36">Cardiff</option>
+			
+				<option value="54">City of Derry</option>
+			
+				<option value="8">Coventry</option>
+			
+				<option value="39">Doncaster Sheffield</option>
+			
+				<option value="56">Dundee</option>
+			
+				<option value="9">East Midlands</option>
+			
+				<option value="21">Edinburgh</option>
+			
+				<option value="30">Exeter</option>
+			
+				<option value="2">Gatwick</option>
+			
+				<option value="22">Glasgow</option>
+			
+				<option value="3">Heathrow</option>
+			
+				<option value="15">Humberside</option>
+			
+				<option value="50">Inverness</option>
+			
+				<option value="40">Kent International</option>
+			
+				<option value="16">Leeds Bradford</option>
+			
+				<option value="12">Liverpool</option>
+			
+				<option value="52">London City</option>
+			
+				<option value="41">London Gatwick</option>
+			
+				<option value="44">London Heathrow</option>
+			
+				<option value="43">London Luton</option>
+			
+				<option value="55">London Southend</option>
+			
+				<option value="42">London Stansted</option>
+			
+				<option value="4">Luton</option>
+			
+				<option value="13">Manchester</option>
+			
+				<option value="17">Newcastle</option>
+			
+				<option value="33">Norwich</option>
+			
+				<option value="23">Prestwick</option>
+			
+				<option value="27">Southampton</option>
+			
+				<option value="57">Southend</option>
+			
+				<option value="5">Stansted</option>
+			
+				<option value="18">Teesside</option>
+			
+	</select>
+	
+	
+	<select style="display:none;" name="num_deptID_ep" id="num_deptID_ep" class="airportSelect">
+		
+		<option value="0" selected="">--- Please Select ---</option>
+		
+		<option value="0">&nbsp;</option>
+		
+				<option value="46" class="eurostarOpt">Ashford</option>
+			
+				<option value="49" class="eurostarOpt">Ebbsfleet</option>
+			
+				<option value="47" class="eurostarOpt">London St. Pancras</option>
+			
+	</select>
+	<select id="num_deptID_ep_template" style="display:none;">
+		
+		<option value="0" selected="">--- Please Select ---</option>
+		
+		<option value="0">&nbsp;</option>
+		
+				<option value="46" class="eurostarOpt">Ashford</option>
+			
+				<option value="49" class="eurostarOpt">Ebbsfleet</option>
+			
+				<option value="47" class="eurostarOpt">London St. Pancras</option>
+			
+	</select>
+	
 				</div>
 				<br class="c">
 
@@ -526,7 +765,7 @@
 						</div>
 						<div class="sb_selection">
 							
-			<select id="dlh_destinationSelect" name="DestCodes" onclick="hideCalendar();" onchange="checkDest();" class="destinationSelect">
+			<select id="dlh_destinationSelect" name="DestCodes" class="destinationSelect">
 		
 			
 			<option value="" selected="">--- Please Select ---</option>
@@ -535,32 +774,32 @@
 			<option value="">Top 10 holidays</option>
 			<option value="">---------------------------</option>
 			
-				<option class="lv1" value="119-DLM">&nbsp;&nbsp;Dalaman Region </option>
-				
 				<option class="lv1" value="42-PMI">&nbsp;&nbsp;Majorca / Mallorca </option>
 				
-				<option class="lv1" value="209-TUN,NBE">&nbsp;&nbsp;Tunisia </option>
+				<option class="lv1" value="119-DLM">&nbsp;&nbsp;Dalaman Region </option>
 				
 				<option class="lv1" value="51-TFS">&nbsp;&nbsp;Tenerife </option>
 				
+				<option class="lv1" value="209-TUN,NBE">&nbsp;&nbsp;Tunisia </option>
+				
 				<option class="lv1" value="70-SSH">&nbsp;&nbsp;Sharm el Sheikh </option>
 				
-				<option class="lv1" value="117-AYT">&nbsp;&nbsp;Antalya Region </option>
+				<option class="lv1" value="84-RHO">&nbsp;&nbsp;Rhodes </option>
 				
-				<option class="lv1" value="50-ACE">&nbsp;&nbsp;Lanzarote </option>
+				<option class="lv1" value="77-CFU,PVK">&nbsp;&nbsp;Corfu </option>
 				
 				<option class="lv1" value="104-FAO">&nbsp;&nbsp;Algarve </option>
 				
-				<option class="lv1" value="41-IBZ">&nbsp;&nbsp;Ibiza </option>
+				<option class="lv1" value="50-ACE">&nbsp;&nbsp;Lanzarote </option>
 				
-				<option class="lv1" value="46-FUE">&nbsp;&nbsp;Fuerteventura </option>
+				<option class="lv1" value="10-LCA,PFO,ECN">&nbsp;&nbsp;Cyprus </option>
 				
 
 			<option value="">&nbsp;</option>
 			<option value="">---------------------------</option>
 			<option value="">Holidays alphabetically</option>
 			<option value="">---------------------------</option>
-			<option class="lv1" value="202-INN,LJU,MUC,SZG,ZRH,GVA,VIE">Austria</option><option class="lv2" value="203-LJU,GVA,ZRH,INN,SZG,MUC">&nbsp;&nbsp;&nbsp;Austrian Alps</option><option class="lv1" value="1-IBZ,PMI,MAH">Balearic Islands</option><option class="lv2" value="41-IBZ">&nbsp;&nbsp;&nbsp;Ibiza</option><option class="lv2" value="42-PMI">&nbsp;&nbsp;&nbsp;Majorca / Mallorca</option><option class="lv2" value="44-MAH">&nbsp;&nbsp;&nbsp;Menorca / Minorca</option><option class="lv1" value="3-VAR,BOJ">Bulgaria</option><option class="lv1" value="4-FUE,LPA,ACE,TFS,SPC,GMZ">Canary Islands</option><option class="lv2" value="46-FUE">&nbsp;&nbsp;&nbsp;Fuerteventura</option><option class="lv2" value="47-LPA">&nbsp;&nbsp;&nbsp;Gran Canaria</option><option class="lv2" value="48-GMZ">&nbsp;&nbsp;&nbsp;La Gomera</option><option class="lv2" value="49-SPC">&nbsp;&nbsp;&nbsp;La Palma</option><option class="lv2" value="50-ACE">&nbsp;&nbsp;&nbsp;Lanzarote</option><option class="lv2" value="51-TFS">&nbsp;&nbsp;&nbsp;Tenerife</option><option class="lv1" value="5-SID">Cape Verde Islands</option><option class="lv1" value="6-ANU,AUA,NAS,FPO,BGI,VRA,HOG,POP,SDQ,PUJ,LRM,GND,MBJ,PMV,UVF,BDA,HAV,CCC,GCM">Caribbean</option><option class="lv2" value="52-ANU">&nbsp;&nbsp;&nbsp;Antigua</option><option class="lv2" value="53-AUA">&nbsp;&nbsp;&nbsp;Aruba</option><option class="lv2" value="54-NAS,FPO">&nbsp;&nbsp;&nbsp;Bahamas</option><option class="lv2" value="55-BGI">&nbsp;&nbsp;&nbsp;Barbados</option><option class="lv2" value="56-BDA">&nbsp;&nbsp;&nbsp;Bermuda</option><option class="lv2" value="58-VRA,HOG,HAV,CCC">&nbsp;&nbsp;&nbsp;Cuba</option><option class="lv2" value="59-POP,SDQ,PUJ,LRM,AZS">&nbsp;&nbsp;&nbsp;Dominican Rep.</option><option class="lv2" value="61-GND">&nbsp;&nbsp;&nbsp;Grenada</option><option class="lv2" value="62-MBJ,BMJ">&nbsp;&nbsp;&nbsp;Jamaica</option><option class="lv2" value="65-UVF">&nbsp;&nbsp;&nbsp;St Lucia</option><option class="lv2" value="66-TAB">&nbsp;&nbsp;&nbsp;Tobago</option><option class="lv1" value="13-CLY,BIA,FSC,AJA">Corsica</option><option class="lv1" value="9-PUY,DBV,SPU">Croatia</option><option class="lv1" value="10-LCA,PFO,ECN">Cyprus</option><option class="lv2" value="221-">&nbsp;&nbsp;&nbsp;Northern Cyprus</option><option class="lv2" value="222-">&nbsp;&nbsp;&nbsp;Southern Cyprus</option><option class="lv1" value="215-">Dubai</option><option class="lv1" value="11-SSH,LXR,HRG,TCP,RMF">Egypt</option><option class="lv2" value="67-HRG">&nbsp;&nbsp;&nbsp;Hurghada</option><option class="lv2" value="211-LXR">&nbsp;&nbsp;&nbsp;Luxor</option><option class="lv2" value="69-RMF">&nbsp;&nbsp;&nbsp;Marsa Alam</option><option class="lv2" value="70-SSH">&nbsp;&nbsp;&nbsp;Sharm el Sheikh</option><option class="lv2" value="71-TCP">&nbsp;&nbsp;&nbsp;Taba</option><option class="lv1" value="196-MCO">Florida</option><option class="lv2" value="199-SFB">&nbsp;&nbsp;&nbsp;Gulf Coast</option><option class="lv2" value="198-MIA">&nbsp;&nbsp;&nbsp;Miami</option><option class="lv2" value="197-MCO">&nbsp;&nbsp;&nbsp;Orlando</option><option class="lv1" value="12-MRS,AVN,FNI,BOD,NCE,TLS">France - Southern</option><option class="lv1" value="14-BJL">Gambia</option><option class="lv1" value="15-GOI">Goa</option><option class="lv1" value="16-SKG,KLX,PVK,ATH">Greece Mainland</option><option class="lv2" value="72-ATH">&nbsp;&nbsp;&nbsp;Athens</option><option class="lv2" value="73-SKG">&nbsp;&nbsp;&nbsp;Halkidiki</option><option class="lv2" value="74-KLX">&nbsp;&nbsp;&nbsp;Kalamata</option><option class="lv2" value="75-PVK">&nbsp;&nbsp;&nbsp;Parga</option><option class="lv2" value="168-PVK,CFU">&nbsp;&nbsp;&nbsp;Sivota</option><option class="lv1" value="17-CFU,CHQ,HER,EFL,MJT,JMK,JTR,KGS,RHO,JSI,SMI,ZTH,KVA,PVK">Greek Islands</option><option class="lv2" value="77-CFU,PVK">&nbsp;&nbsp;&nbsp;Corfu</option><option class="lv2" value="78-CHQ,HER">&nbsp;&nbsp;&nbsp;Crete</option><option class="lv2" value="216-">&nbsp;&nbsp;&nbsp;Ithaca</option><option class="lv2" value="171-KGS">&nbsp;&nbsp;&nbsp;Kalymnos</option><option class="lv2" value="79-EFL">&nbsp;&nbsp;&nbsp;Kefalonia</option><option class="lv2" value="80-KGS">&nbsp;&nbsp;&nbsp;Kos</option><option class="lv2" value="81-PVK">&nbsp;&nbsp;&nbsp;Lefkas</option><option class="lv2" value="82-MJT">&nbsp;&nbsp;&nbsp;Lesvos</option><option class="lv2" value="217-">&nbsp;&nbsp;&nbsp;Meganissi</option><option class="lv2" value="83-JMK">&nbsp;&nbsp;&nbsp;Mykonos</option><option class="lv2" value="218-">&nbsp;&nbsp;&nbsp;Naxos</option><option class="lv2" value="167-PVK,CFU">&nbsp;&nbsp;&nbsp;Paxos</option><option class="lv2" value="84-RHO">&nbsp;&nbsp;&nbsp;Rhodes</option><option class="lv2" value="85-SMI">&nbsp;&nbsp;&nbsp;Samos</option><option class="lv2" value="86-JTR,JMK">&nbsp;&nbsp;&nbsp;Santorini</option><option class="lv2" value="87-JSI">&nbsp;&nbsp;&nbsp;Skiathos</option><option class="lv2" value="219-">&nbsp;&nbsp;&nbsp;Skopelos</option><option class="lv2" value="223-">&nbsp;&nbsp;&nbsp;Symi</option><option class="lv2" value="88-KVA">&nbsp;&nbsp;&nbsp;Thassos</option><option class="lv2" value="89-ZTH">&nbsp;&nbsp;&nbsp;Zante</option><option class="lv1" value="186-">Hong Kong</option><option class="lv1" value="18-GOI,TRV,MLE,CMB,MRU,SEZ">Indian Ocean</option><option class="lv1" value="19-CTA,OLB,AHO,VCE,NAP,RMI,PSA,MXP,FCO,BGY,VRN,OLB,AHO,CAG,CTA">Italy</option><option class="lv2" value="91-MXP,LIN,BGY,VRN,VBS">&nbsp;&nbsp;&nbsp;Italian Lakes</option><option class="lv2" value="90-CTA,OLB,VCE,NAP,RMI,PSA,MXP,FCO,BGY">&nbsp;&nbsp;&nbsp;Neapolitan Riviera</option><option class="lv2" value="92-CAG,AHO,OLB">&nbsp;&nbsp;&nbsp;Sardinia</option><option class="lv2" value="93-PMO,CTA,TPS">&nbsp;&nbsp;&nbsp;Sicily</option><option class="lv2" value="181-">&nbsp;&nbsp;&nbsp;Tuscany</option><option class="lv1" value="20-MBA,NBO">Kenya</option><option class="lv1" value="22-MLE">Maldives</option><option class="lv1" value="23-MLA">Malta</option><option class="lv1" value="24-MRU">Mauritius</option><option class="lv1" value="25-CZM">Mexico</option><option class="lv2" value="94-CUN">&nbsp;&nbsp;&nbsp;Cancun</option><option class="lv1" value="27-TIV,DBV">Montenegro</option><option class="lv1" value="28-AGA,RAK,TNG">Morocco</option><option class="lv2" value="101-AGA">&nbsp;&nbsp;&nbsp;Agadir</option><option class="lv2" value="102-RAK">&nbsp;&nbsp;&nbsp;Marrakech</option><option class="lv1" value="29-FAO,FNC,LIS">Portugal</option><option class="lv2" value="104-FAO">&nbsp;&nbsp;&nbsp;Algarve</option><option class="lv2" value="105-LIS">&nbsp;&nbsp;&nbsp;Lisbon</option><option class="lv2" value="106-FNC">&nbsp;&nbsp;&nbsp;Madeira</option><option class="lv1" value="185-">Singapore</option><option class="lv1" value="31-LJU">Slovenia</option><option class="lv2" value="206-">&nbsp;&nbsp;&nbsp;Slovenian Alps</option><option class="lv1" value="183-">South Africa</option><option class="lv2" value="184-">&nbsp;&nbsp;&nbsp;Cape Town</option><option class="lv1" value="34-IBZ,PMI,MAH,FUE,LPA,ACE,TFS,SPC,GMZ,ALC,GRO,REU,LEI,XRY,AGP">Spain</option><option class="lv2" value="107-IBZ,PMI,MAH">&nbsp;&nbsp;&nbsp;Balearic Islands</option><option class="lv2" value="108-FUE,LPA,ACE,TFS,SPC,GMZ">&nbsp;&nbsp;&nbsp;Canary Islands</option><option class="lv2" value="109-ALC">&nbsp;&nbsp;&nbsp;Costa Blanca</option><option class="lv2" value="110-GRO">&nbsp;&nbsp;&nbsp;Costa Brava</option><option class="lv2" value="111-LEI">&nbsp;&nbsp;&nbsp;Costa De Almeria</option><option class="lv2" value="112-XRY">&nbsp;&nbsp;&nbsp;Costa De La Luz</option><option class="lv2" value="113-AGP">&nbsp;&nbsp;&nbsp;Costa Del Sol</option><option class="lv2" value="114-REU,BCN">&nbsp;&nbsp;&nbsp;Costa Dorada</option><option class="lv2" value="161-FUE">&nbsp;&nbsp;&nbsp;Fuerteventura</option><option class="lv2" value="162-LPA">&nbsp;&nbsp;&nbsp;Gran Canaria</option><option class="lv2" value="160-IBZ">&nbsp;&nbsp;&nbsp;Ibiza</option><option class="lv2" value="163-GMZ">&nbsp;&nbsp;&nbsp;La Gomera</option><option class="lv2" value="164-SPC">&nbsp;&nbsp;&nbsp;La Palma</option><option class="lv2" value="165-ACE">&nbsp;&nbsp;&nbsp;Lanzarote</option><option class="lv2" value="158-PMI">&nbsp;&nbsp;&nbsp;Majorca / Mallorca</option><option class="lv2" value="159-MAH">&nbsp;&nbsp;&nbsp;Menorca / Minorca</option><option class="lv2" value="166-TFS">&nbsp;&nbsp;&nbsp;Tenerife</option><option class="lv1" value="35-CMB">Sri Lanka</option><option class="lv1" value="204-">Switzerland</option><option class="lv2" value="205-">&nbsp;&nbsp;&nbsp;Swiss Alps</option><option class="lv1" value="36-BKK,HKT">Thailand</option><option class="lv2" value="115-BKK">&nbsp;&nbsp;&nbsp;Bangkok</option><option class="lv2" value="214-">&nbsp;&nbsp;&nbsp;Koh Samui</option><option class="lv2" value="116-HKT">&nbsp;&nbsp;&nbsp;Phuket</option><option class="lv1" value="209-TUN,NBE">Tunisia</option><option class="lv1" value="39-ADB,AYT,BJV,DLM,BXN">Turkey</option><option class="lv2" value="117-AYT">&nbsp;&nbsp;&nbsp;Antalya Region</option><option class="lv2" value="118-BJV">&nbsp;&nbsp;&nbsp;Bodrum Region</option><option class="lv2" value="119-DLM">&nbsp;&nbsp;&nbsp;Dalaman Region</option><option class="lv2" value="120-ADB">&nbsp;&nbsp;&nbsp;Izmir Region</option><option class="lv1" value="40-MCO,SFB,JFK,EWR,LAS,IAD,BOS">USA</option><option class="lv2" value="121-BOS">&nbsp;&nbsp;&nbsp;Boston</option><option class="lv2" value="208-MCO,ORL,MIA">&nbsp;&nbsp;&nbsp;Florida</option><option class="lv2" value="123-LAS">&nbsp;&nbsp;&nbsp;Las Vegas</option><option class="lv2" value="177-NYC">&nbsp;&nbsp;&nbsp;New York</option><option class="lv2" value="182-">&nbsp;&nbsp;&nbsp;San Francisco</option><option class="lv2" value="125-IAD">&nbsp;&nbsp;&nbsp;Washington</option>
+			<option class="lv1" value="202-INN,LJU,MUC,SZG,ZRH,GVA,VIE">Austria</option><option class="lv2" value="203-LJU,GVA,ZRH,INN,SZG,MUC">&nbsp;&nbsp;&nbsp;Austrian Alps</option><option class="lv1" value="1-IBZ,PMI,MAH">Balearic Islands</option><option class="lv2" value="41-IBZ">&nbsp;&nbsp;&nbsp;Ibiza</option><option class="lv2" value="42-PMI">&nbsp;&nbsp;&nbsp;Majorca / Mallorca</option><option class="lv2" value="44-MAH">&nbsp;&nbsp;&nbsp;Menorca / Minorca</option><option class="lv1" value="3-VAR,BOJ">Bulgaria</option><option class="lv1" value="4-FUE,LPA,ACE,TFS,SPC,GMZ">Canary Islands</option><option class="lv2" value="46-FUE">&nbsp;&nbsp;&nbsp;Fuerteventura</option><option class="lv2" value="47-LPA">&nbsp;&nbsp;&nbsp;Gran Canaria</option><option class="lv2" value="48-GMZ">&nbsp;&nbsp;&nbsp;La Gomera</option><option class="lv2" value="49-SPC">&nbsp;&nbsp;&nbsp;La Palma</option><option class="lv2" value="50-ACE">&nbsp;&nbsp;&nbsp;Lanzarote</option><option class="lv2" value="51-TFS">&nbsp;&nbsp;&nbsp;Tenerife</option><option class="lv1" value="5-SID">Cape Verde Islands</option><option class="lv1" value="6-ANU,AUA,NAS,FPO,BGI,VRA,HOG,POP,SDQ,PUJ,LRM,GND,MBJ,PMV,UVF,BDA,HAV,CCC,GCM">Caribbean</option><option class="lv2" value="52-ANU">&nbsp;&nbsp;&nbsp;Antigua</option><option class="lv2" value="53-AUA">&nbsp;&nbsp;&nbsp;Aruba</option><option class="lv2" value="54-NAS,FPO">&nbsp;&nbsp;&nbsp;Bahamas</option><option class="lv2" value="55-BGI">&nbsp;&nbsp;&nbsp;Barbados</option><option class="lv2" value="56-BDA">&nbsp;&nbsp;&nbsp;Bermuda</option><option class="lv2" value="58-VRA,HOG,HAV,CCC">&nbsp;&nbsp;&nbsp;Cuba</option><option class="lv2" value="59-POP,SDQ,PUJ,LRM,AZS">&nbsp;&nbsp;&nbsp;Dominican Rep.</option><option class="lv2" value="61-GND">&nbsp;&nbsp;&nbsp;Grenada</option><option class="lv2" value="62-MBJ,BMJ">&nbsp;&nbsp;&nbsp;Jamaica</option><option class="lv2" value="65-UVF">&nbsp;&nbsp;&nbsp;St Lucia</option><option class="lv2" value="66-TAB">&nbsp;&nbsp;&nbsp;Tobago</option><option class="lv1" value="9-PUY,DBV,SPU">Croatia</option><option class="lv1" value="10-LCA,PFO,ECN">Cyprus</option><option class="lv2" value="221-">&nbsp;&nbsp;&nbsp;Northern Cyprus</option><option class="lv2" value="222-">&nbsp;&nbsp;&nbsp;Southern Cyprus</option><option class="lv1" value="215-">Dubai</option><option class="lv1" value="11-SSH,LXR,HRG,TCP,RMF">Egypt</option><option class="lv2" value="67-HRG">&nbsp;&nbsp;&nbsp;Hurghada</option><option class="lv2" value="211-LXR">&nbsp;&nbsp;&nbsp;Luxor</option><option class="lv2" value="69-RMF">&nbsp;&nbsp;&nbsp;Marsa Alam</option><option class="lv2" value="70-SSH">&nbsp;&nbsp;&nbsp;Sharm el Sheikh</option><option class="lv2" value="71-TCP">&nbsp;&nbsp;&nbsp;Taba</option><option class="lv1" value="196-MCO">Florida</option><option class="lv2" value="199-SFB">&nbsp;&nbsp;&nbsp;Gulf Coast</option><option class="lv2" value="198-MIA">&nbsp;&nbsp;&nbsp;Miami</option><option class="lv2" value="197-MCO">&nbsp;&nbsp;&nbsp;Orlando</option><option class="lv1" value="12-MRS,AVN,FNI,BOD,NCE,TLS">France - Southern</option><option class="lv1" value="14-BJL">Gambia</option><option class="lv1" value="15-GOI">Goa</option><option class="lv1" value="16-SKG,KLX,PVK,ATH">Greece Mainland</option><option class="lv2" value="72-ATH">&nbsp;&nbsp;&nbsp;Athens</option><option class="lv2" value="73-SKG">&nbsp;&nbsp;&nbsp;Halkidiki</option><option class="lv2" value="74-KLX">&nbsp;&nbsp;&nbsp;Kalamata</option><option class="lv2" value="75-PVK">&nbsp;&nbsp;&nbsp;Parga</option><option class="lv2" value="168-PVK,CFU">&nbsp;&nbsp;&nbsp;Sivota</option><option class="lv1" value="17-CFU,CHQ,HER,EFL,MJT,JMK,JTR,KGS,RHO,JSI,SMI,ZTH,KVA,PVK">Greek Islands</option><option class="lv2" value="77-CFU,PVK">&nbsp;&nbsp;&nbsp;Corfu</option><option class="lv2" value="78-CHQ,HER">&nbsp;&nbsp;&nbsp;Crete</option><option class="lv2" value="216-">&nbsp;&nbsp;&nbsp;Ithaca</option><option class="lv2" value="171-KGS">&nbsp;&nbsp;&nbsp;Kalymnos</option><option class="lv2" value="79-EFL">&nbsp;&nbsp;&nbsp;Kefalonia</option><option class="lv2" value="80-KGS">&nbsp;&nbsp;&nbsp;Kos</option><option class="lv2" value="81-PVK">&nbsp;&nbsp;&nbsp;Lefkas</option><option class="lv2" value="82-MJT">&nbsp;&nbsp;&nbsp;Lesvos</option><option class="lv2" value="217-">&nbsp;&nbsp;&nbsp;Meganissi</option><option class="lv2" value="83-JMK">&nbsp;&nbsp;&nbsp;Mykonos</option><option class="lv2" value="218-">&nbsp;&nbsp;&nbsp;Naxos</option><option class="lv2" value="167-PVK,CFU">&nbsp;&nbsp;&nbsp;Paxos</option><option class="lv2" value="84-RHO">&nbsp;&nbsp;&nbsp;Rhodes</option><option class="lv2" value="85-SMI">&nbsp;&nbsp;&nbsp;Samos</option><option class="lv2" value="86-JTR,JMK">&nbsp;&nbsp;&nbsp;Santorini</option><option class="lv2" value="87-JSI">&nbsp;&nbsp;&nbsp;Skiathos</option><option class="lv2" value="219-">&nbsp;&nbsp;&nbsp;Skopelos</option><option class="lv2" value="223-">&nbsp;&nbsp;&nbsp;Symi</option><option class="lv2" value="88-KVA">&nbsp;&nbsp;&nbsp;Thassos</option><option class="lv2" value="89-ZTH">&nbsp;&nbsp;&nbsp;Zante</option><option class="lv1" value="186-">Hong Kong</option><option class="lv1" value="18-GOI,TRV,MLE,CMB,MRU,SEZ">Indian Ocean</option><option class="lv1" value="19-CTA,OLB,AHO,VCE,NAP,RMI,PSA,MXP,FCO,BGY,VRN,OLB,AHO,CAG,CTA">Italy</option><option class="lv2" value="91-MXP,LIN,BGY,VRN,VBS">&nbsp;&nbsp;&nbsp;Italian Lakes</option><option class="lv2" value="90-CTA,OLB,VCE,NAP,RMI,PSA,MXP,FCO,BGY">&nbsp;&nbsp;&nbsp;Neapolitan Riviera</option><option class="lv2" value="92-CAG,AHO,OLB">&nbsp;&nbsp;&nbsp;Sardinia</option><option class="lv2" value="93-PMO,CTA,TPS">&nbsp;&nbsp;&nbsp;Sicily</option><option class="lv2" value="181-">&nbsp;&nbsp;&nbsp;Tuscany</option><option class="lv1" value="20-MBA,NBO">Kenya</option><option class="lv1" value="22-MLE">Maldives</option><option class="lv1" value="23-MLA">Malta</option><option class="lv1" value="24-MRU">Mauritius</option><option class="lv1" value="25-CZM">Mexico</option><option class="lv2" value="94-CUN">&nbsp;&nbsp;&nbsp;Cancun</option><option class="lv1" value="27-TIV,DBV">Montenegro</option><option class="lv1" value="28-AGA,RAK,TNG">Morocco</option><option class="lv2" value="101-AGA">&nbsp;&nbsp;&nbsp;Agadir</option><option class="lv2" value="102-RAK">&nbsp;&nbsp;&nbsp;Marrakech</option><option class="lv1" value="29-FAO,FNC,LIS">Portugal</option><option class="lv2" value="104-FAO">&nbsp;&nbsp;&nbsp;Algarve</option><option class="lv2" value="105-LIS">&nbsp;&nbsp;&nbsp;Lisbon</option><option class="lv2" value="106-FNC">&nbsp;&nbsp;&nbsp;Madeira</option><option class="lv1" value="185-">Singapore</option><option class="lv1" value="31-LJU">Slovenia</option><option class="lv2" value="206-">&nbsp;&nbsp;&nbsp;Slovenian Alps</option><option class="lv1" value="183-">South Africa</option><option class="lv2" value="184-">&nbsp;&nbsp;&nbsp;Cape Town</option><option class="lv1" value="34-IBZ,PMI,MAH,FUE,LPA,ACE,TFS,SPC,GMZ,ALC,GRO,REU,LEI,XRY,AGP">Spain</option><option class="lv2" value="107-IBZ,PMI,MAH">&nbsp;&nbsp;&nbsp;Balearic Islands</option><option class="lv2" value="108-FUE,LPA,ACE,TFS,SPC,GMZ">&nbsp;&nbsp;&nbsp;Canary Islands</option><option class="lv2" value="109-ALC">&nbsp;&nbsp;&nbsp;Costa Blanca</option><option class="lv2" value="110-GRO">&nbsp;&nbsp;&nbsp;Costa Brava</option><option class="lv2" value="111-LEI">&nbsp;&nbsp;&nbsp;Costa De Almeria</option><option class="lv2" value="112-XRY">&nbsp;&nbsp;&nbsp;Costa De La Luz</option><option class="lv2" value="113-AGP">&nbsp;&nbsp;&nbsp;Costa Del Sol</option><option class="lv2" value="114-REU,BCN">&nbsp;&nbsp;&nbsp;Costa Dorada</option><option class="lv2" value="161-FUE">&nbsp;&nbsp;&nbsp;Fuerteventura</option><option class="lv2" value="162-LPA">&nbsp;&nbsp;&nbsp;Gran Canaria</option><option class="lv2" value="160-IBZ">&nbsp;&nbsp;&nbsp;Ibiza</option><option class="lv2" value="163-GMZ">&nbsp;&nbsp;&nbsp;La Gomera</option><option class="lv2" value="164-SPC">&nbsp;&nbsp;&nbsp;La Palma</option><option class="lv2" value="165-ACE">&nbsp;&nbsp;&nbsp;Lanzarote</option><option class="lv2" value="158-PMI">&nbsp;&nbsp;&nbsp;Majorca / Mallorca</option><option class="lv2" value="159-MAH">&nbsp;&nbsp;&nbsp;Menorca / Minorca</option><option class="lv2" value="225-">&nbsp;&nbsp;&nbsp;Spain Mainland</option><option class="lv2" value="166-TFS">&nbsp;&nbsp;&nbsp;Tenerife</option><option class="lv1" value="35-CMB">Sri Lanka</option><option class="lv1" value="204-">Switzerland</option><option class="lv2" value="205-">&nbsp;&nbsp;&nbsp;Swiss Alps</option><option class="lv1" value="36-BKK,HKT">Thailand</option><option class="lv2" value="115-BKK">&nbsp;&nbsp;&nbsp;Bangkok</option><option class="lv2" value="214-">&nbsp;&nbsp;&nbsp;Koh Samui</option><option class="lv2" value="116-HKT">&nbsp;&nbsp;&nbsp;Phuket</option><option class="lv1" value="209-TUN,NBE">Tunisia</option><option class="lv1" value="39-ADB,AYT,BJV,DLM,BXN">Turkey</option><option class="lv2" value="117-AYT">&nbsp;&nbsp;&nbsp;Antalya Region</option><option class="lv2" value="118-BJV">&nbsp;&nbsp;&nbsp;Bodrum Region</option><option class="lv2" value="119-DLM">&nbsp;&nbsp;&nbsp;Dalaman Region</option><option class="lv2" value="120-ADB">&nbsp;&nbsp;&nbsp;Izmir Region</option><option class="lv1" value="40-MCO,SFB,JFK,EWR,LAS,IAD,BOS">USA</option><option class="lv2" value="121-BOS">&nbsp;&nbsp;&nbsp;Boston</option><option class="lv2" value="208-MCO,ORL,MIA">&nbsp;&nbsp;&nbsp;Florida</option><option class="lv2" value="123-LAS">&nbsp;&nbsp;&nbsp;Las Vegas</option><option class="lv2" value="177-NYC">&nbsp;&nbsp;&nbsp;New York</option><option class="lv2" value="182-">&nbsp;&nbsp;&nbsp;San Francisco</option><option class="lv2" value="125-IAD">&nbsp;&nbsp;&nbsp;Washington</option>
 		</select>
 	
 							
@@ -568,13 +807,261 @@
 					</div>
 					
 
+					<div id="dlc_dest_point">
+						<div class="sb_label">
+							City break to
+						</div>
+						
+	
+	<select name="num_destID_cp" id="num_destID_cp" class="destinationSelect">
+		<option value="0">--- Please Select ---</option>
+		<option value="0"></option>
+		
+					<option value="419">Aberdeen</option>
+				
+					<option value="365">Aix-en-provence</option>
+				
+					<option value="444">Almeria</option>
+				
+					<option value="232">Amsterdam</option>
+				
+					<option value="408">Antwerp</option>
+				
+					<option value="322">Athens</option>
+				
+					<option value="375">Avignon</option>
+				
+					<option value="380">Bangkok</option>
+				
+					<option value="233">Barcelona</option>
+				
+					<option value="424">Basel</option>
+				
+					<option value="323">Belfast</option>
+				
+					<option value="255">Berlin</option>
+				
+					<option value="325">Bilbao</option>
+				
+					<option value="326">Birmingham</option>
+				
+					<option value="327">Bologna</option>
+				
+					<option value="354">Bordeaux</option>
+				
+					<option value="381">Boston</option>
+				
+					<option value="451">Bratislava</option>
+				
+					<option value="356">Bristol</option>
+				
+					<option value="410">Bruges</option>
+				
+					<option value="241">Brussels</option>
+				
+					<option value="234">Budapest</option>
+				
+					<option value="379">Cannes</option>
+				
+					<option value="382">Cape Town</option>
+				
+					<option value="288">Cardiff</option>
+				
+					<option value="429">Catania</option>
+				
+					<option value="427">Chania</option>
+				
+					<option value="414">Cologne</option>
+				
+					<option value="247">Copenhagen</option>
+				
+					<option value="259">Cork</option>
+				
+					<option value="398">Disneyland Paris</option>
+				
+					<option value="383">Dubai</option>
+				
+					<option value="235">Dublin</option>
+				
+					<option value="411">Dubrovnik</option>
+				
+					<option value="413">Dusseldorf</option>
+				
+					<option value="236">Edinburgh</option>
+				
+					<option value="449">Florence</option>
+				
+					<option value="256">Frankfurt</option>
+				
+					<option value="333">Geneva</option>
+				
+					<option value="358">Genoa</option>
+				
+					<option value="409">Ghent</option>
+				
+					<option value="287">Glasgow</option>
+				
+					<option value="416">Gothenburg</option>
+				
+					<option value="455">Granada</option>
+				
+					<option value="453">Graz</option>
+				
+					<option value="437">Guernsey</option>
+				
+					<option value="337">Hamburg</option>
+				
+					<option value="384">Hong Kong</option>
+				
+					<option value="442">Inverness</option>
+				
+					<option value="338">Istanbul</option>
+				
+					<option value="339">Jersey</option>
+				
+					<option value="340">Krakow</option>
+				
+					<option value="385">Kuala Lumpur</option>
+				
+					<option value="386">Las Vegas</option>
+				
+					<option value="285">Leeds</option>
+				
+					<option value="249">Lille</option>
+				
+					<option value="272">Lisbon</option>
+				
+					<option value="360">Ljubljana</option>
+				
+					<option value="282">London</option>
+				
+					<option value="387">Los Angeles</option>
+				
+					<option value="253">Lyon</option>
+				
+					<option value="237">Madrid</option>
+				
+					<option value="422">Malaga</option>
+				
+					<option value="268">Malta</option>
+				
+					<option value="283">Manchester</option>
+				
+					<option value="353">Marrakech</option>
+				
+					<option value="362">Marseille</option>
+				
+					<option value="364">Milan</option>
+				
+					<option value="377">Monte Carlo</option>
+				
+					<option value="440">Montpellier</option>
+				
+					<option value="406">Montreal</option>
+				
+					<option value="389">Moscow</option>
+				
+					<option value="257">Munich</option>
+				
+					<option value="342">Murcia</option>
+				
+					<option value="263">Naples, Italy</option>
+				
+					<option value="400">New York</option>
+				
+					<option value="436">Newcastle</option>
+				
+					<option value="250">Nice</option>
+				
+					<option value="441">Palermo, Sicily</option>
+				
+					<option value="275">Palma</option>
+				
+					<option value="184">Paris</option>
+				
+					<option value="262">Pisa</option>
+				
+					<option value="417">Porto</option>
+				
+					<option value="238">Prague</option>
+				
+					<option value="448">Reykjavik</option>
+				
+					<option value="454">Riga</option>
+				
+					<option value="239">Rome</option>
+				
+					<option value="392">San Francisco</option>
+				
+					<option value="421">Seville</option>
+				
+					<option value="393">Singapore</option>
+				
+					<option value="412">Sofia</option>
+				
+					<option value="428">Split</option>
+				
+					<option value="280">Stockholm</option>
+				
+					<option value="345">Tallinn</option>
+				
+					<option value="407">Toronto</option>
+				
+					<option value="346">Toulouse</option>
+				
+					<option value="266">Turin</option>
+				
+					<option value="279">Valencia</option>
+				
+					<option value="404">Vancouver</option>
+				
+					<option value="260">Venice</option>
+				
+					<option value="347">Verona</option>
+				
+					<option value="240">Vienna</option>
+				
+					<option value="452">Vilnius</option>
+				
+					<option value="348">Warsaw</option>
+				
+					<option value="425">Zagreb</option>
+				
+					<option value="450">Zaragoza</option>
+				
+					<option value="349">Zurich</option>
+				
+	</select>
+	
+	
+	<select name="num_destID_ep" id="num_destID_ep" style="display:none;" class="destinationSelect">
+		<option value="0">--- Please Select ---</option>
+		<option value="0"></option>
+		
+					<option value="408">Antwerp</option>
+				
+					<option value="410">Bruges</option>
+				
+					<option value="241">Brussels</option>
+				
+					<option value="398">Disneyland Paris</option>
+				
+					<option value="409">Ghent</option>
+				
+					<option value="249">Lille</option>
+				
+					<option value="184">Paris</option>
+				
+	</select>
+	
+					</div>
 
-					<div id="dla_dest_point" style="display:none;">
+					<div id="dla_dest_point">
 						<div class="sb_label" style="">
 							Holidays to
 						</div><div class="sb_selection">
 							
-		<select name="num_DLA_destID" onclick="hideCalendar();" class="destinationSelect">
+		<select name="num_DLA_destID" class="destinationSelect" id="dla_destinationSelect">
 			<option value="0">--- Please Select ---</option>
 			<option value="">&nbsp;</option>
 			<option value="">---------------------------</option>
@@ -610,18 +1097,6 @@
 	
 						</div>
 					</div>
-
-					<div id="dlf_dest_point" style="display:none;">
-						<div class="sb_label">
-							Flights to
-						</div>
-						<div class="sb_selection" style="clear:left;width:auto;">
-							
-							<input type="hidden" id="frm_destination_point" name="frm_destination_point" value="">
-							<input autocomplete="off" type="text" id="frm_destination_name" value="" name="frm_destination_name" style="width:228px;">
-							<div class="anchordiv"><div id="frm_destination_suggestions" class="frm_suggestion_box"></div></div>
-						</div>
-					</div>
 					<br class="c">
 					<div class="seperator"></div>
 				
@@ -631,32 +1106,7 @@
 						When?
 					</div>
 					<div class="sb_selection">
-						<input type="text" name="dt" id="cal4input" value="08/06/2012" class="calinput" autocomplete="off" onkeydown="hideAndLockCalendar(4);" onblur="checkYCalDate(4);" onmouseover="checkYCalDate(4);unlockCalendar();">
-						<div class="anchorDiv" id="calAnchor4" style="padding:0px;"></div>
-					</div>
-				</div>
-
-				<div id="dlf_dates" style="display:none;">
-					<div class="sb_label">
-						Date Departing
-					</div>
-					<div class="sb_selection">
-						<input type="text" name="dateDeparting" id="cal1input" value="08/06/2012" class="calinput" autocomplete="off" onkeydown="hideAndLockCalendar(1);" onblur="checkYCalDate(1);" onmouseover="checkYCalDate(1);unlockCalendar();">
-						<div class="anchorDiv" id="calAnchor1" style="padding:0px;"></div>
-					</div>
-					<br class="c">
-					<div class="sb_selection">
-						<label for="typeOfFlightReturn" style="color:#fff;font-size:1.1em;vertical-align:top;line-height:22px;"><input type="radio" name="typeOfFlight" id="typeOfFlightReturn" value="0" checked="checked" onclick="js_SwitchFormFieldOnOff('cal2input', false);js_SwitchFormFieldOnOff('frm_nights', false);js_hideAllPopups();"> Return</label>
-						&nbsp;&nbsp;&nbsp;
-						<label for="typeOfFlightOneWay" style="color:#fff;font-size:1.1em;vertical-align:top;line-height:22px;"><input type="radio" name="typeOfFlight" id="typeOfFlightOneWay" value="1" onclick="js_SwitchFormFieldOnOff('cal2input', true);js_SwitchFormFieldOnOff('frm_nights', true);js_hideAllPopups();"> One way</label>
-					</div>
-					<br class="c">
-					<div class="sb_label">
-						Date Returning
-					</div>
-					<div class="sb_selection">
-						<input type="text" name="dateReturning" id="cal2input" value="09/06/2012" class="calinput" autocomplete="off" onkeydown="hideAndLockCalendar(2);" onblur="checkYCalDate(2);" onmouseover="checkYCalDate(2);unlockCalendar();">
-						<div class="anchorDiv" id="calAnchor2" style="padding:0px;"></div>
+						<input type="text" name="dt" id="cal4input" value="11/10/2012" class="calinput" autocomplete="off">
 					</div>
 				</div>
 				<br class="c">
@@ -667,7 +1117,7 @@
 					</div>
 					<div class="sb_selection">
 						
-	<select onclick="hideCalendar();" name="daysLater" class="dayLaterSelect">
+	<select name="daysLater" class="dayLaterSelect">
 		<option value="0" selected="selected">This day only</option>
 		<option value="1">+/- 1 day</option>
 		<option value="3">+/- 3 days</option>
@@ -677,84 +1127,423 @@
 					</div>
 					<br class="c">
 				</div>
+
 				<div id="hs_duration">
 					<div class="sb_label">
 						For how long?
 					</div>
 					<div class="sb_selection">
 					
-	<select onclick="hideCalendar();" name="nights" class="durationSelect">
-		
-		
-			<option value="1">1 Night</option>
-		
-			<option value="2">2 Nights</option>
-		
-			<option value="3">3 Nights</option>
-		
-			<option value="4">4 Nights</option>
-		
-			<option value="5">5 Nights</option>
-		
-			<option value="6">6 Nights</option>
-		
-			<option value="7" selected="" style="background-color:#ff7200;color:#FFFFFF">7 Nights</option>
-		
-			<option value="8">8 Nights</option>
-		
-			<option value="9">9 Nights</option>
-		
-			<option value="10">10 Nights</option>
-		
-			<option value="11">11 Nights</option>
-		
-			<option value="12">12 Nights</option>
-		
-			<option value="13">13 Nights</option>
-		
-			<option value="14" style="background-color:#ff7200;color:#FFFFFF">14 Nights</option>
-		
-			<option value="15">15 Nights</option>
-		
-			<option value="16">16 Nights</option>
-		
-			<option value="17">17 Nights</option>
-		
-			<option value="18">18 Nights</option>
-		
-			<option value="19">19 Nights</option>
-		
-			<option value="20">20 Nights</option>
-		
-			<option value="21">21 Nights</option>
-		
-			<option value="22">22 Nights</option>
-		
-			<option value="23">23 Nights</option>
-		
-			<option value="24">24 Nights</option>
-		
-			<option value="25">25 Nights</option>
-		
-			<option value="26">26 Nights</option>
-		
-			<option value="27">27 Nights</option>
-		
-			<option value="28">28 Nights</option>
-		
-			<option value="29">29 Nights</option>
-		
-			<option value="30">30 Nights</option>
-		
-			<option value="31">31 Nights</option>
-		
-	</select>
-
+		<select name="nights" class="durationSelect">
+			
+			
+				<option value="1">1 Night</option>
+			
+				<option value="2">2 Nights</option>
+			
+				<option value="3">3 Nights</option>
+			
+				<option value="4">4 Nights</option>
+			
+				<option value="5">5 Nights</option>
+			
+				<option value="6">6 Nights</option>
+			
+				<option value="7" selected="" style="background-color:#ff7200;color:#FFFFFF">7 Nights</option>
+			
+				<option value="8">8 Nights</option>
+			
+				<option value="9">9 Nights</option>
+			
+				<option value="10">10 Nights</option>
+			
+				<option value="11">11 Nights</option>
+			
+				<option value="12">12 Nights</option>
+			
+				<option value="13">13 Nights</option>
+			
+				<option value="14" style="background-color:#ff7200;color:#FFFFFF">14 Nights</option>
+			
+				<option value="15">15 Nights</option>
+			
+				<option value="16">16 Nights</option>
+			
+				<option value="17">17 Nights</option>
+			
+				<option value="18">18 Nights</option>
+			
+				<option value="19">19 Nights</option>
+			
+				<option value="20">20 Nights</option>
+			
+				<option value="21">21 Nights</option>
+			
+				<option value="22">22 Nights</option>
+			
+				<option value="23">23 Nights</option>
+			
+				<option value="24">24 Nights</option>
+			
+				<option value="25">25 Nights</option>
+			
+				<option value="26">26 Nights</option>
+			
+				<option value="27">27 Nights</option>
+			
+				<option value="28">28 Nights</option>
+			
+				<option value="29">29 Nights</option>
+			
+				<option value="30">30 Nights</option>
+			
+				<option value="31">31 Nights</option>
+			
+		</select>
+	
 					</div>
 					<br class="c">
 				</div>
+
+
+				<div id="dlc_duration">
+					<div class="sb_label">
+						For how long?
+					</div>
+					<div class="sb_selection">
+						
+		<select name="dlcNights" class="durationSelect">
+			
+			
+				<option value="1">1 Night</option>
+			
+				<option value="2">2 Nights</option>
+			
+				<option value="3" selected="">3 Nights</option>
+			
+				<option value="4">4 Nights</option>
+			
+				<option value="5">5 Nights</option>
+			
+				<option value="6">6 Nights</option>
+			
+				<option value="7" style="background-color:#ff7200;color:#FFFFFF">7 Nights</option>
+			
+				<option value="8">8 Nights</option>
+			
+				<option value="9">9 Nights</option>
+			
+				<option value="10">10 Nights</option>
+			
+				<option value="11">11 Nights</option>
+			
+				<option value="12">12 Nights</option>
+			
+				<option value="13">13 Nights</option>
+			
+				<option value="14" style="background-color:#ff7200;color:#FFFFFF">14 Nights</option>
+			
+				<option value="15">15 Nights</option>
+			
+				<option value="16">16 Nights</option>
+			
+				<option value="17">17 Nights</option>
+			
+				<option value="18">18 Nights</option>
+			
+				<option value="19">19 Nights</option>
+			
+				<option value="20">20 Nights</option>
+			
+				<option value="21">21 Nights</option>
+			
+				<option value="22">22 Nights</option>
+			
+				<option value="23">23 Nights</option>
+			
+				<option value="24">24 Nights</option>
+			
+				<option value="25">25 Nights</option>
+			
+				<option value="26">26 Nights</option>
+			
+				<option value="27">27 Nights</option>
+			
+				<option value="28">28 Nights</option>
+			
+				<option value="29">29 Nights</option>
+			
+				<option value="30">30 Nights</option>
+			
+				<option value="31">31 Nights</option>
+			
+		</select>
+	
+					</div>
+					<br class="c">
+				</div>
+
+				<div id="ep_times">
+					<span id="str_ep_time_out_section">
+						<div class="sb_label">
+							Depart time
+						</div>
+						
+
+	<select name="str_ep_time_out" id="str_ep_time_out" class="destinationSelect">
+		<option value="" selected="">--- Select a time ---</option>
+		<option value=""></option>
+		
+			<option value="etg_morning">Morning</option>
+		
+			<option value="etg_afternoon">Afternoon</option>
+		
+			<option value="etg_evening">Evening</option>
+		
+		<option value=""></option>
+		
+			<option value="time_00">00:00</option>
+		
+			<option value="time_01">01:00</option>
+		
+			<option value="time_02">02:00</option>
+		
+			<option value="time_03">03:00</option>
+		
+			<option value="time_04">04:00</option>
+		
+			<option value="time_05">05:00</option>
+		
+			<option value="time_06">06:00</option>
+		
+			<option value="time_07">07:00</option>
+		
+			<option value="time_08">08:00</option>
+		
+			<option value="time_09">09:00</option>
+		
+			<option value="time_10">10:00</option>
+		
+			<option value="time_11">11:00</option>
+		
+			<option value="time_12">12:00</option>
+		
+			<option value="time_13">13:00</option>
+		
+			<option value="time_14">14:00</option>
+		
+			<option value="time_15">15:00</option>
+		
+			<option value="time_16">16:00</option>
+		
+			<option value="time_17">17:00</option>
+		
+			<option value="time_18">18:00</option>
+		
+			<option value="time_19">19:00</option>
+		
+			<option value="time_20">20:00</option>
+		
+			<option value="time_21">21:00</option>
+		
+			<option value="time_22">22:00</option>
+		
+			<option value="time_23">23:00</option>
+		</select>
+	<select id="str_ep_time_out_template" style="display:none;">
+		<option value="" selected="">--- Select a time ---</option>
+		<option value=""></option>
+		
+			<option value="etg_morning">Morning</option>
+		
+			<option value="etg_afternoon">Afternoon</option>
+		
+			<option value="etg_evening">Evening</option>
+		
+		<option value=""></option>
+		
+			<option value="time_00">00:00</option>
+		
+			<option value="time_01">01:00</option>
+		
+			<option value="time_02">02:00</option>
+		
+			<option value="time_03">03:00</option>
+		
+			<option value="time_04">04:00</option>
+		
+			<option value="time_05">05:00</option>
+		
+			<option value="time_06">06:00</option>
+		
+			<option value="time_07">07:00</option>
+		
+			<option value="time_08">08:00</option>
+		
+			<option value="time_09">09:00</option>
+		
+			<option value="time_10">10:00</option>
+		
+			<option value="time_11">11:00</option>
+		
+			<option value="time_12">12:00</option>
+		
+			<option value="time_13">13:00</option>
+		
+			<option value="time_14">14:00</option>
+		
+			<option value="time_15">15:00</option>
+		
+			<option value="time_16">16:00</option>
+		
+			<option value="time_17">17:00</option>
+		
+			<option value="time_18">18:00</option>
+		
+			<option value="time_19">19:00</option>
+		
+			<option value="time_20">20:00</option>
+		
+			<option value="time_21">21:00</option>
+		
+			<option value="time_22">22:00</option>
+		
+			<option value="time_23">23:00</option>
+		</select>
+	
+					</span>
+					<br>
+					<span id="str_ep_time_in_section">
+						<div class="sb_label">
+							Return time
+						</div>
+						
+
+	<select name="str_ep_time_in" id="str_ep_time_in" class="destinationSelect">
+		<option value="" selected="">--- Select a time ---</option>
+		<option value=""></option>
+		
+			<option value="etg_morning">Morning</option>
+		
+			<option value="etg_afternoon">Afternoon</option>
+		
+			<option value="etg_evening">Evening</option>
+		
+		<option value=""></option>
+		
+			<option value="time_00">00:00</option>
+		
+			<option value="time_01">01:00</option>
+		
+			<option value="time_02">02:00</option>
+		
+			<option value="time_03">03:00</option>
+		
+			<option value="time_04">04:00</option>
+		
+			<option value="time_05">05:00</option>
+		
+			<option value="time_06">06:00</option>
+		
+			<option value="time_07">07:00</option>
+		
+			<option value="time_08">08:00</option>
+		
+			<option value="time_09">09:00</option>
+		
+			<option value="time_10">10:00</option>
+		
+			<option value="time_11">11:00</option>
+		
+			<option value="time_12">12:00</option>
+		
+			<option value="time_13">13:00</option>
+		
+			<option value="time_14">14:00</option>
+		
+			<option value="time_15">15:00</option>
+		
+			<option value="time_16">16:00</option>
+		
+			<option value="time_17">17:00</option>
+		
+			<option value="time_18">18:00</option>
+		
+			<option value="time_19">19:00</option>
+		
+			<option value="time_20">20:00</option>
+		
+			<option value="time_21">21:00</option>
+		
+			<option value="time_22">22:00</option>
+		
+			<option value="time_23">23:00</option>
+		</select>
+	<select id="str_ep_time_in_template" style="display:none;">
+		<option value="" selected="">--- Select a time ---</option>
+		<option value=""></option>
+		
+			<option value="etg_morning">Morning</option>
+		
+			<option value="etg_afternoon">Afternoon</option>
+		
+			<option value="etg_evening">Evening</option>
+		
+		<option value=""></option>
+		
+			<option value="time_00">00:00</option>
+		
+			<option value="time_01">01:00</option>
+		
+			<option value="time_02">02:00</option>
+		
+			<option value="time_03">03:00</option>
+		
+			<option value="time_04">04:00</option>
+		
+			<option value="time_05">05:00</option>
+		
+			<option value="time_06">06:00</option>
+		
+			<option value="time_07">07:00</option>
+		
+			<option value="time_08">08:00</option>
+		
+			<option value="time_09">09:00</option>
+		
+			<option value="time_10">10:00</option>
+		
+			<option value="time_11">11:00</option>
+		
+			<option value="time_12">12:00</option>
+		
+			<option value="time_13">13:00</option>
+		
+			<option value="time_14">14:00</option>
+		
+			<option value="time_15">15:00</option>
+		
+			<option value="time_16">16:00</option>
+		
+			<option value="time_17">17:00</option>
+		
+			<option value="time_18">18:00</option>
+		
+			<option value="time_19">19:00</option>
+		
+			<option value="time_20">20:00</option>
+		
+			<option value="time_21">21:00</option>
+		
+			<option value="time_22">22:00</option>
+		
+			<option value="time_23">23:00</option>
+		</select>
+	
+					</span>
+				</div>
 				
-					<div class="seperator"></div>
+					<div class="seperator hotelhide"></div>
 					
 		
 
@@ -763,7 +1552,7 @@
 						No. of rooms?
 					</div>
 					<div class="sb_selection">
-						<select id="frm_RoomsRequired" name="frm_RoomsRequired" class="destinationSelect" onclick="hideCalendar();" onchange="js_OutputRoomOccupants(this.value)">
+						<select name="frm_RoomsRequired" class="frm_RoomsRequired destinationSelect">
 							<option value="1" selected="selected">1 room</option>
 							<option value="2">2 rooms</option>
 							<option value="3">3 rooms</option>
@@ -774,7 +1563,7 @@
 					</div>
 				</div>
 				<br class="c">
-				<div id="hs_rooms_occ">
+				<div class="hs_rooms_occ">
 					<div class="sb_label">&nbsp;</div>
 					<div class="sb_selection">
 						<div class="hs_OccupantsAdults" style="width:46px;">
@@ -785,55 +1574,9 @@
 						</div>
 					</div>
 					<br class="c">
-					<div id="hs_Occupants"></div>
+					<div class="hs_Occupants"></div>
 				</div>
-				
-				<div id="dlf_rooms" style="display:none;">
-					<div class="sb_label">&nbsp;</div>
-					<div class="sb_selection">
-						<div class="hs_OccupantsAdults" style="width:46px;">
-							Adults
-						</div>
-						<div class="hs_OccupantsChildren" style="width:53px;">
-							Under 18s
-						</div>
-						<div style="clear:both"></div>
-					</div>
-					<br class="c">
-					<div class="sb_label">
-						Passengers
-					</div>
-					<div id="fs_Occupants">
-						<div class="hs_OccupantsAdults">
-							<select id="num_NumberOfAdults" name="num_NumberOfAdults">
-							<option value="1">1</option>
-							<option value="2" selected="selected">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-							<option value="5">5</option>
-							<option value="6">6</option>
-							<option value="7">7</option>
-							<option value="8">8</option>
-							<option value="9">9</option>
-							</select>
-						</div>
-						<div class="hs_OccupantsChildren">
-							<select id="num_NumberOfChildren" name="num_NumberOfChildren" onchange="js_OutputChildAges()">
-							<option value="0">0</option>
-							<option value="1">1</option>
-							<option value="2">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-							<option value="5">5</option>
-							<option value="6">6</option>
-							<option value="7">7</option>
-							<option value="8">8</option>
-							<option value="9">9</option>
-							</select>
-						</div>
-					</div>
-					<br class="c">
-				</div>
+
 				<div id="hs_ChildAges" class="hs_ChildAges"></div>
 
 				
@@ -850,7 +1593,7 @@
 								Board basis
 							</div>
 							<div class="sb_selection">
-								<select id="ff_BB" onclick="hideCalendar();" name="BoardBases">
+								<select id="ff_BB" name="BoardBases">
 									
 									<option value="" selected="">Any</option>
 									<option value="RO">Room Only</option>
@@ -871,7 +1614,7 @@
 							</div>
 							<div class="sb_selection">
 								
-								<select id="ff_SR" name="ST" onclick="hideCalendar();">
+								<select id="ff_SR" name="ST">
 									<option value="" selected="">Any</option>
 									<option value="2,3,4,5">2 Star or higher</option>
 									<option value="3,4,5">3 Star or higher</option>
@@ -904,9 +1647,10 @@
 	
 		</div>
 	
+
 	<div id="bottom_of_search" style="height:6px;"></div>
 	<br class="c">
-
+	
 		
 	</div>
 </div>
@@ -914,22 +1658,14 @@
 <div class="widget">
 	<div class="header">Holiday Search Tools</div>
 	<div class="content blueContent searchTools">
-		<a href="http://www.directline-flights.co.uk/flight_search.cfm" title="Cheap flights" style="display:block;float:left;" class="selection">
-			<img src="http://dlhcdn.com/bi/images/spacer.gif" alt="Cheap flights" class="sprite_dlf">
-			<strong>Cheap flights</strong>
-		</a>
-		<br class="c">
 		<a href="http://www.directline-holidays.co.uk/holiday_search.cfm" title="Advanced search" style="display:block;float:left;" class="selection">
 			<img src="http://dlhcdn.com/bi/images/spacer.gif" alt="Advanced search" class="sprite_adv_search_tool">
 			<strong>Advanced search</strong>
 		</a>
-		<br class="c">
 		<a href="http://www.directline-holidays.co.uk/hotel_search.cfm" title="cheap hotels" style="display:block;float:left;" class="selection">
 			<img src="http://dlhcdn.com/bi/images/spacer.gif" alt="cheap hotels" class="sprite_dla">
 			I know the <strong>hotel name</strong>
 		</a>
-		<br class="c">
-		<div style="clear: both"></div>
 	</div>
 </div>
 
@@ -937,10 +1673,6 @@
 	<div class="header">Holiday Deals and Offers</div>
 	<div class="content newsletter">
 		<form action="http://www.directline-holidays.co.uk/subscribe.cfm" method="POST">
-			<div class="selection last bold">
-				Sign up for emails packed full of our best deals!
-			</div>
-
 			<input name="email_address" type="Text" class="newsletterInput" value="Email Address" onfocus="this.value = '';" onblur="emailclearcheck(this);">
 			<input type="Image" src="http://dlhcdn.com/bi/images/spacer.gif" class="sprite_sign_up" alt="Sign up">
 		</form>
@@ -965,7 +1697,7 @@
 			<tbody><tr>
 				<td style="padding-top:2px;">
 					
-					<span class="facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=/404.cfm&amp;send=false&amp;layout=button_count&amp;width=400&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=21" allowtransparency="true" frameborder="0" scrolling="no"></iframe></span>
+					<span class="facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.directline-holidays.co.uk&amp;send=false&amp;layout=button_count&amp;width=400&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=21" allowtransparency="true" frameborder="0" scrolling="no"></iframe></span>
 				</td>
 				<td>
 					
@@ -989,37 +1721,35 @@
 	</div>
 	<div class="clr"></div>
 	
-						<div id="nav">
-							
-								<a href="http://www.directline-holidays.co.uk" target="_self" class="navItem current">Holidays</a>
-							
-								<a href="http://www.directline-holidays.co.uk/last-minute-holidays" target="_self" class="navItem ">Late Deals</a>
-							
-								<a href="http://www.directline-holidays.co.uk/summer-2012-offers" target="_self" class="navItem ">Offers</a>
-							
-								<a href="http://www.directline-holidays.co.uk/booking-holidays/low-deposit-holidays" target="_self" class="navItem ">Low Deposit</a>
-							
-								<a href="http://www.directline-holidays.co.uk/board-type/all-inclusive-holidays" target="_self" class="navItem ">All Inclusive</a>
-							
-								<a href="http://www.directline-holidays.co.uk/destinations.cfm" target="_self" class="navItem ">Destinations</a>
-							
-								<a href="http://www.directline-holidays.co.uk/blog" target="_self" class="navItem ">Blog</a>
-							
-						</div>
-						<div class="c"></div>
-						<div id="ribbon">
-							<span class="left" id="navLeft">
+							<div id="nav">
 								
-									<a href="http://www.directline-citybreaks.co.uk" target="_blank">Citybreaks</a> | 
-									<a href="http://www.directline-skiing.co.uk" target="_blank" rel="nofollow">Skiing</a> 
-							</span>
-							<span class="right" id="navRight">
+								<a href="http://www.directline-holidays.co.uk" target="_self" class="scMainNavigation navItem current">Home</a>
 								
-									<a href="http://www.directline-holidays.co.uk/my-account" target="_self" rel="nofollow">My Account</a> | 
-									<a href="http://www.directline-holidays.co.uk/customer-services" target="_self">Customer Services</a> 
-							</span>
-						</div>
-					
+								<a href="http://www.directline-holidays.co.uk/last-minute-holidays" target="_self" class="scMainNavigation navItem ">Late Deals</a>
+								
+								<a href="http://www.directline-holidays.co.uk/summer-2012-offers" target="_self" class="scMainNavigation navItem ">Offers</a>
+								
+								<a href="http://www.directline-holidays.co.uk/booking-holidays/payment-options" target="_self" class="scMainNavigation navItem ">Payment Options</a>
+								
+								<a href="http://www.directline-holidays.co.uk/board-type/all-inclusive-holidays" target="_self" class="scMainNavigation navItem ">All Inclusive</a>
+								
+								<a href="http://www.directline-holidays.co.uk/destinations.cfm" target="_self" class="scMainNavigation navItem ">Destinations</a>
+								
+							</div>
+							<div class="c"></div>
+							<div id="ribbon">
+								<span class="left" id="navLeft">
+									
+										<a href="http://www.directline-skiing.co.uk" target="_blank" rel="nofollow">Skiing</a> | 
+										<a href="http://www.directline-holidays.co.uk/blog" target="_self">Blog</a> 
+								</span>
+								<span class="right" id="navRight">
+									
+										<a href="https://mybooking.directline-holidays.co.uk/" target="_self" rel="nofollow">My Booking</a> | 
+										<a href="http://www.directline-holidays.co.uk/customer-services" target="_self">Customer Services</a> 
+								</span>
+							</div>
+						
 </div>
 
 <div id="footer">
@@ -1033,10 +1763,8 @@
 		<a href="http://www.directline-holidays.co.uk/Contact-Us" title="Contact us">Contact Us</a>&nbsp;&nbsp;|&nbsp;
 		<a href="http://www.directline-holidays.co.uk/bookingconditions" title="Booking conditions">Booking Conditions</a>&nbsp;&nbsp;|&nbsp;
 		<a href="http://www.directline-holidays.co.uk/sitemap" title="Site map">Site Map</a>&nbsp;&nbsp;|&nbsp;
-		<a href="http://www.directline-holidays.co.uk/news" title="holiday &amp; travel news">News</a>&nbsp;&nbsp;|&nbsp;
 		<a href="http://www.directline-holidays.co.uk/faq" title="FAQs">FAQs</a>&nbsp;&nbsp;|&nbsp;
 		<a href="http://www.directline-holidays.co.uk/rss.xml" title="Cheap Holidays RSS">RSS</a>&nbsp;&nbsp;|&nbsp;
-		<a href="http://www.directline-holidays.co.uk/links.cfm" title="Holiday links">Links</a>&nbsp;&nbsp;|&nbsp;
 		<a href="http://www.directline-holidays.co.uk/Privacy-Policy" title="Privacy Policy">Privacy &amp; Cookies Policy</a>
 	</div>
 </div>
@@ -1109,41 +1837,10 @@
 		</div>
 	</div>
 	
-	<script type="text/javascript" src="http://dlhcdn.com/bj/dlh.js?20120516"></script>
-	<script type="text/javascript">
-		var	dat_maxCalDate = "12/07/2013";
-		document.observe('dom:loaded',function() {
-			if ($('frm_holidaySearch')) {
-				$('frm_holidaySearch').observe('submit', function(evt) {
-					if (!checkHolidayForm(this)) {
-						Event.stop(evt);
-					}
-				});
-			}
-			$$('.closeForm img').invoke('observe', 'click', function() {
-				if ($('divEmailSent')) {
-					closeEmailSent();
-				} else {
-					closeEmailThis();
-				}
-			 });
-			$$('.printer_button a').invoke('observe', 'click', function(evt) {
-				_gaq.push(['_trackEvent','Deal Pages', 'Print This']);
-				window.print();
-				Event.stop(evt);
-			});
-
-		});
-	</script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://dlhcdn.com/bj/dlh.js?20120927"></script>
 
 	
 					<script type="text/javascript">
-						var dat_MinDate = "06/08/2012";
-						var dat_DeptDate = "06/2012";
-						var dat_RetDate = "06/2012";
-						var csr_PageDate = dat_DeptDate;
-						var csr_InwardDateDefault = dat_MinDate;
-						var	dat_maxCalDate = "12/07/2013";
 
 						
 							var num_RoomsRequired = 1;
@@ -1154,44 +1851,18 @@
 					</script>
 				
 				<script type="text/javascript">
-					// Load the holiday form
-					var objFreeformSearch = {flight:{dept:'',dest:''},hotel:''};
-					document.observe('dom:loaded',initHolidaySearchForm);
-					
-						objFreeformSearch.flight.dept = new dlh_freeform_flight('departure');
-						objFreeformSearch.flight.dest = new dlh_freeform_flight('destination');
-					
-				</script>
-			
-				<script type="text/javascript">
-					function emailclearcheck(el){
-						if(el.value == ''){el.value = 'Email Address';}
-					}
-				</script>
-			
-				<script type="text/javascript">
 
 					arrSearchRollingText = ["We’ll be as quick as possible...","We are looking for the best deals...","We are searching major tour operators like...","Thomson and Thomas Cook...","and low cost suppliers like...","Easyjet, Aer Lingus, BMI...","a few more seconds and we will have some great holidays..."];
 					numSearchRollingSpeed = 4000;
-					strSearchImageToDisplay = '/assets/Beach-Sunset1.jpg';
+					strSearchImageToDisplay = '/assets/Star-Fish-on-Beach.jpg';
 					strSearchContent = "\n    <p><img alt=\"No Debit Card Fees\" src=\"http:\/\/www.directline-holidays.co.uk\/images\/splashScreen\/splashNoFees.png\"><\/p>";
 					numSearchPhone = '0800 408 6337';
 
 					arrCostRollingText = ["Please wait, you are half way...","to booking your holiday...","If you are not ready to book this time...","then make sure you jot down the holiday reference code..."];
 					numCostRollingSpeed = 4000;
-					strCostImageToDisplay = "\/assets\/Antigua-Coastline.jpg";
+					strCostImageToDisplay = "\/assets\/Sri-Lanka4.jpg";
 					strCostContent = "\n    <p><img alt=\"No Debit Card Fees\" src=\"http:\/\/www.directline-holidays.co.uk\/images\/splashScreen\/splashNoFees.png\"><\/p>";
 					numCostPhone = '0800 408 6331';
-					document.observe('dom:loaded', function() {
-						strCostImageToDisplay = new Element('img', { 'src': strCostImageToDisplay, 'class': 'splashMainImage' });
-						strSearchImageToDisplay = new Element('img', { 'src': strSearchImageToDisplay, 'class': 'splashMainImage' });
-
-						objSearchContent = new Element('div');
-						objSearchContent.innerHTML = strSearchContent;
-
-						objCostContent = new Element('div');
-						objCostContent.innerHTML = strCostContent;
-					});
 				</script>
 			
 
@@ -1202,18 +1873,73 @@
 	
 			_gaq.push(['_trackPageview','privacy-policy']);
 		
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<script type="text/javascript">
+	
+			sTmp = {"channel":"Holidays","prop13":"Utility Section: privacy policy","prop2":"Utility Section: privacy policy","prop1":"Utility Section","pageName":"privacy policy","prop3":"Utility Section: privacy policy","prop4":"Utility Section: privacy policy"};
+			for ( key in sTmp ) {
+				if ( sTmp.hasOwnProperty(key) ) {
+					s[key] = sTmp[key];
+				}
+			}
+		
+			s.events = "event3";
+		
+
+	
+	var s_code=s.t();if(s_code)document.write(s_code)
+</script>
+<script type="text/javascript">
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 </script>
 
+	<noscript><img src="http://metrics.directline-holidays.co.uk/b/ss/dlhprod/1/H.24.4--NS/0?[AQB]&cdp=3&[AQE]"
 
+height="1" width="1" border="0" alt="" /></noscript>
+
+		<script language="javascript" src="http://www.everestjs.net/static/st.v2.js"></script>
+		<script language="javascript">
+			var ef_event_type="transaction";
+			var ef_transaction_properties = "ev_Landing_Page=1";
+			/* Do not modify below this line */
+			var ef_segment = "4430";
+			var ef_search_segment = "4429";
+			var ef_userid="3108";
+			var ef_pixel_host="pixel.everesttech.net";
+			var ef_fb_is_app = 0;
+			effp();
+		</script>
+		<noscript><img src='http://pixel.everesttech.net/3108/t?ev_Landing_Page=1' width='1' height='1'/></noscript>
 	
 
 	<script type="text/javascript">
-		RingRevenue.advertiser_integration = {
-		id : '6319',
-		numberSelector : '.promoNumber',
-		numberLeadingOne: false
-		};
+		
+			function _mt_ready(){
+				if (typeof(MyThings) != "undefined") {
+					MyThings.Track({
+						EventType: MyThings.Event.Visit,
+							Action: "300"
+					});
+				}
+			}
+		
+		var mtHost = (("https:" == document.location.protocol) ? "https" : "http") + "://rainbow-uk.mythings.com";
+		var mtAdvertiserToken = "1845-100-uk";
+		$(function() {
+			var s =  document.createElement('script'); s.type = 'text/javascript';
+			s.src = mtHost + "/c.aspx?atok="+ mtAdvertiserToken;
+			var s2 = document.getElementsByTagName('script')[0];
+			s2.parentNode.insertBefore(s, s2);
+
+		});
+
 	</script>
-	
+
 
  </body></html>
