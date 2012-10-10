@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623081439id_/http%3A//ifttt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010162752id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
 
 # IFTTT / Privacy Policy
 
@@ -48,4 +48,4 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 ####  Contact Us 
 
-If you have any additional questions or concerns about this policy or the Service in general, please feel free to contact us at 
+If you have any additional questions or concerns about this policy or the Service in general, please feel free to contact us at [privacy@ifttt.com](mailto:privacy@ifttt.com). 
