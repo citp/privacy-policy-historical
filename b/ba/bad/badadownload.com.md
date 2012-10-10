@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the badadownload.com privacy policy that was archived on 2012-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120209152156id_/http%3A//badadownload.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badadownload.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010162849id_/http%3A//badahub.com/privacy) for the most accurate reproduction.*
 
-# badadownload.com » Privacy Policy
+# Privacy Policy » Badahub.com
+
+  
+
 
 **What information do we collect?**
 
@@ -71,7 +74,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://badadownload.com/2009/08/disclamer.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://badahub.com/2009/08/disclamer.html>
 
 **Your Consent**
 
@@ -85,8 +88,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://badadownload.com/
+http://badahub.com/
 
-badadownload@gmail.com
+badahub@gmail.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
