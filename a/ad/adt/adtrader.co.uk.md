@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625021346id_/http%3A//www.adtrader.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010191138id_/http%3A//www.adtrader.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Ad Trader classifieds, Free local classified ads with images ads online now.
 
