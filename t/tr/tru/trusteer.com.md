@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627224705id_/http%3A//www.trusteer.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010095940id_/http%3A//www.trusteer.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Support
 
