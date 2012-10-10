@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531100431id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010065833id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
 
 # 
 
@@ -17,7 +17,7 @@ For the purposes of the Data Protection Act 1998 (the "Act"), the data controlle
 
 ## Your consent
 
-Subject to the additional information contained on the page headed "Statement on the use and disclosure of Personal Data", by using the Website, you understand and agree that the information you provide through the Website will be held on a database created and operated by Pets At Home Limited and used by Pets at Home Limited, any other company in the Pets at Home group, any of their affiliated companies, and/or other selected third parties to provide and personalise our service. We, our group and affiliated companies, and other carefully selected third parties, may contact you for marketing reasons via post, telephone, fax or email or other appropriate means.
+Subject to the additional information contained on the page headed "Statement on the use and disclosure of Personal Data", by using the Website, you understand and agree that the information you provide through the Website will be held on a database created and operated by Pets At Home Limited and used by Pets at Home Limited, any other company in the Pets at Home group, any of their affiliated companies, and/or other selected third parties to provide and personalise our service. We, our group and affiliated companies, and other carefully selected third parties, may contact you for marketing reasons via post, telephone, fax or email or other appropriate means.
 
 Back to Top
 
@@ -95,7 +95,7 @@ A cookie is an element of data that a website can send to your browser, which ma
 
 Cookies are used to enable you to register and log on to the Website and make purchases and store items in your basket whilst on the Website. Please note, if your browser is set to reject cookies, then, unfortunately you will not be able to shop online. Most web browsers automatically accept cookies. You do not have to accept cookies and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie. This will give you the opportunity to decide whether to accept it or not. We may also use cookies to provide you with customised information from the Website. 
 
-For further information about cookies and how they are used, please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+[Click here](https://web.archive.org/webapp/wcs/stores/servlet/Info_10601_Cookies_-1_10551) for further information about cookies and how they are used.[](http://www.aboutcookies.org/)
 
 Back to Top
 
