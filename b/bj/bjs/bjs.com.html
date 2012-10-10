@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bjs.com privacy policy that was archived on 2012-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530235410id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bjs.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010081739id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="dj_khtml dj_safari"><head>
 		<title>Privacy Policy - BJ's Wholesale Club</title>
@@ -17,7 +17,7 @@
 		<script type="text/javascript" src="/wcsstore/RAPIDStorefrontAssetStore/javascript/Common.js"></script>
 		<script type="text/javascript" src="/wcsstore/RAPIDStorefrontAssetStore/javascript/AlertUtil.js"></script>
 		<script type="text/javascript" src="/wcsstore/RAPIDStorefrontAssetStore/javascript/AC_RunActiveContent.js"></script>
-	</head>
+	<script language="javascript" type="text/javascript" src="https://web.archive.org/web/20120921210530/http://libs.coremetrics.com/configs/90393428.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20120921210530/http://tmscdn.coremetrics.com/tms/dispatcher-v3.js"></script></head>
 	<body>
 	
 
@@ -70,9 +70,8 @@
 
 <!-- Layout enclosing table --><!--Header--><!-- BEGIN HeaderDisplay.jspf --><!-- Start - JSP File name:  style1/CachedHeaderDisplay.jsp -->
 
-<script>if(top!=self)window.location="GenericError.jsp"</script>
-
-<!-- BEGIN CommonJSToInclude.jspf -->
+<script>if(top.location.host!=self.location.host)window.location="GenericError.jsp"</script>
+<!--sr-2--><!-- BEGIN CommonJSToInclude.jspf -->
 
 <script type="text/javascript">
 dojo.registerModulePath("wc", "../wc");
@@ -138,12 +137,6 @@ function getImageDirectoryPath()
 		_gaq.push(['_trackPageview']);
   	</script>
   	<!-- Google Analytics implementation -->
-
-<script language="JavaScript" type="text/javascript"> 
-	var s_account="bjscom";
-</script>
-<script language="JavaScript" type="text/javascript" src="/wcsstore/RAPIDStorefrontAssetStore/javascript/omniture/s_code.js">"></script>
-
 <script type="text/javascript" src="/wcsstore/RAPIDStorefrontAssetStore/javascript/StoreCommonUtilities.js"></script>
 	
 	<!--  SiteTagging Start -->
@@ -164,6 +157,9 @@ var h_w = window;
 	var ie4=document.all;
 	var ns6=document.getElementById&&!document.all;
 	
+	
+		dojo.require("wc.analytics.CoremetricsEventListener");
+		(new wc.analytics.CoremetricsEventListener()).load();
 	
 //[[>-->
 </script>
@@ -370,80 +366,13 @@ function openFAQs(url, name) {
 	return openReSizableWindow(url, 466, 490, name);
 }
 
+function openHelp(url, name) {
+	return openReSizableWindow(url, 1024, 512, name);
+}
 function addScOpenEvent(){
-		s.events = "scOpen";
-					var s_code=s.t();
-					if(s_code){
-						//document.write(s_code);
-					}
-					if(navigator.appVersion.indexOf('MSIE')>=0){
-						//document.write(unescape('%3C')+'\!-'+'-');	
-					}
 		
 	}
 	
-function updateCartCount(){
- var noOfItemsInCart = readCookie('noOfItemsInCart');
- 
- if(noOfItemsInCart == null){
-	noOfItemsInCart = '0';
-  }		
-	
-  var htmlStr = document.getElementById("cartLink").innerHTML;
-  
-  var newHtmlStr = htmlStr.substring(0,htmlStr.indexOf("(")) + "("+noOfItemsInCart+")";
-  document.getElementById("cartLink").innerHTML = newHtmlStr;
-}
-
-function updateWishListCount(){ 
-	var noOfItemsInWL = readCookie('noOfItemsInWL');
-	 
-	if(noOfItemsInWL == null){
-		noOfItemsInWL = '0';
-	}		
-		
-	var htmlStr = document.getElementById("wishListLink").innerHTML;
-		
-	var newHtmlStr = htmlStr.substring(0,htmlStr.indexOf("(")) + "("+noOfItemsInWL+")";
-	document.getElementById("wishListLink").innerHTML = newHtmlStr;
-
-}
-
-dojo.addOnLoad(function(){
-	
-   if(dojo.isIE == 6 || dojo.isIE == 7 ){
-	  
-	   var noOfItemsInCart = readCookie('noOfItemsInCart');
-
-	   if(noOfItemsInCart == null){
-		noOfItemsInCart = '0';
-	    }		
-
-	    var htmlStr = document.getElementById("cartLink").innerHTML;
-
-	    var newHtmlStr = htmlStr.substring(0,htmlStr.indexOf("(")) + "("+noOfItemsInCart+")";
-	  document.getElementById("cartLink").innerHTML = newHtmlStr;
-  }
-  
- }); 
- 
- 
- dojo.addOnLoad(function(){
- 	 if(dojo.isIE == 6 || dojo.isIE == 7 ){
- 	
-		var noOfItemsInWL = readCookie('noOfItemsInWL');
-
-		if(noOfItemsInWL == null){
-			noOfItemsInWL = '0';
-		}		
-
-		var htmlStr = document.getElementById("wishListLink").innerHTML;
-
-		var newHtmlStr = htmlStr.substring(0,htmlStr.indexOf("(")) + "("+noOfItemsInWL+")";
-		document.getElementById("wishListLink").innerHTML = newHtmlStr;
-	}
-
-  }); 
 
 
 
@@ -452,6 +381,20 @@ dojo.addOnLoad(function(){
 
 
 <script type="text/javascript" src="/wcsstore/RAPIDStorefrontAssetStore/javascript/navigation/mainnav.js"></script>
+
+
+
+	<script type="text/javascript" src="/wcsstore/RAPIDStorefrontAssetStore/javascript/Analytics.js"></script>
+	<script>
+	analyticsJS.storeId=10201;
+	analyticsJS.catalogId=10201
+	analyticsJS.loadTooltipHandlers();
+	analyticsJS.loadPagingHandler();
+	analyticsJS.loadDialogHandler("nonArrowEyeDialog","Non-Arroweye Personalization");
+	dojo.addOnLoad(function(){
+		analyticsJS.registerActionCartViews();
+	});
+</script>
 
 
 
@@ -542,7 +485,7 @@ dojo.addOnLoad(function(){
 		function deleteFromCart(boxNumber, orderItemId,lineItemType,catEntryId) {
 			//Check if a request is already in progress. If not, allow this request to proceed.
 			if(!removeFromCartInProgress){
-		
+				
 				//Change the flag to indicate that now a request is in progress.
 				removeFromCartInProgress = true;
 				
@@ -563,6 +506,25 @@ dojo.addOnLoad(function(){
 			return false;
 		}
 		
+		function callCoremetricsForQtyUpdate(partnumber,description, oldQuantityField, newQuantity, price,categoryId, storeId){
+			//alert('CachedHeaderDisplay.callCoremetricsForQtyUpdate --  ' +partnumber+ ':'+ description + ':'+ oldQuantityField.value+ ':'+ newQuantity+ ':'+ price+':'+ categoryId+ ':'+ storeId);
+			if ((newQuantity * 1) > (oldQuantityField.value * 1)) {
+					
+				//alert('calling coremetrics');
+					cmCreateShopAction5Tag(partnumber,description, newQuantity, price,categoryId, storeId, 'USD');
+					cmDisplayShop5s();
+				
+			}
+			oldQuantityField.value = newQuantity;
+		}
+		
+		function callCMForMapPricing(partnumber,description,quantity,price,categoryId, storeId){
+			
+			//alert('callCMForMapPricing.callCMForMapPricing --  ' +partnumber+ ':'+ description + ':'+ quantity+ ':'+ price+categoryId+ ':'+ storeId);
+			cmCreateShopAction5Tag(partnumber,description, quantity, price,categoryId, storeId, 'USD');
+			cmDisplayShop5s();
+		
+		}
 		function updateShipModeIdOfBlock(theObject) {
 			var index = theObject.selectedIndex;
 			var shipModeId = theObject.options[index].value;
@@ -644,8 +606,8 @@ wc.render.declareRefreshController({
         * @param {object} widget The registered refresh area
         */
         
-        if(true)
-        	return false;
+    //    if(true)
+    //    	return false;
         	
 		var param = [];
 	    if(message.actionId == 'AjaxAddOrderItem' || message.actionId == 'PrdAjaxAddOrderItem' || message.actionId == 'AjaxProductAddToCart'){
@@ -683,11 +645,13 @@ wc.render.declareRefreshController({
 
         //The dialog contents has changed..so destroy the old dialog with stale data..
         destroyDialog();
-
-        if(showDropdown){
+		//fix for 2567
+        if(showDropdown && !ServicesDeclarationJS.orderPrepareinprogress){
                //We have added item to cart..So display the drop down with item added message..
                showMiniShopCartDropDown(null,'placeHolder','quick_cart_container','orderItemAdded');
                showDropdown = false;
+               //fix for 2941
+              
         }
 	}
 
@@ -753,10 +717,10 @@ wc.render.declareRefreshController({
 	,modelChangedHandler: function(message, widget) {
 		var controller = this;
 		var renderContext = this.renderContext;
-		//var param = [];
-	   // if(message.actionId == 'AjaxInterestItemAdd' || message.actionId == 'AjaxInterestItemDelete'){
-	    //        widget.refresh(param);
-	   // }
+		var param = [];
+	    if(message.actionId == 'AjaxInterestItemAdd' || message.actionId == 'AjaxInterestItemDelete'){
+	            widget.refresh(param);
+	    }
 	}
 
 	,postRefreshHandler: function(widget) {
@@ -794,7 +758,12 @@ wc.render.declareRefreshController({
 
 <!--  start of header  -->
 <div id="header" parsewidgets="false">
-<div id="logo"><a href="/"> <img src="/wcsstore/BJs/images/BJs_logo.gif" alt="BJ's Wholesale Club" border="0"> </a></div>
+	<!---->
+<div id="logo">
+	<a href="/"> 
+		<img src="/wcsstore/BJs/images/BJs_logo.gif" alt="BJ's Wholesale Club" border="0"> 
+	</a>
+</div>
 <div id="SiteTagDiv"></div>	
 <div id="username">
 
@@ -807,16 +776,16 @@ wc.render.declareRefreshController({
 		 populateLatLong(form, zipCode);
 	}
 	function whatIsThisWindow() {
-		var urlLocation = 'http://www.bjs.com/webapp/wcs/stores/servlet/BjsContentPopUpView?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;titleName=Associate+Membership+%23+to+Online+Registration';
+		var urlLocation = '/webapp/wcs/stores/servlet/BjsContentPopUpView?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;titleName=Associate+Membership+%23+to+Online+Registration';
 		window.open(urlLocation, "mywindow", "status=1,scrollbars=1,resizable=1,width=470,height=240");
 	}
 </script>
 <!-- 2559 - no need to pass false in rememberMeCookie - Sudish --><!-- 2559 - removed the rememberMeCookie as it is false - Sudish --><!-- 2559 - added the rememberMeCookie if it is true - Sudish -->
 		<div class="hiUser">
-			<a href="/webapp/wcs/stores/servlet/BJsMembershipPurchase?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;URL=MembershipPurchaseSummaryView&amp;errorView=MembershipErrorView">Join now</a> | 
-			<a href="/join-the-club.content.join_consumer.A">About Membership</a> | 
-			<!-- BEGIN UserDisplayParams.jsp -->
-<a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;logonReturnURL=%2fprivacy-policy.content.about_privacy.A.about&amp;logonReturnURL=%2fpentium-king-platform-5-piece-bedroom-set---espresso.product.25658">Sign In/Register</a>
+		 
+			       <a href="/info.aboutmembership.options"> Membership</a> | 
+		<!-- BEGIN UserDisplayParams.jsp -->
+<a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;logonReturnURL=%2fprivacy-policy.content.about_privacy.A.about&amp;logonReturnURL=%2fcheckered-coca-cola-barstool.product.185617">Sign In/Register</a>
 <!-- END UserDisplayParams.jsp -->
 		</div>
 	<!-- 2298-Abandon cart fix for nonmember regn and emailoptions update -->
@@ -832,8 +801,14 @@ wc.render.declareRefreshController({
 	
 	<li dojotype="wc.widget.RefreshArea" border="1" id="wishList" widgetid="wishList" controllerid="wishListController">
 		
+		<a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10201&amp;catalogId=10201&amp;langId=-1&amp;listId=." id="wishListLink">wish list
+		   <img src="/wcsstore/BJs/images/icon_check_mark.gif" align="middle" class="cart-img-align">
 		
-		<a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10201&amp;catalogId=10201&amp;langId=-1&amp;listId=." id="wishListLink">wish list<img src="/wcsstore/BJs/images/icon_check_mark.gif" align="middle" class="cart-img-align"> (0)</a>
+				(0)
+			
+		
+		</a>
+
 		
 	
 	
@@ -844,49 +819,136 @@ wc.render.declareRefreshController({
 	</li>
 	
 	<li dojotype="wc.widget.RefreshArea" border="1" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="miniShoppingCartController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all">
-		<!-- Mark the position..will show our dialog here --> 
+		
+	<input type="hidden" value="{0}" id="miniShopCartTotalData">
+<!-- Mark the position..will show our dialog here --> 
 <div id="placeHolder"></div>
 	
 
 <div>
 	<!--<span class="cart-btn"><a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201"><img src="/wcsstore/BJs/images/icon-cart.gif" alt="Cart" align="top" class="cart-img-align"/></a></span>
 	-->
-	<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201" class="topLinks" style="margin-right: 0px;" id="cartLink">
-		cart&nbsp; <img src="/wcsstore/BJs/images/icon_shopping_cart.gif" alt="Cart" align="top" class="cart-img-align"> (0)</a> 
-	
-	<!--<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201" style="margin-right: 0px;" class="topLinks" id="miniCartTotals"></a>
+	<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201" class="topLinks" style="margin-right: 0px;">
+		cart&nbsp;
+		<img src="/wcsstore/BJs/images/icon_shopping_cart.gif" alt="Cart" align="top" class="cart-img-align">
+		
+				(0)
+			
+	</a> 
+	<!--<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201" style="margin-right: 0px;" class="topLinks" id="miniCartTotals">{0}</a>
 --></div>
 
-
 <div id="quick_cart_container" style="position:absolute;display:none;">
-
-	
-		<div id="MiniShopCartRecentlyAdded" style="display:none;">
-			
-<table width="320" height="60" cellspacing="0" cellpadding="0" style="margin:4px;" class="general-miniboxcolor PaddingTopMedium PaddingBottomMedium PaddingLeftLarge PaddingRightLarge">
-<tbody>
-	<tr>
-		<td colspan="2">
-				<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	    			<tbody>
-	    				<tr>
-	    				<td style="font-size:14px; font-weight:bold; font-family: Verdana;padding-top: 2px;">
-	    					<center>Item added to cart</center>
-	    				</td></tr>
-					</tbody>
-				</table>
+	<div id="quick_cart">  
+		<div class="container" id="WC_MiniShopCartDisplay_div_1"> 
+			<div id="MiniShopCartProductsList" style="display:none;">
 				
-			
-		</td>
+<table width="324" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+	<table width="100%" cellspacing="0" cellpadding="0" border="0" class="general-backcolor">
+	<tbody><tr>
+	<td width="290" class="largeBoldTxt PaddingBottomSmall PaddingLeftLarge PaddingTopSmall">
+		<!--<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10001"><img src="/wcsstore/Westons/images/colors/color7/nav/btn_view_cart.gif" alt="Cart" align="top"></a> -->
+		Shopping Cart
+	</td>
+	<td width="6" rowspan="10" align="right" valign="top">
+		<img src="/wcsstore/BJs/images/icon-x.gif" alt="Close" style="cursor:pointer" class="PaddingTopSmall PaddingRightSmall" onclick="hideElementById('MiniShopCartProductsList');">
+	</td>
 	</tr>
+
+	<tr>
+	<td class="miniBorder" colspan="2">
+	<div id="miniShopCart">
+
+	<form name="MiniShoppingCartForm" id="MiniShoppingCartForm" action="">
+
+			<input type="hidden" name="totalitemincart" value="">
+
+		<table cellspacing="0" cellpadding="0" border="0" width="100%">
+		<tbody><tr>
+		<td class="BordersGrayBottom PaddingTopMedium PaddingBottomMedium PaddingLeftLarge PaddingRightLarge" valign="top">
+			<div class="popupproductlist_add">
+			
+			 	<div id="miniShopCartEmpty" style="display:none;"><br>Your shopping cart is empty.<br><br></div>
+			 <!-- {/if} -->
+			</div>
+		</td>
+		</tr>
+		</tbody></table>
+	</form>
+
+	</div>
+	</td>
+	</tr>
+	
+	</tbody></table>
+</td>
+</tr>
 </tbody>
 </table>
+								
+			</div>
+	
+			<div id="MiniShopCartRecentlyAdded" style="display:none;">
+				
+	<div role="dialog" dojoattachpoint="titleBar" class="dijitDialogTitleBar" tabindex="0" wairole="dialog">
+	<span style="display: none; visibility: hidden;" dojoattachpoint="titleNode" class="dijitDialogTitle"></span>
+	<span style="display: none; visibility: hidden;" dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: hide">
+		<span style="display: none; visibility: hidden;" dojoattachpoint="closeText" class="closeText">x</span>
+	</span>
+	</div>
+	<div dojoattachpoint="containerNode">
+	<div id="quick_cart">
+		<div class="container" id="WC_MiniShopCartDisplay_div_1">
+		
+			<div id="MiniShopCartRecentlyAdded" style="display: block;">
+	
+<div id="inlineCartContainer">
+	<table border="0" cellpadding="0" cellspacing="0" width="324" class="general-backcolor miniShopCartTitle">
+	<tbody><tr>
+ 		<td class="BordersGrayBottom largeBoldTxt PaddingBottomSmall PaddingLeftLarge PaddingTopSmall">Added to Shopping Cart:</td>
+ 		<td class="BordersGrayBottom PaddingBottomSmall" valign="top"><div align="right"><img src="/wcsstore/BJs/images/icon-x.gif" alt="Close" class="PaddingTopSmall PaddingRightSmall" style="cursor: pointer;" onclick="hideElementById('MiniShopCartRecentlyAdded');"></div></td>
+	</tr>
+		<tr>
+					<td colspan="2" class="BordersGrayBottom PaddingTopMedium PaddingBottomMedium PaddingLeftLarge PaddingRightLarge" valign="top">
 
-		</div>
+						<div class="popupproductlist_add">
+								 
+							
 
-        		 	
+							
+
+						</div>
+
+		    		</td>	
+				</tr>
+			
+			
+	
+				
+								
+
+	<tr>
+		<td></td>
+	</tr>
+
+
+	
+	</tbody></table>
 </div>
+			</div>
+		</div>
+	</div>          		 	
+</div>
+	<span dojoattachpoint="tabEnd" dojoattachevent="onfocus:_cycleFocus" tabindex="0"></span>
 
+
+			</div>
+		</div>
+	</div>          		 	
+</div>
 	</li>
 	
 	<script type="text/javascript">
@@ -898,7 +960,7 @@ wc.render.declareRefreshController({
 		dojo.addOnLoad(function() {
 			// only allow mini shopping cart to display after the page has completely loaded, otherwise
 			// there's a possibility of an 'Operation Aborted' error in IE.
-			//dojo.byId("MiniShoppingCart").onmouseover = displayShoppingCart;
+			dojo.byId("MiniShoppingCart").onmouseover = displayShoppingCart;
 		});
 	</script>
 	
@@ -957,7 +1019,8 @@ wc.render.declareRefreshController({
 <div class="newHeaderBox">
 <ul class="newNavigationBar selectFree">
 
-		<li><a href="/electronics.category.160.2002336" class="" onmouseover="javascript:divMenu.show('dd160', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd160');">
+		<li>
+		<a href="/electronics.category.160.2002336" class="" onmouseover="javascript:divMenu.show('dd160', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd160');">
 		Electronics </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd160">
 		<ul class="dropdownList">
@@ -971,9 +1034,6 @@ wc.render.declareRefreshController({
 				<li><a href="/electronics/gps-navigation.category.198.160.2001020.1">GPS Navigation</a></li>
 					
 			
-				<li><a href="/electronics/video-games--systems.category.223.160.2000352.1">Video Games &amp; Systems</a></li>
-					
-			
 				<li><a href="/electronics/security-systems.category.203.160.2000359.1">Security Systems</a></li>
 					
 			
@@ -984,6 +1044,9 @@ wc.render.declareRefreshController({
 					
 			
 				<li><a href="/electronics/apple-products.category.3000000000000029503.160.2005280.1">Apple Products</a></li>
+					
+			
+				<li><a href="/electronics/video-games--systems.category.223.160.2000352.1">Video Games &amp; Systems</a></li>
 					
 			
 				<li><a href="/electronics/mp3-accessories--docking-stations.category.3000000000000017503.160.2004786.1">MP3 Accessories &amp; Docking Stations</a></li>
@@ -1006,20 +1069,18 @@ wc.render.declareRefreshController({
 			
 				<li><a href="/electronics/batteries.category.121503.160.2001330.1">Batteries</a></li>
 					
-			
-				<li><a href="/electronics/digital-picture-frames.category.369.160.2000494.1">Digital Picture Frames</a></li>
-					
 				
 			</ul>
 			</div>		
 		</li>
 		
-		<li><a href="/computers.category.743.2000825" class="" onmouseover="javascript:divMenu.show('dd743', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd743');">
+		<li>
+		<a href="/computers.category.743.2000825" class="" onmouseover="javascript:divMenu.show('dd743', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd743');">
 		Computers </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd743">
 		<ul class="dropdownList">
 			
-				<li><a href="/computers/laptops-tablets--ultrabooks.category.747.743.2000507.1">Laptops, Tablets &amp; Ultrabooks</a></li>
+				<li><a href="/computers/laptops-tablets-and-ultrabooks.category.747.743.2000507.1">Laptops Tablets and Ultrabooks</a></li>
 					
 			
 				<li><a href="/computers/desktops--all-in-ones.category.744.743.2000073.1">Desktops &amp; All-In-Ones</a></li>
@@ -1053,7 +1114,8 @@ wc.render.declareRefreshController({
 			</div>		
 		</li>
 		
-		<li><a href="/office-supplies.category.1143.2002010" class="" onmouseover="javascript:divMenu.show('dd1143', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd1143');">
+		<li>
+		<a href="/office-supplies.category.1143.2002010" class="" onmouseover="javascript:divMenu.show('dd1143', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd1143');">
 		Office Supplies </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd1143">
 		<ul class="dropdownList">
@@ -1074,7 +1136,8 @@ wc.render.declareRefreshController({
 			</div>		
 		</li>
 		
-		<li><a href="/home.category.385.2000199" class="" onmouseover="javascript:divMenu.show('dd385', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd385');">
+		<li>
+		<a href="/home.category.385.2000199" class="" onmouseover="javascript:divMenu.show('dd385', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd385');">
 		Home </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd385">
 		<ul class="dropdownList">
@@ -1137,42 +1200,43 @@ wc.render.declareRefreshController({
 			</div>		
 		</li>
 		
-		<li><a href="/seasonal.category.28511.2001117" class="" onmouseover="javascript:divMenu.show('dd28511', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd28511');">
+		<li>
+		<a href="/seasonal.category.28511.2001117" class="" onmouseover="javascript:divMenu.show('dd28511', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd28511');">
 		Seasonal </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd28511">
 		<ul class="dropdownList">
 			
-				<li><a href="/seasonal/arbors-pergolas--gazebos.category.29506.28511.2005260.1">Arbors, Pergolas &amp; Gazebos</a></li>
-					
-			
-				<li><a href="/seasonal/awnings--outdoor-shading.category.29510.28511.2003635.1">Awnings &amp; Outdoor Shading</a></li>
-					
-			
-				<li><a href="/seasonal/butcher-shop.category.689.28511.2005527.1">Butcher Shop</a></li>
-					
-			
 				<li><a href="/seasonal/emergency-preparedness.category.3000000000000008007.28511.2004431.1">Emergency Preparedness</a></li>
+					
+			
+				<li><a href="/seasonal/fall-cleanup.category.3000000000000036003.28511.2005719.1">Fall Cleanup</a></li>
+					
+			
+				<li><a href="/seasonal/fireplaces--accessories.category.475.28511.2001059.1">Fireplaces &amp; Accessories</a></li>
+					
+			
+				<li><a href="/seasonal/free-shipping.category.3000000000000001012.28511.2003671.1">Free Shipping</a></li>
 					
 			
 				<li><a href="/seasonal/greenhouses.category.29503.28511.2001122.1">Greenhouses</a></li>
 					
 			
-				<li><a href="/seasonal/outdoor-power-tools.category.3000000000000018504.28511.2004928.1">Outdoor Power Tools</a></li>
-					
-			
 				<li><a href="/seasonal/patio-furniture.category.29505.28511.2003620.1">Patio Furniture</a></li>
 					
 			
-				<li><a href="/seasonal/swimming-pools--accessories.category.28024.28511.2003523.1">Swimming Pools &amp; Accessories</a></li>
-					
-			
-				<li><a href="/seasonal/swing-sets-and-climbers.category.810.28511.2003537.1">Swing Sets and Climbers</a></li>
+				<li><a href="/seasonal/team-sports.category.28027.28511.2005786.1">Team Sports</a></li>
 					
 			
 				<li><a href="/seasonal/sheds-and-storage.category.3000000000000001009.28511.2003739.1">Sheds and Storage</a></li>
 					
 			
-				<li><a href="/seasonal/air-conditioners-fans-and-heaters.category.3000000000000001012.28511.2003671.1">Air Conditioners, Fans and Heaters</a></li>
+				<li><a href="/seasonal/tailgating--entertaining.category.3000000000000016007.28511.2004826.1">Tailgating &amp; Entertaining</a></li>
+					
+			
+				<li><a href="/seasonal/halloween-costumes-and-decor.category.3000000000000016513.28511.2004772.1">Halloween Costumes and Decor</a></li>
+					
+			
+				<li><a href="/seasonal/gourmet-food-and-gift-baskets.category.3000000000000001010.28511.2003722.1">Gourmet Food and Gift Baskets</a></li>
 					
 			
 				<li><a href="/seasonal/gift-cards.category.124013.28511.2001427.1">Gift Cards</a></li>
@@ -1181,20 +1245,15 @@ wc.render.declareRefreshController({
 				<li><a href="/seasonal/floral-collections.category.3000000000000001011.28511.2003710.1">Floral Collections</a></li>
 					
 			
-				<li><a href="/seasonal/patio-and-garden.category.124010.28511.2001431.1">Patio and Garden</a></li>
-					
-			
-				<li><a href="/seasonal/screenhouses-and-privacy-panels.category.3000000000000001015.28511.2003758.1">Screenhouses and Privacy Panels</a></li>
-					
-			
-				<li><a href="/seasonal/trampolines-and-accessories.category.3000000000000001017.28511.2003756.1">Trampolines and Accessories</a></li>
+				<li><a href="/seasonal/holiday-decorations.category.3000000000000038004.28511.2005830.1">Holiday Decorations</a></li>
 					
 				
 			</ul>
 			</div>		
 		</li>
 		
-		<li><a href="/sports.category.986.2000149" class="" onmouseover="javascript:divMenu.show('dd986', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd986');">
+		<li>
+		<a href="/sports.category.986.2000149" class="" onmouseover="javascript:divMenu.show('dd986', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd986');">
 		Sports </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd986">
 		<ul class="dropdownList">
@@ -1242,7 +1301,8 @@ wc.render.declareRefreshController({
 			</div>		
 		</li>
 		
-		<li><a href="/toys.category.808.2000705" class="" onmouseover="javascript:divMenu.show('dd808', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd808');">
+		<li>
+		<a href="/toys.category.808.2000705" class="" onmouseover="javascript:divMenu.show('dd808', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd808');">
 		Toys </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd808">
 		<ul class="dropdownList">
@@ -1290,7 +1350,8 @@ wc.render.declareRefreshController({
 			</div>		
 		</li>
 		
-		<li><a href="/baby.category.1035.2002451" class="" onmouseover="javascript:divMenu.show('dd1035', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd1035');">
+		<li>
+		<a href="/baby.category.1035.2002451" class="" onmouseover="javascript:divMenu.show('dd1035', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd1035');">
 		Baby </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd1035">
 		<ul class="dropdownList">
@@ -1329,7 +1390,8 @@ wc.render.declareRefreshController({
 			</div>		
 		</li>
 		
-		<li><a href="/health--beauty.category.850.2001045" class="" onmouseover="javascript:divMenu.show('dd850', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd850');">
+		<li>
+		<a href="/health--beauty.category.850.2001045" class="" onmouseover="javascript:divMenu.show('dd850', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd850');">
 		Health &amp; Beauty </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd850">
 		<ul class="dropdownList">
@@ -1358,6 +1420,9 @@ wc.render.declareRefreshController({
 				<li><a href="/health--beauty/weight-loss--nutrition.category.945.850.2000910.1">Weight Loss &amp; Nutrition</a></li>
 					
 			
+				<li><a href="/health--beauty/spa-gifts.category.983.850.2001677.1">Spa Gifts</a></li>
+					
+			
 				<li><a href="/health--beauty/smoking-cessation.category.952.850.2001833.1">Smoking Cessation</a></li>
 					
 			
@@ -1374,10 +1439,14 @@ wc.render.declareRefreshController({
 			</div>		
 		</li>
 		
-		<li><a href="/jewelry.category.100.2000297" class="" onmouseover="javascript:divMenu.show('dd100', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd100');">
+		<li>
+		<a href="/jewelry.category.100.2000297" class="" onmouseover="javascript:divMenu.show('dd100', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd100');">
 		Jewelry </a> <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd100">
 		<ul class="dropdownList">
+			
+				<li><a href="/jewelry/birthstones.category.3000000000000036004.100.2005773.1">Birthstones</a></li>
+					
 			
 				<li><a href="/jewelry/jewelry-favorites.category.3000000000000026005.100.2005027.1">Jewelry Favorites</a></li>
 					
@@ -1437,7 +1506,7 @@ wc.render.declareRefreshController({
 					<div class="genericESpot">
 						<div class="caption" style="display:none;">header_TravelServices</div>
 				<ul class="dropdownList">
-	<li><span class="first"><a href="javascript:popupWindow('#');">Travel</a></span></li>
+	<li><span class="first"><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=96904&amp;u=http%253a%252f%252ftravel.bjs.com%252f');">Travel</a></span></li>
 	<li><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=14472&amp;u=http%253a%252f%252fwww.bjsvacations.com%252fpromotion%252fbjs%252fcarrental%252fdefault.asp');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Car Rentals</a></li>
 	<li><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=14474&amp;u=http%253a%252f%252fwww.bjsvacations.com%252fcruises%252f');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cruises</a></li>
 	<li><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=14476&amp;u=http%253a%252f%252fwww.bjsvacations.com%252fhotels%252f');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hotels</a></li>
@@ -1445,7 +1514,7 @@ wc.render.declareRefreshController({
 	<li><a href="javascript:popupWindow('http://www.bjsauto.com/affiliate.aspx?Affiliate=712');">Auto Buying</a></li>
 	<li><a href="javascript:popupWindow('http://goldexchange.bjs.com/?k=108');">BJ’s Gold Exchange</a></li>
 	<li><a href="javascript:popupWindow('http://www.bjsoptical.com');">BJ’s Optical<sup>®</sup></a></li>
-	<li><a href="javascript:popupWindow('http://www.barclaycardus.com/apply/Landing.action?campaignId=1307&amp;cellNumber=17');">BJ’s Visa<sup>®</sup> Card</a></li>
+	<li><a href="javascript:popupWindow('http://www.barclaycardus.com/apply/Landing.action?campaignId=1474&amp;cellNumber=32&amp;referrerid=BJOL050912');">BJ’s Visa<sup>®</sup> Card</a></li>
 	<li><a href="javascript:popupWindow('http://www.firstdata.com/bjs');">Credit Card Acceptance</a></li>
 	<li><a href="/custom-built-sheds.content.services_sheds.A.services">Custom-built Sheds</a></li>
 	<li><a href="/deli-bakery.content.services_deli_bakery.A.services">Deli &amp; Bakery Party Planning </a></li>
@@ -1456,6 +1525,7 @@ wc.render.declareRefreshController({
 	<li><a href="javascript:popupWindow('http://www.ehealthinsurance.com/ehi/Alliance?allid=BJS29291');">Health Insurance</a> </li>
 	<li><a href="javascript:popupWindow('http://www.libertymutual.com/bjs/index.html?&amp;src=BJs_servicepages');">Home &amp; Auto Insurance</a></li>
 	<li><a href="javascript:popupWindow('http://www.bjshomeimprovement.com');">Home Improvement</a></li>
+	<li><a href="/prepaid-phone-cards.content.services_prepaid_phone.A.services">Prepaid Phone Cards</a></li>
 	<li><a href="http://tires.bjs.com">Tire Center</a></li>
 	<li class="last"><a href="javascript:popupWindow('http://estore.vzwshop.com/bjs');">Verizon Wireless</a></li>
 </ul>
@@ -1476,13 +1546,28 @@ wc.render.declareRefreshController({
 
 </div>
 
-<!-- End - JSP File name:  style1/CachedHeaderDisplay.jsp --><!-- END HeaderDisplay.jspf --><!-- /Header --><!-- Content --><!-- END LayoutContainerTop.jspf -->
+<!-- End - JSP File name:  style1/CachedHeaderDisplay.jsp -->
+
+<script type="text/javascript">
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+</script>
+
+
+<!-- END HeaderDisplay.jspf --><!-- /Header --><!-- Content --><!-- END LayoutContainerTop.jspf -->
 <div id="wrapper" parsewidgets="false" align="left">
 	 
     <ul class="subnav">
         <li id="pagetitle"></li>
 		
-        <li id="pagepath"><a href="/">Home</a> &gt; 
+        <li id="pagepath"><a href="/">Home</a> &gt;
 			
         		<a href="/about-us.content.about.A">About Us</a>  &gt;
         	
@@ -1586,7 +1671,7 @@ function showLessRefine() {
 
 <h1>Privacy Policy</h1>
 <p><strong>Effective Date: September 20, 2001<br>
-Last Updated: January 7, 2011 (note new address below) </strong></p>
+Last Updated: June 30, 2012 (to reflect change in hours for Member Care) </strong></p>
 <p>This Privacy Policy describes our privacy practices with respect to information we collect about our Members and other customers and visitors who (1) shop in our warehouse clubs or purchase products through this and other web site(s) operated by BJ’s Wholesale Club, Inc. (“BJ’s Sites”), or (2) register to use BJ’s Sites.</p>
 <p><strong>COMMITMENT TO PRIVACY</strong></p>
 <p>BJ’s knows that you care about how your information is used and shared. We respect your right to privacy. Your ability to make informed choices about the use of your information is important to us. We want to make sure that you understand the type of information we collect about you, how it is used and the safeguards that we have in place in order to protect it. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of personal information.</p>
@@ -1673,7 +1758,7 @@ Last Updated: January 7, 2011 (note new address below) </strong></p>
 <p><strong>To change your email preferences</strong> to indicate that you do not want to receive Promotional Material via email, you can click on the unsubscribe link on the bottom of any promotional email that you receive from BJ’s as the sender.</p>
 <p><strong>To change all marketing preferences either</strong>:</p>
 <ul>
-  <li>Call BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9 A.M. – 7 P.M. E.T. and Saturday – Sunday, 9 A.M. – 6 P.M. E.T.<br>
+  <li>Call BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small> E.T., Saturday, 9<small>AM</small> – 6<small>PM</small> E.T. and Sunday, 12<small>NOON</small> – 6<small>PM</small> E.T.<br>
     </li>
   <li>Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.</li>
 </ul>
@@ -1682,7 +1767,7 @@ Last Updated: January 7, 2011 (note new address below) </strong></p>
 <p>You may update, review, or correct your account information, including your marketing preferences, at any time by:</p>
 <ul>
   <li>Accessing your Online Profile via the "Login" link on the BJs.com Home Page.<br>
-    Calling BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9 A.M. – 7 P.M. E.T. and Saturday – Sunday, 9 A.M. – 6 P.M. E.T.<br>
+    Calling BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small> E.T., Saturday, 9<small>AM</small> – 6<small>PM</small> E.T and Sunday, 12<small>NOON</small> – 6<small>PM</small> E.T.<br>
   </li>
   <li>Writing us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.</li>
 </ul>
@@ -1724,7 +1809,7 @@ Last Updated: January 7, 2011 (note new address below) </strong></p>
         <li style="font-size: 10px;"><a href="/community-relations.content.about_community_relations.A.about_community">Community Relations</a></li> 
         <li style="font-size: 10px;"><a href="/about/press.shtml">Press Room</a></li> 
         <li style="font-size: 10px;"><a href="/terms-of-use.content.about_terms.A.about">Terms of Use</a></li>
-		<li style="text-decoration:none;"><a href="http://www.facebook.com/bjswholesaleclub" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/facebook.gif" alt="Facebook" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/#!/bjswholesale" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/twitter.gif" alt="Twitter" width="24" height="24" vspace="10" border="0"></a></li>
+		<li style="text-decoration:none;"><a href="http://www.facebook.com/bjswholesaleclub" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/facebook.gif" alt="Facebook" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/#!/bjswholesale" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/twitter.gif" alt="Twitter" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://www.pinterest.com/bjswholesale" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/pinterest.gif" alt="Pinterest" width="24" height="24" vspace="10" border="0"></a></li>
       </ul> 
     </div> 
   </div> 
@@ -1733,12 +1818,11 @@ Last Updated: January 7, 2011 (note new address below) </strong></p>
     <div class="title" title="Membership"><img src="/wcsstore/BJs/images/ft_membership.gif" alt="Membership"></div> 
     <div class="content"> 
       <ul class="list"> 
-        <li style="font-size: 10px;"><a href="/join-the-club.content.join_consumer.A">Membership Options/Join</a></li> 
+        <li style="font-size: 10px;"><a href="/info.aboutmembership.options">Membership Options/Join</a></li> 
         <li style="font-size: 10px;"><a href="/bjs-rewards-membership.content.member_rewards.A.join_consumer">BJ’s Rewards Membership</a></li> 
         <li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/BJsMembershipSummaryView?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;URL=AjaxLogonForm">My Account</a></li>
         <li style="font-size: 10px;"><a href="/about/news/index.shtml">Club News</a></li>
 		<li style="font-size: 10px;"><a href="/about/news/cat28.shtml">BJ’s Book Club</a></li>
-		<li style="text-decoration:none;"><a href="http://www.bjscatalogs-digital.com/bjs/spring2012" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/outdoorLiving.jpg" alt="BJ's Spring 2012 Catalog >" width="135" height="15" border="0" style="padding-top:9px;"></a></li>
       </ul> 
       <ul class="list"> 
         <li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/CouponsDisplayView?storeId=10201&amp;catalogId=10201">In-Club Coupons</a></li> 
@@ -1761,11 +1845,11 @@ Last Updated: January 7, 2011 (note new address below) </strong></p>
       </ul> 
       <ul class="list">
         <li style="font-size: 10px;"><a href="/about/news/cat1.shtml">Product Recalls</a></li> 
-        <li style="font-size: 10px;"><a onclick="openFAQs(this.href, 'faqs');return false;" href="/help.content.help_shop.E#ret">Return Policy</a></li>
+        <li style="font-size: 10px;"><a href="http://bjwc.custhelp.com/app/answers/detail/a_id/6774" onclick="openHelp(this.href, 'help');return false;">Return Policy</a></li>
 		<li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/SiteMapView?langId=-1&amp;storeId=10201&amp;catalogId=10001">Site Map</a></li>
         <li><br> 
         </li>
-        <li style="font-size: 10px;"><a onclick="openFAQs(this.href, 'faqs');return false;" href="/help.content.help.E"><strong>Help</strong></a></li> 
+        <li style="font-size: 10px;"><a href="http://bjwc.custhelp.com" onclick="openHelp(this.href, 'help');return false;"><strong>Help</strong></a></li> 
       </ul> 
     </div> 
     <!--<div class="content">            	<ul class="list"><li class="club">For On-line inquiries: 866-425-7932</li>                    <li class="club">For Club and Membership inquiries: 800-257-2582</li></ul></div> --> 
@@ -1806,18 +1890,26 @@ UI formatting issues. -->
     		var s 	= document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   			})();
   	</script>
-	<!-- Google Analytics implementation end --><!-- END CachedFooterDisplay.jsp -->
+	<!-- Google Analytics implementation end --><!-- END CachedFooterDisplay.jsp --><!-- END FooterDisplay.jspf -->
+		<script type="text/JavaScript" src="/wcsstore/BJs/javascript/coremetrics/eluminate.js"></script>
+		<script type="text/JavaScript" src="/wcsstore/BJs/javascript/coremetrics/cmcustom.js"></script>
+<script type="text/javascript">
 
-<script language="javascript">
-updateCartWishList();
+cmSetClientID("90393428",true,"data.coremetrics.com","bjs.com");
+//cmSetClientID("60393428",false,"testdata.coremetrics.com","bjs.com");
+</script>
 
-function updateCartWishList(){
-	 if(!(dojo.isIE == 6 || dojo.isIE == 7 )){
-		updateCartCount();
-		updateWishListCount();
-	}
-}
-</script> <!-- END FooterDisplay.jspf --><!-- END LayoutContainerBottom.jspf -->
+<script type="text/javascript">
+cmSetupNormalization("krypto-_-krypto");
+cmSetupOther({"cm_TrackImpressions":""}); 
+</script> 
+
+<script type="text/JavaScript">
+<!--
+cmCreatePageviewTag(document.title, null, null, null, 10201);
+//-->
+</script><!-- END LayoutContainerBottom.jspf -->
+
 	
 
 </body></html>
