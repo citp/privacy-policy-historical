@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteopsys.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015711id_/http%3A//www.siteopsys.com/privacy-policy.tool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteopsys.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010123323id_/http%3A//siteopsys.com/privacy-policy.tool) for the most accurate reproduction.*
 
 # Siteopsys Privacy Policy
 
@@ -31,3 +31,6 @@ All users and visitors to our websites should be aware that we are not responsib
 
 **Acceptance of Terms  
 ** By using this site, tools and information, the user is expressing a complete understanding and unconditional acceptance of the terms listed in this Privacy & Disclaimer Policy. If you have any questions or concerns, please email us at: [info@Siteopsys.com](mailto:info@Siteopsys.com)
+
+**Refund Policy  
+**We have a policy wherein we do not return any purchases of credits. We request our clients to understand this and contact our support at [support@siteopsys.com](mailto:support@siteopsys.com) if you have queries before purchase of credits. All our valued clients may please bear with us in this regard. 
