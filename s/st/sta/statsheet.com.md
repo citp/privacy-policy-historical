@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502035040id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010235006id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
 
 # StatSheet.com: The ultimate source for College Basketball, College Football, NFL, MLB, and NBA
 
