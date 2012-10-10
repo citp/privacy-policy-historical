@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514075222id_/https%3A//www.misk.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010131438id_/https%3A//www.misk.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Misk.com - Privacy Policy
 
