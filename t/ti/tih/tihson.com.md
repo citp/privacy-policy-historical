@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tihson.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014759id_/http%3A//www.tihson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tihson.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010150957id_/http%3A//tihson.com/privacy.php) for the most accurate reproduction.*
 
-# Tihson | Privacy Statement
+# | Privacy Statement
 
 Tihson.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
