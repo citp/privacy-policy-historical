@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521235307id_/http%3A//www.limelight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010184310id_/http%3A//www.limelight.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Limelight Networks
 
@@ -10,13 +10,16 @@ By using the Limelight Platform, you expressly consent to the information handli
 
 This Privacy Policy should be read in connection with the Limelight Acceptable Use Policy. Your use of the Limelight Platform and any personal information you provide through the Limelight Platform are subject at all times to this Privacy Policy and the Acceptable Use Policy.
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.limelightnetworks.com)Limelight Networks, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.limelightnetworks.com. Because Limelight wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[](http://privacy.truste.com/privacy-seal/Limelight-Networks,-Inc-/validation?rid=d9ce8b8a-dba1-41a7-9cdd-085b08d4f9b5 "TRUSTe European Safe Harbor certification")
+
+Limelight Networks, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.limelightnetworks.com. Because Limelight wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact [websupport@limelightnetworks.com](mailto:websupport@limelightnetworks.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url=
 
 TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-[](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.limelightnetworks.com)Limelight Networks, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+  
+Limelight Networks, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this web site.
 
