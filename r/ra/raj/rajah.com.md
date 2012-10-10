@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502181446id_/http%3A//www.rajah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010061147id_/http%3A//rajah.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# WWE News, Rumors, Results, Spoilers @ Rajah.com
 
 At RAJAH.COM we are committed to providing you information tailored to your individual wants and needs. We also recognize the importance of protecting personally identifiable information relating to you, our users and subscribers. RAJAH.COM does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals. When you enter a contest or other promotional feature, we may request your name, street, and e-mail address to aid in our administration of the contest and to assist in contacting the winners. 
 
@@ -55,5 +55,13 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
+
+June 2012 Update 
+
+The DoubleClick DART cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher's site(s) and across the web. 
+
+* Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.   
+* Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.   
+* Users may opt out of the use of the DART cookie by visiting the advertising opt-out page [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 We welcome your questions and comments about our privacy policy. If you would like to drop us a line, please email [privacy@rajah.com](mailto:privacy@rajah.com)
