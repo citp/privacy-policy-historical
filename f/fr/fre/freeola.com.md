@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003744id_/http%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010110314id_/http%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Freeola Privacy Policy
 
@@ -14,11 +14,18 @@ Essential alerts, such as domain expiry reminders, will be sent to your login e-
 
 If you establish a [Chat & Gaming Profile](https://secure.freeola.com/myfreeola-control-panel/interactive_profile_setup.php), to enable you to take part in our competitions and contribute to our interactive sites, then this information will be made available to the public, but this does not include your real name or contact details. 
 
-The Freeola family of websites, in common with the practice of most major internet sites, issues non-intrusive browser cookies (small pieces of text which are stored temporarily on your computer to enable or enhance your online experience). The pages on our websites may collect anonymous analytical tracking data and may display third-party advertisements which lead to external websites. Freeola is not responsible for the content or practices of any advertised websites and further information and advice, including opt-outs, can be found at <http://www.google.com/privacy_ads.html>. 
+Further information about Freeola's privacy policy is outlined as part of our General Terms & Conditions. Our Terms & Conditions are available to view or download in PDF format and can be found at <http://freeola.com/legal/terms.php>.
 
-Further information about Freeola's privacy policy is outlined as part of our General Terms & Conditions. Our Terms & Conditions are available to view or download in PDF format and can be found at <http://freeola.com/legal/terms.php>. 
+Cookies
 
-**Registered Office and Trading Address:**
+In common with the practice of most major internet sites, when you browse the Freeola network of websites, cookies will be stored on your computer. Cookies are small text files which allow websites to carry out a variety of useful functions and are widely-used across the internet. For example, they will be used to show you any products that have been placed in your online shopping trolley or to allow you to log in to an online account. They may also be used to personalise a website in order to improve your experience, to remember your settings and preferences and also to collect anonymous visitor usage statistics. These anonymous visitor statistics (also referred to as analytics) help webmasters to understand (and therefore manage and improve) the way that visitors interact with a website. By browsing our sites, you accept the use of cookies on your device.
+
+**Please note that we do not set any cookies from third-parties for the purpose of advertising.**  
+Any cookies set by our websites are used solely to improve the functioning of our website.
+
+[View more information and details of all cookies used on our websites »](http://freeola.com/legal/cookies.php)
+
+Registered Office and Trading Address:
 
 Freeola Limited  
 92-102 East Street  
