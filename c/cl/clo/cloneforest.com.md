@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloneforest.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630170658id_/http%3A//cloneforest.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloneforest.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010134806id_/http%3A//cloneforest.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Marketplace script - clone scripts for template, photo, video, audio stock marketplace - best digital marketplace software clone script
+# Privacy Policy - Marketplace script, Themeforest clone - CloneForest
 
 Privacy Policy
 
