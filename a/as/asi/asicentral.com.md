@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asicentral.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625093746id_/http%3A//www.asicentral.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicentral.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010201132id_/http%3A//www.asicentral.com/privacy.aspx) for the most accurate reproduction.*
 
 # ASICentral.com | Privacy Policy | Security Policy | ASI
 
