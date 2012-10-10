@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vetstreet.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614213744id_/http%3A//www.vetstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetstreet.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010095523id_/http%3A//www.vetstreet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vetstreet
+# Privacy Policy
 
 ##  PRIVACY STATEMENT
 
