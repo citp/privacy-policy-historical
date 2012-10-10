@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrealtor.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504063419id_/http%3A//www.floridarealtors.org/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrealtor.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011004938id_/http%3A//www.floridarealtors.org/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # FAR - Privacy Policy
 
