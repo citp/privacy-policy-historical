@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the edgecast.com privacy policy that was archived on 2012-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526113133id_/http%3A//www.edgecast.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edgecast.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010061223id_/http%3A//www.edgecast.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>Privacy Policy | EdgeCast</title>
-		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-		<meta name="description" content="EdgeCast - the world's fastest and most reliable content delivery network (CDN) | Privacy Policy">
-		<meta name="keywords" content="EdgeCast, CDN, content delivery network, privacy policy">
+<link rel="canonical" href="http://www.edgecast.com/privacy.html">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="electronic commerce, ecommerce, cdn, acceleration, dynamic">
 		<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="/css/sitewide.css">
-		<link rel="stylesheet" type="text/nonsense" href="/css/safari.css">
+		<link rel="stylesheet" type="text/css" href="/css/buttons.css">
+		<link rel="stylesheet" type="text/css" href="/css/safari.css">
+		<link rel="stylesheet" type="text/css" href="/css/jquery.jtweetsanywhere-1.3.1.css">
 		<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/css/ie8.css" /><![endif]-->
 	   	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/ie7.css" /><![endif]-->
 		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/css/ie6.css" /><![endif]-->
@@ -16,14 +19,173 @@
 		<script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
 		<script type="text/javascript" src="/js/jquery.url.js"></script>
 		<script type="text/javascript" src="/js/sitewide.js"></script>
-	</head>
+		<script type="text/javascript" src="/js/jquery.form.js"></script>
+		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.3.1.min.js"></script>
+		
+<!-- below added for form -->
+<script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+<script type="text/javascript">
+								$(document).ready(function() {								
+									var divHeight = $('#callouts').height();	
+									var browserHeight = $(window).height() - 120;
+									if (browserHeight > divHeight) {
+										
+										$('#callouts').removeClass( 'stop-scroll');
+													/**if( $.browser.msie  && parseInt($.browser.version, 10) === 7){**/
+													  var callout = $('#callouts');
+														var form_top = callout.length < 1 ? null : callout.offset().top;
+														if (form_top > 0) {
+															$(window).scroll(function() {
+																var scroll = $(document).scrollTop();
+																var margin = (scroll > form_top)
+																	? (scroll > ($('#main').height() - callout.height()))
+																	? $('#main').height() - callout.height()
+																	: scroll - form_top
+																	: 0;
+																	callout.stop().animate({
+																	'marginTop': margin + 'px'
+																	},
+																	'slow'
+																);
+															});//end scroll
+														};
+												/**};
+												}//end if ie7 true
+												else{ 
+													$('#callouts').scrollToFixed({
+													marginTop : $('#siteHead').outerHeight() + 0,
+												limit : $('#footer').offset().top - $('#callouts').outerHeight() - 86
+												});			
+											};**/
+										} else {  
+											$('#callouts').addClass( 'stop-scroll');	
+											};
+											//end if window not too short
+									
+								});				
+									$(window).resize(function() {		
+										var divHeight = $('#callouts').height();					
+										var browserHeight = $(window).height() - 120;
+										$('#callouts').removeAttr( 'style');	
+										if (browserHeight > divHeight) {	
+											$('#callouts').removeClass( 'stop-scroll');
+											/**if( $.browser.msie  && parseInt($.browser.version, 10) === 7){**/
+										  var callout = $('#callouts');
+											var form_top = callout.length < 1 ? null : callout.offset().top;
+											if (form_top > 0) {
+												$(window).scroll(function() {
+													var scroll = $(document).scrollTop();
+													var margin = (scroll > form_top)
+														? (scroll > ($('#main').height() - callout.height()))
+														? $('#main').height() - callout.height()
+														: scroll - form_top
+														: 0;
+														callout.stop().animate({
+														'marginTop': margin + 'px'
+														},
+														'slow'
+													);
+												});//end scroll
+											/**};
+											}//end if ie7 true
+											else{ 
+												$('#callouts').scrollToFixed({
+												marginTop : $('#siteHead').outerHeight() + 0,
+											limit : $('#footer').offset().top - $('#callouts').outerHeight() - 86
+											});			
+										};**/
+										};
+											} else {  
+												$('#callouts').addClass( 'stop-scroll');	
+											};
+										//end if window not too short										
+										
+									
+								});
+						</script>  
+<script type="text/javascript">
+function validate()
+{
+var form = document.getElementById("contactus");
+form["phone"].value = String(form["phonenumber1"].value) + String(form["phonenumber2"].value) + String(form["phonenumber3"].value);
+alert(form["phone"].value);
+}
+</script>
+<!-- above added for form -->
+
+
+
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body class="chrome">
 		
 		<div id="page"><div class="edge">
 				
 			<div id="main" class="clearfix">
+<!-- #content -->
 
-				<div id="content">
+<div id="calloutsWrapper">
+	<div id="callouts" class="stop-scroll">
+					
+					<div id="chatNow" class="callout">
+						<dl>
+							<dt class="fancy">Chat With Us Now</dt>
+							<dd>
+								<p>Or call: 877 EDGE CDN</p>
+								<a class="btn two" id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/15305040/?cmd=file&amp;file=visitorWantsToChat&amp;site=15305040&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.nethttp://www.edgecast.com/img/" target="chat15305040" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/15305040/?cmd=file&amp;file=visitorWantsToChat&amp;site=15305040&amp;imageUrl=http://server.iad.liveperson.nethttp://www.edgecast.com/img/&amp;referrer='+escape(document.location),'chat15305040','width=475,height=415,resizable=yes');return false;"><span class="text">start live chat</span><span class="left"></span><span class="right"></span></a>
+							</dd>
+						</dl>
+					</div><!-- #talkNow -->
+				
+<div id="whyEdgecast" class="callout icon second">
+						<dl>
+							<dt class="fancy">Why Edgecast?</dt>
+							<dd>
+								<p>We'll outperform the competition, we'll give you the best features and service, and we'll be here whenever you need us.</p>
+								<a class="btn one" href="/network/"><span class="text">learn more</span><span class="left"></span><span class="right"></span></a>
+							</dd>
+						</dl>
+					</div><!-- #whyEdgecast -->
+	
+				<div id="recentNews" class="callout">
+					<dl>
+                       	<dt class="fancy">In the News</dt>
+                        	<dd>
+								<ul>
+								  
+									
+<li>
+	<p class="date">August 14 2012</p>
+	<a href="http://www.edgecast.com/company/news/fruit-ninja-game-acceleration">EdgeCast Slashes Fruit Ninja Load Time</a>
+	<p>CDN accelerates popular online game during period of explosive growth</p>
+</li>
+
+
+
+<li>
+	<p class="date">July 31 2012</p>
+	<a href="http://www.edgecast.com/company/news/kondoot-edgecast">Kondoot Triples User Base, Turns to EdgeCast to help Set Stage for Upcoming Artists</a>
+	<p>Revolutionary social media community Kondoot goes live in 200 countries worldwide, powered by EdgeCast Networks …</p>
+</li>
+
+
+
+<li>
+	<p class="date">June 26 2012</p>
+	<a href="http://www.edgecast.com/company/news/pagespeed-edge-optimizer">EdgeCast brings Google PageSpeed to the edge</a>
+	<p>Leading CDN speeds up the web with edge-based, on-the-fly optimization …</p>
+</li>
+
+
+									
+								</ul>
+								<a class="btn one" href="/company/news/"><span class="text">see all news</span><span class="left"></span><span class="right"></span></a>
+							</dd>
+						</dl>
+					</div><!-- #recentNews -->
+					
+				</div>
+				</div>
+<div id="content">
 					
 					<div id="pageHead" class="img"><div class="wrap">
 						<img src="/img/pageheads/privacy-policy.jpg" alt="">
@@ -72,259 +234,446 @@
 
 					</div>
 
-				</div><!-- #content -->
-				
-				<div id="callouts">
-					
-					<div id="chatNow" class="callout">
-						<dl>
-							<dt class="fancy">Chat With Us Now</dt>
-							<dd>
-								<p>Or call: 877 EDGE CDN</p>
-								<a class="btn two" a="" id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/15305040/?cmd=file&amp;file=visitorWantsToChat&amp;site=15305040&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.nethttp://www.edgecast.com/img/" target="chat15305040" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/15305040/?cmd=file&amp;file=visitorWantsToChat&amp;site=15305040&amp;imageUrl=http://server.iad.liveperson.nethttp://www.edgecast.com/img/&amp;referrer='+escape(document.location),'chat15305040','width=475,height=415,resizable=yes');return false;"><span class="text">start live chat</span><span class="left"></span><span class="right"></span></a>
-							</dd>
-						</dl>
-										</div><!-- #talkNow -->                    <div id="recentNews" class="callout second">
-					<dl>
-                       	<dt class="fancy">In the News</dt>
-                        	<dd>
-								<ul>
-									<li>
-										<p class="date">May 15 2012</p>
-										<a href="/company/news/edgecast-powers-imgur.html">Imgur sees over two billon page views a month on EdgeCast network</a>
-										<p>Image hosting and sharing service enhances performance during explosive growth</p>
-									</li>
-									<li>
-										<p class="date">May 2 2012</p>
-										<a href="/company/news/edgecast-announces-opencdn.html">EdgeCast announces federated content delivery in production</a>
-										<p>Company is first to interconnect CDNs with live production traffic; secures key federation patents</p>
-									</li>
-									<li>
-										<p class="date">March 20 2012</p>
-										<a href="/company/news/edgecast-motorola-cdn.html">Motorola Mobility and EdgeCast unite for worldwide service provider CDN offering</a>
-										<p>Companies ink distribution and integration agreement for advanced CDN</p>
-									</li>
-								</ul>
-								<a class="btn one" href="/company/news/"><span class="text">see all news</span><span class="left"></span><span class="right"></span></a>
-							</dd>
-						</dl>
-					</div><!-- #recentNews -->						
-					
-					<div id="ourPatents" class="callout">
-						<dl>
-							<dt class="fancy">Our Patents</dt>
-							<dd>
-								<p>EdgeCast holds a license for more than 30 issued and pending patents covering a broad range of methods and techniques.</p>
-								<a class="btn one" href="/network/patents/"><span class="text">learn more</span><span class="left"></span><span class="right"></span></a>
-							</dd>
-						</dl>
-					</div><!-- #ourPatents -->
+				</div>
 
-				</div><!-- #callouts -->
-				
+<!--/#content -->
+			  
+<!-- Link blocks to related pages. -->
+
+
+
 			</div><!-- #main -->
-
+			
+			
 <div id="siteHead">
-			<a id="logo" href="/">EdgeCast</a>
-			<dl id="siteNav">
+			<a id="logo" href="/">Content Delivery Network - EdgeCast</a>
+			<script>
+  $(document).ready(function(){
+    $('#siteNav li.Network dd ul, #footer li.Network dd ul').append('<li><a href="http://status.edgecast.com/" title="Status">Status</a></li>');
+  });
+</script>
+
+<dl id="siteNav">
 					<dt>Main Navigation Links</dt>
 					<dd>
-						<ul>							<li class="solutions">
-								<dl>									<dt><a href="/solutions/">Solutions</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/solutions/media-entertainment/">Media and Entertainment</a></li>
-											<li><a href="/solutions/gaming/">Gaming</a></li>
-											<li><a href="/solutions/live-events/">Live Events</a></li>
-											<li><a href="/solutions/whole-site-acceleration/">Whole Site Acceleration</a></li>
-											<li><a href="/solutions/software-distribution/">Software Distribution</a></li>
-											<li><a href="/solutions/ecommerce/">E-Commerce</a></li>
-											<li><a href="/solutions/wholesale-cdn/">Wholesale CDN</a></li>
-											<li><a href="/solutions/licensed-cdn/">Licensed / Carrier CDN</a></li>
-                                            <li><a href="/solutions/opencdn/">OpenCDN</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="services">
-								<dl>
-									<dt><a href="/services/">Services</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/services/adn/">Application Delivery</a></li>
-                                            <li><a href="/services/content-delivery/">HTTP Caching</a></li>
-											<li><a href="/services/streaming/">Streaming</a></li>
-											<li><a href="/services/storage/">Storage</a></li>
-											<li><a href="/services/security/">Security</a></li>
-											<li><a href="/services/analytics/">Analytics</a></li>
-											<li><a href="/services/data-center/">Data Center</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="customers">
-								<dl>
-									<dt><a href="/customers/">Customers</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/customers/">Customer Showcase</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="network">
-								<dl>
-									<dt><a href="/network/">Network</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/network/">The Facts</a></li>
-											<li><a href="/network/map/">Network Map</a></li>
-											<li><a href="/network/patents/">Patents</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="company">
-								<dl class="current">
-									<dt><a href="/company/">Company</a></dt>
-									<dd>
-										<ul>
-											<!-- <li><a href="/company/partners/">Partners</a></li> -->
-											<li><a href="/company/news/">News</a></li>
-											<li><a href="/company/history/">History</a></li>
-											<li><a href="/company/team/">Management</a></li>
-											<li><a href="/company/careers/">Careers</a></li>
-											<li><a href="/company/contact/">Contact</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-						</ul>
+		<ul>
+<li class="Solutions">
+<dl>
+<dt>
+<a href="/solutions/">Solutions</a>
+</dt>
+<dd> 
+<ul>
+<li>
+<a href="/solutions/media-entertainment/" title="Media &amp; Entertainment">Media &amp; Entertainment</a>
+
+</li>
+<li>
+<a href="/solutions/gaming/" title="Gaming">Gaming</a>
+
+</li>
+<li>
+<a href="/solutions/live-events/" title="Live Events">Live Events</a>
+
+</li>
+<li>
+<a href="/solutions/whole-site-acceleration/" title="Whole Site Acceleration">Whole Site Acceleration</a>
+
+</li>
+<li>
+<a href="/solutions/software-distribution/" title="Software Distribution">Software Distribution</a>
+
+</li>
+<li>
+<a href="/solutions/ecommerce/" title="E-Commerce">E-Commerce</a>
+
+</li>
+<li>
+<a href="/solutions/wholesale-cdn/" title="Wholesale CDN">Wholesale CDN</a>
+
+</li>
+<li>
+<a href="/solutions/licensed-cdn/" title="Licensed CDN">Licensed / Carrier CDN</a>
+
+</li>
+<li>
+<a href="/solutions/opencdn/" title="OpenCDN">OpenCDN</a>
+
+</li>
+
+
+</ul>
+</dd>
+</dl>
+</li>
+<li class="Services">
+<dl>
+<dt>
+<a href="/services/">Services</a>
+</dt>
+<dd> 
+<ul>
+<li>
+<a href="/services/adn/" title="ADN">Application Delivery</a>
+
+</li>
+<li>
+<a href="/services/content-delivery/" title="Caching">HTTP Caching</a>
+
+</li>
+<li>
+<a href="/services/streaming/" title="Streaming">Streaming</a>
+
+</li>
+<li>
+<a href="/services/storage/" title="Storage">Storage</a>
+
+</li>
+<li>
+<a href="/services/security/" title="Security">Security</a>
+
+</li>
+<li>
+<a href="/services/analytics/" title="Analytics">Analytics</a>
+
+</li>
+<li>
+<a href="/services/data-center/" title="Data Center">Data Center</a>
+
+</li>
+
+
+</ul>
+</dd>
+</dl>
+</li>
+<li class="Customers">
+<dl>
+<dt>
+<a href="/customers/">Customers</a>
+</dt>
+<dd> 
+<ul>
+<li>
+<a href="/customers/" title="Customer Showcase">Customer Showcase</a>
+
+</li>
+
+
+</ul>
+</dd>
+</dl>
+</li>
+<li class="Network">
+<dl>
+<dt>
+<a href="/network/">Network</a>
+</dt>
+<dd> 
+<ul>
+<li>
+<a href="/network/" title="The Facts">The Facts</a>
+
+</li>
+<li>
+<a href="/network/map/" title="Network Map">Network Map</a>
+
+</li>
+<li>
+<a href="/network/patents/" title="Patents">Patents</a>
+
+</li>
+
+
+<li><a href="http://status.edgecast.com/" title="Status">Status</a></li></ul>
+</dd>
+</dl>
+</li>
+<li class="Company">
+<dl>
+<dt>
+<a href="/company/">Company</a>
+</dt>
+<dd> 
+<ul>
+<li>
+<a href="/company/news/" title="News">News</a>
+
+</li>
+<li>
+<a href="/company/history/" title="History">History</a>
+
+</li>
+<li>
+<a href="/company/partners/" title="Partners">Partners</a>
+
+</li>
+<li>
+<a href="/company/" title="Team">Team</a>
+
+</li>
+<li>
+<a href="/company/careers/" title="Careers">Careers</a>
+
+</li>
+<li>
+<a href="/company/contact/" title="Contact">Contact</a>
+
+</li>
+<li>
+<a href="/company/what-people-are-saying/" title="Buzz">Buzz</a>
+
+</li>
+
+
+</ul>
+</dd>
+</dl>
+</li>
+<li>
+<a href="/aup.html" title="Acceptable Use Policy">Acceptable Use Policy</a>
+
+</li>
+
+<li class="blog">
+		<dl>
+				<dt><a href="http://blog.edgecast.com/">Blog</a></dt>
+	<dd>
+				<ul>
+						<li><a href="http://blog.edgecast.com">EdgeCast Blog</a></li>
+					</ul>
+				</dd>
+    </dl>
+</li>
+</ul>
 					</dd>
 				</dl><!-- #siteNav -->
+
 											
 			</div><!-- #sitehead -->
-			
-		</div></div><!-- #page -->
-		
-		<div id="modals"> </div><!-- #modals -->
 
-		<div id="footer">
+		</div></div><!-- #page -->
+	  
+	  <div id="modals">
+		
+
+	  </div>
+		<script>
+  $(document).ready(function(){
+    // Hide all the individual news articles
+    $('#siteMap .Company dl dd ul li a[href*="company/news/"][href!="company/news/"]').hide();
+    $('#siteMap .Acceptable.Use.Policy').hide();
+  });
+</script>
+
+<div id="footer">
 			<div class="edge">
 				<dl id="siteMap" class="clearfix">
 					<dt>Site Map</dt>
 					<dd>
-						<ul>							<li class="solutions">
-								<dl>									<dt><a href="/solutions/">Solutions</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/solutions/media-entertainment/">Media and Entertainment</a></li>
-											<li><a href="/solutions/gaming/">Gaming</a></li>
-											<li><a href="/solutions/live-events/">Live Events</a></li>
-											<li><a href="/solutions/whole-site-acceleration/">Whole Site Acceleration</a></li>
-											<li><a href="/solutions/software-distribution/">Software Distribution</a></li>
-											<li><a href="/solutions/ecommerce/">E-Commerce</a></li>
-											<li><a href="/solutions/wholesale-cdn/">Wholesale CDN</a></li>
-											<li><a href="/solutions/licensed-cdn/">Licensed / Carrier CDN</a></li>
-                                            <li><a href="/solutions/opencdn/">OpenCDN</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="services">
-								<dl>
-									<dt><a href="/services/">Services</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/services/adn/">Application Delivery</a></li>
-                                            <li><a href="/services/content-delivery/">HTTP Caching</a></li>
-											<li><a href="/services/streaming/">Streaming</a></li>
-											<li><a href="/services/storage/">Storage</a></li>
-											<li><a href="/services/security/">Security</a></li>
-											<li><a href="/services/analytics/">Analytics</a></li>
-											<li><a href="/services/data-center/">Data Center</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="customers">
-								<dl>
-									<dt><a href="/customers/">Customers</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/customers/">Customer Showcase</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="network">
-								<dl>
-									<dt><a href="/network/">Network</a></dt>
-									<dd>
-										<ul>
-											<li><a href="/network/">The Facts</a></li>
-											<li><a href="/network/map/">Network Map</a></li>
-											<li><a href="/network/patents/">Patents</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-							<li class="company">
-								<dl>
-									<dt><a href="/company/">Company</a></dt>
-									<dd>
-										<ul>
-											<!-- <li><a href="/company/partners/">Partners</a></li> -->
-											<li><a href="/company/news/">News</a></li>
-											<li><a href="/company/history/">History</a></li>
-											<li><a href="/company/team/">Management</a></li>
-											<li><a href="/company/careers/">Careers</a></li>
-											<li><a href="/company/contact/">Contact</a></li>
-										</ul>
-									</dd>
-								</dl>
-							</li>
-						</ul>
+					    <ul><li class="Solutions">
+<dl>
+<dt>
+  <a href="/solutions/">Solutions</a>
+</dt>
+<dd> 
+<ul>
+<li>
+  <a href="/solutions/media-entertainment/" title="Media &amp; Entertainment">Media &amp; Entertainment</a>
+</li>
+<li>
+  <a href="/solutions/gaming/" title="Gaming">Gaming</a>
+</li>
+<li>
+  <a href="/solutions/live-events/" title="Live Events">Live Events</a>
+</li>
+<li>
+  <a href="/solutions/whole-site-acceleration/" title="Whole Site Acceleration">Whole Site Acceleration</a>
+</li>
+<li>
+  <a href="/solutions/software-distribution/" title="Software Distribution">Software Distribution</a>
+</li>
+<li>
+  <a href="/solutions/ecommerce/" title="E-Commerce">E-Commerce</a>
+</li>
+<li>
+  <a href="/solutions/wholesale-cdn/" title="Wholesale CDN">Wholesale CDN</a>
+</li>
+<li>
+  <a href="/solutions/licensed-cdn/" title="Licensed CDN">Licensed / Carrier CDN</a>
+</li>
+<li>
+  <a href="/solutions/opencdn/" title="OpenCDN">OpenCDN</a>
+</li>
+
+</ul>
+</dd>
+</dl>
+</li>
+<li class="Services">
+<dl>
+<dt>
+  <a href="/services/">Services</a>
+</dt>
+<dd> 
+<ul>
+<li>
+  <a href="/services/adn/" title="ADN">Application Delivery</a>
+</li>
+<li>
+  <a href="/services/content-delivery/" title="Caching">HTTP Caching</a>
+</li>
+<li>
+  <a href="/services/streaming/" title="Streaming">Streaming</a>
+</li>
+<li>
+  <a href="/services/storage/" title="Storage">Storage</a>
+</li>
+<li>
+  <a href="/services/security/" title="Security">Security</a>
+</li>
+<li>
+  <a href="/services/analytics/" title="Analytics">Analytics</a>
+</li>
+<li>
+  <a href="/services/data-center/" title="Data Center">Data Center</a>
+</li>
+
+</ul>
+</dd>
+</dl>
+</li>
+<li class="Customers">
+<dl>
+<dt>
+  <a href="/customers/">Customers</a>
+</dt>
+<dd> 
+<ul>
+<li>
+  <a href="/customers/" title="Customer Showcase">Customer Showcase</a>
+</li>
+
+</ul>
+</dd>
+</dl>
+</li>
+<li class="Network">
+<dl>
+<dt>
+  <a href="/network/">Network</a>
+</dt>
+<dd> 
+<ul>
+<li>
+  <a href="/network/" title="The Facts">The Facts</a>
+</li>
+<li>
+  <a href="/network/map/" title="Network Map">Network Map</a>
+</li>
+<li>
+  <a href="/network/patents/" title="Patents">Patents</a>
+</li>
+
+<li><a href="http://status.edgecast.com/" title="Status">Status</a></li></ul>
+</dd>
+</dl>
+</li>
+<li class="Company">
+<dl>
+<dt>
+  <a href="/company/">Company</a>
+</dt>
+<dd> 
+<ul>
+<li>
+  <a href="/company/news/" title="News" style="display: none;">News</a>
+</li>
+<li>
+  <a href="/company/history/" title="History">History</a>
+</li>
+<li>
+  <a href="/company/partners/" title="Partners">Partners</a>
+</li>
+<li>
+  <a href="/company/" title="Team">Team</a>
+</li>
+<li>
+  <a href="/company/careers/" title="Careers">Careers</a>
+</li>
+<li>
+  <a href="/company/contact/" title="Contact">Contact</a>
+</li>
+<li>
+  <a href="/company/what-people-are-saying/" title="Buzz">Buzz</a>
+</li>
+
+</ul>
+</dd>
+</dl>
+</li>
+<li class="Acceptable Use Policy" style="display: none;">
+<dl>
+<dt>
+  <a href="/aup.html">Acceptable Use Policy</a>
+</dt>
+<dd> 
+<ul>
+
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
 					</dd>
 				</dl><!-- #siteMap -->
-
-<div id="socialMedia">
+				
+				<div id="socialMedia">
+					<!--<dl id="latestTweet">
+							<dt>Latest from Twitter</dt>
+						<dd>
+						<div id="twitter_div"><ul id="twitter_update_list"><li style="display: block !important;"> </li></ul></div>
+						</dd>
+      <script src="http://twitter.com/statuses/user_timeline/edgecast_cdn.json?callback=twitterCallback2&count=1" type="text/javascript"></script>
+					</dl>#latestTweet -->
 					<dl id="latestTweet">
 						<dt>Latest from Twitter</dt>
 						<dd>
 							<ul id="twitter_update_list"><li><span>Excellent atmosphere - A collaborative work environment that fosters learning and challenges the mind: <a href="http://edgecast.com/careers">http://edgecast.com/careers</a> #edgecast</span> <a style="font-size:85%" href="https://web.archive.org/web/20101001131019/http://twitter.com/edgecast_cdn/statuses/58946184609415170">3212 days ago</a></li></ul>
 						</dd>
 					</dl><!-- #latestTweet -->
+
 					<dl id="connect">
 						<dt>Connect with us:</dt>
 						<dd>
 							<ul> 
-								<li><a class="facebook" href="http://www.facebook.com/pages/EdgeCast-Networks-Content-Delivery-Network/62520470821">Facebook</a></li>
-								<li><a class="linkedin" href="http://www.linkedin.com/companies/edgecast">LinkedIn</a></li>
-								<li><a class="twitter" href="http://twitter.com/edgecast_cdn">Twitter</a></li>
+								<li><a class="facebook" target="_blank" href="http://www.facebook.com/pages/EdgeCast-Networks-Content-Delivery-Network/62520470821">Facebook</a></li>
+								<li><a class="linkedin" target="_blank" href="http://www.linkedin.com/companies/edgecast">LinkedIn</a></li>
+								<li><a class="twitter" target="_blank" href="http://twitter.com/edgecast">Twitter</a></li>
+								<li><a class="googleplus" target="_blank" href="https://plus.google.com/103945191212302476347">Google+</a></li>
 							</ul>
 						</dd>
 					</dl><!-- #connect -->
 				</div>
 <div id="superfoot">
-<strong>© EdgeCast Networks, Inc.</strong> | <a href="/aup.html">Acceptable Use Policy</a> | <a href="/privacy.html">Privacy Statement</a> | <a href="/company/contact/">Contact</a> | <a href="/login/support/">Support</a> | <a href="/login/">Login</a>
+<strong>© EdgeCast Networks, Inc.</strong> | <a href="/aup.html">Acceptable Use Policy</a> | <a href="/privacy.html">Privacy Statement</a> | <a href="/company/contact/">Contact</a> | <a href="/login/support/">Support</a> | <a href="/login/">Login</a> | <a href="/sitemap/">Site Map</a>
 </div><!-- #superfoot -->
 				<a id="hg" href="http://www.huntandgather.com/" target="_blank">Site by Hunt &amp; Gather</a>
 			</div><!-- .edge -->
-		</div><!-- #footer -->
+		</div>
 
-<div id="supernav">
+		<div id="supernav">
 			<div class="edge">
-				<dl id="breadcrumbs">
-					<dt>You are here:</dt>
-					<dd><a href="/">Home</a> / <a href="/company/">Company</a> / <a class="current" href="/privacy.html">Privacy Policy</a></dd>
-				</dl><!-- #breadcrumbs -->
+			<ul class="B_crumbBox"><li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="B_homeCrumb" itemprop="url" rel="Home" href="http://www.edgecast.com/"><span itemprop="title">Home</span></a></li>
+ / <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"></li><li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">Privacy Policy</li>
+</ul>
+<!-- #breadcrumbs -->
 					<dl id="siteTools">
 					<dt>Site tools:</dt>
 					<dd>
 						<ul>
-							<li><a href="/login/">Login</a></li>
-							<li><a href="/login/support/">Support</a></li>
+						  <li><a href="/login/">Login</a></li>
+						  <li><a href="/login/support/">Support</a></li>
 							<li><a href="/company/contact/">Contact</a></li>
 							<li><a href="/company/careers/">Careers</a></li>
 							<li class="chat">Call 1-877-334-3236 or <a href="http://server.iad.liveperson.net/hc/15305040/?cmd=file&amp;file=visitorWantsToChat&amp;site=15305040&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.nethttp://www.edgecast.com/img/" target="chat15305040" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/15305040/?cmd=file&amp;file=visitorWantsToChat&amp;site=15305040&amp;imageUrl=http://server.iad.liveperson.nethttp://www.edgecast.com/img/&amp;referrer='+escape(document.location),'chat15305040','width=475,height=415,resizable=yes');return false;">Chat with us now!</a></li>
@@ -334,6 +683,7 @@
 			</div><!-- .edge -->
 		</div><!-- #supernav -->
 
+		
 		<script type="text/javascript">
 
 		 var _gaq = _gaq || [];
@@ -351,8 +701,6 @@
 
 		</script>
 
-<script type="text/javascript"> var SearchentJS = (("https:" == document.location.protocol) ? "https://www." : "http://www."); document.write(unescape("%3Cscript src='" + SearchentJS + "searchent.net/searchent.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://www.searchent.net/searchent.js" type="text/javascript"></script>
-
 <!--VISISTAT SNIPPET//-->
 <script type="text/javascript">
 //<![CDATA[
@@ -362,7 +710,46 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 //]]>
 </script><script src="https://sniff.visistat.com/live.js" type="text/javascript"></script>
 
-<!--VISISTAT SNIPPET//-->
+<!--VISISTAT SNIPPET//-->		
+<!-- Adroll Remarketing Tracking Code -->
+<script type="text/javascript">
+adroll_adv_id = "EZS5PJXKANDRHDKZHFY3Y7";
+adroll_pix_id = "HHE5EGOCMRHWTGR3APKRUB";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- /Adroll -->
 
+<!-- Google Code for All Visitors Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1001254844;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "nFnbCKydkgQQvN-33QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1001254844/?value=0&amp;label=nFnbCKydkgQQvN-33QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Google Remarketing Code -->
+		
 	
 </body></html>
