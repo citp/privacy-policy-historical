@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seocompany.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625120345id_/http%3A//www.seocompany.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocompany.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011001221id_/http%3A//www.seocompany.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Company
 
