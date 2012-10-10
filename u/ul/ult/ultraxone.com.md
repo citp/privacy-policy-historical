@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultraxone.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504001442id_/http%3A//ultraxone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraxone.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010123641id_/http%3A//www.ultraxone.com/privacy.php) for the most accurate reproduction.*
 
 # UltraXOne - Anti Spam Policy
 
