@@ -1,44 +1,14 @@
-> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501220858id_/http%3A//www.smacchat.com/content/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010045736id_/http%3A//smacchat.com/terms.php) for the most accurate reproduction.*
 
-# Privacy Policy | SmacChat
+# New SmacChat
 
 ## Smacchat.com LLC Privacy Policy
 
-### Effective Date: August 28, 2007
+### Effective Date: August 28, 2010
 
 This Privacy Policy applies only to the web sites owned or controlled by Smacchat.com  Inc. ("Company," "we," "our" or "us") that post a link to this Privacy Policy (the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
 Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](http://www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
-
-### Table of Contents
-
-  * [Types Of Information That May Be Collected](http://www.cbsinteractive.com/info/privacy#link1#link1)
-    * [Web Site Usage Information & IP Address](http://www.cbsinteractive.com/info/privacy#link1.1#link1.1)
-    * [Information You Provide Us](http://www.cbsinteractive.com/info/privacy#link1.2#link1.2)
-    * [Information From Other Sources](http://www.cbsinteractive.com/info/privacy#link1.3#link1.3)
-    * [E-mail A Friend](http://www.cbsinteractive.com/info/privacy#link1.4#link1.4)
-  * [How Information May Be Collected](http://www.cbsinteractive.com/info/privacy#link2#link2)
-    * [Cookies](http://www.cbsinteractive.com/info/privacy#link2.1#link2.1)
-    * [Web Beacons](http://www.cbsinteractive.com/info/privacy#link2.2#link2.2)
-  * [How We Use The Information Collected](http://www.cbsinteractive.com/info/privacy#link3#link3)
-  * [Third-Party Ad Serving & Audience and Traffic Measurement Services](http://www.cbsinteractive.com/info/privacy#link4#link4)
-  * [With Whom Information May Be Shared](http://www.cbsinteractive.com/info/privacy#link5#link5)
-    * [Third Parties Providing Services on Our Behalf](http://www.cbsinteractive.com/info/privacy#link5.1#link5.1)
-    * [Non-Personal Information](http://www.cbsinteractive.com/info/privacy#link5.2#link5.2)
-    * [When You Agree to Receive Offers From Third Parties](http://www.cbsinteractive.com/info/privacy#link5.3#link5.3)
-    * [Products & Services Offered In Partnership With Third-Parties](http://www.cbsinteractive.com/info/privacy#link5.4#link5.4)
-    * [Sweepstakes, Contest & Promotions](http://www.cbsinteractive.com/info/privacy#link5.5#link5.5)
-    * [Business Transfers](http://www.cbsinteractive.com/info/privacy#link5.6#link5.6)
-    * [Legal Protection and Law Enforcement](http://www.cbsinteractive.com/info/privacy#link5.7#link5.7)
-  * [Correcting/Updating Personal Information](http://www.cbsinteractive.com/info/privacy#link6#link6)
-  * [Chat Rooms, Forums, And Message Boards](http://www.cbsinteractive.com/info/privacy#link7#link7)
-  * [Third Party Content and Links To Other Web Sites](http://www.cbsinteractive.com/info/privacy#link8#link8)
-  * [Consent To Transfer](http://www.cbsinteractive.com/info/privacy#link9#link9)
-  * [Security](http://www.cbsinteractive.com/info/privacy#link10#link10)
-  * [A Special Note For Parents Concerning Privacy](http://www.cbsinteractive.com/info/privacy#link11#link11)
-  * [Notification Of Changes And Your Acceptance Of The Privacy Policy](http://www.cbsinteractive.com/info/privacy#link12#link12)
-
-
 
 #### TYPES OF INFORMATION THAT MAY BE COLLECTED
 
