@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the kozzi.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604024622id_/http%3A//www.kozzi.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kozzi.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010065511id_/http%3A//www.kozzi.com/policy) for the most accurate reproduction.*
 
 # Kozzi | TERMS OF USE
 
 Effective Date: 08/15/2011  
 This privacy statement describes how Kozzi Inc. (“Kozzi”) collects and uses the personal information you provide on our Web site: [www.kozzi.com](http://www.kozzi.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
 We will share your personal information with third parties only in the ways that are described in this privacy statement.  We do not sell your personal information to third parties.     
-Kozzi Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@kozzi.com](mailto:privacy@kozzi.com). If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers only information that is collected through this Web site.
-
-[](http://www.truste.org/ivalidate.php?url=www.kozzi.com "TRUSTe")
+Kozzi Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@kozzi.com](mailto:privacy@kozzi.com)
 
 We collect the following personal information from you
 
