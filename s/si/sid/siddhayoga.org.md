@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624234235id_/http%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010092154id_/http%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
 
 # SYDA Foundation Privacy Policy
 
@@ -24,7 +24,7 @@ These Sites allow you the option of registering to receive e-mails about new pro
 
 ## Security and Privacy
 
-SYDA retains records of registered members in its database. SYDA's Sites use security measures designed to protect against the loss, misuse, unauthorized disclosure, or alteration of the information under our control. We take reasonable steps to ensure the security of your data containing personally identifiable information.
+SYDA retains records of individuals who register for events in its database. SYDA's Sites use security measures designed to protect against the loss, misuse, unauthorized disclosure, or alteration of the information under our control. We take reasonable steps to ensure the security of your data containing personally identifiable information.
 
 ## Information We May Share with Others
 
@@ -56,7 +56,7 @@ To change or modify information previously provided to our Sites, please go to [
 
 ## A Note to Parents
 
-These Sites do not target children (under age 13) for collection of information online. It is intended for use only by persons 18 or older, emancipated minors, or those who possess legal parental or guardian consent and are fully able and competent to enter into and be legally bound by these Terms. No information should be submitted to or posted at this website by visitors under 13 years of age. If a child under 13 years of age wishes to submit any information, this should be done only by the child's parents or with their consent.
+These Sites do not target children (under age 13) for collection of information online or collect information from such children. It is intended for use only by persons 18 or older, emancipated minors, minors 13 years of age or older who possess legal parental or guardian consent and are fully able and competent to enter into and be legally bound by these Terms and parents together with children under the age of 13. No information should be submitted to or posted at this website by visitors under 13 years of age. If a child under 13 years of age wishes to submit any information, this should be done only by the child’s parents.
 
 ## Notification of Changes to This Privacy Policy
 
