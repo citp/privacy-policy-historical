@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how-to-draw-cartoons-online.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514085422id_/http%3A//www.how-to-draw-cartoons-online.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-to-draw-cartoons-online.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010141311id_/http%3A//www.how-to-draw-cartoons-online.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.How-to-Draw-Cartoons-Online.com
 
@@ -55,8 +55,6 @@ Your use of this site indicates acceptance of this privacy policy.
 [Click here to return from Privacy Policy to Home](http://www.how-to-draw-cartoons-online.com/index.html)
 
 Custom Search 
-
-[](http://www.twitter.com/drawcartoons)
 
 See **YOUR** **Dot**?  
  _Thanks for visiting!_
