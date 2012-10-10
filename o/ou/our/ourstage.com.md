@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616150701id_/http%3A//www.ourstage.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010211145id_/http%3A//www.ourstage.com/about/privacy) for the most accurate reproduction.*
 
 # OurStage Privacy Policy | OurStage
 
