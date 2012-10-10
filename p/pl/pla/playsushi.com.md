@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playsushi.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232637id_/http%3A//www.playsushi.com/SushiClientPrivacyPolicy.ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsushi.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010082925id_/http%3A//playsushi.com/SushiClientPrivacyPolicy.ps) for the most accurate reproduction.*
 
 # PlaySushi™ - Fresh FREE Games. | PlaySushi Client Privacy Policy
 
@@ -19,7 +19,7 @@ We collect two kinds of information through the Site. The first kind is informat
 
 If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again. 
 
-Premium Game players ("Premium User(s)") have access to the Premium Games at no charge in exchange for their agreement to install the PlaySushi software (the "Software") on their computers or other computing device. The Software allows us to provide a Premium User with a limited amount of text link and transitional advertisements based on the web content viewed by that Premium User. No PII is collected through the Software. 
+Premium Game players ("Premium User(s)") have access to the Premium Games at no charge in exchange for their agreement to install the PlaySushi software (the "Software") on their computers or other computing device. The Software allows us to provide a Premium User with a limited amount of text link, floating, and transitional advertisements based on the web content viewed by that Premium User. No PII is collected through the Software. 
 
 **Collection of Personally Identifiable Information**
 
