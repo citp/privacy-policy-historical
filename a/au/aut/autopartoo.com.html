@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the autopartoo.com privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507134825id_/http%3A//www.autopartoo.com/help/rule_privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autopartoo.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010233242id_/http%3A//www.autopartoo.com/help/rule_privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,7 +15,27 @@
 
 <script type="text/javascript">
     $(document).ready(function() { changeTab('0'); }); function changeTab(index) { var tabtit = $("#tabtit li"); var tabSCont = $("#tabSCont li"); tabtit.each(function() { $(this).removeClass(); }); tabSCont.each(function() { $(this).removeClass().addClass("undis"); }); tabtit.eq(index).addClass("tabclick"); tabSCont.eq(index).removeClass().addClass("dis"); }
-    function onSearch() {
+    $(document).ready(function() {
+        $("#txtproduct").keydown(function(event) {
+            var keyword = $("#txtproduct").val();
+            var e = arguments.callee.caller.arguments[0] || event;
+            var key = e.keyCode || e.which || e.charCode;
+            if (key == 13) {
+                key_Search(keyword);
+            }
+        });
+    });
+    function key_Search(searchKeyword) {
+        if (!searchKeyword) {
+            $('#txtproduct').focus();
+            return;
+        }
+        else if ($('#txtproduct').val().length < 3) return;
+        var txtproduct = $("#txtproduct");
+        var url = "/products/search.html?kw=" + escape(txtproduct.val());
+        document.location.href = url;
+    }
+    function onSearch1() {
         var txtproduct = $("#txtproduct");
         if ($.trim(txtproduct.val()) == '') { alert("Please input keywords!"); return; }
         if (txtproduct.val() == 'Auto parts name / company name / OEM No. / Parts No etc.') { return; }
@@ -48,7 +68,7 @@
         <ul class="tabSCont" id="tabSCont">
             <li class="dis">
                 <input id="txtproduct" type="text" value="Auto parts name / company name / OEM No. / Parts No etc." onfocus="javascript:this.value='';">
-                <button type="button" onclick="javascript:onSearch();">
+                <button type="button" onclick="javascript:onSearch1();">
                     Search</button></li>
             <li class="undis">
                 <input type="text" value="Auto parts name / company name / OEM No. / Parts No etc." onfocus="javascript:this.value='';">
@@ -314,20 +334,34 @@
         </ul>
     </div>
     
-<div class="center bottom notopb"><a href="/help/" rel="nofollow">Help</a>|<a href="/about/about-us.html" rel="nofollow">About us</a> |<a href="/about/service.html" rel="nofollow">Service</a> |<a href="/about/contact-us.html" rel="nofollow">Contact us</a>|<a href="/about/friendly-link.html" rel="nofollow">Links</a>|<a href="/today/20120507_o_p1.html">Today Updates</a><br>© 2011 AutoPartoo.com,License: <a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow"><img src="images/di2.jpg" width="116" height="15" align="absmiddle"></a>
-<br>[Hangzhou]86-571-85317600 86-571-85459719,85459303,85889139
-<br><script type="text/javascript" charset="GBK" src="http://js.ppaaol.com/sitecode.script?id=172"></script>
-<div id="myVerifyImageBox" class="verifyImageBox " style="text-align:center;" siteid="172"></div>
+<div class="center bottom notopb">
+    <a href="/help/" rel="nofollow">Help</a>|<a href="/about/about-us.html" rel="nofollow">About us</a>
+    |<a href="/about/service.html" rel="nofollow">Service</a>
+    |<a href="/about/contact-us.html" rel="nofollow">Contact us</a>|<a href="/about/friendly-link.html" rel="nofollow">Links</a><br>
+    © 2011 AutoPartoo.com,License: <a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow">
+        <img src="images/di2.jpg" width="116" height="15" align="absmiddle"></a>
+    <br>
+    [Hangzhou]86-751-85317697
+    <br>
+
+    <script type="text/javascript" charset="GBK" src="http://js.ppaaol.com/sitecode.script?id=172"></script>
+
+    <div id="myVerifyImageBox" class="verifyImageBox " style="text-align: center;" siteid="172">
+    </div>
 </div>
-<div style="display: none;"><script type="text/javascript" src=" http://counter.autopartoo.com/stat.aspx?sitecode=85efb0cb482c1e11"></script>
-<script type="text/javascript">    var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-25403172-1']); _gaq.push(['_trackPageview']);
+<div style="display: none;">
+
+    <script type="text/javascript" src=" http://counter.autopartoo.com/stat.aspx?sitecode=85efb0cb482c1e11"></script>
+
+    <script type="text/javascript">    var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-25403172-1']); _gaq.push(['_trackPageview']);
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
-<script language="javascript" src="http://count21.51yes.com/click.aspx?id=211182969&amp;logo=7" charset="gb2312"></script>
-</div>
 
+    <script language="javascript" src="http://count21.51yes.com/click.aspx?id=211182969&amp;logo=7" charset="gb2312"></script>
+
+</div>
 
 
 </body></html>
