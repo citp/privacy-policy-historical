@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltimefavorites.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628115826id_/http%3A//www.alltimefavorites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltimefavorites.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010212625id_/http%3A//www.alltimefavorites.com/privacy.htm) for the most accurate reproduction.*
 
 # All Time Favorites Entertainment & Event Planning Services
 
@@ -9,7 +9,7 @@ Privacy Statement    |  ** [ Back to our home page ](http://www.alltimefavori
 ** ](https://web.archive.org/l) All Time Favorites respects your privacy and is committed to protecting it at all times.   
 This Internet Privacy Statement explains how we collect, use, and safeguard information on this Web site.
 
-[ **What information we collect from you and how we use it (click here)**](https://web.archive.org/web/20120628115826id_/http%3A//www.alltimefavorites.com/privacy1.htm)
+[ **What information we collect from you and how we use it (click here)**](https://web.archive.org/web/20121010212625id_/http%3A//www.alltimefavorites.com/privacy1.htm)
 
 **How we market to you.**     
 We market to you via e-mail, phone and regular mail in the course of our business to provide the products/services related to your requests on our website.  Our marketing to you is personalized, professional, and if at any time you wish to stop any part of our assisting with your event request or serving you as a vendor, please visit our [help section](http://www.alltimefavorites.org/client.htm)
@@ -21,4 +21,4 @@ _This site uses a tool which collects your requests for pages and passes element
 [  
 ](http://www26.americanexpress.com/privatepayments/info_page.jsp) This Privacy Statement applies only to our United States customers, U.S. visitors to our Web site, and U.S. vendors registered on our site.
 
-[Contact Us Here](https://web.archive.org/web/20120628115826id_/http%3A//www.alltimefavorites.com/contact.htm)
+[Contact Us Here](https://web.archive.org/web/20121010212625id_/http%3A//www.alltimefavorites.com/contact.htm)
