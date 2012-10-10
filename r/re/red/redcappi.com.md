@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redcappi.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421134944id_/http%3A//www.redcappi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcappi.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010134850id_/http%3A//www.redcappi.com/privacy) for the most accurate reproduction.*
 
-# Email Marketing Packages | Affordable Email Marketing Solutions | Email Marketing Campaign Prices
+# Privacy Statement | RedCappi
 
 At RedCappi, we respect our customers and make every effort to ensure the privacy and ongoing security of our customers, including personal account and credit card information, subscriber details or contact lists. RedCappi will never sell, borrow or rent your information or contact lists to anyone without your permission, and will never utilize your contact list for promotional purposes or for any purpose other than providing the service. However, RedCappi may share account or other information when it believes that it is necessary to comply with law or to protect our interests or property. Moreover, some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all RedCappi customers.
 
