@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyjewelrybox.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502070151id_/http%3A//www.fantasyjewelrybox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyjewelrybox.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010105026id_/http%3A//www.fantasyjewelrybox.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy — Fantasy Jewelry Box
 
