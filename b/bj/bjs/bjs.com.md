@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530235410id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010081739id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
 
 # Privacy Policy - BJ's Wholesale Club
 
 **Effective Date: September 20, 2001  
-Last Updated: January 7, 2011 (note new address below) **
+Last Updated: June 30, 2012 (to reflect change in hours for Member Care) **
 
 This Privacy Policy describes our privacy practices with respect to information we collect about our Members and other customers and visitors who (1) shop in our warehouse clubs or purchase products through this and other web site(s) operated by BJ’s Wholesale Club, Inc. (“BJ’s Sites”), or (2) register to use BJ’s Sites.
 
@@ -90,7 +90,7 @@ If you do not want to receive Promotional Material from us and you prefer that w
 
 **To change all marketing preferences either** :
 
-  * Call BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9 A.M. – 7 P.M. E.T. and Saturday – Sunday, 9 A.M. – 6 P.M. E.T.  
+  * Call BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9AM – 7PM E.T., Saturday, 9AM – 6PM E.T. and Sunday, 12NOON – 6PM E.T.  
 
   * Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.
 
@@ -103,7 +103,7 @@ Please be advised that even if you choose to opt out of all forms of communicati
 You may update, review, or correct your account information, including your marketing preferences, at any time by:
 
   * Accessing your Online Profile via the "Login" link on the BJs.com Home Page.  
-Calling BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9 A.M. – 7 P.M. E.T. and Saturday – Sunday, 9 A.M. – 6 P.M. E.T.  
+Calling BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9AM – 7PM E.T., Saturday, 9AM – 6PM E.T and Sunday, 12NOON – 6PM E.T.  
 
   * Writing us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.
 
