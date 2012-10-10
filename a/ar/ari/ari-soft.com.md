@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126170843id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010223804id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
-
-You currently have **0 items** in your cart.
-
-  * 29/12/2011 Merry Christmas and Happy New Year!
-
-Dear visitors, our office will be closed from December 30 to January 2 due to the celebration of the New Year. You can purchase and download our products, but we can not guarantee quick answers to your questions for this period of time. Happy New Year! Your ARI Soft team.
-
-  * 27/09/2011 ARI Smart Content v. 1.8.0
-
-ARI Smart Content v. 1.8.0 is ready. New version is compatible with Joomla! 1.5, 1.6 and 1.7 and it is released under GNU GPL license.
-
-
-  
-
-
-[](http://www.twitter.com/ARISoft)
 
 ARI Soft Privacy Policy is deeply committed to protecting the privacy of our customers.
 
