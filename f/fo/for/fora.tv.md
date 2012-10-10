@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523212433id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010103641id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
 
 # FORA.tv - Privacy Policy
 
@@ -37,13 +37,13 @@
 > 
 > _PayPal_. When you purchase a subscription or pay an access fee via PayPal, PayPal will collect and store any information that you submit during the PayPal service process. Refer to PayPal's Privacy Policy located at http://www.paypal.com for more information about PayPal's privacy practices. In connection with the PayPal payment process, PayPal may transfer us your PayPal user ID, your PayPal email address (if different from the PayPal user ID), your postal address, the amount of your payment, method of PayPal payment and your phone number. 
 > 
-> _Apple_. When you purchase a subscription or single transaction on the FORA.tv iPad application, Apple will collect and store any information that you submit during the Apple service process. Refer to Apple's Privacy Policy located at http://www.apple.com for more information about Apple's privacy practices.
-> 
 > _Premium Events_. When you purchase a subscription or pay an access fee to watch video from any device on FORA.tv or via third-party distributors (e.g., without limitation, Amazon, Apple, Facebook, mobile phone service providers, web enabled television service providers), we may provide Personal Information shared with us or the third-party distributor during the registration and payment process to the Premium Event Organizer and their Sponsors. Refer to the privacy policies of the Event Organizers and their Sponsors for more information about their privacy practices.
 > 
 > _Compliance with Laws and Law Enforcement_. FORA.tv cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including subpoenas), to protect the property and rights of FORA.tv or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity. 
 > 
 > _Business Transfers_. FORA.tv may sell, transfer or otherwise share some or all of its assets, including information provided by you, in connection with a merger, reorganization, or sale of assets, or in the event of bankruptcy. If the new entity wishes to make additional uses of your information different from those described in this Privacy Policy you will have the opportunity to decline such use at that time. 
+> 
+> _Third-Party_ Advertising Companies. We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/)
 > 
 > **YOUR CALIFORNIA PRIVACY RIGHTS**
 > 
