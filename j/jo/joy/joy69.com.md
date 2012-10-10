@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joy69.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504161151id_/http%3A//www.joy69.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joy69.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011001917id_/http%3A//www.joy69.com/privacy.php) for the most accurate reproduction.*
 
 # Porn Tube, Sex Movies - Joy69.com // Privacy Policy
 
