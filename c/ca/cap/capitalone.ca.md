@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627095315id_/http%3A//www.capitalone.ca/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010082246id_/http%3A//www.capitalone.ca/about-us/privacy) for the most accurate reproduction.*
 
 # Capital One's Privacy Commitment
 
@@ -29,7 +29,7 @@ Scarborough, ON M1R 5L6
 
 If you have general questions about Capital One or your account, please call one of our Customer Relations representatives at 1-800-481-3239.
 
-**Web:** You can visit our “Contact Us” page on our Web site at [www.capitalone.ca](undefined). If you are not a customer with us and would like to be removed from our marketing list, go to [www.capitaloneprivacy.ca](undefined) and fill in the form.
+**Web:** You can visit our “Contact Us” page on our Web site at [www.capitalone.ca](https://web.archive.org/). If you are not a customer with us and would like to be removed from our marketing list, go to [www.capitaloneprivacy.ca](https://web.archive.org/redirect.php?Log=1&dest=http://www.capitaloneprivacy.ca/Default.aspx) and fill in the form.
 
 To contact our Privacy officer for any other reason, please write to:
 
