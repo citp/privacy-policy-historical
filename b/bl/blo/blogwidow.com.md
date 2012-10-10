@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blogwidow.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620133242id_/http%3A//www.blogwidow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogwidow.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010191652id_/http%3A//www.blogwidow.com/privacy.shtml) for the most accurate reproduction.*
 
 # BlogWidow.com - Privacy Policy
 
 ## Privacy Policy
 
-**blogwidow.com** has created this privacy statement in order to demonstrate our firm commitment to privacy.  
+**[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** has created this privacy statement in order to demonstrate our firm commitment to privacy.  
 The following discloses the information gathering and dissemination practices for [blogwidow.com](http://www.blogwidow.com/).
 
 ### Information Automatically Logged
@@ -74,7 +74,7 @@ Users may opt-out of receiving future mailings; see the choice/opt-out section b
 ### External Links
 
 This site contains links to other sites.  
-**blogwidow.com** is not responsible for the privacy practices or the content of such Web sites. 
+**[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** is not responsible for the privacy practices or the content of such Web sites. 
 
 ### Security
 
@@ -111,7 +111,7 @@ We care about children and understand that they have special privacy needs. Ther
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us.
 
-  1. You can send email to **blogwidow.com** by using the [contact form](https://web.archive.org/contact.shtml). 
+  1. You can send email to **[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** by using the [contact form](https://web.archive.org/contact.shtml). 
 
 
 
@@ -119,10 +119,10 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided:
 
-  1. You can send email to **blogwidow.com** by using the [contact form](https://web.archive.org/contact.shtml). 
+  1. You can send email to **[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** by using the [contact form](https://web.archive.org/contact.shtml). 
 
 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact **blogwidow.com** by using the [contact form](https://web.archive.org/contact.shtml).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact **[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** by using the [contact form](https://web.archive.org/contact.shtml).
