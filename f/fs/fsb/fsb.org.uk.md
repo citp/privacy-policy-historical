@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520040859id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010100707id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,5 +43,48 @@ We will maintain confidentiality in your information even after your Membership 
 
 #### Access Rights
 
-On payment of a statutory fee of 10 pounds, you have the right to be informed of the information that we hold on you within 40 days. You also have the right to request that all inaccuracies be amended. All enquiries should be addressed to the "Data Protection Controller" at our Blackpool address.  
+On payment of a statutory fee of 10 pounds, you have the right to be informed of the information that we hold on you within 40 days. You also have the right to request that all inaccuracies be amended. All enquiries should be addressed to the "Data Protection Controller" at our Blackpool address.
+
+#### Cookies
+
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+
+The FSB requires cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
+
+Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+
+Further information about the cookies used by the FSB is provided below.
+
+Cookies used by the Federation of Small Businesses:
+
+The following cookie categories are based on the classification presented in the International Chambers of Commerce (ICC) Cookie Guide.
+
+Category 1: Strictly necessary cookies. These cookies are essential to allow us to provide services that you have requested.
+
+Category 1 cookies used by the FSB:
+
+  * Login status - To identify you as being logged in to our website.  
+
+
+
+
+Category 2: Performance cookies. These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don't collect information that identifies individual visitors. The information collected is anonymous and is only used to improve the way our website works.
+
+Category 2 cookies used by the FSB:
+
+  * Web analytics - Web analytics cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited.
+  * Embedded videos - Most videos on the FSB are hosted by YouTube. These sites use cookies to collect video statistics and improve site experience.
+
+
+
+Category 3: Functionality cookies. These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.
+
+Category 3 cookies used by the FSB:
+
+  * Login information - Login cookies may be used to communicate your login details across pages of this website. These data are encrypted and not shared with third parties.
+  * User profile data - Email addresses, address and contact information. These are not shared with third parties.
+
+
+
+The legislation in place as of 25th of May 2012 makes opt-in for non-essential cookies a requirement but the government has already backed off on issuing fines for now. Join the discussion on the [cookie directive](http://forum.fsb.org.uk/showthread.php?903-Important-EU-Rules-on-COOKIES).  
 
