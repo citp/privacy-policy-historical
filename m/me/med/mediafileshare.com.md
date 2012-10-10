@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediafileshare.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002049id_/http%3A//www.mediafileshare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafileshare.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010115647id_/http%3A//www.mediafileshare.com/privacy.html) for the most accurate reproduction.*
 
 # Outrageous, crazy, funny, scary, interesting videos!
 
