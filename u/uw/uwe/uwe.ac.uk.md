@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619235035id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010063735id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
 
 # Privacy - UWE Bristol: Website information
 
