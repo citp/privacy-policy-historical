@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510102612id_/http%3A//www.presdo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010220011id_/http%3A//www.presdo.com/about/privacy) for the most accurate reproduction.*
 
 # Presdo | Privacy Policy
 
 ### Privacy Policy
 
-Effective date: March 1, 2012
+Effective date: May 16, 2012
 
 #### 1\. Introduction
 
@@ -75,15 +75,7 @@ By visiting the Sites and providing your data, you acknowledge and agree that du
 
 Presdo complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and have also self-certified our privacy practices as consistent with US-EU Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. To view our certification, visit the [U.S. Department of Commerce’s Safe Harbor Web site](https://www.export.gov/safehrbr/list.aspx).
 
-We will also provide initial responses to your requests within a reasonable period of time. If a complaint or dispute under the Safe Harbor principles cannot be resolved through our internal process, you should contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: +1 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+Presdo has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Presdo, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 #### 9\. Changes to the Privacy Policy
 
