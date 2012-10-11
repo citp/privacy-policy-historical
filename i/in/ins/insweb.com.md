@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602194346id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011020341id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy and Security | InsWeb
 
@@ -161,10 +161,10 @@ We may amend this Privacy Policy at any time.  Amendments will take effect imme
 **_Contacting Us_**  
 If you have questions or concerns about our privacy practices or wish to make a request regarding your personally identifiable information, please contact us at any of the following: 
 
-  * Via telephone: (561)630-2400 
-  * Via fax: (561)625-4540 
-  * Via mail: Bankrate, Inc., 11760 US HWY 1 Suite 200, North Palm Beach, FL 33408 
-  * Via email: [webmaster@bankrate.com](mailto:webmaster@bankrate.com)
+  * Via telephone: 1-800-795-2886
+  * Via fax: 303-291-1934
+  * Via mail: NetQuote, Inc. 1860 Blake Street Suite 900 Denver, CO 80202
+  * Via email: [customerservice@netquote.com](mailto:customerservice@netquote.com)
   * **_Special Notification for California Residents – Your California Privacy Rights_**
 
 
@@ -172,12 +172,12 @@ If you have questions or concerns about our privacy practices or wish to make a 
 Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes.  Such requests must be submitted to us at [webmaster@bankrate.com](mailto:webmaster@bankrate.com) or in writing at:  
 
 
-Bankrate, Inc.  
-11760 US HWY 1, Suite 200  
-North Palm Beach, FL 33405  
-Attention: VP, Customer Service  
-Fax Number: (561)625-4540  
-
+NetQuote, Inc.   
+1860 Blake Street   
+Suite 900   
+Denver, CO 80202   
+Customer Service: 1-800-795-2886   
+Fax: 303-291-1934 
 
 
 California privacy rights requests must include the reference “Request for California Privacy Information” on the subject line and in the body of the message and must include the e-mail address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified in this paragraph. 
