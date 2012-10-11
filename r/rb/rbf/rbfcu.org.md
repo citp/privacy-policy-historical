@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the rbfcu.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232757id_/https%3A//www.rbfcu.org/NB/html/Reference/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbfcu.org privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011143641id_/https%3A//www.rbfcu.org/NB/html/Reference/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # RBFCU: Privacy Policy
+
+At RBFCU, we take the privacy and security of your information very seriously. We've put security measures in place to protect your information, and we are judicious when it comes to sharing your information.
+
+Please review our [privacy policy](https://web.archive.org/NB/html/Reference/AboutUs/pdf/M161aa.pdf) to learn more about the ways in which your information may be shared. If you have questions or comments regarding our privacy policy, you may contact us by e-mail at [comments@rbfcu.org](mailto:comments@rbfcu.org) or may call our Member Service Center at 210-945-3300 (San Antonio), 512-833-3300 (Austin), or 1-800-580-3300 (toll-free).
 
 ## Privacy Concerns of Our Members
 
