@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the torguard.net privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603010100id_/http%3A//www.torguard.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torguard.net privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011135819id_/http%3A//torguard.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -7,16 +7,87 @@
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-<title>TorGuard.net - Anonymous BitTorrent Services - Privacy Policy</title>
+<title>TorGuard VPN + Proxy - </title>
+<meta name="keywords" content=""> 
+<meta name="description" content="">
 
 <base href="http://torguard.net/">
 <link rel="stylesheet" type="text/css" href="templates/PenguinHost/style.css">
 
-<script type="text/javascript" src="includes/jscript/jquery.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="includes/jscript/jquery.js"></script>
+
+
+<style type="text/css" media="screen">
+/*<![CDATA[*/
+#cah img { border: 0; padding: 0; margin: 0px 0 0px 0; background-position: 1px 0;vertical-align: bottom; }
+#cah img.greenbar { background: white url(modules/addons/clientareahome/images/percentbar_green.png) bottom left no-repeat; }
+#cah img.redbar { background: white url(modules/addons/clientareahome/images/percentbar_red.png) bottom left no-repeat; }
+#cah img.bluebar { background: white url(modules/addons/clientareahome/images/percentbar_blue.png) bottom left no-repeat; }
+#cah img.goldbar { background: white url(modules/addons/clientareahome/images/percentbar_gold.png) bottom left no-repeat; }
+#cah img.blackbar { background: white url(modules/addons/clientareahome/images/percentbar_black.png) bottom left no-repeat; }
+/*]]>*/
+</style>
+<link rel="stylesheet" href="modules/addons/clientareahome/templates/default/style.css" type="text/css">
+
+<script type="text/javascript">
+/*<![CDATA[*/
+function makeTxt(id,txt){var obj = document.getElementById(id);obj.firstChild?obj.firstChild.data=txt:obj.appendChild(document.createTextNode(txt))}
+
+
+  // Tabs Changer
+  // ===============================
+jQuery(document).ready(function(){
+	//Default Action
+	jQuery(".cahtab_content").hide(); //Hide all content
+	jQuery("#cahtabs ul.tabs li:first").addClass("active").show(); //Activate first tab
+	jQuery(".cahtab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	jQuery("#cahtabs ul.tabs li").click(function() {
+        jQuery("ul").find("li").removeClass("open");
+		jQuery("ul.tabs li").removeClass("active"); //Remove any "active" class
+		jQuery(this).addClass("active"); //Add "active" class to selected tab
+		var activeTab = jQuery(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+        if (activeTab.substr(0,1)=="#" && activeTab.substr(1)!="") { //Determine if a tab or link
+            jQuery(".cahtab_content").hide(); //Hide all tab content
+    		jQuery(activeTab).fadeIn(); //Fade in the active content
+            return false;
+        } else {
+            return true; // If link allow redirect
+        }
+	});
+
+});
+
+/*]]>*/
+</script>
 
 
 
 
+<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
+<!--  BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+<script type="text/javascript">
+<!--
+	var LiveHelpSettings = {};
+	LiveHelpSettings.server = 'torguard.net/modules/';
+	LiveHelpSettings.embedded = true;
+	LiveHelpSettings.plugin = 'WHMCS';
+	LiveHelpSettings.name = '';
+	LiveHelpSettings.custom = '';
+	LiveHelpSettings.email = '';
+	(function(d, $, undefined) { 
+		$(window).ready(function() {
+			LiveHelpSettings.server = LiveHelpSettings.server.replace(/[a-z][a-z0-9+\-.]*:\/\/|\/livehelp\/*(\/|[a-z0-9\-._~%!$&'()*+,;=:@\/]*(?![a-z0-9\-._~%!$&'()*+,;=:@]))|\/*$/g, '');
+			var LiveHelp = document.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+			LiveHelp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(LiveHelp, s);
+		});
+	})(document, jQuery);
+-->
+</script>
+<!--  END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
 <link rel="shortcut icon" href="templates/PenguinHost/images/favicon.ico">
 
 <link rel="stylesheet" type="text/css" href="templates/PenguinHost/glossy-buttons.css">
@@ -54,7 +125,29 @@ jQuery(function(){
 
 
 
-
+<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
+<!--  BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+<script type="text/javascript">
+<!--
+	var LiveHelpSettings = {};
+	LiveHelpSettings.server = 'torguard.net/modules/';
+	LiveHelpSettings.embedded = true;
+	LiveHelpSettings.plugin = 'WHMCS';
+	LiveHelpSettings.name = '';
+	LiveHelpSettings.custom = '';
+	LiveHelpSettings.email = '';
+	(function(d, $, undefined) { 
+		$(window).ready(function() {
+			LiveHelpSettings.server = LiveHelpSettings.server.replace(/[a-z][a-z0-9+\-.]*:\/\/|\/livehelp\/*(\/|[a-z0-9\-._~%!$&'()*+,;=:@\/]*(?![a-z0-9\-._~%!$&'()*+,;=:@]))|\/*$/g, '');
+			var LiveHelp = document.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+			LiveHelp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(LiveHelp, s);
+		});
+	})(document, jQuery);
+-->
+</script>
+<!--  END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
 </head>
 
 
@@ -69,7 +162,8 @@ jQuery(function(){
 
     <div id="topmenu">
 
-     <div class="livesupport"><a href=" http://torguard.net/livechat/livehelp.php?department=2 &#10;&#10;" target="_blank"></a></div>
+     <div class="livesupport">
+     <a href="https://liveguide01us.netop.com/lg/engine/sources/swf.php?LiveGuideUID=GjCg8nk8E5zu4-L09H2No8NgiMWCs&amp;myurl=https%3A//liveguide01us.netop.com/lg/admin/pages/frontend/&amp;title=Code%20builder%20-%20Live%20Guide%20powered%20by%20Netop&amp;LiveGuideCIDuration=5148283&amp;LiveGuideCIRef=https%3A//liveguide01us.netop.com/lg/login/&amp;LiveGuideCITitle=Home%20-%20Live%20Guide%20powered%20by%20Netop&amp;LiveGuideCIUrl=https%3A//liveguide01us.netop.com/lg/admin/pages/home/&amp;metric=internal&amp;lgw=250&amp;lgh=640" target="_blank"></a></div>
 
       <ul>
 
@@ -147,7 +241,11 @@ jQuery(function(){
 
 </div>
 
-
+<!-- Netop Live Guide Monitor Tag -->
+	<script type="text/javascript"><!-- hide script contents from old browsers
+	function LgTrackingTag()catch(e)else document.write(s);} if(window.attachEvent)window.attachEvent('onload',LgTrackingTag);else window.addEventListener("load",LgTrackingTag,false);
+// end hide script contents from old browsers --></script>
+<!-- Netop Live Guide Monitor Tag -->
 
 <div id="contentwrapper">
 
@@ -167,17 +265,17 @@ jQuery(function(){
 
 
 
-<h2>TorGuard.net - Anonymous BitTorrent Services's Privacy Policy</h2>
+<h2>TorGuard VPN + Proxy's Privacy Policy</h2>
 
 
 
-<p>In an effort to protect our clients' and site visitors privacy and rights, TorGuard.net - Anonymous BitTorrent Services has established a Privacy Policy which explains what 
+<p>In an effort to protect our clients' and site visitors privacy and rights, TorGuard VPN + Proxy has established a Privacy Policy which explains what 
 
 information we gather on visitors and what we do with information that we gather.</p>
 
 
 
-<p>This Privacy Policy governs the manner in which TorGuard.net - Anonymous BitTorrent Services collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").</p>
+<p>This Privacy Policy governs the manner in which TorGuard VPN + Proxy collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").</p>
 
 
 
@@ -185,7 +283,7 @@ information we gather on visitors and what we do with information that we gather
 
 
 
-<p>Users' privacy is very important to TorGuard.net - Anonymous BitTorrent Services. We are committed to safeguarding the information Users entrust to TorGuard.net - Anonymous BitTorrent Services.</p>
+<p>Users' privacy is very important to TorGuard VPN + Proxy. We are committed to safeguarding the information Users entrust to TorGuard VPN + Proxy.</p>
 
 
 
@@ -193,7 +291,7 @@ information we gather on visitors and what we do with information that we gather
 
 
 
-<p>TorGuard.net - Anonymous BitTorrent Services collects personally identifiable information from Users through online forms for ordering products and services. 
+<p>TorGuard VPN + Proxy collects personally identifiable information from Users through online forms for ordering products and services. 
 
 We may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the 
 
@@ -205,13 +303,13 @@ Web site or the domains from which Users originate. We use "cookies" to track ho
 
 <h2>How We Use Information</h2>
 
-<p>TorGuard.net - Anonymous BitTorrent Services may use personally identifiable information collected through our Web site to contact Users 
+<p>TorGuard VPN + Proxy may use personally identifiable information collected through our Web site to contact Users 
 
-regarding products and services offered by TorGuard.net - Anonymous BitTorrent Services and its trusted affiliates, independent contractors and 
+regarding products and services offered by TorGuard VPN + Proxy and its trusted affiliates, independent contractors and 
 
-business partners, and otherwise to enhance Users' experience with TorGuard.net - Anonymous BitTorrent Services and such affiliates, independent 
+business partners, and otherwise to enhance Users' experience with TorGuard VPN + Proxy and such affiliates, independent 
 
-contractors and business partners. At no time will TorGuard.net - Anonymous BitTorrent Services's database of users ever be sold to any entity for the 
+contractors and business partners. At no time will TorGuard VPN + Proxy's database of users ever be sold to any entity for the 
 
 purpose of marketing or mailing lists. Personal information will not be sold or otherwise transferred to our business partners 
 
@@ -291,7 +389,7 @@ judgment, we are obligated to do so under applicable laws.</p>
         <div class="box3content">
           <h1>Change Language</h1>
           <div class="box3content2">
-<center><form method="post" action="/privacy.php" name="languagefrm" id="languagefrm"><strong>Language:</strong> <select name="language" onchange="languagefrm.submit()"><option>Czech</option><option>Danish</option><option>Dutch</option><option selected="selected">English</option><option>French</option><option>German</option><option>Italian</option><option>Norwegian</option><option>Portuguese-br</option><option>Portuguese-pt</option><option>Spanish</option><option>Swedish</option><option>Turkish</option></select></form></center>
+<center><form method="post" action="/privacy.php" name="languagefrm" id="languagefrm"><strong>Language:</strong> <select name="language" onchange="languagefrm.submit()"><option>English</option><option>Czech</option><option>Danish</option><option>Dutch</option><option selected="selected">English</option><option>French</option><option>German</option><option>Italian</option><option>Norwegian</option><option>Portuguese-br</option><option>Portuguese-pt</option><option>Spanish</option><option>Swedish</option><option>Turkish</option></select></form></center>
           </div>
         </div>
       </div>
@@ -324,16 +422,16 @@ judgment, we are obligated to do so under applicable laws.</p>
         <h1>Extra Links</h1>
         <ul>
 		<li><a href="http://torguard.net/faq.php" target="_blank">Frequently Asked Questions</a><a href="faq.php" target="_blank"></a></li>
-   	    <li><a href="http://torguard.net/affiliateads.php" target="_blank">TorGuard Affiliate Banners</a><a href="http://torguard.net/blog" target="_blank"></a></li>
+   	    <li><a href="http://torguard.net/vpn-dns-leak-test.php" target="_blank">DNS Leak Test</a></li>
    	    <li><a href="http://torguard.net/freewebproxy.php" target="_blank">Free Web Proxy</a><a href="http://torguard.net/dmca.php" target="_blank"></a></li>
    	    <li><a href="http://torguard.net/checkmytorrentipaddress.php">Check my Torrent IP</a></li>
-   	    <li><a href="http://torguard.net/torrentsearchcloud.php">Search Cloud</a><a href="http://torguard.net/affiliateads.php" target="_blank"></a></li>
+   	    <li><a href="http://torguard.net/torguard-reseller-list.php">TorGuard Reseller List</a></li>
         </ul>
       </div>
       <div class="sitemap">
         <h1>Members Area</h1>
         <ul>
-    	  <li><a href="http://torguard.net/affiliates.php">Affiliate System</a><a href="affiliates.php"></a></li>
+    	  <li><a href="http://torguard.net/vpn-reseller-affiliate.php">Affiliate System</a><a href="affiliates.php"></a></li>
     	  <li><a href="knowledgebase.php">Knowledgebase</a></li>
     	  <li><a href="submitticket.php">Submit Ticket</a></li>
     	  <li><a href="http://torguard.net/livechat/livehelp.php?department=2" target="_parent">Live Support Chat</a></li>
@@ -350,17 +448,33 @@ judgment, we are obligated to do so under applicable laws.</p>
     <div class="footerC"> <a class="noborderLT" href="http://torguard.net/index.php">Home</a><a href="http://torguard.net/anonymousbittorrentproxy.php">Anonymous Bitorrent Proxy</a><a href="http://torguard.net/anonymoustorrentvpn.php">Anonymous Bittorrent VPN</a><a href="voipvpnservices.php">VoIP VPN Service</a><a href="http://torguard.net/clientportal.php">Member's Area</a><a class="noborderRT" href="http://torguard.net/contact.php">Contact&nbsp;Us</a><p></p>
       <p><a class="noborderLT" href="http://torguard.net/howtodownloadtorrentsanonymously.php">How to use Bittorrent Anonymously</a><a href="http://torguard.net/vpnservice.php">Anonymous VPN Service</a><a class="noborderRT" href="http://torguard.net/torrentseedbox.php">Check your Torrent IP address</a><a href="proxyvsvpn.php">Proxy vs VPN</a><a class="noborderRT" href="http://torguard.net/pptpvsopenvpn.php">PPTP vs OpenVPN</a></p>
       <p>        <a class="noborderLT" href="torrentvpnservice.php">Torrent VPN Service</a><a href="iphonevpnservice.php">iPhone VPN Service </a><a class="noborderRT" href="ipadvpnservice.php">iPad VPN Service</a><a href="androidvpnservice.php">Android VPN Service</a><a class="noborderRT" href="skypevpnservice.php">Skype VPN Service</a>
+      </p><p> <a class="noborderLT" href="china-vpn.php">China VPN</a><a href="uae-vpn.php">UAE VPN </a><a class="noborderRT" href="syria-vpn.php">Syria VPN</a><a href="kuwait-vpn.php">Kuwait VPN</a><a class="noborderRT" href="russia-vpn.php">Russia VPN</a> <a href="india-vpn.php">India VPN</a><a class="noborderRT" href="france-vpn.php">France VPN</a><a class="noborderRT" href="iran-vpn.php">Iran VPN</a></p>
      
 
  
- </p></div>
+ </div>
     <div class="clr"></div>
    <div class="copyright">© Copyright <a href="http://www.torguard.net" target="_blank"><font color="#FFFFFF">TorGuard.net </font></a> 2012. All rights reserved.<br></div>
-   <!--?php include('cloud.php'); ?-->
-   <div id="craftysyntax"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" valign="top"><script type="text/javascript" src="/livechat/livehelp_js.php?eo=1&amp;relative=Y&amp;&amp;serversession=1&amp;pingtimes=15&amp;secure=Y&amp;creditline=L"></script></td></tr><tr><td align="center" valign="top"><font style="font-family: verdana, helvetica, sans-serif; font-size: 8px; color: #000000;">Powered By:</font><br><a href="http://www.craftysyntax.com?utm_source=poweredby&amp;utm_campaign=poweredby" alt="Crafty Syntax Live Help" target="_blank" style="font-family: verdana, helvetica, sans-serif; font-size: 10px; color: #11498e; text-decoration: none; font-weight: bold;"></a></td></tr></tbody></table></div>
+   
+   
+   
     <div class="clr"></div>
   </div>
 </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35040022-1']);
+  _gaq.push(['_setDomainName', '.https://www.torguard.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 
 
