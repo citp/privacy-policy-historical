@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersup.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203082707id_/http%3A//www.supersup.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersup.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011145633id_/http%3A//www.supersup.com/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -8,7 +8,7 @@ Super Supplements values your privacy as well as your business. Personal informa
 2) Improving your overall shopping experience  
 3) Communicating with you about products, services, and promotions
 
-We will never sell your information, however; in order to fulfill our commitments to you, we may need to share your personal information with authorized and reputable 3rd party service providers (United States Postal Service, UPS, First Data and others). We provide these service providers only with the information they need to perform their services and do not authorize them to make any other use of your information.
+We will never sell your information, however; in order to fulfill our commitments to you, we may need to share your personal information with authorized and reputable 3rd party service providers (United States Postal Service, FedEx, First Data and others). We provide these service providers only with the information they need to perform their services and do not authorize them to make any other use of your information.
 
 When visiting our site we may also collect non-personally identifiable information such as IP address, browser type, operating system, screen resolution, geographical location, and information on products ordered which assist us in providing you the best possible user experience on our site. 
 
