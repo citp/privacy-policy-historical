@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familybuilder.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501201212id_/http%3A//familybuilder.com/siteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familybuilder.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011095452id_/http%3A//familybuilder.com/siteprivacypolicy) for the most accurate reproduction.*
 
 # Familybuilder Including Family Tree on Facebook, Newsletters, and Genealogy
 
