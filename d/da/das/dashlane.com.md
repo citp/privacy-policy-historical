@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dashlane.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622045337id_/https%3A//www.dashlane.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashlane.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011091808id_/https%3A//www.dashlane.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy
+
+* * *
 
 Your [security](https://web.archive.org/en/security) and privacy are our top priorities. We built Dashlane with the clear understanding that your personal data is private and that it should not be accessible to anyone, not even us. Here is what that means: 
 
@@ -12,7 +14,6 @@ We do collect technical and usage data in order to improve the Dashlane product 
 
 Dashlane is all about giving you control of your own data. Because, you know, it's yours. 
 
-## Privacy Policy
+* * *
 
-For more details, download our Privacy Policy.  
-(Last updated Dec 1st 2011) 
+## Privacy Policy
