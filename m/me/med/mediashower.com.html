@@ -1,29 +1,50 @@
-<!--The following is the downloaded HTML source of the mediashower.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621231854id_/http%3A//mediashower.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediashower.com privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011020126id_/http%3A//mediashower.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Media Shower: Awesome SEO Content for Awesome Companies.</title>
-    <meta name="Description" content="Rank higher, better, faster with powerful SEO content that search engines love.">
+	<title>Media Shower: Awesome SEO Content Writing, Article Writing Services, and Blog Writers</title>
+    <meta name="Description" content="Rank higher, better, faster with powerful content that search engines love.">
 	<meta name="Keywords" content="If you're still using the Keywords field, it's time for a new SEO strategy. Contact us to learn more.">
-	<link media="all" rel="stylesheet" type="text/css" href="css/all.css">    
+	<link media="all" rel="stylesheet" type="text/css" href="css/all.css">  
+	
+	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/themes/base/jquery-ui.css" type="text/css" media="all">
+	<link rel="stylesheet" href="http://static.jquery.com/ui/css/demo-docs-theme/ui.theme.css" type="text/css" media="all">      
+    
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.js"></script>
 	<script type="text/javascript" src="/js/jquery.validate.pack.js"></script>
     <script type="text/javascript" src="/js/jquery.main.js"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js" type="text/javascript"></script>
 	<script src="http://jquery-ui.googlecode.com/svn/tags/latest/external/jquery.bgiframe-2.1.2.js" type="text/javascript"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/i18n/jquery-ui-i18n.min.js" type="text/javascript"></script> 
-    <script type="text/javascript" src="/js/jquery.zclip.js"></script>   
+    <script type="text/javascript" src="/js/jquery.zclip.js"></script>  
+    
+     
 	<script>
 	$(function() {	
 		$( "#resizable" ).resizable({
 			handles: "se"
 		});
 		
-		
+				
 		$('.checkall').click(function () {
 			$(this).parents('fieldset:eq(0)').find(':checkbox').attr('checked', this.checked);
 		});
+	
+		
+		$.fn.urlhttpFormat = function() {
+			this.each( function( i ) {
+				$(this).change( function( e ) {
+					if (this.value && !this.value.match(/^http([s]?):\/\/.*/)) {
+						this.value = ('http://' + this.value);
+					}
+    	        });
+        	    return this;				
+	    	});
+		};
+		$( function() {
+    	   	$('.urlhttpFormat').urlhttpFormat();
+	    });
 	});
 	</script> 
 <script type="text/javascript">
@@ -43,21 +64,27 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
+
 <style type="text/css">.tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style></head>
 <body>
+
 	<div id="dialogmsg"></div>
 	<div id="wrapper">
 		<div id="header">
 			<div class="area">
 				<div class="holder">
-                	<div class="g-plusone" data-annotation="none"></div>
-                	<div style="float:right;padding-left:20px;">                	
-                    
-					<a class="login" href="/content?Action=Login"><span>Log in</span><em>&nbsp;</em></a>
-					<strong class="separator">or</strong>
-					<a class="signup" href="/content?Action=Login"><span>Sign up for free</span><em>&nbsp;</em></a>
-                                        
-                    </div>                     
+					<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
+	                	<div class="g-plusone" data-annotation="none"></div>
+					</td><td width="25">&nbsp;
+						
+					</td><td>
+	                    
+						<a class="login" href="/content?Action=Login"><span>Log in</span><em>&nbsp;</em></a>
+						<strong class="separator">or</strong>
+						<a class="signup" href="/content?Action=Login"><span>Sign up for free</span><em>&nbsp;</em></a>
+	                                        
+					</td></tr></tbody></table>
 				</div>
 			</div>
 			<div class="area2">
@@ -159,4 +186,5 @@
 		</div>
 	</div>
 
-            </div></body></html>
+            
+</div></body></html>
