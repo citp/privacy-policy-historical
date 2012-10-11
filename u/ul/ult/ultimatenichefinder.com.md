@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatenichefinder.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502030352id_/http%3A//ultimatenichefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatenichefinder.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011024933id_/http%3A//ultimatenichefinder.com/privacy.html) for the most accurate reproduction.*
 
 # The ULTIMATE Niche Finder
 
