@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workathometruth.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118100459id_/http%3A//www.workathometruth.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathometruth.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011033512id_/http%3A//www.workathometruth.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
