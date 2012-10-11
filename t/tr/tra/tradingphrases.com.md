@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingphrases.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510073150id_/http%3A//tradingphrases.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingphrases.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011164327id_/http%3A//tradingphrases.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement - Trading Phrases
 
@@ -6,7 +6,7 @@
 
 Trading Phrases is committed to maintaining the trust and confidence of our customers. All personal information you provide on this site is secure and encrypted; we do not sell your personal information to other companies. The information you provide to us such as your name, mailing address, email address, etc. is used to fulfill your order and to add you to our e-mail list. 
 
-If you place an order on this site we do not use or store any credit card information. All orders are completed using PayPal's business processing service which ensures that all of your information is secure. Your credit card information is only available to PayPal and Trading Phrases does not have access to the specific data. For questions about PayPal's privacy policy, please visit their site at [www.paypal.com](http://www.paypal.com/) for more information.
+If you place an order on this site we do not use or store any credit card information. All orders are completed using Authorize.net's business processing service which ensures that all of your information is secure. Your credit card information is only available to Authorize.net and Trading Phrases does not have access to the specific data.
 
 Cookies are used on the site to help customers access and track items in their shopping cart. A cookie is sent to the individual to identify them when they return to the site for the purpose of viewing items left in their shopping cart. We do not use cookies for other purposes.
 
