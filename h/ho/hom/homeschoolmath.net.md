@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313152654id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011044514id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
 
 [Maria's Math news](http://www.homeschoolmath.net/newsletter/) \- a monthly FREE newsletter filled with math teaching information.
 
-[March 2012](http://www.homeschoolmath.net/newsletter/volume61-march-2012.htm): triangle problems, review of Hands-On Equations, World Math Day, and more
+[October 2012](http://www.homeschoolmath.net/newsletter/volume66-october-2012.htm)
 
 Subscribe below:
 
@@ -34,9 +34,6 @@ In-depth reviews of math products
 
 [Math help & tutoring](http://www.homeschoolmath.net/online/math_help_tutoring.php)  
 A list of free message boards, math help websites, and online tutoring services. 
-
-[My Amazon Store](http://astore.amazon.com/homeschoolmat-20)  
-See some math products I recommend. 
 
 [Fun and games](http://www.homeschoolmath.net/online/math_games_fun.php)  
 I have two games on my site, plus links to many.   
@@ -68,17 +65,17 @@ You can choose to disable or selectively turn off the third-party cookies in you
 
 To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20120313152654id_/http%3A//www.homeschoolmath.net/question.php).
+The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20121011044514id_/http%3A//www.homeschoolmath.net/question.php).
 
 ** | 
 
-[](http://www.tutorbungalow.com/)
+[](http://www.softmath.com/adv/homeschoolmath2.html)
 
-[](http://hoodamath.com/games/)
-
-[](http://www.mathnook.com/)
+[](http://www.dadsworksheets.com/)
 
 [](http://www.adaptedmind.com/)
+
+[](http://www.lymboo.com/hsm)
 
   
 
