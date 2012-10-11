@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportngin.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113133116id_/http%3A//sport.ngin.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportngin.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011110911id_/http%3A//www.sportngin.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | NGIN
 
@@ -37,13 +37,13 @@ NGIN sites do not knowingly solicit any personally identifiable information from
 
   1. #### The Information We Collect
 
-On this site you can register for a user account, order products, vote in polls or otherwise express an opinion, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, and fax number..
+On this site you can register for a user account, order products, vote in polls or otherwise express an opinion, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, and fax number.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 98, Windows 2000 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 98, Windows 2000 or Mac OS) and the domain name of your Internet service provider.
 
   2. #### How We Use the Information
 
-This collected information is never sold, distributed or otherwise exploited in anyway. This information is stored securely in an encrypted database and is accessible only by the registered and a licensed member of your organization’s governing board. The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities.
+Information is stored securely in an encrypted database and is accessible only by the registered and a licensed member of your organization’s governing board. The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities.
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
@@ -59,29 +59,35 @@ While NGIN is careful in choosing its sponsors and advertisers, we are only resp
 
 Our sites contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. We may sometimes offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors/entrants voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the third party sponsors' use of this information.
 
-  5. #### Cookies
+  5. #### Right to Deliver and Send Commercial Messages
+
+You agree to receive commercial messages from NGIN or any third party chosen by NGIN (thereafter NGIN Commercial partners) on any device you use to access and operate NGIN products and services and which may be based on characteristics derived from information explicitly or implicitly provided by you, such as your location, to NGIN and which will be treated according to our Privacy Policy.
+
+Commercial messages are messages sent on your NGIN account or email address for commercial purposes for NGIN or NGIN Commercial partners’ products and services. Commercial messages sent byNGIN or NGIN Commercial partners to your email address will include a one click opt-out option.
+
+  6. #### Cookies
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. These Cookies do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering with us.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites.
 
-  6. #### Our Commitment to Security
+  7. #### Our Commitment to Security
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-  7. #### How to Contact Us
+  8. #### How to Contact Us
 
 If you have any questions or concerns about the NGIN online policy for this site or its implementation you may contact us at 612-379-1030 or at support@ngin.com.
 
-  8. #### Online Registration
+  9. #### Online Registration
 
 When asked to submit personal billing information, it is important to know that this information is used only for payment processing verification. NGIN does not distribute sell or otherwise exploit this information in any way. For security reasons complete credit card numbers are never saved or stored.
 
-  9. #### Updates
+  10. #### Updates
 
 From time to time, we may update this privacy notice. We will note the date the Policy was changed at either the top or bottom of the Policy, to keep you informed of when updates occur. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
 
 
 
-LAST UPDATED: June 12, 2009 © NGIN, 2011. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
+LAST UPDATED: July 25, 2011 © NGIN, 2012. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
