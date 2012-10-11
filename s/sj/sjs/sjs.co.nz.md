@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509202017id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011142410id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Student Job Search
 
@@ -62,7 +62,7 @@ We will not disclose your personal information except in accordance with this Pr
 
 **c)** you have consented for us to do so, we may provide your name and telephone number to students in the same job as you;
 
-**d)** you apply for an Unemployment Benefit Student Hardship (UBSH) from the Ministry of Social Development (MSD) and MSD request that we provide your SJS enrolment details (your personal information) in order to check your eligibility to receive the unemployment benefit;
+**d)** you apply for an Unemployment Benefit Student Hardship (UBSH) from the Ministry of Social Development (MSD) and MSD request that we provide your SJS enrolment details (your personal information) in order to check your eligibility to receive the unemployment benefit or MSD request that we provide details of your use of our services, including jobs you have applied for or have attained;
 
 **e)** we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of their functions;
 
@@ -102,10 +102,8 @@ Email address: help@sjs.co.nz 
 
 ###  Changes to our Privacy Policy
 
-We reserve the right, at our discretion, to update, change or revise this Privacy Policy, at any time. Changes to this privacy policy will take effect immediately once they are published on this website. Please check the Privacy Policy periodically for changes. Your continued use of this website following the posting of any changes to the Privacy Policy indicates your acceptance of those changes.
+We reserve the right, at our discretion, to update, change or revise this Privacy Policy, at any time. Changes to this privacy policy will take effect immediately once they are published on this website. Please check the Privacy Policy periodically for changes. Your continued use of this website or our services following the posting of any changes to the Privacy Policy indicates your acceptance of those changes.
 
-This Privacy Policy was last updated December 2011.
+This Privacy Policy was last updated August 2012.
 
 ###  Other Terms
-
-This Privacy Policy was last updated on 29 February 2012 .
