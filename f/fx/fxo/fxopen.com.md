@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the fxopen.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624060535id_/http%3A//www.fxopen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxopen.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011082116id_/http%3A//www.fxopen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# FXOpen - Privacy Statement
+# Политика конфиденциальности
 
-**Protecting the privacy and safeguarding the personal and financial information of FXOpen clients and website visitors is one of our highest priorities. The following Privacy Statement and Refund Policy explains how we collect and protect your information.**
-
-**Refund Policy**
-
-All payments to Client’s account are considered to be non-refundable.   
-All withdrawals should be done using one of withdrawal options provided.   
-In exceptional cases a refund can be done by request from Credit/Debit card organization and/or payment processors to the credit/debit card or the account, from which the deposit was made.
+**Protecting the privacy and safeguarding the personal and financial information of FXOpen clients and website visitors is one of our highest priorities. The following Privacy Statement.**
 
 **Collection of personal information**
 
