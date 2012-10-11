@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsirrational.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102644id_/http%3A//itsirrational.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsirrational.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011131336id_/http%3A//itsirrational.com/privacypolicy) for the most accurate reproduction.*
 
-# Drake Quotes | Tumblr Quotes | Cute Quotes
+# Drake Quotes | Tumblr Quotes
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
