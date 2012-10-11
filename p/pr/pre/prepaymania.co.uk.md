@@ -1,36 +1,53 @@
-> *The following text is extracted and transformed from the prepaymania.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206073919id_/http%3A//www.prepaymania.co.uk/faq/25/%2329) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaymania.co.uk privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011220800id_/http%3A//www.prepaymania.co.uk/res/145) for the most accurate reproduction.*
 
-# PrePayMania - Buy Mobile Phones, Cheap Mobile Phones, Pre Pay Phones, Sim Free phones, Pay monthly and Pay As You Go Mobiles.
+# PrePayMania Privacy Policy
+
+PrePayMania Ltd is committed to protecting our customers' personal information. We have created this Privacy Policy to help you understand how we collect, use and protect your information when you visit our website and buy our products and services.
 
   
-Why do I need a account ?  
-  
-The customer account system helps you keep track of all your orders and makes it easier for you to leave reviews, ask for support or track your order.
 
-We do not sell on any information, however we may share you infomation within the Gobal Connect Ltd group of companies for marketing research reasons, neither do we store your card details due to Security reasons.   
-  
-  
-How do I change my address?  
-  
-Please log into the customer account detail via [http://www.prepaymania.co.uk/customer](http://www.fones.com/customer) and click Edit Details.
 
-Please note that if you wish to edit the address for a recently placed and not dispatched order, please contact us on 08456 77 77 55 . For security reasons, the edit details page will not update new order address details.  
-  
-  
-How will my information be used?  
-When you place an order with www.prepaymania.co.uk you agree for us to collect information about you for us to be able to process your order, the information we need will depend on what you have ordered. www.prepaymania.co.uk will hold all relevant information regarding your order on file. We will share you information with other 3rd party companies, which will include credit reference agencies and fraud prevention agencies to enable us to process your order. We do not sell your personal information, we may pass on your customer information within the Connect Global group of companies for marketing purposes and contact you by either a phone call, email or text.  You agree to the above and information that you have supplied being shared with the above agencies and for your personal information to be held by www.prepaymania.co.uk and its parent company Connect Global Ltd.   
-  
-How do I delete /cancel my account?  
-  
-We are unable to delete accounts as records have to be kept for VAT and accounting purposes. However we will make accounts inactive. 
+## What personal information do we collect?
 
-You can select 'No' if you do wish to receive marketing emails from us. If you wish to unsubscribe from our email marketing, please follow the link on the email to unsubscribe.  
-  
-  
-How do I change my password?  
-  
-To change your password, please login into [http://www.Prepaymania.co.uk/customer](http://www.prepaymania.co.uk/customer)
+We may hold information relating to you that you have provided to us (such as on an application or registration form). This information may include, amongst other things, your name, address, telephone numbers, information on how you use our products and services (such as the type, date, time, location and information on your browsing activity), lifestyle information and any other information collected in relation to your use of our products and services.
 
-Under edit details, you can update your password. 
+## How do we use your Personal Information?
 
-If you have forgotten your password, you will need to set up another account as the passwords are not stored or able to be reset.
+The information that we collect from you is managed in accordance with the Data Protection Act 1998. It may be used by us for a number of purposes connected with our business operations and functions, which include:
+
+  1. Processing your orders or applications;
+  2. Carrying out credit checking and scoring;
+  3. Providing you with products and/or services requested or administering your account;
+  4. Dealing with requests, enquiries or complaints and other customer care related activities; and all other general administrative and business purposes;
+  5. Registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our companies' offers and schemes;
+
+
+
+## Sharing your Personal Information
+
+Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order. In addition, you do not object to us, our group companies or third parties, including Vodafone Ltd. contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or in writing. If you do not want us to pass your details on to third parties for marketing purposes, please call 08456 77 77 55.
+
+## Protecting your personal information 
+
+We will take reasonable steps to ensure that the personal information we collect & use is accurate, complete, up-to-date and stored in a secure environment protected from unauthorized access, modification or disclosure. 
+
+## Choices Regarding Use of Your Information 
+
+We want to provide you with meaningful choices regarding our marketing communications and you may choose to limit or opt-out of certain communications from PrePayMania at any time.
+
+If you are not a PrePayMania customer and would like to opt-out of marketing communications from PrePayMania, you can do so by calling our team on 08546 77 77 55 to unsubscribe or you can even email us on newsletter@prepaymania.co.uk.
+
+You may also manage your marketing preferences with respect to marketing e-mails, by following the "unsubscribe" instructions on any marketing e-mail we send you.
+
+## Cookies:
+
+We may use cookies to collect non-personal information about how you interact with our website, and web-related products and services, to:
+
+  * Understand what you like and use about our website;
+  * Understand what you do not like and do not use on our website; 
+  * Provide a more enjoyable, customised service and experience, and
+  * Help us develop and deliver better products and services tailored to our customers' interests and needs. 
+  * We may use a persistent cookie to record details such as a unique user identity and general registration details on your PC. This helps us recognise you on subsequent visits to this website so that you don't have to re-enter your registration details each time you visit us and allows us to carry out the activities mentioned above. 
+  * Most browser technology (such as Internet Explorer, Netscape etc) allows you to choose whether to accept cookies or not – you can either refuse all cookies or you can set your browser to alert you each time that a website tries to set a cookie. 
+
+
