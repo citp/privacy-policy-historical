@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the tradedirectory.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625113704id_/http%3A//www.tradedirectory.com/bottom/26/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradedirectory.com privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011140558id_/http%3A//www.tradedirectory.com/bottom/26/Privacy-Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
 	Privacy Policy - Trade Directory
-	</title>
+</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="alexaVerifyID" content="tTBuCOl0K2z6mr3i0xfbf00OFmA">
 <meta name="google-site-verification" content="_eN0ldtL2f6esuoHS_kdArkcmLPA2BdRFRXjA8TbVJs">
 <meta name="msvalidate.01" content="BFF861DD6D07D3F969A4E34500D791F6">
-<meta name="keywords" content="Trade directory, trade, business, business directory, trade leads, business leads, manufacturers directory, producers, wholesale products, trade shows, international suppliers, wholesalers, importers, exporters, business to business marketplace - ">
+<meta name="keywords" content="Trade directory, trade, business, business directory, trade leads, business leads, manufacturers directory, producers, wholesale products, trade shows, international suppliers, wholesalers, importers, exporters, business to business marketplace">
 <meta name="description" content="Trade Directory - Global business to business marketplace, provides absolutely free of charge B2B directory, trade leads and trade shows information to manufacturers, wholesalers, international suppliers, buyers, importers and exporters">
 <meta name="author" content="Trade Directory">
 <meta name="language" content="English">
@@ -26,27 +26,16 @@
 <script language="javascript">
 function getPrice(element,rate)
 {
-	//alert(element.id);
-	
 	var price = element.value * rate;
 	var td    = element.id + "_P";
-	//alert(td);exit;
 	document.getElementById(td).innerHTML = price;
-	//alert(document.getElementById("M1_a").href);
 	var loc   = element.id + "_A";
 	var url   = document.getElementById(loc).href;
-	//alert(url);
 	var pos = url.lastIndexOf('=');
-	//alert(url.substring(0,pos+1));
 	var url_temp = 0;
 	url_temp = url.substring(0,pos+1);
-	/*for price*/
-	//url_temp = url_temp + price;
-	/*for months*/
 	url_temp = url_temp + element.value;
-	//alert(url_temp);
 	document.getElementById(loc).href = url_temp;
-	//alert(document.getElementById("M1_a").href);
 }
 </script>
 
@@ -84,8 +73,7 @@ function getPrice(element,rate)
               </tr>
               <tr>
                 <td align="right" valign="bottom" height="34">
-				
-<script type="text/javascript" src="http://www.tradedirectory.com/menu2/csshorizontalmenu.js">
+				<script type="text/javascript" src="http://www.tradedirectory.com/menu2/csshorizontalmenu.js">
 /***********************************************
 
 * CSS Horizontal List Menu- by JavaScript Kit (www.javascriptkit.com)
@@ -130,8 +118,8 @@ function getPrice(element,rate)
 		</li>
 		<li><a href="#" style="width:90px;" id="menu_fourth_">Community</a>
 			<ul onmouseover="$('#menu_fourth_').addClass('selected')" onmouseout="$('#menu_fourth_').removeClass('selected')">
-			<!-- <li><a href="http://www.tradedirectory.com/bottom/16/Forum.html">Forums</a></li> -->
 			<li><a href="http://blog.tradedirectory.com/">Blog</a></li>
+			<li><a href="http://www.tradedirectory.com/bottom/16/Forums.html">Forums</a></li><!-- forums/ -->
 			<li><a href="http://www.tradedirectory.com/expert_ask_question.php">Ask a Question</a></li>
 			<li><a href="http://www.tradedirectory.com/referrals/">Tell a Friend</a></li>
 			<li><a href="http://www.tradedirectory.com/report_abuse/">Report Abuse</a></li>
@@ -172,7 +160,7 @@ function validate_required(field,alerttxt)
 {
 with (field)
   {
-  if (value==null||value==""||value=="Keyword")
+  if (value == null || value == '' || value == 'Search Products' || value == 'Search Buying Leads' || value == 'Search Selling Leads' || value == 'Search Companies')
     {
     alert(alerttxt);return false;
     }
@@ -194,50 +182,64 @@ with (thisform)
   }
 }
 /************************Form Validation END*********************************/
-
 </script>
+
 <style type="text/css">
 
 	/****************Search Butttons Styles*********************/
-	.seller_up
+	.companies_up
 	{
-		background:url(http://www.tradedirectory.com/images/sellers1_n.jpg);
-		width:88px;
+		background:url(http://www.tradedirectory.com/images/companies.jpg);
+		width:96px;
 		height:35px;
 		border:none;
 	}
-	.seller_down
+	.companies_down
 	{
-		background:url(http://www.tradedirectory.com/images/sellers2_n.jpg);
-		width:88px;
+		background:url(http://www.tradedirectory.com/images/companies_n.jpg);
+		width:96px;
 		height:35px;
 		border:none;
 	}
-	.buyer_up
+	.selling_leads_up
 	{
-		background:url(http://www.tradedirectory.com/images/buyers1_n.jpg);
-		width:88px;
+		background:url(http://www.tradedirectory.com/images/selling_leads.jpg);
+		width:96px;
 		height:35px;
 		border:none;
 	}
-	.buyer_down
+	.selling_leads_down
 	{
-		background:url(http://www.tradedirectory.com/images/buyers2_n.jpg);
-		width:88px;
+		background:url(http://www.tradedirectory.com/images/selling_leads_n.jpg);
+		width:96px;
 		height:35px;
 		border:none;
 	}
-	.product_up
+	.buying_leads_up
 	{
-		background:url(http://www.tradedirectory.com/images/products1_n.jpg);
-		width:88px;
+		background:url(http://www.tradedirectory.com/images/buying_leads.jpg);
+		width:96px;
 		height:35px;
 		border:none;
 	}
-	.product_down
+	.buying_leads_down
 	{
-		background:url(http://www.tradedirectory.com/images/products2_n.jpg);
-		width:88px;
+		background:url(http://www.tradedirectory.com/images/buying_leads_n.jpg);
+		width:96px;
+		height:35px;
+		border:none;
+	}
+	.products_up
+	{
+		background:url(http://www.tradedirectory.com/images/products.jpg);
+		width:96px;
+		height:35px;
+		border:none;
+	}
+	.products_down
+	{
+		background:url(http://www.tradedirectory.com/images/products_n.jpg);
+		width:96px;
 		height:35px;
 		border:none;
 	}
@@ -287,7 +289,7 @@ with (thisform)
 
 
 </td></tr><tr>
-  <td align="left" valign="top" style="padding:0px 0px 4px 0px;">
+<td align="left" valign="top" style="padding:0px 0px 4px 0px;">
 <form method="GET" onsubmit="return validate_form(this);" action="http://www.tradedirectory.com/search.php" id="searchForm">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
@@ -299,12 +301,13 @@ with (thisform)
             <td align="left" valign="top" style="border-left:1px solid #237ec4;">&nbsp;</td>
             <td align="center" valign="top" style="padding:4px 4px;"><table width="90%" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-                  <td align="center" valign="top"><table width="85%" border="0" cellspacing="0" cellpadding="0">
+                  <td align="center" valign="top"><table width="95%" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
-                      <td align="center" valign="top"><input type="button" title="Products" onclick="changeValue(this,'product', 'Search Products')" id="product" class="product_up"></td>
-                      <td align="center" valign="top"><input type="button" title="Buyers" onclick="changeValue(this,'buyer', 'Search Buyers')" id="buyer" class="buyer_down">
-                      </td><td align="center" valign="top"><input type="button" title="Sellers" onclick="changeValue(this,'seller', 'Search Sellers')" id="seller" class="seller_down">
-					  <input type="hidden" name="postname" id="postname" value="product">
+                      <td align="center" valign="top"><input type="button" title="Products" onclick="changeValue(this,'products', 'Search Products')" id="products" class="products_up"></td>
+                      <td align="center" valign="top"><input type="button" title="Buying Leads" onclick="changeValue(this,'buying_leads', 'Search Buying Leads')" id="buying_leads" class="buying_leads_down">
+                      </td><td align="center" valign="top"><input type="button" title="Selling Leads" onclick="changeValue(this,'selling_leads', 'Search Selling Leads')" id="selling_leads" class="selling_leads_down">
+                      </td><td align="center" valign="top"><input type="button" title="Companies" onclick="changeValue(this,'companies', 'Search Companies')" id="companies" class="companies_down">
+					  <input type="hidden" name="postname" id="postname" value="products">
                       </td></tr>
                   </tbody></table></td>
                   <td align="left" valign="top" colspan="3">
@@ -318,9 +321,9 @@ with (thisform)
                 </tr>
                 <tr>
                   <td align="left" valign="middle">
-				  <input maxlength="75" name="search" id="search" type="text" class="textfield2_new" onfocus="if(this.value == 'Search Products' || this.value == 'Search Buyers' || this.value == 'Search Sellers') this.value = '';" autocomplete="off" value="Search Products">
+				  <input maxlength="75" name="search" id="search" type="text" class="textfield2_new" onfocus="if(this.value == 'Search Products' || this.value == 'Search Buying Leads' || this.value == 'Search Selling Leads' || this.value == 'Search Companies') this.value = '';" autocomplete="off" value="Search Products">
                   </td>
-                  <td width="290" align="left" valign="middle">
+                  <td width="220" align="left" valign="middle">
 					  <select name="country" class="combo">
 						<option value="">Select Country / Region</option>
 						<option value="0">All Countries</option>
@@ -354,7 +357,7 @@ with (thisform)
                 </tr>
 				<tr>
 			  	<td colspan="4" align="left">
-								<br>
+																<br>
 
 								</td>
 				</tr>
@@ -374,19 +377,21 @@ with (thisform)
 			$("#postname").val(value);
 			//alert($("#postname").val());
 
-			var seller_class = $("#seller").attr("id") + "_down";
-			var buyer_class = $("#buyer").attr("id") + "_down";
-			var product_class = $("#product").attr("id") + "_down";
-			//alert(seller_class +"\n"+ buyer_class +"\n"+ product_class);
+			var companies_class = $("#companies").attr("id") + "_down";
+			var selling_leads_class = $("#selling_leads").attr("id") + "_down";
+			var buying_leads_class = $("#buying_leads").attr("id") + "_down";
+			var products_class = $("#products").attr("id") + "_down";
+			//alert(companies_class +"\n"+ selling_leads_class +"\n"+ buying_leads_class +"\n"+ products_class);
 
-			$("#seller").addClass(seller_class);
-			$("#buyer").addClass(buyer_class);
-			$("#product").addClass(product_class);
+			$("#companies").addClass(companies_class);
+			$("#selling_leads").addClass(selling_leads_class);
+			$("#buying_leads").addClass(buying_leads_class);
+			$("#products").addClass(products_class);
 
 			sender.className = sender.id + "_up";
 
 			var textField = document.getElementById("search");
-			if(textField.value == 'Search Products' || textField.value == 'Search Buyers' || textField.value == 'Search Sellers' || textField.value == ''){
+			if(textField.value == 'Search Products' || textField.value == 'Search Buying Leads' || textField.value == 'Search Selling Leads' || textField.value == 'Search Companies' || textField.value == ''){
 				textField.value = textFieldTitle;
 			}
 		}
@@ -685,17 +690,17 @@ function go(prod_id,mem_id,selling_lead)
 		</tr>
 								<tr>
 				<td align="center" valign="top" style="width:200px; padding-bottom:0px; ">
-					<a href="http://www.appointmentor.com" title="Appointments booking" target="_blank"><img src="http://www.tradedirectory.com/banner_upload/img_1340281157.png" border="0" width="198" height="142" style="border:1px solid #B8B8B8"></a>
+					<a href="http://www.appointmentor.com" title="Appointment making software" target="_blank"><img src="http://www.tradedirectory.com/banner_upload/img_1348483914.png" border="0" width="198" height="142" style="border:1px solid #B8B8B8"></a>
 				</td>
 			</tr>
 											<tr>
 				<td align="center" valign="top" style="width:200px; padding-bottom:0px; padding-top:5px;">
-					<a href="http://www.service.net" title="Services" target="_blank"><img src="http://www.tradedirectory.com/banner_upload/img_1340280881.png" border="0" width="198" height="142" style="border:1px solid #B8B8B8"></a>
+					<a href="http://www.pureii.co.uk" title="Websites, promotion" target="_blank"><img src="http://www.tradedirectory.com/banner_upload/img_1348483865.jpg" border="0" width="198" height="142" style="border:1px solid #B8B8B8"></a>
 				</td>
 			</tr>
 											<tr>
 				<td align="center" valign="top" style="width:200px; padding-bottom:0px; padding-top:5px;">
-					<a href="http://www.craftbuyer.com/" title="Card makers" target="_blank"><img src="http://www.tradedirectory.com/banner_upload/img_1340281068.gif" border="0" width="198" height="142" style="border:1px solid #B8B8B8"></a>
+					<a href="http://www.craftbuyer.com/" title="Card making" target="_blank"><img src="http://www.tradedirectory.com/banner_upload/img_1348483811.gif" border="0" width="198" height="142" style="border:1px solid #B8B8B8"></a>
 				</td>
 			</tr>
 					        </tbody></table>
@@ -998,18 +1003,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 //Google Analytics END.
 
-/*
-//Rendering Height START.
-var screen_height = screen.height;
-var screen_width = screen.width;
-//alert(screen_height);
-//alert(screen_width);
-
-var adjusted_height = (screen_height - (148+220+190)) + "px";
-//alert(adjusted_height);
-
-document.getElementById("body_container").style.height = adjusted_height;
-//Rendering Height END.*/
 </script>
 
 
