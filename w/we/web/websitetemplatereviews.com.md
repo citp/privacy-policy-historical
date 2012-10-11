@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitetemplatereviews.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514004433id_/http%3A//www.websitetemplatereviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetemplatereviews.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011052824id_/http%3A//www.websitetemplatereviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — B2Web
+# Privacy Policy — Website Template Reviews
 
 **What do we use your information for?**
 
