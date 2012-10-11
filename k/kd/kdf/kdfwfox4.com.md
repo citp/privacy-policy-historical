@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdfwfox4.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524054617id_/http%3A//www.myfoxdfw.com/dpp/about_us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdfwfox4.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011020148id_/http%3A//www.myfoxdfw.com/story/17106386/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dallas News | myFOXdfw.com
 
