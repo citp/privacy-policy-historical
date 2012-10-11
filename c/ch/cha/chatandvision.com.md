@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatandvision.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626180654id_/http%3A//chatandvision.com/display/ws_view%3Fpage%3Dws_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatandvision.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011032913id_/http%3A//chatandvision.com/display/ws_view%3Fpage%3Dws_privacy_policy) for the most accurate reproduction.*
 
 # ChatandVision | Privacy Policy
 
@@ -72,7 +72,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 ### PRIVACY QUESTIONS
 
-If you have any questions or concerns, you can email us at [support@chatandvision.com](mailto:%20support@chatandvision.com) with any requests. 
+If you have any questions or concerns, you can email us using our interactive web form located at our [Contact Us](http://www.chatandvision.com/display/ws_view?page=ws_contact) page. 
 
 Last updated 9th June 2010  
 ChatandVision Limited. All rights reserved. 
