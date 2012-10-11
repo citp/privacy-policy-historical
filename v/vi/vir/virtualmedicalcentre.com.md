@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505071012id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011140554id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
 
   * Privacy policy overview
   * What personal information does VMC collect and how does VMC use your personal information?
@@ -138,3 +140,5 @@ An individual can configure their browser to accept all cookies, reject all cook
 
   
 
+
+## List Health Topics by Medical Area
