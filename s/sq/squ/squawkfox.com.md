@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squawkfox.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526023444id_/http%3A//www.squawkfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squawkfox.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011190517id_/http%3A//www.squawkfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Squawkfox | Squawkfox
 
