@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330204823id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011022203id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
 
-# YOU Broadband & Cable India Limited: Leading High Speed Broadband Internet Service provider in India. Super Fast Connection.
+# YOU Broadband & Cable India Ltd., High speed broadband plans 1Mbps to 12Mbps
 
-You Broadband
-
-| [](http://youbroadband.in/) |   
----|---  
+|  |   
+---  
   
 | Privacy  
 ---  
@@ -39,4 +37,11 @@ What This Privacy Policy Covers
 
 
 **Changes to this Privacy Policy**  
-The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.
+The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.  
+  
+|   
+---  
+  
+  
+  
+**YOU BROADBAND & CABLE INDIA LIMITED **
