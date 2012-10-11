@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitiq.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630213621id_/http%3A//twitiq.com/_/about/tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitiq.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011050959id_/http%3A//twitiq.com/_/about/tab%3Dprivacy) for the most accurate reproduction.*
 
 # TwitIQ Smarter Twitter
 
