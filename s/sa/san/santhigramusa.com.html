@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the santhigramusa.com privacy policy that was archived on 2012-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120116144204id_/http%3A//www.santhigramusa.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the santhigramusa.com privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011031553id_/http%3A//www.santhigramusa.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
-<title>Privacy Policy | Santhigram Kerala Ayurveda</title>
+<title>Rejuvenation Therapy | Privacy Policy Of Santhigram |</title>
 <style type="text/css">
 	.pngimg {filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(...);}
 </style>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.santhigramusa.com/wp-content/themes/Santhigram/style.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.santhigramusa.com/wp-content/themes/Santhigram/css/slider.css">
+<!--<link rel="stylesheet" type="text/css" media="all" href="http://www.santhigramusa.com/wp-content/themes/Santhigram/css/slider.css" />-->
 <link rel="pingback" href="http://www.santhigramusa.com/xmlrpc.php">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/jquery-1.6.2.min.js"></script>
 <script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/ddaccordion.js"></script>
@@ -17,25 +17,39 @@
 <script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/dcommon_functions_usingjq.js"></script>
 <script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/validation.js"></script>
 
-<script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/slider/jquery.easing.1.2.js"></script>
-<script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/slider/jquery_123.js"></script>
-<script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/slider/jquery.anythingslider.js"></script>
+
+<!--<script type="text/javascript" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/js/jquery.js"></script>-->
 
 <script language="javascript">
-function createfade(datadiv){
- createDiv('mission','fade',3,true,true);
- $('#mission').show();
- 
- //createDiv('bhardwaj','',2,false,false);
+function createfade(fadediv,datadiv,zindex){
+ createDiv(fadediv,'fade',parseInt(zindex),true,true);
+ $('#'+fadediv).show();
+
   $('#'+datadiv).show();
-  dDisplayDivInCenter(datadiv,0,50);	
+  dDisplayDivInCenter(datadiv,0,0);
 }
-function cl(closediv){
+function cl(fadediv,closediv){
   $('#'+closediv).hide();
-   removeDiv('mission');
- 
- 
+   removeDiv(fadediv);
+
+
 }
+
+
+//function createfade(datadiv){
+// createDiv('mission','fade',3,true,true);
+// $('#mission').show();
+// 
+// //createDiv('bhardwaj','',2,false,false);
+//  $('#'+datadiv).show();
+//  dDisplayDivInCenter(datadiv,0,50);	
+//}
+//function cl(closediv){
+//  $('#'+closediv).hide();
+//   removeDiv('mission');
+// 
+// 
+//}
 </script>
 
 <!-- / fim dos arquivos utilizados pelo jQuery lightBox plugin -->
@@ -91,10 +105,11 @@ border: 1px solid #dedfe6;
 	}
 </style>
 <script type="text/javascript">
+var num="1";
 
 function sel(num){
 
-	for(i=1;i<=2;i++){
+	for(i=1;i<=12;i++){
 		if(i==num){
 			$('#a'+i).addClass('select');
 			$('#s'+i).addClass('select');
@@ -108,16 +123,36 @@ function sel(num){
 	}
 }
 </script>
-<script type="text/javascript" src="http://www.santhigramusa.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://www.santhigramusa.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<link rel="prev" title="Online Inquiry" href="http://www.santhigramusa.com/contact-us/online-enquery">
-<link rel="next" title="Ayurveda &amp; Panchakarma Packages" href="http://www.santhigramusa.com/ayurveda-wellness-therapy/ayurveda-panchakarma-packages">
 
-<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[184,235] -->
+<script language="javascript">
+function divSelection(num)
+{	
+	
+	for(i=1;i<=12;i++){
+		if(i==num){
+			$('#a'+i).addClass('selected');
+			$('#div'+i).show();
+		}
+		else{
+			$('#a'+i).removeClass('selected');
+			$('#div'+i).hide();
+		}
+	}
+}
+
+</script>
+
+
+<script type="text/javascript" src="http://www.santhigramusa.com/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
+<link rel="prev" title="Online Inquiry" href="http://www.santhigramusa.com/contact-us/online-inquiry">
+<link rel="next" title="Book Appointment" href="http://www.santhigramusa.com/book-appointment">
+
+<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description" content="Check out privacy policy of Santhigram Kerala ayurveda center where physical therapists provide rejuvenation therapy and stress buster therapy to relieve stress.">
 <link rel="canonical" href="http://www.santhigramusa.com/privacy-policy">
 <!-- /all in one seo pack -->
 
-<!-- Bad Behavior 2.0.41 run time: 6.505 ms -->
+<!-- Bad Behavior 2.0.41 run time: 2.712 ms -->
 <script type="text/javascript">
 <!--
 function bb2_addLoadEvent(func) {
@@ -138,19 +173,15 @@ bb2_addLoadEvent(function() {
 			var myElement = document.createElement('input');
 			myElement.setAttribute('type', 'hidden');
 			myElement.name = 'bb2_screener_';
-			myElement.value = '1326724921 204.236.226.210';
+			myElement.value = '1349925348 207.241.237.238';
 			document.forms[i].appendChild(myElement);
 		}
 	}
 });
 // --></script>
 		
-
-<!--this code is working on showprojects.net-->
-
-
 </head>
-<body class="page page-id-1043 page-template page-template-privacypolicy-php">
+<body class="page page-id-1043 page-template page-template-privacy_policy-php">
 <div id="main">
 <div id="wrapper" class="hfeed">
 <div id="header">
@@ -179,7 +210,7 @@ bb2_addLoadEvent(function() {
             </div>
             <div class="clear"></div>
             <div id="access" role="navigation">
-                <div class="menu"><ul><li><a href="http://www.santhigramusa.com/" title="Home">Home</a></li><li class="page_item page-item-9"><a href="http://www.santhigramusa.com/about-us">About Us</a><ul class="children"><li class="page_item page-item-448"><a href="http://www.santhigramusa.com/about-us/about-santhigram">About Santhigram</a></li><li class="page_item page-item-588"><a href="http://www.santhigramusa.com/about-us/people-behind-santhigram">People Behind Santhigram</a></li><li class="page_item page-item-609"><a href="http://www.santhigramusa.com/about-us/photogallery">Photo Gallery</a></li><li class="page_item page-item-514"><a href="http://www.santhigramusa.com/about-us/testimonials">Testimonials</a></li><li class="page_item page-item-620"><a href="http://www.santhigramusa.com/about-us/press-releases">Press Releases</a></li><li class="page_item page-item-590"><a href="http://www.santhigramusa.com/about-us/industry-affiliations-memberships">Affiliations &amp; Memberships</a></li></ul></li><li class="page_item page-item-2"><a href="http://www.santhigramusa.com/about-ayurveda">About Ayurveda</a><ul class="children"><li class="page_item page-item-703"><a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis">Know Your Body Type</a></li><li class="page_item page-item-444"><a href="http://www.santhigramusa.com/about-ayurveda/what-is-ayurveda">What is Ayurveda</a></li><li class="page_item page-item-446"><a href="http://www.santhigramusa.com/about-ayurveda/what-is-panchakarma">What is Panchakarma</a></li><li class="page_item page-item-452"><a href="http://www.santhigramusa.com/about-ayurveda/ayurveda-dosha-theory">Ayurveda Dosha Theory</a></li><li class="page_item page-item-503"><a href="http://www.santhigramusa.com/about-ayurveda/faqs">Ayurveda FAQs</a></li></ul></li><li class="page_item page-item-521"><a href="http://www.santhigramusa.com/about-ayurveda-therapies">About Ayurveda Therapies</a></li><li class="page_item page-item-46"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy">Therapy Rates</a><ul class="children"><li class="page_item page-item-1241"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/individual-therapies">Individual Therapies</a></li><li class="page_item page-item-499"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/ayurveda-wellness-therapy-rates">Ayurveda Wellness Therapy Rates</a></li><li class="page_item page-item-1122"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/ayurveda-panchakarma-packages">Ayurveda &amp; Panchakarma Packages</a></li></ul></li><li class="page_item page-item-21"><a href="http://www.santhigramusa.com/special-offers">Special Offers</a></li><li class="page_item page-item-932"><a href="http://www.santhigramusa.com/locations">Locations</a><ul class="children"><li class="page_item page-item-1246"><a href="http://www.santhigramusa.com/locations/map">Map</a></li><li class="page_item page-item-1248"><a href="http://www.santhigramusa.com/locations/driving-directions">Driving Directions</a></li></ul></li><li class="page_item page-item-408"><a href="http://www.santhigramusa.com/blog">Blog</a></li><li class="page_item page-item-905"><a href="http://www.santhigramusa.com/contact-us">Contact Us</a><ul class="children"><li class="page_item page-item-991"><a href="http://www.santhigramusa.com/contact-us/contact-info">Contact Info</a></li><li class="page_item page-item-613"><a href="http://www.santhigramusa.com/contact-us/schedule-appointment">Schedule Appointment</a></li><li class="page_item page-item-994"><a href="http://www.santhigramusa.com/contact-us/online-enquery">Online Inquiry</a></li></ul></li></ul></div>
+                <div class="menu"><ul><li><a href="http://www.santhigramusa.com/" title="Home">Home</a></li><li class="page_item page-item-9"><a href="http://www.santhigramusa.com/about-us">About Us</a><ul class="children"><li class="page_item page-item-448"><a href="http://www.santhigramusa.com/about-us/about-santhigram">About Santhigram</a></li><li class="page_item page-item-588"><a href="http://www.santhigramusa.com/about-us/people-behind-santhigram">People Behind Santhigram</a></li><li class="page_item page-item-609"><a href="http://www.santhigramusa.com/about-us/photogallery">Photo Gallery</a></li><li class="page_item page-item-514"><a href="http://www.santhigramusa.com/about-us/testimonials">Testimonials</a></li><li class="page_item page-item-620"><a href="http://www.santhigramusa.com/about-us/press-releases">Press Releases</a></li><li class="page_item page-item-590"><a href="http://www.santhigramusa.com/about-us/industry-affiliations-memberships">Affiliations &amp; Memberships</a></li></ul></li><li class="page_item page-item-2"><a href="http://www.santhigramusa.com/about-ayurveda">About Ayurveda</a><ul class="children"><li class="page_item page-item-703"><a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis">Know Your Body Type</a></li><li class="page_item page-item-444"><a href="http://www.santhigramusa.com/about-ayurveda/what-is-ayurveda">What is Ayurveda</a></li><li class="page_item page-item-446"><a href="http://www.santhigramusa.com/about-ayurveda/what-is-panchakarma">What is Panchakarma</a></li><li class="page_item page-item-452"><a href="http://www.santhigramusa.com/about-ayurveda/ayurveda-dosha-theory">Ayurveda Dosha Theory</a></li><li class="page_item page-item-521"><a href="http://www.santhigramusa.com/about-ayurveda/about-ayurveda-therapies">About Ayurveda Therapies</a></li><li class="page_item page-item-503"><a href="http://www.santhigramusa.com/about-ayurveda/faqs">Ayurveda FAQs</a></li></ul></li><li class="page_item page-item-46"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy">Book Online</a><ul class="children"><li class="page_item page-item-1318"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/consultations">Ayurvedic Consultations</a></li><li class="page_item page-item-1277"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/body-services-ayurvedic">Body Services (Ayurvedic)</a></li><li class="page_item page-item-1280"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/wellness-or-integrative">Wellness or Integrative</a></li><li class="page_item page-item-1282"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/medical-spa-treatments">Medical-Spa Treatments</a></li><li class="page_item page-item-1284"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/ayurvedic-beauty-therapies-facial">Ayurvedic Beauty Therapies &amp; Facial</a></li><li class="page_item page-item-1286"><a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/treatment-packages">Treatment Packages</a></li></ul></li><li class="page_item page-item-1382"><a href="http://www.santhigramusa.com/membership">Membership</a></li><li class="page_item page-item-21"><a href="http://www.santhigramusa.com/special-offers">Special Offers</a><ul class="children"><li class="page_item page-item-1437"><a href="http://www.santhigramusa.com/special-offers/enjoy-profound-peace-happiness">Enjoy Profound Peace &amp; Happiness</a></li><li class="page_item page-item-1439"><a href="http://www.santhigramusa.com/special-offers/relax-your-body-mind">Relax Your Body &amp; Mind</a></li></ul></li><li class="page_item page-item-932"><a href="http://www.santhigramusa.com/locations">Locations</a><ul class="children"><li class="page_item page-item-1262"><a href="http://www.santhigramusa.com/locations/map">Map</a></li><li class="page_item page-item-1264"><a href="http://www.santhigramusa.com/locations/driving-directions">Driving Directions</a></li></ul></li><li class="page_item page-item-1331"><a href="http://www.santhigramusa.com/franchise-opportunity">Franchise Opportunity</a></li><li class="page_item page-item-1323"><a href="http://www.santhigramusa.com/career-opportunites">Career</a></li><li class="page_item page-item-905"><a href="http://www.santhigramusa.com/contact-us">Contact Us</a><ul class="children"><li class="page_item page-item-991"><a href="http://www.santhigramusa.com/contact-us/contact-info">Contact Info</a></li><li class="page_item page-item-613"><a href="http://www.santhigramusa.com/contact-us/schedule-appointment">Schedule Appointment</a></li><li class="page_item page-item-994"><a href="http://www.santhigramusa.com/contact-us/online-inquiry">Online Inquiry</a></li></ul></li></ul></div>
             </div>
         </div>
         <!-- #branding -->
@@ -235,37 +266,54 @@ bb2_addLoadEvent(function() {
     });
 	
     </script>
-	
 <div id="col-right">
-            <div class="announcement">
-                <div class="left"></div>
-                <div class="content">
-                    <h1><a href="http://www.santhigramusa.com/about-us/press-releases" style="font:normal 16px Tahoma, Arial, Helvetica, sans-serif; color:#000; text-align:left; padding:0px 0px 5px 0px; text-decoration:none;">Announcements</a></h1>
-                    <img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/announcement-img.gif" class="img" style="padding-top:19px;">
-																	<p>Santhigram Wellness Center Launched in NY</p>
-						<p style="font-weight:normal;">Ayurveda Wellness Center NY in Westchester County,</p>
-						<a href="http://www.santhigramusa.com/about-us/press-releases" style="margin-left:4px;">read more</a>
-					                </div>
-                <div class="right"></div>
-            </div>
-            <div class="clear"></div>
-			
-			<div class="know">
-                <div class="left"></div>
-                <div class="content">
-                    <h1><a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis">Know Your Body Type</a></h1>
-                    <a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis"><img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/know-img1.jpg" class="img"></a>
-                    <p>Take a quick Prakriti Analysis test. Your score tells you your body type.</p><p style="padding-top:10px;"><a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis"><img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/take-the-test.png" class="arrow"></a></p>
+  <div class="valen" style="position:relative;">
+<div class="ribbon"></div>
+                    <div class="heading"><a href="http://www.santhigramusa.com/gift-certificate">Gift Certificate</a></div>
+                    <p>Give a Gift of Wellness to your near and dear ones. Also give Corporate Gifts of Wellness to employees and special customers.</p>
+					<a style="outline:none; padding-left:15px;" href="http://www.santhigramusa.com/gift-certificate">More</a>
                 </div>
-                <div class="right"></div>
-            </div>
-			
-			<div class="clear"></div>
-            <div class="newsletter">
-                <h1>FREE Newsletter Subscription</h1>
-                <p>Learn more about Ayurveda for<br>
- a healthier life</p>
-               <script language="javascript" type="text/javascript" src="http://www.santhigramusa.com/wp-content/plugins/constant-contact/gExtra/gConstantcontact.js"></script>
+				<form name="frm_service" method="post" action="http://www.santhigramusa.com/book-appointment-location">
+	<input type="hidden" value="" name="therapy_service" id="therapy_service">
+	<input type="hidden" value="yes" name="map" id="map">
+<input type="hidden" name="bb2_screener_" value="1349925348 207.241.237.238"></form>
+<script language="javascript">
+	function book_form(therapy_id){
+		document.getElementById('therapy_service').value=therapy_id;
+		document.frm_service.submit();
+	}
+</script>
+  <div class="announcement">
+    <div class="left"></div>
+    <div class="content">
+      <h1><a href="http://www.santhigramusa.com/about-us/press-releases" style="font:normal 16px Tahoma, Arial, Helvetica, sans-serif; color:#000; text-align:left; padding:0px 0px 5px 0px; text-decoration:none;">Announcements</a></h1>
+      <img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/announcement-img.gif" class="img" style="padding-top:19px;">
+      
+      <p>Santhigram Wellness Center Launched in NY</p>
+      <p style="font-weight:normal;">Ayurveda Wellness Center NY in Westchester County,</p>
+      <a href="http://www.santhigramusa.com/about-us/press-releases" style="margin-left:4px;">read more</a>
+     
+    </div>
+    <div class="right"></div>
+  </div>
+  <div class="clear"></div>
+  <div class="know">
+    <div class="left"></div>
+    <div class="content">
+      <h1><a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis">Know Your Body Type</a></h1>
+      <a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis"><img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/know-img1.jpg" class="img"></a>
+      <p>
+        Take a quick Prakriti Analysis test. Your score tells you your body type.      </p>
+      <p style="padding-top:10px;"><a href="http://www.santhigramusa.com/about-ayurveda/prakriti-analysis"><img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/take-the-test.png" class="arrow"></a></p>
+    </div>
+    <div class="right"></div>
+  </div>
+  <div class="clear"></div>
+  <div class="newsletter">
+    <h1>FREE Newsletter Subscription</h1>
+    <p>Learn more about Ayurveda for<br>
+      a healthier life</p>
+    <script language="javascript" type="text/javascript" src="http://www.santhigramusa.com/wp-content/plugins/constant-contact/gExtra/gConstantcontact.js"></script>
 <link rel="stylesheet" media="screen" type="text/css" href="http://www.santhigramusa.com/wp-content/plugins/constant-contact/style.css">
 <div>
    <!-- <div class="cc_caption"></div>-->
@@ -285,50 +333,17 @@ bb2_addLoadEvent(function() {
     <input class="cc_textbox_button" type="image" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/subscribe.jpg" style="width:91px; height:25px;" name="gConstantcontact_Button" onclick="return gConstantcontact('http://www.santhigramusa.com/wp-content/plugins/constant-contact/gCls/')" id="gConstantcontact_Button" value="Subscribe">
   </div>
 </div>
-				            </div>
-            <div class="clear"></div>
-           
-			
-			<!--<div class="mother-day">
-			<div class="l-box"></div>
-			<div class="m-box"><div  style="border:solid 0px;" ><div style="width:150px; margin:0px; padding:0px; float:left; border:solid 0px"><a href="http://www.santhigramusa.com/special-offers" style="text-decoration:none;"><br />Labor Day Special</a><p>This festive season get $30 off on 
-1 session <br> of Refresh!</p><div align="center" ><a href="http://www.santhigramusa.com/special-offers">View Details</a></div></div>
-				<div style="width:90px; margin:0px; padding:0px; float:left; border:solid 0px"><a href="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/mother-light-box-img.jpg"><img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/love-u-mom.png"  align="right" style="margin-top:10px;" /></a></div>
-				
-				
-				</div>
-				
-			</div>
-			<div class="r-box"></div>
-			</div>-->
-            <div class="clear"></div>
-			<div class="body-mass">
-                <div class="heading"><a href="http://www.santhigramusa.com/body-mass-index" style="text-decoration:none; color:#005a84">Body Mass Index (BMI)</a></div>
-               	<p>BMI is a relationship between weight and height that is associated with body fat and health risk.</p>
-                <a href="http://www.santhigramusa.com/body-mass-index"><img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/check.jpg" border="0" class="check"></a> 
-            </div>
-			
-			<div class="clear"></div>
-            <!--<div class="location">
-                <h1>Find a Location Near You</h1>
-                <div class="zip">
-                    <div style="padding-left:8px;">				
-					    <select name="select" class="textarea" style="height:22px; width:200px;" id="loct">
-					        <option value="">-- Select Ayurvedic Center --</option>
-					        <option value="07834">Denville, NJ</option>
-                            <option value="08816">East Brunswick, NJ</option>
-                            <option value="08820">Oak tree Rd, Edison, NJ</option>
-                            <option value="77477">Stafford, TX</option>
-                            <option value="10605">White Plains, NY</option>
-                            <option value="08837">Woodbridge Ave, Edison, NJ</option>
-					
-				        </select>
-				    </div>
-					        <input type="image" src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/go.png" style="background:none;" class="subscribe" onclick="javascript:return golocation();" />
-                </div>
-            
-  </div>-->
-        </div>
+      </div>
+  <div class="clear"></div>
+  <div class="clear"></div>
+  <div class="body-mass">
+    <div class="heading"><a href="http://www.santhigramusa.com/body-mass-index" style="text-decoration:none; color:#005a84">Body Mass Index      <!--(BMI)-->
+      </a></div>
+    <p>
+      Find out if are overweight, obese, underweight or fit. Lead a healthy and happy life.    </p>
+    <a href="http://www.santhigramusa.com/body-mass-index"><img src="http://www.santhigramusa.com/wp-content/themes/Santhigram/images/check.jpg" border="0" class="check"></a> </div>
+  <div class="clear"></div>
+</div>
     </div>
 </div>
 <!-- #container -->
@@ -345,22 +360,30 @@ bb2_addLoadEvent(function() {
 		<div class="aboutus">
                     <h1>About Us</h1>
                     <a href="http://www.santhigramusa.com/about-us">About Santhigram</a> <a href="http://www.santhigramusa.com/about-us/people-behind-santhigram">People behind Santhigram</a> <a href="http://www.santhigramusa.com/about-us/photogallery">Photo Gallery</a> <a href="http://www.santhigramusa.com/about-us/testimonials"> Testimonials</a><a href="http://www.santhigramusa.com/about-us/press-releases">Press Releases</a> <a href="http://www.santhigramusa.com/about-us/industry-affiliations-memberships">Affiliations &amp; Memberships </a> 
-										 		<a href="http://www.santhigramusa.com/contact-us">Contact Us</a> 
+					 
+					 	<a href="http://www.santhigramusa.com/career-opportunites">Career Opportunities</a>
+						<a href="http://www.santhigramusa.com/about-us">Contact Us</a> 
+						
 					 </div>
 					
             <div class="about">
                 <h1>About Ayurveda</h1>
-                <a href="http://www.santhigramusa.com/about-ayurveda/what-is-ayurveda">What is Ayurveda</a> <a href="http://www.santhigramusa.com/about-ayurveda/what-is-panchakarma">What is Panchakarma</a> <a href="http://www.santhigramusa.com/about-ayurveda/ayurveda-dosha-theory">Ayurveda Dosha Theory</a> <a href="http://www.santhigramusa.com/about-ayurveda/faqs">Ayurveda FAQs</a>
+                <a href="http://www.santhigramusa.com/about-ayurveda/what-is-ayurveda">What is Ayurveda</a> <a href="http://www.santhigramusa.com/about-ayurveda/what-is-panchakarma">What is Panchakarma</a> <a href="http://www.santhigramusa.com/about-ayurveda/ayurveda-dosha-theory">Ayurveda Dosha Theory</a> <a href="http://www.santhigramusa.com/about-ayurveda/about-ayurveda-therapies">About Ayurveda Therapies</a> <a href="http://www.santhigramusa.com/about-ayurveda/faqs">Ayurveda FAQs</a> <a href="http://www.santhigramusa.com/blog">Ayurveda Blog</a>
                 
             </div>
 			
-			
-					
+								
 					<div class="appointment">
-                    <h1>Book an Appointment</h1>
+                    <h1>Book Online </h1>
+                    <a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/body-services-ayurvedic">Body Services (Ayurvedic)</a> 
+					<a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/wellness-or-integrative">Wellness or Integrative</a>
+					<a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/medical-spa-treatments">Medical-Spa Treatments</a>
+					<a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/ayurvedic-beauty-therapies-facial">Ayurvedic Beauty Therapies &amp; Facial</a>
+					<a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/treatment-packages">Treatment Packages</a>
+					
+					<h1>Book an Appointment</h1>
                     <a href="http://www.santhigramusa.com/contact-us/schedule-appointment">Schedule Appointment</a> 
-					                    <h1>Ayurveda Wellness Therapy</h1>
-                    <a href="http://www.santhigramusa.com/about-ayurveda-therapies">About the Therapies</a> <a href="http://www.santhigramusa.com/ayurveda-wellness-therapy/ayurveda-wellness-therapy-rates">Therapy Rates</a><h1>Special Offers</h1>
+					                    <h1>Special Offers</h1>
                     <a href="http://www.santhigramusa.com/special-offers">Deals &amp; Discounts</a> </div>
 					
             <div class="special">
