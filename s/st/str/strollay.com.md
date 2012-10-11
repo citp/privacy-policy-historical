@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strollay.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627055826id_/http%3A//strollay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strollay.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011183110id_/http%3A//www.strollay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Safe & Secured Shopping | Free Worldwide Shipping @ Strollay.com
+# Privacy Policy
 
 We value the trust you place in Strollay.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
