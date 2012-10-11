@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041350id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011084419id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, cookies | Start Up Donut
 
@@ -44,6 +44,3 @@ BHP Information Solutions Ltd
 
 6 Grove Road, Redland, Bristol, BS6 6UJ  
 Telephone: 0117 904 2224
-
-4th floor, Erico House, 93–99 Upper Richmond Road, Putney, London, SW15 2TG  
-Telephone: 0208 672 6844
