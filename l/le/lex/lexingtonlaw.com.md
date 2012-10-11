@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/privacy-policy.html%3Flinkid%3Dprivacypolicyfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011135740id_/http%3A//www.lexingtonlaw.com/info/privacy-policy.html%3Flinkid%3Dprivacypolicyfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Lexington Law
 
@@ -11,7 +11,7 @@ Lexington Privacy Policy
 © Lexington Law Firm**
 
   
-Welcome to Lexington Law Firm. Please read our privacy policy carefully to understand how we will use the information you provide while using sites associated with Lexington Law Firm, i.e., [www.lexingtonlaw.com](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) and [clients.lexingtonlaw.com](https://www.lexingtoncreditrevolution.com/login.php) and [lexingtonlaw.com/credit-access](https://www.lexingtonlaw.com/credit-access). This policy may change from time to time, so please check the website each time you use it for the most current information.
+Welcome to Lexington Law Firm. Please read our privacy policy carefully to understand how we will use the information you provide while using sites associated with Lexington Law Firm, i.e., [www.lexingtonlaw.com](https://web.archive.org/web/20121011135740id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) and [clients.lexingtonlaw.com](https://www.lexingtoncreditrevolution.com/login.php) and [lexingtonlaw.com/credit-access](https://www.lexingtonlaw.com/credit-access). This policy may change from time to time, so please check the website each time you use it for the most current information.
 
 This privacy policy contains information on the following subjects:  
 
@@ -48,7 +48,7 @@ As a client of Lexington Law, the Firm may also collect the following informatio
 
 
   
-"Website Information" means information collected when individuals browse [www.lexingtonlaw.com](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) website, such as date and time of visit, pages viewed, time spent on the site, and websites visited before viewing the Lexington Law Firm site. This information cannot be traceable to any specific person.
+"Website Information" means information collected when individuals browse [www.lexingtonlaw.com](https://web.archive.org/web/20121011135740id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) website, such as date and time of visit, pages viewed, time spent on the site, and websites visited before viewing the Lexington Law Firm site. This information cannot be traceable to any specific person.
 
 What Information We Collect From Clients
 
@@ -62,7 +62,7 @@ Sensitive Information: This information is only used for legitimate business pur
 
 Website Information:
 
-• [www.lexingtonlaw.com](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com): When you browse this site, you are able to do so anonymously. Generally, we don't collect personal information when you browse this site — not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
+• [www.lexingtonlaw.com](https://web.archive.org/web/20121011135740id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com): When you browse this site, you are able to do so anonymously. Generally, we don't collect personal information when you browse this site — not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
 
 • [clients.lexingtonlaw.com](https://www.lexingtoncreditrevolution.com/login.php): You only can access this site if you are a client of Lexington Law Firm. In order to use this site and protect and secure the privacy and confidentiality of its clients, Lexington needs to track usage by client case number. Therefore, your use of the site constitutes consent to collection and storage of personally identifying information.
 
