@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thinkvidya.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619171555id_/http%3A//www.thinkvidya.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thinkvidya.com privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011220653id_/http%3A//www.thinkvidya.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         
@@ -11,22 +11,22 @@
 	        <link rel="canonical" href="http://www.thinkvidya.com/privacy-policy"> 
         
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-       	<link rel="stylesheet" href="/css/cssReset.css?v=0614">
-        <link rel="stylesheet" href="/css/main.css?v=0614">
-        <link rel="stylesheet" href="/css/nav.css?v=0614">
-        <link rel="shortcut icon" href="/images/favicon.ico?v=0614" type="image/x-icon">
+       	<link rel="stylesheet" href="/css/cssReset.css?v=1010">
+        <link rel="stylesheet" href="/css/main.css?v=1010">
+        <link rel="stylesheet" href="/css/nav.css?v=1010">
+        <link rel="shortcut icon" href="/images/favicon.ico?v=1010" type="image/x-icon">
         
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="layout" content="main">
     
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/application.js"></script>
 
-		<script type="text/javascript" src="/js/dojo/dojo//dojo.xd.js?v=0614"></script>
-        <script type="text/javascript" src="/js/l1DropDown.js?v=0614"></script>
-        <script type="text/javascript" src="/js/jquery//jquery-1.4.4.min.js?v=0614"></script>
-        <script type="text/javascript" src="/js/jquery//jquery.autocomplete.js?v=0614"></script>
-        <script type="text/javascript" src="/js//layouts.main.js?v=0614"></script>
-        <link rel="stylesheet" href="/js/jquery/jquery.autocomplete.css?v=0614">
+		<script type="text/javascript" src="/js/dojo/dojo//dojo.xd.js?v=1010"></script>
+        <script type="text/javascript" src="/js/l1DropDown.js?v=1010"></script>
+        <script type="text/javascript" src="/js/jquery//jquery-1.4.4.min.js?v=1010"></script>
+        <script type="text/javascript" src="/js/jquery//jquery.autocomplete.js?v=1010"></script>
+        <script type="text/javascript" src="/js//layouts.main.js?v=1010"></script>
+        <link rel="stylesheet" href="/js/jquery/jquery.autocomplete.css?v=1010">
     </head>
 
 	<body>
@@ -36,7 +36,7 @@
 					<div class="siteHeader framework clearfix">
 						<div class="cont">
 					        <div id="spinner" class="spinner" style="display:none;">
-					            <img src="/images/spinner.gif?v=0614" alt="Spinner">
+					            <img src="/images/spinner.gif?v=1010" alt="Spinner">
 					        </div>					        
 					
 					   	
@@ -44,7 +44,7 @@
        	
     	
      		<a href="/">
-     		   <img src="/images/ThinkVidya-logo.gif?v=0614" alt="ThinkVidya.com" style="width:294px; height:67px; border:0;">
+     		   <img src="/images/ThinkVidya-logo.gif?v=1010" alt="ThinkVidya.com" style="width:294px; height:67px; border:0;">
      		</a>
         
        	
@@ -69,6 +69,7 @@
 	        			<img src="/images/buttons/btn-post-your-need.gif" alt="Post your Learning Need" style="width: 190px; height: 29px;">
 	        		</a>	
 	        	</div>
+	        	
 	        	<div style="padding-right:17px; font-size:13px" class="loud">
 	        	    <script type="text/javascript">
 	        	    <!--
@@ -83,6 +84,7 @@
 	        	    </script>
 		        	       
 	        	</div>
+	        	
         	
         	
         </div>
@@ -182,29 +184,44 @@
 						        	<form action="/general/search?id=searchForm" method="get">
 								     	<p>
 								     	<span class="label Color">
-									     	I am looking for 
+									     	I am looking for  
 								     	</span>
-								     	  <input class="" style="" type="text" id="keyword" name="keyword" value="" title=""> 
+								     	  <input class="" style="" type="text" id="keyword" name="keyword" value="AIEEE Coaching classes" title=""> 
 		                                  <script type="text/javascript">
-		                                  $("#keyword").autocomplete('/topic/searchAJAX', {matchSubset:false});
+		                                       $("#keyword").autocomplete('/topic/searchAJAX', {matchSubset:false});
 	                                      </script> 
 		                                <span class="label Color marginLft5">
 	                                        in 
 	                                    </span>
-						                <script type="text/javascript">renderCityOptions('Bangalore', 0);</script>            	
-										<span class="label Color marginLft5">near</span>
-										<input class="" style="" type="text" id="area" name="area" value="" title="">
-										<script type="text/javascript">
-	                                      $("#area").autocomplete('/locality/searchAJAX',
-	                                    		    {
-			                                    	   extraParams: {
-			                                    	       city: function() { return $("#city0").val(); }
-			                                    	   }
-			                                    	}
-	                                              );
-	                                    </script>  
+	                                    <span id="cityTutor"> 
+							                 
+							             </span> 
+							             <span id="otherCityTutorSpan" style="display:none">
+                                            <input type="text" name="newCity" id="otherCityTutor" style="width:130px;color:#888;font-style:italic" value="Enter City For Search">
+                                         </span>
+                                         
+                                         	<span class="label Color marginLft5">near</span>
+											<input class="" style="" type="text" id="area" name="area" value="" title="">
+											<script type="text/javascript">
+											  renderCityOptionsTutor('Pune', 0);
+											  $("#otherCityTutor").autocomplete('/city/searchAJAX');
+		                                      $("#area").autocomplete('/locality/searchAJAX',
+		                                    		    {
+				                                    	   extraParams: {
+				                                    	       city: function() { 
+				                                    	    	   var cityName = $("#city0").val(); 
+				                                    	    	   if(typeof cityName === "undefined" || cityName == 'Other City'){
+                                                                        cityName = $("#otherCityTutor").val();
+                                                                   }
+                                                                   return cityName;
+					                                    	    }
+				                                    	   }
+				                                    	}
+		                                              );
+		                                    </script> 
+		                                  
 										<span class="marginLft5">											
-											<input type="image" name="search" value="Search" src="/images/buttons/btn-search-sml.png?v=0614" alt="Search">											
+											<input type="image" name="search" value="Search" src="/images/buttons/btn-search-sml.png?v=1010" alt="Search">											
 										</span>
 										<span style="position: absolute; left: 815px; top: 8px;">											
 											<a href="javascript:;" style="display: inline;" id="studentLink">Looking for Students?</a> 											
@@ -219,27 +236,39 @@
 								     	<span class="label Color">
 									     	Need students for
 								     	</span>
-								     	  <input class="" style="" type="text" id="topicName" name="topicName" value="" title=""> 
+								     	  <input class="" style="" type="text" id="topicName" name="topicName" value="AIEEE Coaching" title=""> 
 		                                  <script type="text/javascript">
 								            $("#topicName").autocomplete('/topic/needTopicAJAX', {matchSubset:false});
 								        </script>
-		                                <span class="label Color marginLft5">
-	                                        in 
-	                                    </span>
-                                        <script type="text/javascript">renderCityOptions('Bangalore', 1);</script>
-										<span class="label Color marginLft5">near</span>
-										<input class="" style="" type="text" id="area2" name="area" value="" title="">
-										<script type="text/javascript">
-	                                      $("#area2").autocomplete('/locality/searchAJAX',
-	                                    		    {
-			                                    	   extraParams: {
-			                                    	       city: function() { return $("#city1").val(); }
-			                                    	   }
-			                                    	}
-	                                              );
-	                                    </script>  
-										<span class="marginLft5">											
-											<input type="image" name="search" value="Search" src="/images/buttons/btn-search-sml.png?v=0614" alt="Search">											
+								        <span class="label Color marginLft5">
+                                            in 
+                                        </span>
+                                        <span id="cityStudent"> 
+                                         </span> 
+                                         <span id="otherCityStudentSpan" style="display:none">
+                                          <input type="text" name="newCity" id="otherCityStudent" style="width:130px;color:#888;font-style:italic" value="Enter City For Search">
+                                         </span>                
+                                            <span class="label Color marginLft5">near</span>
+                                            <input class="" style="" type="text" id="area2" name="area" value="" title="">
+                                            <script type="text/javascript">
+                                              renderCityOptionsStudent('Pune', 1);
+                                              $("#otherCityStudent").autocomplete('/city/searchAJAX');
+                                               $("#area2").autocomplete('/locality/searchAJAX',
+                                                        {
+                                                           extraParams: {
+                                                               city: function() {
+                                                            	   var cityName = $("#city1").val(); 
+                                                                   if(typeof cityName === "undefined" || cityName == 'Other City'){
+                                                                	    cityName = $("#otherCityStudent").val();
+                                                                   }
+                                                                   return cityName;
+                                                               }
+                                                           }
+                                                        }
+                                                      );
+                                            </script> 
+		                                <span class="marginLft5">											
+											<input type="image" name="search" value="Search" src="/images/buttons/btn-search-sml.png?v=1010" alt="Search">											
 										</span>
 										<span style="position: absolute; left: 815px; top: 8px;">											
 											<a href="javascript:;" style="display: inline;" id="classesLink">Looking for Classes?</a> 											
@@ -446,15 +475,6 @@
 	      
 
   	      
-  	      
-		  	 
-		        
-		        
-		        
-		        
-		        
-	            
-		     
   	      
   	      
   	      
