@@ -1,93 +1,167 @@
-> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227053534id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011204527id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Delta Faucet
 
-**DELTA FAUCET COMPANY** (“ **Delta Faucet Company** ,” “we”, “us”) is concerned about online privacy issues, and wants you to be familiar with how **Delta Faucet Company** collects, uses and discloses your personally identifiable information in connection with our online business. Accordingly, we have created this Privacy Policy for www.deltafaucet.com and other websites operated by **Delta Faucet Company** that display or link to this Privacy Policy (collectively the “Site”) to demonstrate its firm commitment to online privacy. This Privacy Policy discloses **Delta Faucet Company’s** information gathering and dissemination practices for the information collected by **Delta Faucet Company** through this Site. This Privacy Policy does not govern our collection of information through any web site, or by any other means, other than through the Site; nor does this Privacy Policy govern the collection of information by any of our Affiliated Entities (as defined below) or by third parties.
+Last Updated September 18, 2012
 
-We encourage you to read this Privacy Policy before using this Site or submitting your personally identifiable information to us. Your use of this Site signifies that you agree with all terms of this Privacy Policy, so please do not use this Site or share your personally identifiable information with us or otherwise through the Site if you disagree with any part of this Privacy Policy.
+Delta Faucet Company is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect from you through www.deltafaucet.com, worldwide.deltafaucet.com, www.deltafaucet.com.br, latinamerica.deltafaucet.com, www.deltafaucet.com.mx and the other websites operated by us from which you are accessing this Privacy Policy (the **"Websites"** ), through the software applications made available by us for use on or through computers and mobile devices (the **"Apps"** ), through our page(s) or app(s) on social media platforms located at <http://twitter.com/deltafaucet>, <http://www.facebook.com/deltafaucet> and <http://www.youtube.com/user/deltafaucet> (collectively, our **"Social Media Pages"** ) as well as HTML-formatted email messages that we send to you that link to this policy (collectively, including the Websites, the Apps and our Social Media Pages, the **"Site"** ). In addition, the "Choices" section below applies with respect to any of your Personal Information collected from you by us, whether collected through the Site or through offline means, such as at a trade show. By providing Personal Information to us through the Site, you acknowledge that we may collect, use and disclose such information in accordance with this Privacy Policy.
 
-### Policy Modifications
+**We are not responsible for the data collection, usage and disclosure policies and practices (including the data security practices) of any third party, including Facebook, Apple, Google, Microsoft, RIM or any other app provider, social media platform provider or wireless service provider, including without limitation the use and disclosure of any Personal Information that you disclose to such third party through or in connection with the Apps or our Social Media Pages.**
 
-**Delta Faucet Company** reserves the right to make changes to this Privacy Policy. In the event that **Delta Faucet Company** makes a material change to this Privacy Policy, it will be posted here. We encourage you to check this page regularly because your continued use of this Site following any changes to the Privacy Policy will be deemed to constitute your acceptance of such change. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. In the event that **Delta Faucet Company** makes a material change to the Privacy Policy, a notice will be posted regarding such change. 
+### Updates to this Privacy Policy
 
-### Notice Regarding Use of this Site by Children 
+We may change this Privacy Policy from time to time. Please take a look at the "LAST UPDATED" legend at the top of this page to determine when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
-This Site is not directed to children under the age of eighteen (18), and we request that children do not provide personally identifiable information through the Site.
+### Personal Information
 
-### How We Collect and Use Personally Identifiable Information
+**Personal Information We Collect**
 
-We will collect personally identifiable information about you, such as your name, postal address, telephone and mobile numbers, email address and credit card number or other payment number when you voluntarily provide it to us through this Site such as when you create an account or profile, order or register a product, order literature, enter contests or incentive programs, sign up for newsletters, participate in a survey, contact customer service, or otherwise interact with this Site. 
+" **Personal Information** " is information that identifies you as an individual. We and our service providers may collect Personal Information from you (either directly or indirectly from third parties, e.g., as a result of a social media platform provider being authorized to submit Personal Information to us), including:
 
-Your personally identifiable information may be used by us for all legal purposes, which may include, but are not limited to, responding to your requests, processing your transactions, notifying you of new products or product-related news, and for administrative purposes such as conducting incentive programs or tracking which parts of the Site are of interest to you.
-
-We use your personally identifiable information to provide the services you request from **Delta Faucet Company** such as responding to product information requests; registering products; fulfilling orders for parts, products or customer service; initiate refunds; administering contests or incentive programs; and facilitating on-line product visualization applications and preferred products catalogs. We also use personally identifiable information to send you news about our products and promotions, to conduct online surveys, contests, other similar promotions or incentive programs via email, telephone or postal mail, and to notify you of special events and advertising that you might be interested in. Please see the “Sweepstakes, Contests, and Other Promotions” section below for more information on participating in such activities. Further, we may also use personally identifiable information to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information; because this information may be important to your use of the Site, you may not opt-out of receiving such communications. In addition, we may use the information to improve **Delta Faucet Company’s** online and other services, such as customer service and product support, to understand consumer preferences in developing product improvements and innovations, and to ensure that our Site is of interest to you. We may also use your personally identifiable information for internal business purposes, such as optimizing users’ Site experiences and analyzing and managing our businesses. If you apply for employment with **Delta Faucet Company** , we may use the personally identifiable information you supply to process your job application.
-
-This Site may offer a feature that allows you to send an electronic postcard or otherwise share a message with a friend. If you choose to do so, we will ask you for the recipient’s name and email address, along with the text of any message you choose to include. By using this feature, you warrant that you are entitled to use and provide us with the recipient’s name and email address for this purpose.
-
-We may also use your personally identifiable information: (i) as permitted by law; (ii) where we determine that such use is necessary to comply with the request of a law enforcement or regulatory agency or other legal process; (iii) to protect our operations or those of any of the Affiliated Entities; (iv) to protect the rights, privacy, property, interests or safety of **Delta Faucet Company** , the Affiliated Entities, Site visitors, customers, business partners, employees or the public; (v) to permit us to pursue available remedies or limit the damages that we may sustain (vi) to enforce our Terms of Use; and (vii) to respond to an emergency.
-
-### How We Collect and Use Non-Personal Information
-
-We may also collect other information that is not personally identifiable through this Site (“non-personal information”), such as your postal or Zip code, date of birth, gender, IP address, domain name, URL, browser and operating system and a record of the Site pages you visited. This data helps us to understand traffic patterns at this Site and may be used to tailor your experience at this Site, such as showing you content including special events and advertising that you might be interested in and displaying the content according to your postal code. At times we will use your IP address to help diagnose problems with our server and to administer our website. We also may track browser types to help us understand our visitors’ needs related to our website design.
-
-Since non-personal information does not identify any particular individual, we may use such information for any purpose. In addition, we reserve the right to share such non-personal information with third parties, for any purpose.
-
-In some instances, we may combine non-personal information with personally identifiable information (such as combining your name with your geographic location). If we do combine any non-personal information with personally identifiable information, the combined information will be treated by us as personally identifiable information in accordance with this Policy.
-
-### Cookies and Similar Technologies
-
-This Site uses cookies, which are small bits of data that a web server transfers to a computer for recordkeeping and other purposes. Cookies are an industry standard used by most websites to help facilitate users’ ongoing access to and use of a particular website. If you want to remove cookies from your computer at any time, you can delete or automatically decline them using your browser. Please refer to your browser instructions or help screen to learn more about these functions. You should note, however, that declining cookies may make it difficult or impossible for you to use portions of the Site. 
-
-The Site may use so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) to, among other things, compile aggregate statistics about Site usage and response rates. Pixel Tags allow us to, for example, count users who have visited certain pages of the Site and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened. We use the information received from these Pixel Tags in the aggregate for statistical analysis, among other things. 
-
-Some uses of cookies and Pixel Tags in connection with the Site may be under the control of unaffiliated third-party entities that **Delta Faucet Company** retains to manage certain programs and fulfill specific visitor requests. **Delta Faucet Company** cannot be responsible for third-party uses of cookies and Pixel Tags. 
-
-We treat information collected through the use of cookies and Pixel Tags as non-personal information. 
-
-### How We Share Personally Identifiable Information
-
-**Delta Faucet Company** may share personally identifiable information collected via the Site with Affiliated Entities or other third parties as described below. You should also be aware that personally identifiable information about you may be transferred to or received by Affiliated Entities or third parties in the U.S. or in other countries, which countries may have different privacy regulations than those applicable in the country where you reside.
-
-  * Affiliated Entities. We may share personally identifiable information with our parent, subsidiaries and affiliates worldwide (collectively, “Affiliated Entities”) for the purposes described in this Privacy Policy, including to permit such Affiliated Entities to send you marketing materials. If you wish to opt-out from our sharing of your personally identifiable information with Affiliated Entities for their marketing purposes, please see the “Choice: Opt Out” section below for information on how to opt-out. You may access a list of certain Affiliated Entities at http://www.masco.com/our_companies/index.html. 
-  * Service Providers. We may use third-party service providers to help us operate our business and this Site or to administer activities on our behalf, such as sending emails, hosting dealer locater sites, providing order fulfillment, conducting advertising or customer service, and administering contests or incentive programs. We may share personally identifiable information with these third parties for those business purposes. For instance, if you request a brochure, we may share personally identifiable information about you with fulfillment and management agencies to complete your request. 
-  * Dealers and Retailers. We may share personally identifiable information with third parties that offer our products for sale. The third-party dealer or retailer may contact you directly by email, phone or postal mail. If you provide any personally identifiable information to such a third party through its website or otherwise, your transaction will occur with the third party (and not on this Site) and the personally identifiable information you provide will be collected by, and controlled by the privacy policy of, that third party. **Delta Faucet Company** recommends that you review the privacy policy of third parties who may contact you about **Delta Faucet Company** or Affiliated Entities’ products or services. 
-  * Other Third Parties. We may share personally identifiable information with unaffiliated third parties, including dealers and retailers, to permit such third parties to send to you marketing materials. If you wish to opt-out from our sharing of your personally identifiable information with third parties for their marketing purposes, please see the “Choice: Opt Out” section below for information on how to opt-out. 
-  * E-mails to Friends. Please note that any personally identifiable information you provide in connection with sending an electronic postcard or other message to a friend through the Site, such as your name and your e-mail address, will, of course, be disclosed to your friend.
-  * Sweepstakes, Contests and other Promotions. We may operate sweepstakes, contests, raffles and similar promotions through the Site that may require online registration with us or with third party sponsors of such sweepstakes, contests, raffles or other promotions. You should carefully review the rules of each sweepstakes, contest, raffle and promotion in which you participate through the Site, as they may contain additional important information about **Delta Faucet Company’s** or a sponsor’s use or disclosure of your personally identifiable information. To the extent that the terms and conditions of such rules concerning the treatment of personally identifiable information conflict with this Policy, the terms and conditions of such rules shall control. 
-  * We reserve the right to share the PII you provide in connection with sweepstakes, contests and similar promotions with third parties sponsors of such sweepstakes, contests and other promotions (irrespective of whether such promotions are hosted by us), or otherwise in accordance with the rules applicable to such sweepstake, contest or other promotion. 
-  * Assignment. We reserve the right to transfer any and all information that we collect from Site users to an Affiliated Entity or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of **Delta Faucet Company’s** business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
-  * Other Disclosures. Personally identifiable information of any individual user also may be shared with other companies outside **Delta Faucet Company** : (i) as permitted by law; (ii) where we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process; (iii) to protect our operations or those of any of the Affiliated Entities; (iv) to protect the rights, privacy, property, interests or safety of **Delta Faucet Company** , the Affiliated Entities, Site visitors, customers, business partners, employees or the public; (v) to permit us to pursue available remedies or limit the damages that we may sustain (vi) to enforce our Terms of Use; and (vii) to respond to an emergency.
-  * Co-Branded Pages. From time to time, we may enter into a special relationship with another company that is not owned by or affiliated with **Delta Faucet Company** to provide additional features on this Site, such as co-branded sites (referred to here as “co-branded pages”). Any personally identifiable information that you provide on one of these co-branded pages may be shared with or accessible by these third-party partners. Both Company and the third party partner are collecting personally identifiable information on these co-branded pages, and Company’s collection, use and disclosure of the personally identifiable information is subject to this Privacy Policy, and the third party’s Company’s collection, use and disclosure of the personally identifiable information is subject to its privacy policy. By submitting your personally identifiable information through these co-branded pages, you also consent to our sharing this information with those third-party partners. You should review the privacy policies posted on these co-branded pages to understand how personally identifiable information collected through these pages will be collected and used.
-  * Purchases. We may use third-party payment services (each, a “Payment Service”) to collect payments made through the Site. If you wish to make a payment and through the Site, you will be directed to a webpage that is hosted by the Payment Service (or the Payment Service’s service providers) and not by us (such page, the “Payment Service Page”). Any personally identifiable information that you provide through the Payment Service Page will be collected by Payment Service and not by us, and will be subject to Payment Service’s privacy policy, rather than this Policy. **Delta Faucet Company** has no control over, and shall not be responsible for, Payment Service’s use of information collected through the Payment Service Page. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE COLLECTION AND USE OF INFORMATION THROUGH THE PAYMENT SERVICE PAGE OR THE PRIVACY OR INFORMATION PRACTICES OF PAYMENT SERVICE. 
+  * Name
+  * Profile picture
+  * Postal address (including billing and shipping addresses)
+  * Telephone number (including mobile phone number)
+  * Email address 
+  * Credit and debit card number
+  * Social media account ID
+  * Account number
 
 
 
-### User Generated Content Functions
+Please note that we may use a third-party payment service to process payments made through the Site. If you wish to make a payment through the Site, your Personal Information may be collected by such third party and not by us, and will be subject to such third party's privacy policy, rather than this Privacy Policy. We have no control over, and shall not be responsible for, such third party's collection, use and disclosure of your Personal Information.
 
-Certain pages on this Site enable users to create their own profile page or submit their own content (for example, message boards, forums, chat functionality and blogs, among other services). Any information you disclose in such a profile page or submission may be publicly available and be read, collected, or otherwise used by anyone who visits the URL of the page on which you have chosen to comment, and you should exercise caution in deciding whether to disclose your personal, financial or other sensitive information there. **Delta Faucet Company** cannot prevent such publicly-available information from being used by others in a manner that may violate this Policy, the law, or your personal privacy and safety, and is not responsible or liable for the results of any postings or the use or disclosure of any information that you disclose via such postings.
+If you submit any Personal Information of or relating to third parties to us or our third-party service providers in connection with the Site, you represent that you have the authority to do so and to permit us to use such information in accordance with this Privacy Policy.
 
-### Choice: Opt-out
+**How We Collect Personal Information**
 
-If you do not wish to receive marketing-related emails from us, or if you would prefer that we do not share personally identifiable information about you collected via the Site with Affiliated Entities or other third parties for such Affiliates Entities' or other third parties' marketing purposes, you may opt-out of receiving such marketing-related emails or from such sharing by contacting Delta Faucet Company Help Line at 1-800-345-DELTA (3358) or [customerservice@deltafaucet.com](mailto:customerservice@deltafaucet.com). Alternatively, you may click the "Unsubscribe" link present at the bottom of all Delta Faucet Company email messages.
+We and our third party service providers may collect Personal Information in a variety of ways, including:
 
-We will endeavor to comply with your request as soon as reasonably practicable. Please note that, if you opt-out as described above, we will not be able to remove personally identifiable information about you from the databases of Affiliated Entities or other third parties with which we have already shared your personally identifiable information as of the date on which we implement your opt-out request. If you wish to cease receiving marketing-related emails from such Affiliated Entities or other third parties, please contact such Affiliated Entities or other third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related emails.
+  * **Through the Site:** You may provide Personal Information to us through the Site, e.g., when you ask for product information or make a purchase.
+  * **From Other Sources:** We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platform providers; people with whom you are friends or otherwise connected on social media platforms; and other third parties.
 
-It you want to opt-out of our SMS functionality, please view our [SMS Terms and Conditions](http://www.deltafaucet.com/sms-terms.html).
 
-### Links and Third Parties’ Privacy Practices
 
-This Site may contain links to other sites which are not operated by **Delta Faucet Company**. **Delta Faucet Company** IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY AFFILIATED ENTITIES. We provide such links only as a convenience, and the inclusion of links on the Site does not imply endorsement of the linked site by **Delta Faucet Company**. If you provide any personally identifiable information through any such third party website, your transaction will occur on such third-party’s website (and not on this Site) and the personally identifiable information you provide will be collected by, and controlled by the privacy policy of, that third party. **Delta Faucet Company** recommends that you review the privacy policy of third-party websites arrived at from links on this Site.
+**How We Use Personal Information**
 
-### Security of Personally Identifiable Information
+Your Personal Information may be used:
 
-**Delta Faucet Company** takes measures to protect personally identifiable information collected through this Site against unauthorized access, disclosure, alteration or destruction. We also seek to require our Affiliated Entities and service providers to exercise reasonable efforts to maintain the confidentiality of any personally identifiable information about you that they receive from **Delta Faucet Company**. Unfortunately, however, no security system or system of transmitting data over the Internet can be guaranteed to be entirely secure. 
+  * To operate the Site and provide related services, such as, for example, completing and fulfilling your purchases, processing your payments, delivering your orders to you, communicating with you regarding your purchases, providing you with related customer service and initiating refunds.
+  * To respond to your inquiries and fulfill your requests, such as, for example, responding to your product information requests and registering your products.
+  * To facilitate on-line product visualization applications and preferred products catalogs. 
+  * To send to you administrative information, for example, information regarding the Site and changes to our terms, conditions, and policies. 
+  * To send to you marketing communications that we believe may be of interest to you.
+  * To personalize and optimize your experience on the Site by presenting products and offers tailored to you and to help ensure that the Site is of interest to you.
+  * To allow you to participate in sweepstakes, contests, incentive programs and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read such additional rules carefully.
+  * To facilitate social sharing functionality.
+  * To allow you to send an electronic postcard or otherwise share a message to a friend through the Site, as well as to allow you to provide us with contact information of your friends who are interested in hearing from us. By using these functionalities, you are telling us that you are entitled to use and provide us with your friends' contact information. 
+  * For our business purposes, such as data analysis, audits, developing new products, product improvements and innovations, understanding consumer preferences, enhancing the Site, improving our services (such as customer service and product support), identifying usage trends, analyzing and managing our businesses and determining the effectiveness of our promotional campaigns. 
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our Terms of Use; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-For your own privacy protection, we encourage you not to include sensitive personally identifiable information in any emails you may send to us. Please do not send credit card numbers or any sensitive personally identifiable information to us via email. Note that **Delta Faucet Company** will not request sensitive personally identifiable information in our emails to you and you should verify the authenticity of any such request.
 
-### Retaining Personally Identifiable Information
 
-We retain personally identifiable information about you for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by applicable law. 
+**How Personal Information Is Disclosed**
 
-### Questions
+Your Personal Information may be disclosed:
 
-If you have any questions about this Policy or how **Delta Faucet Company** processes your personally identifiable information, please contact us by email through the Contact Us section on www.deltafaucet.com.
+  * To our affiliates for the purposes described in this Privacy Policy, including to permit our affiliates to send marketing materials to you. If you wish to opt-out from our sharing of your Personal Information with our affiliates for their marketing purposes, please see the ,"Choices" section below for information on how to opt-out. You may access a list of affiliates at [www.masco.com/our_companies/index.html](http://www.masco.com/our_companies/index.html).
+  * To our third-party service providers who provide services such as website hosting (including dealer locater sites), data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services, ethics hotline administration, human resource functions administration, advertising provision, contests or incentive program administration and other similar services to enable them to provide services.
+  * To third-party dealers and retailers that offer our products for sale to permit them to contact you regarding such products. These third-party dealers and retailers may contact you directly by email, phone or postal mail. Any Personal Information that you provide to a third-party dealer or retailer will be collected by, and controlled by the privacy policy of, that third party. We recommend that you review the privacy policy of third parties who may contact you about our or our affiliates' products or services.
+  * To other unaffiliated third parties to permit such third parties to send marketing materials to you. If you wish to opt-out from our sharing of your Personal Information with dealers, retailers and other unaffiliated third parties for their marketing purposes, please see the "Choices" section below for information on how to opt-out. 
+  * To third parties sponsors of sweepstakes, contests, incentive programs and similar promotions in which you participate through the Site.
+  * To identify you to anyone to whom you send an electronic postcard or other message through the Site.
+  * To our third-party business partners with whom we provide co-branded pages on the Site, if you choose to provide Personal Information through such pages. Personal Information collected through these co-branded pages is collected by us as well as by the applicable third-party partner. Our collection, use and disclosure of the Personal Information is subject to this Privacy Policy, and the third party's collection, use and disclosure of the Personal Information is subject to its privacy policy. We are not responsible for such third party's collection, use and disclosure of your Personal Information. 
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Site.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+### Other Information
+
+**Other Information We Collect**
+
+**"Other Information"** is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
+
+  * Browser and device information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
+
+
+
+**How We Collect Other Information**
+
+We and our third party service providers may collect Other Information in a variety of ways, including:
+
+  * **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Site (such as the App) you are using. We use this information to ensure that our Site functions properly.
+  * **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using for recordkeeping and other purposes. We and our service providers may use cookies and other technologies to collect information such as browser type, time spent on the Site, pages visited, and language preferences, as well as to use the collected information for security purposes, to facilitate navigation, to display information more effectively, to personalize your experience while visiting the Site and for online tracking purposes, among other things. Using cookies, we and our service providers can recognize your computer to assist your use of the Site, and can also gather statistical information about Site usage in order to continually improve the design and functionality of the Site, to understand how customers use the Site and to assist us with resolving questions regarding the Site. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Site. We may also use cookies in online advertising to track consumer responses to our advertisements and we may use cookies or other files to track your use of other websites. 
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. Please refer to your browser instructions or help screen to learn more about such procedure. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. If you choose to decline cookies, some or all of the features, functionality and promotions available through the Site may not be available to you.
+
+  * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Site pages and HTML-formatted email messages to, among other things, track the actions of Site users and email recipients, measure the success of our marketing campaigns and compile statistics about Site usage and response rates. Some uses of cookies and pixel tags in connection with the Site may be under the control of unaffiliated third-party entities that we retain to manage certain programs and fulfill specific visitor requests. We cannot be responsible for third-party uses of cookies and pixel tags.
+  * **IP Address:** Your "IP Address" is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
+  * **From you:** Information such as your postal or zip code, as well as other information, such as your date of birth and gender, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Site.
+  * **By aggregating information:** Aggregated Personal Information does not personally identify you or any other user of the Site, (for example, we may aggregated Personal Information to calculate the percentage of our users who have a particular telephone area code).
+
+
+
+**How We Use and Disclose Other Information**
+
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then, in addition to the uses listed in the "How We Collect Other Information" section above, we may use and disclose Other Information for all the purposes for which we use and disclose Personal Information.
+
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+### Third Party Sites
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
+
+In some cases, we may provide hosting services for websites operated by third parties (such as contractors who sell our products). We consider such sites to be third-party sites, and the Personal Information that you provide through such sites is collected by the applicable third party, and not by us. We are neither responsible nor liable for any such third party's collection, use or disclosure of your Personal Information. By hosting these third-party sites, we are not endorsing any such sites or third parties, or making any representations about their privacy practices. Please review the privacy policies of such third parties for more information about their privacy practices.
+
+### Third Party Advertisers
+
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Site and other websites, based on information relating to your access to and use of the Site and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [http://www.aboutads.info/](https://web.archive.org/web/20121011204527id_/http%3A//www.deltafaucet.com/www.aboutads.info/).
+
+### Security
+
+Within our organization, we seek to use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.
+
+Please note that we are not responsible for the data security measures of our distributors, retailers, or any other third parties, including any app provider, social media platform provider or wireless service provider.
+
+If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the "Contacting Us" section below.
+
+### Choices
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+If you do not wish to receive marketing-related emails from us, or if you would prefer that we do not share your Personal Information with our affiliates or with other third parties for such affiliates' or other third parties' direct marketing purposes, you may opt-out of receiving such marketing-related emails or from such sharing by contacting Delta Faucet Company Help Line at 1-800-345-DELTA (3358) or [customerservice@deltafaucet.com](mailto:customerservice@deltafaucet.com). Alternatively, you may click the "Unsubscribe" link present at the bottom of all Delta Faucet Company email messages. Please clearly specify in your request what you are opting out from.
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our affiliates or other third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, or object to the processing of the Personal Information you have provided to us, you may contact us by contacting Delta Faucet Company Help Line at 1-800-345-DELTA (3358) or [customerservice@deltafaucet.com](mailto:customerservice@deltafaucet.com).
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+### Retention Period
+
+We seek to retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or not prohibited by law.
+
+### Use of Site by Minors
+
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site.
+
+### Cross-Border Transfer
+
+Your Personal Information may be stored and processed any country where we have facilities or in which we engage service providers, and by using our Site you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
+
+### Sensitive Information
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health or criminal background) on or through the Site or otherwise to us.
+
+### Contacting Us
+
+If you have any questions about this Privacy Policy or how we process your Personal Information, please contact us by email at [customerservice@deltafaucet.com](mailto:customerservice@deltafaucet.com), or please write to the following address:
+
+Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
