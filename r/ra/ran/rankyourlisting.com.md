@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankyourlisting.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110031id_/http%3A//rankyourlisting.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankyourlisting.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011054311id_/http%3A//rankyourlisting.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : RankYourListing, The Ultimate Marketers Toolbox
 
