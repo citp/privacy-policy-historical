@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530032459id_/http%3A//www.firstaffair.com/en/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011020618id_/http%3A//www.firstaffair.com/en/datenschutz.html) for the most accurate reproduction.*
 
 # Privacy Policy - First Affair
 
@@ -39,7 +39,3 @@ Our web pages contain links to other websites. We can not guarantee that these p
 Please do not hesitate to [contact us](https://web.archive.org/netforge/ne?tmpl=support_mail&pid=&kid=) if you have any questions and suggestions regarding our service and webpage. Thank you very much for taking your time for our privacy statement and enjoy our service. 
 
 Berlin the 13th january 2012 
-
-#### Fling sex
-
-To protect yourself, you must use a condom
