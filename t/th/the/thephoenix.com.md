@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thephoenix.com privacy policy that was archived on 2012-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120404085131id_/http%3A//thephoenix.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephoenix.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011032835id_/http%3A//thephoenix.com/privacy) for the most accurate reproduction.*
 
-# The Phoenix
+# Privacy Policy
 
 Safeguarding your privacy is very important to us. The only personally-identifiable information this website obtains about you is information voluntarily provided by you through our website. On certain pages – such as registration for promotions, email subscription registrations, and comment forums - we may ask users for names, addresses, phone numbers, e-mail address, and demographic and/or personal information. This information is gathered only with the users’ consent.
 
@@ -20,5 +20,10 @@ If we decide to change our policy with respect to our use of your personal infor
 
 Third-party sites that are accessed through hyperlinks from Phoenix Media sites are not covered by this site’s policies. Phoenix Media is not responsible for the privacy policies of such other sites.
 
-The Phoenix website (“thephoenix.com”) is a division of and owned and operated by Phoenix Media/Communications Group, Inc, and is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on our website or if you have any questions about our privacy policy – please send email to: [webmaster@phx.com](mailto:webmaster@phx.com).  
+The Phoenix website (“thephoenix.com”) is a division of and owned and operated by Phoenix Media/Communications Group, Inc, and is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on our website or if you have any questions about our privacy policy – please send email to:[webmaster@phx.com](mailto:webmaster@phx.com).
 
+ADVERTISEMENT 
+
+ADVERTISEMENT 
+
+ADVERTISEMENT 
