@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtualmedicalcentre.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505071012id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtualmedicalcentre.com privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011140554id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- Layout_StandardHead3 -->
@@ -35,17 +35,21 @@
 
 <script type="text/javascript" src="//medrx.sensis.com.au/images/sensis/BigPond/bp_health_util.js"></script>
 <script type="text/javascript">
-MediaSmart.Utilities.initialise({condition: "MEDICAL",demographic: "OTHER",treatment: "OTHER",articleTitle: "PRIVACY_POLICY",area: "JOINTS"});
+MediaSmart.Utilities.initialise({condition: "MEDICAL",demographic: "OTHER",treatment: "OTHER",articleTitle: "PRIVACY_POLICY",area: "SKIN"});
 </script>
 
 <script type="text/javascript"> MediaSmart.newAd({ id: "4x1", width: 4, height: 1, position: 1, iframeWidth: 0, iframeHeight:0 }); </script>
 <link rel="canonical" href="http://www.virtualmedicalcentre.com/health/privacy-policy/86">
-<script src="/jscripts/jquery-1.3.2.min.js"></script>
+
+<script src="/jscripts/jquery-1.6.2.min.js"></script>
+
 <script src="/jscripts/searchgadget.js"></script>
 
 
-		<link href="/master/css/stylesmain-m.css?ver=12" type="text/css" rel="stylesheet">
-    
+
+		<link href="/master/css/stylesmain-m.css?ver=2" type="text/css" rel="stylesheet">
+  
+
 <link href="/master/css/stylesmainprint.css?ver=1" type="text/css" rel="stylesheet" media="print">
 <!--[if lt IE 7]>
 
@@ -59,12 +63,119 @@ DD_belatedPNG.fix('  #container, #main, #maincontent, .content-block, .title,  #
 <script type="text/javascript"  src="/master/css/ie6styles.css"></script>
 <![endif]-->
 <script type="text/javascript" src="/jscripts/popupwindow-m.js"></script>
+<script type="text/javascript">
+var mouse_is_inside = false;
+$(document).ready(function()
+{
+    $('#loginBox').hover(function(){ 
+        mouse_is_inside=true; 
+    }, function(){ 
+        mouse_is_inside=false; 
+    });
+    $("body").mouseup(function(){ 
+        if(! mouse_is_inside) $('#loginBox').hide();
+		if(! mouse_is_inside) $("#widecontainer").fadeTo('5000', 1.0);
+		if(! mouse_is_inside) $("#MediaSmart_Skin").fadeTo('5000', 1.0);
+		if(! mouse_is_inside) $("#bphf-top").fadeTo('5000', 1.0);
+    });
+});
+$().ready(function() {
+$.ajax({
+  url: "/rss-parenthub.php",
+  cache: false
+}).done(function( html ) {
+  $("#contentph").append(html);
+}); 
 
-<link href="/master/css/stylebphf.css" type="text/css" rel="stylesheet">
-<link rel="stylesheet" href="/bphf/res/css/bphf_menu4.css" type="text/css">
-<script type="text/javascript" src="/bphf/res/js/bphf_menu.js"></script>
+
+$("#loginopen").click(function () {
+	$("#loginBox").css('display', 'block');
+	$("#widecontainer").fadeTo('5000', 0.3);
+	$("#MediaSmart_Skin").fadeTo('5000', 0.3);
+	$("#bphf-top").fadeTo('5000', 0.3);
+});
+
+$("#loginbutton").click(function () {
+	$("#loginBox").css('display', 'block');
+	$("#widecontainer").fadeTo('5000', 0.3);
+	$("#MediaSmart_Skin").fadeTo('5000', 0.3);
+	$("#bphf-top").fadeTo('5000', 0.3);
+});
+
+$("#loginBoxclose").click(function () {
+	$("#loginBox").css('display', 'none');
+	$("#widecontainer").fadeTo('5000', 1.0);
+	$("#MediaSmart_Skin").fadeTo('5000', 1.0);
+	$("#bphf-top").fadeTo('5000', 1.0);
+});
+
+$(".healthpro_notice").hover(
+  function () {
+    $(".healthpro_extend").css('display', 'block');
+	$(".healthpro_notice").css('background', '#facd50');
+	$(".healthpro_notice h3").css('color', '#0f34bb');
+  }, 
+  function () {
+    $(".healthpro_extend").css('display', 'none');
+	$(".healthpro_notice").css('background', 'none');
+	$(".healthpro_notice h3").css('color', '#ff8b23');
+  }
+);
+
+});
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
+ 
 </head>
 	<body>
+		
+
+<div id="loginBox">
+    <div class="content-block">
+    <h2 class="title">VMC Members<span id="loginBoxclose">[close]</span></h2>
+    <div class="content">
+    
+      <form method="post" id="loginForm" action="/login.asp" onsubmit="return validateLogin()">
+        <fieldset id="body">
+        <h4>Login</h4>
+        <fieldset>
+            <label for="email">Email Address / Username</label>
+            <input type="text" name="login_email" id="email" maxlength="50" value="">
+            </fieldset>
+            <fieldset>
+            <label for="password">Password</label>
+            <input type="password" name="login_password" maxlength="50" id="password">
+            <input type="submit" name="login" id="login" value="Login">
+            <br><a href="/forgotpassword.asp">Forgot your password?</a>
+        </fieldset>
+        
+        </fieldset>
+        
+        <input type="hidden" name="submit_type" value="login" class="hidden">
+        <input type="hidden" name="return_url" value="/featuredpages.asp?artid=86" class="hidden">
+      </form>
+      <form method="post" id="loginForm" action="/signuphop.asp" class="loginright">
+          <fieldset id="body">
+          
+            <h4>Not yet a member?</h4>
+            <p style="float:left; padding-right:30px">Stay up to date with <br>the latest health news</p>
+            <input type="submit" name="login" id="login" value="Sign up"><br><br><br>
+            <h4>Are you a Health Professional?</h4>
+            <p style="float:left; padding-right:30px">Read more detailed and referenced information written by Australian health professionals, make sure you select health professional in the signup form!</p>
+          </fieldset>
+      </form>
+    </div>
+    </div>
+    </div>
+
+		 
+				<script type="text/javascript">
+					<!--
+					var bphfOnclickPrefix="BP-VMC-";
+					//-->
+				</script>
+			
     	<div id="widecontainer">
 			<a name="top"></a>
 			<div id="container">
@@ -92,9 +203,9 @@ DD_belatedPNG.fix('  #container, #main, #maincontent, .content-block, .title,  #
 		<div class="content noliststyle">
 			<h2>Privacy Policy</h2>
 			<span class="date"></span>
-
+			
 			<div class="BParticleads">
-				
+				<br>
 			</div>
 			<ul><li><a href="#overview" title="Privacy policy overview">Privacy policy overview</a></li><li><a href="#use" title="What personal information does VMC collect and how does VMC use your personal information?">What personal information does VMC collect and how does VMC use your personal information?</a></li><li><a href="#protecting" title="Protecting your personal information">Protecting your personal information</a></li><li><a href="#accessing" title="Accessing and correcting your personal information">Accessing and correcting your personal information</a></li><li><a href="#thirdparties" title="Your personal information and third parties">Your personal information and third parties</a></li><li><a href="#cookies" title="Cookies">Cookies</a></li></ul><p>&nbsp;</p><h3><br><a name="overview" title="overview"></a>Privacy policy overview</h3><p>Virtual Medical Centre (VMC) is committed to protecting your privacy. As a visitor or member of VMC's website (site), you are interested in knowing more about health issues for you, someone close to you or your practice. We understand that health is a very personal matter and that personal information is provided in confidence. We recognise the importance of privacy and respect your right to control how personal information is collected and used.</p><p>VMC may vary this privacy policy from time to time. The updates will be posted on this page. We recommend you familiarise yourself with this page when using the site.</p><h3><br><a name="use" title="use"></a>What personal information does VMC collect and how does VMC use your personal information?</h3><p>If you do nothing during your visit to this site but browse or download information, we automatically collect and store the following information about your visit:&nbsp;</p><ul><li>The Internet Protocol address and domain name used but not the email address. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet to deliver information to you;</li><li>The type of browser and operating system you used and your connection speed;</li><li>The date and time you visited this site;</li><li>The web pages or services you accessed at this site; and</li><li>The previous website you visited prior to coming to this site.</li></ul><p><br>The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. VMC analyses our site logs to continually improve the value of the materials available on our site. Our site logs are not personally identifiable, and we make no attempt to link them with the individuals that browse this site.</p><p>VMC will not collect your personal information unless you have consented and given it to us.</p><p>Where and what personal information is collected and how it is used:</p><p><strong><br><a href="/signup.asp">Sign-up page</a></strong></p><p><em>General Patient Membership</em></p><ul><li>What personal information is collected: If you sign-up as a patient member of the site, the following information is collected: title, name, username, password, gender, year of birth, your interest in receiving our patient email publications and your interest in receiving marketing materials from Telstra.</li><li>How this personal information is used: This information is used to identify you, so you can log into the site, for correspondence with you (if you opt to receive VMC publications) and for VMC internal statistics purposes.</li><li>If you opt in to receive marketing materials from Telstra, this personal information will be passed onto them and they will deal with it in accordance with their privacy policy located at <a href="http://www.telstra.com.au/privacy/privacy_statement.html" target="_blank">http://www.telstra.com.au/privacy/privacy_statement.html</a>.</li></ul><p><br><em>Health Professional Membership</em></p><ul><li>What personal information is collected: If you are signing up as a health professional, the following information is collected: title, name, username, password, gender, year of birth, professional area, professional body provider number, areas of interest, if you are interested in receiving VMC professional email and print publications and your interest in receiving marketing materials from Telstra.</li><li>How this personal information is used: For health professionals, professional body numbers are collected to ensure that you are in fact a health professional, in order to view the password-secure professional level of information.</li><li>If you opt in to receive marketing materials from Telstra, this personal information will be passed onto them and they will deal with it in accordance with their privacy policy located at <a href="http://www.telstra.com.au/privacy/privacy_statement.html" target="_blank">http://www.telstra.com.au/privacy/privacy_statement.html</a>.</li></ul><p><br><a href="/survey.asp"><strong>Surveys</strong></a></p><p>Surveys are conducted on both the website and enewsletters. They are optional.</p><ul><li>What information is collected: Health surveys collect opinions on a health topic- the opinions are recorded but are anonymous.</li><li>User acceptance surveys collect opinions of the services VMC provide, an email and username.</li><li>How this information is used: Health surveys are used for health promotion purposes.</li><li>User acceptance surveys are used to improve the services VMC provide.</li></ul><p><a href="/featuredpages.asp?artid=59&amp;title=CME-Continuing-Medical-Education"><br><strong>Continuing Medical Education (CME) (Health Professionals only)</strong></a></p><ul><li>What personal information is collected: The CME program collects the following information from health professionals who choose to participate in the education program: title, name, email, username, password, college, college identification number.</li><li>The health professional also submits educational materials (including edited disease information, research on relevant clinical trials, case study and clinical audit).</li><li>How this personal information is used: This personal information is collected for identification purposes and accreditation with CME points (if work is of a sufficient standard).</li><li>The educational materials are collected for marking purposes by the specialist mentoring the GP.</li></ul><p><a href="/tools.asp"><br><strong>Tools</strong></a></p><ul><li>What personal information is collected: Tools collect your responses to the questions in the tool. Some tools are for health promotion purposes, some for symptom management, some for investigation analysis and some for drug dose conversions.</li><li>Some tools give the option for you to enter your name so you can print the tool and results and take it to the doctor with you. However, we do not save your name.</li><li>How this personal information is used: We may look at responses to the tools for statistical purposes only. </li></ul><h3><br><a name="protecting" title="protecting"></a>Protecting your personal information</h3><p>VMC will take all reasonable steps to protect any personal information misuse, loss, unauthorised access, modification or disclosure.</p><p>VMC will also take reasonable steps to destroy personal information if it is no longer needed.</p><h3><br><a name="accessing" title="accessing"></a>Accessing and correcting your personal information</h3><p>Every effort is made to ensure that personal information held on members is current, accurate and complete.</p><p>You can review any personal information VMC collects about you. You may recommend changes to personal information you believe is an error by submitting a written request.</p><p>If you believe that your personal information is being used for a purpose other than what you intended it for, <a href="/featuredpages.asp?artid=83" title="Contact us">contact VMC</a>.</p><p>A member's identity needs to be validated before his⁄her personal information is divulged when requested. In all cases, VMC will take reasonable steps to verify your identity before granting access to personal information or making corrections. If in doubt we do not divulge any information.</p><h3><br><a name="thirdparties" title="thirdparties"></a>Your personal information and third parties</h3><p>Contracts with all service providers⁄consultants whose service involves access to personal information comply with the VMC Privacy Policy.</p><p>Third parties are required to sign an undertaking that the information will only be used for the purpose for which the information was provided. This includes mailing houses which receive personal information in order to provide a service for VMC. If you opt-in to receive direct marketing from Telstra when you sign up as a member, Telstra will treat your personal information in accordance with its privacy policy located at <br><a href="http://www.telstra.com.au/privacy/privacy_statement.html" target="_blank">http://www.telstra.com.au/privacy/privacy_statement.html</a>.</p><h3><br><a name="cookies" title="cookies"></a>Cookies</h3><p>A cookie is a small amount of data, which may include an anonymous unique identifier, that is sent to an individual's browser from a website's computers and may either be used only during the internet session (a "session" cookie) or may be stored on the individual's computer hard drive (a "persistent" cookie).</p><p>Cookies can contain data about user movement during the visit to a website. If an individual's browser software is set to allow cookies, a website can send its own cookie to them. A website cannot access cookies sent to the individual by other sites.</p><p>VMC uses cookies to make the individual's use of the VMC site and services as enjoyable as possible. Cookies themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to estimate the number of VMC site members and determine overall traffic patterns through the website.</p><p>An individual can configure their browser to accept all cookies, reject all cookies, or notify them when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)</p><div class="noprint">	<br>
       <script type="text/javascript">
@@ -180,7 +291,7 @@ DD_belatedPNG.fix('  #container, #main, #maincontent, .content-block, .title,  #
 	</div>
 	
 	<div class="content-block">
-			<h1 class="title">List Health Topics by Medical Area</h1>
+			<h2 class="title">List Health Topics by Medical Area</h2>
 
 		<div class="content">
             <div class="news-block">
@@ -244,35 +355,44 @@ DD_belatedPNG.fix('  #container, #main, #maincontent, .content-block, .title,  #
 						<div class="content">
 							
                                         <div class="topicblock">
-                                        <a href="/health/hyperhidrosis-severity-scale/158" title="Use this tool to see how severe your sweating is"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/MiniPageImages/waterdrop2_100.jpg" width="50px" height="50px" alt="Use this tool to see how severe your sweating is"></a>
-                                        <span class="topichead"><a href="/health/hyperhidrosis-severity-scale/158" title="Use this tool to see how severe your sweating is">Use this tool to see how severe your sweating is</a></span>
-                                        <span class="topicbody"><p>Hyperhidrosis is a common but under-recognised condition
-                                        <a href="/health/hyperhidrosis-severity-scale/158" title="Use this tool to see how severe your sweating is">more...</a>
+                                        <a href="/diseases/breast-cancer-pre-invasive-lobular-carcinoma-lobular-carcinoma-in-situ-lcis/675" title="What is lobular breast cancer?"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/MiniPageImages/breast_anat_small.jpg" width="50px" height="50px" alt="What is lobular breast cancer?"></a>
+                                        <span class="topichead"><a href="/diseases/breast-cancer-pre-invasive-lobular-carcinoma-lobular-carcinoma-in-situ-lcis/675" title="What is lobular breast cancer?">What is lobular breast cancer?</a></span>
+                                        <span class="topicbody"><p>Lobular carcinoma in situ is a lesion that represents abn
+                                        <a href="/diseases/breast-cancer-pre-invasive-lobular-carcinoma-lobular-carcinoma-in-situ-lcis/675" title="What is lobular breast cancer?">more...</a>
                                         </p></span></div>
                                         
                                         <div class="topicblock">
-                                        <a href="/news/bedwetting-when-your-child-is-affected/17361" title="When your child is affected by bed wetting"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/MiniPageImages/sleep-boy.jpg" width="50px" height="50px" alt="When your child is affected by bed wetting"></a>
-                                        <span class="topichead"><a href="/news/bedwetting-when-your-child-is-affected/17361" title="When your child is affected by bed wetting">When your child is affected by bed wetting</a></span>
-                                        <span class="topicbody"><p>The first thing to understand about bed wetting in childr
-                                        <a href="/news/bedwetting-when-your-child-is-affected/17361" title="When your child is affected by bed wetting">more...</a>
+                                        <a href="/videos/Kidneys/950" title="Dr Joe: How to keep your kidneys healthy"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/MiniPageImages/kidney.jpg" width="50px" height="50px" alt="Dr Joe: How to keep your kidneys healthy"></a>
+                                        <span class="topichead"><a href="/videos/Kidneys/950" title="Dr Joe: How to keep your kidneys healthy">Dr Joe: How to keep your kidneys healthy</a></span>
+                                        <span class="topicbody"><p>The leading cause and reason for people to be on dialysis
+                                        <a href="/videos/Kidneys/950" title="Dr Joe: How to keep your kidneys healthy">more...</a>
                                         </p></span></div>
                                         
                                         <div class="topicblock">
-                                        <a href="/health/multiple-sclerosis-ms/49" title="May: Kiss goodbye to MS"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/PageImages/feat_neck.jpg" width="50px" height="50px" alt="May: Kiss goodbye to MS"></a>
-                                        <span class="topichead"><a href="/health/multiple-sclerosis-ms/49" title="May: Kiss goodbye to MS">May: Kiss goodbye to MS</a></span>
-                                        <span class="topicbody"><p>Multiple sclerosis is a disease of the brain and spinal c
-                                        <a href="/health/multiple-sclerosis-ms/49" title="May: Kiss goodbye to MS">more...</a>
+                                        <a href="/healthandlifestyle/cooking-couscous/439" title="Perfect couscous every time"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/MiniPageImages/feat_cooking2.jpg" width="50px" height="50px" alt="Perfect couscous every time"></a>
+                                        <span class="topichead"><a href="/healthandlifestyle/cooking-couscous/439" title="Perfect couscous every time">Perfect couscous every time</a></span>
+                                        <span class="topicbody"><p>It is important to eat energy in the form of protein ever
+                                        <a href="/healthandlifestyle/cooking-couscous/439" title="Perfect couscous every time">more...</a>
                                         </p></span></div>
                                         
                                         <div class="topicblock">
-                                        <a href="/healthandlifestyle/healthy-chicken-curry/444" title="This healthy chicken curry will satisfy the whole family"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/MiniPageImages/spices_small.jpg" width="50px" height="50px" alt="This healthy chicken curry will satisfy the whole family"></a>
-                                        <span class="topichead"><a href="/healthandlifestyle/healthy-chicken-curry/444" title="This healthy chicken curry will satisfy the whole family">This healthy chicken curry will satisfy the whole family</a></span>
-                                        <span class="topicbody"><p>Quick to prepare, it's perfect served with rice and salad
-                                        <a href="/healthandlifestyle/healthy-chicken-curry/444" title="This healthy chicken curry will satisfy the whole family">more...</a>
+                                        <a href="/healthandlifestyle/alcohol-consumption-short-term-health-consequences/428" title="What are the short-term effects of alcohol?"><img src="http://www.virtualmedicalcentre.com/uploads/VMC/MiniPageImages/drink.jpg" width="50px" height="50px" alt="What are the short-term effects of alcohol?"></a>
+                                        <span class="topichead"><a href="/healthandlifestyle/alcohol-consumption-short-term-health-consequences/428" title="What are the short-term effects of alcohol?">What are the short-term effects of alcohol?</a></span>
+                                        <span class="topicbody"><p>Alcohol is a legal drug in Australia and is commonly cons
+                                        <a href="/healthandlifestyle/alcohol-consumption-short-term-health-consequences/428" title="What are the short-term effects of alcohol?">more...</a>
                                         </p></span></div>
                                         
 						</div>
 					</div>
+	
+
+        <div class="widgetph">
+            <h3 class="title">&nbsp;</h3>
+            <div class="contentph" id="contentph">
+				
+        	</div>
+            <a href="http://www.parenthub.com.au/" target="_blank"><img src="/images/structure/bg_widgetbottom_ph.png" class="widgetphbot"></a>
+        </div>
 	
 
 					<div class="widget">
@@ -359,57 +479,57 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
 						});
 					</script>
 				</center>
-				</div><center><img src="/images/ad_label_w.gif" alt="Medical advertising"></center>
+				</div>
 
 	<div class="widget">
 		<h3 class="title">Today's medical survey</h3>
 
 		<form name="submit_Survey" method="post" action="/survey_centre.asp">
-			<input type="hidden" name="surveyid" value="169">
+			<input type="hidden" name="surveyid" value="204">
 
 			<div class="content noliststyle">
-				<h3>Pap test results</h3>
+				<h3>IBS symptoms</h3>
 
                 
 
 				<table width="280px" border="0" cellspacing="0" cellpadding="2">
 					
 								<tbody><tr>
-									<td><p></p><p>Have you ever had any of the following Pap test or Pap smear results? Select all that apply.</p><p></p></td>
+									<td><p></p><p>Do you or have you ever suffered from any of the below IBS symptoms?</p><p></p></td>
 								</tr>
 								
 	<tr>
-        <td><p><input type="checkbox" name="multi1" id="multi1" value="1">&nbsp;&nbsp;Abnormal result - 'low-grade'</p></td>
+        <td><p><input type="checkbox" name="multi1" id="multi1" value="1">&nbsp;&nbsp;Constipation</p></td>
 	</tr>
 	
 	<tr>
-        <td><p><input type="checkbox" name="multi1" id="multi1" value="2">&nbsp;&nbsp;Abnormal result - 'high-grade'</p></td>
+        <td><p><input type="checkbox" name="multi1" id="multi1" value="2">&nbsp;&nbsp;Diarrhoea</p></td>
 	</tr>
 	
 	<tr>
-        <td><p><input type="checkbox" name="multi1" id="multi1" value="3">&nbsp;&nbsp;Unsatisfactory result - I had to return for another Pap test</p></td>
+        <td><p><input type="checkbox" name="multi1" id="multi1" value="3">&nbsp;&nbsp;Bloating</p></td>
 	</tr>
 	
 	<tr>
-        <td><p><input type="checkbox" name="multi1" id="multi1" value="4">&nbsp;&nbsp;All my Pap tests or smears have been normal</p></td>
+        <td><p><input type="checkbox" name="multi1" id="multi1" value="4">&nbsp;&nbsp;Gas</p></td>
 	</tr>
 	
 	<tr>
-        <td><p><input type="checkbox" name="multi1" id="multi1" value="5">&nbsp;&nbsp;I have never had a Pap test</p></td>
+        <td><p><input type="checkbox" name="multi1" id="multi1" value="5">&nbsp;&nbsp;Nausea</p></td>
 	</tr>
 	
 	<tr>
-        <td><p><input type="checkbox" name="multi1" id="multi1" value="6">&nbsp;&nbsp;I don't know</p></td>
+        <td><p><input type="checkbox" name="multi1" id="multi1" value="6">&nbsp;&nbsp;Heartburn</p></td>
 	</tr>
 	
-						<input type="hidden" name="questionid1" value="253">
+						<input type="hidden" name="questionid1" value="290">
 						<tr>
 							<td class="line"><br></td>
 						</tr>
 						
 				</tbody></table>
 
-				
+				<p><img src="http://www.virtualmedicalcentre.com/images/ad.gif" alt="advert" width="25" height="7" border="0" hspace="0" vspace="0"><br> <a href=" http://ad.doubleclick.net/N7414/clk;10111983;/7414/3RD.VIRTUALMEDICALCENTRE.HEALTH" target="_blank"><img title="Iberogast logo" src="http://www.virtualmedicalcentre.com/newsletters/new/images/sponsors/Iberogast Logo - IBE036-50x25.gif" alt="Iberogast logo" border="0"></a></p>
 
 				<input type="submit" name="Submit Survey" value="Submit Survey" class="btn">
 				<input type="hidden" name="surveycount" value="1">
@@ -419,31 +539,6 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
 			<a href="/survey_centre.asp">View Results »</a>
 		</div></form>
 	</div>
-	
-
-<center><img src="/images/ad_label_w.gif" alt="Medical advertising"><br></center>
-     <div style="padding: 0px 0px 1px 4px;">
-		<script type="text/javascript">
-            MediaSmart.bigpondPromotions.newAd({
-                id: "300x70_1",
-                width: 300,
-                height: 70,
-                position: 1
-            });
-        </script>
-     </div>
-     <div style="padding: 0px 0px 1px 4px;">
-		<script type="text/javascript">
-            MediaSmart.bigpondPromotions.newAd({
-                id: "300x70_2",
-                width: 300,
-                height: 70,
-                position: 2
-            });
-        </script>
-     </div>
-
-
 	
 </div>
 
@@ -455,10 +550,30 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
 -
 -
 ------------------------------------------------------------------------->
-
-
-				<div class="partners">
+      
+				<div class="leaderboardad">
 					<h6 class="title">Current Sponsors</h6>
+					<div class="content">
+                        <div class="ad">
+                            
+		<div align="center" style="padding: 0px 0px 0px 0px; width: 728px; height: 90px;background-color: #FFFFFF; margin-left: auto; margin-right: auto;">
+		
+					<script type="text/javascript">
+						MediaSmart.newAd({
+							id: "728x90_2",
+							width: 728,
+							height: 90,
+							position: 2
+						});
+					</script>
+				</div>
+                        </div>
+                    </div>
+				</div> 
+                  
+                    
+				<div class="partners">
+					<h6 class="title">About Virtualmedicalcentre.com</h6>
 					<div class="content">
 						<table width="950px" border="0" cellspacing="0px" cellpadding="0px" align="center">
 							<tbody><tr>
@@ -467,8 +582,12 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
                                 </p><p>Australia’s leading source for trustworthy medical information written by health professionals.</p>
                                 <p>Please be aware that we do not give advice on your individual medical condition,<br>
                                 if you want advice please see your treating physician.</p>
-                                <p>Virtual Medical Centre © 2002 - 2012 | <a href="/health/privacy-policy/86">Privacy Policy</a> Last updated 5 May 2012</p></td>
-							    <td valign="top" style="padding-right:25px"><ul>
+                                <p>Virtual Medical Centre © 2002 - 2012 | <a href="/health/privacy-policy/86">Privacy Policy</a> Last updated 12 Oct 2012</p>
+                                
+                                <p>Parenting information is avaliable at <a href="http://www.parenthub.com.au" target="_blank">Parenthub.com.au</a></p>
+                                </td>
+							    <td valign="top" style="padding-right:25px">
+                                <ul>
 							      <li><a href="/health/about-us/85">About Us</a></li>
                                   <li><a href="/health/careers/156">Careers</a></li>
                                   <li><a href="/health/advertise-with-us/73">Advertise with us</a></li>
@@ -476,7 +595,7 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
 							      <li><a href="/health/contact-us/83">Contact Us </a></li>
 							      <li><a href="/health/copyright-information/79">Copyright Information </a></li>
 							      <li><a href="/correction.asp">Corrections</a></li>
-							      </ul>
+                                </ul>
                                 </td>
 							    <td valign="top"><ul>
 							      <li><a href="/eab.asp">Editorial Advisory Board</a></li>
@@ -491,28 +610,37 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
                                 </td>
 							</tr>
 							<tr>
-							  <td style="padding-top:45px;">
+							  <td style="padding-top:20px;">
                               <div style="margin:20px 0px 0px 0px; float:left;">
                               <a href="https://www.healthonnet.org/HONcode/Conduct.html?HONConduct399336" onclick="window.open(this.href); return false;">
                               <img src="../../images/HONConduct399336.jpg" border="0" title="This website is certified by Health On the Net Foundation. Click to verify." alt="This website is certified by Health On the Net Foundation. Click to verify.">
                               </a>
                               <span style="width:140px; display:inline-block; color:#333333; line-height:16px; "> This site complies with the <a href="http://www.healthonnet.org/HONcode/Conduct.html" onclick="window.open(this.href); return false;"> HONcode standard for trustworthy health</a> information: <br><a href="https://www.healthonnet.org/HONcode/Conduct.html?HONConduct399336" onclick="window.open(this.href); return false;">verify here.</a></span></div>
+
+
+
+
 <a href="http://www.healthinsite.gov.au/" target="_blank" title="Our site has been approved by the HealthInsite Editorial Board to be a HealthInsite information partner site"><img src="../../../images/Footer/health-institute.gif" width="150px" height="60px" border="0" alt="Our site has been approved by the HealthInsite Editorial Board to be a HealthInsite information partner site" style="float:left; margin:20px 5px 0 0;"></a>
+
 <a href="http://pandora.nla.gov.au/tep/86701" target="_blank" title="Virtual Medical Centre was selected for preservation by the National Library of Australia"><img src="../../../images/Footer/pandora_logo.jpg" width="112" height="42" border="0" style="float:left; margin:25px 0 0 0" alt="PANDORA is a digital archive dedicated to the preservation of and long term access to Australian online electronic publications of national significance"></a>
 
 <a href="http://www.parenthub.com.au" target="_blank" title="Parenthub.com.au for parenting information"><img src="../../../images/Footer/parenthub-logo.gif" width="120" height="79" border="0" style="float:left; margin:20px 0 0 10px" alt="Parenthub.com.au for parenting information"></a>
-</td>
-						      <td style="padding-right:25px; padding-top:20px">For banner advertising<br>
-                                <a href="http://www.telstraadvertisingnetwork.com.au/" title="Telstra Advertising Network" target="_blank"><img src="/images/TAN_logo.jpg" alt="Sensis Digital Media" border="0"></a></td>
-						      <td style="padding-top:20px">
-                              Website and videos by<br>  <br>
-							  <a href="http://www.titanweb.com.au" title="Titan Web" target="_blank">
-                              <img src="/images/titan.jpg" alt="Titan Web" border="0"></a><br>
-                              <center><a href="/titan-clients.asp" title="Titan Web Clients">Titan Web Clients</a><br>
-                              <a href="http://www.titanweb.com.au" title="Web Design Perth" target="_blank">Web Design Perth</a></center>
-                              </td>
-						  </tr>
 
+
+
+
+</td>
+						      <td style="padding-right:18px; padding-top:20px">For banner advertising<br> 
+                             <a href="http://www.mcn.com.au/" title="Multi Channel Network" target="_blank"><img src="/images/MCN_ad_network.gif" alt="Multi Channel Network" border="0" width="135" height="70"></a>
+                              </td>
+						      <td style="padding-top:20px">
+                              Website and videos by <br>
+							  
+                              <img src="/images/titan.jpg" alt="Titan Web" border="0" width="121" height="63"><br>
+                              <center><a href="/titan-clients.asp" title="Titan Web Clients">Titan Web Clients</a><br>
+                              <a href="http://www.titanweb.com.au/web-design/" title="Web Design Perth" target="_blank">Web Design Perth</a></center>
+                              </td>
+						  </tr>          
 						  <tr valign="middle">
 							  <td colspan="3"><a href="#top">^ Back to Top</a></td>
 					      </tr>
@@ -554,9 +682,7 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
                 //-->
                 </script>
 
-
-				<script type="text/javascript" src="/images/BigPond_Unmetered/delivery/js/unmetered.js"></script>
-
+ 
 
 				<script type="text/javascript">
 					function layout_getCookie(name) {
@@ -595,12 +721,7 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
     <div id="topnavblock">
       <div class="header noliststyle">
         
-        <div class="bphlogo"><a href="http://www.virtualmedicalcentre.com" style="margin-top:3px; margin-left:10px">Virtual Medical Centre</a></div>
-        
         <div class="logo"><a href="http://www.virtualmedicalcentre.com">Virtual Medical Centre</a></div>
-        
-        <!--Postion bigpond unmeterd logo-->
-        <div class="bpUnmetered"> <a href="http://bigpond.com/unmetered/" onmouseover="bp_unmetred_rollover(this);" onmouseout="bp_unmetred_rollout(this);"> <img src="/images/BigPond_Unmetered/delivery/images/blue.png" alt="BigPond Unmetered" width="92" height="31" border="0"> </a> </div>
         
         <div class="navigation">
           <ul id="nav">
@@ -640,10 +761,10 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
                   <li><a href="/health/">Popular Topics</a></li>
                   <li><a href="/videos/">Videos &amp; Animations</a></li>
                   <li><a href="/news/">News</a></li>
-                  <li><a href="/diseases.asp">Diseases</a></li>
+                  <li><a href="/diseases/">Diseases</a></li>
                   <li><a href="/devices.asp">Devices</a></li>
-                  <li><a href="/drugs.asp">Drugs</a></li>
-                  <li><a href="/supplements.asp">Supplements</a></li>
+                  <li><a href="/drugs/">Drugs</a></li>
+                  <li><a href="/supplements/">Supplements</a></li>
                   <li><a href="/symptoms.asp">Symptoms</a></li>
                   <li><a href="/anatomy/">Anatomy</a></li>
                   <li><a href="/treatment/">Treatments</a></li>
@@ -682,19 +803,19 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
                 </ul>
               </div>
             </li>
-            <li><a href="/diseases.asp" title="Diseases">Diseases</a>
+            <li><a href="/diseases/" title="Diseases">Diseases</a>
               <div class="sub">
                 <ul>
                   <h3>Diseases &amp; Conditions</h3>
-                  <li><a href="/diseases.asp?did=939&amp;title=breast-and-nipple-thrush-bnt;-breast-and-nipple-candidiasis;-mammary-candidiasis-">Breast nipple thrush</a></li>
-                  <li><a href="/diseases.asp?did=175&amp;title=crohns-disease-inflammatory-bowel-disease-">Crohn's disease</a></li>
-                  <li><a href="/diseases.asp?did=943&amp;title=inflammatory-bowel-disease-ibd-overview">Inflammatory Bowel Disease</a></li>
-                  <li><a href="/diseases.asp?did=941">Macular oedema</a></li>
-                  <li><a href="/diseases.asp?did=940&amp;title=Diabetic-Eye-Disease-Non-Proliferative-Diabetic-Retinopathy">Non-Proliferative Diabetic Ret</a></li>
-                  <li><a href="/diseases.asp?did=590&amp;title=pancreatic-cancer-adenocarcinoma-of-the-pancreas-">Pancreatic Cancer</a></li>
-                  <li><a href="/diseases.asp?did=942&amp;title=pancreatic-neuroendocrine-tumour-pnet-">Pancreatic NET</a></li>
-                  <li><a href="/diseases.asp?did=652&amp;title=diabetic-eye-disease-proliferative-diabetic-retinopathy">Proliferative Diabetic Retinopathy</a></li>
-                  <li><a href="/diseases.asp?did=173&amp;title=ulcerative-colitis-inflammatory-bowel-disease-">Ulcerative colitis</a></li>
+                  <li><a href="/diseases/breast-and-nipple-thrush/939">Breast nipple thrush</a></li>
+                  <li><a href="/diseases/crohns-disease-inflammatory-bowel-disease/175">Crohn's disease</a></li>
+                  <li><a href="/diseases/inflammatory-bowel-disease-ibd-overview/943">Inflammatory Bowel Disease</a></li>
+                  <li><a href="/diseases/macular-oedema/941">Macular oedema</a></li>
+                  <li><a href="/diseases/Diabetic-Eye-Disease-Non-Proliferative-Diabetic-Retinopathy/940">Non-Proliferative Diabetic Ret</a></li>
+                  <li><a href="/diseases/pancreatic-cancer-adenocarcinoma-of-the-pancreas-/590">Pancreatic Cancer</a></li>
+                  <li><a href="/diseases/pancreatic-neuroendocrine-tumour-pnet-/942">Pancreatic NET</a></li>
+                  <li><a href="/diseases/diabetic-eye-disease-proliferative-diabetic-retinopathy/652">Proliferative Diabetic Retinopathy</a></li>
+                  <li><a href="/diseases/ulcerative-colitis-inflammatory-bowel-disease-/173">Ulcerative colitis</a></li>
                 </ul>
                 <ul class="navcolumn">
                   <h3>&nbsp;</h3>
@@ -717,24 +838,24 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
                   <li><a href="/health/skin-cancer/136">Skin Cancer </a></li>
                   <li><a href="/health/testosterone-deficiency/54">Testosterone Deficiency</a></li>
                   <li><a href="/health/thrush-candidiasis-/142">Thrush (Candidiasis)</a></li>
-                  <b><a href="/diseases.asp">More Diseases...</a></b>
+                  <b><a href="/diseases/">More Diseases...</a></b>
                 </ul>
               </div>
             </li>
-            <li><a href="/drugs.asp" title="Drugs">Drugs</a>
+            <li><a href="/drugs/" title="Drugs">Drugs</a>
               <div class="sub">
                 <ul>
                   <h3>Drugs</h3>
-                  <li><a href="/drugs.asp">Drug Trade Names</a></li>
-                  <li><a href="/drugs.asp?type=generic">Drug Generic Names</a></li>
+                  <li><a href="/drugs/">Drug Trade Names</a></li>
+                  <li><a href="/drugs/generic">Drug Generic Names</a></li>
                 </ul>
               </div>
             </li>
-            <li><a href="/supplements.asp" title="Supplements">Supplements</a>
+            <li><a href="/supplements/" title="Supplements">Supplements</a>
               <div class="sub">
                 <ul>
                   <h3>Supplements</h3>
-                  <li><a href="/supplements.asp">Supplements</a> </li>
+                  <li><a href="/supplements/">Supplements</a> </li>
                 </ul>
               </div>
             </li>
@@ -836,7 +957,7 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
                   <li><a href="/healthandlifestyle/category/preventative-health/23">Preventative Health</a></li>
                   <li><a href="/healthandlifestyle/category/recipes/5">Recipes</a></li>
                   <li><a href="/healthandlifestyle/category/sexuality/4">Sexuality</a></li>
-                  <li><a href="/healthandlifestyle/category/sleep/25"></a>Sleep</li>
+                  <li><a href="/healthandlifestyle/category/sleep/25">Sleep</a></li>
                   <li><a href="/healthandlifestyle/category/smoking-and-alcohol/19">Smoking and Alcohol</a></li>
                 </ul>
               </div>
@@ -856,29 +977,9 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
           </ul>
           <ul id="use">
             
-            <li><a href="/signup.asp">Sign Up</a></li>
+            <!-- <li><a href="/signup.asp">Sign Up</a></li> -->
             <li>
-              <div id="loginbutton"><a href="/login.asp">Login</a></div>
-              <ul>
-                <div id="loginBox">
-                  <form method="post" id="loginForm" action="/login.asp" onsubmit="return validateLogin()">
-                    <fieldset id="body">
-                    <fieldset>
-                    <label for="email">Email Address / Username</label>
-                    <input type="text" name="login_email" id="email" maxlength="50" value="">
-                    </fieldset>
-                    <fieldset>
-                    <label for="password">Password</label>
-                    <input type="password" name="login_password" maxlength="50" id="password">
-                    </fieldset>
-                    <input type="submit" name="login" id="login" value="Sign in">
-                    </fieldset>
-                    <span><a href="/forgotpassword.asp">Forgot your password?</a></span>
-                    <input type="hidden" name="submit_type" value="login" class="hidden">
-                    <input type="hidden" name="return_url" value="/featuredpages.asp?artid=86" class="hidden">
-                  </form>
-                </div>
-              </ul>
+              <div id="loginbutton"><a href="#">Login</a></div>
             </li>
             
           </ul>
@@ -929,17 +1030,22 @@ VMC newsletters are FREE on subscription. <a href="/newsletters.asp">See VMC's p
             <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=virtualmedicalcentre"></script>
           </ul>
         </div>
+        <div class="healthpro_notice">
+        <img src="http://www.virtualmedicalcentre.com/images/signup_buttons/exclamation-mark.png" width="19px" height="20px" alt="Health Professionals Notice">
+            <h3>Are you a health professional?</h3>
+             <div class="healthpro_extend">
+				<p><b><a href="http://www.virtualmedicalcentre.com/signup.asp">Sign up</a></b> to read more detailed and referenced information written
+                by <a href="http://www.virtualmedicalcentre.com/eab.asp?eabcentre=med">Australian health professionals</a> for Australian health professionals</p>
+                <p>Already registered? <b><a href="#" id="loginopen">Log in here.</a></b></p>
+        	</div>
+        </div>
+	
       </div>
     </div>
     
 				</div><!-- / end of #main / -->
 			</div><!-- / end of #container / -->
 			
-				<div class="noprint">
-					<div id="bphf-bottom" class="bphfs" xmlns="http://www.w3.org/1999/xhtml"><!--googleoff: index--><div id="bphf-foot"><div id="bphf-footlogo"><a href="http://www.bigpond.com/home/index.jsp?ref=Net-Foot-BPlogo" title="BigPond"><img src="/bphf/res/img/sin.gif" width="113" height="24" alt="BigPond"></a></div><ul id="bphf-footer"><li><a class="bphf-trigger" href="http://go.bigpond.com/broadband/?ref=Net-Foot-Int">Internet access</a><ul><li><a href="http://go.bigpond.com/wireless/?ref=Net-Foot-Int-MobileBB">Mobile broadband</a></li><li><a href="http://go.bigpond.com/broadband/?ref=Net-Foot-Int-HomeBB">Home broadband</a></li><li><a href="http://go.bigpond.com/bundles/?ref=Net-Foot-Int-Bundles">Bundles</a></li></ul></li><li><a class="bphf-trigger" href="http://www.bigpond.com/mobile/?ref=Net-Foot-Mobile">Mobile services</a><ul><li><a href="http://ctones.telstra.com/web/preview/menu.do?a=search&amp;mcode=1&amp;ref=Net-Foot-Mobile-CTones">Caller Tones</a></li><li><a href="http://mobilefun.telstra.com/?ref=Net-Foot-Mobile-Ringtones">Mobile ringtones</a></li><li><a href="http://mobilefun.telstra.com/?ref=Net-Foot-Mobile-Wallpapers">Mobile wallpapers</a></li><li><a href="http://www.gamearena.com.au/shop/mobile/?ref=Net-Foot-Mobile-Games">Mobile games</a></li><li><a href="http://www.foxtel.com.au/discover/mobile/telstra-mobile/default.htm?ref=Net-Foot-Mobile-Foxtel">Mobile FOXTEL</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondnews.com/?ref=Net-Foot-News">News</a><ul><li><a href="http://bigpondnews.com/?ref=Net-Foot-News-Latest">Latest news</a></li><li><a href="http://weather.bigpondnews.com/?ref=Net-Foot-News-Weather">Weather</a></li><li><a href="http://bigpondvideo.com/newstv/?ref=Net-Foot-News-Live">Live news</a></li></ul></li><li><a class="bphf-trigger" href="http://www.bigpondsport.com/sitemap/tabid/229/default.aspx?ref=Net-Foot-Sport">Sport</a><ul><li><a href="http://www.afl.com.au/?ref=Net-Foot-Sport-AFL">AFL</a></li><li><a href="http://www.nrl.com/?ref=Net-Foot-Sport-NRL">NRL</a></li><li><a href="http://www.bigpondsport.com/Home/LiveScores/tabid/124/Default.aspx?ref=Net-Foot-Sport-LIVEScores">Live scores</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondmusic.com/help/index/?ref=Net-Foot-Music">Music</a><ul><li><a href="http://bigpondmusic.com/?ref=Net-Foot-Music-DLD">Download music</a></li><li><a href="http://bigpondmusic.com/?ref=Net-Foot-Music-News">Music news</a></li></ul></li><li><a class="bphf-trigger" href="http://www.gamearena.com.au/siteindex/?ref=Net-Foot-Games">Games</a><ul><li><a href="http://www.gamearena.com.au/shop/games/?ref=Net-Foot-Games-DLD">Download games</a></li><li><a href="http://www.gamearena.com.au/shop/games/?ref=Net-Foot-Games-PC">PC games</a></li><li><a href="http://www.gamearena.com.au/reviews/?ref=Net-Foot-Games-reviews">Game reviews</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondmovies.com/sitemap/?ref=Net-Foot-Movies">Movies</a><ul><li><a href="http://go.bigpond.com/tv/bigpond_movies/?ref=Net-Foot-Movies-DVDs">Rent movies</a></li><li><a href="http://bigpondmovies.com/?ref=Net-Foot-Movies-DLD">Download movies</a></li><li><a class="bphf_section" href="http://go.bigpond.com/tv/?ref=Net-Foot-TV">BigPond TV</a></li><li><a href="http://www.bigpond.com/tv/bpchannels/?ref=Net-Foot-TV-channels">BigPond TV channels</a></li></ul></li><li><a class="bphf-trigger" href="http://shop.bigpond.com/SiteMap.asp?ref=Net-Foot-Shop">Shopping</a><ul><li><a href="http://go.bigpond.com/specials/?ref=Net-Foot-Shop-Specials">Special offers and discounts</a></li><li><a href="http://bigpondtickets.showbiz.com.au/?ref=Net-Foot-shop-tickets">Tickets</a></li><li><a class="bphf_section" href="http://bigpond.com/sitemap/?ref=Net-Foot-Sitemap">Sitemap</a></li></ul></li></ul><br class="bphf-clear"></div><div id="bphf-corp"><div id="bphf-telstralogo"><a href="http://www.telstra.com/" title="Telstra"><img src="/bphf/res/img/sin.gif" width="34" height="34" alt="Telstra"></a></div><ul><li><a href="http://go.bigpond.com/help/?ref=Net-Foot-Corp-Help">Help</a></li><li><a href="http://go.bigpond.com/help/contact_us/?ref=Net-Foot-Corp-Contact">Contact Us</a></li><li><a href="http://bigpond.custhelp.com/cgi-bin/bigpond.cfg/php/enduser/std_adp.php?p_faqid=5659&amp;ref=Net-Foot-Corp-SafeSurf">Safe Surfing</a></li><li><a href="http://www.bigpond.com/aboutbigpond/ispguidelines/?ref=Net-Foot-Corp-Guidelines">Consumer Guidelines</a></li><li><a href="http://www.telstra.com.au/privacy/privacy_statement.html?ref=Net-Foot-Corp-Privacy">Privacy</a></li><li><a href="http://www.bigpond.com/pond/terms-of-use/?ref=Net-Foot-Corp-Terms">Terms of Use</a></li><li><a href="http://www.telstra.com.au/global/copyright/index.shtml?ref=Net-Foot-Corp-CopyTM">Copyright &amp; Trade mark</a></li><li><a href="http://www.telstraadvertisingnetwork.com.au/?ref=Net-Foot-Corp-Advertise">Advertise with us</a></li></ul></div><!--googleon: index--></div><div id="bphf-stat" xmlns="http://www.w3.org/1999/xhtml"><script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script><script type="text/javascript"><!--
-var pvar={cid:"bigpond",content:"0",server:"secure-au"}, trac=nol_t(pvar);trac.record().post();//--></script><noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=bigpond&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""></div></noscript><script type="text/javascript" src="/bphf/res/js/s_code.js"></script><!-- bphfOVIS --></div>
-				</div>
-				
         <!-- SiteCatalyst Code -->
         <script language="JavaScript" src="http://www.virtualmedicalcentre.com/omniture/site_specific_code.js"></script>
 
@@ -985,17 +1091,5 @@ var pvar={cid:"bigpond",content:"0",server:"secure-au"}, trac=nol_t(pvar);trac.r
 
 
 		</div>
-			
-				<div class="noprint">
-					<div id="bphf-top" class="bphfs" xmlns="http://www.w3.org/1999/xhtml"><!--googleoff: index--><div style="display:none" id="bphf-skiplink"><ul><li><a href="#bphf-netnav">Skip to navigation</a></li><li><a href="#bphf-content">Skip to content</a></li></ul></div><div id="bphf-header"><div id="bphf-logo"><a href="http://go.bigpond.com/home/index.jsp?ref=Net-Head-BPlogo"><img src="/bphf/res/img/sin.gif" alt="BigPond" height="39" width="157"></a></div><div id="bphf-netnav" class="bphfs"><div id="bphf-px"><img src="/bphf/res/img/sin.gif" alt="" width="9" height="30"></div><div id="bphf-headerad"><iframe frameborder="0" scrolling="no" style="border:none;padding:0;margin:0;width:100px;height:29px;" src="/bphf/header/adh.html"></iframe></div><div id="bphf-iconlinks"><ul><li class="bphfs bphfnr bphfs-icon_mail"><a href="https://messaging.bigpond.com/?ref=Net-Head-Webmail">WebMail</a></li><li class="bphfs bphfnr bphfs-icon_bp"><a href="https://signon.bigpond.com/login?goto=https://my.bigpond.com/mybigpond/default.do?ref=Net-Head-MyBigPond">My BigPond</a></li></ul></div><div id="bphf-wrap1"><!--[if lte IE 6.5]><iframe id="bphf-fx1" src="/bphf/header/fx.html" scroll="no"></iframe><![endif]--><ul id="bphf-menu1"><li><a class="bphf-trigger" href="http://go.bigpond.com/broadband/?ref=Net-Head-Internet">Internet</a><ul><li><a class="bphf_section" href="http://go.bigpond.com/broadband/?ref=Net-Head-Int-Plans">Internet Plans</a></li><li><a href="http://go.bigpond.com/broadband/?ref=Net-Head-Int-Plans-Broadband">Home Broadband</a></li><li><a href="http://go.bigpond.com/bundles/?ref=Net-Head-Int-Bundles">Bundles</a></li><li><a href="http://go.bigpond.com/wireless/?ref=Net-Head-Int-Plans-Wireless">Mobile Broadband</a></li><li><a href="http://go.bigpond.com/broadband/modems/?ref=Net-Head-Int-Plans-HomeNetwork">Home Networking</a></li><li><a href="http://go.bigpond.com/broadband/switch-to-bigpond/?ref=Net-Head-Int-Plans-Switch">Switch to BigPond</a></li><li><a href="http://www.telstra.com.au/nbn/?ref=Net-Head-Int-NBN">NBN</a></li><li><a href="http://go.bigpond.com/dial-up/?ref=Net-Head-Int-Dial">Dial-up</a></li><li><a href="http://go.bigpond.com/satellite/?ref=Net-Head-Int-Satellite">Satellite </a></li><li><a class="bphf_section" href="http://go.bigpond.com/specials/?ref=Net-Head-Int-Specials">Special Offers</a></li><li><a href="http://go.bigpond.com/help/moving_home/?ref=Net-Head-Int-MovHome">Moving Home</a></li><li><a class="bphf_section" href="http://www.bigpond.com/mobile/?ref=Net-Head-Mobile">BigPond on Mobile</a></li><li><a href="http://ctones.telstra.com/web/preview/menu.do?a=search&amp;mcode=1&amp;ref=Net-Head-Int-CTones">Caller Tones</a></li><li><a href="http://mobilefun.telstra.com/?ref=Net-Head-Int-MobileFun">Ringtones &amp; wallpapers</a></li><li><a class="bphf_section" href="http://go.bigpond.com/services/online-security/?ref=Net-Head-Int-Security">Internet security</a></li><li><a class="bphf_section" href="http://bigpond.custhelp.com/cgi-bin/bigpond.cfg/php/enduser/std_adp.php?p_faqid=18319&amp;ref=Net-Head-Int-Copyright">Copyright Compliance</a></li><li><a class="bphf_section" href="http://go.bigpond.com/services/email/?ref=Net-Head-Int-Email">Email and Messaging</a></li><li><a href="http://go.bigpond.com/services/email/email-online-sms/?ref=Net-Head-Int-Email-SMS">Email &amp; Online SMS</a></li><li><a href="http://go.bigpond.com/services/email/email-on-mobile/?ref=Net-Head-Int-Email-Mobile">Email on your Mobile</a></li><li><a href="http://go.bigpond.com/services/email/sync-mobile/?ref=Net-Head-Int-Email-Backup">Backup your Mobile</a></li><li><a href="http://go.bigpond.com/services/email/premium-email/?ref=Net-Head-Int-Email-Premium">Premium Mail</a></li><li><a href="http://go.bigpond.com/services/email/additional-mailboxes/?ref=Net-Head-Int-Email-AddMailbox">Additional Mailboxes</a></li><li><a class="bphf_section" href="http://go.bigpond.com/services/domain-hosting/?ref=Net-Head-Int-Hosting">Domains and Hosting</a></li><li><a href="http://go.bigpond.com/services/domain-hosting/web-hosting/?ref=Net-Head-Int-Hosting-Web">Website Hosting</a></li><li><a href="http://www.telstra.com.au/business-enterprise/business-products/t-suite-software/t-suite-domains/index.htm?ref=Net-Head-Int-Hosting-Domain">Domain Names</a></li><li><a href="http://go.bigpond.com/services/domain-hosting/premiumhosting/?ref=Net-Head-Int-Hosting-Premium">Premium Hosting</a></li><li><a class="bphf_section" href="http://www.telstra.com.au/business-enterprise/business-products/t-suite-software/virus-spam-data-protection/index.htm#tab-mozypro-pc">Online Storage</a></li><li><a class="bphf_section" href="http://go.bigpond.com/services/connect-roam/?ref=Net-Head-Int-Connect">Connect and Roam</a></li><li><a href="http://go.bigpond.com/services/connect-roam/static-ip/?ref=Net-Head-Int-Connect-StaticIP">Static IP for ADSL</a></li><li><a href="http://go.bigpond.com/services/connect-roam/global-roaming/?ref=Net-Head-Int-Connect-Globalroam">Global Roaming</a></li><li><a href="http://go.bigpond.com/services/connect-roam/dial-up-for-broadband/?ref=Net-Head-Int-Connect-Dialupforbb">Dial-up for Broadband</a></li></ul></li><li><a class="bphf-trigger" href="http://www.bigpondsport.com/?ref=Net-Head-Sport">Sport</a><ul><li><a class="bphf_section" href="http://www.bigpondsport.com/?ref=Net-Head-Sport-BPS">BigPond Sport</a></li><li><a class="bphf_section" href="http://www.afl.com.au/?ref=Net-Head-Sport-AFL">AFL</a></li><li><a class="bphf_section" href="http://www.nrl.com/?ref=Net-Head-Sport-NRL">NRL</a></li><li><a class="bphf_section" href="http://www.bigpondsport.com/Cricket/tabid/74/Default.aspx?ref=Net-Head-Sport-Cricket">Cricket</a></li><li><a class="bphf_section" href="http://www.v8supercars.com.au/?ref=Net-Head-Sport-V8s">V8 Supercars</a></li><li><a class="bphf_section" href="http://www.racingnetwork.com.au/?ref=Net-Head-Sport-HorseRacing">Racing Network</a></li><li><a class="bphf_section" href="http://www.bigpondsport.com/Home/Mobile/BigPondSportScoresMobile/tabid/227/Default.aspx?ref=Net-Head-Sport-Mobile">Sport on your mobile</a></li></ul></li><li><a class="bphf-trigger" href="http://go.bigpond.com/tv/?ref=net-head-bptv">IPTV</a><ul><li><a class="bphf_section" href="http://go.bigpond.com/tv/?ref=net-head-bptv">BigPond TV</a></li><li><a href="http://go.bigpond.com/tv/bigpond_movies/?ref=net-head-bptv-movies">BigPond Movies</a></li><li><a href="http://go.bigpond.com/tv/channels/?ref=net-head-bptv-channels">BigPond Channels</a></li><li><a href="http://go.bigpond.com/tv/nrl_game_analyser/?ref=net-head-bptv-nrl">NRL Game Analyser</a></li><li><a href="http://go.bigpond.com/tv/afl_game_analyser/?ref=net-head-bptv-afl">AFL Game Analyser</a></li><li><a class="bphf_section" href="http://go.bigpond.com/tv/device/?ref=net-head-bptv-devices">BigPond Devices</a></li><li><a href="http://go.bigpond.com/tv/bptv/how_do_i_get_it/tbox/?ref=net-head-bptv-tbox">T-Box</a></li><li><a href="http://go.bigpond.com/tv/lg/?ref=net-head-bptv-lgtv">LG</a></li><li><a href="http://go.bigpond.com/tv/samsung/?ref=net-head-bptv-samsung">Samsung</a></li><li><a class="bphf_section" href="http://go.bigpond.com/tv/foxtel_on_tbox/?ref=net-head-bptv-foxtel">Foxtel on T-Box</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondvideo.com/?ref=Net-Head-TV">Video</a><ul><li><a class="bphf_section" href="http://bigpondvideo.com/NewsOnDemand/?ref=Net-Head-TV-News">News</a></li><li><a class="bphf_section" href="http://bigpondvideo.com/newstv/?ref=Net-Head-TV-NewsTV">BigPond Live News</a></li><li><a class="bphf_section" href="http://bigpondvideo.com/NewsOnDemand/?ref=Net-Head-TV-NewsOnDemand">Video News</a></li><li><a href="http://bigpondvideo.com/NewsOnDemandNational/?ref=Net-Head-TV-Natl">National</a></li><li><a href="http://bigpondvideo.com/NewsOnDemandWorld/?ref=Net-Head-TV-World">World</a></li><li><a href="http://bigpondvideo.com/NewsOnDemandEntertainment/?ref=Net-Head-TV-Ent">Entertainment</a></li><li><a href="http://bigpondvideo.com/NewsOnDemandFinance/?ref=Net-Head-TV-Finance">Finance</a></li><li><a href="http://bigpondvideo.com/NewsOnDemandOddspot/?ref=Net-Head-TV-OddSpot">Odd Spot</a></li><li><a class="bphf_section" href="http://bigpondvideo.com/Sport/?ref=Net-Head-TV-Sport">Sport</a></li><li><a href="http://bigpondvideo.com/footytv/?ref=Net-Head-TV-Footy">BigPond Footy</a></li><li><a href="http://bigpondvideo.com/leaguetv/?ref=Net-Head-TV-League">BigPond League</a></li><li><a href="http://bigpondvideo.com/racingtv/?ref=Net-Head-TV-Sport-Racing">BigPond Racing</a></li><li><a href="http://bigpondvideo.com/AFL/?ref=Net-Head-TV-Sport-AFL">AFL</a></li><li><a href="http://bigpondvideo.com/NRL/?ref=Net-Head-TV-NRL">NRL</a></li><li><a href="http://bigpondvideo.com/v8/?ref=Net-Head-TV-Sport-V8s">V8 Supercars</a></li><li><a href="http://bigpondvideo.com/surfing/?ref=Net-Head-TV-Sport-Surf">Surfing</a></li><li><a class="bphf_section" href="http://bigpondvideo.com/Trailers/?ref=Net-Head-TV-Movies-Trailer">Movie trailers</a></li><li><a class="bphf_section" href="http://bigpondvideo.com/games/?ref=Net-Head-TV-Games">Games</a></li><li><a href="http://bigpondvideo.com/GamesTrailers/?ref=Net-Head-TV-Games-Trailers">Game trailers</a></li><li><a href="http://bigpondvideo.com/GamesLatest/?ref=Net-Head-TV-Games-Latest">Latest game videos</a></li><li><a class="bphf_section" href="http://bigpondvideo.com/Music/?ref=Net-Head-TV-Music">Music</a></li><li><a href="http://bigpondvideo.com/musictv/?ref=Net-Head-TV-MusicTV">BigPond Music</a></li><li><a href="http://bigpondvideo.com/Top_Music_Videos/?ref=Net-Head-TV-MusicVOD">Music videos on demand</a></li><li><a class="bphf_section" href="http://bigpondmovies.com/mobile/vom">Video on Mobile</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondnews.com/?ref=Net-Head-News">News</a><ul><li><a href="http://bigpondnews.com/?ref=Net-Head-News-Latest">Breaking news</a></li><li><a href="http://bigpondnews.com/National/?ref=Net-Head-News-Natl">National</a></li><li><a href="http://bigpondnews.com/National-Regional">Regional</a></li><li><a href="http://bigpondnews.com/World/?ref=Net-Head-News-World">World</a></li><li><a href="http://bigpondnews.com/Technology/?ref=Net-Head-News-Tech">Technology</a></li><li><a href="http://bigpondnews.com/Environment/?ref=Net-Head-News-Environment">Environment</a></li><li><a href="http://bigpondnews.com/Health/?ref=Net-Head-News-Health">Health</a></li><li><a href="http://bigpondnews.com/Crime">Crime</a></li><li><a href="http://bigpondnews.com/Politics/?ref=Net-Head-News-Politics">Politics</a></li><li><a href="http://bigpondnews.com/Finance/?ref=Net-Head-News-Bus">Finance</a></li><li><a href="http://bigpondsport.com/?ref=Net-Head-News-Sport">Sport</a></li><li><a href="http://bigpondmovies.com/news/?ref=Net-Head-News-Ent">Entertainment</a></li><li><a href="http://gamearena.com.au/news/?ref=Net-Head-News-Gaming">Gaming</a></li><li><a href="http://bigpondnews.com/OddSpot/?ref=Net-Head-News-Odd">Odd spot</a></li><li><a class="bphf_section" href="http://weather.bigpondnews.com/?ref=Net-Head-Weather">Weather</a></li><li><a class="bphf_section" href="http://bigpondnews.com/bigpond_news_ticker/?ref=Net-Head-News-Ticker">News Ticker</a></li><li><a class="bphf_section" href="https://www.pocketnews.telstra.com/alerts?ref=Net-Head-News-Mobile">Mobile News Alerts</a></li><li><a class="bphf_section" href="http://bigpondnews.com/rss/?ref=Net-Head-News-RSS">RSS News Feeds</a></li></ul></li><li><a class="bphf-trigger" href="http://www.bigpondmoney.com.au/home/?ref=Net-Head-Money">Money</a><ul><li><a href="http://www.bigpondmoney.com.au/managing-money/?ref=Net-Head-Money-manage">Managing money</a></li><li><a href="http://www.bigpondmoney.com.au/investing/?ref=Net-Head-Money-Invest">Investing</a></li><li><a href="http://www.bigpondmoney.com.au/credit-loans/?ref=Net-Head-Money-Credit">Credit &amp; loans</a></li><li><a href="http://www.bigpondmoney.com.au/home-property/?ref=Net-Head-Money-Home">Home &amp; property</a></li><li><a href="http://www.bigpondmoney.com.au/life-stages/?ref=Net-Head-Money-Life">Life stages</a></li><li><a href="http://www.bigpondmoney.com.au/tools-guides/?ref=Net-Head-Money-tools">Tools &amp; guides</a></li><li><a href="http://www.bigpondmoney.com.au/small-business/?ref=Net-Head-Money-SmlBus">Small business</a></li><li><a href="http://compare.bigpondmoney.com.au/compare-deals/?ref=Net-Head-Money-compare">Compare deals</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondmusic.com/?ref=Net-Head-Music">Music</a><ul><li><a class="bphf_section" href="http://bigpondmusic.com/?ref=Net-Head-Music-Download">MP3 Downloads</a></li><li><a class="bphf_section" href="http://bigpondmusic.com/browse/Albums/NewRelease/Format-Album/By-ReleaseDate/?ref=Net-Head-Music-Charts">New Releases</a></li><li><a href="http://bigpondmusic.com/charts/tracks/?ref=Net-Head-Music-TopTracks">Top 40 tracks</a></li><li><a href="http://bigpondmusic.com/charts/albums/?ref=Net-Head-Music-TopAlbums">Top 40 albums</a></li><li><a class="bphf_section" href="http://bigpondmusic.com/bargains/under13/?ref=Net-Head-Music-Bargains">Bargains</a></li><li><a class="bphf_section" href="http://bigpondmusic.com/news/?ref=Net-Head-Music-News">News</a></li><li><a class="bphf_section" href="http://bigpondmusic.com/bpm/?ref=Net-Head-Music-bpm">BPM TV</a></li><li><a class="bphf_section" href="http://bigpondmusic.com/mixtapes/?ref=Net-Head-Music-Mixtapes">BPM Mixtapes</a></li><li><a class="bphf_section" href="http://bigpondmusic.com/live-gigs/?ref=Net-Head-Music-LiveGigs">Live Gigs</a></li><li><a class="bphf_section" href="http://mobilefun.telstra.com/?ref=Net-Head-Music-Tonespics">Ringtones</a></li><li><a class="bphf_section" href="http://ctones.telstra.com/web/preview/menu.do?a=search&amp;mcode=1&amp;ref=Net-Head-Music-CTones">Caller Tones</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondmovies.com/?ref=Net-Head-Movies">Movies</a><ul><li><a class="bphf_section" href="http://bigpondmovies.com/?ref=Net-Head-Movies-DLDs">Download movies</a></li><li><a href="http://bigpondmovies.com/news/?ref=Net-Head-Movies-DLDs-News">Movie news</a></li><li><a href="http://bigpondmovies.com/movies/new-releases/?ref=Net-Head-Movies-DLDs-NewTV">New release movies</a></li><li><a href="http://bigpondmovies.com/movies/most-popular/?ref=Net-Head-Movies-DLDs-MostPopular">Most popular movies</a></li><li><a href="http://bigpondmovies.com/television/most-popular/?ref=Net-Head-Movies-DLDs-MostPopularTV">Most popular TV shows</a></li><li><a href="http://bigpondmovies.com/movies/trailers/?ref=Net-Head-Movies-DLDs-Trailers">Trailers</a></li><li><a href="http://bigpondmovies.com/iptv/?ref=Net-Head-Movies-DLDs-IPTV">BigPond Movies on TV</a></li><li><a href="http://bigpondmovies.com/mobile/mom">Movies on Mobile</a></li></ul></li><li><a class="bphf-trigger" href="http://bigpondgames.com/?ref=Net-Head-Games">Games</a><ul><li><a class="bphf_section" href="http://www.gamearena.com.au/shop/?ref=Net-Head-Games-Shop">Games Shop</a></li><li><a href="http://gamearena.com.au/shop/games/?ref=Net-Head-Games-Shop-Free">Free Trial &amp; Buy Games </a></li><li><a href="http://gamearena.com.au/shop/webgames/?ref=Net-Head-Games-Shop-Play">Web Games</a></li><li><a class="bphf_section" href="http://www.gamearena.com.au/shop/mobile/?ref=Net-Head-Games-Mobile">Mobile Games</a></li><li><a class="bphf_section" href="http://gamearena.com.au/?ref=Net-Head-Games-GA">GameArena</a></li><li><a href="http://gamearena.com.au/news/?ref=Net-Head-Games-GA-News">News &amp; Features</a></li><li><a href="http://gamearena.com.au/reviews/?ref=Net-Head-Games-GA-Reviews">Reviews</a></li><li><a href="http://gamearena.com.au/videos/?ref=Net-Head-Games-GA-Videos">Videos</a></li><li><a href="http://www.gamearena.com.au/downloads/?ref=Net-Head-Games-GA-Downloads">Downloads</a></li><li><a href="http://gamearena.com.au/forums/?ref=Net-Head-Games-GA-Forums">Forums</a></li><li><a href="http://gamearena.com.au/ladders/?ref=Net-Head-Games-GA-Ladders">Ladders &amp; Servers</a></li><li><a href="http://www.gamearena.com.au/shop/servers/?ref=Net-Head-Games-GA-Server">Server Rentals</a></li><li><a href="http://gamearena.com.au/competitions/?ref=Net-Head-Games-GA-Competitions">Competitions</a></li><li><a class="bphf_section" href="http://www.gamearena.com.au/shop/games/promotions/little-space-heroes.php?ref=Net-Head-Games-Little-Space-Heroes">Kids</a></li><li><a href="http://www.gamearena.com.au/shop/games/promotions/little-space-heroes.php?ref=Net-Head-Games-Little-Space-Heroes">Little Space Heroes</a></li></ul></li><li><a class="bphf-trigger" href="http://shop.bigpond.com/?ref=Net-Head-Shop">Shopping</a><ul><li><a class="bphf_section" href="http://shop.bigpond.com/?ref=Net-Head-Shop-BPShop">BigPond Shopping</a></li><li><a href="http://shop.bigpond.com/Category.asp?GID=15&amp;ref=Net-Head-Shop-Daily">Daily Offers</a></li><li><a href="http://shop.bigpond.com/Category.asp?CTID=6&amp;ref=Net-Head-Shop-Audio">Audio Visual</a></li><li><a href="http://shop.bigpond.com/Category.asp?CTID=14&amp;ref=Net-Head-Shop-Electrical">Electrical</a></li><li><a href="http://shop.bigpond.com/Category.asp?CTID=20&amp;ref=Net-Head-Shop-Gadgets">Gifts &amp; Gadgets</a></li><li><a href="http://shop.bigpond.com/Category.asp?CTID=21&amp;ref=Net-Head-Shop-Homewares">Homewares</a></li><li><a href="http://shop.bigpond.com/Category.asp?GID=2&amp;ref=Net-Head-Shop-Free-Delivery">Free Delivery</a></li><li><a class="bphf_section" href="http://bigpondtickets.showbiz.com.au/?ref=Net-Head-Shop-Tickets">Book Tickets</a></li></ul></li><li><a class="bphf-trigger" href="http://www.tradingpost.com.au/Home?ref=intg047">Tradingpost</a><ul><li><a class="bphf_section" href="http://www.tradingpost.com.au/Sell?ref=intg048">Sell your stuff</a></li><li><a class="bphf_section" href="http://www.tradingpost.com.au/Browse/View-All">Search for bargains</a></li><li><a href="http://www.tradingpost.com.au/Automotive/Browse">Used cars</a></li><li><a href="http://www.tradingpost.com.au/Automotive/Motorbikes-ATVs/Browse">Motorbikes</a></li><li><a href="http://www.tradingpost.com.au/Boats/Browse">Boats</a></li><li><a href="http://www.tradingpost.com.au/Automotive/Caravans/Browse">Caravans</a></li><li><a href="http://www.tradingpost.com.au/Pets-Horses/Browse">Pets</a></li><li><a href="http://www.tradingpost.com.au/Garden-Outdoor-Living/Browse">Garden &amp; Outdoor</a></li><li><a href="http://www.tradingpost.com.au/Household/Furniture/Browse">Furniture</a></li><li><a href="http://www.tradingpost.com.au/DIY-Home-Renovations/Browse">Home renovation</a></li><li><a href="http://www.tradingpost.com.au/Real-Estate/Browse ">Rent &amp; Share</a></li></ul></li><li><a class="bphf-trigger" href="http://www.v8supercars.com.au/?ref=Net-Head-Cars">Cars</a><ul><li><a class="bphf_section" href="http://www.v8supercars.com.au/?ref=Net-Head-Cars-V8s">V8 Supercars</a></li><li><a href="http://www.tradingpostracing.com.au/">Trading Post Racing</a></li><li><a class="bphf_section" href="http://www.tradingpost.com.au/?ref=inta008">Trading Post</a></li><li><a href="http://www.tradingpost.com.au/Automotive/Browse">Used Cars</a></li><li><a href="https://www.tradingpost.com.au/Sell">Sell your car</a></li><li><a href="http://www.tradingpost.com.au/Automotive/Motorbikes-ATVs/Browse">Motorbikes</a></li><li><a href="http://www.tradingpost.com.au/Automotive/Trucks-Buses/Browse">Commercial vehicles</a></li><li><a href="http://www.tradingpost.com.au/Automotive/Wheels-Tyres-Parts-Accessories/Browse">Car parts &amp; accessories</a></li><li><a class="bphf_section" href="http://www.carshowroom.com.au/">Car Showroom</a></li><li><a href="http://www.carshowroom.com.au/newcars/reviews/">Car Reviews</a></li><li><a href="http://www.carshowroom.com.au/newcars/news/">Car News</a></li><li><a href="http://www.carshowroom.com.au/newcars/dealers/">Car Dealers</a></li><li><a href="http://www.carshowroom.com.au/newcars/compare/">Compare Cars</a></li><li><a class="bphf_section" href="http://www.carshowroom.com.au/">New Cars</a></li><li><a href="http://www.carshowroom.com.au/Manufacturer/list/Toyota">Toyota</a></li><li><a href="http://www.carshowroom.com.au/Manufacturer/list/Holden">Holden</a></li><li><a href="http://www.carshowroom.com.au/Manufacturer/list/Ford">Ford</a></li><li><a href="http://www.carshowroom.com.au/Manufacturer/list/Mazda">Mazda</a></li><li><a href="http://www.carshowroom.com.au/Manufacturer/list/BMW">BMW</a></li></ul></li><li><a class="bphf-trigger" href="http://go.bigpond.com/lifestyle/?ref=Net-Head-Lifestyle">Lifestyle</a><ul><li><a class="bphf_section" href="http://go.bigpond.com/health/?ref=Net-Head-Lifestyle-Health">Health</a></li><li><a href="http://virtualmedicalcentre.com/?ref=Net-Head-Lifestyle-Health-VMC">Medical Info</a></li><li><a href="http://www.virtualmedicalcentre.com/mens-health?ref=Net-Head-Lifestyle-Health-Men">Men's Health</a></li><li><a href="http://www.virtualmedicalcentre.com/womens-health?ref=Net-Head-Lifestyle-Health-Women">Women's Health</a></li><li><a href="http://go.bigpond.com/health/quit-smoking/?ref=Net-Head-Lifestyle-Health-QuitSmoking">Quit Smoking</a></li><li><a href="http://go.bigpond.com/health/weight-loss/?ref=Net-Head-Lifestyle-Health-WeightLoss">Weight Loss</a></li><li><a href="http://www.myglucohealth.com.au/?ref=Net-Head-Lifestyle-Health-Diabetes">Diabetes Management</a></li><li><a class="bphf_section" href="http://www.parenthub.com.au/?ref=Net-Head-Lifestyle-Parenting">Parenting</a></li><li><a class="bphf_section" href="http://bigpondtickets.showbiz.com.au/?ref=Net-Head-Lifestyle-Tickets">Tickets</a></li></ul></li><li><a class="bphf-trigger" href="http://media.sensis.com.au/adclick/CID=0003c4760000000000000000&amp;ref=nhf-dating">Dating</a><ul><li><a class="bphf_section" href="http://media.sensis.com.au/adclick/CID=0003c4760000000000000000&amp;ref=nhf-dating">Dating</a></li></ul></li><li><a class="bphf-trigger" href="http://realestateview.com.au/?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Property</a><ul><li><a class="bphf_section" href="http://www.realestateview.com.au/?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">realestateVIEW.com.au</a></li><li><a class="bphf_section" href="http://www.realestateview.com.au/?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Residential real estate</a></li><li><a href="http://www.realestateview.com.au/?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Buy</a></li><li><a href="http://www.realestateview.com.au/Real-Estate/Residential/Rent.html?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Rent</a></li><li><a href="http://www.realestateview.com.au/agents/?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Sell</a></li><li><a class="bphf_section" href="http://www.realestateview.com.au/Real-Estate/Commercial/Buy.html?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Commercial property</a></li><li><a class="bphf_section" href="http://www.realestateview.com.au/Real-Estate/Business/Buy.html?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Businesses for sale</a></li><li><a class="bphf_section" href="http://www.realestateview.com.au/holiday-rentals?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Holiday rentals</a></li><li><a class="bphf_section" href="http://www.realestateview.com.au/propertydata/?utm_source=Bigpond%2BHeader&amp;utm_medium=Bigpond%2BHeader&amp;utm_campaign=Bigpond%2BHeader">Property data</a></li><li><a class="bphf_section" href="http://www.bigpondmoney.com.au/home-property/?ref=Net-Head-Property-Home">Home &amp; property</a></li></ul></li></ul><br class="bphf-clear"></div><div id="bphf-wrap"><!--[if lte IE 6.5]><iframe id="bphf-fx" src="/bphf/header/fx.html" scroll="no"></iframe><![endif]--><ul id="bphf-menu"><li><a class="bphf-trigger" href="http://www.telstra.com.au/?ref=Net-Head-Telstra">Telstra</a><ul><li><a href="http://www.telstra.com.au/personal/?ref=Net-Head-Telstra-Personal">Personal</a></li><li><a href="http://www.telstrabusiness.com/business/?ref=Net-Head-Telstra-Bus">Business</a></li><li><a href="http://www.telstraenterprise.com/Pages/Home.aspx?ref=Net-Head-Telstra-EntGov">Enterprise &amp; Government</a></li><li><a href="http://www.telstra.com.au/abouttelstra/index.cfm?tR=1&amp;ref=Net-Head-Telstra-About">About Telstra</a></li></ul></li><li><a class="bphf-trigger" href="http://go.bigpond.com/home/index.jsp?ref=Net-Head-BP">BigPond</a><ul><li><a href="http://go.bigpond.com/broadband/?ref=Net-Head-BP-Internet">Internet</a></li><li><a href="http://bigpondvideo.com/?ref=Net-Head-BP-TV">Video</a></li><li><a href="http://www.bigpondnews.com/?ref=Net-Head-BP-News">News</a></li><li><a href="http://bigpondsport.com/?ref=Net-Head-BP-Sport">Sport</a></li><li><a href="http://bigpondmusic.com/?ref=Net-Head-BP-Music">Music</a></li><li><a href="http://bigpondmovies.com/?ref=Net-Head-BP-Movies">Movies</a></li><li><a href="http://www.gamearena.com.au/shop/?ref=Net-Head-BP-Games">Games</a></li><li><a href="http://shop.bigpond.com/?ref=Net-Head-BP-Shop">Shopping</a></li><li><a href="http://www.bigpond.com/mobile/?ref=Net-Head-BP-Mobile">Mobile</a></li></ul></li><li><a class="bphf-trigger" href="http://go.bigpond.com/help/?ref=Net-Head-Help-Overview">Help</a><ul><li><a href="http://go.bigpond.com/help/email/?ref=Net-Head-Help-Email">Email</a></li><li><a href="http://go.bigpond.com/help/technical_support/?ref=Net-Head-Help-Tech">Technical Support</a></li><li><a href="http://go.bigpond.com/help/manage_your_usage/?ref=Net-Head-Help-Manageusage">Manage Your Usage</a></li><li><a href="http://go.bigpond.com/help/billing_and_account_management/?ref=Net-Head-Help-Billing-and-Accounts">Billing &amp; Accounts</a></li><li><a href="http://go.bigpond.com/help/new_to_bigpond/?ref=Net-Head-Help-NewtoBP">New to BigPond</a></li><li><a href="http://go.bigpond.com/help/security/?ref=Net-Head-Help-Security">Security</a></li><li><a href="http://go.bigpond.com/help/moving_home/?ref=Net-Head-Help-Moving-Home">Moving Home</a></li><li><a href="http://servicestatus.bigpond.com/">Service Status</a></li><li><a href="http://go.bigpond.com/help/contact_us/?ref=Net-Head-Help-Contact">Contact Us</a></li><li><a href="http://crowdsupport.telstra.com/?ref=Net-Head-Help-Crowd">Crowd Support</a></li></ul></li><li><a class="bphf-trigger" href="http://www.sensis.com.au/?ref=Net-Head-Dir">Directories</a><ul><li><a href="http://www.sensis.com.au/?ref=Net-Head-Dir-Sensis">Sensis Search </a></li><li><a href="http://www.yellowpages.com.au/?ref=Net-Head-Dir-Yellow">Yellow<sup>™</sup></a></li><li><a href="http://whitepages.com.au/wp/?ref=Net-Head-Dir-White">White Pages®</a></li><li><a href="http://www.tradingpost.com.au/?ref=Net-Head-Dir-TP">Trading Post®</a></li><li><a href="http://www.whereis.com/?ref=Net-Head-Dir-Whereis">Whereis®</a></li><li><a href="http://www.citysearch.com.au/?ref=Net-Head-Dir-CitySearch">CitySearch<sup>™</sup></a></li><li><a href="http://www.gostay.com.au/?ref=Net-Head-Dir-GoStay">GoStay®</a></li><li><a href="http://www.carshowroom.com.au/?ref=Net-Head-Dir-Car">Car Showroom</a></li></ul></li></ul><br class="bphf-clear"><form name="bphf-searchForm" id="bphf-searchForm" method="get" action="javascript:return bphf_submitSearch()" onsubmit="return bphf_submitSearch()"><div id="bphf-search-field"><fieldset id="bphf-search-fieldset"><input type="text" name="find" id="bphf-findQuery" onfocus="if (this.value == 'Search Telstra' || this.value == 'Search BigPond' || this.value == 'Web search by Google') {this.value='';}" value="Web search by Google"><script type="text/javascript"><!--
-document.write('<a href="javascript:bphf_submitSearch()" onclick="bphf_searchOmniture(this)"><img src="/bphf/res/img/sin.gif" id="bphf-search-submit" width="34" height="16" /></a>');//--></script><a href="javascript:bphf_submitSearch()" onclick="bphf_searchOmniture(this)"><img src="/bphf/res/img/sin.gif" id="bphf-search-submit" width="34" height="16"></a><noscript><div class="bphf-div"><input type="image" name="submit" title="Go" value="Go" src="/bphf/res/img/bt_go.gif"></div></noscript></fieldset></div><div id="bphf-wrap2"><!--[if lte IE 6.5]><iframe id="bphf-fx2" src="/bphf/header/fx.html" scroll="no"></iframe><![endif]--><ul id="bphf-menu2"><li class="bphfs bphfnr bphfs-arrow_dark"><a class="bphf-trigger" href="javascript:void(0);"><img id="bphf-selected" src="https://web.archive.org/bphf/res/img/search_sensis.gif" width="14" height="14" alt="Search Selector"></a><ul><li class="bphfs-search_sensis bphfs bphfnr"><a onclick="bphf_setSearch(1);">Web search by Google</a></li><li class="bphfs-search_bigpond bphfs bphfnr"><a onclick="bphf_setSearch(2);">Search BigPond</a></li><li class="bphfs-search_telstra bphfs bphfnr"><a onclick="bphf_setSearch(3);">Search Telstra</a></li></ul></li></ul></div></form><div id="bphf-none"><form name="bigpondSearchForm" id="bigpondSearchForm" method="get" action="http://www.telstrasearch.com/bigpond/searchBigpond.abc"><fieldset><input type="hidden" name="domainName" value="BigPondcom"><input type="hidden" name="domainProfile" value="BigPondjsp"><input type="hidden" name="CategorySelect" value="No"><input type="hidden" name="inpSearch" id="bigpondSearchFormField"></fieldset></form><form name="webSearchForm" id="webSearchForm" method="get" action="http://www.sensis.com.au/search.do"><fieldset><input type="hidden" name="location" value=""><input type="hidden" name="searchIndex" value="australia"><input type="hidden" name="partnerid" value="bigpond"><input type="hidden" name="find" value="" id="webSearchFormField"></fieldset></form><form name="telstraSearchForm" id="telstraSearchForm" action="http://www.telstra.com.au/search/simple-search/index.htm" method="get"><fieldset><input type="hidden" name="requestSiteId" value="personal"><input type="hidden" name="searchFormSubmited" value="Yes"><input type="hidden" name="inpSearch" value="" id="telstraSearchFormField"></fieldset></form></div></div></div></div><div style="display:none" id="#bphf-content"></div><!--googleon: index--></div><script type="text/javascript" xmlns="http://www.w3.org/1999/xhtml"><!--
-document.getElementById('bphf-searchForm').action='javascript:return bphf_submitSearch()';bphf_setSearch(1);bphf_Menu();//--></script>
-				</div>
-				<script type="text/javascript">
-					<!--
-					var bphfOnclickPrefix="BP-VMC-";
-					//-->
-				</script>
-			
 	
 </body></html>
