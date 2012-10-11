@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505055733id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011202148id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MyMovingReviews
 
-The bottom line is that MyMovingReviews will NOT release your personal information without your consent when you write a moving review. We will use the information you submit in the quick moving quote form, the free moving calculator form or the cost calculator form **and provide it to professional moving companies** that will contact you to provide you with your moving estimate and moving cost calculation.
+Effective date: 8/29/2012
+
+The bottom line is that MyMovingReviews, owned and operated by World Media Group LLC, will NOT release your personal information without your consent when you write a moving review. We will use the information you submit in the quick moving quote form, the free moving calculator form or the cost calculator form **and provide it to professional moving companies** that will contact you to provide you with your moving estimate and moving cost calculation on our web site www.mymovingreviews.com.
+
+MyMovingReviews has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site http://www.mymovingreviews.com and does not cover information that may be collected through our mobile applications.
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@mymovingreviews.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 Earning the trust of our users is one of MyMovingReviews’s primary goals. We take your privacy very seriously, and we want you to feel absolutely comfortable using our site. Our Privacy Policy answers the following general questions:
 
-**What information do you collect, how is it collected and how do you use it?  
+**What information do you collect, how is it collected and how do we use it?  
 How is my privacy protected when I leave comments?  
 How will I know if you change your privacy policy?  
 What kind of security measures do you take?  
@@ -23,21 +29,34 @@ First, if you want to review a moving company, we will ask you to provide some p
 
 We also collect log files that identify information such as IP address, browser type, domain name, referral URL, country of origin, pages visited, entry points, and exit points.
 
-We plan that, from time to time, we will provide certain companies (like our advertisers) with aggregated user information. We will NOT give advertisers your personal information about you without your specific authorization to do so, except when filling the quick quote form or the free moving calculator form or the cost calculator. While we don't do it now, we expect that one day other businesses may ask us to do things like "broker" on-line focus groups, in which we may invite some users to participate (if they have chosen to be notified of those opportunities).
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+
+We plan that, from time to time, we will provide certain companies (like our advertisers) with aggregated user information. We will NOT give advertisers your personal information about you without your specific authorization to do so, except when filling the quick quote form or the free moving calculator form or the cost calculator.
+
+We may also provide your personal information to companies that provide services to help us with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 When the quick moving quote form or the free moving calculator form or the cost calculator is filled, the information is forwarded to partnering moving companies and moving brokers that will use the information you have submitted to provide you with commercial information. The moving reviews information and the quick quote form information are not linked and are two totally separate types of information collected and saved in separate places.
 
 From time to time we create co-branded or private label versions of our web site for third parties. A co-branded or private label version of our web site will bear the trademark or service mark, and perhaps the "look and feel", of the third party sponsor ("Co-Brand Sponsor") whose link brought you to our site. Personal information collected during the registration process from users of co-branded and private label versions of our web site will be shared with the relevant Co-Brand Sponsor. We require that each Co-Brand Sponsor commit to us that its collection and use of personal information shall be no less protective of users' privacy than permitted by this Privacy Policy, as modified from time to time. However, while we strive to associate with other businesses who value your privacy, we are not responsible for the privacy practices of the Co-Brand Sponsors. You may wish to review those sites' privacy policies.
 
-We also track the website visitors through cookies for analytical and statistical purposes. This tracking is not tied to any personal information and cannot uniquely identify you. We also use Google Site Stats conversion tracking on all moving quote forms, estimate forms and calculator forms, as well as register company pages and write a review pages. The Google Site Stats tracking is used to better target ads in the Google Display Network (also called as Retargeting or Remarketing) as well as measuring the number of form fills. This information cannot be used to personally identify you.
+We use cookies on this site. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We track website visitors through cookies for analytical and statistical purposes. This tracking is not tied to any personal information and cannot uniquely identify you. We also use Google Site Stats conversion tracking on all moving quote forms, estimate forms and calculator forms, as well as register company pages and write a review pages. The Google Site Stats tracking is used to better target ads in the Google Display Network (also called as Retargeting or Remarketing) as well as measuring the number of form fills. This information cannot be used to personally identify you.
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:  
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information. 
 
 If you are moving company and apply for a moving company account, please read the next chapter.
 
-Of course, notwithstanding anything in this policy to the contrary, we will provide personal information if we are or believe that we are legally required to do so pursuant to a subpoena, warrant, other legal method or applicable law. 
+Of course, notwithstanding anything in this policy to the contrary, we will provide personal information if we are or believe that we are legally required to do so pursuant to a subpoena, warrant, other legal method or applicable law, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, to any other third party with your prior consent to do so.
 
 ## 2\. How is my privacy protected?
 
-One of the great features of MyMovingReviews is that we allow you, as a user, to leave comments messages and written reviews, not just ratings, so you can explain your opinions in some detail. Please remember that when you post your comments they are publicly available, so you should exercise caution when deciding to disclose anything personal about yourself. This includes your e-mail address. Many of our users like to leave their e-mail addresses with their reviews message. That way others can e-mail them if they want to discuss the moving company or the specific move. You should realize that you are not obligated to attach your email address. 
+One of the great features of MyMovingReviews is that we allow you, as a user, to leave comments messages and written reviews, not just ratings, so you can explain your opinions in some detail. Please remember that when you post your comments they are publicly available, so you should exercise caution when deciding to disclose anything personal about yourself. This includes your e-mail address. Many of our users like to leave their e-mail addresses with their reviews message. That way others can e-mail them if they want to discuss the moving company or the specific move. You should realize that you are not obligated to attach your email address. To request removal of your personal information from a review, contact us at info@mymovingreviews.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 When you respond to a moving review (send a message to the reviewer), the information you enter is sent to the reviewer. We cannot guarantee how the reviewer will handle this information. 
 
@@ -47,7 +66,7 @@ California has passed legislation requiring certain specific disclosures be made
 
 ## 3\. How will I know if you change your privacy policy?
 
-This privacy policy may be revised over time as new features are added to the Web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+This privacy policy may be revised over time as new features are added to the Web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If we are going to use your personal information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 ## 4\. What kind of security measures do you take?
 
@@ -55,23 +74,30 @@ Any information you provide, other than information you chose to provide and mak
 
 ## 5\. What are the limits of your Privacy Policy?
 
-The MyMovingReviews Web site contains hyperlinks and advertisements that, if activated in the manner provided by your browser, will cause your browser to access and display the contents of other Web sites. MyMovingReviews does not control or have any knowledge concerning the provisions of the privacy policies, if any, of those sites. Accordingly, MyMovingReviews is not responsible for the privacy practices or any of the content of those Web sites and MyMovingReviews’s Privacy Policy does not apply to those other sites. If you choose to activate a hyperlink to another Web site, you do so at your own risk and you may wish to review that site’s privacy policy.
+The MyMovingReviews web site contains hyperlinks and advertisements that, if activated in the manner provided by your browser, will cause your browser to access and display the contents of other Web sites. MyMovingReviews does not control or have any knowledge concerning the provisions of the privacy policies, if any, of those sites. Accordingly, MyMovingReviews is not responsible for the privacy practices or any of the content of those web sites and MyMovingReviews’s Privacy Policy does not apply to those other sites. If you choose to activate a hyperlink to another web site, you do so at your own risk and you may wish to review that site’s privacy policy.
 
-## 6\. How can I change my personal information?
+## 6\. How can I change or delete my personal information?
 
-Users can modify their personal information entered when writing a review by sending an email to [info@mymovingreviews.com](mailto:info@mymovingreviews.com). The information entered in the free moving quote form or the free moving calculator form or the cost calculator form cannot be modified because it is already submitted to the moving companies that prepare the moving quotes, moving estimates and the approximate moving cost calculations. The personal information entered in the free moving quote form or the free moving calculator form or the cost calculator form is used by the moving companies to contact you with the results of the moving estimate. You might be able to change that information by contacting every moving company that have contacted you.
+Users can modify or delete their personal information entered when writing a review by sending an email to [info@mymovingreviews.com](mailto:info@mymovingreviews.com). The information entered in the free moving quote form or the free moving calculator form or the cost calculator form cannot be modified because it is already submitted to the moving companies that prepare the moving quotes, moving estimates and the approximate moving cost calculations. The personal information entered in the free moving quote form or the free moving calculator form or the cost calculator form is used by the moving companies to contact you with the results of the moving estimate. You might be able to change or remove that information by contacting every moving company that have contacted you.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 7\. Advertising
 
-On this website are served behavioral Ads through the Google Adsense network. Behavioral ads are based on anonymous data collected on how a user's computer browses the Internet, including websites visited, searches made, and content read.
+On this website are served behavioral Ads through the Google Adsense network. Behavioral ads are based on anonymous data collected on how a user's computer browses the Internet, including websites visited, searches made, and content read. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preference-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-## 8\. Links to Other Sites.
+When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
-There are links in this website that point to other websites. Visitors should review the privacy policies on any other website other than mymovingreviews.com. We have no responsibility for the policies and practices of these sites.
+## 8\. Social Media Widgets
+
+Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 ## 9\. What if I have more questions?
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send an email to [info@mymovingreviews.com](mailto:info@mymovingreviews.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send an email to [info@mymovingreviews.com](mailto:info@mymovingreviews.com), or contact us at the address below.   
+World Media Group, LLC  
+PO Box 204,  
+Pinehurst, MA, 01866
 
 ## 10\. How can I be sure that you adhere to your Privacy Policy?
 
