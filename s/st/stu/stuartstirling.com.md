@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuartstirling.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020105id_/http%3A//stuartstirling.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartstirling.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011120022id_/http%3A//stuartstirling.com/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # www.StuartStirling.com | Privacy Policy
 
