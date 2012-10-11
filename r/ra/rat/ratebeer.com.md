@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the ratebeer.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505100549id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratebeer.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011041943id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # RateBeer.com -- Privacy Policy
 
-  
+[ Home](https://web.archive.org/) > [About RateBeer](https://web.archive.org/About.asp) >
 
-
-We want you to know that it is a priority at RateBeer.com to keep all personal information in the strictest confidence.  We dislike SPAM (unsolicited email) as much as anyone else and so we don't do it, we don't promote it, and we won't assist it. 
+We want you to know that it is a priority at RateBeer.com to keep all personal information in the strictest confidence.  We dislike SPAM (unsolicited email) as much as anyone else and so we don't create SPAM, we don't help other people generate SPAM, and we won't share your information in any way that might possibly result in your receiving SPAM. 
 
   1. Your private information will only be used for RateBeer.com transactions, such as login, RateBeer communication and newsletters sent to you. 
   2. We will never expose your email address on the site -- Internet 'spiders' have been known to use posted email addresses to create mailing lists. 
@@ -15,4 +14,14 @@ We want you to know that it is a priority at RateBeer.com to keep all personal i
 
 
 
-So with that settled, let's get back down to business. Drinking beer!
+So with that settled, let's get back down to business... Drinking beer!
+
+  
+
+
+Copyright © 2000-2012,  
+RateBeer LLC. All rights  
+reserved.
+
+  
+
