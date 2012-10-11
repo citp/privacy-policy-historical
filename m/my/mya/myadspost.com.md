@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myadspost.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624100352id_/http%3A//www.myadspost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadspost.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011085951id_/http%3A//www.myadspost.com/privacy.php) for the most accurate reproduction.*
 
-# MyADSPost.com - Free Articles for Reprint. Free Articles for your web site.
+# MyADSPost.com - Submit your articles for massive exposure, Sign-up Now for Free!
 
 Article Directory Privacy Policy
 
