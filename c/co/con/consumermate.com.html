@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the consumermate.com privacy policy that was archived on 2012-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521031842id_/http%3A//www.consumermate.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the consumermate.com privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011213421id_/http%3A//www.consumermate.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -12,10 +12,13 @@
 <meta property="fb:page_id" content="108031309215227">
 <link href="css/innerPage_wide.css" rel="stylesheet" type="text/css">
 <link href="css/hoverbox.css" rel="stylesheet" type="text/css">
+
+
+
 <!--[if lte IE 6]>
 <link href="css/IE6.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="gaAddons-2.1.2.min.js"></script><script type="text/javascript" language="javascript1.2" src="javascript/userCommon.js.php?mode=&amp;Sess_Mylist=&amp;page=/cms_details.php"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript1.2" src="javascript/userCommon.js.php?mode=&amp;Sess_Mylist=&amp;page=/cms_details.php"></script>
 <script type="text/javascript" language="javascript1.2" src="javascript/innerPage.js"></script>
 <!--<script type="text/javascript" src="javascript/calendar.js" ></script>
 <script type="text/javascript" src="javascript/calendar-en.js" ></script>-->
@@ -58,12 +61,13 @@ function fnSearch()
 
 
 
-<!--<script type="text/javascript">
+
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-6837923-1']);
   _gaq.push(['_trackPageview']);
-
+  setTimeout("_gaq.push(['_trackEvent', '45_seconds', 'read'])",45000);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -71,29 +75,6 @@ function fnSearch()
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>-->
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6837923-1']);
-  _gaq.push(['_trackPageview']);
-
-   var gaAddons = gaAddons || [];
-   gaAddons.push(
-      ['_trackOutbound'],
-      ['_trackDownloads'],
-      ['_trackMailto'],
-      ['_trackRealBounce']
-      );
-
-   (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  
-     var gaAddons = document.createElement('script'); gaAddons.type = 'text/javascript'; gaAddons.async = true;
-	  gaAddons.src = 'gaAddons-2.1.2.min.js';
-      s.parentNode.insertBefore(gaAddons, s);
-   })();
 </script>
 
 
@@ -147,6 +128,8 @@ GA_googleAddSlot("ca-pub-6549793407717263", "CM300x900");
 GA_googleAddSlot("ca-pub-6549793407717263", "CM300x900right");
 GA_googleAddSlot("ca-pub-6549793407717263", "CM_innerpages_catfish_left");
 GA_googleAddSlot("ca-pub-6549793407717263", "CM_innerpages_catfish_right");
+GA_googleAddSlot("ca-pub-6549793407717263", "CM_144x38_Right");
+GA_googleAddSlot("ca-pub-6549793407717263", "CM_144x38_left");
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
@@ -316,16 +299,38 @@ Did you finalize your gift...? Check out <a href="http://www.consumermate.com">C
 <!--header part start -->
 <div id="header">
   <h1><a href="http://www.consumermate.com/" title="Consumermate.com- Privacy Policy"><img src="images/logo.gif" alt="Consumermate.com- Privacy Policy" title="Consumermate.com- Privacy Policy" class="logo" width="238" height="52"></a></h1>
-  <h1>Find<span>&nbsp;</span>Compare<span>&nbsp;</span>Get Offers
+   <h1>Find<span>&nbsp;</span>Compare<span>&nbsp;</span>Get Offers
     <!--<span class="greenTxt">on</span> <span class="symbol"> ptops</span> -->
   </h1>
   <ul class="top_links">
-    <li class="home"><a href="laptops.html" title="Home">Home</a></li>
+  
+  <li style="margin-top:-10px">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="jquery.oauthpopup.js"></script>
+<script>
+$(document).ready(function(){
+    $('#connect').click(function(){
+        $.oauthpopup({
+            path: 'loginfacebook.php?login&oauth_provider=facebook',
+            callback: function(){
+                window.location.reload();
+            }
+        });
+    });
+});
+</script>
+
+
+ <img src="http://www.consumermate.com/images/facebooklogo.gif" alt="Login to facebook" title="Login to facebook" id="connect" style="cursor:pointer">
+
+</li>
+    <!--<li class="home"><a href="laptops.html" title="Home">Home</a></li>
     <li>|</li>
         <li class="login"><a href="login.php" rel="nofollow">Login</a></li>
         <li>|</li>
         <li class="rest_icon"><a href="registration.php" rel="nofollow">Register</a></li>
-        <li>|</li>
+        <li>|</li>-->
     <!--<li class="feed"><a href="#" onclick="javascript: change_visibility(); return false;" title="Feedback"><img src="images/feedback.gif" border="0" /></a></li> -->
    <li class="rest_icon"><a href="feedback.html" title="Feedback" rel="nofollow">Feedback</a></li>
     <li class="feed"><a href="laptops-rss.xml" title="RSS" target="_blank"><img src="images/RSS_Icon.png" border="0" alt="feedback" title="RSS"></a></li>
@@ -346,7 +351,7 @@ Did you finalize your gift...? Check out <a href="http://www.consumermate.com">C
     <input type="hidden" name="cx" value="partner-pub-6549793407717263:tzoimo-xppe">
     <input type="hidden" name="cof" value="FORID:11">
     <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="20" id="txtSearch" value="Type here to search" onclick="fnSearch()" onblur="fnOnBlur()">
+    <input type="text" name="q" size="30" id="txtSearch" value="Type here to search" onclick="fnSearch()" onblur="fnOnBlur()">
     <input type="submit" name="sa" value="Search" style="color:#666666; background-color:#CCC">
   </div>
 </form>
@@ -359,10 +364,8 @@ Did you finalize your gift...? Check out <a href="http://www.consumermate.com">C
         <li> <a href="mobile-phones.html" title="Mobile" id="tab13"><b>Mobiles</b></a> </li>
         <li> <a href="tablets.html" title="Tablet" id="tab18"><b>Tablets</b></a> </li>
         <li> <a href="digital-cameras.html" title="Digital Camera" id="tab16"><b>Digital Cameras</b></a> </li>
-        <li> <a href="lcd-plasma-tvs.html" title="LCD/Plasma TV" id="tab14"><b>LCD/Plasma TVs</b></a> </li>
-        <li> <a href="mp3-players.html" title="MP3 Player" id="tab15"><b>MP3 Players</b></a> </li>
-             <li><a href="http://www.consumermate.com/laptops/accessories.html" title="accessories"><b>Accessories</b></a></li>
-          </ul>
+        
+      </ul>
   <!-- bof New Added section 03 Jul 09 -->
 </div>
 <!--header part end -->
@@ -374,9 +377,7 @@ Did you finalize your gift...? Check out <a href="http://www.consumermate.com">C
       Compare Models</a> </li>
         <li> <a href="http://www.consumermate.com/laptops/rating.php" class=" ">
       Test Center Ratings</a> </li>
-        <li> <a href="http://www.consumermate.com/laptops/user-rating.php " class=" ">
-      User Reviews</a> </li>
-        <li> <a href="http://www.consumermate.com/laptops/survey.php?mode=survey" class=" active  ">
+        <li> <a href="http://www.consumermate.com/laptops/survey.php?mode=survey" class=" ">
       Laptop Guru</a> </li>
         <li> <a href="http://www.consumermate.com/laptops/know-the-basics.html" class=" " rel="dropmenu253">
       Know The Basics </a> </li>
@@ -390,12 +391,10 @@ Did you finalize your gift...? Check out <a href="http://www.consumermate.com">C
       Ask Experts </a> </li>
         <li> <a href="http://www.consumermate.com/laptops/online-stores.php " class=" " rel="dropmenu272">
       Online Stores </a> </li>
-        <li> <a href="http://www.consumermate.com/laptops/accessories.html" class=" no_sep " rel="dropmenu364">
-      Accessories </a> </li>
+        <li> <a href="http://www.consumermate.com/best-buy.php" class=" no_sep ">
+      Best Buy</a> </li>
       </ul>
   <br class="specer">
-    	
-  	
     	
   	
     	
@@ -431,14 +430,10 @@ Did you finalize your gift...? Check out <a href="http://www.consumermate.com">C
     	
     <!--drop down menu -->
   <div id="dropmenu272" class="dropmenudiv">
-    <div>  <a href="http://www.consumermate.com/laptops/flipkart_store.php">Flipkart.com</a>  <a href="http://www.consumermate.com/laptops/tradus_store.php">Tradus.in</a>  <a href="http://www.consumermate.com/laptops/infibeam_store.php">Infibeam</a>  </div>
+    <div>  <a href="http://www.consumermate.com/laptops/ebay_store.php">eBay.in</a>  <a href="http://www.consumermate.com/laptops/flipkart_store.php">Flipkart.com</a>  <a href="http://www.consumermate.com/laptops/infibeam_store.php">Infibeam</a>  </div>
   </div>
   	
     	
-    <!--drop down menu -->
-  <div id="dropmenu364" class="dropmenudiv">
-    <div>  <a href="http://www.consumermate.com/laptops/accessories/pendrive_23.html">Pendrive</a>  <a href="http://www.consumermate.com/laptops/accessories/webcam_24.html">Webcam</a>  <a href="http://www.consumermate.com/laptops/accessories/mouse_26.html">Mouse</a>  <a href="http://www.consumermate.com/laptops/accessories/headset_27.html">Headset</a>  <a href="http://www.consumermate.com/laptops/accessories/external-hard-disk_30.html">External Hard Disk Drive</a>  <a href="http://www.consumermate.com/laptops/accessories/speaker_31.html ">Speaker</a>  <a href="http://www.consumermate.com/laptops/accessories/battery_32.html ">Battery</a>  </div>
-  </div>
   	
    
   
@@ -485,7 +480,7 @@ GA_googleFillSlot("cmate-header-leaderboard");
      <div id="breadcom" style="margin-top:5px">
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td align="left" valign="top"><span class="breadcomLeft"><div style="padding-top:5px"><a href="http://www.thinkdigit.com/track/asusdesktop.html?utm_source=asus&amp;utm_medium=CM&amp;utm_campaign=AsusCM" target="_blank" rel="nofollow"><img src="http://www.consumermate.com/images/asus-text-ad.gif" alt="Asus Laptops" border="0"></a></div></span></td>
+          <td align="left" valign="top"><span class="breadcomLeft"><div style="padding-top:5px"><a href="http://www.thinkdigit.com/tracker/scandisk-sep.html?utm_source=CM&amp;utm_medium=TextAd&amp;utm_campaign=Scandisk" target="_blank" rel="nofollow"><img src="http://www.consumermate.com/images/sandisk.gif" alt="Keep your data safe even when lost | Click Here to know more..." border="0"></a></div></span></td>
           <td width="7" align="right" valign="top"><span class="breadcomRight"></span></td>
         </tr>
       </tbody></table>
@@ -622,7 +617,55 @@ GA_googleFillSlot("cmate-header-leaderboard");
 </style>
 <link rel="stylesheet" type="text/css" href="http://www.consumermate.com/tabber/tab-view.css">
 <div id="innerright">
+ 
 
+
+ 
+   <ul class="blockContainer">
+    <li class="inner_rightBlock">
+        <table width="300" border="0" cellspacing="3" cellpadding="0" style="border:#e2e2e2 1px solid; padding:5px">
+  <tbody><tr>
+    <td colspan="2" align="left" style="font-family:Arial; font-size:12px; color:#1B8AC9; font-weight:bold">Top Brands</td>
+  </tr>
+  <tr>
+    <td width="48%" align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-dell-laptops.html">Dell Laptops</a></p></td>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-hcl-laptops.html">HCL Laptops</a></p></td>
+  </tr>
+  <tr>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-apple-laptops.html">Apple Laptops</a></p></td>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-hp-laptops.html">HP Laptops</a></p></td>
+  </tr>
+  <tr>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-samsung-laptops.html">Samsung Laptops</a></p></td>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-toshiba-laptops.html">Toshiba Laptops</a></p></td>
+  </tr>
+  <tr>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-lenovo-laptops.html">Lenovo Laptops</a></p></td>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-sony-laptops.html">Sony Laptops</a></p></td>
+  </tr>
+  <tr>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-acer-laptops.html">Acer Laptops</a></p></td>
+    <td align="left" class="featuredArticleBdyTxt"><p class="view"><a href="http://www.consumermate.com/laptops/best-asus-laptops.html">Asus Laptops</a></p></td>
+  </tr>
+</tbody></table>
+    </li> <li class="inner_rightBlock"> &nbsp; </li>
+    </ul>
+    
+    
+<!--<ul class="blockContainer">
+    <li class="inner_rightBlock">
+        <table width="300" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="50%" ><script type='text/javascript'>
+GA_googleFillSlot("CM_144x38_Right");
+</script></td>
+   <td align="left" ><script type='text/javascript'>
+GA_googleFillSlot("CM_144x38_left");
+</script></td>
+  </tr>
+</table>
+    </li> <li class="inner_rightBlock"> &nbsp; </li>
+    </ul>-->
 <!---First Square -->
               <ul class="blockContainer">
                 <li class="inner_rightBlock"></li>
@@ -635,97 +678,7 @@ GA_googleFillSlot("CM-300-250");
          
  
 
-    
     <ul class="blockContainer">
-    <li class="inner_rightBlock">
-    
-    <table width="100%" border="0" cellspacing="5" cellpadding="0" style="border:#e2e2e2 1px solid">
-
-<tbody><tr><td style="font-family:arial; font-size:12px; font-weight:bold">Digit Contests</td></tr>
-  <tr>
-    <td colspan="2" style="font-family:arial; font-size:10px;"><a href="http://devworks.thinkdigit.com/contest/samsung-app-race/?utm_source=contest&amp;utm_medium=contest&amp;utm_campaign=contest-index" target="_blank" style="color:#666666"> <span style="color:#09C; font-weight:bold">Samsung App Race Contest</span><br>
-      Develop an innovative S Pen App and Win Rs. 2.5 Lakh  and more...</a></td>
-    </tr>
-  <tr>
-    <td style="height:2px; background:#dddbda"></td>
-
-
-  </tr>
-  <tr>
-    <td colspan="2" style="font-family:arial; font-size:10px;"><a href="http://devworks.thinkdigit.com/devworxaleck/?utm_source=contest&amp;utm_medium=contest&amp;utm_campaign=contest-cmindex" style="color:#666666;" target="_blank" rel="nofollow"><span style="color:#09C; font-weight:bold">devworx Aleck Contest</span><br>
-      Participate now and win exciting prizes like Sony Ericsson Xperia neo V, HCL ME Tablet U1, 8 GB Pen Drive many more.</a></td>
-    </tr>
-  <tr>
-
-    <td style="height:2px; background:#dddbda"></td>
-    
-  </tr>
-  <tr>
-    <td style="font-family:arial; font-size:10px;"><a href="http://www.thinkdigit.com/gpu-guru/gpu-quiz/?utm_source=contest&amp;utm_medium=contest&amp;utm_campaign=contest-index" style="color:#666666;" target="_blank"><span style="color:#09C; font-weight:bold">GPU GURU Contest</span><br>
-      Digit brings you a chance to prove your expertise in GPU field and get a chance to work at Digit Test Lab.</a></td>
-    </tr>
-</tbody></table>
-    </li> <li class="inner_rightBlock"> &nbsp; </li>
-    </ul>
-    
-    <!-- Second ad -->
-               <ul class="blockContainer">
-                <li class="inner_rightBlock">
-                <script type="text/javascript">
- GA_googleFillSlot("CM-SquareAd-Second");
-</script>
-                </li> <li class="inner_rightBlock"> &nbsp; </li>
-            </ul>
-        
-    
-                 <!-- Newsletter strip Start-->
- <ul class="blockContainer">
-    <li class="inner_rightBlock">
-	<a href="http://www.consumermate.com/newsletter.php" target="_blank"><img src="http://www.consumermate.com/images/newsletter_new.gif" border="0" alt="Receive exclusive deals, best offers
-and get updates on new and popular products on personal technology"></a>
-	</li> <li class="inner_rightBlock"> &nbsp; </li>
-    </ul>
-     <!-- Newsletter strip End-->
-    <!-- Third ad -->
-
-
-                 <ul class="blockContainer">
-       <li class="inner_rightBlock">
-	
-  <script type="text/javascript">
-GA_googleFillSlot("CM-SquareAd-Third");
-</script>
-	</li> <li class="inner_rightBlock"> &nbsp; </li> </ul>
-  <!-- Facebook-->
-        
-<!--   <ul class="blockContainer">
-    <li class="inner_rightBlock">
-	
-    <iframe src="http://www.facebook.com/plugins/likebox.php?id=108031309215227&width=300&height=250&connections=10&stream=false&header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowTransparency="true"></iframe>
-	</li>
-    </ul>-->
-
-
-        
-
-  <ul class="blockContainer">
-      <li class="inner_rightBlock"></li>
-      
-        
-   <li class="inner_rightBlock" style="border:#666666 1px solid">
-	<script type="text/javascript">
-		GA_googleFillSlot("CM_300x100");
-	</script>
-	</li> <li class="inner_rightBlock"> &nbsp; </li>
-    </ul>
-    
- 
-
-   
-
-     
-  
-<ul class="blockContainer">
  <li class="inner_rightBlock">
       <div class="blockUnit inner_blockUnit"> <img src="images/ltnewcrv.gif" alt="" class="lt_crv"> <img src="images/newrtcrv.gif" alt="" class="rt_crv"> <img src="images/lb_crv.gif" alt="" class="lb_crv"> <img src="images/rb_crv.gif" alt="" class="rb_crv"> <span class="genPeel"><a href="javascript:showmoreinfo();">More Info</a></span>
         <h4 class="inner">Ask <span>Us </span></h4>
@@ -1102,6 +1055,66 @@ GA_googleFillSlot("CM-SquareAd-Third");
     </div>
       </div>
     </li> <li class="inner_rightBlock"> &nbsp; </li></ul>
+
+    
+    <!-- Second ad -->
+               <ul class="blockContainer">
+                <li class="inner_rightBlock">
+                <script type="text/javascript">
+ GA_googleFillSlot("CM-SquareAd-Second");
+</script>
+                </li> <li class="inner_rightBlock"> &nbsp; </li>
+            </ul>
+        
+    
+                 <!-- Newsletter strip Start-->
+ <ul class="blockContainer">
+    <li class="inner_rightBlock">
+	<a href="http://www.consumermate.com/newsletter.php" target="_blank"><img src="http://www.consumermate.com/images/newsletter_new.gif" border="0" alt="Receive exclusive deals, best offers
+and get updates on new and popular products on personal technology"></a>
+	</li> <li class="inner_rightBlock"> &nbsp; </li>
+    </ul>
+     <!-- Newsletter strip End-->
+    <!-- Third ad -->
+
+
+                 <ul class="blockContainer">
+       <li class="inner_rightBlock">
+	
+  <script type="text/javascript">
+GA_googleFillSlot("CM-SquareAd-Third");
+</script>
+	</li> <li class="inner_rightBlock"> &nbsp; </li> </ul>
+  <!-- Facebook-->
+        
+<!--   <ul class="blockContainer">
+    <li class="inner_rightBlock">
+	
+    <iframe src="http://www.facebook.com/plugins/likebox.php?id=108031309215227&width=300&height=250&connections=10&stream=false&header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowTransparency="true"></iframe>
+	</li>
+    </ul>-->
+
+
+        
+
+  <ul class="blockContainer">
+      <li class="inner_rightBlock"></li>
+      
+        
+   <li class="inner_rightBlock" style="border:#666666 1px solid">
+	<script type="text/javascript">
+		GA_googleFillSlot("CM_300x100");
+	</script>
+	</li> <li class="inner_rightBlock"> &nbsp; </li>
+    </ul>
+    
+ 
+
+   
+
+     
+  
+
              
                  
     
@@ -1131,15 +1144,15 @@ GA_googleFillSlot("CM-SquareAd-Third");
   <!-- Complaint Section End-->
  
     <!---Fourth Square -->
-          <ul class="blockContainer">
+<!--          <ul class="blockContainer">
       
-          <li class="inner_rightBlock"> 
-                <script type="text/javascript">
+          <li class="inner_rightBlock" > 
+                <script type='text/javascript'>
                 GA_googleFillSlot("CM_fourth_Square");
                 </script>
           </li> <li class="inner_rightBlock"> &nbsp; </li>
     </ul> 
-        
+        -->
 	
  <!-- Scrollar ad Start Here-->
  <!--               <ul class="blockContainer">
@@ -1212,7 +1225,7 @@ GA_googleFillSlot("CM-Footer-Leaderboard");
       </tr>
       <tr>
         <td style="padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/privacy-policy.html" target="_blank" rel="nofollow">Privacy Policy</a></td>
-        <td style="padding-left:20px"><img src="images/arrowBullet.gif" alt="LCD / Plasma Tvs" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/lcd-plasma-tvs.html">LCD / Plasma Tvs</a></td>
+        <td style="padding-left:20px"><img src="images/arrowBullet.gif" alt="Tablets" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/tablets.html">Tablets</a></td>
         <td style="text-transform:capitalize; padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/laptops/Acer-Aspire-One-Happy-2_4935.html">Acer Aspire One Happy 2</a></td>
         <td style="padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/submit-hot-deals.php" target="_blank">Submit Hot Deals</a></td>
       </tr>
@@ -1224,25 +1237,25 @@ GA_googleFillSlot("CM-Footer-Leaderboard");
       </tr>
       <tr>
         <td style="padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="contact-us.html" target="_blank" rel="nofollow">Contact us</a></td>
-        <td style="padding-left:20px"><img src="images/arrowBullet.gif" alt="Camcorders" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/camcorders.html">Camcorders</a></td>
+        <td style="padding-left:20px">&nbsp;</td>
         <td style="text-transform:capitalize; padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/laptops/Sony-VPCEH26EN~B_5552.html">Sony VPCEH26EN/B</a></td>
         <td style="padding-left:20px; padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="forum" target="_blank" rel="nofollow">Discussion Forum</a></td>
       </tr>
       <tr>
         <td style="padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="sitemap.php" target="_blank">Sitemap</a></td>
-        <td style="padding-left:20px"><img src="images/arrowBullet.gif" alt="MP3 Player" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/mp3-players.html">MP3 Players</a></td>
         <td style="padding-left:20px">&nbsp;</td>
-        <td style="padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/contestwinners" target="_blank">User Review Contest Winner </a></td>
+        <td style="padding-left:20px">&nbsp;</td>
+        <td style="padding-left:20px">&nbsp;</td>
       </tr>
       <tr>
         <td style="padding-left:20px"><img src="images/arrowBullet.gif" border="0" style="padding-right:5px"> <a href="consumer-support.html" target="_blank" rel="nofollow">Consumer Support</a></td>
-        <td style="padding-left:20px"><img src="images/arrowBullet.gif" alt="Tablets" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/tablets.html">Tablets</a></td>
+        <td style="padding-left:20px">&nbsp;</td>
         <td>&nbsp;</td>
         <td style="padding-left:20px">&nbsp;</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-            <td style="padding-left:20px"><img src="images/arrowBullet.gif" alt="Accessories" border="0" style="padding-right:5px"> <a href="http://www.consumermate.com/laptops/accessories.html">Accessories</a> <img src="images/new_footer.gif" alt="New" width="30" height="20"></td>
+            <td style="padding-left:20px">&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
@@ -1260,14 +1273,36 @@ GA_googleFillSlot("CM-Footer-Leaderboard");
 </style>
         
         
-        <td colspan="2"><div style="padding: 1px 2px 2px 1px;">
+        <td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><div style="padding: 1px 2px 2px 1px;">
             <div style="float:left; color:#2790C8; font-weight:bold; margin-top:5px">Follow Us on:</div>
             <div class="swwback_img_box"> <a href="http://www.facebook.com/consumermate" title="Follow Us on Facebook" class="swwback_icon" style="background-image:url(images/facebook.png);" target="_blank" rel="nofollow"><img src="images/spacer.gif" border="0" width="20" height="28" alt="Follow Us on Facebook" align="absmiddle"></a></div>
             <div class="swwback_img_box"><a href="http://twitter.com/consumermate" title="Follow Us on Twitter" class="swwback_icon" style="background-image:url(images/twitter.png);" target="_blank" rel="nofollow"><img src="images/spacer.gif" border="0" width="20" height="28" alt="Follow Us on Twitter" align="absmiddle"></a></div>
-            <div class="swwback_img_box"><a href="http://www.linkedin.com/groupInvitation?groupID=1822947&amp;sharedKey=764F6027CB7F" title="Follow Us on LinkedIn" class="swwback_icon" style="background-image:url(images/linkedin.png);" target="_blank" rel="nofollow"><img src="images/spacer.gif" border="0" width="20" height="28" alt="Follow Us on LinkedIn" align="absmiddle"></a></div>
-            <div class="swwback_img_box"><a href="http://www.orkut.co.in/Main#Community?cmm=96012356" title="Follow Us on Orkut" class="swwback_icon" style="background-image:url(images/orkut.png);" target="_blank" rel="nofollow"><img src="images/spacer.gif" border="0" width="20" height="28" alt="Follow Us on Orkut" align="absmiddle"></a></div>
-          </div></td>
-        <td align="right" colspan="2"><p class="text">© Copyright 2012 <a href="http://www.consumermate.com/">www.consumermate.com</a> All Rights Reserved.</p></td>
+                       
+          </div>
+      <div style="float:left; color:#2790C8; font-weight:bold; margin:3px 5px 0 30px">Share it using:</div>
+      
+
+       <div style="float:left; color:#2790C8; font-weight:bold;">
+	
+	<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<g:plusone size="medium" annotation="inline" width="120"></g:plusone></div>
+   <div style="float:left; color:#2790C8; font-weight:bold;"><script type="text/javascript" src="http://ajax.twitthis.com/chuug.twitthis.scripts/twitthis.js"></script>
+                  
+           <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+                  </div>
+    </td>
+    <td align="right" width="40%"><p class="text">© Copyright 2012 <a href="http://www.consumermate.com/">www.consumermate.com</a> All Rights Reserved.</p></td>
+  </tr>
+</tbody></table></td>
       </tr>
     </tbody></table>
   </div>
@@ -1338,10 +1373,10 @@ function hideFeedback()
             <tr class="tr_bgcolor">
 				<td width="23%" align="left" valign="top" class="feedback">Feedback Type <span class="redTxt">*</span> </td>
 				<td width="77%" align="left" valign="top">
-								<img src="http://consumermate.com/images/false.gif" id="checkImage11"><input type="checkbox" name="typeId[]" value="8" style="display: none;"> &nbsp;Report Bug in Website<br>
-								<img src="http://consumermate.com/images/false.gif" id="checkImage12"><input type="checkbox" name="typeId[]" value="9" style="display: none;"> &nbsp;Report Missing Models<br>
-								<img src="http://consumermate.com/images/false.gif" id="checkImage13"><input type="checkbox" name="typeId[]" value="10" style="display: none;"> &nbsp;Request New Features/Service<br>
-								<img src="http://consumermate.com/images/false.gif" id="checkImage14"><input type="checkbox" name="typeId[]" value="11" style="display: none;"> &nbsp;Any other Feedback<br>
+								<input type="checkbox" name="typeId[]" value="8"> &nbsp;Report Bug in Website<br>
+								<input type="checkbox" name="typeId[]" value="9"> &nbsp;Report Missing Models<br>
+								<input type="checkbox" name="typeId[]" value="10"> &nbsp;Request New Features/Service<br>
+								<input type="checkbox" name="typeId[]" value="11"> &nbsp;Any other Feedback<br>
 																
 			  </td>
 			</tr>
@@ -1567,4 +1602,6 @@ var dc_PublisherID = 182278 ;
 <script type='text/javascript' src='http://kona.kontera.com/javascript/lib/KonaLibInline.js'>
 </script>-->
 <!-- Kontera ContentLink(TM) -->
+
+
  </body></html>
