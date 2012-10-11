@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sheinside.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504135155id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sheinside.com privacy policy that was archived on 2012-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011034345id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy&amp;Security Policy</title>
@@ -8,11 +8,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="images/favicon.ico">
 <link href="http://www.sheinside.com/themes/styles/stylesheet.css" rel="stylesheet" type="text/css">
-</head>
+<meta property="fb:app_id" content="353051738083629">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.sheinside.com/js/adroll.js" type="text/javascript"></script></head>
 <body>
 <div class="indexHomeBody">
 	
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.sheinside.com/js/jquery.mins.js" type="text/javascript"></script>
+<script src="http://www.sheinside.com/js/jquery.mins.js" type="text/javascript"></script>
 
 <script language="JavaScript" type="text/javascript">
 
@@ -22,23 +23,6 @@ function isEmail(s){
 	return pattern.test(s);
 }
 $(document).ready(function(){
-	var li = $("#TS_menu > li"); //找到#mainNav中子元素li；
-	//var ul;
-	li.each(function(i){ //循环每一个LI
-		li.eq(i).hover(
-			function(){
-				$(this).find("div.Second_ca").show(); //找到li里面的ul元素设置为显示
-				$(this).addClass("menu_a");
-				$(this).find(".box-HelpCentery").show();
-			},
-			function(){
-				$(this).find("div.Second_ca").hide();
-				$(this).removeClass("menu_a");
-				$(this).find(".box-HelpCentery").hide();
-			}
-
-		)
-	});
 
 	/*$(".Daily_New li").each(function(){
 		$(this).mouseover(function(){
@@ -70,22 +54,15 @@ $("#dif_language").hover(
   }
 );
 
-//  currency  display
-$("#user_menu3").hover(
-  function () {
-	$("#user_menu3_coon").show();
-    $("#user_menu3_coon").addClass("link_now");
-	  
-  },
-  function () {
-	$("#user_menu3_coon").hide();
-    $("#user_menu3_coon").removeClass("link_now");
-	
-  }
-);	
-	
+		
 
 })
+
+
+	
+
+	
+	
 
 
 
@@ -111,9 +88,55 @@ DD_belatedPNG.fix('.Second_ca,.Second_caL');
                                     </div>
               </div>
                     
-                <div class="logo_right" style="margin-left:15px;">
+                <div class="logo_right">
+				
+				
+					<div class="logo_rightyy" id="logo_rightyy"><a rel="nofollow" href="http://www.sheinside.com/shopping_cart.php" title="Shopping Cart" class="shopping_cart">My Cart<span id="cart_items">&nbsp;(&nbsp;<b id="carts_quantity">0</b> item&nbsp;)</span></a>
+						<div id="attr_shopcart" style="display:none;"></div>
+					</div>
+					
+					<script type="text/javascript" src="http://www.sheinside.com/js/ajax_price_top.js"></script>
+										<script type="text/javascript">
+					
+						$.ajax({
+							type:'POST',
+							dataType:'json',
+							data:'action=shopCart',
+							url:'http://www.sheinside.com/do_ajax.php',
+							fail:function(){
+								//alert('fail');
+							},
+							error:function(){
+								//alert('error');
+							},
+							success:function(json){
+								if(json.common_cart_cnt && json.success){
+									$("#attr_shopcart").html(json.content);
+								}								
+								
+							}
+						});
+					
+					
+					</script>
+										<script type="text/javascript">
+					
+					$("#logo_rightyy").mouseenter(function(){
+						if ('' != 1){
+						$("#attr_shopcart").show();  
+						}
+					}).mouseleave(function(){
+						$("#attr_shopcart").hide();
+					});
+					
+					</script>
+
+	
+					
                     <div class="logo_right1">
+					
                     <ul>
+                         <li><a rel="nofollow" title="" href="order_track.php"> &nbsp; Order Tracking &nbsp; </a></li>
                     	 <li><a rel="nofollow" title="" href="wishlist.php?action=list"> &nbsp;my wishlist &nbsp; </a></li>    	          
                         <li id="user_menu3">
                                 <a rel="nofollow" class="three outer" href="javascript:void(0);" title="Currency:USD$">Currency:USD$</a>
@@ -137,7 +160,7 @@ DD_belatedPNG.fix('.Second_ca,.Second_caL');
                      <div id="chat">
                                 
                     <script type="text/javascript">
-                    <!--
+                    //<!--
                     
                     function _lcn_isSecure(){ return location.href.match(/^https/i) == "https";}
                     if(typeof(LCNObj) == 'undefined') {var LCNObj = new Object();}
@@ -148,13 +171,14 @@ DD_belatedPNG.fix('.Second_ca,.Second_caL');
                     document.write("<a href='"+LCNObj.open+"' onclick='return _cln_enter();'><img src='"+LCNObj.image+"' border='0' /></a>");
                     // -->
                     
-                    </script><a href="https://s11.livechatnow.com/js/enter.php?cid=23956&amp;img=url&amp;group=She&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=" onclick="return _cln_enter();"><img src="https://s11.livechatnow.com/img/img.php?id=23956&amp;img=url&amp;group=She&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=&amp;online=http://www.sheinside.com/images/online.jpg&amp;back5=&amp;offline=http://www.sheinside.com/images/offline.jpg&amp;t=1580604566106" border="0"></a>
+                    </script><a href="https://s11.livechatnow.com/js/enter.php?cid=23956&amp;img=url&amp;group=She&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=" onclick="return _cln_enter();"><img src="https://s11.livechatnow.com/img/img.php?id=23956&amp;img=url&amp;group=She&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=&amp;online=http://www.sheinside.com/images/online.jpg&amp;back5=&amp;offline=http://www.sheinside.com/images/offline.jpg&amp;t=1580604567792" border="0"></a>
                     
                     
                       </div>
                    </div>
                      <p class="wel">Welcome to sheinside !</p>
                  </div>
+				 
 				 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FSheinside&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=210941818944171" scrolling="no" frameborder="0" style="border:none; overflow:hidden;float:right;width:80px;margin-top:4px; height:21px;" allowtransparency="true"></iframe>
                     
             </div>
@@ -171,13 +195,7 @@ DD_belatedPNG.fix('.Second_ca,.Second_caL');
 				</div>
 			</form>
 		</div>
-		<div class="tool2">
-			<div class="shopping_car">
-            <div class="cartZery">Shopping Cart<br><b>(0 item)</b></div>
-        </div>
-        
-		</div>
-		
+
 		<script type="text/javascript">
 	
 	$.ajax({
@@ -194,7 +212,8 @@ DD_belatedPNG.fix('.Second_ca,.Second_caL');
 		},
 		success:function(json){
 			if(json.common_cart_cnt){
-				$(".shopping_car").html('<div><a rel="nofollow" href="'+json.site_url+'/shopping_cart.php"><div class="cartZery">Shopping Cart<br /><b>('+json.common_cart_cnt+' item</a>)</b></div>');
+				$("#cart_items b").html(json.common_cart_cnt);
+			//	$(".shopping_car").html('<div><a rel="nofollow" href="'+json.site_url+'/shopping_cart.php"><div class="cartZery">Shopping Cart<br /><b>('+json.common_cart_cnt+' item</a>)</b></div>');
 			}
 			if(json.email){
 				//$(".logo_right1 li").eq(0).remove();
@@ -230,1015 +249,1445 @@ DD_belatedPNG.fix('.Second_ca,.Second_caL');
 <ul class="First_ca" id="TS_menu"> 
 	<li class="subCatName"><a href="http://www.sheinside.com/" title="" style="height: 27px; margin: 1px;">Home</a></li>
   <li class="subCatName">
-        <a title="" href="">Daily New</a>
+        <a title="Daily New" href="http://www.sheinside.com/daily-new.html">Daily New</a>
         <div class="Second_ca" style="display:none">
             <div class="Second_caL">
-                <ul class="sub_cat_li" style="text-indent: 20px;">
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-05-04/">2012-05-04</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-05-03/">2012-05-03</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-05-02/">2012-05-02</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-28/">2012-04-28</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-27/">2012-04-27</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-26/">2012-04-26</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-25/">2012-04-25</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-24/">2012-04-24</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-23/">2012-04-23</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-21/">2012-04-21</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-20/">2012-04-20</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-19/">2012-04-19</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-18/">2012-04-18</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-17/">2012-04-17</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-16/">2012-04-16</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-13/">2012-04-13</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-12/">2012-04-12</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-11/">2012-04-11</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-10/">2012-04-10</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-04-09/">2012-04-09</a></li>
+                <ul class="sub_cat_li" style="text-indent: 20px;padding: 10px 0;">
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-11/">2012-10-11</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-10/">2012-10-10</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-09/">2012-10-09</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-08/">2012-10-08</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-07/">2012-10-07</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-06/">2012-10-06</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-05/">2012-10-05</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-10-04/">2012-10-04</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-29/">2012-09-29</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-28/">2012-09-28</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-27/">2012-09-27</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-26/">2012-09-26</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-25/">2012-09-25</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-24/">2012-09-24</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-21/">2012-09-21</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-20/">2012-09-20</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-19/">2012-09-19</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-18/">2012-09-18</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-17/">2012-09-17</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/daily/2012-09-14/">2012-09-14</a></li>
                                 </ul>
             </div>
         </div>
        </li>
-						              <li class="subCatName"><a title="Women's Apparel" href="http://www.sheinside.com/Women-Apparel-c-1731.html">Women's Apparel</a>
-              
-              
-                           <div style="display: none;width:675px!important;left: -150px;" class="Second_ca">
-                 <div class="Second_caL">
-       <ul class="sub_cat_li" style="width:635px;padding:15px 20px;">
-    
  
-            
-<li><a title="Women's Dresses" href="http://www.sheinside.com/women-dresses-c-1727.html">Women's Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/women-dresses-c-1727-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/women-dresses-c-1727-best.html">Bestsellers</a>
+ <li class="subCatName"><a title="Dresses" href="http://www.sheinside.com/Dresses-c-1769.html">Dresses</a>
 
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+    	     	<div class="Second_ca" style="width: 340px ! important; left: -200px; display: none;">
+    	<div class="Second_caL">
+		<div class="second_cal_bg">
+		
+         	<div class="second_cal_list" style="width:160px;">
+			
+			<ul>
+			
+			   					
+		   						<li>
+				<a title="Fashion Dresses" href="http://www.sheinside.com/women-dresses-c-1727.html">Fashion Dresses</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/278/Black/1727/category/">Black Women's Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/290/Floral/1727/category/">Floral  Dresses</a></li>
+											<li><a href="http://www.sheinside.com/attribute/290/Color-Block/1727/category/">Color Block  Dresses</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/279/Star-Stalker/1727/category/">Star Stalker Women's Dresses</a></li>
-												<li><a href="http://www.sheinside.com/attribute/279/Vintage/1727/category/">Vintage Women's Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/282/Half-Sleeve/1727/category/">Half Sleeve  Dresses</a></li>
+											<li><a href="http://www.sheinside.com/attribute/282/Long-Sleeve/1727/category/">Long Sleeve  Dresses</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/280/Chiffon/1727/category/">Chiffon Women's Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/283/High-Low/1727/category/">High Low  Dresses</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/284/Knee-Length/1727/category/">Knee Length Women's Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/284/Maxi/1727/category/">Maxi  Dresses</a></li>
+										</ul>
 				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Sweaters" href="http://www.sheinside.com/Sweaters-c-1734.html">Sweaters</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Sweaters-c-1734-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Sweaters-c-1734-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Bandage Dresses" href="http://www.sheinside.com/Bandage-Dresses-c-1737.html">Bandage Dresses</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/289/Star-Stalker/1734/category/">Star Stalker Sweaters</a></li>
-												<li><a href="http://www.sheinside.com/attribute/289/Vintage/1734/category/">Vintage Sweaters</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/311/Short/Mini/1737/category/">Short/Mini Bandage Dresses</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/290/Solid/1734/category/">Solid Sweaters</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/312/Strapless/1737/category/">Strapless Bandage Dresses</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/293/Loose/1734/category/">Loose Sweaters</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/445/Sleeveless/1737/category/">Sleeveless Bandage Dresses</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/295/Long-Sleeve/1734/category/">Long Sleeve Sweaters</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Shirts" href="http://www.sheinside.com/Shirts-c-1733.html">Shirts</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Shirts-c-1733-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Shirts-c-1733-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/315/White/1733/category/">White Shirts</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/316/Vintage/1733/category/">Vintage Shirts</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/319/Chiffon/1733/category/">Chiffon Shirts</a></li>
-												<li><a href="http://www.sheinside.com/attribute/319/Denim/1733/category/">Denim Shirts</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/320/Polka-Dot/1733/category/">Polka Dot Shirts</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Bandage Dresses" href="http://www.sheinside.com/Bandage-Dresses-c-1737.html">Bandage Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Bandage-Dresses-c-1737-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Bandage-Dresses-c-1737-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/311/Short/Mini/1737/category/">Short/Mini Bandage Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/312/Strapless/1737/category/">Strapless Bandage Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/445/Sleeveless/1737/category/">Sleeveless Bandage Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="T-shirt" href="http://www.sheinside.com/T-shirt-c-1738.html">T-shirt</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/T-shirt-c-1738-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/T-shirt-c-1738-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/354/Cotton/1738/category/">Cotton T-shirt</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/356/Long-Sleeve/1738/category/">Long Sleeve T-shirt</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/357/Round-Neck/1738/category/">Round Neck T-shirt</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Skirts" href="http://www.sheinside.com/Skirts-c-1732.html">Skirts</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Skirts-c-1732-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Skirts-c-1732-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/342/Red/1732/category/">Red Skirts</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/343/Woolen/1732/category/">Woolen Skirts</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/344/Above-Knee/1732/category/">Above Knee Skirts</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Suits" href="http://www.sheinside.com/Suits-c-1739.html">Suits</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Suits-c-1739-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Suits-c-1739-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/328/slim/1739/category/">slim Suits</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/329/Vintage/1739/category/">Vintage Suits</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/330/Single-Breasted/1739/category/">Single Breasted Suits</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Outerwear" href="http://www.sheinside.com/Outerwear-c-1735.html">Outerwear</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Outerwear-c-1735-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Outerwear-c-1735-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/368/Wool/1735/category/">Wool Outerwear</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/370/Star-Stalker/1735/category/">Star Stalker Outerwear</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/371/Double-Breasted/1735/category/">Double Breasted Outerwear</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Pants" href="http://www.sheinside.com/Pants-c-1740.html">Pants</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Pants-c-1740-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Pants-c-1740-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/382/Chiffon/1740/category/">Chiffon Pants</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/384/Solid/1740/category/">Solid Pants</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-                                                         
-<li></li>
-             
-</ul>  </div>
-</div>
-
- </li>
-  			 			 			 			 			 			 			 			 			 			              <li class="subCatName"><a title="Jewelry" href="http://www.sheinside.com/Jewelry-c-1760.html">Jewelry</a>
-              
-              
-                           <div style="display: none;width:675px!important;left: -150px;" class="Second_ca">
-                 <div class="Second_caL">
-       <ul class="sub_cat_li" style="width:635px;padding:15px 20px;">
-    
- 
-                                          
-<li><a title="Necklaces" href="http://www.sheinside.com/Necklaces-c-1755.html">Necklaces</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Necklaces-c-1755-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Necklaces-c-1755-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/423/Crystal/1755/category/">Crystal Necklaces</a></li>
-												<li><a href="http://www.sheinside.com/attribute/423/Diamond/1755/category/">Diamond Necklaces</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/427/Red/1755/category/">Red Necklaces</a></li>
-												<li><a href="http://www.sheinside.com/attribute/427/Blue/1755/category/">Blue Necklaces</a></li>
-												<li><a href="http://www.sheinside.com/attribute/427/Purple/1755/category/">Purple Necklaces</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Pendants" href="http://www.sheinside.com/Pendants-c-1756.html">Pendants</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Pendants-c-1756-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Pendants-c-1756-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/423/Crystal/1756/category/">Crystal Pendants</a></li>
-												<li><a href="http://www.sheinside.com/attribute/423/Diamond/1756/category/">Diamond Pendants</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/427/Red/1756/category/">Red Pendants</a></li>
-												<li><a href="http://www.sheinside.com/attribute/427/Blue/1756/category/">Blue Pendants</a></li>
-												<li><a href="http://www.sheinside.com/attribute/427/Pink/1756/category/">Pink Pendants</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Earrings" href="http://www.sheinside.com/Earrings-c-1757.html">Earrings</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Earrings-c-1757-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Earrings-c-1757-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/429/Crystal/1757/category/">Crystal Earrings</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/432/Silver/1757/category/">Silver Earrings</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/434/Hoop/1757/category/">Hoop Earrings</a></li>
-												<li><a href="http://www.sheinside.com/attribute/434/Dangle/1757/category/">Dangle Earrings</a></li>
-												<li><a href="http://www.sheinside.com/attribute/434/Stud/1757/category/">Stud Earrings</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Bracelets" href="http://www.sheinside.com/Bracelets-c-1758.html">Bracelets</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Bracelets-c-1758-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Bracelets-c-1758-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/435/Crystal/1758/category/">Crystal Bracelets</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/439/Gold/1758/category/">Gold Bracelets</a></li>
-												<li><a href="http://www.sheinside.com/attribute/439/Blue/1758/category/">Blue Bracelets</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/441/Link/1758/category/">Link Bracelets</a></li>
-												<li><a href="http://www.sheinside.com/attribute/441/Bangle/1758/category/">Bangle Bracelets</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              </li>
-      
-<li><a title="Rings" href="http://www.sheinside.com/Rings-c-1759.html">Rings</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Rings-c-1759-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Rings-c-1759-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/423/Crystal/1759/category/">Crystal Rings</a></li>
-												<li><a href="http://www.sheinside.com/attribute/423/Diamond/1759/category/">Diamond Rings</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/427/Blue/1759/category/">Blue Rings</a></li>
-												<li><a href="http://www.sheinside.com/attribute/427/Purple/1759/category/">Purple Rings</a></li>
-												<li><a href="http://www.sheinside.com/attribute/427/Colorful/1759/category/">Colorful Rings</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              </li>
-                                       
-<li></li>
-             
-</ul>  </div>
-</div>
-
- </li>
-  			 			 			 			 			 			              <li class="subCatName"><a title="Women's Shoes" href="http://www.sheinside.com/Women-c-1745.html">Women's Shoes</a>
-              
-              
-                           <div style="display: none;width:675px!important;left: -150px;" class="Second_ca">
-                 <div class="Second_caL">
-       <ul class="sub_cat_li" style="width:635px;padding:15px 20px;">
-    
- 
-                                                            
-<li><a title="Boots" href="http://www.sheinside.com/Boots-c-1748.html">Boots</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Boots-c-1748-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Boots-c-1748-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/415/Round-Toe/1748/category/">Round Toe Boots</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/416/High-heeled/1748/category/">High-heeled Boots</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/417/Hidden-Platform/1748/category/">Hidden Platform Boots</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/418/Back-zipper/1748/category/">Back zipper Boots</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/411/Suede/1748/category/">Suede Boots</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Pumps" href="http://www.sheinside.com/Pumps-c-1750.html">Pumps</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Pumps-c-1750-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Pumps-c-1750-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/395/Black/1750/category/">Black Pumps</a></li>
-												<li><a href="http://www.sheinside.com/attribute/395/Animal-Print/1750/category/">Animal Print Pumps</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/400/Peep-Toe/1750/category/">Peep Toe Pumps</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/401/High-heeled/1750/category/">High-heeled Pumps</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/402/Hidden-Platform/1750/category/">Hidden Platform Pumps</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Sandals" href="http://www.sheinside.com/Sandals-c-1751.html">Sandals</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Sandals-c-1751-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Sandals-c-1751-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/396/Leather/1751/category/">Leather Sandals</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/401/High-heeled/1751/category/">High-heeled Sandals</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Wedges" href="http://www.sheinside.com/Wedges-c-1749.html">Wedges</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Wedges-c-1749-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Wedges-c-1749-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/396/Leather/1749/category/">Leather Wedges</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/400/Almond-Toe/1749/category/">Almond Toe Wedges</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/401/Mid-Heeled/1749/category/">Mid-Heeled Wedges</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-                        
-<li></li>
-             
-</ul>  </div>
-</div>
-
- </li>
-  			 			 			 			 			              <li class="subCatName"><a title="Bags&amp;Purses" href="http://www.sheinside.com/Bags-Purses-c-1764.html">Bags&amp;Purses</a>
-              
-              
-                             <div style="display: none;width:260px!important;left: 0px;" class="Second_ca">
-                  <div class="Second_caL">
-        <ul class="sub_cat_li" style="width:220px;padding:15px 20px;">
-     
- 
-                                                                                          
-<li><div class="box-HelpCentery" style="display:none">
-
-	<div class="help_list_header">
-	<ul>
-				<li><a href="http://www.sheinside.com/attribute/447/PU/1764/category/">PU Bags&amp;Purses</a></li>
-				<li><a href="http://www.sheinside.com/attribute/447/Leather/1764/category/">Leather Bags&amp;Purses</a></li>
-			</ul>
+			</div>
+			
+									
+			</li>
+		
+							
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+				</ul>
 	</div>
-</div>
-<div class="box-HelpCentery" style="display:none">
 
-	<div class="help_list_header">
-	<ul>
-				<li><a href="http://www.sheinside.com/attribute/448/Black/1764/category/">Black Bags&amp;Purses</a></li>
-				<li><a href="http://www.sheinside.com/attribute/448/Camel/1764/category/">Camel Bags&amp;Purses</a></li>
-			</ul>
+	 
+	 
+  	<div class="collections_header">
+  		<h3 class="collections_h3">Popular Collections</h3>
+		<a class="best_arrival" title="" href="http://www.sheinside.com/Dresses-c-1769-new-arrival.html">New Arrival</a>
+  		<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Fall-Winter-Dresses-vc-60.html" title="Fall&amp;Winter Dresses">Fall&amp;Winter Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Galaxy-Print-Clothing-vc-46.html" title="Galaxy Print Clothing">Galaxy Print Clothing</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Tropical-Print-Dresses-vc-40.html" title="Tropical Print Dresses">Tropical Print Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Bird-Print-Dress-vc-38.html" title="Bird Print Dress">Bird Print Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Short-Print-Dress-vc-37.html" title="Short Print Dress">Short Print Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Long-Print-Dresses-vc-36.html" title="Long Print Dresses">Long Print Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Zebra-Print-Dress-vc-35.html" title="Zebra Print Dress">Zebra Print Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Hawaiian-Print-Dresses-vc-33.html" title="Hawaiian Print Dresses">Hawaiian Print Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Animal-Print-Dress-vc-32.html" title="Animal Print Dress">Animal Print Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Maxi-Print-Dresses-vc-31.html" title="Maxi Print Dresses">Maxi Print Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Flower-Dresses-vc-21.html" title="Flower Dresses">Flower Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Printed-Dress-vc-25.html" title="Printed Dress">Printed Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Floral-Print-Dress-vc-28.html" title="Floral Print Dress">Floral Print Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Leopard-Print-Dress-vc-30.html" title="Leopard Print Dress">Leopard Print Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Colorblock-Dresses-vc-62.html" title="Colorblock Dresses">Colorblock Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Party-Dresses-vc-76.html" title="Party Dresses">Party Dresses</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Basic-Maxi-Dress-vc-85.html" title="Basic Maxi Dress">Basic Maxi Dress</a></li>
+								</ul>
+			</div>
+		</div>
+			
 	</div>
-</div>
-<div class="box-HelpCentery" style="display:none">
+	  </div> 
 
-	<div class="help_list_header">
-	<ul>
-				<li><a href="http://www.sheinside.com/attribute/450/Medium(30-40)/1764/category/">Medium(30-40) Bags&amp;Purses</a></li>
-			</ul>
-	</div>
 </div>
-<div class="box-HelpCentery" style="display:none">
-
-	<div class="help_list_header">
-	<ul>
-				<li><a href="http://www.sheinside.com/attribute/457/Cambridge-Satchel/1764/category/">Cambridge Satchel Bags&amp;Purses</a></li>
-			</ul>
-	</div>
 </div>
-</li>
-             
-</ul>  </div>
-</div>
-
  </li>
-  			              <li class="subCatName"><a title="Event Dress" href="http://www.sheinside.com/event-dress-c-1744.html">Event Dress</a>
-              
-              
-                           <div style="display: none;width:675px!important;left: -150px;" class="Second_ca">
-                 <div class="Second_caL">
-       <ul class="sub_cat_li" style="width:635px;padding:15px 20px;">
-    
- 
-                                                                              
-<li><a title="Prom Dresses" href="http://www.sheinside.com/Prom-Dresses-c-60.html">Prom Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Prom-Dresses-c-60-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Prom-Dresses-c-60-best.html">Bestsellers</a>
+  <li class="subCatName"><a title="Tops" href="http://www.sheinside.com/Tops-c-1766.html">Tops</a>
 
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+    	     	<div class="Second_ca" style="width: 660px ! important; left: -200px; display: none;">
+    	<div class="Second_caL">
+		<div class="second_cal_bg">
+		
+         	<div class="second_cal_list" style="width:480px;">
+			
+			<ul>
+			
+			   					
+		   					
+		   					
+		   					
+		   						<li>
+				<a title="Sweaters" href="http://www.sheinside.com/Sweaters-c-1734.html">Sweaters</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/89/Red/60/category/">Red Prom Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/289/Vintage/1734/category/">Vintage Sweaters</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/90/Satin/60/category/">Satin Prom Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/285/Plain/1734/category/">Plain Sweaters</a></li>
+											<li><a href="http://www.sheinside.com/attribute/285/Striped/1734/category/">Striped Sweaters</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/219/Empire/60/category/">Empire Prom Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/292/Pullovers/1734/category/">Pullovers Sweaters</a></li>
+											<li><a href="http://www.sheinside.com/attribute/292/Cardigan/1734/category/">Cardigan Sweaters</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/220/Sexy/60/category/">Sexy Prom Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/293/Loose/1734/category/">Loose Sweaters</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/196/A-Line/60/category/">A Line Prom Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/295/Long-Sleeve/1734/category/">Long Sleeve Sweaters</a></li>
+										</ul>
 				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Suits" href="http://www.sheinside.com/Suits-c-1739.html">Suits</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
 					<ul>
-												<li><a href="http://www.sheinside.com/attribute/198/Strapless/60/category/">Strapless Prom Dresses</a></li>
-											</ul>
-					</div>
+											<li><a href="http://www.sheinside.com/attribute/327/White/1739/category/">White Suits</a></li>
+											<li><a href="http://www.sheinside.com/attribute/327/Black/1739/category/">Black Suits</a></li>
+										</ul>
 				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Homecoming Dresses" href="http://www.sheinside.com/Homecoming-Dresses-c-1683.html">Homecoming Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Homecoming-Dresses-c-1683-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Homecoming-Dresses-c-1683-best.html">Bestsellers</a>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/328/Boyfriend/1739/category/">Boyfriend Suits</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+			 			</ul>
+			<ul>
+							
+		   						<li>
+				<a title="Blouses" href="http://www.sheinside.com/Shirts-c-1733.html">Blouses</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/315/Green/1733/category/">Green Blouses</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/318/Long-Sleeve/1733/category/">Long Sleeve Blouses</a></li>
+											<li><a href="http://www.sheinside.com/attribute/318/Half-Sleeve/1733/category/">Half Sleeve Blouses</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/319/Chiffon/1733/category/">Chiffon Blouses</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/320/Color-Block/1733/category/">Color Block Blouses</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Outerwear" href="http://www.sheinside.com/Outerwear-c-1735.html">Outerwear</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/366/Wool-Coat/1735/category/">Wool Coat Outerwear</a></li>
+											<li><a href="http://www.sheinside.com/attribute/366/Jackets/1735/category/">Jackets Outerwear</a></li>
+											<li><a href="http://www.sheinside.com/attribute/366/Trench-Coat/1735/category/">Trench Coat Outerwear</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/368/Denim/1735/category/">Denim Outerwear</a></li>
+											<li><a href="http://www.sheinside.com/attribute/368/PU/1735/category/">PU Outerwear</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+			 			</ul>
+			<ul>
+							
+		   						<li>
+				<a title="Sweatshirts" href="http://www.sheinside.com/Sweatshirts-c-1773.html">Sweatshirts</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/488/Pullovers/1773/category/">Pullovers Sweatshirts</a></li>
+											<li><a href="http://www.sheinside.com/attribute/488/Zip-Up/1773/category/">Zip Up Sweatshirts</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/490/Hoodie/1773/category/">Hoodie Sweatshirts</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="T-Shirt" href="http://www.sheinside.com/T-shirt-c-1738.html">T-Shirt</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/355/Casual/1738/category/">Casual T-Shirt</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/356/Long-Sleeve/1738/category/">Long Sleeve T-Shirt</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+				</ul>
+	</div>
 
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/246/Black/1683/category/">Black Homecoming Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/247/Taffeta/1683/category/">Taffeta Homecoming Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/254/Elegant/1683/category/">Elegant Homecoming Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/256/Sweetheart/1683/category/">Sweetheart Homecoming Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/257/Knee-Length/1683/category/">Knee Length Homecoming Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Evening Dresses" href="http://www.sheinside.com/Evening-Dresses-c-57.html">Evening Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Evening-Dresses-c-57-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Evening-Dresses-c-57-best.html">Bestsellers</a>
+	 
+	 
+  	<div class="collections_header">
+  		<h3 class="collections_h3">Popular Collections</h3>
+		<a class="best_arrival" title="" href="http://www.sheinside.com/Tops-c-1766-new-arrival.html">New Arrival</a>
+  		<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Denim-Fashion-vc-78.html" title="Denim Fashion">Denim Fashion</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/PU-Leather-Jacket-vc-69.html" title="PU Leather Jacket">PU Leather Jacket</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Early-Fall-Fashion-vc-63.html" title="Early Fall Fashion">Early Fall Fashion</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/stripedsweaters-vc-7.html" title="Striped Sweaters">Striped Sweaters</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Oversize-Sweater-vc-9.html" title="Oversize Sweater">Oversize Sweater</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Early-Fall-Jumpers-vc-64.html" title="Early Fall Jumpers">Early Fall Jumpers</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Chassic-Cardigan-Sweater-vc-70.html" title="Chassic Cardigan Sweater">Chassic Cardigan Sweater</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Cable-Sweaters-vc-87.html" title="Cable Sweaters">Cable Sweaters</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Lightweight-Jumpers-vc-81.html" title="Lightweight Jumpers">Lightweight Jumpers</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Tribal-Sweaters-vc-88.html" title="Tribal Sweaters">Tribal Sweaters</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Suits-Blazers-vc-58.html" title="Suits&amp;Blazers">Suits&amp;Blazers</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Boyfriend-Blazers-vc-91.html" title="Boyfriend Blazers">Boyfriend Blazers</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/pre-fall-coat-vc-79.html" title="pre-fall coat">pre-fall coat</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Utility-Jacket-vc-83.html" title="Utility Jacket">Utility Jacket</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Woolen-Coats-vc-84.html" title="Woolen Coats">Woolen Coats</a></li>
+								</ul>
+			</div>
+		</div>
+			
+	</div>
+	  </div> 
 
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/89/Purple/57/category/">Purple Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/90/Satin/57/category/">Satin Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/220/Elegant/Luxurious/57/category/">Elegant/Luxurious Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/196/A-Line/57/category/">A Line Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/197/Long/Floor-Length/57/category/">Long/Floor Length Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/198/Sweetheart/57/category/">Sweetheart Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Cocktail Dresses" href="http://www.sheinside.com/Cocktail-Dresses-c-56.html">Cocktail Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Cocktail-Dresses-c-56-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Cocktail-Dresses-c-56-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/89/Red/56/category/">Red Cocktail Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/90/Chiffon/56/category/">Chiffon Cocktail Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/220/Glamorous/Dramatic/56/category/">Glamorous/Dramatic Cocktail Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/197/Short/Mini/56/category/">Short/Mini Cocktail Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/198/Strapless/56/category/">Strapless Cocktail Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Quinceanera Dresses" href="http://www.sheinside.com/Quinceanera-Dresses-c-61.html">Quinceanera Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Quinceanera-Dresses-c-61-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Quinceanera-Dresses-c-61-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/89/White/61/category/">White Quinceanera Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/90/Tulle/61/category/">Tulle Quinceanera Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/219/Natural/61/category/">Natural Quinceanera Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/196/Ball-Gown/61/category/">Ball Gown Quinceanera Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/197/Long/Floor-Length/61/category/">Long/Floor Length Quinceanera Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-      
-<li><a title="Celebrity Evening Dresses" href="http://www.sheinside.com/Celebrity-Evening-Dresses-c-46.html">Celebrity Evening Dresses</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Celebrity-Evening-Dresses-c-46-new-arrival.html">New Arrival</a>
-<a class="best_arrival" title="" href="http://www.sheinside.com/Celebrity-Evening-Dresses-c-46-best.html">Bestsellers</a>
-
-			              	              					              					              					              					              					              					              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/231/Floor-Length/46/category/">Floor Length Celebrity Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/230/Blake-Lively/46/category/">Blake Lively Celebrity Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/223/Black/46/category/">Black Celebrity Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					<div class="box-HelpCentery" style="display:none">
-	
-					<div class="help_list_header">
-					<ul>
-												<li><a href="http://www.sheinside.com/attribute/224/Chiffon/46/category/">Chiffon Celebrity Evening Dresses</a></li>
-											</ul>
-					</div>
-				</div>
-								              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              					              </li>
-
-<li></li>
-             
-</ul>  </div>
 </div>
-
+</div>
  </li>
-  			 			 			 			 			 			 <li class="subCatName">
+  <li class="subCatName"><a title="Bottoms" href="http://www.sheinside.com/Bottoms-c-1767.html">Bottoms</a>
+
+    	     	<div class="Second_ca" style="width: 500px ! important; left: -200px; display: none;">
+    	<div class="Second_caL">
+		<div class="second_cal_bg">
+		
+         	<div class="second_cal_list" style="width:320px;">
+			
+			<ul>
+			
+			   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   						<li>
+				<a title="Pants" href="http://www.sheinside.com/Pants-c-1740.html">Pants</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/380/Shorts/1740/category/">Shorts Pants</a></li>
+											<li><a href="http://www.sheinside.com/attribute/380/Jeans/1740/category/">Jeans Pants</a></li>
+											<li><a href="http://www.sheinside.com/attribute/380/Leggings/1740/category/">Leggings Pants</a></li>
+											<li><a href="http://www.sheinside.com/attribute/380/Jumpsuit/1740/category/">Jumpsuit Pants</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/383/Casual/1740/category/">Casual Pants</a></li>
+											<li><a href="http://www.sheinside.com/attribute/383/Vintage/1740/category/">Vintage Pants</a></li>
+											<li><a href="http://www.sheinside.com/attribute/383/Fashion/1740/category/">Fashion Pants</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+			 			</ul>
+			<ul>
+							
+		   						<li>
+				<a title="Skirts" href="http://www.sheinside.com/Skirts-c-1732.html">Skirts</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/342/White/1732/category/">White Skirts</a></li>
+											<li><a href="http://www.sheinside.com/attribute/342/Black/1732/category/">Black Skirts</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/343/Chiffon/1732/category/">Chiffon Skirts</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/344/Maxi/1732/category/">Maxi Skirts</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/345/Pencil/1732/category/">Pencil Skirts</a></li>
+											<li><a href="http://www.sheinside.com/attribute/345/Bodycon/1732/category/">Bodycon Skirts</a></li>
+											<li><a href="http://www.sheinside.com/attribute/345/High-Low/1732/category/">High Low Skirts</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/346/Fashion/1732/category/">Fashion Skirts</a></li>
+											<li><a href="http://www.sheinside.com/attribute/346/Vintage/1732/category/">Vintage Skirts</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+				</ul>
+	</div>
+
+	 
+	 
+  	<div class="collections_header">
+  		<h3 class="collections_h3">Popular Collections</h3>
+		<a class="best_arrival" title="" href="http://www.sheinside.com/Bottoms-c-1767-new-arrival.html">New Arrival</a>
+  		<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Jumpsuits-Playsuits-vc-42.html" title="Jumpsuits&amp;Playsuits">Jumpsuits&amp;Playsuits</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Print-Pants-vc-23.html" title="Print Pants">Print Pants</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Sexy-Leggings-vc-72.html" title="Sexy Leggings">Sexy Leggings</a></li>
+								</ul>
+			</div>
+		</div>
+			
+	</div>
+	  </div> 
+
+</div>
+</div>
+ </li>
+  <li class="subCatName"><a title="Jewelry" href="http://www.sheinside.com/Jewelry-c-1760.html">Jewelry</a>
+
+    	     	<div class="Second_ca" style="width: 500px ! important; left: -200px; display: none;">
+    	<div class="Second_caL">
+		<div class="second_cal_bg">
+		
+         	<div class="second_cal_list" style="width:320px;">
+			
+			<ul>
+			
+			   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   						<li>
+				<a title="Necklaces" href="http://www.sheinside.com/Necklaces-c-1755.html">Necklaces</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/458/Bohemia/1755/category/">Bohemia Necklaces</a></li>
+											<li><a href="http://www.sheinside.com/attribute/458/Punk/1755/category/">Punk Necklaces</a></li>
+											<li><a href="http://www.sheinside.com/attribute/458/Vintage/1755/category/">Vintage Necklaces</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Earrings" href="http://www.sheinside.com/Earrings-c-1757.html">Earrings</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/459/Bohemia/1757/category/">Bohemia Earrings</a></li>
+											<li><a href="http://www.sheinside.com/attribute/459/Punk/1757/category/">Punk Earrings</a></li>
+											<li><a href="http://www.sheinside.com/attribute/459/Vintage/1757/category/">Vintage Earrings</a></li>
+											<li><a href="http://www.sheinside.com/attribute/459/Fashion/1757/category/">Fashion Earrings</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+			 			</ul>
+			<ul>
+							
+		   						<li>
+				<a title="Bracelets" href="http://www.sheinside.com/Bracelets-c-1758.html">Bracelets</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/460/Bohemia/1758/category/">Bohemia Bracelets</a></li>
+											<li><a href="http://www.sheinside.com/attribute/460/Punk/1758/category/">Punk Bracelets</a></li>
+											<li><a href="http://www.sheinside.com/attribute/460/Vintage/1758/category/">Vintage Bracelets</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Rings" href="http://www.sheinside.com/Rings-c-1759.html">Rings</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/458/Punk/1759/category/">Punk Rings</a></li>
+											<li><a href="http://www.sheinside.com/attribute/458/Vintage/1759/category/">Vintage Rings</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Pendants" href="http://www.sheinside.com/Pendants-c-1756.html">Pendants</a>
+						
+			</li>
+		
+							
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+				</ul>
+	</div>
+
+	 
+	 
+  	<div class="collections_header">
+  		<h3 class="collections_h3">Popular Collections</h3>
+		<a class="best_arrival" title="" href="http://www.sheinside.com/Jewelry-c-1760-new-arrival.html">New Arrival</a>
+  		<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/Triangle-Jewelry-vc-68.html" title="Triangle Jewelry">Triangle Jewelry</a></li>
+								</ul>
+			</div>
+		</div>
+			
+	</div>
+	  </div> 
+
+</div>
+</div>
+ </li>
+  <li class="subCatName"><a title="Shoes" href="http://www.sheinside.com/Women-c-1745.html">Shoes</a>
+
+    	     	<div class="Second_ca" style="width: 660px ! important; left: -200px; display: none;">
+    	<div class="Second_caL">
+		<div class="second_cal_bg">
+		
+         	<div class="second_cal_list" style="width:480px;">
+			
+			<ul>
+			
+			   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   						<li>
+				<a title="Pumps" href="http://www.sheinside.com/Pumps-c-1750.html">Pumps</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/395/Black/1750/category/">Black Pumps</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/396/Suede/1750/category/">Suede Pumps</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/400/Peep-Toe/1750/category/">Peep Toe Pumps</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/401/High-Heel/1750/category/">High Heel Pumps</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/402/Platform/1750/category/">Platform Pumps</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Flats" href="http://www.sheinside.com/Flats-c-1771.html">Flats</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/475/Almond-Toe/1771/category/">Almond Toe Flats</a></li>
+											<li><a href="http://www.sheinside.com/attribute/475/Toe-Post/1771/category/">Toe Post Flats</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/479/Fashion/1771/category/">Fashion Flats</a></li>
+											<li><a href="http://www.sheinside.com/attribute/479/Ballet/1771/category/">Ballet Flats</a></li>
+											<li><a href="http://www.sheinside.com/attribute/479/Oxford/1771/category/">Oxford Flats</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+			 			</ul>
+			<ul>
+							
+		   						<li>
+				<a title="Wedges" href="http://www.sheinside.com/Wedges-c-1749.html">Wedges</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/396/Suede/1749/category/">Suede Wedges</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/400/Peep-Toe/1749/category/">Peep Toe Wedges</a></li>
+											<li><a href="http://www.sheinside.com/attribute/400/Almond-Toe/1749/category/">Almond Toe Wedges</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/467/Espadrille/1749/category/">Espadrille Wedges</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/468/Color-Block/1749/category/">Color Block Wedges</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Boots" href="http://www.sheinside.com/Boots-c-1748.html">Boots</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/409/Ankle/1748/category/">Ankle Boots</a></li>
+											<li><a href="http://www.sheinside.com/attribute/409/Short/1748/category/">Short Boots</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/470/Fashion/1748/category/">Fashion Boots</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/471/Spring/Autumm/1748/category/">Spring/Autumm Boots</a></li>
+											<li><a href="http://www.sheinside.com/attribute/471/Winter/1748/category/">Winter Boots</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+			 			</ul>
+			<ul>
+							
+		   						<li>
+				<a title="Sandals" href="http://www.sheinside.com/Sandals-c-1751.html">Sandals</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/400/Peep-Toe/1751/category/">Peep Toe Sandals</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/403/Glitter/Sparkle/1751/category/">Glitter/Sparkle Sandals</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/466/Ankle-strap/1751/category/">Ankle strap Sandals</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/468/Fashion/1751/category/">Fashion Sandals</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   					
+		   					
+		   					
+		   					
+		   					
+				</ul>
+	</div>
+
+	 
+	 
+  	<div class="collections_header">
+  		<h3 class="collections_h3">Popular Collections</h3>
+		<a class="best_arrival" title="" href="http://www.sheinside.com/Women-c-1745-new-arrival.html">New Arrival</a>
+  		<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/platform-flat-shoes-html-vc-11.html" title="Platform Flat Shoes">Platform Flat Shoes</a></li>
+								</ul>
+			</div>
+		</div>
+			<div class="box-HelpCentery" style="display: none;">
+		
+			<div class="help_list_header">
+				<ul>
+								<li class="help_header_list"><a href="http://www.sheinside.com/rivet-shoes-vc-10.html" title="Rivet Shoes">Rivet Shoes</a></li>
+								</ul>
+			</div>
+		</div>
+			
+	</div>
+	  </div> 
+
+</div>
+</div>
+ </li>
+  <li class="subCatName"><a title="Accessories" href="http://www.sheinside.com/Accessories-c-1765.html">Accessories</a>
+
+       	<div class="Second_ca" style="width: 170px ! important; left: 0px; display: none;">
+    	<div class="Second_caL">
+		<div class="second_cal_bg">
+		
+         	<div class="second_cal_list" style="width:160px;">
+			
+			<ul>
+			
+			   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   					
+		   						<li>
+				<a title="Handbags" href="http://www.sheinside.com/Bags-Purses-c-1764.html">Handbags</a>
+									
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/446/Cross-Body/1764/category/">Cross Body Handbags</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/447/PU/1764/category/">PU Handbags</a></li>
+											<li><a href="http://www.sheinside.com/attribute/447/Leather/1764/category/">Leather Handbags</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/448/Black/1764/category/">Black Handbags</a></li>
+										</ul>
+				</div>
+			</div>
+			
+						
+			<div style="display: none;" class="box-HelpCentery">
+				<div class="help_list_header">
+					<ul>
+											<li><a href="http://www.sheinside.com/attribute/457/Messenger/1764/category/">Messenger Handbags</a></li>
+										</ul>
+				</div>
+			</div>
+			
+									
+			</li>
+		
+							
+		   						<li>
+				<a title="Collars" href="http://www.sheinside.com/collars-c-1768.html">Collars</a>
+						
+			</li>
+		
+							
+		   						<li>
+				<a title="Sunglasses" href="http://www.sheinside.com/Sunglasses-c-1770.html">Sunglasses</a>
+						
+			</li>
+		
+							
+		   						<li>
+				<a title="Hats" href="http://www.sheinside.com/Hats-c-1772.html">Hats</a>
+						
+			</li>
+		
+							
+				</ul>
+	</div>
+
+	 
+	  </div> 
+
+</div>
+</div>
+ </li>
+ <li class="subCatName">
         <a title="" href="">trends</a>
         <div class="Second_ca" style="display:none">
             <div class="Second_caL">
-                <ul class="sub_cat_li" style="text-indent: 20px;">
+                <ul class="sub_cat_li" style="text-indent: 20px;padding: 10px 0;">
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Halloween-Aspiration-vc-90.html" title="Halloween Aspiration">Halloween Aspiration</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Work-Style-vc-75.html" title="Work Style">Work Style</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Elegant-Tweed-vc-74.html" title="Elegant Tweed">Elegant Tweed</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Chic-Lace-vc-61.html" title="Chic Lace">Chic Lace</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Polka-Dot-vc-49.html" title="Polka Dot">Polka Dot</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Denim-vc-47.html" title="Denim">Denim</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Colorful-Summer-vc-26.html" title="Colorful Summer">Colorful Summer</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/summersale-vc-24.html" title="summersale">summersale</a></li>
                                     <li style="margin:0px! important;"><a href="http://www.sheinside.com/Denim-forever-vc-16.html" title="Denim Forever">Denim Forever</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/rivet-shoes-vc-10.html" title="Rivet Shoes">Rivet Shoes</a></li>
-                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Oversize-Sweater-vc-9.html" title="Oversize Sweater">Oversize Sweater</a></li>
+                                    <li style="margin:0px! important;"><a href="http://www.sheinside.com/Personalized-printing-vc-8.html" title="Personalized printing">Personalized printing</a></li>
                                 </ul>
             </div>
         </div>
        </li>
- <li class="subCatName"><a href="http://www.sheinside.com/member-image-list.html" title=" " style="height: 27px; margin: 1px;">Look Book</a></li>
+ <li class="subCatName"><a href="http://www.sheinside.com/member-image-list.html" title="Look Book">Look Book</a>
+ 	<!--<div class="Second_ca" style="display:none">
+		<div class="Second_caL">
+			<ul class="sub_cat_li"  style="text-indent: 20px;padding:5px 0;">
+				<li style="margin:0px! important;"><a href="http://www.sheinside.com/member-image-fashion-blogger-list.html" title="">Fashion Blogger</a>
+				</li>
+				<li style="margin:0px! important;"><a href="http://www.sheinside.com/member-image-queen-of-street-list.html" title="Queen of Street">Queen of Street</a>
+				</li>
+			</ul>
+		</div>
+	</div>-->
+ </li>
  
  
   </ul>
 </div>
 </div>
-<!--<script type="text/javascript" src="http://www.sheinside.com/js/header.js"></script>-->
+<script language="JavaScript" type="text/javascript">
 
-				<div class="main_content">
-		<!--	
-				<div class="main_right">-->
+
+
+//  currency  display
+$("#user_menu3").hover(
+  function () {
+	$("#user_menu3_coon").show();
+    $("#user_menu3_coon").addClass("link_now");
+	  
+  },
+  function () {
+	$("#user_menu3_coon").hide();
+    $("#user_menu3_coon").removeClass("link_now");
+	
+  }
+);
+//  menu  display
+	var li = $("#TS_menu > li"); //找到#mainNav中子元素li；
+	//var ul;
+	li.each(function(i){ //循环每一个LI
+		li.eq(i).hover(
+			function(){
+				$(this).find("div.Second_ca").show(); //找到li里面的ul元素设置为显示
+				$(this).addClass("menu_a");
+				$(this).find(".box-HelpCentery").show();
+			},
+			function(){
+				$(this).find("div.Second_ca").hide();
+				$(this).removeClass("menu_a");
+				$(this).find(".box-HelpCentery").hide();
+			}
+
+		)
+	});
+
+
+
+
+
+</script>
+<div class="ckban"><img src="http://www.sheinside.com/themes/images/ckban2.jpg" border="0" usemap="#Map1">
+  <map name="Map1" id="Map1">
+    <area shape="rect" coords="1,1,331,46" href="http://www.sheinside.com/Shipping-Info-a-280.html">
+    <area shape="rect" coords="336,1,727,46" href="http://www.sheinside.com/coupon-a-368.html">
+    <area shape="rect" coords="730,1,960,46" href="http://www.sheinside.com/why-choose-us.html">
+  </map>
+</div>
+<div class="ckban" style="display:none;"><a href="http://www.sheinside.com/Leopard-Patchwork-High-low-Sleeveless-White-Blouse-p-90532-cat-1733.html" title="pink leopard high-low blouse with straight $10.72 drop !"><img src="http://www.sheinside.com/themes/images/neiy.gif" border="0" alt="pink leopard high-low blouse with straight $10.72 drop !"></a></div>
+<!--<script type="text/javascript" src="http://www.sheinside.com/js/header.js"></script>-->	<div class="main_content">
+		<!--
+			
+	<script type="text/javascript">
+	
+	function hiddens(id){
+		if($("."+id).css("display")!="none"){
+			$('.'+id).css("display","none");
+			$('#'+id).html("more");
+			$('#'+id).removeClass("cate_lass");
+		}else{
+			$('.'+id).slideDown(500);
+			$('#'+id).html("less");
+			$('#'+id).addClass("cate_lass");
+		}
+	}
+	
+	</script>		<div class="main_right">-->
 			<div class="blank10"></div>
 			<div class="position">
 				<a href="http://www.sheinside.com">Home</a><span style="font-size: 10px;">  » </span>  <span class="selected">Privacy&amp;Security Policy</span>
@@ -1374,7 +1823,7 @@ mso-bidi-language:#0400;}
                     <ul><li><a rel="nofollow" href="http://www.facebook.com/Sheinside"><img src="http://www.sheinside.com/themes/images/f.gif"></a></li>
                     <li><img src="http://www.sheinside.com/themes/images/t.gif"></li>
                     <li><img src="http://www.sheinside.com/themes/images/san.gif"></li>
-                    <li><img src="http://www.sheinside.com/themes/images/bai.gif"></li>
+                    <li><a rel="nofollow" href="http://www.youtube.com/user/sheinsidevideo" target="_blank"><img src="http://www.sheinside.com/themes/images/bai.gif"></a></li>
                     </ul>
                     </div>
             <script type="text/javascript">
@@ -1430,13 +1879,13 @@ mso-bidi-language:#0400;}
                     }
     
         var thisHREF=encodeURIComponent(document.referrer);
-        //var thisURL=encodeURIComponent(document.URL);
+        var thisURL=encodeURIComponent(document.URL);
             
         $.ajax({
             type:'POST',
             dataType:'json',
             
-            data:'urlfrom='+thisHREF,
+            data:'urlfrom='+thisHREF+'&urlcurrent='+thisURL,
             url:'http://www.sheinside.com/origin.php',
             fail:function(){
                 //alert('fail');
@@ -1462,6 +1911,8 @@ mso-bidi-language:#0400;}
                 <li><a rel="nofollow" href="http://www.sheinside.com/How-to-order-a-276.html">How to Order</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/How-to-measure-a-277.html">How to Measure</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/How-to-Pay-a-278.html">How to Pay</a></li>
+                <li><a rel="nofollow" href="http://www.sheinside.com/copyright-noticeam-a-379.html">Copyright Notice</a></li>
+                <li><a rel="nofollow" href="http://www.sheinside.com/FAQ-a-366.html">FAQ</a></li>
                 </ul> 
              </div>
                 
@@ -1470,7 +1921,7 @@ mso-bidi-language:#0400;}
                 <ul><li><a rel="nofollow" href="http://www.sheinside.com/Size-and-Color-chart-a-279.html">Size and Color Chart</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/Shipping-Info-a-280.html">Shipping Info</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/Return-Policy-a-281.html">Return Policy</a></li>
-                    <li><a rel="nofollow" href="http://www.sheinside.com/Payment-Methords-a-287.html">Payment Methords</a></li>
+                    <li><a rel="nofollow" href="http://www.sheinside.com/Payment-Methords-a-287.html">Payment Methods</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/Privacy-Security-Policy-a-282.html">Privacy&amp;Security Policy</a></li>
                 </ul>
              </div>
@@ -1478,11 +1929,12 @@ mso-bidi-language:#0400;}
              <div class="Gustomers">
                 <h2>Customer Service</h2>
                 <ul>
-                <li><a rel="nofollow" href="http://s11.livechatnow.com/js/enter.php?url=&amp;refer=&amp;name=&amp;email=&amp;dir=&amp;skin=&amp;flag_os=&amp;survey=&amp;survey_lm=&amp;survey_ec=&amp;user=&amp;uid=&amp;sid=&amp;cid=23956&amp;op=&amp;ip=&amp;group=General&amp;q=&amp;track=189962140743983771300260580630&amp;onlinechat=0">Live Chat</a></li>
+                <li><a rel="nofollow" href="http://s11.livechatnow.com/js/enter.php?url=&amp;refer=&amp;name=&amp;email=&amp;dir=&amp;skin=&amp;flag_os=&amp;survey=&amp;survey_lm=&amp;survey_ec=&amp;user=&amp;uid=&amp;sid=&amp;cid=23956&amp;op=&amp;ip=&amp;group=General&amp;q=&amp;track=189962140743983771300260580630&amp;onlinechat=0" target="_blank">Live Chat</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/contact_us.php">Contact Us</a></li>
-                <!--<li><a rel="nofollow" href="">Order Tracking</a></li>-->
                 <li><a rel="nofollow" href="http://www.sheinside.com/my_account.php">My Account</a></li>
-                <li><a rel="nofollow" href="http://www.sheinside.com/blog/">Sheinside Giveaway</a></li>
+                <!--<li><a rel="nofollow" href="http://www.sheinside.com/blog/">Sheinside Giveaway</a></li>-->
+                <li><a rel="nofollow" href="http://www.sheinside.com/bonus-point-program-a-371.html">Bonus Point Program</a></li>
+				<li><a rel="nofollow" href="http://www.sheinside.com/promotion-all.html">Sheinside Campagin Center</a></li>
                 </ul>
              </div>
                 
@@ -1492,20 +1944,54 @@ mso-bidi-language:#0400;}
                 <li><a rel="nofollow" href="http://www.sheinside.com/Testimonials-a-286.html">Testimonials</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/Wholesale-a-284.html">Wholesale</a></li>
                 <li><a rel="nofollow" href="http://www.sheinside.com/read_policy.html">Fashion Bloggers</a></li>
-                <li><a rel="nofollow" href="http://www.sheinside.com/Blog-ac-10.html">Dresses Blog</a></li>
+                <!--<li><a rel="nofollow" href="http://www.sheinside.com/Blog-ac-10.html">Dresses Blog</a></li>-->
+                <li><a rel="nofollow" href="http://sheinsideofficialblog.blogspot.com/">Official Blog</a></li>
                 </ul>
              </div>
                 
                 
                 
-    </div>	
+    </div>
+    <div style="clear:both;"></div>	
+    <div class="footer_alpha">
+    	Product Tags:
+    	    	    	<a href="http://www.sheinside.com/alpha/A.html">A</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/B.html">B</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/C.html">C</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/D.html">D</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/E.html">E</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/F.html">F</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/G.html">G</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/H.html">H</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/I.html">I</a>
+    	    	    	    	<span>J</span>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/K.html">K</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/L.html">L</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/M.html">M</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/N.html">N</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/O.html">O</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/P.html">P</a>
+    	    	    	    	<span>Q</span>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/R.html">R</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/S.html">S</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/T.html">T</a>
+    	    	    	    	<span>U</span>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/V.html">V</a>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/W.html">W</a>
+    	    	    	    	<span>X</span>
+    	    	    	    	<span>Y</span>
+    	    	    	    	<a href="http://www.sheinside.com/alpha/Z.html">Z</a>
+    	    	    	    	<span>0-9</span>
+    	    	 
+    </div>
+    <div style="clear:both;"></div>
     <div class="footer_img">
         <img src="http://www.sheinside.com/themes/images/payment.gif">
         <img src="http://www.sheinside.com/themes/images/footgou.gif">
         <img src="http://www.sheinside.com/themes/images/dhl.gif">
         <img src="http://www.sheinside.com/themes/images/tnt.gif">
         <img src="http://www.sheinside.com/themes/images/ups.gif">
-        <a rel="nofollow" href="http://www.shareasale.com/shareasale.cfm?merchantID=39236"><img src="http://www.sheinside.com/themes/images/shareasale.png"></a>
+        <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=normal"></script>
     </div>
 	<div class="copyright">
 		<div class="desc">
@@ -1514,7 +2000,26 @@ mso-bidi-language:#0400;}
 			©sheinside.com. All rights reserved
 		</div>
 	</div>
-    
+    	
+<script type="text/javascript">
+
+/* <![CDATA[ */
+var google_conversion_id = 1006647950;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "016BCPrn6QIQjvWA4AM";
+var google_conversion_value = 0;
+/* ]]> */
+
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1006647950/?label=016BCPrn6QIQjvWA4AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 </div>
 <div class="count51" style="display:none"><script type="text/javascript">
 
@@ -1555,6 +2060,9 @@ mso-bidi-language:#0400;}
 						$("#user_menu_good3 a").eq(0).html('<a rel="nofollow" class="three outer" href="javascript:void(0);"  title="Currency:'+json.currency+json.symbol+'">Currency:'+json.currency+json.symbol+'</a>');
 						if(typeof(update_price) == "function"){
 							update_price('http://www.sheinside.com');
+						}
+						if(typeof(update_price_top) == "function"){
+							update_price_top('http://www.sheinside.com');
 						}
 					}
 				}
