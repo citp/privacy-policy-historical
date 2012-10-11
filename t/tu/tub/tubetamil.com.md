@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505215349id_/http%3A//www.tubetamil.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011052332id_/http%3A//www.tubetamil.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -53,11 +53,3 @@ For questions concerning the product or your account, please. For more informati
 Designed by [Tubetamil](http://www.tubetamil.com/)
 
 Muthumaari Amman
-
-**Warning** : Smarty error: file:digitalpointcoop/ad_network_135.php is not readable in **/home/tubetami/public_html/smarty/libs/Smarty.class.php** on line **1092**
-
-**Warning** : include() [[function.include](https://web.archive.org/web/20120505215349id_/http%3A//www.tubetamil.com/function.include)]: Filename cannot be empty in **/home/tubetami/public_html/smarty/libs/Smarty.class.php** on line **1922**
-
-**Warning** : include() [[function.include](https://web.archive.org/web/20120505215349id_/http%3A//www.tubetamil.com/function.include)]: Filename cannot be empty in **/home/tubetami/public_html/smarty/libs/Smarty.class.php** on line **1922**
-
-**Warning** : include() [[function.include](https://web.archive.org/web/20120505215349id_/http%3A//www.tubetamil.com/function.include)]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/tubetami/public_html/smarty/libs/Smarty.class.php** on line **1922**
