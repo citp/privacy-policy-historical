@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512003841id_/http%3A//www.sarkari-naukri.in/privacy-policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011053918id_/http%3A//www.sarkari-naukri.in/privacy-policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies
 
 **Private Policy**
 
-**Last Revised** : 05 October, 2010
+**Last Revised** : 04 August, 2012
 
 Sarkari Naukri is committed to protect its users’ privacy therefore we deem it necessary to give you a comprehensive view about how we determine, store and identify information while you use this website. It is for your own benefit that we advise you to read the following information in detail which may change from time to time as we upgrade our policy. Please check this from time to time (the **Last Revised** date at the top left corner will help you ascertain when we made the last change); your continued use of this site will vouchsafe your absolute knowledge and compliance with Sarkari Naukri Privacy Policy.
 
@@ -12,18 +12,16 @@ A marked change in the general nature of this statement shall be preceded by a n
 
 **Personal Information – Accumulation and Use**
 
-While accessing some of Sarkari Naukri’s featured services, you may be required to provide your personal information like your e-mail address, name, home or work address, or telephone number. In some circumstances, we may also ask your age, gender, preferences, interests, and similar things.
-
 We may collect information about your visit, including the pages you view, the links you click, and other actions taken in connection with Sarkari Naukri and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, and referring website addresses.
 
 When you receive newsletters or promotional e-mail from Sarkari Naukri, we may use Web beacons customized links, or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information in the future. In certain cases we may also seek the istance of other organizations to pinpoint your geographical area so that we may develop some exclusive services/offers based on your geographical area.
 
-Sarkari Naukri collects and uses your personal information to operate and improve its sites, and ensure a hle free service. These uses may include providing you with more effective customer service; making the site or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services, and technologies; and displaying content and advertising that are customized to your interests and preferences.
+Sarkari Naukri collects and uses your personal information to operate and improve its sites, and ensure a hassle free service. These uses may include providing you with more effective customer service; making the site or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services, and technologies; and displaying content and advertising that are customized to your interests and preferences.
 
 We also employ your personal information to communicate with you. We may send you welcome letter depending upon the nature and time of your business with Sarkari Naukri, product surveys and electronic direct mailers about new launches and schemes as and when seemed necessary.
 
 **Children’s Personal Information**  
-Sarkari Naukri will not knowingly ask children under the age of 13 to provide information for accessing our services.
+Sarkari Naukri will not knowingly ask children under the age of 14 to provide information for accessing our services.
 
 **Security of your Personal Information**
 
@@ -53,4 +51,4 @@ Sarkari Naukri is concerned with the nuisance of spamming and consequently keeps
 
 **Contact Us**
 
-Sarkari Naukri looks forward to your feedback on this policy statement. If you have any queries and suggestions, please contact us
+Sarkari Naukri looks forward to your feedback on this policy statement. If you have any queries and suggestions, please contact us on : info(at)sarkari-naukri.in
