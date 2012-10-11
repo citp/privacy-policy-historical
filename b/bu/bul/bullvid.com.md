@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullvid.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507074839id_/http%3A//www.bullvid.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullvid.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011131632id_/http%3A//bullvid.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - bullvid.com
 
@@ -39,4 +39,4 @@ You can also contact us at the contact information listed below.
 
 ## **_Contact Information_**
 
-Please direct all questions in connection with this Policy via e-mail to [support@bullvid.com](mailto:support@bullvid.com) or via our [support site](http://bullvid.kayako.com/). You can also write to BullVid, Attention: Privacy Policy Administrator, 19 Idaliou street, 3021 Limassol, Cyprus.
+Please direct all questions in connection with this Policy via e-mail to [support@bullvid.com](mailto:support@bullvid.com) or via our [support site](http://bullvid.kayako.com/). You can also write to BullVid, Attention: Privacy Policy Administrator, 40 Kimonos St. 3095, Limassol, Cyprus.
