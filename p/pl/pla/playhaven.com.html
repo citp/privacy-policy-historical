@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playhaven.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513042309id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playhaven.com privacy policy that was archived on 2012-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012002705id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,6 +10,7 @@
     <link href="/css/howto.css" rel="stylesheet">
     <link href="/css/general.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/jquery.ui.selectmenu.css" rel="stylesheet">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
     <script src="/js/jquery-ui-1.8.16.min.js"></script>
     <script>window.jQuery || document.write('<script src="/js/jquery-1.6.1.min.js"><\/script>')</script><script src="/js/jquery-1.6.1.min.js"></script>
@@ -19,6 +20,11 @@
     <script src="/js/settings.js"></script>
     <script src="/js/jqModal.js"></script>
     <script src="/js/signup.js"></script>
+    <script src="/js/overview.js"></script>
+    <script src="/js/videopopup.js"></script>
+    <link href="/css/videopopup.css" rel="stylesheet">
+    <script src="/js/jquery.tmpl.min.js"></script>
+    <script src="/js/jquery.ui.selectmenu.js"></script>
 </head>
 
 <body>
@@ -58,14 +64,14 @@
 </div>
 <div class="whiteBox largeBox textOnly box">
 
-Last Revised: March 8, 2012<br><br>
+Last Revised: July 19th, 2012<br><br>
 
 <p>
     This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Medium Entertainment, Inc., doing business as "PlayHaven" 
-    ("PlayHaven ", "we" or "us") when you access the PlayHaven web site at www.PlayHaven.com (the "Site") or interact with the PlayHaven communication and advertising 
+    ("PlayHaven ", "we" or "us"), when you access the PlayHaven web site at www.PlayHaven.com (the "Site") or interact with the PlayHaven communication and advertising 
     platform (the "PlayHaven Platform"). The PlayHaven Platform provides tools to third party publishers (“Publishers”) to enable them to better communicate with the 
     users of their mobile applications (“Applications”) and to serve advertisements ("Ads") through their Applications from advertisers that are part of the PlayHaven 
-    network ("Advertisers").  The Site, PlayHaven Platform, and the Ads are collectively referred to as the "Services". If you do not agree to the terms of this Policy, 
+    network ("Advertisers"). The Site, PlayHaven Platform, and the Ads are collectively referred to as the "Services."  If you do not agree to the terms of this Policy, 
     please do not use the Services. 
 </p>
 
@@ -77,7 +83,8 @@ Last Revised: March 8, 2012<br><br>
 </p>
 
 <h2>What Is Personal Information?</h2>
-<p>As used herein, the term "personal information" means information that specifically identifies an individual 
+<p>
+    As used herein, the term "personal information" means information that specifically identifies an individual 
     (such as a name, address, telephone number, mobile number, e-mail address, or credit card number), or information about that individual that is directly 
     linked to personally identifiable information. Personal information does not include "aggregate" information, 
     which is data we collect about the use of the Services or about a group or category of services or users, from which individual identities or other 
@@ -90,9 +97,9 @@ Last Revised: March 8, 2012<br><br>
 <h2>Active Collection</h2>
 <p>
     We collect certain information when you voluntarily provide it, such as if you send us an email, fill out a form, post comments or other content, 
-    or otherwise provide or request information. This may include when you voluntarily provide information in response to an in-game communication from a 
+    or otherwise provide or request information. This may include when you voluntarily provide information to PlayHaven in response to an in-game communication from a 
     Publisher using the PlayHaven Platform. Such information may include personal information, such as your name, user name, email, address, telephone number, 
-    and other contact and demographic information. Personal and demographic information may also be collected if you provide such information in connection with 
+    and other contact and demographic information you choose to provide. Personal and demographic information may also be collected if you provide such information in connection with 
     leaving comments, posting content, sending an email or message to another user, or participating in any interactive forums or features on the Services. 
     In addition, from time to time we may collect demographic, contact, or other personal information you provide in connection with your participation in surveys, 
     sweepstakes, contests, games, promotional offers, and other activities on the Services.
@@ -205,7 +212,7 @@ Last Revised: March 8, 2012<br><br>
     If we collect personal information from you, we may make that personal information available to third parties for their marketing and promotional purposes. 
     If you decide that you do not want us to share your personal information with these companies for their marketing and promotional purposes, 
     please send an e-mail to privacy@playhaven.com. In this email, state that you would like PlayHaven to not share your personal information with third parties 
-    for their marketing purposes. Your opt out request will be processed within thirty (30) days of the date of which we receive it.
+    for their marketing purposes. Your opt out request will be processed within 30 days of the date of which we receive it.
 </p>
 
 <h2>Publisher Applications and Links to Other Websites</h2>
@@ -236,9 +243,9 @@ Last Revised: March 8, 2012<br><br>
 
 <h2>Children's Privacy</h2>
 <p>
-    The PlayHaven Platform and Site are not intended for use by children under the age of 13, and PlayHaven does not knowingly collect 
-    or use any personal information from such children. If we become aware that we have unknowingly collected personal information from a child 
-    under the age of 13, we will make commercially reasonable efforts to delete such information from our database.
+    The PlayHaven Platform and Site are not intended for use by children under the age of 13.
+    We do not knowingly collect personal information from children under the age of 13.
+    If we become aware that we have collected personal information from a child under the age of 13, we will take steps to delete the information as soon as possible.
 </p>
 
 <h2>What Choices Do You Have Regarding the Use of Your Information?</h2>
@@ -274,10 +281,10 @@ Last Revised: March 8, 2012<br><br>
 <div id="mainHomePageFooter">
     <div id="mainHomePageFooterWrapper">
         <ul class="mainHomePageFooterLinks customFontNoSoft">
+            <li><a href="/team" id="teamLink">Careers</a></li>
             <li><a href="http://blog.playhaven.com" id="blogLink">Blog</a></li>
-            <li><a href="/about" id="aboutLink">About</a></li>
+            <li><a href="http://press.blog.playhaven.com" id="pressLink">Press</a></li>
             <li><a href="/contact" id="contactLink">Contact</a></li>
-            <li><a href="/careers" id="careersLink">Careers</a></li>
         </ul>
         <ul class="mainHomePageFooterLinks2 customFontNoSoft">
                 <li><a href="/tour" id="tourLink">Tour</a></li>
@@ -296,8 +303,11 @@ Last Revised: March 8, 2012<br><br>
 
         </ul>
         <span class="mainHomePageFooterTerms customFontNoSoft">
+                <a href="http://facebook.com/PlayHaven" target="_blank" class="socialLink"><img src="/images/press_logos/icon_facebook22px.png"></a>
+                <a href="http://twitter.com/playhaven" target="_blank" class="socialLink"><img src="/images/press_logos/icon_twitter22px.png"></a>
+                <a href="https://plus.google.com/u/0/116400787062059465604" target="_blank" class="socialLink"><img src="/images/press_logos/icon_googleplus22px.png"></a>
              <ul id="nav2" class="mainHomePageFooterTermsLinks">
-                <li><a href="/privacy" id="privacyLink">Privacy</a> </li>
+                <li><a href="/privacy" id="privacyLink">Privacy</a></li>
                 <li><a href="/terms" id="termsLink">Terms</a></li>
             </ul>
             <!-- | <a href="/community">Community</a> -->
