@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617035608id_/http%3A//norada.com/norada/crm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011054120id_/http%3A//norada.com/norada/crm/privacy_policy) for the most accurate reproduction.*
 
 # CRM Meets Project Management for Serious Business
 
