@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluidui.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611040615id_/http%3A//www.fluidui.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidui.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011030313id_/http%3A//www.fluidui.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | FluidUI - iPhone & Android Mobile Mockups
 
@@ -7,7 +7,7 @@
   * [Home](http://www.fluidui.com/)
   * [Features](http://www.fluidui.com/features/)
   * [Plans](http://www.fluidui.com/plans/)
-  * [Support...](http://getsatisfaction.com/fluidui)
+  * [Try it](https://www.fluidui.com/editor)
 
 
 
