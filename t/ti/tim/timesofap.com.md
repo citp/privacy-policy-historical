@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesofap.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621034203id_/http%3A//timesofap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofap.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012225309id_/http%3A//timesofap.com/privacy-policy) for the most accurate reproduction.*
 
-# AP By Poll Results, AP By Elections Results 2012 Online Internet Website Updates News
+# Timesofap: India Politics Latest Flash Breaking News Online Times of AP
 
 Timesofap.com respects the privacy of it’s users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it’s users. timesofap.com offers a vast repository of Online Sites and variety of community services. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf timesofap.com sites in detail. The information about the user as collected by timesofap.com is: (1) information supplied by users and (2) information automatically tracked while navigation.
 
