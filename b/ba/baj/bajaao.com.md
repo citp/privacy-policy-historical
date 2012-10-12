@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512234356id_/http%3A//www.bajaao.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012052959id_/http%3A//bajaao.com/shop/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BAJAAO - Buy and Review Musical Instruments, Pro Audio, Studio, P.A. Audio Equipment in India
+# Privacy Policy - BAJAAO - Buy online and Review Musical Instruments, Pro Audio, Studio, P.A. Audio Equipment in India
 
 390
 
 com_content.article
 
-(1 vote, average 5.00 out of 5) 
+(2 votes, average 3.50 out of 5) 
 
-Privacy Policy5.00 out of 5 based on 1 voters.
+Privacy Policy3.50 out of 5 based on 2 voters.
 
 At BAJAAO Music Private Limited ("BAJAAO"), we are committed to protecting the privacy of our customers and users of our web site located at www.bajaao.com (the "Site") . This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
 
