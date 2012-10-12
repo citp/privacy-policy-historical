@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308083711id_/http%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012043814id_/http%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
