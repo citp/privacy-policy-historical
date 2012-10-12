@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfreebingo.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504082655id_/http%3A//www.superfreebingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfreebingo.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012135125id_/http%3A//www.superfreebingo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Super Free Bingo
 
@@ -31,13 +31,13 @@ We are committed to ensuring that your information is secure. In order to preven
 
 #### How we use cookies:
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site.
+A cookie helps us, for example, to analyse web traffic or lets us know when you visit a particular site. This enables us to enhance your user experience when visiting Super Free Bingo by placing cookies on your computer.
 
 Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. To find out more or to change how cookies interact with your computer, [click here](http://www.superfreebingo.com/privacy-and-cookies/).
 
 #### Links to other websites:
 
