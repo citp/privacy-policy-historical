@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sciencenews.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616055757id_/http%3A//www.sciencenews.org/view/page/id/74735/title/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenews.org privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012112907id_/http%3A//www.sciencenews.org/view/page/id/74735/title/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Science News
+# Science News
 
-**General Privacy Policy Statement and Practices**
+Privacy Policy 
+
+Web edition : Tuesday, May 24, 2011 
 
 Society for Science & the Public (“SSP”) is concerned about the privacy of subscribers, members, donors, volunteers, and others.  This Policy is intended to clearly outline our current privacy policy and practices.  
 Please read this Policy carefully before providing personal information to SSP.
@@ -134,6 +136,3 @@ SSP will divulge any information collected from a User on the Websites when requ
 
 **Your California Privacy Rights**   
  In addition to the **Privacy Rights** provided for generally in these policies, California residents have the right to request in a mail, electronic mail or telephone communication, that SSP disclose for the immediately preceding calendar year the categories of your personal information shared with third parties, and the names and addresses of such third parties including the nature of the third-parties business.  Please see the mail, electronic mail and telephone contact information under **Third-Party Disclosures of Information** above/hereafter. 
-
-  
-
