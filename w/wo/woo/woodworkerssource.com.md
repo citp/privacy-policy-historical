@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkerssource.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501191110id_/http%3A//www.woodworkerssource.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkerssource.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012062004id_/http%3A//www.woodworkerssource.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Woodworkers Source Privacy and Security Policy
 
