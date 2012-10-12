@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rollapp.com privacy policy that was archived on 2012-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515111507id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rollapp.com privacy policy that was archived on 2012-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012024445id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -20,32 +20,51 @@ rollApp - Privacy Policy
 	<script type="text/javascript" src="https://d1vavpbr5pebgu.cloudfront.net/media/js/jquery.simplemodal.js"></script>
 	<script type="text/javascript" src="https://d1vavpbr5pebgu.cloudfront.net/media/js/jquery.main.js"></script>
 
-	<script type="text/javascript">
+	<script type="text/javascript" charset="utf-8">
+    var is_ssl = ("https:" == document.location.protocol);
+    var asset_host = is_ssl ? "https://d3rdqalhjaisuu.cloudfront.net/" : "http://d3rdqalhjaisuu.cloudfront.net/";
+    document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://d3rdqalhjaisuu.cloudfront.net/javascripts/feedback-v2.js" type="text/javascript"></script>
+
+<script type="text/javascript" charset="utf-8">
+    var feedback_widget_options = {};
+
+    feedback_widget_options.display = "overlay";  
+    feedback_widget_options.company = "rollapp";
+    feedback_widget_options.placement = "right";
+    feedback_widget_options.color = "#519FCC";
+    feedback_widget_options.style = "idea";
+
+    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script>
+	
+
+<script type="text/javascript">
 (function() {
     if (typeof window.janrain !== 'object') window.janrain = {};
-    window.janrain.settings = {};
+    if (typeof window.janrain.settings !== 'object') window.janrain.settings = {};
     
     /* _______________ can edit below this line _______________ */
 
-    janrain.settings.tokenUrl = 'https://rollapp.rpxnow.com/openid/v2/signin?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin';
+    janrain.settings.tokenUrl = 'https://www.rollapp.com/signin?redirectUrl=%2Fprivacy';
     janrain.settings.type = 'modal';
     janrain.settings.appId = 'jpjfoedidfdjaadmdlim';
     janrain.settings.appUrl = 'https://rollapp.rpxnow.com';
     janrain.settings.providers = [
-	'google',
-	'facebook',
-	'twitter',
-	'openid',
-	'yahoo',
-	'linkedin'];
+    'google',
+    'facebook',
+    'twitter',
+    'openid',
+    'yahoo',
+    'linkedin'];
     janrain.settings.providersPerPage = '6';
     janrain.settings.format = 'two column';
     janrain.settings.actionText = 'Sign in using your account with';
-    janrain.settings.showAttribution = true;
+    janrain.settings.showAttribution = false;
     janrain.settings.fontColor = '#666666';
     janrain.settings.fontFamily = 'lucida grande, Helvetica, Verdana, sans-serif';
     janrain.settings.backgroundColor = '#ffffff';
-    janrain.settings.width = '450';
+    janrain.settings.width = '392';
     janrain.settings.modalBorderColor = '#000000';
     janrain.settings.modalBorderRadius = '10';
     janrain.settings.modalBorderWidth = '10';
@@ -79,24 +98,46 @@ rollApp - Privacy Policy
     s.parentNode.insertBefore(e, s);
 })();
 </script>
-	<script type="text/javascript" charset="utf-8">
-    var is_ssl = ("https:" == document.location.protocol);
-    var asset_host = is_ssl ? "https://d3rdqalhjaisuu.cloudfront.net/" : "http://d3rdqalhjaisuu.cloudfront.net/";
-    document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://d3rdqalhjaisuu.cloudfront.net/javascripts/feedback-v2.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function(){
+	document.getElementsByClassName = document.getElementsByClassName || function (searchClass) {
+		  var classElements = new Array();
+		  var els = document.getElementsByTagName('*');
+		  var elsLen = els.length;
+		  var pattern = new RegExp("(^|\\s)"+searchClass+"(\\s|$)");
+		  for (i = 0, j = 0; i < elsLen; i++) {
+		    if ( pattern.test(els[i].className) ) {
+		      classElements[j] = els[i];
+		      j++;
+		    }
+		  }
+		  return classElements;
+		}
 
-<script type="text/javascript" charset="utf-8">
-    var feedback_widget_options = {};
+    function new_handler(old_handler, token_url){
+        console.log('generated ' + token_url);
+        return function(){
+                janrain.settings.tokenUrl=token_url;
+                old_handler();
+                return false;
+            };
+    }
 
-    feedback_widget_options.display = "overlay";  
-    feedback_widget_options.company = "rollapp";
-    feedback_widget_options.placement = "right";
-    feedback_widget_options.color = "#519FCC";
-    feedback_widget_options.style = "idea";
-
-    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+	function wrap_janrain_links(){
+		var janrain_links = document.getElementsByClassName(janrain.settings.linkClass);
+		for(var i=0;i<janrain_links.length;i++){
+			var link = janrain_links[i];
+			var token_url = decodeURIComponent(link.href.split('?')[1].replace('token_url=',''));
+			var onclick_handler = link.onclick;
+			link.onclick = new_handler(onclick_handler, token_url);
+		}
+	}
+	window.setTimeout(wrap_janrain_links,1000)
+})()
 </script>
+
 	
+
 	
 
 
@@ -166,8 +207,8 @@ qacct:"p-5dnA_rJHNdvz2"
 				
 				<!-- settings drop -->
 				
-					<div class="btn-login"><a href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy" class="rpxnow">login</a></div>
-					<div class="btn-signup"><a href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy" class="rpxnow">sign up</a></div>
+					<div class="btn-login"><a href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy" class="janrainEngage">login</a></div>
+					<div class="btn-signup"><a href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy" class="janrainEngage">sign up</a></div>
 				
 			</div>
 			
@@ -216,18 +257,17 @@ qacct:"p-5dnA_rJHNdvz2"
 <div class="heading">
 	<h2>Privacy Policy</h2>
 </div>
-		<div>	
-		<div class="txt">rollApp is committed to protecting your privacy when you visit our web-site <a href="http://www.rollapp.com">www.rollApp.com</a> and use our online or 
+	<div class="txt"><p>rollApp is committed to protecting your privacy when you visit our web-site <a href="http://www.rollapp.com">www.rollApp.com</a> and use our online or 
 		other services ("Services"). In this policy we explain how and why we collect your information, what we do with it 
-		and what controls you have over our use of it.</div>
-		<div class="txt last">From time to time, we add or change functions, features or products to our website or add or change Services. This, as well as our commitment to protecting the privacy of your
-personal information, may result in periodic changes to this Privacy Policy. Please remember to refer back to this Privacy Policy regularly to review any amendments.</div>
-		
-		<div class="heading">
+		and what controls you have over our use of it.</p>
+		<p>From time to time, we add or change functions, features or products to our website or add or change Services. This, as well as our commitment to protecting the privacy of your
+personal information, may result in periodic changes to this Privacy Policy. Please remember to refer back to this Privacy Policy regularly to review any amendments.</p>
+	</div>
+<div class="heading">
 	<h2>Information We Collect And How We Use It</h2>
 </div>
-		<div class="txt">We may collect the following types of information:
-		<ul>
+	<div class="txt"><p>We may collect the following types of information:
+		</p><ul>
 		<li><span>Information you provide</span> — When you sign up for a&nbsp;rollApp Account, we may ask you for&nbsp;personal 
 		information. We may combine the information you submit under your account with information from third parties in 
 		order to provide you with a better experience and to improve the quality of our services. For certain services, we 
@@ -253,37 +293,36 @@ personal information, may result in periodic changes to this Privacy Policy. Ple
 		These other sites may place their own cookies or other files on your computer, collect data or solicit personal 
 		information from you.</li>
 		</ul>
-		</div>
+		<p></p>
 		
-		<div class="txt">
+		<p>
 		In addition to the above, we may use the information we collect to:
-		<ul>
+		</p><ul>
 		<li>Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and</li>
 		<li>Protect the rights or property of rollApp or our users.</li>
 		</ul>
-		</div>			
+		<p></p>			
 
-		<div class="txt">If we use this information in a manner different than the purpose for which it was collected, then we will ask for 
-		your consent prior to such use.</div>
-		<div class="txt last">rollApp processes personal information on our servers in the United States of America and in other countries. 
-		In some cases, we process personal information outside your own country.</div>
-		
-		<div class="heading">
+		<p>If we use this information in a manner different than the purpose for which it was collected, then we will ask for 
+		your consent prior to such use.</p>
+		<p>rollApp processes personal information on our servers in the United States of America and in other countries. 
+		In some cases, we process personal information outside your own country.</p>
+	</div>
+
+<div class="heading">
 	<h2>Children’s Privacy</h2>
-</div>
-		
-		<div class="txt last">rollApp recognizes the privacy interests of children and we encourage parents and guardians to take an active 
+</div>	
+		<div class="txt"><p>rollApp recognizes the privacy interests of children and we encourage parents and guardians to take an active 
 		role in their children's online activities and interests. Our Services are not intended for children under the age 
 		of 13. rollApp does not target its Services or its website to children under 13. rollApp does not knowingly collect 
-		personally identifiable information from children under the age of 13.</div>
+		personally identifiable information from children under the age of 13.</p></div>
 		
-		<div class="heading">
+<div class="heading">
 	<h2>Information Sharing</h2>
 </div>
-
-		<div class="txt">rollApp only shares personal information with other companies or individuals outside of rollApp in the 
+		<div class="txt"><p>rollApp only shares personal information with other companies or individuals outside of rollApp in the 
 		following limited circumstances:
-		<ul>
+		</p><ul>
 		<li>We have your consent. We require opt-in consent for the sharing of any sensitive personal information.</li>
 		<li>We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons 
 		for the purpose of processing personal information on our behalf. We require that these parties agree to process 
@@ -295,41 +334,39 @@ personal information, may result in periodic changes to this Privacy Policy. Ple
 		prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, 
 		property or safety of rollApp, its users or the public as required or permitted by law.</li>
 		</ul>		
-		</div>
+		<p></p>
 		
-		<div class="txt last">If rollApp becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we 
+		<p>If rollApp becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we 
 		will ensure the confidentiality of any personal information involved in such transactions and provide notice 
-		before personal information is transferred and becomes subject to a different privacy policy.</div>
+		before personal information is transferred and becomes subject to a different privacy policy.</p></div>
 		
-		<div class="heading">
+<div class="heading">
 	<h2>Logging In To rollApp</h2>
 </div>
-		<div class="txt last">rollApp provides its users with the ability to create a new account, or sign-in to an existing account using 
+		<div class="txt"><p>rollApp provides its users with the ability to create a new account, or sign-in to an existing account using 
 		their Google, Twitter, Facebook or other Open ID credentials. If you choose to use a third party ID to sign in to 
 		rollApp, the first time you select this option you may be prompted by the third party service to allow rollApp 
 		the privilege of being able to access/post content on/to your third party service (i.e. Facebook). The third party 
 		service may also ask if you want to allow rollApp access to your email address and/or some other information. Accepting 
 		these requests allows you to use your third party ID credentials to access rollApp, and also signals your acceptance of 
 		rollApp’s Terms of Service. If you choose to revoke these privileges from rollApp, you can do so at any time by accessing 
-		the applicable applications settings under your third party service.</div>
+		the applicable applications settings under your third party service.</p></div>
 		
-		<div class="heading">
+<div class="heading">
 	<h2>Information Security</h2>
-</div>
-		
-		<div class="txt">We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure 
+</div>	
+		<div class="txt"><p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure 
 		or destruction of data. These include internal reviews of our data collection, storage and processing practices and 
 		security measures, including appropriate encryption and physical security measures to guard against unauthorized access 
-		to systems where we store personal data.</div>
-		<div class="txt last">We restrict access to personal information to rollApp employees, contractors and agents who need to know that information 
+		to systems where we store personal data.</p>
+		<p>We restrict access to personal information to rollApp employees, contractors and agents who need to know that information 
 		in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to 
-		discipline, including termination and criminal prosecution, if they fail to meet these obligations.</div>
+		discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p></div>
 		
-		<div class="heading">
+<div class="heading">
 	<h2>Accessing And Updating Personal Information</h2>
-</div>
-		
-		<div class="txt last">When you use rollApp services, we make good faith efforts to provide you with access to your personal information and 
+</div>	
+		<div class="txt"><p>When you use rollApp services, we make good faith efforts to provide you with access to your personal information and 
 		either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to 
 		be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information 
 		requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that 
@@ -338,17 +375,16 @@ personal information, may result in periodic changes to this Privacy Policy. Ple
 		is not otherwise required. In any case where we provide information access and correction, we perform this service free of 
 		charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after 
 		you delete your information, residual copies may take a period of time before they are deleted from our active servers and 
-		may remain in our backup systems.</div>
+		may remain in our backup systems.</p></div>
 		
-		<div class="heading">
+<div class="heading">
 	<h2>Notification Of Changes</h2>
 </div>
-		<div class="txt last">Due to the Internet's rapidly evolving nature, rollApp may need to update this Privacy Policy from time to time. If we 
+		<div class="txt"><p>Due to the Internet's rapidly evolving nature, rollApp may need to update this Privacy Policy from time to time. If we 
 		decide to change our privacy policy, we will post those changes to this Privacy Policy, the home page, and other places we 
 		deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, 
 		we disclose it.  We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make 
-		material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.</div>
-	</div>  
+		material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.</p></div>
 	<div class="cb"></div>
 </div>
 
@@ -359,7 +395,7 @@ personal information, may result in periodic changes to this Privacy Policy. Ple
 					<!-- sidebar -->
 				<div id="sidebar">
 					<script type="text/javascript">
-var PING_URL  = 'http://appsrv-us2.rollapp.com:3300/ping'
+var PING_URL  = 'https://appsrv-us2.rollapp.com:443/ping'
 $(function(){
 	if(!PING_URL){
 		setVisual(0)
@@ -384,7 +420,7 @@ $(function(){
 			
 				<ul id="MySessions">
 					
-					<li><a class="rpxnow" href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy">Login <strong>to see your running apps</strong></a></li>
+					<li><a class="janrainEngage" href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy">Login <strong>to see your running apps</strong></a></li>
 					
 				</ul>
 			</div>
@@ -419,7 +455,7 @@ $(function(){
 					<!-- signup block -->
 					<div class="signup">
 						<p>Get started with rollApp</p>
-						<a href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy" class="rpxnow btn-signup">Sign Up Now!</a>
+						<a href="https://rollapp.rpxnow.com/openid/embed?token_url=https%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3Dhttps%3A%2F%2Fwww.rollapp.com%2Fprivacy" class="janrainEngage btn-signup">Sign Up Now!</a>
 					</div>
 					
 					
@@ -456,21 +492,12 @@ $(function(){
 			</div>
 		</div>
 	</div>
-    <script type="text/javascript">
-        var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
-        document.write(unescape("%3Cscript src='" + rpxJsHost +
-            "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
-        
-    </script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        RPXNOW.overlay = true;
-        RPXNOW.language_preference = 'en';
-    </script>
+    
 	
 
 
 	
 
 
-<!-- BUILD: 52-2012-05-13_19-42-42 -->
-<!-- REVISION:vrel-20120305+270--></body></html>
+<!-- BUILD: 90-2012-10-10_01-17-58 -->
+<!-- REVISION:20120929 v11--></body></html>
