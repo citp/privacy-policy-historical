@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsfx.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510211344id_/http%3A//www.letsfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfx.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012073013id_/http%3A//www.letsfx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Let's FX Group
 
