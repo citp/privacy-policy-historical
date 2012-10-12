@@ -1,41 +1,46 @@
-<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2012-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120420220341id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2012-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012043859id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <title>StatBroadcast® Systems - Privacy Policar</title>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jq/jquery.js"></script>
 <script type="text/javascript" src="/js/jq/jquery-ui.js"></script>
 <script type="text/javascript" src="/js/jq/jvalidate.js"></script>
 <script>
+
 $(document).ready(function(){
-$('.button').button();
-   $('#signin').validate({errorPlacement: function(error, element) {error.appendTo( null );}});
-   $(".signin").click(function(e) {
-              e.preventDefault();
-              $("fieldset#signin_menu").toggle();
-              $("#signinbutton").toggleClass("menu-open");
-            });
+	//format all buttons
+	$('.button').button();
 
-            $("fieldset#signin_menu").mouseup(function() {
-                return false
-            });
-			$(document).mouseup(function(e) {
-
-                if($(e.target).parent("a.signin").length==0) {
-                    $("#signinbutton").removeClass("menu-open");
-                    $("fieldset#signin_menu").hide();
-                }
-            });
+	//control panel signin popup controller
+	$('#signin').validate({errorPlacement: function(error, element) {error.appendTo( null );}});
+	$(".signin").click(function(e) {
+		e.preventDefault();
+		$("fieldset#signin_menu").toggle();
+		$("#signinbutton").toggleClass("menu-open");
+	});
+	$("fieldset#signin_menu").mouseup(function() {	return false	});
+	$(document).mouseup(function(e) {
+		if($(e.target).parent("a.signin").length==0) {
+			$("#signinbutton").removeClass("menu-open");
+			$("fieldset#signin_menu").hide();
+		}
+	});
 });
 
+//general helper functions
 function activeLink(el){$(el).css("font-weight", "bold");$(el).css("color", "#FFF");}
+function getParameterByName(name) {    return splitQuery(window.location.href, name);}
+function splitQuery(tgt, name) {    name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");    var regexS = "[\\?&]" + name + "=([^&#]*)";    var regex = new RegExp(regexS);    var results = regex.exec(tgt);    if (results == null)        return false;    else        return results[1];}
+function adjustHeight(){var min_height = (arguments[0]) ? arguments[0] : 500 ;var h = $('.sb_maincontent_sidebar').height()+100;	if (h < min_height)	{h = min_height;}	var hh = $('.sb_maincontent_left').height()+100;	if (hh > h){h = hh;}	$('.sb_maincontent').height(h);}
 </script>
 <!--<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/overcast/jquery-ui.css" />-->
 <link rel="stylesheet" type="text/css" href="/css/ui/sb-ui-theme/jquery-ui-1.8.13.custom.css">
 <link rel="icon" type="image/ico" href="/sb.ico">
 <link type="text/css" href="/css/mainstyles.css" rel="stylesheet">
 <link type="text/css" href="/css/text.css" rel="stylesheet">
-<!--<link rel="stylesheet" type="text/css" href="/css/america-ui/theme.css" />-->
+<!--<link rel="stylesheet" type="text/css" href="/css/themes/america/theme.css" />-->
 <style>
 .hidden{display:none;}
 </style>
