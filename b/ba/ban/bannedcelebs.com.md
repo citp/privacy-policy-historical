@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannedcelebs.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223107id_/http%3A//track.bannedcelebs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannedcelebs.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012024739id_/http%3A//track.bannedcelebs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
