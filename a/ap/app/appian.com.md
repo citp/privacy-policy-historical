@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525055616id_/http%3A//www.appian.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012035301id_/http%3A//www.appian.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Information | Appian BPM
 
