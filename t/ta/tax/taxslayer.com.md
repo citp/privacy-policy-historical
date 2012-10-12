@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630055845id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012045057id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
@@ -97,7 +97,7 @@ We will retain your information for as long as your account is active or as need
 
 **Access to Personal Information:**
 
-Personal Information is accessible online through Oct. 20th, 2012. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
+Personal Information is accessible online through Oct. 20th, 2013. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
 
 **How to Contact Us:**
 
