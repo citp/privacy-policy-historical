@@ -1,10 +1,15 @@
-<!--The following is the downloaded HTML source of the bajaao.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512234356id_/http%3A//www.bajaao.com/shop/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bajaao.com privacy policy that was archived on 2012-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012052959id_/http%3A//bajaao.com/shop/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<style>
+#active_menu{
+	color:#000!important;
+	font-weight: bold!important;
+	}
+	
+</style>
 <meta name="msvalidate.01" content="74B172FC2C4F18FFAE2049F9BB85868B">
-
-
   <base href="http://bajaao.com/shop/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta http-equiv="x-ua-compatible" content="IE=EmulateIE8">
@@ -13,18 +18,19 @@
   <meta name="title" content="Privacy Policy">
   <meta name="description" content="At BAJAAO Music Private Limited ('BAJAAO'), we are committed to protecting the privacy of our customers and users of our web site located at www. musiciansfriend. com (the 'Site') . This privacy polic">
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
-  <title>Privacy Policy  - BAJAAO - Buy and Review Musical Instruments, Pro Audio, Studio, P.A. Audio Equipment in India</title>
+  <title>Privacy Policy  - BAJAAO - Buy online and Review Musical Instruments, Pro Audio, Studio, P.A. Audio Equipment in India</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/plugins/system/vm_search_autocomplete/jquery.autocomplete.css" type="text/css">
   <link rel="stylesheet" href="http://bajaao.com/modules/mod_itf_call_me_back/media/css/callmeback.css" type="text/css">
-  <link rel="stylesheet" href="/modules/mod_GI_ajaxproductsearch/Style/layout.php?sareaw=320&amp;pareaw=320&amp;pimgh=0" type="text/css">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/swfobject.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/avreloaded.js"></script>
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
-  <script type="text/javascript" src="/modules/mod_GI_ajaxproductsearch/Engine/engine.js"></script>
+  <script type="text/javascript" src="/plugins/system/vm_search_autocomplete/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="/plugins/system/vm_search_autocomplete/jquery.noconflict.js"></script>
+  <script type="text/javascript" src="/plugins/system/vm_search_autocomplete/jquery.autocomplete.min.js"></script>
   <script type="text/javascript">
 window.addEvent('domready', function() {
 											
@@ -49,6 +55,44 @@ window.addEvent('domready', function() {
 												}
 												
 											});
+var options = {
+					dataType: 'json',
+					parse: function(data) {
+						return jqdaycounts.map(data, function(row) {
+							return {
+								data: row,
+								value: row.product_name,
+								result: row.product_name
+							}
+						});
+					},
+					minChars:3,
+					delay:100,
+					matchCase:0,
+					matchSubset:1,
+					matchContains:1,
+					selectFirst:0,
+					width:200,
+					scrollHeight:240,
+					autoFill:0,
+					formatItem: function(row) {
+						var item='';item+=row.product_name;return item;
+					},
+					extraParams:{
+							ac:1,
+							option:'com_virtuemart',
+							view:'virtuemart',
+							searchsku:1
+						}};
+				fresult = function(event, data, formatted){
+					if (data.link) {
+						document.location.href = data.link;
+					}
+				}
+				//jQuery.noConflict();
+				jqdaycounts().ready(function() {
+				jqdaycounts('input[name="keyword"],input[name="searchword"]').focus().autocomplete('index.php',options).result(fresult);
+			});
   </script>
   <style type="text/css">.we_fblikeplg{display:block; float:left; width:100%;}  .we_share{margin:2px;float:left;}  .we_like{margin:2px;float:left;}</style>
   <link href="http://bajaao.com/plugins/content/microformatsvotes/css/microformatsvotes.css" rel="stylesheet" type="text/css">
@@ -81,10 +125,7 @@ window.addEvent('domready', function() {
 	<script type="text/javascript" src="http://bajaao.com/plugins/content/microformatsvotes/js/microformatsvotesplugin.js"></script>
   <script type="text/javascript" src="http://bajaao.com//modules/mod_tpmenu/tpmenu/dropdown/menu.js.php?animated=Fx.Transitions.Bounce.easeOut"></script><link href="http://bajaao.com/templates/eshop_plazza/css/dropdowntpmenu.css" rel="stylesheet" type="text/css">
 
-
-
  
-
 
 
 
@@ -158,63 +199,35 @@ $(function() {
 
                                                 <div id="custtopmenu">
 
-                                                        <div id="custtopmenu_inner"><div style="float: right; text-align: right;"><span style="text-align: left; color:#fff;"> <a class="toplinkmanu" href="/shop/cart" style="color:#fff;">View Cart</a> |  <a class="toplinkmanu" href="/your-details" style="color:#fff;">My Account</a> |  <a class="toplinkmanu" href="/shop/faqs.html?view=faq" style="color:#fff;">FAQ</a> |  <a class="toplinkmanu" href="/contact-us" style="color:#fff;">Contact Us</a> |  <a class="toplinkmanu" href="/youtalk/index.html" style="color:#fff;">YouTalk</a> |  <a class="toplinkmanu" href="/youblog/index.html" style="color:#fff;">YouBlog</a> </span>
-<div style="    margin-top: 5px;     text-align: right;"><a class="toplinkmanu" href="/contact-us" style="color:#fff;">Have Questions?</a> <strong style="color:#FFCC66;">Call 91-8860622340 (IVR) / 022-65223453/54</strong></div>
-</div>          
-    <div id="product_search_module">
-    <script type="text/javascript">
-      window.addEvent('domready', function() {
-        loadscript(80,"Enter product name...","http://bajaao.com/index2.php?option=com_ajaxproductsearch&format=raw");      
-      });
-    </script>
-         
-      
-      <form id="search_form" action="http://bajaao.com/index.php?page=shop.browse&amp;option=com_virtuemart" method="get" onsubmit="return false;">                
-                   <div style="float:left; margin-top: 7px;
-    text-shadow: 1px 1px 1px #000000; color:#CCCCCC;">Search in :</div>
-                <select name="category">
-                  <option value="-1" selected="selected">All</option>
-                              <option value="42">Accessories</option>
-                              <option value="172">Albums</option>
-                              <option value="4">Amplifiers</option>
-                              <option value="257">DJ Gear</option>
-                              <option value="50">Drums and Percussion</option>
-                              <option value="8">Effect Units</option>
-                              <option value="5">Guitars</option>
-                              <option value="238">Home Entertainment</option>
-                              <option value="10">Indian Instruments</option>
-                              <option value="140">Keyboards and Pianos</option>
-                              <option value="243">Merchandise</option>
-                              <option value="240">Music Education</option>
-                              <option value="1">Strings</option>
-                              <option value="74">Studio/Recording</option>
-                              <option value="221">Touring/Cinema Sound</option>
-                              <option value="249">Ukelele</option>
-                              <option value="136">Violins</option>
-                              <option value="126">Wind Instruments</option>
-                              <option value="274">Patch Cables</option>
-                            </select>
-               <input type="text" style="font-size:11pt" name="keyword1" id="search_area" value="">
-              <input type="hidden" name="productnumber" value="8">
-              <input type="hidden" name="nomatches" value="No matches! Please try again!">
-        <input type="hidden" name="search" value="Search">
-        <input class="delete-this" type="hidden" name="option" value="com_virtuemart">
-                    <input class="delete-this" type="hidden" name="page" value="shop.browse">
-      </form>
-      <div id="searched_products_relative">
-        <div id="searched_products">                
-        </div>
-      </div>
-      <form action="http://bajaao.com/index.php?page=shop.browse&amp;option=com_virtuemart" method="get" name="myform">
-        <input id="search_key" type="hidden" name="keyword1" value="">
-        <input type="hidden" name="search" value="Search">
-        <input type="hidden" name="search_limiter" value="-1">
-        <input type="hidden" name="option" value="com_virtuemart">
-                    <input type="hidden" name="page" value="shop.browse">
-      </form>
-      
-    </div>        
-</div>
+                                                        <div id="custtopmenu_inner"><div style="float: right; text-align: right;"><span style="text-align: left; color:#fff;"> <a class="toplinkmanu" style="color:#fff;" href="http://bajaao.com/shop/cart">View Cart</a> |  <a class="toplinkmanu" style="color:#fff;" href="http://bajaao.com/shop/account.html">My Account</a> |  <a class="toplinkmanu" style="color:#fff;" href="http://bajaao.com/shop/faqs.html?view=faq">FAQ</a> | <a class="toplinkmanu" style="color:#fff;" href="http://bajaao.com/contact-us">Contact Us</a> |  <a class="toplinkmanu" style="color:#fff;" href="http://bajaao.com/youtalk/index.html">YouTalk</a> |  <a class="toplinkmanu" style="color:#fff;" href="http://bajaao.com/youblog/index.html">YouBlog</a> </span>
+<div style="    margin-top: 5px;     text-align: right;"><a class="toplinkmanu" style="color:#fff;" href="http://bajaao.com/contact-us">Have Questions..</a> <strong style="color:#FFCC66;">Call +91-(0)8860622340 (IVR)</strong></div>
+<div style="    margin-top: 2px;     text-align: right;"><strong style="color:#FFCC66;">Email : helpdesk@bajaao.com</strong></div>
+</div><!--BEGIN Search Box --> 
+<form action="/shop.html?page=shop.browse" method="post">
+<style>
+.search{
+ background: url("/images/inputbox_bg.png") repeat scroll 0 0 #EFEFEF;
+    border: 1px solid #A7A7A7;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    height: 23px;
+    margin-left: 4px;
+    margin-top: 0;
+    padding: 2px 5px;
+    width: 308px;
+}
+.ac_results{
+width: 315px !important;
+}
+</style>
+	<div style="color: rgb(255, 255, 255); font-size: 14px; margin-top: 70px; float: left; text-align: right; width: 186px;">Quick Search</div> 
+	<div style=" float: left;
+    margin: -27px 1px 0 193px;">
+		<input name="keyword" type="text" size="12" title="Search" class="search" id="keyword"> &nbsp; 
+		<input style="padding:3px 2px" class="button" type="submit" name="Search" value="Search">
+	</div>
+</form>
+<!-- End Search Box --> </div>
 
                                                 </div>
 
@@ -240,13 +253,14 @@ $(function() {
 <a href="/shop/terms-and-conditions.html">TERMS AND CONDITIONS</a></li><li class="active">
 <a href="/shop/privacy-policy.html">PRIVACY POLICY</a></li><li class="">
 <a href="/shop/advertise-your-musical-instrument-pro-audio-brand-india-highly-targeted-effective-marketing.html">PARTNER WITH US</a></li><li class="">
-<a href="/shop/affiliate-program.html?view=login">AFFILIATE PROGRAM</a></li>
+<a href="/shop/affiliate-program.html?view=login">AFFILIATE PROGRAM</a></li><li class="">
+<a href="/shop/careers.html">Careers</a></li>
 </ul></li><li class="fulltpmenuimages">
 <a href="/hot-deals-on-bajaaocom.html">Hot Deals</a></li><li class="fulltpmenuimages">
 <a href="/new-products-on-bajaao-com.html">New Products</a></li><li class="fulltpmenuimages">
 <a href="/youblog/latest.html">YouBlog</a></li><li class="fulltpmenuimages">
 <a href="/youtalk/index.html">YouTalk</a></li><li class="fulltpmenuimages">
-<a href="/testimonials-reviews-user-reviews-experience-with-bajaaocom.html?view=testimonials&amp;layout=testimonials">Testimonials</a></li><li class="parent fulltpmenuimages">
+<a href="/testimonials-reviews-customer-reviews-feedback-experience-with-bajaaocom.html?view=testimonials&amp;layout=testimonials">Testimonials</a></li><li class="parent fulltpmenuimages">
 <a href="/services.html">Services</a><ul><li class="">
 <a href="/services/recording-studio-design-consultancy-turnkey.html">Studio Design</a></li><li class="">
 <a href="/services/jam-room.html">Jam Room</a></li><li class="parent">
@@ -260,7 +274,8 @@ $(function() {
 <a href="/services/cinema-sound-consultant-buy-supplier-india/indian-cinema-market-sound-report-audio.html">Indian Market</a></li>
 </ul></li><li class="">
 <a href="/services/home-theatre-design.html">Home Theater Design</a></li><li class="">
-<a href="/services/nightclub-disco-pub-sound-system-design.html">Nightclub Sound</a></li>
+<a href="/services/nightclub-disco-pub-sound-system-design.html">Nightclub Sound</a></li><li class="">
+<a href="/services/djembe-rentals.html">Djembe Rentals</a></li>
 </ul></li><li class="parent fulltpmenuimages">
 <a href="/resources.html">Resources</a><ul><li class="">
 <a href="/resources/latest-news-bajaao.html">News</a></li><li class="parent">
@@ -275,6 +290,7 @@ $(function() {
 <a href="/resources/drums/drum-videos.html">Videos</a></li>
 </ul></li>
 </ul></li><li class="fulltpmenuimages">
+<a href="/careers.html">Careers</a></li><li class="fulltpmenuimages">
 <a href="/contact-us.html">Contact Us</a></li>
 </ul></div></div>
 
@@ -377,38 +393,122 @@ $(function() {
 			<div class="moduletable-redleftmod">
 					<h3>The Gear</h3>
 					
-          <a title="Accessories" style="display:block;" class="mainlevel-red" href="/shop/42-accessories.html">Accessories</a>
-          <a title="Albums" style="display:block;" class="mainlevel-red" href="/shop/172-albums.html">Albums</a>
-          <a title="Amplifiers" style="display:block;" class="mainlevel-red" href="/shop/4-amplifiers.html">Amplifiers</a>
-          <a title="DJ Gear" style="display:block;" class="mainlevel-red" href="/shop/257-dj-gear.html">DJ Gear</a>
-          <a title="Drums and Percussion" style="display:block;" class="mainlevel-red" href="/shop/50-drums-and-percussion.html">Drums and Percussion</a>
-          <a title="Effect Units" style="display:block;" class="mainlevel-red" href="/shop/8-effect-units.html">Effect Units</a>
-          <a title="Guitars" style="display:block;" class="mainlevel-red" href="/shop/5-guitars.html">Guitars</a>
-          <a title="Home Entertainment" style="display:block;" class="mainlevel-red" href="/shop/238-home-entertainment.html">Home Entertainment</a>
-          <a title="Indian Instruments" style="display:block;" class="mainlevel-red" href="/shop/10-indian-instruments.html">Indian Instruments</a>
-          <a title="Keyboards and Pianos" style="display:block;" class="mainlevel-red" href="/shop/140-keyboards-and-pianos.html">Keyboards and Pianos</a>
-          <a title="Merchandise" style="display:block;" class="mainlevel-red" href="/shop/243-merchandise.html">Merchandise</a>
-          <a title="Music Education" style="display:block;" class="mainlevel-red" href="/shop/240-music-education.html">Music Education</a>
-          <a title="Strings" style="display:block;" class="mainlevel-red" href="/shop/1-strings.html">Strings</a>
-          <a title="Studio/Recording" style="display:block;" class="mainlevel-red" href="/shop/74-studiorecording.html">Studio/Recording</a>
-          <a title="Touring/Cinema Sound" style="display:block;" class="mainlevel-red" href="/shop/221-touringcinema-sound.html">Touring/Cinema Sound</a>
-          <a title="Ukelele" style="display:block;" class="mainlevel-red" href="/shop/249-ukelele.html">Ukelele</a>
-          <a title="Violins" style="display:block;" class="mainlevel-red" href="/shop/136-violins.html">Violins</a>
-          <a title="Wind Instruments" style="display:block;" class="mainlevel-red" href="/shop/126-wind-instruments.html">Wind Instruments</a>
-          <a title="Patch Cables" style="display:block;" class="mainlevel-red" href="/shop/274-patch-cables.html">Patch Cables</a><table cellpadding="1" cellspacing="1" border="0" width="100%">
+          <a title="Accessories" style="display:block;" id="" class="mainlevel-red" href="/shop/42-accessories.html">Accessories</a>
+          <a title="Albums" style="display:block;" id="" class="mainlevel-red" href="/shop/172-albums.html">Albums</a>
+          <a title="Amplifiers" style="display:block;" id="" class="mainlevel-red" href="/shop/4-amplifiers.html">Amplifiers</a>
+          <a title="DJ Gear" style="display:block;" id="" class="mainlevel-red" href="/shop/257-dj-gear.html">DJ Gear</a>
+          <a title="Drums and Percussion" style="display:block;" id="" class="mainlevel-red" href="/shop/50-drums-and-percussion.html">Drums and Percussion</a>
+          <a title="Effect Units" style="display:block;" id="" class="mainlevel-red" href="/shop/8-effect-units.html">Effect Units</a>
+          <a title="Guitars" style="display:block;" id="" class="mainlevel-red" href="/shop/5-guitars.html">Guitars</a>
+          <a title="Home Entertainment" style="display:block;" id="" class="mainlevel-red" href="/shop/238-home-entertainment.html">Home Entertainment</a>
+          <a title="Indian Instruments" style="display:block;" id="" class="mainlevel-red" href="/shop/10-indian-instruments.html">Indian Instruments</a>
+          <a title="Keyboards and Pianos" style="display:block;" id="" class="mainlevel-red" href="/shop/140-keyboards-and-pianos.html">Keyboards and Pianos</a>
+          <a title="Merchandise" style="display:block;" id="" class="mainlevel-red" href="/shop/243-merchandise.html">Merchandise</a>
+          <a title="Music Education" style="display:block;" id="" class="mainlevel-red" href="/shop/240-music-education.html">Music Education</a>
+          <a title="Strings" style="display:block;" id="" class="mainlevel-red" href="/shop/1-strings.html">Strings</a>
+          <a title="Studio/Recording" style="display:block;" id="" class="mainlevel-red" href="/shop/74-studiorecording.html">Studio/Recording</a>
+          <a title="Touring/Cinema Sound" style="display:block;" id="" class="mainlevel-red" href="/shop/221-touringcinema-sound.html">Touring/Cinema Sound</a>
+          <a title="Ukelele" style="display:block;" id="" class="mainlevel-red" href="/shop/249-ukelele.html">Ukelele</a>
+          <a title="Violins" style="display:block;" id="" class="mainlevel-red" href="/shop/136-violins.html">Violins</a>
+          <a title="Wind Instruments" style="display:block;" id="" class="mainlevel-red" href="/shop/126-wind-instruments.html">Wind Instruments</a>
+          <a title="Sound Proofing / Acoustic Treatment" style="display:block;" id="" class="mainlevel-red" href="/shop/223-sound-proofing--acoustic-treatment.html">Sound Proofing / Acoustic Treatment</a>
+          <a title="Wireless Systems" style="display:block;" id="" class="mainlevel-red" href="/shop/283-wireless-systems.html">Wireless Systems</a>
+          <a title="Lighting &amp; Stage Effects" style="display:block;" id="" class="mainlevel-red" href="/shop/265-lighting-a-stage-effects.html">Lighting &amp; Stage Effects</a>
+<table cellpadding="1" cellspacing="1" border="0" width="100%">
+
+
     <tbody><tr> 
+
       <td colspan="2"><br>
-          <a href="/shop/category.html">
-          List All Products          </a>
+
+         <!--<a href="/shop/category.html">-->
+         
+         <a href="/shop/category.html?musicstore=17">
+		 <!-- shop/category.html?limit=20&limitstart=20  shop/category.html?limit=40&limitstart=40<a href="/component/virtuemart/?limit=0&amp;start=20">-->
+        	  List All Products         </a>
+
       </td>
+
     </tr>
-    <tr> 
+
+  
+  <tr> 
+
     <td colspan="2">
+
         <a class="mainlevel-red" href="/shop/downloads.html">
-        Download Area        </a>
+
+        Download Area
+        </a>
+
     </td>
-  </tr>   
+
+  </tr>
+   
+
 </tbody></table>
+
+		</div>
+			<div class="moduletable-redleftmod">
+					<h3>BAJAAO Clouds</h3>
+					<a href="/component/virtuemart/?page=shop.browse&amp;keyword=adapter" style="color:#b86eb1;font-size: 12.085106383px;" title="adapter">adapter</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=akai" style="color:#d10217;font-size: 10.2978723404px;" title="akai">akai</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=arranger" style="color:#eee3f1;font-size: 12.3829787234px;" title="arranger">arranger</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=audio" style="color:#db6203;font-size: 10.2978723404px;" title="audio">audio</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=axiom" style="color:#670a34;font-size: 11.1914893617px;" title="axiom">axiom</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=casio" style="color:#6bcbf5;font-size: 15.6595744681px;" title="casio">casio</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=control" style="color:#54c1d0;font-size: 10.5957446809px;" title="control">control</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=controller" style="color:#67c7cb;font-size: 15.6595744681px;" title="controller">controller</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=digital" style="color:#943e94;font-size: 13.2765957447px;" title="digital">digital</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=express" style="color:#471c0e;font-size: 10px;" title="express">express</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=fantom" style="color:#eb3cf4;font-size: 10.8936170213px;" title="fantom">fantom</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=guitar" style="color:#16f3d6;font-size: 10px;" title="guitar">guitar</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=interface" style="color:#9195c6;font-size: 13.5744680851px;" title="interface">interface</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=keyboard" style="color:#c35bcf;font-size: 24px;" title="keyboard">keyboard</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=keystation" style="color:#a19fce;font-size: 10.2978723404px;" title="keystation">keystation</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=korg" style="color:#837105;font-size: 12.3829787234px;" title="korg">korg</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=live" style="color:#64984b;font-size: 10px;" title="live">live</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=maudio" style="color:#16418;font-size: 15.0638297872px;" title="maudio">maudio</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=midi" style="color:#df6b75;font-size: 19.2340425532px;" title="midi">midi</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=mobile" style="color:#2a1ba1;font-size: 10.5957446809px;" title="mobile">mobile</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=motu" style="color:#bf8191;font-size: 10.2978723404px;" title="motu">motu</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=musical" style="color:#ba206d;font-size: 11.4893617021px;" title="musical">musical</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=oxygen" style="color:#f22fae;font-size: 10.2978723404px;" title="oxygen">oxygen</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=piano" style="color:#351bb;font-size: 12.6808510638px;" title="piano">piano</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=portable" style="color:#2d5d8e;font-size: 12.3829787234px;" title="portable">portable</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=power" style="color:#7c6a75;font-size: 11.1914893617px;" title="power">power</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=professional" style="color:#a149b4;font-size: 10.5957446809px;" title="professional">professional</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=prokeys" style="color:#7162bc;font-size: 10.2978723404px;" title="prokeys">prokeys</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=roland" style="color:#34a332;font-size: 17.4468085106px;" title="roland">roland</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=sampling" style="color:#b958c1;font-size: 10.5957446809px;" title="sampling">sampling</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=semi" style="color:#dc1a40;font-size: 10px;" title="semi">semi</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=stage" style="color:#ecc3e4;font-size: 10.2978723404px;" title="stage">stage</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=stand" style="color:#8a5ad8;font-size: 11.4893617021px;" title="stand">stand</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=standard" style="color:#cafe31;font-size: 10.2978723404px;" title="standard">standard</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=surface" style="color:#c825e7;font-size: 10.2978723404px;" title="surface">surface</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=synthesizer" style="color:#f1170c;font-size: 11.1914893617px;" title="synthesizer">synthesizer</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=ultra" style="color:#36ca27;font-size: 10px;" title="ultra">ultra</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=vaccordion" style="color:#1ce7b7;font-size: 10px;" title="vaccordion">vaccordion</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=weighted" style="color:#58ded8;font-size: 10px;" title="weighted">weighted</a>&nbsp;
+<a href="/component/virtuemart/?page=shop.browse&amp;keyword=workstation" style="color:#cababb;font-size: 13.2765957447px;" title="workstation">workstation</a>&nbsp;
+		</div>
+			<div class="moduletable">
+					<h3>Testimonials</h3>
+					
+
+	<strong style="color:#660000; text-shadow:0px 0px 1px #ccc;">ROBERT</strong> <br>
+ 
+
+	<div style="max-height:196px; overflow:hidden;"> Robert
+
+You can buy blindly from Bajaao. They keep their word. They even advise you on your choice. They are honest people. They are true rockers. 
+
+...</div> <br> 
+<a href="/component/jdtestimonials/">View all</a>
+
+
+	<font face="verdana" size="1"></font>
+
 		</div>
 			<div class="moduletable-redleftmod">
 					<h3>BAJAAO Login</h3>
@@ -425,115 +525,15 @@ $(function() {
 				<br>
 		<input type="submit" value="Login" class="button" name="Login">
 		<ul>
-			<li><a href="/component/user/reset.html">Lost Password?</a></li>
+			<li><a href="/component/user/reset.html">Forgot your password?</a></li>
 						<li><a href="/component/user/remind.html">Forgot your username?</a></li>
 									<li>No account yet? <a href="/shop/registration.html">Register</a></li>
 					</ul>
 		<input type="hidden" value="login" name="op2">
 		<input type="hidden" value="L3Nob3AvcHJpdmFjeS1wb2xpY3k=" name="return">
-		<input type="hidden" name="47a95047ced5345ab3db90bf66b98d80" value="1">
+		<input type="hidden" name="a3cc5073cdb884c17cbc0a30c785a225" value="1">
 			</form>
 </div>
-		</div>
-			<div class="moduletable">
-					<div style="text-align:center;">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-5117833289859024";
-google_ad_width = 160; 
-google_ad_height = 600; 
-google_ad_format = "160x600_as"; 
-google_ad_type = "image"; 
-google_ad_channel = ""; 
-google_color_border = "FFFFFF"; 
-google_color_bg = "FFFFFF"; 
-google_color_link = "0000FF"; 
-google_color_text = "000000"; 
-google_color_url = "008000"; 
-google_ui_features = "rc:6"; 
-//--> 
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>		</div>
-			<div class="moduletable-redleftmod">
-					<h3>BAJAAO Clouds</h3>
-					<a href="/component/virtuemart/?page=shop.browse&amp;keyword=acoustic" style="color:#c5dbd;font-size: 11.3461538462px;" title="acoustic">acoustic</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=addario" style="color:#df2c8d;font-size: 10.2692307692px;" title="addario">addario</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=amplifier" style="color:#3abd45;font-size: 12.9615384615px;" title="amplifier">amplifier</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=bajaao" style="color:#514f15;font-size: 10.5384615385px;" title="bajaao">bajaao</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=bass" style="color:#6ca71d;font-size: 12.6923076923px;" title="bass">bass</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=boss" style="color:#c33f2f;font-size: 12.4230769231px;" title="boss">boss</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=casio" style="color:#7506f0;font-size: 10.2692307692px;" title="casio">casio</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=classical" style="color:#768781;font-size: 10.5384615385px;" title="classical">classical</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=crash" style="color:#86661a;font-size: 11.6153846154px;" title="crash">crash</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=cymbal" style="color:#12cc0c;font-size: 12.6923076923px;" title="cymbal">cymbal</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=decorative" style="color:#135b26;font-size: 10.2692307692px;" title="decorative">decorative</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=distortion" style="color:#879faf;font-size: 10.2692307692px;" title="distortion">distortion</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=effects" style="color:#2c92ec;font-size: 11.6153846154px;" title="effects">effects</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=electric" style="color:#a9ffe3;font-size: 13.5px;" title="electric">electric</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=fender" style="color:#bacc3e;font-size: 10.2692307692px;" title="fender">fender</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=granada" style="color:#c7a92a;font-size: 10.2692307692px;" title="granada">granada</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=guitar" style="color:#62475a;font-size: 24px;" title="guitar">guitar</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=ibanez" style="color:#cb80;font-size: 11.3461538462px;" title="ibanez">ibanez</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=keyboard" style="color:#b7903e;font-size: 11.6153846154px;" title="keyboard">keyboard</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=line" style="color:#49b2f4;font-size: 11.6153846154px;" title="line">line</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=maudio" style="color:#e4e522;font-size: 10.2692307692px;" title="maudio">maudio</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=musical" style="color:#529349;font-size: 10.2692307692px;" title="musical">musical</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=nickel" style="color:#4d57a2;font-size: 10.2692307692px;" title="nickel">nickel</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=pedal" style="color:#d13c24;font-size: 11.8846153846px;" title="pedal">pedal</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=portable" style="color:#619b34;font-size: 11.3461538462px;" title="portable">portable</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=processor" style="color:#81d58c;font-size: 10.5384615385px;" title="processor">processor</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=professional" style="color:#6df5a5;font-size: 10.2692307692px;" title="professional">professional</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=sabian" style="color:#a51037;font-size: 12.6923076923px;" title="sabian">sabian</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=satriani" style="color:#7a0787;font-size: 10.2692307692px;" title="satriani">satriani</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=series" style="color:#33f544;font-size: 12.1538461538px;" title="series">series</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=signature" style="color:#90f45e;font-size: 10.2692307692px;" title="signature">signature</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=single" style="color:#861745;font-size: 10px;" title="single">single</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=sitar" style="color:#1321d1;font-size: 10.2692307692px;" title="sitar">sitar</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=splash" style="color:#cb63a3;font-size: 10.2692307692px;" title="splash">splash</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=squier" style="color:#d7185b;font-size: 10.2692307692px;" title="squier">squier</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=stand" style="color:#7f7aef;font-size: 10.5384615385px;" title="stand">stand</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=stranger" style="color:#8ea2d3;font-size: 10.2692307692px;" title="stranger">stranger</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=strings" style="color:#4c1f4b;font-size: 10.8076923077px;" title="strings">strings</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=tabla" style="color:#f5b471;font-size: 10.2692307692px;" title="tabla">tabla</a>&nbsp;
-<a href="/component/virtuemart/?page=shop.browse&amp;keyword=variax" style="color:#1508ed;font-size: 10.2692307692px;" title="variax">variax</a>&nbsp;
-		</div>
-			<div class="moduletable">
-					<a href="http://www.alexa.com/siteinfo/www.bajaao.com"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url=www.bajaao.com"></script></a>		</div>
-			<div class="moduletable">
-					<div style="text-align:center;">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-5117833289859024";
-google_ad_width = 160; 
-google_ad_height = 600; 
-google_ad_format = "160x600_as"; 
-google_ad_type = "image"; 
-google_ad_channel = ""; 
-google_color_border = "FFFFFF"; 
-google_color_bg = "FFFFFF"; 
-google_color_link = "0000FF"; 
-google_color_text = "000000"; 
-google_color_url = "008000"; 
-google_ui_features = "rc:6"; 
-//--> 
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>		</div>
-			<div class="moduletable">
-					<h3>Testimonials</h3>
-					
-
-	<strong style="color:#660000; text-shadow:0px 0px 1px #ccc;">josh daniel</strong> <br>
- 
-
-	<div style="max-height:196px; overflow:hidden;"> Hi BAJAAO! My Ibanez guitar was delivered to me this afternoon and i love it! The tone of the guitar is superb i could not find a scratch or a defect, its perfect and iam really happy with the guitar. special thanks to Roop Thomas, Shawn Pereira and Rajesh Joshi for guiding my throught. Thank u so much guys! Appreciate your service! Keep it Kicking!
-Cheers!!!...</div> <br> 
-<a href="/component/jdtestimonials/">View all</a>
-
-
-	<font face="verdana" size="1"></font>
-
 		</div>
 	
 
@@ -594,7 +594,7 @@ Cheers!!!...</div> <br>
 	
 		<div class="plgmfv-inline-rating-stars">
 		  <ul class="plgmfv-star-rating">
-		    <li class="current-rating" style="width:100%;">&nbsp;</li>
+		    <li class="current-rating" style="width:70%;">&nbsp;</li>
 		    <li><a title="1 star out of 5" class="plgmfv-toggler one-star">1</a></li>
 		    <li><a title="2 stars out of 5" class="plgmfv-toggler two-stars">2</a></li>
 		    <li><a title="3 stars out of 5" class="plgmfv-toggler three-stars">3</a></li>
@@ -604,10 +604,10 @@ Cheers!!!...</div> <br>
 		</div>
 		
 		<div class="plgmfv-box">
-	(1 vote, average 5.00 out of 5)
+	(2 votes, average 3.50 out of 5)
 		</div>
 	</div>
-	<div class="hreview-aggregate" style="position:absolute;left:-25000px;"><span class="item"><span class="fn">Privacy Policy</span></span><span class="rating"><span class="average">5.00</span> out of <span class="best">5</span></span> based on <span class="count">1</span> voters.</div><br style="clear:both"><br>
+	<div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review-aggregate" style="position:absolute;left:-25000px;"><span property="v:itemreviewed">Privacy Policy</span><span rel="v:rating"><span typeof="v:Rating"><span property="v:average">3.50</span> out of <span property="v:best">5</span></span></span> based on <span property="v:count">2</span> voters.</div><br style="clear:both"><br>
 <!-- START Web-Expert.gr Facebook Like/Share Google+ Twitter plugin -->
 <div style="clear:both;"></div>
 <div class="we_fblikeplg"><div class="we_like"><fb:like href="/" show_faces="false" layout="standard" width="375px" action="like" font="verdana" colorscheme="light"></fb:like></div><div class="we_twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-via="bajaao" data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></div><div class="we_ggplus"><g:plusone size="small" href="/"></g:plusone></div></div>
@@ -700,12 +700,19 @@ Cheers!!!...</div> <br>
 
                                                                                 <div id="botmodsection_1inner">
 
-                                                                                        		<div class="module-payment">
+                                                                                        		<div class="module-trust">
 			<div>
 				<div>
 					<div>
-													<h3>Payment Methods</h3>
-											<img style="margin:-3px -10px -10px;" src="http://www.bajaao.com/images/payments.png" alt="Payment Methods we accept" width="200">					</div>
+													<h3>PAYMENT METHODS</h3>
+											<ul>
+<li><strong><span style="color: white;">Credit Cards</span></strong>: Master/Visa<br><br></li>
+<li><strong><span style="color: white;">Debit Cards</span></strong>: Maestro/Visa<br><br></li>
+<li><strong><span style="color: white;">Internet Banking</span></strong>: All Indian banks<br><br></li>
+<li><strong><span style="color: white;">Direct Cash/Cheque Deposit</span></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>					</div>
 				</div>
 			</div>
 		</div>
