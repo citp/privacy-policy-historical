@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the logica.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012034213id_/http%3A//www.logica.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+We are committed to protecting your personal information. Before providing us with any personal information, please read this Privacy Policy, which concerns how we will protect and use your personal information. 
+
+In this Privacy Policy, the expressions "we", "us" or "our" mean Logica plc or another Logica group company as may be identified in this web site. 
+
+We may collect and process personal information which you provide to us, such as your name, address, email address, telephone number, employer and/or other information you send to us via this site or by contacting us through other means. We may use it for our business purposes, including lawful purposes relating to recruitment where you send information via this site to our recruitment teams or in response to a recruitment advertisement. We may provide you with information about our group companies, products and services in line with your preferences, process requests you make, update our records (for example if you are a shareholder), and to allow you to use this site and its features. If you wish to change your preferences, please [update your personalised RSS feed](https://web.archive.org/personalized-rss/), or contact us (see below).
+
+We do not pass on or sell personal information to third parties outside the control of the Logica group of companies. We may however share information within the Logica group. We may also pass your information to our pension or share administrators, share registrar, professional advisors, employees, agents, contractors and sub-contractors working on our behalf where this is appropriate. Also, we may disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+
+Given the global nature of Logica's business, your personal information may be transferred to, stored or processed at a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us, for a Logica group company, or for one of our suppliers. By submitting your personal information, you agree to this transfer, storage and/or processing as set out in this Privacy Policy. 
+
+In addition to the information you submit to us via this site, we may collect information about visits to the site, such as the browser you are using and the IP address of your computer or device if available. This is used within the Logica group to improve the design and layout of our site and to ensure that content from our site is presented in an effective manner for you and for your computer or device. We gather information on the relative popularity of each page, the average number of pages accessed by visitors, the number of emails sent or files downloaded, how the site is used, and the average time spent on the site and its pages. None of this information is linked back to you as an individual.
+
+In collecting information about visits to the site, we may use "cookies" to identify visitors to the site and to provide information to Logica about how the site is used. Cookies will also help us to provide you with a good experience when you browse the site. Cookies are widely used by web sites for these purposes. A cookie is a small piece of text which attaches to your computer or device (but does not access your computer or device) and which can store and track information on how you make use of this site. Most browsers will automatically accept a cookie but it is possible to set your browser to notify you prior to the cookie being sent, to allow you to accept or reject it. You can find out more about the cookies and how they are used on the Logica site by visiting our [Cookies Policy](https://web.archive.org/cookies-policy/).
+
+We may provide links from this site to web sites of third parties outside the Logica group. Please note that this Privacy Policy applies only to the contents of this site and not to those third party web sites which may have their own terms of use and/or privacy policies.  
+
+We may ask you to complete surveys that we use for research purposes within the Logica group. You do not have to respond to the surveys. We may also offer competitions from time to time. Logica International Limited, and/or other companies in the Logica group, may control the personal information provided in these situations and may provide additional information on the terms of such activities. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will use reasonable efforts to protect your personal information, we cannot guarantee the security of your information transmitted to this site. You send information at your own risk. 
+
+Once we have received your information, we will process it in accordance with appropriate procedures and security features to try to prevent unauthorised access, to keep it secure and to maintain its accuracy within our systems. 
+
+We are willing, on written request from you, to provide details of any personal information which you have provided to us (this may be at a small charge) and/or to stop using your personal information. We may require proof of identity from you prior to disclosing such information. If any information you have provided to us becomes inaccurate or out of date, or if you have any queries about this Privacy Policy, please contact us at the following email address: emailus@logica.com. Alternatively, if you have been provided with a different contact address for specific purposes (for example as a Logica shareholder or in relation to a special event), please use that address. 
+
+Logica plc and Logica International Limited are both registered with the UK’s Information Commissioner as data controllers for purposes related to this site. 
+
+Logica plc, 250 Brook Drive, Green Park, Reading, RG2 6UA, United Kingdom, company number 1631639; Logica International Limited, 250 Brook Drive, Green Park, Reading, RG2 6UA, United Kingdom, company number 1237299.
