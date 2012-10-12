@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504065221id_/http%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012162251id_/http%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for mySakai | rSmart
 
