@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetwhen.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611000525id_/http%3A//www.hubspot.com/privacy-policy/tabid/47008/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetwhen.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012071402id_/http%3A//www.hubspot.com/privacy-policy/tabid/47008/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -139,7 +139,7 @@ HubSpot will occasionally update this Statement of Privacy to reflect company an
 
 You may unsubscribe from HubSpot marketing communications by clicking on the “unsubscribe” link located on the bottom of the company’s emails. Additionally, you may unsubscribe by contacting HubSpot Support at 1-888-HUBSPOT (1-888-482-7768) extension 3.   
 
-HubSpot’s may send emails from our platform with HubSpot’s logo to show our tools capabilities however HubSpot does not control the email addresses directly and therefore cannot unsubscribe you from our customer’s emails on your behalf.  Please contact the sender of that email which will include proper unsubscribe links if sent via our product. 
+HubSpot’s customers may send emails from our platform with HubSpot’s logo to show our tools capabilities however HubSpot does not control the email addresses directly and therefore cannot unsubscribe you from our customers' emails on your behalf.  Please contact the sender of that email which will include proper unsubscribe links if sent via our product. 
 
 ### Contact Information
 
