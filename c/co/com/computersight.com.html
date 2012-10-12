@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the computersight.com privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the computersight.com privacy policy that was archived on 2012-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
     <title>Privacy Policy | Computersight</title>
@@ -205,7 +205,17 @@ function showTriondSignupForm()
 </head>
 
 <body> 
-		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+<!-- 
+		<script language="JavaScript" src="http://j.maxmind.com/app/geoip.js"></script>
+ -->
+		<script>
+			triond_user_logged_in = false;
+//			if (geoip_country_code() != 'CN'){
+//				document.write('<scr' + 'ipt type="text/javascript" src="http://www.triond.com/login/is-logged-in"></s' + 'cript>');
+//			} else {
+//				impression_country = 'CN';
+//			}
+		</script>
 		<div id="page">
 	<div class="topnav">
 		<ul>
@@ -229,27 +239,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=500");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=500&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=43903897413&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=e99e93&amp;cb=09d5f9f86016bdd219edbbf38c19f8c3' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=500&amp;cb=09d5f9f86016bdd219edbbf38c19f8c3&amp;n=e99e93' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad728')</script>		</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=500");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=500&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=18851520643&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c4699e&amp;cb=a1b367dc795aaf9a03ec5b9a2bd37076' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=500&amp;cb=a1b367dc795aaf9a03ec5b9a2bd37076&amp;n=c4699e' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad728')</script>		</div>
 	</div>
 	<!--/header -->
 	<div id="nav1">
@@ -372,27 +385,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=497");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=497&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=34737390025&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=beb72d&amp;cb=b1389783364f24085cd2dcfe7277288a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=497&amp;cb=b1389783364f24085cd2dcfe7277288a&amp;n=beb72d' border='0' alt='' /></a></noscript>		        <script type="text/javascript">antimalkar_detect('ad300')</script>			</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=497");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=497&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=57973845594&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=234522&amp;cb=3ca19a898bd3509830acdafa0f87cfea' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=497&amp;cb=3ca19a898bd3509830acdafa0f87cfea&amp;n=234522' border='0' alt='' /></a></noscript>		        <script type="text/javascript">antimalkar_detect('ad300')</script>			</div>
 			<div class="fix"></div>
 			<div class="box ads">
 				<div class="content">
@@ -418,90 +434,99 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=794");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=794&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=10375381449&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=d45e4f&amp;cb=3d43b6da08bc3f1be65203f3d4e4c532' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=794&amp;cb=3d43b6da08bc3f1be65203f3d4e4c532&amp;n=d45e4f' border='0' alt='' /></a></noscript>				</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=794");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=794&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=32880571013&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=206371&amp;cb=415254210f26405ff308e22e3c7ef583' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=794&amp;cb=415254210f26405ff308e22e3c7ef583&amp;n=206371' border='0' alt='' /></a></noscript>				</div>
 				<div id="ad160-2" style="display: block;">
 					
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=498");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=498&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=15760848144&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=9d91d2&amp;cb=97b44557b0a4ad8fc51bff312052d6e1' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=498&amp;cb=97b44557b0a4ad8fc51bff312052d6e1&amp;n=9d91d2' border='0' alt='' /></a></noscript>					 <script type="text/javascript">antimalkar_detect('ad160-2')</script>				</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=498");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=498&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=91891926329&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=f0a5ea&amp;cb=ecf1653b80880995c84e0a912ae3af45' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=498&amp;cb=ecf1653b80880995c84e0a912ae3af45&amp;n=f0a5ea' border='0' alt='' /></a></noscript>					 <script type="text/javascript">antimalkar_detect('ad160-2')</script>				</div>
 				<div class="fix"></div>
 			</div>
 			<div class="fix"></div>
 			<div class="box ads">
 				<div class="content">
 					<div class="sidebar-title">Popular Articles</div>
-					<li><div class="popularPostImgDiv"><a href="http://computersight.com/computers/samsung-galaxy-s-iii-better-than-iphone-critics/" title="Samsung Galaxy S III Better Than iPhone: Critics"><img src="http://s3.amazonaws.com/readers/scienceray/2008/04/27/62902.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/computers/samsung-galaxy-s-iii-better-than-iphone-critics/" title="Samsung Galaxy S III Better Than iPhone: Critics">Samsung Galaxy S III Better Than iPhone: Critics</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/communication-networks/security/cyber-virus-russian-firm-kaspersky-discovers-super-weapon/" title="Cyber Virus: Russian Firm Kaspersky Discovers Super Weapon"><img src="http://s3.amazonaws.com/readers/computersight/2008/05/17/164123.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/communication-networks/security/cyber-virus-russian-firm-kaspersky-discovers-super-weapon/" title="Cyber Virus: Russian Firm Kaspersky Discovers Super Weapon">Cyber Virus: Russian Firm Kaspersky Discovers Super Weapon</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/software/amplifies-the-signal-to-the-modem-internet/" title="Amplifies The Signal to The Modem Internet"><img src="http://s3.amazonaws.com/readers/webupon/2008/03/18/127486.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/software/amplifies-the-signal-to-the-modem-internet/" title="Amplifies The Signal to The Modem Internet">Amplifies The Signal to The Modem Internet</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/communication-networks/security/the-most-dangerous-computer-viruses-for-this-time/" title="The Most Dangerous Computer Viruses for This Time"><img src="http://s3.amazonaws.com/readers/computersight/2009/01/25/644125.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/communication-networks/security/the-most-dangerous-computer-viruses-for-this-time/" title="The Most Dangerous Computer Viruses for This Time">The Most Dangerous Computer Viruses for This Time</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/computers/brand-new-mobile-phones-2012/" title="Brand New Mobile Phones 2012"><img src="http://s3.amazonaws.com/readers/trifter/2009/06/28/1106749.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/computers/brand-new-mobile-phones-2012/" title="Brand New Mobile Phones 2012">Brand New Mobile Phones 2012</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/computers/how-to-make-html-tables/" title="How to Make Html Tables"><img src="http://s3.amazonaws.com/readers/webupon/2008/12/09/518983.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/computers/how-to-make-html-tables/" title="How to Make Html Tables">How to Make Html Tables</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/computers/tricks-to-reduce-pdf-file-size/" title="Tricks to Reduce PDF File Size"><img src="http://s3.amazonaws.com/readers/webupon/2007/07/19/43396.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/computers/tricks-to-reduce-pdf-file-size/" title="Tricks to Reduce PDF File Size">Tricks to Reduce PDF File Size</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/computers/home-business-opportunities/" title="Home Business Opportunities"><img src="http://s3.amazonaws.com/readers/gomestic/2006/11/14/1565.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/computers/home-business-opportunities/" title="Home Business Opportunities">Home Business Opportunities</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/software/how-to-keep-cats-off-the-computer-keyboard/" title="How to Keep Cats Off The Computer Keyboard"><img src="http://s3.amazonaws.com/readers/authspot/2008/06/27/195841.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/software/how-to-keep-cats-off-the-computer-keyboard/" title="How to Keep Cats Off The Computer Keyboard">How to Keep Cats Off The Computer Keyboard</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/communication-networks/security/how-to-make-a-fakeprank-virus/" title="How to Make a Fake/prank Virus"><img src="http://s3.amazonaws.com/readers/authspot/2008/04/08/140979.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/communication-networks/security/how-to-make-a-fakeprank-virus/" title="How to Make a Fake/prank Virus">How to Make a Fake/prank Virus</a></div><div style="clear:both;"></div></li>				</div>
+					<li><div class="popularPostImgDiv"><a href="http://computersight.com/computers/have-triond-earnings-really-dropped-by-70-in-the-last-two-months/" title="Have Triond Earnings Really Dropped by 70% in The Last Two Months?"><img src="http://s3.amazonaws.com/readers/writinghood/2009/04/24/900519.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/computers/have-triond-earnings-really-dropped-by-70-in-the-last-two-months/" title="Have Triond Earnings Really Dropped by 70% in The Last Two Months?">Have Triond Earnings Really Dropped by 70% in The Last Two Months?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/programming/html/comments-on-triond/" title="Comments on Triond"><img src="http://s3.amazonaws.com/readers/webupon/2008/01/08/5731.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/programming/html/comments-on-triond/" title="Comments on Triond">Comments on Triond</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/programming/html/how-to-get-100-views-a-day/" title="How to Get 100 Views a Day"><img src="http://s3.amazonaws.com/readers/bizcovering/2008/03/23/130560.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/programming/html/how-to-get-100-views-a-day/" title="How to Get 100 Views a Day">How to Get 100 Views a Day</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/programming/html/x-factor-accused-of-fixing-outcome-of-show/" title="X Factor Accused of Fixing Outcome of Show"><img src="http://s3.amazonaws.com/readers/telewatcher/2007/12/12/89559.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/programming/html/x-factor-accused-of-fixing-outcome-of-show/" title="X Factor Accused of Fixing Outcome of Show">X Factor Accused of Fixing Outcome of Show</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/hardware/consider-this/" title="Consider This"><img src="http://s3.amazonaws.com/readers/computersight/2007/08/14/39335.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/hardware/consider-this/" title="Consider This">Consider This</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/software/linux-gaming/" title="Linux Gaming"><img src="http://s3.amazonaws.com/readers/gomestic/2008/01/02/96648.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/software/linux-gaming/" title="Linux Gaming">Linux Gaming</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/software/out-of-date/" title="Out of Date"><img src="http://s3.amazonaws.com/readers/2009/07/27/1205673.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/software/out-of-date/" title="Out of Date">Out of Date</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/programming/html/the-bird-with-no-wings/" title="The Bird with No Wings"><img src="http://s3.amazonaws.com/readers/webupon/2009/04/22/891777.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/programming/html/the-bird-with-no-wings/" title="The Bird with No Wings">The Bird with No Wings</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/software/superior-packaging/" title="Superior Packaging"><img src="http://s3.amazonaws.com/readers/authspot/2009/06/28/1111675.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/software/superior-packaging/" title="Superior Packaging">Superior Packaging</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://computersight.com/software/ink-bottles/" title="Ink Bottles"><img src="http://s3.amazonaws.com/readers/computersight/2008/07/25/234695.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://computersight.com/software/ink-bottles/" title="Ink Bottles">Ink Bottles</a></div><div style="clear:both;"></div></li>				</div>
 			</div>
 			<div id="ad300">       
 		        
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1471");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1471&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=19878936967&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=6b52a5&amp;cb=23ab76de4981c66d0f7aac8005484d08' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1471&amp;cb=23ab76de4981c66d0f7aac8005484d08&amp;n=6b52a5' border='0' alt='' /></a></noscript>			</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1471");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1471&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=87408480571&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=2118d9&amp;cb=77aaf3dfb234f8c880fa9a91422fcb8a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1471&amp;cb=77aaf3dfb234f8c880fa9a91422fcb8a&amp;n=2118d9' border='0' alt='' /></a></noscript>			</div>
 			
 			
-	<div id="triond-signup-div" style="display:none">
+	<div id="triond-signup-div" style="display: block;">
 	</div>
 	<script type="text/javascript">
 	if(typeof triond_user_logged_in != "undefined")
@@ -516,51 +541,51 @@ function showTriondSignupForm()
 							
 			<div class="box ads">
 				<div class="content">
-					<a href="http://computersight.com/tag/android/" class="tag-link-115917" title="1,902 topics" rel="tag" style="font-size: 14.285912560722pt;">android</a>
-<a href="http://computersight.com/tag/antivirus/" class="tag-link-93503" title="585 topics" rel="tag" style="font-size: 10.630117973629pt;">AntiVirus</a>
-<a href="http://computersight.com/tag/apple/" class="tag-link-5217" title="3,224 topics" rel="tag" style="font-size: 17.955586398334pt;">Apple</a>
-<a href="http://computersight.com/tag/apps/" class="tag-link-140821" title="376 topics" rel="tag" style="font-size: 10.049965301874pt;">Apps</a>
-<a href="http://computersight.com/tag/blackberry/" class="tag-link-27571" title="474 topics" rel="tag" style="font-size: 10.321998612075pt;">BlackBerry</a>
-<a href="http://computersight.com/tag/business/" class="tag-link-1291" title="651 topics" rel="tag" style="font-size: 10.8133240805pt;">Business</a>
-<a href="http://computersight.com/tag/computer/" class="tag-link-1167" title="2,093 topics" rel="tag" style="font-size: 14.816099930604pt;">Computer</a>
-<a href="http://computersight.com/tag/computers/" class="tag-link-7689" title="1,231 topics" rel="tag" style="font-size: 12.423317140874pt;">Computers</a>
-<a href="http://computersight.com/tag/download/" class="tag-link-91629" title="439 topics" rel="tag" style="font-size: 10.224843858432pt;">download</a>
-<a href="http://computersight.com/tag/facebook/" class="tag-link-6579" title="388 topics" rel="tag" style="font-size: 10.083275503123pt;">facebook</a>
-<a href="http://computersight.com/tag/free/" class="tag-link-4237" title="847 topics" rel="tag" style="font-size: 11.357390700902pt;">free</a>
-<a href="http://computersight.com/tag/google/" class="tag-link-5423" title="1,038 topics" rel="tag" style="font-size: 11.887578070784pt;">Google</a>
-<a href="http://computersight.com/tag/hard-disk-drive/" class="tag-link-203827" title="408 topics" rel="tag" style="font-size: 10.138792505205pt;">Hard Disk Drive</a>
-<a href="http://computersight.com/tag/internet/" class="tag-link-3017" title="896 topics" rel="tag" style="font-size: 11.493407356003pt;">Internet</a>
-<a href="http://computersight.com/tag/ios/" class="tag-link-807616" title="391 topics" rel="tag" style="font-size: 10.091603053435pt;">ios</a>
-<a href="http://computersight.com/tag/ipad/" class="tag-link-475131" title="1,475 topics" rel="tag" style="font-size: 13.100624566273pt;">iPad</a>
-<a href="http://computersight.com/tag/iphone/" class="tag-link-26739" title="3,240 topics" rel="tag" style="font-size: 18pt;">iPhone</a>
-<a href="http://computersight.com/tag/iphone-4/" class="tag-link-793871" title="372 topics" rel="tag" style="font-size: 10.038861901457pt;">iPhone 4</a>
-<a href="http://computersight.com/tag/ipod/" class="tag-link-23767" title="935 topics" rel="tag" style="font-size: 11.601665510062pt;">iPod</a>
-<a href="http://computersight.com/tag/ipod-touch/" class="tag-link-78583" title="375 topics" rel="tag" style="font-size: 10.04718945177pt;">ipod touch</a>
-<a href="http://computersight.com/tag/itunes/" class="tag-link-3949" title="395 topics" rel="tag" style="font-size: 10.102706453851pt;">iTunes</a>
-<a href="http://computersight.com/tag/laptop/" class="tag-link-40679" title="1,038 topics" rel="tag" style="font-size: 11.887578070784pt;">laptop</a>
-<a href="http://computersight.com/tag/linux/" class="tag-link-15337" title="628 topics" rel="tag" style="font-size: 10.749479528105pt;">Linux</a>
-<a href="http://computersight.com/tag/mac/" class="tag-link-42495" title="522 topics" rel="tag" style="font-size: 10.455239417071pt;">Mac</a>
-<a href="http://computersight.com/tag/malware/" class="tag-link-31877" title="358 topics" rel="tag" style="font-size: 10pt;">malware</a>
-<a href="http://computersight.com/tag/microsoft/" class="tag-link-9781" title="1,609 topics" rel="tag" style="font-size: 13.472588480222pt;">Microsoft</a>
-<a href="http://computersight.com/tag/microsoft-windows/" class="tag-link-143545" title="1,227 topics" rel="tag" style="font-size: 12.412213740458pt;">Microsoft Windows</a>
-<a href="http://computersight.com/tag/operating-system/" class="tag-link-15345" title="703 topics" rel="tag" style="font-size: 10.957668285913pt;">operating system</a>
-<a href="http://computersight.com/tag/pc/" class="tag-link-27645" title="716 topics" rel="tag" style="font-size: 10.993754337266pt;">pc</a>
-<a href="http://computersight.com/tag/personal-computer/" class="tag-link-144287" title="519 topics" rel="tag" style="font-size: 10.446911866759pt;">personal computer</a>
-<a href="http://computersight.com/tag/programming/" class="tag-link-4303" title="395 topics" rel="tag" style="font-size: 10.102706453851pt;">Programming</a>
-<a href="http://computersight.com/tag/review/" class="tag-link-309" title="384 topics" rel="tag" style="font-size: 10.072172102706pt;">review</a>
-<a href="http://computersight.com/tag/security/" class="tag-link-8403" title="517 topics" rel="tag" style="font-size: 10.441360166551pt;">Security</a>
-<a href="http://computersight.com/tag/smartphone/" class="tag-link-105889" title="434 topics" rel="tag" style="font-size: 10.210964607911pt;">Smartphone</a>
-<a href="http://computersight.com/tag/software/" class="tag-link-9013" title="946 topics" rel="tag" style="font-size: 11.632199861207pt;">Software</a>
-<a href="http://computersight.com/tag/spyware/" class="tag-link-100145" title="510 topics" rel="tag" style="font-size: 10.421929215822pt;">Spyware</a>
-<a href="http://computersight.com/tag/steve-jobs/" class="tag-link-79231" title="507 topics" rel="tag" style="font-size: 10.41360166551pt;">Steve Jobs</a>
-<a href="http://computersight.com/tag/technology/" class="tag-link-6759" title="555 topics" rel="tag" style="font-size: 10.546842470507pt;">Technology</a>
-<a href="http://computersight.com/tag/tutorial/" class="tag-link-6727" title="377 topics" rel="tag" style="font-size: 10.052741151978pt;">tutorial</a>
-<a href="http://computersight.com/tag/universal-serial-bus/" class="tag-link-251685" title="491 topics" rel="tag" style="font-size: 10.369188063845pt;">Universal Serial Bus</a>
-<a href="http://computersight.com/tag/virus/" class="tag-link-88479" title="516 topics" rel="tag" style="font-size: 10.438584316447pt;">Virus</a>
-<a href="http://computersight.com/tag/website/" class="tag-link-7735" title="400 topics" rel="tag" style="font-size: 10.116585704372pt;">website</a>
-<a href="http://computersight.com/tag/windows/" class="tag-link-10665" title="1,174 topics" rel="tag" style="font-size: 12.265093684941pt;">Windows</a>
-<a href="http://computersight.com/tag/windows-7/" class="tag-link-113243" title="486 topics" rel="tag" style="font-size: 10.355308813324pt;">Windows 7</a>
-<a href="http://computersight.com/tag/windows-xp/" class="tag-link-65453" title="624 topics" rel="tag" style="font-size: 10.738376127689pt;">Windows XP</a>				</div>
+					<a href="http://computersight.com/tag/android/" class="tag-link-115917" title="2,150 topics" rel="tag" style="font-size: 14.32973139858pt;">android</a>
+<a href="http://computersight.com/tag/antivirus/" class="tag-link-93503" title="618 topics" rel="tag" style="font-size: 10.545847483791pt;">AntiVirus</a>
+<a href="http://computersight.com/tag/apple/" class="tag-link-5217" title="3,609 topics" rel="tag" style="font-size: 17.933312750849pt;">Apple</a>
+<a href="http://computersight.com/tag/apps/" class="tag-link-140821" title="397 topics" rel="tag" style="font-size: 10pt;">Apps</a>
+<a href="http://computersight.com/tag/blackberry/" class="tag-link-27571" title="534 topics" rel="tag" style="font-size: 10.338376041988pt;">BlackBerry</a>
+<a href="http://computersight.com/tag/business/" class="tag-link-1291" title="729 topics" rel="tag" style="font-size: 10.820006174745pt;">Business</a>
+<a href="http://computersight.com/tag/computer/" class="tag-link-1167" title="2,217 topics" rel="tag" style="font-size: 14.495214572399pt;">Computer</a>
+<a href="http://computersight.com/tag/computers/" class="tag-link-7689" title="1,289 topics" rel="tag" style="font-size: 12.203149120099pt;">Computers</a>
+<a href="http://computersight.com/tag/download/" class="tag-link-91629" title="458 topics" rel="tag" style="font-size: 10.150663785119pt;">download</a>
+<a href="http://computersight.com/tag/facebook/" class="tag-link-6579" title="437 topics" rel="tag" style="font-size: 10.098795924668pt;">facebook</a>
+<a href="http://computersight.com/tag/free/" class="tag-link-4237" title="942 topics" rel="tag" style="font-size: 11.346094473603pt;">free</a>
+<a href="http://computersight.com/tag/google/" class="tag-link-5423" title="1,158 topics" rel="tag" style="font-size: 11.879592466811pt;">Google</a>
+<a href="http://computersight.com/tag/hard-disk-drive/" class="tag-link-203827" title="454 topics" rel="tag" style="font-size: 10.140784192652pt;">Hard Disk Drive</a>
+<a href="http://computersight.com/tag/internet/" class="tag-link-3017" title="956 topics" rel="tag" style="font-size: 11.380673047237pt;">Internet</a>
+<a href="http://computersight.com/tag/ios/" class="tag-link-807616" title="468 topics" rel="tag" style="font-size: 10.175362766286pt;">ios</a>
+<a href="http://computersight.com/tag/ipad/" class="tag-link-475131" title="1,627 topics" rel="tag" style="font-size: 13.037974683544pt;">iPad</a>
+<a href="http://computersight.com/tag/iphone/" class="tag-link-26739" title="3,636 topics" rel="tag" style="font-size: 18pt;">iPhone</a>
+<a href="http://computersight.com/tag/iphone-4/" class="tag-link-793871" title="410 topics" rel="tag" style="font-size: 10.032108675517pt;">iPhone 4</a>
+<a href="http://computersight.com/tag/ipod/" class="tag-link-23767" title="994 topics" rel="tag" style="font-size: 11.474529175672pt;">iPod</a>
+<a href="http://computersight.com/tag/ipod-touch/" class="tag-link-78583" title="403 topics" rel="tag" style="font-size: 10.0148193887pt;">ipod touch</a>
+<a href="http://computersight.com/tag/itunes/" class="tag-link-3949" title="420 topics" rel="tag" style="font-size: 10.056807656684pt;">iTunes</a>
+<a href="http://computersight.com/tag/laptop/" class="tag-link-40679" title="1,122 topics" rel="tag" style="font-size: 11.790676134609pt;">laptop</a>
+<a href="http://computersight.com/tag/linux/" class="tag-link-15337" title="678 topics" rel="tag" style="font-size: 10.694041370793pt;">Linux</a>
+<a href="http://computersight.com/tag/mac/" class="tag-link-42495" title="550 topics" rel="tag" style="font-size: 10.377894411856pt;">Mac</a>
+<a href="http://computersight.com/tag/malware/" class="tag-link-31877" title="397 topics" rel="tag" style="font-size: 10pt;">malware</a>
+<a href="http://computersight.com/tag/microsoft/" class="tag-link-9781" title="1,768 topics" rel="tag" style="font-size: 13.386230317999pt;">Microsoft</a>
+<a href="http://computersight.com/tag/microsoft-windows/" class="tag-link-143545" title="1,350 topics" rel="tag" style="font-size: 12.353812905218pt;">Microsoft Windows</a>
+<a href="http://computersight.com/tag/operating-system/" class="tag-link-15345" title="754 topics" rel="tag" style="font-size: 10.881753627663pt;">operating system</a>
+<a href="http://computersight.com/tag/pc/" class="tag-link-27645" title="764 topics" rel="tag" style="font-size: 10.90645260883pt;">pc</a>
+<a href="http://computersight.com/tag/personal-computer/" class="tag-link-144287" title="579 topics" rel="tag" style="font-size: 10.44952145724pt;">personal computer</a>
+<a href="http://computersight.com/tag/programming/" class="tag-link-4303" title="407 topics" rel="tag" style="font-size: 10.024698981167pt;">Programming</a>
+<a href="http://computersight.com/tag/review/" class="tag-link-309" title="407 topics" rel="tag" style="font-size: 10.024698981167pt;">review</a>
+<a href="http://computersight.com/tag/samsung/" class="tag-link-101119" title="438 topics" rel="tag" style="font-size: 10.101265822785pt;">Samsung</a>
+<a href="http://computersight.com/tag/security/" class="tag-link-8403" title="543 topics" rel="tag" style="font-size: 10.360605125039pt;">Security</a>
+<a href="http://computersight.com/tag/smartphone/" class="tag-link-105889" title="504 topics" rel="tag" style="font-size: 10.264279098487pt;">Smartphone</a>
+<a href="http://computersight.com/tag/software/" class="tag-link-9013" title="1,008 topics" rel="tag" style="font-size: 11.509107749305pt;">Software</a>
+<a href="http://computersight.com/tag/spyware/" class="tag-link-100145" title="525 topics" rel="tag" style="font-size: 10.316146958938pt;">Spyware</a>
+<a href="http://computersight.com/tag/steve-jobs/" class="tag-link-79231" title="535 topics" rel="tag" style="font-size: 10.340845940105pt;">Steve Jobs</a>
+<a href="http://computersight.com/tag/technology/" class="tag-link-6759" title="611 topics" rel="tag" style="font-size: 10.528558196974pt;">Technology</a>
+<a href="http://computersight.com/tag/universal-serial-bus/" class="tag-link-251685" title="489 topics" rel="tag" style="font-size: 10.227230626737pt;">Universal Serial Bus</a>
+<a href="http://computersight.com/tag/virus/" class="tag-link-88479" title="550 topics" rel="tag" style="font-size: 10.377894411856pt;">Virus</a>
+<a href="http://computersight.com/tag/website/" class="tag-link-7735" title="429 topics" rel="tag" style="font-size: 10.079036739734pt;">website</a>
+<a href="http://computersight.com/tag/windows/" class="tag-link-10665" title="1,256 topics" rel="tag" style="font-size: 12.121642482248pt;">Windows</a>
+<a href="http://computersight.com/tag/windows-7/" class="tag-link-113243" title="535 topics" rel="tag" style="font-size: 10.340845940105pt;">Windows 7</a>
+<a href="http://computersight.com/tag/windows-xp/" class="tag-link-65453" title="666 topics" rel="tag" style="font-size: 10.664402593393pt;">Windows XP</a>				</div>
 			</div>
 			<div class="fix"></div>
 						
@@ -596,7 +621,7 @@ function showTriondSignupForm()
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1172&amp;rnd=2189317499"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1172&amp;rnd=2541256286"><script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t18._setAccount', 'UA-1488967-18']);_gaq.push(['t18._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -605,31 +630,7 @@ function showTriondSignupForm()
 					  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 					})();
 					
-					</script>
-					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-					
-					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1388");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1388&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=99668395683&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=7653e9&amp;cb=16296fbb9032b8175fa3c96cb4c7ac5c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1388&amp;cb=16296fbb9032b8175fa3c96cb4c7ac5c&amp;n=7653e9' border='0' alt='' /></a></noscript><script type="text/javascript">
+					</script><script type="text/javascript">
 var _sf_async_config={uid:6902};
 (function(){
   function loadChartbeat() {
@@ -656,53 +657,59 @@ var _sf_async_config={uid:6902};
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1378");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1378&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=93627010082&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=435045&amp;cb=8bef6cbcb1dad49bc19e77bf427c2d7c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1378&amp;cb=8bef6cbcb1dad49bc19e77bf427c2d7c&amp;n=435045' border='0' alt='' /></a></noscript>	</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1378");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1378&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=36525635094&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4f7e98&amp;cb=efc5d2be19198d3895eea019dd8a2e98' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1378&amp;cb=efc5d2be19198d3895eea019dd8a2e98&amp;n=4f7e98' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1078");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1078&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=93926346121&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=7ef6a2&amp;cb=553c0842464210a39b52bf734455522f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1078&amp;cb=553c0842464210a39b52bf734455522f&amp;n=7ef6a2' border='0' alt='' /></a></noscript>	</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1078");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1078&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=74229702275&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=10d4ae&amp;cb=989a7f5ed6a04a51076a2c9afbeeb0c2' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1078&amp;cb=989a7f5ed6a04a51076a2c9afbeeb0c2&amp;n=10d4ae' border='0' alt='' /></a></noscript>	</div>
 <!-- start eXelate tag - Triond - Default Site -->
 
 <script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=007&amp;c=1381185&amp;ctg=computers&amp;subctg=uncategorized"></script>
@@ -712,26 +719,29 @@ var _sf_async_config={uid:6902};
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1576");
-					   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1576&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=62934699186&amp;loc=https%3A//web.archive.org/web/20120605060936id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=f1d761&amp;cb=ae01206e5d5b707d845c1f29961a40dc' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1576&amp;cb=ae01206e5d5b707d845c1f29961a40dc&amp;n=f1d761' border='0' alt='' /></a></noscript>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1576");
+						   document.write ("&clr_link=33707E&clr_title=33707E&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=404040&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1576&amp;clr_link=33707E&amp;clr_title=33707E&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=404040&amp;source=acf=nontriond&amp;cb=35592866300&amp;loc=https%3A//web.archive.org/web/20121012160055id_/http%3A//computersight.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=957e6a&amp;cb=aa416b0e158e864705026220847f57cc' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1576&amp;cb=aa416b0e158e864705026220847f57cc&amp;n=957e6a' border='0' alt='' /></a></noscript>
 
 </div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
