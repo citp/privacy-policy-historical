@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516121256id_/http%3A//www.stubhub.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013012056id_/http%3A//www.stubhub.com/privacy_policy) for the most accurate reproduction.*
 
 # Tickets at StubHub! Where Fans Buy and Sell Tickets
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 _Please Note:_
 
-_UPDATED EFFECTIVE November 15, 2011_
+_UPDATED EFFECTIVE June 5, 2012_
 
 This Privacy Policy tells you about StubHub, Inc.'s policies and practices for the collection, use and disclosure of information we collect about you through our Site and Services, including the website www.stubhub.com. By using our Site and Services, you agree to the terms of this Privacy Policy and you consent to the processing of information about you as described here. 
 
@@ -32,7 +32,7 @@ When you register and/or buy or sell tickets, we ask you for the following infor
 
 _Information we collect when you use our Site and Services._
 
-We may collect information about the way you interact with our Site, Services, content and advertising, including computer, browser and connection information, statistics on page views, traffic to and from our sites, ad data, IP address, telephone calls with us, and standard web log information. 
+We may collect information about the way you interact with our Site, Services, content and advertising. This may include computer, browser and connection information, statistics on page views, traffic to and from our sites, ad data, device ID, location, machine ID, IP address, telephone calls with us, and standard web log information. 
 
 We may obtain information from or about you in other ways. For example, we may verify user information with a service provider or combine your information with information we collect from other companies. Also, we collect the information you send to us such as correspondence, customer satisfaction surveys or customer service communications, testimonials or User Content such as photos, blogs and writings. 
 
@@ -42,13 +42,16 @@ Our primary purpose in collecting personal information is to provide you with a 
 
   * provide the Services and customer support you request;
   * resolve disputes, collect fees and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities and enforce our policies;
+  * prevent, detect and investigate potentially prohibited or illegal activities, and enforce our User Agreement
   * customize, measure and improve our Site, Services and advertising;
   * tell you about our Services and those of our corporate family, service updates, targeted marketing and promotional offers based on your communication preferences;
-  * compare information for accuracy and verify it with third parties; and/or
-  * comply with applicable laws
+  * compare information for accuracy and verify it with third parties; and/or comply with applicable laws
 
 
+
+Registration and sharing through third-party services
+
+You may choose to provide us with access to certain personal information stored by third parties such as social media sites (such as by way of example only, and not limitation, Facebook and Twitter). The information we have access to varies by site and is controlled by your privacy settings on that site and your authorization. By associating an account managed by a third party with your StubHub account and authorizing StubHub to have access to this information, you agree that StubHub may collect, store and use this information in accordance with this Privacy Policy.
 
 How we share information
 
@@ -87,7 +90,7 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 Privacy Policy Updates
 
-If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you. Changes take effect 30 days after they are posted to the Site. This policy was last updated effective November 15, 2011. 
+If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you. Changes take effect 30 days after they are posted to the Site. This policy was last updated effective June 5, 2012. 
 
 Questions
 
