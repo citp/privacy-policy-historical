@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsnshayari.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511010712id_/http%3A//www.smsnshayari.com/disclaimer-terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsnshayari.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012035114id_/http%3A//www.smsnshayari.com/disclaimer-terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SMSnShayari.com
 
