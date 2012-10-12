@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504080909id_/http%3A//www.eurocheapo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012042253id_/http%3A//www.eurocheapo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: EuroCheapo's Guide to Cheap Hotels in Europe
 
