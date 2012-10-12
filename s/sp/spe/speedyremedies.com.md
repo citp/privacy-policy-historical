@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedyremedies.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507062628id_/http%3A//www.speedyremedies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedyremedies.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012074513id_/http%3A//www.speedyremedies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Home Remedies
 
@@ -26,6 +26,3 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 
 Contact Information  
 Concerns or questions about this privacy policy can be directed to info@speedyremedies.com for further clarification.
-
-**GD Star Rating**  
- _loading..._
