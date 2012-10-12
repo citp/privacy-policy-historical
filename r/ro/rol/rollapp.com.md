@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515111507id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012024445id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
 
 # rollApp - Privacy Policy
+
+## Privacy Policy
 
 rollApp is committed to protecting your privacy when you visit our web-site [www.rollApp.com](http://www.rollapp.com/) and use our online or other services ("Services"). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
