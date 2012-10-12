@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003735id_/http%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013000822id_/http%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
