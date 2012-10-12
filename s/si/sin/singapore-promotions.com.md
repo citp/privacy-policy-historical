@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singapore-promotions.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171118id_/http%3A//singapore-promotions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singapore-promotions.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012065432id_/http%3A//singapore-promotions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Singapore Promotions
 
@@ -26,5 +26,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
+  
   
 
