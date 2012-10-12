@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugraphic.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511073459id_/http%3A//www.ugraphic.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugraphic.net privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012072238id_/http%3A//www.ugraphic.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Ugraphic.net
 
