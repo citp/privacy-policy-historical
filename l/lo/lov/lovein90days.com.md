@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2012-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120224095312id_/http%3A//lovein90days.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012032330id_/http%3A//lovein90days.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Love in 90 Days
 
 LoveIn90Days.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this Web site: http://www.LoveIn90Days.com
 
@@ -38,7 +38,9 @@ This site gives the following options for changing and modifying information pre
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](http://www.lovein90days.com/contact_drdiana.php) by filling out the [**contact form**](http://www.lovein90days.com/contact_drdiana.php).
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Flovein90days.com%2Fabout%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Flovein90days.com%2Fabout%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Flovein90days.com%2Fabout%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Flovein90days.com%2Fabout%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Flovein90days.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
