@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529074323id_/http%3A//www.wiknix.com/p/privacy-policy_19.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014012636id_/http%3A//www.wiknix.com/p/privacy-policy_19.html) for the most accurate reproduction.*
 
 # Privacy Policy | Wiknix
-
-###  [Privacy Policy](http://www.wiknix.com/p/privacy-policy_19.html)
 
 We Respect our users’ privacy and we are committed to safeguarding their privacy while online at Wiknix.com. The following discloses the information gathering and dissemination practices for Wiknix.com.  
   
@@ -23,13 +21,13 @@ If a user wishes to communicate with us they must supply an email address and na
 
 **  
 **  
-**2.OUR COMMITMENT TO DATA SECURITY**  
+**2.DATA SECURITY**  
 **  
 **  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
 **  
 **  
-**3.OUR COMMITMENT TO CHILDREN’S PRIVACY**  
+**3.CHILDREN’S PRIVACY**  
 **  
 **  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 14, and no part of our website is structured to attract anyone under 14.  
