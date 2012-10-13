@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshproduceclothes.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531024628id_/http%3A//freshproduceclothes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshproduceclothes.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013231806id_/http%3A//freshproduceclothes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
