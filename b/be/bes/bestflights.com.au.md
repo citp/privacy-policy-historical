@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626155242id_/http%3A//www.bestflights.com.au/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003943id_/http%3A//www.bestflights.com.au/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Flights respects your privacy
 
@@ -77,9 +77,9 @@ You can send mail to the following postal address:
 PO Box 384  
 Leederville, WA 6903  
 Phone: 1300 767 757  
-Phone: International: +618 9228 2955  
-Fax:(08) 9228-2482  
-Fax: International: +618 9228 2482  
+Phone: International: +61 8 9438 6899  
+Fax:(08) 9438 6966  
+Fax: International: +61 8 9438 6966  
 Email: [privacy@bestflights.com.au](mailto:privacy@bestflights.com.au)
 
 ###  Changes to this Policy
