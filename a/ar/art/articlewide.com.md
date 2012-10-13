@@ -1,9 +1,36 @@
-> *The following text is extracted and transformed from the articlewide.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521024040id_/http%3A//www.articlewide.com/page/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewide.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013211210id_/http%3A//www.articlewide.com/privacy_policy.php) for the most accurate reproduction.*
 
-# articlewide.com - articlewide Resources and Information.
+# Privacy Policy
 
-This page provided to the domain owner **free** by Sedo's [Domain Parking](http://www.sedo.com/services/parking.php3?language=e&partnerid=20293 "Domain Parking"). Disclaimer: Domain owner and Sedo maintain no relationship with third party advertisers. Reference to any specific service or trade mark is not controlled by Sedo or domain owner and does not constitute or imply its association, endorsement or recommendation.
+* **Overview**
 
-By using our site, you consent to this privacy policy: This website allows third-party advertising companies for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities to use Cookies and /or Web Beacons and other monitoring technologies to serve ads and to compile anonymous statistics about you when you visit this website. Cookies are small text files stored on your local internet browser cache. A Web Beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel that is placed on a Web site. Both are created for the main purpose of helping your browser process the special features of websites that use Cookies or Web Beacons. The gathered information about your visits to this and other websites are used by these third party companies in order to provide advertisements about goods and services of interest to you. The information do not include any personal data like your name, address, email address, or telephone number. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+Thank you for visiting www.articlewide.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-Privacy Policies
+* **What Type of Information We Collect**
+
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
+
+* **Uses May Include**
+
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
+
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
