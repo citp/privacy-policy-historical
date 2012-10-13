@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621235854id_/http%3A//www.neutrogena.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014012242id_/http%3A//www.neutrogena.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Neutrogena - Privacy Policy
 
 **Privacy Policy**
 
-Welcome to the Neutrogena website (www.neutrogena.com or the "Website"). The Website is owned by Neutrogena Corporation. This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website
+Welcome to the Neutrogena website (www.neutrogena.com or the "Website"). The Website is owned by Neutrogena Corporation. This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website. This website is intended for visitors from the United States. If you reside outside of the United States, you can call us. [Click here](https://www.ccc-consumercarecenter.com/phone_us?utm_source=n_store&utm_medium=website&utm_campaign=ntg_privacy) for a list of telephone numbers by country.
 
 **1\. Policy**  
 The policy of Neutrogena is to respect and protect the privacy of our users. To fulfill this policy, Neutrogena agrees to exercise the precautions set forth in this written policy (the "Privacy Policy") to maintain the confidentiality of information provided by you in connection with accessing and using the Neutrogena website (www.neutrogena.com or "the Site"). This Privacy Policy sets forth Neutrogena's current policies and practices with respect to nonpublic personal information of the users of the Site. By using this Site, you agree with the terms of this Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
@@ -63,4 +63,4 @@ This Privacy Policy may change over time. Neutrogena will notify you by e-mail o
 **13\. Other Terms**  
 Your use of this site is subject to our [Legal Notice](https://web.archive.org/category/customer+service/legal+notice.do) and [Terms of Use](https://web.archive.org/category/customer+service/terms+of+use.do). 
 
-**Last Updated: Janurary 10, 2011**
+**Last Updated: July 31, 2012**
