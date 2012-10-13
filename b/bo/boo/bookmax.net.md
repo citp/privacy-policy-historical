@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmax.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629124510id_/http%3A//www.bookmax.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmax.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014010332id_/http%3A//bookmax.net/privacy-policy) for the most accurate reproduction.*
 
 # Online Bookmarks Manager - Privacy Policy!
 
@@ -10,7 +10,7 @@ Bookmax.net strives to protect your privacy. We know that your bookmarks are par
 
   * We will never share, rent, loan or give away your bookmarks or any other personal information to anyone. 
   * We will not send you any unwanted mail. 
-  * We wil not allow other members to view your personal data or bookmarks. 
+  * We wil not allow other members to view your private data or bookmarks (except the ones you share in your public or team folders). 
 
 
 
