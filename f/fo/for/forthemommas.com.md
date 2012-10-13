@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forthemommas.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032724id_/http%3A//www.forthemommas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forthemommas.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014001227id_/http%3A//www.forthemommas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 What information do we collect?  
 We collect information from you when you respond to a survey or fill out a form.  
@@ -26,3 +26,7 @@ Changes to our Privacy Policy
 If we decide to change our privacy policy, we will post those changes on this page.  
 This policy was last modified on 3/9/2011  
 www.forthemommas.com
+
+Share This:
+
+This post may contain affiliate links. Read my disclosure policy [here](http://www.forthemommas.com/disclosure-2).
