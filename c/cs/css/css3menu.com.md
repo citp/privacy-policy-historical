@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the css3menu.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024937id_/http%3A//css3menu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the css3menu.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014014531id_/http%3A//www.css3menu.com/privacy.html) for the most accurate reproduction.*
 
 # CSS3Menu -- Privacy Policy
 
