@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509225412id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014012046id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Exterminate It!: Privacy Policy
 
