@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303104759id_/http%3A//www.skyword.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013152954id_/http%3A//www.skyword.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Skyword
 
-At Skyword Inc. (“Skyword”), we strive to develop innovative products to benefit our users and partners.  We recognize that privacy is an important issue, so we design and operate our products with your privacy in mind.  This Privacy Policy outlines the types of personal information we may collect when you use our Platform (“Platform”), which is further described in the Terms of Service (“TOS”) available at http://www.skyword.com/userterms.html, as well as some of the steps we take to secure it.
+At Skyword Inc. (“Skyword”), we strive to develop innovative products to benefit our users and partners.  We recognize that privacy is an important issue, so we design and operate our products with your privacy in mind.  This Privacy Policy outlines the types of personal information we may collect when you use our Platform (“Platform”), which is further described in the Terms of Service (“TOS”) available at [http://www.skyword.com/terms-of-service/](https://web.archive.org/terms-of-service/) as well as some of the steps we take to secure it.
 
 **What This Policy Covers**
 
@@ -11,7 +11,8 @@ At Skyword Inc. (“Skyword”), we strive to develop innovative products to ben
 
 
 
-**Data and Information Collection and Use**  
+**Data and Information Collection and Use**
+
 **General**
 
   * Skyword collects information from and about you when you register with Skyword. ****
@@ -21,10 +22,8 @@ At Skyword Inc. (“Skyword”), we strive to develop innovative products to ben
 
 
 
-**Information Sharing and Disclosure**
-
-  * Skyword does not rent, sell, share, or otherwise disclose Personal Information about you with other people or nonaffiliated companies except under the following circumstances:
-
+**Information Sharing and Disclosure**  
+Skyword does not rent, sell, share, or otherwise disclose Personal Information about you with other people or nonaffiliated companies except under the following circumstances:
 
   * We may provide information to trusted partners who work on our behalf and who have entered into confidentiality agreements with us.
   * Skyword responds to valid subpoenas, court orders, and other legal proceedings.  We also may disclose information if we deem it necessary to exercise our legal rights or to defend ourselves against legal claims.
@@ -42,13 +41,13 @@ At Skyword Inc. (“Skyword”), we strive to develop innovative products to ben
 
 **Cookies**
 
-  * Skyword may set and access “cookies” on your computer.  A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website.  We use cookies to improve the quality of our site and to better understand how people interact with us.  We do this by storing user preferences in cookies and by tracking user trends and patterns of how you use our Platform.  Most browsers are initially set up to accept cookies.  You can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
+  * Skyword may set and access “cookies” on your computer.  A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website.  We use cookies to improve the quality of our site and to better understand how people interact with us.  We do this by storing user preferences in cookies and by tracking user trends and patterns of how you use our Platform.  Most browsers are initially set up to accept cookies.  You can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
 
 
 
 **Your Ability to Edit and Delete Account Information**
 
-  * You may delete your account by contacting Skyword at [support@skyword.com](mailto:support@skyword.com). ****
+  * You may delete your account by contacting Skyword at [support@skyword.com](mailto:support@skyword.com)
 
 
 
