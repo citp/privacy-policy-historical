@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513041916id_/https%3A//www.doximity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003943id_/https%3A//www.doximity.com/privacy) for the most accurate reproduction.*
 
 # Doximity Privacy Policy
 
-We do not rent or sell your information to third parties for marketing purposes.   
-Any information that you provide will be secured with industry standard protocols and technology. 
+We do not rent or sell your information to third parties for marketing purposes.  
+Any information that you provide will be secured with industry standard protocols and technology.
 
 ## 1\. Personal Information Collected
 
@@ -33,9 +33,9 @@ All of the information that you voluntarily provide will be published in your pr
 
 ### When You Add a Private Profile
 
-If you choose, you may fill out a private profile on Doximity. The private profile can consist of back line, mobile phone, home phone, other phone, pager, inpatient/admit number, email address or other private note. 
+If you choose, you may fill out a private profile on Doximity. The private profile can consist of back line, mobile phone, home phone, other phone, pager, inpatient/admit number, email address or other private note.
 
-Your private profile is visible only to those confirmed colleagues with whom you select to share it. 
+Your private profile is visible only to those confirmed colleagues with whom you select to share it.
 
 ### When You Invite Others to Join Doximity
 
@@ -61,14 +61,15 @@ Certain information you provide to Doximity may reveal, or allow others to ident
 
 ### Rights to Access, Correct and Eliminate Information About You
 
-You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at [support@doximity.com](mailto:support@doximity.com) or by contacting us at: 
+You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at [support@doximity.com](mailto:support@doximity.com) or by contacting us at:
 
-Doximity   
-ATTN: Privacy Policy Issues   
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401   
+Doximity  
+ATTN: Privacy Policy Issues  
+60 E Third Ave  
+Suite 115  
+San Mateo, CA 94401
 
+Return to top
 
 * * *
 
@@ -78,7 +79,7 @@ Doximity is an online service dedicated to helping medical professionals more ef
 
 ### Doximity’s Communications to You
 
-Doximity will communicate with you through email, fax and notices posted on the Doximity website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges for messages to your mobile device). Our communications to you include emails which help inform Users about various features of the service. Doximity may send you promotional information unless you have opted out of receiving such information. You can change your email and contact preferences at any time by sending a request to [support@doximity.com](mailto:support@doximity.com) or by updating your profile information. 
+Doximity will communicate with you through email, fax and notices posted on the Doximity website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges for messages to your mobile device). Our communications to you include emails which help inform Users about various features of the service. Doximity may send you promotional information unless you have opted out of receiving such information. You can change your email and contact preferences at any time by sending a request to [support@doximity.com](mailto:support@doximity.com) or by updating your profile information.
 
 ### Customized Content
 
@@ -86,7 +87,7 @@ Information provided to Doximity (or to third parties with whom it offers combin
 
 ### Sharing Information with Third Parties
 
-Doximity takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your private information to third parties for marketing or other purposes. We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective investors in Doximity. We may segment our Users by specialty or geographic location. We may aggregate or provide information from your public profile. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users’ activities on the site, please email [support@doximity.com](mailto:support@doximity.com). 
+Doximity takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your private information to third parties for marketing or other purposes. We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective investors in Doximity. We may segment our Users by specialty or geographic location. We may aggregate or provide information from your public profile. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users’ activities on the site, please email [support@doximity.com](mailto:support@doximity.com)
 
 ### Finding Colleagues
 
@@ -100,7 +101,7 @@ We offer search services to help you find information and learn more about other
 
 ### Surveys and Polls
 
-As a User, you may receive requests to participate in market research including polls and surveys submitted by other Doximity members. If you participate in surveys and polls offered through our website, the information you provide may be visible to others using the Doximity website. You may opt-out of participating by emailing [support@doximity.com](mailto:support@doximity.com) to stop receiving these inquiries and requests. 
+As a User, you may receive requests to participate in market research including polls and surveys submitted by other Doximity members. If you participate in surveys and polls offered through our website, the information you provide may be visible to others using the Doximity website. You may opt-out of participating by emailing [support@doximity.com](mailto:support@doximity.com) to stop receiving these inquiries and requests.
 
 ### Communications to other Users
 
@@ -118,25 +119,29 @@ It is possible that we may need to disclose personal information when required b
 
 We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of Doximity. Any third party to which we transfer or sell Doximity’s assets will have the right to continue to use the personal and other information that you provide to us.
 
+Return to top
+
 * * *
 
 ## 3\. Your Information Choices
 
 ### Accessing and Changing Your Account Information
 
-You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your Doximity account, including your email and contact preferences, at any time by emailing [support@doximity.com](mailto:support@doximity.com). You can also make these changes on the Doximity website by updating your Profile. Please be aware that even after your request for a change is processed, Doximity may, for a time, retain residual information about you in its backup and/or archival copies of its database. 
+You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your Doximity account, including your email and contact preferences, at any time by emailing [support@doximity.com](mailto:support@doximity.com) You can also make these changes on the Doximity website by updating your Profile. Please be aware that even after your request for a change is processed, Doximity may, for a time, retain residual information about you in its backup and/or archival copies of its database.
 
 ### Closing Your Account
 
-You can also close your account at any time by emailing [support@doximity.com](mailto:support@doximity.com). If you close your Doximity account, we will remove all of the information that you have provided to Doximity from our publicly viewable database, as well as any private profile information that you have stored with us. We will retain the publicly available data in the database, including all of the information about you that was available on our database prior to your joining the Doximity network. We may also retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. 
+You can also close your account at any time by emailing [support@doximity.com](mailto:support@doximity.com) If you close your Doximity account, we will remove all of the information that you have provided to Doximity from our publicly viewable database, as well as any private profile information that you have stored with us. We will retain the publicly available data in the database, including all of the information about you that was available on our database prior to your joining the Doximity network. We may also retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law.
 
 Doximity may also retain and use your information if necessary to provide the Services to other Users. For example, just as an email you may send to another person through an email service provider resides in that person’s inbox even after you delete it from your sent files or close your account, communications to other Users, as well as your contributions to iRounds and DocNews, may remain visible to others after you have closed your account. Similarly, other information you have shared with others, or that other Users have copied, may also remain visible. Doximity disclaims any liability in relation to the deletion or retention (subject to the terms herein) of information or any obligation not to delete the information. Doximity does not control when search engines update their cache, which may contain certain public profile information that has since been removed from Doximity’s publicly viewable database.
 
-To request that we close your account and remove your information from the Doximity website, please send your request to [support@doximity.com](mailto:support@doximity.com). Please send your request using an email account that you have registered with Doximity under your name. You will receive a response within five business days of its receipt. 
+To request that we close your account and remove your information from the Doximity website, please send your request to [support@doximity.com](mailto:support@doximity.com) Please send your request using an email account that you have registered with Doximity under your name. You will receive a response within five business days of its receipt.
 
 ### Memorializing Accounts
 
 If we learn that a User is deceased, we may memorialize the User’s account. In these cases we may restrict profile access, remove messaging functionality, and close an account if we receive a formal request from the User’s next of kin or other proper legal request to do so.
+
+Return to top
 
 * * *
 
@@ -152,11 +157,13 @@ As a User, you have certain obligations toward the other Users with whom you wil
 
 Any violation of these guidelines may lead to the restriction, suspension or termination of your account by Doximity, as we take these principles seriously and consider them to be the basis on which our Users adhere to the Doximity website and the services which it offers.
 
+Return to top
+
 * * *
 
 ## 5\. Important Information
 
-If Users have questions or concerns regarding this statement, you may contact Doximity by email at [support@doximity.com](mailto:support@doximity.com). 
+If Users have questions or concerns regarding this statement, you may contact Doximity by email at [support@doximity.com](mailto:support@doximity.com)
 
 ### Insurance Data
 
@@ -168,7 +175,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you use the Doximity service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
 
-Insurance and other data is provided to Doximity by [www.DocSpot.com.](http://www.docspot.com/)
+Insurance and other data is provided to Doximity by [docspot.com](http://www.docspot.com/)
+
+Return to top
 
 * * *
 
@@ -176,18 +185,21 @@ Insurance and other data is provided to Doximity by [www.DocSpot.com.](http://ww
 
 In order to secure your personal information, access to your data on Doximity is password-protected. It is your responsibility to protect the security of your login information.
 
+Return to top
+
 * * *
 
 ## 7\. How to contact us
 
-If you have questions or comments about this privacy policy, please email us at [support@doximity.com](mailto:support@doximity.com) or contact us at: 
+If you have questions or comments about this privacy policy, please email us at [support@doximity.com](mailto:support@doximity.com) or contact us at:
 
-Doximity   
-ATTN: Privacy Policy Issues   
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401   
+Doximity  
+ATTN: Privacy Policy Issues  
+60 E Third Ave  
+Suite 115  
+San Mateo, CA 94401
 
+Return to top
 
 * * *
 
@@ -203,9 +215,9 @@ Doximity's mission is to connect the world's medical professionals to enable you
 
 B. Scope and Intent
 
-You agree that by registering on Doximity, or by using the website, including our mobile applications, premium services, or other information provided as part of the Doximity services (collectively "Doximity" or the "Services"), you are entering into a legally binding agreement with Doximity, 60 E 3rd Avenue, Suite 115, San Mateo, CA 94401 ("we," "us," "our," and "Doximity") based on the terms of this Doximity User Agreement and the Doximity Privacy Policy, which is hereby incorporated by reference (collectively referred to as the "Agreement") and become a Doximity user ("User"). 
+You agree that by registering on Doximity, or by using the website, including our mobile applications, premium services, or other information provided as part of the Doximity services (collectively "Doximity" or the "Services"), you are entering into a legally binding agreement with Doximity, 60 E 3rd Avenue, Suite 115, San Mateo, CA 94401 ("we," "us," "our," and "Doximity") based on the terms of this Doximity User Agreement and the Doximity Privacy Policy, which is hereby incorporated by reference (collectively referred to as the "Agreement") and become a Doximity user ("User").
 
-If you are using Doximity on behalf of a company, medical practice or other legal entity, you are nevertheless individually bound by this Agreement even if your company has a separate agreement with us. If you do not want to register an account and become a Doximity User, do not conclude the Agreement, do NOT click join Doximity and do not access, view, download or otherwise use any Doximity webpage, information or services. By joining Doximity you acknowledge that you have read and understood the terms and conditions of this Agreement and that you agree to be bound by all of its provisions. By joining Doximity you also consent to use electronic signatures and acknowledge your registration as one. Please note that the Doximity User Agreement and Privacy Policy are also collectively referred to as Doximity's "Terms of Service." 
+If you are using Doximity on behalf of a company, medical practice or other legal entity, you are nevertheless individually bound by this Agreement even if your company has a separate agreement with us. If you do not want to register an account and become a Doximity User, do not conclude the Agreement, do NOT click join Doximity and do not access, view, download or otherwise use any Doximity webpage, information or services. By joining Doximity you acknowledge that you have read and understood the terms and conditions of this Agreement and that you agree to be bound by all of its provisions. By joining Doximity you also consent to use electronic signatures and acknowledge your registration as one. Please note that the Doximity User Agreement and Privacy Policy are also collectively referred to as Doximity's "Terms of Service."
 
 2\. YOUR OBLIGATIONS
 
@@ -231,7 +243,7 @@ To be eligible to use the Service, you must meet the following criteria and repr
 
 D. Sign-In Credentials
 
-You agree to: (1) Keep your password secure and confidential; (2) not permit others to use your login credentials to access your account; (3) refrain from using other Users' accounts; (4) refrain from selling, trading, or otherwise transferring your Doximity account or any information and content of another Doximity user to another party; and (5) refrain from charging anyone for access to any portion of Doximity, or any information therein. Further, you are responsible for anything that happens through your account until you close down your account or prove that your account security was compromised due to no fault of your own. To close your account, please contact [support@doximity.com.](mailto:support@doximity.com)
+You agree to: (1) Keep your password secure and confidential; (2) not permit others to use your login credentials to access your account; (3) refrain from using other Users' accounts; (4) refrain from selling, trading, or otherwise transferring your Doximity account or any information and content of another Doximity user to another party; and (5) refrain from charging anyone for access to any portion of Doximity, or any information therein. Further, you are responsible for anything that happens through your account until you close down your account or prove that your account security was compromised due to no fault of your own. To close your account, please contact [support@doximity.com](https://web.archive.org/privacy). 
 
 E. Indemnification
 
@@ -239,7 +251,7 @@ You indemnify us and hold us harmless for all damages, losses and costs (includi
 
 F. Payment
 
-If you purchase any services that we offer for a fee, either on a one-time or subscription basis ("Premium Services"), you agree to Doximity storing your payment card information. You also agree to pay the applicable fees for the Premium Services (including, without limitation, periodic fees for premium accounts) as they become due plus all related taxes, and to reimburse us for all collection costs and interest for any overdue amounts. Your obligation to pay fees continues through the end of the subscription period during which you cancel your subscription. You may cancel your Premium Services. You also acknowledge that Doximity's Premium Services are subject to this Agreement and any additional terms related to the provision of the Premium Service.
+If you purchase any services that we offer for a fee, either on a one-time or subscription basis ("Premium Services"), you agree to Doximity storing your payment card information. You also agree to pay the applicable fees for the Premium Services (including, without limitation, periodic fees for premium accounts) as they become due plus all related taxes, and to reimburse us for all collection costs and interest for any overdue amounts. Your obligation to pay fees continues through the end of the subscription period during which you cancel your subscription. You may cancel your Premium Services by contacting [ support@doximity.com](mailto:support@doximity.com). You also acknowledge that Doximity's Premium Services are subject to this Agreement and any additional terms related to the provision of the Premium Service. All fees and charges are nonrefundable and there are no refunds or credits for partially used periods. All Premium Services, including upgrades and additional messages acquired as part of your Premium account, expire immediately upon cancellation or termination of your Premium account.
 
 G. Notify Us of Acts Contrary to the Agreement
 
@@ -289,7 +301,7 @@ C. Disclosure of User Information
 
 You acknowledge, consent and agree that we may access, preserve, and disclose your registration and any other information you provide if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary in our opinion to: (1) comply with legal process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Agreement; (3) respond to claims of a violation of the rights of third parties, whether or not the third party is a User, individual, or government agency; (4) respond to customer service inquiries; or (5) protect the rights, property, or personal safety of Doximity, our Users or the public.
 
-Disclosures of User information to third parties other than those required to provide customer support, administer this agreement, or comply with legal requirements are addressed in the privacy policy. 
+Disclosures of User information to third parties other than those required to provide customer support, administer this agreement, or comply with legal requirements are addressed in the privacy policy.
 
 D. Connections and Interactions With Other Users
 
@@ -311,7 +323,7 @@ Doximity does not guarantee that the services it provides will function without 
 
 The contents of Doximity, such as text, graphics, images, information obtained from Doximity's licensors, users, employees and other material contained in Doximity ("Content") is for informational and educational purposes only and are not a substitute for the professional judgment of a health care professional in diagnosing and treating patients. Doximity or you are not permitted to advise, diagnose, or otherwise treat users of this Site. Neither the content nor any other service offered by or through this site is intended to be for medical diagnosis or treatment. Persons accessing this information assume full responsibility for the use of the information and agree that Doximity, Inc. is not responsible or liable for any claim, loss, or damage arising from the use of the information. Doximity does not recommend or endorse any specific drugs, tests, physicians, products, procedures, opinions, “off-label” drug uses or other information that may be mentioned on Doximity and Doximity members are required by the "Do's" of these Terms of Use to disclose any such conflicts of interest. Your reliance upon the Content obtained or used by you is solely at your own risk.
 
-Doximity reminds you that the Service is not meant to serve as a substitute for your own professional medical judgment. You should always exercise your professional judgment in evaluating your patients, and should carefully consider any treatment plan. Doximity encourages you to confirm the information made available or otherwise obtained through the Service with other reliable sources before undertaking any treatment. We also encourage you to review from time to time the American Medical Association's Policy for Professionalism in the Use of Social Media at http://www.ama-assn.org/ama/pub/meeting/professionalism-social-media.shtml. 
+Doximity reminds you that the Service is not meant to serve as a substitute for your own professional medical judgment. You should always exercise your professional judgment in evaluating your patients, and should carefully consider any treatment plan. Doximity encourages you to confirm the information made available or otherwise obtained through the Service with other reliable sources before undertaking any treatment. We also encourage you to review from time to time the American Medical Association's Policy for Professionalism in the Use of Social Media at http://www.ama-assn.org/ama/pub/meeting/professionalism-social-media.shtml.
 
 7\. BUSINESS ASSOCIATE AGREEMENT
 
@@ -359,13 +371,13 @@ If any provision of this Agreement is found by a court of competent jurisdiction
 
 B. Notices and Service of Process
 
-In addition to Section 2.h. ("Notices and Service Messages"), we may notify you via postings on?www.doximity.com. You may contact us at [support@doximity.com](mailto:support@doximity.com), or via mail or courier at: 
+In addition to Section 2.h. ("Notices and Service Messages"), we may notify you via postings on?www.doximity.com. You may contact us at [support@doximity.com](https://web.archive.org/privacy), or via mail or courier at:
 
-Doximity   
-ATTN: Legal Department   
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401   
+Doximity  
+ATTN: Legal Department  
+60 E Third Ave  
+Suite 115  
+San Mateo, CA 94401  
 
 
 Additionally, Doximity accepts service of process at this address. Any notices that you provide without compliance with this section on Notices shall have no legal effect.
@@ -416,7 +428,7 @@ B. Don't Undertake the Following:
   3. Harass, abuse or harm another person, including sending unwelcomed communications to others using Doximity;
   4. Upload a profile image that is not your likeness or a head-shot photo;
   5. Use or attempt to use another's account without authorization from the user, or create a false identity on Doximity;
-  6. Upload, post, email, DocMail, DocText, fax, transmit or otherwise make available or initiate any content that: 
+  6. Upload, post, email, DocMail, DocText, fax, transmit or otherwise make available or initiate any content that:
     * Falsely states, impersonates or otherwise misrepresents your identity, including but not limited to misrepresenting your current or previous positions and qualifications, or your affiliations with a person or entity, past or present;
     * Is unlawful, libelous, abusive, obscene, discriminatory or otherwise objectionable;
     * Adds to a content field content that is not intended for such field (i.e. submitting a telephone number in the specialty field);
@@ -456,12 +468,12 @@ We built Doximity to help you be a more successful physician or other healthcare
 
 If you believe any materials accessible on or from the Services infringe your copyright, you may request removal of those materials (or access thereto) from the Services by contacting Doximity at the following physical or email address:
 
-Doximity   
-ATTN: Legal Department   
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401   
-support@doximity.com 
+Doximity  
+ATTN: Legal Department  
+60 E Third Ave  
+Suite 115  
+San Mateo, CA 94401  
+support@doximity.com
 
 and providing the following information:
 
@@ -616,13 +628,15 @@ ADDRESSES FOR NOTICES
 
 FOR DOXIMITY, INC:
 
-Doximity   
-ATTN: Legal Department   
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401   
+Doximity  
+ATTN: Legal Department  
+60 E Third Ave  
+Suite 115  
+San Mateo, CA 94401  
 
 
 FOR COVERED ENTITY:
 
 The notice address for Covered Entity will be the address provided by that entity on the online registration page for the Doximity service.
+
+Return to top
