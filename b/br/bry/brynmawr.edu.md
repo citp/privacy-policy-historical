@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612061709id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013210336id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.*
 
 # WebPrivacy
 
@@ -6,7 +6,7 @@
 
 ### Bryn Mawr College - Web Privacy Policy
 
-Revised - March 2010
+Revised - March 2010, Minor revision - June 2012
 
 Bryn Mawr respects your privacy and has created this policy to ensure any personal information we receive is handled in a secure and responsible manner.
 
@@ -22,8 +22,8 @@ Bryn Mawr respects your privacy and has created this policy to ensure any person
 
 1\. We use personally identifiable information to support college operations. Specific purposes may also be outlined in the space it is collected.  
 2\. We will not share, sell, rent or distribute personally identifiable information submitted via the web site to other organizations or businesses except where stated or when required by law.  
-3\. We may link to sites outside the Bryn Mawr College domain. We are not responsible for the content or privacy practices of those sites. Personal sites hosted by Bryn Mawr, such as those on the students.brynmawr.edu or people.brynmawr.edu servers, are the sole responsibility of those sites' owners, and Bryn Mawr is not responsible for the content or privacy practices of those sites.  
-4\. If a log in is required any personal information that is gathered may not be anonymous but will be confidential.
+3\. We may link to sites outside the Bryn Mawr College domain. We are not responsible for the content or privacy practices of those sites. Personal web spaces hosted by Bryn Mawr, such as those on blogs.brynmawr.edu, are the sole responsibility of those sites' owners, and Bryn Mawr is not responsible for the content or privacy practices of those sites.  
+4\. If a log in is required, any personal information that is gathered may not be anonymous but will be confidential and handled within the terms of the [Bryn Mawr College Acceptable Use Policy](https://web.archive.org/web/20121013210336id_/http%3A//www.brynmawr.edu/computing/policies/AcceptableUse.htm).
 
 ### Commitment to security
 
@@ -33,4 +33,4 @@ Bryn Mawr maintains security by applying patches for all known software vulnerab
 
 Some pages on our site will use web forms or e-mail links to collect personal information from you. On those pages, we intend to state clearly how we will use that information and which items are required. 
 
-If you have any questions regarding this policy, please email webmaster@brynmawr.edu. In the future our policy may change. Any changes will be reflected in this document.
+If you have any questions regarding this policy, please email webmaster@brynmawr.edu. In the future our policy may change. Any changes will be reflected in this document. 
