@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609071540id_/http%3A//www.dailyfx.com/page/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014014616id_/http%3A//www.dailyfx.com/page/privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
@@ -46,6 +46,6 @@ or send your request to:
 
 Forex Capital Markets LLC  
 Attention: Privacy Officer  
-Financial Square  
-32 Old Slip, 10th Floor  
-New York, NY 10005
+55 Water St., 50th Floor  
+New York, NY 10041  
+USA
