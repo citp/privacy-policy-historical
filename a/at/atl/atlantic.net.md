@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510170136id_/http%3A//www.atlantic.net/About-Us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014004924id_/http%3A//www.atlantic.net/About-Us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We do not provide services designed for or directed at children under the age of
 
 ### How Atlantic.Net Uses Information Collected
 
-Atlantic.Net may use personal information for internal operations in the following ways:
+Atlantic.Net may use personal information for internal operations in the following ways: 
 
   * To personalize your Web experience based upon your individual needs and patterns.
   * To improve our website and suggested offerings based upon your feedback.
@@ -42,7 +42,7 @@ This privacy policy applies only to information collected through our website an
 
 By using our website and/or submitting our online forms, you consent to our privacy policy.
 
- **Changes to our Privacy Policy**
+**Changes to our Privacy Policy**
 
 Atlantic.Net reserves the right to modify this privacy policy at any time without notice to customers or the public. This privacy policy is effective as of June 29, 2010.
 
