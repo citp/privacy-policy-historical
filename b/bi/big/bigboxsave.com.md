@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bigboxsave.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504080641id_/http%3A//www.bigboxsave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigboxsave.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013215852id_/http%3A//www.bigboxsave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how BigBox Store Ltd uses and protects any information that you give BigBox Store Ltd when you use this website.
+This privacy policy sets out how Bigboxsave uses and protects any information that you give Bigboxsave when you use this website.
 
-BigBox Store Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Bigboxsave is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-BigBox Store Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 16th June 2008
+Bigboxsave may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 16th June 2008
 
 **What we collect**
 
