@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402005416id_/http%3A//marketing.justia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014011635id_/http%3A//marketing.justia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Justia :: Privacy Policy - Search Engine Optimized Web Site Design for Law Firms
+# Privacy Policy - Justia Legal Marketing
+
+**Privacy Policy**
 
 Justia is committed to protecting the privacy and security of all individuals who use our site. Our goal is to provide an Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, from time to time we may collect information during your visits. This Privacy Policy is designed to help you learn more about the personal information we collect, who we might share it with, and how we protect it. 
 
@@ -10,15 +12,15 @@ _Note: Additional terms and conditions, if any, regarding the collection and use
 
 Justia collects personal information in three ways - through information provided directly from our users, from information collected through web server logs and through cookies. 
 
-Information Supplied by Our Users 
+**Information Supplied by Our Users**
 
 Justia collects personal information, such as your e-mail address, name, home or work address and telephone number. Justia may also collect demographic information, such as your ZIP code, age, gender, and legal interests. Justia does not collect any of this unique information about you except when you specifically and knowingly provide such information. 
 
-Information from Web Server Logs 
+**Information from Web Server Logs**
 
 Justia records and saves information about you from our web server logs such as your Internet [Protocol] (IP) address, the time day you visited and your browser type. This information is used to verify our records and to provide better services to you. 
 
-Information from Cookies 
+**Information from Cookies**
 
 In order to offer and provide you with personalized services, Justia may use "cookies" to store and help track your information. A cookie is a piece of data that identifies you as a unique user. Justia will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order. 
 
@@ -48,4 +50,4 @@ While Justia is committed to protecting your personal information, no data trans
 
 When you sign up for Justia's products and service, we may send you an e-mail confirming your new account. The message will be sent to the address that you supplied to us at the time of sign-up and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services. 
 
-We welcome your comments or questions. Send us an email to justiaprivacypolicy @ justia.com.
+We welcome your comments or questions. Send us an email to justiaprivacypolicy @ justia.com. 
