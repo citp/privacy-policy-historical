@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingstar.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510083847id_/https%3A//savingstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingstar.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014012021id_/https%3A//savingstar.com/privacy) for the most accurate reproduction.*
 
 # SavingStar Grocery eCoupons | Privacy Policy
 
