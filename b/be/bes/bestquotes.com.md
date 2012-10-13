@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510033029id_/http%3A//www.bestquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013112323id_/http%3A//www.bestquotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BestQuotes
 
@@ -28,7 +28,7 @@ We collect system information such as IP addresses (in other words, the location
 
 We also may use cookies, a small data file stored on your computer, to customize portions of our Services and Site to your preferences. For example, we may use this cookie to identify you as a registered user of our Services. If you do not allow your browser to accept cookies, please understand that some of the areas or functionality within our Site may be limited.
 
-Provider allows the user the possibility to interrupt the flow of information received via the user login and per email. Information received and available can be interrupted by sending an email to [support@bestquotes.com](mailto:support@earnid.com) or call our 1-888-bestquotes.  See for more details the help page of **BestQuotes** (www.bestquotes.com).
+Provider allows the user the possibility to interrupt the flow of information received via the user login and per email. Information received and available can be interrupted by sending an email to [support@bestquotes.com](mailto:support@earnid.com) or call our 1-888-bestquotes.  See for more details the help page of **[BestQuotes](http://www.bestquotes.com/ "BestQuotes.com")**.
 
 ### **2\. What do we do with the information we collect?  **
 
