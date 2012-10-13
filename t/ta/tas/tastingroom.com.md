@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastingroom.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510144123id_/http%3A//www.tastingroom.com/control/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastingroom.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014012818id_/http%3A//www.tastingroom.com/control/privacyPolicy) for the most accurate reproduction.*
 
 # Taste and Discover Wines from Around the World at TastingRoom.com
 
