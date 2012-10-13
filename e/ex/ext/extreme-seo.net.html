@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the extreme-seo.net privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622112847id_/http%3A//www.extreme-seo.net/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extreme-seo.net privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014012856id_/http%3A//www.extreme-seo.net/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
 	<title>Privacy Policy - Extreme Seo Internet Solution Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Privacy Policy - Extreme Seo Internet Solution Search Engine Optimization Company Privacy Policy">
@@ -26,6 +27,7 @@ html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
 <link rel="stylesheet" type="text/css" href="http://www.extreme-seo.net/skin/frontend/mind/extreme/css/jqueryslidemenu.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.extreme-seo.net/skin/frontend/mind/extreme/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.extreme-seo.net/skin/frontend/mind/extreme/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.extreme-seo.net/skin/frontend/base/default/magazento/facebook/fb.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.extreme-seo.net/skin/frontend/mind/extreme/css/print.css" media="print">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.extreme-seo.net/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://www.extreme-seo.net/js/lib/ccard.js"></script>
@@ -47,7 +49,6 @@ html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
 <script type="text/javascript" src="http://www.extreme-seo.net/skin/frontend/mind/extreme/js/twitter.js"></script>
 <script type="text/javascript" src="http://www.extreme-seo.net/skin/frontend/mind/extreme/js/contentslider.js"></script>
 <script type="text/javascript" src="http://www.extreme-seo.net/skin/frontend/mind/extreme/js/addition_tipsy.js"></script>
-<script type="text/javascript" src="http://www.extreme-seo.net/skin/frontend/base/default/js/jquery-1.7.2.min.js"></script>
 <link href="http://www.extreme-seo.net/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
 <link href="http://www.extreme-seo.net/rss/catalog/special/store_id/1/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml">
 <link href="http://www.extreme-seo.net/rss/catalog/salesrule/store_id/1/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
@@ -72,11 +73,183 @@ optionalZipCountries = [];
 //]]>
 </script>
 	<meta name="google-site-verification" content="<meta name=&quot;verify-v1&quot; content=&quot;CsSpiVuGW+pkvuL+M6aMIbp4IpOqXzkukQEx6x91aV0=&quot; />">
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script>	
+    <link type="text/css" href="http://www.extreme-seo.net/skin/frontend/janrain/stylesheet.css" rel="stylesheet">
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script>
+<!--START CODE FOR THE GET QUOTE BUTTON-->
+<script>
+var j = jQuery.noConflict();
+j(document).ready(function()
+{
+	var window_height = j(window).height();
+	var quote_small = j('#quote-small');
+	var quote_small_height = quote_small.height();
+	var delay;
+	j(window).resize(function()
+	{
+		window_height = j(window).height();
+		quote_small.scrollQuote();
+	});	
+	j(document).scroll(function(e)
+	{
+		quote_small.scrollQuote();
+	});
+	j.fn.scrollQuote = function()
+	{
+		var offset = quote_small.offset();
+		var scroll_top = j(document).scrollTop();
+		var total = window_height + scroll_top - quote_small_height - 0;
+		clearInterval(delay);
+		delay = setTimeout(function()
+		{
+			quote_small.css('top', offset.top);
+			quote_small.animate({top:total}, 'slow', function()
+			{
+				
+			});j('#quote-form').css({top:total - j('#quote-form').height() + 47});
+		},100);
+	}
+	quote_small.scrollQuote();
+	j('#quote-small').bind('click', function(e)
+	{
+		j('#quote-form').slideToggle(100);
+		e.preventDefault();
+	});
+	j('#quote-form').find('span.close-btn').bind('click', function(e)
+	{
+		j('#quote-form').slideToggle(100);
+		e.preventDefault();
+	});
+	j('#quote-form').find('input[name="keywordby"]').bind('click', function(e)
+	{
+		if(j(this).val() == 'Yes')
+		{
+			j("#keywords").attr("disabled", false);
+		}
+		else
+		{
+			j("#keywords").val('');
+			j('#keywords').attr("disabled", true);
+		}
+	});
+	
+	var validate = function()
+	{
+		var validation = true;
+		var form = j('form#form').find('input[data-required]', 'textarea[data-required]');
+		j.each(form, function(index, elem)	
+		{
+			var element = j(elem)
+			var ele_value = element.val();
+			var r_type = element.attr('data-required-type');
+			var r_msg = element.attr('data-msg');
+			
+			if(r_type == 'text')
+			{
+				if(ele_value == '' || ele_value.length < 3)
+				{
+					element.css('border-color', '#D69890');
+					element.css('background-color', '#F7B6B6');
+					element.attr('title', r_msg);
+					validation = false;
+				}
+			}
+			if(r_type == 'email')
+			{
+				var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+				if(ele_value == '' || ele_value.length < 3 || !emailReg.test(ele_value))
+				{
+					element.css('border-color', '#D69890');
+					element.css('background-color', '#F7B6B6');
+					element.attr('title', r_msg);
+					validation = false;
+				}
+			}
+			if(r_type == 'url')
+			{
+				var urlregex = /^(http:\/\/www.|https:\/\/www.|ftp:\/\/www.|www.){1}([0-9A-Za-z]+\.)/;
+				if(ele_value == '' || ele_value.length < 3 || !urlregex.test(ele_value))
+				{
+					element.css('border-color', '#D69890');
+					element.css('background-color', '#F7B6B6');
+					element.attr('title', r_msg);
+					validation = false;
+				}
+			}
+			element.click(function(e)
+			{
+				j(this).css('border-color', '#DABDB9');
+				j(this).css('background-color', '#fff');
+				j(this).removeAttr('title')
+			});
+		});
+		
+		return validation;	
+	}
+	
+	
+	j('#send').bind('click',function(e){
+		
+		if(validate())
+		{
+			j('#loader').html('<img src="http://www.extreme-seo.net/mail/mailsender/loader.gif"/>');		
+			j.ajax({			
+				url: 'http://www.extreme-seo.net/mail/mailsender/mail-client.php',
+				type: 'POST',
+				data: j('#form').serialize(),			
+				success:function(data){
+					j('#loader').html(data);
+					//j('#form input').val('');
+					//j('#form textarea').val('');
+					//j("#keywords").attr("disabled", false);
+					j('#form').get(0).reset();					
+				}
+			});
+		}
+	});
+});
+</script>
+<!--END CODE FOR THE GET QUOTE BUTTON-->	
+
 </head>
+
 <body>
+
 <div class="wrapper">
+
+<!--START GET A GUOTE-->
+  <div id="quote-small"></div>
+  <div id="quote-form">
+    <div id="heading">
+      <h1>Simply fill the form and submit</h1>
+      <span class="close-btn">X</span> </div>
+    <div id="outer">
+      <form id="form">
+      	<div class="row">Full name</div>
+        <div class="row"><input type="text" name="fname" placeholder="Your Full Name" data-required="1" data-required-type="text" data-msg="Please enter first name"></div>
+        <div class="row">Email</div>
+        <div class="row"><input type="text" name="email" placeholder="example@gmail.com" data-required="1" data-required-type="email" data-msg="Please enter valid email"></div>
+        <div class="row">Phone</div>
+        <div class="row"><input type="text" name="phone" placeholder="+94-000000000" data-required="1" data-required-type="text" data-msg="Please enter phone number"></div>
+        <div class="row">Website - (Which You Need a Quote)</div>
+        <div class="row"><input type="text" name="wsite" placeholder="www.example.com" data-required="1" data-required-type="url" data-msg="Please enter website"></div>
+        <div class="row">I will provide the keywords</div>
+        <div class="row"><input type="radio" name="keywordby" value="Yes" checked="checked">Yes
+        <input type="radio" name="keywordby" value="No">No</div>
+        <div class="row">
+        	<div id="quote-keyword-textarea"> Keywords - (Enter one per line)<br><textarea name="keywords" id="keywords" placeholder="Keyword1										Keyword2" rows="3" cols="20"></textarea>       
+        	</div>
+        </div>
+        <div class="row">My business geolocated in</div>
+        <div class="row"><input type="radio" name="geo" value="Sri Lanka" checked="checked">Sri Lanka<input type="radio" name="geo" value="Not Srilanka">Other</div>      
+        <div id="msg" class="row"><div id="loader"></div><button class="submit-btn" type="button" id="send">Submit Quote</button></div> 
+        <br>       
+      </form>
+    </div>
+  </div>
+<!--END GET A QUOTE-->
+
   <div class="container">
+
         <noscript>
         <div class="noscript">
             <div class="noscript-inner">
@@ -85,6 +258,7 @@ optionalZipCountries = [];
             </div>
         </div>
     </noscript>
+
 	<div class="home-top"><div class="banner-left">
 <img src="http://www.extreme-seo.net/skin/frontend/mind/extreme/images/home-bannerleft.jpg" alt="Banner" width="30" height="534"></div>
 <div class="banner-mid"><div class="main"><div class="header"><div class="logo-chat"><div class="logo-bg"><a href="http://www.extreme-seo.net/" title="Extreme SEO" class="logo"><img src="http://www.extreme-seo.net/skin/frontend/mind/extreme/images/logo.jpg" alt="Extreme SEO"></a>
@@ -131,7 +305,9 @@ optionalZipCountries = [];
 	</script>
 </div>
 <div class="jquery-btm"></div> </div></div></div><div class="banner-right"><img src="http://www.extreme-seo.net/skin/frontend/mind/extreme/images/home-bannerright.jpg" width="29" height="534" alt="Banner"></div></div>
+
      <div class="content-area">
+
    
 
 <!-- Start Econda-Monitor M156 -->
@@ -175,11 +351,14 @@ optionalZipCountries = [];
 </div> 
 <div class="testi-bg01">
 				<div class="ftr-head02">Featured <span>Testimonials</span></div>
-				<div class="testi-txt01">We have purchased several SEO companies' services. By far, Extreme SEO is one of the best, if not THE best... <div class="viewall-jq">
-				<div class="all-testi"><a href="http://www.extreme-seo.net/text-testimonials">Read more</a></div>
+				<div class="testi-txt01">
+				  There  is no comparison possible when it comes to SEO Companies. Extreme SEO  exceeded our satisfaction in…
+<div class="viewall-jq">
+	  <div class="all-testi"><a href="http://www.extreme-seo.net/seo-testimonial.php">Read more</a></div>
 				<div class="dot-bg">&nbsp;</div>
 				</div></div>
-				<div class="testimo-name"><span>John Walker</span><br>One Training SEO</div>
+				<div class="testimo-name"><span>James Martin</span><br>
+				Internet Marketing PRO</div>
 				</div>
 				
 	 <div class="side_social_all">
@@ -246,7 +425,9 @@ optionalZipCountries = [];
 </div>
 </div>
 </div>
-</div></div>    </div>
+</div></div>
+    </div>
+
     <div class="footer"><div class="main-contents"><div class="featured-client"><div class="ftr-client">
 <h2>Featured Clients</h2>
 Extreme Seo Featured Customers Updates..</div>
@@ -288,13 +469,14 @@ marqueeInit({
 <div class="recent-update">
 <div class="recent-head">Recent <br><span>Updates</span></div>
 <div class="recent-txt">Surefire Steps to a Successful Article Marketing Strategy .. <a href="http://blog.extreme-seo.net/">read more</a></div>
+</div>
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style "><a class="addthis_button_facebook_like"></a> <a class="addthis_button_tweet"></a> <a class="addthis_button_google_plusone"></a></div>
 <script type="text/javascript">// <![CDATA[
-var addthis_config = {"data_track_addressbar":true};
+var addthis_config = {"data_track_addressbar":false};
 // ]]></script>
 <script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fb77133513346f0" type="text/javascript"></script>
-<!-- AddThis Button END --></div> </div><div class="foot-linkform"><div class="foot-linkbloc01"> <div class="ft-linkbloc01">
+<!-- AddThis Button END --> </div><div class="foot-linkform"><div class="foot-linkbloc01"> <div class="ft-linkbloc01">
 <div class="ft-head01">Extreme SEO</div>
 <div class="ft-mainlinks">
 <ul>
@@ -400,8 +582,12 @@ COT("https://www.extreme-seo.net/skin/frontend/mind/extreme/images/cot_evssl.gif
 </script>
 
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script> </div>
+
   </div>
 </div>
+
+
+
 
 
 </body></html>
