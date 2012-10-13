@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520050416id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003741id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
 
 # MalekTips - Privacy Policy
 
@@ -13,7 +13,9 @@ Knoxville, TN 37939-1592
 
 This privacy statement applies to the MalekTips.Com website, and may or may not apply to content provided by third-party providers, advertisements, or external links. 
 
-If you choose to subscribe to our opt-in E-Mail list, it is our intention to keep your E-Mail address secure. We will not willingly give out your e-mail address to any other party. Your e-mail address will not be willingly given to any advertiser. 
+Note as of July 21, 2012: We are transitioning our e-mail list to a FeedBurner-administered list, with email delivery powered by Google. Privacy policy: <http://www.google.com/policies/privacy/>. 
+
+Regarding our old e-mail list:If you choose to subscribe to our opt-in E-Mail list, it is our intention to keep your E-Mail address secure. We will not willingly give out your e-mail address to any other party. Your e-mail address will not be willingly given to any advertiser. 
 
 If you choose to provide a comment to us via e-mail or our Contact Us page, your name, e-mail address, and comments will not be willingly provided to any third party unless you give us permission. Requests for help by e-mail, however, may be reprinted in the MalekTips Forums for the benefit of the community, and may be edited for clarity or brevity. 
 
@@ -38,11 +40,11 @@ Portions of MalekTips may require registration, which may include submitting an 
 
 ### Newest Tips:
 
-[ Microsoft Word 2010   
-W0rds w8th Numbers Pass the S0ellchecker! ](http://malektips.com/word-2010-disable-ignore-words-numbers.html) [ Google Gmail   
-Automatically Archive a Conversation you Respond to  ](http://malektips.com/gmail-automatically-send-archive.html) [ Digital Photography   
-[MODIFIED] Did Someone Get in the Way While Taking a Photo?  ](http://malektips.com/digital_photography_0009.html) [ Google Chrome   
-View Kittens and Pandas Everywhere!  ](http://malektips.com/chrome-cutify-images-kittens-pandas.html)
+[ Microsoft Excel 2010   
+Stop Accidentally Showing the Ribbon Shortcut Keys ](http://malektips.com/excel-2010-slash-ribbon-shortcut-keys-menu-disable.html) [ Google Chrome   
+Disable Plugins Such as Flash Unless You Want Them to Run  ](http://malektips.com/google-chrome-plugins-click-to-play-flash-shockwave.html) [ Mozilla Firefox - Plugins and Extensions   
+Add Print and Print Preview to Context Menu  ](http://malektips.com/firefox-right-click-context-menu-print-preview.html) [ Microsoft Outlook 2010   
+Where is the Blind Carbon Copy Feature?  ](http://malektips.com/outlook-2010-bcc-blind-carbon-copy.html)
 
 ### Follow Us!
 
@@ -50,4 +52,4 @@ View Kittens and Pandas Everywhere!  ](http://malektips.com/chrome-cutify-images
 
 ###  About MalekTips and the Author 
 
-The MalekTips website was created in 1998 by Andrew Malek of Envision Programming. The page's goal is to freely disperse computer-related tips, hints, and informative articles. Tips are organized to be easy to find, and are presented clearly, in easy-to-understand language. MalekTips also provides information and links to public-domain, open source, freeware, shareware, and commercial software available for download. [< more >](https://web.archive.org/about.html)
+The MalekTips website was created in 1998 by Andrew Malek of Envision Programming. The page's goal is to freely disperse computer-related tips, hints, and informative articles. Tips are organized to be easy to find, and are presented clearly, in easy-to-understand language. MalekTips also provides information and links to public-domain, open source, freeware, shareware, and commercial software available for download. 
