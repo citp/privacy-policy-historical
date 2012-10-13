@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510054936id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013152915id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 123weddingCards : Privacy Policy of 123WeddingCards.com, Wedding cards, Indian Wedding cards, Wedding cards India, Hindu Wedding Cards, Islamic Wedding Cards, Muslim Wedding Cards, Sikh Wedding Cards, Punjabi Wedding Cards, christian Wedding Cards, Asian Wedding Cards, Wedding cards for sale, free Sample for wedding cards, Blank and custom printed Wedding Cards, Wedding Invitation cards, Indian Wedding Invitation cards, Online Wedding Cards
 
