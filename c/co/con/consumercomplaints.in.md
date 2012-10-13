@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613232533id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014005236id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
@@ -67,17 +67,9 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ### Recently discussed
 
-(2 hours 40 minutes ago)  
-[godrej mattress](https://web.archive.org/complaints/godrej-mattress-himachal-pradesh-c359736.html)  
-reg.mattress pressed and loosy
-
-(2 hours 46 minutes ago)  
-[Nokia 500](https://web.archive.org/complaints/nokia-500-raipur-chhattisgarh-c743321.html)  
-problem regarding many applications
-
-(3 hours 26 minutes ago)  
-[Sys-Tech Computer](https://web.archive.org/complaints/sys-tech-computer-pune-maharashtra-c704768.html)  
-Does not replacing laptop adapter under warranty
+(2 hours 48 minutes ago)  
+[Techvedic](https://web.archive.org/complaints/techvedic-c523668.html)  
+Regarding Support
 
 [](http://www.yadsi.in/ "India Classifieds")
 
