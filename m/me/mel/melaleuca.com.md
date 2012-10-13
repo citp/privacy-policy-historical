@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618154149id_/http%3A//www.melaleuca.com/Introduction/Content.aspx%3FPage%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014015935id_/http%3A//www.melaleuca.com/Introduction/Content.aspx%3FPage%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
