@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoinc.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423154155id_/http%3A//exoinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoinc.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013222857id_/http%3A//exoinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | #1: Frigidaire Dehumidifier FAD704TDP 70-Pint : SAVE PRICES!
 
@@ -24,3 +24,5 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of @exoinc then you may contact us at @admin@exoinc.com 
 
 Last updated Thu, 05 May 2011 06:44
+
+### Share and Enjoy
