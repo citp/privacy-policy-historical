@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the gchats.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172759id_/http%3A//www.gchats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gchats.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014005103id_/http%3A//www.gchats.com/privacy) for the most accurate reproduction.*
 
-# Gchat Design Studio :: Privacy Policy
+# Privacy Policy
 
-  * ## Privacy Policy
-
-  * Gchats is committed to protect your security and your personal details when you use Gchats Website, Services and Products on the Website. Here you can find details on how and why we protect your details and what we do with your information. Please check back our Privacy Policy for any changes and amendments in the future. 
+  *   * Gchats is committed to protect your security and your personal details when you use Gchats Website, Services and Products on the Website. Here you can find details on how and why we protect your details and what we do with your information. Please check back our Privacy Policy for any changes and amendments in the future. 
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
@@ -29,6 +27,7 @@ We may change this policy from time to time by updating this page. You should ch
     * We may use the information to customise the website according to your interests.
 3\. Security
     We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable procedures to safeguard and secure the information we collect online.
+    we do not store credit card details nor do we share customer details with any 3rd parties.
 4\. Links to other websites
     Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 5\. Your personal information
@@ -40,7 +39,9 @@ Last updated: 9 Jan 2012
 
 
 
-  * Remove Subscribe
+  * Enter your e-mail address
+
+Remove Subscribe
 
   
 
@@ -56,19 +57,19 @@ May 31, 2012
 
 \- Media player music and video uploading feature added.
 
-\- Microphone echo when using handsfree in the flash chat.
+\- Microphone echo when using handsfree.
 
-\- Unicode usernames couldn't login in the flash chat.
+\- Unicode usernames couldn't login in the.
 
-\- Unicode usernames appeared incorrectly in the logs and online users.
+\- Unicode usernames appeared incorrectly in the logs and online list.
 
-\- Users could remove gag by changing the rooms.
+\- Blocked members could remove the gag by changing the rooms.
 
-\- Double enter on login brought users to an empty room.
+\- Double enter on login brought to an empty room.
 
-\- Improvenet: Auto reconnect to separate voice and video server on disconnections.
+\- Improvenet: Auto reconnect to separate streaming server disconnections.
 
-\- Improvenet: online users file changed to allow more flexibility on styling this file.
+\- Improvenet: online members file now allows more flexibility on styling this file.
 
 April 28, 2012
 
