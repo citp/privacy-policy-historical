@@ -1,35 +1,72 @@
-> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113070045id_/http%3A//getinternetmarketingstrategies.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003808id_/http%3A//getinternetmarketingstrategies.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | JR's Internet Marketing Strategies
 
-I hate SPAM! The contact information you give me will never be sold or given to a third party but will only be used to contact you with "http://getinternetmarketingstrategies.com/" relevant information. 
+**The following describes the Privacy Policy for http://getinternetmarketingstrategies.com/**
 
-****If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at blogmasters@getinternetmarketingstrategies.com.
+**Your Privacy**  
+Your privacy is important to us at http://getinternetmarketingstrategies.com/. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
 
-At getinternetmarketingstrategies.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by getinternetmarketingstrategies.com and how it is used. 
+**Amazon Services LLC Associates Program**  
+The website owner is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
-**Log Files**  
-Like many other Web sites, getinternetmarketingstrategies.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, may use cookies to serve ads on this http://getinternetmarketingstrategies.com/ website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
 
-**Cookies and Web Beacons**  
-getinternetmarketingstrategies.com does not use cookies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on getinternetmarketingstrategies.com.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to getinternetmarketingstrategies.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+**[Links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "Links") to Third Party Websites**  
+We have included [links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "links") on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
+
+**Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....**  
 Google Adsense  
+Ebay Partner Network  
+Share-A-Sale  
 Commission Junction  
 Clickbank  
+Chitika  
+Amazon  
 Linkshare  
-Kontera
+and others that may be added at our discretion. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on getinternetmarketingstrategies.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**eBay Referrer Requirement**
 
-getinternetmarketingstrategies.com has no access to or control over these cookies that are used by third-party advertisers. 
+This website is a member of the ePN (eBay Partner Network). We are required by ePN to ensure that our visitors do not block any information that is routinely sent via a users standard browser when clicking one of their links. Our software will automatically cancel your transfer to eBay if all or part of this information is not currently available due to your browser settings, ISP, proxy, or any other reason.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. getinternetmarketingstrategies.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**State Law & Accompanying Rights**  
+Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+**Our Commitment To Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
+
+**Collection of Personal Information**  
+When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+Other information may be collected as well by http://getinternetmarketingstrategies.com/, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
+
+Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at http://getinternetmarketingstrategies.com/ to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
+
+At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested.
+
+A prime example of limited access to our website is where some http://getinternetmarketingstrategies.com/ content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private. 
+
+**Handling of Personal Information**  
+Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That “private” information is now “public,” and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place.
+
+Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.” However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way.
+
+However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
+
+While we are staunch privacy advocates at http://getinternetmarketingstrategies.com/, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our http://getinternetmarketingstrategies.com/ website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
+
+**CHANGE NOTICE:** As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by http://getinternetmarketingstrategies.com/, in order to protect you and our http://getinternetmarketingstrategies.com/ website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+
+COPYRIGHT WARNING: The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at http://getinternetmarketingstrategies.com/ have paid to license the use of these legal notices and administrative pages on http://getinternetmarketingstrategies.com/ for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+
+**QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so via our [contact page](http://getinternetmarketingstrategies.com/contact-me/).
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fgetinternetmarketingstrategies.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
