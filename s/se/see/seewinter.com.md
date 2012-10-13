@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505052541id_/http%3A//www.seewinter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014005051id_/http%3A//seewinter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,8 @@ Clearwater, FL 33767
   * You can reach us by telephone at 1-727-441-1790
 
 
+
+### [Donor Privacy](https://web.archive.org/assets/uploads/donorrights.pdf)
 
 ### E-mail Privacy
 
