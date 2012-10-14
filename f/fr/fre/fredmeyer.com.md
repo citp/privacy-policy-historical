@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredmeyer.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515115245id_/http%3A//www.fredmeyer.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredmeyer.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014095920id_/http%3A//www.fredmeyer.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Fred Meyer - Company Information - Privacy Policy
 
