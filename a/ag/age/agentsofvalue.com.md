@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the agentsofvalue.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195718id_/http%3A//www.agentsofvalue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agentsofvalue.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014091455id_/http%3A//www.agentsofvalue.com/privacy-policy) for the most accurate reproduction.*
 
-# Agents of Value | Privacy Policy
-
-### Privacy Policy
+# Privacy Policy in Search Optimization
 
 This Privacy Policy governs the manner in which [Agents of Value](https://web.archive.org/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the website, [http://www.agentsofvalue.com](https://web.archive.org/) (“Site”). This privacy policy applies to the Site and all products and services offered by [Agents of Value](https://web.archive.org/).
 
