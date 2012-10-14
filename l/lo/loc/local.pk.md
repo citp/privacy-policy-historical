@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the local.pk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033259id_/http%3A//info.local.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local.pk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014025656id_/http%3A//info.local.pk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Local.pk
 
-| 
-
-[](http://pakistan.onepakistan.com/photogallery/cricket-sports/Asia-Cup-2012-Final-Pakistan-vs-Bangladesh)
-
-| 
+|  | 
 
 Local.pk Info
 
