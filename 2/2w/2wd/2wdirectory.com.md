@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2wdirectory.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506145945id_/http%3A//www.2wdirectory.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2wdirectory.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014051716id_/http%3A//www.2wdirectory.com/privacy_policy.html) for the most accurate reproduction.*
 
-# World`s Directory - Privacy Policy
+# Web`s Directory - Privacy Policy
 
-2WDirectory.com respects your privacy.2WDirectory.com has created this privacy statement in order to demonstrate our firm commitment to our users' privacy. 
+2WDirectory.com has created this privacy statement in order to demonstrate our firm commitment to our users' privacy. 
 
 At 2WDirectory.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by 2WDirectory.com and how it is used.
 
