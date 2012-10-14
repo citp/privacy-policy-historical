@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509213524id_/https%3A//www.firsttennessee.com/Privacy/Corporate-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014053655id_/https%3A//www.firsttennessee.com/Privacy/Corporate-Notice) for the most accurate reproduction.*
 
 # Privacy Notice: First Tennessee Bank
 
@@ -8,11 +8,11 @@ WHAT DOES THE FIRST HORIZON AND FIRST TENNESSEE FAMILY OF COMPANIES DO WITH YOUR
 
 ### Why?
 
-Financial companies choose how they share your personal information.Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share,and protect your personal information.Please read this notice carefully to understand what we do.
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 
 ### What?
 
-The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
+T he types of personal information we collect and sh are depe nd on the product or service you ha ve with us. This information can include:
 
   * Social Security number and income
   * payment history and account balances
@@ -22,7 +22,7 @@ The types of personal information we collect and share depend on the product or 
 
 ### How?
 
-All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons the First Horizon and First Tennessee family of companies chooses to share; and whether you can limit this sharing.
+A ll financial companies need to share customers' pe rsonal in formation to run th eir every day bus iness. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons the First Horizon and First Tennessee family of companies chooses to share; and whether you can limit this sharing.
 
 Can you limit this sharing?  
 ---  
@@ -109,9 +109,9 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 **For California Residents:** You will receive information concerning additional choices provided to you under state law.
 
-**For Illinois and North Dakota Residents** We do not share your personal information for joint marketing with other financial companies.
-
 **For Vermont Residents:** We will not share your personal information with another company in our family of companies nor use your personal information to market affiliates' products and services to you. We may provide your name, contact information, and transaction information to companies that perform marketing services for us or to financial institutions with which we have joint marketing agreements.
+
+**For Illinois and North Dakota Residents** We do not share your personal information for joint marketing with other financial companies.
 
 **For Insurance (Including Annuity) Customers:** Residents of certain states may receive additional information concerning use and sharing of your personal information.
 
@@ -122,14 +122,13 @@ First Horizon Bank¹
 First Horizon Equity Lending¹  
 First Horizon Home Loans¹  
 First Horizon Insurance Services, Inc.  
-First Horizon Lending Center¹  
-First Horizon Msaver, Inc.  
 First Tennessee Advisory Services, Inc.  
 First Tennessee Bank National Association  
 First Tennessee Brokerage, Inc.  
 First Tennessee Home Loans¹  
 First Tennessee Insurance Services, Inc.  
 FTN Financial Capital Markets¹  
+FTN Financial Main Street Advisors, LLC  
 FTN Financial Securities Corp.  
 
 
@@ -137,4 +136,4 @@ FTN Financial Securities Corp.
 
 [Click here](https://web.archive.org/Privacy/CaliforniaNotice) for important privacy choices for California consumers.
 
-Rev 4/2011
+Rev 4/2012
