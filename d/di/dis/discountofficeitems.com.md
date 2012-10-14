@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603071448id_/http%3A//www.discountofficeitems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014040146id_/http%3A//www.discountofficeitems.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
