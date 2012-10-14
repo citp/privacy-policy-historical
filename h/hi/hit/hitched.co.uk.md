@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614104838id_/http%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015014134id_/http%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
 
 # hitched.co.uk - privacy policy
 
@@ -73,4 +73,4 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting hitched.co.uk
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.co.uk](mailto:feedback@hitched.co.uk) or call us on 08448800011. Our policy is to endeavour to answer any questions within 3 working days. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.co.uk](mailto:feedback@hitched.co.uk) or call us on 0844 88 000 11. Our policy is to endeavour to answer any questions within 3 working days. 
