@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610200123id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014222825id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
 
-# ANTOnline.com - Best deals on a large selection of Electronics, Video Games, Servers, Home Improvement, Pet Products and Personel Care
+# antonline.com - Computers, Laptops, Tablets, Cameras, Servers, Electronics and more
 
 Atlanta Network Technologies is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, personal and account information means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and we and us means Atlanta Network Technologies as well as its affiliated companies.  
 We reserve the right to modify this privacy policy from time to time. You should visit our Web site periodically to review any changes.   
