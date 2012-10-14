@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tv-links.eu privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513064448id_/http%3A//www.tv-links.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv-links.eu privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014102224id_/http%3A//www.tv-links.eu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tv-Links - Watch free movies, tv shows, documentaries, cartoons, anime online
 
