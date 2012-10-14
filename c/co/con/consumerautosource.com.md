@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerautosource.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624074018id_/http%3A//www.consumerautosource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerautosource.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015002417id_/http%3A//www.consumerautosource.com/privacy.php) for the most accurate reproduction.*
 
 # ConsumerAutoSource.com Privacy Policy
 
