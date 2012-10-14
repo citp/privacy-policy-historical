@@ -1,31 +1,24 @@
-> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202154855id_/http%3A//www.logodesignworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110245id_/http%3A//www.logodesignworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Site Privacy Information
+# Privacy Policy | LogoDesignWorks®
 
-Logo Design - [Read what our clients are saying about us!](http://www.logodesignworks.com/logo-design-testimonials.htm)
+## Privacy Policy
 
-[ ](http://www.logodesignworks.com/logo-design-affiliate.htm) [ ](http://www.bbbonline.org/cks.asp?id=1051111145915)
+Logo Design Works respects each site visitor’s right to personal privacy. To this end, we have established this privacy statement to disclose our information practices pertaining to the collection and use of personal information. This privacy statement applies exclusively to the Website, www.logodesignworks.com . 
 
-Logo Design Questions? Call **866 237 5973**
+Visitors to our Website remain anonymous to us during browsing. We collect personal information explicitly provided by a user when they elect to contact us, or purchase a product. This information includes name, email address, phone number and company address. We use this information for the specific purpose of responding to information inquiries as well as to fulfill payment for products purchased. We do not share this collected personal information with any third parties for their promotional purposes. We do NOT collect sensitive information such as credit card number, social security number, date of birth etc. 
 
-**Privacy Policy**
+Publically Available Information: We post customer testimonials on the Website. These testimonials include a picture, name and location or phone number. We obtain the consent of our users prior to posting their testimonials online. When users elect to provide comments on our blog, we collect but do not display their email information. Any personal information included within a testimonial, or in a comment is publically available to other users of this Website as well as the general public and may be used to send unsolicited messages. Logo Design Works is not responsible for the personal information users elect to disclose within these forums and encourage discretion. 
 
-We want users to our website to be aware of what information we collect on this site, what we do with it and under what circumstances, if any, we disclose it.
+Logo Design Works does not share collected personal information with any third parties for their promotional purposes. However, we reserve the right to share information with our service providers in the process of providing your requested services. We employ the services of a third party agent in hosting our chat feature, as well as in processing payments made on the Website.  
+Logo Design Works may share information with government agencies, or law enforcement where a formal request has been made such as in court order, subpoena, judicial proceeding or civil suit served upon our Website. Where necessary to protecting our intellectual property, or the safety of our staff, users’ or the general public, we may disclose information to law enforcement or other government agencies, as we in our sole and absolute discretion deem necessary. 
 
-We respect each site visitor's right to personal privacy. To that end, we collect and use information only during the processing of any orders that might be placed for logo design related products on this site. Any other purchases made from this site including, books, equipment, magazines etc would not be covered by this policy.
+Logo Design Works employs the use of cookies. A cookie is a text file containing a unique identifier set by a browser on a hard drive to recognize the identifier upon return. We do not tie cookies to personal information and use cookies to host our shopping cart as well as gather statistical data on Website traffic to optimize our Website. We may also employ the use of web beacons to this end. (A one pixel image embedded within a web page to track individual page traffic.) 
 
-Once the visitor leaves this site after being redirected to any other site (when the user had clicked on some link) this policy will not hold true and the policy of that particular site, if any, would be in force.
+Third Party Cookies: From time to time, we may employ the use of a third party agent to gather aggregated non-personal data about our Website. To this end, the agent may employ the use of cookies and web beacons. This statistical information is used to improve our Website functionality and offerings. Third party advertisers setting ads on the Website may also use cookies and web beacons on the Website. We do not have access to, nor are we responsible for these third party cookies. 
 
-For each visitor to our website, our web server automatically recognizes no information regarding the domain or email address. However it might gather other statistics such as host name, IP, Http version, Http Code, Referrer, Agent, Date etc.
+Logo Design Works provides links to third party websites as a convenience to our users. These third party websites are not governed by this privacy statement. We encourage users to familiarize themselves with their privacy practices prior to disclosing personal information to any third parties. 
 
-The information collected by the server is only used for statistical purposes and is never shared with other organizations for commercial purposes.
+Logo Design Works reserves the right to update and modify this privacy statement at our discretion. Should we make a material change to our privacy statement, we shall notify you by posting a prominent notice on the Website, or by email where necessary. 
 
-This site does NOT collect cookies. Registration is NOT required to enter the site unless you are a customer.
-
-We require information from the user on our project profile form that the customer has to fill up after placing an order. A customer must provide information such as name, email, contact address etc. The user/customers details will be held in confidence and will NOT be given to any 3rd part with out the prior consent of the customer. We would however reserve the right to publish any design/comment/feedback/testimonial from the customer on our website or other promotional items.
-
-We publish a newsletter (ezine) and would NEVER sell or share my subscriber's email addresses.
-
-In case of any changes to our privacy policy, We will post those changes to this privacy statement.
-
-We are committed to resolving disputes within 24-48 hours. If any problems arise, users may contact us by email or chat found in the contact page. 
+To update your personal information submitted during your order, please use the contact information on our [contact page](http://www.logodesignworks.com/contact.htm). We do not send users unsolicited messages. We reserve the right to communicate with users in fulfilling their service requests, as well as providing administrative notifications. Given that these communications are not promotional in nature, you cannot opt-out of them. 
