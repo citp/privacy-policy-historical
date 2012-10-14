@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trcb.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506185520id_/http%3A//www.trcb.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trcb.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015000244id_/http%3A//www.trcb.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # TRCB.com The Red Carpet Blog | Privacy Policy
 
