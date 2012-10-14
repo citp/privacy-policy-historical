@@ -1,29 +1,193 @@
-> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511132824id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014032205id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Terms of Use, Conditions and Privacy Policy for My.Superlawyers.com - My Super Lawyers
+# Terms of Use, Conditions and Privacy Policy for My.SuperLawyers.com - My Super Lawyers
 
-**Privacy Policy.** We are committed to protecting our relationship with our readers. To do so, we have created this privacy policy.
+  
 
-Provider collects aggregate information and personally identifiable information on visitors to the Web Site for use in the course of Provider's business activities, as provided herein. We employ the use of cookies, or small files that our web server will store on your computer to give you an individual ID. This will make it easier for you to use the Web Site during subsequent visits. The use of cookies allows us to customize your experience in the future by enabling us to track how the Web Site is used.
 
-Users of the Web Site may provide personally identifiable information in connection with compiling profile information as part of the Super Lawyers® selection process. Provider may also obtain personally identifiable information from third parties. Provider may use personally identifiable information, whether provided by you or independently obtained by Provider, (i) in the course of the research, voting and selection process for Super Lawyers; (ii) to evaluate attorneys as part of the Super Lawyers selection process; and (iii) in connection with the sale of profiles, advertisements, plaques, certificates or other items or services. The personally identifiable information may include e-mail addresses, work zip code, educational background, professional information, disciplinary actions, criminal history or other similar information, the access code and password used by you to access the Web Site, and individual profile information. Provider will not trade, sell, or otherwise commercially disseminate any personal information, except (i) as part of its business activities or the business activities of an affiliate, including exchanging credit card information with credit card companies; (ii) as part of a professional profile published in connection with any Super Lawyers publication or listing; or (iii) in connection with the sale of all or a portion of Provider's business. In addition, Provider may disclose personally identifiable information from time to time to its affiliates to assist in their marketing efforts. For purposes of these Terms of Use, "affiliate" means any company that controls Provider ("Parent"), any company that is controlled by Provider ("Subsidiary"), companies used to maintain and update basic contact information, such as current law firm, address, etc., or any company that controls or is controlled by any such Parent or Subsidiary. Provider may disclose personally identifiable information when the law requires such disclosure, in response to legal process and law enforcement requests, in connection with billing information for any purchases or other transactions made with a credit card, debit card, or similar instrument, and as necessary to protect the property, interests, and rights of Provider, its affiliates and others.
+### SCOPE
 
-At times we may contract with unaffiliated third parties to assist us in managing and maintaining our customer information or Web Site. At no time will we authorize those parties to use your information for any other purpose. Additionally, we may share, rent or sell to third parties aggregate, non-personally identifiable information about visitors to the Web Site, such as how many users clicked on a particular advertisement. Such information does not identify individual users. Except as set forth in this policy, at no time will we disseminate personally identifiable information to unaffiliated third parties.
+Your privacy is important to Super Lawyers, a Thomson Reuters business, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites operated by Super Lawyers and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
 
-Provider will follow commercially acceptable practices to protect the confidentiality of Content in non-public, password protected portions of the Web Site.
+This website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding certain disclosure of personal information to third parties in certain circumstances for a business's direct marketing purposes. To make such a request if this section of the California Civil Code applies to you, please send an e-mail to: [Webmaster](https://web.archive.org/contact.html?subject=Support).
+### HIGHLIGHTS
 
-**Submission of Information.** The Web Site includes areas in which users may post content and information, including without limitation personal and business profile data, messages, comments, data, text, photos, blogs, graphics or other materials (the "User Content"). You are solely responsible for your use of such areas and use them at your own risk. By using the Web Site, you agree not to post, upload to, transmit, distribute, store, create or otherwise publish through the Web Site any of the following:
+  
 
-  * User Content that is false, misleading, unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, or fraudulent, including without limitation any personal profile information, recommendation, endorsement, rating, or review of an attorney with whom you have not had direct, personal experience in a professional legal context or as a client of such attorney;
-  * User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, violate any applicable rules of professional conduct, or that would otherwise create liability or violate any local, state, national or international law or regulation;
-  * User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. By posting any user Content, you represent and warrant that you have the lawful right to distribute and reproduce such user Content as provided under these Terms of Use;
-  * User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-  * Unsolicited promotions, political campaigning, advertising or solicitations, including without limitation any advertisements for legal services, legal service providers, or lawyer referral services;
-  * Viruses, spyware, malware, corrupted data or other harmful, disruptive or destructive files; and
-  * User Content that, in the sole judgment of Provider, is objectionable or which restricts or inhibits any other person from using or enjoying the Web Site, or which may expose Provider or its users to any harm or liability of any type.
+
+#### What personal information is collected and how is that information used?
+
+  * We collect information about our users in three ways: directly from the user (for example, when submitting profile information as part of the selection process, ordering a product, registering an account or signing up for a newsletter), from our web server logs and through cookies.
+  * We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources and services that are most relevant and helpful to you.
+  * We do not share with others any of the information you provide, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
 
 
 
-Provider takes no responsibility and assumes no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is Provider liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter. Any use of the Web Site in violation of the foregoing violates these Terms of Use and may result in termination or suspension of your right to use the Web Site. Provider reserves the right to restrict or remove any User Content posted or stored on the Web Site at any time and for any reason without notice.
+More Details
+
+  
+
+
+#### How is my personal information protected?
+
+  * We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use or disclosure.
+  * We store the information about you in a data center with restricted access and appropriate monitoring.
+  * We use intrusion detection and virus protection software.
+  * Despite these measures, we cannot guarantee that unauthorized persons will always be unable to defeat our security measures.
+
+
+
+More Details
+
+  
+
+
+#### Who has access to the personal information?
+
+  * We will not sell, rent or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement.
+  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; our affiliates are all required to preserve the confidentiality of any personal information they may access.
+  * We will not disclose any personal information or information about your usage of our websites or mobile applications to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers or as required by law.
+
+
+
+More Details
+
+  
+
+
+#### How may I correct, amend or delete my personal information, or update my preferences?
+
+  * You may cancel your registration or update your preferences at any time.
+  * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us.
+  * If you have any additional questions or concerns related to this Privacy Statement and/or our practices, [e-mail us](https://web.archive.org/contact.html).
+
+
+
+More Details
+
+Back to Top
+
+### FULL PRIVACY STATEMENT
+
+  
+
+
+#### WHAT PERSONAL INFORMATION DOES SUPER LAWYERS COLLECT AND HOW DO WE USE IT?
+
+We collect information about our users in three ways: directly from the user, from our web server logs and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
+
+  
+
+
+#### User-Supplied Information
+
+Users of the website may provide personally identifiable information in connection with compiling profile information as part of the Super Lawyers® selection process. We may also obtain personally identifiable information from third parties. The personally identifiable information may include e-mail addresses, work postcode, educational background, professional information, disciplinary actions, criminal history or other similar information, the access code and password used by you to access the website and individual profile information. We may use personally identifiable information, whether provided by you or independently obtained by Super Lawyers, (i) in the course of the research, voting and selection process for Super Lawyers; (ii) to evaluate attorneys as part of the Super Lawyers selection process; and (iii) in connection with the sale of profiles, advertisements, plaques, certificates or other items or services.
+
+Additionally, when you enter profile information, register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may send you the following types of communications: invitations to nominate; requests to verify data; announcements of magazine launches; and invitations to networking events. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers and e-mail communications, you may check the appropriate box in the data verification process or opt out (unsubscribe) as described below.
+
+If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
+
+Our website may include areas in which users may post content and information, including personal and business profile data, messages, comments and other information. You should exercise caution when disclosing personal information in any public areas. Please do not post any confidential, proprietary or sensitive personally identifiable information (e.g. Social Security Number; date of birth; drivers license number; or credit card, bank account or other financial information) (collectively, “Sensitive Information”) on public areas of the site. If you post any Sensitive Information, you do so at your own risk and we will not be liable to you or responsible for consequences of your submission.
+
+  
+
+
+#### Web Server Logs
+
+When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include:
+
+  * Your unique Internet protocol address 
+  * The name of your unique Internet service provider 
+  * The city, state and country from which you access our website 
+  * The kind of browser or computer you use 
+  * The number of links you click within the site 
+  * The date and time of your visit 
+  * The web page from which you arrived to our site 
+  * The pages you viewed on the site 
+  * Certain searches/queries that you conducted via our website(s) 
+
+
+
+The information we collect in web server logs helps us administer the site, analyze its usage, protect the website and its content from inappropriate use and improve the user's experience.
+
+  
+
+
+#### Cookies
+
+In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies allow us to save passwords and preferences for you so you won't have to reenter them each time you visit.
+
+The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. You should understand that some features of many sites may not function properly if you don't accept cookies.
+
+  
+
+
+#### Third Party Services
+
+We may use services hosted by third parties, such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
+
+Back to Top
+
+  
+
+
+#### HOW DOES SUPER LAWYERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+
+We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures.
+
+Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this statement.
+
+Back to Top
+
+  
+
+
+#### WHO HAS ACCESS TO THE PERSONAL INFORMATION?
+
+We will not sell, rent or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
+
+  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns or assist us in managing and maintaining our customer information or website) or as part of a professional profile published in connection with any Super Lawyers publication or listing. At no time will we authorize those parties to use your information for any other purpose. 
+  * As required by law; in a matter of public safety or policy; in connection with billing information for any purchases or other transactions made with a credit card, debit card, or similar instrument; as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings); or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
+
+
+
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. We may disclose personally identifiable information from time to time to our affiliates to assist in our marketing efforts. Our affiliates are all required to preserve the confidentiality of any personal information they may access.
+
+We may share, rent or sell to third parties aggregate, non-personally identifiable information about visitors to the website, such as how many users clicked on a particular advertisement. Such information does not identify individual users. We will not disseminate personally identifiable information to unaffiliated third parties except as set forth in this Privacy Statement. In addition, we will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers or as required by law. We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any personally identifiable information about individual users.
+
+Your access to some of our services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
+
+Back to Top
+
+  
+
+
+#### HOW MAY I CORRECT, AMEND OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
+
+You may cancel your registration or update your preferences at any time. If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. In addition, you can [e-mail us](https://web.archive.org/contact.html) to change your preferences or update your information.
+
+  
+
+
+#### QUESTIONS?
+
+If you have any additional questions or concerns related to this statement and/or our practices, please [e-mail us](https://web.archive.org/contact.html). Or contact us via the following:
+
+Super Lawyers  
+100 W. Harrison St., Suite 340  
+North Tower  
+Seattle, WA 98119-4196  
+U.S.A.  
+Telephone: 206-282-9527  
+Facsimile: 206-282-9601  
+
+
+#### PRIVACY STATEMENT CHANGES
+
+If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on September 5, 2012.
+
+Back to Top
+
+  
+
