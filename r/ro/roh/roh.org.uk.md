@@ -1,36 +1,67 @@
-> *The following text is extracted and transformed from the roh.org.uk privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128140440id_/http%3A//www.roh.org.uk/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roh.org.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015010415id_/http%3A//www.roh.org.uk/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Royal Opera House
+# Privacy < Policies - Royal Opera House
 
-**1\. Privacy Commitment**    
-The [www.roh.org.uk](https://web.archive.org/) website and family of associated sub-domain websites are owned and operated by the Royal Opera House. We are committed to safeguarding your privacy online and have developed the following Privacy Policy. Please read this Privacy Policy carefully to understand how your personal information will be treated.
+**1.       ****Privacy Commitment**
 
- **2\. Personal Information**
+ Royal Opera House Covent Garden Limited (the “Royal Opera House”) is committed to safeguarding your privacy online and has developed the following Privacy Notice.  This Privacy Notice explains how, and for what purposes, the Royal Opera House uses your personal information collected about you via [www.roh.org.uk](https://web.archive.org/web/20121015010415id_/http%3A//www.roh.org.uk/)  Please read this Privacy Notice carefully to understand how your personal information will be treated. 
 
-2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details ("Personal Information") will only be retained by us if you provide this information when using one of the services to purchase tickets or subscribe to email alerts and competitions. Personal Information will be held on our system and used for operational purposes such as the processing of bookings and orders and sending you information which you have opt to receive. You can amend your personal details and preferences at anytime by signing in to your “My Royal Opera House” online account.
+**2.       ****Personal Information**
 
-The Royal Opera House will only pass on your Personal Information if the relevant opt-in box has been checked within ‘My Preferences’ inside your “My Royal Opera House” online account. In these instances, we supply your Personal Information for one-off use by the other arts organisations. You can amend your personal details and preferences at anytime by signing in to your “My Royal Opera House” online account.
+The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details will only be retained by the Royal Opera House if you provide this personal information when purchasing tickets or when asking to receive communications from the Royal Opera House. 
 
-2.2 We may from time to time ask you for further information in order to update our records or for particular purposes. You are under no obligation to participate and we will always tell you how we will use any further information received from you.
+Although it is not compulsory to provide all of this information, should you choose not to, then the Royal Opera House may not be able to provide you with the full range of services that [www.roh.org.uk](http://www.roh..org.uk/) has to offer.
 
- **3\. Log Files** 3.1 Every time someone visits our web site a log file is generated on our computer.
+You can update and amend your personal details at anytime by signing in using the sign in button on the website then accessing your account details by selecting your name at the top of the page
 
-3.2 The log file records the time and date of your visit, the files that were requested, your IP (Internet Protocol) address, the referrer URL (if provided) and the browser version. We collect this information to help us diagnose problems and manage our systems and to audit the geographical make-up of users and how they have arrived at our site; that is, from what other sites have visitors arrived - this information being obtained from the referrer URL.
+**3.       ****How the Royal Opera House uses your personal information**
 
-3.3 We do not link IP addresses to anything personally identifiable, which means that you remain anonymous even though we include your IP address in our analytics information. However, we can and will attempt to use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms and conditions, or to protect our services and other users.
+Personal information will be held on the Royal Opera House’s system and used for operational purposes such as the processing of bookings and orders, and sending you information which you may choose not to receive. 
 
- **4\. Use and Disclosure of Personal Information**
+You have a right at anytime to stop the Royal Opera House contacting you for marketing purposes and can amend how the Royal Opera House uses your personal information by using the sign in button on the website then accessing your account details be selecting your name at the top of the page
 
-4.1 If you contact us we reserve the right to keep a record of that correspondence and incorporate the information it contains into our CRM database.
+The Royal Opera House may from time to time ask you for further information in order to update records or for particular purposes.  You are under no obligation to participate and should you provide any further information, the Royal Opera House will inform you how any further information will be used.
 
-4.2 If we are requested by the police or a regulatory or government authority investigating illegal activities to provide information concerning your activities whilst using any of our services we shall do so. Similarly, we will disclose your Personal Information as part of a transaction whereby our company or business assets are transferred to a third party or if we are compelled to do so by law.
+**4.       ****Sharing your personal information**
 
- **5\. How we Protect Information** 5.1 We take every precaution to protect your information. To this end all Personal Information stored by us is kept on a server in a secure environment. Specific employees and approved contractors/developers are only granted access to personally identifiable information. We conduct regular security reviews to ensure that the site remains safe and secure for your protection.  
- **  
-6\. Correction/Updating Personal Information**  
-If your Personal Information changes and you would like to update it, please sign in to your “My Royal Opera House” online account.
+The Royal Opera House will only share your personal information if the relevant opt-in box has been ticked within your online account.  In these instances, we may supply your personal information to third party arts organisations.
 
- **8\. Users Under 16**    
-If you are under 16, please ensure that you obtain your parent/guardian's consent beforehand whenever you provide Personal Information. Users without such consent are not allowed to provide us with Personal Information.
+The Royal Opera House may also transfer your personal information ‘internally’ as part of any business restructuring or reorganisation, but shall take steps to ensure that your privacy rights continue to be protected.
 
-This policy may change from time to time so please check it periodically. If you have any further questions or enquiries please [contact us](https://web.archive.org/contact/index.aspx "contact us").
+In addition, if you choose to enter competitions or other activities that require administration by third parties, the Royal Opera House may pass your personal information to such businesses in order to contact you.
+
+You can amend these settings at anytime by signing in to your online account.
+
+**5.       ****Information automatically collected from your computer**
+
+Log files/Public IP addresses: A public IP address is a unique number which allows a computer, group of computers or other internet connected device to browse to the internet.  When you visit [www.roh.org.uk](https://web.archive.org/web/20121015010415id_/http%3A//www.roh.org.uk/) the Royal Opera House’s web server automatically records your public internet protocol (“IP”) address and also generates a log file.  The log file records the time and date of your visit, the pages that were requested, the referring website (if provided) and your internet browser version.  This information is collected to help diagnose and manage the website, to audit the geographical make-up of users, and to establish how they have arrived at the website.
+
+The Royal Opera House does not ordinarily link IP addresses to any of your personal information, which means that you remain anonymous even though the IP address is used to produce analytics information.  .
+
+**6.       ****Cookies**
+
+For information about cookies and how the Royal Opera House uses them, please read the Royal Opera House [Cookie Usage Policy](http://www.roh.org.uk/policies/cookie-usage "Cookie Policy"). 
+
+**7.       ****Security**
+
+The Royal Opera House takes every precaution to protect your information.  To this end, the Royal Opera House has implemented appropriate technologies and policies to safeguard your privacy from unauthorized access and improper use. 
+
+**8.       ****Disclosure**
+
+Other than where you have consented to the Royal Opera House sharing your personal information, the Royal Opera House will not disclose any of your personal information without your permission unless required to do so (for example, if required to do so by a court order), or when requested by the police or a regulatory or government authority investigating illegal activities.
+
+**9.       ****Users Under 16**
+
+If you are under 16, please ensure that you obtain your parent/guardian’s consent beforehand whenever you provide personal information.  Users without such consent are not allowed to provide us with personal information.
+
+**10.   **   **Third Party Websites**
+
+The Royal Opera House is not responsible for the privacy notices and practices of other websites even if accessed using links from [www.roh.org.uk](https://web.archive.org/web/20121015010415id_/http%3A//www.roh.org.uk/) and recommends that you check the policy of each website you visit and contact its owner or Data Protection Officer if you have any concerns or questions.
+
+**11.   ****   Transferring your personal information outside of the Europe**
+
+As part of the services offered to you through the Royal Opera House website, the personal information you provide may be transferred to countries outside the European Economic Area (EEA).  By way of example, this may happen if any of the computer servers used to facilitate the website are located in a country outside of the EEA.  If the Royal Opera House transfers your personal information outside of the EEA in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this privacy notice.
+
+**12.   Contact Us**
+
+****If you have any questions about this Privacy Notice or wish to request a copy of the personal information we hold on you please contact the Data Protection Officer DPO@roh.org.uk
