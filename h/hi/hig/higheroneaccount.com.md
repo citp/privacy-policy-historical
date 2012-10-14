@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214121118id_/https%3A//higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014111040id_/https%3A//www.higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
 
 # Higher One: Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.higheroneaccount.com&sealid=101) **YOUR PRIVACY IS OUR PRIORITY**
 
-At Higher One, Inc. (further referred to as "Higher One," "We," "Us," and "Our"), we take your privacy and online security very seriously. During card set up, you’re providing us with personal information about yourself. Higher One understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect. This Privacy Statement (this 'Statement') details what personal information we collect from our users’ as well as how we use it and safeguard it. This Statement applies exclusively to [www.higheroneaccount.com](http://www.higheroneaccount.com/) (the ‘Site’). 
+At Higher One, Inc. (further referred to as "Higher One," "We," "Us," and "Our"), we take your privacy and online security very seriously. During card set up, you’re providing us with personal information about yourself. Higher One understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect. This Privacy Statement (this 'Statement') details what personal information we collect from our users’ as well as how we use it and safeguard it. This Statement applies exclusively to www.HigherUniversity.com (the 'Site'). 
 
 In addition to any legal compliance associated with the handling of your information, Higher One wants to earn your trust. Therefore, we’ve taken a number of steps to make sure that your information is as safe as possible, including but not limited to: 
 
@@ -53,9 +53,6 @@ We use a third-party tracking service, which uses HTML tags to track non-persona
 **Third-Party Sites**  
 The Site contains links to other websites. Higher One is not responsible for the privacy practices or the content of these other websites. Users and visitors will have to check the policy statement of these other websites to understand their respective policies. Users and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
 
-**Third Party Partnership Disclosure**  
-When you open an account with Higher One, you are automatically enrolled in a rewards program. This program is hosted by a third party service provider (Edhance) with whom we share your personal information to facilitate this service and is only open to current students. The information shared is Higher One UserID, Name, Birth Year, Gender (if available), Role at University (if available), Enrollment Status (if available), Primary Email Address, School Affiliation, Card Number, Card Status, and Last Activity Date. Our third party agent is authorized to access this information for the explicit purpose of fulfilling a service on our behalf; consequently your personal information is not used for any promotional purposes. You will receive administrative communications via email from the third party service provider to confirm your enrollment in the program, confirm earnings, and for verification purposes. You can opt-out of such OneRewards emails by navigating through the following steps: (a) logging-in to your Account website, (b) clicking on the OneRewards menu option, (c) clicking on "Enter OneRewards.com", (d) clicking on the "My Account" menu option, and (e) selecting the Preferences tab. You can opt out of the rewards program by either (a) logging-in to your program website at [www.higheronecard.com](http://www.higheronecard.com/), clicking on Higher One's internet-based customer service system "EasyHelp" and then opening an "incident" requesting removal from the Program or (b) by calling a Higher One customer service representative at 1-866-309-7452. 
-
 **Targeted Ads Disclosure**  
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving your targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
@@ -63,7 +60,7 @@ We partner with a third party ad network to either display advertising on our We
 Our Site has security measures in place to help protect against the loss, misuse, and alteration of the personal information and data under our control. Higher One hosts the Site in a secure server environment that uses a firewall and other industry-standard technology to help prevent interference or access from outside intruders including the use of Secure Socket Layer technology during the transmission of sensitive information. Higher One also requires that unique user names and passwords must be entered each time a user logs on to the Site. 
 
 **Changes to this Statement**  
-Higher One may update this Statement at any time so please review it frequently. If we make any material changes, we will notify you, by email or by a notice posted on the home page of the Site prior to such changes becoming effective. . 
+Higher One may update this Statement at any time so please review it frequently. If we make any material changes, we will notify you, by email or by a notice posted on the home page of the Site prior to such changes becoming effective. 
 
 **Questions**  
 If you have any questions about this Statement or the practices of this Site, please contact us using one of the methods listed below. 
