@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424145823id_/http%3A//www.trackitt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014222421id_/http%3A//www.trackitt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
