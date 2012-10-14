@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the wordans.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505052038id_/http%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wordans.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014153203id_/http%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <title>Privacy Policy - Wordans.com </title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="verify-v1" content="74XVS9wjAO3w3haVIXvRKVLzNN3poCrRAxyw/qdQc8k=">
   <meta name="MSSmartTagsPreventParsing" content="true">
+  
 
   <!-- #### Liens pour la fonction OpenSearch #### -->
-  
   <link rel="search" type="application/opensearchdescription+xml" href="http://www.wordans.com/feeds/open_search.xml" title="Content search">
+
+  <script src="//connect.facebook.net/fr_FR/all.js#xfbml=1&amp;appId=146089128753528" id="facebook-jssdk"></script><script src="https://apis.google.com/js/plusone.js" id="gplus1js"></script><script src="//platform.twitter.com/widgets.js" id="tweetjs"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/detect-zoom.js"></script>
 
   <meta name="y_key" content="4095216204aecd40">
   <meta name="y_key" content="3d590d2eeab2aff4">
@@ -17,24 +19,16 @@
   <meta name="google-site-verification" content="Lj8Hj76B5qA4GJev--mwaQM2_JM3_BjGscwpy47FWvQ">
   <meta property="og:site_name" content="Wordans.com">
 
-  
 
   <meta http-equiv="Content-Language" content="en-ca">
-  
-      
           <meta name="description" content="Make custom tees online. Expert t-shirt printing for single &amp; bulk orders. Find personalized gifts or sell your designs online. Ready to ship in 24 hrs.  ">
-      
-  
-  
       <meta name="keywords" content="custom t-shirt, t shirt design, t shirt printing, custom shirts, design shirts, personalized tees, t shirts online, custom clothing, logo shirts, cheap custom t-shirts, tees Canada">
-  
   <meta name="copyright" content="Copyright Wordans - 2012">
   <meta name="author" content="www.wordans.com">
   <meta name="Rating" content="General">
   <meta name="google-site-verification" content="spLGRjTvxbqkKZcI06SsMUw39g60f7n6JVaevDS8qjM">
   <meta name="google-site-verification" content="JKBmMKTqISaTKbKGW3wJ08fTVx0BWveAVZOyDuVxHII">
   <meta name="Robots" content="INDEX,FOLLOW, ALL">
-  
 
   
 
@@ -75,11 +69,13 @@
   </style><![endif]-->
 
 
-  <link href="http://assets0.wordansassets.com/stylesheets/cache/cache_front_office_css15.css?1336164212" media="screen" rel="stylesheet" type="text/css">
-  <link href="http://assets1.wordansassets.com/stylesheets/fancybox/jquery.fancybox-1.3.1.css?1325791030" media="screen" rel="stylesheet" type="text/css">
-  
-      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://assets2.wordansassets.com/javascripts/cache/cache_front_office_js3.js?1336164212" type="text/javascript"></script>
-  
+  <link href="http://cdn1.wordansassets.com/wvc-1349967135/assets193/wordans_2010.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet" type="text/css">
+
+      <script src="http://cdn1.wordansassets.com/wvc-1348862938/assets193/wordans_2010.js" type="text/javascript"></script>
+
+
+
 
   <link rel="alternate" type="application/rss+xml" title="Most Popular T-Shirts at Wordans" href="http://feeds.feedburner.com/PopularTees">
   <link rel="alternate" type="application/rss+xml" title="Latest T-Shirt Designs at Wordans" href="http://feeds.feedburner.com/WordansNewTees">
@@ -88,10 +84,57 @@
 
   <script type="text/javascript">
 
-      
+
 
 
       $j(document).ready(function() {
+
+          onresize = function() {
+
+              zoom_detect();
+          }
+          onresize();
+
+
+
+           function zoom_detect()
+          {
+              var r = DetectZoom.ratios();
+              if(r.zoom < 1)
+              {
+              }
+              else if((r.zoom !== r.devicePxPerCssPx) && (r.devicePxPerCssPx < 1))
+              {
+              }
+              else
+              {
+              }
+
+          }
+
+          $jOS = detect_os();
+
+          if($jOS != "MacOs")
+          {
+              $j(".pc").css({"display": "block"});
+          }
+          else
+          {
+              $j(".mac").css({"display": "block"});
+          }
+
+          function detect_os()
+          {
+              var OSName="Unknown OS";
+              if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
+              if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
+              if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
+              if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
+
+              return OSName;
+          }
+
+
           $j("a.modalbox").fancybox();
           $j("a.contest_image_modalbox").fancybox({ 'autoScale' : false, 'autoDimensions' : false, 'width' : 1000, 'height' : 1000,
               'onStart' : function() {
@@ -147,14 +190,9 @@
                       ((expiredays == null) ? "" : ";expires=" + exdate.toUTCString());
           }
 
-          
 
 
-          
 
-          
-          
-          
 
       });
   </script>
@@ -179,21 +217,20 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
 </script>
 
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<div id="zoom-level"></div>
+
+<div id="fb-root"></div>
 
 
 
-
-
- 
- 
 <!--[if lte IE 8]>
 <link rel="stylesheet" type="text/css" href="/stylesheets/ie.css"/>
 <![endif]-->
+<div style="background-color:#fff;width:970px;margin:-10px auto 0;padding:10px 0 0 0;">
 <div id="container">
-
     
 
 
@@ -205,26 +242,17 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
 </style>
 <![endif]-->
 
-
-    
-        <style type="text/css">
+         <style type="text/css" xmlns="http://www.w3.org/1999/html">
             .jquery_slidemenu_en ul li a.first {
                 padding-right: 18px
             }
         </style>
-    
 
-    
-        
             <style type="text/css">
                 .jquery_slidemenu_en ul li a:link, .jquery_slidemenu_en ul li a:visited {
                     padding: 8px 13px 8px 14px
                 }
             </style>
-
-        
-    
-
 
 
 
@@ -233,139 +261,89 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
     <div id="header_container">
 
     <!--div id="lang_currency"-->
+
+
+
+
+<div id="logo_wordans">
+  <a href="http://www.wordans.com/" title="Custom t-shirt printing">
+      <img alt="T-Shirts" src="http://cdn0.wordansassets.com/wvc-1349275901/images/wordans2010/logo/wordans_en_CA.jpg" width="270">
+</a></div>
+<div id="right_column">
     <div id="jquerytopmenu" class="jquerytopmenu">
+
+
       <ul>
         <li>
           <center>
             <a href="#" title="Canada custom T-shirts" id="maincountry">
 
               Canada English
-              <img alt="" height="5" src="http://assets1.wordansassets.com/images/arrow-top-menu-white.png?1332793889" width="10">
+              <img alt="" height="5" src="http://cdn0.wordansassets.com/wvc-1348851741/images/arrow-top-menu-white.png" width="10">
             </a>
           </center>
           <ul style="display:none">
 
-            
-                
                     <li>
                       <a href="http://cafr.wordans.com/" title="Canada custom T-shirts">
-                          <img alt="Canada custom T-shirts" height="8" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1332793889) -0px -96px; " width="16"> Canada Français
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Canada custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/flags/ca.png"> Canada Français
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.com/?force_lang=en" title="Canada custom T-shirts">
-                          <img alt="Canada custom T-shirts" height="8" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1332793889) -0px -96px; " width="16"> Canada English
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Canada custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/flags/ca.png"> Canada English
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.us/" title="USA English custom T-shirts">
-                          <img alt="USA English custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1332793889) -0px -104px; " width="16"> USA English
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="USA English custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/us.png"> USA English
+</a>                    </li>
                     <li>
                       <a href="http://es.wordans.us/" title="USA Spanish custom T-shirts">
-                          <img alt="USA Spanish custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1332793889) -0px -104px; " width="16"> USA Spanish
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="USA Spanish custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/us.png"> USA Spanish
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.fr/" title="France custom T-shirts">
-                          <img alt="France custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1332793889) -0px -115px; " width="16"> France
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="France custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/fr.png"> France
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.co.uk/" title="United Kingdom custom T-shirts">
-                          <img alt="United Kingdom custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1332793889) -0px -108px; " width="16"> United Kingdom
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="United Kingdom custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/flags/gb.gif"> United Kingdom
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.com.au/" title="Australia custom T-shirts">
-                          <img alt="Australia custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1332793889) -0px -141px; " width="16"> Australia
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Australia custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/au.gif"> Australia
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.be/" title="Belgique custom T-shirts">
-                          <img alt="Belgique custom T-shirts" height="12" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1332793889) -0px -84px; " width="16"> Belgique
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Belgique custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/flags/be.png"> Belgique
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.ch/" title="Suisse custom T-shirts">
-                          <img alt="Suisse custom T-shirts" height="12" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1332793889) -0px -72px; " width="16"> Suisse
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Suisse custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/ch.png"> Suisse
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.es/" title="España custom T-shirts">
-                          <img alt="España custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1332793889) -0px -97px; " width="16"> España
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="España custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/es.gif"> España
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.mx/" title="México custom T-shirts">
-                          <img alt="México custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1332793889) -0px -86px; " width="16"> México
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="México custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/mx.gif"> México
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.at/" title="Österreich custom T-shirts">
-                          <img alt="Österreich custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1332793889) -0px -64px; " width="16"> Österreich
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Österreich custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/at.gif"> Österreich
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.com.br/" title="Brasil custom T-shirts">
-                          <img alt="Brasil custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1332793889) -0px -119px; " width="16"> Brasil
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Brasil custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/flags/br.gif"> Brasil
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.com.pt/" title="Portugal custom T-shirts">
-                          <img alt="Portugal custom T-shirts" height="11" src="http://assets1.wordansassets.com/images/blank.gif?1332793185" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1332793889) -0px -75px; " width="16"> Portugal
-                      </a>
-                    </li>
-                
-            
-                
+                          <img alt="Portugal custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/flags/pt.gif"> Portugal
+</a>                    </li>
                     <li>
                       <a href="http://www.wordans.co.nz/" title="New Zealand custom T-shirts">
-                          <img alt="New Zealand custom T-shirts" src="http://assets1.wordansassets.com/images/wordans2010/flags/nz.gif?1332793889"> New Zealand
-                      </a>
-                    </li>
-                
-            
+                          <img alt="New Zealand custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/nz.gif"> New Zealand
+</a>                    </li>
           </ul>
         </li>
         <li>
@@ -378,25 +356,18 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
           <!--
         <ul>
           <li>
-            
-              <a href="http://www.wordans.com/i+love+kirby+moorside+tshirts?filter_by=kids-10&amp;force_lang=en">
-                <img alt="" src="http://assets0.wordansassets.com/images/wordans2010/flags/ca.png?1332793185" /> CAD
-              </a>
-            
-          </li>
+              <a href="http://www.wordans.com/t-shirt-serigraphie?force_lang=en">
+                <img alt="" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/flags/ca.png" /> CAD
+</a>          </li>
           <li>
-            <a href="http://www.wordans.us/i+love+kirby+moorside+tshirts?filter_by=kids-10">
-              <img alt="" src="http://assets0.wordansassets.com/images/wordans2010/flags/us.png?1332793185" /> USD
-            </a>
-          </li>
+            <a href="http://www.wordans.us/t-shirt-serigraphie">
+              <img alt="" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/us.png" /> USD
+</a>          </li>
           <li>
 
-            
-              <a href="http://www.wordans.eu/i+love+kirby+moorside+tshirts?filter_by=kids-10">
-                <img alt="" src="http://assets2.wordansassets.com/images/wordans2010/flags/eu.png?1332793185" /> EUR
-              </a>
-            
-          </li>
+              <a href="http://www.wordans.eu/t-shirt-serigraphie">
+                <img alt="" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/flags/eu.png" /> EUR
+</a>          </li>
 
         </ul>
 -->
@@ -404,65 +375,205 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
         </li>
 
 
-<!-- Cart Links -->
+ <!-- Cart Links -->
+     <li>
+       <a href="https://www.wordans.com/checkout2/show_cart" rel="no_follow">
+           <img align="absmiddle" alt="Shopping-cart-icon" height="10" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/shopping-cart-icon.gif" width="14">
+           <span id="link_to_cart_text" style="display:inline;border:none;background:none;">Your cart is empty.</span>
+</a>     </li>
+     <li>
+       <a href="/mywordans/login/lightbox" class="login_modalbox" id="modalbox_login">Login</a>
+     </li>
+     <li>
+       <a href="/mywordans/login/lightbox_lost" class="password_modalbox" id="link_forgot_password">Forgot your password ?</a>
+     </li>
+     <li>
+       <a href="/mywordans/login/new" class="lastone">Join now!</a>
+     </li>
+ </ul>
 
-    <li>
-      <a href="https://www.wordans.com/checkout2/show_cart" rel="no_follow">
-          <img align="absmiddle" alt="Blank" height="10" src="http://assets2.wordansassets.com/images/blank.gif?1325791028" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-3.gif?1325791028) -0px -227px; " width="14">
-          <span id="link_to_cart_text" style="display:inline;border:none;background:none;">Your cart is empty.</span>
-      </a>
-    </li>
-    
-
-
-    <li>
-      <a href="/mywordans/login/lightbox" class="login_modalbox" id="modalbox_login">Login</a>
-    </li>
-    <li>
-      <a href="/mywordans/login/lightbox_lost" class="password_modalbox" id="link_forgot_password">Forgot your password ?</a>
-    </li>
-    <li>
-      <a href="/mywordans/login/new" class="lastone">Join now!</a>
-    </li>
-
-</ul>
-</div>
-
+     <div id="call_us_header" class="call_us_ca_en">
+       <img alt="Phone" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/phone.png">
+       <span class="span_gray"></span>
+       <span class="span_green"><strong> 1 855 WORDANS</strong></span>
+     </div>
+ </div>
 <div class="clear"></div>
+<!--    <div id="free_5_shipping" class="free_5_shipping_CA_en">
+          <img alt="Proudly Canadian" height="41" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/hqflags/ca.jpg" style="display:block;float:left;width:156px !important;height:41px !important;margin-top:0px;margin-top:3px" width="156" />
+          &lt;!&ndash;<strong style="display:block;float:left;margin-left:5px;padding-top:3px;line-height:11px;">Proudly<br/>Canadian</strong>&ndash;&gt;
+    </div>-->
+    <div id="social_search">
+      <div id="search_menu">
 
 
-<div id="logo_wordans">
-  <a href="http://www.wordans.com/" title="Custom t-shirt printing">
-      
-      
-      
-      <img alt="T-Shirts" height="73" src="http://assets1.wordansassets.com/images/wordans2010/wordans_en.jpg?1325791030" width="362">
-  </a>
+
+            <form accept-charset="UTF-8" action="javascript:window.location=global_search('http://www.wordans.com/')" id="search_form" method="get" onsubmit="return true;"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+
+                <script type="text/javascript">
+                    function global_search(base_url) {
+                        url = base_url
+                        //alert(url)
+                        search_terms = $("search").value.gsub(/\+/, '').gsub(/\?/, '').gsub("%", '').gsub(/ +/, '+').stripTags().toLowerCase();
+
+                        if (search_terms.length == 0) {
+                            return base_url + "t-shirt-marketplace"
+                        }
+                        if (search_terms[0] == "+") {
+                            search_terms = search_terms.substring(1)
+                        }
+                        if (search_terms[search_terms.length - 1] == "+") {
+                            search_terms = search_terms.substring(0, search_terms.length - 1)
+                        }
+
+
+                        s_type = "tshirts";
+
+                        if ($("type_search").value == 11){
+                            s_type = "gifts";
+                            s_glob_type = "gift";
+                        }
+                        if ($("type_search").value == 2){
+                            s_type = "tshirts";
+                            s_glob_type = "tshirt";
+                        }
+                        if ($("type_search").value == 13){
+                            s_type = "clothing";
+                            s_glob_type = "blank";
+                        }
+                        if ($("type_search").value == 20){
+                            s_type = "hoodies";
+                            s_glob_type = "hoodies";
+                        }
+                        if ($("type_search").value == 10){
+                            s_type = "bags";
+                            s_glob_type = "bag";
+                        }
+                        if ($("type_search").value == 21){
+                            s_type = "tank-tops";
+                            s_glob_type = "tank-tops";
+                        }
+                        if ($("type_search").value == 4){
+                            s_type = "pants";
+                            s_glob_type = "pants";
+                        }
+                        if ($("type_search").value == 8){
+                            s_type = "dresses";
+                            s_glob_type = "dress";
+                        }
+                        if ($("type_search").value == 7){
+                            s_type = "aprons";
+                            s_glob_type = "apron";
+                        }
+                        if ($("type_search").value == 9){
+                            s_type = "skirts";
+                            s_glob_type = "skirt";
+                        }
+                        if ($("type_search").value == 5){
+                            s_type = "caps";
+                            s_glob_type = "cap";
+                        }
+                        if ($("type_search").value == 6){
+                            s_type = "scarfs";
+                            s_glob_type = "scarf";
+                        }
+                        if ($("type_search").value == 12){
+                            s_type = "underwear";
+                            s_glob_type = "underwear";
+                        }
+                        if ($("type_search").value == 1){
+                            s_type = "designs";
+                            s_glob_type = "design";
+                        }
+                        if ($("type_search").value == 24){
+                            s_type = "posters-canvas";
+                            s_glob_type = "posters-canvas";
+                        }
+                        if ($("type_search").value == 18){
+                            s_type = "macbook+skins";
+                            s_glob_type = "macbook+skins";
+                        }
+                        if ($("type_search").value == 14){
+                            s_type = "iphone-4+skins";
+                            s_glob_type = "iphone-4+skins";
+                        }
+                        if ($("type_search").value == 19){
+                            s_type = "laptop+skins";
+                            s_glob_type = "laptop+skins";
+                        }
+                        if ($("type_search").value == 15){
+                            s_type = "iphone-3gs+skins";
+                            s_glob_type = "iphone-3gs+skins";
+                        }
+                        if ($("type_search").value == 16){
+                            s_type = "ipad+skins";
+                            s_glob_type = "ipad+skins";
+                        }
+                        if ($("type_search").value == 17){
+                            s_type = "ipad-2+skins";
+                            s_glob_type = "ipad-2+skins";
+                        }
+                        if ($("type_search").value == 23){
+                            s_type = "wall-decals";
+                            s_glob_type = "wall-decals";
+                        }
+
+                        if (s_glob_type == 'blank') {
+                            url = base_url + 'clothing+' + search_terms;
+                            return url;
+                        }
+
+                        url += search_terms + "+" + s_type;
+                        //alert(url);
+                        //document.location.href = url
+                        return url;
+                    }
+                </script>
+
+
+                <div id="search_txt">
+
+                  <a class="smallActionButton b_black" href="#global_search" onclick="$('search_form').submit();" style="margin-top: 4px;float:right">Search</a>
+                  <!--[if lte IE 7]>
+                  <style type="text/css">
+                      #header_container #proudly #search_menu #search_txt a {
+                          padding: 2px 0 0;
+
+                          /*Holly Hack for IE7 and below*/
+                  </style>
+                  <![endif]-->
+                </div>
+                <input id="search" name="search" style="margin-right:7px;float:right" type="text">
+                <select id="type_search" name="type_search"><optgroup label="Apparel"><option value="11">All Apparel</option>
+<option value="2">T-Shirts</option>
+<option value="13">Blank Apparel</option>
+<option value="20">Hoodies</option>
+<option value="10">Bags</option>
+<option value="21">Tank Tops</option>
+<option value="4">Pants</option>
+<option value="8">Dresses</option>
+<option value="7">Aprons</option>
+<option value="9">Skirts</option>
+<option value="5">Caps</option>
+<option value="6">Scarfs</option>
+<option value="12">Underwear</option>
+<option value="1" selected="selected">Designs</option></optgroup><optgroup label="Skins"><option value="24">Posters and Canvas</option>
+<option value="18">Macbook Skins</option>
+<option value="14">iPhone 4 Skins</option>
+<option value="19">Laptop Skins</option>
+<option value="15">iPhone 3GS Skins</option>
+<option value="16">iPad Skins</option>
+<option value="17">iPad 2 Skins</option></optgroup><optgroup label="Home Decor"><option value="23">Wall decals</option></optgroup></select>
+</form>      </div>
+      <div id="iframe_CA_en" class="iframe_facebook">
+
+        <div class="fb-like" data-href="http://www.facebook.com/Wordans" data-send="false" data-layout="button_count" data-width="105" data-show-faces="false" style="height:21px;float:left;"></div>
+        <g:plusone size="medium" callback="gplus_callback" href="http://www.wordans.com"></g:plusone>
+        <div class="clear"></div>
+      </div>
+    </div>
 </div>
 
-
-    <div id="free_5_shipping" class="free_5_shipping_CA_en">
-      
-          <img alt="Proudly Canadian" height="41" src="http://assets3.wordansassets.com/images/wordans2010/hqflags/ca.jpg?1325791030" style="display:block;float:left;width:156px !important;height:41px !important;margin-top:0px;margin-top:3px" width="156">
-          <!--<strong style="display:block;float:left;margin-left:5px;padding-top:3px;line-height:11px;">Proudly<br/>Canadian</strong>-->
-          
-      
-    </div>
-
-    <div id="iframe_CA_en" class="iframe_facebook">
-
-
-      <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/Wordans&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="width:105px;height:21px;"></iframe>
-      <g:plusone size="medium" callback="gplus_callback" href="http://www.wordans.com"></g:plusone>
-    </div>
-    <!--<div id="call_us_header" class="call_us_ca_en">-->
-
-
-
-    <!--<span class="span_gray">-->
-    <!--</span><span class="span_green"><strong style="font-size:25px;"> 1 855 WORDANS</strong>-->
-    <!--</span>-->
-    <!--</div>-->
 
 
     <div class="clear"></div>
@@ -470,544 +581,321 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
     <div id="jqueryslidemenu" class="jqueryslidemenu jquery_slidemenu_en jquery_slidemenu_canada">
     <div class="mainblockBackground"></div>
 
-    
-    <ul class="target">
-    <li class="first target"><a href="/create-custom-t-shirt" class="first mainlevel">CUSTOMIZE</a>
-      <div class="mainblock">
-        <p class="maintitle"><a href="/create-custom-t-shirt"><span class="bigred">Create</span></a></p>
-        <ul class="first">
-          
-              <li><a href="/create-custom-t-shirt/clothing-gildan-5000-men-s-heavy-cotton-t-shirt-66" rel="nofollow">T-shirts</a></li>
-              <li><a href="/bulk-create-t-shirts">Bulk T-Shirts</a></li>
-              <li><a href="/extreme-couponing">Special Offers</a></li>
-              <li><a href="/screen-printing-discount">Screen Printing</a></li>
-              <li><a href="/create-custom-t-shirt/clothing-gildan-5400-heavyweight-cotton-l-s-2967" rel="nofollow">Sweatshirts</a></li>
-
-              </ul>
-              <ul>
-                <li><a href="/create-custom-t-shirt/clothing-gildan-9500-men-s-hooded-sweatshirt-67" rel="nofollow">Hoodies</a></li>
-                <li><a href="/create-custom-t-shirt/clothing-bella-1011-ladies-spaghetti-strap-tank-fitted-56" rel="nofollow">Tank Tops</a></li>
-
-                <li><a href="/create-custom-t-shirt/clothing-m-o-men-s-baseball-tee-45" rel="nofollow">Sports Tees</a></li>
-
-                <li><a href="/create-custom-t-shirt/clothing-gildan-3800-men-s-ultra-cotton-pique-sport-shirt-42" rel="nofollow">Polo Shirts</a></li>
-                <li><a href="/create-custom-t-shirt/clothing-small-tote-bag-100-cotton-85" rel="nofollow">Tote Bags</a></li>
 
 
-                <!--<li><a href="/create-custom-t-shirt/clothing-american-apparel-2386-fine-jersey-t-dress-114" rel="nofollow">Dresses</a></li>-->
-              </ul>
-              <ul>
-                <!--<li><a href="/create-custom-t-shirt/clothing-4905-baby-rib-dog-t-15" rel="nofollow">Doggy Tee</a></li>-->
-                <li><a href="/extreme-couponing">Coupon codes</a></li>
-                <li><a href="/create-custom-t-shirt/clothing-full-length-apron-3238" rel="nofollow">Aprons</a></li>
-                <!--<li></li>-->
-
-                <li><a href="/create-custom-t-shirt/clothing-bella-1011-ladies-spaghetti-strap-tank-fitted-56" rel="nofollow">Ladies Apparel</a></li>
-                <li><a href="/create-custom-t-shirt/clothing-gildan-t-2000-men-s-ultra-cotton-t-shirt-69" rel="nofollow">Mens Apparel</a></li>
-                <li><a href="/create-custom-t-shirt/clothing-gildan-200b-kids-ultra-cotton-35" rel="nofollow">Kids Apparel</a></li>
-              </ul>
-              <ul>
-                <li><a href="/create-custom-skins">Skins</a></li>
-                <li><a href="/create-stickers">Stickers</a></li>
-                <li><a href="/create-custom-poster">Poster</a></li>
-                <li><a href="/create-custom-posters-canvas">Canvas Prints</a></li>
-                <li><a href="/create-custom-posters-canvas">Wall Murals</a></li>
-          
-          
-          
-          
-          </ul>
-          <div class="clear"></div>
-          </div>
-    </li>
-    <li class="between mid target"><a href="/t-shirt-marketplace?filter_by=all" class="mainlevel">Shop</a>
-      <div class="mainblock">
-        <p class="maintitle"><a href="/t-shirt-marketplace?filter_by=all">Browse our categories of premade <span class="bigred">products</span></a></p>
-
-        <div style="float:left">
-          <!--<p class="subtitle">%= link_to(t(:custom_menu), create_tshirt_url()) %></p>  -->
-          
-          <div class="clear"></div>
-          <ul style="width:185px">
-
-            <li><a href="/t-shirt-marketplace?filter_by=all">Best sellers</a></li>
-            <li><a href="/tshirt-of-the-week/retro-t-shirt-17">Today's tee</a></li>
-            
-                
-
-                <li><a href="/funny+tshirts">Funny</a></li>
-                <!--<li>%#= link_to(t(:new_arrivals), marketplace_url)%></li>-->
-                <!--<li>%#= link_to(t(:custom_tshirts_menu),  bulk_create_tshirts_url())%></li>
-          <li>%= link_to("T-shirts", model_url(Model.find(69, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:hoodies), model_url(Model.find(67, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:tank_tops), model_url(Model.find(56, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:sports_tees), model_url(Model.find(45, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <!--<li>%= link_to(t(:tote_bags), model_url(Model.find(85, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:custom_stickers), {:controller=>"/sticker", :action=>"start"}) %></li>  -->
-
-            
-                
-
-                <li><a href="/love+tshirts">Love</a></li>
-                <!--<li>%#= link_to(t(:new_arrivals), marketplace_url)%></li>-->
-                <!--<li>%#= link_to(t(:custom_tshirts_menu),  bulk_create_tshirts_url())%></li>
-          <li>%= link_to("T-shirts", model_url(Model.find(69, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:hoodies), model_url(Model.find(67, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:tank_tops), model_url(Model.find(56, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:sports_tees), model_url(Model.find(45, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <!--<li>%= link_to(t(:tote_bags), model_url(Model.find(85, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:custom_stickers), {:controller=>"/sticker", :action=>"start"}) %></li>  -->
-
-            
-                
-
-                <li><a href="/music+tshirts">Music</a></li>
-                <!--<li>%#= link_to(t(:new_arrivals), marketplace_url)%></li>-->
-                <!--<li>%#= link_to(t(:custom_tshirts_menu),  bulk_create_tshirts_url())%></li>
-          <li>%= link_to("T-shirts", model_url(Model.find(69, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:hoodies), model_url(Model.find(67, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:tank_tops), model_url(Model.find(56, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:sports_tees), model_url(Model.find(45, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <!--<li>%= link_to(t(:tote_bags), model_url(Model.find(85, :include=>[:localized_models], :conditions=>"localized_models.language_id=#{session[:language_id]}")), :rel=>"nofollow") %></li>
-          <li>%= link_to(t(:custom_stickers), {:controller=>"/sticker", :action=>"start"}) %></li>  -->
-
-            
-                
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
 
 
-          </ul>
-        </div>
-        <div style="float:left">
-          <!--<p class="subtitle">%= link_to(t(:designer_apparel_menu), marketplace_url) %></p>-->
-
-          <div class="clear"></div>
-          <ul style="width:185px">
-
-            
-                
-                
-                
-                
-                
-                
-                <li><a href="/sports+tshirts">Sports</a></li>
-            
-                
-                
-                <li><a href="/cute+tshirts">Cute</a></li>
-            
-                
-                
-                <li><a href="/geek+tshirts">Geek</a></li>
-            
-                
-                
-                <li><a href="/celebrity+tshirts">Celebrity</a></li>
-            
-                
-                
-                <li><a href="/urban+tshirts">Urban</a></li>
-            
-                
-                
-            <!--<li>%=# link_to(t(:shop_by_design), "#{Language.print_force_lang(params[:lang])}boutique") %></li>-->
-
-            
-            <!--<li>
-                  
-
-                </li>-->
-            
-            
-            <!--<li>%= link_to("T-Shirts", marketplace_url) %></li>
-      % st = SearchType.find_by_str_id("hoodies") %>
-      <li>%= link_to(t(:hoodies), t(:hoodies_landing_url)) %></li>
-      % st = SearchType.find_by_str_id("tank-tops") %>
-      <li>%= link_to(t(:tank_tops), st.search_url(nil, session[:language_id], t(:custom))) %></li>
-      % st = SearchType.find_by_str_id("sport-tees") %>
-      <li>%= link_to(t(:sports_tees), st.search_url(nil, session[:language_id], t(:custom))) %></li>
-      % st = SearchType.find_by_str_id("underwear") %>
-      <li>%= link_to(t(:underwear), st.search_url(nil, session[:language_id], t(:custom))) %></li> -->
-
-            <!--<li>%#= link_to(t(:new_arrivals), marketplace_url)%></li>
-          # st = SearchType.find_by_str_id("pants")%>
-          <li>%#= link_to(t(:pants), st.search_url(session[:language],session[:language_id],t(:custom)))%></li>
-           #st = SearchType.find_by_str_id("dress")%>
-          <li>%#= link_to(t(:dresses), st.search_url(session[:language],session[:language_id],t(:custom)))%></li>
-           #st = SearchType.find_by_str_id("bag")%>
-          <li>%#= link_to(t(:tote_bags), st.search_url(session[:language],session[:language_id],t(:custom)))%></li>
-           #st = SearchType.find_by_str_id("underwear")%>
-          <li>%#= link_to(t(:underwear), st.search_url(session[:language],session[:language_id],t(:custom)))%></li>-->
-            <!--<li>%= link_to t(:shop_shirts_blank), url_blank_apparel_category_id(Category.find(3671, :include=>[:localized_categories], :conditions=>"localized_categories.language_id=#{session[:language_id]}"), nil) + "?mode=r"  %></li>
-
-      <li>%#= link_to t(:shop_caps_blank), url_blank_apparel_category_id(Category.find(2732, :include=>[:localized_categories], :conditions=>"localized_categories.language_id=#{session[:language_id]}"), nil) + "?mode=r"  %></li>
-  <li>%#= link_to t(:shop_towels_blank), url_blank_apparel_category_id(Category.find(3672, :include=>[:localized_categories], :conditions=>"localized_categories.language_id=#{session[:language_id]}"), nil) + "?mode=r"  %></li>
-  <li>%#= link_to t(:shop_bags_blank), url_blank_apparel_category_id(Category.find(2737, :include=>[:localized_categories], :conditions=>"localized_categories.language_id=#{session[:language_id]}"), nil) + "?mode=r"  %></li>-->
-
-          </ul>
-        </div>
-
-        <div style="float:left">
-          <!-- <p class="subtitle">%= t(:device_skins_menu) %></p> -->
-
-          <div class="clear"></div>
-          <ul style="width:145px">
-            
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <li><a href="/holidays+events+tshirts">Holidays &amp; events</a></li>
-            
-                
-                
-                <li><a href="/style+design+tshirts">Style &amp; design</a></li>
-            
-                
-                
-                <li><a href="/retro+tshirts">Retro</a></li>
-            
-                
-                
-                <li><a href="/news+politics+tshirts">News &amp; politics</a></li>
-            
-                
-                
-                <li><a href="/controversial+tshirts">Controversial</a></li>
-            
-                
-                
-          </ul>
-        </div>
 
 
-        
-        <div style="float:left">
-          <!--<p class="subtitle">%= t(:designer_accesories_menu) %></p>-->
-
-          <div class="clear"></div>
-          <ul style="width:185px">
-
-            
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <li><a href="/hobbies+interest+tshirts">Hobbies &amp; interest</a></li>
-            
-                
-                
-                <li><a href="/sexy+tshirts">Sexy</a></li>
-            
-                
-                
-                <li><a href="/motivational+tshirts">Motivational</a></li>
-            
-                
-                
-                <li><a href="/spiritual+tshirts">Spiritual</a></li>
-            
-                
-                
-                <li><a href="/transportation+tshirts">Transportation</a></li>
-            
-                
-                
-            <!--<li>%= link_to(t(:iphone_skins), SearchType.find_by_str_id("iphone-4+skins").search_url(nil, session[:language_id], nil)) %></li>
-            <li>%= link_to(t(:macbook_skins), SearchType.find_by_str_id("macbook+skins").search_url(nil, session[:language_id], nil)) %></li>
-            <li>%= link_to(t(:laptop_skins), SearchType.find_by_str_id("laptop+skins").search_url(nil, session[:language_id], nil)) %></li>
-            <li>%= link_to(t(:ipad_skins), SearchType.find_by_str_id("ipad-2+skins").search_url(nil, session[:language_id], nil)) %></li>
-            <li>%= link_to(t(:print_shop_menu), marketplace_print_url()) %></li> -->
-
-            <!--<li>%= link_to(t(:wall_decals_menu), store_category_url(LocalizedCategory.find_by_name_and_language_id("Wall Decals", 2).category)) %></li>
-            <li>%= link_to(t(:custom_skins), SearchType.find_by_str_id("iphone-4+skins").search_url(nil, session[:language_id], nil)) %></li>
-            
-                
-                    
-                        <li> %= link_to category.local_name(session[:language_id]), store_category_url(category, @marketplace_filter_by_id) %></li>
-                    % #end %>
-                % #end %>
-            
-            <li>%= link_to(t(:print_shop_menu), marketplace_print_url()) %></li>
-            <!--<li><= link_to t(:item_print_posters), posters_url %></li>-->
-          </ul>
-        </div>
-
-        <div style="float:left">
-          <div class="clear"></div>
-          <ul style="width:185px">
-            <li><a href="/extreme-couponing">Special Offers</a></li>
-            <li><a href="/screen-printing-discount">Screen Printing</a></li>
-            <li><a href="/wordans-sponsorship-t-shirts-program">Wordans Sponsorship</a></li>
-          </ul>
-        </div>
-
-      </div>
-    </li>
-
-    <li class="between mid target">
-      <!--
-      
-      <a href="/wholesale-clothing" class="mainlevel">Apparel</a>
-      
-      <div class="mainblock">
-        <p class="maintitle"><a href="/wholesale-clothing"><span class='bigred'>Clothing</span> - Great rebates</a></p>
-        <ul>
-          
-              <li><a href="/tshirt-of-the-week/retro-t-shirt-17">Today's tee</a></li>
-              <li><a href="/wholesale+t-shirts">T-shirts</a></li>
-              <li><a href="/wholesale+sweats-fleece">Sweatshirts</a></li>
-              <li><a href="/wholesale+polo-sport-shirts">Polos shirts</a></li>
-              <li><a href="/wholesale+cap">Caps</a></li>
-              </ul>
-              <ul>
-
-                <li><a href="/wholesale+sweats-fleece">Hoodies</a></li>
-                <li><a href="/wholesale+shirts">Shirts</a></li>
-
-                <li><a href="/wholesale+underwear">Underwear</a></li>
-                <li><a href="/wholesale+pants">Pants</a></li>
-                <li><a href="/wholesale+apron">Aprons</a></li>
-
-                
-                    </ul>
-                    <ul>
-                      <li><a href="/wholesale+gildan">Gildan</a></li>
-                      <li><#%= link_to "Hanes", url_blank_apparel_category(Category.find(48, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
-                      <li><#%= link_to "New Era", url_blank_apparel_category(Category.find(4785, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
-                      <li><a href="/wholesale+bella">Bella</a></li>
-                      <li><a href="/wholesale+anvil">Anvil</a></li>
-                      <li><a href="/wholesale+organic">Organic</a></li>
-                      <li><a href="/extreme-couponing">Special Offers</a></li>
-                      <li><#%= link_to "Coal Harbour", url_blank_apparel_category(Category.find(49, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
-                
-          
-          </ul>
-          </div>
-             -->
-      <a href="/wholesale-clothing" class="mainlevel">Apparel</a>
-      <div class="mainblock">
-        <p class="maintitle"><a href="/wholesale-clothing"><span class="bigred">Clothing</span> - Great rebates</a></p>
-        <ul>
-
-          
-
-              <li><a href="/screen-printing-discount">Screen Printing</a></li>
-              <li><a href="/wholesale+t-shirts">T-shirts</a></li>
-              <li><a href="/wholesale+sweats-fleece">Sweatshirts</a></li>
-              <li><a href="/wholesale+polo-sport-shirts">Polos shirts</a></li>
-              <li><a href="/wholesale+cap">Caps</a></li>
 
 
-              </ul>
-              <ul>
-                <li><a href="/wholesale+sweats-fleece">Hoodies</a></li>
-                <li><a href="/wholesale+shirts">Shirts</a></li>
-                <li><a href="/wholesale+underwear">Underwear</a></li>
-                <li><a href="/wholesale+pants">Pants</a></li>
-                <li><a href="/wholesale+apron">Aprons</a></li>
 
 
-                
-              </ul>
-              <ul>
-                <!--<li><#%= link_to "Hanes", url_blank_apparel_category(Category.find(48, :include=>[:localized_categories], :conditions=>"localized_categories.language_id=#{session[:language_id]}"), nil) %></li>-->
-                <!--<li><#%= link_to "New Era", url_blank_apparel_category(Category.find(4785, :include=>[:localized_categories], :conditions=>"localized_categories.language_id=#{session[:language_id]}"), nil) %></li>-->
-                <li><a href="/wholesale+gildan">Gildan</a></li>
-                <li><a href="/wholesale+bella">Bella</a></li>
-                <li><a href="/wholesale+anvil">Anvil</a></li>
-                <li><a href="/wholesale+organic">Organic</a></li>
-                <li><a href="/extreme-couponing">Special Offers</a></li>
-                <!--<li><#%= link_to "Coal Harbour", url_blank_apparel_category(Category.find(49, :include=>[:localized_categories], :conditions=>"localized_categories.language_id=#{session[:language_id]}"), nil) %></li>-->
-                
-          
-          </ul>
-          </div>
-    </li>
 
-    
-    
-    
-        <li class="between mid target">
-          
-          
-          <a href="/store-wall-decals-3889" class="mainlevel">Stickers</a>
-          <div class="mainblock">
-            <p class="maintitle">Great choice of Wall Decals, Skins and Stickers</p>
 
-            <div style="float:left">
-              <p class="subtitle">Customize</p>
+     <!--NOUVEAU MENU-->
+        <ul class="target">
+            <li class="first target"><a href="/create-custom-t-shirt" class="first mainlevel">Create Your Own<img alt="Tshirt_home" src="http://cdn0.wordansassets.com/wvc-1348851741/images/wordans2010/tshirt_home.png" style="margin-bottom:-1.5px;padding-left:5px;font-size:14px;"></a>
+              <div class="mainblock">
+                <div class="maintitle">
+                  <div class="clear"></div>
+                  <p class="column_title bigred">Customize</p>
+                  <p class="column_title bigred">24h</p>
+                  <p class="column_title bigred">Custom Skins</p>
+                  <p class="column_title bigred">Posters</p>
+<!--                  <p class="column_title bigred"><#%=t(:new_menu_marketplace)%></p>
+                  <p class="column_title bigred"><#%=t(:new_menu_sell)%></p>-->
+                  <div class="clear"></div>
+                </div>
+                <ul class="first new_menu">
+                    <li><a href="/create-custom-t-shirt/clothing-gildan-5000-men-s-heavy-cotton-t-shirt-66" rel="nofollow">T-shirts</a></li>
+                    <li><a href="/bulk-create-t-shirts">Bulk T-Shirts</a></li>
+                    <li><a href="/create-custom-t-shirt/clothing-gildan-9500-men-s-hooded-sweatshirt-67" rel="nofollow">Hoodies</a></li>
 
+                    <li><a href="/create-custom-t-shirt/clothing-bella-1011-ladies-spaghetti-strap-tank-fitted-56" rel="nofollow">Women Apparel</a></li>
+                    <li><a href="/create-custom-t-shirt/clothing-gildan-t-2000-men-s-ultra-cotton-t-shirt-69" rel="nofollow">Men Apparel</a></li>
+                    <li><a href="/create-custom-t-shirt/clothing-gildan-200b-kids-ultra-cotton-35" rel="nofollow">Kids Apparel</a></li>
+                </ul>
+                  <ul class="new_menu">
+                    <li><a href="/create-custom-t-shirt/clothing-gildan-5000-promo-t-shirt-men-s-71" class="mainlevel">T-Shirts</a></li>
+                    <li><a href="/create-custom-t-shirt/clothing-anvil-420-t-shirt-organic-pour-hommes-3297" class="mainlevel">Organic Tees</a></li>
+                    <li><a href="/create-custom-t-shirt/clothing-gildan-9500-men-s-hooded-sweatshirt-67" class="mainlevel">Hoodies</a></li>
+                    <li><a href="/create-custom-t-shirt/clothing-v-neck-canvas-b3005-111" class="mainlevel">V-Necks</a></li>
+                  </ul>
+<!--                <ul class="new_menu">
+                    <li><#%= link_to t(:new_menu_men_apparel), marketplace_url(27) %></li>
+                    <li><#%= link_to t(:new_menu_women_apparel), marketplace_url(24) %></li>
+                    <li><#%= link_to t(:new_menu_kids_apparel), marketplace_url(10) %></li>
+                    <li><#%= link_to t(:new_menu_men_todays_tee), last_wordans_product_url() %></li>
+                    <li><#%= link_to t(:new_menu_best_sellers), marketplace_url %></li>
+                    <li><#%= link_to t(:new_menu_all_categories), marketplace_url %></li>
+                </ul>-->
+<!--                <ul class="new_menu">
+                    <li><#%= link_to(t(:open_a_free_shop), {:controller => '/open_shop'}) %></li>
+                    <li><#%= link_to(t(:why_wordans_menu), {:controller => '/open_shop', :action => 'about_shops'}) %></li>
+                    <li><#%= link_to(t(:affiliate_program), t(:menu_affiliation_url), :target => "_blank") %></li>
+                </ul>-->
+
+                  <ul class="new_menu">
+                    <li><a href="/create-stickers">Stickers</a></li>
+                    <li><a href="/create-custom-skins?model_id=1461">iPhone Skins</a></li>
+                    <li><a href="/create-custom-skins?model_id=1467" rel="nofollow">iPad Skins</a></li>
+                    <li><a href="/create-custom-skins?model_id=1465">Macbook skins</a></li>
+                    <li><a href="/create-custom-skins?model_id=1464">Laptop Skins</a></li>
+                  </ul>
+                  <ul class="new_menu">
+                    <li><a href="/create-custom-posters-canvas">Posters</a></li>
+                    <li><a href="/create-custom-posters-canvas">Wall Murals</a></li>
+                  </ul>
+
+                <div class="clear"></div>
+                </div>
+            </li>
+            <li class="between mid target"><a href="/t-shirt-marketplace?filter_by=all" class="mainlevel" style="font-size:14px;">Shop</a>
+              <div class="mainblock">
+                <div class="maintitle">
+                    <div class="clear"></div>
+                    <p class="column_title bigred">Marketplace</p>
+                    <p class="column_title bigred">Wall Decals</p>
+                    <p class="column_title bigred">Blank Apparel</p>
+                    <div class="clear"></div>
+                </div>
+                <ul class="first new_menu">
+                  <li><a href="/t-shirt-marketplace?filter_by=27">Men Apparel</a></li>
+                  <li><a href="/t-shirt-marketplace?filter_by=24">Women Apparel</a></li>
+                  <li><a href="/t-shirt-marketplace?filter_by=10">Kids Apparel</a></li>
+                  <li><a href="/tshirt-of-the-week/retro-t-shirt-17">Today's Tee</a></li>
+                  <li><a href="/t-shirt-marketplace?filter_by=all">Best Sellers</a></li>
+                  <li><a href="/t-shirt-marketplace?filter_by=all">All Categories</a></li>
+                </ul>
+                <ul class="new_menu">
+                    <li><a href="/store-wall-decals-3889">Wall Decals</a></li>
+                      <li><a href="/store-wall-decals-3889">Urban</a></li>
+                      <li><a href="/store-wall-decals-3889">Floral</a></li>
+                      <li><a href="/store-wall-decals-3889">Kids &amp; Baby</a></li>
+                </ul>
+                <ul class="new_menu">
+                  <li><a href="/wholesale+men">Men Apparel</a></li>
+                  <li><a href="/wholesale+women">Women Apparel</a></li>
+                  <li><a href="/wholesale+kids">Kids Apparel</a></li>
+                  <li><a href="/wholesale+accessories-model">Accessories</a></li>
+                  <li><a href="/wholesale+unisex">Unisex</a></li>
+                </ul>
+              </div>
+            </li>
+
+
+
+
+
+			
+			<li class="between mid target"><a href="/screen-printing-discount" class="mainlevel" style="font-size:14px;">Wholesale</a>
+              <div class="mainblock">
+                <p class="maintitle">
+                  <a href="/bulk-create-t-shirts">
+                      <span class="bigred">
+                        Wholesale - Lowest Prices in Canada Guaranteed
+                      </span>
+</a>                </p>
+                <ul class="large_order_menu">
+                  <li><a href="/bulk-create-t-shirts">Instant Quote! Free Shipping</a></li>
+                  <li><a href="/screen-printing-discount">Screen Printing - Get a Discount</a></li>
+                  <li><a href="/t-shirt-serigraphie">Request a free quote</a></li>
+                  <li><a href="/wholesale-clothing">Blank apparel</a></li>
+                </ul>
+                <!--<div class='clear'></div>-->
+
+                <!--<span style='color: #E32122'><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 855 WORDANS</strong></span>-->
+              </div>
+            </li>
+
+            <li class="mid target"><a href="#" class="mainlevel">Wall Art</a>
+            <div class="mainblock">
+            <div class="maintitle">
               <div class="clear"></div>
-              <ul>
-                <li><a href="/create-stickers">Stickers</a></li>
-                <li><a href="/create-custom-skins?model_id=1461">iPhone Skins</a></li>
-                <li><a href="/create-custom-skins?model_id=1467" rel="nofollow">iPad Skins</a></li>
-                <li><a href="/create-custom-skins?model_id=1465">Macbook skins</a></li>
-                <li><a href="/create-custom-skins?model_id=1464">Laptop Skins</a></li>
-              </ul>
+              <p class="column_title bigred">Marketplace</p>
+              <p class="column_title bigred">Customize</p>
+              <div class="clear"></div>
             </div>
-            <div style="float:left">
-              <p class="subtitle">Marketplace</p>
 
-              <div class="clear"></div>
-              <ul>
+              <ul class="new_menu">
                 <li><a href="/store-wall-decals-3889">Wall Decals</a></li>
-                <li><a href="/iphone-4+skins">iPhone Skins</a></li>
-                <li><a href="/ipad-2+skins">iPad Skins</a></li>
-                <li><a href="/macbook+skins">Macbook Skins</a></li>
-                <li><a href="/laptop+skins">Laptop Skins</a></li>
-
-              </ul>
-            </div>
-
-            <!-- <ul>
-             <li>%= link_to t(:wall_decals_menu), store_category_url(@walldecals_categories[0], @marketplace_filter_by_id) %></li>
-             <li>%= link_to(t(:item_print_stickers), create_sticker_url()) %></li>
-
-
-             <li>%= link_to(t(:item_print_iphone4), create_skin_url() +"?model_id=1461") %></li>
-             <li>%= link_to(t(:item_print_macbook), create_skin_url() + "?model_id=1465") %></li>
-             <li>%= link_to(t(:item_print_laptop), create_skin_url() + "?model_id=1464") %></li>
-             </ul>
-       <ul>
-
-             <li>%= link_to(t(:item_print_iphone3), create_skin_url() +"?model_id=1462", :rel=>"nofollow") %></li>
-             <li>%= link_to(t(:item_print_ipad), create_skin_url() + "?model_id=1463") %></li>
-             <li>%= link_to(t(:item_print_ipad2), create_skin_url() +"?model_id=1467", :rel=>"nofollow") %></li>
-           </ul> -->
-
-          </div>
-        </li>
-
-        
-        <li class="between mid target"><a href="/create-custom-poster" class="mainlevel">Posters</a>
-          <div class="mainblock">
-            <p class="maintitle"><a href="/create-custom-poster">Shop for Posters and Canvases or Create your Own!</a></p>
-
-            <div style="float:left">
-              <p class="subtitle">Customize</p>
-
-              <div class="clear"></div>
-              <ul>
-                <li><a href="/create-custom-poster">Posters</a></li>
-                <li><a href="/create-custom-posters-canvas">Canvas</a></li>
-                <li><a href="/print-banners">Banners</a></li>
-                <li><a href="/create-custom-posters-canvas">Peel'n'Stick</a></li>
-              </ul>
-            </div>
-            <div style="float:left">
-              <p class="subtitle">Marketplace</p>
-
-              <div class="clear"></div>
-              <ul>
-                <li><a href="/store-wall-decals-3889">Wall Decals</a></li>
+                <li><a href="/posters-canvas">Wall Murals</a></li>
                 <li><a href="/posters-canvas">Posters</a></li>
-                <li><a href="/posters-canvas">Canvas</a></li>
-                <li><a href="/posters-canvas">Peel'n'Stick</a></li>
               </ul>
-            </div>
-            <!--<ul>
+              <ul class="new_menu">
+                <li><a href="/create-custom-posters-canvas">Wall Murals</a></li>
+                <li><a href="/create-custom-posters-canvas">Posters</a></li>
+                <li><a href="/create-stickers">Stickers</a></li>
+              </ul>
+                  </div>
+                  </li>
 
-            <li>%= link_to(t(:item_print_posters), create_poster_url()) %></li>
-            <li>%= link_to(t(:item_print_canvas), create_poster_url()) %></li>
-            <li>%= link_to(t(:item_print_banners), create_banner_url()) %></li>
-            <li>%= link_to(t(:item_print_peel_n_stick), create_poster_url()) %></li>
-            <li>%= link_to t(:wall_decals_menu), store_category_url(@walldecals_categories[0], @marketplace_filter_by_id) %></li>
+<!--            <li class="between mid target"><#%= link_to(t(:new_menu_blank_apparel), t(:url_buy_blank_apparel), :class => "mainlevel") %>
+              <div class="mainblock">
+                <div class="maintitle">
+                  <div class="clear"></div>
+                  <p class="column_title bigred"><#%=t(:new_menu_by_style)%></p>
+                  <p class="column_title bigred"><#%=t(:new_menu_by_category)%></p>
+                  <p class="column_title bigred"><#%=t(:new_menu_by_brand)%></p>
+                  <div class="clear"></div>
+                </div>
 
+                <#% begin %>
+                    <ul class="new_menu">
+                      <li><#%= link_to t(:new_menu_men_apparel), url_blank_apparel_category(Category.find(27, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:new_menu_women_apparel), url_blank_apparel_category(Category.find(24, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:new_menu_kids_apparel), url_blank_apparel_category(Category.find(10, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:new_menu_accessories), url_blank_apparel_category(Category.find(1994, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:new_menu_kids_unisex), url_blank_apparel_category(Category.find(4789, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                    </ul>
+                    <ul class="new_menu">
+                      <li><#%= link_to t(:blank_tshirts), url_blank_apparel_category(Category.find(2729, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:hoodies), url_blank_apparel_category(Category.find(3668, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:blank_polos), url_blank_apparel_category(Category.find(3667, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:new_menu_tank_tops), url_blank_apparel_category(Category.find(6859, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to t(:new_menu_pants), url_blank_apparel_category(Category.find(2731, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                    </ul>
+                    <ul class="new_menu">
+                      <li><#%= link_to "Gildan", url_blank_apparel_category(Category.find(34, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to "Bella", url_blank_apparel_category(Category.find(47, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to "Anvil", url_blank_apparel_category(Category.find(9315, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                      <li><#%= link_to "Canvas", url_blank_apparel_category(Category.find(6372, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                    </ul>
+                    <ul class="new_menu">
+                      <li><#%= link_to t(:new_menu_organic_tees), url_blank_apparel_category(Category.find(10244, :include => [:localized_categories], :conditions => "localized_categories.language_id=#{session[:language_id]}"), nil) %></li>
+                    </ul>
+                <#% rescue %>
+                <#% end %>
 
-          </ul>  -->
+              </div>
+            </li>-->
+			
+			
+			
+			
+			
+<!--            <li class="between mid target"><#%= link_to(t(:new_menu_stickers_skins), create_sticker_landing_url(), :class => "mainlevel") %>
+              <div class="mainblock">
+                <div class="maintitle">
+                  <div class="clear"></div>
+                  <p class="column_title bigred"><#%=t(:new_menu_customize)%></p>
+                  <p class="column_title bigred"><#%=t(:new_menu_24h)%></p>
+                  <p class="column_title bigred"><#%=t(:new_menu_marketplace)%></p>
+                  <p class="column_title bigred"><#%=t(:new_menu_sell)%></p>
+                  <div class="clear"></div>
+                </div>
 
-          </div>
-        </li>
+                <ul class="new_menu">
+                  <li><#%= link_to(t(:item_print_stickers), create_sticker_landing_url()) %></li>
+                  <li><#%= link_to(t(:iphone_skins), create_skin_url() +"?model_id=1461") %></li>
+                  <li><#%= link_to(t(:ipad_skins), create_skin_url() +"?model_id=1467", :rel => "nofollow") %></li>
+                  <li><#%= link_to(t(:item_print_macbook), create_skin_url() + "?model_id=1465") %></li>
+                  <li><#%= link_to(t(:laptop_skins), create_skin_url() + "?model_id=1464") %></li>
+                </ul>
+                <ul class="new_menu">
+                    <li><#%= link_to(t(:item_print_stickers), create_sticker_landing_url()) %></li>
+                    <li><#%= link_to(t(:iphone_skins), create_skin_url() +"?model_id=1461") %></li>
+                    <li><#%= link_to(t(:ipad_skins), create_skin_url() +"?model_id=1467", :rel => "nofollow") %></li>
+                    <li><#%= link_to(t(:item_print_macbook), create_skin_url() + "?model_id=1465") %></li>
+                    <li><#%= link_to(t(:laptop_skins), create_skin_url() + "?model_id=1464") %></li>
+                </ul>
+                <ul class="new_menu">
+                  <li><#%= link_to t(:wall_decals_menu), store_category_url(@walldecals_categories[0], @marketplace_filter_by_id) %></li>
+                  <li><#%= link_to(t(:iphone_skins), SearchType.find_by_str_id("iphone-4+skins").search_url(nil, session[:language_id], nil)) %></li>
+                  <li><#%= link_to(t(:ipad_skins), SearchType.find_by_str_id("ipad-2+skins").search_url(nil, session[:language_id], nil)) %></li>
+                  <li><#%= link_to(t(:macbook_skins), SearchType.find_by_str_id("macbook+skins").search_url(nil, session[:language_id], nil)) %></li>
+                  <li><#%= link_to(t(:laptop_skins), SearchType.find_by_str_id("laptop+skins").search_url(nil, session[:language_id], nil)) %></li>
+                </ul>
+                <ul class="new_menu">
+                    <li><#%= link_to(t(:open_a_free_shop), {:controller => '/open_shop'}) %></li>
+                    <li><#%= link_to(t(:why_wordans_menu), {:controller => '/open_shop', :action => 'about_shops'}) %></li>
+                    <li><#%= link_to(t(:affiliate_program), t(:menu_affiliation_url), :target => "_blank") %></li>
+                </ul>
+              </div>
+            </li>-->
 
-    
-
-    
-
-        <style type="text/css">
-            .jquery_slidemenu_en ul li a:link, .jquery_slidemenu_en ul li a:visited {
-                padding: 8px 12px !important;
-            }
-        </style>
-        <li class="between mid target"><a href="/create-custom-t-shirt/clothing-gildan-5000-promo-t-shirt-men-s-71" class="mainlevel">24H TEES</a>
-          <div class="mainblock">
-            <p class="maintitle"><a href="/create-custom-t-shirt/clothing-gildan-5000-promo-t-shirt-men-s-71" class="mainlevel">T-Shirts shipped within 24 hours</a></p>
-            <ul>
-              <li><a href="/create-custom-t-shirt/clothing-gildan-5000-promo-t-shirt-men-s-71" class="mainlevel">24H TEES</a></li>
-              <li><a href="/extreme-couponing">Special Offers</a></li>
-              <li><a href="/screen-printing-discount">Screen Printing</a></li>
-              <li><a href="/wordans-sponsorship-t-shirts-program">Wordans Sponsorship</a></li>
+<!--     <li class="between mid target"><#%= link_to(t(:new_menu_wall_art), create_poster_url(), :class => "mainlevel") %>
+         <div class="mainblock">
+           <div class="maintitle">
+             <div class="clear"></div>
+             <p class="column_title bigred"><#%=t(:new_menu_customize)%></p>
+             <p class="column_title bigred"><#%=t(:new_menu_48h)%></p>
+             <p class="column_title bigred"><#%=t(:new_menu_marketplace)%></p>
+             <p class="column_title bigred"><#%=t(:new_menu_sell)%></p>
+             <div class="clear"></div>
+           </div>
+           <ul class="new_menu">
+           <li><#%= link_to(t(:item_print_posters), create_poster_landing_url()) %></li>
+           &lt;!&ndash;<li><#%= link_to(t(:item_print_canvas), create_poster_url()) %></li>&ndash;&gt;
+              <li><#%= link_to(t(:item_print_banners), create_banner_url()) %></li>
+              <li><#%= link_to(t(:item_print_peel_n_stick), create_poster_url()) %></li>
             </ul>
-          </div>
-        </li>
-    
 
-    <li class="between mid target"><a href="/open_shop" class="mainlevel" title="Sell T-Shirts">Sell</a>
-      <div class="mainblock">
-        <p class="maintitle"><a href="/open_shop"><span class="bigred">Sell on Wordans</span> - Start your own business today</a></p>
-        <ul>
+            <ul class="new_menu">
+              <li><#%= link_to(t(:item_print_posters), create_poster_landing_url()) %></li>
+            </ul>
 
-          <li><a href="/open_shop">Open a Free Shop</a></li>
-          <li><a href="/open_shop/about_shops">About our Shops</a></li>
-          <li><a href="http://wordans.connexplace.com/en" target="_blank">Affiliate Program</a></li>
-          <li><a href="/contest/tshirt_design/design_listing">Contest</a></li>
-          <li><a href="/extreme-couponing">Special Offers</a></li>
-        </ul>
-        <ul>
-          <li><a href="/screen-printing-discount">Screen Printing</a></li>
-          <li><a href="/wordans-sponsorship-t-shirts-program">Wordans Sponsorship</a></li>
-        </ul>
-      </div>
-    </li>
+            <ul class="new_menu">
+                <#%begin%>
+                  <li><#%= link_to t(:wall_decals_menu), store_category_url(@walldecals_categories[0], @marketplace_filter_by_id) %></li>
+                  <#%rescue%>
+                    <#%end%>
+                      <li><#%= link_to(t(:item_print_posters), marketplace_print_url()) %></li>
+                      &lt;!&ndash;<li><#%= link_to(t(:item_print_canvas), marketplace_print_url()) %></li>&ndash;&gt;
+                      <li><#%= link_to(t(:item_print_peel_n_stick), marketplace_print_url()) %></li>
+            </ul>
+            <ul class="new_menu">
+              <li><#%= link_to(t(:open_a_free_shop), {:controller => '/open_shop'}) %></li>
+              <li><#%= link_to(t(:why_wordans_menu), {:controller => '/open_shop', :action => 'about_shops'}) %></li>
+              <li><#%= link_to(t(:affiliate_program), t(:menu_affiliation_url), :target => "_blank") %></li>
+            </ul>
+            </div>
+        </li>-->
 
 
 
-    <li class="between mid target">
+		<li class="between mid target"><a href="/open_shop" class="mainlevel" style="font-size:14px;" title="Sell T-Shirts">Sell</a>
+		  <div class="mainblock">
+			<p class="maintitle"><a href="/open_shop"><span class="bigred">Open a T-Shirt Shop or Sell T-Shirt Designs</span> - Earn Money with wordans</a></p>
+			<ul>
 
-  
-  <a href="/mywordans/login/new" class="mainlevel">Account</a>
+			  <li><a href="/open_shop">Open a T-shirt Shop</a></li>
+			  <li><a href="/open_shop/about_shops">Sell T-Shirt Designs</a></li>
+			  <li><a href="http://wordans.connexplace.com/en" target="_blank">Affiliate Program</a></li>
+			  <!--<li><#%= link_to(t(:contest), {:controller => "/contest/tshirt_design", :action => "design_listing"}) %></li>-->
+			  <!--<li><#%= link_to t(:coupons_codes_menu_create), {:controller => '/landing_page', :action => "coupons_codes"} %></li>-->
+			</ul>
+			<!--<ul>-->
+			  <!--<li><#%= link_to t(:screen_printing_menu_create), {:controller => '/landing_page', :action => "coupons_codes_colors"} %></li>-->
+			  <!--<li><#%= link_to t(:sponsor_menu_create), {:controller => '/landing_page', :action => "sponsor"} %></li>-->
+			<!--</ul>-->
+		  </div>
+		</li>            
+
+            <li class="between mid target"><a href="/" class="mainlevel" style="font-size:14px;">About Us</a>
+              <div class="mainblock">
+                <p class="maintitle"><a href="/display/contact">General Information <span class="bigred">about Wordans</span></a></p>
+                <ul>
+                  <li><a href="/display/our_services">Our Services</a></li>
+                  <li><a href="/display/first_time_visitors">First Time Visitors</a></li>
+                  <li><a href="/clients_tshirts/photos">Testimonials</a></li>
+                  <li><a href="/display/faqs">FAQs</a></li>
+                  <li><a href="/display/contact">Contact</a></li>
+                  <li><a href="/display/shipping_info">Shipping &amp; Refunds</a></li>
+                </ul>
+                <ul>
+                  <li><a href="/display/page/career">Career</a></li>
+                  <li><a href="/display/business_opportunities">Business inquiry</a></li>
+                  <li><a href="/pickup/home">Become an Authorized Dealer</a></li>
+                  <li><a href="/display/media_blog">Medias / Blogs</a></li>
+                </ul>
+              </div>
+            </li>
+
+            <li class="between mid target">
+
+  <a href="/mywordans/login/new" class="mainlevel">My Account</a>
       <div class="mainblock">
         <p class="maintitle"><a href="/mywordans/login/new"><span class="bigred">My Account</span></a></p>
   <ul>
@@ -1016,338 +904,58 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
     <li><a href="/order">My Orders</a></li>
   </ul>
        </div>
-  
 
 
 </li>
 
 
-
-    
-        
-    
-
-    <li class="between mid target" style="padding-right:0px !important"><a href="/" class="mainlevel">Wordans</a>
-      <div class="mainblock">
-        <p class="maintitle"><a href="/display/contact">General Information <span class="bigred">about Wordans</span></a></p>
-        <ul>
-          <li><a href="/display/contact">Contact</a></li>
-          <li><a href="/display/page/career">Career</a></li>
-          <li><a href="/display/about_us">About us</a></li>
-          <li><a href="/display/first_time_visitors">First Time Visitors</a></li>
-          <li><a href="/display/our_services">Our Services</a></li>
-        </ul>
-        <ul>
-          <li><a href="/display/shipping_info">Shipping &amp; Refunds</a></li>
-
-          <li><a href="/display/faqs">FAQs</a></li>
-          <li><a href="http://www.wordans.com/blog/" target="_blank">Blog</a></li>
-          <li><a href="/clients_tshirts/photos">Happy Clients!</a></li>
-          <li><a href="/display/business_opportunities">Business inquiry</a></li>
-
-        </ul>
-        <ul>
-          <li><a href="/contest/tshirt_design/design_listing">Score designs</a></li>
-          <li><a href="/contest/tshirt_design/submit_your_design">Submit design</a></li>
-          <li><a href="/boutique">Design Library</a></li>
-          <li><a href="/silk-screen-printing">Screen Printing</a></li>
-          <li><a href="/custom-gift">Personalized Gifts</a></li>
-        </ul>
-
-        <ul>
-          <li><a href="/extreme-couponing">Coupon codes</a></li>
-          <li><a href="/extreme-couponing">Special Offers</a></li>
-          <li><a href="/screen-printing-discount">Screen Printing</a></li>
-          <li><a href="/wordans-sponsorship-t-shirts-program">Wordans Sponsorship</a></li>
-        </ul>
-        <!--<ul>
-          <li>= link_to(t(:blank_apparels_buy), url_blank_apparel())%></li>
-
-        </ul>-->
-      </div>
-    </li>
-
-
-    
-        <li class="last target"><a href="/bulk-create-t-shirts" class="mainlevel">Wholesale</a>
-          <div class="mainblock">
-            
-                <p class="maintitle"><a href="/bulk-create-t-shirts"><span class="bigred">Large Orders</span> - Make your quote online or ask a representative</a></p>
-            
-            <ul class="large_order_menu">
-
-
-              
-              
-              
-
-              <li><a href="/bulk-create-t-shirts">Instant Quote - Free Shipping! Full color process</a></li>
-              
-              <!--<li>%#= link_to(t(:bulk_orders_menu_24h), "/" + t(:new_create_screen_printing_url))%></li>-->
-              <!--<li>%= link_to(t(:new_bulk_screenprinting), "/" + t(:new_create_screen_printing_url)) %></li>-->
-
-              <li><a href="/wholesale-clothing">Blank Apparel</a></li>
-              <li><a href="/t-shirt-serigraphie">Request a free quote</a></li>
-              <!--<li></li>-->
-              <!--<li>%= link_to(t(:wholesale_apparel_menu), url_blank_apparel()) %></li>-->
-              <li><a href="/extreme-couponing">Special Offers</a></li>
-              <li><a href="/screen-printing-discount">Screen Printing</a></li>
-
-              <!--<li>%= link_to(t(:custom_stickers), create_sticker_url) %></li>
-              <li>%= link_to(t(:item_print_posters), create_poster_url) %></li>-->
-
-            </ul>
-            <ul>
-            <li><a href="/wordans-sponsorship-t-shirts-program">Wordans Sponsorship</a></li>
-            </ul>
-          </div>
-        </li>
-    
-    <div class="clear"></div>
-    </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    <div class="clear"></div>
-    </div>
-    </div>
-    <div class="clear"></div>
-    </div>
-
-
-
-
-
-
-    <div id="proudly">
-    
-    
-
-
-
-
-    
-    
-    <div id="search_menu">
-
-      
-      
-
-
-          <form action="javascript:window.location=global_search('http://www.wordans.com/')" id="search_form" method="get" onsubmit="return true;">
-
-              
-              <script type="text/javascript">
-                  function global_search(base_url) {
-                      url = base_url
-                      //alert(url)
-                      search_terms = $("search").value.gsub(/\+/, '').gsub(/\?/, '').gsub("%", '').gsub(/ +/, '+').stripTags().toLowerCase();
-
-                      if (search_terms.length == 0) {
-                          return base_url + "t-shirt-marketplace"
-                      }
-                      if (search_terms[0] == "+") {
-                          search_terms = search_terms.substring(1)
-                      }
-                      if (search_terms[search_terms.length - 1] == "+") {
-                          search_terms = search_terms.substring(0, search_terms.length - 1)
-                      }
-
-
-                      s_type = "tshirts";
-
-                  
-                      if ($("type_search").value == 11){
-                          s_type = "gifts";
-                          s_glob_type = "gift";
-                      }
-                  
-                      if ($("type_search").value == 2){
-                          s_type = "tshirts";
-                          s_glob_type = "tshirt";
-                      }
-                  
-                      if ($("type_search").value == 13){
-                          s_type = "clothing";
-                          s_glob_type = "blank";
-                      }
-                  
-                      if ($("type_search").value == 20){
-                          s_type = "hoodies";
-                          s_glob_type = "hoodies";
-                      }
-                  
-                      if ($("type_search").value == 21){
-                          s_type = "tank-tops";
-                          s_glob_type = "tank-tops";
-                      }
-                  
-                      if ($("type_search").value == 4){
-                          s_type = "pants";
-                          s_glob_type = "pants";
-                      }
-                  
-                      if ($("type_search").value == 10){
-                          s_type = "bags";
-                          s_glob_type = "bag";
-                      }
-                  
-                      if ($("type_search").value == 8){
-                          s_type = "dresses";
-                          s_glob_type = "dress";
-                      }
-                  
-                      if ($("type_search").value == 7){
-                          s_type = "aprons";
-                          s_glob_type = "apron";
-                      }
-                  
-                      if ($("type_search").value == 9){
-                          s_type = "skirts";
-                          s_glob_type = "skirt";
-                      }
-                  
-                      if ($("type_search").value == 5){
-                          s_type = "caps";
-                          s_glob_type = "cap";
-                      }
-                  
-                      if ($("type_search").value == 6){
-                          s_type = "scarfs";
-                          s_glob_type = "scarf";
-                      }
-                  
-                      if ($("type_search").value == 12){
-                          s_type = "underwear";
-                          s_glob_type = "underwear";
-                      }
-                  
-                      if ($("type_search").value == 1){
-                          s_type = "designs";
-                          s_glob_type = "design";
-                      }
-                  
-                      if ($("type_search").value == 24){
-                          s_type = "posters-canvas";
-                          s_glob_type = "posters-canvas";
-                      }
-                  
-                      if ($("type_search").value == 16){
-                          s_type = "ipad+skins";
-                          s_glob_type = "ipad+skins";
-                      }
-                  
-                      if ($("type_search").value == 17){
-                          s_type = "ipad-2+skins";
-                          s_glob_type = "ipad-2+skins";
-                      }
-                  
-                      if ($("type_search").value == 14){
-                          s_type = "iphone-4+skins";
-                          s_glob_type = "iphone-4+skins";
-                      }
-                  
-                      if ($("type_search").value == 18){
-                          s_type = "macbook+skins";
-                          s_glob_type = "macbook+skins";
-                      }
-                  
-                      if ($("type_search").value == 15){
-                          s_type = "iphone-3gs+skins";
-                          s_glob_type = "iphone-3gs+skins";
-                      }
-                  
-                      if ($("type_search").value == 19){
-                          s_type = "laptop+skins";
-                          s_glob_type = "laptop+skins";
-                      }
-                  
-                      if ($("type_search").value == 23){
-                          s_type = "wall-decals";
-                          s_glob_type = "wall-decals";
-                      }
-                  
-                  
-
-                      if (s_glob_type == 'blank') {
-                          url = base_url + 'clothing+' + search_terms;
-                          return url;
-                      }
-
-                  
-                      url += search_terms + "+" + s_type;
-                  
-                      //alert(url);
-                      //document.location.href = url
-                      return url;
-                  }
-              </script>
-
-
-              <div id="search_txt">
-
-                <a class="smallActionButton b_black" href="#global_search" onclick="$('search_form').submit();" style="margin-top: 4px;float:right">Search</a>
-                <!--[if lte IE 7]>
-                <style type="text/css">
-                    #header_container #proudly #search_menu #search_txt a {
-                        padding: 2px 0 0;
-
-                        /*Holly Hack for IE7 and below*/
-                </style>
-                <![endif]-->
+            <li class="last target"><a href="/extreme-couponing" class="mainlevel specials" style="color:#E32122;font-size:14px;">Get a discount</a>
+              <div class="mainblock">
+                <p class="maintitle"><span class="bigred">Have a look at our Special Offers!</span></p>
+                <ul>
+                  <li><a href="/extreme-couponing">Special Offers</a></li>
+                  <li><a href="/screen-printing-discount">Screen Printing</a></li>
+                  <li><a href="/wordans-sponsorship-t-shirts-program">Wordans Sponsorship</a></li>
+                </ul>
               </div>
-              <input id="search" name="search" style="margin-right:7px;float:right" type="text">
-              <select id="type_search" name="type_search"><optgroup label="Apparel"><option value="11">All Apparel</option>
-<option value="2">T-Shirts</option>
-<option value="13">Blank Apparel</option>
-<option value="20">Hoodies</option>
-<option value="21">Tank Tops</option>
-<option value="4">Pants</option>
-<option value="10">Bags</option>
-<option value="8">Dresses</option>
-<option value="7">Aprons</option>
-<option value="9">Skirts</option>
-<option value="5">Caps</option>
-<option value="6">Scarfs</option>
-<option value="12">Underwear</option>
-<option value="1" selected="selected">Designs</option></optgroup><optgroup label="Skins"><option value="24">Posters and Canvas</option>
-<option value="16">iPad Skins</option>
-<option value="17">iPad 2 Skins</option>
-<option value="14">iPhone 4 Skins</option>
-<option value="18">Macbook Skins</option>
-<option value="15">iPhone 3GS Skins</option>
-<option value="19">Laptop Skins</option></optgroup><optgroup label="Home Decor"><option value="23">Wall decals</option></optgroup></select>
-          </form>
+            </li>
+            <div class="clear"></div>
+            </ul>
 
-          </div>
 
-          </div>
-      
+
+    <div class="clear"></div>
+    </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+
+<!--<div id="border_silver"></div>-->
+
+
+
+
+
+
+<!--    <div id="proudly">
+
+
+
+
+
+
+          </div>-->
 
 <div class="clear"></div>
 <div id="page_container">
   <div id="cms_container">
   <div id="left_container">
     
-
 <div id="your_text_img">
-    <a href="/create-custom-t-shirt" title="Create your T-shirt!"><img alt="Create-your-own-tshirt_2" src="http://assets3.wordansassets.com/images/wordans2010/en/create-your-own-tshirt_2.jpg?1325791029"></a>
+    <a href="/create-custom-t-shirt" title="Create your T-shirt!"><img alt="Create-your-own-tshirt_2" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/en/create-your-own-tshirt_2.jpg"></a>
   </div>
   
-
-
- <div id="large_order" style="height: 180px">
+ <div id="large_order" style="height: 150px" class="box">
     <p class="title">Need Assistance?</p>
     <div id="larger_order_border" style="">
       <!--<p class="freeQuote">%#=t(:dont_hesitate)%></p>-->
@@ -1376,10 +984,8 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
       <div class="clear"></div>
     </div>
   </div>
-  
 
 
-  
   <div id="testimonial">
     <p class="title"><span style="background-color: #FFF;padding-right:5px;text-transform: uppercase">Testimonial</span></p>
     <p>"Hello, I did business with Wordans and was very satisfied with the results. The quality and price were worthwhile! I would also say that if any problems come up, they are really good at finding solutions! They offer great service! I would recommend them to anybody! :)" <br><br>Marie-Michèle, <br>Montreal, QC</p>
@@ -1392,11 +998,11 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
       <embed src="http://www.youtube-nocookie.com/v/4hqPMqvJIU4&amp;hl=en_US&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="210" height="173">
     </object>
   </div>
-  
   <div id="facebook_left_menu">
 
-    <a href="http://www.facebook.com/wordans" target="_blank"><img alt="Logowordans_fb" src="http://assets2.wordansassets.com/images/wordans2010/en/logowordans_fb.jpg?1325791029"></a>
-    <iframe id="facebook_ilike" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.wordans.com%2Fdisplay%2Fpage%2Fprivacy-policy&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:110px; height:25px"></iframe>
+    <a href="http://www.facebook.com/wordans" target="_blank"><img alt="Logowordans_fb" src="http://cdn1.wordansassets.com/wvc-1348851741/images/wordans2010/en/logowordans_fb.jpg"></a>
+    
+<div class="fb-like" data-href="http%3A%2F%2Fwww.wordans.com%2Fdisplay%2Fpage%2Fprivacy-policy" data-send="false" data-layout="button_count" data-width="105" data-show-faces="false" style="height:25px;"></div>
 
     <div style="float:left;margin-left:0px;">
       <g:plusone size="medium" callback="gplus_callback"></g:plusone>
@@ -1416,25 +1022,25 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
   <div class="clear"></div>
 </div>
 
+  <div class="clear"></div>
 </div>
 
 </div>
 <div class="clear"></div>
 <!-- FOOTER-->
 
-
 <div id="footer">
   <div id="footer_info">
     <div id="services">
       <p>Services</p>
       <ul>
+        <li>
+  <a href="/mywordans/login/new">My Account</a>	
+</li>
         <li><a href="/order">Order Tracking</a></li>
         <li><a href="/display/faqs">FAQs</a></li>
-	
         <li><a href="/local/custom-t-shirt-printing">Local</a></li>
-	
 
-    
         <li><a href="/local-screen-printing/canada">Local Screen Printing</a></li>
         <li><a href="/local-poster-canvas/canada">Posters by City</a></li>
         <li><a href="/local-business-cards/canada">Local Business Cards</a></li>
@@ -1443,7 +1049,6 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
         <li><a href="/local-skins/custom-skins-canada">Local Skins</a></li>
 
 
-    
         <li><a href="/display/our_services">Our Services</a></li>
       </ul>
     </div>
@@ -1451,10 +1056,14 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
       <p>Community</p>
       <ul>
 
-        <li><a href="http://www.wordans.com/blog/" target="_blank"><img alt="Blank" height="17" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-4.jpeg?1318367857) -0px -504px; " width="17"></a> <a href="http://www.wordans.com/blog/" target="_blank">The Blog</a></li>
-        <li><a href="http://www.facebook.com/wordans" target="_blank"><img alt="Blank" height="16" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-4.jpeg?1318367857) -0px -51px; " width="17"></a> <a href="http://www.facebook.com/wordans" target="_blank">Facebook</a></li>
-        <li><a href="http://twitter.com/WordansFashion" target="_blank"><img alt="Blank" height="17" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-4.jpeg?1318367857) -0px -258px; " width="17"></a> <a href="http://twitter.com/WordansFashion" target="_blank">Twitter</a></li>
-		<li><a href="http://www.flickr.com/photos/wordans/" target="_blank"><img alt="Blank" height="16" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets0.wordansassets.com/images/css-sprites-image-bundle-2.png?1318367857) -0px -482px; " width="16"></a> <a href="http://www.flickr.com/photos/wordans/" target="_blank">Flickr</a></li>
+        <li><a href="http://www.wordans.com/blog/" target="_blank"><img alt="Blog_icon" height="17" src="http://cdn0.wordansassets.com/wvc-1340733157/images/wordans2010/blog_icon.jpg" width="17"></a> <a href="http://www.wordans.com/blog/" target="_blank">The Blog</a></li>
+        <li><a href="http://www.facebook.com/wordans" target="_blank"><img alt="Facebook_icon" height="16" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/facebook_icon.jpg" width="17"></a> <a href="http://www.facebook.com/wordans" target="_blank">Facebook</a></li>
+        <li><a href="http://twitter.com/WordansFashion" target="_blank"><img alt="Twitter_icon" height="17" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/twitter_icon.jpg" width="17"></a> <a href="http://twitter.com/WordansFashion" target="_blank">Twitter</a></li>
+		<li><a href="http://www.flickr.com/photos/wordansfashion/sets/" target="_blank"><img alt="Flick16" height="17" src="http://cdn1.wordansassets.com/wvc-1340733156/images/boutiques_2010/ven/social/flick16.gif" width="17"></a> <a href="http://www.flickr.com/photos/wordansfashion/sets/" target="_blank">Flickr</a></li>
+        <li><a href="http://pinterest.com/wordans123/" target="_blank"><img alt="Pinterest" height="17" src="http://cdn1.wordansassets.com/wvc-1343336871/images/boutiques_2010/ven/social/pinterest.jpg" width="17"></a> <a href="http://pinterest.com/wordans123/" target="_blank">Pinterest</a></li>
+        <li><a href="https://plus.google.com/u/0/b/111453156858168184617/111453156858168184617/posts" target="_blank"><img alt="Googleplus" height="17" src="http://cdn1.wordansassets.com/wvc-1343336871/images/boutiques_2010/ven/social/googleplus.jpg" width="17"></a> <a href="https://plus.google.com/u/0/b/111453156858168184617/111453156858168184617/posts" target="_blank">Google +</a></li>
+        <li><a href="http://www.youtube.com/user/wordansofficial?feature=results_main" target="_blank"><img alt="Youtube" height="17" src="http://cdn0.wordansassets.com/wvc-1343336871/images/boutiques_2010/ven/social/youtube.jpg" width="17"></a> <a href="http://www.flickr.com/photos/wordans/" target="_blank">Youtube</a></li>
+        <li><img alt="Instagram" height="17" src="http://cdn1.wordansassets.com/wvc-1343336871/images/boutiques_2010/ven/social/instagram.jpg" style="margin-right:3px;" width="17">Instagram : Wordans</li>
         <li>
           <!-- Disabled cuz it throws JS errors -->
               <!--<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=rotate&amp;publisher=783f7760-58d6-4b42-b3d3-bf364711bd9c"></script>
@@ -1466,200 +1075,206 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
       <p><strong>Currencies</strong></p>
       <p class="pgray">
 
-        <img alt="Blank" height="8" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -96px; " width="16"> CAD
-        <img alt="Blank" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -126px; " width="16"> EUR
-        <img alt="Blank" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -104px; " width="16"> USD<br>
-        <img alt="Blank" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -108px; " width="16"> GBP
-        <img alt="Blank" height="12" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -72px; " width="16"> CHF
-        <img alt="Blank" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -141px; " width="16"> AUD<br>
-        <img alt="Nz" height="11" src="http://assets2.wordansassets.com/images/wordans2010/flags/nz.gif?1324044230" width="16"> NZD
-        <img alt="Blank" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -86px; " width="16"> MXN
-        <img alt="Blank" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -119px; " width="16"> BRL
+        <img alt="Ca" height="11" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/ca.png" width="16"> CAD
+        <img alt="Eu" height="11" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/eu.png" width="16"> EUR
+        <img alt="Us" height="11" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/us.png" width="16"> USD<br>
+        <img alt="Gb" height="11" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/gb.gif" width="16"> GBP
+        <img alt="Ch" height="11" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/ch.png" width="16"> CHF
+        <img alt="Au" height="11" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/au.gif" width="16"> AUD<br>
+        <img alt="Nz" height="11" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/nz.gif" width="16"> NZD
+        <img alt="Mx" height="11" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/mx.gif" width="16"> MXN
+        <img alt="Br" height="11" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/br.gif" width="16"> BRL
       </p>
       <p><strong>Payment Types</strong></p>
       <p class="pgray">
-        <img alt="Payments-boutiques" height="20" src="http://assets1.wordansassets.com/images/wordans2010/payments-boutiques.png?1318367858" width="137">
-        
+        <img alt="Payments-boutiques" height="20" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/payments-boutiques.png" width="137">
       </p>
       <p class="pgray">
-      
 
-        <img alt="Banner-poste-ca" src="http://assets2.wordansassets.com/images/wordans2010/banner_poste/banner-poste-CA.jpg?1318367857">
+        <img alt="Banner-poste-ca" src="http://cdn1.wordansassets.com/wvc-1340733157/images/wordans2010/banner_poste/banner-poste-CA.jpg">
 
-      
-        <img alt="Fedex" src="http://assets1.wordansassets.com/images/wordans2010/banner_poste/fedex.jpg?1333487137">
+        <img alt="Fedex" src="http://cdn0.wordansassets.com/wvc-1340733157/images/wordans2010/banner_poste/fedex.jpg">
       </p>
     </div>
     <div id="newsletter">
       <div id="title_news">Discount Coupon Codes!</div>
       <p>Enter your email address to receive our online newsletter with promotions and discount codes from wordans.com</p>
       <p>
-        </p><form action="/display/subscribe_newsletter" method="post" onsubmit="if (checkNewsletterForm()) { new Ajax.Request('/display/subscribe_newsletter', {asynchronous:true, evalScripts:true, parameters:Form.serialize(this)}); }; return false;">
+        </p><form accept-charset="UTF-8" action="/display/subscribe_newsletter" method="post" onsubmit="if (checkNewsletterForm()) { new Ajax.Request('/display/subscribe_newsletter', {asynchronous:true, evalScripts:true, parameters:Form.serialize(this)}); }; return false;"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
           <input type="text" name="email_newsletter" id="email_newsletter"><input type="submit" value="Sign Up !" class="smallActionButton b_black">
           <span id="newsletter_spinner" style="display:none;">
-            <img alt="Loading" height="16" src="http://assets1.wordansassets.com/images/wordans2010/loading.gif?1318367858" width="16">
+            <img alt="Loading" height="16" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/loading.gif" width="16">
           </span>
           <div id="newsletter_message"></div>
-        </form>
-      <p></p>
+</form>      <p></p>
     </div>
 
 	<div id="list_langs">
-		
-			
-                                    
 				<div class="country">
 					<a href="http://cafr.wordans.com/" title="Canada custom T-shirts">
-						<img alt="Canada custom T-shirts" height="8" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -96px; " width="16">
+						<img alt="Canada custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/ca.png">
 						Canada Français
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.com/?force_lang=en" title="Canada custom T-shirts">
-						<img alt="Canada custom T-shirts" height="8" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -96px; " width="16">
+						<img alt="Canada custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/ca.png">
 						Canada English
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.us/" title="USA English custom T-shirts">
-						<img alt="USA English custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -104px; " width="16">
+						<img alt="USA English custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/us.png">
 						USA English
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://es.wordans.us/" title="USA Spanish custom T-shirts">
-						<img alt="USA Spanish custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -104px; " width="16">
+						<img alt="USA Spanish custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/us.png">
 						USA Spanish
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.fr/" title="France custom T-shirts">
-						<img alt="France custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -115px; " width="16">
+						<img alt="France custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/fr.png">
 						France
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.co.uk/" title="United Kingdom custom T-shirts">
-						<img alt="United Kingdom custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -108px; " width="16">
+						<img alt="United Kingdom custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/gb.gif">
 						United Kingdom
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.com.au/" title="Australia custom T-shirts">
-						<img alt="Australia custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -141px; " width="16">
+						<img alt="Australia custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/au.gif">
 						Australia
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.be/" title="Belgique custom T-shirts">
-						<img alt="Belgique custom T-shirts" height="12" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -84px; " width="16">
+						<img alt="Belgique custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/be.png">
 						Belgique
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.ch/" title="Suisse custom T-shirts">
-						<img alt="Suisse custom T-shirts" height="12" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets3.wordansassets.com/images/css-sprites-image-bundle-1.png?1318367857) -0px -72px; " width="16">
+						<img alt="Suisse custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/ch.png">
 						Suisse
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.es/" title="España custom T-shirts">
-						<img alt="España custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -97px; " width="16">
+						<img alt="España custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/es.gif">
 						España
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.mx/" title="México custom T-shirts">
-						<img alt="México custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -86px; " width="16">
+						<img alt="México custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/mx.gif">
 						México
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.at/" title="Österreich custom T-shirts">
-						<img alt="Österreich custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -64px; " width="16">
+						<img alt="Österreich custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/at.gif">
 						Österreich
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.com.br/" title="Brasil custom T-shirts">
-						<img alt="Brasil custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -119px; " width="16">
+						<img alt="Brasil custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/br.gif">
 						Brasil
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.com.pt/" title="Portugal custom T-shirts">
-						<img alt="Portugal custom T-shirts" height="11" src="http://assets0.wordansassets.com/images/blank.gif?1318367856" style="background: url(http://assets2.wordansassets.com/images/css-sprites-image-bundle-3.gif?1318367857) -0px -75px; " width="16">
+						<img alt="Portugal custom T-shirts" src="http://cdn1.wordansassets.com/wvc-1340733158/images/wordans2010/flags/pt.gif">
 						Portugal
-					</a>
-				</div>
-			
-		
-			
-                                    
+</a>				</div>
 				<div class="country">
 					<a href="http://www.wordans.co.nz/" title="New Zealand custom T-shirts">
-						<img alt="New Zealand custom T-shirts" src="http://assets2.wordansassets.com/images/wordans2010/flags/nz.gif?1324044230">
+						<img alt="New Zealand custom T-shirts" src="http://cdn0.wordansassets.com/wvc-1340733158/images/wordans2010/flags/nz.gif">
 						New Zealand
-					</a>
-				</div>
-			
-		
+</a>				</div>
 	</div>
+    <div class="clear"></div>
+    <div id="our_brands">
+      <p id="title_our_brands">Our Brands</p>
+       <div id="first_line">
+         <a href="http://www.wordans.com">Wordans</a>
+         <a href="http://www.wordans.com" id="wordansplus">[+]</a>
+         <a href="http://www.wordans.com" id="wordansmoins" style="display:none;">[-]</a>
+         <a href="http://www.minimamoderno.com">Minima Moderno</a>
+         <a href="http://www.minimamoderno.com" id="minimamodernoplus">[+]</a>
+         <a href="http://www.minimamoderno.com" id="minimamodernomoins" style="display:none;">[-]</a>
+         <a href="http://www.needen.com">Needeen</a>
+         <a href="http://www.needen.com" id="needenplus">[+]</a>
+         <a href="http://www.needen.com" id="needenmoins" style="display:none;">[-]</a>
+       </div>
+       <div id="second_line">
+         <div id="wordans_line" style="display:none;">
+               <a href="/funny+tshirts" title="Funny T-Shirts">Funny T-Shirts</a>
+               <a href="/graphic+tshirts" title="graphic T-Shirts">graphic T-Shirts</a>
+               <a href="/black+tshirts" title="Black T-Shirts">Black T-Shirts</a>
+               <a href="/white+tshirts" title="White T-Shirts">White T-Shirts</a>
+               <a href="/i+love+tshirts" title="I love T-Shirts">I love T-Shirts</a>
+         </div>
+         <div id="minimamoderno_line" style="display:none;">
+           <a href="http://www.minimamoderno.com/best-sales.php">Top Sellers</a>
+           <a href="http://www.minimamoderno.com/28-home-accessories">Outdoor Collection</a>
+           <a href="http://www.minimamoderno.com/27-indoor-collection">Indoor Collection</a>
+           <a href="http://www.minimamoderno.com/26-outdoor-collection">Outdoor Collection</a>
+         </div>
+         <div id="needen_line" style="display:none;">
+               <a href="http://www.needen.com/en/vaccations_rentals">Destinations</a>
+               <a href="http://www.needen.com/en/login/new_member">Publish a Free Offer</a>
+               <a href="http://www.needen.com/en/info/about">How does it Work?</a>
+               <a href="http://www.needen.com/en/owner/new">Needen Needen Community</a>
+         </div>
+       </div>
+    </div>
+    <div class="clear"></div>
+    <script type="text/javascript">
+      $j("#minimamodernoplus").click(function(event){
+          event.preventDefault();
+          expand('minimamoderno');
+      });
+      $j("#wordansplus").click(function(event){
+          event.preventDefault();
+          expand('wordans');
+      });
+      $j("#needenplus").click(function(event){
+          event.preventDefault();
+          expand('needen');
+      });
+      $j("#minimamodernomoins").click(function(event){
+          event.preventDefault();
+          expand('none');
+      });
+      $j("#wordansmoins").click(function(event){
+          event.preventDefault();
+          expand('none');
+      });
+      $j("#needenmoins").click(function(event){
+          event.preventDefault();
+          expand('none');
+      });
+      function expand(to_expand){
+          $j("#wordansplus").show();
+          $j("#wordansmoins").hide();
+          $j("#minimamodernoplus").show();
+          $j("#minimamodernomoins").hide();
+          $j("#needenplus").show();
+          $j("#needenmoins").hide();
+          $j("#wordans_line").hide();
+          $j("#minimamoderno_line").hide();
+          $j("#needen_line").hide();
 
+          if (to_expand == "wordans"){
+              $j("#wordansplus").hide();
+              $j("#wordansmoins").show();
+              $j("#wordans_line").show();
+          }else if (to_expand == "minimamoderno"){
+              $j("#minimamodernoplus").hide();
+              $j("#minimamodernomoins").show();
+              $j("#minimamoderno_line").show();
+          }else if (to_expand == "needen"){
+              $j("#needenplus").hide();
+              $j("#needenmoins").show();
+              $j("#needen_line").show();
+          }
 
-
+      }
+    </script>
     <div id="bottom_menu">
       <p><a href="/" title="Home">Home</a> |
         <a href="http://wordans.connexplace.com" target="_blank">Affiliation</a> |
@@ -1670,62 +1285,28 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
         <a href="/display/page/privacy-policy" id="privacyLink_text" rel="nofollow" title="Wordans T-shirt Privacy Policy">Privacy Policy</a> |
           <a href="/contest/tshirt_design/submit_your_design" title="Contest Rules">Contest Rules</a> |
         <a href="/display/sitemap_html" title="www.wordans.com Site Map">Site Map</a> |
-        
-         
         <a href="/display/our_shops" title="T-Shirt Shops">T-Shirt Shops</a>
       </p>
 	  <p>
-	    
-              
               <a href="http://www.wordans.com/local/montr-al-quebec-custom-t-shirt-printing" title="Montréal T-shirt shop | Montréal Custom T-Shirt printing | Wordans  Montréal">Montréal</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/vancouver-british-columbia-custom-t-shirt-printing" title="Vancouver T-shirt shop | Vancouver Custom T-Shirt printing | Wordans  Vancouver">Vancouver</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/toronto-ontario-custom-t-shirt-printing" title="Toronto T-shirt shop | Toronto Custom T-Shirt printing | Wordans  Toronto">Toronto</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/ottawa-ontario-custom-t-shirt-printing" title="Ottawa T-shirt shop | Ottawa Custom T-Shirt printing | Wordans  Ottawa">Ottawa</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/qu-bec-quebec-custom-t-shirt-printing" title="Québec T-shirt shop | Québec Custom T-Shirt printing | Wordans  Québec">Québec</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/winnipeg-manitoba-custom-t-shirt-printing" title="Winnipeg T-shirt shop | Winnipeg Custom T-Shirt printing | Wordans  Winnipeg">Winnipeg</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/halifax-nova-scotia-custom-t-shirt-printing" title="Halifax T-shirt shop | Halifax Custom T-Shirt printing | Wordans  Halifax">Halifax</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/ontario-18-custom-t-shirt-printing" title="Ontario T-shirt shop | Ontario Custom T-Shirt printing | Wordans  Ontario">Ontario</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/edmonton-alberta-custom-t-shirt-printing" title="Edmonton T-shirt shop | Edmonton Custom T-Shirt printing | Wordans  Edmonton">Edmonton</a>
-              
 		|
-              
-              
               <a href="http://www.wordans.com/local/calgary-alberta-custom-t-shirt-printing" title="Calgary T-shirt shop | Calgary Custom T-Shirt printing | Wordans  Calgary">Calgary</a>
-              
-              
-          
           </p>
       <p>Copyright © 2011 - Wordans.com - All rights reserved.<br>
         Use of this Web site constitutes acceptance of the Terms and conditions and Privacy Policy.<br>
@@ -1735,19 +1316,16 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
 </div>
 
 
-
 <!-- FOOTER-->
 <!-- EO Container Div -->
-
-
+</div>
+<div class="clear"></div>
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-1994599-4']);
         _gaq.push(['_setDomainName', '.wordans.com']);
-        
         _gaq.push(['_trackPageview']);
-        
         _gaq.push(['_trackPageLoadTime']);
 
         (function() {
@@ -1767,8 +1345,6 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
 
 
 
-<div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
 
 
 
@@ -1777,41 +1353,56 @@ html .jquerytopmenu{height: 1%;} /*Holly Hack for IE7 and below*/
 
 
 
-    
-    
-
-    
-
-        
 
 
-    
 
 
-    
 
 
-    
 
 
-    
 
 
-    
 
 
-    
-
-
-    
-
-
-<!-- Place this tag in your head or just before your close body tag -->
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script>
+(function(w, d, s) {
+  function go(){
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.src = url; js.id = id;
+	  fjs.parentNode.insertBefore(js, fjs);
+	};
+    load('//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=146089128753528', 'facebook-jssdk');
+    load('https://apis.google.com/js/plusone.js', 'gplus1js');
+    load('//platform.twitter.com/widgets.js', 'tweetjs');
+  }
+  if (w.addEventListener) { w.addEventListener("load", go, false); }
+  else if (w.attachEvent) { w.attachEvent("onload",go); }
+}(window, document, 'script'));
+</script>
 <script type="text/javascript">
     function gplus_callback(obj) {
         _gaq.push(['_trackEvent','plusone',obj.state]);
     }
+</script>
+
+<script type="text/javascript">
+    adroll_adv_id = "GPF7XAOUAFF3VMRC7B3PY2";
+    adroll_pix_id = "MYJ54K7GVZEXXKPOMLVX7H";
+    (function () {
+        var oldonload = window.onload;
+        window.onload = function(){
+            __adroll_loaded=true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            if(oldonload){oldonload()}};
+    }());
 </script>
  
 <!-- begin olark code --><script type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onl'+'oad="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
@@ -1825,9 +1416,7 @@ olark('api.chat.updateVisitorNickname', {
 });
 </script>
 
-
     <script> olark.configure('system.group', '731b3ac1e347e5aceb4c5f854788c7de') /*Routes to Customer Service*/ </script>
-
 
 <script>
     olark('api.visitor.getDetails', function(details){
@@ -1841,6 +1430,8 @@ olark('api.chat.updateVisitorNickname', {
 
 
 
+
+<script type="text/javascript">(function(a,b,c){function d(){var a=b.createElement(c),d=b.getElementsByTagName(c)[0];a.async=a.src="http://s2.cdnplanet.com/static/rum/rum.js",d.parentNode.insertBefore(a,d)}if(a.location.protocol=="https:")return;a.addEventListener&&a.addEventListener("load",d,!1)})(window,document,"script")</script>
 
 
 
