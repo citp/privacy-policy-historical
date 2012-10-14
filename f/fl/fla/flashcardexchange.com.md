@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608025238id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014080552id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/)
+[ ](http://www.flashcardexchange.com/)
 
 At Flashcard Exchange, we take your privacy concerns regarding our service seriously, so we have created the following Privacy Policy to explain our information collection and use practices. Our Privacy Policy covers what information we collect through our service, how we use this information, how you may opt-out of this collection, the security measures we take to protect this information, and our policy regarding children under 13 years of age. By using our service, you consent and agree to the information collection and use practices described in our Privacy Policy. We may periodically make changes to our Privacy Policy. It is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it.
 
