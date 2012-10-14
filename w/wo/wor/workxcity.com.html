@@ -1,0 +1,963 @@
+<!--The following is the downloaded HTML source of the workxcity.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014094514id_/http%3A//workxcity.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<script type="text/javascript" async="" src="https://static.punchtab.com/js/pb.js?src=wordpress"></script><script type="text/javascript" async="" src="https://static.punchtab.com/js/pt.js?src=wordpress"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+	
+	var notify_count = $("#bp-adminbar-notifications-menu a span").text();
+	var notify_desc = $("#bp-adminbar-notifications-menu ul li a").html();
+	var notify_link = $("#bp-adminbar-notifications-menu ul li a").attr("href");
+	$("#workxcity_account #bp-adminbar-notifications-menu a").html("");
+	$("#workxcity_account #bp-adminbar-notifications-menu a").attr({"alt":"Notifications","title":"Notifications"});
+	$("#workxcity_account #bp-adminbar-notifications-menu a").append("<img class='default_menu' src='http://workxcity.com/wp-content/uploads/2012/05/hover_notifications.png'/><img class='hover_menu' src='http://workxcity.com/wp-content/uploads/2012/05/notifications.png'/>");
+		if(notify_count != "")
+		{
+			$("#bp-adminbar-notifications-menu a img").attr("src","http://workxcity.com/wp-content/uploads/2012/05/alert_notifications.gif");
+			$("#bp-adminbar-notifications-menu a").attr("href", notify_link);
+		}
+		if($("#workxcity_account #user_messages a div").text()!="")
+		{
+			$("#user_messages a img").attr("src","http://workxcity.com/wp-content/uploads/2012/05/alert_message.gif");
+		}
+	$("#workxcity_account ul li a").hover(
+		function(event)
+		{
+			$("#workxcity_account #user_nav_description").html("<h4>" + $(this).attr("alt") + "</h4>");
+			$("#workxcity_account #user_nav_description").css({"display":"block", "left":event.pageX+10, "top":event.pageY+10});
+			$(this).children(".default_menu").css({"display":"none"});
+			$(this).children(".hover_menu").css({"display":"block"});
+		},
+		function()
+		{
+			$("#workxcity_account #user_nav_description").html("<h4> </h4>");
+			$("#workxcity_account #user_nav_description").css({"display":"none"});
+			$(this).children(".default_menu").css({"display":"block"});
+			$(this).children(".hover_menu").css({"display":"none"});
+		}
+	);
+
+	$("#workxcity_account #user_messages a").hover(
+		function()
+		{
+            if($(this).children("div").text() != "")
+				$("#workxcity_account #user_nav_description").html("<h4>" + $(this).attr("alt") + " (" + $(this).children("div").text() +  ")</h4>");
+			$("#workxcity_account #user_nav_description").css({"display":"block"});
+			$(this).children(".default_menu").css({"display":"none"});
+			$(this).children(".hover_menu").css({"display":"block"});
+		},
+		function()
+		{
+			$("#workxcity_account #user_nav_description").html("<h4> </h4>");
+			$("#workxcity_account #user_nav_description").css({"display":"none"});
+			$(this).children(".default_menu").css({"display":"block"});
+			$(this).children(".hover_menu").css({"display":"none"});
+		}
+	);
+
+	$("#bp-adminbar-notifications-menu a").hover(
+		function()
+		{
+            if(notify_count!="")
+				$("#workxcity_account #user_nav_description").html("<h4>" + $(this).attr("alt") + " (" + notify_count + ")</br>" + notify_desc + "</h4>");
+            else
+                $("#workxcity_account #user_nav_description").html("<h4>" + $(this).attr("alt") + "</br>" + notify_desc + "</h4>");
+			$("#workxcity_account #user_nav_description").css({"display":"block"});
+			$(this).children(".default_menu").css({"display":"none"});
+			$(this).children(".hover_menu").css({"display":"block"});
+		},
+		function()
+		{
+			$("#workxcity_account #user_nav_description").html("<h4> </h4>");
+			$("#workxcity_account #user_nav_description").css({"display":"none"});
+			$(this).children(".default_menu").css({"display":"block"});
+			$(this).children(".hover_menu").css({"display":"none"});
+		}
+	);
+
+	$(document).mousemove(function(e){
+		$("#workxcity_account #user_nav_description").css({"left":e.pageX+10, "top":e.pageY+10});
+	}); 
+
+});
+function remove_unimportant()
+{
+	$(".activity-content .activity-meta .unlike").css({"display":"none"});
+	$(".activity-content .activity-meta .acomment-reply").each(
+	function()
+	{
+		if( $(this).children("img").length == 0 )
+		{
+			$(this).prepend("<img class='rj_icons' src='http://workxcity.com/wp-content/uploads/2012/05/wp-comments.png'>");
+		}
+	}
+	);
+	$(".activity-content .activity-meta .fav").each(
+	function()
+	{
+		if( $(this).children("img").length == 0 )
+		{
+			$(this).prepend("<img class='rj_icons' src='http://workxcity.com/wp-content/uploads/2012/05/wp-favorite.png'>");
+		}
+	}
+	);
+	$(".activity-content .activity-meta .unfav").each(
+	function()
+	{
+		if( $(this).children("img").length == 0 )
+		{
+			$(this).prepend("<img class='rj_icons' src='http://workxcity.com/wp-content/uploads/2012/05/wp-unfav.png'>");
+		}
+	}
+	);
+	$(".activity-content .activity-meta .delete-activity").each(
+	function()
+	{
+		if( $(this).children("img").length == 0 )
+		{
+			$(this).prepend("<img class='rj_icons' src='http://workxcity.com/wp-content/uploads/2012/05/wp-delete.png'>");
+		}
+	}
+	);
+	$(".activity-content .activity-meta .like").each(
+	function()
+	{
+		if( $(this).children("img").length == 0 )
+		{
+			$(this).prepend("<img class='rj_icons' src='http://workxcity.com/wp-content/uploads/2012/05/wp-star.png'>");
+		}
+		if( $(this).text() != "Star" )
+		{
+			var star_count = $(this).text().match(/[\d\.]+/g);
+			$(this).text("Star");
+		}
+	}
+	);
+	$(".activity-content .activity-meta .view-likes").each(
+	function()
+	{
+		if( $(this).children("img").length == 0 )
+		{
+			$(this).prepend("<img class='rj_icons' src='http://workxcity.com/wp-content/uploads/2012/05/wp-view.png'>");
+		}
+	}
+	);
+	$(".activity-content .activity-meta .open").each(
+	function()
+	{
+		if( $(this).children("img").length == 0 )
+		{
+			$(this).prepend("<img class='rj_icons' src='http://workxcity.com/wp-content/uploads/2012/05/wp-view.png'>");
+		}
+	}
+	);
+}
+window.setInterval("remove_unimportant()",500);
+</script>
+
+
+<title>Privacy Policy | WorkxCity</title>
+
+
+	<link rel="alternate" type="application/rss+xml" title="WorkxCity | Site Wide Activity RSS Feed" href="http://workxcity.com/activity/feed/">
+
+<link rel="stylesheet" href="http://workxcity.com/wp-content/themes/blogs-mu-child/style.css" type="text/css" media="screen">
+
+<link rel="alternate" type="application/rss+xml" title="WorkxCity | Site Wide Activity RSS Feed" href="http://workxcity.com/activity/feed/">
+<link rel="alternate" type="application/rss+xml" title="WorkxCity Blog Posts RSS Feed" href="http://workxcity.com/feed/">
+<link rel="alternate" type="application/atom+xml" title="WorkxCity Blog Posts Atom Feed" href="http://workxcity.com/feed/atom/">
+
+<!-- automatic-feed-links in functions.php -->
+<link rel="pingback" href="http://workxcity.com/xmlrpc.php">
+
+<!-- favicon.ico location -->
+
+<!--[if IE 6]>
+<script type="text/javascript" src="http://workxcity.com/wp-content/themes/blogs-mu/_inc/js/drop_down.js"></script>
+<style type="text/css">
+.item-list li .item-avatar { margin:0 6px 0 0; }
+.linkbox { width: 20%; padding-right:3% !important; }
+#nav li { behavior: url(http://workxcity.com/wp-content/themes/blogs-mu/_inc/js/hover.htc); }
+#logo, #right-panel h4, #socials #the-mascot, #socials-single #the-mascot, .img-services, .start-free-small, #footer  {
+behavior: url(http://workxcity.com/wp-content/themes/blogs-mu/_inc/js/iepngfix.htc); }
+</style>
+<![endif]-->
+
+
+<style type="text/css" media="screen">body { padding-top: 0px !important;
+</style>
+
+
+
+
+<style type="text/css" media="screen">#intro-content { background: transparent none !important; }
+</style>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="WorkxCity » Feed" href="http://workxcity.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="WorkxCity » Comments Feed" href="http://workxcity.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="WorkxCity » Privacy Policy Comments Feed" href="http://workxcity.com/privacy-policy/feed/">
+<link rel="stylesheet" id="boxy-css" href="http://workxcity.com/wp-content/plugins/cubepoints/assets/boxy/stylesheets/boxy.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="jQuery_notice-css" href="http://workxcity.com/wp-content/plugins/cubepoints/modules/notice/jquery.notice.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="mp-store-theme-css" href="http://workxcity.com/wp-content/plugins/marketpress/marketpress-includes/themes/icons.css?ver=2.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-combobox-css" href="http://workxcity.com/wp-content/plugins/classifieds/custompress/datepicker/js/jquery.combobox/style.css?ver=0.5" type="text/css" media="all">
+<link rel="stylesheet" id="dev-base-css" href="http://workxcity.com/wp-content/themes/blogs-mu/_inc/css/base.css?ver=1.3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dev-bp-base-css" href="http://workxcity.com/wp-content/themes/blogs-mu/_inc/css/bp-default.css?ver=1.3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dev-bp-css-css" href="http://workxcity.com/wp-content/themes/blogs-mu/_inc/css/bp-css.css?ver=1.3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dev-bp-adminbar-css" href="http://workxcity.com/wp-content/themes/blogs-mu/_inc/css/adminbar.css?ver=1.3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dev-base-child-css" href="http://workxcity.com/wp-content/themes/blogs-mu-child/_inc/css/child-style.css?ver=1.3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="ws-plugin--s2member-css" href="http://workxcity.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&amp;qcABC=1&amp;ver=120703-3708195680" type="text/css" media="all">
+<link rel="stylesheet" id="wdfb_style-css" href="http://workxcity.com/wp-content/plugins/wpmu-dev-facebook/css/wdfb.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wdfb_connect_widget_style-css" href="http://workxcity.com/wp-content/plugins/wpmu-dev-facebook/css/wdfb_connect_widget.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="style-classifieds-css" href="http://workxcity.com/wp-content/plugins/classifieds/ui-front/buddypress/style-bp-classifieds.css?ver=3.4.2" type="text/css" media="all">
+<script type="text/javascript" src="http://workxcity.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/buddypress/bp-groups/js/widget-groups.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/cubepoints/assets/boxy/javascripts/jquery.boxy.js?ver=0.1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cp_donate = {"ajax_url":"http:\/\/workxcity.com\/wp-admin\/admin-ajax.php","confirmation":"Are you sure you want to donate points?","recipient":"Recipient","message":"Message","amount":"Amount","donate_points":"Donate Points","donate":"Donate Points"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/cubepoints/modules/donate/donate.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/cubepoints/modules/notice/jquery.notice.js?ver=1.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var MP_Ajax = {"ajaxUrl":"http:\/\/workxcity.com\/wp-admin\/admin-ajax.php","emptyCartMsg":"Are you sure you want to remove all items from your cart?","successMsg":"Item(s) Added!","imgUrl":"http:\/\/workxcity.com\/wp-content\/plugins\/marketpress\/marketpress-includes\/images\/loading.gif","addingMsg":"Adding to your cart...","outMsg":"In Your Cart"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/marketpress/marketpress-includes/js/ajax-cart.js?ver=2.6.4"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/classifieds/custompress/datepicker/js/cp-dynamic-css.js?ver=1.8.18"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/classifieds/custompress/ui-admin/js/jquery.validate.min.js?ver=1.8.18"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/classifieds/custompress/datepicker/js/jquery.combobox/jquery.combobox.js?ver=1.8.18"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/themes/blogs-mu/_inc/js/dropmenu.js?ver=1.3.6.1"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/themes/blogs-mu/_inc/js/modernizr.js?ver=1.3.6.1"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/themes/blogs-mu/_inc/js/jquery.nivo.slider.js?ver=1.3.6.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var BP_DTheme = {"my_favs":"My Favorites","accepted":"Accepted","rejected":"Rejected","show_all_comments":"Show all comments for this thread","show_all":"Show all","comments":"comments","close":"Close","view":"View","mark_as_fav":"Favorite","remove_fav":"Remove Favorite"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/themes/blogs-mu/_inc/global.js?ver=20120110"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://workxcity.com/wp-admin/js/password-strength-meter.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&amp;qcABC=1&amp;ver=120703-3708195680"></script>
+<script type="text/javascript" src="http://cdn.wibiya.com/Toolbars/dir_1200/Toolbar_1200078/Loader_1200078.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/wpmu-dev-facebook/js/wdfb_connect_widget.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-content/plugins/wpmu-dev-facebook/js/wdfb_facebook_login.js?ver=3.4.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://workxcity.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://workxcity.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="FAQs" href="http://workxcity.com/help/faqs/">
+<link rel="next" title="Terms and Conditions" href="http://workxcity.com/terms-and-conditions/">
+<meta name="generator" content="WordPress 3.4.2">
+
+	<script type="text/javascript">var ajaxurl = 'http://workxcity.com/wp-admin/admin-ajax.php';</script>
+
+<style type="text/css">
+span#bp-verified {
+	margin-left: 10px;
+	height: 20px;
+	display: inline-block;
+}
+span.v-text {
+	vertical-align: middle;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 190%;
+	margin-bottom: 7px;
+	color: #5e5e5e;
+}
+#bp-verified img {
+	width: 23px;
+	height: 23px;
+	float: left;
+	margin-right: 5px;
+}
+</style>
+
+
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+
+									_gaq.push(['_setAccount', 'UA-28552794-1']);
+										_gaq.push(['_trackPageview']);
+											_gaq.push(['_trackPageLoadTime']);
+									
+				
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+
+		<script type="text/javascript">var _wdfb_ajaxurl="http://workxcity.com/wp-admin/admin-ajax.php";var _wdfb_root_url="http://workxcity.com/wp-content/plugins/wpmu-dev-facebook";</script><script type="text/javascript" src="http://workxcity.com/wp-content/plugins/wpmu-dev-facebook/js/wdfb_facebook_login.js"></script>	<meta name="description" content="What information do we collect?   We collect information from you when you register on our site or respond to a survey.  When ordering or registering on...">
+	<link rel="canonical" href="http://workxcity.com/privacy-policy/">
+<link rel="stylesheet" id="bp-album-css-css" href="http://workxcity.com/wp-content/plugins/bp-album/includes/css/general.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="bp-cubepoint-css-css" href="http://workxcity.com/wp-content/plugins/cubepoints-buddypress-integration/includes/css/general.css?ver=3.4.2" type="text/css" media="all">
+<style type="text/css">.page-item-74 { display: none !important; }
+</style><style type="text/css" media="screen">ul#recent-postcat li img {
+margin: 0px 10px 0px 0px!important;
+border: 1px solid #ddd;
+padding: 3px;
+float:left;
+max-width: 80px;
+width: auto;
+height:auto;
+background: #fff;
+}
+#recent-postcat li div.feat-title {
+  font-size: 1em; padding-bottom: 0px; margin: 6px 0px 0px 0px;
+}
+#recent-postcat li small {
+  font-size: 0.85em;
+}
+ul#flickr-widget li img {
+  float: left;
+  margin: 0px 7px 8px 0px;
+  background-color: #fff;
+  border: 1px solid #eee;
+  padding: 5px;
+}
+</style><style>ul#mysocialmedia {margin: 0px; padding: 0px 0px 20px 0px; float: left; width: 100%; list-style: none;}
+ul#mysocialmedia img {border: 3px solid #efefef;}
+ul#mysocialmedia img:hover {border: 3px solid #CCCCCC;}
+ul#mysocialmedia li {margin: 0px 10px 10px 0px; padding: 0px; float: left; width: auto !important; list-style: none;}
+ul#myblogrssfeed {margin: 0px; padding: 0px; float: left; width: 100%; list-style: none;}
+ul#myblogrssfeed li {margin: 0px 0px 18px; padding: 0px 0px 18px; float: left; width: 100%; list-style: none; border-bottom: 1px solid #ddd;}
+ul#myblogrssfeed li h1 {margin: 0px; padding: 0px; float: left; width: 100%; list-style: none; font: 15px/20px Helvetica, Arial, sans-serif;}
+
+ul#myblogrssfeed li div.rss-author {
+background: transparent url(http://workxcity.com/wp-content/themes/blogs-mu/_inc/images/authors.gif) no-repeat left center;
+margin: 0px; padding: 0px 0px 0px 23px; float: left; width: 90%; list-style: none; font: 11px/20px Helvetica, Arial, sans-serif;}
+
+ul#myblogrssfeed li .rss-content {margin: 0px; padding: 8px 0px 0px; float: left; width: 100%; list-style: none; font: 12px/20px Helvetica, Arial, sans-serif;}
+
+div.profile-ads {margin: 0px 0px 18px; padding: 12px 0px; float: left; width: 100%; clear:both; oveflow:hidden; }
+div#profile-header-img img { margin: 0px 0px 18px; }
+</style><link rel="icon" href="http://workxcity.com/wp-content/uploads/2012/05/favicon.png" type="image/png"><link rel="apple-touch-icon" href="http://workxcity.com/wp-content/uploads/2012/05/favicon1.png">
+	<script type="text/javascript"> jQuery(document).ready( function() { jQuery("a.confirm").click( function() { if ( confirm( 'Are you sure?' ) ) return true; else return false; }); });</script>
+
+
+
+
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+
+<style type="text/css" media="screen">#container .bb-sidebar { display: none !important; }
+</style>
+<!-- start theme options sync - using php to fetch theme option are deprecated and replace with style sync -->
+<style type="text/css" media="screen">body, #custom .widget blockquote p, #custom .item-list blockquote p {
+font-family: Helvetica, Arial, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, #custom #header-name-alt, .one-community {
+font-family: Lucida Grande, Lucida Sans, sans-serif!important;
+}
+
+
+
+
+
+
+
+
+
+#content-intro-content {
+padding: 15px 0 0px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#custom #navigation li { font-family: Helvetica, Arial, sans-serif !important; }
+
+
+
+
+
+
+
+
+
+
+
+
+#top-bg {
+background: #FFFFFF;
+background: -moz-linear-gradient(top, #FFFFFF 0%, #FFFFFF 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(100%,#FFFFFF));
+background: -webkit-linear-gradient(top, #FFFFFF 0%,#FFFFFF 100%);
+background: -o-linear-gradient(top, #FFFFFF 0%,#FFFFFF 100%);
+background: -ms-linear-gradient(top, #FFFFFF 0%,#FFFFFF 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=0 );
+background: linear-gradient(top, #FFFFFF 0%,#FFFFFF 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style><!-- end theme options sync -->
+
+</head>
+
+
+<body class="page page-id-70 page-template-default js unknown" id="custom">
+
+<div id="top-bg">
+<div class="top-bg-inner">
+<div class="alignleft">
+<a href="http://workxcity.com"><img src="http://workxcity.com/wp-content/uploads/2012/05/WCLogo101-small.png" alt="logo"></a>
+</div>
+
+
+<div class="alignright">
+Already a member? <a href="http://workxcity.com/signin/">Login here</a>
+</div>
+</div>
+</div>
+
+
+<div id="navigation">
+<div id="page-navigation">
+<ul id="nav">
+<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://workxcity.com/">Home</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://workxcity.com/members/">Members</a></li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://workxcity.com/wc-blog/">WC Blog</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="http://workxcity.com/earn-points/">Earn Points</a>
+<ul class="sub-menu">
+	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://workxcity.com/earn-points/payout/">Payout</a></li>
+</ul>
+</li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://workxcity.com/register/">Register</a></li>
+<li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164"><a href="http://workxcity.com/contact-us/">Contact Us</a></li>
+</ul>
+</div>
+
+<div id="mobile-search">
+<form role="search" method="get" id="searchform" action="http://workxcity.com/">
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s">
+	<input type="submit" id="searchsubmit" value="Search">
+	</div>
+	</form><script type="text/javascript">
+ jQuery(document).ready(function($){
+  $("select#top-dropdown").change(function(){
+    window.location.href = $(this).val();
+  });
+ });
+</script><select name="top-dropdown" id="top-dropdown"><option>Where to?</option><option value="http://workxcity.com/">Home</option>
+<option value="http://workxcity.com/members/">Members</option>
+<option value="http://workxcity.com/wc-blog/">WC Blog</option>
+<option value="http://workxcity.com/earn-points/">Earn Points</option>
+
+	<option value="http://workxcity.com/earn-points/payout/">Payout</option>
+
+
+<option value="http://workxcity.com/register/">Register</option>
+<option value="http://workxcity.com/contact-us/">Contact Us</option>
+</select></div>
+
+</div>
+
+<script type="text/javascript">//<![CDATA[
+(function(){var c=document.body.className;c=c.replace(/no-js/,'js');document.body.className=c;})();
+//]]></script>
+<div id="header">
+<div id="header-gfx">
+<div id="header-gfx-inner">
+
+<div class="panel-index" id="panel">
+
+<div id="header-name-alt">
+WorkxCity - Where Your Work Meets Social Life! Our community proves that you can WORK and EARN from HOME!</div>
+
+</div>
+
+
+
+
+</div>
+</div>
+
+
+</div>
+
+
+
+
+<div id="wrapper">
+
+
+<div id="container">
+
+
+<div class="content">
+
+<!-- start content -->
+<div id="post-entry">
+
+
+
+
+
+<div class="post-70 page type-page status-publish hentry" id="post-70">
+<h1 class="post-title">Privacy Policy</h1>
+
+
+
+<div class="post-content">
+ <p><strong>What information do we collect? </strong><br>
+We collect information from you when you register on our site or respond to a survey.<br>
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.</p>
+<p><strong>What do we use your information for? </strong><br>
+Any of the information we collect from you may be used in one of the following ways:</p>
+<ul>
+<li>To personalize your experience</li>
+</ul>
+<p>(your information helps us to better respond to your individual needs)</p>
+<ul>
+<li>To improve our website</li>
+</ul>
+<p>(we continually strive to improve our website offerings based on the information and feedback we receive from you)</p>
+<ul>
+<li>To process transactions</li>
+</ul>
+<p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
+<ul>
+<li>To administer a contest, promotion, survey or other site feature</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>How do we protect your information? </strong></p>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+<p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.<br>
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
+<p><strong>Do we use cookies? </strong><br>
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
+<p><strong>Do we disclose any information to outside parties? </strong><br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><strong>Third party links </strong><br>
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<p><strong>Childrens Online Privacy Protection Act Compliance </strong><br>
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<p><strong>Online Privacy Policy Only </strong><br>
+This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<p><strong>Your Consent </strong><br>
+By using our site, you consent to our websites privacy policy.</p>
+<p><strong>Changes to our Privacy Policy </strong><br>
+If we decide to change our privacy policy, we will post those changes on this page.<br>
+This policy was last modified on January 28, 2012<br>
+For any questions regarding our website’s Privacy Policy, contact <strong><a href="mailto:support@workxcity.net" target="_blank">support@workxcity.net</a></strong></p>
+ </div>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+<div id="sidebar">
+
+<div class="sidebar">
+<div class="sidebar-end">
+
+
+
+
+
+<ul class="sidebar_list">
+<li id="advanced_text-2" class="widget advanced_text"><div class="AdvancedText"><h3>Member’s Panel</h3>
+<div id="workxcity_login">
+<h3>Workxcity Login</h3>
+<form id="sidebar-login-form" class="standard-form" action="http://workxcity.com/wp-login.php" method="post" name="login-form">
+	<label>Username 
+		<input id="sidebar-user-login" class="input" type="text" name="log" value="">
+	</label>
+	<label>Password 
+		<input id="sidebar-user-pass" class="input" type="password" name="pwd" value="">
+	</label>
+	<p class="forgetmenot">
+		<label> 
+			<input id="sidebar-rememberme" type="checkbox" name="rememberme" value="forever"> Remember Me		</label>
+	</p>
+	 
+	<center> 
+		<input id="sidebar-wp-submit" tabindex="100" type="submit" name="wp-submit" value="Log In"> <input type="hidden" name="testcookie" value="1">
+	</center>
+</form>
+</div>
+
+</div></li>
+<li id="advanced_text-4" class="widget advanced_text"><div class="AdvancedText"><a href="http://premium.wpmudev.org?ref=prince0328-20316">
+<img src="http://wpmu.org/wp-content/uploads/2010/05/250box.png" alt="WPMU DEV - The WordPress Experts" title="Check out WPMU DEV - The WordPress Experts">
+</a></div></li>
+<li id="bp_groups_widget-2" class="widget widget_bp_groups_widget"><h3>Groups</h3>
+					<div class="item-options" id="groups-list-options">
+				<a href="http://workxcity.com/groups" id="newest-groups">Newest</a> |
+				<a href="http://workxcity.com/groups" id="recently-active-groups" class="selected">Active</a> |
+				<a href="http://workxcity.com/groups" id="popular-groups">Popular</a>
+			</div>
+
+			<ul id="groups-list" class="item-list">
+									<li>
+						<div class="item-avatar">
+							<a href="http://workxcity.com/groups/girl-thing/" title="Girl Thing  ♀"><img src="http://workxcity.com/wp-content/uploads/group-avatars/3/8abcd45d1f9087e96896dd0d0151d788-bpthumb.jpg" alt="Group logo of Girl Thing  ♀" class="avatar group-3-avatar" width="50" height="50" title="Girl Thing  ♀"></a>
+						</div>
+
+						<div class="item">
+							<div class="item-title"><a href="http://workxcity.com/groups/girl-thing/" title="Girl Thing  ♀">Girl Thing  ♀</a></div>
+							<div class="item-meta">
+								<span class="activity">
+								active 2 hours, 21 minutes ago								</span>
+							</div>
+						</div>
+					</li>
+
+									<li>
+						<div class="item-avatar">
+							<a href="http://workxcity.com/groups/food-recipes/" title="Food Recipes"><img src="http://workxcity.com/wp-content/uploads/group-avatars/4/17d252e0cd3d6b62046b96de3440065a-bpthumb.jpg" alt="Group logo of Food Recipes" class="avatar group-4-avatar" width="50" height="50" title="Food Recipes"></a>
+						</div>
+
+						<div class="item">
+							<div class="item-title"><a href="http://workxcity.com/groups/food-recipes/" title="Food Recipes">Food Recipes</a></div>
+							<div class="item-meta">
+								<span class="activity">
+								active 19 hours, 41 minutes ago								</span>
+							</div>
+						</div>
+					</li>
+
+									<li>
+						<div class="item-avatar">
+							<a href="http://workxcity.com/groups/biz-minded/" title="Biz Minded $"><img src="http://workxcity.com/wp-content/uploads/group-avatars/2/677995c7d43962b66af2ddc5a92ee0b5-bpthumb.jpg" alt="Group logo of Biz Minded $" class="avatar group-2-avatar" width="50" height="50" title="Biz Minded $"></a>
+						</div>
+
+						<div class="item">
+							<div class="item-title"><a href="http://workxcity.com/groups/biz-minded/" title="Biz Minded $">Biz Minded $</a></div>
+							<div class="item-meta">
+								<span class="activity">
+								active 19 hours, 41 minutes ago								</span>
+							</div>
+						</div>
+					</li>
+
+									<li>
+						<div class="item-avatar">
+							<a href="http://workxcity.com/groups/freelance-online-writers/" title="Freelance Online Writers"><img src="http://workxcity.com/wp-content/uploads/group-avatars/1/c718d33cec8895a48ffae780d5022d4a-bpthumb.jpg" alt="Group logo of Freelance Online Writers" class="avatar group-1-avatar" width="50" height="50" title="Freelance Online Writers"></a>
+						</div>
+
+						<div class="item">
+							<div class="item-title"><a href="http://workxcity.com/groups/freelance-online-writers/" title="Freelance Online Writers">Freelance Online Writers</a></div>
+							<div class="item-meta">
+								<span class="activity">
+								active 5 months ago								</span>
+							</div>
+						</div>
+					</li>
+
+							</ul>
+			<input type="hidden" id="_wpnonce-groups" name="_wpnonce-groups" value="51a39e61d7"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">			<input type="hidden" name="groups_widget_max" id="groups_widget_max" value="5">
+
+		
+		</li>			<li id="recent-posts-3" class="widget widget_recent_entries">		<h3>WC Blog Posts</h3>		<ul>
+				<li><a href="http://workxcity.com/poem/guitar-and-you/" title="Guitar and You">Guitar and You</a></li>
+				<li><a href="http://workxcity.com/poem/poem/" title="Poem">Poem</a></li>
+				<li><a href="http://workxcity.com/poem/bring-me-to-you/" title="Bring Me To You">Bring Me To You</a></li>
+				<li><a href="http://workxcity.com/poem/pen-and-paper/" title="Pen and Paper">Pen and Paper</a></li>
+				<li><a href="http://workxcity.com/workxcity/how-to-create-an-account-with-workxcity/" title="How to Create an Account with WorkxCity">How to Create an Account with WorkxCity</a></li>
+				</ul>
+		</li><li id="bp_core_whos_online_widget-2" class="widget widget_bp_core_whos_online_widget"><h3>Who's Online</h3>
+		
+			<div class="widget-error">
+				There are no users currently online			</div>
+
+		
+		</li>	</ul>
+
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div id="fb-root"></div><script type="text/javascript">
+         FB.init({
+            appId: '127287874064800',
+            status: true,
+            cookie: true,
+            xfbml: true,
+            oauth: true
+         });
+      </script>
+
+</div><!-- end content -->
+</div><!-- end container -->
+</div><!-- end wrapper -->
+
+
+<div id="footer">
+<div id="footer-wrap">
+
+<div id="footer-content">
+
+
+<div id="links">
+
+
+<div class="linkbox">
+<ul class="list">
+<li id="my_wpmudev_bp_searchform_widget-2" class="widget widget_my_wpmudev_bp_searchform_widget"><h3>Search a WorkxCitier</h3><form action="http://workxcity.com/search/" method="post" id="search-form">
+<input type="text" id="search-terms" name="search-terms" onfocus="if (this.value == 'Start Searching...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Start Searching...';}">
+<label for="search-which" class="accessibly-hidden">Search these:</label><select name="search-which" id="search-which" style="width: auto"><option value="members">Members</option><option value="groups">Groups</option><option value="forums">Forums</option><option value="posts">Posts</option></select>&nbsp;<input type="submit" name="search-submit" id="search-submit" value="Search">
+<input type="hidden" id="_wpnonce" name="_wpnonce" value="e34902c5ab"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/"></form>
+</li><li id="bp_core_recently_active_widget-2" class="widget widget_bp_core_recently_active_widget"><h3>Recently Active Members</h3>
+					<div class="avatar-block">
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/mayyenn_escosia/" title="mayyenn_escosia"><img src="http://workxcity.com/wp-content/uploads/avatars/325/fe0ebb70bd9d1bdec1d88361471314f9-bpthumb.jpg" alt="Profile picture of mayyenn_escosia" class="avatar user-325-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/marygrace_cuevas/" title="marygrace_cuevas"><img src="http://workxcity.com/wp-content/uploads/avatars/321/e2ff70cd5c30f16096264d08ae253b58-bpthumb.jpg" alt="Profile picture of marygrace_cuevas" class="avatar user-321-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/lea_decastro/" title="lea_decastro"><img src="http://workxcity.com/wp-content/uploads/avatars/324/a32786de9bf58850552c5c918b836e8d-bpthumb.jpg" alt="Profile picture of lea_decastro" class="avatar user-324-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/honeygrace_abo/" title="honeygrace_abo"><img src="http://workxcity.com/wp-content/uploads/avatars/323/a2bd795b8a7bf219bd3718dd5c8c3627-bpthumb.jpg" alt="Profile picture of honeygrace_abo" class="avatar user-323-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/mariannemae_abuan/" title="mariannemae_abuan"><img src="http://workxcity.com/wp-content/uploads/avatars/322/bc62b6e290190ee75f855a3aa38fdba8-bpthumb.jpg" alt="Profile picture of mariannemae_abuan" class="avatar user-322-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/robert_brazil/" title="robert_brazil"><img src="http://workxcity.com/wp-content/uploads/avatars/319/20a062152424139072af202e474e68ba-bpthumb.jpg" alt="Profile picture of robert_brazil" class="avatar user-319-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/wcbianca/" title="WCBianca"><img src="http://workxcity.com/wp-content/uploads/avatars/6/2f485f64357a225090c8e24a938ead6f-bpthumb.jpg" alt="Profile picture of Bianca Elaine" class="avatar user-6-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/melissa_parkes/" title="melissa_parkes"><img src="http://workxcity.com/wp-content/uploads/avatars/320/d6161222ccc65d941f925d3302721700-bpthumb.jpg" alt="Profile picture of melissa_parkes" class="avatar user-320-avatar" width="50" height="50"></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://workxcity.com/members/wcmumin/" title="WCMumin"><img src="http://workxcity.com/wp-content/uploads/avatars/7/41a7bc9d5cb7d5c86730c3e34aa221ec-bpthumb.jpg" alt="Profile picture of Mumin" class="avatar user-7-avatar" width="50" height="50"></a>
+					</div>
+							</div>
+		
+		</li>	</ul>
+</div>
+
+
+
+<div class="linkbox">
+<ul class="list">
+<li id="my_wpmudev_featured_multi_category_widget-2" class="widget widget_my_wpmudev_featured_multi_category_widget"><h3>WC Categories</h3><ul class="item-list" id="recent-postcat">
+<li>
+
+<a href="http://workxcity.com/poem/guitar-and-you/">
+
+
+<img width="" height="auto" class="feat-post-thumbnail " title="Guitar and You" alt="" src="http://workxcity.com/wp-content/uploads/2012/06/guitar-150x150.jpg">
+
+
+
+</a>
+
+<div class="feat-title"><a href="http://workxcity.com/poem/guitar-and-you/" rel="bookmark" title="Guitar and You">Guitar and You</a></div>
+<small>by&nbsp;<a href="http://workxcity.com/members/wcbianca/" title="Bianca Elaine">Bianca Elaine</a>&nbsp;on&nbsp;June 6th 2012</small>
+</li>
+
+<li>
+
+<a href="http://workxcity.com/poem/poem/">
+
+
+<img width="" height="auto" class="feat-post-thumbnail " title="Poem" alt="" src="http://workxcity.com/wp-content/uploads/2012/05/poem-150x150.jpg">
+
+
+
+</a>
+
+<div class="feat-title"><a href="http://workxcity.com/poem/poem/" rel="bookmark" title="Poem">Poem</a></div>
+<small>by&nbsp;<a href="http://workxcity.com/members/wcbianca/" title="Bianca Elaine">Bianca Elaine</a>&nbsp;on&nbsp;May 31st 2012</small>
+</li>
+
+<li>
+
+<a href="http://workxcity.com/poem/bring-me-to-you/">
+
+
+<img width="" height="auto" class="feat-post-thumbnail " title="Bring Me To You" alt="" src="http://workxcity.com/wp-content/uploads/2012/05/hearts-150x150.jpg">
+
+
+
+</a>
+
+<div class="feat-title"><a href="http://workxcity.com/poem/bring-me-to-you/" rel="bookmark" title="Bring Me To You">Bring Me To You</a></div>
+<small>by&nbsp;<a href="http://workxcity.com/members/wcbianca/" title="Bianca Elaine">Bianca Elaine</a>&nbsp;on&nbsp;May 29th 2012</small>
+</li>
+</ul></li></ul>
+</div>
+
+
+
+<div class="mobile-blk">
+<div class="linkbox">
+<ul class="list">
+<li id="my_wpmudev_twitter_widget-2" class="widget widget_my_wpmudev_twitter_widget"><h3>WC Tweets - <a style="font-weight: normal; letter-spacing: normal; font-size: 11px;" href="http://twitter.com/workxcity">Follow me</a></h3><ul id="twitter_update_list_my_wpmudev_twitter_widget-2">
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+
+	    function twitterCallback2(twitters) {
+	      var statusHTML = [];
+	      for (var i=0; i<twitters.length; i++){
+	        var username = twitters[i].user.screen_name;
+	        var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+	          return '<a href="'+url+'">'+url+'</a>';
+	        }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+	          return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
+	        });
+	        statusHTML.push('<li><span class="">'+status+'</span> <a style="font-size:85%" class="time" href="http://twitter.com/'+username+'/statuses/'+twitters[i].id+'">'+relative_time(twitters[i].created_at)+'</a></li>');
+	      }
+	      document.getElementById('twitter_update_list_my_wpmudev_twitter_widget-2').innerHTML = statusHTML.join('');
+	    }
+
+	    function relative_time(time_value) {
+	      var values = time_value.split(" ");
+	      time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+	      var parsed_date = Date.parse(time_value);
+	      var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+	      var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+	      delta = delta + (relative_to.getTimezoneOffset() * 60);
+
+	      if (delta < 60) {
+	        return 'less than a minute ago';
+	      } else if(delta < 120) {
+	        return 'about a minute ago';
+	      } else if(delta < (60*60)) {
+	        return (parseInt(delta / 60)).toString() + ' minutes ago';
+	      } else if(delta < (120*60)) {
+	        return 'about an hour ago';
+	      } else if(delta < (24*60*60)) {
+	        return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
+	      } else if(delta < (48*60*60)) {
+	        return '1 day ago';
+	      } else {
+	        return (parseInt(delta / 86400)).toString() + ' days ago';
+	      }
+	    }
+	//-->!]]>
+	</script>
+<script type="text/javascript" src="http://api.twitter.com/1/statuses/user_timeline/workxcity.json?callback=twitterCallback2&amp;count=3&amp;include_rts=t"></script>
+	</ul>
+</li></ul>
+</div>
+
+
+
+<div class="linkbox">
+<ul class="list">
+<li id="wdfb_widgetlikebox-2" class="widget Wdfb_WidgetLikebox"><h3>WC Like Box</h3><iframe id="wdfb-likebox-5fdd864b527584e414e78b6f7e4b5342" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fworkxcity&amp;width=250&amp;locale=en_US&amp;colorscheme=dark&amp;show_faces=false&amp;stream=true&amp;header=false&amp;height=305" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:305px;" allowtransparency="true"></iframe></li></ul>
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+<div id="bottom-content">
+<div class="bottom-content-inner">
+<div class="alignleft">
+Copyright ©2012 <a title="Where Your Work Meets Social Life" href="http://workxcity.com">WorkxCity</a><br> All Rights Reserved.
+</div>
+
+<div class="alignright" style="text-align: right;">
+<a href="http://workxcity.com/about-us/">About Us</a> | <a href="http://workxcity.com/about-us/our-team/">Our Team</a> | <a href="http://workxcity.com/about-us/overview/">Overview</a> | <a href="http://workxcity.com/help/faqs/">FAQs</a> | <a href="http://workxcity.com/help/">Help</a> | <a href="http://workxcity.com/privacy-policy/">Privacy Policy</a> | <a href="http://workxcity.com/terms-and-conditions/">Terms and Conditions</a> | <a href="http://workxcity.com/contact-us/">Contact Us</a><br>
+Powered by <a title="Where Your Work Meets Social Life" href="http://workxcity.com">WorkxCity</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#top-bg">Go back to top ↑</a>
+</div>
+
+</div>
+</div>
+
+
+<!-- Generated in 0.867 seconds. (163 q) -->
+
+	          <script type="text/javascript" charset="utf-8">
+                var _ptq = _ptq || [];
+                var _punchtab_settings = {
+                    key: "",
+                    language: "",
+                    display: "tab",
+                    earningmap: true,
+                    position: {x:"left", y:"bottom"}
+                };
+              (function() {
+                var pt = document.createElement('script'); pt.type = 'text/javascript'; pt.async = true;
+                pt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') +'static.punchtab.com/js/pt.js?src=wordpress';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pt, s);
+            })();
+          </script>
+<script type="text/javascript" charset="utf-8">var _btq = _btq || [];var _punchtab_settings_badges = {  key: "",  language: "",  position: {x: "left", y: "bottom"}};(function() {var pt = document.createElement('script'); pt.type = 'text/javascript'; pt.async = true;pt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') +'static.punchtab.com/js/pb.js?src=wordpress';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pt, s);})();</script><noscript><a href='http://www.wibiya.com/'>Web Toolbar by Wibiya</a></noscript><script type="text/javascript" src="http://workxcity.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.8.20"></script>
+<script type="text/javascript" src="http://workxcity.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.8.20"></script>
+
+
+
+</body></html>
