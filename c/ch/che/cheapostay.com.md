@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229063422id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014024854id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
 
 # CheapOstay Privacy Policy
 
@@ -76,7 +76,7 @@ If you do not receive acknowledgement of your inquiry or your inquiry has not be
   
 | 
 
-To start receiving exclusive hotel deals & discounts, sign up for CheapOstay's newsletter! 
+To start receiving discounted hotel deals & discounts, sign up for CheapOstay's newsletter! 
 
 Check your email for a special coupon! 
 
