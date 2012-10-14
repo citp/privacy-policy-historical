@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510091746id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014155744id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
 
@@ -64,4 +64,4 @@ Unauthorized duplication or publication of any materials from this Site is expre
 * * *
 
 © FishLore.com - [Tropical Fish Information](http://www.fishlore.com/)  
-[Link to FishLore](http://www.fishlore.com/linktofishlore.htm) | [SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm) | [Aquarium Fish](http://www.fishlore.com/FishLore_SiteMap2.htm) | [Aquarium Fish Dictionary](http://www.fishlore.com/fishdictionary/dictionary.htm) | [Contact Us](http://www.fishlore.com/Contact.htm) | [Fish Blog](http://blog.fishlore.com/)
+[SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm) | [Aquarium Fish SiteMap](http://www.fishlore.com/FishLore_SiteMap2.htm) | [Aquarium Fish Dictionary](http://www.fishlore.com/fishdictionary/dictionary.htm) | [Fish Blog](http://blog.fishlore.com/)
