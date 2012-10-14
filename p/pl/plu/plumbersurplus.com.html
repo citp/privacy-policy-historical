@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the plumbersurplus.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510195443id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plumbersurplus.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014184523id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" id="masterHTML"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" id="masterHTML"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy at PlumberSurplus.com</title>
 
@@ -9,10 +9,11 @@
 
     
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <script type="text/javascript" async="" src="https://server.iad.liveperson.net/hc/40053794/?cmd=mTagRepstate&amp;site=40053794&amp;buttonID=12&amp;divID=lpButDivID-1294253845&amp;bt=3&amp;c=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
-    <link type="text/css" rel="Stylesheet" href="/ltc.ashx?s=Combiner_CSS&amp;t=text%2fcss&amp;f=07E9AE648510BEE7B6134F350C78CB08" media="all">
+    <link type="text/css" rel="Stylesheet" href="/ltc.ashx?s=Combiner_CSS&amp;t=text%2fcss&amp;f=0EE7555AAE3699352B55BE04178DE35B" media="all">
     <link rel="stylesheet" href="http://checkout.google.com/seller/accept/s.css" type="text/css" media="screen">
+    <link rel="Stylesheet" type="text/css" href="/css/ProductReview.css">
     
 
     <script type="text/javascript" src="/ltc.ashx?s=Combiner_JS&amp;t=text%2fjavascript&amp;f=26E690C4124D7E45FFF9D2390E79F458"></script>
@@ -35,7 +36,7 @@
 
 </head>
 
-<body id="_ctl0_HtmlBody" class="home">
+<body id="_ctl0_HtmlBody" class="home" itemscope="" itemtype="http://schema.org/WebPage">
     
   
   <div class="wrap">
@@ -67,13 +68,9 @@
          function Search(thisid)
           {
             var searchBox = document.getElementById("search")
-            
-            if (trim(searchBox.value)=="") 
-            { 
-                alert('Please enter a search term.'); 
-                searchBox.focus(); 
-                
-                return CancelEvent();
+
+            if (trim(searchBox.value) == "" || searchBox.value == " Search ") {
+                searchBox.value = "*"
             }
             return true;
           }
@@ -83,14 +80,27 @@
 
 		<div id="hdrTools">
 			<ul class="toolsNav">
-	            <li><a href="/ContactUs.aspx">Contact Us</a></li>
 	  	        <li id="liveChat">
-                    <!-- BEGIN LivePerson Button Code -->
-                    <div id="lpButDivID-1294253845"></div>
-                    <script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/40053794/?cmd=mTagRepstate&amp;site=40053794&amp;buttonID=12&amp;divID=lpButDivID-1294253845&amp;bt=3&amp;c=1"></script>
-                    <!-- END LivePerson Button code -->
+                <div id="lpButDivID-1294253845"></div>
+                    <script>
+                        (function () {
+                            function async_load() {
+                                var s = document.createElement('script');
+                                s.type = 'text/javascript';
+                                s.async = true;
+                                s.src = 'https://server.iad.liveperson.net/hc/40053794/?cmd=mTagRepstate&site=40053794&buttonID=12&divID=lpButDivID-1294253845&bt=3&c=1';
+                                var x = document.getElementsByTagName('script')[0];
+                                x.parentNode.insertBefore(s, x);
+                            }
+                            if (window.attachEvent)
+                                window.attachEvent('onload', async_load);
+                            else
+                                window.addEventListener('load', async_load, false);
+                        })();
+                        </script>
 	            </li>
 				<li class="hdrPhone"><a href="/ContactUs.aspx">Toll-Free (888) 859-2080</a></li>
+	            <li><a href="/ContactUs.aspx">Contact Us</a></li>
 				<li><a href="https://www.plumbersurplus.com/MyAccount.aspx">Your Account</a></li>
 				<li><a href="/Help.aspx">Help</a></li>
 				<li class="last">
@@ -110,7 +120,7 @@
 		    <!-- <label for="Search">Search</label> -->
 		    <input type="text" maxlength="300" name="search" id="search" class="input-search" value="" size="15"><a href="javascript:;" onclick="return (Search(this) ? document.frmSearch.submit() :  false )" id="btnSearch" class="btnSearch" title="Search"> </a>
 		    <script type="text/javascript">
-		        $("#search").watermark('watermark', 'Search');
+		        $("#search").watermark('watermark', ' Search ');
 		        $(function() {
 		            $("#search").autocomplete({
 		                source: function(request, response) {
@@ -160,7 +170,7 @@
 </tbody></table>
 </li><li><a title="Home &amp; Garden" href="/Cat/Home-Garden/1215"><span>Home &amp; Garden</span></a><table>
 	<tbody><tr>
-		<td><ul><li><a href="/Cat/Home-Appliances/364" title="Home Appliances">Home Appliances</a></li><li><a href="/Cat/Lawn-Garden/1527" title="Lawn &amp; Garden">Lawn &amp; Garden</a></li><li><a href="/Cat/Housewares/1384" title="Housewares">Housewares</a></li><li><a href="/Cat/Outdoor-Living/1654" title="Outdoor Furniture">Outdoor Furniture</a></li><li><a href="/Cat/Consumer-Electronics/1391" title="Consumer Electronics">Consumer Electronics</a></li><li><a href="/Cat/Organization/813" title="Organizational Products">Organizational Products</a></li><li><a href="/Cat/Paint-Paint-Supplies/1409" title="Paint &amp; Paint Supplies">Paint &amp; Paint Supplies</a></li><li><a href="/Cat/Home-Decor/1653" title="Home Decor">Home Decor</a></li><li><a href="/Cat/Bed-Bath/1028" title="Bed &amp; Bath">Bed &amp; Bath</a></li><li><a href="/Cat/Laundry/4" title="Laundry Room Products">Laundry Room Products</a></li><li><a href="/Cat/Safety-Security/1729" title="Safety &amp; Security">Safety &amp; Security</a></li><li><a href="/Cat/Cleaning-Supplies/1500" title="Cleaning Supplies">Cleaning Supplies</a></li><li><a href="/Cat/Animal-Equipment/1616" title="Animal Equipment">Animal Equipment</a></li><li><a href="/Cat/Office-Supplies/1465" title="Office Supplies">Office Supplies</a></li><li><a href="/Cat/Clothing/1360/List" title="Clothing">Clothing</a></li></ul></td>
+		<td><ul><li><a href="/Cat/Home-Appliances/364" title="Home Appliances">Home Appliances</a></li><li><a href="/Cat/Lawn-Garden/1527" title="Lawn &amp; Garden">Lawn &amp; Garden</a></li><li><a href="/Cat/Housewares/1384" title="Housewares">Housewares</a></li><li><a href="/Cat/Outdoor-Living/1654" title="Outdoor Furniture">Outdoor Furniture</a></li><li><a href="/Cat/Organization/813" title="Organizational Products">Organizational Products</a></li><li><a href="/Cat/Paint-Paint-Supplies/1409" title="Paint &amp; Paint Supplies">Paint &amp; Paint Supplies</a></li><li><a href="/Cat/Home-Decor/1653" title="Home Decor">Home Decor</a></li><li><a href="/Cat/Bed-Bath/1028" title="Bed &amp; Bath">Bed &amp; Bath</a></li><li><a href="/Cat/Laundry/4" title="Laundry Room Products">Laundry Room Products</a></li><li><a href="/Cat/Cleaning-Supplies/1500" title="Cleaning Supplies">Cleaning Supplies</a></li></ul></td>
 	</tr>
 </tbody></table>
 </li><li><a title="Lighting" href="/Cat/Lighting/1127"><span>Lighting</span></a><table>
@@ -170,7 +180,7 @@
 </tbody></table>
 </li><li><a title="Hardware" href="/Cat/Hardware/253"><span>Hardware</span></a><table>
 	<tbody><tr>
-		<td><ul><li><a href="/Cat/Cabinet-Hardware/1351" title="Cabinet Hardware">Cabinet Hardware</a></li><li><a href="/Cat/Door-Hardware/1396" title="Door Hardware">Door Hardware</a></li><li><a href="/Cat/Furniture-Hardware/1407" title="Furniture Hardware">Furniture Hardware</a></li><li><a href="/Cat/Shelf-Closet-Hardware/1610" title="Shelf &amp; Closet Hardware">Shelf &amp; Closet Hardware</a></li><li><a href="/Cat/Drawer-Slides-Hardware/1357/List" title="Drawer Hardware">Drawer Hardware</a></li><li><a href="/Cat/Window-Hardware/1463/List" title="Window Hardware">Window Hardware</a></li><li><a href="/Cat/Gate-Hardware/1412/List" title="Gate Hardware">Gate Hardware</a></li><li><a href="/Cat/Floor-Registers-Air-Returns/1195/List" title="Floor Registers &amp; Air Returns">Floor Registers &amp; Air Returns</a></li><li><a href="/Cat/Padlock-Combination-Locks/1378/List" title="Padlock &amp; Combination Locks">Padlock &amp; Combination Locks</a></li><li><a href="/Cat/Nuts-Bolts/1002/List" title="Nuts &amp; Bolts">Nuts &amp; Bolts</a></li><li><a href="/Cat/Screws/100/List" title="Screws">Screws</a></li><li><a href="/Cat/Nails/1427/List" title="Nails">Nails</a></li><li><a href="/Cat/Hanging-Kits/670/List" title="Hanging Kits">Hanging Kits</a></li></ul></td>
+		<td><ul><li><a href="/Cat/Cabinet-Hardware/1351" title="Cabinet Hardware">Cabinet Hardware</a></li><li><a href="/Cat/Door-Hardware/1396" title="Door Hardware">Door Hardware</a></li><li><a href="/Cat/Furniture-Hardware/1407" title="Furniture Hardware">Furniture Hardware</a></li><li><a href="/Cat/Shelf-Closet-Hardware/1610" title="Shelf &amp; Closet Hardware">Shelf &amp; Closet Hardware</a></li><li><a href="/Cat/Drawer-Slides-Hardware/1357/List" title="Drawer Hardware">Drawer Hardware</a></li><li><a href="/Cat/Window-Hardware/1463/List" title="Window Hardware">Window Hardware</a></li><li><a href="/Cat/Gate-Hardware/1412/List" title="Gate Hardware">Gate Hardware</a></li><li><a href="/Cat/Floor-Registers-Air-Returns/1195/List" title="Floor Registers &amp; Air Returns">Floor Registers &amp; Air Returns</a></li><li><a href="/Cat/Padlock-Combination-Locks/1378/List" title="Padlock &amp; Combination Locks">Padlock &amp; Combination Locks</a></li><li><a href="/Cat/Nuts-Bolts/1002/List" title="Nuts &amp; Bolts">Nuts &amp; Bolts</a></li><li><a href="/Cat/Screws/100/List" title="Screws">Screws</a></li><li><a href="/Cat/Nails/1427/List" title="Nails">Nails</a></li></ul></td>
 	</tr>
 </tbody></table>
 </li><li><a title="Water Heaters" href="/Cat/Water-Heaters/8"><span>Water Heaters</span></a><table>
@@ -180,7 +190,7 @@
 </tbody></table>
 </li><li><a title="Access Doors" href="/Cat/Access-Doors/606"><span>Access Doors</span></a><table>
 	<tbody><tr>
-		<td><ul><li><a href="/Cat/Flush-Universal-Access-Doors/607/List" title="Flush Universal Access Doors">Flush Universal Access Doors</a></li><li><a href="/Cat/Fire-Rated-Access-Doors/609" title="Fire Rated Access Doors">Fire Rated Access Doors</a></li><li><a href="/Cat/Recessed-Access-Doors/610/List" title="Recessed Access Doors">Recessed Access Doors</a></li><li><a href="/Cat/Drywall-Access-Doors/608/List" title="Drywall Access Doors">Drywall Access Doors</a></li><li><a href="/Cat/Plaster-Access-Doors/611/List" title="Plaster Access Doors">Plaster Access Doors</a></li><li><a href="/Cat/Exterior-Access-Doors/615/List" title="Exterior Access Doors">Exterior Access Doors</a></li><li><a href="/Cat/Specialty-Access-Doors/1019/List" title="Specialty Access Door">Specialty Access Door</a></li><li><a href="/Cat/Duct-Doors/614/List" title="Duct Doors">Duct Doors</a></li><li><a href="/Cat/Security-Access-Doors/1012/List" title="Security Access Doors">Security Access Doors</a></li><li><a href="/Cat/Walk-Through-Access-Doors/1030/List" title="Walk Through Access Doors">Walk Through Access Doors</a></li><li><a href="/Cat/Floor-Hatches/1031" title="Floor Hatches">Floor Hatches</a></li><li><a href="/Cat/Roof-Hatches/1042/List" title="Roof Hatches">Roof Hatches</a></li></ul></td>
+		<td><ul><li><a href="/Cat/Flush-Universal-Access-Doors/607/List" title="Flush Universal Access Doors">Flush Universal Access Doors</a></li><li><a href="/Cat/Fire-Rated-Access-Doors/609" title="Fire Rated Access Doors">Fire Rated Access Doors</a></li><li><a href="/Cat/Recessed-Access-Doors/610/List" title="Recessed Access Doors">Recessed Access Doors</a></li><li><a href="/Cat/Drywall-Access-Doors/608/List" title="Drywall Access Doors">Drywall Access Doors</a></li><li><a href="/Cat/Plaster-Access-Doors/611/List" title="Plaster Access Doors">Plaster Access Doors</a></li><li><a href="/Cat/Specialty-Access-Doors/1019/List" title="Specialty Access Door">Specialty Access Door</a></li><li><a href="/Cat/Duct-Doors/614/List" title="Duct Doors">Duct Doors</a></li><li><a href="/Cat/Security-Access-Doors/1012/List" title="Security Access Doors">Security Access Doors</a></li><li><a href="/Cat/Walk-Through-Access-Doors/1030/List" title="Walk Through Access Doors">Walk Through Access Doors</a></li><li><a href="/Cat/Floor-Hatches/1031" title="Floor Hatches">Floor Hatches</a></li><li><a href="/Cat/Roof-Hatches/1042/List" title="Roof Hatches">Roof Hatches</a></li></ul></td>
 	</tr>
 </tbody></table>
 </li><li><a title="Pumps" href="/Cat/Pumps/10"><span>Pumps</span></a><table>
@@ -190,7 +200,7 @@
 </tbody></table>
 </li><li><a title="Tools" href="/Cat/Tools/7"><span>Tools</span></a><table>
 	<tbody><tr>
-		<td><ul><li><a href="/Cat/Power-Tools/1048" title="Power Tools">Power Tools</a></li><li><a href="/Cat/Hand-Tools/527" title="Hand Tools">Hand Tools</a></li><li><a href="/Cat/Air-Tools/291" title="Air Tools">Air Tools</a></li><li><a href="/Cat/Pipe-Cleaners-Inspection-Systems/356" title="Pipe Cleaners &amp; Inspection Systems">Pipe Cleaners &amp; Inspection Systems</a></li><li><a href="/Cat/Pipe-Working-Tools/634" title="Pipe Working Tools">Pipe Working Tools</a></li><li><a href="/Cat/Soldering-Brazing-Welding-Equipment/417" title="Soldering &amp; Welding Equipment">Soldering &amp; Welding Equipment</a></li><li><a href="/Cat/Tool-Organizers/133" title="Tool Bags">Tool Bags</a></li><li><a href="/Cat/Electrical-Tools/1345/List" title="Electrical Tools">Electrical Tools</a></li><li><a href="/Cat/Generators/12/List" title="Generators">Generators</a></li><li><a href="/Cat/Drywall-Tools/1712/List" title="Drywall Tools">Drywall Tools</a></li><li><a href="/Cat/Tile-Tools/1474/List" title="Tile Tools">Tile Tools</a></li><li><a href="/Cat/Ladders-and-Accessories/1627/List" title="Ladders">Ladders</a></li><li><a href="/Cat/Chains-Cables-and-Ropes/1475" title="Cables &amp; Chains">Cables &amp; Chains</a></li><li><a href="/Cat/Safety-Protection/1024" title="Safety &amp; Protection">Safety &amp; Protection</a></li></ul></td>
+		<td><ul><li><a href="/Cat/Power-Tools/1048" title="Power Tools">Power Tools</a></li><li><a href="/Cat/Hand-Tools/527" title="Hand Tools">Hand Tools</a></li><li><a href="/Cat/Air-Tools/291" title="Air Tools">Air Tools</a></li><li><a href="/Cat/Pipe-Cleaners-Inspection-Systems/356" title="Pipe Cleaners &amp; Inspection Systems">Pipe Cleaners &amp; Inspection Systems</a></li><li><a href="/Cat/Pipe-Working-Tools/634" title="Pipe Working Tools">Pipe Working Tools</a></li><li><a href="/Cat/Soldering-Brazing-Welding-Equipment/417" title="Soldering &amp; Welding Equipment">Soldering &amp; Welding Equipment</a></li><li><a href="/Cat/Tool-Organizers/133" title="Tool Bags">Tool Bags</a></li><li><a href="/Cat/Electrical-Tools/1345/List" title="Electrical Tools">Electrical Tools</a></li><li><a href="/Cat/Drywall-Tools/1712/List" title="Drywall Tools">Drywall Tools</a></li><li><a href="/Cat/Tile-Tools/1474/List" title="Tile Tools">Tile Tools</a></li></ul></td>
 	</tr>
 </tbody></table>
 </li><li><a title="Commercial" href="/Cat/Commercial/3"><span>Commercial</span></a><table>
@@ -309,9 +319,6 @@ We periodically send emails such as, account emails, order emails, product email
 <br>
 <b>Contact Information and Third Party Data</b><br>
 If you contact PlumberSurplus.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.<br>
-<br>
-<b>Product Reviews</b><br>
-PlumberSurplus.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by PlumberSurplus.com. When you submit a product review to PlumberSurplus.com, you are also subject to PowerReviews' terms of use and privacy policies (see <a href="http://www.buzzillions.com/public/legal/index_en_US.html" rel="nofollow">http://www.buzzillions.com/public/legal/index_en_US.html</a>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both <a href="http://www.Buzzillions.com" rel="nofollow">http://www.Buzzillions.com</a> and PlumberSurplus.com.<br>
 <br>
 <b>Customer Service</b><br>
 We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information.<br>
@@ -604,7 +611,7 @@ Riverside, CA 92514<br>
 
 <!-- Third Party Tracking Code -->
 
-  <!-- PSWEB02 -->
+  <!-- PSWEB01 -->
 
 
 
