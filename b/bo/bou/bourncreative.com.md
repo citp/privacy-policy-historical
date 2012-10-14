@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604082538id_/http%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014043214id_/http%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Bourn Creative
 
 Bourn Creative, LLC’s Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Bourn Creative, LLC anytime you interact with Bourn Creative, LLC, such as when you visit one of our websites, when you purchase Bourn Creative, LLC products and services, or when you call our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Bourn Creative, LLC, and we go to great lengths to protect it.
 
@@ -10,11 +10,11 @@ Some portions of this privacy policy may not apply to information that you provi
 
 This privacy policy is part of the Bourn Creative, LLC website terms and conditions which governs your use of this website in general, our other websites, and the Bourn Creative, LLC affiliate terms and conditions, which governs your use of and participation in the Bourn Creative, LLC affiliate program.
 
-##### Why We Collect Personal Information
+### Why We Collect Personal Information
 
 We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
 
-##### What Information We Collect and How We May Use It
+### What Information We Collect and How We May Use It
 
 There are a number of situations in which your personal information may help us give you better products. For example:
 
@@ -25,7 +25,7 @@ We collect personal information about users of our websites through activities s
 
 If you post blog comments, use a bulletin board, chat room or other similar features on a Bourn Creative, LLC website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Bourn Creative, LLC is not responsible for the personally identifiable information you choose to submit in these forums. For example, if you choose to make information, which was previously non-public, available by enabling certain user features, Bourn Creative, LLC will collect that information from your interaction and the information will become publicly available.
 
-##### When We Disclose Your Information
+### When We Disclose Your Information
 
 Bourn Creative, LLC takes your privacy very seriously. Bourn Creative, LLC does not sell or rent your contact information to other marketers.
 
@@ -47,7 +47,7 @@ Except as otherwise disclosed to you, we will not sell, rent or disclose your pe
 > 
 > We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of the website, or anyone else that could be harmed by such activities.
 
-##### How We Protect Your Personal Information
+### How We Protect Your Personal Information
 
 Bourn Creative, LLC takes precautions – including administrative, technical, and physical measures – to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
@@ -63,11 +63,11 @@ You can help us by also taking precautions to protect your personal data when yo
 > 
 > If you contact us by e-mail or a “contact us” form or similar feature on our website, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. Do not send sensitive information (such as payment card information, social security numbers, employer identification numbers, passwords, or pin numbers) to us via e-mail or via a “contact us” form or similar feature on our website. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission. In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification.
 
-##### Minors
+### Minors
 
 Bourn Creative, LLC recognizes that parents, guardians, or other adults may purchase our products for family use, including use by minors. We do not knowingly collect personal information from children under 13 for marketing purposes, but because some information is collected electronically, it can appear to be the personal information of the Bourn Creative, LLC purchaser of the product, and will be treated as such by this privacy policy. If a child under 13 submits personal information to Bourn Creative, LLC and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.
 
-##### Cookies and Other Technologies
+### Cookies and Other Technologies
 
 As is standard practice on many websites, the Bourn Creative, LLC websites use cookies, third party software, and other technologies to track anonymous user data to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services. We use cookies and other technologies to study traffic patterns on our websites, to make it even more rewarding as well as to study the effectiveness of our customer communications. We also use cookies to customize your experience and provide greater convenience each time you interact with us.
 
@@ -85,7 +85,7 @@ In addition we may use pixel tags or other similar technology to tell us what pa
 
 Pixel tags and other similar technologies also enable us to send email messages in a format customers can read. And they tell us whether emails have been opened to ensure that we’re sending only messages that are of interest to our customers.
 
-##### Our Company Wide Commitment to Your Privacy
+### Our Company Wide Commitment to Your Privacy
 
 As stated, Bourn Creative, LLC takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to Bourn Creative, LLC employees and strictly enforce privacy safeguards within the company.
 
@@ -93,19 +93,19 @@ As stated, Bourn Creative, LLC takes protecting your privacy very seriously. To 
 > 
 > You may have the right to “opt in” and “opt out” of certain uses of your personal information. For example, at the time you are requested to provide personal information on any of our websites, you may have the opportunity to elect to, or not to receive correspondence from us. You may opt out of any email marketing communications with Bourn Creative by clicking the opt-out link in our messages, or by sending an email to inquiries(at)bourncreative.com stating that you would like to be removed from a specific marketing list, or all communications entirely. Please note that you cannot unsubscribe or opt-out from certain correspondence from us, including messages relating to your account transactions. You may be contacted by Bourn Creative, LLC in connection with your relationship to us as a client, or as follow up from an event, class, purchase, or other occasion.
 
-##### Link Information
+### Link Information
 
 We try to only link to other reputable websites that do not engage in improper business practices, and when you are on any of our websites you may have the opportunity to visit, or “click-through”, to other websites, blogs, or other electronic media not operated by Bourn Creative, LLC. These sites may collect personal information about you or be a security risk. Bourn Creative, LLC does not control websites that are operated by these entities and is not responsible for the practices of the other websites. The privacy practices and policies of any linked websites are the sole responsibility of the other websites. We recommend that you review the privacy policy of any website that you visit from a link on any of our websites.
 
-##### Business Transfer
+### Business Transfer
 
 In the event that Bourn Creative, LLC or substantially all of its assets are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.
 
-##### International Users
+### International Users
 
 Bourn Creative, LLC abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union.
 
-##### Privacy Policy Changes
+### Privacy Policy Changes
 
 Bourn Creative, LLC reserves the right to change or update this privacy policy, or any other of our policies or practices, at any time without notice. Any changes or updates will be effective immediately upon posting to this website. Under certain circumstances, we may also elect to notify you of changes or updates to our privacy policy by additional means, such as posting a notice on the front page of our website to sending you an e-mail. We encourage you to review this privacy policy often for changes.
 
