@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catch.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510201347id_/https%3A//catch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132123id_/https%3A//catch.com/legal/privacy) for the most accurate reproduction.*
 
 # Catch Notes Privacy Policy | Catch.com
 
@@ -97,7 +97,7 @@ Catch.com may share your data with others outside of Catch.com only under the fo
 
 ### Your Notes are Private Until You Choose to Share
 
-The security and privacy of your personal notes content is our top priority. We do not see your notes. We do not share your notes. Only you can access your notes, and only you can share your notes and make them publicly accessible. Our Shared Streams feature also gives you the ability to put your notes in a Stream and allows you to share that Stream only with a person that you choose. That person can then share the Stream containing your note with other persons of her choice by adding these persons to your Stream. However, you have the ultimate control over who can access a Shared Stream that you create and you may elect to remove any unwanted persons from your Stream at any time after they have been added to your Stream. Once removed, these persons will no longer be able to see notes in your Stream.
+The security and privacy of your personal notes content is our top priority. We do not see your notes. We do not share your notes. Only you can access your notes, and only you can share your notes and make them publicly accessible. Our Shared Spaces feature also gives you the ability to put your notes in a Space and allows you to share that Space only with a person that you choose. That person can then share the Space containing your note with other persons of her choice by adding these persons to your Space. However, you have the ultimate control over who can access a Shared Space that you create and you may elect to remove any unwanted persons from your Space at any time after they have been added to your Space. Once removed, these persons will no longer be able to see notes in your Space.
 
   
 
@@ -146,7 +146,7 @@ The Catch.com web site allows you to create a “Catch.com Username” based on 
 
 ### You Can Share Your Stuff
 
-The Shared Stream feature allows you to share your notes with others. However, any data that you post to a Shared Stream may be read, collected or used by other users with access to that Shared Stream, and could enable others to send you unsolicited messages. Catch.com enables you to determine whether or not to post personal or otherwise sensitive data to a Shared Stream, and so you should carefully consider how you use the services. Catch.com is not responsible for any publication or use of any personal data you choose to post to a Shared Stream.
+The Shared Space feature allows you to share your notes with others. However, any data that you post to a Shared Space may be read, collected or used by other users with access to that Shared Space, and could enable others to send you unsolicited messages. Catch.com enables you to determine whether or not to post personal or otherwise sensitive data to a Shared Space, and so you should carefully consider how you use the services. Catch.com is not responsible for any publication or use of any personal data you choose to post to a Shared Space.
 
   
 
