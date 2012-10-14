@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbella.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505053100id_/http%3A//fashionbella.com/privacy.php%3FosCsid%3Dc1b03d037ce373920dfa3ee5aff1e01b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbella.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014190723id_/http%3A//fashionbella.com/privacy.php) for the most accurate reproduction.*
 
 # Wholesale Jewelry | Costume & Boutique Style - Fashion Bella
 
