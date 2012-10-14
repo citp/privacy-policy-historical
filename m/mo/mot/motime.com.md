@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610181934id_/http%3A//www.motime.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014134120id_/http%3A//www.motime.com/help/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -77,4 +77,4 @@ Security of Personal Information.** We maintain commercially reasonable standard
  Terms of Use may be reviewed at any time at [http://www.motime.com/help/terms  
 ](http://www.motime.com/help/terms/)Subscription Agreement may be reviewed at any time at <http://www.motime.com/help/subagreement/>[  
 ](http://www.motime.com/help/subagreement/)   
-© Copyright 2006 - 2011 Dada Entertainment LLC. All Rights Reserved
+© Copyright 2006 - 2012 Dada Entertainment LLC. All Rights Reserved
