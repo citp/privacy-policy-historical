@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618162932id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014122614id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cprogramming.com
 
@@ -12,7 +12,7 @@ The server stores your host, your operating system, your browser, and referring 
 
 ### Message Board
 
-You are asked but not required to register when you use the message board. You are not required to give your personal information when signing up and creating a profile. We do not use the information in visitor profiles for any purpose. The message board also tracks IP addresses of visitors. We do not use this information to track individuals, except in cases of visitors spamming the message board. If you register to use the message board, you will be asked for an email address; we do not, and do not intend to, sell your email address to spam houses. 
+You are asked but not required to register when you use the message board. You are not required to give your personal information when signing up and creating a profile. We do not use the information in visitor profiles for any purpose. When creating a profile, you are required to provide your date of birth. This information is used to comply with US federal law, which requires us to obtain parental permission before allowing children under 13 to create an account. Your birth date information is not used for any other purpose. The message board also tracks IP addresses of visitors. We do not use this information to track individuals, except in cases of visitors spamming the message board. If you register to use the message board, you will be asked for an email address; we do not, and do not intend to, sell your email address to spam houses. 
 
 ### BURST!Media
 
@@ -25,6 +25,8 @@ You may choose to sign up for the Cprogramming.com mailing list. If you do so, C
 ### Purchases
 
 You may choose to purchase products for sale from Cprogramming.com, such as the ebook Jumping into C++. If you buy a product from us, we will recieve basic information about you, such as your name, email address, IP address, country of residence, and, if you choose to enter it, your mailing address. Cprogramming.com may use your email contact information to send you information about your purchase, such as notification of new releases or formats available. Cprogramming.com does not have access to or store your credit card number or other financial information. This information is available solely to the payment processor you select (i.e. PayPal or Google Checkout). 
+
+Cprogramming.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Cprogramming.com does not retain or have access to any information submitted by you to Amazon.com. To help us evaluate the performance of the affiliate program, an anonymized, aggregated list of products purchased through the Cprogramming.com Amazon affiliate advertising program is displayed to us. Cprogramming.com does not receive any information connecting these purchases to individuals. 
 
 ### Other services
 
