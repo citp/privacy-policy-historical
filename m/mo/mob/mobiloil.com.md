@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiloil.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531141338id_/http%3A//exxonmobil.com/Global-All/Legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiloil.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014134157id_/http%3A//exxonmobil.com/Global-All/Legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -42,7 +42,7 @@ Personal data collected by ExxonMobil may be transferred among its various divis
 
 We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Statement.
 
-If you are located in the E.E.A. or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the E.E.A. or Switzerland. ExxonMobil Global Services Company, an affiliate of Exxon Mobil Corporation, is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of Personal Information transferred from the E.E.A. or Switzerland to ExxonMobil Global Services Company in the U.S. [Click here to view our Safe Harbor Privacy Notice](http://www.exxonmobil.com/Global-All/Legal/safeharbor.asp).
+If you are located in the E.E.A. or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the E.E.A. or Switzerland. ExxonMobil Global Services Company, an affiliate of Exxon Mobil Corporation, is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of Personal Information transferred from the E.E.A. or Switzerland to ExxonMobil Global Services Company in the U.S. [Click here to view our Safe Harbor Privacy Notice](http://www.exxonmobil.com/Global-All/Legal/safeharbor.aspx).
 
  **Sensitive Information  
 **  
