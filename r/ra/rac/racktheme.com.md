@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the racktheme.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414221850id_/http%3A//www.racktheme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racktheme.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014080014id_/http%3A//www.racktheme.com/privacy) for the most accurate reproduction.*
 
-# RackTheme - Free Premium WordPress Themes, Joomla, Magento, OsCommerce, ZenCart, Drupal Templates
+# Premium wordpress euro themes | Privacy
 
 This website/blog uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [Google’s Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
 
