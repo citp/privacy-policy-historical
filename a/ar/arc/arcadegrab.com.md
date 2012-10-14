@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arcadegrab.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526114832id_/http%3A//www.arcadegrab.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadegrab.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014123217id_/http%3A//arcadegrab.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Best Online Games | Fun Flash Games
-
-Privacy Policy 
+# Privacy Policy - Best Online Games | Cool Flash Games
 
 #### ArcadeGrab.com does not target its games and services to ages under 13, but we make a great deal of effort to protect those under 13. We do not ask users under the age of 13 to disclose any more information than necessary for them to participate in a particular activity (such as registering).
 
@@ -26,8 +24,3 @@ If you have any questions regarding the privacy policy of, please contact us at 
 Last updated , 22 June 4:43 pm EST
 
  **We respect the privacy and confidentiality of all our visitors**
-
-Log-in to save favourites
-
-  
-
