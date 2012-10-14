@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523120148id_/https%3A//www.associatedbank.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014213316id_/https%3A//www.associatedbank.com/security/privacy) for the most accurate reproduction.*
 
 # Privacy
 
