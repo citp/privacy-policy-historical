@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121195002id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014022151id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
 
 # What is your privacy policy? - LookAgain Help
 
-  * [Help](https://web.archive.org/web/20120121195002id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20120121195002id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
+  * [Help](https://web.archive.org/web/20121014022151id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20121014022151id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
 
 
 
