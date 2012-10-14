@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518125913id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014025308id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Americaneagle.com
 
@@ -73,6 +73,9 @@ Log Files
 As is true of most Web sites, we use third-party tracking services to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+
+Website Analytics  
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information (PII) that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve our website, make it more user-friendly and monitor that it is performing correctly. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 #### Links To Other Sites
 
