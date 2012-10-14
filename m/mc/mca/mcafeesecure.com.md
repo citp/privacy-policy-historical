@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614115758id_/http%3A//www.mcafee.com/us/about/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014162655id_/http%3A//www.mcafee.com/us/about/legal/privacy.aspx) for the most accurate reproduction.*
 
 # McAfee Customer Privacy Policy | McAfee
 
@@ -89,9 +89,9 @@ Our customers’ personal information is stored on our servers currently located
 
 In addition, McAfee may transfer your personal information to our vendors outside of the EEA, as described in this privacy policy. At present, the laws of the United States and other countries outside the EEA (except for Argentina, Canada, Isle of Man, Guernsey, and Switzerland) have not been approved by the European Commission as providing “adequate protection” for personal information within the meaning of the EU Data Protection Directive (95/46/EC).
 
-McAfee imposes strict requirements on our vendors outside of the EEA regarding the use and protection of our customers’ personal information. In addition, with regard to our consumer customers, McAfee abides by the Safe Harbor Framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union.
+McAfee imposes strict requirements on our vendors outside of the EEA regarding the use and protection of our customers’ personal information. In addition, with regard to our consumer customers, McAfee abides by the Safe Harbor Framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union and Switzerland. For more information, see the [McAfee Safe Harbor Privacy Policy](https://web.archive.org/us/about/legal/safe-harbor-policy.aspx).
 
-By purchasing or using our products from a country in the EEA and submitting your personal information to us, we deem that you are consenting to the processing of your personal information in the United States or other country outside of the EEA.
+By purchasing or using our products from a country in the EEA or Switzerland and submitting your personal information to us, we deem that you are consenting to the processing of your personal information in the United States or other country outside of the EEA or Switzerland.
 
 **XII.   How often does McAfee update its privacy policy?**  
 We may update this policy at any time by posting additions or modifications on this web page. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by email or via a prominent notice on our website and where necessary we will seek the prior consent of our users.
@@ -99,4 +99,4 @@ We may update this policy at any time by posting additions or modifications on t
 **XIII.   Contact us**  
 If you have questions or concerns regarding this Privacy Policy, you should first contact the Privacy Program Office of McAfee, Inc. by emailing [privacy@mcafee.com](mailto:privacy@mcafee.com), by calling 972-963-7902, or by sending a letter to Privacy Program Office McAfee, Inc. 2821 Mission College Blvd., Santa Clara, CA 95054. In the event that you do not receive a response, please contact the Consumer Privacy Response Team of McAfee, Inc. by emailing [consumer_privacy_response_team@mcafee.com](mailto:consumer_privacy_response_team@mcafee.com) or by sending a letter to Consumer Privacy Response Team at 5000 Headquarters Drive, Plano, Texas 75024.
 
-This privacy policy was last modified on March 9, 2010.
+This privacy policy was last modified on June 25, 2012.
