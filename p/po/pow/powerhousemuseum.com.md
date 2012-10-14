@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531102354id_/http%3A//www.powerhousemuseum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014162834id_/http%3A//www.powerhousemuseum.com/privacy) for the most accurate reproduction.*
 
 # Powerhouse Museum - Online privacy statement
 
@@ -7,7 +7,6 @@ The Powerhouse Museum is committed to protecting your privacy, including while a
 
   * www.powerhousemuseum.com, www.powerhousemuseum.com.au
   * www.sydneyoberservatory.com, www.sydneyobservatory.com.au
-  * www.soundbyte.org 
   * www.sydneydesign.com.au
   * www.dhub.org
   * www.ultimosciencefestival.com
