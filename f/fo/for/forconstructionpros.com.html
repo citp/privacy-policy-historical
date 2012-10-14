@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forconstructionpros.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509230334id_/http%3A//www.forconstructionpros.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forconstructionpros.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014061448id_/http%3A//www.forconstructionpros.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
@@ -17,15 +17,30 @@
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.forconstructionpros.com/sites/www.forconstructionpros.com/merrick/files/css/master.orion.css?m=1336595603">
+   <link rel="stylesheet" type="text/css" href="http://www.forconstructionpros.com/sites/www.forconstructionpros.com/merrick/files/css/master.orion.css?m=1349982849">
 
    <!-- End included CSS -->
 
    <!-- Begin included scripts -->
-   <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+   <script type="text/javascript" defer="" async="" src="/lib/piwik/piwik.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_2MeYWJ9yJ8jULT5sZqtB1dQ9rPtTpQaou4sonvR0shZ8QyNb9S-IBxJ0KqoM4csT">
+
+{
+  siteName: 'forconstructionpros.com',
+  autoLogin: true,
+  enabledProviders: 'facebook,twitter,google,linkedin',
+  sessionExpiration: 0,                         // expire the user login session when the browser closes
+  connectWithoutLoginBehavior: 'alwaysLogin',   // This will cause Gigya's 'Adding Connection' operation (i.e. when the user clicks one of the social network buttons within the Social Plugins)
+  newUsersPendingRegistration: true            // When a new user logs-in (registers) via Gigya his new account is not considered final until socialize.notifyRegistration is called.
+}
+
+</script>
 <script type="text/javascript" src="http://ox-d.forconstructionpros.com/w/1.0/jstag"></script>
-<script type="text/javascript" src="http://www.forconstructionpros.com/sites/www.forconstructionpros.com/merrick/files/js/04c6f6949d9a008a3ffeb9d08c6f05ef.js"></script>
+<script type="text/javascript" src="http://www.forconstructionpros.com/sites/www.forconstructionpros.com/merrick/files/js/59880c2f9034fcc37f4b135992fbd135.js"></script>
 
 
    
@@ -47,9 +62,12 @@ var _gaq = _gaq || [];
                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                   })();
 
-   
+   var default_fb_image = '/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/site_logo_fb.png';
+
+
+
    var OX_4dc95e69a1e2d = OX();
-   OX_4dc95e69a1e2d.addAdUnit('77519,77521,77526,77527,77523,77524,77520,77528,77529,77530');
+   OX_4dc95e69a1e2d.addAdUnit('77519,77521,77526,77527,77523,77520,77528,77529,77530');
    
    
       OX_4dc95e69a1e2d.addVariable('env','live');
@@ -76,16 +94,30 @@ $(document).ready(function(){
 
    
 
-   $('.dropdown').parent().hover(function() {
 
-      /*$('.dropdown_nav').each(function() {
-         $(this).hide(0);
-      });*/
+   /*  Navigation Dropdown Menu JS  */
+
+   
+   $('.dropdown').parent().hover(function() {
 
       $(this).find('.dropdown').next('.dropdown_nav').stop(false,false).show();//.slideDown('fast');
 
    }, function() {
       $(this).find('.dropdown').next('.dropdown_nav').hide(0);
+   });
+   
+   
+   /*  LoggedIn Drop Down Menu JS  */
+   
+   
+   $('.logged_in_dropdown').parent().hover(function() {
+   
+      $(this).find('.logged_in_dropdown').next('.dropdown_nav').stop(false,false).show().slideDown('fast');
+      $(this).parents('#logged_in').addClass('active');
+
+   }, function() {
+      $(this).find('.logged_in_dropdown').next('.dropdown_nav').hide(0);
+      $(this).parents('#logged_in').removeClass('active');
    });
 
 
@@ -104,17 +136,17 @@ $(document).ready(function(){
    /* Animate the ad gracefully. */
    var timeout = 15000;
    if (typeof $('#welcome_ad')[0] != 'undefined' && $('#welcome_ad')[0].nodeName == 'DIV'){
-      $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800); });
+      $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); }); });
       $('#welcome_ad').animate({ height: 520 }, 800);
       if ($('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
-      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800);", timeout);
+      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
    } else {
       if ($('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
-      setTimeout("$('#welcome_frame').animate({ height: 0 }, 800);", timeout);
+      setTimeout("$('#welcome_frame').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
    }
 
 
@@ -125,8 +157,7 @@ default_text('EMAIL_ADDRESS');
 
    $('#magazine_sub_hover').tooltip({ effect: 'slide', tipClass: 'magazine_tooltip', relative: true, position: 'top center', offset: [10, 0]});
    $('.fan_box .profileimage').hide();
-
-tabbed_list_init('social_activity');});
+});
 //]]>
 </script>
 
@@ -134,7 +165,7 @@ tabbed_list_init('social_activity');});
    
 <script type="text/javascript">
 //<![CDATA[
-$(window).load(function(){window.setTimeout('facebook_init()', 3000);});
+$(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 //]]>
 </script>
 
@@ -144,38 +175,9 @@ $(window).load(function(){window.setTimeout('facebook_init()', 3000);});
 <body>
 
    <!-- Body Javascript includes -->
-<!-- SiteCatalyst code version: H.23.3.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
+<!-- Site Catalyst -->
 
-<script type="text/javascript">
-   var s_account="cygnusfcp";
-   var s_domain_name="forconstructionpros.com";
-</script>
-
-
-<script language="JavaScript" type="text/javascript" src="/app/merrick/themes/orion/js/s_code_23_3.js"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-
-s.pageName="privacy-policy";
-s.channel="privacy-policy";
-s.prop1="privacy-policy";
-s.prop2="privacy-policy";
-s.prop3="privacy-policy";
-s.prop9="orion";
-s.eVar9="orion";
-s.events="event1";
-s.hier1="privacy-policy";
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://cygnus.122.2o7.net/b/ss/cygnusfcp/1/H.23.3--NS/0"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.23.3. -->
-
+<!-- Google Analytics -->
 
    
    
@@ -183,6 +185,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
+<!-- Quantcast -->
 
    
 
@@ -194,29 +197,60 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
+<!-- jQuery -->
+
+
+<!-- jQuery Tools -->
+
+
+<!-- jQueryUI -->
+
+
+<!-- jQuery Select Box -->
+
+
+<!-- jqBookmark -->
+
+
+<!-- jQuery Cookie -->
+
+
+<!-- jQuery Autocomplete -->
+
+
+<!-- Modernizr -->
+
+
+<!-- Background Ad JS (custom) -->
+
+
+<!-- addOptions wrapper (custom) -->
 
 
 
+<!-- Brightcove -->
 
 
 
+<!-- ShareThis -->
+
+<!-- Gigya Analytics -->
+
+
+<!-- Merrick App and Theme JS -->
 
 
 
+<!-- LinkedIn -->
+
+<!-- Twitter -->
+
+<!-- OAS Ad Buffer -->
 
 
+<!-- Piwik -->
 
 
-
-
-
-
-
-
-
-
-
-   
 
 
 
@@ -231,6 +265,19 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <!-- Bizo -->
   
+
+
+
+
+
+<!-- socialize.js script should only be included once -->
+
+
+
+
+
+
+
 
 
 <!-- Background container -->
@@ -253,18 +300,20 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <section id="header_ad">
 <div class="grid_1_9">
    <aside class="ad_728x90">
-   <div class="ad_tracking" rel="77519">
+         <div class="ad_tracking" rel="77519" id="openx_adunit_id__77519">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("77519");
    </script>
 </div>
+      
+      
 </aside>
 
 </div>
 <div class="grid_10_12">
       <aside class="header_ad">
-         <a href="http://www.forconstructionpros.com/media-center">
-<img src="http://r2.cygnuspub.com/files/cygnus/image/FCP/2012/APR/ccnvideofordad225x90_10695460.png" alt="Video Network-Ford Sponsorship" border="0">
+         <a href="http://www.forconstructionpros.com/latest-news/#cnt">
+<img src="http://r3.cygnuspub.com/files/cygnus/image/FCP/2012/APR/ccncnt_ad225x90_10695468.png" alt="Construction News Tracker corner ad" border="0">
 </a>
       </aside>
 </div>
@@ -275,10 +324,16 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
          <img src="http://www.forconstructionpros.com/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/site_logo.png" alt=""><br>
       </a>
 
+         <div class="primary">
+   	      <a id="login_link" href="/reg/login/display?referer=/privacy-policy" class="login button_primary button grid_item" title="Sign In">Login</a>
+      <a id="register_link" href="/reg/register/display?referer=/privacy-policy" class="button_secondary button register grid_item alpha" title="Register for For Construction Pros">Register</a>
       
-   <div class="primary">
-   	      <a href="javascript: void(0)" id="register_button" class="form_modal button_primary button register grid_item alpha" data-block="register" title="Register for For Construction Pros" rel="#page_overlay">Register</a>
-      <a href="javascript: void(0)" class="form_modal login button_secondary button grid_item" data-block="login" title="Sign In" rel="#page_overlay">Login</a>
+      <div class="social_login grid_item">
+         <script type="text/javascript">
+            gigya.socialize.showLoginUI(gigya_showloginui_params);
+         </script>
+         <div id="loginDiv"></div>
+      </div>
       <div class="grid_item omega">
          <a class="why_register" href="/why_register">Why register?</a>
          <span class="register_tagline">Enhance Your Experience</span>
@@ -295,24 +350,11 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <span class="bookmark primary"><a href="#" class="jqbookmark">Bookmark</a></span>
 </div>
 <div class="facebook_like_button">
-    <fb:like href="http%3A%2F%2Fwww.forconstructionpros.com%2Fprivacy-policy%3Futm_source%3DFacebook%26utm_medium%3Dsocial%26campaign%3Duser" layout="button_count" show_faces="false" width="0"></fb:like>
-
+    
 </div>
 <div class="google_plus_one_button">
-    <!-- Place this tag where you want the +1 button to render -->
-<g:plusone size="medium"></g:plusone>
-
-<!--  Place this tag after the last plusone tag -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-<div class="weather">
-    <script type="text/javascript">
+   <div class="weather">
+       <script type="text/javascript">
 <!--
 function submitenter(myfield,e)
 {
@@ -334,13 +376,14 @@ else
 </script>
 
 
-<div style="width: 165px; height: 100px; position: absolute; top: -45px; right: -140px; overflow: hidden;"><div id="NetweatherContainer" style="height: 48px;">
+<div style="width: 165px; height: 100px; position: absolute; top: -25px; right: -140px; overflow: hidden;"><div id="NetweatherContainer" style="height: 48px;">
 <script src="http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&amp;tStyle=whteYell&amp;logo=0&amp;zipcode=53538&amp;lang=eng&amp;size=8&amp;theme=blue&amp;metric=0&amp;target=_blank">
 </script>
 </div>
 </div>
-</div>    
+   </div>
 </div>
+
          
 
 <form id="site_search_form" name="site_search_form" title="Search" class="search site_search_form" action="http://www.forconstructionpros.com/search">
@@ -365,8 +408,8 @@ else
 	      <li class="nav_magazine"><a href="http://www.forconstructionpros.com/magazine" target=""><span>Magazines</span></a></li>
 	      <li class="nav_careers"><a href="http://www.forconstructionpros.com/careers" target=""><span>Careers</span></a></li>
 	      <li class="nav_events"><a href="http://www.forconstructionpros.com/events" target=""><span>Events</span></a></li>
-	      <li class="nav_directory"><a href="http://www.forconstructionpros.com/directory" target=""><span>Equipment Network</span></a></li>
-	      <li class="nav_contractors-best-friend last"><a href="http://www.forconstructionpros.com/contractors-best-friend" target=""><span>Contractor's Best Friend</span></a></li>
+	      <li class="nav_directory"><a href="http://www.forconstructionpros.com/directory" target=""><span>Buyers Guide</span></a></li>
+	      <li class="nav_project-leads last"><a href="http://www.forconstructionpros.com/project-leads" target=""><span>Project Leads</span></a></li>
 	   </ul>
    <!-- Secondary navigation -->
    <ul class="secondary location_home clearfix">
@@ -383,8 +426,9 @@ else
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.forconstructionpros.com/topics/commercial-construction/underground" title="Underground" target="">Underground</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -405,8 +449,9 @@ else
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.forconstructionpros.com/topics/pavement-maintenance/asphalt-paving" title="Asphalt Paving" target="">Asphalt Paving</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -420,8 +465,9 @@ else
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.forconstructionpros.com/topics/concrete/repair" title="Repair" target="">Repair</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -435,8 +481,9 @@ else
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.forconstructionpros.com/topics/road-building/preservation" title="Preservation" target="">Preservation</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -452,8 +499,9 @@ else
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.forconstructionpros.com/topics/fleet-management/selection" title="Selection" target="">Selection</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -469,8 +517,9 @@ else
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.forconstructionpros.com/topics/business-management/technology" title="Technology" target="">Technology</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -530,39 +579,28 @@ else
 			<section>
    
    <section class="connect_social block">
-    <span class="join_us grid_item">Follow FCP on:</span>
 
-    <a class="facebook grid_item" href="http://www.facebook.com/ForConstructionPros" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/facebook.png" alt="Facebook Icon">
-    </a>
+    <span class="facebook_text grid_item">Follow us on:</span>
 
-    <a class="linkedin grid_item" href="http://www.linkedin.com/groupInvitation?groupID=2676745" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/linkedin.png" alt="LinkedIn Icon">
-    </a>
+    <div id="connect_social_icons"></div>
 
-    <a class="twitter grid_item" href="http://twitter.com/4ConstructnPros" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/twitter.png" alt="Twitter Icon">
-    </a>
-    
-    <div class="grid_item mobile">
-        <div class="mobile_text grid_item">Mobile:</div> 
-        
-        <a class="mobile_image grid_item" href="http://mobile.forconstructionpros.com/privacy-policy">
-            <img src="/app/merrick/themes/orion/css/images/mobile.png" alt="Mobile Icon">
-        </a>  
-    </div>
-    
-    <!--div class="grid_item rss">
-        
-        <a class="rss_image grid_item" href="Array">
-            <img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/rss.png" alt="RSS Feed Icon">
-        </a>  
-    </div-->
+
+
+
 
     <div class="clear"></div>
 </section>
 
 
+
+   
+   <section class="tcbf_sidebar block_secondary">
+<a href="/contractors-best-friend" title="The Contractor's Best Friend">
+      <h4>Click here to visit...</h4>
+      <img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/TCBF_Logo.png" border="0">
+</a>
+</section>
+<div class="clear_gap"></div>
 
    
    
@@ -575,9 +613,9 @@ else
       <h4 class="primary">Sign up for FREE email alerts!</h4>
    
       <div class="signup">
-         <form id="newsletter_signup_form" action="/register/step1" method="get" name="newsletter_signup_form">
+         <form id="newsletter_signup_form" action="/reg/newsletter/display" method="get" name="newsletter_signup_form">
             <input type="email" class="newsletter_signup_email" id="newsletter_signup_form_email" name="email" value="" title="Enter your e-mail address">
-            <a rel="#page_overlay" class="button_primary_grey button form_modal" data-block="register" data-inputs="newsletter_signup_form_email">Submit</a>
+            <input type="submit" class="button_primary_grey button" value="Submit">
          </form>
       </div>
      
@@ -590,13 +628,13 @@ else
    <div class="header"><h3>Subscribe</h3><span>Click below to subscribe</span><br>
    </div><br>
                         <div class="cover_image">
-            <a href="http://www.omeda.com/cgi-win/et.cgi" id="direct_magazine_subscribe_et" target="_blank">
+            <a href="https://cygnus.omeda.com/et" id="direct_magazine_subscribe_et" target="_blank">
             	<img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/et_subscribe.png" alt="Equipment Today" width="128px">
             </a>
             <a id="magazine_subscribe_et" style="display: none;" class="button_primary button form_modal hidden" data-params="brand=et" data-block="magazine_subscribe" rel="#page_overlay">Subscribe</a>
         </div>
                   <div class="cover_image">
-            <a href="http://www.omeda.com/cgi-win/rpn.cgi" id="direct_magazine_subscribe_rpn" target="_blank">
+            <a href="https://cygnus.omeda.com/rpn" id="direct_magazine_subscribe_rpn" target="_blank">
             	<img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/rpn_subscribe.png" alt="Rental" width="128px">
             </a>
             <a id="magazine_subscribe_rpn" style="display: none;" class="button_primary button form_modal hidden" data-params="brand=rpn" data-block="magazine_subscribe" rel="#page_overlay">Subscribe</a>
@@ -614,7 +652,7 @@ else
             <a id="magazine_subscribe_conc" style="display: none;" class="button_primary button form_modal hidden" data-params="brand=conc" data-block="magazine_subscribe" rel="#page_overlay">Subscribe</a>
         </div>
                   <div class="cover_image">
-            <a href="http://www.omeda.com/cgi-win/acon.cgi" id="direct_magazine_subscribe_acon" target="_blank">
+            <a href="https://cygnus.omeda.com/acon" id="direct_magazine_subscribe_acon" target="_blank">
             	<img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/acon_subscribe.png" alt="Asphalt Contractor" width="128px">
             </a>
             <a id="magazine_subscribe_acon" style="display: none;" class="button_primary button form_modal hidden" data-params="brand=acon" data-block="magazine_subscribe" rel="#page_overlay">Subscribe</a>
@@ -635,153 +673,76 @@ else
 
    
    <aside class="ad_300x250">
-   <div class="ad_tracking" rel="77521">
+         <div class="ad_tracking" rel="77521" id="openx_adunit_id__77521">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("77521");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
    
-   
-
-<section id="social_activity" class="social_activity block">
-
-   <ul class="tabbed_list clearfix">
-            <li class="item first">
-         <a href="#" class="primary current">Facebook Fans</a>
-      </li>
-            <li class="item">
-         <a href="#" class="primary">Facebook Activity</a>
-      </li>
-            <li class="item last">
-         <a href="#" class="primary">Twitter</a>
-      </li>
-         </ul>
-
-   <div class="tabbed_panes">
-            <div id="facebook_fans_widget" class="activity_box facebook_fans" "="">
-         
-<fb:like-box href="http://www.facebook.com/ForConstructionPros" width="300" height="308" stream="false" header="true"></fb:like-box>
-
-      </div>
-            <div id="facebook_activity_widget" class="activity_box facebook_activity" style="display: none;">
-         
-<fb:activity width="300" height="308" header="true" recommendations="true"></fb:activity>
-
-      </div>
-            <div id="twitter_feed_widget" class="activity_box twitter_feed" style="display: none;">
-         
-<script type="text/javascript">
-   /*var T = new TWTR.Widget({
-      version: 2,
-      type: 'profile',
-      rpp: 4,
-      interval: 6000,
-      width: 300,
-      height: 308,
-      theme: {
-         shell: {
-            background: '#4A4A4A',
-            color: '#FFFFFF'
-         },
-         tweets: {
-            background: '#FFFFFF',
-            color: '#333333',
-            links: '#0093DC'
-         }
-      },
-      features: {
-         scrollbar: false,
-         loop: false,
-         live: false,
-         hashtags: true,
-         timestamp: true,
-         avatars: false,
-         behavior: 'all'
-      }
-   }).render().setUser('4ConstructnPros').start();
-   if (typeof T.decay == 'undefined') {
-      T.decay = (function(){});
-   }*/
-</script>
-
-      </div>
-         </div>
-</section>
-
+   <a href="/project-leads"><img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/temp_ad.jpg" alt="Project Leads"></a>
    
    <div class="clear_gap">&nbsp;</div>
    
    <div class="grid_9_10 alpha omega side_link">
-      <section class="content_list block links">
-  <h3 class="block_title">eNewsletters</h3>
-  <ul>
-  		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">Headline News brought to you by ForConstruction Pros.com</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">Construction Pros Monthly brought to you by ForConstruction Pros.com</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">RentalWATCH brought to you by Rental</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">Breaking Ground brought to you by Equipment Today</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">In the Mix brought to you by Concrete Contractor</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">Road Building Update brought to you by Asphalt Contractor</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">Blacktop Update brought to you by Pavement Maintenance &amp; Reconstruction</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">Decorative Concrete brought to you by Concrete Contractor</a>   </li>  
-		<li class="links"> <a href="javascript: void(0)" class="form_modal" data-block="login" title="Sign In" rel="#page_overlay">Constructing Green brought to you by Sustainable Construction</a>   </li>  
-	    </ul>
-  <div class="clear"></div>
-</section>
-      <aside class="ad_120x90">
-   <div class="ad_tracking" rel="77526">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("77526");
-   </script>
-</div>
-</aside>
-
       <h3 class="block_title">Events</h3>
 
-<ul class="clearfix">
+<ul class="clearfix" style="padding:0;">
    
-         <li class="odd">
+         <li class="odd" style="padding:0;">
          <dl class="event">
             <dt>
-               <a href="/event/10711566/telogis-latitude-2012">Telogis Latitude 2012</a>
+               <a href="/event/10810303/the-federal-design-construction-outlook-conference">The Federal Design &amp; Construction Outlook Conference</a>
             </dt>
-            <dd class="date">05/21 - 05/24/2012</dd>
-            <dd class="teaser">Dana Point, 
+            <dd class="date">12/04 - 12/04/2012</dd>
+            <dd class="teaser" style="margin:0;">Washington, 
+                        DC
+                        </dd>
+         </dl>  		
+      </li>
+         <li class="even" style="padding:0;">
+         <dl class="event">
+            <dt>
+               <a href="/event/10798058/artba-24th-annual-public-private-partnerships-in-transportation-conference">ARTBA 24th Annual Public-Private Partnerships in Transportation Conference</a>
+            </dt>
+            <dd class="date">10/10 - 10/12/2012</dd>
+            <dd class="teaser" style="margin:0;">Washington, 
+                        DC
+                        </dd>
+         </dl>  		
+      </li>
+         <li class="odd" style="padding:0;">
+         <dl class="event">
+            <dt>
+               <a href="/event/10798033/agc-constructor-expo">AGC Constructor Expo</a>
+            </dt>
+            <dd class="date">03/05 - 03/08/2013</dd>
+            <dd class="teaser" style="margin:0;">Palm Springs, 
                         CA
                         </dd>
          </dl>  		
       </li>
-         <li class="even">
+         <li class="even last" style="padding:0;">
          <dl class="event">
             <dt>
-               <a href="/event/10711100/cd-world-2013">C&amp;D World 2013</a>
+               <a href="/event/10415634/agcs-94th-annual-convention">AGC's 94th Annual Convention</a>
             </dt>
-            <dd class="date">04/21 - 04/23/2013</dd>
-            <dd class="teaser">Tampa, 
-                        FL
+            <dd class="date">03/06 - 03/09/2013</dd>
+            <dd class="teaser" style="margin:0;">Palm Springs, 
+                        CA
                         </dd>
          </dl>  		
       </li>
-         <li class="odd last">
+         <li class="odd last" style="padding:0;">
          <dl class="event">
             <dt>
-               <a href="/event/10707945/lima-solutions-2012-construction-defect-symposium">LiMa Solutions 2012 Construction Defect Symposium</a>
+               <a href="/event/10796934/prevention-through-design-for-construction">Prevention through Design for Construction</a>
             </dt>
-            <dd class="date">07/26 - 07/27/2012</dd>
-            <dd class="teaser">Key West, 
-                        FL
-                        </dd>
-         </dl>  		
-      </li>
-         <li class="even last">
-         <dl class="event">
-            <dt>
-               <a href="/event/10706311/post-tensioning-institute-convention-2012">Post-Tensioning Institute Convention 2012</a>
-            </dt>
-            <dd class="date">05/06 - 05/08/2012</dd>
-            <dd class="teaser">Nashville, 
-                        TN
+            <dd class="date">04/01 - 04/04/2013</dd>
+            <dd class="teaser" style="margin:0;">Boston, 
+                        MA
                         </dd>
          </dl>  		
       </li>
@@ -790,40 +751,69 @@ else
             	<a href="http://www.forconstructionpros.com/events" alt="Full Calendar of Events" class="more green" style="padding: 0px;">View Full Calendar »</a>
 
       <aside class="ad_120x90">
-   <div class="ad_tracking" rel="77527">
+         <div class="ad_tracking" rel="77526" id="openx_adunit_id__77526">
+   <script type="text/javascript">
+      OX_4dc95e69a1e2d.showAdUnit("77526");
+   </script>
+</div>
+      
+   </aside>
+
+      <aside class="ad_120x90">
+         <div class="ad_tracking" rel="77527" id="openx_adunit_id__77527">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("77527");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
-      <section class="content_list block links">
+      
+   </div>
+   
+   <div class="grid_11_12 omega">
+      <aside class="ad_160x600">
+         <div class="ad_tracking" rel="77523" id="openx_adunit_id__77523">
+   <script type="text/javascript">
+      OX_4dc95e69a1e2d.showAdUnit("77523");
+   </script>
+</div>
+      
+   </aside>
+
+   </div>
+   
+   <div class="clear_gap">&nbsp;</div>
+   
+   <div class="grid_9_12 alpha">
+   
+   		 <section class="content_list block links">
 
    <h3 class="block_title">Industry Links</h3>
 
-      <ul>
+      <ul class="industry_links" style="padding:0;">
 
-         <li class="links">
+         <li class="links" style="padding:0;float:none;">
          	<a target="_blank" class="primary name" href="http://www.hcea.net/">Historical Construction Equipment Association</a>
          </li>
          
-         <li class="links">
+         <li class="links" style="padding:0;float:none;">
          	<a target="_blank" class="primary name" href="http://www.stafda.org/">Specialty Tools &amp; Fasteners Distributors Association (STAFDA)</a>
          </li>
 
-         <li class="links">
+         <li class="links" style="padding:0;float:none;">
          	<a target="_blank" class="primary name" href="http://www.asphaltinstitute.org/">The Asphalt Institute</a>
          </li>
 
-         <li class="links">
+         <li class="links" style="padding:0;float:none;">
          	<a target="_blank" class="primary name" href="http://www.osha.gov/">Occupational Safety and Health Administration (OSHA)</a>
          </li>
 
-         <li class="links">
+         <li class="links" style="padding:0;float:none;">
          	<a target="_blank" class="primary name" href="http://www.aednet.org/">Associated Equipment Distributors (AED)</a>
          </li>
 
-         <li class="links">
+         <li class="links" style="padding:0;float:none;">
          	<a target="_blank" class="primary name" href="http://www.ascconline.org/">American Society of Concrete Contractors</a>
          </li>
 
@@ -832,32 +822,74 @@ else
       <div class="clear"></div>
       
 </section>
+         
+         <section id="social_activity" class="social_activity block" style="clear:both;">
+<script type="text/javascript">
 
-   </div>
+var params = {
+    containerID: 'social_activity',
+    width:'300',  //width in px
+    height:'300', //height in px
+    siteName:'For Construction Pros', //site name
+    enabledProviders:'facebook,twitter,google,linkedin' //comma separated list, e.g. "facebook,myspace,twitter,yahoo,linkedin"
+};
+
+	gigya.socialize.showFeedUI(params);
+</script>
+
+</section>
+
    
-   <div class="grid_11_12 omega">
-      <aside class="ad_160x600">
-   <div class="ad_tracking" rel="77523">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("77523");
-   </script>
-</div>
-</aside>
+         <section class="content_list supplement">
 
-      <aside class="ad_160x600">
-   <div class="ad_tracking" rel="77524">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("77524");
-   </script>
-</div>
-</aside>
-
-   </div>
+   <h3 class="block_title">e-Books &amp; Supplements</h3>
    
-   <div class="clear_gap">&nbsp;</div>
+	<!--<div class="supplement_sub">
+		<a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/czs_2011/#/1/OnePage" class="supplement_image">
+        	<img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/current_issue_thumb_czs.png" alt="Construction Zone Safety 2011" border="0" width="100"/>
+        </a>
+			<div class="supplement_box">
+				<span class="supplement_type">e-Book</span>
+                <div class="clear_sm_gap">&nbsp;</div>
+				<a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/czs_2011/#/1/OnePage" class="supplement_title">Construction Zone Safety 2011</a>
+                <div class="clear_sm_gap">&nbsp;</div>
+                <a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/czs_2011/#/1/OnePage" class="button_secondary">View</a>
+            </div>
+	</div>-->
+    
+<div class="clear"></div>
+
+	<div class="supplement_sub">
+		<a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/ipaf_201208" class="supplement_image">
+        	<img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/current_issue_thumb_ipaf.png" alt="IPAF - Elevating Safety 2012" border="0" width="100">
+        </a>
+			<div class="supplement_box">
+				<span class="supplement_type">e-Book</span>
+                <div class="clear_sm_gap">&nbsp;</div>
+				<a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/ipaf_201208" class="supplement_title">IPAF - Elevating Safety 2012</a><div class="clear_sm_gap">&nbsp;</div>
+                <a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/ipaf_201208" class="button_secondary">View</a>
+            </div>
+	</div>
+    
+<div class="clear"></div>
+
+	<div class="supplement_sub">
+		<a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/pc_2012fall" class="supplement_image">
+        	<img src="/sites/www.forconstructionpros.com/merrick/themes/orion/css/images/current_issue_thumb_pc.png" alt="Polishing Contractor - Fall 2012" border="0" width="100">
+        </a>
+			<div class="supplement_box">
+				<span class="supplement_type">Supplement</span><div class="clear_sm_gap">&nbsp;</div>
+				<a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/pc_2012fall" class="supplement_title">Polishing Contractor - Fall 2012</a><div class="clear_sm_gap">&nbsp;</div>
+                <a target="_blank" href="http://www.nxtbook.com/nxtbooks/cygnus/pc_2012fall" class="button_secondary">Digital Edition</a>
+            </div>
+	</div>
       
 </section>
 
+   
+   </div>
+      
+</section>
 		 
       </aside>
       
@@ -876,11 +908,13 @@ else
     </div>
    <div class="ad_container">
       <aside class="ad_728x90">
-   <div class="ad_tracking" rel="77520">
+         <div class="ad_tracking" rel="77520" id="openx_adunit_id__77520">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("77520");
    </script>
 </div>
+      
+      
 </aside>
 
    </div>
@@ -890,7 +924,7 @@ else
 	 <li class="secondary"><a href="http://www.forconstructionpros.com/sitemap">Sitemap</a></li>
          <li class="secondary advertise_footer"><a href="http://www.forconstructionpros.com/advertise">Advertise</a></li>
          <li class="secondary"><a href="http://www.forconstructionpros.com/contact_us">Contact Us</a></li>
-         <li class="secondary subscribe_footer"><a href="http://www.forconstructionpros.com/subscribe" data-block="magazine_subscribe" class="form_modal magazine" rel="#page_overlay" title="Subscribe to For Construction Pros, for Free">Subscribe</a></li>
+         <li class="secondary"><a href="http://www.forconstructionpros.com/subscribe" title="Subscribe to For Construction Pros, for Free">Subscribe</a></li>
          <li class="secondary"><a class="jqbookmark" title="Privacy Policy - For Construction Pros" href="http://www.forconstructionpros.com/privacy-policy">Bookmark</a></li>
          <li class="secondary"><a href="http://www.forconstructionpros.com/privacy-policy">Privacy Policy</a></li>
          <li class="secondary"><a href="http://www.forconstructionpros.com/terms-conditions">Terms of Use</a></li>
@@ -926,8 +960,7 @@ else
 
 <!-- OAS code -->
 
-
-
+   
 
 
 
@@ -947,10 +980,7 @@ else
 
 
 
-   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<script type="text/javascript" src="http://www.forconstructionpros.com/sites/www.forconstructionpros.com/merrick/files/js/6a6e23eed0da45d8da4798241ee1c354.js"></script>
+   <script type="text/javascript" src="http://www.forconstructionpros.com/sites/www.forconstructionpros.com/merrick/files/js/d791f12012efa3fe0025962f4d2a4a67.js"></script>
 
 
    
@@ -974,7 +1004,6 @@ else
    });
    
    
-stLight.options({publisher:'aec08c83-ccff-40ed-a2d4-ff1d4b85220b'});
 
 window['tracker_data'] = { };
 try {
@@ -1024,8 +1053,38 @@ var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http
 document.write(unescape("%3Cscript src=\"" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "\" type=\"text/javascript\"%3E%3C/script%3E"));
 
 
+
+   var showFollowBarUI_params=
+   { 
+      containerID: 'connect_social_icons',
+      iconSize: 32,
+      buttons: [
+      
+      
+         { provider: 'facebook', actionURL: 'http://www.facebook.com/ForConstructionPros', action: 'dialog' },
+      
+
+      
+         { provider: 'twitter', action: 'dialog', followUsers: '4ConstructnPros' },
+      
+
+      
+         { provider: 'linkedin', actionURL: 'http://www.linkedin.com/groupInvitation?groupID=2676745', title: 'Join us on LinkedIn' },
+      
+
+      
+
+      
+      
+      
+      
+      { provider: 'custom', actionURL: 'http://mobile.forconstructionpros.com/privacy-policy', iconURL: '/app/merrick/themes/orion/css/images/mobile.png', title: 'View our mobile site' }
+      ]
+   }
+
+gigya.socialize.showFollowBarUI(showFollowBarUI_params);
 //]]>
-</script>
+</script><script src="https://sjs.bizographics.com/convert_data.js?partner_id=786" type="text/javascript"></script>
 
 
 
