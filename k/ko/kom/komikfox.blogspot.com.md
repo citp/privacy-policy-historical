@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komikfox.blogspot.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305034801id_/http%3A//komikfox.blogspot.com/2011/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komikfox.blogspot.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014093041id_/http%3A//komikfox.blogspot.com/2011/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Baca Manga Komik Indonesia
 
