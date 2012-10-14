@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsays.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506173431id_/https%3A//www.drsays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsays.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014151910id_/https%3A//www.drsays.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DrSays
 
