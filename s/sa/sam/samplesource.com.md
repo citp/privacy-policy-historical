@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513042908id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014145117id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
 
-# Free Samples in USA - home, health, beauty, make-up, food, and more!
+# SampleSource.com - Free Samples in USA - home, health, beauty, makeup, food, and more!
 
 This Privacy Notice has been prepared by SampleSource Incorporated (“SampleSource”), and it sets out the manner in which SampleSource collects, uses, discloses and otherwise manages personal information.  This Privacy Notice applies to the privacy practices on our websites located at www.samplesource.com and www.samplesource.ca (the “Website”).
 
