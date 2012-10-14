@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611065335id_/http%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014093227id_/http%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,12 +42,18 @@ More information can be obtained on cookies by visiting www.allaboutcookies.org/
 
 The information you provide to Experts Exchange will be used for the following reasons: 
 
-  * to ensure that content from our site is presented to you in the most effective manner and to personalize your visit to our site;
-  * to enable us to continuously enhance the Experts Exchange service, to serve advertising, and to provide to you information, products or services which we feel may be of interest to you;
-  * to occasionally carry out market research including internal analytical research which will enable us to constantly improve your experience on Experts Exchange;
-  * to carry out our obligations arising from any agreements that may have been entered into between you and us;
-  * to allow you to participate in interactive features of our service, when you choose to do so; and
+  * to ensure that content from our site is presented to you in the most effective manner and to personalize your visit to our site; 
+
+  * to enable us to continuously enhance the Experts Exchange service, to serve advertising, and to provide to you information, products or services which we feel may be of interest to you; 
+
+  * to occasionally carry out market research including internal analytical research which will enable us to constantly improve your experience on Experts Exchange; 
+
+  * to carry out our obligations arising from any agreements that may have been entered into between you and us; 
+
+  * to allow you to participate in interactive features of our service, when you choose to do so; and 
+
   * to notify you about changes to or other information about our service.
+
 
 
 
