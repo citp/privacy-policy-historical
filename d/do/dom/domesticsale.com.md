@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530182110id_/http%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014054716id_/http%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -62,19 +62,3 @@ Thanks again, Maryann Ward.
 **"Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!"  
 Rebecca  
  _Gainesville FL_
-
-I love your site, **the best** FREE classified site I've come accross EVER!!! ..."  
-Regards, Kerry *pinkbike*
-
-I love this site too! The guy who set this up **really knows** what we shoe people need. Thanks!! :)"  
-ELENITA SCHNEIDER
-
-**This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
-Perry Pono  
- _Rhode Island_
-
-This is a very nice site, I **sold my car** in few days!!!"   
-Thank You. Steve.
-
-Thank you very much! I sold **all my pups** in week. Remove my ad ASAP, please ..."   
-Sincerely, Jeff. 
