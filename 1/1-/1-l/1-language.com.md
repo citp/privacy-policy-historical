@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1-language.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629113924id_/http%3A//www.1-language.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-language.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014213805id_/http%3A//www.1-language.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Learn English - Learn English as a Second Language - ESL
 
@@ -47,7 +47,7 @@ This privacy statement covers the site www.1-language.com. Because this Web site
 
 8\. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should first contact Jeremy Paton at jeremy@1-language.com.
+If users have questions or concerns regarding this statement, they should first contact 1-language at admin@1-language.com.
 
 **Information Collection and Use**  
 
@@ -123,7 +123,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 **Security**  
 This Web site takes every precaution to protect our users¡¯ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
-If users have any questions about the security at our Web site, users can send an email to [jeremy@1-language.com](mailto:jeremy@1-language.com).
+If users have any questions about the security at our Web site, users can send an email to [admin@1-language.com](mailto:admin@1-language.com).
 
 **  
 Notification of Changes**  
@@ -134,6 +134,4 @@ If, however, we are going to use users¡¯ personally identifiable information i
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Phone - 0082-018-509-0329
-
-Email - jeremy@1-language.com
+Email - admin@1-language.com
