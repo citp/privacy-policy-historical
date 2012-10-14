@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630130814id_/http%3A//www.wisdia.com/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdia.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014074254id_/http%3A//www.wisdia.com/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -33,7 +33,7 @@ Some of our Web pages may contain electronic images known as Web beacons, which 
 Wisdia employees are made aware of its privacy practices through periodic communications and training. We limit access to private and confidential data only to those employees with a specific need to retrieve this information and we store data on multiple service systems, in controlled, secure environments. To maintain our level of security, we conduct both internal reviews and external audits of our security measures and procedures on a regular basis.
 
 **6\. Controlling your personal information**  
-A user may, at any time, change, correct, modify or delete any personal information they may have provided to Wisdia by visiting his profile on http://www.wisdia.com.
+A user may, at any time, change, correct, modify or delete any personal information they may have provided to Wisdia by visiting his profile on http://fr.wisdia.com.
 
 **7\. Changes in corporate structure**  
 In developing our business, we might sell certain assets or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
