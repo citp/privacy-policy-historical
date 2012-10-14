@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528110739id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065657id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
 
 # Brooklyn Museum: About: Privacy Policy
 
@@ -48,7 +48,7 @@ Unless otherwise noted, all content copyright © 2004 the Brooklyn Museum. Some 
 
 Copyright and other proprietary rights may be held by individuals or entities other than, or in addition to, the Brooklyn Museum. The Museum does not warrant that the use of materials displayed on this website will not infringe on the rights of third parties, such as artists or artists' heirs holding the rights to these works. For works of art from other museums, institutions, or owners reproduced on this site, contact the institution or owners credited in the work's caption.
 
-See [Image Services](https://web.archive.org/web/20120528110739id_/http%3A//www.brooklynmuseum.org/image_services.php) for information on licensing text or images for reproduction.
+See [Image Services](https://web.archive.org/web/20121014065657id_/http%3A//www.brooklynmuseum.org/image_services.php) for information on licensing text or images for reproduction.
 
 The Brooklyn Museum may revise its Privacy Policy at any time. We encourage you to visit this page periodically to review our current policy so that you will always know what information we gather and how we may use that information.
 
