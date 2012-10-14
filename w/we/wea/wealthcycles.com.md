@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthcycles.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501143551id_/http%3A//wealthcycles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthcycles.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014043121id_/http%3A//wealthcycles.com/privacy-policy) for the most accurate reproduction.*
 
 # WealthCycles.com - Privacy Policy
 
