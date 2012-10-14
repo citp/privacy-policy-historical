@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dovemencare.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511230253id_/https%3A//secure.unileverus.com/privacy/policy.html%3Fsite%3Dwww.dove.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dovemencare.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014205257id_/https%3A//secure.unileverus.com/privacy/policy.html%3Fsite%3Dwww.dovemencare.us) for the most accurate reproduction.*
 
 # Unilever Privacy Policy
 
-[](https://web.archive.org/web/20120511230253id_/https%3A//secure.unileverus.com/privacy/update.asp) [](https://web.archive.org/web/20120511230253id_/https%3A//secure.unileverus.com/privacy/remove.asp)
+[](https://web.archive.org/web/20121014205257id_/https%3A//secure.unileverus.com/privacy/update.asp) [](https://web.archive.org/web/20121014205257id_/https%3A//secure.unileverus.com/privacy/remove.asp)
 
 To view this page in Spanish, please [click here](https://web.archive.org/privacy/spanish/policy.html)  
 Para ver esta página en español, por favor haga [clic aqu](https://web.archive.org/privacy/spanish/policy.html)
@@ -87,7 +87,7 @@ Please write to us at [privacy.policy@unilever.com ](mailto:privacy.policy@unile
 
 If you **don't want to be contacted** in the future, or would like us to **correct or update your Personal Information** in our records, please click the appropriate button below:
 
-[](https://web.archive.org/web/20120511230253id_/https%3A//secure.unileverus.com/privacy/remove.asp)[](https://web.archive.org/web/20120511230253id_/https%3A//secure.unileverus.com/privacy/update.asp)
+[](https://web.archive.org/web/20121014205257id_/https%3A//secure.unileverus.com/privacy/remove.asp)[](https://web.archive.org/web/20121014205257id_/https%3A//secure.unileverus.com/privacy/update.asp)
 
 You may also opt out of our promotional e-mails by clicking on an opt-out link within the e-mail you receive, or opt out of one of our Mobile Message Service by texting the applicable “STOP” message to the short code associated with the particular program/service.
 
@@ -95,7 +95,7 @@ Please understand that if you opt out of receiving promotional correspondence fr
 
 If you are a parent (or guardian), and (1) you would like to **correct or update, or have removed or deleted, any Personal Information that your child** has sent us through a Unilever site which is directed at children, (2) you would like to **stop our further collection, use and/or disclosure of your child’s information,** or (3) **you don’t want your child to be contacted** in the future by Unilever, please click the appropriate button below.
 
-[](https://web.archive.org/web/20120511230253id_/https%3A//secure.unileverus.com/privacy/kids.asp) [](https://web.archive.org/web/20120511230253id_/https%3A//secure.unileverus.com/privacy/kids_up.asp)
+[](https://web.archive.org/web/20121014205257id_/https%3A//secure.unileverus.com/privacy/kids.asp) [](https://web.archive.org/web/20121014205257id_/https%3A//secure.unileverus.com/privacy/kids_up.asp)
 
 Unilever will comply with the foregoing requests in accordance with applicable law.
 
