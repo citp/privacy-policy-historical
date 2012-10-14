@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617152034id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014035011id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Appliances Online | Sale - Stock Running Low
+# Privacy Policy - Appliances Online
 
 Appliances Online Pty Ltd (" **AppliancesOnline.com.au™** ") and its related companies are committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of your personal information. We are bound by, and will abide by, the National Privacy Principles in the Privacy Act (Cth) 1988 (" **Privacy Act** "). 
 
