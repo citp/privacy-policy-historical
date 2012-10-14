@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fitnesstipsforlife.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621111108id_/http%3A//www.fitnesstipsforlife.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnesstipsforlife.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014200812id_/http%3A//www.fitnesstipsforlife.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fitness Tips for Life - Lose Weight
+# Privacy Policy
+
+[](http://www.fitnesstipsforlife.com/goto/5tipstolose)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
@@ -63,6 +65,7 @@ Airdrie, Alberta
 none  
 bill@nadraszky.com
 
-**Please Rate this article. Was it good?**
+[](http://www.fitnesstipsforlife.com/burn-the-fat-feed-the-muscle-complete-review.html)
 
-Rating: 0.0/ **5** (0 votes cast)
+**GD Star Rating**  
+ _loading..._
