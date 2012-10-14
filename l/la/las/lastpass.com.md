@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510121441id_/http%3A//lastpass.com/aboutus_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014215702id_/http%3A//lastpass.com/aboutus_privacy.php) for the most accurate reproduction.*
 
 # LastPass - Privacy Statement
 
