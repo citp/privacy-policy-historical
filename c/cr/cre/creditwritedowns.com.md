@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the creditwritedowns.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511123011id_/https%3A//www.creditwritedowns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditwritedowns.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014181119id_/http%3A//www.creditwritedowns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Credit Writedowns
-
-* * *
-
-  
-
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
