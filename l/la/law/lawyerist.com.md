@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawyerist.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025855id_/http%3A//lawyerist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyerist.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014032728id_/http%3A//lawyerist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Lawyerist.com
 
 ### The Lawyerist Privacy Policy
 
