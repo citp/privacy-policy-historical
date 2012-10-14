@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145623id_/http%3A//www.b2bmarketing.net/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014155723id_/http%3A//www.b2bmarketing.net/content/privacy) for the most accurate reproduction.*
 
 # Privacy | b2bmarketing.net
 
