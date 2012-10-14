@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511113933id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014174234id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Cupid.com - Find local singles on Cupid.com - an online dating site
 
@@ -80,11 +80,13 @@ Other persons if we are under a duty to disclose or share your information in or
 
 We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties. 
 
+You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and Group's services including our various internet sites and mobile sites. 
+
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
 We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. 
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@cupid.com](mailto:unsubscribe@cupid.com)
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe-nl@cupid.com](mailto:unsubscribe-nl@cupid.com)
 
 **Marketing and other uses of your non-personal data by us and by third parties**
 
