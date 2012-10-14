@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trade.gov privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624071936id_/http%3A//www.trade.gov/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trade.gov privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014020919id_/http%3A//www.trade.gov/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -149,6 +149,7 @@ if (typeof jQuery != 'undefined') {
   _gaq.push(['_setAccount', 'UA-27059663-1']);
   _gaq.push(['_setDomainName', 'trade.gov']);
   _gaq.push(['_trackPageview']);
+  setTimeout("_gaq.push(['_trackEvent', '10_seconds', 'read'])",10000);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -175,7 +176,7 @@ if (typeof jQuery != 'undefined') {
                   <input name="ZipCode" type="text" value="Zip Code" size="8" class="zipcode" onfocus="value=''">
                 </div></td>
                 <td style="margin:0;"><div align="right">
-                  <input name="" type="image" src="/images/button_go.jpg" alt="go" style="margin:0px; padding-left:5px;">               
+                  <input name="" type="image" src="/images/button_go.jpg" alt="go" style="margin:0px; padding-left:5px;">
                 </div></td>
               </tr>
             </tbody></table></td>
@@ -188,19 +189,20 @@ if (typeof jQuery != 'undefined') {
                 <td width="25"><a href="http://www.twitter.com/TradeGov"><img src="/images/icon_twitter.jpg" alt="twitter" border="0"></a></td>
                 <td width="25"><a href="http://blog.trade.gov"><img src="/images/icon_tra.jpg" alt="tra" border="0"></a></td>
                 <td width="22"><a href="/connect.asp"><img src="/images/icon_mail.jpg" alt="email" border="0"></a></td>
-                <form name="Search Trade.Gov" method="get" action="/searchresults/index.asp"></form>
+  <form name="Search Trade.Gov" action="http://search.trade.gov/search" id="search_form" method="get"></form>
                 <td width="106" style="margin:0;"><div align="center">
                  <!-- <input name="input" type="text" value="Search Trade.gov" size="17" class="search" onfocus="value=''" /> -->
-                  <input class="search" type="text" id="searchbox" name="q" tabindex="1" size="17" onfocus="value=''" value="Search Trade.gov" alt="Search Trade.gov">
-        					<input name="site" type="hidden" value="trade">
+                  <input id="affiliate" name="affiliate" type="hidden" value="trade.gov">
+    <input autocomplete="off" class="search" id="searchbox" name="query" type="text" tabindex="1" size="17" onfocus="value=''" value="Search Trade.gov">
+    <input name="site" type="hidden" value="trade">
         					<input name="client" type="hidden" value="default_frontend">
         					<input name="output" type="hidden" value="xml_no_dtd">
         					<input name="searchdb" type="hidden" value="all">
         					<input name="TabIndex" type="hidden" value="1">
-                
+
                 </div></td>
                 <td><div align="right">
-                  <input name="input" type="image" src="/images/button_search.jpg" alt="search" style="padding-left:5px;">
+                  <input name="commit" type="image" src="/images/button_search.jpg" value="Search" style="padding-left:5px;">
                 </div></td>
               </tr>
             </tbody></table></td>
@@ -300,7 +302,7 @@ if (typeof jQuery != 'undefined') {
               </tr>
               <tr>
                 <td valign="top"><p class="dropdowntitle">Enforcement</p>
-                <a href="http://ia.ita.doc.gov/intro/index.html" style="margin-bottom:-15px; margin-left:7px;">Anti-Dumping/Countervailing Duties</a> <a href="http://ia.ita.doc.gov/regs/index.html" style="margin-bottom:-15px; margin-left:7px;">Laws and Regulations</a> <a href="http://ia.ita.doc.gov/ia-highlights-and-news.html" style="margin-bottom:-15px; margin-left:7px;">News</a> <a href="http://esel.trade.gov/esel/groups/public/documents/web_resources/esel_home.hcsp" style="margin-bottom:-15px; margin-left:7px;">Subsidies</a> <a href="http://ia.ita.doc.gov/pcp/pcp-howtofile.html" style="margin-bottom:-15px; margin-left:7px;">Trade Compliance Filing</a> <a href="http://ia.ita.doc.gov/intro/index.html" style="margin-bottom:-15px; margin-left:7px;">Trade Remedies</a></td>
+                <a href="http://ia.ita.doc.gov/intro/index.html" style="margin-bottom:-15px; margin-left:7px;">Anti-Dumping/Countervailing Duties</a> <a href="http://ia.ita.doc.gov/regs/index.html" style="margin-bottom:-15px; margin-left:7px;">Laws and Regulations</a> <a href="http://ia.ita.doc.gov/ia-highlights-and-news.html" style="margin-bottom:-15px; margin-left:7px;">News</a> <a href="http://esel.trade.gov/esel/groups/public/documents/web_resources/esel_home.hcsp" style="margin-bottom:-15px; margin-left:7px;">Subsidies</a> <a href="http://ia.ita.doc.gov/petitioncounseling/" style="margin-bottom:-15px; margin-left:7px;">Trade Compliant Filing</a> <a href="http://ia.ita.doc.gov/intro/index.html" style="margin-bottom:-15px; margin-left:7px;">Trade Remedies</a></td>
               </tr>
             </tbody></table>
 		</div>
@@ -310,8 +312,8 @@ if (typeof jQuery != 'undefined') {
 		<table width="450" height="200" border="0" cellspacing="0" cellpadding="10">
               <tbody><tr>
                 <td width="225" valign="top">
-                	<a href="http://ia.ita.doc.gov/pcp/pcp-index.html" style="margin-bottom:-15px; margin-left:7px;">AD/CVD Counseling</a>
-              <a href="http://www.export.gov/advocacy" style="margin-bottom:-15px; margin-left:7px;">Advocacy</a>
+                	<a href="http://ia.ita.doc.gov/petitioncounseling/" style="margin-bottom:-15px; margin-left:7px;">AD/CVD Counseling</a>
+                    <a href="http://www.export.gov/advocacy" style="margin-bottom:-15px; margin-left:7px;">Advocacy</a>
                     <a href="http://www.export.gov/salesandmarketing/eg_main_018203.asp" style="margin-bottom:-15px; margin-left:7px;">Export Counseling</a>
                     <a href="http://www.export.gov/salesandmarketing/eg_main_018195.asp" style="margin-bottom:-15px; margin-left:7px;">Gold Key Matching</a>
                     <a href="http://www.export.gov/ibp" style="margin-bottom:-15px; margin-left:7px;">International Buyer Program</a>
@@ -324,7 +326,7 @@ if (typeof jQuery != 'undefined') {
                 	<a href="http://tcc.export.gov/Report_a_Barrier/Common_Trade_Problems/index.asp" style="margin-bottom:-15px; margin-left:7px;">Report a Trade Barrier</a>
                     <a href="http://www.export.gov/SafeHarbor" style="margin-bottom:-15px; margin-left:7px;">Safe Harbor Certification</a>
                     <a href="http://ia.ita.doc.gov/steel/license/index.html" style="margin-bottom:-15px; margin-left:7px;">Steel Import Licensing</a>
-                    <a href="http://ia.ita.doc.gov/pcp/pcp-howtofile.html" style="margin-bottom:-15px; margin-left:7px;">Trade Complaint Filing</a>
+                    <a href="http://ia.ita.doc.gov/petitioncounseling/index.html" style="margin-bottom:-15px; margin-left:7px;">Trade Complaint Filing</a>
                     <a href="http://www.export.gov/tradeevents/eg_main_018558.asp" style="margin-bottom:-15px; margin-left:7px;">Trade Fair Certification</a>
                     <a href="http://www.export.gov/eac/trade_leads.asp" style="margin-bottom:-15px; margin-left:7px;">Trade Leads</a>
                     <p><a href="/success" style="margin-bottom:-15px; margin-left:7px;">Successes</a></p>
@@ -537,7 +539,7 @@ Some of our Web  pages contain links to websites outside ITA, including those of
 												<td><form name="form1" id="form1">
 												  <select name="menu1" onchange="MM_jumpMenu('parent',this,0)">
 							      <option selected="selected">Select a Service</option>
-							      <option value="http://ia.ita.doc.gov/pcp/pcp-index.html">AD/CVD Petition Counseling</option>
+							      <option value="http://ia.ita.doc.gov/petitioncounseling">AD/CVD Petition Counseling</option>
 							      <option value="http://www.export.gov/advocacy">Advocacy</option>
 							      <option value="http://www.export.gov/salesandmarketing/eg_main_018203.asp">Export Counseling</option>
 							      <option value="http://www.export.gov/salesandmarketing/eg_main_018195.asp">Gold Key Matching</option>
@@ -549,7 +551,7 @@ Some of our Web  pages contain links to websites outside ITA, including those of
 							      <option value="http://tcc.export.gov/Report_a_Barrier/index.asp">Report a Trade Barrier</option>
 							      <option value="http://www.export.gov/SafeHarbor">Safe Harbor Certification</option>
 							      <option value="http://ia.ita.doc.gov/steel/license/index.html">Steel Import Licensing</option>
-							      <option value="http://ia.ita.doc.gov/filing/index.html">Trade Complaint Filing</option>
+							      <option value="http://ia.ita.doc.gov/petitioncounseling">Trade Complaint Filing</option>
 							      <option value="http://www.export.gov/tradeevents/eg_main_018558.asp">Trade Fair Certification</option>
 							      <option value="http://www.export.gov/eac/trade_leads.asp">Trade Leads</option>
                                 </select>
@@ -563,16 +565,16 @@ Some of our Web  pages contain links to websites outside ITA, including those of
                     <h1>Statistics and Anyalsis</h1>
 					<img src="/images/chart_inside.jpg" alt="Statitcs and Anyalsis" style="float:left; margin-left:-10px;">
 						<p style="font-size:10px; margin-top:10px;">
-						<a href="/press/press-releases/2012/export-factsheet-june2012-060812.pdf" class="view">APR Export Fact Sheet</a><img src="/images/bullet_arrow.jpg" alt="arrow"><br>
+						<a href="http://trade.gov/press/press-releases/2012/export-factsheet-september2012-091112.pdf" class="view">JUL Export Fact Sheet</a><img src="/images/bullet_arrow.jpg" alt="arrow"><br>
 						<a href="http://www.trade.gov/mas/ian/Metro/index.html" class="view">Metro Area Exports</a><img src="/images/bullet_arrow.jpg" alt="arrow"><br>
 						<a href="http://tinet.ita.doc.gov/view/f-2000-99-001/index.html" class="view">'11-16 Travel Forecast</a><img src="/images/bullet_arrow.jpg" alt="arrow"><br>
-						<a href="http://ia.ita.doc.gov/steel/license/news/monthly_SIMA_factsheet.pdf" class="view">APR Steel FactSheet</a><img src="/images/bullet_arrow.jpg" alt="arrow">
+						<a href="http://ia.ita.doc.gov/steel/license/news/monthly_SIMA_factsheet.pdf" class="view">JUN Steel FactSheet</a><img src="/images/bullet_arrow.jpg" alt="arrow">
 				    </p>
                     <img src="/images/2p_temp/right_divider.jpg" alt="divider">
                     <h1>Successes</h1>
-					<p style="margin-top:5px;">Garmin Marine Navigation GPS Units Navigate Turkish Customs.<br>
+					<p style="margin-top:5px;">Ohio’s Diebold Gains Duty Free Access into India’s $100+ Million IT Market<br>
 				  	    &nbsp;<br>
-			  	      <a href="http://export.gov/articles/successstories/eg_main_046466.asp" class="view">View more</a><img src="/images/bullet_arrow.jpg" alt="arrow">
+			  	      <a href="http://export.gov/articles/successstories/eg_main_053547.asp" class="view">View more</a><img src="/images/bullet_arrow.jpg" alt="arrow">
                 </p></div>
                 <div id="rightbottom"></div>
                 </div>
@@ -650,7 +652,7 @@ Some of our Web  pages contain links to websites outside ITA, including those of
                    	<li> <a href="http://ia.ita.doc.gov/regs/index.html">Laws and Regulations</a></li>
                     <li><a href="http://ia.ita.doc.gov/ia-highlights-and-news.html">News</a></li>
                     <li><a href="http://esel.trade.gov/esel/groups/public/documents/web_resources/esel_home.hcsp">Subsidies</a></li>
-                    <li><a href="http://ia.ita.doc.gov/pcp/pcp-howtofile.html">Trade Compliance Filing</a></li>
+                    <li><a href="http://ia.ita.doc.gov/petitioncounseling">Trade Complaint Filing</a></li>
                     <li><a href="http://ia.ita.doc.gov/intro/index.html">Trade Remedies</a></li>
 					<br>
                 	<li class="footertitle">Events</li>
@@ -671,7 +673,7 @@ Some of our Web  pages contain links to websites outside ITA, including those of
 					<div id="f1">
 					<ul>
 					<li class="footertitle">Services</li>
-					<li><a href="http://ia.ita.doc.gov/pcp/pcp-index.html">AD/CVD Counseling</a></li>
+					<li><a href="http://ia.ita.doc.gov/petitioncounseling/">AD/CVD Counseling</a></li>
                     <li><a href="http://www.export.gov/advocacy">Advocacy</a></li>
                     <li><a href="http://www.export.gov/salesandmarketing/eg_main_018203.asp">Export Counseling</a></li>
                     <li><a href="http://www.export.gov/salesandmarketing/eg_main_018195.asp">Gold Key Matching</a></li>
@@ -683,7 +685,7 @@ Some of our Web  pages contain links to websites outside ITA, including those of
                 	<li><a href="http://tcc.export.gov/Report_a_Barrier/Common_Trade_Problems/index.asp">Report a Trade Barrier</a></li>
                    	<li> <a href="http://www.export.gov/SafeHarbor">Safe Harbor Certification</a></li>
                    	<li><a href="http://ia.ita.doc.gov/steel/license/index.html">Steel Import Licensing</a></li>
-                    <li><a href="http://ia.ita.doc.gov/pcp/pcp-howtofile.html">Trade Complaint Filing</a></li>
+                    <li><a href="http://ia.ita.doc.gov/petitioncounseling/">Trade Complaint Filing</a></li>
                     <li><a href="http://www.export.gov/tradeevents/eg_main_018558.asp">Trade Fair Certification</a></li>
                     <li><a href="http://www.export.gov/eac/trade_leads.asp">Trade Leads</a></li><br>
                     <li><a href="/success">Successes</a></li>
@@ -762,7 +764,7 @@ Some of our Web  pages contain links to websites outside ITA, including those of
 					<div id="footerdivider">
 						<div class="footerdivideotitle">www.TRADE.gov</div><br>
 						<div><a href="/feedback.asp">Website Feedback</a> | <a href="http://www.usa.gov">USA.gov</a> | <a href="http://trade.gov/foia">FOIA</a>  | <a href="/privacy.asp">Privacy Policy</a>  | <a href="/endorse.asp">Disclaimer</a>  |
-                        <a href="http://www.ita.doc.gov/ITAiqs.pdf">Information Quality Guidelines</a>
+                        <a href="/ITAiqs.pdf">Information Quality Guidelines</a>
                       </div>
 					</div>
                     <div class="disclamier">
