@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525074836id_/http%3A//www.latpro.com/USER/privacy-statement.php%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014151404id_/http%3A//www.latpro.com/USER/privacy-statement.php%3F1349240462) for the most accurate reproduction.*
 
 # Minority Recruitment | Diversity Recruiting | Minority Recruiting | Diversity Recruitment
 
