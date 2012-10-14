@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514010219id_/https%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014091207id_/http%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This policy sets out the approach TMS Global Services Pty Ltd ("TMS") has adopte
 
 **1\. Background**
 
-TMS owns and operates the Ozlotteries.com website which is the medium through which a range of lottery-based gaming activities are transacted with suppliers such as New South Wales Lotteries Corporation and Tatts Group Limited.
+TMS owns and operates the Ozlotteries.com website which is the medium through which a range of lottery-based gaming activities are transacted with suppliers such as SA Lotteries, New South Wales Lotteries Corporation and Tatts Group Limited.
 
 TMS is committed to the protection of the personal information of individuals and is bound by the NPPs under the Privacy Act 1988.
 
