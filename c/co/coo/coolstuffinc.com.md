@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501054531id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014173256id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at CoolStuffInc.com
 
