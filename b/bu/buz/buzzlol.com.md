@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzlol.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529074959id_/http%3A//www.buzzlol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzlol.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014181809id_/http%3A//www.buzzlol.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Buzz LOL!!!
 
@@ -18,6 +18,8 @@ DoubleClick DART Cookie
 • Google, as a third party vendor, uses cookies to serve ads on www.buzzlol.com.  
 • Google’s use of the DART cookie enables it to serve ads to our users based on their visit to www.buzzlol.com and other sites on the Internet.  
 • Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 Google Adsense  
