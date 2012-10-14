@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofosex.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512010855id_/http%3A//www.mofosex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofosex.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014021513id_/http%3A//www.mofosex.com/privacy.php) for the most accurate reproduction.*
 
 # Free Porn Videos, Porn Tube, Sex Videos, Sex & Free XXX Porno Clips
 
