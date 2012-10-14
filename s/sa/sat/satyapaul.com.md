@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satyapaul.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625012408id_/http%3A//www.satyapaul.com/satyapaul/shop/PrivacyPolicy_10001_10051_-1_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satyapaul.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014162754id_/http%3A//www.satyapaul.com/satyapaul/shop/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Satya Paul's Privacy Policy |Safe Online Shopping on satyapaul.com
 
 ### Security Policy
 
