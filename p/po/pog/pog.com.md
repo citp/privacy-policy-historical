@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pog.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531132557id_/http%3A//www.pog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pog.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014112331id_/http%3A//www.pog.com/privacy) for the most accurate reproduction.*
 
 # POG.COM - Play Online Games
 
