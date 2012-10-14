@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430132556id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015002721id_/http%3A//www.acuvue.com/privacy-policy) for the most accurate reproduction.*
 
 # ACUVUE® Brand Privacy Policy | ACUVUE® Brand
 
-[Safe Harbor Privacy Policy](https://web.archive.org/web/20120430132556id_/http%3A//www.acuvue.com/safe_harbor.htm "Safe Harbor Privacy Policy")
+[Safe Harbor Privacy Policy](https://web.archive.org/safe-harbor "Safe Harbor Privacy Policy")
 
 v 6.0
 
-#### Welcome
+## Welcome
 
 Welcome to www.acuvue.com! This site is owned by Johnson & Johnson Vision Care, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information to this site. This site is intended for use by residents of the United States.
 
-#### Your Consent
+## Your Consent
 
 By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
-#### About Children
+## About Children
 
 This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
 
-#### Information You Provide
+## Information You Provide
 
 Some areas of this site may ask you to submit personally identifiable information in order for you to benefit from the specified features (such as news letter subscriptions or notification of special offers) or to participate in a particular activity (such as sweepstakes or promotions). You will be informed what information is required and what information is optional.
 
-#### Active Information Collection
+## Active Information Collection
 
 Like many Web sites, this site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via email, feedback forms, and/or chat rooms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, email address, phone number, and so on).
 
-#### Passive Information Collection
+## Passive Information Collection
 
 As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies.
 
@@ -40,13 +40,13 @@ A "cookie" is a bit of information that a Web site sends to your Web browser tha
 
 You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser.
 
-A site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site.
+A site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user’s computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site.
 
-"Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the site and on different pages of the site. Such tags indicate how many times a page is opened and which information is consulted.
+"Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor’s computer. Tags may be placed both on online advertisements that bring people to the site and on different pages of the site. Such tags indicate how many times a page is opened and which information is consulted.
 
 "Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors.
 
-#### Use and Disclosure of Information
+## Use and Disclosure of Information
 
 Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it) for our marketing and research purposes, and for the purposes specified in this Privacy Policy.
 
@@ -54,63 +54,41 @@ If you provide personally identifiable information to this site, we may combine 
 
 We may disclose your personally identifiable information to other Johnson & Johnson affiliates worldwide that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose your personally identifiable information to third parties, located in the United States and/or any other country, but only
 
-  * (i) to contractors we use to support our business (e.g., fulfillment services, technical support, delivery services, and financial institutions) in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy;
+(i) to contractors we use to support our business (e.g., fulfillment services, technical support, delivery services, and financial institutions) in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy;
 
-  * (ii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy;
+(ii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy;
 
-  * (iii) where required by applicable laws, court orders, government regulations; or
+(iii) where required by applicable laws, court orders, government regulations; or
 
-  * (iv) to provide products or services you have requested, when we have your permission. In addition, we will make full use of all information acquired through this site that is not in personally identifiable form.
+(iv) to provide products or services you have requested, when we have your permission. In addition, we will make full use of all information acquired through this site that is not in personally identifiable form.
 
-
-
-
-#### Access,Correction and Deletion
+## Access,Correction and Deletion
 
 To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession, or to delete information in our possession that you have previously submitted via this site upon request.
 
-#### Security
+## Security
 
 We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, email sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via email. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
 
-#### Links to Other Web Sites
+## Links to Other Web Sites
 
 This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit.
 
-#### Other Terms
+## Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20120430132556id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/legal-notice "Legal Notice").
 
-#### How to Contact Us
+## How to Contact Us
 
 If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please contact us:
 
 **By telephone:** (800) 843-2020  
-**By email:** [vpiweb@visus.jnj.com](mailto:vpiweb@visus.jnj.com)  
+**By email:** [vpiweb@visus.jnj.com](mailto:vpiweb@visus.jnj.com "vpiweb@visus.jnj.com")  
 **By mail:** Johnson & Johnson Vision Care, Inc.  
 7500 Centurion Parkway, Suite 100  
 **Mail Stop:** D-CREL  
 Jacksonville, Florida 32256
 
-#### Changes to This Privacy Policy
+## Changes to This Privacy Policy
 
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 17, 2011.
-
-| 
-
-[]()
-
-[](http://www.facebook.com/acuvue)
-
-[](http://www.youtube.com/acuvue)
-
-[](http://www.advamed.org/MemberPortal/About/code)
-
-We support the AdvaMed Code of Ethics on Interactions with Health Care Professionals.
-
-*Professional exam and fitting fees are not included.  
-© JJVCI 1996 - 2020. All rights reserved. This site is published by JJVCI, which is solely responsible for its content. It is intended for use by residents of the United States.  
-ACUVUE®, 1-DAY ACUVUE® MOIST®, 1-DAY ACUVUE® MOIST® for ASTIGMATISM, 1-DAY ACUVUE® TruEye™, ACUVUE® ADVANCE®, ACUVUE® ADVANCE® Plus, ACUVUE® OASYS®,  
-HYDRACLEAR®, ACUVUE® _2_ ™, ACUVUE® _2 COLOURS_ ™, ACUMINDER™, BEAUTY WRAPPED IN COMFORT™, BLINK STABILIZED™,  
-PUPIL INTELLIGENT DESIGN™, and STEREO PRECISION SELECT™  
-are trademarks of Johnson & Johnson Vision Care, Inc.
