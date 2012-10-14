@@ -1,38 +1,70 @@
-> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513160554id_/http%3A//www.lbi.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014020156id_/http%3A//www.lbi.com/uk/privacy) for the most accurate reproduction.*
 
-# Privacy statement | LBi
+# Privacy Statement and Cookie Information - LBi
 
-## Your privacy matters to us
+Your privacy matters to us. This privacy policy sets out the basis on which we may use and process the information that you freely provide to us and consent for us to use. By using this website, you agree to this privacy policy. If you do not agree to this privacy policy, please do not use our website. We may change or modify this privacy policy at any time and without notice. Please check this page periodically to access our most up to date privacy policy.
 
-This online privacy policy discloses LBI’s online information gathering practices and describes the usage of the information gathered on this website.
+#### Links to other websites
 
-**Personal Information Collection and Use**  
-The only personally identifiable information collected on this site is submitted to us freely and deliberately by site users. We collect and use this information in the following ways:
+Our website may, from time to time, contain links to other websites. If you follow a link to any of these websites, please note that we do not log visitors’ clicks from our website to them. Also, these websites have their own privacy policies and terms and conditions and we do not accept any responsibility or liability for these websites or the information you provide to them.
 
-**Contact Us**  
-We collect your contact information through our ‘Contact’ form so that we can respond to your requests. We may keep this information in a database. You may bypass the form submission if you wish by using the e-mail address provided and by using your personal mail application to submit your request.
+#### Information gathering
 
-**Subscribe to press releases**  
-We use a third party service to deliver our press release subscription service. This service is provided by Waymaker. The data submitted through our online form goes directly into their system. Any data submitted to them is subject to their terms and conditions.
+We only collect information where you make it available to us, you may do this by allowing us to place cookies on your browser or hard drive, by accessing server logs or when you contact us through the information available on our website.
 
-If you send us an e-mail message, we may keep that message, your e-mail address, and / or any other data submitted by means of such a message.
+#### Cookies
 
-**Newsletters**  
-The information provided through our newsletters is exclusively meant for the purpose of informing our stakeholders. The information revealed in our newsletters is drawn up with the greatest possible care. However, we do not accept any liability with regard to the accuracy and / or completeness of this information. We will not sell or disclose any user information, such as email addresses to third parties without prior consent of the owner of the information. Unsubscribe instructions are included at the bottom of each issue of the newsletter.
+Our website uses cookies to understand how you use our website so that we can enhance your experience. A cookie is a small text file of letters and numbers that we store on your browser or the hard drive of your computer, if you agree. Cookies contain information that is transferred to your computer's hard drive. We do not receive any personally identifiable information about you from the cookies that we use. We use **analytical/performance cookies** which allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. We may also use **functionality cookies** to recognise you when you return to our website. This enables us to personalise our content for you and remember your preferences (for example, your choice of language or region).
 
-**Cookies**  
-LBI uses cookies on this website. We utilize cookie technology to enhance and customize your experience. Cookies contain no personally identifying information.
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
-**Server logs**  
-Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user’s ISP, and the web URL a user linked from. This information is used generally to help us plan system enhancements when necessary and to provide content which is compatible with our visitors’ web browsing systems.
+#### Cookie name
 
-**Searches**  
-Keyword search function is provided in the press release area of LBI website as a convenience to our users. We do not collect your name or e-mail address as a result of using a search feature, nor do we tabulate search terms entered by individuals.
+| 
 
-**Hyperlinks to Other Web Sites**  
-LBI includes links to websites of other companies. We do not log visitors’ clicks from our site to other sites. Please note that we take no responsibility for the content of any external web site.
+#### Purpose
 
-**Acceptance of the LBI’s Online Privacy Policy**  
-By using this site, you agree to LBI’s online privacy policy. If you do not agree to this policy, please do not use this site. We may change or modify this policy without notice, please check this periodically.
+| 
 
-[Add This](http://www.addthis.com/bookmark.php?v=250&pub=azcazandco)
+#### Expiration  
+  
+---|---|---  
+  
+redirectcountry
+
+| When you visit www.lbi.com you may be redirected to a regional LBi office website based on your IP address. This cookie serves as an indicator that you have been redirected to the local site.   
+| 
+
+30 days  
+  
+cookiewarningdismissed
+
+| When you visit any LBi website from a device in the European Union, an informational popup about the use of cookies will be displayed. If you choose to dismiss the popup, a cookie will be saved to prevent it from being shown the next time you visit. | 
+
+30 days  
+  
+_utma | These are analytics cookies managed by a third party that help LBi measure site performance and understand what interests visitors. LBi does not record any information that could identify visitors. | 2 years  
+_utmb | 30 minutes  
+_utmz | 6 months  
+  
+Most browsers automatically accept cookies from websites. If you go into your browser settings you can choose to refuse all or some cookies. However, if you set your browser settings to block all cookies you may not be able to access all or parts of our website.
+
+#### Server logs
+
+When you visit our website we use server logs to capture certain non-personally identifying data for statistical purposes, such as the time and date of a visit, the browser and operating system being used, the IP address or domain name of the user’s ISP, and the web URL a user linked from. This information is used in the aggregate to help us plan system enhancements when necessary and to provide content which is compatible with our visitors’ web browsing systems.
+
+#### Emails from you to us
+
+When you email us through the Contact Us page on our website we may keep a record of that correspondence, your e-mail address, and/or any other data submitted by means of such a message.
+
+#### Disclosure of information
+
+We hold the information you provide to us securely and in confidence. However, we may disclose this information to any member of our group (which means our subsidiaries, our ultimate holding company and its subsidiaries). We will only disclose information to unrelated third parties without your consent if we are under a duty to disclose or share such information in order to comply with any legal obligation, or on the request of a legal or regulatory authority or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/terms/).
+
+#### Your rights
+
+LBi complies with the Data Protection Act 1998. You have the right to access information held about you and you are free to exercise this right at any time. Any access request may be subject to a nominal fee to meet our costs in providing you with details of the information we hold about you.
+
+#### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [legal@lbi.com](mailto:legal@lbi.com)
