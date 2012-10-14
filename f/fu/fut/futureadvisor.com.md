@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureadvisor.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510085350id_/https%3A//www.futureadvisor.com/legal/FutureAdvisor%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureadvisor.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063603id_/https%3A//www.futureadvisor.com/legal/FutureAdvisor%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
