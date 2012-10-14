@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512065541id_/https%3A//www.payfast.co.za/c/std/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014062927id_/https%3A//www.payfast.co.za/c/std/privacy-policy) for the most accurate reproduction.*
 
 # PayFast - Privacy Policy
 
 [](https://web.archive.org/)
 
-**Last updated on: 03 Aug 2009**
+**Last updated on: 05 June 2012**
 
 ## 1\. Introduction
 
@@ -57,7 +57,9 @@ In the course of service provision to the User we may collect certain forms of i
 
 6.1 PayFast may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We may also partner with third parties to provide specific services. When the User signs up for these services, we will share the information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-6.2 We will not voluntarily disclose any information about individual users, except as described in this Privacy Policy, or to comply with applicable laws or valid legal process, or to protect the rights or property of PayFast or others, to assist our email vendor with resolving complaints about unsolicited email, or as otherwise described in this Privacy Policy.
+6.2 PayFast may share a User's contact information with other registered Users for the purposes of resolving support queries relating to PayFast or the service provided to a User by another User. This contact information includes, but is not limited to, name, surname, email address and phone number. Typically, this would be providing a buyer's contact details to a seller or vice versa, where PayFast has the necessary information to assist, but cannot actually resolve a support query.
+
+6.3 We will not voluntarily disclose any information about individual users, except as described in this Privacy Policy, or to comply with applicable laws or valid legal process, or to protect the rights or property of PayFast or others, to assist our email vendor with resolving complaints about unsolicited email, or as otherwise described in this Privacy Policy.
 
 ## 7\. Data integrity
 
