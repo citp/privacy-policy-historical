@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canadacomputers.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504035330id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canadacomputers.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014040327id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=6;FF=3;OtherUA=4">
@@ -33,6 +33,23 @@ function CheckKeywords()
 		alert("One or more of your search terms were shorter than the minimum length. The minimum search term length is 3 characters.");
 		return false;
 	}
+	//kc 19-9-2012 additional filter for usb a/b, and a/a keywords
+	if( words.match(/^[c-zC-Z][\/][c-zC-Z]$/) || words.match(/^[a-zA-Z][\/][c-zC-Z]$/) || words.match(/^[c-zC-Z][\/][a-zA-Z]$/) || 
+	words.match(/^[c-zC-Z][ ][c-zC-Z]$/) || words.match(/^[a-zA-Z][ ][c-zC-Z]$/) || words.match(/^[c-zC-Z][ ][a-zA-Z]$/)){
+		alert("Invalid Keyword");
+		return false;
+	}
+	
+	return true;
+}
+
+function RedirectConfirm(i_code)
+{
+    if ((i_code == "SWMS002220") || (i_code == "SWMS002215") || (i_code == "SWMS002235") || (i_code == "SWMS002225") || (i_code == "SWMS002230") || (i_code == "SWMS002325") || (i_code == "SWMS002240") || (i_code == "SWMS001612") || (i_code == "SWMS002295"))
+	{	
+		alert("Following item " + i_code + " must be purchased with any systems or qualifying hardware");
+    }
+    
 	return true;
 }
 
@@ -49,12 +66,13 @@ function hideFullList() {
 <!-- Top Navigation bar -->
   <div class="header_css" style="text-align:right">
   <span class="header_css white">Your Best Source For The Hot Deals Of Computers, Laptops And Electronics Shopping!</span>
- <a href="/specials.php" class="headerTopMenu">Weekly Specials</a><a href="/top20.php" class="headerTopMenu">Top Deals</a>
+ <a href="http://www.canadacomputers.com/specials.php" class="headerTopMenu">Weekly Specials</a><a href="/top20.php" class="headerTopMenu">Top Deals</a>
+	 
      <a href="/bundle.php" class="headerTopMenu">Bundles</a>
      <a href="/newarrivals.php" class="headerTopMenu">New Arrivals</a>
      <a href="/clearance.php" class="headerTopMenu">Clearance Sales</a>
      <a href="/yourreward/" class="headerTopMenu">YourReward</a>
-     <a href="/cc_weeklyspecial/" class="headerTopMenu">Flyer</a>
+     <!--<a href="/cc_weeklyspecial/" class="headerTopMenu">Flyer</a>-->
      <a href="http://www.canadacomputers.com/newsletter.php" class="headerTopMenu">Newsletter</a>
      <a href="/location.php" class="headerTopMenu">Store Locations</a>
      <a href="http://forums.canadacomputers.com/" class="headerTopMenu">Forums</a>
@@ -163,19 +181,20 @@ function hideFullList() {
 <li><a href="#" class="products2">Home Theatres</a>
  <div class="sub">
   <ul>
-   <li><a href="../index.php?cPath=238">TVs</a></li>
+   <li><a href="../index.php?cPath=238">Televisions</a></li>
    <li><a href="../index.php?cPath=36">Projectors</a></li>
    <li><a href="../index.php?cPath=231">Home Theatre In A Box</a></li>
-   <li><a href="../index.php?cPath=232">Home Theatre Speakers</a></li>
-   <li><a href="../index.php?cPath=1094">Home Theatre Sound Bars</a></li>
-   <li><a href="../index.php?cPath=234">Blu-ray Players</a></li>
-   <li><a href="../index.php?cPath=235">DVD Players</a></li>
-   <li><a href="../index.php?cPath=243">Video Recorders</a></li>
+   <li><a href="../index.php?cPath=232">Speakers</a></li>
+   <li><a href="../index.php?cPath=1135">Audio/Video Components</a></li>
+   <li><a href="../index.php?cPath=1131">Audio Cables &amp; Connectors</a></li>
+   <li><a href="../index.php?cPath=1146">Video Cables &amp; Connectors</a></li>
+   <!--<li><a href="../index.php?cPath=234">DVD & Blu-ray Players</a></li>
+   <li><a href="../index.php?cPath=243">Video Recorders</a></li>-->
    <li><a href="../index.php?cPath=164">Satellite/FTA</a></li>
    <li><a href="../index.php?cPath=242">Universal Remotes</a></li>
-   <li><a href="../index.php?cPath=230">A/V Receivers</a></li>
-   <li><a href="../index.php?cPath=132">Internet Radio</a></li>
-   <li><a href="../index.php?cPath=226">Accessories</a></li>
+   <!--<li><a href="../index.php?cPath=230">A/V Receivers</a></li>
+   <li><a href="../index.php?cPath=132">Internet Radio</a></li>-->
+   <li><a href="../index.php?cPath=226">Home Theatre Furniture</a></li>
   </ul>
  </div>
 </li>
@@ -230,6 +249,7 @@ function hideFullList() {
     <li><a href="../index.php?cPath=37_754">Brackets and Housing</a></li>
     <li><a href="../index.php?cPath=37_678">Power Supplies</a></li>
     <li><a href="../index.php?cPath=37_494">Accessories</a></li>
+    <li><a href="../vonnic/index.php">Installer Club</a></li>
   </ul>
  </div>
 </li>
@@ -237,7 +257,7 @@ function hideFullList() {
  <div class="sub">
   <div class="row">
    <ul><li><a href="../index.php?cPath=16">Headphones &amp; Microphones</a></li></ul>
-   <ul><li><a href="../index.php?cPath=12">GPS</a></li></ul>
+   <ul><li><a href="../index.php?cPath=12">GPS &amp; Accessories</a></li></ul>
   </div>
   <div class="row">
    <ul><li><a href="../index.php?cPath=30">Phones &amp; Communication</a></li></ul>
@@ -462,7 +482,12 @@ Last modified: 07/30/04<br><br>
 </tbody></table>
 <!-- footer //-->
   <!-- Ck general for css -->
+  <div style="display:block;clear:both; width:1015px;">
+ <!--<span style="display:block; width:1015px; text-align:left; float:left; margin-bottom:5px;">
+ <a href="/corporate.php">
+ <img src="http://www.canadacomputers.com/special_banners/corporate.jpg" width="1015" height="50" border="0" /></a></span><br />-->
 
+ 
   <div id="partnerfooterBox">
 <div class="partnerBox">
 <p><strong>Partners / Shop By Brand</strong></p>
@@ -470,12 +495,15 @@ Last modified: 07/30/04<br><br>
 <img src="../partners/amd.jpg" alt="AMD" width="83" height="70" style="float:left; padding-left:5px; padding-top:20px;"></a>
 <a href="/intel/">
 <img src="../partners/intel.jpg" alt="Intel" width="83" height="70" style=" display:block;float:left; padding-left:5px;padding-top:20px; "></a>
+<!--<a href="/cisco/">
+<img src="../partners/cisco.jpg" alt="Intel" width="83" height="70" style=" display:block;float:left; padding-left:5px;padding-top:20px; "></a>-->
 <a href="/acer/" class="f_partner"><img src="../partners/acer.jpg" alt="aceryes!" width="83" height="20"></a>
 <a href="/antec/" class="f_partner"><img src="../partners/antec.jpg" alt="antecyes!" width="83" height="20"></a>
 <a href="/asus/" class="f_partner"><img src="../partners/asus.jpg" alt="asusyes!" width="83" height="20"></a>
 <a href="/avermedia/" class="f_partner"><img src="../partners/avermedia.jpg" alt="avermediayes!" width="83" height="20"></a>
 <a href="/belkin/" class="f_partner"><img src="../partners/belkin.jpg" alt="belkinyes!" width="83" height="20"></a>
 <a href="/brother/" class="f_partner"><img src="../partners/brother.jpg" alt="brotheryes!" width="83" height="20"></a>
+<a href="/canon/" class="f_partner"><img src="../partners/canon.jpg" alt="canonyes!" width="83" height="20"></a>
 <a href="/coolermaster/" class="f_partner"><img src="../partners/coolermaster.jpg" alt="coolermasteryes!" width="83" height="20"></a>
 <a href="/corsair/" class="f_partner"><img src="../partners/corsair.jpg" alt="corsairyes!" width="83" height="20"></a>
 <a href="/creative/" class="f_partner"><img src="../partners/creative.jpg" alt="creativeyes!" width="83" height="20"></a>
@@ -485,6 +513,7 @@ Last modified: 07/30/04<br><br>
 <a href="/hp/" class="f_partner"><img src="../partners/hp.jpg" alt="hpyes!" width="83" height="20"></a>
 <a href="/kingston/" class="f_partner"><img src="../partners/kingston.jpg" alt="kingstonyes!" width="83" height="20"></a>
 <a href="/lenovo/" class="f_partner"><img src="../partners/lenovo.jpg" alt="lenovoyes!" width="83" height="20"></a>
+<a href="/linksys/" class="f_partner"><img src="../partners/linksys.jpg" alt="linksysyes!" width="83" height="20"></a>
 <a href="/mediasonic/" class="f_partner"><img src="../partners/mediasonic.jpg" alt="mediasonicyes!" width="83" height="20"></a>
 <a href="/microsoft/" class="f_partner"><img src="../partners/microsoft.jpg" alt="microsoftyes!" width="83" height="20"></a>
 <a href="/msi/" class="f_partner"><img src="../partners/msi.jpg" alt="msiyes!" width="83" height="20"></a>
@@ -498,17 +527,17 @@ Last modified: 07/30/04<br><br>
 <a href="/tp-link/" class="f_partner"><img src="../partners/tp-link.jpg" alt="tp-linkyes!" width="83" height="20"></a>
 <a href="/wacom/" class="f_partner"><img src="../partners/wacom.jpg" alt="wacomyes!" width="83" height="20"></a>
 <a href="/WD/" class="f_partner"><img src="../partners/wd.jpg" alt="wd" width="83" height="20"></a>
-</div>
-</div>
+</div><!-- partnerBox -->
+</div><!-- partnerfooterBox -->
   
   <div id="footerBox">
   <div class="footerMini">
   Social Networking
   <a href="http://www.facebook.com/pages/Canada-Computers/118513274835313?ref=ts" class="f_item"> •&nbsp;Facebook</a>
   <a href="http://twitter.com/CC_Deals" class="f_item"> •&nbsp;Twitter</a>
-  <a href="http://www.youtube.com/canadacomputers2010" class="f_item"> •&nbsp;Youtube</a>
+ <!-- <a href="http://www.youtube.com/canadacomputers2010" class="f_item"> &bull;&nbsp;Youtube</a>-->
   <a href="http://forums.canadacomputers.com/" class="f_item"> •&nbsp;Forums</a>
-  </div>
+  </div><!-- footerMini -->
   
   <div class="footerMini">
   Resources
@@ -523,7 +552,7 @@ Last modified: 07/30/04<br><br>
    
    <a href="http://itunes.apple.com/us/app/canadacomputers/id408219185?mt=8" target="_blank" class="f_item">
    <img src="../buttons/app_iphone.jpg" alt="app" width="116" height="40" border="0"></a>
-    </div> 
+    </div> <!-- footerMini -->
     
   <div class="footerMini">
   My Account
@@ -533,7 +562,7 @@ Last modified: 07/30/04<br><br>
   <a href="/shopping_cart.php" class="f_item"> •&nbsp;View Cart</a>
   <a href="/wishlist.php" class="f_item"> •&nbsp;View Wish List</a>
   <a href="/account_history.php" class="f_item"> •&nbsp;Order History</a>
-  </div>
+  </div><!-- footerMini -->
     
   <div class="footerMini">
   Customer Services
@@ -546,7 +575,7 @@ Last modified: 07/30/04<br><br>
   <a href="/feedback.php" class="f_item"> •&nbsp;Customer Feedback</a>
   <a href="/warranty_plans.php" class="f_item"> •&nbsp;Warranty Plans</a>
   <a href="/prodrequest.php" class="f_item"> •&nbsp;Product Request</a>
-  </div>
+  </div><!-- footerMini -->
      
     <div class="footerMini">
     About Us
@@ -556,8 +585,9 @@ Last modified: 07/30/04<br><br>
     <a href="/location.php" class="f_item"> •&nbsp;Store Locations &amp; Hours</a>
     <a href="/corporate.php" class="f_item"> •&nbsp;Corporate Sales</a>
     <a href="/wholesale" class="f_item"> •&nbsp;Wholesales</a>
+    <a href="/vonnic/index.php" class="f_item"> •&nbsp;Vonnic Installer Club</a>
     <!--<a href="#" class="f_item"> &bull;&nbsp;Educational Sales </a>-->
-   </div> 
+   </div> <!-- footerMini -->
      
    <div class="footerMini">
    Policies
@@ -570,8 +600,8 @@ Last modified: 07/30/04<br><br>
    <a href="/terms_conditions.php" class="f_item"> •&nbsp;Terms &amp; Conditions</a>
    <a href="/PriceMatch_Policy.php" target="_blank" class="f_item">
    <img src="../buttons/price_match2.jpg" alt="app" width="116" height="40" border="0"></a>
-   </div>
-   </div>
+   </div><!-- footerMini -->
+   </div><!-- footerBox -->
  
 <div class="partnerBox" style="font-size:10px;">
   MIR = Mail in Rebate, IR = Instant Rebate. Prices are in Canadian dollars.  Canada Computers is not responsible for typographical or photographical errors.  Prices and specifications are subject to change without notice.  Logos and trademarks are copyright  and the property of their respective owners.  © 2003 - 2012 Canada Computers.  All right reserved.
@@ -629,7 +659,8 @@ var google_conversion_value = 0;
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/999069189/?label=PX42CLPz_AIQhayy3AM&amp;guid=ON&amp;script=0">
 </div>
-</noscript><!-- footer_eof //-->
+</noscript>
+</div><!-- footer_eof //-->
 
 </center>
 
