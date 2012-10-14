@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the startingpage.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007190253id_/http%3A//www.startingpage.com/eng/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startingpage.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014020006id_/https%3A//startpage.com/au/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
 <title>Privacy Policy</title>
 
 <script>
-var preText = "Startingpage Metasearch";
+var preText = "Startpage Metasearch";
 var theTarget = 0;
 var linkback_url = "";
 var linkback_sitename = "";
@@ -153,7 +154,8 @@ function htmlspecialchars(str){
 		li {
                         color:                  #200C71;
 			font-size:		12px;
-                }
+            line-height:25px;
+        }
 		div.topdiv {
 			border:         1px solid #255BB1;
 		}
@@ -162,11 +164,6 @@ function htmlspecialchars(str){
 			/*background-color    :   #200C71;*/
 			background-color    :   #4599d9;
 		}
-	
-	.tdmenu table tr td {
-    	white-space: nowrap;
-	}	
-
        .tdmenu {
             width : 260px;
             background-image:   url("/graphics/startpage_menumiddle.jpg");
@@ -175,6 +172,10 @@ function htmlspecialchars(str){
 			background-position:0px 167px;
 			/*background-color:#4898d7;*/
         }
+
+	.tdmenu table tr td {
+    	white-space: nowrap;
+	}	
 		.tdmenurepeat
 		{
 			background:url(/graphics/startpage_menumiddle_repeat.jpg) repeat-x 0px 167px
@@ -424,16 +425,16 @@ input.button{font-family:Verdana; background: url('/graphics/blue_bg.gif'); font
 #privacy_seal p a {color:#200c71;}
 #privacy_seal p a:hover {color:#89c3f1;}
 
-div.subTitle {
-min-width: 280px;
-}
-div.content {
-min-width: 593px;
-}
+  div.subTitle {
+	  min-width: 286px;
+  }
+  div.content {
+	  min-width: 600px;
+  }
 
 #min-width{
-width:593px;
-*width:653px;
+width:600px;
+  *width:660px;
 height:1px;
 } 
 
@@ -468,7 +469,160 @@ height:1px;
 
     <script language="JAVASCRIPT">
 
-var page_language = 'english';
+    // BrowserDetect is a class which determines Browser version,
+    // name and Operating System platform.
+    var BrowserDetect = {
+        init: function () {
+            this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+            this.version = this.searchVersion(navigator.userAgent)
+                            || this.searchVersion(navigator.appVersion)
+                            || "an unknown version";
+            this.OS = this.searchString(this.dataOS) || "an unknown OS";
+        },
+        // Search specific string from the given set of array.
+        searchString: function (data) {
+            for (var i=0;i<data.length;i++){
+                var dataString = data[i].string;
+                var dataProp = data[i].prop;
+                this.versionSearchString = data[i].versionSearch || data[i].identity;
+                if (dataString) {
+                    if (dataString.indexOf(data[i].subString) != -1)
+                        return data[i].identity;
+                }
+                else if (dataProp)
+                    return data[i].identity;
+            }
+        },
+        // Search specific version of browser.
+        searchVersion: function (dataString) {
+            var index = dataString.indexOf(this.versionSearchString);
+            if (index == -1) return;
+            return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+        },
+        // Array containing information of various browsers.
+        dataBrowser: [
+        {
+            string: navigator.vendor,
+            subString: "Camino",
+            identity: "Camino"
+        },
+
+        {
+            string: navigator.userAgent,
+            subString: "Chrome",
+            identity: "Chrome"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Epiphany",
+            identity: "Epiphany"
+        },
+		{
+            string: navigator.userAgent,
+            subString: "SeaMonkey",
+            identity: "SeaMonkey",
+            versionSearch: "rv"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "OmniWeb",
+            versionSearch: "OmniWeb/",
+            identity: "OmniWeb"
+        },
+        {
+            string: navigator.vendor,
+            subString: "Apple",
+            identity: "Safari",
+            versionSearch: "Version"
+        },
+        {
+            prop: window.opera,
+            identity: "Opera"
+        },
+        {
+            string: navigator.vendor,
+            subString: "iCab",
+            identity: "iCab"
+        },
+        {
+            string: navigator.vendor,
+            subString: "KDE",
+            identity: "Konqueror"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Firefox",
+            identity: "Firefox"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Iceweasel",
+            identity: "Iceweasel",
+            versionSearch: "Iceweasel"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "IceWeasel",
+            identity: "Iceweasel",
+            versionSearch: "IceWeasel"
+        },
+		{
+            string: navigator.userAgent,
+            subString: "IceCat",
+            identity: "Icecat",
+            versionSearch: "IceCat"
+        },
+        {
+            // for newer Netscapes (6+)
+            string: navigator.userAgent,
+            subString: "Netscape",
+            identity: "Netscape"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "MSIE",
+            identity: "Explorer",
+            versionSearch: "MSIE"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Gecko",
+            identity: "Mozilla",
+            versionSearch: "rv"
+        },
+        {
+            // for older Netscapes (4-)
+            string: navigator.userAgent,
+            subString: "Mozilla",
+            identity: "Netscape",
+            versionSearch: "Mozilla"
+        }
+        ],
+    // Array containing information of various Operating system platforms.
+    dataOS : [
+        {
+            string: navigator.platform,
+            subString: "Win",
+            identity: "Windows"
+        },
+        {
+            string: navigator.platform,
+            subString: "Mac",
+            identity: "Mac"
+        },
+        {
+            string: navigator.platform,
+            subString: "Linux",
+            identity: "Linux"
+        }
+        ]
+    };
+
+    BrowserDetect.init();
+var MY_BROWSER = BrowserDetect.browser;
+var MY_BROWSER_VERSION = BrowserDetect.version; 
+
+var page_language = 'english_au';
 
 function bookmarkUrl(title, url){
     if (window.sidebar) // firefox
@@ -483,6 +637,95 @@ function bookmarkUrl(title, url){
     else if(document.all)// ie
         window.external.AddFavorite(url, title);
 }
+function getPreferenceParam(url) {
+    var concatParam = '';
+    if( (url.match(/(.*?)(&|\?)(prfh)(=)(.*?)($|&)/g)) || (url.match(/(.*?)(&|\?)(prf)(=)(.*?)($|&)/g)) ){ 
+        concatParam = RegExp.$3 + RegExp.$4 +RegExp.$5;
+        return concatParam;
+    }
+}
+
+function appendPreferenceParam (originalUrl, concatParam) { 
+    if ( originalUrl.match( /\(.*?\)\(\\?\)\(.*?\)\$/g ) ) {              
+        originalUrl = originalUrl+'\&'+concatParam;
+        jQuery(this).attr('href', originalUrl + '\&' + concatParam); 
+        return originalUrl;
+    }  else if( originalUrl.match( /(.*?)(\/)$/g ) ) {                     
+        originalUrl = originalUrl+'\?'+concatParam;
+        jQuery(this).attr('href', originalUrl + '\?' + concatParam); 
+        return originalUrl;
+    } else if(originalUrl.match( /(.*)(\/)(.*?)$/g )) {                  
+        originalUrl = originalUrl+'\?'+concatParam;   
+        jQuery(this).attr('href', originalUrl + '\?' + concatParam); 
+        return originalUrl;
+    }
+
+}
+function concatParamToAllUrls (referenceUrlId) {
+    /* Get current url */
+        currentUrl=referenceUrlId;	
+    var isParamPresentInFormField = false; /* flag to check if prf OR prfh param is present in form field */
+        var isParamPresentInUrl = false;  /* flag to check if prf OR prfh param is present in url */
+        var paramName = "";
+    var paramValue = "";
+    
+    /* Loop through each input type element and check if prf OR prfh is present or not. If yes mark flag as true */
+        jQuery(":input").each(function(i){
+            
+            if( (jQuery(this).attr("name") == "prfh") || (jQuery(this).attr("name") == "prf") ){
+                isParamPresentInFormField = true;
+                paramName  = jQuery(this).attr("name") + "=";
+                paramValue = jQuery(this).attr("value");
+            }
+            
+        });
+
+    /* Is prf OR prfh present in Url. If yes then set flag as true */
+        if( (currentUrl.match(/(.*?)(&|\?)(prfh)(=)(.*?)($|&)/g)) || (currentUrl.match(/(.*?)(&|\?)(prf)(=)(.*?)($|&)/g)) ){
+			isParamPresentInUrl = true;
+        }
+    
+    if( (isParamPresentInUrl) || (isParamPresentInFormField) ){
+        var concatThisParam = "";
+        
+        /* Prepare param to be concatenated */
+            if (isParamPresentInUrl) {
+                concatThisParam = RegExp.$3 + RegExp.$4 +RegExp.$5;
+            } else if(isParamPresentInFormField){
+                concatThisParam = paramName + paramValue ;
+                
+            }
+        
+        jQuery('.addsettings').each(function(index){ 
+            var originalUrl = jQuery(this).attr('href');
+
+            if ( originalUrl.match( /(.*?)(\?)(.*?)$/g ) ){
+                jQuery(this).attr('href', originalUrl + '&' + concatThisParam);
+            } else if( originalUrl.match( /(.*?)(\/)$/g ) ){
+                jQuery(this).attr('href', originalUrl + '?' + concatThisParam);
+            } else if(originalUrl.match( /(.*)(\/)(.*?)$/g ) ){
+                jQuery(this).attr('href', originalUrl + '?' + concatThisParam);
+            }
+            
+        });
+        
+    }
+}
+
+function apply_preference_param() {
+var concatThisParam = '';
+var originalUrl = window.location.href;
+var http_host = get_http_host();                                         
+if (http_host.indexOf('quick.') != -1) {                                 
+  originalUrl= http_host + '/au/';           
+}                                                                        
+else {originalUrl ='/au/';}
+var preference_param = getPreferenceParam(window.location.href);
+if(preference_param) {
+originalUrl = appendPreferenceParam(originalUrl, preference_param); 
+}
+window.location.href = originalUrl;
+}
 
 function show () {
     for (var i=0; i<show.arguments.length; i++) {
@@ -494,7 +737,33 @@ function hide () {
         document.getElementById(hide.arguments[i]).style.display = 'none';
     }
 }
-  
+function show_plugin_install (obj_id, do_display) {
+	if ( (MY_BROWSER == 'Firefox') || (MY_BROWSER == 'Chrome') || (MY_BROWSER == 'SeaMonkey') ||
+		 ((MY_BROWSER == 'Explorer') && (MY_BROWSER_VERSION >= 7) && (MY_BROWSER_VERSION < 9))) {
+		
+		if (do_display == 1) {
+			show(obj_id);
+		}
+	}
+}
+
+	function add_plugin (plugin_url, favicon_url, brand, custom_text) {
+		plugin_url += '&browser=' + MY_BROWSER + '&version=' + MY_BROWSER_VERSION;
+
+		if ((MY_BROWSER == 'Explorer') && (MY_BROWSER_VERSION >= 7) && (MY_BROWSER_VERSION < 9)) {
+			window.external.AddSearchProvider(plugin_url);
+
+		} else if (MY_BROWSER == 'Firefox') {
+			window.sidebar.addSearchEngine(plugin_url+'&a=b.src', favicon_url, brand, custom_text);
+
+		} else if (MY_BROWSER == 'Chrome') {
+			window.external.AddSearchProvider(plugin_url);
+
+		} else if (MY_BROWSER == 'SeaMonkey') {
+			window.sidebar.addSearchEngine(plugin_url+'&a=b.src', favicon_url, brand, custom_text);
+		}
+	}
+
 function load_img (img_url) {
     if (document.images) {
 	    var arbit_num = parseInt(Math.random()*999999);
@@ -789,31 +1058,54 @@ function preloadImages() {
         on = newImage('/graphics/blue-bg.gif');
         off = newImage('/graphics/blue-bg_click.gif');
 		bg = newImage('/graphics/blue-bg_on.gif');
-		img1 = newImage('/graphics/eng/big_brother_hov.gif');
-        img2 = newImage('/graphics/eng/tell_a_friend_hov.gif');
-        img3 = newImage('/graphics/eng/small_aol_database_hov.gif');
-        img4 = newImage('/graphics/eng/q_and_a_hov.gif');
-        img5 = newImage('/graphics/eng/recent_articles_hov.gif');
-        img6 = newImage('/graphics/eng/tell_a_friend_trangle_hov.gif');
+		img1 = newImage('/graphics/au/big_brother_hov.gif');
+        img2 = newImage('/graphics/au/tell_a_friend_hov.gif');
+        img3 = newImage('/graphics/au/small_aol_database_hov.gif');
+        img4 = newImage('/graphics/au/q_and_a_hov.gif');
+        img5 = newImage('/graphics/au/recent_articles_hov.gif');
+        img6 = newImage('/graphics/au/tell_a_friend_trangle_hov.gif');
 
         preloadFlag = true;
 	}
 }
 preloadImages();
 function highlight () {
+    var question_count = 28;
 	var url = location.href;
-
+      
+    for (var i=1 ;i <= question_count ;i++)                                                                                                                                                                    
+        {                                                                                                                                                                                                        
+            var answer_id = "q"+i+"ab";
+            if(document.getElementById(answer_id) != null) {
+                document.getElementById(answer_id).style.backgroundColor ="#FFFFFF";
+            }
+        }                                           
+    if ( (url.indexOf("privacy") != -1) && (document.getElementById("qgoogle_cookieab"))) {                                                                                                                       
+        document.getElementById("qgoogle_cookieab").style.backgroundColor ="#FFFFFF";                                                                                                                          
+    }
+         
 	var ie = (document.all)? true: false;
 	if (url.indexOf("#") != -1) {
 	var offset = url.indexOf("#");
 	var tagname = url.substring(offset + 1);
+    
 	if (tagname != "field") {
 		if (tagname == "lowestprice") {
 			tagname = "phone";
 		}
+        if (tagname == "google_cookie") {                                                                                                                                                                        
+            tagname = "q" + tagname;                                                                                                                                                                             
+        } 
 		tagname += "ab";
 		if (document.getElementById(tagname)) {
             document.getElementById(tagname).style.backgroundColor = '#EFF3FF';
+        }
+        //Added to color the question part as white on the privacy q-a page.
+        if(url.indexOf("protect-privacy") != -1) {
+            var question = url.substring(offset + 1) + "q";
+            if (document.getElementById(question)) {
+                document.getElementById(question).style.backgroundColor ="#FFFFFF";
+            }
         }
 	} else {
 		for (var i=1; i < 10; i++) {
@@ -826,31 +1118,32 @@ function highlight () {
 		}
 	}
 	}
+    setTimeout('highlight()',200);
 }
 
-var message_array = new Array('english', "Note:\nIf your Startingpage settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the FAQ.\n", 'deutsch', "Hinweis:\nSollten die Einstellungen von Startingpage nach dem Neustart Ihres Browsers verloren sein, m&#252;ssen die Einstellungen zum Datenschutz m&#246;glicherweise angepasst werden. Weitere Informationen finden Sie unter den H&#228;ufig gestellten Fragen (FAQ) auf der Seite \'Let Us Know\'.\n");
+var message_array = new Array('english', 'Note:\nIf your Startpage settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted.\nFurther information can be found on the FAQ.\n', 'english_uk', 'Note:\nIf your Startpage settings are lost after re-starting your browser, your browser\'s privacy preferences may need to be adjusted.\nFurther information can be found on the FAQ.\n', 'english_au', 'Note:\nIf your Startpage settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted.\nFurther information can be found on the FAQ.\n', 'deutsch', 'Hinweis:\nWenn Ihre Startpage-Einstellungen nach dem Neustart Ihres Browsers verloren gegangen sind, m&#252;ssen eventuell die Datenschutzeinstellungen Ihres Browsers angepasst werden.\nWeitere Informationen dazu finden Sie auf der Seite &#132;Wissenswertes&#147; unter den h&#228;ufig gestellten Fragen.\n', 'nederlands', 'Noot:\nAls uw Startpage instellingen verloren gaan na het herstarten van uw browser, ligt dat waarschijnlijk aan de privacy instellingen van uw browser.\nMeer informatie vindt u op de "Laat het ons weten" pagina onder "veelgestelde vragen".\n', 'dansk', 'Bem&#230;rk:\nHvis dine Startpage indstillinger g&#229;r tabt, efter du genstarter din browser, skal din browsers sikkerhedspr&#230;ferencer muligvis justeres.\nYderligere information kan findes p&#229; siden \'Fort&#230;l os om det\' under Ofte stillede sp&#248;rgsm&#229;l\n', 'espanol', 'Nota:\n Si la configuraci&#243;n de Startpage a&#250;n est&#225; perdida despu&#233;s de reiniciar el explorador, es posible que deban ajustarse las preferencias de privacidad del explorador.\nPuede encontrar m&#225;s informaci&#243;n en la p&#225;gina &#147;H&#225;ganos saber&#148; en las Preguntas frecuentes.\n', 'francais', 'Remarque :\nSi les configurations de votre Startpage sont perdues lorsque vous red&#233;marrez votre navigateur, il se peut que les pr&#233;f&#233;rences relatives &#224; la protection des informations personnelles doivent &#234;tre ajust&#233;es.\nVous trouverez des informations compl&#233;mentaires sur la page &#171; Faites-nous part de vos observations &#187; dans la Foire aux questions.\n', 'italiano', 'Nota:\nSe le impostazioni Startpage vanno perse dopo avere riavviato il browser, le preferenze del browser in merito alla privacy dovranno venire reimpostate.\nSi possono trovare ulteriori informazioni alla pagina &#147;Fateci sapere&#148; sotto la sezione FAQ (Domande frequenti).\n', 'norsk', 'Merk:\nHvis Ixquick-innstillingene g&#229;r tapt etter omstart av nettleseren, m&#229; du kanskje justere nettleserens personlige innstillinger.\nMer informasjon finnes under Sp&#248;rsm&#229;l og svar. \n', 'polski', 'Uwaga:\nJe&#347;li ustawienia wyszukiwarki Startpage nie s&#261; zachowane po ponownym uruchomieniu przegl&#261;darki, to mo&#380;e by&#263; konieczna zmiana opcji przegl&#261;darki dotycz&#261;cych ochrony prywatno&#347;ci.\nWi&#281;cej informacji na ten temat mo&#380;na znale&#378;&#263; na stronie Uwagi i komentarze, w cz&#281;&#347;ci Najcz&#281;&#347;ciej zadawane pytania (FAQ).\n', 'portugues', 'Obs.:\nCaso suas configura&#231;&#245;es do Startpage sejam perdidas ap&#243;s a reinicializa&#231;&#227;o do navegador, talvez seja necess&#225;rio ajustar as prefer&#234;ncias de privacidade do navegador.\nMais informa&#231;&#245;es podem ser encontradas na p&#225;gina &#147;Entre em contato conosco&#148; nas FAQs &#150; Perguntas frequentes.\n', 'suomi', 'Huomautus:\nJos Startpage-asetuksesi katoavat selaimesi uudelleenk&#228;ynnistyksen j&#228;lkeen, selaimesi tietosuoja-asetuksia voidaan joutua muuttamaan.\nLis&#228;tietoa l&#246;ytyy &#148;Ilmoita meille&#148; -sivulta, Usein kysytty&#228; -osion alta.\n', 'svenska', 'Obs!\nOm dina inst&#228;llningar f&#246;r Startpage g&#229;r f&#246;rlorade n&#228;r du startat om webbl&#228;saren kan du beh&#246;va justera webbl&#228;sarens sekretessinst&#228;llningar.\nMer information finns p&#229; sidan "Let Us Know" (Ber&#228;tta) under vanliga fr&#229;gor och svar.\n', 'turkce', 'Not:\nTaray&#305;c&#305;n&#305;z&#305; yeniden ba&#351;latt&#305;ktan sonra Startpage ayarlar&#305;n&#305;z kaybolduysa, taray&#305;c&#305;n&#305;z&#305;n gizlilik tercihlerinin ayarlanmas&#305; gerekiyor olabilir.\nSSS alt&#305;ndaki \'Bize Haber Verin\' sayfas&#305;nda daha fazla bilgi bulabilirsiniz.\n');
 
-var cookies_disabled_array = new Array('english', 'It appears that Cookies are either not supported by your browser or are disabled. In order to save your settings, you will need to enable Cookies in your browser.', 'deutsch', 'Allem Anschein nach, werden Cookies von Ihrem Browser nicht unterst&#252;tzt oder sind in Ihrem Browser deaktiviert. Um eine Speicherung Ihrer Einstellungen zu erm&#246;glichen, ist es notwendig die Annahme von Cookies durch Ihren Browser zu aktivieren.');
+var cookies_disabled_array = new Array('english', 'It appears that Cookies are either not supported by your browser or are disabled. In order to save your settings, you will need to enable Cookies in your browser.', 'english_uk', 'It appears that Cookies are either not supported by your browser or are disabled. In order to save your settings, you will need to enable Cookies in your browser.', 'english_au', 'It appears that Cookies are either not supported by your browser or are disabled. In order to save your settings, you will need to enable Cookies in your browser.', 'deutsch', 'Allem Anschein nach, werden Cookies von Ihrem Browser nicht unterst&#252;tzt oder sind in Ihrem Browser deaktiviert. Um eine Speicherung Ihrer Einstellungen zu erm&#246;glichen, ist es notwendig die Annahme von Cookies durch Ihren Browser zu aktivieren.', 'nederlands', 'Het blijkt dat Cookies niet worden ondersteund door uw browser of dat de functie "accepteer Cookies" is uitgezet. Om de instellingen te bewaren dient u de functie "Accepteer Cookies" in uw browser aan te zetten.', 'dansk', 'Det ser ud til at Cokies enten ikke supporteres af din internet browser eller er sl&#229;et fra. For at kunne gemme din ops&#230;tning skal du aktivere Cookies in din internet brower.', 'espanol', 'Aparece que su navegador no apoya Cookies. Para guardar su configuraci&#243;n en Startpage, hay que activar Cookies en su navegador.', 'francais', 'Il appara&#238;t que les Cookies sont d&#233;sactiv&#233;s ou incompatibles avec votre navigateur. Afin de conserver vos param&#232;tres, il est n&#233;cessaire d&#146;activer les Cookies de votre navigateur.', 'italiano', 'I cookie non sono supportati dal browser oppure sono disabilitati. Per salvare le impostazioni, occorre abilitare cookie nel browser.', 'norsk', 'Din web browser ser ikke ut til &#229; st&#248;tte Cookies eller s&#229; er denne funksjonen avsl&#229;tt. For &#229; lagre dine innstillinger m&#229; du tillate Cookies i din web browser.', 'polski', 'Prawdopodobnie przegl&#261;darka nie obs&#322;uguje plik&#243;w cookie lub ich obs&#322;uga jest wy&#322;&#261;czona. Aby zachowa&#263; ustawienia, nale&#380;y w&#322;&#261;czy&#263; obs&#322;ug&#281; plik&#243;w cookie w przegl&#261;darce.', 'portugues', 'Parece que o seu explorador n&#227;o suporta os Cookies (bloco de dados) ou que estes est&#227;o desactivados. Para guardar as suas defini&#231;&#245;es ter&#225; de activar os Cookies (o seu bloco de dados) no seu explorador.', 'suomi', 'N&#228;ytt&#228;&#228; silt&#228;, ett&#228; selaimesi ei joko tue ev&#228;steit&#228;, tai ne on estetty. Tallentaaksesi asetuksesi, sinun tulee sallia', 'svenska', 'Det verkar som att kakor antingen inte st&#246;ds av din internetl&#228;sare eller inte till&#229;ts. F&#246;r att kunna spara dina inst&#228;llningar beh&#246;ver din internetl&#228;sare st&#246;dja och till&#229;ta kakor.', 'turkce', 'Muhtemelen internet taray&#305;c&#305;n&#305;z cookie kabul etmemekte veya cookie ayarlar&#305;n&#305;z etkin konumda de&#287;il. Ki&#351;isel ayarlar&#305;n&#305;z&#305;n kay&#305;t edilebilmesi i&#231;in cookie ayarlar&#305;n&#305; etkin konumunda olmas&#305; gerekmektedir.');
 
-var tellafriend_alert_messages = new Array('english', 'Please enter your name and email address into the boxes provided.', 'deutsch', 'Geben Sie Ihren Namen und Ihre E-Mail-Adresse in die entsprechenden Felder ein.');
+var tellafriend_alert_messages = new Array('english', 'Please enter your name and email address into the boxes provided.', 'english_uk', 'Please enter your name and email address into the boxes provided.', 'english_au', 'Please enter your name and email address into the boxes provided.', 'deutsch', 'Geben Sie Ihren Namen und Ihre E-Mail-Adresse in die entsprechenden Felder ein.', 'nederlands', 'Vul a.u.b uw naam en e-mail adres in.', 'dansk', 'Indtast dit navn og din e-mail-adresse i de relevante felter.', 'espanol', 'Ingrese su nombre y direcci&#243;n de correo electr&#243;nico en los cuadros correspondientes.', 'francais', 'Entrez votre nom et votre adresse email dans les cases correspondantes.', 'italiano', 'Immettere nome e indirizzo di posta elettronica negli appositi campi.', 'norsk', 'Oppgi navn og e-postadresse i de aktuelle boksene.', 'polski', 'Prosimy wpisa&#263; w odpowiednie pola swoje imi&#281; i nazwisko oraz adres e-mail.', 'portugues', 'Digite seu nome e endere&#231;o de e-mail nas caixas fornecidas.', 'suomi', 'Kirjoita nimesi ja s&#228;hk&#246;postiosoitteesi niille varattuihin kenttiin.', 'svenska', 'Fyll i ditt namn och din e-postadress i rutorna.', 'turkce', 'Ad&#305;n&#305;z&#305; ve e-posta adresinizi a&#351;a&#287;&#305;daki kutulara girin.');
 
-var deskbar_alert_messages = new Array('english', 'The Deskbar can only be used on Windows machines.', 'deutsch', 'Deskbar kann nur unter Windows verwendet werden.');
+var deskbar_alert_messages = new Array('english', 'The Deskbar can only be used on Windows machines.', 'english_uk', 'The Deskbar can only be used on Windows machines.', 'english_au', 'The Deskbar can only be used on Windows machines.', 'deutsch', 'Deskbar kann nur unter Windows verwendet werden.', 'nederlands', 'De Deskbar kan alleen worden ge&#239;nstalleerd op een Windows machine.', 'dansk', 'Skrivebordslinjen kan kun bruges p&#229; Windows-computere.', 'espanol', 'La barra de escritorio s&#243;lo puede utilizarse en equipos con Windows.', 'francais', 'La barre de bureau ne peut &#234;tre utilis&#233;e que sur les ordinateurs &#233;quip&#233;s de Windows.', 'italiano', 'Startpage Deskbar pu&#242; essere utilizzata esclusivamente su computer Windows.', 'norsk', 'Skrivebordslinjen kan bare brukes p&#229; Windows-maskiner.', 'polski', 'Paska pulpitu mo&#380;na u&#380;ywa&#263; tylko na komputerach z systemem Windows.', 'portugues', 'O Deskbar pode ser usado apenas em m&#225;quinas com Windows.', 'suomi', 'Ty&#246;p&#246;yd&#228;n hakupalkkia voidaan k&#228;ytt&#228;&#228; vain tietokoneissa, joissa on Windows-k&#228;ytt&#246;j&#228;rjestelm&#228;.', 'svenska', 'Skrivbordsf&#228;ltet kan bara anv&#228;ndas p&#229; datorer med Windows.', 'turkce', 'Masa&#252;st&#252; &#199;ubu&#287;u, yaln&#305;zca Windows alt&#305;nda &#231;al&#305;&#351;an makinelerde kullan&#305;labilir.');
 
-var toolbar_firefox_error_messages = new Array('english', 'An error occured:', 'deutsch', 'Ein Fehler ist aufgetreten:');
+var toolbar_firefox_error_messages = new Array('english', 'An error occured:', 'english_uk', 'An error occured:', 'english_au', 'An error occured:', 'deutsch', 'Ein Fehler ist aufgetreten:', 'nederlands', 'Er is een fout opgetreden:', 'dansk', 'Der er opst&#229;et en fejl:', 'espanol', 'Ocurri&#243; un error:', 'francais', 'Une erreur s\'est produite:', 'italiano', 'Si &#232; verificato un errore', 'norsk', 'Det har oppst&#229;tt en feil:', 'polski', 'Wyst&#261;pi&#322; b&#322;&#261;d:', 'portugues', 'Ocorreu um erro:', 'suomi', 'Tapahtui virhe:', 'svenska', 'Ett fel intr&#228;ffade:', 'turkce', 'Hata olu&#351;tu:');
 
-var toolbar_firefox_success_messages = new Array('english', 'Restart the browser to finish installation', 'deutsch', 'Starten Sie den Browser neu, um die Installation abzuschlie&#223;en');
+var toolbar_firefox_success_messages = new Array('english', 'Restart the browser to finish installation', 'english_uk', 'Restart the browser to finish installation', 'english_au', 'Restart the browser to finish installation', 'deutsch', 'Starten Sie den Browser neu, um die Installation abzuschlie&#223;en', 'nederlands', 'Herstart de browser om de installatie af te ronden', 'dansk', 'Genstart browseren for at f&#230;rdigg&#248;re installationen', 'espanol', 'Reinicie el navegador para finalizar la instalaci&#243;n', 'francais', 'Red&#233;marrez le navigateur pour terminer l\'installation.', 'italiano', 'Riavviare il browser per completare l\'installazione.', 'norsk', 'Start leseren p&#229; nytt for &#229; fullf&#248;re installasjonen.', 'polski', 'Uruchom ponownie przegl&#261;dark&#281;, aby zako&#324;czy&#263; instalacj&#281;', 'portugues', 'Reinicie o navegador para concluir a instala&#231;&#227;o', 'suomi', 'Viimeistele asennus k&#228;ynnist&#228;m&#228;ll&#228; selainohjelma uudelleen', 'svenska', 'Starta om webbl&#228;saren f&#246;r att slutf&#246;ra installationen.', 'turkce', 'Kurulumu tamamlamak i&#231;in taray&#305;c&#305;y&#305; yeniden ba&#351;lat&#305;n');
 
-var toolbar_platform_error_messages = new Array('english', 'The toolbar requires Windows 2000 or higher, but you are using Windows 98.', 'deutsch', 'Die Symbolleiste ben&#246;tigt Windows 2000 oder h&#246;her, aber Sie verwenden Windows 98.');
+var toolbar_platform_error_messages = new Array('english', 'The toolbar requires Windows 2000 or higher, but you are using Windows 98.', 'english_uk', 'The toolbar requires Windows 2000 or higher, but you are using Windows 98.', 'english_au', 'The toolbar requires Windows 2000 or higher, but you are using Windows 98.', 'deutsch', 'Die Symbolleiste ben&#246;tigt Windows 2000 oder h&#246;her, aber Sie verwenden Windows 98.', 'nederlands', 'De toolbar vereist Windows 2000 of hoger, u gebruikt Windows 98.', 'dansk', 'V&#230;rkt&#248;jslinjen kr&#230;ver Windows 2000 eller en nyere version, men du bruger Windows 98.', 'espanol', 'La barra de herramientas requiere Windows 2000 o superior, pero usted est&#225; utilizando Windows 98.', 'francais', 'Pour installer la barre d\'outils, vous devez poss&#233;der Windows 2000 ou une version ult&#233;rieure, mais vous utilisez Windows 98.', 'italiano', 'La barra degli strumenti di Startpage richiede Windows 2000 o versione successiva, ma nel computer in uso &#232; installato Windows 98.', 'norsk', 'Verkt&#248;ylinjen krever Windows 2000 eller senere, men du bruker Windows 98.', 'polski', 'Pasek narz&#281;dzi wymaga systemu Windows 2000 lub nowszego. U&#380;ywany system to Windows 98.', 'portugues', 'A barra de ferramentas requer o Windows 2000 ou superior, mas voc&#234; est&#225; usando o Windows 98.', 'suomi', 'Ty&#246;kalurivi edellytt&#228;&#228; Windows 2000 -k&#228;ytt&#246;j&#228;rjestelm&#228;&#228; tai uudempaa, mutta k&#228;yt&#246;ss&#228; on Windows 98.', 'svenska', 'Verktygslisten kr&#228;ver Windows 2000 eller senare version. Du anv&#228;nder Windows 98.', 'turkce', 'Ara&#231; &#231;ubu&#287;u i&#231;in Windows 2000 veya &#252;st&#252; gerekli, ancak siz Windows 98 kullan&#305;yorsunuz.');
 
-var deskbar_platform_error_messages = new Array('english', 'The deskbar requires Windows 2000 or higher, but you are using Windows 98.', 'deutsch', 'Die Deskbar ben&#246;tigt Windows 2000 oder h&#246;her, aber Sie verwenden Windows 98.');
+var deskbar_platform_error_messages = new Array('english', 'The deskbar requires Windows 2000 or higher, but you are using Windows 98.', 'english_uk', 'The deskbar requires Windows 2000 or higher, but you are using Windows 98.', 'english_au', 'The deskbar requires Windows 2000 or higher, but you are using Windows 98.', 'deutsch', 'Die Deskbar ben&#246;tigt Windows 2000 oder h&#246;her, aber Sie verwenden Windows 98.', 'nederlands', 'De deskbar vereist Windows 2000 of hoger, u gebruikt Windows 98.', 'dansk', 'Skrivebordslinjen kr&#230;ver Windows 2000 eller en nyere version, men du bruger Windows 98.', 'espanol', 'La barra de escritorio requiere Windows 2000 o superior, pero usted est&#225; utilizando Windows 98.', 'francais', 'Pour installer la barre de bureau, vous devez poss&#233;der Windows 2000 ou une version ult&#233;rieure, mais vous utilisez Windows 98.', 'italiano', 'La barra delle applicazioni Startpage Deskbar richiede Windows 2000 o versione successiva, ma nel computer in uso &#232; installato Windows 98.', 'norsk', 'Skrivebordslinjen krever Windows 2000 eller senere, men du bruker Windows 98.', 'polski', 'Pasek pulpitu wymaga systemu Windows 2000 lub nowszego. U&#380;ywany system to Windows 98.', 'portugues', 'O deskbar requer o Windows 2000 ou superior, mas voc&#234; est&#225; usando o Windows 98.', 'suomi', 'Ty&#246;p&#246;yd&#228;n hakupalkki edellytt&#228;&#228; Windows 2000 -k&#228;ytt&#246;j&#228;rjestelm&#228;&#228; tai uudempaa, mutta k&#228;yt&#246;ss&#228; on Windows 98.', 'svenska', 'Skrivbordsf&#228;ltet kr&#228;ver Windows 2000 eller senare. Du anv&#228;nder Windows 98.', 'turkce', 'Masa&#252;st&#252; &#231;ubu&#287;u i&#231;in Windows 2000 veya &#252;st&#252; gerekli, ancak siz Windows 98 kullan&#305;yorsunuz.');
 
-var feedback_error_messages = new Array('english', 'Please enter some feedback before submitting', 'deutsch', 'Geben Sie bitte vor dem Senden ein Feedback ein');
+var feedback_error_messages = new Array('english', 'Please enter some feedback before submitting', 'english_uk', 'Please enter some feedback before submitting', 'english_au', 'Please enter some feedback before submitting', 'deutsch', 'Geben Sie bitte vor dem Senden ein Feedback ein', 'nederlands', 'U heeft nog niets ingevuld, graag vernemen wij de reden waarom u de Startpage Toolbar verwijderd.', 'dansk', 'Angiv venligst noget feedback, inden du indsender det', 'espanol', 'Ingrese alg&#250;n comentario antes de enviar', 'francais', 'Veuillez saisir des observations avant d\'envoyer', 'italiano', 'Inserisci la tua opinione prima di inviare', 'norsk', 'Skriv tilbakemelding f&#248;r du sender', 'polski', 'Przed wys&#322;aniem wpisz sw&#243;j komentarz.', 'portugues', 'Digite um feedback antes de enviar', 'suomi', 'V&#228;nligen formulera n&#229;got gensvar innan du skickar', 'svenska', 'V&#228;nligen formulera n&#229;got gensvar innan du skickar', 'turkce', 'G&#246;ndermeden &#246;nce geri bildirim girin');
 
-var feedback_success_messages = new Array('english', 'Thank you very much for your feedback!', 'deutsch', 'Vielen tausend Dank f&uuml;r Ihr Feedback!');
+var feedback_success_messages = new Array('english', 'Thank you very much for your feedback!', 'english_uk', 'Thank you very much for your feedback!', 'english_au', 'Thank you very much for your feedback!', 'deutsch', 'Vielen tausend Dank f&uuml;r Ihr Feedback!', 'nederlands', 'Dank voor uw feedback!', 'dansk', 'Tak for din tilbagemelding!', 'espanol', 'Muchas Gracias!', 'francais', 'Merci infiniment de nous faire part de vos impressions!', 'italiano', 'Grazie molto per le vostre risposte!', 'norsk', 'Tusen takk for tilbakemeldingen!', 'polski', 'Bardzo dzi&#281;kujemy za przekazanie opinii!', 'portugues', 'Muito obrigado pelo seu feedback!', 'suomi', 'Paljon kiitoksia palautteestasi!', 'svenska', 'Tack s&#229; mycket f&#246;r gensvaret!', 'turkce', 'Yorumlar&#305;n i&ccedil;in &ccedil;ok te&#351;ekk&uuml;rler!');
 
-var netscape_error_messages = new Array('english', 'Sorry, but the Startingpage Toolbar is not compatible with your browser. Please download one of the supported browsers and try installing the toolbar again.', 'deutsch', 'Es tut uns Leid, aber die Ixquick-Toolbar ist mit Ihrem Browser nicht kompatibel. Bitte laden Sie einen der unterst&#252;tzten Browser herunter und versuchen Sie nochmals, die Toolbar zu installieren.');
+var netscape_error_messages = new Array('english', 'Sorry, but the Startpage Toolbar is not compatible with your browser. Please download one of the supported browsers and try installing the toolbar again.', 'english_uk', 'Sorry, but the Startpage Toolbar is not compatible with your browser. Please download one of the supported browsers and try installing the toolbar again.', 'english_au', 'Sorry, but the Startpage Toolbar is not compatible with your browser. Please download one of the supported browsers and try installing the toolbar again.', 'deutsch', 'Es tut uns Leid, aber die Ixquick-Toolbar ist mit Ihrem Browser nicht kompatibel. Bitte laden Sie einen der unterst&#252;tzten Browser herunter und versuchen Sie nochmals, die Toolbar zu installieren.', 'nederlands', 'Sorry, but the Startpage Toolbar is not compatible with your browser. Please download one of the supported browsers and try installing the toolbar again.', 'dansk', 'Vi beklager, men Startpage v&#230;rkt&#248;jslinjen er ikke kompatibel med din browser. Du bedes downloade en af de underst&#248;ttede browsere og fors&#248;ge at installere v&#230;rkt&#248;jslinjen igen.', 'espanol', 'Lo lamentamos, pero la barra de herramientas de Startpage no es compatible con su explorador. Descargue uno de los exploradores admitidos e intente instalar la barra de herramientas nuevamente.', 'francais', 'D&#233;sol&#233;, mais la barre d&#146;outils Startpage n&#146;est pas compatible avec votre navigateur. Veuillez t&#233;l&#233;charger un des navigateurs compatibles et essayer une nouvelle fois d&#146;installer la barre d&#146;.', 'italiano', 'La barra degli strumenti Startpage non &#232; compatibile con il browser. Scaricare una delle barre degli strumenti supportate e tentare di installarla nuovamente.', 'norsk', 'Beklager, Startpage Verkt&#248;ylinje er ikke kompatibel med din nettleser. Last ned en av de st&#248;ttede nettleserne og fors&#248;k &#229; installere verkt&#248;ylinjen igjen.', 'polski', 'Przepraszamy, pasek narz&#281;dzi Startpage nie jest zgodny z twoj&#261; przegl&#261;dark&#261;. Pobierz kompatybiln&#261; przegl&#261;dark&#281; i spr&#243;buj ponownie zainstalowa&#263; pasek narz&#281;dzi.', 'portugues', 'A Barra de ferramentas Startpage n&#227;o &#233; compat&#237;vel com seu navegador. Fa&#231;a o download de um dos navegadores compat&#237;veis e tente instalar a barra de ferramentas de novo.', 'suomi', 'Valitettavasti Ixquick-ty&#246;kalupalkki ei ole yhteensopiva selaimesi kanssa. Lataa yksi tuetuista selaimista ja yrit&#228; asettaa ty&#246;kalupalkki uudelleen.', 'svenska', 'Tyv&#228;rr &#228;r Startpages verktygslist inte kompatibel med din webbl&#228;sare. V&#228;nligen h&#228;mta n&#229;gon av de st&#246;dda webbl&#228;sarna och f&#246;rs&#246;k installera verktygslisten igen.', 'turkce', '&#220;zg&#252;n&#252;z, ama Startpage Toolbar taray&#305;c&#305;n&#305;zla uyumlu de&#287;il. L&#252;tfen desteklenen taray&#305;c&#305;lardan birini indirip ara&#231; &#231;ubu&#287;unu yeniden kurmay&#305; deneyin.');
 
-var terms_pop_messages = new Array('english', 'Please accept our \'Terms and Conditions\' by checking the box', 'deutsch', 'Bitte best&#228;tigen Sie Ihr Einverst&#228;ndnis mit unseren \'AGB\' durch Anklicken des K&#228;stchens.');
+var terms_pop_messages = new Array('english', 'Please accept our \'Terms and Conditions\' by checking the box', 'english_uk', 'Please accept our \'Terms and Conditions\' by checking the box', 'english_au', 'Please accept our \'Terms and Conditions\' by checking the box', 'deutsch', 'Bitte best&#228;tigen Sie Ihr Einverst&#228;ndnis mit unseren \'AGB\' durch Anklicken des K&#228;stchens.', 'nederlands', 'Accepteer de Startpage \'Terms and Conditions\' door het vakje aan te vinken.', 'dansk', 'Accept&#233;r vores \'Vilk&#229;r og betingelser\' ved at afkrydse feltet.', 'espanol', 'Seleccione la casilla para aceptar nuestros &#147;T&#233;rminos y condiciones&#148;.', 'francais', 'Pour signifier votre adh&#233;sion &#224; nos \'Conditions G&#233;n&#233;rales &#038; Particuli&#232;res d&#146;utilisation\' veuillez cocher la case appropri&#233;e.', 'italiano', 'Accettare i nostri \'Termini e Condizioni d&#146;uso\' spuntando la casella', 'norsk', 'Du m&#229; akseptere v&#229;re &#148;Betingelser&#148; ved &#229; krysse av i boksen', 'polski', 'Zaznacz pole wyboru, aby zaakceptowa&#263; &#132;Warunki umowy&#148;.', 'portugues', 'Marque a caixa para aceitar nossos &#147;Termos e condi&#231;&#245;es&#148;.', 'suomi', 'Hyv&#228;ksy &#148;Ehtomme ja edellytyksemme&#148; valitsemalla ruutu', 'svenska', 'Var v&#228;nlig och godta v&#229;ra \'Regler och villkor\' genom att markera i bockrutan', 'turkce', 'Kutuyu i&#351;aretleyerek &#147;&#350;art ve Ko&#351;ullar&#148;&#305;m&#305;z&#305; kabul edin.');
 
 
 
@@ -968,13 +1261,31 @@ function showMessage () {
         if (message_array[i] == language_selected) {
             var text = document.createElement('span');
             text.innerHTML = message_array[i+1];
-            alert(text.innerHTML);
+            //alert(text.innerHTML);
             break;
         }
     }
     return true;
 }
 
+function show_hide_browser_info_checkbox() {
+    if ( (document.getElementById('senderemail')) && (document.getElementById('senderemail').value.replace(/^\s+|\s+$/g,'').length > 0 )) {
+        if (document.getElementById('hidden_clientinfo')) {
+            document.getElementById('hidden_clientinfo').style.display='block';
+            if ((document.getElementById('clientinfo')) && (document.getElementById('clientinfo').value == 0) ){
+                document.getElementById('clientinfo').checked = true;
+                document.getElementById('clientinfo').value= 1;
+            }
+        }
+
+    } else {
+        if (document.getElementById('hidden_clientinfo')) {
+            document.getElementById('hidden_clientinfo').style.display='none';
+            }
+    }
+    setTimeout('show_hide_browser_info_checkbox()',500);
+}
+setTimeout('show_hide_browser_info_checkbox()',500);
 
 function tellafriend_form_submit () {
 	if ((document.referral_form.sendername.value == "") ||
@@ -1004,9 +1315,9 @@ function certifiedsecure(langID) {
 	var certificateURL = ( (urls[langID]) ? urls[langID] : url );
     eval("page" + id + " = window.open(certificateURL, '" + id + "', 'toolbar=0,location=0,statusbar=0,scrollbars=1,menubar=0,resizable=0,width=580,height=515');");
 }
-
+$(document).ready(function(){ concatParamToAllUrls(window.location.href); });
 function makeHomePage (obj, page_url) {
-    load_img('/do/adviewtrack.pl?a=10&g=357&l=english');
+    load_img('/do/adviewtrack.pl?a=10&g=357&l=english_au');
     var ua = navigator.userAgent;
     var ff = 0;
     if (ua.indexOf('Firefox') != -1) {
@@ -1014,7 +1325,7 @@ function makeHomePage (obj, page_url) {
     }
     var homepage_url = page_url;
     var http_host = get_http_host();
-    if ((http_host.indexOf('startingpage.') != -1) && (page_url.indexOf('http') != 0)) {
+    if ((http_host.indexOf('startpage.') != -1) && (page_url.indexOf('http') != 0)) {
         homepage_url = http_host + page_url;
     }
      var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome');
@@ -1025,15 +1336,14 @@ function makeHomePage (obj, page_url) {
          var agentname = navigator.userAgent;
          var nWin = window.open('', 'newname' , 'directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=120,width=650');
          nWin.document.open();
-         var out_str = '<html><head><title></title></head>';
-         out_str += '<body bgcolor="#BCD3F5"><br><font face="Verdana" size="2" color="#140B74">';
+         var out_str = '<html><head><title></title><style>li{line-height:25px!important;} </style></head>';
+         out_str += '<' + 'body bgcolor="#BCD3F5"><br><font face="Verdana" size="2" color="#140B74">';
          if ((agentname.toLowerCase().indexOf('netscape') != -1) || (agentname.toLowerCase().indexOf('navigator') != -1)) {
-         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/eng/<!--/HOME--></font><br></body></html>';
+         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/au/<!--/HOME--></font><br></body></html>';
          }
      else if (agentname.toLowerCase().indexOf('firefox') != -1) {
          nWin.resizeTo(650,300);
          out_str += 'To set your homepage in Firefox, follow these steps:';
-         out_str += '<ol><li>Start by double-clicking the Mozilla Firefox icon on your desktop.</li>';
          if (BrowserDetect.OS.indexOf('Linux') != -1) {
             out_str += '<li>Click on the Edit Menu.</li>';
             out_str += '<li>Select Preferences.</li>';
@@ -1046,46 +1356,105 @@ function makeHomePage (obj, page_url) {
             out_str += '<li>Click on the Tools Menu.</li>';
             out_str += '<li>Click on Options.</li>';
          }
-         out_str += '<li>Click on the Main tab.</li>';
-         out_str += '<li>Delete existing address in the homepage box and replace with <!--HOME-->/eng/<!--/HOME--></li>';
+         out_str += '<li>Click on the General tab.</li>';
+         out_str += '<li>Delete existing address in the homepage box and replace with <!--HOME-->/au/<!--/HOME--></li>';
          out_str += '<li>You also can open the tabs you want to use as a home page, and then click on the Use Current Pages button under the Home Page box.</li></ol></font><br></body></html>';
      }
      else if (agentname.toLowerCase().indexOf('chrome') != -1) {
          nWin.resizeTo(650,300);
          out_str += 'To set your homepage in Chrome, follow these steps:';
+         // checking for mac OS 
          if (BrowserDetect.OS.indexOf('Mac') != -1) {
-         out_str += '<ol><li>Go to the Chrome Preferences.</li>';
-         } else {
-         out_str += '<ol><li>Click the wrench menu icon, located in the top right corner of the browser.</li>';
-         out_str += '<li>Select "Options".</li>';
-         }
-         out_str += '<li>Click the "Basics" tab.</li>';
+         // if version is beetween 3 and 18 
+         if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+         out_str += '<ol><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
+         out_str += '<li>Go to Preferences -> Basics.</li>';
          out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the home page box.</li>';
+         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Open this page" text box.</li>';
          out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
-         if (BrowserDetect.OS.indexOf('Mac') != -1) {
-         out_str += '<li>Close window.</li>';
+         if( BrowserDetect.version <= 9) {
+         out_str += '<li>Close Preferences.</li>';
          } else {
-         out_str += '<li>Click "Close".</li>';
+         out_str += '<li>Close Preferences tab.</li>';
          }
+ } else {
+        // for version greater than or equal to 19 
+         if(BrowserDetect.version >= 19) {
+         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Add a new page" text field.</li>';
+         out_str += '<li>Click OK.</li>';
+         } 
+ } 
+ } else {
+         //  check for windows OS 
+         if (BrowserDetect.OS.indexOf('Window') != -1) {
+         // for version beetween 3 and 18 
+         if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+         out_str += '<ol><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
+         out_str += '<li>Go to Options -> Basics</li>';
+         out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Open this page" text box.</li>';
+         out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
+         if( BrowserDetect.version <= 9) {
+         out_str += '<li>Click "Close".</li>';
+         } else {
+         out_str += '<li>Close this settings tab.</li>';
+         }
+ } else {
+         // for version greater than 18 
+         if(BrowserDetect.version >= 19) {
+         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Add a new page" text field.</li>';
+         out_str += '<li>Click OK.</li>';
+         } 
+ }
+ } else {
+          // checking for Linux OS 
+         if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+         out_str += '<ol><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
+         if(BrowserDetect.version  <= 9) {
+         out_str += '<li>Go to Settings -> Basics.</li>';
+         } else {
+         out_str += '<li>Go to Preferences -> Basics.</li>';
+         }
+          out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Open this page" text box.</li>';
+         out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
+         if( BrowserDetect.version <= 9) {
+         out_str += '<li>Click "Close".</li>';
+         } else {
+         out_str += '<li>Close Preferences tab.</li>';
+         } 
+ } else {
+         if(BrowserDetect.version >= 19) {
+         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Add a new page" text field.</li>';
+         out_str += '<li>Click OK.</li>';
+         } 
+ }
+ } 
+ }
          out_str += '</ol></font><br></body></html>';
      }
          else if ((agentname.toLowerCase().indexOf('seamonkey') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
-         out_str += 'Go to Preferences in the Mozilla menu of your Browser.<br> Then choose Category Navigator.<br>Enter <!--HOME-->/eng/<!--/HOME--> in Homepage Location: field<BR>Click OK to Close.</font><br></body></html>';
+         out_str += 'Go to Preferences in the Mozilla menu of your Browser.<br> Then choose Category Navigator.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<BR>Click OK to Close.</font><br></body></html>';
          }
          else if ((agentname.toLowerCase().indexOf('seamonkey') != -1) && (BrowserDetect.OS.indexOf('Linux') != -1)) {
-         out_str += 'Go to Preferences in the Edit menu of your Browser.<br>Then choose Category Navigator.<br>Enter <!--HOME-->/eng/<!--/HOME--> in Homepage Location: field<br>Click OK to Close</font><br></body></html>';
+         out_str += 'Go to Preferences in the Edit menu of your Browser.<br>Then choose Category Navigator.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<br>Click OK to Close</font><br></body></html>';
          }
          else if ((agentname.toLowerCase().indexOf('opera') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
-         out_str += 'Go to Preferences in the Opera menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/eng/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
+         out_str += 'Go to Preferences in the Opera menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
          }
          else if (((agentname.toLowerCase().indexOf('opera') != -1) && (BrowserDetect.OS.indexOf('Linux') != -1)) || ((agentname.toLowerCase().indexOf('opera') != -1) && (BrowserDetect.OS.indexOf('Window') != -1))) {
-         out_str += 'Go to Preferences in the Tools menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/eng/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
+         out_str += 'Go to Preferences in the Tools menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
          }
          else if ((agentname.toLowerCase().indexOf('safari') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
-         out_str += 'Go to Preferences in the Safari menu of your Browser.<br>Then choose the General Tab.<br>Enter <!--HOME-->/eng/<!--/HOME--> in Home page field<br>Close the window</font><br></body></html>';
+         out_str += 'Go to Preferences in the Safari menu of your Browser.<br>Then choose the General Tab.<br>Enter <!--HOME-->/au/<!--/HOME--> in Home page field.<br>Close the window.</font><br></body></html>';
          } else { 
-         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/eng/<!--/HOME--></font><br></body></html>';
+         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/au/<!--/HOME--></font><br></body></html>';
          }
          out_str = out_str.replace(/<!--HOME-->.*?<!--\/HOME-->/g, homepage_url);
          out_str += '</font><br></body></html>';
@@ -1105,69 +1474,68 @@ function makeHomePage (obj, page_url) {
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" style=" background:#4599d9 url(/graphics/startpage_menufullbg.jpg) repeat-x">
 		  <tbody><tr>
 			<td class="tdmenu tdmenurepeat">
-				<a href="/eng/" border="0"><img src="/graphics/eng/startingpage_aboutstartingpage.gif" width="261" height="167" border="0" alt="Startingpage.com"></a> 
+				<a href="/au/" border="0" class="addsettings"><img src="/graphics/startpage_aboutstartpage.gif" width="261" height="167" border="0" alt="Startpage.com"></a> 
 
     <div class="menucell2"><br><br></div>
 
-   <div class="menucell2"><a href="/eng/protect-privacy.html" class="menulink">PRIVACY</a></div>
+   <div class="menucell2"><a href="/au/protect-privacy.html" class="menulink addsettings">PRIVACY</a></div>
 <!-- <div class="menucell2"><span class="menulink">PRIVACY</span></div> -->
 	<!-- privacy tag -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/protect-privacy.html" class="newsubsublink">Startingpage Protects Your Privacy!</a></td></tr></tbody></table>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/protect-privacy-qa.html" class="newsubsublink">Privacy Q &amp; A</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><!-- protect privacy --><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/protect-privacy.html" class="newsubsublink addsettings">Startpage Protects Your Privacy!</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/protect-privacy-qa.html" class="newsubsublink addsettings">Privacy Q &amp; A</a></td></tr></tbody></table>
 	<!-- privacy tag -->
 
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9" class="fixstar"></div></td><td style="padding-right:4px;"><a href="/eng/privacy-policy.html" class="newsubsublink">Privacy Policy</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9" class="fixstar"></div></td><td style="padding-right:4px;"><a href="/au/privacy-policy.html" class="newsubsublink addsettings">Privacy Policy</a></td></tr></tbody></table>
     
     <div class="menucell2"><br></div>
 
 
 
-    <div class="menucell2"><a href="/eng/what-makes-startingpage-special.html" class="menulink">ABOUT STARTINGPAGE SEARCH ENGINE</a></div>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/what-makes-startingpage-special.html" class="newsubsublink">What Makes Startingpage Special</a></td></tr></tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/power-search-techniques.html" class="newsubsublink">Advanced Search Tips</a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/au/what-makes-startpage-special.html" class="menulink addsettings">ABOUT STARTPAGE SEARCH ENGINE</a></div>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/what-makes-startpage-special.html" class="newsubsublink addsettings">What Makes Startpage Special</a></td></tr></tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/power-search-techniques.html" class="newsubsublink addsettings">Advanced Search Tips</a></td></tr></tbody></table>
 
     <div><br></div>
 
 
-    <div class="menucell2"><a href="/eng/download-startingpage-plugin.html" class="menulink">GET MORE STARTINGPAGE</a></div>
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/download-startingpage-plugin.html" class="newsubsublink">Add Startingpage to your Browser</a></td></tr></tbody></table>
-<!--	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"/></div></td><td style="padding-right:4px;"><a href="/eng/.html" class="newsubsublink">Download the Startingpage Toolbar</a></td></tr></table>-->
-         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/make-startingpage-your-homepage.html" class="newsubsublink">Make Startingpage Your Homepage</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/link-instructions.html" class="newsubsublink">A Search Box on Your Website</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/tell-a-friend.html" class="newsubsublink">Tell a Friend About Startingpage</a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/au/download-startpage-plugin.html" class="menulink addsettings">GET MORE STARTPAGE</a></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/download-startpage-plugin.html" class="newsubsublink addsettings">Add Startpage to your Browser</a></td></tr></tbody></table>
+<!--	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"/></div></td><td style="padding-right:4px;"><a href="/au/.html" class="newsubsublink addsettings">Download the Startpage Toolbar</a></td></tr></table>-->
+         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/make-startpage-your-homepage.html" class="newsubsublink addsettings">Make Startpage Your Homepage</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/link-instructions.html" class="newsubsublink addsettings">A Search Box on Your Website</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/tell-a-friend.html" class="newsubsublink addsettings">Tell a Friend About Startpage</a></td></tr></tbody></table>
 
     <div><br></div>
 
 
-    <div class="menucell2"><a href="/do/preferences.pl?language_ui=english" class="menulink">MY SETTINGS</a></div>
+    <div class="menucell2"><a href="/do/preferences.pl?language_ui=english_au" class="menulink addsettings">SETTINGS</a></div>
     <div><br></div>
 
 
-   <div class="menucell2"><a href="/eng/company-background.html" class="menulink">COMPANY INFO</a></div>
-         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/company-background.html" class="newsubsublink">Company Background</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/company-management-bio.html" class="newsubsublink">Management Bios</a></td></tr></tbody></table>
+   <div class="menucell2"><a href="/au/company-background.html" class="menulink addsettings">COMPANY INFO</a></div>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/company-background.html" class="newsubsublink addsettings">Company Background</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/company-management-bio.html" class="newsubsublink addsettings">Management Bios</a></td></tr></tbody></table>
     <div><br></div> 
 
 <!--
-    <div class="menucell2"><a href="/eng/what-makes-startingpage-special.html" onclick="javascript: window.open('/spotlight');" class="menulink">FAQ</a></div>
+    <div class="menucell2"><a href="/au/what-makes-startpage-special.html" onclick="javascript: window.open('/spotlight');" class="menulink addsettings">FAQ</a></div>
     <div><br /></div>
 -->
-    <div class="menucell2"><a href="/eng/company-faq.html" class="menulink">FAQ</a></div>
+    <div class="menucell2"><a href="/au/company-faq.html" class="menulink addsettings">FAQ</a></div>
     <div><br></div>
-    <div class="menucell2"><a href="/eng/feedback.html#contact" class="menulink">CONTACT US</a></div>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/feedback.html" class="newsubsublink">Let Us Know  </a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/feedback.html#contact" class="newsubsublink">Contact Info</a></td></tr></tbody></table>
-	 <!--<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"/></div></td><td style="padding-right:4px;"><a href="/do/ipd_optout.pl?lui=english" class="newsubsublink">Phone Directory opt-out</a></td></tr></table>-->
+    <div class="menucell2"><a href="/au/feedback.html#contact" class="menulink addsettings">CONTACT US</a></div>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/feedback.html" class="newsubsublink addsettings">Let Us Know  </a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/feedback.html#contact" class="newsubsublink addsettings">Contact Info</a></td></tr></tbody></table>
+	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/do/ipd_optout.pl?lui=english_au" class="newsubsublink addsettings"></a></td></tr></tbody></table>
 	<div><br></div>
 <!-- <div class="menucell2"><br /></div><div class="menucell2"><br /></div>
-    <div class="menucell2"><a href="/eng/" class="menulink">HOME</a></div><div class="menucell2"><br /></div> -->
-	<div class="menucell2"><a href="/press/" class="menulink">STARTINGPAGE PRESS CENTER</a></div>
+    <div class="menucell2"><a href="/au/" class="menulink addsettings">HOME</a></div><div class="menucell2"><br /></div> -->
+	<div class="menucell2"><a href="/press/" class="menulink addsettings">STARTPAGE PRESS CENTER</a></div>
 	<div class="menucell2"><br></div>
     <div class="menucell2"><br></div>
 	<div class="menucell2"><br></div>
     <div class="menucell2"><br></div>
-    <div class="menucell"><table cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/graphics/spacer.gif" width="15" height="9"></td><td><table border="0" cellspacing="0" cellpadding="0" width="130"><tbody><tr><td class="button" onmouseover="this.className='button_on';" onmouseout="this.className='button';" onclick="this.className='button_click'; var http_host = get_http_host(); if (http_host.indexOf('quick.') != -1) {window.location.href= http_host + '/eng/'; } else {window.location.href='/eng/';}">  Home </td></tr></tbody></table></td></tr></tbody></table></div><div class="menucell2"><br></div>
-
+    <div class="menucell"><table cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/graphics/spacer.gif" width="15" height="9"></td><td><table border="0" cellspacing="0" cellpadding="0" width="130"><tbody><tr><td class="button" onmouseover="this.className='button_on';" onmouseout="this.className='button';" onclick="this.className='button_click';apply_preference_param();"> Home </td></tr></tbody></table></td></tr></tbody></table></div>
 			</td>
 		  </tr>
 		</tbody></table>
@@ -1177,29 +1545,33 @@ function makeHomePage (obj, page_url) {
   </tr>
   <tr>
 <td class="tdcontent" valign="top" id="td_content" name="td_content">
-<div style="float:right;margin:60px 15px 0 0;">Latest revision: September 2010</div><div style="padding-bottom:5px;background:none;" class="title">PRIVACY</div>
+<div style="float:right;margin:60px 15px 0 0;">Latest revision: May 2012</div><div style="padding-bottom:5px;background:none;" class="title">PRIVACY</div>
 <div class="separator"><hr></div>
 <div class="subtitle" id="subTitle">Privacy Policy</div><div id="min-width"></div>
-<div class="content" style="padding-right: 30px;"><!--BODYCONTENT--><p>Startingpage.com ("Startingpage") is strongly committed to protecting the privacy of its user community.<br><br>This privacy policy details the information Startingpage may gather from the individuals who visit us, how that information is used, and our disclosure policy.</p> 
+<div class="content" style="padding-right: 30px;"><!--BODYCONTENT--><br style="line-height: 10px;"><span>In short:</span>                                                                                                                                            
+<h3 style="margin-top: 0;"> Startpage does NOT collect or share ANY personal information!  </h3>                                                                                                                                                                
+<p> The longer version: <br>                                                                                                                                                                                           
+Startpage is strongly committed to protecting the privacy of its user community.<br><br>This privacy policy details the - very limited - information Startpage.com ("Startpage") may gather and our disclosure policy. </p>
+
 <h3>IP Addresses</h3>
-<p>The IP address that is associated with your search will NOT be recorded.<br> The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Startingpage in a very short time.</p>
+<p>The IP address that is associated with your search will NOT be recorded.<br>(The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Startpage in a very short time.)</p>
 <h3>Data Collection</h3>
-<p>Startingpage collects limited information each time you visit our site, so we can improve the overall quality of your online experience. We only collect browser and platform type and register the date and time you visited the Startingpage.com site. Like most standard Web site servers, we use log files to collect and store this anonymous user information.</p>
+<p id="qdataab"><i>We don't collect any personal information on our visitors. Nada. Zilch. Zero.</i><br><br>When you use Startpage, we do not record your IP address, we do not record which browser you are using (Internet Explorer, Safari, Firefox, etc.), we do not record your computer platform (Windows, Mac, Linux, etc.), and we do not record your search words or phrases. In fact, the only information we do record is an aggregate total of how many searches are performed on our website each day (a measure of overall traffic), and those overall traffic numbers broken down by language.<br><br>Our zero data collection policy protects your privacy, since your IP address, browser, and platform information can be combined with other data to <a href="https://panopticlick.eff.org" target="_blank">uniquely identify</a> your computer, your location, or you. It is also important not to record search terms, since they can convey personal information as well. (Think of someone entering their own name and/or social security number.)</p>
 <h3>Cookies</h3>
-<p>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites. They may pose a privacy risk.</p>
-<p>Startingpage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days. </p>
-<p>You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startingpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only. </p>
-<p>You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.</p>
-<p>To promote a cookie-free internet, Startingpage has recently launched a <a href="/eng/urlgenerator-details.html" target="_blank" onclick="window.open('/eng/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english" target="_blank">MY SETTINGS</a> page.</p>
+<p>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites.<br>
+Startpage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days. <br>
+You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.<br>
+You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.<br>
+To promote a cookie-free internet, Startpage has recently launched a <a href="/au/urlgenerator-details.html" target="_blank" onclick="window.open('/au/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english_au" target="_blank">SETTINGS</a> page.<br></p>
 <h3>External Links</h3>
-<p>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Startingpage has no control, and who are not covered by this privacy policy. Startingpage is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Startingpage.com website.</p>
+<p>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Startpage has no control, and who are not covered by this privacy policy. Startpage is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Startpage.com website.</p>
 <h3>Email addresses</h3>
-<p>When you send comments, questions, suggestions, or feedback to Startingpage via email, and include an email address and/or contact information Startingpage may use this information to respond to you. Startingpage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Startingpage company information. This service is opt-in and includes the option to unsubscribe.</p>
+<p>When you send comments, questions, suggestions, or feedback to Startpage via email, and include an email address and/or contact information Startpage may use this information to respond to you. Startpage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Startpage company information. This service is opt-in and includes the option to unsubscribe.</p>
 <h3>Children Under 13 Years of Age</h3>
-<p>In light of the concern over protecting children's privacy online, Startingpage does not knowingly request, collect, or share personally identifiable information from users under the age of 13.</p>
+<p>In light of the concern over protecting children's privacy online, Startpage does not knowingly request, collect, or share personally identifiable information from users under the age of 13.</p>
 <h3>Information Sharing</h3>
-<p>Startingpage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a href="/eng/information-sharing.html" target="_blank" onclick="window.open('/eng/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details. Startingpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startingpage, its users or the general public as required by law.</p><h3>Operator</h3>
-                  <p>Startingpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist<br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. (</td><td valign="top"><a href="mailto:%72%6F%62%65%72%74%40%73%74%61%72%74%69%6E%67%70%61%67%65%2E%63%6F%6D%2c%61%6c%65%78%40%73%74%61%72%74%69%6e%67%70%61%67%65%2e%63%6f%6d">robert@startingpage.com</a></td><td valign="top">)</td></tr></tbody></table></p><!--BODYCONTENT--></div>
+<p>Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a href="/au/information-sharing.html" target="_blank" onclick="window.open('/au/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.</p><h3>Operator</h3>
+                  <p>Startpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist<br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. (</td><td valign="top"><a href="mailto:%72%6F%62%65%72%74%40%73%74%61%72%74%70%61%67%65%2E%63%6F%6D%2c%61%6c%65%78%40%73%74%61%72%74%70%61%67%65%2E%63%6F%6D">robert@startpage.com</a></td><td valign="top">)</td></tr></tbody></table></p><!--BODYCONTENT--></div>
 </td>
 <td valign="top" width="1" background="/graphics/startpage_right.gif" style="background-repeat:repeat-y; background-position:right"><img src="/graphics/spacer.gif" width="1" height="9"></td>
 </tr>
@@ -1213,7 +1585,7 @@ function makeHomePage (obj, page_url) {
 <!-- Copyright Notice -->
 <div align="center" style="font-size:10px;color:#3777E3;">
 <br>
-© 2011 Startingpage
+© 2012 Startpage
 </div>
 <script language="javascript" type="text/javascript" src="/js/tooltip.js"></script>
 <!--<script language="javascript" type="text/javascript" src="/js/wz_tooltip.js"></script>-->
@@ -1222,154 +1594,6 @@ function makeHomePage (obj, page_url) {
     // variables to store type of browser and link to initialize specific search location.
     var browserType = 0;
     var browserLink = "";
-    // BrowserDetect is a class which determines Browser version,
-    // name and Operating System platform.
-    var BrowserDetect = {
-        init: function () {
-            this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
-            this.version = this.searchVersion(navigator.userAgent)
-                            || this.searchVersion(navigator.appVersion)
-                            || "an unknown version";
-            this.OS = this.searchString(this.dataOS) || "an unknown OS";
-        },
-        // Search specific string from the given set of array.
-        searchString: function (data) {
-            for (var i=0;i<data.length;i++){
-                var dataString = data[i].string;
-                var dataProp = data[i].prop;
-                this.versionSearchString = data[i].versionSearch || data[i].identity;
-                if (dataString) {
-                    if (dataString.indexOf(data[i].subString) != -1)
-                        return data[i].identity;
-                }
-                else if (dataProp)
-                    return data[i].identity;
-            }
-        },
-        // Search specific version of browser.
-        searchVersion: function (dataString) {
-            var index = dataString.indexOf(this.versionSearchString);
-            if (index == -1) return;
-            return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
-        },
-        // Array containing information of various browsers.
-        dataBrowser: [
-        {
-            string: navigator.vendor,
-            subString: "Camino",
-            identity: "Camino"
-        },
-
-        {
-            string: navigator.userAgent,
-            subString: "Chrome",
-            identity: "Chrome"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Epiphany",
-            identity: "Epiphany"
-        },
-		{
-            string: navigator.userAgent,
-            subString: "SeaMonkey",
-            identity: "SeaMonkey",
-            versionSearch: "rv"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "OmniWeb",
-            versionSearch: "OmniWeb/",
-            identity: "OmniWeb"
-        },
-        {
-            string: navigator.vendor,
-            subString: "Apple",
-            identity: "Safari",
-            versionSearch: "Version"
-        },
-        {
-            prop: window.opera,
-            identity: "Opera"
-        },
-        {
-            string: navigator.vendor,
-            subString: "iCab",
-            identity: "iCab"
-        },
-        {
-            string: navigator.vendor,
-            subString: "KDE",
-            identity: "Konqueror"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Firefox",
-            identity: "Firefox"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Iceweasel",
-            identity: "Iceweasel",
-            versionSearch: "Iceweasel"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "IceWeasel",
-            identity: "Iceweasel",
-            versionSearch: "IceWeasel"
-        },
-		{
-            string: navigator.userAgent,
-            subString: "IceCat",
-            identity: "Icecat",
-            versionSearch: "IceCat"
-        },
-        {
-            // for newer Netscapes (6+)
-            string: navigator.userAgent,
-            subString: "Netscape",
-            identity: "Netscape"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "MSIE",
-            identity: "Explorer",
-            versionSearch: "MSIE"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Gecko",
-            identity: "Mozilla",
-            versionSearch: "rv"
-        },
-        {
-            // for older Netscapes (4-)
-            string: navigator.userAgent,
-            subString: "Mozilla",
-            identity: "Netscape",
-            versionSearch: "Mozilla"
-        }
-        ],
-    // Array containing information of various Operating system platforms.
-    dataOS : [
-        {
-            string: navigator.platform,
-            subString: "Win",
-            identity: "Windows"
-        },
-        {
-            string: navigator.platform,
-            subString: "Mac",
-            identity: "Mac"
-        },
-        {
-            string: navigator.platform,
-            subString: "Linux",
-            identity: "Linux"
-        }
-        ]
-    };
 
     //  Function to check the name and version of Browser as well as
     //  operating system platform.
@@ -1380,19 +1604,22 @@ function makeHomePage (obj, page_url) {
     //  Currently it supports IE7 and Firefox.
     function addSearchEngine() {
         var lng = document.addsearchbarfrm.Search_Language;
-		var https_plugin = document.addsearchbarfrm.https_check;
+		//var http_plugin = document.addsearchbarfrm.http_check;
+		var http_plugin = document.addsearchbarfrm.http_check.value;
         var Lang = lng.options[lng.selectedIndex].value;
-        var pathUrl = "/toolbar/searchbar/" + Lang + "/startingpage";
+        var pathUrl = "/toolbar/searchbar/" + Lang + "/startpage";
 		var http_host = get_http_host();
-		if (http_host.indexOf('startingpage.') != -1) {
+		if (http_host.indexOf('startpage.') != -1) {
 			pathUrl = http_host + pathUrl;
 		}
         if(browserType == 1) {
             // Browser is IE7.
             var finalUrl = pathUrl + "_ie_";
-			if (https_plugin && https_plugin.checked) {
+			if (http_plugin == 0) {
                 finalUrl += "secure_";
-            }
+            } else {
+				finalUrl += "ns_";
+			}
             finalUrl += Lang + ".src";
             window.external.AddSearchProvider(finalUrl);
 			var language = get_language(Lang);
@@ -1405,12 +1632,14 @@ function makeHomePage (obj, page_url) {
             // Browser is Firefox.
           var srcUrl = pathUrl;
           srcUrl += "_ff_";
-    	  if (https_plugin && https_plugin.checked) {
+		  if (http_plugin == 0) {
               srcUrl += "secure_";
-          }
+          } else {
+			  srcUrl += "ns_";
+		  }
 		  srcUrl += Lang + ".src";
           var pngUrl = pathUrl + ".png"; 
-          window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startingpage", "Startingpage Search");
+          window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startpage", "Startpage Search");
 		  var language = get_language(Lang);
 			//load_img('/do/adviewtrack.pl?a=10&g=463&l=' + language);
 			//load_img('/do/adviewtrack.pl?a=10&g=469&l=' + language);
@@ -1420,13 +1649,15 @@ function makeHomePage (obj, page_url) {
 		if(browserType == 3) {
             // Browser is Mozilla Seamonkey.
           var srcUrl = pathUrl + "_seamon_";
-          if (https_plugin && https_plugin.checked) {
+		  if (http_plugin == 0) {
               srcUrl += "secure_";
-          }
+          } else {
+			  srcUrl += "ns_";
+		  }
           srcUrl += Lang;
           var pngUrl = srcUrl + ".png";
           srcUrl += ".src";
-          window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startingpage", "Startingpage Search");
+          window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startpage", "Startpage Search");
           var language = get_language(Lang);
 			//load_img('/do/adviewtrack.pl?a=10&g=463&l=' + language);
 			//load_img('/do/adviewtrack.pl?a=10&g=469&l=' + language);
@@ -1436,9 +1667,11 @@ function makeHomePage (obj, page_url) {
         if(browserType == 4) {
             // Browser is Chrome.
             var finalUrl = pathUrl + "_chrome_";
-            if (https_plugin && https_plugin.checked) {
+            if (http_plugin == 0) {
                 finalUrl += "secure_";
-            }
+            } else {
+				finalUrl += "ns_";
+			}
             finalUrl += Lang + ".src";
             window.external.AddSearchProvider(finalUrl);
                         var language = get_language(Lang);
@@ -1488,7 +1721,7 @@ function makeHomePage (obj, page_url) {
         }
 	}
 
-    BrowserDetect.init();
+
   	
 
 	function getAbsPosition(e) {
@@ -1536,6 +1769,11 @@ function pos_seal_title(){
 		document.getElementById('subTitle').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
 		document.getElementById('subtitlex').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
 		document.getElementById('yourprivacy').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
+		document.getElementById('aoldatabank').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
+		document.getElementById('shocking').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
+        document.getElementById('wholehearted_mission').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
+        document.getElementById('privacy_position').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
+		document.getElementById('worried').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
 
 		var pa_obj = document.getElementById('subTitle');
 		var absCoords2 = getAbsPosition(pa_obj);
@@ -1569,13 +1807,22 @@ function pos_seal_title(){
 				document.getElementById('subtitlex').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
 				document.getElementById('yourprivacy').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
 				document.getElementById('subTitle').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
-				
+				document.getElementById('aoldatabank').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
+				document.getElementById('shocking').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
+                document.getElementById('wholehearted_mission').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
+                document.getElementById('privacy_position').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
+				document.getElementById('worried').style.width =  document.getElementById('td_content').offsetWidth - 404 + 'px' ;
 			}else{
 				document.getElementById('contx').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
 				document.getElementById('cont1x').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
 				document.getElementById('subtitlex').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
 				document.getElementById('yourprivacy').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
 				document.getElementById('subTitle').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
+				document.getElementById('aoldatabank').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
+				document.getElementById('shocking').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
+                document.getElementById('wholehearted_mission').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
+                document.getElementById('privacy_position').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
+				document.getElementById('worried').style.width =  document.getElementById('td_content').offsetWidth - 395 + 'px' ;
 			}
 		}
 
@@ -1586,14 +1833,19 @@ function pos_seal_title(){
         document.getElementById('privacy_seal').style.display = '';
 		pos_seal();
         pos_seal_title();
+
 		pos_seal();
         pos_seal_title();
+
 		pos_seal();
         pos_seal_title();
+
 		pos_seal();
         pos_seal_title();
+
 		pos_seal();
         pos_seal_title();
+
 	}
 
 function pageWidth() {
