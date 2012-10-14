@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617113334id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014180232id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Website Usage Policy
 
@@ -10,7 +10,7 @@ Welcome to FranchiseOpportunities.com ("FO"). Franchise Opportunties.com is part
 
 Franchise Opportunities.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.franchiseopportunities.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact us at [aglassman@franoppnetwork.com](mailto:aglassman@franoppnetwork.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchiseopportunities.com](http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchiseopportunities.com). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact us at [gsnider@franoppnetwork.com](mailto:gsnider@franoppnetwork.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchiseopportunities.com](http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchiseopportunities.com). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **Advertising Service**
 
@@ -62,19 +62,19 @@ As we continue to develop our business we might sell or buy companies, subsidiar
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you have any queries concerning any of the above please contact us at: 
 
-Customer Service c/o Alison Glassman   
+Customer Service c/o Garth Snider   
 FranchiseOpportunities.com   
 Morgan Falls Office Park   
 7840 Roswell Road, Building 100, Suite 210   
 Atlanta, GA 30350   
 888.363.3390 
 
-[aglassman@franoppnetwork.com](mailto:aglassman@franoppnetwork.com)
+[gsnider@franoppnetwork.com](mailto:gsnider@franoppnetwork.com)
 
 
 
 
-Policy effective 9/4/07, updated 12/14/11.
+Policy effective 9/4/07, updated 8/31/12.
 
 Thank you for visiting our site. 
 
