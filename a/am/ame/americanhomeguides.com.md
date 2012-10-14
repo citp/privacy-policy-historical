@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514185118id_/http%3A//www.americanhomeguides.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065636id_/http%3A//www.americanhomeguides.com/Privacy-Policy) for the most accurate reproduction.*
 
 # New Homes and Properties Search | American Home Guides
 
