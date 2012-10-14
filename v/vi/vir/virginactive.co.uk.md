@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginactive.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509213442id_/http%3A//www.virginactive.co.uk/en/legals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginactive.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015003426id_/http%3A//www.virginactive.co.uk/en/legals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Active
 
@@ -100,7 +100,7 @@ You have the right to ask us not to process your personal information for market
 
 If you have any concern about privacy at Virgin Active, please e-mail us a thorough description and we will try to resolve the issue for you.
 
-Our business changes constantly and our Privacy Policy and the [website terms and conditions ](https://web.archive.org/en/legals/terms-and-conditions)will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. However, we stand behind the promises we make and will never materially change our policies and practices to make them less protective of member information collected in the past without the consent of affected members.
+Our business changes constantly and our Privacy Policy and the [website terms and conditions ](https://web.archive.org/legals/terms-and-conditions)will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. However, we stand behind the promises we make and will never materially change our policies and practices to make them less protective of member information collected in the past without the consent of affected members.
 
 **12) Contact**
 
