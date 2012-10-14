@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601131703id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014231255id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Legal Statement | Williams-Sonoma
 
