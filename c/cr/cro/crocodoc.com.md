@@ -1,0 +1,81 @@
+> *The following text is extracted and transformed from the crocodoc.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014043603id_/https%3A//crocodoc.com/privacy-policy) for the most accurate reproduction.*
+
+# HTML5 Document Embedding | Crocodoc
+
+Last revised: May 1, 2012
+
+Crocodoc (“we” or “us”) values the privacy of our customers, users and others (“you” or “User”) who use the web site at www.crocodoc.com and its directly associated domains (the “Sites”), the mobile phone applications, and other services and content (e.g. widgets, feeds and applications) owned or operated by us and any client software associated with the foregoing (collectively, the “Services”). In our operation of the Services, we are committed to maintaining the privacy of your personal information. This privacy policy (“Privacy Policy”) explains how personal information is collected, used and disclosed with respect to your use of the Services.
+
+Depending on your use of our Services, we may collect two types of information: personally identifiable information and non-personally identifiable information.
+
+Personally identifiable information is information that identifies you or can be used to identify or contact you. Such information may include your name, address, email address, telephone number, and billing and credit card information.
+
+Non-personally identifiable information is information any single item of which, by itself, cannot be used to identify or contact you, such as demographic information (like age, profession, gender, current location, zip code, birth date, or year of birth), IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Services.
+
+#### Information We Collect and Uses Thereof
+
+We will collect personally identifiable information from you only if you voluntarily submit the information to us, typically for the purposes of account creation or sales inquiries, and via other forms, and or surveys. We may also receive personally identifiable information about you from third parties providing credit and debit card authorization and fraud screening services as part of your use of our paid Services. 
+
+In general, we use the information collected to provide the Services to you and process your transactions, to help us understand who uses the Services, for internal operations such as operating and improving the Services, to contact you for customer service and billing purposes.
+
+We may use your information to send you a welcoming email that may confirm your user name and password, or other important transactional emails related to your use of the Services. In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including personally identifiable information) to respond to your questions or comments, and we may file your questions or comments for future reference. We may also use the information collected to send you important service announcements and updates regarding the Services or, if applicable, about your billing account status.
+
+We may also use the information gathered to perform statistical analysis of user behavior or to evaluate and improve the Services. We may link some of this information to personally identifiable information for internal purposes or to improve your experience with the Services.
+
+Our Services do not collect personally identifiable information which is included in documents uploaded or used by you within the Services.
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services. If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+
+#### Cookies and Log Files
+
+We may collect non-personally identifiable information passively using “cookies”, “action tags” and “log files”.
+
+“Cookies” are small text files that are placed on your computer or mobile device in order to identify your Web browser and the activities of your computer on the Services and other websites. Cookies are used to personalize your experience on the Services, to assist you in using the Service, and to allow us to statistically monitor how you are using the Services to help us improve our offerings. You may be able to disable cookies; but doing so may affect your ease in using the Services. We have no access to or control over any cookies that may be used by linked or other third party sites.
+
+“Action tags,” also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of the Services, including advertisements, or email sent on our behalf, may contain action tags.
+
+By using cookies and action tags together, we are able to gain valuable information to improve the Services and measure the effectiveness of our advertising and marketing campaigns.
+
+When you use the Services, our servers record this information. We collect non-personally identifiable information through these “log files” and analytic services, which record data such as IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Services. This information may be used to analyze trends, to administer the Services, to monitor the use of the Services, and to gather general demographic information. We may link this information to personally identifiable information for these and other purposes such as personalizing your experience on the Services and evaluating the Services in general.
+
+#### Information Sharing
+
+Except as set forth in this Privacy Policy or as specifically authorized by you, we will not disclose any information we gather from you through the Services.
+
+We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating an agreement or commitment related to the Services or to detect fraud, for assistance with delinquent accounts, or to protect the safety and/or security of our users, the Services or the general public.
+
+We may provide to third parties non-personally identifiable information, typically combined with similar information of other users of the Services. For example, we might inform third parties regarding the number of unique users who use the Services, the demographic breakdown of our users of the Services, or the products and/or services purchased using the Services and the vendors of such products and services. We may also provide to third parties personally identifiable information. For example, we might share our users’ responses to questionnaires and e-mail addresses with third parties in order for third parties to contact users about products and services that may be of interest. The third parties to which we may provide personally identifiable and non-personally identifiable information may include potential or actual advertisers, providers of advertising products or services (including vendors and website tracking services), merchants, affiliates and other actual or potential commercial partners, sponsors, licensees, researchers and other similar parties.
+
+We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the Services, such as hosting and maintaining the Services, providing credit card processing and fraud screening, and developing applications for the Services. In the course of providing products or services to us, these Outside Contractors may sometimes have limited access to information collected on the Services, including your personally identifiable information. We require that these contractors (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted.
+
+We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Crocodoc, or that portion of Crocodoc to which the Services relate, provided that the third party agrees to adhere to the terms of this Privacy Policy.
+
+We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Crocodoc, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
+
+#### Opt-In/Opt-Out Policy
+
+When you complete your profile or register for the Services, you may be presented with a series of choices regarding whether you want to receive certain types of communications from us and/or our business partners and advertisers. If you do not wish to receive any or all of such communications, you may opt-out by responding "no" or clicking the appropriate opt-out box. By opting in to receive any and or all communications, you are granting permission to allow us, our business partners and advertisers to send the selected communications. We reserve the right to send you communications regarding the Services, or to advise you of changes to the Services or other events or occurrences which may affect your access to or use of the Services (such as service announcements, administrative notices and the like) without offering you the opportunity to opt out of them.
+
+If after opting-in to the Services or to receive communications from us and/or our business partners, you wish to opt-out of participation in the Services or from receiving future communications, you may do so at any time. To do so, simply contact us to update your opt-in preferences.
+
+#### Links to Other Websites
+
+Our Services may be accessed through, or provide you with access to, other websites and services. Please be aware that we are not responsible for the privacy practices of such websites. We encourage you to read the privacy policies or statements of each and every such website. This Privacy Policy applies solely to information collected through the Services.
+
+#### International Users
+
+The Services are hosted in the United States and are intended for Users in the United States. If you are using the Services from the European Union, Asia or any other region with laws or regulations governing personal data collection, use and disclosure that differs from the laws and regulations in the United States, this Privacy Policy, and our Terms of Use, then please note that you are transferring your personal information to the United States and by using the Services you consent to that transfer and to the use of such information in accordance with United States law.
+
+#### Security
+
+All personally identifiable information we collect about you is stored in limited-access servers. Our Services have technical, administrative and physical security measures and safeguards in place to protect against the loss, misuse and alteration of the information under our control. While we are committed to placing reasonable and appropriate safeguards to protecting your information against foreseeable risks, no computer system or information can ever be fully protected against every possible hazard, and we cannot guarantee that unauthorized third parties will not be able to circumvent those safeguards or use your personal information for improper purposes.
+
+#### Changes to this Privacy Policy
+
+We may amend or modify this Privacy Policy at any time with notice provided on the Sites and/or by notification to your last known email address. Information will be handled according to the Privacy Policy in effect at the time the information is used.
+
+#### Questions and Suggestions
+
+If you have additional questions or suggestions regarding this Privacy Policy or privacy issues relating to the Services, you can contact us online at [support@crocodoc.com](mailto:support@crocodoc.com).
+
+#### BY USING THE SERVICES, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SERVICES.
