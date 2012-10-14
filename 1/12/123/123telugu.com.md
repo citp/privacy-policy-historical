@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123telugu.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623182343id_/http%3A//www.123telugu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123telugu.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014172634id_/http%3A//www.123telugu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 123telugu.com
 
