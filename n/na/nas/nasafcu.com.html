@@ -1,16 +1,24 @@
-<!--The following is the downloaded HTML source of the nasafcu.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512054428id_/https%3A//www.nasafcu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nasafcu.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014100721id_/https%3A//www.nasafcu.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
   <meta name="Generator" content="Fusionbox :: Widgy">
+
+<!-- Engage Web Tracking Code -->
+<meta name="com.silverpop.brandeddomains" content="www.pages04.net,nasafcu.com">
+<meta name="com.silverpop.cothost" content="engage4.silverpop.com">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?17ce3bb-11819f6d406-f528764d624db129b32c21fbca0cb8d6&amp;h=www.pages04.net" type="text/javascript"></script>
+
+
 <title>NASA Federal Credit Union | Maryland, Virginia, DC | Privacy Policy</title>
 <meta name="description" content="Find out how we protect you and how you can protect yourself by recognizing, preventing, and reporting fraudulent activity. Become a Member Today!">
 <meta name="keywords" content="nasa fcu privacy policy">
   <link rel="stylesheet" type="text/css" href="https://www.nasafcu.com/css/nasafcu.css?ver=1.1.0">
   <link rel="stylesheet" type="text/css" href="https://www.nasafcu.com/css/print.css?ver=1.0.0" media="print">
   <link rel="stylesheet" type="text/css" href="https://www.nasafcu.com/css/forms.css?ver=1.0.0">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.nasafcu.com/js/jquery.min.js?ver=2010-12-08"></script>
+  <script type="text/javascript" src="https://www.nasafcu.com/js/jquery.min.js?ver=2010-12-08"></script>
   <script type="text/javascript" src="https://www.nasafcu.com/js/json2.js?ver=2008_01_17"></script>
   <script type="text/javascript" src="https://www.nasafcu.com/js/fbmvc.min.js?ver=2010-12-08"></script>
   <script type="text/javascript" src="https://www.nasafcu.com/js/addthis_widget.js#username=xa-4cf3e6ce2c11b3ba"></script>
@@ -82,8 +90,9 @@
 <script type="text/javascript">//<![CDATA[
 
   var _gaq = _gaq || [];
+  var _gat;
   _gaq.push(['_setAccount', 'UA-19105808-4']);
-  _gaq.push(['_setDomainName', '.nasafcu.com']);
+  _gaq.push(['_setDomainName', 'nasafcu.com']);
   _gaq.push(['_trackPageLoadTime']);
   _gaq.push(['_trackPageview']);
 
@@ -181,6 +190,24 @@ function startLogin()
 
     //submit the information.
     document.forms["HomeBanking"].action="https://ebranch.nasafcu.com/hbnet/login/login.aspx?organization=0C567700-491B-4d39-8579-D0B22D86EBF1";
+	
+	$.ajax({
+			//url: 'https://ebranch.nasafcu.com/NASAHB/PwdCheck/Validate.aspx',
+			url: '/PwdCheck/Validate.aspx',
+			data: 'id=' + document.forms["HomeBanking"].ctlUserName.value,
+			dataType: 'text',
+			type: 'POST',
+			cache: 'false',
+			async: false,
+			success: function (response) {
+				if (response==1) {
+					alert("You have entered a temporary password.\n\n*Proceed to the next screen to create a new, permanent password\n*You will need to re-enter your account number and temporary password");
+					document.forms["HomeBanking"].action="https://ebranch.nasafcu.com/hbnet/login/NewUser_Account.aspx?organization=0C567700-491B-4d39-8579-D0B22D86EBF1";	
+				}
+			}
+		});
+	
+	
     return true;
   }
 
@@ -439,7 +466,7 @@ function YY_checkform() { //v4.66
 
 <br>
 
-    <span>Routing # 255077833</span> |
+	<a class="ltblue" href="/forms/epn-form/">Routing # 255077833</a> |
     <a class="ltblue" href="/security/">Security</a> |
     <a class="ltblue" href="/privacy/">Privacy</a> |
     <a class="ltblue" href="/terms/">Terms &amp; Conditions</a> |
