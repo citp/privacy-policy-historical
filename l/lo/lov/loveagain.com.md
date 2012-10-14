@@ -1,100 +1,137 @@
-> *The following text is extracted and transformed from the loveagain.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveagain.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014053036id_/http%3A//www.loveagain.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
 
-# Legal Agreement
+# LoveAgain.com - Find local singles on LoveAgain.com - an online dating site
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+(' **We** ') Cupid plc are committed to protecting and respecting your privacy. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This policy (together with our [terms and conditions of use](http://www.loveagain.com/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We are the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** '). 
 
-**Information Collection and Use**
+**What information do we collect about you?**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We may collect and process the following information about you: 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Information that you provide by filling in forms on our site (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Information from your web-based email accounts (including your profile picture and other publicly visible information) if you agree to add the Site's email address to the contact lists stored at your email provider's website. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Your location according to the IP address assigned to your PC by your Internet Service Provider. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+If you contact us, we may keep a record of that correspondence. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Details of transactions you carry out through the Site, including any information we require to provide any products or services that you order from us through the Site. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Website usage information is also collected using cookies (see below under 'Cookies'). 
 
-**Security**
+**How will we use the information about you?**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We use the information we hold about you in the following ways: 
 
-**Updating Your Information**
+To administer your user account with us (including notifying you of any compatible matches, tips, announcements, updates, special offers or services, should you consent to this). 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+To help us improve the structure, layout and usability of the Site. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+To allow you to participate in any interactive features of the Site (including the features that require the mobile phone number). 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+To help personalise your repeat visits to the Site. 
 
-      iii.      You may call us at: (480) 505-8800
+To notify you of any compatible matches or any matches who are near your location. 
 
-       iv.      You may fax us at: (480) 505-8844
+To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing by us and third parties** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number). 
 
-**Sending Emails**
+To answer any questions you may raise or respond to any comments you may send to us. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+To notify you about changes to our service or the functionality of the Site. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+To carry out market analysis and research. 
 
-**Compliance with Laws and Law Enforcement**
+To ensure that you are complying with the [terms and conditions of use](http://www.loveagain.com/helptandc.asp?s=s) and to comply with our statutory and regulatory obligations. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**What information do we collect about others?**
 
-**Third Party Service Providers**
+Some features of the Site allow you to share your Site experience with people you know (“your Contacts”), or to invite them to join the Site. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**How do we use information about your Contacts?**
 
-**Supplementation of Information**
+If you choose to upload your Contact’s name and email address you are allowing us to send an email invitation on your behalf, inviting your Contact to join the Site. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know. 
 
-**Contests/Surveys**
+If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@loveagain.com ](mailto:datarequest@loveagain.com)
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Disclosure of your information**
 
-**Tell-A-Friend**
+As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Other companies in the same corporate group as us. 
 
-**What Happens to my Personal Information if I Opt Out?**
+A buyer or prospective buyer of our business. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Our professional advisers, such as our lawyers, where it is necessary for them to advise us. 
 
-**Transfer of Data Abroad**
+Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation. 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties. 
 
-**Changes in Our Practices**
+You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and Group's services including our various internet sites and mobile sites. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. 
 
-**Contacting Our Site**
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@loveagain.com](mailto:unsubscribe@loveagain.com)
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+**Marketing and other uses of your non-personal data by us and by third parties**
 
-* * *
+We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports. Your non-personal data may also be sold or otherwise provided to third parties for use by them for various purposes. 
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Cookies**
+
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Site and to deliver a better and more personalised service. They enable us: 
+
+To estimate our audience size and usage pattern. 
+
+To store information about your preferences, and so allow us to customise the Site according to your individual interests. 
+
+To speed up your searches. 
+
+To recognise you when you return to the Site. 
+
+For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+
+You can set your browser not to accept cookies and the above website tells you how to do that. However, in a few cases some of the features on our Site may not function as a result. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site. 
+
+**Where we store your personal data**
+
+The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (' **EEA** '). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. 
+
+**Other Websites**
+
+The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+**Access to information and correction**
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [info@loveagain.com](mailto:info@loveagain.com). Please note that we may make a small charge for this service.
+
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [info@loveagain.com](mailto:info@loveagain.com).
+
+**Changes to our privacy policy**
+
+We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties. 
+
+**Additional Privacy Protections for Children Using the Internet:**  We do not solicit or target persons younger than legal age for collection of information online. Our Site does not permit children under the age of 18 to become users and we do not accept any information from children. By submitting information via the Site you represent that you are over the age of 18. We encourage minors to seek the consent of their parents before providing any information about themselves or their households to anyone on the Internet. We encourage parents to take an active role to protect the privacy and security of their children and to prevent the inappropriate use of information about their children. We support the development of technologies that help parents to control the collection and use of personal information from children who use online services in their households. 
+
+**Questions**
+
+If you have any questions about this privacy policy then please contact us at [info@loveagain.com](mailto:info@loveagain.com)
