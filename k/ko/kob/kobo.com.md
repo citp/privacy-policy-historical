@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607080536id_/http%3A//www.kobo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014144251id_/http%3A//www.kobo.com/privacypolicy) for the most accurate reproduction.*
 
 # Kobobooks.com: Privacy Policy
 
 Last updated on May 4th, 2011
 
-Kobo Inc.(referred to herein as "We", "Our" or "Us") considers the protection of your personal information a top priority when you ("You" or "Your") use Our Kobo Service. If You decide to access the Kobo Service, Your visit and any dispute over privacy is subject to this Privacy Policy and Our [Terms and Conditions](https://web.archive.org/termsofuse) of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"). 
+Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents of Europe), (in each case as applicable, referred to herin as "We", "Our" or "Us") considers the protection of your personal information a top priority when you ("You" or "Your") use Our Kobo Service. If You decide to access the Kobo Service, Your visit and any dispute over privacy is subject to this Privacy Policy and Our [Terms and Conditions](https://web.archive.org/termsofuse) of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"). 
 
   * We are responsible for personal information under Our control.
   * We have designated a Privacy Officer who is accountable for Our compliance with this Policy and all applicable privacy laws.
