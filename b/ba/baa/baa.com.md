@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524143918id_/http%3A//www.baa.com/help/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014070717id_/http%3A//www.baa.com/help/privacy-notice) for the most accurate reproduction.*
 
 # BAA Airports: Privacy notice
 
@@ -106,7 +106,6 @@ This privacy notice does not provide exhaustive detail of all aspects of BAA's c
   * Aberdeen Airport Limited
   * BAA Airports Limited
   * BAA Enterprises Limited
-  * Edinburgh Airport Limited
   * Glasgow Airport Limited
   * Heathrow Airport Limited
   * Heathrow Express Operating Company Limited
