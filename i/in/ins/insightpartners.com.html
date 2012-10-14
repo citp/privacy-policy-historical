@@ -1,0 +1,296 @@
+<!--The following is the downloaded HTML source of the insightpartners.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014124425id_/http%3A//www.insightpartners.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+        <base href="http://insightpartners.com/">
+        <title>Privacy Policy » Insight Venture Partners</title>
+        <meta name="generator" content="SilverStripe - http://silverstripe.org">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+
+        <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="http://insightpartners.com/themes/venture/combined_files/Page.css?m=1339619272">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://use.typekit.com/qfe3gzv.js"></script>
+<script type="text/javascript" src="http://insightpartners.com/sapphire/thirdparty/prototype/prototype.js?m=1339619210"></script>
+<script type="text/javascript" src="http://insightpartners.com/sapphire/thirdparty/behaviour/behaviour.js?m=1339619207"></script>
+<script type="text/javascript" src="http://insightpartners.com/sapphire/javascript/prototype_improvements.js?m=1339619213"></script>
+<script type="text/javascript" src="http://insightpartners.com/sapphire/javascript/i18n.js?m=1339619213"></script>
+<script type="text/javascript" src="http://insightpartners.com/sapphire/javascript/lang/en_US.js?m=1339619213"></script>
+<script type="text/javascript" src="http://insightpartners.com/sapphire/javascript/Validator.js?m=1339619213"></script>
+<script type="text/javascript">
+//<![CDATA[
+try{Typekit.load();}catch(e){}
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-23973513-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Behaviour.register({
+	'#SearchForm_SearchForm': {
+		validate : function(fromAnOnBlur) {
+			initialiseForm(this, fromAnOnBlur);
+			
+
+			var error = hasHadFormError();
+			if(!error && fromAnOnBlur) clearErrorMessage(fromAnOnBlur);
+			if(error && !fromAnOnBlur) focusOnFirstErroredField();
+			
+			return !error;
+		},
+		onsubmit : function() {
+			if(typeof this.bypassValidation == 'undefined' || !this.bypassValidation) return this.validate();
+		}
+	},
+	'#SearchForm_SearchForm input' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				// Don't perform instant validation for CalendarDateField fields; it creates usability wierdness.
+				if(this.parentNode.className.indexOf('calendardate') == -1 || this.value) {
+					return $('SearchForm_SearchForm').validate(this);
+				} else {
+					return true;
+				}
+			}
+		}
+	},
+	'#SearchForm_SearchForm textarea' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('SearchForm_SearchForm').validate(this);
+			}
+		}
+	},
+	'#SearchForm_SearchForm select' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('SearchForm_SearchForm').validate(this); 
+			}
+		}
+	}
+});
+
+//]]>
+</script>
+</head>
+    <body>
+        <!-- Prompt IE 6 users to install Chrome Frame. -->
+        <!--[if lt IE 7]><p class=chromeframe>Your browser is not supported. <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+        <div id="BgContainer">
+            <div id="Container">
+                <div id="main-header">
+                    <div id="Header">
+                        <a class="logo" href=""><img src="http://insightpartners.com/themes/venture/images/insight-logo.png" alt="Insight Venture Partners Logo" width="303" height="49"></a>
+                        <div class="connt-search">
+                            <div class="connect">
+                                <a href="contact-us" class="first">Contact</a>
+                                <a href="/about/news/rss" class="so-icon" target="_blank"><img src="http://insightpartners.com/themes/venture/images/icons/rss-icon.png" width="13" height="13" alt=""></a>
+                                <a href="http://twitter.com/#!/insightpartners" class="so-icon" target="_blank"><img src="http://insightpartners.com/themes/venture/images/icons/twitter-icon.png" width="13" height="13" alt=""></a>
+                                <a href="http://www.youtube.com/user/InsightPartners?feature=watch" class="last" target="_blank"><img src="http://insightpartners.com/themes/venture/images/icons/youtube-icon.png" width="33" height="13" alt=""></a>
+                            </div>
+                            <form id="SearchForm_SearchForm" action="/privacy-policy/SearchForm" method="get" enctype="application/x-www-form-urlencoded">
+	<fieldset>
+		<legend></legend>
+		
+			<div id="Search" class="field text  nolabel"><div class="middleColumn"><input type="text" class="text nolabel" id="SearchForm_SearchForm_Search" name="Search" value=""></div></div>
+		
+		
+			<input class="action " id="SearchForm_SearchForm_action_results" type="submit" name="action_results" value="Search" title="Search">
+		
+	</fieldset>
+</form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="Navigation" align="center">
+                <div class="MenuNavigation" align="center">
+  
+  <ul class="sf-menu">
+    
+    <li class="link first">
+      <a href="/about/" title="Go to the About page"><span>About</span></a>
+      
+      <ul class="sub-menu">
+        
+        <li class="link">
+          <a href="/about/insight-press-releases/" title="Go to the Insight Press page"><span>Insight Press</span></a>
+        </li>
+        
+        <li class="link">
+          <a href="/about/portfolio-news-feed/" title="Go to the Portfolio News Feed page"><span>Portfolio News Feed</span></a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+    <li class="link ">
+      <a href="/approach/" title="Go to the Approach page"><span>Approach</span></a>
+      
+      <ul class="sub-menu">
+        
+        <li class="link">
+          <a href="/approach/growth-experts/" title="Go to the Growth Experts page"><span>Growth Experts</span></a>
+        </li>
+        
+        <li class="link">
+          <a href="/approach/tech-focused/" title="Go to the Tech-Focused page"><span>Tech-Focused</span></a>
+        </li>
+        
+        <li class="link">
+          <a href="/approach/flexible/" title="Go to the Flexible page"><span>Flexible</span></a>
+        </li>
+        
+        <li class="link">
+          <a href="/approach/global/" title="Go to the Global page"><span>Global</span></a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+    <li class="link ">
+      <a href="/insight-onsite/" title="Go to the Insight Onsite page"><span>Onsite</span></a>
+      
+      <ul class="sub-menu">
+        
+        <li class="link">
+          <a href="/insight-onsite/onsite-activities/" title="Go to the Onsite Activities page"><span>Activities</span></a>
+        </li>
+        
+        <li class="link">
+          <a href="/insight-onsite/events/" title="Go to the Events page"><span>Events</span></a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+    <li class="link ">
+      <a href="/team/" title="Go to the Insight Team page"><span>Team</span></a>
+      
+    </li>
+    
+    <li class="link ">
+      <a href="/portfolio/" title="Go to the Portfolio page"><span>Portfolio</span></a>
+      
+    </li>
+    
+    <li class="link last">
+      <a href="/stories/" title="Go to the Stories page"><span>Stories</span></a>
+      
+    </li>
+    
+  </ul>
+  
+</div>
+            </div>
+            <div class="clear"></div>
+            <div id="Layout" class="main-layout">
+                <div class="container">
+                    <div class="typography">
+    <h1>Privacy Policy</h1>
+    <div id="Sidebar" class="typography"> 
+    
+</div>
+
+    <div id="Content" class="left-cont">
+        <h2>Insight Venture Partners Online Privacy Policy</h2>
+<h3>Effective Date: February 3, 2012</h3>
+<p>Insight Venture Management, LLC ("Insight") is committed to respecting and protecting the privacy of its Website users.  Please read this privacy policy carefully to understand what information Insight collects about users of this Website and how it uses and shares that information with others.  This privacy policy applies only to this Website and to other websites that link to this privacy policy, and does not apply to information collected in any other way by Insight (whether offline or online).</p>
+<p>&nbsp;</p>
+<p>In addition to this privacy policy, if you are an investor in an Insight Fund, then our investor privacy notice that is required by the Gramm-Leach-Bliley Act of 1999 is also applicable to you.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Modifications to this Privacy Policy</h3>
+<p>Insight reserves the right to modify this privacy policy at any time by posting the revised version on this Website and updating the effective date.  Such changes will be effective upon posting, and we encourage you to check this Website frequently to see the current privacy policy in effect and any changes that have been made to it.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>What Information Do We Collect?</h3>
+<p>Insight and third parties working on our behalf collect personal information that you provide on this Website or on third parties' websites as designated by Insight that link to this privacy policy, such as through forms you choose to submit to contact us to obtain more information about or register for an event.  Personal information may include, but is not limited to, name, address, e-mail address, and other contact information.</p>
+<p>&nbsp;</p>
+<p>Insight, third parties working on our behalf, and our partners, including social networking sites, may also place, view, and/or use "cookies," web server logs, web beacons, and other electronic tools to collect statistical information about your use of this Website and other websites, such as your IP address, browser type, operating system, computer platform, web pages viewed, the date and time of your visit, the links you click within this Website, the websites used prior to visiting this Website, and whether you have been to this Website before.  Insight or such third parties may use such information either on behalf of Insight or for the other parties' own purposes, including research and analysis, to enhance your experience with this Website, to provide you with certain functions on this Website, to create aggregate and anonymous information about usage of this Website and other websites, etc.  The collection, use, and disclosure of the information by these third parties is governed by their own privacy policies and is not the responsibility of Insight.  However, if you have deleted and disabled cookies, these uses will not be possible to the extent they are based on cookie information.</p>
+<p>&nbsp;</p>
+<p>Most browsers are set to accept cookies by default.  If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent.  The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or how to disable the collection of geo-location data.  You need to set each browser, on each device you use to surf the Web.  Similarly, if you connect to the Web from multiple devices (e.g., work and home), you need to set each browser on each device. However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of this Website will not function properly.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>How Do We Use and Share Your Personal Information and Other Information?</h3>
+<p>Insight and third parties working on our behalf use the information we have about you for internal business purposes, to communicate with you, respond to your requests, enhance our services to you, compile aggregate statistics, and improve this Website.  Insight and third parties working on our behalf may also use your information to provide you with information about this Website and its services, and about Insight.  To assist us with our use and sharing of your information, information covered by this privacy policy, including information about your use of this Website, may be combined with or enhanced by other information that we have from other online or offline sources.</p>
+<p>&nbsp;</p>
+<p>We may also share your information with third parties as permitted or required by law, including: (a) with service providers that assist in operating our business; (b) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (c) to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (d) to protect the interests, rights, safety, or property of Insight or others; (e) to enforce any terms of service or other legal disclosures on or related to this Website; (f) in connection with a sale or other transfer of all or some of the assets of Insight and/or in connection with a sale or merger of Insight or any division of Insight; (g) to provide you with the services or products requested by you, and to perform other activities related to such services and products; (h) to operate Insight's systems properly; or (i) any other sharing with your consent.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Security</h3>
+<p>To protect your personal information from unauthorized access and use, we use reasonable administrative, technical, personnel, and physical measures. These measures include computer safeguards and secured files and buildings.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Links to Third-Party Websites</h3>
+<p>This Website may contain links to third-party websites, including social networking sites.  Since we do not control third-party websites and are not responsible for any information you may provide while on such websites, we encourage you to read the privacy policies on those websites before providing any of your information on such websites.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Accessing and Updating Your Personal Information</h3>
+<p>To access, review, rectify, or delete your name, e-mail address, phone number, or physical address, or your business name, business e-mail address, business address, or business phone number collected about you through this Website, please contact us at <a href="mailto:contact@insightpartners.com">contact@insightpartners.com</a>.  Please include the following information in all requests:  first name, last name, and e-mail address.  While Insight will make reasonable efforts to fulfill your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Consent to Transfer of Personal Information to Other Countries</h3>
+<p>Some of the uses and disclosures mentioned in this privacy policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than your country.  By submitting your personal information through this Website, you consent to such transfers and to the processing of your personal information in such countries.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Questions Regarding this Privacy Policy</h3>
+<p>If you have questions regarding this privacy policy, please contact us at <a href="mailto:contact@insightpartners.com">contact@insightpartners.com</a>.</p>
+        
+    </div>
+</div> 
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div id="Footer">
+                <div class="footerTop">
+    <div class="footer">
+        <div class="copyright"><span>© 2012 Insight Venture Partners </span>
+        </div>
+        <div class="right-foot-links">
+            <a class="ltd-part" href="https://apps.insightpartners.com/lpdb/login.asp"><img width="121" height="22" alt="" src="http://insightpartners.com/themes/venture/images/limited-partner.jpg"></a>
+            <ul class="foot-links">
+                <li class="first"><a href="http://insightpartners.com/site-map">Site Map</a></li>
+                <li><a href="http://insightpartners.com/legal-disclaimer">Legal disclaimer</a></li>
+                <li><a href="http://insightpartners.com/privacy-policy">Privacy Policy</a></li>
+                <li><a href="http://insightpartners.com/terms-of-use">Terms of Use</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    
+
+</body></html>
