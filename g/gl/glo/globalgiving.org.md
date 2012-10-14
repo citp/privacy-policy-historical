@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531225646id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014175434id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
@@ -10,6 +10,8 @@ GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice,
 [](http://www.export.gov/safeharbor)
 
 This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy at [www.globalgiving.org/aboutus/privacypol.html](https://web.archive.org/aboutus/privacypol.html). 
+
+**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.com](mailto:privacy@globalgiving.com).**
 
 ####  Information Collection 
 
@@ -117,10 +119,13 @@ GlobalGiving
 [privacy@globalgiving.com](mailto:privacy@globalgiving.com)   
 1023 15th Street, NW   
 12th Floor   
-Washington, DC 20005
+Washington, DC 20005   
+USA
 
 Phone: (202) 232-5784   
 Toll Free: (877) 605-2314   
 Fax: (202) 315-2558 
+
+**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.com](mailto:privacy@globalgiving.com).**
 
 Last Modified: 2011/04/20 
