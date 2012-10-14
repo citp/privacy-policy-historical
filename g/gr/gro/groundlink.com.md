@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605005331id_/http%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014133213id_/http%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
 
-# Car Service, Limo Service, Airport Transportation & Transfers | GroundLink.com
+# Groundlink Privacy Policy
 
 GroundLink.com knows that you care how information about you is used and shared. We appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.
 
