@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609030215id_/http%3A//www.walksofitaly.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014172359id_/http%3A//www.walksofitaly.com/privacy_policy) for the most accurate reproduction.*
 
 # Walks of Italy | Privacy Policy when Booking a Walking Tour
 
@@ -6,6 +6,7 @@
 
 **What information do we collect?**  
 
+  
 We collect information from you when you register on our site, place an order or fill out a form. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
@@ -27,19 +28,16 @@ Any of the information we collect from you may be used in one of the following w
 
 • To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
   
-• To send periodic marketing emails  
+• To send periodic marketing emails
 
-
-> The email address you provide for order processing will be used to send you information and updates pertaining to your order. We will periodically send email updates regarding new products, promotions or any other relevant material directly related to Walks of Italy services.   
-> 
+The email address you provide for order processing will be used to send you information and updates pertaining to your order. We will periodically send email updates regarding new products, promotions or any other relevant material directly related to Walks of Italy services. 
 
 • To track advertising usage and effectiveness.
 
-> When finalizing orders your click history will be logged and recorded. This information is anonymous, will not be shared with others, and is for the sole purpose of discerning better ways to use internet advertising to promote our business, and efficacy of our sale methods. This data is generally referred to as "conversion data", and records the connection between your browsing and keyword usage with your final click and sale data on our site.   
-> 
+When finalizing orders your click history will be logged and recorded. This information is anonymous, will not be shared with others, and is for the sole purpose of discerning better ways to use internet advertising to promote our business, and efficacy of our sale methods. This data is generally referred to as "conversion data", and records the connection between your browsing and keyword usage with your final click and sale data on our site. 
 
 **How do we protect your information?**  
 
@@ -51,9 +49,11 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information about your visit.
 
 We use cookies to help us remember and process the items in your shopping cart.
+
+As you navigate our site, we may collect information through common information-gathering tools such as first-party and third-party cookies to inform and serve our marketing efforts based on past website visits. Our servers collect information about your visit, not you personally. Third-party vendors, such as Google, use this information to distribute our advertisements across their network of websites. You can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting Google's Ads Preferences Manager.
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
 
@@ -75,15 +75,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
-
-[http://www.walksofitaly.com/terms](http://www.walksofitaly.com/terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.walksofitaly.com/terms](http://www.walksofitaly.com/terms)
 
 **Your Consent**
 
-By using our site, you consent to our 
-
-[website's privacy policy](http://walksofitaly.com/static_pages/page/privacy_policy).
+By using our site, you consent to our [website's privacy policy](http://walksofitaly.com/static_pages/page/privacy_policy).
 
 **Changes to our Privacy Policy**
 
