@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514051758id_/http%3A//www.gowfb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014175351id_/https%3A//www.gowfb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoWFB.com
 
@@ -24,4 +24,4 @@ If you find any discrepancies in your personal information, you can contact us a
 
 We read every message that arrives and warrants a response. We try to respond as soon as possible to all emails. We keep e-mail addresses on file in a secure server for documentation and to make sure that we respond appropriately to you.
 
-If you have any specific questions about the above information, please [contact us](http://www.gowfb.com/contact-us).
+If you have any specific questions about the above information, please [contact us](https://www.gowfb.com/contact-us).
