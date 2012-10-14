@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the software112.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601035713id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software112.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014103122id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
