@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518144900id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014112127id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # vegetarian-cooking-recipes-tips' Privacy Policy
+
+| 
 
 Please Read Our Privacy Policy
 
@@ -44,7 +46,7 @@ If "vegetarian-cooking-recipes-tips.com" is sold, the information we have obtain
 
 ##  How You Can Correct or Remove Information 
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, [please click on this link and/or use our Contact Us](https://web.archive.org/web/20120518144900id_/http%3A//www.vegetarian-cooking-recipes-tips.com/contact-us.html) page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, [please click on this link and/or use our Contact Us](http://www.vegetarian-cooking-recipes-tips.com/contact-us.html) page.
 
 ##  Updates and Effective Date 
 
@@ -63,11 +65,95 @@ Your use of this site indicates acceptance of this privacy policy.
 If you are looking for anything particular, enter a word in the box and search.
 
   
-**Share this page:  **  
+| **Share this page:  **  
 
 
 What's This?
 
 | | | |   
 ---|---|---|---|---  
-| | | 
+| | |   
+  
+### Submit Your Recipes OR Read Visitor's recipes
+
+### Join Our Facebook Fanpage
+
+[Vegetarian-cooking-recipes-tips.com](http://www.facebook.com/pages/Vegetarian-cooking-recipes-tipscom/255669326501 "Vegetarian-cooking-recipes-tips.com")  
+[](http://www.facebook.com/pages/Vegetarian-cooking-recipes-tipscom/255669326501 "Vegetarian-cooking-recipes-tips.com")  
+[Promote Your Page Too](http://www.facebook.com/business/dashboard/ "Make your own badge!")
+
+### Recently Added Pages
+
+* * *
+
+### Horse gram nutrition facts, how to sprout horse gram, horse gram nutrition facts, kulith, kollu
+
+Find here info about horse gram nutrition facts and how to sprout horse gram. Horse gram is known as kulith, kollu, hurali, ulavalu, gahat etc in Indian languages. 
+
+[Permalink -- click for full blog post "Horse gram nutrition facts, how to sprout horse gram, horse gram nutrition facts, kulith, kollu"](http://www.vegetarian-cooking-recipes-tips.com/horse-gram-nutrition-facts.html)
+
+* * *
+
+### vegetable cutlet recipe, vegetarian cutlet recipe, mixed vegetable cutlets, healthy vegetarian snack recipe
+
+This vegetable cutlet recipe is easy to make. This vegetarian cutlet recipe can be used to make cutlets for lunch, dinner or a snack. 
+
+[Permalink -- click for full blog post "vegetable cutlet recipe, vegetarian cutlet recipe, mixed vegetable cutlets, healthy vegetarian snack recipe"](http://www.vegetarian-cooking-recipes-tips.com/vegetable-cutlet-recipe.html)
+
+* * *
+
+### horse gram chutney powder recipe, horse grain, kulith, hurali, kollu , dry chutney powder
+
+Find here horse gram chutney powder recipe. Horse gram is known as horse grain. In Indian languages it is known as kulthi, kulith, hurali, kollu. 
+
+[Permalink -- click for full blog post "horse gram chutney powder recipe, horse grain, kulith, hurali, kollu , dry chutney powder"](http://www.vegetarian-cooking-recipes-tips.com/horse-gram-chutney-powder-recipe.html)
+
+* * *
+
+### List of edible seeds, list of seeds we eat, flax seeds, pumpkin seeds, healthy seeds
+
+Find here a list of edible seeds. This list of seeds we eat, includes flax seeds, pumpkin seeds, fenugreek seeds etc. 
+
+[Permalink -- click for full blog post "List of edible seeds, list of seeds we eat, flax seeds, pumpkin seeds, healthy seeds"](http://www.vegetarian-cooking-recipes-tips.com/list-of-edible-seeds.html)
+
+* * *
+
+### Finger Millet bread, ragi rotti, nachni. One of healthy millet bread recipes.
+
+This Millet bread is ragi rotti, a finger millet recipe. It is made with finger millet flour, onions etc and served with coconut chutney at breakfast. 
+
+[Permalink -- click for full blog post "Finger Millet bread, ragi rotti, nachni. One of healthy millet bread recipes."](http://www.vegetarian-cooking-recipes-tips.com/millet-bread.html)
+
+* * *
+
+### Banana tomato salad recipe, banana salad, tomato salad, easy salad recipes
+
+Find here an easy banana tomato salad recipe. This is one of the easiest salad recipes. 
+
+[Permalink -- click for full blog post "Banana tomato salad recipe, banana salad, tomato salad, easy salad recipes"](http://www.vegetarian-cooking-recipes-tips.com/banana-tomato-salad-recipe.html)
+
+* * *
+
+### chickpea recipes, chickpeas are comfort food, chickpea curry, garbanzo beans
+
+chickpea recipes are yummy as chickpeas are comfort food. chickpeas or garbanzo beans are used to make many snacks such as fried chickpeas, ambode etc. 
+
+[Permalink -- click for full blog post "chickpea recipes, chickpeas are comfort food, chickpea curry, garbanzo beans"](http://www.vegetarian-cooking-recipes-tips.com/chickpea-recipes.html)
+
+* * *
+
+### Yummy Tasty Vegetable Noodles Recipe
+
+This yummy tasty vegetable noodles recipe is easy to make. Kids love it. This is another way you can add vegetables to your kid's diet. You may add 
+
+[Permalink -- click for full blog post "Yummy Tasty Vegetable Noodles Recipe"](http://www.vegetarian-cooking-recipes-tips.com/yummy-tasty-vegetable-noodles-recipe.html)
+
+* * *
+
+### roasted gram laddoo tambittu unde recipe, hurigadale tambittu unde, puthani tambittu, festival sweets, festival foods
+
+this roasted gram laddoo tambittu unde recipe comes to you from the southern state of Karnataka where it is known as hurigadale tambittu unde or puthani tambittu. It is festival sweet recipe, part of nagpanchami and ganesh festival foods 
+
+[Permalink -- click for full blog post "roasted gram laddoo tambittu unde recipe, hurigadale tambittu unde, puthani tambittu, festival sweets, festival foods"](http://www.vegetarian-cooking-recipes-tips.com/roasted-gram-laddoo-tambittu-unde-recipe.html)
+
+### Signup Free Newsletter 
