@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511045046id_/http%3A//www.soft32.com/legal/privacy%3Frel%3Dlegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014082904id_/http%3A//www.soft32.com/legal/privacy%3Frel%3Dlegal) for the most accurate reproduction.*
 
-# Software Free Download - Soft32
+# Privacy Policy
 
 Privacy Policy
 
@@ -19,8 +19,10 @@ The Personal Data and Browser Data (hereinafter collectively referred to as “D
 Parties processing the data
 
 Owner of the Data Processing System  
-I.T.N.T. SRL - C.Negri, 9 - 550402 Sibiu (Romania),  
-legal@soft32.com
+I.T.N.T. S.R.L.  
+Costache Negri, 9B  
+550402, Sibiu, Romania  
+Email: legal @ soft32.com
 
 Kinds of Data
 
@@ -199,11 +201,11 @@ Right to Access, Correct and Cancel Data
 The User is entitled to access this information, correct it if there are mistakes and cancel their ITNT account.
 
 Users can exercise these rights via the configuration menu in their personal profile, which they can access using their email address and password. If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at:   
-I.T.N.T., S.R.L.   
-Address: Costache Negri, nr. 9B, 550402, Sibiu, Romania  
-Tel. + 40 723 875 777  
-Fax. +40 369 108 797  
-legal@soft32.com
+I.T.N.T. S.R.L.  
+Costache Negri, 9B  
+550402, Sibiu, Romania  
+Phone: +1 (650) 433 9012  
+Email: legal @ soft32.com
 
 Modification of the Data Protection Policy  
 ITNT reserves the right to modify this policy to adapt it to future legislative or case law developments.
@@ -233,7 +235,7 @@ This privacy statement has been prepared in fulfillment of the obligations under
 
 This privacy statement applies solely to the Site and is not meant to refer to other sites whose links are possibly contained therein.
 
-Updated: March 26, 2012 
+Updated: March 26th, 2012
 
 
 
