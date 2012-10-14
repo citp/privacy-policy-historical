@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513105350id_/http%3A//www.moneyexpert.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014193254id_/http%3A//www.moneyexpert.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - MoneyExpert.com
 
@@ -18,11 +18,12 @@ The Data Controller is MoneyExpert Limited (company number 4765843). MoneyExpert
 If you have any queries about this Privacy Policy or any requests concerning your personal information, please write to our address below.
 
 Data Protection Officer   
-MoneyExpert Limited   
-Unit 6   
-The Parks   
-Newton-le-Willows   
-WA12 0JQ 
+MoneyExpert Limited,   
+Craven House,   
+Station Approach,  
+Godalming,  
+Surrey,  
+GU7 1EX
 
 **Why we collect and use your personal information**  
 MoneyExpert collect and use your personal details to allow us to provide the service which you are seeking, and to enable us to ensure that our services are as personalised and accurate as possible. Personal information is required for us to be able to generate accurate quotes for the products that you require.
