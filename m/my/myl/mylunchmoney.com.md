@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylunchmoney.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510225944id_/https%3A//mylunchmoney.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylunchmoney.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014055511id_/https%3A//mylunchmoney.com/privacy.aspx) for the most accurate reproduction.*
 
 # MyLunchMoney
 
