@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitinme.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510223313id_/http%3A//www.submitinme.com/home/seo-service-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitinme.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014070222id_/http%3A//www.submitinme.com/home/seo-service-privacy-policy.aspx) for the most accurate reproduction.*
 
 # SIM SEO Services privacy policy
 
