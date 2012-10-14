@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628085150id_/http%3A//www.weddingpaperdivas.com/about-us/privacy-security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014224923id_/http%3A//www.weddingpaperdivas.com/about-us/privacy-security.htm) for the most accurate reproduction.*
 
 # Wedding Paper Divas Privacy and Security
 
-Last Updated: May 24, 2012
+Last Updated: Sep 21, 2012
 
 Shutterfly and its family of companies, Tiny Prints, Wedding Paper Divas, and Treat, take your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -16,11 +16,9 @@ We collect personal information when you register with Shutterfly, Tiny Prints, 
 
 You may access and use the Sites solely for your personal, noncommercial use. Except as expressly authorized hereunder, the Sites may not be reproduced, duplicated, copied, sold, resold, visited, reverse-engineered or otherwise exploited for any commercial purpose without Shutterfly’s prior written authorization. We reserve the right to alter or discontinue the Sites, in whole or in part, at any time in Shutterfly’s sole discretion.
 
-You may access and use the Sites solely for your personal, noncommercial use. Except as expressly authorized hereunder, the Sites may not be reproduced, duplicated, copied, sold, resold, visited, reverse-engineered or otherwise exploited for any commercial purpose without Shutterfly’s prior written authorization. We reserve the right to alter or discontinue the Sites, in whole or in part, at any time in Shutterfly’s sole discretion.
-
 ## Cookies
 
-Like many websites, we use cookies to collect anonymous visitor information. Third party vendors, including Google, use cookies to serve the badge and ads based on your prior visits to our Sites. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
+Like many websites, we use cookies to collect anonymous visitor information. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
 
 ## Authorized Third Parties
 
@@ -62,12 +60,12 @@ If you log in through Facebook Connect, information you provide to us may be sha
 
 ## Opting Out Of Information Sharing
 
-We understand and respect that not all customers may want to allow us to share information with other select companies. If you do not want Shutterfly, Tiny Prints, Wedding Paper Divas and/or Treat to share your customer information, please immediately email us at [info@treat.com](mailto:info@treat.com), the email on the Contact Us pages of any of our brands, or change the preferences of your account at [Shutterfly.com](http://www.shutterfly.com/), [Tinyprints.com](http://www.tinyprints.com/), [Weddingpaperdivas.com](http://www.weddingpaperdivas.com/) and/or [Treat.com](http://www.treat.com/), and we will remove your name from lists we share with other companies as soon as reasonably practicable. When contacting us, please clearly state your request, including your name, mailing address, email address and phone number.
+We understand and respect that not all customers may want to allow us to share information with other select companies. If you do not want Shutterfly, Tiny Prints, Wedding Paper Divas and/or Treat to share your customer information, please immediately email us at [email us](mailto:cmt.support@treat.com "email us"), the email on the Contact Us pages of any of our brands, or change the preferences of your account at [Shutterfly.com](http://shutterfly.com/), [tinyprints.com](http://tinyprints.com/), [weddingpaperdivas.com](http://weddingpaperdivas.com/) and/or [treat.com](http://treat.com/), and we will remove your name from lists we share with other companies as soon as reasonably practicable. When contacting us, please clearly state your request, including your name, mailing address, email address and phone number.
 
 However, under the following circumstances, we may still be required to share your personal information:
 
   * If we respond to subpoenas, court orders or legal process, or if we need to establish or exercise our legal rights or defend against legal claims; 
-  * If we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Shutterfly Terms of Use or as otherwise required by law.
+  * If we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Shutterfly Terms of Use or as otherwise required by law. 
   * Restrict or inhibit any other user from using the Sites, including, without limitation, by means of "hacking" or defacing any portion of the Sites; 
   * If we transfer information about you in the event that Shutterfly or any of its family of companies, is acquired by, reorganized or merged with another company, you will have the opportunity to ask not to receive promotional information following any such event. 
 
@@ -81,7 +79,7 @@ We do not target our websites to children, and we will not knowingly collect per
 
 You have the right and ability to edit your member account information on any of your websites, including your marketing preferences, at any time. You can opt in or out of receiving future communications of special offers and new product information, or you can unsubscribe by following instructions contained in the messages you receive. We do reserve the right to send you certain communications relating to the services Shutterfly, Tiny Prints, Wedding Paper Divas and Treat provide, such as service announcements and administrative messages, that are considered part of your account membership. We do not offer you the opportunity to opt-out of receiving those messages.
 
-## Confidentiality and Security
+## 
 
 We use a secure server (SSL) to encrypt all of your personal information. We also have other physical, electronic and procedural safeguards that comply with federal regulations to protect the security and confidentiality of the personal information we have collected, and to prevent unauthorized access to or disclosure of any of your personal information.
 
@@ -100,12 +98,3 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 ## Questions and Suggestions
 
 If you have questions about this Privacy Policy, you can contact us at the number or email address on the Contact Us page.
-
-  1. [](https://web.archive.org/unique-wedding-invitations-stationery.htm "Wedding Invitations") [Wedding Invitations](https://web.archive.org/unique-wedding-invitations-stationery.htm "Wedding Invitations")
-  2. [](https://web.archive.org/save-the-date-cards.htm "Save the Date Cards") [Save the Date Cards](https://web.archive.org/save-the-date-cards.htm "Save the Date Cards")
-  3. [](https://web.archive.org/bridal-shower-party-invitations.htm "Bridal Shower Invitations") [Bridal Shower Invitations](https://web.archive.org/bridal-shower-party-invitations.htm "Bridal Shower Invitations")
-  4. [](https://web.archive.org/wedding-party-invitations.htm "Engagement, Rehearsal Dinner, Bachelorette Party Invitations") [Other Party Invitations](https://web.archive.org/wedding-party-invitations.htm "Engagement, Rehearsal Dinner, Bachelorette Party Invitations")
-  5. [](https://web.archive.org/personalized-social-stationery.htm "Wedding Thank You Cards") [Thank You Cards](https://web.archive.org/personalized-social-stationery.htm "Wedding Thank You Cards")
-  6. [](https://web.archive.org/shop/wedding-programs.htm "Wedding Programs") [Wedding Programs](https://web.archive.org/shop/wedding-programs.htm "Wedding Programs")
-
-
