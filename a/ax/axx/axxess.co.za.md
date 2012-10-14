@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axxess.co.za privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604173045id_/http%3A//www.axxess.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axxess.co.za privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014103902id_/https%3A//www.axxess.co.za/privacy.php) for the most accurate reproduction.*
 
 # Axxess DSL - Privacy Policy
 
