@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505041439id_/http%3A//www.hitslyrics.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014140506id_/http%3A//www.hitslyrics.com/disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hits Lyrics.com
 
@@ -38,4 +38,4 @@ of the copyrighted material as provided for in Title 17, Chapter 1 , section 107
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20120505041439id_/http%3A//www.hitslyrics.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20121014140506id_/http%3A//www.hitslyrics.com/contact.html).
