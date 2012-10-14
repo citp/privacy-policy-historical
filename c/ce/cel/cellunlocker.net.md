@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellunlocker.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505053055id_/http%3A//www.cellunlocker.net/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellunlocker.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014100722id_/http%3A//www.cellunlocker.net/privacy-statement.php) for the most accurate reproduction.*
 
 # Cellunlocker.net - Privacy Statement
 
@@ -57,6 +57,5 @@ The following statements define Cellunlocker‘s privacy policy. The terms of th
 If you have any questions or concerns regarding this privacy policy, please contact us with your questions at:
 
 **Cellunlocker  
-**115 Garfield Street 6016  
-Sumas, WA, USA 98295  
+**5177 164th Ave Bellevue, WA 98006  
 1-800-507-9077 or sales@cellunlocker.net
