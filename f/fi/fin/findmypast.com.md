@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606022124id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014082253id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.com
 
@@ -106,7 +106,6 @@ Any changes to this policy must be in writing and posted under this Privacy Poli
 #### Our Address: 
 
 brightsolid online publishing (US) Limited,  
-2500 Broadway,   
-F-125,   
-Santa Monica,   
-CA 90404.
+1291 Electric Avenue,   
+Venice,   
+CA 90291.
