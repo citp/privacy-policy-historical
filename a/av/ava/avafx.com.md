@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avafx.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513060801id_/https%3A//www.avafx.com/Graphics/file/Privacy%2520Statement%2520Ava%2520Australia.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avafx.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014122926id_/https%3A//www.avafx.com/Graphics/file/Privacy%2520Statement%2520Ava%2520Australia.pdf) for the most accurate reproduction.*
 
 # 
 
