@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619022257id_/http%3A//www.blinkbox.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015013553id_/http%3A//www.blinkbox.com/Info/Privacy) for the most accurate reproduction.*
 
 # | blinkbox
 
@@ -74,4 +74,4 @@
 
 
 
-_This Privacy Policy was last updated on 22nd November, 2011._
+_This Privacy Policy was last updated on 12th June, 2012._
