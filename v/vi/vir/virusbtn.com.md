@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507135358id_/http%3A//www.virusbtn.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014060122id_/http%3A//www.virusbtn.com/about/privacy) for the most accurate reproduction.*
 
 # Virus Bulletin : Privacy statement
-
-[](https://web.archive.org/)Fighting Malware and Spam
-
-* * *
-
-**current user:** none ([ **login**](https://web.archive.org/login) | [**register**](https://web.archive.org/support/register))   
-**[Home](https://web.archive.org/)** » Privacy statement
-
-* * *
 
 Your privacy is important to us. This notice explains our online information practices and gives information on the way your information is collected and used. The notice is available on every appropriate page of the site. 
 
@@ -83,12 +74,3 @@ We reserve the right to amend or vary this policy at any time and the revised po
 Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/about/contact/index.xml) directly. 
 
 Effective 15 March 2005
-
-* * *
-
-[News](https://web.archive.org/news) | [Resources](https://web.archive.org/resources/overview) | [Magazine](https://web.archive.org/virusbulletin) | [VB100](https://web.archive.org/vb100) | [VBSpam](https://web.archive.org/vbspam) | [Conference](https://web.archive.org/conference) | [Seminar](https://web.archive.org/seminar) | [About Us](https://web.archive.org/about) | [MyVB](https://web.archive.org/myvb)  
-
-
-* * *
-
-© 2012 Virus Bulletin Ltd | [Full-screen version](https://web.archive.org/mobile_off?ref=/about/privacy.xml)
