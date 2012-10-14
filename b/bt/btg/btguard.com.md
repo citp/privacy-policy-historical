@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btguard.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513151837id_/http%3A//btguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btguard.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065216id_/http%3A//btguard.com/privacy) for the most accurate reproduction.*
 
 # BTGuard - Privacy Policy
 
