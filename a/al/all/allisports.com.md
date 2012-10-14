@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617170023id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014223137id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | Alli Sports Action Sports
 
