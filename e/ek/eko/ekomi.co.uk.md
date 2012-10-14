@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekomi.co.uk privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610033408id_/http%3A//www.ekomi.co.uk/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekomi.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014145222id_/http%3A//www.ekomi.co.uk/uk/privacy) for the most accurate reproduction.*
 
 # Product reviews and customer reviews for online retailer - powered by eKomi - The Feedback Company
 
