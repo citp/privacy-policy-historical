@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satya-weblog.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509032411id_/http%3A//www.satya-weblog.com/ws_privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satya-weblog.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014183341id_/http%3A//www.satya-weblog.com/ws_privacy_policies.php) for the most accurate reproduction.*
 
 # Web Scripting Privacy Policies
 
