@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goamplify.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052248id_/http%3A//www.goamplify.com/disclosures/files/AmplifyPrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goamplify.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014202219id_/https%3A//www.goamplify.com/disclosures/files/AmplifyPrivacyNotice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
