@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photographysites.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615042233id_/http%3A//www.photographysites.com/content.php%3Fr%3D37-SPONSOR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographysites.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014043434id_/http%3A//www.photographysites.com/content.php%3Fr%3D37-SPONSOR) for the most accurate reproduction.*
 
-# PhotographySites Forums - Advertisements
+# PhotographySites Forums - Photography Sites Home
 
-Published on 02-03-2011 10:53 AM  Number of Views: 1847324  
+Published on 02-03-2011 10:53 AM  Number of Views: 2256605  
 
 Photographysites.com does not collect any user specific identifiable information other than that given by a user when subscribing for the forums or when a web site owner enters details for a submission to the directory. We do not use this information for any purpose other than to allow us to send the information about competitions, news or administrative information to a web site owner. We don't resell names or any individual data.
 
