@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509022405id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014195204id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
 
-# EmEditor Text Editor - Privacy Policy
+# EmEditor (text editor) - Privacy Policy
 
 **Emurasoft Privacy Policy Notice**
 
@@ -42,6 +42,6 @@ Last Modified: September 30, 2008
 
 [](http://www.emeditor.com/modules/about3/print.php?id=6)
 
-[](mailto:?subject=Interesting%20Article%20at%20EmEditor%20Text%20Editor&body=Here%20is%20an%20interesting%20article%20I%20have%20found%20at%20EmEditor%20Text%20Editor%3A%20http://www.emeditor.com/modules/about3/index.php?id=6)
+[](mailto:?subject=Interesting%20Article%20at%20EmEditor%20%28text%20editor%29&body=Here%20is%20an%20interesting%20article%20I%20have%20found%20at%20EmEditor%20%28text%20editor%29%3A%20http://www.emeditor.com/modules/about3/index.php?id=6)
 
 * * *
