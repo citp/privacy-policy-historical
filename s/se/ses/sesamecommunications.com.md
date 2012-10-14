@@ -1,91 +1,103 @@
-> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513203043id_/http%3A//www.sesamecommunications.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014144736id_/http%3A//www.sesamecommunications.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Sesame Communications™ | Online Patient Communications Appointment Reminder Services | Privacy Policy
+# Privacy Policy | Legal | Sesame Communications
 
-## Your Right to Privacy, Our Promise of Security
+[](https://web.archive.org/)
 
-Your orthodontist has contracted with Sesame Communications to use our technology to provide you with the ability to view your appointment and account information via the Internet on a password-protected screen. Our technology also generates and automatically sends reminder notices and information from your orthodontist to you via email. Sesame Communications may change its Privacy Policy from time to time when we change our procedures or update our technology, so please re-visit this web page periodically.
+* * *
 
-## Frequently Asked Questions
+Sesame Communications takes your privacy seriously. This website provides information and resources related to the services delivered by Sesame Communications and our goal is to provide you with a positive experience by delivering information, resources, and services that are most relevant and helpful to you. The purpose of this Privacy Policy is to inform you of what kinds of information we may gather and how we may use that information. Also, certain aspects of use of this site or information collected through this site may be covered by our contracts, if any, with customers.
 
-Please see the following Frequently Asked Questions (FAQs).
+Return to Top
 
-  
+* * *
 
+#### What This Privacy Policy Covers
 
-### What information does Sesame Communications collect and how is this information used?
-
-Name and Email Address
-
-Registration for the Service consists of inputting your first and last name and email address(es) into the PC that Sesame Communications has installed in the waiting area of your orthodontist's office.
-
-Your Account Information
-
-The Service can access your orthodontist's database of patient information. As a result, Sesame Communications will know your name, birth date, appointment history, future appointments, payment information and health insurance information ("Account Information").
-
-Sesame Communications will not have access to your medical and orthodontia records. Your medical records are confidential records between your orthodontist and you.
-
-The Service will use your Account Information to automatically generate and email notices to you about appointments and other information from your orthodontist, including details about your account. You can also view your Account Information on a password-protected, secure page on your orthodontist's web site by clicking on the "Account Information" button.
-
-Tracking Information
-
-Sesame Communications' server automatically gathers traffic data about users using the Service. This traffic data does not personally identify you to Sesame Communications. Sesame Communications may periodically analyze the server logs to optimize web site navigation, help diagnose problems with our server, and to administer your orthodontist's web site.
-
-  
+  * This Privacy Policy covers how Sesame Communications treats information about you that Sesame collects and receives, including information related to your past use of Sesame-hosted websites and Sesame services.
+  * This Privacy Policy does not cover the practices of companies that Sesame Communications does not own or control, or to people that Sesame does not employ or manage. This website may contain links to other sites and Sesame does not take responsibility for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of the websites you visit.
 
 
-### Do you collect information from children?
 
-Sesame Communications strictly adheres to the federal regulations enacted to implement the Children's On-line Privacy Protection Act ("COPPA"). We collect only the most limited amount of information necessary to provide the Service to all users, including children. For more information about COPPA or to read the full text of the statute and the federal regulations, please go to <http://ftc.gov/kidzprivacy/>. Sesame Communications will never sell, trade or assign any information about you to third parties, such as mailing houses, insurance companies, market research firms, or advertisers.
+Return to Top
 
-  
+* * *
 
+#### Information We Collect
 
-### How Does Sesame Communications Protect my Information from Loss, Misuse or Alteration?
-
-The Sesame Communications employs security measures that are consistent with industry standards to protect the loss, misuse or alteration of information about users of the Service that is under our control.
-
-Encryption Technology
-
-Any connections to your Account Information from your orthodontist's web site will be made through a secure connection that is validated by your user name, email address and the password given to you by the Service. All information transferred during every session, including your Account Information and your password will be encrypted using Secure Socket Layer (SSL) encryption technology. In addition, your Account Information will be encrypted when stored in Sesame Communications' database. To ensure that your sessions are encrypted, look for the "https" in your browser's address bar before or the browser's "secure site" icon  during your session. If you do not see the "https" (be sure to look for the "s" following "http") or the secure server icon , log in to your Account Information again.
-
-Internal Restrictions
-
-Our web site administrators continuously review the integrity of our security measures. In addition, we limit employee access to your Account Information on a "need to know" basis. Only employees with a valid business reason related to providing the Service will have access to your Account Information. We train all of our employees about the importance of confidentiality and our policies and technology regarding privacy and security.
-
-  
+  * **Personal Information.** Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. You may voluntarily provide personal information about yourself in connection with your participation in Sesame-sponsored surveys, your requests to receive newsletters or other communications from us, or your use of certain features of Sesame websites or services.
+  * **Other Information.** By visiting **sesamecommunications.com** , we may collect information about you and your interactions with our websites and services through the use of cookies, pixel tags, server logs, and other Internet technologies. While these tracking tools do not contain any personal information, they may be associated with your personal information in order to provide you with tailored web content and email communications. These technologies do not provide us with your personal information, but they do allow us to track and record your activities. 
 
 
-### Can I Opt out of Providing Information to Sesame Communications?
 
-You can choose not to use the service by NOT entering an e-mail address into the system. If you request your orthodontist to block your record, none of your personal information will be available on the Internet.
+If you prefer not to be tracked by these tools, there are many companies that programs which help you to visit websites anonymously. While Sesame will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
-  
+Return to Top
 
+* * *
 
-### Can I Change My Information or Discontinue the Service?
+#### How We Use the Information We Collect
 
-You can change your email address when you log onto your orthodontist's web site by clicking on the "My E-mail" button on the web page. You cannot change you Account Information through the Service. If you would like to make changes to your Account Information, call your orthodontist's office directly to alert them to any changes that should be made to your Account Information stored in your orthodontist's database.
-
-  
+  * **Using Your Personal Information.** We use the personal information you provide to us in the following ways:
 
 
-### What Constitutes My Acceptance of this Privacy Policy?
+    * To deliver the services you have requested, such as responding to information requests, delivering newsletters, or providing access to website features or services.
+    * For our internal purposes unrelated to any specific service we deliver to you, such as to help improve our website, better understand our customers' needs or to develop new offerings in which you may be interested.
+    * To compile statistics and reports regarding our audience and the users of our websites, products and services, which may include combining the personal information you provide with information we obtain from business partners or other companies.
 
-Your registration for and use of the Service constitutes your consent to our use of your email address and your Account Information in connection with providing the Service to you. Sesame Communications reserves the right to change this Privacy Policy at any time, so be sure to review this Privacy Policy periodically. Your continued use of our web site after the date that changes to the Privacy Policy are published on your orthodontist's web site will be deemed to be your agreement to the changed terms.
 
-## Contact Us 
+  * **Using Other Information.** We use the non-personal information we collect about you, such as cookie, pixel tag and server log data, in the following ways:
 
-If you have any questions about your privacy or security measures at Sesame Communications, please let us know:
 
-### Director of Privacy
+    * To customize and improve your experience with our websites and services.
+    * To deliver interest-based advertising to you that is targeted to the interests we identify through your online activities.
+    * To compile statistics and reports regarding our audience and the users of our websites, products and services.
+    * To share with our related companies or trusted third parties so that they may assist us with our use of the information, including providing us with audience segmentation and related information.
+    * To share with trusted third parties, such as advertising networks, for use in delivering interest-based advertising to you.
 
-Sesame Communications™ 
 
-15 South Grady Way, Suite 420 
 
-Renton, WA 98057
+**Compliance with Law and Changes of Control.** We may disclose information about you, including personal information, if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order. Also, in the event of a sale of some or all of our business or the combination of our business with a related company, we may disclose your personal information to the purchaser or other entity, provided that they agree to abide by the terms and conditions of this privacy policy. 
 
-[privacy@sesamecommunications.com](http://www.sesamecommunications.com/# "privacy@sesamecommunications.com")
+Return to Top
 
-[Top](http://www.sesamecommunications.com/privacy.php# "Return to the top of this page")
+* * *
+
+#### Your Privacy Options
+
+  * **Declining or Blocking Cookies and Pixel Tags.** Most web browsers allow you to modify security settings and browser preferences so you can approve or reject cookies on a case-by-case basis, or even reject all cookies if you choose. Similarly, you can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements. Please be aware, however, if you 'turn off,' purge or disable cookies or pixel tags, you may not be able to use all of the features, functions or services available on our websites.
+
+
+
+Return to Top
+
+* * *
+
+#### Other Important Information
+
+  * **Security.** We take appropriate measures to keep the personal information you disclose to us secure and to only release this information to third parties that share our commitment to privacy. However, we cannot guarantee there will not be a breach and we are not responsible for any breach of security or for the actions of any third parties.
+  * **Children.** Sesame Communications products and services are solely for use by businesses. Therefore, we do not expect children under the age of 13 to provide us with any personally identifiable information. If you believe that we have mistakenly or unintentionally collected such information through our website, please notify us at [privacy@sesamecommunications.com](mailto:privacy@sesamecommunications.com) so that we may immediately delete the information from our servers.
+  * **Information for Non-US Visitors.** If you are visiting from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this policy.
+  * **Contacting Us.** Sesame Communications welcomes your comments or questions regarding this Privacy Statement or your dealings with this website; please contact us by e-mail at [privacy@sesamecommunications.com](mailto:privacy@sesamecommunications.com).
+  * **Changes to Privacy Policy.** Any changes to this statement will be posted at this location and will take effect immediately after they are posted. Collection of data from that point on will be subject to the new policy. You may wish to check back from time to time to be aware of any changes to the statement.
+
+
+
+**Effective Date. The effective date of this Privacy Policy is May 17, 2012**
+
+Return to Top
+
+* * *
+
+#### Sesame Webinars
+
+Social Media is an amazing phenomenon that has revolutionized how we use the Internet and how we interact.
+
+**[Social Media: Beyond Facebook](http://info.sesamecommunications.com/EventWebinarEmmott12.1011_RegistrationForm.html)**  
+with **Larry Emmott**  
+October 11, 2012 9:00 a.m. PST  
+[Learn more →](http://info.sesamecommunications.com/EventWebinarEmmott12.1011_RegistrationForm.html)
+
+* * *
+
+Sesame™, Sesame 24-7™, Top Patient Appeal Rated™, Sesame Designed Site™, Premium Sesame Designed Site™, Sesame First Call™ and Sesame Voice™ are trademarks of Sesame Communications. All other trademarks are the property of their respective owners. Copyright © 2000-2012 Sesame Communications, Inc. All rights reserved. [Terms of Use](https://web.archive.org/terms.php) | [Privacy Policy](https://web.archive.org/privacy-policy.php) | [Sitemap](https://web.archive.org/sitemap.php)
