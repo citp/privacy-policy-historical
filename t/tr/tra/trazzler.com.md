@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the trazzler.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513015224id_/http%3A//www.trazzler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trazzler.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014214540id_/http%3A//openplac.es/privacy) for the most accurate reproduction.*
 
-# Trazzler | Privacy
+# Open Places | Privacy
 
-_Updated 12-12-11_
+_Updated 6-27-12_
+
+Thank you for visiting openplac.es, a site presented to you by Trazzler, Inc. (for the purposes of this statement, "Trazzler").
 
 Trazzler provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.trazzler.com ("Site" ) and from the Trazzler iPhone application. This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
