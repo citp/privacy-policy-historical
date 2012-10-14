@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitemodel.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513195206id_/http%3A//www.sitemodel.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemodel.net privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015005050id_/http%3A//www.sitemodel.net/privacy_policy.php) for the most accurate reproduction.*
 
 # SiteModel.net | Share Site Model Pictures
 
@@ -16,4 +16,6 @@ ClearVista may collect Personal Information from you through the storage of data
 In the event ClearVista allows you to create a Member Account, you will have the opportunity to update components of your Personal Information. You may opt-out of ClearVista’s collection of your Personal Information by deleting your Member Account and by ceasing your use of the Website. **Protection and Storage of Personal Information**  
 ClearVista undertakes commercially reasonable procedures to help protect your Personal Information from disclosure. Though ClearVista takes the security of your Personal Information very seriously, ClearVista cannot guarantee that its servers and Website are completely secure. ClearVista uses commercially reasonable efforts to protect your Personal Information, but you provide any and all Personal Information at your own risk. **California Privacy Rights**  
 California residents have the right to receive information that identifies any third party companies or individuals that ClearVista has shared your Personal Information with in the previous calendar year, as well as a description of the categories of Personal Information disclosed to that third party. You may obtain this information once a year and free of charge by contacting ClearVista at privacy@ClearVista.com. **Contact and Notices**  
-All questions and concerns regarding this Privacy Policy may be directed to ClearVista, LLC by emailing privacy@ClearVista.com 
+All questions and concerns regarding this Privacy Policy may be directed to ClearVista, LLC by emailing privacy@ClearVista.com   
+  
+
