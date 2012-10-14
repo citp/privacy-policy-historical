@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aldi.ie privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511065026id_/http%3A//aldi.ie/ie/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.ie privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015003107id_/http%3A//www.aldi.ie/ie/html/privacy_policy.htm) for the most accurate reproduction.*
 
-# ALDI - Privacy Policy
+# ALDI - Privacy Policy & Cookies
 
 Aldi Stores (Ireland) Limited are committed to protecting and respecting your privacy. This policy explains how and for what purposes we use the information collected about you via our website www.aldi.ie ("our site"). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using our site and any services we offer via our site, you are agreeing to be bound by this policy in respect of the information collected about you via our site. 
 
@@ -19,17 +19,24 @@ We may collect and process the following data about you:
 
 Although it is not compulsory for you to provide information when requested, if you do not, then we may not be able to provide you with a full range of services our site has to offer. 
 
-**IP ADDRESSES AND COOKIES COLLECTED FROM YOUR COMPUTER**  
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us: 
+**IP ADDRESSES AND COOKIES**
 
-  * To estimate our audience size and usage pattern. 
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests. 
+We may collect information about your computer either for system administration or to report to our advertisers which includes (where available) your IP address, operating system and browser type. This statistical data about our users' browsing actions and patterns will be collected using Cookies, which alone cannot identify any individual. 
+
+Cookies are small pieces of information that are stored on the hard drive of your computer and they enable a server to collect information from an Internet browser. You can find out more about how Cookies work at [http://www.cookiecentral.com.](http://www.cookiecentral.com/)
+
+In short, Cookies can help us to improve our site and to deliver a better, more personalised service. They enable us: 
+
+  * To estimate our audience size and usage pattern which can help us to improve your user experience. 
+  * To store information about your preferences so we can do things like greet you personally and speed up your log-in when you come back to the site. 
   * To speed up your searches. 
   * To recognise you when you return to our site. 
 
 
 
-Cookies are specific to the server that created them and can not be accessed by other servers which means that they can not be used to track your movements around the web. Passwords and credit card numbers are not stored in cookies. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+You can set your browser to accept or reject certain Cookies or, if you prefer, you can set your browser to alert you each time a Cookie is detected. Previous Cookies that have been stored on your computer can also be deleted. However, if you block our Cookies or you subsequently delete a Cookie that has been placed, it will not be possible for you to use this website effectively - the system relies on Cookies to identify you as the user. 
+
+Please be assured that Aldi does not use Cookies to retrieve personal information about you from your computer - we will only gain such information if you have knowingly and willingly provided access to us. 
 
 **WHERE WE STORE YOUR PERSONAL DATA**  
 We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
