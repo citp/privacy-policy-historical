@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618193949id_/http%3A//www.bhomes.com/UAE/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014235124id_/http%3A//www.bhomes.com/UAE/privacy.xhtml) for the most accurate reproduction.*
 
 # Privacy and Security Statement :: Better Homes :
 
