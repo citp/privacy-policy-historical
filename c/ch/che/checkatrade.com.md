@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510082737id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014114416id_/http%3A//www.checkatrade.com/About/Privacy.aspx%23Cookies) for the most accurate reproduction.*
 
 # RecommendedTradesmen: Privacy Policy - Checkatrade.com
 
@@ -19,16 +19,81 @@ Members of the public submitting feedback about Checkatrade members will not hav
 
 We will only keep a record of your information for as long as is necessary for the purposes it was provided: for example, we will only hold your personal information on our systems for as long as you use the service that you have requested. We will ensure that all personal information supplied is held securely. 
 
-###  IP Addresses and Cookies
+###  IP Address Logging and Cookie Policy
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
 
-For the same reasons, and to improve the functionality of the web site we may use a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. 
+For the same reasons, and to improve the functionality of the web site we may use a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Further information about the types of cookies that are used on checkatrade.com is set out in the box below. 
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
 
-Please note that our advertisers may also use cookies, over which we have no control. 
+The following categories of cookie are currently set on checkatrade.com:
 
+**Cookie Type**
+
+| 
+
+**Overview**
+
+| 
+
+**Use on checkatrade.com**  
+  
+---|---|---  
+  
+Performance
+
+| 
+
+Performance cookies collect information about how checkatrade.com is used so that we can improve the site. All information collected by these cookies is aggregated and therefore anonymous.
+
+Accepting these cookies is a condition of using checkatrade.com. If you block these cookies we cannot be sure how the website will perform during your visit.
+
+| 
+
+We use these cookies to:
+
+  * Provide internal use statistics on how checkatrade.com is used
+  * Help us improve checkatrade.com by measuring any errors that occur
+  * Test checkatrade.com design and operability
+  * Remember if we've already asked you if you want to fill in a survey
+
+  
+  
+Functional
+
+| 
+
+Functional cookies allow checkatrade.com to remember choices you make such as your search preferences, and any customisations you make to pages on checkatrade.com during your visit.
+
+Accepting these cookies is a condition of using checkatrade.com. If you block these cookies certain features and services may be affected and we cannot be sure how checkatrade.com will perform during your visit.
+
+| 
+
+We use these cookies to:
+
+  * Remember selections or information you have entered when you navigate to different pages during your session on checkatrade.com (for example options you have selected when searching) 
+  * Provide individual services, such as giving feedback on our members.
+
+  
+  
+Targeting
+
+| 
+
+These cookies are used to enhance your experience of checkatrade.com. They collect information about your browsing habits in order to make advertising more relevant to you and your interests.
+
+Accepting these cookies is a condition of using checkatrade.com. If you block these cookies we cannot be sure how checkatrade.com will perform during your visit.
+
+| 
+
+We use these cookies to:
+
+  * Help measure the effectiveness of our own advertising campaigns.
+  * Link to social networks like Facebook, who may subsequently use information about your visit to target advertising to you on other websites.
+
+  
+  
 ###  Data Protection Compliance
 
 **Checkatrade** is a trading name of **Vetted Ltd**.
