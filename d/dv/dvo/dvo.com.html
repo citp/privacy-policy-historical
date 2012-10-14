@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dvo.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511090616id_/http%3A//www.dvo.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dvo.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014083158id_/http%3A//www.dvo.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
       <meta charset="utf-8">
@@ -10,8 +10,8 @@
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
         
-		<link rel="stylesheet" href="css/style_dvomain.css" type="text/css">
-		
+		<link rel="stylesheet" href="http://www.dvo.com/css/style_dvomain.css" type="text/css">
+		<script type="text/javascript" src="http://www.dvo.com/js/jquery/jquery.js"></script>
 		<!-- Dropdown Menu Links -->
 
 		<link href="css/dropdown/dropdown.css" media="screen" rel="stylesheet" type="text/css">
@@ -41,16 +41,37 @@
 	<div id="dvo-search">
 <!-- Search -->
 		<div id="guide-search">
-			<div id="search">
-			<form action="./search.php" method="post" id="searchForm"><fieldset>
-   	 		<input type="text" id="search_term" name="searchTerm" value="Search" class="clearClick">
-			<input type="image" align="right" name="searchTerm" value="" src="http://www.dvo.com/images/bg_search_a.png" border="0">
-			<input type="hidden" name="action" value="search"> 
-    		</fieldset></form>
-    		</div><!-- /search -->
+		
+			<form action="http://www.dvo.com/search.php?CID=PerfectSearch" method="post" id="searchForm">  
+    			<input name="searchTerm" id="status-top" value="Search" type="text">  
+    			<input type="submit" name="submit" value="Search">
+                <input type="hidden" name="action" value="search">  
+			</form>
+		
 		</div><!-- /guide-search -->
 <!-- Search -->
 	</div>
+<!-- search style script -->
+<script type="text/javascript">
+$(document).ready(function() {  
+    $('input[type="text"]').addClass("idleField");  
+    $('input[type="text"]').focus(function() {  
+        $(this).removeClass("idleField").addClass("focusField");  
+        if (this.value == this.defaultValue){  
+            this.value = '';  
+        }  
+        if(this.value != this.defaultValue){  
+            this.select();  
+        }  
+    });  
+    $('input[type="text"]').blur(function() {  
+        $(this).removeClass("focusField").addClass("idleField");  
+        if (this.value == ''){  
+            this.value = (this.defaultValue ? this.defaultValue : '');  
+        }  
+    });  
+});
+</script>
 
 <!-- NavMenu -->
 <div id="navmenu">
@@ -64,9 +85,10 @@
 			<li><a href="http://www.dvo.com/cookn-features.php">Features</a></li>
 			<li><a href="http://www.dvo.com/cookn-benefits.php">Benefits</a></li>
 			<li><a href="http://www.dvo.com/200-percent-guarantee.php">200% Guarantee</a></li>
-			<li><a href="http://www.dvo.com/feedback.php">Testimonials</a></li>
+			<li><a href="http://www.dvo.com/feedback.php">Customer Reviews</a></li>
 			<li><a href="http://www.dvo.com/cookbook-and-recipe-software-review.php">Comparison</a></li>
 			<li><a href="http://www.dvo.com/cookn-upgrade.php">Upgrade</a></li>
+			<li><a href="http://www.dvo.com/bd_try-cookn.php"><img src="http://www.dvo.com/images/droparrow.png">Buy Now!</a></li>
 		</ul>
 	</li>
 	<li><a href="http://www.dvo.com/cookn-apps.html" class="dir">Apps</a>
@@ -315,17 +337,6 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.3. -->
 
-<!-- google analytics Start-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-273522-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
-<!-- google analytics End-->
+
 
 </body></html>
