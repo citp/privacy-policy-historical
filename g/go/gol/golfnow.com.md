@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626084538id_/http%3A//www.golfnow.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014232621id_/http%3A//www.golfnow.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GolfNow Privacy Policy
+
+**_Effective Date: 09/13/12_**
 
 Your privacy is very important to Golf Channel (“Golf Channel,” “we,” or “us”), and we are committed to providing you a secure online environment. The following Privacy Policy applies to all of the websites owned and/or operated by Golf Channel and its owned and/or operated affiliated businesses (collectively, the “Sites,” which shall include but not be limited to any and all sites and subdomains associated with Golf Channel, GolfNow, Golf Channel Solutions, WorldGolf and TravelGolf). This Privacy Policy is a part of and is incorporated into the Golf Channel [terms of use](https://web.archive.org/about-us/terms-of-use).
 
@@ -30,7 +32,7 @@ This Privacy Policy tells you how we collect information from you, how we use it
 
 Security for all PII is extremely important to us. Your PII is collected and stored securely on our servers in the United States. We store your PII securely, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction.
 
-Please be aware that only authorized employees (and our carefully selected agents and partners) will have access to the PII you provide us. We impose strict safeguards to secure your PII, including the following:
+Please be aware that only authorized employees (and our carefully selected agents and partners) will have access to the PII you provide us and are only authorized to use it in accordance with this Privacy Policy. We impose strict safeguards to secure your PII, including the following:
 
     * Industry standard physical and electronic procedures (including firewalls);
     * Digital data encryption;
@@ -42,13 +44,20 @@ Although we cannot guarantee the security of any communication over the Internet
   2. **_The Information We Collect_**
     1. **Collection of Personally Identifiable Information**
 
-You may use many of the features of the Sites without telling us who you are or revealing any PII. You must be a registered user, however, in order to register for membership to any of the Sites, to access the interactive features of the Sites, or to conduct any transactions through any of the Sites (e.g., booking a tee time through GolfNow). Registration will require you to provide certain PII, such as your name, email address and other information.
+You may use many of the features of the Sites without telling us who you are or revealing any PII. You must be a registered userin order to access the interactive features of the Sites, or to conduct any transactions through any of the Sites (e.g., booking a tee time through GolfNow). Registration will require you to provide certain PII, such as your name, email address and other information.
 
 When using the Sites, you may be asked to provide various types of PII to enhance your experience on the Sites. The Sites ask for PII (such as your name, address, zip code, phone number, email address, and, in certain instances, your credit card number) when you register for an account, sign up for email newsletters, book a tee time, enter a contest or participate in a promotion. For example, to register on golfchannel.com you must provide your first and last names, email address, gender, zip code, birth date and country. Also to book a tee time through golfnow.com, you must provide your first and last name, email address, gender, birth date, country, address, city, state, zip code, and phone number. You can always go back to read this Privacy Policy by clicking on the Privacy Policy link on the bottom of all of the pages on the Sites. Please also see below about “cookies” and what other information is collected. Specifically, we collect the following types of information
 
       * **Information You Give Us**
 
-We receive and store any information you enter on our Sites, submit through emails or other communication, or provide to us in any other way. You may choose not to provide certain information, but some of our features require PII in order to operate effectively. We use the information that you provide for purposes such as responding to your requests, customizing future promotions, fulfilling transactions, improving our functionality, and communicating with you.
+We receive and store any information you enter on our Sites, submit through emails or other communication, or provide to us in any other way (including but not limited to: reviews, comments, video submissions, etc…) By submitting such content, you represent and warrant that:
+
+        * You are the sole author and owner of the intellectual property rights thereto;
+        * All "moral rights" that you may have in such content have been voluntarily waived by you;
+        * All content that you post is accurate;
+        * You permit to Golf Channel using the content you supply in accordance with Golf Channel’s terms of use, and that such submission does not violate those terms.
+
+You may choose not to provide certain information, but some of our features require PII in order to operate effectively. We use the information that you provide for purposes such as responding to your requests, customizing future promotions, fulfilling transactions, improving our functionality, and communicating with you.
 
       * **Automatic Information**
 
@@ -60,7 +69,7 @@ To help us make emails more useful and interesting, we often receive a confirmat
 
       * **Communications with Friends**
 
-We may offer features where you can send information to others, such as forwarding articles, newsletters and/or tee times specials to friends. In order to send such information to your friends, we will use the contact information you provide for your friends, but we will not store or maintain such information.
+We may offer features where you can send information to others, such as forwarding articles, newsletters and/or tee times specials to friends. By sharing the contact details of others you are confirming that you have the right to share their information with Golf Channel OR Golf Channel is able to send the information to your friends without retaining their contact details.
 
       * **Interactive and Community Features**
 
@@ -72,11 +81,11 @@ We may also have contests, sweepstakes and surveys at our sites. When you enter 
 
       * **Information from Other Sources**
 
-For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to your account information. Sometimes we also receive updated delivery and address information from these other sources so that we can correct our records and deliver your next purchase or communication more easily.
+For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources who are entitled to share such information with us and add it to your account information. Sometimes we also receive updated delivery and address information from these other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
     2. **Collection of Non-Personally Identifiable Information**
 
-On an aggregate basis only, we collect comprehensive demographic information and data, and other non-personally identifying information about users of the Sites. Such information can also include your voluntary survey responses, information on how you access and search the Sites, and information regarding the domain names and/or IP addresses of browsers that visit the Sites. Golf Channel will never disclose any PII as part of this aggregate information, but we may lend, sell, share or otherwise disclose aggregate information with others so we can perform research and provide the results to third parties, enhance and market the Sites, and conduct accounting and process record keeping functions. We may also collect anonymous information about you (e.g., your IP address) to personalize your experience and deliver more relevant content and/or advertising messages.
+On an aggregate basis only, we collect comprehensive demographic information, and other non-personally identifying information about users of the Sites. Such information can also include your voluntary survey responses, information on how you access and search the Sites, and information regarding the domain names and/or IP addresses of browsers that visit the Sites. Golf Channel will never disclose any PII as part of this aggregate information derived from this PII, but we may lend, sell, share or otherwise disclose aggregate information with others so we can perform research and provide the results to third parties, enhance and market the Sites, and conduct accounting and process record keeping functions. We may also collect anonymous information about you (e.g., your IP address) to personalize your experience and deliver more relevant content and/or advertising messages.
 
   3. **_Our Use of the Information_**
     1. **Use of Personally Identifiable Information**
@@ -94,7 +103,7 @@ We use the PII you provide on the Sites for several purposes. For example, Golf 
       * To meet certain contractual obligations, as described herein.
     2. **Emails.**
 
-We also may use your email address to send you informational emails, such as news, information about contests or promotions, notifications about tee times discounts or other deals, or changes or enhancements to the Sites. Certain of these emails may contain tracking capabilities that inform us when emails are opened. Upon registration for the Sites, you will have the opportunity to choose the email lists to which you would like to subscribe. If you don’t want to receive these informational email communications, please refer to the Opt-Out Policy below, or follow the unsubscribe instructions at the end of every email. You may subscribe to certain email lists without subscribing to all of them, but you will be required to submit your email address in order to conduct an online tee time transaction.
+We also may use your email address to send you informational emails, such as news, information about contests or promotions, notifications about tee times discounts or other deals, or changes or enhancements to the Sites. Certain of these emails may contain tracking capabilities that inform us when emails are opened. Upon registration for the Sites, you will have the opportunity to choose the email lists to which you would like to subscribe. If you subsequently don’t want to receive these informational email communications, please refer to the Opt-Out section below, or follow the unsubscribe instructions at the end of every email. You may subscribe to certain email lists without subscribing to all of them, but you will be required to submit your email address in order to conduct an online tee time transaction.
 
   4. **_Third Party Use of the Information_**
 
@@ -102,11 +111,11 @@ In arranging to have marketing and promotional information of certain companies 
 
     1. **Agents**
 
-We employ other companies and individuals to perform functions on our behalf. Examples include email promotions, data entry, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions. We use operational service providers to perform certain services on our behalf, such as maintaining the Sites and our mailing lists, storing, processing and transmitting data, creating and executing email campaigns, and providing marketing assistance, web analytics and data analysis. We may provide your PII to these operational service providers when the information is necessary for them to perform their duties. We require that our operational service providers protect your privacy and not disclose your PII to third party marketers that are not associated with Golf Channel. Additionally, we request such providers not to use your PII for their own marketing or promotional purposes.
+We employ other companies and individuals to perform functions on our behalf. Examples include email promotions, data entry, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to PII needed to perform their functions. We use operational service providers to perform certain services on our behalf, such as maintaining the Sites and our mailing lists, storing, processing and transmitting data, creating and executing email campaigns, and providing marketing assistance, web analytics and data analysis. We may provide your PII to these operational service providers when the information is necessary for them to perform their duties. We require that our operational service providers protect your privacy and not use your PII in any way that is inconsistent with this Policy including not disclosing ti to third party marketers that are not associated with Golf Channel. Additionally, we request such providers not to use your PII for their own marketing or promotional purposes.
 
     2. **Rewards Program**
 
-As part of the GolfNow Rewards program we may release information to rewards partners for the purpose fulfilling an earned reward. The information that may be released includes your name and mailing address only and it will be subject to the terms and conditions of the reward partner’s privacy policy.
+As part of the GolfNow Frequent Golfer program we may release information to rewards partners for the purpose of fulfilling an earned reward. We may also track the number of rounds and golf courses you have played as part of this program, some of which information will be used to reward our most frequent golfers in a variety of ways. The information that may be released includes your name and mailing address only and it will be subject to the terms and conditions of the reward partner’s privacy policy.
 
     3. **Promotions. Sweepstakes, Contests**
 
@@ -114,7 +123,7 @@ Sometimes we send offers to selected groups of customers on behalf of other busi
 
     4. **Fulfillment Partners**
 
-In the event that you utilize the Sites to process a transaction (e.g., booking a tee time), we must share certain of your PII with the partner that will fulfill that transaction. In particular, we will share PII with the golf courses (and other fulfillment partners) in order to confirm your reservation. You will be able to tell when a third party fulfillment partner is involved in your transactions. We transmit the entire credit card number to the appropriate credit card company doing the processing of an order. Additionally, we may provide a golf course or other fulfillment partner your entire credit card number in order to allow such partner to enforce its cancellation or “no-show” policy. We encourage you to review the information privacy practices any fulfillment partners (e.g., golf courses), you may conduct transactions with through the Sites. You may also receive communications directly from these fulfillment partners. Additionally, in the event you purchase a tee time through the GolfNow technology residing on an affiliate website, GolfNow may be contractually obligated to provide the affiliate with certain of your PII (e.g., email address).
+In the event that you utilize the Sites to process a transaction (e.g., booking a tee time), we must share certain of your PII with the partner that will fulfill that transaction. In particular, we will share PII with the golf courses (and other fulfillment partners) in order to confirm your reservation. You will be able to tell when a third party fulfillment partner is involved in your transactions. We transmit the entire credit card number to the appropriate credit card company doing the processing of an order following industry standards governing information protection. Additionally, we may provide a golf course or other fulfillment partner your entire credit card number in order to allow such partner to enforce its cancellation or “no-show” policy. We encourage you to review the information privacy practices any fulfillment partners (e.g., golf courses), you may conduct transactions with through the Sites. You may also receive communications directly from these fulfillment partners. Additionally, in the event you purchase a tee time through the GolfNow technology residing on an affiliate website, GolfNow may be contractually obligated to provide the affiliate with certain of your PII (e.g., email address).
 
     5. **Protection of ourselves and others**
 
@@ -122,7 +131,7 @@ We release account and other personal information when we believe release is app
 
     6. **Third Party Advertising**
 
-The ads appearing on the Sites are delivered to you by 24/7 Real Media, our advertising partner. Anonymous information about you may be used to serve ads to you on the sites. We do not provide PII to 24/7 or to the third party advertisers whose ads appear on our Sites. Some such advertisers automatically receive your IP address by serving such ads. We do not have access to or control over such cookies used by third parties and they are not covered by this Privacy Policy. We do not allow our advertisers to use Flash-based cookies on our Sites. For more information on advertisers that provide an opt-out mechanism for such technology please click this link: <http://www.networkadvertising.org/managing/opt_out.asp>.
+The ads appearing on the Sites are delivered to you by our advertising partner(s). Anonymous information about you may be used to serve ads to you on the sites. We do not provide PII to the third party advertisers whose ads appear on our Sites. Some such advertisers automatically receive your IP address by serving such ads. We do not have access to or control over such cookies used by third parties and they are not covered by this Privacy Policy. We do not allow our advertisers to use Flash-based cookies on our Sites. For more information on advertisers that provide an opt-out mechanism for such technology please click this link: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
   5. **_Maintaining Your Profile/Opting Out/Data Retention_**
     1. **Accessing and Updating Information**
@@ -131,23 +140,19 @@ To access or update the PII that Golf Channel may hold for you, you may access t
 
     2. **Opt-Out Policy**
 
-As part of the GolfNow Rewards program we may release information to rewards partners for the purpose fulfilling an earned reward. The information that may be released includes your name and mailing address only and it will be subject to the terms and conditions of the reward partner’s privacy policy.
+You may opt-out of receiving email communications from us by emailing us at: [webmaster@golfchannel.com](mailto:webmaster@golfchannel.com) or writing to us at: Golf Channel, 7580 Golf Channel Drive Orlando, FL 32819, Attn: Webmaster.
 
-    3. **Promotions. Sweepstakes, Contests**
-
-You may opt-out of receiving email communications from us by emailing us at: [webmaster@golfchannel.com](mailto:webmaster@golfchannel.com) or writing to us at: Golf Channel, 9102 South Park Center Loop, Orlando, FL 32819, Attn: Webmaster.
-
-In addition, when we contact you via email, we may include instructions to unsubscribe from future emails if you so choose.
+In addition, when we contact you via email, we include instructions as to how to unsubscribe from future emails if you so choose.
 
 Please allow sufficient time for us to process your opt-out request.
 
-    4. **Data Retention**
+    3. **Data Retention**
 
 Golf Channel regularly reviews the data in its possession and discards old or out of date data. User accounts that have been inactive for more than five years are automatically deleted.
 
   6. **_Mobile Services_**
 
-Certain of the Sites contain functionality that is accessible through mobile devices and/or through downloadable mobile applications, which include but are not limited to the ability to search for and purchase a tee time through your mobile phone, smartphone or other mobile device. We do not charge for these mobile services but your carrier’s normal messaging, data, and other rates and fees will still apply. Additionally, downloading, installing, or using certain mobile services may be prohibited or restricted by your carrier or may not work with certain carriers or devices. Where applicable, this Privacy Policy applies to all such uses of any mobile-accessible internet or WAP site, as well as any uses of any mobile application associated with the Sites. Any PII you enter into an application associated with the Sites shall be stored on Golf Channel servers and not in the device or the application itself. Your credit card information will not be stored in the application. By utilizing our mobile services, you consent to be notified by Golf Channel and other entities by SMS, MMS, text message or other electronic means to your mobile device and that certain information pertaining to your use of the mobile services may be communicated to Golf Channel.
+Certain of the Sites contain functionality that is accessible through mobile devices and/or through downloadable mobile applications, which include but are not limited to the ability to search for and purchase a tee time through your mobile phone, smartphone or other mobile device. We do not charge for these mobile services but your carrier’s normal messaging, data, and other rates and fees will still apply. Additionally, downloading, installing, or using certain mobile services may be prohibited or restricted by your carrier or may not work with certain carriers or devices. Where applicable, this Privacy Policy applies to all such uses of any mobile-accessible internet or WAP site, as well as any uses of any mobile application associated with the Sites. Any PII you enter into an application associated with the Sites shall be stored on Golf Channel servers and not in the device or the application itself. Your credit card information will not be stored in the application. By utilizing our mobile services, you consent to receive marketing messages from Golf Channel and other entities by SMS, MMS, text message or other electronic means to your mobile device and that certain information pertaining to your use of the mobile services may be communicated to Golf Channel.
 
   7. **_Cookies and IP Address Information_**
 
@@ -159,7 +164,11 @@ No PII is gathered or stored in the cookies used by the Sites and, as a result, 
 
 Third-party vendors, including Google, show ads for our Sites on search engine results pages and other websites across the Internet. These third-party vendors, including Google, use cookies to serve ads based on a user’s prior visit to our Sites.  Our sites use analytics data to also inform and optimize such ad campaigns based on a user’s prior visits to our Sites.  Users may opt out of Google’s use of cookies by visiting the[ Google advertising opt-out page](http://www.google.com/privacy/ads/).  In addition, users may also opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).  Users may opt out of our use of Google Analytics by visiting the [Google Analytics Opt-out page](http://tools.google.com/dlpage/gaoptout).  We may report users’ aggregate interactions with our ads across the Google Display Network in conjunction with activity on the Sites.
 
-  8. **_Children’s Privacy._**
+  8. **_California Privacy Rights_**
+
+Beginning January 1, 2005, California Law permits visitors whom are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to webmaster@golfchannel.com or write to us at: Golf Channel, 7580 Golf Channel Drive, Orlando, FL 32819, Attn: Webmaster.
+
+  9. **_Children’s Privacy._**
 
 Simply stated, Golf Channel does not knowingly collect PII from children under the age of 13. Golf Channel encourages parents and guardians to go online with their children and suggests the following to help make a child’s online experience safer:
 
@@ -169,13 +178,9 @@ Simply stated, Golf Channel does not knowingly collect PII from children under t
 
 We are committed to protecting children’s privacy. For more information, please visit the Federal Trade Commission’s website regarding protecting children’s privacy online: <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm>.
 
-  9. **_California Privacy Rights_**
-
-Beginning January 1, 2005, California Law permits visitors whom are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to webmaster@golfchannel.com or write to us at: Golf Channel, 9102 South Park Center Loop, Orlando, FL 32819, Attn: Webmaster.
-
   10. **_International Users_**
 
-Like almost every website, the Sites are accessible around the world. By visiting the Sites and providing your PII, you acknowledge and agree that your PII can be collected, processed and stored for the purposes identified in this Privacy Policy. We collect, process and store your PII in the United States of America. You acknowledge that your PII may be stored on servers located outside your residential jurisdiction in jurisdictions which may have less stringent privacy practices than your own. If you access the Sites from outside the United States, your usage constitutes consent to the transfer of your data outside of your country and to the United States of America.
+Like almost every website, the Sites are accessible around the world. By visiting the Sites and providing your PII, you acknowledge and agree that your PII can be collected, processed and stored for the purposes identified in this Privacy Policy. We collect, process and store your PII in the United States of America. You acknowledge that your PII may be stored on servers located outside your residential jurisdiction in jurisdictions which may have less stringent privacy practices than your own. However, we take steps to ensure your information is adequately protected regardless of where such servers are located. If you access the Sites from outside the United States, your usage constitutes consent to the transfer of your data outside of your country and to the United States of America.
 
   11. **_Legal Disclaimers_**
     1. **Privacy Policy Coverage and Links to Other Websites**
@@ -190,7 +195,9 @@ The Sites are published in the United States and are intended for users from the
 
 We reserve the right to modify, alter, or otherwise update this Privacy Policy at any time, so we encourage you to review our Privacy Policy not just the first time you visit the Sites, but periodically afterwards as well. The date of the last update of the Privacy Policy will always be posted below:
 
-**THIS PRIVACY POLICY WAS LAST REVISED ON FEBRUARY 14, 2011.**
+**THIS PRIVACY POLICY WAS LAST REVISED ON AUGUST 27, 2012.**
+
+If we make material revisions to the way we collect or use your PII such that we are using it for purposes or sharing such data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by either: (1) announcing the change on the home page of this site, or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this privacy policy on the Sites. Any changes to this privacy policy will become effective upon posting of the revised privacy policy on the internet, accessible through this site. By continuing to use the Sites following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this privacy policy, as it may be amended from time to time, in whole or in part, please do not continue using the Sites.
 
     4. **Asset Transfers**
 
@@ -205,7 +212,7 @@ Though we will make every effort to preserve user privacy, we may need to disclo
 Please feel free to share any comments and concerns with us. If you have any questions about this Privacy Policy or the privacy practices of the Sites, please contact us at:
 
 Golf Channel  
-7580 Commerce Center Drive  
+7580 Golf Channel Drive  
 Orlando, FL 32819  
 Attn: Webmaster  
 Attn: Legal Department
@@ -215,4 +222,4 @@ Or by email at: [webmaster@golfchannel.com](mailto:webmaster@golfchannel.com)
 
 
 
-©2011 Golf Channel. All rights reserved.
+©2012 Golf Channel. All rights reserved.
