@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youtern.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217043732id_/http%3A//www.youtern.com/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtern.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014150624id_/http%3A//www.youtern.com/cm/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Start-up Internships, and internship opportunities at entrepreneur-driven companies.
+# Privacy Policy: Find internships perfect for your career path with our internship search function. See YouTern’s blog for tips on making your internship a success.
 
 **Collection and Use of Personal Information**
 
