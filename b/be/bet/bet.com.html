@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the bet.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615013034id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bet.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014122232id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="keywords" content="">
     <meta name="title" content="Privacy Policy">
+    <meta name="overrideTitle" content="Privacy Policy">
     <meta name="description" content="">
     <meta name="robots" content="index,follow,noydir,noodp">
     <meta name="google-site-verification" content="kbRSzEgXdDDzZ6Clwv9bGHe_wBIxQdC1bS_suBV9W2I"> 
@@ -16,7 +17,6 @@
     
     <meta property="og:type" content="article">  
     <meta property="fb:app_id" content="103404493075199">
-    
     <meta content="/content/dam/betcom/defaults/icon_default_asset.jpg" name="image">
     <meta property="og:site_name" content="BET.com">
     <meta property="og:url" content="http://www.bet.com/privacy-policy.html?cid=facebook">
@@ -49,7 +49,7 @@
     
     <script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/jslibs/bet.js"></script>
 
-	<script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/js/util.js"></script>
+    <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/js/util.js"></script>
     <!-- KickApps includes -->
     <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/kickapps/jquery.tools.min.js"></script>
     <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/kickapps/jquery.colorbox-min.js"></script>
@@ -58,9 +58,6 @@
     <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/jslibs/kickapps/prod.js"></script>
 
     
-
-
-
 
 
 
@@ -121,11 +118,15 @@
  <link rel="publisher" href="https://plus.google.com/108884352704624324138"> 
  
      
+ <!-- To enable Advisory Overlay -->
+ <!-- <script src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=BET"></script>  -->
+
+ <!--Page Name assigned to betembedn in KickApps Video player params-->
+ <script type="text/javascript">
+      var embedPage = "privacy-policy";
+ </script>
  
-</head> 
-
-
-
+</head>
 
 
 
@@ -176,7 +177,6 @@
 
 
 
-
 <!-- Start SiteCatalyst code version: H.22.1. -->
 
  <!-- omniture.jsp -->
@@ -195,7 +195,7 @@ More info available at http://www.omniture.com -->
 s.pageName= 'privacy-policy'
 
 //Server name
-s.server = 'betpub6.web.bet.com'
+s.server = 'bet-cqpublish-002.811.mtvi.com'
 
 //Site sections and Sub sections
 s.channel='privacy-policy'
@@ -210,15 +210,10 @@ s.prop4='plaintextpage';
 
 //Show
 if(0){
-    s.prop5 = 'Privacy Policy'
+    s.prop5 = 'Privacy Policy';
+} else {
+    s.prop5 = "";
 }
-else if(0){
-    s.prop5 = ''
-}
-else {
-    s.prop5 = ""
-}
-
 
 //Episode
 if(0){
@@ -263,9 +258,6 @@ setUserTracking();
 
 
     
-
-
-
 
 
 
@@ -409,7 +401,37 @@ return tr;
     </div>
     <!-- END Login Popup -->
 
-
+    <!-- START The Number Popup -->
+    <div id="bq_theNumber" style="display:none">
+    <div class="bq_modalFormWide">
+        <div class="bq_modalTop">
+            <p class="bq_rightLinks">
+                <a href="javascript:void(0);" onclick="$('#bq_theNumber').hide(); $('#bq_darken').hide();">
+                    <img border="0" width="16" height="16" src="http://www1.betstatic.com/etc/designs/betcom/img/icon_close.png" alt="">
+                </a>
+            </p>
+            <h4><img src="http://www1.betstatic.com/etc/designs/betcom/img/logo_bet_s.png" alt="" width="44" height="14" border="0"></h4>
+        </div>
+        <div class="bq_modalBot">
+            <div class="bq_bq_modalBotContent">
+                <form id="formCaptcha">
+                <div id="loadCaptchaComponent"></div>
+                <div class="bq_cl"></div>
+                <div class="bq_botLinks">
+                    <span class="bq_btnBlueModal">
+                        <input type="submit" id="submitCaptchaButton" class="bq_btnBlueModalL" style="border:0;background:url(/etc/designs/betcom/img/btn_bg_blue_submit.png) center center no-repeat;width:78px;cursor:pointer;" value="Submit">
+                    </span>
+                </div>
+                <div class="bq_cl"></div>
+                </form>
+            </div>
+            <div class="bq_botLinksWithBorder">
+                <div class="bq_cl"></div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!-- END The Number Popup -->
 
 <!-- START forgot popup -->
 <div id="bq_resetPasswordDiv" class="positionModal" style="display: none;">
@@ -430,7 +452,6 @@ return tr;
   </div>
 </div>
 <!-- END forgot popup -->
-
 
 <div id="bq_container">
     <div id="bq_wrapper">
@@ -458,17 +479,15 @@ return tr;
 
 
 
-
-
-
    
+
 
         
         <script type="text/javascript">
 var ordValue='ord='+timestampDart+';?';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1339722574393;"+ordValue+"'>\x3C/script>";
+var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1350187635621;"+ordValue+"'>\x3C/script>";
 document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1339722574393;ord=1580437285946;?"></script>
+</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1350187635621;ord=1580437286101;?"></script>
         
         
         </div>
@@ -480,7 +499,7 @@ document.write(out);
 <!-- START sub nav -->
 <div class="bq_rightsubnav">
     <ul id="topmenu_list">
-        
+        <li class="bq_hilite"><a href="http://www.bet.com/register.html">Newsletters</a></li>
         
     </ul>
 </div>
@@ -499,13 +518,9 @@ document.write(out);
 
 
 
-
-
-
 <div class="bq_leftsubnav"><ul>
 <li class="bq_dropDown"><a href="http://www.bet.com/video.html">Video</a><ul class="bq_leftsubnavDropdown bq_threeCol">
 <div><div>
-<li class="bq_first"><a href="http://www.bet.com/shows/top-20-bet-videos.html">Top 20 Videos</a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/106-and-park/106-and-park-all-videos.html">106 &amp; Park</a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/the-game/the-game-all-videos.html">The Game</a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/lets-stay-together/lets-stay-together-browse-all-videos.html">Let's Stay Together</a></li>
@@ -522,10 +537,9 @@ document.write(out);
 <li><a href="http://www.bet.com/shows/106-and-park.html">106 &amp; Park</a></li>
 <li><a href="http://www.bet.com/music/music-videos.html">Music Videos</a></li>
 <li><a href="http://www.bet.com/news/features/vote-2012.html">Vote 2012</a></li>
-<li><a href="http://www.bet.com/shows/bet-awards/2012.html">BET Awards</a></li>
+<li><a href="http://www.bet.com/shows/black-girls-rock/2012.html">Black Girls Rock!</a></li>
 </ul>
 </div>
-
 </div>
 
 <!-- END sub nav -->
@@ -550,25 +564,23 @@ document.write(out);
 
 
 
-
-
-
 <div class="bq_mainnav"><ul>
 <li class="bq_showNav"><a href="http://www.bet.com/shows.html">Shows</a><ul class="bq_mainnavList bq_twoCol">
 <li class="bq_first"><ul>
 <li class="bq_title bq_first"></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/106-and-park.html">106 &amp; Park</a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/bet-awards/2012.html">BET Awards</a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/bet-star-cinema.html">BET Star Cinema</a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/celebration-of-gospel/2012.html">Celebration of Gospel</a></li>
-<li class="bq_last"><a href="http://www.bet.com/blogs/don-t-sleep-blog.html">Don't Sleep Blog</a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/black-girls-rock/2012.html">Black Girls Rock!</a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/dont-sleep.html">Don't Sleep!</a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/the-game.html">The Game</a></li>
+<li class="bq_last"><a href="http://www.bet.com/shows/hip-hop-awards/2012.html">Hip Hop Awards</a></li>
 </ul>
 </li>
 <li class="bq_last"><ul>
-<li class="bq_first"></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/the-game.html">The Game</a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/keyshia-and-daniel.html">Keyshia &amp; Daniel: Family First</a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/lets-stay-together.html">Let's Stay Together</a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/new-shows.html">New Shows</a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html">Real Husbands of Hollywood</a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/sunday-best.html">Sunday Best</a></li>
 <li class="bq_last"><a href="http://www.bet.com/shows.html">See All Shows</a></li>
 </ul>
@@ -638,7 +650,8 @@ document.write(out);
 <li class="bq_first"><a href="http://www.bet.com/news/politics.html">Politics</a></li>
 <li class="bq_first"><a href="http://www.bet.com/news/sports.html">Sports</a></li>
 <li class="bq_first"><a href="http://www.bet.com/news/global.html">Global</a></li>
-<li class="bq_last"><a href="http://www.bet.com/news/health.html">Health</a></li>
+<li class="bq_first"><a href="http://www.bet.com/news/health.html">Health</a></li>
+<li class="bq_last"><a href="http://www.bet.com/topics/b/bet-com-s-financial-help-desk.html">Financial Help Desk</a></li>
 </ul>
 </li>
 <li class="bq_last"><ul>
@@ -655,7 +668,6 @@ document.write(out);
 </li>
 </ul>
 </div>
-
 </div>
 
 <div id="bq_siteSearch">
@@ -678,24 +690,6 @@ document.write(out);
 
 
 
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-<!-- Result Query 121 mls -->
 <form action="http://search.bet.com/searchresults.html">
     <a class="bq_hlinkSearch" href="#">
         <img src="http://www1.betstatic.com/etc/designs/betcom/img/icon_search_a7a7a7.png" width="20" height="20" alt="">
@@ -706,8 +700,8 @@ document.write(out);
 <script type="text/javascript">
     $(document).ready(function () {
           $("#txtsearch").autoSuggestion({
-        	  minChars:2,
-        	  width : 296
+              minChars:2,
+              width : 296
         });
     });
 </script>
@@ -736,18 +730,12 @@ document.write(out);
 
 
 
-
-
-
 <div class="bg_submission">
 
     <div id="bq_leftDiv">
 
         <div id="bq_loginFaceBook2"></div>
         <div class="title">
-
-
-
 
 
 
@@ -1015,17 +1003,15 @@ We caution that most wireless transmissions are not secured and there is a great
 
 
 
-
-
-
    
+
 
         
         <script type="text/javascript">
 var ordValue='ord='+timestampDart+';?';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1339722574717;"+ordValue+"'>\x3C/script>";
+var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1350187635856;"+ordValue+"'>\x3C/script>";
 document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1339722574717;ord=1580437285946;?"></script>
+</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1350187635856;ord=1580437286101;?"></script>
         
         
         </div>
@@ -1065,26 +1051,21 @@ document.write(out);
 
 
 
-
-
-
    
+
 
         
         <script type="text/javascript">
 var ordValue='ord='+timestampDart+';?';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1339722574761;"+ordValue+"'>\x3C/script>";
+var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1350187635882;"+ordValue+"'>\x3C/script>";
 document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1339722574761;ord=1580437285946;?"></script>
+</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1350187635882;ord=1580437286101;?"></script>
         
         
         </div>
 
             </div>
             <div class="footer parbase">
-
-
-
 
 
 
@@ -1123,9 +1104,6 @@ document.write(out);
 
 
 
-
-
-
 <div id="bq_footerV02Nav01" class="bq_footer/top"><ul>
 <li id="footerNav01Link01"><a href="http://www.bet.com/home.html">BET.com</a></li>
 <li><a href="http://www.bet.com/shows.html">Shows</a></li>
@@ -1135,7 +1113,6 @@ document.write(out);
 <li><a href="http://www.bet.com/blogs.html">Blogs</a></li>
 </ul>
 </div>
-
 </div>
 
 
@@ -1180,25 +1157,22 @@ document.write(out);
 
 
 
-
-
-
 <div class="bq_footerV02LinksCol"><h5>BET Shows</h5><ul>
 <li><a href="http://www.bet.com/shows/106-and-park.html">106 &amp; Park</a></li>
+<li><a href="http://www.bet.com/shows/black-girls-rock/2012.html">Black Girls Rock!</a></li>
+<li><a href="http://www.bet.com/shows/hip-hop-awards/2012.html">Hip Hop Awards</a></li>
+<li><a href="http://www.bet.com/shows/keyshia-and-daniel.html">Keyshia &amp; Daniel: Family First</a></li>
+<li><a href="http://www.bet.com/shows/dont-sleep.html">Don't Sleep!</a></li>
 <li><a href="http://www.bet.com/shows/bobby-jones-gospel.html">Bobby Jones Gospel</a></li>
+<li><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html">Real Husbands of Hollywood</a></li>
 <li><a href="http://www.bet.com/shows/the-game.html">The Game</a></li>
-<li><a href="http://www.bet.com/shows/lets-stay-together.html">Let's Stay Together</a></li>
-<li><a href="http://www.bet.com/shows/lift-every-voice.html">Lift Every Voice</a></li>
+<li><a href="http://www.bet.com/shows/bet-star-cinema.html">BET Star Cinema</a></li>
 </ul>
 </div>
-
 </div>
 
 
             <div class="navmenu column-2">
-
-
-
 
 
 
@@ -1221,14 +1195,10 @@ document.write(out);
 <li><a href="http://www.bet.com/topics/w/whitney-houston.html">Whitney Houston</a></li>
 </ul>
 </div>
-
 </div>
 
 
             <div class="navmenu column-3">
-
-
-
 
 
 
@@ -1252,7 +1222,6 @@ document.write(out);
 <li><a href="http://www.bet.com/services/rss.html">RSS</a></li>
 </ul>
 </div>
-
 </div>
 
 
@@ -1277,22 +1246,15 @@ document.write(out);
 
 
 
-
-
-
 <div id="bq_footerv02Col04" class="bq_footerV02LinksCol"><ul>
 <li><a href="http://betcareers.viacom.com/">BET Careers</a></li>
-<li><a href="http://www.betfoundation.org/">BET Foundation</a></li>
 <li><a href="http://betadnetwork.com/">Vertical Ad Network</a></li>
+<li><a href="http://media.viacom.com/accessibility/" target="_blank" rel="nofollow">Closed Captioning</a></li>
 </ul>
 </div>
-
 </div>
 
                 <div class="navmenu column-5">
-
-
-
 
 
 
@@ -1314,7 +1276,6 @@ document.write(out);
 <li><a href="http://www1.bet.com/site/site_contactus">Contact Us</a></li>
 </ul>
 </div>
-
 </div>
 
                 <div class="bq_cl"></div>
@@ -1335,15 +1296,11 @@ document.write(out);
 
 
 
-
-
-
 <div id="bq_footerv02Col06" class="bq_footerV02LinksCol"><h5>Affiliates</h5><ul>
 <li><a href="http://www.centrictv.com/" target="_blank" rel="nofollow">Centric TV</a></li>
 <li><a href="http://m.bet.com/">BET Mobile</a></li>
 </ul>
 </div>
-
 </div>
 
 
@@ -1414,7 +1371,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
     
 	
 	<!--  BuzzFeed code begins -->
-	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=bet.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580437286073"></script></div>
+	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=bet.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580437286170"></script></div>
 	<script type="text/javascript">
 	(function( ){
 	BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
