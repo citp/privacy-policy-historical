@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetseer.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601022114id_/http%3A//internetseer.com/help/privacy.xtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetseer.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014184529id_/http%3A//internetseer.com/help/privacy.xtp) for the most accurate reproduction.*
 
 # Internetseer - Website Monitoring and Web Server Monitoring Service
 
