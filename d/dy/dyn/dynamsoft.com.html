@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the dynamsoft.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510025930id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dynamsoft.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014183607id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="index, follow">
 <meta name="distribution" content="global">
 <meta name="rating" content="General">
@@ -15,8 +15,8 @@
 <meta name="distribution" content="global">
 <meta name="classification" content="">
 <link rel="shortcut icon" href="images/favicon.ico">    
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="../JS/jquery.js"></script>
-<script language="javascript" src="../JS/jquery_menu_nav.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="JS/jquery.js"></script>
+<script language="javascript" src="JS/jquery_menu_nav.js"></script>
 		
 <link href="css/global.css" rel="stylesheet" type="text/css">	
 			
@@ -54,7 +54,7 @@ font-size:100%; /* to enable text resizing in IE */
         <div id="header_left">
              <div style="width:400px"><a href="index.aspx"><img border="0" src="images/logo.gif" id="logo" align="left" alt="The leading developer of version control or source control along with source code control and bug tracking software and the ultimate Visual SourceSafe replacement or VSS replacement"></a></div>
             <div id="tagline">
-    <nobr>The leading provider of version control solution and TWAIN SDK</nobr>
+    <nobr>The leading provider of version control solutions and TWAIN SDKs</nobr>
 </div>
 
         </div>
@@ -67,8 +67,48 @@ font-size:100%; /* to enable text resizing in IE */
 <div style="width:110px; height:46px;">
 <div style="width:110px; background-repeat: no-repeat; background-position: 0px 0px; margin:0; width:110px; height:46px; padding:0px 0px 0px 0px">
     <!-- BEGIN Comm100 Live Chat Button Code -->    
-    <a href="http://www.comm100.com/livechat" target="_blank" onclick="comm100_10008.openChatWindow(event,9,-1);return false;"><img style="border:0px" id="comm100_ButtonImage" src="https://chatserver.comm100.com/BBS.aspx?siteId=10008&amp;planId=9&amp;partnerId=-1"></a>
-    <script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=10008&amp;planId=9&amp;partnerId=-1" type="text/javascript"></script>    
+    <a id="linkComm100" href="#"><img style="border:0px" id="comm100_ButtonImage" src="../images/blank.gif" alt="" data="https://chatserver.comm100.com/BBS.aspx?siteId=10008&amp;planId=9&amp;partnerId=-1"></a>
+    <script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=10008&amp;planId=9&amp;partnerId=-1"></script>
+    <script>
+        (function() {
+            var tryTimes = 0;
+            function click_comm100() {
+                try {
+                    if (typeof (comm100_10008) != "undefined") {
+						var objEvent = window.event || arguments[0];
+                        comm100_10008.openChatWindow(objEvent, 9, -1);
+                    }
+                }
+                catch (e)
+				{ }
+            }
+            function addClick(el, handleClick) {
+                if (el.addEventListener) {
+                    el.addEventListener('click', handleClick, false);
+                } else if (el.attachEvent) {
+                    el.attachEvent('onclick', handleClick);
+                } else {
+                    el.onclick = handleClick;
+                }
+            }
+            function init(oLink, oImg) {
+                addClick(oLink, click_comm100);
+                oLink.target = "_blank";
+                oImg.src = oImg.getAttribute('data');
+            }
+            function check() {
+                tryTimes++;
+                var oLink = document.getElementById('linkComm100');
+                var oImg = document.getElementById('comm100_ButtonImage');
+                if (oLink && oImg && typeof (comm100_10008) != "undefined") {
+                    init(oLink, oImg);
+                } else if(tryTimes<5) {
+                    setTimeout(check, 100);
+                }
+            }
+            setTimeout(check, 100);
+        })();
+    </script>
     <!-- End Comm100 Live Chat Button Code -->
 </div>
 
@@ -90,239 +130,277 @@ font-size:100%; /* to enable text resizing in IE */
     <!-- Begin CSS Horizontal Main Menu -->
     <div id="menu">
     
-    <div class="menubar_split"></div>
-<ul>
-    <li> <span><a class="nohref">Products</a></span>
-        <ul class="long">
-            <li><span class="submenu_title"><a href="http://www.dynamsoft.com/Products/SourceAnywhere-SourceSafe-VSS.aspx">On-premise Version Control</a></span>
-                <ul class="expand">
-                    <li class="related" id="SAWS" data="SAWH"><a href="http://www.dynamsoft.com/Products/version-control-source-control-sourceanywhere.aspx">SourceAnywhere
-                            Standalone</a></li>
-                    <li class="related" id="SCMS" data="SCMH"><a href="http://www.dynamsoft.com/Products/Version-Control-Source-Control-SCM-Anywhere.aspx">SCM
-                            Anywhere Standalone</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/SAW_Overview.aspx">SourceAnywhere
-                            for VSS</a></li>
-                    
-                    <li class="related" id="ITAS" data="ITAH"><a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx">Issue
-                            Tracking Anywhere</a></li>
-                    <!--<li><span class="submenu_title"><a href="http://www.dynamsoft.com/Products/SourceAnywhere-SourceSafe-VSS.aspx" class="fntBlue">Version Control Comparison</a></span></li>-->
-                </ul>
-                <span class="submenu_title"><a href="http://www.dynamsoft.com/Products/SAW-VS-SCM.aspx">Hosting Source Control</a></span>
-                <ul class="expand">
-                    <li class="related" id="SAWH" data="SAWS"><a href="http://www.dynamsoft.com/Products/SourceAnywhere-Hosting-Version-Control-Source-Control.aspx">SourceAnywhere
-                            Hosted</a></li>
-                    <li class="related" id="SCMH" data="SCMS"><a href="http://www.dynamsoft.com/Products/Software-Configuration-Management-SCM-Hosting.aspx">SCM
-                            Anywhere Hosted</a></li>            
-                    <li><a href="http://www.dynamsoft.com/Products/TFS-Hosting.aspx">TFS
-                            Hosted</a></li>
-                    <li class="related" id="ITAH" data="ITAS"><a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx">Issue
-                            Tracking Anywhere Hosted</a></li>
-                    <!--<li><span class="submenu_title"><a href="https://www.dynamsoft.com/Secure/hosted_signin.aspx">Source Control Service Comparison</a></span></li>-->
-                </ul>
+    <ul>
+    <li class="D_menu_item">
+        <div class="menubar_split">
+        </div>
+        <a class="nohref">Products</a>
+        <ul class="D_submenu D_products_submenu ">
+            <li>
+                <div class="clear submenu_line">
+                    <a href="http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx"><strong>Dynamic Web TWAIN</strong></a>
+                    <div class="submenu_desc">
+                        Control scanners in a web app
+                    </div>
+                </div>
+                <div class="submenu_line">
+                    <a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner.aspx"><strong>Dynamic .NET TWAIN</strong></a>
+                    <div class="submenu_desc">
+                        Control webcams and scanners in a .NET desktop app
+                    </div>
+                </div>
+                <div class="submenu_line">
+                    <a href="http://www.dynamsoft.com/Products/webcam-sdk.aspx"><strong>Dynamic Webcam SDK</strong></a>
+                    <div class="submenu_desc">
+                        Control webcams in a web app
+                    </div>
+                </div>
+                <div id="submenu_addon">
+                    <a href="http://www.dynamsoft.com/Products/barcode-detection-decode.aspx">Barcode Reader</a>, <a href="http://www.dynamsoft.com/Products/Optical-Character-Recognition-OCR.aspx">OCR</a>, <a href="http://www.dynamsoft.com/Products/online-tiff-pdf-annotation.aspx">Annotation</a><br> add-ons available
+                </div>
+                <!--<div class="products_title">
+                    <a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner-Product-Comparison.aspx">Image Acquisition SDKs</a>
+                </div>--> 
+                <!--<div>
+                    <a href="http://www.dynamsoft.com/Products/online-tiff-pdf-annotation.aspx">Annotation SDK</a>
+                </div>
+                <div>
+                    <a href="http://www.dynamsoft.com/Products/barcode-detection-decode.aspx">Barcode(1D, 2D) Reader</a>
+                </div>
+                <div>
+                    <a href="http://www.dynamsoft.com/Products/Optical-Character-Recognition-OCR.aspx">OCR SDK</a>
+                </div>-->
+                <div class="submenu_comp">
+                    <a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner-Product-Comparison.aspx"><i>Image Acquisition SDK Comparison</i> »</a>
+                </div>
+                
             </li>
-            
-            <li> <span class="submenu_title"><a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner-Product-Comparison.aspx">TWAIN &amp; Imaging SDK</a></span>
-                <ul class="expand">
-                    <li><a href="http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx">Dynamic
-                            Web TWAIN</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner.aspx">Dynamic
-                            .NET TWAIN</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/webcam-sdk.aspx">Dynamic
-                            Webcam</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/online-tiff-pdf-annotation.aspx">Dynamic Annotation</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/barcode-detection-decode.aspx">Dynamic Barcode(1D, 2D)</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/Optical-Character-Recognition-OCR.aspx">Dynamic OCR</a></li>
-                    <!--<li><span class="submenu_title"><a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner-Product-Comparison.aspx" class="fntBlue">TWAIN SDK Comparison</a></span></li>-->
-                </ul>
+            <li id="menu_vertical_split"></li>
+            <li class="ml10">
+                <div class="submenu_line">
+                    <div class="submenu_inline">
+                        <a href="http://www.dynamsoft.com/Products/version-control-source-control-sourceanywhere.aspx"><strong>SourceAnywhere</strong> [On-prem </a>
+                    </div>
+                    <div class="submenu_inline_split">
+                        |
+                    </div>
+                    <div class="submenu_inline">
+                        <a href="http://www.dynamsoft.com/Products/SourceAnywhere-Hosting-Version-Control-Source-Control.aspx">Hosted]</a>
+                    </div>
+                    <div class="submenu_desc">
+                        version control system
+                    </div>
+                </div>
+                <div class="submenu_line">
+                    <a href="http://www.dynamsoft.com/Products/SAW_Overview.aspx"><strong>SourceAnywhere for VSS</strong></a>
+                    <div class="submenu_desc">
+                        add-on for remote access to VSS
+                    </div>
+                </div>
+                <div class="submenu_line">
+                    <a href="http://www.dynamsoft.com/Products/TFS-Hosting.aspx"><strong>TFS Hosted <img src="../images/vs-logo20.png" style=" line-height:25px; vertical-align:middle; margin-top:-5px;" border="0"></strong></a>
+                    <div class="submenu_desc">
+                        professional TFS hosting service
+                    </div>
+                </div>
+                <div class="submenu_line">
+                    <div class="submenu_inline">
+                        <a href="http://www.dynamsoft.com/Products/Version-Control-Source-Control-SCM-Anywhere.aspx"><strong>SCM Anywhere</strong> [On-prem </a>
+                    </div>
+                    <div class="submenu_inline_split">
+                        |
+                    </div>
+                    <div class="submenu_inline">
+                        <a href="http://www.dynamsoft.com/Products/Software-Configuration-Management-SCM-Hosting.aspx">Hosted]</a>
+                    </div>
+                    <div class="submenu_desc">
+                        source control + bug tracker + build
+                    </div>
+                </div>
+                <div class="submenu_comp" id="vc_Comp">
+                    <a href="http://www.dynamsoft.com/Products/SAW-VS-SCM.aspx"><i>Version Control Comparison</i> »</a>
+                </div>
+                
+                <!--<div class="products_title"><a href="http://www.dynamsoft.com/Products/SourceAnywhere-SourceSafe-VSS.aspx">On-premise Version Control</a></div>
+                <div class="related" id="SAWS" data="SAWH"><a href="http://www.dynamsoft.com/Products/version-control-source-control-sourceanywhere.aspx">SourceAnywhere</a></div>--> 
+                <!--<div id="ITAS" data="ITAH"><a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx">Issue Tracking Anywhere</a></div>
+                <div class="products_title"><a href="http://www.dynamsoft.com/Products/SAW-VS-SCM.aspx">Hosting Source Control</a></div>--> 
+                <!--<div class="related" id="ITAH" data="ITAS"><a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx">Issue Tracking Anywhere Hosted</a></div>
+                <div><a class="products_title" href="https://www.dynamsoft.com/Secure/hosted_signin.aspx">Source Control Service Comparison</a></div>--> 
             </li>
-            <li class="last">&nbsp;</li>     
-        </ul>
-    </li>
-</ul>
-<div class="menubar_split"></div>
-<ul>
-    <li> <span><a class="nohref">Downloads</a></span>
-        <ul class="semilong">            
-            <li><a class="nohref"><strong>Hosting SCM</strong></a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/SAWHosted_Download.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SourceAnywhere
-                    Hosted</a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/SCMHosted_Download.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCM
-                    Anywhere Hosted</a></li>
-            <li><a class="nohref"><b>On-premise SCM</b></a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/SAWStandalone_Download.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SourceAnywhere
-                    Standalone</a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/SCMStandalone_Download.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCM
-                    Anywhere Standalone</a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/SAW_TryIt.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SourceAnywhere
-                    for VSS</a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/ITA_Download.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issue
-                    Tracking Anywhere</a></li>            
-            <li><a class="nohref"><strong>TWAIN SDK &amp; Add-on</strong></a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dynamic
-                    Web TWAIN</a></li>
-            <li><a href="http://www.dynamsoft.com/Downloads/.Net-TWAIN-Scanner-Download.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dynamic
-                    .NET TWAIN</a></li>
             <li class="last">&nbsp;</li>
         </ul>
     </li>
-</ul>
-<div class="menubar_split"></div>
-<ul>
-    <li> <span><a class="nohref">Purchase</a></span>
-        <ul class="semilong">            
-            <li><a class="nohref"><strong>Hosting SCM</strong></a></li>
-            <li><a href="http://www.dynamsoft.com/Products/SAWHosted_Plan.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SourceAnywhere
-                    Hosted</a></li>
-            <li><a href="http://www.dynamsoft.com/Products/SCMHosted_Plan.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCM
-                    Anywhere Hosted</a></li>
-            <li><a href="http://www.dynamsoft.com/Products/TFS-Hosting-Plans-Price.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TFS
-                    Hosted</a></li>
-            <li><a href="http://www.dynamsoft.com/Products/ITAHosted_Plan.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issue
-                    Tracking Anywhere</a></li>
-            <li><a class="nohref"><b>On-premise SCM</b></a></li>
-            <li><a href="https://www.dynamsoft.com/Secure/SAWStandalone_Purchase.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SourceAnywhere
-                    Standalone</a></li>
-            <li><a href="https://www.dynamsoft.com/Secure/SCMAnywhereStandalone_Purchase.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCM
-                    Anywhere Standalone</a></li>
-            <li><a href="https://www.dynamsoft.com/Secure/SAW_BuyIt.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SourceAnywhere
-                    for VSS</a></li>
-            <li><a href="https://www.dynamsoft.com/Secure/ITA_Purchase.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issue
-                    Tracking Anywhere</a></li>
-            <li><a class="nohref"><strong>TWAIN SDK &amp; Add-on</strong></a></li>
-            <li><a href="https://www.dynamsoft.com/Secure/WebTWAIN_BuyIt.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dynamic
-                    Web TWAIN</a></li>
-            <li><a href="https://www.dynamsoft.com/Secure/.Net-TWAIN-Scanner-BuyIt.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dynamic
-                    .NET TWAIN</a></li>
+    <li class="D_menu_item">
+        <div class="menubar_split">
+        </div>
+        <a class="nohref">Downloads</a>
+        <ul class="D_submenu W240 PL20">
+            <li class="submenu_title"><a class="nohref"><b>TWAIN SDK &amp; Add-on</b></a></li>
+            <li><a href="http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx">Dynamic Web TWAIN</a></li>
+            <li><a href="http://www.dynamsoft.com/Downloads/.Net-TWAIN-Scanner-Download.aspx">Dynamic .NET TWAIN</a></li> 
+            <li><a href="https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=Webcam&amp;from=FromDownload">Dynamic Webcam SDK</a></li>            
+            <li class="submenu_title"><a class="nohref"><b>On-premise SCM</b></a></li>
+            <li><a href="http://www.dynamsoft.com/Downloads/SAWStandalone_Download.aspx">SourceAnywhere</a></li>
+            <li><a href="http://www.dynamsoft.com/Downloads/SCMStandalone_Download.aspx">SCM Anywhere</a></li>
+            <li><a href="http://www.dynamsoft.com/Downloads/SAW_TryIt.aspx">SourceAnywhere for VSS</a></li>
+            <!-- <li><a href="http://www.dynamsoft.com/Downloads/ITA_Download.aspx">Issue Tracking Anywhere</a></li>-->
+            <li class="submenu_title"><a class="nohref"><b>Hosting SCM</b></a></li>
+            <li class="PL8"><a href="http://www.dynamsoft.com/Downloads/SAWHosted_Download.aspx">SourceAnywhere Hosted</a></li>
+            <li><a href="http://www.dynamsoft.com/Downloads/SCMHosted_Download.aspx">SCM Anywhere Hosted</a></li>
             <li class="last">&nbsp;</li>
         </ul>
     </li>
-</ul>
-<div class="menubar_split"></div>
-<ul>
-    <li> <span><a class="nohref">Support</a></span>
-        <ul class="short">
-            <li><a href="http://kb.dynamsoft.com/">Knowledge
-                    Base »</a>
+    <li class="D_menu_item">
+        <div class="menubar_split">
+        </div>
+        <a class="nohref">Purchase</a>
+        <ul class="D_submenu W240 PL20">
+            <li class="submenu_title"><a class="nohref"><b>TWAIN SDK &amp; Add-on</b></a></li>
+            <li><a href="https://www.dynamsoft.com/Secure/WebTWAIN_BuyIt.aspx">Dynamic Web TWAIN</a></li>
+            <li><a href="https://www.dynamsoft.com/Secure/.Net-TWAIN-Scanner-BuyIt.aspx">Dynamic .NET TWAIN</a></li>
+            <li><a href="https://www.dynamsoft.com/Secure/Webcam_BuyIt.aspx">Dynamic Webcam SDK</a></li>
+            <!--<li><a href="https://www.dynamsoft.com/Secure/Webcam-BuyIt.aspx">Dynamic Webcam SDK</a></li>-->
+         
+            <li class="submenu_title"><a class="nohref"><b>On-premise SCM</b></a></li>
+            <li><a href="https://www.dynamsoft.com/Secure/SAWStandalone_Purchase.aspx">SourceAnywhere</a></li>
+            <li><a href="https://www.dynamsoft.com/Secure/SCMAnywhereStandalone_Purchase.aspx">SCM Anywhere</a></li>
+            <li><a href="https://www.dynamsoft.com/Secure/SAW_BuyIt.aspx">SourceAnywhere for VSS</a></li>
+            <!--<li><a href="https://www.dynamsoft.com/Secure/ITA_Purchase.aspx">Issue Tracking Anywhere</a></li>-->
+            <li class="submenu_title"><a class="nohref"><b>Hosting SCM</b></a></li>
+            <li><a href="http://www.dynamsoft.com/Products/SAWHosted_Plan.aspx">SourceAnywhere Hosted</a></li>
+            <li><a href="http://www.dynamsoft.com/Products/SCMHosted_Plan.aspx">SCM Anywhere Hosted</a></li>
+            <li><a href="http://www.dynamsoft.com/Products/TFS-Hosting-Plans-Price.aspx">TFS Hosted</a></li>
+            <!--<li><a href="http://www.dynamsoft.com/Products/ITAHosted_Plan.aspx">Issue Tracking Anywhere</a></li>-->
+            <li class="submenu_title"><a href="http://www.dynamsoft.com/Support/How-to-purchase-Dynamsoft-products.aspx"><b>How to Purchase</b></a></li>
+            <li class="last">&nbsp;</li>
+        </ul>
+    </li>
+    <li class="D_menu_item">
+        <div class="menubar_split">
+        </div>
+        <a class="nohref">Support</a>
+        <ul class="D_submenu W180 PL8">
+            <li class="D_submenu_item"> <a href="http://kb.dynamsoft.com/">Knowledge Base »</a>
                 <ul class="collapse">
-                    <li><a href="http://kb.dynamsoft.com/categories/SourceAnywhere+Standalone/">SourceAnywhere Standalone</a></li>
-                    <li><a href="http://kb.dynamsoft.com/categories/SourceAnywhere+for+VSS/">SourceAnywhere for VSS</a></li>
-                    <li><a href="http://kb.dynamsoft.com/categories/SourceAnywhere+Hosted/">SourceAnywhere Hosted</a></li>
-                    <li><a href="http://kb.dynamsoft.com/categories/SCM+Anywhere+Standalone/">SCM Anywhere Standalone</a></li>
-                    <li><a href="http://kb.dynamsoft.com/categories/SCM+Anywhere+Hosted/">SCM Anywhere Hosted</a></li>
-                    <li><a href="http://kb.dynamsoft.com/categories/Issue+Tracking+Anywhere/">Issue Tracking Anywhere</a></li>
-                    <li><a href="http://kb.dynamsoft.com/categories/Dynamic+Web+TWAIN/">Dynamic Web TWAIN</a></li>
-                    <li><a href="http://kb.dynamsoft.com/categories/Dynamic+.NET+TWAIN/">Dynamic .NET TWAIN</a></li>
-                </ul>                
+                    <li><a href="http://kb.dynamsoft.com/categories/Dynamic+Web+TWAIN/" target="_blank">Dynamic Web TWAIN</a></li>
+                    <li><a href="http://kb.dynamsoft.com/categories/Dynamic+.NET+TWAIN/" target="_blank">Dynamic .NET TWAIN</a></li>
+                    <li><a href="http://kb.dynamsoft.com/categories/Dynamic+Webcam+SDK/" target="_blank">Dynamic Webcam SDK</a></li>
+                    <li class="D_sep"><a href="http://kb.dynamsoft.com/categories/SourceAnywhere+Standalone/" target="_blank">SourceAnywhere</a></li>
+                    <li><a href="http://kb.dynamsoft.com/categories/SourceAnywhere+for+VSS/" target="_blank">SourceAnywhere for VSS</a></li>
+                    <li><a href="http://kb.dynamsoft.com/categories/SCM+Anywhere+Standalone/" target="_blank">SCM Anywhere</a></li>
+                    <li class="D_sep"><a href="http://kb.dynamsoft.com/categories/SourceAnywhere+Hosted/" target="_blank">SourceAnywhere Hosted</a></li>
+                    <li><a href="http://kb.dynamsoft.com/categories/SCM+Anywhere+Hosted/" target="_blank">SCM Anywhere Hosted</a></li>
+                    <!--<li><a href="http://kb.dynamsoft.com/categories/Issue+Tracking+Anywhere/">Issue Tracking Anywhere</a></li>-->
+                </ul>
             </li>
-            <li><a class="nohref">FAQ »</a>
+            <li class="D_submenu_item"> <a class="nohref">FAQ »</a>
                 <ul class="collapse">
-                    <li><a href="http://www.dynamsoft.com/Products/SAWStandalone_FAQ.aspx">SourceAnywhere Standalone</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/SAW_FAQ.aspx">SourceAnywhere for VSS</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/SAWHosted_FAQ.aspx">SourceAnywhere Hosted</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/SCMStandalone_FAQ.aspx">SCM Anywhere Standalone</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/SCMHosted_FAQ.aspx">SCM Anywhere Hosted</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/ITA_FAQ.aspx">Issue Tracking Anywhere</a></li>
                     <li><a href="http://www.dynamsoft.com/Products/WebTWAIN_FAQ.aspx">Dynamic Web TWAIN</a></li>
                     <li><a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner-FAQ.aspx">Dynamic .NET TWAIN</a></li>
+                    <li class="D_sep"><a href="http://www.dynamsoft.com/Products/SAWStandalone_FAQ.aspx">SourceAnywhere</a></li>
+                    <li><a href="http://www.dynamsoft.com/Products/SAW_FAQ.aspx">SourceAnywhere for VSS</a></li>
+                    <li><a href="http://www.dynamsoft.com/Products/SCMStandalone_FAQ.aspx">SCM Anywhere</a></li>                    
+                    <li class="D_sep"><a href="http://www.dynamsoft.com/Products/SAWHosted_FAQ.aspx">SourceAnywhere Hosted</a></li>
+                    <li><a href="http://www.dynamsoft.com/Products/SCMHosted_FAQ.aspx">SCM Anywhere Hosted</a></li>
+                    <!--<li><a href="http://www.dynamsoft.com/Products/ITA_FAQ.aspx">Issue Tracking Anywhere</a></li>-->
                 </ul>
             </li>
-            <li><a class="nohref">Forum »</a>
+            <li class="D_submenu_item"> <a class="nohref">Forum »</a>
                 <ul class="collapse">
-                    <li><a target="_blank" href="http://forums.dynamsoft.com">Version
-                            Control &amp; SCM</a></li>
-                    <li><a target="_blank" href="http://forums.dynamictwain.com">TWAIN
-                            Control/Component</a></li>
+                    <li><a target="_blank" href="http://forums.dynamsoft.com">Version Control &amp; SCM</a></li>
+                    <li><a target="_blank" href="http://forums.dynamictwain.com">TWAIN Control/Component</a></li>
                 </ul>
             </li>
-            <li><a href="http://www.dynamsoft.com/Support/LiveHelp.aspx">Online
-                    Chatting</a></li>
+            <li><a href="http://www.dynamsoft.com/Support/LiveHelp.aspx">Online Chatting</a></li>
             <li><a href="http://www.dynamsoft.com/Company/Contact.aspx">Email &amp; Phone</a></li>
             <li><a href="http://www.dynamsoft.com/Support/LiveHelp.aspx#Online Meeting">Online Meeting</a></li>
-            <li><a class="nohref">Help
-                    Document »</a>
+            <li class="D_submenu_item"> <a class="nohref">Help Document »</a>
                 <ul class="collapse">
-                    <li><a href="http://www.dynamsoft.com/help/SAW%20Standalone/index.htm">SourceAnywhere Standalone</a></li>
-                    <li><a href="http://www.dynamsoft.com/help/SAW/index.htm">SourceAnywhere for VSS</a></li>
-                    <li><a href="http://www.dynamsoft.com/help/SAW%20Hosted/index.htm">SourceAnywhere Hosted</a></li>
-                    <li><a href="http://www.dynamsoft.com/help/SCM%20Standalone/Index.htm">SCM Anywhere Standalone</a></li>
-                    <li><a href="http://www.dynamsoft.com/help/SCM%20Hosted/Index.htm">SCM Anywhere Hosted</a></li>
-                    <li><a href="http://www.dynamsoft.com/help/ITA/index.htm">Issue Tracking Anywhere</a></li>
                     <li><a href="http://www.dynamsoft.com/help/TWAIN/WebTwain/index.htm">Dynamic Web TWAIN</a></li>
                     <li><a href="http://www.dynamsoft.com/help/TWAIN/.Net-TWAIN-Scanner/index.htm">Dynamic .NET TWAIN</a></li>
+                    <li><a href="http://www.dynamsoft.com/help/Webcam/index.htm">Dynamic Webcam SDK</a></li>
+                    <li class="D_sep"><a href="http://www.dynamsoft.com/help/SAW%20Standalone/index.htm">SourceAnywhere</a></li>
+                    <li><a href="http://www.dynamsoft.com/help/SAW/index.htm">SourceAnywhere for VSS</a></li>
+                    <li><a href="http://www.dynamsoft.com/help/SCM%20Standalone/Index.htm">SCM Anywhere</a></li>
+                    <li class="D_sep"><a href="http://www.dynamsoft.com/help/SAW%20Hosted/index.htm">SourceAnywhere Hosted</a></li>
+                    <li><a href="http://www.dynamsoft.com/help/SCM%20Hosted/Index.htm">SCM Anywhere Hosted</a></li>
+                    <!--<li><a href="http://www.dynamsoft.com/help/ITA/index.htm">Issue Tracking Anywhere</a></li>-->
                 </ul>
             </li>
-            <li><a class="emblue" href="http://www.dynamsoft.com/Products/TWAIN-Subscription-Benefits.aspx"><strong>Premier tech
-                        support </strong></a>
-                
-                </li>
+            <li> <a class="emblue" href="http://www.dynamsoft.com/Products/TWAIN-Subscription-Benefits.aspx"><b>Premier tech support</b></a> </li>
             <li class="last">&nbsp;</li>
         </ul>
     </li>
-</ul>
-<div class="menubar_split"></div>
-<ul>
-    <li> <span><a class="nohref">Demo</a></span>
-        <ul class="short">
-        	<li><a class="nohref">Watch Videos »</a>
-            	<ul class="collapse">
-                	<li><a href="http://www.dynamsoft.com/Products/TWAINVideo/DynamicWebTwain.html">Dynamic Web TWAIN</a></li>
+    <li class="D_menu_item">
+        <div class="menubar_split">
+        </div>
+        <a class="nohref">Demo</a>
+        <ul class="D_submenu W180 PL8">
+            <li class="D_submenu_item"> <a class="nohref">Watch Videos »</a>
+                <ul class="collapse">
+                    <li><a href="http://www.dynamsoft.com/Products/TWAINVideo/DynamicWebTwain.html">Dynamic Web TWAIN</a></li>
                     <!--<li><a href="http://www.dynamsoft.com/">Dynamic .NET TWAIN</a></li>-->
-                    <li class="menuwithLine"><a>&nbsp;</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/WebinarVideo/SAWHWebinar.aspx">SourceAnywhere Hosted</a></li>
+                    <li class="D_sep"><a href="http://www.dynamsoft.com/Products/WebinarVideo/SAWHWebinar.aspx">SourceAnywhere Hosted</a></li>
                     <li><a href="http://www.dynamsoft.com/Products/WebinarVideo/SCMHWebinar.aspx">SCM Anywhere Hosted</a></li>
-                    <li class="menuwithLine"><a>&nbsp;</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/WebinarVideo/SAWSWebinar.aspx">SourceAnywhere Standalone</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/WebinarVideo/SCMSWebinar.aspx">SCM Anywhere Standalone</a></li>
+                    <li class="D_sep"><a href="http://www.dynamsoft.com/Products/WebinarVideo/SAWSWebinar.aspx">SourceAnywhere</a></li>
+                    <li><a href="http://www.dynamsoft.com/Products/WebinarVideo/SCMSWebinar.aspx">SCM Anywhere</a></li>
                     <li><a href="http://www.dynamsoft.com/Products/WebinarVideo/SAWVWebinar.aspx">SourceAnywhere for VSS</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/ITA_Video.aspx">Issue Tracking Anywhere</a></li>                    
+                    <!--<li><a href="http://www.dynamsoft.com/Products/ITA_Video.aspx">Issue Tracking Anywhere</a></li>-->
                 </ul>
             </li>
-            <li><a class="nohref">Try Online Demo »</a>
-            	<ul class="collapse">
+            <li class="D_submenu_item"> <a class="nohref">Try Online Demo »</a>
+                <ul class="collapse">
                     <li><a href="http://www.dynamsoft.com/demo/DWT/online_demo_scan.aspx">Dynamic Web TWAIN</a></li>
+                    <li><a href="http://www.dynamsoft.com/Demo/Webcam/online_demo_Webcam.aspx">Dynamic Webcam SDK</a></li>
                     <li><a href="http://www.dynamsoft.com/Downloads/DownloadLog.aspx?server=1&amp;product=demo/dotnetwain/DNTDemo.zip">Dynamic .NET TWAIN (ZIP)</a></li>
-                    <li><a href="http://www.dynamsoft.com/Demo/DNT-Barcode/BarcodeOnLineDemo.aspx">Barcode</a></li>
-                    <!--<li><a href="http://www.dynamsoft.com/" class="menuwithLine">OCR</a></li>-->
-                    <li class="menuwithLine"><a>&nbsp;</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/SAWStandalone_Demo.aspx">SourceAnywhere Standalone</a></li>
-                    <li><a href="http://www.dynamsoft.com/Products/SCMStandalone_Demo.aspx">SCM Anywhere Standalone</a></li>
+                    <!--<li><a href="http://www.dynamsoft.com/Demo/DWTPlus/online_demo_scan_OCRBarcode.aspx">Barcode Reader &amp; OCR</a></li>
+                    <li><a href="http://www.dynamsoft.com/" class="menuwithLine">OCR</a></li>-->
+                    <li class="D_sep"><a href="http://www.dynamsoft.com/Products/SAWStandalone_Demo.aspx">SourceAnywhere</a></li>
+                    <li><a href="http://www.dynamsoft.com/Products/SCMStandalone_Demo.aspx">SCM Anywhere</a></li>
                     <li><a href="http://www.dynamsoft.com/Products/SAW_Demo.aspx">SourceAnywhere for VSS</a></li>
                 </ul>
             </li>
-            <li><a href="http://www.dynamsoft.com/Support/LiveHelp.aspx#Live One-2-One Demo">Request 1:1 Demo</a></li>
+            <li class="D_submenu_item"> <a class="nohref">Sample Code »</a>
+                <ul class="collapse">
+                    <li><a href="http://www.dynamsoft.com/Downloads/WebTWAIN-Sample-Download.aspx">Dynamic Web TWAIN</a></li>
+                    <li><a href="http://www.dynamsoft.com/Downloads/.Net-TWAIN-Sample-Download.aspx">Dynamic .NET TWAIN</a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.dynamsoft.com/Support/LiveHelp.aspx#Request-1-on-1-Demo">Request 1-on-1 Demo</a></li>
             <li class="last">&nbsp;</li>
         </ul>
     </li>
-</ul>
-<div class="menubar_split"></div>
-<ul>
-    <li> <span><a class="nohref">Company</a></span>
-        <ul class="short">
-            <li><a href="http://www.dynamsoft.com/Company/AboutDynamsoft.aspx">About
-                    Us</a></li>
+    <li class="D_menu_item">
+        <div class="menubar_split">
+        </div>
+        <div class="menubar_split_last">
+        </div>
+        <a class="nohref">Company</a>
+        <ul class="D_submenu W180 PL8">
+            <li><a href="http://www.dynamsoft.com/Company/AboutDynamsoft.aspx">About Us</a></li>
             <li><a href="http://www.dynamsoft.com/Company/Customers.aspx">Customers</a></li>
-            <li><a class="nohref">Partners »</a>
+            <li class="D_submenu_item"> <a class="nohref">Partners »</a>
                 <ul class="collapse">
-                    <li><a href="http://www.dynamsoft.com/Portal.aspx">Reseller
-                            Portal</a></li>
-                    <li><a href="http://www.dynamsoft.com/Partner/Resellers.aspx">Find
-                            a Reseller</a></li>
+                    <li><a href="http://www.dynamsoft.com/Portal.aspx">Reseller Portal</a></li>
+                    <li><a href="http://www.dynamsoft.com/Partner/Resellers.aspx">Find a Reseller</a></li>
                     <li><a href="http://www.dynamsoft.com/Partner/Alliance.aspx">Alliances</a></li>
                 </ul>
             </li>
-            <li><a href="http://www.dynamsoft.com/Company/News.aspx">News
-                    Room</a></li>
-            <li><a href="http://www.dynamsoft.com/Company/Media.aspx">Media
-                    Coverage</a></li>            
-            <li><a href="http://www.dynamsoft.com/Company/Contact.aspx">Contact
-                    Us</a></li>
-            <li><a target="_blank" href="http://www.kevingao.net/">Source
-                    Control Blog</a></li>
+            <li><a href="http://www.dynamsoft.com/Company/Resources.aspx">Resources</a></li>
+            <li class="D_submenu_item"> <a class="nohref">News &amp; Media »</a>
+                <ul class="collapse">
+                    <li><a href="http://www.dynamsoft.com/Company/News.aspx">News Room</a></li>
+                    <li><a href="http://www.dynamsoft.com/Company/Media.aspx">Media Coverage</a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.dynamsoft.com/Company/Contact.aspx">Contact Us</a></li>
+            <li><a target="_blank" href="http://www.kevingao.net/">Source Control Blog</a></li>
             <li class="last">&nbsp;</li>
         </ul>
     </li>
 </ul>
-<div class="menubar_split"></div>   
+   
     
     </div>
     <!-- End CSS Horizontal Popout Menu -->
@@ -343,8 +421,8 @@ font-size:100%; /* to enable text resizing in IE */
         <li><a href="http://www.dynamsoft.com/Products/version-control-source-control-sourceanywhere.aspx">SourceAnywhere Standalone</a></li>
         <li><a href="http://www.dynamsoft.com/Products/Version-Control-Source-Control-SCM-Anywhere.aspx">SCM Anywhere Standalone</a></li>
         <li><a href="http://www.dynamsoft.com/Products/SAW_Overview.aspx">SourceAnywhere for VSS</a></li>
-        <li><a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx"><nobr>Issue Tracking
-            Anywhere</nobr></a></li>
+        <!--<li><a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx"><nobr>Issue Tracking
+            Anywhere</nobr></a></li>-->
     </ul>
     <b>Hosting Source Control</b>
     <div class="menuleft_splitline"></div>
@@ -354,7 +432,7 @@ font-size:100%; /* to enable text resizing in IE */
         <li><a href="http://www.dynamsoft.com/Products/TFS-Hosting.aspx">TFS
             Hosted</a></li>
         <li><a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx">Issue
-            Tracking Anywhere Hosted</a></li>
+            Tracking Anywhere</a></li>
     </ul>
     <b><a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner-Product-Comparison.aspx">TWAIN &amp; Imaging SDK</a></b>
     <div class="menuleft_splitline"></div>
@@ -364,9 +442,9 @@ font-size:100%; /* to enable text resizing in IE */
         <li><a href="http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner.aspx">Dynamic
             .NET TWAIN</a></li>
         <li><a href="http://www.dynamsoft.com/Products/webcam-sdk.aspx">Dynamic
-            WebCam</a></li>
+            Webcam SDK</a></li>
         <li><a href="http://www.dynamsoft.com/Products/online-tiff-pdf-annotation.aspx">Annotation</a></li>
-        <li><a href="http://www.dynamsoft.com/Products/barcode-detection-decode.aspx">Barcode(1D, 2D)</a></li>
+        <li><a href="http://www.dynamsoft.com/Products/barcode-detection-decode.aspx">Barcode Reader (1D, 2D)</a></li>
         <li><a href="http://www.dynamsoft.com/Products/Optical-Character-Recognition-OCR.aspx">OCR</a></li>
     </ul>
     <br>
@@ -444,20 +522,20 @@ Updated December 10, 2006
         <div id="bottom_mid">
         
             
-
-<div id="footerlist" style="text-align:center; font-size:12px; "><br>
- <u><!--<a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx" class="grayfooter">Free bug tracker</a></u> | <u><a href="javascript:void(0)" onclick="window.location.href='http://www.dynamsoft.com/Products/ITAHosted_Plan.aspx'" class="grayfooter">Free</a> <a href="http://www.dynamsoft.com/Products/ITAHosted_Plan.aspx" class="grayfooter">bug tracking hosting</a></u> | <u><a href="http://www.dynamsoft.com/Products/free-online-version-control.aspx" class="grayfooter">Free source control</a> <a href="javascript:void(0)" onclick="window.location.href='http://www.dynamsoft.com/Products/free-online-version-control.aspx'" class="grayfooter">hosting</a>-->
-<a href="http://www.dynamsoft.com/Products/Scan-Documents-Images-and-Upload-Online.aspx" class="grayfooter">Scan Documents and Upload Online</a>
- </u>
+<div id="footerlist" style="text-align:center; font-size:12px; ">
+    <br>
+    <u><!--<a href="http://www.dynamsoft.com/Products/bug-tracking-issue-tracking-anywhere.aspx" class="grayfooter">Free bug tracker</a></u> | <u><a href="javascript:void(0)" onclick="window.location.href='http://www.dynamsoft.com/Products/ITAHosted_Plan.aspx'" class="grayfooter">Free</a> <a href="http://www.dynamsoft.com/Products/ITAHosted_Plan.aspx" class="grayfooter">bug tracking hosting</a></u> | <u><a href="http://www.dynamsoft.com/Products/free-online-version-control.aspx" class="grayfooter">Free source control</a> <a href="javascript:void(0)" onclick="window.location.href='http://www.dynamsoft.com/Products/free-online-version-control.aspx'" class="grayfooter">hosting</a>--> 
+    <a href="http://www.dynamsoft.com/Products/Scan-Documents-Images-and-Upload-Online.aspx" class="grayfooter">Scan Documents and Upload Online</a></u>&nbsp;|&nbsp;<u><a href="http://www.dynamsoft.com/Products/Version-Control-in-Visual-Studio-2008-2010.aspx">Source control and visual studio 2005/2008/2010</a> </u>
 </div>
-
 <div style="clear:both; text-align:center; font-size:12px; margin-top:15px; height:30px; ">
-
-Copyright © 2012 Dynamsoft. All Rights Reserved. 
-<a href="http://www.dynamsoft.com/PrivacyStatement.aspx" class="grayfooter" rel="nofollow">Privacy Statement</a> | 
-<a href="http://www.dynamsoft.com/SiteMap.html" class="grayfooter" rel="nofollow">Site Map</a>
-<br><br>
-</div>	
+    Copyright © 2012 Dynamsoft. All Rights Reserved. <a href="http://www.dynamsoft.com/PrivacyStatement.aspx" class="grayfooter" rel="nofollow">Privacy Statement</a> | <a href="http://www.dynamsoft.com/SiteMap.html" class="grayfooter" rel="nofollow">Site Map</a> <br>
+    <br>
+    <br>
+    <p style="font-size:10px; color:#999; text-align:left;">Dynamsoft Corp. provides SourceAnywhere<sup>TM</sup>, its enterprise-class source control software / version control software. SourceAnywhere enables efficient file management of source code versions. This ensures greater collaboration and integrity of source code. It is ideal for web, software and application development throughout the lifecycle of development and support. Dynamsoft also provides TWAIN<sup>TM</sup> software development kits (SDK). The company is an associate member of the TWAIN Working Group that develops TWAIN standards. Thousands of customers use Dynamsoft's source control and TWAIN SDK solutions. Explore our website to learn more.<br>
+        <br><br>
+    </p>
+</div>
+	
         
         </div>
     <div id="bottom_right">&nbsp;</div>
