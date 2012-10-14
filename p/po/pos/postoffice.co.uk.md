@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postoffice.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512150104id_/http%3A//www.postoffice.co.uk/find-out-more/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postoffice.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014135432id_/http%3A//www.postoffice.co.uk/find-out-more/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Post Office® | Home | Find out more | About us
 
@@ -182,25 +182,7 @@ Back to the top
 
 A cookie is a small text file that is saved to the hard drive of your computer when you use a website.
 
-Our website use both session and persistent cookies. Session cookies are transferred to your computer only for the duration of your visit to our website. Session cookies help you to move round our website faster and, if you are a registered customer, they allow us to give you information relevant to the services you receive. These cookies automatically expire when you leave our website or shut down your browser. Persistent cookies are cookies that stay on your computer permanently until you manually delete them.
-
-We may use persistent cookies to:
-
-  * recognise you as an individual customer when you log on to our website;
-  * identify your settings if you have set up a customised homepage;
-  * track links you take to our website from other websites;
-  * track the number of times you visit particular pages and advertisements; and
-  * control how often you see particular content or information, including notices and advertisements on our website.
-
-
-
-If you would prefer us not to collect your information for website analytics you can [opt-out](http://www.omniture.com/en/privacy/2o7#optout) (this link will open in a new window). This will cause a “don’t use” instruction to be added to the Website Analytic cookie. You should not delete the Website Analytic cookie from your hard drive because doing so will cause a new, active Website Analytic cookie to be saved on your computer next time you visit our website.
-
-Please note that the opt-out will only work for the computer and browser you are using when you opt-out. If you use more than one computer or browser you will have to opt-out on each.
-
-You may choose whether to accept, reject or be warned before accepting cookies by changing the settings on your browser. If you choose not to accept cookies you may find that certain parts of our website will not function properly or your user experience may be affected.
-
-For more general information on cookies, including how to change your browser settings and find and delete cookies on your hard drive, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) (This link will open in new window).
+For more information on how we use cookies and how they affect your browsing experience, please see our cookies policy [here](https://web.archive.org/cookiepolicy).
 
 Back to the top
 
@@ -238,21 +220,14 @@ Back to the top
 
 Post Office Limited is a company registered in England and Wales, company number 2154540.  Our registered office is 148 Old Street, London, EC1V 9HQ. The Royal Mail Group VAT registration number is GB 243170002. Post Office Limited is registered under the Data Protection Act in the United Kingdom.
 
-For further information about our privacy practices please contact our Data Protection Act Services Team. You can contact the team by:
+For further information about our privacy practices please contact our Information Right Team. You can contact the team by:
 
-  * writing to Royal Mail Group, Information Rights Team, 4th Floor, Royal Mail Sheffield, Pond Street, SHEFFIELD, S98 6HR; or
+  * writing to Royal Mail Group, Information Rights Team (Data Protection Act), 2nd Floor, Royal Mail Sheffield, Pond Street, SHEFFIELD, S98 6HR; or
   * calling 0114 241 4217.
 
 
 
 Back to the top
-
-  
-
-
-##   Privacy Policy
-
-You can download the [Privacy Policy](https://web.archive.org/sites/default/files/C.3.4.0_pdf/Privacy_Policy.pdf) (PDF, 605KB). Date last updated: 27th November 2009.
 
   
 
