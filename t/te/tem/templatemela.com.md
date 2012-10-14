@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatemela.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511005505id_/http%3A//www.templatemela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemela.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014023231id_/http%3A//www.templatemela.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TemplateMela.com
 
 We never Collect your Credit Card Information and we never store your credit card information to our database. Our Trusted Payment Partners PAYPAL and MONEYBOOKERS are directly process your credit card information with Secure Layer (RapidSSL).
 
