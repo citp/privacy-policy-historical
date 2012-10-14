@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2012-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120428065416id_/http%3A//www.panpacific.com/en/privacy.html%3Foverride_form%3D21) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014170911id_/http%3A//www.panpacific.com/en/privacy.html%3Foverride_form%3D21) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Pan Pacific Hotels - Privacy Policy</title>
@@ -8,12 +8,14 @@
 In addition to this Privacy Policy Statement, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g.">
 <!-- Cache-Control: no-cache Disables caching entirely. -->
 
+
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
 <link href="/jasmine3.0/css/common.css" rel="stylesheet" type="text/css">
 <link href="/jasmine3.0/css/page_css.css" rel="stylesheet" type="text/css">
 <link href="/jasmine3.0/css/FormValidation.css" rel="stylesheet" type="text/css">
 <link href="/jasmine3.0/css/datepicker.css" rel="stylesheet" type="text/css">
+<link href="/jasmine3.0/scripts/calendar2/css/calendar.css" rel="stylesheet" type="text/css">
 
 
 <link href="/jasmine3.0/css/blueprint/screen.css" media="screen" rel="stylesheet" type="text/css">
@@ -28,6 +30,11 @@ In addition to this Privacy Policy Statement, there may also be specific and add
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/blockUI/v2/jquery.blockUI.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jQuerySupportingFunctions.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/ui.datepicker.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/FormValidate.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/SetFields.js"></script>
+<script type="text/javascript" src="/application/js/populateCountryHotels.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/calendar2/scripts/datepicker.js"></script>
+<script type="text/javascript" src="/application/js/reservation_DatePicker.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/dplocalization/jquery.ui.datepicker-en.js"></script>
 
 
@@ -96,6 +103,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 .room-info-main input{position:static!important;margin-top:-26px;}
 .list-2col,.list-4col{margin:0!important;padding:0!important;}
 h3.quick-finder{display:none;}
+
+/* DO NOT REMOVE */
+li#emailus-submit a {background:url("/application/css/luxus/img/btn-style-language/en/btn-submit_en.png") no-repeat;}
+/* END DO NOT REMOVE */
+
 #third.pp_matrix_container span{display:block;margin:20px 20px 0;}
 #third.pp_matrix_container table.booking-journey-matrix{float:none;width:95%;margin:0 20px 20px;}
 #third.pp_matrix_container table.booking-journey-matrix td{width:50%;}
@@ -108,6 +120,28 @@ h3.quick-finder{display:none;}
 .search-container ol li input{width:147px;height:15px;background:#e5e5e5;color:gray;border:none;margin:0;}
 .search-container ol li.last{padding:0 0 0 5px;}
 .search-container li.last a{color:#676767;text-decoration:underline;}
+
+/* TO BE REMOVED */
+.gha-matrix{width:520px;padding:10px 0;}
+.matrix-table{border-collapse:collapse;background:#f5f5f5;text-align:left;color:#777;font-size:12px;}
+.matrix-table td,.matrix-table th,.content-body .matrix-table td{border-bottom:#fff 1px solid;padding:5px;}
+.matrix-table th{text-align:center;font-size:14px;color:#31889E;font-weight:normal;}
+.matrix-table th .tip{font-size:11px;color:#777;line-height:11px;padding:2px;}
+.matrix-table .col-2,.matrix-table .col-3,.matrix-table .col-4{width:80px;}
+.matrix-table th.col-1,.matrix-table td.col-1{text-align:left;padding:5px 10px;}
+.matrix-table .col-2{background:#efefef;}
+.matrix-table .col-3{background:#e5e5e5;}
+.matrix-table .col-4{background:#dedede;}
+.matrix-table .yes{display:block;background:url(/media/images/corporate/gha/yes.png) no-repeat top left;width:15px;height:15px;text-indent:-999px;overflow:hidden;margin:0 auto;}
+.matrix-table .col-3 .yes{background-position:-15px top;}
+.matrix-table .col-4 .yes{background-position:-30px top;}
+.article-image-block{clear:both;overflow:hidden;margin:0 0 20px;}
+.article-image-block img{float:left;}
+.article-image-block .content{width:60%;float:left;}
+#article-image-left img{margin:0 10px 0 0;}
+#article-image-right img{margin:0 0 0 10px;}
+#back-to-gha{position:relative;top:-10px;}
+#contentRight #hotel-marketing-panel ul li div a.offers-summary{float:left;}
 </style>
 
 <!--[if IE 6]>
@@ -159,9 +193,45 @@ $("#contentCenter").addClass("white-transparent-75");
 }
 /* End Background Transparency Changes on Serviced Suites Singapore Offers */
 
-});
-</script>
+/* Tracking Code for Perth Offer */
+/*
+var ebRand = Math.random()+'';
+ebRand = ebRand * 1000000;
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = "HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&ActivityID=218847&rnd="+ ebRand;
 
+var offerCode = "<noscript><img width=\"1\" height=\"1\" style=\"border:0\" src=\"HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&ActivityID=218847&ns=1\"/></noscript>";
+
+var offerLnk = $("#offers-summary li h4 > a");
+var offerLnk2= $("#offers-summary .list-thumb");
+var valHREF ='';	
+
+$(offerLnk).click(function(){
+	valHREF = $(this).attr("href");		
+	if(valHREF == "#hotel-offers-53985") {
+		document.head.appendChild(script);
+		$(valHREF).append(offerCode);
+	}		
+});
+
+$(offerLnk2).click(function(){
+	valHREF = $(this).parent(".list-thumb-link").attr("href");	
+	if(valHREF == "#hotel-offers-53985") {			
+		document.head.appendChild(script);
+		$(valHREF).append(offerCode);
+	}		
+});
+
+if(locationPathname == "/"+languageAlias+"/perth/offers/weekend_escapes_package.html") {
+	document.head.appendChild(script);
+	$(".hotel-body").append(offerCode);
+}
+*/
+
+});
+
+</script>
 <!--END COMPONENT:1128-->
 
     
@@ -171,9 +241,9 @@ $("#contentCenter").addClass("white-transparent-75");
 <div id="container" class="container">
         <div id="layoutHeader" style="" class="header">
             <div id="header">
-<!--START COMPONENT:23 (0ms) -->
+<!--START COMPONENT:23 (2ms) -->
 <div id="brand">
-  <h1><a id="brand-logo" href="/" title="Pan Pacific Hotels and Resorts"><img src="/media/images/Website/Images/pan-pacific.jpg" border="0" alt="Pan Pacific Hotels and Resorts"></a><span class="hidden">Pan Pacific Hotels and Resorts</span></h1>
+  <h1><a id="brand-logo" href="/" title="Pan Pacific Hotels and Resorts"><img src="//d10et76grfaz42.cloudfront.net/media/images/website/images/pan-pacific.jpg" border="0" alt="Pan Pacific Hotels and Resorts"></a><span class="hidden">Pan Pacific Hotels and Resorts</span></h1>
   <p class="hidden"><a title="Skip Navigation" href="#main-content">Skip Navigation</a></p>
 </div>
 <!--END COMPONENT:23-->
@@ -188,14 +258,14 @@ $("#contentCenter").addClass("white-transparent-75");
 </ul>
 <!--END COMPONENT:1138-->
 
-<!--START COMPONENT:1845 (0ms) -->
+<!--START COMPONENT:1845 (1ms) -->
 <div id="corp-social-media" class="social-media">
   <h2 class="hidden">Social Media Links</h2>
   <ul>
-    <li id="social-facebook"><a title="Join us on Facebook" target="_blank" href="https://www.facebook.com/PanPacificHotels"><span class="hidden">Facebook</span><img alt="Join us on Facebook" title="Join us on Facebook" src="/application/images/socialmedia/social-fb.png"></a></li>
-    <li id="social-twitter" class="hidden"><a title="Follow us on Twitter" target="_blank" href="#"><span class="hidden">Twitter</span><img alt="Follow us on Twitter" title="Follow us on Twitter" src="/application/images/socialmedia/social-tw.png"></a></li>    
-    <li id="social-flickr" class="hidden"><a title="View on Flickr" target="_blank" href="#"><span class="hidden">Flickr</span><img alt="View on Flickr" title="View on Flickr" src="/application/images/socialmedia/social-fr.png"></a></li>
-    <li id="social-youtube" class="hidden"><a title="Watch on YouTube" target="_blank" href="#"><span class="hidden">Youtube</span><img alt="Watch on YouTube" title="Watch on YouTube" src="/application/images/socialmedia/social-yt.png"></a></li>
+    <li id="social-facebook"><a title="Join us on Facebook" target="_blank" href="https://www.facebook.com/PanPacificHotels"><span class="hidden">Facebook</span></a></li>
+    <li id="social-twitter" class="hidden"><a title="Follow us on Twitter" target="_blank" href="#"><span class="hidden">Twitter</span></a></li>    
+    <li id="social-flickr" class="hidden"><a title="View on Flickr" target="_blank" href="#"><span class="hidden">Flickr</span></a></li>
+    <li id="social-youtube" class="hidden"><a title="Watch on YouTube" target="_blank" href="#"><span class="hidden">Youtube</span></a></li>
   </ul>
 </div>
 <!--END COMPONENT:1845-->
@@ -224,7 +294,7 @@ if(addressURL.indexOf('?') != -1) {
 </script>
 <!--END COMPONENT:265-->
 
-<!--START COMPONENT:155 (19ms) -->
+<!--START COMPONENT:155 (174ms) -->
 
 
 
@@ -253,14 +323,8 @@ if(addressURL.indexOf('?') != -1) {
 
 
 
-<link href="/jasmine3.0/scripts/calendar2/css/calendar.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/jasmine3.0/scripts/FormValidate.js"></script>
-<script type="text/javascript" src="/jasmine3.0/scripts/SetFields.js"></script>
-<script type="text/javascript" src="/application/js/populateCountryHotels.js"></script>
-<script type="text/javascript" src="/jasmine3.0/scripts/calendar2/scripts/datepicker.js"></script>
-<script type="text/javascript" src="/jasmine3.0/scripts/jQuerySupportingFunctions.js"></script>
-<script type="text/javascript" src="/application/js/reservation_DatePicker.js"></script>
-<script type="text/javascript"> 
+<script type="text/javascript">
+ /* <![CDATA[ */ 
  function displayCodeType(passedId,passedValue,passedLink)
  {
    passedObj = document.getElementById(passedId);
@@ -332,13 +396,16 @@ if(addressURL.indexOf('?') != -1) {
 		}else document.getElementById("dp_CheckOutDate").value ='';
 	}	
   }
+  /* ]]> */
 </script>
 
 <!--BRG Image Replacement-->
 <script type="text/javascript">
+/* <![CDATA[ */
 $(function(){
 $("#contentRight #hp_reservationBox #checkAvailabilityContainer .bestRateGuaranteeImg img ").attr("src", "/application/css/luxus/img/best-rate-guarantee-center_en.jpg");
 	});
+/* ]]> */
 </script>
 <!--end-->
 <div id="hp_reservationBox" class="collapsed">    
@@ -364,8 +431,8 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 <input type="hidden" name="FormPosted" value="Yes">
                 
 			<div id="formErrors_CheckAvailabilityForm" class="formErrors"></div>
-			<input name="dp_CheckInDate_h_CheckAvailabilityForm" type="hidden" id="dp_CheckInDate_h" value="28 Apr 2012">
-			<input name="dp_CheckOutDate_h_CheckAvailabilityForm" type="hidden" id="dp_CheckOutDate_h" value="29 Apr 2012">					
+			<input name="dp_CheckInDate_h_CheckAvailabilityForm" type="hidden" id="dp_CheckInDate_h" value="15 Oct 2012">
+			<input name="dp_CheckOutDate_h_CheckAvailabilityForm" type="hidden" id="dp_CheckOutDate_h" value="16 Oct 2012">					
 			
 			<input name="govLink_CheckAvailabilityForm" type="hidden" id="govLink_CheckAvailabilityForm" value="/government_rates.html">
 			
@@ -393,8 +460,8 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 <option value="PPWHV">Pan Pacific Whistler Village Centre</option>
 </optgroup>
 <optgroup label="China">
-<option value="PPNBO">Pan Pacific Ningbo - Opens in 2012</option>
-<option value="PPSNBO">Pan Pacific Serviced Suites Ningbo - Opens in 2012</option>
+<option value="PPNGB">Pan Pacific Ningbo</option>
+<option value="PPSNGB">Pan Pacific Serviced Suites Ningbo - opens December 2012</option>
 <option value="PPSZV">Pan Pacific Suzhou</option>
 <option value="PPTSN">Pan Pacific Tianjin - Opens in 2013</option>
 <option value="PPXMN">Pan Pacific Xiamen</option>
@@ -414,6 +481,7 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 </optgroup>
 <optgroup label="Singapore">
 <option value="PPSGO">Pan Pacific Orchard</option>
+<option value="PPSSBR">Pan Pacific Serviced Suites Beach Road - Opens in 2013</option>
 <option value="PPSSIN">Pan Pacific Serviced Suites Orchard, Singapore</option>
 <option value="PPSIN">Pan Pacific Singapore</option>
 </optgroup>
@@ -441,14 +509,14 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 						<label class="label_dp_CheckInDate_CheckAvailabilityForm  mandatoryField">
 		        			Arrive
 		        		</label>
-                         <div class="noScript CheckInDate"><label style="display:none" for="dp_CheckInDate_day">Day:</label><select id="dp_CheckInDate_day" name="dp_CheckInDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28" selected="selected">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckInDate_month">Month:</label><select id="dp_CheckInDate_month" name="dp_CheckInDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04" selected="selected">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckInDate_year">Year:</label><select id="dp_CheckInDate_year" name="dp_CheckInDate_year" class="select year"><option value="2012" selected="selected">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckInDate_CheckAvailabilityForm" type="text" id="dp_CheckInDate" class="required CheckInDate" readonly="readonly" onchange="dateChange(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="28 Apr 2012"></div>
+                         <div class="noScript CheckInDate"><label style="display:none" for="dp_CheckInDate_day">Day:</label><select id="dp_CheckInDate_day" name="dp_CheckInDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15" selected="selected">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckInDate_month">Month:</label><select id="dp_CheckInDate_month" name="dp_CheckInDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10" selected="selected">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckInDate_year">Year:</label><select id="dp_CheckInDate_year" name="dp_CheckInDate_year" class="select year"><option value="2012" selected="selected">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckInDate_CheckAvailabilityForm" type="text" id="dp_CheckInDate" class="required CheckInDate" readonly="readonly" onchange="dateChange(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="15 Oct 2012"></div>
                   </li>       
                        
                    <li class="departure-date">
 						<label class="label_dp_CheckOutDate_CheckAvailabilityForm  mandatoryField">
 		        			Departure Date
 		        		</label>
-                        <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckOutDate_day">Day:</label><select id="dp_CheckOutDate_day" name="dp_CheckOutDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29" selected="selected">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckOutDate_month">Month:</label><select id="dp_CheckOutDate_month" name="dp_CheckOutDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04" selected="selected">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckOutDate_year">Year:</label><select id="dp_CheckOutDate_year" name="dp_CheckOutDate_year" class="select year"><option value="2012" selected="selected">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckOutDate_CheckAvailabilityForm" type="text" id="dp_CheckOutDate" class="required CheckOutDate" readonly="readonly" onchange="dateChangeOut(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="29 Apr 2012"></div>
+                        <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckOutDate_day">Day:</label><select id="dp_CheckOutDate_day" name="dp_CheckOutDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16" selected="selected">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckOutDate_month">Month:</label><select id="dp_CheckOutDate_month" name="dp_CheckOutDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10" selected="selected">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckOutDate_year">Year:</label><select id="dp_CheckOutDate_year" name="dp_CheckOutDate_year" class="select year"><option value="2012" selected="selected">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckOutDate_CheckAvailabilityForm" type="text" id="dp_CheckOutDate" class="required CheckOutDate" readonly="readonly" onchange="dateChangeOut(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="16 Oct 2012"></div>
 				   </li>                         
 				</ol>
 			</fieldset>
@@ -546,11 +614,9 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
         <h3 class="hidden">Reservations Options</h3>
           <p class="reviewMyReservationLink">
          <a href="/en/hbs/modify_reservation_login.html">Review my reservation</a></p>
-		 <p class="bestRateGuaranteeImg">		 
 		 
-		        <a href="/en/mypanpac/bestrate.html" target="_blank" title="Best Rate Guarantee"> 
-                <img src="/application/media/booking/img_bestRateGuarantee-en.gif" alt="Best Rate Guarantee">       
-		 </a></p></div>
+         <p class="bestRateGuaranteeImg"><a href="/en/mypanpac/bestrate.html" target="_blank" title="Best Rate Guarantee"><img src="/application/media/booking/img_bestRateGuarantee-en.gif" alt="Best Rate Guarantee"></a></p>
+		 </div>
           <input type="hidden" name="javaScriptStatus" value="off" class="javaScriptStatus">
 </form>
 <script type="text/javascript">
@@ -618,7 +684,7 @@ $(function(){
 </script>
 <!--END COMPONENT:155-->
 
-<!--START COMPONENT:129 (1ms) -->
+<!--START COMPONENT:129 (3ms) -->
 
 
 
@@ -634,7 +700,7 @@ $(function(){
 <script type="text/javascript" src="/jasmine3.0/scripts/components/en/component_1540.js"></script>
 <!--END Component:1540-->
 
-<!--START COMPONENT:40 (670ms) -->
+<!--START COMPONENT:40 (836ms) -->
 <script type="text/javascript">
 /* <![CDATA[ */
 
@@ -643,8 +709,6 @@ var jsHotels = new CountryHotelList();
 var jsActions = new ActionForHotels();
 jsHotels.add('6985', "Pan Pacific Perth", '6965', "Australia");
 jsActions.add('6985', "/en/Perth/Overview.html", "Hotel Overview");
-jsHotels.add('6985', "Pan Pacific Perth", '6965', "Australia");
-jsActions.add('6985', "/en/Perth/weddings.html", "Wedding Overview");
 jsHotels.add('6985', "Pan Pacific Perth", '6965', "Australia");
 jsActions.add('6985', "/en/perth/destination.html", "Hotel Destination");
 jsHotels.add('6985', "Pan Pacific Perth", '6965', "Australia");
@@ -655,8 +719,6 @@ jsHotels.add('6985', "Pan Pacific Perth", '6965', "Australia");
 jsActions.add('6985', "/en/Perth/meetings_events/index.html", "Meeting & Events Overview");
 jsHotels.add('1561', "Pan Pacific Sonargaon Dhaka", '1235', "Bangladesh");
 jsActions.add('1561', "/en/Dhaka/Overview.html", "Hotel Overview");
-jsHotels.add('1561', "Pan Pacific Sonargaon Dhaka", '1235', "Bangladesh");
-jsActions.add('1561', "/en/Dhaka/Weddings/Overview.html", "Wedding Overview");
 jsHotels.add('1561', "Pan Pacific Sonargaon Dhaka", '1235', "Bangladesh");
 jsActions.add('1561', "/en/Dhaka/Destination.html", "Hotel Destination");
 jsHotels.add('1561', "Pan Pacific Sonargaon Dhaka", '1235', "Bangladesh");
@@ -703,12 +765,24 @@ jsHotels.add('1298', "Pan Pacific Whistler Village Centre", '1292', "Canada");
 jsActions.add('1298', "/en/WhistlerVillageCentre/Meetings/Overview.html", "Meeting & Events Overview");
 jsHotels.add('12195', "Pan Pacific Ningbo", '1242', "China");
 jsActions.add('12195', "/en/Ningbo/Overview.html", "Hotel Overview");
+jsHotels.add('12195', "Pan Pacific Ningbo", '1242', "China");
+jsActions.add('12195', "/en/Ningbo/Rooms/Overview.html", "Accommodation Overview");
+jsHotels.add('12195', "Pan Pacific Ningbo", '1242', "China");
+jsActions.add('12195', "/en/Ningbo/Dining/Overview.html", "Dining Overview");
+jsHotels.add('12195', "Pan Pacific Ningbo", '1242', "China");
+jsActions.add('12195', "/en/Ningbo/meetings-events.html", "Meeting & Events Overview");
+jsHotels.add('12195', "Pan Pacific Ningbo", '1242', "China");
+jsActions.add('12195', "/en/Ningbo/destination-information.html", "Hotel Destination");
 jsHotels.add('12205', "Pan Pacific Serviced Suites Ningbo", '1242', "China");
-jsActions.add('12205', "/en/pan_pacific_serviced_suites_ningbo/index.html", "Hotel Overview");
+jsActions.add('12205', "/en/pan-pacific-serviced-suites-ningbo/index.html", "Hotel Overview");
+jsHotels.add('12205', "Pan Pacific Serviced Suites Ningbo", '1242', "China");
+jsActions.add('12205', "/en/pan-pacific-serviced-suites-ningbo/dining/restaurants-and-bars.html", "Dining Overview");
+jsHotels.add('12205', "Pan Pacific Serviced Suites Ningbo", '1242', "China");
+jsActions.add('12205', "/en/pan-pacific-serviced-suites-ningbo/suites.html", "Accommodation Overview");
+jsHotels.add('12205', "Pan Pacific Serviced Suites Ningbo", '1242', "China");
+jsActions.add('12205', "/en/pan-pacific-serviced-suites-ningbo/destination.html", "Hotel Destination");
 jsHotels.add('4975', "Pan Pacific Suzhou", '1242', "China");
 jsActions.add('4975', "/en/Suzhou/Overview.html", "Hotel Overview");
-jsHotels.add('4975', "Pan Pacific Suzhou", '1242', "China");
-jsActions.add('4975', "/en/Suzhou/Weddings/Overview.html", "Wedding Overview");
 jsHotels.add('4975', "Pan Pacific Suzhou", '1242', "China");
 jsActions.add('4975', "/en/Suzhou/Destination.html", "Hotel Destination");
 jsHotels.add('4975', "Pan Pacific Suzhou", '1242', "China");
@@ -722,8 +796,6 @@ jsActions.add('13675', "/en/Tianjin/Overview.html", "Hotel Overview");
 jsHotels.add('3835', "Pan Pacific Xiamen", '1242', "China");
 jsActions.add('3835', "/en/Xiamen/Overview.html", "Hotel Overview");
 jsHotels.add('3835', "Pan Pacific Xiamen", '1242', "China");
-jsActions.add('3835', "/en/xiamen/pan_pacific_xiamen/weddings.html", "Wedding Overview");
-jsHotels.add('3835', "Pan Pacific Xiamen", '1242', "China");
 jsActions.add('3835', "/en/xiamen/pan_pacific_xiamen/destination_info.html", "Hotel Destination");
 jsHotels.add('3835', "Pan Pacific Xiamen", '1242', "China");
 jsActions.add('3835', "/en/xiamen/pan_pacific_xiamen/overview.html", "Accommodation Overview");
@@ -733,8 +805,6 @@ jsHotels.add('3835', "Pan Pacific Xiamen", '1242', "China");
 jsActions.add('3835', "/en/xiamen/pan_pacific_xiamen/meeting__events.html", "Meeting & Events Overview");
 jsHotels.add('6315', "Pan Pacific Nirwana Bali Resort", '1261', "Indonesia");
 jsActions.add('6315', "/en/Bali/Overview.html", "Hotel Overview");
-jsHotels.add('6315', "Pan Pacific Nirwana Bali Resort", '1261', "Indonesia");
-jsActions.add('6315', "/en/Bali/Weddings/Overview.html", "Wedding Overview");
 jsHotels.add('6315', "Pan Pacific Nirwana Bali Resort", '1261', "Indonesia");
 jsActions.add('6315', "/en/Bali/destination.html", "Hotel Destination");
 jsHotels.add('6315', "Pan Pacific Nirwana Bali Resort", '1261', "Indonesia");
@@ -809,8 +879,8 @@ jsHotels.add('3012', "Pan Pacific Serviced Suites Orchard, Singapore", '1278', "
 jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/index.html", "Hotel Overview");
 jsHotels.add('3012', "Pan Pacific Serviced Suites Orchard, Singapore", '1278', "Singapore");
 jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/individual_suites.html", "Accommodation Overview");
-jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
-jsActions.add('1924', "/en/singapore/weddings.html", "Wedding Overview");
+jsHotels.add('31525', "Pan Pacific Serviced Suites Beach Road", '1278', "Singapore");
+jsActions.add('31525', "/en/pan_pacific_serviced_suites_beach_road/index.html", "Hotel Overview");
 jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
 jsActions.add('1924', "/en/Singapore/destination.html", "Hotel Destination");
 jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
@@ -834,9 +904,9 @@ jsActions.add('1260', "/en/Seattle/Overview.html", "Hotel Overview");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
 jsActions.add('1260', "/en/Seattle/Meetings/Weddings/Overview.html", "Wedding Overview");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
-jsActions.add('1260', "/en/seattle/thingstodo1.html", "Hotel Destination");
-jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
 jsActions.add('1260', "/en/Seattle/Destination.html", "Hotel Destination");
+jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
+jsActions.add('1260', "/en/seattle/thingstodo1.html", "Hotel Destination");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
 jsActions.add('1260', "/en/Seattle/Rooms/Overview.html", "Accommodation Overview");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
@@ -854,7 +924,7 @@ jsActions.add('1260', "/en/Seattle/Meetings/Overview.html", "Meeting & Events Ov
             </div>
             <div id="layoutCenter" style="" class="centerColumn">
                 <div id="contentCenter">
-<!--START COMPONENT:1157 (14ms) -->
+<!--START COMPONENT:1157 (11ms) -->
 <div class="corporate-body span-5 no-right-margin">
 <h2>Privacy </h2>
 <div class="content-body">
@@ -905,7 +975,7 @@ jsActions.add('1260', "/en/Seattle/Meetings/Overview.html", "Meeting & Events Ov
             </div>
             <div id="layoutRight" style="" class="rightColumn">
                 <div id="contentRight">
-<!--START COMPONENT:1142 (329ms) -->
+<!--START COMPONENT:1142 (152ms) -->
 <style type="text/css">
 #events-container {
 	padding:20px 0;
@@ -934,7 +1004,7 @@ $(function() {
   <ul class="has-accord">
 <li>
       <h3 class="head"><a href="/en/programmes.html" title="Loyalty Programmes">Loyalty Programmes</a></h3>
-      <div> <a href="/en/programmes.html" title="Loyalty Programmes"><img src="/media/images/Corporate/GHA/gha_discovery_logov8.jpg" border="0" alt="Loyalty Programmes"></a>
+      <div> <a href="/en/programmes.html" title="Loyalty Programmes"><img src="//d10et76grfaz42.cloudfront.net/media/images/corporate/gha/gha_discovery_logov8.jpg" border="0" alt="Loyalty Programmes"></a>
         <p>Explore the world of privileges ranging from dining to Local Experiences.</p>
       </div>
     </li>
@@ -951,24 +1021,34 @@ $(function() {
 </script><div id="hotel-marketing-panel">
 <h2 class="head"><a href="/en/specialoffers.html" title="Hotel Offers">Hotel Offers</a></h2>
 <ul class="has-accord"><li>
-<h3 class="head"><a href="/en/corporate/offers/double_miles_flying_blue.html" title="Preference and double miles with Flying Blue">Preference and double miles with Flying Blue</a></h3>
-<div>
-<a href="/en/corporate/offers/double_miles_flying_blue.html" title="Preference and double miles with Flying Blue"><img src="/media/Images/Corporate/pphr-fb-mh-large.jpg" border="0" alt="Preference and double miles with Flying Blue"></a>
-<a href="/en/corporate/offers/double_miles_flying_blue.html" title="Indulge in a diverse range of experiences with double miles and a preference of your choice" class="offers-summary">Indulge in a diverse range of experiences with double miles and a preference of your choice</a>
-</div>
-</li>
-<li>
-<h3 class="head"><a href="/en/corporate/offers/double_miles_malaysia_airlines.html" title="Preference and double miles with Malaysia Airlines">Preference and double miles with Malaysia Airlines</a></h3>
-<div>
-<a href="/en/corporate/offers/double_miles_malaysia_airlines.html" title="Preference and double miles with Malaysia Airlines"><img src="/media/Images/Corporate/pphr-fb-mh-large.jpg" border="0" alt="Preference and double miles with Malaysia Airlines"></a>
-<a href="/en/corporate/offers/double_miles_malaysia_airlines.html" title="Indulge in a diverse range of experiences with double miles and a preference of your choice" class="offers-summary">Indulge in a diverse range of experiences with double miles and a preference of your choice</a>
-</div>
-</li>
-<li>
 <h3 class="head"><a href="/en/articles/advance_purchase.html" title="Advance Purchase">Advance Purchase</a></h3>
 <div>
-<a href="/en/articles/advance_purchase.html" title="Advance Purchase"><img src="/media/Images/Corporate/Group_Promotions/advance_purchase210x80.jpg" border="0" alt="Advance Purchase"></a>
+<a href="/en/articles/advance_purchase.html" title="Advance Purchase"><img src="//d10et76grfaz42.cloudfront.net/media/images/corporate/group_promotions/advance_purchase210x80.jpg" border="0" alt="Advance Purchase"></a>
 <a href="/en/articles/advance_purchase.html" title="Be rewarded with fabulous rates when you book in advance." class="offers-summary">Be rewarded with fabulous rates when you book in advance.</a>
+</div>
+</li>
+<li>
+<h3 class="head"><a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific">Weekend Preferences By Pan Pacific</a></h3>
+<div>
+<a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific"><img src="//d10et76grfaz42.cloudfront.net/media/images/corporate/group_promotions/weekend_preferences-210x80.jpg" border="0" alt="Weekend Preferences By Pan Pacific"></a>
+<a href="/en/weekend_preferences.html" title="Love your weekends even more with an additional choice of Preferences." class="offers-summary">Love your weekends even more with an additional choice of Preferences.</a>
+</div>
+</li>
+<li>
+<h3 class="head"><a href="/en/preferences_pan_pacific.html" title="Preferences By Pan Pacific">Preferences By Pan Pacific</a></h3>
+<div>
+<a href="/en/preferences_pan_pacific.html" title="Preferences By Pan Pacific"><img src="//d10et76grfaz42.cloudfront.net/media/images/corporate/group_promotions/rooms_preferences_210x80.jpg" border="0" alt="Preferences By Pan Pacific"></a>
+<a href="/en/preferences_pan_pacific.html" title="Design your own stay with additional Preferences such as breakfast and much more.
+        
+        
+        
+        
+        " class="offers-summary">Design your own stay with additional Preferences such as breakfast and much more.
+        
+        
+        
+        
+        </a>
 </div>
 </li>
 </ul>
@@ -977,9 +1057,9 @@ $(function() {
 </div>
 <div class="hotel-whats-happening">
   <h2 class="head"><a href="/en/press_releases_default_listing.html" title="What's Happening">What's Happening</a></h2>
-  <ul>    <li><a href="/en/articles/pan_pacific_singapore_embarks_on_biggest_transformation_.html" title="Pan Pacific Singapore embarks on biggest transformation ">Pan Pacific Singapore embarks on biggest transformation </a></li>
-    <li><a href="/en/articles/pphg_australia_properties.html" title="Pan Pacific Hotels and Resorts enters Australia with three properties">Pan Pacific Hotels and Resorts enters Australia with three properties</a></li>
-    <li><a href="/en/articles/ningbo.html" title="Pan Pacific Hotels and Resorts to open new Pan Pacific properties in Ningbo, China">Pan Pacific Hotels and Resorts to open new Pan Pacific properties in Ningbo, China</a></li>
+  <ul>    <li><a href="/en/corporate/news/pan_pacific_singapore_unveils_s80_million_transformation.html" title="Pan Pacific Singapore unveils S$80 million transformation">Pan Pacific Singapore unveils S$80 million transformation</a></li>
+    <li><a href="/en/corporate/news/pan_pacific_perth_awarded_three_key_accolades_at_2012_hm_industry_awards.html" title="Pan Pacific Perth awarded three key accolades at 2012 HM Industry Awards">Pan Pacific Perth awarded three key accolades at 2012 HM Industry Awards</a></li>
+    <li><a href="/en/corporate/news/rejuvenates_guest_experiences_with_10_million_makeover.html" title="Pan Pacific Orchard, Singapore rejuvenates guest experiences with a S$10 million makeover">Pan Pacific Orchard, Singapore rejuvenates guest experiences with a S$10 million makeover</a></li>
   </ul>
 </div>
 
@@ -993,7 +1073,7 @@ $(function() {
         </div>
         <div id="layoutFooter" style="" class="footer">
             <div id="footer">
-<!--START COMPONENT:1143 (24ms) -->
+<!--START COMPONENT:1143 (0ms) -->
 <h2 class="hidden">About Pan Pacific and this Property</h2>
 <ul id="footer-menu">
     <li class="first"><a href="/en/overview.html" title="About Pan Pacific">About Pan Pacific</a></li>
@@ -1030,11 +1110,11 @@ $(function() {
 </div>
 <!--END COMPONENT:21-->
 
-<!--START COMPONENT:215 (0ms) -->
+<!--START COMPONENT:215 (2ms) -->
 <div id="footer-copyright">
   <h3 class="hidden">Copyright</h3>
   <p>© 2012 Pan Pacific Hotels and Resorts</p>
-  <p><a href="http://www.globalhotelalliance.com" target="_blank" title="Pan Pacific Hotels and Resorts is a Member of Global Hotel Alliance"><img src="/media/Images/global_hotel_alliance_logo.gif" border="0" alt="Global Hotel Alliance"><span class="hidden">Pan Pacific Hotels and Resorts is a Member of <abbr title="Global Hotel Alliance">GHA</abbr></span></a></p>
+  <p><a href="http://www.globalhotelalliance.com" target="_blank" title="Pan Pacific Hotels and Resorts is a Member of Global Hotel Alliance"><img src="//d10et76grfaz42.cloudfront.net/media/images/global_hotel_alliance_logo.gif" border="0" alt="Global Hotel Alliance"><span class="hidden">Pan Pacific Hotels and Resorts is a Member of <abbr title="Global Hotel Alliance">GHA</abbr></span></a></p>
 </div>
 <!--END COMPONENT:215-->
 
@@ -1065,7 +1145,7 @@ else {}
 </script>
 <!--END COMPONENT:1513-->
 
-<!--START COMPONENT:252 (2ms) -->
+<!--START COMPONENT:252 (135ms) -->
 <script type="text/javascript">
 var aryHotelLocalDate = new Array();
 
@@ -1079,68 +1159,70 @@ function addHotelLocalDate(jvarCodeName, jvarDate)
 }
 
 
-<!-- Moved to Main JS -->addHotelLocalDate('PPBKK', '28 Apr 2012');
+<!-- Moved to Main JS -->addHotelLocalDate('PPBKK', '15 Oct 2012');
 
-addHotelLocalDate('PPCER', '28 Apr 2012');
+addHotelLocalDate('PPCER', '15 Oct 2012');
 
-addHotelLocalDate('PPCGK', '28 Apr 2012');
+addHotelLocalDate('PPCGK', '15 Oct 2012');
 
-addHotelLocalDate('PPDAC', '28 Apr 2012');
+addHotelLocalDate('PPDAC', '14 Oct 2012');
 
-addHotelLocalDate('PPDPS', '28 Apr 2012');
+addHotelLocalDate('PPDPS', '15 Oct 2012');
 
-addHotelLocalDate('PPHND', '28 Apr 2012');
+addHotelLocalDate('PPHND', '15 Oct 2012');
 
-addHotelLocalDate('PPKLA', '28 Apr 2012');
+addHotelLocalDate('PPKLA', '15 Oct 2012');
 
-addHotelLocalDate('PPMLB', '27 Apr 2012');
+addHotelLocalDate('PPMLB', '14 Oct 2012');
 
-addHotelLocalDate('PPMNL', '28 Apr 2012');
+addHotelLocalDate('PPMNL', '15 Oct 2012');
 
-addHotelLocalDate('PPNBO', '28 Apr 2012');
+addHotelLocalDate('PPNGB', '15 Oct 2012');
 
-addHotelLocalDate('PPNGO', '28 Apr 2012');
+addHotelLocalDate('PPNGO1', '15 Oct 2012');
 
-addHotelLocalDate('PPNRT', '28 Apr 2012');
+addHotelLocalDate('PPNRT', '15 Oct 2012');
 
-addHotelLocalDate('PPPAL', '28 Apr 2012');
+addHotelLocalDate('PPPAL', '15 Oct 2012');
 
-addHotelLocalDate('PPPER', '28 Apr 2012');
+addHotelLocalDate('PPPER', '15 Oct 2012');
 
-addHotelLocalDate('PPSBKK', '28 Apr 2012');
+addHotelLocalDate('PPSBKK', '15 Oct 2012');
 
-addHotelLocalDate('PPSEA', '27 Apr 2012');
+addHotelLocalDate('PPSEA', '14 Oct 2012');
 
-addHotelLocalDate('PPSGO', '28 Apr 2012');
+addHotelLocalDate('PPSGO', '15 Oct 2012');
 
-addHotelLocalDate('PPSHA', '28 Apr 2012');
+addHotelLocalDate('PPSHA', '15 Oct 2012');
 
-addHotelLocalDate('PPSIN', '28 Apr 2012');
+addHotelLocalDate('PPSIN', '15 Oct 2012');
 
-addHotelLocalDate('PPSNBO', '28 Apr 2012');
+addHotelLocalDate('PPSNGB', '15 Oct 2012');
 
-addHotelLocalDate('PPSSIN', '28 Apr 2012');
+addHotelLocalDate('PPSSBR', '15 Oct 2012');
 
-addHotelLocalDate('PPSZV', '28 Apr 2012');
+addHotelLocalDate('PPSSIN', '15 Oct 2012');
 
-addHotelLocalDate('PPTSN', '28 Apr 2012');
+addHotelLocalDate('PPSZV', '15 Oct 2012');
 
-addHotelLocalDate('PPUKY', '28 Apr 2012');
+addHotelLocalDate('PPTSN', '15 Oct 2012');
 
-addHotelLocalDate('PPWHI', '27 Apr 2012');
+addHotelLocalDate('PPUKY', '15 Oct 2012');
 
-addHotelLocalDate('PPWHV', '27 Apr 2012');
+addHotelLocalDate('PPWHI', '14 Oct 2012');
 
-addHotelLocalDate('PPXMN', '28 Apr 2012');
+addHotelLocalDate('PPWHV', '14 Oct 2012');
 
-addHotelLocalDate('PPYKO', '28 Apr 2012');
+addHotelLocalDate('PPXMN', '15 Oct 2012');
 
-addHotelLocalDate('PPYVR', '27 Apr 2012');
+addHotelLocalDate('PPYKO', '15 Oct 2012');
+
+addHotelLocalDate('PPYVR', '14 Oct 2012');
 
 </script>
 <!--END COMPONENT:252-->
 
-<!--START COMPONENT:1542 (118ms) -->
+<!--START COMPONENT:1542 (39ms) -->
 <!-- SEO text. commented out accoding to the client request
 <div id="corporate-seo-left">Pan Pacific’s luxury hotels and resorts combine the cultures and ancient traditions of the Pacific Rim to provide an urban sanctuary with a sense of modern vibrancy and warmth. This culture is brought to life in the engaging and thoughtful service of all our associates, who are dedicated to enhancing every moment of your stay with us. We look forward to welcoming you to our 5-star hotels. </div>
 <div id="corporate-seo-right">Leading Luxury Hotels | 5 star beach Resorts | Luxury Family Hotels
@@ -1162,7 +1244,7 @@ Luxury Hotels – Luxury Resorts – 5 Star Hotels – Hotel Offers</div>
 
 
 
-<!--1440 MiliSecs AB Testing Path = B-->
+<!--1539 MiliSecs AB Testing Path = B-->
 
 
 </body></html>
