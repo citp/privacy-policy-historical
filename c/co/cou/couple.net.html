@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the couple.net privacy policy that was archived on 2011-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011221046id_/http%3A//couple.net/corporate/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couple.net privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015014533id_/http%3A//www.couple.net/about-us/policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,23 +19,23 @@
     <meta name="subject" content="">
     <meta name="copyright" content="Couple.net by SUNOO">
     <meta name="content-language" content="en">
-    <meta name="build" content="2010.03.10">
+    <meta name="build" content="2012.08.28">
     <meta name="cache-control" content="no-cache">
     <meta name="pragma" content="no-cache">
 
     <link rel="shortcut icon" href="/kr/images/couple_02.ico" type="image/x-icon">
 
-    <link href="/css/common_menu.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/css/corporate6_main.css" type="text/css" media="screen,tv">
     <link href="/css/en_common.css" rel="stylesheet" type="text/css">
     <link href="/css/en_base.css" rel="stylesheet" type="text/css">
+	<link href="/css/common_menu.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/corporate6_main.css" type="text/css" media="screen,tv">
 
-    <script type="text/javascript" src="/include/w3c_util.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/include/w3c_util.js"></script>
     <script type="text/javascript" src="/include/w3c_default.js"></script>
 
     <script type="text/javascript" language="javascript">
 <!--
-    js_vg_home             = "http://www.couple.net/";
+    js_vg_home             = "http://www.couple.net/default.asp?lang=EN";
 
     js_vg_login_id         = "";
     js_vg_cust_no          = "";
@@ -68,8 +68,8 @@
 <script type="text/javascript" src="/include/w3c_tooltip.js"></script>
 <form name="frm" action="">
 
-    <div id="wrap">
-
+	<div id="wrap">
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <link rel="stylesheet" href="/css/w3c_common_en.css" type="text/css">
 <script type="text/javascript">
 
@@ -110,15 +110,15 @@
 		}
 	}
 
-	function showLogin(){ 
+	function showLogin(){
 		showmainBlind();
         if(IE6) hideSelect();
-		showmainBox("/common/showLogin.asp",650,350);
+		showmainBox("/common/showLogin.asp?rtnurl=/about-us/policy.asp?",650,400);
 	}
 
 	function Login_pop_close(){
 		document.onclick = eventHandler;
-		
+
 		function eventHandler() {
 			var obj = document.getElementById('myLayer1');
 			if(Login_pop == false){
@@ -220,52 +220,64 @@
 
 	function reloadPage(){
 		//location.reload();
-		document.location.href="/corporate/policy.asp?";
+		document.location.href="/about-us/policy.asp?";
 	}
 
 </script>
 
 <!-- 메인 블라인드 처리 및 팝업 레이어 처리부분 -->
 <div id="main_blind"></div>
-<div id="main_box">
-    <iframe name="ifr_main_box" src="/kr/Blank.asp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
-</div>
+<div id="main_box"><iframe name="ifr_main_box" src="/kr/Blank.asp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe></div>
 <!-- 메인 블라인드 처리 및 팝업 레이어 처리부분 //-->
+
 <div id="top_layer">
-<!-- Header Top Start -->
-<div id="header_back"> 
-        <div id="hearder_logo" style="height:50px;><a href=" http:="" www.couple.net="" "="" onclick="location.href='/default.asp?lang=EN'; return false;" onkeypress="location.href='/default.asp?lang=EN'; return false;" title="Couple.net"><img src="/images/couplenet_logo_en.gif" alt="Couple.net" style="cursor:pointer;">
-		</div>
-
-       <!-- <div id="lang"  ><a href="#" onclick="top.location.href='/kr/companyoverview/companyoverview_private.asp'; return false;" ><img src="/images/language_korean1.gif" alt="korean" /></a>&nbsp;&nbsp;-->
-           <!-- <a href="#" ><img src="/kr/images/language_chineses.gif" alt="chineses" /></a></div> -->
-
-		<!-- <div class="pt25 wh175 fl ml3" ><img src="/images/couplenet_logo_1991.gif" alt="" /></div> -->
-		<div id="header_login" style="z-index:999;">
-
-
- 
-				 <div class="fr linker" style="margin-top:1px;text-align:right;font-size:12px;">
-				<a href="#" onclick="top.location.href='/kr/companyoverview/companyoverview_private.asp'; return false;" style="color:#0a3287;">한국어</a> | <a href="#" onclick="top.location.href='/cn/about-us/policy.asp'; return false;" style="color:#0a3287;">中文</a> | 
-                <a href="#" onclick="joinMembership(); return false;" style="color:#0a3287;">Join</a>  | 
-                <a href="#" onclick="showLogin('myLayer1'); return false;" onmouseover="Login_pop=true;" style="color:#0a3287;"> Login</a>&nbsp;&nbsp;
+	<!-- //뉴헤더 -->
+	<div id="header_new">
+		<!-- //언어선택 -->
+		<div id="header_lang_bgt">
+			<div id="header_lang_bg">
+				<div id="header_lang">
+					<ul>
+						<li><a href="#" onclick="top.location.href='http://www.couple.net/kr/about-us/policy.asp'; return false;">한국어</a> <span class="header_bar">&nbsp;|</span></li>
+						<li>&nbsp;<a href="#" onclick="top.location.href='http://www.couple.net/cn/about-us/policy.asp'; return false;">中文</a></li>
+					</ul>
 				</div>
-  <!-- 로그인창 시작-->
-		<div style="position:relative;left:0px;right:0px;top:0px;z-index:999;">
-				<div id="myLayer1" style="background-color:white;position:absolute;z-index:999;width:240px;height:250px;border:1px solid #6b2551;display:none;top:24px;right:0;" onmouseout="Login_pop=false; Login_pop_close();" onmouseover="Login_pop=true;">
-				
-					
-                   			<input type="hidden" name="login_on_off" value="">
-   
+			</div>
+			<div id="header_lang_copy_en"></div>
+		</div>
+		<!-- 언어선택// -->
+		
+		<!-- //로고및메뉴 -->
+    <div id="header_menu_newt">
+        <div id="header_logo" onclick="location.href='http://www.couple.net/default.asp?lang=EN'; return false;">
+            <img src="/images/logo_2012_02.gif">
+        </div>
+        <div id="header_menu_new">
+            <ul>
+                <li class="a01"><a href="#" onclick="location.href='http://www.couple.net/singles/profiles-search.asp'; return false;">SEARCH</a></li>
+                <li class="a01"><a href="#" onclick="location.href='http://www.couple.net/singles-events/matching-events.asp'; return false;">EVENTS</a></li>
+                <li class="a01"><a href="#" onclick="location.href='http://www.couple.net/relationship-forum/singles-advice.asp'; return false;">Q&amp;A</a></li>
+                <li class="a01"><a href="#" onclick="location.href='http://www.couple.net/matching-services/purchase.asp'; return false;">SERVICES</a></li>
+                <li class="a01"><a href="#" onclick="Login_RtnUrl(''); return false;">MY MATCHING  </a></li>
+                <li class="a01end"><a href="#" onclick="Login_RtnUrl(''); return false;">MY PROFILE</a> </li>
+            </ul>
+        </div>
+        <div id="header_log">
+            <ul>
+
+                <li><a href="#" onclick="joinMembership(); return false;">Join</a> |</li>
+                <li><a href="#" onclick="showLogin('myLayer1'); return false;">Log in</a><input type="hidden" name="login_on_off" value=""></li>
+<!-- 로그인창 시작-->
+              		<div style="position:relative;left:0px;right:0px;top:0px;z-index:999;">
+                    <div id="myLayer1" style="background-color:white;position:absolute;z-index:999;width:240px;height:250px;border:1px solid #6b2551;display:none;top:24px;right:0;" onmouseout="Login_pop=false; Login_pop_close();" onmouseover="Login_pop=true;">
+					   <input type="hidden" name="rtn_url" value="">
                        <table width="240" height="250" border="0" align="center" cellpadding="0" cellspacing="0" style="position:relative;border:4px solid #ad5d90;">
-                       
                              <tbody><tr>
-                                <td align="center">
-                                
-                                <table width="150" border="0" cellspacing="0" cellpadding="0" class="mt15">
+                                <td align="center" class="vat">
+                                    <table width="150" border="0" cellspacing="0" cellpadding="0" class="mt15">
                                         <tbody><tr>
                                             <td>
-                                               <input type="text" name="txt_header_mbr_id" class="header_input_id" style="background:url('/images/log_textimg_yourid.gif') no-repeat ;background-position:5px 6px;" onfocus="this.className='header_input_idon';" onkeydown="this.style.backgroundImage='';" onblur="this.className='header_input_id'; if(isEmpty(this.value)){this.style.backgroundImage='url(/images/log_textimg_yourid.gif)'; this.style.backgroundRepeat='no-repeat';};">
+                                                <input type="text" name="txt_header_mbr_id" class="header_input_id" style="background:url('/kr/images/id.gif') no-repeat ;background-position:5px 6px;" onfocus="this.className='header_input_idon';" onkeydown="this.style.backgroundImage='';" onblur="this.className='header_input_id'; if(isEmpty(this.value)){this.style.backgroundImage='url(/kr/images/id.gif)'; this.style.backgroundRepeat='no-repeat';};">
                                                 </td>
                                             <td rowspan="3" align="right"></td>
                                             </tr>
@@ -274,108 +286,49 @@
                                             </tr>
                                         <tr>
                                             <td>
-                                                  <input type="password" name="txt_header_mbr_pw" class="header_input_pw" style="background:url('/images/log_textimg_password.gif') no-repeat ;background-position:5px 6px;" onfocus="this.className='header_input_pwon';" onkeypress="this.style.backgroundImage='';" onblur="this.className='header_input_pw'; if(isEmpty(this.value)){this.style.backgroundImage='url(/images/log_textimg_password.gif)'; this.style.backgroundRepeat='no-repeat';};">
+                                                <input type="password" name="txt_header_mbr_pw" class="header_input_pw" style="background:url('/kr/images/password.gif') no-repeat ;background-position:5px 6px;" onfocus="this.className='header_input_pwon';" onkeydown="this.style.backgroundImage='';" onblur="this.className='header_input_pw'; if(isEmpty(this.value)){this.style.backgroundImage='url(/kr/images/password.gif)'; this.style.backgroundRepeat='no-repeat';};">
                                                 </td>
                                             </tr>
                                      </tbody></table>
 
-												<table width="200" border="0" cellspacing="0" cellpadding="0" class="mt10">
+									<table width="200" border="0" cellspacing="0" cellpadding="0" class="mt10">
+										<tbody><tr>
+											<td class="text11  line120">
+											<input type="checkbox" name="chk_save_id" value="Y" title="ID저장"> 아이디저장</td>
+											<td align="right" class="pr3"><a href="#" class="all_button all_gray all_list" onfocus="this.blur()" onclick="setLogin(); return false;" style="font-size:11px;color:#fff;font-weight:bold;text-decoration:none;">로그인</a>
+											</td>
+									   </tr>
+									</tbody></table>
+                                    <table width="200" border="0" cellspacing="0" cellpadding="0" style="margin:15px 0px 15px 0px;">
+                                        <tbody><tr>
+                                            <td class="tal">잠깐! 현재 법률적, 사실적으로 미혼이 맞으신가요? 아니시라면 로그인을 중단해 주세요. 민형사상 법적 조치의 대상이 될 수 있습니다.</td>
+                                            </tr>
+                                    </tbody></table>
+                                    <table width="200" border="0" cellspacing="0" cellpadding="0" class="mt10">
                                                     <tbody><tr>
-                                                        <td class="text11  line120">
-                                                        <input type="checkbox" name="chk_save_id" value="Y" title="ID저장"> Remember me</td>
-                                                        <td align="right" class="pr3"> <a href="#" class="all_button all_gray all_list" onfocus="this.blur()" onclick="setLogin(); return false;" style="font-size:11px;color:#fff;font-weight:bold;text-decoration:none;">Login</a>
-                                                        </td>
-                                                   </tr>
-                                                </tbody></table>
-												<table width="200" border="0" cellspacing="0" cellpadding="0" style="margin:15px 0px 15px 0px;">
-													<tbody><tr>
-														<td class="tal"><span style="color:#F7710D;">WARNING:</span> <br>You must be legally single to become a Couple.net member. You will be held liable for submitting false informaion.
-														</td>
-													</tr>
-												</tbody></table>
-											   <table width="200" border="0" cellspacing="0" cellpadding="0" class="mt10">
-                                                    <tbody><tr>
-                                                        <td class="text11 blue10 line120 tal"><a href="#" onclick="location.href='/common/find-acount.asp'; return false;">FIND USERNAME/PW</a></td>
-														<td align="right"><a href="javascript:show('myLayer1');"> X CLOSE </a></td></tr>
-												</tbody></table>
+                                                        <td class="text11 blue10 line120 tal"><a href="#" onclick="location.href='/kr/common/idFind.asp'; return false;">아이디/비밀번호 찾기</a></td>
+
+
+                                          <td align="right"><a href="javascript:show('myLayer1');">X 닫기</a></td></tr>
+
+
+
+                                        </tbody></table>
                                     </td>
                             </tr>
-                            
+
                        </tbody></table>
-					 
-
-
-					
                     </div>
-					
- 				 </div>
-                
-              
-					
-					  
+                    </div>
 <!-- 로그인창 끝-->
 
 
-
-</div>
-  </div>
-
-<!-- Header Top End -->
-<!-- Header Menu Start-->
-
-    <div id="box_menu">
-        <div id="main_menu">
-            <ul>
-                
-                <li class="a1">
-                <a href="#" onclick="location.href='/profile/profile-search.asp'; return false;" onkeypress="location.href='/profile/profile-search.asp'; return false;" title="SEARCH"></a>
-                </li>
-
-                <li class="a2">
-                <a href="#" onclick="location.href='/event/match-event.asp'; return false;" onkeypress="location.href='/event/match-event.asp'; return false;" title="EVENT"></a>
-                </li>
-
-                <li class="a3">
-                <a href="#" onclick="location.href='/buy-items/items.asp'; return false;" onkeypress="location.href='/buy-items/items.asp'; return false;" title="SERVICES"></a>
-                </li>
-
-                <li class="a4">
-                <a href="#" onclick="location.href='/date/forum-english.asp'; return false;" onkeypress="location.href='/date/forum-english.asp'; return false;" title="FORUM"></a>
-                </li>
-
-                <li class="a5">
-                <a href="#" onclick="location.href='/qna/services-faq.asp'; return false;" onkeypress="location.href='/qna/services-faq.asp'; return false;" title="Q&amp;A"></a>
-                </li>
-
             </ul>
         </div>
-    
+    </div>
+    <!-- 로고및메뉴// -->
 </div>
-<!-- Header Menu End -->
-
-
-
-
-
-		<div id="header_menu">
-				<ul>
-					<li class="a01"><a href="#" onclick="Login_RtnUrl('/corporate/policy.asp'); return false;">MY MATCHING<span class="fc_2"></span></a></li>
-				
-					<li class="a01"><a href="#" onclick="Login_RtnUrl('/corporate/policy.asp'); return false;">CUPIDING SMS<span class="fc_2"></span></a></li>
-				
-					<li class="a01"><a href="#" onclick="Login_RtnUrl('/corporate/policy.asp'); return false;">MY VISITORS<span class="fc_2"></span></a></li>
-				
-					<li class="a01"><a href="#" onclick="Login_RtnUrl('/corporate/policy.asp'); return false;">VIEWED PROFILES<span class="fc_2"></span></a></li>
-				
-					<li class="a01"><a href="#" onclick="Login_RtnUrl('/corporate/policy.asp'); return false;">MY EVENTS<span class="fc_2"></span></a></li>
-				
-
-					<li class="a01"><a href="#" onclick="Login_RtnUrl('/corporate/policy.asp'); return false;">MY PROFILE</a></li>
-				</ul>
-		</div>
-		</div>
-	
-<iframe src="/Blank.asp" name="if_header" width="0" height="0" frameborder="0"></iframe>
+<!-- 뉴헤더// --><iframe src="/Blank.asp" name="if_header" width="0" height="0" frameborder="0"></iframe>
 <iframe src="" name="if_default" width="0" height="0" frameborder="0"></iframe>
 <script type="text/javascript">
     <!--
@@ -390,37 +343,33 @@
     // -->
     </script>
 
-
-        <div id="contents">
-
-            <div id="box_left" style="height: 3366px;">
-
-<div id="customer_title">CUSTOMER SUPPORT</div>
-<div id="box_left2">
-    <ul>
-        <li class="a1"><a href="/qna/blacklist.asp">Customer Support</a></li>
-        <!--li  class=a09><a href="/corporate/ceo.asp">CUSTOMER SUPPORT</a></li>-->
-        <!--<li  class=a01><a href="/corporate/history.asp">CUSTOMER SUPPORT</a></li>-->
-        <!--<li  class=a05><a href="/corporate/centers.asp">CUSTOMER SUPPORT</a></li>-->
-        <!--<li  class=a02><a href="/corporate/marriage-culture-lab.asp">CUSTOMER SUPPORT</a></li>-->
-        <!--<li  class=a04><a href="/corporate/careers.asp">CUSTOMER SUPPORT</a></li>-->
-        <!--<li  class=a03><a href="/corporate/matching-technologies.asp">CUSTOMER SUPPORT</a></li>-->
-        <li class="a1_on"><a href="/corporate/policy.asp">Privacy Policy</a></li>
-        <li class="a1"><a href="/corporate/term-conditions.asp">Terms of Use</a></li>
-        <li class="a1"><a href="/corporate/user_guide.asp">User Guide</a></li>
-        
-<!--
-        <li  class=a08><a href="/corporate/sitemap.asp"></a></li>
-        <li  class=a03><a href="/corporate/matching-technologies.asp"></a></li>
--->
-    </ul>
 </div>
 
 
-            </div>
-
-            <div id="box_right">
-                
+		<div id="sub_contents">
+			<div id="box_left" style="height: 2948px;"><div id="customer_title">CUSTOMER SUPPORT</div>
+<div id="box_left2">
+    <ul>
+        <li class="a1"><a href="http://www.couple.net/about-us/customer-support.asp">Customer Support</a></li>
+        <!--li  class=a09><a href="http://www.couple.net/about-us/ceo.asp">CUSTOMER SUPPORT</a></li>-->
+        <!--<li  class=a01><a href="http://www.couple.net/about-us/history.asp">CUSTOMER SUPPORT</a></li>-->
+        <!--<li  class=a05><a href="http://www.couple.net/about-us/centers.asp">CUSTOMER SUPPORT</a></li>-->
+        <!--<li  class=a02><a href="http://www.couple.net/about-us/marriage-culture-lab.asp">CUSTOMER SUPPORT</a></li>-->
+        <!--<li  class=a04><a href="http://www.couple.net/about-us/careers.asp">CUSTOMER SUPPORT</a></li>-->
+        <!--<li  class=a03><a href="http://www.couple.net/about-us/matching-technologies.asp">CUSTOMER SUPPORT</a></li>-->
+        <li class="a1_on"><a href="http://www.couple.net/about-us/policy.asp">Privacy Policy</a></li>
+        <li class="a1"><a href="http://www.couple.net/about-us/term-conditions.asp">Terms of Use</a></li>
+        <li class="a1"><a href="http://www.couple.net/about-us/user_guide.asp">User Guide</a></li>
+        
+<!--
+        <li  class=a08><a href="http://www.couple.net/about-us/sitemap.asp"></a></li>
+        <li  class=a03><a href="/about-us/matching-technologies.asp"></a></li>
+-->
+    </ul>
+</div>
+</div>
+			<div id="box_right">
+				
 
 					<div class="sub_main_title">
     					<div class="sub_main_title_left" align="left" style="width:auto;">Privacy Policy</div>
@@ -428,309 +377,300 @@
     				</div>
 
 
-                <!--// Content Start -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mt12">
-                    <tbody><tr>
-                        <td align="center" class="border37 tal pl10 pt10 pb10 pr10">
+				<!--// Content Start -->
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mt12">
+					<tbody><tr>
+						<td align="center" class="border37 tal pl10 pt10 pb10 pr10">
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td>Sunoo, Inc. (hereinafter called “Company”, “Couple.net”, or “SUNOO”) observes the provisions regarding the protection of personal information stipulated by relevant law and regulations, including The Act of Protecting Confidential Information of Communication,<br>
+									The Act of Communication Business, and The Act of Promoting Use of Information &amp; Communication Network and Protecting Information, all of which are to be observed by a provider of information and communication services.<br>
+									The Company adheres to the policy of managing personal information on the basis of relevant law and regulations and makes every effort to protect the rights and interests of its members.<br>
+									The Company’s policy of managing personal information includes the following: <br><br>
+									
+									1. The items of personal information collected and method of collecting<br>
+									2. The purpose of collection and use of personal information<br>
+									3. Co-ownership and providing of personal information<br>
+									4. Management of personal information<br>
+									5. Storage of personal information and usage period<br>
+									6. The process and method of destroying personal information<br>
+									7. The rights of a user and attorney and the method of executing rights<br>
+									8. Matters in relation to installation/operation and rejection of the tool for automatic collection of personal information<br>
+									9. The measure of technical/managerial protection of personal information<br>
+									10. The contact point of a manager and person in charge of managing personal information<br>
+									11. Others<br>
+									12. The obligation of notice<br><br><br>
+									
+									<strong>1. The items of personal information collected and method of collecting</strong><br><br>
+									<ul>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>The items of personal information collected</strong><br><br>
+											First, the Company collects the following personal information upon the initial acceptance of the subscription of a member in order to provide effective client consultation and various services.<br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Full name, personal identification number (registration number for Korean citizens or passport number for non-Koreans), username, password, email address, phone number, location, personal background information, education, occupation, family background, marriage history, photo and etc.</li>
+											</ul><br>
+											Second, the following information may be automatically created and collected through service and business management.<br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">IP address, cookie, date and time of visit, record of service use, record of questionable behavior</li>
+											</ul><br>
+											Third, the following information may be collected only for users of value-added customized service<br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Address, contact point, mobile communication company, account number</li>
+											</ul><br>
+											Fourth, the following information for settlement may be collected through using charged service.<br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Payment by credit card: name of credit card company, credit card number</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Payment by mobile phone: mobile phone number, telecommunication company, approval number of settlement</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Wire transfer: name of bank, bank account number</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Using Gift Certificate: Certificate ID #</li>
+											</ul>
+										</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>The method of collecting personal information</strong><br><br>
+											The Company collects personal information by the following methods<br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Homepage, written form, fax, telephone, bulletin board for consulting, email, subscription for an event</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Provided by an affiliate</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">By an information-collecting tool</li>
+											</ul>
+										</li>
+									</ul><br>
+										
+									<strong>2. The purpose of collection and use of personal information</strong><br><br>
+									<ul>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Adhering to the contract by providing marriage information and settling payment of fee for using information.</strong><br>Providing content, customized service, identification of a member, purchase and payment of fee, collection of fee.</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Managing Members</strong><br>Subject to membership system for using service and restrictive identification system, identification of a member, personal identification, prevention of fraudulent or malicious activity by members (a member whose contract is terminated due to breach of Article 9, Clauses 2 and 3 of the Stipulation of Membership of Sunoo, Inc.), and prevention of unauthorized use, confirmation of intention for admission, restriction on admission number of admissions, confirmation of approval of an attorney (in the case of collecting personal information of a child whose age is less than 14 years), identification of an attorney, keeping records for dispute adjustment, handling complaints, delivering notices.</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Developing new services and marketing</strong><br>Providing marriage information services and lifelong membership system by sharing information related to marriage, such as wedding services, travel services, child care, consulting for home maintenance and, insurance, asset management etc.  Developing new services and providing customized service, providing service according to statistical market research and advertising, confirmation of validity of service, providing event and advertising information and offering an opportunity to participate, examination of website access frequency, collecting statistics of member activity and service use.</li>
+									</ul><br>
+									
+									<strong>3. Sharing and providing of personal information</strong><br><br>
+									<ul>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Use of personal information</strong><br>
+											The Company uses personal information of users only according to the conditions stated in Section 2 (The purpose of collection and use of personal information) and does not use information for any other purposes and does not disclose personal information of users to a third party without prior consent of users, except in the following cases and under the circumstances outlined in Section 3. B (Disclosing personal information to a third party)<br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">If users consent to disclosure of information in advance.</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">If the information is used for Academic Research, Statistics, or Market Research without revealing member identity.</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">If the disclosure is required by the provisions of relevant law and regulations or is required by an investigative agency for the purpose of investigation in accordance with procedure and methods stated in the law and regulations.</li>
+											</ul><br>
+										</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Disclosing personal information to a third party</strong><br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">In order to provide superior service to members, the Company, with user's consent, may disclose personal information to its affiliates.<br>
+													- Sunoo affiliates: <br>
+													- Purpose of disclosing information: Co-providing matchmaking and matching related services<br>
+													- Disclosed personal data: All information provided in registration form except Personal ID number and Password<br>
+													- Personal information retention period: Preserved until termination of user account (circumstances outlined in Section 5. Storage of personal information and retention period)</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">The Company may cancel existing contracts or enter into new contracts with third parties in which case changes may be made to the Company's privacy policy.  Any such changes will be posted on the Company Website and users will be requested to resubmit their consent for disclosure of personal information.</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">In the case that a member no longer wants his/her profile information shared with any third parties, the member can select to close his/her account or request for it to be closed from the Customer Support page (at the bottom of the Couple.net website). Account termination will restrict member's use of Couple.net website and services.</li>
+											</ul>
+										</li>
+									</ul><br>
+									
+									<strong>4. Management of personal information</strong><br>
+									The Company is entrusted with personal information and will do the following to improve Service:<br><br>
+									<ul>
+										<li style="list-style-type:disc;margin:0 0 0 45px">Member will be notified for consent if the Company hires another company to manage personal information.</li>
+										<li style="list-style-type:disc;margin:0 0 0 45px">In case the Company hires another company to manage personal information, the Company will keep records of agreements with the hired company, Privacy Policy of the service provider, Confidentiality Terms, and Liability Terms in both print and digital format.</li>
+									</ul><br>
+									
+									<strong>5. Retention of Personal Information &amp; Duration of Use</strong><br>
+									The company’s policy is to destroy all submitted personal information immediately after the original purpose and use of the personal information has been fulfilled except in the following cases and for the designated time periods:<br><br>
 
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                        <td>Sunoo, Inc. (hereinafter called “Company”, “Couple.net”, or “SUNOO”) observes the provisions regarding the protection of personal<br>
-information stipulated by relevant law and regulations, including The Act of Protecting Confidential Information of Communication, <br>
-The Act of Communication Business, and The Act of Promoting Use of Information &amp; Communication Network and Protecting Information, all of which are to be observed by a provider of information and communication services.  The Company adheres to <br>
-the policy of managing personal information on the basis of relevant law and regulations and makes every effort to protect the rights<br>
-and interests of its members.  The Company’s policy of managing personal information includes the following: <br>
-<br>
-1. The items of personal information collected and method of collecting   <br>
-2. The purpose of collection and use of personal information  <br>
-3. Co-ownership and providing of personal information  <br>
-4. Management of personal information  <br>
-5. Storage of personal information and usage period  <br>
-6. The process and method of destroying personal information  <br>
-7. The rights of a user and attorney and the method of executing rights  <br>
-8. Matters in relation to installation/operation and rejection of the tool for automatic collection of personal information  <br>
-9. The measure of technical/managerial protection of personal information  <br>
-10. The contact point of a manager and person in charge of managing personal information  <br>
-11. Others  <br>
-12. The obligation of notice<br>
-<br>
-<b>1. The items of personal information collected and method of collecting<br>
-A. The items of personal information collected</b><br>
-<br>
-First, the Company collects the following personal information upon the initial acceptance of the subscription of a member in order to provide effective client consultation and various services. <br>
+									<ul>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Information stored according to Couple.net corporate policy</strong><br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Item Stored: <strong>Member Profile</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason for Maintaining: To avoid potential discrepancies and to assist with investigation of policy violation claims</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: One (1) year</li><br>
+												<li></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Item Stored: <strong>Report of offense/violation record</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason Stored: Prevention of policy violations; Prevention of re-registration by members who have misused the service</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: Five (5) years</li><br>
+												<li></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Item Stored: <strong>Documents submitted as proof of marital status, education, and employment</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason Stored: To resolve customer disputes that may arise</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: Five (5) years</li>
+											</ul>
+										</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Cases for information retention and related laws</strong><br>
+											In accordance with consumer protection regulations for electronic transactions and other related laws, in certain situations the company is required to store some personal information for designated periods.In such cases the company retains such information solely for the purposes and periods outlined below.<br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px"><strong>Login Records</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason Stored: Communications Secrecy Act of Republic of Korea</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: Three (3) months</li><br>
+												<li></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px"><strong>Records related to identity confirmation</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason Stored: Regulations regarding the Promotion of internet use and information protection of Republic of Korea</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: Six (6) months</li><br>
+												<li></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px"><strong>Records regarding consumer complaints and disputes</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason Stored: Regulations regarding electronic transaction-related security of Republic of Korea</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: Three (3) years</li><br>
+												<li></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px"><strong>Records regarding cancellation of contract or membership</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason Stored: Regulations regarding electronic transaction-related security of Republic of Korea</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: Five (5) years</li><br>
+												<li></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px"><strong>Records regarding provision of billing, sales and monetary transaction records</strong></li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Reason Stored: Regulations regarding electronic transaction-related security of Republic of Korea</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Duration of Storage: Five (5) years </li>
+											</ul>
+										</li>
+									</ul><br>
+									
+									<strong>6. Methods &amp; procedure for destruction of personal information</strong><br>
+									As a general rule the company destroys all personal information automatically once determined to have served its purpose and no longer be necessary or when the designated period of retention/use has expired.<br><br>
+									<ul>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Disposal procedure</strong><br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Only in order to comply with related laws or in accordance with company policy, information that members enter at the time of registration is destroyed when it has reached the end of its necessity or after the preset period of storage has ended (see information storage and usage policy).</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">The aforementioned Personal Information will not be used for purposes other than those stipulated here.</li>
+											</ul>
+										</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Disposal method</strong><br>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Printed personal information is destroyed either by shredding or incineration, and personal information stored in digital/electronic/online form is permanently deleted.</li>
+											</ul>
+										</li>
+									</ul><br>
+									
+									<strong>7. The rights of a user and attorney and the method of executing rights</strong><br>
+									<ul>
+										<li style="list-style-type:disc;margin:0 0 0 45px">A user and an attorney may make reference to registered personal information of a user or a child whose age is less than 14 years or modify it at any time and may request cancellation of a membership.</li>
+										<li style="list-style-type:disc;margin:0 0 0 45px">In the case of reference and modification of personal information of a user or a child whose age is less than 14 years, a member may request a “modification of personal information (or modification of information of a member)“ and in the case of cancellation of a membership (retraction of approval), a member may request a “withdrawal of a member“ through email or other written form, and the withdrawal is permitted after the process of identification of a member.</li>
+										<li style="list-style-type:disc;margin:0 0 0 45px">If a member communicates with a manager of personal information through written document, telephone or email, a manager will respond to the member and handle the situation immediately.</li>
+										<li style="list-style-type:disc;margin:0 0 0 45px">If a user requests correction of an error of personal information, such personal information shall not be used or provided to other members until the completion of correction. If personal information containing an error has been provided to a third party, correction will be made immediately by giving notice to that party.</li>
+										<li style="list-style-type:disc;margin:0 0 0 45px">The Company handles personal information cancellation or removal by the request of a user or the authorized party in accordance with the provisions stated clearly in Section 5 (Storage of personal information and usage period) and does not use or share the information for any other purposes.</li>
+									</ul><br>
+									
+									<strong>8. The matters in relation to installation/operation and disabling of cookies for automatic collection of personal information</strong><br>
+									The Company utilizes “cookies” which records information of users from time to time for providing customized service to users. A cookie is information which a server (HTTP) for operating websites sends to the computer browser of a user and which is also stored in the hard drive of a computer.<br><br>
+									<ul>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>The purpose of using cookies</strong></li>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">Cookies is used to provide optimal tracking information to users by monitoring users’ visits to each service and website and utilizing information such as type, popular keyword search, whether security connection or not, news compilation, number of users.</li>
+											</ul>
+										
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>The installation/operation and rejection of the cookie</strong></li>
+											<ul>
+												<li style="list-style-type:disc;margin:0 0 0 20px">A user has an option for installation of cookies. Therefore, a user may accept all cookies or go through verification whenever the cookie is preserved, or reject preservation of all cookies by setting up an option in their browser.</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">To reject setting up of cookies, a member may accept all cookies or go through verification whenever the cookie is preserved, or reject preservation of all cookies by selecting an option in their browser.</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">The method of setting up (i.e. internet explorer): Tool at the top of Web Browser &gt; Internet Option &gt; Personal Information</li>
+												<li style="list-style-type:disc;margin:0 0 0 20px">However, if a user does not set up cookies, it may be difficult to use some services on our website (couple.net).</li>
+											</ul>
+										
+									</ul><br>
+									
+									<strong>9. The measure of technical/managerial protection of personal information</strong><br>
+									The Company considers technical/managerial measures as follows for ensuring safety in managing personal information of users for the purpose of preventing identity theft, disclosure, forgery, fraud, or damage of personal information.<br><br>
+									<ul>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Encryption of password</strong><br>
+										A member's password is saved and managed so that only that individual member knows the password and no one else can verify or modify personal information except for that member.</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>The measure for preventing hacking</strong><br>
+										The Company makes every effort to prevent the disclosure of personal information of a member via hacking or computer virus. The company makes back-up files of data periodically to prevent damage of personal information and to prevent personal information and data of users from being disclosed or damaged by utilizing up-to-date anti-virus programs, allowing personal information to be transmitted safely in the network through encoded encryption. It also controls unauthorized access from outside with a blocking system against invasion and tries to use every technical tool for guaranteeing system security.</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Minimizing handling person and training</strong><br>
+										There is one person in charge of handling and managing members’ personal information, and the password is granted separately and renewed periodically for handling, and the person in charge of handling is trained periodically to enforce the policy of managing personal information.</li>
+										<li style="list-style-type:upper-alpha;margin:0 10px 10px 25px;text-align:justify;"><strong>Operation of special team for protecting personal information</strong><br>
+										The Company tries to immediately correct problems discovered by investigation of the special team for protecting personal information about execution of the policy of managing personal information and enforcement by the person in charge. However, the Company assumes no responsibility for problems arising out of the disclosure of personal information such as ID, password, or ID number due to the negligence of a user or internet trouble.</li>
+									</ul><br>
+									
+									<strong>10. The contact point of a manager and person in charge of managing personal information</strong><br>
+									You may address all inquiries/complaints/issues in relation to personal information arising from using services of the Company to the person in charge or the department in charge. The Company will respond to users as promptly and as adequately as possible.<br><br>
+									<ul>
+										<li style="list-style-type:disc;margin:0 0 0 45px">Person in charge of personal information:<br>
+											Name: James Lee<br>
+											Phone: 82-2-2022-2000 (Korea)<br>
+											Email: <a href="mailto:privacy@sunoo.com">privacy@couple.net</a></li>
+										<li></li>
+										<li style="list-style-type:disc;margin:0 0 0 45px">Department in charge of personal information: <br>
+										Dept.:  IT Team<br>
+										Phone: 82-2-2022-2124 (Korea)<br>
+										Email: webmaster@couple.net</li>
+									</ul><br>
+									
+									<strong>11. Others</strong><br>
+									Please be advised that this “Policy of Managing Personal Information” does not apply to the collection of personal information through the website linked to Sunoo, Inc.<br><br>
+									
+									<strong>12. Obligation of notice</strong><br>
+									Any additions, deletions, or amendments to the contents of this policy of managing personal information shall be announced on the Company Website and also sent to users via email before the changes take effect.<br><br>
+									(Last updated as of  November. 28, 2011)</td>
+								</tr>
+								<tr>
+									<td class="gray4 b tal pt10"><a target="_blank" onclick="window.open('/about-us/policy.html','popup','width=685,height=600,toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,left=50,top=50')" style="cursor:hand;">[View Previous Privacy Policy Version]</a></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>				
+				<!-- Content End //-->
+			</div>
+		</div>
+		
 
-○ Full name, personal identification number (registration number for Korean citizens or passport number for foreigners), username, password, security question and answer, email address, email subscription acceptance, phone number, address, personal background information, education, occupation, family background, marriage history, etc.   <br><br> 
-Second, the following information may be automatically created and collected through service and business management.<br>
+	<!-- box_footer start -->
+	<style>
+		#box_footer  {height:160px;  position:relative; clear:both; margin:0px auto; padding:7px 0px 0px 0px; width:100%; height:74px; border-top:1px solid #cecece;  /* background:#6d6d6d; border:1px solid #ccc;*/ }
+		#box_footer1 { position:relative; margin:0px 0px 0px 0px auto; padding: 0px 0px 0px 0px; width:100%; text-align:center; }
+		#box_footer2 { position:relative; margin:0 auto; padding:5px; list-style:none; height:15px; width:540px; text-align:center; }
+		#box_footer2 ul { margin:0; padding:0; width:100%;}
+		#box_footer2 li { display: inline; text-align:center; }
+		#box_footer2 li span {padding-right:8px; font-weight: bold; text-align:center; }
+		#box_footer2 li.a01 a {padding:0px 5px 0px 5px; border-right:1px solid ; }
+		#box_footer2 li.a01 a:hover {	 }
+		#box_footer2 li.a02 a { padding-left:5px; }
+		#box_footer2 li.a02 a:hover {	}
+		#box_footer3 { position:relative; margin:0px 0px 0px 0px auto; padding: 0px 0px 0px 0px; width:100%; text-align:center;}
+	</style>
+	
+	<div id="box_footer">
+		<div id="box_footer1">
+			<div id="box_footer2" class="linker">
+				<p>
+					</p><ul>
+					<!--
+						<li class="a01"><a href="http://www.couple.net/about-us/about.asp">About Us</a></li>
+						<li class="a01"><a href="http://www.couple.net/about-us/centers.asp">Our Branch Offices</a></li>-->
 
-○  IP address, cookie, date and time of visit, record of service use, record of questionable behavior    <br>
-<br>
-Third, the following information may be collected only for users of value-added customized service      <br>
-
-○ Address, contact point, mobile communication company, account number    <br><br>
-Fourth, the following information for settlement may be collected through using charged service.      <br>
-
-○ Payment by credit card: name of credit card company, credit card number      <br>
-
-○ Payment by mobile phone: mobile phone number, telecommunication company, approval number of settlement      <br>
-○ Wire transfer: name of bank, bank account number      <br>
-
-○ Using Gift Certificate: Certificate ID #  <br>
-<br>
-<b>B. The method of collecting personal information<br>
-The Company collects personal information by the following methods:</b><br>
-<br>
-○ Homepage, written form, fax, telephone, bulletin board for consulting, email, subscription for an event      <br>
-<br>
-○ Provided by an affiliate      <br>
-<br>
-○ By an information-collecting tool <br>
-<br>
-
-<b>2. The purpose of collection and use of personal information  <br>
-A. Adhering to the contract by providing marriage information and settling payment of fee for using information.</b><br>
-Providing content, customized service, identification of a member, purchase and payment of fee, collection of fee.<br>
-<br>
-<b>B. Managing Members</b><br>
-Subject to membership system for using service and restrictive identification system, identification of a member, personal identification, prevention of fraudulent or malicious activity by members (a member whose contract is terminated due to breach of Article 9, Clauses 2 and 3 of the Stipulation of Membership of Sunoo, Inc.), and prevention of unauthorized use, confirmation of intention for admission, restriction on admission number of admissions, confirmation of approval of an attorney (in the case of collecting personal information of a child whose age is less than 14 years), identification of an attorney, keeping records for dispute adjustment, handling complaints, delivering notices.  <br>
-<br>
-<b>C. Developing new services and marketing</b><br>
-Providing marriage information services and lifelong membership system by sharing information related to marriage, such as wedding services, travel services, child care, consulting for home maintenance and, insurance, asset management etc.  Developing new services and providing customized service, providing service according to statistical market research and advertising, confirmation of validity of service, providing event and advertising information and offering an opportunity to participate, examination of website access frequency, collecting statistics of member activity and service use. <br>
-<br>
-<b>3. Sharing and providing of personal information   <br>
-A. Use of Personal Information</b><br>
-The Company uses personal information of users only according to the conditions stated in Section 2 (The purpose of collection and use of personal information) and does not use information for any other purposes and does not disclose personal information of users to a third party without prior consent of users, except in the following cases and under the circumstances outlined in Section 3.B (Disclosing Personal Information to a Third Party):<br>
-<br>
-○ If users consent to disclosure of information in advance. <br>
-<br>
-○ If the information is used for Academic Research, Statistics, or Market Research without revealing member identity. <br>
-<br>
-○ If the disclosure is required by the provisions of relevant law and regulations or is required by an investigative agency for the purpose of investigation in accordance with procedure and methods stated in the law and regulations.  <br>
-<br>
-<b>B. Disclosing Personal Information to a Third Party</b><br>
-○ In order to provide superior service to members, the Company, with user's consent, may disclose personal information to its partner or affiliate companies.<br>
-- Sunoo affiliate: Planned Population Federation of Korea (match.kr)<br>
-- Purpose of disclosing information: Co-providing online matching services<br>
-- Disclosed personal data: All information provided in registration form, Username, Password<br>
-- Personal information retention period: Preserved until termination of user account (circumstances outlined in Section 5. Storage of personal information and retention period) <br>
-<br>
-○ The Company may cancel existing contracts or enter into new contracts with third parties in which case changes may be made to the Company's privacy policy.  Any such changes will be posted on the Company Website and users will be requested to resubmit their consent for disclosure of personal information.  <br>
-○ In case the user does not agree with the third party's privacy policy, the user may choose not to have their profile information shared. This will not prevent the user from becoming a Couple.net member or restrict their use of services.<br>
-<br>
-<b>4. Management of personal information</b><br>
-The Company is entrusted with personal information and will do the following to improve Service:<br>
-○ Member will be notified for consent if the Company hires another company to manage personal information. <br>
-○ In case the Company hires another company to manage personal information, the Company will keep records of agreements with the hired company, Privacy Policy of the service provider, Confidentiality Terms, and Liability Terms in both print and digital format.<br>
-<br>
-<b>5. Retention of Personal Information &amp; Duration of Use</b><br>
-The company’s policy is to destroy all submitted personal information immediately after the original purpose and use of the personal information has been fulfilled except in the following cases and for the designated time periods:<br>
-<br>
-<strong>A. Information stored according to Couple.net corporate policy</strong><br>
-○ Item Stored: Member Profile<br>
-
-○ Reason for Maintaining: To avoid potential discrepancies and to assist with investigation of policy violation claims<br>
-
-○ Duration of Storage: One (1) year<br><br>
-
-○ Item Stored: Report of offense/violation record<br>
-
-○ Reason Stored: Prevention of policy violations; Prevention of re-registration by members who have misused the service<br>
-
-○ Duration of Storage: Five (5) years<br><br>
-
-○ Item Stored: Documents submitted as proof of marital status, education, and employment<br>
-
-○ Reason Stored: To resolve customer disputes that may arise<br>
-
-○ Duration of Storage: Five (5) years<br>
-<br>
-<strong>B. Cases for Information Retention and Related Laws</strong><br>
-In accordance with consumer protection regulations for electronic transactions and other related laws, in certain situations the company is required to store some personal information for designated periods.In such cases the company retains such information solely for the purposes and periods outlined below.<br>
-<br>
-- Login Records<br>
-○ Reason Stored: Communications Secrecy Act<br>
-
-○ Duration of Storage: Three (3) months<br><br>
-
-- Records related to identity confirmation<br>
-
-○ Reason Stored: Regulations regarding the Promotion of internet use and information protection<br>
-
-○ Duration of Storage: Six (6) months<br><br>
-
-- Records regarding consumer complaints and disputes<br>
-
-○ Reason Stored: Regulations regarding electronic transaction-related security<br>
-
-○ Duration of Storage: Three (3) years<br><br>
-
-- Records regarding cancellation of contract or membership<br>
-
-○ Reason Stored: Regulations regarding electronic transaction-related security<br>
-
-○ Duration of Storage: Five (5) years<br><br>
-- Records regarding provision of billing, sales and monetary transaction  records<br>
-
-○ Reason Stored: Regulations regarding electronic transaction-related security<br>
-
-○ Duration of Storage: Five (5) years <br>
-<br>
-<b>6. Methods &amp; Procedure for Destruction of Personal Information</b><br>
-As a general rule the company destroys all personal information automatically once determined to have served its purpose and no longer be necessary or when the designated period of retention/use has expired.<br>
-<br>
-<b>A. Disposal procedure</b><br>
-Only in order to comply with related laws or in accordance with company policy, information that members enter at the time of registration is destroyed when it has reached the end of its necessity or after the preset period of storage has ended (see information storage and usage policy).<br>
-<strong>The aforementioned Personal Information will not be used for purposes other than those stipulated here.</strong> <br>
-<br>
-<strong>B. Disposal method</strong><br>
-Printed personal information is destroyed either by shredding or incineration, and personal information stored in digital/electronic/online form is permanently deleted. <br>
-<br>
-<b>7. The rights of a user and attorney and the method of executing rights</b><br>
- ○ A user and an attorney may make reference to registered personal information of a user or a child whose age is less than 14 years or modify it at any time and may request cancellation of a membership. <br>
-<br>
-○ In the case of reference and modification of personal information of a user or a child whose age is less than 14 years, a member may request a “modification of personal information (or modification of information of a member)“ and in the case of cancellation of a membership (retraction of approval), a member may request a “withdrawal of a member“ through email or other written form, and the withdrawal is permitted after the process of identification of a member. <br>
-<br>
-○ If a member communicates with a manager of personal information through written document, telephone or email, a manager will respond to the member and handle the situation immediately. <br>
-<br>
-○ If a user requests correction of an error of personal information, such personal information shall not be used or provided to other members until the completion of correction. If personal information containing an error has been provided to a third party, correction will be made immediately by giving notice to that party.   <br>
-<br>
-○ The Company handles personal information cancellation or removal by the request of a user or the authorized party in accordance with the provisions stated clearly in Section 5 (Storage of personal information and usage period) and does not use or share the information for any other purposes. <br>
-<br>
-<b>8. The matters in relation to installation/operation and disabling of cookies for automatic collection of personal information</b><br>
-The Company utilizes “cookies” which records information of users from time to time for providing customized service to users. A cookie is information which a server (HTTP) for operating websites sends to the computer browser of a user and which is also stored in the hard drive of a computer.    <br>
-<br>
-<b>A. The purpose of using cookies</b><br>
-Cookies is used to provide optimal tracking information to users by monitoring users’ visits to each service and website and utilizing information such as type, popular keyword search, whether security connection or not, news compilation, number of users.   <br>
-<br>
-<b>B. The installation/operation and rejection of the cookie</b><br>
-<br>
-○ A user has an option for installation of cookies.  Therefore, a user may accept all cookies or go through verification whenever the cookie is preserved, or reject preservation of all cookies by setting up an option in their browser. <br>
-<br>
-○ To reject setting up of cookies, a member may accept all cookies or go through verification whenever the cookie is preserved, or reject preservation of all cookies by selecting an option in their browser.  <br>
-<br>
-○ The method of setting up (i.e. internet explorer): Tool at the top of Web Browser &gt; Internet Option &gt; Personal Information <br>
-<br>
-○ However, if a user does not set up cookies, it may be difficult to use some services on our website (couple.net). <br>
-<br>
-<b>9. The measure of technical/managerial protection of personal information</b><br>
-The Company considers technical/managerial measures as follows for ensuring safety in managing personal information of users for the purpose of preventing identity theft, disclosure, forgery, fraud, or damage of personal information.     <br>
-<br>
-<b>A. Encryption of Password</b><br>
-A member's password is saved and managed so that only that individual member knows the password and no one else can verify or modify personal information except for that member.<br>
-<br>
-<b>B. The measure for preventing hacking</b><br>
-The Company makes every effort to prevent the disclosure of personal information of a member via hacking or computer virus. The company makes back-up files of data periodically to prevent damage of personal information and to prevent personal information and data of users from being disclosed or damaged by utilizing up-to-date anti-virus programs, allowing personal information to be transmitted safely in the network through encoded encryption. It also controls unauthorized access from outside with a blocking system against invasion and tries to use every technical tool for guaranteeing system security.<br>
-<br>
-<b>C. Minimizing handling person and training</b><br>
-There is one person in charge of handling and managing members’ personal information, and the password is granted separately and renewed periodically for handling, and the person in charge of handling is trained periodically to enforce the policy of managing personal information.  <br>
-<br>
-<b>D. Operation of special team for protecting personal information</b><br>
-The Company tries to immediately correct problems discovered by investigation of the special team for protecting personal information about execution of the policy of managing personal information and enforcement by the person in charge. However, the Company assumes no responsibility for problems arising out of the disclosure of personal information such as ID, password, or ID number due to the negligence of a user or internet trouble. <br>
-<br>
-<b>10. The contact point of a manager and person in charge of managing personal information</b><br>
-You may address all inquiries/complaints/issues in relation to personal information arising from using services of the Company to the person in charge or the department in charge. The Company will respond to users as promptly and as adequately as possible.   <br>
-<br>
-Person in charge of personal information:
-<br>
- Name: James Lee<br>
- Phone: 82-2-2022-2000 (Korea)<br>
-Email: <a href="mailto:privacy@sunoo.com">privacy@sunoo.com</a><br>
-<br>
-Department in charge of personal information: <br>
-Dept.:  IT Team<br>
-Phone: 82-2-2022-2124 (Korea)<br>
-Email: webmaster@sunoo.com  <br>
-<br>
-<b>11. Others</b><br>
-Please be advised that this “Policy of Managing Personal Information” does not apply to the collection of personal information through the website linked to Sunoo, Inc.   <br>
-<br>
-<b>12. Obligation of notice</b><br>
-Any additions, deletions, or amendments to the contents of this policy of managing personal information shall be announced on the Company Website and also sent to users via email before the changes take effect.<br>
-<br>
-( Last updated as of  January 20, 2011)</td>
-                    </tr>
-                    <tr>
-                    	<td class="gray4 b tal pt10"><a target="_blank" onclick="window.open('/corporate/policy.html','popup','width=685,height=600,toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,left=50,top=50')" style="cursor:hand;">[View Previous Privacy Policy Version]</a></td>
-                    </tr>
-                </tbody></table>
-                </td>
-                    </tr>
-                </tbody></table>
+						<li class="a01 "><a href="http://www.couple.net/about-us/policy.asp" style="color:#0a3287">Privacy Policy</a></li>
+						<li class="a01 "><a href="http://www.couple.net/about-us/term-conditions.asp" style="color:#0a3287">Terms of Use</a></li>
+						<!--<li class="a01 "><a href="http://www.couple.net/about-us/user_guide.asp" style="color:#0a3287">User Guide  </a></li>-->
+						<li class="a02 "><a href="http://www.couple.net/about-us/customer-support.asp" style="color:#0a3287">Customer Support</a></li>
+	<!--
+						<li class="a02"><a href="http://www.couple.net/about-us/sitemap.asp">Sitemap</a></li>
+						<li class="a01"><a href="#" onclick="location.href='http://www.couple.net/about-us/ceo.asp'; return false;">CEO's Page </a></li>
+						<li class="a01"><a href="#" onclick="location.href='http://www.couple.net/about-us/history.asp'; return false;">History</a></li>
+						<li class="a01"><a href="#" onclick="location.href='http://www.couple.net/about-us/marriage-culture-lab.asp'; return false;">R&D Division</a></li>
+						<li class="a01"><a href="#" onclick="location.href='http://www.couple.net/about-us/careers.asp'; return false;">Jobs</a></li>
+						<li class="a01"><a href="#" onclick="location.href='http://www.couple.net/about-us/matching-technologies.asp'; return false;">Patented Technologies</a></li>
+	-->
+					</ul>
+				<p></p>
+			</div>
+			<p class="linker">© 1991-2012 Couple.net | <a href="mailto:webmaster@couple.net" style="color:#0a3287">webmaster@couple.net</a></p>
+		</div>
+		<!--- akamai SIgn -->
+			<!--div id="box_footer3" style="background:#ffffff; " >
+			<a href="#" onclick="popVerisign(); return false;">
+			<img src="/images/getseal.gif" alt="verisign" /> </a>
+			<a href="http://www.akamai.com/" target="_blank" >
+			<span style="margin-bottom:10px; padding-left:13px;">
+			<img src="/images/akamai.gif" alt="akamai" /></span></a>
+		<!--
+			<a href="http://twitter.com/matchmakingfirm" target="_blank">
+			<span style="margin-bottom:10px; padding-left:13px;">
+			<img src="/images/banner_twitter.gif" alt="twitter" /></span></a>
+			<a href="http://www.facebook.com/matchmakingfirm" target="_blank" >             
+			<span style="margin-bottom:10px; padding-left:13px;">
+			<img src="/images/banner_facebook.gif" alt="facebook" /></span></a>
+			</div>-->
+		<!--akamai SIgn --->
+	</div>
 
 
-                <!-- Content End //-->
 
-            </div>
-
-        </div>
-
-<!-- box_footer start -->
-<style>
-    #box_footer  { position:relative; clear:both; margin:0px auto; padding:7px 0px 0px 0px; width:100%; height:74px; border-top:1px solid #cecece;/* background:#6d6d6d; border:1px solid #ccc;*/ }
-    #box_footer1 { position:relative; margin:0px 0px 0px 0px auto; padding: 0px 0px 0px 0px; width:100%; text-align:center; }
-    #box_footer2 { position:relative; margin:0 auto; padding:5px; list-style:none; height:15px; width:540px; text-align:center; }
-    #box_footer2 ul { margin:0; padding:0; width:100%;}
-    #box_footer2 li { display: inline; text-align:center; }
-    #box_footer2 li span {padding-right:8px; font-weight: bold; text-align:center; }
-    #box_footer2 li.a01 a {padding:0px 5px 0px 5px; border-right:1px solid ; }
-    #box_footer2 li.a01 a:hover {	 }
-    #box_footer2 li.a02 a { padding-left:5px; }
-    #box_footer2 li.a02 a:hover {	}
-	#box_footer3 { position:relative; margin:0px 0px 0px 0px auto; padding: 0px 0px 0px 0px; width:100%; text-align:center;}
-</style>
-
-<div id="box_footer">
-    <div id="box_footer1">
-        <div id="box_footer2" class="linker">
-            <p>
-                </p><ul>
-                    
-<!--
-					<li class="a01"><a href="/corporate/about.asp">About Us</a></li>
-
-                    <li class="a01"><a href="/corporate/centers.asp">Our Branch Offices</a></li>-->
-
-                    <li class="a01 "><a href="/corporate/policy.asp" style="color:#0a3287">Privacy Policy</a></li>
-                    <li class="a01 "><a href="/corporate/term-conditions.asp" style="color:#0a3287">Terms of Use</a></li>
-                    <!--<li class="a01 "><a href="/corporate/user_guide.asp" style="color:#0a3287">User Guide  </a></li>-->
-                    <li class="a02 "><a href="/qna/blacklist.asp" style="color:#0a3287">Customer Support</a></li>
-<!--
-                    <li class="a02"><a href="/corporate/sitemap.asp">Sitemap</a></li>
-                    <li class="a01"><a href="#" onclick="location.href='/corporate/ceo.asp'; return false;">CEO's Page </a></li>
-                    <li class="a01"><a href="#" onclick="location.href='/corporate/history.asp'; return false;">History</a></li>
-                    <li class="a01"><a href="#" onclick="location.href='/corporate/marriage-culture-lab.asp'; return false;">R&D Division</a></li>
-                    <li class="a01"><a href="#" onclick="location.href='/corporate/careers.asp'; return false;">Jobs</a></li>
-                    <li class="a01"><a href="#" onclick="location.href='/corporate/matching-technologies.asp'; return false;">Patented Technologies</a></li>
--->
-
-                </ul>
-            <p></p>
-        </div>
-        <p class="linker">© 1991-2011 Couple.net | <a href="mailto:webmaster@couple.net" style="color:#0a3287">webmaster@couple.net</a></p>
-    </div>
-<!--- akamai SIgn -->
-   		 <div id="box_footer3">
-            <a href="#" onclick="popVerisign(); return false;">
-            <img src="/images/getseal.gif" alt="verisign"> </a>
-            <a href="http://www.akamai.com/" target="_blank">
-            <span style="margin-bottom:10px; padding-left:13px;">
-            <img src="/images/akamai.gif" alt="akamai"></span></a>
-                    <!--         
-            <a href="http://twitter.com/matchmakingfirm" target="_blank" >      
-            <span style="margin-bottom:10px; padding-left:13px;">
-            <img src="/images/banner_twitter.gif" alt="twitter" /></span></a>
-            
-            <a href="http://www.facebook.com/matchmakingfirm" target="_blank" >             
-            <span style="margin-bottom:10px; padding-left:13px;">
-            <img src="/images/banner_facebook.gif" alt="facebook" /></span></a>
-        
-        </div>-->
-         <!--akamai SIgn --->
-</div>
 
 <!-- ���� �����ε� ó�� �� �˾� ���̾� ó���κ� -->
 <div id="main_blind"></div>
 <div id="main_box">
-    <iframe name="ifr_main_box" src="/kr/Blank.asp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
+	<iframe name="ifr_main_box" src="/kr/Blank.asp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
 </div>
 <!-- ���� �����ε� ó�� �� �˾� ���̾� ó���κ� //-->
 
@@ -747,6 +687,7 @@ Any additions, deletions, or amendments to the contents of this policy of managi
 </script>
 <!-- box_footer end -->
 
+
 <!-- google analytics start -->
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -758,156 +699,25 @@ Any additions, deletions, or amendments to the contents of this policy of managi
         pageTracker._trackPageview();
     } catch(err) {}
 </script>
-<!-- google analytics end -->
 
+<script type="text/javascript">
+  //���α� �м��� ���� ��ô�ڵ� ��ġ 2012-09-12
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33304217-1']);
+  _gaq.push(['_trackPageview']);
 
-<!-- AceCounter Log Gathering Script V.70.2008090201 -->
-<script language="javascript">
-if( typeof HL_GUL == 'undefined' ){
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-var HL_GUL = 'ngc9.nsm-corp.com';var HL_GPT='80'; var _AIMG = new Image(); var _bn=navigator.appName; var _PR = location.protocol=="https:"?"https://"+HL_GUL:"http://"+HL_GUL+":"+HL_GPT;if( _bn.indexOf("Netscape") > -1 || _bn=="Mozilla"){ setTimeout("_AIMG.src = _PR+'/?cookie';",1); } else{ _AIMG.src = _PR+'/?cookie'; };
-var _JV="AMZ2008090201";//script Version
-var HL_GCD = 'CF1B3559695088'; // gcode
-var _UD='undefined';var _UN='unknown';
-function _IX(s,t){return s.indexOf(t)}
-function _GV(b,a,c,d){ var f = b.split(c);for(var i=0;i<f.length; i++){ if( _IX(f[i],(a+d))==0) return f[i].substring(_IX(f[i],(a+d))+(a.length+d.length),f[i].length); }	return ''; }
-function _XV(b,a,c,d,e){ var f = b.split(c);var g='';for(var i=0;i<f.length; i++){ if( _IX(f[i],(a+d))==0){ try{eval(e+"=f[i].substring(_IX(f[i],(a+d))+(a.length+d.length),f[i].length);");}catch(_e){}; continue;}else{ if(g) g+= '&'; g+= f[i];}; } return g;};
-function _NOB(a){return (a!=_UD&&a>0)?new Object(a):new Object()}
-function _NIM(){return new Image()}
-function _IL(a){return a!=_UD?a.length:0}
-function _VF(a,b){return a!=_UD&&(typeof a==b)?1:0}
-function _LST(a,b){if(_IX(a,b)) a=a.substring(0,_IL(a));return a}
-function _CST(a,b){if(_IX(a,b)>0) a=a.substring(_IX(a,b)+_IL(b),_IL(a));return a}
-function _UL(a){a=_LST(a,'#');a=_CST(a,'://');return a}
-function _AA(a){return new Array(a?a:0)}
-function _IDV(a){return (typeof a!=_UD)?1:0}
-if(!_IDV(HL_GUL)) var HL_GUL ='ngc9.nsm-corp.com'; 
-if(!_IDV(HL_GPT)) var HL_GPT ='80';
-_DC = document.cookie ;
-function _AGC(nm) { var cn = nm + "="; var nl = cn.length; var cl = _DC.length; var i = 0; while ( i < cl ) { var j = i + nl; if ( _DC.substring( i, j ) == cn ){ var val = _DC.indexOf(";", j ); if ( val == -1 ) val = _DC.length; return unescape(_DC.substring(j, val)); }; i = _DC.indexOf(" ", i ) + 1; if ( i == 0 ) break; } return ''; }
-function _ASC( nm, val, exp ){var expd = new Date(); if ( exp ){ expd.setTime( expd.getTime() + ( exp * 1000 )); document.cookie = nm+"="+ escape(val) + "; expires="+ expd.toGMTString() +"; path="; }else{ document.cookie = nm + "=" + escape(val);};}
-function SetUID() {     var newid = ''; var d = new Date(); var t = Math.floor(d.getTime()/1000); newid = 'UID-' + t.toString(16).toUpperCase(); for ( var i = 0; i < 16; i++ ){ var n = Math.floor(Math.random() * 16).toString(16).toUpperCase(); newid += n; }       return newid; }
-var _FCV = _AGC("ACEFCID"); if ( !_FCV ) { _FCV = SetUID(); _ASC( "ACEFCID", _FCV , 86400 * 30 * 12 ); _FCV=_AGC("ACEFCID");}
-var _AIO = _NIM(); var _AIU = _NIM();  var _AIW = _NIM();  var _AIX = _NIM();  var _AIB = _NIM();  var __hdki_xit = _NIM();
-var _gX='/?xuid='+HL_GCD+'&sv='+_JV,_gF='/?fuid='+HL_GCD+'&sv='+_JV,_gU='/?uid='+HL_GCD+'&sv='+_JV+"&FCV="+_FCV,_gE='/?euid='+HL_GCD+'&sv='+_JV,_gW='/?wuid='+HL_GCD+'&sv='+_JV,_gO='/?ouid='+HL_GCD+'&sv='+_JV,_gB='/?buid='+HL_GCD+'&sv='+_JV;
-
-var _d=_rf=_fwd=_arg=_xrg=_av=_bv=_rl=_ak=_xrl=_cd=_cu=_bz='',_sv=11,_tz=20,_ja=_sc=_ul=_ua=_UA=_os=_vs=_UN,_je='n',_bR='blockedReferrer';
-if(!_IDV(_CODE)) var _CODE = '' ;
-_tz = Math.floor((new Date()).getTimezoneOffset()/60) + 29 ;if( _tz > 24 ) _tz = _tz - 24 ;
-// Javascript Variables
-if(!_IDV(_amt)) var _amt=0 ;if(!_IDV(_pk)) var _pk='' ;if(!_IDV(_pd)) var _pd='';if(!_IDV(_ct)) var _ct='';
-if(!_IDV(_ll)) var _ll='';if(!_IDV(_ag)) var _ag=0;	if(!_IDV(_id)) var _id='' ;if(!_IDV(_mr)) var _mr = _UN;
-if(!_IDV(_gd)) var _gd=_UN;if(!_IDV(_jn)) var _jn='';if(!_IDV(_jid)) var _jid='';if(!_IDV(_skey)) var _skey='';
-if(!_IDV(_ud1)) var _ud1='';if(!_IDV(_ud2)) var _ud2='';if(!_IDV(_ud3)) var _ud3='';
-if( !_ag ){ _ag = 0 ; }else{ _ag = parseInt(_ag); }
-if( _ag < 0 || _ag > 150 ){ _ag = 0; }
-if( _gd != 'man' && _gd != 'woman' ){ _gd =_UN;};if( _mr != 'married' && _mr != 'single' ){ _mr =_UN;};if( _jn != 'join' && _jn != 'withdraw' ){ _jn ='';};
-if( _ag > 0 || _gd == 'man' || _gd == 'woman'){ _id = 'member';}
-if( _jid != '' ){ _jid = 'member'; }
-_je = (navigator.javaEnabled()==true)?'1':'0';_bn=navigator.appName;
-if(_bn.substring(0,9)=="Microsoft") _bn="MSIE";
-_bN=(_bn=="Netscape"),_bI=(_bn=="MSIE"),_bO=(_IX(navigator.userAgent,"Opera")>-1);if(_bO)_bI='';
-_bz=navigator.appName; _pf=navigator.platform; _av=navigator.appVersion; _bv=parseFloat(_av) ;
-if(_bI){_cu=navigator.cpuClass;}else{_cu=navigator.oscpu;};
-if((_bn=="MSIE")&&(parseInt(_bv)==2)) _bv=3.01;_rf=document.referrer;var _prl='';var _frm=false;
-function _WO(a,b,c){window.open(a,b,c)}
-function ACEF_Tracking(a,b,c,d,e,f){ if(!_IDV(b)){var b = 'FLASH';}; if(!_IDV(e)){ var e = '0';};if(!_IDV(c)){ var c = '';};if(!_IDV(d)){ var d = '';}; var a_org=a; b = b.toUpperCase(); var b_org=b;	if(b_org=='FLASH_S'){ b='FLASH'; }; if( typeof CU_rl == 'undefined' ) var CU_rl = _PT(); if(_IDV(HL_GCD)){ var _AF_rl = document.URL; if(a.indexOf('://') < 0  && b_org != 'FLASH_S' ){ var _AT_rl  = ''; if( _AF_rl.indexOf('?') > 0 ){ _AF_rl = _AF_rl.substring(0,_AF_rl.indexOf('?'));}; var spurl = _AF_rl.split('/') ;	for(var ti=0;ti < spurl.length ; ti ++ ){ if( ti == spurl.length-1 ){ break ;}; if( _AT_rl  == '' ){ _AT_rl  = spurl[ti]; }else{ _AT_rl  += '/'+spurl[ti];}; }; var _AU_arg = ''; if( a.indexOf('?') > 0 ){ _AU_arg = a.substring(a.indexOf('?'),a.length); a = a.substring(0,a.indexOf('?')); }; var spurlt = a.split('/') ; if( spurlt.length > 0 ){ a = spurlt[spurlt.length-1];}; a = _AT_rl +'/'+a+_AU_arg;	_AF_rl=document.URL;}; _AF_rl = _AF_rl.substring(_AF_rl.indexOf('//')+2,_AF_rl.length); if( typeof f == 'undefined' ){ var f = a }else{f='http://'+_AF_rl.substring(0,_AF_rl.indexOf('/')+1)+f}; var _AS_rl = CU_rl+'/?xuid='+HL_GCD+'&url='+escape(_AF_rl)+'&xlnk='+escape(f)+'&fdv='+b+'&idx='+e+'&'; var _AF_img = new Image(); _AF_img.src = _AS_rl; if( b_org == 'FLASH' && a_org != '' ){ if(c==''){ window.location.href = a_org; }else{ if(d==''){ window.open(a_org,c);}else{ window.open(a_org,c,d); };};	};} ; }
-function _PT(){return location.protocol=="https:"?"https://"+HL_GUL:"http://"+HL_GUL+":"+HL_GPT}
-function _EL(a,b,c){if(a.addEventListener){a.addEventListener(b,c,false)}else if(a.attachEvent){a.attachEvent("on"+b,c)} }
-function _NA(a){return new Array(a?a:0)}
-function HL_ER(a,b,c,d){_xrg=_PT()+_gW+"&url="+escape(_UL(document.URL))+"&err="+((typeof a=="string")?a:"Unknown")+"&ern="+c+"&bz="+_bz+"&bv="+_vs+"&RID="+Math.random()+"&";
-if(_IX(_bn,"Netscape") > -1 || _bn == "Mozilla"){ setTimeout("_AIW.src=_xrg;",1); } else{ _AIW.src=_xrg; } }
-function HL_PL(a){if(!_IL(a))a=_UL(document.URL);
-_arg = _PT()+_gU;
-if( typeof HL_ERR !=_UD && HL_ERR == 'err'){ _arg = _PT()+_gE;};
-if( _ll.length > 0 ) _arg += "&md=b";
-_AIU.src = _arg+"&url="+escape(a)+"&ref="+escape(_rf)+"&cpu="+_cu+"&bz="+_bz+"&bv="+_vs+"&os="+_os+"&dim="+_d+"&cd="+_cd+"&je="+_je+"&jv="+_sv+"&tz="+_tz+"&ul="+_ul+"&ad_key="+escape(_ak)+"&skey="+escape(_skey)+"&age="+_ag+"&gender="+_gd+"&marry="+_mr+"&join="+_jn+"&member_key="+_id+"&jid="+_jid+"&udf1="+_ud1+"&udf2="+_ud2+"&udf3="+_ud3+"&amt="+_amt+"&frwd="+_fwd+"&pd="+escape(_pd)+"&ct="+escape(_ct)+"&ll="+escape(_ll)+"&RID="+Math.random()+"&";
-setTimeout("",300);
-}
-_EL(window,"error",HL_ER); //window Error
-if( typeof window.screen == 'object'){_sv=12;_d=screen.width+'*'+screen.height;_sc=_bI?screen.colorDepth:screen.pixelDepth;if(_sc==_UD)_sc=_UN;}
-_ro=_NA();if(_ro.toSource||(_bI&&_ro.shift))_sv=13;
-if( top && typeof top == 'object' &&_IL(top.frames)){eval("try{_rl=top.document.URL;}catch(_e){_rl='';};"); if( _rl != document.URL ) _frm = true;};
-if(_frm){ eval("try{_prl = top.document.URL;}catch(_e){_prl=_bR;};"); if(_prl == '') eval("try{_prl=parent.document.URL;}catch(_e){_prl='';};"); 
-if( _IX(_prl,'#') > 0 ) _prl=_prl.substring(0,_IX(_prl,'#')); 
-_prl=_LST(_prl,'#');
-if( _IX(_rf,'#') > 0 ) _rf=_rf.substring(0,_IX(_rf,'#')); 
-_prl=_LST(_prl,'/');_rf=_LST(_rf,'/');
-if( _rf == '' ) eval("try{_rf=parent.document.URL;}catch(_e){_rf=_bR;}"); 
-if(_rf==_bR||_prl==_bR){ _rf='',_prl='';}; if( _rf == _prl ){ eval("try{_rf=top.document.referrer;}catch(_e){_rf='';}"); 
-if( _rf == ''){ _rf = 'bookmark';};if( _IX(document.cookie,'ACEN_CK='+escape(_rf)) > -1 ){ _rf = _prl;} 
-else{ 
-if(_IX(_prl,'?') > 0){ _ak = _prl.substring(_IX(_prl,'?')+1,_prl.length); _prl = _ak; }
-if( _IX(_prl.toUpperCase(),'OVRAW=') >= 0 ){ _ak = 'src=overture&kw='+_GV(_prl.toUpperCase(),'OVRAW','&','=')+'&OVRAW='+_GV(_prl.toUpperCase(),'OVRAW','&','=')+'&OVKEY='+_GV(_prl.toUpperCase(),'OVKEY','&','=')+'&OVMTC='+_GV(_prl.toUpperCase(),'OVMTC','&','=').toLowerCase() }; 
-if(_IX(_prl,'gclid=') >= 0 ){ _ak='src=adwords'; }; if(_IX(_prl,'DWIT=') >= 0 ){_ak='src=dnet_cb';}; 
-if( _IX(_prl,"rcsite=") >= 0 &&  _IX(_prl,"rctype=") >= 0){ _prl += '&'; _ak = _prl.substring(_IX(_prl,'rcsite='),_prl.indexOf('&',_IX(_prl,'rcsite=')+7))+'-'+_prl.substring(_IX(_prl,'rctype=')+7,_prl.indexOf('&',_IX(_prl,'rctype=')+7))+'&'; };
-if( _GV(_prl,'src','&','=') ) _ak += '&src='+_GV(_prl,'src','&','='); if( _GV(_prl,'kw','&','=') ) _ak += '&kw='+_GV(_prl,'kw','&','='); if(_prl.length>0){ _prl = _XV(_prl,'FWDRL','&','=','_rf'); _rf = unescape(_rf); _ak = _XV(_ak,'FWDRL','&','=','_prl'); }; if( typeof FD_ref=='string' && FD_ref != '' ) _rf = FD_ref;
-_fwd = _GV(_prl,'FWDIDX','&','=');
-document.cookie='ACEN_CK='+escape(_rf)+';path=/;'; 
-}; 
-if(document.URL.indexOf('?')>0 && ( _IX(_ak,'rcsite=') < 0 && _IX(_ak,'NVAR=') < 0 && _IX(_ak,'src=') < 0 && _IX(_ak,'source=') < 0 ) ) _ak =document.URL.substring(document.URL.indexOf('?')+1,document.URL.length); }; 
-}
-else{ 
-_rf=_LST(_rf,'#');_ak=_CST(document.URL,'?');
-if( _IX(_ak,"rcsite=") > 0 &&  _IX(_ak,"rctype=") > 0){
-    _ak += '&';
-    _ak = _ak.substring(_IX(_ak,'rcsite='),_ak.indexOf('&',_IX(_ak,'rcsite=')+7))+'-'+_ak.substring(_IX(_ak,'rctype=')+7,_ak.indexOf('&',_IX(_ak,'rctype=')+7))+'&';
-}
-}
-_rl=document.URL;
-var _trl = _rl.split('?'); if(_trl.length>1){ _trl[1] = _XV(_trl[1],'FWDRL','&','=','_rf'); _rf = unescape(_rf); _fwd = _GV(_trl[1],'FWDIDX','&','='); _rl=_trl.join('?'); 
-_ak = _XV(_ak,'FWDRL','&','=','_prl');
-}; if( typeof FD_ref=='string' && FD_ref != '' ) _rf = FD_ref;
-if( _rf.indexOf('googlesyndication.com') > 0 ){ 
-var _rf_idx = _rf.indexOf('&url=');  if( _rf_idx > 0 ){ var _rf_t = unescape(_rf.substring(_rf_idx+5,_rf.indexOf('&',_rf_idx+5)));  if( _rf_t.length > 0 ){ _rf = _rf_t ;};  };  };
-_rl = _UL(_rl); _rf = _UL(_rf);
-
-if( typeof _rf_t != 'undefined' && _rf_t != '' ) _rf = _rf_t ;
-if( typeof _ak_t != 'undefined' && _ak_t != '' ) _ak = _ak_t ;
-
-if( typeof _rf==_UD||( _rf == '' )) _rf = 'bookmark' ;_cd=(_bI)?screen.colorDepth:screen.pixelDepth;
-_UA = navigator.userAgent;_ua = navigator.userAgent.toLowerCase();
-if (navigator.language){  _ul = navigator.language.toLowerCase();}else if(navigator.userLanguage){  _ul = navigator.userLanguage.toLowerCase();};
-
-_st = _IX(_UA,'(') + 1;_end = _IX(_UA,')');_str = _UA.substring(_st, _end);_if = _str.split('; ');_cmp = _UN ;
-
-if(_bI){ _cmp = navigator.appName; _str = _if[1].substring(5, _if[1].length); _vs = (parseFloat(_str)).toString();} 
-else if ( (_st = _IX(_ua,"opera")) > 0){ _cmp = "Opera" ;_vs = _ua.substring(_st+6, _ua.indexOf('.',_st+6)); } 
-else if ((_st = _IX(_ua,"firefox")) > 0){_cmp = "Firefox"; _vs = _ua.substring(_st+8, _ua.indexOf('.',_st+8)); } 
-else if ((_st = _IX(_ua,"netscape6")) > 0){ _cmp = "Netscape"; _vs = _ua.substring(_st+10, _ua.length);  
-if ((_st = _IX(_vs,"b")) > 0 ) { _str = _vs.substring(0,_IX(_vs,"b")); _vs = _str ;  };}
-else if ((_st = _IX(_ua,"netscape/7")) > 0){  _cmp = "Netscape";  _vs = _ua.substring(_st+9, _ua.length);  if ((_st = _IX(_vs,"b")) > 0 ){ _str = _vs.substring(0,_IX(_vs,"b")); _vs = _str;};
-}
-else{
-if (_IX(_ua,"gecko") > 0){ if(_IX(_ua,"safari")>0){ _cmp = "Safari";_ut = _ua.split('/');for( var ii=0;ii<_ut.length;ii++) if(_IX(_ut[ii],'safari')>0){ _vst = _ut[ii].split(' '); _vs = _vst[0];} }else{ _cmp = navigator.vendor;  } } else if (_IX(_ua,"nav") > 0){ _cmp = "Netscape Navigator";}else{ _cmp = navigator.appName;}; _av = _UA ; 
-}
-if (_IX(_vs,'.')<0){  _vs = _vs + '.0'}
-_bz = _cmp; 
-
-var nhn_ssn={uid:HL_GCD,g:HL_GUL,p:HL_GPT,s:_JV,rl:_rl,m:[],run:nhn_ssn?nhn_ssn.uid:this.uid};
-function CF1B3559695088(){
-var f={e:function(s,t){return s.indexOf(t);},f:function(o){var a;a=o;if(a.tagName=='A'){return a;}else{a = a.parentNode;};if(a.tagName=='A'){return a;}else{a = a.parentNode;};if(a.tagName=='A'){return a;}else{a = a.parentNode;};if(a.tagName=='A'){return a;}else{a = a.parentNode;};if(a.tagName=='A'){return a;};},ea:function(c,f){var wd;if(c=='click'){wd=window.document;}else{wd=window;}if(wd.addEventListener){wd.addEventListener(c,f,false)}else if(wd.attachEvent){wd.attachEvent("on"+c,f)} } };
-var p={h:location.host,p:(location.protocol=='https:')?"https://"+nhn_ssn.g:"http://"+nhn_ssn.g+":"+nhn_ssn.p,s:'/?xuid='+nhn_ssn.uid+'&sv='+nhn_ssn.s,u:function(){var r=document.URL;r=r.replace('#','');return r+'';},ol:new Image(0,0),xL:function(x){if(typeof(Amz_T_e)==s.u){p.ol.src=p.p+p.s+'&url='+escape(nhn_ssn.rl)+'&xlnk='+escape(x)+'&xidx=0&';nhn_ssn.m.push(p.ol);} } };
-var s={Lp:'a.tagName=="B" || a.tagName=="I" || a.tagName== "U" || a.tagName== "FONT" || a.tagName=="I" || a.tagName=="STRONG"'  ,f:'function',	j:'javascript:',u:'undefined'};
-var c={Run:function(){f.ea('click',this.ec);},ec:function(e){var ok='';var m = document.all ? event.srcElement : e.target;var a=m;var o=m.tagName;if(o=="A" || o=="AREA" || o=="IMG" || eval(s.Lp)){ok=c.lc(m);if(ok.length != 0){p.xL(unescape(ok));};	};},lc:function(o){try{var ar='';var obj;obj=f.f(o);if(typeof obj==s.u){return '';};ar = String(obj.href);if(ar.length == 0){return '';};ar=ar.replace(/\n|\s|#/g,'');ar=ar.replace(/'|"/g,' ');if(f.e(ar,'void(') == -1 && f.e(ar,'void0') == -1){	return ar;}else{return s.j + 'void(0)';};return '';}catch(er){return '';} } };
-if(p.u().charAt(0) == 'h'){if(nhn_ssn.uid!=nhn_ssn.run){c.Run(); } };
-};eval(nhn_ssn.uid + '();');
-
-if( _IX(_pf,_UD) >= 0 || _pf ==  '' ){ _os = _UN ;}else{ _os = _pf ; };
-if( _IX(_os,'Win32') >= 0 ){if( _IX(_av,'98')>=0){ _os = 'Windows 98';}else if( _IX(_av,'95')>=0 ){ _os = 'Windows 95';}else if( _IX(_av,'Me')>=0 ){ _os = 'Windows Me';}else if( _IX(_av,'NT')>=0 ){ _os = 'Windows NT';}else{ _os = 'Windows';};if( _IX(_ua,'nt 5.0')>=0){ _os = 'Windows 2000';};if( _IX(_ua,'nt 5.1')>=0){_os = 'Windows XP';if( _IX(_ua,'sv1') > 0 ){_os = 'Windows XP SP2';};};if( _IX(_ua,'nt 5.2')>=0){_os ='Windows Server 2003';};if( _IX(_ua,'nt 6.0')>=0){_os ='Windows Vista';};if( _IX(_ua,'nt 6.1')>=0){_os ='Windows 7';};};
-_pf_s = _pf.substring(0,4);if( _pf_s == 'Wind'){if( _pf_s == 'Win1'){_os = 'Windows 3.1';}else if( _pf_s == 'Mac6' ){ _os = 'Mac';}else if( _pf_s == 'MacO' ){ _os ='Mac';}else if( _pf_s == 'MacP' ){_os='Mac';}else if(_pf_s == 'Linu'){_os='Linux';}else if( _pf_s == 'WebT' ){ _os='WebTV';}else if(  _pf_s =='OSF1' ){ _os ='Compaq Open VMS';}else if(_pf_s == 'HP-U' ){ _os='HP Unix';}else if(  _pf_s == 'OS/2' ){ _os = 'OS/2' ;}else if( _pf_s == 'AIX4' ){ _os = 'AIX';}else if( _pf_s == 'Free' ){ _os = 'FreeBSD';}else if( _pf_s == 'SunO' ){ _os = 'SunO';}else if( _pf_s == 'Drea' ){ _os = 'Drea'; }else if( _pf_s == 'Plan' ){ _os = 'Plan'; }else{ _os = _UN; };};
-if( _cu == 'x86' ){ _cu = 'Intel x86';}else if( _cu == 'PPC' ){ _cu = 'Power PC';}else if( _cu == '68k' ){ _cu = 'Motorola 680x';}else if( _cu == 'Alpha' ){ _cu = 'Compaq Alpa';}else if( _cu == 'Arm' ){ _cu = 'ARM';}else{ _cu = _UN;};if( _d == '' || typeof _d==_UD ){ _d = '0*0';}
-
-HL_PL(_rl); // Site Logging
-}
 </script>
-<!-- AceCounter Log Gathering Script End -->
+<!-- google analytics end -->
+	</div>
 
-    </div>
-
-
-
+</form>
 
 
 
-</div></form></body></html>
+</body></html>
