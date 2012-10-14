@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the wholesaleclothing4u.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216085343id_/http%3A//www.wholesaleclothing4u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleclothing4u.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014184425id_/http%3A//www.wholesaleclothing4u.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Wholesaleclothing4u.com
 
-**Privacy Policy**
+WholesaleClothing4U.com knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. At WholesaleClothing4U.com, we make every effort to protect your online order information by using Secure Socket Layer (SSL) technology. SSL encrypts your order information to ensure that it remains private and secure. This notice describes our privacy policy. By visiting WholesaleClothing4U.com, you are accepting the practices described in this Privacy Notice.
 
-Wholesaleclothing4u.com believes it is very important to let our customers know what types of information do we collect online, and how we may use and share that information. 
+****What Personal Information About Customers Does WholesaleClothing4U.com Gather?****
 
-You can be assured all online transactions are kept in strict confidence and personal information is never shared with third parties.
+WholesaleClothing4U.com does not gather personally identifying information about you, unless you choose to provide such information to us. The information we learn from customers helps us personalize and continually improve your shopping experience at WholesaleClothing4U fashion store. Here are the types of information we gather.
 
-  
-What information do we collect?
+◆We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
 
-When you shop at Wholesaleclothing4u.com , we will collect the necessary information  to complete your order, such as your name, e-mail address, shipping address, payment information  and billing address. Aslo we my collect information from you when you register on our site,enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+◆When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
 
-How do we use your information?  
+◆We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
 
+◆Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+****What about Cookies?****
 
-  * To personalize your site experience and to allow us to deliver the type of product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To quickly process your transactions. 
-  * To administer a contest, promotion, survey or other site feature. 
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, you can [Unsubscribe](http://www.wholesaleclothing4u.com/index.php?main_page=unsubscribe) it on our online shop.  If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+Cookies are alphanumeric identifier text files that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.
 
+****Does WholesaleClothing4U.com Share the Information It Receives?****
 
+We respect your privacy and appreciate your business. At no time do we ever provide your account contact or payment information to any third party vendor, associate or service provider unless absolutely necessary in order to complete your transaction and order.
+
+****Which Information Can I Access?****
+
+WholesaleClothing4U.com gives you access to a broad range of information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.
+
+****Questions****
+
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: sales@wholesaleclothing4u.com
