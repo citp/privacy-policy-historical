@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaperbackgrounds.net privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613184745id_/http%3A//hdwallpaperbackgrounds.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperbackgrounds.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014051342id_/http%3A//hdwallpaperbackgrounds.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | High Definition Wallpaper
 
