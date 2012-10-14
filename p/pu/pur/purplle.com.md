@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purplle.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615001557id_/http%3A//purplle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplle.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014022810id_/http%3A//purplle.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy | Buy Hair products,Cosmetics,Perfumes and fragrance online|Purplle.com
 
