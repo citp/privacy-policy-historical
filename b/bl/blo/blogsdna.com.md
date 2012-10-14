@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsdna.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509214840id_/http%3A//www.blogsdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsdna.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015001556id_/http%3A//www.blogsdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,11 +26,11 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-### **Email Addresses**
+###  **Email Addresses**
 
 When you make a comment or contact us using the contact page your email id is required. Please be assured that your email address will only be used for responding to your email or comment and will never be made publicly available. We will never sell your email address to any third parties, ever.
 
-**Comments Policy**
+ **Comments Policy**
 
 The author does not assume responsibility over comments he did not make on this blog. While comments are welcome from anybody, we reserve the right to remove any comment that is not deemed suitable for publication. This could include but is not limited to objectional and abusive comments. Hate, racist comments, or any other form of prejudice will be removed and the poster will be banned!
 
@@ -38,6 +38,6 @@ Comments made for sole purpose of getting backlinks or advertizing your/any prod
 
 Spam in any form will not be accepted and will be deleted immediately. We may take action against such spammers.
 
-**Copyrights**
+ **Copyrights**
 
 Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please contact me immediately.
