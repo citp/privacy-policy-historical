@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagsnob.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505090736id_/http%3A//www.bagsnob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsnob.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014223102id_/http%3A//www.bagsnob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bag Snob
 
@@ -51,5 +51,3 @@ The Bag Snob web site contains links to other sites. Please be aware that we, Ba
 **Notification of Changes**
 
 Whenever Bag Snob, LLC changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.bagsnob.com%2Fprivacy-policy&media=&description=Privacy+Policy)
