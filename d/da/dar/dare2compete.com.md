@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607080106id_/http%3A//www.dare2compete.com/competitions/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014152430id_/http%3A//www.dare2compete.com/competitions/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - All about Events, Competitions, Case Studies, Business plan Competitions, Quizzes, Conferences, seminars in Management, B-schools, Engineering, Technology, Cultural domains
 
