@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513134602id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065929id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Buy Time Warner Cable
 
 _Please note that from time to time we may review and modify our Privacy Policy. As your visits to the Site will be subject to the Privacy Policy in effect at the time of your visit, please review this Privacy Policy regularly to ensure that you are aware of any modifications._
 
-This policy is effective as of and was last updated on June 2, 2010
+This policy is effective as of and was last updated on May 11, 2012
 
   1. **General**  
 This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that BuyTimeWarnerCable.com (“Company”, “we,” “our” or “us”) may gather about or collect from you in connection with your use of BuyTimeWarnerCable.com (this “Site”). It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information. 
