@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512152147id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014124903id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
