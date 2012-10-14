@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whatswithjeff.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605033638id_/http%3A//whatswithjeff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatswithjeff.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014100114id_/http%3A//whatswithjeff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Life of a PC Enthusiast and Anime Fanatic V2.0
 
 Privacy Policy for http://whatswithjeff.com – Life of a PC Enthusiast and Anime Fanatic V2.0
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at jeff@whatswithjeff.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at jeff[at]whatswithjeff.com.
 
 At http://whatswithjeff.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://whatswithjeff.com and how it is used.
 
@@ -31,3 +31,8 @@ http://whatswithjeff.com has no access to or control over these cookies that are
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://whatswithjeff.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+
+[](https://addthis.com/bookmark.php?v=300)
+
+  
+
