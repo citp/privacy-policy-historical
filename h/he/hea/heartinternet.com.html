@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heartinternet.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615130654id_/http%3A//www.heartinternet.co.uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heartinternet.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014022223id_/http%3A//www.heartinternet.co.uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,15 +20,21 @@
 <script type="text/javascript" src="/includes/scripts/jquery-ui-1.8.16.custom.min.js"></script>
 <script type="text/javascript">
 jQuery.noConflict();
-jQuery(document).ready(function () {     
-  jQuery('#nav li').hover(function () {
-    // Show the sub menu
-    jQuery('ul', this).stop(true,true).slideDown(300);
-  },
-  function () {
-  //hide its submenu
-    jQuery('ul', this).stop(true,true).slideUp(50);         
-  });
+jQuery(document).ready(function () {
+ jQuery('#nav li').each(function(i, e) {
+   var expand_ok = true;
+   jQuery(e).hover(function () {
+     // Show the sub menu
+     if(expand_ok) jQuery('ul', this).stop(true,true).slideDown(300);
+   },
+   function () {
+   //hide its submenu
+     expand_ok = false;
+     jQuery('ul', this).stop(true,true).slideUp(100, function() {
+       expand_ok = true;
+     });
+   });
+ });
 });
 
 		</script>
@@ -116,9 +122,9 @@ jQuery(document).ready(function () {
 					<ul class="submenu domalign">
 						<li>
 							<a href="http://www.heartinternet.co.uk/domain-names/" title=""><span>Domain name features</span><br>Register &amp; renew domain names with these great features</a>
-							<a href="http://www.heartinternet.co.uk/domain-names/domain-prices.html" class="alt" title=""><span>Domain name prices</span><br>Low price domain names &amp; bulk discounts available.</a>
+							<a href="http://www.heartinternet.co.uk/domain-names/premium-domains.html" class="alt" title=""><span>Premium Domain Names</span><br>Over 5 million premium domain names to buy instantly.</a>
 							<a href="http://www.heartinternet.co.uk/domain-names/domain-transfer.html" title=""><span>Transfer to Heart Internet</span><br>Transfer your domain names to us for free &amp; save.</a>
-							<a href="http://www.heartinternet.co.uk/domain-names/name-finder.html" class="alt" title=""><span>360 NameFinder</span><br>Search for domains &amp; social media names in one place.</a>
+							<a href="http://www.heartinternet.co.uk/domain-names/backorder-domains.html" class="alt" title=""><span>Backorder Domain Names</span><br>Backorder your domain &amp; make sure you don’t miss out.</a>
 							<a href="http://www.heartinternet.co.uk/domain-names/domain-privacy.html"><span>Domain privacy</span><br>Protect your personal information using domain name privacy.</a>
                             <a href="http://www.heartinternet.co.uk/domain-names/domain-reseller.html" title="Resell domain names"><span>Resell domain names</span><br>Sell domain names with our white label product &amp; bulk discounts.</a>
 						</li>
@@ -136,14 +142,7 @@ jQuery(document).ready(function () {
 						</li>
 					</ul>
 				</li>
-				<li><a href="http://www.heartinternet.co.uk/website-builder/" title="Build Your Website">Build Your Website</a>
-					<ul class="submenu buildalign">
-						<li>
-							<a href="http://www.heartinternet.co.uk/website-builder/" title="SiteDesigner website builder"><span>SiteDesigner website builder</span><br>Build a beautiful website without any coding skills.</a>
-							<a href="http://www.heartinternet.co.uk/web-hosting/mobile-website-builder.html" class="alt" title="Mobile website builder"><span>Mobile website builder</span><br>Create a mobile version of your website in minutes.</a>
-						</li>
-					</ul>
-				</li>
+				
 				<li><a href="http://www.heartinternet.co.uk/reseller-hosting/" title="Reseller Hosting">Reseller Hosting</a>
 					<ul class="submenu rwhalign">
 						<li>
@@ -162,23 +161,25 @@ jQuery(document).ready(function () {
 					<ul class="submenu vpsalign">
 						<li>
 							<a href="http://www.heartinternet.co.uk/vps/" title=""><span>VPS features</span><br>Create your own custom virtual private server.</a>
-							<a href="http://www.heartinternet.co.uk/vps/linux-vps.html" class="alt" title=""><span>Linux VPS</span><br>Choose from CentOS 5.7 &amp; 6, Ubuntu 10.04 LTS &amp; 11.04.</a>
-							<a href="http://www.heartinternet.co.uk/vps/windows-vps.html" title=""><span>Windows VPS</span><br>Choose from Windows server 2008 standard &amp; web.</a>
+							<a href="http://www.heartinternet.co.uk/vps/linux-vps.html" class="alt" title=""><span>Linux VPS</span><br>Choose from a variety of popular Linux operating systems.</a>
+							<a href="http://www.heartinternet.co.uk/vps/windows-vps.html" title=""><span>Windows VPS</span><br>Select the Windows operating system you need.</a>
 							<a href="http://www.heartinternet.co.uk/vps/vps-hosting.html" class="alt" title=""><span>Why choose VPS?</span><br>Reasons to choose VPS for your next web project.</a>
 							<a href="http://www.heartinternet.co.uk/vps/vps-reseller.html"><span>Resell VPS</span><br>Create &amp; sell your own spec VPS. Includes a 25% discount.</a>
-                            <a class="alt" href="http://www.heartinternet.co.uk/vps/one-click-installs.html" title="One Click Install Web Apps"><span>One Click Install Web Apps</span><br>Quickly install popular scripts such as WordPress &amp; Magento.</a>
+                             <a href="http://www.heartinternet.co.uk/hybrid-servers" class="alt" title=""><span>Hybrid Servers - NEW</span><br>Bridging the gap between VPS &amp; dedicated servers</a>
 						</li>
 					</ul>
 				</li>
+                <li class="nodrop"><a href="http://www.heartinternet.co.uk/hybrid-servers/" title="Hybrid Servers">Hybrid Servers</a></li>
 				<li><a href="http://www.heartinternet.co.uk/dedicated-servers/" title="Dedicated Servers">Dedicated Servers</a>
 					<ul class="submenu dsalign">
 						<li>
 							<a href="http://www.heartinternet.co.uk/dedicated-servers/" title=""><span>Dedicated servers features</span><br>Outstanding performance for the most demanding of websites.</a>
 							<a href="http://www.heartinternet.co.uk/dedicated-servers/linux-dedicated-server.html" class="alt" title=""><span>Linux dedicated servers</span><br>Linux dedicated servers built to the highest specifications.</a>
-							<a href="http://www.heartinternet.co.uk/dedicated-servers/windows-dedicated-server.html" title=""><span>Windows dedicated servers</span><br>Ultra-reliable, powerful and flexible Windows server solutions.</a>
-							<a href="http://www.heartinternet.co.uk/dedicated-servers/cpanel.html" class="alt" title=""><span>cPanel &amp; WHM</span><br>The number one choice for web administration.</a>
+                            <a href="http://www.heartinternet.co.uk/hybrid-servers" title=""><span>Hybrid Servers - NEW</span><br>Bridging the gap between VPS &amp; dedicated servers</a>
+							<a href="http://www.heartinternet.co.uk/dedicated-servers/windows-dedicated-server.html" class="alt" title=""><span>Windows dedicated servers</span><br>Ultra-reliable, powerful and flexible Windows server solutions.</a>
+						
 							<a href="http://www.heartinternet.co.uk/dedicated-servers/reseller-dedicated-servers.html" title=""><span>Resell dedicated servers</span><br>Profit from high end servers at low prices. Includes 25% discount.</a>
-                            <a class="alt" href="http://www.heartinternet.co.uk/dedicated-servers/server-sla.html" title="Dedicated Server SLA"><span>Dedicated Server SLA</span><br>Every server we sell comes with a comprehensive SLA.</a>
+                           	<a href="http://www.heartinternet.co.uk/dedicated-servers/cpanel.html" class="alt" title=""><span>cPanel &amp; WHM</span><br>The number one choice for web administration.</a>
 						</li>
 					</ul>
 				</li>
@@ -289,40 +290,48 @@ jQuery(document).ready(function () {
     	<div id="footer_inside">
             <ul class="hosting">
             	<li class="heading"><h4>Web Hosting &amp; Domains</h4></li>
-                <li><a href="http://www.heartinternet.co.uk/web-hosting/" title="Starter Web Hosting">Starter Web Hosting</a></li>
-                <li><a href="http://www.heartinternet.co.uk/web-hosting/" title="Home Pro Web Hosting">Home Pro Web Hosting</a></li>
-                <li><a href="http://www.heartinternet.co.uk/web-hosting/" title="Business Pro Web Hosting">Business Pro Web Hosting</a></li>
-                <li><a href="http://www.heartinternet.co.uk/reseller-hosting/" title="Reseller Web Hosting">Reseller Web Hosting</a></li>
+                <li><a href="http://www.heartinternet.co.uk/web-hosting/" title="Web Hosting">Web Hosting</a></li>
+                <li><a href="http://www.heartinternet.co.uk/reseller-hosting/" title="Reseller Hosting">Reseller Hosting</a></li>
+                <li><a href="http://www.heartinternet.co.uk/vps/" title="Virtual Private Servers">Virtual Private Servers</a></li>
+                <li><a href="http://www.heartinternet.co.uk/hybrid-servers/" title="Hybrid Servers">Hybrid Servers</a></li>
                 <li><a href="http://www.heartinternet.co.uk/dedicated-servers/" title="Dedicated Servers">Dedicated Servers</a></li>
                 <li><a href="http://www.heartinternet.co.uk/domain-names/" title="Domain Names">Domain Names</a></li>
-                <li><a href="http://www.heartinternet.co.uk/vps/" title="VPS">VPS</a></li>
-                <li><a href="http://www.heartinternet.co.uk/web-hosting/exchange-business-email-hosting.html" title="Exchange Email Hosting">Exchange Email Hosting</a></li>
+                <li><a href="http://www.heartinternet.co.uk/web-hosting/exchange-business-email-hosting.html" title="Business Email Hosting">Business Email Hosting</a></li>
+                <li><a href="http://www.heartinternet.co.uk/web-hosting/ssl-security-certificates.html" title="SSL Certificates">SSL Certificates</a></li>
             </ul>
             <ul class="heart">
             	<li class="heading"><h4>Heart Internet</h4></li>
-                <li><a href="http://www.heartinternet.co.uk/about.html" title="About Us">About us</a></li>
-                <li><a href="http://www.heartinternet.co.uk/contact.html" title="Contact Us">Contact us</a></li>
-                <li><a href="http://www.heartinternet.co.uk/jobs.html" title="Jobs">Jobs</a></li>
+                <li><a href="http://www.heartinternet.co.uk/about.html" title="About Us">About Us</a></li>
+                <li><a href="http://www.heartinternet.co.uk/contact.html" title="Contact Us">Contact Us</a></li>
+                <li><a href="http://jobs.heartinternet.co.uk/" title="Careers">Careers</a></li>
 
-                <li><a href="http://www.heartinternet.co.uk/affiliates.html" title="Affiliate Program">Affiliate program</a></li>
-                <li><a href="http://www.heartinternet.co.uk/web-hosting-guides.html" title="Web Hosting Guides">Web hosting guides</a></li>
+                <li><a href="http://www.heartinternet.co.uk/affiliates.html" title="Affiliate Program">Affiliate Program</a></li>
+                <li><a href="http://www.heartinternet.co.uk/web-hosting-guides.html" title="Web Hosting Guides">Web Hosting Guides</a></li>
                 
-                <li><a href="http://www.heartinternet.co.uk/terms/" title="Terms &amp; Conditions">Terms &amp; conditions</a></li>
-                <li><a href="http://www.heartinternet.co.uk/blog/feed/" title="Web Hosting Blog RSS Feed"><img src="http://www.heartinternet.co.uk/images/content/icon_rss.png" alt="Web Hosting Blog RSS Feed" style="float: left; padding: 5px 5px 0 0;"></a><a href="http://www.heartinternet.co.uk/blog/" title="Web Hosting Blog">Web hosting blog</a></li>
-                <li><a href="http://www.heartinternet.co.uk/web-hosting/heart-internet-support.html" title="Web hosting support">Web hosting support</a></li>
                 
-                <li><a href="http://www.heartinternet.co.uk/privacy-policy.html" title="Privacy Policy">Privacy policy</a></li>
+                <li><a href="http://www.heartinternet.co.uk/blog/feed/" title="Web Hosting Blog RSS Feed"><img src="http://www.heartinternet.co.uk/images/content/icon_rss.png" alt="Web Hosting Blog RSS Feed" style="float: left; padding: 5px 5px 0 0;"></a><a href="http://www.heartinternet.co.uk/blog/" title="Web Hosting Blog">Web Hosting Blog</a></li>
+                <li><a href="http://www.heartinternet.co.uk/web-hosting/heart-internet-support.html" title="Web hosting support">Web Hosting Support</a></li>
+                
+               
                 <li><a href="http://www.heartinternet.co.uk/sitemap.html" title="Sitemap">Sitemap</a></li>
-                <li><a href="http://www.heartinternet.co.uk/prnews/" title="Web hosting news &amp; PR">Web hosting news</a></li>
-                
-            </ul>
-						
+                <li><a href="http://www.heartinternet.co.uk/prnews/" title="Web hosting news &amp; PR">Web Hosting News</a></li>
+                 <li><a href="http://www.heartinternet.co.uk/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
+                 <li><a href="http://www.heartinternet.co.uk/terms/" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+
+            </ul>		
             <div class="rightfooter">
                 <a title="UK Hosting - Heart Internet" href="http://www.heartinternet.co.uk/"><img alt="Heart Internet - UK Hosting" src="http://www.heartinternet.co.uk/images/generic/footer_logo.png"></a><div style="clear: both;"></div>
-                <p style="margin-top: 8px; line-height: 1.4em;"><img src="http://www.heartinternet.co.uk/images/generic/footer_google.png" style="float: left; padding: 0pt 5px 0pt 25px;" alt="Heart Internet on Google+"> <a rel="publisher" href=" https://plus.google.com/u/0/109557071626047687618">Find us on Google+</a></p><div style="clear: both;"></div>
-								<p style="margin-top: 4px; line-height: 1.4em;"><img src="http://www.heartinternet.co.uk/images/generic/footer_twitter.png" style="float: left; padding: 0pt 5px 0pt 25px;" alt="Heart Internet on Twitter"> <a href="http://www.twitter.com/heartinternet" target="_blank">Follow us on Twitter</a></p><div style="clear: both;"></div>
-                <p style="margin-top: 4px; line-height: 1.4em;"><img src="http://www.heartinternet.co.uk/images/generic/footer_facebook.png" style="float: left; padding: 0pt 5px 0pt 25px;" alt="Heart Internet on Facebook"> <a href="http://www.facebook.com/heartinternet" target="_blank">Find us on Facebook</a></p>
-								<p style="margin: 14px 0 0 26px; line-height: 1.4em;"><br>Prices exclude VAT at 20%</p>
+                
+                <p class="footer-social-links" style="margin-top:8px">
+                <a href="http://www.facebook.com/heartinternet" title="Facebook" target="_blank" rel="nofollow"><img src="http://www.heartinternet.co.uk/images/social-icons-24/facebook-24x24.png" alt="Facebook"></a>
+                <a href="http://www.twitter.com/heartinternet" title="Twitter" target="_blank" rel="nofollow"><img src="http://www.heartinternet.co.uk/images/social-icons-24/twitter-24x24.png" alt="Twitter"></a>
+                <a href="https://plus.google.com/u/0/+heartinternet/posts" title="Google+" target="_blank" rel="publisher"><img src="http://www.heartinternet.co.uk/images/social-icons-24/google+-24x24.png" alt="Google+"></a>
+                <a href="http://pinterest.com/heartinternet/" title="Pinterest" target="_blank" rel="nofollow"><img src="http://www.heartinternet.co.uk/images/social-icons-24/pintrest-24x24.png" alt="Pinterest"></a>
+                <a href="http://lanyrd.com/profile/heartinternet/" title="Lanyrd" target="_blank" rel="nofollow"><img src="http://www.heartinternet.co.uk/images/social-icons-24/lanyrd-24x24.png" alt="Lanyrd"></a>
+                <a href="http://www.linkedin.com/company/heart-internet-ltd" title="LinkedIn" target="_blank" rel="nofollow"><img src="http://www.heartinternet.co.uk/images/social-icons-24/linkedin-24x24.png" alt="LinkedIn"></a>
+                </p>
+                <div style="clear: both;"></div>
+				<p style="margin: 0 0 0 26px; line-height: 1.4em;"><br>Prices exclude VAT at 20%</p>
             </div>
 					<a href="http://www.hosteurope.com/" target="_blank" rel="nofollow" title="Host Europe Group"><img src="/images/generic/heg_footer.png" class="heg"></a>
 				</div>
