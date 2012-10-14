@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterlyrics.blogspot.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323223623id_/http%3A//monsterlyrics.blogspot.com/2009/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterlyrics.blogspot.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014214649id_/http%3A//monsterlyrics.blogspot.com/2009/10/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,3 +29,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at monsterlyrics[at]gmail.com.
+
+If you find this _**Privacy Policy**_ is incorrect, please feel free to submit it [here](mailto:monsterlyrics@gmail.com).
+
+SHARING IS CARING
