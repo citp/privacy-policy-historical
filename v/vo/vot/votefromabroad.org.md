@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the votefromabroad.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510173326id_/https%3A//www.votefromabroad.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votefromabroad.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014041300id_/https%3A//www.votefromabroad.org/privacy) for the most accurate reproduction.*
 
-# Privacy | vfa2012
+# Privacy | Vote from Abroad
 
 At Democrats Abroad, we are committed to protecting your privacy online. Democrats Abroad will hold any information you provide us here with the utmost care and will only use it in ways to which you have consented: for preparation of the voter registration materials, for voting reminders and information and for membership in Democrats Abroad, as the case may be. Democrats Abroad does not maintain any sensitive personally identifiable information such as social security number, driver’s license number, or passport number.
 
