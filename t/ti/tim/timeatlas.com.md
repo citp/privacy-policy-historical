@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606170146id_/http%3A//www.timeatlas.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014222247id_/http%3A//www.timeatlas.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,13 +18,15 @@ Some of our content may be sold such as specific research reports. Our payment p
 
 _**Email Updates**_
 
-We also use the services of [FeedBurner](http://www.feedburner.com/ "Link to FeedBurner site") and [aWeber](http://www.aweber.com/) to deliver our email updates. Although we initiate the updates, the subscriber's email addresses are kept on their secure servers. A user may unsubscribe from the service by clicking the link on the update emails.
+We also use the services of [FeedBurner](http://www.feedburner.com/ "Link to FeedBurner site"), [aWeber](http://www.aweber.com/) and [Litmus ](http://litmus.com/) to deliver email updates. Although we initiate the updates, the subscriber's email addresses are kept on the vendor's secure servers. A user may unsubscribe from the service by clicking the link in the email.
+
+Feedburner is used for delivering updates that appear from our RSS feed. aWeber is the email service provider for our mailing list. Litmus provides testing info so I can see how the emails look in different email applications. It also has other tools so I can see how the email looks for color blind users. Remind me the next time I get the logo updated to see how it looks for color blind users first.
 
 ### Information Use
 
 _**Cookies**_
 
-A cookie is a small piece of data stored on your computer from our website. These cookies are created by our content management system. Although I no longer use a paid membership model, the content management system (CMS) still has a membership model. For example, as the site administrator, I still have a login and password. I also wrote an article on [browser cookie basics](http://www.timeatlas.com/term_to_learn/general/browser_cookie_basics "Basic article defining what are browser cookies") and their uses on the web if you want more information.
+A cookie is a small piece of data stored on your computer from our website. These cookies are created by our content management system (CMS). Although I no longer use a paid membership model, the content management system still has a membership model. For example, as the site administrator, I still have a login and password. I also wrote an article on [browser cookie basics](http://www.timeatlas.com/term_to_learn/general/browser_cookie_basics "Basic article defining what are browser cookies") and their uses on the web if you want more information.
 
 I'm continuing to experiment with various affiliates who may set their own cookies. The affiliates and ad location may change based on their performance. The purpose of these cookies is to identify timeatlas.com as the referring source so I'm properly compensated if you decide to purchase their products. In other words, the cookies help the vendor determine this site as the source so they know who to pay if you decide to purchase the product.
 
@@ -49,7 +51,7 @@ If you go through this review process, you will see I have a cookie that expires
 
 _**Log Files**_
 
-Like most websites, our server creates big ugly log files. This file includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information unless you tattooed it on your body.
+Like most websites, our server creates big ugly log files. This file includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information unless you tattooed it on your body. 
 
 As you probably guessed, parts of this policy were lifted from one of those "best practices" privacy policies. Pretty boring and sterile so I've added some more info below. Somebody must be making money off the word "aggregate".
 
@@ -57,11 +59,15 @@ The web server log files are kept in several places. The current version is kept
 
 You can see a good idea of the type of information I see and how I use this data in the article I wrote called, [Annual Report on Your Data and our Server Logs](http://www.timeatlas.com/news/security/annual_report_on_your_data_and_our_server_logs "Our article on server log information").
 
-This is also an area where I continually try different programs. If you have your own site you probably know the ordeal of analysis. Presently, I'm using [Google Analytics](http://www.google.com/analytics/ "Link to Google Analytics"), LiveStats, Woopra and Clicky. At various times, I have used ClickTales for heatmaps and to watch user interaction. If you have any concerns or questions, please let me know.
+This is also an area where I continually try different programs. If you have your own site you probably know the ordeal of analysis. Presently, I'm using [Google Analytics](http://www.google.com/analytics/ "Link to Google Analytics"), ChartBeat, Woopra and Clicky. At various times, I have used ClickTale for heatmaps and to watch user interaction. If you have any concerns or questions, please let me know.
+
+At this point, you might think that a lot of data has been recorded. And you're right. The question is whether it's useful data that a vendor can use. I can't speak for other folks, but I can tell you the info can be helpful. As example, by looking at the data, I can see trends such as more people coming to the site using an Apple OS. This is one of the reasons I stopped using Flash for my screencasts and moved to MP4.
 
 _**Testing**_
 
-Did that heading scare you? Don't worry I haven't wired the keyboard or activated your webcam although I would prefer it if you smile more often. On occasion, I do have various tests going on the site and use software services to help like Visual Website Optimizer. A test might be something as simple as changing a color or giving you a different version of a page or message if you're on an older browser. (Yes, I am talking to you people who insist on using very old versions of Internet Explorer). Based on these tests, I may then incorporate the change into production.
+Did that heading scare you? Don't worry I haven't wired the keyboard or activated your webcam although I would prefer it if you [smile more often](http://www.youtube.com/watch?v=Cbk980jV7Ao&list=PL6FCEB20F64A0E20D&index=8&feature=plpp_video). On occasion, I do have various tests going on the site and use software services like Visual Website Optimizer or Optimizely. A test might be something as simple as changing a color or giving you a different version of a page or message if you're on an older browser. (Yes, I am talking to you people who insist on using very old versions of Internet Explorer). Based on these tests, I may then incorporate the change into production.
+
+I also use a paid video hosting service called Wistia. The service allows me to get analytics on the videos which are used to refine them. For example, if I see red bands on various portions of the analytics snapshot, I know people are rewinding that section and watching it again. This might make me think I need to revise the video. Perhaps, I need to rephrase the callout or slow down the frame. The service also gives me geographic insights as well. Still new to all this video stuff and I have a lot to learn.
 
 ### Sharing
 
@@ -79,7 +85,7 @@ This Web site contains numerous links to other sites. Please be aware that I am 
 
 **_Email-A-Friend_**
 
-If you elect to use our referral service by emailing a friend an article link, the site asks you for the friend's name and email address. Productivity Portfolio will automatically send your friend a one-time email inviting them to visit the site. Productivity Portfolio uses this information for the sole purpose of sending this one-time email. The friend's email address is not stored.
+If you elect to use our referral service by emailing a friend an article link, the site asks you for the friend's name and email address. Productivity Portfolio will automatically send your friend a one-time email inviting them to visit the site. Productivity Portfolio uses this information for the sole purpose of sending this one-time email. The friend's email address is not stored, nor are they added to our mailing list. Signing up for our mailing list also requires a double opt-in.
 
 ### Security
 
@@ -91,7 +97,7 @@ While I require our payment vendor to use SSL encryption to protect sensitive in
 
 **Notification of Changes**
 
-If we decide to change our privacy policy, I will post those changes to this privacy statement, the homepage, and other places I deem appropriate so our readers are always aware of what information I collect, how I use it, and under what circumstances, if any, I disclose it. I will use information in accordance with the privacy policy under which the information was collected.
+If I decide to change our privacy policy, I will post those changes to this privacy statement, the homepage, and other places I deem appropriate so our readers are always aware of what information I collect, how I use it, and under what circumstances, if any, I disclose it. I will use information in accordance with the privacy policy under which the information was collected.
 
 If, however, I plan to use readers' personally identifiable information in a manner different from that stated at the time of collection I will notify users. Users will have a choice as to whether or not I use their information in this different manner.
 
