@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519085752id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014140016id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ The Teaching Ideas site does not collect any personal information from visitors 
 
 **The information that others collect:**
 
-Teaching Ideas uses a number of third party services to provide additional functionality to the site and its users. These services may use cookies. Find out more about cookies on our [cookies page](https://web.archive.org/web/20120519085752id_/http%3A//www.teachingideas.co.uk/cookies.htm). The third party services used on Teaching Ideas are:
+Teaching Ideas uses a number of third party services to provide additional functionality to the site and its users. These services may use cookies. Find out more about cookies on our [cookies page](https://web.archive.org/web/20121014140016id_/http%3A//www.teachingideas.co.uk/cookies.htm). The third party services used on Teaching Ideas are:
 
   * **Google Analytics** \- Teaching Ideas uses Google Analytics to track and monitor statistics about visitors to the site. You can read the [Google Analytics Privacy Overview here](http://www.google.com/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, Google provide [this browser add-on](http://tools.google.com/dlpage/gaoptout) which you can install on your computers.
   * **Advertisers** \- In order to provide free lesson ideas and educational resources, Teaching Ideas shows advertising, which are provided by the following services: 
