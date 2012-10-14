@@ -1,0 +1,472 @@
+<!--The following is the downloaded HTML source of the pidoco.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015012211id_/https%3A//pidoco.com/en/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/files/icons/favicon.ico" type="image/x-icon">
+<link rel="canonical" href="https://pidoco.com/en/privacy-policy">
+<meta name="keywords" content="wireframing tool, terms, conditions, user interface design software">
+<meta name="copyright" content="pidoco°">
+<meta name="description" content="Pidoco’s wireframing tool lets you create clickable wireframes for web and mobile applications without programming! Find our terms and conditions here.">
+<meta name="revisit-after" content="1 day">
+		<title>Privacy Policy for the Pidoco wireframing tool - by Pidoco</title>
+		<script type="text/javascript" defer="" async="" src="https://pidoco.com/piwik/piwik.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" src="/misc/jquery.js?C"></script>
+<script type="text/javascript" src="/misc/drupal.js?C"></script>
+<script type="text/javascript" src="/sites/all/modules/ie6nomore/ie6nomore.js?C"></script>
+<script type="text/javascript" src="/sites/all/themes/pidoco2011/js/pidoco.js?C"></script>
+<script type="text/javascript" src="/sites/all/themes/pidoco2011/js/webfont.js?C"></script>
+<script type="text/javascript" src="/sites/all/themes/pidoco2011/js/jquery.tools.min.js?C"></script>
+<script type="text/javascript" src="/sites/all/themes/pidoco2011/js/payment-information.js?C"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+		<link type="text/css" rel="stylesheet" media="all" href="/files/css/css_3047fa327bebb9d44091f804c30278e2.css">
+		<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/sites/all/themes/pidoco2011/css/ie.css" /><![endif]-->
+		<meta name="google-site-verification" content="LPN1JoLVErbQNr8uRNV-8KwATBV0bpzhXNxoOiYS1GA">
+		<link href="/blog/feed" title="pidoco° gui prototyping blog" type="application/rss+xml" rel="alternate">	
+	<script>
+	
+		var loginform = null;
+
+		$(document).ready(function() {
+
+			// Move all lightbox overlays into the overlay placeholder
+			$(".lightbox").appendTo("#overlay-placeholder");
+			
+						var data = 'justcontent=1';
+			$.ajax({url: '/en/user/login',
+				dataType: "html",
+				type: 'GET',
+				data: data,
+				success: function(data) {
+					loginform = data;
+				}
+			});
+			
+			$(".login[rel]").overlay({
+				onBeforeLoad: function(event) {
+					$('.loginform').html(loginform);
+					$('form#user-login').attr("action", "/en/user/login");
+				},
+				onLoad: function(event) {
+					$('#edit-name').focus();
+				},
+				onClose: function() {
+					$('.loginform').empty();
+				},
+				fixed: false,
+				mask: {
+				color: '#444',
+				loadSpeed: 200,
+				opacity: 0.4
+			}
+			});
+						
+			$(".lang").hover( 
+				function() {
+					// Mouse over lang <li> item
+					var $dropdown = $(this).find(".dropdown");
+					if( ! $dropdown.hasClass("show")) {
+						$dropdown.addClass("show");
+						$("#header").find(".options").addClass("langshow");
+					}
+    		},
+				function() {
+					// Mouse out of lang <li>
+					$(this).find(".dropdown").removeClass("show");
+						$("#header").find(".options").removeClass("langshow");
+			});
+		});
+	</script></head>
+
+	
+
+	<body>
+		<div id="pidoco">
+			<div id="header">
+				<a href="#main" class="skip">Skip to Content</a>
+				<noscript><div>Javascript must be enabled for the correct page display</div></noscript>
+				<div class="header-holder">
+					<strong class="logo"><a href="/en/" title="pidoco° a gui prototyping tool">Pidoco</a></strong>
+					<div class="row">
+						<ul class="options">
+															<li><a href="/en/pricing">Register</a></li>
+								<li><a class="login" href="en/user/login" rel=".lightbox-login">Log in</a></li>
+														
+								<li class="lang">
+									<a href="/en/privacy-policy" class="language-link active"><img src="/sites/all/modules/pidoco_language_icons/flags/en.gif" class="language-icon" alt="English"></a><a href="#" id="lang-button" role="button"><div></div></a><div class="dropdown"><a href="/de/privacy-policy" class="language-link"><img src="/sites/all/modules/pidoco_language_icons/flags/de.gif" class="language-icon" alt="Deutsch"></a></div>								</li>
+						</ul>
+						<ul class="topnav">
+							<li class="phone">+49 30 4881 6385</li>
+															<li class="contact"><a href="/en/contact">Contact us</a></li>
+																				</ul>
+					</div>
+					
+					<div class="nav-holder">
+												<ul class="menu"><li class="leaf first"><a href="/en" title="">HOME</a></li>
+<li class="leaf"><a href="/en/tour/why-pidoco" title="">TOUR</a></li>
+<li class="leaf"><a href="/en/pricing" title="">PRICING</a></li>
+<li class="leaf"><a href="/en/company/about-us" title="">COMPANY</a></li>
+<li class="leaf last"><a href="/en/help/faqs" title="">SUPPORT</a></li>
+</ul>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="node privacy-policy"><div id="headline"><h1><a rel="nofollow" href="privacy-policy" title="Privacy Policy for the Pidoco wireframing tool">Privacy Policy for the Pidoco wireframing tool</a></h1></div><div class="content"><div id="main">
+	<style type="text/css">
+		@page {  }
+		table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+		td, th { vertical-align:top; font-size:12pt;}
+		h1, h2, h3, h4, h5, h6 { clear:both }
+		span.footnodeNumber { padding-right:1em; }
+		span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+		* { margin:0;}
+		.P10 { font-size:24pt; font-weight:bold; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:center ! important; font-family:Times New Roman; writing-mode:lr-tb; margin-left:0in; margin-right:0in; text-indent:0in; }
+		.P11 { font-size:11pt; line-height:100%; text-align:justify ! important; font-family:Myriad Pro, Corbel; writing-mode:lr-tb; }
+		.P12 { font-size:11pt; line-height:100%; text-align:justify ! important; font-family:Myriad Pro, Corbel; writing-mode:lr-tb; }
+		.P13 { font-size:11pt; line-height:100%; text-align:justify ! important; font-family:Myriad Pro, Corbel; writing-mode:lr-tb; }
+		.P14 { font-size:10pt; line-height:100%; text-align:justify ! important; font-family:Arial; writing-mode:lr-tb; }
+		.P15 { font-size:10pt; line-height:100%; text-align:justify ! important; font-family:Arial; writing-mode:lr-tb; }
+		.P16 { font-size:10pt; line-height:100%; text-align:justify ! important; font-family:Arial; writing-mode:lr-tb; }
+		.P17 { font-size:10pt; line-height:100%; text-align:justify ! important; font-family:Arial; writing-mode:lr-tb; }
+		.P3 { font-size:12pt; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:center ! important; font-family:Times New Roman; writing-mode:lr-tb; }
+		.P4 { font-size:12pt; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:justify ! important; font-family:Times New Roman; writing-mode:lr-tb; }
+		.P5 { font-size:10pt; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:justify ! important; font-family:Arial; writing-mode:lr-tb; }
+		.P6 { font-size:10pt; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:justify ! important; font-family:Arial; writing-mode:lr-tb; }
+		.P7 { font-size:12pt; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:right ! important; font-family:Times New Roman; writing-mode:lr-tb; }
+		.P8 { font-size:12pt; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:justify ! important; font-family:Times New Roman; writing-mode:lr-tb; margin-left:0in; margin-right:0.05in; text-indent:0in; }
+		.P9 { font-size:10pt; line-height:100%; margin-bottom:0in; margin-top:0in; text-align:justify ! important; font-family:Arial; writing-mode:lr-tb; margin-left:0in; margin-right:0.05in; text-indent:0in; }
+		.Internet_20_link { color:#00008b; text-decoration:underline; }
+		.Strong_20_Emphasis { font-weight:bold; }
+		.T2 { font-family:Arial; font-size:12pt; }
+		.T3 { font-family:Arial; font-size:10pt; }
+		.T4 { font-family:Arial; font-size:10pt; }
+		.T5 { font-family:Arial; font-size:10pt; font-style:italic; }
+		.T6 { font-family:Arial; font-size:10pt; text-decoration:underline; }
+		.T7 { font-family:Arial; font-size:10pt; font-weight:normal; }
+		.T9 { color:#000000; font-family:Arial; font-size:10pt; }
+		.WW8Num1z0 { font-family:Symbol; }
+		.WW8Num1z2 { font-family:Courier New; }
+		.WW8Num1z3 { font-family:Wingdings; }
+		.WW8Num3z0 { font-family:Symbol; }
+		.WW8Num3z1 { font-family:Courier New; }
+		.WW8Num3z2 { font-family:Wingdings; }
+		.WW8Num4z0 { font-family:Symbol; font-size:10pt; }
+		.WW8Num4z1 { font-family:Courier New; font-size:10pt; }
+		.WW8Num4z2 { font-family:Wingdings; font-size:10pt; }
+		<!-- ODF styles with no properties representable as CSS -->
+		{ }
+	</style>
+
+<h1 class="P10"><span class="T2">Privacy &amp; Data Protection</span></h1><p class="P3"><span class="T9">at</span><span class="T9"> Pidoco GmbH (also referred to hereinafter as “Pidoco”)<br>Commercial Register: HRB 115010 B (Berlin-Charlottenburg Municipal Court)<br>Represented by Philipp Huy, Warschauer Str. 58a, 10243 Berlin, Germany<br>Email: </span><span class="T4">contact@pidoco.com</span><span class="T9">, Phone +49 30 4881 6385, Fax +49 30 4881 6390</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="T9">In case of doubt, the German version of th</span><span class="T9">is privacy and data protection policy shall prevail.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">Pidoco</span></span><span class="Strong_20_Emphasis"><span class="T4"> GmbH’s Privacy Policy</span></span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T9">We</span><span class="T9"> run a technical system on or through our website, which enables you to create interactive software prototypes – including visualisations of user interfaces and navigation processes – and then give other users an opportunity to edit and use them as well as comment on them. As a registered user, you can also at the same time contact other users and interact with them for the purpose of designing and testing the prototype. Basically, this involves exchanging all manner of information; in connection with creating user interfaces and prototypes, this will include data that you as a user have posted on the platform yourself and made visible for fellow users. Some of this information will be personal data. We always fully comply with the regulations laid down in </span><span class="T4">the Federal Data Protection Act [</span><span class="T5">Bundesdatenschutzgesetz</span><span class="T4">] and the Telemedia Act [</span><span class="T5">Telemediengesetz</span><span class="T4">]</span><span class="T9">, and we only collect and process your personal data to the extent specified in our Privacy Policy given under.</span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T4">This having been said, </span><span class="T4">a detailed explanation is given below of the extent to which we collect, process and use personal data, and for what purpose. </span><span class="Strong_20_Emphasis"><span class="T6">You may naturally withdraw your consent at any time.</span></span><span class="Strong_20_Emphasis"><span class="T7"> </span></span><span class="T4">Written notice that you are withdrawing consent can be sent by post to Pidoco GmbH, Warschauer Str. 58a, 10243 Berlin, or by email to service@pidoco.com. Please note though that after you have given notice, you will no longer be able to access some of the services and functions.</span></p><p class="P5">&nbsp;</p><p class="P5">&nbsp;</p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">1. </span></span><span class="Strong_20_Emphasis"><span class="T4">Type and scope of personal data collected and processed</span></span></p><p class="P4"><span class="T4"><br></span><span class="T4">We collect and process personal data when you register for the services on our website and when you send messages to other users. To a certain extent, we also store data that accumulates during use of our website, but only in anonymous form or under a pseudonym. Moreover, when you design prototypes after registering, the content you create is stored electronically on the servers of our provider of web-hosting services (Hetzner Online AG), so that the data can be retrieved by third parties as you have intended and to the extent that is required for our service in the first place.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">a) </span></span><span class="Strong_20_Emphasis"><span class="T4">Master data</span></span></p><p class="P4"><span class="T4"><br></span><span class="T4">If you want to use our services you have to register, whereupon you will be sent the access data for your account. During registration we always ask for and store the following master data:</span></p><p class="P5">&nbsp;</p><ul><li>your first name and surname,</li><li>your user name, if you select one for your own profile later,</li><li>your password for accessing Pidoco’s service, and</li><li>an email address where we can contact you for providing our services.</li></ul><p class="P15">&nbsp;</p><p class="P6">As soon as you make use of Pidoco’s fee-paying services, we also collect the following master data:</p><p class="P6">&nbsp;</p><ul><li>your address (street and number, postcode and location), and</li><li>your payment data, such as bank account details, credit card number, etc.</li></ul><p class="P15">&nbsp;</p><p class="P11"><span class="T3">On</span><span class="T3">ce you become a user, we need your master data in order to be able to identify you as our contractual partner, open and run your user account, actually provide our services, and contact you if necessary. For instance, we use your email address to inform you about using our services, to give you advance notice of downtimes for system maintenance, and to send you information relevant to your contract, such as confirmation of contract closure or notification about the expiry of a trial period. </span><span class="T3">Your customer status, as embodied in your master data, also enables you to access your user account: you can log in to your user account with your user name.</span></p><p class="P15">&nbsp;</p><p class="P4"><span class="T4">The name of your company and your VAT number are added to the master data listed above</span><span class="T4">, if you provide that information voluntarily. For handling payments for our services, we pass on the applicable information about your credit card, bank account, etc. to the payment service provider you have indicated, such as PayPal, Wirecard AG, etc., depending on the mode of payment you have chosen. The data protection provisions of the respective payment service provider you have selected then also apply in addition.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">b) Email n</span></span><span class="Strong_20_Emphasis"><span class="T4">ewsletter</span></span></p><p class="P4"><span class="T4"><br></span><span class="T4">We also use your email address to send you a newsletter by email at reasonable intervals, provided you have expressly consented to this by clicking on the relevant checkbox. Apart from edited articles and information, the newsletter may also contain advertisements for our products or new services. However, you can cancel the newsletter at any time by sending an email to </span><a href="mailto:service@pidoco.com"><span class="Internet_20_link"><span class="T4">service@pidoco.com</span></span></a><span class="T4"> or simply by clicking on the link provided in each newsletter.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">c) </span></span><span class="Strong_20_Emphasis"><span class="T4">Usage data, usage profile, cookies</span></span></p><p class="P4"><span class="T4"><br></span><span class="T4">On principle, you can also view our website without specifically providing any personal data. Nonetheless, some data still accumulates during usage. The following applies to this so-called usage data:</span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T4">aa) </span><span class="T4">When our website is visited by registered users or by ordinary Internet users, we store certain data that is collected in so-called logfiles. A logfile consists of the IP address, the time when the visit to our website started and ended, the quantity of data transmitted, and the sub-pages called up on our website. We collect and store these logfiles, for one thing for security reasons, in order to be able to trace any instances of misuse of our services. From this data, we can analyse how our services are used – we can find out which pages are particularly popular, for instance, the times when our services are put to most intensive use, whether there is smooth navigation amongst the services, etc. This analysis produces results in statistical form that are anonymous. We use these results for improving our services both technically and editorially. So in fact, we do not know what </span><span class="T6">your</span><span class="T4"> preferred use pattern is; we only know that a user with that use pattern exists. We have no interest whatsoever in using an IP address in order to identify you as an individual.</span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T4">bb) </span><span class="T4">Our website uses the “eTracker” tool (etracker GmbH, Erste Brunnenstrasse 1, 20459 Hamburg, Germany) for doing Web analysis. eTracker uses cookies, which are text files that are stored on your computer and allow your usage of the website to be analysed (for more on cookies, see Item cc) below). The information about your usage of the website that is generated by the cookie is transmitted to a server run by etracker GmbH, where it is stored. Web analytics on our Internet platform are done with eTracker set to the data protection option “Extended data privacy compliance” [Erweiterte Datenschutzkonformität]; this means that complete IP addresses are not processed and that only an abbreviated version is stored. IP addresses are shortened by the last 8 Bit, which renders them anonymous. etracker GmbH uses this information to analyse your usage of our website, to compile reports for us about activities on our website, and to provide additional services connected with use of our website and of the Internet. etracker GmbH on no account links your IP address with any other data or passes the data on to third parties. Details on how etracker GmbH handles the data can be obtained from its privacy policy at: </span><a href="http://www.etracker.com/de/datenschutz.html"><span class="Internet_20_link"><span class="T4">http://www.etracker.com/de/datenschutz.html</span></span></a><span class="T4">. </span><a href="https://www.etracker.de/privacy?et=SLsx23"><span class="Internet_20_link"><span class="T4">Exclude from data storage</span></span></a><span class="T4">.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4">You can at any time object to your data being collected, stored and used as specified in It</span></span><span class="Strong_20_Emphasis"><span class="T4">em 1. c) above.</span></span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T4">cc</span><span class="T4">) We also use cookies on our website. Our cookies send us the log-in data, provide us with information about which browser you use and the browser version, and tell us the time and date of your visit to our website as well as the cookie number. Using cookies during registration (to the extent required – see above) and use of our services enables us to recognise you if you re-visit our website after the end of a session. Using these cookies also means that you do not have to log-in again next time you visit our service.</span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T4">In the event that</span><span class="T4"> you want to prevent cookies (including those specified in bb) above) being used, your browser can be set such that it prevents new cookies being accepted and stored. In order to find out how this works in the particular browser you use, you can refer to its “help” function or ask the manufacturer. However, it is only by using cookies that we can achieve the all-round safety and convenience of the application which we constantly endeavour to provide.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">d) </span></span><span class="Strong_20_Emphasis"><span class="T4">Content data</span></span></p><p class="P4"><span class="T4"><br></span><span class="T4">When you design prototypes and use the message function to contact other users, you are given a possibility of posting texts, images, videos, websites and other content on our servers, and of altering your content as well. You can invite other users to adapt or view your prototype and also communicate with them, and for this purpose you make your email address, user name and where applicable your avatar visible to them. You also make this information visible when as a user you accept an invitation from a fellow user to adapt or view his or her prototype. We store this content in order to provide it for retrieval in the Internet and enable our service in the first place – and if you provide personal data in connection with your prototype, this obviously includes that data as well. At the same time though, you decide entirely independently which information you want to disclose about yourself, and by deciding whom to invite you decide which users you disclose it to. In technical terms, we ensure that the data you have provided and released is posted in the relevant places on our website. On no account is your password or any data other than that specified above visible for the Internet public or even for other registered users.</span></p><p class="P9">&nbsp;</p><p class="P8"><span class="T4">After terminating the contract on use, your user account and your personal data are </span><span class="T4">erased irrevocably if you so request. The other content you have posted can still be retrieved on principle though – this applies in particular to messages and interactions with other users. However, you can contact us by email and request that certain content be deleted. </span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">2. </span></span><span class="Strong_20_Emphasis"><span class="T4">Disclosure of data to third parties, publication of content data</span></span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">a) </span></span><span class="Strong_20_Emphasis"><span class="T4">Disclosure</span></span></p><p class="P4"><span class="T4"><br></span><span class="T4">We only pass your data on to third parties</span></p><p class="P5">&nbsp;</p><ul><li>if and insofar as this is necessary in order to implement the contract we have with you, or to assert any rights and claims on our own part;</li><li>where official enquiries are involved, in particular if requested by judicial or supervisory authorities, and if disclosure is required in order to avert a threat to public safety or law and order, and for prosecuting criminal offences; and/or</li><li>if we are otherwise under obligation to do so by law.</li></ul><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">b) </span></span><span class="Strong_20_Emphasis"><span class="T4">Publication</span></span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T4">The</span><span class="T4"> content data that you have transmitted to our servers so that it can be uploaded is “published” so-to-speak when we make it available technically on the designated page on the Internet, such that other users can retrieve it as described above.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">3. Links</span></span><span class="Strong_20_Emphasis"><span class="T4"> to other websites</span></span></p><p class="P4"><span class="T4"><br></span><span class="T4">Our website contains links to the websites of other providers with whom we are in no way associated. After you have clicked on one of these links, we have no further influence on how any personal data is processed that is automatically transmitted to the other provider by the hyperlink (such as your IP address, or the URL where the link is installed), because evidently third-party conduct is entirely beyond our control. We can therefore accept no responsibility whatsoever for the processing of your personal data by third parties.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">4. </span></span><span class="Strong_20_Emphasis"><span class="T4">Information, correction, erasure, blocking</span></span></p><p class="P5">&nbsp;</p><p class="P4"><span class="T4">We will inform you at any time which of your personal data we have stored if you so request in writing or in text form. You can also request us at any time to block or erase your data. Only that data is excluded from erasure which we need for completing any unfinished tasks or for asserting our rights and claims, or which we are obliged to retain by law.</span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p><p class="P4"><span class="Strong_20_Emphasis"><span class="T4"></span></span></p>
+
+<p class="P4"><span class="Strong_20_Emphasis"><span class="T4">5. </span></span><span class="Strong_20_Emphasis"><span class="T4">Safety</span></span></p><p class="P4"><span class="T4"><br>W</span><span class="T4">e take technical and organisational steps to ensure that our users’ personal data is protected against loss, manipulation or unauthorised third-party access. Moreover, we only ever allow entitled persons to access your personal data, and even then only to the extent required for the above purposes.</span></p><p class="P5">&nbsp;</p><p class="P5">&nbsp;</p>
+
+<p class="P7"><span class="T4">Revised</span><span class="T4">: 6 July 2012</span></p><p class="P14">&nbsp;</p><p class="P14">&nbsp;</p>
+
+</div></div></div><!--[if lt IE 7]><div id="ie6nomore" class="clear-block"><div id="ie6nomore-wrapper">  <div id="ie6nomore-warning"><img src="/sites/all/modules/ie6nomore/images/ie6nomore-warning.jpg" alt="Warning!" /></div>  <div id="ie6nomore-message">    <div id="ie6nomore-title">You are using an outdated browser</div>    <div id="ie6nomore-description">For a better experience using this site, please upgrade to a modern web browser.</div>  </div><div class="ie6nomore-browser-wrapper"><a href="http://www.firefox.com" title="Get Firefox"><img class="ie6nomore-browser-image" src="/sites/all/modules/ie6nomore/images/ie6nomore-firefox-noversion.png" alt="Get Firefox"/></a></div><div class="ie6nomore-browser-wrapper"><a href="http://www.browserforthebetter.com/download.html" title="Get Internet Explorer"><img class="ie6nomore-browser-image" src="/sites/all/modules/ie6nomore/images/ie6nomore-ie-noversion.jpg" alt="Get Internet Explorer"/></a></div><div class="ie6nomore-browser-wrapper"><a href="http://www.apple.com/safari/download/" title="Get Safari"><img class="ie6nomore-browser-image" src="/sites/all/modules/ie6nomore/images/ie6nomore-safari-noversion.jpg" alt="Get Safari"/></a></div><div class="ie6nomore-browser-wrapper"><a href="http://www.google.com/chrome" title="Get Chrome"><img class="ie6nomore-browser-image" src="/sites/all/modules/ie6nomore/images/ie6nomore-chrome.jpg" alt="Get Chrome"/></a></div><div class="ie6nomore-browser-wrapper"><a href="http://www.opera.com/" title="Get Opera"><img class="ie6nomore-browser-image" src="/sites/all/modules/ie6nomore/images/ie6nomore-opera.png" alt="Get Opera"/></a></div></div></div><![endif]-->
+<noscript><p><a href='http://www.etracker.com'><img style='border:0px;' alt='' src='https://www.etracker.com/nscnt.php?et=SLsx23&et_se=1&et_url='%2Fen%2Fprivacy-policy /></a></p></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq = _paq || [];_paq.push([function() {  if(this.getCustomVariable(2, 'visit') == false ) { this.setCustomVariable(2, 'user_state', 'anonymous', 'visit'); } }]);_paq.push([function() {  var nameEQ = 'previewseen=';
+										var ca = document.cookie.split(';');
+										var variableValue = 'not seen';
+										for(var i=0;i < ca.length;i++) {
+											var c = ca[i];
+											while (c.charAt(0)==' ') c = c.substring(1,c.length);
+											if (c.indexOf(nameEQ) == 0 && c.substring(nameEQ.length,c.length) == 'true') 
+												variableValue = 'seen';
+										} 
+										if(this.getCustomVariable(2, 'visit') != false && this.getCustomVariable(2, 'visit')[1] == 'logged_in' ) variableValue += '_logged-in';
+										this.setCustomVariable(5, 'preview', variableValue, 'visit'); }]);(function(_paq) {var r = '';try {r = window.top.document.referrer;} catch (e) {if (window.parent) {try {r = window.parent.document.referrer;} catch (e2) {r = '';	}}}if (r === '') {r = document.referrer;}
+		if(r !== '' && r.search('^https://pidoco.com') == -1) {	$.ajax({url: '/tracking/referrer',type: 'GET',data: 'referrer=' + encodeURIComponent(r)+'&justcontent=3'}); }
+		_paq.push([function() { var channel = 'website';
+				if(this.getCustomVariable(2, 'visit') != false && this.getCustomVariable(2, 'visit')[1] == 'logged_in' ) channel += '_logged-in';
+				if(channel != 'affiliate' && channel != 'promotion' && channel != 'invited' && channel != 'sem' && channel != 'chrome-web-store' && channel.indexOf('_logged-in') == -1) {
+				if(r.match('(://[^/]+\.(google|bing|yahoo)\..+[&?][pq]=)')) {
+					channel = 'seo';
+					if(r.match('[&?][pq]=(&|$)')) channel = 'seo-no-kwd';
+					if(r.match('[&?][pq]=[^&]*pidoco')) channel = 'seo-pidoco';
+				}
+				else if(r !== '' && r.search('^https://pidoco.com') == -1) channel = 'website';
+				else channel = 'other';
+			}
+			if( this.getCustomVariable(3, 'visit') == false || channel == this.getCustomVariable(3, 'visit')[1] + '_logged-in') { this.setCustomVariable( 3, 'channel',channel, 'visit'); }} ]);
+		})(_paq);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.write(String.fromCharCode(60)+'script type="text/javascript" src="https://pidoco.com/clickheat/js/clickheat.js">'+String.fromCharCode(60)+'/script>');
+//--><!]]>
+</script><script type="text/javascript" src="https://pidoco.com/clickheat/js/clickheat.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+clickHeatSite = 'pidoco.com'; clickHeatGroup = 'en-privacy-policy'; clickHeatServer = 'https://pidoco.com/clickheat/click.php'; initClickHeat(); 
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.write(String.fromCharCode(60)+'script type="text/javascript" src="http'+('https:'==document.location.protocol?'s':'')+'://code.etracker.com/t.js?et=SLsx23">'+String.fromCharCode(60)+'/script>');
+//--><!]]>
+</script><script type="text/javascript" src="https://code.etracker.com/t.js?et=SLsx23"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var et_se = 1;var et_url = '%2Fen%2Fprivacy-policy'; var et_areas = 'anonymous'; var et_tag = 'segmentA';
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_etc();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://pidoco.com/piwik/" : "https://pidoco.com/piwik/");_paq.unshift(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();
+//--><!]]>
+</script>
+			
+			<div class="bottom-panel">
+					<ul class="social-networks">
+						<li><a class="delicious" href="http://delicious.com/save">delicious</a>
+						</li><li><a class="twitter" href="http://twitter.com/pidoco">twitter</a>
+						</li><li><a class="facebook" href="http://www.facebook.com/pages/pidoco/100383415207?ref=ts">facebook</a>
+						</li><li><a class="youtube" href="http://www.youtube.com/user/pidoco/videos">youtube</a>
+						</li><li><a class="rss" href="http://wireframes-usability.com/feed/">rss</a></li>
+					</ul>
+					<span>or give us a call: +49 30 4881 6385</span>
+			</div>
+			
+			<div id="footer">
+				<div class="footer-holder">
+					<div class="panel">
+							<div class="column">
+								<strong>Tour</strong>
+								<ul>
+									<li><a href="/en/tour/why-pidoco">Why pidoco</a></li>
+									<li><a href="/en/tour/video-tour">Video Tour</a></li>
+									<li><a href="/en/tour/features">Key Features</a></li>									
+									<li><a href="/en/tour/prototype-gallery">Prototype Gallery</a></li>
+									<li><a href="/en/pricing">Prices &amp; Plans</a></li>
+								</ul>
+							</div>
+							<div class="column">
+								<strong>Product</strong>
+								<ul>
+									<li><a href="/en/tour/features/wireframes">Wireframes</a></li>
+									<li><a href="/en/tour/features/prototypes">Prototypes</a></li>
+									<li><a href="/en/tour/features/collaboration">Collaboration</a></li>
+									<li><a href="/en/tour/features/usability-tests">Usability Tests</a></li>
+									<li><a href="/en/tour/features/specifications">Exports</a></li>
+									<li><a href="/en/tour/features/mobile">Mobile Apps</a></li>
+									<li><a href="/en/tour/features/templates">Templates</a></li>
+									<li><a href="/en/tour/features/pidoco-api">Integrated API</a></li>
+									<li><a href="/en/tour/features/software-as-a-service">Software-as-a-Service</a></li>
+								</ul>
+							</div>
+							<div class="column">
+								<strong>Company</strong>
+								<ul>
+									<li><a href="/en/company/about-us">About Us</a></li>
+									<li><a href="/en/company/careers">Careers</a></li>
+									<li><a href="/en/company/press">Press</a></li>
+									<li><a href="http://wireframes-usability.com">Blog</a></li>
+									<li><a href="/en/company/referral-program">Referral Program</a></li>
+									<li>
+																		<a href="/en/contact">Contact</a></li>
+								</ul>
+							</div>
+							<div class="column">
+								<strong>Support</strong>
+								<ul>
+									<li><a href="/en/help/faqs">FAQs</a></li>
+									<li><a href="/en/help/doc">Glossary</a></li>
+									<li><a href="/en/help/tutorial">Step-by-step Tutorial</a></li>
+									<li><a href="/en/help/api">API Documentation</a></li>
+									<li><a href="/en/help/ux">UX Dictionary</a></li>
+									<!-- li><a href="/en/help/announcements">Announcements</a></li>
+									<li><a href="/en/help/downloads">Downloads</a></li -->
+								</ul>
+							</div>
+						<div class="save-box">
+							<strong class="title">This Website is Safe</strong>
+							<a title="Click to verify." href="https://pci.usd.de/compliance/1992-AD7F-9E68-C2B3-38F3-E87B/details_en.html" target="_blank" onclick="window.open(this.href, '', 'width = 600, height = 615, left = 100, top = 200'); return false;">
+								<img src="https://pci.usd.de/compliance/1992-AD7F-9E68-C2B3-38F3-E87B/seal.png">
+							</a>
+						</div>
+						<div id="sitemap">
+													</div>
+					</div>
+											<div id="bottombox">
+							<h2>Online Wireframing and Prototyping Tool</h2>
+							<p>Pidoco is a collaborative online <a href="/en/tour/features">wireframing and prototyping tool</a>, which works entirely in
+							your web browser. With Pidoco you can easily create clickable mockups, <a href="/en/tour/features/wireframes">wireframes</a> and <a href="/en/tour/features/prototypes">GUI
+							prototypes</a> without programming. You can share your results with collaborators, reviewers
+							and test users for <a href="/en/tour/features/collaboration">real-time editing</a>, discussion and approval. This will help you <a href="/en/tour/features/usability-tests">design better
+							user interfaces</a> (UI) for web, mobile and desktop applications and create solutions that work
+							for the end user.</p>
+						
+							<h2>Great User Interface Design with Wireframes, Mockups, UI Prototypes</h2>
+							<p>Functions: Create mockups, <a href="/en/tour/features/wireframes">wireframes</a> and UI prototypes. Share mockups, wireframes and
+							prototypes for reviewing and collect feedback online. Run online <a href="/en/tour/features/usability-tests">usability</a> tests with real end
+							users of your website or software application. Generate <a href="/en/tour/features/specifications">visual functional specifications</a> with
+							the click of a button.</p>
+						
+							<h2>Interface Design Tool for Profitable Software Projects</h2>
+							<p>Benefits: Pidoco can speed up your development projects by more than 50 percent. Create
+							<a href="/en/tour/features/prototypes">interactive UI prototypes</a> and wireframes faster. Share concepts faster. Communicate with
+							your team faster. Get feedback and concept approval faster. Get <a href="/en/tour/features/usability-tests">usability test</a> results faster.
+							And implement approved prototypes faster. This will save you lots of money and boost
+							project success. Pidoco will help you be on time, on budget and on target, all the while
+							exceeding expectations!</p>
+						
+							<p>Why wait? Simply <a href="/en/pricing">sign up for a free trial account</a> and start to design wireframes, mockups
+							and GUI prototypes with our online <a href="/en/tour/features">wireframing and prototyping software</a>!</p>
+						</div>
+										
+					
+					<ul class="subnav">
+						<li><a accesskey="3" href="/en/sitemap.xml">Sitemap</a></li>
+						<li><a accesskey="8" href="/en/tos">Terms &amp; Conditions</a></li>
+						<li><a href="/en/privacy-policy">Privacy Policy</a></li>
+						<li><a href="/en/legal-notice">Legal Notice</a></li>
+						<li><a href="/en/company/about-us">Company</a></li>
+						<li><a href="/en/help/faqs">Support</a></li>
+						<li>© Pidoco GmbH 2008-2012</li>
+					</ul>
+				</div> 
+			</div> 
+						<div id="lpfooter">
+				<div class="footer-holder">
+					<div class="panel">
+						<div class="column">
+							<strong>Wireframes</strong>
+							<ul>
+								<li><a href="/en/lp/wireframe" alt="wireframe" title="Wireframe creation with interactive features">Wireframe</a></li>
+								<li><a href="/en/lp/clickable-wireframes" alt="clickable wireframes" title="Clickable wireframes for interactive prototypes"> Clickable wireframes</a></li>
+								<li><a href="/en/lp/interactive-wireframes" alt="interactive wireframes" title="Interactive wireframes - collaboration, usability">Interactive wireframes</a></li>
+								<li><a href="/en/lp/website-wireframe" alt="website wireframe" title="Interactive wireframes - collaboration, usability">Website wireframe</a></li>
+								<li><a href="/en/lp/mobile-wireframes" alt="mobile wireframes" title="Mobile wireframes - collaboration, usability">Mobile wireframes</a></li>
+								<li><a href="/en/lp/collaborative-wireframes" alt="collaborative wireframes" title="Collaborative wireframes - collaboration, usability">Collaborative wireframes</a></li>
+								<li><a href="/en/lp/gui-wireframe" alt="gui wireframe" title="Online GUI wireframe creator">GUI wireframe</a></li>
+								<li><a href="/en/lp/wireframing" alt="wireframing" title="Collaborative wireframing online">Wireframing</a></li>
+								<li><a href="/en/lp/wireframe-creation" alt="wireframe creation" title="Online wireframe creation - collaboration, usability">Wireframe creation</a></li>
+								<li><a href="/en/lp/wireframe-tool" alt="wireframe tool" title="Wireframe tool for quick and simple GUI design">Wireframe tool</a></li>
+								<li><a href="/en/lp/wireframe-software" alt="wireframe software" title="Wireframe software for collaborative prototypes">Wireframe software</a></li>
+								<li><a href="/en/lp/wireframe-creator" alt="wireframe creator" title="The wireframe creator for easy GUI creation">Wireframe creator</a></li>
+								<li><a href="/en/lp/wireframing-tool" alt="wireframing tool" title="Wireframing tool">Wireframing tool</a></li>
+								<li><a href="/en/lp/wireframing-software" alt="wireframing software" title="Wireframing software">Wireframing software</a></li>
+								<li><a href="/en/lp/online-wireframe-tool" alt="online wireframe tool" title="Online wireframe tool">Online wireframe tool</a></li>
+								<li><a href="/en/lp/wireframe-creation-tool" alt="wireframe creation tool" title="Wireframe creation tool">Wireframe creation tool</a></li>
+								<li><a href="/en/lp/collaborative-wireframe-software" alt="Collaborative wireframe software" title="Collaborative wireframe software">Collaborative wireframe software</a></li>
+								<li><a href="/en/lp/wireframe-sketcher" alt="Wireframe sketcher" title="Wireframe sketcher">Wireframe sketcher</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<strong>Prototypes</strong>
+							<ul>
+								<li><a href="/en/lp/prototype" alt="prototype" title="Collaborative prototypes online">Prototype</a></li>
+								<li><a href="/en/lp/clickable-prototype" alt="clickable prototype" title="Clickable prototypes - online collaboration">Clickable prototype</a></li>
+								<li><a href="/en/lp/prototype-software" alt="prototype software" title="Prototype software - online collaboration, usability">Prototype software</a></li>
+								<li><a href="/en/lp/prototype-creator" alt="prototype creator" title="Online prototype creator for interactive wireframes">Prototype creator</a></li>
+								<li><a href="/en/lp/prototyping" alt="prototyping" title="Collaborative prototyping online">Prototyping</a></li>
+								<li><a href="/en/lp/collaborative-prototyping" alt="collaborative prototyping" title="Collaborative prototyping online">Collaborative prototyping</a></li>
+								<li><a href="/en/lp/prototyping-software" alt="prototyping software" title="Prototyping Software - collaboration, usability">Prototyping software</a></li>
+								<li><a href="/en/lp/prototyping-tool" alt="prototyping tool" title="Prototyping tool">Prototyping Tool</a></li>
+								<li><a href="/en/lp/ui-prototype" alt="ui prototype" title="Collaborative UI prototypes">UI prototype</a></li>
+								<li><a href="/en/lp/ui-prototyping" alt="ui prototyping" title="Collaborative UI prototyping">UI prototyping</a></li>
+								<li><a href="/en/lp/ui-prototyping-software" alt="ui prototyping software" title="UI prototyping software">UI prototyping software</a></li>
+								<li><a href="/en/lp/ui-prototyping-tool" alt="ui prototyping tool" title="UI prototyping tool- collaboration, usability">UI prototyping tool</a></li>
+								<li><a href="/en/lp/gui-prototype" alt="gui prototype" title="GUI prototypes made quickly and easily online">GUI prototype</a></li>
+								<li><a href="/en/lp/gui-prototyping" alt="gui prototyping" title="Online GUI prototyping tool">GUI prototyping</a></li>
+								<li><a href="/en/lp/gui-prototyping-tool" alt="gui prototyping tool" title="GUI prototyping tool - online collaboration">GUI prototyping tool</a></li>
+								<li><a href="/en/lp/gui-prototyping-software" alt="gui prototyping software" title="GUI prototyping software">GUI prototyping software</a></li>
+								<li><a href="/en/lp/online-prototype-maker" alt="online prototype maker" title="Online prototype maker">Online prototype maker</a></li>
+								<li><a href="/en/lp/paper-prototyping" alt="paper prototyping" title="Paper prototyping">Paper prototyping</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<strong>Mockups</strong>
+							<ul>
+								<li><a href="/en/lp/mockups" alt="mockups" title="Clickable mockups online">Mockups</a></li>
+								<li><a href="/en/lp/clickable-mockups" alt="clickable mockups" title="Clickable mockups online">Clickable mockups</a></li>
+								<li><a href="/en/lp/website-mockups" alt="website mockups" title="Website mockups online">Website mockups</a></li>
+								<li><a href="/en/lp/ipad-mockup" alt="ipad mockup" title="Online iPad mockup tool">iPad mockup</a></li>
+								<li><a href="/en/lp/iphone-mockup" alt="iphone mockup" title="Online iPhone mockup tool">iPhone mockup</a></li>
+								<li><a href="/en/lp/mockup-tool" alt="mockup tool" title="Online GUI mockup tool">Mockup tool</a></li>
+								<li><a href="/en/lp/mockup-software" alt="mockup software" title="Mockup software - online collaboration, usability">Mockup software</a></li>
+								<li><a href="/en/lp/gui-mockup-tool" alt="gui mockup tool" title="GUI mockup tool - online collaboration">GUI mockup tool</a></li>
+								<li><a href="/en/lp/mockup-creator" alt="mockup creator" title="Mockup creator">Mockup creator</a></li>
+								<li><a href="/en/lp/usability" alt="usability" title="Usability wireframing software">Usability</a></li>
+								<li><a href="/en/lp/collaboration" alt="collaboration" title="Interface design tool">Collaboration</a></li>
+								<li><a href="/en/lp/interaction-design" alt="interaction design" title="Interaction design tool">Interaction design</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<strong>UI Design</strong>
+							<ul>
+								<li><a href="/en/lp/ui-design" alt="ui design" title="UI design tool- collaboration, usability">UI design</a></li>
+								<li><a href="/en/lp/interface-design" alt="interface design" title="Interface design tool - collaboration, usability">Interface design</a></li>
+								<li><a href="/en/lp/user-interface-design" alt="user-interface-design" title="User interface design">User interface design</a></li>
+								<li><a href="/en/lp/software-interface-design" alt="software interface design" title="Software interface design - collaboration, usability">Software interface design</a></li>
+								<li><a href="/en/lp/ui-design-tool" alt="ui design tool" title="Online UI design tool">UI design tool</a></li>
+								<li><a href="/en/lp/ui-design-software" alt="ui design software" title="Online UI design software">UI design software</a></li>
+								<li><a href="/en/lp/user-interface-design-tool" alt="user interface design tool" title="User interface design tool">User interface design tool</a></li>
+								<li><a href="/en/lp/user-interface-design-software" alt="user interface design software" title="Online user interface design software">User interface design software</a></li>
+								<li><a href="/en/lp/interface-software" alt="interface software" title="Interface software">Interface software</a></li>
+								<li><a href="/en/lp/interface-prototyping" alt="interface prototyping" title="Interface prototyping">Interface prototyping</a></li>
+								<li><a href="/en/lp/interface-design-tool" alt="interface design tool" title="Interface design tool - online collaboration">Interface design tool</a></li>
+								<li><a href="/en/lp/interface-design-software" alt="interface design software" title="Interface design software - collaboration, usability">Interface design software</a></li>
+								<li><a href="/en/lp/gui-design" alt="gui design" title="GUI design made easy with our online wireframe tool">GUI design</a></li>
+								<li><a href="/en/lp/gui-design-tool" alt="gui design tool" title="Online GUI design tool - collaboration, usability">GUI design tool</a></li>
+								<li><a href="/en/lp/gui-design-software" alt="gui design software" title="Online GUI design software">GUI design software</a></li>
+							</ul>
+						</div>
+					</div>	
+				</div>
+			</div>
+						<div id="overlay-placeholder"><div class="lightbox lightbox-login">
+						<a href="#" class="close">close</a>
+						<div class="box">
+							<h2>Log in</h2>
+							<div class="loginform"></div>
+							<div class="bar-holder">
+								<div class="bar">
+									<p>Not yet registered? <a href="/en/pricing">Sign up now!</a></p>
+								</div>
+							</div>
+						</div>
+					</div></div>
+		</div>
+	
+	
+	
+</body></html>
