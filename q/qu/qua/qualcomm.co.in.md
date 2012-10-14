@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the qualcomm.co.in privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611151256id_/http%3A//www.qualcomm.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualcomm.co.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014124558id_/http%3A//www.qualcomm.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Site Information | Qualcomm
+
+Effective October 1, 2012, QUALCOMM Incorporated completed a corporate reorganization in which the assets of certain of its businesses and groups, as well as the stock of certain of its direct and indirect subsidiaries, were contributed to Qualcomm Technologies, Inc. (QTI), a wholly-owned subsidiary of QUALCOMM Incorporated. [Learn more about these changes](https://web.archive.org/#alert-ribbon-modal)
 
 In this Website Privacy Statement (“statement”), we, Qualcomm Incorporated and our wholly-owned subsidiaries, provide information about how we collect, use and transfer personally identifiable data from you, a website visitor, through [www.qualcomm.com](http://www.qualcomm.com/ "www.qualcomm.com") and other websites that we operate and on which we post a direct link to this statement (collectively the "site").
 
