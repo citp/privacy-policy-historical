@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510063716id_/http%3A//www.createandcraft.tv/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CreateAndCraft
 
@@ -77,7 +77,7 @@ For more information about cookies, visit our [About Cookies](http://www.createa
 
 11\. We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
 
-12\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [Security ](https://web.archive.org/web/20120510063716id_/http%3A//www.createandcraft.tv/CraftSecurity.aspx).
+12\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [Security ](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/CraftSecurity.aspx).
 
   
 
@@ -102,4 +102,4 @@ If you want to be removed from our mailing list, please contact our Customer Ser
 
 To change any of your registered details on createandcraft.tv or idealworld.tv, click on 'your account' and enter your login name and PIN. Once logged in change any of the details shown and click 'change details'.
 
-For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/web/20120510063716id_/http%3A//www.createandcraft.tv/TermsandConditions.aspx) and [Home Delivery ](https://web.archive.org/web/20120510063716id_/http%3A//www.createandcraft.tv/HomeDelivery.aspx).
+For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/TermsandConditions.aspx) and [Home Delivery ](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/HomeDelivery.aspx).
