@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620093042id_/http%3A//www.cqc.org.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014095921id_/http%3A//www.cqc.org.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Care Quality Commission
 
