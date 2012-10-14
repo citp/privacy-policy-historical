@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spunkyjones.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510025202id_/http%3A//www.spunkyjones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spunkyjones.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015003524id_/http%3A//www.spunkyjones.com/privacy-policy) for the most accurate reproduction.*
 
 # Spunky Jones SEO Blog – Privacy Policy
 
