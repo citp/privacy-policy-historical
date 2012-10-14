@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdeals.com.sg privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511031142id_/http%3A//www.greatdeals.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdeals.com.sg privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014052633id_/http%3A//www.greatdeals.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Deals Singapore
 
@@ -16,22 +16,22 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 **How we use collected information**  
 Bitcast Pte Ltd collects and uses Users personal information for the following purposes:
 
-  *  _\- To personalize user experience_  
+  * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
+  * _\- To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  *  _\- To improve customer service_  
+  * _\- To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  *  _\- To process transactions_  
+  * _\- To process transactions_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  *  _\- To administer a content, promotion, survey or other Site feature_  
+  * _\- To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  _\- To send periodic emails_  
+  * _\- To send periodic emails_  
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
- **How we protect your information**  
+**How we protect your information**  
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 **Sharing your personal information**  
