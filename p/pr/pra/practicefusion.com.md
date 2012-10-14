@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608085856id_/http%3A//www.practicefusion.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014192959id_/http%3A//www.practicefusion.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Practice Fusion | Privacy Policy
 
@@ -69,7 +69,7 @@ We have no intention of accepting any information from individuals under the age
 If you have any questions about this Privacy Statement, our policies and practices, your rights under this statement, and your dealings with the Practice Fusion, send an email to [support](https://web.archive.org/pages/support-contact-us.html), or by U.S. mail at the address below:
 
 Practice Fusion   
-501 Folsom Street - Floor 1   
-San Francisco, CA 94105
+420 Taylor Street  
+San Francisco, CA 94102
 
 effective: 1/2007
