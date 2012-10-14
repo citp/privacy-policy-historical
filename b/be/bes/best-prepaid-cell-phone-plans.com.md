@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527184351id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014090449id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 COMMITMENT TO YOUR PRIVACY  
 Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.  
@@ -94,7 +96,19 @@ YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by us. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-**Share this page:  **| |   
+| **Share this page:  **| |   
 ---|---|---  
   
-Link to this page
+Enjoy this page? Why not share it with others! Here's how...  
+  
+Hi, Thanks for checking out this site! Go to the menu on the left for the plan write-ups. From there you'll find links to the individual phone reviews as well as other topics. On many of the pages you can even contribute your own questions and reviews.Below you can take a look at some of the current offers.
+
+[](http://www.anrdoezrs.net/click-2386123-10392721?sid=3C)
+
+[](http://www.kqzyfj.com/click-2386123-11021818?sid=3C&url=http%3A%2F%2Fwww.straighttalk.com%2FShopPhones)
+
+[](http://www.kqzyfj.com/click-2386123-10865400?sid=3C)
+
+[](http://www.dpbolvw.net/click-2386123-11079216?sid=3C)
+
+[](http://www.kqzyfj.com/click-2386123-10922727?sid=3C)
