@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reportlinker.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510075916id_/http%3A//privacy-policy.truste.com/verified-policy/reportlinker.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportlinker.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014095416id_/http%3A//privacy-policy.truste.com/verified-policy/reportlinker.com) for the most accurate reproduction.*
 
 # Privacy Policy for reportlinker.com
 
 Effective on May 24, 2011 
 
-This privacy statement describes how UBIQUICK collects and uses the personal information you provide on our Web site: [reportlinker.com ](https://reportlinker.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how UBIQUICK collects and uses the personal information you provide on our Web site: [reportlinker.com ](http://reportlinker.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
