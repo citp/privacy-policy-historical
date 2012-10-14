@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miniinthebox.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603022959id_/http%3A//www.miniinthebox.com/r/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniinthebox.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014041124id_/http%3A//www.miniinthebox.com/r/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice - www.Miniinthebox.com
+# 
 
   
 
