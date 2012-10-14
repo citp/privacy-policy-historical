@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the seo4experts.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604083257id_/http%3A//www.seo4experts.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo4experts.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Highlights
 
 [](https://web.archive.org/view/)  
 
-[ **Links From PR9 Sites**](http://www.forumlinkbuilding.com/view/link_building_services?seo4expertslink)
+[ **PR4-PR6** **Contextual Links**](https://web.archive.org/view/packages)
+
+[**Links From PR9 Sites**](http://www.forumlinkbuilding.com/view/link_building_services?seo4expertslink)
 
 SEO Tools   
 ♦ [Google Keyword Tracker](https://web.archive.org/view/google_keyword_tracker.php)[](https://web.archive.org/view/google_keyword_tracker.php)  
@@ -37,9 +39,6 @@ SEO Tools
 
  [](http://www.forumlinkbuilding.com/view/link_building_services?seo4experts)
 
-  
-
-
 **Neenco Privacy Policy Highlights**
 
 January 27, 2008
@@ -52,8 +51,8 @@ This notice offers highlights of the full [Neenco Privacy Policy](https://web.ar
 
 **Personal information and other data we collect**
 
-  * Neenco collects [personal information](https://web.archive.org/web/20120604083257id_/http%3A//www.seo4experts.com/view/privacy_faq#personal_information) when you register for a Neenco service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Neenco services or third parties to provide a better user experience, including customizing content for you.
-  * Neenco uses [cookies](https://web.archive.org/web/20120604083257id_/http%3A//www.seo4experts.com/view/privacy_faq#cookies) and other technologies to enhance your online experience and to learn about how you use Neenco services in order to improve the quality of our services.
+  * Neenco collects [personal information](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy_faq#personal_information) when you register for a Neenco service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Neenco services or third parties to provide a better user experience, including customizing content for you.
+  * Neenco uses [cookies](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy_faq#cookies) and other technologies to enhance your online experience and to learn about how you use Neenco services in order to improve the quality of our services.
   * Neenco's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
   * [Read more](https://web.archive.org/view/privacy_policy) in the full privacy policy. 
 
@@ -63,7 +62,7 @@ This notice offers highlights of the full [Neenco Privacy Policy](https://web.ar
 
   * We may use personal information to provide the services you've requested, including services that display customized content and advertising.
   * We may also use personal information for auditing, research and analysis to operate and improve Neenco technologies and services.
-  * We may share [aggregated non-personal information](https://web.archive.org/web/20120604083257id_/http%3A//www.seo4experts.com/view/privacy_faq#aggregated_info) with third parties outside of Neenco.
+  * We may share [aggregated non-personal information](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy_faq#aggregated_info) with third parties outside of Neenco.
   * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
   * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
   * Neenco processes personal information on our servers in the Hungary and in other countries. In some cases, we process personal information on a server outside your own country.
