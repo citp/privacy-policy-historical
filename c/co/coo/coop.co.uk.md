@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618143953id_/http%3A//www.co-operative.coop/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014161420id_/http%3A//www.co-operative.coop/terms/privacystatement) for the most accurate reproduction.*
 
-# privacy statement
+# privacy policy
+
+**Last updated 25/05/12**
 
   * [About us / Your information](https://www.co-operative.coop/terms/privacystatement/#Aboutus "Jump to 'About us'")
   * [What information do we hold on you?](http://www.co-operative.coop/terms/privacystatement/#information "Jump to 'What information do we hold on you?'")
