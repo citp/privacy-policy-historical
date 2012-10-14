@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232255id_/http%3A//www.xcubelabs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014035758id_/http%3A//www.xcubelabs.com/privacy-policy.php) for the most accurate reproduction.*
 
-# [x]cubeLABS – Mobile Application Developer - Specialty Mobile Solutions Provider for iPhone, Android & BlackBerry Apps
+# [x]cube LABS - Mobile Application Development Company - Privacy Statement
 
 PurpleTalk is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the PurpleTalk Web site and governs data collection and usage. By using the PurpleTalk website, you consent to the data practices described in this statement. 
 
