@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621075659id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014075610id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
 
 # Wholesale article
 
