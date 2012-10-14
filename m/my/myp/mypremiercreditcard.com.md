@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228043049id_/http%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014062914id_/https%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
 
 # First PREMIER Bank/PREMIER Bankcard
 
