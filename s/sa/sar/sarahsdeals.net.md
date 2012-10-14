@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarahsdeals.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617184139id_/http%3A//www.sarahsdeals.net/2008/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarahsdeals.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110924id_/http%3A//www.sarahsdeals.net/2008/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
