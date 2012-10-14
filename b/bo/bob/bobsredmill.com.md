@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobsredmill.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513050943id_/http%3A//www.bobsredmill.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsredmill.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014045759id_/http%3A//www.bobsredmill.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Bob’s Red Mill Natural Foods
 
