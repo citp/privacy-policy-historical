@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626071949id_/http%3A//www.couponchief.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014215456id_/http%3A//www.couponchief.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Coupon Chief
 
