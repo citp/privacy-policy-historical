@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the blogpaws.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607220203id_/http%3A//www.blogpaws.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogpaws.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015012708id_/http%3A//www.blogpaws.com/privacy-policy.html) for the most accurate reproduction.*
 
-# BlogPaws Privacy Policy - BlogPaws
+# BlogPaws Terms and Privacy Policy - BlogPaws - The Pet Social Media Resource
 
-Your privacy is important to BlogPaws.com. This privacy statement provides information about the personal information that BlogPaws.com collects, and the ways in which BlogPaws.com uses that personal information.  
+**Terms of Use:**
 
+By using this site, you agree to abide by the [BlogPaws Editorial Guidelines](http://community.blogpaws.com/page/community-guidelines "BlogPaws Editorial Guidelines"). 
+
+By uploading or posting written, visual, audio, or other content on any BlogPaws blog, form, or platform, you are representing that you own or have the right to publish it and you are granting BlogPaws a permanent, non-exclusive license to display, aggregate, syndicate, or use such content for any and all purposes.
+
+**Privacy Policy:**
+
+Your privacy is important to BlogPaws.com. This privacy statement provides information about the personal information that BlogPaws.com collects, and the ways in which BlogPaws.com uses that personal information.
 
 **Personal information collection**
 
@@ -18,7 +25,7 @@ BlogPaws.com may collect and use the following kinds of personal information:
 
 
 
- **Using personal information**
+**Using personal information**
 
 BlogPaws.com may use your personal information to: 
 
@@ -37,8 +44,7 @@ BlogPaws.com may use your personal information to:
 
 Where BlogPaws.com discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, BlogPaws.com may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.  
-
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, BlogPaws.com may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
 **Securing your data**
 
@@ -46,8 +52,7 @@ BlogPaws.com will take reasonable technical and organisational precautions to pr
 
 BlogPaws.com will store all the personal information you provide on secure servers owned and operated by reputable web service providers, including but not limited to TypePad.com and Eventbrite.com. BlogPaws does not own or maintain web servers and provides its services via third-parties.
 
-Information relating to electronic commerce transactions entered into via this website will be protected by encryption technology provided by our third-party web service providers.  
-
+Information relating to electronic commerce transactions entered into via this website will be protected by encryption technology provided by our third-party web service providers.
 
 **Cross-border data transfers**
 
@@ -55,22 +60,19 @@ Information that BlogPaws.com collects may be stored and processed in and transf
 
 In addition, some personal information that you submit for publication on the website will be published on the internet and may be available around the world.
 
-You agree to such cross-border transfers of personal information.  
-
+You agree to such cross-border transfers of personal information.
 
 **Updating this statement**
 
 BlogPaws.com may update this privacy policy by posting a new version on this website.
 
-You should check this page occasionally to ensure you are familiar with any changes.  
-
+You should check this page occasionally to ensure you are familiar with any changes.
 
 **Other websites**
 
 This website contains links to other websites. 
 
-BlogPaws.com is not responsible for the privacy policies or practices of any third party.  
-
+BlogPaws.com is not responsible for the privacy policies or practices of any third party.
 
 **Contact BlogPaws.com**
 
@@ -83,4 +85,4 @@ If you have any questions about this privacy policy or BlogPaws.com’s treatmen
 
 **This privacy statement**
 
-This privacy statement is based on a precedent created by [employmentlawcontracts.co.uk](http://employmentlawcontracts.co.uk/) and published by [freenetlaw.com](http://www.freenetlaw.com/). 
+This privacy statement is based on a precedent created by [employmentlawcontracts.co.uk](http://employmentlawcontracts.co.uk/) and published by [freenetlaw.com](http://www.freenetlaw.com/).
