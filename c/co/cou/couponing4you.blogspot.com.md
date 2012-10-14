@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponing4you.blogspot.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530152721id_/http%3A//couponing4you.blogspot.com/p/privacy-policy-and-ftc-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponing4you.blogspot.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014123353id_/http%3A//couponing4you.blogspot.com/p/privacy-policy-and-ftc-disclaimer.html) for the most accurate reproduction.*
 
 # Couponing 4 You: PRIVACY POLICY AND FTC DISCLAIMER
 
