@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogdash.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420031443id_/http%3A//www.blogdash.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdash.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014093515id_/http%3A//www.blogdash.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | BlogDash
-
-Blogdash Privacy Policy
+# Privacy Policy | BlogDash The Blogger Outreach Dashboard
 
 Last updated: January 2012 ** **
 
