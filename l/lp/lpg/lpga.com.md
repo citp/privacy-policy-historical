@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617021753id_/http%3A//www.lpga.com/corporate/ladies-golf/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014042158id_/http%3A//www.lpga.com/corporate/ladies-golf/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Professional Golfers | Tour Schedule, Leaderboard & News | LPGA
 
