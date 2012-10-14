@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512074652id_/http%3A//www.theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014192747id_/http%3A//www.theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
 
 # The O2 - Privacy
 
 ### Who We are
 
-This website (http://www.theo2.co.uk) (the "Site") is provided by (i) Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd), a company registered in England and Wales with a registered office at: The Studio, The O2, London SE10 0DX (Data Protection Registration Number Z8689382) and (ii) IndigO2 (the trading name of Ansco Music Club Limited), a company registered in England and Wales with a registered office at: 29 Great Guildford Street, London SE1 0ES (Data Protection Registration Number Z9942543) (together "AEG" / "We" / "Us" / "Our").
+This website (http://www.theo2.co.uk) (the "Site") is provided by (i) Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd), a company registered in England and Wales with a registered office at: The O2, London SE10 0DX (Data Protection Registration Number Z8689382) and (ii) IndigO2 (the trading name of Ansco Music Club Limited), a company registered in England and Wales with a registered office at: Almack House, 28 King Street, London, SW1Y 6QW (Data Protection Registration Number Z9942543) (together "AEG" / "We" / "Us" / "Our").
 
 AEG is committed to protecting your privacy. The purpose of this Privacy Policy is to explain how We may use any data We collect about You ("You" / "Your"), how You can instruct Us if You prefer to limit the use of that data and for Us to tell You about the policies and procedures that We have in place to safeguard Your privacy. 
 
@@ -35,10 +35,6 @@ We may collect Your data from several different areas of the Site, depending on 
 #### IP addresses and click-stream data
 
 An IP address is a number which is automatically assigned to Your computer whenever You access the Internet. When You access Our Site, We log Your IP address and can identify You from it. Click-stream data is information collected by Us when You navigate the Site, for example the specific web pages You looked at, the order You looked at them and the time of Your visit. This data helps Us analyse how visitors arrive at the Site and what content is most popular and We may use it for administration purposes or to report aggregate information to Our advertisers and sponsors.
-
-#### Cookies
-
-Cookies are small text files saved to Your computer and used to track Your navigation around the Site. Like many other website operators, We use "cookies" to record how You navigate the Site on each visit. Cookies help Us determine the most popular areas of our Site. Most web browsers automatically accept cookies but You do not have to. If You do not want data collected through the use of cookies, or if You want to be notified when You receive a cookie, You can readjust Your browser settings (usually via the "Help" section of the tool bar). However, please note that by disabling cookies Your experience of the Site may be affected as access to some parts of it may be limited. We do not control the use of cookies by third parties on third party websites.
 
 ### Optional and Future Services
 
