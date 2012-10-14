@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livefyre.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627074135id_/http%3A//www.livefyre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefyre.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132614id_/http%3A//www.livefyre.com/privacy) for the most accurate reproduction.*
 
 # Livefyre | Privacy Policy
 
@@ -95,8 +95,9 @@ Despite Livefyre's safety and privacy controls, Livefyre cannot guarantee that i
 
 We need all users to report suspicious people and inappropriate content they encounter on Livefyre. And we strongly encourage users under the age of 18 to talk to their parents or a responsible adult immediately if someone online says or does something to make them feel uncomfortable or threatened in any way.
 
-Remember that although using fake names is a violation of the Livefyre Terms of Use, people are not always who they say they are. You should always be careful when contacting people you do not know in the real world. And it is always risky to meet anyone in person whom you don't know through real world friends.  
-Always follow these important safety tips when using Livefyre: 
+Remember that although using fake names is a violation of the Livefyre Terms of Use, people are not always who they say they are. You should always be careful when contacting people you do not know in the real world. And it is always risky to meet anyone in person whom you don't know through real world friends.
+
+Always follow these important safety tips when using Livefyre:
 
   * Never share your password with anyone;
   * Be cautious about posting and sharing personal information, especially information that could be used to identify you or locate you offline;
