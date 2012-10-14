@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the purplle.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615001557id_/http%3A//purplle.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the purplle.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014022810id_/http%3A//purplle.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -7,22 +7,22 @@
         <meta name="keywords" content="">
 		<meta property="og:title" content="privacy policy | Purplle.com">
 		<meta property="og:type" content="product">
-		<meta property="og:url" content="http://purplle.com/privacy-policy.html">
-		<meta property="og:image" content="/">
-		<meta property="og:description" content="privacy policy|Buy Perfumes, Cosmetics, Deodorants, Skin Care and Hair Care products online in India. Best discount deals. Free Shipping and Cash on Delivery">
+		<meta property="og:url" content="http://purplle.com/privacy-policy.html?track_id=fbclidpost">
+		<meta property="og:image" content="
+
+">
+		<meta property="og:description" content="
+privacy policy|Buy Perfumes, Cosmetics, Deodorants, Skin Care and Hair Care products online in India. Best discount deals. Free Shipping and Cash on Delivery
+">
 		<meta property="og:site_name" content="purplle.com">
 		<meta property="fb:app_id" content="298617716861935">
-		<!-- for trolly app -->
-		<meta property="og:trolly:web_store_id" content="341"><!-- Your Trolly Web store ID. We've pre-filled it for your convenience. -->
-		<meta property="og:trolly:product_id" content="">
-		<meta property="og:trolly:price" content="">
-		<meta property="og:trolly:currency" content="INR">
- <link rel="icon" href="favicon.gif">
+		
+ <link rel="icon" href="/favicon.gif">
 <link type="image/x-icon" href="/static/purplle/img/favicon.gif" rel="icon">
 <link type="image/x-icon" href="/static/purplle/img/favicon.gif" rel="shortcut icon">
 <link href="/static/purplle/css/reset.css" rel="stylesheet" type="text/css">
 <link href="/static/purplle/css/layout.css" rel="stylesheet" type="text/css">
-<link href="/static/purplle/css/style.css?v=2" rel="stylesheet" type="text/css">
+<link href="/static/purplle/css/style.css?v=9" rel="stylesheet" type="text/css">
 <link href="/static/purplle/css/menu.css" rel="stylesheet" type="text/css">
 <link href="/static/purplle/css/tiptip.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery.autocomplete.css">
@@ -45,7 +45,7 @@
 	#scrollable-example {
 		border: 1px solid #AAA;
 	        margin: auto;
-		padding: 10px;
+		padding: 5px;
 		width: 320px;
 		text-align:center;
 	}
@@ -101,11 +101,51 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/static/js/jquery/jquery.min.js">\x3C/script>')</script><script src="/static/js/jquery/jquery.min.js"></script>
 <script src="/static/purplle/js/jquery.tools.min.js"></script>
+
 <script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
-<script type="text/javascript" src="/static/purplle/js/functions.js"></script>
+<script type="text/javascript" src="/static/purplle/js/functions.js?v=1"></script>
 <script type="text/javascript" src="/static/purplle/js/ajaxcart.js"></script>
-<script type="text/javascript" src="/static/purplle/js/regpopup.js"></script>
+<script type="text/javascript" src="/static/purplle/js/regpopup.js?v=3"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 <!--<script type="text/javascript" src="/static/purplle/js/jquery-ui-1.8.12.custom.min.js"></script>-->
+
+<script language="javascript">
+function addremovechocolate(){
+	if(document.getElementById('chocolate').checked==0){
+		
+		removefromcart(69576);
+	}else{
+		
+		addtocart(69576);
+	}
+}
+function addgiftwrap(){
+	if(document.getElementById('gift').checked==0){
+		
+		removefromcart(69623);
+	}else{
+		
+		addtocart(69623);
+	}
+}
+</script>
+<script type="text/javascript">
+
+function get_cap_img()
+{
+		$.ajax({
+						type:"GET",
+						url:"/auth/user/get_cap_img",
+						data:"",
+						cache: false,
+						success: function(response)
+						{							
+						document.getElementById("cap_img").innerHTML=response;						
+						}
+				});
+}
+
+</script>
 
 <script type="text/javascript">
 $(document).ready(function(){
@@ -357,6 +397,7 @@ $(document).ready(function(){
 
 });
 </script>
+
 <script type="text/javascript">
 function change_image(sku, num, size, module)
 {
@@ -372,6 +413,9 @@ function change_image(sku, num, size, module)
 				{
 					var name = $('#product_name').val();
 					$('#default_view').html('<img src="'+response+'" alt="'+name+'"/>');
+					$(".img-item").css("opacity","0.4");
+					div_item_hover_img=num;
+					$("#img-item-"+div_item_hover_img).css("opacity","1");
 					get_overlay_image(sku, num, '550x550', module);
 				}
 		});
@@ -395,25 +439,118 @@ function get_overlay_image(sku, num, size, module)
 		});
 }
 </script>
-
 <script type="text/javascript">
 
- function setstarvalue(rate)
- {
-	 var prid=document.getElementById("module_id").value;
-	 $("#rating_check").val(rate);
-	 $('input:radio[name="rating"][value="'+ rate +'"]').click();
+function showRate(id,rate){
+	
+	$('input:radio[name="rating_'+id+'"][value="'+ rate +'"]').click();	 
 	 
+	 var name= document.getElementById("next_"+id).value;
 	 var datastring=$('#rating_submit_form').serialize();
+	 datastring= datastring +"&module=product&module_id="+id+"&rating_"+id+"="+rate;
+	 
 	 
 					$.ajax({
 							type:"POST",
-							url:"/comment/submit_rating",
+							url:"/comment/submit_rating/"+id,
 							data: datastring,
 							cache: false,
 							success: function(response)
 							{
-								top_rating_refresh(prid);
+								top_rating_refresh(id);												
+								
+							}
+					});
+	
+	fillReview(id,rate,name);	
+	
+	document.getElementById("rev_rate_form").style.display="block";	
+	document.getElementById("review-overlay").style.display="block";
+	
+	
+	
+
+}
+
+
+function fillReview(id,rate,name){
+
+	var loadingImg = "<img src='http://purplle.com/static/purplle/css/lb-images/lightbox-ico-loading.gif' 						style='width:100px;height:100px;position:fixed;top:45%;right:42.5%;z-index:4000;' >";
+	
+	$.ajax({
+						type:"GET",
+						url:"/comment/get_form/"+id,
+						data: "",
+						cache: false,
+						success: function(response)
+						{
+						document.getElementById("selected_name").innerHTML=name;
+						document.getElementById("rev_form").innerHTML=loadingImg;					
+						document.getElementById("rev_form").innerHTML=response;
+						document.getElementById("rate_check") = rate;
+						$('input:radio[name="rating_'+id+'"][value="'+ rate +'"]').click();
+											
+						}
+				});	
+
+}
+
+function rev_submit(id)
+{
+	ajax_review_submit(id);
+	var rating=document.getElementById("rate_check").value;
+	if(rating!=0)
+	{
+		if(document.getElementById("comment").value != "")
+		{	
+			hideReview();
+		}
+	}
+
+}
+
+
+function showReview()
+{
+	$('#rev_form').slideToggle(500,'easeOutBounce');
+	$('#rev_rate_rev').slideToggle(500,'easeOutBounce',function(){ 
+		$('html,body').animate({scrollTop:$('.rating').offset().top},1000);
+	});	
+	
+	
+}
+function hideReview(){
+	
+	//document.getElementById("review-ask").style.display="block";
+	$(".review-user").html("");
+	$(".review-user").css("display", "none");
+	//document.getElementById("video-close").style.display="none";
+	document.getElementById("review-overlay").style.display="none";
+	load_menu('/account/reviews');
+	
+}
+
+
+</script>
+<script type="text/javascript">
+
+ function setstarvalue(rate,id)
+ { 
+	 $('input:radio[name="rating_'+id+'"][value="'+ rate +'"]').click();	 
+	 
+	 var datastring=$('#rating_submit_form').serialize();
+	
+	 
+					$.ajax({
+							type:"POST",
+							url:"/comment/submit_rating/"+id,
+							data: datastring,
+							cache: false,
+							success: function(response)
+							{
+								document.getElementById('rate_check').value=rate;
+								top_rating_refresh(id);												
+								
 							}
 					});
  }
@@ -439,20 +576,25 @@ function get_overlay_image(sku, num, size, module)
 					});
  }
  
- function ajax_review_submit()
+ function ajax_review_submit(id)
  
  {
-	 var pid=document.getElementById("module_id").value;
-	 var rating=document.getElementById("rating_check").value;
+	 rate=document.getElementById("rate_check").value;
 	 
-	 if(rating==0)
+	 
+	 if(rate==0)
 	 {
-	 	alert("Please rate to send review !!");
+	 	alert("Please rate to submit review !!");
+	 }
+	 else if( document.getElementById("comment").value == "")
+	 {
+	 	alert("Please write review to submit !!");	 
 	 }
 	 else
 	 {
 		 var datastring=$('#review_submit_form').serialize();
-				
+		
+		
 						$.ajax({
 								type:"POST",
 								url:"/comment/add",
@@ -460,10 +602,11 @@ function get_overlay_image(sku, num, size, module)
 								cache: false,
 								success: function(response)
 								{
-									document.getElementById("comment_view").innerHTML = response;	
+									try{document.getElementById("comment_view").innerHTML = response;}
+									catch(e){}
 									document.getElementById("review_submit_form").reset();	
 									document.getElementById("rating_submit_form").reset();	
-									top_rating_refresh(pid);				
+									top_rating_refresh(id);				
 								}
 						});
 	 }
@@ -479,13 +622,127 @@ function get_overlay_image(sku, num, size, module)
 						cache: false,
 						success: function(response)
 						{
-							document.getElementById("rating_data").innerHTML = response;
+							try{document.getElementById("rating_data").innerHTML = response;}
+							catch(e){}
 						}
 				});
  }
 
 
 </script>
+<script type="text/javascript">
+function show_reco_prod(rec_info)
+{
+	
+	var values= $('#reco_form').serialize();
+	var datanew = [];
+	var i=0;
+	
+	for( var row in rec_info.recommendations)
+	{
+		datanew[i] = rec_info.recommendations[i].itemId;
+		i++;
+	}
+	values += "&sku="+JSON.stringify(datanew)+"&rrq="+rec_info.rrq+"&tpl="+rec_info.tpl;
+	
+	
+	
+	$.ajax({type:"POST", url: "/recommender", data: values , success: function(response) {
+			
+				
+			document.getElementById(rec_info.tpl).innerHTML = response;
+			$('#'+rec_info.tpl).show();
+		}
+	});
+
+}
+</script>
+<script type="text/javascript">
+
+
+	$(document).ready(function() {
+	    $("#combo_accordion").accordion();
+	  });
+	  
+  
+function get_combo_product(pid,ser)
+{	
+
+	
+	if(pid != document.getElementById("check_id").value)
+	{
+	
+	  var vclone=$("#move_img_"+pid).clone();
+	  vclone.attr('id','move_img2_'+pid);
+	  vclone.appendTo('#cloned_img');	  
+	  var p=$("#move_img_"+pid).offset();	  
+	  $("#cloned_img").css({left: p.left ,top: p.top });
+	  $("#cloned_img").show();
+	  var q=$("#combofill_"+ser).offset();
+	  var mleft= q.left-p.left;
+	  var mtop= q.top-p.top;	  
+	  $("#cloned_img").animate({left: "+="+mleft+"px",top: "+="+mtop+"px",opacity: 0.4 }, 1500,function(){get_product(pid,ser)} );
+	  document.getElementById("check_id").value=pid;
+	}
+		
+	
+}
+
+function get_product(pid,ser)
+{	
+	 $("#cloned_img").html("");
+	 $("#cloned_img").hide();
+	document.getElementById("combofill_"+ser).innerHTML = document.getElementById("combo_item_"+pid).innerHTML ;
+	get_combo_price(pid);
+	
+	
+	
+
+}
+function get_combo_price()
+{		
+		var price="";
+		var oprice="";
+		var ids="";
+		var arr_p=$('.combo_block input[name=price]'); 
+		var arr_o=$('.combo_block input[name=our_price]'); 
+		var arr_id=$('.combo_block input[name=combo_ids]'); 
+		for(i=0;i<arr_p.length;i++)
+		{
+			if(i!=0)
+			{
+			price=price+","+arr_p[i].value;		
+			oprice=oprice+","+arr_o[i].value;
+			ids=ids+","+arr_id[i].value;
+			}
+			else
+			{
+			price=arr_p[i].value;		
+			oprice=arr_o[i].value;
+			ids=arr_id[i].value;
+			
+			}
+		}
+		var dis=$('input[name=combo_discount]')[0].value;
+		
+		url="/combo/get_combo_price?prices="+price+"&oprices="+oprice+"&ids="+ids+"&discount="+dis;
+		
+		$.ajax({
+					type:"GET",
+					url:url,
+					data: "",
+					cache: false,
+					success: function(response)
+					{	
+					//alert(response);					
+						document.getElementById("combo_price").innerHTML = response;				
+					}
+			});
+
+}
+</script>
+
+
 <style type="text/css">
 
 		.rating {
@@ -544,9 +801,33 @@ function get_overlay_image(sku, num, size, module)
     left:2px;
 }
 		
-		
+.review-user{
+	position:fixed;
+	left:25%;
+	top:25%;
+	display:none;
+	height:auto;
+	width:550px;
+	background:white;
+	z-index:2000;
+	border:2px solid;
+	border-radius:10px;
+	}
+.review-ask{
+	position:fixed;
+	left:25%;
+	top:25%;
+	display:none;
+	height:auto;
+	width:550px;
+	background:white;
+	z-index:3000;
+	border:2px solid;
+	border-radius:10px;
+	}
 		
 	</style>
+	
 	<script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -607,18 +888,99 @@ to fix it and to benefit from the advanced functionality.</p>
 maximize you security. On this page we have prepared for you
 some instructions and an overview of your best options for today.</p>
 <p>Please upgrade to <a href="http://getfirefox.com">FireFox</a>, <a href="http://www.opera.com/download/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a> or <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer 7 or 8</a>. Thank You!&nbsp;&nbsp;&nbsp;<a href="#" style="float:right;margin-right:50px;" onclick="document.getElementById('browserWarning').style.display = 'none';"><b>Close Window</b></a></p>
-</div><div class=" wrapper header">
+</div> <!-- header top-->
+ <div style="background: none repeat scroll 0 0 #000000; color: #FFFFFF; margin: 0 0 30px;padding: 7px 0 3px 0;position: fixed;width: 100%; z-index: 9999;
+">
+	<div style="width: 980px; margin: 0px auto; font-weight: bold; font-size: 11px;max-height:20px">
+		<div style="float:left;width:380px">CASH ON DELIVERY* | FREE SHIPPING ABOVE RS 499</div>
+		<div style="float:left;width:auto;">CONTACT: +91-97694 84573 [9AM - 10PM]</div>
+		
+				<div style="float:right;width:240px;">
+			<div style="float:left;width:115px;"><a href="http://purplle.com/register" style="text-decoration:none;color:white;">REGISTER</a> | <a href="http://purplle.com/login" style="text-decoration:none;color:white;">LOGIN</a></div> 
+			<div style="float:left;width:120px;height:20px;margin: -2px 0 0 4px;"><div id="fb-root"></div>
+<script>
+        
+window.fbAsyncInit = function() {
+			
+		FB.init({appId: '298617716861935', status: true, cookie: true, xfbml: true});
+		
+		FB.getLoginStatus(function(response) {
+			 if (response.status === 'connected') {
+				
+				FB.api(
+				 {
+					 method: 'fql.query',
+					 query: 'SELECT name,email FROM user WHERE uid=me()'
+				 },
+				function(response) {
+					//alert('Welcome  ' + response[0].name + response[0].email);
+					//window.location ="http://purplle.com/user/fblogin?email=" + response[0].email + "&next=http://purplle.com/privacy-policy.html";
+					//alert("http://purplle.com/user/fblogin?email=" + response[0].email + "");
+					//window.location ="http://purplle.com/user/fblogin?email=" + response[0].email + "&next=http://purplle.com/privacy-policy.html";
+				 }
+				);
+
+			} else if (response.status === 'not_authorized') {
+				//alert("not authorized");
+			} 
+			else{
+				//alert("not logged in");
+			}
+
+		 });
+		 
+		 
+		FB.Event.subscribe('auth.login', function(response) {
+			
+			if (response.status === 'connected') {
+				
+				FB.api(
+				 {
+					 method: 'fql.query',
+					 query: 'SELECT name,email FROM user WHERE uid=me()'
+				 },
+				function(response) {
+					//alert('Welcome ' + response[0].name + response[0].email);
+					//window.location="http://purplle.com/user/fblogin?email=" + response[0].email + "&next=http://purplle.com/privacy-policy.html";
+					//alert("http://purplle.com/user/fblogin?email=" + response[0].email + "");
+					window.location ="http://purplle.com/user/fblogin?email=" + response[0].email + "&next=http://purplle.com/privacy-policy.html";
+				 }
+				);
+
+			} else if (response.status === 'not_authorized') {
+				
+				//alert("not authorized");
+			} else{
+
+				//alert("not logged in");
+			}
+
+		});
+	    
+							 
+};       
+	
+		(function(d){
+           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+           js = d.createElement('script'); js.id = id; js.async = true;
+           js.src = "//connect.facebook.net/en_US/all.js";
+           d.getElementsByTagName('head')[0].appendChild(js);
+         }(document));
+</script>
+     <div class="fb-login-button" data-show-faces="false" data-width="200" data-max-rows="1" data-scope="email">Log In</div>
+
+
+</div>
+		</div>
+			<div style="clear:both;"></div>
+	</div>
+</div>
+<!-- header top ends--><div class=" wrapper header">
   <div id="header">
     <div id="header-left">    	
       <div id="logo-area"> <a class="logo" href="http://purplle.com/"></a> 
-	  <div id="headercartholder">
-		   
-		  <div class="cart-holder">
-			<div class="cart-item">
-				 <a href="javascript:showCart();"><big>10</big> &nbsp;&nbsp;Items</a></div>
-			<div class="cart-amt"><a href="javascript:showCart();"><span class="WebRupee">Rs. </span>14,397</a></div>
-			</div>
-					</div>
+	  <div id="headercartholder" style="margin-top:10px;">
+		 		</div>
 		
 	
 	  <div id="shipping">
@@ -638,11 +1000,11 @@ some instructions and an overview of your best options for today.</p>
 <div class="left">
 <ul>
 <li class="">
-<a href="http://purplle.com/combos">Combos</a>
-</li>
-<li class="">
 <a href="http://purplle.com/fragrance">Fragrance</a>
 <ul>
+<li class="">
+<a href="http://purplle.com/fragrance/gift-and-value-sets">Gift and Value Sets</a>
+</li>
 <li class="">
 <a href="http://purplle.com/fragrance/body-mist">Body Mist</a>
 </li>
@@ -672,6 +1034,9 @@ some instructions and an overview of your best options for today.</p>
 <a href="http://purplle.com/skin">Skin</a>
 <ul>
 <li class="">
+<a href="http://purplle.com/skin/gift-and-value-sets">Gift and Value Sets</a>
+</li>
+<li class="">
 <a href="http://purplle.com/skincare/anti-ageing">Anti  Ageing</a>
 </li>
 <li class="">
@@ -697,6 +1062,9 @@ some instructions and an overview of your best options for today.</p>
 </li>
 <li class="">
 <a href="http://purplle.com/skincare/facial-wipes">Facial  Wipes</a>
+</li>
+<li class="">
+<a href="http://purplle.com/skincare/facial-kit">Facial Kit</a>
 </li>
 <li class="">
 <a href="http://purplle.com/skincare/lip-care">Lip Care</a>
@@ -728,6 +1096,9 @@ some instructions and an overview of your best options for today.</p>
 <a href="http://purplle.com/makeup">Makeup</a>
 <ul>
 <li class="">
+<a href="http://purplle.com/makeup/gift-and-value-sets">Gift and Value Sets</a>
+</li>
+<li class="">
 <a href="http://purplle.com/makeup/body">Body</a>
 <ul>
 <li class="">
@@ -741,9 +1112,6 @@ some instructions and an overview of your best options for today.</p>
 <li class="">
 <a href="http://purplle.com/makeup/eyes">Eyes</a>
 <ul>
-<li class="">
-<a href="http://purplle.com/makeup/eyes/eyelashes">Eyelashes</a>
-</li>
 <li class="">
 <a href="http://purplle.com/makeup/eyes/eyeliner">Eyeliner</a>
 </li>
@@ -799,9 +1167,6 @@ some instructions and an overview of your best options for today.</p>
 <a href="http://purplle.com/makeup/nails">Nails</a>
 <ul>
 <li class="">
-<a href="http://purplle.com/makeup/nails/artificial-nails">Artificial Nails</a>
-</li>
-<li class="">
 <a href="http://purplle.com/makeup/nails/nail-polish">Nail Polish</a>
 </li>
 <li class="">
@@ -818,6 +1183,9 @@ some instructions and an overview of your best options for today.</p>
 <a href="http://purplle.com/hair">Hair</a>
 <ul>
 <li class="">
+<a href="http://purplle.com/hair/gift-and-value-sets">Gift and Value Sets</a>
+</li>
+<li class="">
 <a href="http://purplle.com/hair/combs">Combs</a>
 </li>
 <li class="">
@@ -825,6 +1193,14 @@ some instructions and an overview of your best options for today.</p>
 </li>
 <li class="">
 <a href="http://purplle.com/hair/hair-accessories">Hair Accessories</a>
+<ul>
+<li class="">
+<a href="http://purplle.com/hair/hair-accessories/hair-clips">Hair Clips</a>
+</li>
+<li class="">
+<a href="http://purplle.com/hair/hair-accessories/scissors">Scissors</a>
+</li>
+</ul>
 </li>
 <li class="">
 <a href="http://purplle.com/hair/hair-brushes">Hair Brushes</a>
@@ -833,7 +1209,27 @@ some instructions and an overview of your best options for today.</p>
 <a href="http://purplle.com/hair/hair-color">Hair Color</a>
 </li>
 <li class="">
+<a href="http://purplle.com/hair/hair-mask">Hair Mask</a>
+</li>
+<li class="">
 <a href="http://purplle.com/hair/hair-oil">Hair Oil</a>
+</li>
+<li class="">
+<a href="http://purplle.com/hair/hair-serum">Hair Serum</a>
+</li>
+<li class="">
+<a href="http://purplle.com/hair/hair-styling">Hair Styling</a>
+<ul>
+<li class="">
+<a href="http://purplle.com/hair/hair-styling/hair-gels-gums">Hair Gels &amp; Gums</a>
+</li>
+<li class="">
+<a href="http://purplle.com/hair/hair-styling/hair-mousse">Hair Mousse</a>
+</li>
+<li class="">
+<a href="http://purplle.com/hair/hair-styling/hair-spray">Hair Spray</a>
+</li>
+</ul>
 </li>
 <li class="">
 <a href="http://purplle.com/hair/hair-treatments">Hair Treatment</a>
@@ -846,6 +1242,9 @@ some instructions and an overview of your best options for today.</p>
 <li class="">
 <a href="http://purplle.com/body">Body</a>
 <ul>
+<li class="">
+<a href="http://purplle.com/body/gift-and-value-sets">Gift and Value Sets</a>
+</li>
 <li class="">
 <a href="http://purplle.com/body/bath-accessories">Bath Accessories</a>
 </li>
@@ -922,6 +1321,9 @@ some instructions and an overview of your best options for today.</p>
 <a href="http://purplle.com/men">Men</a>
 <ul>
 <li class="">
+<a href="http://purplle.com/men/gift-and-value-sets">Gift and Value Sets</a>
+</li>
+<li class="">
 <a href="http://purplle.com/men/body-wash">Body Wash</a>
 </li>
 <li class="">
@@ -940,13 +1342,33 @@ some instructions and an overview of your best options for today.</p>
 <a href="http://purplle.com/men/hair-styling">Hair Styling</a>
 </li>
 <li class="">
+<a href="http://purplle.com/men/men-shampoo">Men Shampoo</a>
+</li>
+<li class="">
 <a href="http://purplle.com/men/scrub">Scrub</a>
 </li>
 <li class="">
-<a href="http://purplle.com/men/shampoo">Shampoo</a>
+<a href="http://purplle.com/men/shaving-care">Shaving Care</a>
+<ul>
+<li class="">
+<a href="http://purplle.com/men/shaving-care/after-shaves">After Shaves</a>
 </li>
 <li class="">
-<a href="http://purplle.com/men/shaving-care">Shaving Care</a>
+<a href="http://purplle.com/men/shaving-care/cartridges">Cartridges</a>
+</li>
+<li class="">
+<a href="http://purplle.com/men/shaving-care/creams-foams-and-gels">Creams, foams and gels</a>
+</li>
+<li class="">
+<a href="http://purplle.com/men/shaving-care/razors">Razors</a>
+</li>
+<li class="">
+<a href="http://purplle.com/men/shaving-care/shave-oil">Shave Oil</a>
+</li>
+<li class="">
+<a href="http://purplle.com/men/shaving-care/shaving-brush">Shaving Brush</a>
+</li>
+</ul>
 </li>
 <li class="">
 <a href="http://purplle.com/men/skincare">Skincare</a>
@@ -960,8 +1382,11 @@ some instructions and an overview of your best options for today.</p>
 </ul>
 </li>
 <li class="">
-<a href="http://purplle.com/accessories">ACCESSORIES</a>
+<a href="http://purplle.com/electronics">ELECTRONICS</a>
 <ul>
+<li class="">
+<a href="http://purplle.com/gift-and-value-sets">Gift and Value Sets</a>
+</li>
 <li class="">
 <a href="http://purplle.com/accessories/beauty-groomers">Beauty Groomers</a>
 </li>
@@ -1040,14 +1465,16 @@ some instructions and an overview of your best options for today.</p>
 	</ul>
 	</li>
 </ul>
-</div>
-<!-- <span class="left"><a href="http://purplle.com/e-mag">e-Mag</a></span> -->        </div>
+<!--
+</div class="left">
+<span><a href="http://purplle.com/e-mag">e-Mag</a></span> -->
+</div>        </div>
       </div>
 	  
     </div>
 	    <div id="header-right">
 
-      <div id="user-area">
+      <div id="user-area"><!--
         <div class="welcome-name">
         	 <div id="fb-root"></div>
 <script>
@@ -1068,7 +1495,7 @@ window.fbAsyncInit = function() {
 					//alert('Welcome  ' + response[0].name + response[0].email);
 					//window.location ="http://purplle.com/user/fblogin?email=" + response[0].email + "&next=http://purplle.com/privacy-policy.html";
 					//alert("http://purplle.com/user/fblogin?email=" + response[0].email + "");
-					window.location ="http://purplle.com/user/fblogin?email=" + response[0].email + "&next=http://purplle.com/privacy-policy.html";
+					//window.location ="http://purplle.com/user/fblogin?email=" + response[0].email + "&next=http://purplle.com/privacy-policy.html";
 				 }
 				);
 
@@ -1119,38 +1546,41 @@ window.fbAsyncInit = function() {
            d.getElementsByTagName('head')[0].appendChild(js);
          }(document));
 </script>
-     <div class="fb-login-button" data-scope="email">Login with Facebook</div>
-	
+     <div class="fb-login-button" data-show-faces="false" data-width="200" data-max-rows="1" data-scope="email">Log In</div>
 
 
         	        </div>       
-        <div id="customer-support">Contact: +91-99201 32492</div>
-        <div class="search">
+        <div id="customer-support"><img src="http://www.seohunts.com/images/Contact_us.png" height="20px" style="position: relative;top: 5px;">(+91)- 97694 84573 [9AM-10PM]</div>-->
+        <div class="search" style="margin-top:40px;">
 			<form action="http://purplle.com/search" autocomplete="off" method="get">
   <input id="search_key" type="text" style="color:#666666;" placeholder="search entire store here..." maxlength="255" class="text" name="q">
 	<button type="submit"></button>
-</form>	    </div>   
-	    <div id="auto_search_results" style="width:86%;max-height:124%;margin-top:31%;margin-left:13%;overflow-y:auto;box-shadow:0px 0px 5px 0px black;display:none;">
-		   </div>
+</form>	</div> 
+	     
+	<div id="auto_search_results" style="width:86%;max-height:124%;margin-top:31%;margin-left:13%;overflow-y:auto;box-shadow:0px 0px 5px 0px black;display:none;position:relative;z-index:100;">
+	</div>
+	
+	<!--<div style="color: rgb(255, 255, 255); padding-top:77px; margin-left: -100px; font: 11px/16px Arial;"><a href="http://purplle.com/e-mag/" style="text-decoration:none;color:#FFF;"><b>E-MAG</b></a></div>-->
+	<div id="top-menu" style="margin-top:13px;"><a href="/e-mag" style="text-decoration:none"><font color="white"><b>E-MAG</b></font></a></div>
 	       
-	       
+	<!--       
         <div id="top-menu">
         <form id="mini_login_form" action="http://purplle.com/login" method="post">
          
           <ul class="superfish nav clearfix sf-js-enabled">
-            <li id="account_button_superfish" class="page_item page-item-2 sf-ul"><a class="sf-with-ul" href="#">Account<span>▾</span></a>
+            <li id="account_button_superfish" class="page_item page-item-2 sf-ul"><a class="sf-with-ul" href="#" >Account<span>&#9662;</span></a>
               
             </li>
                         <li class="page_item page-item-230 sf-ul">
-            	<a class="sf-with-ul" href="http://purplle.com/login">Login</a>
+            	<a class="sf-with-ul" href="http://purplle.com/login" >Login</a>
             	            </li>
             <li class="page_item page-item-230 sf-ul">
-            	<a class="sf-with-ul" href="http://purplle.com/register">Register</a>
+            	<a class="sf-with-ul" href="http://purplle.com/register" >Register</a>
             </li>
                       </ul>
 		  </form>
           <!-- end ul.nav -->
-        </div>
+     <!--   </div>
         	
         	<div id="account_dropdown" style="width:76%;height:94%;margin-top:31%;margin-left:24%;overflow-y:auto;box-shadow:0px 0px 8px 1px black;background-color:#282726;display:none;border-radius:0px 0px 5px 5px;">
 			 <ul>
@@ -1158,7 +1588,7 @@ window.fbAsyncInit = function() {
 				<li style="height:26px;text-align:center;"><a href="/account/index/wishlist" style="color:#F4F4F4;text-decoration:none;">Wishlist</a></li>
 				<li style="height:26px;text-align:center;"><a href="javascript:showCart()" style="color:#F4F4F4;text-decoration:none;">My Cart</a></li>
 			 </ul>			
-			</div>
+			</div>-->
         	
       </div>
     </div>
@@ -1257,7 +1687,7 @@ window.fbAsyncInit = function() {
       <h2>WHAT'S IN STORE</h2>
       <ul>
         <li><a href="http://purplle.com/men">Men</a></li>        
-        <li><a href="http://purplle.com/skincare">Skin Care</a></li>
+        <li><a href="http://purplle.com/skin">Skin Care</a></li>
         <li><a href="http://purplle.com/makeup">Make Up</a></li>
         <li><a href="http://purplle.com/hair">Hair Care</a></li>
         <li><a href="http://purplle.com/body">Body Care</a></li>       
@@ -1277,7 +1707,7 @@ window.fbAsyncInit = function() {
       <h2>BE THE FIRST TO KNOW !</h2>
       <p>Get updates of all the latest fashion and style news</p>
       <form action="http://purplle.com/newsletter/subscribe" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="196e557b236af4700cea9beba4b7b391">
+<input type="hidden" name="csrftoken" value="5926bf708ad577626559ce664e94b96b">
 </div>
         <fieldset>
           <input type="radio" value="m" name="gender">
@@ -1295,13 +1725,10 @@ window.fbAsyncInit = function() {
         <li class="tw"><a href="http://twitter.com/letspurplle" target="_blank" title="twitter"></a></li>
       </ul>
     </div>   
-    <div class="rewards" style="float:right">
-    <p>Rewards by:</p>
-    	<img width="120px" src="http://purplle.com/static/purplle/img/payback.jpg">
-    </div> 
+     
     
     <div id="copyright">
-      <p class="fl_left">Copyright © 2011 Purplle. All Rights Reserved. Marketing Partner - <a href=" http://www.coupondunia.in">CouponDunia</a></p>
+      <p class="fl_left">Copyright © 2011 Purplle. All Rights Reserved. Marketing Partner - <a href=" http://www.coupondunia.in" target="_blank">CouponDunia</a>. Virtual Studio Partner - <a href=" http://www.1000lookz.com/" target="_blank"><img height="14px" src="/static/purplle/img/1000lookz-footer.jpg"></a></p>
       <p class="fl_right"><a href="http://purplle.com/disclaimer.html">Disclaimer</a> | <a href="http://purplle.com/privacy-policy.html">Privacy policy</a> | Sitemap <a href="http://purplle.com/sitemap.xml">xml</a> | <a href="http://purplle.com/sitemap.html">html</a></p>
       <br class="clear">
     </div>
@@ -1347,12 +1774,12 @@ window.fbAsyncInit = function() {
 <style>
 	.ovlay {
 	z-index:1002;
-	position:absolute;
+	position:fixed;
 	top:0;
 	bottom:0;
 	left:0;
 	width:100%;
-	height:2400px;
+	height:100%;
 	background:#000;
 	opacity:0.45;
 	-moz-opacity:0.45;
@@ -1375,17 +1802,30 @@ window.fbAsyncInit = function() {
 <!-- 
 	<a href="/live-support/client.php?locale=en" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('/live-support/client.php?locale=en&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'webim', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;"><img src="/live-support/b.php?i=webim&amp;lang=en" border="0" width="163" height="61" alt=""/></a>
 --></div>
-<img src="http://mailer.purplle.com/images/mlopen_track.html?mlid=42218">
-<img src="http://mailer.purplle.com/images/mlopen_track.html?mlid=42979">
-<img src="http://mailer.purplle.com/images/mlopen_track.html?mlid=42154">
-<img src="http://mailer.purplle.com/images/mlopen_track.html?mlid=44148">
-<img src="http://mailer.purplle.com/images/mlopen_track.html?mlid=43607">
-<img src="http://mailer.purplle.com/images/mlopen_track.html?mlid=45669">
+<img src="http://mailer.letspurplle.com/images/mlopen_track.html?mlid=45669">
+<!-- Google Code for Mail List -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 999743887;
+var google_conversion_label = "xpCqCNnDpgMQj8Pb3AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/999743887/?value=0&amp;label=xpCqCNnDpgMQj8Pb3AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 <script type="text/javascript" src="http://bizsolutions.strands.com/sbsstatic/js/sbsLib-1.0.min.js"></script>
 <script type="text/javascript">
 try{ 
-	   
+	   SBS.Recs.setRenderer(show_reco_prod,"HOME-3");
 	   SBS.Worker.go("hCZVumsfdI"); 
 	} catch (e){ };
 </script>
