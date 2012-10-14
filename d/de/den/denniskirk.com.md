@@ -1,35 +1,37 @@
-> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624033822id_/http%3A//www.denniskirk.com/assets/en/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014150145id_/https%3A//www.denniskirk.com/help_center/privacy.jsp) for the most accurate reproduction.*
 
-# Dennis Kirk - Parts and Accessories for ATVs, Dirt Bikes, Harley-Davidsons©, Snowmobiles, Street Bikes, and Watercraft.
+# Help Center - Dennis Kirk, Inc
 
-### Privacy at DennisKirk.com
+The amount of information you provide depends on you. Dennis Kirk uses the information you provide to secure your order and to personalize your visit to denniskirk.com. 
 
-  
+Back to Top
 
-* **How does Dennis Kirk protect customer information?**   
+We receive and store information you enter on our web site. For example, we collect information you provide when placing an order. This information would include: your name, mailing address, billing address, email address, your phone number, along with other information you submit. (eg. vehicle make, year) 
 
-* **What about "cookies"?**   
+Back to Top
 
-* **Changes to our Policy**
+Cookies are small pieces of information that are stored on your hard drive. This enables our systems to recognize who you are. Our cookies do not contain any personally identifying information. Some information collected or stored via cookies include purchases; stored items in your shopping cart. Your browser allows you to reject cookies and software is available from third parties which will allow you to visit our web site without providing this information. You are welcomed at our web site if you use this software but we will not be able to offer you our personalized services. 
 
-* * *
+Back to Top
 
-**How does Dennis Kirk protect customer information?** When you place orders or access your account information, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. 
+We occasionally make our database list available to carefully selected marketing partners whose products may be of interest or benefit to you. We will not share any telephone number(s), or financial information which you have given us with any marketing partner(s). 
 
-We occasionally make our database list available to carefully selected companies whose products may be of interest to you. If you do not wish to receive mailings from these companies, please e-mail us at info@denniskirk.com. Your credit card information is only used for the order that it is supplied for. We do not keep this information or pass it along to anyone else. 
+If you do not wish to receive mailings from these companies, please email us at [info@denniskirk.com](mailto:info@denniskirk.com). 
 
-**Back to Top**
+Back to Top
 
-* * *
+When you purchase online from Dennis Kirk, we will contact you by email to confirm your order. Dennis Kirk will from time to time email special promotions or discounts to you. If you do not wish to receive marketing or promotional emails from our web site please email [info@denniskirk.com](mailto:info@denniskirk.com). 
 
-**What about "cookies"?** "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as prefill shopping and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Without a cookie, you cannot use most of the features in our store. 
+Back to Top
 
-**Back to Top**
+Our web site may offer links to other sites. Other sites have their own policies regarding privacy, you may want to review the privacy policy on that site. 
 
-* * *
+Back to Top
 
-**Changes to our Policy** Our Policy is intended to provide you with the safest and most secure shopping experience possible. 
+Dennis Kirk is committed to protecting children's privacy on the Internet. We will not knowingly sell products to children. We sell children's products for purchase by adults. 
 
-Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Security Policy at any time without prior notice. If policy changes are substantial, we will notify our customers via email. Please periodically review our Security Policy for changes. 
+Back to Top
 
-**Back to Top**
+Our Privacy Policy is intended to provide you with the safest and most secure shopping experience possible. We reserve the right to change, modify, add or remove portions of our Privacy Policy at any time, with or without prior notice. If policy changes are substantial, we will notify our customers via email. We suggest that you periodically review our Privacy Policy. 
+
+Back to Top
