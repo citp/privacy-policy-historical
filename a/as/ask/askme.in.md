@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askme.in privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505030203id_/http%3A//www.askme.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askme.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014120830id_/http%3A//www.askme.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy on Askme
+# Privacy Policy on Askme
 
 ## We take your privacy seriously. Please read the following to learn more about our privacy policy
 
@@ -18,7 +18,7 @@ When you visit this Website, Infomedia18 may collect the following types of info
 
 Infomedia18 collects personally identifiable information that you knowingly provide to us. For example, Infomedia18 may ask you to provide personally identifiable contact information (such as name, address, e-mail address and telephone number). If you purchase a product or service, Infomedia18 may ask you to provide additional information including photos, videos, menus and catalogs and/or description of your products and services, your credit card information, . Infomedia18 may also ask you to provide other information such as a personal ID, password, security question and answer, and birthday etc. You are responsible for the accuracy and completeness of all personally identifiable information that you knowingly provide.
 
-In addition, as you (and other users) browse This Website, our web servers automatically collect certain information about such visits (usually through the use of [cookies](http://www.superpages.com/about/privacy.html#Cookies), JavaScript tags, clear .gif files --also known as "web beacons"-- and the analysis of http headers and other technology), such as the user's IP address, the user's domain name, the user's browser type, the user's user agent, how many users visit This Website, which pages the user visits and for how long, the date and time the user accesses This Website, the Internet address of the site from which the user directly linked to This Website and the links on This Website on which the user clicks. In addition, Infomedia18 may collect certain search parameters relating to searches conducted by the user which are not entered by the user.
+In addition, as you (and other users) browse This Website, our web servers automatically collect certain information about such visits (usually through the use of [cookies](http://www.superpages.com/about/privacy.html#Cookies "Cookies"), JavaScript tags, clear .gif files --also known as "web beacons"-- and the analysis of http headers and other technology), such as the user's IP address, the user's domain name, the user's browser type, the user's user agent, how many users visit This Website, which pages the user visits and for how long, the date and time the user accesses This Website, the Internet address of the site from which the user directly linked to This Website and the links on This Website on which the user clicks. In addition, Infomedia18 may collect certain search parameters relating to searches conducted by the user which are not entered by the user.
 
 In some cases, we may also collect non-personally identifiable information that you provide, such as search parameters in connection with a search you conduct through This Website, ratings and reviews, and zip code. 
 
@@ -42,7 +42,7 @@ Like most websites, Askme requires cookies to function properly. Cookies are sma
 
 #### 6\. Controlling Your Personal Information
 
-As a registered Askme user, you can modify your personal information at any time by accessing the "Account" section of the site. Also, upon your request, Infomedia 18 will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Infomedia 18. Registered users who wish to close their account should contact [support@askme.in](mailto:support@askme.in).
+As a registered Askme user, you can modify your personal information at any time by accessing the "Account" section of the site. Also, upon your request, Infomedia 18 will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Infomedia 18. Registered users who wish to close their account should contact [support@askme.in](mailto:support@askme.in "Support").
 
 #### 7\. Security
 
