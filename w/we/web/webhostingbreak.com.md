@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511001226id_/http%3A//privacy-policy.truste.com/verified-policy/www.webhostingbreak.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110102id_/http%3A//privacy-policy.truste.com/verified-policy/www.webhostingbreak.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.webhostingbreak.com
 
 Effective on August 3, 2010 
 
-This privacy statement describes how WebHostingBreak collects and uses the personal information you provide on our Web site: [www.webhostingbreak.com ](https://www.webhostingbreak.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how WebHostingBreak collects and uses the personal information you provide on our Web site: [www.webhostingbreak.com ](http://www.webhostingbreak.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
