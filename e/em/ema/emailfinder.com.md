@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the emailfinder.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512151341id_/http%3A//www.emailfinder.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailfinder.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014071317id_/http%3A//www.emailfinder.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EmailFinder.com
 
 [](http://www.truste.org/ivalidate.php?url=www.emailfinder.com&sealid=101)
 
-[Click here](https://web.archive.org/web/20120512151341id_/http%3A//www.emailfinder.com/privacy_statement.shtml) to read our Privacy Statement and overview.
+[Click here](https://web.archive.org/web/20121014071317id_/http%3A//www.emailfinder.com/privacy_statement.shtml) to read our Privacy Statement and overview.
 
 Effective Date: September 29, 2009
 
