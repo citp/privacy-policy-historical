@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simple.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514080756id_/https%3A//www.simple.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014173747id_/https%3A//www.simple.com/policies/website-privacy) for the most accurate reproduction.*
 
 # Simple | Privacy Policy
 
-_Effective as of April 7, 2012_
+_Effective as of September 19, 2012_
 
 Hi! We've created this Privacy Policy to let you know how simple.com uses any information that you provide to us when you visit this site. Before we kick off with legalese, let's make one thing clear:
 
@@ -16,7 +16,7 @@ We collect three main types of information when you visit this site: web usage d
 
 ## How we use cookies
 
-We may also use cookies, which allows us to remember you across multiple visits to our site. We do not use cookies for advertising, nor do we sell cookie data to anyone. In addition to cookies that we might use on the site, others (like Google Analytics) may also serve cookies. If you do not wish cookies to be used in connection with your visit, please disable the cookie function in your browser. However, if you do decide to not accept cookies, the site may not work properly.
+We may also use cookies to remember you across multiple visits to our site. We do not use cookies for advertising, nor do we sell cookie data to anyone. In addition to cookies that we might use on the site, others (like Google Analytics) may also serve cookies. If you do not wish cookies to be used in connection with your visit, please disable the cookie function in your browser. However, if you do decide to not accept cookies, the site may not work properly.
 
 ## Modifying your information or opting out
 
@@ -24,7 +24,7 @@ If you have provided us with information and would like to make changes to it or
 
 ## What we do with the information we collect
 
-  * We use invite request information to track how many people are interested in our services. When our service becomes available, we will use your email address to inform you of this and extend you an invite to use the service.  
+  * We use invite request information to track how many people are interested in our services. As our service becomes more broadly available, we will use your email address to inform you of this and extend you an invite to use the service.  
 
   * For those who complete the sign up process, we store the information in our secure servers and use the information to confirm your identity and provision access to our service. Before being granted access to the service, prospective customers will need to agree to our partner bank's Cardholder Agreement, eSign Disclosure and their Privacy Policy.
   * We may, from time to time, share information with our business affiliates, but they operate under strict privacy policies and will not share your information without our permission or unless otherwise required by law. For example, we work with an email service provider that sends emails to people who have requested an invite. To do that, we need to tell them an email address, however they are not authorized to share that email address with third parties.
@@ -41,7 +41,7 @@ If you have provided us with information and would like to make changes to it or
 
 ## How we protect your information
 
-We take commercially reasonable steps to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. We encrypt personal information using AES-256 with 4,096 bit encryption keys. Social security numbers and other personal information are asymmetrically encrypted, with the decryption key kept outside of our production environment. We use industry-standard encryption technology, a secure server, and other physical and procedural safeguards to protect the security of the information that we collect. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to and from us over the internet. In particular, email may not be secure, and you should therefore take special care in deciding what information you send to us via email.
+We take commercially reasonable steps to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. We encrypt personal information using industry-leading encryption algorithms and strengths. We consider security at all layers of our business and services, using secure technologies and physical and procedural safeguards to ensure the security of the information that we collect. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to and from us over the internet. In particular, email may not be secure, and you should therefore take special care in deciding what information you send to us via email.
 
 ## This is an American web site
 
@@ -64,4 +64,4 @@ If you have questions about this Privacy Policy, please contact us at (888) 248-
 **Simple Finance Technology Corp.**  
 Attention: Privacy Officer  
 PO Box 28462  
-Portland, OR 97228 
+Portland, OR 97228
