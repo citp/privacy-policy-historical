@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lets-kickoff.blogspot.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221600id_/http%3A//lets-kickoff.blogspot.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lets-kickoff.blogspot.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014181116id_/http%3A//lets-kickoff.blogspot.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+###  [Privacy Policy](http://lets-kickoff.blogspot.com/2009/08/privacy-policy.html)
 
 **Routine Info Collection:**  
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
