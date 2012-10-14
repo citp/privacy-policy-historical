@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the locobuy.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510135520id_/https%3A//www.locobuy.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the locobuy.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014132005id_/https%3A//www.locobuy.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>           
 	<title>LocoBuy</title>
@@ -9,6 +9,7 @@
 	
 	<link rel="shortcut icon" href="favicon.ico">
 	<link rel="stylesheet" href="https://www.locobuy.com/style_new.css" type="text/css">
+	
 	<!--[if IE]>
 		<link rel="stylesheet" href="ie.css" type="text/css" />
 	<![endif]-->
@@ -26,6 +27,7 @@
 	<script type="text/javascript" src="https://www.locobuy.com/js/jquery.expander.js"></script>
 	<script type="text/javascript" src="https://www.locobuy.com/js/tabs.js"></script>
 	
+	
 	<script type="text/javascript">
 
 	function checkAll(checkname, exby) {
@@ -35,7 +37,8 @@
 
 	function initPage(){
 		
-		$(".productimg").colorbox();
+		$(".productimg").colorbox({rel:'group'});
+		$(".productimg_popup").colorbox();
 		$(".popup").colorbox({iframe:true, innerWidth:450, innerHeight:400});
 		$(".play-video").colorbox({iframe:true, innerWidth:500, innerHeight:405});
 		$("a[rel='current']").colorbox();
@@ -46,7 +49,8 @@
 		$(".feedback").colorbox({iframe:true, innerWidth:700, innerHeight:"80%"});
 		$(".report-problem").colorbox({iframe:true, innerWidth:450, innerHeight:400});
 		$(".share").colorbox({iframe:true, innerWidth:400, innerHeight:490});
-		$(".newsletter_popup").colorbox({iframe:true, innerWidth:630, innerHeight:425});
+		//$("#popup").fancybox({'width':480, 'height':330, 'autoScale':false, 'transitionIn':'none', 'transitionOut':'none', 'type':'iframe'});
+		
 		
 
 					
@@ -173,7 +177,7 @@
 	</script>
   </head>
   <body>
-  	<div style="display:none"><a class="newsletter_popup" href="http://www.locobuy.com/newsletter_popup.php"></a></div>
+  	<div style="display:none"><a id="popup" href="http://www.locobuy.com/newsletter_popup.php"></a></div>
 	<div class="ajax_cart_container_overlay" onclick="hideCart()" style="display:none"></div> 
 	<div class="ajax_cart_container" style="display:none"></div>
 	<div class="login_box_container_overlay" style="display:none"></div>
@@ -193,8 +197,13 @@
 					<a href="https://www.locobuy.com/user.php">My Account</a>
 					<a href="http://blog.locobuy.com">Blog</a>
 				</div>
-				<!--<h2><a href="http://blog.locobuy.com" class="blog-header">Blog</a></h2>-->
-							</div>
+				<h2><a href="http://www.locobuy.com/blog" class="blog-header">Blog</a></h2>
+								<p>
+					<a href="http://blog.locobuy.com/?p=2138">Loco Fo-to! Someone is not smarter than a fifth-grader</a>
+					&nbsp;<span class="blog_date">July 12, 2012</span>
+				</p>
+						 
+			</div>
 			<div id="header_login" class="login" style="display:block;">
 				<div class="login-header">Login or</div><a href="http://www.locobuy.com/signup.php" class="signup-header">Sign Up!</a>
 				<form name="header_login_frm" method="post" action="https://www.locobuy.com/privacy.php">
@@ -418,6 +427,7 @@
 						<strong>Partners</strong><br>
 						<a href="https://www.locobuy.com/submit.php">Submit a Deal</a>
 						<a href="https://www.locobuy.com/vendors.php">Feature Your Product</a>
+						<a href="http://www.jamminbutter.com/wholesale.html">Wholesale</a>
 						<a href="http://support.jamminbutter.com/">Customer Support</a>
 						<a href="https://www.locobuy.com/rss/feed.xml">RSS Feed</a>
 					</td>
