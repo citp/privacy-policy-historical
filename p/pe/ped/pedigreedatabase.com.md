@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501130338id_/http%3A//www.pedigreedatabase.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014090449id_/http%3A//www.pedigreedatabase.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - The Pedigree Database - German Shepherd Dog
+# Privacy Statement - The Pedigree Database
 
 > 1.      What personally identifiable information pedigreedatabase.com collects.
 > 
@@ -51,10 +51,6 @@
 > ###  Log Files
 > 
 > Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. Are not linked to personally identifiable information.  We use a tracking utility called Funnel Web that uses log files to analyze user movement.
-> 
-> ###  Clear Gifs (Web Beacons/Web Bugs)
-> 
-> We **do not** employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.
 > 
 > ##  Communications from the Site
 > 
