@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121013648id_/http%3A//www.classifiedsgiant.com/4-privacy-policy/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110356id_/http%3A//www.classifiedsgiant.com/4-privacy-policies/content.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policies
 
 **Our Commitment To Privacy**
 
@@ -56,13 +56,6 @@ Cookies were implemented to allow user-side customization of website information
 8\. Links to Other Sites: This website contains links to other sites that are not owned or controlled by ClassifiedsGiant, Inc. Please be aware that we, ClassifiedsGiant, Inc. are not responsible for the privacy practices of such other sites.  
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.This privacy statement applies only to information collected by this website.
 
-**NOTIFICATION OF CHANGES**  
-If we decide to change our privacy policy, we will post those changes on our Home page and use our best efforts to announce via e-mail so all users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will make a reasonable effort to notify users by way of an e-mail. Users have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+ **Cookies & 3rd Party Advertisements Googl**e, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/policies/privacy/ads/)
 
-If you have questions or suggestions regarding our Privacy Policy and practices, please contact us at:
-
-**ClassifiedsGiant, Inc.**  
-[**privacy@ClassifiedsGiant.com**](mailto:privacy@classifiedsgiant.com?subject=Your%20Privacy%20Policy)  
-
-
- Last updated 05-10-2010
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/).
