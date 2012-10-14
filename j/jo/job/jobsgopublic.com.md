@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516055447id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063759id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
 
 # privacy | jobsgopublic - Public Sector Jobs and Careers
 
@@ -12,7 +12,7 @@ It is not our practice to rent or sell your details or otherwise share them with
 
 ## Cookies
 
-This Website uses cookies to identify repeat visitors. Cookies are small data files that certain websites (including this one) write to your hard drive when you visit them. Please note that we only use cookies to enhance your browsing experience and we protect your privacy by only storing a simple ID number and token string that is only meaningful to this Website. Your personal details, such as your name or phone number, are not stored in a cookie.
+Please see our [cookies policy](https://web.archive.org/pages/show/cookies).
 
 ## Security
 
