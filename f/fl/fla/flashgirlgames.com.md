@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgirlgames.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604061540id_/http%3A//www.flashgirlgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgirlgames.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014092820id_/http%3A//www.flashgirlgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # FlashGirlGames.com Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy is designed to inform you about the information we collect a
 
 What Information Do We Collect About Our Users and How Do We Use It?
 
-There are two ways information is collected by us: 1. you voluntarily submit it to us during the registration process by completing a form on our site or by communicating with us and providing that information as part of the communication; or 2. we collect it from all our site users electronically to track how the site is used, where our users come from and their preferences.
+There are two ways information is collected by us: 1. You voluntarily submit it to us during the registration process by completing a form on our site or by communicating with us and providing that information as part of the communication; or 2. We collect it from all our site users electronically to track how the site is used, where our users come from and their preferences.
 
 During our registration process we collect your e-mail address, your login and password only. We also may collect and store information you provide to us in inquiries, reporting forms and customer service communications with us. If you submit information to us to register for a special offer, contest or for access to select or premium services, that information is collected and stored as well. You may submit information to us offline, as well, through special offers or offline registration processes. (Only registered users may enter contests, sweepstakes or participate in any other promotion on the website). All of this information is governed by this Privacy Policy, unless it is indicated otherwise at the time the information is collected or submitted. If special terms are indicated, then those terms, not these, would apply.
 
