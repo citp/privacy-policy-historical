@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brick7.co.za privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511203142id_/http%3A//www.brick7.co.za/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brick7.co.za privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014213448id_/http%3A//www.brick7.co.za/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Brick7.co.za
 
