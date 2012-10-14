@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520072650id_/http%3A//www.presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014020137id_/http%3A//www.presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
 
 # President's Volunteer Service Award
+
+Effective at midnight October 1st the President's Volunteer Service Award website will be closed for annual repairs, update and maintenance. The site will be down from October 1st - 31st re-opening November 1, 2012. If you have any questions please contact our customer service team at 866-545-5307.
 
 #### Privacy
 
