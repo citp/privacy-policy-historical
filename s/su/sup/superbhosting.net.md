@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510180859id_/http%3A//www.superb.net/about/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014175808id_/http%3A//www.superb.net/about/legal/privacy.php) for the most accurate reproduction.*
 
-# Managed Hosting | Dedicated Servers | Web Hosting - SUPERB INTERNET: Privacy Policy
+# Privacy Policy | SUPERB.NET
 
-## Privacy Policy
+**[Legal](https://web.archive.org/about/legal/) | [Terms of Service](https://web.archive.org/about/legal/terms-of-service.php) | [AUP](https://web.archive.org/about/legal/terms-of-service.php#aup) | Privacy Policy**
 
 Superb Internet Corporation takes the privacy of its customers and users of its web site seriously. This Privacy Policy covers the ways in which Superb attains, manages, stores, processes and shares information given to it by its customers and visitors to Superb's web sites. As a thoughtful and responsible member of the Internet community, Superb is committed to monitoring changes in the attitudes of both customers and the community in general towards the use of information. As part of this commitment, Superb will make changes from time-to-time to its Privacy Policy. Superb endeavors to give advance notice of material changes to the Privacy Policy, but reserves the right to make changes without notice. The most recent version of the Privacy Policy may always be found on Superb's web site.
 
@@ -99,12 +99,12 @@ You are responsible for, and have unlimited access to modify or change, all Cust
 
 Superb will review your request, and respond within 30 days.
 
-**8\. Enforcement**
-
-Superb commits to cooperate with the EU data protection authorities to investigate and resolve individual complaints and disputes, as well as in procedures for verifying compliance.
-
-**9\. US-EU Safe Harbor**
+**8\. Safe Harbor Compliance**
 
 Superb Interent Corp. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Superb Internet Corp. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
-To learn more about the Safe Harbor program, and to view Superb Internet Corp.'s certification, please visit: [export.gov/safeharbor](http://www.export.gov/safeharbor/)
+To learn more about the Safe Harbor program, and to view Superb Internet Corp.'s certification, please visit: [export.gov/safeharbor](http://www.export.gov/safeharbor)
+
+**9\. Enforcement**
+
+Superb commits to cooperate with the EU and Swiss data protection authorities to investigate and resolve individual complaints and disputes, as well as in procedures for verifying compliance with the Safe Harbor Privacy Principles.
