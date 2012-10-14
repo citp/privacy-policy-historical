@@ -1,0 +1,239 @@
+<!--The following is the downloaded HTML source of the freetoprankdirectory.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014110953id_/http%3A//www.freetoprankdirectory.com/websiteprivacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Top Rank Web Marketing Promotion Directory&nbsp;- WebSitePrivacyPolicy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/RisingSun/style/main.css">
+<meta name="keywords" content="Top Rank Web Marketing Promotion Directory">
+<meta name="description" content="Top Rank Web Marketing Promotion Directory">
+<meta name="author" content="Free Top Rank Directory">
+<meta name="copyright" content="Free Top Rank Directory. All rights reserved!">
+<meta name="generator" content="PHP Link Directory 4.0.0">
+<!--  
+<script type="text/javascript" src="/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.freetoprankdirectory.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div></div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/RisingSun/images/logo.gif" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get">
+<label class="searchLabel">Search:</label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+<div class="searchBtn">
+<button class="searchBtnBg" type="submit"></button>
+</div>
+</form>
+</div>
+</div>
+<div class="hMenuContainer"><div class="center"><div class="hMenu"><a href="/" title="Back to Homepage">Home</a><a href="/submit.php" title="Submit your link to the directory">Submit Link</a><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a><a href="/contact.php" title="Contact directory owner">Contact</a><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a></div></div></div><div class="path"><a href="/" style="font-weight: bold;">Top Rank Web Marketing Promotion Directory</a> / WebSitePrivacyPolicy<div class="rss"><a href="/rss.php?c="><img src="/templates/RisingSun/images/xml.gif" align="top" alt="RSS Feed" border="0"></a></div></div><div class="center1"><div class="leftContainer" style="width: 200px;">
+<div class="box">
+<div class="boxTop">Top Categories</div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/arts_humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+</li>
+<li>
+<a href="/blogs/" title="Blogs">Blogs</a>
+</li>
+<li>
+<a href="/business_and_economy/" title="Business &amp; Economy">Business &amp; Economy</a>
+</li>
+<li>
+<a href="/computers_and_internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+</li>
+<li>
+<a href="/education/" title="Education">Education</a>
+</li>
+<li>
+<a href="/entertainment/" title="Entertainment">Entertainment</a>
+</li>
+<li>
+<a href="/health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/news_and_media/" title="News &amp; Media">News &amp; Media</a>
+</li>
+<li>
+<a href="/recreation_and_sports/" title="Recreation &amp; Sports">Recreation &amp; Sports</a>
+</li>
+<li>
+<a href="/reference/" title="Reference">Reference</a>
+</li>
+<li>
+<a href="/science_and_technology/" title="Science and Technology">Science and Technology</a>
+</li>
+<li>
+<a href="/shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/society/" title="Society">Society</a>
+</li>
+</ul>
+</div>
+</div>			<br>
+</div><div class="centerContainer"><div class="centerContainerM"><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc">Privacy Policy for www.freetoprankdirectory.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
+At www.freetoprankdirectory.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.freetoprankdirectory.com and how it is used.
+Log Files
+Like many other Web sites, www.freetoprankdirectory.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Cookies and Web Beacons
+www.freetoprankdirectory.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+DoubleClick DART Cookie
+.:: Google, as a third party vendor, uses cookies to serve ads on www.freetoprankdirectory.com.
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.freetoprankdirectory.com and other sites on the Internet.
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
+Google Adsense
+Amazon
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.freetoprankdirectory.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+www.freetoprankdirectory.com has no access to or control over these cookies that are used by third-party advertisers.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.freetoprankdirectory.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div></div><div class="rightContainer">
+<div class="box">
+<div class="boxTop">Latest links</div>
+<div class="boxMiddle">		 <ul class="boxPopCats">
+<li>
+<a href="                                            /detail/web-marketing-company-44414.htm" title="Read more about: Web marketing company">Web marketing company</a>
+</li>
+<li>
+<a href="                                            /detail/communication-skills-training-companies-43987.htm" title="Read more about: Communication skills training companies">Communication skills traini...</a>
+</li>
+<li>
+<a href="                                            /detail/comb-binding-43822.htm" title="Read more about: Comb binding">Comb binding</a>
+</li>
+<li>
+<a href="                                            /detail/driveway-specialists-reading-43508.htm" title="Read more about: Driveway specialists Reading">Driveway specialists Reading</a>
+</li>
+<li>
+<a href="                                            /detail/local-seo-services-40924.htm" title="Read more about: Local seo services">Local seo services</a>
+</li>
+</ul>
+</div>
+</div>		</div>
+<div style="clear: both; height: 14px;"></div></div><div class="footer"><div style="float: right"> <div align="right"></div></div><center> <a href="http://www.freetoprankdirectory.com/websiteprivacypolicy.html" rel="nofollow">Privacy_Policy</a> </center></div></body></html>
