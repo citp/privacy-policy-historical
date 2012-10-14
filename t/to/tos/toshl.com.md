@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshl.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517000204id_/http%3A//toshl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshl.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014025349id_/https%3A//toshl.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Toshl Finance
 
@@ -13,28 +13,28 @@ Which data do you collect?
 
 We only collect data which is required for the functioning of the Toshl services. We keep the following data about the registered users of this site: 
 
-  * expense data entered by the user (tag, amount, date, description)
+  * data entered by the user (tag, amount, date, description)
   * e-mail address
   * local settings (timezone, date format, currency)
   * mobile device name (which can be can set in Settings)
   * IMEI number of the mobile device
-  * date of the last sync with Toshl.com
+  * date of the last sync with Toshl.com and IP number from which it came
+  * GPS location of the noted data (only on Windows Phone, optional)
 
 
 
-Due to requirements for the processing of payments, we also keep the name, last name, address and the PayPal ID information about the Toshl  
-Pro Members of the site. 
+Due to requirements for the processing of payments, we also keep the name, last name, address and the PayPal ID information about the Toshl Pro Members of the site. 
 
 What do you use the data for?
     
 
 The data is used for the functioning of the Toshl services.  
-**The expense data** is obviously kept so you have logs about what, when and how much you have spent. Based on that we can also draw graphs and produce other statistics about your spending that you may find of interest.  
+**The financial data** is obviously kept so you have logs about what, when and how much you have spent. Based on that we can also draw graphs and produce other statistics about your spending that you may find of interest.  
 **Local settings** are kept so we can properly display and maintain your expenses according to your local customs.  
 **Mobile device name & IMEI** are kept so we have a unique identifier of your mobile device to enable syncing and prevent conflicts of data between different devices.  
-**Date of the last sync** is kept so we can warn you to keep your data up to date and know which data is latest. 
+**Date of the last sync and IP number** is kept so we can warn you to keep your data up to date, secure and know which data is latest. We also display the location of syncs in real time on http://toshl.com/live The data is anonymous, the only thing displayed is the estimated location and the device model. Location is estimated based on the IP number and is only accurate to the city-level. 
 
-We reserve the right to conduct anonymous analysis and processing of the expense data stored on the site. This is to identify various interesting statistical data and find out more about spending habits in general. Such analysis is always done on an anonymous basis and does not include any of your personal data that could be used to identify you is included. We may share such anonymous and aggregated data with our partners or general public. 
+We reserve the right to conduct anonymous analysis and processing of the financial data stored on the site. This is to identify various interesting statistical data and find out more about spending habits in general. Such analysis is always done on an anonymous basis and does not include any of your personal data that could be used to identify you is included. We may share such anonymous and aggregated data with our partners or general public. 
 
 **We value your privacy and will never sell  
 your personal information to anyone.**
