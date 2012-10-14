@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boh.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603131233id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boh.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014051940id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><!-- PageID 646 - published by RedDot 9 - 9.0.0.31 - 33396 -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -26,11 +26,11 @@
     <script type="text/javascript" src="/includes/scripts.js"></script>
     <script type="text/javascript" src="/includes/gleftnav.js"></script>
     
-    <meta name="keywords" content=""> 
-    <meta name="description" content="">
+    <meta name="keywords" content="protect the privacy of your information on boh.com, privacy policy, use of the contact information, web-based cookies and online advertising, web logs, browser-level information, surveys, contests, children's privacy, information updates"> 
+    <meta name="description" content="Bank of Hawaii privacy policy addresses topics such as use of the contact information, such as your email address, that you provide, web-based cookies and online advertising, web logs and browser-level information, surveys and contests, children's privacy and other updates.">
     <meta name="top_category" content="Other">
     <meta name="second_category" content="Security">
-    <meta name="third_category" content="Security - Security">
+    <meta name="third_category" content="Security">
     <meta name="fourth_category" content="Privacy Policy">
     <meta name="page_name" content="Bank of Hawaii - Online Privacy Policy">
     <meta name="page_id" content="646">
@@ -50,6 +50,12 @@
 <!-- START NON-FOOTER CONTAINER -->
 <div class="nonFooter">
 <noindex>
+<!-- START Type As You Search Scripts -->
+<script type="text/javascript" src="/includes/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/includes/jquery.tmpl.min.js"></script>
+<script type="text/javascript" src="/includes/jquery.adobe.sayt.min.js"></script>
+<!-- END Type As You Search Scripts -->
+
 <style>
 /* overwrite global header and primary nav styles */
 body {font-family:helvetica,arial,sans-serif; line-height:1.3; font-size:12px;}
@@ -85,23 +91,17 @@ div.branding_1 .topSearchBox .search {padding-top:5px; padding-bottom:2px;}
     <div class="branding_1 setWidth">
             <a href="/"><img src="/images/header_logo_boh.png" alt="Bank of Hawaii" width="200" height="33" border="0" class="headerLogo"></a>
             <a href="/landing-pages/bestbank.asp?HID=BAC-Personal_AMBestBank_medallion"><img width="54" height="51" class="headerIcon" alt="Ranked America's Best Bank" src="/images/header_bestbank2012shiny.png" border="0"></a>
-            <!--<style type="text/css">
-                @import url("https://content.atomz.com/pb00003807/publish/assets/top_autocomplete.css?sp_js_param=8");
-            </style>-->
             <div class="yui-skin-sam headerSearchBox">
-              <form style="width:300px;" class="topSearchBox" name="searchform" method="get" action="/apps/search/">
-                <input class="search" type="text" value="How may we help you today?" onclick="if(this.value=='How may we help you today?') this.value=''" id="q" name="q_top" onblur="if(this.value=='') {this.value='How may we help you today?';}">
+
+
+
+              <form style="width:300px;" class="topSearchBox" name="searchform" id="tnsSearchForm" method="get" action="/apps/search/">
+                <input class="search" type="text" value="How may we help you today?" onclick="if(this.value=='How may we help you today?') this.value=''" id="tnsSearchForm-q" name="q_top" onblur="if(this.value=='') {this.value='How may we help you today?';}">
                 <input type="image" src="/images/header_btn_searchblue.gif" alt="Search" class="searchBtn"> 
-                <!--<div id="autocomplete"></div-->
+                <div id="tnsSearchForm-display-sayt" class="sayt-container"></div>
               </form>
-            </div> 
-            <!--
-            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/utilities/utilities.js"></script>
-            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/datasource/datasource-min.js"></script>
-            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/autocomplete/autocomplete-min.js"></script>
-            <script type="text/javascript" src="https://content.atomz.com/sp10046115/publish/autocomplete_data.js?sp_js_param=2"></script>
-            -->        
-            <div class="supportNav floatRight"><a class="signOnLink" href="/landing-pages/sign-on.asp"><strong>Sign On</strong></a><a target="_self" href="/customer-service/index.asp">Customer Service</a>     <a target="_self" href="/apps/findus/atm.aspx">ATMs</a><a target="_self" href="/apps/findus/branch.aspx">Locations</a></div><!--/.supportNav-->
+            </div>
+            <div class="supportNav floatRight"><a class="signOnLink" href="/landing-pages/sign-on.asp"><strong>Sign On</strong></a><a target="_self" href="/customer-service/index.asp">Customer Service</a>     <a target="_self" href="/apps/findus/atm.aspx">ATMs</a><a target="_self" href="/apps/findus/locations/index.asp">Locations</a></div><!--/.supportNav-->
             <div class="clear"></div>
         </div>
     <!-- END BRANDING_1 CONTAINER -->
@@ -171,7 +171,8 @@ ul#primaryNav li.last div.megaMenu-content div.container li a { height:28px; lin
                             <li><a href="/personal/banking-products/special-package.asp">Special Packages</a></li>
                             <li><a href="/personal/banking-products/loans.asp">Loans &amp; Lines</a></li>
                             <li><a href="/personal/banking-products/mortgages.asp">Mortgages</a></li>
-                            <li><a href="/personal/banking-products/credit-cards.asp">Debit &amp; Credit Cards</a></li>
+                            <li><a href="/personal/banking-products/credit-cards.asp">Credit Cards</a></li>
+                            <li><a href="/personal/banking-products/debit-cards.asp">Debit Cards</a></li>
                             <li><a href="/personal/banking-products/online-banking.asp">Online &amp; Mobile Banking</a></li>
                             <li><a href="/personal/banking-products/ira.asp">IRAs</a></li>
                             <li><a href="/personal/banking-products/additional-services.asp">Additional Services</a></li>
@@ -181,8 +182,8 @@ ul#primaryNav li.last div.megaMenu-content div.container li a { height:28px; lin
                         <h3>Resources</h3>
                         <ul>
                             <li><a href="/personal/resource-center/resource-center.asp">Tools &amp; Resources</a></li>
-                            <!--- <li><a href="/sites/smart-money/index.asp">Smart Money Mondays</a></li> --->
-                            <li><a href="/landing-pages/810.asp?HID=ILC-SMS_web">Smart Money Seminars</a></li>
+                            <li><a href="/linkout.asp?goto=http://www.youtube.com/playlist?list=PLDCBA8784EE37C048">Smart Money Mondays</a></li>
+                            <li><a href="/seminars/index.asp?HID=ILC-SMS_web">Smart Money Seminars</a></li>
                             <li><a href="/personal/resource-center/financial-education.asp">Financial Education</a></li>
                             <li><a href="/apps/coupons/default.aspx">Online Marketplace</a></li>
                         </ul>
@@ -486,8 +487,8 @@ END HIDDEN COLUMN 2 -->
 </script>
 </div>
 <!-- START FOOTER SUPPLEMENTAL CONTAINER -->
-<div class="footerSupp"><dl><dt>About</dt><dd><a target="_self" href="/sites/about-us/index.asp">Company Info</a></dd><dd><a target="_self" href="/news-room/index.asp">Newsroom</a></dd><dd><a target="_self" href="http://ir.boh.com">Investor Relations</a></dd><dd><a target="_self" href="/sites/community/index.asp">Community</a></dd><dd><a href="/careers/index.asp">Careers</a></dd><dd><a target="_self" href="/sites/about-us/2207.asp">Philanthropy</a></dd></dl><dl><dt>Locations/Contact</dt><dd><a target="_self" href="/apps/findus/branch.aspx">Branch Locations</a></dd><dd><a target="_self" href="/apps/findus/atm.aspx">ATM Locations</a></dd><dd><a target="_self" href="/apps/contactus/Form.aspx">Contact Us</a></dd></dl><dl><dt>e-Bankoh<sup><span style="font-size: 13pt">®</span></sup></dt><dd><a target="_self" href="/landing-pages/sign-on.asp">Sign on</a></dd><dd><a target="_self" href="/apps/ebankoh/index.asp">Enroll</a></dd><dd><a target="_self" href="/customer-service/index.asp">Help</a></dd></dl>
-<ol><dt id="global-footer-ad"><div class="container"><div class="zone"><div class="ad"><a href="/personal/banking-products/loan/home-equityline.asp?terms=1&amp;amp;HID=FAC-BHEL2"><img src="/images/banners/460x110_homeequityline.gif"></a></div></div></div></dt></ol>
+<div class="footerSupp"><dl><dt>About</dt><dd><a target="_self" href="/sites/about-us/index.asp">Company Info</a></dd><dd><a target="_self" href="/news-room/index.asp">Newsroom</a></dd><dd><a target="_self" href="http://ir.boh.com">Investor Relations</a></dd><dd><a target="_self" href="/sites/community/index.asp">Community</a></dd><dd><a href="/careers/index.asp">Careers</a></dd><dd><a target="_self" href="/sites/about-us/2207.asp">Philanthropy</a></dd></dl><dl><dt>Locations/Contact</dt><dd><a target="_self" href="/apps/findus/locations/index.asp">Branch Locations</a></dd><dd><a target="_self" href="/apps/findus/atm.aspx">ATM Locations</a></dd><dd><a target="_self" href="/apps/contactus/Form.aspx">Contact Us</a></dd></dl><dl><dt>e-Bankoh<sup><span style="font-size: 13pt">®</span></sup></dt><dd><a target="_self" href="/landing-pages/sign-on.asp">Sign on</a></dd><dd><a target="_self" href="/apps/ebankoh/index.asp">Enroll</a></dd><dd><a target="_self" href="/customer-service/index.asp">Help</a></dd></dl>
+<ol><dt id="global-footer-ad"></dt></ol>
     </div>
     <!-- END FOOTER SUPPLEMENTAL CONTAINER -->
     <div class="footerProduct">
@@ -497,7 +498,8 @@ END HIDDEN COLUMN 2 -->
         <li><a target="_self" href="/personal/banking-products/special-package/special-packages.asp">Special Packages</a> </li>
         <li><a target="_self" href="/sites/loans/index.asp">Loans</a> </li>
         <li><a target="_self" href="/personal/banking-products/loan/mortgages.asp">Mortgages</a> </li>
-        <li><a target="_self" href="/personal/banking-products/credit-cards/credit-cards.asp">Debit &amp; Credit Cards</a> </li>
+        <li><a title="null" target="_self" href="/personal/banking-products/credit-cards.asp">Credit Cards</a> </li>
+        <li><a target="_self" href="/personal/banking-products/debit-cards.asp">Debit Cards</a>&nbsp; </li>
         <li><a target="_self" href="/personal/banking-products/online-banking/online-banking.asp">Online Banking</a> </li>
         <li><a class="lastitem" target="_self" href="/personal/banking-products/ira/ira.asp">IRAs</a> </li>
     </ul>
@@ -514,7 +516,7 @@ END HIDDEN COLUMN 2 -->
         <li><a target="_self" href="/security/privacy.asp">Privacy</a> </li>
         <li><a href="/security/index.asp">Security</a> </li>
     </ul>
-    <div class="socialLinks"><a class="fb" target="_self" href="/linkout.asp?goto=https://www.boh.com/facebook"><img width="20" height="20" border="0" alt="Facebook" src="/images/icon_social_facebook.png"> boh.com/facebook</a> <a class="twitter" href="/linkout.asp?goto=http://www.twitter.com/bankofhawaii"><img width="20" height="20" border="0" alt=" " src="/images/icon_social_twitter.png"> twitter.com/bankofhawaii</a> </div>
+    <div class="socialLinks"><a class="fb" target="_self" href="/linkout.asp?goto=https://www.boh.com/facebook"><img width="20" height="20" border="0" alt="Facebook" src="/images/icon_social_facebook.png"> boh.com/facebook</a> <a class="twitter" href="/linkout.asp?goto=http://www.twitter.com/bankofhawaii"><img width="20" height="20" border="0" alt="Twitter" src="/images/icon_social_twitter.png"> twitter.com/bankofhawaii</a> </div>
     </div>
     </div>
     <!-- END FOOTER CONTAINER -->  
