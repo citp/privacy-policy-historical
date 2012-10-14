@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tooled-up.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601005502id_/http%3A//www.tooled-up.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tooled-up.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014153355id_/http%3A//www.tooled-up.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement : Tooled-Up.com
 
@@ -64,7 +64,7 @@ We use information held about you in the following ways:
 
 • To notify you about changes to our products or services.
 
-We do not pass your data to third parties other than to facilitate successful completion and delivery of your order such as your address details to our designated delivery partner.
+We do not pass your data to third parties other than to facilitate successful completion and delivery of your order or for our own research and feedback, such as your address details to our designated delivery partner or your contact details to oue service review partner.
 
 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
