@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adamlive.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504050922id_/http%3A//adam4adamlive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adamlive.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014142435id_/http%3A//www.adam4adamlive.com/privacy.php) for the most accurate reproduction.*
 
 # Adam4AdamLive.com
 
