@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509220626id_/http%3A//www.xda-developers.com/index.php/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014040410id_/http%3A//www.xda-developers.com/index.php/xda-developers-privacy-policy) for the most accurate reproduction.*
 
-# XDA-Developers Privacy Policy | xda-developers
+# XDA-Developers Privacy Policy – xda-developers
 
 **What information do we collect?**
 
@@ -10,9 +10,13 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
+**Third Party Ad Servers**
+
+We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 • To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -35,8 +39,7 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other  
-company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 **How do we protect your information?**
 
@@ -46,8 +49,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to understand and save your preferences for future visits, keep track  
-of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 **Do we disclose any information to outside parties?**
 
@@ -86,6 +88,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-JB Online Media, LLC  
-http://www.xda-developers.com  
+JB Online Media, LLC
+
+http://www.xda-developers.com
+
 webmaster@xda-developers.com
