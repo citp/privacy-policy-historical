@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epubbooks.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511014758id_/http%3A//www.epubbooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epubbooks.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014090327id_/http%3A//www.epubbooks.com/privacy-policy) for the most accurate reproduction.*
 
-# epubBooks: Free EPUB eBook Search
+# Privacy Policy | epubBooks: eBook Search, EPUB Bestsellers, Free and New
 
 This privacy policy sets out how epubBooks uses and protects any information that you give epubBooks when you use this website.
 
