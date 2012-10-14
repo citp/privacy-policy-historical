@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdporn.in privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512100623id_/http%3A//www.hdporn.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdporn.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014101126id_/http%3A//www.hdporn.in/privacy.html) for the most accurate reproduction.*
 
-# Porn tube, Free HD Porn Videos, XXX Porno Movies, Online Streaming Porn and Free Sex Clips
+# HD Porn tube, Free Sex Videos, XXX Porno Clips, Online Streaming Movies and Free Sex Vids
 
 This document explains you important information regarding the use and disclosure of User Data collected on HDPorn.in
 
