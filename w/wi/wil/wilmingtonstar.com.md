@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilmingtonstar.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614095103id_/http%3A//www.starnewsonline.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilmingtonstar.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014095031id_/http%3A//www.starnewsonline.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy | StarNewsOnline.com | Wilmington Star News
 
