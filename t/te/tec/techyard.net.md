@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523184356id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014155034id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Disclaimer | TECH YARD
+# Privacy Policy & Disclaimer - TECH YARD
 
 At **TechYard.net** we take the privacy of our visitors very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used.
 
