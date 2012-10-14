@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525074559id_/http%3A//www.seblod.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014211308id_/http%3A//www.seblod.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SEBLOD The Ultimate CCK for Joomla!
 
