@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filesuploader.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619031117id_/http%3A//www.filesuploader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesuploader.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014145719id_/http%3A//www.filesuploader.com/privacy) for the most accurate reproduction.*
 
-# FilesUploader - Mirror your files in one click
+# FilesUploader - Kürzen Sie Ihre langen URLs in einem Klick
 
 ## Your Privacy
 
