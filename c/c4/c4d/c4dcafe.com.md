@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the c4dcafe.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404002803id_/http%3A//www.c4dcafe.com/portal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c4dcafe.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014180027id_/http%3A//www.c4dcafe.com/ipb/privacypolicy) for the most accurate reproduction.*
 
-# C4D Cafe
+# Privacy Policy - C4D Cafe
 
-In order to use some features and the forums, users are required to provide a username, password and email address. Neither the Administrators of these forums, or the Moderators participating, are responsible for the privacy practices of any user. Remember that all information that is disclosed in these areas becomes public information and you should exercise caution when deciding to share any of your personal information. Any user who finds material posted by another user objectionable is encouraged to contact us via email. 
+Forums, gallery and free tutorials dedicated to using and learning [Cinema 4D.](http://www.c4dcafe.com/) Sign up today and start enjoying what we have to offer. [Registration](http://www.c4dcafe.com/ipb/index.php?app=core&module=global&section=register) is fast and free. 
 
-This site may contain links to other web sites and files. We have no control over the content and can not ensure it will not be offensive or objectionable. We will, however, remove links to material that we feel is inappropriate as we become aware of them.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested. 
 
-The site gives users two options for changing and modifying information that they provide in their profile: 
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers. 
 
-  1. Users can login with their username and password to change any information in their profile. 
-  2. In case of lost password, users can send an email to [3DCrew@c4dcafe.com](mailto:3DCrew@c4dcafe.com).
+**Our Commitment to Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-
-
-Cookies must be turned on in your browser to participate as a user. Cookies are used here to hold your username and password and viewing options, allowing you to login.
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [3DCrew@c4dcafe.com](mailto:3DCrew@c4dcafe.com)
+**Cookies**   
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
