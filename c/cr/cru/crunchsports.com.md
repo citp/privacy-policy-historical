@@ -1,136 +1,102 @@
-> *The following text is extracted and transformed from the crunchsports.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512105918id_/http%3A//www.crunchsports.com/Information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchsports.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014034121id_/http%3A//www.crunchsports.com/Information/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The following statement explains our policy regarding the personal information we collect about you. 
+**Privacy Policy**
 
-1\. Statement of intent   
-2\. Information on visitors   
-3\. What is a cookie?   
-4\. Submitting personal information   
-5\. Access to your personal information   
-6\. Users 16 and under   
-7\. How to find and control your cookies?   
-8\. How do you know which sites use cookies?   
-9\. How to see your cookie code? 
+ _This Privacy Policy was last revised on 2nd July 2012_
 
-   **1\. Statement of intent  
-** From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website. Such services include newsletters, competitions, "Alert Email", live chats, message boards and membership of the site.
+Crunchsports.com (“the Site,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by the site when you use the Site Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy are defined in our Terms of Use 
 
-By entering your details in the fields requested, you enable and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. will act in accordance with current legislation and aim to meet current Internet best practice. 
+ **Information We Collect**
 
-  **2\. Information on visitors  
-** During the course of any visit to , the pages you see, along with something called a cookie, are downloaded to your computer (see point 3 for more on this). Most, if not all, websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+ _User-Provided Information_ : When you add a Site application on a social network site or a mobile device, you provide us with the information associated with our account on the site in accord with the site’s terms of use. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service. You may provide payment information to our payment partner if you conduct paid transactions on the Service; such information is subject to the payment provider’s privacy policy, not this Privacy Policy.
 
-Any information that is supplied by cookies can help us to provide you with a better service and assists us to analyse the profile of our visitors. For example: if on a previous visit you went to, say, a specific community page, then we might find this out from your cookie and highlight information relating to this community on a second visit.
+ _Cookies Information:  _When you use the Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets the Site help you log in faster and enhance your navigation through the Service. A cookie may also convey anonymous information about how you use the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-We gather non-personal data regarding the visitors to our site using cookies and code which is embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users.  
+ _Log File Information_ : Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any web page. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-  **3\. What is a cookie?  
-** When you enter a site your computer will automatically be issued with a cookie. Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Many sites do this whenever a user visits their site in order to track traffic flows.
+ _Clear Gifs Information_ : When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make the Site better for our users.
 
-Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user.
+ **How We Use Your Information**
 
-NB: Even if you haven't set your computer to reject cookies you can still browse our site anonymously until such time as you register for services. 
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
 
-  **4\. Submitting personal information  
-** When you supply any personal information to we have legal obligations towards you in the way we deal with that data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular web pages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else. In general, any information you provide to will only be used within and by its service providers. It will never be supplied to anyone outside without first obtaining your consent, unless we are obliged or permitted by law to disclose it. Also, if you post or send offensive or inappropriate content anywhere on or to or otherwise engage in any disruptive behaviour on , and considers such behaviour to be serious and/or repeated, can use whatever information that is available to it about you to stop such behaviour. This may include informing relevant third parties such as your employer, school or e-mail provider about the content and your behaviour.
+By providing the Site your email address, including by adding a the Site application on a social network, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by sending an email with “opt out” in the subject line to the email address specificed below. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
 
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of membership you no longer wish to continue your registration as an member. For safety reasons, however, may store messaging transcript data (including message content, member names, times and dates) arising from the use of Community services for a period of six months. Where personal information is held for people who are not yet registered but have taken part in other services (e.g. competitions), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998. 
+Following termination or deactivation of your Member account, The Site may retain your information and User Content for a commercially reasonable time for backup, archival, or audit purposes, or to reactivate your account upon your request. Furthermore, The Site may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your Member account.
 
-  **5\. Access to your personal information.**   
-You have the right to request a copy of the personal information holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) 
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person’s email address and automatically send an email invitation. The Site stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at the email address below
 
- **6\. Users 16 and under  
-** Our Service is intended for persons 21 years or older and we will not knowingly permit anyone under the age of 21 to use our Service. 
+The Site may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
 
-  **7\. How to find and control your cookies?**   
-If you're using Netscape 6.0:
+The Site reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. The Site also reserves the right to remove information upon the request of any third party.
 
-On your Task Bar, click:
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you use the Service; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of users, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; and (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
 
-1\. Edit, then  
-2\. Preferences  
-3\. Click on Advanced  
-4\. Click on Cookies
+ **  
+How We Share Your Information**
 
-If you're using Internet Explorer 6.0:
+Personally Identifiable Information: The Site may share your personally identifiable information with third parties solely for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of The Site (for instance, on servers or databases co-located with hosting providers).
 
-1\. Choose Tools, then  
-2\. Internet Options  
-3\. Click the Privacy Tab  
-4\. Click on Custom Level  
-5\. Click on the 'Advanced' button  
-6\. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate.
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
 
-If you're using Internet Explorer 5.0 or 5.5:
+The Site may disclose information about you to select business partners in order to provide you with advertising and promotional information and opportunities that we think may be of interest to you. We do not give our partners an independent right to share this information.
 
-1\. Choose Tools, then  
-2\. Internet Options  
-3\. Click the Security tab  
-4\. Click on Custom Level  
-5\. Scroll down to the sixth option to see how cookies are handled by IE5 and change to Accept, Disable, or Prompt for action as appropriate.
+Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. You may change your privacy settings on the Service with the features provided by the Application and/or the social networking site or by sending an email to the address specified below. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
-If you're using Internet Explorer 4.0:
+Except as otherwise described in this Privacy Policy, The Site will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of The Site, our Users or others.
 
-1\. Choose View, then  
-2\. Internet Options  
-3\. Click the Advanced tab  
-4\. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies.
+Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain The Site services.
 
-In Internet Explorer 3.0:
+The Site may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the the Site Service. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. The Site does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks The Site to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies. The Site Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-You can View, Options, Advanced, then click on the button that says Warn before Accepting Cookies.
+ **  
+How We Protect Your Information** The Site uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your privacy settings. We cannot, however, ensure or warrant the security of any information you transmit to The Site and you do so at your own risk. Once we receive your transmission of information, The Site makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of The Site’s distributors, such as social networks. The Site is not responsible for the functionality or security measures of any third party.
 
-If you're using Netscape Communicator 4.0:
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from The Site, at all times.
 
-On your Task Bar, click:
+ **Compromise of Personal Information**
 
-1\. Edit, then  
-2\. Preferences  
-3\. Click on Advanced  
-4\. Set your options in the box that says Cookies. 
+In the event that personal information is compromised as a result of a breach of security, The Site will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-  **8\. How do you know which of the sites you've visited use cookies?  
-** If you're using Netscape Communicator 6.0:
+ **Your Choices About Your Information**
 
-On your Task Bar, click:
+You may, of course, decline to submit personally identifiable information through the Service, in which case The Site may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by contacting us at the email address below. You can review and correct the information about you that The Site keeps on file by contacting us directly at the email address below.
 
-1\. Edit, then  
-2\. Preferences  
-3\. Click on Advanced  
-4\. Click on Cookies  
-5\. Click the View Cookies button
+ **  
+Children’s Privacy**
 
-If you are using Internet Explorer 5.0 or 6.0:
+Protecting the privacy of young children is especially important. For that reason, The Site does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register as Members. If you are under 18, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 is allowed to provide any personal information to or on The Site. In the event that we learn that we have collected personal information from a child under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at the email address below immediately.
 
-1\. Choose Tools, then  
-2\. Internet Options  
-3\. Click the General tab  
-4\. Click Settings  
-5\. View Files
+ **Links to Other Web Sites  
+**  
 
-If you are using Internet Explorer 4.0:
 
-On your Task Bar, click:
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
 
-1\. View, then  
-2\. Internet Options  
-3\. Under the tab General (the default tab) click Settings  
-4\. View Files.
+ **Notification Procedures**
 
-If you are using Internet Explorer 3.0:
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by The Site in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-On your Task Bar, click:
+ **Changes to Our Privacy Policy**
 
-1\. View  
-2\. Options  
-3\. Advanced  
-4\. View Files.
+If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at the email address below or send mail to:
 
-If you are using Netscape Communicator 4.0:
+privacy@crunchsports.com
 
-Netscape bundles all cookies into one file on your hard drive. You'll need to find the file, which it calls Cookie.txt on Windows machines. 
+CrunchSports.com
 
-  **9\. How to see your cookie code?  
-** Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. 
+Caledonian Publishing
+
+c/o Avant Garde
+
+Admiral’s Offices
+
+Main Gate Road
+
+The Historic Dockyard
+
+Chatham
+
+Kent ME4 4TZ 
