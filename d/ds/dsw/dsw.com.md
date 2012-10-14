@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601045649id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132815id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
 
 # dsw.com Privacy Policy
 
@@ -118,7 +118,7 @@ While we implement the above security measures on this site, you should be aware
 **NOTICE TO CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS** DSW, Inc. collects various types of personal information about you both online (at dsw.com) and offline during the course of our customer relationship. Under California law, if you are a resident of California, you may make a written request to DSW, Inc. to request how we have shared your information with third parties for their direct marketing purposes. In response to your written request, DSW, Inc. is allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use it for their direct marketing purposes. 
 
 DSW, Inc. has chosen to provide you with a cost-free means to opt-out of such sharing, which you can accomplish by completing our Third Party Direct Marketing Opt-Out Form. If you would like to instruct us to no longer share your personal information with third parties who will use it for direct marketing purposes, please click on the following link:  
-[California Rights Form](https://web.archive.org/web/20120601045649id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address: 
+[California Rights Form](https://web.archive.org/web/20121014132815id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address: 
 
 **POSTAL ADDRESS:**  
 DSW Inc.  
