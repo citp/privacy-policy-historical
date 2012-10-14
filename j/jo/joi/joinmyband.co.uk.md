@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511104909id_/http%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014024234id_/http%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Musicians Wanted Ads at Join My Band
 
 Join My Band are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
-(1) What information do we collect?
+### (1) What information do we collect?
 
 We may collect, store and use the following kinds of personal information:
 
@@ -18,21 +18,66 @@ We may collect, store and use the following kinds of personal information:
 
 (e) any other information that you choose to send to us; 
 
-(2) Cookies 
+### (2) Cookies
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
-We may use both "session" cookies and "persistent" cookies on the website.
+We use both "session" cookies and "persistent" cookies on the website.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+The following cookies are set that are required to ensure functionality of core features of our website:
+
+  * **PHPSESSID**  
+Purpose: to maintain your user session  
+Expires: end of session
+  * **joinmyband_sid**  
+Purpose: to maintain your current logged in user session  
+Expires: end of session
+  * **joinmyband_t**  
+Purpose: track whether a topic has unread posts during your user session  
+Expires: end of session
+  * **joinmyband_data**  
+Purpose: to keep user logged into our website  
+Expires: 1 year
+  * **cookie_notice**  
+Purpose: to detect whether the cookie notice has been shown  
+Expires: 1 year
+
+
+
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
+
+The following cookies are set by Google Analytics.
+
+  * **__utma**  
+Purpose: Identify unique visitors to the site  
+Typical content: Randomly generated number  
+Expires: 2 years
+  * **__utmb**  
+Purpose: establish and continue a user session on the site  
+Typical content: Randomly generated number  
+Expires: 30 minutes
+  * **__utmc**  
+Purpose: Used to determine session status  
+Typical content: Randomly generated number  
+Expires: end of session
+  * **__utmz**  
+Purpose: Used to track traffic sources and page navigation.  
+Typical content: Randomly generated number & info on how the visitor found the site  
+Expires: 6 months
+
+
+
+For more information on the cookies set by Google Analytics please see: <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet>. To opt out of being tracked by Google Analytics across all websites visit <https://tools.google.com/dlpage/gaoptout>.
 
 Our advertisers/payment services providers may also send you cookies. 
 
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
+We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: [http://www.google.com/privacy_ads.html](http://www.google.co.uk/privacy_ads.html). However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-(3) Using your personal information
+For more information on cookies and how to manage them, please visit <http://www.aboutcookies.org/>.
+
+### (3) Using your personal information
 
 Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -62,7 +107,7 @@ We will not without your express consent provide your personal information to an
 
 All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
-(4) Disclosures
+### (4) Disclosures
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -80,7 +125,7 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-(5) Security of your personal information
+### (5) Security of your personal information
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
@@ -88,11 +133,11 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
 
-(6) Policy amendments 
+### (6) Policy amendments 
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
 
-(7) Your rights
+### (7) Your rights
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
@@ -104,18 +149,14 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
-(9) Third party websites
+### (8) Third party websites
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-(10) Updating information
+### (9) Updating information
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-(11) Contact
+### (10) Contact
 
 If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@joinmyband.co.uk. 
-
-* Google, as a third-party vendor, uses cookies to serve ads on this site.  
-* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
