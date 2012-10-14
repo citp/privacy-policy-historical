@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615042418id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063919id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
 
 # Perfect Connection Golf Swing Privacy Policy
 
 **PRIVACY POLICY**
 
-**(Last Revised: May 5, 2011)**
+**(Last Revised: October 10, 2012)**
 
 Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
@@ -32,13 +32,13 @@ Persistent cookies enable us to track and target the interests of our users to e
 
 Third party vendors, including Google, show our ads on sites on the internet. 
 
-Third party vendors, including Google, use our cookies to serve PerfectConnection Golf Swing ads based on a user's prior visits to our website. 
+Third party vendors, including Google, use our cookies to serve CJH Interactive Sports LLC dba PerfectConnection Golf Swing ads based on a user's prior visits to our website. 
 
 Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
-**How can I disable the display of PerfectConnection Golf Swing personalized advertisements?**
+**How can I disable the display of CJH Interactive Sports LLC dba PerfectConnection Golf Swing personalized advertisements?**
 
-If you no longer want to be exposed to PerfectConnection Golf Swing personalized banners, you can opt out by simply visiting the Network Advertising Initiative website: <http://www.networkadvertising.org/managing/opt_out.asp>.
+If you no longer want to be exposed to CJH Interactive Sports LLC dba PerfectConnection Golf Swing personalized banners, you can opt out by simply visiting the Network Advertising Initiative website: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Please note:** This procedure will not block ads that are displayed on the websites you visit.
 
@@ -60,6 +60,6 @@ All information collected from you is stored in a technically and physically sec
 
 **Contacting Us**
 
-If you need to contact us, you can email us at Support@PerfectConnectionGolfSwing.com, call us at 888-746-5341, or send us a letter at: 820 W. Danforth Rd, Suite A-15, Edmond, OK, 73003.
+If you need to contact us, you can email us at Support@PerfectConnectionGolfSwing.com, call us at 877-228-7088, or send us a letter at: 100 Crescent Court #1200, Dallas, TX 75201.
 
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
