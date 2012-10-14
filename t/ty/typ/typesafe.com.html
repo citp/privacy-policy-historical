@@ -1,45 +1,93 @@
-<!--The following is the downloaded HTML source of the typesafe.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512064427id_/http%3A//typesafe.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the typesafe.com privacy policy that was archived on 2012-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014112318id_/http%3A//typesafe.com/company/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    var jsRoutes = {}; (function(_root){
+var _nS = function(c,f,b){var e=c.split(f||"."),g=b||_root,d,a;for(d=0,a=e.length;d<a;d++){g=g[e[d]]=g[e[d]]||{}}return g}
+var _qS = function(items){var qs = ''; for(var i=0;i<items.length;i++) {if(items[i]) qs += (qs ? '&' : '') + items[i]}; return qs ? ('?' + qs) : ''}
+var _s = function(p,s){return p+((s===true||(s&&s.secure))?'s':'')+'://'}
+var _wA = function(r){return {ajax:function(c){c=c||{};c.url=r.url;c.type=r.method;return jQuery.ajax(c)}, method:r.method,url:r.url,absoluteURL: function(s){return _s('http',s)+'typesafe.com'+r.url},webSocketURL: function(s){return _s('ws',s)+'typesafe.com'+r.url}}}
+_nS('controllers.Application'); _root.controllers.Application.randomTweet = 
+      function() {
+      return _wA({method:"GET", url:"/" + "tweets"})
+      }
+   
+})(jsRoutes)
+          
+</script>
+
+
+
+
+    
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="description" content="Typesafe provides an easy-to-use packaging of the Scala programming language, Akka middleware, and developer tools via the open source Typesafe Stack, as well as commercial support and maintenance via the Typesafe Subscription. Typesafe also provides training and consulting services to accelerate the commercial adoption of Scala and Akka.">
         <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png">
         <link rel="stylesheet" type="text/css" media="screen" href="/public/stylesheets/main.css">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/public/javascripts/jquery-1.5.1.min.js"></script>
+        <script src="/public/javascripts/jquery-1.7.1.min.js"></script>
         <!--[if lt IE 9 ]><script>$.each(("header footer section aside nav article figure").split(" "),function(i,name){document.createElement(name);});</script><![endif]--> 
         <title>Typesafe — Company: Privacy</title>
+        <script>
+        function updateTweet() {
+          jsRoutes.controllers.Application.randomTweet().ajax({
+            success: function(data) { 
+              $.each(data, function(key, val) {
+                if (key == "url") {
+                  $('#tweet_url').attr('href', val);
+                } else if (key == "author") {
+                  $('#tweet_author').html(val);
+                } else if (key == "content") {
+                  $('#tweet_content').html(val);
+                } 
+              });
+              $("#liveTweeter").show();
+            },
+            error: function(data) {
+              $("#liveTweeter").hide();
+            }
+          });
+        };
+      
+        $(document).ready(function(){
+          updateTweet();
+          setInterval( updateTweet, 10000 ); //10 seconds
+        });
+        </script>
+        
     </head>
     <body>
         <div id="header">
             <div id="top">
                 <div class="container">
-                    <div id="liveTweeter">
-                        <span class="twit">
-                            <strong><a href="http://twitter.com/typesafe/statuses/192510993195212800">Typesafe</a></strong><a href="http://twitter.com/typesafe/statuses/192510993195212800"> typesafe: Typesafe named to Gartner's "Cool Vendors in Application Development 2012" http://t.co/SChM2E1N #scala #java #akka #playframework</a>
-                        </span>
-                    </div>
+                     <div id="liveTweeter" style="">
+                          <span class="twit"> 
+                             <a id="tweet_url" href=""><strong id="tweet_author">Loading...</strong> <span id="tweet_content"></span></a>
+                          </span>
+                      </div>
                 </div>
             </div>
             <div class="container">
+                
+
                 <h1 id="logo"><a href="/"><img src="/public/images/logo.png" alt="Typesafe"></a></h1>
                 <ul id="menu">
-                    <li><a href="/stack" class="">Typesafe Stack</a></li>
-                    <li><a href="/technology" class="" "="">Technology</a></li>
-                    <li><a href="/products" class="" "="">Products and Services</a></li>
-                    <li><a href="/resources" class="" "="">Resources</a></li>
-                    <li><a href="/company" class="selected" "="">Company</a></li>
+                    <li><a href="/technology/stack" class="">Typesafe Stack</a></li>
+                    <li><a href="/technology/technology/overview" class="" "="">Technology</a></li>
+                    <li><a href="/products/" class="" "="">Products and Services</a></li>
+                    <li><a href="/resources/" class="" "="">Resources</a></li>
+                    <li><a href="/company/" class="selected" "="">Company</a></li>
                     <li><a href="http://blog.typesafe.com">Blog</a></li>
+                     <!-- FIXME "sign in" in an else branch here -->
                 </ul>
+
                 
-                
-                
+
             </div>
         </div>
         
         <section>
             
-    
+
     <div class="container">
         <div id="main">
 
@@ -83,8 +131,10 @@
     
     
 
+
+
 <div id="subMenu">
-    <h4><a href="/company">Company</a></h4>
+    <h4><a href="/company/">Company</a></h4>
     <ul>
         
             <li>
@@ -102,6 +152,12 @@
             <li>
                 <a href="/company/news" class="">
                     News
+                </a>
+            </li>
+        
+            <li>
+                <a href="/company/press" class="">
+                    Press
                 </a>
             </li>
         
@@ -127,22 +183,18 @@
 
 </div>
 
+
 <div class="box">
     <h5>Join the newsletter</h5>
     <p>
         Stay up to date on Typesafe news, events, tips, and more.
     </p>
     <p>
-        </p><form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post">
-            <input type="hidden" name="llr" value="oxlgvjfab">
-            <input type="hidden" name="m" value="1105204555502">
-            <input type="hidden" name="p" value="oi">
-            <input type="text" name="ea" placeholder="Enter your email"> 
+        </p><form method="get" action="/newsletter">
             <input type="submit" value="Join us">
         </form>
     <p></p>
 </div>
-
 
 <div class="box">
     <h5>The Typesafe Stack</h5>
@@ -155,21 +207,22 @@
         </a>
     </p>
     <p>
-        Learn more in the <a href="/resources/typesafe-stack-whitepaper">whitepaper</a>.
+        Learn more in the <a href="/resources/whitepapers">whitepaper</a>.
     </p>
 </div>
 
 
-<div class="box">
-    <h5>Free e-book</h5>
-    <p>
-        Download Scala for the Impatient.
+    <div class="box">
+    <h5>Free e-books</h5>
+    <p>Free chapters from <em>Scala for the Impatient</em> and <em>Scala in Depth</em>!
     </p>
     <p class="download-stack">
-        <a class="download" href="/resources/scala-for-the-impatient"><img src="/public/images/download-ebook.png">
+        <a class="download" href="/resources/free-books"><img src="/public/images/download-ebook.png">
         </a>
     </p>
 </div>
+
+
 
     
 
@@ -187,39 +240,42 @@
             <div class="container">
                 
                 <ul> 
-                    <li><h5><a href="/technology">Technology</a></h5></li> 
-                    <li><a href="/technology/scala">Scala</a></li> 
-                    <li><a href="/technology/akka">Akka</a></li> 
-                    <li><a href="/technology/play">Play</a></li> 
-                    <li><a href="/technology/scala-ide">Scala IDE</a></li> 
-                    <li><a href="/technology/sbt">Simple Build Tool</a></li> 
-                    <li><a href="/technology/migration-manager">Migration Manager</a></li> 
+                    <li><h5><a href="/technology/technology/overview">Technology</a></h5></li> 
+                    <li><a href="/technology/technology/scala">Scala</a></li> 
+                    <li><a href="/technology/technology/akka">Akka</a></li> 
+                    <li><a href="/technology/technology/play">Play</a></li> 
+                    <li><a href="/technology/technology/scala-ide">Scala IDE</a></li> 
+                    <li><a href="/technology/technology/sbt">Simple Build Tool</a></li> 
+                    <li><a href="/technology/technology/migration-manager">Migration Manager</a></li> 
                 </ul> 
                 
                 <ul> 
-                    <li><h5><a href="/products">Products and Services</a></h5></li> 
-                    <li><a href="/stack">Typesafe Stack</a></li> 
-                    <li><a href="/products/typesafe-subscription">Typesafe Subscription</a></li> 
+                    <li><h5><a href="/products/">Products and Services</a></h5></li> 
+                    <li><a href="/technology/stack">Typesafe Stack</a></li> 
+                    <li><a href="/company/products/typesafe-subscription">Typesafe Subscription</a></li> 
                     <li><a href="/products/console">Typesafe Console</a></li> 
                     <li><a href="/products/training">Training</a></li> 
-                    <li><a href="/products/consulting">Consulting</a></li> 
+                    <li><a href="/company/products/consulting">Consulting</a></li> 
                 </ul>
                 
                 <ul> 
-                    <li><h5><a href="/resources">Resources</a></h5></li> 
+                    <li><h5><a href="/resources/">Resources</a></h5></li> 
                     <li><a href="/resources/getting-started">Getting Started</a></li> 
                     <li><a href="/resources/documentation">Documentation</a></li> 
                     <li><a href="/resources/typesafe-stack-whitepaper">Whitepaper</a></li> 
+                    <li><a href="/resources/case-studies">Case Studies</a></li> 
                     <li><a href="/resources/videos">Videos</a></li> 
                     <li><a href="/resources/books">Books</a></li> 
                     <li><a href="/resources/community">Community</a></li> 
+                    <li><a href="/resources/developer-contest">Developer Contest</a></li>
                 </ul>
 
                 <ul> 
-                    <li><h5><a href="/company">Company</a></h5></li> 
+                    <li><h5><a href="/company/">Company</a></h5></li> 
                     <li><a href="/company/team">Team</a></li> 
                     <li><a href="/company/partners">Partners</a></li> 
                     <li><a href="/company/news">News</a></li> 
+                    <li><a href="/company/press">Press</a></li> 
                     <li><a href="/company/events">Events</a></li> 
                     <li><a href="/company/careers">Careers</a></li> 
                     <li><a href="/company/contact">Contact</a></li>
@@ -257,6 +313,13 @@ s.parentNode.insertBefore(ga, s);
  })();
 
         </script>
+        <script type="text/javascript">
+  document.write (
+    '<img src="http://marketing.typesafe.com/acton/bn/3608/visitor.gif?ts='+
+    new Date().getTime()+
+    '&ref='+escape(document.referrer) + '">'
+  );
+        </script><img src="http://marketing.typesafe.com/acton/bn/3608/visitor.gif?ts=1580428246456&amp;ref=">
     
 
 
