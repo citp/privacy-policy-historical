@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419025735id_/http%3A//www.harness.org.au/national-content.cfm%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014035255id_/http%3A//www.harness.org.au/national-content.cfm%3Fpagename%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Harness Racing
 
 ### What personally identifiable information is collected on this site?
 
-For visitors who request to participate in some of the pages on this site we may collect name, address, phone, e-mail ID and, optionally, company information. 
+For visitors who request to participate in some of the pages on this site we may collect name, address, phone, e-mail ID and, optionally, company information.
 
 ### How is it used?
 
@@ -30,14 +30,14 @@ AUSTRALIA
 
 ### Web user statistics
 
-When you look at this web site, our hosting service (Fujitsu Australia Ltd) makes a record of your visit and logs the following information for statistical purposes:
+When you look at this web site, our hosting service makes a record of your visit and logs the following information for statistical purposes:
 
-  * your server address 
-  * your top level domain name (for example .com, .gov, .au, .uk etc) 
-  * the date and time of your visit to the site 
-  * the pages you accessed and documents downloaded 
-  * the previous site you have visited 
-  * the type of browser you are using 
+  * your server address
+  * your top level domain name (for example .com, .gov, .au, .uk etc)
+  * the date and time of your visit to the site
+  * the pages you accessed and documents downloaded
+  * the previous site you have visited
+  * the type of browser you are using
 
 
 
@@ -47,5 +47,4 @@ If you choose to use some parts of the site, cookies may be stored on your own c
 
 ### Banner ads
 
-This site, Australian Harness Racing, may from time to time use the services of  a banner advertising firm for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the firm may collect anonymous data through the use of cookies.   
-
+This site, Australian Harness Racing, may from time to time use the services of  a banner advertising firm for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the firm may collect anonymous data through the use of cookies. 
