@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motel6.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510025440id_/http%3A//www.motel6.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motel6.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014123346id_/http%3A//www.motel6.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Motel 6 - Privacy Policy
+# Motel 6 - G6 Hospitality Privacy Protection Policy
 
 ## Introduction
 
@@ -20,7 +20,7 @@ The security of Guest Information is very important to us and we are committed t
 
 ## What we will and will not do with Guest Information:
 
-  1. We will not sell trade or rent Guest Information to parties outside the Accor family of companies, our franchisees and affiliates, or allow our affiliates to sell such information to parties outside of our group of companies, franchisees and affiliates.
+  1. We will not sell trade or rent Guest Information to parties outside the G6 Hospitality family of companies, our franchisees and affiliates, or allow our affiliates to sell such information to parties outside of our group of companies, franchisees and affiliates.
   2. We may use Guest Information to offer goods and services we believe may be of interest to you on behalf of ourselves, our affiliates and our franchisees. We may use Guest Information to contact you to inquire or survey about the guest experience at the location(s) visited and the prospect of future stays or improvements needed to attract additional business. We may also create and use aggregate Guest Information that is not personally identifiable to understand more about the common traits and interests of our Guests.
   3. We may utilize one or more third-party service providers to send email or other communications to you on our behalf, including guest satisfaction surveys. These service providers are prohibited from using your email address or other contact information for any purpose other than to send communications on our behalf.
 
@@ -49,11 +49,11 @@ We may disclose Guest Information to law enforcement agencies, or may be require
 
 ## Franchisees
 
-Some of our locations are owned and operated by independent franchisees that are neither owned nor controlled by Accor, its affiliates or subsidiaries. Each franchisee may collect Guest Information and use such information for its own purposes. Accor does not control the use or access of such information collected by franchisees.
+Some of our locations are owned and operated by independent franchisees that are neither owned nor controlled by G6 Hospitality, its affiliates or subsidiaries. Each franchisee may collect Guest Information and use such information for its own purposes. G6 Hospitality does not control the use or access of such information collected by franchisees.
 
 ## Questions or Comments
 
-Any questions or comments that relate to the Accor Privacy Protection Policy may be directed to us at Motel 6, P. O. Box 809092, Dallas, TX, 75380-9092, and [privacy@motel6.com](mailto:privacy@motel6.com)
+Any questions or comments that relate to the G6 Hospitality Privacy Protection Policy may be directed to us at Motel 6, P. O. Box 809092, Dallas, TX, 75380-9092, and [privacy@motel6.com](mailto:privacy@motel6.com)
 
 ## Copyright and Trademark Notices
 
