@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flavorwire.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509205057id_/http%3A//flavorwire.com/flavorwire-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavorwire.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014091403id_/http%3A//flavorwire.com/flavorwire-privacy-policy) for the most accurate reproduction.*
 
 # Flavorwire » Flavorwire ANTI-SPAM/Privacy Policy
 
