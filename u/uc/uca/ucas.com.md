@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014125id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014153218id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
 
 # UCAS - Privacy statement
 
 ## Privacy policy
 
-**Updated 5 April 2011**
+**Updated 3 September 2012**
 
 UCAS and our Group of Companies, which means UCAS and its subsidiaries from time to time and their subsidiaries, ("we", "us", "our" or "UCAS" as the context requires) are committed to protecting and respecting your privacy.
 
@@ -60,13 +60,14 @@ We may collect and process the following information about you:
 
 
 
-#### 4 Mailings and sales information
+#### 4 Commercial mailings from UCAS Media
 
-  1. From time to time we may use your personal information to send you general information ("Mailings") by post, email or SMS, such as (without limitation), information relating to health issues; or career information which is relevant to your chosen subjects.
-  2. In addition, and from time to time, we would like to make use of your personal information to send you marketing or promotional information ("Sales information") about (without limitation) products and services which may be of interest to you; or specific funding and sponsorship opportunities. Mailings and sales information may include information sent by the UCAS Group of Companies on behalf of carefully selected and trustworthy third parties. Please note that except as set out in this privacy policy or data protection statement, your details will not be released to any third party.
-  3. If you do not wish your personal information to be used for us to send you sales information by post you must ensure that you tick the appropriate box on the registration page.
-  4. You should tick the appropriate boxes on the registration page if you wish to receive Marketing Information by text, email or both.
-  5. You may, at any time, withdraw your permission for UCAS to use your personal information for the purposes of sending mailings or sales information by ticking on the appropriate boxes in the Apply or Track applications, or by writing to the Company Secretary, UCAS, Rosehill, New Barn Lane, Cheltenham, Glos GL52 3LZ.
+  1. From time to time we may use your personal information to send you general information ('Mailings') by post, email or SMS, such as (without limitation), information relating to career information (relevant to your chosen subjects). If you are unsuccessful in your application and become unplaced, we may send you information from education establishments who have spaces on courses available. 
+  2. In addition, from time to time, we would like to make use of your personal information to send you promotional information about (without limitation) products and services which may be of interest to you. Commercial mailings may include information sent by the UCAS Group on behalf of carefully selected third parties; these can include information on student discounts, travel, banking, and professional associations. Please note that except as set out in this privacy policy or data protection statement, your details will not be released to any third party.
+  3. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+  4. If you do not wish your personal information to be used by us to send you third party mailings by post you must ensure that you tick the appropriate box on the registration page.
+  5. If you wish to receive third party information by text, email or both you should tick the appropriate boxes on the registration page. 
+  6. You may, at any time, withdraw your permission for UCAS to use your personal information for the purposes of sending mailings by ticking the appropriate boxes in the Apply or Track applications, or by writing to the Company Secretary, UCAS, Rosehill, New Barn Lane, Cheltenham, Glos GL52 3LZ or by emailing us at [ucasmedia@ucas.ac.uk](mailto:UCAS%20Media)
 
 
 
