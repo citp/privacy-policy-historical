@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machackpc.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506095604id_/http%3A//www.machackpc.com/machackpcs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machackpc.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014135236id_/http%3A//www.machackpc.com/machackpcs-privacy-policy) for the most accurate reproduction.*
 
 # MacHackPC’s Privacy Policy | MacHackPC
 
