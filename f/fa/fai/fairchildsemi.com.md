@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516220603id_/http%3A//www.fairchildsemi.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015005142id_/http%3A//www.fairchildsemi.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fairchild Semicondcutor
 
@@ -6,7 +6,7 @@
 Fairchild Semiconductor values you as a website visitor and is committed to protecting your privacy. Fairchild adheres to the following privacy policy regarding collection, use and dissemination of personal data collected through our website. 
 
 **Collection, use and disclosure of data**  
-Fairchild Semiconductor collects two kinds of information about our web site visitors: personal and demographic. Personal information is information you choose to submit to us by registering for _My Fairchild_ <link to registration form> or completing a form on our website. The purpose of our personal data collection is to provide you with access to additional services and benefits and to better communicate appropriate product news and information, service offerings and special promotions to you. 
+Fairchild Semiconductor collects two kinds of information about our web site visitors: personal and demographic. Personal information is information you choose to submit to us by registering for [My Fairchild](https://web.archive.org/ShoppingExperience/action/login) or completing a form on our website. The purpose of our personal data collection is to provide you with access to additional services and benefits and to better communicate appropriate product news and information, service offerings and special promotions to you. 
 
 The personal data we request includes your name, company, job title, address, email and phone number. In order to better serve you, a Fairchild Semiconductor representative may follow-up with those who order product samples or download models, design tools and other intellectual property. We do not sell or rent your personal data to third parties. 
 
