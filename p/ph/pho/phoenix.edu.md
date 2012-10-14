@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616034546id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132412id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - University of Phoenix
 
@@ -6,24 +6,24 @@
 
 ## PRIVACY POLICY – SUMMARY
 
-**Updated:** May 14, 2012
+**Updated:  **August 15, 2012
 
 Summarized below are key elements of our Privacy Policy. To read our full Privacy Policy ("Policy") [click here.](https://web.archive.org/copyright-legal/privacy_policy.html#full-version)  
 
 
 **Scope of Privacy Policy**
 
-This policy applies to website visitors, current and potential students, and any other user of services offered through Apollo Group, Inc. and University of Phoenix (“Apollo” or “we”), including any websites operated by or on their behalf (“Sites”).
+This policy applies to website visitors, current and potential students, alumni, and any other user of services offered through Apollo Group, Inc. and University of Phoenix (“Apollo” or “we”), including any websites or mobile applications operated by or on their behalf.
 
-This policy applies to both online and offline collection, storage, processing, and transfer of Personal Information. However, certain Sites or services may be subject to additional privacy policies (collectively "Additional Policies").
+This policy applies to both online and offline collection, storage, processing, and transfer of Personal Information. However, certain Sites or services may be subject to additional privacy policies or privacy disclosures relating to the services provided on the Site(s) (collectively "Additional Policies").
 
 **Information Collected**
 
-We collect various types of Information through our Sites, over the phone, and in person where print materials may be used to collect Information from you. Some Information is collected automatically through various Web and Internet technologies, including Social Networking tools used by your University to foster communication and collaboration among members of our community. Other Information is collected when you provide it in response to an advertisement, a survey, or a request for information; apply for admission or financial aid; register for classes; order educational or other products and services; set up a Social Network or other Site profile; or use one of our career resources, learning assessments, or other interactive tools. We may also obtain information from other sources and combine that with Information we collect about you.
+We collect various types of Information through our Sites and other websites where you can express interest in our services, through our mobile applications, over the phone, and in person where print materials may be used to collect Information from you. Some Information is collected automatically through various Web and Internet technologies, including Social Networking tools used by your University to foster communication and collaboration among members of our community. Other Information is collected when you provide it in response to an advertisement, a survey, or a request for information; apply for admission or financial aid; register for classes; order educational or other products and services; set up a Social Network or other Site profile; or use one of our career resources, learning assessments, or other interactive tools. We may also obtain information from other sources and combine that with Information we collect about you.
 
 **Information Uses**
 
-We will not sell, rent, or lease your Personal Information to others except as provided in this policy.  We may collect, use, and disclose Personal Information for the following purposes:
+We will not sell, rent, or lease your Personal Information to others except as provided in this policy. We may collect, use, and disclose Personal Information for the following purposes:
 
   * to determine your admissibility and to register you for your selected educational programs
   * to provide requested products and services
@@ -95,34 +95,35 @@ Phoenix, AZ 85040 USA
 
 ## PRIVACY POLICY – FULL VERSION
 
-**Updated:** May 14, 2012
+**Updated:** August 15, 2012  
+
 
 **Scope**
 
-This policy applies to website visitors, current and potential students, and any other user of services offered through the Apollo Group, Inc. and University of Phoenix (“Apollo” or “we”), including any websites operated by or on their behalf (“Sites”).  This policy applies to both online and offline collection, storage, processing, and transfer of Personal Information.
+This policy applies to website visitors, current and potential students, alumni, and any other user of services offered through the Apollo Group, Inc. and University of Phoenix (“Apollo” or “we”), including any websites or mobile applications operated by or on their behalf.  This policy applies to both online and offline collection, storage, processing, and transfer of Personal Information.
 
-Certain Sites may be subject to additional privacy policies (collectively "Additional Policies"). In the event of any direct conflict between any Additional Policies and this policy, the Additional Policies will control.
+Certain Sites or services may be subject to additional privacy policies or privacy disclosures relating to the services provided on the Site(s) (collectively "Additional Policies"). In the event of any direct conflict between any Additional Policies and this policy, the Additional Policies will control.
 
 Apollo may amend or otherwise modify this Privacy Policy at any time, so please re-visit this page periodically to check for updates.  The date of last revision is shown at the top of this document.
 
 **Contents**
 
-  1. [Definitions](https://web.archive.org/copyright-legal/privacy_policy.html#Definitions)
-  2. [Information We Collect](https://web.archive.org/copyright-legal/privacy_policy.html#Collect)
-  3. [Information Collected Automatically](https://web.archive.org/copyright-legal/privacy_policy.html#Collected)
-  4. [Information You Provide to Us](https://web.archive.org/copyright-legal/privacy_policy.html#Provide)
-  5. [How We Use This Information](https://web.archive.org/copyright-legal/privacy_policy.html#Information)
-  6. [Student Educational Records](https://web.archive.org/copyright-legal/privacy_policy.html#Records)
-  7. [Location of Information Processing](https://web.archive.org/copyright-legal/privacy_policy.html#Location)
-  8. [Online Behavioral Advertising](https://web.archive.org/copyright-legal/privacy_policy.html#Online-Advertising)
-  9. [Opt Out](https://web.archive.org/copyright-legal/privacy_policy.html#opt-out)
-  10. [California Privacy Rights](https://web.archive.org/copyright-legal/privacy_policy.html#Rights)
-  11. [Our Security Measures](https://web.archive.org/copyright-legal/privacy_policy.html#Security)
-  12. [Call Monitoring](https://web.archive.org/copyright-legal/privacy_policy.html#Monitoring)
-  13. [Internet Technologies Used](https://web.archive.org/copyright-legal/privacy_policy.html#Technologies)
-  14. [Site Hosting and Links From Our Sites to Other Websites](https://web.archive.org/copyright-legal/privacy_policy.html#Links)
-  15. [Privacy Policy Changes](https://web.archive.org/copyright-legal/privacy_policy.html#Changes)
-  16. [How to Access Your Information and Contact Us](https://web.archive.org/copyright-legal/privacy_policy.html#Access)
+  * 1[Definitions](https://web.archive.org/copyright-legal/privacy_policy.html#Definitions)
+  * 2[Information We Collect](https://web.archive.org/copyright-legal/privacy_policy.html#Collect)
+  * 3[Information Collected Automatically](https://web.archive.org/copyright-legal/privacy_policy.html#Collected)
+  * 4[Information You Provide to Us](https://web.archive.org/copyright-legal/privacy_policy.html#Provide)
+  * 5[How We Use This Information](https://web.archive.org/copyright-legal/privacy_policy.html#Information)
+  * 6[Student Educational Records](https://web.archive.org/copyright-legal/privacy_policy.html#Records)
+  * 7[Location of Information Processing](https://web.archive.org/copyright-legal/privacy_policy.html#Location)
+  * 8[Online Behavioral Advertising](https://web.archive.org/copyright-legal/privacy_policy.html#Online-Advertising)
+  * 9[Opt Out](https://web.archive.org/copyright-legal/privacy_policy.html#opt-out)
+  * 10[California Privacy Rights](https://web.archive.org/copyright-legal/privacy_policy.html#Rights)
+  * 11[Our Security Measures](https://web.archive.org/copyright-legal/privacy_policy.html#Security)
+  * 12[Call Monitoring](https://web.archive.org/copyright-legal/privacy_policy.html#Monitoring)
+  * 13[Internet Technologies Used](https://web.archive.org/copyright-legal/privacy_policy.html#Technologies)
+  * 14[Site Hosting and Links From Our Sites to Other Websites](https://web.archive.org/copyright-legal/privacy_policy.html#Links)
+  * 15[Privacy Policy Changes](https://web.archive.org/copyright-legal/privacy_policy.html#Changes)
+  * 16[How to Access Your Information and Contact Us](https://web.archive.org/copyright-legal/privacy_policy.html#Access)
 
 
 
@@ -132,7 +133,8 @@ As used in this Privacy Policy, the following terms have the following meanings:
 
 "Business Associates" means third party service providers which Apollo Group, Inc. or the  University may contract with to provide services on our behalf including those related to the Sites or for transactions occurring on the Sites including, but not limited to, Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career, or financial services.
 
-"Educational Partners" means Apollo Group, Inc., University of Phoenix, and their subsidiaries and affiliates including educational companies or institutions that Apollo Group, Inc. or its subsidiaries may be providing educational or other related services to under contract.
+"Educational Partners" means a.) Apollo Group, Inc., University of Phoenix, and their subsidiaries and affiliates including educational companies or institutions that Apollo Group, Inc. or its subsidiaries may be providing educational or other related services to under contract and b.) third party companies who may participate in Apollo Group, Inc. or University of Phoenix career initiatives (e.g. potential employers).  
+
 
 "Financial Information" means specific Personal Information of a financial nature such as your credit card number.
 
@@ -142,7 +144,7 @@ As used in this Privacy Policy, the following terms have the following meanings:
 
 “Online Behavioral Advertising” means the collection of data from a particular computer or device regarding web viewing behaviors over time and across web sites for the purpose of using such data to predict user preferences or interests to deliver advertising to that computer or device based on the preferences or interests inferred from such Web viewing behaviors.
 
-"Site" or "Sites", means websites controlled or authorized by Apollo Group or University of Phoenix (including, without limitation, any Business Associate sites), regardless of domain name or IP address.
+"Site" or "Sites", means websites operated by or exclusively on behalf of Apollo Group or University of Phoenix, regardless of domain name or IP address.
 
 "Social Network", means various Internet communication technologies provided on Sites  that facilitate conversation and interaction between people online and includes, but is not limited to, blogs, discussion forums, wikis, chat sessions, news groups, etc.
 
@@ -158,7 +160,7 @@ As used in this Privacy Policy, the following terms have the following meanings:
 
 **2\. How We Collect Information**
 
-We collect various types of Information from you through our Sites, over the phone, via printed forms, and in person. Some Information is collected automatically through various web and internet technologies including Social Networking tools used by your University.  Other Information is collected when you provide it to us voluntarily by interacting with our Sites, including Sites run by our Business Associates. We may also obtain information from Educational Partners and Unrelated Entities and combine that with information we collect about you.
+We collect various types of Information from you through our Sites and other websites where you can express interest in our services, through our mobile applications, over the phone, via printed forms, and in person. Some Information is collected automatically through various web and internet technologies including Social Networking tools used by your University.  Other Information is collected when you provide it to us voluntarily. We may also obtain information from Educational Partners and Unrelated Entities and combine that with information we collect about you.
 
 **3\. Information Collected Automatically on the Sites**
 
@@ -179,7 +181,7 @@ This Information may be linked with Personal Information to accomplish the purpo
 
 **4\. Information You Provide to Us**
 
-In addition to the Web Analytical Information automatically collected when you visit our Sites, Apollo also collects, uses, and discloses Personal Information that you provide to us voluntarily online or offline when you respond to an advertisement, a survey, or a request for information; register for classes; apply for financial aid; order educational or other products and services; set up a Social Network or other Site profile; or use one of our career resources, learning assessments or other interactive tools through our Sites.  While the exact nature of the Personal Information may vary depending on the type of response or service requested, the following is a non-exclusive list of the types of Information that may be collected to the extent it is necessary and applicable for the intended purposes:
+In addition to the Web Analytical Information automatically collected when you visit our Sites, Apollo also collects, uses, and discloses Personal Information that you provide to us voluntarily online or offline when you respond to an advertisement, a survey, or a request for information; register for classes; apply for financial aid; order educational or other products and services; set up a Social Network or other Site profile; or use one of our career resources, learning assessments or other interactive tools.  While the exact nature of the Personal Information may vary depending on the type of response or service requested, the following is a non-exclusive list of the types of Information that may be collected to the extent it is necessary and applicable for the intended purposes:
 
   * First, Middle and Last Name, Previous Names
   * Street Address, City, State, Country, Postal Code 
@@ -271,7 +273,7 @@ USA
 
 **7\. Location of Information Processing**
 
-We operate or may process information in multiple jurisdictions and some Educational Partners and Business Associates may be located outside of the jurisdiction in which you reside. In such cases, your Personal Information may be collected, used, disclosed, stored and processed in these other jurisdictions for the purposes described in this Privacy Policy. The data protection and other laws of the United States and other countries might differ from your jurisdiction.  We require our Educational Partners and Business Associates to use your Personal Information in accordance with this policy and to take reasonable steps to ensure that your privacy is protected in accordance with applicable laws. Please be advised that, by using our Sites, you are consenting to the transfer and processing of your Information across international borders. Your Information may be subject to the laws of those other jurisdictions, including lawful requirements to disclose Personal Information to government authorities.
+We operate or may process information in multiple jurisdictions and some Educational Partners and Business Associates may be located outside of the jurisdiction in which you reside. In such cases, your Personal Information may be collected, used, disclosed, stored and processed in these other jurisdictions for the purposes described in this Privacy Policy. The data protection and other laws of the United States and other countries might differ from your jurisdiction. We require our Educational Partners and Business Associates to use your Personal Information in accordance with this policy and to take reasonable steps to ensure that your privacy is protected in accordance with applicable laws. Please be advised that, by using our Sites and services, you are consenting to the transfer and processing of your Information across international borders. Your Information may be subject to the laws of those other jurisdictions, including lawful requirements to disclose Personal Information to government authorities.
 
 **8\. Online Behavioral Advertising  
 **
@@ -319,7 +321,8 @@ Cookies, web beacons, and other relevant internet technologies are used on our S
 
 **14\. Site Hosting and Links from Our Sites to Other Websites**
 
-Some of our Sites may contain links to external websites hosted by Educational Partners, Unrelated Entities, and Business Associates operating outside the scope of their relationship with us. When you access such external websites, the providers of the websites may collect your Personal Information and may apply their own policies on how your Personal Information is used. In addition, some of our Sites may have Additional Policies that apply to the use of Personal Information collected on that Site. **Please make sure to read the policies of any websites you visit on the internet carefully**. Please be aware that we are not responsible for the privacy practices or the content of any external websites that we do not control, and the collection, use, and disclosure of Information about you will be subject to the policies applicable on those external websites.
+Some of our Sites may contain links to websites hosted by Educational Partners, Unrelated Entities, and Business Associates operating websites on their own behalf or on behalf of multiple entities. Some of these websites may collect your Personal Information and may apply their own policies on how your Personal Information is used. In addition, some of our Sites may have Additional Policies that apply to the use of Personal Information collected on that Site. **Please make sure to read the policies of any websites you visit on the internet carefully**. Please be aware that we are not responsible for the privacy practices or the content of any websites that are not operated by or exclusively for us, and the collection, use, and disclosure of Information about you will be subject to the policies applicable on those websites.  
+
 
 **15\. Privacy Policy Changes**
 
