@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thanks4follow.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014940id_/http%3A//www.thanks4follow.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thanks4follow.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014081912id_/http%3A//thanks4follow.com/en/policy) for the most accurate reproduction.*
 
 # Thanks4Follow : The Twitter tool for new followers welcome message (twelcome)
 
