@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026184834id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014154659id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
 
 # IP Address - Disclaimer Privacy Policy
 
@@ -74,4 +74,7 @@ My IP Location Tracking Module for your site
 
 ### My IP Location Tracer
 
-To add My IP location tracer module to your site copy script below and place here you would like to appear on your website. 
+To add My IP location tracer module to your site copy script below and place where you would like to appear on your website. 
+
+  
+
