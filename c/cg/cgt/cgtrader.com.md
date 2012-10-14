@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgtrader.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511103828id_/http%3A//www.cgtrader.com/Privacy-Policy-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgtrader.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014163645id_/http%3A//www.cgtrader.com/Privacy-Policy-1.html) for the most accurate reproduction.*
 
 # Privacy Policy | CGTrader.com
 
