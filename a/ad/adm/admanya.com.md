@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admanya.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005181922id_/http%3A//admanya.com/privpolicy.jsp%3Bjsessionid%3D2996FD512C532E1948360B473FAC4BB5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admanya.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014040213id_/http%3A//admanya.com/privpolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Admanya.com
 
