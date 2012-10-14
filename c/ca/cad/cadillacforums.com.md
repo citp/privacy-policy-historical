@@ -1,45 +1,81 @@
-> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511113204id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014224105id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
 
-# Cadillac Owners: Privacy Policy
+# Cadillac forums : Cadillac Owners Forum Privacy Policy
 
-[Cadillac Forums](https://web.archive.org/forums/index.php) | [Cadillac Classifieds](https://web.archive.org/cadillac-classifieds/) | [Cadillac Parts](https://web.archive.org/cadillac-parts/) | [Cadillac Links](https://web.archive.org/cadillac-links.html) | [Cadillac Pictures](https://web.archive.org/photopost/) | [Cadillac Vendors](http://www.cadillacforums.com/forums/forumdisplay.php?f=160 "cadillac vendors")
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-[Cadillac Technical Archive](https://web.archive.org/cadillac-tech.html) | [Cadillac History](https://web.archive.org/cadillac-history.html) | [Cadillac Dealers](https://web.archive.org/cadillac-dealers/) | [Cadillac Reviews](https://web.archive.org/cadillac-reviews/cadillac-reviews.html) | [_**Privacy Policy**_](https://web.archive.org/privacy.html) | [About Us](https://web.archive.org/about_us.html) | [Home](https://web.archive.org/index.php)
+**What this Privacy Statement Covers**
 
-cadillacforums.com / cadillacowners.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for these Web sites: [http://www.cadillacforums.com](http://www.cadillacforums.com/) and [http://www.cadillacowners.com](http://www.cadillacowners.com/)
-
-To contact us, regarding any privacy concerns, you can reach us at: [claziano@optonline.net](mailto:claziano@optonline.net)
-
-We provide the following level of access to users information collected on this site: zero 
-
-We collect the following types of information: 
-
-  * User Information (only collected if the user decides to sign up and present it. Not required by anyone.) 
-    * User Name (optional - user is not required to present this information) 
-    * User Automobile (optional - user is not required to present this information) 
-    * User Occupation (optional - user is not required to present this information) 
-    * User Homepage (optional - user is not required to present this information) 
-    * User Instant Messenger (optional - user is not required to present this information) 
-    * User Location (optional - user is not required to present this information) 
-    * User Interests (optional - user is not required to present this information) 
-    * User Birth Date (not optional if user signs up on our message board community.) 
-    * User Gender (optional - user is not required to present this information) 
-  * Dynamic Information 
-    * Http Cookies 
+  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
 
 
 
-We use this information for:  
-Web Site and System Administration  
-Completion and Support of Current Activity  
-This data may be shared with:  
-Ourselves and/or our agents  
-Data retained for indeterminate time. 
+**Collection and Use of Personal Information**
 
-Cookies and AdSense:
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services.
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
-Third parties, such as Google AdSense, may place and read cookies on your browser, or use web beacons to collect information, while serving ads on AssociatePrograms.com. 
 
-Here is how Google explains cookies: "A 'cookie' is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies."
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+**Collection and Use of Non-Personal Information**
+
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you.
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.xn--networkadvertsing-pvb.org/managing/opt_out.asp).
+
+
+
+**Information Sharing and Disclosure**
+
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
+
+
+
+**Third Party Cookies**
+
+  * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices). 
+
+
+
+**Consent**
+
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+
+
+**How to Access your Personal Information**
+
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+
+
+
+**Security**
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+
+
+
+**Changes to this Privacy Statement**
+
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+**Questions or Suggestions**
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+**Opting Out of Third-Party Ad Servers**
+
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
+
+
