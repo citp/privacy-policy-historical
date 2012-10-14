@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621090759id_/http%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014045549id_/http%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ We may use personally identifiable information for the following purposes:
 
 While you are using the Products online, the software processes the data you entered and produces an output of your results and assessment and let you play games/tasks and play with neurons. We may use your results with those of other users and for other statistical and analytical purposes. CogniFit will use your username and password to automatically save the full results of any evaluation, game, task and training session you take including the amount of neurons available on your account. Your personal information will be kept with us in compliance with this policy. You can decide to share your identifiable information such as you name, score and neurons with other users on the CogniFit Websites. You can change at any time your privacy preferences in your account page on the Websites. 
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us (for example when you add a 'friend' to your account or invite a new user, we will use the information provided to contact this person via email or other communication tool). 
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us (for example when you add a 'player' to your account or invite a new user, we will use the information provided to contact this person via email or other communication tool). 
 
 We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible. 
 
@@ -54,7 +54,7 @@ We do not knowingly collect personal information from children under 13. If we l
 
 We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
 
-  * when you use the Services. In these cases, we will share your information only to the extent required to facilitate your use of the Services (such as when you play with neurons or invite a friend on the Websites
+  * when you use the Services. In these cases, we will share your information only to the extent required to facilitate your use of the Services (such as when you play with neurons or invite a player on the Websites
   * when you perform an online assessment test, training session, play a game/task or an assessment in any other form. In these cases, we may share your personal details and our evaluation of your performance with a third party (such as your insurance company, or your employer's car fleet manager), if the test was ordered by the third party, or otherwise conducted in collaboration with the third party;
   * if we reasonably believe that you have breached the Terms of Use, or abused your rights to use any of the Services, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information in these cases with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing;
   * if we are required, or reasonably believe that we are required by law to share or disclose your information;
