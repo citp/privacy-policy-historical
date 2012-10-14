@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1mobile.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625114752id_/http%3A//www.1mobile.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1mobile.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014130540id_/http%3A//www.1mobile.com/info/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# About Us
 
 1Mobile.com is serious about protecting the privacy of its users. We know the success of our business depends on our ability to maintain our user trust.
 
