@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitnamihosting.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616162248id_/http%3A//wiki.bitnami.org/BitNami_Hosting/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitnamihosting.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014211828id_/http%3A//wiki.bitnami.org/BitNami_Hosting/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - BitNami documentation
 
