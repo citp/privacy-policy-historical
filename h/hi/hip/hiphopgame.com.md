@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopgame.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215224231id_/http%3A//www.hiphopgame.com/index2.php3%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopgame.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015135437id_/http%3A//www.hiphopgame.com/index2.php3%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Exclusive Hip Hop News, Audio, Lyrics, Videos, Honeys, Wear, Sneakers, Download Mixtapes
 
