@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assembla.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528232353id_/http%3A//www.assembla.com/spaces/breakoutdocs/wiki/Privacy_of_User_Information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assembla.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016012949id_/http%3A//www.assembla.com/spaces/breakoutdocs/wiki/Privacy_of_User_Information) for the most accurate reproduction.*
 
 # Privacy of User Information | Assembla FAQ and Documentation Space | Assembla
 
