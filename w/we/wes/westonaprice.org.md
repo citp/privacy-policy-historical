@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044510id_/http%3A//www.westonaprice.org/about-the-foundation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015060651id_/http%3A//www.westonaprice.org/about-the-foundation/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Weston A Price Foundation
 
 Written by Weston A. Price Foundation      
-April 1 2009   
+Wednesday, 01 April 2009 23:14   
   
 Your right to privacy is important. The Weston A. Price Foundation believes that the personal information you choose to furnish online should only be used to help us provide you with the highest quality products, information, services, and support. With the exception (for membership applications) of supplying your name and address to your local chapter leader so that he or she may contact you by mail, we will not share this information with any other party.
 
@@ -13,4 +13,4 @@ Your right to privacy is important. The Weston A. Price Foundation believes that
 
 **For futher information:** Please [contact us](http://www.westonaprice.org/about-the-foundation/contact-wapf) if you have any questions or concerns about the privacy of your information.  
   
-Last Updated on Tuesday, July 12 2011 16:50 
+Last Updated on Tuesday, 12 July 2011 21:50 
