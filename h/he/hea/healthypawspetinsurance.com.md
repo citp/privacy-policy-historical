@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127070540id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016013013id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Healthy Paws Pet Insurance & Foundation
 
 Healthy Paws Pet Insurance LLC ("Healthy Paws") is committed to the highest level of integrity in all of our dealings with our customers, employees and service partners. Our commitment extends to any personal information about our customers that we might possess or acquire. Healthy Paws is committed to respecting personal privacy, and safeguarding individual record confidentiality and system security. Accordingly, Healthy Paws and its subsidaries and affiliates adhere to the following **Privacy Guidelines and Principles:**
 
 Privacy Guidelines and Principles
-
-  
-
 
   * Healthy Paws has developed policies and programs for the protection of customer information.
   * Healthy Paws strives to maintain the accuracy of customer information and will promptly respond to any questions or concerns customers may raise with respect to the accuracy of personal information.
