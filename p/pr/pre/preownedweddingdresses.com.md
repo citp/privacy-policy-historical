@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preownedweddingdresses.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619051149id_/http%3A//www.preownedweddingdresses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preownedweddingdresses.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016011702id_/http%3A//www.preownedweddingdresses.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PreOwnedWeddingDresses.com
 
@@ -22,7 +22,7 @@ Google places interest-based advertisements “Google Ads” on our website.  W
 
 Our website may contain links to other sites which are not governed by this Privacy Policy.  On our website, as with most other commercial websites, we may monitor traffic patterns, site usage and related site information in order to optimize our web service.  We may provide aggregated information to third parties, but these statistics do not include any identifiable Personal Information.
 
-As part of our regular review of all of our policies and procedures, we may change this Privacy Policy from time to time.  If you have any questions or concerns, wish to access your Personal Information or wish to change your preferences regarding our use of your information, please let us know via our [contact us](https://web.archive.org/web/20120619051149id_/contact-us.html) form.
+As part of our regular review of all of our policies and procedures, we may change this Privacy Policy from time to time.  If you have any questions or concerns, wish to access your Personal Information or wish to change your preferences regarding our use of your information, please let us know via our [contact us](https://web.archive.org/web/20121016011702id_/contact-us.html) form.
 
   
 
