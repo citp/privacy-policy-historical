@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaite.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625063308id_/http%3A//www.mediaite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaite.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015063047id_/http%3A//www.mediaite.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mediaite
 
@@ -16,6 +16,8 @@ Mediaite, Inc., offers email newsletters. Users who subscribe to the Mediaite ne
 To sign up to receive regular emails, users must submit information including a valid email address. Mediaite does not share contact or personal information with any other organization
 
 This information can be used in aggregate form to assess general user interest in various internal and third-party products and services, and your personal and contact information will not be passed to any other organization Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
+
+Abrams Media may periodically e-mail you messages about products and services that we think may be of interest to you. We may also produce contests, sweepstakes and special events with the support of promotional partners. Information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. In the instance that there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. You can choose not to receive such messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
 
 **Cookies**  
 Mediaite may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. Session ID cookies terminate as soon as the user closes the/his/his or her browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help instructions.
