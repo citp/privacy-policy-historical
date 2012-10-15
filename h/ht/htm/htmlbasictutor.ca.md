@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlbasictutor.ca privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413032931id_/http%3A//www.htmlbasictutor.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlbasictutor.ca privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015222531id_/http%3A//www.htmlbasictutor.ca/privacy.htm) for the most accurate reproduction.*
 
 # HTML Basic Tutor - Privacy Policy
 
@@ -81,4 +81,4 @@ If you found this web page a useful resource for your own website please link as
 HTML Basic Tutor - Privacy Policy
 
 Web design practices and coding in a fashion small business owners, beginner web designers and hobbyist web site owners with little or no knowledge of web design can learn from.  
-URL:  [web.archive.org](https://web.archive.org/) / [web](https://web/) / [20100413032931id_](https://web.archive.org/web/20100413032931id_/) / [http%3A](https://web.archive.org/web/20100413032931id_/http%3A/) / [](https://web.archive.org/) / [www.htmlbasictutor.ca](https://web.archive.org/web/20100413032931id_/http%3A//www.htmlbasictutor.ca/) / [privacy.htm](https://web.archive.org/web/20100413032931id_/http%3A//www.htmlbasictutor.ca/privacy.htm)
+URL:  [web.archive.org](https://web.archive.org/) / [web](https://web/) / [20121015222531id_](https://web.archive.org/web/20121015222531id_/) / [http%3A](https://web.archive.org/web/20121015222531id_/http%3A/) / [](https://web.archive.org/) / [www.htmlbasictutor.ca](https://web.archive.org/web/20121015222531id_/http%3A//www.htmlbasictutor.ca/) / [privacy.htm](https://web.archive.org/web/20121015222531id_/http%3A//www.htmlbasictutor.ca/privacy.htm)
