@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521113109id_/http%3A//asia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015083249id_/http%3A//www.asia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel Guide Asia
+# Privacy Policy | Asia Journeys to the world of asia.com. Flights, Hotels, Travel Guide and Travel Tips.
 
 World Media Group provides this privacy policy because we value your right to privacy. This policy is effective as of November 10, 2007 and governs the collection of personal information through this website on or after this date.
 
