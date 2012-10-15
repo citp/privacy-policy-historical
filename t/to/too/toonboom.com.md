@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215050752id_/http%3A//beta.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015184744id_/http%3A//beta.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,7 @@ Information specific to certain products or services from TOON BOOM can be found
   * Website links
   * Surveys and contests
   * Posted information, bulletin boards and discussion areas
+  * Opt-Out Policy
   * Disclaimer and limitations of liability
   * We want your feedback
 
@@ -105,7 +106,13 @@ Certain portions of this Site are designed to allow you to post or disclose publ
 
 Back to top
 
-**9.DISCLAIMERS AND LIMITATIONS OF LIABILITY**
+**9.OPT-OUT POLICY**
+
+You will be able to unsubscribe from Toon Boom Animation correspondance at any time. To manage your subscriptions go to: [toonboom.com/members](http://www.toonboom.com/members) and unflag the subscription categories you no longer wish to receieve. Alternative way to instant unsubsription is following direct link "Unsubscribe" at the top of one of our email." 
+
+Back to top
+
+**10.DISCLAIMERS AND LIMITATIONS OF LIABILITY**
 
 TOON BOOM INTENDS TO TAKE REASONABLE PRECAUTIONS TO ABIDE BY THIS PRIVACY POLICY. NEVERTHELESS, IN THE EVENT THAT TOON BOOM DOES NOT COMPLY WITH ALL TERMS CONTAINED IN THIS PRIVACY POLICY, YOU AGREE BY USING THIS SITE AND BY SUBMITTING INFORMATION TO THIS SITE THAT YOUR SOLE AND EXCLUSIVE REMEDY AGAINST TOON BOOM WILL BE TO HAVE TOON BOOM PROMPTLY CORRECT THE HANDLING OF YOUR INFORMATION IN THE FUTURE TO ACCORD WITH THIS PRIVACY POLICY, AND TO NOTIFY ANY THIRD PARTY TO WHICH TOON BOOM DIRECTLY TRANSFERRED ANY INFORMATION OF THE CORRECT INFORMATION OR TO CEASE USING SUCH INFORMATION.
 
@@ -117,8 +124,17 @@ THE LIMITATIONS OF LIABILITY AND DISCLAIMERS HEREIN CONTAINED APPLY REGARDLESS O
 
 Back to top
 
-**10.WE WANT YOUR FEEDBACK**
+**11.WE WANT YOUR FEEDBACK**
 
 In order to continually monitor and strengthen our privacy procedure, we have on staff a Manager of Privacy, who can be contacted at webmaster@toonboom.com. Please contact our webmaster if you have questions about information security, privacy and usage at webmaster@toonboom.com that were not answered here. We welcome any suggestions to our Privacy Policy.
 
 Back to top
+
+Toon Boom Animation  
+5530 St. Patrick Suite 2210  
+Montreal, Quebec, Canada  
+H4E 1A8  
+webmaster@toonboom.com  
+Tel: (514) 278-8666  
+Fax: (514) 278-2666  
+
