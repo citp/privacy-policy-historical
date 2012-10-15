@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414155619id_/http%3A//www.relationshipsolver.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015210223id_/http%3A//www.relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Marriage and Relationship Advice - Relationshipsolver
+# Privacy Policy | Relationshipsolver
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.relationshipsolver.com%2Fprivacy-policy.html&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Your+Site+&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.relationshipsolver.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Your+Site+&description=Privacy+Policy)
 
 Welcome to Your relationshipsolver.com (the “Site”).
 
@@ -68,4 +68,10 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.relationshipsolver.com%2Fprivacy-policy.html&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Your+Site+&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.relationshipsolver.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Your+Site+&description=Privacy+Policy)
+
+#### Incoming search terms:
+
+  * [intercource with women](http://www.relationshipsolver.com/privacy-policy/ "intercource with women")
+
+
