@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fox.com.au privacy policy that was archived on 2012-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522033846id_/http%3A//www.fox.com.au/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fox.com.au privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015172240id_/http%3A//www.fox.com.au/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="todayNetwork site-fox privacypolicy site-fox-privacypolicy"><head>
     <title>Privacy Policy</title>
@@ -91,285 +91,7 @@
           <a href="http://www.fox.com.au/" title="FOX">FOX</a>
       </h1>
      </div>
-     <div id="adspot-728x90,468x60-pos-1" class="ad advert">
-<script type="text/javascript">
-    function getAdCookie(name) {
-        var regex = new RegExp('(?:^|; )' + name + '=([^;]*)');
-        var value = regex.exec(document.cookie);
-        if (value && value.length > 1) {
-           value = decodeURIComponent(value[1]);
-        } else {
-            value = "";
-        }
-        return value;
-    }
-    function getFrameDocument(fr) {
-        var doc = fr.contentWindow || fr.contentDocument;
-        if (doc && doc.document) {
-            doc = doc.document;
-        }
-        return doc;
-    }
-    function closeDoc(doc) {
-        doc.close();
-    }
-    function closeOpenDocuments(openDocs) {
-        for (var i=0;i< openDocs.length; i++) {
-            closeDoc(getFrameDocument(document.getElementById(openDocs[i])))
-        }
-    }
-
-    function isIE()
-    {
-      return /msie/i.test(navigator.userAgent) && !/opera/i.test(navigator.userAgent);
-    }
-
-    function setHash (element, hash) {
-        if(element.hash) {
-            element.hash = element.hash + "," + hash;
-        } else {
-            element.hash = hash;
-        }
-    }
-    function renderIFAd(holderID, adID, srcUrl, width, height, hash) {
-        setHash(document.getElementById(holderID), hash);
-        document.dcdAdsR.push(adID);
-        if (ie) {
-            var sizePart = srcUrl.substring(srcUrl.indexOf("sz=")+3);
-            sizePart = sizePart.substring(0, sizePart.indexOf(";"));
-            var multiSizes = sizePart.split(",");
-            var minSize = multiSizes[0];
-            if (multiSizes.length > 1) {
-                for(var i=1; i< multiSizes.length; i++) {
-                    if (minSize > multiSizes[i]) {
-                        minSize = multiSizes[i];
-                    }
-                }
-                var sizeParts = minSize.toLowerCase().split("x");
-                width = sizeParts[0];
-                height = sizeParts[1];
-                srcUrl = srcUrl.replace(sizePart, minSize);
-            }
-        }
-        document.write('<iframe id="' + adID + '" src="' + srcUrl + '" width="' + width +
-                '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
-    }
-
-    function renderJIFAd(holderID, adID, srcUrl, width, height, hash) {
-        setHash(document.getElementById(holderID), hash);
-        document.dcdAdsR.push(adID);
-        document.write('<iframe id="' + adID +'" src="javascript: ;" width="' + width +
-                '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
-        var body = '<html><head></head><body><scr' + 'ipt src="' + srcUrl + '"></sc' + 'ript></body></html>';
-        var fr = document.getElementById(adID);
-        setHash(fr, hash);
-        fr.body = body;
-        var doc = getFrameDocument(fr);
-        doc.open();
-        doc.write(body);
-        setTimeout(function() {closeDoc(getFrameDocument(document.getElementById(adID)))}, 2000);
-    }
-
-    function renderJAd(holderID, adID, srcUrl, hash) {
-        document.dcdAdsAA.push(holderID);
-        setHash(document.getElementById(holderID), hash);
-        document.dcdAdsH.push(holderID);
-        document.dcdAdsI.push(adID);
-        document.dcdAdsU.push(srcUrl);
-    }
-
-    function er_showAd() {
-        var regex = new RegExp("externalReferrer=(.*?)(; |&|$)", "gi");
-        var value = regex.exec(document.cookie);
-        if (value && value.length == 3) {
-           var externalReferrer = value[1];
-           return (!FD.isInternalReferrer() || ((externalReferrer) && (externalReferrer > 0)));
-        }
-        return false;
-    }
-
-    function isHome() {
-        var loc = "" + window.location;
-        loc = loc.replace("//", "");
-        var tokens = loc.split("/");
-        if (tokens.length == 1) {
-            return true;
-        } else if (tokens.length == 2) {
-            if (tokens[1].trim().length == 0) {
-                return true;
-            }
-        }
-        return false;
-    }
-    function checkAds(checkStrings) {
-        var cs = checkStrings.split(",");
-        for (var i=0;i< document.dcdAdsAA.length; i++) {
-            var cAd = document.getElementById(document.dcdAdsAA[i]);
-            document.dcdAdsAG.push(cAd.hash);            
-            for (var j=0; j<cs.length; j++) {
-                var c = cs[j].trim();
-                if (c.length > 0 && cAd.innerHTML.indexOf(c)>0) {
-                    document.dcdAdsAI.push(cAd.hash);
-                    cAd.style.display ='none';
-                }
-            }
-        }
-        //Check iframes
-        if (!ie) {
-            for (var i=0;i< document.dcdAdsR.length; i++) {
-                var fr = document.getElementById(document.dcdAdsR[i]);
-                if (fr) {
-                    document.dcdAdsAG.push(fr.hash);
-                    var doc = getFrameDocument(fr);
-                    for (var j=0; j<cs.length; j++) {
-                        var c = cs[j].trim();
-                        if (c.length > 0 && doc.body.innerHTML.indexOf(c)>0) {
-                            document.dcdAdsAI.push(fr.hash);
-                            fr.style.display ='none';
-                        }
-                    }
-                }
-            }
-        }
-
-        if (document.dcdAdsAI.length > 0 || document.dcdAdsAG.length > 0) {
-            var pingServerParams = "i="
-            var sep = "";
-            for (var i=0;i< document.dcdAdsAI.length; i++) {
-                pingServerParams += sep + document.dcdAdsAI[i];
-                sep = ",";
-            }
-        }
-        document.pingServerAdParams = pingServerParams;
-    }
-
-    function pingAdStatus() {
-        if (isHome ()) {
-            return;
-        }
-        if (document.pingServerAdParams && document.pingServerAdParams.length > 0) {
-            var pingServerUrl = "/action/pingServerAction?" + document.pingServerAdParams;
-            var xmlHttp = null;
-            try
-            {
-                xmlHttp = new XMLHttpRequest();
-            }   catch(e)             {
-                try
-                {
-                    xmlHttp = new ActiveXObject("Microsoft.XMLHttp");
-                } catch(e) {
-                    xmlHttp = null;
-                }
-            }
-            if (xmlHttp != null) {
-                xmlHttp.open( "GET", pingServerUrl, true);
-                xmlHttp.send( null );
-            }
-        } 
-    }
-
-    function initAds(log) {
-        for (var i=0;i< document.dcdAdsU.length; i++) {
-            var shadowHolder = document.getElementById("adShD" + i);
-            var targetHolder = document.getElementById(document.dcdAdsH[i]);
-            if (shadowHolder && targetHolder) {
-                var adNodes = new Array();
-                for (var j=0; j<shadowHolder.childNodes.length; j++) {
-                    var child = shadowHolder.childNodes[j];
-                    if (child.nodeName.toLowerCase() != "script") {
-                        adNodes.push(child);
-                    }
-                }
-                for (var j=0; j<adNodes.length; j++) {
-                    targetHolder.appendChild(shadowHolder.removeChild(adNodes[j]));
-                }
-            }
-        }
-        if (er_showAd()) {
-            for (var i=0;i< document.dcdAdsE.length; i++) {
-                var erAd = document.getElementById(document.dcdAdsEH[i]);
-                erAd.className = document.dcdAdsEC[i];
-                erAd.appendChild(document.dcdAdsE[i]);
-            }
-        }
-        if (log) {
-            console.log(document.igCount + "/" + document.tCount);
-        }
-    }
-
-    document.refreshAds = function rAds(adID) {
-        if (document.dcdAdsR) {
-            document.dcdsAdsToClose =  new Array();
-            for (var i=0;i< document.dcdAdsR.length; i++) {
-                var fr = document.getElementById(document.dcdAdsR[i]);
-                if (fr) {
-                    if (!ie) {
-                        if (!adID || adID =="*" || fr.parentNode.id==adID ) {
-                            var chNodes = new Array();
-                            for (var j=0; j<fr.parentNode.childNodes.length; j++) {
-                                var child = fr.parentNode.childNodes[j];
-                                if (!(child.nodeName.toLowerCase() == "script" ||
-                                        child.nodeName.toLowerCase() == "iframe")) {
-                                    chNodes.push(child);
-                                }
-                            }
-                            for (var j=0; j<chNodes.length; j++) {
-                                chNodes[j].parentNode.removeChild(chNodes[j]);
-                            }
-                            var doc = getFrameDocument(fr);
-                            while (doc.childNodes.length > 0) {
-                                doc.removeChild(doc.childNodes[0]);
-                            }
-                            doc.open();
-                            doc.write(fr.body);
-                            document.dcdsAdsToClose.push(fr.id);
-                        }
-                    } else {
-                        fr.src = fr.src;    
-                    }
-                }
-            }
-            if (document.dcdsAdsToClose.length > 0) {
-                setTimeout(function() {closeOpenDocuments(document.dcdsAdsToClose)}, 500);
-            }
-        }
-    }
-    var ie = isIE();
-    if(ie && typeof String.prototype.trim !== 'function') {
-      String.prototype.trim = function() {
-        return this.replace(/^\s+|\s+$/g, '');
-      }
-    }
-    document.dcdAdsH = new Array();
-    document.dcdAdsI = new Array();
-    document.dcdAdsU = new Array();
-    document.dcdAdsR = new Array();
-    document.dcdAdsEH = new Array();
-    document.dcdAdsE = new Array();
-    document.dcdAdsEC = new Array();
-    document.dcdAdsAA = new Array();
-    document.dcdAdsAI = new Array();
-    document.dcdAdsAG = new Array();
-    document.dcdAdsToClose = new Array();
-
-    document.igCount = 0;
-    document.tCount = 0;
-    var dcOrd = Math.floor(100000000*Math.random());
-    document.dcAdsCParams = "";
-
-    var savValue = getAdCookie("sav");
-    if (savValue != null && savValue.length > 2) {
-        document.dcAdsCParams = savValue + ";";
-    }
-</script>        <script>
-            renderJAd("adspot-728x90,468x60-pos-1", "dcAd-1", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;' + document.dcAdsCParams +'sz=728x90,468x60;tile=1;ord=' + dcOrd + '?', 134123644);
-        </script>
-        <noscript>
-            <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;sz=728x90,468x60;tile=1;ord=1.5250113E7?' target="_blank">
-                <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;sz=728x90,468x60;tile=1;ord=1.5250113E7?' border="0" alt="">
-            </a>
-        </noscript>
-</div>
+     <div id="adspot-728x90,468x60-pos-1" class="ad advert"> <script type="text/javascript"> function getAdCookie(name) { var regex = new RegExp('(?:^|; )' + name + '=([^;]*)'); var value = regex.exec(document.cookie); if (value && value.length > 1) { value = decodeURIComponent(value[1]); } else { value = ""; } return value; } function getFrameDocument(fr) { var doc = fr.contentWindow || fr.contentDocument; if (doc && doc.document) { doc = doc.document; } return doc; } function closeDoc(doc) { doc.close(); } function closeOpenDocuments(openDocs) { for (var i=0;i< openDocs.length; i++) { closeDoc(getFrameDocument(document.getElementById(openDocs[i]))); } } function isIE() { return /msie/i.test(navigator.userAgent) && !/opera/i.test(navigator.userAgent); } function setHash (element, hash) { if(element.hash) { element.hash = element.hash + "," + hash; } else { element.hash = hash; } } function renderIFAd(holderID, adID, srcUrl, width, height, hash, bodyAttributes) { setHash(document.getElementById(holderID), hash); document.dcdAdsR.push(adID); if (ie) { var sizePart = srcUrl.substring(srcUrl.indexOf("sz=")+3); sizePart = sizePart.substring(0, sizePart.indexOf(";")); var multiSizes = sizePart.split(","); var minSize = multiSizes[0]; if (multiSizes.length > 1) { for(var i=1; i< multiSizes.length; i++) { if (minSize > multiSizes[i]) { minSize = multiSizes[i]; } } var sizeParts = minSize.toLowerCase().split("x"); width = sizeParts[0]; height = sizeParts[1]; srcUrl = srcUrl.replace(sizePart, minSize); } } document.write('<iframe id="' + adID + '" src="' + srcUrl + '" width="' + width + '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>'); } function renderJIFAd(holderID, adID, srcUrl, width, height, hash, bodyAttributes) { setHash(document.getElementById(holderID), hash); document.dcdAdsR.push(adID); document.write('<iframe id="' + adID + '" src="javascript: ;" width="' + width + '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>'); var body = '<html><head></head><body ' + bodyAttributes + '><scr' + 'ipt src="' + srcUrl + '"></sc' + 'ript></body></html>'; var fr = document.getElementById(adID); setHash(fr, hash); fr.body = body; var doc = getFrameDocument(fr); doc.open(); doc.write(body); setTimeout(function() {closeDoc(getFrameDocument(document.getElementById(adID)))}, 2000); } function renderJAd(holderID, adID, srcUrl, hash) { document.dcdAdsAA.push(holderID); setHash(document.getElementById(holderID), hash); document.dcdAdsH.push(holderID); document.dcdAdsI.push(adID); document.dcdAdsU.push(srcUrl); } function er_showAd() { var regex = new RegExp("externalReferrer=(.*?)(; |&|$)", "gi"); var value = regex.exec(document.cookie); if (value && value.length == 3) { var externalReferrer = value[1]; return (!FD.isInternalReferrer() || ((externalReferrer) && (externalReferrer > 0))); } return false; } function isHome() { var loc = "" + window.location; loc = loc.replace("//", ""); var tokens = loc.split("/"); if (tokens.length == 1) { return true; } else if (tokens.length == 2) { if (tokens[1].trim().length == 0) { return true; } } return false; } function checkAds(checkStrings) { var cs = checkStrings.split(","); for (var i=0;i< document.dcdAdsAA.length; i++) { var cAd = document.getElementById(document.dcdAdsAA[i]); document.dcdAdsAG.push(cAd.hash); for (var j=0; j<cs.length; j++) { var c = cs[j].trim(); if (c.length > 0 && cAd.innerHTML.indexOf(c)>0) { document.dcdAdsAI.push(cAd.hash); cAd.style.display ='none'; } } } if (!ie) { for (var i=0;i< document.dcdAdsR.length; i++) { var fr = document.getElementById(document.dcdAdsR[i]); if (fr) { document.dcdAdsAG.push(fr.hash); var doc = getFrameDocument(fr); for (var j=0; j<cs.length; j++) { var c = cs[j].trim(); if (c.length > 0 && doc.body.innerHTML.indexOf(c)>0) { document.dcdAdsAI.push(fr.hash); fr.style.display ='none'; } } } } } if (document.dcdAdsAI.length > 0 || document.dcdAdsAG.length > 0) { var pingServerParams = "i="; var sep = ""; for (var i=0;i< document.dcdAdsAI.length; i++) { pingServerParams += sep + document.dcdAdsAI[i]; sep = ","; } } document.pingServerAdParams = pingServerParams; } function pingAdStatus() { if (isHome ()) { return; } if (document.pingServerAdParams && document.pingServerAdParams.length > 0) { var pingServerUrl = "/action/pingServerAction?" + document.pingServerAdParams; var xmlHttp = null; try { xmlHttp = new XMLHttpRequest(); } catch(e) { try { xmlHttp = new ActiveXObject("Microsoft.XMLHttp"); } catch(e) { xmlHttp = null; } } if (xmlHttp != null) { xmlHttp.open( "GET", pingServerUrl, true); xmlHttp.send( null ); } } } function initAds(log) { for (var i=0;i< document.dcdAdsU.length; i++) { var shadowHolder = document.getElementById("adShD" + i); var targetHolder = document.getElementById(document.dcdAdsH[i]); if (shadowHolder && targetHolder) { var adNodes = new Array(); for (var j=0; j<shadowHolder.childNodes.length; j++) { var child = shadowHolder.childNodes[j]; if (child.nodeName.toLowerCase() != "script") { adNodes.push(child); } } for (var j=0; j<adNodes.length; j++) { targetHolder.appendChild(shadowHolder.removeChild(adNodes[j])); } } } if (er_showAd()) { for (var i=0;i< document.dcdAdsE.length; i++) { var erAd = document.getElementById(document.dcdAdsEH[i]); erAd.className = document.dcdAdsEC[i]; erAd.appendChild(document.dcdAdsE[i]); } } if (log) { console.log(document.igCount + "/" + document.tCount); } } document.refreshAds = function rAds(adID) { if (document.dcdAdsR) { document.dcdsAdsToClose = new Array(); for (var i=0;i< document.dcdAdsR.length; i++) { var fr = document.getElementById(document.dcdAdsR[i]); if (fr) { if (!ie) { if (!adID || adID =="*" || fr.parentNode.id==adID ) { var chNodes = new Array(); for (var j=0; j<fr.parentNode.childNodes.length; j++) { var child = fr.parentNode.childNodes[j]; if (!(child.nodeName.toLowerCase() == "script" || child.nodeName.toLowerCase() == "iframe")) { chNodes.push(child); } } for (var j=0; j<chNodes.length; j++) { chNodes[j].parentNode.removeChild(chNodes[j]); } var doc = getFrameDocument(fr); while (doc.childNodes.length > 0) { doc.removeChild(doc.childNodes[0]); } doc.open(); var newBody = fr.body; newBody = newBody.replace(";ord=", ";ord=" + Math.floor(100000000*Math.random())); doc.write(newBody); document.dcdsAdsToClose.push(fr.id); } } else { var newSrc = fr.src; newSrc = newSrc.replace(";ord=", ";ord=" + Math.floor(100000000*Math.random())); fr.src = newSrc; } } } if (document.dcdsAdsToClose.length > 0) { setTimeout(function() {closeOpenDocuments(document.dcdsAdsToClose)}, 500); } } }; var ie = isIE(); if(ie && typeof String.prototype.trim !== 'function') { String.prototype.trim = function() { return this.replace(/^\s+|\s+$/g, ''); }; } document.dcdAdsH = new Array(); document.dcdAdsI = new Array(); document.dcdAdsU = new Array(); document.dcdAdsR = new Array(); document.dcdAdsEH = new Array(); document.dcdAdsE = new Array(); document.dcdAdsEC = new Array(); document.dcdAdsAA = new Array(); document.dcdAdsAI = new Array(); document.dcdAdsAG = new Array(); document.dcdAdsToClose = new Array(); document.igCount = 0; document.tCount = 0; var dcOrd = Math.floor(100000000*Math.random()); document.dcAdsCParams = ""; var savValue = getAdCookie("sav"); if (savValue != null && savValue.length > 2) { document.dcAdsCParams = savValue + ";"; } </script> <script> renderJAd("adspot-728x90,468x60-pos-1", "dcAd-1", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;' + document.dcAdsCParams +'sz=728x90,468x60;tile=1;ord=' + dcOrd + '?', 134123644); </script> <noscript> <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;sz=728x90,468x60;tile=1;ord=4331280.0?' target="_blank"> <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;sz=728x90,468x60;tile=1;ord=4331280.0?' border="0" alt=""> </a> </noscript>   </div>
 
             		<div id="navigation" class="hover"><a name="navigation"></a>
 
@@ -399,8 +121,7 @@
                             <li><a href="http://www.fox.com.au/shows/mattandjo/galleries">- photos</a></li>
                             <li><a href="http://www.fox.com.au/shows/mattandjo/video">- video</a></li>
                             <li><a href="http://www.fox.com.au/shows/mattandjo/listen/podcasts">- listen</a></li>
-                            <li><a href="http://www.fox.com.au/shows/mattandjo/team">- team</a></li>
-                            <li><a href="http://www.fox.com.au/shows/mattandjo/contactus">- contact</a></li>
+                            <li><a href="http://www.fox.com.au/shows/mattandjo/features/matt-tillys-gotcha-calls-contact">- Dob In A Gotcha!</a></li>
                     </ul>
                 </li>
                 <li class="plus">
@@ -430,6 +151,10 @@
                 <li>
                     <a href="http://www.fox.com.au/entertainment/the_dirt" title="Latest Dirt">Latest Dirt</a>
                 </li>
+                
+                <li>
+                    <a href="http://www.fox.com.au/shows/mamamia-today" title="Mamamia Today">Mamamia Today</a>
+                </li>
                 <li class="plus">
                     <a href="#" title="Hot30 Countdown">Hot30 Countdown</a>
                     <ul class="cfix">
@@ -438,7 +163,7 @@
                             <li><a href="http://www.fox.com.au/shows/hot30/highlights">- highlights</a></li>
                             <li><a href="http://www.fox.com.au/shows/hot30/galleries">- photos</a></li>
                             <li><a href="http://www.fox.com.au/shows/hot30/video">- video</a></li>
-                            <li><a href="http://www.hot30tv.com" target="_blank">- tv</a></li>
+                            <li><a href="http://www.fox.com.au/shows/hot30/hot30tv">- tv</a></li>
                             <li><a href="http://www.fox.com.au/shows/hot30/listen/podcasts">- listen</a></li>
                             <li><a href="http://www.fox.com.au/shows/hot30/contactus">- contact</a></li>
                             <li><a href="http://www.fox.com.au/shows/hot30/win">- win</a></li>
@@ -490,10 +215,6 @@
                 </li>
                 
                 <li>
-                    <a href="http://www.fox.com.au/shows/Hugh-George-Zoe" title="The Hugh, George and Zoe Show">The Hugh, George and Zoe Show</a>
-                </li>
-                
-                <li>
                     <a href="http://www.fox.com.au/shows/club-revolution" title="Club Revolution">Club Revolution</a>
                 </li>
                 
@@ -507,6 +228,10 @@
                 
                 <li>
                     <a href="http://www.fox.com.au/shows/ministry" title="Ministry Of Sound - Tom Piper">Ministry Of Sound - Tom Piper</a>
+                </li>
+                
+                <li>
+                    <a href="http://www.fox.com.au/nissan" title="Nissan Micrascope Melbourne">Nissan Micrascope Melbourne</a>
                 </li>
                 
                 <li class="last">
@@ -555,9 +280,13 @@
                             <li><a href="http://www.fox.com.au/funandgames/home">- home</a></li>
                             <li><a href="http://www.fox.com.au/funandgames/video">- funny videos</a></li>
                             <li><a href="http://www.fox.com.au/funandgames/galleries">- galleries</a></li>
-                            <li><a href="http://www.fox.com.au/funandgames/blog/fun-and-games-blog">- caption comp</a></li>
-                            <li><a href="http://www.fox.com.au/funandgames/quiz/The-Weekly-Entertainment-Quiz">- weekly quiz</a></li>
+                            <li><a href="http://www.fox.com.au/funandgames/quiz/The-Weekly-Entertainment-Quiz">- the weekly quiz</a></li>
+                            <li><a href="http://www.fox.com.au/funandgames/blog/fun-and-games-blog">- caption this</a></li>
                     </ul>
+                </li>
+                
+                <li>
+                    <a href="http://www.fox.com.au/entertainment/civic-hot-night-in" title="Hot Night In">Hot Night In</a>
                 </li>
                 <li class="plus">
                     <a href="#" title="Movies">Movies</a>
@@ -566,16 +295,11 @@
                             <li><a href="http://www.fox.com.au/entertainment/movies/latest-movies">- most popular</a></li>
                             <li><a href="http://www.fox.com.au/entertainment/movies/trailers">- trailers</a></li>
                             <li><a href="http://www.fox.com.au/entertainment/movies/movies-premiere-pics">- premiere pics</a></li>
-                            <li><a href="http://www.fox.com.au/entertainment/movies/starpics">- starpics</a></li>
                     </ul>
                 </li>
                 
-                <li>
-                    <a href="http://www.fox.com.au/entertainment/civic_dvd" title="Civic DVD">Civic DVD</a>
-                </li>
-                
                 <li class="last">
-                    <a href="http://www.fox.com.au/entertainment/the_dirt/celebrity-videos-mcm" title="Celeb Videos">Celeb Videos</a>
+                    <a href="http://www.fox.com.au/entertainment/the_dirt/celebrity-videos-mcm" title="Videos">Videos</a>
                 </li>
 
             <li class="expand"><a href="#" title="Toggle submenus">toggle submenus</a></li>
@@ -641,7 +365,7 @@
 </ul>
 
                             </li>
-                            <li><span><a href="http://fox.rsvp.com.au/">Dating</a></span>
+                            <li><span><a href="http://www.fox.com.au/nissan">What's On</a></span>
                             </li>
             </ul>
 
@@ -1625,9 +1349,6 @@
         <h4>FOX</h4>
         <div class="onair" id="onairWrapper">
         <h5>On Air Music Box</h5>
-            <a href="http://www.fox.com.au/shows/tim-lee" target="_blank"><img src="http://images.fox.com.au/2010/03/18/365505/tim-lee-small-thumb.jpg" width="85" height="50" alt="Tim Lee"></a>
-            <p><a href="http://www.fox.com.au/shows/tim-lee" target="_blank">Tim Lee</a></p>
-            <span>12pm - 4pm </span>
         
         <a id="listenLiveLink" class="listen" href="http://www.fox.com.au/player" title="Listen online" onclick="window.open('http://www.fox.com.au/player', '_blank', 'width=737,height=662,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no'); return false;">Listen live now</a>
 
@@ -1654,16 +1375,7 @@
     </div>
 
 
-        <div id="adspot-300x250-pos-1" class="ad advert">
-        <script>
-            renderJAd("adspot-300x250-pos-1", "dcAd-2", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;' + document.dcAdsCParams +'sz=300x250;tile=2;ord=' + dcOrd + '?', -1380911405);
-        </script>
-        <noscript>
-            <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=300x250;tile=2;ord=1.5250113E7?' target="_blank">
-                <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=300x250;tile=2;ord=1.5250113E7?' border="0" alt="">
-            </a>
-        </noscript>
-</div>
+        <div id="adspot-300x250-pos-1" class="ad advert"> <script> renderJAd("adspot-300x250-pos-1", "dcAd-2", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;' + document.dcAdsCParams +'sz=300x250;tile=2;ord=' + dcOrd + '?', -1380911405); </script> <noscript> <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=300x250;tile=2;ord=4331280.0?' target="_blank"> <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=300x250;tile=2;ord=4331280.0?' border="0" alt=""> </a> </noscript>   </div>
 
     <!--@List: shared: false name: FOX Most Popular Pod Content -->
 <div class="panel popular">
@@ -1671,25 +1383,25 @@
         <h4>Most Popular Now</h4>
 
                     <div class="wof cfix">
-                            <a href="http://www.fox.com.au/style-glamour/beauty/scariest-stars-without-make-up">
-                                <img src="http://images.fox.com.au/2012/05/07/758708/ENT-No-Makeup-Kate-Courtney-85.jpg" width="85" height="50" alt="ENT-No-Makeup-Kate-Courtney-85">
+                            <a href="http://www.fox.com.au/entertainment/celebrity/galleries/2012-Emmy-Award-Winners">
+                                <img src="http://images.fox.com.au/2012/09/24/804717/Ent-Winners-Emmys-2012-85.jpg" width="85" height="50" alt="2012 Emmy Awards - Winner List">
                             </a>
-                    <h6><a href="http://www.fox.com.au/style-glamour/beauty/scariest-stars-without-make-up">Celebs Without Makeup!</a></h6>
-                    <p>We've busted the stars without their face on to bring you some scary pics!</p>
+                    <h6><a href="http://www.fox.com.au/entertainment/celebrity/galleries/2012-Emmy-Award-Winners">2012 Emmy Award Winners</a></h6>
+                    <p>All the winners and losers from the 2012 Emmy awards in Los Angeles.</p>
                 </div>
                     <div class="wof cfix">
-                            <a href="http://www.fox.com.au/style-glamour/whose-boobs">
-                                <img src="http://images.fox.com.au/2012/05/18/762318/celeb-boobs_85.jpg" width="85" height="50" alt="Guess The Celeb Boobs.">
+                            <a href="http://www.fox.com.au/fifi-and-jules/video/the-olympians-do-tough-mudder-804892">
+                                <img src="http://images.fox.com.au/2012/09/24/804882/jules-tough-mudder-85.jpg" width="85" height="50" alt="jules-tough-mudder-85">
                             </a>
-                    <h6><a href="http://www.fox.com.au/style-glamour/whose-boobs">Guess The Celebrity Boobs</a></h6>
-                    <p>Which celebrities do these perky boobs belong to?</p>
+                    <h6><a href="http://www.fox.com.au/fifi-and-jules/video/the-olympians-do-tough-mudder-804892">The Olympians Do Tough Mudder</a></h6>
+                    <p>The Olympians struggle with Tough Mudder</p>
                 </div>
                     <div class="wof cfix">
-                            <a href="http://www.fox.com.au/entertainment/movies/battleship">
-                                <img src="http://images.fox.com.au/2012/03/07/737050/battleship-movie-poster_85.jpg" width="85" height="50" alt="Battleship Movie Poster.">
+                            <a href="http://www.fox.com.au/shows/mattandjo/video/Mattys-tears">
+                                <img src="http://images.fox.com.au/2012/07/31/786162/MJO-Matty-Cry-85.jpg" width="85" height="50" alt="MJO-Matty-Cry-85">
                             </a>
-                    <h6><a href="http://www.fox.com.au/entertainment/movies/battleship">Rihanna's In Australia!</a></h6>
-                    <p>She's here for the premiere of her debut action flick, Battleship!</p>
+                    <h6><a href="http://www.fox.com.au/shows/mattandjo/video/Mattys-tears">Matty's Tears</a></h6>
+                    <p>Whose text message has brought Matty to tears in the studio?</p>
                 </div>
 </div>
 
@@ -2045,83 +1757,18 @@ _wo_AutoCarousel = 0;
 
 <!--/@List-->
 
-    <div id="adspot-mrecRight" class="ad advert">
-                <script type="text/javascript">
-                    if (ie) {
-                        renderIFAd("adspot-mrecRight", "dcAd-1-3", "http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "sz=300x125;tile=3;ord=" + dcOrd + "?", 300, 125, 461048167);
-                    } else {
-                        renderJIFAd("adspot-mrecRight","dcAd-1-3", "http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "sz=300x125;tile=3;ord=" + dcOrd + "?", 300, 125, 461048167);
-                    }
-                </script><iframe id="dcAd-1-3" src="javascript: ;" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
-            <noscript>
-                <iframe id="dcAd-1-3" src="http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;sz=300x125;tile=3;ord=1.5250113E7?"
-                        width='300'
-                        height='125'
-                        scrolling="no"
-                        marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
-                </iframe>
-            </noscript>
-</div>
+    <div id="adspot-mrecRight" class="ad advert"> <script type="text/javascript"> if (ie) { renderIFAd("adspot-mrecRight", "dcAd-1-3", "http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "sz=300x125;tile=3;ord=" + dcOrd + "?", 300, 125, 461048167); } else { renderJIFAd("adspot-mrecRight","dcAd-1-3", "http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "sz=300x125;tile=3;ord=" + dcOrd + "?", 300, 125, 461048167, ""); } </script><iframe id="dcAd-1-3" src="javascript: ;" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe> <noscript> <iframe id="dcAd-1-3" src="http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;sz=300x125;tile=3;ord=4331280.0?" width='300' height='125' scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"> </iframe> </noscript> </div>
 
-    <div id="adSpot-featurepromo" class="ad ad adSpot-twin">
-                <script type="text/javascript">
-                    if (ie) {
-                        renderIFAd("adSpot-featurepromo", "dcAd-1-4", "http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=1;sz=150x250;tile=4;ord=" + dcOrd + "?", 150, 250, 458208331);
-                    } else {
-                        renderJIFAd("adSpot-featurepromo","dcAd-1-4", "http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=1;sz=150x250;tile=4;ord=" + dcOrd + "?", 150, 250, 458208331);
-                    }
-                </script><iframe id="dcAd-1-4" src="javascript: ;" width="150" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
-            <noscript>
-                <iframe id="dcAd-1-4" src="http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=150x250;tile=4;ord=1.5250113E7?"
-                        width='150'
-                        height='250'
-                        scrolling="no"
-                        marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
-                </iframe>
-            </noscript>
-                <script type="text/javascript">
-                    if (ie) {
-                        renderIFAd("adSpot-featurepromo", "dcAd-2-5", "http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=2;sz=150x250;tile=5;ord=" + dcOrd + "?", 150, 250, 49384137);
-                    } else {
-                        renderJIFAd("adSpot-featurepromo","dcAd-2-5", "http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=2;sz=150x250;tile=5;ord=" + dcOrd + "?", 150, 250, 49384137);
-                    }
-                </script><iframe id="dcAd-2-5" src="javascript: ;" width="150" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
-            <noscript>
-                <iframe id="dcAd-2-5" src="http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=150x250;tile=5;ord=1.5250113E7?"
-                        width='150'
-                        height='250'
-                        scrolling="no"
-                        marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
-                </iframe>
-            </noscript>
-</div>
+    <div id="adSpot-featurepromo" class="ad ad adSpot-twin"> <script type="text/javascript"> if (ie) { renderIFAd("adSpot-featurepromo", "dcAd-1-4", "http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=1;sz=150x250;tile=4;ord=" + dcOrd + "?", 150, 250, 458208331); } else { renderJIFAd("adSpot-featurepromo","dcAd-1-4", "http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=1;sz=150x250;tile=4;ord=" + dcOrd + "?", 150, 250, 458208331, ""); } </script><iframe id="dcAd-1-4" src="javascript: ;" width="150" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe> <noscript> <iframe id="dcAd-1-4" src="http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=150x250;tile=4;ord=4331280.0?" width='150' height='250' scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"> </iframe> </noscript> <script type="text/javascript"> if (ie) { renderIFAd("adSpot-featurepromo", "dcAd-2-5", "http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=2;sz=150x250;tile=5;ord=" + dcOrd + "?", 150, 250, 49384137); } else { renderJIFAd("adSpot-featurepromo","dcAd-2-5", "http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;" + document.dcAdsCParams + "pos=2;sz=150x250;tile=5;ord=" + dcOrd + "?", 150, 250, 49384137, ""); } </script><iframe id="dcAd-2-5" src="javascript: ;" width="150" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe> <noscript> <iframe id="dcAd-2-5" src="http://ad-apac.doubleclick.net/N6773/adi/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=150x250;tile=5;ord=4331280.0?" width='150' height='250' scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"> </iframe> </noscript> </div>
     
-    <div id="adspot-300x250-pos-2" class="ad advert">
-        <script>
-            renderJAd("adspot-300x250-pos-2", "dcAd-6", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;' + document.dcAdsCParams +'sz=300x250;tile=6;ord=' + dcOrd + '?', -1789735506);
-        </script>
-        <noscript>
-            <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=300x250;tile=6;ord=1.5250113E7?' target="_blank">
-                <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=300x250;tile=6;ord=1.5250113E7?' border="0" alt="">
-            </a>
-        </noscript>
-</div>
+    <div id="adspot-300x250-pos-2" class="ad advert"> <script> renderJAd("adspot-300x250-pos-2", "dcAd-6", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;' + document.dcAdsCParams +'sz=300x250;tile=6;ord=' + dcOrd + '?', -1789735506); </script> <noscript> <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=300x250;tile=6;ord=4331280.0?' target="_blank"> <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=300x250;tile=6;ord=4331280.0?' border="0" alt=""> </a> </noscript>   </div>
 
 </div></div><!-- secondary -->
 
 
         </div>
 
-         <div id="adspot-728x90,468x60-pos-2" class="ad advert bottomleaderboard">
-        <script>
-            renderJAd("adspot-728x90,468x60-pos-2", "dcAd-7", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;' + document.dcAdsCParams +'sz=728x90,468x60;tile=7;ord=' + dcOrd + '?', -1375281669);
-        </script>
-        <noscript>
-            <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=728x90,468x60;tile=7;ord=1.5250113E7?' target="_blank">
-                <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=728x90,468x60;tile=7;ord=1.5250113E7?' border="0" alt="">
-            </a>
-        </noscript>
-</div>
+         <div id="adspot-728x90,468x60-pos-2" class="ad advert bottomleaderboard"> <script> renderJAd("adspot-728x90,468x60-pos-2", "dcAd-7", 'http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;' + document.dcAdsCParams +'sz=728x90,468x60;tile=7;ord=' + dcOrd + '?', -1375281669); </script> <noscript> <a href='http://ad-apac.doubleclick.net/N6773/jump/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=728x90,468x60;tile=7;ord=4331280.0?' target="_blank"> <img src='http://ad-apac.doubleclick.net/N6773/ad/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=728x90,468x60;tile=7;ord=4331280.0?' border="0" alt=""> </a> </noscript>   </div>
         		<div id="footer">
             <ul class="internal cfix">
                     <li class="first"><a href="http://www.fox.com.au/" title="Home">Home</a> |</li>
@@ -2132,7 +1779,7 @@ _wo_AutoCarousel = 0;
                 <li><a href="http://www.fox.com.au/video" title="Video">Video</a> |</li>
                 <li><a href="/win" title="Win">Win</a> |</li>
                 <li><a href="http://www.fox.com.au/membership/login" title="Newsletter">Newsletter</a> |</li>
-                <li><a href="http://fox.rsvp.com.au/" title="Dating">Dating</a></li>
+                <li><a href="http://www.fox.com.au/nissan" title="What's On">What's On</a></li>
 
 </ul>
 
@@ -2144,13 +1791,12 @@ _wo_AutoCarousel = 0;
             <li><a href="http://www.fox.com.au/termsandconditions" title="Terms and Conditions">Terms and Conditions</a> |</li>
             <li><a href="http://www.fox.com.au/contact" title="Contact Us">Contact Us</a> |</li>
             <li><a href="/contact" title="Advertise With Us">Advertise With Us</a> |</li>
-            <li><a href="http://fsr.cvmail.com.au/austereo/main.cfm" title="Jobs at Fox Fm">Jobs at Fox Fm</a> |</li>
+            <li><a href="http://fsr.cvmail.com.au/sca/main.cfm" target="_blank" title="Jobs at Fox Fm">Jobs at Fox Fm</a> |</li>
             <li><a href="http://www.2dayfm.com.au" title="2DayFM Sydney">2DayFM Sydney</a> |</li>
             <li><a href="http://www.b105.com.au" title="B105 Brisbane">B105 Brisbane</a> |</li>
             <li><a href="http://www.safm.com.au" title="SAFM Adelaide">SAFM Adelaide</a> |</li>
             <li><a href="http://www.929.com.au" title="929 Perth">929 Perth</a> |</li>
             <li><a href="http://www.thedirt.com.au" title="The Dirt">The Dirt</a> |</li>
-            <li><a href="http://www.barry.com.au" title="Barry">Barry</a> |</li>
             <li><a href="http://www.radarradio.com.au" title="Radar Radio">Radar Radio</a> |</li>
             <li><a href="http://www.southerncrossaustereo.com.au" title="Southern Cross Austereo">Southern Cross Austereo</a></li>
     </ul>
@@ -2161,14 +1807,7 @@ _wo_AutoCarousel = 0;
     </div>
 </div>
 
-<div class="hidden" id="adShD0"><script type="text/javascript">if (0 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[0] + '" src="' + document.dcdAdsU[0] + '"><\/scr' + 'ipt>');}</script><script type="text/javascript" id="dcAd-1" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;sz=728x90,468x60;tile=1;ord=65689874?"></script></div><div class="hidden" id="adShD1"><script type="text/javascript">if (1 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[1] + '" src="' + document.dcdAdsU[1] + '"><\/scr' + 'ipt>');}</script><script type="text/javascript" id="dcAd-2" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=300x250;tile=2;ord=65689874?"></script></div><div class="hidden" id="adShD2"><script type="text/javascript">if (2 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[2] + '" src="' + document.dcdAdsU[2] + '"><\/scr' + 'ipt>');}</script><script type="text/javascript" id="dcAd-6" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=300x250;tile=6;ord=65689874?"></script></div><div class="hidden" id="adShD3"><script type="text/javascript">if (3 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[3] + '" src="' + document.dcdAdsU[3] + '"><\/scr' + 'ipt>');}</script><script type="text/javascript" id="dcAd-7" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=728x90,468x60;tile=7;ord=65689874?"></script></div>
-<script type="text/javascript">
-    initAds(false);
-    checkAds("817-grey.gif");
-    window.setTimeout('pingAdStatus()', 10000);
-</script>
-
-
+<div class="hidden" id="adShD0"><script type="text/javascript"> if (0 < document.dcdAdsU.length) { document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[0] + '" src="' + document.dcdAdsU[0] + '"><\/scr' + 'ipt>'); } </script><script type="text/javascript" id="dcAd-1" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;dcopt=ist;sz=728x90,468x60;tile=1;ord=35678001?"></script></div> <div class="hidden" id="adShD1"><script type="text/javascript"> if (1 < document.dcdAdsU.length) { document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[1] + '" src="' + document.dcdAdsU[1] + '"><\/scr' + 'ipt>'); } </script><script type="text/javascript" id="dcAd-2" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=1;sz=300x250;tile=2;ord=35678001?"></script></div> <div class="hidden" id="adShD2"><script type="text/javascript"> if (2 < document.dcdAdsU.length) { document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[2] + '" src="' + document.dcdAdsU[2] + '"><\/scr' + 'ipt>'); } </script><script type="text/javascript" id="dcAd-6" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=300x250;tile=6;ord=35678001?"></script></div> <div class="hidden" id="adShD3"><script type="text/javascript"> if (3 < document.dcdAdsU.length) { document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[3] + '" src="' + document.dcdAdsU[3] + '"><\/scr' + 'ipt>'); } </script><script type="text/javascript" id="dcAd-7" src="http://ad-apac.doubleclick.net/N6773/adj/o.todayfm.fox/privacypolicy;cat=privacypolicy;ctype=index;pos=2;sz=728x90,468x60;tile=7;ord=35678001?"></script></div> <script type="text/javascript"> initAds(false); checkAds("817-grey.gif"); window.setTimeout('pingAdStatus()', 10000); </script>
 
 <!-- Default Tracking component -->
 <div class="hidden">
