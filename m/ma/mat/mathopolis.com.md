@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mathopolis.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306054341id_/http%3A//www.mathopolis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathopolis.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016000244id_/http%3A//www.mathopolis.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement at Mathopolis
+# Mathopolis
 
 _This privacy statement discloses the privacy practices for Mathopolis.com This privacy statement advises you of what information may be collected via this website and what will happen to it._
 
@@ -13,7 +13,7 @@ _1\. What personally identifiable information of yours or third party personally
 7\. How you can correct any inaccuracies in the information. _
 
   
-**_If you feel that we are not abiding by our privacy policy,[contact us](https://web.archive.org/web/20120306054341id_/http%3A//www.mathopolis.com/contact.php) _**
+**_If you feel that we are not abiding by our privacy policy,[contact us](https://web.archive.org/web/20121016000244id_/http%3A//www.mathopolis.com/contact.php) _**
 
 **Information Collection and Use**
 
