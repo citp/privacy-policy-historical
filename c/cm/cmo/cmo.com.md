@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmo.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511030148id_/http%3A//www.cmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmo.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015151641id_/http%3A//www.cmo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CMO.com
 
@@ -69,6 +69,6 @@ We provide all visitors to the Site options for reviewing, changing, deleting an
 We will provide you with a copy of any personal information that you have provided in connection with your visit to the Site should you request it, but will require evidence of your identity. We may require a nominal administration fee to cover our costs in providing such information. If you wish to access the personal information we have about you, or to correct factual errors in our records, please contact us as set forth in the "Contact Us" section below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
 Contact Us:  
-If you have questions, concerns, or suggestions regarding our Privacy Policy, you should first contact our Privacy Department by e-mail at [feedback@CMO.com](mailto:feedback@CMO.com). We may also be reached at the contact information on our [Contact Us](https://web.archive.org/web/20120511030148id_/http%3A//www.cmo.com/contact-us) page. Our physical address is 550 East Timpanogos Circle, Orem, Utah 84097.
+If you have questions, concerns, or suggestions regarding our Privacy Policy, you should first contact our Privacy Department by e-mail at [feedback@CMO.com](mailto:feedback@CMO.com). We may also be reached at the contact information on our [Contact Us](https://web.archive.org/web/20121015151641id_/http%3A//www.cmo.com/contact-us) page. Our physical address is 550 East Timpanogos Circle, Orem, Utah 84097.
 
 [](https://web.archive.org/printmail/node/3369)  [](https://web.archive.org/forum) 
