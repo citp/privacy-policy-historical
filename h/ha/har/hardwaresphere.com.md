@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630150246id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015120212id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hardware Sphere
+# Cookies and Privacy Policy | Hardware Sphere
 
 HardwareSphere.com is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of HardwareSphere anonymously, you are required to provide personal information to gain access to some of our premium content and services.
 
@@ -29,6 +29,16 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Googleâ
 ### NetworkAdvertising.org
 
 We also use third-party advertising companies to serve ads from Networkadvertising.org when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+
+### More about cookies
+
+ **Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.**
+
+ **You can find out more information about advertising cookies and how you can disable them over at the[your online choices](http://www.youronlinechoices.com/uk/about-behavioural-advertising) website.**
+
+ **You can also change your preferences in your web browser to control cookies for the websites you visit, how this is done varies on your individual browser, please refer to your browser help section for more information on how this can be done.**
+
+Updated on April 2012 to comply with the new UK privacy policies, you can find more details about the new UK and EU cookie law over at the [Information Commissioners Office](http://www.ico.gov.uk/news/blog/2012/updated-ico-advice-guidance-e-privacy-directive-eu-cookie-law.aspx).
 
 ### More about our Privacy Policy
 
