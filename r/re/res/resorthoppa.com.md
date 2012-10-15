@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510200713id_/http%3A//www.resorthoppa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015153548id_/http%3A//www.resorthoppa.com/privacy.php) for the most accurate reproduction.*
 
 # Resorthoppa Airport Transfers | Popular Resort & City Destinations
 
 **1\. SCOPE**
 
-> Resorthoppa (UK) Limited, with its registered address at 109 South Worple Way, London, SW14 8TN, company number 04933736 complies with data protection legislation such as the Data Protection Act 1998. This regulates the processing of personal data relating to you and grants you various rights in respect of your personal data.
+> Resorthoppa (UK) Limited, with its registered address at Drake Suite, Globe House, Lavender Park Road, West Byfleet, Surrey, KT14 6ND, company number 04933736 complies with data protection legislation such as the Data Protection Act 1998. This regulates the processing of personal data relating to you and grants you various rights in respect of your personal data.
 
 > The aim of this statement is to tell you how we will use any personal data you provide through this website. Please read it carefully before you proceed.
 
@@ -83,7 +83,7 @@
 
 **10\. YOUR RIGHT TO ACCESS INFORMATION**
 
-> You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, Spectrum House, Beehive Ring Road, Gatwick, RH6 0LG. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
+> You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, Suite 109, Railway House, 14 Chertsey Road, Woking, Surrey, GU21 5AH. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
 
 **11\. CHANGES TO THIS PRIVACY POLICY**
 
@@ -91,4 +91,4 @@
 
 **12\. CONTACTING US**
 
-> If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, Spectrum House, Beehive Ring Road, Gatwick, RH6 0LG
+> If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, Suite 109, Railway House, 14 Chertsey Road, Woking, Surrey, GU21 5AH.
