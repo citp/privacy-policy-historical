@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the christiancafe.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205090203id_/http%3A//www.christiancafe.com/guests/help/privacy_statement.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancafe.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016002155id_/http%3A//www.christiancafe.com/guests/help/privacy_statement.jsp%3Bjsessionid%3DB57A20DFB8BD509BBD59E30809D7516C.tcc3) for the most accurate reproduction.*
 
-# ChristianCafe.com: Privacy Statement
+# ChristianCafe.com: Guest Help
 
-**ChristianCafe.com Privacy Statement**
-
-Welcome to the ChristianCafe.com community service (referred to herein as the "Service"), owned and produced by RealCafes.com Inc. (referred to herein as "RealCafes.com"). The Service is made available subject to this Privacy Policy. This statement discloses the privacy practices of RealCafes.com with regard to [www.christiancafe.com](http://www.christiancafe.com/) only. By using the Service, you agree, without limitation or qualification, to be bound by this Privacy Policy.
+Welcome to the ChristianCafe.com community service (referred to herein as the "Service"), owned and produced by RealCafes.com Inc. (referred to herein as "RealCafes.com"). The Service is made available subject to this Privacy Policy. This statement discloses the privacy practices of RealCafes.com with regard to [www.christiancafe.com](https://web.archive.org/index.jsp) only. By using the Service, you agree, without limitation or qualification, to be bound by this Privacy Policy.
 
 Contact information for questions regarding this statement should be directed to:
 
 > RealCafes.com Privacy Site Coordinator   
 > RealCafes.com Inc.   
-> 150 Wallace Avenue   
-> Toronto, Ontario, Canada M6H 1T5   
+> 18478 Ninth Line   
+> Mount Albert, Ontario, Canada, L0G 1M0   
 > [privacy@christiancafe.com](mailto:privacy@christiancafe.com)
 
 This policy may be updated from time to time, so please check back periodically.
 
 **1\. What information of yours does RealCafes.com collect?**
 
-In registering for the Service, you provide us with a username, an email address, and complete the Service questionnaire. RealCafes.com collects and posts all your responses to the questionnaire, including the zip code you provide and any photos or images that you post. At the end of the registration process, you may be asked whether you are interested in receiving information about certain topics that may be of interest; RealCafes.com collects your responses to those questions. Also, each time you access the Service, RealCafes.com collects and stores your Internet Protocol (IP) address. Occasionally, the Administrator of the community of which you are a member may send a survey to the community members; if you answer the survey, RealCafes.com collects your survey responses.
+In registering for the Service, you provide us with a username, an email address, and complete the Service questionnaire. RealCafes.com collects and posts all your responses to the questionnaire, including the zip code you provide and any photos or images that you post. At the end of the registration process, you may be asked whether you are interested in receiving information about certain topics that may be of interest; RealCafes.com collects your responses to those questions. Also, each time you access the Service, RealCafes.com collects and stores your Internet Protocol (IP) address. Occasionally, the Administrator of the community of which you are a member may send a survey to the community members; if you answer the survey, RealCafes.com collects your survey responses. When you register with ChristianCafe.com and you leave the box checked stating "I agree to receive offers from ChristianCafe.com advertising or alliance partners", you explicitly authorize us to share your information with our advertising and alliance partners to contact you via email.
 
 **2\. What are "cookies" and how does RealCafes.com use them?**
 
@@ -30,7 +28,7 @@ The use of cookies is now an industry standard, and you will find them used on m
 
 Information provided by you during your registration for and use of the Service is generally collected and maintained solely by RealCafes.com.
 
-RealCafes.com may run promotions and sweepstakes on the Service. These promotions may be sponsored or co-sponsored by third-parties. Data collected during a promotion is typically shared with the sponsor or co-sponsor. RealCafes.com will inform you at the point of collection whether or not we are sharing your personal data as a result of your participation in a promotion or sweepstakes. If you do not want to have RealCafes.com share your data, you can choose not to participate in the promotion or sweepstakes.
+RealCafes.com may run promotions and sweepstakes on the Service. These promotions may be sponsored or co-sponsored by third-parties. Data collected during a promotion is typically shared with the sponsor or co-sponsor. If you do not want to have RealCafes.com share your data, you can choose not to participate in the promotion or sweepstakes.
 
 Be aware that RealCafes.com sponsors and other advertisers have links on the Service that take you to other sites that may collect personally identifiable information about you. RealCafes.com hopes that all third parties involved adhere to our policies regarding the privacy of our users. However, this ChristianCafe.com Privacy Policy does not cover third party data collection practices, and RealCafes.com does not assume any responsibility for any actions of third parties.
 
@@ -40,9 +38,7 @@ RealCafes.com uses the username and password you provide at registration only to
 
 RealCafes.com uses the aggregate user data collected to inform our sponsors as to numbers of people who have certain demographic characteristics and the number of those people who have seen and "clicked" on their advertisement(s). We will also disclose to those third-party sponsors the overall demographics available regarding who saw and "clicked" on their advertisement. No personally identifiable information will be disclosed to these advertisers as part of this process; only information in an aggregate form. In addition, RealCafes.com uses the aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors and to measure user demographics.
 
-RealCafes.com may, from time to time, use your information to contact you about changes or enhancements to the Service, and other products and services available on the RealCafes.com Network.
-
-If during the registration process you told RealCafes.com that you were interested in receiving offers or information from selected ChristianCafe.com sponsors and advertisers or about certain topics of interest, RealCafes.com may provide your email address to third parties that can provide you with such requested information.
+RealCafes.com may, from time to time, use your information to contact you about changes or enhancements to the Service, and other products and services available on the RealCafes.com Network. From time to time RealCafes.com may share your information with valued marketing partners.
 
 RealCafes.com uses your IP address only in the event of a violation of the Service terms and conditions.
 
@@ -52,9 +48,9 @@ In addition, RealCafes.com may be required by law enforcement or judicial author
 
 **5\. How can you access, edit or delete your information or remove your account?**
 
-RealCafes.com provides ChristianCafe.com registered users the ability to access and edit the personal information in their user profiles. To access and edit the majority of your personal information, including your responses to the Service questionnaire and essays and your email address and password, you must click on the "Edit Profile" link at the top or bottom of any community page, and select the information you would like to update or revise. If you would like to change your username, or the gender or race you selected (due to a mistake you made when first filling out your profile), you may either email the Administrator in your community.
+RealCafes.com provides ChristianCafe.com registered users the ability to access and edit the personal information in their user profiles. To access and edit the majority of your personal information, including your responses to the Service questionnaire and essays; your password; the email address you listed with us; and other profile settings including allowing non-members to view your photo or profile; you must click the "Profile" link at the top of any page inside your account, and select the information you would like to update or revise. If you would like to change your username email the Administrator of the community.
 
-If you would like to close your account, you must email the Administrator in your community.
+If you would like to close your account, you must email the Administrator of the community.
 
 **6\. What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?**
 
@@ -76,4 +72,8 @@ Search the Web for as much information as you can about how to protect your priv
 [http://www.pgp.com](http://www.pgp.com/) or another encryption program.
 
 
-Last updated August, 2001
+**8\. Yahoo! Search Marketing**
+
+We have contracted with Yahoo! Search Marketing to monitor certain pages of our Web site for the purpose of reporting Web traffic, statistics, advertisement 'click-throughs', and/or other activities on our Web site. Where authorized by us, Yahoo! Search Marketing may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics about our Web site visitors. No personally identifiable information is collected by or transferred to Yahoo! Search Marketing. For more information about how the information is collected and used by Yahoo! Search Marketing, please see the privacy policy located at or linked from [http://searchmarketing.yahoo.com](http://searchmarketing.yahoo.com/).
+
+Last updated November 29, 2007
