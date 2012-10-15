@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uglii.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618161712id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uglii.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015091227id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -30,6 +30,8 @@
 		<link rel="stylesheet" href="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/styles/print.css" type="text/css" media="print">
 
 		<link rel="stylesheet" href="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/styles/chosen.css" type="text/css" media="screen">
+		
+		<link rel="stylesheet" href="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/styles/bar.css" type="text/css" media="screen">
 
 		<link rel="shortcut icon" href="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/images/favicon.ico" type="image/x-icon">
 
@@ -110,10 +112,40 @@ $('#fancybox-auto').trigger('click');
 <style type="text/css">.fancybox-hidden{display:none}</style>
 
 		<script type="text/javascript" src="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/js/jquery.jcarousel.min.js"></script>
+		<script type="text/javascript" src="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/js/jquery.bxSlider.min.js"></script>
+		<script type="text/javascript" src="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/js/jquery.easing.1.3.js"></script>
 
 		<script type="text/javascript" src="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/js/chosen.jquery.min.js"></script>
 
-		
+		<script type="text/javascript" src="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/js/jquery.atooltip.js"></script>
+		<script type="text/javascript" src="http://www.uglii.com/sitecms/wp-content/themes/uglii_blue/js/jquery.fixedtableheader.min.js"></script> 
+		<script type="text/javascript">
+	    	jQuery(function($){
+	    		$('#campaigns').fixedtableheader();
+	    		$('.dataTable').css("top","30");
+	    		$('a.normalTip').aToolTip();
+				
+				// jBar Script by Todd Motto
+				
+				$('.jRibbon').delay(1000).fadeIn(400).addClass('up', 600);
+				$('.jBar').hide().delay(2500).slideDown(300);
+				$('.jTrigger').click(function(){
+					$('.jBar').slideToggle();
+				});
+				
+				var pathname = $(location).attr('href');
+				var pos = pathname.search("campaigns#");
+				var tHeight = pathname.slice(pos+10);
+				if(pos > 0) {
+					$("#"+tHeight+" td").attr("style","padding-top:30px;");
+					$(window).scroll(function() {
+						$("#"+tHeight+" td").removeAttr("style");
+					})
+				}				
+				
+			}); 
+		</script>
+
 
 		<!--[if lte IE 8]>
 
@@ -163,26 +195,16 @@ $('#fancybox-auto').trigger('click');
 
 			jQuery(document).ready(function($) {
 
-
-				$('#mainEvents').jcarousel({
-
-					vertical:true,
-
-					scroll:1,
-
-					auto:5,
-
-					wrap:"circular",
-
-					animation:"slow",
-
-					initCallback: mycarousel_initCallback
-
-				});			
-
+				$('#mainEvents').bxSlider({
+					mode:'vertical',
+					controls:false,
+					infiniteLoop:true,
+					auto:true,
+					autoHover:true
+				});
+					
 			});
-
-
+				
 			  var _gaq = _gaq || [];
 			  _gaq.push(['_setAccount', 'UA-30321749-1']);
 			  _gaq.push(['_setDomainName', 'uglii.com']);
@@ -213,11 +235,12 @@ $('#fancybox-auto').trigger('click');
 
 				<li><a href="http://ugliiglobal.com" target="_blank">Uglii Global</a></li>
 
+               	<li><a href="http://www.ugliistatus.com/" target="_blank">Uglii Status</a></li>
+
 				<li><a href="http://ugliiforgovernments.com" target="_blank">Uglii for Governments</a></li>				
 				
 				<li><a href="http://www.uglii.com/national-governments-portal" target="_blank">Uglii Government Portal</a></li>
-
-				<li><a href="http://bizmio.com/bizmio-capital-raising-advisor-chosen/" target="_blank">BizMio Capital Raising</a></li>
+			
 
 				</ul>
 
@@ -229,12 +252,22 @@ $('#fancybox-auto').trigger('click');
 			</div>
 
 		</div>
-
+		
+		<!-- jBar
+		<div class="jBar">
+			<span class="helloinner">
+				<p class="text">Uglii Global Campaigns for Web Builders, SEO's and Classified Ads.</p> <p class="jTrigger downarrow"><img src="/sitecms/wp-content/themes/uglii_blue/images/arrow-up.png" class="arrow" alt="Arrow Up"></p>
+			</span>
+		</div>
+		<span class="jRibbon jTrigger up"><img src="/sitecms/wp-content/themes/uglii_blue/images/arrow-down.png" class="arrow" alt="Arrow Down"></span>
+		<!-- /jBar -->
+		
 		<div id="wrapper">
 
 			<div id="header" class="blackGradient">
-
+  
 				<div class="row menu">
+					<div class="loginLink"><a href="http://sissbusinesssystems.com/userlogin/" target="_blank">Shareholders login</a></div>
 					
 					<div class="shadow_left"></div>
 					<h1><a href="http://www.uglii.com" title="Uglii - Every Business Every Country">Uglii<!--<span>Home</span>--></a></h1>
@@ -252,7 +285,7 @@ $('#fancybox-auto').trigger('click');
 
 					</div>
 					
-					<div class="column grid_2">
+					<div class="column grid_2 menu_two">
 
 						<h3>Coalition</h3>
 						<ul>
@@ -271,7 +304,10 @@ $('#fancybox-auto').trigger('click');
 							<li><a href="http://www.uglii.com/uglii-for-businesses">Business Benefits</a></li>
 							<li><a href="http://www.uglii.com/for-brand-owning-businesses">Brand Owners</a></li>
 						</ul>
-
+						<h3>Global Campaigns</h3>
+						<ul>
+							<li><a href="http://www.uglii.com/campaigns">Campaigns Overview</a></li>
+						</ul>
 					</div>
 					
 					<div class="column grid_2 last_menu">
@@ -527,7 +563,7 @@ Complaints can also be lodged in Australia with the Federal Privacy Commissioner
 					<li id="nav_menu-7" class="widget widget_nav_menu column grid_3"><h5 class="offscreen">About Uglii</h5><div class="menu-about-menu-container"><ul id="menu-about-menu" class="menu"><li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="http://www.uglii.com/introduction">Introduction</a></li>
 <li id="menu-item-2065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2065"><a href="http://www.uglii.com/uglii-taxonomy">Uglii Taxonomy</a></li>
 <li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="http://www.uglii.com/spatial-marketplace-systems">Spatial Marketplace</a></li>
-<li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2064"><a href="http://www.uglii.com/uglii-legiti-mate">Uglii Legiti-Mate</a></li>
+<li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2064"><a href="http://www.uglii.com/uglii-gov-biz-mate">Uglii Gov-Biz Mate</a></li>
 <li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="http://www.uglii.com/uglii-search">Uglii Search</a></li>
 <li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="http://www.uglii.com/uglii-find">Uglii Find</a></li>
 <li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="http://www.uglii.com/uglii-brands">Uglii Brands</a></li>
@@ -538,7 +574,6 @@ Complaints can also be lodged in Australia with the Federal Privacy Commissioner
 <li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="http://www.uglii.com/uglii-globalization">Uglii Globalization</a></li>
 <li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="http://www.uglii.com/global-business-number">Uglii Global Business Number</a></li>
 <li id="menu-item-751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="http://www.uglii.com/uglii-service-pricing">Uglii Service Pricing</a></li>
-<li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="http://www.uglii.com/the-uglii-bull-pit">The Uglii Bull Pit</a></li>
 <li id="menu-item-1442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1442"><a href="http://www.uglii.com/uglii-icomp">Uglii and ICOMP</a></li>
 </ul></div></li><li id="nav_menu-8" class="widget widget_nav_menu column grid_3"><h5 class="offscreen">Uglii Benefits</h5><div class="menu-uglii-benefits-container"><ul id="menu-uglii-benefits" class="menu"><li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="http://www.uglii.com/businesses">Uglii for Businesses</a></li>
 <li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="http://www.uglii.com/for-brand-owning-businesses">Brand Owners</a></li>
@@ -628,4 +663,4 @@ Australia Operating Company: SISS Oceania Operations Pty Ltd trading  as Uglii A
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Served from: www.uglii.com @ 2012-06-19 02:17:11 --></body></html>
+Served from: www.uglii.com @ 2012-10-15 19:12:28 --></body></html>
