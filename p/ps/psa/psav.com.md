@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the psav.com privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325052129id_/http%3A//www.psav.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psav.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015071209id_/http%3A//www.psav.com/node/113) for the most accurate reproduction.*
 
 # Privacy | PSAV
 
 ## How We Protect Your Privacy
 
-The privacy and security of your personal information is very important to us. We do not share your personal information in ways not disclosed in our privacy policy or without your informed permission. We value your trust very highly, and we strive to protect the confidentiality and appropriate use of any personal information you provide to us. Details are described in our Updated Privacy Policy ([www.psav.com/PrivacyPolicy](https://web.archive.org/PrivacyPolicy)).
+The privacy and security of your personal information is very important to us. We do not share your personal information in ways not disclosed in our privacy policy or without your informed permission. We value your trust highly, and strive to protect the confidentiality and appropriate use of any personal information you provide to us. Details are described below.
 
 PSAV Presentation Services complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. psav.com participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. If you have any complaints regarding our compliance with the Safe Harbor you should contact us (as provided above).
 
