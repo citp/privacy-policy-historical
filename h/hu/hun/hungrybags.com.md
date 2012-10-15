@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the hungrybags.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626171029id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungrybags.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015081703id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HungryBags
 
-### Private Policy of Hungry Bags, a part of Travel Kamp Pvt. Ltd.
+### Privacy Policy of Hungry Bags Pvt. Ltd.
 
-Hungry Bags an online Travel Portal that provides information on various cities of the world and recommend hotels, vacation Rentals, travel packages, cruises etc through visitors opinion. Our Web site is part of the Travel Kamp Pvt. Ltd. and the same is based out of New Delhi India.
+Hungry Bags an online Travel Portal that provides information on various cities of the world and recommend hotels, vacation Rentals, travel packages, cruises etc through visitors opinion. Our Web site is part of 
+
+Hungry Bags Pvt. Ltd. and the same is based out of New Delhi India.
 
 We believe in our visitors for giving their opinion / views on any subject and the same is not biased. We are taking all measures to ensure that all the personal information shared by our visitor shall remains confidential. We recommend our visitors that before submitting they submit their personal information on our Web site, please read this Policy carefully to learn about our privacy practices. Please read this private policy of www.hungrybags.com, we assume that you are accepting the practices described herein.
 
@@ -28,4 +30,4 @@ www.hungrybags.com can be accessed by visitors in general in any part of the wor
 
 ### Changes to Private Policy
 
-Hungry Bags, a part of Travel Kamp Pvt Ltd reserves sole rights to add / modify the private policy at any time. Although we update our visitors such changes through emails but we still recommend visitors of our site to read private policy periodically before using the site. In case of any information on data protection, You can always write to us at: dataprotection@hungrybags.com We would be glad to help you as soon as possible. 
+Hungry Bags Pvt Ltd reserves sole rights to add / modify the private policy at any time. Although we update our visitors such changes through emails but we still recommend visitors of our site to read private policy periodically before using the site. In case of any information on data protection, You can always write to us at: dataprotection@hungrybags.com We would be glad to help you as soon as possible. 
