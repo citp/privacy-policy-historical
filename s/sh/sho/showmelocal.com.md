@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531034124id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015134813id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ShowMeLocal.com - Privacy Policy
 
@@ -42,7 +42,9 @@ As is true of most Web sites, we automatically gather information about your com
 
 
 **Choice/Opt-Out**   
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@showmelocal.com. Social Networks 
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@showmelocal.com. 
+
+Social Networks 
 
 We enable you to create a profile, and share information such as messages, photos, and videos with others within your network. We cannot control the actions of others with whom you may choose to share your pages and information. Also we cannot guarantee that the content you post on our site will not be viewed by others outside your network. Information Obtained from Third Parties 
 
@@ -95,8 +97,9 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:   
 ShowMeLocal Inc.  
-610 East 16th  
-Brooklyn, NY 11226   
+1733 Sheepshead Bay Road, Suite 18  
+Brooklyn, NY 11235   
 United States  
-Email: support@showmelocal.com  
+Email: support@showmelocal.com 
+
 [](http://privacy.truste.com/certified-privacy/ShowMeLocal-Inc./validation?validationId=e840bd46-77d3-4643-ba3e-535aadcb6e47 "ShowMeLocal Inc. Privacy Seal Certification")
