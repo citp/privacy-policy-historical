@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504063511id_/http%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015154953id_/http%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
 
 # coderwall.com : establishing geek cred since 1305712800
-
-## Privacy Policy
 
 #### UPDATED August 15th 2011
 
