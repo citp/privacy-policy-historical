@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192439id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016000905id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -92,6 +92,12 @@ Changes To The Privacy Policy:
 By registering to use the UniqueRewards service, you agree to accept this privacy policy and are aware that UniqueRewards' s privacy policy is subject to change. We strongly advise our members to check back periodically to this page. We also welcome any feedback from you; please e-mail us at: [support@UniqueRewards.com](mailto:support@UniqueRewards.com) if you have any comments regarding the information provided or suggestions for improvements that can be made to this privacy policy. 
 
 |  | 
+
+[](https://web.archive.org/cgi-bin/click.cgi?mid=12732)
+
+**Paid For Research - 20 Simple Questions**
+
+Complete easy 20 question survey!
 
 [](https://web.archive.org/cgi-bin/click.cgi?mid=3914)
 
