@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eukhost.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530063857id_/http%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eukhost.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015205713id_/http%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # eUKhost's : Privacy Policy
 
@@ -8,6 +8,39 @@ eUKhost.com would always be zealous & devoted towards safeguarding your complete
 
 We use cookies as part of a normal business procedure to know about the trends of behaviour of visitors to our site. A cookie is an element of data that our website sends to your browser which is then stored on your system. You can set your browser to prevent this happening. Any information collected in this way can be used to identify you unless you change your browser settings.
 
+**Third Party Cookies**  
+---  
+**Live Chat** |   |    
+**Cookie** | **Name** | **Purpose**  
+LivePersonID | **Live Person** | This cookie is used in conjunction with the HumanClickKEY cookie (described below) to gather usage data related to a visitor's visit to a LivePerson customer's website. 
+
+This cookie is a persistent cookie that remains on the visitor's browser for up to 12 months after which time it is automatically deleted.   
+  
+HumanClickSiteContainer ID_ | This cookie is used by LivePerson with respect to its largest customers in order to allow LivePerson to distribute usage of its services across a cluster of servers (for load balancing purposes).   
+This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser.   
+HumanClickKEY | This cookie is used to identify a visitor's session on a customer's website and monitor the pages viewed by the visitor on the customer's website, the time spent by the visitor on pages of the customer's website and other usage data related to the visitor's visit to the customer's website.   
+HumanClickACTIVE | This cookie (sometimes referred to as an acceptance test cookie) is used to determine whether a cookie can be set on a browser. This cookie is set when LivePerson's services initiate monitoring.   
+This cookie is a persistent cookie that expires after 24 hours.   
+HumanClickCHATKEY | This cookie is used for security purposes to identify each LP Chat and LP Voice communication session.   
+This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser.   
+LPit | It is set when the visitor to the customer's website requests to engage in a chat session with the customer.   
+This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser.   
+  |   |    
+**Billing Software** |   |    
+**Cookie** | **Name** | **Purpose**  
+HOSTBILLEmailAddress | **HostBill** | To store client area username *  
+HOSTBILLPassword | client area password (format - md5 salt) *  
+  |   | * Above cookie will create only on, If client tick on "Remember me"  
+  |   |    
+**Helpdesk** |   |    
+**Cookie** | **Name** | **Purpose**  
+SWIFT_sessionid  | **Kayako** | Any user that logs into the helpdesk  
+SWIFT_sessionid  | Any user that loads a helpdesk page  
+SWIFT_visitor | Any user that loads a live chat, click-to-call or visitor tracking button on a 'tagged web page'  
+SWIFT_scloginpassword  
+SWIFT_scloginpassword | Any user that logs into the helpdesk and ticks the 'Remember Me' box  
+  |   |    
+  
 **Electronic Communication**
 
 We ask you to provide your email address to us during the signup process to be able to communicate with you. We normally send all our notifications through emails which we have for your account on our record. We also need your email address while registering a domain name for you. This is mandatory as per our domain registrar - Enom Inc.
