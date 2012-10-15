@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505063901id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015024544id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Food Network UK
+# Privacy And Cookies Policy @FoodNetwork_UK
 
 WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE. 
 
-Welcome to foodnetwork.co.uk. foodnetwork.co.uk (“Website”) is an interactive online service operated by UpMyStreet.com Limited (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy. 
+Welcome to foodnetwork.co.uk. foodnetwork.co.uk (“Website”) is an interactive online service operated by Lightdragon Holdings Limited (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy. 
 
-For the purposes of the Data Protection Act 1998 ("Act") the data controller is UpMyStreet.com Limited with a registered address of 111 Buckingham Palace Road, London SW1 0SR.
+For the purposes of the Data Protection Act 1998 ("Act") the data controller is Lightdragon Holdings Limited with a registered address of 111 Buckingham Palace Road, London SW1 0SR.
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources. 
 
@@ -31,7 +31,7 @@ Our Website typically collects two kinds of information about you: (a) informati
 
 The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“affiliated companies”), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below. 
 
-In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) � e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. 
+In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. 
 
 In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a competition or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships.
 
@@ -45,15 +45,60 @@ We use non-personal information in a variety of ways, including to help analyze 
 
 (1)IP Addresses: 
 
-An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. IP addresses are considered non-personal information (except where used to identify individuals) and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor�s session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website�s users or the general public.
+An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. IP addresses are considered non-personal information (except where used to identify individuals) and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
 
 (2)Cookies, etc.: 
 
-“Cookies” are small text files from a website that are stored on your hard drive. These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. 
+We may use cookies and other similar technologies to ensure you get the best from our Website. “Cookies” are small text files from a website that are stored on your computer, mobile phone or other device. These text files make using our Website more convenient by, among other things, recognising you when you return, saving your passwords and preferences and may help us to customise our Website for you based on your preferences. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other similar technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. 
 
-Please note that advertisers that serve advertisements on our Website may also use their own cookies and other technological tools which are subject to the advertiser�s privacy policies, not this Privacy Policy. 
+To optimise your experience on our Website and to help us to improve it, your computer, mobile phone or other device will need to accept cookies. If it doesn't, you may not be able to take advantage of all the features of our Website, including certain personalised features. You can give us your consent by pressing the continue button in the Website when we ask for your consent to use cookies. Here is a list of the main cookies we use and what each cookie is used for:
 
-If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. 
+_First Party Cookies_   
+The following cookies are used to improve our Website and do not contain any personal information that would allow us to identify you (such as your name or other contact details). 
+
+**_Cookie Name_** | **_Cookie Purpose_**  
+---|---  
+SESS* | **Really important cookies**   
+This cookie allows our server to recognise you as a returning visitor, in order for us to allow you to log into the website and store user preferences.  
+FN_nginx | This cookie is set when you are logged into the website and is used to help our caching servers work out whether to serve you cached pages or not.  
+FN_UK_cookie_accept | This cookie is set once you have pressed the "continue" button to tell us you have accepted the use of cookies on our website, to stop us from showing you the message again.  
+FN_UK_agecheck | This cookie is set once you have pressed the "confirm" button to tell us you are aged 18 and over to view age-restricted content, to stop us repeating the message on another video.  
+**Google Analytics:** _utma, _utmb, _utmc, utmz   
+**Ominiture:** s_cc, s_nr, s_ppv, s_sq   
+**Chartbeat Analytics:** _chartbeat2   
+**Clicktale Analytics:** WRUID  | **Analytics**   
+We use analytics software to help analyse use of our website. These cookies enable us to collect standard internet log information and visitor behaviour, such as new visitor numbers, interactions and paths through our website, response to our marketing campaigns and browser usage, all in an anonymous form. This information is important to help us understand how people use our website, how our website is performing and to make it as easy to use and useful as possible.   
+**InSkin Media:** InSkinSessionID, InSkinUserID | **Advertising**   
+InSkin Media is our ad serving supplier. They use cookies for the purpose of serving advertisements and ensuring they are relevant to you.   
+  
+_Third Party Cookies_
+
+**_Cookie Name_** | **_Cookie Purpose_**  
+---|---  
+**DoubleClick:** NGUserID, id   
+**Specific Media:** ug, JSESSIONID  |  **Advertising**   
+Our ad serving suppliers, DoubleClick and Specific Media use cookies for the purpose of serving our internet advertisements on other sites. The cookies accompanying the ads allow our suppliers and their advertisers to monitor the effectiveness of the ads and make the ads more relevant to you. Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to track user interactions on these pages. They may also report back some information to our ad serving suppliers about the interaction performed.   
+**AddThis.com:** dt, loc, psc, uid, uit, uvc   
+**Google + 1 button:** NID, PREF  |  **Content Sharing**  
+Our suppliers use cookies to give our users a simple way to share content across the social web and tell us how many visitors are sharing content.   
+  
+Our Website displays video content using Adobe Flash Player. Adobe uses Flash cookies (also known as Local Shared Objects) to help improve your user experience. Flash cookies are stored on your computer, mobile phone or other device in much the same way as usual cookies, but your browser manages them differently. If you wish to disable or delete a Flash cookie, see Adobe Flashplayer Security Settings. Please bear in mind though, that if you disable Flash cookies for the Website you'll be unable to access certain types of content on the Website, such as videos.
+
+We sometimes carry embedded "Share" and "Like" buttons to enable our users to easily share articles through social networks such as Facebook and Twitter. These sites may set a cookie when you are also logged into their service. We do not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
+
+We also sometimes embed content from websites such as YouTube. As a result, when you visit a page with content embedded from these websites you may be presented with cookies from these websites. We do not control the dissemination of these cookies. You should check the relevant third party website for more information about these.
+
+Please note that advertisers that serve advertisements on our Website may also use their own cookies and other similar technological tools which are subject to the advertiser's privacy policies, not this Privacy Policy. We have no control over cookies placed on our Website by these third parties.
+
+**It is a condition of using our Website that you accept these cookies, so please be aware that if you restrict or prevent them, we cannot guarantee how our Website will work for you. If you continue to use and browse our Website, you are consenting to cookies being used in accordance with this Privacy Policy.**
+
+If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your computer, mobile phone or other device. You may also delete a cookie manually from your computer, mobile phone or other device through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. 
+
+For more information on how to see what cookies have been set and how to manage and delete them, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+The internet advertising industry has also produced a guide to online privacy and behavioural advertising, please see [www.youronlinechoices.eu](http://www.youronlinechoices.com/uk/). 
+
+We may change and update our list of cookies from time to time. If you use our cookies after we have published these changes, you will be agreeing to be bound by those changes. If you do not consent to the use of the cookies at any time, please see above on how to disable cookies.
 
 (3)Email Communications: 
 
@@ -65,7 +110,7 @@ As we continue to develop our business, we may sell or purchase assets. If anoth
 
 (5)Other: 
 
-Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website�s users or the general public.
+Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
 
 #### D. WHERE WE STORE YOUR INFORMATION
 
@@ -79,7 +124,7 @@ We may offer chat rooms, message boards, bulletin boards, or similar public foru
 
 #### F. CHILDREN 
 
-The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at privacy@foodnetwork.co.uk. A parent or guardian of a child under the age of 13 may review and request deletion of such child�s personally identifiable information as well as prohibit the use thereof.
+The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at privacy@foodnetwork.co.uk. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
 
 #### G.  KEEPING YOUR INFORMATION SECURE 
 
@@ -93,7 +138,7 @@ Our Website may link to or contain links to other third party websites that we d
 
 You may contact us as at privacy@foodnetwork.co.uk if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
-The Data Protection Act 1998 gives you the right to access information held about you and the right to apply for rectification, blocking, erasure and destruction of inaccurate information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of �10 to meet our costs in providing you with details of the information we hold about you. Please send your access request to privacy@foodnetwork.co.uk.
+The Data Protection Act 1998 gives you the right to access information held about you and the right to apply for rectification, blocking, erasure and destruction of inaccurate information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Please send your access request to privacy@foodnetwork.co.uk.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. 
 
@@ -101,4 +146,4 @@ We will respond to your request and, if applicable and appropriate, make the req
 
 This Privacy Policy as posted on this Site is the sole statement of our privacy policy with respect to this Site, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Site.
 
-Effective: November 12, 2008 � 2008 UpMyStreet.com Limited. All Rights Reserved.
+Effective: November 12, 2008 © 2008 Lightdragon Holdings Limited. All Rights Reserved.
