@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626151648id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016011833id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - House of Fraser
 
-We understand that your privacy is important and we will treat any personal information you provide us as confidential and this will only be used and recorded in accordance with the Data Protection Act 1998. We promise to look after your personal information and we will not sell any information about you to any other party.
+We understand that your privacy is important and we will treat any personal information you provide us as confidential and this will only be used and recorded in accordance with the Data Protection Act 1998. We promise to look after your personal information and we will not sell any information about you to any other party. Please also refer to our [Cookie Policy](https://web.archive.org/Cookies/Cookies,default,pg.html).
 
 ## Personal information
 
@@ -42,7 +42,7 @@ In accordance with the Wireless Telegraphy Act 1967 (as amended), we are obliged
 
 House of Fraser uses the latest in Secure Server Technology (SSL – 128bit encryption) to ensure that all of your personal and transactional information is protected to the highest standards. We never make your personal details available to companies outside House of Fraser for marketing purposes, although our representatives and appointed agents and business partners may hold your data, so that your details and/or order can be processed and/or account maintained. House of Fraser (Stores) Ltd is registered with the Information Commissioners Office as a Data Controller. We will comply with the standard, procedures and requirements as laid down in the Data Protection Acts 1984 and 1998 and to ensure that your personal data is kept secure and processed as required by the various laws in force from time-to-time.
 
-Additionally, the data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by employees operating outside the EEA who work for us or for our third party suppliers. Such employees maybe engaged in, among other things, the processing of your payment details and the provision of support services. We will ensure that we have the necessary contracts and that other mechanisms are in place to ensure your data continues to be treated in accordance with the provisions of the Act. By submitting your personal data on our website, you agree to this transfer, storing or processing. 
+Additionally, the data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by employees operating outside the EEA who work for us or for our third party suppliers. Such employees maybe engaged in, among other things, the processing of your payment details and the provision of support services. We will ensure that we have the necessary contracts and that other mechanisms are in place to ensure your data continues to be treated in accordance with the provisions of the Act. By submitting your personal data on our website, you agree to this transfer, storing or processing.
 
 ## Cookies
 
