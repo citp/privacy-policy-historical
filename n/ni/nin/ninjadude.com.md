@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjadude.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501120827id_/http%3A//www.ninjadude.com/index.php/terms-of-use-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjadude.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015164652id_/http%3A//www.ninjadude.com/index.php/terms-of-use-privacy-policy) for the most accurate reproduction.*
 
 # - Terms Of Use & Privacy Policy At NinjaDude.com Celebrity Gossip And Pictures Posted Daily!
 
