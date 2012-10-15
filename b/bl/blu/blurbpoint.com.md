@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blurbpoint.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622010700id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurbpoint.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015082127id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Blurbpoint: Privacy & Policy
 
-Blurbpoint: Privacy & PolicyELSNER has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@blurbpoint.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification only covers information collected on [www.blurbpoint.com](http://www.blurbpoint.com/). 
+Blurbpoint: Privacy & Policy **Please ocme urgent Your privacy is important to us & we have a few fundamental principles:**
 
 **Information Collection & Use**
 
