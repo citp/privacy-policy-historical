@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urpad.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620042108id_/http%3A//www.urpad.net/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urpad.net privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015234159id_/http%3A//www.urpad.net/privacy-policy.shtml) for the most accurate reproduction.*
 
 # URPad | Privacy Policy
 
