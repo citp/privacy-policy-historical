@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605090421id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015030730id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
 
-# Our Privacy and Cookie Policy | from Delia Online
+# Our Privacy and Cookie Policy - from Delia Online
 
-[Return to listing](https://web.archive.org/web/20120605090421id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html)
+[Return to listing](https://web.archive.org/equipment/blowtorches.html)
 
 At Delia Online we are committed to protecting your privacy. Any personal information we request from you will be safeguarded under the Data Protection Act 1998. This Act regulates the processing of information relating to individuals, including the holding, use or disclosure of such information. Our data is stored in a secure database protected by a number of access controls. 
 
