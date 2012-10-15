@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512212841id_/http%3A//www.wthr.com/story/18990/this) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016005117id_/http%3A//www.wthr.com/story/18990/this) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - 13 WTHR Indianapolis
 
