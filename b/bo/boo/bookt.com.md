@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookt.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130045407id_/http%3A//www.bookt.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookt.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015031214id_/http%3A//www.bookt.com/misc/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy for www.bookt.
+# 
 
 We've provided this Privacy Policy, which sets forth our terms regarding the collection, use and protection of the personal information of those using the Bookt LLC website. Personal information means information that can be linked to a specific individual, such as name, address, ip address, telephone number, e-mail address and credit card number. 
 
