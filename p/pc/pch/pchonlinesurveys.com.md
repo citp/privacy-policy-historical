@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504195435id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx%3FChapterId%3D13075) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015153027id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx%3FChapterId%3D13075) for the most accurate reproduction.*
 
 # PCH
 
@@ -133,6 +133,6 @@ When contacting us, please include your full name and specific information regar
 
 By completing and submitting a registration form at the Website, you signify your agreement to, and acceptance of, this Privacy Statement. If you do not accept this Privacy Statement, please do not visit, and do not register with, the Website. We hereby reserve the right to make changes to this Privacy Statement, from time to time, and we shall post any changes on the homepage of the Website, and/or any other place we deem appropriate, for you to review on a regular basis. Your continued membership, participation in surveys, visitation to the Website, or continued disclosure of Personal Information after changes to this Privacy Statement, constitutes your acceptance of, and agreement to be bound by, this Privacy Statement, as amended.  If we make material changes to this Privacy Statement, we shall notify you in this Privacy Statement, by e-mail, and/or by posting notice on the home page of the Website. 
 
-Please click [here](https://web.archive.org/web/20120504195435id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx?ChapterID=13075) for the most recent prior version of this Privacy Statement.
+Please click [here](https://web.archive.org/web/20121015153027id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx?ChapterID=13075) for the most recent prior version of this Privacy Statement.
 
 Last Updated: November 30, 2010
