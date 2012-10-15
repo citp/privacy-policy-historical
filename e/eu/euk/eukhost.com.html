@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eukhost.com privacy policy that was archived on 2012-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530063857id_/http%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eukhost.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015205713id_/http%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>eUKhost's : Privacy Policy</title>
@@ -21,7 +21,36 @@
 <!--Menuscript -->
 <script type="text/javascript" src="http://www.eukhost.com/js/menu.js"></script>
 <!--Menuscript -->
-<script type="text/javascript" src="http://www.eukhost.com/js/jquery.idTabs.min.js"></script>
+
+<!--Footerscript -->
+<script type="text/javascript" src="https://www.eukhost.com/js/crawler.js"></script>
+<!--Footerscript-->
+
+ <script type="text/javascript">
+marqueeInit({
+	uniqueid: 'mycrawler',
+	style: {
+		'padding': '10px 5px 5px 5px',
+		'width': '320px',
+		'height': '80px',
+		'margin': '5px 0 0 15px'
+	},
+	inc: 2, //speed - pixel increment for each iteration of this marquee's movement
+	mouse: 'pause', //mouseover behavior ('pause' 'cursor driven' or false)
+	moveatleast: 2,
+	neutral: 150,
+	savedirection: true,
+	direction: 'right', 
+	random: true
+});
+</script>
+
+
+
+	<script type="text/javascript" src="http://www.eukhost.com/js/jquery.idTabs.min.js"></script>
+
+<!---->
+
 <!--Tab Slide Out -->
 <script type="text/javascript" src="http://www.eukhost.com/js/jquery.tabSlideOut.v1.3.js"></script>
 <script type="text/javascript" src="http://www.eukhost.com/js/jquery.meerkat.1.3.js"></script>
@@ -121,24 +150,24 @@ jQuery(document).ready(function() {
 
 common(function(){
 	 common('.slide-out-div').tabSlideout({
-		 tabHandle: '.handle',                              //class of the element that will be your tab
-		 //pathToTabImage: 'images/contact_tab.gif',          //path to the image for the tab (optionaly can be set using css)
-		 imageHeight: '101px',                               //height of tab image
-		 imageWidth: '35px',                               //width of tab image    
-		 tabLocation: 'left',                               //side of screen where tab lives, top, right, bottom, or left
-		 speed: 1000,                                        //speed of animation
-		 action: 'hover',                                   //options: 'click' or 'hover', action to trigger animation
-		 topPos: '200px',                                   //position from the top
-		 fixedPosition: true                               //options: true makes it stick(fixed position) on scroll
+		 tabHandle: '.handle',                              
+		 //pathToTabImage: 'images/contact_tab.gif',        
+		 imageHeight: '101px',                              
+		 imageWidth: '35px',                               
+		 tabLocation: 'left',                              
+		 speed: 700,                                       
+		 topPos: '200px',                                  
+		 fixedPosition: true                               
 	 });
  });
 
+
 common(function(){
   common('#meerkat').meerkat({
-	  background: 'url(http://www.eukhost.com/images/meerkat-right-bg.png) repeat-y left top',
-	  height: '100%',
-	  width: '150px',
-	  position: 'right',
+	  background: 'url(http://www.eukhost.com/images/meerkat-right-bg.png) repeat-y right top',
+	  height: '125px',
+	  width: '125px',
+	  position: 'bottom',
 	  close: '.close-meerkat',
 	  dontShowAgain: '.dont-show',
 	  animationIn: 'slide',
@@ -149,70 +178,550 @@ common(function(){
 
 </script>
 
+<script type="text/javascript" src="http://www.eukhost.com/js/src/adapter/shadowbox-base.js"></script>
+<script type="text/javascript" src="http://www.eukhost.com/js/src/shadowbox.js"></script>
+<script type="text/javascript">
+
+Shadowbox.loadSkin('classic', 'http://www.eukhost.com/js/src/skin');
+Shadowbox.loadLanguage('en', 'http://www.eukhost.com/js/src/lang');
+Shadowbox.loadPlayer(['flv', 'html', 'iframe', 'img', 'qt', 'swf', 'wmp'], 'http://www.eukhost.com/js/src/player');
+
+window.onload = function(){
+
+    Shadowbox.init();
+
+    /**
+     * Note: The following function call is not necessary in your own project.
+     * It is only used here to set up the demonstrations on this page.
+     */
+    //initDemos();
+
+};
+</script>
+
+
 <!-- PNG FIX for IE6 -->
 <!--[if lte IE 6]>
     <script type="text/javascript" src="js/pngfix/supersleight.js"></script>
 <![endif]-->
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=59448507"></script></head>
+<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+
+			/*
+			 *  Different effects
+			 */
+
+			// Change title type, overlay opening speed and opacity
+			$(".fancybox-effects-a").fancybox({
+				helpers: {
+					title : {
+						type : 'outside'
+					},
+					overlay : {
+						speedIn : 500,
+						opacity : 0.95
+					}
+				}
+			});
+
+			// Disable opening and closing animations, change title type
+			$(".fancybox-effects-b").fancybox({
+				openEffect  : 'none',
+				closeEffect	: 'none',
+
+				helpers : {
+					title : {
+						type : 'over'
+					}
+				}
+			});
+
+			// Set custom style, close if clicked, change title type and overlay color
+			$(".fancybox-effects-c").fancybox({
+				wrapCSS    : 'fancybox-custom',
+				closeClick : true,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					overlay : {
+						css : {
+							'background-color' : '#eee'
+						}
+					}
+				}
+			});
+
+			// Remove padding, set opening and closing animations, close if clicked and disable overlay
+			$(".fancybox-effects-d").fancybox({
+				padding: 0,
+
+				openEffect : 'elastic',
+				openSpeed  : 150,
+
+				closeEffect : 'elastic',
+				closeSpeed  : 150,
+
+				closeClick : true,
+
+				helpers : {
+					overlay : {
+						css : {
+							'background-color' : '#eee'
+						},
+						opacity : 0.8
+					}
+				}
+			});
+
+			/*
+			 *  Button helper. Disable animations, hide close button, change title type and content
+			 */
+
+			$('.fancybox-buttons').fancybox({
+				openEffect  : 'none',
+				closeEffect : 'none',
+
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					buttons	: {}
+				},
+
+				afterLoad : function() {
+					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+				}
+			});
+
+
+			/*
+			 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+			 */
+
+			$('.fancybox-thumbs').fancybox({
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+				arrows    : false,
+				nextClick : true,
+
+				helpers : {
+					thumbs : {
+						width  : 50,
+						height : 50
+					}
+				}
+			});
+
+			/*
+			 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+			*/
+			$('.fancybox-media')
+				.attr('rel', 'media-gallery')
+				.fancybox({
+					openEffect : 'none',
+					closeEffect : 'none',
+					prevEffect : 'none',
+					nextEffect : 'none',
+
+					arrows : false,
+					helpers : {
+						media : {},
+						buttons : {}
+					}
+				});
+
+			/*
+			 *  Open manually
+			 */
+
+			$("#fancybox-manual-a").click(function() {
+				$.fancybox.open('1_b.jpg');
+			});
+
+			$("#fancybox-manual-b").click(function() {
+				$.fancybox.open({
+					href : 'iframe.html',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+			$("#fancybox-manual-c").click(function() {
+				$.fancybox.open([
+					{
+						href : '1_b.jpg',
+						title : 'My title'
+					}, {
+						href : '2_b.jpg',
+						title : '2nd title'
+					}, {
+						href : '3_b.jpg'
+					}
+				], {
+					helpers : {
+						thumbs : {
+							width: 75,
+							height: 50
+						}
+					}
+				});
+			});
+
+
+		});
+	</script>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=59448507"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
   <div class="wrappers">
     <div class="container">
       <div id="header">
-		        <div class="top_header">
-          <span class="logo"><a href="http://www.eukhost.com/"><img src="http://www.eukhost.com/images/logo.jpg" width="264" height="94" alt=""></a></span>
+		      
+        <div class="top_header">
+          <span class="logo"><a href="http://www.eukhost.com/"><span>Hosted Data Privacy Policy</span></a></span>
           <div class="chat_box">
           <span class="chat"><a href="Javascript:openchat();"></a></span>
-          <span class="numbers">Sales : 0800-862-0380 | Support :  0808-262-0455</span>
+          <span class="numbers">Sales: 0800 862 0380&nbsp;&nbsp;Support:  0808 262 0455</span>
           <div id="chatbub"><a href="Javascript:openchat();"><img src="http://www.eukhost.com/images/chat_bubble.gif" width="97" height="29" alt=""></a></div><!--chatbub-->
           <!--<div id="grbtns"><a href="support.php">Contact Us</a></div>
           <div id="grbtns"><a href="about-us.php">About Us</a></div>-->
           </div><!--chat_box-->
         </div><!--top_header-->
+        <!--menu-->
         <div class="menu">
           <ul id="nav">
-          <li class="icon"><a href="http://www.eukhost.com/" title="Home"><img src="http://www.eukhost.com/images/home_icon.jpg" width="26" height="32" alt="Home"></a></li>
-           
-            <li class="top"><a href="javascript: void(0);" class="top_link">SHARED HOSTING</a>
+          <!--<li class="icon"><a href="" title="Home"><img src="images/home_icon.jpg" width="26" height="32" alt="Home" ></a></li>-->
+            <li class="top"><a href="http://www.eukhost.com/" class="top_link">Home</a></li>
+            <li class="top"><a href="http://www.eukhost.com/cpanel-web-hosting.php" class="top_link">Shared Hosting</a>
               <ul class="sub">
-                <li class="linesb"><a href="http://www.eukhost.com/cpanel-web-hosting.php">cPanel Hosting</a></li>
-                <li class="linesb"><a href="http://www.eukhost.com/windows-web-hosting.php">Windows Web Hosting</a></li>
-                <!--<li class="linesb"><a href="coldfusion-hosting.php">Coldfusion Hosting</a></li>
-                <li class="linesb"><a href="monthly.php">Monthly Shared Hosting</a></li>-->
-                <li><a href="http://www.eukhost.com/business-web-hosting.php">Business Web Hosting</a></li>
+                  <li>
+                    <table width="100%" cellspacing="00" cellpadding="00">
+                      <tbody><tr>
+                        <td width="240"><div class="navmenu">
+                          <h1>Shared Hosting</h1>
+                         <img src="http://www.eukhost.com/images/menu-category/shared-hosting.png" width="204" height="220" alt="shared-hosting">
+                        </div></td>
+                        <td width="240"><div class="navmenu">
+                          <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="pricem"><span class="dollar">£</span> <span class="pricem">2.<span>50</span></span> <span class="month">per month</span>
+                          </div>
+                          <h2><a href="http://www.eukhost.com/cpanel-web-hosting.php">cPanel Hosting</a></h2>
+                          <span>cPanel Hosting is a perfect all-round hosting package for small / medium websites, blogs and forums.</span>
+                           <br>
+<a href="http://www.eukhost.com/cpanel-web-hosting.php" class="nvnew"><span>View All Plans</span></a>
+                          </div></td>
+                                                    
+                        <td width="240"><div class="navmenu">
+                          <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="pricem"><span class="dollar">£</span> <span class="pricem">4.<span>18 </span></span><span class="month">per month</span>
+                          </div>
+                          <h2><a href="http://www.eukhost.com/windows-web-hosting.php">Windows Hosting</a></h2>
+                          <span>Windows Hosting with Plesk is ideal for small to mid size websites using technologies like ASP.NET. </span>
+                           <br>
+<a href="http://www.eukhost.com/windows-web-hosting.php" class="nvnew"><span>View All Plans</span></a>
+                          </div>
+                         </td>
+                          
+                        <td width="240"><div class="navmenu">
+                          <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="pricem"><span class="dollar">£</span> <span class="pricem">19.<span>99</span></span> <span class="month">per month</span>
+                          </div>
+                          <h2><a href="http://www.eukhost.com/business-web-hosting.php">Business Hosting</a></h2>
+                          <span>Business Hosting has all the features of shared hosting with disaster recovery for 100% uptime.</span>
+                          
+                           <br>
+<a href="http://www.eukhost.com/business-web-hosting.php" class="nvnew"><span>View All Plans</span></a>
+                          <div class="clr"></div></div></td>
+                      </tr>
+                    </tbody></table>
+                  </li>
+              </ul>
+             
+            </li>
+            <li class="top"><a href="http://www.eukhost.com/reseller-hosting.php" class="top_link">Reseller Hosting</a>
+              <ul class="sub">
+                  <li>
+                    <table width="100%" cellspacing="00" cellpadding="00">
+                      <tbody><tr>
+                        <td width="240"><div class="navmenu">
+                          <h1>Reseller Hosting</h1>
+                          <img src="http://www.eukhost.com/images/menu-category/reseller-hosting.png" width="204" height="220" alt="reseller-hosting"><br>
+                          
+<div style="font-size:11px; color:#fff; padding:0 30px 0 0;"><span style="font-weight:bold; color:#FFD013;">End User Support </span>- Sit back &amp; relax while we take care of your customer support 24x7.</div>
+
+                          </div></td>
+                        <td width="360"><div class="navmenu">
+                          <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="pricem"><span class="dollar">£</span> <span class="pricem">14.<span>99</span></span> <span class="month">per month</span> 
+                          </div>
+                          <h2><a href="http://www.eukhost.com/reseller-hosting.php">cPanel WHM Reseller Hosting</a></h2>
+                          <span>Linux Reseller Hosting is perfect for web designers, professionals and small web hosting providers for hosting multiple websites.</span>
+                         <br>
+<a href="http://www.eukhost.com/reseller-hosting.php" class="nvnew"><span>View All Plans</span></a>
+                          </div></td>
+                        <td width="360"><div class="navmenu">
+                          <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="pricem"><span class="dollar">£</span> <span class="pricem">14.<span>99</span></span> <span class="month">per month</span>
+                          </div>
+                          <span class="price"></span>
+<h2><a href="http://www.eukhost.com/windows-reseller-hosting.php">Windows Reseller Hosting</a></h2>
+                          <span>Windows Reseller Hosting is perfect for web designers, professionals and small hosting providers for hosting websites using Microsoft technologies.</span>
+                           <br>
+<a href="http://www.eukhost.com/windows-reseller-hosting.php" class="nvnew"><span>View All Plans</span></a>
+                          </div>
+                          <div class="clr"></div></td>
+                      </tr>
+                    </tbody></table>
+                  </li>
+              </ul>
+                          </li>
+						  
+						   <li class="top"><a href="http://www.eukhost.com/vps-hosting.php" class="top_link">VPS</a>
+              <ul class="sub">
+                  <li><table width="100%" cellspacing="00" cellpadding="00">
+                      <tbody><tr>
+                        <td width="240"><div class="navmenu">
+                          <h1>VPS Hosting</h1>
+                          <img src="http://www.eukhost.com/images/menu-category/vps-hosting.png" width="204" height="220" alt="vps-hosting"></div></td>
+						<td width="360"><div class="navmenu">
+                          <h2>From</h2>
+                          <div class="clr"></div>
+                          <div id="nammenu" class="pricem"><span class="dollar">£</span> <span class="prices">22.<span>00</span></span> <span class="month">per month</span>
+                          </div>
+                          <h2><a href="http://www.eukhost.com/vps-hosting.php">Linux VPS Hosting</a></h2>
+                          <span>Our Linux virtual private servers run on our vLite virtualisation platform. All virtual private servers come with full root access.</span>
+                           <br>
+<a href="http://www.eukhost.com/vps-hosting.php" class="nvnew"><span>View All Plans</span></a>
+                          </div></td>
+                        <td width="360"><div class="navmenu">
+                          <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="pricem"><span class="dollar">£</span> <span class="pricem">29.<span>00</span></span> <span class="month">per month</span>
+                          </div>
+                          <h2><a href="http://www.eukhost.com/windows-vps-hosting.php">Windows VPS Hosting</a></h2>
+                          <span>Windows VPS Hosting is perfect for those that make use of Microsoft technologies. Administrative RDP access included.</span>
+                           <br>
+<a href="http://www.eukhost.com/windows-vps-hosting.php" class="nvnew"><span>View All Plans</span></a>
+                          
+                          </div>
+                          <div class="clr"></div></td>
+                      </tr>
+                    </tbody></table></li>
+              </ul>            </li>
+			  
+			  <li class="top"><a href="http://www.eukhost.com/vmware-microsoft-hyper-v.php" class="top_link">Cloud</a>
+              <ul class="sub">
+                  <li>
+                    <table width="100%" cellspacing="00" cellpadding="00">
+                      <tbody><tr>
+                      	
+                        <td width="360"><div class="navmenu">
+                        
+                     <!--     <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="price"><span class="dollar">&pound;</span> <span class="prices">33.<span>00</span></span> <span class="month">per month</span>
+                          </div> -->
+                          <h2><a href="http://www.eukhost.com/vmware-microsoft-hyper-v.php">VMware/Hyper-V Cloud</a></h2>
+                          <span>VMware/Hyper-V Cloud Hosting is the perfect solution for websites where uptime is critical. Both VMware and Hyper-V offer similar level of reliability on Linux and Windows.
+</span><br>
+<a href="http://www.eukhost.com/vmware-microsoft-hyper-v.php" class="nvnew"><span>Read more</span></a>
+                                  </div> 
+                                  <div class="navmenu">
+		            <h2><a href="http://www.eukhost.com/cloud-copy.php">CloudCopy Cloud Storage</a></h2>
+                          <span>eUK CloudCopy secures your important files and data by keeping a copy safely online, in the cloud. It's hassle-free, completely secure and backs up data seamlessly!</span><br>
+<a href="http://www.eukhost.com/cloud-copy.php" class="nvnew"><span>Read more</span></a>
+		          </div>
+                                  </td>
+    <td width="240"><div class="navmenu">
+                          <h1 style="">Cloud Hosting</h1>
+                          <img src="http://www.eukhost.com/images/menu-category/enlight-cloud.png" width="204" height="220" alt="cloud-hosting"></div></td>
+	               <td width="360"><div class="navmenu">
+                <!--          <h2>At Just</h2>
+                          <div class="clr"></div>
+                          <div class="price"><span class="dollar">&pound;</span> <span class="prices">25.<span>00</span></span>
+                          </div>  -->
+                     <h2><a href="http://www.eukhost.com/enlight/">eNlight Cloud Hosting</a></h2>
+                          <span> eNlight provides a truly scalable cloud environment by calculating the need for additional resources and the need to withdraw them as and when required.</span>
+                           <br>
+                           <a href="http://www.eukhost.com/enlight/" class="nvnew"><span>Read more</span></a>
+			</div>
+            <div class="navmenu">
+		            <h2><a href="http://www.eukhost.com/private-cloud.php">Private Cloud Hosting</a></h2>
+			  <span>Enjoy the benefits of dedicated, dynamic and fully scalable resources without the need to purchase or maintain essential infrastructure.</span><br>
+	<a href="http://www.eukhost.com/private-cloud.php" class="nvnew"><span>Read more</span></a> 
+		          </div>
+                          </td>
+                      </tr>
+                    </tbody></table>
+                  </li>
+              </ul>            </li>
+			  
+            <li class="top"><a href="http://www.eukhost.com/dedicated-server-hosting.php" class="top_link">Dedicated Servers</a>
+              <ul class="sub">
+                  <li>
+                    <table width="100%" cellspacing="00" cellpadding="00">
+                      <tbody><tr>
+                        <td width="220"><div class="navmenu">
+                          <h1>Dedicated Servers</h1>
+                          <img src="http://www.eukhost.com/images/menu-category/dedicated-hosting.png" width="204" height="220" alt="dedicated-hosting"></div></td>
+                        <td width="360"><div class="navmenu">
+                       <!--   <h2>From</h2>
+                          <div class="clr"></div>
+                          <div class="price"><span class="dollar">&pound;</span> <span class="prices">55.<span>00</span></span> <span class="month">per month</span>
+                          </div> -->
+                          <h2><a href="http://www.eukhost.com/dedicated-server-hosting.php">Managed Dedicated Servers</a></h2>
+                          <span>Managed dedicated servers to suit every budget and requirements - Linux and Windows dedicated servers available.</span>
+                           <br>
+<a href="http://www.eukhost.com/dedicated-server-hosting.php" class="nvnew"><span>View All Servers</span></a>
+                          </div>
+                          <div class="navmenu">
+		            <h2><a href="http://www.eukhost.com/server-mirroring.php">Server Mirroring</a></h2>
+		            <span>A disaster recovery solution involving two identical dedicated servers prevents downtime &amp; data loss in the event of a failure.</span>
+		             <br><br>
+<a href="http://www.eukhost.com/server-mirroring.php" class="nvnew"><span>Read more</span></a>
+		          </div>
+                        </td>
+                        <td width="360"><div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/linux-load-balancing.php">Linux Load Balanced Servers</a></h2>
+                          <span>Linux Load Balanced; High Availability Servers ensure optimum performance by spreading the load across multiple servers.</span>
+                           <br>
+<a href="http://www.eukhost.com/linux-load-balancing.php" class="nvnew"><span>Read more</span></a>
+                          </div>
+                          <div class="navmenu">
+                            <h2><a href="http://www.eukhost.com/load-balanced-servers.php">Network Load Balanced Servers</a></h2>
+                            <span>Network Load Balancing and Clustering on Windows based dedicated servers for optimum performance, speed and redundancy.</span> <br>
+                        <a href="http://www.eukhost.com/load-balanced-servers.php" class="nvnew"><span>Read more</span></a> </div></td>
+                       
+                      </tr>
+                    </tbody></table>
+                    
+                  </li>
+              </ul>            </li>
+            <li class="top"><a href="javascript:void(0)" class="top_link">Addons</a>
+              <ul class="sub">
+                  <li>
+                    <table width="100%" cellspacing="00" cellpadding="00">
+                      <tbody><tr>
+                      	<td width="240"><div class="navmenu">
+                          <h1>Addons</h1>
+                          <img src="http://www.eukhost.com/images/menu-category/euk-addons.png" width="204" height="220" alt="addons"></div></td>
+                        <td width="240"><div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/website-passports.php">Website Passport</a></h2>
+                          <span>                          
+                          Website Passport offers next level of Website Authentication with multiple verification checks.</span>
+                           <br>
+<a href="http://www.eukhost.com/website-passports.php" class="nvnew"><span>Read more</span></a>
+                          
+                          </div>
+                          <div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/sitebuilder.php">Website Builder</a></h2>
+                          <span>
+                          Website Builder is a browser-based one-click publishing solution for website design and development. </span>
+                           <br>
+<a href="http://www.eukhost.com/sitebuilder.php" class="nvnew"><span>Read more</span></a>
+                          
+                          </div></td>
+                        <td width="240"><div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/ssl-certificates.php">SSL Certificates</a></h2>
+                          <span> Our SSL certificates protect the data being transmitted and also help against malware infections. </span>
+                           <br>
+<a href="http://www.eukhost.com/ssl-certificates.php" class="nvnew"><span>View plans</span></a>
+                          
+                          </div>
+                          <div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/cloud-storage.php">Remote Backups</a></h2>
+                          <span>
+                          Consider our remote backup service to maintain a separate backup of your individual account.
+                          
+                          </span>
+                           <br>
+<a href="http://www.eukhost.com/cloud-storage.php" class="nvnew"><span>Read more</span></a>
+                          
+                          </div></td>
+                        <td width="240"><div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/spam-expert.php">Spam Experts</a></h2>
+                          <span>SpamExperts uses spam definitions to identify and remove spam emails before they reach your inbox.</span>
+                           <br>
+<a href="http://www.eukhost.com/ssl-certificates.php" class="nvnew"><span>Read more</span></a>                          
+                          </div>
+                          
+                          <div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/pci-compliant-hosting.php"> PCI Compliance</a></h2>
+                          <span>PCI compliant hosting with advanced features for online   ecommerce websites. </span><br><br>
+<a href="http://www.eukhost.com/pci-compliant-hosting.php" class="nvnew"><span>Read more</span></a>                          
+                          </div>
+                          
+                          </td>
+                      </tr>
+                    </tbody></table>
+                  </li>
+              </ul>
+           </li>
+           <li class="top"><a href="https://billing.eukhost.com/shoppingcart.php?a=add&amp;domain=register" class="top_link" target="_blank">Domains</a>
+           <ul class="sub">
+                  <li>
+                    <table width="100%" cellspacing="00" cellpadding="00">
+                      <tbody><tr>
+                      <td width="240"><div class="navmenu">
+                          <h1>Domains</h1>
+                          <img src="http://www.eukhost.com/images/menu-category/domain-names.png" width="204" height="220" alt="addons"></div></td>
+                        <td width="360"><div class="navmenu">
+                          <h2><a href="https://billing.eukhost.com/shoppingcart.php?a=add&amp;domain=register">Domain Names</a></h2>
+                          <span>Buy a domain name with Web Hosting or buy separately at just £6 per year for .INFO registrations and £7.49 per year for .COM registrations.</span>
+                           <br>
+<a href="https://billing.eukhost.com/shoppingcart.php?a=add&amp;domain=register" class="nvnew"><span>Register a Domain</span></a>
+                          
+                          </div>
+                          <div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/whois-id-protection.php">Whois ID Protect</a></h2>
+                          <span>ICANN requires all domain registrants to have publicly-available contact information. You can hide this information with Whois ID Protect at £6 per year.</span>
+                           <br>
+<a href="http://www.eukhost.com/whois-id-protection.php" class="nvnew"><span>Read more</span></a>
+                          
+                          </div></td>
+                        <td width="360"><div class="navmenu">
+                          <h2><a href="http://www.eukhost.com/domain-web-hosting.php">Domain Web Hosting</a></h2>
+                          <span>You can park unlimited domain names with our domain name hosting service. Our domain web hosting starts at just £29.99 per year.</span>
+                           <br>
+<a href="http://www.eukhost.com/domain-web-hosting.php" class="nvnew"><span>View plans</span></a>
+                          
+                          </div>
+                          <div class="navmenu">
+                         
+
+
+
+
+                          <h2><a href="https://billing.eukhost.com/shoppingcart.php?a=add&amp;domain=register"> Available TLD's</a></h2>
+                          <span>Register domains from a wide range of TLDs and ccTLDs like .com , .net, .org, .info, .biz, .name, .co.uk, .uk.com, gb.com, .me.uk, .eu</span>
+                           and many more.<br>
+<a href="https://billing.eukhost.com/shoppingcart.php?a=add&amp;domain=register" class="nvnew"><span>Register a Domain now</span></a>                          
+                          </div></td>
+                      </tr>
+                    </tbody></table>
+                  </li>
               </ul>
             </li>
-            <li class="top"><a href="javascript: void(0);" class="top_link">RESELLER HOSTING</a>
-              <ul class="sub">
-                <li class="linesb"><a href="http://www.eukhost.com/reseller-hosting.php">Linux Reseller Hosting</a></li>
-                <li><a href="http://www.eukhost.com/windows-reseller-hosting.php">Windows Reseller Hosting</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="javascript: void(0);" class="top_link">VPS HOSTING</a>
-              <ul class="sub">
-                <li class="linesb"><a href="http://www.eukhost.com/vps-hosting.php">Linux VPS Hosting</a></li>
-                <li><a href="http://www.eukhost.com/windows-vps-hosting.php">Windows VPS Hosting</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="javascript: void(0);" class="top_link">CLOUD</a>
-              <ul class="sub">
-                <li class="linesb"><a href="http://www.eukhost.com/enlight/">eNlight Cloud</a></li>
-                <li class="linesb"><a href="http://www.eukhost.com/private-cloud.php">Private Cloud Hosting</a></li>
-                <li><a href="http://www.eukhost.com/vmware-microsoft-hyper-v.php">VMware / Hyper-V Cloud</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="javascript: void(0);" class="top_link">DEDICATED SERVERS</a>
-              <ul class="sub">
-                <li class="linesb"><a href="http://www.eukhost.com/dedicated-server-hosting.php">Managed Dedicated Servers</a></li>
-                <li class="linesb"><a href="http://www.eukhost.com/linux-server-management.php">Linux Server Management</a></li>
-                <li class="linesb"><a href="http://www.eukhost.com/windows-server-management.php">Windows Server Management</a></li>
-                <li class="linesb"><a href="http://www.eukhost.com/uk-datacenter.php">Datacenter Infrastructure</a></li>
-                <!--<li class="linesb"><a href="http://www.eukhost.com/seo-servers-hosting.php">SEO Servers</a></li>-->
-                <li class="linesb"><a href="http://www.eukhost.com/server-mirroring.php">Server Mirroring</a></li>
-                <li class="linesb"><a href="http://www.eukhost.com/linux-load-balancing.php">Linux Load Balanced Servers</a></li>
-                <li><a href="http://www.eukhost.com/load-balanced-servers.php">Network Load Balanced Servers</a></li>
-               <!-- <li><a href="http://www.eukhost.com/voip-dedicated-servers.php">VOIP Servers</a></li>-->
-              </ul>
+            <li class="top"><a href="http://forums.eukhost.com" class="top_link">Forums</a>
             </li>
           </ul>
           <div class="side_menu">
@@ -222,8 +731,7 @@ common(function(){
               <li id="topnav" class="clsFloatRight"><a href="javascript: void(0);" class="signin">Client Login</a></li>
             </ul>
           </div><!--side_menu-->
-        </div><!--menu-->
-        
+        </div>
         
           <div id="signin_menu">
             <form action="https://billing.eukhost.com/dologin.php?goto=accountdetails" method="post" class="form">
@@ -265,6 +773,123 @@ common(function(){
           <p>eUKhost.com would always be zealous &amp; devoted towards safeguarding your complete privacy &amp; the information you provide us while subscribing to our services. All possible measures, steps &amp; procedures are adopted to stay-put towards the UK Data Protection Legislation. The below stated policy applies to all types of data &amp;  information collected by eUKHost.com We use the information so collected to communicate with you, our client, about our services, update our records and generally maintain your account with us. We also use this information to improve our web site, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, functions on our behest </p>
           <p><strong>Cookies</strong></p>
           <p>We use cookies  as part of a normal business procedure to know about the trends of behaviour of visitors to our site. A cookie is an element of data that our website sends to your browser which is then stored on your system. You can set your browser to prevent this happening. Any information collected in this way can be used to identify you unless you change your browser settings.</p>
+          <p>
+          </p><table width="90%" border="0" cellspacing="0" cellpadding="0" class="spaces">
+            <tbody><tr>
+              <td colspan="3"><center>
+                <strong class="low-price">Third Party Cookies</strong>
+              </center></td>
+            </tr>
+            <tr>
+              <td width="21%"><strong>Live Chat</strong></td>
+              <td width="11%">&nbsp;</td>
+              <td width="68%">&nbsp;</td>
+            </tr>
+            <tr>
+              <td><strong>Cookie</strong></td>
+              <td><strong>Name</strong></td>
+              <td><strong>Purpose</strong></td>
+            </tr>
+            <tr>
+              <td>LivePersonID</td>
+              <td rowspan="6" valign="middle"><strong>Live Person</strong></td>
+              <td>This cookie is used in conjunction with the HumanClickKEY cookie (described below) to gather usage data related to a visitor's visit to a LivePerson customer's website. <br>
+                <br>
+              This cookie is a persistent cookie that remains on the visitor's browser for up to 12 months after which time it is automatically deleted.                </td>
+            </tr>
+            <tr>
+              <td>HumanClickSiteContainer ID_</td>
+              <td>This cookie is used by LivePerson with respect to its largest customers in order to allow LivePerson to distribute usage of its services across a cluster of servers (for load balancing purposes). <br>
+              This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser. </td>
+            </tr>
+            <tr>
+              <td>HumanClickKEY</td>
+              <td>This cookie is used to identify a visitor's session on a customer's website and monitor the pages viewed by the visitor on the customer's website, the time spent by the visitor on pages of the customer's website and other usage data related to the visitor's visit to the customer's website. </td>
+            </tr>
+            <tr>
+              <td>HumanClickACTIVE</td>
+              <td>This cookie (sometimes referred to as an acceptance test cookie) is used to determine whether a cookie can be set on a browser.  This cookie is set when LivePerson's services initiate monitoring. <br>
+              This cookie is a persistent cookie that expires after 24 hours. </td>
+            </tr>
+            <tr>
+              <td>HumanClickCHATKEY</td>
+              <td>This cookie is used for security purposes to identify each LP Chat and LP Voice communication session. <br>
+              This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser. </td>
+            </tr>
+            <tr>
+              <td>              LPit</td>
+              <td>It is set when the visitor to the customer's website requests to engage in a chat session with the customer. <br>
+              This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser. </td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><strong>Billing Software</strong></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><strong>Cookie</strong></td>
+              <td><strong>Name</strong></td>
+              <td><strong>Purpose</strong></td>
+            </tr>
+            <tr>
+              <td>HOSTBILLEmailAddress</td>
+              <td rowspan="2" valign="middle"><strong>HostBill</strong></td>
+              <td>To store client area username *</td>
+            </tr>
+            <tr>
+              <td>HOSTBILLPassword</td>
+              <td>client area password (format - md5 salt) *</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>* Above cookie will create only on, If client tick on "Remember me"</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><strong>Helpdesk</strong></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><strong>Cookie</strong></td>
+              <td><strong>Name</strong></td>
+              <td><strong>Purpose</strong></td>
+            </tr>
+            <tr>
+              <td>SWIFT_sessionid </td>
+              <td rowspan="4" valign="middle"><strong>Kayako</strong></td>
+              <td>Any user that logs into the helpdesk</td>
+            </tr>
+            <tr>
+              <td>SWIFT_sessionid </td>
+              <td>Any user that loads a helpdesk page</td>
+            </tr>
+            <tr>
+              <td>SWIFT_visitor</td>
+              <td>Any user that loads a live chat, click-to-call or visitor tracking button on a 'tagged web page'</td>
+            </tr>
+            <tr>
+              <td>SWIFT_scloginpassword<br>
+              SWIFT_scloginpassword</td>
+              <td>Any user that logs into the helpdesk and ticks the 'Remember Me' box</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+         <p></p>
           <p><strong>Electronic Communication</strong></p>
           <p>We ask you to provide your email address to us during the signup process to be able to communicate with you. We normally send all our notifications through emails which we have for your account on our record. We also need your email address while registering a domain name for you. This is mandatory as per our domain registrar -  Enom Inc.</p>
           <p><strong>Traditional Communication Means </strong></p>
@@ -282,12 +907,13 @@ common(function(){
 		        <div class="footer">
           <div class="left">
             <ul class="side_lines">
-              <li class="heads">Need Help ?</li>
-              <li><a href="https://www.eukhost.com/whmcs/clientarea.php">Client Area</a></li>
-              <li><a href="http://www.eukhost.com/sitemap.php">Sitemap</a></li>
-              <li><a href="https://www.eukhost.com/ehostbill/openticket.php">Help Center</a></li>
+              <li class="heads">Need Help?</li>
+              <li><a href="https://billing.eukhost.com/accountdetails.php">Client Area</a></li>
+              <li><a href="http://www.eukhost.com/sitemap.php">Site Map</a></li>
+              <li><a href="https://billing.eukhost.com/openticket.php">Help Centre</a></li>
               <li><a href="http://www.eukhost.com/web-hosting/">Tutorials</a></li>
               <li><a href="http://www.eukhost.com/eukhost-reviews.php">Testimonials</a></li>
+              <li><a href="http://www.eukhost.com/generate-a-lead.php">Generate a Lead</a></li>
             </ul>
             <ul class="side_lines">
               <li class="heads">Legal Information</li>
@@ -301,15 +927,16 @@ common(function(){
               <li class="heads">Resources</li>
               <li><a href="http://forums.eukhost.com/">Web Hosting Forum</a></li>
               <li><a href="http://blog.eukhost.com/">Web Hosting Blog</a></li>
-              <li><a href="http://www.eukhost.com/web-hosting/kb/">Knowledgebase</a></li>
+              <li><a href="http://kb.eukhost.com/">Knowledgebase</a></li>
+              <li><a href="http://www.eukhost.com/wiki">eUKhost Wiki</a></li>
               <li><a href="http://www.eukhost.com/affiliates.php">Affiliate Program</a></li>
-              <li><a href="http://www.eukhost.com/management-and-staff.php">Eukhost Team</a></li>
+              <li><a href="http://www.eukhost.com/gift-hosting.php">Gift Hosting</a></li>
               
               <!--<li class="blue">PARTNERS</li>
               <li class="lhs"><a href="affiliates.php">Affiliate Program</a></li>-->
             </ul>
             <div class="clr"></div>
-            <div class="bottoms">Copyright © 2001-2012, eUKhost LTD. All rights reserved. </div>
+            <div class="bottoms">Copyright © 2001-2012, eUKhost® Ltd. All rights reserved. <a style="color: #fff;" href="javascript:void()" onclick="javascript:window.open('http://www.eukhost.com/trademark.html','_blank','width=300,height=320,resizable=no')">Trademark Notice</a></div>
           </div><!--left-->
           
           <div class="right">
@@ -317,41 +944,117 @@ common(function(){
               <a href="http://www.eukhost.com/contact-form.php" class="clsFloatLeft">Request a Quote</a>
               <a href="http://www.eukhost.com/call-back-form.php" class="clsFloatRight">Request a callback</a>          
             </div><!--links-->
-            <div class="bottoms"><strong>0808 262 0255</strong>&nbsp;&nbsp; | &nbsp;&nbsp; Stay Connected
-            <a href="http://www.facebook.com/eukhost.ltd" target="_blank"><img src="images/fbf.png" width="26" height="27" alt=""></a>
-            <a href="https://twitter.com/eukhostltd" target="_blank"><img src="images/twf.png" width="26" height="27" alt=""></a>
-            <a href="http://www.linkedin.com/groups/Eukhost-Hosting-4216204" target="_blank"><img src="images/inf.png" width="26" height="27" alt=""></a>
-            <a href="https://plus.google.com/103433077569734144676/posts" target="_blank"><img src="images/gp.png" width="26" height="27" alt=""></a>
+            
+            
+            <!-- marquee magic -->
+            <br>
+
+             <center><strong>Our Esteemed Customers</strong></center>
+            <div class="marquees">
+           
+          <div class="marquee" id="mycrawler">
+            <img src="https://www.eukhost.com/images/footer-logo/1.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/2.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/3.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/4.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/5.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/6.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/7.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/8.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/9.jpg">
+            <img src="https://www.eukhost.com/images/footer-logo/10.jpg">
+          </div>
+        </div>
+            
+            <!-- magic ends -->
+            
+            <div class="bottoms"><strong>0800 862 0380</strong>&nbsp;&nbsp; | &nbsp;&nbsp; Stay Connected
+            <a href="http://www.facebook.com/eukhost.ltd" target="_blank"><img src="http://www.eukhost.com/images/fbf.png" width="26" height="27" alt=""></a>
+            <a href="http://twitter.com/eukhostltd" target="_blank"><img src="http://www.eukhost.com/images/twf.png" width="26" height="27" alt=""></a>
+            <a href="http://www.eukhost.com/linkedin" target="_blank"><img src="http://www.eukhost.com/images/inf.png" width="26" height="27" alt=""></a>
+            <a href="http://plus.google.com/103433077569734144676/posts" target="_blank"><img src="http://www.eukhost.com/images/gp.png" width="26" height="27" alt=""></a>
             </div>
           </div><!--right-->
+          <img src="images/footer-logo/euk-footer-logos.png" width="980" height="68">
         </div><!-- footer --> 
         
         <div class="slide-out-div">
             <a class="handle" href="javascript: void(0);">Content</a>
             <a class="open-chat" href="Javascript:openchat();">
-            <span class="contact">Call us at 0808-262-0455</span>
+            <span class="contact">Call us on 0800 862 0380</span>
             </a>
         </div><!--slide-out-div-->
         
-      <!--<div id="mydiv" style="display:none; font-size:14px;">
-          <p><a href="http://forums.eukhost.com/showthread.php?t=17016&p=100736#post100736"><img src="images/puzzle-banner.jpg" width="600" height="400" alt="" /></a></p>
+       <!--<div id="mydiv" style="display:none; font-size:14px;">
+          <p><a href="https://www.eukhost.com/privacy-policy.php"><img src="images/cookieimg.jpg" width="125" height="125" alt="" /></a></p>
       </div>
 	  <script type="text/javascript">
       dispaly();
       </script>-->
       
-      <div id="meerkat" class="pos-right">
+      <!--<div id="mydiv" style="display:none; font-size:14px;">
+          <p><a href="https://forums.eukhost.com/showthread.php?t=17016&p=100736#post100736"><img src="images/puzzle-banner.jpg" width="600" height="400" alt="" /></a></p>
+      </div>
+	  <script type="text/javascript">
+      dispaly();
+      </script>-->
+      
+<div id="meerkat" class="pos-right">
+  <a href="http://www.eukhost.com/privacy-policy.php" class="view">View</a>
+  <a class="dont-show">Don't Show Again</a>	
+    <img src="http://www.eukhost.com/images/cookieimg.jpg" width="125" height="125" alt="">
+</div>
+     
+      
+      <!--<div id="meerkat" class="pos-right">
         <a href="#" class="close-meerkat">close</a>
         <a class="dont-show">Don't Show Again</a>	
         <div class="adsense">		
-          <a href="http://forums.eukhost.com/showthread.php?t=17016&amp;p=100736#post100736">
-          <img src="http://www.eukhost.com/images/jbulee-celebration.jpg" width="120" height="600" alt="">
+          <a href="https://www.eukhost.com/contest">
+          <img src="images/120x400-olympic.jpg" width="120" height="400" alt="" />
           </a>
         </div>	
-      </div><!--meerkat-->
+      </div>--><!--meerkat-->
       
 <!-- BEGIN LivePerson Monitor. -->
 <script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "59448507",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+
+<!-- ADROLL -->
+<script type="text/javascript">
+
+adroll_adv_id = "XAH5JJZEMFG75HVGJHTPJI";
+
+adroll_pix_id = "7LBREYH5LVFERKGTKOVEK5";
+
+(function () {
+
+var oldonload = window.onload;
+
+window.onload = function(){
+
+   __adroll_loaded=true;
+
+   var scr = document.createElement("script");
+
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+
+   scr.setAttribute('async', 'true');
+
+   scr.type = "text/javascript";
+
+   scr.src = host + "/j/roundtrip.js";
+
+   ((document.getElementsByTagName('head') || [null])[0] ||
+
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+
+   if(oldonload){oldonload()}};
+
+}());
+
+</script>
+<!-- /ADROLL -->
+
 <!-- BEGIN Monitor Tracking Variables  -->
 <script language="JavaScript1.2">
 if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = new Array();}
@@ -369,7 +1072,7 @@ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=Sales Team';
  
  (function() {
    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
  })();
 </script>
@@ -381,5 +1084,6 @@ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=Sales Team';
       
     </div><!--container-->
   </div><!--wrapper-->
+
 
 </body></html>
