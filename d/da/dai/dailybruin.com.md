@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailybruin.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100201id_/http%3A//www.dailybruin.com/index.php/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybruin.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015070538id_/http%3A//www.dailybruin.com/page/privacy) for the most accurate reproduction.*
 
 # The Daily Bruin :: Privacy Policy
 
