@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514124333id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015103932id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | TeamWork Live
 
@@ -41,7 +41,7 @@ If you have any additional questions or concerns about this policy, please conta
 
 CollectiveSoft LLC  
 Customer Care - Privacy Policy Issues  
-725 14th Ave  
-San Francisco, CA 94118 USA
+2690 15th Ave  
+San Francisco, CA 94127 USA
 
 Updated March 1, 2006
