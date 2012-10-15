@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoo.ge privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032447id_/http%3A//yoo.ge/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoo.ge privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015123726id_/http%3A//www.yoo.ge/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - - Games at Yoo.ge - Play Online Games
 
