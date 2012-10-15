@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621202154id_/http%3A//www.globusstores.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015232534id_/http%3A//www.globusstores.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globus
 
@@ -8,7 +8,7 @@ The Policy does not apply to the procedures and practices followed by entities t
 
 All Contents on the Site is the sole property of www.globus.in or its owners. We authorize you to view and download the content on the site solely for your personal, noncommercial use.  You may not reproduce, modify, display, sell, or distribute the content, or use it in any other way for public or commercial purpose. 
 
-If you have questions or concerns regarding this statement, you can email us at [estore@globusmail.com](mailto:estore@globusmail.com?cc=ceo@globusmail.com)
+If you have questions or concerns regarding this statement, you can email us at [cs@globusmail.com](mailto:cs@globusmail.com)
 
 Through this document, we wish to make you:
 
@@ -67,7 +67,7 @@ We may also collect the following information about:
 
 
 
-You may terminate your account at any time by writing to us at [estore@globusmail.com](mailto:estore@globusmail.com?cc=ceo@globusmail.com), from the email ID you have used for creating your account login, and mentioning “Please close my www.globus.in account” in the subject line. We will disable access to your account within 4 working days of receiving your mail. However, your information may remain stored in archive on our servers even after the deletion or termination of your account.
+You may terminate your account at any time by writing to us at [cs@globusmail.com](mailto:cs@globusmail.com), from the email ID you have used for creating your account login, and mentioning “Please close my www.globus.in account” in the subject line. We will disable access to your account within 4 working days of receiving your mail. However, your information may remain stored in archive on our servers even after the deletion or termination of your account.
 
 **When / How do we collect the information?**
 
@@ -85,7 +85,7 @@ You have the option to provide demographic information (such as occupation, educ
 
 If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. www.globus.in does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [estore@globusmail.com](mailto:estore@globusmail.com?cc=ceo@globusmail.com) to request that we remove this information from our database.
+Your friend may contact us at [cs@globusmail.com](mailto:cs@globusmail.com) to request that we remove this information from our database.
 
 We are the sole owners of your information collected by us at different points on our Website.
 
@@ -160,7 +160,7 @@ The security of your personal information and email address is important to us. 
 
 We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is fully secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
 
-If you have any questions about security on our website, you can email us at: [estore@globusmail.com](mailto:estore@globusmail.com?cc=ceo@globusmail.com)
+If you have any questions about security on our website, you can email us at: [cs@globusmail.com](mailto:cs@globusmail.com)
 
 **What choices are available to you regarding collection, use and distribution of your information?**
 
@@ -188,7 +188,7 @@ Supplying personally identifiable information is entirely voluntary. You are not
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. www.globus.in reserves the right to send you certain service related communication, considered to be a part of your www.globus.in account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
-We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in “My Account”. If you still face an issue then you may contact us at **022 31920353** or email us at [estore@globusmail.com](mailto:estore@globusmail.com?cc=ceo@globusmail.com)
+We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in “My Account”. If you still face an issue then you may contact us at **022 30783515** or email us at [cs@globusmail.com](mailto:cs@globusmail.com)
 
 Upon request, we will remove / block your personally identifiable information from our database, thereby canceling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
@@ -204,7 +204,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-If you have any questions about security on our website, you can email us at [estore@globusmail.com](mailto:estore@globusmail.com?cc=ceo@globusmail.com)
+If you have any questions about security on our website, you can email us at [cs@globusmail.com](mailto:cs@globusmail.com)
 
 **How can you correct inaccuracies in the information?**
 
@@ -234,4 +234,4 @@ Santacruz-W, Mumbai – 400054.
 INDIA.
 
 (022) 26058731 / 32 /33 /34.  
-[estore@globusmail.com](mailto:estore@globusmail.com?cc=ceo@globusmail.com)
+[](mailto:estore@globusmail.com?cc=ceo@globusmail.com)[cs@globusmail.com](mailto:cs@globusmail.com)
