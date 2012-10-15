@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511054804id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015072912id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
 
-# Privacy Internet Business Blog By James Schramko
+# Internet Business Blog By James Schramko Privacy - Internet Business Blog By James Schramko
 
 Privacy Policy
 
