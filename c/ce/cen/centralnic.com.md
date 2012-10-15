@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centralnic.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502113707id_/http%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralnic.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015114513id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.*
 
-# Privacy | CentralNic
+# Privacy Policy | Support | CentralNic
 
 CentralNic.com is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy for this website.
 
@@ -41,9 +41,27 @@ A cookie is a small file which is placed on the user's hard drive during a Centr
 
 You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete these cookies, any settings such as your stored username and password will have to be reset when you log in again.
 
-Unlike many sites, you will be able to use CentralNic.com even if you set your browser not to accept any cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
-
 Further information on the use of cookies can be found at [www.cookiecentral.com](http://www.cookiecentral.com/)
+
+**DoubleClick DART Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on certain websites operated by CentralNic.
+
+Google's use of the DART cookie enables it to serve ads to users based on their visit to these sites, and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include
+
+Google Adsense:
+
+These third-party ad servers or ad networks use technology to serve the advertisements and links that appear on these sites send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+CentralNic has no access to or control over the cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. CentralNic privacy policy does not apply to, and we cannot control the activities of, advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 **Security Policy**
 
