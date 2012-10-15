@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611045821id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.mya%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dmb_rcol_services%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dmy_account%26siteArea%3Dbtb.mya%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015175214id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.hub%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dinline_customer_survey%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dbtb_hub%26siteArea%3Dbtb.hub%26type%3Dprivacy) for the most accurate reproduction.*
 
-# BT.com | Small & medium business | Your account
+# BT.com | Small & medium business
 
 |    |  |   
 ---  
