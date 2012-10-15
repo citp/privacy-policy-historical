@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502083151id_/http%3A//www.getsomeheadspace.com/customer-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015233230id_/http%3A//www.getsomeheadspace.com/customer-services/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Website privacy statement from Get Some Headspace | Headspace
 
@@ -23,24 +23,73 @@ We may collect and process the following data about you:
 
 
 
-## IP addresses and cookies
+## privacy and cookies
 
-If you register with us or continue to use our website, you agree to our use of cookies. 
+This statement covers the services provided by this website.
 
-We may collect information about your  computer, including where available your IP address, operating system and  browser type, for system administration and to report aggregate information to  our advertisers. This is statistical data about our users' browsing actions and  patterns, and does not identify any individual.
+The purpose of this statement is to inform users of this website what information is collected about them when they visit this site, how this information is used, if it is disclosed and the ways in which we protect users’ privacy.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+#### Confidentiality and security
 
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our site.
+Any information you provide will be held securely and in accordance with the Data Protection Act 1998. Your personal details will not normally be disclosed to third parties. In some circumstances however we may need to disclose your personal details to a third party so that they can provide a service you have requested, or fulfil a request for information. Any information about you that we pass to a third party will be held securely by that party, in accordance with the Data Protection Act 1998, and used only to provide the services or information you have requested.
+
+You have a right to access the personal information we hold about you at any time. If you wish to do this, please put your request in writing (explaining that your interest is in this website) to:
+
+Headspace Meditation Limited  
+15 Percy Street  
+London  
+W1T 1DS  
+
+
+#### Information we collect from visitors
+
+##### **Newsletters**
+
+If you sign up to receive email from this website we will use the information you give us to provide the service(s) you have requested. We may occasionally contact subscribers to help us evaluate and improve the service that we offer.
+
+If you inform us that you wish to cancel a subscription we will remove you from our mailing list and your details will be deleted from our records.
+
+##### Cookies
+
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+
+These pieces of information are used to improve services for you through, for example:
+
+  * enabling a service to recognise your device so you don’t have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+##### You can manage these small files yourself and learn more about them through [Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Managing cookies") 
 
-Please note that our advertisers may also use cookies, over which we have no control.
+#### Our use of cookies
+
+For a list of all the cookies that we know are used by this website, please read our [Cookies Audit page](http://www.getsomeheadspace.com/customer-services/cookies.aspx?vid=10923)
+
+#### **Cookies for improving service**
+
+Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
+
+This site uses cookies for collecting non-personal user information from the site. This site does not collect any information about you except that required for system administration of the website.
+
+Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are stored in the cookie directory of your hard drive, and do not expire at the end of your session. Cookies do not contain any personal information about you and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.
+
+Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie.
+
+This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit [www.google.com/analytics](http://www.google.com/analytics).
+
+#### **Cookies on this website from other companies & social networking websites**
+
+During your visit to the site you may notice some cookies that are not related to this website. This happens when you visit a page with content embedded from a third party (for example YouTube videos) or use some of the links to social networking sites (e.g. Share This). These websites may place cookies on your computer.
+
+This website does not control how a third party uses their cookies. You should check these third party websites’ privacy policies for more information about their cookies if you are concerned about this.
+
+#### Log files
+
+Log files allow us to record visitors’ use of the site. This site's administrative team puts together log file information from all our visitors, which we use to make improvements to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you.
+
+If you receive the HTML-formatted version of a newsletter, your opening of the newsletter email is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
 
 ## Where we store your personal data
 
@@ -82,7 +131,7 @@ We may disclose your personal information to third parties:
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at info@getsomeheadspace.com.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@getsomeheadspace.com](mailto:info@getsomeheadspace.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -96,4 +145,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@getsomeheadspace.com.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@getsomeheadspace.com](mailto:info@getsomeheadspace.com).
