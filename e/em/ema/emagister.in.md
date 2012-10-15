@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the emagister.in privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512040511id_/http%3A//www.emagister.in/web/pagina/privacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagister.in privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016001813id_/http%3A//www.emagister.in/web/pagina/privacidad) for the most accurate reproduction.*
 
 # Emagister
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.emagister.com&sealid=101)
 
-**1\. Data Protection**
-
+  
 This privacy policy governs the use of the Website www.emagister.in (the "Website").
 
 As set out in the organic law 15/1999, dated 13th December, for Personal Data Protection (LOPD), we inform our Users of the existence of an automated database used to store personal information, created by and sole responsibility of EMAGISTER. 
