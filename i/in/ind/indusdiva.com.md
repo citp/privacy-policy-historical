@@ -1,100 +1,53 @@
-> *The following text is extracted and transformed from the indusdiva.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusdiva.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015163429id_/http%3A//www.indusdiva.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# IndusDiva.com
 
-**Go Daddy Respects Your Privacy**
-
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
-
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
-
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
-
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+**Privacy Policy – IndusDiva.com**
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Welcome to IndusDiva.com (the “Website”). The website is owned and operated by Zing Ecommerce Private Limited, its affiliates, agents and licensors (collectively, “we”, “us”, “our” or “Zing Ecommerce”). Zing Ecommerce is concerned about your privacy as much as you are and has established this Privacy Policy Statement ("Privacy Policy") as a result. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Website directly or through another site, you accept the practices described in this Privacy Policy.
+
+We are not responsible for the content or privacy practices on any web site not operated by Zing Ecommerce to which the Website links or that links to the Website.
+
+**Information Collection**
+
+We collect information in several ways on this website including but not limited to registration, ordering, contests, promotions, cookies, log files, product reviews and any other means by which you give us information. The information we learn from you helps us enhance and personalize your experience on the Website. Some examples of how the experience is enhanced are
+
+• Improved experience on the website by not having to enter information more than once
+
+• Find products and other information quickly
+
+• Create content and introduce products that are more relevant to you
+
+• Alert you about new products or services based on your interest
+
+Here is a list of what personal information is collected by us:
+
+• Information you give us: We receive and store information you enter on our website or give in any other way including but not limited to telephones. Some examples of this information include name(s), telephone numbers, addresses, emails etc.
+
+• Automatic Information: We automatically receive and store certain types of information whenever you interact with us. This also includes cookies that are stored as text files by your Internet Browser on your computer’s hard drive. It helps us recognize you and your access privileges, improve your navigation of the site and track your site usage.
+
+• Information provided by third parties: We may obtain certain information of customers from third parties. This may include updated delivery or address information from carriers.
+
+**Information Use & Disclosure**
+
+You and your information are our most important assets and we use this information only to communicate with you, to process your orders, to provide an enhanced and more personalized interactive shopping experience, to facilitate your transactions with our third party marketing partners and to inform you of offers and discounts. Here is how we use and/or disclose your information under certain conditions:
+
+Internal Use: We use your information to process your order and provide customer support with respect to the order. We may also use the information to improve the Website’s content and layout, to improve outreach and for our own marketing efforts (including marketing our own services and products to you).
+
+Communication with you: We may communicate with you through email, phone, sms or any other means about your orders and deliveries, service related announcement about the Website, information about new products or brands and special offers from time to time.
+
+External Use: We do not sell, rent, trade, license or otherwise disclose your personal information or financial information to anyone. However, to provide you with specific services, we may need to interact with third parties and share only that information which enables the third party to provide that service to you.
+
+Here are some specific examples:
+
+We partner with courier companies to deliver the products to you and share your personal information like name, address, phone no with them to help them provide you with timely delivery of your product.
+
+We may disclose your personal information in response to law enforcement officials conducting investigations or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights.
+
+We might establish business relationships with other persons or entities that are trustworthy and have a privacy policy consistent to that of ours. In such cases, we may choose to share and cross-reference personal information about you that may enable such persons or entities to contact you with products or services that may be of interest to you.
+
+**Opt Out**
+
+We provide all users with the option of opting out or unsubscribing from all promotional and non-essential communication. You can unsubscribe either by clicking on the unsubscribe link in the promotional communication or by sending an email to our customer care department. However, all communication about orders that are placed (including but not limited to order confirmation, shipping information, delivery information and order modification) cannot be unsubscribed from.
