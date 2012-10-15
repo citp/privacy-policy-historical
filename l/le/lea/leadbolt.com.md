@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106224103id_/http%3A//www.leadbolt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015134459id_/http%3A//www.leadbolt.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
-LEADBOLT is deeply committed to protecting the privacy of Internet users.
+## LeadBolt is deeply committed to protecting the privacy of Internet users.
 
-Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. This Privacy Statement presents our privacy policy, including LEADBOLT' privacy practices for our web site. Below is information regarding LEADBOLT' commitment to protecting the privacy of Internet users.  
-Consumer Information
+Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. This Privacy Statement presents our privacy policy, including LEADBOLT' privacy practices for our web site. Below is information regarding LEADBOLT' commitment to protecting the privacy of Internet users.
+
+This privacy policy governs only information collected via the Leadbolt website. If you are looking for the Leadbolt Mobile based privacy policy, it [can be found here](http://www.leadbolt.com/mobileprivacy.php). 
+
+## Consumer Information
 
 LEADBOLT uses one or more third party ad serving technology to serve ads at this site and at our clients' sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this non-personally-identifiable information used to serve ads to you, please click here.  
 Cookies and Opt Out
@@ -18,4 +21,4 @@ A cookie is a unique number that is assigned to you the first time you are serve
 We use LEADBOLT and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  
 Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
