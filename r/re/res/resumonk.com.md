@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the resumonk.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511060850id_/http%3A//www.resumonk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumonk.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015055203id_/http%3A//www.resumonk.com/privacy_policy) for the most accurate reproduction.*
 
-# Resumonk - Online Resume Builder - Create a beautiful and professional Resume in minutes
+# Privacy Policy | Resumonk | Beautifully Simple Online Resume Builder
 
 ### Privacy Policy
 
-This Privacy Policy governs the manner in which Resumonk collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.resumonk.com](https://web.archive.org/web/20120511060850id_/http%3A//www.resumonk.com/www.resumonk.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Resumonk.
+This Privacy Policy governs the manner in which Resumonk collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.resumonk.com](https://web.archive.org/web/20121015055203id_/http%3A//www.resumonk.com/www.resumonk.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Resumonk.
 
 **Personal identification information**
 
@@ -61,6 +61,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
   
 [**Resumonk**](http://resumonk.com/)  
-[resumonk[at]gmail.com](mailto:resumonk@gmail.com)
+[bharani[at]resumonk.com](mailto:bharani@resumonk.com)
 
-This document was last updated on April 15, 2012
+This document was last updated on June 07, 2012
