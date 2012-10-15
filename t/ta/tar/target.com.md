@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619074921id_/http%3A//sites.target.com/site/en/spot/page.jsp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015150730id_/http%3A//sites.target.com/site/en/spot/page.jsp%3Ftitle%3Dprivacy_policy%26lnk%3Dgfot_t_spc_2_2) for the most accurate reproduction.*
 
 # Target
 
@@ -107,9 +107,13 @@ To learn more about managing Target cookies, go to the Choice section of this pr
 
 _Third-Party Cookies_
 
-We partner with third-party vendors to deliver advertisements about our products and services when you visit other websites across the Internet. These vendors place third party cookies which help us provide you with advertisements that are customized to your particular product preferences and improve the effectiveness of our marketing efforts.
+We allow third-party companies to collect certain anonymous information when you visit our website and to use that information to serve ads for Target products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp> or [www.aboutads.info](https://web.archive.org/web/20121015150731id_/http://www.target.com/spot/www.aboutads.info).
 
 To opt out of third-party vendors' cookies, go to the Choice section of this privacy policy.
+
+### User Experience Information
+
+In order to improve guest online shopping experience, help with fraud identification, and to assist our guest relations representatives in resolving issues guests may experience in completing online purchases, we use tools to monitor certain user experience information; including login information, IP address, data regarding pages visited, specific actions taken on pages visited (e.g. information entered during checkout process), and browser information.
 
 ### Information from Other Sources
 
@@ -222,11 +226,11 @@ We distribute mobile coupons and text messages to mobile devices of guests who h
 
 ### Wireless (WiFi) Service
 
-Target offers free wireless service in select Target Stores. Please see our [Target Wireless Service Privacy Notice](https://web.archive.org/site/en/spot/page.jsp?title=guest_wifi_serviceprivacy) for details about how we collect, use, share and protect information about you in connection with your use of the Wireless Service. To opt out of receiving enhanced marketing and analytics in connection with your use of the WiFi service please refer to the Target Wireless Service Privacy Notice.
+Target offers free wireless service in select Target Stores. Please see our [Target Wireless Service Privacy Notice](https://web.archive.org/web/20121015150731id_/http://www.target.com/spot/guest-wifi/service-privacy) for details about how we collect, use, share and protect information about you in connection with your use of the Wireless Service. To opt out of receiving enhanced marketing and analytics in connection with your use of the WiFi service please refer to the Target Wireless Service Privacy Notice.
 
 ### Target Cookies
 
-The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Target.com features. You may also [make your cookie anonymous](http://sites.target.com/site/en/spot/page.jsp?title=cookies_opt_out_success) for analysis and reporting purposes. 
+The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Target.com features. You may also [make your cookie anonymous](https://web.archive.org/spot/cookies-opt-out-success) for analysis and reporting purposes. 
 
 ### Third Party Cookies
 
@@ -272,7 +276,7 @@ This privacy policy applies to all current or former guest information collected
   * Information collected or provided in connection with a Target Visa Credit Card, Target Credit Card, or Target Debit Card is treated as described in the [REDcard Privacy Policy.](https://redcard.target.com/redcard/content/rcw_tnb_privacy_policy_nonpopup)
   * Information collected or provided when you use a Target Pharmacy or the Rx Rewards program is treated as described in the [Target Pharmacy Notice of Privacy Policy.](http://sites.target.com/site/en/spot/page.jsp?title=pharmacy_privacy_policy) Information collected by or provided to a Target Clinic is treated as described in the [Target Clinic Notice of Privacy Policy.](http://sites.target.com/site/en/spot/page.jsp?title=clinic_privacy_policy)
   * Information collected or provided to Target Commercial Interiors is treated as described in the [Target Commercial Interiors Privacy Policy.](http://www.targetcommercialinteriors.com/privacy_policy.php)
-  * Information collected or provided in connection with us of Target’s Wireless Service is treated as described in the [Target Wireless Service Privacy Notice](https://web.archive.org/site/en/spot/page.jsp?title=guest_wifi_serviceprivacy).
+  * Information collected or provided in connection with us of Target’s Wireless Service is treated as described in the [Target Wireless Service Privacy Notice](https://web.archive.org/web/20121015150731id_/http://www.target.com/spot/guest-wifi/service-privacy).
   * Information collected or provided in connection with completing an application for employment with Target.
 
 
@@ -283,10 +287,13 @@ Our website may offer links to other sites. If you visit one of these sites, you
 
 By interacting with Target, you consent to our use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we will include a history of material changes below. This history begins as of July 2004 and includes the date of the update and a description of any material changes.
 
-## Last update: 05/03/2012
+## Last update: 08/29/2012
 
-Apr 2012
-    Added information about Target’s Wireless (WiFi) Service select Stores, including link to Wireless Service Privacy Notice.
+Aug 2012
+    Updated Third-Party Cookies section and added information about collection of User Experience Information.
+
+Mar 2012
+    Added information about Target's Wireless (WiFi) Service in Stores, including link to Wireless Service Privacy Policy.
 
 Apr 2011
     Added offline, mobile, and social collection, use, and sharing of information, expanded guest choice options
