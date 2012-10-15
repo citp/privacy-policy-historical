@@ -1,31 +1,49 @@
-> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227161046id_/http%3A//www.blogsdaddy.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015084233id_/http%3A//www.blogsdaddy.com/2010/04/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Technology Blog | Blogs Daddy
+# Privacy Policy - Blogs Daddy
 
-Thank you for visiting our **blog site**. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+[](http://3.bp.blogspot.com/-cMq7JpjstDk/T8d_sARjzvI/AAAAAAAAM7w/xd4qUmmvAUk/s1600/Privacy+Policy+-+Blogs+Daddy.jpg)
 
-Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+**Privacy Policy for www.blogsdaddy.com  **
 
- **Collection of Information**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  **gagan.masoun@gmail.com**. 
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+At  **www.blogsdaddy.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by  **www.blogsdaddy.com  **and how it is used. 
 
- **Cookie/Tracking Technology**
+ **Log Files**
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+Like many other Web sites,  **www.blogsdaddy.com**  makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
- **Distribution of Information**
+ **Cookies and Web Beacons  **
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+ **www.blogsdaddy.com**  does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
- **Commitment to Data Security**
+ **DoubleClick DART Cookie  **
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+ **.::  **Google, as a third party vendor, uses cookies to serve ads on  **www.blogsdaddy.com.**
 
- **Privacy Contact Information**
+ **.::  **Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.blogsdaddy.com and other sites on the Internet. 
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+ **.::  **Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
- **By e-mail: aagman.linksevice@gmail.com**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
 
- **We reserve the right to make changes to this policy. Any changes to this policy will be posted.**
+ **Google Adsense**
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on  **www.blogsdaddy.com**  send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+ **www.blogsdaddy.com**  has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.  **www.blogsdaddy.com's**  privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+  
+
+
+Thanks for making this possible! Kindly Bookmark and Share it.
+
+  
+
+
+## Subscribe To Our Regular Email Updates
