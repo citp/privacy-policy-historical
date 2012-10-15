@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmt.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001242id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmt.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015134149id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
 
 # CMT.com: Privacy Statement
 
@@ -7,7 +7,7 @@
 **This Privacy Policy is intended to explain our privacy practices and covers the following areas:**
 
     * 1\. When This Privacy Policy Applies.
-    * 2\. U.S. Governing Law.
+    * 2\. U.S. Governing Law; Safe Harbor.
     * 3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
     * 4\. Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
     * 5\. Wireless Marketing Services and Associated Promotional Opportunities.
@@ -24,11 +24,13 @@ This Privacy Policy applies whether you are accessing the Site via a personal co
 
 This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Site or any features, activities or services offered through the Site.
 
-**2\. U.S. Governing Law.**
+**2\. U.S. Governing Law; Safe Harbor.**
 
-The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our Terms of Use Agreement. If you are do not meet the age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
+The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our [Terms of Use Agreement](https://web.archive.org/interact/terms/). If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
 
-If you are located in the European Union or elsewhere outside of the U.S., you do so at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. By using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfers and processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that this Site and Flux will deal with your Information in accordance with its Privacy Policy and U.S. law. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.
+If you are located in the European Economic Area ("EEA") and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at <http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf>
+
+If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and the Flux Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.
 
 **3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
 
