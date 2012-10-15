@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511211537id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015055229id_/http%3A//www.freetaxusa.com/privacy.jsp%3Bjsessionid%3D986600B8FDCC3857D6BFB452AD026B88.pLandE09) for the most accurate reproduction.*
 
 # FreeTaxUSA® Privacy Policy Regarding Free Tax Preparation and E-file
 
