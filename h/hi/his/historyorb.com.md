@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyorb.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430181606id_/http%3A//www.historyorb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyorb.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015232558id_/http%3A//www.historyorb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | HistoryOrb.com
 
@@ -30,11 +30,11 @@ This site contains links to other sites. **HistoryOrb.com** is not responsible f
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can apply to have the entry corrected on our [corrections page](https://web.archive.org/web/20120430181606id_/http%3A//www.historyorb.com/today/corrections.php).
+  1. You can apply to have the entry corrected on our [corrections page](https://web.archive.org/web/20121015232558id_/http%3A//www.historyorb.com/today/corrections.php).
 
 
 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20120430181606id_/http%3A//www.historyorb.com/contact.shtml).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20121015232558id_/http%3A//www.historyorb.com/contact.php).
