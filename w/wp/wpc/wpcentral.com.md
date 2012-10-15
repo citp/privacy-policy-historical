@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcentral.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511085436id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcentral.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015204414id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mobile Nations - Privacy Policy
 
@@ -59,6 +59,8 @@ If you would like to remove your name and e-mail address from our registration d
 ## Other sites
 
 Mobile Nations contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
+
+Mobile Nations is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to 'Amazon.com' and other Amazon properties.
 
 ## Who can I ask if I have any additional questions?
 
