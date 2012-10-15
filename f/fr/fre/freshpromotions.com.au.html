@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freshpromotions.com.au privacy policy that was archived on 2012-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527115322id_/http%3A//www.freshpromotions.com.au/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freshpromotions.com.au privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015033956id_/http%3A//www.freshpromotions.com.au/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,6 +22,24 @@
 	        return false;
 		}
 		//--></script>
+		
+		<!--Start(Added by Traskdigita//-->
+		<script>
+			 var isNS = (navigator.appName == "Netscape") ? 1 : 0;
+			  if(navigator.appName == "Netscape") document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
+			  function mischandler(){
+			   return false;
+			 }
+			  function mousehandler(e){
+				var myevent = (isNS) ? e : event;
+				var eventbutton = (isNS) ? myevent.which : myevent.button;
+				if((eventbutton==2)||(eventbutton==3)) return false;
+			 }
+			 document.oncontextmenu = mischandler;
+			 document.onmousedown = mousehandler;
+			 document.onmouseup = mousehandler;
+  </script>
+  <!--End(Added by Traskdigital)//-->
 		<meta name="google-site-verification" content="mR0jOw9caTHfABf2OphyP81C31_MQhbHYqyY15gYado">
 		<script type="text/javascript">
   var _gaq = _gaq || [];
@@ -34,9 +52,45 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<script language="JavaScript">
+
+document.onkeydown = function(e) {
+  if (e.keyCode == 17) {
+ // alert('Not Allowed!');
+    e.stop();
+  }
+};
+
+function disabletext(e){
+var element = (e.target || e.srcElement);
+if(element.tagName) {
+console.debug('Tagname = '+element.tagName);
+var tagname = element.tagName.toLowerCase();
+if(tagname == 'textarea' || tagname=='select' || tagname=='input' || tagname=='file' || tagname=='checkbox' || tagname=='radio')
+return true;
+}
+if(e.preventDefault){ e.preventDefault(); }
+return false;
+}
+
+function reEnable(){
+return true
+}
+
+//if the browser is IE4+
+document.onselectstart=new Function ("return false")
+
+//if the browser is NS6
+if (window.sidebar){
+document.onmousedown=disabletext
+document.onclick=reEnable
+}
+
+
+</script>
 	</head>
 	
-	<body onkeydown="hotKeys(event);" onload="preloadImages();">
+	<body onkeydown="hotKeys(event);" onload="preloadImages();" oncontextmenu="return false;">
 	<div id="outer_container">
 	<div id="outer_container2">
 	<div id="inner_container">
@@ -171,15 +225,15 @@
 		</tr>
 		<tr>
 			<td class="news_left"></td>
-			<td width="179" align="center" style="padding: 5px;"><a href="/bags/calico-bags/cotton-bags.html"><img src="/thumbs/cotton-bags1.jpg"></a><br>
-			<b><a href="/bags/calico-bags/cotton-bags.html">Cotton Bags</a></b><br><br>
-			<span style="font-size: 13px;"><b>100</b> $4.35 &nbsp; <b>500</b> $2.60</span><br><br>
-				<a href="/pens/budget-metal-pens/president-metal-pens.html"><img src="/thumbs/engraved-corporate-president-pens1.jpg"></a><br>
-			<b><a href="/pens/budget-metal-pens/president-metal-pens.html">President Metal Pens</a></b><br><br>
-			<span style="font-size: 13px;"><b>100</b> $6.10 &nbsp; <b>500</b> $4.49</span><br><br>
-				<a href="/stresstoys/other-stress-toys/hard-hat-stress-shape.html"><img src="/thumbs/hard-hat-stress-shape1.jpg"></a><br>
-			<b><a href="/stresstoys/other-stress-toys/hard-hat-stress-shape.html">Hard Hat Stress Shape</a></b><br><br>
-			<span style="font-size: 13px;"><b>100</b> $3.59 &nbsp; <b>500</b> $1.60</span><br><br>
+			<td width="179" align="center" style="padding: 5px;"><a href="/badges/belt-buckles/curved-promotional-beltbuckles.html"><img src="/thumbs/curved-promotional-beltbuckles1.jpg"></a><br>
+			<b><a href="/badges/belt-buckles/curved-promotional-beltbuckles.html">Curved Promotional Beltbuckles</a></b><br><br>
+			<span style="font-size: 13px;"><b>100</b> $17.68 &nbsp; <b>500</b> $11.13</span><br><br>
+				<a href="/compendiums-and-diaries/cheap-promotional-compendiums/leather-compendiums.html"><img src="/thumbs/leather-compendiums.jpg"></a><br>
+			<b><a href="/compendiums-and-diaries/cheap-promotional-compendiums/leather-compendiums.html">Leather Compendiums</a></b><br><br>
+			<span style="font-size: 13px;"><b>100</b> $22.87 &nbsp; <b>500</b> $17.68</span><br><br>
+				<a href="/clocks/silicon-watches/wristband-watches.html"><img src="/thumbs/wristband-watch.jpg"></a><br>
+			<b><a href="/clocks/silicon-watches/wristband-watches.html">Wristband Watches</a></b><br><br>
+			<span style="font-size: 13px;"><b>100</b> $0.00 &nbsp; <b>500</b> $2.72</span><br><br>
 				
 				</td>
 				<td class="news_right"></td>
@@ -192,7 +246,8 @@
 			<tr>
 				<td colspan="3" class="news_bottom"></td>
 			</tr>
-		</tbody></table>			</form></td>
+		</tbody></table>				<div>&nbsp;</div>
+							</form></td>
 			<td width="6"></td>
 			<td valign="top" align="left" width="881">		
  
@@ -266,106 +321,18 @@ Privacy Policy Last Modified 7th February 2007</div></td>
 <!-- /  Footer / -->
 	<div id="bottom"><br></div><br>
 	<div id="footer">
-      <div align="center">
+<div align="center">
         <table width="914" border="0" align="center" cellpadding="0" cellspacing="0">
-          
-          <tbody><tr>
-        <td align="left" width="20%"><b>PROMOTIONAL PRODUCTS:</b></td>    
-        <td align="left" width="20%"><b>OFFICE PRODUCTS:</b></td>
-        <td align="left" width="20%"><b>BAGS AND COMPENDIUMS:</b></td>
-        <td align="left" width="20%"><b>OTHER PROMOTIONAL ITEMS:</b></td>
-        <td align="left" width="20%"><b>PROMOTIONAL CLOTHING:</b></td>
-        </tr>
-          <tr>
-            
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/corporate-gifts.html">Promotional Corporate Gifts</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/bags/cheap-promotional-bags.html">Cheap Promotional Bags</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/umbrellas.html">Promotional Umbrellas</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/caps-and-hats.html">Promotional Caps</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"> <b><a href="http://www.freshpromotions.com.au/">Promotional Products Brisbane</a></b></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/compendiums-and-diaries.html">Promotional  Compendiums</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/mugs.html">Promotional Cups</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/umbrellas/golf-umbrellas.html">Promotional Golf Umbrellas</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/caps-and-hats.html">Promotional Hats</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/">Promotional Products Sydney</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/desk-and-computer.html">Promotional  Computer</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/water-and-drink-bottles.html">Promotional Drink Bottles</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/umbrellas/beach-umbrellas.html">Beach Umbrellas</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/clothing.html">Promotional Clothing</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/">Promotional Products Melbourne</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/usbs.html">Promotional  Flash Drives</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/sports.html">Promotional Sports Products</a></td>
-        <td align="left" width="20%"> <a href="http://www.freshpromotions.com.au/mugs.html">Promotional  Cups</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/lanyards.html">Promotional  Lanyards</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/">Promotional  Products Australia</a></td>
-        <td align="left" width="20%"> <a href="http://www.freshpromotions.com.au/compendiums-and-diaries.html">Promotional  Stationery</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/automotive.html">Promotional Travel  Products</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/stubby-and-bottle-coolers/promotional-drink-coolers.html">Promotional Drink Coolers</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/lapel-pins.html">Promotional Lapel Pins</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/">Promotional  Items</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/desk-accessories.html">Office Promotional Products </a></td>
-        <td align="left" width="20%"> <a href="http://www.freshpromotions.com.au/badges.html">Promotional  Name Tags</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/mugs.html">Promotional Mugs</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/clocks.html">Promotional Watches</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au">Promotional Gifts </a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/pens.html">Promotional Pens</a> </td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/stubby-and-bottle-coolers.html">Promotional Stubby Coolers</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/keyrings.html">Promotional  Keyrings</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/clothing/promotional-shirts.html">Promotional Shirts</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/corporate-gifts.html">Corporate Gifts </a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/clocks.html">Promotional  Watches</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/bags/cooler-bags.html">Cooler Bags</a></td>
-        <td align="left" width="20%">
-          <a href="http://www.freshpromotions.com.au/magnets.html">Promotional  Magnets</a></td>
-        <td align="left" width="20%"> <a href="http://www.freshpromotions.com.au/clothing/jackets.html">Jackets</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/automotive.html">Auto Promotional  Products</a></td>
-        <td align="left" width="20%"> 
-          <a href="http://www.freshpromotions.com.au/usbs.html">Promotional Usbs</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/bags/conference-bags.html">Conference Bags</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/wristbands.html">Promotional Wristbands</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/clothing/ladies-polo-shirts.html">Ladies Polo Shirts</a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/badges.html">Promotional  Badges</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/stresstoys.html">Promotional Stress  Balls</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/compendiums-and-diaries/leather-compendiums.html">Leather Compendiums</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/signs.html">Promotional  Signs</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/clothing/promotional-workwear.html">Promotional Workwear </a></td>
-        </tr>
-          <tr>
-            <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/bags.html">Promotional  Bags</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/novelties.html">Promotional Novelties</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/compendiums-and-diaries/compendiums.html">Compendiums</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/badges.html">Promotional  Name Tags</a></td>
-        <td align="left" width="20%"><a href="http://www.freshpromotions.com.au/clothing/mens-polo-shirts.html">Mens Polo Shirts</a>  </td>
-        </tr>
-                            </tbody></table>
-      </div>
-<br><br>
+<tbody><tr>
+<td width="20%" height="20" align="left"><b><a href="http://www.freshpromotions.com.au/blog/" title="Fresh Promotions Blog">Fresh Promotions Blog</a></b></td>
+<td width="20%" align="left"><b><a href="http://www.freshpromotions.com.au/" title="Promotional Products">Promotional Products</a></b></td>
+<td align="left" width="20%"><a href="http://www.freshpromotions.com.au/bags.html" title="Promotional Bags"><b>Promotional Bags</b></a></td>
+<td align="left" width="20%"><a href="http://www.freshpromotions.com.au/umbrellas.html" title="Promotional Umbrellas"><b>Promotional Umbrellas</b></a></td>
+<td align="left" width="20%"><a href="http://www.freshpromotions.com.au/caps-and-hats.html" title="Promotional Caps"><b>Promotional Caps</b></a></td>
+
+</tr>   
+</tbody></table>
+</div><br><br>
 		© 2012 Copyright Fresh Promotions | <a href="/">Home</a> | <a href="/fresh-guarantee.html">Fresh Guarantee</a> | <a href="/legal-notices.html">Legal Notices</a> | <a href="/privacy-policy.html">Privacy Policy</a> | <a href="/promotional-information-pages.html">Promotional Information Pages</a> | <a href="/site-map.html">Site Map</a> | <a href="/articles.html">Promotional Articles</a> | <a href="/delivery-information.html">Delivery Information</a> | <a href="/client-testimonials.html">Client Testimonials</a> | <a href="/contact-us.html">Contact Us</a>
 </div>
 <center><br>
