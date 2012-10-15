@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the redtag.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608031618id_/http%3A//www.redtag.com/help/policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015111752id_/http%3A//www.redtag.com/help/policies.aspx) for the most accurate reproduction.*
 
-# RedTag.com - Privacy Policy
+# RedTag.com - User Agreement
 
 Redtag, Inc. ("Redtag") has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.
 
 Redtag uses the information we collect about you to, among other things, process orders. When you register at Redtag, we collect your name, email addresses, mailing address, credit card number, and expiration date in order to process and fulfill your order. In some instances, products ordered at Redtag are shipped directly from our vendors, and some of your information is shared with these vendors to enable them to fulfill and ship your order.
 
-When you sign up for Redtag Auction Alerts, we need only an email address to send you the email topics that you have selected. We also use your email address to send you email notice of your bid and order status, and we may use your email address to send you notice of upgrades or changes to Redtag, new services, and special offers. You may choose not to receive any of these emails when you register or at a later date by accessing Redtag Auction Alerts.
+When you sign up for 'Redtag Alerts', we need only an email address to send you the email topics that you have selected. We also use your email address to send you email notice of your bid and order status, and we may use your email address to send you notice of upgrades or changes to Redtag, new services, and special offers. You may choose not to receive any of these emails when you register or at a later date by accessing 'Redtag Alerts'.
 
 We occasionally will ask for additional information from you. For instance, we may ask for your name, address, and e-mail address in connection with a contest or other promotional feature in which you participate, so we can administer the contest and notify winners. We may offer contests or promotions with third parties; policies concerning use of your personal data gathered in connection with any such contest or promotion will be specifically set forth in the rules and policies applicable to the contest or promotion.
-
-Redtag offers a service called "Tell a Buddy" that allows you to notify friends about open auctions. Please note, however, that Redtag opposes the practice of sending unsolicited commercial emails, also known as "spam." Therefore, we request that you send "Tell a Buddy" emails only to people known by you who may be interested in the auction. If someone asks you not to send these emails to him or her, please comply.
-
-When you bid on an item, you must enter the amount of your bid, your Redtag Login ID and your password. Your initials, city and state and your bid will be publicly available in the Current Winning Bids history.
 
 Recognizing the global nature of the Internet, you agree to comply with all applicable local laws and rules regarding online conduct and privacy, as well as content. Specifically, but not as a limitation, you agree to comply with all applicable laws regarding transmission of technical and personal data exported from the United States or the country in which you reside.
 
