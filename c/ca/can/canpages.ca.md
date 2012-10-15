@@ -1,71 +1,68 @@
-> *The following text is extracted and transformed from the canpages.ca privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512212730id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canpages.ca privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015211955id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.*
 
-# Canpages: Privacy Policy
+# Yellow Media Inc. | Privacy Statement
 
-1\. When you visit our web site, our web server will log information about you as a visitor that is not personally identifiable. For example, it may record the type of Internet Browser you are using, your computer operating system, and the domain name of the Web site from which you linked to our site. 
+Yellow Pages Group Co. together with its subsidiaries “we”, “us”, “YPG“) has created this privacy statement (the “Statement”) is firmly committed to the protection of your privacy. This Statement sets out how we collect, use and secure the personal information of individuals using any website owned by us (each, a “ **YPG Website** ”). This Statement reflects the requirements of Canada's Federal and Provincial privacy legislation as well as our continuous commitment to protecting your personal information.  This Privacy Statement is a simplified version of our Privacy Policy which is accessible by [clicking here](https://web.archive.org/images/ckeditor/files/Privacy%20Policy%202009%20.pdf).
 
-2\. Also, we may collect data from you in a non-identifiable format and combine it with other non-identifiable information. This information is used and analyzed to help us: understand trends and patterns; improve the content and design of the Canpages website; and to enable our audit bureau to verify our claims of traffic to the site; and to help advertisers and potential advertisers to assess the suitability of our site for their advertisements. The information we receive in this manner is not personal information about an identifiable individual. 
+The Privacy Policy related to your Yellow Pages Account is a supplement to the Privacy Policy and can be found [here](http://www.ypg.com/en/privacy-policy-for-use-of-the-yellow-pages-account).
 
-3\. Users who wish to use our enhanced or personalized services may be required to provide additional information. By voluntarily providing more personal information you allow us to increase the value of your experience on our site. Canpages.ca will use the data collectively for its own statistical analyses of its services. Canpages.ca may also ask users to complete surveys for research purposes only. All demographic and behavioural research is compiled on an aggregated basis and would only be shared in aggregate form to interested third parties. 
+**BY USING A YPG WEBSITE, YOU AGREE TO BE BOUND BY THE FOLLOWING PRIVACY STATEMENT. IF YOU DO NOT AGREE WITH THIS STATEMENT, DISCONTINUE ALL USE OF THIS SITE IMMEDIATELY.**
 
-4\. By providing an e-mail address, a user may from time to time receive communications from Canpages.ca on its new products and services or special offers that may be of interest. You can always opt out at the time of registration or at any time by telling us if you don't want to receive any e-mail communications from Canpages.ca. 
+**What is “Personal Information”?**
 
-5\. In providing Canpages Street Scene Service, Canpages has been sensitive to avoid including photographic information which would provide personal information about identifiable individuals. We are sensitive to the privacy concerns that might be raised by individuals who were photographed during the preparation of the data required by the Street Scene service. Photographs of identifiable individuals are in no way required by the service. The assembly of the data is designed to deliberately blur the faces of any individual who may be photographed in this process. You will notice as a result that no individual can be identified while using the Mapjack service. If you wish to report a privacy concern, please do so by clicking the "report a concern" on one the Street Scene Service Page. 
+Personal information is information about you that uniquely identifies you as an individual. Your name, address, e-mail address, or telephone number are all examples of personal information.  However, the name, address and telephone number of an individual that appears in a telephone directory that is available to the public (where such individual can refuse to have such information appears in such directory) does not fall under the scope of “personal information as it is publicly available information. Also, in some circumstances, some of this information may qualify as business information which is not covered by this Statement.
 
-6\. Canpages.ca reserves the right to change its policy at any time by notifying users of the existence of a new privacy statement. This statement does not create any contractual rights on behalf of any party. 
+**Collection of Personal Information**
 
-7\. Cookies 
+We do not automatically gather any personal information from users of YPG Websites. Personal information is only obtained online if you supply it voluntarily, usually through contacting us via e-mail, applying online for a contest, answering online surveys, submitting a posting to a blog, forum, or review or registering for services. You are not required to supply personal information to view the content of any YPG Website.  You should also be aware that when you share personal information in public areas of a YPG Website, this information may be seen and used by others users. We urge you to exercise good judgment when sharing personal information in these areas.
 
-Canpages.ca uses Cookies to track user patterns on its web site. Canpages.ca is taking advantage of cookies to enhance its services to users. 
+If you decide not to provide us with personal information online, no material consequences will result, although you may be unable to participate in certain promotions, receive product information, or use portions of a YPG Website that require personalized information or applications. YPG Websites provides users the opportunity to opt-out of receiving communications from us at the point where we request contact information about you.
 
-**a) What is a Cookie?**   
+YPG Websites may use cookies to track user traffic patterns. A cookie is a small data file that certain websites write to your hard drive when you visit them. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data from your hard disk or cookie files created by other websites. YPG does not correlate this information with data about individual users, nor does it share this information or sell it to any third party.  We only use cookies to tailor the visitor's experience to the YPG Websites. If you prefer not to receive cookies from a YPG Website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. This could affect the areas of YPG Website that are accessible to you.
 
+We may use software that receives and records the Internet Protocol (IP) address of the computer that has contacted YPG Websites. We make no attempt to link these addresses with the identity of individuals visiting YPG Websites.
 
-Web servers are able to store small text information on web browsers. This information is called a Cookie. Cookies are basically used to keep track of user navigation and status on a web site. Also Cookies help web sites that provide personalized services to identify their users and display appropriate information to each registered user.
+We may also use service providers to serve third party’s advertisements on YPG Websites or YPG advertisements on other websites. In serving advertisements these providers may place cookies on your browser computer and may collect certain anonymous information about your visits to other websites or on YPG Websites. This information may include browser type, IP address, domain name and the name of the web page from which you entered such websites, web activity and time of day. This information is used by these third parties to better understand and optimize the online advertising campaigns.
 
-**b) Where does Canpages.ca use a Cookie?**   
+From time to time, we analyze traffic and use YPG Websites to determine which features and services people like and do not like so that we can improve what we do. We prepare aggregated user statistics or information summaries in order to describe our services to third parties such as prospective business partners and advertisers and for other lawful purposes.
 
+**Use and Sharing of Personal Information**
 
-Canpages.ca uses Cookies to track user patterns on its web site. Canpages.ca is taking advantage of cookies to enhance its services to users. 
+We will generally collect and use personal information to administer our contests, promotions, surveys, reward programs and other services, to understand our customers’ responses, needs and preferences, and to generally manage our business.
 
-**c) How safe is using a Cookie?**   
+We may also use personal information to contact our customers or suppliers with marketing or promotional materials regarding our products, programs and services or to assist our front-line staff in providing tailored sales offers to our customers. We may exchange or merge personal information with data obtained from third parties for the same purposes.
 
+Personal information may be shared with our agents or contractors in connection with services that they perform for us. Our written agreements with such agents and contractors ensure that personal information can only be used for the purposes for which it was shared with them, and that they handle the personal information in accordance with this Statement. Some of our agents and contractors are located outside of Canada and, as such, are subject to foreign laws, including laws that may require disclosure of personal information to government agencies in those countries.
 
-Because the Cookie information is a text value, there is no need to be worried about possible damage to your computer's software and data. No virus or executable code will be set on your computer as a result of setting a Cookie. Cookie sizes are limited so they won't take a lot of space. 
+**Your Consent**
 
-**d) Who can see my Cookies?**   
+By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Statement as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. If you do not want your personal information to be collected, used or disclosed in this manner, then please either: 
 
-
-Essentially the web site that you visit sets the Cookie on your browser and will be referring to it later. But this is not a hidden information to the Internet world. That is the reason why Cookie values are scrambled and encrypted so the text value will not be too obvious for public. The cookie value set by Canpages.ca on your computer is meaningful only to this web site. 
-
-**e) How long will the Cookie stay on my computer?**   
-
-
-Some Cookie values are erased when you close your browser and some remain for future usage. Canpages.ca sets both types of cookies on your computer. The user identification Cookie will remain until the user signs off and clears it from their computer. 
-
-**f) Hints on using Cookies on Canpages.ca**   
+  * do not submit your personal information to us;
+  * exercise opt-out procedures described above or as may be offered at the time of collection, or 
+  * refrain from exercising opt-in procedures described above or as may be offered at the time of collection.
 
 
-Canpages.ca is using Cookies to identify registered users in order to streamline their personalized services. Without a Cookie, personalized services will not operate. Therefore users must enable their browsers to use Cookies. The identification of a user name is set as a Cookie in the registration phase. This ID will remain on that computer until it's removed and cleared by the user. Therefore any individual may use your computer to access your personalized services. Canpages.ca overcomes this issue by asking the user to enter in their password even though the user identification is understood from the Cookie value. Your identification Cookie is stored on all computers where you have entered your user name and password. When using another computer where you have never accessed your account before you will need to enter your user name and password because the identification Cookie was not set on that specific computer. 
 
-1\. Our privacy policies follow the 10 principles of fair information practices as described by the Privacy Commissioner for Canada: 
+If you have submitted personal information to us and wish to withdraw your consent to its retention, use or disclosure, please send an e-mail to [privacy@ypg.com](mailto:privacy@ypg.com). You may withdraw your consent, subject to legal or contractual restrictions and reasonable notice. If you withdraw your consent, we may not be able to provide some products or services to you.
 
-a. Accountability: An organization is responsible for personal information under its custody and shall designate an individual or individuals who are accountable for the organization's compliance with the following principles. 
+Where permitted or required by law, we may collect, use or disclose your personal information without your consent, for example, to collect a debt you owe us, to comply with a legally permitted inquiry by a government agency, or to comply with a court order.
 
-b. Identifying Purposes: The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected. 
+**Safeguards and Retention**
 
-c. Consent: The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate. 
+We use physical, organizational and technological safeguards to protect your personal information against theft, loss or unauthorized access, use, modification, disclosure or disposal.  Generally speaking, you can visit YPG Websites without revealing personal information. However, given that electronically submitted data is not 100% secure, we make no warranties as to the security of any personal information you submit online, which you do at your own risk.
 
-d. Limiting Collection: The collection of personal information shall be limited to that which is necessary for the purposes identified by the organization. Information shall be collected by fair and lawful means. 
+**Terms of Use & Changes to this Statement  **
 
-e. Limiting Use, Disclosure and Retention: Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes. 
+Your use of YPG Websites, and any disputes arising from it, is subject to this Statement and governed by our Terms of Use, including its choice of law provisions. We reserve the right to change and update the Policy and these changes will be made when appropriate, in a timely manner. We encourage you to examine our Policy from time to time to ensure you are aware of any changes we may have made.
 
-f. Accuracy: Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. 
+**Access and Contact**
 
-g. Safeguards: Personal information shall be protected by security safeguards appropriate to the sensitivity of the information. 
+Upon written request, YPG will provide you access to your personal information, subject to certain exceptions as provided by the applicable legislation. If you notice any errors or omissions in your personal information, please advise us in writing and we will promptly correct them where appropriate. If you have concerns regarding our Statement, the security of your personal information or our compliance with the applicable personal information protection legislation, please send a brief explanation of your concern to our Privacy Officer at:
 
-h. Openness: An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information. 
-
-i. Individual Access: Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information, and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. 
-
-j. Challenging Compliance: An individual shall be able to address a challenge concerning compliance with the above principles to the designated individual or individuals accountable for the organization's compliance. 
+Privacy Officer  
+Yellow Pages Group  
+16 Place du Commerce  
+Île des Sœurs  
+Verdun, Québec H3E 2A5  
+[privacy@ypg.com](mailto:privacy@ypg.com).
