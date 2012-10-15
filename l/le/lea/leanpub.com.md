@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628085210id_/http%3A//leanpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015090334id_/https%3A//leanpub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _This Privacy Policy is effective as of October 30, 2009._
 
-Ruboss Technology Corporation ("Ruboss") is the company that runs the Leanpub service found at <http://leanpub.com/>. This is the Privacy Policy for the Leanpub service. You accept it when accept the complete Terms of Service of the Leanpub service.
+Ruboss Technology Corporation ("Ruboss") is the company that runs the Leanpub service found at <https://leanpub.com/>. This is the Privacy Policy for the Leanpub service. You accept it when accept the complete Terms of Service of the Leanpub service.
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:
 
