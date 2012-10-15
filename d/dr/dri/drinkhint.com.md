@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403004057id_/http%3A//www.drinkhint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015230410id_/http%3A//www.drinkhint.com/privacy) for the most accurate reproduction.*
 
-# HINT - Privacy Policy
+# Privacy Policy
 
 Hint Inc. (Hint Essence Water) recognizes the importance of protecting the privacy of personal information collected from users of our Web site. By accessing our Web site, you are assenting to the terms of this Privacy Statement and the terms of the user agreement.
 
