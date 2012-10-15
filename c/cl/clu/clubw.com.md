@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubw.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509220111id_/http%3A//www.clubw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubw.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016003613id_/http%3A//clubw.com/privacy) for the most accurate reproduction.*
 
 # Club W
 
