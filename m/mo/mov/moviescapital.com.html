@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moviescapital.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511021929id_/http%3A//www.moviescapital.com/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moviescapital.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015074908id_/http%3A//www.moviescapital.com/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -50,14 +50,7 @@ function MM_swapImage() { //v3.0
   <tbody><tr>
     <td>
 	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="top-container">
-  <tbody><tr>
-    <td>
-	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="963" height="205" title="banner">
-        <param name="movie" value="images/demon5_2.swf">
-        <param name="quality" value="high">
-        <embed src="images/demon5_2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="963" height="205">
-	    </object>
-</td>
+  <tbody><tr>    <td valign="top" id="header_flash"><div class="banner-tab"><div class="blank"></div><div class="navigation"><ul><li><a href="index.html">Home</a></li><li><a href="NewsLetter.htm">Special Offers</a></li><li><a href="Movie_Content_Acquisitions.htm">Content Acquisition</a></li><li><a href="downloadinfo.html">Download Info</a></li><li><a href="Blog.htm">Blog</a></li><li><a href="signup.html">Regsiter</a></li></ul></div></div></td>
   </tr>
 </tbody></table>
 	</td>
@@ -380,6 +373,37 @@ Copyright MoviesCapital.com © 2011 ® All rights reserved. <span class="footer-
   
 
 
+<script type="text/javascript">
+<!--
+var MM_contentVersion = 6;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR' + 'IPT\> \n');
+}
+if ( MM_FlashCanPlay ) {
+	//alert("Normal Browser");	
+} else{
+	//alert("Phone");
+	document.getElementById('header_flash').innerHTML = '<div class="banner-tab"><div class="blank"></div><div class="navigation"><ul><li><a href="index.html">Home</a></li><li><a href="NewsLetter.htm">Special Offers</a></li><li><a href="Movie_Content_Acquisitions.htm">Content Acquisition</a></li><li><a href="downloadinfo.html">Download Info</a></li><li><a href="Blog.htm">Blog</a></li><li><a href="signup.html">Regsiter</a></li></ul></div></div>';
+	//document.getElementById('body_flash').innerHTML = '';
+}
+//-->
+
+</script>
 
 
 </td></tr></tbody></table></body></html>
