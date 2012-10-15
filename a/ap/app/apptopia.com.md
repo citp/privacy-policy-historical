@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626062445id_/http%3A//apptopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015050302id_/http%3A//www.apptopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Apptopia
 
@@ -67,41 +67,3 @@ The Website, any communications from Apptopia, and messages posted through the W
 #### Our Policy Towards Children
 
 The Website is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [Support@apptopia.com](mailto:Support@apptopia.com). We will take actions to promptly remove such data. We do not knowingly collect personally identifiable information from children under 18. If we become aware that a child under 18 has provided us with personal identifiable Information, we will delete such information from our files.
-
-close
-
-## What is Apptopia?
-
-* * *
-
-Apptopia’s exchange helps broker the sale of mobile apps. By “sale”, we mean selling & transferring ownership, code, users, revenues, etc.
-
-* * *
-
-  * ### Simple & Easy to Use
-
-Every day we strive to make this entire process as easy as possible for you. One of the first ways we do that is by providing app valuation tools for sellers, and a search platform for buyers that makes it very simple & intuitive to navigate our inventory.
-
-  * ###  We Help You Make Money
-
-Our platform represents a new way for people to make money in mobile. For the first time mobile app developers now have a legitimate exit strategy. On the same note buyers (who may or may not be technical) now have an actual channel to invest in mobile (that isn’t buying Apple stock…).
-
-  * ### Painless Transfer Process
-
-But we don’t stop at simply connecting buyers with sellers. Apptopia has transfer specialist on staff 24/7, 365 days a year to help you work with Apple or Android and make sure the app transfer process is as smooth (and painless) as possible.
-
-
-
-
-close
-
-## Facebook
-
-* * *
-
-Ya. So, we don’t really get the whole Facebook for business thing. Why send you away from our site, to a place where you can’t buy apps, and can’t really communicate effectively with us? 
-
-We would much rather you hang here, or pick up the phone and say “hi”!
-
-We are always here:  
-[855-Apptopia](callto://185527786742) or [hi@apptopia.com](mailto:hi@apptopia.com)
