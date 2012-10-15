@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511190721id_/http%3A//www.testmasters.net/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015201152id_/http%3A//www.testmasters.net/Home/Privacy-Policy) for the most accurate reproduction.*
 
 # TestMasters Privacy Policy
 
@@ -12,17 +12,19 @@ TestMasters collects various types of information from our visitors in order to 
 
 ###  Automatically Collected Non-Personal Information 
 
-Each time you visit one of our websites, your browser or Internet session automatically sends us certain types of non-personal information. This may include information about what browser or what type of computer you use, or information about your operating systems, Internet service provider, or IP address. Our system also automatically gathers information about which areas of our sites you visit and any links on our sites that you use to access other areas of the World Wide Web. We use such information in the aggregate to understand how our visitors use our websites and to make adjustments and improvements. If you would like to have your automatically collected information removed from TestMasters Websites, contact our administrative office. However, if you take our course, purchase our books, or register for any of our services, we will not remove your personal information from our student database.
+Each time you visit one of our websites, your browser or Internet session automatically sends us certain types of non-personal information. This may include information about what browser or what type of computer you use, or information about your operating systems, Internet service provider, or IP address. Our system also automatically gathers information about which areas of our sites you visit and any links on our sites that you use to access other areas of the World Wide Web. We use such information in the aggregate to understand how our visitors use our websites and to make adjustments and improvements. If you would like to have your automatically collected information removed from TestMasters Websites, contact our administrative office. However, if you take our course, purchase our books, or register for any of our services, we will not remove your personal information from our student database, but we will not solicit you or use your information for any purpose other than record-keeping.
 
 ###  User Provided Personal Information 
 
-In addition to non-personal information automatically collected by your browser, TestMasters also collects personal information that you provide to us when you register for our products or services, or request information regarding one of our programs. Personal Information may be used for marketing purposes and may result in follow-up communications.
+In addition to non-personal information automatically collected by your browser, TestMasters also collects personal information that you provide to us when you register for our products or services, or request information regarding one of our programs. Personal Information may be used for marketing purposes and may result in follow-up communications. If you would like to have your user provided personal information removed from TestMasters Websites, contact our administrative office. However, if you take our course, purchase our books, or register for any of our services, we will not remove your personal information from our student database, but we will not solicit you or use your information for any purpose other than record-keeping. 
 
-TestMasters’ registration sites, the Student Online Resource Center and the Employee Area, require visitors to provide contact information and/or unique identifiers upon registration. Information collected may include a user’s name, address, email address, educational background, year(s) of graduation, as well as unique identifiers, such as their social security numbers or student ID numbers. Contact information is utilized to contact our visitors if necessary. Unique identifiers are employed to verify the user’s identity prior to allowing visitor access to some of our online services. Opt-out policy: You can choose NOT provide personal information by NOT registering on our websites. While you will be able to access the public portion of our websites, you will not be able to access areas that require registration.
+TestMasters’ registration sites, the Student Online Resource Center and the Employee Area, require visitors to provide contact information and/or unique identifiers upon registration. Information collected may include a user’s name, address, email address, educational background, year(s) of graduation, as well as unique identifiers, such as their social security numbers or student ID numbers. Contact information is utilized to contact our visitors if necessary. Unique identifiers are employed to verify the user’s identity prior to allowing visitor access to some of our online services. You can choose NOT provide personal information by NOT registering on our websites. While you will be able to access the public portion of our websites, you will not be able to access areas that require registration.
 
-Our payment websites allow customers to request products and services from TestMasters and require visitors to provide contact information and financial information, such as credit card numbers. Contact information is used to send materials to the customer and to contact the customer if necessary. Financial information collected is used to bill the user for the products ordered. Opt-out policy: You can choose NOT to provide your payment information online. Instead, you can call TestMasters administrative office and provide the personal and financial information required. 
+Our payment websites allow customers to request products and services from TestMasters and require visitors to provide contact information and financial information, such as credit card numbers. Contact information is used to send materials to the customer and to contact the customer if necessary. Financial information collected is used to bill the user for the products ordered. You can choose NOT to provide your payment information online. Instead, you can call TestMasters administrative office and provide the personal and financial information required. 
 
-Many of our websites provide users the opportunity to request information from TestMasters. Users must detail what information they would like to receive and provide TestMasters with their contact information which will be used to respond to their request. Opt-out policy: You can choose NOT to provide this information online. Instead you can call TestMasters and request to have information provided over the phone or mailed to you.
+Many of our websites provide users the opportunity to request information from TestMasters. Users must detail what information they would like to receive and provide TestMasters with their contact information which will be used to respond to their request. You can choose NOT to provide this information online. Instead you can call TestMasters and request to have information provided over the phone or mailed to you.
+
+If you wish to cancel your live course enrollment, TestMasters must receive your withdraw request in writing at our administrative office at least 10 days before the first class meeting. TestMasters will refund your payment within two business days. TestMasters does not allow withdrawals from the online course and all payments towards this class are non-refundable. Your personal information will remain in our student database. You may opt-out of further communications from TestMasters by contacting our administrative office. If you opt-out, we will not solicit you or use your information for any purpose other than record-keeping
 
 ###  Transfer of Data to TestMasters in the United States 
 
@@ -58,13 +60,13 @@ By using the TestMasters Websites, you signify your acceptance of our Privacy Po
 
 > ####  Cookies
 > 
-> Data created by a web server that is stored on a user’s computer. It provides a way for the website to keep track of a user’s patterns and preferences and, with the cooperation of the Web browser, to store them on the user’s own hard disk. The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the web server. You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
+> Data created by a web server that is stored on a user’s computer. It provides a way for the website to keep track of a user’s patterns and preferences and, with the cooperation of the Web browser, to store them on the user’s own hard disk. The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the web server. You can avoid the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
 > 
 > **NOTE: If you disable cookies in your browser, you will not be able to access any of TestMasters’ secured websites.**
 > 
 > ####  IP (Internet Protocol) Address
 > 
-> This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods (e.g., 204.171.64.2.). 
+> This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods (e.g., 192.168.64.2). 
 > 
 > ####  Browser Session
 > 
@@ -80,10 +82,10 @@ By using the TestMasters Websites, you signify your acceptance of our Privacy Po
 
 TestMasters, The TestMasters Logo, and any other trademarks on the TestMasters Websites are trademarks owned by Robin Singh Educational Services, Inc., DBA TestMasters. You may not use the TestMasters trademarks in connection with any product or service that does not belong to us, or in any manner that is likely to cause confusion among users about whether we are the source, sponsor, or endorser of the product or service, or in any manner that disparages or discredits us.
 
-The TestMasters Administrative Office is located at:  
-1620 26th Street, Suite 1000N. Santa Monica, CA 90404 
+The TestMasters Administrative Office  
+1620 26th Street, Suite 1000N. Santa Monica, CA 90404  
+1-800-696-5728  
+info@testmasters.net 
 
 [Complete List of TestMasters Courses](https://web.archive.org/schedule/all)  
 [LSAT Prep Locations](https://web.archive.org/lsat-prep)
-
-© 1991-2012 TestMasters. All rights reserved. 
