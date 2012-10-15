@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516003212id_/https%3A//www.trademonster.com/Privacy-Policy/Privacy-Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015093237id_/https%3A//www.trademonster.com/Privacy-Policy/Privacy-Policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Secure Trading & Privacy - tradeMONSTER
 
@@ -84,7 +84,7 @@ optionMONSTER® Holdings, Inc is a leading provider of market intelligence and a
 
 Founded in 2006 and based in Chicago, the heart of the options industry, optionMONSTER® Holdings, Inc.'s unique perspective marries high-tech analysis of the day's market activity to the traditional floor trader's savvy. 
 
-Founded in 2007 and also based in Chicago, OM Securities LLC offers discount brokerage services via a fully disclosed clearing arrangement with Penson Financial Services, Inc. via the website www.trademonster.com. 
+Founded in 2007 and also based in Chicago, OM Securities LLC offers discount brokerage services via a fully disclosed clearing arrangement with Apex Clearing Corporation via the website www.trademonster.com. 
 
 Risk and Disclosure Information
 
