@@ -1,19 +1,28 @@
-> *The following text is extracted and transformed from the sotostore.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514031339id_/http%3A//www.sotostore.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotostore.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015055433id_/http%3A//www.sotostore.com/store/privacy-and-cookies) for the most accurate reproduction.*
 
-# Soto Berlin Online Store - Privacy Policy
+# Privacy & Cookies | SOTO Berlin
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.
+  * English
+  * Deutsch
 
-  We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service. If we send you an e-mail in the future, we will give you the chance to refuse any further marketing email from us in the future. From time to time we may send you marketing messages in the post, if you prefer not to receive these please let us know.
 
-  The type of information we will collect about you includes: your name, address, phone number and e-mail address. We do not share this information with any other company or organisation. We will never collect sensitive information about you without your explicit consent.
 
-  Online payments are handled securely by PayPal, and as a result we do not store credit/debit card details from online transactions. The security of your information, transactions, and money is the top priority at PayPal. PayPal Fraud Protection Services leverages the Secure Sockets Layer (SSL) protocol, which provides crucial online identity and security to help establish trust between parties involved in e-commerce transactions. You can be assured that this website is genuine and that the information you send stays private and confidential.
+### Privacy
 
-  Using SSL with an encryption level of 128 bits (the highest level commercially available), PayPal automatically encrypts your confidential information from your computer to PayPal's servers, which are heavily guarded both physically and electronically. These servers sit behind a monitored electronic firewall and are not connected directly to the internet, so your private information is available only to authorised computers.
+**1.** We take privacy very seriously. All customer data are saved and processed by sotostore.com solely in accordance with the relevant data protection laws. In particular, personal data are being collected, saved, and used exclusively for the purpose of processing the order or with your explicit consent. Furthermore, addresses and ordering data are collected, processed and used for internal marketing purposes. We do not store personal data longer than is absolutely required.
 
-  You can check the information that we hold about you by emailing us here. If you find any inaccuracies we will delete or correct them promptly.
+**2.** In case you would prefer your personal data not to be used, processed, and transmitted for marketing purposes, simply inform us by post or email at info@sotostore.com. Please be aware, however, that this does not apply to the data that are necessary to process your order. Upon receipt of your notice, we will only use, process and transmit your data in order to process the latter. In addition, your information will not be used for advertising actions.
 
-  We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
+**3.** We do not forward personal data to third parties except with regard to subcontractors of sotostore.com that require the transfer of data to process the order. In these cases, however, the scope of the data transfer is restricted to the required minimum.
 
-  If you have any questions/comments about privacy, please email us via our contact page.
+**4.** In addition, sotostore.com uses cookies that are put into use beyond the session (“trans-session cookies”). These cookies are meant to make our offer user-friendlier, more effective, and even more targeted. These data files make it possible, for instance, for you to view information on our site that you are specifically interested in. The only purpose is to adapt our offer to the wishes of our customers and to make surfing as comfortable as possible.
+
+**5.  **sotostore.com uses for its website the Google remarketing function. This feature allows us to show text and display ads within the Google content network only to those users who have previously visited the site sotostore.com. The use of cookies by Google can be disabled by the user when going to the Google website and deactivating Google ads.
+
+**6.**  This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States .
+
+In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transfered to a Google server in the USA and truncated there. The IP-anonymisation is active on this website.
+
+Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
+
+The IP-address, that your Browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser:<http://tools.google.com/dlpage/gaoptout?hl=en>.
