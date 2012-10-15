@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-training-course.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622062528id_/http%3A//www.seo-training-course.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-training-course.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015065735id_/http%3A//www.seo-training-course.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Web CEO University Privacy Policy
 
