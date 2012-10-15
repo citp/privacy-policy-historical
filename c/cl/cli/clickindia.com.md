@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625222559id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015192913id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
