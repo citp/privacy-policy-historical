@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620183732id_/http%3A//www.makingfriends.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015134727id_/http%3A//www.makingfriends.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
