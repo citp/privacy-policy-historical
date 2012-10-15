@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513123437id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015114408id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Caspio Privacy Statement
 
@@ -136,5 +136,5 @@ To contact us regarding this Privacy Statement, [contact us](https://web.archive
 **Address:**  
 Caspio, Inc.  
 Privacy  
-485 N. Whisman Road, Suite 200  
-Mountain View, CA 94043, USA
+2953 Bunker Hill Lane, Suite 201  
+Santa Clara, CA 95054 USA
