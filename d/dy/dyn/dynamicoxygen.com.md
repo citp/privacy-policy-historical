@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the dynamicoxygen.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicoxygen.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015231844id_/http%3A//www.dynamicoxygen.com/privacy.htm) for the most accurate reproduction.*
 
 # DynamicOxygen - The New Wave in Search Targeting!
 
-  |  | | [Company Overview](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/about.htm)  
+  |  | | [Company Overview](https://web.archive.org/web/20121015231844id_/http%3A//www.dynamicoxygen.com/about.htm)  
   
 ---|---  
-| [Product Overview](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/product_overview.htm)  
+| [Product Overview](https://web.archive.org/web/20121015231844id_/http%3A//www.dynamicoxygen.com/product_overview.htm)  
   
-| [Investor Relations](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/investor_relations.htm)  
+| [Investor Relations](https://web.archive.org/web/20121015231844id_/http%3A//www.dynamicoxygen.com/investor_relations.htm)  
   
-| [Careers](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/careers.htm)  
+| [Careers](https://web.archive.org/web/20121015231844id_/http%3A//www.dynamicoxygen.com/careers.htm)  
   
-| [Press Resources](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/press_resources.htm)  
+| [Press Resources](https://web.archive.org/web/20121015231844id_/http%3A//www.dynamicoxygen.com/press_resources.htm)  
   
 | Privacy Policy  
   
@@ -31,7 +31,7 @@ Non-PII may be collected from browsers, advertisers and third-party sites via th
 
 **Opt-out of Cookies**
 
-You may opt-out of DO Cookies at [Dynamic Oxygen Opt Out Page](https://pub.dynamicoxygen.com/optout.jsp)
+You may opt-out of DO Cookies at [Dynamic Oxygen Opt Out Page](https://member.dynamicoxygen.com/optout.jsp)
 
 **PII**
 
