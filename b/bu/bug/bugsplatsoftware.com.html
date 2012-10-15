@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bugsplatsoftware.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602141930id_/http%3A//www.bugsplatsoftware.com/browse/Privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bugsplatsoftware.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015232928id_/http%3A//www.bugsplatsoftware.com/browse/Privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Privacy Policy</title>
                              <meta name="description" content="Turn-key Crash Reporting">
@@ -10,13 +10,26 @@
             <meta name="author" content="BugSplat, LLC">
             <meta name="verify-v1" content="wrMu7O31ay4bwu4D7d38FSmQQM9d5KQ27TXCl5LcXO4=">
             <meta name="google-site-verification" content="VAFcF9io-Oap_wLQA811t4qtg-MZYk2FhQvvxPvggB8">
-                                    <link href="/css/bs01.css" rel="stylesheet" type="text/css">
+                        		    <link type="text/css" href="/css/ui-lightness/jquery-ui-1.8.23.custom.css" rel="stylesheet">
+            <link href="/css/bs01.css" rel="stylesheet" type="text/css">
             <!--[if IE]>
               <link href="/css/bs01ie.css" rel="stylesheet" type="text/css">
             <![endif]-->
             <link rel="alternate" type="application/rss+xml" title="BugSplat News (RSS 2.0)" href="/browse/newsrss.php?rss">
 			<link rel="canonical" href="http://www.bugsplatsoftware.com/browse/Privacy.php">
             <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/chrome.js"></script>
+		    <script type="text/javascript" src="/js/jquery-1.8.0.min.js"></script>
+		    <script type="text/javascript" src="/js/jquery-ui-1.8.23.custom.min.js"></script>
+            <script type="text/javascript" src="/js/jquery-ui-timepicker-addon.js"></script>    
+            <!-- additional styling for timepicker plugin -->
+            <style>
+                /* css for timepicker */        
+                .ui-timepicker-div .ui-widget-header{ margin-bottom: 8px; }
+                .ui-timepicker-div dl{ text-align: left; }
+                .ui-timepicker-div dl dt{ height: 25px; }
+                .ui-timepicker-div dl dd{ margin: -25px 0 10px 65px; }
+                .ui-timepicker-div td { font-size: 90%; }
+            </style>
                         <script type="text/javascript" src="/js/prototype.lite.js"></script>
         	<script type="text/javascript" src="/js/moo.fx.js"></script>
         	<script type="text/javascript" src="/js/moo.fx.pack.js"></script>
@@ -24,7 +37,7 @@
         	<script type="text/javascript" src="/js/moo.fx.accordion.js"></script>
         	<script type="text/javascript" src="/js/moo.fx.transitions.js"></script>
                 	<script type="text/javascript">
-var xajaxRequestUri="https://www.bugsplatsoftware.com/browse/Privacy.php";
+var xajaxRequestUri="http://www.bugsplatsoftware.com/browse/Privacy.php";
 var xajaxDebug=false;
 var xajaxStatusMessages=false;
 var xajaxWaitCursor=false;
@@ -39,8 +52,7 @@ function xajax_updateStatistics(){return xajax.call("updateStatistics", argument
 window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /xajax/xajax_js/xajax.js'); } }, 6000);
 	</script>
                     <script language="JavaScript" type="text/javascript" src="/js/flash.js"></script>
-     
-			<!-- Google Analytics - new asynchronous tracking code -->
+     			<!-- Google Analytics - new asynchronous tracking code -->
 			<script type="text/javascript">
 
 			var _gaq = _gaq || [];
@@ -56,7 +68,8 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 
-		    
+		    				_gaq.push(['_setVar', 'AuthenticatedUser']);
+           
 			</script>
             <!-- Google Analytics End -->
 			
@@ -70,10 +83,10 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
                  <h2><a href="/index.php">Turn-key Crash Reporting</a></h2>
              </div>
 
-              <ul class="login">              <li><a href="/post/post_form.php">Did your application just crash?</a></li>
-              <li>|</li>
-              <li><a href="https://www.bugsplatsoftware.com/login.php">Login</a></li>
-             </ul>			  <div class="social">
+              <ul class="login"><li><a href="/browse/acctsummary.php">Crash Reports</a></li><li> | </li>
+    	    <li>Logged in as Demo</li>
+    	    <li>|</li>
+    	    <li><a href="/logout.php">Logout</a></li> </ul>			  <div class="social">
 			  <a href="http://www.linkedin.com/in/crinaburke"><img src="/imgs/assets/SM_LIicon.png" alt="LinkedIn"></a>
 				  <a href="http://twitter.com/BugSplatCo"><img src="/imgs/assets/SM_TWicon.png" alt="Twitter"></a>
 				  <a href="http://www.youtube.com/watch?v=6vAAceHqzfs"><img src="/imgs/assets/SM_YTicon.png" alt="YouTube"></a>
@@ -104,7 +117,22 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
              <a href="http://www.cafepress.com/bugsplat" target="_blank">Store</a>
            </div>
 
-             <script type="text/javascript">cssdropdown.startchrome("navlg")</script>
+             <!--div id="dropmenu3" class="dropmenudiv">
+          <a href="/browse/acctsummary.php">Crash Report Overview</a>
+          <a href="/browse/allcrash.php">All Crash Reports</a>
+          <a href="/browse/summary.php">Crash Report Summary</a>
+          <a href="/browse/custreps.php">Custom Reports</a>
+          <a href="/post/post_form.php">Post a Crash Report</a>
+        </div>
+        <div id="dropmenu4" class="dropmenudiv">
+          <a href="/browse/options.php">Account Settings</a>
+          <a href="/browse/versions.php">Manage Versions</a>
+          <a href="/browse/symbol_manage.php">Manage Symbols</a>
+          <a href="/browse/usermgmt.php">Manage Access</a>
+          <a href="/browse/dbmgmt.php">Manage Databases</a>
+        </div-->
+
+                <script type="text/javascript">cssdropdown.startchrome("navlg")</script>
                  </div><!--end bsHeader-->
 
                           <div id="bsInnerWrap1">
@@ -123,7 +151,7 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
             <tr><td><p class="demolink">&nbsp;</p></td></tr>
             <tr><td><p class="demolink"><a href="/browse/whitepaper.php">Free ROI whitepaper</a></p></td></tr>
             <tr><td><p class="demolink">&nbsp;</p></td></tr>
-            <tr><td><p class="demolink">28,438,147 crash reports<br>Last report: 1 second ago<br></p></td></tr>
+            <tr><td><p class="demolink">96 crash reports<br>Last report: 18 hours, 44 minutes ago<br></p></td></tr>
 		   </tbody></table>
        </div>
                         <div id="bsMain1">
