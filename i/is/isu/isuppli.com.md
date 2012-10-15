@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517071342id_/http%3A//www.isuppli.com/About/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015164303id_/http%3A//www.isuppli.com/About/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - iSuppli
+# Privacy Policy - IHS iSuppli®
 
 **Effective Date**  
 November 20, 2009 
 
-Your privacy is important to iSuppli, and we appreciate your expectation that we will share information about you carefully and responsibly. This privacy statement describes our commitment to the protection of your privacy through adherence to fair electronic information practices. Specifically, this privacy statement sets forth (i) the types of personal information collected by iSuppli, (ii) how iSuppli collects user information, (iii) how iSuppli uses personal information, (iv) how iSuppli protects personal information, (v) with whom, if anyone, user information is shared, and (vi) how you may access, verify, and if necessary, correct personal information iSuppli has collected about you.
+Your privacy is important to [iSuppli](https://web.archive.org/ "iSuppli"), and we appreciate your expectation that we will share information about you carefully and responsibly. This privacy statement describes our commitment to the protection of your privacy through adherence to fair electronic information practices. Specifically, this privacy statement sets forth (i) the types of personal information collected by iSuppli, (ii) how iSuppli collects user information, (iii) how iSuppli uses personal information, (iv) how iSuppli protects personal information, (v) with whom, if anyone, user information is shared, and (vi) how you may access, verify, and if necessary, correct personal information iSuppli has collected about you.
 
 If you choose to interact with iSuppli.com, your visit and any dispute over privacy is subject to this privacy statement. If you have any concern about privacy at iSuppli.com, please send an email to [info@isuppli.com](mailto:info@isuppli.com), and we will try to resolve it. Our business changes constantly. Accordingly, our privacy practices may change, and use of information that we gather now is subject to the privacy practice in effect at the time of use. You should check the iSuppli.com web site periodically for changes to our privacy statement.
 
