@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrangeyourvacation.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514172251id_/http%3A//arrangeyourvacation.com/Content/Privacy-policy/8.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrangeyourvacation.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015190602id_/http%3A//arrangeyourvacation.com/Content/Privacy-policy/8.aspx) for the most accurate reproduction.*
 
 # ArrangeYourVacation.com - Privacy policy
 
