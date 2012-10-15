@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbazaar.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511004651id_/http%3A//www.cbazaar.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbazaar.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015032915id_/http%3A//www.cbazaar.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
