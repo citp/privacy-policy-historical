@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reggaerecord.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511195812id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reggaerecord.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015163556id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.*
 
 # Help - ReggaeRecord.com / Dub Store Record Mart
 
@@ -34,12 +34,12 @@ We have set an agreement for handling personal information, taking in considerat
   
 | 
 
-**Distributor**
+**Company name**
 
 | Dub Store Sound Inc.  
 ---|---  
   
-**Vice-president**
+**Operation director**
 
 | Naoki Ienaga  
   
