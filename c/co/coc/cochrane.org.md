@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605093702id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015074721id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
 
 # Privacy of your personal data | The Cochrane Collaboration
 
@@ -17,3 +17,11 @@ The Cochrane Collaboration does not share information (names, personal informati
 **Concerns?**
 
 If you have concerns about your data, feel free to contact us at [web@cochrane.org](mailto:web@cochrane.org).
+
+Updated on: June 9, 2011, 14:34 
+
+* * *
+
+Copyright © The Cochrane Collaboration  
+Comments for improvement or correction are welcome.  
+Email: [web@cochrane.org](mailto:web@cochrane.org)
