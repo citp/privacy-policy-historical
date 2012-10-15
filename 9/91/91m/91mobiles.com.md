@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 91mobiles.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530133939id_/http%3A//www.91mobiles.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 91mobiles.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015184941id_/http%3A//www.91mobiles.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 91Mobiles
 
@@ -46,16 +46,16 @@ If you have any questions about this summary, our Privacy Policy or our informat
 
 ## 
 
-  * [ Samsung Galaxy S II I9100](http://www.91mobiles.com/samsung-galaxy-s-ii-i9100-price-in-india#pricepart) @ **Rs. 26,240/-**
-  * [ Micromax Q80](http://www.91mobiles.com/micromax-q80-price-in-india#pricepart) @ **Rs. 2,391/-**
-  * [ Micromax Funbook](http://www.91mobiles.com/micromax-funbook-price-in-india#pricepart) @ **Rs. 5,970/-**
-  * [ Nokia X1-01](http://www.91mobiles.com/nokia-x1-01-price-in-india#pricepart) @ **Rs. 1,749/-**
-  * [ Samsung Galaxy Ace Duos](http://www.91mobiles.com/samsung-galaxy-ace-duos-price-in-india#pricepart) @ **Rs. 12,749/-**
-  * [ Lava S12](http://www.91mobiles.com/lava-s12-price-in-india#pricepart) @ **Rs. 5,499/-**
-  * [ Sony Ericsson Xperia Neo V](http://www.91mobiles.com/sony-ericsson-xperia-neo-v-price-in-india#pricepart) @ **Rs. 13,890/-**
-  * [ Spice QT-68](http://www.91mobiles.com/spice-qt-68-price-in-india#pricepart) @ **Rs. 1,999/-**
-  * [ Sony Ericsson Xperia Neo V](http://www.91mobiles.com/sony-ericsson-xperia-neo-v-price-in-india#pricepart) @ **Rs. 13,890/-**
-  * [ Acer Mobile Iconia Smart](http://www.91mobiles.com/acer-iconia-smart-price-in-india#pricepart) @ **Rs. 20,299/-**
+  * [ Blackberry Bold 3 9780](http://www.91mobiles.com/blackberry-bold-3-9780-price-in-india#pricepart) @ **Rs. 15,373/-**
+  * [ Sony Xperia miro](http://www.91mobiles.com/sony-xperia-miro-price-in-india#pricepart) @ **Rs. 12,490/-**
+  * [ Karbonn A7 Plus](http://www.91mobiles.com/karbonn-a7-plus-price-in-india#pricepart) @ **Rs. 6,239/-**
+  * [ Sony Xperia miro](http://www.91mobiles.com/sony-xperia-miro-price-in-india#pricepart) @ **Rs. 12,490/-**
+  * [ Zync Z909 Plus](http://www.91mobiles.com/zync-z909-plus-price-in-india#pricepart) @ **Rs. 2,849/-**
+  * [ Karbonn A21 Android](http://www.91mobiles.com/karbonn-a21-android-price-in-india#pricepart) @ **Rs. 10,079/-**
+  * [ Samsung Galaxy Note II N7100](http://www.91mobiles.com/samsung-galaxy-note-ii-n7100-price-in-india#pricepart) @ **Rs. 37,249/-**
+  * [ HTC Mobiles Wildfire S](http://www.91mobiles.com/htc-wildfire-s-price-in-india#pricepart) @ **Rs. 8,990/-**
+  * [ Micromax M2](http://www.91mobiles.com/micromax-m2-price-in-india#pricepart) @ **Rs. 1,505/-**
+  * [ Micromax A57 Ninja 3](http://www.91mobiles.com/micromax-a57-ninja-3-price-in-india#pricepart) @ **Rs. 4,512/-**
   * [Compare mobile phones easily now!](http://www.91mobiles.com/compare-mobile-phones.html)
 
 
@@ -72,69 +72,75 @@ Deals & Discounts
 
   * ### 
 
- [TUSHAR](http://www.91mobiles.com/blog/12120/Kobian+Unveils+iXA+Tab+for+Rs+3+999++Booking+to+start+from+May+23.html#jsid-1338367817-220) -I WANT THIS TAB, PLZ TELL ME HOW TO PRE-BOOK THIS TAB?  
-
-
-  * ### 
-
- [luddite](http://www.91mobiles.com/reviews/Swissvoice/Sv65+Easy+Messaging/SwissVoice+SV65/24531.html#jsid-1338295312-189) -One of the worst experiences for me too. The head office in aubonne should contemplate closing its office in india. the reason being the sheer incompetency of its executives toward resolving issues. they truly are third grades.
+ [Sanni Olatunji](http://www.91mobiles.com/reviews/Tecno/T8/jjjjjjjjjjjjjjjjjjjjjjjjjjjj/24949.html#jsid-1340346270-377) -daily use of cell phone batteries take part of the battery life,music,Radio,suffing the wed, shorting the battery life try to get a new batterry from tecno & continue to enjoy your T8
 
   * ### 
 
-  * ### 
-
- [Prashant](http://www.91mobiles.com/blog/12178/Karbonn+A9+Android+smartphone+priced+around+Rs+9000.html#jsid-1338269172-513) -Is any problem occurs while using double sim in this android phone?
-
-  * ### 
-
- [bhadresh](http://www.91mobiles.com/video/12407/CNBC+Tech+Guru+Opad+mov.html#jsid-1338233103-247) -muze iphone 4g le na he to vo lu ya na lu
-
-  * ### 
-
- [bhadresh](http://www.91mobiles.com/video/12407/CNBC+Tech+Guru+Opad+mov.html#jsid-1338233083-255) -muze iphone 4g le na he to vo lu ya na lu
-
-  * ### 
-
- [Guest](http://www.91mobiles.com/blog/12546/Deal+Alert++Karbonn+A7+at+Infibeam+costs+just+Rs+7490.html#jsid-1338227617-858) -incorrect info , for correct info visit www.allandroidmobiles.blogspot.com
-
-  * ### 
-
- [Guest](http://www.91mobiles.com/video/12407/CNBC+Tech+Guru+Opad+mov.html#jsid-1338218718-984) -hiiiiiii aniket i have to buy a android phone under 8,000 which is the best and i want that my phone look very best  
-
-
-  * ### 
-
- [Racel](http://www.91mobiles.com/video/18042/Brother+PT+80+Thermal+Electronic+Labeling+Printer+++Buy+com.html#jsid-1338152853-810) -
-
-[Brother HL Printers 1240](http://www.yoyoink.com/printers/Brother-1240-toner-HL%20Printers-1240-printer-toner-cartridges.html)
-
-  
-Brother HL-1240 is a monochrome laser printer equipped with a versatile platform that accepts both Windows and Mac operating systems. Moreover, it has several features users will truly enjoy such as print speed of 12 pages per minute, support for different media materials and wide availability of printing supplies.
-
-  * ### 
-
- [R Subudhi](http://www.91mobiles.com/reviews/Samsung/Wave+3/the+best+in+its+calss/26343.html#jsid-1338150442-741) -Rahul is missing out on many aspects. Its Bada OS is now outdated. Bada app store is small. Cam is 5 mp, but its output is like 2 mp. You have to remain satisfied with a lot of defaults - for example you can not customize screen brightness or contrast, touch sensitivity, or even date separator. Many camera settings are only defaults and not customisable. I purchased one about a week ago and now I am repenting. If possible, I would exchange it for another set - even Galaxy Ace is better than this one.
-
-  * ### 
-
- [ash ](http://www.91mobiles.com/blog/7213/HTC+12+Megapixel+Camera+Phone+Caught+in+Wild.html#jsid-1338070629-594) -please sale laga dain
+ [Bhaskar](http://www.91mobiles.com/reviews/Karbonn/A1/wrong+information+provided/24774.html#jsid-1340281599-699) -Is this dual sim mobile?? 
 
   * ### 
 
   * ### 
 
- [ma](http://www.91mobiles.com/blog/11756/KT81+with+Dolby+sound+to+be+launched+by+karbonn+next+week.html#jsid-1338033056-516) -i want to price of the phone  
+ [nishant](http://www.91mobiles.com/blog/11960/91Mobiles+Knockout++Samsung+Galaxy+Pocket+vs++Spice+MI280+vs++Micromax+A50.html#jsid-1340216630-140) -Micromax a50 is better than both of the others. 
+
+  * ### 
+
+ [pawankumar](http://www.91mobiles.com/reviews/Celkon/A1/All+Celkon+Mobiles/25933.html#jsid-1340187614-349) -IS THIS MOBILE GOOD OR BAD FOR INTERNET  
 
 
   * ### 
 
- [Guest](http://www.91mobiles.com/blog/9736/Samsung+Shipped+35+Million+Smartphones+in+Q4++Profit+At++4+5+Billion.html#jsid-1338026419-821) -riving through all the facts, we were able to understand that Samsung is a number one contender in the Android bandwagon. Though there are other players in the industry, the actual battle is in between Apple and Samsung. Despite, Apple piercing them in the patent-based battle (Apple won battle in 10 countries across 4 continents), Samsung made the glory in selling the Galaxy devices. So, let's appreciate this super-kid for making enormous profits out of 35 million smartphones sold for the final quarter.
+ [John Williams](http://www.91mobiles.com/blog/12725/Envent+Brings+in+Samsung+Battery+Boost+Case+to+Enhance+handset+s+battery+life+by+two+folds.html#jsid-1340186119-654) -You guys should review Mugen Power batteries for Samsung. I heard they have 5400mah battery for Galaxy Note. Can you do a review? I requested one from them for my blog. Maybe you can do the same here http://mugen.tv/2012/04/request-a-mugen-power-battery-to-review-on-your-site-blog-or-forum/
 
   * ### 
 
- [Juhi T](http://www.91mobiles.com/blog/12206/HTC+Desire+C+officially+launched.html#jsid-1338015247-484) -There are not great features in this phone, but its 5MP camera and ICS OS are some of the great features that HTC has added to this smartphone. The phone also houses a 1,230 mAh battery under its plastic cover at the rear and you can expect the price tag of this ICS smartphone to be less than â‚¬200 or around $257.
+ [basit](http://www.91mobiles.com/blog/12350/Has+India+got+Windows+Phone+Tango+Refresh+roll+out.html#jsid-1340176977-913) -Not yet..  
+I m waiting for this tango update
 
-http://www.techiecop.com/cellphones/htc-cellphones/first-look-at-the-htc-desire-c-smartphone.html
+  * ### 
+
+ [thakur](http://www.91mobiles.com/blog/9473/India+s+Ultra+low+Cost+Aakash+Tablet+is+on+Sale++++.html#jsid-1340129485-258) -Fuck Aakash company,,how many time i have done booking for your product Ubislate...For priority delivery i have also sent you cheque on Feb 2012, but still(on 19 June 2012) you can't inform me whether you received it or not...FUCK FUCK Aakash..
+
+  * ### 
+
+ [Prakash Panda](http://www.91mobiles.com/blog/11763/MTS+India+introduces+two+new+Mblaze+broadband+plans+in+Karnataka+and+Tamil+Nadu.html#jsid-1340101556-187) -MTS Broadband provides High Speed Wireless Broadband Internet in India. There are different attractive Tariff Plans available in both Prepaid as well as Postpaid payment modes. For the other regions it will be available soon.
+
+  * ### 
+
+ [Guest](http://www.91mobiles.com/blog/13613/VLC+media+players+app+officially+coming+to+Android.html#jsid-1340101194-910) -mBillionth International Mobile Award 2012: An Ecosystem for Mobilepreneurs
+
+â€śThe mBillionth Award is a great platform to demonstrate the power of mobile and recognize the talents of those who are able to deploy ICT in innovative ways to help build the digital divide and create new opportunities for Indian society at large"
+
+Register: http://goo.gl/0j0X5
+
+  * ### 
+
+  * ### 
+
+ [Guest](http://www.91mobiles.com/blog/11383/Nokia+Lumia+610+to+be+available+in+India+by+mid+May.html#jsid-1339948202-152) -Which is the best windows smartphone 11000
+
+  * ### 
+
+ [Nadeem](http://www.91mobiles.com/blog/13410/Reliance+Communications+Introduces+Master+Plan+For+Its+Karnataka+based+GSM+Subscribers+.html#jsid-1339866459-726) -PLEASE DON'T GO FOR IT.
+
+  * ### 
+
+ [Nadeem](http://www.91mobiles.com/blog/13410/Reliance+Communications+Introduces+Master+Plan+For+Its+Karnataka+based+GSM+Subscribers+.html#jsid-1339866368-52) -It was supposed to be 500MB free data/month for 6 months but they are deducting it from your main balance.  
+Very bad Reliance.  
+Moreover, rather than apologizing for their mistake, their customer care will rudely ask you to call them back the next day to waste another 20-30 mins over the phone waiting for them to answer which is again the paid call.
+
+  * ### 
+
+ [Nadeem](http://www.91mobiles.com/blog/13410/Reliance+Communications+Introduces+Master+Plan+For+Its+Karnataka+based+GSM+Subscribers+.html#jsid-1339866100-368) -Dear Friends,  
+Please don't go for this luring offer as Reliance is simply cheating people.  
+Today I recharged my phone with Rs.74.  
+After using 1 MB data the GPRS stopped working giving me the message that my account balance is zero.  
+Luckily, my account balance was only Rs.10 which was deducted to access 1MB 2G data.  
+I then called the customer care. They answered after 20 mins of wait time after 6 attempts just to tell that the info has not been updated in their records & they advised me to call back tomorrow again.  
+I never expected such poor & pathetic service from Reliance :(  
+I might soon change my operator, thanks to number portability.  
+For any queries contact me at nad_pz1@yahoo.co.in
 
 
 
