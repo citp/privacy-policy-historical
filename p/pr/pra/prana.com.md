@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616192609id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015050623id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
 
-# prAna - Privacy Policy
+# Privacy Policy | prAna
 
 ### At prAna, we respect your privacy. We know it’s important to you and it’s important to us.
 
@@ -14,7 +14,9 @@ Like most websites, prAna.com uses cookies to identify users. Keeping track of y
 
 #### How We Use Your Information
 
-We do not share any of the personal information you enter on our secure website with other companies. We don’t sell or rent our customer lists, or give your information to third parties. We will only use this information to communicate with you about your order, unless you sign up to receive our emails and catalogs. If you receive our emails and catalogs and no longer wish to, just let us know at [info@prana.com](mailto:info@prana.com).
+In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, [click here](mailto:info@prana.com) and we can add your name to our "do-not-share" list. It may take up to 6 weeks for your name to be removed and to stop receiving catalogs. Please provide your email address and mailing address.
+
+If you receive our emails and catalogs and no longer wish to, just let us know at [info@prana.com](mailto:info@prana.com).
 
 Rest assured, your personal information is always safe, thanks to our HTTPS and SSL security protocols.
 
