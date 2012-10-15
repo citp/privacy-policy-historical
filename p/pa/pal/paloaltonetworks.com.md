@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paloaltonetworks.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615141807id_/http%3A//www.paloaltonetworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloaltonetworks.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015032759id_/http%3A//www.paloaltonetworks.com/privacy.html) for the most accurate reproduction.*
 
 # Palo Alto Networks Privacy Policy
 
-**_Effective June 9, 2011_**
+_Effective June 9, 2011_
 
-Palo Alto Networks, Inc. provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [www.paloaltonetworks.com](http://www.paloaltonetworks.com/) and any subdomains related thereto (collectively, this " **Site** "). This Privacy Policy applies only to information that you provide to us through this Site. 
+Palo Alto Networks, Inc. provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [www.paloaltonetworks.com](http://www.paloaltonetworks.com/) and any subdomains related thereto (collectively, this " **Site** "). This Privacy Policy applies only to information that you provide to us through this Site.
 
 ## Information Collection and Use
 
@@ -24,21 +24,21 @@ Our primary goals in collecting information are to provide and improve our Site,
 
 ## Cookies
 
-Cookies are small data files that we transfer to your hard drive that contain information about you such as your login ID. The cookies allow our site to recognize your browser, allow your automated login and to track your preferences and usage on the Site. Our cookies do not collect Personal Information. You can choose to reject or turn off the cookies through your browser settings. If you do not accept cookies, however, you may not be able to use all of the functionality of the Site. 
+Cookies are small data files that we transfer to your hard drive that contain information about you such as your login ID. The cookies allow our site to recognize your browser, allow your automated login and to track your preferences and usage on the Site. Our cookies do not collect Personal Information. You can choose to reject or turn off the cookies through your browser settings. If you do not accept cookies, however, you may not be able to use all of the functionality of the Site.
 
 ## Information Sharing and Disclosure
 
 > ### _Palo Alto Networks Blog_
 > 
-> If you choose to post comments on the Palo Alto Networks Blog, accessible at <http://www.paloaltonetworks.com/researchcenter/> (the " **Blog** ") Palo Alto Networks Users will see your name, website and the content of your comments. Providing comments on the Blog is voluntary and should correlate with the degree of interaction you want to have with Palo Alto Networks Users. We recommend that you guard your anonymity and sensitive information. 
+> If you choose to post comments on the Palo Alto Networks Blog, accessible at <http://www.paloaltonetworks.com/researchcenter/> (the " **Blog** ") Palo Alto Networks Users will see your name, website and the content of your comments. Providing comments on the Blog is voluntary and should correlate with the degree of interaction you want to have with Palo Alto Networks Users. We recommend that you guard your anonymity and sensitive information.
 > 
 > ### _Aggregate Information and Non-Identifying Information._
 > 
-> We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. 
+> We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
 > 
 > ### _Business Partners._
 > 
-> We may share your Personal Information with our business partners and channel partners so that they can provide you with information you have requested on a product or service or to pass a sales lead to a channel partner. 
+> We may share your Personal Information with our business partners and channel partners so that they can provide you with information you have requested on a product or service or to pass a sales lead to a channel partner.
 > 
 > ### _Service Providers._
 > 
@@ -50,13 +50,13 @@ Cookies are small data files that we transfer to your hard drive that contain in
 > 
 > ### _Business Transfers._
 > 
-> Palo Alto Networks may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+> Palo Alto Networks may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
 ## Correcting and Updating Personal Information
 
 If your Personal Information changes, we will endeavor to provide a way to correct or update the data you provided to us. This can usually be done by sending an e-mail to [privacy@paloaltonetworks.com](mailto:privacy@paloaltonetworks.com). If you no longer desire to use the Site and would like us to remove your information in our system, please contact us and we will attempt to accommodate your request provided we do not have a legal obligation to retain the information.
 
-## Security 
+## Security
 
 Palo Alto Networks is very concerned with safeguarding your information. The security of your personal information is important to us. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. We use security measures, such as firewalls and Secure Sockets Layer (" **SSL** ") software, to safeguard the confidentiality of our users' Personal Information. Information we collect about our users is stored on secured servers. If you have any questions about the security of the Site, please send an e-mail to [privacy@paloaltonetworks.com](mailto:privacy@paloaltonetworks.com).
 
@@ -64,15 +64,15 @@ We will make any legally required disclosures of any breach of the security, con
 
 ## International Transfer
 
-Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Palo Alto Networks transfers Personal Information to the United States and processes it there. 
+Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Palo Alto Networks transfers Personal Information to the United States and processes it there.
 
 ## Links to Other Sites
 
-Our Site contains links to other websites. If you choose to click on a third party link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+Our Site contains links to other websites. If you choose to click on a third party link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
 ## Our Policy Toward Children
 
-This Site is not directed to persons under 18. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+This Site is not directed to persons under 18. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 ## Your Consent; Notification of Changes
 
@@ -80,4 +80,4 @@ By visiting our Site, you consent to our collection, use and sharing of Personal
 
 ## Questions; Contacting Us
 
-If you have questions about this Privacy Policy or believe that Palo Alto Networks is not abiding by this Privacy Policy, you should contact the Webmaster at [privacy@paloaltonetworks.com](mailto:privacy@paloaltonetworks.com). 
+If you have questions about this Privacy Policy or believe that Palo Alto Networks is not abiding by this Privacy Policy, you should contact the Webmaster at [privacy@paloaltonetworks.com](mailto:privacy@paloaltonetworks.com).
