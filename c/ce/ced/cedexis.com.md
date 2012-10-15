@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021737id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016015247id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Cedexis | Internet performance control and monitoring
 
