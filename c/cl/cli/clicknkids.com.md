@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicknkids.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606034533id_/http%3A//www.clicknkids.com/Public/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknkids.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015052509id_/http%3A//www.clicknkids.com/Public/Privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy : Reading Programs for Kids : Spelling Program : ClickN KIDS, Inc.
 
