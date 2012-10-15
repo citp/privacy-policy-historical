@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viteb.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511182255id_/http%3A//www.viteb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viteb.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015093424id_/http%3A//www.viteb.com/privacy-policy) for the most accurate reproduction.*
 
 # Security and Privacy Policy of Web Outsourcing Company | VITEB
 
