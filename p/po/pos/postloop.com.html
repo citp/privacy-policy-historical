@@ -1,0 +1,459 @@
+<!--The following is the downloaded HTML source of the postloop.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015185321id_/http%3A//www.postloop.com/pages/terms%23privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<title>
+		Terms &amp; Conditions | Postloop Forum Post Exchange and Blog Comment Exchange
+	</title>
+	<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+	<link rel="stylesheet" type="text/css" href="/css/cake.generic-2.1.css">
+	<link rel="stylesheet" type="text/css" href="/css/jquery.qtip.css">
+	<link rel="stylesheet" type="text/css" href="/css/jquery-smoothness.css">
+	<link rel="stylesheet" type="text/css" href="/css/custom_tabs.css">
+	<link rel="stylesheet" type="text/css" href="/css/cake.custom-2.1.css">
+
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=124580634282861"></script><script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/jquery.qtip.min.js"></script>
+
+    <!-- qTip Tooltip -->
+    <script type="text/javascript">
+        $(document).ready(function()
+        {
+           $('a[title]').qtip({
+               style: {
+                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
+                },
+   position: {
+      viewport: $(window)
+   }
+           });
+           $('img[title]').qtip({
+               style: {
+                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
+                },
+   position: {
+      viewport: $(window)
+   }
+           });
+           $('span[title]').qtip({
+               style: {
+                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
+                },
+   position: {
+      viewport: $(window)
+   }
+           });
+           $('button[title]').qtip({
+               style: {
+                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
+                },
+   position: {
+      viewport: $(window)
+   }
+           });
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('img').click(function() {
+                var id = $(this).attr('id');
+                var title = $(this).attr('title');
+                var oldtitle = $(this).attr('oldtitle');
+
+                // Use an OR because jQuery (qtip to be exact?) renames "title" attributes to "oldtitle"
+                // sliders will not work if clicking on a popup first
+                if(title === 'Subscribe' || oldtitle === 'Subscribe') {
+                    $('#sub_rules_' + id).slideToggle(200);
+                    $('#info_' + id).slideUp(200);
+                    $('#subscribe_' + id).slideUp(200);
+                    return false;
+                }
+
+                // Use an OR because jQuery (qtip to be exact?) renames "title" attributes to "oldtitle"
+                // sliders will not work if clicking on a popup first
+                if(title === 'More Information' || oldtitle === 'More Information') {
+                    $('#info_' + id).slideToggle(200);
+                    $('#sub_rules_' + id).slideUp(200);
+                    $('#subscribe_' + id).slideUp(200);
+                    return false;
+                }
+            });
+
+            $('a').click(function() {
+                var id = $(this).attr('id');
+                var title = $(this).attr('title');
+                var oldtitle = $(this).attr('oldtitle');
+                var rel = $(this).attr('rel');
+
+                // Use an OR because jQuery (qtip to be exact?) renames "title" attributes to "oldtitle"
+                // sliders will not work if clicking on a popup first
+                if(title === 'Subscribe' || oldtitle === 'More Information') {
+                    $('#subscribe_' + id).slideToggle(200);
+                    $('#sub_rules_' + id).slideUp(200);
+                    $('#info_' + id).slideUp(200);
+                    return false;
+                }
+
+                if(rel === 'faq') {
+                    var name = $(this).attr('name');
+                    $('#faq_' + name).slideToggle(200);
+                }
+            });
+
+            $('input').click(function() {
+                var title = $(this).attr('title');
+
+                if(title === 'Trigger') {
+                    $('#daily').slideToggle(200);
+                    $('#minimum_balance').slideUp(200);
+                    return false;
+                }
+            });
+        });
+    </script>
+
+    <!-- User Popups -->
+    <script type="text/javascript">
+	$(document).ready(function () {
+            var $dialog;
+		$('.userPopup').click(function () {
+
+                    // This works locally with IE but not on the server...so let's direct straight to profile
+                    if(navigator.appName === 'Microsoft Internet Explorer') {
+                        window.location = 'http://www.postloop.com/users/view/' + $(this).attr('userpopupid');
+                        return false;
+                    }
+			var $link = $(this);
+			$dialog = $('<div></div>').load($link.attr('href')).dialog({
+				title: $link.attr('username'),
+				width: 500,
+				height: 210,
+                                modal: true,
+                                resizable: false,
+                                show: 'fade',
+                                title: $link.attr('username'),
+                                open: function(event, ui) {
+                                    jQuery('.ui-dialog-titlebar-close').hide();
+                                    jQuery('.ui-dialog-titlebar').hide();
+                                }
+			});
+                        return false
+		});
+
+                $(".ui-widget-overlay").live("click", function() {  $dialog.dialog("close"); } );
+	});
+    </script>
+    <!-- User Popups -->
+    
+    <!-- Facebook Like -->
+    <script type="text/javascript" src="https://web.archive.org/web/20110410013218/http://www.postloop.com/app/webroot/mint/?record&amp;key=354c4d4d6a5a526f716371423331393933326b427a574e7a30333175&amp;referer=&amp;resource=https%3A//web.archive.org/web/20121015185321id_/http%253A//www.postloop.com/pages/terms%2523privacy&amp;resource_title=Terms%20%26%20Conditions%20%7C%20Postloop%20Forum%20Post%20Exchange%20and%20Blog%20Comment%20Exchange&amp;resource_title_encoded=0&amp;resolution=800x600&amp;flash_version=0&amp;window_width=1366&amp;window_height=768&amp;1580356210623&amp;serve_js"></script></head><body><div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=124580634282861";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <!-- Facebook Like -->
+
+    <!-- Google +1 -->
+    <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+    <!-- Google +1 -->
+
+
+    <div id="outer">
+	<div id="container">
+		<div id="header">
+                    <div id="logo">
+                        <a href="/"><img src="/img/logo.gif" alt="Postloop"></a>
+                    </div>
+                        <div id="navigation">
+    <a href="/">home</a>    <a href="/how_it_works">how it works</a>    <a href="/users/sign_up">join</a>    <a href="/sites/forums/all">forums</a>    <a href="/sites/blogs/all">blogs</a>    <a href="http://www.postloop.com/support">support</a>    <a href="/users/login">login</a>        </div>		</div>
+		<div id="content">
+                        
+                        
+			
+			
+<div class="">
+    <h2>Usage Agreement</h2>
+
+    <p>The following information (Terms of Use and Privacy Policy) are intended to inform you of policies
+        and procedures that you agree to follow through use of Postloop services as well as details on
+        any and all information that Postloop gathers from you and how such information is maintained. Your
+        use of our services constitutes acknowledgement and acceptance of all information contained herein:</p>
+    <br>
+    <h2>Terms of Use</h2>
+    <h4>All Users</h4>
+    <ul class="dotted">
+        <li>Postloop is released as-is, with no warranty.</li>
+        <li>By participating in Postloop, you do so at your own risk.</li>
+        <li>Each individual person is permitted <strong>one</strong> Postloop account.</li>
+        <li>You may not attempt to buy, sell, or transfer your Postloop account or Postloop points, whether via
+            Postloop.com or any external means.</li>
+        <li>You may not bribe, incentivize, or otherwise instruct Postloop writers to include your
+            own promotion material in content that they contribute to Postloop.</li>
+        <li>Any attempt to alter, tamper with, or otherwise adversely affect the collection process
+            is strictly prohibited.</li>
+        <li>Postloop is not responsible for the misuse of the files provided.</li>
+        <li>Information collected and displayed via postloop.com or any related subsidiary is for
+            the use of Postloop management only.</li>
+        <li>Postloop management reserves the right to revoke your access to any Postloop services with
+            or without cause and with or without notice.</li>
+        <li>Unauthorised use of this website may give rise to a claim for damages and/or be a
+            criminal offense.</li>
+        <li>Your use of this website and any dispute arising out of such use of the website is
+            subject to the laws of the United States.</li>
+        <li>If found in violation of any of the above guidelines, you will be subject to removal from
+            Postloop services.</li>
+    </ul>
+    <br>
+    <h4>Site Owners</h4>
+    <ul class="dotted">
+        <li>All sites submitted to Postloop must be in the English language.</li>
+        <li>Sites containing any of the following material may not be submitted to Postloop: adult, illegal, hacking, 
+            criminal,
+            drugs,
+            weapons, violence, hate, or otherwise questionable material. This is left up to the sole discretion of
+        Postloop management.</li>
+        <li>All sites submitted to Postloop must have a clear topic and section/category structure
+            prior to submission.</li>
+        <li>A site may not be submitted to Postloop twice unless the existing listing is first deactivated.</li>
+        <li>The modification of the Postloop tracking file (postloop.php) is strictly prohibited
+            unless instructed otherwise by Postloop management alone.</li>
+    </ul>
+    <br>
+    <h4>Content Writers</h4>
+    <ul class="dotted">
+        <li>All content contributed to Postloop must be in the English language.</li>
+        <li>Content submitted to Postloop must be original. Content may not be copied from
+        any other website and submitted to Postloop, even if the source content is your own.</li>
+        <li>All content contributed to Postloop must be of high quality. A repeated history of
+        low quality content will result in suspension.</li>
+        <li>You may not include promotional material in content that you contribute via Postloop unless
+        it is your own.</li>
+    </ul>
+    <br>
+    <h4>Deposit Terms</h4>
+    <p>The following rules apply to the buying of points ("Deposits") via Postloop.</p><br>
+    <ul class="dotted">
+        <li>Points are only to be purchased from Royal Media, LLC via Postloop.com.</li>
+        <li>Most deposits are received and processed immediately, although some deposits are held for 
+            manual review by Postloop management. If your deposit is held for manual review, your payment
+            from PayPal will be processed immediately, but you will not receive your points at Postloop
+             until approved by Postloop staff. This will usually happen
+        within a few hours but may be up to 24 hours depending on time of day.</li>
+        <li>Postloop management reserves the right to refuse any purchase with or without cause. If
+        a purchase is refused, payment will be returned.</li>
+        <li>Refunds are not allowed under <strong>any</strong> circumstances. It is your
+            responsibility to review all Terms &amp; Conditions stated herein
+            and monitor your own forums accordingly.</li>
+        <li>If you file a chargeback or payment reversal, your account and forums will
+            be banned from Postloop forever.</li>
+    </ul>
+
+    <br>
+    <h4>Withdrawal Terms</h4>
+    <p>The following rules apply to the selling of points ("Withdrawals") via Postloop.</p><br>
+    <ul class="dotted">
+        <li>Points are only to be sold to Royal Media, LLC via Postloop.com.</li>
+        <li><strong>Payment will not be issued immediately.</strong> All withdrawal requests undergo
+                    review by Postloop staff. This will usually be completed within a few hours
+                    but can take up to 24 hours depending on circumstances and time of day.</li>
+                    <li>Your points balance will be subtracted from immediately, before you receive
+                    payment.</li>
+                    <li>Postloop management reserves the right to refuse any withdrawal request
+                    with or without cause. In the event that a withdrawal request is denied, any
+                    points removed during your request will be returned.</li>
+                    <li>Review all Terms &amp; Conditions stated herein
+            prior to requesting withdrawal. If you are found in violation of any Terms &amp; Conditons,
+                    your withdrawal request will be denied, and you will be subject to removal from
+                    Postloop forever.</li>
+                    <li>Postloop is not responsible for reporting your taxable income. You must
+                    follow the appropriate laws for your country or territory. <strong>An exception to this rule
+                        is made in event that you are a US citizen receiving more than $600 in payment from Postloop
+                    in one year.</strong> If this is the case, Postloop is required by law to report your
+                    earnings to the IRS. Postloop will personally notify you before this happens.
+                    </li>
+    </ul>
+
+    <br>
+    <a name="privacy"></a>
+    <h2>Privacy Policy</h2>
+
+    <p>This privacy policy is intended to inform you, the Postloop user, of Postloop's information
+        management practices including the types of information gathered, how this information is
+        used and safeguarded, and the degree to which you may control the maintenance and sharing
+        of your information.</p>
+    <br>
+
+    <p>Prior to joining Postloop, you will be required to provide your email address. This is only
+        visible to Postloop management and is not available or provided to any third parties or solicitors
+        under any circumstances. You may periodically receive email communication from Postloop management,
+        which you are able to opt out of. Postloop will also track and record the IP Address
+        of all visitors to postloop.com for security purposes. This, too, will never be available or provided to any
+        third parties or solicitors.</p>
+    <br>
+    <p>Prior to listing your forum at Postloop, you will be required to provide the following information on
+        your forum: Forum name, URL, description, and software version. All of this information will be
+        visible and available for public use, without limitation. When another Postloop user joins your 
+        forum, Postloop will request their username and email address. The username will be saved by Postloop
+        but the email address will not. Postloop requests the email address to verify ownership of the
+        account. Postloop.com will take that username and email address and retrieve the corresponding user id 
+        from your forums. The username and id are later used to track the
+        number of posts submitted to your forums. Username, User ID, and Post Count are the only pieces of information
+        that are extracted from your forums via the Postloop tracking service. This information will be collected
+        and stored in the Postloop database but will not be accessible by anybody other than yourself and Postloop
+        staff. This information will never be available or provided to any third parties or solicitors.
+        No personally identifiable information will be collected by Postloop from your forums.</p>
+    <br>
+    <p>Prior to requesting payment via PayPal, you will be asked to provide your Name, Address, and Phone Number.
+    This information is not available to the public and is used by Postloop management for its own accounting. This
+    personally identifiable information is not be provided to any third parties or solicitors.</p>
+    <br>
+    <p>When buying or selling points via Postloop, your PayPal email address, transaction amount, and transaction ID
+    will be collected and stored by Postloop for historical reasons. This information is visible by Postloop
+    management alone and is not available or provided to any third parties or solicitors
+        under any circumstances.</p>
+    <br>
+    <p>Any information labeled as available to the public can be collected, correlated, and used by
+        third parties, and may result in unsolicited messages from other posters or third parties.
+        Such activities are beyond the control of Postloop and are not subject to this Privacy Policy.</p>
+    <br>
+    <p>All personally identifiable information can be removed from public view at the request of the owner, however
+    this information will remain in the Postloop data repository for purposes of ongoing operation. Only at the discretion
+    of Postloop management or at the request from the proper authorities will data be removed from the Postloop
+    data repository.</p>
+    <br>
+    <p><em>The information on this page is subject to change, with or without notice. It is your
+        responsibility to check this agreement periodically for any changes. Your continued use of or
+        access to the website following the posting of any changes to this agreement constitutes
+        acceptance of those changes.</em></p>
+    <br>
+    <h3>Change Log</h3>
+    <p><em>04/14/2012 - Modified policy on Deposit processing: Most deposits are received and processed immediately, although some deposits are held for
+            manual review by Postloop management. If your deposit is held for manual review, your payment
+            from PayPal will be processed immediately, but you will not receive your points at Postloop
+             until approved by Postloop staff. This will usually happen
+        within a few hours but may be up to 24 hours depending on time of day.</em></p>
+        <p><em>03/08/2012 - Added: You may not bribe, incentivize, or otherwise instruct Postloop writers to include your
+            own promotion material in content that they contribute to Postloop.</em></p>
+        <p><em>03/08/2012 - Added: Content Writers: You may not include promotional material in content that
+                you contribute via Postloop unless it is your own</em></p>
+        <p><em>02/29/2012 - Added: Stipulation to Withdrawal Rules that Postloop will report earnings to the IRS
+                for any US citizens receiving more than $600 in one year</em></p>
+        <p><em>02/29/2012 - Added: Name, Address, and Phone Number are to be collected with Withdrawals</em></p>
+        <p><em>06/13/2011 - Added: User ID is now collected and stored for each Postloop user that joins a participating forum</em></p>
+</div>
+		</div>
+	</div>
+    </div>
+    <div id="footer">
+        <div id="footer-box">
+            <div id="footer-content">
+    <div class="left" id="footer-left">
+        <span class="footer-title">Links</span>
+        <div class="clear">
+            <ul class="footer-list">
+                <li><a href="/">home</a></li>
+                <li><a href="/about">about</a></li>
+                <li><a href="/pages/frequently_asked_questions">faq</a></li>
+                <li><a href="/testimonials">testimonials</a></li>
+                <li><a href="/contact">contact</a></li>
+                            </ul>
+        </div>
+    </div>
+
+    <div class="left" id="featured-partner-outer">
+        <span class="footer-title">Featured Partner</span>
+        
+        <div class="clear">
+            <div class="left" id="featured-partner-image">
+                <a style="text-decoration: none; color: #c9c9c9;" href="http://www.bleedvictory.com" target="_blank">
+                    <img src="/img/partners/bleedvictorycom.jpg" alt="Bleed Victory">                </a>
+            </div>
+            <div class="left" id="featured-partner-inner">
+                <div id="featured-partner-title">
+                    <a style="text-decoration: none; color: #c9c9c9;" href="http://www.bleedvictory.com" target="_blank">
+                        Bleed Victory                    </a>
+                </div>
+                <div id="featured-partner-text">
+                    An open forum for professional sports fans.                </div>
+                <span class="right">
+                    <a style="text-decoration: none; color: #c9c9c9;" href="http://www.bleedvictory.com" target="_blank">
+                        &gt;&gt; Visit
+                    </a>
+                    <br>
+                </span>
+            </div>
+            <br class="clear">
+            <span class="right white">
+                <a href="/contact" class="white">want your site here?</a>        </span>
+        </div>
+    </div>
+
+    <div class="left" id="footer-right">
+        
+    </div>
+    <div class="right" id="footer-copyright">
+        Copyright © 2010 - 2012 Royal Media, LLC. All Rights Reserved. 
+        | <a href="/terms">Terms</a>        | <a href="/pages/terms#privacy">Privacy</a>    </div>
+    <div class="left" id="footer-social">
+        <span class="left">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-text="Check out Postloop!" data-url="http://www.postloop.com" data-via="thepostloop" data-lang="en">Tweet</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </span>
+        <span class="left">
+            <div class="fb-like" data-href="http://www.postloop.com" data-send="false" data-layout="button_count" data-width="70" data-show-faces="false" data-action="recommend" data-font="trebuchet ms"></div>
+        </span>
+        <span class="left">
+            <g:plusone size="medium" href="http://www.postloop.com"></g:plusone>
+        </span>
+    </div>
+</div>        </div>
+    </div>
+
+        
+    <script src="/app/webroot/mint/?js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5148649-10']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-91WyyyVAI4X1o"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-91WyyyVAI4X1o.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body></html>
