@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeknomore.blogspot.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103102217id_/http%3A//seeknomore.blogspot.com/2009/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeknomore.blogspot.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015075212id_/http%3A//seeknomore.blogspot.com/2009/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Seek No More: Privacy Policy
 
