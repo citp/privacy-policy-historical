@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the regalassets.com privacy policy that was archived on 2012-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607061755id_/http%3A//www.regalassets.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the regalassets.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016013923id_/https%3A//www.regalassets.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
-<title>Privacy Policy</title>
-<base href="http://www.regalassets.com/">
-<link href="http://www.regalassets.com/image/data/favicon.png" rel="icon">
+<title>Privacy Policy|Regal Assets</title>
+<base href="https://www.regalassets.com/">
+<meta name="keywords" content="investing in precious metals,precious metals investing,buying precious metals,investing in gold,investing in gold and silver,is investing in gold a good idea,buying gold bullion,buying silver bullion, buying gold coins, buying silver coins">
+<link href="https://www.regalassets.com/image/data/favicon.png" rel="icon">
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css">
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.6.1.min.js"></script>
@@ -13,38 +14,146 @@
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+
+<script type="text/javascript" src="/js/maskinput.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+
+$("#phone_num").mask("(999) 999-9999").val("Phone Number*");
+$('#phone_num').blur(function() {
+			if($(this).val()=="") {
+				$(this).val("Phone Number*");
+			}
+		});
+
+$("#phone_num2").mask("(999) 999-9999").val("Phone Number (must be valid)*");
+$('#phone_num2').blur(function() {
+			if($(this).val()=="") {
+				$(this).val("Phone Number (must be valid)*");
+			}
+		});
+		
+$("#phone_num3").mask("(999) 999-9999").val("Phone Number (must be valid)*");
+$('#phone_num3').blur(function() {
+			if($(this).val()=="") {
+				$(this).val("Phone Number (must be valid)*");
+			}
+		});
+});
+
+
+
+
+</script>
+
 <!--[if IE]>
+
 <script type="text/javascript" src="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.4-iefix.js"></script>
+
 <![endif]-->
+
 <meta name="google-site-verification" content="ftt-MnQUKuxL_jQItM7lnSu2dKaVrUO44PLYJNsIkZg">
 <script type="text/javascript">
-  function validateContactForm()
-  {
+	function validateContactForm() {
+	var Fname=document.forms['leadform2']['fields_fname'].value;
+	var Phone=document.forms['leadform2']['fields_phone'].value;
+	var reg = /^[(]\d{3}[)][ ]\d{3}[-]\d{4}$/;
 	
-	var message = '';
-  
-	if (document.leadform2.fields_fname.value == "First Name*") { message += "First Name\n"; }
-	if (document.leadform2.fields_phone.value == "Phone Number*") { message += "Phone Number\n"; }
-  
-	if (message.length) {
-	  alert("Please complete the following required fields:\n\n" + message);
-	  return false;
+		if(Fname==null || Fname=="" || Fname=="Full Name*") {
+			alert("Please Enter Name");
+			return false;
+		}
+		else if(Phone==null || Phone=="" || Phone=="Phone Number*") {
+			alert("Please Enter Phone Number");
+			return false;
+		}
+		else if(!reg.test(Phone)) {
+			alert("Please Enter Valid Phone Number");
+			return false;
+		}
+		document.leadform2.submit();
+	} 
+	
+	function validateContactForm5() {
+	var Fname=document.forms['leadform2']['fields_fname'].value;
+	var Phone=document.forms['leadform2']['fields_phone'].value;
+	var reg = /^[(]\d{3}[)][ ]\d{3}[-]\d{4}$/;
+	
+		if(Fname==null || Fname=="" || Fname=="Full Name*") {
+			alert("Please Enter Name");
+			return false;
+		}
+		else if(Phone==null || Phone=="" || Phone=="Phone Number (must be valid)*") {
+			alert("Please Enter Phone Number");
+			return false;
+		}
+		else if(!reg.test(Phone)) {
+			alert("Please Enter Valid Phone Number");
+			return false;
+		}
+		document.leadform2.submit();
 	}
-	document.leadform2.submit();
-  }
-  function validateContactForm2()
-  {
-	var message = '';
-  
-	if (document.leadform1.fields_fname.value == "First Name*") { message += "First Name\n"; }
-	if (document.leadform1.fields_phone.value == "Phone Number*") { message += "Phone Number\n"; }
-  
-	if (message.length) {
-	  alert("Please complete the following required fields:\n\n" + message);
-	  return false;
+	
+	function validateContactForm6() {
+	var Fname=document.forms['leadform3']['fields_fname'].value;
+	var Phone=document.forms['leadform3']['fields_phone'].value;
+	var reg = /^[(]\d{3}[)][ ]\d{3}[-]\d{4}$/;
+	
+		if(Fname==null || Fname=="" || Fname=="Full Name*") {
+			alert("Please Enter Name");
+			return false;
+		}
+		else if(Phone==null || Phone=="" || Phone=="Phone Number (must be valid)*") {
+			alert("Please Enter Phone Number");
+			return false;
+		}
+		else if(!reg.test(Phone)) {
+			alert("Please Enter Valid Phone Number");
+			return false;
+		}
+		document.leadform3.submit();
 	}
-	document.leadform1.submit();
-  }
+	
+	function validateContactForm7() {
+	var Fname=document.forms['leadform4']['fields_fname'].value;
+	var Phone=document.forms['leadform4']['fields_phone'].value;
+	var reg = /^[(]\d{3}[)][ ]\d{3}[-]\d{4}$/;
+	
+		if(Fname==null || Fname=="" || Fname=="Full Name*") {
+			alert("Please Enter Name");
+			return false;
+		}
+		else if(Phone==null || Phone=="" || Phone=="Phone Number (must be valid)*") {
+			alert("Please Enter Phone Number");
+			return false;
+		}
+		else if(!reg.test(Phone)) {
+			alert("Please Enter Valid Phone Number");
+			return false;
+		}
+		document.leadform4.submit();
+	}
+	
+	function validateContactForm2() {
+	var Fname=document.forms['leadform1']['fields_fname'].value;
+	var Phone=document.forms['leadform1']['fields_phone'].value;
+	var reg = /^[(]\d{3}[)][ ]\d{3}[-]\d{4}$/;
+	
+		if(Fname==null || Fname=="" || Fname=="First Name*") {
+			alert("Please Enter Name");
+			return false;
+		}
+		else if(Phone==null || Phone=="" || Phone=="Phone Number*") {
+			alert("Please Enter Phone Number");
+			return false;
+		}
+		else if(!reg.test(Phone)) {
+			alert("Please Enter Valid Phone Number");
+			return false;
+		}
+		document.leadform1.submit();
+	}
 </script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/common.js"></script>
@@ -53,7 +162,8 @@
 $(function() {
     $(".coin-slider").jCarouselLite({
         btnNext: ".next",
-        btnPrev: ".prev"
+        btnPrev: ".prev",
+		visible: 2
     });
 });
 </script>
@@ -70,7 +180,7 @@ DD_belatedPNG.fix('#logo img');
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7809525-5']);
+  _gaq.push(['_setAccount', 'UA-7809525-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -79,35 +189,45 @@ DD_belatedPNG.fix('#logo img');
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
+</script><!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=25944,
+settings_tolerance=2000,
+library_tolerance=1500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=25944&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121016013923id_%2Fhttps%253A%2F%2Fwww.regalassets.com%2Fprivacy-policy&amp;r=0.4064533650348612" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=6995042"></script></head>
 <body>
 <div id="header">
-  <div id="top-bar-wrap">
+    <div id="top-bar-wrap">
     <div id="top-bar">
       <ul>
-        <li><a href="http://www.regalassets.com/index.php?route=account/account">My Account</a></li>
+        <li><a href="https://www.regalassets.com/index.php?route=account/account">My Account</a></li>
         <li><a href="http://www.regalassets.com/index.php?route=account/wishlist" id="wishlist_total">My Wishlist (0)</a></li>
         <li><a href="http://www.regalassets.com/index.php?route=checkout/cart">My Cart</a></li>
-        <li><a href="http://www.regalassets.com/index.php?route=checkout/checkout">Checkout</a></li>
+        <li><a href="https://www.regalassets.com/index.php?route=checkout/checkout">Checkout</a></li>
         <li>
-                    <a href="http://www.regalassets.com/index.php?route=account/login">Login</a>                  </li>
+                    <a href="https://www.regalassets.com/index.php?route=account/login">Login</a>                  </li>
       </ul>
       <div id="search">
         <div class="button-search">Search</div>
                 <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
               </div>
-      <div id="social"> <a href="https://www.facebook.com/RegalAssets" target="_blank"><img src="/images/facebook.png"></a> <a href="http://www.youtube.com/user/regalassets/featured" target="_blank"><img src="/images/youtube.png" width="22" height="22"></a> <a href="https://twitter.com/#!/regal_assets" target="_blank"><img src="/images/twitter.png" width="22" height="22"></a> <a href="https://plus.google.com/113548530179409201729/posts" target="_blank"><img src="/images/google-plus.png"></a> </div>
+      <div id="social"> <a href="https://www.facebook.com/RegalAssets" target="_blank"><img src="/images/facebook.png" alt="Facebook"></a> <a href="http://www.youtube.com/user/regalassets/featured" target="_blank"><img src="/images/youtube.png" width="22" height="22" alt="YouTube"></a> <a href="https://twitter.com/#!/regal_assets" target="_blank"><img src="/images/twitter.png" width="22" height="22" alt="Twitter"></a> <a href="https://plus.google.com/113548530179409201729/posts" target="_blank"><img src="/images/google-plus.png" alt="Google+"></a> </div>
     </div>
   </div>
   <div id="notification"></div>
-  <div id="logo-wrap">
-    <h1 class="logo"><a href="/">Regal Assets</a></h1>
-    <div id="promos"> <img src="/images/promos.png" alt="Delivery 7 Day Guarantee, Free Silver Eagle"> </div>
-  </div>
+    <div id="logo-wrap">
+        <a href="/" class="logo">Regal Assets</a>
+            <div id="promos"> <img src="/images/promos.png" alt="Delivery 7 Day Guarantee, Free Silver Eagle"> </div>
+      </div>
     <div id="nav">
     <ul>
-            <li><a href="http://www.regalassets.com/bullion">Bullion</a>
+                  <li><a href="http://www.regalassets.com/bullion">Bullion</a>
                         <ul>
                                         <li><a href="http://www.regalassets.com/bullion/gold-bullion">Gold Bullion (9)</a></li>
                                         <li><a href="http://www.regalassets.com/bullion/silver-bullion">Silver Bullion (3)</a></li>
@@ -153,34 +273,32 @@ DD_belatedPNG.fix('#logo img');
           <li><a href="/palladium-price-chart">Price of Palladium</a></li>
         </ul>
       </li>
-      <li><a href="/why-gold">Gold Resources</a>
+      <li><a href="/why-gold">Resources</a>
         <ul>
           <li><a href="/why-gold">Why Invest in Gold</a></li>
           <li><a href="/invest-gold">How to Invest in Gold</a></li>
-          <li><a href="/index.php?route=information/fullpage&amp;information_id=28">Request Free Information</a></li>
+          <li><a href="/request-free-information">Request Free Information</a></li>
           <li><a href="/iphone">Free iGoldLive App</a></li>
           <li><a href="/placingorder">Placing An Order</a></li>
           <li><a href="/frasqu">Frequently Asked Questions</a></li>
-          <li><a href="/testimonials">Testimonials</a></li>
         </ul>
       </li>
-      <li><a href="/index.php?route=news/all">Blog</a></li>
-      <li><a href="/affiliate">Affiliates</a></li>
-    </ul>
+      <li><a href="/blog">Top News</a></li>
+      <li><a href="/testimonials">Testimonials</a></li>
+          </ul>
   </div>
-    <div id="top">
-    <div class="accreditations"> <a href="http://www.la.bbb.org/business-reviews/Gold-Silver-and-Platinum-Dealers/Regal-Assets-LLC-in-Burbank-CA-100088403" target="_blank"><img src="/images/bbb.png" alt="BBB Accredited Business, A+ Rating"></a> <a href="http://www.trustlink.org/Reviews/Regal-Assets-LLC-206068373" target="_blank"><img src="/images/trustlink.png"></a> <img src="/images/accreditations.png" alt="ICTA, PCGS, NGC"> </div>
-    <div id="phone">
+      <div id="top">
+    <div class="accreditations"> <a href="http://www.la.bbb.org/business-reviews/Gold-Silver-and-Platinum-Dealers/Regal-Assets-LLC-in-Burbank-CA-100088403" target="_blank"><img src="/images/bbb-large.png" alt="BBB Accredited Business, A+ Rating"></a>
+      <a href="http://www.trustlink.org/Reviews/Regal-Assets-LLC-206068373" target="_blank"><img src="/images/trustlink-static.png" alt="TrustLink"></a>
+      <a class="fancybox" rel="fancybox1" title="ICTA Certificate" href="/images/ICTA-certificate.jpg"><img src="/images/icta.png" alt="ICTA"></a> <a href="http://news.yahoo.com/buy-gold-store-receives-top-5-star-rating-081149886.html " target="_blank"><img src="/images/top-consumer-reviews.png" alt="Top Consumer Reviews"></a> <a href="https://burbank.awardprogram.org/PressReleaseub.aspx?cc=DBK6-NBAN-VUHH" target="_blank"><img src="/images/best-of-burbank.png" alt="Best of Burbank"></a> </div>
+        <div id="phone">
       <ul>
-        <li class="first"> Buy Gold Coins:<br>
-          <span class="number">1 877 962 1133</span> </li>
-        <li> Sell Gold Coins:<br>
-          <span class="number">1 323 962 1133</span> </li>
+        <li class="first" style="border-right: 0;">Buy Gold - Sell Gold<br>
+          <span class="number">1-877-962-1133</span> </li>
       </ul>
     </div>
+      </div>
   </div>
-</div>
-
 <!--      <form action="http://www.regalassets.com/index.php?route=common/home" method="post" enctype="multipart/form-data">
     <div id="currency">Currency<br />
                         <a title="Euro" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR').submit(); $(this).parent().parent().submit();">€</a>
@@ -195,36 +313,36 @@ DD_belatedPNG.fix('#logo img');
       <h4>My Cart</h4>
       <a><span id="cart_total">0 item(s) - $0.00</span></a></div>
     <div class="content"></div>
-  </div>--> 
-
-<div id="content">
+  </div>--> <div id="content">
   <div id="column-right">
   	<a class="contact-btn" target="chat6995042" href="https://server.iad.liveperson.net/hc/6995042/?cmd=file&amp;file=visitorWantsToChat&amp;site=6995042&amp;byhref=1&amp;imageUrl=https://images.liveperson.com/lp/6995042/set2" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/6995042/?cmd=file&amp;file=visitorWantsToChat&amp;site=6995042&amp;imageUrl=https://images.liveperson.com/lp/6995042/set2&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat6995042','width=475,height=400,resizable=yes');return false;" id="_lpChatBtn">CHAT WITH AN EXPERT, CLICK HERE AND GET LIVE SUPPORT</a>
 	<div class="contact-form">
 		<p class="small top">Request <strong>FREE</strong> Gold Kit and Enter To Win <strong>FREE</strong> Silver Proof</p>
-		<form action="https://secure.leads360.com/Import.aspx?Provider=RegalAssets&amp;Client=RegalAssets&amp;CampaignId=1038&amp;url=http://www.regalgoldcoins.com/warning/thank-you/" name="leadform2" method="post">
-		<input style="display: none;" name="ReferringEmail" size="20" type="text" value="kfelix@regalassets.com">    
-		<input onblur="if (this.value == '') {this.value = 'First Name*';}" onfocus="if (this.value == 'First Name*') {this.value = '';}" class="text" name="fields_fname" size="20" type="text" value="First Name*">
-		<input onblur="if (this.value == '') {this.value = 'Last Name*';}" onfocus="if (this.value == 'Last Name*') {this.value = '';}" class="text" name="fields_lname" size="20" type="text" value="Last Name*">
+		<form action="https://secure.leads360.com/Import.aspx?Provider=RegalAssets&amp;Client=RegalAssets&amp;CampaignId=1038&amp;SubID=privacy-policy&amp;url=https://www.regalassets.com/thank-you" name="leadform2" method="post">
+		<input style="display: none;" name="ReferringEmail" size="20" type="text" value="<b>Notice</b>: Undefined variable: affinfo in <b>/var/www/vhosts/regalassets.com/httpdocs/catalog/view/theme/default/template/information/information.tpl</b> on line <b>29</b>kfelix@regalassets.com">    
+		<input onblur="if (this.value == '') {this.value = 'Full Name*';}" onfocus="if (this.value == 'Full Name*') {this.value = '';}" class="text" name="fields_fname" size="20" type="text" value="Full Name*">
 		<input onblur="if (this.value == '') {this.value = 'Email*';}" onfocus="if (this.value == 'Email*') {this.value = '';}" class="text" name="fields_email" size="20" type="text" value="Email*">
-		<input onblur="if (this.value == '') {this.value = 'Phone Number*';}" onfocus="if (this.value == 'Phone Number*') {this.value = '';}" class="text" name="fields_phone" size="20" type="text" value="Phone Number*">
+		<input onblur="if (this.value == '') {this.value = 'Phone Number*';}" onfocus="if (this.value == 'Phone Number*') {this.value = '';}" class="text" name="fields_phone" size="20" type="text" value="Phone Number*" id="phone_num">
 		<input style="display:none;" name="Ref_Id" size="20" type="text" value="2">
+		
 		<p align="center">
-		  <input class="button1" name="submit" src="/images/btn-contact.png" type="image" onclick="validateContactForm(); return false;">
+		  <input class="button1" name="submit" src="/images/btn-contact.png" type="submit" onclick="validateContactForm(); return false;">
 		</p>
 		<p align="center">
-		  <img src="/images/verisign-norton.png" alt="Norton Secured">
+		  <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.regalassets.com&amp;lang=en" target="_blank"><img src="/images/verisign-norton.png" alt="Norton Secured"></a>
 		</p>
 		<p class="small">*We use only the highest industry standard secure server (SSL) for protecting your private information which is powered by VeriSign and Norton Secure. For more information please view our <a href="/privacy-policy">Privacy Policy</a></p>
-	  </form>  
+	  </form> 
 	</div>
+	
+
   </div>
   <div id="main">
-    <div class="breadcrumb">
-        <a href="http://www.regalassets.com/index.php?route=common/home">Home</a>
-         » <a href="http://www.regalassets.com/privacy-policy">Privacy Policy</a>
-      </div>
-  <h1>Privacy Policy</h1>
+    	  <div class="breadcrumb">
+				<a href="http://www.regalassets.com/index.php?route=common/home">Home</a>
+				 » <a href="http://www.regalassets.com/privacy-policy">Privacy Policy</a>
+			  </div>
+    <h1>Privacy Policy</h1>
   <div id="left">
   	<p><strong>PRIVACY POLICY</strong></p>
 <p>Your privacy is important – Regal Assets is dedicated to protecting yours. Any information we collect is used only to provide you with better services, process your orders, manage your account and increase your benefit for frequenting our site. We take privacy seriously and as such we take precautions to ensure that none of your privacy rights are violated.</p>
@@ -240,40 +358,52 @@ DD_belatedPNG.fix('#logo img');
 <p>We are committed to providing you a safe, no-risk environment. We use some of the most sophisticated security software available on the market today and have done everything reasonably possible to ensure that any personal information you share with us will not be misappropriated. Should you ever suspect that an unauthorized party has obtained or used your personal information, please contact Regal Assets immediately. We will investigate the matter thoroughly. And of course, any time that you discover or suspect fraud, you should contact your credit card company immediately.</p>
 <p><strong>Tell us what you think</strong></p>
 <p>If you have any comments or questions about our security and privacy statement please call us at <strong>Toll Free 1-877-962-1133</strong></p>
-      </div>
+	      </div>
     </div>
   <div class="clear"></div>
   </div>
-<b>Notice</b>: Undefined index: id in <b>/home/regalass/public_html/catalog/view/theme/default/template/information/information.tpl</b> on line <b>40</b><!--<div id="footer">
+<!--<div id="footer">
   <div class="column">
     <h3>Information</h3>
     <ul>
+            <li><a href="http://www.regalassets.com/info-a">About Us</a></li>
             <li><a href="http://www.regalassets.com/affiliate">Affiliate Sign Up</a></li>
             <li><a href="http://www.regalassets.com/request-free-information">Alan Thicke Recommends Regal Assets for First Time Gold Buyers</a></li>
             <li><a href="http://www.regalassets.com/iphone">Free Droid and iPhone App</a></li>
             <li><a href="http://www.regalassets.com/free-gold-charts">Free Gold Charts</a></li>
             <li><a href="http://www.regalassets.com/frasqu">Frequently Asked Questions</a></li>
+            <li><a href="http://www.regalassets.com/gold-answers">Getting Expert Answers To Your Questions About Gold</a></li>
+            <li><a href="http://www.regalassets.com/investing-gold-ira">Getting Expert Answers To Your Questions About Gold IRA</a></li>
+            <li><a href="http://www.regalassets.com/gold-kit">Getting Expert Answers To Your Questions About Gold Kit</a></li>
             <li><a href="http://www.regalassets.com/gold-401k">Gold 401k or 403b?</a></li>
             <li><a href="http://www.regalassets.com/gold-in-ira">Gold in IRA</a></li>
+            <li><a href="http://www.regalassets.com/gold-in-your-ira">Gold in your IRA</a></li>
             <li><a href="http://www.regalassets.com/buy-gold-ira">Gold IRA Instructions</a></li>
             <li><a href="http://www.regalassets.com/gold-retirement">Gold IRA Regal Assets?</a></li>
+            <li><a href="http://www.regalassets.com/gold-ira-a">Gold IRA Specialists</a></li>
             <li><a href="http://www.regalassets.com/gold-ira">Gold IRA Specialists | Call 1-877-962-1133</a></li>
             <li><a href="http://www.regalassets.com/gold-price-chart">Gold Price Chart</a></li>
             <li><a href="http://www.regalassets.com/gold-rollover">Gold Rollover?</a></li>
             <li><a href="http://www.regalassets.com/invest-gold">How To Invest In Gold</a></li>
+            <li><a href="http://www.regalassets.com/our-products">Our Products</a></li>
+            <li><a href="http://www.regalassets.com/our-recommendations">Our Recommendations</a></li>
             <li><a href="http://www.regalassets.com/palladium-price-chart">Palladium Price Chart</a></li>
             <li><a href="http://www.regalassets.com/placingorder">Placing An Order</a></li>
             <li><a href="http://www.regalassets.com/platinum-price-chart">Platinum Price Chart</a></li>
             <li><a href="http://www.regalassets.com/precious-metal-prices">Precious Metal Prices</a></li>
+            <li><a href="http://www.regalassets.com/precious-metal-prices-a">Precious Metal Prices</a></li>
+            <li><a href="http://www.regalassets.com/privacy-policy-a">Privacy Policy</a></li>
             <li><a href="http://www.regalassets.com/contact">Regal Assets Contact Information</a></li>
             <li><a href="http://www.regalassets.com/free-information">Request Free Information</a></li>
             <li><a href="http://www.regalassets.com/silver-price-chart">Silver Price Chart</a></li>
             <li><a href="http://www.regalassets.com/sitemap">Sitemap</a></li>
             <li><a href="http://www.regalassets.com/testimonials">Testimonials</a></li>
             <li><a href="http://www.regalassets.com/thank-you">Thank You</a></li>
+            <li><a href="http://www.regalassets.com/index.php?route=information/information&amp;information_id=41">The Most Important First Step Before You Invest In Gold</a></li>
             <li><a href="http://www.regalassets.com/top-stories">Top Stories</a></li>
             <li><a href="http://www.regalassets.com/top-videos">Top Videos</a></li>
             <li><a href="http://www.regalassets.com/gold-silver-ira">What Type of Gold in an IRA?</a></li>
+            <li><a href="http://www.regalassets.com/why-choose-regal-assets">Why Choose Regal Assets?</a></li>
             <li><a href="http://www.regalassets.com/why-gold">Why Invest In Gold</a></li>
             <li><a href="http://www.regalassets.com/info">About Us</a></li>
             <li><a href="http://www.regalassets.com/index.php?route=information/information&amp;information_id=6">Delivery Information</a></li>
@@ -285,45 +415,64 @@ DD_belatedPNG.fix('#logo img');
     <h3>Customer Service</h3>
     <ul>
       <li><a href="http://www.regalassets.com/index.php?route=information/contact">Contact Us</a></li>
-      <li><a href="http://www.regalassets.com/index.php?route=account/return/insert">Returns</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=account/return/insert">Returns</a></li>
       <li><a href="http://www.regalassets.com/index.php?route=information/sitemap">Site Map</a></li>
     </ul>
   </div>
   <div class="column">
     <h3>Extras</h3>
     <ul>
-      <li><a href="http://www.regalassets.com/index.php?route=product/manufacturer">Brands</a></li>
-      <li><a href="http://www.regalassets.com/index.php?route=checkout/voucher">Gift Vouchers</a></li>
-      <li><a href="http://www.regalassets.com/index.php?route=affiliate/account">Affiliates</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=product/manufacturer">Brands</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=checkout/voucher">Gift Vouchers</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=affiliate/account">Affiliates</a></li>
       <li><a href="http://www.regalassets.com/index.php?route=product/special">Specials</a></li>
     </ul>
   </div>
   <div class="column">
     <h3>My Account</h3>
     <ul>
-      <li><a href="http://www.regalassets.com/index.php?route=account/account">My Account</a></li>
-      <li><a href="http://www.regalassets.com/index.php?route=account/order">Order History</a></li>
-      <li><a href="http://www.regalassets.com/index.php?route=account/wishlist">Wish List</a></li>
-      <li><a href="http://www.regalassets.com/index.php?route=account/newsletter">Newsletter</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=account/account">My Account</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=account/order">Order History</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=account/wishlist">Wish List</a></li>
+      <li><a href="https://www.regalassets.com/index.php?route=account/newsletter">Newsletter</a></li>
     </ul>
   </div>
 </div>-->
 
 <div id="footer-wrap">
 	<div id="footer">
-    	<p>
-        	<a href="/info">About Us</a> | <a href="/contact">Contact Us</a> | <a href="/pdfs/Shipping-Agreement.pdf" target="_blank">Shipping Agreement</a> | <a href="/pdfs/Gold-IRA-Investment.pdf" target="_blank">Gold IRA Form</a> | <a href="/index.php?route=information/fullpage&amp;information_id=28">Free Investment Kit</a> | <a href="/affiliate">Affiliate Program</a> | <a href="/privacy-policy">Privacy Policy</a>
+		    	<p>
+        	<a href="/info">About Us</a> | <a href="/contact">Contact Us</a> | <a href="/pdfs/Shipping-Agreement.pdf" target="_blank">Shipping Agreement</a> | <a href="/pdfs/Gold-IRA-Investment.pdf" target="_blank">Gold IRA Form</a> | <a href="/request-free-information">Free Investment Kit</a> | <a href="/affiliate">Affiliate Program</a> | <a href="/privacy-policy">Privacy Policy</a>
        	</p>
-        <p class="copy">
+		        <p class="copy">
             Copyright © 2012 Regal Assets, LLC All Rights Reserved.
         </p>
-        <p>
-        	<img src="/images/payments.png" alt="VISA, MasterCard, Discover, American Express, Authentic Site, FedEx">
-        </p>
     </div>
+	<!-- Google Code for Overall Site List -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1047729544;
+var google_conversion_label = "xRhcCP6voAMQiKvM8wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1047729544/?value=0&amp;label=xRhcCP6voAMQiKvM8wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 </div>
 
+<script type="text/javascript"><!--
+$('.fancybox').fancybox();
+//--></script>
+
 <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "6995042",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+
 
 
 </body></html>
