@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradestead.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145229id_/http%3A//www.tradestead.com/privacy_policy_information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradestead.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015084851id_/http%3A//www.tradestead.com/help/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Information - Wholesale Electronics - China Dropship
+# Privacy Policy Information - Tradestead.com
 
 Tradestead.com and its subsidies (collectively referred to in this Privacy Statement as "we" or "Tradestead") recognize the importance of protecting the privacy of all information provided by users of our web sites and customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by Tradestead. 
 
