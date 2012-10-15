@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classiccarsforsale.co.uk privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526135952id_/http%3A//www.classiccarsforsale.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classiccarsforsale.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015035934id_/http%3A//www.classiccarsforsale.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Classic Cars For Sale
 
