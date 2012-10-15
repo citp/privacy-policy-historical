@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630095429id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015043914id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
 
 # Hooked Gamers
 
