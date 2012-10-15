@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the foxsoccer2go.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622172453id_/http%3A//www.foxsoccer2go.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsoccer2go.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015065715id_/http%3A//www.foxsoccer2go.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | FOX Soccer 2Go
 
 _**FOX Soccer 2GO Privacy Policy**_
 
-**Effective Date: March, 9th 2012**
+**Effective Date: September  19, 2012**
 
 **1.INTRODUCTION**
 
@@ -86,3 +86,9 @@ c/o Fox Cable Networks Services, LLC
 Business and Legal Affairs
 
 P.O Box 900
+
+Beverly Hills, California 90213-0900
+
+Telephone:
+
+(310) 369-1350
