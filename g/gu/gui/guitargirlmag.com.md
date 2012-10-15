@@ -1,100 +1,114 @@
-> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015063603id_/http%3A//www.guitargirlmag.com/privacypolicy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Guitar Girl Magazine » Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Guitar Girl Magazine**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Privacy Policy**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available at the bottom portion of our website in a section titled “Privacy Policy.”  This notice applies to all information collected or submitted on the GuitarGirlMag.com web site.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**The Information We Collect:**
 
-**Information Collection and Use**
+In order to make best use of this site, you should register a user name unique to you with GuitarGirlMag.com. The typical kinds of information you might submit when registering might include:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * *Real Name 
+  * *User Name 
+  * *Password 
+  * *Email Address 
+  * Personal Avatar (a picture that represents you) 
+  * Personal Website 
+  * Instant Messenger Information (ICQ, AIM, YIM, MSNM) 
+  * Geographic Location 
+  * Occupation 
+  * Interests 
+  * Additional Information 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+The types above marked with an asterisk (*) indicate required field. The other fields are optional and are provided only to facilitate your communication with others.  If you choose not to provide certain information, then you may not be able to participate in certain features offered by this site.  Some of this information may be viewable in your user profile should you choose to enter it with your registration information.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+On some pages, you may be able to order products, make requests, and register to receive materials. The types of personal information collected at these pages may include:
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * Name 
+  * Address 
+  * Email address 
+  * Phone number 
+  * Credit/Debit Card Information 
+  * Additional Shipping Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+On some pages, you can submit information about other people. For example, if you would like to let someone know about this website via our "Tell-a-friend" instant e-mail service, you will need to submit the recipient's e-mail address. In another example, you may decide to order a product as a gift and submit another individual's name and address for delivery purposes. In these circumstances, the types of personal information that might be collected are:
 
-**Updating Your Information**
+  * Name 
+  * Address 
+  * Phone Number 
+  * E-mail Address 
+  * Website URL, etc.
+  * 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+You may choose to participate in various promotional offers provided through us or through our partners.  In these cases, you may provide various kinds of identifiable information such as name, e-mail, address, phone number, etc.  However, we will make it known if the offer is promotional and what information will be sent to a third party.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**How We Use Information:**
 
-      iii.      You may call us at: (480) 505-8800
+We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-       iv.      You may fax us at: (480) 505-8844
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals.
 
-**Sending Emails**
+Other than your user name and personal avatar, you may choose which pieces of information are viewable to others when registering. You can modify this at any time using the "Edit Profile" option. Other users will be able to see your current user name, your current personal avatar, as well as the posts, articles, and comments you have submitted. Also, they may be able to tell if you are currently logged on to the website.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The information you provide about yourself when placing an order is not provided to others. This information is used only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.   It will be necessary to transmit some necessary information to third-parties for the purposes of completing financial transactions.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We use the information you provide about someone else only to send requested information, ship an ordered product, and/or to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete a specific request.
 
-**Compliance with Laws and Law Enforcement**
+We reserve the right to transfer your information to a third party for the purposes of managing normal aspects of our business.  For instance, we may contract with an e-mail newsletter service or an accounting/bookkeeping service. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-**Third Party Service Providers**
+**Cookies** :
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Some of our business partners may elect to use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+At this time, GuitarGirlMag.com does not use cookies.
 
-**Supplementation of Information**
+**Log Files:**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-**Contests/Surveys**
+**Links:**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+This web site contains links to other sites. Please be aware that we GuitarGirlMag.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Tell-A-Friend:  (currently not in use)**
 
-**Tell-A-Friend**
+If and when GuitarGirlMag.com decides to use the Tell-A-Friend Feature, if a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. GuitarGirlMag.com will automatically send the friend a one-time email inviting them to visit the site. GuitarGirlMag.com stores this information for the sole purpose of sending this one-time email. The friend may contact GuitarGirlMag.com at [info@guitaritupforgirls.com](mailto:info@guitaritupforgirls.com) to request the removal of this information from their database. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**Our Commitment To Data Security:**
 
-**What Happens to my Personal Information if I Opt Out?**
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. However, you should be aware that this system may never be completely secure. This site is virtually hosted and uses a PHP based content management system. A MYSQL database backend and various modules/plugins. Our system is subject to any security vulnerabilities attributable to these software and systems. Although it is an unlikely event, it is possible that your data could be purposefully accessed through these vulnerabilities.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We may choose to release account and other personal information when appropriate in order to comply with the law or to enforce or apply our Conditions of Use and other agreements.  It may also be necessary to release information for the purpose of protecting the rights, property, or safety of GuitarGirlMag.com, our users, or others. This would include the exchange of information with other companies and organizations for fraud protection and credit risk reduction.
 
-**Transfer of Data Abroad**
+**Business Transfers:**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+As we continue to develop our business, we might choose to sell or buy portions of our business.  You should know that in these transactions, customer information is typically one of the business assets transferred but will remain subject to promises made in any pre-existing Privacy Notice. Also, in the event that all or a portion of GuitarGirlMag.com is acquired, customer information will likely be one of the transferred assets. At this time, no such transfer is anticpated.
 
-**Changes in Our Practices**
+**Our Commitment To Children's Privacy:**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Protecting the privacy of the very young is especially important to us. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Unfortunately, we cannot determine whether or not a subscriber to our site is under the age of 13.  As a parent you should be aware of what sites your child visits.  Our assurance to you is that we will attempt to make this site family friendly.  However, we cannot always control the language used by our other members.
 
-**Contacting Our Site**
+If you find something offensive on our site and we will review the issue immediately.  If you feel your child is being harassed or endangered by anyone participating on this site, let us know immediately so that we can deal with the situation.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+If you would not like your child's information stored on our database, please let us know and we will either establish an alias so that they can still enjoy the site to its fullest degree, or we will delete the record entirely.
 
-* * *
+We do not purposely sell products to individuals under the age of 18.  If you are under the age of 18, you should involve your parent or guardian before engaging in any financial transactions with GuitarGirlMag.com
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**How To Contact Us:**
+
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@guitaritupforgirls.com](mailto:info@guitaritupforgirls.com).  . 
+
+Dated:  May 23, 2012
