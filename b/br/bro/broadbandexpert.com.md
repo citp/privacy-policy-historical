@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511020820id_/http%3A//www.broadbandexpert.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015140432id_/http%3A//www.broadbandexpert.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Broadband Expert - Privacy Policy
 
