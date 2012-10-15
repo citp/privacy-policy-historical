@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511203041id_/http%3A//www.tripcentral.ca/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015041554id_/http%3A//www.tripcentral.ca/info/privacypolicy.php) for the most accurate reproduction.*
 
 # All Inclusive Vacations | Last Minute Vacations | Vacation Packages | Cheap Flights - tripcentral.ca
 
