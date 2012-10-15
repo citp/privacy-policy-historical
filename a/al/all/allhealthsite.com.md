@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhealthsite.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528112439id_/http%3A//www.allhealthsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthsite.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015073248id_/http%3A//www.allhealthsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllHealthSite.com - Health Articles and Health News
 
@@ -16,7 +16,7 @@ AllHealthSite.com provides you with the best technical services to its visitors 
 
 ## Information Secrecy
 
-All regular users of the AllHealthSite.com are assured that we will never pass on your personal information and details to anyone else, distribute, barter or sell to anyone. The information requested will be according to the intended use of our Website. Your interest in our health newsletter will make your email address a must. Some more details may be needed when you buy anything on our Website. 
+All regular users of the AllHealthSite.com are assured that we will never pass on your personal information and details to anyone else, distribute, barter or sell to anyone. The information requested will be according to the intended use of our Website. Your interest in our health newsletter will make your email address a must. Some more details may be needed when you buy anything on our Website.
 
 AllHealthSite.com is well introduced in the internet market and can provide ample leads to message boards, chat rooms and various interactive forums besides other website links. In such spheres complete obscurity is not possible. So you will be required to set a personalized account there to facilitate activities. The internet world is expanding Net wise with better and more sophisticated software becoming available. The whole mankind is coming closer to each other, literally being squeezed into ONE NET. So the world around you would like to know more about you as you would like to know more about them when you all surf together.
 
