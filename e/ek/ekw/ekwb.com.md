@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502002935id_/http%3A//www.ekwaterblocks.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015134250id_/http%3A//www.ekwb.com/footerlinks/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EkWaterBlocks
+# Privacy Policy | EKWaterBlocks
+
+## Newsletter
+
+  
+
+
+## Poll
+
+What type of graphics card is your primary graphics card?
 
 **Information Collection and Use** **  
 ** EK Water Blocks is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to any outside parties, except as outlined in this policy.  EK Water Blocks collects information from our users at several different points on our website in order to process orders and better serve you with pertinent information. Information collected includes name, shipping address, billing address, telephone numbers, e-mail address, and payment information such as credit card. EK Water Blocks also requires you to submit a user name and password of your choice for future access to your information. Your user name and password is to remain confidential and you should not share this information with anyone.
