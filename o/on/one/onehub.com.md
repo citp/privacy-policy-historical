@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504150052id_/https%3A//onehub.com/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015141214id_/https%3A//onehub.com/security/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Security • Onehub
 
 ## Your privacy is critically important to us.
 
-##### Effective: July 15, 2011
+##### **Effective:** July 15, 2011
 
   *   * [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.onehub.com/seal_m "Validate TRUSTe privacy certification")
 
