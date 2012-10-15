@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kraftbrands.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509212152id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftbrands.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015020501id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # kraftfoods.com privacy notice
 
-This website is owned and operated by Kraft Foods Global, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. 
+This website is owned and operated by Kraft Foods Group, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. 
 
 ### Personally-Identifiable Information 
 
@@ -78,7 +78,7 @@ During the normal course of our business, Kraft may sell or purchase assets. If 
 
 For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to: 
 
-Kraft Foods Global, Inc.  
+Kraft Foods Group, Inc.  
 1 Kraft Court  
 Glenview, IL 60025  
 Attention: Consumer Relations 
@@ -113,7 +113,7 @@ We may change or update portions of this Privacy Notice at any time. Please chec
 
 If you have any questions about this Privacy Notice, you can contact us at:
 
-Kraft Foods Global, Inc.  
+Kraft Foods Group, Inc.  
 1 Kraft Court  
 Glenview, IL 60025  
 Attention: Consumer Relations Group
@@ -125,4 +125,4 @@ Attention: Consumer Relations Group
 
 We would be happy to answer your questions or hear your concerns.
 
-© 2011 KF Holdings.
+© 2011 Kraft Foods
