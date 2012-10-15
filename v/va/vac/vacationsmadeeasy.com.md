@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619065708id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015045258id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Vacations Made Easy Disclaimers
 
@@ -18,7 +18,7 @@ We may use Contact Data to send you information about our company or our product
 We may share Demographic Data with advertisers and other third parties. 
 
 **User Choice Regarding Collection, Use and Distribution of Personal Information.**  
-You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. 
+By providing us with your Personal Information, you consent to our use of such Personal Information as provided above. You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. 
 
 **Confidentiality and Security of Personal Information.**  
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Service. Your Personal Information is stored on secure servers that are designed to limit unauthorized access to your Personal Information. 
