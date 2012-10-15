@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinghaiyu.net privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515095804id_/http%3A//www.jinghaiyu.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinghaiyu.net privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015034046id_/http%3A//www.jinghaiyu.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » JingHaiYu
 
