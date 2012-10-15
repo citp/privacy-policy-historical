@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerboard.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110123112id_/http%3A//www.careerboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerboard.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016010441id_/http%3A//www.careerboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | the USA CareerBoard.com
 
