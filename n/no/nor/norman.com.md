@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118083212id_/http%3A//norman.com/about_norman/privacy_policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015043521id_/http%3A//www.norman.com/about_norman/privacy_policy/en) for the most accurate reproduction.*
 
 # Privacy policy | Norman — Proactive IT security
 
