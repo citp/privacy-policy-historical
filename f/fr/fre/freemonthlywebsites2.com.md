@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemonthlywebsites2.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627185420id_/http%3A//www.freemonthlywebsites2.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemonthlywebsites2.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015052024id_/http%3A//www.freemonthlywebsites2.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Monthly Websites 2.0
 
@@ -45,7 +45,7 @@ You may choose to provide personal information to website visitors or other thir
 
 
 **9\. AUTORESPONDERS.**  
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support@freemonthlywebsites2.com, or sending us mail to the address listed below.  
+We may use autoresponders to communicate with you by e-mail regarding Free Monthly Websites or other products and services that we feel may help you. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support@freemonthlywebsites2.com, or sending us mail to the address listed below.  
 
 
 **10\. POLICY CHANGES.**  
