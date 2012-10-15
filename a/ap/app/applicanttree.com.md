@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applicanttree.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513181424id_/http%3A//www.applicanttree.com/1/sys/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicanttree.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015141822id_/http%3A//applicanttree.com/1/sys/privacy) for the most accurate reproduction.*
 
 # Applicant Tree
 
@@ -40,7 +40,7 @@ Email sent over the Internet is not secure and should not be used to communicate
 
 ###  Email Anti-Spam Policy 
 
-The Company does not send unsolicited commercial email through our systems. If you believe you have received an unsolicited commercial email from the Company on behalf of any of our advertisers, please let us know below.  
+The Company does not send unsolicited commercial email through our systems. If you believe you have received an unsolicited commercial email from the Company on behalf of any of our advertisers, please let us know below. The Company will use our mail system to deliver job alerts that are selected for you. To stop receiving these alerts you may notify us below or opt out in the job alert email. You may stop alerts or change alerts at any time.  
 To unsubscribe from the Company's email lists, please let us know what your email address is in the notification box below. Our unsubscribe process impacts only the future delivery of electronic mailings disseminated by the Company on its own behalf. You may still receive electronic mailings sent on behalf of third parties and your personal information may still be shared with third parties for use in offline marketing and data appends, including email appends. 
 
 Unsubscribing from our electronic mailings will not automatically unsubscribe the information from third parties. Since third parties maintain separate databases from us you will need to unsubscribe from each source individually, if desired. This allows you the freedom to pick and choose which subscriptions to maintain and which to discontinue. 
