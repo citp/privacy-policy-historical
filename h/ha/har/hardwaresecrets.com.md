@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511195250id_/http%3A//www.hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015142030id_/http%3A//www.hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hardware Secrets
 
@@ -31,12 +31,11 @@ Hardwaresecrets.com periodically conducts contests and sweepstakes. If you choos
 This Privacy Policy may be modified from time to time. If there are changes, those changes are effective immediately.
 
   
-| Recommended Deal  
----  
-| **Listening Library 0-807-28195-6**   
-Harry Potter and the Sorcerer s Stone Book 1 J.K. Rowling Jim Dale Books Sorcerers Listening Library Audio Used New Usually ships in 24 h  
-  
-[](https://web.archive.org/rss_news.xml)Latest News
+
+
+| 
+
+[](https://web.archive.org/rss.xml)Latest News
 
   
 
@@ -51,4 +50,6 @@ Our Most Popular Articles
   
 
 
-Latest Threads in Our Forums
+Latest Threads in Our Forums  
+  
+---|---
