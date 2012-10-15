@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red5.co.uk privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429001604id_/http%3A//www.red5.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red5.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015134818id_/http%3A//www.red5.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RED5 Gadget Shop
 
@@ -25,6 +25,10 @@ You can choose to opt out of marketing communications at any time in the "My Acc
 ## Cookies and Non-Personal Information Collected Automatically
 
 When you access our website, we may automatically (i.e., not by registration) collect information that is not personally-identifiable (e.g., type of Internet browser and computer operating system used; domain name of the website from which you came; number of visits, average time spent, pages viewed). We may use this information to measure the use of our websites and improve their content.
+
+If you do not wish for us to use cookies when you use the Red5.com website please change your Internet browser settings to not accept cookies. You can find out how to do this by Googling it of course or help tab on your browser. Please note that cookies allow you to take full advantage of the services we provide through the Red5.com website including checkout functionality and so we recommend that you leave them turned on.
+
+Red5 is working towards complaisance with the recently revised e-Privacy Directive and is working with the latest guidance from the Information Commissioner's Office (ICO).
 
 ## 3rd Party Ad Serving
 
