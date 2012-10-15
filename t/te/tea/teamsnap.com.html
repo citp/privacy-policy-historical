@@ -1,50 +1,52 @@
-<!--The following is the downloaded HTML source of the teamsnap.com privacy policy that was archived on 2012-01-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120106054517id_/http%3A//www.teamsnap.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teamsnap.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015123828id_/http%3A//www.teamsnap.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/8631401.js"></script>
+	<script type="text/javascript" async="" src="https://widget.uservoice.com/OIGpAjzQGUF1TudOjubmeQ.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/8631401.js"></script>
 		
 	
 		
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<title>TeamSnap : Privacy Policy</title>
-	<meta name="description" content="TeamSnap privacy policy.">
+ 
+        
+    	<meta name="description" content="TeamSnap privacy policy.">
+	    
 	<link rel="Shortcut Icon" href="http://www.teamsnap.com/favicon.ico">
 	<link rel="img_src" href="http://www.teamsnap.com/_images/facebook_thumbnail.jpg">
 	<link rel="stylesheet" href="_css/styles.css" type="text/css">
 	<link rel="stylesheet" href="/_css/new/reset.css">
-  <link rel="stylesheet" href="/_css/new/screen.css">
-  <link rel="stylesheet" href="/_css/new/screen2.css">
-  <link rel="stylesheet" href="/_css/new/960.css">
+  	<link rel="stylesheet" href="/_css/new/screen.css">
+  	<link rel="stylesheet" href="/_css/new/screen2.css">
+  	<link rel="stylesheet" href="/_css/new/960.css">
 	<meta http-equiv="imagetoolbar" content="no">
 	<!--[if lt IE 7]>
 		<link rel="stylesheet" href="_css/ie.css" type="text/css" />
         <script type="text/javascript" src="http://www.teamsnap.com/_includes/unitpngfix.js"></script>
 	<![endif]-->
-			
-	<script src="_includes/jquery-1.4.2.min.js" type="text/javascript"></script>
+			<script src="_includes/jquery-1.7.1.min.js" type="text/javascript"></script>
 	<script src="_includes/jquery.dimensions-1.2.js" type="text/javascript"></script>
 	<script src="_includes/jquery.hoverIntent.js" type="text/javascript"></script> <!-- optional -->
-	<script src="_includes/jquery.cluetip.js" type="text/javascript"></script>
-	
-	<script type="text/javascript">
-	$(document).ready(function() {
-	  $('span').cluetip({
-					attribute: 'rel',
-					local: true,
-					hideLocal: true,
-					arrows: true,
-					cluetipClass: 'jtip'
-		});
-				
-		$('a').cluetip({
-						attribute: 'rel',
-						local: true,
-						hideLocal: true,
-						arrows: true,
-						cluetipClass: 'jtip'
-		});
 		
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+			$('.team_drop').hover(
+			function() {
+			$('#team_nav').addClass("active_hover");
+			},
+			function() {
+			$('#team_nav').removeClass("active_hover");
+			});
+			$('.league_drop').hover(
+			function() {
+			$('#league_nav').addClass("active_hover");
+			},
+			function() {
+			$('#league_nav').removeClass("active_hover");
+			});
+		});
+	</script> 
+		<script type="text/javascript">		
 		// Price Table Alternating Row Color
 		$('tr:odd').css('background-color', '#f9f9f9');
 		
@@ -55,24 +57,27 @@
 		    $('#most_popular_border').css({"height":"1200px"});
 		    $('.price_footer').css({"padding":"15px 20px 5px"});
 		//});
-		
-	});
 	</script>
-	
-	
+		
 	<script type="text/javascript" charset="utf-8">
   	$(window).load(function() {
-	 var bg=new Image();
-	 var bg_src='/_images/new/exclusive_paper.png';
-	 $(bg).attr('src', bg_src).load(function() {
-		$("body").css("background-image", "url(" + bg_src + ")");  
-	 })
+	 	$("body").addClass('fullheader');
 	});
 </script>	
 	<link rel="stylesheet" href="_css/jquery.cluetip.css" type="text/css">
 
 		
-	<script type="text/javascript">
+		
+				
+				  
+               
+    
+  
+        
+    
+    
+    
+  <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5604190-2']);
@@ -97,9 +102,9 @@
 	<!-- Google +1 -->
 	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body>
+<body onload="setupZoom()" class="fullheader">
 
 <!-- Start of HubSpot Logging Code  -->
 <script type="text/javascript" language="javascript">
@@ -124,18 +129,31 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
   <div class="container_12">
     
     <div class="grid_3">  
-      <a href="/index.php"><h1 class="logo">Privacy Policy | TeamSnap</h1></a>
+      <a href="/index.php"><span class="logo"><img src="/_images/new/logo.png"></span></a>
     </div>
     
     <div class="grid_9">
       
-      <ul class="navigation">
-        <li class="first-nav"><a href="/index.php">home</a></li>
-        <li><a href="/features/index.php">features</a></li>
+      <ul id="primary_nav" class="navigation">
+        <li id="teams" class="first-nav"><a href="/index.php">home</a></li>
+        <li id="team_nav" class="drop"><a href="/features/index.php">teams</a>
+        		<ul id="drop_nav" class="team_drop">
+        			<li class="first"><a href="/features/index.php">features</a></li>
+        			<li><a href="/uses.php">sports</a></li>
+        			<li><a href="/sign_up.php">plans</a></li>
+        		</ul>
+        </li>
+        <li id="league_nav" class="drop-league"><a href="/leagues/index.php">leagues <span style="font-size:15px;">&amp;</span> clubs</a>
+	        <ul id="drop_nav" class="league_drop">
+	        	<li class="first"><a href="/leagues/index.php" class="league">overview</a></li>
+	        	<li><a href="/leagues/registration.php" class="league">registration</a></li>
+	        	<li><a href="/leagues/public_website.php" class="league">public websites</a></li>
+	        	<li><a href="/leagues/pricing.php" class="league">pricing</a></li>
+	        		</ul>
+	      </li> 
         <li><a href="/testimonials.php">testimonials</a></li>
         <li><a href="/faq.php">faq</a></li>
         <li><a href="http://blog.teamsnap.com">blog</a></li>
-        <li><a href="/sign_up.php">plans</a></li>
       </ul>
 
     </div>
@@ -150,13 +168,13 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 
 		<div id="sub_content">
 	
-			<h2 class="title">TEAMSNAP</h2>
-			<h3 class="title">Privacy Policy</h3>
+			
+			<h1 class="title">Privacy Policy</h1>
 			
 <!-- START CONTENT -->
 
 
-<h4>Overview</h4>
+<h3 class="alt3">Overview</h3>
 
 <p>We take privacy very seriously, mainly because we don't like people messing with ours. We hate it when companies take advantage of the trust that is placed in them, and so we vow to treat all your information with the utmost care and respect.</p>
 
@@ -166,7 +184,7 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 
 <p>However, if you violate our <a href="terms.php">Terms of Service</a>, all bets are off and we might send your information to crazy Russian spammers.</p>
 
-<h4>Cookies</h4>
+<h3 class="alt3">Cookies</h3>
 
 <p>A cookie is a small sweet cake, typically round, flat, and crisp. We love cookies, especially when they have both peanut butter and chocolate in them. And snickerdoodles are good too.</p>
 
@@ -176,19 +194,19 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 
 <p>We use these kinds of cookies on the TeamSnap service, mainly to keep track of your current session information. But we don't use permanent cookies because we like to clean up after ourselves.</p>
 
-<h4>Data Storage</h4>
+<h3 class="alt3">Data Storage</h3>
 
 <p>We own all the data storage, databases, code and other assets that make the TeamSnap service function. But you retain all the rights to the information you store within TeamSnap and we'll never share that information with anybody else for any reason. Besides, who would want to know your batting average?</p>
 
 <p>During the process of developing and troubleshooting the TeamSnap service, it may be necessary to look at pieces of your data to improve the service or resolve a problem. But, as we've stated here, your data is never shared with any outside entity for any reason.</p>
 
-<h4>Changes</h4>
+<h3 class="alt3">Changes</h3>
 
 <p>If there is a change to our privacy policy for any reason, we will notify you promptly by sending an email to the email address we have on file for you. We considered sending changes via a little rolled up note attached to the leg of a carrier pigeon, but that has proven too costly.</p>
 
-<h4>Questions?</h4>
+<h3 class="alt3">Questions?</h3>
 
-<p>If you have any questions about this Privacy Policy, just send an email to <a href="mailto:howdy@teamsnap.com">howdy@teamsnap.com</a>. Or if for some reason you want to send us a letter (do people still do that?) just address it to TeamSnap, 1228 Mallard Court, Boulder Colorado 80303, USA.</p>
+<p>If you have any questions about this Privacy Policy, just send an email to <a href="mailto:howdy@teamsnap.com">howdy@teamsnap.com</a>. Or if for some reason you want to send us a letter (do people still do that?) just address it to TeamSnap, 1035 Pearl Street, Boulder Colorado 80302, USA.</p>
 
 
 <!-- END CONTENT -->
@@ -196,7 +214,23 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 		</div><!-- end sub_content -->
 
 	</div><!-- end subsystem -->
-
+<div id="sidebar">
+		<!--<div class="box first">
+		<img src="_images/new/icon-newsletter.png" alt="Newsletter" width="41" /> 
+		<p>Want great <strong>coaching tips</strong><br/>&#038; info on TeamSnap?</p>
+		<p><input type="text"  onfocus="if(this.value == 'Enter your email address') { this.value = ''; }" class="text" size="23" value="Enter your email address"></p>
+		<p class="nomargin"><input type="submit" class="button-blue" value="Join Our Newsletter" /></p>
+		</div>-->
+		
+		<div class="box fifty" style="margin-top:0px;">
+		<img src="_images/new/sidebar_portrait1.jpg" alt="Popular with Teams" width="73">
+		<p><strong>1,500,000 Players</strong><br>
+		use TeamSnap. Shouldn't you?</p>
+		<a class="button sunny" href="http://go.teamsnap.com/signup/trial">Sign Up FREE! <small>Free and paid plans available.</small></a>
+		</div>
+		<!--<p><a class="button sunny" href="http://go.teamsnap.com/signup/trial">Sign Up FREE!<small>No commitment. No credit card required.</small></a></p>-->
+		
+		 	</div>
 <!-- end container -->
 
 
@@ -205,24 +239,25 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
     <div class="container_12">
 
         <div class="grid_4 education-block">
-          <h2>Free download: <strong>How to be a great manager.</strong></h2>
+         
+          <h4>Free download: <strong>How to be a great manager.</strong></h4>
           <p>We're passionate about making team sports better. Our <a href="http://blog.teamsnap.com/">blog</a> is filled with tips for coaches, managers and players, and you can download our free info sheet on how to be a great team manager.</p>
           <a class="grid_2 alpha manager-tips" href="http://teamsnap.com/downloads/Good%20Manager.pdf">Tips for Managers!</a>
           <a class="grid_2 omega go-to-page" href="faq.php">Tips for Managers!</a>
       </div>
 
       <div class="grid_4 iphone-app-block">
-        <h2>Manage your teams on the go with our mobile app.</h2>
+        <h4>Manage your teams on the go with our mobile app.</h4>
         <ul class="button-app-store">
           <a class="orange" href="iphone.php">
-            <li class="get-it-at">To get it for free</li>
-            <li class="app-store" style="">Learn more</li>
+            <li class="get-it-at">Android and iPhone Apps</li>
+            <li class="app-store" style="">Learn More</li>
           </a>
         </ul>
       </div>
 
       <div class="grid_4 press-block">
-        <h2>The most intuitive and easy-to-use Web application since Gmail</h2>
+        <h4>The most intuitive and easy-to-use Web application since Gmail</h4>
         <p><em>“TeamSnap is my new favorite website. Beyond its sheer handiness, TeamSnap is the most intuitive and easy-to-use Web application since Gmail. A half-drunk lobotomized chimp could register a team. And probably play shortstop.”</em></p>
 <p>— Margaret Lyons, <strong>TimeOut Chicago</strong></p>
         <p>Check out our <a href="/media.php">Press</a> &amp; <a href="/testimonials.php">Testimonials</a></p>
@@ -241,8 +276,9 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
           <li><a href="/index.php">Home</a></li>
           <li><a href="/features/index.php">Features</a></li>
           <li><a href="/testimonials.php">Testimonials</a></li>
-          <li><a href="/teamlink.php">TeamLink for Leagues</a></li>
+          <li><a href="/leagues/index.php">Leagues and Clubs</a></li>
           <li><a href="/iphone.php">Free iPhone App</a></li>
+          <li><a href="/android.php">Free Android App</a> <span style="font-size:9px;font-weight:bold;background-color:yellow;padding:3px">NEW</span></li>
           <li><a href="/sign_up.php">Premium Plans</a></li>
           <li><a href="https://go.teamsnap.com/login">Sign In</a></li>
         </ul>
@@ -252,9 +288,12 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
         <h5>Community</h5>
         <ul>
           <li><a href="http://blog.teamsnap.com">TeamSnap Blog</a></li>
+          <li><a href="/customer_referral.php">Customer Referral</a> <span style="font-size:9px;font-weight:bold;background-color:yellow;padding:3px">NEW</span></li>
+          <li><a href="/affiliates.php">Affiliate Program</a> <span style="font-size:9px;font-weight:bold;background-color:yellow;padding:3px">NEW</span></li>
           <li><a href="http://www.facebook.com/TeamSnap" onclick="recordOutboundLink(this, 'Outbound Links', 'Facebook');return false;">Facebook</a></li>
           <li><a href="http://www.twitter.com/teamsnap" onclick="recordOutboundLink(this, 'Outbound Links', 'Twitter');return false;">Twitter</a></li>
           <li><a href="http://www.youtube.com/TeamSnapHQ" onclick="recordOutboundLink(this, 'Outbound Links', 'YouTube');return false;">YouTube</a></li>
+          <li><a href="/resources.php">Resources</a></li>
           <li><a href="api.php">Developer API</a></li>
         </ul>
       </div>
@@ -262,11 +301,10 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
       <div class="grid_3">
         <h5>Help &amp; Support</h5>
         <ul>
-          <li><a href="http://help.teamsnap.com">Help Center</a></li>
+          <li><a href="http://teamsnap.uservoice.com">Help Center</a></li>
           <li><a href="/faq.php">FAQ</a></li>
           <li><a href="http://go.teamsnap.com/login/find_my_team">Find My Team</a></li>
           <li><a href="http://go.teamsnap.com/login/forgot_password">Forgot Login</a></li>
-          <li><a href="mailto:support@teamsnap.com">Contact Help</a></li>
         </ul>
       </div>
 
@@ -275,12 +313,13 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
         <ul>
           <li><a href="/about_us.php">Our Team</a></li>
           <li><a href="/media.php">News &amp; Media</a></li>
+          <li><a href="/partners.php">Partners</a></li>
           <li><a href="/jobs.php">Jobs</a></li>
-          <li><a href="mailto:hq@teamsnap.com">Contact Us</a></li>
+          <li><a href="/contact.php">Contact Us</a></li>
         </ul>
       </div>
 
-      <p class="grid_12 copyright">TeamSnap is lovingly made by <a href="/about_us.php">our team</a> for yours. Copyright © 2005-2011 TeamSnap, Inc. Peruse the <a href="/terms.php">Terms</a> &amp; <a href="/privacy.php">Privacy</a>.</p>
+      <p class="grid_12 copyright">TeamSnap is lovingly made by <a href="/about_us.php">our team</a> for yours. Copyright © 2005-2012 TeamSnap, Inc. Peruse the <a href="/terms.php">Terms</a> &amp; <a href="/privacy.php">Privacy</a>.</p>
 
       <div class="clear">&nbsp;</div> <!-- END FOOTER -->
     </div>
@@ -305,14 +344,25 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 
 
 
-<!-- Begin Snapabug chat -->
-
+<!-- Begin Ad Roll Tracking Code -->
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
-SnapABug.addButton('be7d0b2d-c9d0-4596-bbde-b4099156f333',"0","55%");
+adroll_adv_id = "YVBQYIDKAJE3JOHCKSOVM6";
+adroll_pix_id = "AHC4QH4SFVAJ5GBT6F3F6G";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
 </script>
-
-<!-- End snapabug chat -->
+<!-- End Ad Roll Tracking Code -->
 
 <!-- Google Code for Visitors To The Site Remarketing List -->
 <script type="text/javascript">
@@ -333,5 +383,18 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 
+<!-- uservoice widget -->
 
-<div id="cluetip-waitimage" style="position: absolute; z-index: 95; display: none;"></div><div id="cluetip" style="z-index: 96; display: none; position: absolute;"><div style="z-index: 95; opacity: 0.1; top: 1px; left: 1px; position: absolute; background-color: rgb(0, 0, 0);"></div><div style="z-index: 94; opacity: 0.1; top: 2px; left: 2px; position: absolute; background-color: rgb(0, 0, 0);"></div><div style="z-index: 93; opacity: 0.1; top: 3px; left: 3px; position: absolute; background-color: rgb(0, 0, 0);"></div><div style="z-index: 92; opacity: 0.1; top: 4px; left: 4px; position: absolute; background-color: rgb(0, 0, 0);"></div><div style="z-index: 91; opacity: 0.1; top: 5px; left: 5px; position: absolute; background-color: rgb(0, 0, 0);"></div><div style="z-index: 90; opacity: 0.1; top: 6px; left: 6px; position: absolute; background-color: rgb(0, 0, 0);"></div><div id="cluetip-outer" style="position: relative; z-index: 97;"><h3 id="cluetip-title"></h3><div id="cluetip-inner"></div></div><div id="cluetip-extra"></div><div id="cluetip-arrows" class="cluetip-arrows" style="z-index: 97;"></div></div></body></html>
+<script type="text/javascript">
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/OIGpAjzQGUF1TudOjubmeQ.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
+
+<!-- end uservoice widget -->
+
+
+</body></html>
