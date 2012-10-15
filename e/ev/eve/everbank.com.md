@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504084036id_/https%3A//www.abouteverbank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015105608id_/https%3A//www.abouteverbank.com/privacy.aspx) for the most accurate reproduction.*
 
 # About EverBank | Privacy Policy
 
@@ -29,7 +29,7 @@ Advisor clients
 
 | 
 
-Call 888.445.3588, Opt. 4  
+Call 888.445.3588  
   
 Mortgage origination customers
 
