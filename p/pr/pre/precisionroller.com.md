@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106195817id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015235616id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
 
 # Security And Privacy Policies | Precision Roller
 
-|  |  |   
+|  |  | [](https://server.iad.liveperson.net/hc/46343922/?cmd=file&file=visitorWantsToChat&site=46343922&byhref=1&SESSIONVAR!skill=Assistance&imageUrl=https://secure.precisionroller.com/images/liveperson)  
+---  
+  
+  
+
+
+[**Browse Our Catalog** Parts and Supplies](https://web.archive.org/catalog_display.php)  
+  
+[ **Browse Catalog** Look For Products ](https://web.archive.org/catalog_display.php)  
+[ **Customer Reviews** Read Google Reviews ](http://www.google.com/products/seller?cmi=62981090506440704&zmi=precisionroller.com&hl=en)  
+[ **100% Guaranteed!** Up to 1 Year! ](http://www.precisionroller.com/30-day-guarantee.php)  
+[ **Free Shipping!** On Orders Over $75 ](http://www.precisionroller.com/faq-shipping.php)  
+[ **Dealer Pricing** 2012 Dealer Catalog ](http://www.precisionroller.com/qualified-customer-pricing.php)  
+[ **Se Habla Español** Presione Aqui... ](http://www.precisionroller.com/se-habla-espanol.php)  
+[ ](https://web.archive.org/security-trust.php)  
+[ **C.O.D. Available** Click Here For Details ](http://www.precisionroller.com/faq-cod-payment.php)  
 ---  
 [
 
@@ -33,7 +48,7 @@
 
 ##### Drum Units
 
-](http://www.precisionroller.com/category/drums.htm)  
+](http://www.precisionroller.com/category/drum-units.htm)  
 [
 
 ##### All Part Categories
@@ -41,9 +56,19 @@
 ](http://www.precisionroller.com/categories.php)  
 [
 
+##### OEM Numbers
+
+](http://www.precisionroller.com/oem-numbers.php)  
+[
+
 ##### Cross Reference Tool
 
 ](http://www.precisionroller.com/cross-reference.php)  
+[
+
+##### Toner Buying Guide
+
+](http://www.precisionroller.com/buying-guide-for-toner-cartridges.html)  
 [
 
 ##### Canon Printhead FAQ
@@ -51,19 +76,24 @@
 ](http://www.precisionroller.com/canon-printheads-faq.php)  
 [
 
-##### Tech Aids
+##### Intravia Guides
 
-](http://www.precisionroller.com/copier-tech-aids.php)  
+](http://www.precisionroller.com/category/intravia-guides.htm)  
 [
 
-##### Service Tools
+##### Tools & Supplies
 
-](http://www.precisionroller.com/printer-tools.php)  
+](http://www.precisionroller.com/service-tools-supplies.php)  
 [
 
 ##### Glossary
 
 ](http://www.precisionroller.com/glossary.php)  
+[
+
+##### Instruction Manuals
+
+](http://www.precisionroller.com/instructions/all-instructions.html)  
   |  |   
 ---  
   
