@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elevenwireless.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115154222id_/http%3A//www.elevenwireless.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevenwireless.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015143201id_/http%3A//www.elevenwireless.com/privacy) for the most accurate reproduction.*
 
 # Eleven Wireless
 
@@ -73,7 +73,7 @@ Changes to this Privacy Policy
 The Company may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Company account or by placing a prominent notice on our site.
 
 Questions and Suggestions  
-If you have questions or suggestions, please [email us](https://web.archive.org/web/20111115154222id_/http%3A//www.elevenwireless.com/contact.html).
+If you have questions or suggestions, please [email us](https://web.archive.org/web/20121015143201id_/http%3A//www.elevenwireless.com/contact).
 
 Eleven Wireless Inc.   
 Customer Care - Privacy Policy Issues   
