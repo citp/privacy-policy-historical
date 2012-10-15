@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531023102id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015232400id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policies - CheapOair.co.uk
 
