@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohnsonline.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626015348id_/http%3A//www.papajohns.com/policy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohnsonline.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015082355id_/http%3A//www.papajohns.com/policy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy | Papa John's: Better Ingredients. Better Pizza.
 
@@ -30,7 +30,7 @@ Online ordering, customer registration for on-line ordering, and customer feedba
 
 We collect additional information about how you use our website and service.
 
-If you contact us by letter, phone, or email through the contact information on the "[Customer Feedback](https://web.archive.org/web/20120626015348id_/http%3A//www.papajohns.com/feedback/)" page, we will collect your sender information and may collect the other information you voluntarily disclose to us.
+If you contact us by letter, phone, or email through the contact information on the "[Customer Feedback](https://web.archive.org/web/20121015082355id_/http%3A//www.papajohns.com/feedback/)" page, we will collect your sender information and may collect the other information you voluntarily disclose to us.
 
 Our use of cookies.
 
@@ -70,7 +70,7 @@ You can also limit our communications directly to you. If you have a papajohns.c
 
 Papa John's may from time to time send nonpromotional email to all registered users of our online ordering service for the purpose of gathering and dispersing data to provide better services to our customers. Except for provision of additional information necessary to complete a transaction initiated by a registered user, registered users will be under no obligation to reply or answer questions in said nonpromotional email. Nonpromotional email may include, but will not be limited to, surveys, maintenance notices, system updates and confirmation or other notices in connection with completion of a transaction initiated by a registered user.
 
-If you would rather not receive offers or mailings other than e-mails from us or other merchants that we select, please use the [Customer Feedback](https://web.archive.org/web/20120626015348id_/http%3A//www.papajohns.com/feedback/) link on our website or send your name and address to:
+If you would rather not receive offers or mailings other than e-mails from us or other merchants that we select, please use the [Customer Feedback](https://web.archive.org/web/20121015082355id_/http%3A//www.papajohns.com/feedback/) link on our website or send your name and address to:
 
 > **Consumer Services Team**  
 >  Attention: Privacy Officer  
@@ -91,6 +91,6 @@ Your information is password-protected. In order to maintain this protection, we
 
 Please contact us with any questions or comments.
 
-We want you to enjoy your use of papajohns.com's service. If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the [Customer Feedback](https://web.archive.org/web/20120626015348id_/http%3A//www.papajohns.com/feedback/) link on our website at [www.papajohns.com](http://www.papajohns.com/).
+We want you to enjoy your use of papajohns.com's service. If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the [Customer Feedback](https://web.archive.org/web/20121015082355id_/http%3A//www.papajohns.com/feedback/) link on our website at [www.papajohns.com](http://www.papajohns.com/).
 
 [**Terms & Conditions**](https://web.archive.org/terms_conditions.shtm)
