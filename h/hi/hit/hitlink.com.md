@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitlink.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510044958id_/http%3A//www.hitlink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitlink.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015040051id_/http%3A//www.hitlink.com/privacy.php) for the most accurate reproduction.*
 
 # HitLink.com - Traffic Exchange | Community
 
