@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2012-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120129021929id_/http%3A//vitalmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015095716id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="mx" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link href="http://assets.vitalmedianet.com/images/_mx/favicon.ico" rel="shortcut icon"> 
+
+
 
 <title>Vital MX</title>
 <meta name="description" content="">
@@ -12,7 +14,7 @@
 
 
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" charset="utf-8">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" charset="utf-8">
   var thisUserID = '';
   var thisUserName = '';
   var thisUserURL = '';
@@ -24,33 +26,40 @@
 </script>
 
 
+
+<script type="text/javascript" src="http://assets.vitalmedianet.com/javascripts/require-1.08.min.js"></script>
 <script src="http://assets.vitalmedianet.com/javascripts/jquery.vital.min.js?1295639349" type="text/javascript"></script>
 
 <script type="text/javascript" charset="utf-8">
-var isDST = false;
-$j = jQuery.noConflict();
+  var isDST = true;
+  $j = jQuery.noConflict();
 </script>
+
+<script src="http://assets.vitalmedianet.com/javascripts/vital.apps.js?1339719455" type="text/javascript"></script>
+
+<!-- Backbone JS and dependencies -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0.beta2/handlebars.min.js"></script>
+<!-- // Backbone JS and dependencies -->
+
+<!-- Sitewide Handlebars templates -->
+<script type="text/x-handlebars-template" id="user-widget-new-tmpl"><div class="user_widget"><div class="user_widget__inner"><div class="widget_header"><div class="widget_header__userpic"><a href="{{url}}" title="View{{nickname}}'s profile"><img alt="{{nickname}}" src="{{userpic}}" width="48" height="48"></a></div><div class="widget_header__username"><p class="cmmnt_username"><a href="{{url}}" title="View{{nickname}}'s profile">{{nickname}}</a></p><p class="cmmnt_timestamp timestamp">Member since:{{member_since}}</p></div><div class="x_close_link"><a title="Hide">Close</a></div></div><div class="widget_section">{{#if location}}<p>Location: <strong>{{location}}</strong></p>{{/if}}{{#if summary.stories}}<p>Posts: <a href="{{url}}#stories">{{summary.stories}}</a></p>{{/if}}{{#if summary.friends}}<p>Friends: <a href="{{url}}#friends">{{summary.friends}}</a></p>{{/if}}{{#if summary.photos}}<p>Photos: <a href="{{url}}#photos">{{summary.photos}}</a></p>{{/if}}{{#if summary.videos}}<p>Videos: <a href="{{url}}#videos">{{summary.videos}}</a></p>{{/if}}{{#if summary.setup_link}}<p>Setup: <a href="{{summary.setup_link}}">view</a></p>{{/if}}{{#if summary.forum_new_topics}}<p>Forum topics started: <a href="{{url}}#forum">{{summary.forum_new_topics}}</a></p>{{/if}}{{#if summary.forum_replies}}<p>Forum replies: <a href="{{url}}#forum">{{summary.forum_replies}}</a></p>{{/if}}{{#if summary.comments}}<p>Comments: <a href="{{url}}#comments">{{summary.comments}}</a></p>{{/if}}{{#if summary.reviews}}<p>Reviews: <a href="{{url}}#reviews">{{summary.reviews}}</a></p>{{/if}}{{#if summary.profile_comments}}<p>Profile comments: <a href="{{url}}#profile-comments">{{summary.profile_comments}}</a></p>{{/if}}</div>{{#if send_message_url}}<div class="widget_section"><p><a href="{{send_message_url}}" class="admin_link"><span>Send Message</span></a></p></div>{{/if}}</div></div></script>
+<!-- // Sitewide Handlebars templates -->
 
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<script src="http://assets.vitalmedianet.com/javascripts/111221_vital.apps.min.js" type="text/javascript"></script>
-
 
 <script type="text/javascript" charset="utf-8">
-var wallpaper_ads = {
-	custom: {
-		'/': {
-			'left': 'Moto_wallpaper_left__600x1080',
-			'right': 'Moto_wallpaper_right__600x1080'
-		}
-	},
-	def: 'none'
-}
-vitalPage.initBgAd();
+(function(j$) {
+	$j.content = {"user_notification":false};
+	$j.extend($j.user, null);
+})(jQuery);
 </script>
-
-
 <link href="http://assets.vitalmedianet.com/stylesheets/120111_main.min.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css?1295894077" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="http://assets.vitalmedianet.com/stylesheets/120305_comments.min.css " media="screen" rel="stylesheet" type="text/css">
+
+
+
+
 
 
 
@@ -61,6 +70,14 @@ vitalPage.initBgAd();
 
 
 <link href="https://plus.google.com/111552323323003011912" rel="publisher">
+<script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
 
 <meta property="fb:app_id" content="124914807538785">
 <meta property="og:site_name" content="Vital MX"> 
@@ -96,48 +113,88 @@ var addthis_config = {
   GA_googleAddSlot("ca-pub-6522912635984550", "Moto_homepage_bottom_728x300");
 
 
+  GA_googleAddSlot("ca-pub-6522912635984550", "Moto_wallpaper_left_ROS_600x1080");
+  GA_googleAddSlot("ca-pub-6522912635984550", "Moto_wallpaper_right_ROS_601x1080");
+
+
 </script>
 <script type="text/javascript"> 
   GA_googleFetchAds();
 </script>
 
 <script type="text/javascript">
-  window.google_analytics_uacct = "UA-561000-1";
-  var _gaq = _gaq || [];
-  if (typeof Cookie.get == 'function' && typeof Cookie.set == 'function') {
-    if (Cookie.get('__utmz_reset') == null) {
-      _gaq.push(function() {
-        var utmz = Cookie.get('__utmz');
-        Cookie.set('__utmz', utmz, 7200);
-        Cookie.set('__utmz_reset',1, 15724800);
-      });
+  function getInternetExplorerVersion() {
+    var rv = -1;
+    if (navigator.appName == 'Microsoft Internet Explorer')
+    {
+      var ua = navigator.userAgent;
+      var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+      if (re.exec(ua) != null)
+        rv = parseFloat( RegExp.$1 );
     }
+    return rv;
   }
 
-  _gaq.push(['_setCampaignCookieTimeout', 7200000]);
-  _gaq.push(['_addIgnoredOrganic', 'vital mx']);
-  _gaq.push(['_addIgnoredOrganic', 'vitalmx']);
-  _gaq.push(['_addIgnoredOrganic', 'vitalmx.com']);
-  _gaq.push(['_addIgnoredOrganic', 'http://www.vitalmx.com/']);
-  _gaq.push(['_addIgnoredOrganic', 'www.vitalmx.com']);
-  _gaq.push(['_addIgnoredOrganic', 'http://vitalmx.com/']);
-  _gaq.push(['_setVar', user.getSegment()]);  
-  _gaq.push(['_setAccount', 'UA-561000-1']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_setAccount', 'UA-561000-12']);
-	_gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-  })();
+  window.google_analytics_uacct = "UA-561000-1";
+  
+  if(document.referrer == '' && getInternetExplorerVersion() > -1) {
+    
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    
+    function asyncGAInit () {
+      pageTracker = _gat._getTracker('UA-561000-1');
+      pageTracker._initData();
+      pageTracker._setCampaignCookieTimeout(7200000);
+      pageTracker._addIgnoredOrganic('vital mx');
+      pageTracker._addIgnoredOrganic('vitalmx');
+      pageTracker._addIgnoredOrganic('vital mx.com');
+      pageTracker._addIgnoredOrganic('http://www.vitalmx.com/');
+      pageTracker._addIgnoredOrganic('www.vitalmx.com');
+      pageTracker._addIgnoredOrganic('http://vitalmx.com/');
+      pageTracker._setVar(user.getSegment());
+      pageTracker._trackPageview();
+      pageTracker = _gat._getTracker('UA-561000-12');
+      pageTracker._initData();
+      pageTracker._trackPageview();
+      pageTracker._trackPageLoadTime;
+      $j.post('/unblock_ie_bots');
+    	detach(window,"mousemove",arguments.callee);
+    	detach(window,"scroll",arguments.callee);
+    	detach(document,"keydown",arguments.callee);
+    }
+    
+    attach(window,"mousemove", asyncGAInit );
+    attach(window,"scroll", asyncGAInit );
+    attach(document,"keydown", asyncGAInit );
+    
+  } else {
+    var _gaq = _gaq || [];
+    _gaq.push(['_setCampaignCookieTimeout', 7200000]);
+    _gaq.push(['_addIgnoredOrganic', 'vital mx']);
+    _gaq.push(['_addIgnoredOrganic', 'vitalmx']);
+    _gaq.push(['_addIgnoredOrganic', 'vitalmx.com']);
+    _gaq.push(['_addIgnoredOrganic', 'http://www.vitalmx.com/']);
+    _gaq.push(['_addIgnoredOrganic', 'www.vitalmx.com']);
+    _gaq.push(['_addIgnoredOrganic', 'http://vitalmx.com/']);
+    _gaq.push(['_setVar', user.getSegment()]);
+    _gaq.push(['_setAccount', 'UA-561000-1']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_setAccount', 'UA-561000-12']);
+  	_gaq.push(['_trackPageview']);
+  	_gaq.push(['_trackPageLoadTime']);
+  	(function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+	}
 </script>
 
 </head>
 
 <body id="privacy_policy" class="small_scrn">
+<script type="text/javascript">if (navigator.userAgent && navigator.userAgent.match(/(iphone|ipad)/gi)) { document.body.style.backgroundImage = ''; document.body.style.background = '#000000'; }</script>
 <!-- Facebook SDK -->
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div> 
 <script> 
@@ -190,7 +247,6 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
 </div>
 <!-- // header -->
 </div>
-<!-- main navigation -->
 <div id="main_nav_wrapper">
   <div id="main_nav">
     <ul>
@@ -237,6 +293,8 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <li><a href="/videos/commercials">Commercials</a></li>
         
         <li><a href="/dealerexpo2011">Dealer Expo 2011</a></li>
+        
+        <li><a href="/dealerexpo2012">Dealer Expo 2012</a></li>
         
         <li><a href="/videos/main?scope=feature">Feature Videos</a></li>
         
@@ -285,29 +343,25 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
     </ul>
   </div>
 </div>
-<script type="text/javascript"> 
-vitalPage.mainNavInit();
-</script> 
-<!-- // main navigation -->
 
-<!-- Background ad --> 
-<div style="width:100%; overflow:hidden; z-index:1; position:absolute; top:149px; left:0; display:none;" id="bgAdWrapper"> 
-  <div style="position:relative; left:50%;" id="bgAdContainer"> 
-    <div style="width:600px; min-height:600px; display:block; float:left; position:relative; overflow:hidden" class="bgAd" id="bgAdLeft"></div> 
-    <div style="display:block; height:600px; min-height:600px; float:left;" id="bgAdCenter"></div> 
-    <div style="width:600px; min-height:600px; display:block; float:left; position:relative; overflow:hidden" class="bgAd" id="bgAdRight"></div> 
-  </div> 
-</div> 
-<!-- // Background ad -->
+
+<!-- Wallpaper ad ROS --> 
+<div id="wpadWrapper">
+  <div id="wpadContainer">
+    <div class="wpadUnit" id="wpadUnitL"><script type="text/javascript">GA_googleFillSlot("Moto_wallpaper_left_ROS_600x1080");</script></div>
+    <div id="wpadCenter"></div>
+    <div class="wpadUnit" id="wpadUnitR"><script type="text/javascript">GA_googleFillSlot("Moto_wallpaper_right_ROS_601x1080");</script></div>
+  </div>
+</div>
+<!-- // Wallpaper ad ROS -->
+
 
 
 <div id="container">
-<!-- Background ad -->
 <script type="text/javascript">
-vitalPage.showBgAd();
-$j(document).ready(function() { vitalPage.adjustBgAdHeight(); });
-</script> 
-<!-- // Background ad -->
+if (navigator.userAgent && navigator.userAgent.match(/(iphone|ipad)/gi) && $j('#wpadWrapper')) $j('#wpadWrapper').remove();
+else vitalPage.showWallpaperAd();
+</script>
 
   <div id="user_menu">
     <div class="search_form">
@@ -331,9 +385,12 @@ $j(document).ready(function() { vitalPage.adjustBgAdHeight(); });
   </div>
   
   
+  
+
+
 <div class="fb_share_info:hide_tmp" id="message_bar"> 
   <div class="inner"> 
-	<a href="https://graph.facebook.com/oauth/authorize?client_id=124914807538785&amp;redirect_uri=http://www.vitalmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://static.ak.fbcdn.net/rsrc.php/zB6N8/hash/4li2k73z.gif" width="169"></a> &nbsp; 
+	<a href="https://graph.facebook.com/oauth/authorize?client_id=124914807538785&amp;redirect_uri=http://www.vitalmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://assets.vitalmedianet.com/images/4li2k73z.gif" width="169"></a> &nbsp; 
 	<span><strong>Share your Vital activity on Facebook</strong> (<a href="/fb_connect/faq">More info</a>)</span> 
 	<div class="post_txt"></div> 
 	<span class="close"> 
@@ -344,6 +401,8 @@ $j(document).ready(function() { vitalPage.adjustBgAdHeight(); });
 <script type="text/javascript"> 
 vitalPage.messageBarInit();
 </script>
+
+
 
   <div class="content">
     
@@ -564,5 +623,8 @@ qacct:"p-5bUjnbj6Bo8KU"
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
+
+
+
 
 </body></html>
