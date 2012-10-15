@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512221500id_/http%3A//www.gameduell.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015230951id_/http%3A//www.gameduell.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
 #### GameDuell Privacy Policy
 
-If you registered before 05/18/2011, you can find the version that is valid for you [here](https://web.archive.org/gd/popup.do?page=popup.old_datenschutz_uk&showHeader=false).
-
 At GameDuell, we take our Privacy Policy seriously and respect your right to confidentiality.
 
 #### 1\. PROTECTION OF PERSONAL DATA
 
-We hold data protection guidelines, especially those outlined in the German Teleservices Data Protection Act (TDDSG), with utmost respect. The German Teleservices Data Protection Act is in place to regulate the collection, processing, and use of personal data by teleservice providers.
+We hold data protection guidelines, especially those outlined in the German Data Protection Law (BDSG), with utmost respect. The German Teleservices Data Protection Act is in place to regulate the collection, processing, and use of personal data by teleservice providers.
 
 In accordance with the regulations outlined in the German Teleservices Data Protection Act, we may only collect, process, and use personal data for which we have been granted legal permission to, for which we have received consent to, or for which is needed for initiating a contractual relationship and is necessary for billing purposes. The use of your personal data shall take place regularly and only in order to execute and bill you for teleservices offered.
 
@@ -18,32 +16,33 @@ In the event that we wish to use or process your personal data for any additiona
 
 In the event that you have registered with GameDuell via a media partner, then we will regularly ask for your consent to allow us to pass your personal data on to the applicable partner for the purposes of billing and advertising. If you would like to revoke your consent, please send an E-mail to **revoke-consent@gameduell.com**.
 
-#### 2\. COOKIES AND EVALUATION TECHNIQUES
+#### 2\. COOKIES AND WEBSITE OPTIMISATION
 
-In order to provide our services to your complete satisfaction, we employ the use of cookies and other techniques to enable an evaluation of user behaviour. This is carried out anonymously without consequences for you as a user. We use the data to provide an optimal service. The data is only stored temporarily until an anonymous evaluation takes place. Then the data is permanently deleted.
+In order to provide the best possible service for our users, we use "cookies” which enable us to analyse user behaviour. We currently use the tracking and analysis technology from "Google Analytics."
 
-Provided that you do not object, we may use this data using pseudonyms for the purposes of advertising, market research, and tailor-made design of our services. If you do not wish your data to be used in this way, please send us an e-mail to **revoke-consent@gameduell.com**.
+The analysis is conducted **partially anonymously** so that exact conclusions about you as a user are not possible. The data is only temporarily saved for the period of analysis. It is permanently deleted afterwards.
 
-#### 3\. WEBSITE OPTIMISATION
+The compiled data cannot be used to personally identify users of our website. The data is exclusively used for the purpose of optimising our offer. An additional use or transmission of the data to a third party does not occur at any time.
 
-On this website we use third-party tracking and analysis technology. In this case interaction data of our users and visitors are anonymously collected and stored in order to optimise the usability of the website and general marketing purposes.
+Through the use of this website you have declared yourself in agreement with the use of data collected from you in the manner described above and for the previously mentioned purpose. You can, of course, revoke this anonymous analysis of your surfing behaviour at any time by sending a mail to **evoke-consent@gameduell.com**.
 
-By using an algorithm, the third-party analyses the surfing habits and can then display ads for targeted product recommendations as banners on other websites.
+**Details Concerning the Use of Google Analytics:**
 
-The data cannot in any case be used to personally identify the visitor of this website.
+GameDuell employs "Google Analytics" from Google Inc. ("Google") for the analysis of site usage. This service makes use of "cookies", or small text files that are saved onto your computer in order to enable this analysis. The information about your use of this website generated through the cookie is transmitted to a Google server in the USA and saved there.
 
-The collected data will be used solely for the purpose of improving the offer. Any other use or disclosure to third parties is excluded.
+Anonymisation: We advise you that the "Google Analytics" code "gat._anonymizeIp();" has been enabled on this website in order to ensure an anonymised record of IP addresses (so-called IP masking).
 
-The data will not be used to personally identify the visitor of this website, although the site owner can analyse the interactive behaviour of the user based on the level of individual sessions. By using this site you agree to the processing of data collected about you in the aforementioned manner and for the aforementioned purpose.
+Google uses this information on our behalf to evaluate the use of the website, compile reports, and to ascertain related services in connection with website and internet usage of the site’s users.
 
-The collected data will be used solely for the purpose of improving the offer. Any other use or disclosure to third parties is excluded.
+The IP address transmitted from your browser within the framework of "Google Analytics"
 
-You can object to the completely anonymous analysis of your surfing activities by clicking on the link below.  
-[Opt-out](http://www.criteo.com/en/privacy-policy/opt-out)
+is not consolidated with other data from Google. You can prevent the saving of cookies through a corresponding configuration of your browser software. However, we advise you that by doing so you may not be able to make full use of various functions of this website.
 
-For more information on Criteo's technology, please see the [privacy policy](http://www.criteo.com/en/privacy-policy) of the third-party under website optimisation.
+In addition, you can prevent the compilation generated by the cookie, and the use of your site-related data (including your IP address) by Google, as well as the processing of this data by Google, by downloading and installing the following browser plugin contained in this [link](http://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
-#### 4\. STANDARDS OF SECURITY
+You can find more information [here](http://tools.google.com/dlpage/gaoptout?hl=en-GB) and [here](http://www.google.com/analytics/learn/privacy.html) (general information regarding "Google" Analytics and data protection).
+
+#### 3\. STANDARDS OF SECURITY
 
 We, or a partner company, will use security measures and mechanisms (such as SSL encryption, cryptography), chosen with regard to present technological capabilites, in order to offer our services in a form which is secured as best possible against access and manipulation by third-parties.
 
@@ -51,7 +50,7 @@ In the event that you are forwarded to a separate service provider while using o
 
 You may use our services via a pseudonym-based username. If your IP address can be used to identify you, then you are permitted to employ additional measures to preserve your anonymity.
 
-#### 5\. DISCLOSURE
+#### 4\. DISCLOSURE
 
 If you have any questions then we would be pleased to provide more detailed information regarding your personal data. If you would like to be informed of exactly what personal data we possess, then please contact our [customer service](https://web.archive.org/service.html). You will then receive a detailed reply in a reasonable amount of time.
 
@@ -88,5 +87,5 @@ We will regularly check to ensure that commitments to our privacy policy are uph
 Questions regarding the Privacy Policy   
 We hope that we have been able to fully detail how your personal data will be used. If you have any further questions, then an in-house specialist would be happy to give you further information. Please address all questions to **privacy-policy@gameduell.com**. 
 
-Revision from 05/18/2011 | GameDuell GmbH, Berlin  
+Revision from 05/22/2012 | GameDuell GmbH, Berlin  
 ---|---
