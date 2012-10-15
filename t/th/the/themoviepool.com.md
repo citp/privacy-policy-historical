@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112322id_/http%3A//www.themoviepool.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015121738id_/http%3A//www.themoviepool.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
