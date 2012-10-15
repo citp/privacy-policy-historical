@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015321id_/http%3A//www.addsocials.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015192958id_/http%3A//www.addsocials.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
