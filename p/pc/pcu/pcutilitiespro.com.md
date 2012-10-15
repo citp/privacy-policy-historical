@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624074207id_/http%3A//www.pcutilitiespro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015034138id_/http%3A//www.pcutilitiespro.com/privacy.aspx) for the most accurate reproduction.*
 
 # PCUtilitiesPro | Policy
 
