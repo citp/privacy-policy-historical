@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bingoliner.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512054220id_/http%3A//www.bingoliner.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bingoliner.com privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015024643id_/http%3A//www.bingoliner.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="page_head"><link href="App_Themes/site/dd.css" type="text/css" rel="stylesheet"><link href="App_Themes/site/style.css" type="text/css" rel="stylesheet"><meta http-equiv="Content-Type" content="text/html;"><meta name="robots" content="follow,index"><link id="link_Icon" rel="shortcut icon" type="image/x-icon" href="App_Themes/site/Icons/favicon.ico">
     
@@ -19,6 +19,11 @@
                     $("#header-flash").html("<object id='Object3' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='860' height='166'><param name='movie' value='/App_Themes/site/Flash/header.swf' /><param name='wmode' value='transparent' /><EMBED src='/App_Themes/site/Flash/header.swf' quality='high' WIDTH='860' HEIGHT='166' NAME='myMovieName' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/go/getflashplayer' wmode='transparent'></EMBED></object>");
                 }
                 $(document).pngFix();
+
+                $("#sidePlayNow").click(function(){
+                    
+                    //do nothing
+                });
             }); 
         </script>
         <div id="page">
@@ -62,13 +67,13 @@
     <div id="winners-sub">
         <table>
             <tbody><tr>
-                <td><a href="/winners/recent.aspx">Recent Winners</a><br><img src="App_Themes/site/Images/dropdown-line.gif" style="height:1px;padding-top:4px;"></td>    
+                <td><a href="/winners/photo-gallery.aspx">Winners Gallery</a><br><img src="App_Themes/site/Images/dropdown-line.gif" style="height:1px;padding-top:4px;"></td>    
             </tr>
             <tr>
                 <td><a href="/winners/big-progressive.aspx">Progressive Winners</a><br><img src="App_Themes/site/Images/dropdown-line.gif" id="header_nav_Img2" style="height:1px;padding-top:4px;"></td>    
             </tr>
             <tr>
-                <td><a href="/winners/photo-gallery.aspx">Winners Gallery</a><br></td>
+                <td><a href="/winners/recent.aspx">Recent Winners</a><br></td>
             </tr>
         </tbody></table>
     </div>
@@ -142,13 +147,13 @@
 
         $("#whatson-hover").css('left', (whatsonOffset.left + 3));
         $("#winners-hover").css('left', (winnersOffset.left + 3));
-        $("#help-hover").css('left', (helpOffset.left + 3));
+        $("#help-hover").css('left', (helpOffset.left + 6));
 
         $("#whatson-hover").click(function () {
             window.location = "/whats-on.aspx";
         });
         $("#winners-hover").click(function () {
-            window.location = "/winners/recent.aspx";
+            window.location = "/winners/photo-gallery.aspx";
         });
         $("#help-hover").click(function () {
             window.location = "/contactus.aspx";
@@ -235,20 +240,6 @@
     <div id="intro">
         <div id="intro-text"><h1>Online Bingo: Play Bingo Games with No Deposit at Bingo Liner</h1></div>
         <div id="intro-dd">
-            <select id="country-dd" name="country-dd" style="width:153px;" onchange="if (this.options[this.selectedIndex].value != ''){ location = this.options[this.selectedIndex].value;}">
-                <option value="" title="/App_Themes/site/Images/Flags/world.gif">Other Countries</option>                
-                <option value="http://www.bingoliner.co.uk/" title="/App_Themes/site/Images/Flags/gb.gif">Bingo Liner UK</option>                
-				<option value="http://www.bingoliner.com/offer/10-de.aspx" title="/App_Themes/site/Images/Flags/de.gif">Bingo Liner Germany</option>
-                <option value="http://www.bingoliner.com/offer/10-se.aspx" title="/App_Themes/site/Images/Flags/se.gif">Bingo Liner Sweden</option>
-                <option value="http://www.bingoliner.es/offer/10-es.aspx" title="/App_Themes/site/Images/Flags/es.gif">Bingo Liner Spain</option>
-                <option value="http://www.bingoliner.com/offer/10-no.aspx" title="/App_Themes/site/Images/Flags/no.gif">Bingo Liner Norway</option>
-                <option value="http://www.bingoliner.com/offer/10-fr.aspx" title="/App_Themes/site/Images/Flags/fr.gif">Bingo Liner France</option>
-				<option value="http://www.bingoliner.com/offer/10-pt.aspx" title="/App_Themes/site/Images/Flags/br.gif">Bingo Liner Brazil</option>
-                <option value="http://www.bingoliner.com/offer/10-fi.aspx" title="/App_Themes/site/Images/Flags/fi.gif">Bingo Liner Finland</option>
-                <option value="http://www.bingocafe.com/" title="/App_Themes/site/Images/Flags/bingocafe.gif">Bingo Cafe</option>
-                <option value="http://www.jetbingo.com/" title="/App_Themes/site/Images/Flags/jetbingo.gif">Jet Bingo</option>
-				<option value="http://www.bingocabin.com/" title="/App_Themes/site/Images/Flags/bingocabin.gif">Bingo Cabin</option>				
-            </select>
         </div>
     </div>    
     
@@ -376,13 +367,12 @@ In this Privacy Policy, as in the General terms and conditions, references to th
             <div class="quad">
                 <h3>About Bingo Liner</h3>
                 <ul>
-                    <li><a href="contactus.aspx">Contact Bingo Liner</a></li>
-                    <li><a href="photogallery.aspx">Player Photo Gallery</a></li>
+                    <li><a href="contactus.aspx">Contact Bingo Liner</a></li>                    
                     <li><a href="privacy.aspx">Privacy Policy</a></li>
                     <li><a href="termsandconditions.aspx">Terms and Conditions</a></li>
                     <li><a href="responsible-gaming.aspx">Responsible Gaming</a></li>                    
                     <li><a href="email-filter-info.aspx">Not getting our email?</a></li>
-                    <li><a href="mail/unsubscribe.aspx">Unsubscribe</a></li>
+                    <li><a href="mail/unsubscribe.aspx">Unsubscribe/Resubscribe</a></li>
                     <li><a href="refer-a-friend.aspx">Refer a Friend</a></li>
                     <li><a href="http://www.bingoreward.com/?affid=184" target="_blank">Affiliates</a></li>            
                     <li><a href="sitemap.aspx">Sitemap</a></li>
@@ -392,12 +382,13 @@ In this Privacy Policy, as in the General terms and conditions, references to th
             <div id="footer_bottom">
                 <img src="App_Themes/site/images/logo_itechlabs.gif" alt="iTech Labs">&nbsp;<img src="App_Themes/site/images/logo_verisign.gif" alt="VeriSign">&nbsp;<img src="App_Themes/site/images/logo_18.gif" alt="No under 18s" class="noborder">&nbsp;<img src="App_Themes/site/images/logo_usa.gif" alt="We Do Not Accept USA Players" class="noborder">&nbsp;<img src="App_Themes/site/images/logo_safe.gif" alt="Certified Safe Download">&nbsp;<img src="App_Themes/site/images/logo_leapfrog.gif" alt="Leapfrog Gaming" border="0">
                 <p>
-                     Copyright 2010 Bingo Liner - The place for <a href="http://www.bingoliner.com/" class="">online bingo</a>, featuring daily prizes and a wide variety of bingo games!
+                     ©2012 Bingo Liner - The place for bingo online, available in <a href="http://www.bingoliner.com/offer/10-de.aspx" target="_blank">Germany</a>, <a href="http://www.bingoliner.com/offer/10-fi.aspx" target="_blank">Finland</a>, <a href="http://www.bingoliner.com/offer/10-es.aspx" target="_blank">Spain</a>, <a href="http://www.bingoliner.com/offer/10-se.aspx" target="_blank">Sweden</a>, <a href="http://www.bingoliner.com/offer/10-no.aspx" target="_blank">Norway</a>, <a href="http://www.bingoliner.com/offer/10-fr.aspx" target="_blank">France</a>, <a href="http://www.bingoliner.com/offer/10-pt.aspx" target="_blank">Brazil</a> and the <a href="http://www.bingoliner.co.uk/" target="_blank">UK</a>.  And also check out our sister sites at <a href="http://www.bingocafe.com/" target="_blank">Bingo Café</a>, <a href="http://www.jetbingo.com/" target="_blank">Jet Bingo</a> and <a href="http://www.bingocabin.com/" target="_blank">Bingo Cabin</a>.
                 </p>                
             </div>
         </div>
     </div>
-	<a href="download.aspx" id="sidePlayNow">
+    
+    <a href="download.aspx" id="sidePlayNow">    
 	    <div id="side-playnow">			
 	    </div>
 	</a>
