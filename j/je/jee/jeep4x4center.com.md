@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510114558id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015082126id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Morris 4x4 Center
 
@@ -27,10 +27,14 @@ If you choose to purchase a product from us, we will collect your personally ide
 
 
 **E-Mail Newsletter Registration Request**   
-If you choose to provide more information to us through our e-mail registration, we will periodically send you newsletters in which you will find special offers, new product announcements and other related information. Your registration information will enable us to provide you information regarding future products and services that may suit your particular interests. You may "opt-out" of our e-mail newsletter at any time by calling us at 1-877-553-5337. 
+If you choose to provide more information to us through our e-mail registration, we will periodically send you newsletters in which you will find special offers, new product announcements and other related information. Your registration information will enable us to provide you information regarding future products and services that may suit your particular interests.
+
+You may **"opt-out"** of our e-mail newsletter at any time by calling us at 1-877-553-5337 or by emailing us and notating "Stop" or "Unsubscribe". Email us here at [memberservices@morris4x4center.com](mailto:memberservices@morris4x4center.com "Member Services - Unsubscribe")
 
 We do NOT sell, trade or share our e-mail list with any other person or organization.   
-**Note:** Our e-mail accounts are hosted by our sister site [www.cyberjeep.com](https://web.archive.org/web/20120510114558id_/http%3A//www.jeep4x4center.com/popup/www.cyberjeep.com). 
+**Note:** Our e-mail accounts are hosted by our sister site [www.cyberjeep.com](https://web.archive.org/web/20121015082126id_/http%3A//www.jeep4x4center.com/popup/www.cyberjeep.com). 
+
+Our Address: Morris 4x4 Center | 1020 SW 10th Avenue | Pompano Beach, Florida | 33069 | Phone: (877) 553-5337 
 
   
 
