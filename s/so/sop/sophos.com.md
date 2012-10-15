@@ -1,98 +1,140 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413125618id_/http%3A//www.sophos.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015035855id_/http%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Sophos privacy policy
+# Sophos Group Privacy Policy - Legal - Sophos
 
-This document was last updated on 21 March 2007.
+This document was last updated on 27 July 2012.
 
-## General
+### General
 
-This is the privacy policy of Sophos Limited ("Sophos").
+This is the privacy policy of Sophos Limited and its subsidiaries. 
 
-We at Sophos are committed to safeguarding the privacy of visitors to our website ("the Site"). Please read the following policy to understand how we use your personal data.
+We are committed to safeguarding the privacy of your personal data. Please read the following privacy policy to understand how we collect and use your personal data, for example when you contact us, visit one of our websites (each a “Site”), apply for a job, or use our products and services. 
 
-Whenever you give us personal data, you are consenting to its collection and use in accordance with our privacy policy. We will not share your personal information for marketing or any other purposes without your consent unless required by law.
+Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy. 
 
-## Sophos email communications
+### What personal data do we collect?
 
-Sophos adheres to the following policy in relation to deployment of Sophos email communications:
+We may collect personal data such as your name, company position, address, telephone number, mobile number, fax number, email address, credit card details, age, IP address, and account usernames. 
 
-  1. All emails sent to you by the Sophos Group will clearly identify Sophos or the applicable division of Sophos as the sender.
-  2. The subject line of any email sent by Sophos will always accurately describe the subject matter of the email.
-  3. All emails sent to you by Sophos will include an option to unsubscribe from future email messages.
-  4. You may unsubscribe from ALL Sophos mailing lists, with the exception of any emails regarding product updates, upgrades or license renewals.
-  5. All emails sent to you by the Sophos Group will include our physical postal address.
-  6. Any third party partners will be required to comply with legislative requirements on unsolicited emails and the use of data.
-  7. Email sent to you by Sophos may include links to non-Sophos domain websites. These websites are outside the control of Sophos and we are not responsible for the integrity or content of these websites.
-  8. Emails sent to you by Sophos offering you a software download or free product trial will link you to web pages on [www.sophos.com](http://www.sophos.com/) or [www.web.sophos.com](http://www.web.sophos.com/). Sophos do not offer software downloads or product trials from any other domain.
+### How do you use my personal data?
 
+If you provide personal data to us, we will collect that information and use it for the purposes for which you have provided it and in accordance with this privacy policy.
 
-
-Sophos sends emails to customers, partners and prospects from a number of different domains in both plain text and HTML email formats. Emails are sent using sender email addresses at:
-
-  * @sophos.com
-  * @email.sophos.com
-  * @sophos.de
-  * @sophos.fr
-  * @sophos.co.jp
-  * @sophos.it
-  * @sophos.au
-
-
-
-If you receive an email which claims to come from Sophos which does not use these domains, or if you are suspicious that an email may not be an approved Sophos email communication, then please send a copy of the email to [customerservice@sophos.com](mailto:customerservice@sophos.com) so we can investigate.
-
-Sophos has published best practice guidelines to help internet users learn how to avoid phishing emails at <http://www.sophos.com/security/best-practice/phishing.html>
-
-## What personal data does Sophos collect?
-
-In general, you can visit Sophos on the Internet without telling us who you are or giving any personal information about yourself. However, when you enquire about, order, evaluate or start using our products or services; register for virus information alerts or for one of our training programs or when you enter a competition, you may be required to provide personal data such as your name, company position, address, telephone number, mobile number, fax number, email address, credit card details and age. If you forward information to us electronically or as a hard copy, we will collect that information and use it for the purposes for which you have provided it. We will never collect sensitive information about you without your explicit consent.
+### Browsing our Site
 
 Every time you connect to the Site, we store a log of your visit that shows the unique number your machine uses when it is connected to the Internet - its IP address. This tells us what your machine has looked at, whether the page request was successful or not and which browser your machine used to view the pages. The use of this data is primarily for statistical purposes. This helps us to understand which areas of the Site are of particular interest and also which pages are not being requested. It also tells how many people are visiting the Site in total. We may attempt to contact you through these details if necessary, including, without limitation, when you are using the wrong paths to access the Site or are breaching restrictions on the use of the Site. We may also use this information to block IP addresses where there is a breach of the Terms and Conditions for use of the Site.
 
-## Cookies
+### Cookies
 
-A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on a user's machine and later retrieve it. Some Sophos pages use cookies so that we can better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. Cookies are in no way linked to any personally identifiable information. If a user rejects the cookie, they may still use the Site, although some areas may be functionally limited. 
+A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on your machine and later retrieve it. Some of our pages use cookies so that we can distinguish you from other users and better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. For information about the cookies that we use, please refer to the Cookie Information page on the relevant Site.
 
-Most internet browsers allow the use of cookies to be enabled or disabled. For specific instructions to enable or disable cookies on your computer, please refer to the documentation for your browser software.
+### Job applicants
 
-## How does Sophos use my personal data?
+If you are making a job application or inquiry, you may provide us with a copy of your CV or other relevant information. We may use this information for the purpose of considering your application or inquiry. Except when you explicitly request otherwise, we may keep this information on file for future reference.
 
-We use your personal data to provide goods and services to you, to provide you with virus information alerts and to let you know about other goods and services in which you may be interested, including alerting you to product upgrades, updates and renewal information. Personal information may also be collected for the purposes of improving our website content, providing goods and services, marketing, as part of our customer satisfaction surveys or for market research or other ancillary purposes.
+### Partner portal
 
-If you are making a job application or inquiry, you may provide us with a copy of your CV or other relevant information. We may use this information throughout Sophos for the purpose of considering your application or inquiry. Except when you explicitly request otherwise, we may keep this information on file for future reference.
+Our resellers and distributors may visit our partner portal Site. We may use the customer and prospect information provided on that Site in order to provide the products and services.
 
-We may also use your personal data to carry out research. Your personal data may be aggregated with data received from other survey submissions. This research is conducted for our internal business and training purposes and will improve our understanding of our user's demographics, interests and behaviour. This research is compiled and analysed on an aggregate basis and therefore does not individually identify any user.
+### Providing products and services
 
-Partners of Sophos may visit a specially allocated website. We may use information provided on that site to administer and develop our business relationship including the sharing of certain information (where permitted to do so) with associate companies other business partners, customers or prospects.
+If you purchase or use our products or services, we may use your personal data for purposes which include but are not limited to:
 
-As a global company, we have international sites and users all over the world. When you give us personal data, that data may be sent electronically to servers anywhere in the world and may be used, stored and processed anywhere in the world, including countries outside the European Economic Area. Whenever and wherever we collect, process or use personal data, we take steps to ensure that it is treated securely and in accordance with our privacy policy.
+  * verifying your credentials, 
+  * carrying out end user compliance checks for export control purposes, 
+  * issuing virus information alerts and other alert messages, 
+  * providing training sessions for which you have registered, 
+  * providing maintenance and technical support, 
+  * providing information about product upgrades, updates and renewals, 
+  * generating logs, statistics and reports on service usage, service performance and malware infection, 
+  * developing and enhancing products, services, and our infrastructure, 
+  * processing orders and generating billing information.
 
-## With whom might we share your personal data?
 
-We may pass your personal data to our associated companies or to our authorised resellers, partners and resellers, some of whom may be located outside the European Economic Area, to provide you with the goods and services that you requested.
 
-All emails sent to you by Sophos will follow the email guidelines described above. In keeping with these guidelines, if you have requested not to receive email communication from Sophos, we may also share your contact information with third parties to ensure you also do not receive email communication from them on behalf of Sophos.
+Certain products and services may include features that collect additional personal data for other purposes, as described below. For detailed information, please also refer to the applicable product or service description.
 
-We may also provide your personal data to companies outside our group, associated companies, our partners or authorised resellers; that may or may not be located outside the European Economic Area in order to provide you with information about other products or services.
+**Sophos Mobile Security**   
+When an application is downloaded on a device or the user initiates a check of all installed applications on an Android device, Sophos Mobile Security sends queries to our cloud infrastructure in order to validate the reputation of the applications. Each query contains a fingerprint generated from the Android application (the APK file) under investigation.
 
-Except as set out above, we will not disclose your personal information except where we are obliged to do so or allowed to do so by law, or where we need to do so in order to run our business (for instance where we outsource services or other people process data for us). If you do not wish us to pass your information to any other companies, please let us know by sending an email to us at [customerservice@sophos.com](mailto:customerservice@sophos.com).
+A unique device identifier is also generated locally on each mobile device during installation of Sophos Mobile Security. We do not associate this identifier with any personal data. Periodically the product sends statistical feedback packets to us, including the unique device identifier and service performance information.
 
-## Links
+**Mail Archiving Service**   
+The Mail Archiving Service stores a copy of emails sent and received by you, in accordance with the retention policies established by your administrator. In the event that your emails include sensitive personal data, you expressly provide your consent for us to store such data. Your administrator may conduct searches and retrieve emails from the archive. The archive is encrypted and logically separated from the archives of our other customers. Your administrator can request that the archive is stored in either the USA or the European Economic Area (“EEA).
 
-The Site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site, and to read the privacy policy of other sites that collect personal data. This privacy policy applies to personal data collected by Sophos and our associated companies. Sophos is not responsible for the content on any other site outside the Site and the sites of our associated companies ("Associated Sites").
+Your administrator may ask us to download and return the contents of the email archive at any time, subject to payment of the applicable fees specified in our then current price list. The contents of the email archive will be permanently deleted within approximately six weeks of expiry/termination of the service or the return of the data (if applicable). 
 
-## Security
+**Sophos Mobile Control**   
+When Sophos Mobile Control is installed or updated, you may receive Apple push notifications, Google cloud to device messaging for Android, SMS text messages, and other remote communications. 
 
-We endeavour to hold all personal information securely in accordance with our internal security procedures and English law.
+Sophos Mobile Control will store a list of users and mobile devices, and will record any applications downloaded or modifications made to such devices. Your administrator can also configure Sophos Mobile Control to track the geographic location of mobile devices and to lock or wipe a mobile device that has been lost or stolen.
 
-Unfortunately, no data transmission over the Internet or any other network can be guaranteed as 100% secure. As a result, while we strive to protect your personal information, we cannot ensure and do not warrant the security of any information you transmit to us, and this information is transmitted at your own risk.
+### Market research
 
-## Contact
+If you participate in surveys, we may use your personal data to carry out market research. This research is conducted for our internal business and training purposes and will improve our understanding of our users’ demographics, interests and behaviour. This research is compiled and analysed on an aggregated basis and therefore does not individually identify any user.
+
+### Marketing and promotions
+
+We (or our resellers or other selected third parties acting on our behalf) may contact you from time to time in order to provide you with information about products and services that may be of interest to you. All marketing emails that we send to you will follow the email guidelines described below. You have the right to ask us not to process your personal data for marketing purposes, but if you do so, we may need to share your contact information with third parties for the limited purpose of ensuring that you do not receive marketing communications from them on our behalf.
+
+### Email communications
+
+We adhere to the following guidelines in relation to our email communications:
+
+  * emails will clearly identify us as the sender, 
+  * emails will include our physical postal address, 
+  * emails sent to you for marketing purposes will include an option to unsubscribe from future email messages, 
+  * you may unsubscribe from all mailing lists, with the exception of any emails regarding legal notices, invoicing, product updates, upgrades or license renewals, 
+  * any third parties who send emails on our behalf will be required to comply with legislative requirements on unsolicited emails and the use of personal data.
+
+
+
+We send emails from a number of different domains in both plain text and HTML email formats. Emails are usually sent using sender email addresses at:  
+@sophos.com  
+@email.sophos.com  
+@sophos.de  
+@sophos.fr  
+@sophos.co.jp  
+@sophos.it  
+@sophos.au  
+@sophos.com.au  
+@astaro.com  
+@astaro.de  
+@utimaco.com  
+@dialogs.de 
+
+Emails offering software downloads or free product trials will usually link to web pages on www.sophos.com or www.web.sophos.com. If you receive an email which claims to come from us but does not use these domains, or if you are suspicious that an email may not be approved by us, then please send a copy of the email to customerservice@sophos.com so we can investigate.
+
+We have published best practice guidelines to help internet users learn how to avoid phishing emails at http://www.sophos.com/security/best-practice/phishing.html.
+
+### With whom might we share your personal data?
+
+As a global company, we have international sites and users all over the world. When you give us personal data, that data may be used, processed or stored anywhere in the world, including countries outside the EEA. 
+
+We may also pass your personal data to suppliers, service providers, subcontractors, agents, distributors, resellers and other partners, some of whom may be located outside the EEA, in order to provide you with the information, products and services that you requested or otherwise for the purposes described in this privacy policy.
+
+Except as set out above, we will not disclose your personal data save where we are obliged or allowed to do so by law, or where we need to do so in order to run our business or enforce our rights.
+
+Whenever we share personal data, we take all reasonable steps to ensure that it is treated securely and in accordance with this privacy policy.
+
+### Links
+
+This privacy policy applies to personal data collected by us. If an email or Site contains links to a third party site, please be aware that we are not responsible for the content or privacy practices of such site. We encourage our users to be aware when they leave our Site, and to read the privacy policy of other sites that collect personal data. 
+
+### Security
+
+We endeavour to hold all personal data securely in accordance with our internal security procedures and applicable law.
+
+Unfortunately, no data transmission over the Internet or any other network can be guaranteed as 100% secure. As a result, while we strive to protect your personal data, we cannot ensure and do not warrant the security of any information you transmit to us, and this information is transmitted at your own risk.
+
+If you have been given log-in details to provide you with access to certain parts of our Site (for example our partner portal), you are responsible for keeping those details confidential.
+
+### Contact
 
 This is the website of Sophos Limited a company registered in England and Wales under company number 2096520 whose registered office is at The Pentagon, Abingdon Science Park, Abingdon, Oxon, OX14 3YP, United Kingdom and whose VAT registration number is 991 2418 08.
 
-If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact: [customerservice@sophos.com](mailto:customerservice@sophos.com). It is possible to obtain a copy of the information that we hold on you. A nominal charge of £10 is made to cover administrative costs involved.
+If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact customerservice@sophos.com. It is possible to obtain a copy of the information that we hold on you. A nominal charge of £10 is made to cover administrative costs involved.
 
-## Notification of changes
+### Notification of changes
 
-This privacy policy was last updated on 21 March 2007. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, Sophos has provided you with sufficient notice of the amendment or variation.
+This privacy policy was last updated on 27 July 2012. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
