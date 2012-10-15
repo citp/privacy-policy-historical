@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fikrishare.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302154540id_/http%3A//www.fikrishare.com/2011/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fikrishare.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015201429id_/http%3A//www.fikrishare.com/2011/11/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | FIKRISHARE.COM - Free Download Software Full Version
-
-###  [Privacy Policy](http://www.fikrishare.com/2011/11/privacy-policy.html)
+# Privacy Policy | FIKRISHARE.COM | Free Download Software Full Version
 
 Privacy Policy for www.fikrishare.com
 
@@ -34,4 +32,12 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-**Cara mengatasi link download Mediafire[di sini](http://www.fikrishare.com/2012/02/cara-mengatasi-link-download-mediafire.html).**
+[Advertise Here](http://www.fikrishare.com/p/pasang-iklan.html "Advertise Here")
+
+Description: Privacy Policy
+
+Rating: 5
+
+Reviewer: Admin FikriShare.Com
+
+ItemReviewed: Privacy Policy
