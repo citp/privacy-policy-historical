@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollywoodhungama24.in privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511190910id_/http%3A//www.bollywoodhungama24.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodhungama24.in privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015065105id_/http%3A//www.bollywoodhungama24.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bollywood news & Gossips, upcoming movies, latest movie trailers, latest wallpapers
+# Privacy Policy | Bollywood & Hollywood Movies, Celebrities News & Gossips, Upcoming Movies, Reviews & Trailers, HD wallpapers
 
 Privacy Policy for http://www.bollywoodhungama24.in/
 
