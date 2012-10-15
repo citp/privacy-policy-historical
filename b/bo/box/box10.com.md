@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the box10.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605044924id_/http%3A//www.elifting.com/html/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box10.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015140811id_/http%3A//www.box10.com/privacy.html) for the most accurate reproduction.*
 
-# About elifting.com
+# Box10 Games - Free Games - Free Online Games On Box10
 
-**Disclaimer  
-  
-** By using this website you agree that **elifting.com** shall not be liable for any loss, direct, indirect or inconsequential arising from its use and that of any material or information contained therein or from links accessed from the site.  Nor shall **elifting.com** be liable for any action or non-action resulting from material or information gained from this site.  **elifting.com** shall not be liable for any injury or damages caused by technical failure, computer viruses, line failure, errors or omissions, performance failure, delays, interruptions or defects.
+[](http://www.igames.co.id/) [](http://www.juegosjuegos24.com/) [](http://www.jeuxjeux2.com/)
 
- **elifting.com** does not guarantee the accuracy or reliability of any information or material contained in or derived from this site, nor are any views expressed by contributors to the site endorsed by the company.  Any such information should be used in conjunction with validated material from professional sources.
+This is the web site of Box10.com. Our postal address is 
 
- **elifting.com** reserves the right to make alterations or improvements to the information provided by the site without notice and at any time.
+We can be reached via e-mail at admin at Box10.com
 
-  
-Visitors to the site visit do so at their own risk and should not use it without first reading this disclaimer and bringing it to the attention of any person on whose behalf the site is being accessed. 
+or you can reach us by telephone at
 
-**Privacy Policy**
+We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
- **elifting.com** guarantees to respect the privacy of any personal information supplied by the visitor to this web site. It is the right of the individual to supply or withhold personal information. No such information shall be sold, communicated or shared with a third party other than with the permission of the supplier in the execution of services provided by the site. 
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, shared with other reputable organizations to help them contact consumers for marketing purposes.
 
-Any personal information will be stored securely and will be deleted immediately on request to [customercare@elifting.com](mailto:customercare@elifting.com)
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-**elifting.com** reserves the right to make alterations or improvements to their privacy policy without notice and at any time.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
