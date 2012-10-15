@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corp-corp.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605033931id_/http%3A//www.corp-corp.com/ads/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corp-corp.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015030431id_/http%3A//www.corp-corp.com/ads/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Corp-Corp
 
@@ -113,8 +113,8 @@ You may choose to “opt-out” of sharing Personal Information in several ways.
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Corp-Corp.com’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
 Corp-Corp.com  
-13755, Sunrise Valley Drive,   
-#725, Herndon, VA 20171
+44121, Harry Byrd Hwy, #275,  
+Ashburn, VA 20147
 
   10. ## International Transfer of Information
 
