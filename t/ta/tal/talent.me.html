@@ -1,175 +1,84 @@
-<!--The following is the downloaded HTML source of the talent.me privacy policy that was archived on 2011-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011033524id_/https%3A//talent.me/docs/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talent.me privacy policy that was archived on 2012-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015222548id_/https%3A//talent.me/docs/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="shortcut icon" type="image/ico" href="https://talent.me/favicon.ico"> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://talent-css.s3.amazonaws.com/talent-main.css">
+<link rel="stylesheet" href="https://talent-css.s3.amazonaws.com/rec1.css" type="text/css">
 <title>Privacy</title>
+<style type="text/css">
 
-
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript">
-function TrimSearch(a){return a.replace(/^\s*|\s*$/g,"")}
-var MyFlag=false;
-var AccountFlag=false;
-
-function ClickMy() {
-	window.setTimeout("ClickMy_delay()", 1);
+.sig_sml_sig {
+    width: 60%;
 }
-function ClickAccount() {
-	window.setTimeout("ClickAccount_delay()", 1);
-}
-
-function ClickLogin() {
-	window.setTimeout("ClickLogin_delay()", 1);
-}
-//Login
-function ClickLogin_delay()
-{
-	document.getElementById("LoginSubMenu").className="sel";
-	document.getElementById("LoginDiv").style.display="";
-	//document.getElementById('srchDivBox').style.display='none';	
-	//document.getElementById("txtEmail").focus();
-}
-  
-//Account
-function ClickAccount_delay()
-{
-	if(AccountFlag == true)
-	{
-		document.getElementById("AccountMenu").className="";
-		document.getElementById("AccountMenuDiv").style.display="none";
-		AccountFlag = false;
-		return false;
-	}
-	AccountFlag = true;
-	MyFlag = false;
-	document.getElementById("AccountMenu").className="sel";
-
-	document.getElementById("AccountMenuDiv").style.display="";
-	//document.getElementById("AccountMenuImg").src="< ?=SMALL_IMAGE_PATH?>whitearrow-h.jpg"; 
+@font-face {
+  font-family: 'FrankRegular';
+  src: url('https://talent.me/recruit/includes/fonts/frank-regular-webfont.eot');
+  src: url('https://talent.me/recruit/includes/fonts/frank-regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://talent.me/recruit/includes/fonts/frank-regular-webfont.woff') format('woff'), url('https://talent.me/recruit/includes/fonts/frank-regular-webfont.ttf') format('truetype'), url('https://talent.me/recruit/includes/fonts/frank-regular-webfont.svg#FrankRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
-function showhdrDiv(lblid)
-{
-	//document.getElementById('srchDivBox').style.display='';
-	//Login	
-	if(document.getElementById("LoginSubMenu") && document.getElementById("LoginDiv"))
-	{
-		document.getElementById("LoginSubMenu").className="";
-		document.getElementById('LoginDiv').style.display='none';
-	}
-	//My and Account Menus	
-	if(document.getElementById("AccountMenu") && document.getElementById("MyMenu"))
-	{
-		document.getElementById("AccountMenu").className="";
-	}
-	
-	if(document.getElementById("AccountMenuDiv"))
-	{
-		document.getElementById("AccountMenuDiv").style.display="none";
-		//document.getElementById("AccountMenuImg").src="< ?=SMALL_IMAGE_PATH?>whiteArrow.jpg"; 
-	}
-}
-function showhdrLbl(lblid)
-{
+@font-face {
+    font-family: 'DINBold';
+    src: url('https://talent.me/recruit/includes/fonts/din-bold-webfont.eot');
+    src: url('https://talent.me/recruit/includes/fonts/din-bold-webfont.eot?iefix') format('eot'),
+         url('https://talent.me/recruit/includes/fonts/din-bold-webfont.woff') format('woff'),
+         url('https://talent.me/recruit/includes/fonts/din-bold-webfont.ttf') format('truetype'),
+         url('https://talent.me/recruit/includes/fonts/din-bold-webfont.svg#webfontP8nfTlwg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
-function HideSubMenus(e)
-{
-	var targ;
-	if (!e) var e = window.event;
-	if (e.target) targ = e.target;
-	else if (e.srcElement) targ = e.srcElement;
-	if (targ.nodeType == 3) // defeat Safari bug
-		targ = targ.parentNode;
-		targ = targ.parentNode;
-	for (var i=0; i!=5; i++) {
-		if (!targ) {
-			break;
-		} else if (targ.className=="floatLeft bold" || targ.className=="loginsub") {
-			return;
-		}
-		targ = targ.parentNode;
-	}
-	AccountFlag = false;
-	MyFlag = false;
-
-	//Login	
-	if(document.getElementById("LoginSubMenu") && document.getElementById("LoginDiv"))
-	{
-		document.getElementById("LoginSubMenu").className="";
-		document.getElementById('LoginDiv').style.display='none';
-	}
-
-	/*//Search	
-	if(document.getElementById("srchDivBox"))
-	{
-		document.getElementById('srchDivBox').style.display='none';
-	}*/
-	
-	//My and Account Menus	
-	if(document.getElementById("AccountMenu") )
-	{
-		document.getElementById("AccountMenu").className="";
-	 
-	}
-	
-	if( document.getElementById("AccountMenuDiv"))
-	{
- 		document.getElementById("AccountMenuDiv").style.display="none";
-		//document.getElementById("AccountMenuImg").src="< ? =SMALL_IMAGE_PATH?>whiteArrow.jpg"; 	
-	}
-}
- 
-var defatulTxt = 'Name, Headline or Talent';
-function SearchEnter (event) 
-{
-var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
-if (keyCode == 13){SearchResult();} 
-} 
-function SearchResult()
-{
-	srchword=document.getElementById('hdr_srchword').value;
-	if(srchword==defatulTxt) return false;
-	srchword=TrimSearch(srchword);
-	
-	srchword=srchword.replace(/[^@._a-zA-Z  0-9_+]+/g,'');
-	if(srchword.length<2) return false;
-	
-	//srchword=srchword.replace(' ','+');
-	var intIndexOfMatch = srchword.indexOf(" ");
-
-	while (intIndexOfMatch != -1){
-		  srchword = srchword.replace( " ", "+" )
-		  srchword = srchword.replace( ".", "+" )
-		  intIndexOfMatch = srchword.indexOf( " " );
-	}
-	var intIndexOfdotMatch = srchword.indexOf(".");
-	while (intIndexOfdotMatch != -1){
-		  srchword = srchword.replace( ".", "+" )
-		  intIndexOfdotMatch = srchword.indexOf( " " );
-	}
-	
-	window.location.href = "https://talent.me/people-search/"+srchword;
+@font-face {
+    font-family: 'DINMedium';
+    src: url('https://talent.me/recruit/includes/fonts/din-medium-webfont.eot');
+    src: url('https://talent.me/recruit/includes/fonts/din-medium-webfont.eot?iefix') format('eot'),
+         url('https://talent.me/recruit/includes/fonts/din-medium-webfont.woff') format('woff'),
+         url('https://talent.me/recruit/includes/fonts/din-medium-webfont.ttf') format('truetype'),
+         url('https://talent.me/recruit/includes/fonts/din-medium-webfont.svg#webfonteq6wpgx5') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
-function showFocusTxt() {
-	fldTxt = TrimSearch(document.getElementById("hdr_srchword").value);
-	if(fldTxt==defatulTxt) {
-		document.getElementById("hdr_srchword").value = '';
-		document.getElementById("hdr_srchword").className  = 'txtfld';
-	}
-} 
-function showBlurTxt() {
-	fldTxt = TrimSearch(document.getElementById("hdr_srchword").value);
-	if(fldTxt=='') {
-		document.getElementById("hdr_srchword").value = defatulTxt;
-		document.getElementById("hdr_srchword").className  = 'txtfld graytxt';
-	}
-} 
-</script>
-<script type="text/javascript">
+@font-face {
+    font-family: 'DINLight';
+    src: url('https://talent.me/recruit/includes/fonts/din-light-webfont.eot');
+    src: url('https://talent.me/recruit/includes/fonts/din-light-webfont.eot?#iefix') format('eot'),
+         url('https://talent.me/recruit/includes/fonts/din-light-webfont.woff') format('woff'),
+         url('https://talent.me/recruit/includes/fonts/din-light-webfont.ttf') format('truetype'),
+         url('https://talent.me/recruit/includes/fonts/din-light-webfont.svg#webfontf23i6Xb7') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRegular';
+    src: url('https://talent.me/recruit/includes/fonts/din-regular-webfont.eot');
+    src: url('https://talent.me/recruit/includes/fonts/din-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://talent.me/recruit/includes/fonts/din-regular-webfont.woff') format('woff'),
+         url('https://talent.me/recruit/includes/fonts/din-regular-webfont.ttf') format('truetype'),
+         url('https://talent.me/recruit/includes/fonts/din-regular-webfont.svg#DINRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ScoreBoardRegular';
+    src: url('https://talent.me/recruit/includes/fonts/scoreboard-webfont.eot');
+    src: url('https://talent.me/recruit/includes/fonts/scoreboard-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://talent.me/recruit/includes/fonts/scoreboard-webfont.woff') format('woff'),
+         url('https://talent.me/recruit/includes/fonts/scoreboard-webfont.ttf') format('truetype'),
+         url('https://talent.me/recruit/includes/fonts/scoreboard-webfont.svg#ScoreBoardRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+</style>
+
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1892515-18']);
@@ -178,70 +87,41 @@ function showBlurTxt() {
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+	ga.src = 'https://ssl.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
 </script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
-<body> 
+<body class="bodyFont"> 
 <div id="fb-root"></div>
 
-<div id="pageWrap">
-
-
-<!-- Header Starts -->
-<div id="header">
-<div id="logo"><a href="https://talent.me"><img src="https://talent-small.s3.amazonaws.com/logo.png" width="155" height="32" alt="Talent.me" title="Talent.me"></a>
-</div>
-<div id="search"><div class="searchBox">
-  <div class="floatLeft bold">
-  <a href="javascript:void(0);" class="dropdown" onclick="showhdrDiv(0);" id="anchLbl">People <img src="https://talent-small.s3.amazonaws.com/grayArrow.png" width="8" height="4" alt="" class="valign"></a> <span class="allDiv" style="display:none;" id="srchDivBox">
-  <a href="javascript:void(0);" onclick="showhdrLbl(6);">Members</a>
-  <a href="javascript:void(0);" onclick="showhdrLbl(5);">Talents</a>
-  </span>
-
-  </div>
-<div class="floatLeft"><input name="hdr_srchword" id="hdr_srchword" type="text" value="Name, Headline or Talent" class="txtfld graytxt" onkeydown="SearchEnter(event)" maxlength="100" onfocus="showFocusTxt()" onblur="showBlurTxt()"></div><div class="floatLeft" style=".padding-top:1px;"><input name="" type="image" src="https://talent-small.s3.amazonaws.com/search.png" onclick="SearchResult()"></div>
-<div class="floatLeft" style="padding:4px 10px; display:none"><a href="#" class="adv">Advanced</a></div>
-</div></div> 
-<div id="account" style="float:right; text-align:right">
-<div><a href="https://talent.me" class="lightGray">Login</a></div>
+<div id="header-wrapper"><div id="rec-wrapper">
+<div id="rec-header">
+<div id="logo-notif"><a href="https://talent.me"><img src="https://talent-small.s3.amazonaws.com/logo.png" width="155" height="32" alt="Talent.me" title="Talent.me"></a>
 </div>
 
 
+<div class="floatRight" style="padding-top:18px; padding-right:0px">
+
+<iframe src="//www.facebook.com/plugins/like.php?app_id=202781586434560&amp;href=http%3A%2F%2Fwww.facebook.com%2Fapps%2Fapplication.php%3Fid%3D202781586434560&amp;send=false&amp;layout=button_count&amp;width=83&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:83px; height:21px;" allowtransparency="true"></iframe>
+
+</div></div>
 
 
-</div>
 
-<!-- Header End --><!--Navigation Starts-->
-<div id="nav">
-<ul class="floatLeft" style="margin-bottom: 15px">
-	<li><a href="https://talent.me">Home</a></li>
-	<li><a href="https://talent.me/status_feed/feeds.php">Updates</a></li>	
-<li><a href="https://talent.me/connections/">Connections</a></li>
-	<li><a href="https://talent.me/endorse/">Endorsements</a></li>
-	<li><a href="https://talent.me/talents/communities">Talents</a></li>
-	<li><a href="https://talent.me/jobs/jobs.php">Jobs</a></li>
-	<li style="border-right:none;"><a href="https://talent.me/invite/invite.php">Invite</a></li>	
-</ul>
 
-<div class="floatRight" style="padding-top:2px; padding-right:6px">
+</div></div>
 
-<iframe src="//www.facebook.com/plugins/like.php?app_id=202781586434560&amp;href=http%3A%2F%2Fwww.facebook.com%2Fapps%2Fapplication.php%3Fid%3D202781586434560&amp;send=false&amp;layout=button_count&amp;width=86&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:86px; height:21px;" allowtransparency="true"></iframe>
-
-</div>
-
-</div>
-<!--Navigation End--><style type="text/css">
+<!-- Header End --><style type="text/css">
 ul{ padding: 5px 0 0 13px;}
 </style>
 <!--Content Starts-->
-<div id="content">
+<div id="content"><div class="lftbg">
  <!--Left Starts-->
-  <div id="left">
-  <div style="background:#FFF; height:10px; width:180px; position:absolute; top:0; left:0">
-</div>
-	<div id="left_menu">
+  <div id="rec-left">
+
+	<div id="rec-left_menu">
 		<ul>
 			<li>
 				<a class="talent" href="https://talent.me/docs/aboutus.php">About Talent.me</a>
@@ -266,16 +146,24 @@ ul{ padding: 5px 0 0 13px;}
 			</li>
 		</ul>
 	</div>
-<div class="hline">&nbsp;</div>
+<div class="leftbold"></div>
+
+<div class="padTB10"> <a href="https://talent.me"><img width="165" height="30" alt="Talent.me" title="Talent.me" src="https://talent-small.s3.amazonaws.com/fSignup.jpg"></a></div>
+
+<div style="padding:0 10px ;">
+<iframe src="http://www.facebook.com/plugins/facepile.php?app_id=202781586434560" scrolling="no" frameborder="0" style="border:none;  
+overflow:hidden; width:170px; height:80px" allowtransparency="true"></iframe>
+</div>
+
 </div>
 <!--Left Ends-->
 
 
 <!--Right Starts-->
-<div id="right"><h2>Talent.me: Privacy</h2>
+<div id="rec-right"><h2>Talent.me: Privacy</h2>
 
 <div class="clearfix">
-  <p><strong>Privacy Policy</strong><br>
+  <p class="padT10"><strong>Privacy Policy</strong><br>
       <strong>Effective date: 06/01/2011</strong>
 	  <br>
     <img width="2" height="2" src="https://talent.me/docs/privacy_clip_image002.png" alt="Description: http://gcmsmall.s3.amazonaws.com/spacer.gif"><br>
@@ -440,19 +328,56 @@ ul{ padding: 5px 0 0 13px;}
     3507 Bayshore Blvd Suite 1201<br>
     Tampa, FL  33629</p>
 </div>
-</div>
+</div><div class="clear">&nbsp;</div>
 <!--Right End-->
-</div>
+</div></div>
 <!--Content End-->
 
-<div id="footerL">
-<div style="border-top:solid 1px #CCC; padding-top:10px">
-  <div class="floatLeft">Talent.me © 2011</div> <div class="floatRight"><a href="https://talent.me/docs/aboutus.php">About</a> <span class="graytxt">|</span> <a href="https://talent.me/docs/privacy.php"> Privacy</a> <span class="graytxt">|</span>  <a href="https://talent.me/docs/terms.php"> Terms</a> <span class="graytxt">|</span> <a href="https://talent.me/docs/help.php">Help</a> <span class="graytxt">|</span> <a href="https://talent.me/about/contact.php">Contact Us</a>  <span class="graytxt">|</span> <a href="https://talent.me/about/contact.php?option=feedback">Feedback</a></div>
-<div class="clearfix"></div>
+
+
+<div id="rFooter">
+    <div id="rFooter-wrapper">
+        <div id="rFooter-content">
+            <div class="content-block">
+                <h3><a href="https://talent.me/docs/aboutus.php" target="_blank">About Talent.me</a></h3>
+                <ul>
+                    <li><a href="https://talent.me/docs/aboutus.php" target="_blank">About Talent.me</a></li>
+                    <li><a href="https://talent.me/docs/ourteam.php" class="footerLink" target="_blank">Our Team</a></li>
+                    <li><a href="https://talent.me/about/contact.php" target="_blank">Contact Us</a></li>
+                    <li><a href="https://talent.me/about/contact.php?option=feedback" target="_blank">Feedback</a></li>
+                </ul>
+            </div>
+            <div class="content-block">
+                <h3><a href="https://talent.me/docs/privacy.php" class="footerLink" target="_blank">Privacy and Terms</a></h3>
+                <ul>
+                    <li><a href="https://talent.me/docs/help.php" class="footerLink" target="_blank">Help</a></li>
+                    <li><a href="https://talent.me/docs/terms.php" target="_blank">Terms of Service</a></li>
+                    <li><a href="https://talent.me/docs/privacy.php" target="_blank">Privacy</a></li>
+                </ul>
+            </div>
+            <div class="content-block">
+              <div id="icons">
+                    <a href="http://twitter.com/talent_me" target="_blank" class="footerLink">
+                        <img alt="Talent.me on Twitter" src="https://talent-small.s3.amazonaws.com/footer-twitter-icon.png">
+                    </a>
+                    <a href="http://www.facebook.com/talentme" target="_blank" class="footerLink">
+                        <img alt="Talent.me on Facebook" src="https://talent-small.s3.amazonaws.com/footer-facebook-icon.png">
+                    </a>
+                    <div class="fblike">
+                        <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Ftalentme&amp;send=false&amp;layout=button_count&amp;width=83&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=202781586434560" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:83px; height:21px;" allowtransparency="true"></iframe>
+                    </div>
+                    <br class="clearer">
+                </div>
+                <ul>
+                    <li id="copyright"><p>Talent.me © 2012</p></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
-<div class="clearfix"></div>
-</div>
-</div>
+
+
+
 
 <script type="text/javascript">
 var clicky_site_ids = clicky_site_ids || [];
@@ -491,20 +416,30 @@ qacct:"p-00eFZEVQxF-_s"
 </noscript>
 <!-- End Quantcast tag -->
 <div id="fb-root"></div>
-<script src="https://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+<script src="https://connect.facebook.net/en_US/all.js#appId=202781586434560&amp;xfbml=1" type="text/javascript"></script>
 <script type="text/javascript">
 FB.init({
  appId  : '202781586434560',
- status : true, // check login status
+ /*status : true, // check login status
  cookie : true, // enable cookies to allow the server to access the session
- xfbml  : true// parse XFBML
+ xfbml  : true, // parse XFBML
+ oauth: true
+ */
+ status: true,
+           logging: false,
+           cookie: false,
+           xfbml: true,
+		   oauth: true,
+		   frictionlessRequests:true
  });
 
- FB.Canvas.setAutoResize(7);
+//FB.Canvas.setAutoResize(7);
+ window.fbAsyncInit = function() {
+       FB.Canvas.setAutoGrow();
+     }
+
 
  </script>
-
-<!--http://www.facebook.com/note.php?note_id=10150149060995844-->
 
 
 
