@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shop601.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513204157id_/http%3A//www.shop601.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop601.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015123241id_/http%3A//www.shop601.com/privacy) for the most accurate reproduction.*
 
-# Shop 601 : Melissa Shoes | Privacy
+# Melissa Shoes | Privacy | Shop601.com
 
 **PRIVACY POLICY** _(Last updated November 22, 2011)_
 
