@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megalinkblaster.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616095647id_/http%3A//www.megalinkblaster.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megalinkblaster.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015150342id_/http%3A//www.megalinkblaster.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# #1 SEO Service - Mega Link Blaster
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site http://www.megalinkblaster.com. The following discloses the information gathering and dissemination practices for this Web site.
 
