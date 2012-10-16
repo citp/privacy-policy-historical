@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the hotels-rates.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501210654id_/http%3A//www.hotels-rates.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels-rates.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016212631id_/http%3A//www.hotels-rates.com/aspx-975/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Hotels-Rates.com
+
+Hotels-Rates.com places our greatest value on the relationship we have with our customers.
 
 We are committed to protecting your personal privacy and the information you entrust with us. 
 
 We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary. 
 
-Any information obtained by Hotels-Rates.com will not be shared with any third parties with the exception of the booking engine used to make your reservations. All of our data is kept private within the company. We will not disclose personal information except to appropriate authorities as required by law.
+Any information obtained by Hotels-Rates.com will not be shared with any third parties with the exception of the booking engine used to make your reservations. All of our data is kept private within the company. We will not disclose personal information except to appropriate authorities as required by law. 
 
-Here is more specific information that we have to collect and the reasons why we do it:
+Here is more specific information that we have to collect and the reasons why we do it: 
 
 We need to have your name, email address, physical address, phone number and credit card number to ensure that we are able to make and confirm your reservation. We do not share this personal information with outside parties except to the extent necessary to complete your reservation. At most hotels, it will then be held until you can pay in person. 
 
@@ -33,8 +35,7 @@ We use IP addresses to analyze trends, administer the site, track users' movemen
 Links/Advertising  
 This site may contain links to other sites. Please be aware that Hotels-Rates.com is in no way responsible for the privacy practices of such other sites. We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by the Hotels-Rates.com website.
 
-Contact Us
+Contact Us  
+If you have any questions regarding this Privacy Statement, the practices of Hotels-Rates.com, or your dealings with our web site, please contact us at: [........@hotels-rates.com](http://www.google.com/recaptcha/mailhide/d?k=01UoQTffvH7hVcPiYkIOi8Zw==&c=rzaMLBiQElrKi4HF6KU1jaTi8wtFjTJLtSOkw2NHQUw= "Reveal this e-mail address")
 
-If you have any questions regarding this Privacy Statement, the practices of Hotels-Rates.com, or your dealings with our web site, please contact us at: [info@Hotels-Rates.com](http://www.hotels-rates.com/contactus.asp)
-
-This Privacy Policy was posted on Hotels-Rates.com on July, 2001 update September 2003. We reserve the right to change, modify or amend this policy at any time. If we make any significant change to this policy, we will post notice of the change on Hotels-Rates.com for a period of at least six months after the change is implemented.
+This Privacy Policy was posted on Hotels-Rates.com on July, 2001 update January 2011. We reserve the right to change, modify or amend this policy at any time. If we make any significant change to this policy, we will post notice of the change on Hotels-Rates.com for a period of at least six months after the change is implemented. 
