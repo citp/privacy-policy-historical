@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theimalliance.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613182140id_/http%3A//www.theimalliance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimalliance.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016031131id_/http%3A//www.theimalliance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IM Alliance
 
