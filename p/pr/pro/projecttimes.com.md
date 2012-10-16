@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2010-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100730041951id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016113141id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Project Management | ProjectTimes Privacy Policy
+# Project Times | privacy-policy
 
-ProjectTimes is sensitive to the privacy needs of its website visitors and members (“you” or “users”).  This privacy policy applies to any personal information collected through this ProjectTimes.com website (the “Site”) and discloses the privacy practices for all products and services of ProjectTimes, a Diversified Business Communications company (the “Company” or “we”). 
+## Privacy Policy
+
+ ProjectTimes is sensitive to the privacy needs of its website visitors and members (“you” or “users”).  This privacy policy applies to any personal information collected through this ProjectTimes.com website (the “Site”) and discloses the privacy practices for all products and services of ProjectTimes, a Diversified Business Communications company (the “Company” or “we”).
 
 This privacy policy does not apply to other websites, including those that may be accessed through links contained on this Site.  This privacy policy does not apply to other online or offline activities of Advertisers, Sponsors, Partners, and/or Affiliates and does not apply to any information you supply to Company through any means other than this Site.
 
@@ -48,7 +50,7 @@ This Privacy Policy applies only to the Site operated by the Company, and not to
 The Company may invite users to participate in surveys or contests.  User’s participation in these surveys or contests is completely voluntary.  The information collected from surveys and contests may be used to identify aggregate demographic characteristics of users to improve our services, for marketing purposes, for industry reporting purposes, and/or to notify the winners and award prizes.  Subject to the user’s preferences, such information also may be shared with third-party sponsors of such surveys or contests.
 
 **Effective Date**  
-This Privacy Policy is effective as of March, 2007 and will remain in effect unless changed.  The Company may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Site.
+This Privacy Policy is effective as of March, 2007 and will remain in effect unless changed.  The Company may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy [on](http://www.projecttimes.com/logout.php) the Site.
 
 **Questions**  
 You can get answers to your questions about our privacy policy, review your personal information, and correct inaccuracies by contacting Company through the ProjectTimes website or by writing to:
