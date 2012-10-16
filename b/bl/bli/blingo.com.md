@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510145735id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016140626id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Instant Win Prizes from Searching, Free Online Sweepstakes | PCHSearchAndWin
 
