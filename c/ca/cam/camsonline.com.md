@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camsonline.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105010753id_/http%3A//www.camsonline.com/data_protection_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsonline.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016175501id_/http%3A//camsonline.com/data_protection_policy.html) for the most accurate reproduction.*
 
 # New Document
 
