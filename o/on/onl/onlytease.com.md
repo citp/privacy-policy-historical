@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031420id_/http%3A//www.onlytease.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016102328id_/http%3A//www.onlytease.com/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OnlyTease.com
+# Welcome | OnlyTease
 
-[](https://web.archive.org/index.cfm)  
-[](https://web.archive.org/)
+* * *
 
-[](http://www.onlytease.com/privacy-policy)[](http://fr.onlytease.com/privacy-policy)[](http://de.onlytease.com/privacy-policy)[](http://it.onlytease.com/privacy-policy)[](http://jp.onlytease.com/privacy-policy)[](http://es.onlytease.com/privacy-policy)  
-
-
-[](http://members.onlytease.com/members/) [](https://web.archive.org/join) [](https://web.archive.org/tour)
+* * *
 
 This Policy applies as between you, the User of this Website and **OT Publishing** the owner and provider of this Website. This Policy applies to our use of any and all Data collected by us in relation to your use of the Website and any Services or Systems therein.
+
+  
+
 
   1. **Definitions and Interpretation**  
 In this Policy the following terms shall have the following meanings:
@@ -33,8 +32,12 @@ In this Policy the following terms shall have the following meanings:
 
 **"Website"** means the website that you are currently using (http://www.onlytease.com) and any sub-domains of this site unless expressly excluded by their own terms and conditions.
 
+  
+
   2. **Data Collected**  
 Without limitation, any of the following Data may be collected:
+
+  
 
     1. Name;
     2. Date of birth;
@@ -48,6 +51,8 @@ Without limitation, any of the following Data may be collected:
     10. Cookie information (see clause 10 below).
   3. **Our Use of Data**
 
+  
+
     1. Any personal Data you submit will be retained by OT Publishing for as long as you use the Services and Systems provided on the Website.
     2. Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties.
     3. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.
@@ -59,27 +64,41 @@ Without limitation, any of the following Data may be collected:
   4. **Third Party Websites and Services**  
 OT Publishing may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Website. Any Data used by such parties is used only to the extent required by them to perform the services that OT Publishing requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
+  
+
   5. **Changes of Business Ownership and Control**
+
+  
 
     1. OT Publishing may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
     2. In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes.
   6. **Controlling Access to your Data**
+
+  
 
     1. Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
       1. use of Data for direct marketing purposes;
       2. sharing Data with third parties.
   7. **Your Right to Withhold Information**
 
+  
+
     1. You may access certain areas of the Website without providing any Data at all. However, to use all Services and Systems available on the Website you may be required to submit Account information or other Data.
     2. You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below.
   8. **Accessing your own Data**
+
+  
 
     1. You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.
     2. You have the right to ask for a copy of your personal Data on payment of a small fee.
   9. **Security**
 
+  
+
     1. Data security is of great importance to OT Publishing and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
   10. **Cookies**
+
+  
 
     1. OT Publishing may set and access Cookies on your computer.
     2. A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the Website that placed it there, not any other sites.
@@ -91,4 +110,20 @@ OT Publishing reserves the right to change this Privacy Policy as we may deem ne
 
 
 
-[](http://members.onlytease.com/members/) [](https://web.archive.org/join) [](https://web.archive.org/tour)
+* * *
+
+[
+
+#### join today
+
+](https://web.archive.org/Join "Join OnlyTease today")
+
+Find out why we're the best tease site on the net!
+
+[
+
+#### continue
+
+](https://web.archive.org/Features "Continue tour")
+
+Take the tour & learn more about OnlyTease
