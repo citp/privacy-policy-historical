@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512040314id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016073324id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m "Validate TRUSTe privacy certification") [TRUSTe Validation](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m "Validate TRUSTe privacy certification")
+
+The TRUSTe seal indicates that Beezid.com complies with the world's largest privacy seal program, certifying more than 3,500 websites.
 
 » **Scope**
 
