@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seenotice.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042654id_/http%3A//www.seenotice.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seenotice.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016221158id_/http%3A//www.seenotice.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SeeNotice Classifieds
 
