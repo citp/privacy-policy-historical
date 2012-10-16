@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsbycompany.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018150204id_/http%3A//www.newsbycompany.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbycompany.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016023036id_/http%3A//www.newsbyco.com/page/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY www.newsbycompany.com
+# PRIVACY POLICY www.newsbyco.com
 
 At NewsByCompany.com, we are sensitive about how we deal with information we receive from you. This policy covers how NewsByCompany.com treats personal information that we collect and receive from you, including information related to your past use of NewsByCompany.com products and services. We understand you may not want everyone in the world to have the information you share and that is why we give you control of your information. You choose what information you put in your profile, including contact and personal information, pictures, interests and communities you join. In addition, you control with whom you share that information through the settings on the My Account section.
 
