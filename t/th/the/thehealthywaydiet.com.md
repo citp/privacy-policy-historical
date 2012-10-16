@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthywaydiet.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506121146id_/http%3A//www.thehealthywaydiet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthywaydiet.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016182222id_/http%3A//www.thehealthywaydiet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Healthy Way Diet
 
@@ -48,7 +48,14 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information, including:  
+ 
+
+  * Third party vendors, including Google, show our ads on sites on the internet.
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website.
+  * Users may opt out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/).
+
+
 
 **Do we disclose any information to outside parties?**
 
@@ -69,6 +76,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **CAN-SPAM Compliance**
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Re-Marketing cookies and information collection**
+
+When you visit TheHealthyWayDiet.com, or any of our other sites you may be tagged with a “re-marketing” cookie. We use this technology with our advertising partners to serve you relevant, useful and helpful ads.
 
 **Online Privacy Policy Only**
 
