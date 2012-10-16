@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnable.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501063133id_/https%3A//learnable.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnable.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016083550id_/https%3A//learnable.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learnable
 
@@ -71,26 +71,15 @@ Oh, don't forget that you can control which emails you receive from us through y
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following addresses:
 
-[Learnable Pty Ltd](https://web.archive.org/web/20120501063133id_/https%3A//)
+* * *
 
-Postal
+##### Australia Office
 
-PO Box 1516
+Learnable Pty Ltd  
+48 Cambridge St  
+Melbourne  
+Victoria 3066  
+Australia  
+ABN: 38 147 944 465  Phone: +61 3 9090 8200 
 
-Collingwood, VIC, 3066
-
-Australia
-
-Postal
-
-1032 Irving Street
-
-PMB 519
-
-San Francisco, CA, 94122-2200
-
-USA
-
-You may [contact us](https://web.archive.org/contact) by email at hello@learnable.com. 
-  *[VIC]: Victoria
-  *[CA]: California
+You may [contact us](https://web.archive.org/contact) by email at [hello@learnable.com](mailto:%20hello@learnable.com)
