@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usingmiles.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511234753id_/https%3A//www.usingmiles.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingmiles.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016110251id_/https%3A//www.usingmiles.com/pages/privacy) for the most accurate reproduction.*
 
-# Air Miles | Credit Card Miles Programs, Manage Airline Miles, Redeem Air Miles
+# UsingMiles | Credit Card Miles Programs, Manage Airline Miles, Redeem Air Miles
 
 UsingMiles is committed to the protection of your privacy. This UsingMiles Privacy Statement applies to data collected by UsingMiles through its Website and Services, as well as its offline product support services.
 
@@ -43,6 +43,8 @@ We provide links to services provided by third party websites, which may, or may
   3. Some UsingMiles Services may be co-branded and offered in conjunction with another company. If you register for or use such Services, both UsingMiles and the other company may receive information collected in conjunction with the co-branded services.
   4. We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the Service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. However, for credit card processing, our fraud detection vendors may use aggregate data to help improve their service. This helps them more accurately detect fraudulent uses of credit cards. We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of UsingMiles or our customers, including the enforcement of our agreements or policies governing your use of the Services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of UsingMiles employees, customers or the public. We may also disclose personal information as part of a corporate transaction such as a merger or sale of assets.
   5. We will transfer information about you if UsingMiles is acquired by or merged with another company. In such event, UsingMiles will notify you before your information is transferred and becomes subject to a different Privacy Policy.
+  6. This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to learn how customers use our site so we can make improvements to the website experience.   
+You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 
 
@@ -94,9 +96,4 @@ We will occasionally update this privacy statement to reflect changes in our Ser
 
 ## Section 14: Contacting Us
 
-UsingMiles welcomes your comments regarding this privacy statement. If you have any questions or concerns regarding this Privacy Statement, or if you would like to request us to delete, correct or show you your personal information as provided above, please contact us at [support@usingmiles.com](mailto:support@usingmiles.com).
-
-UsingMiles, Inc., 6400 S. Fiddler's Green Circle, Suite 975, Greenwood Village, CO 80111, U.S.A.  
-
-
-© 2010 UsingMiles, Inc. All rights reserved.
+UsingMiles welcomes your comments regarding this privacy statement. If you have any questions or concerns regarding this Privacy Statement, or if you would like to request us to delete, correct or show you your personal information as provided above, please [contact us](https://web.archive.org/pages/contact) or send an email to [support@usingmiles.com](mailto:support@usingmiles.com).
