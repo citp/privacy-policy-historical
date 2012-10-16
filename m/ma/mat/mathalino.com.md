@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mathalino.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511074838id_/http%3A//www.mathalino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathalino.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016094346id_/http%3A//www.mathalino.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | MATHalino.com
 
 Mathalino.com highly valued your privacy. Information we collect from you such us your name and email address in the comment and/or contact forms will be kept private. Our purpose of collecting such information is to know who our readers are and to prevent ourselves from spam attack. In no way that we share your information to any person or any third party.
 
