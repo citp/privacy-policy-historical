@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626091705id_/http%3A//www.luckybrand.com/Security-and-Privacy-Info/securityAndPrivacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016051212id_/http%3A//www.luckybrand.com/Security-and-Privacy-Info/securityAndPrivacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Lucky Brand - Security & Privacy
 
