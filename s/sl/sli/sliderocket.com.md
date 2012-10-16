@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sliderocket.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624053704id_/http%3A//www.sliderocket.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sliderocket.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016073053id_/http%3A//www.sliderocket.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # SlideRocket Privacy Policy
 
