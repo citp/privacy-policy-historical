@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510150729id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016053246id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # Machine Mart: No1 for Tools & Equipment
 
@@ -40,18 +40,7 @@ Machine Mart employs other companies to perform specific functions on our behalf
 
  Your information is safe with us.  Machine Mart does not disclose information to other companies for their commercial use. 
 
-   **Cookies**  
-Cookies are small programs that our website sends to your browser software, which may then be stored on your computer. 
+   **Cookie Policy**  
+Cookies are small text files that our website sends to your browser software, which may then be stored on your computer.
 
- Cookies are used to help our website recognize your browser, and provide a better website service to you.  For example, if you have visited our website and registered for our latest competition, a cookie will ensure that you do not see our advert for the competition on your subsequent visits to our site.  These cookies do not use personally identifiable information. 
-
- Cookies are used to enable you to place an order on our website.  It is not possible to place an order on www.machinemart.co.uk unless your browser software is set to accept cookies.  You can change your browser settings to accept or decline cookies.  See the section on cookies on our FAQ's page for details, or use the help button on your browser toolbar. 
-
- We recommend that you adjust your browser settings to accept cookies, and leave them switched "on". 
-
-   **Information queries**  
-We collect, store and process information in accordance with the Data Protection Act 1998. 
-
- If you have any queries with regards to personal information collected by Machine Mart Ltd, please contact us at customerservice@machinemart.co.uk
-
- Or write to:
+We use cookies to enhance your user experience and recommend that you adjust your browser settings to accept cookies, and leave them switched "on". 
