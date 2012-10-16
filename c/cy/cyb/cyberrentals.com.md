@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511071754id_/http%3A//www.cyberrentals.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016145413id_/http%3A//www.cyberrentals.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
 
 # HomeAway Vacation Rentals: Privacy Policies
 
