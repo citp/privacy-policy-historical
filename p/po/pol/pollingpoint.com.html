@@ -1,64 +1,55 @@
-<!--The following is the downloaded HTML source of the pollingpoint.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604010520id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pollingpoint.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016125754id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-yjs js generatedcontent" lang="en-us"><!--<![endif]--><head>
-        
+<!DOCTYPE html><html class="no-yjs" lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         
-        <title>YouGov US Opinion Center</title>
+        <title>YouGov US Panel Privacy Policy</title>
         
-            
-            
+            <meta name="description" content="This is the privacy policy for YouGov's US panel.">
+            <meta name="keywords" content="privacy policy, online surveys, online panel, secure, personally identifying information, anonymity">
         
-        <link rel="shortcut icon" type="image/x-icon" href="/static/img/favicon.e2f529823c55.ico">
-        <link href="/static/css/cumulus-core.0118839d0fd9.css" rel="stylesheet" type="text/css">
-        <link href="/static/css/main.b3d9cb90ef19.css" rel="stylesheet" type="text/css">
-        <link href="" rel="alternate" type="applicaton/atom+xml">
+
+        <link rel="shortcut icon" type="image/x-icon" href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/favicon.e2f529823c55.ico">
+        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/cumulus-core.582ec90a4200.css" rel="stylesheet" type="text/css">
+        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/main.816d594be7ce.css" rel="stylesheet" type="text/css">
+        <link href="/news/feeds/latest/" rel="alternate" type="application/atom+xml">
         
         
         
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
-        <script src="/static/js/jquery.scrollTo.be8584ae8427.js" charset="utf-8"></script>
-        <script src="/static/js/modernizr.custom.2ef282748fd2.js" charset="utf-8"></script>
-        <script src="/static/js/mediaqueries.61e460e9be68.js" charset="utf-8"></script>
-        <script src="/static/js/cumulus-notifications.3d153db26394.js" charset="utf-8"></script>
+
 
         
+
+        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8395.js" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
+
+        <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/jquery.scrollTo.be8584ae8427.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/hoverIntent.8d8405495041.js"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/modernizr.iepp.f35005ceac82.js"></script>
+		
 
 <script>
-
     function trackEvent(category, action, label) {
         if (typeof(_gat) == 'object') {
             _gat._getTrackerByName()._trackEvent(category, action, label);
         }
     }
 
-    // For Google Analytics
-
-    function openUrl(href, target) {
-        if (target.toLowerCase() == '_blank') {
-            window.open(href);
-        } else {
-            window.location = href;
-        }
-    }
-
-    function recordOutboundLink(link, category, action, label) {
+    function recordOutboundLink(category, action, label) {
         trackEvent(category, action, label);
-        setTimeout(openUrl(link.href, link.target), 100);
     }
-            
+
 // for search box to clear input text field
 var searchBoxActions = {
-        clearMe: function (formfield) 
+        clearMe: function (formfield)
         {
             if (formfield.defaultValue == formfield.value) {
                 formfield.value = "";
             }
         },
-        
+
         returnMe: function (formfield)
         {
             if (formfield.value == "") {
@@ -67,20 +58,38 @@ var searchBoxActions = {
         }
 }
 
-var messageBoxActions = {
-        
-        hideIfEmpty: function (element) 
+var messageBoxActions ={
+
+        hideIfEmpty: function (element)
         {
             if (element.children().length == 0) {
                 element.hide();
             }
         },
-        
-        hideAndSlide: function (element, speed, callback) 
+
+        hideAndSlide: function (element, speed, callback)
         {
             element.fadeTo('slow', 0).slideUp(callback);
         }
 }
+
+//** FUNCTION: Apply the Thumpy image resizing feature via image src swap.
+// src = Image's src. Duh.
+// thumpyParams = example: 'w=280&ch=100' Any Thumpy-accepted parameter.
+function thumpyTize(src, thumpyParams){
+    // use the src of our images and impose the Thumpy on them!
+    // Get CDN url's from settings.py
+    var thumpyOverrideURL = '//d18lkz4dllo6v2.cloudfront.net/';
+    var currentImgURL = src;
+        if(entryCloudURL == '' || thumpyOverrideURL == ''){
+            $.error('Thumpy Script exception: URLS not correctly defined in settings configuration!');
+        }else{
+            var entryCloudURL = '//d25d2506sfb94s.cloudfront.net/';
+            currentImgURL = currentImgURL.slice(entryCloudURL.length, currentImgURL.length);
+            return thumpyOverrideURL+currentImgURL+'?'+thumpyParams;
+        }
+
+};
 
 window.location.querystring = function(key) {
     if (!window.location.search) {
@@ -99,51 +108,7 @@ window.location.querystring = function(key) {
     return queryObj[key];
 }
 
-//** FUNCTION: Apply the Thumpy image resizing feature via image src swap.
-// src = Image's src. Duh. 
-// thumpyParams = example: 'w=280&ch=100' Any Thumpy-accepted parameter.
-function thumpyTize(src, thumpyParams){
-    // use the src of our images and impose the Thumpy on them!
-    // Get CDN url's from settings.py
-    var thumpyOverrideURL = '//d18lkz4dllo6v2.cloudfront.net/';
-    var currentImgURL = src;
-        if(entryCloudURL == '' || thumpyOverrideURL == ''){
-            $.error('Thumpy Script exception: URLS not correctly defined in settings configuration!');
-        }else{
-            var entryCloudURL = '//d25d2506sfb94s.cloudfront.net/';
-            currentImgURL = currentImgURL.slice(entryCloudURL.length, currentImgURL.length);
-            currentImgURL = thumpyOverrideURL+thumpyParams+'/'+currentImgURL;
-            return currentImgURL;
-        }
-
-};
-
-$(document).ready( function() {
-    //** THUMPY-TIZE DEM IMAGES!
-    //note: we must hide then re-show the image to prevent jumping ugliness.
-    // Images are hidden in the CSS.
-    $('img.article-img').each(function() {
-        $(this).attr('src', thumpyTize($(this).attr('src'), 'w=285&ch=100'))
-            .show();
-    });
-
-    $('img.featuredPic').each(function(){
-        $(this).attr('src', thumpyTize($(this).attr('src'), 'w=274'))
-            .show();
-    });
-
-    $('.redemptionItem .imageContainer img').each(function(){
-        $(this).attr('src', thumpyTize($(this).attr('src'), 'w=120'))
-            .show();
-    });  
-
-    // Thumpy-tize CMS pictures 
-    $('img.thumpy').each(function(){
-            var parentWidth = $(this).closest('div').width();
-            $(this).attr('src', thumpyTize($(this).attr('src'), 'w='+parentWidth)).show();
-    });
-    // ** END THUMPY-TIZED IMAGES.
-
+$(document).ready(function() {
     //Main menu hover binding
     $('.mainMenu li').not('.mainMenu li ul li').hover(
         function(){
@@ -170,7 +135,7 @@ $(document).ready( function() {
                     .show()
                     .find('li').css('opacity', 0).animate({opacity: 1}, 100, function(){
                     });
-                
+
             }
         }
     );
@@ -178,7 +143,7 @@ $(document).ready( function() {
     // Record all outbound clicks
     $('a[href^="http"]').click(function(){
         var path = this.href.replace(/http[s]?:\/\//, '');
-        recordOutboundLink(this, 'Outbound Links', path, this.rel);
+        recordOutboundLink('Outbound Links', path, this.rel);
     });
 
     // replace search pattern and drop into searchbox
@@ -187,6 +152,15 @@ $(document).ready( function() {
         $('#searchBox').attr('value', search_query);
     }
 
+    // Add action to the "dismiss" links in messages
+    $('.message').delay(1000).css({
+        'display': 'block'
+      }).slideDown(100);
+    $('.message').delegate('.close', 'click', function(){
+      $(this).closest('.message').slideUp(100, function(){
+          $(this).remove();
+        });
+    });
 
     $('a[href=top]').click(function() {
         $.scrollTo(0,'slow');
@@ -194,26 +168,301 @@ $(document).ready( function() {
     });
 
     // footer global links slider
-    $(".btnSlide, #panelHeader").click(function(){
+    $("h5.slide, #panelHeader h4:first-child").click(function(){
         $("#panel").slideToggle("fast");
         $('.slide').toggleClass("active"); return false;
     });
 
-    
+
+    // Header Dropdown menus
+    if($('#headerDropdowns').length > 0){
+        $('#headerDropdowns select').each(function(){
+            var selectIndex = $(this).index();
+            var selectClass = $(this).attr('class');
+            $('#headerDropdowns').append('<ul class="'+selectClass+' closed" />');
+
+            //For Language Selection
+            if(selectClass == 'languageLinks'){
+                $(this).find('option').each(function(){
+                    $('ul.languageLinks').append('<li><a href="'+$(this).attr('value')+'">'+$(this).text()+'</a></li>');
+                    // bind to link: $('#languageForm').submit(); and push the language value
+                });
+                $('ul.languageLinks').prepend("<li>Select Language</li>");
+            }
+
+            $(this).hide();
+        });
+
+        $('#headerDropdowns ul').bind('click', function(){
+            var currentHeight = 20;
+            var numChildren = $(this).children('li').length;
+            toggleOpenClose($(this), currentHeight, currentHeight*numChildren);
+
+            $(this).toggleClass('closed');
+
+        });
+
+        function toggleOpenClose(targetObject, originalHeight, newHeight){
+            // targetObject should be a jQuery object!!
+            if(targetObject.height() != originalHeight){
+               targetObject.animate({
+                   'height': originalHeight
+               }, 200);
+            } else {
+                targetObject.animate({
+                   'height': newHeight
+               }, 200);
+            }
+
+        };
+
+        // For Country Links
+        if($('.countryLinks').length > 0){
+            // Get JSON of links from translatable template //
+            var countryJSON =  
+ {
+    "countries": [
+        {
+            "name": "United States &amp; Canada",
+            "slug": "usa",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://today.yougov.com",
+                "B2B": "http://research.yougov.com/",
+                "Polling": "http://today.yougov.com"
+            }
+        },
+        {
+            "name": "United Kindgom",
+            "slug": "uk",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://labs.yougov.co.uk",
+                "B2B": "http://research.yougov.co.uk",
+                "Polling": "http://labs.yougov.co.uk/publicopinion"
+            }
+        },
+        {
+            "name": "Germany",
+            "slug": "germany",
+            "coords": "",
+            "sites": {
+                "Panelist": "https://my.yougov.de/",
+                "B2B": "http://www.psychonomics.de/",
+                "Polling": "http://www.yougov.de/"
+            }
+        },
+        {
+            "name": "Greece",
+            "slug": "greece",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Hungary",
+            "slug": "hungary",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Austria",
+            "slug": "austria",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Chile",
+            "slug": "chile",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://chile.yougov.com/",
+                "B2B": "",
+                "Polling": "http://chile.yougov.com/results.aspx"
+            }
+        },
+        {
+            "name": "Czech Republic",
+            "slug": "czech",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Denmark",
+            "slug": "denmark",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://denmark.yougov.com/",
+                "B2B": "http://www.yougov.dk",
+                "Polling": "http://www.yougov.dk/nyhed/"
+            }
+        },
+        {
+            "name": "Estonia",
+            "slug": "estonia",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Finland",
+            "slug": "finland",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://finland.yougov.com/",
+                "B2B": "http://www.yougov.fi/",
+                "Polling": "http://www.yougov.fi/"
+            }
+        },
+        {
+            "name": "Middle East &amp; North Africa",
+            "slug": "middle-east",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://my.yougovsiraj.com/",
+                "B2B": "http://research.mena.yougov.com",
+                "Polling": "http://my.yougovsiraj.com/feedyourmind.aspx"
+            }
+        },
+        {
+            "name": "Norway",
+            "slug": "norway",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://norway.yougov.com/",
+                "B2B": "http://www.yougov.no",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Poland",
+            "slug": "poland",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Russia",
+            "slug": "russia",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Slovakia",
+            "slug": "slovakia",
+            "coords": "",
+            "sites": {
+                "Panelist": "",
+                "B2B": "",
+                "Polling": ""
+            }
+        },
+        {
+            "name": "Sweden",
+            "slug": "sweden",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://sweden.yougov.com/",
+                "B2B": "http://www.yougov.se/",
+                "Polling": "http://www.yougov.se/opinion/blogg/"
+            }
+        },
+        {
+            "name": "France",
+            "slug": "france",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://france.yougov.com/",
+                "B2B": "http://corporate.yougov.fr ",
+                "Polling": ""
+            }
+        }
+    ]
+}
+
+
+
+
+
+;
+            var countryData;
+
+            function loadCountryLinks(data){
+                    var countryData = data.countries;
+                    var targetURL;
+                    var countryList = [];
+                    var countryListItem;
+
+                    for(var i = 0; i < countryData.length; i++){
+                        var item = countryData[i];
+                        targetURL = item.sites.Panelist
+
+                        // Build the list item based on whether it has a link for the selection.
+                        // and Push it to the array countryList.
+
+                        if(targetURL != ""){
+                            countryListItem = '';
+
+                            countryListItem = '<li class="'+item.slug+'"><a href="'+targetURL+'">';
+                            countryListItem += item.name;
+                            countryListItem += '</a></li>';
+
+                            countryList.push(countryListItem);
+                        }
+
+                    }//endfor
+                    $('#headerDropdowns').find('ul.countryLinks').html(countryList.join(''))
+                        .prepend("<li>Select Country</li>");
+            }// end loadCountryLinks
+
+            // fire in the hole down here for Firefox 4
+            loadCountryLinks(countryJSON);
+
+        }// end if countryLinks
+    }// end if headerDropdowns
+
 }); //end doc ready
         </script>
 
-
-        
-
-        
-
-        
-
-        <!-- ga -->
+        <script src="https://yg-public.s3.amazonaws.com/r/1/cumulus-notifications.js" charset="utf-8"></script>
+	<script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/experiment_prize.dc482e3dc979.js"></script>
+        <!--<script src="/static/js/cumulus-notifications.js" charset="utf-8"></script> -->
         
         
-            
+        
+          <script type="text/javascript" src="https://d25d2506sfb94s.cloudfront.net/r/1/lightbox.js"></script>
+        
+        
+        
+    	<!-- ga -->
+        
+	    
+	        
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -238,119 +487,64 @@ $(document).ready( function() {
 
         
     <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-    <body>
+    <body class="privacy ">
+        
+	    
+        <div id="fb-root">
+            <script>
+                window.fbAsyncInit = function() {
+                    FB.init({
+                        appId: '212581392090525',
+                        status: true,
+                        cookie: true,
+                        xfbml: true,
+                        oauth: true
+                    });
+                };
+
+                (function(d){
+                    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                    js = d.createElement('script'); js.id = id; js.async = true;
+                    js.src = "//connect.facebook.net/en_US/all.js";
+                    d.getElementsByTagName('head')[0].appendChild(js);
+                }(document));
+            </script>
+        </div>
         
         
-        <div id="fb-root"></div>
-        <script>
-            window.fbAsyncInit = function() {
-                FB.init({
-                    appId: '212581392090525',
-                    status: true,
-                    cookie: true,
-                    xfbml: true,
-                    oauth: true
-                });
-
-               fbApiInit = true; //init flag
-              };
-            // Use this when you need to do a FB call contingent on the FB object loading.
-            function fbEnsureInit(callback) {
-                if(!window.fbApiInit) {
-                    setTimeout(function() {fbEnsureInit(callback);}, 50);
-                } else {
-                    if(callback) {
-                        callback();
-                    }
-                }
-            };
-
-            (function(d){
-                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-                js = d.createElement('script'); js.id = id; js.async = true;
-                js.src = "//connect.facebook.net/en_US/all.js";
-                d.getElementsByTagName('head')[0].appendChild(js);
-            }(document));
-        </script>
         
-
-        
-        <!-- IE 7 and up conditional -->
-        <!--[if gte IE 7]>
-        <div id="ie7andup">
-        <![endif]-->
-
-        <!-- IE 7 only conditional -->
-        <!--[if IE 7]>
-        <div id="ie7only">
-        <![endif]-->
-
-        <!-- IE 6 conditional -->
-        <!--[if IE 6]>
-        <div id="ie6only">
-        <![endif]-->
-
-        
-
         <div class="container_12" id="contentWrapper">
+	 
+	
+        
+	
+	<div id="header">
+	    <div class="upper">
+            <div id="headerDropdowns">
             
-            
+<!--                 <select class="countryLinks">
+                </select> -->
 
-
-
-
-
-
-<div id="header">
-<div class="row">
-    <div class="upper">
-        <div id="welcomeBlock">
-            <div class="grid_6">
-                <span id="welcomeMsg">
-                
-                    Welcome to the U.S. News and Panelist Site
-                
-                </span>
             </div>
-            <!-- search_block -->
-            <div class="grid_6">
-                <div id="searchBlock">
-                    <form method="get" action="/search/">
-                        <input name="q" id="searchBox" class="searchBox" type="text" placeholder="Search YouGov Site">
-                        
-                        <input id="btnSearchSubmit" type="image" src="/static/img/search_icon_25x25_inv.a7fd3cd8c491.gif" width="25" height="25" alt="search" title="search">
-                    </form>
-                </div><!-- search_block -->
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div class="lower">
-        <div class="grid_8">
-        <div id="logo">
-            <a href="/" title="YouGov. What the world thinks.">
-                
-                
-                <img id="logoimg" src="/static/img/yglogo.da03bb490104.png">
-                
-                
-            </a>
-        </div>
-        </div>
-        <div class="grid_4">
+	    </div>
+	    <div class="lower">
+    		<div class="logo">
+    		    <a href="/" title="YouGov. What the world thinks.">
+    		    
+    			
+    			<img id="logoimg" src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/logo_yougov2.9e1f9933fe42.png">
+    			
+    		    
+    		    </a>
+    		</div>
             
 
 
 <script id="notLoggedInBlock" type="text/html">
 <div class="loginBox">
         <div class="loginButtons">
-            
-                
-                    <a href="/account/register" class="header-join">Register</a> |
-                
-            
             <a href="/account/login" class="header-login">Login</a>
+            <a href="/account/register" class="header-join">Join YouGov</a>
         </div>
 </div>
 </script>
@@ -359,12 +553,26 @@ $(document).ready( function() {
             <div id="statusOuter">
                 <div id="statusBox">
                     <div id="statusIdentityAndNav">
+                        <div class="points">
+                            <div id="statusPointsTotal"></div><span class="pointsText">Points</span>
+                        </div>
                         <div id="statusIdentity">
-                            Welcome <span class="email">wut@fakeemail.net</span>
-                            <br>
-                            <span class="points">You have
-                            <a href="/account/rewards/" target="_top" id="statusPointsTotal"></a>
-                            points. | </span> <a href="/account/logout/" target="_top">Logout</a>
+                            <span class="email">index</span>
+                            <div class="separator"></div>
+                            <a href="/account/logout/" target="_top">Logout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</script>
+<script id="loggedInBlockMismatch" type="text/html">
+    <div id="statusFrame">
+            <div id="statusOuter">
+                <div id="statusBox">
+                    <div id="statusIdentityAndNav">
+                        <div id="statusIdentity">
+                            <a href="/account/logout/" target="_top">Logout</a>
                         </div>
                     </div>
                 </div>
@@ -391,39 +599,56 @@ function getCookie(c_name)
 $(document).ready(function(){
 
 if(getCookie('yguser')){
-    $.ajax({
-        url: '/api/yguser_data/',
-        dataType: 'json',
-        success: function(data){
-            $('#accountLoginBlock').append($('#loggedInBlock').html());
-            //use the name unless it's empty, then use the email.
-            
-                if(data.name != ''){
-                    var emailName = data.name;
-                }else{
-                    var emailName = data.email;
-                }
-            
-            
-                if(data.points){
-                    $('#accountLoginBlock').find('#statusPointsTotal').text(data.points);
-                }else{
-                    $('#accountLoginBlock').find('.points').remove();
-                }
-            
-            $('#accountLoginBlock').find('.email').html(emailName);
 
-        },
-        error: function(){
-            //show nothing!
-            $.error('User Data did not load.');
-        }
+    // Check YGUser Cookie against YGUser API
+    $(function(){
+        $.ajax({
+            url: "/api/yguser_data/",
+            cache: false,
+            dataType: "json",
+            success: function(data){
+                $.each(document.cookie.split(';'), function(i, val) {
+                    if (val.trim().indexOf('yguser=') === 0 ) {
+                        var yguser_id = document.cookie.split('yguser=')[1].split('&')[0].replace(/"|'/, '');
+                        if (yguser_id == 'id=' + data.panelistid) {
+                            $('#accountLoginBlock').append($('#loggedInBlock').html());
+                            //use the name unless it's empty, then use the email.
+                            
+                                if(data.name != ''){
+                                    var emailName = data.name;
+                                }else{
+                                    var emailName = data.email;
+                                }
+                            
+                            
+                                if(data.points !== "undefined" && data.points !== "0"){
+                                    $('#accountLoginBlock').find('#statusPointsTotal').text(data.points);
+                                }else if (data.points !== "undefined" && data.points === "0") {
+                                    $('#accountLoginBlock').find('#statusPointsTotal').text("0");
+                                } else {
+                                    $('#accountLoginBlock').find('.points').remove();
+                                }
+                            
+                            $('#accountLoginBlock').find('.email').html(emailName);
+                        } else {
+                            $('#accountLoginBlock').html($('#loggedInBlockMismatch').html());
+                        }
+                    }
+                });
+
+
+            },
+            error: function(){
+                $('#accountLoginBlock').html($('#loggedInBlockMismatch').html());
+
+            }
+        });
     });
+
 }else{
     $('#accountLoginBlock').append($('#notLoggedInBlock').html());
 
 }
-
 
 }); //end doc ready
 
@@ -431,48 +656,81 @@ if(getCookie('yguser')){
 <div id="accountLoginBlock">
 </div>
 
-        </div>
-    </div></div>
-</div>
-
-
-<div id="mainNav">
-    <div id="dropnav" class="ygnav">
-        <ul class="mainMenu">
-            
+            <div class="searchAndResearch">
+                <div class="researchJump">
+                
+                    <a class="textLink" href="http://research.yougov.com">Go To Research Services</a>
+                
+                </div>
+                <!-- search_block -->
+                <div id="searchBlock">
+                    <form method="get" action="/search/">
+                        <input name="q" id="searchBox" class="searchBox" type="text" placeholder="Search YouGov">
+                        <input id="btnSearchSubmit" type="image" src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/magnifying-glass.837150a0a045.png" width="16" height="16" alt="search" title="search">
+                    </form>
+                </div><!-- search_block -->
+            </div>
+	    </div>
+	</div>
+	
+	
+	    <div id="mainNav" class="grid_12">
+		<div id="dropnav" class="ygnav">
+		    <ul class="mainMenu">
+			
 
     <li>
-    <a href="/" class="" style="" rel="" target="">Latest Findings</a>
+    
+    <a href="/" class="" style="" rel="" target="">Home</a>
+
+    
+</li>
+
+    <li>
+    
+    <a href="/latest-findings/" class="" style="" rel="" target="">Latest Findings</a>
 
     
     <ul>
         
 
     <li>
-    <a href="/news/categories/model-politics/" class="" style="" rel="" target="">Blog</a>
+    
+    <a href="/modelpolitics" class="" style="" rel="" target="">Blog</a>
 
     
 </li>
 
     <li>
+    
     <a href="/news/categories/life/" class="" style="" rel="" target="">Life</a>
 
     
 </li>
 
     <li>
+    
     <a href="/news/categories/consumer/" class="" style="" rel="" target="">Consumer</a>
 
     
 </li>
 
     <li>
+    
     <a href="/news/categories/politics/" class="" style="" rel="" target="">Politics</a>
 
     
 </li>
 
     <li>
+    
+    <a href="/news/categories/have-your-say/" class="" style="" rel="" target="">Have Your Say</a>
+
+    
+</li>
+
+    <li>
+    
     <a href="/news/" class="" style="" rel="" target="">Archive</a>
 
     
@@ -484,6 +742,7 @@ if(getCookie('yguser')){
 </li>
 
     <li>
+    
     <a href="/account/" class="" style="" rel="" target="">Panel Members</a>
 
     
@@ -491,24 +750,28 @@ if(getCookie('yguser')){
         
 
     <li>
+    
     <a href="/account/" class="" style="" rel="" target="">Activity</a>
 
     
 </li>
 
     <li>
+    
     <a href="/account/rewards/" class="" style="" rel="" target="">Rewards</a>
 
     
 </li>
 
     <li>
+    
     <a href="/account/referral/" class="" style="" rel="" target="">Refer a friend</a>
 
     
 </li>
 
     <li>
+    
     <a href="/account/manage/" class="" style="" rel="" target="">Account</a>
 
     
@@ -520,27 +783,30 @@ if(getCookie('yguser')){
 </li>
 
     <li>
-    <a href="http://research.yougov.com" class="" style="" rel="" target="">Research Services</a>
+    
+    <a href="/opi/profile/" class="" style="" rel="" target="">Opigram</a>
 
     
 </li>
 
 
-        </ul>
-    </div>
-    <div id="headerSocialButtons">
-        <a id="headerJoinFacebookIcon" class="facebook_icon" target="_blank" href="http://www.facebook.com/pages/YouGov/87941536701"></a>
-        <a id="headerJoinTwitterIcon" target="_blank" href="http://twitter.com/YouGovUS"></a>
-        <a id="headerRSSIcon" href="/news/feeds/latest/" type="application/rss+xml" title="YouGov RSS Feed"></a>
-    </div><!-- headerSocialButtons -->
-</div>
+		    </ul>
+            <div id="headerSocialButtons">
+                <a id="headerJoinFacebookIcon" class="facebook_icon" target="_blank" href="http://www.facebook.com/pages/YouGov/87941536701">Find us on Facebook</a>
+                <a id="headerJoinTwitterIcon" target="_blank" href="http://twitter.com/YouGovUS/">Follow us on Twitter</a>
+                <a id="headerRSSIcon" href="/news/feeds/latest/" type="application/atom+xml" title="YouGov RSS Feed">Subscribe to RSS</a>
+            </div><!-- headerSocialButtons -->
+		</div>
 
+		<div id="belowNav">
 
-            
+		</div>
 
-            <div id="main">
-                
-                
+	    </div>
+	
+    <div class="container_12" id="main">
+        
+        
 <div class="container_12 pagecontent _1_block">
 <div class="grid_12">
 <h1>PRIVACY POLICY</h1>
@@ -578,189 +844,210 @@ if(getCookie('yguser')){
 <h2>Data Security and Responsibility</h2>
 <p>Your Personal Information, Demographic Information, and Operating Information will generally be stored in our YouGov databases, which are located in the United States. YouGov uses firewalls to protect information held in our servers, and requires all employees to abide by our Privacy Policy and be subject to disciplinary action if they violate it. YouGov also backs up our systems to protect the integrity of the Personally Identifiable and Personal information we collect.</p>
 <p>Despite our efforts to protect the Personally Identifiable Information and Personal information of our panelists, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of information over the Internet will be intercepted. However, YouGov will always be vigilant in minimizing such risk to the best of our ability.</p>
-
 </div>
 </div>
 
+    </div>
+    <div id="mainBodyContentBottom"></div>
+	        <div class="container_12" id="footer">
+	            
+			    
+
+
+<div id="footerUtilities">
+    <div class="grid_4" id="footerLogo">
+        <a target="_top" href="/" title="YouGov.  What the world thinks.">
+            <img src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/yg_footer_logo.4cc3f089ee75.png" width="279" height="32">
+        </a>
+    </div>
+
+    <div class="grid_4" id="footerInternational">
+      <h5 class="slide"><a href="javscript:void(0);" class="btnSlide">United States</a><span>&nbsp;</span></h5>
+
+    </div> <!-- footerInternational -->
+</div> <!-- end footerUtilities -->
+<div id="panel">
+    <!-- put slider content here -->
+    <div id="panelHeader">
+      <h4>YouGov Global Sites<span class="icon icon-close">close x</span></h4>
+        <div class="hubPanel">
+            
+            <div class="hubBox">
+              <span class="hubName">U.K.</span>
+              
+              <br><a href="http://www.yougov.co.uk/corporate/" rel="footer" target="">Research Services</a>
+              
+              <br><a href="http://labs.yougov.co.uk/" rel="footer" target="">News &amp; Panel</a>
+              
             </div>
-
-        <div class="clear"></div>
-
-        <div id="mainBodyContentBottom"></div>
-        <div class="container_12">
-            
-            <div id="footer">
-                <div id="panel">
-                    <!-- put slider content here -->
-                    <div id="panelHeader">
-                        <h4>YouGov Global Sites</h4>
-                    </div>
-                    <div class="hubPanel">
-                        
-                        <div class="hubBox">
-                          <span class="hubName">U.K.</span>
-                          
-                          <br><a href="http://www.yougov.co.uk/corporate/" rel="footer">Research Services</a>
-                          
-                          <br><a href="http://labs.yougov.co.uk/" rel="footer">News</a>
-                          
-                          <br><a href="http://labs.yougov.co.uk/" rel="footer">Panel</a>
-                          
-                        </div>
-                        
-                        
-                        <div class="hubBox">
-                          <span class="hubName">United States.</span>
-                          
-                          <br><a href="http://research.yougov.com" rel="footer">Research Services</a>
-                          
-                          <br><a href="http://today.yougov.com" rel="footer">News &amp; Panel</a>
-                          
-                        </div>
-                        <div class="clear"></div>
-                        
-                        <div class="hubBox">
-                          <span class="hubName">Middle East &amp; North Africa</span>
-                          
-                          <br><a href="http://corporate.yougovsiraj.com/corporate/" rel="footer">Research Services</a>
-                          
-                          <br><a href="http://my.yougovsiraj.com/" rel="footer">News &amp; Panel</a>
-                          
-                        </div>
-                        
-                        
-                        <div class="hubBox">
-                          <span class="hubName">Germany &amp; Central Europe</span>
-                          
-                          <br><a href="http://research.yougov.de/" rel="footer">Research Services</a>
-                          
-                          <br><a href="http://www.yougov.de" rel="footer">Panel</a>
-                          
-                        </div>
-                        <div class="clear"></div>
-                        
-                        <div class="hubBox">
-                          <span class="hubName">Scandinavia &amp; Northern Europe</span>
-                          
-                          <br><a href="http://www.yougov.dk/" rel="footer">Research Services &amp; Panel</a>
-                          
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-                <div id="footerUtilities">
-                    <div class="grid_4" id="footerLogo">
-                        <a href="/" title="YouGov.  What the world thinks.">
-                            <img src="/static/img/yg_footer_logo.4cc3f089ee75.png" width="279" height="32">
-                        </a>
-                    </div>
-
-                    <div class="grid_4" id="footerInternational">
-                      <h5 class="slide"><a href="javscript:void(0);" class="btnSlide">
-                          United States</a><span>&nbsp;</span></h5>
-
-
-                    </div> <!-- footerInternational -->
-
-                </div> <!-- end footerUtilities -->
-
-                <div class="clear"></div>
-
-                <div id="footerSiteMap">
-                    
-                    <div class="grid_3 alpha" id="col1" "="">
-                            <ul>
-                              <li><h5>Panel Members</h5></li>
-                              
-                              <li><a href="/account" target="_top">My Activity</a></li>
-                              
-                              <li><a href="/learn-more" target="_top">How it Works</a></li>
-                              
-                              <li><a href="/account/register" target="_top">Register</a></li>
-                              
-                              <li><a href="/faq" target="_top">FAQs</a></li>
-                              
-                              <li><a href="/rewards" target="_top">Rewards</a></li>
-                              
-                            </ul>
-                        </div>
-                    
-                    <div class="grid_3 ">
-                            <ul>
-                              <li><h5>Research Practices</h5></li>
-                              
-                              <li><a href="http://research.yougov.com/practices/custom-research/" target="_top">Custom Research</a></li>
-                              
-                              <li><a href="http://research.yougov.com/practices/brandmonitors/" target="_top">Brand Monitors</a></li>
-                              
-                              <li><a href="http://research.yougov.com/practices/market-intelligence/" target="_top">Market Intelligence</a></li>
-                              
-                            </ul>
-                        </div>
-                    
-                    <div class="grid_3 ">
-                            <ul>
-                              <li><h5>Research Products</h5></li>
-                              
-                              <li><a href="http://research.yougov.com/services/brandindex/" target="_top">BrandIndex</a></li>
-                              
-                              <li><a href="http://research.yougov.com/services/hospitalindex/" target="_top">HospitalIndex</a></li>
-                              
-                              <li><a href="http://research.yougov.com/services/omnibus/" target="_top">Omnibus</a></li>
-                              
-                            </ul>
-                        </div>
-                    
-                    <div class="grid_3 omega" id="col4" "="">
-                            <ul>
-                              <li><h5>Corporate</h5></li>
-                              
-                              <li><a href="/about" target="_top">About YouGov</a></li>
-                              
-                              <li><a href="/contact" target="_top">Contact Us</a></li>
-                              
-                              <li><a href="http://www.yougov.co.uk/investor/" target="_top">Investor Relations</a></li>
-                              
-                            </ul>
-                        </div>
-                    
-                </div> <!-- end footerSiteMap -->
-
-                <div class="clear"></div>
-
-                <div id="footerSocialButtons">
-                    <a id="footerJoinFacebook" class="facebook_icon" target="_blank" href="http://www.facebook.com/pages/YouGov/87941536701" title="YouGov on Facebook"></a>
-                    <a id="footerJoinTwitter" target="_blank" href="http://twitter.com/YouGovUS" title="Follow YouGov on Twitter"></a>
-                    <a id="footerRSS" type="application/rss+xml" href="/news/feeds/latest/" target="_blank" title="YouGov RSS Feed"></a>
-                </div> <!-- footerSocialButtons -->
-
-                <div class="clear"></div>
-                <div id="legal">
-                    
-                    Copyright © 2000-2012 YouGov plc. All rights reserved |
-                    
-                    
-                    <a href="/privacy">Privacy Policy</a> |
-                    <a href="mailto:help.us@yougov.com">Site Feedback</a>
-                    
-                </div>
-                </div><!-- end footer -->
             
             
+            <div class="hubBox">
+              <span class="hubName">United States.</span>
+              
+              <br><a href="http://research.yougov.com" rel="footer" target="">Research Services</a>
+              
+              <br><a href="http://today.yougov.com" rel="footer" target="">News &amp; Panel</a>
+              
+            </div>
+            <div class="clear"></div>
+            
+            <div class="hubBox">
+              <span class="hubName">Middle East &amp; North Africa</span>
+              
+              <br><a href="http://corporate.yougovsiraj.com/corporate/" rel="footer" target="">Research Services</a>
+              
+              <br><a href="http://my.yougovsiraj.com/" rel="footer" target="">News &amp; Panel</a>
+              
+            </div>
+            
+            
+            <div class="hubBox">
+              <span class="hubName">Germany &amp; Central Europe</span>
+              
+              <br><a href="http://research.yougov.de/" rel="footer" target="">Research Services</a>
+              
+              <br><a href="http://www.yougov.de" rel="footer" target="">Panel</a>
+              
+            </div>
+            <div class="clear"></div>
+            
+            <div class="hubBox">
+              <span class="hubName">Scandinavia &amp; Northern Europe</span>
+              
+              <br><a href="http://www.yougov.dk/" rel="footer" target="">Research Services &amp; Panel</a>
+              
+            </div>
+            
+            
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+
+<div id="footerSiteMap" class="footerSection">
+    
+<div class="grid_3 alpha" id="col1" "="">
+        <ul>
+          <li><h5>Panel Members</h5></li>
+          
+          <li><a href="/account" target="_top">My Activity</a></li>
+          
+          <li><a href="/learn-more" target="_top">How it Works</a></li>
+          
+          <li><a href="/account/register" target="_top">Register</a></li>
+          
+          <li><a href="/faq" target="_top">FAQs</a></li>
+          
+          <li><a href="/rewards" target="_top">Rewards</a></li>
+          
+        </ul>
+    </div>
+
+<div class="grid_3 ">
+        <ul>
+          <li><h5>Research Practices</h5></li>
+          
+          <li><a href="http://research.yougov.com/practices/custom-research/" target="_top">Custom Research</a></li>
+          
+          <li><a href="http://research.yougov.com/practices/brandmonitors/" target="_top">Brand Monitors</a></li>
+          
+          <li><a href="http://research.yougov.com/practices/market-intelligence/" target="_top">Market Intelligence</a></li>
+          
+        </ul>
+    </div>
+
+<div class="grid_3 ">
+        <ul>
+          <li><h5>Research Products</h5></li>
+          
+          <li><a href="http://research.yougov.com/services/brandindex/" target="_top">BrandIndex</a></li>
+          
+          <li><a href="http://research.yougov.com/services/hospitalindex/" target="_top">HospitalIndex</a></li>
+          
+          <li><a href="http://research.yougov.com/services/omnibus/" target="_top">Omnibus</a></li>
+          
+        </ul>
+    </div>
+
+<div class="grid_3 omega" id="col4" "="">
+        <ul>
+          <li><h5>Corporate</h5></li>
+          
+          <li><a href="/about" target="_top">About YouGov</a></li>
+          
+          <li><a href="/contact" target="_top">Contact Us</a></li>
+          
+          <li><a href="http://www.yougov.co.uk/investor/" target="_top">Investor Relations</a></li>
+          
+        </ul>
+    </div>
+
+</div> <!-- end footerSiteMap -->
+
+<div class="clear"></div>
+
+<div id="footerSocialButtons">
+    <a id="footerJoinFacebook" class="facebookIcon" target="_blank" href="http://www.facebook.com/pages/YouGov/87941536701" title="YouGov on Facebook"></a>
+    <a id="footerJoinTwitter" target="_blank" href="http://twitter.com/YouGovUS/" title="Follow YouGov on Twitter"></a>
+    <a id="footerRSS" href="/news/feeds/latest/" target="_blank" title="YouGov RSS Feed"></a>
+</div> <!-- footerSocialButtons -->
+
+<div class="clear"></div>
+
+<div id="legal">
+    Copyright © 2000-2012 YouGov plc. All rights reserved |
+    YouGov plc is a company registered in England and Wales with company number 03607311
+    <br>
+    <div id="footerLinks">
+        <a target="_top" href="/privacy">Privacy Policy</a> |
+        <a href="mailto:supportuk@yougov.com">Site Feedback</a>
+    
+    </div>
+</div>
+
+<!-- BEGIN CrazyEgg -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8395.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!-- END -->
+
+		    
+		    
+
+	        </div> <!-- end footer -->
+	            
         </div> <!-- end contentWrapper -->
         
 
-        <!-- closing IE 7 and up conditional -->
-        <!-- end IE conditionals -->
-        <!--[if IE]>
-        </div>
-        <![endif]-->
 
-        <div style="display: none;">
-          <img src="https://hummingbird.yougov.com/tracking_pixel.gif">
-        </div>
-
+        
     
 
-</div></body></html>
+
+    
+        <style type="text/css" media="screen, projection">
+            @import url(//asset0.zendesk.com/external/zenbox/v2.1/zenbox.css);
+            #zenbox_tab { top: 45% !important; }
+        </style>
+        <script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js"></script>
+        <script type="text/javascript">
+            if (typeof(Zenbox) !== "undefined") {
+                Zenbox.init({
+                    dropboxID: '20004118',
+                    url: 'https://yougov.zendesk.com',
+                    tabId: 'feedback',
+                    tabText: 'Feedback',
+                    tabColor: '#EF2D27',
+                                        
+                    tabImageURL: '//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/tab_feedback.08e987eef180.png',
+                    
+                    tabPosition: 'Right'
+                });
+            }
+        </script>
+
+</body></html>
