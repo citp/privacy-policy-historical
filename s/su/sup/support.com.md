@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513221946id_/http%3A//www.support.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016124649id_/http%3A//www.support.com/privacy_policy) for the most accurate reproduction.*
 
 # Services Privacy Policy
 
@@ -128,7 +128,7 @@ Your privacy is important to us. As a Better Business Bureau Accredited Business
 In compliance with the Safe Harbor Principles, Support.com commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Support.com at:
 
 Support.com, Inc.  
-1900 Seaport Boulevard  
+900 Chesapeake Drive, 2nd Floor  
 Redwood City, CA 94063  
 Attn: Privacy  
 E-mail: privacy@support.com
