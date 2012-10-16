@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.co.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616055257id_/http%3A//www.livescore.co.uk/soccer/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016233828id_/http%3A//www.livescore.co.uk/soccer/policy) for the most accurate reproduction.*
 
 # LiveScore.com : Privacy Policy
 
