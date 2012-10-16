@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505082412id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016084130id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.*
 
-# Lens.com Ž - Privacy Policy
+# Lens.com ® - Privacy Policy
 
 Our store maintains a strong commitment to your privacy. Lens.com considers the responsible use of personal information to be a critical element in enabling the Internet to reach its potential as a serious tool for personal and professional activities. As the Internet changes our lives in a number of ways, Lens.com is committed to respecting your privacy.
 
@@ -19,3 +19,28 @@ In areas of the Lens.com Web site which may be of particular interest to childre
 If you have any questions or comments about our privacy practices, would like to stop receiving information from Lens.com , or would like to correct or update information provided to Lens.com via its Web site, please contact Lens.com by sending an e-mail.
 
 [More about Corporate Policies](https://web.archive.org/common/faq/corppolicy.asp)
+
+  * #### Money Back Guarantee
+
+If you're not 100% satisfied with your Lens.com purchase, we'll cheerfully refund all your money. Complete Details
+
+  * #### Shop with Confidence
+
+All personal information that you submit is encrypted and secure.
+
+  * We guard your information with the highest level of security tested daily.
+
+  * We accept all major credit cards, checks and money orders - Online 24/7.
+
+  * #### Spam-free Email
+
+All your email preferences can be managed from the 'My Account' tab at the top of the page.
+
+  * #### Your Lenses are Ready
+
+[ ](https://web.archive.org/common/faq/whenreceive.asp "Your Lenses are Ready")
+
+With over 7.5 Million contact lenses in stock, we immediately fill your order with your exact prescription.
+
+
+
