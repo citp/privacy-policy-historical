@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624024345id_/http%3A//www.stratasys.com/Footer/Privacy/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016080110id_/http%3A//www.stratasys.com/Privacy/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Stratasys Inc.
 
