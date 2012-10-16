@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623113224id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016075644id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
 
 # I Heart Chaos — Privacy Policy
 
