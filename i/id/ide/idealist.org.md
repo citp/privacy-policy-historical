@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505074936id_/http%3A//www.idealist.org/info/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016025426id_/http%3A//www.idealist.org/info/About/Privacy) for the most accurate reproduction.*
 
-# Info: Privacy Policy - idealist.org
+# About: Privacy Policy - idealist.org
 
 Date of Last Revision: July 20, 2010
 
