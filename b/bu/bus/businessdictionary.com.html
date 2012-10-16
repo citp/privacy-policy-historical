@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the businessdictionary.com privacy policy that was archived on 2012-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601023543id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businessdictionary.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016222451id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy, Disclaimer and Copyright</title>
@@ -9,7 +9,7 @@
 <meta name="description" content="Here is our privacy policy, disclaimer and copyright information.">
 <meta name="robots" content="all">
 <meta name="y_key" content="c52ed602ee417505">
-<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<meta name="viewport" content="width=device-width">
 <link rel="stylesheet" type="text/css" href="/min/?g=commoncss">
 <link rel="stylesheet" type="text/css" href="/min/?g=termcss">
 <style type="text/css" title="currentStyle" media="print">/*<![CDATA[*/	@import "/css/print.css";/*]]>*/</style>
@@ -91,17 +91,22 @@ var Tynt=Tynt||[];Tynt.push('aJsFhgTg0r35Sladbi-bpO');Tynt.i={"ap":"Read more:"}
 <a class="spbg adj-menu menu_3" href="http://www.businessdictionary.com/terms-by-subject.php">Browse by subject</a>
 <a class="spbg adj-menu menu_4" href="http://www.businessdictionary.com/most-popular-terms.php">Most Popular</a>
 <a class="spbg adj-menu menu_5" href="http://www.businessdictionary.com/term-of-day.php">Term of the Day</a>
-<a class="spbg adj-menu menu_6" href="http://jobs.businessdictionary.com/a/jobs/find-jobs/q-account">Jobs</a>
+<a class="spbg adj-menu menu_6" href="http://jobs.businessdictionary.com/a/jobs/find-jobs/q-analyst">Jobs</a>
 </div>
 </div>
 <div id="newsearch" class="">
 <div id="navbox">
 <div class="search-form-new">
-<form id="sf" name="sf" action="http://www.businessdictionary.com/search-terms.php" method="get">
-<div style="float:left"><input type="text" value="" class="newinputbox" tabindex="-1" onblur="filter_inactive(this);" onclick="filter_active(this);" onkeydown="filter_active(this);" id="q" name="q" autocomplete="off"></div>
+<form id="sf" name="sf" action="http://www.businessdictionary.com/search.php" method="get">
+<div style="float:left"><input type="text" value="" class="newinputbox" tabindex="-1" id="q" name="q" autocomplete="off"></div>
 <div style="float:left;"><input type="submit" class="spbg newsearchbtn" value=""></div>
+<input type="hidden" name="cx" value="002109824679542468969:ntvpz2hrzm0">
+<input type="hidden" name="cof" value="FORID:9">
+<input type="hidden" name="ie" value="UTF-8">
 <div style="display:none" id="search-noredirect-wrap"></div>
 </form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/t13n?form=cse-search-box&amp;t13n_langs=en"></script>
+<script type="text/javascript" language="javascript">DefValue("q", "Enter a word or phrase...");</script>
 </div>
 </div>
 <div id="searchbar-sponsor">
@@ -205,7 +210,7 @@ Browse by Letter:
 </div>
 <div id="f-r">
 <div class="footer-title">Company</div>
-<a href="http://www.businessdictionary.com/advertising.php">Advertise with Us</a><br>
+<a href="http://www.businessdictionary.com/advertise.php" target="_blank">Advertise with Us</a><br>
 <a href="http://www.businessdictionary.com/aboutus.php">About us</a><br>
 <a href="http://www.webfinanceinc.com/careers/">Careers</a><br>
 <a href="http://www.businessdictionary.com/contact.php">Contact Us</a>
@@ -223,7 +228,12 @@ Copyright©2012 WebFinance, Inc. All Rights Reserved.<br> Unauthorized duplicati
 <!-- Footer Starts Ends-->
 </div><!-- all div ends-->
 <!--All Js for BD -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/toast.js"></script>
 <script type="text/javascript" src="/min/g=termjs"></script>
+<script>
+InsertPrevNextButton(prev_page_link,prev_page_term,next_page_link,next_page_term);
+</script>
 <!--All Js for BD -->
 <!-- search suggestions js -->
 <script type="text/javascript">
@@ -262,7 +272,7 @@ t.value = t.value;
 t.value = t.value;
 }
 var suggestion = new CSuggestion('q');
-suggestion.init({ searchUrl: 'http://www.businessdictionary.com/search.php', searchKey: 'search', searchTarget: '_self', requestUrl: 'http://www.businessdictionary.com/search.php?mode=get_words&search=' });
+suggestion.init({ searchUrl: 'http://www.businessdictionary.com/search_suggest.php', searchKey: 'search', searchTarget: '_self', requestUrl: 'http://www.businessdictionary.com/search_suggest.php?mode=get_words&search=' });
 document.onkeyup = suggestion.handleArrowKeys.bind(suggestion);
 document.forms['sf'].onsubmit = suggestion.formSubmit.bind(suggestion);
 </script>
@@ -290,24 +300,7 @@ var pageTracker = _gat._getTracker("UA-292384-4");
 pageTracker._trackPageview();
 pageTracker._trackPageLoadTime();
 } catch(err) {}</script>
-<script>
-InsertPrevNextButton(prev_page_link,prev_page_term,next_page_link,next_page_term);
-</script>
 <!--End Google Analytics Code-->
-<style>
-.black_overlay {
-display: none;
-position: absolute;
-top: 0%;
-left: 0%;
-width: 100%;
-height: 100%;
-background: #333;
-z-index: 1001;
--moz-opacity: 0.8;
-opacity: .80;
-filter: alpha(opacity=80);</style>
-<div class="black_overlay"></div>
 
 
 </body></html>
