@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524205622id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016053018id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | BNY Mellon
 
@@ -11,16 +11,6 @@ BNY Mellon appreciates your concerns about the privacy of personal information t
 ### Privacy of Information Given by You
 
 If you do provide personal information about yourself, such as name, address or telephone numbers, we will endeavor to maintain that information in accordance with our internal policies governing use and disclosure of confidential information. We may disclose that information within our corporate enterprise. We may also disclose that information to unaffiliated third parties in order to respond to your inquiries, to provide services to you, to provide you with information concerning products and services that we offer, or to prevent or investigate fraud, illegal activity or misuse of this Web site. We may also disclose that information to unaffiliated third parties for other purposes if we have notified you in advance and you have not objected, you have requested or authorized us to do so, or we are required to do so by law.
-
-### Use of Cookies
-
-Cookies are small pieces of information that are passed through a browser and stored on your hard drive for later retrieval. The use of cookies is a common practice on the Internet. Many Web sites use cookies to personalize customer experience and most browsers are automatically set up to accept cookies. You may choose to reject cookies by changing designated settings on your Web browser. BNY Mellon uses cookies to provide better service, track usage of its Web site and to address security hazards. We also may use cookies for some administrative purposes, such as storing your preferences for certain kinds of information or to remember a password so that you do not have to input it every time you visit our site.
-
-### Use of Action Tags
-
-When you utilize the Web site, we may receive certain non-personally identifiable information about your use of the Web site. Such information is collected passively using various technologies, including, without limitation, action tags, and is anonymous and used in aggregrate.
-
-We may use third party advertising companies to serve ads on our behalf across the Internet and to measure and track the effectiveness of such ads. These companies employ cookie and Web Beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads and to determine click through rates for our advertising. To do so, these companies may use information about your visits to our Web site. These technologies do not collect personally identifiable information ("PII"). In addition, the data collected is not linked with any information you may voluntarily provide in your visit to our Web site.
 
 ### Coverage of This Policy
 
@@ -40,5 +30,10 @@ We may share Social Security numbers among our affiliated companies or with nona
 
 We may share Social Security numbers among our affiliated companies for marketing purposes, but only in compliance with legal restrictions, including required opportunities to opt out of such sharing. We do not, without consent of the individual involved, share Social Security numbers with parties not affiliated with us to enable them to market their own products or services.
 
-  
-The above information is effective December 13, 2011. Any changes to our policy will be reflected in this location.
+## Information Collected Through Cookies and Similar Technologies
+
+An IP address is a unique identifier for a device on the internet. We may use your IP address to diagnose problems with our servers, to understand the geographical location of our visitors and to enhance our Websites.
+
+Third party sites: Our Websites may contain links to third party sites (including social media bookmarking buttons). Please review the Cookie and privacy policies of these sites to understand how they may use Cookies and your information.
+
+For more information please view our [Cookie policy](https://web.archive.org/privacy/cookies.html).
