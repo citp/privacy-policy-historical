@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetollroads.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510055921id_/https%3A//www.thetollroads.com/communications/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetollroads.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016162205id_/https%3A//www.thetollroads.com/communications/privacypolicy.php) for the most accurate reproduction.*
 
 # TheTollRoads.com | Privacy Policy
 
@@ -52,7 +52,7 @@ We may use anything we know about you to help us serve you better. We only use i
 
 You may review or request changes to your personal information by accessing your FasTrak® account information [online](https://www.thetollroads.com/customer) or you may call (949) 727-4800 during normal business hours. 
 
-**About The Toll Roads Privacy Policy** and how we will notify you of any material changes in our Privacy Policy: 
+**About The Toll Roads Privacy Policy** and how we will notify you of any material changes in our Privacy Policy:
 
 The Toll Roads Privacy Policy may be accessed on any page of thetollroads.com website. We reserve the right to modify this Privacy Policy at any time. If we make material changes to this policy, we will notify our customers and users via email, mail or by means of a notice on our website. Please revisit this website for the most recent Privacy Policy.
 
