@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlinesoccermanager.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025715id_/http%3A//www.onlinesoccermanager.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesoccermanager.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016204811id_/http%3A//www.onlinesoccermanager.com/Privacy) for the most accurate reproduction.*
 
 # Online Soccer Manager Mobile
 
 **Gamebasics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Online Soccer Manager](https://web.archive.org/). 
 
-We can be reached via e-mail at [info@gamebasics.nl](https://web.archive.org/web/20120504025715id_/http%3A//www.onlinesoccermanager.com/info@gamebasics.nl) if you have any questions regarding our policies outlined below. Please be aware that we cannot 100% guarantee these policies, although we do our very best to abide by the policies which we have outlined. 
+We can be reached via e-mail at [info@gamebasics.nl](https://web.archive.org/web/20121016204811id_/http%3A//www.onlinesoccermanager.com/info@gamebasics.nl) if you have any questions regarding our policies outlined below. Please be aware that we cannot 100% guarantee these policies, although we do our very best to abide by the policies which we have outlined. 
 
 The information we collect is used for internal review and is then discarded. It is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, and never shared with other organizations for commercial purposes. 
 
