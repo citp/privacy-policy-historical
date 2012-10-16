@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textlinkbrokers.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608062915id_/http%3A//www.textlinkbrokers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textlinkbrokers.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016102232id_/http%3A//www.textlinkbrokers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
