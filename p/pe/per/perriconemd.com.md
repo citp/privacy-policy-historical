@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225141359id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016080420id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Perricone MD
+# Privacy Policy - Perricone MD
 
-Perricone MD ("we" or "us") is the sole owner of the information collected on this website. We collect personally identifiable information from our users at several different points on our site to process your order and fulfill your customer service needs. 
-
+|  |    
+Perricone MD ("we" or "us") is the sole owner of the information collected on this website. We collect personally identifiable information from our users at several different points on our site to process your order and fulfill your customer service needs.   
+  
 We are committed to respecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. We will not sell or disclose any information that identifies you to a third party if requested. In addition, when you place an order with Perricone MD your personal information and credit card information are safe. Please read on for more details about our privacy policy.
 
 By using our site, you agree to the terms of this privacy policy.
@@ -47,3 +48,12 @@ Children under 13 may view our site, but they cannot make a purchase, nor provid
 ## Changes to the Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of the change. We reserve the right to modify this privacy statement at any time, so please review it frequently. 
+
+## Contact Us
+
+If you have any questions regarding the use of our site or our privacy policy, please contact us at:   
+N.V. Perricone LLC  
+639 Research Parkway  
+Meriden, CT 06450   
+1.888.823.7837   
+---|---
