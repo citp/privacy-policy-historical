@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brucelee.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629180442id_/http%3A//www.brucelee.com/index.cfm/page/privacypolicy/cdid/10291) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brucelee.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016152618id_/http%3A//www.brucelee.com/index.cfm/page/privacypolicy/cdid/10291) for the most accurate reproduction.*
 
 # The Official Bruce Lee site | Bruce Lee Clothing | Enter The Dragon Movie | Jeet Kune Do | Bruce Lee Blog | Bruce Lee News
 
