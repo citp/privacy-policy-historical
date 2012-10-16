@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606131550id_/http%3A//www.liberty.co.uk/PrivacyPolicy/article/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016084150id_/http%3A//www.liberty.co.uk/PrivacyPolicy/article/fcp-content) for the most accurate reproduction.*
 
 # Liberty - Article
 
