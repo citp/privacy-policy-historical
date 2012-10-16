@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626140509id_/http%3A//www.karoo.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016135955id_/http%3A//www.karoo.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Karoo - Privacy Policy
 
