@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoreseller.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512030633id_/http%3A//www.seoreseller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoreseller.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016172915id_/http%3A//www.seoreseller.com/privacy-policy) for the most accurate reproduction.*
 
 # Reseller SEO Privacy Policy Details | seoreseller.com
 
