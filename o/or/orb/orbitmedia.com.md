@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orbitmedia.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509172049id_/http%3A//www.orbitmedia.com/privacy-policy-pages-20.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitmedia.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016064416id_/http%3A//www.orbitmedia.com/privacy-policy-pages-20.php) for the most accurate reproduction.*
 
-# Privacy Policy | Orbit Media Studios
+# Privacy Policy | Orbit Media
 
 By accessing or using the Orbit Media Studios, Inc. Web site, you agree to the terms of this Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.
 
