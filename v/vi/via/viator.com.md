@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605205305id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016092250id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -107,7 +107,7 @@ However, no data transmission over the Internet or data storage environment can 
 
 We know that our business will continue to evolve as we introduce new products, and, as such, from time to time this Privacy Policy may be reviewed and revised.
 
-Viator reserves the right to change this Privacy Policy by posting the changes on its website. You can determine when this Privacy Policy by reviewing the " _LAST UPDATED_ " legend below.
+Viator reserves the right to change this Privacy Policy by posting the changes on its website. You can determine when this Privacy Policy was last updated by reviewing the " _LAST UPDATED_ " legend below.
 
 ### Contacting Us
 
@@ -115,4 +115,4 @@ For some Viator services you can access and update your registration and Persona
 
 To correct or update any other Personal Information, or if you have questions about Viator's Privacy Policy, please email our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
 
-**_LAST UPDATED:_** November 30, 2011
+**_LAST UPDATED:_** July 11, 2012
