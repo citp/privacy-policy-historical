@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415034421id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016052457id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # WebYield Privacy Statement
 
 [ ](http://www.webyield.net/) | 
 
-Domain names only $9.99 
+Domain names only $8.99 
 
 Search by domain, keyword, or phrase
 
-| [Login](https://web.archive.org/login.html) | [Sign up](https://web.archive.org/register.html)  
+|   
 ---|---|---  
   
 WebYield Privacy Policy  
@@ -90,12 +90,8 @@ If we make material changes to this Policy, we will notify you here, by email, o
 
 **Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please [Contact us](https://web.archive.org/web/20120415034421id_/http%3A//www.webyield.net/contact.html)
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please [Contact us](https://web.archive.org/web/20121016052457id_/http%3A//www.webyield.net/contact.html)
 
 * * *
 
 WebYield
-
-[](http://www.facebook.com/pages/WebYield/143745329004601)  [](http://twitter.com/webyield)
-
-Copyright © 1998-2012 WebYield.net
