@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609133618id_/http%3A//www.ghanasoccernet.com%3Fpage_id%3D4839) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016080054id_/http%3A//ghanasoccernet.com%3Fpage_id%3D4839) for the most accurate reproduction.*
 
 # Privacy Policy - GHANAsoccernet.com - Latest Football News, Football Headlines, Live Scores, Results, Fixtures | GHANAsoccernet.com brings to you the latest news on Ghana soccer, soccer, Ghana league, league Sunday, England league, league fantasy, Spain league, Italy league, France league, Nigeria league, Germany league, Egypt league, fantasy football, English football, English football league, football, world football, football news, etc.
 
@@ -50,7 +50,7 @@ We collect non-personal information and data through the standard operation of o
 Links to Other Sites  
 Our site contains links to other sites outside of our control. We are not responsible for the content of those websites.
 
- **Privacy** ******Policy** **– Yardbarker** **  
+**Privacy** ******Policy** **– Yardbarker** **  
 ** Ghanasoccernet.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.  
 This Privacy Policy covers Ghanasoccernet.com ‘s treatment of personal information that Ghanasoccernet.com gathers when you are on the Ghanasoccernet.com website and when you use Ghanasoccernet.com services. This policy does not apply to the practices of third parties that Ghanasoccernet.com does not own or control, or to individuals that Ghanasoccernet.com does not employ or manage.  
 **Information Collected by** **Ghanasoccernet.com**  
