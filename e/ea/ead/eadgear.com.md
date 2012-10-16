@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eadgear.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528180826id_/http%3A//www.eadgear.com/index-6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eadgear.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016082006id_/http%3A//www.eadgear.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - eAdGear - Web Design and SEO Company, Website Design, Website Design for Pleasanton, Dublin, Livermore, Danville, San Ramon, Tri-Valley, Walnut Creek, Concord, Fremont, San Leandro, Hayward, Castro Valley, Pleasant Hill, California,CA, East Bay
 
