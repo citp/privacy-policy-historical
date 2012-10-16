@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ubuntugeek.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512133237id_/http%3A//www.ubuntugeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntugeek.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016020221id_/http%3A//www.ubuntugeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubuntu Geek
-
-Share
-
-{lang: 'en-GB'}
 
 **Privacy Policy for ubuntugeek.com**
 
@@ -29,5 +25,20 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+#### Incoming search terms:
+
+  * [ubuntu privacy policy](http://www.ubuntugeek.com/privacy-policy "ubuntu privacy policy")
+  * [does ubunte tracks website](http://www.ubuntugeek.com/privacy-policy "does ubunte tracks website")
+  * [ubuntu track websites used on server](http://www.ubuntugeek.com/privacy-policy "ubuntu track websites used on server")
+  * [ubuntu privacy terms](http://www.ubuntugeek.com/privacy-policy "ubuntu privacy terms")
+  * [ubuntu log all visited websites#hl=it](http://www.ubuntugeek.com/privacy-policy "ubuntu log all visited websites#hl=it")
+  * [targeted ads in ubuntu](http://www.ubuntugeek.com/privacy-policy "targeted ads in ubuntu")
+  * [silagra generic viagra cialis cumwithuscom](http://www.ubuntugeek.com/privacy-policy "silagra generic viagra cialis cumwithuscom")
+  * [search ubuntu privacy](http://www.ubuntugeek.com/privacy-policy "search ubuntu privacy")
+  * [privacy policy ubuntu](http://www.ubuntugeek.com/privacy-policy "privacy policy ubuntu")
+  * [logging sites visited ubuntu server](http://www.ubuntugeek.com/privacy-policy "logging sites visited ubuntu server")
+
+
 
 #### Related posts
