@@ -1,69 +1,85 @@
-> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217144017id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016064300id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
 
-# 
+# videorevolver.com | Privacy Policy
 
-It’s important to VideoRevolver.com to help our customers retain their privacy when they take advantage of all the Internet has to offer.
+**Policies and Procedures**
 
-We believe your business is no one else’s. Your privacy is important to you and to us. So we’ll protect the information you share with us. To protect your privacy, VideoRevolver.com follows different principles in accordance with worldwide practices for customer privacy and data protection.
+Privacy Policy – VideoRevolver.com  
+(Last Updated: March 18th, 2012)
 
-We won’t sell or give away your name, mail address, phone number, email address or any other information to anyone. We’ll use state-of-the-art security measures to protect your information from unauthorized users.
+VideoRevolver.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-**What information do we collect?**
+“You” or “Your” means you as a participant in or as a user of the VideoRevolver.com website. “We” or “Our” or “Us” means VideoRevolver.com. “Our site” means VideoRevolver.com.
 
-We collect information from you when you place an order or fill out a form.
+All information transmitted, printed or otherwise submitted to VideoRevolver.com via this website shall be deemed to be the property of VideoRevolver.com and VideoRevolver.com shall be free to use such information for any lawful purpose as detailed herein.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously.
+This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
 
-**What do we use your information for?**
+We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
 
-Any of the information we collect from you may be used in one of the following ways:
+**Section 1: Collected Information**  
+We automatically collect and/or track the following:
 
-To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+1\. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);  
+2\. Information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;  
+3\. Information, user specific or aggregate, on what pages our visitors access; and  
+4\. E-mail addresses of visitors that communicate with VideoRevolver.com via e-mail.
 
-To process transactions
+**Section 2: Use of Data Collected**  
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**Section 3: Disclosure of Data to Third Parties**  
+If you choose to provide personal information, it will be used for the following purposes:
 
-**How do we protect your information?**
+1\. Considering you for a VideoRevolver.com product;  
+2\. As required by law; and  
+3\. For marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
+**Section 4: Your Opt-Out Rights**  
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: support@VideoRevolver.com
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+**Section 5: We Do Not Intend to Collect Data from Children**  
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside VideoRevolver.com. No part of VideoRevolver.com’s web site is structured to attract anyone under the age of 18.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+**Section 6: Our Right to Contact You**  
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
 
-**Do we use cookies?**
+**Section 7: Our Right to Change**  
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
-We do not use cookies.
+**Section 8: Our Contact Information**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: support@VideoRevolver.com.
 
-**Do we disclose any information to outside parties?**
+**Section 9: Anti Spam Policy. Can-Spam Act Compliance**  
+VideoRevolver.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from VideoRevolver.com in the following circumstances:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+1\. Acknowledging your application has been received and requesting additional action  
+2\. Requests for additional information to support your current application  
+3\. Response to your inquiries regarding the status of your transactional requests  
+4\. Thanking you for your valued business  
+5\. Advertisements for our products, services, changes in services, new product availability  
+6\. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
 
-**California Online Privacy Protection Act Compliance**
+To ensure compliance with the Can-Spam Act, VideoRevolver.com has implemented the following guidelines for email delivery:
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+1\. All emails sent to you by VideoRevolver.com will clearly identify VideoRevolver.com as the sender. FROM / SENDER: someone@VideoRevolver.com or someone@IMRevolver.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @VideoRevolver.com or @IMRevolver.com).  
+2\. The Subject Line of any email you receive will always accurately describe the subject matter of the email.  
+3\. Any email from VideoRevolver.com will include the ability to unsubscribe from future email messages.  
+4\. Unsubscribing will ensure the customer is removed from ALL lists at VideoRevolver.com; this excludes customer service emails regarding the processing and status of a current product.  
+5\. All emails sent to you directly by VideoRevolver.com include valid postal address information in the footer.  
+6\. All third party marketing partners are required to comply with the Can-Spam Act.  
+7\. Emails sent to you directly by VideoRevolver.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Section 10: Information for ISPs**  
+Web site: VideoRevolver.com  
+Email Address: support@VideoRevolver.com
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+VideoRevolver.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. VideoRevolver.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. VideoRevolver.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
 
-**Online Privacy Policy Only**
+From time to time, VideoRevolver.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+1\. that the data was collected voluntarily from individuals on website registrations and co-registrations,  
+2\. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and  
+3\. that VideoRevolver.com has the right to send marketing offers to the individuals.
 
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at Terms Of Use.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us by visiting our contact page.
+We hope this information satisfies any questions or concerns you may have regarding the email practices of VideoRevolver.com. If you have additional questions or wish to discuss this matter further, please contact us at: support@VideoRevolver.com.
