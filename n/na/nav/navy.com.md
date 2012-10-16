@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navy.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510003412id_/http%3A//www.navy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navy.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016182957id_/http%3A//www.navy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Navy.com
 
@@ -61,3 +61,5 @@ You acknowledge and agree that the SMS Service is provided via wireless systems 
 You can opt-out of our text message program at anytime by replying STOP to any message to opt out.
 
 Our text messaging service supports the following carriers: Alltel, AT&T, Cincinnati Bell Wireless, Nextel, nTelos, Sprint, T-Mobile, US Cellular and Verizon Wireless. For help or more information about our text message (SMS) service please contact our customer support team at 1-800-USA-NAVY or email: [webadmin@cnrc.navy.mil](mailto:webadmin@cnrc.navy.mil).
+
+## Contact
