@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the commercialguru.com.sg privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623180300id_/http%3A//www.commercialguru.com.sg/customer-service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commercialguru.com.sg privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016154839id_/http%3A//www.commercialguru.com.sg/customer-service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://sg-ssl.effectivemeasure.net/em.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
@@ -10,10 +10,12 @@
 <link rel="SHORTCUT ICON" href="/images/cg/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/search.xml" title="CommercialGuru Search">
 
-<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/commercial/styles.css?190612" type="text/css">
-<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/lib.css?190612" type="text/css">
-<script type="text/javascript" src="http://cdn-sg1.pgimgs.com/jsprod/jquery.js?190612"></script>
-<script type="text/javascript" src="http://cdn-sg1.pgimgs.com/jsprod/uilib.js?190612"></script>
+<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/commercial/styles.css?101012_15" type="text/css">
+<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/propertyguru/static.css?101012_15" type="text/css">
+<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/propertyguru/sg.css?101012_15" type="text/css">
+<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/lib.css?101012_15" type="text/css">
+<script type="text/javascript" src="http://cdn-sg1.pgimgs.com/jsprod/jquery.js?101012_15"></script>
+<script type="text/javascript" src="http://cdn-sg1.pgimgs.com/jsprod/uilib.js?101012_15"></script>
 
 
 
@@ -24,7 +26,7 @@
 
 
 
-<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/commercial/sectionpage.css?190612" type="text/css">
+<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/commercial/sectionpage.css?101012_15" type="text/css">
 <script type="text/javascript">
 jQuery(function($) {
 	if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
@@ -42,7 +44,7 @@ jQuery(function($) {
 
 <script type="text/javascript">
 <!--
-var GMAP_KEY = "ABQIAAAAW5Jm6vbiPbTj5Ap1mWRO-hSqb-so3wfTqhqlmcYZiMW6_ScO-RTEqdtpOPS083DrRSIhBI74lcrS3g";
+var GMAP_KEY = "AIzaSyCkhda2zZktt2xbqBvBRjvjNcJxyig9WEY";
 var REGION = "SG";
 //-->
 </script>
@@ -102,10 +104,28 @@ _gaq.push(['guru._trackPageLoadTime']);
             <script type="text/javascript">
 <!--
 
+function validate_form_keywords(frm){
+	var q = $.trim(frm.q.value);
+	if( q == '' || q == 'Enter your search keywords' ){
+		frm.q.value = '';
+		return false;
+	}
+	else{
+		frm.q.value = q;
+		return true;
+	}
+}
+
 $(document).ready(function() {
 	$('#search_q').click(function() {
 		if ($('#search_q').val() == 'Enter your search keywords') {
 			$('#search_q').val('');
+		}
+	});
+
+	$('#search_q').live('keyup', function(e) {
+		if (e.which == 13) {
+			$(this).parents('form:eq(0)').submit();
 		}
 	});
 });
@@ -121,7 +141,8 @@ $(document).ready(function() {
 
         <div id="headerright">
             <div id="headsearchbar" style="_margin-left: 150px">
-            	            	            	<a href="/register" rel="nofollow"><span class="lightbluelink">FREE Sign Up</span></a>&nbsp;|&nbsp;
+            	            	<a href="http://www.propertyguru.com.sg/mobile" target="_blank">Mobile Apps</a>&nbsp;|&nbsp;
+            	            	<a href="/register" rel="nofollow"><span class="lightbluelink">FREE Sign Up</span></a>&nbsp;|&nbsp;
             	<a href="javascript:openCgLoginDialog('http://www.commercialguru.com.sg/customer-service/privacy')" rel="nofollow">Log in</a> |
 				                
 				<a href="/agents" title="Real Estate &amp; Property Agents Singapore">Property Agents</a>&nbsp;|&nbsp;
@@ -144,9 +165,9 @@ $(document).ready(function() {
 			});
 			
 			</script>
-                <form id="simplesearchform" method="get" action="/search">
+                <form id="simplesearchform" method="get" action="/search" onsubmit="return validate_form_keywords(this);">
                  <fieldset>
-				    <input id="search_q" name="q" class="searchinputbox" type="text" value="" title="Please enter search key words">
+				    <input id="search_q" name="q" class="searchinputbox" type="text" value="" title="Enter your search keywords">
 				    <select name="search_select" id="search_select" class="searchformselect">
                         <option class="searchoptionText" value="all">in CommercialGuru</option>
                         <option class="searchoptionText" value="2">Building Directory</option>
@@ -289,13 +310,13 @@ $(document).ready(function() {
 <div class="clearboth"></div>				
 	<div class="clearboth"></div>
 	<div align="center"><script type="text/javascript">
-if(typeof GA_googleFillSlot == 'function')
+if (typeof GA_googleFillSlot == 'function')
 GA_googleFillSlot('');
 </script>
 <div class="clearboth top10"></div>
 </div>
-					<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/cms.css?190612" type="text/css">
-<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/commercial/news.css?190612" type="text/css">
+					<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/cms.css?101012_15" type="text/css">
+<link rel="stylesheet" href="http://cdn-sg1.pgimgs.com/cssprod/commercial/news.css?101012_15" type="text/css">
 <!--RESOURCES details begin-->
 	<div id="pageheader"><h1 class="pagetitle">Privacy Policy</h1></div>
 <div class="clearboth"></div>
@@ -386,7 +407,7 @@ your personal data, please write to us using the feedback form. <br> <br>  This 
 
 	<div class="clearboth"></div>
 	<script type="text/javascript">
-if(typeof GA_googleFillSlot == 'function')
+if (typeof GA_googleFillSlot == 'function')
 GA_googleFillSlot('');
 </script>
 <div class="clearboth top10"></div>
@@ -500,6 +521,6 @@ GA_googleFillSlot('');
 </div> 
 
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","b84826e362",398224,"b1NaMEYAXxIEUkAPXFYZexFHFV4MSnJbCEdKWVQIURNuIghCdxNATFlVAUYyVBMTWFcD",0,72,new Date().getTime()]);</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","b84826e362",398224,"b1NaMEYAXxIEUkAPXFYZexFHFV4MSnJbCEdKWVQIURNuIghCdxNATFlVAUYyVBMTWFcD",0,90,new Date().getTime()]);</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum-staging.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
