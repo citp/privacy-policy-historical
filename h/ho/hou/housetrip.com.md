@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512080953id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017002009id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
 
 # HouseTrip.com: Privacy policy
 
@@ -6,7 +6,7 @@ We at HouseTrip Limited ("We") understand that making purchases online involves 
 
 This policy (together with our [Terms of Use](https://web.archive.org/en/about/terms_and_conditions "Opens internal link in current window") and [Booking Terms](https://web.archive.org/en/about/booking_terms "Opens internal link in current window") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is HouseTrip Limited of 17-18 Haywards Place, London EC1R 0EQ, United Kingdom. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is HouseTrip Limited of 5th & 6th Floor, Corinthian House, 279 Tottenham Court Road, London W1T 7RJ, United Kingdom. 
 
 ###### Information we may collect from you
 
@@ -125,7 +125,11 @@ kvcd
 
 These cookies are used to collect information about how visitors use our site. We use the information to compile internal user conversion and site features usage statistics.
 
-  |     
+  | 
+
+ [Click here](http://www.kissmetrics.com/privacy "Opens external link in new window") for an overview of privacy at KISSmetrics.
+
+   
   
 Marin
 
@@ -137,7 +141,11 @@ _msuuid
 
 This cookie is used to collect information about how visitors use our site. We use the information for advertising management across third party websites and to produce internal  conversion statistics.
 
-  |     
+  | 
+
+[Click here](http://www.marinsoftware.co.uk/marin-software-privacy-policy "Opens external link in new window") for an overview of privacy at Marin.
+
+   
   
 Amazon AWS
 
@@ -282,7 +290,6 @@ This cookie is needed for the ‘like’ buttons to function on the site.
 [Click here](http://www.facebook.com/about/privacy/ "Opens external link in new window") for an overview of privacy at Facebook
 
    
-  |    |    |     
   
 Adyen
 
@@ -298,9 +305,19 @@ hppsession
 
 This cookie is essential for our payment services provider to track  payments made via our site
 
-  |     
+  | 
+
+ [Click here](http://www.adyen.com/ "Opens external link in new window") for more information about Adyen.
+
+   
   
-You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
+You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site. 
+
+Behavioural  Advertising 
+
+Some advertisers use cookies to provide you with targeted advertising. For example, advertisers may use a profile based on which sites you have visited to present you with  advertisements relevant to you. If you are based in the European Union and would like to learn about these types of cookies and how to opt-out, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). If you are based in the USA, please visit <http://www.aboutads.info/choices/>. 
+
+The above websites are external websites and we are not responsible for their content.
 
 ###### Where We Store Your Personal Data
 
