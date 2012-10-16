@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the dropcam.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512054024id_/https%3A//www.dropcam.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dropcam.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016193555id_/https%3A//www.dropcam.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  
+  <meta http-equiv="X-UA-Compatible" content="chrome=1,requiresActiveX=true">
   
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Privacy policy | Dropcam</title>
   <meta name="description" content="Privacy policy for Dropcam Wi-Fi internet IP cameras and related online recording and storage service.">
-  <link rel="stylesheet" href="/css/screen.css?120509201442" type="text/css" media="screen, projection">
-  <link rel="stylesheet" href="/css/print.css?120509201442" type="text/css" media="print">
-  <!--[if lt IE 8]><link href="/css/ie.css?120509201442" media="screen, projection" rel="stylesheet" type="text/css"><![endif]-->
-  <link href="/css/global2.css?120509201455" rel="stylesheet" type="text/css">
-  <link href="/css/global_hd.css?120509201455" media="screen" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/screen.css?0910ab7871" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="/css/print.css?8ab634d755" type="text/css" media="print">
+  <!--[if lt IE 8]><link href="/css/ie.css?60914bd8f2" media="screen, projection" rel="stylesheet" type="text/css"><![endif]-->
+  <link rel="stylesheet" type="text/css" href="/css/fancybox/jquery.fancybox-1.3.4.css">
+  <link href="/css/dc.css?9193b32445" rel="stylesheet" type="text/css">
   <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/10ebbb0fd5dc556362dfcb2d0187d77f8cd71a78.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="https://use.typekit.com/iwx5iel.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
@@ -20,6 +21,8 @@
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-7798973-1']);
+      _gaq.push(['_setDomainName', 'dropcam.com']);
+      _gaq.push(['_setAllowLinker', true]);
 
         _gaq.push(['_trackPageview']);
 
@@ -34,6 +37,9 @@
     <meta property="og:image" content="https://www.dropcam.com/images/base2/Dropcam_Hero_oblique.png">
     <meta property="og:url" content="https://www.dropcam.com/">
   
+  
+    <meta name="apple-itunes-app" content="app-id=351175162">
+  
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body id="privacy">
@@ -41,7 +47,7 @@
   
   <script type="text/javascript">var _kiq = _kiq || [];</script>
     <script type="text/javascript" src="//s3.amazonaws.com/ki.js/12742/2hw.js" async="true"></script>
-    <script type="text/javascript" charset="utf-8">
+    <script type="text/javascript">
       _kiq.push(['identify', 'None-None']);
     </script>
   
@@ -211,13 +217,13 @@ December 12, 2011: changing format to improve readability<br>
       <li><a href="/how">How Dropcam HD Works</a></li>
       <li><a href="/plans">DVR Plans</a></li>
       <li><a href="/demo">Dropcam HD Demo</a></li>
-      <li><a href="specs">Specifications</a></li>
+      <li><a href="/specs">Specifications</a></li>
     </ul>
     <ul>
       <li><strong>Need Help?</strong></li>
-      <li><a href="/support/faq">Frequently Asked Questions</a></li>
+      <li><a href="/support/faq" target="_blank">Frequently Asked Questions</a></li>
       <li><a href="/help/troubleshoot">Troubleshooting Guide</a></li>
-      <li><a href="/support/faq">Contact Support</a></li>
+      <li><a href="/support/faq" target="_blank">Contact Support</a></li>
     </ul>
   </div>
 
@@ -280,10 +286,7 @@ December 12, 2011: changing format to improve readability<br>
 
 
   
-  <script type="text/javascript" src="/js/jquery-1.5.2.min.js?120509201452"></script>
-  <script type="text/javascript" src="/js/require.js?120509201455"></script>
-  <script type="text/javascript" src="/js/util.js?120509201455"></script>
-
+  <script type="text/javascript" src="/js/dc.min.js?0728aac03a"></script>
   <script type="text/javascript">
       window.onerror = function(message, url, line) {
         var params = {message:message, url:url, line:line, user_agent:navigator.userAgent};
@@ -314,7 +317,10 @@ December 12, 2011: changing format to improve readability<br>
         zenbox_params.tag = "dropbox";
         zenbox_params.url = "dropcam.zendesk.com";
 
-        DC.util.getScript('//assets0.zendesk.com/external/zenbox/overlay.js', function() {
+        var $style = $('<link />').attr('type', 'text/css').attr('rel', 'stylesheet').attr('href', '//assets0.zendesk.com/external/zenbox/overlay.css');
+        $('head').append($style);
+
+        require(['//assets0.zendesk.com/external/zenbox/overlay.js'], function() {
           Zenbox.show();
         });
 
@@ -323,7 +329,6 @@ December 12, 2011: changing format to improve readability<br>
       });
     </script>
     <style type="text/css">
-      @import url('//assets0.zendesk.com/external/zenbox/overlay.css');
       a#zenbox_tab {
         display: none;
       }
@@ -348,8 +353,10 @@ December 12, 2011: changing format to improve readability<br>
     }());
     </script>
 
+
   </div>
     
+
     
       
       <script type="text/javascript">
@@ -365,7 +372,14 @@ December 12, 2011: changing format to improve readability<br>
       <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
     
 
-<!--www1.dropcam.com,a5c33692601e6548703b82fdec8dc136998984a1-->
+    
+    
+
+<!--www4.dropcam.com,742f57f65d28547e4d14d917d61e8763dd7c24bd 2012.10.15 21:58:42-->
+
+
+
+
 
 
 
