@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505135219id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016140144id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
 
 # Privacy - JobAdder
 
