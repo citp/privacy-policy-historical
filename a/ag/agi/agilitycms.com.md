@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429162807id_/http%3A//www.agilitycms.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016022159id_/http%3A//www.agilitycms.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Cloud CMS for Agencies and Publishers - Privacy Policy
+# Cloud Content Management System (CMS) for Media Sites and Corporate Sites
 
 Your privacy is critically important to us. At Agility CMS (“ **Agility** ”) we have a few fundamental principles:
 
@@ -46,8 +46,8 @@ Agility discloses potentially personal and personal information only to those of
 
 **Privacy Policy Changes**
 
-Agility may change its Privacy Policy from time to time, and in Agility’s sole discretion.  If we do, and you are a registered user of our websites. If you have an agilitycms.com/contentmanager.agilitycms.com account, we will email you at the email address you have registered with us. Agility encourages other visitors to frequently check this page for any changes to its Privacy Policy.  
+Agility may change its Privacy Policy from time to time, and in Agility’s sole discretion.  If we do, and you are a registered user of our websites. If you have an agilitycms.com/contentmanager.agilitycms.com account, we will email you at the email address you have registered with us. Agility encourages other visitors to frequently check this page for any changes to its Privacy Policy  
 
 **Change log:**
 
-Created March 11th, 2011
+Created March 11th, 2011.
