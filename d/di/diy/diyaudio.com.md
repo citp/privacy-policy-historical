@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyaudio.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228015828id_/http%3A//www.diyaudio.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyaudio.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016190300id_/http%3A//www.diyaudio.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # diyAudio - Privacy Policy
 
@@ -71,7 +71,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.diyaudio.com/index.php?pageid=tos](https://web.archive.org/web/20111228015828id_/http%3A//www.diyaudio.com/index.php?pageid=tos)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.diyaudio.com/index.php?pageid=tos](https://web.archive.org/web/20121016190300id_/http%3A//www.diyaudio.com/index.php?pageid=tos)
 
  **Your Consent**
 
