@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the room77.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529170806id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the room77.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016022741id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.*
 
 # Room 77 Privacy Policy
 
@@ -17,6 +17,8 @@ Room 77 uses your personal information for the following purposes: To verify you
 #### Information Sharing and Disclosure
 
 Room 77 does not rent, sell, or share personal information about you with other people or companies except (i) to provide products or services you have requested including, without limitation, products and services from third parties, (ii) when we have your permission, or (iii) under the following circumstances: Room 77 may use third party vendors to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfill its contract; In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Room 77 's Terms of Service, or as otherwise required by law; We may transfer information about you if Room 77 is acquired by or merged with another company. In this event, Room 77 will notify you by sending a notice to the email address specified in your Room 77 account before information about you becomes subject to a different privacy policy.
+
+From time to time, we also may share general information about our Site, users, and visitors such as the number of visitors, aggregate and/or non-personally identifiable demographic and travel data, etc., with third parties.
 
 #### Cookies
 
