@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elitedeals.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603031353id_/http%3A//www.elitedeals.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitedeals.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016065237id_/http%3A//www.elitedeals.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, orderingsystem, and order data. Yahoo! automatically collects order information butmay only use this information in the aggregate. If you accessed this storethrough Yahoo! Shopping, Yahoo! also automatically collects informationabout your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for moreinformation about how Yahoo! uses this information._
 
  ** _EliteDeals.com Privacy Policy_**
 
