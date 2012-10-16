@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowusa.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040011id_/http%3A//www.yellowusa.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowusa.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016060115id_/http%3A//www.yellowusa.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # YellowUSA.com Privacy Policy
 
