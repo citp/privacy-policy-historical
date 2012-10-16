@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630014228id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016123911id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
