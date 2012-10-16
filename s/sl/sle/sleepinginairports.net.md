@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepinginairports.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513035833id_/http%3A//www.sleepinginairports.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepinginairports.net privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016064450id_/http%3A//www.sleepinginairports.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ At www.sleepinginairports.net, the privacy of our visitors is of extreme importa
 
 #### Member Registration
 
-In order to leave a review or become a site member, users must register a user name and email address on the site. www.sleepinginairports.net does not sell the email address or use it to send out email messages other than confirmation of the user's review acceptance on the web site. Users have the option to opt out of any future email correspondence from www.sleepinginairports.net by logging into their account, selecting the "Edit Profile" tab and then selecting "No" beside the question "Do you wish to be notified of any new features regarding the site?". To delete your user account entirely from the system, please send your request to email editor@sleepinginairports.com.
+In order to leave a review or become a site member, users must register a user name and email address on the site. www.sleepinginairports.net does not sell the email address or use it to send out email messages other than confirmation of the user's review acceptance on the web site. Users have the option to opt out of any future email correspondence from www.sleepinginairports.net by logging into their account, selecting the "Edit Profile" tab and then selecting "No" beside the question "Do you wish to be notified of any new features regarding the site?". To delete your user account entirely from the system, please send your request to email editor@sleepinginairports.com indicating your user name and email address registered on the site.
 
 #### Log Files
 
