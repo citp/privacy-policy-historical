@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the proxb.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629220332id_/http%3A//www.freeproxy.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxb.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016182200id_/http%3A//www.freeproxy.net/privacy.php) for the most accurate reproduction.*
 
 # Free Proxy
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which ProxyRod collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.freeproxy.net](https://web.archive.org/web/20120629220332id_/http%3A//www.freeproxy.net/www.freeproxy.net) website ("Site"). This privacy policy applies to the Site and all products and services offered by ProxyRod.
+This Privacy Policy governs the manner in which ProxyRod collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.freeproxy.net](https://web.archive.org/web/20121016182200id_/http%3A//www.freeproxy.net/www.freeproxy.net) website ("Site"). This privacy policy applies to the Site and all products and services offered by ProxyRod.
 
 **Personal identification information**
 
@@ -55,13 +55,13 @@ ProxyRod has the discretion to update this privacy policy at any time. When we d
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20120629220332id_/http%3A//www.freeproxy.net/www.freeproxy.net/terms.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20121016182200id_/http%3A//www.freeproxy.net/www.freeproxy.net/terms.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 ProxyRod  
-[Free Proxy](https://web.archive.org/web/20120629220332id_/http%3A//www.freeproxy.net/www.freeproxy.net)  
+[Free Proxy](https://web.archive.org/web/20121016182200id_/http%3A//www.freeproxy.net/www.freeproxy.net)  
 P.O. Box 33623 Decatur, Georgia 30033 USA  
 6785512630  
 proxyrod@yahoo.com
