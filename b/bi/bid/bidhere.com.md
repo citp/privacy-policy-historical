@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423091752id_/http%3A//www.bidhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017015137id_/http%3A//www.bidhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy – BidHere
-
-Buy Now Shop is Coming Soon! 
-
-Close X 
-
-Soon you will be able to buy products directly through BidHere's Buy Now Shop with cash or loyalty points that you have earned. 
-
-Ok 
-
-Marketplace is Coming Soon! 
-
-Close X 
-
-Ok 
-
-## Online auctions
-
-Close Login 
-
-Login Here 
 
 What information do we collect?
 
@@ -129,7 +109,7 @@ USA
 
 EIN: 27-3530607
 
-info@bidhere.com
+info@bidhere.com 
 
 Privacy Policy Customer Pledge
 
