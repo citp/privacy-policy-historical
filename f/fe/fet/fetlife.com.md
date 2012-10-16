@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614090446id_/https%3A//fetlife.com/fetlife/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016060924id_/https%3A//fetlife.com/fetlife/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FetLife
 
