@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202011id_/http%3A//privacy-policy.truste.com/verified-policy/www.flexjobs.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016170308id_/http%3A//privacy-policy.truste.com/verified-policy/www.flexjobs.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.flexjobs.com
 
 Effective on November 10, 2010 
 
-This privacy statement describes how FlexJobs collects and uses the personal information you provide on our Web site: [www.flexjobs.com ](https://www.flexjobs.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how FlexJobs collects and uses the personal information you provide on our Web site: [www.flexjobs.com ](http://www.flexjobs.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
