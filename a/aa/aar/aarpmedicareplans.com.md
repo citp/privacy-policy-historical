@@ -1,13 +1,20 @@
-> *The following text is extracted and transformed from the aarpmedicareplans.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510000417id_/https%3A//www.aarpmedicareplans.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpmedicareplans.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016095835id_/https%3A//www.aarpmedicareplans.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+**HIPAA Notice of Privacy Practice:** To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act (“HIPAA”), please click here, which links to our HIPAA Notice of Privacy Practices.
+
+**Social Security Number Protection Policy:** Protecting personal information is important to UnitedHealthcare. It is the policy of UnitedHealthcare and its current and future affiliates to protect the confidentiality of Social Security numbers (“SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
+
+### Website Privacy Policy
+
 Introduction  
-UnitedHealthcare® is very sensitive to privacy issues. The purpose of this Internet Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages. 
+We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages. 
 
-This Internet Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Internet Privacy Policy, terms such as “we” or “our” refers to UnitedHealthcare® and its current and future affiliate entities. 
+This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as “we” or “our” and “Company” refer to UnitedHealthcare and its current and future affiliate entities. 
 
-  * Health and medical information
+This site is intended for a United States audience. If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.
+
   * Cookies and non-personal information
   * With whom is non-personal information shared?
   * Personal information provided by you
@@ -18,21 +25,15 @@ This Internet Privacy Policy does not apply to information collected through oth
   * Information for children under 13
   * Contact us
   * Effective date
-  * Changes to this privacy policy
+  * Changes to this website privacy policy
 
 
-
-### Health and medical information
-
-Certain health and medical information about you is protected under the Health Insurance Portability and Accountability Act (“HIPAA”). Health and medical information protected under HIPAA may be provided by you on-line or off-line, or may be collected by us from other methods such as from a health care provider. We protect covered health and medical information as required by HIPAA. Similarly, we may use covered health and medical information as permitted by HIPAA. 
-
-To read more about our privacy practices regarding health and medical information under HIPAA please Click here. In the event of any conflict between the requirements and/or permitted uses of covered health and medical information under our HIPAA Notice of Privacy Practices and this Internet Privacy Policy, the terms of our HIPAA Notice of Privacy Practices shall control. 
 
 ### Cookies and non-personal information
 
-“Non-personal information” means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, address, or telephone number. UnitedHealthcare uses “cookie” technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website. 
+“Non-personal information” means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. The Company uses “cookie” technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website. 
 
-You may disable these cookies by adjusting your browser preferences on your computer at any time, however this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include: 
+You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include:
 
   * Tracking resources and data accessed on the site.
   * Recording general site statistics and activity.
@@ -50,10 +51,11 @@ Because non-personal information does not identify who you are, we do not limit 
 
 ### Personal information provided by you
 
-“Personal information”means information that specifically identifies you as an individual, such as your full name, telephone number, email address, postal address, or certain account numbers. As used in this Internet Privacy Policy, personal information does not include information protected under HIPAA, which is protected as described in the section “Medical and Health Information” above.   
-This website may include web pages that give you the opportunity to provide us with personal information about yourself. **You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website**. 
+“Personal information”means information that specifically identifies you as an individual, such as your full name, telephone number, email address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals.
 
-We may combine personal information that you provide us through this website with other personal information held by UnitedHealthcare, our affiliates, or our vendors. For example, if you have purchased a product or services from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.  
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. **You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information**.
+
+We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.  
 
 
 We may use personal information for a number of purposes such as:
@@ -64,24 +66,28 @@ We may use personal information for a number of purposes such as:
   * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.
   * To comply with applicable laws, regulations, and legal process.
   * To protect someone's health, safety, or welfare.
-  * To protect our rights or take appropriate legal action, such as to enforce our Terms of Use.
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.
   * To keep a record of our transactions and communications.
   * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
 
 
 
+You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number.
+
 ### With whom is personal information shared?
 
-We will only share your personal information with third parties as permitted by this Privacy Policy (in its current or future form) and as otherwise permitted by law.   
-We share and give access to personal information to our employees and agents in the course of operating our business. For example, if you sent us an email asking a question, we would provide your email address to one of our employees or agents, along with your question, in order for that person to reply to your email. We may share personal information with other UnitedHealthcare parent, subsidiary, or affiliate businesses 
+We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.   
+We share and give access to personal information to our employees and agents in the course of operating our business. For example, if you sent us an email asking a question, we would provide your email address to one of our employees or agents, along with your question, in order for that person to reply to your email. We may share personal information with other affiliates or business units within the Company.
 
-We also share and give access to personal information with other companies that we hire or collaborate with to perform services or functions on our behalf. For example, we may hire an outside company to help us send and manage email, and in that case we might provide the outside company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers. 
+We also share and give access to personal information with other companies that we hire to perform services on our behalf or collaborate with. For example, we may hire an outside company to help us send and manage email, and in that case we might provide the outside company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers and software applications. 
 
-However, if we share or give access to information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the email in the example above. If you believe we or any company associated with UnitedHealthcare has misused any of your information please contact us immediately and report such misuse. 
+However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the email in the example above. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse. 
 
-We may share personal information if all or part of UnitedHealthcare is sold, merged, dissolved, acquired, or in a similar transaction. 
+We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction. 
 
-We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules or engage in behavior that is harmful to other visitors or is illegal. 
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal. 
+
+If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
 
 ### Reviewing my information
 
@@ -89,15 +95,15 @@ This website may permit you to view your visitor profile and related personal in
 
 ### Website and information security
 
-We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. 
+We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and online communications, however, we can not guarantee that any information transmitted online will remain absolutely confidential, and we are not liable for the illegal acts of third parties such as criminal hackers.
 
 ### Our online communication practices
 
-General email communications  
-Most email, including the email functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your email communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use email. We may send email communications to you related to general health benefits, website updates, health conditions and general health topics. 
+**General email communications**  
+Most email, including the email functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your email communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use email. We may send email communications to you regarding topics such as general health benefits, website updates, health conditions, and general health topics. 
 
-Other online communications  
-UnitedHealthcare sends electronic newsletters, notification of account status, and other communications such as information marketing other UnitedHealthcare products or services, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication. 
+**Other online communications**  
+The Company sends electronic newsletters, notification of account status, and other communications such as information marketing other products or services offered by us, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication. 
 
 ### Information for children under 13
 
@@ -105,21 +111,15 @@ We will not intentionally collect any personal information from children under t
 
 ### Contact us
 
-[View contact information for UnitedHealthcare](https://web.archive.org/contact-us). 
+To contact us regarding this Website Privacy Policy and our related privacy practices, please contact us at: [https://www.aarpmedicareplans.com/contact-us](https://web.archive.org/contact-us).
 
 ### Effective date
 
-The Effective Date of this Privacy Policy is January 1, 2006. 
+The Effective Date of this Privacy Policy is August 6, 2012. 
 
-### Changes to this Privacy Policy
+### Changes to this Website Privacy Policy
 
-We may change this Privacy Policy or our terms of use from time to time. If we do so such change will appear on this page of our website or in another location as indicated by UnitedHealthcare. It is your responsibility to review the Privacy Policy when you use this website. By continuing to use this website you consent to any changes to our Privacy Policy or terms of use. 
-
-*As used in this Internet Privacy Policy, UnitedHealthcare, “we,” “us,” “our,” or similar terms includes all UnitedHealthcare entities and any affiliates or subsidiaries and all such entities we acquire in the future, including but not limited to the following: All Savers Insurance Company; AmeriChoice of New Jersey, Inc.; AmeriChoice of New York, Inc.; AmeriChoice of Pennsylvania, Inc.; Arizona Physicians IPA, Inc.; Dental Benefit Providers of California, Inc.; Dental Benefit Providers of Illinois, Inc.; Dental Benefit Providers of Maryland, Inc.; Dental Benefit Providers of New Jersey, Inc.; Evercare of Arizona, Inc.; Evercare of Texas, L.L.C.; Fidelity Insurance Company; Golden Rule Insurance Company; Great Lakes Health Plan, Inc.; MAMSI Life and Health Insurance Company; MD-Individual Practice Association, Inc.; Midwest Security Life Insurance Company; Optimum Choice, Inc.; Optimum Choice of the Carolinas, Inc.; Rooney Life Insurance Company; Spectera, Inc.; Spectera Eyecare of North Carolina, Inc.; Spectera Vision, Inc.; Spectera Vision Services of California, Inc.; Unimerica Insurance Company; Unimerica Life Insurance Company of New York; United Behavioral Health; UnitedHealthcare of Alabama, Inc.; UnitedHealthcare of Arizona, Inc.; UnitedHealthcare of Arkansas, Inc.; UnitedHealthcare of Colorado, Inc.; UnitedHealthcare of Florida, Inc.; UnitedHealthcare of Georgia, Inc.; UnitedHealthcare of Illinois, Inc.; UnitedHealthcare of Kentucky, Ltd.; UnitedHealthcare of Louisiana, Inc.; UnitedHealthcare of the Mid-Atlantic, Inc.; UnitedHealthcare of the Midlands, Inc.; UnitedHealthcare of the Midwest, Inc.; UnitedHealthcare of Mississippi, Inc.; UnitedHealthcare of New England, Inc.; UnitedHealthcare of New Jersey, Inc.; UnitedHealthcare of New York, Inc.; UnitedHealthcare of North Carolina, Inc.; UnitedHealthcare of Ohio, Inc.; UnitedHealthcare of Tennessee, Inc.; UnitedHealthcare of Texas, Inc.; UnitedHealthcare of Utah; UnitedHealthcare of Wisconsin, Inc.; UnitedHealthcare Insurance Company; UnitedHealthcare Insurance Company of Illinois; UnitedHealthcare Insurance Company of New York; UnitedHealthcare Insurance Company of Ohio; and U.S. Behavioral Health Plan, California.
-
-### Internal protection of information within UnitedHealth Group
-
-UnitedHealth Group collects and maintains oral, written and electronic information to administer our business and to provide products, services and information of importance to our enrollees. We provide physical, electronic and procedural security safeguards in the handling and maintenance of our enrollees' information to protect against risks such as loss, destruction or misuse. We conduct regular audits to guarantee appropriate and secure handling and processing of our enrollees' information. 
+We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy. 
 
 ### HEALTH PLAN NOTICES OF PRIVACY PRACTICES
 
@@ -134,7 +134,7 @@ The terms “information” or “health information” in this notice include a
 
 We have the right to change our privacy practices and the terms of this notice. If we make a material change to our privacy practices, we will provide to you a revised notice by direct mail or electronically as permitted by applicable law. In all cases, we will post the revised notice on your health plan website, ****.   We reserve the right to make any revised or changed notice effective for information we already have and for information that we receive in the future. 
 
-1This Medical Information Notice of Privacy Practices applies to the following health plans that are affiliated with UnitedHealth Group:  All Savers Insurance Company; All Savers Life Insurance Company of California; American Medical Security Life Insurance Company; AmeriChoice of Connecticut, Inc.; AmeriChoice of Georgia, Inc.; AmeriChoice of New Jersey, Inc.; AmeriChoice of Pennsylvania, Inc.; Arizona Physicians IPA, Inc.; Dental Benefit Providers of California, Inc.; Dental Benefit Providers of Illinois, Inc.; Evercare of Arizona, Inc.; Evercare of New Mexico, Inc.; Evercare of Texas, LLC; Golden Rule Insurance Company; Great Lakes Health Plan, Inc.; Health Plan of Nevada, Inc.; MAMSI Life and Health Insurance Company; MD - Individual Practice Assocation, Inc.; Midwest Security Life Insurance Company; National Pacific Dental, Inc.; Neighborhood Health Partnership, Inc.; Nevada Pacific Dental; Optimum Choice, Inc.; Oxford Health Insurance, Inc.; Oxford Health Plans (CT), Inc.; Oxford Health Plans (NJ), Inc.; Oxford Health Plans (NY), Inc.; PacifiCare Dental; PacifiCare Dental of Colorado, Inc.; PacifiCare Life and Health Insurance Company; PacifiCare Life Assurance Company; PacifiCare of Arizona, Inc.; PacifiCare of California; PacifiCare of Colorado, Inc.; PacifiCare of Nevada, Inc.; PacifiCare of Oklahoma, Inc.; PacifiCare of Oregon, Inc.; PacifiCare of Texas, Inc.; PacifiCare of Washington, Inc.; Sierra Health & Life Insurance Co., Inc.; U.S. Behavioral Health Plan, California; Unimerica Insurance Company; Unimerica Life Insurance Company of New York; Unison Family Health Plan of Pennsylvania, Inc.; Unison Health Plan of Delaware, Inc.; Unison Health Plan of Pennsylvania, Inc.; Unison Health Plan of South Carolina, Inc.; Unison Health Plan of Tennessee, Inc.; Unison Health Plan of the Capital Area, Inc.; United Behavioral Health; UnitedHealthcare Community Plan of OH, Inc.; UnitedHealthcare Insurance Company; UnitedHealthcare Insurance Company of Illinois; UnitedHealthcare Insurance Company of New York; UnitedHealthcare Insurance Company of the River Valley; UnitedHealthcare Insurance Company of Ohio; UnitedHealthcare of Alabama, Inc.; UnitedHealthcare of Arizona, Inc.; UnitedHealthcare of Arkansas, Inc.; UnitedHealthcare of Colorado, Inc.; UnitedHealthcare of Florida, Inc.; UnitedHealthcare of Georgia, Inc.; UnitedHealthcare of Illinois, Inc.; UnitedHealthcare of Kentucky, Ltd.; UnitedHealthcare of Louisiana, Inc.; UnitedHealthcare of Mid-Atlantic, Inc.; UnitedHealthcare of the Midlands, Inc.; UnitedHealthcare of the Midwest, Inc.; United HealthCare of Mississippi, Inc.; UnitedHealthcare of New England, Inc.; UnitedHealthcare of New York, Inc.; UnitedHealthcare of North Carolina, Inc.; UnitedHealthcare of Ohio, Inc.; UnitedHealthcare of Tennessee, Inc.; UnitedHealthcare of Texas, Inc.; UnitedHealthcare of Utah, Inc.; UnitedHealthcare of Wisconsin, Inc.; UnitedHealthcare Plan of the River Valley, Inc.
+1This Medical Information Notice of Privacy Practices applies to the following health plans that are affiliated with UnitedHealth Group:  All Savers Insurance Company; All Savers Life Insurance Company of California; American Medical Security Life Insurance Company; AmeriChoice of Connecticut, Inc.; AmeriChoice of Georgia, Inc.; AmeriChoice of New Jersey, Inc.; AmeriChoice of Pennsylvania, Inc.; Arizona Physicians IPA, Inc.; Citrus Health Care, Inc.; Dental Benefit Providers of California, Inc.; Dental Benefit Providers of Illinois, Inc.; Evercare of Arizona, Inc.; Evercare of New Mexico, Inc.; Evercare of Texas, LLC; Golden Rule Insurance Company; Health Plan of Nevada, Inc.; MAMSI Life and Health Insurance Company; MD - Individual Practice Assocation, Inc.; Midwest Security Life Insurance Company; National Pacific Dental, Inc.; Neighborhood Health Partnership, Inc.; Nevada Pacific Dental; Optimum Choice, Inc.; Oxford Health Insurance, Inc.; Oxford Health Plans (CT), Inc.; Oxford Health Plans (NJ), Inc.; Oxford Health Plans (NY), Inc.; PacifiCare Dental; PacifiCare Dental of Colorado, Inc.; PacifiCare Life and Health Insurance Company; PacifiCare Life Assurance Company; PacifiCare of Arizona, Inc.; PacifiCare of Colorado, Inc.; PacifiCare of Nevada, Inc.; Physicians Health Choice of Texas, LLC.; Sierra Health & Life Insurance Co., Inc.; UHC of California; U.S. Behavioral Health Plan, California; Unimerica Insurance Company; Unimerica Life Insurance Company of New York; Unison Family Health Plan of Pennsylvania, Inc.; Unison Health Plan of Delaware, Inc.; Unison Health Plan of Pennsylvania, Inc.; Unison Health Plan of South Carolina, Inc.; Unison Health Plan of Tennessee, Inc.; Unison Health Plan of the Capital Area, Inc.; United Behavioral Health; UnitedHealthcare Community Plan of OH, Inc.; UnitedHealthcare Insurance Company; UnitedHealthcare Insurance Company of Illinois; UnitedHealthcare Insurance Company of New York; UnitedHealthcare Insurance Company of the River Valley; UnitedHealthcare Insurance Company of Ohio; UnitedHealthcare of Alabama, Inc.; UnitedHealthcare of Arizona, Inc.; UnitedHealthcare of Arkansas, Inc.; UnitedHealthcare Benefits of Texas, Inc.; UnitedHealthcare of Colorado, Inc.; UnitedHealthcare of Florida, Inc.; UnitedHealthcare of Georgia, Inc.; UnitedHealthcare of the Great Lakes Health Plan, Inc.; UnitedHealthcare of Illinois, Inc.; UnitedHealthcare of Kentucky, Ltd.; UnitedHealthcare of Louisiana, Inc.; UnitedHealthcare of Mid-Atlantic, Inc.; UnitedHealthcare of the Midlands, Inc.; UnitedHealthcare of the Midwest, Inc.; United HealthCare of Mississippi, Inc.; UnitedHealthcare of New England, Inc.; UnitedHealthcare of New York, Inc.; UnitedHealthcare of North Carolina, Inc.; UnitedHealthcare of Ohio, Inc.; UnitedHealthcare of Oklahoma, Inc.; UnitedHealthcare of Oregon, Inc.; UnitedHealthcare of Pennsylvania, Inc.; UnitedHealthcare of South Carolina, Inc.; UnitedHealthcare of Tennessee, Inc.; UnitedHealthcare of Texas, Inc.; UnitedHealthcare of Utah, Inc.; UnitedHealthcare of Washington, Inc.; UnitedHealthcare of Wisconsin, Inc.; UnitedHealthcare Plan of the River Valley, Inc.
 
 ### How we use or disclose information
 
