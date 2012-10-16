@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2011-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110701070040id_/http%3A//www.rankranger.com%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016045833id_/http%3A//www.rankranger.com%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# SEO Software | Keyword Rank Monitoring and Website Reports | Rank Ranger
+# Rank Ranger | Ranking Reports | SEO Software | 30 Days Free Trial
 
 We understand that privacy online is very important to users of Rank Ranger ("Site") Site, especially when conducting business and collecting. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site ("Authorized Customers") and make use of the various services offered by Rank Ranger (collectively, "Services"). 
 
@@ -12,9 +12,9 @@ We may collect basic user profile information from all Visitors. We collect the 
 
 **What organizations are collecting the information?**
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. 
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information provided to them from Visitors and Authorized Customers. 
 
-How does the Site use Personally Identifiable Information?
+**How does the Site use Personally Identifiable Information?**
 
 We use Personally Identifiable Information to customize the Site and to fulfill buying and selling requests on the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
@@ -38,13 +38,9 @@ Cookies are used for a variety of reasons. We use Cookies to obtain information 
 
 Rank Ranger uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**
+**Disclosure of Personally Identifiable Information to comply with law.**
 
-Rank Ranger has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.
-
-**Our privacy policy does not cover their collection or use of this information.**
-
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
 
 **How does the Site keep Personally Identifiable Information secure?**
 
