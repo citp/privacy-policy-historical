@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 5pmweb.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512001746id_/http%3A//www.5pmweb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5pmweb.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016122548id_/http%3A//www.5pmweb.com/privacy.php) for the most accurate reproduction.*
 
 # 5pm - project management on time. Privacy Policy.
 
-**Last updated: September 7, 2010**
+**Last updated: May 18, 2012**
 
-The www.5pmweb.com and www.theoworlds.com web site(s) are maintained by the Disarea LLC. Our address is P.O. Box 181167, Fairfield, OH 45018, USA. Our data collection and use policies with respect to the site are set forth in this statement. By using these sites, you signify your acceptance of this policy.
+www.5pmweb.com website is maintained by Disarea LLC. Our address is: P.O. Box 488, Wake Forest, NC, 27588, USA. Our data collection and use policies with respect to the site are set forth in this statement. By using these sites, you signify your acceptance of this policy.
 
 Disarea LLC is committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our Web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. This policy applies only to users accessing our Web site from the United States.
 
