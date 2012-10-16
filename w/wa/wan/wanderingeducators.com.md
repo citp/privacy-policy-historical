@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderingeducators.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511013750id_/http%3A//www.wanderingeducators.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingeducators.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016140220id_/http%3A//www.wanderingeducators.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Wandering Educators
 
