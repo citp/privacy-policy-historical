@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604010520id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016125754id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.*
 
-# YouGov US Opinion Center
+# YouGov US Panel Privacy Policy
 
 Effective as of March 1, 2011.
 
