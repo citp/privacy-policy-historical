@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510093658id_/http%3A//www.directsattv.com/directv/privacylegal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016062053id_/http%3A//www.directsattv.com/directv/privacylegal.html) for the most accurate reproduction.*
 
 # Direct TV Phone Number, 888-357-3163 - DIRECT SAT TV
 
+  
   
 
 
@@ -32,6 +33,3 @@ By submitting a quote “inquiry” on DirectSatTV.com, who affirmatively types 
 
 Aggregate information about web site visitors:  
 We create aggregate reports of visitors to our web sites in order to measure the performance of our web sites. DIRECT SAT TV is operated by [Trident Marketing](http://www.tridentmarketing.com/).
-
-ADDITIONAL OFFER DETAILS  
-
