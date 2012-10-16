@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the room77.com privacy policy that was archived on 2012-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529170806id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the room77.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016022741id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <link rel="icon" type="image/png" href="/images/icons/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Room 77 Privacy Policy</title>
     <meta name="description" content="Room 77 takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to this site.">
     <meta name="keywords" content="Room 77 privacy policy">
 
-    <link href="/min/min_1337979952_roomnav.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/min/min_1337979952_roomnav.js"></script>
+    <link href="/min/min_1350353255_generic.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/min/min_1350353255_generic.js"></script>
 
     <link href="/css/web/inside_page.css" rel="stylesheet" type="text/css" media="all">
     <!--[if gte IE 7]>
@@ -27,95 +28,50 @@
       });
     </script>
     <script type="text/javascript">
-  function _gaq_push(category, action, value) {
-    _gaq.push(['_trackEvent', category, action, value]);
-    // logging on our own
-    $.ajax({
-      method: 'POST',
-      dataType: 'json',
-      url: '/ajax/log_mongo.php',
-      data: {
-        category: category,
-        action: action,
-        value: value,
-        url: window.location.href
-      },
-      success: function(data) {
-        // do nothing
-      },
-      error: function (xhr, textStatus, thrownError) {
-        // ignore errors
-      }
-    });
-  }
-
-  function _gaq_ecommerce(p) {
-    _gaq.push(["_addTrans",
-      "" + p.conf_id,     // order ID - required
-      "Room 77",          // affilication or store name
-      "" + p.total,       // total - required
-      "" + p.tax,         // tax
-      "" + 0,             // shipping
-      "" + p.city,        // city
-      "" + p.state,       // state or province
-      "" + p.country      // country
-    ]);
-
-    _gaq.push(["_addItem",
-      "" + p.conf_id,     // order ID - required
-      "" + p.hid,         // SKU/code - required
-      "" + p.hotel_name,  // product name
-      "" + p.category,    // category or variation
-      "" + p.total_per_room_before_tax, // unit prce - required
-      "" + p.rooms        // quantity - required
-    ]);
-
-    _gaq.push(["_trackTrans"]);
-  }
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-21206990-1']);
   
-  
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script></head>
 <body>
   
-<div id="support_dialog" style="display:none;" title="Room 77 Support">
-  <iframe src="https://room77.zendesk.com/account/dropboxes/20058631?x=1" width="600" height="640" frameborder="0" scrolling="no"></iframe>
-</div>
-<script>
-	$(function() {
-    $('#support_dialog').dialog({
-      autoOpen: false,
-      width: 640,
-      height: 690,
-      resizable: false,
-      dialogClass: 'support_dia',
-      modal: true
-    });
-	});
-	</script>
+      <div id="support_dialog" style="display:none;padding-top:10px;height:700px !important;" title="Room 77 Support">
+      </div>
 
-<div class="user_links">
-  <div class="ninesixty">
-    We search, you save -- on over 200,000 hotels worldwide.
-    <span style="display:inline-block;float:right;">
-      <span style="display:inline-block;float:left;">
-                        <span class="user_link_tab dblbord"><a href="javascript:void(0);" class="signin_link">Sign In</a></span>
-          <span class="user_link_tab"><a href="javascript:void(0);" class="register_link">Create Account</a></span>          <!-- SIGN IN DIALOG -->
+      <div class="user_links">
+        <div class="ninesixty">
+          <a class="r77_top_logo" href="/" title="Room 77">
+            <img src="/images/web/room_77_logo_071012.png" alt="Room 77" border="0">
+          </a>
+          <span style="display:inline-block;float:right;">
+            <span style="display:inline-block;float:left;">
+              
+                      <span class="user_link_tab"><a href="javascript:void(0);" class="signin_link">Sign In</a></span><span style="color:#CCC;"> • </span>
+          <span class="user_link_tab"><a href="javascript:void(0);" class="register_link">Sign Up</a></span><span style="color:#CCC;"> • </span>
+                <!-- SIGN IN DIALOG -->
   <div id="signin_dialog" title="Please Sign In or Register" class="signin_reg" style="display:none">
-    <div class="fb-login-button" data-scope="email">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top" style="white-space:nowrap;">
+<p><b>Sign In using Facebook:</b></p>
+    <div class="fb_login_button" data-scope="email">
       Login with Facebook
     </div>
-    <p><em>or</em> Sign in with your Room 77 account</p>
+</td>
+<td valign="top" class="or_td">OR</td>
+<td valign="top">
+    <p><b>Sign In with your Room 77 account:</b></p>
+    <div class="signin_error" id="error_sign_in_account_locked" style="display:none;color:#C80000">
+      - Account is locked due to too many unsuccessful login attempts.
+    </div>
+    <div class="signin_error" id="error_sign_in_invalid_email" style="display:none;color:#C80000">
+      - Invalid email
+    </div>
     <div class="signin_error" id="error_sign_in_invalid_credentials" style="display:none;color:#C80000">
       - Invalid password
     </div>
@@ -130,21 +86,31 @@
       <p class="rememberme"><input type="checkbox" id="remember_me" name="remember_me" checked=""> Remember me on this computer</p>
       <div class="signin_controls">
         <input type="submit" class="gray_button" value="Sign In" id="guest_signin_button">
-        or <a href="javascript:void(0);" class="register_link">create a Room 77 account</a>
+        or <a href="javascript:void(0);" class="register_link">Sign Up for a Room 77 account</a>.<br>
         Forgot password? Click <a href="javascript:void(0);" class="forgot_password_link">here</a>.
       </div>
     </form>
+</td>
+</tr>
+</tbody></table>
+
+
   </div>
   <!-- END SIGN IN DIALOG -->
 
   <!-- REGISTRATION DIALOG -->
   <div id="register_dialog" title="Room 77 Account Registration" class="signin_reg" style="display:none">
-    <div class="fb-login-button" data-scope="email">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top" style="white-space:nowrap;">
+<p><b>Sign In using Facebook:</b></p>
+    <div class="fb_login_button" data-scope="email">
       Login with Facebook
     </div>
-    <p class="r77_signup_instruction">
-      All fields are required.
-    </p>
+</td>
+<td valign="top" class="or_td">OR</td>
+<td valign="top">
+    <p><b> Create a Room 77 account:</b></p>
     <div id="error_sign_up" style="display:none;color:#C80000" class="signup_error">
       Registration failed. Please fix marked fields.
     </div>
@@ -197,6 +163,7 @@
         </span>
       </div>
     </form>
+</td></tr></tbody></table>
   </div>
   <!-- END REGISTRATION IN DIALOG -->
 
@@ -225,7 +192,9 @@
   </div>
 
   <!-- END FORGOT PASSWORD DIALOG -->
-              <div id="fb-root"></div>
+
+                    <div id="fb-root"></div>
+
       <script type="text/javascript">
         $(document).ready(function() {
           R77.UserAuth.SIGNIN_AJAX = 'https://www.room77.com/ajax/signin.php';
@@ -235,30 +204,51 @@
           R77.UserAuth.ADD_REVIEWS_URL = '/room_review.html';
           R77.UserAuth.COOKIE_DOMAIN = 'www.room77.com';
 
-          function initFB() {
-              FB.init({
-                appId:'230286373664292', cookie:true,
-                status:true, xfbml:true
-              });
+          var first_time_fb_login = false;
 
-              FB.Event.subscribe("auth.login", function(response) {
-                // Do not need to sign in via Facebook; If we do not check it,
-                // the user will be forced to use the account with Facebook 
-                // connect
-                if (!$.cookie("r77_guest") && R77.UserAuth.SIGNIN_INTENDED) {
-                  var fb_id = response.authResponse.userID;
-                  R77.UserAuth.fbLogin(fb_id);
+          // Clear the first-time FB cookie if it exists
+          if ($.cookie(R77.UserAuth.COOKIE_FIRST_FB_CONNECT)) {
+            $.cookie(R77.UserAuth.COOKIE_FIRST_FB_CONNECT,
+                null, { path: "/", domain: 'www.room77.com' } );
+            first_time_fb_login = true;
+          }
+
+          function initFB() {
+            FB.init({
+              appId:'230286373664292', cookie:true,
+              status:true, xfbml:true
+            });
+
+            R77.UserAuth.AUTH_NONCE = null;
+            R77.UserAuth.initialize();
+
+            if (first_time_fb_login) {
+              FB.getLoginStatus(function(response) {
+                if (response.authResponse) {
+                  R77.Util.LogMongo('First-time Login', 'Free Wifi Share Ask', '');
+                  FB.ui(
+                    {
+                      method: 'feed',
+                      name: 'Room 77 Summer of Free Wi-Fi',
+                      caption: 'Score free Wi-Fi at any hotel all summer.',
+                      description: 'Room 77 is picking up the tab so you can stay connected on the road.',
+                      link: 'http://room77.com/free-wifi',
+                      picture: 'http://room77.com/images/web/summer_free_wifi_logo.png',
+                      display: 'iframe',
+                      access_token: FB.getAuthResponse().accessToken
+                    },
+                    function(response) {
+                      if (response && response.post_id) {
+                        R77.Util.LogMongo('First-time login', 'Free Wifi Shared', '');
+                      } else {
+                        R77.Util.LogMongo('First-time login', 'Free Wifi Not Shared', '');
+                      }
+                    }
+                  );  // end feed post
                 }
               });
-
-              /*
-              FB.Event.subscribe("auth.logout", function(response) {
-                // log out r77 too
-                R77.UserAuth.r77Logout();
-              });
-              */
-              R77.UserAuth.initialize();
             }
+          }
 
           (function() {
               function async_load(){
@@ -272,9 +262,10 @@
                   s.onreadystatechange = function() {
                     if (s.readyState == 'loaded' || s.readyState == 'complete') {
                       initFB();
-                      script.onload = null;
-                      script.onreadystatechange = null;
+                      s.onload = null;
+                      s.onreadystatechange = null;
                     }
+
                   }
                   s.onload = initFB;
               }
@@ -283,34 +274,36 @@
               else
                   window.addEventListener('load', async_load, false);
           })();
-
-
         });
-
-
-
-      </script>      </span>
-      <span class="user_link_tab dblbord" style="float:left;">
-        <a href="/faq.html">FAQs</a>
-      </span>
-      <span class="user_link_tab gfx support_ico" style="float:left;">
-        <a href="javascript:void(0);" onclick="$('#support_dialog').dialog('open');">Support</a>
-      </span>
-      <span class="user_link_tab dblbord gfx iphone_ico" style="float:left;">
-        <a href="/download">App for iPhone</a>
-      </span>
-    </span>
-  </div>
-</div>
-
-<div class="top_header clear">
-  <a href="/" title="Room77" class="logo_link">
-    <img src="/images/web/room77-logo-04242012.png" border="0" alt="Room77">
-  </a>
-</div>
-
-
-  <div id="siteWrapper" class="site_container clear">
+      </script>
+            </span>
+            <span class="user_link_tab" style="float:left;">
+              <a href="/faq.html">FAQs</a>
+            </span>
+            <span style="float:left;color:#CCC;"> • </span>
+            <span class="user_link_tab" style="float:left;">
+            <a href="javascript:void(0);" onclick="$('#support_dialog').dialog('open');">Support
+            </a>
+            </span>
+            <span style="float:left;color:#CCC;"> • </span>
+            <span class="user_link_tab" style="float:left;">
+              <a href="/download">Mobile App</a>
+            </span>
+            <span style="float:left;color:#CCC;"> • </span>
+            <span class="user_link_tab" style="float:left;">
+              Say Hello &nbsp;
+              <a href="http://twitter.com/#!/Room_77" target="_blank" class="sm_ico twitter">Twitter</a>
+              <a href="http://www.facebook.com/bestrooms" target="_blank" class="sm_ico facebook">Facebook</a>
+              <a href="https://plus.google.com/105583374968446259372" target="_blank" class="sm_ico gglplus">Google Plus</a>
+              <a href="http://pinterest.com/room77/" target="_blank" class="sm_ico pinterest">Pinterest</a>
+            </span>
+              <span id="sl_list_buttons" style="display:none">
+                <a href="#" onclick="R77.Search.Web.EnableSlFilter();">Saved Hotels</a>
+                <a href="#" onclick="R77.Search.Web.DisableSlFilter();">All Hotels</a>
+              </span>
+          </span>
+        </div>
+      </div>  <div id="siteWrapper" class="site_container clear">
     <div class="basic_layout page_content terms">
       <h1>Web Privacy Policy</h1>
       <div class="two_col_layout clear">
@@ -342,7 +335,9 @@
       <h4>Information Sharing and Disclosure</h4>
       
       <p>Room 77 does not rent, sell, or share personal information about you with other people or companies except (i) to provide products or services you have requested including, without limitation, products and services from third parties, (ii) when we have your permission, or (iii) under the following circumstances: Room 77 may use third party vendors to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfill its contract; In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Room 77 's Terms of Service, or as otherwise required by law; We may transfer information about you if Room 77 is acquired by or merged with another company. In this event, Room 77 will notify you by sending a notice to the email address specified in your Room 77 account before information about you becomes subject to a different privacy policy.</p>
-      
+
+      <p>From time to time, we also may share general information about our Site, users, and visitors such as the number of visitors, aggregate and/or non-personally identifiable demographic and travel data, etc., with third parties.</p>
+
       <h4>Cookies</h4>
       
       <p>Room 77 sets and accesses cookies on your computer. A cookie is a small amount of data that Room 77's servers transfer to your browser and that only Room 77's servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, Room 77 will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, Room 77 requires you to have cookies enabled to access certain portions of the site. Room 77 may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to Room 77's cookies.</p>
@@ -382,37 +377,58 @@
   <!-- End Site Container -->
 
   <!-- Footer: Outside main container to break width -->
-    <div class="footer clear">
-        <div style="text-align:center;padding-top:16px;">
-          <table cellpadding="0" cellspacing="0" border="0">
-            <tbody><tr>
-              <td style="padding-right:0;">
-                <div style="position:relative;height:35px; width:46px;">
-                  <img src="/images/web/footer_logo.png" alt="Room 77 Copyright" style="display:block;position:absolute;top:-3px;">
-                </div>
-              </td>
-              <td class="copyright">Copyright 2012</td>
-              <td><a href="/about.html">About</a> · </td>
-              <td><a href="/team.html">The Team</a> · </td>
-              <td><a href="/jobs.html">Jobs</a> · </td>
-              <td><a href="/press.html">Press</a> · </td>
-              <td><a href="/hotel_partners.html">Hotel Partners</a> · </td>
-              <td><a href="/mobile/">Mobile</a> · </td>
-              <td><a href="/faq.html">FAQs</a> · </td>
-              <td><a href="/testimonials.html">Testimonials</a> · </td>
-              <td><a href="/blog">Blog</a> · </td>
-              <td><a href="/contact.html">Contact</a> · </td>
-              <td><a href="/privacy.html">Privacy Policy</a> · </td>
-              <td><a href="/terms.html">Terms of Use</a> · </td>
-              <td><a href="/hotel">Sitemap</a></td>
-              <td><a href="http://www.facebook.com/bestrooms" target="blank" class="sm_ico facebook">Facebook</a></td>
-              <td><a href="http://twitter.com/#!/Room_77" target="blank" class="sm_ico twitter">Twitter</a></td>
-            </tr>
-          </tbody></table>
-      </div>
+    <div class="footer clear" style="position:relative;">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tbody><tr>
+        <td valign="middle" style="text-align:left;">
+          <a href="/">©2012 Room 77, Inc.</a>
+          <a href="/about.html">About</a>
+          <a href="/team.html">Team</a>
+          <a href="/jobs.html">Jobs</a>
+          <a href="/press.html">Press</a>
+          <a href="/hotel_partners.html">Hotel Partners</a>
+          <a href="/mobile/">Mobile</a>
+          <a href="/faq.html">FAQs</a>
+          <a href="/testimonials.html">Testimonials</a>
+          <a href="/blog">Blog</a>
+          <a href="/contact.html">Contact</a>
+          <a href="/privacy.html">Privacy</a>
+          <a href="/terms.html">Terms of Use</a>
+          <a href="/hotel-search">Hotel Search</a><br>
+          <div id="ggplus">
+            <!-- Place this tag in your head or just before your close body tag. -->
+            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+            <!-- Place this tag where you want the badge to render. -->
+            <g:plus width="299" height="69" href="https://plus.google.com/105583374968446259372" rel="publisher"></g:plus>
+          </div>
+          <div id="email_signup_form" class="clear" style="display: none; margin: 15px 0 0 5px;">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td valign="middle" style="width: 300px;">
+                    <form action="javascript:void(0);">
+                      <div class="clear">
+                        <input type="text" maxlength="75" class="email_input" id="email" name="email" value="Enter e-mail to join our mailing list" onclick="$(this).val('');">
+                        <a id="signup_button" href="javascript:void(0);">
+                          Sign Up
+                        </a>
+                      </div>
+                    </form>
+                  </td>
+                  <td valign="middle">
+                    <div id="subscribe_message" style="padding-left:6px;"></div>
+                  </td>
+                </tr>
+            </tbody></table>
+          </div>
+        </td>
+      </tr>
+    </tbody></table>
   </div>
 
-  <div id="feedback_form" title="Share your feedback with us" class="dialog" style="padding-bottom: 30px; display:none;">
+
+  <div id="feedback_form" title="Share your feedback with us" class="dialog" style="display:none;">
     <div class="feedback_messaging" id="success_feedback_message" style="display:none;">Thanks for your feedback!</div>
     <div class="feedback_messaging" id="error_feedback_message" style="display:none;color:#C80000">We're having trouble sending your feedback.  Please try again.</div>
     <form action="javascript:void(0);" id="r77_feedback_form">
