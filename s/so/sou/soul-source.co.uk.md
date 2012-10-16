@@ -1,10 +1,38 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201173852id_/http%3A//www.soul-source.co.uk/_/soul-articles/privacy-policy-soul-source-r504) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016133207id_/http%3A//www.soul-source.co.uk/_/articles/soul-articles/privacycookies-policy-soul-source-r504) for the most accurate reproduction.*
 
-# Privacy Policy - Soul Source
+# Privacy/Cookies Policy - Soul Source - Soul Articles - Soul Source
 
-Telasource understands and respects the rights of individuals’ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.  
-**  
-Use of Information, Data Protection and Internet Privacy**
+ by  mike         11772   0      in [Soul Articles](http://www.soul-source.co.uk/_/articles/soul-articles/) on 13 Jul 2006
+
+**Cookies**
+
+This website does not store any information that would, on its own, allow us to identify any individual user of this website. Cookies are not shared with any third parties. Cookies that are used by this website are used solely on a per session basis or to enable access to the Social Media addons. More specifically, the Cookies we use are to:
+
+1\. Maintain your session, such as keeping you logged in for the duration of your visit.  
+2\. Temporarily store your topic "unread" markers before they are saved to our database.  
+3\. Anonymously measure use of this website in order to improve the experience for all users.  
+4\. Submit data to your Facebook and Twitter account(s), should this be enabled in your settings area. (Please see their Privacy Policies for more information as to how they use your information)
+
+With the exception of number 4 (which can be disabled in your settings area), these Cookies are required by this website in order to allow it to function correctly. If you do not agree to these cookies, please do not proceed with logging in to the website or registering. Disabling cookies in your web browser will give you a very limited, if not unusable experience of our website because of these limitations.
+
+There may be also be third party cookies from youtube, ebay and google depending on the features you use  
+Full info and opt out details can be found on their respective websites
+
+**Continued use of this site is taken to mean that your are agreeing to the above information to be gathered.**
+
+You can find out more about the way cookies work and how to disable them on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "External link")
+
+**Privacy Policy**
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested, such as on our logon screen and registration page.
+
+**Website Logs**
+
+As with all websites, log files are maintained of all requests for files on this website's web servers. Log files capture your IP address, but do not capture any other personal information. This IP address is automatically recognised by our web servers and can only be used to personally identify you by your Internet Service Provider, and not by the administrators of this website.
+
+Telasource understands and respects the rights of individuals' privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
+
+**Use of Information, Data Protection and Internet Privacy**
 
 Telasource is concerned for the privacy of visitors to its web sites; protection of privacy is extremely important to us. Whenever you provide such personal information, we will treat that information in accordance with this policy. Telasource will act in accordance with current legislation and aim to meet current Internet best practice. This statement will be continuously assessed against new technologies and business practices.However, please remember that the security of information transmitted over the Internet cannot be assured.
 
@@ -22,23 +50,15 @@ We also allow users to update their personal information at any time.
 
 **Non-Personally Identifiable Information**
 
-Telasource also collects non-personally identifiable information in aggregate form to track data such as the total number of visits to our web sites, the number of visitors to each page of our web sites, and the domain names of our visitors' internet service providers. We use this information, which remains in aggregate form, to understand how our visitors use our web sites so that we may improve them. NO PERSONALLY IDENTIFIABLE INFORMATION IS DISCLOSED IN THIS PROCESS.  
-**  
-Use of IP Addresses**
+Telasource also collects non-personally identifiable information in aggregate form to track data such as the total number of visits to our web sites, the number of visitors to each page of our web sites, and the domain names of our visitors' internet service providers. We use this information, which remains in aggregate form, to understand how our visitors use our web sites so that we may improve them. NO PERSONALLY IDENTIFIABLE INFORMATION IS DISCLOSED IN THIS PROCESS.
 
-An Internet Protocol (IP) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your organisation's local area network (LAN) or wide area network (WAN). Web servers automatically identify your computer by the IP address assigned to it during your session online. Telasource may collect IP addresses for the purposes of systems administration and to audit the use of our site. The forums and comments section may display IP addresses along with the message poster's name and message.We do not ordinarily link a user's IP address to personally identifiable information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we may use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with the site's terms of use, or to protect our service, site or other users.  
-**  
-Links to Other Web Sites**
+**Use of IP Addresses**
+
+An Internet Protocol (IP) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your organisation's local area network (LAN) or wide area network (WAN). Web servers automatically identify your computer by the IP address assigned to it during your session online. Telasource may collect IP addresses for the purposes of systems administration and to audit the use of our site. The forums and comments section may display IP addresses along with the message poster's name and message.We do not ordinarily link a user's IP address to personally identifiable information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we may use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with the site's terms of use, or to protect our service, site or other users.
+
+**Links to Other Web Sites**
 
 Telasource websites provide links to other telasourceand third party websites as a service to our users. The privacy policy described here does not apply to those sites. Please ensure you check the legal and privacy policy sections of any site you link to.
-
-**Cookies**
-
-Telasource may place a "cookie" in your computer's browser. Cookies are small text files which provide us with information about how often someone visits our site, and what they do during those visits. Cookies do not themselves contain any personally identifiable information but if you provide such information to us, for example by registering with us, it may be linked to the data stored in the cookie.
-
-Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to disable cookies or to inform you when they are set. However you may not be able to take full advantage of the features of our website if you disable them.
-
-You can find out more about the way cookies work and how to disable them on www.allaboutcookies.org
 
 **Security**
 
@@ -55,3 +75,5 @@ By submitting personal data you agree to be bound by our privacy policy and agre
 **Changes**
 
 Any changes to this privacy policy will be communicated promptly on this page.
+
+Updated 25th May 2012 
