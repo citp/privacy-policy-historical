@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpersonas.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511010427id_/http%3A//www.mozilla.com/en-US/legal/privacy/firefox-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpersonas.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016163322id_/http%3A//www.mozilla.com/en-US/legal/privacy/firefox-en.html) for the most accurate reproduction.*
 
 # Firefox Privacy Policy
 
@@ -152,6 +152,10 @@ We use this information to improve our products and services and to support deci
 
 **Usage Statistics** (also known as Telemetry). Beginning with version 7, Firefox includes functionality that is turned off by default to send to Mozilla non-personal usage, performance, and responsiveness statistics about user interface features, memory, and hardware configuration. The only Potentially Personal Information sent to Mozilla when this functionality has been enabled is IP addresses. Usage statistics are transmitted using SSL (a method of protecting data in transit) and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are stored in an aggregate form and made available to a broad range of developers, including both Mozilla employees and public contributors. Once this functionality is enabled, users can disable it in Firefox's Options/Preferences. Simply deselect the "Submit performance data" item.
 
+**Snippets** Firefox's default home page (<about:home>) loads snippets of info that we think will be useful to you. You can see them right below the search bar. Once per day, Firefox gets new snippets from Mozilla. Whenever you see a snippet, that snippet makes a request to Mozilla, so that we can count how often snippets are viewed.
+
+This request to Mozilla only sends the name of the snippet and is securely transmitted over HTTPS. We only use the information from these requests to estimate what fraction of Firefox users click on each snippet, and we break down this info into general categories like Firefox version and geographic area. We will not use any of the information in this request to attempt to identify you or your activity anywhere else online, and we aggregate the info we receive into these general categories as soon as is practical.
+
 **Feedback Button and Test Pilot for Beta Users**. If you installed a Firefox 4 beta and then got the general release version of Firefox 4 by clicking an “update” button, then your Firefox still has the feedback features you received as a beta user. If you installed a beta version of Firefox 4 for computers and then got the general release version of Firefox 4 by clicking a “download” button, you still have the Test Pilot add-on as an extension to Firefox. The privacy policy for Feedback is [here](https://web.archive.org/en-US/firefox/beta/feedbackprivacypolicy/) and for Test Pilot is [here](https://testpilot.mozillalabs.com/privacy.php). If you decide to remove Test Pilot or Feedback from Firefox on your computer, you can do so under the Tools menu in Firefox by selecting add-ons in the drop down menu and then uninstall. If you decide to remove Beta Tester Tools from Firefox on your mobile device, you can do so under the Add-ons Manager pane in the Browser Controls window by selecting the add-on in the extension list and clicking "Disable."
 
 ### Security
@@ -240,5 +244,6 @@ Each time Firefox checks in with the third party provider to download a new blac
   * [Firefox Mobile - September 2009](https://web.archive.org/en-US/legal/privacy/sept-2009/)
   * [January 2010](https://web.archive.org/en-US/legal/privacy/jan-2010/firefox-en.html)
   * [December 2010](https://web.archive.org/en-US/legal/privacy/dec-2010/firefox.html)
+  * [June 2011](https://web.archive.org/en-US/legal/privacy/june-2011/firefox.html)
 
 
