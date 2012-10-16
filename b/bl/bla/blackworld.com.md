@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510062518id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016130521id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -48,13 +48,12 @@ This site contains links to other sites. **Blackworld™** is not responsible fo
 #### As a general rule, Blackworld™ will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please refer to the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed. _Business Partners & Sponsors: _  
 Blackworld™ may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. Details of shared use can be found in specific Terms of Service or Use Agreements, and sweepstakes and promotions rules. Some or all data collected during a Blackworld™ promotion may be shared with a sponsor. If personally identifying data about you will be shared, we will tell you before we collect or transfer the data. Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give Blackworld™ permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer. 
 
-####  _Third Party Advertising_  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:
-
-<http://www.maxonline.com/privacy_policy/index.php>
-
-**_Third Party Cookies_**  
+**_Third Party Cookies & Advertisments_**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ####  Public Forums 
 
@@ -90,4 +89,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 * * *
 
-Copyright 1996-2010.Blackworld **™** All Rights Reserved 
+Copyright 2012 Blackworld **™** All Rights Reserved 
