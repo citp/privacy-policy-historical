@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006052818id_/http%3A//www.worth1000.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016051919id_/http%3A//www.worth1000.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
