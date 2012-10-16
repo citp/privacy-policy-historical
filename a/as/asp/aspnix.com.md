@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512043342id_/https%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016060207id_/http%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ASPnix.com
+# Privacy Policy | ASPnix Web Hosting
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how ASPnix collects information from all end users of ASPnix’s Internet and web hosting services (the “Services”) – those who access some of our Services but do not have accounts (“Visitors”) as well as those who pay a service fee to subscribe to the Service (“Customers”) – what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. ASPnix requests that you read this Privacy Policy carefully.
 
