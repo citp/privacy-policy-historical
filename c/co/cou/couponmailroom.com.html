@@ -1,59 +1,104 @@
-<!--The following is the downloaded HTML source of the couponmailroom.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619013610id_/http%3A//www.couponmailroom.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couponmailroom.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016045117id_/http%3A//www.couponmailroom.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Product"><head>
 <meta charset="UTF-8">
-<title>Coupon Mailroom</title>
-<meta name="description" content="All your online coupons automatically organized in one place, Coupon Mailroom.">
+<title>Privacy Policy</title>
+<meta name="description" content="Coupon Mailrooms privacy policy">
 <meta name="keywords" content="coupon organizer, coupon manager, Coupons, Coupon Mailroom, coupon management, email coupon management, online coupon organize, printable coupons, email coupons, online coupons">
-<meta property="og:title" content="Coupon Mailroom">
+<meta property="og:title" content="Privacy Policy">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.couponmailroom.com/">
+<meta property="og:url" content="www.couponmailroom.com/privacy.php">
 <meta property="og:image" content="http://www.couponmailroom.com/images/cmr_logo.png">
 <meta property="og:site_name" content="Coupon Mailroom">
 <meta property="fb:admins" content="100001596532459">
-<meta itemprop="name" content="Coupon Mailroom">
-<meta itemprop="description" content="All your online coupons automatically organized in one place, Coupon Mailroom.">
+<meta itemprop="name" content="Privacy Policy">
+<meta itemprop="description" content="Coupon Mailrooms privacy policy">
 <meta itemprop="image" content="http://www.couponmailroom.com/images/cmr_logo.png">
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/css/cmr.css?d=20120510" media="all">
-<link rel="stylesheet" type="text/css" href="/css/main.css?d=20120510" media="all">
-<!--[if gte IE 9]>
-    <style type="text/css">
-        .gradient {
-             filter: none;
-        }
-    </style>
+<link rel="stylesheet" type="text/css" href="/css/cmr-simp.css?d=20120510" media="all">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/JavaScript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/JavaScript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+<!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+   </script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">//<![CDATA[
+<script type="text/javascript">//<![CDATA[
     (function() {
         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
         po.src = 'https://apis.google.com/js/plusone.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
     })();
 //]]></script>
-<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/js/main.js"></script>
-<script type="text/javascript" src="/js/ddaccordion.js"></script>
 <script type="text/javascript" src="/js/cmr.js"></script>
 <script type="text/javascript">//<![CDATA[
+usm.fb = new Object();
+usm.fb.registration_app = {};
+usm.fb.registration_app.id = "286079494799037" ;
 
-    ddaccordion.init({
-        headerclass: "expandable", 
-        contentclass: "categoryitems", 
-        revealtype: "click", 
-        mouseoverdelay: 200, 
-        collapseprev: true, 
-        defaultexpanded: [], 
-        onemustopen: false,
-        animatedefault: false, 
-        persiststate: true, 
-        toggleclass: ["", "openheader"], 
-        togglehtml: ["prefix", "", ""], 
-        animatespeed: "fast", 
-        oninit:function(headers, expandedindices){ },
-        onopenclose:function(header, index, state, isuseractivated){ }
-    });
+/**
+ * Initialize FB connect capability
+ *
+ */
+window.fbAsyncInit = function() {
+  FB.init({
+    appId      : usm.fb.registration_app.id,
+    status     : true,
+    cookie     : true,
+    xfbml      : true,
+    oauth      : true
+  });
+
+  FB.getLoginStatus(function(response) {
+    usm.fb.loginStatus = arguments;
+    usm.fb.checkConnect();
+  });
+
+};
+
+usm.fb.checkConnect = function () {
+  usm.log("FB.getLoginStatus",usm.fb.loginStatus[0].status,arguments);
+  $.ajax("/ajax?fb_status&value="+usm.fb.loginStatus[0].status,{cache:0,global:0});
+ 
+  if (usm.fb.disconnect) {
+    FB.api({method:'auth.revokeAuthorization'},
+      function (result) {
+        if (result) {
+          usm.log("search",window.location.search);
+          window.location.href = "/register/" + window.location.search.replace("&disconnect","");
+        }
+      });
+  }
+  else if (usm.fb.loginStatus[0].status == "connected") {
+    usm.fb.postRegistration(usm.fb.loginStatus[0].authResponse.signedRequest);
+  }
+};
+
+usm.fb.postRegistration = function (request) {
+  usm.log("usm.fb.postRegistration",request);
+  $.get("https://graph.facebook.com/me?access_token="+usm.fb.loginStatus[0].authResponse.accessToken,
+        function (data,textStatus,jqXHR) {
+          usm.log("success",data);
+          usm.fb.data = data;
+          if(usm.fb.wantsFB) {
+          $form = $("form.simp-sign-in");
+          $("input[name=email]",$form).val(data.email);
+          $("input[name=first_name]",$form).val(data.first_name);
+          $("input[name=last_name]",$form).val(data.last_name);
+          $("input[name=fb_uid]",$form).val(data.id);
+          $form.submit();
+          }
+        }
+        ,"json"
+       );
+};
 
     (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
@@ -63,33 +108,9 @@
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 
-$(function() {
-  if (jQuery(".facebook-btn a").is(":visible")) {
-    jQuery(".facebook-btn a").focus();
-  }
-  else {
-    jQuery("form input[name=email]").focus();
-  }
-  jQuery("form input[name=email]").bind("blur",
-    function (event) {
-      var $username = jQuery("form input[name=username]");
-      if ($username.val().length == 0) {
-        $username.val(jQuery(this).val().split("@")[0]);
-      }
-    });
-});
-//]]></script><style type="text/css">
-.categoryitems{display: none}
-a.hiddenajaxlink{display: none}
-</style>
+//]]></script>
 <script type="text/javascript">//<![CDATA[
 <!--
-/****************************************************
-     Author: Eric King
-     Url: http://redrival.com/eak/index.shtml
-     This script is free to use as long as this info is left in
-     Featured on Dynamic Drive script library (http://www.dynamicdrive.com)
-****************************************************/
 var win=null;
 function NewWindow(mypage,myname,w,h,scroll,pos){
 if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
@@ -127,79 +148,126 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 
 </script>
+
+
 </head>
 <body class="loginbody"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 <a name="top"></a>
 <div id="fb-root"></div>
-<div id="wrap">
-<div id="mainarea">
-<div id="login-row" class="gradient">
-  <div id="login-container">
-        <div class="login-h1">
-      <h1 title="Coupon Mailroom Member Login:" id="login-logo"><a href="http://www.couponmailroom.com/"><span class="none">Coupon Mailroom Member Login:</span></a></h1>
-      <div id="login-arrow"></div>
-      <div class="clear"></div>
-    </div>
-    <div id="login-form">
-      <form method="post" action="/login/">
-        <label for="username" id="label-name" title="User Name:"><span class="none">User Name:</span></label>
-        <input type="text" name="username" maxlength="255" value="" class="rounded">
-        <label for="password" id="label-password" style="margin-left:6px;" title="Password:"><span class="none">Password:</span></label>
-        <input type="password" name="password" maxlength="255" value="" class="rounded">
-        <input type="hidden" name="login" value="Login">
-        <input id="top-submit" type="submit" value="Login" title="Login">
-        <div class="clear"></div>
-      </form>
-    </div>
+<div id="wrap" style="background:#fff">
+  <div id="mainarea">
+    <header class="simp-head-wrap">
+      <div class="simp-head">
+        <h2 title="Coupon  Mailroom" class="simp-logo"><a class="simp-logo-link" href="/index.php" title="Coupon Mailroom">Coupon Mailroom</a></h2>
+        <div class="simp-create-acct">
+          <h3 title="Already Have a Coupon Mailroom Account?"><a href="/index.php?signin=true" title="Already Have a Coupon Mailroom Account?" class="simp-button-red kitty font16" style="padding:0 25px;">Login</a>Already Have a Coupon Mailroom Account?&nbsp;&nbsp;&nbsp;</h3>
+          <!-- <h3 title="New to Coupon Mailroom?"><a href="/index.php" title="Free, Get Started" style="padding:0 25px;">Free, Get Started</a>New to Coupon Mailroom?&nbsp;&nbsp;&nbsp;</h3> -->
+        </div>
       </div>
-</div>
-<div class="admin-container" style="width:900px;">
-  <h1>COUPON MAIL ROOM PRIVACY POLICY</h1>
-  <p><strong>Effective November 23, 2011</strong></p>
-  <p>This website: couponmailroom.com is operated by Coupon Deals Daily (referred to as "Company," "us," "we," and "our").  We are committed to respecting your privacy and we have created this privacy policy to explain how we use the information that we collect through your use of this Website.   Please read this policy and familiarize yourself with its content as it will govern your use of this site.  AS A CONDITION OF YOUR CONTINUED USE OF THIS WEBSITE YOU AGREE TO THE FOLLOWING PRIVACY POLICY: </p>
-  <h2>Adults Only</h2>
-  <p>You must be at least 18 years of age to use this Website for any purpose. </p>
-  <h2>Questions</h2>
-  <p>If you have questions about this policy please contact us by clicking <a href="contactus.php" title="Contact Us">here</a>. </p>
-  <h2>Non-Personally Identifiable Information</h2>
-  <p>We may track the Internet Protocol (IP) address which you use to visit this website and analyze this data for trends and statistics, but you will remain anonymous unless you voluntarily provide us with your personally identifiable information. </p>
-  <h2>Cookies</h2>
-  <p>We may use cookies on our site in order to improve your browsing experience by personalizing your experience on our site, providing a streamlined sign-up and login process, determining which portions of our site are visited and tailoring advertising to best serve your needs.  Cookies may be placed by an outside company that performs tracking and statistical analysis of visitor behavior pattern, please note that we have no control over third parties and their business practices. </p>
-  <h2>Collection, Use and Sharing of Personally Identifiable Information</h2>
-  <p>To access some areas of this website you must first register; such registration will require you to provide personally identifying information.  Whether or not you choose to provide the information we request is entirely up to you.  If you choose not to provide the information which we request, you may be unable to access certain areas of this website or obtain the coupons offered by our site. </p>
-  <p>If you choose to provide information to us through our online registration, you may be asked to provide your personal information that may include your name, address, telephone number, e-mail address, and other identifying information.   We may share the personal information which you provide with our third party processing agents, affiliates and advertisers.</p>
-  <p>We may collect, use and share your personally identifiable information for any lawful purpose.</p>
-  <p>We may use the personal information which you provide to send you information, either online or offline, via email, direct mail, SMS text messaging and telemarketing, regarding products or services offered by third-party advertisers.  In addition, we reserve the right to rent, sell or share the personal information which you provide with unaffiliated third-parties; these third-parties may use this information for online and offline marketing purposes.</p>
-  <p>By signing up on our website and providing your personal information you are expressly consenting to receive communications from us and from anyone that we may provide your personal information.  In addition, you expressly consent to be contacted in any manner including via email, direct mail, telephone or SMS text messaging, even if your information is listed on the National Do Not Call registry or a similar registry.  If you do not agree to these terms than do not use our site. </p>
-  <p>Finally, we may provide your personally identifiable information in accordance with the law, such as in response to a subpoena, warrant or other governmental request; if we believe it is necessary to protect our rights or the rights of any third party; in the event of a sale, merger, or acquisition; or if you consent to such disclosure. </p>
-  <h2>Opt-Out</h2>
-  <p>To opt-out of receiving emails from this Website please <a href="/optout.php" title="Opt-Out">click here</a>. We will promptly place you on a suppression list for this site and will no longer provide your personally identifiable information to our partners or other third-parities however we cannot stop further communications to you from our partners or other third parties whom we have already provided with your information.  Please note that we may still communicate with you regarding site maintenance, changes to this privacy policy or your account. </p>
-  <h2>Accessing and Updating Your Information</h2>
-  <p>To access, update or delete your personally identifiable information that you have provided to us please contact us by clicking <a href="contactus.php" title="Contact Us">here</a> </p>
-  <h2>Third-Party Hosting</h2>
-  <p>We may contract with a third party to maintain and host the Website and to store data collected on the site. Therefore any information you submit, including personal information, may be placed and stored on a computer server maintained by a third-party host.  You agree that Company is not liable for any breach of security due to the actions or inactions of the third-party host. </p>
-  <h2>Links to Other Websites</h2>
-  <p>The Website may contain links to other sites.  Any such links are an accommodation to the respective third-party site owners and for your convenience.  Sites linked to and from our Website are not necessarily under the control of Company, and Company shall have no responsibility or liability whatsoever for the content or privacy practices of any linked sites, or any link or linking program at any time.  Please note that other sites will have their own privacy policies which may differ from this policy and once you enter another site their policy will control your use of that site.  We encourage you to read the privacy policy of any site that you visit. </p>
-  <h2>Security</h2>
-  <p>This Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. </p>
-  <h2>Changes</h2>
-  <p>We reserve the right to modify the terms of this privacy policy at any time and in our sole discretion, by posting a change notice on this page.  YOUR CONTINUED USE OF THE WEBSITE FOLLOWING OUR POSTING OF A CHANGE NOTICE WILL CONSTITUTE BINDING ACCEPTANCE OF THOSE CHANGES. </p>
-</div>
+    </header>
+<section class="simp-main-area">
+  <article class="legalbody">
+    <header>
+      <h2 class="body-h2 font18">COUPON MAIL ROOM PRIVACY POLICY</h2>
+    </header>
+    <p><strong>Effective November 23, 2011</strong></p>
+    <p>This website: couponmailroom.com is operated by Coupon Deals Daily (referred to as "Company," "us," "we," and "our").  We are committed to respecting your privacy and we have created this privacy policy to explain how we use the information that we collect through your use of this Website.   Please read this policy and familiarize yourself with its content as it will govern your use of this site.  AS A CONDITION OF YOUR CONTINUED USE OF THIS WEBSITE YOU AGREE TO THE FOLLOWING PRIVACY POLICY: </p>
+    <h2 class="body-h2 font14">Adults Only</h2>
+    <p>You must be at least 18 years of age to use this Website for any purpose. </p>
+    <h2 class="body-h2 font14">Questions</h2>
+    <p>If you have questions about this policy please contact us by clicking <a href="contactus.php" title="Contact Us">here</a>. </p>
+    <h2 class="body-h2 font14">Non-Personally Identifiable Information</h2>
+    <p>We may track the Internet Protocol (IP) address which you use to visit this website and analyze this data for trends and statistics, but you will remain anonymous unless you voluntarily provide us with your personally identifiable information. </p>
+    <h2 class="body-h2 font14">Cookies</h2>
+    <p>We may use cookies on our site in order to improve your browsing experience by personalizing your experience on our site, providing a streamlined sign-up and login process, determining which portions of our site are visited and tailoring advertising to best serve your needs.  Cookies may be placed by an outside company that performs tracking and statistical analysis of visitor behavior pattern, please note that we have no control over third parties and their business practices. </p>
+    <h2 class="body-h2 font14">Collection, Use and Sharing of Personally Identifiable Information</h2>
+    <p>To access some areas of this website you must first register; such registration will require you to provide personally identifying information.  Whether or not you choose to provide the information we request is entirely up to you.  If you choose not to provide the information which we request, you may be unable to access certain areas of this website or obtain the coupons offered by our site. </p>
+    <p>If you choose to provide information to us through our online registration, you may be asked to provide your personal information that may include your name, address, telephone number, e-mail address, and other identifying information.   We may share the personal information which you provide with our third party processing agents, affiliates and advertisers.</p>
+    <p>We may collect, use and share your personally identifiable information for any lawful purpose.</p>
+    <p>We may use the personal information which you provide to send you information, either online or offline, via email, direct mail, SMS text messaging and telemarketing, regarding products or services offered by third-party advertisers.  In addition, we reserve the right to rent, sell or share the personal information which you provide with unaffiliated third-parties; these third-parties may use this information for online and offline marketing purposes.</p>
+    <p>By signing up on our website and providing your personal information you are expressly consenting to receive communications from us and from anyone that we may provide your personal information.  In addition, you expressly consent to be contacted in any manner including via email, direct mail, telephone or SMS text messaging, even if your information is listed on the National Do Not Call registry or a similar registry.  If you do not agree to these terms then do not use our site. </p>
+    <p>Finally, we may provide your personally identifiable information in accordance with the law, such as in response to a subpoena, warrant or other governmental request; if we believe it is necessary to protect our rights or the rights of any third party; in the event of a sale, merger, or acquisition; or if you consent to such disclosure. </p>
+    <h2 class="body-h2 font14">Opt-Out</h2>
+    <p>To opt-out of receiving emails from this Website please <a href="/optout.php" title="Opt-Out">click here</a>. We will promptly place you on a suppression list for this site and will no longer provide your personally identifiable information to our partners or other third-parities however we cannot stop further communications to you from our partners or other third parties whom we have already provided with your information.  Please note that we may still communicate with you regarding site maintenance, changes to this privacy policy or your account. </p>
+    <h2 class="body-h2 font14">Accessing and Updating Your Information</h2>
+    <p>To access, update or delete your personally identifiable information that you have provided to us please contact us by clicking <a href="contactus.php" title="Contact Us">here</a> </p>
+    <h2 class="body-h2 font14">Third-Party Hosting</h2>
+    <p>We may contract with a third party to maintain and host the Website and to store data collected on the site. Therefore any information you submit, including personal information, may be placed and stored on a computer server maintained by a third-party host.  You agree that Company is not liable for any breach of security due to the actions or inactions of the third-party host. </p>
+    <h2 class="body-h2 font14">Links to Other Websites</h2>
+    <p>The Website may contain links to other sites.  Any such links are an accommodation to the respective third-party site owners and for your convenience.  Sites linked to and from our Website are not necessarily under the control of Company, and Company shall have no responsibility or liability whatsoever for the content or privacy practices of any linked sites, or any link or linking program at any time.  Please note that other sites will have their own privacy policies which may differ from this policy and once you enter another site their policy will control your use of that site.  We encourage you to read the privacy policy of any site that you visit. </p>
+    <h2 class="body-h2 font14">Security</h2>
+    <p>This Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. </p>
+    <h2 class="body-h2 font14">Changes</h2>
+    <p>We reserve the right to modify the terms of this privacy policy at any time and in our sole discretion, by posting a change notice on this page.  YOUR CONTINUED USE OF THE WEBSITE FOLLOWING OUR POSTING OF A CHANGE NOTICE WILL CONSTITUTE BINDING ACCEPTANCE OF THOSE CHANGES. </p>
+  </article>
+</section>
 </div>
 </div>
 
-<div id="footer-row">
-  <div id="footer-container">
-    <a href="http://www.couponmailroom.com/coupon_codes/" title="Coupon Codes">Coupon Codes</a>&nbsp;|&nbsp;<a href="/faq.php" title="FAQ">FAQ</a>&nbsp;|&nbsp;<a href="/HIW.php" title="How To">How To</a>&nbsp;|&nbsp;<a href="/privacy.php" title="Privacy Policy">Privacy policy</a>&nbsp;|&nbsp;<a href="/terms.php" title="Terms of Use">Terms of Use</a>&nbsp;|&nbsp;<a href="/optout.php" title="Opt-Out">Opt-Out</a>&nbsp;|&nbsp;<a href="/contactus.php" title="Contact Us">Contact Us</a><br>
-    <h4 title="Coupon Mailroom" id="footer-logo"><a href="." title="Coupon Mailroom" id="footer-logo"><span class="none">Coupon Mailroom</span></a></h4>
-    <p style="font-size:.85em">© 2012 Coupon Mailroom</p> 
-   </div>
-</div>
+<footer id="footer-row-wrap">
+  <div class="suggest-row"><span class="suggest-box fleft"></span><p class="fleft">Do you have an idea on how we can improve Coupon Mailroom?  <a href="suggestions.php">Click Here</a> to submit a suggestion.</p></div>
+  <footer id="footer-row">
+    <nav id="footer-container">
+      <div class="footerbox">
+        <h3 class="kitty font18">Getting Started</h3>
+        <ul>
+          <li><a class="footerlinks font12" href="http://www.couponmailroom.com/index.php?join=true" title="Create an Account">Create an Account</a></li>
+          <li><a class="footerlinks font12" href="/faq.php" title="FAQ">FAQ</a></li>
+          <li><a class="footerlinks font12" href="/contactus.php" title="Contact Us">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="footerbox">
+        <h3 class="kitty font18">Preview</h3>
+        <ul>
+          <li><a class="footerlinks font12" href="/images/mailbox-popup.png" rel="screenshots[gallery]" title="View Sample Account">View Sample Account</a></li>
+          <li><a class="footerlinks font12" href="/images/summary.png" rel="screenshots[gallery]" title="View Sample Summary">View Sample Summary</a></li>
+        </ul>
+      </div>
+      <div class="footerbox" style="width:15%">
+        <h3 class="kitty font18">Members</h3>
+        <ul>
+          <li><a class="footerlinks font12" href="http://www.couponmailroom.com/index.php?signin=true" title="Sign In">Sign In</a></li>
+          <li><a class="footerlinks font12" href="http://www.couponmailroom.com/index.php?resetpwd=true" title="Account Help">Account Help</a></li>
+        </ul>
+      </div>
+      <div class="footerbox" style="width:15%">
+        <h3 class="kitty font18">Savings</h3>
+        <ul>
+          <li><a class="footerlinks font12" href="http://www.couponmailroom.com/coupon_codes/" title="Coupon Codes">Coupon Codes</a></li>
+        </ul>
+      </div>
+      <div class="footerbox">
+        <h3 class="kitty font18">Follow Us</h3>
+        <ul>
+          <li style="margin:10px 0;">
+            <div class="fb-like" data-href="https://www.facebook.com/CouponMailroom" data-send="true" data-layout="button_count" data-width="200" data-show-faces="false"></div>
+          </li>
+          <li style="margin:0 0 10px 0;"><a href="https://twitter.com/cmailroom" class="twitter-follow-button" data-show-count="false">Follow @cmailroom</a> 
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+          <li style="margin:0 0 10px 0;">
+            <div class="g-plusone" data-size="medium"></div>
+            <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></li>
+        </ul>
+      </div>
+      <div class="clear"></div>
+    </nav>
+    <nav class="footer-copy">
+      <div class="copylinks">
+        <p class="font10">© 2012 Coupon Mailroom &nbsp;|&nbsp;<a class="footerlinks" href="/privacy.php" title="Privacy Policy">Privacy policy</a>&nbsp;|&nbsp;<a class="footerlinks" href="/terms.php" title="Terms of Use">Terms of Use</a>&nbsp;|&nbsp;<a class="footerlinks" href="/optout.php" title="Opt-Out">Opt-Out</a></p>
+      </div>
+    </nav>
+  </footer>
+</footer>
 <div class="modal-bg" style="display: none;"></div>
 <!-- begin olark code --><script type="text/javascript">/*{literal}<![CDATA[*/
 window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
 /* custom configuration goes here (www.olark.com/documentation) */
 olark.identify('5164-714-10-6525');/*]]>{/literal}*/</script> 
 <!-- end olark code -->
-
 </body></html>
