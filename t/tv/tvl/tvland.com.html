@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tvland.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510220551id_/http%3A//www.tvland.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tvland.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016052125id_/http%3A//www.tvland.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -72,7 +72,10 @@ Flux.createWidget('QuickMenu', {
 	});
 </script>
 
-</div>								
+</div> 
+	<script src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=TVLAND"></script>
+	
+								
 		<script type="text/javascript">
 			var forecastURL = "http://repo.comedycentral.com/feeds/forecast/tvland.com";
 		</script>
@@ -110,22 +113,21 @@ Flux.createWidget('QuickMenu', {
 																		<li class="first shows"><a href="http://www.tvland.com/shows/hot-in-cleveland" title="Hot in Cleveland">Hot in Cleveland</a></li>
 																								<li><a href="http://www.tvland.com/shows/happily-divorced" title="Happily Divorced">Happily Divorced</a></li>
 																								<li><a href="http://www.tvland.com/shows/the-exes" title="The Exes">The Exes</a></li>
+																								<li><a href="http://www.tvland.com/shows/bill-cosby-show" title="The Cosby Show">The Cosby Show</a></li>
+																								<li><a href="http://www.tvland.com/shows/andy-griffith-show" title="The Andy Griffith Show">The Andy Griffith Show</a></li>
 																								<li><a href="http://www.tvland.com/shows/the-soul-man" title="The Soul Man">The Soul Man</a></li>
-																								<li><a href="http://www.tvland.com/shows/retired-at-35" title="Retired at 35">Retired at 35</a></li>
 																								<li><a href="http://www.tvland.com/shows/everybody-loves-raymond" title="Everybody Loves Raymond">Everybody Loves Raymond</a></li>
-																								<li><a href="http://www.tvland.com/shows/king-of-queens" title="King of Queens">King of Queens</a></li>
 																<li class="last"><a href="http://www.tvland.com/shows" title="See all Shows">See all Shows</a></li>
 				</ul>
 			</li>
 			<li>
 				<a href="http://www.tvland.com/full-episodes" class="top full_eps" title="classic tv shows full episodes">classic tv shows full episodes</a>
 				<ul>
-																		<li class="first full_ep"><a href="http://www.tvland.com/shows/tv-land-awards/full-episodes" title="2012 TV Land Awards">2012 TV Land Awards</a></li>
+																		<li class="first full_ep"><a href="http://www.tvland.com/shows/the-exes/full-episodes" title="The Exes">The Exes</a></li>
+																								<li><a href="http://www.tvland.com/shows/andy-griffith-show/full-episodes" title="The Andy Griffith Show">The Andy Griffith Show</a></li>
 																								<li><a href="http://www.tvland.com/shows/hot-in-cleveland/full-episodes" title="Hot in Cleveland">Hot in Cleveland</a></li>
-																								<li><a href="http://www.tvland.com/shows/happily-divorced/full-episodes" title="Happily Divorced">Happily Divorced</a></li>
-																								<li><a href="http://www.tvland.com/shows/gunsmoke/full-episodes" title="Gunsmoke">Gunsmoke</a></li>
-																								<li><a href="http://www.tvland.com/shows/murder-she-wrote/full-episodes" title="Murder, She Wrote">Murder, She Wrote</a></li>
-																								<li><a href="http://www.tvland.com/shows/boston-legal/full-episodes" title="Boston Legal">Boston Legal</a></li>
+																								<li><a href="http://www.tvland.com/shows/i-love-lucy/full-episodes" title="I Love Lucy">I Love Lucy</a></li>
+																								<li><a href="http://www.tvland.com/shows/bill-cosby-show/full-episodes" title="The Cosby Show">The Cosby Show</a></li>
 																<li class="last"><a href="http://www.tvland.com/full-episodes" title="See all Full Episodes">See all Full Episodes</a></li>
 				</ul>
 			</li>
@@ -139,21 +141,15 @@ Flux.createWidget('QuickMenu', {
 						<script type="text/javascript" src="http://www.tvland.com/sitewide/scripts/channel_finder.js"></script>
 <label for="zip">Find TV Land in your area.</label>
 <form id="channel_finder" action="/channel_finder_results" method="get" onsubmit="submitZap2ItZIPsearch('/search', 'zip', this); return false;">
-	<div class="wrapper">
-		<input type="hidden" name="aid" value="tvland">
-	    <input type="hidden" name="stnlt" value="16123,26046,26872">
-	    <input type="hidden" name="nstnlt" value="false">
-	    <input type="hidden" name="rty" value="json">
-	    <div class="container">
-	    	<div class="field">
-				<input type="text" name="zip" id="zip" value="Enter your ZIP Code" onfocus="if (this.value=='Enter your ZIP Code') this.value = '';" onblur="if (this.value=='') this.value = 'Enter your ZIP Code';" maxlength="7">
-			</div>
-			<div class="button">
-				<input type="submit" value="Go">
-			</div>
-		</div>
-		<div class="error_text">Please enter a valid 5-digit zip code.</div>
+	<input type="hidden" name="aid" value="tvland">
+	<input type="hidden" name="stnlt" value="16123,26046,26872">
+	<input type="hidden" name="nstnlt" value="false">
+	<input type="hidden" name="rty" value="json">
+	<div class="textInputBackground">
+		<input type="text" class="textInput" name="zip" id="zip" value="Enter your ZIP Code" onfocus="if (this.value=='Enter your ZIP Code') this.value = '';" onblur="if (this.value=='') this.value = 'Enter your ZIP Code';" maxlength="7">
+		<input type="submit" class="submitButton" value="">
 	</div>
+	<div class="error_text">Please enter a valid 5-digit zip code.</div>
 </form>					</li>
 				</ul>
 	    	</li>
@@ -162,60 +158,62 @@ Flux.createWidget('QuickMenu', {
 	</div>
 </div>
 		
-			<!-- hidden promo promoID: 42873 -->
+			<!-- hidden promo promoID: 58399 -->
 		
 	<div id="leaderboard">
 	<table width="100%">
 		<tbody><tr>
-			<td width="235" align="left">
-				<div class="social_share">
-					<div class="facebook_share">
-						<div class="facebook_holder">
-							<a href="http://www.facebook.com/tvland" title="Like TV Land on Facebook">Facebook</a>
-							<span class="fb_count">0</span>
+							<td width="235" align="left">
+					
+
+<div id="mod_58162" class="social_share">
+	<div class="facebook_share">
+		<div class="facebook_holder">
+			<a href="http://www.facebook.com/tvland" title="Like TV Land on Facebook">Facebook</a>
+			<span class="fb_count">0</span>
+		</div>
+		<div class="facebook_feed">
+			<iframe src="http://www.facebook.com/plugins/likebox.php?name=tvland&amp;width=300&amp;height=420&amp;connections=0&amp;stream=true&amp;header=false&amp;border_color=%23ffffff" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+		</div>
+	</div>
+	<div class="twitter_share">
+		<div class="twitter_holder">
+			<a href="http://twitter.com/tvland" title="Follow us for all things TV Land">Twitter</a>
+			<span class="tw_count">0</span>
+		</div>
+		<div class="twitter_feed_wrapper">
+			<div class="twitter_follow_button">
+				<a href="http://twitter.com/tvland" class="twitter-follow-button">Follow @tvland</a>
+				<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+			</div>
+			<div class="twitter_feed">
+				<ul class="twitter_posts">
+					<li class="tweet hide">
+						<a href="#" target="_blank">
+							<img class="avatar" src="#" width="48" height="48">
+						</a>
+						<div>
+							<p>
+								<a href="#" class="name" target="_blank"></a>
+							</p>
+							<a href="#" class="date" target="_blank"></a> ·
+							<a href="https://twitter.com/intent/tweet?in_reply_to=" class="intent">reply</a> ·
+							<a href="https://twitter.com/intent/retweet?tweet_id=" class="intent">retweet</a> ·
+							<a href="https://twitter.com/intent/favorite?tweet_id=" class="intent">favorite</a>
 						</div>
-						<div class="facebook_feed">
-							<iframe src="http://www.facebook.com/plugins/likebox.php?name=tvland&amp;width=300&amp;height=420&amp;connections=0&amp;stream=true&amp;header=false&amp;border_color=%23ffffff" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-						</div>
-					</div>
-					<div class="twitter_share">
-						<div class="twitter_holder">
-							<a href="http://twitter.com/tvland" title="Follow us for all things TV Land">Twitter</a>
-							<span class="tw_count">0</span>
-						</div>
-						<div class="twitter_feed_wrapper">
-							<div class="twitter_follow_button">
-								<a href="http://twitter.com/tvland" class="twitter-follow-button">Follow @tvland</a>
-								<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-							</div>
-							<div class="twitter_feed">
-								<ul class="twitter_posts">
-									<li class="tweet hide">
-										<a href="#" target="_blank">
-											<img class="avatar" src="#" width="48" height="48">
-										</a>
-										<div>
-											<p>
-												<a href="#" class="name" target="_blank"></a>
-											</p>
-											<a href="#" class="date" target="_blank"></a> ·
-											<a href="https://twitter.com/intent/tweet?in_reply_to=" class="intent">reply</a> ·
-											<a href="https://twitter.com/intent/retweet?tweet_id=" class="intent">retweet</a> ·
-											<a href="https://twitter.com/intent/favorite?tweet_id=" class="intent">favorite</a>
-										</div>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="youtube_share">
-						<div class="youtube_holder">
-							<a href="http://www.youtube.com/user/tvland" title="TV Land on Youtube">Youtube</a>
-						</div>
-					</div>
-				</div>
-			</td>
-			<td align="center">
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="youtube_share">
+		<div class="youtube_holder">
+			<a href="http://www.youtube.com/user/tvland" title="TV Land on Youtube">Youtube</a>
+		</div>
+	</div>
+</div>
+				</td>
+						<td align="center" class="lb_banner">
 									
  
  
@@ -484,11 +482,9 @@ function relative_time (time_value) {
 																						<li><a href="/tv-schedule">TV Land TV Schedule</a></li>
 																						<li><a href="/full-episodes">Watch Full Episodes</a></li>
 																						<li><a href="/video-clips">TV Show Video Clips</a></li>
-																						<li><a href="http://laughmoretv.tumblr.com">TV Land Blogs</a></li>
-																						<li><a href="/games/trivia/1960s">TV Land Trivia Games</a></li>
+																						<li><a href="http://tvland.tumblr.com">TV Land Tumblr</a></li>
 																						<li><a href="http://www.facebook.com/tvland">TV Land on Facebook</a></li>
 																						<li><a href="http://twitter.com/tvland">TV Land on Twitter</a></li>
-																						<li><a href="http://community.tvland.com">TV Land Community</a></li>
 																						<li><a href="http://shop.tvland.com/?utm_source=tvland_footer">TV Land Store</a></li>
 																						<li><a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2072006811&amp;n=100&amp;email=%%email%%">TV Land Newsletters</a></li>
 																					</ul>
@@ -509,7 +505,7 @@ function relative_time (time_value) {
 																						<li><a href="/shows/the-soul-man">The Soul Man</a></li>
 																						<li><a href="/shows/retired-at-35">Retired at 35</a></li>
 																						<li><a href="/shows/retired-at-35/bios/george-segal">George Segal</a></li>
-																						<li><a href="/shows/retired-at-35/bios/jessica-Walter">Jessica Walter</a></li>
+																						<li><a href="/shows/retired-at-35/bios/jessica-walter">Jessica Walter</a></li>
 																						<li><a href="/shows/andy-griffith-show">The Andy Griffith Show</a></li>
 																						<li><a href="/shows/afi-life-achievement-award">Morgan Freeman</a></li>
 																						<li><a href="http://www.cancerschmancer.org/">Cancer Schmancer</a></li>
@@ -535,8 +531,6 @@ function relative_time (time_value) {
 																						<li><a href="http://www.thecomedyawards.com/">The Comedy Awards</a></li>
 																						<li><a href="http://tosh.comedycentral.com">Tosh.0 with Daniel Tosh</a></li>
 																						<li><a href="http://tosh.comedycentral.com">Tosh</a></li>
-																						<li><a href="http://www.gametrailers.com/motion/microsoft-kinect/">Kinect</a></li>
-																						<li><a href="http://www.gametrailers.com/motion/playstation-move/">Playstation Move</a></li>
 																						<li><a href="http://www.yourtango.com">YourTango.com</a></li>
 																					</ul>
 									</dd>
@@ -550,8 +544,9 @@ function relative_time (time_value) {
 																						<li><a href="/legal/terms">Terms of Use (Updated 12/2/2011)</a></li>
 																						<li><a href="/legal/user-content-agreement">User Content Submission Agreement (Updated 12/2/2011)</a></li>
 																						<li><a href="http://adspecs-it.mtvn.com/?page_id=11#1">Advertising</a></li>
-																						<li><a href="http://srp.mtvn.com/sitefaq.html">Ad Choices</a></li>
 																						<li><a href="http://tvguidelines.org/ratings.htm">TV Ratings Information</a></li>
+																						<li><a href="http://srp.mtvn.com/sitefaq.html"><span style="position:relative;top:-4px;">Ad Choices</span> <img src="http://www.comedycentral.com/images/footer/Advertising-Option-Icon.png"></a></li>
+																						<li><a href="http://media.viacom.com/accessibility">Closed Captioning Contact</a></li>
 																					</ul>
 									</dd>
 								</dl>
@@ -560,6 +555,7 @@ function relative_time (time_value) {
 						</div>
 						<div class="copyright">
 							<div style="padding-bottom: 5px;"><img src="http://www.comedycentral.com/images/logos/logo_viacom_blue_125.png" width="125" height="19" border="0"></div>
+							<div>Viacom Entertainment Group</div>
 							<div>© 2012 Viacom International Inc.</div>
 							<div>All Rights Reserved. TV Land and all related titles and logos are trademarks of Viacom International Inc. </div>
 						</div>
@@ -575,8 +571,7 @@ function relative_time (time_value) {
 					$(document).ready(initialize);
 				}
 			</script>
-		 
-		<script src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=TVLAND"></script>
+		
 		
 		
 <div id="marketing_tracking" style="display:none;border:none;border-width:0;margin:0px;padding:0px; !important;">
@@ -664,6 +659,6 @@ if (typeof (atlasTrackingPixel) != 'undefined' && atlasTrackingPixel != '') {
 									mtvn.btg.ads.AdManager.placeAd({size:'1x2',keyValues:thisKeyValueString});
 				onAdNumber++; // Increment Ad Number
 	</script>
-</div>		
-	<!--PAGEOK-->
+</div>		<!--PAGEOK-->
+	
 </b></body></html>
