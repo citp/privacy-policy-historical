@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202547id_/http%3A//www.boostcruising.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016091715id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
 
-# Boostcruising - Boostcruising.com - Terms and Conditions
+# Boostcruising - Terms and Conditions
 
 Boostcruising is committed to protecting your privacy in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth). Those principles regulate the way in which we collect, use, store, disclose and provide access to your personal information.
 
