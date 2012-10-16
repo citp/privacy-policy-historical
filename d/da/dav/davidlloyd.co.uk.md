@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617032020id_/http%3A//www.davidlloyd.co.uk/home/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016044026id_/http%3A//www.davidlloyd.co.uk/home/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | David Lloyd Leisure
 
@@ -19,24 +19,27 @@
     
 DAVID LLOYD LEISURE PRIVACY POLICY
 
-David Lloyd Leisure is a brand owned by David Lloyd Leisure Limited, whose registered office is located at The Hangar, Mosquito Way, Hatfield Business Park, Hatfield, Hertfordshire, AL10 9AX, registered in England under Company No 1516226. This policy (together with our terms and conditions of membership and any other documents referred to in this policy) explains how we will collect, process, use and protect any personal data which we collect from you or that you provide to us.
+David Lloyd Leisure is a brand owned by David Lloyd Leisure Limited, whose registered office is located at The Hangar, Mosquito Way, Hatfield Business Park, Hatfield, Hertfordshire, AL10 9AX, registered in England under Company No 1516226. This policy (together with our terms and conditions of membership and any other documents referred to in this policy) explains how we will collect, process, use and protect any personal data which we collect from you or that you provide to us
 
+  
     
 1\. YOUR PERSONAL INFORMATION
 
 **1.1** We may collect and process the following data about you:
 
-**1.1.1** certain personal information such as your name, postal and email addresses, telephone number(s), payment information and/or a user name and password. 
+• Certain personal information such as your name, postal and email addresses, telephone number(s), payment information and/or a user name and password. 
 
-**1.1.2** information provided when you register for or use our website (http://www.davidlloyd.co.uk) and our online facilities, including, but not limited to, the members' lounge and online communities (Website), including but not limited to the URL you came from, your computer's IP address, your browser type, the country and telephone area code where your computer is located and the pages of our website that you viewed.
+• Information provided when you register for or use our website (http://www.davidlloyd.co.uk) and our online facilities, including, but not limited to, the members' lounge and online communities (Website), including but not limited to the URL you came from, your computer's IP address, your browser type, the country and telephone area code where your computer is located and the pages of our website that you viewed.
 
-**1.1.3** information provided at the time of registering for membership with David Lloyd Leisure.
+• Information provided at the time of registering for membership with David Lloyd Leisure.
 
-**1.1.4** information about your booking and/or use of David Lloyd Leisure Club facilities.
+• Information about your booking and/or use of David Lloyd Leisure Club facilities.
 
-**1.1.5** if you contact us we may keep a record of that correspondence;
+• If you contact us we may keep a record of that correspondence.
 
-**1.1.6** we may ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
+• We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+
+• Location data, which your mobile device provides if you consent.
 
   
 **1.2** We may supplement the information that you provide to us with information that we receive from third parties.
@@ -48,7 +51,7 @@ By submitting information to us or using our Website or registering for services
 
 **2.1** Agree to accept the data protection practices outlined in this Privacy Policy; and
 
-**2.2** Consent to our collecting and processing your personal data.
+**2.2** Consent to our collecting and processing your personal data in accordance with this Privacy Policy.
 
     
 3\. USE OF YOUR INFORMATION
@@ -107,7 +110,7 @@ By submitting information to us or using our Website or registering for services
 
 **5.2** Your right to control what communications, if any, that you receive from David Lloyd Leisure is important to us. The information below will assist you in understanding the different communications options you have, and how you can notify us of changes in your preferences or to unsubscribe in general.
 
-**5.3** If we provide notifications to Members including, without limitation, class cancellations, membership terms or bookings changes, these notifications may be made by telephone or sent by email, text message, mobile telephone application, post or any other appropriate means.
+**5.3** If we provide notifications to Members including, without limitation, class cancellations, membership terms or bookings changes, these notifications may be made by telephone or sent by email, text message, mobile telephone application, post or any other appropriate means
 
 **5.4** David Lloyd Leisure maintains a list of people who have expressed an interest in receiving updates about local Club events, special promotions and offers. These can be sent by email, post or text message according to your preferences. You can subscribe to these updates at any time, and unsubscribe by following the instructions within any electronic communication:
 
@@ -127,25 +130,21 @@ By submitting information to us or using our Website or registering for services
 
   
     
-6\. COOKIES
-
-**6.1** When you visit one of our websites, we may send you a cookie. A cookie is a small file that can be placed on your computer's hard disk for record keeping purposes and we may use them to do a number of things:
+**6.1** When you visit one of our websites or mobile applications, we may send you a cookie. A cookie is a small file that can be placed on your computer's hard disk or mobile device for record keeping purposes and we may use them to do a number of things:
 
 **6.1.1** Cookies help us to recognise you when you next visit one of our websites and note the advertisements displayed to you. This allows us to tailor the advertisements we provide to your preferences. We may use the services of third party ad servers for this purpose.
 
 **6.1.2** Cookies may be used to compile anonymous statistics related to the take up or use of services, or to patterns of browsing. A third party collects such data on our behalf to measure web site performance. Information collected is aggregated for reporting purposes. No personally identifiable information is collected by this service. The use of this service assists us in measuring and improving the structure and ease of use of our web sites.
 
-**6.2** If you do not wish to use cookies, you may de-activate cookies in your web-browser or reject the creation of cookies. You may wish to seek technical assistance from your browser provider if you do not know how to do this. David Lloyd Leisure cannot be responsible for any technical faults or failures to your system.
+**6.2** If you do not wish to use cookies, you may de-activate cookies in your web-browser or reject the creation of cookies. You may wish to seek technical assistance from your browser provider if you do not know how to do this. For more information on cookies and how we use them visit [www.davidlloyd.co.uk/home/cookies](http://davidlloyd.co.uk/home/cookies). David Lloyd Leisure cannot be responsible for any technical faults or failures to your system.
 
-  
     
 7\. ACCESS TO INFORMATION
 
 **7.1** You have the right to make a written request for a copy of the personal data that we keep about you (for which we may, at our sole discretion charge a small fee of £10) or to correct the details that we hold about you.
 
-**7.2** If you would like to know what personal information we hold about you, or would like us to correct the details we hold about you, you should write to the Club manager at the address of your Club, enclosing proof of your identity (such as a copy of your passport or driving licence) and asking to see your personal information or asking us to correct the relevant information. You will have to give us enough information so we can identify the personal information you have asked to see or have corrected. We do not have to respond to your request until you have given us the information we need and you have paid the fee (if we ask you for one). We will contact you within 40 days of you asking to see your records.
+**7.2** If you would like to know what personal information we hold about you, or would like us to correct the details we hold about you, you should write to the Club manager at the address of your Club, enclosing proof of your identity (such as a copy of your passport or driving licence) and asking to see your personal information or asking us to correct the relevant information. You will have to give us enough information so we can identify the personal information you have asked to see or have corrected. We do not have to respond to your request until you have given us the information we need and you have paid the fee (if we ask you for one). We will contact you within 40 days of you asking to see your records or, where we have asked for further information to identify you, within 40 days of receiving such information
 
-  
     
 8\. CHANGES TO THIS PRIVACY POLICY
 
