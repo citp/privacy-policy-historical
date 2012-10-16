@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tipsotricks.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510070354id_/http%3A//www.tipsotricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsotricks.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017005306id_/http%3A//www.tipsotricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tipsOtricks
 
-May 10, 2012 12:03 pm You are here:[Home](http://www.tipsotricks.com/) Privacy Policy
+October 17, 3187 1:50 pm You are here:[Home](http://www.tipsotricks.com/) Privacy Policy
 
   * **tipsOtricks** collects visitors’ information through third party website statistics service (statscounter.com). As with most other websites, visitors’ data collected are contained in (online) log files. The information in these log files include your IP address, your ISP, the browser you used to visit the blog, the time you spent on the blog and which pages you viewed throughout the blog.
 
