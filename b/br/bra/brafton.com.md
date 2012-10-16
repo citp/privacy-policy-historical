@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609083544id_/http%3A//www.brafton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016070445id_/http%3A//www.brafton.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement :: Brafton
+# Privacy Statement
 
   1. ### General:
 
