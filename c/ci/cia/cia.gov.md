@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513153812id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016201804id_/http%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Kids' Page Privacy Statement — Central Intelligence Agency
 
