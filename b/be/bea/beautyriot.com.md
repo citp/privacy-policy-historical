@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyriot.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509234354id_/http%3A//www.beautyriot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyriot.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016115140id_/http%3A//www.beautyriot.com/privacy) for the most accurate reproduction.*
 
 # BeautyRiot Privacy Policy
 
@@ -138,6 +138,6 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [legal@beautyriot.com](mailto:legal@beautyriot.com).
 
-Last updated on April 6, 2010
+Last updated on June 26, 2012
 
-© 2010 Total Beauty Media, Inc. All rights reserved.
+© 2012 Total Beauty Media, Inc. All rights reserved.
