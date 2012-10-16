@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the couponmailroom.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619013610id_/http%3A//www.couponmailroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmailroom.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016045117id_/http%3A//www.couponmailroom.com/privacy.php) for the most accurate reproduction.*
 
-# Coupon Mailroom
+# Privacy Policy
+
+## COUPON MAIL ROOM PRIVACY POLICY
 
 **Effective November 23, 2011**
 
@@ -12,7 +14,7 @@ You must be at least 18 years of age to use this Website for any purpose.
 
 ## Questions
 
-If you have questions about this policy please contact us by clicking [here](https://web.archive.org/web/20120619013610id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us"). 
+If you have questions about this policy please contact us by clicking [here](https://web.archive.org/web/20121016045117id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us"). 
 
 ## Non-Personally Identifiable Information
 
@@ -32,7 +34,7 @@ We may collect, use and share your personally identifiable information for any l
 
 We may use the personal information which you provide to send you information, either online or offline, via email, direct mail, SMS text messaging and telemarketing, regarding products or services offered by third-party advertisers. In addition, we reserve the right to rent, sell or share the personal information which you provide with unaffiliated third-parties; these third-parties may use this information for online and offline marketing purposes.
 
-By signing up on our website and providing your personal information you are expressly consenting to receive communications from us and from anyone that we may provide your personal information. In addition, you expressly consent to be contacted in any manner including via email, direct mail, telephone or SMS text messaging, even if your information is listed on the National Do Not Call registry or a similar registry. If you do not agree to these terms than do not use our site. 
+By signing up on our website and providing your personal information you are expressly consenting to receive communications from us and from anyone that we may provide your personal information. In addition, you expressly consent to be contacted in any manner including via email, direct mail, telephone or SMS text messaging, even if your information is listed on the National Do Not Call registry or a similar registry. If you do not agree to these terms then do not use our site. 
 
 Finally, we may provide your personally identifiable information in accordance with the law, such as in response to a subpoena, warrant or other governmental request; if we believe it is necessary to protect our rights or the rights of any third party; in the event of a sale, merger, or acquisition; or if you consent to such disclosure. 
 
@@ -42,7 +44,7 @@ To opt-out of receiving emails from this Website please [click here](https://web
 
 ## Accessing and Updating Your Information
 
-To access, update or delete your personally identifiable information that you have provided to us please contact us by clicking [here](https://web.archive.org/web/20120619013610id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us")
+To access, update or delete your personally identifiable information that you have provided to us please contact us by clicking [here](https://web.archive.org/web/20121016045117id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us")
 
 ## Third-Party Hosting
 
