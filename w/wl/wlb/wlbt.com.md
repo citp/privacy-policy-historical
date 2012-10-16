@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlbt.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610131859id_/http%3A//www.wlbt.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlbt.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016145946id_/http%3A//www.wlbt.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WLBT.com - Jackson, MS
 
