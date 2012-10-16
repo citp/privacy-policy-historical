@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thepapermillstore.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511023827id_/http%3A//www.thepapermillstore.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thepapermillstore.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016124558id_/http%3A//www.thepapermillstore.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -17,17 +17,20 @@
 //]]>
 </script>
 <![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.thepapermillstore.com/js/calendar/calendar-win2k-1.css">
 <link rel="stylesheet" type="text/css" href="http://www.thepapermillstore.com/skin/frontend/enterprise/tpms/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.thepapermillstore.com/skin/frontend/enterprise/tpms/css/styles-cms.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.thepapermillstore.com/skin/frontend/enterprise/default/css/widgets.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.thepapermillstore.com/skin/frontend/base/default/mailchimp/css/MailChimp.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.thepapermillstore.com/skin/frontend/enterprise/tpms/css/print.css" media="print">
-<script type="text/javascript" src="http://www.thepapermillstore.com/media/js/9f72238896b0796e50109fdab9755516.js"></script>
+<script type="text/javascript" src="http://www.thepapermillstore.com/media/js/338c720fc183941edbc7cc16dee3b970.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.thepapermillstore.com/skin/frontend/enterprise/tpms/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://www.thepapermillstore.com/media/js/395f68cacf56efa15c19b78268dd1050.js"></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script type="text/javascript" src="http://www.thepapermillstore.com/media/js/2ed55e43a10a07b0cb65c68ff050d918.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -42,7 +45,76 @@ Mage.Cookies.domain   = '.www.thepapermillstore.com';
 optionalZipCountries = [];
 //]]>
 </script>
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+
+<script type="text/javascript">
+//<![CDATA[
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+Calendar._DN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]; // full day names
+Calendar._SDN = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]; // short day names
+Calendar._FD = 0; // First day of the week. "0" means display Sunday first, "1" means display Monday first, etc.
+Calendar._MN = ["January","February","March","April","May","June","July","August","September","October","November","December"]; // full month names
+Calendar._SMN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; // short month names
+Calendar._am = "AM"; // am/pm
+Calendar._pm = "PM";
+
+// tooltips
+Calendar._TT = {};
+Calendar._TT["INFO"] = "About the calendar";
+
+Calendar._TT["ABOUT"] =
+"DHTML Date/Time Selector\n" +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL. See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Date selection:\n" +
+"- Use the \xab, \xbb buttons to select year\n" +
+"- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
+"- Hold mouse button on any of the above buttons for faster selection.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+Calendar._TT["PREV_YEAR"] = "Prev. year (hold for menu)";
+Calendar._TT["PREV_MONTH"] = "Prev. month (hold for menu)";
+Calendar._TT["GO_TODAY"] = "Go Today";
+Calendar._TT["NEXT_MONTH"] = "Next month (hold for menu)";
+Calendar._TT["NEXT_YEAR"] = "Next year (hold for menu)";
+Calendar._TT["SEL_DATE"] = "Select date";
+Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";
+Calendar._TT["PART_TODAY"] = ' (' + "Today" + ')';
+
+// the following is to inform that "%s" is to be the first day of week
+Calendar._TT["DAY_FIRST"] = "Display %s first";
+
+// This may be locale-dependent. It specifies the week-end days, as an array
+// of comma-separated numbers. The numbers are from 0 to 6: 0 means Sunday, 1
+// means Monday, etc.
+Calendar._TT["WEEKEND"] = "0,6";
+
+Calendar._TT["CLOSE"] = "Close";
+Calendar._TT["TODAY"] = "Today";
+Calendar._TT["TIME_PART"] = "(Shift-)Click or drag to change value";
+
+// date formats
+Calendar._TT["DEF_DATE_FORMAT"] = "%b %e, %Y";
+Calendar._TT["TT_DATE_FORMAT"] = "%B %e, %Y";
+
+Calendar._TT["WK"] = "Week";
+Calendar._TT["TIME"] = "Time:";
+//]]>
+</script>
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script>
+<script language="javascript" type="text/javascript">
+var sliJsHost = (("https:" == document.location.protocol) ? "https://"  : "http://" );
+document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.1.2.css" /%3E'));
+document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'thepapermillstore.resultspage.com/rac/sli-rac.css?rev=108828" /%3E'));
+</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.1.2.css"><link rel="stylesheet" type="text/css" href="https://thepapermillstore.resultspage.com/rac/sli-rac.css?rev=108828">
+
+<link rel="stylesheet" href="///assets.resultspage.com/autosuggest/autosuggest.css" media="screen" type="text/css">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy">
 
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
@@ -50,7 +122,7 @@ optionalZipCountries = [];
 //<![CDATA[
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
     })();
 
@@ -83,9 +155,9 @@ _gaq.push(['_trackPageview']);
 <li><a onclick="window.open('https://server.iad.liveperson.net/hc/11837151/?cmd=file&amp;file=visitorWantsToChat&amp;site=11837151&amp;imageUrl=https://www.thepapermillstore.com/images&amp;referrer='+escape(document.location),'chat11837151','width=472,height=320'); return false;" href="https://server.iad.liveperson.net/hc/11837151/?cmd=file&amp;file=visitorWantsToChat&amp;site=11837151&amp;byhref=1&amp;imageUrl=https://www.thepapermillstore.com/images" target="chat11837151">Live Chat</a></li>
 <li><a href="http://www.thepapermillstore.com/contact-us">Contact</a></li>
 <li><a href="http://www.thepapermillstore.com/faq">FAQs</a></li>
-<li class="last"><a href="/newsletters/">Email Archive</a></li>
+<li class="last"><a href="http://paper.thepapermillstore.com/">Popular Searches</a></li>
 </ul>
-</div>		
+</div>
 		<ul class="links">
 				<li class="first"><a href="http://www.thepapermillstore.com/customer/account/login/">Log In</a></li>
 	<li><a href="http://www.thepapermillstore.com/customer/account/create/">Register</a></li>
@@ -93,7 +165,7 @@ _gaq.push(['_trackPageview']);
 <!--/{WISHLISTLINKS_51ee1fb458b37997491be9a41fafdb0a}-->            			<li class="last-link"><a href="https://www.thepapermillstore.com/sales/order/history/">Quick Re-Order</a></li>
 
 		</ul>
-		
+
         <!--{MODCUSTOMER_USERNAME__1ff6747ef417545f324aaf3a870c2129}-->
 
 		
@@ -108,12 +180,26 @@ _gaq.push(['_trackPageview']);
 					<img src="http://www.thepapermillstore.com/skin/frontend/enterprise/tpms/images/logo.gif" alt="The Paper Mill Store .com">
 				</a>
 											</div>
-			
+
 			<div class="header-right">
 				<div class="header-spiffs">
                     <div class="header-new-banner">
                         <!--{TPMS_HEADERBANNER_CACHE_2972278797d0630c7ebb91001dd08cfb}--><div class="header-banner">
-<a href="/rewards-program-big-savings"><img alt="Sign up for Buyer Rewards and Start Earning Discounts" src="/media/header/banners/reward-banner.jpg" style="border: 0;"></a></div>
+
+  <div class="header-banner-bg1">
+    <div class="header-banner-bg2 curvyIgnore css3">
+      <div class="header-banner-bg3">
+
+          <div class="banner-free-shipping">
+          <div class="banner-free-shipping-top"><span class="ups-icon icon ups-large-icon">&nbsp;</span><a href="/customer-service/free-shipping/">FREE SHIPPING</a></div>
+          <div class="banner-free-shipping-bottom">on orders of $199 and up</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
 <!--/{TPMS_HEADERBANNER_CACHE_2972278797d0630c7ebb91001dd08cfb}-->                    </div>
                     <div class="header-old-banner">
                         <div><a class="header-spiff first-spiff" href="http://www.thepapermillstore.com/customer-service/lowest-price-guarantee">
@@ -124,7 +210,7 @@ _gaq.push(['_trackPageview']);
 				</div>
 				<div class="quick-access">
 					<div class="inner">
-						<!--{TOPCART_a622dfa19c94d8c1f5a15ab03a300108}--><div class="top-cart">
+						<!--{TOPCART_8d3179869bccba0d6f83a3be8dcf6755}--><div class="top-cart">
         <div class="block-title no-items">
         <div id="cartHeader"><span>0</span><br>Items</div>
     </div>
@@ -142,238 +228,440 @@ _gaq.push(['_trackPageview']);
 		<div class="bottom-corners"></div>
     </div>
 </div>
-<!--/{TOPCART_a622dfa19c94d8c1f5a15ab03a300108}-->					</div>
+<!--/{TOPCART_8d3179869bccba0d6f83a3be8dcf6755}-->					</div>
 				</div>
 			</div>
+			<!--
             <div class="ups-above-search">
                 <span class="ups-icon icon ups-large-icon">&nbsp;</span>
                 <a href="http://www.thepapermillstore.com/customer-service/free-shipping/">FREE SHIPPING</a> on orders of $199 and up
             </div>
-			<form id="search_mini_form" action="http://www.thepapermillstore.com/catalogsearch/result/" method="get">
-<div class="form-search">
-    <label for="search">Search site:</label>
-	<input id="search" type="text" name="q" value="" class="inactive input-text">
-	<button type="submit" title="Go" class="button"></button>
-    <div id="search_autocomplete" class="search-autocomplete"></div>
-    <script type="text/javascript">
-    //<![CDATA[
-		var searchDefaultValue = "Enter SKU, Color, Brand, etc.";
-		var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Enter SKU, Color, Brand, etc.');
-        searchForm.initAutocomplete('http://www.thepapermillstore.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            -->
+            <a href="#" class="email-above-search bronto-link curvyIgnore css3">
+                <span class="email-icon icon">&nbsp;</span> <span class="link">Join our email list and get <strong>$5 off</strong> your next order</span>
+            </a>
+			
+<script type="text/javascript">
+/* <![CDATA[ */
+function ajaxsearchsubmit(form){
+    var search = encodeURIComponent(form.w.value);
+    var asug = encodeURIComponent(form.asug.value);
+    window.location="http://paper.thepapermillstore.com/search?w="+search+"&asug="+asug;
+    return false;
+}
+/* ]]> */
+</script>
 
-		jQuery("#search").focus(function(){
-			var val = jQuery.trim(jQuery(this).val());
-			if (val == searchDefaultValue || val == ''){
-				jQuery(this).removeClass('inactive');
-			}
-		});
-		jQuery("#search").blur(function(){
-			var val = jQuery.trim(jQuery(this).val());
-			if (val == '' || val == searchDefaultValue){
-				jQuery(this).addClass('inactive');
-			}
-		});
-    //]]>
-    </script>
-</div>
+<form onsubmit="return ajaxsearchsubmit(this)" method="get" action="http://paper.thepapermillstore.com/search" name="searchform" id="search_mini_form">
+    <div class="form-search">
+        <label for="search">Search site:</label>
+        <input type="hidden" name="asug">
+        <input type="hidden" value="grid" name="view">
+        <input type="text" autocomplete="off" id="sli_search_1" onfocus="this.value=''" value="Enter SKU, Color, Brand, etc." class="inactive input-text" name="w">
+        <button class="button" title="Go" type="submit"></button>
+    </div>
 </form>
 		</div>
 		<!--{CATALOG_NAVIGATION_13b27c97191b44bd2d7f7118486f33b2}-->
- <div class="nav-container clearfix">
-	<ul id="nav" class="level0">
-	 				
-			<li class="level0 nav-1 level-top first"><a class="level-top" href="http://www.thepapermillstore.com/paper/"><span>Paper</span></a>
 
-				<div class="drop-down">
-							<div>
-<h6><a href="http://www.thepapermillstore.com/paper/">Fine Paper</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/paper-colors">Shop by Color</a></li>
-<li><a href="http://www.thepapermillstore.com/paper-sizes">Shop by Size</a></li>
-<li><a href="http://www.thepapermillstore.com/paper-brands">Shop by Brand Name</a></li>
-<li><a href="http://www.thepapermillstore.com/paper-weights">Shop by Basis Weight</a></li>
-<li><a href="http://www.thepapermillstore.com/our-company/international-paper-companies">Shop by Paper Mill</a></li>
-<li><a href="http://www.thepapermillstore.com/product-resources/paper-samples-and-swatchbooks">Paper Samples</a></li>
-</ul>
-<ul>
-<li><a href="http://www.thepapermillstore.com/paper/uncoated-paper">Uncoated Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/coated-paper">Coated Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/metallic-paper">Metallic Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/translucent-paper">Translucent/Vellum Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/digital-paper">Digital Press Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/onion-skin-paper">Onion Skin Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/watermarked-paper">Watermarked Paper</a></li>
-</ul>
-<ul>
-<li><a href="http://www.thepapermillstore.com/paper/recycled-paper">Recycled Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/fsc-paper">FSC Certified Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/sfi-paper">SFI Certified Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/specialty-paper">Specialty Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/paper/artist-paper">Artist Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/security-paper">Security Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/carbonless-paper">Carbonless Paper</a></li>
-</ul>
+<div class="top-nav h-fill">
+
+  <div class="shop-all f-left curvyIgnore css3">
+    <div>Shop all product categories</div>
+    <a href="#"></a>
+  </div>
+
+  <div class="top-nav-tabs h-fill">
+    <ul class="curvyIgnore css3">
+      <li class="f-left">
+          <a href="http://www.thepapermillstore.com/paper/" class="css3 ">Paper</a>
+
+
+
+<div class="top-nav-tab">
+  <div style="padding-top: 6px; position: relative; overflow: visible; zoom: 1;">
+    <div class="top-nav-tab-bg1 curvyIgnore css3">
+      <div class="top-nav-tab-bg2 curvyIgnore css3">
+
+<div class="top-nav-paper top-nav-content">
+    <h6><a href="http://www.thepapermillstore.com/paper/">Fine Paper</a></h6>
+    <div class="h-fill">
+        <ul class="f-left">
+            <li><a href="http://www.thepapermillstore.com/paper-colors">Shop by Color</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper-sizes">Shop by Size</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper-brands">Shop by Brand Name</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper-weights">Shop by Basis Weight</a></li>
+            <li><a href="http://www.thepapermillstore.com/our-company/international-paper-companies">Shop by Paper Mill</a></li>
+            <li class="spaced-item"><a href="http://www.thepapermillstore.com/product-resources/paper-samples-and-swatchbooks">Paper Samples</a></li>
+        </ul>
+        <ul class="f-left">
+            <li><a href="http://www.thepapermillstore.com/paper/uncoated-paper">Uncoated Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/coated-paper">Coated Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/metallic-paper">Metallic Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/translucent-paper">Translucent/Vellum Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/digital-paper">Digital Press Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/onion-skin-paper">Onion Skin Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/watermarked-paper">Watermarked Paper</a></li>
+        </ul>
+        <ul class="f-left">
+            <li><a href="http://www.thepapermillstore.com/paper/recycled-paper">Recycled Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/fsc-paper">FSC Certified Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/sfi-paper">SFI Certified Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/specialty-paper">Specialty Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/paper/artist-paper">Artist Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/security-paper">Security Paper</a></li>
+            <li><a href="http://www.thepapermillstore.com/carbonless-paper">Carbonless Paper</a></li>
+        </ul>
+    </div>
 </div>
-<div class="shift-right">
-<h6><a href="http://www.thepapermillstore.com/die-cuts">Die Cuts</a></h6>
+      </div>
+    </div>
+    <div class="top-nav-tab-connector"></div>
+    <div class="right-tab-patch"><div><div class="css3"></div></div></div>
+  </div>
+</div>
+
+        </li>
+      <li class="f-left">
+          <a href="http://www.thepapermillstore.com/card-stock/" class="css3 ">Card Stock</a>
+
+
+
+<div class="top-nav-tab">
+  <div style="padding-top: 6px; position: relative; overflow: visible; zoom: 1;">
+    <div class="top-nav-tab-bg1 curvyIgnore css3">
+      <div class="top-nav-tab-bg2 curvyIgnore css3">
+
+<div class="top-nav-card-stock top-nav-content">
+    <div class="h-fill">
+        <div class="f-left">
+            <h6><a href="http://www.thepapermillstore.com/card-stock/">Card Stock</a></h6>
+            <ul>
+                <li><a href="http://www.thepapermillstore.com/card-stock-colors">Shop by Color</a></li>
+                <li><a href="http://www.thepapermillstore.com/card-stock-sizes">Shop by Size</a></li>
+                <li><a href="http://www.thepapermillstore.com/card-stock-brands">Shop by Brand Name</a></li>
+                <li><a href="http://www.thepapermillstore.com/card-stock/metallic-card-stock">Metallic Card Stock</a></li>
+                <li><a href="http://www.thepapermillstore.com/card-stock/super-heavy-card-stock">Super Heavy Card Stock</a></li>
+                <li><a href="http://www.thepapermillstore.com/card-stock/8-5-x-11-card-stock">8 1/2 x 11 Card Stock</a></li>
+                <li><a href="http://www.thepapermillstore.com/card-stock/12-x-12-card-stock">12 x 12 Card Stock</a></li>
+                <li><a href="http://www.thepapermillstore.com/card-stock-and-envelope-sets">Card Stock/Envelope Sets</a></li>
+            </ul>
+        </div>
+        <div class="f-left">
+            <h6><a href="http://www.thepapermillstore.com/note-cards">Note Cards</a></h6>
+            <ul>
+                <li><a href="http://www.thepapermillstore.com/note-card-colors">Shop by Color</a></li>
+                <li><a href="http://www.thepapermillstore.com/note-card-sizes">Shop by Size</a></li>
+                <li><a href="http://www.thepapermillstore.com/note-card-brands">Shop by Brand Name</a></li>
+                <li><a href="http://www.thepapermillstore.com/note-cards/flat-note-cards">Flat Cards</a></li>
+                <li><a href="http://www.thepapermillstore.com/note-cards/folded-note-cards">Folded Cards</a></li>
+                <li><a href="http://www.thepapermillstore.com/note-cards/flat-panel-note-cards">Flat Panel Cards</a></li>
+                <li><a href="http://www.thepapermillstore.com/note-cards/folded-panel-note-cards">Folded Panel Cards</a></li>
+            </ul>
+        </div>
+        <div class="f-left">
+            <h6><a href="http://www.thepapermillstore.com/presentation-folders">Pocket Folders</a></h6>
+            <ul>
+                <li><a href="http://www.thepapermillstore.com/presentation-folders/">Pocket Folders</a></li>
+                <li><a href="http://www.thepapermillstore.com/presentation-folder-kits">Presentation Folder Kits</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+      </div>
+    </div>
+    <div class="top-nav-tab-connector"></div>
+    <div class="right-tab-patch"><div><div class="css3"></div></div></div>
+  </div>
+</div>
+
+        </li>
+      <li class="f-left">
+          <a href="http://www.thepapermillstore.com/envelopes/" class="css3 ">Envelopes</a>
+
+
+
+<div class="top-nav-tab">
+  <div style="padding-top: 6px; position: relative; overflow: visible; zoom: 1;">
+    <div class="top-nav-tab-bg1 curvyIgnore css3">
+      <div class="top-nav-tab-bg2 curvyIgnore css3">
+
+<div class="top-nav-envelopes top-nav-content">
+    <div class="h-fill">
+        <div class="f-left h-fill">
+            <h6><a href="http://www.thepapermillstore.com/envelopes/">Envelopes</a></h6>
+            <div class="h-fill">
+                <ul class="f-left">
+                    <li><a href="http://www.thepapermillstore.com/envelope-colors">Shop by Color</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelope-sizes">Shop by Size</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelope-brands">Shop by Brand Name</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelopes/recycled-envelopes">Recycled Envelopes</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelopes/fsc-envelopes">FSC Certified Envelopes</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelopes/sfi-envelopes">SFI Certified Envelopes</a></li>
+                </ul>
+                <ul class="f-left">
+                    <li><a href="http://www.thepapermillstore.com/envelopes/business-envelopes">Business Envelopes</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelopes/social-envelopes">Social and Invitation Envelopes</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelopes/square-envelopes">Square Envelopes</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelopes/metallic-envelopes">Metallic Envelopes</a></li>
+                    <li><a href="http://www.thepapermillstore.com/envelopes/translucent-envelopes">Translucent/Vellum Envelopes</a></li>
+                </ul>
+            </div>
+            <div class="top-nav-ep-link center-blue-button"><a href="http://www.thepapermillstore.com/custom-printed-envelopes" class="curvyIgnore css3">Get Custom Printed Envelopes &gt;&gt;</a></div>
+        </div>
+        <div class="f-left">
+            <h6><a href="http://www.thepapermillstore.com/labels">Labels</a></h6>
+            <ul>
+                <li><a href="http://www.thepapermillstore.com/label-colors">Shop by Color</a></li>
+                <li><a href="http://www.thepapermillstore.com/label-sizes">Shop by Label Size</a></li>
+                <li><a href="http://www.thepapermillstore.com/label-brands">Shop by Brand Name</a></li>
+                <li><a href="http://www.thepapermillstore.com/labels/address-and-shipping-labels">Address and Shipping Labels</a></li>
+                <li><a href="http://www.thepapermillstore.com/labels/inkjet-laser-labels">Inkjet and Laser Labels</a></li>
+                <li><a href="http://www.thepapermillstore.com/labels/colored-labels">Colored Labels</a></li>
+                <li><a href="http://www.thepapermillstore.com/labels/clear-labels">Clear Labels</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+      </div>
+    </div>
+    <div class="top-nav-tab-connector"></div>
+    <div class="right-tab-patch"><div><div class="css3"></div></div></div>
+  </div>
+</div>
+
+        </li>
+      <li class="f-left">
+          <a href="http://www.thepapermillstore.com/stationery" class="css3 ">Stationery</a>
+
+
+            <div class="new-bookmark"></div>
+        </li>
+      <li class="f-left">
+          <a href="http://www.thepapermillstore.com/die-cuts" class="css3 ">Die Cuts</a>
+
+
+
+<div class="top-nav-tab">
+  <div style="padding-top: 6px; position: relative; overflow: visible; zoom: 1;">
+    <div class="top-nav-tab-bg1 curvyIgnore css3">
+      <div class="top-nav-tab-bg2 curvyIgnore css3">
+
+<div class="top-nav-die-cuts top-nav-content">
+
+  <h6><a href="/die-cuts">Die Cut &amp; Pre-Finished Products</a></h6>
+
+  <div class="die-cuts-thumbs">
+    <ul class="h-fill">
+      <li class="f-left">
+        <a href="/die-cuts/door-hangers" class="die-cuts-thumb icon-hangers"></a>
+        <div class="die-cuts-link"><a href="/die-cuts/door-hangers">Door Hangers</a></div>
+      </li>
+      <li class="f-left">
+        <a href="/die-cuts/raffle-tickets" class="die-cuts-thumb icon-raffle"></a>
+        <div class="die-cuts-link"><a href="/die-cuts/raffle-tickets">Raffle Tickets</a></div>
+      </li>
+      <li class="f-left">
+        <a href="/die-cuts/table-tents" class="die-cuts-thumb icon-tents"></a>
+        <div class="die-cuts-link"><a href="/die-cuts/table-tents">Table Tents</a></div>
+      </li>
+      <li class="f-left">
+        <a href="/die-cuts/display-easels" class="die-cuts-thumb icon-easels"></a>
+        <div class="die-cuts-link"><a href="/die-cuts/display-easels">Display Easels</a></div>
+      </li>
+      <li class="f-left">
+        <a href="/die-cuts/mailers-postcards" class="die-cuts-thumb icon-postcards"></a>
+        <div class="die-cuts-link"><a href="/die-cuts/mailers-postcards">Postcards &amp; Mailers</a></div>
+      </li>
+      <li class="f-left">
+        <a href="/die-cuts/copy-tabs" class="die-cuts-thumb icon-tabs"></a>
+        <div class="die-cuts-link"><a href="/die-cuts/copy-tabs">Copy Tabs</a></div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="die-cuts-button center-blue-button"><a href="/die-cuts" class="curvyIgnore css3">Shop for Pre-Finished Die Cuts - Ready to Print &gt;&gt;</a></div>
+
+</div>
+      </div>
+    </div>
+    <div class="top-nav-tab-connector"></div>
+    <div class="right-tab-patch"><div><div class="css3"></div></div></div>
+  </div>
+</div>
+
+        </li>
+      <li class="f-left">
+          <a href="http://www.thepapermillstore.com/custom-printed-envelopes" class="css3  dark-tab">Printing &amp; Finishing</a>
+
+
+
+<div class="top-nav-tab dark-tab">
+  <div style="padding-top: 6px; position: relative; overflow: visible; zoom: 1;">
+    <div class="top-nav-tab-bg1 curvyIgnore css3">
+      <div class="top-nav-tab-bg2 curvyIgnore css3">
+
+<div class="top-nav-printing top-nav-content">
+
+  <div class="print-boxes">
+    <ul class="h-fill">
+      <li class="f-left">
+        <a href="/custom-printed-envelopes" class="print-box curvyIgnore css3">
+          <div class="print-box-view">
+            <h6>Custom Printed Envelopes</h6>
+            <div class="bold-note">4 Easy Steps</div>
+            <span>1 - 4 colors on 1 or 2 Sides</span>
+            <span>Design Online or Send Artwork</span>
+            <span>Free PDF Proofs</span>
+            <span>Fast Production Times</span>
+            <div class="print-box-bg print-box-bg-envelopes"></div>
+          </div>
+        </a>
+        <div class="print-button top-nav-button blue"><a href="/custom-printed-envelopes" class="curvyIgnore css3">Design &amp; Buy Now</a></div>
+      </li>
+      <li class="f-left">
+        <a href="/stationery/personalized-stationery/" class="print-box curvyIgnore css3">
+          <div class="print-box-view">
+            <h6>Personalized Stationery</h6>
+            <div class="print-box-bg print-box-bg-stationery"></div>
+          </div>
+        </a>
+        <div class="print-button top-nav-button blue"><a href="/stationery/personalized-stationery/" class="curvyIgnore css3">Personalize &amp; Buy Now</a></div>
+      </li>
+      <li class="f-left">
+        <a href="/perforated-paper" class="print-box curvyIgnore css3">
+          <div href="/perforated-paper" class="print-box-view">
+            <h6>Custom Perforated Paper</h6>
+            <span>45 Popular Formats</span>
+            <span>Custom Perforation Available</span>
+            <div class="print-box-bg print-box-bg-perforated"></div>
+          </div>
+        </a>
+        <div class="print-button top-nav-button blue"><a href="/perforated-paper" class="curvyIgnore css3">Buy Perforated Paper Now</a></div>
+      </li>
+      <li class="f-left h-fill">
+        <div class="print-box curvyIgnore css3">
+          <div class="print-box-view">
+            <div class="services">Ask us about these additional services...</div>
+            <div class="print-box-custom"><a href="/fast-turnaround-service/paper-cutting-service">Custom Cutting</a></div>
+            <div class="print-box-custom"><a href="/fast-turnaround-service/custom-paper-scoring">Custom Scoring</a></div>
+            <div class="print-box-custom"><a href="/fast-turnaround-service/paper-hole-punching-service">Custom Drilling</a></div>
+            <div class="print-box-bg print-box-bg-services"></div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+</div>
+      </div>
+    </div>
+    <div class="top-nav-tab-connector"></div>
+    <div class="right-tab-patch"><div><div class="css3"></div></div></div>
+  </div>
+</div>
+
+        </li>
+      <li class="h-fill last-tab">
+          <a href="http://www.thepapermillstore.com/community/" class="css3  blue-tab">Resources</a>
+
+
+
+<div class="top-nav-tab blue-tab">
+  <div style="padding-top: 6px; position: relative; overflow: visible; zoom: 1;">
+    <div class="top-nav-tab-bg1 curvyIgnore css3">
+      <div class="top-nav-tab-bg2 curvyIgnore css3">
+
+<div class="top-nav-resources top-nav-content">
+
+  <ul>
+    <li><a href="/rewards-program-big-savings">Buyer Rewards</a></li>
+    <li><a href="/newsletters">Email Archive</a></li>
+    <li><a href="/graphic-design-gallery">Graphic Design Showcase</a></li>
+    <li><a href="/paper-craft-projects">Crafter's Design Showcase</a></li>
+    <li><a href="/featured-articles">Featured Articles</a></li>
+    <li><a href="/did-you-know">Did You Know...</a></li>
+    <li><a href="/freetemplate">Free Templates</a></li>
+    <li><a href="/projects">Paper Projects</a></li>
+    <li><a href="/graphic-design-resource-videos">Informational Videos</a></li>
+  </ul>
+
+</div>
+      </div>
+    </div>
+    <div class="top-nav-tab-connector"></div>
+    <div class="right-tab-patch"><div><div class="css3"></div></div></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+  </div>
+
+</div>
+
+<div id="top-nav-all-products">
+    <div class="top-nav-all-products-bg1 curvyIgnore css3">
+        <div class="top-nav-all-products-bg2 curvyIgnore css3">
+            <div id="brand-index-all-products" class="brand-nav clearfix"><a class="button btn-close-brand btn-bottom" rel="all-products"></a>
+<div class="brand-wrapper clearfix">
+<h3 class="section-header">All Products</h3>
 <ul>
-<li><a href="http://www.thepapermillstore.com/die-cuts/door-hangers">Door Hangers</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/table-tents">Table Tents</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/display-easels">Display Easels</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/raffle-tickets">Raffle Tickets</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/mailers-postcards">Reply Mailers</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/mailers-postcards">Postcards</a></li>
+<li class="first"><a href="http://www.thepapermillstore.com/carbonless-paper">Carbonless Paper</a></li>
+<li><a href="http://www.thepapermillstore.com/card-stock"><span class="featured">Card Stock</span></a></li>
+<li><a href="http://www.thepapermillstore.com/card-stock-and-envelope-sets">Card Stock and Envelope Sets</a></li>
 <li><a href="http://www.thepapermillstore.com/die-cuts/copy-tabs">Copy Tabs</a></li>
-</ul>
-</div>
-<div class="spiff">
-<a href="http://www.thepapermillstore.com/fast-turnaround-service"><img src="/media/spiffs/Paper_PaperServices.gif" alt="Paper Services"></a> 
-<a href="http://www.thepapermillstore.com/labels"><img src="/media/spiffs/Paper_SelfAdhesiveLabels.gif" alt="Self-adhesive labels"></a>
-</div>				</div>
-			</li>
-
-					
-			<li class="level0 nav-2 level-top "><a class="level-top" href="http://www.thepapermillstore.com/card-stock/"><span>Card Stock</span></a>
-
-				<div class="drop-down">
-							<div>
-<h6><a href="http://www.thepapermillstore.com/card-stock/">Card Stock</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/card-stock-colors">Shop by Color</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock-sizes">Shop by Size</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock-brands">Shop by Brand Name</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock/metallic-card-stock">Metallic Card Stock</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock/super-heavy-card-stock">Super Heavy Card Stock</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock/8-5-x-11-card-stock">8 1/2 x 11 Card Stock</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock/12-x-12-card-stock">12 x 12 Card Stock</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock-and-envelope-sets">Card Stock/Envelope Sets</a></li>
-</ul>
-</div>
-<div class="shift-right">
-<h6><a href="http://www.thepapermillstore.com/note-cards">Note Cards</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/note-card-colors">Shop by Color</a></li>
-<li><a href="http://www.thepapermillstore.com/note-card-sizes">Shop by Size</a></li>
-<li><a href="http://www.thepapermillstore.com/note-card-brands">Shop by Brand Name</a></li>
+<li><a href="http://www.thepapermillstore.com/custom-watermark-paper">Custom Watermark Paper</a></li>
+<li><a href="http://www.thepapermillstore.com/paper-mills/craftwell/ecraft?tpms_product_type=1658">Die Cutting Machines</a></li>
+<li><a href="http://www.thepapermillstore.com/digital-rolls">Digital Rolls</a></li>
+<li><a href="http://www.thepapermillstore.com/die-cuts/display-easels">Display Easels</a></li>
+</ul><ul>
+<li><a href="http://www.thepapermillstore.com/die-cuts/door-hangers">Door Hangers</a></li>
+<li><a href="http://www.thepapermillstore.com/envelopes"><span class="featured">Envelopes</span></a></li>
+<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle"><span class="featured">Envelope Printing</span></a></li>
 <li><a href="http://www.thepapermillstore.com/note-cards/flat-note-cards">Flat Cards</a></li>
-<li><a href="http://www.thepapermillstore.com/note-cards/folded-note-cards">Folded Cards</a></li>
 <li><a href="http://www.thepapermillstore.com/note-cards/flat-panel-note-cards">Flat Panel Cards</a></li>
+<li><a href="http://www.thepapermillstore.com/note-cards/folded-note-cards">Folded Cards</a></li>
 <li><a href="http://www.thepapermillstore.com/note-cards/folded-panel-note-cards">Folded Panel Cards</a></li>
-</ul>
-</div>
-<div class="shift-right">
-<h6><a href="http://www.thepapermillstore.com/presentation-folders">Pocket Folders</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/presentation-folders/">Pocket Folders</a></li>
+<li><a href="http://www.thepapermillstore.com/labels"><span class="featured">Labels</span></a></li>
+</ul><ul>
+<li><a href="http://www.thepapermillstore.com/die-cuts/mailers-postcards">Mailers &amp; Postcards</a></li>
+<li><a href="http://www.thepapermillstore.com/merchandising-racks">Merchandising Racks</a></li>
+<li><a href="http://www.thepapermillstore.com/pantone">PANTONE</a></li>
+<li><a href="http://www.thepapermillstore.com/paper"><span class="featured">Paper</span></a></li>
+<li><a href="http://www.thepapermillstore.com/perforated-paper"><span class="featured">Perforated Paper</span></a></li>
+<li><a href="http://www.thepapermillstore.com/paper/photo-inkjet-paper">Photo Ink Jet Paper</a></li>
+<li><a href="http://www.thepapermillstore.com/presentation-folders">Presentation Folders</a></li>
+</ul><ul>
 <li><a href="http://www.thepapermillstore.com/presentation-folder-kits">Presentation Folder Kits</a></li>
-</ul>
-</div>				</div>
-			</li>
-
-					
-			<li class="level0 nav-3 level-top "><a class="level-top" href="http://www.thepapermillstore.com/envelopes/"><span>Envelopes</span></a>
-
-				<div class="drop-down">
-							<div>
-<h6><a href="http://www.thepapermillstore.com/envelopes/">Envelopes</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/envelope-colors">Shop by Color</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-sizes">Shop by Size</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-brands">Shop by Brand Name</a></li>
-<li><a href="http://www.thepapermillstore.com/envelopes/recycled-envelopes">Recycled Envelopes</a></li>
-<li><a href="http://www.thepapermillstore.com/envelopes/fsc-envelopes">FSC Certified Envelopes</a></li>
-<li><a href="http://www.thepapermillstore.com/envelopes/sfi-envelopes">SFI Certified Envelopes</a></li>
-</ul>
-<ul>
-<li><a href="http://www.thepapermillstore.com/envelopes/business-envelopes">Business Envelopes</a></li>
-<li><a href="http://www.thepapermillstore.com/envelopes/social-envelopes">Social and Invitation Envelopes</a></li>
-<li><a href="http://www.thepapermillstore.com/envelopes/square-envelopes">Square Envelopes</a></li>
-<li><a href="http://www.thepapermillstore.com/envelopes/metallic-envelopes">Metallic Envelopes</a></li>
-<li><a href="http://www.thepapermillstore.com/envelopes/translucent-envelopes">Translucent/Vellum Envelopes</a></li>
+<li><a href="http://www.thepapermillstore.com/die-cuts/raffle-tickets">Raffle Tickets</a></li>
+<li><a href="http://www.thepapermillstore.com/resume-paper">Resume Paper &amp; Kits</a></li>
+<li><a href="http://www.thepapermillstore.com/swatchbooks">Swatchbooks</a></li>
+<li><a href="http://www.thepapermillstore.com/security-paper">Security Paper</a></li>
+<li><a href="http://www.thepapermillstore.com/stationery"><span class="featured">Stationery</span></a></li>
+<li class="last"><a href="http://www.thepapermillstore.com/die-cuts/table-tents">Table Tents</a></li>
 </ul>
 </div>
-<div class="shift-right">
-<h6><a href="http://www.thepapermillstore.com/labels">Labels</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/label-colors">Shop by Color</a></li>
-<li><a href="http://www.thepapermillstore.com/label-sizes">Shop by Label Size</a></li>
-<li><a href="http://www.thepapermillstore.com/label-brands">Shop by Brand Name</a></li>
-<li><a href="http://www.thepapermillstore.com/labels/address-and-shipping-labels">Address and Shipping Labels</a></li>
-<li><a href="http://www.thepapermillstore.com/labels/inkjet-laser-labels">Inkjet and Laser Labels</a></li>
-<li><a href="http://www.thepapermillstore.com/labels/colored-labels">Colored Labels</a></li>
-<li><a href="http://www.thepapermillstore.com/labels/clear-labels">Clear Labels</a></li>
-</ul>
-</div>				</div>
-			</li>
 
-					
-			<li class="level0 nav-4 level-top "><a class="level-top" href="http://www.thepapermillstore.com/envelope-printing/selectstyle/"><span>Envelope Printing</span></a>
-
-				<div class="drop-down">
-							<div>
-<h6><a href="#">Popular Envelope Styles</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_envelope_classification=654">Business Envelope Printing</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_envelope_classification=653">Social &amp; Invitation Envelope Printing</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_envelope_classification=652">Square Envelope Printing</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_finish_category=553">Metallic Envelope Printing</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_finish_category=544">Translucent / Vellum Envelope Printing</a></li>
-</ul>
+</div>        </div>
+    </div>
 </div>
-<div class="shift-right">
-<h6><a href="#">Popular Envelope Sizes</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_envelope_size=302">No. 10 (9 1/2 x 4 1/8) Envelope Printing</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_envelope_size=304">A2 (5 3/4 x 4 3/8) Envelope Printing</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_envelope_size=307">A7 (7 1/4 x 5 1/4) Envelope Printing</a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/index/?tpms_envelope_size=306">5 x 5 Square Envelope Printing</a></li>
-</ul>
-</div>
-<div class="spiff"><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle/"><img src="/media/spiffs/Envelopes_StartEvnPrintNow.gif" alt=""></a></div>				</div>
-			</li>
 
-					
-			<li class="level0 nav-5 level-top "><a class="level-top" href="http://www.thepapermillstore.com/perforated-paper/"><span>Perforated Paper</span></a>
 
-				<div class="drop-down">
-							<div>
-<h6><a href="http://www.thepapermillstore.com/perforated-paper">Popular Perforated Paper Formats</a></h6>
-<ul>
-<li><a href="http://www.thepapermillstore.com/perforated-paper/office-forms">Perforated Office Forms</a></li>
-<li><a href="http://www.thepapermillstore.com/perforated-paper/raffle-tickets">Perforated Raffle Tickets</a></li>
-<li><a href="http://www.thepapermillstore.com/perforated-paper/postcards">Perforated Post Cards</a></li>
-<li><a href="http://www.thepapermillstore.com/perforated-paper/business-cards">Perforated Business Cards</a></li>
-<li><a href="http://www.thepapermillstore.com/perforated-paper/event-tickets">Perforated Event Tickets</a></li>
-<li><a href="http://www.thepapermillstore.com/perforated-paper/">See all standard formats</a></li>
-</ul>
-</div>
-<div class="spiff">
-<a href="http://www.thepapermillstore.com/perforated-paper/"><img src="/media/spiffs/PerforatedPaper_OrderPerfPaperToday.gif" alt=""></a> 
-<a href="http://www.thepapermillstore.com/customer-service-paper-envelopes"><img src="/media/spiffs/PerforatedPaper_DontSeeWhatYouWant.jpg" alt=""></a>
-</div>				</div>
-			</li>
 
-					
-			<li class="level0 nav-6 level-top last"><a class="level-top" href="http://www.thepapermillstore.com/community/"><span>Community</span></a>
 
-				<div class="drop-down">
-							<ul>
-<li><a href="http://www.thepapermillstore.com/rewards-program-big-savings">Buyer Rewards</a></li>
-<li><a href="http://www.thepapermillstore.com/newsletters">Email Archive</a></li>
-<li><a href="http://www.thepapermillstore.com/graphic-design-gallery">Graphic Design Showcase</a></li>
-<li><a href="http://www.thepapermillstore.com/paper-craft-projects">Crafter's Design Showcase</a></li>
-<li><a href="http://www.thepapermillstore.com/featured-articles">Featured Articles</a></li>
-<li><a href="http://www.thepapermillstore.com/did-you-know">Did You Know...</a></li>
-<li><a href="http://www.thepapermillstore.com/freetemplate">Free Templates</a></li>
-<li><a href="http://www.thepapermillstore.com/projects">Paper Projects</a></li>
-<li><a href="http://www.thepapermillstore.com/graphic-design-resource-videos">Informational Videos</a></li>
-</ul>				</div>
-			</li>
 
-			</ul>
-	</div>
-<!--/{CATALOG_NAVIGATION_13b27c97191b44bd2d7f7118486f33b2}-->		
-				
+
+
+
+
+
+
+
+
+
+<!--/{CATALOG_NAVIGATION_13b27c97191b44bd2d7f7118486f33b2}-->
+		
 		<div id="brand-index" class="clearfix">
 	<ul class="brand-index-items">
 		<li class="label">Mill &amp; Brand Index:</li>
@@ -404,9 +692,9 @@ _gaq.push(['_trackPageview']);
 		<li class="no-brands">X</li>
 		<li class="no-brands">Y</li>
 		<li class="no-brands">Z</li>
-		<li id="brand-index-link-all-products" rel="all-products" class="all-products"><a href="#">All Products</a></li>
 	</ul>
-<div class="bi-wrap">
+
+	<div class="bi-wrap">
 
 		<div id="brand-index-number" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="number"></a>
@@ -426,7 +714,7 @@ _gaq.push(['_trackPageview']);
 		<div id="brand-index-C" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="C"></a>
 				<a class="button btn-close-brand btn-bottom" rel="C"></a>
-	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>C</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/craftwell">Craftwell</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa">CTI Paper USA</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>C</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/capitol-bond">Capitol Bond</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/paper-store-24-7/cardmates">CardMates</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/caribbean-colors">Caribbean Colors</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/carnival">Carnival</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/cascata">Cascata</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-columns">CLASSIC COLUMNS</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-cotton">CLASSIC Cotton</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-crest">CLASSIC CREST</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-laid">CLASSIC Laid</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-linen">CLASSIC Linen</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-100-recycled">Color Copy 100% Recycled</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-98">Color Copy 98</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-gloss">Color Copy Gloss</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-premium-i-tone">Color Copy Premium i-Tone</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-ultra-gloss">Color Copy Ultra Gloss</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/colormates">ColorMates</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/colormates-smooth-silky">ColorMates Smooth &amp; Silky</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/colormates-textures">ColorMates Textures</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/constellation-jade">Constellation Jade</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/coronado-sst">Coronado SST</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/crafty-board">Crafty Board</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/currency">Currency</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/currency-digital">Currency Digital</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/custom-watermark-strathmore-pure-cotton">Custom Watermark Strathmore Pure Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/custom-watermark-strathmore-script">Custom Watermark Strathmore Script</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/custom-watermark-strathmore-writing">Custom Watermark Strathmore Writing</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/cutmates">CutMates</a></li></ul></div>			</div>
+	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>C</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/craftwell">Craftwell</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/crane-co">Crane &amp; Co.</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa">CTI Paper USA</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>C</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/capitol-bond">Capitol Bond</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/paper-store-24-7/cardmates">CardMates</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/caribbean-colors">Caribbean Colors</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/carnival">Carnival</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/cascata">Cascata</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-columns">CLASSIC COLUMNS</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-cotton">CLASSIC Cotton</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-crest">CLASSIC CREST</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-laid">CLASSIC Laid</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/classic-linen">CLASSIC Linen</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-100-recycled">Color Copy 100% Recycled</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-98">Color Copy 98</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-gloss">Color Copy Gloss</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-premium-i-tone">Color Copy Premium i-Tone</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/color-copy-ultra-gloss">Color Copy Ultra Gloss</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/colormates">ColorMates</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/colormates-smooth-silky">ColorMates Smooth &amp; Silky</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/colormates-textures">ColorMates Textures</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/constellation-jade">Constellation Jade</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/coronado-sst">Coronado SST</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/crafty-board">Crafty Board</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/crane-co/crane-co">Crane &amp; Co.</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/currency">Currency</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/currency-digital">Currency Digital</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/custom-watermark-strathmore-pure-cotton">Custom Watermark Strathmore Pure Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/custom-watermark-strathmore-script">Custom Watermark Strathmore Script</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/custom-watermark-strathmore-writing">Custom Watermark Strathmore Writing</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/cutmates">CutMates</a></li></ul></div>			</div>
 
 		<div id="brand-index-D" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="D"></a>
@@ -466,17 +754,17 @@ _gaq.push(['_trackPageview']);
 		<div id="brand-index-L" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="L"></a>
 				<a class="button btn-close-brand btn-bottom" rel="L"></a>
-	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>L</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/legion-paper">Legion Paper</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>L</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-25-cotton">Loop 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-antique-vellum">Loop Antique Vellum</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-antique-vellum-i-tone">Loop Antique Vellum i-Tone</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-feltmark">Loop Feltmark</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-inxwell">Loop Inxwell</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-inxwell-i-tone">Loop Inxwell i-Tone</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-laid">Loop Laid</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-linen">Loop Linen</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-silk-coated">Loop Silk Coated</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-silk-coated-i-tone">Loop Silk Coated i-Tone</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-smooth">Loop Smooth</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-smooth-i-tone">Loop Smooth i-Tone</a></li></ul></div>			</div>
+	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>L</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/leader-paper-products">Leader Paper Products</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/legion-paper">Legion Paper</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>L</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-25-cotton">Loop 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-antique-vellum">Loop Antique Vellum</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-antique-vellum-i-tone">Loop Antique Vellum i-Tone</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-feltmark">Loop Feltmark</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-inxwell">Loop Inxwell</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-inxwell-i-tone">Loop Inxwell i-Tone</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-laid">Loop Laid</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-linen">Loop Linen</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-silk-coated">Loop Silk Coated</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-silk-coated-i-tone">Loop Silk Coated i-Tone</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-smooth">Loop Smooth</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/loop-smooth-i-tone">Loop Smooth i-Tone</a></li></ul></div>			</div>
 
 		<div id="brand-index-M" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="M"></a>
 				<a class="button btn-close-brand btn-bottom" rel="M"></a>
-	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>M</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mactac">MACtac</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers">Mohawk Fine Papers</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/monadnock-paper-mills">Monadnock Paper Mills</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>M</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/metro">Metro</a></li></ul></div>			</div>
+	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>M</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mactac">MACtac</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers">Mohawk Fine Papers</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/monadnock-paper-mills">Monadnock Paper Mills</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>M</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/leader-paper-products/manila-file">Manila File</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/crane-co/martha-stewart-stationery">Martha Stewart Stationery</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/metro">Metro</a></li></ul></div>			</div>
 
 		<div id="brand-index-N" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="N"></a>
 				<a class="button btn-close-brand btn-bottom" rel="N"></a>
-	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>N</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/national-envelope">National Envelope</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper">Neenah Paper</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/new-leaf">New Leaf</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>N</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/navajo">Navajo</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-recover">NCR Carbonless Recover</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-specialties">NCR Carbonless Specialties</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-superior">NCR Carbonless Superior</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-superior-perf">NCR Carbonless Superior Perf</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-xero-form-ii">NCR Carbonless Xero/Form II</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/nekoosa-25-cotton">Nekoosa 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/nekoosa-bond">Nekoosa Bond</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/nekoosa-linen">Nekoosa Linen</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/neutech-25-cotton-unwatermarked">Neutech 25% Cotton Unwatermarked</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/neutech-cotton">Neutech Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/neutech-ps">Neutech PS</a></li></ul></div>			</div>
+	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>N</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/national-envelope">National Envelope</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper">Neenah Paper</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/new-leaf">New Leaf</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/new-page">New Page</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>N</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/navajo">Navajo</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-recover">NCR Carbonless Recover</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-specialties">NCR Carbonless Specialties</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-superior">NCR Carbonless Superior</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-superior-perf">NCR Carbonless Superior Perf</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/appleton-papers/ncr-carbonless-xero-form-ii">NCR Carbonless Xero/Form II</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/nekoosa-25-cotton">Nekoosa 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/nekoosa-bond">Nekoosa Bond</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/nekoosa-linen">Nekoosa Linen</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/neutech-25-cotton-unwatermarked">Neutech 25% Cotton Unwatermarked</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/neutech-cotton">Neutech Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/neutech-ps">Neutech PS</a></li></ul></div>			</div>
 
 		<div id="brand-index-O" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="O"></a>
@@ -496,12 +784,12 @@ _gaq.push(['_trackPageview']);
 		<div id="brand-index-S" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="S"></a>
 				<a class="button btn-close-brand btn-bottom" rel="S"></a>
-	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>S</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/schoellershammer">Schoellershammer</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/southworth">Southworth</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/strathmore-artist-papers">Strathmore Artist Papers</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties">Superior Specialties</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>S</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/new-leaf/sakura">Sakura</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/skytone">Skytone</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/solutions">Solutions</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-25-cotton">Southworth Business 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-100-cotton">Southworth Business and Legal 100% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-25-cotton">Southworth Business and Legal 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-quality-bond">Southworth Business and Legal Quality Bond</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-recycled-25-cotton">Southworth Business and Legal Recycled 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-antique-laid-25-cotton">Southworth Business Antique Laid 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-laser-25-cotton">Southworth Business Laser 25% Cotton</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-linen-25-cotton">Southworth Business Linen 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-private-stock-laid-25-cotton">Southworth Private Stock Laid 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-resume-100-cotton">Southworth Resume 100% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-specialty-granite-25-cotton">Southworth Specialty Granite 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-specialty-parchment">Southworth Specialty Parchment</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-thesis-100-cotton">Southworth Thesis 100% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/splendorlux">Splendorlux</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner">Starliner</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-colors">Starliner Colors</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-digital">Starliner Digital</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-fluorescents">Starliner Fluorescents</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-opaques">Starliner Opaques</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/starwhite">STARWHITE</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/strathmore-artist-papers/strathmore-artist-photo-album">Strathmore Artist Photo Album</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/strathmore-artist-papers/strathmore-artist-photo-calendar-kit">Strathmore Artist Photo Calendar Kit</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-elements">Strathmore Elements</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-grandee">Strathmore Grandee</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-pastelle">Strathmore Pastelle</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-pure-cotton">Strathmore Pure Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-script">Strathmore Script</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-writing">Strathmore Writing</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-writing-25-cotton-resume-kits">Strathmore Writing 25% Cotton Resume Kits</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-writing-i-tone">Strathmore Writing i-TONE</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/sundance">SUNDANCE</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/superfine">SuperFine</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties/superior-premium-series-ink-jet">Superior Premium Series Ink Jet</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties/superior-professional-series-ink-jet">Superior Professional Series Ink Jet</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties/superior-quality-series-ink-jet">Superior Quality Series Ink Jet</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/synergy">Synergy</a></li></ul></div>			</div>
+	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>S</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/schoellershammer">Schoellershammer</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/southworth">Southworth</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/strathmore-artist-papers">Strathmore Artist Papers</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties">Superior Specialties</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>S</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/new-leaf/sakura">Sakura</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/skytone">Skytone</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/solutions">Solutions</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/solutions-digital-i-tone">Solutions Digital i-Tone</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-25-cotton">Southworth Business 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-100-cotton">Southworth Business and Legal 100% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-25-cotton">Southworth Business and Legal 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-quality-bond">Southworth Business and Legal Quality Bond</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-and-legal-recycled-25-cotton">Southworth Business and Legal Recycled 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-antique-laid-25-cotton">Southworth Business Antique Laid 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-laser-25-cotton">Southworth Business Laser 25% Cotton</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-business-linen-25-cotton">Southworth Business Linen 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-private-stock-laid-25-cotton">Southworth Private Stock Laid 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-resume-100-cotton">Southworth Resume 100% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-specialty-granite-25-cotton">Southworth Specialty Granite 25% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-specialty-parchment">Southworth Specialty Parchment</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/southworth/southworth-thesis-100-cotton">Southworth Thesis 100% Cotton</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/splendorlux">Splendorlux</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner">Starliner</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-colors">Starliner Colors</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-digital">Starliner Digital</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-fluorescents">Starliner Fluorescents</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mactac/starliner-opaques">Starliner Opaques</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/starwhite">STARWHITE</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/new-page/sterling-premium-digital">Sterling Premium Digital</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/new-page/sterling-premium-digital-for-hp-indigo">Sterling Premium Digital for HP Indigo</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/new-page/sterling-ultra-digital">Sterling Ultra Digital</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/strathmore-artist-papers/strathmore-artist-photo-album">Strathmore Artist Photo Album</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/strathmore-artist-papers/strathmore-artist-photo-calendar-kit">Strathmore Artist Photo Calendar Kit</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-elements">Strathmore Elements</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-grandee">Strathmore Grandee</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-pastelle">Strathmore Pastelle</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-pure-cotton">Strathmore Pure Cotton</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-script">Strathmore Script</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-writing">Strathmore Writing</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-writing-25-cotton-resume-kits">Strathmore Writing 25% Cotton Resume Kits</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/strathmore-writing-i-tone">Strathmore Writing i-TONE</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/neenah-paper/sundance">SUNDANCE</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/superfine">SuperFine</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties/superior-premium-series-ink-jet">Superior Premium Series Ink Jet</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties/superior-professional-series-ink-jet">Superior Professional Series Ink Jet</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/superior-specialties/superior-quality-series-ink-jet">Superior Quality Series Ink Jet</a></li><li><a href="http://www.thepapermillstore.com/paper-mills/mohawk-fine-papers/synergy">Synergy</a></li></ul></div>			</div>
 
 		<div id="brand-index-T" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="T"></a>
 				<a class="button btn-close-brand btn-bottom" rel="T"></a>
-	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>T</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/treasures">Treasures</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/gmund/treasury">Treasury</a></li></ul></div>			</div>
+	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>T</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/treasures">Treasures</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/gmund/treasury">Treasury</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/cti-paper-usa/tube">Tube</a></li></ul></div>			</div>
 
 		<div id="brand-index-U" class="brand-nav clearfix">
 				<a class="button btn-close-brand btn-top" rel="U"></a>
@@ -517,47 +805,7 @@ _gaq.push(['_trackPageview']);
 				<a class="button btn-close-brand btn-top" rel="W"></a>
 				<a class="button btn-close-brand btn-bottom" rel="W"></a>
 	<div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>W</span>" Paper Mills / Manufacturers</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/wausau-paper">Wausau Paper</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper">WorldWin Paper</a></li></ul></div><div class="brand-wrapper clearfix"><h3 class="section-header">All "<span>W</span>" Brands</h3><ul><li><a href="http://www.thepapermillstore.com/paper-mills/wausau-paper/wausau-bright-white">Wausau Bright White</a></li></ul><ul><li><a href="http://www.thepapermillstore.com/paper-mills/worldwin-paper/worldwin-paper-metallic-vellums">WorldWin Paper Metallic Vellums</a></li></ul></div>			</div>
-	<div id="brand-index-all-products" class="brand-nav clearfix"><a class="button btn-close-brand btn-bottom" rel="all-products"></a>
-<div class="brand-wrapper clearfix">
-<h3 class="section-header">All Products</h3>
-<ul>
-<li class="first"><a href="http://www.thepapermillstore.com/carbonless-paper">Carbonless Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock"><span class="featured">Card Stock</span></a></li>
-<li><a href="http://www.thepapermillstore.com/card-stock-and-envelope-sets">Card Stock and Envelope Sets</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/copy-tabs">Copy Tabs</a></li>
-<li><a href="http://www.thepapermillstore.com/custom-watermark-paper">Custom Watermark Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/digital-rolls">Digital Rolls</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/display-easels">Display Easels</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/door-hangers">Door Hangers</a></li>
-</ul><ul>
-<li><a href="http://www.thepapermillstore.com/envelopes"><span class="featured">Envelopes</span></a></li>
-<li><a href="http://www.thepapermillstore.com/envelope-printing/selectstyle"><span class="featured">Envelope Printing</span></a></li>
-<li><a href="http://www.thepapermillstore.com/note-cards/flat-note-cards">Flat Cards</a></li>
-<li><a href="http://www.thepapermillstore.com/note-cards/flat-panel-note-cards">Flat Panel Cards</a></li>
-<li><a href="http://www.thepapermillstore.com/note-cards/folded-note-cards">Folded Cards</a></li>
-<li><a href="http://www.thepapermillstore.com/note-cards/folded-panel-note-cards">Folded Panel Cards</a></li>
-<li><a href="http://www.thepapermillstore.com/labels"><span class="featured">Labels</span></a></li>
-</ul><ul>
-<li><a href="http://www.thepapermillstore.com/die-cuts/mailers-postcards">Mailers &amp; Postcards</a></li>
-<li><a href="http://www.thepapermillstore.com/merchandising-racks">Merchandising Racks</a></li>
-<li><a href="http://www.thepapermillstore.com/pantone">PANTONE</a></li>
-<li><a href="http://www.thepapermillstore.com/paper"><span class="featured">Paper</span></a></li>
-<li><a href="http://www.thepapermillstore.com/perforated-paper"><span class="featured">Perforated Paper</span></a></li>
-<li><a href="http://www.thepapermillstore.com/paper/photo-inkjet-paper">Photo Ink Jet Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/presentation-folders">Presentation Folders</a></li>
-</ul><ul>
-<li><a href="http://www.thepapermillstore.com/presentation-folder-kits">Presentation Folder Kits</a></li>
-<li><a href="http://www.thepapermillstore.com/die-cuts/raffle-tickets">Raffle Tickets</a></li>
-<li><a href="http://www.thepapermillstore.com/resume-paper">Resume Paper &amp; Kits</a></li>
-<li><a href="http://www.thepapermillstore.com/swatchbooks">Swatchbooks</a></li>
-<li><a href="http://www.thepapermillstore.com/security-paper">Security Paper</a></li>
-<li><a href="http://www.thepapermillstore.com/boxed-stationery-paper">Stationery Paper</a></li>
-<li class="last"><a href="http://www.thepapermillstore.com/die-cuts/table-tents">Table Tents</a></li>
-</ul>
-</div>
-
-</div>
-</div>
+	</div>
 </div>
 			</div>
 </div>
@@ -836,7 +1084,7 @@ Personal Information</b></p><br>
 <!--/{COMPARELIST_SIDEBAR_31a605ca0d3ada0d874e67eb6c269658}-->			</div>
         </div>
                 <div class="footer-container clearfix">
-    <div class="footer clearfix">	
+    <div class="footer clearfix">
 		<div class="footer-column first-column">
 <h4>Our Company</h4>
 <ul>
@@ -923,31 +1171,133 @@ Personal Information</b></p><br>
 </div>    </div>
 	<div class="footer-bottom clearfix">
 		<div class="newsletter-signup">
-			<form action="https://www.thepapermillstore.com/newslist/subscribe/add/" method="post" id="newsletter-validate-detail">
-    <div class="form-subscribe">
-        <label for="newsletter">Join our email list</label>
-        <div class="v-fix"><input name="email" type="text" id="newsletter" value="Enter email address here" class="inactive input-text required-entry validate-email"></div>
-        <button type="submit" class="button" title="Subscribe"></button>
-    </div>
-</form>
-<script type="text/javascript">
-//<![CDATA[
-    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-	
-	var newsletterDefaultValue = "Enter email address here";
-	jQuery("#newsletter").focus(function(){
-		if (jQuery(this).val() == newsletterDefaultValue){
-			jQuery(this).val('').removeClass('inactive');
 			
-		}
-	});
-	jQuery("#newsletter").blur(function(){
-		if (jQuery.trim(jQuery(this).val()) == ''){
-			jQuery(this).val(newsletterDefaultValue).addClass('inactive');
-		}
-	});
-//]]>
+<div class="bronto-footer">
+  <label for="newsletter">Join our email list</label>
+  <button></button>
+</div>
+
+<div id="bronto-signup-popup" class="curvyIgnore css3">
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var BrontoDateInputs = [];
+/* ]]> */
 </script>
+
+<div class="bronto-signup">
+  <div id="bronto-popup-form">
+    <h6>Sign Up and Save $5.00 on Your Next Order</h6>
+    <div id="bronto-popup-error"></div>
+    <form action="http://www.thepapermillstore.com/newslist/subscribe/add/" method="post">
+    <div class="bronto-signup-inputs">
+      <ul>
+                    <li>
+          <div class="f-left">
+            <div>Email Address:</div>
+            <span>*</span>          </div>
+          <div class="h-fill required">
+                      <div class="text-input curvyIgnore css3"><input type="text" name="email"></div>
+                    </div>
+        </li>
+                    <li>
+          <div class="f-left">
+            <div>First Name:</div>
+            <span>*</span>          </div>
+          <div class="h-fill required">
+                      <div class="text-input curvyIgnore css3"><input type="text" name="firstname"></div>
+                    </div>
+        </li>
+                    <li class="bronto-separator">
+          <div class="star-required">* required</div>
+          <div class="hr"><div></div></div>
+          <div class="optional">Optional Information</div>
+        </li>
+                    <li>
+          <div class="f-left">
+            <div>Last Name:</div>
+                      </div>
+          <div class="h-fill">
+                      <div class="text-input curvyIgnore css3"><input type="text" name="lastname"></div>
+                    </div>
+        </li>
+                    <li>
+          <div class="f-left">
+            <div>Business:</div>
+                      </div>
+          <div class="h-fill">
+                      <select name="business">
+                          <option value="1">None</option>
+                          <option value="2">Graphic Design Firm</option>
+                          <option value="3">Advertising Agency</option>
+                          <option value="4">Printing Company</option>
+                          <option value="5">Marketing/Publicity</option>
+                          <option value="6">In-House Design</option>
+                          <option value="7">Paper Merchant</option>
+                          <option value="8">Other</option>
+                        </select>
+                    </div>
+        </li>
+                    <li>
+          <div class="f-left">
+            <div>Birthday:</div>
+                      </div>
+          <div class="h-fill">
+                      <div class="text-input date-selector curvyIgnore css3">
+              <input id="bronto-birthday" type="text" name="birthday" readonly="readonly">
+              <img title="Select date" id="bronto-birthday_trig" src="http://www.thepapermillstore.com/skin/adminhtml/default/default/images/grid-cal.gif" class="v-middle">
+            </div>
+<script type="text/javascript">
+/* <![CDATA[ */
+BrontoDateInputs.push('bronto-birthday');
+/* ]]> */
+</script>
+                    </div>
+        </li>
+            </ul>
+    </div>
+    <div class="bronto-signup-bottom h-fill">
+      <div class="bronto-signup-submit f-right">
+        <input type="submit" value="Sign Up">
+      </div>
+    </div>
+    </form>
+    <div class="cancel"><a href="#">Cancel</a></div>
+  </div>
+  <div id="bronto-popup-message">
+    <div class="thank-you h-fill">
+      <span class="email-icon icon"></span>
+      <h6>Thanks for Signing Up</h6>
+    </div>
+    <div class="welcome-email">Your welcome email is on the way including:</div>
+    <div class="benefits">
+      <ul>
+        <li>• Coupon code for <strong>$5.00</strong> off your next order</li>
+        <li>• Exclusive benefits for our email subscribers</li>
+        <li>• Links to follow us on Facebook and Twitter</li>
+      </ul>
+    </div>
+    <div class="h-fill">
+      <div class="f-left italic-note">
+        <div>Your first email may land in your spam folder</div>
+        <div>Please add our email address to your contacts</div>
+      </div>
+      <div class="f-right h-fill">
+        <div class="close"><a href="#">Close</a></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="bronto-popup-loader">
+    <div class="bronto-popup-loader">
+      <div class="bronto-popup-loader-bg"></div>
+      <div class="bronto-popup-loader-text">Signing you up...</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
 		</div>
 		<div class="badges clearfix">
 
@@ -961,10 +1311,15 @@ Personal Information</b></p><br>
 
 </div>
 	</div>
-    <div style="text-align:center;padding-bottom:5px;">	
+    <div style="text-align:center;padding-bottom:5px;">
 		Copyright © 2004 - 2012 The Paper Mill Store, Inc.
 	</div>
 </div>
+
+<script language="javascript" type="text/javascript">
+var sliJsHost = (("https:" == document.location.protocol) ? "https://"  : "http://" );
+document.write(unescape('%3Cscript src="' + sliJsHost + 'thepapermillstore.resultspage.com/rac/sli-rac.config.js?rev=108828" type="text/javascript"%3E%3C/script%3E'));
+</script><script src="https://thepapermillstore.resultspage.com/rac/sli-rac.config.js?rev=108828" type="text/javascript"></script>
 
 <div id="lb-canvas">
 	<a class="close-lightbox" onclick="closeLightbox(); return false;" href="#">Close Lightbox</a>
