@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the beezid.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512040314id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beezid.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016073324id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
     <base href="http://www.beezid.com/">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <meta name="google-site-verification" content="ep83jv1_8U0IReknPY6ikMCOXjSi8qAG1g4YPPoDNFI">
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/ccss/us_en_us_beezid_35.css">
-	<link rel="stylesheet" type="text/css" href="/css/mobile.css">
+<link rel="stylesheet" type="text/css" href="/ccss/us_en_us_beezid_81.css">
+	<link rel="stylesheet" type="text/css" href="/css/external.css">
+
+	<link rel="stylesheet" type="text/css" href="/themed/halloween_2012/css/halloween_2012_module.css?v1">
     <title>
       Privacy    </title>
 
@@ -15,15 +18,33 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
 
+		var bzdVersion = "2.7182";
 		var globalUID = 0;
 		var username = "";
+		var idleTimeout = 600;
 	
 //]]>
-</script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js?load=effects,controls,dragdrop"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-<script type="text/javascript" src="/cjs/us_en_us_beezid_36.js"></script><script type="text/javascript">
+</script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+<script type="text/javascript">
+			if(!(window.Prototype)) {
+				document.write('<script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"><\/script>');
+			}
+		</script><script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js?load=effects,controls,dragdrop"></script>
+<script type="text/javascript">
+			if(!(window.Scriptaculous)) {
+				document.write('<script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"><\/script>');
+			}
+		</script><script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript">
+			if(!(window.swfobject)) {
+				document.write('<script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"><\/script>');
+			}
+		</script><script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+
+	<script type="text/javascript" src="/js/prototip/prototip.js"></script>
+<script type="text/javascript" src="/cjs/us_en_us_beezid_122.js"></script><script type="text/javascript">
 //<![CDATA[
 
 		refer();
@@ -33,17 +54,17 @@
 	
 //]]>
 </script>
-    <!--[if lte IE 6]>
-    	
+	<!--[if lte IE 6]>
+		
 	<link rel="stylesheet" type="text/css" href="/css/ie_6.css" />
 
-    <![endif]-->
-    <!--[if IE]>
-    	
+	<![endif]-->
+	<!--[if IE]>
+		
 	<link rel="stylesheet" type="text/css" href="/css/ie_all.css" />
 
-    <![endif]-->
-    
+	<![endif]-->
+	
   </head>
   <body>
 <!--[if IE 6]>
@@ -59,39 +80,25 @@
       <div class="common_lb_holder">
 		<script type="text/javascript">
 //<![CDATA[
+Event.observe(window, 'load', function() {
+	$$('#uCheckRegister input:not([type=submit])').each(function(item) {
+		showPlaceholders(item);
+		item.stopObserving();
+		item.onpropertychange = toggleLabel;
+		item.observe("change", toggleLabel);
+		item.observe("keypress", toggleLabel);
+		item.observe("paste", toggleLabel);
+		item.observe("focus", toggleLabelOnFocus);
+		item.observe("blur", toggleLabel);
+	});
+});
+
 document.observe("dom:loaded", function() {
 	toggleItemClasses("l_invite_friends", "btn_login_box_invite_friend_normal", "btn_login_box_invite_friend_over", "goLink(\'/my_account/invite_a_friend\')");
 	$('fb_like').update('<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.beezid.com%2Fprivacy&amp;layout=standard&amp;show_faces=false&amp;width=256&amp;action=like&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" style="vertical-align: middle; border: medium none; overflow: hidden; width:256px;height:25px;" allowTransparency="true"></iframe>');
 
-	function showPlaceholders(input) {
-		if (!(input.getValue().empty())) {
-			input.next('label').hide();
-		} else {
-			input.next('label').show();
-		}
-	}
-	function toggleLabel() {
-		var input = $(this);
-		if (input == null) {
-			return;
-		}
-		showPlaceholders.defer(input);
-	}
 	$$('.ui_holder, .pi_holder').each(function(item) {
 		item.observe("click", function(event) {event.target.previous('input').focus();});
-	});
-	$$('#uCheckRegister input:not([type=submit])').each(function(item) {
-		setTimeout(function() {
-			showPlaceholders(item);
-		}, 100);
-		item.stopObserving('keypress');
-		item.observe("keypress", toggleLabel);
-		item.stopObserving('paste');
-		item.observe("paste", toggleLabel);
-		item.stopObserving('focus');
-		item.observe("focus", toggleLabel);
-		item.stopObserving('blur');
-		item.observe("blur", toggleLabel);
 	});
 });
 //]]>
@@ -104,11 +111,11 @@ document.observe("dom:loaded", function() {
 		<div class="common_login_box">
             <!-- LOGIN FORM -->
             <form method="post" action="https://www.beezid.com/users/login">
-                <input name="data[User][username]" id="UserUsername" type="text" maxlength="16" value="">
-                <label class="ui_holder" for="UserUsername">Username</label>
+                <input name="data[User][username]" id="UserUsername" type="text" maxlength="45" value="">
+                <label class="ui_holder" for="UserUsername">Username/Email</label>
                 <input type="password" name="data[User][password]" id="UserPassword" value="">
                 <label class="pi_holder" for="UserPassword">Password</label>
-            	<a href="/users/forgotten_password" class="fgt_pass">Forgot Password?</a>                <input type="submit" value="" class="common_login_btn">
+            	<a href="/forgotten-password" class="fgt_pass">Forgot Password?</a>                <input type="submit" value="" class="common_login_btn">
             </form>
             <!-- LOGIN FORM -->
 		</div>
@@ -130,7 +137,8 @@ document.observe("dom:loaded", function() {
         <div class="lgn_right"></div>
 	</div>
     <div class="clear"></div>
-     <a class="btn_joinnow" href="https://www.beezid.com/register"></a>      <div class="social_share">
+					<div id="joinUsNow" class="btn_joinnow go_register"></div>
+		      <div class="social_share">
 
           <div id="fb_like" class="fb_like">&nbsp;</div>
 
@@ -145,12 +153,13 @@ document.observe("dom:loaded", function() {
          <div class="hrd_nav">
              <ul>
                 <li class="hrd_nav_hm"><a href="/">HOME</a></li>
-                <li><a href="/auctions/show/live">AUCTIONS</a></li>
-                <li><a href="/blog">BLOG</a></li>
-                <li><a href="/my_account">MY ACCOUNT</a></li>
-                <li class="mnu_none"><a href="/help">HELP</a></li>
+                <li><a href="http://www.beezid.com/auctions/show/live">AUCTIONS</a></li>
+                <li><a href="http://www.beezid.com/blog">BLOG</a></li>
+                <li><a href="http://www.beezid.com/my_account">MY ACCOUNT</a></li>
+                <li class="mnu_none"><a href="http://www.beezid.com/help">HELP</a></li>
             </ul>
-            <div class="common_categories">
+            
+<div class="common_categories">
 	<ul id="common_categories">
 		<li>
 			<!--[if lte IE 6]><a href="#"><table><tr><td><![endif]-->
@@ -174,6 +183,7 @@ document.observe("dom:loaded", function() {
 									<dd><a href="/auctions/vouchers" class="padding_left_23">  Vouchers &amp; Gift Cards</a></dd>
 								<dd><a href="/auctions/show/cherry">Cherry Auctions</a></dd>
 				<dd><a href="/auctions/show/promo">Promo Auctions</a></dd>
+				<dd><a href="/auctions/show/buy-it-now">Buy It Now Auctions</a></dd>
 				<dd><a href="/auctions/show/future">Future Auctions</a></dd>
 				<dd><a href="/closed-auctions">Closed Auctions</a></dd>
 				<dd class="last"><div>&nbsp;</div></dd>			</dl>
@@ -187,57 +197,58 @@ document.observe("dom:loaded", function() {
 
   <!-- [HEADER] Main Block -->
   </div>
-  
+
   <div class="common_main_container">
    <div class="hdr_marquee">
 	<div class="hdr_marquee_left"></div>
-    <div class="hdr_marquee_bg">
-    <div class="btn_hiw">
-    	<a href="/help"> </a>    </div>
+	<div class="hdr_marquee_bg">
+	<div class="go_register btn_hiw">
+		<a href="/register"> </a>	</div>
 		<div id="marquee" class="ticker_border_content"></div>
-    </div>
-	<div class="hdr_marquee_right"></div>    
+	</div>
+	<div class="hdr_marquee_right"></div>
 </div>
 <script type="text/javascript">
 recent_winners();
-</script>  
-	 
-    <div style="display:none;" id="flash_msg">
-      <br>
-      <!-- Main Block HEADER -->
-   <div>
-   <div class="float_left"><img src="/img/pages/common/block_module_left_corner_top_1.gif" alt=""></div>
-   <div class="block_module_bottom_title_big_1">&nbsp;</div>
-   <div class="float_left"><img src="/img/pages/common/block_module_right_corner_top_1.gif" alt=""></div>
-   <div class="clear_float"></div>
-   </div>
-   <div class="block_module_content_big_1" id="main_block_id">
-      <!-- Main Block HEADER -->
-      <!-- Main Block BODY -->
-      <div>
-        <div style="margin:0 auto;">
-        <table cellpadding="0" cellspacing="0" border="0" width="100%">
-          <tbody><tr>
-            <td class="padding_left_10 width_40" align="left" valign="top"><img src="/img/pages/common/ico_exclamation.gif" alt=""></td>
-            <td class="padding_left_10" align="left"><div id="flash_error" class="hm_flash_error_message">&nbsp;</div></td>
-          </tr>
-        </tbody></table>
-        </div>
-        <div class="clear"></div>
-      </div>
-      <!-- Main Block BODY -->
+</script>	 
+	
+<div class="hw_block_module">
+	<a href="/help/special-events/halloween-monster-mash#event-2"><img src="/themed/halloween_2012/img/pages/common/common_global_modules/hw_pre2.png" id="hw_pic" alt=""></a>	<div id="hw_timer" class="hw_timer_numbers_2">
+		<div class="ind_days">
+			<div id="idays"></div>
+		</div>
+		<div class="ind_hours">
+			<div id="ihours"></div>
+		</div>
+		<div class="ind_minutes">
+			<div id="imins"></div>
+		</div>
+		<div class="ind_seconds">
+			<div id="isecs"></div>
+		</div>
+		</div>
+	<div class="clear"></div>
+</div>
 
-      <!-- Main Block FOOTER -->
-          <div class="clear"></div>
-   </div>
-   <div>
-   <div class="float_left"><img src="/img/pages/common/block_module_left_corner_bottom.gif" alt=""></div>
-   <div class="block_module_bottom_title_big">&nbsp;</div>
-   <div class="float_left"><img src="/img/pages/common/block_module_right_corner_bottom.gif" alt=""></div>
-   <div class="clear_float"></div>
-   </div>      <!-- Main Block FOOTER -->
-    </div>
-	<!-- [CONTENT HOLDER] Main Block -->
+<script type="text/javascript">
+//<![CDATA[
+
+			var obj = {'days': 'idays', 'hours': 'ihours', 'mins': 'imins', 'secs': 'isecs'};
+			if ($('hw_timer') != null) {
+				countdown('1350597600000', 'hw_timer', 0, 1, null, obj);
+			}
+		
+//]]>
+</script>
+<div style="display:none;" id="flash_msg">
+	<div class="error_message_container">
+		<img src="/img/pages/common/error_message_top.jpg" alt="">		<div class="error_message_slice">
+		<div id="flash_error" class="hm_flash_error_message">
+			&nbsp;		</div>
+	</div>
+		<img src="/img/pages/common/error_message_bottom.jpg" alt="">	</div>
+	<div class="clear"></div>
+</div><!-- [CONTENT HOLDER] Main Block -->
 <br>
 <!-- Main Block HEADER -->
    <!-- Main Block HEADER -->
@@ -246,8 +257,8 @@ recent_winners();
            <div class="float_left"><img src="/img/pages/common/block_module_left_corner_top.png" alt=""></div>
            <div class="block_module_top_title_big">
                 <div class="float_left">
-	                   						<div class="f_left auction_details_lock_id block_header_text"> <div class="f_left"><img src="/img/pages/common/categories/gabble_icon.gif" alt=""></div><p class="f_left margin_left_15">Beezid™ Privacy Policy</p></div>
-   					                </div>
+	                							<div class="f_left auction_details_lock_id block_header_text"> <div class="f_left"><img src="/img/pages/common/categories/gabble_icon.gif" alt=""></div><p class="f_left margin_left_15">Beezid™ Privacy Policy</p></div>
+					                </div>
                 
                 <div class="clear"></div>
            </div>
@@ -259,6 +270,13 @@ recent_winners();
 <!-- Main Block HEADER -->
 
 <div class="privacy_holder">
+<div class="truste_pr">
+	<a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank">
+    	<img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.beezid.com/seal_m.png" alt="Validate TRUSTe privacy certification">
+    </a>
+	<a class="trust_link" href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank">TRUSTe Validation</a>
+	<p>The TRUSTe seal indicates that Beezid.com complies with the world's largest privacy seal program, certifying more than 3,500 websites.</p>
+</div>
 » <strong>Scope</strong><br><br>
   Beezid.com (hereinafter referred to as “Beezid”) is a service provided by Beezid Inc. (hereinafter referred to as “Beezid” or “We”). We recognize and respect your  personal privacy. This Privacy Policy describes all aspects relating to  gathering information while you are visiting the Beezid website, how We handle  your personal information for our services and all further permissible uses of  such information.<br>
   By accepting the Privacy Policy and  the Terms and Conditions in registration, you expressly consent to our  collection, storage, use and disclosure of your personal information as  described in this Privacy Policy. This Privacy Policy is effective upon  acceptance for new users and is otherwise effective 10 days after being posted  on the website.<br><br>
@@ -315,22 +333,14 @@ We may amend this Privacy Policy at any time by posting the amended terms on  th
    <div class="clear_float"></div>
    </div><!-- Main Block FOOTER -->
 <br>
-<!-- [CONTENT HOLDER] Main Block --><div class="truste_pr">
-	<a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank">
-    	<img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.beezid.com/seal_m.png" alt="Validate TRUSTe privacy certification">
-    </a>
-	<a class="trust_link" href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank">TRUSTe Validation</a>
-	<p>The TRUSTe seal indicates that Beezid.com complies with the world's largest privacy seal program, certifying more than 3,500 websites.</p>
-</div>
-<script type="text/javascript">
+<!-- [CONTENT HOLDER] Main Block --><script type="text/javascript">
 //<![CDATA[
 beezidInit();
 //]]>
 </script><!--[if IE 6]>
 <script src="js/pngfix.js"></script>
 <![endif]-->
-</div>
- <!-- [FOOTER] Main Block  -->
+</div> <!-- [FOOTER] Main Block  -->
    <div class="common_bp_1">
 	<div class="ftr_bar">
 
@@ -373,15 +383,15 @@ beezidInit();
 
             <div class="footer_links_holder">
               <h3>About Beezid™</h3>
-              <a href="/register">Register</a>              <a href="/my_account">My Account</a>              <a href="/media">Media</a>              <a href="/contactus" rel="nofollow">Contact Us</a>              <a href="/contests">Contests &amp; Giveaways</a>              <a href="/blog">Official Beezid Blog</a>            </div>
+			  <a href="https://www.beezid.com/register" class="go_register">Register</a>              <a href="http://www.beezid.com/my_account">My Account</a>              <a href="http://www.beezid.com/media">Media</a>              <a href="http://www.beezid.com/contactus" rel="nofollow">Contact Us</a>              <a href="http://www.beezid.com/contests">Contests &amp; Giveaways</a>              <a href="http://www.beezid.com/blog">Official Beezid Blog</a>            </div>
 
             <div class="footer_links_holder">
               <h3>Help</h3>
-              <a href="/help">How Does Beezid™ Work?</a>              <a href="/terms" rel="nofollow">Terms &amp; Conditions</a>              <a href="/privacy" rel="nofollow">Privacy</a>              <a href="/sitemap">Site Map</a>              <a href="/">Home</a>              <a href="/affiliates">Affiliates</a>            </div>
+              <a href="http://www.beezid.com/help">How Does Beezid™ Work?</a>              <a href="http://www.beezid.com/terms" rel="nofollow">Terms &amp; Conditions</a>              <a href="http://www.beezid.com/privacy" rel="nofollow">Privacy</a>              <a href="http://www.beezid.com/sitemap">Site Map</a>              <a href="http://www.beezid.com">Home</a>              <a href="http://www.beezid.com/affiliates">Affiliates</a>            </div>
 
             <div class="footer_links_holder">
               <h3>Auctions</h3>
-              <a href="/auctions/show/live">Live Auctions</a>              <a href="/auctions/show/future">Future Auctions</a>              <a href="/closed-auctions">Closed Auctions</a>              <a href="/auction-winners">Winners Circle</a>            </div>
+              <a href="http://www.beezid.com/auctions/show/live">Live Auctions</a>              <a href="http://www.beezid.com/auctions/show/future">Future Auctions</a>              <a href="http://www.beezid.com/closed-auctions">Closed Auctions</a>              <a href="http://www.beezid.com/auction-winners">Winners Circle</a>            </div>
 
             <div class="footer_links_holder">
               <h3>Find Us</h3>
@@ -401,26 +411,27 @@ beezidInit();
                     </div>
                 </div>
 
-                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
-                <script type="text/javascript">
-                    var addthis_config = {
-                        username: "beezshare",
-                        data_track_clickback: true
-                    }
+                                <!--[if !IE 6]><!-->
+	                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
+	                <script type="text/javascript">
+	                    var addthis_config = {
+	                        username: "beezshare",
+	                        data_track_clickback: true
+	                    }
 
-                    var addthis_share = {
-                        description: "Online Auctions on TVs, Computers &amp; More. Save Up To 99%. 10 Free Bids."
-                    }
+	                    var addthis_share = {
+	                        description: "Online Auctions on TVs, Computers &amp; More. Save Up To 99%. Free Bids."
+	                    }
 
-                    function initAddThis() {
-                        addthis.init();
-                    }
+	                    function initAddThis() {
+	                        addthis.init();
+	                    }
 
-                    document.observe("dom:loaded", function() {
-                        initAddThis();
-                    });
-                </script>
-
+	                    document.observe("dom:loaded", function() {
+	                        initAddThis();
+	                    });
+	                </script>
+			<!--<![endif]-->
             </div>
         </div>
         <div class="clear"></div>
@@ -428,7 +439,7 @@ beezidInit();
    </div>
 
    <div class="copyright">
-   	   <p>© Copyright 2012 Beezid Inc.<br>
+	   <p>© Copyright 2012 Beezid Inc.<br>
 	   Beezid®, Beezid.com, the Beezid® Bumblebee and all other Beezid® related marks, images and symbols are the exclusive properties, trademarks and tradenames
        owned by Beezid Inc. Designated trademarks, logos and brands are the property of their respective owners.</p>
     </div>
@@ -439,11 +450,11 @@ beezidInit();
 DD_belatedPNG.fix('img, a');
 </script>
 <![endif]-->
-    </div>
-        <div id="ajaxy" style="float: left"></div>
-      <!-- Notification Bar -->
-         <!-- Notification Bar -->
-<!-- node9 -->
+	</div>
+		<div id="ajaxy" style="float: left"></div>
+	<!-- Notification Bar -->
+		<!-- Notification Bar -->
+<!-- node8 -->
 <script type="text/javascript">
 	var _gaq = _gaq || [];
 
@@ -470,7 +481,39 @@ DD_belatedPNG.fix('img, a');
 DD_belatedPNG.fix('img, div, a, span, input, p, dd, dl');
 </script>
 <![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+
+var google_conversion_id = 1027379541;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "YqkyCKPhxwIQ1aLy6QM";
+var google_conversion_value = 0;
 
 
+//]]>
+</script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1027379541/?label=YqkyCKPhxwIQ1aLy6QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript><script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9721&amp;cb=24929136329177860&amp;shcv=&amp;shcq=1&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121016073324id_%2Fhttp%253A%2F%2Fwww.beezid.com%2Fprivacy&amp;loggedIn=0&amp;uid=0&amp;extra=0"></script><script type="text/javascript">
+//<![CDATA[
+
+var shver = '2.8.6';
+var shpn = '';
+var shpc = '';
+var shpp = '';
+var shpb = '';
+var shpi = '';
+var shps = '';
+var shcv = '';
+var shcq='1';
+var shcp='';
+var additional='&loggedIn=0&uid=0&extra=0';
+var tdr='';if (top.document.referrer != ''){tdr = encodeURIComponent(top.document.referrer);}var plh='';if (parent.location.href != ''){plh = encodeURIComponent(parent.location.href);}shpi = encodeURIComponent(shpi);(function(){steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d)}else if(a.attachEvent){a.attachEvent("on"+b,c)}},load:function(){var a;if(typeof a=='undefined'){a=Math.random()*100000000000000000}var b=document.createElement('script');var c='px.steelhousemedia.com/st?aid=9721&cb='+a+'&shcv='+shcv+'&shcq='+shcq+'&shcp='+shcp+'&shpn='+shpn+'&shpc='+shpc+'&shpp='+shpp+'&shpb='+shpb+'&shpi='+shpi+'&shps='+shps+'&tdr='+tdr+'&plh='+plh+additional;b.type='text/javascript';b.src=('https:'==document.location.protocol?'https://':'http://')+c;var d=document.getElementsByTagName('script');var e=Number(d.length)-1;var f=document.getElementsByTagName('script')[e];f.parentNode.insertBefore(b,f)}};steelhouse.load();})();
+
+//]]>
+</script>
 
 </body></html>
