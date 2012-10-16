@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journelle.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605150437id_/http%3A//www.journelle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journelle.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016082559id_/http%3A//www.journelle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | European Designer Lingerie New York | Journelle Fine Lingerie
 
