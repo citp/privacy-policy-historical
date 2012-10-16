@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtgox.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510072949id_/https%3A//mtgox.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgox.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016060824id_/https%3A//mtgox.com/privacy_policy) for the most accurate reproduction.*
 
 # Mt.Gox - Wymiana Bitcoinów
 
@@ -107,15 +107,11 @@ E-Mail support@mtgox.com
 
 Mt.Gox K.K.
 
-Cerulean Tower 15F
+Round Cross Shibuya 5F  
+11-6 Shibuya 2-Chome, Shibuya-ku  
+Tokyo, Japan  
+150-0002
 
-Sakuragaoka-cho 26-1
-
-Shibuya-ku
-
-Tokyo  
-Japan  
-〒150-8512  
 FAO: Mark Karpeles
 
 Telephone Number +81 3 4520 6200
