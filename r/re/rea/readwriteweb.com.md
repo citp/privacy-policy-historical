@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readwriteweb.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510032457id_/http%3A//www.readwriteweb.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readwriteweb.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016083920id_/http%3A//www.readwriteweb.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # ReadWriteWeb - Web Apps, Web Technology Trends, Social Networking and Social Media
 
-## Privacy Policy
+Privacy Policy 
 
 _Effective Date: December 7, 2011_
 
