@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundspike.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620125127id_/http%3A//www.soundspike.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundspike.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016112732id_/http%3A//www.soundspike.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
