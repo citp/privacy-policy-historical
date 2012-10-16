@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcdistrict.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504182030id_/http%3A//www.pcdistrict.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcdistrict.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016193046id_/http%3A//www.pcdistrict.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
