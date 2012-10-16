@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626203716id_/http%3A//www.phonydiploma.com/Data-Security-and-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016223030id_/http%3A//www.phonydiploma.com/Data-Security-and-Privacy.aspx) for the most accurate reproduction.*
 
-# Data Security and Privacy - PhonyDiploma - Fake Diplomas | Free Email Sample | High School Degree | Fake College Degrees
+# Data Security and Privacy - Phonydiploma.com
 
 We don’t keep or sell a mailing list.  We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.  This information is only used to fulfill your specific request.
 
