@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614153802id_/http%3A//www.uhhospitals.org/universityhospitals/tabid/840/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017014245id_/http%3A//www.uhhospitals.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | University Hospitals | Cleveland, OH
+# Privacy Policy - University Hospitals
 
-**University Hospitals** is committed to protecting the privacy of visitors to our website. Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, and in answering questions.
+University Hospitals is committed to protecting the privacy of visitors to our website. Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, and in answering questions.
 
 ### What information do we collect?
 
@@ -15,7 +15,7 @@ This site recognizes and collects, when possible, the domain name of a visitor's
 
 
 
-We do not respond to any questions concerning specific medical conditions. If you transmit such information, while we will not intentionally release it or make it public, we cannot assure you that the information will be kept private. WE URGE YOU NOT TO SEND SUCH INFORMATION BY E-MAIL.
+We do not respond to any questions concerning specific medical conditions. If you transmit such information, while we will not intentionally release it or make it public, we cannot assure you that the information will be kept private. **We urge you not to send such information by e-mail**.
 
 ### How do we use the information we collect?
 
@@ -42,9 +42,9 @@ If you do not want to receive e-mail from University Hospitals, please let us kn
 
 We will process your request as quickly as possible.
 
-### What about "cookies"?
+### What about “cookies”?
 
-"Cookies" are small pieces of information that are stored by your web browser on your computer's hard drive. They permit University Hospitals to recognize you and your access privileges on this website, as well as to track site usage. You can usually change your browser setting to prevent acceptance of cookies. Check with your Internet Service Provider for assistance in changing this setting. However, if you wish to access areas that are personalized for your use, cookies will have to be active.
+“Cookies” are small pieces of information that are stored by your web browser on your computer's hard drive. They permit University Hospitals to recognize you and your access privileges on this website, as well as to track site usage. You can usually change your browser setting to prevent acceptance of cookies. Check with your Internet Service Provider for assistance in changing this setting. However, if you wish to access areas that are personalized for your use, cookies will have to be active.
 
 ### Your consent
 
