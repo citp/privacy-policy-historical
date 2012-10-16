@@ -1,0 +1,783 @@
+<!--The following is the downloaded HTML source of the certcollection.org privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016164136id_/http%3A//certcollection.org/forum/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="UTF-8">
+		<title>Privacy Policy - IT Certification Forum</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="shortcut icon" href="http://certcollection.org/forum/favicon.ico">
+		<link rel="image_src" href="http://img.certcollection.org/public/style_images/cc_v5/meta_image.png">
+		<script type="text/javascript">
+		//<![CDATA[
+			jsDebug			= 0; /* Must come before JS includes */
+			USE_RTE			= 1;
+			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
+			inACP			= false;
+			var isRTL		= false;
+			var rtlIe		= '';
+			var rtlFull		= '';
+		//]]>
+		</script>
+		
+	
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+	
+		<link rel="stylesheet" type="text/css" media="screen,print" href="http://certcollection.org/forum/public/min/index.php?ipbv=add09fb8f231ad25150860735ed6a03b&amp;f=public/style_css/css_24/ipb_topicprefixes.css,public/style_css/css_24/ipb_styles.css,public/style_css/css_24/spy.css,public/style_css/css_24/calendar_select.css,public/style_css/css_24/ipb_ckeditor.css,public/style_css/css_24/ipb_common.css,public/style_css/css_24/ipb_editor.css,public/style_css/css_24/ipb_login_register.css">
+	
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://certcollection.org/forum/public/style_css/css_24/ipb_ie.css" />
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
+<![endif]-->
+
+	<style type="text/css">
+		img.bbc_img { max-width: 100% !important; }
+	</style>
+
+	
+		
+			<meta name="identifier-url" content="http://certcollection.org/forum/privacypolicy/">
+		
+		
+			<meta property="og:url" content="http://certcollection.org/forum/privacypolicy/">
+		
+		
+	
+
+		
+		
+		
+		<script type="text/javascript" src="http://certcollection.org/forum/public/min/index.php?ipbv=add09fb8f231ad25150860735ed6a03b&amp;g=js"></script>
+	
+	<script type="text/javascript" src="http://certcollection.org/forum/public/min/index.php?ipbv=add09fb8f231ad25150860735ed6a03b&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js" charset="UTF-8"></script><script type="text/javascript">
+
+ipb.lang['en30_thanked_by'] 	= "";
+ipb.lang['en30_thank']		= "";
+ipb.lang['en30_thank_author']	= "";
+ipb.lang['en30_user']		= "";
+ipb.lang['en30_users']		= "";
+ipb.lang['en30_thanked']	= "";
+
+function ajaxThanksExpand( pid )
+{
+	var thankersBox 		= $( 'thankers_' + pid );
+	var showThankers 	= $( 'show_thankers_' + pid );
+	
+	showThankers.style.display = "none";
+	thankersBox.style.display = "block";
+}
+
+function ajaxRemoveThanks( pid )
+{
+		// Kill the thanks button of this specific post
+		
+		new Effect.DropOut( 'ajaxRemoveThanks_' + pid );
+		var url = ipb.vars['base_url'] + 'app=forums&module=ajax&section=stats&do=ajaxRemoveThanks';
+		
+		new Ajax.Request( url,
+							{
+								method: 'post',
+								evalJSON: 'force',
+								parameters: {
+									md5check: 		ipb.vars['secure_hash'],
+									pid:			pid,
+									tid:			ipb.topic.topic_id,
+									fid:			ipb.topic.forum_id
+								},
+								onSuccess: function(t)
+								{
+									if( t.responseJSON['error'] )
+									{
+										alert( t.responseJSON['error'] );
+									}
+									else
+									{
+										var thankers	= $( 'thankers_' + pid );
+										var thankedBy	= $( 'thankedBy_' + pid );
+										var thankersBox = $( 'thankersBox_' + pid );
+
+										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
+										{
+											thankersBox.style.display = "block";
+											
+											thankers.innerHTML = t.responseJSON['thankers'];
+										}
+										else
+										{
+											ajaxThanksExpand( pid );
+											thankers.innerHTML = t.responseJSON['thankers'];
+										}
+										
+										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
+										{
+											thankersBox.style.display = "block";
+										}
+										
+										// Update thanked by text (increment number show plural)
+										
+										if ( thankedBy.title != '0' )
+										{
+											var thankers = parseInt( thankedBy.title ) - 1;
+											
+											if ( thankers > 1 )
+											{
+												thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + thankers + ' ' + ipb.lang['en30_users'];
+												new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
+											}
+											if ( thankers == 1 )
+											{
+												thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + thankers + ' ' + ipb.lang['en30_user'];
+												new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
+											}
+											else
+											{
+												thankersBox.style.display = "none";
+											}
+										}
+									}
+								}
+							}
+						);
+}
+
+function ajaxThanks( pid )
+{
+		// Kill the thanks button of this specific post
+		
+		new Effect.DropOut( 'ajaxThanks_' + pid );
+		var url = ipb.vars['base_url'] + 'app=forums&module=ajax&section=stats&do=ajaxThanks';
+		
+		new Ajax.Request(	url,
+							{
+								method: 'post',
+								evalJSON: 'force',
+								parameters: {
+									md5check: 		ipb.vars['secure_hash'],
+									pid:			pid,
+									tid:			ipb.topic.topic_id,
+									fid:			ipb.topic.forum_id
+								},
+								onSuccess: function(t)
+								{
+									if( t.responseJSON['error'] )
+									{
+										alert( t.responseJSON['error'] );
+									}
+									else
+									{
+										var thankers	= $( 'thankers_' + pid );
+										var thankedBy	= $( 'thankedBy_' + pid );
+										var thankersBox = $( 'thankersBox_' + pid );
+										
+										var newLink	= "<a href='" + ipb.vars['base_url'] + "showuser=" + t.responseJSON['member_id'] + "' title='" + t.responseJSON['members_display_name'] + "'>" + t.responseJSON['members_display_name'] + "</a>" + "&nbsp;<a href='" + ipb.vars['base_url'] + "showuser=" + t.responseJSON['member_id'] + "' class='__user __id" + t.responseJSON['member_id'] + "' title='View Profile'><img src='http://img.certcollection.org/public/style_images/cc_v5/user_popup.png' alt='' /></a>";
+										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
+										{
+											thankersBox.style.display = "block";
+											
+											thankers.innerHTML = newLink;
+										}
+										else
+										{
+											ajaxThanksExpand( pid );
+											thankers.innerHTML = newLink + ", " + thankers.innerHTML;
+										}
+										
+										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
+										{
+											thankersBox.style.display = "block";
+										}
+										
+										// Update thanked by text (increment number show plural)
+										
+										if ( thankedBy.title != '0' )
+										{
+											thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + ( parseInt( thankedBy.title ) + 1 ) + ' ' + ipb.lang['en30_users'];
+										}
+										
+										// Update post content for hide hack
+										
+										if ( t.responseJSON['post'] != "" )
+										{
+											// Editless attempt to reach the post content
+
+											var postDivider = $( 'post_id_' + pid ).children[1].children[2].children[1];
+											postDivider.innerHTML = t.responseJSON['post'];
+											
+											new Effect.Pulsate( postDivider, { duration: 1.5,  pulses: 3 } );
+										}
+
+										new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
+									}
+								}
+							}
+						);
+}
+
+</script>
+
+
+	
+		
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Forum" href="http://certcollection.org/forum/rss/forums/1-forum/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Microsoft Tech" href="http://certcollection.org/forum/rss/forums/2-microsoft-tech/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Cisco Tech" href="http://certcollection.org/forum/rss/forums/3-cisco-tech/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Microsoft Shares" href="http://certcollection.org/forum/rss/forums/4-microsoft-shares/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Cisco Shares" href="http://certcollection.org/forum/rss/forums/5-cisco-shares/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="IT News" href="http://certcollection.org/forum/rss/forums/6-it-news/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="IT Certification News" href="http://certcollection.org/forum/rss/forums/7-it-certification-news/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="IT Certification Forum Blogs RSS feed" href="http://certcollection.org/forum/rss/blog/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Last 10 Submissions RSS Feed" href="http://certcollection.org/forum/rss/downloads/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="IT Certification Forum" href="http://certcollection.org/forum/rss/ccs/1-it-certification-forum/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="IT Certification Forum: Announcements" href="http://certcollection.org/forum/rss/ccs/1c1-announcements/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="IT Certification Forum: IT Certification News" href="http://certcollection.org/forum/rss/ccs/1c4-it-certification-news/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="IT Certification Forum: IT News" href="http://certcollection.org/forum/rss/ccs/1c5-it-news/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Media Demo: New Features" href="http://certcollection.org/forum/rss/ccs/2c9-new-features/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Media Demo: Other" href="http://certcollection.org/forum/rss/ccs/2c10-other/">
+			
+			
+			
+		
+	
+
+	
+
+
+
+		
+		<script type="text/javascript">
+	//<![CDATA[
+		/* ---- URLs ---- */
+		ipb.vars['base_url'] 			= 'http://certcollection.org/forum/index.php?s=7d8075217347038510a262b3460efdcf&';
+		ipb.vars['board_url']			= 'http://certcollection.org/forum';
+		ipb.vars['img_url'] 			= "http://img.certcollection.org/public/style_images/cc_v5";
+		ipb.vars['loading_img'] 		= 'http://img.certcollection.org/public/style_images/cc_v5/loading.gif';
+		ipb.vars['active_app']			= 'core';
+		ipb.vars['upload_url']			= 'http://certcollection.org/forum/uploads';
+		/* ---- Member ---- */
+		ipb.vars['member_id']			= parseInt( 0 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
+		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
+		ipb.vars['session_id']			= '7d8075217347038510a262b3460efdcf';
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 0;
+		ipb.vars['auto_dst']			= parseInt( 0 );
+		ipb.vars['dst_in_use']			= parseInt(  );
+		ipb.vars['is_touch']			= false;
+		ipb.vars['member_group']		= {"g_mem_info":"0"}
+		/* ---- cookies ----- */
+		ipb.vars['cookie_id'] 			= '';
+		ipb.vars['cookie_domain'] 		= '.certcollection.org';
+		ipb.vars['cookie_path']			= '/';
+		/* ---- Rate imgs ---- */
+		ipb.vars['rate_img_on']			= 'http://img.certcollection.org/public/style_images/cc_v5/star.png';
+		ipb.vars['rate_img_off']		= 'http://img.certcollection.org/public/style_images/cc_v5/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://img.certcollection.org/public/style_images/cc_v5/star_rated.png';
+		/* ---- Uploads ---- */
+		ipb.vars['swfupload_swf']		= 'http://certcollection.org/forum/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_enabled']	= true;
+		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
+		ipb.vars['swfupload_debug']		= false;
+		/* ---- other ---- */
+		ipb.vars['highlight_color']     = "#ade57a";
+		ipb.vars['charset']				= "UTF-8";
+		ipb.vars['seo_enabled']			= 1;
+		
+		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"\/page__","varSep":"__"};
+		
+		/* Templates/Language */
+		ipb.templates['inlineMsg']		= "";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://img.certcollection.org/public/style_images/cc_v5/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://img.certcollection.org/public/style_images/cc_v5/close_popup.png' alt='x' />";
+		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
+		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
+		
+		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
+		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
+		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
+		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
+		
+		
+		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
+		
+		Loader.boot();
+	//]]>
+	</script>
+	</head>
+	<body id="ipboard_body">
+		<p id="content_jump" class="hide"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
+		<div id="ipbwrapper">
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
+
+						
+			<!-- ::: BRANDING STRIP: Logo and search box ::: -->
+<div id="branding">
+					<div id="logo">
+						
+<div id="chat-tab-count-wrap"><span id="chat-tab-count" class="ipsHasNotifications" title="" style="display:none;">2</span></div>
+<script type="text/javascript">
+// And then move
+document.observe("dom:loaded", function(){
+	var _thisHtml	= $('nav_app_ipchat').down('a').innerHTML;
+	_thisHtml = _thisHtml + $('chat-tab-count-wrap').innerHTML;
+	$('nav_app_ipchat').down('a').update( _thisHtml );
+	$('chat-tab-count-wrap').remove();
+	$('chat-tab-count').show();
+});
+</script>
+
+							<a href="http://certcollection.org/forum" title="Go to community index" rel="home" accesskey="1"><img src="http://certcollection.org/forum/public/style_images/24_logo.png" alt="Logo"></a>
+						
+				</div>
+
+					<div id="user_navigation" class="not_logged_in main_width">
+							
+							<ul class="ipsList_inline right">
+								<li>
+									<span class="services">
+										
+										
+										
+									</span>
+									&nbsp;&nbsp;&nbsp;&nbsp;
+									<a href="https://certcollection.org/forum/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in" class="no_ajax">Sign In</a>&nbsp;&nbsp;&nbsp;
+								</li>
+								<li>
+									<a href="https://certcollection.org/forum/index.php?app=core&amp;module=global&amp;section=register" title="Create Account" id="register_link">Create Account</a>
+								</li>
+							</ul>
+						</div>
+
+			</div>
+<div class="clear"></div>
+	<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
+			<div id="header_bar" class="clearfix">
+	
+					
+					
+<ul class="ipsList_inline left" id="solidblockmenu">
+<li>
+<a href="http://certcollection.org" title="Go to News">News</a>
+</li>
+<li id="forums_active">
+<a href="http://certcollection.org/forum/" title="Go to Forums">Forums</a>
+</li>
+<li id="nav_other_apps">
+							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://img.certcollection.org/public/style_images/cc_v5/useropts_arrow.png"></a>
+<ul id="more_apps_menucontent" class="ipbmenu_content" style="display:none;">
+<li>
+<a href="http://certcollection.org/forum/index.php?app=spy" title="Go to Spy">Spy</a>
+</li>
+
+<li>
+<a href="http://certcollection.org/forum/modlogs/" title="Go to Mod Logs">Mod Logs</a>
+</li>
+<li>
+<a href="http://certcollection.org/forum/index.php?app=contactus" title="Go to Contact Us">Contact Us</a>
+</li>
+<li class="left ">
+<a href="http://certcollection.org/forum/index.php?app=core&amp;module=help" title="Go to Help">Help</a>
+</li>	
+<li>
+<a href="http://certcollection.org/forum/index.php?app=blog">Blogs</a>
+</li></ul>
+						</li>
+<script type="text/javascript">
+// And then move
+document.observe("dom:loaded", function(){
+	$('nav_app_ipchat').down('a').observe( 'click', function(e) {
+		var _chatUrl	= $('nav_app_ipchat').down('a').href;
+	
+		if( _chatUrl.charAt( _chatUrl.length - 1 ) == '#' )
+		{
+			_chatUrl	= _chatUrl.substr( 0, _chatUrl.length - 1 );
+		}
+	
+		if( _chatUrl.indexOf('?') != '-1' )
+		{
+			_chatUrl	+= '&_popup=1';
+		}
+		else
+		{
+			_chatUrl	+= '?_popup=1';
+		}
+		
+		window.open( _chatUrl, "chatpopout", "status=0,toolbar=0,location=1,menubar=0,directories=0,resizable=1,scrollbars=1,height=550,width=750" );
+		
+		Event.stop(e);
+		return false;
+	});
+});
+</script>
+</ul>
+
+				<script type="text/javascript">
+					ipb.global.activateMainMenu();
+				</script>
+
+					
+</div>
+
+
+					
+					
+			<!-- ::: APPLICATION TABS ::: -->
+			<div id="primary_nav" class="clearfix">		
+					<ul class="ipsList_inline" id="community_app_menu">
+						<li id="nav_explore" class="right">
+							<a href="http://certcollection.org/forum/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums" accesskey="2">View New Content</a>
+						</li>
+						
+						
+								
+		
+			
+			
+		
+
+			
+			<li id="nav_app_forums" class="left "><a href="http://certcollection.org/forum/" title="Go to Forums">Forums</a></li>
+		
+
+			
+			
+		
+
+			
+			
+		
+
+			
+			
+		
+
+			
+			<li id="nav_app_ipchat" class="left "><a href="http://certcollection.org/forum/chat/" title="Go to Chat">Chat</a></li>
+		
+
+			
+			<li id="nav_app_downloads" class="left "><a href="http://certcollection.org/forum/files/" title="Go to Downloads">Downloads</a></li>
+		
+
+			
+			
+		
+
+			
+			
+		
+
+			
+			<li id="nav_app_nexus" class="left "><a href="http://certcollection.org/forum/store/" title="Go to Store">Store</a></li>
+		
+
+			
+			<li id="nav_app_groups" class="left "><a href="http://certcollection.org/forum/groups/" title="Go to Study Groups">Study Groups</a></li>
+		
+
+			
+			<li id="nav_app_spy" class="left "><a href="http://certcollection.org/forum/spy/" title="Go to Spy">Spy</a></li>
+		
+
+			
+			
+		
+
+			
+			
+		
+	
+	
+						
+						<li id="nav_other_apps" style="display: none">
+							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://img.certcollection.org/public/style_images/cc_v5/useropts_arrow.png"></a>
+						</li>
+						<li class="right">
+							<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=extras&amp;section=boardrules">Board Rules</a>
+						</li>
+					
+						<li class="right">
+							<a rel="nofollow" id="mark_all_read" href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024" title="Mark all as read">Mark Community Read</a>
+							<ul id="mark_all_read_menucontent" class="ipbmenu_content" style="display: none">
+								
+									<li>
+										
+									</li>
+								
+
+									<li>
+										<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=forums&amp;k=880ea6a14ea49e853634fbdc5015a024">Forums</a>
+									</li>
+								
+
+									<li>
+										<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=members&amp;k=880ea6a14ea49e853634fbdc5015a024">Members</a>
+									</li>
+								
+
+									<li>
+										<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=blog&amp;k=880ea6a14ea49e853634fbdc5015a024">Blogs</a>
+									</li>
+								
+
+									<li>
+										<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=downloads&amp;k=880ea6a14ea49e853634fbdc5015a024">Downloads</a>
+									</li>
+								
+
+									<li>
+										<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=ccs&amp;k=880ea6a14ea49e853634fbdc5015a024">Pages</a>
+									</li>
+								
+
+									<li>
+										<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=nexus&amp;k=880ea6a14ea49e853634fbdc5015a024">Store</a>
+									</li>
+								
+								<li>
+									<a href="http://certcollection.org/forum/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024"><strong>Mark all as read</strong></a>
+								</li>
+							</ul>
+						</li>
+					<li><a href="http://certcollection.org/forum/index.php?app=nexus&amp;module=support&amp;section=new">Contact Us</a>
+					</li></ul>
+				</div>
+				<script type="text/javascript">
+					if( $('primary_nav') ){	ipb.global.activateMainMenu(); }
+				</script>
+			</div>	
+			
+			<!-- ::: MAIN CONTENT AREA ::: -->
+			<div id="content" class="rounded clearfix">
+				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
+				
+				<noscript>
+					<div class='message error'>
+						<strong>Javascript Disabled Detected</strong>
+						<p>You currently have javascript disabled. Several functions may not work. Please re-enable javascript to access full functionality.</p>
+					</div>
+					<br />
+				</noscript>
+				<!-- ::: CONTENT ::: -->
+				
+				<h2 class="ipsType_pagetitle">Privacy Policy</h2>
+<div class="row2 ipsPad" style="line-height: 1.6">
+	Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
+<br>
+<br>
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
+<br>
+<br>
+<b>Our Commitment to Children's Privacy</b><br>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+<br>
+<br>
+<b>Cookies</b>
+<br>
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
+</div>
+				
+				<ol class="breadcrumb bottom ipsList_inline left clearfix clear">
+					
+						<li>&nbsp;</li>
+					
+						
+							<li class="right">
+								<a href="http://certcollection.org/forum/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=core" rel="quickNavigation" accesskey="9" title="Open Quick Navigation">Quick Nav</a>
+							</li>
+						
+					
+					<li class="right ipsType_smaller">
+						<a rel="nofollow" href="http://certcollection.org/forum/privacypolicy/">Privacy Policy</a>
+					</li>
+					
+				</ol>
+			</div>
+			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
+
+		<div id="siteinfo" class="main_width">
+
+	<div id="siteinfo-company" class="left ipsPad_double">
+		<h3>Organization</h3>
+		<ul>
+			<li><a href="#">About Us</a></li>
+			<li><a href="#">Advertising</a></li>
+                        <li><a href="http://certcollection.org/forum/index.php?app=contactus" title="Go to Contact Us">Contact Us</a></li>
+			<li><a href="http://twitter.com/certcollection">Follow us on Twitter</a></li>
+		</ul>
+	</div>
+	<div id="siteinfo-community" class="left ipsPad_double">
+		<h3>Community</h3>
+		<ul>
+			<li><a href="http://certcollection.org/forum/">Forums</a></li>
+			<li><a href="http://certcollection.org/forum/blogs/">Blogs</a></li>
+			<li><a href="http://certcollection.org/forum/files/">Downloads</a></li>
+			<li><a href="#">Privacy Statement</a></li>
+		</ul>
+	</div>
+	<div id="siteinfo-social" class="left ipsPad_double">
+		<h3>Downloads</h3>
+		<ul>
+			<li><a href="http://certcollection.org/forum/files/category/291-apple/">Apple</a></li>
+			<li><a href="http://certcollection.org/forum/files/category/2-cisco/">Cisco</a></li>
+			<li><a href="http://certcollection.org/forum/files/category/231-citrix/">Citrix</a></li>
+			<li><a href="http://certcollection.org/forum/files/category/255-comptia/">CompTIA</a></li>
+			<li><a href="http://certcollection.org/forum/files/category/1-microsoft/">Microsoft</a></li>
+		</ul>
+	</div>
+	<div id="siteinfo-account" class="left ipsPad_double">
+		<h3>Test Providers</h3>
+		<ul>
+			
+				<li><a href="http://anonym.to/?http://www.pearsonvue.com">Pearson VUE</a></li>
+				<li><a href="http://anonym.to/?http://www.prometric.com">Prometric</a></li>
+				<li><a href="http://anonym.to/?www.exin.com">Exin-Exams</a></li>
+			
+		</ul>
+	</div>
+	<div id="siteinfo-content" class="right ipsPad_double">
+		<h3>Site Info</h3>
+		<p class="copyright">
+			
+© 2008 - 2011 <a href="http://certcollection.org/forum">CertCollection IT Certification Forum</a><br>
+<!-- Copyright Information -->
+        				  </p><p id="copyright">
+        				  	<a href="http://www.invisionpower.com/products/board/" title="Community Forum Software by Invision Power Services">Community Forum Software by IP.Board</a></p>
+		<!-- / Copyright -->
+			<br>
+			<a rel="nofollow" href="#top" id="backtotop" title="Go to top">Go to top</a>
+		<p></p>
+	</div>
+
+</div>
+		
+	
+</body></html>
