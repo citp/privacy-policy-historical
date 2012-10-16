@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the price-kicker.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602111956id_/http%3A//www.price-kicker.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the price-kicker.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016182715id_/http%3A//www.price-kicker.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 			<title>Privacy Policy - price-kicker.com</title>
@@ -127,12 +127,17 @@ div.pr div.item_button
 	var query = "";
 
 	
+	
+	
+
 	var a = "";
 				
 	var currentPage = "";
 	var maxPages = "";
 	var isLoading = false;
+	var pagination = false;
 
+	
 	window.google_analytics_uacct = "UA-16536439-1";
 
 	var lang = "en";
@@ -148,25 +153,40 @@ div.pr div.item_button
 
 	var _tb_close = "close";
 
+	var sortLog = "Sort Log, ";
 
 	var pageOptions = {
 	        'hl' : 'en',
 	        'gl' : 'us',
 	        'pubId' : 'pub-9296537736967866',
 	        'query' : query,
-	        'channel': '1253421534'
+
+		    'titleBold' : true,
+	        'rolloverAdBackgroundColor' : '#E0E0E0',
+	        'rolloverLinkColor' : '#FFFFFF',
+	        'rolloverLinkBackgroundColor' : '#FF531D',
+	        'sellerRatings' : false,
+	        'siteLinks' : false
+	        
+	        ,
+// Mega Label links anzeigen	        
+	        'adsLabel' : true,
+    	    'rightHandAttribution' : true
+    	    
+	        	        	        
+	        ,'channel': '1253421534'
       };
 
 	var adBlock1 = {
 			 'container' : 'afs_ads1',
-			 'number' : '5',
-			 'lines' : '1',
+			 'number' : '4',
+			 'lines' : '2',
 			 'fontSizeTitle' : '16px',
 			 
 			 'colorText' : '#A2A0A2',
 		     'colorTitleLink' : '#1c6797',
 			 'colorBackground' : '#F1F1F1',
-		     'colorDomainLink' : '#1c6797',
+		     'colorDomainLink' : '#007000',
 			 'linkTarget' : '_blank',
 			 'rolloverLinkBold' : true,
 			 			 			 'rolloverLinkColor' : '#FF5347'
@@ -174,8 +194,23 @@ div.pr div.item_button
 
 	var adBlock2 = {
 			 'container' : 'afs_ads2',
-			 'number' : '5',
-			 'lines' : '1',
+			 'number' : '4',
+			 'lines' : '2',
+			 'fontSizeTitle' : '16px',
+			 
+		        'colorText' : '#A2A0A2',
+		        'colorTitleLink' : '#1c6797',
+		        'colorDomainLink' : '#1c6797',
+		        		        'colorBackground' : '#FFFFFF',
+				 'linkTarget' : '_blank',
+				'rolloverLinkColor' : '#FF5347',
+				 'rolloverLinkBold' : true
+		};
+
+	var adBlock3 = {
+			 'container' : 'afs_ads3',
+			 'number' : '4',
+			 'lines' : '2',
 			 'fontSizeTitle' : '16px',
 			 
 		        'colorText' : '#A2A0A2',
@@ -240,6 +275,8 @@ div.pr div.item_button
 
 	
 	$(document).ready(function() {
+		
+		
 		$("div.im img").click(function() {
 			var uid = $(this).parent("div").parent("div").parent("div").attr("uid");
 			if($(this).attr("rel") == "active") {
@@ -257,7 +294,8 @@ div.pr div.item_button
 			}
 
 		});
-
+		
+		
 		processItems();
 	});
 
@@ -277,28 +315,40 @@ div.pr div.item_button
 		var n = kids.length;
 		var changed = true;
 
-		while (n > 0 && changed)
+		sortLog += "n: " + n + ", ";
+
+		while (n > 0)
 		{
-			var kids = $('#'+containerId).children(selector);
-	
 			changed = false;
 
 			for (var i = 0; i <= n; i++)
 			{
+				var kids = $('#'+containerId).children(selector);
+				
 				var needChange = false;
 				
 				if (direction == 'asc')
-					needChange = Math.round($(kids[i]).attr(attributeId)) > Math.round($(kids[i+1]).attr(attributeId));
+				{
+					var firstValue = Math.round($(kids[i]).attr(attributeId));
+					var secondValue = Math.round($(kids[i+1]).attr(attributeId));
+					needChange =  firstValue > secondValue;
+					
+				}
 				else if (direction == 'desc')
-					needChange = Math.round($(kids[i]).attr(attributeId)) < Math.round($(kids[i+1]).attr(attributeId));
-								
+				{
+					var firstValue = Math.round($(kids[i]).attr(attributeId));
+					var secondValue = Math.round($(kids[i+1]).attr(attributeId));
+						
+					needChange = firstValue < secondValue;
+
+				}			
 
 				if (needChange)
 				{
 					changed = true;
 
 					$(kids[i+1]).insertBefore($(kids[i]));
-
+					
 				}
 			}
 			
@@ -316,12 +366,93 @@ div.pr div.item_button
 	function showAds()
 	{
 		// Function provided by Google Inc.
-		// for Wegner-ITS
+		// for wusoma
 
-		new google.ads.search.Ads(pageOptions, adBlock1, adBlock2);	
-		
+		//new google.ads.search.Ads(pageOptions, adBlock1, adBlock2, adBlock3);	
+
+		placeAfsAds('afs_ads2');
+
+		placeAfsAds('afs_ads3');		
+
+		// Function provided by Google Inc.
+		// for wusoma
+		if($('#afs_ads2')[0] && $('#afs_ads3')[0]) {
+			new google.ads.search.Ads(pageOptions, adBlock1, adBlock2, adBlock3);	
+		}
 	}
 
+	function hideAds() {
+		var afsads2 = $('#afs_ads2');
+		var afsads3 = $('#afs_ads3');
+
+		if(afsads2[0]) {
+			afsads2[0].style.display = 'none';
+		}
+
+		if(afsads3[0]) {
+			afsads3[0].style.display = 'none';
+		}
+	}
+
+	function unhideAds() {
+		var afsads2 = $('#afs_ads2');
+		var afsads3 = $('#afs_ads3');
+
+		if(afsads2[0]) {
+			afsads2[0].style.display = 'block';
+		}
+
+		if(afsads3[0]) {
+			afsads3[0].style.display = 'block';
+		}
+	}
+
+	function removeAds(divId) {
+		var afsads = $('#' + divId);
+
+		if(afsads[0]) {
+			afsads.detach();
+		}			
+	}
+
+	function placeAfsAds(divId)
+	{		
+		var afs_ads = $('#' + divId);
+		
+		var curr_item_block = afs_ads.next().next().next();//.prev().prev();
+
+		if(!curr_item_block.offset()) {
+			return;
+		}
+		
+		removeAds(divId);
+
+		Module_wusoma_Gap.init();
+		
+		var curr_offset = curr_item_block.offset().left;
+
+		while(curr_item_block.prev().offset() && curr_item_block.prev().offset().left < curr_offset)
+		//while(curr_item_block.prev().css('marginRight') > 0)
+		{
+			curr_item_block = curr_item_block.prev();
+		}
+
+		if(!curr_item_block.prev().offset() || !curr_item_block.prev().position()) {
+			return;
+		} 
+
+		//var new_width = curr_item_block.prev().position().left + curr_item_block.prev().width() - 20;
+		var new_width = curr_item_block.prev().position().left + curr_item_block.prev().width() - 10;
+
+		$("#productContent").append("<div id=\'"+divId+"\' style=\"position:relative; float:left; margin-bottom:15px;\" ></div>");
+		
+		afs_ads = $('#' + divId);
+		
+		afs_ads.width(new_width);
+	
+		afs_ads.insertBefore(curr_item_block);
+
+	}
 
 
 	// Track Redirect Clicks soon
@@ -349,6 +480,9 @@ div.pr div.item_button
 		
 	}
 
+
+
+	
 
 	function processItems()
 	{
@@ -405,7 +539,9 @@ div.pr div.item_button
 		});
 
 
-				
+		
+
+		Module_wusoma_Gap.init();
 	}
 	
 
@@ -502,7 +638,7 @@ div.pr div.item_button
 	
   </script>			<script type="text/javascript" src="http://wegner-its.s3.amazonaws.com/js/jquery.validate.js"></script>
 			
-			<script language="javascript" src="http://cdn.price-kicker.com/js/main-2011102601.js" type="text/javascript"></script>
+			<script language="javascript" src="js/main-2011102601.js" type="text/javascript"></script>
 	
 			<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
 	  		{lang: 'de'}
@@ -513,6 +649,8 @@ div.pr div.item_button
 			
 			<script src="http://cdn.price-kicker.com/js/jquery.MetaData.js" type="text/javascript" language="javascript"></script>
 			<script src="http://cdn.price-kicker.com/js/jquery.rating.plugin.js" type="text/javascript" language="javascript"></script>
+			
+			<script type="text/javascript" src="js/gap.js"></script>
 
 			<link href="http://jquery-star-rating-plugin.googlecode.com/svn/trunk/jquery.rating.css" type="text/css" rel="stylesheet">
 			
@@ -718,7 +856,8 @@ div.pr div.item_button
 			<!-- FOOTER -->
 			<div class="footer">
 
-		
+			
+				
 		<div>
 			<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FPriceKickerCom&amp;width=980&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=240" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:980px; height:240px; background-color:#ffffff;" allowtransparency="true"></iframe>
 		</div>
@@ -737,7 +876,18 @@ div.pr div.item_button
 		&nbsp;&nbsp;
 	</div>
 	<div style="clear:left;"></div>
-</div>			<!-- Ende FOOTER -->
+</div>
+<script type="application/x-javascript">
+	function ads() {
+		if(Module_wusoma_Gap.isRunning) {
+			var id = window.setTimeout('ads()', 10);
+		} else {
+			window.setTimeout('showAds()', 10);
+		}
+	}
+	ads();
+	$(window).resize(function(){ads();});
+</script>			<!-- Ende FOOTER -->
 			
 			
 
