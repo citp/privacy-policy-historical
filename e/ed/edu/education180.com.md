@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education180.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511115812id_/http%3A//www.education180.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education180.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016065021id_/http%3A//www.education180.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Education180 : Colleges, Universities & Degrees
 
