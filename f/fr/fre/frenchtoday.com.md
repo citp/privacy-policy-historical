@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608060640id_/http%3A//www.frenchtoday.com/sys/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016024036id_/http%3A//www.frenchtoday.com/sys/privacy-policy) for the most accurate reproduction.*
 
 # French Today Privacy Policy
 
