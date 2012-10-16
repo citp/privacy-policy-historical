@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelliad.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607231624id_/http%3A//www.intelliad.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelliad.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017005446id_/http%3A//www.intelliad.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - intelliAd Media GmbH
 
@@ -11,11 +11,12 @@ Privacy Policy
   * [Jobs](http://www.intelliad.com/company/jobs.html "Jobs")
   * [Press](http://www.intelliad.com/company/press.html "Press")
   * [Social Responsibility](http://www.intelliad.com/company/social-responsibility.html "Social Responsibility")
+  * [ISO Certification](http://www.intelliad.com/company/iso-certification.html "ISO Certification")
   * [Privacy Policy](http://www.intelliad.com/company/privacy-policy.html "Privacy Policy")
 
 
 
-## Last updated: 09/2011
+## Last updated: 06/2012
 
 Our Online Privacy Statement is designed to inform you about our collection and use of personal information on this web site. From time to time, intelliAd Corporation (referred to in this policy as "intelliAd") may modify this Online Privacy Statement.
 
@@ -75,10 +76,6 @@ In some instances, if we collect information online, we will inform users at tha
 
 At intelliAd, security is a priority. intelliAd employs appropriate measures, including advanced technology, to protect personal information collected online against unauthorized access, disclosure, alteration or destruction. These measures may include, among others, encryption, physical access security, and other appropriate technologies. intelliAd continually reviews and enhances its security systems, as necessary.
 
-### 11\. Persons Under the Age of 18.
-
-intelliAd does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the site from persons under 18 years of age, and no part of the site is directed to persons under 18. If you are under 18 years of age, then please do not use or access the Site or the services at any time or in any manner. If intelliAd learns that personally identifiable information of persons under 18 years of age has been collected on the Site, then we will take the appropriate steps to delete this information.
-
 ### 12\. intelliAd's Web Site May Be Linked to Other Web Sites.
 
 As you navigate our site, you may click to web sites of our different subsidiaries and divisions. Those web sites may have their own online privacy statements or policies. This Online Privacy Statement will not apply when you move to one of these other sites because business unit privacy practices and policies are tailored to the products and services offered by the individual intelliAd business units. As you visit the pages and sites of our different business units please be sure to review the privacy policies applicable to those sites.
@@ -89,6 +86,9 @@ intelliAd may create links to third-party web sites. intelliAd is not responsibl
 
 For more information on this subject please contact our **data protection** **officer** :
 
+intelliAd Media  
 Michael Schunke  
-Phone: +49 89 / 15 90 490 - 51  
-Email: michael.schunke(at)intelliad.com
+Sendlinger Str. 7  
+80331 München  
+T: +49 (0)89 / 15 90 490 - 51  
+E: Michael.Schunke(at)intelliad.de
