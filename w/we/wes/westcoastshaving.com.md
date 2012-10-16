@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westcoastshaving.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520105414id_/http%3A//www.westcoastshaving.com/Privacy-Notice_ep_42-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastshaving.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016125401id_/http%3A//www.westcoastshaving.com/Privacy-Notice_ep_42-1.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
