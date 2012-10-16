@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pure360community.co.uk privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611003316id_/http%3A//www.pure360community.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure360community.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016231910id_/http%3A//www.pure360community.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Pure360 Email Marketing Software
 
 We are extremely protective over your privacy and confidentiality. We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not fall into the hands of a third party. Our policy is both specific and strict. If you think our policy falls short of your expectations or that we are failing to abide by our policy, please let us know.
 
-In extreme cases data provided by you may be unlawfully available to hackers and snoopers, unfortunately we are unable to responsibility for this. The risk is no different from a similar risk of burglary , yoin a bricks and mortar establishment you can lock the doors but they may still find a way in. Except as set out below, we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site. If this policy should change in the future, then we will provide notification in advance and users have the opportunity to indicate whether or not they would prefer that we do not provide the information to third parties as proposed. 
+In extreme cases data provided by you may be unlawfully available to hackers and snoopers, unfortunately we are unable to accept responsibility for this. The risk is no different from a similar risk of burglary , in a bricks and mortar establishment you can lock the doors but they may still find a way in. Except as set out below, we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site. If this policy should change in the future, then we will provide notification in advance and users have the opportunity to indicate whether or not they would prefer that we do not provide the information to third parties as proposed. 
 
 Here is a list of the information we collect, and why it is necessary to collect it:
 
@@ -84,4 +84,4 @@ Brighton East
 Sussex  
 BN1 4GH
 
-[support@pure360.com](mailto:support@pure360.com)
+[support@pure360.com](mailto:support@pure360.com) 
