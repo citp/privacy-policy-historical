@@ -1,0 +1,714 @@
+<!--The following is the downloaded HTML source of the makingyoulive.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016061319id_/http%3A//www.makingyoulive.com/policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
+    
+    <title>Create a Website in 10 Minutes and Make it Free - Making You Live!</title>
+    <meta http-equiv="keywords" content="create a website,make free website,create website in minutes,website builder">
+    <meta http-equiv="description" content="create a website,make free website,create website in minutes,website builder">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/widgetkit-e6b64b3d-c3785be9.css">
+  
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/mootools-0962b78c.js"></script>
+<script type="text/javascript" src="js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="js/widgetkit-734194d2-09005a15.js"></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+<script type="text/javascript" src="js/BRADHITC_400.font.js"></script>
+<script type="text/javascript" src="js/tooltip.js"></script>
+
+<!--[if lte IE 9]>
+    <link rel="stylesheet" href="css/ie.css"/>
+    <link rel="stylesheet" href="css/ie7-4e6c7e8a.css"/>
+    <link rel="stylesheet" href="css/ie-11f75f75.css"/>
+    <script type="text/javascript" src="js/html5.js"></script>
+<![endif]-->
+
+<!--[if IE 7]>
+    <style>
+        .feautures_main
+        {
+             width:680px !important;   
+        }    
+    </style>
+<![endif]-->
+<script type="text/javascript">
+        function show_live_website_details(wid){
+            $("#website_details").html("<br/><center><img src='imgs/loading.gif'><br/><br/>Please wait, Loading...</center>");
+            $.post("ajax_request.php?type=live&action=website_overview",{wid:wid}, function(data){
+                $("#website_overview_details").html(data);
+            });
+        }
+        function show_website_details(wid){
+            $("#website_details").html("<br/><center><img src='imgs/loading.gif'><br/><br/>Please wait, Loading...</center>");
+            $.post("ajax_request.php?action=website_details",{wid:wid}, function(data){
+                $("#website_details").html(data);
+                $("#website_overview_details").html("<br/><center><img src='imgs/loading.gif'><br/><br/>Please wait, Loading...</center>");
+                $.post("ajax_request.php?action=website_overview",{wid:wid}, function(data){
+                    $("#website_overview_details").html(data);
+                });
+            });
+        }
+
+    Cufon.replace('h1.myl_title', {
+        textShadow: '0.7px 0.7px white',
+        textShadow: '-0.7px -0.7px white',
+        textShadow: '-1.0px -1.0px white'
+        
+    });
+    Cufon.replace('h1.myl_sub_title', {
+        textShadow: '0.3px 0.3px #0190EC',
+        textShadow: '-0.3px -0.3px #0190EC',
+        textShadow: '-0.7px -0.7px #0190EC',
+        fontweight: 'bold'
+        
+    });
+    Cufon.replace('h1.myl_sub_title1', {
+        textShadow: '0.3px 0.3px #0190EC',
+        textShadow: '-0.3px -0.3px #0190EC',
+        textShadow: '-0.7px -0.7px #0190EC',
+        fontweight: 'bold'
+        
+    });
+    Cufon.replace('h1.myl_heading', {
+        textShadow: '0.7px 0.7px white',
+        textShadow: '-0.7px -0.7px white',
+        textShadow: '-1.0px -1.0px white'
+        
+    });
+    Cufon.replace('h1.myl_heading1', {
+        textShadow: '0.7px 0.7px white',
+        textShadow: '-0.7px -0.7px white',
+        textShadow: '-1.0px -1.0px white'
+        
+    });
+    Cufon.replace('h2.myl_title', {
+        textShadow: '0.7px 0.7px white',
+        textShadow: '-0.7px -0.7px white',
+        textShadow: '-1.0px -1.0px white'
+        
+    });
+    Cufon.replace('h3.blue_pulse',{
+        textShadow: '0.7px 0.7px #0087dd',
+        textShadow: '-0.7px -0.7px #0087dd',
+        textShadow: '-1.0px -1.0px #0087dd'
+        
+    });
+    Cufon.replace('h3.plan_heading',{
+        textShadow: '0.5px 0.5px white',
+        textShadow: '-0.5px -0.5px white',
+        textShadow: '-0.8px -0.8px white'
+        
+    });
+    Cufon.replace('h3.green_pulse',{
+        textShadow: '0.7px 0.7px #00c84b',
+        textShadow: '-0.7px -0.7px #00c84b',
+        textShadow: '-1.0px -1.0px #00c84b'
+        
+    });
+    Cufon.replace('h3.red_pulse',{
+        textShadow: '0.7px 0.7px #ec1313',
+        textShadow: '-0.7px -0.7px #ec1313',
+        textShadow: '-1.0px -1.0px #ec1313'
+        
+    });
+</script>
+
+<link href="css/colorbox.css" rel="stylesheet">
+<script type="text/javascript" src="js/jquery.colorbox.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".forgot_password").colorbox({iframe:true, width:"540px", height:"330px", onLoad:function(){ 
+            show_login_form();
+        }});
+        $(".target_link").colorbox({iframe:true, width:"1000px", height:"700px"});
+        $(".cal_link").colorbox({iframe:true, width:"1000px", height:"800px"});
+        
+    });
+
+    function show_cart_summary(){
+        //$("#cart_summary_small").hide();
+        if($("#cart_summary_small").css("right")=="300px"){
+            hide_cart_summary();
+        }else{
+            $("#cart_summary").animate({right:'0px'}, 500);
+            $("#cart_summary_small").animate({right:'300px'}, 500);
+        }
+        
+    }
+    function hide_cart_summary(){
+        $("#cart_summary").animate({right:'-300px'}, 500);
+        $("#cart_summary_small").animate({right:'0'}, 500);
+    }
+    
+    function validate_login(){
+        if($("#myl_username").val()==""){
+            alert("Please enter username");
+            $("#myl_username").focus()
+            return false;
+        }
+        if($("#myl_password").val()==""){
+            alert("Please enter password");
+            $("#myl_username").focus()
+            return false;
+        }
+        
+        type=$("input[@name=login_option]:checked").val();
+        
+        $("#login_msg").html("Authenticating member login...");
+        u = $("#myl_username").val();
+        p = $("#myl_password").val();
+        
+        $.post("ajax_request.php?action=validate_login",{u:u, p:p, type:type}, function(data){
+            if(data=="yes"){
+                $("#login_msg").html("Login validated, redirecting...");
+                if(type=="F"){
+                    window.location.href="my_affiliates.php";
+                }else{
+                    window.location.href="my_dashboard.php";
+                }
+            }else{
+                $("#login_msg").html(data);
+            }
+        })
+        return false;
+    }
+    function validate_login_main(){
+        if($("#myl_username_main").val()==""){
+            alert("Please enter username");
+            $("#myl_username_main").focus()
+            return false;
+        }
+        if($("#myl_password_main").val()==""){
+            alert("Please enter password");
+            $("#myl_username_main").focus()
+            return false;
+        }
+        $("#login_msg_main").html("<br/>Authenticating member login...<br/><br/>");
+        u = $("#myl_username_main").val();
+        p = $("#myl_password_main").val();
+        
+        $.post("ajax_request.php?action=validate_login",{u:u, p:p}, function(data){
+            if(data=="yes"){
+                $("#login_msg_main").html("<br/>Login validated, redirecting...<br/><br/>");
+                window.location.href="my_dashboard.php";
+            }else{
+                $("#login_msg_main").html("<br/>"+data+"<br/><br/>");
+            }
+        })
+        return false;
+    }
+    function show_login_form(){
+        if($("#login_link").attr("class")=="selected_link"){
+            $("#login_box").hide();
+            $("#login_link").removeClass("selected_link");
+        }else{
+            $("#login_link").addClass("selected_link");
+            $("#login_box").show();
+        }
+    }
+    function show_user_login(){
+        $("#login_heading").html("User Login");
+        $("#new_signup").show();
+    }
+    function show_franchisee_login(login_type){
+        $("#login_heading").html(login_type+" Login");
+        $("#new_signup").hide();
+    }
+</script>
+
+
+<!-- Add Button helper (this is optional) -->
+<script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script>
+<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css" media="screen">
+<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox-buttons.css">
+<script type="text/javascript" src="js/fancybox/jquery.fancybox-buttons.js"></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        
+        $("#demovideo").colorbox({iframe:true, width:"550px", height:"395px"});
+        $(".fancybox-buttons").colorbox({iframe:true, width:"800px", height:"650px"});              
+ 
+        
+    });
+</script>     <script type="text/javascript">
+        function slide_group(g){
+            $("#"+g).slideToggle("slow");
+        }
+         $(function(){
+             $(".policy-link").bind("click",function(){
+                  $(".policy-link").removeClass("active");                  
+                  $(this).addClass("active");  
+                  var sHref = $(this).attr("href");
+                  $(".policy-container").removeClass("policy_hide");                  
+                  $(".policy-container").addClass("policy_hide");
+                  $("#"+sHref).removeClass("policy_hide");
+                  return false;  
+             });
+        });
+    </script>
+</head>
+
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 20px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+    <div style="position: fixed;top: 50%;left:0;z-index:99999">
+    <div style="text-align:center;width:31px;"><a href="javascript:void(window.open('http://www.makingyoulive.com/myl_chat/chat.php','','width=590,height=580,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="https://www.makingyoulive.com/myl_chat/image.php?id=03" width="31" height="98" border="0" alt="Making You Live Help"></a>
+        <div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="https://www.makingyoulive.com/myl_chat/server.php?request=track&amp;output=jcrpt&amp;nse=0.19093819816049784"></script></div>
+        <script type="text/javascript">
+            var script = document.createElement("script");script.type="text/javascript";var src = "https://www.makingyoulive.com/myl_chat/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);
+        </script>
+    </div>
+</div>
+    <div style="position: fixed;top: 50%;right:0;z-index:99999">
+        <a href="choose_domain.php?pid=3&amp;dm=1"><img src="imgs/free-demo.png" alt="Making You Live Free Demo"></a>
+    </div>
+
+<div id="header">
+    <div id="top_bar">
+        <div id="top_content">
+            <!--<div class="sales_info">Sales: 1800-000-125-514</div>-->
+                            <div id="top_right">
+                <div class="quick_links" style="width:750px">
+                    <ul>
+                        <li><span style="color: #fff; font-size: 12px;">India Toll Free 1800-2000-MYL(695)&nbsp;</span> </li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About us</a></li>
+                        <li><a href="contact.php">Contact us</a></li>
+                                                                            <li class="no-border"><a id="login_link" onclick="show_login_form()" href="#">Login</a>
+                                <form name="form" method="post">
+                                    <div class="login_box" id="login_box">
+                                        <div style="width:20px;float: right;"><a href="#" title="Close Popup" onclick="show_login_form()"><img src="imgs/icon_close_gray.png"></a></div>
+                                        <div class="login_options" style="padding-bottom:5px;float: left;width:275px;">
+                                            <label><input onclick="show_user_login()" type="radio" name="login_option" id="login_option" value="U" checked="checked"> User</label>
+                                            <label><input onclick="show_franchisee_login('Franchisee')" type="radio" name="login_option" id="login_option" value="F"> Franchisee</label>
+                                            <label><input onclick="show_franchisee_login('Nano')" type="radio" name="login_option" id="login_option" value="N"> Nano</label>
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="login_heading" id="login_heading">User Login</div>
+                                        <div class="login_row">
+                                            <div class="login_label">Username</div>
+                                            <div class="login_value"><input class="lgoin_form" type="text" name="text" id="myl_username" size="20"></div>
+                                        </div>
+                                        <div class="login_row">
+                                            <div class="login_label">Password</div>
+                                            <div class="login_value"><input class="lgoin_form" type="password" name="myl_password" id="myl_password" size="20"></div>
+                                        </div>
+                                        <div style="margin-left: -3px;" class="login_row">
+                                            <label><input type="checkbox" name="chk_remember" id="chk_remember" value="1">Remember me</label> | <a class="black_link forgot_password cboxElement" href="forgot_password.php">Forgot Password?</a>
+                                        </div>
+                                        <div class="login_row">
+                                            <div class="login_img"><input type="image" onmouseover="this.src='imgs/login_hover.png'" onmouseout="this.src='imgs/login.png'" src="imgs/login.png" onclick="return validate_login()"></div>
+                                            <div class="login_value" id="new_signup" style="padding-top:5px;"> <a class="black_link" href="pricing.php">Signup</a></div>
+                                        </div>
+                                        <div class="login_row">
+                                            <div style="color: #c90000 !important;" id="login_msg"></div>
+                                        </div>
+                                        <div class="login_row"></div>
+                                    </div>
+                                </form>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+            
+            <div id="logo_bar2">
+                <div id="logo_content">
+                    <div class="logo">
+                        <a href="index.php"><img title="Making You LIVE!" alt="Making You LIVE!" src="imgs/logo5.png"></a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="clear"></div>
+    <div class="topmenu">
+        <ul>
+         <li><a href="features.php">Features</a></li>
+            <li><a href="pricing.php">Pricing</a></li>
+            <li><a href="portfolio.php">Portfolio</a></li>
+            <li><a href="support_center.php">Support</a></li>                                                
+        </ul>
+        <div class="clear"></div>
+            </div>
+    <div id="middle">
+        <div id="heading">
+            <div id="heading_content">
+                <div id="icons_bar">
+                    <div class="icon_box_wrapper">
+                        <a href="policy.php" class="icon_box_matter">
+                            <div class="icon_box">
+                                <img class="icon_img active" src="imgs/icon-footer_policy_hover.png">
+                                <div class="icon_title active">Privacy Policy</div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="icon_box_wrapper">
+                        <a href="disclaimer.php" class="icon_box_matter">
+                            <div class="icon_box">
+                                <img class="icon_img" onmouseover="this.src='imgs/icon-footer_disclaimer_hover.png'" onmouseout="this.src='imgs/icon-footer_disclaimer.png'" src="imgs/icon-footer_disclaimer.png">
+                                <div class="icon_title">Disclaimers</div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="icon_box_wrapper">
+                        <a href="condition.php" class="icon_box_matter">
+                            <div class="icon_box">
+                                <img class="icon_img" onmouseover="this.src='imgs/icon-footer_terms_hover.png'" onmouseout="this.src='imgs/icon-footer_terms.png'" src="imgs/icon-footer_terms.png">
+                                <div class="icon_title">Terms &amp; Conditions</div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="icon_box_wrapper">
+                        <a href="copyrights.php" class="icon_box_matter">
+                            <div class="icon_box">
+                                <img class="icon_img" onmouseover="this.src='imgs/icon-footer_copyright_hover.png'" onmouseout="this.src='imgs/icon-footer_copyright.png'" src="imgs/icon-footer_copyright.png">
+                                <div class="icon_title">Copyright</div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                </div><!--icons_bar ends here-->
+                <div class="heading_text">
+                    <div class="breadcrumbs">
+                        <a class="bread_link" href="index.php">Home</a> Privacy policy
+                    </div>
+                    <div class="main_heading_icon_policy">
+                        <h1 class="myl_headingnew1">Privacy Policy</h1>
+                    </div>
+                    <div class="go-live"></div>
+                    <!--<div class="heading_summary">Pick your solution, choose your flavor and get started immediately</div>-->
+                </div>
+                <!--<div class="heading_icon"><img src="imgs/icon_earning.png"/></div>-->
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div id="feature_content_wrapper">
+            <div class="policy-top">
+                <div class="policy_left">
+                    <div id="policy-howtojoin" class="policy-container">
+                        <h3>MakingYouLive.com Privacy Policy</h3>
+                        <p>
+                            This policy covers how MakingYouLive.com ("MYL," "we," "us," or "our") treats personal information that it collects and receives on 
+                            <a href="index.php">www.makingyoulive.com.</a> We are not in the business of selling information about our users. We use information shared with us for the 
+                            sole purpose of running and improving our web services. This notice tells you what information we collect, steps we take to protect and secure it, how we use 
+                            and share information, and finally, how you can contact us with questions or concerns. Please note that this Policy does not apply to, and we are not 
+                            responsible in any manner for, any information you provide to third parties in connection with web sites hosted by MYL or how the third parties who operate 
+                            such User Sites may use the personal information you provide to them. Such information is subject to the privacy practices of such User Site, and we encourage 
+                            you to become familiar with their privacy practices before disclosing information directly to them. By using the MYL services and/or the 
+                            <a href="index.php">www.makingyoulive.com</a> Web Site, you consent to any transfer of personal information, collected by MYL, outside your country for the 
+                            purposes of storing the information where MYL and/or its agents maintain their facilities. 
+                        </p>
+                        <p>
+                            We reserve the right to change this Policy at any time. If we make any material changes to the way we use your personally identifiable information, 
+                            we will notify you here, post a new policy on our Site and update the "last updated" date set forth above, or by email. Therefore, we encourage you 
+                            to check our Policy whenever you use the service to see if it has been updated since your last visit. Your use of the Site after the revised Policy 
+                            has been posted will constitute your consent to such revised Policy.
+                        </p> 
+                        <p>We can be reached via e-mail at <a href="mailto:privacy@makingyoulive.com">privacy@makingyoulive.com</a></p>
+                        <p>
+                            <span class="bold">Acceptance</span>
+                            <br>
+                            By using or accessing MakingYouLive.com or any of related servcies, you are accepting the practices described in this Privacy Policy.
+                            This Privacy statement covers any and all actions on the www.makingyoulive.com website.
+                            If you have questions or concerns regarding this statement, you should first contact our privacy staff at <a href="mailto:privacy@makingyoulive.com">privacy@makingyoulive.com</a>
+                            <br><br>
+                            
+                            <span class="bold">Information We Gather and Share</span>
+                            <br>
+                        </p>
+                        <div class="footer_pages">
+                            <ul>
+                                <li>
+                                MYL collects personal information when you register with us, use MYL products or services or post content on a MYL web site or blog. This information is 
+                                collected for communication and financial transactions between you and MYL. All your personal information is stored securely using a encryption method, 
+                                random logic and hash functions.
+                                </li>
+                                <li>
+                                MYL automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. 
+                                We also collect other usefull information as part of our analytic services, in order to improve the service. However, we do not link such information to any 
+                                personally identifiable information you submit while on our site.
+                                </li>
+                                <li>
+                                MYL may collect billing information if you sign up for a paid service, which may include your name, address, telephone number, credit card details, and 
+                                other information that is necessary in order to process the transaction. Under no circumstance do we store any of your sensitive billing details.
+                                </li>
+                                <li>
+                                When signing up for the affiliate program, MYL may collect additional details in order to process payments and comply with tax law, which may include 
+                                your PAN in India, Social Security Number in US or any identity as required by the law of land, the resident country, your address, and other information 
+                                as appropriate.
+                                </li>
+                                <li>
+                                MYL uses information for the purpose of improving its web services, user experience and web security methods.
+                                </li>
+                                <li>
+                                In general, we use personal information we collect to process your requests or transactions, to provide you with information or services you request, 
+                                to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our 
+                                administration and operation of, the Site, newsletters and for the purpose for which the information was provided. We may also use the personal information 
+                                we collect to improve the content of our Web page and to customize the advertising and the content and/or layout of our page for our visitors and individual 
+                                Registered Users. We also use this information to notify Registered Users about updates to our Web site, and to contact Registered Users for marketing purposes.
+                                </li>
+                                <li>
+                                We will not share the personal information we collect from you through the Site with any other company except as provided in this Policy, as it may be 
+                                revised form time to time. We reserve the right to disclose or transfer such information to a third party 
+                                <br>
+                                (a) if you request us to do so or we otherwise have your consent, 
+                                <br>
+                                (b) if we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or 
+                                appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of MYL, our users, 
+                                our employees or the public, including without limitation to protect MYL or our users or the public from fraudulent, abusive, inappropriate or unlawful use
+                                of our Site, 
+                                <br>
+                                (c) if we believe in good faith that an emergency involving immediate danger of death or serious physical injury to any person, or other 
+                                irreparable injury, including economic interests of MYL or a third party, requires disclosure of the information, and 
+                                <br>
+                                (d) in connection with an acquisition, merger, or sale of all or a substantial portion of our business.
+                                </li>
+                                <li>
+                                We may also share personal information with vendors, consultants and other service providers ("Service Providers") who are engaged by or working with us 
+                                in connection with the operation of the Site or the Services and who need access to such information to carry out their work for us. In some cases, the 
+                                Service Provider may be directly collecting the information from you on our behalf. We may also share personal information with other third parties when you 
+                                request that we do so or otherwise give us your express or implied consent. We are not responsible for the actions of Service Providers or other third parties, 
+                                nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become 
+                                familiar with their privacy practices before disclosing information directly to them. Note that nothing herein restricts the sharing of aggregate information,
+                                which may be shared with third parties without your consent.
+                                </li>
+                                <br>
+                            </ul>
+                        </div>
+                        <p>
+                            <span class="bold">Updating/Accessing/Amending Personally Identifiable Information</span>
+                            <br>
+                            If your personally identifiable information changes, or if you no longer desire our service, you may update your profile or delete it from your Admin account. 
+                            Alternatively, you can email our Customer Support at  <a href="#">support@makingyoulive.com</a>
+                            <br><br>
+                            
+                            <span class="bold">Google Analytics</span>
+                            <br>
+                            This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed 
+                            on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website 
+                            (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose 
+                            of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity
+                            and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the 
+                            information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting 
+                            the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using 
+                            this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+                            <br><br>
+                                
+                            <span class="bold">Billing information</span>
+                            <br>
+                        </p>
+                            <div class="footer_pages">
+                                <ul>
+                                    <li>When you sign up for a MYL account or register a domain through us, we require your billing information in order to process the transaction.</li>
+                                    <li>We will retain the last 4 digits of your credit card number and credit card type, so that you may identify that card used in the future. We do not 
+                                    store any other billing information, as this information is discarded after your transaction has been processed.
+                                    </li>
+                                    <li>Should you cancel your subscription, your billing information will be immediately removed by MYL.</li>
+                                    <li>All transactions are processed over an industry standard SSL/TLS connection, with a minimum of 128/256-bit encryption.</li>
+                                </ul>
+                            </div>
+                        <p>
+                            <span class="bold">IP Address</span>
+                            <br>
+                        </p>
+                            <div class="footer_pages">
+                                <ul>
+                                    <li>MYL occasionally obtains IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be 
+                                    used for various purposes, including to:
+                                    </li>
+                                    <li>Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a 
+                                    specific web company or ISP.
+                                    </li>
+                                    <li>Estimate the total number of users visiting MYL's web sites from specific geographical regions.</li>
+                                    <li>Help determine which users have access privileges to certain content, services or resources that we offer.</li>
+                                    <li>Monitor and prevent fraud and abuse.</li>
+                                    <br>
+                                </ul>
+                            </div>
+                        <p>
+                            <span class="bold">Cookies</span>
+                            <br>
+                        </p>
+                            <div class="footer_pages">
+                                <ul>
+                                    <li> A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and 
+                                    stored on your computer's hard drive.
+                                    </li>
+                                    <li>If you reject all cookies, you may not be able to use MYL services or products that require you to "sign in" and you may not be able to take full 
+                                    advantage of all offerings.</li>
+                                    <li>You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set.</li>
+                                    <li>MYL uses its own cookies for a number of purposes, including to:</li>
+                                    <li>Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account 
+                                    contents.</li>
+                                    <li>Keep track of preferences you specify while you are using the MYL Sites, Products and Services.</li>
+                                    <li>Estimate and report our total audience size and traffic.</li>
+                                    <li>Conduct research to improve the content and services provided on the MYL Sites, Products and Services.</li>
+                                    <li>The use of cookies by our partners and affiliates is not covered by our privacy statement. We do/do not have access or control over these cookies. 
+                                    Our partners and affiliates use session ID cookies on their websites once you leave MYL to give you access to MYL discounts and promotions.</li>
+                                    <br>
+                                </ul>
+                            </div>
+                        <p>
+                            <span class="bold">Links to Other Sites</span>
+                            <br>
+                            If you click on a link to a third party site, you will leave the MYL site you are visiting and go to the site you selected. Because we cannot 
+                            control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third 
+                            parties, and we cannot guarantee that they will adhere to the same privacy practices as MYL. If you visit a third party website that is linked to 
+                            from a MYL site, you should read that website's privacy statement before providing any personally identifiable information.
+                            <br><br>
+                            
+                            <span class="bold">ShareThis</span>
+                            <br>
+                            When you use ShareThis to bookmark and share our products and site, you will be taken to a third party site and note that their privacy policy governs 
+                            the collection and use of the information collected on those sites.
+                            <br><br>
+                            
+                            <span class="bold">Information about Children</span>
+                            <br>
+                            Our service is not intended to be used by children under the age of 13, and we do not knowingly collect personal information from children under the age 
+                            of 13 except in compliance with applicable law in US. 
+                            <br> <br>
+                            
+                            <span class="bold">Network and Information Security</span>
+                            <br>
+                            We use reasonable efforts to prevent unauthorized release of or access to your personal data. However, we cannot guarantee that your information will not be 
+                            disclosed or accessed by accidental circumstances or by the unauthorized acts of others. If MYL learns of a security systems breach, then we may attempt to 
+                            notify you electronically so that you can take appropriate protective steps. MYL may also post a notice on the Site if a security breach occurs. Depending on 
+                            where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach, you should 
+                            notify us at <a href="#">support@makingyoulive.com</a>
+                            The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number, 
+                            national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+                            Credit card details are stored in our Payment Gateway's highly secure Payment Vault that is fully compliant with the Payment Card Industry's Data Security 
+                            Standards.
+                            <br><br>
+                            
+                            <span class="bold">Electronic Communication</span>
+                            <br>
+                            We will communicate with you via email. MYL intends to send regular email updates and occasional promotional offers that may be of interest to you. 
+                            You may opt-out of these mailings at any time. If you do not want to receive marketing and promotional e-mails from us in the future, please let us know 
+                            by sending us an e-mail to <a href="#">support@makingyoulive.com</a> or follow the unsubscribe instructions that are included in each email communication.This will not 
+                            prevent us from sending you operational, account related or other non-marketing emails. 
+                            <br><br>
+                            
+                            <span class="bold">Contact Us</span>
+                            <br>
+                            If you feel that this site is not following its stated information policy, you may contact us at <a href="#">support@makingyoulive.com</a>
+                        </p>
+                    </div>
+                </div><!--policy_left ends here-->
+                <!--<div class="rightsep"></div>
+                <div class="policy_right">
+                    <a target="_blank" href="#"><img width="68" height="95" src="imgs/truste_seal_ctv.gif"></a>
+                    <p>
+				    MYL is a licensee of the TRUST e Privacy Program. TRUST e is an independent, organization whose mission is to build user's trust and confidence in the Internet by 
+                    promoting the use of fair information practices. This privacy statement covers the Web site www.makingyoulive.com. Because this Web site wants to demonstrate its 
+                    commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+                    </p>
+                    <p>
+				    If you have questions or concerns regarding this statement, you should first contact <a href="mailto:support@makingyoulive.com">support@makingyoulive.com</a>. 
+                    If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact 
+                    <a target="_blank" href="#">TRUSTe</a>.
+                    </p>
+                    <div class="policy_bg">
+                        <div style="padding:50px 20px">
+                            <p style="color:#960000; font-size:14px">
+                            <strong>Please read the Privacy policy carefully.</strong></p>
+                            <p style="color:#960000; font-size:12px">
+                            By accessing or using this website, you agree to the Privacy policy described herein and all Terms incorporated by reference.</p>
+                            <p style="color:#000000; font-size:12px">
+                            <strong>If you do not agree to the entire policy, please do not use this website.</strong></p>
+                        </div>
+                    </div>
+                </div><!--policy_right ends here-->
+            </div><!--policy_top ends here-->
+        </div>
+        <div class="clear"></div>
+    </div><!--middle ends here-->
+    <div class="clear"></div>
+    <br>
+    <div class="clear"></div>
+<div id="footer">
+    <div class="footer_content">
+        <div class="footer_col">
+            <div class="footer_row"><a href="index.php">Home</a></div>
+            <div class="footer_row"><a href="about.php">About us</a></div>
+                        <div class="footer_row"><a href="contact.php">Contact us</a></div>
+            <div class="footer_row"><a href="payment_methods.php">Payment Methods</a></div>
+        </div>
+        <div class="footer_col">
+            <div class="footer_row"><a href="features.php">Features</a></div>
+            <div class="footer_row"><a href="pricing.php">Pricing</a></div>
+            <div class="footer_row"><a href="portfolio.php">Portfolio</a></div>
+            <div class="footer_row"><a href="support_center.php">Support</a></div>
+        </div>
+        <div class="footer_col">
+            <div class="footer_row"><a href="policy.php">Privacy Policy</a></div>
+            <div class="footer_row"><a href="disclaimer.php">Disclaimers</a></div>
+            <div class="footer_row"><a href="condition.php">Terms &amp; Conditions</a></div>
+            <div class="footer_row"><a href="copyrights.php">Legal &amp; Copyright</a></div>
+        </div>
+        <div class="last_footer_col">
+             <div class="footer_row"><a href="about.php?id=about-myl">What is MYL?</a></div>
+             <div class="footer_row"><a href="about.php?id=about-who">Who are we?</a></div>
+             <div class="footer_row"><a href="about.php?id=about-support">What about support?</a></div>
+             <div class="footer_row"><a href="testimonial.php">Testimonials</a></div>
+             <!--<div class="footer_row"><a href="about.php?id=about-money">How can you make money?</a></div>-->
+        </div>
+        <img src="imgs/icon_money-back.png">
+        <!--<div class="last_footer_col">
+             <h3><a href="about.php?id=about-myl">What is MYL?</h3></a>
+             <h3><a href="about.php?id=about-who">Who are we?</h3></a>
+             <h3><a href="about.php?id=about-support">What about support?</h3></a>
+             <h3><a href="about.php?id=about-money">How can you make money?</h3></a>
+        </div>-->
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+        <div class="footer_icons">
+        <div class="footer_site_info">
+            For best view use minimum of 1024*768 resolution and <a href="http://www.google.com/chrome" target="_blank">Chrome Browser</a> 
+        </div>
+        <div class="payment_icons">
+                <img src="imgs/icon_netbanking.png">
+                <img src="imgs/icon_ccavenue.png">
+                <img src="imgs/icon_cards.png">
+            </div>  
+        </div>
+    <div class="clear"></div>
+    <div class="copy_powered">
+        <div class="copy_powered_content">
+            <!--<div class="powered">
+                <div class="footer_logo"></div>
+            </div>-->
+            <div class="copyright">© 2012 Making You LIVE! (P) Ltd. All Rights Reserved. Use of this website constitutes acceptance of the Terms &amp; Conditions and Privacy Policy.<!--Copyright 2011-12 Making You LIVE! (P) Ltd. All Rights Reserved.--></div>
+            
+            <div class="social_icons">
+                <a target="_blank" href="http://www.facebook.com/MakingYouLIVE"><img src="imgs/icon_fb1.png"></a>
+                            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8123779-37']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="lightbox-tmp"></div><div id="lightbox-loading"><div></div></div><div id="lightbox-overlay" style="display: none;"></div><div id="lightbox-wrap"><div id="lightbox-outer"><div id="lightbox-content"></div><a id="lightbox-close"></a><div id="lightbox-title"></div><a href="javascript:;" id="lightbox-left"><span id="lightbox-left-ico"></span></a><a href="javascript:;" id="lightbox-right"><span id="lightbox-right-ico"></span></a></div></div></body></html>
