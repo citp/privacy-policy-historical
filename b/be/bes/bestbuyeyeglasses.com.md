@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513084320id_/http%3A//privacy-policy.truste.com/verified-policy/www.bestbuyeyeglasses.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016141340id_/http%3A//privacy-policy.truste.com/verified-policy/www.bestbuyeyeglasses.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.bestbuyeyeglasses.com
 
 Effective on December 15, 2010 
 
-This privacy statement describes how DKSS Corporation collects and uses the personal information you provide on our Web site: [www.bestbuyeyeglasses.com ](https://www.bestbuyeyeglasses.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how DKSS Corporation collects and uses the personal information you provide on our Web site: [www.bestbuyeyeglasses.com ](http://www.bestbuyeyeglasses.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
