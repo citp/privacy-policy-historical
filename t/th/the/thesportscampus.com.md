@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406055427id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016133756id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | General
 
@@ -6,7 +6,7 @@
 
 TheSportsCampus.com takes your privacy very seriously. Please read this Policy carefully to see how we will treat the personal information that you provide to us either when using our Site or in other circumstances when we collect data from you. We will take reasonable care to keep your information secure and to prevent any unauthorized access or use of it. We process all information in accordance with the applicable India data protection legislation. We may change this Privacy Policy from time to time and the change will take effect once the revised Privacy Policy is available on our website. Please refer to this policy whenever you submit your personal information.
 
-**T he information you provide**
+**The information you provide**
 
 We may ask you to provide information to us or collect data from you on different occasions, including at a number of points on the Site, such as when you:
 
@@ -47,7 +47,7 @@ Our Site may contain links to other sites. Please be aware that we are not respo
 
 **Advertising**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies **,** please write to us.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies **,** please see:<http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Your right to access the information**
 
