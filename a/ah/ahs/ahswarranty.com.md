@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ahswarranty.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626150026id_/http%3A//www.ahs.com/homeowners/includes/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahswarranty.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016165219id_/http%3A//www.ahs.com/homeowners/includes/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Home Warranties Policy | Privacy Policy | American Home Shield
+# Online Privacy Policy
 
-At American Home Shield, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.
+At American Home Shield, we are committed to protecting your privacy with respect to information we collect online. We use the information we collect about you online to process orders and to provide a more personalized shopping experience.
 
 **What information do we collect? How do we use it?**  
 When you request information about a product or service or register with our site, we may need to know specific information about you. This enables us to process your registration/requests and promptly reply to your needs.
