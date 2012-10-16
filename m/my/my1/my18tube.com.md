@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my18tube.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510111824id_/http%3A//www.my18tube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my18tube.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016084514id_/http%3A//www.my18tube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My 18 Tube
 
