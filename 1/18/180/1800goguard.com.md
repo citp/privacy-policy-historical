@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526000101id_/http%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016195106id_/http%3A//www.nationalguard.com/privacy%3Ficid%3Dfooter_privacy-policy_20120514) for the most accurate reproduction.*
 
 # Privacy Policy | NATIONAL GUARD
 
