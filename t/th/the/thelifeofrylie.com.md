@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelifeofrylie.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020516id_/http%3A//www.thelifeofrylie.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelifeofrylie.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017010425id_/http%3A//www.thelifeofrylie.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Florida Mom Blog, Reviews and Giveaways | The Life of Rylie...and Bryce too!
 
