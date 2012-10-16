@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the giantrealm.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511125004id_/http%3A//www.giantrealm.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giantrealm.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016050047id_/http%3A//www.giantrealm.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -43,9 +43,9 @@ Remove this if you use the .htaccess -->
 
 	
 <title>Giant Realm - Stuff Guys Need - Privacy</title>
-<meta property="og:image" content="http://cmt.images.burstmedia.com/content/macrostitials/b6d767d2f8ed5d21a44b0e5886680cb9/header/giantrealm-logo.jpg?t=1336740605">
+<meta property="og:image" content="http://cmt.images.burstmedia.com/content/macrostitials/b6d767d2f8ed5d21a44b0e5886680cb9/header/logo-giantrealm.png?t=1350363647">
 	
-<link rel="shortcut icon" href="http://cmt.images.burstmedia.com/portal_cmt/default/channel/img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="" type="image/x-icon">
 <link rel="stylesheet" type="text/css" media="all" href="http://cmt.images.burstmedia.com/portal_cmt/default/channel/style.css">
 <link rel="stylesheet" href="http://cmt.images.burstmedia.com/portal_cmt/default/channel/css/anythingslider.css"> 
 	
@@ -59,7 +59,7 @@ Remove this if you use the .htaccess -->
 <script type="text/javascript" src="http://cmt.images.burstmedia.com/portal_cmt/default/channel/js/jquery.anythingslider.js"></script> 
 <script type="text/javascript" src="http://cmt.images.burstmedia.com/portal_cmt/default/channel/js/jquery.anythingslider.video.js"></script> 
 
-	<script>
+<script>
 		(function($){
 		$(document).ready(function() {
 
@@ -91,14 +91,14 @@ Remove this if you use the .htaccess -->
 								$('.hadHover').removeClass('hover');
 							}
 							$(this).addClass('hover');
-							$('.tree', this).stop(true, true).slideDown();
+							//$('.tree', this).stop(true, true).slideDown();
 						},
 						function(){
 							$(this).removeClass('hover');
-							$('.tree', this).stop(true, true).slideUp();
+							//$('.tree', this).stop(true, true).slideUp();
 
 							$('.hadHover').addClass('hover');
-							$('.hadHover .tree').stop(true, true).slideDown();
+							//$('.hadHover .tree').stop(true, true).slideDown();
 						});
 			});
 
@@ -132,55 +132,117 @@ Remove this if you use the .htaccess -->
 			});
 		})
 	})(jQuery);
+	
+	// usage: log('inside coolFunc', this, arguments);
+// paulirish.com/2009/log-a-lightweight-wrapper-for-consolelog/
+window.log = function f() {
+    log.history = log.history || [];
+    log.history.push(arguments);
+    if (this.console) {
+        var args = arguments,
+            newarr;
+        args.callee = args.callee.caller;
+        newarr = [].slice.call(args);
+        if (typeof console.log === 'object') log.apply.call(console.log, console, newarr);
+        else console.log.apply(console, newarr);
+    }
+};
+
+// make it safe to use console.log always
+(function (a) {
+    function b() {}
+    for (var c = "assert,count,debug,dir,dirxml,error,exception,group,groupCollapsed,groupEnd,info,log,markTimeline,profile,profileEnd,time,timeEnd,trace,warn".split(","), d; !! (d = c.pop());) {
+        a[d] = a[d] || b;
+    }
+})
+(function () {
+    try {
+        console.log();
+        return window.console;
+    } catch (a) {
+        return (window.console = {});
+    }
+}());
+
+// place any jQuery/helper plugins in here, instead of separate, slower script files.
+// form field scripts
+$('body').ready(function () {
+    $('.textInput').each(function () {
+        $(this).val($(this).attr('defaultVal'));
+        $(this).css({
+            color: '#B0B0B0'
+        });
+    });
+
+    $('.textInput').focus(function () {
+        if ($(this).val() == $(this).attr('defaultVal')) {
+            $(this).val('');
+            $(this).css({
+                color: '#696969'
+            });
+        }
+    });
+
+    $('.textInput').blur(function () {
+        if ($(this).val() == '') {
+            $(this).val($(this).attr('defaultVal'));
+            $(this).css({
+                color: '#cccccc'
+            });
+        }
+    });
+});
+
+function get_form(element) {
+    while (element) {
+        element = element.parentNode
+        if (element.tagName.toLowerCase() == "form") {
+            //alert( element ) //debug/test
+            return element
+        }
+    }
+    return 0; //error: no form found in ancestors
+}
+				
 	</script>
 
 	<style type="text/css">
-		.twtr-ft, .twtr-hd {
-			display: none;
-		}
+		.top-header .logo {width:155px; height:26px;position:absolute; top:10px; left:4px;}
+		.top-header .logo a {display:block; width:128px; height:100%; background:url(http://cmt.images.burstmedia.com/content/macrostitials/b6d767d2f8ed5d21a44b0e5886680cb9/header/logo-giantrealm.png?t=1350363647); font-size:1px; text-indent:-99999px;}
+		.top-header .logo a:hover {width:155px;background:url(http://cmt.images.burstmedia.com/content/macrostitials/b6d767d2f8ed5d21a44b0e5886680cb9/header/logo-giantrealm.png?t=1350363647) -0px -26px;}
 
-		.twtr-bd {
-			width:260px;
-			padding:0px 5px 5px 5px; margin-left:15px; margin-top:8px;
-		}
+		.null {background:#000 url(http://cmt.images.burstmedia.com/portal_cmt/default/channel/img/giantrealm-bg.jpg) top center fixed no-repeat;}
 
-		.header .logo {
-			width: 300px;
-			background-image: url('http://cmt.images.burstmedia.com/content/macrostitials/b6d767d2f8ed5d21a44b0e5886680cb9/header/giantrealm-logo.jpg?t=1336740605');
-			background-repeat: no-repeat;
-		}
+.top-header .logo {top:3px;}
+.top-header .logo a {width:70px; height:45px;}
+.top-header .logo a:hover {width:103px;background:url('http://cmt.images.burstmedia.com/content/macrostitials/b6d767d2f8ed5d21a44b0e5886680cb9/header/logo-giantrealm.png?t=1341258759') -0px -45px;}
 
-						body {background:#000 url(http://cmt.images.burstmedia.com/portal_cmt/default/channel/img/giantrealm-bg.jpg) top center fixed no-repeat;}
+.top-header {background:#1171B9;}
+.top-header .topMenu a:hover {color:#1171B9;background:#fff;}
 
-.header .logo {top:18px; left:0px; width:123px; height:79px;}
-.header .sub {right:183px; top:0px; width:300px;line-height:153px;}
+.header .dropdown li:hover > a.dir {background-color: #e19ce4;}
+.header .dropdown ul li:hover > a.dir {background-color: #e19ce4;}
+.header .dropdown .bar {background:#e19ce4;}
 
-.header .notice {top:18px; left:135px;height:22px; width:auto;}
+.header .menu .main a {border:#000 solid 1px;color:#000;}
+.header .menu .main .selected {background:#8bcadd;}
 
-.header .notice p {background:#D5D5D5 url(http://cmt.images.burstmedia.com/portal_cmt/default/channel/img/arrow-left.jpg) top left no-repeat;height:22px;font-size:12px; text-transform:uppercase; color:#fff;font-family:DINWeb-Light; display:block; line-height:25px;font-weight:normal;text-indent:17px;padding-right:10px;}
+.header .dropdown li.hover > a.dir {background-color: #000;}
 
-.header .social {right:-16px; top:65px;}
-
-.header .dropdown li:hover > a.dir {background-color: #2399fd;}
-.header .dropdown ul li:hover > a.dir {background-color: #2399fd;}
-.header .dropdown .bar {background:#2399fd;}
-
-.header .dropdown li.hover > a.dir {background-color: #2399fd;}
-
-.header .menu .main a {background:#000000;}
-.header .menu {padding-top:115px;}
-.header .menu .main .selected {background:#2399fd;}
-
-.header .menu .tree {background:#2399fd; height:33px;list-style:none;font-family:DINWeb-Light; position:absolute;}
-.header .menu .tree li {float:left;padding:0px; padding-left:10px; font-size:13px;color:#fff; width:auto; height:auto;}
-.header .menu .tree a {color:#fff; font-size:14px; font-weight:normal; text-transform:uppercase; background:none; line-height:35px;}
+.header .menu .tree {background:#000;}
+.header .menu .tree li {color:#fff;}
+.header .menu .tree a {color:#fff;}
 .header .menu .tree a:hover {color:#000;}
+
+
+.top-header .search {background:url(http://cmt.images.burstmedia.com/portal_cmt/default/channel/img/giantrealm-search.png) top left no-repeat;}
+
 
 .content .featured h1 {color:#2399fd;}
 .content .featured h2 {color:#000;}
 .content .featured img {border:#2399fd solid 1px;}
 
-.content .heading {color:#2399fd; border-bottom:#2399fd solid 20px;}
+.content .heading {color:#2399fd;}
 
 .case-studies .selector .side h1 {color:#2399fd;}
 .case-studies .selector .side .tags li, .details li {color:#2399fd;}
@@ -249,44 +311,42 @@ Remove this if you use the .htaccess -->
 </head>
 <body>
 
-<div class="wrapper">
-    <div class="header">
-	  
-        <div class="notice"><p>Good morning, how's the Mountain Dew?</p></div>
-        <h1 class="logo"><a href="/">Giant Realm - Stuff Guys Need</a></h1>
+	
+<div class="partofburst"><a href="http://www.burstmedia.com" target="_blank">Part of Burst Media</a></div>
 
-		<div class="search">
-            <form method="POST" action="/search">
-                <input id="textInput" type="text" onclick="this.value=''" name="q" value="type to search">
-                <input class="searchNormal" onmouseover="this.className='searchHover'" onmouseout="this.className='searchNormal'" type="image" src="http://cmt.images.burstmedia.com/portal_cmt/default//channel/img/pixel.gif" value="">
-				<!-- pixel.gif is used to make IE happy and not disply a large x over the search button, we hate IE! -->
+<div class="top-header">
+<div class="container">
+
+<h1 class="logo"><a href="/">Giant Realm - Stuff Guys Need</a></h1>
+
+<ul class="topMenu">
+                
+                <li><a href="/">Home</a></li>
+                
+                <li><a href="/about-us">About Us</a></li>
+                
+                <li><a href="/contact-us">Contact</a></li>
+                
+                <li><a href="http://publishers.giantrealm.com/">Login</a></li>
+                
+                <li><a href="http://www.giantrealm.com/blog">Blog</a></li>
+                
+</ul>
+
+<div class="search">
+            <form method="POST" class="mainSearch" action="/search">
+                 <input class="textInput" type="text" name="q" value="type to search">
+                <a class="searchNormal" href="" onclick="get_form(this).submit(); return false">submit</a>
             </form>
         </div>
 
-        <div class="sub">
-            <ul>
-				
-                <li><a href="/">Home</a> |</li>
-				
-                <li><a href="/about-us">About Us</a> |</li>
-				
-                <li><a href="/contact-us">Contact</a> |</li>
-				
-                <li><a href="http://publishers.giantrealm.com/">Login</a> |</li>
-				
-                <li><a href="http://www.giantrealm.com/blog">Blog</a></li>
-				
-            </ul>
-        </div>
+</div>
+</div>
 
-        <div class="social">
-            <ul>
-		<li><a href="http://twitter.com/giantrealm" class="twitter-follow-button" data-show-count="false" data-width="61px" data-align="left"></a></li>
-                <li><g:plusone size="medium" count="false"></g:plusone></li>
-                <li><iframe src="http://www.facebook.com/plugins/like.php?app_id=233739156649443&amp;href=http%3A%2F%2Fwww.facebook.com/giantrealm&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe></li>
-            </ul>
-        </div>
 
+<div class="wrapper">
+   
+    <div class="header">
         <div class="menu">
             <ul class="dropdown header-linear main">
 				
@@ -296,10 +356,10 @@ Remove this if you use the .htaccess -->
 					<div class="tree">
 						<ul>
 							
-							<li><a href="/communities">Communities</a></li>
-							
-							<li><a href="/insights">Insights</a></li>
-							
+                            <li><a href="/communities">Communities</a></li>
+                            
+                            <li><a href="/insights">Insights</a></li>
+                            
 						</ul>
 					</div>
 					
@@ -311,12 +371,12 @@ Remove this if you use the .htaccess -->
 					<div class="tree">
 						<ul>
 							
-							<li><a href="/partner">Partner</a></li>
-							
-							<li><a href="/publisher-solutions">Publisher Solutions</a></li>
-							
-							<li><a href="/portfolio">Portfolio</a></li>
-							
+                            <li><a href="/partner">Partner</a></li>
+                            
+                            <li><a href="/publisher-solutions">Publisher Solutions</a></li>
+                            
+                            <li><a href="/portfolio">Portfolio</a></li>
+                            
 						</ul>
 					</div>
 					
@@ -328,12 +388,12 @@ Remove this if you use the .htaccess -->
 					<div class="tree">
 						<ul>
 							
-							<li><a href="/showcase">Showcase</a></li>
-							
-							<li><a href="/case-studies">Case Studies</a></li>
-							
-							<li><a href="/creative-specs">Creative Specs</a></li>
-							
+                            <li><a href="/showcase">Showcase</a></li>
+                            
+                            <li><a href="/case-studies">Case Studies</a></li>
+                            
+                            <li><a href="/creative-specs">Creative Specs</a></li>
+                            
 						</ul>
 					</div>
 					
@@ -342,8 +402,9 @@ Remove this if you use the .htaccess -->
             </ul>
             <div class="clear"></div>
         </div>
-    </div>
 
+   </div>
+   
     <div class="content">
 		<h1 class="heading">Privacy</h1>
 
@@ -637,11 +698,11 @@ Burlington, MA 01803 <br>
 			  height: 100,
 			  theme: {
 				shell: {
-				  background: '#fafafa',
+				  background: '#fff',
 				  color: '#111111'
 				},
 				tweets: {
-				  background: '#e9e9e9',
+				  background: '#fff',
 				  color: '#000000',
 				  links: '#40a7ff'
 				}
@@ -752,7 +813,7 @@ Burlington, MA 01803 <br>
 	</select>
   </li>
 
-  <li class="goodbye">
+  <!--li class="goodbye">
 	<h1>Part Of Burst Media</h1>
 	<div class="wrap"><a href="http://www.burstmedia.com/" target="_blank">A Burst Media Website</a></div>
 	<ul>
@@ -760,7 +821,22 @@ Burlington, MA 01803 <br>
 		<li class="twitter"><a href="http://twitter.com/#!/burstmedia" target="_blank">Twitter</a></li>
 		<li class="linkedin"><a href="http://www.linkedin.com/company/burst-media" target="_blank">LinkedIn</a></li>
 	</ul>
-  </li>
+  </li-->
+
+
+    <li class="goodbye">
+          	<h1>Get Social</h1>
+            
+            <div class="social">
+            <ul>
+		
+                <li></li>
+                
+            </ul>
+        </div>
+
+    </li>
+
 </ul>
 
 <div class="clear"></div>
