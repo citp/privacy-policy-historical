@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourismmarketing.co.za privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510000529id_/http%3A//www.tourismmarketing.co.za/terms_privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourismmarketing.co.za privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016123401id_/http%3A//www.tourismmarketing.co.za/terms_privacy-policy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
