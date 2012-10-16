@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gigasize.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513105611id_/http%3A//www.gigasize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigasize.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016195859id_/http%3A//www.gigasize.com/privacy) for the most accurate reproduction.*
 
 # GigaSize.com: Host and Share your files
+
+## Privacy Policy
 
 ##### At GigaSize we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use GigaSize's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -18,13 +20,13 @@ GigaSize may be required to disclose personally identifiable information under s
 
 #### Use of Information
 
-WebMinds may use Information collected in connection with the Site in the following ways:
+GigaSize may use Information collected in connection with the Site in the following ways:
 
   * To provide requested information, products and services to users
   * To improve the user experience with the Site
-  * In connection with the operation of the Site and WebMind's internal business
-  * In connection with other Sites or offline businesses owned or operated by WebMinds
-  * For Users to obtain information and offers for products and services offered by WebMinds as well as selected third parties
+  * In connection with the operation of the Site and GigaSize's internal business
+  * In connection with other Sites or offline businesses owned or operated by GigaSize
+  * For Users to obtain information and offers for products and services offered by GigaSize as well as selected third parties
 
 
 
