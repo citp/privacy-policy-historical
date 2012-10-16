@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britinfo.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502123227id_/http%3A//www.britinfo.net/uk/ps.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britinfo.net privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016100739id_/http%3A//www.britinfo.net/uk/ps.htm) for the most accurate reproduction.*
 
 # UK information - a guide and directory with tourist information
 
