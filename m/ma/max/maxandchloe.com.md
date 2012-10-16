@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxandchloe.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625023758id_/http%3A//www.maxandchloe.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxandchloe.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016034119id_/http%3A//www.maxandchloe.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
