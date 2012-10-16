@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashle.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505095459id_/http%3A//www.cashle.com/rules/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashle.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016103117id_/http%3A//www.cashle.com/rules/privacy_policy) for the most accurate reproduction.*
 
 # Cashle.com - Earn Free Cash Rewards
 
