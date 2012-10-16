@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314043845id_/http%3A//www.michaelpage.com/content/6-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016030833id_/http%3A//www.michaelpage.com/content/6-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
