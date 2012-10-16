@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618145611id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016041626id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
 
-# DIY Doctor Privacy Policy | Privacy Policy Information and Protecting Customer Information | DIY Doctor
+# DIY Doctor Privacy Policy | Privacy Policy Information and Protecting Customer Information
 
-## 1\. INTRODUCTION
+## INTRODUCTION
 
 1.1 We are DIY DOCTOR LIMITED (referred to as "we", “us” and “DIY Doctor”) and we are committed to protecting and respecting your privacy when you are visiting any website maintained by us including without limitation the website at www.diydoctor.org.uk and our Facebook, Google+ and Twitter pages and Youtube channel (together the “ **Website** ”) or communicating electronically with us.
 
@@ -12,7 +12,7 @@
 
 1.4 For the purpose of the Data Protection Act 1998 (the Act), the data controller is DIY DOCTOR LIMITED of Suite 2 Block 1 Lakeside Business Park, Mells Frome, Somerset BA11 3RH which is registered with the ICO with registered number [to be confirmed].
 
-## 2\. Information we may collect from you
+## Information we may collect from you
 
 In order to provide you with the best possible service, we may collect and process the following data about you:
 
@@ -22,7 +22,7 @@ In order to provide you with the best possible service, we may collect and proce
 
 
 
-## Information you provide us 
+**Information you provide us**
 
 2.2 If you register with us and/or through the Website, we may ask you to provide us with certain personal information.
 
@@ -30,29 +30,29 @@ In order to provide you with the best possible service, we may collect and proce
 
 2.4 We may also ask you for information from time to time including when you report a problem with our Website.
 
-## Direct communications
+**Direct communications**
 
 2.5 If you contact us, we may keep a record of that correspondence.
 
-## Surveys
+**Surveys**
 
 2.6 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-## Usage and browsing information
+**Usage and browsing information**
 
 2.7 As part of the standard operation of the Website, we may collect certain non-personal information from you. We may combine this non-personal information with your personal information.
 
 2.8 We may also record details of your visits to and use of the Website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access. 
 
-## IP addresses
+**IP addresses**
 
 2.9 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to check aggregate information provided to us by our suppliers. To the extent required we may provide this information to third parties. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-## Information you provide on third party websites
+**Information you provide on third party websites**
 
 2.10 You might find links to third party websites on the Website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
-## 3\. Cookies
+## Cookies
 
 3.1 We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. Some of the cookies we use are essential for the Website to operate.
 
@@ -62,7 +62,7 @@ In order to provide you with the best possible service, we may collect and proce
 
 3.4 You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system may issue cookies as soon you visit the Website.
 
-## 4\. Where we store your personal data 
+## Where we store your personal data 
 
 4.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -70,7 +70,7 @@ In order to provide you with the best possible service, we may collect and proce
 
 4.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted through our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-## 5\. Uses made of the information
+## Uses made of the information
 
 5.1 We use information held about you in the following ways:
 
@@ -82,7 +82,7 @@ In order to provide you with the best possible service, we may collect and proce
 
 
 
-## 6\. Mailing List
+## Mailing List
 
 Our email mailing list is hosted and managed by MailerMailer whose website can be found at [www.mailermailer.com ](http://www.mailermailer.com/ "Mass mailing facilities from MailerMailer").
 
@@ -90,7 +90,7 @@ In our email messages to you which may be distributed through this mailing list,
 
 If you have subscribed to our email mailing list, but do not wish to receive it in future, please follow the “unsubscribe” instructions contained in each emailed newsletter.
 
-## 7\. Forum Area 
+## Forum Area 
 
 This policy explains in detail how “diydoctor.org.uk DIY and Home Improvement Forums” along with its affiliated companies (hereinafter “we”, “us”, “our”, “diydoctor.org.uk DIY and Home Improvement Forums”, “http://www.diydoctor.org.uk/forums”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Group”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).
 
@@ -102,11 +102,11 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
 
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “diydoctor.org.uk DIY and Home Improvement Forums”, so please guard it carefully and under no circumstance will anyone affiliated with “diydoctor.org.uk DIY and Home Improvement Forums”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your e-mail, then the phpBB software will generate a new password to reclaim your account.
 
-## 8\. Advertisements
+## Advertisements
 
 In order to bring you offers and information that may be of interest to you, we may allow third parties to place advertisements on the website. If you choose to click on any advertisement, the advertiser may collect non personally identifiable information such as your domain type, your IP address and clickstream information.
 
-## 9\. Disclosure of your information
+## Disclosure of your information
 
 8.1 We may disclose your personal information to third parties:
 
@@ -116,20 +116,20 @@ In order to bring you offers and information that may be of interest to you, we 
 
 
 
-## 10\. Your rights
+## Your rights
 
 9.1 The Act gives you the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [office@diydoctor.org.uk](mailto:office@diydoctor.org.uk "Contact DIY Doctor on office@diydoctor.org.uk").
 
 9.2 The Website may, from time to time, contain links to and from the websites of third parties.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-## 11\. Access to information
+## Access to information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-## 12\. Changes to our privacy policy
+## Changes to our privacy policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-## 13\. Contact
+## Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [office@diydoctor.org.uk](mailto:office@diydoctor.org.uk "Email DIY Doctor on office@diydoctor.org.uk")
