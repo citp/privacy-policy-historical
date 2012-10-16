@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the education180.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511115812id_/http%3A//www.education180.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the education180.com privacy policy that was archived on 2012-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016065021id_/http%3A//www.education180.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" lang="en" xml:lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,24 +15,28 @@
 
          
     
-   <link href="http://education180.com/yaml/core/slim_base.css" rel="stylesheet" type="text/css">
-<link href="http://education180.com/yaml/screen/forms.css" rel="stylesheet" type="text/css">
-<link href="http://education180.com/yaml/screen/content_default.css" rel="stylesheet" type="text/css">
-<link href="http://education180.com/yaml/navigation/nav_shinybuttons.css" rel="stylesheet" type="text/css">
+   <link href="/yaml/core/slim_base.css" rel="stylesheet" type="text/css">
+<link href="/yaml/screen/forms.css" rel="stylesheet" type="text/css">
+<link href="/yaml/screen/content_default.css" rel="stylesheet" type="text/css">
+<link href="/yaml/navigation/nav_shinybuttons.css" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="/sites/all/themes/zen/tabs.css" type="text/css"> 
 
 
 
     <link rel="stylesheet" href="/sites/all/themes/zen/zen_edu2010/blueprint/screen.css" type="text/css" media="screen, projection">
     <link rel="stylesheet" href="/sites/all/themes/zen/zen_edu2010/blueprint/print.css" type="text/css" media="print">
-	<link rel="stylesheet" href="http://education180.com/jump/dev/drupal/temp_styles.css" type="text/css" media="screen, projection">  
+	<link rel="stylesheet" href="/jump/dev/drupal/temp_styles.css" type="text/css" media="screen, projection">  
     <link rel="SHORTCUT ICON" href="/sites/all/themes/zen/zen_edu2010/favicon.ico">
     
-    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
-        
+   <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="/sites/all/themes/zen/zen_edu2010/js/jquery.cycle.all.latest.js"></script>
+    <script type="text/javascript" src="/jump/cms/cmsfiles/jquery.expander.js"></script>
+    
+    
+              
     
     <script src="/sites/all/themes/zen/zen_edu2010/loopedslider.js" type="text/javascript" charset="utf-8"></script>
-
+    
 <script type="text/javascript">
 
 function onAosChange(form) { 
@@ -97,6 +101,36 @@ function onAosChange(form) {
 </script>
 
 
+<script>
+$(document).ready(function() {
+  var opts = {collapseTimer: 4000};
+
+  $.each(['beforeExpand', 'afterExpand', 'onCollapse'], function(i, callback) {
+    opts[callback] = function(byUser) {
+      var by, msg = '<div class="success">' + callback;
+
+      if (callback == 'onCollapse') {
+        msg += ' (' + (byUser ? 'user' : 'timer') + ')';
+      }
+      msg += '</div>';
+
+      $(this).parent().parent().append(msg)
+    }
+  });
+
+
+
+  $('div.expander').expander({
+    slicePoint: 350,
+    widow: 2,
+    expandSpeed: 0,
+    userCollapseText: '[^]'
+  });
+
+
+});
+</script>
+
 <style>
 .containerz {
     cursor: pointer;
@@ -141,6 +175,18 @@ display:block;
 
 </script>
 
+<!-- Standard EDU BFG Pixel -->
+
+<script type="text/javascript">
+var _trc_c = 'c,campaign';
+var _trc_s = 's,source';
+var _trc_trhost = "bfg01.com";
+var _trc_js = (("https:" == document.location.protocol) ?
+"https://" : "http://") + _trc_trhost + '/apps/tr_crt/js/trcrt_cn.js';
+document.write("<sc"+"ript type='text/javascript' src='" +
+_trc_js + "'></"+"script>");
+</script><script type="text/javascript" src="https://bfg01.com/apps/tr_crt/js/trcrt_cn.js"></script>
+
 
  
 </head>
@@ -169,7 +215,7 @@ display:block;
 
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 
-<input type="hidden" name="form_token" id="a-unique-id" value="ba55c232faa1cf18f27ed1edffa0a88f">
+<input type="hidden" name="form_token" id="a-unique-id" value="68d1163f415a06e6fbb74d2e51f2edc2">
 </div></form>
 			</div>
 		</div>
@@ -363,7 +409,7 @@ Sincerely,
 					<!-- pick up tp1 tp2 tp3 rm spp form the $_COOKIE["urlVars"] -->
 					
 															
-					<input name="css" type="hidden" value="edu180dimp">
+					<input name="css" type="hidden" value="edu180bold">
                     <input name="version" type="hidden" value="bcstracktest">
 
 		
@@ -3193,9 +3239,9 @@ font-weight: bold;
 </style>
 
     <script type="text/javascript" async="" src="/sites/all/themes/zen/zen_edu2010/dlfiles/0241.js"></script> <!-- crazyegg -->
-    <script type="text/javascript" src="/sites/all/themes/zen/zen_edu2010/dlfiles/jquery.js"></script>
+    <!--<script type="text/javascript" src="/sites/all/themes/zen/zen_edu2010/dlfiles/jquery.js"></script>-->
     <script type="text/javascript" src="/sites/all/themes/zen/zen_edu2010/dlfiles/html5.js"></script>
-
+    
 <section id="ff" style="position: fixed; bottom: 0pt; height: 40px;">
 <footer id="ft1">
 	<div class="container">
@@ -3246,7 +3292,7 @@ font-weight: bold;
 					    <li><a href="/argosy-university-online-programs">Argosy University </a></li>
 						<li><a href="/everest-university-online">Everest University </a></li>
 						<li><a href="/south-university">South University</a></li>
-						<li><a href="/colorado-technical-university-online">Colorado Tech University</a></li>
+						<li><a href="/colorado-technical-university">Colorado Tech University</a></li>
 						<li><a href="/university-phoenix-online">University of Phoenix</a></li>
 						<li><a href="/kaplan-university">Kaplan University</a></li>
 						<li><a href="/grand-canyon-university-online">Grand Canyon University</a></li>
@@ -3300,16 +3346,16 @@ font-weight: bold;
 				<div class="block links">
 					<h3 class="footheads">Featured Degrees</h3>
 					<ul>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=business&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_businessSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Business</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=criminal&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_cjSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Criminal Justice</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=culinary&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_culinarySD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Culinary Arts</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=design&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_designSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Design</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=education&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_eduSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Education Training</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=general&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_genstudiesSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">General Studies</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=healthcare&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_healthcareSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Healthcare</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=information&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_infotechSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Information Technology</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=legal&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_legalSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Legal</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=trades&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_tradesSD&amp;css=edu180dimp&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Trades</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=business&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_businessSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Business</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=criminal&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_cjSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Criminal Justice</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=culinary&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_culinarySD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Culinary Arts</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=design&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_designSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Design</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=education&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_eduSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Education Training</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=general&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_genstudiesSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">General Studies</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=healthcare&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_healthcareSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Healthcare</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=information&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_infotechSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Information Technology</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=legal&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_legalSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Legal</a></li>
+						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=trades&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_tradesSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Trades</a></li>
 					</ul>
 				</div>
 			</div>
