@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613195405id_/http%3A//www.blogstash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016104232id_/http%3A//www.blogstash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | BlogStash
 
 I take everyone’s privacy very seriously, just like I would like others to take my privacy seriously. That is why protecting your privacy is very important to me. I hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on BlogStash.com.
 
@@ -41,9 +41,3 @@ If your personally identifiable information changes, or if you no longer desire 
 From time to time we may revise its Privacy Policy if we make material changes to this policy, we will notify you here, either by email, or by means of a notice on our home page. Please check back periodically for any updates.
 
 Satrap
-
- **GD Star Rating**  
- _loading..._
-
- **GD Star Rating**  
- _loading..._
