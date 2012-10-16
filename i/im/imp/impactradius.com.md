@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629164054id_/http%3A//www.impactradius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016102126id_/http%3A//www.impactradius.com/privacy-policy) for the most accurate reproduction.*
 
-# Impact Radius - Impact Radius
+# Privacy Policy - Impact Radius
 
 Impact Radius aims to be the industry leader in offering our customers superior protection of their personal information as well as the business data that we collect. We are committed to ensuring that our employees do not have access to your business data, removing the temptation to use that information for their own gains or for the gains others. Our security measures are amongst the strictest on the Internet. We want you to feel comfortable using our technology for all of your valuable performance advertising relationships. Our objectives are to:
 
