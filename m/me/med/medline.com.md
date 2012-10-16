@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medline.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512122629id_/http%3A//www.medline.com/pages/privacy/safe-harbor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medline.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017010612id_/http%3A//www.medline.com/pages/privacy/safe-harbor) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Policy | Medline Industries, Inc.
 
