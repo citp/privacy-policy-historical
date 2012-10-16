@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602174612id_/http%3A//www.divvyhq.com/index.php/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016182058id_/http%3A//www.divvyhq.com/index.php/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies - DivvyHQ - The Spreadsheet-Free Editorial Calendar Application
 
@@ -44,9 +44,9 @@ If you have any questions or comments about this Privacy Policy, you may contact
 
 Alluresoft, LLC
 
-218 Delaware St, Suite 302
+PO Box 414897
 
-Kansas City, MO 64105
+Kansas City, MO 64141
 
 877-573-4889
 
@@ -54,35 +54,4 @@ contact@divvyhq.com
 
 ## Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits Users that are residents of California to request certain information regarding Company’s disclosures of personally identifiable information to third parties for such third parties’ direct marketing purposes. If User is a California resident and would like to make such a request, please email Company at contact@divvyhq.com or write Company at 218 Delaware, St., Suite 302 Kansas City, Mo 64105.
-
-Need help? There are a bunch of ways to get the support you need:
-
-  * Jump on our  **[YouTube channel](http://www.youtube.com/divvyhq "DivvyHQ on YouTube")**  to see tons of videos covering most aspects of our application
-  * Check out  **[our blog](https://www.divvyhq.com/index.php/blog/ "DivvyHQ Blog")**  for updates and how-to’s
-  * Ask questions, see common answers to other users’ questions, submit feature requests and ideas or report a problem via the **[DivvyHQ community portal](https://getsatisfaction.com/divvy "DivvyHQ Get Satisfaction")**
-  * Send support requests and ask questions through our **[contact form](http://www.divvyhq.com/index.php/contact/ "Contact")**
-  * **Click “Help”** at the top of your screen (when you’re logged into the application) to send an email to our help desk.
-  * **Call us at 877-57DIVVY (34889)**
-
-
-
-## Email our Head Honchos
-
-Send an email directly to Jayme Thomason, CEO, at **jayme [at] divvyHQ.com**  
-Send an email directly to Brody Dorland, CSO at **brody [at] divvyHQ.com**  
-Send an email directly to Brock Stechman, COO, at **brock [at] divvyHQ.com**
-
-## *NEW! Editorial Calendar Spreadsheet Upload Service
-
-Need your spreadsheet uploaded into your account? Send it to us at contact [at] divvyHQ.com and we’ll upload it for free!
-
-## Join Our DivvyHQ User Group!
-
-We’re listening and taking your feedback and ideas very seriously. To show you, we’ve created a special group of users that will “gather” online monthly to discuss your ideas for new features, issues you’re having and feedback for our team. This is your chance to influence how we evolve and enhance the DivvyHQ tool.
-
-If you have ideas for us, feedback, tips for other users, stories, content marketing expertise, etc., we want you to join! Click the link below to sign up.
-
-On top of having a direct impact on the future of DivvyHQ, users who join will get other cool stuff throughout the year, like t-shirts, coffee mugs, exclusive learning opportunities, VIP access to shin-digs we throw at conferences, and a bunch more stuff. So go join! We can’t wait to see what the future holds!
-
-### [Click here to Join!](http://eepurl.com/jt7Zv)
+California Civil Code Section 1798.83 permits Users that are residents of California to request certain information regarding Company’s disclosures of personally identifiable information to third parties for such third parties’ direct marketing purposes. If User is a California resident and would like to make such a request, please email Company at contact@divvyhq.com or write Company at PO Box 414897, Mo 64141.
