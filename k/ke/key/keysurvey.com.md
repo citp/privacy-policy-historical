@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517115610id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016061507id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,8 +67,57 @@ We will retain your information for as long as your account is active or as need
 **Web-Server Log and Cookies**  
 WorldAPP collects information about the areas and pages of the websites you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our customers as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. WorldAPP also collects this information to make the website viewable and useful for the majority of our clients. 
 
-Our websites utilize session cookies to make it easier for you navigate our web sites. This is an encrypted number generated when you visit any site that supports sessions. Session ID cookies expire when you close your browser. We also utilize persistent cookies to help us track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently at your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging to our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our websites. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies, as well as any type of information, with any other companies. You can remove persistent cookies by following directions provided in your Internet browser's "help” file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited. 
+Our websites utilize session cookies to make it easier for you navigate our web sites. This is an encrypted number generated when you visit any site that supports sessions. Session ID cookies expire when you close your browser. We also utilize persistent cookies to help us track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently at your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging to our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our websites. You can remove persistent cookies by following directions provided in your Internet browser's "help” file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited. 
 
+Two tables of WorldAPP cookies are listed below, based upon whether or not the cookie recipient is (1) a survey or forms respondent, or (2) website visitor or survey or forms administrative user. 
+
+**1\. Survey and Forms Respondent Cookies**  
+WorldAPP's default survey and forms technology leverages cookies to enable some survey or form functionality. These cookies are utilized expressly for survey or form performance, and are never collected by WorldAPP for additional purposes, and are strictly confidential. 
+
+Each survey/form cookie, along with its purpose and lifespan, is listed below. 
+
+Cookie Name  | Purpose | Lifespan  
+---|---|---  
+JSessionID |   | This cookie lasts until the browser is closed.  
+It is used to identify your session with the server, so the server recognizes its conversation with a particular user.  
+These are necessary for a smooth experience with the application.  |   | Session  
+SurveyID | If you are taking a survey on the system, it stores this cookie on your computer. This is so that if you leave the survey and return later, you can continue where you left off. It works together with the RID cookie to deliver your survey content to you upon your return. If you don't use this cookie, and the survey is not set up to use username and password or unique URLs, then the server will give someone returning to their survey a brand new survey. A duplicate response will likely be created in the reports as well. | 10 years  
+RID | RID (Respondent ID) is a cookie that works with the SurveyID cookie to identify someone who has left a survey and is now returning. If you don't use this cookie, and the survey is not set up to use username and password or unique URLs, then the server will give someone returning to their survey a brand new survey. A duplicate response will likely be created in the reports as well. | 10 years  
+CIntVerification | This cookie is used to test to see if your web browser has cookies enabled. The WorldAPP server also uses this cookie to help improve the server and web page speed by load-balancing traffic. | 1 day  
+BigipServerksDispatcher,  
+BigipServerksNginx,  
+BigipServerKsVoting  
+BigipServerksVoting360  
+BigipServerksMail  
+BigipServerksReport  | These cookies are used to improve server and web page speeds by allowing the server to recognize you and send your traffic to the fastest sub-server. Without these cookies a user always talks to the same servers, and new users will talk to the less burdened servers. | 1 day  
+  
+**2\. Website Visitors and Survey or Forms Administrator User Cookies**   
+Additionally to those there some cookies that are set for the KeySurvey.com website visitors and Key Survey application administrative users. The list of the cookies is presented below. NONE of the cookies listed below is EVER set for the survey respondents, as respondents. WorldAPP uses industry best practices in managing and securing the information collected using cookies to guarantee privacy. 
+
+Cookie Name | Purpose | Lifespan  
+---|---|---  
+_utma  
+_utmb  
+_utmc  
+_utmz |   | This cookie is used to better understand how you use the website by telling us which pages you went to. We use this information to make our website easier to use. This cookie would also tell us if you came to our website by clicking on one of our Ads. This is a third party cookie set by Google. |   | Session  
+BigipServerKSMkt, BigipServerksMain | These cookies are used to improve server and web page speeds by allowing the server to recognize you and send your traffic to the fastest sub-server. Without these cookies a user always talks to the same servers, and new users will talk to the less burdened servers. This functionality also helps to prevent data corruption in the case that a load balanced server stops working and another server starts handling those users. | 1 day  
+SecureToken | If the user chooses “remember me” option when logging into the application, this cookie will be created and will store an encrypted version of the username and password so the server can actually remember the users login credentials. | 1 week  
+s_cc  
+s_sq  
+s_vi | WorldAPP uses these cookies to see if you are a new user, which marketing campaign you replied to, when you purchased our product, when you came to our website and other similar things to help WorldAPP understand how well our marketing is working. WorldAPP uses Omniture SiteCatalyst to set these cookies and perform the analysis.  | Session   
+Session   
+Persistent  
+VisitorID | This cookie is used to identify returning visitors and tells us how often you use our website. It also collects information about your computer such as which version of which browser you are using, which operating system you are using, and the resolution your screen is set to. This information helps WorldAPP to improve your experience in several ways, including making sure the web pages are compatible with your preferred browsers and that web pages are created to a size that works well with common screen sizes. | 10 years  
+Gpv_pn | This cookie is used to track which of our web pages a person sees first. This is used by marketing to see if the page matched what the user was looking for. This helps us to better distribute content to the right pages. Later, if you sign up to use our tools, it can also help us understand what kind of search term brought you here.  | 1 day  
+KSuserReff   
+KSuserReffCounter | These cookies track the pages you visited on our website. If you fill out one of our forms, for a test account or a contact form, this information will also be tied to this cookie. WorldAPP uses this information to better understand if the web site is acting efficiently to deliver the content you are looking for.  | 10 years  
+Is_returning | This cookie is used to record the fact that you have come back to our website after a previous visit. If you sign up for an account or fill out a contact form, this information will also be tied to this cookie.  | 10 years  
+ELOQUA  
+ELQSTATUS | These cookies are used only for the WorldAPP email campaign management. They only track ‘anonymous' information, meaning information that cannot identify you as an individual. These cookies are set by Eloqua, a tool WorldAPP uses to manage email campaigns.  | 18 years  
+Id  
+_drt_ | This cookie is used by Google to serve targeted ads to website visitors, WorldAPP does not serve targeted ads. These cookies are set by Google, and more information can be found in [Google's Privacy Policy](http://www.google.com/intl/en/policies/privacy/). | 1 year  
+Ks_help_uid | WorldAPP uses this cookie to make sure the correct Help Page opens for each user, as Help Pages are targeted to the page from which they were requested.  | Session  
+  
 The use of cookies by our service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our service providers use session ID cookies to make it easier for you to navigate our site and in order for you to use the shopping cart. 
 
 **Web Beacons**  
