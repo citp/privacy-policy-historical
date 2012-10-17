@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsity.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513144309id_/http%3A//www.tipsity.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsity.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017052929id_/http%3A//www.tipsity.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Tips on Tax, Stocks, Finance and VOIP
 
