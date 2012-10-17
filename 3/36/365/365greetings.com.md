@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513092621id_/http%3A//www.365greetings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017201624id_/http%3A//www.365greetings.com/privacy.html) for the most accurate reproduction.*
 
-# Free Birthday Cards, Free Greeting Cards, electronic greeting card, Printable Cards, Wedding cards - Privacy
-
-  
-
-
-##### 365greetings.com Privacy Policy 
+# Privacy Policy Of 365greetings.com
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Free Ecards, (Free Ecards includes all Web sites and certain other Internet media properties hyper linked from the Free Ecards home page.) The following discloses our Privacy Policy. 
 
