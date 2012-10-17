@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the save.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510114920id_/http%3A//www.save.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017130750id_/http%3A//www.save.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Save.com
 
