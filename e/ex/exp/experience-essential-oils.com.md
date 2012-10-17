@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619013535id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017033555id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -14,7 +14,7 @@ Experience-Essential-Oils collects personally identifiable information from the 
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, and signup to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. 
+Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
 
 ### Use of Cookies and Web Beacons
 
@@ -40,15 +40,15 @@ In some cases, we may collect information about you that is not personally ident
 
 ### Release of Information
 
-If Experience-Essential-Oils is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in controland practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
+If Experience-Essential-Oils is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in controland practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
 ### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our Contact Us page. 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our Contact Us page.
 
 ### Updates and Effective Date
 
-Experience-Essential-Oils reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. 
+Experience-Essential-Oils reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
 ###  Agreeing to Terms
 
@@ -58,7 +58,6 @@ Your use of this site indicates acceptance of this privacy policy. Thank you for
 
 [Return from **Privacy Policy** to **Experience Essential Oils**](http://www.experience-essential-oils.com/)
 
-  
 **Share this page:  **  
 
 
@@ -79,14 +78,25 @@ _a copy of_
 
 * * *
 
+### _Conference on Complementary Animal Healing_
+
+**November 11 and 12, 2012  
+Boxborough, Mass**  
+
+
+Learn about essential oils for cats & dogs (Sunday) and horses (Monday) with Nan here!
+
+[**Info and Registration!**](http://www.experience-essential-oils.com/essential-oils-equine-clinics.html)
+
+* * *
+
 ###   
-_New Internet Radio Show On Fridays at 2 PM EST_
+_Using Essential Oils for People and  
+their Animals!_
 
-_Change Your Vibe_ with Nan Martin is a weekly show where listeners can learn about energy healing techniques and essential oils!
+**November 17 and 18, 2012  
+Westhampton, Mass**  
 
-**Fridays at 11 AM Pacific or  
-2 PM Eastern**  
-[**Info and Call in Number Here!**](http://www.experience-essential-oils.com/free-internet-radio-program.html)
 
 * * *
 
