@@ -1,9 +1,17 @@
-> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511205524id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017040448id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dubai FAQs Privacy Policy
 
-### Privacy Policy   
+|   [Home](http://www.dubaifaqs.com/ "Dubai FAQs home") | [Dubai forum](http://www.desertspeak.com/ "Abu Dhabi, Dubai, UAE Q&A") | Print |  |  | 
+
+**Wednesday 17 October 2012 (UAE)   **  
   
+---|---|---|---  
+   
+   
+  
+### Privacy Policy 
+
 [](http://www.dubaifaqs.com/advertise-dubaifaqs.php)
 
 DubaiFAQs.com collects data whenever a visitor views a page in their website. This may include which page or website a user came from, what search terms a visitor entered if coming from search engine results, the browser and operating system used on the visitor's computer. This is not unusual, all websites collect this, or similar, data as a matter of course.
@@ -22,11 +30,11 @@ As cookies are simply text files, they do not have the potential to cause harm i
 
 Most pages on DubaiFAQs.com display advertisements from the Google Adsense program. As part of that program, Google may save a "DoubleClick DART cookie" on the users computer. This is a specific cookie intended to help the Google Adsense program serve ads more likely to be of interest to the visitor. Users can opt out of the DART cookie by visiting the Google advertising and privacy center at www.google.com/privacy_ads.html.
 
-###### Last update Sunday 09-Aug-2009  
+###### Last update Wednesday 16-May-2012  
   
 ##### Related pages
 
-  * [About Dubai FAQs](https://web.archive.org/web/20120511205524id_/http%3A//www.dubaifaqs.com/about-us.php)
+  * [About Dubai FAQs](https://web.archive.org/web/20121017040448id_/http%3A//www.dubaifaqs.com/about-us.php)
 
 
 
