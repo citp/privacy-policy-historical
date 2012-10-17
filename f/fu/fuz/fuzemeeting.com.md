@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fuzemeeting.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308223540id_/https%3A//www.fuzemeeting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzemeeting.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017143613id_/https%3A//www.fuzebox.com/extras/privacy) for the most accurate reproduction.*
 
-# Fuze Meeting Privacy Policy
+# Privacy Policy — FuzeBox: Online Meetings, Video Conferencing, Webinar and Telepresence solutions all in High-Def with Fuze Meeting
+
+## Privacy Policy
 
 Fuze Meeting respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Personally Identifiable Information that you share with us ("PII").
 
