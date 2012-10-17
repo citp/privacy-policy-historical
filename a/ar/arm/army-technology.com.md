@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the army-technology.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614063344id_/http%3A//www.army-technology.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army-technology.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017061156id_/http%3A//www.army-technology.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Army Technology
 
@@ -35,6 +35,67 @@ Similarly to the above, we may gather information about your general internet us
 All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. 
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+
+This Website uses Google Adwords conversion tracking method, which uses cookies to monitor the success of our Google AdWords campaign provided by Google, Inc.. This tracking cookie is set on your browser only when you click on a Google Ad and these cookies help us increase the website's effectiveness for our visitors. These cookies expire within 30 days and do not contain information that can identify you personally. Please refer to the Google Advertising Privacy Notice for more information about Google Conversion Tracking and the ability to opt out.
+
+Link: <http://www.google.com/policies/privacy/ads/>
+
+## Cookies we set on our own sites
+
+These cookies include:
+
+  * **ASP.NET_SessionId** and **__RequestVerificationToken_Lw__** cookies. These cookies are used to remember things during your session, so we can do things within the session like logins and personalisation of settings. When you close your browser, these cookies are deleted.
+  * **WT_FPC** This is a WebTrends tracking cookie. We use this to track users anonymously through the site.
+
+
+
+## Cookies set on our sites by our commercial service providers
+
+We use a range of third party services on our sites, from statistics packages to advertising, video delivery, content delivery and even low level, techie functions like load balancing our servers so they are always available when you want to use them. Some of these services require the use of cookies to work properly. These services include:
+
+## Statistics
+
+**Google Analytics** provide anonymised statistical information for us. They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located. These cookies include: __gads, __utma, __utmb, __utmc and __utmz
+
+[Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html)
+
+## Social Media Tracking
+
+**__utmx, __utmxx, di, dt, loc, psc, uid, uit** and **uvc** are cookies that are used to collect certain non-personally identifiable information automatically for use on the "AddThis Platform". This enables us to better understand how people are consuming and sharing our content socially and which content is more popular.
+
+[AddThis.com Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
+
+## Third Party Links
+
+The advertisements on our sites are served by a number of third party ad serving providers, including **DoubleClick, Advertising.com, Adviva.net (Specific Media), AdRevolver (BlueLithium-Yahoo!), 247realmedia.com and Eyeblaster** , amongst others. The cookies accompanying the ads allow them and their advertisers to monitor the effectiveness of the ads (e.g. by using statistical analysis cookies) and make the ads more relevant to you (e.g. if you use our sites from outside of the UK, you may get ads from your local country). If you would like more information about the cookies used by the providers listed above, please see their privacy policies at:
+
+  * <http://www.doubleclick.com/privacy/index.aspx>
+  * <http://www.advertising.com/privacy_policy.php>
+  * <http://www.specificmedia.co.uk/privacy.php>
+  * <http://www.bluelithium.com/privacy_policy.html>
+  * <http://www.247realmedia.com/EN-US/privacy-policy.html>
+  * <http://www.eyeblaster.com/privacy.asp>
+  * <http://www.mediaplex.com/mojo_privacy_statement.shtml>
+
+
+
+## General third party opt-outs
+
+You can learn about and opt out of a number of commercial third party cookies at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies.
+
+## SETTING UP YOUR BROWSER TO CONTROL OR DELETE COOKIES
+
+You can find up-to-date information clearly explaining how to control or delete cookies on your Windows PC or Apple Mac at [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+To control or delete cookies on your mobile phone, please refer to your handset manufacturer's help manual.
+
+We use Macromedia Flash Player to deliver certain services on our sites. To improve user experience, Local Shared Objects - or Flash Cookies as they are commonly known - are employed to provide features such as auto-resume or saving preferences. Flash Cookies are stored on a user's terminal much the same as cookies are, however it is not possible to manage them at browser level in the same way.
+
+The Adobe website provides comprehensive information on how to delete or disable Flash cookies either for a specific domain or for all websites - see <http://kb2.adobe.com/cps/526/52697ee8.html> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash-based applications on our sites.
+
+## Further information
+
+Additional information regarding cookies and opting-out is available at [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 ## Use of Your Information
 
@@ -82,27 +143,9 @@ We may also disclose your personal and non-personal information to third parties
 
 
 
-## Third Party Links
+## Children
 
-The websites contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
-
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult their privacy policies.
-
-  * <http://www.doubleclick.com/privacy/index.aspx>
-  * <http://www.mediaplex.com/mojo_privacy_statement.shtml>
-  * <http://www.google.com/privacy.html>
-
-
-
-## Children Aged Under 16
-
-We do not knowingly collect or ask for personal information from anyone under the age of 16. If you are under 16, please do not attempt to register (if applicable) on our site or send any information about yourself to us, including your name email address. Should we discover that any such personal information has been collected, we will delete or remove that information as soon as possible. 
-
-Child protection is very important to us. Please contact us as soon as possible at [PrivacyPolicy@progressivedigitalmedia.com](mailto:PrivacyPolicy@progressivedigitalmedia.com) if you believe that we might have any information from or about a child under the age of 16. 
-
-## Children Aged Between 16 and 18
-
-If you are aged between 16 and 18 please ask you parents or guardian for permission before registering or sending any information about yourself to our site.
+Please note that we do not collect any personal information from children under thirteen years of age and that no child under thirteen should submit any personal information to any of the Sites. Should we discover that any such personal information has been delivered to any of the Sites, we will remove that information as soon as possible.
 
 ## Access To Information
 
