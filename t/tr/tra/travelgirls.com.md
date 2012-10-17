@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001846id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017152246id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
 
 # travelgirls.com - Privacy policy
 
 The following describes the conditions of the Privacy Policy on which “Eastbo Development Limited” offers you to access and explore the travelgirls.com website (hereinafter referred to as the “Site”). The Site is operated by “Eastbo Development Limited” (hereinafter referred to as “us”, “we”), a limited liability company, registered in the Republic of Lithuania. By using this Site, you agree to comply with and be legally bound by the following conditions of the Privacy Policy, whether or not you become a registered user of the Site. Failure to use this Site in accordance with the following conditions of the Privacy Policy may subject you to severe civil and criminal penalties. We reserve the right to make changes to these conditions of the Privacy Policy at any time. Your continued use of the Site constitutes your acceptance of such changes. Accordingly, you should review these terms from time to time for such changes.
 
-**By entering and/or registering on the Site you give your consent to and accept the following conditions  **:
+ **By entering and/or registering on the Site you give your consent to and accept the following conditions  **:
 
 **1\. Age restrictions**
 
