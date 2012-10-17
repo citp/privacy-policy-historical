@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512223328id_/http%3A//www.indianastrologysoftware.com/astrology-software-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017132307id_/http%3A//www.indianastrologysoftware.com/astrology-software-privacypolicy.php) for the most accurate reproduction.*
 
-# More Details about IndianAstrologySoftware.com
+# More details about IndianAstrologySoftware.com
 
 This privacy policy sets out how www.indianastrologysoftware.com uses and protects any information that you give www.indianastrologysoftware.com when you use this website. www.indianastrologysoftware.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
