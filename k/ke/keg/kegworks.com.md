@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511133518id_/http%3A//www.kegworks.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017142918id_/http%3A//www.kegworks.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KegWorks
 
