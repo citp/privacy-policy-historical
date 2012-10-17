@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiesrealestate.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501121709id_/http%3A//www.christiesrealestate.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiesrealestate.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017021442id_/http%3A//www.christiesrealestate.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Luxury Real Estate and Homes for Sale - Christie's International Real Estate
 
