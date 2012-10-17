@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecinemasource.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517034718id_/http%3A//www.thecinemasource.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecinemasource.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017140332id_/http%3A//www.thecinemasource.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cinema Source
 
