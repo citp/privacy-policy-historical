@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512173401id_/http%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017061845id_/http%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
 
-# Rent Textbooks. Buy Textbooks. Cheap Textbook Rentals for College | Chegg.com
+# Rent Textbooks. Buy Textbooks. Textbook Rentals | Chegg.com
 
 We at Chegg, Inc. (“Chegg”) have created this Privacy Policy to describe our practices regarding information we collect on our web sites, mobile app,, applications and other interactive features or services on our Sites that post a link to this Privacy Policy (each, a “Service” and collectively, the “Services”). 
 
