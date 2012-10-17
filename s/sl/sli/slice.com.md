@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511191120id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017105544id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
 
 # Slice - Privacy Policy
 
-All your purchases in one place.
-
-Last updated: December 2011
+Last updated: June 2012
 
 This policy covers how Slice® treats Personally Identifiable Information ("PII") and other information that Slice collects in connection with our services including information collected through All My Purchases®. Slice considers PII to be information that can be traced directly back to and identifies an individual, such as name, address, email address, and/or phone number. We do not consider PII to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
@@ -21,6 +19,12 @@ Slice services include the collection, aggregation, analysis, and organization o
 Slice collects PII when you register. In registering with Slice, you may also provide information necessary to use Slice, such as the login credentials for your mail, social networking, or other Internet accounts that you link to Slice. We may also collect PII from you in other ways, such as contacts with our customer-support team.
 
 **Non-PII Collection.** Whenever you visit Slice, Slice also receives and records information on our server logs from your browser, including your IP address, Slice cookie information, and the pages you request, and relates it to the PII you provide. Slice uses this information to provide our services, to improve our products and services, to contact you, to conduct research, and to develop and maintain anonymous or aggregated data and analytics.
+
+In connection with our mobile application, Slice may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly identify you. The types of non-personal data Slice may collect and use include, but are not limited to: (i) device properties, including, but not limited to unique device identifier or other device identifier ("UDID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as country or region; (v) other non-personal data as reasonably required by Slice to enhance the services and other Slice products and services.
+
+Slice may use and disclose to Slice's service providers the collected non-personal data for purposes of analyzing usage of the services, advertisement serving, managing and providing the Services, and to further develop the services and other Slice services and products.
+
+You recognize and agree that the service providers utilized by Slice may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies.
 
 ### III. HOW WE USE YOUR PERSONAL INFORMATION
 
