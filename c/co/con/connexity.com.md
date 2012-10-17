@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603012655id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018002227id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
 
 # Connexity - Audience Discovery
 
@@ -6,7 +6,7 @@
 
 _Revision Date: March 15th 2012_
 
-To Opt-Out of behavioral targeting from Connexity please select from the options below.
+To Opt-Out of behavioral targeting from Connexity please click on the button below.
 
 Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.
 
@@ -67,6 +67,6 @@ This Privacy Policy may change from time to time. In the event that we make mate
 Connexity technology, and the way we use it, meets or exceeds all industry standards and legal requirements for protecting privacy online. Questions and comments about our privacy policy, OBA compliance or opt-out procedure should be directed to or mailed to: 
 
 Privacy Officer   
-Connexity LLC   
+Connexity Inc.   
 505 Poli St. Ste. 310   
 Ventura, CA 93001 
