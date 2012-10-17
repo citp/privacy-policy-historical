@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506013914id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017220538id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security | CityPASS
 
@@ -18,7 +18,7 @@ By purchasing, subscribing to, or using CityPASS's Web site, you agree to the te
 
 CityPASS collects a variety of personally identifiable information about customers and visitors to our Web site in order to ensure order delivery and provide unique offers. When we use the term "personally identifiable information," we mean information that is directly associated with, or could be used to identify, a specific person. Such information includes a name, address, telephone number, e mail address, or information about activities directly linked to that person which would permit the physical or online contacting of that person. 
 
-###  Informtion You Give Us 
+###  Information You Give Us 
 
 **Checkout:** We collect information you give us — such as your name, billing address, telephone number, e-mail address, and/or credit card number — when you purchase from our Web site. 
 
@@ -32,7 +32,7 @@ To see how we use, disclose, and protect the personally identifiable information
 
 ##  2\. Our Use of Personally Identifiable Information 
 
-**Our Internal Use:** CityPASS collects personally identifiable customer information for the purpose of shipping CityPASS to you and/or to contact you directly regarding your order. We also use email addresses on an opt-in basis to provide users with information they have subscribed to. 
+**Our Internal Use:** CityPASS collects personally identifiable customer information for the purpose of shipping CityPASS to you and/or to contact you directly regarding your order. This information may also be used find and validate vouchers purchased from our website in the event that the physical voucher is misplaced or otherwise not present when redeeming at attractions. We also use email addresses on an opt-in basis to provide users with information they have subscribed to. 
 
 **Our Customer Surveys:** Periodically, you may be able to participate in our surveys to help us improve our site and products. Any personally identifiable information that we may collect from you in a survey will ONLY be used internally by CityPASS. And unless otherwise explained in the instructions for a particular customer survey, any personally identifiable information you provide to us for purposes of that survey will be used in accordance with this Policy. 
 
@@ -48,7 +48,7 @@ To see how we use, disclose, and protect the personally identifiable information
 
 ##  4\. Security 
 
-Security of the information regarding your order is very important to us. We use transport security with certificates signed by **Verisign** to protect the security of your online order information from being intercepted by anyone other than CityPASS. You may verify that we are a legitimate Verisign Secure Site by clicking on the Verisign Secured logo in the lower right corner of all checkout pages. 
+Security of the information regarding your order is very important to us. We use Secure Sockets Layer (SSL) technology with certificates signed by **Verisign** to provide you with the safest, most secure shopping experience possible. SSL technology enables encryption (scrambling) of sensitive information, including passwords and credit card numbers, during your online transactions. All of the forms on our site are secured with SSL technology so your personal information stays safe and out of malicious hands. You may verify that we are a legitimate Verisign Secure Site by clicking on the Verisign Secured logo in the lower left corner of all checkout pages. 
 
 Once you enter the checkout page, your computer will begin communicating with our server in secure mode. You can tell that you are in secure mode by the following: 
 
