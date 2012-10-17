@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628212204id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017150033id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
 
-# Kiddicare - Privacy and Cookies | Online baby shop | Nursery Equipment
+# Kiddicare - Privacy and Cookies| Online baby shop | Nursery Equipment
 
 **Privacy Policy**
 
@@ -421,10 +421,10 @@ sp3dtag (this is a persistent cookie which lasts for 4 years)
 
 Run by SPTag, an analytics company that is part of a network of sites. Cookies and other technology are used to track visitors, what they do and what they click on as they move from site to site, browsing online.   
   
-Digital Window: aw (this is a persistent cookie for 30 days), awsess, awpv9 (this is a persistent cookie), _aw_m_(clickid)  
+Digital Window: aw (this is a persistent cookie for 30 days), awsess, awpv9 (this is a persistent cookie which lasts for 1 week), _aw_m_(clickid)  
 Google (this is a persistent cookie which lasts for 30 to 60 days)  
 utm_rsys, sayyappan (this is a persistent cookie which lasts for 1 year),   
-Shopzilla  
+Shopzilla (this is a persistent cookies which lasts for 30 days)  
 Merchantize (this is a persistent cookie which lasts for 90 days)  
 tradedoubler, tdreview 
 
@@ -432,7 +432,7 @@ tradedoubler, tdreview
 
 Sometimes we advertise on third party websites and third party cookies help us and our advertisers see which advertisements you click on and interact with to determine which are most effective. Occasionally we will reward other websites for referring you to us. Each individual advertiser uses its own tracking cookies. Examples of these advertisers including Google, Digital Window and Shopzilla.
 
-Responsys is an email management service we use to send you news and updates via email you may have signed-up for. These cookies help us to see which emails, content and links you respond to and to determine which are the most effective and relevant from a shopping perspective.   
+Responsys is an email management service we use to send you news and updates via email you may have signed-up for. These cookies help us to see which emails, content and links and what you have purchased as a result of email campaigns. This helps us to determine which are the most effective and relevant from a shopping perspective.   
   
 *See 'An introduction to all things cookie' for what these terms mean.
 
