@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the merchantexpress.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603092104id_/http%3A//www.merchantexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantexpress.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017120550id_/http%3A//www.merchantexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Merchant Express
+
+Please Verify the Highlighted Fields  
+Before We Can Continue Your Request 
 
 At MERCHANT EXPRESS®, and our affiliated companies, we greatly appreciate the opportunity to serve our customers. We are committed to protecting the privacy and confidentiality of our potential, current and former customers’ information. The information obtained will be used solely for the purpose of providing the services mutually agreed upon. This information will be protected with industry-standard technical safeguards and will adhere to applicable standards and requirements as set forth by the relevant governing bodies.
 
@@ -17,3 +20,7 @@ We use Google Analytics, and other Google services that place cookies on a brows
 We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on Google’s opt out page. If you are concerned about 3rd party cookies served by networks, you should also visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 MERCHANT EXPRESS reserves the right to modify and update this privacy policy at any time. If you are concerned about use of your information, you may contact MERCHANT EXPRESS at 888-845-9457.
+
+Please Verify the Highlighted  
+Fields Before We Can Continue  
+Your Request 
