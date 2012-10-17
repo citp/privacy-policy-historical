@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseraceinsider.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511205532id_/http%3A//www.horseraceinsider.com/Horse-Racing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseraceinsider.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017201913id_/http%3A//www.horseraceinsider.com/Horse-Racing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,8 @@ Throughout HorseRaceInsider.com their may be external links. HorseRaceInsider.co
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com "click here").
 
 On occasion, HorseRaceInsider.com may alter its Privacy Policy as new services are added or current ones are changed. Please check this Privacy Policy for any adjustments. 
+
+[](http://www.calderracecourse.com/news/archives/calder-host-21st-annual-festival-sun)
 
   
 
