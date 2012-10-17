@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingfloor.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514092013id_/http%3A//www.tradingfloor.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingfloor.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017190016id_/http%3A//www.tradingfloor.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Tradingfloor.com
 
@@ -56,4 +56,4 @@ If the data we hold about you proves inaccurate or outdated, we will correct it 
 
 ## How to correct your information with Saxo Bank Group
 
-If you wish to modify your data please do not hesitate to contact us by email at cs@saxobank.com or call us on +45 39 77 40 00.
+If you wish to modify your data please do not hesitate to contact us by email at servicecenter@saxobank.com or call us on +45 39 77 40 00.
