@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mwave.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820131958id_/http%3A//www.mwave.com.au/newAU/mwaveAU/privacy.asp%3FCartID%3DmAU%40TVP6QD1XQ4XR18VVNEWCLUITKN5WUQ31HVDHFMPYEFLSO9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwave.com.au privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017181321id_/http%3A//www.mwave.com.au/privacy.asp%3FCartID%3DmAU%40SSCIQ9N8P2K295I6MCJNKS4EJKR74OPCGTYREBB9E37DO6) for the most accurate reproduction.*
 
-# Mwave Australia: Easy Shopping Easy Life
+# Buy Computer Parts, PC Components, Notebooks, Digital Cameras and Elec
 
-This privacy statement discloses the privacy practices for Mwave Australia. If you have questions or concerns regarding this statement, please e-mail us at [info@mwave.com.au](mailto:info@mwave.com.au)
+This privacy statement discloses the privacy practices for Mwave Australia. If you have questions or concerns regarding this statement, please e-mail us at [sales@mwave.com.au](mailto:sales@mwave.com.au)
 
 We respect your privacy
 
@@ -10,7 +10,7 @@ At Mwave Australia, we value our customers and their privacy. All personal infor
 
 No SPAMMING!
 
-Unsolicited, "spam" mail is not sent to Mwave Australia's customers. The only email customers will receive, are updates to their recent orders and occasional promotions, if requested. Mwave Australia is not responsible for information and actions by third party individuals who have received information from the customer's directly. 
+Unsolicited, "spam" mail is not sent to Mwave Australia's customers. The only email customers will receive, are updates to their recent or past orders, updates to company policy, updates and news to Mwave website, Surveys about Mwave Customer Service and occasional promotions (if requested). Mwave Australia is not responsible for information and actions by third party individuals who have received information from the customer's directly. 
 
 Your personal information Is Secure
 
@@ -34,13 +34,13 @@ Mwave Australia is the sole collector of information, and is not shared with any
 
   
 **Security**  
-This website takes every precaution to protect our users information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just surfing. To learn more about SSL, follow this link [RSA Security](http://www.rsasecurity.com/standards/ssl/basics.html). 
+This website takes every precaution to protect our users information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just surfing. 
 
   
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
   
-If you have any questions about the security at our web site, please send an e-mail to [info@mwave.com.au](mailto:info@mwave.com.au). 
+If you have any questions about the security at our web site, please send an e-mail to [sales@mwave.com.au](mailto:sales@mwave.com.au). 
 
   
 **Removal/Opt Out**  
@@ -50,17 +50,17 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   
-You can send email to: [info@mwave.com.au](mailto:info@mwave.com.au)
+You can send email to: [sales@mwave.com.au](mailto:sales@mwave.com.au)
 
   
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.   
-web site: [Update/Modify Account Information](https://web.archive.org/web/20060820131958id_/http%3A//www.mwave.com.au/newAU/mwaveAU/myaccount.asp?)   
-email: [support@mwave.com.au](mailto:support@mwave.com.au)
+web site: [Update/Modify Account Information](https://web.archive.org/web/20121017181321id_/http%3A//www.mwave.com.au/myaccount.asp?)   
+email: [sales@mwave.com.au](mailto:sales@mwave.com.au)
 
   
 **Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on here so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
   
 **Contacting the Web Site**  
