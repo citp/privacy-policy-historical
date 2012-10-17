@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpfog.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513084547id_/https%3A//phpfog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfog.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017204559id_/https%3A//phpfog.com/privacy) for the most accurate reproduction.*
 
-# PHP Fog — Privacy Policy
+# AppFog: PaaS for Public and Private Clouds
 
 This Privacy Policy was last revised on December 8, 2011.
 
@@ -13,7 +13,7 @@ PHP Fog, Inc. ("PHP Fog," "we," or "us") knows that you care how information abo
 
 
 
-We will only collect, use, and share your information as we describe in this Privacy Policy or as you give us express permission to do. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms_of_service).
+We will only collect, use, and share your information as we describe in this Privacy Policy or as you give us express permission to do. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/products/phpfog/terms_of_service).
 
 ## Information We Collect
 
