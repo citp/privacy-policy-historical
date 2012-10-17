@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501055046id_/https%3A//www.utilitywarehouse.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017025154id_/https%3A//www.utilitywarehouse.co.uk/static/privacy) for the most accurate reproduction.*
 
 # Utility Warehouse
 
@@ -77,7 +77,7 @@ In accordance with the principles of the Data Protection Act, we will not otherw
 
 ### Cookie Policy
 
-**Please click here to[read our policy on cookies](https://web.archive.org/static/cookies).**
+**Read our[policy on cookies](https://web.archive.org/static/cookies).**
 
 ### Protecting your information
 
