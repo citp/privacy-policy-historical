@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509224359id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017104459id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
 
 # Privacy Policy | Liverpool-Kop.com
 
