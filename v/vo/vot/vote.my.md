@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vote.my privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626140039id_/http%3A//www.vote.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.my privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017191214id_/http%3A//www.vote.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
