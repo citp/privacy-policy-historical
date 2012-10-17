@@ -1,49 +1,94 @@
-<!--The following is the downloaded HTML source of the tennisearth.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510110033id_/http%3A//www.tennisearth.com/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tennisearth.com privacy policy that was archived on 2012-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017115810id_/http%3A//www.tennisearth.com/privacyPolicy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style="background:#ebebeb url(http://cdn.tennisearth.com/images_new/tennis-background2-bg1240.jpg) no-repeat fixed center top;" href="javascript:void(0);"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style="background:#ebebeb url(http://cdn.tennisearth.com/images_new/background.png) repeat-x fixed center top;" href="javascript:void(0);"><head>
 <title>TennisEarth.com - Privacy Policy</title>
 
 <meta name="te:title" content="Privacy Policy">
 <meta name="likeImage" property="og:image" content="http://www.tennisearth.com/images_new/squareLogo.jpg">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="Date" content="Thu, 10 May 2012 11:00:34 GMT">
+<meta http-equiv="Date" content="Wed, 17 Oct 2012 11:58:10 GMT">
 
 <meta content="Copyright 2012 TennisEarth.com" name="copyright">
 <meta content="TennisEarth.com takes your privacy seriously. Read our Privacy Policy" name="description">
 <meta content="privacy policy" name="keywords">
 <meta content="TennisEarth.com" name="author">
 
-<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8c49496d2c6681"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8c49496d2c6681"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script type="text/javascript"><!--
+<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8c49496d2c6681"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script type="text/javascript"><!--
 // To have global access to some config params in JS
-var TE_HOME = 'http://www.tennisearth.com';
+
+	
+
+var IS_PARENT_LOGGED_IN = 'false';
+var TE_HOME = 'http://www.tennisearth.com';	
 var TE_HOME_HTTPS = 'https://www.tennisearth.com';
 var CDN_PATH = 'http://cdn.tennisearth.com';
 var FB_APP_KEY = '297298573653';
 var LOGIN_MODAL_MAX_CLICKS = '5';
-var JS_CACHE_VERSION = '127';
-var CSS_CACHE_VERSION = '163';
+var JS_CACHE_VERSION = '206';
+var CSS_CACHE_VERSION = '244';
 var IS_PUBLIC_WIDGET = false;
 var TE_EXTERNAL_USER = 0;
+var GOOGLE_MAPS_SCRIPT_LOADED = false;
+var TE_MAPS_SCRIPT_LOADED = false;
 
+var searchScriptLoadCounter = 0;
 //See if user is coming for registration through a club page. Set following true in bookingSubHeader of club if so;
 var clubPageReg = null;
+
+function subscribeToNewsLetter() {
+$("#errorMsg").html('');
+
+
+var url = "/widget/newsletterRegister.htm?emailId="+$("#subscriptionEmail").val();		
+
+$.getJSON(url, function(data) {
+
+var json = data;		
+
+if(json.error == 'false') {
+$("#subscriptionMsg").attr('class', 'textgreen');
+$("#subscriptionMsg").html(json.message);
+$("#okButton").hide();
+}else{
+$("#errorMsg").html(data.message);
+}
+});
+}	
 // --></script>
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link href="http://cdn.tennisearth.com/v/163/includes_new/common_2.css?v=163" rel="stylesheet" type="text/css">
+<link href="http://cdn.tennisearth.com/v/244/includes_new/common_2.css?v=244" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script type="text/javascript"><!--
 if(typeof jQuery == 'undefined') {
-document.write(unescape('%3Cscript type="text/javascript" src="http://cdn.tennisearth.com/v/127/scripts_new/jquery.min.js?v=127"%3E%3C/script%3E'));
+document.write(unescape('%3Cscript type="text/javascript" src="http://cdn.tennisearth.com/v/206/scripts_new/jquery.min.js?v=206"%3E%3C/script%3E'));
 }
-// --></script><script type="text/javascript" src="http://cdn.tennisearth.com/v/127/scripts_new/jquery.min.js?v=127"></script>
-<script type="text/javascript" src="http://cdn.tennisearth.com/v/127/scripts_new/jquery-main.js?v=127"></script>
+// --></script><script type="text/javascript" src="http://cdn.tennisearth.com/v/206/scripts_new/jquery.min.js?v=206"></script>
+<script type="text/javascript" src="http://cdn.tennisearth.com/v/206/scripts_new/jquery-main.js?v=206"></script>
 <script type="text/javascript"><!--
-if(screen.width <= 1200 || '' == 'false') {
-$('html').css('background', '#ebebeb url(http://cdn.tennisearth.com/images_new/tennis-background3.jpg) no-repeat fixed center top');
+if(screen.width <= 1200) {
+$('html').css('background', '#ebebeb url(http://cdn.tennisearth.com/images_new/background.png) repeat-x fixed center top');
 }
 // --></script>
+<script type="text/javascript"><!--
+if(screen.width <= 1200 && '' == 'false') {
+$('html').css('background', '#ebebeb url(/images_new/tennis-background2.png) repeat-x fixed center top');
+}
+// --></script>
+<script type="text/javascript"> <!--
+
+
+function setCookieVal(pLabel, pVal, pMinutes)
+{
+var tExpDate=new Date();
+tExpDate.setTime( tExpDate.getTime()+(pMinutes*60*1000) );
+document.cookie= pLabel + "=" +escape(pVal)+
+( (pMinutes==null) ? "" : ";expires="+ tExpDate.toGMTString()+ '; path=/' );
+}
+
+// --></script>
+
 </head>
 <body>
 
@@ -90,23 +135,9 @@ $('#topmostnavlinkDiv').attr('class', 'topmostnavlinkDiv');
 }
 // --></script>
 <div class="ttoolbarleftside">
-<div style="float:left" class="fb-like" data-href="http://www.tennisearth.com" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="arial"></div>
+<div style="float:left;margin-right:5px"><a class="addthis_counter addthis_pill_style" style="height:18px"></a></div>
+<div style="float:left" class="fb-like" data-href="www.facebook.com/TennisEarth" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="arial"></div>
 <div style="float:left;margin-left:5px"><g:plusone href="http://www.tennisearth.com" width="80px" size="medium"></g:plusone></div>
-<div style="float:left;margin-left:-5px"><a class="addthis_counter addthis_pill_style" style="height:18px"></a></div>
-
-<script type="text/javascript"><!--
-if(location.href.indexOf('/teforum/') == -1) {
-(function() {
-var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-po.src = '//apis.google.com/js/plusone.js';
-var s1 = document.getElementsByTagName('script')[0]; s1.parentNode.insertBefore(po, s1);
-
-var at = document.createElement('script'); at.type = 'text/javascript'; po.async = true;
-at.src = '//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8c49496d2c6681';
-var s2 = document.getElementsByTagName('script')[0]; s2.parentNode.insertBefore(at, s2);
-})();
-}
-// --></script>
 </div>
 
 <div class="ttoolbarrightside">
@@ -143,8 +174,9 @@ $('#combinedSearch').attr('autocomplete', 'off');
 <div class="ciHomeLogoholderbottom" id="ciHomeLogoholderbottom" style="display:none">
 <div class="ttoolbarfull">
 <div style="margin-right:25px;float:left"><span><a href="http://www.tennisearth.com/mobile/home.htm" style="text-decoration:none;color:#BF0000"> Mobile&nbsp;<img src="http://cdn.tennisearth.com/images_new/mobileiconew.png" style="position:absolute;padding-top:1px" border="0" alt="arrow"></a></span></div>
-<div id="button"><span class="menu_class"> Country&nbsp;<img src="http://cdn.tennisearth.com/images_new/arrow-red.gif" style="vertical-align:middle" border="0" alt="arrow"></span>&nbsp;&nbsp;
-<ul class="the_menu">
+
+<div class="linkmenu" id="linkmenud" style="float:left;width:63px"><span class="menu_class">Country&nbsp;<img src="http://cdn.tennisearth.com/images_new/arrow-red.gif" style="vertical-align:middle" border="0" alt="arrow"></span>&nbsp;&nbsp;
+<ul>
 <li><a href="http://www.tennisearth.com/country/United States">United States</a></li>
 <li><a href="http://www.tennisearth.com/country/United Kingdom">United Kingdom</a></li>
 <li><a href="http://www.tennisearth.com/country/Canada">Canada</a></li>
@@ -160,22 +192,19 @@ $('#combinedSearch').attr('autocomplete', 'off');
 <div style="margin-top:5px"><span style="color:#bf0000">Language : </span><span class="translateLink" style="cursor:pointer;color:#bf0000;padding-right:8px" onclick="doTranslate()">English&nbsp;<img src="http://cdn.tennisearth.com/images_new/arrow-red.gif" style="vertical-align:middle" border="0" alt="arrow"></span></div>
 </div>
 <div style="color:#000;font-weight:bold;margin-left:1px;margin-top:-2px;float:left">
-&nbsp;<img src="http://cdn.tennisearth.com/images_new/time-zone.png" alt="Time Zone" border="0">&nbsp;<span class="timeZoneDate" style="font-family: Tahoma; font-size: 11px; color:#000; bottom: 5px;position: relative;"></span>
+&nbsp;<img src="http://cdn.tennisearth.com/images_new/time-zone.png" alt="Time Zone" border="0">&nbsp;<span class="timeZoneDate" style="font-family: Tahoma; font-size: 11px; color:#000; bottom: 5px;position: relative;">11:58:10</span>
 </div>
+
 </div>
 </div>
 <div class="ciHomeLogoholderbottom1240" id="ciHomeLogoholderbottom1240" style="display:none">
 <div class="ttoolbarleftside" style="width:45%;margin-left:50px">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.tennisearth.com/commentary/Mutua-Madrilena-Madrid-Open_Women-Singles_R16_Wozniacki_Serena_327567.htm">
-LIVE: Serena vs Wozniacki</a> 										
 </div>
 
 <div class="ttoolbarrightside">
 <div style="margin-right:25px;float:left"><span><a href="http://www.tennisearth.com/mobile/home.htm" style="text-decoration:none;color:#BF0000">Mobile&nbsp;<img src="http://cdn.tennisearth.com/images_new/mobileiconew.png" style="position:absolute;padding-top:1px" border="0" alt="arrow"></a></span></div>
-<div id="button1"><span class="menu_class"> Country&nbsp;<img src="http://cdn.tennisearth.com/images_new/arrow-red.gif" style="vertical-align:middle" border="0" alt="arrow"></span>&nbsp;&nbsp;
-<ul class="the_menu">
+<div class="linkmenu" id="linkmenud" style="float:left;width:63px"><span class="menu_class">Country&nbsp;<img src="http://cdn.tennisearth.com/images_new/arrow-red.gif" style="vertical-align:middle" border="0" alt="arrow"></span>&nbsp;&nbsp;
+<ul>
 <li><a href="http://www.tennisearth.com/country/United States">United States</a></li>
 <li><a href="http://www.tennisearth.com/country/United Kingdom">United Kingdom</a></li>
 <li><a href="http://www.tennisearth.com/country/Canada">Canada</a></li>
@@ -191,7 +220,7 @@ LIVE: Serena vs Wozniacki</a>
 <div style="margin-top:5px"><span style="color:#bf0000">Language : </span><span class="translateLink" style="cursor:pointer;color:#bf0000;padding-right:8px" onclick="doTranslate()">English&nbsp;<img src="http://cdn.tennisearth.com/images_new/arrow-red.gif" style="vertical-align:middle" border="0" alt="arrow"></span></div>
 </div>
 <div style="color:#000;font-weight:bold;margin-left:1px;margin-top:-2px;float:left">
-&nbsp;<img src="http://cdn.tennisearth.com/images_new/time-zone.png" alt="Time Zone" border="0">&nbsp;<span class="timeZoneDate" style="font-family: Tahoma; font-size: 11px; color:#000; bottom: 5px;position: relative;"></span>
+&nbsp;<img src="http://cdn.tennisearth.com/images_new/time-zone.png" alt="Time Zone" border="0">&nbsp;<span class="timeZoneDate" style="font-family: Tahoma; font-size: 11px; color:#000; bottom: 5px;position: relative;">11:58:10</span>
 </div>	
 </div>
 </div>
@@ -226,7 +255,7 @@ $('#topnavlinks').attr('class', 'topnavlinks');
 <a href="http://www.tennisearth.com" style="float: left; margin-left: 8px; margin-top: 7px;text-decoration:none" class="tooltip">
 <span class="homeico tooltip" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </a>
-<ul id="topnav" class="topnavul">
+<ul id="suckerfishnav">
 <li id="news">
 <a href="http://www.tennisearth.com/news/home.htm" style="color: #fff">News&nbsp;<span class="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>		<!--  class="current" -->
 <div class="sub" style="left:0">
@@ -234,7 +263,7 @@ $('#topnavlinks').attr('class', 'topnavlinks');
 <li><a href="http://www.tennisearth.com/news/tennisLatestNews.htm">Latest News</a></li>
 <li><a href="http://www.tennisearth.com/news/tennisMostReadNews.htm">Most Read News</a></li>
 <li><a href="http://www.tennisearth.com/news/tennisLatestNews.htm?newsType=StaticFeature">Showcase</a></li>
-<li><a href="http://www.tennisearth.com/quote/quote.htm">Quotes</a></li>
+<li style="border-bottom:none"><a href="http://www.tennisearth.com/quote/quote.htm">Quotes</a></li>
 </ul>
 </div>
 </li>
@@ -244,7 +273,10 @@ $('#topnavlinks').attr('class', 'topnavlinks');
 <ul id="commentary_sub">
 <li><a href="http://www.tennisearth.com/liveCommentary/liveMatch.htm">Latest</a></li>
 <li><a href="http://www.tennisearth.com/liveCommentary/allMatches.htm">Recent</a></li>
-<li><a href="http://www.tennisearth.com/tournament/Mutua-Madrilena-Madrid-Open-74.htm">Madrid</a></li>
+<li><a href="http://www.tennisearth.com/tournament/BGL-Luxembourg-Open-47.htm">Luxembourg</a></li>
+<li><a href="http://www.tennisearth.com/tournament/Kremlin-Cup-65.htm">Moscow</a></li>
+<li><a href="http://www.tennisearth.com/tournament/If-Stockholm-Open--58.htm">Stockholm</a></li>
+<li style="border-bottom:none"><a href="http://www.tennisearth.com/tournament/Erste-Bank-Open-11.htm">Vienna</a></li>
 </ul>
 </div>
 </li>
@@ -257,8 +289,27 @@ $('#topnavlinks').attr('class', 'topnavlinks');
 <li><a href="http://www.tennisearth.com/liveScores/todaysLiveMatches.htm">Live</a></li>
 <li><a href="http://www.tennisearth.com/liveScores/todaysScheduledMatches.htm">Scheduled</a></li>
 <li><a href="http://www.tennisearth.com/liveScores/todaysFinishedMatches.htm">Finished</a></li>
-<li><a href="http://www.tennisearth.com/tournaments/eventCalendar.htm">Calendar</a></li>
-<li><a href="http://www.tennisearth.com/tournament/Mutua-Madrilena-Madrid-Open-74.htm">Madrid</a></li>
+<li><a href="http://www.tennisearth.com/tournaments/eventCalendar.htm">Event Calendar</a></li>
+
+<li><a href="http://www.tennisearth.com/tournament/BGL-Luxembourg-Open-47.htm">Luxembourg</a></li>
+<li><a href="http://www.tennisearth.com/tournament/Kremlin-Cup-65.htm">Moscow</a></li>
+<li><a href="http://www.tennisearth.com/tournament/If-Stockholm-Open--58.htm">Stockholm</a></li>
+<li style="border-bottom:none"><a href="http://www.tennisearth.com/tournament/Erste-Bank-Open-11.htm">Vienna</a></li>
+</ul>
+</div>
+</li>
+
+<li id="tms">
+<a href="http://www.tennisearth.com/tournaments/eventCalendar.htm" style="color: #fff">Tournaments&nbsp;
+<span class="menudropArrow">&nbsp;&nbsp;&nbsp;</span>
+</a>
+<div class="sub" style="left:0"> 
+<ul id="tms_sub">
+<li><a href="http://www.tennisearth.com/tournaments/eventCalendar.htm">Event Calendar</a></li>
+<li><a href="http://www.tennisearth.com/tms/myTournaments.htm">My Tournaments</a></li>
+<li><a href="http://www.tennisearth.com/tms/findTournaments.htm">Find a Tournament</a></li>
+<li><a href="http://www.tennisearth.com/tms/createTournament.htm">Create a Tournament</a></li>
+<li><a href="http://www.tennisearth.com/tms/home.htm">About TMS</a></li>
 </ul>
 </div>
 </li>
@@ -269,6 +320,7 @@ $('#topnavlinks').attr('class', 'topnavlinks');
 <li><a href="http://www.tennisearth.com/clubs/myClubs.htm">My Clubs</a></li>
 <li><a href="http://www.tennisearth.com/clubs/search.htm">Search a club</a></li>
 <li><a href="http://www.tennisearth.com/clubs/suggest.htm">Create a club</a></li>
+<li><a href="http://www.tennisearth.com/clubDirectory/tennis-courts-World.htm">Club Directory</a></li>
 <li><a href="http://www.tennisearth.com/clubs/booking/tennis-court-booking-system.htm">Booking System</a></li>
 </ul>
 </div>
@@ -283,7 +335,7 @@ $('#topnavlinks').attr('class', 'topnavlinks');
 <li><a href="http://www.tennisearth.com/player/N.Djokovic">Novak Djokovic</a></li>
 <li><a href="http://www.tennisearth.com/player/R.Federer">Roger Federer</a></li>
 <li><a href="http://www.tennisearth.com/player/R.Nadal">Rafael Nadal</a></li>
-<li><a href="http://www.tennisearth.com/player/search.htm">Search for a Hitting Partner</a></li>
+<li style="border-bottom:none"><a href="http://www.tennisearth.com/player/search.htm">Search for a Hitting Partner</a></li>
 </ul>
 </div>
 </li>
@@ -295,18 +347,25 @@ $('#topnavlinks').attr('class', 'topnavlinks');
 <li><a href="http://www.tennisearth.com/teforum/forums/list.htm">Forum</a></li>
 <li><a href="http://www.tennisearth.com/games/gamesList.htm">Games</a></li>
 <li><a href="http://www.tennisearth.com/instructions/tennisGuideBook.htm">Learn Tennis</a></li>
+<li><a href="http://www.tennisearth.com/tennisQuiz.htm">US Open Quiz</a></li>
 </ul>
 </div>
 </li>
-<li id="jumpto">
-<a style="color: #fff;cursor: pointer;">Jump To&nbsp;<span class="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
-<div class="sub" style="left:0"> 
-<ul id="jumpto_sub">
-<li><a href="http://www.tennisearth.com/liveScores/todaysLiveMatches.htm">Live Scores</a></li>
-<li><a href="http://www.tennisearth.com/teExchange/howTo.htm" id="jumpToTexLink">Tennis Exchange</a></li>
-<li><a href="http://www.tennisearth.com/teratings/leaderBoard.htm">TennisEarth Ratings</a></li>
-<li><a href="http://www.tennisearth.com/clubs/booking/tennis-court-booking-system.htm">Court Booking System</a></li>
-</ul>
+<script type="text/javascript"><!--
+if(screen.width >= 1200) {							
+document.write('<li id="jumpto">');
+document.write('<a href="javascript:void(0);" style="color: #fff;">Jump To&nbsp;<span class="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>');
+document.write('<div class="sub" style="left:0">');
+document.write('<ul id="jumpto_sub">');
+document.write('<li><a href="http://www.tennisearth.com/liveScores/todaysLiveMatches.htm">Live Scores</a></li>');
+document.write('<li><a href="http://www.tennisearth.com/teExchange/howTo.htm" id="jumpToTexLink">Tennis Exchange</a></li>');
+document.write('<li><a href="http://www.tennisearth.com/teratings/leaderBoard.htm">TennisEarth Ratings</a></li>');
+document.write('<li style="border-bottom:none"><a href="http://www.tennisearth.com/clubs/booking/tennis-court-booking-system.htm">Court Booking System</a></li>');
+document.write('</ul>');
+document.write('</div>');
+document.write('</li>')
+} 
+// --></script>
 <script type="text/javascript"><!--
 if(readCookie('texVisit')) {
 $('#teExchangeNavLink').attr('href', 'http://www.tennisearth.com/teExchange/getStocks.htm'); 
@@ -314,16 +373,15 @@ $('#leftTexLink').attr('href', 'http://www.tennisearth.com/teExchange/getStocks.
 $('#jumpToTexLink').attr('href', 'http://www.tennisearth.com/teExchange/getStocks.htm');
 }
 // --></script>
-</div>
-</li>
 <script type="text/javascript"><!--
 if(screen.width >= 1200) {
-document.write('<li id="indianTennisLeague"><a href="http://www.tennisearth.com/IndianTennisLeague/tournament.htm" style="color: #fff;cursor: pointer;">Indian Tennis League<span style="position:absolute;left:150px"><img src="/images_new/new.png" border="0" /></span>&nbsp;&nbsp;&nbsp;&nbsp;</a></li>'); 
+//document.write('<li id="indianTennisLeague"><a href="http://www.tennisearth.com/IndianTennisLeague/tournament.htm" style="color: #fff;cursor: pointer;">Indian Tennis League<span style="position:absolute;left:150px"><img src="/images_new/new.png" border="0" /></span>&nbsp;&nbsp;&nbsp;&nbsp;</a></li>'); 
+document.write('<li id="courtBooking"><a href="http://www.tennisearth.com/clubs/court-booking-system.html" style="color: #fff;cursor: pointer;">Court Booking</a></li>'); 
 } 
 // --></script>
-<li id="myaccount" style="float:right">
+<li id="myaccount" style="float:right;border-right:none">
 
-<a href="javascript:void(0)" style="color: #fff" class="requireLogin myAccount tooltip sub1"><span class="userico tooltip" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Login / Register</a>
+<a href="" style="color: #fff" class="requireLogin myAccount tooltip sub1"><span class="userico tooltip" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Login / Register</a>
 </li>
 </ul>
 
@@ -346,13 +404,13 @@ $('ul#topnav li').hoverIntent(config);
 <ul id="quicklinks">
 <li class="quickltitle"><strong>QUICK LINKS - </strong></li>
 <li class="QLseries">
-&nbsp;<a href="http://www.tennisearth.com/tournament/Mutua-Madrilena-Madrid-Open-74.htm" class="QLseries tooltip" title="Madrid Open">Madrid Open</a> 
+&nbsp;<a href="http://www.tennisearth.com/news/tennisNews/Rafael-Nadal-Moments-that-made-him-King-633737.htm" class="QLseries tooltip" title="Rafael Nadal: Moments that made him King">Rafael Nadal: Moments that made him King</a> 
  |</li>
 <li class="QLseries">
-&nbsp;<a href="http://www.tennisearth.com/news/tennisNews/Nadal-The-Knight-of-Paris-589494.htm" class="QLseries tooltip" title="Nadal: The Knight of Paris">Nadal: The Knight of Paris</a> 
+&nbsp;<a href="http://www.tennisearth.com/news/tennisNews/Uncle-Toni-Federer-better-than-Nadal-but-ATP-favours-Federer-691158.htm" class="QLseries tooltip" title="ATP favours Federer: says Tony Nadal">ATP favours Federer: says Tony Nadal</a> 
  |</li>
 <li class="QLseries">
-&nbsp;<a href="http://www.tennisearth.com/news/tennisNews/Journey-into-Blue-Clay-Mutua-Madrid-Masters-2012-271771.htm" class="QLseries tooltip" title="Madrid Open Journey : Hard-courts till Blue Clay">Madrid Open Journey : Hard-courts till Blue Clay</a> 
+&nbsp;<a href="http://www.tennisearth.com/news/tennisNews/Roger-Federer-receives-death-threats-at-the-Shanghai-Masters-Security-tightened-548199.htm" class="QLseries tooltip" title="Federer receives death threats">Federer receives death threats</a> 
 </li>
 </ul>
 </div>
@@ -417,6 +475,27 @@ checkBrowserCSS();
 <script type="text/javascript"><!--
 showUserLoggedIn(15, '', '');
 // --></script>
+<div id="clubAlertContainerDiv" style="display:none"> 
+</div>
+
+<script type="text/javascript">
+var getC =     readCookie('TE_CLUB_VISIT_COUNT');  ; 
+if(!getC){
+$.get('/widgets/indexClubSuggestion.htm?limit=10&searchId=2', function(data) {
+$('#clubAlertContainerDiv').html(data);
+}); 
+thickbox('', '#TB_inline?height=300&width=300&inlineId=clubAlertContainerDiv');
+
+var expTime = 2880;
+setCookieVal('TE_CLUB_VISIT_COUNT',true, expTime);
+}
+
+//</script>
+
+
+
+
+
 <div id="ciHomeContent1240">
 <script type="text/javascript"><!--
 if(screen.width <= 1200 || '' == 'false') {
@@ -556,16 +635,17 @@ div.html(data);
 <div class="newsbox">
 <div style="width:290px;padding:5px">
 <ul class="bullet-link-list" style="float:left;width:285px;">
-<li><a href="http://www.tennisearth.com/news/tennisNews/Juan-Martin-Del-Potro-vs-Marin-Cilic-2012-Mutua-Madrid-Masters-Match-Preview-340079.htm">Juan Martin Del Potro vs Marin Cilic : 2012 Mutua Madrid Masters Match Preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Maria-Sharapova-vs-Lucie-Safarova-2012-Mutua-Madrid-Masters-Preview-660967.htm">Maria Sharapova vs Lucie Safarova: 2012 Mutua Madrid Masters Preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Serena-Williams-vs-Caroline-Wozniacki-2012-Madrid-Open-match-preview-245468.htm">Serena Williams vs. Caroline Wozniacki: 2012 Madrid Open match preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Federer-battles-past-Raonic-in-the-second-round-of-Madrid-open-328396.htm">Federer battles past Raonic in the second round of Madrid open</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Azarenka-edges-Ivanovic-to-reach-Madrid-quarters-170743.htm">Azarenka edges Ivanovic to reach Madrid quarters</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Roger-Federer-vs-Milos-Raonic-2012-Mutua-Madrid-Open-Match-Preview-601150.htm">Roger Federer vs Milos Raonic: 2012 Mutua Madrid Open Match Preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Nadal-dispatches-Davydenko-at-Madrid-Open-321328.htm">Nadal dispatches Davydenko at Madrid Open</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Marion-Bartoli-vs-Sofia-Arvidsson-2012-Kremlin-Cup-match-preview-80967.htm">Marion Bartoli vs. Sofia Arvidsson: 2012 Kremlin Cup match preview</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Somdev-Devvarman-vs-Ernests-Gulbis-Vienna-Open-Match-Preview-776786.htm">Somdev Devvarman vs Ernests Gulbis: Vienna Open Match Preview</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Bogomolov-knocks-out-Davydenko-in-Moscow-670470.htm">Bogomolov knocks out Davydenko in Moscow</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Daniela-Hantuchova-vs-Aranxta-Rus-2012-Luxembourg-Open-match-preview-634339.htm">Daniela Hantuchova vs. Aranxta Rus: 2012 Luxembourg Open match preview</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Patrik-Rosenholm-stuns-Monfils-in-Stockholm-166814.htm">Patrik Rosenholm stuns Monfils in Stockholm</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Nadal-on-the-road-to-recovery-plans-a-return-at-the-Aussie-Open-816910.htm">Nadal on the road to recovery, plans a return at the Aussie Open</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Nadal-Congratulations-on-your-300-weeks-Roger!-172512.htm">Nadal: Congratulations on your 300 weeks Roger!</a></li>
 </ul>
 </div>
 </div>
+
 </div>
 </div>
 <div id="fragment-newsHomeFeatured">
@@ -584,16 +664,17 @@ div.html(data);
 <div class="newsbox">
 <div style="width:290px;padding:5px">
 <ul class="bullet-link-list" style="float:left;width:285px;">
-<li><a href="http://www.tennisearth.com/news/tennisNews/Juan-Martin-Del-Potro-vs-Marin-Cilic-2012-Mutua-Madrid-Masters-Match-Preview-340079.htm">Juan Martin Del Potro vs Marin Cilic : 2012 Mutua Madrid Masters Match Preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Maria-Sharapova-vs-Lucie-Safarova-2012-Mutua-Madrid-Masters-Preview-660967.htm">Maria Sharapova vs Lucie Safarova: 2012 Mutua Madrid Masters Preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Serena-Williams-vs-Caroline-Wozniacki-2012-Madrid-Open-match-preview-245468.htm">Serena Williams vs. Caroline Wozniacki: 2012 Madrid Open match preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Federer-battles-past-Raonic-in-the-second-round-of-Madrid-open-328396.htm">Federer battles past Raonic in the second round of Madrid open</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Azarenka-edges-Ivanovic-to-reach-Madrid-quarters-170743.htm">Azarenka edges Ivanovic to reach Madrid quarters</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Roger-Federer-vs-Milos-Raonic-2012-Mutua-Madrid-Open-Match-Preview-601150.htm">Roger Federer vs Milos Raonic: 2012 Mutua Madrid Open Match Preview</a></li>
-<li><a href="http://www.tennisearth.com/news/tennisNews/Nadal-dispatches-Davydenko-at-Madrid-Open-321328.htm">Nadal dispatches Davydenko at Madrid Open</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Marion-Bartoli-vs-Sofia-Arvidsson-2012-Kremlin-Cup-match-preview-80967.htm">Marion Bartoli vs. Sofia Arvidsson: 2012 Kremlin Cup match preview</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Somdev-Devvarman-vs-Ernests-Gulbis-Vienna-Open-Match-Preview-776786.htm">Somdev Devvarman vs Ernests Gulbis: Vienna Open Match Preview</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Bogomolov-knocks-out-Davydenko-in-Moscow-670470.htm">Bogomolov knocks out Davydenko in Moscow</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Daniela-Hantuchova-vs-Aranxta-Rus-2012-Luxembourg-Open-match-preview-634339.htm">Daniela Hantuchova vs. Aranxta Rus: 2012 Luxembourg Open match preview</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Patrik-Rosenholm-stuns-Monfils-in-Stockholm-166814.htm">Patrik Rosenholm stuns Monfils in Stockholm</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Nadal-on-the-road-to-recovery-plans-a-return-at-the-Aussie-Open-816910.htm">Nadal on the road to recovery, plans a return at the Aussie Open</a></li>
+<li><a href="http://www.tennisearth.com/news/tennisNews/Nadal-Congratulations-on-your-300-weeks-Roger!-172512.htm">Nadal: Congratulations on your 300 weeks Roger!</a></li>
 </ul>
 </div>
 </div>
+
 </div>
 </div>
 </div>
@@ -612,7 +693,7 @@ var defaultTab = 'commentary';
 var tabs = '';
 // --></script>
 <div class="pnl320M" style="height:300px;position:relative;">
-<div style="FLOAT: left; WIDTH: 307px; padding-left: 5px; padding-right: 5px;">
+<div style="FLOAT: left; WIDTH: 290px; padding-left: 5px; padding-right: 5px;">
 <div style="FLOAT: left; WIDTH: 205px; _width: 205px;">
 <h1 class="ciGblSectionHead"><a class="ciGblSectionHead" href="http://www.tennisearth.com/liveCommentary/liveMatches.htm">Commentary</a></h1>
 </div>
@@ -628,7 +709,7 @@ $(document).focus(function() {
 refreshTimeCommentaryWidget = 30000;
 });
 $(document).blur(function() {
-refreshTimeCommentaryWidget = 60000;
+refreshTimeCommentaryWidget = 30000;
 });
 
 var refreshTimeCommentaryWidget = 30000;
@@ -642,7 +723,7 @@ setTimeout(function() {refreshCommentaryWidget();}, refreshTimeCommentaryWidget)
 }
 
 function getCommentaryWidgetData() {
-$.get('/widgets/commentary.htm?widgetType=&tid=&noteFlagType=0,4&publicWidgetType='+isPublicWidget, function(data) {			
+$.get('/widgets/commentary.htm?widgetType=&tid=&noteFlagType=0,1,3,4&publicWidgetType='+isPublicWidget, function(data) {			
 $('#commentaryContainer').html(data);
 });
 }
@@ -667,7 +748,7 @@ setTimeout(function() {refreshCommentaryWidget();}, refreshTimeCommentaryWidget)
 <table cellspacing="0" cellpadding="1" width="99%" border="0">
 <tbody>
 <tr class="trnorm">
-<td colspan="9" class="tdnorm3"><a href="http://www.tennisearth.com/commentary/Mutua-Madrilena-Madrid-Open_Women-Singles_R16_Wozniacki_Serena_327567.htm" class="tooltip" title="Mutua Madrilena Madrid .., Women SinglesR16">Mutua Madrilena Madrid .., Women Singles&nbsp; R16</a>
+<td colspan="9" class="tdnorm3"><a href="http://www.tennisearth.com/commentary/BGL-Luxembourg-Open_Women-Singles_R32_Rus_Hantuchova_332902.htm" class="tooltip" title="BGL Luxembourg Open, Women SinglesR32">BGL Luxembourg Open, Women Singles&nbsp; R32</a>
 </td>
 </tr>
 <tr>
@@ -675,63 +756,68 @@ setTimeout(function() {refreshCommentaryWidget();}, refreshTimeCommentaryWidget)
 </tr>
 <tr class="trnorm">
 <td width="8%" rowspan="2" class="tdnorm2">
-<div class="center">10:50<br>R16</div>
+<div class="center">10:00<br>R32</div>
 </td>
 <td width="45%" class="tdnormplayer">
-<font class="green"><a href="http://www.tennisearth.com/player/C.Wozniacki" title="Caroline Wozniacki" class="tooltip">
-Carolin..
-
-(DEN)</a></font>
-<span id="unsubscribed_Player_C.Wozniacki_53448" style="display:none;">
-&nbsp;<a class="ciFollowLink tooltip" style="cursor:pointer;text-decoration:none;" title="Follow C.Wozniacki" id="entity_C.Wozniacki_Player_964846"><span class="ciFollow">&nbsp;</span></a>
+<font class="green"><a href="http://www.tennisearth.com/player/A.Rus" title="Arantxa Rus" class="tooltip">
+Arantxa Rus
+(NED)</a></font>
+<span id="unsubscribed_Player_A.Rus_922018" style="display:none;">
+&nbsp;<a class="ciFollowLink tooltip" style="cursor:pointer;text-decoration:none;" title="Follow A.Rus" id="entity_A.Rus_Player_248499"><span class="ciFollow">&nbsp;</span></a>
 </span>
-<span id="subscribed_Player_C.Wozniacki_53448" style="display:none;">
-&nbsp;<a class="ciFollowingLink tooltip" style="cursor:pointer;text-decoration:none;" title="Unfollow C.Wozniacki"><span class="ciFollowing">&nbsp;</span></a>
-</span>
-<script type="text/javascript"><!--
-alertId = alertPlayers['C.Wozniacki'];
-if(alertId) {
-$('span[id="subscribed_Player_C.Wozniacki_53448"]').children('a').attr('id', 'alert_' + alertId + '_423976').end().show();
-$('span[id="unsubscribed_Player_C.Wozniacki_53448"]').hide();
-} else {
-$('span[id="subscribed_Player_C.Wozniacki_53448"]').hide();
-$('span[id="unsubscribed_Player_C.Wozniacki_53448"]').show();
-}
-// --></script>
-</td>
-
-<td width="6%" class="tdnorm2">
-<span style="font-weight:normal;">0</span></td>
-<td width="8%" class="tdnorm4commn">
-
-<font class="green"> 40</font>
-</td></tr>
-<tr class="trnorm">
-<td class="tdnormplayer">
-<font class="green"><a href="http://www.tennisearth.com/player/S.Williams">Serena Williams (USA)</a></font>
-<span id="unsubscribed_Player_S.Williams_927787" style="display:none;">
-&nbsp;<a class="ciFollowLink tooltip" style="cursor:pointer;text-decoration:none;" title="Follow S.Williams" id="entity_S.Williams_Player_558070"><span class="ciFollow">&nbsp;</span></a>
-</span>
-<span id="subscribed_Player_S.Williams_927787" style="display:none;">
-&nbsp;<a class="ciFollowingLink tooltip" style="cursor:pointer;text-decoration:none;" title="Unfollow S.Williams"><span class="ciFollowing">&nbsp;</span></a>
+<span id="subscribed_Player_A.Rus_922018" style="display:none;">
+&nbsp;<a class="ciFollowingLink tooltip" style="cursor:pointer;text-decoration:none;" title="Unfollow A.Rus"><span class="ciFollowing">&nbsp;</span></a>
 </span>
 <script type="text/javascript"><!--
-alertId = alertPlayers['S.Williams'];
+alertId = alertPlayers['A.Rus'];
 if(alertId) {
-$('span[id="subscribed_Player_S.Williams_927787"]').children('a').attr('id', 'alert_' + alertId + '_523720').end().show();
-$('span[id="unsubscribed_Player_S.Williams_927787"]').hide();
+$('span[id="subscribed_Player_A.Rus_922018"]').children('a').attr('id', 'alert_' + alertId + '_273915').end().show();
+$('span[id="unsubscribed_Player_A.Rus_922018"]').hide();
 } else {
-$('span[id="subscribed_Player_S.Williams_927787"]').hide();
-$('span[id="unsubscribed_Player_S.Williams_927787"]').show();
+$('span[id="subscribed_Player_A.Rus_922018"]').hide();
+$('span[id="unsubscribed_Player_A.Rus_922018"]').show();
 }
 // --></script>
 
 &nbsp;<font class="green"><img src="http://cdn.tennisearth.com/images_new/ball_icon.gif" alt="Serve" width="10" height="10"></font>
 </td>
+
 <td width="6%" class="tdnorm2">
-<span style="font-weight:normal;">0</span></td>
-<td width="8%" class="tdnorm4commn">
+<span style="font-weight:normal;">1</span></td>
+<td width="6%" class="tdnorm2">
+<b>6<span class="supscript"></span></b></td><td width="6%" class="tdnorm2">
+<span style="font-weight:normal;">4<span class="supscript"></span></span></td><td width="6%" class="tdnorm2">
+<span style="font-weight:normal;">1<span class="supscript"></span></span></td><td width="8%" class="tdnorm4commn">
+
 <font class="green"> 15</font>
+</td></tr>
+<tr class="trnorm">
+<td class="tdnormplayer">
+<font class="green"><a href="http://www.tennisearth.com/player/D.Hantuchova">Daniela Hantuchova (SVK)</a></font>
+<span id="unsubscribed_Player_D.Hantuchova_105808" style="display:none;">
+&nbsp;<a class="ciFollowLink tooltip" style="cursor:pointer;text-decoration:none;" title="Follow D.Hantuchova" id="entity_D.Hantuchova_Player_923662"><span class="ciFollow">&nbsp;</span></a>
+</span>
+<span id="subscribed_Player_D.Hantuchova_105808" style="display:none;">
+&nbsp;<a class="ciFollowingLink tooltip" style="cursor:pointer;text-decoration:none;" title="Unfollow D.Hantuchova"><span class="ciFollowing">&nbsp;</span></a>
+</span>
+<script type="text/javascript"><!--
+alertId = alertPlayers['D.Hantuchova'];
+if(alertId) {
+$('span[id="subscribed_Player_D.Hantuchova_105808"]').children('a').attr('id', 'alert_' + alertId + '_416281').end().show();
+$('span[id="unsubscribed_Player_D.Hantuchova_105808"]').hide();
+} else {
+$('span[id="subscribed_Player_D.Hantuchova_105808"]').hide();
+$('span[id="unsubscribed_Player_D.Hantuchova_105808"]').show();
+}
+// --></script>
+</td>
+<td width="6%" class="tdnorm2">
+<span style="font-weight:normal;">1</span></td>
+<td width="6%" class="tdnorm2">
+<span style="font-weight:normal;">3<span class="supscript"></span></span></td><td width="6%" class="tdnorm2">
+<b>6<span class="supscript"></span></b></td><td width="6%" class="tdnorm2">
+<b>4<span class="supscript"></span></b></td><td width="8%" class="tdnorm4commn">
+<font class="green"> 0</font>
 </td></tr>
 <tr>
 <td colspan="9" style="border-bottom: 1px dotted #c6c6c6; height: 1px;"></td>
@@ -742,38 +828,39 @@ $('span[id="unsubscribed_Player_S.Williams_927787"]').show();
 <tbody>
 <tr> 
 <td width="10%" valign="top" class="tdnorm3commntd">
-15-40 &nbsp;
+15-0 &nbsp;
 </td>
 <td width="93%" class="tdnorm6commn">
-IN, Winner: Wozniacki!!!  Williams goes for a out-wide serve, Wozniacki delivers a backhand return, huge rally, Serena cross-court forehand finds the net in the middle.</td>
+IN, Winner: Rus!!!  Slice serve, Hantuchova fails to put it back.</td>
+</tr> 
+<tr class="tdnorm5commng">
+<td width="93%" class="tdnorm5commng" colspan="2">											
+<div id="commentary1" style="padding-left:2px;"></div>
+<script type="text/javascript"><!--
+$('#commentary1').html(removeImgTag('<p> <p>A defiant hold for the Slovakian and now she is just two games away from winning this duel.&nbsp; Rus tries to come hard at&nbsp; Hantuchova, but she serves well under pressure and reels off an important service game.&nbsp;</p></p>'));
+// --></script>
+</td>
+</tr>
+<tr>
+<td class="tdnorm5commng" colspan="2">
+Rus - Hantuchova&nbsp;&nbsp;&nbsp;
+6 - 3&nbsp;&nbsp;&nbsp;
+4 - 6&nbsp;&nbsp;&nbsp;
+1 - 4&nbsp;&nbsp;&nbsp;
+<br>Served By: <b>D Hantuchova</b>      Won By: <b>Hantuchova</b> </td>
+</tr>
+<tr> 
+<td width="10%" valign="top" class="tdnorm3commntd">
+Game</td>
+<td width="93%" class="tdnorm6commn">
+IN, Winner: Hantuchova!!!  Fine serve, Rus is unable to return it.</td>
 </tr> 
 <tr> 
 <td width="10%" valign="top" class="tdnorm3commntd">
- &nbsp;
+A-40 &nbsp;
 </td>
 <td width="93%" class="tdnorm6commn">
-Fault.  First Fault.</td>
-</tr> 
-<tr> 
-<td width="10%" valign="top" class="tdnorm3commntd">
-15-30 &nbsp;
-</td>
-<td width="93%" class="tdnorm6commn">
-IN, Winner: Wozniacki!!!  Good serve in the middle, Wozniacki returns a quick backhand return, rally Serena cross-court forehand fails to land inside the court.</td>
-</tr> 
-<tr> 
-<td width="10%" valign="top" class="tdnorm3commntd">
-15-15 &nbsp;
-</td>
-<td width="93%" class="tdnorm6commn">
-IN, Winner: Serena!!!  Out-wide serve, Wozniacki return flies outside the court.</td>
-</tr> 
-<tr> 
-<td width="10%" valign="top" class="tdnorm3commntd">
- &nbsp;
-</td>
-<td width="93%" class="tdnorm6commn">
-Fault.  First Fault.</td>
+IN, Winner: Hantuchova!!!  Quick out-wide serve, Rus return goes wayward.</td>
 </tr> 
 </tbody>
 </table>
@@ -787,14 +874,15 @@ Fault.  First Fault.</td>
 </div>
 <div class="fixedFooter">
 
-&nbsp;&nbsp;<a href="http://www.tennisearth.com/commentary/Mutua-Madrilena-Madrid-Open_Women-Singles_R16_Wozniacki_Serena_327567.htm" id="fullCommLink" class="ciSectionFooterlink">Full Match
-»</a> | <a href="http://www.tennisearth.com/liveCommentary/allMatches.htm" class="ciSectionFooterlink">Other Match Commentaries »</a>
-<span class="widgetfooterPlus"> 
-<a href="http://www.tennisearth.com/publicWidgets/addTennisWidgets.htm?allTabs=&amp;defaultTab=commentary" target="_blank" class="plusIcon_commentary" style="text-decoration:none;"><span class="plusico tooltip" style="font-size: 12px; padding: none; text-align: left; width: 5px" title="Click to add to your web page">&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+&nbsp;&nbsp;<a href="http://www.tennisearth.com/commentary/BGL-Luxembourg-Open_Women-Singles_R32_Rus_Hantuchova_332902.htm" id="fullCommLink" class="ciSectionFooterlink">Full Match Commentary
+»</a><span class="widgetfooterPlus"> 
+<a href="http://www.tennisearth.com/publicWidgets/addTennisWidgets.htm?allTabs=&amp;defaultTab=commentary" target="_blank" class="plusIcon_commentary" style="text-decoration:none;">
+<span class="tooltip" style="font-size: 11px; padding: none; text-align: left; width: 5px" title="Click to add to your web page">Add Me +</span>
+</a>
 </span>
 </div>
 <script type="text/javascript"><!--
-$('#fullCommLink').attr('href', 'http://www.tennisearth.com/commentary/Mutua-Madrilena-Madrid-Open_Women-Singles_R16_Wozniacki_Serena_327567.htm');
+$('#fullCommLink').attr('href', 'http://www.tennisearth.com/commentary/BGL-Luxembourg-Open_Women-Singles_R32_Rus_Hantuchova_332902.htm');
 // --></script>
 </div>
 <div>
@@ -807,54 +895,24 @@ $('.container-1').tabs();
 
 </div>
 
-<div id="pollDiv" class="ciHomeNewsPhotos" style="float:left">
-<div class="pnl320M" style="text-align: center; height: auto; background:#dcd8d1;">
-<div id="pollContainer">
-<script type="text/javascript">
-<!--
-var defaultSelectedOption = null;
-//-->
-</script>
-<script type="text/javascript"><!--
-$('#pollDiv').remove();
-// --></script>
-</div>
-</div>
-</div>
-
-<div class="ciHomeNewsPhotos" style="float:left">
-<div class="pnl320M" style="text-align: center; height:290px;padding:5px 0;">
-<div id="flashElement">
-<br><strong><u>Adobe Flash Plug-in Needed</u></strong>
-<br><br>This website requires a Adobe Flash plug-in. Please download the latest version of the Flash plug-in by <a href="http://get.adobe.com/flashplayer/" target="_blank">clicking here</a>
-<br><br>
-</div>
-<script type="text/javascript"><!--
-swfobject.embedSWF('http://www.tennistv.com/ptvFlash/generic/dot_tv/generic_tv.swf', 'flashElement', '300', '292', '9', null,
-{'configPath' : 'http://www.tennistv.com/nameValue/nameValueXML/0,,~5207,00.xml', 'pid' : '11'},
-{'base' : 'http://www.tennistv.com/ptvFlash/generic/dot_tv/', 'allowScriptAccess' : 'sameDomain', 'allowFullScreen' : 'true', 'bgcolor' : '#FFFFFF', 'wmode' : 'transparent'},
-{'id' : 'tennis'});
-/*var so = new SWFObject('http://www.tennistv.com/ptvFlash/generic/dot_tv/generic_tv.swf', 'tennis', '300', '292', '9', '#FFFFFF');
-so.addParam('base', 'http://www.tennistv.com/ptvFlash/generic/dot_tv/');
-so.addParam('allowScriptAccess', 'sameDomain');
-so.addParam('allowFullScreen', 'true');
-so.addVariable('configPath', 'http://www.tennistv.com/nameValue/nameValueXML/0,,~5207,00.xml');
-so.addVariable('pid', '11');
-so.write('flashElement');*/
-// --></script>
-</div>
-</div>
-
 </div>
 <script type="text/javascript"><!--
 if(screen.width <= 1200) {
 $('#ciHomeContentcenter1240').remove();
 }
 // --></script>
+<div id="ciHomeContentrhs1240" style="margin:-36px 0 0">
+<script type="text/javascript"><!--
+if(screen.width > 1200 || '' == 'false') {
+$('#ciHomeContentrhs1240').css("margin", "0");
+}
+// --></script>
+<script type="text/javascript"><!--
+if(screen.width <= 1200 || '' == 'false') {
+$('#ciHomeContentrhs1240').css("margin", "0");
+}
+// --></script>
 
-<div id="ciHomeContentrhs1240">
-<div class="ciHomeNewsPhotos">
-<div class="pnl320M" style="text-align: center; height: auto;border:0">
 <style>
 .num_cols_5{width:100%;}
 </style>
@@ -869,6 +927,7 @@ showExternalLoginBox  = false;
 <style type="text/css">
 .accordionContent{display:none;}
 </style>
+<div class="pnl320M" style="text-align: center; height: auto;border:0" id="registerDiv">
 <div id="accordion" style="min-height:325px;height:auto;border:1px solid #ccc">
 <div onclick="setRegBoxType('te');accord('teReg');" class="head regAccord" style="text-align:left;height:30px;"><span class="accordText"><a href="#" style="color:#015fb0">Registration/Login</a></span></div>
 <div id="teReg" class="accordionContent" style="min-height:235px;margin-top:0;overflow-x:hidden">
@@ -1143,13 +1202,14 @@ createCookie('_REG_BOX_TYPE',typeName, null, null);
 $(function() {
 externalCalls(); // checkExternalLoginStatus();
 });
-
-
-
-
 // --></script>
 </div>
-</div>
+<script type="text/javascript"> 
+if(screen.width <= 1200) {		
+$('#registerDiv').hide();
+}
+
+</script>
 <div class="ciHomeNewsPhotos">
 <div class="pnl320M" style="height:189px;overflow:hidden; background-color:#fff">
 <div class="widgetcontainer">
@@ -1157,136 +1217,136 @@ externalCalls(); // checkExternalLoginStatus();
 <div class="effectContainer" style="height:189px;">
 <div class="slide r1" style="background:url(http://cdn.tennisearth.com/images_new/siteActivityBg2.jpg) no-repeat">
 <h1 class="ciGblSectionHead fl" style="color:#000">What's New!!</h1>
-<p class="fl" style="width:100%"><a href="http://www.tennisearth.com/player/candries" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="candries">
-<strong>candries</strong></a>
-<a href="http://www.tennisearth.com/news/tennisNews/LIVE-Lucie-Safarova-vs-Maria-Sharapova-Madrid-2012-R16-50069.htm" style="color:#000"> 
+<p class="fl" style="width:100%"><a href="http://www.tennisearth.com/player/Nosheel" style="color:#000">
+<img src="http://cdn.tennisearth.com/photos/user/Nosheel/profile/2012-01-04-15-11-32.jpeg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Nosheel">
+<strong>Nosheel</strong></a>
+<a href="http://www.tennisearth.com/news/tennisNews/Sorana-Cirstea-vs-Petra-Martic-2012-Carlsbad-Open-match-preview-545570.htm" style="color:#000"> 
 
-commented on <b>LIVE Lucie Safarova vs Maria S.. : This match was scheduled for t..</b></a></p>
-<p class="fl" style="width:100%"><a href="http://www.tennisearth.com/player/witt9955" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="witt9955">
-<strong>witt9955</strong></a>
-<a href="http://www.tennisearth.com/news/tennisNews/Serena-Williams-vs-Caroline-Wozniacki-2012-Madrid-Open-match-preview-245468.htm" style="color:#000"> 
+commented on <b>Sorana Cirstea vs. Petra Marti.. : Great win for the world's seco..</b></a></p>
+<p class="fl" style="width:100%"><a href="http://www.tennisearth.com/player/Nosheel" style="color:#000">
+<img src="http://cdn.tennisearth.com/photos/user/Nosheel/profile/2012-01-04-15-11-32.jpeg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Nosheel">
+<strong>Nosheel</strong></a>
+<a href="http://www.tennisearth.com/news/tennisNews/Jelena-Jankovic-vs-Shuai-Peng-2012-Luxembourg-Open-match-Preview-528931.htm" style="color:#000"> 
 
-commented on <b>Serena Williams vs. Caroline W.. : Guess this will go  to three s..</b></a></p>
-<p class="fl" style="width:100%"><a href="http://www.tennisearth.com/player/Dan__Essex" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Dan__Essex">
-<strong>Dan__Essex</strong></a>
-<a href="http://www.tennisearth.com/news/tennisNews/Roger-Federer-vs-Milos-Raonic-2012-Mutua-Madrid-Open-Match-Preview-601150.htm" style="color:#000"> 
+commented on <b>Jelena Jankovic vs. Shuai Peng.. : JJ got lucky!</b></a></p>
+<p class="fl" style="width:100%"><a href="http://www.tennisearth.com/player/Nosheel" style="color:#000">
+<img src="http://cdn.tennisearth.com/photos/user/Nosheel/profile/2012-01-04-15-11-32.jpeg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Nosheel">
+<strong>Nosheel</strong></a>
+<a href="http://www.tennisearth.com/news/tennisNews/Daniela-Hantuchova-vs-Aranxta-Rus-2012-Luxembourg-Open-match-preview-634339.htm" style="color:#000"> 
 
-commented on <b>Roger Federer vs Milos Raonic:.. : Sorry, but Federer had won Par..</b></a></p>
+commented on <b>Daniela Hantuchova vs. Aranxta.. : Dani will probably have a 6-0,..</b></a></p>
 </div>
 <div class="slide r2" style="background:url(http://cdn.tennisearth.com/images_new/siteActivityBg1.jpg) no-repeat">
 <h1 class="ciGblSectionHead fl" style="color:#000">What's New!!</h1>				
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/Sayuj.Sharma" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Sayuj&nbsp;Sharma">
-<strong>Sayuj&nbsp;Sharma</strong></a> updated his profile on  May 08, 2012</p>
+<a href="http://www.tennisearth.com/player/MatthewJohnson" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Matthew&nbsp;Johnson">
+<strong>Matthew&nbsp;Johnson</strong></a> updated his profile on  Oct 17, 2012</p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/IllaheHillsCC" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="IllaheHillsCC">
-<strong>IllaheHillsCC</strong></a> updated the profile on  May 07, 2012</p>
+<a href="http://www.tennisearth.com/player/RickyTan" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="RICKY&nbsp;TAN">
+<strong>RICKY&nbsp;TAN</strong></a> updated his profile on  Oct 17, 2012</p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/KJBleus10s" style="color:#000">
-<img src="http://cdn.tennisearth.com/photos/user/KJBleus10s/profile/2012-05-08-08-02-52.jpg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="KJBleus&nbsp;Parsons">
-<strong>KJBleus&nbsp;Parsons</strong></a> updated his profile on  May 07, 2012</p>
+<a href="http://www.tennisearth.com/player/MarkWhite" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Mark&nbsp;White">
+<strong>Mark&nbsp;White</strong></a> updated his profile on  Oct 17, 2012</p>
 </div>
 <div class="slide r3" style="background:url(http://cdn.tennisearth.com/images_new/siteActivityBg1.jpg) no-repeat">
 <h1 class="ciGblSectionHead fl" style="color:#000">What's New!!</h1>				
 <p class="fl" style="width:100%"> 
-<a href="http://www.tennisearth.com/player/Bilal.Federer" style="color:#000">
-<img src="http://graph.facebook.com/100001007495697/picture?type=large" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Bilal&nbsp;Federer">
-<strong>Bilal&nbsp;Federer</strong></a> updated his profile Picture on  May 09, 2012</p>
+<a href="http://www.tennisearth.com/player/dexter_skill" style="color:#000">
+<img src="http://graph.facebook.com/583248774/picture" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Kushal&nbsp;Sharma">
+<strong>Kushal&nbsp;Sharma</strong></a> updated his profile Picture on  Oct 17, 2012</p>
 <p class="fl" style="width:100%"> 
-<a href="http://www.tennisearth.com/player/Bilal.Federer" style="color:#000">
-<img src="http://graph.facebook.com/100001007495697/picture?type=large" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Bilal&nbsp;Federer">
-<strong>Bilal&nbsp;Federer</strong></a> updated his profile Picture on  May 09, 2012</p>
+<a href="http://www.tennisearth.com/player/Diljit.Chadha" style="color:#000">
+<img src="http://graph.facebook.com/100004300295048/picture" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Diljit&nbsp;Chadha">
+<strong>Diljit&nbsp;Chadha</strong></a> updated his profile Picture on  Oct 17, 2012</p>
 <p class="fl" style="width:100%"> 
-<a href="http://www.tennisearth.com/player/KJBleus10s" style="color:#000">
-<img src="http://cdn.tennisearth.com/photos/user/KJBleus10s/profile/2012-05-08-08-02-52.jpg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="KJBleus&nbsp;Parsons">
-<strong>KJBleus&nbsp;Parsons</strong></a> updated his profile Picture on  May 08, 2012</p>
+<a href="http://www.tennisearth.com/player/Saloni" style="color:#000">
+<img src="http://cdn.tennisearth.com/photos/user/Saloni/profile/2012-08-12-17-26-33.jpg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="saloni&nbsp;nigam">
+<strong>saloni&nbsp;nigam</strong></a> updated her profile Picture on  Oct 16, 2012</p>
 </div>
 <div class="slide r5" style="background:url(http://cdn.tennisearth.com/images_new/siteActivityBg1.jpg) no-repeat">
 <h1 class="ciGblSectionHead fl" style="color:#000">What's New!!</h1>									
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/Nosheel" style="color:#000">
-<img src="http://cdn.tennisearth.com/photos/user/Nosheel/profile/2012-01-04-15-11-32.jpeg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Nosheel">
-<strong>Nosheel</strong></a>
+<a href="http://www.tennisearth.com/player/mcooper3" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="mcooper3">
+<strong>mcooper3</strong></a>
 <a href="http://www.tennisearth.com/teExchange/getStocks.htm" style="color:#000">
-just bought 3&nbsp;Williams
-@ <span class="tollar-12"><del>t</del></span>2,509</a>
+just bought 2&nbsp;Hantuchova
+@ <span class="tollar-12"><del>t</del></span>1,899</a>
 </p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/fedexpro" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="fedexpro">
-<strong>fedexpro</strong></a>
+<a href="http://www.tennisearth.com/player/Blazej" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Blazej">
+<strong>Blazej</strong></a>
 <a href="http://www.tennisearth.com/teExchange/getStocks.htm" style="color:#000">
-just bought 1&nbsp;Federer
-@ <span class="tollar-12"><del>t</del></span>2,630</a>
+just bought 5&nbsp;Nieminen
+@ <span class="tollar-12"><del>t</del></span>1,930</a>
 </p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/fedexpro" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="fedexpro">
-<strong>fedexpro</strong></a>
+<a href="http://www.tennisearth.com/player/Blazej" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Blazej">
+<strong>Blazej</strong></a>
 <a href="http://www.tennisearth.com/teExchange/getStocks.htm" style="color:#000">
-just bought 1&nbsp;Bryan
-@ <span class="tollar-12"><del>t</del></span>2,451</a>
+just bought 5&nbsp;Gulbis
+@ <span class="tollar-12"><del>t</del></span>1,920</a>
 </p>
 </div>
 <div class="slide r6" style="background:url(http://cdn.tennisearth.com/images_new/siteActivityBg1.jpg) no-repeat">
 <h1 class="ciGblSectionHead fl" style="color:#000">What's New!!</h1>				
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/Nosheel" style="color:#000">
-<img src="http://cdn.tennisearth.com/photos/user/Nosheel/profile/2012-01-04-15-11-32.jpeg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Nosheel">
-<strong>Nosheel</strong></a>
+<a href="http://www.tennisearth.com/player/mcooper3" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="mcooper3">
+<strong>mcooper3</strong></a>
 <a href="http://www.tennisearth.com/teExchange/sellStocks.htm" style="color:#000">
-just sold 1&nbsp;Delpotro
-@ <span class="tollar-12"><del>t</del></span>2,464</a>
+just sold 3&nbsp;Svitolina
+@ <span class="tollar-12"><del>t</del></span>1,561</a>
 </p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/sduarte91" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Steven&nbsp;Duarte">
-<strong>Steven&nbsp;Duarte</strong></a>
+<a href="http://www.tennisearth.com/player/Blazej" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Blazej">
+<strong>Blazej</strong></a>
 <a href="http://www.tennisearth.com/teExchange/sellStocks.htm" style="color:#000">
-just sold 61&nbsp;Delpotro
-@ <span class="tollar-12"><del>t</del></span>2,464</a>
+just sold 10&nbsp;Voskoboeva
+@ <span class="tollar-12"><del>t</del></span>1,874</a>
 </p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/sduarte91" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Steven&nbsp;Duarte">
-<strong>Steven&nbsp;Duarte</strong></a>
+<a href="http://www.tennisearth.com/player/Blazej" style="color:#000">
+<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Blazej">
+<strong>Blazej</strong></a>
 <a href="http://www.tennisearth.com/teExchange/sellStocks.htm" style="color:#000">
-just sold 100&nbsp;Delpotro
-@ <span class="tollar-12"><del>t</del></span>2,464</a>
+just sold 10&nbsp;Zahlavovastrycova
+@ <span class="tollar-12"><del>t</del></span>1,799</a>
 </p>
 </div>
 <div class="slide r7" style="background:url(http://cdn.tennisearth.com/images_new/siteActivityBg1.jpg) no-repeat">
 <h1 class="ciGblSectionHead fl" style="color:#000">What's New!!</h1>				
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/laltip339" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="laltip339">
-<strong>laltip339</strong></a>
-<a href="http://www.tennisearth.com/teforum/posts/list/2653.htm" style="color:#000">
+<a href="http://www.tennisearth.com/player/AkshayKohli" style="color:#000">
+<img src="http://cdn.tennisearth.com/photos/user/akshayk/profile/2012-09-19-05-40-54.jpg" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Akshay&nbsp;Kohli">
+<strong>Akshay&nbsp;Kohli</strong></a>
+<a href="http://www.tennisearth.com/teforum/posts/list/2734.htm" style="color:#000">
 	
-joined discussion <b>THE Final : Djokovic vs Murray Live Sony Ericsson</b>			
+joined discussion <b>Tournament Management System</b>			
 </a>
 </p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/laltip339" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="laltip339">
-<strong>laltip339</strong></a>
-<a href="http://www.tennisearth.com/teforum/posts/list/2651.htm" style="color:#000">
+<a href="http://www.tennisearth.com/player/AbhimanyuNagpal" style="color:#000">
+<img src="http://graph.facebook.com/100003462047438/picture" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Abhimanyu&nbsp;Nagpal">
+<strong>Abhimanyu&nbsp;Nagpal</strong></a>
+<a href="http://www.tennisearth.com/teforum/posts/list/2733.htm" style="color:#000">
 	
-joined discussion <b>THE Final : Murray vs Djokovic Live Sony Ericsson</b>			
+joined discussion <b>Sharapova's strengths and weaknesses?</b>			
 </a>
 </p>
 <p class="fl" style="width:100%">
-<a href="http://www.tennisearth.com/player/laltip339" style="color:#000">
-<img src="http://cdn.tennisearth.com/images_new/comm-men.gif" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="laltip339">
-<strong>laltip339</strong></a>
-<a href="http://www.tennisearth.com/teforum/posts/list/2636.htm" style="color:#000">
+<a href="http://www.tennisearth.com/player/AbhimanyuNagpal" style="color:#000">
+<img src="http://graph.facebook.com/100003462047438/picture" width="35" height="35" style="float:left;border:1px solid #fff;margin-right:5px" alt="Abhimanyu&nbsp;Nagpal">
+<strong>Abhimanyu&nbsp;Nagpal</strong></a>
+<a href="http://www.tennisearth.com/teforum/posts/list/2732.htm" style="color:#000">
 	
-joined discussion <b>((((((Open))))))THE Final : Djokovic vs Murray Liv..</b>			
+joined discussion <b>Nadal's Forehand : Is It the Best Shot In Tennis?</b>			
 </a>
 </p>
 </div>
@@ -1312,84 +1372,6 @@ createNavButtons: true
 });
 // --></script>
 
-<div class="ciHomeNewsPhotos" style="margin-bottom:10px; border:1px solid #BABABA;">
-<div class="headerTI">
-<div style="padding-top:6px;padding-left:5px;">
-<span class="trafficIndicators">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span style="font-size:20px;font-weight:bold;position:relative;top:-3px">Trivia</span>
-</div>
-</div>
-<div id="tabsEl">
-<ul>
-<span class="totPlayers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<li>
-<a class="requireLogin tooltip" title="Total players on our site. Join our tennis fraternity now!">
-<span class="spanleft">Total Players</span>
-<span class="spantext">&nbsp;</span>:
-<span class="spanright">16,683</span>
-</a>
-</li>
-<span class="matchPlayed">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<li>
-<a href="http://www.tennisearth.com/teratings/submitMatchScores.htm" class="tooltip" title="This is the number of matches submitted on our site that are used for player ratings.">
-<span class="spanleft">Matches</span>
-<span class="spantext">&nbsp;(last 30 days)</span>:
-<span class="spanright">987</span>
-</a>
-</li>
-<span class="monthInvest">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<li>
-<a href="http://www.tennisearth.com/teExchange/getStocks.htm" class="tooltip" title="This is the sum of all the investments made in our Tennis Exchange. You can also buy your favorite players and earn rich dividends.">
-<span class="spanleft">Investments</span>
-<span class="spantext">&nbsp;(last 30 days)</span>:
-<span class="spanright"><del class="tollar-14" style="color:#fff">t</del>&nbsp;73.1M</span>
-</a>
-</li>
-<span class="bookingMonth">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<li>
-<a href="http://www.tennisearth.com/clubs/myClubs.htm" class="tooltip" title="Number of bookings done using our Online Court Booking System. Ask your club to implement this system today!">
-<span class="spanleft">Bookings</span>
-<span class="spantext">&nbsp;(last 30 days)</span>:
-<span class="spanright">365</span>
-</a>
-</li>
-</ul>
-</div>
-<div style="background:url(http://cdn.tennisearth.com/images_new/funFacts1.jpg) no-repeat; height:150px; width:300px;float:left">
-<div style="height:auto;" class="transperentBack"><span style="font-weight:bold;font-size:16px; color:#fff; padding:5px 10px;">Did You Know?</span></div>
-<div style="height:auto;position:relative;padding-top:3px;padding-bottom:3px;top:30px" class="transperentBack">
-<ul id="tips">
-<li>When dropped from a height of 100 inches onto concrete, a new tennis ball should bounce about 55 inches</li>
-<li>In 1986, Yellow tennis balls were first used at Wimbledon</li>
-<li>Billie Jean King (1971-1972) was the first player in the Open era to win back-to-back US Opens</li>
-<li>Arthur Ashe was the first black man to win the US Open. He defeated Tom Okker 14-12, 5-7, 6-3, 3-6, 6-3 in 1968</li>
-<li>Virginia Wade won the first US Open in the open era by defeating Billie Jean King 6-4, 6-4</li>
-<li>In 1887 at the Philadelphia (PA) Cricket Club, the first US National Championships for Women was held</li>
-<li>Roger Federer is tennis' all-time biggest money winner with over $64 million in career earnings</li>
-<li>Martina Hingis became the youngest women's tennis player to be ranked number 1 in the world since the rankings originated in 1975</li>
-<li>The International Tennis Hall of Fame is located at Newport, Rhode Island</li>
-<li>First Wimbledon Championship took place in 1877</li>
-<li>Who has the world's fastest serve - Ivo Karlovic - 251kmph</li>
-<li>Slazenger is making balls for Wimbledon since 1902</li>
-<li>113 aces by Isner were the most number of aces served in a single match</li>
-<li>Goran Ivanisevic served the maximum number of aces in a year - 1477 aces during 1996 season</li>
-<li>A tennis ball weighs 2 ounces or 56.69 grams</li>
-</ul>
-</div>
-</div>
-
-<script type="text/javascript"><!--
-this.randomtip = function() {
-var length = $('#tips li').length;
-var ran = Math.floor(Math.random() * length) + 1;
-$('#tips li:nth-child(' + ran + ')').show();
-};
-
-$(function() {	
-randomtip();
-});
-// --></script>
-</div>
 </div>
 
 <div class="toBeHidden">
@@ -1443,13 +1425,13 @@ This match has no chat room!!
 var showScroller = true;
 
 $(document).focus(function() {
-refreshTimeLiveScoreWidgetcommentary = 30000;
+refreshTimeLiveScoreWidgetcommentary = 60000;
 });
 $(document).blur(function() {
 refreshTimeLiveScoreWidgetcommentary = 60000;
 });
 
-var refreshTimeLiveScoreWidgetcommentary = 30000;
+var refreshTimeLiveScoreWidgetcommentary = 60000;
 function refreshLiveScoresWidgetcommentary() {
 if((defaultTab != null && defaultTab != '' && defaultTab != 'commentaryScore' && 'commentary' != '') || 
 (defaultTab != 'score' &&  'commentary' == '' && (defaultTab == 'finishedScore' || defaultTab == 'scheduledScore'))){
@@ -1503,7 +1485,9 @@ showScroller = true;
 </div>
 <div class="fixedFooter">
 <span class="widgetfooterPlus"> 
-<a href="javascript:void(0);" onclick="showPublicWidget('chat');" class="plusIcon_chat" style="text-decoration:none;display:none"><span class="plusico tooltip" style="font-size: 12px; padding: none; text-align: left; width: 5px" title="Click to add to your web page">&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+<a href="javascript:void(0);" onclick="showPublicWidget('chat');" class="plusIcon_chat" style="text-decoration:none;display:none">
+<span class="tooltip" style="font-size: 11px; padding: none; text-align: left; width: 5px" title="Click to add to your web page">Add Me +</span>
+</a>
 </span>
 </div>
 </div>
@@ -1536,7 +1520,7 @@ var defaultTab = 'tournaments';
 var tabs = '';
 // --></script>
 <div class="pnl320M" style="height:325px;position:relative;">
-<div style="FLOAT: left; WIDTH: 307px; padding-left: 5px; padding-right: 5px;">
+<div style="FLOAT: left; WIDTH: 290px; padding-left: 5px; padding-right: 5px;">
 <h1 class="ciGblSectionHead"><span class="ciGblSectionHead">Tournaments</span></h1>
 </div>
 <script type="text/javascript"><!--
@@ -1572,98 +1556,185 @@ var showScroller = true;
 <tr class="data1">
 <td colspan="2" class="headlarge" align="left">
 <span style="text-decoration: none;font-size:14px">
-<strong>May 2012</strong>
+<strong>October 2012</strong>
 </span>
 </td>
 </tr>
 <tr class="data1">
 <td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
-06-May-12<br>
-12-May-12</td>
+08-Oct-12<br>
+14-Oct-12</td>
+
 <td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
-<a href="http://www.tennisearth.com/tournament/Mutua Madrilena Madrid Open-74.htm" style="font-size: 14px; font-weight: bold;">
-Mutua Madrilena Masters Madrid </a>
+<a href="http://www.tennisearth.com/tournament/Generali Ladies Linz-50.htm" style="font-size: 14px; font-weight: bold;">
+Generali Ladies Linz</a>
 <span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
-Madrid,&nbsp;Spain
+Linz,&nbsp;Austria
 (Hardcourt Indoors)								
 </span>
 </td> 
+
 </tr>
 <tr class="data1">
 <td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
-14-May-12<br>
-20-May-12</td>
+08-Oct-12<br>
+14-Oct-12</td>
+
 <td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
-<a href="http://www.tennisearth.com/tournament/International BNL d'Italia-62.htm" style="font-size: 14px; font-weight: bold;">
-Internazionali BNL d'Italia</a>
+<a href="http://www.tennisearth.com/tournament/ Shanghai ATP Masters-161.htm" style="font-size: 14px; font-weight: bold;">
+Shanghai ATP Masters</a>
 <span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
-Rome,&nbsp;Italy
-(Red Clay Outdoors)								
+Shanghai,&nbsp;China</span>
+</td> 
+
+</tr>
+<tr class="data1">
+<td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
+08-Oct-12<br>
+14-Oct-12</td>
+
+<td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
+<a href="http://www.tennisearth.com/tournament/HP Open-169.htm" style="font-size: 14px; font-weight: bold;">
+HP Open</a>
+<span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
+Osaka,&nbsp;Japan</span>
+</td> 
+
+</tr>
+<tr class="data1">
+<td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
+15-Oct-12<br>
+21-Oct-12</td>
+
+<td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
+<a href="http://www.tennisearth.com/tournament/Erste Bank Open-11.htm" style="font-size: 14px; font-weight: bold;">
+BA-CA Tennis Trophy </a>
+<span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
+Vienna,&nbsp;Austria
+(Hardcourt Indoors)								
 </span>
 </td> 
+
 </tr>
 <tr class="data1">
 <td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
-21-May-12<br>
-27-May-12</td>
+15-Oct-12<br>
+21-Oct-12</td>
+
 <td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
-<a href="http://www.tennisearth.com/tournament/Düsseldorf World Team Cup-5.htm" style="font-size: 14px; font-weight: bold;">
-ARAG ATP World Team Championship</a>
+<a href="http://www.tennisearth.com/tournament/BGL Luxembourg Open-47.htm" style="font-size: 14px; font-weight: bold;">
+FORTIS Championships Luxembourg</a>
 <span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
-Dusseldorf,&nbsp;Germany
-(Clay Court )								
+Luxembourg,&nbsp;Luxembourg
+(Hardcourt Indoors)								
 </span>
 </td> 
+
 </tr>
 <tr class="data1">
 <td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
-21-May-12<br>
-27-May-11</td>
+15-Oct-12<br>
+21-Oct-12</td>
+
 <td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
-<a href="http://www.tennisearth.com/tournament/Internationaux de Strasbourg-64.htm" style="font-size: 14px; font-weight: bold;">
-Isternationaux de Strasbourge</a>
+<a href="http://www.tennisearth.com/tournament/If Stockholm Open -58.htm" style="font-size: 14px; font-weight: bold;">
+IF Stockholm Open </a>
 <span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
-Strasbourge,&nbsp;France
-(Red Clay Outdoors)								
+Stockholm,&nbsp;Sweden
+(Hardcourt Indoors)								
 </span>
 </td> 
+
 </tr>
 <tr class="data1">
 <td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
-21-May-12<br>
-27-May-12</td>
+15-Oct-12<br>
+21-Oct-12</td>
+
 <td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
-<a href="http://www.tennisearth.com/tournament/Open de Nice Côte d’Azur-165.htm" style="font-size: 14px; font-weight: bold;">
-Open de Nice Cote d Azur</a>
+<a href="http://www.tennisearth.com/tournament/Kremlin Cup-65.htm" style="font-size: 14px; font-weight: bold;">
+Kremlin Cup</a>
 <span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
-Nice,&nbsp;France</span>
-</td> 
-</tr>
-<tr class="data1">
-<td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
-21-May-12<br>
-27-May-12</td>
-<td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
-<a href="http://www.tennisearth.com/tournament/Brussels Ladies Open-173.htm" style="font-size: 14px; font-weight: bold;">
-Brussels Ladies Open</a>
-<span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
-Brussels,&nbsp;Belgium
-(Red Clay Outdoors)								
+Moscow,&nbsp;Russia
+(Hardcourt Indoors)								
 </span>
 </td> 
+
 </tr>
 <tr class="data1">
 <td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
-28-May-12<br>
-10-Jun-12</td>
+22-Oct-12<br>
+28-Oct-12</td>
+
 <td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
-<a href="http://www.tennisearth.com/tournament/Roland Garros-100.htm" style="font-size: 14px; font-weight: bold;">
-Roland Garros</a>
+<a href="http://www.tennisearth.com/tournament/Davidoff Swiss Indoors-32.htm" style="font-size: 14px; font-weight: bold;">
+Davidoff Swiss Indoors </a>
+<span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
+Basel,&nbsp;Switzerland
+(Hardcourt Indoors)								
+</span>
+</td> 
+
+</tr>
+<tr class="data1">
+<td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
+22-Oct-12<br>
+28-Oct-12</td>
+
+<td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
+<a href="http://www.tennisearth.com/tournament/Valencia Open-80.htm" style="font-size: 14px; font-weight: bold;">
+Open de Tenis Comunidad Valenciana</a>
+<span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
+Valencia,&nbsp;Spain
+(Hard Court)								
+</span>
+</td> 
+
+</tr>
+<tr class="data1">
+<td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
+22-Oct-12<br>
+28-Oct-12</td>
+
+<td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
+<a href="http://www.tennisearth.com/tournament/Season-Ending WTA Championships-102.htm" style="font-size: 14px; font-weight: bold;">
+Sony Ericsson Championships</a>
+<span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
+Istanbul,&nbsp;Turkey
+(Hard Court)								
+</span>
+</td> 
+
+</tr>
+<tr class="data1">
+<td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
+29-Oct-12<br>
+04-Nov-12</td>
+
+<td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
+<a href="http://www.tennisearth.com/tournament/BNP Paribas Masters -21.htm" style="font-size: 14px; font-weight: bold;">
+BNP Paribas Masters </a>
 <span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
 Paris,&nbsp;France
-(Red Clay Outdoors)								
+(Hardcourt Indoors)								
 </span>
 </td> 
+
+</tr>
+<tr class="data1">
+<td class="left" width="60" style="font-size: 12px;padding-bottom:5px">
+29-Oct-12<br>
+04-Nov-12</td>
+
+<td class="headsmall" style="font-size: 14px;padding-bottom:5px" align="left">
+<a href="http://www.tennisearth.com/tournament/Commonwealth Bank Tournament of Champions-28.htm" style="font-size: 14px; font-weight: bold;">
+Commonwealth Bank TennisClassic</a>
+<span style="display: block; font-size: 9px; padding: 5px 0px 1px;">
+Bali,&nbsp;Indonesia
+(Hard Court)								
+</span>
+</td> 
+
 </tr>
 </tbody>
 </table>
@@ -1684,7 +1755,15 @@ div.height(div.height() + 10);
 }
 // -->
 </script>
+<div class="fixedFooter">
 
+&nbsp;&nbsp;<a href="http://www.tennisearth.com/tournaments/eventCalendar.htm" id="fullCommLink" class="ciSectionFooterlink">More Tournaments
+»</a><span class="widgetfooterPlus"> 
+<a href="http://www.tennisearth.com/publicWidgets/addTennisWidgets.htm?allTabs=&amp;defaultTab=tournaments" target="_blank" class="plusIcon_tournaments" style="text-decoration:none;">
+<span class="tooltip" style="font-size: 11px; padding: none; text-align: left; width: 5px" title="Click to add to your web page">Add Me +</span>
+</a>
+</span>
+</div>
 </div>
 </div>
 <script type="text/javascript"><!--
@@ -1703,10 +1782,10 @@ var defaultTab = 'matchSearch';
 var tabs = '';
 // --></script>
 <div class="pnl320M" style="height:300px;position:relative;">
-<div style="FLOAT: left; WIDTH: 307px; padding-left: 5px; padding-right: 5px;">
+<div style="FLOAT: left; WIDTH: 290px; padding-left: 5px; padding-right: 5px;">
 <h1 class="ciGblSectionHead"><span class="ciGblSectionHead">Match Search</span></h1>
 </div>
-<script type="text/javascript" src="http://cdn.tennisearth.com/v/127/widgets/scripts/matchSearch.js?v=127"></script>
+<script type="text/javascript" src="http://cdn.tennisearth.com/v/206/widgets/scripts/matchSearch.js?v=206"></script>
 <script type="text/javascript"><!--
 $('#matchSearch').click(function() {
 var div = $('#commentarysearch');
@@ -1729,6 +1808,7 @@ div.html(data);
 <td>
 <select id="DateType" name="DateType" size="1" class="searchTextBox" onchange="getDropDowns(this.form, 'year');">
 <option value="">Select Year</option>
+<option value="2013-01-01">2013</option>
 <option value="2012-01-01" selected="">2012</option>
 <option value="2011-01-01">2011</option>
 <option value="2010-01-01">2010</option>
@@ -1784,6 +1864,7 @@ div.html(data);
 <option value="1456">Campbell's Hall of Fame Tennis Championships</option>
 <option value="1422">Chennai Open</option>
 <option value="1473">China Open</option>
+<option value="1465">City Open</option>
 <option value="1521">Commonwealth Bank Tournament of Champions</option>
 <option value="1434">Copa Claro</option>
 <option value="1492">Copa Colsanitas</option>
@@ -1816,7 +1897,7 @@ div.html(data);
 <option value="1507">Internazionali Femminili di Tennis di Palermo</option>
 <option value="1474">Japan Open Tennis Championships</option>
 <option value="1477">Kremlin Cup</option>
-<option value="1465">Legg Mason Tennis Classic </option>
+<option value="1530">London Olympics</option>
 <option value="1471">Malaysian Open</option>
 <option value="1494">Malaysian Open</option>
 <option value="1458">Mercedes Cup</option>
@@ -1830,7 +1911,7 @@ div.html(data);
 <option value="1505">Nurnberger Gastein Ladies</option>
 <option value="1432">Open 13</option>
 <option value="1469">Open de Moselle</option>
-<option value="1449">Open de Nice Côte d’Azur</option>
+<option value="1449">Open de Nice Cote d Azur</option>
 <option value="1489">Open GDF SUEZ</option>
 <option value="1426">Open Sud de France</option>
 <option value="1427">PBZ Zagreb Indoors</option>
@@ -1912,31 +1993,6 @@ $('.container-1').tabs();
 
 </div>
 
-<div class="toBeDisplayed" style="display:none;">
-<div class="ciHomeNewsPhotos" style="float:left">
-<div class="pnl320M" style="text-align: center; height: auto;">
-<div id="flashElement">
-<br><strong><u>Adobe Flash Plug-in Needed</u></strong>
-<br><br>This website requires a Adobe Flash plug-in. Please download the latest version of the Flash plug-in by <a href="http://get.adobe.com/flashplayer/" target="_blank">clicking here</a>
-<br><br>
-</div>
-<script type="text/javascript"><!--
-swfobject.embedSWF('http://www.tennistv.com/ptvFlash/generic/dot_tv/generic_tv.swf', 'flashElement', '300', '292', '9', null,
-{'configPath' : 'http://www.tennistv.com/nameValue/nameValueXML/0,,~5207,00.xml', 'pid' : '11'},
-{'base' : 'http://www.tennistv.com/ptvFlash/generic/dot_tv/', 'allowScriptAccess' : 'sameDomain', 'allowFullScreen' : 'true', 'bgcolor' : '#FFFFFF', 'wmode' : 'transparent'},
-{'id' : 'tennis'});
-/*var so = new SWFObject('http://www.tennistv.com/ptvFlash/generic/dot_tv/generic_tv.swf', 'tennis', '300', '292', '9', '#FFFFFF');
-so.addParam('base', 'http://www.tennistv.com/ptvFlash/generic/dot_tv/');
-so.addParam('allowScriptAccess', 'sameDomain');
-so.addParam('allowFullScreen', 'true');
-so.addVariable('configPath', 'http://www.tennistv.com/nameValue/nameValueXML/0,,~5207,00.xml');
-so.addVariable('pid', '11');
-so.write('flashElement');*/
-// --></script>
-</div>
-</div>
-</div>
-
 <div class="ciHomeNewsPhotos" style="float: none;">
 <script type="text/javascript"><!--
 var isPublicWidget = '';
@@ -1947,38 +2003,38 @@ var defaultTab = 'topRankings';
 var tabs = '';
 // --></script>
 <div class="pnl320M" style="height:300px;position:relative;">
-<div style="FLOAT: left; WIDTH: 307px; padding-left: 5px; padding-right: 5px;">
+<div style="FLOAT: left; WIDTH: 290px; padding-left: 5px; padding-right: 5px;">
 <h1 class="ciGblSectionHead"><a class="ciGblSectionHead" href="http://www.tennisearth.com/teratings/leaderBoard.htm">TennisEarth Rating</a></h1>
 </div>
 <script type="text/javascript"><!--
 var rankingsImages = ['http://cdn.tennisearth.com/images_new/comm-men.gif'];
 // --></script>
 <script type="text/javascript"><!--
-rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Novak-Djokovic.gif');
+rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Roger-Federer3.gif');
 // --></script>
 <script type="text/javascript"><!--
 rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Victoria-Azarenka.gif');
 // --></script>
 <script type="text/javascript"><!--
-rankingsImages.push('http://cdn.tennisearth.com/photos/user/akshayk/profile/2012-02-23-04-10-01.jpg');
+rankingsImages.push('http://cdn.tennisearth.com/photos/user/akshayk/profile/2012-09-19-05-40-54.jpg');
 // --></script>
 <script type="text/javascript"><!--
-rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Rafael-Nadal.gif');
+rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Novak-Djokovic.gif');
 // --></script>
 <script type="text/javascript"><!--
 rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Maria-Sharapova.gif');
 // --></script>
 <script type="text/javascript"><!--
+rankingsImages.push('http://cdn.tennisearth.com/photos/user/tennisfreak007/profile/2012-07-13-04-26-55.gif');
+// --></script>
+<script type="text/javascript"><!--
+rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Andy-Murray.gif');
+// --></script>
+<script type="text/javascript"><!--
+rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Serena-Williams.gif');
+// --></script>
+<script type="text/javascript"><!--
 rankingsImages.push('http://cdn.tennisearth.com/photos/user/karan/profile/2012-04-20-16-58-39.jpg');
-// --></script>
-<script type="text/javascript"><!--
-rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Roger-Federer3.gif');
-// --></script>
-<script type="text/javascript"><!--
-rankingsImages.push('http://cdn.tennisearth.com/photos/player/profile/Agnieszka-Radwanska.gif');
-// --></script>
-<script type="text/javascript"><!--
-rankingsImages.push('http://cdn.tennisearth.com/photos/user/NitinJain/profile/2012-03-23-05-33-34.jpg');
 // --></script>
 <script type="text/javascript"><!--
 if(rankingsImages.length > 0) {
@@ -1999,46 +2055,46 @@ imagesQueue.process_queue();
 <tr> 
 <td width="10%" class="ratingtext">1</td>
 <td width="30%" align="center">
-<a href="http://www.tennisearth.com/player/N.Djokovic"><img src="http://cdn.tennisearth.com/photos/player/profile/Novak-Djokovic.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Novak Djokovic"></a>
-<span><a href="http://www.tennisearth.com/player/N.Djokovic">N.Djokovic</a> </span>         			
+<a href="http://www.tennisearth.com/player/R.Federer"><img src="http://cdn.tennisearth.com/photos/player/profile/Roger-Federer3.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Roger Federer"></a>
+<span><a href="http://www.tennisearth.com/player/R.Federer">R.Federer</a> </span>         			
 </td>
 <td width="30%" align="center">
 <a href="http://www.tennisearth.com/player/V.Azarenka"><img src="http://cdn.tennisearth.com/photos/player/profile/Victoria-Azarenka.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Victoria Azarenka"></a>
 <span><a href="http://www.tennisearth.com/player/V.Azarenka">V.Azarenka</a> </span>         			
 </td>
 <td width="30%" align="center">
-<a href="http://www.tennisearth.com/player/akshayk"><img src="http://cdn.tennisearth.com/photos/user/akshayk/profile/2012-02-23-04-10-01.jpg" width="51.666666666666664" height="51.666666666666664" border="0" alt="Akshay Kohli"></a>
-<span><a href="http://www.tennisearth.com/player/akshayk">akshayk</a> </span>         			
+<a href="http://www.tennisearth.com/player/AkshayKohli"><img src="http://cdn.tennisearth.com/photos/user/akshayk/profile/2012-09-19-05-40-54.jpg" width="51.666666666666664" height="51.666666666666664" border="0" alt="Akshay Kohli"></a>
+<span><a href="http://www.tennisearth.com/player/AkshayKohli">AkshayKohli</a> </span>         			
 </td>
 </tr>
 <tr> 
 <td width="10%" class="ratingtext">2</td>
 <td width="30%" align="center">
-<a href="http://www.tennisearth.com/player/R.Nadal"><img src="http://cdn.tennisearth.com/photos/player/profile/Rafael-Nadal.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Rafael Nadal"></a>
-<span><a href="http://www.tennisearth.com/player/R.Nadal">R.Nadal</a> </span>         			
+<a href="http://www.tennisearth.com/player/N.Djokovic"><img src="http://cdn.tennisearth.com/photos/player/profile/Novak-Djokovic.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Novak Djokovic"></a>
+<span><a href="http://www.tennisearth.com/player/N.Djokovic">N.Djokovic</a> </span>         			
 </td>
 <td width="30%" align="center">
 <a href="http://www.tennisearth.com/player/M.Sharapova"><img src="http://cdn.tennisearth.com/photos/player/profile/Maria-Sharapova.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Maria Sharapova"></a>
 <span><a href="http://www.tennisearth.com/player/M.Sharapova">M.Sharapova</a> </span>         			
 </td>
 <td width="30%" align="center">
-<a href="http://www.tennisearth.com/player/karan"><img src="http://cdn.tennisearth.com/photos/user/karan/profile/2012-04-20-16-58-39.jpg" width="51.666666666666664" height="51.666666666666664" border="0" alt="Karan Singh"></a>
-<span><a href="http://www.tennisearth.com/player/karan">karan</a> </span>         			
+<a href="http://www.tennisearth.com/player/tennisfreak007"><img src="http://cdn.tennisearth.com/photos/user/tennisfreak007/profile/2012-07-13-04-26-55.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Steve Johnson"></a>
+<span><a href="http://www.tennisearth.com/player/tennisfreak007">tennisfreak007</a> </span>         			
 </td>
 </tr>
 <tr> 
 <td width="10%" class="ratingtext">3</td>
 <td width="30%" align="center">
-<a href="http://www.tennisearth.com/player/R.Federer"><img src="http://cdn.tennisearth.com/photos/player/profile/Roger-Federer3.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Roger Federer"></a>
-<span><a href="http://www.tennisearth.com/player/R.Federer">R.Federer</a> </span>         			
+<a href="http://www.tennisearth.com/player/A.Murray"><img src="http://cdn.tennisearth.com/photos/player/profile/Andy-Murray.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Andy Murray"></a>
+<span><a href="http://www.tennisearth.com/player/A.Murray">A.Murray</a> </span>         			
 </td>
 <td width="30%" align="center">
-<a href="http://www.tennisearth.com/player/A.Radwanska"><img src="http://cdn.tennisearth.com/photos/player/profile/Agnieszka-Radwanska.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Agnieszka Radwanska"></a>
-<span><a href="http://www.tennisearth.com/player/A.Radwanska">A.Radwanska</a> </span>         			
+<a href="http://www.tennisearth.com/player/S.Williams"><img src="http://cdn.tennisearth.com/photos/player/profile/Serena-Williams.gif" width="51.666666666666664" height="51.666666666666664" border="0" alt="Serena Williams"></a>
+<span><a href="http://www.tennisearth.com/player/S.Williams">S.Williams</a> </span>         			
 </td>
 <td width="30%" align="center">
-<a href="http://www.tennisearth.com/player/NitinJain"><img src="http://cdn.tennisearth.com/photos/user/NitinJain/profile/2012-03-23-05-33-34.jpg" width="51.666666666666664" height="51.666666666666664" border="0" alt="Nitin Jain"></a>
-<span><a href="http://www.tennisearth.com/player/NitinJain">NitinJain</a> </span>         			
+<a href="http://www.tennisearth.com/player/karan"><img src="http://cdn.tennisearth.com/photos/user/karan/profile/2012-04-20-16-58-39.jpg" width="51.666666666666664" height="51.666666666666664" border="0" alt="Karan Singh"></a>
+<span><a href="http://www.tennisearth.com/player/karan">karan</a> </span>         			
 </td>
 </tr>
 <tr>
@@ -2053,6 +2109,7 @@ $('.container-1').tabs();
 
 </div>
 </div>
+
 <script type="text/javascript"><!--
 if(screen.width <= 1200) {
 $('.toBeHidden').remove();
@@ -2061,169 +2118,170 @@ $('.toBeDisplayed').show();
 $('.toBeDisplayed').remove();
 }
 // --></script>
+
 <script type="text/javascript"><!--
-if(screen.width <= 1200) {
-$('.toBeHidden').remove();
-$('.toBeDisplayed').show();
-} else {
-$('.toBeDisplayed').remove();
-}
+	if(screen.width <= 1200) {
+		$('.toBeHidden').remove();
+		$('.toBeDisplayed').show();
+	} else {
+		$('.toBeDisplayed').remove();
+	}
 // --></script>
 
-<div id="footer2Container1" class="footer2Container11240">
-<script type="text/javascript"><!--
-if(screen.width <= 1200 || '' == 'false') {
-$('#footer2Container1').attr('class', 'footer2Container1');
-}
-// --></script>
-<div class="fotter1200">
-<div class="fotterwarp fl">
-<div class="listmenu">
-<ul>
-<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Tournament</li>
-<li><a href="http://www.tennisearth.com/tournaments/eventCalendar.htm">Latest Calender</a></li>
-<li><a href="http://www.tennisearth.com/tournaments/search/year/2012/type/male">Men's Calender</a></li>
-<li><a href="http://www.tennisearth.com/tournaments/search/year/2012/type/female">Women's Calender</a></li>
-</ul>
-</div>
-</div>
-<div class="fotterwarp fl">
-<div class="listmenu">
-<ul>
-<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Rankings</li>
-<li><a href="http://www.tennisearth.com/rankings/tennisAllRankings.htm">All</a></li>
-<li><a href="http://www.tennisearth.com/rankings/tennisRankings/atp.htm">ATP</a></li>
-<li><a href="http://www.tennisearth.com/rankings/tennisRankings/wta.htm">WTA</a></li>
-</ul>
-</div>
-</div>
-<div class="fotterwarp fl">
-<div class="listmenu">
-<ul>
-<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Tennis Clubs</li>
-<li><a href="http://www.tennisearth.com/clubs/myClubs.htm">My Clubs</a></li>
-<li><a href="http://www.tennisearth.com/clubs/suggest.htm">Suggest a Club</a></li>
-<li><a href="http://www.tennisearth.com/clubs/search.htm#start">Search a Club</a></li>
-</ul>
-</div>
-</div>
-<div class="fotterwarp fl">
-<div class="listmenu">
-<ul>
-<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">TennisEarth Ratings</li>
-<li><a href="http://www.tennisearth.com/teratings/leaderBoard.htm">Leaderboard</a></li>
-<li><a href="http://www.tennisearth.com/teratings/myRanking.htm">My Ranking</a></li>
-<li><a href="http://www.tennisearth.com/teratings/myPoints.htm">My Points</a></li>
-<li><a href="http://www.tennisearth.com/teratings/submitMatchScores.htm">Submit Scores</a></li>
-<li><a href="http://www.tennisearth.com/teratings/unverifiedMatches.htm">Unverified Matches</a></li>
-<li><a href="http://www.tennisearth.com/teratings/groupRanking.htm">Group Rankings</a></li>
-<li><a href="http://www.tennisearth.com/teratings/myDetails.htm">Details</a></li>
-</ul>
-</div>
-</div>
-<div class="fotterwarp fl">
-<div class="listmenu">
-<ul>
-<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Tennis Exchange</li>
-<li><a href="http://www.tennisearth.com/teExchange/leaderBoard.htm">Leaderboard</a></li>
-<li><a href="http://www.tennisearth.com/teExchange/getStocks.htm">Buy Stock</a></li>
-<li><a href="http://www.tennisearth.com/teExchange/sellStocks.htm">Sell Stock</a></li>
-<li><a href="http://www.tennisearth.com/teExchange/myValuation.htm">My Valuation</a></li>
-<li><a href="http://www.tennisearth.com/teExchange/statement.htm">My Transactions</a></li>
-<li><a href="http://www.tennisearth.com/teExchange/termsAndConditions.htm">Details</a></li>
-</ul>
-</div>
-</div>
-<div class="fotterwarp fl" style="border-right:none">
-<div class="listmenu">
-<ul>
-<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Learn Tennis</li>
-<li><a href="http://www.tennisearth.com/instructions/What-is-the-history-of-tennis-794759.htm">Tennis History</a></li>
-<li><a href="http://www.tennisearth.com/instructions/What-are-the-types-of-grips-in-tennis-73290.htm">Tennis Grips</a></li>
-<li><a href="http://www.tennisearth.com/instructions/How-to-hit-a-tennis-serve-747014.htm">Tennis Strokes</a></li>
-<li><a href="http://www.tennisearth.com/instructions/How-to-play-a-tennis-forehand-13260.htm">Tennis Forehand</a></li>
-</ul>
-</div>
-</div>
-<div class="clear"></div>
-</div>
-</div>
-
-<div id="footer2Container" class="footer2Container1240">
-<script type="text/javascript"><!--
-if(screen.width <= 1200 || '' == 'false') {
-$('#footer2Container').attr('class', 'footer2Container');
-}
-// --></script>
-<div id="cifooternav1240">
-<script type="text/javascript"><!--
-if(screen.width <= 1200 || '' == 'false') {
-$('#cifooternav1240').attr('id', 'cifooternav');
-}
-// --></script>
-<ul>
-<li>
-<a href="http://www.tennisearth.com" class="maintabs">Home</a><span class="maintabseperator">|</span>
-<a href="http://www.tennisearth.com/aboutus.htm" class="maintabs">About Us</a><span class="maintabseperator">|</span>
-<a href="mailto:feedback@tennisearth.com" class="maintabs">Feedback</a><span class="maintabseperator">|</span>
-<a href="http://www.tennisearth.com/privacyPolicy.htm" class="maintabs">Privacy Policy</a><span class="maintabseperator">|</span>
-<a href="http://www.tennisearth.com/termsAndConditions.htm" class="maintabs">Terms &amp; Conditions</a><span class="maintabseperator">|</span>
-<a href="http://www.tennisearth.com/recommendedLinks.htm" class="maintabs">Recommended Links</a><span class="maintabseperator">|</span>
-<a href="http://www.tennisearth.com/allClubs.html" class="maintabs">Clubs Directory</a><span class="maintabseperator">|</span>
-<div id="writeForUsFooter" style="display:inline;">
-<a href="#TB_inline?height=165&amp;width=300&amp;inlineId=modalWriteForUs" title="Write for Us" class="thickbox maintabs">Write for Us</a><span class="maintabseperator">|</span>
-<div id="modalWriteForUs" style="display:none;">
-<p style="padding:0px;text-align:justify;font-size:12px;"> Feel free to write for us! We would love to publish your news or article on our site, please contact us at <a href="mailto:info@tennisearth.com" style="color:#0074DB;">info@tennisearth.com</a>. We do not provide any remuneration for your writing, but with us you can certainly reach millions of tennis readers across the globe.</p>
-<p style="text-align:center;"><input type="button" value="OK" onclick="tb_remove();" class="btnblue"></p>
-</div>
-</div>
-<strong>Copyright © 2012 TennisEarth.com</strong>
-</li>
-</ul>
-<script type="text/javascript"><!--
-if($.browser.msie && document.location.href.indexOf('/teforum/') > -1) {
-$('#writeForUsFooter').hide();
-}
-// --></script>
-</div>
-</div>
-
-<div id="onlineBookingRequest" style="display:none;margin-top:5px">
-<table style="background-color:#F2FFFF;padding:0;" cellpadding="1" cellspacing="4">
-<tbody><tr>
-<td style="text-align:right;padding-right:5px"> 
-<a style="cursor:pointer;" onclick="$('#onlineBookingRequest').slideUp('slow')" class="tooltip" title="Close"><img width="15" height="16" border="0" style="cursor: pointer;vertical-align:middle" class="delete tooltip" src="http://cdn.tennisearth.com/images_new/profile-delete.png" alt="Delete"></a>
-</td>
-</tr>
-<tr>
-<td style="text-align:center"> 
-Please ask the club managers to contact us at <a href="mailto:info@tennisearth.com" style="text-decoration:underline">info@tennisearth.com</a> to put these courts for online booking. They can try it free for 2 months without any commitments.<br>
-<!--<center><a href="http://www.tennisearth.com/clubs/booking/showListing.htm?clubId=" style="text-decoration:underline"><a href="#" style="text-decoration:underline">More details - Booking System</a></center>-->
-</td>
-</tr>
-</tbody></table>
-</div>
-<style type="text/css">
-#TB_ajaxContent{background-color:#fff;}
-#TB_window{border:8px solid #b4b3b3;}
-.twitterConnect{font-weight:bold;font-family:verdana;cursor:pointer;}
-</style>
-
-<div id="followMatchesPlayers" style="display:none;">
-<span id="followMatchesPlayersMsg" style="font-size:13px;"></span>
-</div>
-<div id="genderModal" style="display: none;">
-<table>
-<tbody><tr><td colspan="2">Please Choose Your Gender</td> </tr>
-<tr><td><input type="radio" id="currentGenderMale" name="currentGender" value="M" checked="checked">Male</td><td> 
-<input type="radio" id="currentGenderFemale" name="currentGender" value="F"> Female</td>  </tr>
-<tr><td>&nbsp;</td><td>&nbsp;</td> </tr>
-<tr><td colspan="2" style="text-align: center;"><input id="updateUserGender" type="button" class="btnblue" value="Submit" onclick="updateUserGender();" style="cursor:pointer;"></td></tr>
-</tbody></table>
-</div>
-
-<div id="signInModal" style="display:none">
-<style>
+	<div id="footer2Container1" class="footer2Container11240">
+	<script type="text/javascript"><!--
+		 	if(screen.width <= 1200 || '' == 'false') {
+				$('#footer2Container1').attr('class', 'footer2Container1');
+			}
+		// --></script>
+	<div class="fotter1200">
+			<div class="fotterwarp fl">
+				<div class="listmenu">
+					<ul>
+						<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Tournament</li>
+						<li><a href="http://www.tennisearth.com/tournaments/eventCalendar.htm">Latest Calender</a></li>
+						<li><a href="http://www.tennisearth.com/tournaments/search/year/2012/type/male">Men's Calender</a></li>
+						<li><a href="http://www.tennisearth.com/tournaments/search/year/2012/type/female">Women's Calender</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="fotterwarp fl">
+				<div class="listmenu">
+					<ul>
+						<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Rankings</li>
+						<li><a href="http://www.tennisearth.com/rankings/tennisAllRankings.htm">All</a></li>
+						<li><a href="http://www.tennisearth.com/rankings/tennisRankings/atp.htm">ATP</a></li>
+						<li><a href="http://www.tennisearth.com/rankings/tennisRankings/wta.htm">WTA</a></li>
+					</ul>
+			    </div>
+			</div>
+			<div class="fotterwarp fl">
+				<div class="listmenu">
+					<ul>
+						<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Tennis Clubs</li>
+						<li><a href="http://www.tennisearth.com/clubs/myClubs.htm">My Clubs</a></li>
+						<li><a href="http://www.tennisearth.com/clubs/suggest.htm">Suggest a Club</a></li>
+						<li><a href="http://www.tennisearth.com/clubs/search.htm#start">Search a Club</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="fotterwarp fl">
+				<div class="listmenu">
+					<ul>
+						<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">TennisEarth Ratings</li>
+						<li><a href="http://www.tennisearth.com/teratings/leaderBoard.htm">Leaderboard</a></li>
+						<li><a href="http://www.tennisearth.com/teratings/myRanking.htm">My Ranking</a></li>
+						<li><a href="http://www.tennisearth.com/teratings/myPoints.htm">My Points</a></li>
+						<li><a href="http://www.tennisearth.com/teratings/submitMatchScores.htm">Submit Scores</a></li>
+						<li><a href="http://www.tennisearth.com/teratings/unverifiedMatches.htm">Unverified Matches</a></li>
+						<li><a href="http://www.tennisearth.com/teratings/groupRanking.htm">Group Rankings</a></li>
+						<li><a href="http://www.tennisearth.com/teratings/myDetails.htm">Details</a></li>
+					</ul>
+			    </div>
+			</div>
+			<div class="fotterwarp fl">
+				<div class="listmenu">
+					<ul>
+						<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Tennis Exchange</li>
+						<li><a href="http://www.tennisearth.com/teExchange/leaderBoard.htm">Leaderboard</a></li>
+						<li><a href="http://www.tennisearth.com/teExchange/getStocks.htm">Buy Stock</a></li>
+						<li><a href="http://www.tennisearth.com/teExchange/sellStocks.htm">Sell Stock</a></li>
+						<li><a href="http://www.tennisearth.com/teExchange/myValuation.htm">My Valuation</a></li>
+						<li><a href="http://www.tennisearth.com/teExchange/statement.htm">My Transactions</a></li>
+						<li><a href="http://www.tennisearth.com/teExchange/termsAndConditions.htm">Details</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="fotterwarp fl" style="border-right:none">
+				<div class="listmenu">
+					<ul>
+						<li style="font:12px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; padding-left:10px;">Learn Tennis</li>
+						<li><a href="http://www.tennisearth.com/instructions/What-is-the-history-of-tennis-794759.htm">Tennis History</a></li>
+						<li><a href="http://www.tennisearth.com/instructions/What-are-the-types-of-grips-in-tennis-73290.htm">Tennis Grips</a></li>
+						<li><a href="http://www.tennisearth.com/instructions/How-to-hit-a-tennis-serve-747014.htm">Tennis Strokes</a></li>
+						<li><a href="http://www.tennisearth.com/instructions/How-to-play-a-tennis-forehand-13260.htm">Tennis Forehand</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	<div id="footer2Container" class="footer2Container1240">
+		<script type="text/javascript"><!--
+			 	if(screen.width <= 1200 || '' == 'false') {
+					$('#footer2Container').attr('class', 'footer2Container');
+				}
+			// --></script>
+		<div id="cifooternav1240">
+		<script type="text/javascript"><!--
+			 	if(screen.width <= 1200 || '' == 'false') {
+					$('#cifooternav1240').attr('id', 'cifooternav');
+				}
+			// --></script>
+		<ul>
+				<li>
+					<a href="http://www.tennisearth.com" class="maintabs">Home</a><span class="maintabseperator">|</span>
+					<a href="http://www.tennisearth.com/aboutus.htm" class="maintabs">About Us</a><span class="maintabseperator">|</span>
+					<a href="mailto:feedback@tennisearth.com" class="maintabs">Feedback</a><span class="maintabseperator">|</span>
+					<a href="http://www.tennisearth.com/privacyPolicy.htm" class="maintabs">Privacy Policy</a><span class="maintabseperator">|</span>
+					<a href="http://www.tennisearth.com/termsAndConditions.htm" class="maintabs">Terms &amp; Conditions</a><span class="maintabseperator">|</span>
+					<a href="http://www.tennisearth.com/recommendedLinks.htm" class="maintabs">Recommended Links</a><span class="maintabseperator">|</span>
+					<a href="http://www.tennisearth.com/allClubs.html" class="maintabs">Clubs Directory</a><span class="maintabseperator">|</span>
+					<div id="writeForUsFooter" style="display:inline;">
+						<a href="#TB_inline?height=165&amp;width=300&amp;inlineId=modalWriteForUs" title="Write for Us" class="thickbox maintabs">Write for Us</a><span class="maintabseperator">|</span>
+						<div id="modalWriteForUs" style="display:none;">
+							<p style="padding:0px;text-align:justify;font-size:12px;"> Feel free to write for us! We would love to publish your news or article on our site, please contact us at <a href="mailto:info@tennisearth.com" style="color:#0074DB;">info@tennisearth.com</a>. We do not provide any remuneration for your writing, but with us you can certainly reach millions of tennis readers across the globe.</p>
+							<p style="text-align:center;"><input type="button" value="OK" onclick="tb_remove();" class="btnblue"></p>
+						</div>
+					</div>
+					<strong>Copyright © 2012 TennisEarth.com</strong>
+				</li>
+			</ul>
+			<script type="text/javascript"><!--
+				if($.browser.msie && document.location.href.indexOf('/teforum/') > -1) {
+					$('#writeForUsFooter').hide();
+				}
+			// --></script>
+		</div>
+	</div>
+	
+	<div id="onlineBookingRequest" style="display:none;margin-top:5px">
+			<table style="background-color:#F2FFFF;padding:0;" cellpadding="1" cellspacing="4">
+			<tbody><tr>
+				<td style="text-align:right;padding-right:5px"> 
+					<a style="cursor:pointer;" onclick="$('#onlineBookingRequest').slideUp('slow')" class="tooltip" title="Close"><img width="15" height="16" border="0" style="cursor: pointer;vertical-align:middle" class="delete tooltip" src="http://cdn.tennisearth.com/images_new/profile-delete.png" alt="Delete"></a>
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:center"> 
+					Please ask the club managers to contact us at <a href="mailto:info@tennisearth.com" style="text-decoration:underline">info@tennisearth.com</a> to put these courts for online booking. They can try it free for 2 months without any commitments.<br>
+					<!--<center><a href="http://www.tennisearth.com/clubs/booking/showListing.htm?clubId=" style="text-decoration:underline"><a href="#" style="text-decoration:underline">More details - Booking System</a></center>-->
+				</td>
+			</tr>
+			</tbody></table>
+		</div>
+		<style type="text/css">
+			#TB_ajaxContent{background-color:#fff;}
+			#TB_window{border:8px solid #b4b3b3;}
+			.twitterConnect{font-weight:bold;font-family:verdana;cursor:pointer;}
+		</style>
+		
+		<div id="followMatchesPlayers" style="display:none;">
+			<span id="followMatchesPlayersMsg" style="font-size:13px;"></span>
+		</div>
+		<div id="genderModal" style="display: none;">
+			<table>
+				<tbody><tr><td colspan="2">Please Choose Your Gender</td> </tr>
+				<tr><td><input type="radio" id="currentGenderMale" name="currentGender" value="M" checked="checked">Male</td><td> 
+				<input type="radio" id="currentGenderFemale" name="currentGender" value="F"> Female</td>  </tr>
+				<tr><td>&nbsp;</td><td>&nbsp;</td> </tr>
+				<tr><td colspan="2" style="text-align: center;"><input id="updateUserGender" type="button" class="btnblue" value="Submit" onclick="updateUserGender();" style="cursor:pointer;"></td></tr>
+			</tbody></table>
+		</div>
+	
+		<div id="signInModal" style="display:none">
+			<style>
 .num_cols_5{width:100%;}
 </style>
 <script type="text/javascript"><!--
@@ -2237,11 +2295,12 @@ showExternalLoginBox  = false;
 <style type="text/css">
 .accordionContent1{display:none;}
 </style>
+<div class="pnl320M" style="text-align: center; height: auto;border:0" id="registerDiv">
 <div id="accordion1" style="min-height:325px;height:auto;border:1px solid #ccc">
 <div onclick="setRegBoxType('te');accord1('teReg1');" class="head1 regAccord" style="text-align:left;height:30px;"><span class="accordText"><a href="#" style="color:#015fb0">Registration/Login</a></span></div>
 <div id="teReg1" class="accordionContent1" style="min-height:235px;margin-top:0;overflow-x:hidden">
 <div style="width: 300px">
-<div style="font-size: 12px; text-align: center;display:none;" class="textredlogin" id="messageOnLogin">Please Register or Login to receive further Commentary updates</div>
+<div style="font-size: 12px; text-align: center;display:none;" class="textredlogin" id="messageOnLogin1">Please Register or Login to receive further Commentary updates</div>
 <ul class="tabs-nav" style="width:100%;">
 <li id="modalTab11"><a onclick="showRegisterModal('1');" style="cursor:pointer;"><span>REGISTER</span></a></li>
 <li id="modalTab21" class="tabs-selected"><a onclick="showLoginModal('1');" style="cursor:pointer;"><span>LOGIN</span></a></li>
@@ -2511,199 +2570,196 @@ createCookie('_REG_BOX_TYPE',typeName, null, null);
 $(function() {
 externalCalls(); // checkExternalLoginStatus1();
 });
-
-
-
-
 // --></script>
 </div>
 </div>
-<div id="alertWindow" style="display:none;max-height:175px;overflow-x:hidden;overflow-y:auto;">
-<div style="width:100%;">
-<div style="background:url(http://cdn.tennisearth.com/images_new/bg-btn-blue.png) repeat-x;height:27px; font-weight:bold; color:#fff;width:100%;padding:2px 0;">
-<h2 class="head3" style="color:#FFFFFF; margin-left:7px;">&nbsp;Alert</h2>
-<!-- <span style="float: left; cursor: pointer; margin-top: -32px; margin-left: 95%;">&nbsp;&nbsp;<a style="cursor:pointer; text-decoration:underline;font-size:11px;color:#fff;" onclick="hideNonMemberConfirmWindow();" class="tooltip" title="Close this Popup."><img width="15" height="16" border="0" style="cursor: pointer;vertical-align:middle" class="delete tooltip" src="http://cdn.tennisearth.com/images_new/profile-delete.png" alt="Delete" /></a></span> -->
-</div>
-<div style="width:100%;margin:5px;padding-top:0">
-<table style="border:1px solid white;border-collapse:collapse;cursor:default;font-family:Verdana;font-size:12px;text-align:right;width:98%" cellpadding="2" cellspacing="3">
-<thead>
-<tr>
-<td width="100%" align="left" valign="top" style="text-align:center;">
-<div id="alertMessage" style="max-height:175px;overflow-x:hidden;overflow-y:auto;"></div>
-<br>
-</td>
-</tr>
-</thead>
-<tbody><tr class="data1">
-<td width="100%" align="left" valign="top" style="border-left: 1px dotted #ccc;text-align:center;">
-<input type="button" value="OK" style="cursor: pointer;" class="buttonBtn blueBtn" onclick="$('#alertWindow').hide();$('#alertMessage').html('');">
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-</div>
-<div id="confirmWindow" style="display:none;">
-<div style="width:100%;">
-<div style="background:url(http://cdn.tennisearth.com/images_new/bg-btn-blue.png) repeat-x;height:27px; font-weight:bold; color:#fff;width:100%;padding:2px 0;">
-<h2 class="head3" style="color:#FFFFFF; margin-left:7px;">&nbsp;Confirmation</h2>
-<!-- <span style="float: left; cursor: pointer; margin-top: -32px; margin-left: 95%;">&nbsp;&nbsp;<a style="cursor:pointer; text-decoration:underline;font-size:11px;color:#fff;" onclick="hideNonMemberConfirmWindow();" class="tooltip" title="Close this Popup."><img width="15" height="16" border="0" style="cursor: pointer;vertical-align:middle" class="delete tooltip" src="http://cdn.tennisearth.com/images_new/profile-delete.png" alt="Delete" /></a></span> -->
-</div>
-<div style="width:100%;margin:5px;padding-top:0">
-<table style="border:1px solid white;border-collapse:collapse;cursor:default;font-family:Verdana;font-size:12px;text-align:right;width:98%" cellpadding="2" cellspacing="3">
-<thead>
-<tr>
-<td width="100%" align="left" valign="top">
-<div id="confirmMessage" style="max-height:175px;overflow-x:hidden;overflow-y:auto;"></div>
-<br>
-</td>
-</tr>
-</thead>
-<tbody><tr class="data1">
-<td width="100%" align="left" valign="top" style="border-left: 1px dotted #ccc;text-align:center;">
-<input type="button" id="confirmYesBtn" value="Yes" style="cursor: pointer;" class="buttonBtn blueBtn">
-<input type="button" id="confirmNoBtn" value="No" style="cursor: pointer;" class="buttonBtn blueBtn">
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-</div>
+	</div>
+	<div id="alertWindow" style="display:none;max-height:175px;overflow-x:hidden;overflow-y:auto;">
+		<div style="width:100%;">
+			<div style="background:url(http://cdn.tennisearth.com/images_new/bg-btn-blue.png) repeat-x;height:27px; font-weight:bold; color:#fff;width:100%;padding:2px 0;">
+				<h2 class="head3" style="color:#FFFFFF; margin-left:7px;margin-top:3px">&nbsp;Alert</h2>
+				<!-- <span style="float: left; cursor: pointer; margin-top: -32px; margin-left: 95%;">&nbsp;&nbsp;<a style="cursor:pointer; text-decoration:underline;font-size:11px;color:#fff;" onclick="hideNonMemberConfirmWindow();" class="tooltip" title="Close this Popup."><img width="15" height="16" border="0" style="cursor: pointer;vertical-align:middle" class="delete tooltip" src="http://cdn.tennisearth.com/images_new/profile-delete.png" alt="Delete" /></a></span> -->
+			</div>
+			<div style="width:100%;margin:5px;padding-top:0">
+				<table style="border:1px solid white;border-collapse:collapse;cursor:default;font-family:Verdana;font-size:12px;text-align:right;width:98%" cellpadding="2" cellspacing="3">
+					<thead>
+						<tr>
+							<td width="100%" align="left" valign="top" style="text-align:center;">
+								<div id="alertMessage" style="max-height:175px;overflow-x:hidden;overflow-y:auto;"></div>
+								<br>
+							</td>
+						</tr>
+				    </thead>
+					<tbody><tr class="data1">
+						<td width="100%" align="left" valign="top" style="border-left: 1px dotted #ccc;text-align:center;">
+							<input type="button" value="OK" style="cursor: pointer;" class="buttonBtn blueBtn" onclick="$('#alertWindow').hide();$('#alertMessage').html('');">
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
+	</div>
+	<div id="confirmWindow" style="display:none;">
+		<div style="width:100%;">
+			<div style="background:url(http://cdn.tennisearth.com/images_new/bg-btn-blue.png) repeat-x;height:27px; font-weight:bold; color:#fff;width:100%;padding:2px 0;">
+				<h2 class="head3" style="color:#FFFFFF; margin-left:7px;">&nbsp;Confirmation</h2>
+				<!-- <span style="float: left; cursor: pointer; margin-top: -32px; margin-left: 95%;">&nbsp;&nbsp;<a style="cursor:pointer; text-decoration:underline;font-size:11px;color:#fff;" onclick="hideNonMemberConfirmWindow();" class="tooltip" title="Close this Popup."><img width="15" height="16" border="0" style="cursor: pointer;vertical-align:middle" class="delete tooltip" src="http://cdn.tennisearth.com/images_new/profile-delete.png" alt="Delete" /></a></span> -->
+			</div>
+			<div style="width:100%;margin:5px;padding-top:0">
+				<table style="border:1px solid white;border-collapse:collapse;cursor:default;font-family:Verdana;font-size:12px;text-align:right;width:98%" cellpadding="2" cellspacing="3">
+					<thead>
+						<tr>
+							<td width="100%" align="left" valign="top">
+								<div id="confirmMessage" style="max-height:175px;overflow-x:hidden;overflow-y:auto;"></div>
+								<br>
+							</td>
+						</tr>
+				    </thead>
+					<tbody><tr class="data1">
+						<td width="100%" align="left" valign="top" style="border-left: 1px dotted #ccc;text-align:center;">
+							<input type="button" id="confirmYesBtn" value="Yes" style="cursor: pointer;" class="buttonBtn blueBtn">
+							<input type="button" id="confirmNoBtn" value="No" style="cursor: pointer;" class="buttonBtn blueBtn">
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
+	</div>
 <iframe src="http://www.tennisearth.com/ping_session.html" height="0" width="0" frameborder="0" scrolling="no"></iframe>
-<!-- following line added to avoid javascript error on IE.. ( fb.hiddencontainer.get() is null or not an object)-->
-<div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
-<div id="displayDialog" style="display:none"></div>
+	<!-- following line added to avoid javascript error on IE.. ( fb.hiddencontainer.get() is null or not an object)-->
+	<div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
+	<div id="displayDialog" style="display:none"></div>
+	
+	<!-- Hidden box for handling twitter connect events. (@Anywhere API.)  -->
+	<span id="hiddenTwitterLogin" style="display:none;"></span>
+	<script type="text/javascript"><!--
+		var dest = encodeURIComponent(getLoginDestination());
+		$('#hid_dest').val(dest);
+		$('#hid_dest1').val(dest);
+	// --></script>
 
-<!-- Hidden box for handling twitter connect events. (@Anywhere API.)  -->
-<span id="hiddenTwitterLogin" style="display:none;"></span>
-<script type="text/javascript"><!--
-var dest = encodeURIComponent(getLoginDestination());
-$('#hid_dest').val(dest);
-$('#hid_dest1').val(dest);
-// --></script>
+ 	<div id="fb-root" style="width:930px;"><script src="//connect.facebook.net/en_US/all.js" async=""></script></div>
+	<!-- for facebook box widget
+	<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=297298573653";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>-->
 
-<div id="fb-root" style="width:930px;"><script src="//connect.facebook.net/en_US/all.js" async=""></script></div>
-<script type="text/javascript"> 
-window.fbAsyncInit = function() {
-FB.init({
-appId  : '297298573653',
-status : true, // check login status 
-cookie : true, // enable cookies to allow the server to access the session
-xfbml  : true,  // parse XFBML
-oauth : true   //Support for OAuth2.0 protocol.
-}); 
-fbInitialized = true;
-};
+	
+	<script type="text/javascript"> 
+		window.fbAsyncInit = function() {
+			FB.init({
+				appId  : '297298573653',
+				status : true, // check login status 
+				cookie : true, // enable cookies to allow the server to access the session
+				xfbml  : true,  // parse XFBML
+				oauth : true   //Support for OAuth2.0 protocol.
+			}); 
+			fbInitialized = true;
+			facebookConnect();
+		};
+		
+        (function() {  
+			var e = document.createElement('script');  
+        	e.src = '//connect.facebook.net/en_US/all.js';  
+        	e.async = true;  
+        	document.getElementById('fb-root').appendChild(e);  
+        }());  
+        
+		$(function() {
+			var tabindex = 1;
+        	$('input,select').each(function() {
+				if (this.type != "hidden") {
+					var $input = $(this);
+					$input.attr("tabindex", tabindex);
+					tabindex++;
+				}
+			});
+		});
 
-(function() {  
-var e = document.createElement('script');  
-e.src = '//connect.facebook.net/en_US/all.js';  
-e.async = true;  
-document.getElementById('fb-root').appendChild(e);  
-}());  
+		function thickBoxCallback() {
+			showFBThickbox('');
 
-$(function() {
-var tabindex = 1;
-$('input,select').each(function() {
-if (this.type != "hidden") {
-var $input = $(this);
-$input.attr("tabindex", tabindex);
-tabindex++;
-}
-});
-});
+		}
+		
+		// Async script loading
+		if(!tb_show) {
+			$.ajax({ url: '/v/206/scripts_new/thickbox.js?v=206', dataType: 'script', async: true, type: 'GET', cache: true, success: function() {
+					thickBoxCallback();
+				}
+			});
+		} else {
+			thickBoxCallback();
+		}
+		$.ajax({ url: '//www.google.com/cse/brand?form=cse-search-box&lang=en', dataType: 'script', async: true, type: 'GET', cache: true });
+ 		
+				
+		$.ajax({ url: '//platform.twitter.com/anywhere.js?id=DxheKFoRNP0lYZfl22NWA&v=1', dataType: 'script', async: true, type: 'GET', cache: true, success: function() {
+				twttr.anywhere.config({callbackURL: 'http://www.tennisearth.com/twitterAuthRedirect.htm' });
+				twttr.anywhere(function (T) {
+					$('.twitter-connect').click(function(e){T.signIn();});
+				//	$('#twitter-connect-2').click(function(e){T.signIn();});
+					$('#twitter-connect-3').click(function(e){T.signIn();});
+			
+					T('#hiddenTwitterLogin').connectButton({
+						authComplete: function(user, bridge_code) {
+							location.href = 'http://www.tennisearth.com/twitterLogin.htm?destination=' + encodeURIComponent(getLoginDestination()) + '&bridge_code=' + bridge_code + '&user_id=' + user.id;
+						},
+						signOut: function() {
+							// triggered when user logs out
+						}
+					});
+					/*$('#signout').bind('click', function () {
+						twttr.anywhere.signOut();
+					});*/
+				});
+			}
+		});
+		
+	// --></script>  
+	</div>
+	
+<script>   
+			function facebookConnect()
+			{	
+				
+			}			
 
-function thickBoxCallback() {
-showFBThickbox('');
+	</script>
 
-}
-
-// Async script loading
-if(!tb_show) {
-$.ajax({ url: '/v/127/scripts_new/thickbox.js?v=127', dataType: 'script', async: true, type: 'GET', cache: true, success: function() {
-thickBoxCallback();
-}
-});
-} else {
-thickBoxCallback();
-}
-$.ajax({ url: '//www.google.com/cse/brand?form=cse-search-box&lang=en', dataType: 'script', async: true, type: 'GET', cache: true });
-$.ajax({ url: '//platform.twitter.com/anywhere.js?id=DxheKFoRNP0lYZfl22NWA&v=1', dataType: 'script', async: true, type: 'GET', cache: true, success: function() {
-twttr.anywhere.config({callbackURL: 'http://www.tennisearth.com/twitterAuthRedirect.htm' });
-twttr.anywhere(function (T) {
-$('.twitter-connect').click(function(e){T.signIn();});
-//	$('#twitter-connect-2').click(function(e){T.signIn();});
-//	$('#twitter-connect-3').click(function(e){T.signIn();});
-
-T('#hiddenTwitterLogin').connectButton({
-authComplete: function(user, bridge_code) {
-location.href = 'http://www.tennisearth.com/twitterLogin.htm?destination=' + encodeURIComponent(getLoginDestination()) + '&bridge_code=' + bridge_code + '&user_id=' + user.id;
-},
-signOut: function() {
-// triggered when user logs out
-}
-});
-/*$('#signout').bind('click', function () {
-twttr.anywhere.signOut();
-});*/
-});
-}
-});
-// --></script>
-</div>
-<!--
-
--->
-
-<!--<script type="text/javascript">
-$(window).load(function() {
-shareWithFb();
-//var t=setTimeout("shareWithFacebook()",3000);
-
-});
-</script>
 
 <script type="text/javascript">
-function shareWithFb() {
-var test = 'R16';
-alert(test);
-FB.ui({method: 'feed',  //apprequests feed
-display:'dialog',
-message: 'Invite your friends to TennisEarth.',
-link:  'www.tennisearth.com/',		    
-picture: 'http://tennisearth.com/images_new/squareLogo.jpg',
-title: 'Welcome to TennisEarth'		    
-}, function(){});
+  $(window).load(function() {
+	  shareWithFb();
+	  //var t=setTimeout("shareWithFacebook()",3000);
+
+ });
+</script>
+
+
+<script type="text/javascript">
+function shareWithFb() {	
+	
 } 
 </script>
 
-
--->
-<script type="text/javascript">
-  var __lc = {};
-  __lc.license = 1199551;
-
-  (function() {
-    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-    lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-  })();
-</script>
-
 <script type="text/javascript"><!--
-if(location.href.indexOf('/teforum/') == -1) {
-(function() {
-var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-po.src = '//apis.google.com/js/plusone.js';
-var s1 = document.getElementsByTagName('script')[0]; s1.parentNode.insertBefore(po, s1);
-
-var at = document.createElement('script'); at.type = 'text/javascript'; po.async = true;
-at.src = '//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8c49496d2c6681';
-var s2 = document.getElementsByTagName('script')[0]; s2.parentNode.insertBefore(at, s2);
-})();
-}
-// --></script>
-<script type="text/javascript"><!--
+											if(location.href.indexOf('/teforum/') == -1) {
+												(function() {
+												    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+												    po.src = '//apis.google.com/js/plusone.js';
+												    var s1 = document.getElementsByTagName('script')[0]; s1.parentNode.insertBefore(po, s1);
+												    
+												    var at = document.createElement('script'); at.type = 'text/javascript'; po.async = true;
+												    at.src = '//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8c49496d2c6681';
+												    var s2 = document.getElementsByTagName('script')[0]; s2.parentNode.insertBefore(at, s2);
+												})();
+											}
+										// --></script>
+									<script type="text/javascript"><!--
 var setAccount = '';
 if('main' == 'main') {
 setAccount = 'UA-6545025-1';
