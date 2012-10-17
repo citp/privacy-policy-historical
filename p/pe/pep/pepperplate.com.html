@@ -1,23 +1,47 @@
-<!--The following is the downloaded HTML source of the pepperplate.com privacy policy that was archived on 2012-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514010153id_/http%3A//www.pepperplate.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pepperplate.com privacy policy that was archived on 2012-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017023822id_/http%3A//www.pepperplate.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	Pepperplate
-</title><meta name="title" content="Pepperplate and Pepperplate for iPad, iPhone, Android and Kindle Fire - Your recipes, menus, shopping lists and cooking timers."><meta name="description" content="Pepperplate has all the tools you need to cook weeknight dinners or host a dinner party for 12. Manage your recipes, create menus, shop with ease and cook like a pro."><meta name="keywords" content="Recipe, Menu &amp; Cooking Planner, Lifestyle, Productivity, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes, Android, Android apps, Android Market, Kindle Fire"><link rel="Stylesheet" type="text/css" href="/css/home2.css?v=5">
+</title><meta name="title" content="Pepperplate and Pepperplate for iPad, iPhone, Android and Kindle Fire - Your recipes, menus, shopping lists and cooking timers."><meta name="description" content="Pepperplate has all the tools you need to cook weeknight dinners or host a dinner party for 12. Manage your recipes, create menus, shop with ease and cook like a pro."><meta name="keywords" content="Recipe, Menu &amp; Cooking Planner, Lifestyle, Productivity, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes, Android, Android apps, Android Market, Kindle Fire, windows, windows 8, recipe organizing, recipe organizer, food shopping, meal planning"><meta name="apple-itunes-app" content="app-id=403188971"><meta name="msApplication-ID" content="Pepperplate.RecipeMenuCookingPlanner"><meta name="msApplication-PackageFamilyName" content="Pepperplate.RecipeMenuCookingPlanner_cs1tv1brcfn9t"><link rel="Stylesheet" type="text/css" href="/css/home2.css?v=7">
     <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
     <script type="text/javascript" src="/js/jquery.tweetable.min.js"></script>
     <script type="text/javascript">
-        $(document).ready(function () {
-            $('#tweets').tweetable({ username: 'pepperplateapp', time: false, limit: 2, replies: true, position: 'append' });
-            $("img.rollover").hover(
-                function () {
-                    this.src = this.src.replace("_off", "_on");
+        $( document ).ready( function()
+        {
+            $( '#tweets' ).tweetable( { username: 'pepperplateapp', time: false, limit: 2, replies: true, position: 'append' } );
+            $( "img.rollover" ).hover( 
+                function()
+                {
+                    this.src = this.src.replace( "_off", "_on" );
                 },
-                function () {
-                    this.src = this.src.replace("_on", "_off");
+                function()
+                {
+                    this.src = this.src.replace( "_on", "_off" );
                 }
             );
-        });
+
+            $.ajax( {
+                type: "GET",
+                url: "js/getnews.ashx",
+                contentType: "application/json; charset=utf-8",
+                success: function( result )
+                {
+                    var root = $( "#homenewscontainer" );
+
+                    if ( root != null )
+                    {
+                        $( result ).each( function( idx )
+                        {
+                            if ( idx < 3 )
+                                root.append( "<p><a href=\"" + this.link + "\" target=\"_blank\">" + this.title + "</a></p>" );
+                            else
+                                return;
+                        } );
+                    }
+                }
+            } );
+        } );
     </script>
     </head>
 <body>
@@ -172,28 +196,40 @@ Pepperplate reserves the right to change or update this Privacy Policy, or any o
         <div id="news">
             <table>
                 <tbody><tr>
-                    <td class="itemcontainer news" valign="top">
+                    <td class="itemcontainer news" valign="top" rowspan="3">
                         <div class="text">
                             <h2>THE BUZZ</h2>
-                            <p><a href="http://podcasts.nytimes.com/podcasts/2011/02/09/10techtalk.mp3" target="_blank">NY Times Loves Pepperplate!</a></p>
-                            <p><a href="http://gapersblock.com/drivethru/2011/02/04/pepperplate_a_food_nerds_fantasy_app/" target="_blank">Gaper's Block calls Pepperplate A Food Nerd's Fantasy App.</a></p>
-                            <p><a href="http://www.seriouseats.com/2010/12/must-have-iphoneipad-food-apps-and-accessorie.html" target="_blank">Pepperplate is one of Serious Eats Top 10 Food Apps!</a></p>
+                            <div id="homenewscontainer"></div>
                         </div>
                     </td>
-                    <td class="div"></td>
-                    <td class="itemcontainer" valign="top">
+                    <td class="div" rowspan="3"></td>
+                    <td class="itemcontainer" valign="top" rowspan="3">
                         <div class="text">
                             <h2>THE FEED</h2>
                             <div id="tweets"></div>
                         </div>
                     </td>
-                    <td class="div"></td>
-                    <td class="itemcontainer side">
-                        <a href="https://www.pepperplate.com/register.aspx"><img src="/img/home/signup.png" width="137" height="78" alt="SIGN UP &amp; START COOKING"></a>
+                    <td class="div" rowspan="3"></td>
+                    
+                    <td class="itemcontainer">
+                        <table class="appstore">
+                            <tbody><tr>
+                                <td><a href="http://itunes.apple.com/app/id403188971?mt=8" target="_blank"><img src="/img/home/badge_ios.png" class="rollover" height="48" width="146"></a></td>
+                                <td><a href="https://play.google.com/store/apps/details?id=com.pepperplate" target="_blank"><img src="/img/home/badge_android.png" class="rollover" height="45" width="129"></a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="http://www.barnesandnoble.com/w/recipe-menu-cooking-planner-pepperplate-inc/1108649018" target="_blank"><img src="/img/home/badge_nook.png" class="rollover" height="42" width="126"></a></td>
+                                <td><a href="http://www.amazon.com/Pepperplate-Inc-Recipe-Cooking-Planner/dp/B006QB2PTG" target="_blank"><img src="/img/home/badge_amazon.png" class="rollover" height="48" width="146"></a></td>
+                            </tr>
+                        </tbody></table>
                     </td>
-                    <td class="div"></td>
-                    <td class="itemcontainer side appstore">
-                        <a href="http://itunes.apple.com/app/id403188971?mt=8" target="_blank"><img src="/img/home/badge_ios.png" class="rollover" height="48" width="146"></a><a href="https://market.android.com/details?id=com.pepperplate" target="_blank"><img src="/img/home/badge_android.png" class="rollover" height="53" width="146"></a><a href="http://www.amazon.com/Pepperplate-Inc-Recipe-Cooking-Planner/dp/B006QB2PTG" target="_blank"><img src="/img/home/badge_amazon.png" class="rollover" height="48" width="146"></a>
+                </tr>
+                <tr>
+                    <td class="div" height="1"></td>
+                </tr>
+                <tr>
+                    <td class="itemcontainer fs">
+                        <a href="https://www.pepperplate.com/register.aspx"><img src="/img/home/signup2.png" width="402" height="57" alt="SIGN UP &amp; START COOKING"></a>
                     </td>
                 </tr>
             </tbody></table>
@@ -203,16 +239,17 @@ Pepperplate reserves the right to change or update this Privacy Policy, or any o
         </div>
 
         <div id="footer">
-            <div id="legal"> © 2012 Pepperplate Inc. All Rights Reserved. <a href="mailto:feedback@pepperplate.com">Contact</a> <a id="terms" href="/terms.aspx" target="_blank">Terms of Service</a>  <a id="privacy" href="/privacy.aspx" target="_blank">Privacy Policy</a>
+            <div id="legal"> © 2012 Pepperplate Inc. All Rights Reserved. <a href="/about.aspx">About</a> <a href="/about.aspx">Contact</a> <a id="terms" href="/terms.aspx" target="_blank">Terms of Service</a>  <a id="privacy" href="/privacy.aspx" target="_blank">Privacy Policy</a>
             <div id="trademark">Apple, the Apple logo, iPhone, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries.<br>iPad is a trademark of Apple Inc. App Store is a service mark of Apple Inc.</div>
         </div>
     </div>
     </form>
-    <script src="https://www.google-analytics.com/urchin.js" type="text/javascript"> 
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
     </script>
     <script type="text/javascript">
         _uacct = "UA-18648905-1";
         urchinTracker();
     </script>
+    <!-- 1.0.4660.29137 -->
 
 </body></html>
