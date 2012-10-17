@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511130450id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017153023id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # 
 
 ### Privacy Policy
 
-(' **We** ') Amorix Ltd are committed to protecting and respecting your privacy.
+(' **We** ') Interactive Dating & Entertainment Limited are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -51,7 +51,7 @@ We use the information we hold about you in the following ways:
 
   * If you choose to upload your Contact’s name and email address you are allowing us to send an email invitation on your behalf, inviting your Contact to join the Site.
   * We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know.
-  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [support@amorix.biz](mailto:support@amorix.biz).
+  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [admin@idesupport.com](mailto:admin@idesupport.com).
   * We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again.
 
 
