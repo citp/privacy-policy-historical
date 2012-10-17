@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510061930id_/https%3A//www.icicilombard.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017143453id_/https%3A//www.icicilombard.com/privacy-policy.html) for the most accurate reproduction.*
 
-# ICICI Lombard General Insurance Company | Privacy Policy
+# Privacy Policy of ICICI Lombard
 
 We value you as a customer and respect your right to privacy. In the process of operating the Web Site, we may become aware of information relating to you, including information that is of a confidential nature. We are strongly committed to protecting your privacy online and have taken steps to protect such information. To aid us in protecting your privacy, you should maintain secrecy of your login ID and password, if any, provided to you in connection with your account with www.icicilombard.com 
 
