@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booshnews.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052858id_/http%3A//www.booshnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booshnews.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017113335id_/http%3A//www.booshnews.com/privacy-policy) for the most accurate reproduction.*
 
 # IT, Hi-Tech, Science, Medicine and Architecture News » Privacy Policy
 
