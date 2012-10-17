@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513020834id_/https%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017030728id_/https%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Shopp — plugin ecommerce for wordpress
+# Privacy Policy | Shopp — shopping cart & ecommerce plugin for WordPress
 
 Ingenesis Limited, an Ohio limited liability company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
