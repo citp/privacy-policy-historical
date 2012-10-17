@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615100024id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017051716id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy- 12 Week Body Transformation - 12WBT
+# Privacy Policy
 
 ## Michelle Bridges Privacy Policy
 
