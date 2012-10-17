@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614015707id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017101924id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Introduction**
 
-At [india365](http://www.india365.org/ "india365").org we always wanted to have a clean [privacy policy](http://www.india365.org/privacy/ "privacy policy") to protect your privacy. This page discloses the way we gather information and dissemination practices. Do let me know if you have if you  have any questions or suggestions for us.
+At india365.org we always wanted to have a clean [privacy policy](http://www.india365.org/privacy/ "privacy policy") to protect your privacy. This page discloses the way we gather information and dissemination practices. Do let me know if you have if you  have any questions or suggestions for us.
 
 **Personal Information**
 
@@ -66,6 +66,6 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may [contact](http://www.india365.org/contact/ "contact") us using the information below.
 
-mn.[vamsi](http://www.india365.org/about/ "vamsi")@[gmail](http://www.india365.org/gmail-search-emailid-people-address-attachment/ "gmail").com
+mn.vamsi@gmail.com
 
 Rating: 0.0/ **10** (0 votes cast)
