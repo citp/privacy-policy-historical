@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323033810id_/http%3A//www.guns.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017185940id_/http%3A//www.guns.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Guns News and Guns Reviews at Guns.com
+# Privacy Policy - Gun News at Guns.com
 
 At Guns.com, we have created this statement in order to demonstrate our firm commitment to privacy.
 
@@ -26,12 +26,12 @@ Personal information is submitted using high security 128bit encryption. All per
 
 ### Choice/Opt-Out of Guns.com
 
-You can opt out of any marketing emails at any time by clicking on the opt out link on the bottom of the email messages. You can also delete your guns.com account at anytime via [your profile account settings page](https://web.archive.org/user.html).
+You can opt out of any marketing emails at any time by clicking on the opt out link on the bottom of the email messages. You can also delete your guns.com account at anytime via [your profile account settings page](http://www.guns.com/user.html).
 
 ### Correcting or Updating Personal Information
 
-Guns.com provides members with the secure My Account area for changing and modifying information previously provided. This can be accessed anytime on [your profile account settings page](https://web.archive.org/user.html).
+Guns.com provides members with the secure My Account area for changing and modifying information previously provided. This can be accessed anytime on [your profile account settings page](http://www.guns.com/user.html).
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can visit our [contact page](https://web.archive.org/site/contact.html) or email us at privacy@guns.com
+If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can visit our [contact page](http://www.guns.com/contact.html) or email us at privacy@guns.com
