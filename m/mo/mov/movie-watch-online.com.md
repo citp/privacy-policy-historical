@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movie-watch-online.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421174051id_/http%3A//movie-watch-online.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-watch-online.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017082858id_/http%3A//movie-watch-online.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Watch Movies Online
 
