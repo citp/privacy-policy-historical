@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511072004id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017112545id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,11 +17,11 @@ We hate spam as much as you do. Tech-Pro.net **guarantees** that we will not use
 
 ### Cookies and other tracking technologies
 
-As is the case with most websites, Tech-Pro.net uses cookies - small data files that are stored temporarily by your browser - to add functionality to the site, improve your browsing experience and enable the operation of certain features. Cookies are a necessary part of the operation of most modern websites. For example, they may be used to store the details of items purchased on a website so that the items can be displayed when you reach the shopping cart page.
+Most websites use cookies - small data files that are stored temporarily by your browser - to add functionality, improve your browsing experience and enable the operation of certain features. Cookies are a necessary part of the operation of most modern websites. For example, they may be used to store the details of items purchased on a website so that the items can be displayed when you reach the shopping cart page.
 
-Some third party sites linked from this site may place cookies on your computer to record that you reached them via a link from Tech-Pro.net. The information stored in these cookies is not personally identifiable, and simply enables third party sites to pay Tech-Pro.net a commission for its role in generating a sale of a product.
+**Tech-Pro.net does not use cookies.** However, third party sites linked from this site may place cookies on your computer, for example to record that you reached the site via a link from Tech-Pro.net. The information stored in these cookies is not personally identifiable, and simply enables third party sites to compensate Tech-Pro.net for its role in referring visitors to the site.
 
-Tech-Pro.net uses third-party advertising companies including Google to serve ads when you visit our website. These companies may store non personally identifiable information in cookies in order to provide advertisements about goods and services that may be of interest to you. For more information about the DoubleClick cookie used by Google see the [DoubleClick privacy policy](http://www.doubleclick.com/privacy/faq.aspx). To discover how to opt out of receiving DoubleClick cookies, [click here](http://www.google.co.uk/privacy_ads.html).
+Tech-Pro.net uses third-party advertising companies, primarily Google, to serve ads when you visit our website. These companies may store non personally identifiable information in cookies in order to provide advertisements about goods and services that may be of interest to you. For more information about the DoubleClick cookie used by Google see the [DoubleClick privacy policy](http://www.doubleclick.com/privacy/faq.aspx). To discover how to opt out of receiving DoubleClick cookies, [click here](http://www.google.co.uk/privacy_ads.html).
 
 ### Web server logs
 
