@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgeeze.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513110402id_/http%3A//www.techgeeze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgeeze.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017050401id_/http%3A//www.techgeeze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Gadgets and Technology News | TechGeeze
+# Privacy Policy
 
 Privacy Policy : If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tonsblogger [at] gmail [dot] com.
 
