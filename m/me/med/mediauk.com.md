@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediauk.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513152833id_/http%3A//www.mediauk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediauk.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017172647id_/http%3A//www.mediauk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This was last updated February 2012. It reflects that we accept login by Facebook and Google, and how we store the information given; and that we now use Criteo for some advertising._
+_This was last updated July 2012. We've removed mention of Rackspace Cloud Files (we don't use them any more); removed Criteo from our privacy policy, and changed our social media policy._
 
 **Data Protection Act 1998 (UK)**   
 This website is hosted in the UK, and run by [Not At All Bad Ltd](http://notatallbad.ltd.uk/). Not At All Bad Ltd is registered in the UK under the Data Protection Act 1998. Our registration number is Z1084808. Our Data Controller is James Cridland - you can contact him at james.cridland@mediauk.com. 
@@ -10,17 +10,8 @@ This website is hosted in the UK, and run by [Not At All Bad Ltd](http://notatal
 **Webservers and automatically-captured information**   
 Not At All Bad Ltd runs www.mediauk.com. This website automatically collects information about which pages are visited, browsers used, the domain name (e.g., aol.com) of visitors, and information about where the user has come from. We use this to dynamically write the site so that it's relevant to you, and we also use it for internal review and for traffic audits. We use Google Analytics to assist us, who have a separate privacy policy: no personally-identifiable information is kept by Google Analytics. 
 
-**Third party resources**   
-Unlike many websites, we strive not to use third-party resources in our website. "Tweet this", "Facebook Like" and other snippets of code and images normally come from other websites, and, as a consequence, these companies know which pages you're looking at if it uses their code. We believe this is bad for your privacy; and accordingly, Media UK tries not to use third-party resources wherever possible. 
-
 **Cookies**   
-To help your surfing experience, this site uses cookies. Cookies are small files which help identify you to us when you ask for pages from our site. 
-
-When you log in, we store a user-specific key inside a cookie ("muku"), so we know who we are. There is no personal information stored in this cookie: it's just a unique identifier for our database. It changes every time you log in. 
-
-If you do not accept cookies, you can still passively use the site. This cookie is essential, however, if you want to log in. 
-
-Google Analytics stores information in Media UK's cookie to assist in its analysis. 
+To help your surfing experience, this site uses cookies. If you do not accept cookies, you can still passively use the site. This cookie is essential, however, if you want to log in. Our [cookies](https://web.archive.org/cookies/) page details what cookies we use, what they contain, and whether we know who you are. 
 
 **Email addresses and personal details**   
 To passively use our site, we do not need any personal information. 
@@ -40,7 +31,7 @@ Our daily email alerts and job postings all require a valid email address. You w
 
 Our daily email alerts come from alerts@mediauk.com and use the 'Precedence: bulk' mail header as recommended by Google. We want to make it easy to unsubscribe from these daily emails. Every one contains an unsubscribe link at the bottom, and further unsubscribe links in the List-Unsubscribe header, conforming with RFC2369. These trigger an 'unsubscribe' link in systems like Gmail and other email services. 
 
-Our discussion alert emails come from admin@mediauk.com - we do not treat these as bulk mail. These have an unsubscribe link at the bottom of each message. 
+Our discussion alert emails come from admin@mediauk.com - we do not treat these as bulk mail. These have an unsubscribe link at the bottom of each message, and are DKIM-signed. 
 
 To protect the health and reputation of our service, and ensure that all user details are correct, we monitor and agressively remove bouncing email addresses. If your email address bounces, your subscriptions to our email alerts, or discussion membership, may cease without warning or notification. 
 
@@ -57,7 +48,7 @@ However, by posting messages which could be considered as defamatory or libellou
 YOU CANNOT USE THIS SITE TO POST LIBELLOUS, DEFAMATORY OR OTHERWISE ILLEGAL POSTINGS. 
 
 **Advertising**   
-Our advertising is supplied by Google AdSense and Criteo. Both companies use third-party advertising companies to serve ads when you visit this website, and use cookies. These companies may use your visiting behaviour on this and other websites in order to provide advertisements about goods and services of interest to you (rather than just giving you irrelevant advertising). 
+Our advertising is supplied by Google AdSense. Both companies use third-party advertising companies to serve ads when you visit this website, and use cookies. These companies may use your visiting behaviour on this and other websites in order to provide advertisements about goods and services of interest to you (rather than just giving you irrelevant advertising). 
 
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. You can read more about this, and opt out of this cookie, by visiting [Google's privacy policy](http://www.google.com/privacy_ads.html). 
 
@@ -71,7 +62,7 @@ The website at www.mediauk.net is governed by these privacy policies. All other 
 The short-link server at muk.fm is governed by these privacy policies. It uses no cookies, nor Google Analytics, and contains no advertising. This website automatically collects information about which pages are visited, browsers used, the domain name (e.g., aol.com) of visitors, and information about where the user has come from in the form of logfiles, which are regularly erased. 
 
 ***.mediauk.com and *.muk.fm**   
-Subdomains of mediauk.com (except www.mediauk.com) and muk.fm are stored on Amazon S3 or Amazon Cloudfront, and are used to store static files. They use no cookies, nor Google Analytics. We do not maintain the logfiles on these domains. 
+Subdomains of mediauk.com (except www.mediauk.com) and *.muk.fm are stored on Amazon S3 and Amazon Cloudfront, and are used to store static files. They use no cookies, nor Google Analytics. We do not collect logfiles on these domains. 
 
 **Agreement**   
 By using this site, you signify your assent to this policy, and also to our copyright restrictions. If you do not agree, please do not use the site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes.
