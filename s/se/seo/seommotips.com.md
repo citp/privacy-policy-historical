@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seommotips.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524211321id_/http%3A//www.seommotips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seommotips.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017160912id_/http%3A//www.seommotips.com/privacy-policy) for the most accurate reproduction.*
 
-# SEO MMO Tips | Privacy Policy | SEO MMO Tips
+# Privacy Policy |
 
 This privacy policy sets out how SEO MMO Tips Blog uses and protects any information that you give SEO MMO Tips Blog when you use this website.
 
@@ -61,10 +61,6 @@ We will not sell, distribute or lease your personal information to third parties
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Milan Marg, Syuchatar – 1, 44601 Kathmandu, , Nepal.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
-### [Suresh Khanal](http://www.seommotips.com/author/Suresh%20Khanal/ "Suresh Khanal")
-
-Hi I'm Suresh Khanal - Part time blogger and a helpful simple man, started SEO MMO Tips to share blogging experience with new bloggers to create, promote and monetize the blogs. I believe the tips and tools shared on this blog are helpful to learn blogging, search engine optimization and making money online!
-
-[More Posts](http://www.seommotips.com/author/Suresh%20Khanal/ "More posts by Suresh Khanal") \- [Website](http://seommotips.com/ "Suresh Khanal") \- [Twitter](http://www.twitter.com/seommotips) \- [Facebook](http://www.facebook.com/shkhanal) \- [Pinterest](http://www.pinterest.com/shkhanal) \- [Google Plus](https://plus.google.com/u/0/117585083348936297878/posts) \- [StumbleUpon](http://www.stumbleupon.com/stumbler/stumbler/icttrends)
+ 
