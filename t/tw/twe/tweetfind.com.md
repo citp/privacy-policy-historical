@@ -1,49 +1,6 @@
-> *The following text is extracted and transformed from the tweetfind.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629224629id_/http%3A//www.tweetfind.com/p/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetfind.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017191444id_/http%3A//www.tweetfind.com/p/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Twitter Directory and Search Twitter Accounts
-
-                   FREE Listing  
-
-
-**                            Reviewed within 30 Days  
-**
-
-                   •Get Reviewed in 24 Hours 
-
-                                       with a Pro Listing
-
-**[Click here to view PRO Listing  
-](http://www.tweetfind.com/suggest-listing.php?id=6)**
-
-Free Listing Features:
-
-   • **(Included in Free Account)** Display Twitter Address
-
-   • **(Included in Free Account)** Twitter Lists
-
-   • **(Included in Free Account)** Inside Twitter Category  
-
-
-   • **(Not Included in Free Account)**   Inside Targeted Category  
-
-
-   • **(Not Included in Free Account)**   Display your Description
-
-   •  **(Not Included in Free Account)** Display your Website
-
-   • **(Not Included in Free Account)**   Display your Phone Number  
-
-
-   • **(Not Included in Free Account)**   Display your Mailing Address
-
-   •  **(Not Included in Free Account)**   Display 10 Keywords
-
-  • **(Not Included in Free Account)**   Display your Blog
-
-       •Get Noticed more with a Pro Listing
-
-**[Click here to view PRO Listing  
-](http://www.tweetfind.com/suggest-listing.php?id=6)**
 
 | 
 
