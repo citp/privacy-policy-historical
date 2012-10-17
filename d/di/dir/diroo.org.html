@@ -1,0 +1,325 @@
+<!--The following is the downloaded HTML source of the diroo.org privacy policy that was archived on 2012-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017081457id_/http%3A//www.diroo.org/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Diroo | Website Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Professional/style/main.css">
+<meta name="keywords" content="privacy policy, privacy, diroo website directory, diroo">
+<meta name="description" content="The Diroo Website Directory Privacy Policy Page">
+<meta name="author" content="Diroo Website Directory">
+<meta name="copyright" content="Copyright (c) 2012 Diroo. All Rights Reserved.">
+<meta name="robots" content="INDEX,FOLLOW">
+<!--  
+<script type="text/javascript" src="/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+</head>
+<body><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.diroo.org/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+&nbsp;</p>
+</div></div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Professional/images/logo.png" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get">
+<label class="searchLabel">Search:</label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+<div class="searchBtn">
+<div class="searchBtnLeft"></div>
+<button class="searchBtnCenter" type="submit">GO</button>
+<div class="searchBtnRight"></div>
+</div>
+</form>		
+</div>
+</div><div class="hMenuContainer"><div class="center"><div class="hMenu"><img src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/submit.php" title="Submit your website to the directory">Submit Website</a><img src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="http://www.diroo.org/rules.php" title="Please read our submission rules before submitting your website">Submission Rules</a><img src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/index.php?list=latest" title="Browse latest 50 Featured websites added to the directory">Latest 50 Featured</a><img src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/services.html" title="Additional services from Diroo">Services</a><img src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/about_us.html" title="About Us">About Us</a><img src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/contact.php" title="Contact the Diroo Website Directory Team">Contact Us</a><img src="/templates/Professional/images/hMenuSeparator.gif" alt=""></div></div></div><div class="path"><a href="/" style="font-weight: bold;">Diroo</a> <img src="/templates/Professional/images/pathArrow.gif" alt=" - "> Privacy Policy</div><div class="center1"><div class="leftContainer" style="width: 215px; ">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Website Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/Arts___Humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+</li>
+<li>
+<a href="/Business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/Careers/" title="Careers">Careers</a>
+</li>
+<li>
+<a href="/Computers/" title="Computers">Computers</a>
+</li>
+<li>
+<a href="/Education/" title="Education">Education</a>
+</li>
+<li>
+<a href="/Entertainment/" title="Entertainment">Entertainment</a>
+</li>
+<li>
+<a href="/Health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/Internet/" title="Internet">Internet</a>
+</li>
+<li>
+<a href="/Kids/" title="Kids">Kids</a>
+</li>
+<li>
+<a href="/Lifestyle/" title="Lifestyle">Lifestyle</a>
+</li>
+<li>
+<a href="/Money_Finance/" title="Money/Finance">Money/Finance</a>
+</li>
+<li>
+<a href="/Motoring/" title="Motoring">Motoring</a>
+</li>
+<li>
+<a href="/News___Media/" title="News &amp; Media">News &amp; Media</a>
+</li>
+<li>
+<a href="/Politics___Government/" title="Politics &amp; Government">Politics &amp; Government</a>
+</li>
+<li>
+<a href="/Reference/" title="Reference">Reference</a>
+</li>
+<li>
+<a href="/Science___Technology/" title="Science &amp; Technology">Science &amp; Technology</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Sport/" title="Sport">Sport</a>
+</li>
+<li>
+<a href="/Travel/" title="Travel">Travel</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+<br>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><div style="font-family: arial;"><span style="font-size: small;"><strong>What information do we collect?</strong> </span><br><br><span style="font-size: small;">We collect information from you when you submit a website or fill out the contact form. </span><br><br><span style="font-size: small;">When submitting a website or filling out the contact form on our site, as appropriate, you may be asked to enter your: name and e-mail address. You may, however, visit our site anonymously.</span><br><br><span style="font-size: small;"><strong>What do we use your information for?</strong> </span><br><br><span style="font-size: small;">Any of the information we collect from you may be used in one of the following ways: </span><br><br><span style="font-size: small;">; To personalise your experience</span><br><span style="font-size: small;">(your information helps us to better respond to your individual needs)</span><br><br><span style="font-size: small;">; To improve our website</span><br><span style="font-size: small;">(we continually strive to improve our website offerings based on the information and feedback we receive from you)</span><br><br><span style="font-size: small;">; To improve customer service</span><br><span style="font-size: small;">(your information helps us to more effectively respond to your customer service requests and support needs)</span><br><br><span style="font-size: small;">; To process transactions</span></div>
+<div style="font-family: arial;">(<span style="font-size: small; ">Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)</span></div>
+<div style="font-family: arial;"><br><span style="font-size: small;">; To administer a contest, promotion, survey or other site feature</span><br><br><span style="font-size: small;">; To send periodic emails</span></div>
+<div style="font-family: arial;"><span style="font-size: small; ">(The email address you provided when submitting a website, may be used to send you information and updates pertaining to your listing, in addition to receiving occasional company news, updates, related product or service information, etc.)</span></div>
+<div style="font-family: arial;"><span style="font-size: small;"> Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</span><br><br><span style="font-size: small;"><strong>How do we protect your information?</strong> </span><br><br><span style="font-size: small;">We implement a variety of security measures to maintain the safety of your personal information when you submit a website or use the contact form.</span><br><br><span style="font-size: small;"><strong>Do we use cookies?</strong> </span><br><br><span style="font-size: small;">Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognise your browser and capture and remember certain information.</span><br><br><span style="font-size: small;"> We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</span><br><br><span style="font-size: small;">If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still submit websites and use our contact form.</span><br><br><span style="font-size: small;"><strong>Do we disclose any information to outside parties?</strong> </span><br><br><span style="font-size: small;">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</span><br><br><span style="font-size: small;"><strong>Third party links</strong> </span><br><br><span style="font-size: small;"> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</span><br><br><span style="font-size: small;"><strong>California Online Privacy Protection Act Compliance</strong></span><br><br><span style="font-size: small;">Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</span><br><br><span style="font-size: small;"><strong>Childrens Online Privacy Protection Act Compliance</strong> </span><br><br><span style="font-size: small;">We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</span><br><br><span style="font-size: small;"><strong>Online Privacy Policy Only</strong> </span><br><br><span style="font-size: small;">This online privacy policy applies only to information collected through our website and not to information collected offline.</span><br><br><span style="font-size: small;"><strong>Terms and Conditions</strong> </span><br><br><span style="font-size: small;">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.diroo.org/terms.html">http://www.diroo.org/terms.html</a></span><br><br><span style="font-size: small;"><strong>Your Consent</strong> </span><br><br><span style="font-size: small;">By using our site, you consent to our online privacy policy.</span><br><br><span style="font-size: small;"><strong>Changes to our Privacy Policy</strong> </span><br><br><span style="font-size: small;">If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. </span><br><br><span style="font-size: small;">This policy was last modified on 22/07/2012</span></div></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div>
+<h3>Diroo Social Networking Communities</h3>
+<br>
+<center>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FDirooDirectory&amp;width=468&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false&amp;height=395" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:468px; height:395px;" allowtransparency="true"></iframe>
+</center>
+<br>
+<br>
+<center>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+version: 2,
+type: 'profile',
+rpp: 30,
+interval: 6000,
+width: 468,
+height: 279,
+theme: {
+shell: {
+background: '#78c0ff',
+color: '#000000'
+},
+tweets: {
+background: '#ffffff',
+color: '#000000',
+links: '#000dff'
+}
+},
+features: {
+scrollbar: true,
+loop: false,
+live: false,
+hashtags: true,
+timestamp: true,
+avatars: false,
+behavior: 'all'
+}
+}).render().setUser('DirooDirectory').start();
+</script>
+</center>
+<br>
+<center>
+<a href="http://twitter.com/DirooDirectory" class="twitter-follow-button">Follow @DirooDirectory</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</center>
+<br>
+<br>
+<center>
+<script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
+<g:plus href="https://plus.google.com/107988714537742252863" rel="publisher" width="468" height="131" theme="light"></g:plus>
+</center>
+</div><div class="centerContainerB"></div></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Share This Page</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<center>
+<table>
+<tbody><tr><td>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_compact"></a>
+<g:plusone count="false"></g:plusone>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=diroo"></script>
+<!-- AddThis Button END -->
+</td>
+</tr></tbody></table>
+</center>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+</div><div style="clear: both; height: 30px;"></div></div><div class="footer"><font face="Arial" size="2">Copyright 2012 Diroo.org. All Rights Reserved.<br><a href="http://www.diroo.org/privacy.html">Privacy Policy</a>&nbsp;| <a href="http://www.diroo.org/terms.html">Legal Notice and Terms of Service</a><br><br></font></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12588880-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>
