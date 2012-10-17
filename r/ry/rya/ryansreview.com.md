@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryansreview.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124033612id_/http%3A//www.ryansreview.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryansreview.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017021441id_/http%3A//www.ryansreview.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,3 @@ ryanmoran@ryansreview.com
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
 This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
-
-Browse >
-
-[Home](http://www.ryansreview.com/ "Browse to: Home") / Privacy Policy 
