@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealbase.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630082012id_/http%3A//www.dealbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealbase.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017021941id_/http%3A//www.dealbase.com/privacy) for the most accurate reproduction.*
 
 # DealBase.com Privacy Policy
 
@@ -32,7 +32,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer’s hard 
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of dealbase.com’s coolest features, and we recommend that you leave them turned on.
 
-**Third Party Cookies: We use third-party companies to serve ads and collect information when your visit dealbase.com. These companies may use information (not including Personal Information such as your name, address, email address or telephone number) about your visits to dealbase.com in order to provide advertisements on dealbase.com and other websites about goods and services that may be of interest to you. These companies may employ their own cookies in addition to ours. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[click here](http://www.networkadvertising.org/consumer/opt_out.asp).**
+**Third Party Cookies: We use third-party companies to serve ads and collect information when your visit dealbase.com. These companies may use information (not including Personal Information such as your name, address, email address or telephone number) about your visits to dealbase.com in order to provide advertisements on dealbase.com, other websites and other forms of media about goods and services that may be of interest to you. These companies may employ their own cookies in addition to ours. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[click here](http://www.networkadvertising.org/consumer/opt_out.asp).**
 
 **If you would like to see what information one of these companies has collected about your Internet usage, please[click here](http://www.bluekai.com/registryoverview.html).**
 
