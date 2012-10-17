@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511123520id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017084737id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
 
 # Design Style
 
