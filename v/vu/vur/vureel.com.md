@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001423id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017075427id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
 
 # VuReel - Watch Online Videos
 
