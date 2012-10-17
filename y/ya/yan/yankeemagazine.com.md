@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609020641id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017042516id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Yankee Magazine
 
@@ -44,3 +44,5 @@ Thank you for your interest in YANKEE Magazine, YankeeMagazine.com and NewEnglan
 Yankee Publishing Inc., publishers of: YANKEE Magazine, _The Old Farmer's Almanac,_ and _The Old Farmer's Almanac Garden Guide._
 
 On the Web at: [www.YankeeMagazine.com](http://www.yankeemagazine.com/) and [www.Almanac.com](http://www.almanac.com/)
+
+_Please Note: This article was accurate at the time of publication. When planning a trip, please confirm details by directly contacting any company or establishment you intend to visit._
