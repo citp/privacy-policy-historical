@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blitz.io privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617151041id_/http%3A//blitz.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blitz.io privacy policy that was archived on 2012-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017032407id_/http%3A//blitz.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head><style type="text/css"></style>
 <meta charset="utf-8">
@@ -19,9 +19,11 @@ Privacy
 <link href="/css/prettify.css" rel="stylesheet">
 <link href="/css/fancybox.css" rel="stylesheet">
 <link href="/css/fileuploader.css" rel="stylesheet">
+<link href="/css/jquery.countdown.css" rel="stylesheet">
 <link href="/css/screen_print.css" media="print" rel="stylesheet">
 <link href="/css/print.css" media="print" rel="stylesheet">
 <link href="/css/about.css" rel="stylesheet">
+<link href="/css/layout.css" rel="stylesheet">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   //<![CDATA[
     window.blitz_admin = false;
@@ -34,6 +36,7 @@ Privacy
     window.blitz_docs = function (route) {
         return 'http://docs.blitz.io' + route;
     };
+    window.blitz_plan_expiration = null;
   //]]>
 </script>
 
@@ -42,7 +45,8 @@ Privacy
 <![endif]-->
 <script>
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-1065683-13']);
+_gaq.push(['_setAccount', 'UA-34252016-1']);
+_gaq.push(['_setDomainName', '.blitz.io']);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_trackPageLoadTime']);
 (function() {
@@ -236,15 +240,19 @@ If this Privacy Policy changes, the revised policy will be posted on this site. 
 <script src="/js/libs/jquery-1.4.4.min.js"></script>
 <script src="/js/libs/modernizr-1.6.min.js"></script>
 <script src="/js/libs/underscore-1.3.1.min.js"></script>
+<script src="/js/libs/backbone.js"></script>
 <script src="/js/libs/jquery-ui-1.8.9.custom.min.js"></script>
 <script src="/js/libs/jquery.fancybox-1.3.4.pack.js"></script>
 <script src="/js/libs/jcarousellite_1.0.1.min.js"></script>
+<script src="/js/libs/jquery.countdown.min.js"></script>
 <script src="/js/blitz.api.js"></script>
 <script src="/js/blitz.ping.js"></script>
 <script src="/js/blitz.tour.js"></script>
 <script src="/js/blitz.common.js"></script>
 <script src="/js/libs/autoresize.jquery.min.js"></script>
 <script src="/js/libs/fileuploader.js"></script>
+<script src="/js/views/all_pages.js"></script>
+<script src="/js/blitz.layout.js"></script>
 
 
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
