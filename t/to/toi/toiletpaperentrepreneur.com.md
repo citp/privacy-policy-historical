@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toiletpaperentrepreneur.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520083132id_/http%3A//www.toiletpaperentrepreneur.com/internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toiletpaperentrepreneur.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017060716id_/http%3A//www.toiletpaperentrepreneur.com/internet-privacy-policy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | Toilet Paper Entrepreneur
 
