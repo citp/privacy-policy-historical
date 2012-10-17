@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slimerweight.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618123132id_/http%3A//www.slimerweight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimerweight.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017111144id_/http%3A//www.slimerweight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Getting Slimmer One Pound At A Time - Slimerweight
+# Privacy Policy | Slimerweight
 
 Welcome to slimerweight.com (the “Site”).
 
@@ -65,16 +65,3 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Welcome%20to%20slimerweight.com%20%28the%20%E2%80%9CSite%E2%80%9D%29.%0D%0A%0D%0AWe%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.%20This%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%E2%80%9DVisitor "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&srcTitle=Slimerweight+Getting+Slimmer+One+Pound+At+A+Time "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Slimerweight+Getting+Slimmer+One+Pound+At+A+Time&summary=Welcome%20to%20slimerweight.com%20%28the%20%E2%80%9CSite%E2%80%9D%29.%0D%0A%0D%0AWe%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.%20This%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%E2%80%9DVisitor "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.slimerweight.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
