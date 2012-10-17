@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151041id_/http%3A//blitz.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017032407id_/http%3A//blitz.io/privacy) for the most accurate reproduction.*
 
 # Blitz - Privacy
 
