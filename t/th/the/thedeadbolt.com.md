@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedeadbolt.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603011339id_/http%3A//www.thedeadbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedeadbolt.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017063427id_/http%3A//www.thedeadbolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,4 +102,4 @@ You can also contact us by mail at the following address:
 The Deadbolt  
 901-1865 Barclay Street  
 Vancouver, BC.  
-V6G 1K7
+V6G 1K7 
