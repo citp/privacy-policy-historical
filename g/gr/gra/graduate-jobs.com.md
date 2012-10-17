@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520184101id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017050448id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
 
 # graduate-jobs.com - Graduate Jobs UK and graduate recruitment
 
@@ -14,6 +14,8 @@ graduate-jobs.com UK Ltd
 22 Creighton Road  
 London  
 NW6 6ED
+
+Phone: +44 20 7609 5400
 
 Registered company number: 03928623  
 Data Protection Act registration number: Z6515152
