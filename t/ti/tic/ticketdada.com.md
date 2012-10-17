@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketdada.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234945id_/http%3A//www.ticketdada.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketdada.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017055757id_/http%3A//www.ticketdada.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ticket Dada Help
 
@@ -19,3 +19,5 @@ As is true of most Web sites, we gather certain information automatically and st
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track user's movements around the site and to gather demographic information about our user base as a whole. TicektDADA will not use the information collected to market directly to that person.   
 In some of our email messages we use a "click-through URL" linked to content on the TicektDADA website. When a customer clicks one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email. In addition we use pixel tags tiny graphic images to tell us what parts of our website customers have visited or to measure the effectiveness of searches customers perform on our site.   
 We store all of this information in a secure database located in and outside of India. We do not knowingly solicit personal information from minors or send them requests for personal information. TicektDADA’s website has links to the sites of other companies. TicektDADA is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. TicektDADA may update its privacy policy from time to time. 
+
+[ Purchase Policy](https://web.archive.org/web/20121017055757id_/http%3A//www.ticketdada.com/Purchase%20Policy.htm)
