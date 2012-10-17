@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medixselect.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430023725id_/http%3A//www.medixselect.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medixselect.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017102052id_/http%3A//www.medixselect.com/event/page/pageCode/privacy) for the most accurate reproduction.*
 
-# Medix Select - Privacy Policy
+# Privacy Policy | Medix Select
 
-**April 27, 2010**
+## Privacy Policy
 
 This Privacy Policy (the "Privacy Policy") and other policies which may be posted on this website (the "Site"), such as Terms and Conditions of Use ("Terms and Conditions") and, if you purchase, enroll in or subscribe to any of the services, products or materials provided by Medix Health, LLC., MedixSelect.com or any of our affiliates on this Site ("Medix Health"), those purchase, enrollment or subscription terms (the "Other Agreements"), together govern your use of this Site. ALL OF THE AFORE-MENTIONED GOVERN YOUR USE OF THE SITE EVEN IN THE EVENT YOU ARE ACTING AS AN EMPLOYEE, AGENT, REPRESENTATIVE OR CONTRACTOR ON BEHALF OF ANY OTHER ENTITY OR PERSON. BY USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO. If you have any questions or concerns regarding this Privacy Policy, please contact: 800-xxx-xxxx.
 
