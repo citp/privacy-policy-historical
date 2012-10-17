@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oanda.sg privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618211803id_/http%3A//www.oanda.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.sg privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017153017id_/http%3A//www.oanda.sg/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OANDA Asia Pacific
 
@@ -67,7 +67,7 @@ OANDA has implemented procedures to safeguard customer Personal Information. OAN
 
 ### G. "Cookies"
 
-OANDA uses cookies and other tracking mechanisms to: (i) facilitate customer use of our website and mobile applications, (ii) enable customization of our online services and website features, (iii) avoid customer re-entry of data, (iv) store customer preferences for certain kinds of information, and (v) gather data about usage of our website and mobile applications for research and promotions. Cookies stored on customers’ web browsers by OANDA cannot be read by, and are not shared with, any third parties. Customers can configure their browser preferences not to accept these cookies.
+OANDA uses cookies and other tracking mechanisms to: (i) facilitate customer use of our website and mobile applications, (ii) enable customization of our online services and website features, (iii) avoid customer re-entry of data, (iv) store customer preferences for certain kinds of information, and (v) gather data about usage of our website and mobile applications for research and promotions. OANDA uses cookies from third party service providers to facilitate website tracking. Cookies stored on customers’ web browsers by OANDA cannot be read by, and are not shared with, any third parties. Customers can configure their browser preferences not to accept these cookies.
 
 Some third-party vendors that provide ads on OANDA web pages may use cookies to collect details on customer website visits and other data (but not names, addresses, email addresses, or telephone numbers) in order to provide ads about goods and services of particular interest to individual customers. For more information on this practice or to opt out, customers can visit the Network Advertising Initiative site at http://www.networkadvertising.org/managing/opt_out.asp or, in the case of Google's DoubleClick DART cookie, by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
@@ -90,4 +90,4 @@ OANDA will provide an initial notice of its Privacy Policy to customers at the t
 
 ### J. Contact Us
 
-We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to email us or write to us at OANDA Asia Pacific Pte. Ltd, 20 Cross Street, #03-11 China Square Central, Singapore 048422.
+We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to email us or write to us at OANDA Asia Pacific Pte. Ltd, 50 Collyer Quay, #04-03 OUE Bayfront, Singapore 049321.
