@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the convertstring.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603003512id_/http%3A//convertstring.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the convertstring.com privacy policy that was archived on 2012-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017061916id_/http%3A//convertstring.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -7,7 +7,7 @@
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="/Scripts/Site01.js"></script>
 	<link rel="Stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/redmond/jquery-ui.css">
-	<link rel="Stylesheet" href="/Content/Site10.css">     
+	<link rel="Stylesheet" href="/Content/Site11.css">     
 	<script type="text/javascript" src="/Scripts/fg.menu.js"></script>
 	<link rel="Stylesheet" href="/Content/fg.menu.css">
 		<style type="text/css">
@@ -87,9 +87,29 @@
               $(this).addClass("ui-state-active");
             });
         }
+        $('#eucookielawPanel button').button().click(function () {
+            $('#eucookielawPanel').slideUp('slow');
+        });
+        if ($.cookie('eucookie') == null) {
+            $.getJSON( "http://smart-ip.net/geoip-json?callback=?",
+                function(data){
+                    var c = data.countryCode;
+                    if(c=="AT" || c=="BE" || c=="BG" || c=="CY" || c=="CZ" || c=="DK" || c=="EE" || c=="FI" || c=="FR" || c=="DE" || c=="GR" ||
+                       c=="HU" || c=="IE" || c=="IT" || c=="LV" || c=="LT" || c=="LU" || c=="MT" || c=="NE" || c=="PL" || c=="PT" || c=="RO" ||
+                       c=="SK" || c=="ES" || c=="SE" || c=="GB" || c=="UK")
+                    {
+                        $('#eucookielawPanel').slideDown('slow');
+                        $.cookie('eucookie', true, { expires: 365 * 10 });
+                    }
+            });
+        }
+        else {
+            $.cookie('eucookie', false, { expires: 365 * 10 });
+            $('#eucookielawPanel').remove();
+        }
 	});
 	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-2108945-5'], ['_setCustomVar', 1, 'Language', 'en', 3], , ['_trackPageview']);
+	_gaq.push(['_setAccount', 'UA-2108945-5'], ['_setCustomVar', 1, 'Language', 'en', 3], ['_trackPageview']);
 	(function () { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s) })();   
 	</script>
 <title>
@@ -148,7 +168,7 @@
 				  <li><ul></ul></li>
 			</ul>
 		</div>&nbsp;
-        <a href="https://convertstring.com/Privacy" id="ssltoggle" title="Turn on SSL security">SSL Off</a>
+        <a href="http://convertstring.com/Privacy" id="ssltoggle" title="SSL Security Enabled">SSL On</a>
 		</div>
 	</div>
 	<div id="hd" class="container ui-widget ui-widget-content ui-widget-header ui-corner-all ui-helper-clearfix">
@@ -264,6 +284,11 @@ AdSense Privacy Policy provided by <a href="http://www.JenSense.com">JenSense</a
     </div>
 
 	</div> 
+</div>
+<div id="eucookielaw">
+<div id="eucookielawPanel" class="ui-widget ui-widget-content ui-widget-header">
+<p>Please note that by viewing our site you agree to our use of cookies (see <a href="/Privacy" title="Convert String - Privacy Policy">Privacy</a> for details). You will only see this message once.<button>I'm fine with this [X]</button></p>
+</div>
 </div>
 
 
