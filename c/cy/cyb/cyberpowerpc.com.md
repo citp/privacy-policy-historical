@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507010246id_/http%3A//www.cyberpowerpc.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017114848id_/http%3A//www.cyberpowerpc.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# CyberPower Inc. - UNLEASH THE POWER - Create the Custom Gaming PC and Laptop Computer of your dreams
+# Privacy
 
 ### Information
 
@@ -16,8 +16,8 @@ Please make sure your browser is able to accept cookies from our website (see yo
 
 ### Security
 
-Cyberpower is committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+CyberPowerPC is committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Your credit card security is our highest priority. Cyberpower utilizes Secure Sockets Layer (SSL) encryption, an advanced encryption technology that protects the information you send us against unauthorized access. This safeguard has helped, in many cases, to make shopping on the Internet significantly safer than using your credit card at a restaurant or department store
+Your credit card security is our highest priority. CyberPowerPC utilizes Secure Sockets Layer (SSL) encryption, an advanced encryption technology that protects the information you send us against unauthorized access. This safeguard has helped, in many cases, to make shopping on the Internet significantly safer than using your credit card at a restaurant or department store
 
-If you have any question regarding our online security and privacy, you may contact us at [cyberpower@cyberpowerpc.com.](mailto:cyberpower@cyberpowerpc.com.)
+If you have any question regarding our online security and privacy, you may contact us at [cyberpower@cyberpowerpc.com.](mailto:cyberpower@cyberpowerpc.com)
