@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the boldchat.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627031404id_/http%3A//www.boldchat.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boldchat.com privacy policy that was archived on 2012-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017021339id_/http%3A//www.boldchat.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy Policy | BoldChat</title>
   <meta name="description" content="BoldChat complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce.">
   <meta name="robots" content="NOODP, NOYDIR">
+  <meta name="com.silverpop.brandeddomains" content="www.pages04.net,boldchat.com,join.me,logmein.com,logmeinrescue.com,secure.logmein.com,solutions.join.me,solutions.logmein.com,solutions.logmeinrescue-enterprise.com,solutions.logmeinrescue.com">
   <link rel="canonical" href="http://www.boldchat.com/privacypolicy.asp">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/2307475884/bc.vms4/vms.js"></script><script src="tabs.js" type="text/javascript"></script>
@@ -38,7 +39,7 @@
 			$("a[rel='example1']").colorbox();
 			$("a[rel='example2']").colorbox({transition:"fade",		current: "",
 		previous: "",
-		next: "", });
+		next: "" });
 			$("a[rel='example3']").colorbox({transition:"none", width:"75%", height:"75%"});
 			$("a[rel='example4']").colorbox({slideshow:false});
 			$(".example5").colorbox();
@@ -110,7 +111,7 @@ function MM_swapImage() { //v3.0
 </script>
 
 <!-- End of tiptop -->
-<a target="_blank" href="login.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop-login','','tiptop/lo.png',1)"><img src="tiptop/l.png" name="tiptop-login" width="37" height="18" border="0"></a> <img src="tiptop/spacer1.png" width="7" height="18"><a href="PC-client-download.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop-downloads','','tiptop/do.png',1)"><img src="tiptop/d.png" name="tiptop-downloads" width="64" height="18" border="0"></a><img src="tiptop/spacer1.png" width="11" height="18"><a href="news.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop','','tiptop/no.png',1)"><img src="tiptop/n.png" name="tiptop" width="37" height="18" border="0"></a><img src="tiptop/spacer1.png" alt="" width="11" height="18"><a target="_blank" href="https://web.boldchat.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop-webclient','','tiptop/wo.png',1)"><img src="tiptop/w.png" name="tiptop-webclient" width="64" height="18" border="0"></a><img src="images/topnewsspace.png" alt="" width="19" height="18"></div></td>
+<a target="_blank" href="login.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop-login','','tiptop/lo.png',1)"><img src="tiptop/l.png" name="tiptop-login" width="37" height="18" border="0"></a> <img src="tiptop/spacer1.png" width="7" height="18"><a href="PC-client-download.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop-downloads','','tiptop/do.png',1)"><img src="tiptop/d.png" name="tiptop-downloads" width="64" height="18" border="0"></a><img src="tiptop/spacer1.png" width="11" height="18"><a href="news.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop','','tiptop/no.png',1)"><img src="tiptop/n.png" name="tiptop" width="37" height="18" border="0"></a><img src="tiptop/spacer1.png" alt="" width="11" height="18"><a href="http://blog.boldchat.com/" target="_blank" onmouseover="MM_swapImage('BoldBlog','','tiptop/bbo.png',1)" onmouseout="MM_swapImgRestore()"><img src="tiptop/bb.png" alt="BoldBlog" width="54" height="18" id="BoldBlog"></a><a target="_blank" href="https://web.boldchat.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tiptop-webclient','','tiptop/wo.png',1)"><img src="tiptop/spacer.png" width="5" height="18"><img src="tiptop/w.png" name="tiptop-webclient" width="64" height="18" border="0"></a><img src="images/topnewsspace.png" alt="" width="19" height="18"></div></td>
     </tr>
 
     <tr>
@@ -207,65 +208,66 @@ function MM_swapImage() { //v3.0
 <script type="text/javascript">
 $(document).ready(function() {
 
+	(function($) {
 
-	function megaHoverOver(){
-		$(this).find(".sub").stop().fadeTo('fast', 1).show();
+		function megaHoverOver(){
+			$(this).find(".sub").stop().fadeTo('fast', 1).show();
 
-		//Calculate width of all ul's
-		(function($) {
-			jQuery.fn.calcSubWidth = function() {
-				rowWidth = 0;
-				//Calculate row
-				$(this).find("ul").each(function() {
-					rowWidth += $(this).width();
+			//Calculate width of all ul's
+				$.fn.calcSubWidth = function() {
+					rowWidth = 0;
+					//Calculate row
+					$(this).find("ul").each(function() {
+						rowWidth += $(this).width();
+					});
+				};
+
+			if ( $(this).find(".row").length > 0 ) { //If row exists...
+				var biggestRow = 0;
+				//Calculate each row
+				$(this).find(".row").each(function() {
+					$(this).calcSubWidth();
+					//Find biggest row
+					if(rowWidth > biggestRow) {
+						biggestRow = rowWidth;
+					}
 				});
-			};
-		})(jQuery);
+				//Set width
+				$(this).find(".sub").css({'width' :biggestRow});
+				$(this).find(".row:last").css({'margin':'0'});
 
-		if ( $(this).find(".row").length > 0 ) { //If row exists...
-			var biggestRow = 0;
-			//Calculate each row
-			$(this).find(".row").each(function() {
+			} else { //If row does not exist...
+
 				$(this).calcSubWidth();
-				//Find biggest row
-				if(rowWidth > biggestRow) {
-					biggestRow = rowWidth;
-				}
-			});
-			//Set width
-			$(this).find(".sub").css({'width' :biggestRow});
-			$(this).find(".row:last").css({'margin':'0'});
+				//Set Width
+				$(this).find(".sub").css({'width' : rowWidth});
 
-		} else { //If row does not exist...
-
-			$(this).calcSubWidth();
-			//Set Width
-			$(this).find(".sub").css({'width' : rowWidth});
-
+			}
 		}
-	}
 
-	function megaHoverOut(){
-	  $(this).find(".sub").stop().fadeTo('fast', 0, function() {
-		  $(this).hide();
-	  });
-	}
+		function megaHoverOut(){
+		  $(this).find(".sub").stop().fadeTo('fast', 0, function() {
+			  $(this).hide();
+		  });
+		}
 
 
-	var config = {
-		 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)
-		 interval: 100, // number = milliseconds for onMouseOver polling interval
-		 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)
-		 timeout: 500, // number = milliseconds delay before onMouseOut
-		 out: megaHoverOut // function = onMouseOut callback (REQUIRED)
-	};
+		var config = {
+			 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)
+			 interval: 100, // number = milliseconds for onMouseOver polling interval
+			 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)
+			 timeout: 500, // number = milliseconds delay before onMouseOut
+			 out: megaHoverOut // function = onMouseOut callback (REQUIRED)
+		};
 
-	$("ul#topnav li .sub").css({'opacity':'0'});
-	$("ul#topnav li").hoverIntent(config);
+		$("ul#topnav li .sub").css({'opacity':'0'});
+		$("ul#topnav li").hoverIntent(config);
 
+	})(jQuery);
 
 
 });
+
 
 
 
@@ -482,6 +484,7 @@ ul#topnav .sub ul li a {
 	color: #fff;
 }
 ul#topnav .sub ul li a:hover {color: #ddd; background-position: 5px 6px ;}
+ul#topnav .sub ul li a:visited {font-weight:bold}
 </style>
 
 
@@ -555,34 +558,35 @@ ul#topnav .sub ul li a:hover {color: #ddd; background-position: 5px 6px ;}
             </div>
         </li>
             <li>
-       	  <a href="live-chat-features-chart.asp" class="features">Features</a>
-          <div class="sub" style="left: -40px; border-top-left-radius: 5px; opacity: 0;">
+       	<a href="live-chat-features-chart.asp" class="features">Features</a>
+          <div class="sub" style="left: -150px; border-top-left-radius: 5px; opacity: 0;">
 
               <ul>
                   <li><h2><a href="live-chat-features-chart.asp">Features Overview</a></h2></li>
                	  <li><a href="live-chat-features-chart.asp">Comparison Chart</a></li>
-               	  <li><h2><br><a href="live-chat-features-proactive.asp">Chat</a></h2></li>
+               	  <li><br><h2><a href="live-chat-features-proactive.asp">Chat</a></h2></li>
                	  <li><a href="live-chat-features-proactive.asp?tab=1">Proactive Chat</a></li>
                   <li><a href="live-chat-features-proactive.asp?tab=2">Support Tools</a></li>
                   <li><a href="live-chat-features-proactive.asp?tab=3">Customizations</a></li>
                   <li><a href="live-chat-features-proactive.asp?tab=4">Pre/Post Chat</a></li>
-                   <li><h2><br><a href="live-chat-sales-features.asp">Sales/Marketing</a></h2></li>
+              </ul>
+               <ul>
+                <li><h2><a href="live-chat-sales-features.asp">Sales/Marketing</a></h2></li>
                	  <li><a href="live-chat-sales-features.asp?tab=1">Visitor/Conversion Tracking</a></li>
                   <li><a href="live-chat-sales-features.asp?tab=2">Proactive Invitations</a></li>
                   <li><a href="live-chat-sales-features.asp?tab=3">Sale Recovery</a></li>
                   <li><a href="live-chat-sales-features.asp?tab=4">Salesforce</a></li>
-
+                      <li><br><h2><a href="email-management.asp">Email</a></h2></li>
+               	  <li><a href="email-management.asp?tab=1">The Problem</a></li>
+                  <li><a href="email-management.asp?tab=2">The Solution</a></li>
               </ul>
               <ul>
-               	  <li><h2><a href="live-chat-agent-workspace.asp">Agent Efficiency</a></h2></li>
+               <li><h2><a href="live-chat-agent-workspace.asp">Agent Efficiency</a></h2></li>
                	  <li><a href="live-chat-agent-workspace.asp?tab=1">Workspace</a></li>
                   <li><a href="live-chat-agent-workspace.asp?tab=2">Adaptive Messaging</a></li>
                   <li><a href="live-chat-agent-workspace.asp?tab=3">Routing</a></li>
                   <li><a href="live-chat-agent-workspace.asp?tab=4">In-Chat Tools</a></li>
-                  <li><h2><br><a href="email-management.asp">Email</a></h2></li>
-               	  <li><a href="email-management.asp?tab=1">The Problem</a></li>
-                  <li><a href="email-management.asp?tab=2">The Solution</a></li>
-                  <li><h2><br><a href="live-chat-reporting-analytics.asp">Analytics</a></h2></li>
+                  <li><br><h2><a href="live-chat-reporting-analytics.asp">Analytics</a></h2></li>
                	  <li><a href="live-chat-reporting-analytics.asp?tab=1">Basic Summary</a></li>
                   <li><a href="live-chat-reporting-analytics.asp?tab=2">Reporting Engine</a></li>
                   <li><a href="live-chat-reporting-analytics.asp?tab=3">Visitor History</a></li>
@@ -593,11 +597,16 @@ ul#topnav .sub ul li a:hover {color: #ddd; background-position: 5px 6px ;}
                   <li><a href="live-chat-user-interface.asp?tab=2">Web Client</a></li>
                	  <li><a href="live-chat-user-interface.asp?tab=3">Alerts &amp; Discussion</a></li>
                   <li><a href="live-chat-user-interface.asp?tab=4">Admin/Security</a></li>
-                  <li><h2><br><a href="click-to-call.asp">Click-to-Call</a></h2></li>
+                  <li><br><h2><a href="click-to-call.asp">Click-to-Call</a></h2></li>
                	  <li><a href="click-to-call.asp?tab=1">How it Works</a></li>
                   <li><a href="click-to-call.asp?tab=2">Features</a></li>
                	  <li><a href="click-to-call.asp?tab=3">What it Costs</a></li>
-                  <li><h2><br><a href="sms-text-management.asp">SMS</a></h2></li>
+              </ul>
+              <ul>
+                  <li><h2><a href="integrated-twitter-management.asp">Twitter Management</a></h2></li>
+               	  <li><a href="integrated-twitter-management.asp?tab=1">The Problem</a></li>
+                  <li><a href="integrated-twitter-management.asp?tab=2">The Solution</a></li>
+                <li><br><h2><a href="sms-text-management.asp">SMS</a></h2></li>
                	  <li><a href="sms-text-management.asp?tab=1">How it Works</a></li>
                   <li><a href="sms-text-management.asp?tab=2">Features</a></li>
                	  <li><a href="sms-text-management.asp?tab=3">What it Costs</a></li>
@@ -628,52 +637,63 @@ ul#topnav .sub ul li a:hover {color: #ddd; background-position: 5px 6px ;}
         <li>
        	  <a href="live-chat-datasheets.asp" class="resources">Resources</a>
           <div class="sub" style="left: -360px; border-top-left-radius: 5px; opacity: 0;">
-           	  <ul style="width: 210px">
+           	  <ul style="width: 175px">
                	  <li><h2><a href="live-chat-datasheets.asp">Datasheets</a></h2></li>
-                  <li><a href="live-chat-datasheets.asp#features-prices">BoldChat Features &amp; Pricing</a></li>
-                  <li><a href="live-chat-datasheets.asp#email-management">Bold Software Email Management</a></li>
-                  <li><a href="live-chat-datasheets.asp#salesforce">Salesforce Integration</a></li>
-                  <li><a href="live-chat-datasheets.asp#click-to-call">Bold Software Click-to-Call</a></li>
-                  <li><a href="live-chat-datasheets.asp#enterprise">BoldChat Enterprise Overview</a></li>
-                  <li><a href="live-chat-datasheets.asp#security">Infrastructure &amp; Security</a></li>
-                  <li><a href="live-chat-datasheets.asp#best-practice">5 Live Chat Best Practices</a></li>
-                  <li><a href="live-chat-datasheets.asp#prof-services">Bold Software Pro. Srvcs.</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Features-Pricing">BoldChat Features &amp; Pricing</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Reports">BoldChat Reports</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Email-Management">BoldChat Email Management</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=Salesforce-Integration">Salesforce Integration</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Click-to-Call">BoldChat Click-to-Call</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Premier-Overview">BoldChat Premier Overview</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Enterprise-Overview">BoldChat Enterprise Overview</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Infrastructure-Security">Infrastructure &amp; Security</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=5-Live-Chat-Implementation-Best-Practices">5 Live Chat Best Practices</a></li>
+                  <li><a href="live-chat-datasheets.asp?x=BoldChat-Professional-Services">BoldChat Pro. Srvcs.</a></li>
               </ul>
-              <ul style="width: 230px">
+              <ul style="width: 175px">
                   <li><h2><a href="live-chat-whitepapers.asp">Whitepapers</a></h2></li>
-                  <li><a href="live-chat-whitepapers.asp#BenchmarksV3">UPDATED! Live Chat Performance Benchmarks, 2012</a></li>
-               	  <li><a href="live-chat-whitepapers.asp#5-ways-different">5 Ways Bold Software is Different</a></li>
-                  <li><a href="live-chat-whitepapers.asp#buyers-guide">Live Chat Buyer's Guide</a></li>
-                  <li><a href="live-chat-whitepapers.asp#5-questions-proactive">5 Questions about Proactive Chat</a></li>
-                  <li><a href="live-chat-whitepapers.asp#new-roi">Live Chat's New ROI: Return on Invitations</a></li>
-                  <li><a href="live-chat-whitepapers.asp#analytics-integration">Google Analytics Integration</a></li>
-                  <li><a href="live-chat-whitepapers.asp#holiday-readiness">Holiday Readiness Handbook</a></li>
+                  <li><a href="live-chat-whitepapers.asp?x=Live-Chat-Performance-Benchmarks-2012">UPDATED! Live Chat Performance Benchmarks, 2012</a></li>
+               	  <li><a href="live-chat-whitepapers.asp?x=5-Ways-BoldChat-is-Different">5 Ways BoldChat is Different</a></li>
+                  <li><a href="live-chat-whitepapers.asp?x=Live-Chat-Buyers-Guide">Live Chat Buyer's Guide</a></li>
+                  <li><a href="live-chat-whitepapers.asp?x=5-Questions-about-Proactive-Chat">5 Questions about Proactive Chat</a></li>
+                  <li><a href="live-chat-whitepapers.asp?x=Live-Chats-New-ROI">Live Chat's New ROI: Return on Invitations</a></li>
+                <!--  <li><a href="live-chat-whitepapers.asp?x=Google-Analytics-Integration">Google Analytics Integration</a></li> -->
+                  <li><a href="live-chat-whitepapers.asp?x=Holiday-Readiness-Handbook-2012">Holiday Readiness Handbook</a></li>
               </ul>
-              <ul style="width: 230px">
+              <ul style="width: 195px">
                   <li><h2><a href="live-chat-research.asp">Research/Analyst Reports</a></h2></li>
-                  <li><a href="live-chat-research.asp#Live-Chat-Support-Environments">Live Chat in Support Environments</a></li>
-                  <li><a href="live-chat-research.asp#effect-2012">Live Chat Effectiveness 2012</a></li>
-                  <li><a href="live-chat-research.asp#email">Email Management: Nurturing or Blowing Up Your Brand</a></li>
-               	  <li><a href="live-chat-research.asp#ante-up">Ante-Up: Live Chat a 'Must-Have' for Retailers</a></li>
-                  <li><a href="live-chat-research.asp#effect-2011">Live Chat Effectiveness 2011</a></li>
-                  <li><a href="live-chat-research.asp#forrester-int">Forrester: Taking Chat International</a></li>
-                  <li><a href="live-chat-research.asp#6-facts">6 Live Chat Facts You Can No Longer Ignore</a></li>
-                  <li><a href="live-chat-research.asp#effect-2010">Live Chat Effectiveness 2010</a></li>
-                  <li><a href="live-chat-research.asp#bad-chat">Live Chat Effectiveness Supplement: The Bad Chat Effect</a></li>
-                  <li><a href="live-chat-research.asp#effect-2009">Live Chat Effectiveness 2009</a></li>
+                  <li><a href="live-chat-research.asp?x=e-tailing-group">Chat with the Chatters</a></li>
+                  <li><a href="live-chat-research.asp?x=Live-Chat-Support-Environments">Live Chat in Support Environments</a></li>
+                  <li><a href="live-chat-research.asp?x=Live-Chat-Effectivness-2012">Live Chat Effectiveness 2012</a></li>
+                  <li><a href="live-chat-research.asp?x=Nurturing-or-Blowing-Up-Your-Brand">Email Management: Nurturing or Blowing Up Your Brand</a></li>
+               	  <li><a href="live-chat-research.asp?x=Live-Chat-a-Must-Have-for-Retailers">Ante-Up: Live Chat a 'Must-Have' for Retailers</a></li>
+                  <li><a href="live-chat-research.asp?x=Live-Chat-Effectiveness-2011">Live Chat Effectiveness 2011</a></li>
+                  <li><a href="live-chat-research.asp?x=Taking-Chat-International">Forrester: Taking Chat International</a></li>
               </ul>
-                            <ul style="width: 200px">
+              <ul style="width: 170px">
                   <li><h2><a href="live-chat-case-studies.asp">Case Studies</a></h2></li>
-                  <li><a href="live-chat-case-studies.asp#abt">Abt Electronics</a></li>
-               	  <li><a href="live-chat-case-studies.asp#az">Appliance Zone</a></li>
-                  <li><a href="live-chat-case-studies.asp#creditalliance">Credit Alliance Group</a></li>
-                  <li><a href="live-chat-case-studies.asp#dreams">Dreams Retail</a></li>
-                  <li><a href="live-chat-case-studies.asp#exent">Exent Technologies</a></li>
-                  <li><a href="live-chat-case-studies.asp#is3">iS3</a></li>
-                  <li><a href="live-chat-case-studies.asp#miyachi">Miyachi Unitek Corporation</a></li>
-                  <li><a href="live-chat-case-studies.asp#NorthFace">The North Face</a></li>
-                  <li><a href="live-chat-case-studies.asp#email">SalesNexus and SendThisFile</a></li>
-                  <li><a href="live-chat-case-studies.asp#Vornado">Vornado</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Abt-Electronics">Abt Electronics</a></li>
+               	  <li><a href="live-chat-case-studies.asp?x=Appliance-Zone">Appliance Zone</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Blue-Soda-Promo">Blue Soda Promo</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Call-Center-of-Mexico">Call Center of Mexico</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Credit-Alliance-Group">Credit Alliance Group</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Dreams-Retail">Dreams Retail</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Exent-Technologies">Exent Technologies</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=iS3">iS3</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Miyachi-Unitek-Corporation">Miyachi Unitek Corporation</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=The-North-Face">The North Face</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=SalesNexus-and-SendThisFile">SalesNexus and SendThisFile</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Vornado">Vornado</a></li>
+                  <li><a href="live-chat-case-studies.asp?x=Whiteflash">Whiteflash</a></li>
+              </ul>
+ <ul style="width: 175px">
+                  <li>
+                    <h2><strong><a href="live-chat-video-library.asp">Video Library</a></strong></h2></li>
+                  <li><a href="live-chat-video-library.asp?vid=A-BoldChat-testimonial-from-Blue-Soda-Promo">Testimonials</a></li>
+               	  <li><a href="live-chat-video-library.asp?vid=Email-Management-Tool-in-BoldChat">Product Videos</a></li>
+                  <li><a href="live-chat-video-library.asp?vid=BoldChat-Makes-Premium-Support-Easier">Chat Agent's Perspective</a></li>
+                  <li><a href="live-chat-video-library.asp?vid=6-Live-Chat-Facts-You-Can-No-Longer-Ignore">Webinars</a></li>
+                  <li><a href="live-chat-video-library.asp?vid=Ross-Takes-One-for-the-Team">Just for Fun</a></li>
               </ul>
 
 
@@ -720,19 +740,18 @@ ul#topnav .sub ul li a:hover {color: #ddd; background-position: 5px 6px ;}
 $(document).ready(function($) {
 
 
+		(function($) {
 	function megaHoverOver(){
 		$(this).find(".sub").stop().fadeTo('fast', 1).show();
 
 		//Calculate width of all ul's
-		(function($) {
-			jQuery.fn.calcSubWidth = function() {
+			$.fn.calcSubWidth = function() {
 				rowWidth = 0;
 				//Calculate row
 				$(this).find("ul").each(function() {
 					rowWidth += $(this).width();
 				});
 			};
-		})(jQuery);
 
 		if ( $(this).find(".row").length > 0 ) { //If row exists...
 			var biggestRow = 0;
@@ -775,6 +794,7 @@ $(document).ready(function($) {
 	$("ul#topnav li .sub").css({'opacity':'50; visibility:visible; z-index:"99999"'});
 	$("ul#topnav li").hoverIntent(config);
 
+		})(jQuery);
 
 
 });
@@ -802,11 +822,11 @@ $(document).ready(function($) {
                             <tbody><tr>
                               <td width="20"></td>
                               <td width="630" valign="top"><p align="left"><img src="images/privacypolicy.png" width="144" height="24"><img src="images/greybar.png" width="620" height="5"><br>
-                                We are committed to protecting your privacy. We adhere to and comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce concerning the transfer, storage, processing and securing of data from European Union member countries and Switzerland. Bold Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. You can learn more about the Safe Harbor program and view our certification by visiting&nbsp;<a href="http://www.export.gov/safeharbor/" target="_blank">www.export.gov/safeharbor/</a>. If you are at all concerned it is your responsibility to review the remainder of this Privacy Policy and the Safe Harbor website before you go further in your visit to our website or use any of our tools or services.&nbsp;<br>
+                                We are committed to protecting your privacy. We adhere to and comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce concerning the transfer, storage, processing and securing of data from European Union member countries and Switzerland. BoldChat has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. You can learn more about the Safe Harbor program and view our certification by visiting&nbsp;<a href="http://www.export.gov/safeharbor/" target="_blank">www.export.gov/safeharbor/</a>. If you are at all concerned it is your responsibility to review the remainder of this Privacy Policy and the Safe Harbor website before you go further in your visit to our website or use any of our tools or services.&nbsp;<br>
                                     <br>
-                                    Bold Software provides real time communication tools to website owners who want to interact with visitors on their website. Part of the service enhances the website owner's understanding of who is on their website and reports to them that information. Naturally, we use our products, so what you read below applies to visitors to our website as well.&nbsp;<br>
+                                    BoldChat provides real time communication tools to website owners who want to interact with visitors on their website. Part of the service enhances the website owner's understanding of who is on their website and reports to them that information. Naturally, we use our products, so what you read below applies to visitors to our website as well.&nbsp;<br>
                                     <br>
-                                    We use "Cookies." Our cookies are designed to help us and our customers provide better service to visitors on our websites by recognizing a returning visitor and noting that in our agent interface software. A session "Cookie" is written to a visitor's browser for the purpose of maintaining an understanding of that visitor during the current visit and on any subsequent visit. Any visitor on a website may turn off "Cookies" by adjusting the appropriate setting on their browser. Please note, if a visitor turns off cookies the visitor and/or the website owner may find some of the functionality of the Bold Software products, to be reduced or impaired.&nbsp;<br>
+                                    We use "Cookies." Our cookies are designed to help us and our customers provide better service to visitors on our websites by recognizing a returning visitor and noting that in our agent interface software. A session "Cookie" is written to a visitor's browser for the purpose of maintaining an understanding of that visitor during the current visit and on any subsequent visit. Any visitor on a website may turn off "Cookies" by adjusting the appropriate setting on their browser. Please note, if a visitor turns off cookies the visitor and/or the website owner may find some of the functionality of the BoldChat products, to be reduced or impaired.&nbsp;<br>
                                     <br>
                                     Just like a brick and mortar business pays attention to people in it's store, so do we. We use (and provide to our customers) code that helps us "see" who is in our store and what part of our store they are in. Providing such data to our customers is an inherent part of the service we provide. In addition to visit-related information, on behalf of our customers we may provide and store chat, email, trouble ticket and contact information so our customers may be able to better provide aid to visitors to their websites for the products and/or services our customers offer. We may aggregate and analyze non-personal tracking data to better understand customer behavior and may share aggregated data with our customers to help our customers serve their customers more effectively.&nbsp;<br>
                                     <br>
@@ -950,25 +970,26 @@ function MM_swapImage() { //v3.0
 }
 </script>
 
-<table width="948" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="937" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="950" height="305" colspan="5" valign="top" background="images/bigfoot.png">
-      <table width="950" border="0" cellspacing="0" cellpadding="0">
+    <td width="937" height="305" colspan="5" valign="top" background="images/bigfoot.png">
+      <table width="929" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td height="46" colspan="6" valign="top"><table width="945" border="0" cellspacing="0" cellpadding="0">
+          <td height="46" colspan="6" valign="top"><table width="916" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
-              <td><img src="images/spacer.png" width="82" height="13"></td>
+              <td width="916"><img src="images/spacer.png" width="82" height="13"></td>
             </tr>
             <tr>
-              <td height="22"><table width="950" border="0" cellspacing="0" cellpadding="0">
+              <td height="22"><table width="917" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td width="202" height="29">&nbsp;</td>
                   <td width="110">&nbsp;</td>
-                  <td width="470" valign="top"><div align="right"><span style="color: #878787; font-weight: bold; font-size: 16px; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">866.753.9933</span></div></td>
+                  <td width="441" valign="top"><div align="right"><span style="color: #878787; font-weight: bold; font-size: 16px; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">866.753.9933</span></div></td>
                   <td width="75" valign="bottom">&nbsp;</td>
                   <td width="27" valign="middle"><a href="http://www.facebook.com/BoldChat" target="_blank" title="BoldChat on Facebook" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/bigfootfacebookover.png',1)"><img src="images/bigfootfacebookup.png" alt="BoldChat on Facebook" name="Image1" width="27" height="29" border="0" id="Image1"></a></td>
                   <td width="29" valign="middle"><a href="https://twitter.com/boldchat" target="_blank" title="Follow us on Twitter" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/bigfoottwitterover.png',1)"><img src="images/bigfoottwitter.png" alt="BoldChat on Twitter" name="Image2" width="27" height="29" border="0" id="Image2"></a></td>
-                  <td width="37">&nbsp;</td>
+                  <td width="29" valign="middle"><a href="http://blog.boldchat.com" target="_blank" title="BoldBlog" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/blogicondark.png',1)"><img src="images/blogicon.png" alt="BoldBlog" name="Image3" width="26" height="29" border="0" id="Image3"></a></td>
+                  <td width="10">&nbsp;</td>
                 </tr>
               </tbody></table></td>
             </tr>
@@ -1033,11 +1054,6 @@ function MM_swapImage() { //v3.0
 			  </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td><div align="left">&nbsp;</div></td>
-                <td>&nbsp;</td>
-              </tr>
-            <tr>
-                <td>&nbsp;</td>
                 <td><div align="left"><img src="images/bigfootresources.png" alt="Live Chat Resources" width="94" height="21" border="0"><br><a href="live-chat-datasheets.asp">Datasheets</a></div></td>
                 <td>&nbsp;</td>
               </tr>
@@ -1054,6 +1070,11 @@ function MM_swapImage() { //v3.0
               <tr>
                 <td>&nbsp;</td>
                 <td><div align="left"><a href="live-chat-case-studies.asp">Case Studies</a></div></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td><div align="left"><a href="live-chat-video-library.asp">Video Library</a></div></td>
                 <td>&nbsp;</td>
               </tr>
             </tbody></table>
@@ -1110,14 +1131,14 @@ function MM_swapImage() { //v3.0
           <td width="135" valign="top">
             <table width="135" border="0" cellspacing="0" cellpadding="2">
               <tbody><tr>
-                <td width="4" height="22">&nbsp;</td>
-                <td width="112"><div align="left">&nbsp;</div></td>
-                <td width="4">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
-                <td>&nbsp;</td>
-                <td><div align="left"><a href="email-management.asp">Email Management</a></div></td>
-                <td>&nbsp;</td>
+                <td width="4">&nbsp;</td>
+                <td width="112"><div align="left"><a href="email-management.asp">Email Management</a></div></td>
+                <td width="4">&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -1141,6 +1162,11 @@ function MM_swapImage() { //v3.0
               </tr>
               <tr>
                 <td>&nbsp;</td>
+                <td><div align="left"><a href="integrated-twitter-management.asp">Twitter Management</a></div></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
                 <td><div align="left"><a href="click-to-call.asp">Click-to-Call</a></div></td>
                 <td>&nbsp;</td>
               </tr>
@@ -1149,24 +1175,14 @@ function MM_swapImage() { //v3.0
                 <td><div align="left"><a href="sms-text-management.asp">SMS Management</a></div></td>
                 <td>&nbsp;</td>
               </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td><div align="left">&nbsp;</div></td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td><div align="left">&nbsp;</div></td>
-                <td>&nbsp;</td>
-              </tr>
             </tbody></table>
           </td>
           <td width="148" valign="top">
-            <table width="148" border="0" cellspacing="0" cellpadding="2">
+            <table width="136" border="0" cellspacing="0" cellpadding="2">
               <tbody><tr>
-                <td width="12">&nbsp;</td>
-                <td width="115"><div align="left"><img src="images/bigfootservices.png" alt="Live Chat Services" width="72" height="20" border="0"><br><a href="live-chat-professional-services.asp">Services Overview</a></div></td>
-                <td width="4">&nbsp;</td>
+                <td width="6">&nbsp;</td>
+                <td width="118"><div align="left"><img src="images/bigfootservices.png" alt="Live Chat Services" width="72" height="20" border="0"><br><a href="live-chat-professional-services.asp">Services Overview</a></div></td>
+                <td width="6">&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -1190,11 +1206,6 @@ function MM_swapImage() { //v3.0
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td><div align="left">&nbsp;</div></td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
                 <td><div align="left"><img src="images/bigfootdownloads.png" alt="BoldChat Client Application" width="85" height="20" border="0"><br><a href="PC-client-download.asp">BoldChat Client</a></div></td>
                 <td>&nbsp;</td>
               </tr>
@@ -1210,12 +1221,12 @@ function MM_swapImage() { //v3.0
               </tr>
             </tbody></table>
           </td>
-          <td width="193" valign="top">
-            <table width="193" border="0" cellspacing="0" cellpadding="2">
+          <td width="173" valign="top">
+            <table width="173" border="0" cellspacing="0" cellpadding="2">
               <tbody><tr>
-                <td width="12">&nbsp;</td>
-                <td width="137"><div align="left"><img src="images/bigfootsupport.png" alt="Live Chat Support" width="112" height="19" border="0"><br><a href="support.asp">Support Overview</a></div></td>
-                <td width="33">&nbsp;</td>
+                <td width="7">&nbsp;</td>
+                <td width="136"><div align="left"><img src="images/bigfootsupport.png" alt="Live Chat Support" width="112" height="19" border="0"><br><a href="support.asp">Support Overview</a></div></td>
+                <td width="18">&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -1234,12 +1245,12 @@ function MM_swapImage() { //v3.0
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td><div align="left">&nbsp;</div></td>
+                <td><div align="left"><img src="images/bigfootcompany.png" alt="Our Company" width="136" height="20" border="0"><br><a href="http://blog.boldchat.com">BoldBlog</a></div></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td><div align="left"><img src="images/bigfootcompany.png" alt="Our Company" width="136" height="20" border="0"><br><a class="example5" rel="example5" title="Contact Us" href="contactus.asp">Contact Us</a></div></td>
+                <td><div align="left"><a class="example5" rel="example5" title="Contact Us" href="contactus.asp">Contact Us</a></div></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1295,6 +1306,10 @@ function MM_swapImage() { //v3.0
 <a href="http://www.boldchat.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="https://vms.boldchat.com/aid/2307475884/bc.vmi?wdid=1743750158393366790" border="0" width="1" height="1" /></a>
 </noscript>
 <!-- /Bold Software Visitor Monitor HTML v4.00 -->
+
+<!-- Engage Web Tracking Code -->
+                 <script src="http://content.mkt941.com/lp/static/js/iMAWebCookie.js?7a6aedb9-132cf8e659f-4f4749e15ce6d7a21b02ab08b9b7921c&amp;h=www.pages04.net" type="text/javascript"></script>
+<!-- Engage Web Tracking Code -->
 
 <!-- Google Analytics Code -->
 <script type="text/javascript">
