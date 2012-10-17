@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629172643id_/http%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017040303id_/http%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ Bing Lee relies upon third party contractors and suppliers ("Agents") to underta
 
 ## WEBSITE INTERNET TRACKING TECHNOLOGY & SECURITY
 
-Bing Lee does not use cookies on its website. Bing Lee does however partner with a third party advertising network to either display advertising on the Bing Lee website or to manage its advertising on other sites. The partner uses cookies and electronic images known web beacons (sometimes called single-pixel gifs) to collect non-personally identifiable information about your activities on Bing Lee's website and other websites to provide targeted advertising based on your interests. If you do not wish to have this information used to direct targeted ads to you, you may opt-out by clicking the following link on the website:: <http://www.networkadvertising.org/managing/opt_out.asp>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Bing Lee uses cookies on its website. Bing Lee partners with a third party advertising network to either display advertising on the Bing Lee website or to manage its advertising on other sites. The partner uses cookies and electronic images known web beacons (sometimes called single-pixel gifs) to collect non-personally identifiable information about your activities on Bing Lee's website and other websites to provide targeted advertising based on your interests. If you do not wish to have this information used to direct targeted ads to you, you may opt-out by clicking the following link on the website:: <http://www.networkadvertising.org/managing/opt_out.asp>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 Bing Lee's website may also contain web beacons that are set by other third party partners. Web beacons are used along with cookies to enable Bing Lee's partners to compile aggregated statistics to analyse how its site is used.
 
@@ -130,9 +130,9 @@ We use Google Analytics to track visitor numbers and behaviour. This service is 
 
 ## Remarketing Services
 
-After visiting Bing Lee you may find advertising banners on other websites associated with your browsing history. The technologies behind these services are based on cookies. Google and other third-party vendors use cookies to serve ads based upon your past visits to the Bing Lee website. This is a service offered to suggest alternate products and offers, which may be of interest to you. This is an anonymous service and no personal or identifiable information is recorded by this advertising method, however if you do not wish to view these types of adverts you can opt out of these services by using the following link: [ link:](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TChQE36MjyOiu-ha-3v8VnE_DUaAVlY3pc3Pa0LOdiIxsmucWzzSywLTRVmxN6-LJgHRthW_HRgH-PqK0ms7OodwBFOlig6Rk-eMUDSlqeJHZlwEnvEyW8We2HyEAnuEh7JQleDAdpLu6T9PyyVQtz2whmhmaG3Z8H4y-KV_VlSOSX3i4doFmdYLifGO6A6yZfEshptj5JASGBCDXZapPDB38VLUAvvzMBTnye2yHtn3im-1xOWmrSvbNGqbCz4uPLAF5vrY&hl=en)
+After visiting Bing Lee you may find advertising banners on other websites associated with your browsing history. The technologies behind these services are based on cookies. Google and other third-party vendors use cookies to serve ads based upon your past visits to the Bing Lee website. This is a service offered to suggest alternate products and offers, which may be of interest to you. This is an anonymous service and no personal or identifiable information is recorded by this advertising method, however if you do not wish to view these types of adverts you can opt out of these services by using the following link: [ click here](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TChQE36MjyOiu-ha-3v8VnE_DUaAVlY3pc3Pa0LOdiIxsmucWzzSywLTRVmxN6-LJgHRthW_HRgH-PqK0ms7OodwBFOlig6Rk-eMUDSlqeJHZlwEnvEyW8We2HyEAnuEh7JQleDAdpLu6T9PyyVQtz2whmhmaG3Z8H4y-KV_VlSOSX3i4doFmdYLifGO6A6yZfEshptj5JASGBCDXZapPDB38VLUAvvzMBTnye2yHtn3im-1xOWmrSvbNGqbCz4uPLAF5vrY&hl=en)
 
-Bing Lee also uses a Google Dynamic Ad Serving feature, which utilizes the Terecent cookie to serve ads based upon your browsing history. You can opt out of the Teracent cookie by visiting the [following page:](http://www.teracent.com/about-us/opt-out/)
+Bing Lee also uses a Google Dynamic Ad Serving feature, which utilizes the Terecent cookie to serve ads based upon your browsing history. You can opt out of the Teracent cookie by [clicking here](http://www.teracent.com/about-us/opt-out/)
 
 **BING LEE ELECTRICS PTY LTD  
 ABN 61 000 733 488**
