@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkme.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513200221id_/http%3A//www.walkme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkme.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018001552id_/http%3A//www.walkme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WalkMe
 
@@ -119,4 +119,4 @@ WalkMe reserves the right to update and change this Privacy Policy from time to 
 Any questions about this Privacy Policy should be addressed to [support@WalkMe.com](mailto:support@WalkMe.com) or by mail to
 
 _WalkMe.com  
-34 Itzhak Sade Tel Aviv, Israel_
+hacashmonayim 115 Aviv, Israel_
