@@ -1,53 +1,84 @@
-<!--The following is the downloaded HTML source of the patexia.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620140717id_/http%3A//www.patexia.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patexia.com privacy policy that was archived on 2012-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017211018id_/http%3A//www.patexia.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"><head>
 		<title>Privacy Policy | Patexia.com</title>		
 		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <meta name="keywords" content="Patent Search, Patent, Intellectual property, Patent Community, Prior art search, Intellectual Property Community">
-<meta name="description" content="An online intellectual property community powered with rich tools for solving difficult IP problems such as patent search, analysis and valuation.">        
+<meta name="description" content="An online intellectual property community powered with rich tools for solving difficult IP problems such as patent search, analysis and valuation.">        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        
 
-	    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/js/compiled/application28e407d0459c1da3c39f64e021e2d318.js"></script>
+<script type="text/javascript" src="/js/compiled/application0cdf61037d7053ca59347ab230818335.js"></script>
 <script type="text/javascript">
     //<!--
 $(document).ready(function() {
     Application.init();Application.initRoles(["guest"]);
-    	var changed = 0;
-    var ignoredSeekingKeyword = 'Search Articles/Videos';
+    
+var interest = $('.leftColItem').find('.staticfaq');
+interest.parent().remove();
 
-    $('#selectsearch').change(function(){
-    	var selectParam = $('#selectsearch').val();
-    	if(changed == 0) {
-    		ignoredSeekingKeyword = 'Search ' + selectParam;
-    		$('.searchInput .textinput').val(ignoredSeekingKeyword);
-    		$('.searchInput .textinput').searchOverText();
-    	}
-    	selectParam = selectParam.toLowerCase();
+var interest = $('.leftColItem').find('.staticglossary');
+interest.parent().remove();
+
+
+    $(function(){
+    var hash = location.hash.replace(/^#/, '')
+ // $('html,body').animate({scrollTop:$('[name="'+this.hash.substring(1)+'"]').offset().top+800}, 500);
+  
+});
+
+    var external = RegExp('^((f|ht)tps?:)?//(?!' + location.host + ')');
+   $("#page a").each(function(){
+    var thehref = $(this).attr('href');
+    if(external.test(thehref)){
+        $(this).attr('target', '_blank');
+    }
+});
+   
+    $(".pageglossary table a").click(function (event) { 
+    		event.preventDefault();
+     		destination=$(this).attr("href");
+      		anchor=destination.replace(/^#/, '')
+   			target=$('[name="'+anchor+'"]');
+      var position =  (target.position().top);
+      var link= position-80;
+      $('body').scrollTop(link);
     });
-	
-	$('.searchInput .textinput').change(function(){
-		changed = 1;
-	});
-	
-    $('.searchInput .textinput').searchOverText();
+    
+      $('[name]').click(function (event) { 
+       	$('body').scrollTop(0);
+      });
+   
+
+        $('#selectsearch').change(function(){
+        var selectParam = $(this).val();
+        if (selectParam == 'ArticlesVideos') {
+            selectParam = 'Articles/Videos';
+        }
+
+        $('#keywordSearch').val('Search '+selectParam);
+        $('#keywordSearch').searchOverText();
+        selectParam = selectParam.toLowerCase();
+    });
+
+    $('#keywordSearch').searchOverText();
 
     $('#frontSearch-form').submit(function()
     {
-        var seekingKeyword = $('.searchInput .textinput').val();
-        if(ignoredSeekingKeyword.toLowerCase() == seekingKeyword.toLowerCase()) {
-            seekingKeyword = '';
+        var value = $('#keywordSearch').val();
+        var selectParam = $('#selectsearch option:selected').val();
+        selectParam = selectParam.replace("/", "");
+        var url = $('option.'+selectParam+'SearchOption').attr('rel');
+
+        if (!value) {
+            return false;
         }
 
-    	var value = seekingKeyword,
-                selectParam = $('#selectsearch').val(),
-    			url = $('option.'+selectParam+'SearchOption').attr('rel');
-
-    	url = url.replace("$s", encodeURIComponent(value));
-		
-    	window.location.href = url;
-    	return false;
+        url = url.replace("$s", value);
+        window.location.href = url;
+        return false;
     });
 
         $('.login').click(function(){
@@ -74,7 +105,7 @@ $(document).ready(function() {
 
 });
     //-->
-</script>	    <link href="/css/compiled/application28e407d0459c1da3c39f64e021e2d318.css" media="screen" rel="stylesheet" type="text/css">
+</script>	    <link href="/css/compiled/application0cdf61037d7053ca59347ab230818335.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/images/general/favicon.ico" rel="shortcut icon">
 <!--[if IE]> <link href="/css/ie.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->    	    	<script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -87,7 +118,7 @@ $(document).ready(function() {
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 </script>	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-		<body class="defaultModule pageController viewAction">
+	    <body class="defaultModule pageController viewAction  ">
 	    <div id="fb-root"></div>
 <script>
     window.fbAsyncInit = function() {
@@ -102,143 +133,167 @@ $(document).ready(function() {
         d.getElementsByTagName('head')[0].appendChild(js);
     }(document));
 </script>		<div id="pageLayout" class="clearfix">
-			<div id="topWrapper">
-				<div id="topHolder">
-				    <div id="top" class="pageLayout">
-        		    	<a id="siteLogo" href="http://www.patexia.com"></a>				
-        				<div id="search">
-        					
-<form id="frontSearch-form" method="get" action="/ip-research">
-	<div class="searchInput">
-		<input type="text" value="Search Patents" class="searchinput textinput overtext" name="keyword" maxlength="255">
-	</div>
-	<div class="selectBox">
-		<select id="selectsearch" name="selectsearch" class="styledSelect" style="display: none;">
-			<option class="PatentsSearchOption" rel="/ip-research/patents/keyword/$s" value="Patents" selected="selected">Patents</option><option class="LawsuitsSearchOption" rel="/ip-research/lawsuits/keyword/$s" value="Lawsuits">Lawsuits</option><option class="ArticlesVideosSearchOption" rel="/nova/keyword/$s" value="ArticlesVideos">Articles/Videos</option><option class="PeopleSearchOption" rel="/user/list/keyword/$s" value="People">People</option><option class="CompaniesSearchOption" rel="/companies/list/keyword/$s" value="Companies">Companies</option><option class="GroupsSearchOption" rel="/groups/list/keyword/$s" value="Groups">Groups</option>		</select> 
-	</div>
-	<button class="searchButton" name="submit" type="submit"></button>							
-</form>              			</div>
-              			<div id="userBox">
-        					
-
-	    <div class="guest">
-    	<div class="leftColUserBox">
-            <div class="welcome clearfix">
-                <a href="/user/register">Sign Up</a>
-                
-                <div class="loginBox">
-                  	<span class="login">Login</span>
-                  
-        			<div id="logInHolder" class="roundCorners">
-                        <div class="facebookLogin clearfix ">
-                        	<p>Log in using your Facebook account</p>
-                        	<img class="fbLoginButton" src="/images/nova/elem/facebook-login.png" width="154" height="22" alt=" ">
-                        </div><!--END facebookLogin-->
-                    
-                        <div class="loginForm clearfix">
-                        	<p>Or login in with your...</p>
-                            <form action="https://www.patexia.com/user/login" method="post">
-    							<input type="hidden" name="forward" value="L3ByaXZhY3lfcG9saWN5Lmh0bWw=">                        
-                                <div class="formRow clearfix">
-                                	<label>Email</label>
-        							<input name="login_email" maxlength="50" type="text" value="" class="loginfield roundCorners">
-                                </div><!--END formRow-->
-                                
-                                <div class="formRow clearfix">
-                                	<label>Password</label>
-        							<input name="login_password" maxlength="250" type="password" value="" class="loginfield roundCorners">
-                                </div><!--END formRow-->
-                                
-                                <div class="loginCheck">
-                                	<span class="chekBox"><input name="remember_me" type="checkbox" checked="checked" class="styled"></span>
-        							<label>Remember me</label>
-                                </div><!--END loginCheck-->
-                                
-                                <div class="loginButtons">
-                                	<a href="/user/recoverpassword" title="Forgot your password?">Forgot your password?</a>
-        							<button class="loginButton roundCorners" name="login" type="submit">Login</button>
-                                </div><!--END loginButtons-->
-                            
-                            </form>
-                        </div><!--END loginForm-->
-                    
-                    
-              		</div><!--END logInHolder-->
-                   
-                </div><!--END loginBox-->
-            
-            </div><!--END welcome-->
-        </div><!--END leftColUserBox-->
-    </div><!--END guest-->
-        				</div>
-        				<div id="contentTop">
-        				    <nav>
-                  			    <div id="mainMenu">
-        			      	    	<ul class="navigation">
+							<div id="topWrapper">
+					<div id="topHolder">
+					    <div id="top" class="pageLayout clearfix">
+                        	<div id="Logo">
+                            <a href="http://www.patexia.com"></a>
+                            </div>				 
+                            <div id="contentTop" class="clearfix">
+                            <nav>
+                                  <div id="mainMenu">  
+                                    <ul class="navigation">
     <li>
-        <a id="menu-ipCommunity" title="Your source for information and updates relating to innovation and IP" class="highlighted" href="/nova">News and Analysis</a>
-        <ul>
-            <li>
-                <a href="/nova/type/news">News Briefs</a>
-            </li>
-            <li>
-                <a href="/nova/type/ao">Analysis and Opinion</a>
-            </li>
-            <li>
-                <a href="/nova/type/review">IP Reviews</a>
-            </li>
-            <li>
-                <a href="/nova/type/buzz">Community Buzz</a>
-            </li>
-        </ul>
+        <a id="menu-ipContest" class="highlighted showDialog" href="/contests">Contest</a>
     </li>
     <li>
-        <a href="/ip-research">IP Search</a>
+        <a id="menu-ipCommunity" title="Your source for information and updates relating to innovation and IP" class="highlighted" href="/newsfeed">Newsfeed</a>
+    </li>
+    <li>
+        <a href="/ip-research">Research</a>
         <ul>
             <li>
-                <a href="/ip-research">Patents and Applications</a>
+                <a href="/ip-research">Patents</a>
             </li>
             <li>
                 <a href="/ip-research/lawsuits">Lawsuits</a>
             </li>
-            <li class="ipStatisticLink">
-                <a href="/ip-research/statistic">Stats</a>
+            <li>
+                <a href="/ip-research/paper">Papers</a>
+            </li>
+            <li>
+                <a id="menu-topInterest" class="topDel" href="/groups/list">Interests</a>
+            </li>
+            <li>
+                <a id="menu-topOrg" href="/companies/list">Organizations</a>
             </li>
         </ul>
     </li>
-    <li>
-        <a id="menu-community" class="highlighted" href="/areas/list">Community</a>
-        <ul>
-            <li>
-                <a href="/groups/list">Groups</a>
-            </li>
-            <li>
-                <a href="/user/list">Members</a>
-            </li>
-            <li>
-                <a href="/companies/list">Organizations</a>
-            </li>
-        </ul>
-    </li>
-</ul>        					    </div>
-        					</nav>
-        				</div>
-    				</div>
+</ul>                                  </div> 
+                            </nav>
+                            </div>
+                            <div class="searchbx">
+                                <form id="frontSearch-form">
+<div class="search">
+    	<div class="search_mid">
+	<div class="selectBox">
+		 <select id="selectsearch" name="selectsearch" class="styledSelect" style="display: none;">
+             <option class="PatentsSearchOption" rel="/ip-research/patents/keyword/$s" value="Patents" selected="selected">Patents</option><option class="LawsuitsSearchOption" rel="/ip-research/lawsuits/keyword/$s" value="Lawsuits">Lawsuits</option><option class="ArticlesVideosSearchOption" rel="/newsfeed/keyword/$s" value="Articles/Videos">Articles/Videos</option><option class="PeopleSearchOption" rel="/user/list/keyword/$s" value="People">People</option><option class="CompaniesSearchOption" rel="/companies/list/keyword/$s" value="Companies">Companies</option><option class="GroupsSearchOption" rel="/groups/list/keyword/$s" value="Groups">Groups</option>		</select>  
+	</div>
+	<!-- <div class="searchInput"> -->
+		<input type="text" id="keywordSearch" value="Search Patents" name="keyword" maxlength="255">
+	<!-- </div> -->
+	<button class="searchbtn" name="submit" type="submit"></button>			
+    </div>
+        <div class="search_right"></div>
+    </div>				
+</form>                            </div>
+                            <div id="userBox">
+                                
+
+	    <!-- <div class="guest">
+    	<div class="leftColUserBox">
+            <div class="welcome clearfix">
+                <ul class="guest-nav">
+                    <li><a href="/user/register"></a></li>
+                    <li><a href="/user/login"></a></li>
+                </ul>
+            </div> --><!--END welcome-->
+        <!--</div> --><!--END leftColUserBox-->
+    <!--</div> --><!--END guest-->
+    <ul class="rightmenu">
+    		             <li class="rightmenuBorder"><a href="/user/invitation">Request an Invitation</a></li>             <li class="user-logn"><a href="/user/login">Member Log In</a></li>
+    </ul><!-- Guest Section -->
+    
+                            </div>
+	    				</div>
+                        
+					</div>
 				</div>
-			</div>
-			
-			<div id="contentWrapper">
+			                                                <div id="pageTitle">
+                                                    Patexia. <span>Privacy Policy</span>                                             </div>
+                            			<div id="contentWrapper" style="padding-top:60px;">
+            
+<script>
+	$(function(){
+        $('.headingbar').show();
+		// Set starting slide to 1
+		var startSlide = 1;
+		// Get slide number if it exists
+		if (window.location.hash) {
+			//startSlide = window.location.hash.replace('#','');
+		}
+		// Initialize Slides
+		$('#slides').slides({
+			preload: true,
+			preloadImage: '',
+			generatePagination: true,
+			play: 10000,
+			pause: 2500,
+			hoverPause: true,
+			// Get the starting slide
+			start: startSlide,
+			animationComplete: function(current){
+				// Set the slide number as a hash
+				//window.location.hash = '#' + current;
+			}
+		});
+	});
+</script>
+
+
+<div class="headingbar" style="display: none;">
+    <div id="containerslider">
+        <div id="slides">
+            <div class="slides_container">
+                <div class="slide">
+                    <span class="left">Join Patexia’s community of researchers, businesses, and IP professionals. <a href="/about_us.html">Learn More »</a> </span>
+                </div>
+                
+                <div class="slide">
+                    <span class="left">Earn rewards and gain exposure with Prior Art Search contests. <a href="/contests/charge-pump-circuit">VIEW LATEST CONTEST »</a> </span>
+                    
+                </div>
+                
+                <div class="slide">
+                    <span class="left">Read the latest in innovation &amp; intellectual property news and analysis. <a href="/newsfeed">GO TO NEWSFEED »</a> </span>
+                    
+                </div>
+                
+                <div class="slide">
+                    <span class="left">Get unlimited access to IP research and data visualization tools.<a href="/ip-research">GO TO LATEST RESEARCH ENTRY »</a> </span>
+                    
+                </div>
+            </div>
+       	</div>
+        <span class="right" style="padding:0 0 0 15px; border-left:1px solid #ccc;"> <a href="/user/invitation/forward/L3ByaXZhY3lfcG9saWN5Lmh0bWw%3D">Request An Invitation</a> or <a href="/user/login/forward/L3ByaXZhY3lfcG9saWN5Lmh0bWw%3D">Log In</a> </span>
+	</div>
+</div>
+
+<!--
+<div class="joinUs">
+    <h4>Join Patexia's community of researchers, businesses, and IP professionals.</h4>
+    <div class="joinBody">
+        <p>Read the latest in innovation & intellectual property news; network with professionals; use our research tools and <br />
+        win money and gain exposure in Patexia's Contests.</p>
+        <a href="">Sign Up</a>
+        or <a href="">Log In</a>
+    </div>
+</div> -->
+<div class="clearfix"></div>
+  
+            
     			<div id="content" class="pageLayout">
-    				    				    				
+                                                                    				    				    				
     				                				
                 	    				    				
     				        				<div id="leftCol">
         					<div class="leftWrapper">
-            					<div class="leftColItem"><div class="userViewNavigation clearfix">	
-	<ul class="userProfileNav">
-		<li>
-			<h3>Patexia</h3>
-			<ul class="userProfileSub">
+            					<div class="leftColItem"><div class="userViewNavigation clearfix">
+    <ul class="userProfileNav">
+        <li>
+            <h3>Patexia</h3>
+            <ul class="userProfileSub">
     <li>
         <a href="/about_us.html">About Us</a>
     </li>
@@ -258,19 +313,38 @@ $(document).ready(function() {
         <a href="/terms_of_service.html">Terms of Service</a>
     </li>
     <li>
+        <a href="/blog">Blog</a>
+    </li>
+</ul>        </li>
+    </ul>
+
+    <ul class="userProfileNav" style="margin-top:20px">
+        <li>
+            <h3>Help and Resources</h3>
+            <ul class="userProfileSub">
+    <li>
         <a href="/faq.html">FAQ</a>
     </li>
     <li>
-        <a href="/glossary.html">Glossary</a>
+        <a href="/patent_basics.html">Patent and Prior Art Basics</a>
     </li>
     <li>
-        <a href="/blog">Blog</a>
+        <a href="/search_guide.html">Using Patexia's Patent Research Tools</a>
     </li>
-</ul>		</li>
-	</ul>
+    <li>
+        <a href="/prior_art_contests.html">Tips for Patexia Prior Art Contests</a>
+    </li>
+    <li>
+        <a href="/glossary.html">Intellectual Property Glossary</a>
+    </li>
+    <li>
+        <a href="/prior_art_search_resources.html">More Prior Art Search Resources</a>
+    </li>
+</ul>        </li>
+    </ul>
 </div></div>            				</div>
         				</div>
-        			    				
+        			
     				<div id="middleCol" class="wideRightColumn">
     					    					<div id="page" class="page6 pageprivacy_policy">
 			   <h1>Privacy Policy</h1>
@@ -358,27 +432,33 @@ $(document).ready(function() {
 	&nbsp;</p>
 	<p></p>
 </div>    					        			</div>
-        			
+	        			
         			        			
-        			<div class="clear"></div>
+        			<div style="clear:both"></div>
         			
-        			    			</div>
-         		
-         		<div class="bottomModulesHolder">
-         			         		</div>
-         		
+        			                    <div id="rightBottomBlockHolder">
+                                            </div>
+    			</div>
          		<footer>
-    			    <div id="footer" class="pageLayout">
-        				<!-- <a href="http://www.patexia.com" class="footerLogo" title="Home"></a>  -->
-        				<div class="footerLeft">© 2010-2012 Patexia INC. All Rights Reserved.</div>
-        				<div class="footerRight">
-        								<a href="/about_us.html">About Us</a>	&nbsp;|&nbsp; 		<a id="menu-pressrelease" class="submenu" href="/pressrelease">Press Releases</a>	&nbsp;|&nbsp; 		<a href="/contact_us.html">Contact Us</a>	&nbsp;|&nbsp; 		<a href="/career.html">Careers</a>	&nbsp;|&nbsp; 		<a href="/privacy_policy.html">Privacy Policy</a>	&nbsp;|&nbsp; 		<a href="/terms_of_service.html">Terms of Service</a>	&nbsp;|&nbsp; 		<a href="/faq.html">FAQ</a>	&nbsp;|&nbsp; 		<a href="/glossary.html">Glossary</a>	&nbsp;|&nbsp; 		<a href="/blog">Blog</a>	        				</div>
-        				<div class="clear"></div>
-        				        			</div>
-        		</footer>
+		<link href="/images/general/favicon.ico" rel="shortcut icon">
+<link href="/css/compiled/application0cdf61037d7053ca59347ab230818335.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/images/general/favicon.ico" rel="shortcut icon">
+<!--[if IE]> <link href="/css/ie.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->	</footer>
+         	<div style="clear:both"></div>	
     		</div>
-		</div>
+               	<div class="bottomModulesHolder">
+         			         		</div>
+         			         		<footer>
+	    			    <div id="footer" class="pageLayout">
+	        				<!-- <a href="http://www.patexia.com" class="footerLogo" title="Home"></a>  -->
+	        				<div class="footerLeft">© 2010-2012 Patexia INC. All Rights Reserved. (v.5.0)</div>
+	        				<div class="footerRight">
+	        								<a href="/about_us.html">About Us</a>	&nbsp;|&nbsp; 		<a id="menu-pressrelease" class="submenu" href="/pressrelease">Press Releases</a>	&nbsp;|&nbsp; 		<a href="/contact_us.html">Contact Us</a>	&nbsp;|&nbsp; 		<a href="/career.html">Careers</a>	&nbsp;|&nbsp; 		<a href="/privacy_policy.html">Privacy Policy</a>	&nbsp;|&nbsp; 		<a href="/terms_of_service.html">Terms of Service</a>	&nbsp;|&nbsp; 		<a href="/faq.html">FAQ</a>	&nbsp;|&nbsp; 		<a href="/glossary.html">Glossary</a>	&nbsp;|&nbsp; 		<a href="/blog">Blog</a>		        				</div>
+	        				<div class="clear"></div>
+	        					        			</div>
+	        		</footer>
+        					</div>
 		
 			
 
-</body></html>
+        </body></html>
