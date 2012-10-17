@@ -1,99 +1,178 @@
-> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504130923id_/http%3A//www.medmutual.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Medical Mutual of Ohio Privacy Statement
+# Privacy & Confidentiality | Medical Mutual
 
-## Your Privacy is Important to Us
+## Health and Life Insurance for Individuals, Families and Groups
 
-### Medical Mutual of Ohio has always been committed to protecting the information you share with us and is required by law to maintain the privacy of your personal information as well as your protected health information. Please review our privacy policy below.
+  * [ About Medical Mutual ](https://web.archive.org/About-Medical-Mutual.aspx "About Medical Mutual")
+  * [ Community Events ](https://web.archive.org/About-Medical-Mutual/Community-Events.aspx "Community Events")
+  * [ Contact Us ](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual.aspx "Contact Us")
+  * [Log In](https://web.archive.org/)
+    * Manage your health benefits
 
-### THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+Username: Password:
 
-Medical Mutual of Ohio holds its employees and consultants to strict policies and procedures protecting your information. Medical Mutual of Ohio is required by law to provide you this Notice of its duties and privacy practices. All employees must sign confidentiality agreements. In addition, Medical Mutual of Ohio employs various technologies to prevent unauthorized access to data. This Privacy Statement will explain the type of information we collect, how we use that information, how we protect that information, your rights as they relate to your information and our legal duties and privacy practices.
+[Forgot Username](https://member.medmutual.com/user/forgot-username.aspx "Forgot Your Username") or [Password?](https://member.medmutual.com/user/forgot-password.aspx "Password?")
 
-## What Information We Collect
+### Not Registered?
 
-Medical Mutual of Ohio understands your concerns regarding the confidentiality of information you share with us. We collect information from you on applications and other transactions with us. This information can include name, address and social security number. Under certain conditions we may also ask you and your covered dependents for medical history information. We also have access to your information through claims submitted to our company from healthcare providers, information provided by your employer if your coverage is through a group contract and from your agent.
+[Register Now](https://member.medmutual.com/user/register.aspx "Register Now") or [Preview My Health Plan](https://member.medmutual.com/user/jane-doe.aspx "Preview My Health Plan")
 
-## How We Use and Disclose Your Information
-
-We are permitted by law to use your information for certain purposes including healthcare payment and healthcare operations. Examples of how we may use and disclose your information include but are not limited to:
-
-Payment: Medical Mutual of Ohio may use or disclose your information to pay claims for covered services or to provide eligibility information to your doctor when you receive treatment.
-
-Healthcare Operations: Medical Mutual of Ohio may use or disclose your information for activities like (1) underwriting, premium rating or other activities relating to the creation or renewal of a health insurance contract; (2) quality assessment and improvement activities such as peer review and credentialing of providers; (3) care and disease management activities; and (4) data and information systems management.
-
-As required by law: Medical Mutual of Ohio must allow the U.S. Department of Health and Human Services access to audit its records. In addition, Medical Mutual of Ohio may be required to release your information to comply with other laws including:
-
-  * To comply with legal proceedings, such as court orders or administrative order or subpoenas. 
-  * To perform mandatory licensing, regulatory/compliance reporting. 
-  * To law enforcement officials for limited law enforcement purposes. 
-  * To federal officials for lawful intelligence, counterintelligence and other national security purposes. 
-  * To Public Health Authorities for public health purposes. 
-  * To comply with workers’ compensation and other similar programs established by law that provide for benefits for work-related injuries or illness without regard to fault. 
+    * [Employer Accounts](https://web.archive.org/For-Employers/Employer-Resources/Tools-and-Administration/Employer-Tools.aspx)
+    * [Broker Accounts](https://web.archive.org/For-Brokers/Broker-Tools/Broker-Accounts.aspx)
+    * [Providers Accounts](https://provider.medmutual.com/ "Providers Accounts")
 
 
 
-To Business Associates: Medical Mutual of Ohio may disclose your information to third parties that it hires to assist in the administration of your benefits. These third parties are called Business Associates and they must agree in writing to protect and maintain the confidentiality and security of your information. Examples of a Business Associate are the doctors who do medical reviews and our brokers who service your policy.
+  * [Home](https://web.archive.org/)
+  * [For Individuals & Families](https://web.archive.org/For-Individuals-and-Families.aspx "For Individuals & Families")
+  * [For Employers](https://web.archive.org/For-Employers.aspx "For Employers")
+  * [For Brokers](https://web.archive.org/For-Brokers.aspx "For Brokers")
+  * [For Providers](https://web.archive.org/For-Providers.aspx "For Providers")
 
-To Plan Sponsors: If you receive insurance benefits through a group plan, Medical Mutual of Ohio may disclose to your Plan Sponsor, in summary form, claims history and other similar information. Such summary information does not disclose your name or other distinguishing characteristics. Medical Mutual of Ohio may also disclose to your Plan Sponsor the fact that you are enrolled in, or disenrolled from the Plan. Medical Mutual of Ohio may disclose your medical information to the Plan Sponsor for Plan administrative functions that the Plan Sponsor provides to the Plan if the Plan Sponsor agrees in writing to ensure the continuing confidentiality and security of your medical information. The Plan Sponsor must also agree not to use or disclose your medical information for employment-related activities or for any other benefit or benefit plans of the Plan Sponsor.
+Search the Site Enter a keyword
 
-Other Uses and Disclosures: Other disclosures that Medical Mutual of Ohio may make:
+  * [Corporate Profile](https://web.archive.org/About-Medical-Mutual/Corporate-Profile.aspx "Corporate Profile")
+    * [Our Values](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Our-Values.aspx "Our Values")
+    * [Service Reports](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Service-Reports.aspx "Service Reports")
+    * [Member Rights & Responsibilities](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Member-Rights-and-Responsibilities.aspx "Member Rights & Responsibilities")
+    * [Compliance Connection](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Compliance-Connection.aspx "Compliance Connection")
+    * [Accreditation & Awards](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Accreditation-Awards.aspx "Accreditation & Awards")
+    * [Quality Improvement Program](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Quality-Improvement-Program.aspx "Quality Improvement Program")
+    * [Leadership](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Leadership.aspx "Leadership")
+  * [Commitment to Community](https://web.archive.org/About-Medical-Mutual/Commitment-to-Community.aspx "Commitment to Community")
+  * [Community Events](https://web.archive.org/About-Medical-Mutual/Community-Events.aspx "Community Events")
+  * [Newsroom](https://web.archive.org/About-Medical-Mutual/Newsroom.aspx "Newsroom")
+  * [Careers](https://web.archive.org/About-Medical-Mutual/Careers.aspx "Careers")
+    * [Why Work at Medical Mutual?](https://web.archive.org/About-Medical-Mutual/Careers/Why-Work-at-Medical-Mutual.aspx "Why Work at Medical Mutual?")
+    * [Diversity](https://web.archive.org/About-Medical-Mutual/Careers/Diversity.aspx "Diversity")
+    * [College Graduate Development Program](https://web.archive.org/About-Medical-Mutual/Careers/College-Graduate-Development-Program.aspx "College Graduate Development Program")
+    * [Career FAQ](https://web.archive.org/About-Medical-Mutual/Careers/Career-FAQ.aspx "Career FAQ")
+  * [Contact Medical Mutual](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual.aspx "Contact Medical Mutual")
+    * [Customer Service](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Customer-Service.aspx "Customer Service")
+    * [Provider Support](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Provider-Support.aspx "Provider Support")
+    * [Individual Sales Information](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Individual-Sales-Information.aspx "Individual Sales Information")
+    * [Group Sales Information](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Group-Sales-Information.aspx "Group Sales Information")
+    * [Report Healthcare Fraud](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Report-Healthcare-Fraud.aspx "Report Healthcare Fraud")
+    * [Technical Support](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Technical-Support.aspx "Technical Support")
 
-  * To your personal representative appointed by you or designated by law. 
-  * To appropriate military authorities, if you are a member of the armed forces. 
-  * To a family member, friend or other person, for the purpose of helping you with your healthcare or healthcare payment if you are in an emergency situation and you cannot give your agreement to Medical Mutual of Ohio to do this. 
-  * To inform you of other health related benefits or services that may be of interest to you. 
+
+
+  * [Home](https://web.archive.org/ "Home")
+  * [About Medical Mutual](https://web.archive.org/About-Medical-Mutual.aspx "About Medical Mutual")
+  * Privacy Policy 
 
 
 
-Uses and Disclosures with your permission: Medical Mutual of Ohio will not use or disclose your information for any purpose not outlined in this notice unless you give Medical Mutual of Ohio your written authorization to do so. We do not make disclosures of information to any other companies that may want to sell their products or services to you. If you give Medical Mutual of Ohio your written authorization, you may revoke that authorization at any time unless Medical Mutual of Ohio has taken action in reliance of your authorization. To receive an authorization form, please contact Customer Service at the telephone number on the back of your identification card or print one from the bottom of our web site, Medmutual.com under the HIPAA Section. If a family member calls with knowledge of your claim, we may confirm certain information about it, unless you have informed us in writing of a need for confidential communication.
+### Effective Date: September 16, 2012
 
-## Your Rights 
+## HIPAA Notice of Privacy Practices
 
-Below are your privacy and confidentiality rights as a member of Medical Mutual of Ohio. Please note that all requests must be made in writing. We have provided forms to help in processing your request. The appropriate forms are available under the HIPAA Section at the bottom of our web site, www.medmutual.com. You also may call Customer Service at the telephone number on the back of your identification card to obtain a copy of this form. Hearing-impaired customers may contact us at 800/851-0479 or 800/982-8109. All completed forms and requests are to be mailed to:
+To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), please click [here](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/X6102%20MMO%20privacy%20letter%20R11_10.ashx), which links to our HIPAA Notice of Privacy Practices.
 
-Medical Mutual of Ohio  
-P.O. Box 89499  
-Cleveland, Oh 44101-6499
+## Website Privacy Policy
 
-Requests with incomplete information will not be processed and you will not be notified.
+We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how Medical Mutual of Ohio and its family of companies including Consumers Life Insurance Company and Carolina Care Plan, Inc. (collectively, “ **Medical Mutual** ”, “ **we** ”, “ **our** ”, or “ **us** ”) handle the information we receive from you through this website (“ **Site** ”).
 
-Restriction: You may request that Medical Mutual of Ohio place additional restrictions on the use and disclosure of your information to carry out treatment, payment or healthcare operations. Medical Mutual of Ohio does not have to agree to your request. Please use the form provided under the HIPAA Section at the bottom of our web site www.medmutual.com to submit your request. Be sure to provide all required information including your name, your birthday, the policy number under which you are covered, and a clear explanation of your request. Medical Mutual of Ohio will send a written confirmation regarding the disposition of your request.
+**Please Read Carefully Prior To Using This Website**. By entering and using this Site, you affirm that you have read and understood this Privacy Policy and the Medical Mutual [Terms of Use](https://web.archive.org/About-Medical-Mutual/Legal.aspx) and that you agree to abide by them. If you do not agree to abide by the Medical Mutual Terms of Use and this Privacy Policy, you may not enter, access, or otherwise use this Site. The use of this Site is conditioned upon your acceptance of the terms and conditions contained in this Privacy Policy which is part of and incorporated by reference into the Terms of Use of the Site.
 
-Confidential Communication: You may request that Medical Mutual of Ohio communicate with you in confidence about your information at a different location. Medical Mutual of Ohio does not have to honor this request unless (1) such a change in communication is necessary to avoid endangering you; (2) your request allows Medical Mutual of Ohio to continue collecting premiums and pay claims; and (3) your request is reasonable. Please use the form provided under the HIPAA Section at the bottom of our web site, www.medmutual.com to submit your request. Be sure to provide all required information including your name, your social security number, your group number, your birthday, the policy number under which you are covered, the full address of where you would like future communication to be sent and the reason for the request.
+This Privacy Policy lists our current policies, but as noted below, this Privacy Policy may be adjusted from time to time at our discretion. Those who do not agree to be subject to this Privacy Policy may not, under any circumstances, use this Site.
 
-The request will take ten (10) business days to process from the date received. You will receive a letter confirming the activation of the alternate address. All communications regarding your information will be sent to the alternate address once this request has been made or until you notify us otherwise. Use of an alternate address cannot be applied to communications sent prior to processing your request.
+### Collection of Personal Information
 
-Access to your information: You have a right to access your information used and stored by Medical Mutual of Ohio in its designated record set. For access to your entire medical record, you will have to contact the provider of service. Please use the form provided under the HIPAA Section at the bottom of our web site, www.medmutual.com to submit your request for Access to your records. Be sure to provide all required information including your name, your birthday, the policy number under which you are covered, the group number under which you are covered, your social security number, the information you would like to access and the dates of information you would like to see (if applicable).
+You should be aware that portions of this Site contain functions for collecting your personal information including your name and email address as well as your history of accessing this Site. Medical Mutual may also collect and track non-personally identifiable information about you, including but not limited to, how certain features of our Site are used, the general region from which our visitors are contacting us and how many people visit our Site at any given time.
 
-Amend your information: You have the right to request an amendment of your information. Medical Mutual of Ohio cannot amend information it did not create and will refer you to the provider of service if you are requesting an amendment to diagnosis or treatment information. Please use the form provided under the HIPAA Section at the bottom of our web site, www.medmutual.com to submit your request to amend your records. Be sure to provide all required information including your name, your birthday, the policy number under which you are covered, the information you are requesting be amended, and an explanation as to why you believe the information is incorrect or incomplete. You have a right to an appeal if your request to an amendment is denied. These rights will be explained to you if your request is denied.
+We do not collect personal information (such as names, addresses, phone numbers, email addresses or credit card numbers) about you, except when you specifically provide the information on a voluntary basis, such as when you:
 
-Disclosures: You have a right to an accounting of certain disclosures of your information made by Medical Mutual of Ohio and its Business Associates over the last six (6) years (but not for disclosures made before April 14, 2003). Please use the form provided under the HIPAA Section at the bottom of our web site, www.medmutual.com to submit your request for an Accounting of Disclosures of your records. Be sure to provide all required information including your name, your birthday, the policy number under which you are covered, and a statement explaining your specific request.
+  * Become a registered user of one or more of our services; 
+  * Establish an account with us; 
+  * Sign-up or subscribe for products or services, including submittal of an application for insurance and/or using our quotation system, that we periodically may make available. 
 
-Complaints: You have the right to complain if you believe your rights have been violated. You may use the form provided under the HIPAA Section at the bottom of our web site, www.medmutual.com to submit your complaint. Please provide all required information including your name, your birthday, the policy number under which you are covered, and an explanation regarding your complaint in as much detail as possible. You may file a complaint by contacting Customer Service at the telephone number on the back of your identification card, if you wish not to send it in writing.
 
-You also have the right to complain to the Secretary of the U.S. Department of Health and Human Services, Hubert Humphrey Building, 200 Independence Avenue, S.W., Washington, D.C. 20201. Federal law prohibits retaliation against you if you chose to file a complaint.
 
-Contact Information: If you have questions or would like an additional copy of this notice, please contact Customer Service at the telephone number on the back of your identification card.
+Medical Mutual requires that the actual user input such information and that such information be the most recent available. In addition, you may request that we modify or delete your registered account information by sending an email to Medical Mutual of Ohio at [customerservice@medmutual.com](mailto:customerservice@medmutual.com) with the words “UPDATE USER INFORMATION” in the subject line.
 
-## Security Procedures
+Whenever you register for one or more of our services, we may send an email to you with an authentication link to ensure the accuracy of the email address that you have supplied or to notify you that an application or quotation was requested. Your response to the authentication link may be necessary to complete your registration, which may be required to use our services.
 
-Medical Mutual of Ohio takes the security of your information very seriously and has established security standards and procedures to prevent unauthorized access to customer information. We maintain physical, electronic and procedural safeguards to guard your information. All authorized personnel within our organization who deal with your information must abide by a confidentiality agreement.
+### Use of Personally Identifiable Information:
 
-## Links to Other Sites
+Medical Mutual reserves the right to compile, save, use within the scope of our activities, and analyze any and all of your data (registration data, use history, etc.). Medical Mutual intends to use such data for internal purposes only, including without limitation for the purposes of responding to your requests for information and for contacting you. Medical Mutual may provide aggregated statistics about users (including you) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including yourself.
 
-This site may contain links to other Web sites, even though you may still see our logo; you are providing information to these other sites when you leave our site. We will notify you when you are leaving our site. We are not responsible for the privacy practices or the contents of such other Web sites. You should review the posted statement at the sites you go to from our site.
+Medical Mutual may contact you regarding the status of your account, your registration information, support issues regarding our service, and changes to our service or the terms under which it is offered.
 
-## E-Mail
+Medical Mutual may use your personally identifiable information for several purposes, including to:
 
-All information and correspondence you share with us will be handled in the strictest confidence. Please note that the email facilities on our Web site (unlike those areas within the site) do not provide the same level of security. For that reason, please do not email to communicate information to us that you consider confidential. If you wish, you may contact us instead via telephone at the Customer Service number located on your identification card.
+  * provide you with information or services you request; 
+  * process an application or quotation requested by you; 
+  * resolve disputes; 
+  * comply with laws and regulations; 
+  * prevent prohibited activities and enforce our Terms of Use; 
+  * facilitate your use of, and our operation of, our services; 
+  * analyze trends and statistics and for marketing, research, and development 
+  * deliver targeted service updates; and 
+  * verify information with third parties. 
 
-## Cookies and Other Methods of Collecting Information
 
-Medical Mutual of Ohio uses various methods to collect certain other kinds of information that cannot be personally identified with you, including "cookies", "referrers", IP addresses, and environment variables. A "cookie" is an element of data that Medical Mutual of Ohio can send to your browser, which may then store it on your system. It can be used to provide you with a tailored user experience. The Medical Mutual of Ohio site uses cookies. We treat any personally identifiable information with the same confidentiality as when you enrolled. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. Medical Mutual of Ohio does not require that you accept cookies. A "referrer" is the information passed along by a web browser that references the Web URL you linked from, and is automatically gathered by our Web server. This information is used by Medical Mutual of Ohio to identify broad demographic trends that may be used to provide information tailored to your interests. You will not be personally identified from this information.
 
-Your computer uses IP addresses every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the Web pages you request) can be sent to you. Our Web server automatically gathers them. Medical Mutual of Ohio will not use your IP address to attempt to identify your personal information and you will remain anonymous. System Information we gather includes time, type of Web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your Web browser when you are connected to a Web site and is used by Medical Mutual of Ohio only for broad demographic statistics. You will not be personally identified from this information.
+Additionally, we may disclose your personally identifiable information when required by law, rule, or regulation. Specifically, we may disclose this information to unrelated parties in special cases when we have reason to believe that our disclosure is necessary to identify, contact or bring legal action against a person or persons who may be causing injury to, or interference with, the rights or property of Medical Mutual (including our Site), computer users accessing our Site, or any third party. In addition, we may disclose information about individuals who access our Site to law enforcement agencies, judicial or government authorities or to other individuals or entities in response to subpoenas, court orders or other legal processes.
 
-## Effective Date
+Further, in the event that Medical Mutual goes through a business transition, such as a merger, an acquisition by another company, or a sale of all or a portion of its assets, your and other users’ personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, your personal information will be used in a manner different from that stated at the time of collection, you will be given the option to continue sharing the information consistent with this Privacy Policy. Nothing in this Privacy Policy is intended to interfere with the ability of Medical Mutual to transfer all or part of its business and/or assets (including the Site) for any purposes, without limitation.
 
-The effective date of this notice is April 14, 2003. Medical Mutual of Ohio is required to follow the terms of this notice until it is replaced. Medical Mutual of Ohio reserves the right to change this Privacy Statement at any time as allowed by law and will notify you of any changes as required by law. Medical Mutual of Ohio reserves the right to make the changes apply to all information that it maintains.
+Finally, we may use your information as otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
+
+If you are an inactive registered user of My Health Plan, we may retain your information for up to twelve (12) months after you are no longer active.
+
+### Collection and Use of Anonymous Information
+
+Anonymous information is not personally identifiable information. Anonymous information is information that is collected automatically that relates to, but is not limited to, how certain features of our Site are used, the general region from which our visitors are contacting us and how many people visit our Site at any given time. We use anonymous information and may share with, or license or sell this information to, third parties for the purpose of allowing marketing through our Site.
+
+### Children’s Privacy
+
+Medical Mutual does not knowingly collect personally identifiable information on individuals under the age of 18. If you are under age 13, please do not email us, contact our Site, attempt to use our Site, submit information to our Site, or ask us to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email our Site, contact our Site, attempt to use our Site, submit information to our Site, or ask us to email you.
+
+### Security
+
+Medical Mutual uses safeguards, such as data encryption, firewalls, system security measures and Secure Socket Layers to protect the confidentiality of your personally identifiable information. While Medical Mutual makes every reasonable effort to protect the information collected through this Site, please be aware that there is always some risk involved when submitting data over the Internet. We cannot guarantee that our Site is 100% safe from illegal tampering or “hacking.” Any data transmitted over the Internet may be at risk; however, once it is received at Medical Mutual and entered into a Medical Mutual database, any data you have submitted has the same protection that Medical Mutual extends to its own confidential information.
+
+Agents and contractors of Medical Mutual who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Medical Mutual.
+
+If you suspect improper use or access to Medical Mutual information, please notify Medical Mutual immediately. Contact Medical Mutual’s Compliance and Incident Hotline at 800.762.8130.
+
+### Opt Out/Updating Your Information
+
+You may receive various electronic communications from Medical Mutual, such as newsletters, account notifications, and other marketing communications about our products and services. To opt-out of any specific electronic communication, follow the “unsubscribe” instructions associated with the specific communication. If you have submitted personally identifiable information through this Site, you may [request a restriction on the use and disclosure](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/Restriction%20On%20Use%20Or%20Disclosure%20Of%20Information%20Form.ashx) of your information.
+
+You may also request [access to your personal information ](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/Request%20For%20Record%20Set%20Form.ashx)held by Medical Mutual and you may request that we [correct or amend your personal data](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/CorrectAmend%20Information%20Request%20Form.ashx). As a reminder to you, when exchanging emails, any email that you send or receive on your employer’s email system may be the property of your employer. Consequently, your employer may have the ability to review your personal information sent via email.
+
+### Links to Third Party Websites
+
+As a convenience to our users, our Site may contain links to a number of other websites (“ **non Medical Mutual of Ohio websites** ”) that we believe may offer useful information. We will notify you when you are leaving our Site. Even though you may still see our logo, you are providing information to other linked websites when you leave our Site. Such links do not constitute an endorsement by Medical Mutual of those other websites, the content displayed therein, or the persons or entities associated therewith. The Privacy Policy presented here does not apply to those websites. You should contact those websites directly for information on their privacy policies, confidentiality agreements, and data collection/distribution procedures. We encourage visitors to read and become familiar with the privacy policies maintained by such other websites.
+
+### Email
+
+All information and correspondence you share with us will be handled in the strictest confidence. Please note that the email facilities on our Site (unlike those areas within the Site) do not provide the same level of security. For that reason, please do not email to communicate information to us that you consider confidential. If you wish, you may contact us instead via telephone at the Customer Service number located on your identification card.
+
+### Cookies
+
+Cookies are small bits of information that are stored on your computer. Cookies help establish a user session and allow our server to correctly provide website users with the appropriate information, advertisements and services. Our Site uses a technology called “persistent cookies,” which is a small data file that is stored on your computer, and enables your browser to access the pages you request and to track the pages visited. Using persistent cookies to track page visits helps us analyze our Site usage more accurately.
+
+Please note that linked non-Medical Mutual websites may also use cookies. Medical Mutual cannot control the use of cookies by these non-Medical Mutual websites. We also want you to know that when you link from this Site to another website, that website may have the ability to recognize that you have come from this Site. If you do not want any other websites to know that you have been on this Site, we recommend that you do not use the links provided in our Site. If you have any questions about how third party websites use cookies, you should contact such third parties directly.
+
+Most users accept cookies but you can configure your browser to not accept cookies if you choose, however, if you disable your cookies and are a registered user, you may not have access to your personal information on medmutual.com.
+
+### Modifications
+
+This Privacy Policy and the Terms of Use constitute the complete agreement between the parties with respect to the subject matter and supersede any prior agreement or communication. Medical Mutual reserves the right to modify this Privacy Policy without prior notice. In the event Medical Mutual updates or modifies this Privacy Policy, Medical Mutual shall endeavor to post notice of such updates or modifications on this Site for a period of thirty (30) days following any such modifications. Therefore, you are advised to review this Privacy Policy occasionally, or at least every thirty (30) days. Your continued use of this Site subsequent to Medical Mutual’s notice of modification of this Privacy Policy shall constitute your acceptance of the modified Privacy Policy.
+
+### Contact Medical Mutual
+
+If you have questions or concerns regarding your privacy or this Privacy Policy, you should contact the Company at:
+
+By Mail:  
+Medical Mutual of Ohio   
+2060 East 9th Street   
+Cleveland, Ohio 44115-1355 
+
+By Phone: 800.382.5729 
+
+By Email: [customerservice@medmutual.com](mailto:customerservice@medmutual.com)
