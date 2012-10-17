@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertstring.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603003512id_/http%3A//convertstring.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertstring.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017061916id_/http%3A//convertstring.com/Privacy) for the most accurate reproduction.*
 
 # Convert String - Sitemap
 
