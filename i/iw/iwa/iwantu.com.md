@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511014526id_/http%3A//www.iwantu.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017202616id_/http%3A//www.iwantu.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # 
 
@@ -38,7 +38,7 @@ We use the information we hold about you in the following ways:
 
 **What information do we collect about others?**
 
-  * Some features of the Site allow you to share your Site experience with people you know (“your Contacts”), or to invite them to join the Site. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address.
+  * Some features of the Site allow you to share your Site experience with people you know (your Contacts), or to invite them to join the Site. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address.
   * If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contact's addresses.
 
 **How do we use information about your Contacts?**
@@ -50,24 +50,24 @@ We use the information we hold about you in the following ways:
 
 **Disclosure of your information**
 
-As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
+We will only use or disclose your personal information in accordance with the purposes for which it was originally collected unless you have otherwise consented, or when required or permitted by law. We will keep your personal information only for so long as is required to fulfill the purpose for which it was collected or as required by law. Except as explained in this Privacy Policy, or as otherwise consented to by you, we do not disclose any personal information to third parties. The following are the limited instances where we may disclose your personal information to third parties: 
 
-  * Other companies in the same corporate group as us.
-  * A buyer or prospective buyer of our business.
-  * Our professional advisers, such as our lawyers, where it is necessary for them to advise us.
-  * Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation.
+  * When this information must be shared to provide a product or service you have requested.
+  * We need to send the information to companies who work on our behalf to provide a product or service to you.
+  * To investigate and/or enforce violations of our Terms and Conditions and/or this Privacy Policy, or to protect our interests in our operation and our legal rights and protections.
+  * To investigate potentially fraudulent or questionable activities.
+  * When required or permitted by law. Iwantu (including our affiliates, advertisers and content providers) independently reserves the right to fully cooperate with requests from any recognized law enforcement authority, and to court orders, requesting or directing Iwantu (including our affiliates, advertisers and content providers) to disclose the identity or other information regarding any person who is using or has used the Site or the Service or has obtained any Content available through or in association with the Site. By accepting this Privacy Policy and using the Site and/or the Service, you waive and hold harmless Iwantu, our affiliates, content providers, and the operators of the Site from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any law enforcement authority's investigations or inquiries.
+  * In the course of a sale or potential sale, reorganization, consolidation, merger or amalgamation of our business. In order to ensure a smooth transition of the Service in the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets or the sale of an individual website owned by Enedina Ltd, Enedina Ltd may transfer your personally identifiable information to a third party as a part of such merger, acquisition, reorganization or sale. In the event the transaction proceeds, we will require that the receiving party agree that they will be similarly bound by the provisions of this Privacy Policy and that they will only use and disclose your personal information as we are similarly entitled under this Privacy Policy. In the event the sale does not proceed, we will require the potential purchaser to not use or disclose your personal information in any manner whatsoever and to completely erase the same.
 
 
 
-We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties.
-
-We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
+Where such disclosure is described elsewhere in this Privacy Policy. This Privacy Policy does not protect information you post to any online profile, chat room, or any other forum accessible to other Users or other sites within Enedina Ltd.»
 
 **Marketing and other uses of your non-personal data by us and by third parties**
 
 We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports.
 
-We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used.
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used(To unsubscribe or change your email options go to the “My Account” area, choose “Email Settings” section and edit the notifications preferences).
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [](mailto:)
 
@@ -98,9 +98,9 @@ The Site may, from time to time, contain links to and from the websites of our p
 
 **Access to information and correction**
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [](mailto:). Please note that we may make a small charge for this service.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [admin@iwantu.com](mailto:admin@iwantu.com). Please note that we may make a small charge for this service.
 
-We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [](mailto:).
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [admin@iwantu.com](mailto:admin@iwantu.com).
 
 **Changes to our privacy policy**
 
@@ -108,4 +108,14 @@ We keep our privacy policy under regular review and will post any changes to it 
 
 **Questions**
 
-If you have any questions about this privacy policy then please contact us at [](mailto:).
+If you have any questions about this privacy policy then please contact us at
+
+Enedina Ltd (IwantU)   
+1 Katalanou Street   
+office/flat 101   
+2121 Aglantzia   
+Nicosia, Cyprus
+
+or contact us through e-mail: [admin@iwantu.com](mailto:admin@iwantu.com)
+
+Tel: +44 800 051 7318
