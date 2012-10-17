@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpaarmy.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623041342id_/http%3A//www.cpaarmy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaarmy.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018004639id_/http%3A//www.cpaarmy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | cpaarmy
+# Privacy Policy |
 
 **CPAARMY.COM Website Privacy Statement**
 
@@ -73,4 +73,4 @@ CPAARMY.COM has the discretion to occasionally update this privacy statement. Wh
 
 7\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at: admin@cpaarmy.com
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at: admin@cpaarmy.com 
