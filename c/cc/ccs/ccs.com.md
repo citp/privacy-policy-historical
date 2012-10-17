@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616011847id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy/%3Fcm_sp%3Dfooter-_-privacypolicy-_-Footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017030544id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy/%3Fcm_sp%3Dfooter-_-privacypolicy-_-Footer) for the most accurate reproduction.*
 
-# Shop CCS
+# Customer Service - Other - Privacy Policy | CCS
 
 
 
