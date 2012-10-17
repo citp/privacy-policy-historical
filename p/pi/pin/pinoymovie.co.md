@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinoymovie.co privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513082313id_/http%3A//www.pinoymovie.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoymovie.co privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017141716id_/http%3A//www.pinoymovie.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinoy Movies | Tagalog Movie | Filipino Movie
+# Privacy Policy | Pinoy Movies | Tagalog Movie | Filipino Movie Review & Trailer
 
 ## [Privacy Policy](http://www.pinoymovie.co/privacy-policy "Permanent Link to Privacy Policy")
 
@@ -21,4 +21,4 @@ We also use third party advertisements on PinoyMovie.Co to support our site. Som
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-filipino movie sites, filipino movies sites, free pinoymovie, tagalog movies sites, pinoy movie sites, tagalog movie sites, pinoy movie site, movie sites tagalog, thepinoymovie site information, visit www pinoymovie
+Incoming Terms: pinoy movie sites, tagalog movies sites, tagalog movie sites, filipino movie sites, pinoy sites movie, pinoy movie site, pinoy movies websites, pinoy monie sites, pinoy sites movies, pinoy websites movies
