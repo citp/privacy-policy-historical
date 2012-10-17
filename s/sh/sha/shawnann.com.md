@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the shawnann.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323181201id_/http%3A//shawnann.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawnann.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017134633id_/http%3A//shawnann.com/about-shawn-ann/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Shawn Ann's World
 
-October 21, 2010 @ 4:19pm | | [Leave a Comment](http://shawnann.com/about/privacy-policy/#respond) | 264 views 
+October 21, 2010 @ 4:19pm | | [Leave a Comment](http://shawnann.com/about-shawn-ann/privacy-policy/#respond) | 584 views | 
 
-**Shawn Ann’s World, LLC**  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+[](http://www.shareasale.com/r.cfm?b=255473&u=457734&m=28169&urllink=&afftrack=)
+
+**Shawn Ann’s World LLC** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -12,7 +14,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Shawn Ann’s World, LLC uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Shawn Ann’s World LLC uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
@@ -22,7 +24,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy/ads/). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/policies/privacy/ads/). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
 ## Other Advertising Notes
 
@@ -32,4 +34,8 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Concerns or questions about this privacy policy can be directed to shawn@shawnann.com for further clarification.
 
-#####  Last Updated on January 27, 2012
+#####  Last Updated on April 16, 2012
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fshawnann.com%2Fabout-shawn-ann%2Fprivacy-policy%2F&&description=Privacy+Policy)
+
+Did you enjoyed this post? Please consider leaving a comment, posting it to your favorite social media, or [subscribing](http://shawnann.com/?feed=rss2 "Shawn Ann's World")!
