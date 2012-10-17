@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakearning.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601113705id_/http%3A//www.pakearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakearning.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017144148id_/http%3A//www.pakearning.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Earn Money Online
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -25,17 +25,13 @@ If you have any questions regarding the privacy policy of WaoTube then you may c
 
 Be Sociable, Share!
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20%20-%20http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&t=Privacy%20Policy%20 "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy%20&body=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&title=Privacy%20Policy%20 "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&title=Privacy%20Policy%20&notes=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&title=Privacy%20Policy%20&srcURL=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&srcTitle=Earn+Money+Online+Ways+to+make+free+online+money "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&title=Privacy%20Policy%20&source=Earn+Money+Online+Ways+to+make+free+online+money&summary=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&Title=Privacy%20Policy%20 "BlinkList")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&title=Privacy%20Policy%20&bodytext=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "Digg")
-  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&title=Privacy%20Policy%20&annotation=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "Google Bookmarks")
-  * [](http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&t=Privacy%20Policy%20 "HackerNews")
-  * [](http://reporter.es.msn.com/?fn=contribute&Title=Privacy%20Policy%20&URL=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy&cat_id=6&tag_id=31&Remark=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "MSNReporter")
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20%20-%20http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&t=Privacy%20Policy%20 "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy%20&body=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&title=Privacy%20Policy%20 "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&title=Privacy%20Policy%20&notes=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&title=Privacy%20Policy%20&srcURL=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&srcTitle=Earn+Money+Online+Ways+to+make+free+online+money "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&title=Privacy%20Policy%20&source=Earn+Money+Online+Ways+to+make+free+online+money&summary=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.pakearning.com%2Fprivacy-policy%2F&Title=Privacy%20Policy%20 "BlinkList")
   * 
 
