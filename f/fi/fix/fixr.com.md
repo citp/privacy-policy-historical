@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510211351id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017094128id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fixr.com
 
-FIXR, Inc. (referred to in this privacy policy as "Fixr," "we," "us," and "our") is the sole owner of the information collected on www.fixr.com. This describes how we handle your personal information for our services on the Fixr websites and is incorporated into our [Terms and Conditions](https://web.archive.org/web/20120510211351id_/http%3A//www.fixr.com/info/terms_and_conditions.html). The Fixr.com website (and any successor website) and the services offered in connection with such website will collectively be referred to as the "Site."
-
-FIXR, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@Fixr.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information collected through this Web site.
+FIXR, Inc. (referred to in this privacy policy as "Fixr," "we," "us," and "our") is the sole owner of the information collected on www.fixr.com. This Privacy Policy describes how we handle your personal information for our services on the Fixr websites and is incorporated into our [Terms and Conditions](https://web.archive.org/info/terms_and_conditions.html). The Fixr.com website (and any successor website) and the services offered in connection with such website will collectively be referred to as the "Site."
 
 ## Collection
 
@@ -139,20 +137,16 @@ Your information is stored on our servers, which may be located within or outsid
 
 ## Third Parties
 
-Except as otherwise expressly included in this , this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are users on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are users on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
 
-## Changes to this 
+## Changes to this Privacy Policy
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ## Contact Us
 
-Mailing address:  
-FIXR, Inc  
-2711 Centerville Rd #120  
-Wilmington, DE 19808
+Mailing address:\ FIXR, Inc\ 2711 Centerville Rd #120\ Wilmington, DE 19808
 
-If you would like to speak with a customer service representative  
-please call us at **(866) 953-5377**
+If you would like to speak with a customer service representative\ please call us at **(866) 953-5377**
 
-Or by email at info@Fixr.com.
+Or by email at info@Fixr.com
