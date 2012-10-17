@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgtryit.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519172043id_/http%3A//www.pg.com/privacy/english/privacy_notice.html%3Futm_source%3DpgTryItCom%26utm_medium%3Dmini-site%26utm_campaign%3DtrialAndLeverage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgtryit.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017072355id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml%3Futm_source%3DpgTryItCom%26utm_medium%3Dmini-site%26utm_campaign%3DtrialAndLeverage) for the most accurate reproduction.*
 
 # P&G Privacy Notice
 
