@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinerewardcenter.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510213924id_/http%3A//onlinerewardcenter.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2809name%26catalog_id%3D14876%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinerewardcenter.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017021811id_/http%3A//onlinerewardcenter.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2809name%26catalog_id%3D14876%26gift%3D71) for the most accurate reproduction.*
 
 # Onlinerewardcenter
 
