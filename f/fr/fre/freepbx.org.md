@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428203122id_/http%3A//www.freepbx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017111659id_/http%3A//www.freepbx.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreePBX
 
