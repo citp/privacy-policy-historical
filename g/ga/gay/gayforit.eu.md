@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504124933id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017063747id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
 
 # GayForIt.eu
 
@@ -40,3 +40,5 @@ We do not share your personally identifiable information (such as name or email 
 We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Gayforit Website.  
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with the Laws of England & Wales.  
 Gayforit also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Gayforit believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Gayforit Website, and to protect the rights, property, or personal safety of Gayforit, our users or others.
+
+GLBT Ltd, St James Court, St Denis Street, Port Louis, Mauritius 
