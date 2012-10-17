@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504111614id_/http%3A//www.handmark.com/company/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017162424id_/http%3A//www.handmark.com/company/about/privacy.php) for the most accurate reproduction.*
 
 # Handmark
 
   * [Overview](https://web.archive.org/company/about/)
-  * [Leadership](https://web.archive.org/web/20120504111614id_/http%3A//www.handmark.com/company/about/leadership.php)
+  * [Leadership](https://web.archive.org/web/20121017162424id_/http%3A//www.handmark.com/company/about/leadership.php)
   * [Contact Us](https://web.archive.org/company/about/contact.php)
   * [Career Opportunities](https://web.archive.org/company/about/careers.php)
 
