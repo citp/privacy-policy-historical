@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decalgirl.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513161728id_/http%3A//www.decalgirl.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decalgirl.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017113728id_/http%3A//www.decalgirl.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | DecalGirl
 
