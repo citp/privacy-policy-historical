@@ -1,106 +1,74 @@
-> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511163904id_/http%3A//www2.stopzilla.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017042611id_/http%3A//www.stopzilla.com/about/legal/w3c/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Security Software by STOPzilla
+# Privacy Policy | STOPzilla – Security Software by STOPzilla
 
 ## IS3, INC. (STOPzilla)
 
-### http://www2.stopzilla.com
+### http://www.stopzilla.com
 
 Effective Date: 04th of October 2010   
-Last Edited: 18th of November 2011 
+Last Edited: 03rd of July 2012 
 
 * * *
 
-### General Information
+### iS3 Privacy Statement
 
-IS3, INC. (STOPzilla) takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
-
-  * This policy covers what personally identifiable information IS3, INC. (STOPzilla) collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www2.stopzilla.com Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number. 
-  * This policy only applies to http://www2.stopzilla.com and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage. 
-
-
+iS3 is committed to maintaining the trust of our subscribers. This statement explains how we collect information from you and what we do with it.
 
 * * *
 
-### Contact Information
+### Information Request:
 
-We invite you to contact us if you have questions about this privacy policy. 
-
-Our Internet address is located at [http://www2.stopzilla.com](http://www2.stopzilla.com/)
-
-> **IS3, INC. (STOPzilla) IS3, INC. (STOPzilla)  
->  2200 NW 2nd Ave,   
->  Suite 201   
->  Boca Raton, FL 33431   
->  FL USA **
-> 
-> You may contact us by e-mail at [privacy@stopzilla.com](mailto:privacy@stopzilla.com)   
->  You may contact us by phone on 561-807-6058 Ext: 220 or 877-877-9944 Ext: 128 
+iS3 offers a variety of online services including the sale of diverse security software, removal of malware via the internet and multiple web properties to provide support services and updates for our software products. In order for you to make full use of the resources we offer on our sites and with our products, we ask you to provide some basic information. When you sign up to receive iS3 services, you will be asked to register with us. If you wish to participate in additional iS3 services, such as Newsletters, Forums and Discussions, Archives or Business tools, you will be asked to register for these services as well and authorize us to use your subscriber information to inform you of upcoming news and events.
 
 * * *
 
-### Dispute Resolution
+### Promotions:
 
-IS3, INC. (STOPzilla) is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
-
-Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors. 
+Unless you opt out, we may use your product registration information to send you promotional materials that we think may interest you. We do not provide or sell subscriber names, e-mail addresses or registration information to any outside organization.
 
 * * *
 
-### Browser Settings
+### Shopping at iS3:
 
-During the installation process, STOPzilla presents an opt-out "Home Page Protection" dialog. The default option protects your current home page from being hijacked by an unauthorized process. Although this option can be turned off from within the STOPzilla setup, we highly recommend that you keep this option in-force at all times to prevent malware from taking over your browser. 
+iS3 is committed to protecting your personal information! When you use our sites for eCommerce, we utilize a variety of security procedure to help protect your sensitive information from unauthorized access, use or disclosure. All transactions made via the iS3 Web sites using highly confidential information, such as credit card numbers or passwords, are protected through the use of encryption such as the Secure Sockets Layer (SSL) protocol. Our processes are designed to reduce the risk of ID theft and online fraud and are totally compliant with PCI (Payment Card Industry) security standards.
 
 * * *
 
-### Information Collection
+### Cookies:
 
-When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information IS3, INC. (STOPzilla) collects, and how it is used. 
+Cookies are small text files that most Web sites, including iS3, place on your computer. Cookies help us identify the current state of the iS3 application(s) as well as when and where you heard about such application(s). iS3 does not use cookies to track your activities on the Web outside of our sites. No cookie delivered by us will interfere with the operation of your computer.
 
-> ### Information Collected
-> 
-> \- What information do we collect and why? 
-> 
-> We collect the following identifiable information about our visitors: 
-> 
->   * user.name _(optional)_
->   * user.home-info.online.email _(optional)_
->   * user.home-info.telecom.telephone _(optional)_
->   * user.business-info.telecom.telephone _(optional)_
->   * user.business-info.online.email _(optional)_
->   * dynamic.clickstream 
->   * dynamic.http 
->   * dynamic.searchtext 
->   * dynamic.cookies 
->   * dynamic.miscdata 
-> 
-  
->  We collect identifiable information for the following reasons: 
-> 
->   * Web Site and System Administration 
->   * Research and Development 
-> 
-  
->  Collecting information about your computer will allow us to potentially diagnose and repair computer related problems. 
-> 
-> Our Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors. 
-> 
-> The STOPzilla product may collect anonymous usage metrics using a service called DeskMetrics. DeskMetrics is a real-time analytics module that has been integrated into STOPzilla. The information gathered is collected and aggregated by deskmetrics.com and is used to improve our product. For more information about Deskmetrics and what information may be collected please refer to the [DeskMetrics Analytics Privacy Policy](http://deskmetrics.com/analytics/privacy-policy/). You may opt out of this service at installation. 
-> 
-> ### Information Recipients
-> 
-> \- Who has access to the information collected?   
-> 
-> 
->   * Ourselves and/or our entities acting as our agents or entities for which we are acting as an agent. 
-> 
-  
-> 
-> 
-> ### Information Retention
-> 
-> \- How long is this information retained? 
-> 
->   * We do not have a retention policy for this area of the Web Site. 
-> 
+* * *
 
+### Resident Software:
+
+For those who purchase support services from iS3 (SmartSupport), a resident program is installed on your desktop to provide a direct link to our support center via a chat application. This resident program also provides our technicians with your registration number and historical data from previous infections. If your machine is compromised in any way, this application provides an immediate connection with our technicians to repair any damage made by a malware infection. This application does not interfere with the operation of your computer.
+
+* * *
+
+### Shared Information:
+
+Except as described above or as expressly stated at the time you provide information to iS3, iS3 does not provide individual information about you to others. 
+
+* * *
+
+### General Considerations:
+
+iS3 cannot guarantee that the information you provide to us is completely safe. There may be technical problems beyond our control that may make it accessible to unauthorized persons. If iS3 is acquired, our user information will be included among the assets transferred to the new owner. There also may be occasions in which iS3 is required to provide information by order of a court or when the law requires that subscriber information be treated as a transferable asset, as in bankruptcy. Internet-based commerce is dynamic and changing. We may alter our privacy policy at anytime in order to adjust to these changes. We recommend that you check this Privacy Policy frequently.
+
+* * *
+
+If you have questions or comments on this Privacy Statement, please email us at [support@iS3.com](mailto:support@iS3.com), write to us at Privacy Concerns, c/o iS3, 2200 NW Boca Raton Blvd, Boca Raton, FL 33431 or call toll free 1-877-877-9944.
+
+TOLL FREE PHONE
+
+SUPPORT
+
+USA & Canada
+
+1-877-877-9944 
+
+International
+
+0-800-520-0429
