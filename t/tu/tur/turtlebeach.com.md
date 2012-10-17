@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511154619id_/http%3A//www.turtlebeach.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017052705id_/http%3A//www.turtlebeach.com/privacy.aspx) for the most accurate reproduction.*
 
 # Video Gaming Headsets, Sound Cards, Audio Processors | Turtle Beach
 
