@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613194148id_/http%3A//bankatlantic.com/privacyPolicy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017022705id_/https%3A//www.bankatlantic.com/privacyPolicy/default.html) for the most accurate reproduction.*
 
 # BankAtlantic
 
@@ -52,7 +52,7 @@ Back To Menu.
 
  **Who can I contact if I have any questions regarding my privacy?**
 
-You can contact BankAtlantic for any questions or suggestions you have via [secure message](https://www.bankatlantic.com/secureecustomercareform/) or by calling us toll-free  
+You can contact BankAtlantic for any questions or suggestions by calling us toll-free  
 at 1-800-741-1700.
 
 BankAtlantic has been certified by members of the Council of VeriSignTM to help promote the principles of disclosure and informed consent on the Internet. For more information regarding privacy you can visit the following sites:
