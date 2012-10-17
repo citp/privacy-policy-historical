@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the sfxperformance.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513060235id_/http%3A//www.sfxperformance.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfxperformance.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017191855id_/http%3A//www.sfxperformance.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # SFX Performance website privacy policy
 
   
-[](http://www.facebook.com/sfxperformance) | 
+  
+  
+| 
 
 What information do we collect?
 
@@ -66,12 +68,11 @@ Your consent
 By using our site, you consent to our privacy policy.
 
 |   
-[](https://web.archive.org/deal_of_the_day.asp)  
-  
   
 
 
   
-
+[](https://plus.google.com/108401670546724756295) [](http://www.facebook.com/sfxperformance)  
+[](https://web.archive.org/deal_of_the_day.asp)
 
  
