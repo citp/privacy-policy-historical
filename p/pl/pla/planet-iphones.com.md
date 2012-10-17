@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-iphones.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512164318id_/http%3A//planet-iphones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-iphones.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017132020id_/http%3A//planet-iphones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet iPhones
 
