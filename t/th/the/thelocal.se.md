@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611070623id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017053502id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Local
 
@@ -67,8 +67,8 @@ You can also remove all cookies from your computer – or specific cookies that 
 
 [](https://web.archive.org/followsweden/)
 
-[](https://web.archive.org/followsweden/article/Battlefield-biggest-Swedish-export-hit-since-ABBA/)
+[](https://web.archive.org/followsweden/article/10-innovations-you-didnt-know-were-Swedish/)
 
-## [Battlefield biggest Swedish export hit since ABBA](https://web.archive.org/followsweden/article/Battlefield-biggest-Swedish-export-hit-since-ABBA/)
+## [10 innovations you didnt know were Swedish](https://web.archive.org/followsweden/article/10-innovations-you-didnt-know-were-Swedish/)
 
-Battlefield, Minecraft and Just Cause are three of the world's most popular computer games. But few players know that their favorite games have been developed by a number of high-tech firms in Stockholm, all within walking distance from one another. [Read more »](https://web.archive.org/followsweden/article/Battlefield-biggest-Swedish-export-hit-since-ABBA/)
+From Anders Celsius's thermometer in the 1700s to Skype in 2003, Sweden has long been a country that breeds innovation. The Global Innovation Index 2012 ranked Sweden as the most innovative country within the European Union. [Read more »](https://web.archive.org/followsweden/article/10-innovations-you-didnt-know-were-Swedish/)
