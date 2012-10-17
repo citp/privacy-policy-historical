@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech2date.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511044559id_/http%3A//www.tech2date.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech2date.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017110833id_/http%3A//www.tech2date.com/privacy-policy) for the most accurate reproduction.*
 
 # Tech2Date Privacy Policy Keep Your Personal Information Secure
 
