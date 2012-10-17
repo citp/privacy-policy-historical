@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourkidsmom.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504135432id_/http%3A//www.ourkidsmom.com/pr-info/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourkidsmom.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017102129id_/http%3A//www.ourkidsmom.com/pr-info/disclosure) for the most accurate reproduction.*
 
 # Disclosure & Privacy - OurKidsMom
 
@@ -29,3 +29,15 @@ OurKidsMom is not responsible for the content of external internet sites. You ar
 OurKidsMom may on occasion ask for personal information, such as for giveaways. This information will not be sold or used for any purpose other than  contacting the winner of the giveaway. Your information may be sent to giveaway providers for mailing the giveaway. OurKidsMom is not responsible for information shared with giveaway sponsors as a means of mailing a giveaway. It is the intent of OurKidsMom that this information be collected for confirming winners of a giveaway as a method of prize distribution only.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&media=&description=Disclosure+%26%23038%3B+Privacy)
+
+Be Sociable, Please Share!
+
+  * [](http://twitter.com/intent/tweet?text=Disclosure%20%26%20Privacy%20-%20http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&t=Disclosure%20%26%20Privacy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Disclosure%20%26%20Privacy&body=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&title=Disclosure%20%26%20Privacy "StumbleUpon")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&title=Disclosure%20%26%20Privacy "Reddit")
+
+
