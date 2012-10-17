@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513043945id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017112737id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -21,9 +21,9 @@
   
 Effective Date:  4/7/2006
 
-[ ](http://www.truste.org/ivalidate.php?url=www.amerispan.com&sealid=101) AmeriSpan is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [ www.amerispan.com](http://www.amerispan.com/) .  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[ ](http://www.truste.org/ivalidate.php?url=www.amerispan.com&sealid=101) AmeriSpan is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [www.amerispan.com](http://www.amerispan.com/) .  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact AmeriSpan at [ info@amerispan.com](mailto:info@amerispan.com) .  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) .  TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact AmeriSpan at [info@amerispan.com](mailto:info@amerispan.com) .  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> .  TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 _**We Hate Spam & Fraud**_  
 AmeriSpan does not share, sell, loan or give your email, name or other personal information to any one. We take the protection of your information seriously. We hate Spam and Online Fraud and we have taken a serious of steps to protect you.
@@ -33,7 +33,7 @@ _**Optional & Fully-Verified Opt-In Email Subscription Lists**_ _ **
 
 Additionally, we use fully-verified opt-in to prevent spam and ensure that any emails sent to you are because you have specifically requested it. Anyone can type an email address that does not belong to them into a form for more information. Only verified opt-in ensures that the email address entered actual belongs to the person who entered it.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communications or by emailing us at [ info@amerispan.com](mailto:info@amerispan.com). 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communications or by emailing us at [info@amerispan.com](mailto:info@amerispan.com). 
 
 We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
 
@@ -48,8 +48,8 @@ In addition, when you register for a program, we collect demographic information
 
 At this time, we also collect your credit card information, including credit card holder name, credit card number, expiration date, CVV and billing address.  This information is saved on a secure server; please refer to  the **How Secure is My Personal Information?** section below.   All the credit card information collected is limited to use within AmeriSpan and is not used without your written authorization.  
 
-**_Tell-A-Friend_**  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  AmeriSpan stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  Your friend may contact us at [ info@amerispan.com](mailto:info@amerispan.com) to request that we remove this information from our database.AmeriSpan is the sole owner of the information collected on [ www.amerispan.com](http://www.amerispan.com/) . AmeriSpan collects personally identifiable information from our users at several different points on our Web site.   
+**_Tell-A-Friend_**   
+If you choose to useour referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  AmeriSpan stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  Your friend may contact us at [info@amerispan.com](mailto:info@amerispan.com) to request that we remove this information from our database. AmeriSpan is the sole owner of the information collected on [www.amerispan.com](http://www.amerispan.com/) . AmeriSpan collects personally identifiable information from our users at several different points on our Web site.   
  
 
 **_Bulletin Boards_**
@@ -74,13 +74,13 @@ We use session ID cookies.  We use session cookies to make it easier for you to
 We set a session ID cookie to provide you with better information regarding what you might be accessing at that moment.   Session ID cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.  Some of our business partners use cookies on our site.  We have no access to or control over these cookies. See “Third Party Advertisers.” _ **Third Party Advertisers**_  
-LivePerson, Inc. uses cookies on this site, which allow it to recognize a user's cookie when a user visits this site. The information that LivePerson, Inc. collects and shares through this technology is not personally identifiable. 
+LivePerson, Inc. uses cookies on this site, which allow it to recognize a user's cookie when a user visits this site. The information thatLivePerson, Inc. collects and shares through this technology is not personally identifiable. 
 
 For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please click here. 
 
 This privacy statement covers the use of cookies by AmeriSpan's, this site only and does not cover the use of cookies by any advertisers. 
 
-_ **Legal Disclosure**_  
+_**Legal Disclosure**_  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. _ **How Secure is My Personal Information?**_
 
   * To protect your information, we use Secure Sockets Layer (SSL) software which encrypts all of the information that you input into our applications and credit card payment forms.  The SSL software is licensed from GeoTrust, the world’s second largest digital certificate provider. More than 70,000 companies in over 140 countries employ GeoTrust technology for transaction security, identity verification and trust services on the internet and over wireless networks. GeoTrust has offices in the U.S., Europe and Japan and can be reached at www.geotrust.com or 800-944-0492.
@@ -88,11 +88,9 @@ We reserve the right to disclose your personally identifiable information as req
 
 
 
+  
 **_Access to Personally Identifiable Information_**  
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by emailing our Customer Support at [ info@amerispan.com](mailto:info@amerispan.com) or by contacting us by telephone or postal mail at the contact information listed below: AmeriSpan Study Abroad  
-1334 Walnut Street, 6th Floor      
-Philadelphia, PA 19107  
-Worldwide: (215) 751-1100   
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by emailing our Customer Support at [info@amerispan.com](mailto:info@amerispan.com).
 
 **_About Changes to This Privacy Policy  
 _**If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
@@ -102,22 +100,4 @@ _**
 This privacy policy was last modified on February 28, 2007. AmeriSpan may revise this policy from time to time. If we make any substantial changes, we will post those amendments on our Web site so that you are always aware of the information we collect, how we use it and how you can access or update your personal information.  
  
 
-|  |   
----  
-[](http://server.iad.liveperson.net/hc/2543855/?cmd=file&file=visitorWantsToChat&offlineURL=http://www.amerispan.com/send_email/default.asp&site=2543855&byhref=1&imageUrl=http://www.amerispan.com/images/d2liveperson)
-
-Toll Free: 800-879-6640  
-  
-[](https://www.amerispan.com/application/register.asp)  
-[](https://web.archive.org/price_quote/)  
-  
-**Sign-up for  
-AmeriSpan Newsletter**
-
-Email:   
-  
-  
-[](http://www.amerispan.com/triple_guarantee.asp)  
-[ ](http://www.amerispan.com/catalog_request/)  
-[](http://www.amerispan.com/scholarships/)  
-[](https://www.amerispan.com/application/make_payment.asp)
+| 
