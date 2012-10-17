@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the good.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204837id_/http%3A//www.good.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017125140id_/http%3A//www1.good.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-
-
-## GOOD CUSTOMER PRIVACY POLICY
+### GOOD CUSTOMER PRIVACY POLICY
 
 Good Technology, Inc. and our affiliated companies ("Good," "us" or "we") rely on you, our customers, for our success. Before using our products, services or our website ([http://www.good.com](http://www.good.com/), or "Website") we want you to know what information we may collect that identifies you personally, what we do with that information, and your choices about how that information will be used. We respect your right to privacy, and we've created this Customer Privacy Policy (our "Privacy Policy") to address these important issues. By requesting information about our products or services or visiting our Website, you are accepting the practices described in this Privacy Policy.
 
-## Why Do We Collect Personally Identifiable Information?
+### Why Do We Collect Personally Identifiable Information?
 
 Good provides innovative wireless enterprise solutions to our customers. If you request information about our products or services, we'll collect information that identifies you so that we can respond to your request. Likewise, if you order our products, services, product support, or related information, we'll collect your personally identifiable information so that we can fulfill your orders and provide you with requested product support. We'll use your personally identifiable information to let you know about upcoming products, services, software, events, promotions, contests, webinars, and other information we think you'd like to hear about. From time to time we may provide you with information about products of other companies that can add value to your Good products or services, and you may be contacted to participate in product or market research so that we can better understand and respond to your needs.
 
-## What Personally Identifiable Information Do We Collect and How Do We Use It?
+### What Personally Identifiable Information Do We Collect and How Do We Use It?
 
 The information we collect about you will depend on your relationship with Good. We will share your information with Good's affiliated companies and those third party companies (for example, service carriers, authorized resellers, support providers, consultants, and companies who help us process your transactions - our "Supply Chain") that help sell our products and services, provide wireless services through our products, provide related products or services, or customer support. We've provided examples below, describing how Good or a third party company on our behalf will collect and use your personally identifiable information. If you have any questions or concerns at any time about how your personally identifiable information will be collected or used, please contact us at: [privacy@good.com](mailto:privacy@good.com)
 
-## We will collect and use personally identifiable information in the following ways:
+### We will collect and use personally identifiable information in the following ways:
 
   * Provide You With Information About Our Products or Services: If you want additional information about our products or services, you'll be asked to provide certain personal information so that a sales representative from Good or an authorized reseller can contact you. This information will include your name, email address, telephone number, ZIP code or post code and country code.
   * To Purchase Good Products or Services: When you purchase Good products or services you'll be asked for information to facilitate that transaction. That information will include your name, job title, phone, fax, email address, shipping and billing addresses, and payment information. If you're responsible for payment, this will include your credit card type, number, expiration date, and your name as it appears on the card. That information will be shared by Good with our Supply Chain to help us process your order and payment. If you place an order for wireless service through Good, we'll request the information required by the carrier, and we'll understand that you've given us permission to transmit your order and personally identifiable information (including financial and other information) to a prospective service carrier so that carrier can perform a credit check and make decisions regarding service. If a company (usually your employer) is paying for products or services you receive, we may provide information to your employer (such as your name, the products and services you received, and the date service was activated) to allow your employer to cross-reference the products and services being paid for, and to verify that the appropriate number of licenses have been approved. If product will be shipped to you, we'll provide information to the company that ships the product on our behalf.
@@ -34,39 +31,36 @@ The information we collect about you will depend on your relationship with Good.
 
 
 
-## Choice
+### Choice
 
-We want you to know that you can choose not to provide us with any information that identifies you personally. If you make that decision however, we won't be able to provide you with our products or services. Each e-mail message that Good sends you for marketing purposes will give you the choice of "opting-out" from receiving similar emails in the future. Or click [here](https://web.archive.org/legal/opt-out.php) to manually opt-out. If you don't opt out from receiving such future emails, we'll assume that we can continue to contact you for marketing and related purposes. If you choose to provide us with information that identifies you personally, and you later want to change how we use that information, please let us know by sending an email to: [privacy@good.com](mailto:privacy@good.com) If you change your request regarding how we can use your personally identifiable information, we will honor your most recent request. Personal information you provide cannot currently be deleted entirely, but we will honor any request not to contact you further.
+We want you to know that you can choose not to provide us with any information that identifies you personally. If you make that decision however, we won't be able to provide you with our products or services. Each e-mail message that Good sends you for marketing purposes will give you the choice of "opting-out" from receiving similar emails in the future. Or click [here](https://web.archive.org/legal/opt-out) to manually opt-out. If you don't opt out from receiving such future emails, we'll assume that we can continue to contact you for marketing and related purposes. If you choose to provide us with information that identifies you personally, and you later want to change how we use that information, please let us know by sending an email to: [privacy@good.com](mailto:privacy@good.com) If you change your request regarding how we can use your personally identifiable information, we will honor your most recent request. Personal information you provide cannot currently be deleted entirely, but we will honor any request not to contact you further.
 
-## Access and Accuracy
+### Access and Accuracy
 
 Good will use reasonable efforts to keep your personal information accurate. Please help us ensure that the information you provide is accurate and up-to-date, as it will help us serve you better. You can update your personally identifiable information by contacting us at: [privacy@good.com](mailto:privacy@good.com).
 
-## Security
+### Security
 
 Good has taken reasonable steps to secure the information you provide. For example, Good uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, which is designed to protect the security of data. The Good Store uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where your personal information is required. This is designed to protect the confidentiality of your personal information while it is transmitted over the internet. If you use a personal credit card to make payment, we will show only the last digits of your credit card when we verify your order. Good uses advanced encryption for all email and attachments that are sent or received using Good's products or services.
 
-## Miscellaneous
+### Miscellaneous
 
 Good's Customer Privacy Policy is incorporated into Good's Terms of Use. If there is any conflict between Good's Terms of Use and this Privacy Policy, the Terms of Use will prevail. We may update this Privacy Policy from time to time, and if we do, we will notify you of changes by posting a notice on our Website. The changes will become effective when posted, and your continued use of any of our products, services, or the Website will signify your acceptance of the new terms. If you do not accept the changes, please immediately discontinue use of our products, services and the Website. Please check back frequently to review our Customer Privacy Policy and to stay informed about how we treat personally identifiable information that we collect.
 
-Good complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Good has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). Personally identifiable information that is provided or gathered by Good is controlled primarily by Good Technology, Inc, 101 Redwood Shores Parkway, Suite 400, Redwood City, CA 94065, USA. This Customer Privacy Policy is effective May 10, 2004.
+Good Technology complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Good Technology has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Good Technology's certification page, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). Personally identifiable information that is provided or gathered by Good is controlled primarily by Good Technology, Inc, 430 N. Mary Avenue, Suite 200, Sunnyvale, CA 94085, USA. This Customer Privacy Policy is effective May 10, 2004.
 
-## Privacy Complaints by European Union Citizens:
+### Privacy Complaints by European Union Citizens:
 
 In compliance with the Safe Harbor Principles, Good commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Good at:
 
 Attn. Information Security Officer  
-101 Redwood Shores Parkway, Suite 400  
-Redwood City, CA 94065
+430 N. Mary Avenue, Suite 200  
+Sunnyvale, CA 94085
 
-Good has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your business name), you may contact the BBB EU SAFE HARBOR program at the address below:
+Good has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Good Technology, you may contact the BBB EU SAFE HARBOR program at the address below:
 
 Council of Better Business Bureaus, Inc.  
 BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
 Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
 
-© 2011 Good Technology, Inc. All Rights Reserved.
+© 2012 Good Technology, Inc. All Rights Reserved.
