@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the connexity.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603012655id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connexity.com privacy policy that was archived on 2012-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121018002227id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -9,10 +9,14 @@
   <!-- Mobile viewport optimized: h5bp.com/viewport -->
   <!-- <meta name="viewport" content="width=device-width"> -->
 
+  <style type="text/css">
+      body { background: url('/images/backgrounds/background8.jpg') top left repeat-x;) }
+  </style>
+
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
   <link rel="icon" href="http://www.connexity.com/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="http://www.connexity.com/favicon.ico" type="image/x-icon">
-  <link href="/assets/application-d6cc6f2fac89769ae4dd94cddf2a6ba2.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/assets/application-de731227a98f0718f5e11b622246b14e.css" media="all" rel="stylesheet" type="text/css">
   <!--[if IE 7]>
     <style type="text/css">
         .inline-block {
@@ -24,11 +28,7 @@
 
   <script src="//ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.7.1.min.js"><\/script>')</script><script src="/javascripts/libs/jquery-1.7.1.min.js"></script>
-  <script src="http://www.connexity.com/javascripts/background.js"></script>
   <script src="http://www.connexity.com/javascripts/jquery.cycle.min.js"></script>
-  <script>
-    var noBackground = false;
-  </script>
   <script src="/assets/application-15be157f2e1f102ed004ebf72fce70f3.js" type="text/javascript"></script>
 
 </head>
@@ -36,10 +36,10 @@
   <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
        chromium.org/developers/how-tos/chrome-frame-getting-started -->
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-	<canvas id="canvas"></canvas>
+
   <div id="container">
-		<div class="wrapper">
-			<style>
+    <div class="wrapper">
+      <style>
   #header { height: 60px;  background: transparent url('/images/header.gif') 0 0 no-repeat; padding-right: 20px; padding-bottom: 4px;}
   #header #logo { float: left;}
   #header #logo a { height: 60px; width: 192px; display: block;}
@@ -51,7 +51,7 @@
   #logo { float: left; }
 
   div#topnav { float: right; display: inline; margin-top: 10px;  text-align: right; }
-  div#topnav ul { list-style-type: none; height: 34px; margin: 0;  float: right;}
+  div#topnav ul { list-style-type: none; height: 34px; margin: 0;  float: right; padding: 0;}
   div#topnav ul li { float: left; text-transform: uppercase; font-size: 18px; line-height: 32px; font-family: "Trebuchet MS", Helvetica, Arial, serif;}
   div#topnav ul li a { display: block;  padding: 5px 10px; font-weight: bold; text-decoration: none; color: #9DA4B1; }
   div#topnav ul li a:hover { color: #57656B; }
@@ -64,28 +64,31 @@
   <div id="logo"><a href="/" style=""><span>Connexity</span></a></div>
   <style>
     #live_counter { display: none; margin-left: 10px;  float: left;
-      height: 40px; padding: 4px 8px; margin-top:  5px; text-align: center; width: 160px; position: relative;}
+      height: 40px; padding: 4px 8px; margin-top:  5px; text-align: center; width: 220px; position: relative;}
     #lc_value {
       border: 1px solid #d6d8d8;
       background-color: white;
       box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
       border-radius: 5px;
+      background: white url('/images/pub-rt.gif') no-repeat;
+      padding-left: 100px;
+      font-size: 14px; font-weight: bold; line-height: 27px;
     }
-    #lc_value { font-size: 21px; font-weight: bold; line-height: 27px; }
     #lc_label { font-size: 11px; text-align: left; margin: 3px -8px 0; padding: 0 8px; text-align: center;}
     #lc_label span { display: none; }
-    #lc_blink {  color: #74C065; position: absolute; top: 12px; left: 178px; font-size: 11px;}
+    #lc_blink {  color: #74C065; position: absolute; top: 12px; left: 232px; font-size: 11px; }
   </style>
   <script>
     $(function(){
       refresh_counts();
-      cycle_label();
+
     });
     var last_count = -1;
-    var retry_interval = 1500;
-    var refresh_interval = 1500;
+    var retry_interval = 15000;
+    var refresh_interval = 2000;
     function refresh_counts(){
       $.getJSON('https://pro.connexity.com/counts/audience_total.json', function(data) {
+            $('#lc_label span').show();
             var c = data.audience;
             if (data != null) {
               update_counter(Math.round(c));
@@ -95,11 +98,18 @@
               setTimeout(refresh_counts, retry_interval);
             }
           })
-          .error(function() { setTimeout(refresh_counts, retry_interval); })
-          ;
+          .error(function() { setTimeout(refresh_counts, retry_interval); });
     }
 
     function update_counter(c){
+      var fade_in_time = 100;
+      var fade_out_time = 500;
+
+      // Prime the pump for delayed fade-in updating of future totals
+      if(last_count == -1) {
+        $('#lc_value').html(commas(c));
+      }
+
       var delta = c - last_count;
 
       last_count = c;
@@ -107,33 +117,25 @@
       $('#live_counter').show();
 
       var f = commas(c);
-      $('#lc_value').html(f);
-      $('#lc_blink').html("+" + commas(delta));
+      var diff_display = "+" + commas(delta);
+      setTimeout(function(){$('#lc_value').html(f);}, fade_in_time);
+      if(delta > 0) {
+        $('#lc_blink').stop(true,true).hide().html(diff_display).fadeIn(fade_in_time).delay(1000).fadeOut(fade_out_time);
+      }
+      else {
+        $('#lc_blink').stop(true,true).hide().html("0").fadeIn(fade_in_time).delay(1000).fadeOut(fade_out_time);
+      }
     }
     function commas(c){
       return (c + "").replace(/(\d)(?=(\d{3})+(\.\d+|)\b)/g, "$1,");
     }
 
-    var label_index = 1;
-    var clto = 0;
-    function cycle_label(){
-      if (clto != 0) {
-        clearTimeout(clto);
-      }
-      label_index = label_index * -1;
-      $('#lc_label span').stop(true, true).fadeOut(300, function(){
-          $(this).html(label_index > 0 ? "Actual Unduplicated Audience" :"Streaming in Real-time");
-      })
-      .delay(400)
-      .fadeIn(300)
-      clto = setTimeout(cycle_label, 4000);
-    }
   </script>
 
   <div id="live_counter">
     <div id="lc_value">&nbsp;</div>
     <div id="lc_blink">&nbsp;</div>
-    <div id="lc_label"><span>Actual Unduplicated Audience</span></div>
+    <div id="lc_label"><span>Audience Engagement Activity</span></div>
   </div>
   <div id="topnav">
     <ul>
@@ -147,8 +149,8 @@
   <div class="clear"></div>
 </div>
 
-			<div class="clearfix" id="main">
-				<style>
+      <div class="clearfix" id="main">
+        <style>
   /*<![CDATA[*/
     h3 { color: #DFA543; font: 300 2.6em/1.1em "Ubuntu"; margin: 1em 0 0.2em 0;}
     
@@ -250,11 +252,11 @@ function reset_optout_ctrl(opted_out)
   </style>
   <div id="opt-out-panel">
     <div style="padding: 4px; margin-bottom: 30px;">
-      <img id="imgOptOut" src="http://connexity.net/c/cse?a=O&amp;O=1&amp;zz=1338686814" alt="Opt out status">
+      <img id="imgOptOut" src="http://connexity.net/c/cse?a=O&amp;O=1&amp;zz=1350519746" alt="Opt out status">
     </div>
     <div style="padding: 0 30px 30px 30px;">
 
-      <p style="font-size: 11px;">To Opt-Out of behavioral targeting from Connexity please select from the options below.</p>
+      <p style="font-size: 11px;">To Opt-Out of behavioral targeting from Connexity please click on the button below.</p>
       <div style="text-align: center;">
 
         <div id="cookieFailed" style="text-align: left; padding: 18px; background-color: #fcfcfc; border: 1px solid #ddd; font-size: 12px; margin-top: 10px; display: none;">
@@ -276,7 +278,7 @@ function reset_optout_ctrl(opted_out)
         </div>
 
         <div id="stateOptedIn" style="display: none;">
-          <p style="text-align: center;">OR</p>
+          <p style="text-align: center;">For additional OBA Opt-Out information:</p>
           <p style="text-align: center;"><b><a href="http://www.aboutads.info/participating/" target="_blank">Visit the Industry Participation Page</a></b></p>
 
           <table style="margin: 10px auto;" cellspacing="10">
@@ -451,7 +453,7 @@ or mailed to:
 <p style="margin: 20px 20px 0; line-height: 1.2em; font-size: 1.4em;">
 Privacy Officer
 <br>
-Connexity LLC
+Connexity Inc.
 <br>
 505 Poli St. Ste. 310
 <br>
@@ -463,6 +465,8 @@ Ventura, CA 93001
   <nav id="subnav">
     <ul class="sub-level-1">
       <li class="sub-item"><a href="/about">Company</a></li>
+      <li class="sub-item"><a href="/about/team">Team</a></li>
+      <li class="sub-item"><a href="/about/investors">Investors</a></li>
       <li class="sub-item"><a href="/about/jobs">Jobs</a></li>
       <li class="sub-item"><a href="/about/news">News</a></li>
       <li class="sub-item current"><a href="/about/privacy">Privacy</a></li>
@@ -471,15 +475,14 @@ Ventura, CA 93001
   </nav>
 </aside>
 
-			</div>
-		</div>
+      </div>
+    </div>
   </div> <!--! end of #container -->
 
 	<footer class="clearfix">
 		<div class="wrapper">
 			<ul id="social-links">
-				<li><a id="facebook-link" target="_blank" href="http://www.facebook.com/pages/Connexity/167539079939412" title="Facebook">Facebook</a></li>
-				<li><a id="twitter-link" target="_blank" href="http://www.twitter.com/connexityllc" title="Twitter">Twitter</a></li>
+                <li><a id="facebook-link" target="_blank" href="http://www.facebook.com/pages/Connexity/167539079939412" title="Facebook">Facebook</a></li>
 				<li><a id="linkedin-link" target="_blank" href="http://www.linkedin.com/company/connexity?trk=fc_badge" title="LinkedIn">linkedIn</a></li>
 			</ul>
 			<div class="stack" id="misc-icons">
@@ -497,7 +500,7 @@ Ventura, CA 93001
 					<li><b><a href="/about/optout">Opt-Out</a></b></li>
 				</ul>
 			</nav>
-			<p id="copyright">© 2010-2012 Connexity LLC<br><span>Connexity® and Audience Discovery®<br>are registered trademarks of Connexity LLC</span></p>
+			<p id="copyright">© 2010-2012 Connexity Inc.<br><span>Connexity® and Audience Discovery®<br>are registered trademarks of Connexity Inc.</span></p>
 		</div>
 	</footer>
 
