@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livesport.tv privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629105747id_/http%3A//www.livesport.tv/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesport.tv privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017084009id_/http%3A//www.livesport.tv/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - LIVESPORT.TV
+# Watch Live Sport | Stream Football, Boxing, Cricket + More Online
 
 This Privacy Policy explains how Perform Media Channels Limited (" **Perform** ") together with other companies within the Perform Group(which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the " **Perform Group** ") use information we collect about you and the choices you can make about the way your information is collected and used. 
 
