@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the invisionzone.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426233118id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionzone.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018022435id_/http%3A//www.invisionpower.com/legal/privacy) for the most accurate reproduction.*
 
 # IPS Privacy Policy
 
-Our privacy policy describes how we use and store the data that we gather from you in order to provide our products and services. 
+Our privacy policy describes how we use and store the data that we gather from you in order to provide our products and services.
+
+  
+
 
 ## Our Commitment To Privacy
 
@@ -12,21 +15,23 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on any of the Invision Power Services websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-Name  
-Address  
-Email address  
-Phone number  
-Credit/Debit Card Information 
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit/Debit Card Information
+
+
 
 ## The Way We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You can register with our website if you would like to receive our services as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+You can register with our website if you would like to receive our services as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
@@ -40,17 +45,17 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by emailing our privacy department our otherwise contacting our company. We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by emailing our privacy department or otherwise contacting our company. We use this procedure to better safeguard your information. 
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 ## Spam Monitoring Service
 
-The IPS Spam Monitoring Service collects data from those sites using IPS software that choose to participate in the service. The email address and IP address of the registering member is passed to the service to determine the likelihood a registering account is a spam source.
+The IPS Spam Monitoring Service collects data from those sites using IPS software that choose to participate in the service. The email address and IP address of the registering member is passed to the service to determine the likelihood a registering account is a spam source. 
 
-Data from accounts determined not to be spammers are permanently deleted within 48 hours. Data from accounts determined to be spammers may be stored indefinitely to create a block list.
+Data from accounts determined not to be spammers are permanently deleted within 48 hours. Data from accounts determined to be spammers may be stored indefinitely to create a block list. 
 
 ## How To Contact Us
 
