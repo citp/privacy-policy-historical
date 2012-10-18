@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616030615id_/http%3A//www.responsys.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018185254id_/http%3A//www.responsys.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Recognized Leader in Email and Cross-Channel Marketing
 
@@ -13,7 +13,7 @@ We reserve the right to change this Privacy Policy at any time. If we decide to 
 
 Responsys is a licensee of the TRUSTe Privacy Program, which is further described below.
 
-For privacy questions related to an email message you may have received from a company using Responsys Interact, please see our [Permission Marketing Policy](https://web.archive.org/web/20120616030615id_/http%3A//www.responsys.com/legal/index.php), as well as the privacy policies of the sender(s) of the email message that you received.
+For privacy questions related to an email message you may have received from a company using Responsys Interact, please see our [Permission Marketing Policy](https://web.archive.org/web/20121018185254id_/http%3A//www.responsys.com/legal/index.php), as well as the privacy policies of the sender(s) of the email message that you received.
 
 ## Notice Concerning Children
 
@@ -84,12 +84,12 @@ Visitors who request information on our Web site have the following options for 
 
 
 
-Note that if you wish to unsubscribe from emails sent by our clients (as opposed to emails sent by Responsys directly), you will need to follow the unsubscribe or opt-out instructions in such emails. See our [Permission Marketing Policy](https://web.archive.org/web/20120616030615id_/http%3A//www.responsys.com/legal/index.php).
+Note that if you wish to unsubscribe from emails sent by our clients (as opposed to emails sent by Responsys directly), you will need to follow the unsubscribe or opt-out instructions in such emails. See our [Permission Marketing Policy](https://web.archive.org/web/20121018185254id_/http%3A//www.responsys.com/legal/index.php).
 
 ## Contacting Us
 
 If you have any questions about this Privacy Policy or this Web site, please contact us directly at [privacy@responsys.com](mailto:privacy@responsys.com). or:   
 Responsys, Inc.  
-900 Cherry Avenue, 5th Floor   
+1100 Grundy Lane. Suite 300  
 San Bruno, CA 94066  
 (650) 745-1700
