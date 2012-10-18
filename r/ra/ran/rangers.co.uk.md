@@ -1,67 +1,51 @@
-> *The following text is extracted and transformed from the rangers.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614122816id_/http%3A//www.rangers.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangers.co.uk privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018031755id_/http%3A//www.rangers.co.uk/club/information/privacy-statement) for the most accurate reproduction.*
 
-# Rangers
+# Privacy Statement
 
-Welcome to the official website ("Site") of Rangers Football Club (the "Club"). Rangers.co.uk Limited ("Rangers.co.uk"), the operator of this Site, is committed to protecting your privacy. Please take a moment to read the Site's Privacy Policy. References to "we" and "our" in this Privacy Policy are references to Rangers.co.uk. This Privacy Policy describes what happens to the information which you supply to us, where that information identifies you individually:- e.g. your name and address details. 
+**THE RANGERS FOOTBALL CLUB PRIVACY POLICY**
 
-PLEASE READ THE FOLLOWING CAREFULLY BEFORE YOU USE THE SITE. If you do not accept the terms of this Privacy Policy, you should exit the Site now.
+Our privacy policy covering our web services is detailed below.  By using our web services you agree to our terms and conditions and this privacy policy. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. 
 
-We reserve the right to change the terms of this Privacy Policy from time to time.
+Our services will contain links to websites that are not operated by Rangers Football Club. These third parties may collect data from you and share some of that data with us.  Rangers Football Club are not responsible for any misuse of personal information by such third parties. We recommend that you view the Privacy Policy of each Website that you use to.  
 
-1\. What information do we hold about you and how is it collected?
+**1\. Why we collect information**  
+We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.
 
-When you register on this Site, some personal information (including your name, postal and email addresses) is collected by us. You may also be asked for your personal information at other times on this Site - in connection with activities such as competitions, chat, voting and message board posting. In common with many other online services, we may use "cookies" to store and track information about you. A cookie is a small amount of data sent from the server and stored on your PC's hard drive. Most web browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies or ask your browser to show you where a cookie has been set up. Certain services are only activated by the presence of a cookie and, if you choose to refuse cookies, particular features of this Site may not be available to you. 
+Information about you helps us sell space to advertisers of products and services relevant to you so that we can help fund the site through advertising.
 
-2\. What do we do with your personal information?
+In addition to the services we provide on this web site we may want to offer you goods and services provided by us and others (with your consent) which are of interest to you.
 
-We will combine the different types of data to create a membership profile for you. This helps us to provide you with a more personalised service which is tailored to suit your needs. The more 
+We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.
 
-information we have, the better the service we can provide.
+**2\. What information do we collect**  
+We may collect information from you when you fill in an online registration form for any of our web site services, (e.g.,Registration, Subscription, forums, competitions etc.).  The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-Your personal information may be disclosed by us to the Club or other reputable suppliers selected by us from time to time. It will be used for the following purposes:
+We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our Cookie Policy which forms part of this Privacy Policy.
 
-(i) to update and develop records and for assessment and analysis including market and service/product analysis;
+Where it is lawful, we may monitor emails you send and receive.
 
-(ii) to assist in the provision of services/products to you; and
+**3\. Consent**  
+We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information.
 
-(iii) to facilitate reviews, developments and improvements to the services/products offered to you.
+If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email.
 
-If you have indicated that you wish to hear about other offers, products and services provided by Rangers.co.uk, the Club or other reputable suppliers selected by Rangers.co.uk from time to time, you will be informed of these by email, telephone or mail. 
+**4\. Your Privacy**  
+We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
 
-3\. What do we do with your financial information?
+Please be aware that if you disclose information on chat areas, your Profile page, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
 
-We will use your financial information to enable payment authorisation and billing for products and services. When you make a purchase on this Site, your consent is given to provide your financial information and personal information to those third parties necessary to process your transactions with us, such as credit card companies, banks and companies that handle delivery and shipping on our behalf. This includes exchanging information with other companies and organisations for fraud protection and credit risk protection. 
+Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information.
 
-We will not share your financial information with third parties without your consent for any other reason.
+We do not knowingly collect and/or share personal information from children under the age of thirteen on the website. However, your child may not be able to use some of the features of the website without providing personal information – this relates to any interactive features of any of our services.. We recommend using the website or other services with your child.
 
-4\. What are your choices?
+**5\. Disclosing information to third parties**
 
-By law, you are entitled to:
+The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.
 
-(i) object to your personal information being used for marketing purposes. We give you the choice to opt-in to our using, or supplying your personal information to the Club or to other reputable suppliers for these purposes. You can do this during the registration process by simply ticking the box provided.   
-(ii) receive, upon payment of a fee, a copy of any personal information about you which is held by us.  
-(iii) require the rectification, erasure or blocking of any of your personal information which is inaccurate or not up to date held by us.
+We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
 
-If you wish to exercise any of these rights, or if you wish to opt-out of any future processing of your personal information held by us, then please write to the contact address set out below stating your full name and address and providing any other relevant information.
+We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
 
-5\. When does this Privacy Policy not apply?
+We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
 
-This Privacy Policy only applies to the collection of data by us and the use of that data by us and those we authorise. It does not cover third party sites to which we provide links, nor does it cover advertisers and content partners within our service who may also collect your personal information. They may have their own privacy policies and/or terms and conditions of use. 
-
-If you choose to place your personal details on any publicly accessible page (for example, on a message board), then this data will not be covered by the Privacy Policy. 
-
-6\. How do we protect your information?
-
-Rangers.co.uk is firmly committed to data security. When you place orders or access your account information, we offer use of a secure server. The secure server software encrypts all information before it is sent to us. We take steps to guard against unauthorised access to customer data. Although we make every effort to create a secure environment for your personal information, we cannot guarantee the safety of any personal information which you transmit to us online. 
-
-7\. How do you contact us?
-
-If you have any questions or concerns about our use of your personal information please write to:
-
-Data Protection Compliance Officer  
-Rangers.co.uk Limited  
-Digital Sports Centre  
-Plane Tree Crescent  
-Feltham  
-Middlesex  
-TW13 7HE
+Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein.
