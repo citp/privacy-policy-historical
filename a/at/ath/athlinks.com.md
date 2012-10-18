@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the athlinks.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607064503id_/http%3A//athlinks.com/helpPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athlinks.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018051218id_/http%3A//athlinks.com/helpPrivacy.aspx) for the most accurate reproduction.*
 
 # Athlinks - Privacy Policy
 
 ## Athlinks Privacy Policy
-
-### Results Database
 
 ##### This policy is effective as of November 1, 2006.
 
