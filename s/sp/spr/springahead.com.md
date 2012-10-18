@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springahead.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513180312id_/https%3A//springahead.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springahead.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018102712id_/https%3A//springahead.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -25,8 +25,7 @@ Generally, our service automatically collects usage information, such as the num
 Feel free to contact us for any reason, including a request to be added to or taken off an email list, or if you have any questions or concerns. Please provide your company's name in addition to your name and title.
 
 **BY POSTAL MAIL**  
-767 Bryant St.  
-Unit 203  
+525 Second Street.  
 San Francisco, CA 94107
 
 **BY PHONE**  
