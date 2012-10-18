@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseandhome.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507212716id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseandhome.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018122740id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
 
 # Consumer Privacy Statement | House & Home
 
