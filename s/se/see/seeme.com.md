@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeme.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608025016id_/http%3A//www.seeme.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeme.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018113043id_/http%3A//www.seeme.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SeeMe.com
 
@@ -56,4 +56,4 @@ Visitors who have any questions about this Privacy Policy, the practices of this
 
 ## How can you opt out of promotional emails?
 
-At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by visiting the following URL: [/optout.php](http://www.fpmails.com/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
+At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by [clicking here](http://www.seemenews.com/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
