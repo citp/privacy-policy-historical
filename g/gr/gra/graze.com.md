@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519111229id_/https%3A//www.graze.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018124249id_/http%3A//www.graze.com/help/privacy) for the most accurate reproduction.*
 
 # graze | privacy policy
 
-## Introduction
+## 1\. Introduction
 
 Please read this Privacy Policy carefully as the terms may have changed since your last visit to this website. By using this website and/or registering with Nature Delivered Ltd, you are accepting and consenting to the practices described in this Privacy Policy. 
 
@@ -16,15 +16,11 @@ Personal information is processed and stored in our databases and we have taken 
 
 You have the right of access to any personal information processed by us. Nature Delivered Ltd is committed to providing you with reasonable and practical access to your information to give you the opportunity to identify any inaccuracies. Where possible, if Nature Delivered Ltd is informed of the inaccuracy of any personal information, we will make appropriate corrections. You can request the updating or amending of any information you have provided to Nature Delivered Ltd by contacting us. 
 
-  
+back to top ↑
 
-
-## Information We Collect About You
+## 2\. Information We Collect About You
 
 The information we collect from you depends on what activities you are carrying out on our website, whether you are logged in or not and whether you are making a purchase. 
-
-  
-
 
 We collect: 
 
@@ -54,66 +50,60 @@ How we use it:
 
 When you visit the site, Nature Delivered Ltd collects additional information about you in order to provide the service. 
 
-**What we collect**
+What we collect: 
 
-  * Your produce ratings
+  * Your product ratings
 
 
 
-**How we use it**
+How we use it: 
 
   * To send you boxes you would like to receive
   * To establish eating trends in order to recommend other products you may like to eat
 
 
 
-  
+back to top ↑
 
-
-## Cookies
+## 3\. Cookies
 
 Nature Delivered Ltd uses cookies (a small file that is stored by your browser to recognise you and store your preferences) to help speed up the login process and for security purposes. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. 
 
-  
-
-
-## Disabling cookies
+### 3.1. Disabling cookies
 
 You can set your browser to disable cookies or to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. If you do not want to accept third party cookies, this will not affect the functionality of our website, but it may impair your use of or prevent access to some areas, including taking advantage of special offers and vouchers. If you do leave cookies turned on, please take care to sign off when you are finished using a shared computer. 
 
-  
+back to top ↑
 
-
-## Emails
+## 4\. Emails
 
 Similarly, if you have ever provided us with an email address, we will be able to associate this email address back to your previous browsing and purchase experiences, whether you are logged on or not. We will know whether you receive email alerts and will be able to associate this with any other contact information you may have given us. 
 
-  
+back to top ↑
 
-
-## What We Use Your Information For
+## 5\. What We Use Your Information For
 
 The principal purposes for which we collect and store your personal information are to process your orders and deliver boxes, authorise payment, bill you, respond to your enquiries, get in touch with you about other products and promotional offers, recommend products which we think might be of interest to you, and generally maintain the account you hold with us, together with improving our website. 
 
-Marketing and business development purposes
+### 5.1. Marketing and business development purposes
 
 Apart from using your personal information to process any orders you may place, if you provide Nature Delivered Ltd with an email address, it will automatically be entered into our regular email update service. From time to time, we may also contact you by post with information on special offers or events regarding our products or services or those of trusted third parties that we think you may be interested in. If you do not wish to receive updates or marketing information, please amend your mailing preferences in the My Account section. 
 
 If you do not object to receiving marketing material at the time the information was collected from you, but subsequently change your mind and no longer wish to receive such information, you may opt out of doing so. If you opt out you may continue to receive information for up to 7 days after the date on which you update your account. 
 
+If you start to set up an account with Nature Delivered Ltd. via the website (www.graze.com) but do not complete the process or place any orders, then we will email you to find out if you need any help to complete the process. An unsubscribe link is given at then end of this email. You may also unsubscribe from emails via the following URL: [www.graze.com/email/unsubscribe/e/](http://www.graze.com/email/unsubscribe/e/)
+
 In addition, we may use an IP address to identify you and to gather broad demographic information about you, which we will use to assist in the detection of fraud, to help identify problems with our server and to administer our website. 
 
-  
+back to top ↑
 
-
-## The ability to edit and cancel your account
+## 6\. The ability to edit and cancel your account
 
 You can access 'My Account' from every page on the site to update and correct the personal details that we gathered when you subscribed. You must be logged in to access this information. All information is password-protected so no one can access the information but you. We are required to retain your information for accounting and taxation purposes. 
 
-  
+back to top ↑
 
-
-## Information sharing and disclosure
+## 7\. Information sharing and disclosure
 
 Nature Delivered Ltd is committed to protecting your personal information. We will not disclose your personally identifiable information to third parties without your consent except where: 
 
@@ -129,10 +119,9 @@ Nature Delivered Ltd also provides analyses of our customers in the aggregate to
 
 Linked websites are not under the control of Nature Delivered Ltd and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. As a subscriber you have certain rights under the Data Protection Act 1998\. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, or if you have any questions concerning the Nature Delivered Ltd privacy policy please write to us at: Nature Delivered Ltd, 26 Dunstable Road, Richmond, TW9 1UH. 
 
-  
+back to top ↑
 
-
-## Security
+## 8\. Security
 
 Nature Delivered Ltd has implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorised access or improper use. We will continue to enhance our security procedures as new technology becomes available. 
 
@@ -142,14 +131,10 @@ Your Nature Delivered Ltd account information is password-protected for your pri
 
 Access authorisation is granted to key Nature Delivered Ltd staff only. Backups are run to prevent loss of information, and our Internet servers are housed in secure facilities. 
 
-  
+back to top ↑
 
-
-## Contact details
+## 9\. Contact details
 
 If you have questions or concerns regarding this Privacy Policy, please contact; Privacy Officer, Nature Delivered Ltd, 26 Dunstable Road, Richmond, TW9 1UH. 
 
-  
-
-
-This version last updated 24th September 2008.
+back to top ↑
