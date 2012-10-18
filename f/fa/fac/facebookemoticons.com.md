@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebookemoticons.com privacy policy that was archived on 2010-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100802111625id_/http%3A//facebookemoticons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebookemoticons.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019014632id_/http%3A//facebookemoticons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Facebook Emoticons
 
