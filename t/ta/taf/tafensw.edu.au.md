@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522070757id_/https%3A//www.tafensw.edu.au/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018111212id_/https%3A//www.tafensw.edu.au/misc/privacy.htm) for the most accurate reproduction.*
 
 # TAFE NSW - DEC / TAFE Web Sites Privacy Statement
 
