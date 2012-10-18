@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501183105id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018233005id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
 
@@ -38,16 +38,15 @@ We use your Personal Data to process your loan transaction such as verifying you
 
 We may store and use your Personal Data for our own business or operational purposes, for example to ensure that we do not collect inaccurate or duplicate information about you. We may also process your Personal Data for the purposes of complying with legal obligations.
 
-When you provide your Personal Data to us, you are consenting to sharing it with our affiliates, and third parties as further described herein:
+When you provide your Personal Data to us, you are consenting to sharing it with our agents and other parties as further described herein:
 
-  * Service Providers: We contract with service providers to perform certain functions on our behalf. Examples include database providers who assist in identity verification, magazine publishers, retailers, direct marketers, and site analysis providers such as ClickTale (for further details of ClickTale please see above). Their access is limited only to the Personal Data needed to perform the functions carried out on our behalf, and only for the purpose of performing those functions, and they are prohibited from using or disclosing the Personal Data for other purposes. 
-  * Credit Reference Agencies: We use credit reference agencies (CRAs) to assess your application for credit and also, make periodic searches at CRA’s in order to refresh our records and manage your account with us. Information on applications may be sent to CRAs and may be recorded by them. When CRAs receive a search from us they may place a search footprint on your credit file that may be seen by other lenders. They supply to us both public (including the electoral register) and shared credit and fraud prevention information. If you borrow and do not repay in full and on time, CRA’s may record the outstanding debt. This information may be supplied to other organisations by CRAs to perform similar checks and to trace your whereabouts and recover debts that you owe. You can contact the CRAs currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They will charge you a small statutory fee for the provision of information.
+  * Service Providers: We contract with service providers to perform certain functions on our behalf. Examples include database providers who assist in identity verification, magazine publishers, retailers, direct marketers, and site analysis providers such as ClickTale (for further details of ClickTale please see above). Their access is limited only to the Personal Data needed to perform the functions carried out on our behalf as our agent, and only for the purpose of performing those functions, and they are prohibited from using or disclosing the Personal Data for other purposes. 
+  * Credit Reference Agencies: We use credit reference agencies (CRAs) to assess your application for credit and verify your identity to prevent crime and money laundering. We may also, make periodic searches at CRA’s in order to refresh our records and manage your account with us. Information on applications will be sent to CRAs and will be recorded by them. When CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders. They supply to us both public (including the electoral register) and shared credit and fraud prevention information. Where you borrow from us, we will give details of your account(s) and how you manage it/them to CRAs. If you borrow and do not repay in full and on time, CRA’s will record the outstanding debt. This information may be supplied to other organisations by CRAs to perform similar checks and to trace your whereabouts and recover debts that you owe. Records remain on file for 6 years after they are closed, whether settled by you or defaulted. You can contact the CRAs currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They will charge you a small statutory fee for the provision of information.
 
     * CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414
     * Equifax PLC, Credit File Advice Centre, PO Box 3001, Bradford, BD1 5US or call 0870 010 0583 or log on to [www.myequifax.co.uk](http://www.myequifax.co.uk/)
     * Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to [www.experian.co.uk](http://www.experian.co.uk/).
-  * Related Company/Group Transfers: CashEuroNetUK is part of a larger group of related companies and may disclose customer Personal Data to its affiliates from time to time administrative and compliance purposes, including the group parent company, Cash America International, Inc, for administrative and compliance purposes, to assess your credit worthiness and other financial risks, to develop customer relationships and services and to enable our affiliates to contact you for marketing purposes, as described in the next section below.
-  * Fraud Prevention: If false or inaccurate information is provided, including in relation to a person's identity and fraud is identified, details about this information, including customer Personal Data, may be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy.
+  * Fraud Prevention: If false or inaccurate information is provided, including in relation to a person's identity and fraud is suspected or identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent and detect crime, fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy.
   * Other Disclosures: In accordance with our customary practices and those in our industry, we disclose information about you, your transactions with us, and how you manage your borrowing to our affiliates and to credit reference agencies. If necessary in connection with the sale or transfer of the loans or all or part of the business, we disclose relevant Personal Data to third party purchasers or transferees. We also release Personal Data if it becomes necessary for compliance with law or to protect the rights, property, or safety of our Website, our users, or third parties. We reserve the right to release such Personal Data to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law. 
   * With Your Consent: Other than as set out above, you will receive notice when Personal Data about you may be shared with third parties not described above, and you will have an opportunity to choose not to share the Personal Data. 
 
@@ -60,14 +59,14 @@ Subject to certain exceptions, you have the right of access to your personal rec
 Marketing and Opt-Out Rights
     
 
-By submitting Personal Data on our Website, you understand and agree that we and our affiliates may use your Personal Data, including the phone number, email address, or postal address you provide to us to contact you by post, telephone, email or SMS (Short Message Service) i.e., text message to assist you with your loan or to discuss other products and services that we or our affiliates may provide. If you have opted-in to receive marketing communications via our application, we will allow you to opt-out of the use of your Personal Data for marketing purposes by us (and our subsidiaries) at any time by one of the following methods:
+By submitting Personal Data on our Website, you understand and agree that we may use your Personal Data, including the phone number, email address, or postal address you provide to us to contact you by post, telephone, email or SMS (Short Message Service) i.e., text message to assist you with your loan or to discuss other products and services that we may provide. If you have opted-in to receive marketing communications via our application, we will allow you to opt-out of the use of your Personal Data for marketing purposes by us at any time by one of the following methods:
 
   * Via email: Click the "Unsubscribe" link in any email communication and submit your email address on the next screen. 
   * Via the web: Update your contact preferences in your customer account at [www.quickquid.co.uk](http://www.quickquid.co.uk/).
 
 
 
-If you opt-out of our use of your Personal Data for marketing purposes, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request or other inquiry.
+If you opt-out of our use of your Personal Data for marketing purposes, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request or other inquiry. We will only transfer your Personal Data to 3rd parties for marketing purposes with your express opt-in consent to do so.
 
 Cookies
     
@@ -94,10 +93,11 @@ If you do not want to receive cookies from us, please follow the procedures belo
   * **Google Adwords** – Conversion tracking
   * **Criteo** – Marketing analytics
   * **Retargeter** – Marketing analytics
-  * **MediaMath** – Marketing analytics
+  * **Infectious Media** – Marketing analytics
   * **ClickTale** – Web analytics tracking
   * **Commission Junction** – Marketing analytics
   * **Lead Impact** – Marketing analytics
+  * **c2lk** – Marketing analytics
 
 
 
@@ -231,6 +231,11 @@ Children
 
 We do not seek or knowingly collect any Personal Data about children under 18 years of age.
 
+How to find out more 
+    
+
+This is a condensed version and if you would like to read the full details of how your data may be used please visit email us at support@quickquid.co.uk and request the Full Data Protection guide.
+
 Conditions of Use and Revisions 
     
 
@@ -249,4 +254,4 @@ N13 4BS
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website.
 
-Privacy Policy last amended 25 April 2012
+Privacy Policy last amended 16 August 2012
