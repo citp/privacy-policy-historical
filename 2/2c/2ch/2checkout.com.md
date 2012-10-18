@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2checkout.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508152109id_/https%3A//www.2checkout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2checkout.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018102448id_/https%3A//www.2checkout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 2Checkout.com
 
