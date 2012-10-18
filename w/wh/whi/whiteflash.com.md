@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteflash.com privacy policy that was archived on 2012-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120222030624id_/http%3A//www.whiteflash.com/about-diamonds/jewelry/the-whiteflash-privacy-policy-1036.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflash.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018055312id_/http%3A//www.whiteflash.com/about-diamonds/jewelry/the-whiteflash-privacy-policy-1036.htm) for the most accurate reproduction.*
 
 # Whiteflash Privacy Policy
 
@@ -90,10 +90,10 @@ If the Personally Identifiable Information that you have given to Whiteflash cha
 
 Whiteflash wants to communicate with you only if you want to continue to hear from us.
 
-To opt out of receiving email promotions that Whiteflash sends you: (1) select "unsubscribe" on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails; or (2) write to Customer Service at 6222 Richmond Ave., Suite 700, Houston, Texas 77057.
+To opt out of receiving email promotions that Whiteflash sends you: (1) select "unsubscribe" on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails; or (2) write to Customer Service at 2150 Town Square Place Suite 330, Sugar Land, TX 77479 USA .
 
 Remember that opting out of communication with Whiteflash does not affect our communications with you via telephone or email related to your orders with us or the services you have requested from us. It also does not affect our use of your non-personally identifiable information.
 
 **California Residents**
 
-If you are a California resident and would like a copy of the Whiteflash notice describing what categories of personal Personally Identifiable Information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Whiteflash Customer Service at 6222 Richmond Ave., Suite 700, Houston, Texas 77057, Attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year.
+If you are a California resident and would like a copy of the Whiteflash notice describing what categories of personal Personally Identifiable Information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Whiteflash Customer Service at 2150 Town Square Place Suite 330, Sugar Land, TX 77479 USA, Attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year.
