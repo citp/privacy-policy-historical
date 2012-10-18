@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codesector.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508214758id_/http%3A//codesector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesector.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018062330id_/http%3A//codesector.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Code Sector
 
