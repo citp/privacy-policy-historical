@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506141327id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018052246id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ The Newsletter subscribers list has never been shared with any other party, and 
 
 ## Email Privacy
 
-Your email address is never displayed on Interactive Mathematics or on the associated [squareCircleZ](http://www.squarecirclez.com/blog/) blog. Everyone hates spam!
+Your email address is never displayed on Interactive Mathematics or on the associated [squareCircleZ](http://www.intmath.com/blog/) blog. Everyone hates spam!
 
 ## Cookies
 
@@ -58,7 +58,7 @@ There is also a mobile device cookie, which is set when visitors choose how to v
 
 We use third-party advertising companies to serve ads when you visit this website. These companies may use information ( **not** including your name, address, email address or telephone number) about your visits to this and other websites, including search engines, in order to provide advertisements about goods and services of interest to you. This "behavioral advertisitng" is used by Google Adsense, which is used throughout the sites. 
 
-If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/).
+If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.networkadvertising.org/faq).
 
 ## Privacy policies of linked sites
 
@@ -83,6 +83,8 @@ Didn't find what you are looking for on this page? Try **search** :
 This algebra solver can solve a wide range of math problems. (Please be patient while it loads.)
 
 [ ](http://www.intmath.com/help/problem-solver.php)
+
+Go to: [Online algebra solver](http://www.intmath.com/help/problem-solver.php)
 
 ### Math Lessons on DVD
 
