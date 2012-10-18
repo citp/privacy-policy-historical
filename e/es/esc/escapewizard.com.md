@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508050617id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018224718id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
 
 # Escape Wizard
 
@@ -48,7 +48,11 @@ When you subscribe to a farealert using the subscription form, we will share you
 
 **Use of Cookies:**   
 To enable features at the Site, we use cookies to collect and maintain aggregated data (such as the number of visitors) to help us see which areas are most popular with our users and improve and update the content on our site. While in the process of browsing our site, you also provide us with information that doesnt reveal your personal identity what type of destination youre exploring, for example. We use this aggregated data only as explained in this Privacy Policy. We do not connect aggregated data to any name, address, or other identifying information.   
-You may occasionally receive cookies from unaffiliated companies or organizations, to the extent they place advertising on our Site or are linked to the Site. These third-party cookies may collect information about you when you "click" on their advertising or content or link. This practice is standard in the Internet industry. Because of the way in which the Internet operates, we cannot control collection of this information by these third parties, and these cookies are not subject to this Privacy Policy. 
+You may occasionally receive cookies from unaffiliated companies or organizations, to the extent they place advertising on our Site or are linked to the Site. These third-party cookies may collect information about you when you "click" on their advertising or content or link. This practice is standard in the Internet industry. Because of the way in which the Internet operates, we cannot control collection of this information by these third parties, and these cookies are not subject to this Privacy Policy.   
+
+
+**More About Third Partys and Cookies:**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org 
 
 **Links:**   
 Our site provides links to other sites. When you click on one of these links, you are leaving our site and entering another site that we do not control and for which we cannot be responsible. You should carefully review the privacy statements or policies on any other site that you visit because those privacy statements or policies will apply to your visit to that site and may be very different from our policy. 
@@ -64,6 +68,4 @@ We reserve the right to change or update this Privacy Policy, or any other Escap
   |  |    
 |   |   
   |  |    
-  |  |    
-  
- 
+  |  |  
