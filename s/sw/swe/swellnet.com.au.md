@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112927id_/http%3A//www.swellnet.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018110402id_/http%3A//www.swellnet.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy › Swellnet
 
