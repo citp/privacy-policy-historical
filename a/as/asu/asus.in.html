@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the asus.in privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619095517id_/http%3A//in.asus.com/ContentPage.aspx%3FContent_Type%3Dbottom%26Content_Id%3D325) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asus.in privacy policy that was archived on 2012-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121018130641id_/http%3A//in.asus.com/ContentPage.aspx%3FContent_Type%3Dbottom%26Content_Id%3D325) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><!--6MASl0v7BwkyU24X8Vla7Q==-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><!--6MASl0v7BwkPsqKL3nWNAQ==-->
 <meta name="Description" content="ASUS is a leading company driven by innovation and commitment to quality for products that include notebooks, netbooks, motherboards, graphics cards, displays, desktop PCs, servers, wireless solutions, mobile phones and networking devices. ASUS ranks among BusinessWeek’s InfoTech 100 for 12 consecutive years.">
 <meta name="Keywords" content="ASUS,Privacy Policy,Legal Info,">
 <script>isProductPage = '';addthis_settingLanguaheConfig='en'</script><title>
@@ -13,6 +13,14 @@
     <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
     <script type="text/javascript" src="/js/XML.js"></script>
     <script type="text/javascript" src="/js/default.js"></script>
+    
+    <script>
+        if (getWebsite() == "us" || getWebsite() == "cafr" || getWebsite() == "caen") {
+            if (getWebsite() == "us") document.write(unescape("%3Cscript src='//s3.amazonaws.com/madmobile/asus/usa/js/mobiledirect.js' type='text/javascript'%3E%3C/script%3E"));
+            if (getWebsite() == "cafr" || getWebsite() == "caen") document.write(unescape("%3Cscript src='//s3.amazonaws.com/madmobile/asus/ca/js/mobiledirect.js' type='text/javascript'%3E%3C/script%3E"));
+        }
+    </script>
+    
     <script type="text/javascript" src="/js/menuhover.js"></script>
     <script type="text/javascript" src="/js/thickbox.js"></script>
     <script type="text/javascript" src="/js/jquery.bt.min.js"></script>
@@ -114,7 +122,7 @@
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <form name="aspnetForm" method="post" action="Rewrite.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFF2N0bDAwJGluZGV4VG9wJHNlYXJjaGdvByrmifqg0AqGyNZgGF367wtWt0k=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFF2N0bDAwJGluZGV4VG9wJHNlYXJjaGdvJjshiTBJfozGkJ6pnf3yP86GQao=">
 
     <div id="main_container" class="container">
         
@@ -127,6 +135,10 @@
             <ul id="globalnav">
                     <li><a href="#" id="menu_products" onfocus="this.blur()" onclick="return false;">Products</a>
                     <div id="product_menudiv" style="display: none;"><span class="navtop"><img src="images/nav_outline_top_long.gif"></span><ul class="nav_submenu" style="display: none;" id="product_level2">
+<li><a href="/Tablet">Tablet</a></li>
+
+<li><a href="/Mobile">Mobile</a></li>
+
 <li><a href="/Desktop">Desktop</a></li>
 
 <li><a href="/Peripherals_Accessories">Peripherals &amp; Accessories</a></li>
@@ -198,8 +210,6 @@
                                     
                                             <li><a href="http://www.asus.com/index.aspx">Global / English   </a></li>
                                         
-                                            <li><a href="http://africa.asus.com">Africa / English</a></li>
-                                        
                                             <li><a href="http://www.asus.com.au">Australia / English</a></li>
                                         
                                             <li><a href="http://bd.asus.com">Bangladesh / English</a></li>
@@ -212,9 +222,9 @@
                                         
                                             <li><a href="http://bg.asus.com">Bulgaria / English</a></li>
                                         
-                                            <li><a href="http://ca.asus.com/en">Canada / English</a></li>
+                                            <li><a href="http://ca.asus.com">Canada / English</a></li>
                                         
-                                            <li><a href="http://ca.asus.com/fr">Canada / Français</a></li>
+                                            <li><a href="http://ca.asus.com">Canada / Français</a></li>
                                         
                                             <li><a href="http://www.asus.com.cn">China / 简体中文</a></li>
                                         
@@ -408,12 +418,12 @@ var theForm = document.forms['aspnetForm'];
         var DefaultKeyword = $("#ctl00_indexTop_txtsearchinputDefaultWording").val();
         if (keyword != DefaultKeyword)
         {
-            if (window.location.hostname == "athena.asus.com") 
-                window.location.href = '/' + getWebsite() + '/Search/Search?SearchKey='+keyword;
+            if (window.location.hostname == "athena.asus.com")
+                window.location.href = '/' + getWebsite() + '/Search/Search?SearchKey=' + encodeURI(keyword);
             else if(isMultipleLanguageWebsite())
-                window.location.href = '/' + getShortLanguage(getWebsite()) + '/Search/Search?SearchKey='+keyword;
+                window.location.href = '/' + getShortLanguage(getWebsite()) + '/Search/Search?SearchKey=' + encodeURI(keyword);
             else
-                window.location.href = '/Search/Search?SearchKey='+keyword;
+                window.location.href = '/Search/Search?SearchKey=' + encodeURI(keyword);
         }
     }
 
@@ -464,13 +474,15 @@ var theForm = document.forms['aspnetForm'];
     
     reset_compare();
     reset_recently();
-        
+       
+    /*    
     if (fileIsExisted("/websites/" + getWebsite() + "/images/search_go.gif")) {
         $("#g-search input:last").attr("src","/websites/" + getWebsite() + "/images/search_go.gif");
     }
     else{
         $("#g-search input:last").attr("src","/images/search_go.gif");
-    }
+    }*/
+    $("#g-search input:last").attr("src", "/images/search_go.gif");
         
     function preLoadSetting(arrData)
     {    
@@ -1146,6 +1158,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
            <span id="ctl00_indexBottom_span_products_title"><h4>Products</h4></span>
            <ul id="tree_system">
             
+                    <li><a href="/Tablet">Tablet</a></li>
+                
+                    <li><a href="/Mobile">Mobile</a></li>
+                
                     <li><a href="/Desktop">Desktop</a></li>
                 
                     <li><a href="/Peripherals_Accessories">Peripherals &amp; Accessories</a></li>
@@ -1275,12 +1291,15 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
     </div>
     <iframe id="iframeEntry" src="" frameborder="0" width="100%" scrolling="no" height="700px" style="display:none"></iframe>
-    <iframe id="iframeEmpty1" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
-    <iframe id="iframeEmpty2" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
-    <iframe id="iframeEmpty3" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
-    <iframe id="iframeEmpty4" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
-    <iframe id="iframeEmpty5" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
-    <iframe id="iframeEmpty6" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
+    
+        <iframe id="iframeEmpty1" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
+        <iframe id="iframeEmpty2" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
+        <iframe id="iframeEmpty3" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
+        <iframe id="iframeEmpty4" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
+        <iframe id="iframeEmpty5" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
+        <iframe id="iframeEmpty6" src="/empty.htm" frameborder="0" width="1px" scrolling="no" height="1px" style="display:none"></iframe>
+       
+
 <script type="text/javascript">
     var intPageindexMasterSysWordingCheckId;
     intPageindexMasterSysWordingCheckId = setInterval("pageindexMasterSysWordingCheck()", intSysWordingCheckSpeed);
@@ -1305,7 +1324,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </script>
 <a id="LangSelection" href="/LangSelection.aspx?KeepThis=ture&amp;TB_iframe=ture&amp;height=150&amp;width=300&amp;inlineId=displayWarning&amp;white=true" class="thickbox hide" title=""></a>
     
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALr28WvAQKi9PG9DwLVo7/sDgLZzt29C9PKU6t6oIAVy5QI54359ar4Cpmb">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKk3tq7DQKi9PG9DwLVo7/sDgLZzt29CyiwmV5Z9Po9fQy857DWU5ndLpkc">
 <script>$(document).ready(function(){window.name = '';create_breadcrumbs('', 'ASUS Website Information');});</script><script>$(document).ready(function(){$('#footer_area').removeClass('hide');});</script></form>
     <!-- Google Code for Homepage visitors Remarketing List -->
 <script type="text/javascript">
@@ -1391,18 +1410,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 	}
 </script>
 <script language="javascript">
-    if (getWebsite() == "tw") {
+    if (tracking_country != "") {
         var _wmxq = _wmxq || [];
-        _wmxq.push(["_getTracker", "TWwebsite886", "website", "etrk.asus.com"]); _wmxq.push(["trackPageview"]);
-        (function() {
-            var sc = document.createElement("script"); sc.type = "text/javascript"; sc.async = true;
-            sc.src = ("https:" == document.location.protocol ? "https" : "http:") + "//etrk.asus.com/web_service/TrackingJS/wmxtracker.js";
-            var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(sc, s);
-        })();
-    }
-    if (getWebsite() == "global") {
-        var _wmxq = _wmxq || [];
-        _wmxq.push(["_getTracker", "Global", "website", "etrk.asus.com"]); _wmxq.push(["trackPageview"]);
+        _wmxq.push(["_getTracker", tracking_country, "website", "etrk.asus.com"]); _wmxq.push(["trackPageview"]);
         (function() {
             var sc = document.createElement("script"); sc.type = "text/javascript"; sc.async = true;
             sc.src = ("https:" == document.location.protocol ? "https" : "http:") + "//etrk.asus.com/web_service/TrackingJS/wmxtracker.js";
