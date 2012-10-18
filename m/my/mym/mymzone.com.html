@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the mymzone.com privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516062427id_/https%3A//mymzone.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mymzone.com privacy policy that was archived on 2012-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121018134747id_/https%3A//mymzone.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Privacy</title>
 
-<base href="http://mymzone.com/">
+<base href="https://mymzone.com/">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
 <meta name="description" content="Privacy, MyMzone, internet law, LegalCentre.co.uk, Use of Cookies, Use of Your Information, Disclosing Your Information, Storing Your Personal Data, Third Party Links, Access To Information, Contacting Us">
@@ -40,15 +40,17 @@
 
 
 
+
+
 <script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
 <script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
 <script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
-
+<script type="text/javascript" src="/lib/js/jquery.hoverIntent.js"></script>
 <script type="text/javascript" src="/js/editors/ckeditor.editor.js"></script>
-
 <script type="text/javascript" src="/js/core.js"></script>
 <script type="text/javascript" src="/js/ajax.js"></script>
+
 <script type="text/javascript">
 //<![CDATA[
 var index_script = 'index.php';
@@ -110,7 +112,7 @@ var currencies = {
 };
 
 var default_editor = 'ckeditor';
-var default_previewer = 'prettyphoto';
+var default_previewer = 'fancybox';
 
 var cart_language = 'EN';
 var images_dir = '/skins/basic/customer/images';
@@ -176,21 +178,29 @@ var vendor_groups = new Array();
 	vendor_groups['1']['group_name'] = 'Borough Market';
 	vendor_groups['1']['country'] = 'GB';
 	vendor_groups['2'] = new Array();
-	vendor_groups['2']['group_id'] = 1;
-	vendor_groups['2']['group_name'] = 'Camden Town';
+	vendor_groups['2']['group_id'] = 5;
+	vendor_groups['2']['group_name'] = 'Brick Lane';
 	vendor_groups['2']['country'] = 'GB';
 	vendor_groups['3'] = new Array();
-	vendor_groups['3']['group_id'] = 2;
-	vendor_groups['3']['group_name'] = 'Portobello Market';
+	vendor_groups['3']['group_id'] = 1;
+	vendor_groups['3']['group_name'] = 'Camden Town';
 	vendor_groups['3']['country'] = 'GB';
 	vendor_groups['4'] = new Array();
-	vendor_groups['4']['group_id'] = 3;
-	vendor_groups['4']['group_name'] = 'Spitalfields Market';
+	vendor_groups['4']['group_id'] = 9;
+	vendor_groups['4']['group_name'] = 'Greenwich Market';
 	vendor_groups['4']['country'] = 'GB';
 	vendor_groups['5'] = new Array();
-	vendor_groups['5']['group_id'] = 6;
-	vendor_groups['5']['group_name'] = 'Sunday Up Market';
+	vendor_groups['5']['group_id'] = 2;
+	vendor_groups['5']['group_name'] = 'Portobello Market';
 	vendor_groups['5']['country'] = 'GB';
+	vendor_groups['6'] = new Array();
+	vendor_groups['6']['group_id'] = 3;
+	vendor_groups['6']['group_name'] = 'Spitalfields Market';
+	vendor_groups['6']['country'] = 'GB';
+	vendor_groups['7'] = new Array();
+	vendor_groups['7']['group_id'] = 6;
+	vendor_groups['7']['group_name'] = 'Sunday Up & Backyard';
+	vendor_groups['7']['country'] = 'GB';
 
 lang.text_no_products = 'There are no products in this section';
 lang.vendor_group_title_prefix = 'in one bag';
@@ -199,8 +209,9 @@ lang.error_validator_duplicate_email = '_error_validator_duplicate_email';
 lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are available for the selected country so you cannot finish the registration procedure. In order to request for new market, please use the appropriate link below.';
 
 //]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
-<body id="main_body" class="allmarkets-body"><div class="helper-container">
+</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script><script type="text/javascript" async="" id="inspsync" src="https://www.inspectlet.com/inspect_nojquery/2825332143.js"></script></head>
+<body id="main_body" class="allmarkets-body">
+<div class="helper-container">
 	<a name="top"></a>
 	
 <div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
@@ -234,22 +245,35 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 <div id="top-tools-container">
 	<div id="top-tools-helper">
         
-        
+                    <div id="currency-select-wrap" class="select-wrap">
+
+		
+		
+	<a class="select-link cm-combo-on cm-combination" id="sw_select_GBP_wrap_currency">GB Pound&nbsp;(£)</a>
+
+	<div id="select_GBP_wrap_currency" class="select-popup cm-popup-box cm-smart-position hidden">
+		<img src="/skins/basic/customer/images/icons/icon_close.gif" width="13" height="13" border="0" alt="" class="close-icon no-margin cm-popup-switch">
+		<ul class="cm-select-list">
+							<li><a rel="nofollow" name="GBP" href="/privacy.html?currency=GBP" class=" active">GB Pound&nbsp;(£)</a></li>
+							<li><a rel="nofollow" name="USD" href="/privacy.html?currency=USD" class=" ">US Dollars&nbsp;($)</a></li>
+							<li><a rel="nofollow" name="EUR" href="/privacy.html?currency=EUR" class=" ">Euro&nbsp;(€)</a></li>
+					</ul>
+	</div>
+</div>
+                
         
 <div class="social-profiles-buttons">
+
+    <div class="mail social-profile-button"><a href="mailto:info@mymzone.com"> <img title="mail" alt="mail" src="skins/basic/customer/images/socialprofiles/mail-bw.png"></a></div>
+
+    <div class="google social-profile-button"><a href="https://plus.google.com/b/100088150350318798080/" target="_blank" class="google"><img title="google" alt="google" src="skins/basic/customer/images/socialprofiles/google-bw.png"></a></div>					
+    
+    <div class="linkedin social-profile-button"><a href="https://www.linkedin.com/company/mymzone" target="_blank" class="linkedin"><img title="linkedin" alt="linkedin" src="skins/basic/customer/images/socialprofiles/linkedin-bw.png"></a></div>						
 
     <div class="twitter social-profile-button"><a href="https://twitter.com/mymzoneltd" target="_blank" class="twitter"><img title="twitter" alt="twitter" src="skins/basic/customer/images/socialprofiles/twitter-bw.png"></a></div>					
                               
     <div class="facebook social-profile-button"><a href="https://facebook.com/mymzoneltd" target="_blank" class="facebook"><img title="facebook" alt="facebook" src="skins/basic/customer/images/socialprofiles/facebook-bw.png"></a></div>					
-    
-    <div class="google social-profile-button"><a href="https://plus.google.com/b/100088150350318798080/" target="_blank" class="google"><img title="google" alt="google" src="skins/basic/customer/images/socialprofiles/google-bw.png"></a></div>					
-    
-    <div class="linkedin social-profile-button"><a href="https://www.linkedin.com/company/mymzone" target="_blank" class="linkedin"><img title="linkedin" alt="linkedin" src="skins/basic/customer/images/socialprofiles/linkedin-bw.png"></a></div>					
-    
-    <div class="rss social-profile-button"><a href="https://mymzone.com/blog/feed/" target="_blank" class="rss"><img title="rss" alt="rss" src="skins/basic/customer/images/socialprofiles/rss-bw.png"></a></div>					
-    
-    <div class="mail social-profile-button"><a href="mailto:info@mymzone.com"> <img title="mail" alt="mail" src="skins/basic/customer/images/socialprofiles/mail-bw.png"></a></div>
-                                
+        
 </div>    
 		
 
@@ -266,7 +290,7 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 									<p class="center">Your cart is empty</p>
 								</div>
 				<div class="buttons-container">
-					<a href="/cart" rel="nofollow" class="view-cart">View cart</a>
+											<a href="/checkout" rel="nofollow">Checkout</a>
 									</div>
 			</div>
 		</div>
@@ -298,24 +322,27 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 	<input type="text" name="q" value="" onfocus="this.select();" id="query_string" class="search-input"><input type="image" src="skins/basic/customer/images/buttonbar/transparent.gif" style="width:24px; height:24px; margin:0px; padding:0 0 0 1px;" id="transparent-search-button" class="search-button float-right go-button"><input type="hidden" name="dispatch" value="products.search">
 </div>
 
-	<div id="market-select"><a class="select-link cm-combo-on cm-combination select-market" id="sw_select_wrap_markets" title="London Markets">
-			London Markets
+	<div id="market-select"><a class="select-link cm-combo-on cm-combination select-market" id="sw_select_wrap_markets" title="Browse by markets">
+			Browse by markets
 		</a></div>
 	<div id="select_wrap_markets" class="select-popup cm-popup-box cm-smart-position hidden">
 		<img src="/skins/basic/customer/images/icons/icon_close.gif" width="13" height="13" border="0" alt="" class="close-icon no-margin cm-popup-switch">
 		<ul class="cm-select-list">
 			<li><a rel="nofollow" href="/" name="0" title="London Markets">London Markets</a></li>
 							<li><a rel="nofollow" href="/camden-town.html" name="1" title="Camden Town">Camden Town</a></li>
-							<li><a rel="nofollow" href="/sunday-up-market.html" name="6" title="Sunday Up Market">Sunday Up Market</a></li>
+							<li><a rel="nofollow" href="/sunday-up-market.html" name="6" title="Sunday Up &amp; Backyard">Sunday Up &amp; Backyard</a></li>
 							<li><a rel="nofollow" href="/spitalfields.html" name="3" title="Spitalfields Market">Spitalfields Market</a></li>
 							<li><a rel="nofollow" href="/portobello.html" name="2" title="Portobello Market">Portobello Market</a></li>
 							<li><a rel="nofollow" href="/borough-market.html" name="7" title="Borough Market">Borough Market</a></li>
+							<li><a rel="nofollow" href="/bricklane.html" name="5" title="Brick Lane">Brick Lane</a></li>
+							<li><a rel="nofollow" href="/greenwich-market.html" name="9" title="Greenwich Market">Greenwich Market</a></li>
 							<li><a rel="nofollow" href="/alternative-markets.html" name="4" title="Alternative Markets">Alternative Markets</a></li>
 					</ul>
 	</div>
 </form>
 		</div>
-    </div>
+	
+	</div>
 </div>
 
 
@@ -323,14 +350,14 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 	<!--[if IE 7]>
 	<div class="clear-both"></div>
 	<![endif]-->
-		<div class="cm-info-block float-right clear-both ">
+					<div class="cm-info-block float-right clear-both cm-info-block-shift">
 		<div class="float-right clear-both">
 			
 						
-					</div>
+		</div>
 		<div class="float-right clear-both sign">
 			<div class="float-left" id="sign_io">
-																	<a href="/choice" rel="nofollow">Register</a>
+																	<a href="/choice" rel="nofollow">Join us</a>
 					/
 					<a id="sw_login" rel="nofollow" href="/login?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D11">Sign in</a>
 								
@@ -350,29 +377,12 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 
 	<div id="content">
 		<div class="content-helper clear">
-						<div class="header">
-				<table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><a id="welcome_popup_switch" class="">
-    <img src="/skins/basic/customer/images/welcome-popup-switch.png">
-</a>
-
-
-
-<div id="welcome_popup">
-
-    <div id="welcome_popup_dimmer"></div>
-  
-    <div id="welcome_popup_centered"> <img src="/skins/basic/customer/images/welcome-popup.png" width="496" height="338"> </div>
-    
-</div>
-
-<script type="text/javascript" src="/skins/basic/customer/js/welcomepopup.js"></script></td></tr></tbody></table>
-			</div>
 						
 			<div class="central-column">
 	<div class="central-content">
        		<div id="breadstuff">
-	<div class="breadcrumbs">
-		<a href="/">Home</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy
+	<div id="breadcrumbs" class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+		<span typeof="v:Breadcrumb"><a property="v:title" rel="v:url" href="/">Home</a></span><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt="|"><span typeof="v:Breadcrumb">Privacy</span>
 	</div>
 </div>
 		
@@ -385,11 +395,11 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 		<div class="mainbox-body">
 <div class="wysiwyg-content">
 		<p style="text-align: left; margin-left: 80px; ">
-	<span style="font-family: tahoma, geneva, sans-serif; text-align: -webkit-auto; ">At myMzone LTD we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by </span><a href="http://www.legalcentre.co.uk/ecommerce/" style="font-family: tahoma, geneva, sans-serif; text-align: -webkit-auto; " target="_blank">internet law</a><span style="font-family: tahoma, geneva, sans-serif; text-align: -webkit-auto; "> specialists <a href="http://legalcentre.co.uk/" target="_blank">LegalCentre.co.uk</a>.</span></p>
+	<span style="font-family: tahoma, geneva, sans-serif; text-align: -webkit-auto; ">At My M-Zone LTD we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by </span><a href="http://www.legalcentre.co.uk/ecommerce/" style="font-family: tahoma, geneva, sans-serif; text-align: -webkit-auto; " target="_blank">internet law</a><span style="font-family: tahoma, geneva, sans-serif; text-align: -webkit-auto; "> specialists <a href="http://legalcentre.co.uk/" target="_blank">LegalCentre.co.uk</a>.</span></p>
 <p style="text-align: left; margin-left: 80px; ">
 	<span style="font-family:tahoma,geneva,sans-serif;"><span>This Privacy Policy, together with our terms of use, explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site.&nbsp;</span>We do update this Policy from time to time so please do return and review this Policy regularly.</span></p>
 <p style="text-align: left; margin-left: 80px; ">
-	<span style="font-family:tahoma,geneva,sans-serif;"><span>For the purpose of the Data Protection Act 1998 our data controller is myMzone LTD.&nbsp;</span></span></p>
+	<span style="font-family:tahoma,geneva,sans-serif;"><span>For the purpose of the Data Protection Act 1998 our data controller is My M-zone LTD.&nbsp;</span></span></p>
 <p style="text-align: left; margin-left: 80px; ">
 	&nbsp;</p>
 <h1 style="text-align: left; margin-left: 80px; ">
@@ -481,7 +491,7 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 <p style="text-align: left; margin-left: 80px; ">
 	<span style="font-family:tahoma,geneva,sans-serif;">We welcome any queries, comments or requests you may have regarding this Privacy Policy.&nbsp; Please do not hesitate to contact us through any of the following channels:</span></p>
 <p style="text-align: left; margin-left: 80px; ">
-	<span style="font-family:tahoma,geneva,sans-serif;">myMzone LTD</span></p>
+	<span style="font-family:tahoma,geneva,sans-serif;">My M-Zone LTD</span></p>
 <p style="text-align: left; margin-left: 80px; ">
 	<span style="font-family:tahoma,geneva,sans-serif;">Email:&nbsp;<a href="mailto:info@mymzone.com" target="_blank">info@mymzone.com</a></span></p>
 <p style="text-align: left; margin-left: 80px; ">
@@ -512,17 +522,19 @@ lang.text_no_vendor_groups_available_storefront = 'Unfortunately, no markets are
 			<div class="footer-top-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
 			
 <p class="quick-links">
+			<a href="https://mymzone.com/hot-off-the-press.html">Press</a>
+			<a href="https://mymzone.com/apply-to-be-a-london-ambassdor.html">London Ambassador</a>
 			<a href="/about-mymzone.html">About Us</a>
-			<a href="https://mymzone.com/blog">Blog</a>
 			<a href="/contact-mymzone.html">Contact Us</a>
-			<a href="/sitemap">Sitemap</a>
 			<a href="/terms-and-conditions.html">Terms and Conditions</a>
 			<a href="/privacy.html">Privacy</a>
+			<a href="/sitemap">Sitemap</a>
 	</p>
 			<div class="footer-bottom-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
 		</div>
 	</div>
 </div>			</div>
+
 
 
 <script type="text/javascript">
@@ -541,7 +553,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1337149467.2866
+			've[time_begin]': 1350568025.47
 		},
 		hidden: true
 	});
@@ -550,7 +562,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fmymzone.com%2Fprivacy.html&amp;ve%5Btitle%5D=Privacy&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1337149467.2866" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmymzone.com%2Fprivacy.html&amp;ve%5Btitle%5D=Privacy&amp;ve%5Breferrer%5D=https%3A%2F%2Fmymzone.com%2F&amp;ve%5Btime_begin%5D=1350568025.47" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
@@ -569,6 +581,19 @@ $(document).ready(function(){
 <!--- Secure Site Seal - DO NOT EDIT -->
 <span id="ss_img_wrapper_115-55_image_en"><a href="http://www.alphassl.com/ssl-certificates/wildcard-ssl.html" target="_blank" title="SSL Certificates"><img alt="Wildcard SSL Certificates" border="0" id="ss_img" src="//seal.alphassl.com/SiteSeal/images/alpha_noscript_115-55_en.gif" title="SSL Certificate"></a></span><script type="text/javascript" src="//seal.alphassl.com/SiteSeal/alpha_image_115-55_en.js"></script>
 <!--- Secure Site Seal - DO NOT EDIT -->
+
+
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+var __insp = __insp || [];
+__insp.push(['wid', 2825332143]);
+(function() {
+var a = window.onload;
+function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://www.inspectlet.com/inspect_nojquery/2825332143.js'; document.getElementsByTagName("head")[0].appendChild(insp); }
+window.onload = (typeof window.onload != 'function') ? __ldinsp : function() { a(); __ldinsp(); };
+})();
+</script>
+<!-- End Inspectlet Embed Code -->
 
 
 </body></html>
