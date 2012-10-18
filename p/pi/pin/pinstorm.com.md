@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinstorm.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626231909id_/http%3A//www.pinstorm.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinstorm.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018041413id_/http%3A//www.pinstorm.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Pinstorm - The pay-for-performance digital marketing firm that guarantees results
 
