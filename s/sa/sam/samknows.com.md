@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505123702id_/http%3A//www.samknows.com/broadband/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018195613id_/http%3A//www.samknows.com/broadband/privacy) for the most accurate reproduction.*
 
 # SamKnows - Privacy Policy
 
-If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact us at [team@samknows.com](mailto:team@samknows.com).
+If you have any questions or concerns about SamKnows' Privacy Policy or data protection, please contact us at [team@samknows.com](mailto:team@samknows.com). 
 
-**Please read the Privacy Policy carefully as once you use our website or sign up to the FCC or Ofcom study, you will be regarded as having read and accepted its terms.**
+**Your privacy is important to SamKnows. Please take a moment to read our Privacy Policy, which governs the use of the samknows.com website, and let us know if you have any questions.**
 
-We may collect personal information about you which you give to us when you use our website, for example, to receive our exchange updates and regular website updates. For the purpose of the FCC and Ofcom studies we will collect your personal information and information about the performance of your internet connection. 
+Personal information is data that can be used to uniquely identify a single person. We may collect your personal information, such as your name and email address when, for example, you sign-up to receive our exchange updates and regular website updates. 
 
-SamKnows.com strongly believes in the importance of keeping user's personal information private. It will never use your information for any use beyond that stated or the permissions given to us. 
+When you volunteer to be a panelist for a broadband measurement project, you will be subject to the specific Privacy Policy for that project. 
 
-We will not share your personal details with third parties, unless you have granted us explicit permission to do so beforehand. 
+SamKnows strongly believes in the importance of keeping users' personal information private. SamKnows will never use your information for any use beyond that stated or the permissions given to us. 
+
+SamKnows will not share your personal details with third parties, unless you have granted us explicit permission to do. It may however become necessary - by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence - for SamKnows to disclose your personal information. We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. 
+
+SamKnows takes administrative, technical, and physical precautions to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction. 
 
 If you carry out an availability check, exchange location check or use our mapping engine, we will only use your location, postcode or phone number entered for the purpose of carrying out that check and further checks of your line. This information is essential to find out which services are available to you. Phone numbers and postcodes may be cached for the purposes of performing faster checks should someone check with the same or similar details, but these will be stored for a maximum of fourteen days only. 
 
-We collect information about users visiting our website by analyzing site traffic, which includes the use of cookies and server logs. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. 
+SamKnows collects information about users visiting our website by analyzing site traffic, which includes the use of cookies and server logs. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. 
 
 Most web browsers automatically accept cookies, but you can alter your browser settings to prevent automatic acceptance, if you prefer. If you opt not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies. 
 
-Users of SamKnows.com have certain rights under the your country’s Data Protection Legislation. You can, for instance, ask to be told what information we hold about you in our databases. SamKnows.com will provide you with all of the details that we hold about you, both online and offline, upon request. In order to request this information, please contact us by sending an email to [team@samknows.com](mailto:team@samknows.com). 
+Users of SamKnows.com have certain rights under your country?s Data Protection Legislation. You can, for instance, ask to be told what information we hold about you in our databases. SamKnows will provide you with all of the details that we hold about you, both online and offline, upon request. In order to request this information, please contact us by sending an email to [team@samknows.com](mailto:team@samknows.com). 
 
-For the purposes of completing the FCC and Ofcom broadband performance studies we will collect data on the performance of your Internet connection. This will be used as the basis for reports on the performance of American and UK broadband respectively. 
-
-We may amend this privacy policy from time to time as we add new products and services, as we improve our current offerings, and as technologies change. Any changes will be highlighted across the site to ensure that all users have the opportunity to respond to these changes. 
+SamKnows may update this Privacy Policy from time to time as we add new products and services, as we improve our current offerings, and as technologies change. Any changes will be highlighted along with the updated Privacy Policy. 
