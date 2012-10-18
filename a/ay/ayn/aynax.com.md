@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aynax.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511103823id_/http%3A//www.aynax.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aynax.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018111850id_/http%3A//www.aynax.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Aynax.com
 
@@ -17,4 +17,4 @@ Updating your Personal Information
 If you are an account holder or subscriber, you can update your personal as well as company information via logging into the application and updating the settings. 
 
 Contacting us regarding Privacy Policy    
-If you have any questions regarding this privacy policy, you can mail us at support@aynax.com 
+If you have any questions regarding this privacy policy, you can mail us at support@aynax.com, write us at 616 Corporate Way Suite 2-3489, Valley Cottage, NY 10989, or call 646-664-1014. 
