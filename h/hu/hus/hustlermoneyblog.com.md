@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620181241id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018143356id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -48,9 +48,3 @@ that might collect personally identifying information.
 
 This privacy statement applies solely to information collected by **HustlerMoneyBlog**. If you have any questions or concerns about our privacy  
 policy, please contact:  **HustlerMoneyBlog** **[at] gmail.com**
-
-**Related posts:**
-
-  1. [Finweb.com gives you good financial information](http://www.hustlermoneyblog.com/finwebcom-gives-you-good-financial-information/ "Finweb.com gives you good financial information")
-
-
