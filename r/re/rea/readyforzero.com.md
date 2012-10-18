@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510052343id_/https%3A//privacy-policy.truste.com/verified-policy/www.readyforzero.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018040117id_/https%3A//privacy-policy.truste.com/verified-policy/www.readyforzero.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.readyforzero.com
 
