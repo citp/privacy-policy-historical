@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511095408id_/http%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
 
 # The Arbor Day Foundation
 
@@ -14,11 +14,11 @@ Your email address will never be shared, loaned or sold to any other group, indi
 
 ### Cookies
 
-Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20120511095408id_/http%3A//www.arborday.org/generalinfo/nocookies.cfm)
+Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/nocookies.cfm)
 
 ### Mail
 
-If you have supplied a postal address online, you may receive periodic mailings from us with information about trees, services or upcoming events. If you do not wish to receive such mailings, please let us know by [ sending us email ](https://web.archive.org/web/20120511095408id_/http%3A//www.arborday.org/generalinfo/index.cfm) or writing to us at the address below. Be sure to provide your exact name and address so we can honor your request. Unless you have indicated that we should not share your name, you may also receive mailings from other reputable organizations from time to time. 
+If you have supplied a postal address online, you may receive periodic mailings from us with information about trees, services or upcoming events. If you do not wish to receive such mailings, please let us know by [ sending us email ](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/index.cfm) or writing to us at the address below. Be sure to provide your exact name and address so we can honor your request. Unless you have indicated that we should not share your name, you may also receive mailings from other reputable organizations from time to time. 
 
 ### Children
 
@@ -48,7 +48,7 @@ All refunds will be provided as a credit to the credit card used at the time of 
 
 We sometimes use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](https://web.archive.org/linkout.cfm?Destination=http://www.google.com/policies/privacy/ads/)
 
-Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20120511095408id_/http%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
+Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
 
 The Arbor Day Foundation  
 211 North 12th Street  
