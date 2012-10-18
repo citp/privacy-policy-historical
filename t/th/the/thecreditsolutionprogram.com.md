@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecreditsolutionprogram.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513072754id_/http%3A//www.thecreditsolutionprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecreditsolutionprogram.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018121247id_/http%3A//www.thecreditsolutionprogram.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Credit Solution Program
 
 **A.** When accessing our _Website,_ **__ _The Credit Solution Program_** will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
@@ -10,11 +10,15 @@
 
 3\.         The Internet address of the Web site you used to link directly to our site.
 
-If you subscribe to our free video guide by entering your email address on our site, then we will only use your email address to send you information and updates related to our free guide. If you wish to stop receiving emails from us, then you can unsubscribe at any time by using the unsubscribe link included at the bottom of every email.
+If you subscribe to our newsletter and free video guide by entering your email address on our site, then we will use your email address to regularly send you information and updates related to the free video series, our products available for purchase, other credit and finance topics of interest, or posts on our blog. If you wish to stop receiving emails from us, then you can unsubscribe at any time by using the unsubscribe link included at the top and bottom of every email.
 
-**B.** If you identify yourself by sending us an e-mail containing personal information, either directly or through a support form,  then the information collected will be solely used to respond to your message. ** __**
+If you take the credit quiz available on our website and enter your email to get your quiz results, then your quiz answers are stored in a database along with your email record. This allows us to deliver your personal quiz results by email or display your quiz results on the website for you to personally view. Your quiz answers are never shared with any 3rd party or displayed on the website so that another visitor could see them. 
 
-**C. _The Credit Solution Program_** uses software programs which use cookies to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, and what content is downloaded the most.
+We guarantee that your email address will never be shared, sold, rented, or used for any reason except to deliver our email newsletter directly to you. 
+
+**B.** If you identify yourself by sending us an e-mail containing personal information, either directly or through a support form,  then the personally identifiable information collected will be solely used to respond to your message. Content from your email message may appear on our website, blog, or in our newsletter, however only attributable to FIRST NAME, LAST INITIAL unless permission from you is otherwise obtained. ** __**
+
+**C. _The Credit Solution Program_** uses software programs which use cookies and “pixels” to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, and what content is downloaded the most. You should assume that every page on our website has tracking software that helps us in testing of our advertising and marketing campaigns or to determine visitor paths through our website. 
 
 **D.** For site security purposes and to ensure that this service remains available to all users, **_The Credit Solution Program_** uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. **_The Credit Solution Program_** will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
@@ -28,6 +32,6 @@ If you subscribe to our free video guide by entering your email address on our s
 
 **I. Other Sites; Links** Our _Website_ may link to or contain links to other third party _Website_ s that  we do not control or maintain, such as in connection with purchasing products referenced on our _Website_ and banner advertisements. We are not responsible for the privacy practices employed by any third party _Website_. We encourage you to note when you leave our _Website_ and to read the privacy statements of all third party _Website_ s before submitting any personally identifiable information.
 
-**J. Contact and Opt-Out Information** You may contact us as at mike@thecreditsolutionprogram.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future emails from us. **You may also unsubscribe from our email list easily by using the unsubscribe link at the top and bottom of every email -this is the fastest and easiest way to stop receiving communication from us.**
+**J. Contact and Opt-Out Information** You may contact us as at support@thecreditsolutionprogram.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future emails from us. **You may also unsubscribe from our email list easily by using the unsubscribe link at the top and bottom of every email -this is the fastest and easiest way to stop receiving communication from us.**
 
 **K. Sole Statement** This Privacy Policy as posted on this _Website_ is the sole statement of our privacy policy with respect to this _Website_ , and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the _Website_.
