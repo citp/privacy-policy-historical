@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509232249id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018190028id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,10 +35,16 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 ---|---|---  
   
 _Proxy Question_  
-• Why are my Internet Explorer proxy settings changed after changing Safari proxy settings?
+• How to disable proxy settings in Internet Explorer 8.0
 
-Safari, MSN Explorer, AOL Explorer and Maxthon use some Internet Explorer settings e.g proxy settings. So, if you make any changes for Internet Explorer, these changes influence Internet Explorer as well as other browsers which share Internet Explorer settings and vice versa.   
+Follow the step by step instructions below to disable proxy server settings in Internet Explorer 8.x:  
+Open Internet Explorer.  
+Select _Tools_ and then _Internet Options_.  
+Open the _Connections_ tab and click the _LAN Settings_ button.  
+If you use a Dial-up or Virtual Private Network connection, select the necessary connection and click the _Settings_ button.  
+In the 'Proxy Server' area, uncheck the _Use a proxy server for this connection_ or _Use a proxy server for your LAN_ option.  
+Click OK.   
   
- Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Wednesday, May 9, 2012   
+ Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Thursday, October 18, 2012   
 |   
 ---
