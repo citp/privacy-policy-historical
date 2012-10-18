@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apacheclips.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618155715id_/http%3A//www.apacheclips.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apacheclips.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018062446id_/http%3A//www.apacheclips.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # Apache Clips - Information
 
