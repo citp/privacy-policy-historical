@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514035916id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018190747id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
 
-# Avon - cosmetics, beauty, make-up, skincare, fragrance, work from home
+# Avon - Anew A-F33, cosmetics, beauty, make-up, skincare, fragrance, work from home
 
 | 
 
-Avon Privacy Statement  NEW
+Avon Privacy Statement
 
 | 
 
@@ -24,7 +24,7 @@ Avon grants independent contractors selling rights to its products (hereinafter 
 
 If you are the customer of an Independent Sales Representative, you should check with your Representative directly to learn about her data privacy practices.
 
-If you apply to become or are an Independent Sales Representative, in addition to the generally applicable provisions of this Privacy Statement, please review the Independent Sales Representative section at the bottom of this Privacy Statement to see important information about additional privacy practices that apply to you.
+If you apply to become or are an Independent Sales Representative, in addition to the generally applicable provisions of this Privacy Statement, please review the ** Independent Sales Representative** section at the bottom of this Privacy Statement to see important information about additional privacy practices that apply to you.
 
 PERSONAL INFORMATION
 
