@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the entercom.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118155023id_/http%3A//static.intertechmedia.com/Entercom/Entercom_Internet_Privacy_Policy_January_2007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entercom.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018232133id_/http%3A//static.intertechmedia.com/Entercom/Entercom_Internet_Privacy_Policy_January_2007.pdf) for the most accurate reproduction.*
 
-# Updated as of May 19, 2011
+# Privacy Policy
 
-                                                                       Updated as of May 19, 2011
                                            Privacy Policy
 A Privacy Policy Statement from
 Entercom Communications Corp. (“Entercom”)
@@ -39,10 +38,9 @@ that may indicate purchasing preferences and lifestyle, as well as information a
 external sources, such as census bureau data. If you have signed up to receive our e-mails and
 prefer not to receive marketing information from this site, follow the "unsubscribe" instructions
 provided on any marketing e-mail you receive from this site.
- ETM:11929_4
+ ETM:11929_5
 
 
-                                                                         Updated as of May 19, 2011
           We sometimes use this information to communicate with you, such as to notify you when
 you have won one of our contests, to fulfill a request by you for an online newsletter, or to
 contact you about your account with us.
@@ -81,10 +79,9 @@ participating in such contests, you are consenting to us sharing this informatio
 sponsors who may contact you directly.
           Notwithstanding any provision of this Privacy Policy to the contrary, to the extent you
 provide your information in connection with our ecommerce initiatives (e.g., our Perks program),
- ETM:11929_4
+ ETM:11929_5
 
 
-                                                                       Updated as of May 19, 2011
 we will not sell or rent such information to any third party unless you otherwise specifically
 consent.
           Although we take appropriate measures to safeguard against unauthorized disclosures of
@@ -121,10 +118,9 @@ other purposes.
           Some of Entercom’s web sites contain links to other sites whose information practices
 may be different than ours. Visitors should consult the other sites’ privacy policies as Entercom
 has no control over information that is submitted to, or collected by, these third parties.
- ETM:11929_4
+ ETM:11929_5
 
 
-                                                                      Updated as of May 19, 2011
           The Entercom sites covered by this Privacy Policy sometimes may offer content (e.g.,
 contests, sweepstakes, or promotions) that are sponsored by or cobranded with identified third
 parties. Information collected by Entercom in connection with entering, voting or otherwise
@@ -139,6 +135,15 @@ and to help measure and research the advertisements’ effectiveness. The use of
 technologies by these third party ad servers is subject to their own privacy policies and is not
 covered by our privacy policy. For more about third-party ad servers generally visit the Network
 Advertising Initiative’s web site at www.networkadvertising.org.
+         The following only applies to California residents:
+          Entercom may from time to time share your personal information with our subsidiaries,
+affiliates, sponsors, partners, advertisers or other third parties for their direct marketing purposes.
+If you do not want us to share your personal information with such third parties for their direct
+marketing purposes, please let us know by contacting us by email at privacy@entercom.com
+[For spam filtering purposes, only email with the subject line “Entercom Privacy Request” will
+be read] or by mail at Entercom Communications Corp. Attn: Internet Privacy Manager., 401
+City Avenue, Suite 809, Bala Cynwyd, PA 19004. We will process your opt-out request within
+30 days of our receipt.
          Note for Parents
           Entercom does not knowingly solicit data from children, and we will not knowingly
 market to children. Entercom adheres to the Children's Online Privacy Protection Act
@@ -154,8 +159,13 @@ contact us at:
                  401 City Avenue, Suite 809
                  Bala Cynwyd PA 19004
                  Attn: Internet Privacy Manager
-         Updates & Effective Date
-          From time to time, we may update this Privacy Policy. We encourage you to periodically
+ ETM:11929_5
+
+
+         Or via email at privacy@entercom.com [For spam filtering purposes, only email with the
+subject line “Entercom Privacy Request” will be read]
+        Updates & Effective Date
+         From time to time, we may update this Privacy Policy. We encourage you to periodically
 check back and review this policy so that you always will know what information we collect,
 how we use it, and to whom we disclose it.
- ETM:11929_4
+ETM:11929_5
