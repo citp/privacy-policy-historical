@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625221421id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018201915id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - Restek Chromatography Products and Solutions
 
