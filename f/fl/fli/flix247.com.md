@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flix247.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205034422id_/https%3A//flix247.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flix247.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018082958id_/https%3A//flix247.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -57,7 +57,7 @@ Media Reel ltd makes it easy for you to keep your personal information accurate,
 
 **Access to Personal Information**
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at www.Flix123.com. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Media Reel ltd is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. 
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at flix247.com. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Media Reel ltd is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. 
 
 **Children**
 
