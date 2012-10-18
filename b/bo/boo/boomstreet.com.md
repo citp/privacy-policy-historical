@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425065954id_/http%3A//boomstreet.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018120709id_/http%3A//boomstreet.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlanta
 
@@ -50,7 +50,7 @@ We also use Third Party Service Providers to track and analyze Non-Personally Id
 
 ### 5\. Updating and Correcting Information
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by sending us an email at [privacy@tippr.com](mailto:privacy@tippr.com) or writing to us at 4300 Roosevelt Way NE, Ste. 200, Seattle, WA 98105. Please indicate your name, address and email address, and what information you would like to update when you contact us.
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by sending us an email at [privacy@tippr.com](mailto:privacy@tippr.com) or writing to us at 127 Broadway East Seattle, WA 98102. Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
 We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Site. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
@@ -78,7 +78,7 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 ### 10\. Miscellaneous Privacy Issues
 
-**Children.** Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Site is not directed to children, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13, and you become aware that the child has provided us with personal information without your consent, please contact us at [privacy@tippr.com](https://web.archive.org/web/20120425065954id_/http://boomstreet.com/legal/privacy/privacy@tippr.com).
+**Children.** Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Site is not directed to children, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13, and you become aware that the child has provided us with personal information without your consent, please contact us at [privacy@tippr.com](https://web.archive.org/web/20121018120709id_/http://boomstreet.com/legal/privacy/privacy@tippr.com).
 
 **Public Areas.** We may provide areas on our Site where you can publicly post information about yourself, can communicate with others, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.
 
@@ -92,4 +92,4 @@ Tippr is committed to protecting your privacy. The information collected from ou
 
 If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message [privacy@tippr.com](mailto:privacy@tippr.com).
 
-4300 Roosevelt Way NE, Ste. 200, Seattle, WA 98105
+127 Broadway East Seattle, WA 98102
