@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512064224id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018085230id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Online Auto Insurance
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.onlineautoinsurance.com&sealid=101)Online Auto, LLC  
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.onlineautoinsurance.com&sealid=101)TZ Insurance Solutions, LLC  
 8667 Haven Ave Ste 100  
 Rancho Cucamonga, Ca 91730  
 service@onlineautoinsurance.com  
-Privacy Statement (Last Update 04/16/2012)
+Privacy Statement (Last Update 07/17/2012)
 
-Online Auto, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.onlineautoinsurance.com. Because this Web site wants to demonstrate its commitment to users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, OnlineAutoInsurance.com has agreed to notify users of:
+TZ Insurance Solutions, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.onlineautoinsurance.com. Because this Web site wants to demonstrate its commitment to users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, OnlineAutoInsurance.com has agreed to notify users of:
 
-  1. What personally identifiable information Online Auto, LLC collects.
+  1. What personally identifiable information TZ Insurance Solutioins, LLC collects.
   2. What personally identifiable information third parties collect through the Web site.
   3. What organization collects the information.
-  4. How Online Auto, LLC uses the information.
+  4. How TZ Insurance Solutioins, LLC uses the information.
   5. What choices are available to users regarding collection, use and distribution of the information.
-  6. What measures Online Auto, LLC takes to protect the information under its control.
+  6. What measures TZ Insurance Solutioins, LLC takes to protect the information under its control.
   7. How users can correct any inaccuracies in the information.
 
 
@@ -24,7 +24,7 @@ If you have questions or concerns regarding this statement, please contact us. I
 
  _Information Collection and Use_
 
-Online Auto, LLC collects information on OnlineAutoInsurance.com at several different points on our Web site. If you apply for auto insurance quotes or to purchase an insurance policy, we require that you provide certain personally identifiable information, including your name, address email address, and phone number. This information is necessary to process your application and to contact you if necessary. Once you have entered your name, address and email address your information is then passed onto a third party Insurance Company in order to supply you with a quote that best fits your needs. 
+TZ Insurance Solutioins, LLC collects information on OnlineAutoInsurance.com at several different points on our Web site. If you apply for auto insurance quotes or to purchase an insurance policy, we require that you provide certain personally identifiable information, including your name, address email address, and phone number. This information is necessary to process your application and to contact you if necessary. Once you have entered your name, address and email address your information is then passed onto a third party Insurance Company in order to supply you with a quote that best fits your needs. 
 
 _Accessing Your Personally Identifiable Information_
 
@@ -66,7 +66,7 @@ The security of your personal information is important to us. When you enter sen
 
  _Business Transitions_
 
-In the event Online Auto, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or portion of its assets, your personally identifiable information will likely be among the assets transferred.
+In the event TZ Insurance Solutioins, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or portion of its assets, your personally identifiable information will likely be among the assets transferred.
 
  _Links to Other Sites_
 
