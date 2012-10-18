@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlineseo.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618205303id_/http%3A//www.inlineseo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlineseo.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018102835id_/http%3A//www.inlineseo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
