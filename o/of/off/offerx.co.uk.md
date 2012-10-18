@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512075156id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018120623id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
 
-Last updated: 28 February 2011
+Last updated: 17 May 2012
 
 ##  Introduction
 
@@ -12,7 +12,7 @@ This statement discloses how OfferX helps to protect your personal information w
 
 ##  Collected Data
 
-OfferX collects, store and uses data about you and answers to specific questions asked by sponsors. OfferX and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [click here](https://web.archive.org/web/20120512075156id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
+OfferX collects, store and uses data about you and answers to specific questions asked by sponsors. OfferX and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [click here](https://web.archive.org/web/20121018120623id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
 
 Sponsors of OfferX have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
 
@@ -84,26 +84,48 @@ OfferX collects data about you, including answers to specific questions asked by
 
 ##  Cookies
 
-A cookie is small text-only file which is stored on your computer when visiting a site that record preference for that particular site's usage.
+A cookie is a small text-only file which is stored on your computer when visiting a website to help it function or to track your visits. OfferX requires cookies to work correctly. By opting-in to OfferX you agree to the use of cookies by OfferX. The table below explains the cookies that are used.
 
-OfferX uses cookies solely to enable us to identify you when you return to the OfferX web site, therefore enabling us to show you offers which will be appropriate to you and your interests, gathered from your registration details.
+Cookie |  Name |  Purpose  
+---|---|---  
+Google Analytics |  __utma  
+__utmb  
+__utmc  
+__utmz | 
 
-The cookie will not allow a website to learn any personally identifiable information (such as your name and address) that you have not otherwise given to us. The cookie will also not track where you go when you leave OfferX or where you came to our website from. It's only purpose is to make your visit to OfferX easier and more rewarding for you.
+These cookies allow OfferX to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.[ Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+  
+Google Adsense |  _drt_  
+id | 
 
-The use of cookies in OfferX means that you do not have to enter information such as your log in name and password every time you visit the site, resulting in an improved login experience.
+Google uses cookies to serve more relevant ads across the web and limit the number of times a given ad is shown to you. When you visit a website, view an ad, or click an ad supported by Google’s advertising services, Google may set a cookie on your browser. This advertising cookie will appear in your browser as coming from the domain “doubleclick.net.” [ Learn more about Googles Policies](http://www.google.com/policies/privacy/ads/)  
+  
+Visual DNA |  vdnaR  
+vdnaSessionId  
+vdnaWidgetMC | 
 
-For example, OfferX may store your login details in a cookie that will remain on your computer after you log out. This cookie allows you to be automatically logged in the next time you visit OfferX. If you are using a public computer or do not otherwise want this information to be stored, you should log out before leaving the site.
+These cookies are used to anonymously profile your interests to help advertisers with targeting. You can view and manage your profile at [my.visualdna.com.](http://my.visualdna.com/)  
+  
+Network Punch |  Enc_aff_session_nnn | 
 
-The sites or services you visited may store their own cookies on your computer. OfferX recommends that you read each site's privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you are still able to use the OfferX site but you will not have the benefit of an automatic login.
+Network Punch uses cookies to track the source of your visit to the OfferX website.  
+  
+Go Viral |  PHPSESSID  
+NSC_wjq_mpoxfc_80 | 
 
-The functionality of OfferX depends upon your browser accepting session cookies. OfferX tracks visitors to and on the OfferX site by using referrer tracking. OfferX uses click thru and open mail tracking when sending emails. This process allows OfferX and its clients the ability to profile the recipients of their communications.
+Go Viral use cookies to anonymously track how you use their player.  
+  
+AddThis |  __atuvc | 
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+This cookie is used for AddThis social media bookmarks.  
+  
+Essential site cookies |  cookiesenabled  
+PrizePunch  
+ASP.NET_SessionId  
+qb:nnnn | 
 
-It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. We refer to the manual of your web browser.
-
-We will not use the IP address or cookies to identify you personally.
-
+These cookies are essential for the operation of the OfferX website.  
+  
 ##  Deregistration
 
 You may at any time deregister from OfferX by using the following link: [ unsubscribe](http://www.offerx.co.uk/unsubscribe). The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further communications from OfferX.
