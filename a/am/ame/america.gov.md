@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the america.gov privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016082058id_/http%3A//www.america.gov/pages/footer/local/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the america.gov privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018234120id_/http%3A//www.america.gov/pages/footer/local/privacy.html) for the most accurate reproduction.*
 
 # Privacy - America.gov
+
+### We’ve gone social!
+
+#### Follow us on our facebook pages and join the conversation.
+
+From the birth of nations to global sports events... Join our discussion of news and world events!
+
+Democracy Is…the freedom to express yourself. Democracy Is…Your Voice, Your World. 
+
+The climate is changing. Join the conversation and discuss courses of action.
+
+Connect the world through CO.NX virtual spaces and let your voice make a difference! 
+
+Promoviendo el emprendedurismo y la innovación en Latinoamérica.
+
+Информация о жизни в Америке и событиях в мире. Поделитесь своим мнением!
+
+تمام آنچه می خواهید درباره آمریکا بدانید زندگی در آمریکا، شیوه زندگی آمریکایی و نگاهی از منظر آمریکایی به جهان و ...
+
+أمريكاني: مواضيع لإثارة أهتمامكم حول الثقافة و البيئة و المجتمع المدني و ريادة الأعمال بـ"نكهة أمريكانية
 
 ## Privacy
 
