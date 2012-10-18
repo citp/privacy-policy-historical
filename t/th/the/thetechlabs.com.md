@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechlabs.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120152310id_/http%3A//www.thetechlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechlabs.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018202907id_/http%3A//www.thetechlabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Tech Labs
+# Privacy Policy - TheTechLabs
 
 **Privacy Policy for http://www.thetechlabs.com**
 
@@ -19,3 +19,5 @@ We also use third party advertisements on http://www.thetechlabs.com to support 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+TheTechLabs is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, endless.com, smallparts.com or myhabit.com.
