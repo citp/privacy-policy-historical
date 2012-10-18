@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216151215id_/http%3A//www.atlantichealth.org/atlantic/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018234008id_/http%3A//www.atlantichealth.org/atlantic/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
