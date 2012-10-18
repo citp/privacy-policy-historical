@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asus.in privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619095517id_/http%3A//in.asus.com/ContentPage.aspx%3FContent_Type%3Dbottom%26Content_Id%3D325) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asus.in privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018130641id_/http%3A//in.asus.com/ContentPage.aspx%3FContent_Type%3Dbottom%26Content_Id%3D325) for the most accurate reproduction.*
 
 # ASUS
 
