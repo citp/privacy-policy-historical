@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerlobby.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509224239id_/http%3A//www.customerlobby.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerlobby.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019001836id_/http%3A//www.customerlobby.com/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Lobby (866) 718-9549
 
