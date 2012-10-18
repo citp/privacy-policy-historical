@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireps.gov.in privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203044906id_/http%3A//ireps.gov.in./ireps/upload/resources/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireps.gov.in privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018070713id_/http%3A//www.ireps.gov.in/ireps/upload/resources/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # (1)Privacy Policy for www.ireps.gov.in
 
