@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaliemonkey.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621025744id_/http%3A//www.goaliemonkey.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaliemonkey.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018121954id_/http%3A//www.goaliemonkey.com/privacypolicy.html) for the most accurate reproduction.*
 
 # GoalieMonkey.com - #1 Online Hockey Goalie Equipment Store Privacy Policy
 
