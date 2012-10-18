@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515221825id_/http%3A//www.itwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018055709id_/http%3A//www.itwire.com/component/k2/38300) for the most accurate reproduction.*
 
-# iTWire - Privacy Policy
+# Privacy Policy
 
 iTWire PTY LTD is committed to preserving your privacy and fully recognises the need for appropriate protection and management of any personally identifiable information you share with us (any information by which you can be identified, such as name, address, e-mail address or telephone number).
 
