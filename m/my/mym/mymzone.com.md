@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mymzone.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516062427id_/https%3A//mymzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymzone.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018134747id_/https%3A//mymzone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-At myMzone LTD we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by [internet law](http://www.legalcentre.co.uk/ecommerce/) specialists [LegalCentre.co.uk](http://legalcentre.co.uk/).
+At My M-Zone LTD we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by [internet law](http://www.legalcentre.co.uk/ecommerce/) specialists [LegalCentre.co.uk](http://legalcentre.co.uk/).
 
 This Privacy Policy, together with our terms of use, explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site. We do update this Policy from time to time so please do return and review this Policy regularly.
 
-For the purpose of the Data Protection Act 1998 our data controller is myMzone LTD. 
+For the purpose of the Data Protection Act 1998 our data controller is My M-zone LTD. 
 
 In operating our website we may collect and process the following data about you:
 
@@ -66,7 +66,7 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us through any of the following channels:
 
-myMzone LTD
+My M-Zone LTD
 
 Email: [info@mymzone.com](mailto:info@mymzone.com)
 
