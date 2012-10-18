@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309225921id_/http%3A//craftcoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018134506id_/http%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
 
-# Craft Coffee | subscription artisan coffee-of-the-month tasting boxes delivered monthly
+# Privacy: Subscription Artisan Coffee, Delivered Monthly | Craft Coffee
 
-This privacy policy covers the use of the web site located at [http://www.craftcoffee.com](http://www.craftcoffee.com/) and the services provided by Caffeinated Labs, Inc. ("CraftCoffee"), including how CraftCoffee treats personal information that CraftCoffee collects and receives. Pursuant to CraftCoffee's [Terms of Use](https://web.archive.org/terms), you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that CraftCoffee does not own or control, or individuals that CraftCoffee does not employ or manage. 
+We take your privacy seriously at Craft Coffee. We will never send you spam, or sell your information to marketers. For the full legalese, see below.
+
+This privacy policy covers the use of the web site located at [http://www.craftcoffee.com](http://www.craftcoffee.com/) and the services provided by Caffeinated Labs, LLC ("CraftCoffee"), including how CraftCoffee treats personal information that CraftCoffee collects and receives. Pursuant to CraftCoffee's [Terms of Use](https://web.archive.org/terms), you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that CraftCoffee does not own or control, or individuals that CraftCoffee does not employ or manage. 
 
 This policy is effective on October 28, 2010.
 
@@ -75,4 +77,4 @@ If this privacy policy is changed, CraftCoffee will post changes so that you are
 
 ## Questions
 
-If you have questions or suggestions you can contact CraftCoffee [via our contact form](https://web.archive.org/contact) or by postal mail to Caffeinated Labs, Inc., Attn: Customer Support; 190 Bedford Avenue, Suite 303, Brooklyn, NY 11211. You can also reach us at 877-497-2278.
+If you have questions or suggestions you can contact CraftCoffee [via our contact form](https://web.archive.org/contact) or by postal mail to Caffeinated Labs, LLC, Attn: Customer Support; 902 Broadway, FL 4, NY, NY 10010. You can also reach us at 877-497-2278. 
