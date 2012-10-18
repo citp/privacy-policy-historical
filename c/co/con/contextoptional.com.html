@@ -1,515 +1,504 @@
-<!--The following is the downloaded HTML source of the contextoptional.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531140704id_/http%3A//contextoptional.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the contextoptional.com privacy policy that was archived on 2012-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121018213351id_/http%3A//www.omniture.com/en/privacy/context-optional) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head><script language="javascript" type="text/javascript">
-var currentHost = window.location.hostname;
-</script>
-
-
-    <base href="http://www.contextoptional.com/privacy">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="robots" content="index, follow">
-  <meta name="keywords" content="social networking, facebook application development, google, opensocial application development, facebook, moderation, publishing, social marketing, analytics, myspace, linkedin, social media strategy, viral widgets">
-  <meta name="title" content="Application Privacy Statement">
-  <meta name="author" content="Context Optional">
-  <meta name="description" content="Context Optional builds presence for brands in social media, including Facebook and Twitter&quot;">
-  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
-  <title>Application Privacy Statement</title>
-  <link href="/templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
-  <script type="text/javascript" src="/media/system/js/caption.js"></script>
-
-
-<link rel="stylesheet" href="http://www.contextoptional.com/templates/system/css/system.css" type="text/css">
-<link rel="stylesheet" href="http://www.contextoptional.com/templates/system/css/general.css" type="text/css">
-<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/css/template.css" type="text/css">
-<script language="javascript" type="text/javascript" src="http://www.contextoptional.com/templates/ja_purity/js/ja.script.js"></script>
-
-<script language="javascript" type="text/javascript">
-var rightCollapseDefault='show';
-var excludeModules='38';
-</script>
-<script language="javascript" type="text/javascript" src="http://www.contextoptional.com/templates/ja_purity/js/ja.rightcol.js"></script>
-
-
-<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/css/menu.css" type="text/css">
-
-<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/css/ja-sosdmenu.css" type="text/css">
-<script language="javascript" type="text/javascript" src="http://www.contextoptional.com/templates/ja_purity/js/ja.cssmenu.js"></script>
-
-<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/styles/background/lighter/style.css" type="text/css">
-
-<!--[if IE 7.0]>
-<style type="text/css">
-.clearfix {display: inline-block;}
-</style>
-<![endif]-->
-<!--load jquery-->
-<script type="text/javascript" src="/templates/ja_purity/js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="/templates/ja_purity/js/jquery.tools.min.js"></script>
-<script type="text/javascript" src="/templates/ja_purity/js/fadeslideshow.js"></script>
-<script type="text/javascript" src="/templates/ja_purity/js/browserdetect.js"></script>
-
-<script type="text/javascript">
-<!--
-jQuery(document).ready(function($){
-   $("#newsletter_signup_form").submit(function(){
-    if(check_email(document.getElementById('email'),"Please enter a valid email address")) {
-      // 'this' refers to the current submitted form
-      var str = $(this).serialize();
-         $.ajax({
-         type: "POST",
-         url: "http://" + currentHost + "/templates/ja_purity/formprocess.php",
-         data: str,
-         success: function(msg){
-          $("#HP_thanks").ajaxComplete(function(event, request, settings) {
-            if (msg == 'OK')
-              {
-                result = '<p style="font-weight: bold;">Thank you for signing up!</p>';
-                $("#newsletter_signup_form").hide();
-              }
-              else
-              {
-                result = '<p style="font-weight: bold;">There was an error.</p>';
-
-              } // end if
-            $(this).html(result);
-          }); // end ajax complete
-        } // end success function
-       }); // end ajax call
-    } else {
-      //alert("check failed");
-    }// end validation
-
-    return false;
-  }); // end newsletter signup
-  $("#whitepaper_signup_form").submit(function(){
-    if(check_fields()) {
-      // 'this' refers to the current submitted form
-      var str = $(this).serialize();
-         $.ajax({
-         type: "POST",
-         url: "http://" + currentHost + "/templates/ja_purity/formprocess.php",
-         data: str,
-         success: function(msg){
-          $("#whitepaper_thanks").ajaxComplete(function(event, request, settings) {
-            if (msg == 'OK')
-              {
-
-                result = '<p style="margin: 30px 0 15px 0px; font-size: 16px; color:#333333; text-align: center; font-weight: bold;">Thank you! An email with your white paper should be on the way.</p>';
-                $("#whitepaper_signup_form").hide();
-              }
-              else
-              {
-                result = '<p style="margin: 30px 0 15px 0px; font-size: 16px; color:#333333; text-align: center; font-weight: bold;">There was an error. Please try again.</p>';
-
-              } // end if
-            $(this).html(result);
-          }); // end ajax complete
-        } // end success function
-       }); // end ajax call
-    } else {
-      //alert("check failed");
-    }// end validation
-
-    return false;
-  }); // end whitepaper signup
-  $("#product_signup_form").submit(function(){
-    if(check_fields()) {
-      // 'this' refers to the current submitted form
-      var str = $(this).serialize();
-         $.ajax({
-         type: "POST",
-         url: "http://" + currentHost + "/templates/ja_purity/formprocess.php",
-         data: str,
-         success: function(msg){
-          $("#PP_thanks").ajaxComplete(function(event, request, settings) {
-            if (msg == 'OK')
-              {
-
-                result = '<p style="margin: 30px 0 15px 0px; font-size: 16px; color:#333333; text-align: center; font-weight: bold;">Thank you! A member of our team will be in touch shortly. In a few moments, you will also be receiving a introductory email with information about the Social Marketing Suite.</p>';
-                $("#product_signup_form").hide();
-              }
-              else
-              {
-                result = '<p style="margin: 15px 0 15px 0px; font-size: 20px; color:#4c4d4f; text-align: center; font-weight: bold;">There was an error. Please try again.</p>';
-
-              } // end if
-            $(this).html(result);
-          }); // end ajax complete
-        } // end success function
-       }); // end ajax call
-    } else {
-      //alert("check failed");
-    }// end validation
-
-    return false;
-  }); // end product form
-
-}); // end document ready
-
-//-->
-</script>
-<script type="text/javascript">
-<!--
-  function limitText(limitedField, counter, limit) {
-    var ContainerArea = document.getElementById(limitedField);
-    var CounterArea = document.getElementById(counter);
-    if (ContainerArea.value.length > limit) {
-      ContainerArea.value = ContainerArea.value.substring(0, limit);
-    } else {
-      CounterArea.value =  ContainerArea.value.length;
-    }
-  }
-  //-->
-</script>
-<script type="text/javascript">
-
-  function check_email(elem, helperMsg) {
-  var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-  if (!(filter.test(elem.value))) {
-    alert(helperMsg);
-    elem.focus();
-    return false;
-  } else {
-    return true;
-    }
-  }
-
-  function check_empty(elem, helperMsg) {
-  if(elem.value.length == 0){
-    alert(helperMsg);
-    elem.focus(); // set the focus to this input
-    return false;
-  } else {
-    return true;
-    }
-  }
-
-  function check_alpha(elem, helperMsg){
-  var alphaExp = /^[a-zA-Z]+$/;
-  if(!(elem.value.match(alphaExp))){
-    alert(helperMsg);
-    elem.focus();
-    return false;
-  } else {
-    return true;
-    }
-  }
-
-
-
-  function check_fields() {
-    var firstname = document.getElementById('first_name');
-    var lastname = document.getElementById('last_name');
-    var company = document.getElementById('company');
-    var email = document.getElementById('email');
-    var allcheck;
-
-    //first name check
-    if(check_empty(firstname,"Please enter your first name") && check_alpha(firstname,"Please enter a first name without numbers")) {
-      allcheck = "pass";
-    } else {
-      return false;
-    }
-
-
-    //last name check
-    if(check_empty(lastname,"Please enter your last name") && check_alpha(lastname,"Please enter a last name without numbers")) {
-      allcheck = "pass";
-    } else {
-      return false;
-    }
-
-
-    //company check
-    if(check_empty(company,"Please enter your company name")) {
-      allcheck = "pass";
-    } else {
-      return false;
-    }
-
-    //email check
-    if (check_email(email,"Please enter a valid email address")) {
-      allcheck = "pass";
-    } else {
-      return false;
-    }
-
-    if (allcheck == "pass") {
-      return true;
-    }
-
-  }
-</script>
-
-
-<style type="text/css">
-#ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 97%;margin: 0 auto;}
-#ja-wrapper {min-width: 100%;}
-</style>
-<link href="https://plus.google.com/100105050205326006857" rel="publisher">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//en" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en"><head>
+	<title>Adobe Social Privacy Policy</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=8">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="Web Analytics and Online Business Optimization Platform by Omniture. Web Analytics, Online Business Optimization, Search Management, and More.">
+	<meta name="keywords" content="web analytics, web analysis, web statistics, online business optimization, omniture, sitecatalyst, discover, data warehouse, searchcenter">
+	<meta name="category" content="">
+	<meta name="verticals" content="">
+	<meta name="personas" content="">
+	<meta name="tags" content="">
+	<meta name="verify-v1" content="T5wn84R+6GRfeeLpvX8NHaowkKpDXFwYZmkEBhkD9V4=">
+	
+	<link rel="alternate" type="application/rss+xml" title="Insight. Action. Uplift. The Omniture Blog." href="http://feeds.feedburner.com/omniture/blogs/all">
+	<link rel="shortcut icon" href="http://assets.omniture.com/global/images/general/favicon.ico">
+	<link rel="stylesheet" type="text/css" media="screen" href="http://style.omniture.com/stylesheet.css?lang=en&amp;section=privacy&amp;ignore_skin=0">
 </head>
+<body id="privacy" class=" en privacy context_optional ">
 
-<body id="bd" class="fs3 Others privacy">
-    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-  <script>
-    window.fbAsyncInit = function() {
-      FB.init({appId: '7204941866', status: true, cookie: true,
-               xfbml: true});
-    };
-    (function() {
-      var e = document.createElement('script'); e.async = true;
-      e.src = document.location.protocol +
-        '//connect.facebook.net/en_US/all.js';
-      document.getElementById('fb-root').appendChild(e);
-    }());
-  </script>
-  <a name="Top" id="Top"></a>
-<ul class="accessibility">
-  <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
-  <li><a href="#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
-  <li><a href="#ja-col1" title="Skip to first column">Skip to first column</a></li>
-  <li><a href="#ja-col2" title="Skip to second column">Skip to second column</a></li>
-</ul>
-<div id="mantleBG2">
-<div id="footerBG">
-
-<div id="ja-wrapper">
-<!-- STARTHeaderContainer -->
-<!-- BEGIN: HEADER -->
-<div id="ja-headerwrap">
-  <div class="logo">
-    <a href="http://www.contextoptional.com" target="_blank"><img src="/images/adobe_logo.png" alt="Adobe Systems Incorporated"></a>
-  </div>
-
-    <!-- BEGIN: MAIN NAVIGATION -->
-        <div id="ja-mainnavwrap">
-      <div id="ja-mainnav" class="clearfix">
-      <ul class="menu"><li class="item1"><a href="http://www.contextoptional.com/"><span>Home</span></a></li><li class="parent item27"><a href="/products"><span>Products</span></a><ul><li class="item53"><a href="/products/publisher"><span>Publisher</span></a></li><li class="item54"><a href="/products/moderation"><span>Moderation</span></a></li><li class="parent item55"><a href="/products/applications"><span>Applications</span></a><ul><li class="item56"><a href="/products/applications/contest"><span>Contest</span></a></li><li class="item57"><a href="/products/applications/poll"><span>Poll</span></a></li><li class="item58"><a href="/products/applications/virtual-gifts"><span>Virtual Gifts</span></a></li><li class="item60"><a href="/products/applications/coupon"><span>Coupon</span></a></li><li class="item61"><a href="/products/applications/sweepstakes"><span>Sweepstakes</span></a></li><li class="item62"><a href="/products/applications/vote"><span>Vote</span></a></li><li class="item63"><a href="/products/applications/catalog"><span>Catalog</span></a></li><li class="item154"><a href="/products/applications/fan-count"><span>Fan Count</span></a></li><li class="item155"><a href="/products/applications/form"><span>Form</span></a></li><li class="item156"><a href="/products/applications/text-media-pages"><span>Text/Media Pages</span></a></li><li class="item172"><a href="/products/applications/quiz"><span>Quiz</span></a></li><li class="item199"><a href="/products/applications/premium-applications"><span>Premium Applications</span></a></li></ul></li><li class="item64"><a href="/products/analytics"><span>Analytics</span></a></li><li class="item65"><a href="/products/admin"><span>Admin</span></a></li><li class="item211"><a href="/products/ad-management"><span>Ad Management</span></a></li></ul></li><li class="parent item37"><a href="/services"><span>Services</span></a><ul><li class="item76"><a href="/services/strategy"><span>Strategy</span></a></li><li class="item77"><a href="/services/training"><span>Training</span></a></li><li class="item78"><a href="/services/design"><span>Design</span></a></li><li class="item79"><a href="/services/community-management"><span>Community Management</span></a></li></ul></li><li class="parent item2"><a href="/solutions"><span>Solutions</span></a><ul><li class="item67"><a href="/solutions/automotive"><span>Automotive</span></a></li><li class="item70"><a href="/solutions/cause-marketing"><span>Cause Marketing</span></a></li><li class="item68"><a href="/solutions/consumer-packaged-goods"><span>CPG</span></a></li><li class="item74"><a href="/solutions/entertainment"><span>Entertainment</span></a></li><li class="item69"><a href="/solutions/financial-services"><span>Financial Services</span></a></li><li class="item71"><a href="/solutions/restaurants"><span>Restaurants</span></a></li><li class="item72"><a href="/solutions/retail"><span>Retail</span></a></li><li class="item73"><a href="/solutions/technology"><span>Technology</span></a></li><li class="item221"><a href="/solutions/google-pages"><span>Google+ Pages</span></a></li></ul></li><li class="parent item41"><a href="/customers"><span>Customers</span></a><ul><li class="item82"><a href="/customers/select-customers"><span>Select Customers</span></a></li><li class="item81"><a href="/customers/agencies"><span>Agencies</span></a></li></ul></li><li class="parent item50"><a href="/partners"><span>Partners</span></a><ul><li class="item94"><a href="/partners/platform-partners"><span>Platform Partners</span></a></li><li class="item96"><a href="/partners/integration-partners"><span>Integration Partners</span></a></li><li class="item92"><a href="/partners/channel-partners"><span>Channel Partners</span></a></li></ul></li><li class="parent item48"><a href="/resources"><span>Resources</span></a><ul><li class="parent item91"><a href="/resources/case-studies"><span>Case Studies</span></a><ul><li class="item261"><a href="/resources/case-studies/expedia-friendtrips"><span>Expedia FriendTrips</span></a></li><li class="item187"><a href="/resources/case-studies/kohls-cares"><span>Kohl's Cares</span></a></li><li class="item90"><a href="/resources/case-studies/barbie-holiday"><span>Barbie: Holiday</span></a></li><li class="item87"><a href="/resources/case-studies/einstein-bros-bagels"><span>Einstein's Bros. Bagels</span></a></li><li class="item183"><a href="/resources/case-studies/microsoft-bing-a-thon"><span>Microsoft: Bing-A-Thon</span></a></li><li class="item85"><a href="/resources/case-studies/travel-channel-kidnap"><span>Travel Channel: Kidnap</span></a></li><li class="item160"><a href="/resources/case-studies/toyota-prius"><span>Toyota Prius</span></a></li><li class="item188"><a href="/resources/case-studies/live-nation"><span>Live Nation</span></a></li><li class="item202"><a href="/resources/case-studies/purina-one"><span>Purina ONE</span></a></li></ul></li><li class="parent item174"><a href="/resources/guides"><span>Guides</span></a><ul><li class="item175"><a href="/resources/guides/making-great-facebook-application"><span>10 Tips For Making A Great Facebook Application</span></a></li><li class="item184"><a href="/resources/guides/indications-you-are-ready-for-social-media-management-system"><span>10 Indications You Are Ready For A Social Media Management System</span></a></li><li class="item189"><a href="/resources/guides/questions-to-ask-social-marketing-partner"><span>10 Crucial Questions To Ask Your Social Marketing Partner</span></a></li><li class="item195"><a href="/resources/guides/after-the-giveaway"><span>After The Giveaway</span></a></li><li class="item198"><a href="/resources/guides/philanthropy-and-cause-marketing"><span>Philanthropy and Cause Marketing For Social Good</span></a></li></ul></li><li class="item179"><a href="/resources/webinars"><span>Webinars</span></a></li><li class="item241"><a href="/resources/videos"><span>Videos</span></a></li></ul></li><li class="parent item49"><a href="/company"><span>Company</span></a><ul><li class="item104"><a href="/company/about-us"><span>About Us</span></a></li><li class="item106"><a href="/company/join-us"><span>Join Us</span></a></li><li class="item107"><a href="/company/contact-us"><span>Contact Us</span></a></li><li class="item181"><a href="/company/in-the-news"><span>In The News</span></a></li><li class="item190"><a href="/company/press-releases"><span>Press Releases</span></a></li><li class="item193"><a href="/company/events/range.listevents/-"><span>Events</span></a></li></ul></li><li class="item108"><a href="/blog"><span>Blog</span></a></li></ul>
-      </div>
-    </div>
-        <!-- END: MAIN NAVIGATION -->
-
-      <div id="ja-search">
-      <form action="index.php" method="post" class="search">
-	<div class="search">
-		<input name="searchword" id="mod_search_searchword" maxlength="20" type="text" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">
-		    <a onclick="jQuery('form.search').submit()" class="searchbutton"></a>	</div>
-	<input type="hidden" name="task" value="search">
-	<input type="hidden" name="option" value="com_search">
-	<input type="hidden" name="Itemid" value="200">
-</form>
-    </div>
-    <div class="access"><a href="http://sms.contextoptional.com">Access Social Marketing Suite</a></div>
-  
-</div>
-<!-- END: HEADER -->
-<!-- ENDHeaderContainer -->
-
-
-<div id="ja-containerwrap">
-  <div id="ja-container" class="clearfix">
-             <div id="ja-banner">
-         
-<div id="mantlecontainer"> 
-<img src="/templates/ja_purity/images/mantels/mantel_company.png" border="0"> 
-</div> 
-
-                <div id="ja-pathway">
-          <span class="breadcrumbs pathway">
-<a href="http://www.contextoptional.com/" class="pathway">Home</a> <img src="/templates/ja_purity/images/arrow.png" alt=""> Application Privacy Statement</span>
-
-        </div>
-              </div>
-          <div id="ja-mainbody" class="clearfix">
-
-    <!-- BEGIN: CONTENT -->
-    <div id="ja-contentwrap">
-    <div id="ja-content">
-
-      
-
-      
-<h2 class="contentheading">
-			Application Privacy Statement	</h2>
-
-
-
-
-<div class="article-content">
-<p>This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”).   The Application is provided by Context Optional, Inc. (and may be provided by Context Optional on behalf of a Context Optional licensor or partner (“Application Partner”).  By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.</p>
-<h2 class="divide">WHAT PERSONAL INFORMATION DOES CONTEXT OPTIONAL COLLECT?</h2>
-<p>We collect the following types of information from our users:</p>
-<p>Personal Information You Provide to Us:<br> We may receive and store any information you submit to the Application (or otherwise authorize us to obtain – such as, from (for example) your Facebook account). The types of personal information collected may include your full name, email address, gender, IP address, browser information, username, demographic information, and any other information necessary for us to provide the Application services.</p>
-<p>Personal Information Collected Automatically:<br> We receive and store certain types of usage related information whenever you interact with Application.  For example, Context Optional may automatically receive and record information regarding your computer’s IP address, browser information, Facebook user ID, Facebook Page fan status, and URLs accessed.  Such information may be shared in aggregate (non-personally identifiable) form with our partners.</p>
-<h2 class="divide">HOW DOES CONTEXT OPTIONAL USE THE INFORMATION IT COLLECTS?</h2>
-<p>Context uses the information described in this Privacy Statement (i) internally, to analyze, develop and improve its products and services, and (ii) as set forth below in the “Will Context Share any of the personal information it Collects” section below.</p>
-<h2 class="divide">APPLICATION PARTNER TREATMENT OF PERSONAL INFORMATION.</h2>
-<p>Context may provide personal information to the applicable Application Partner.  The Application Partner’s use of your personal information is subject to the Application Partner’s separate privacy policy – and not this Privacy Statement.  The Application Partner’s privacy policy is linked to from within the Partner’s Facebook application.</p>
-<h2 class="divide">WILL CONTEXT OPTIONAL SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</h2>
-<p>Personal information about our users is an integral part of our business.  We neither rent nor sell your personal information to anyone (with the exception of sharing your information with an applicable Application Partner – see the “Application Partner Treatment” section above).  We share your personal information only as described below.</p>
-<p>Application Partners: We will share your personal information with an applicable Application Partner (see the “Application Partner Treatment” section above).</p>
-<p>Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.    Unless we tell you differently, Context Optional’s agents do not have any right to use personal information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of personal information for the above purposes. Business Transfers: In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that are transferred.  Moreover, if Context Optional, or substantially all of its assets were acquired, or in the unlikely event that Context Optional goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Context Optional may continue to use your personal information as set forth in this policy.</p>
-<p>Protection of Context Optional and Others: We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Context Optional, our employees, our users, or others.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
-<p>With Your Consent: Except as set forth above, you will be notified when your personal information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
-<p>CONDITIONS OF USE.</p>
-<p>If you decide to use or otherwise access the Application, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.</p>
-<h2 class="divide">THIRD PARTY APPLICATIONS/WEBSITES.</h2>
-<p>The Application may permit you to link to other applications or websites.  Such third party applications/websites are not under Context Optional’s control, and such links do not constitute an endorsement by Context Optional of those other applications/websites or the services offered through them.  The privacy and security practices of such third party application/websites linked to the Application are not covered by this Privacy Statement, and Context Optional is not responsible for the privacy or security practices or the content of such websites.</p>
-<h2 class="divide">WHAT PERSONAL INFORMATION CAN I ACCESS?</h2>
-<p>Context Optional allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information.  This list may change in the event the Application changes.</p>
-<ul>
-<li>Account and user profile information</li>
-<li>User e-mail address, if applicable</li>
-<li>Facebook profile information, if applicable</li>
-<li>User preferences</li>
-<li>Application specific data</li>
-</ul>
-<h2 class="divide">CAN CHILDREN USE THE APPLICATION?</h2>
-<p>Our site and the services available through Context Optional are not intended for children under the age of 13.  Context Optional does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents’ consent before giving out any personal information.  We encourage you to participate in your child’s web experience.</p>
-<h2 class="divide">CHANGES TO THIS PRIVACY STATEMENT.</h2>
-<p>Context Optional may amend this Privacy Statement from time to time.  Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used.  If we make changes in the way we use personal information, we will notify you by [INSERT].  Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Application after such changes have been first posted.</p>
-<h2 class="divide">QUESTIONS OR CONCERNS.</h2>
-<p>If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = 'm&#97;&#105;lt&#111;:';
- var suffix = '';
- var attribs = '';
- var path = 'hr' + 'ef' + '=';
- var addy62928 = 'pr&#105;v&#97;cy' + '&#64;';
- addy62928 = addy62928 + 'c&#111;nt&#101;xt&#111;pt&#105;&#111;n&#97;l' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy62928 + suffix + '\'' + attribs + '>' );
- document.write( addy62928 );
- document.write( '<\/a>' );
- //-->
- </script><a href="mailto:privacy@contextoptional.com">privacy@contextoptional.com</a><script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span>].  We will make every effort to resolve your concerns.</p>
-<p><strong>Effective Date: January 1, 2011</strong></p>
-
-</div>
-
-
-<span class="article_separator">&nbsp;</span>
-
-
-
-
-    </div>
-    </div>
-    <!-- END: CONTENT -->
-
-        <!-- BEGIN: LEFT COLUMN -->
-    <div id="ja-col1">
-      		<div class="moduletable">
-					<ul class="menu"><li class="item185"><a href="/company"><span>Company</span></a></li><li class="item147"><a href="/company/about-us"><span>About Us</span></a></li><li class="item149"><a href="/company/join-us"><span>Join Us</span></a></li><li class="item150"><a href="/company/contact-us"><span>Contact Us</span></a></li><li class="item182"><a href="/company/in-the-news"><span>In The News</span></a></li><li class="item191"><a href="/company/press-releases"><span>Press Releases</span></a></li><li class="item152"><a href="/company/events/range.listevents/-"><span>Events</span></a></li></ul>		</div>
+<!-- aggregrated js -->
+<script language="javascript" type="text/javascript" src="http://scripts.omniture.com/javascript.js"></script>
 	
-    </div><br>
-    <!-- END: LEFT COLUMN -->
-    
-    </div>
+<!-- Test&Target Presets -->
+<script language="javascript" type="text/javascript" src="http://scripts.omniture.com/global/scripts/targeting/dyn_prop.php"></script>
 
-        <!-- BEGIN: RIGHT COLUMN -->
-    <div id="ja-col2">
-      		<div class="jamod module" id="Mod91">
-			<div>
-				<div>
-					<div>
-												<div class="jamod-content"><p><a href="http://news.efrontier.com/contactme-co.html" target="_blank"><img src="/templates/ja_purity/images/box_SMS.png" border="0"></a></p></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	
-    </div><br>
-    <!-- END: RIGHT COLUMN -->
-    
-  </div>
-</div>
-
-<!-- STARTFooterContainer -->
-<!-- BEGIN: FOOTER -->
-<div id="ja-footerwrap">
-  <div class="announce">
-    <a class="logo" href="http://www.adobe.com"></a>
-    Context Optional is now an Adobe company<br>
-    <a href="http://www.adobe.com/aboutadobe/pressroom/pressreleases/201201/011612AdobeCloseEfficientFrontier.html" target="_blank">Read the Release &gt;</a><br>
-    <a href="http://www.adobe.com/aboutadobe/pressroom/pressmaterials/pdfs/011612AdobeCloseEfficientFrontierFAQ.pdf" target="_blank">Acquisition FAQ &gt;</a>
-  </div>
-  <div id="ja-footer" class="clearfix">
-    <!--div id="ja-footnav">
-      
-    </div-->
-    <div class="column">
-    <h3>Product Tour</h3>
-    <ul>
-      <li><a href="/products/publisher">Publisher</a></li>
-      <li><a href="/products/moderation">Moderation</a></li>
-      <li><a href="/products/applications">Applications</a></li>
-      <li><a href="/products/analytics">Analytics</a></li>
-      <li><a href="/products/admin">Admin</a></li>
-    </ul>
-    </div>
-    <div class="column">
-    <h3>Company Info</h3>
-    <ul>
-      <li><a href="/company/about-us">About Us</a></li>
-      <li><a href="/blog">Blog</a></li>
-      <li><a href="/company/in-the-news">News &amp; Events</a></li>
-      <li><a href="/company/join-us">Jobs</a></li>
-      <li><a href="http://www.contextoptional.com/index.php?option=com_xmap&amp;sitemap=1">Sitemap</a></li>
-      <li><a href="http://www.omniture.com/en/privacy/context-optional">Privacy Policy</a></li>
-      <li><a href="http://contextoptional.com/terms">Terms of Use</a></li>
-    </ul>
-    </div>
-    <div class="column lastcol">
-    <h3>Contact Us</h3>
-    <ul>
-      <li><a href="http://news.efrontier.com/contactme-co.html" target="_blank" class="footer_email">Request Info</a></li>
-      <li><a href="http://www.facebook.com/contextoptional" target="_blank" class="footer_fb">Facebook</a></li>
-      <li><a href="http://www.twitter.com/contextoptional" target="_blank" class="footer_twitter">Twitter</a></li>
-      <li><a href="http://www.ringcentral.com" target="Callback_RingMe" onclick="var wind = window; var winop = wind.open; winop(&quot;http://www.ringcentral.com/ringme/?uc=539071E97A367673318C4754CF2D0DC3735755751495,0,&amp;s=no&amp;v=2&quot;, &quot;Callback_RingMe&quot;, &quot;resizable=no,width=380,height=360&quot;); return false;" class="footer_phone">Phone</a></li>
-    </ul>
-    </div>
-    <div class="copyright">
-      <div>Copyright © 2012 Adobe Systems Incorporated. All Rights Reserved.</div>
-
-    </div>
-
-    <!--div class="ja-cert">
-
-      <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
-      <img src="http://www.contextoptional.com/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS" />
-      </a>
-      <a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
-      <img src="http://www.contextoptional.com/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional" />
-      </a>
-    </div-->
-  </div>
-</div>
-</div>
-<!-- END: FOOTER -->
-<!-- ENDFooterContainer -->
-</div>
-</div>
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<div class="mboxDefault"></div>
 <script type="text/javascript">
-_uacct = "UA-2088594-2";
-urchinTracker();
+mboxCreate('top_of_body');
 </script>
+
+<!-- MAIN CONTENT -->
+
+<!-- WRAPPER START -->
+<div id="wrapper">
+	
+	<div id="header">
+		<a id="logo" href="/en/" alt="Omniture - A leader in Online Business Optimization"></a>
+		<span id="main-navigation" class="ui-helper-hidden">
+        
+<ul id="nav_L1">
+	<li id="nav_L1_0">
+		<a class="main" href="/en/products/online_business_optimization" title="Products">Products</a>
+		<ul>
+			<li><a href="/en/products/online-business-optimisation" title="Online Business Optimization">Online Business Optimization</a></li>
+			<li><a href="/en/products/digital-marketing-suite" title="Digital Marketing Suite">Digital Marketing Suite</a></li>
+			<li><a href="/en/products/social" title="Social" class="daddy">Social</a>
+		<ul>
+			<li><a href="/en/products/social-analytics" title="SocialAnalytics">SocialAnalytics</a></li>
+		</ul></li>
+			<li><a href="/en/products/mobile-analytics" title="Mobile">Mobile</a></li>
+			<li><a href="/en/products/advertising" title="Advertising" class="daddy">Advertising</a>
+		<ul>
+			<li><a href="/en/products/advertising/searchcenter" title="SearchCenter+">SearchCenter+</a></li>
+			<li><a href="/en/products/advertising/audience-manager" title="AudienceManager">AudienceManager</a></li>
+			<li><a href="/en/products/advertising/audience-research" title="AudienceResearch">AudienceResearch</a></li>
+		</ul></li>
+			<li><a href="/en/products/conversion" title="Conversion" class="daddy">Conversion</a>
+		<ul>
+			<li><a href="/en/products/conversion/merchandising" title="Merchandising">Merchandising</a></li>
+			<li><a href="/en/products/conversion/publish" title="Publish">Publish</a></li>
+			<li><a href="/en/products/conversion/recommendations" title="Recommendations">Recommendations</a></li>
+			<li><a href="/en/products/conversion/scene7" title="Scene7">Scene7</a></li>
+			<li><a href="/en/products/conversion/search-and-promote" title="Search&amp;Promote">Search&amp;Promote</a></li>
+			<li><a href="/en/products/conversion/test-and-target" title="Test&amp;Target">Test&amp;Target</a></li>
+			<li><a href="/en/products/conversion/test-and-target11" title="Test&amp;Target1:1">Test&amp;Target1:1</a></li>
+		</ul></li>
+			<li><a href="/en/products/analytics" title="Analytics" class="daddy">Analytics</a>
+		<ul>
+			<li><a href="/en/products/analytics/sitecatalyst" title="SiteCatalyst">SiteCatalyst</a></li>
+			<li><a href="/en/products/analytics/survey" title="Survey">Survey</a></li>
+			<li><a href="/en/products/analytics/discover" title="Discover">Discover</a></li>
+		</ul></li>
+			<li><a href="/en/products/multi-channel-analytics" title="Multichannel" class="daddy">Multichannel</a>
+		<ul>
+			<li><a href="/en/products/multi-channel-analytics/insight" title="Insight">Insight</a></li>
+			<li><a href="/en/products/multi-channel-analytics/insight-retail" title="Insight for Retail">Insight for Retail</a></li>
+		</ul></li>
+			<li><a href="/en/products/platform" title="Platform" class="daddy">Platform</a>
+		<ul>
+			<li><a href="/en/products/platform/genesis" title="Genesis">Genesis</a></li>
+			<li><a href="/en/products/platform/closed-loop-marketing" title="Closed Loop Marketing">Closed Loop Marketing</a></li>
+			<li><a href="/en/products/platform/tag-manager" title="TagManager">TagManager</a></li>
+			<li><a href="/en/products/platform/data-warehouse" title="DataWarehouse">DataWarehouse</a></li>
+		</ul></li>
+			<li><a href="/en/products/tours" title="Product Tours">Product Tours</a></li>
+		</ul>
+	</li>
+	<li id="nav_L1_1">
+		<a class="main" href="/en/community" title="Community">Community</a>
+		<ul>
+			<li><a href="/en/ideas" title="Idea Exchange">Idea Exchange</a></li>
+			<li><a href="/en/community/developer" title="Developer Connection">Developer Connection</a></li>
+			<li><a href="/en/community/blogs" title="Blogs">Blogs</a></li>
+			<li><a href="/en/community/customers.omniture.com" title="Customers.Omniture.com">Customers.Omniture.com</a></li>
+			<li><a href="/en/community/events" title="Events">Events</a></li>
+			<li><a href="/en/community/usergroups" title="User Groups">User Groups</a></li>
+			<li><a href="/en/community/beta" title="Beta Test Program">Beta Test Program</a></li>
+			<li><a href="/en/community/uig" title="User Insight Group">User Insight Group</a></li>
+		</ul>
+	</li>
+	<li id="nav_L1_2">
+		<a class="main" href="/en/education" title="Training">Training</a>
+		<ul>
+			<li><a href="/en/education/courses" title="Course Information" class="daddy">Course Information</a>
+		<ul>
+			<li><a href="/en/education/courses/sbu" title="SiteCatalyst">SiteCatalyst</a></li>
+			<li><a href="/en/education/courses/testandtarget" title="Test&amp;Target">Test&amp;Target</a></li>
+			<li><a href="/en/education/courses/discover" title="Discover">Discover</a></li>
+			<li><a href="/en/education/courses/dop_analyst" title="Insight">Insight</a></li>
+			<li><a href="/en/education/courses/searchcenter" title="SearchCenter">SearchCenter</a></li>
+			<li><a href="/en/education/courses/merchandising" title="Merchandising">Merchandising</a></li>
+			<li><a href="/en/education/courses/online_marketing_suite" title="Online Marketing Suite">Online Marketing Suite</a></li>
+			<li><a href="/en/education/courses/sitesearch" title="SiteSearch">SiteSearch</a></li>
+			<li><a href="/en/education/courses/survey" title="Survey">Survey</a></li>
+		</ul></li>
+			<li><a href="/en/education/certification" title="Certification Program" class="daddy">Certification Program</a>
+		<ul>
+			<li><a href="/en/education/certification/implementation" title="Implementation">Implementation</a></li>
+			<li><a href="/en/education/certification/digital_analyst" title="Digital Analyst">Digital Analyst</a></li>
+			<li><a href="/en/education/certification/insight_analyst" title="Insight Analyst">Insight Analyst</a></li>
+			<li><a href="/en/education/certification/insight_architect" title="Insight Architect">Insight Architect</a></li>
+			<li><a href="/en/education/certification/site_catalyst" title="SiteCatalyst">SiteCatalyst</a></li>
+			<li><a href="/en/education/certification/support" title="Support">Support</a></li>
+			<li><a href="/en/education/certification/test_target" title="Test&amp;Target">Test&amp;Target</a></li>
+		</ul></li>
+			<li><a href="/en/education/academic_initiative" title="Academic Initiative">Academic Initiative</a></li>
+		</ul>
+	</li>
+	<li id="nav_L1_3">
+		<a class="main" href="/en/resources" title="Resources">Resources</a>
+		<ul>
+			<li><a href="/en/resources/guides" title="Guides">Guides</a></li>
+			<li><a href="/en/resources/webinars" title="Webinars">Webinars</a></li>
+			<li><a href="/en/resources/case_studies" title="Success Stories">Success Stories</a></li>
+			<li><a href="/en/surveys" title="Surveys">Surveys</a></li>
+			<li><a href="/en/resources/testimonials" title="Testimonials">Testimonials</a></li>
+			<li><a href="/en/resources/articles" title="Articles">Articles</a></li>
+			<li><a href="/en/resources/cmo.com" title="CMO.com">CMO.com</a></li>
+		</ul>
+	</li>
+	<li id="nav_L1_4">
+		<a class="main" href="/en/partners" title="Partners">Partners</a>
+		<ul>
+			<li><a href="/en/partner/browse" title="Browse Resources">Browse Resources</a></li>
+			<li><a href="/en/partners/showcase" title="Partner Showcase">Partner Showcase</a></li>
+		</ul>
+	</li>
+	<li id="nav_L1_5">
+		<a class="main" href="/en/company" title="Company">Company</a>
+		<ul>
+			<li><a href="/en/aboutadobe" title="About Adobe">About Adobe</a></li>
+			<li><a href="/en/company/adobe_faq" title="Acquisition by Adobe FAQ">Acquisition by Adobe FAQ</a></li>
+			<li><a href="/en/investors" title="Investor Relations">Investor Relations</a></li>
+			<li><a href="/en/company/press_room" title="Press Room">Press Room</a></li>
+			<li><a href="/en/company/customers" title="Customer Showcase">Customer Showcase</a></li>
+			<li><a href="/en/company/analyst_insight" title="Analyst Insight">Analyst Insight</a></li>
+			<li><a href="/en/privacy" title="Privacy Center" class="daddy">Privacy Center</a>
+		<ul>
+			<li><a href="/en/privacy/policy" title="Privacy Policy">Privacy Policy</a></li>
+			<li><a href="/en/privacy/product" title="Products and Services Privacy Statement">Products and Services Privacy Statement</a></li>
+			<li><a href="/en/privacy/2o7" title="2o7.net Explained">2o7.net Explained</a></li>
+			<li><a href="/en/privacy/audience-manager" title="AudienceManager">AudienceManager</a></li>
+			<li><a href="/en/privacy/efficient-frontier" title="Adobe AdLens">Adobe AdLens</a></li>
+			<li><a href="/en/privacy/context-optional" title="Adobe Social">Adobe Social</a></li>
+			<li><a href="/en/privacy/visualsciences" title="VisualSciences Privacy Center" class="daddy">VisualSciences Privacy Center</a>
+		<ul>
+			<li><a href="/en/privacy/visualsciences/policy" title="Privacy Policy">Privacy Policy</a></li>
+			<li><a href="/en/privacy/visualsciences/resources" title="Additional Resources">Additional Resources</a></li>
+			<li><a href="/en/privacy/visualsciences/terms" title="Terms of Use">Terms of Use</a></li>
+		</ul></li>
+		</ul></li>
+			<li><a href="/en/careers" title="Careers">Careers</a></li>
+		</ul>
+	</li>
+	<li id="nav_L1_6">
+		<a class="main" href="/en/contact" title="Contact">Contact</a>
+		<ul>
+			<li><a href="/en/contact/support" title="Client Care">Client Care</a></li>
+			<li><a href="/en/contact/sales" title="Sales">Sales</a></li>
+			<li><a href="/en/contact/feedback" title="Feedback">Feedback</a></li>
+			<li><a href="/en/contact/offices" title="Office Locations">Office Locations</a></li>
+			<li><a href="/en/contact/email" title="General Inquiry">General Inquiry</a></li>
+			<li><a href="/en/contact/company" title="Company Information">Company Information</a></li>
+		</ul>
+	</li>
+</ul>
+        </span>
+		<div id="izone_652"><div id="sitesearch" style="">
+	<form name="searchform" action="http://search.omniture.com" method="get">
+		<input type="image" class="button" src="http://assets.omniture.com/en/images/skins/default/transformation/002251.global.background.search-box.18x18.png" name="">
+		<input type="text" class="text" name="q" id="q" value="" autocomplete="off" tabindex="1">
+		<div id="autocomplete"></div>
+		<input type="hidden" value="en" name="lang">
+	</form>
+</div></div>
+	</div>
+	<div id="login">
+		<div id="izone_289"><a id="logininto" href="http://my.omniture.com" title="Click here to login to Omniture applications">Click here to login to Omniture applications</a>
+<!--
+<a id="logininto" onclick="javascript: Effect.Combo('loginmenu', {duration: 0.2}); Effect.CloseIfOpen('internationalmenu', {duration: 0.1})" title="Click here to login to Omniture applications">Click here to login to Omniture applications</a>
+<div id="loginmenu" style="display: none">
+	<ul>
+		<li><a href="http://my.omniture.com">Omniture SiteCatalyst</a></li>
+		<li><a href="http://my.omniture.com">Omniture Discover</a></li>
+		<li><a href="http://my.omniture.com">Omniture SearchCenter</a></li>
+		<li><a href="http://my.omniture.com">Omniture Targeting</a></li>
+		<li><a href="http://admin.offermatica.com">Omniture Testing</a></li>
+		<li><a href="http://omniture.com/en/company/acquisitions/visualsciences/login">Omniture SiteCatalyst HBX</a></li>
+		<li><a href="http://omniture.com/en/company/acquisitions/visualsciences/login">Omniture SiteSearch</a></li>
+		<li><a href="http://omniture.com/en/company/acquisitions/visualsciences/login">Omniture Publish</a></li>
+	</ul>
+	<a href="http://my.omniture.com" id="loginmenu_sitecatalyst" class="loginmenu_item"></a>
+	<a href="http://my.omniture.com" id="loginmenu_searchcenter" class="loginmenu_item"></a>
+	<a href="http://my.omniture.com" id="loginmenu_discover" class="loginmenu_item"></a>
+	<a href="http://my.omniture.com" id="loginmenu_testtarget" class="loginmenu_item"></a>
+</div>
+-->
+<a id="international" onclick="javascript: Effect.Combo('internationalmenu', {duration: 0.2}); Effect.CloseIfOpen('loginmenu', {duration: 0.1})" title="Click here to select your language preference">Click here to select your language preference</a>
+<div id="internationalmenu" style="display: none" "="">
+	
+	<ul>
+	<li class=" selected"><a href="/en">English</a></li>
+	<li class=""><a href="/de">Deutsch</a></li>
+	<li class=""><a href="/es">Español</a></li>
+	<li class=""><a href="/fr">Français</a></li>
+	<li class=""><a href="/zh">简体中文</a></li>
+	<li class=""><a href="/jp">日本語</a></li>
+	<li class=""><a href="/ko">한국어</a></li>
+</ul>
+</div>
+
+<a id="slogan" href="/en/products" title="Click here to learn more about Online Business Optimization">Click here to learn more about Online Business Optimization</a></div>
+	</div>
+	<div id="container">
+		<div id="middle">
+			
+<div id="col_right">
+  <div class="sidebar">
+		<div id="izone_688"><div id="izone_690"><div class="first">
+	<div class="mboxDefault">
+	<div class="sidebar_block requestlivedemo">
+		<h4>Contact Us</h4>
+		<ul>
+			<li><a href="/contact"><img style="margin: 4px 0" width="135" height="22" src="http://omnituremarketing.tt.omtrdc.net/m2/omnituremarketing/ubox/image?mbox=sidebar_ph_pic&amp;mboxDefault=http%3A%2F%2Fs7d5.scene7.com%2Fis%2Fimage%2FOmnitureMarketing%2FSalesPhoneNumber%3F%24fsize%3D34%26%24spnum%3D877.722.7088%26layer%3Dcomp%26wid%3D135%26hei%3D22"></a></li>
+			<li><a href="/contact/request">Schedule meeting</a></li>
+			<li><a href="/contact/email">Send feedback</a></li>
+		</ul>
+	</div>
+	</div>
+	<script language="javascript" type="text/javascript">
+		mboxCreate('sidebar_global_phone');
+	</script>
+</div></div>
+<div class="second">
+	<div id="izone_755"><div class="sidebar_block bestpracticeguides">
+	<h4>Best Practice Guides</h4>
+	<script language="javascript" type="text/javascript">
+		mboxCreate('sidebar_recommendations','categoryId=EN:Guide:1');
+	</script>
+	<ul><li><a href="/en/resources/guides">View all guides</a></li></ul>
+</div>
+
+<div class="sidebar_block casestudies">
+	<h4>Case Studies</h4>
+	<script language="javascript" type="text/javascript">
+		mboxCreate('sidebar_recommendations','categoryId=EN:Success story:1');
+	</script>
+	<ul><li><a href="/en/resources/case_studies">View all Success Stories</a></li></ul>
+</div>
+
+<div class="sidebar_block viewwebinar">
+	<h4>On-demand Webinars</h4>
+	<script language="javascript" type="text/javascript">
+		mboxCreate('sidebar_recommendations','categoryId=EN:Webinar:1');
+	</script>
+	<ul><li><a href="/en/resources/webinars">View all webinars</a></li></ul>
+</div>
+
+<div class="sidebar_block links">
+	<h4>Follow Us</h4>
+	<ul>
+		<li><a href="http://twitter.com/omniture" target="_blank">Twitter: Omniture Updates</a></li>
+		<li><a href="http://twitter.com/omniturecare" target="_blank">Twitter: Omniture ClientCare</a></li>
+		<li><a href="http://twitter.com/OmnitureEMEA" target="_blank">Twitter: Omniture Europe</a></li>
+		<li><a href="http://www.facebook.com/omniture" target="_blank">Facebook</a></li>
+	</ul>
+</div></div>
+</div></div>
+  </div>
+  <div class="copy">
+	<h1 class="top">Adobe Social Privacy Statement </h1>
+<p>This privacy statement (“Privacy Statement”) provides information on how Adobe Social, an Adobe company, collects, uses and shares personally identifiable information submitted by, or otherwise obtained from, you in connection with the services Adobe Social provides to our Customers (“Services”). The Services may be provided by Adobe Social on behalf of a Adobe Social licensor or Customer (“Customer”). By using or otherwise accessing content provided by the Services, you acknowledge that you accept the practices and policies outlined in this Privacy Statement. </p>
+<p>The Services, as part of the Adobe Digital Marketing Suite, include the Social Marketing Suite, a software-as-a-service platform for managing social media presence.  The Services makes it easier for our Customers to: </p>
+<ul>
+	<li>Launch engaging applications as well as stay attuned to social trends;</li>
+	<li>Develop and publish content within social networks;</li>
+	<li>Provide promotions and other contests within social networks; and</li>
+	<li>Receive reporting and usage trends of its social media presence.</li>
+</ul>
+<h2>WHAT INFORMATION DOES ADOBE SOCIAL COLLECT? </h2>
+<p>We collect the following types of information from you on behalf of our Customers:</p>
+<ul>
+	<li>Information You Provide To Our Customers:
+ We may collect and store information you submit to our Customers who use the Services.  We may also collect and store information you have shared with our Customers, e.g.  from  your Facebook account. The information collected may include your full name, email address, gender, photos, username, demographic information, and information necessary to provide the Services.</li>
+	<li>Information Collected Automatically:
+ We collect and store certain types of usage related information whenever you interact with the Services. For example, Adobe Social may automatically collect and record information regarding your computer’s IP address, browser information, Facebook user ID, Facebook Page fan status, and browsing activities.</li>
+</ul>
+<p>Such information may be shared in aggregate (non-personally identifiable) form with our partners.</p>
+<h2> HOW DOES ADOBE SOCIAL USE THE INFORMATION IT COLLECTS?</h2>
+<p>Adobe Social uses the information it collects on behalf of our Customers to analyze, develop and improve its products and services internally, and to provide the Services as described above. </p>
+<h2>CUSTOMER TREATMENT OF PERSONAL INFORMATION</h2>
+<p> Adobe Social may provide personal information to Customers for whom we are providing the Services. Such Customers’ use of your personal information is subject to each of their respective  privacy policies – and not this Privacy Statement. Such Customers’ privacy policies are provided to you from within the  their respective applications, sweepstakes, promotions or webpages that you are accessing within the social network platform.  Adobe Social does not use any of your personal information for its own purposes other than as described within this Privacy Statement. </p>
+<h2>WILL ADOBE SOCIAL SHARE ANY OF THE PERSONAL INFORMATION IT COLLECTS WITH OTHER COMPANIES?</h2>
+<p>Personal information about users of the Services is an integral part of our business. We neither rent nor sell your personal information to anyone (with the exception of sharing your information with the specific Customer for whom we have collected your personal information – see the “Customer Treatment of Personal Information” section above). We may share your personal information as described below.</p>
+<p>Customers: We will share your personal information with the specific Customer for whom we have collected your personal information (see the “Customer Treatment of Personal Information” section above). </p>
+<p>Agents: We may employ other companies to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Adobe Social’s agents do not have any right to use personal information we share with them beyond what is necessary to assist us. Our agents use your personal information as described within this Privacy Statement.  You hereby consent to our sharing of personal information for the above purposes. </p>
+<p>Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, Customer information is typically one of the business assets that are transferred. Moreover, if Adobe Social, or substantially all of its assets were acquired, or in the unlikely event that Adobe Social goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Adobe Social may continue to use your personal information as set forth in this policy. </p>
+<p>Protection of Adobe Social and Others: We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Adobe Social, our employees, users of the Services, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. </p>
+<p>With Your Consent: Except as set forth above, you will be notified when your personal information may be shared with third parties, and you will be able to prevent the sharing of this information. </p>
+<h2>CONDITIONS OF USE </h2>
+<p>If you decide to use or otherwise access the Services, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. </p>
+<h2>THIRD PARTY APPLICATIONS/WEBSITES </h2>
+<p>The Services may permit you to link to other applications or websites. Such third party applications/websites are not under Adobe Social’s control, and such links do not constitute an endorsement by Adobe Social of those other applications/websites or the services offered through them. The privacy and security practices of such third party application/websites linked to the Services are not covered by this Privacy Statement, and Adobe Social is not responsible for the privacy or security practices or the content of such websites.</p>
+<h2> WHAT PERSONAL INFORMATION CAN I ACCESS? </h2>
+<p>To understand your options to access and modify your personal information, Adobe recommends you review the Customer's privacy policy for whom we are providing the Service to see what options the Customer provides you.  You may also be able to access the personal information you have consented to provide to our Customers through your use of the Services from within the social network you are using to access the Services. </p>
+<h2>CAN CHILDREN USE THE SERVICES? </h2>
+<p>Our site and the Services available through Adobe Social are not intended for children under the age of 13. Adobe Social does not knowingly or specifically collect information about children under the age of 13.</p>
+<h2> CHANGES TO THIS PRIVACY STATEMENT </h2>
+<p>Adobe may amend this Privacy Statement from time to time.  Use of information we collect is subject to the Privacy Statement in effect at the time such information is collected.  If we make a material change in the way we use personal information, we will post a notice on our homepage at least thirty days prior to making any material change.  Your continued use of the Services, including the use after the posting of any changes to this Privacy Statement, will be deemed acceptance by you of the Privacy Statement.</p>
+<h2>QUESTIONS OR CONCERNS</h2>
+<p>If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at <a href="mailto:privacy-officer@adobe.com">privacy-officer@adobe.com</a>. We will make every effort to resolve your concerns.</p>
+<h3>Effective Date: May 7, 2012 </h3>
+
+
+  </div>
+</div>
+<div id="col_left">
+	<!-- SIDE NAVIGATION -->
+  
+<div id="leftNav">
+	<a class="section_name" href="/en/company" title="Company">Company</a>
+<div class="top">&nbsp;</div>
+	<ul>
+		<li><a href="/en/aboutadobe" title="About Adobe">About Adobe</a>
+		</li><li><a href="/en/company/adobe_faq" title="Acquisition by Adobe FAQ">Acquisition by Adobe FAQ</a>
+		</li><li><a href="/en/company/press_room" title="Press Room">Press Room</a>
+		</li><li><a href="/en/investors" title="Investor Relations">Investor Relations</a>
+		</li><li><a href="/en/company/customers" title="Customer Showcase">Customer Showcase</a>
+		</li><li><a href="/en/company/analyst_insight" title="Analyst Insight">Analyst Insight</a>
+		</li><li><a href="/en/privacy" title="Privacy Center">Privacy Center</a>
+	<ul>
+		<li><a href="/en/privacy/policy" title="Privacy Policy">Privacy Policy</a>
+		</li><li><a href="/en/privacy/product" title="Products and Services Privacy Statement">Products and Services Privacy Statement</a>
+		</li><li><a href="/en/privacy/2o7" title="2o7.net Explained">2o7.net Explained</a>
+		</li><li><a href="/en/privacy/audience-manager" title="AudienceManager">AudienceManager</a>
+		</li><li><a href="/en/privacy/efficient-frontier" title="Adobe AdLens">Adobe AdLens</a>
+		</li><li><a href="/en/privacy/context-optional" title="Adobe Social" class="selected">Adobe Social</a>
+		</li><li><a href="/en/privacy/visualsciences" title="VisualSciences Privacy Center">VisualSciences Privacy Center</a>
+	<ul>
+		<li><a href="/en/privacy/visualsciences/policy" title="Privacy Policy">Privacy Policy</a>
+		</li><li><a href="/en/privacy/visualsciences/terms" title="Terms of Use">Terms of Use</a>
+		</li><li><a href="/en/privacy/visualsciences/resources" title="Additional Resources">Additional Resources</a>
+	</li></ul>
+	</li></ul>
+		</li><li><a href="/en/careers" title="Careers">Careers</a>
+	</li></ul>
+	<div class="bottom">&nbsp;</div>
+</div>
+</div>
+			<div id="bottom"></div>
+		</div>
+	</div>
+	<div id="container_bottom"></div>
+	<!-- End Main Content -->
+	<!-- Start footer Content -->
+	<div id="footer">
+		<div id="copyright">
+			Omniture has been acquired by Adobe. <a href="/en/company/adobe_faq">Learn more &gt;</a>
+<br>Copyright 1996-2011. Adobe Systems Incorporated. All rights reserved.<span class="delimiter">|</span><a href="/privacy">Privacy Center</a>
+<br>Omniture® is a registered trademark of Adobe Systems Incorporated in the United States, Japan, &amp; European Community.
+<br> Omniture products and services are licensed under the following Netratings patents: 
+<br> 5,675,510, 5,796,952, 6,115,680, 6,108,637, 6,138,155, 6,643,696, and 6,763,386
+
+<br>
+
+<a id="_bapw-link" href="#" target="_blank" style="text-decoration:none !important"><img id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important" src="https://a248.e.akamai.net/betterad.download.akamai.com/91609/pub/icon1.png"> <span style="vertical-align:middle !important">AdChoices</span></a><script>/*<![CDATA[*/(function(){var g=311,i=414,a=false,h=document,j=h.getElementById("_bapw-link"),e=(h.location.protocol=="https:"),f=(e?"https":"http")+"://",c=f+(e?"a248.e.akamai.net/betterad.download.akamai.com/91609":"cdn.betrad.com")+"/pub/";function b(k){var d=new Image();d.src=f+"l.betrad.com/pub/p.gif?pid="+g+"&ocid="+i+"&i"+k+"=1&r="+Math.random()}h.getElementById("_bapw-icon").src=c+"icon1.png";j.onmouseover=function(){if(/#$/.test(j.href)){j.href="http://info.evidon.com/pub_info/"+g+"?v=1"}};j.onclick=function(){var k=window._bap_p_overrides;function d(n,q){var o=h.getElementsByTagName("head")[0]||h.documentElement,m=a,l=h.createElement("script");function p(){l.onload=l.onreadystatechange=null;o.removeChild(l);q()}l.src=n;l.onreadystatechange=function(){if(!m&&(this.readyState=="loaded"||this.readyState=="complete")){m=true;p()}};l.onload=p;o.insertBefore(l,o.firstChild)}if(k&&k.hasOwnProperty(g)){if(k[g].new_window){b("c");return true}}this.onclick="return "+a;d(f+"ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js",function(){d(c+"pub2.js",function(){BAPW.i(j,{pid:g,ocid:i})})});return a};b("i")}());/*]]>*/</script>
+		</div>
+	</div>
+	<!-- End footer Content -->
+	
+</div>
+<!-- WRAPPER END -->
+
+<!-- END MAIN CONTENT -->
+
+<!-- SITECATALYST CODE -->
+
+		<!-- TNT FOOTER -->
+		<div class="mboxDefault"></div>
+		<!-- TNT FOOTER END -->
+		
+		<script language="javascript" type="text/javascript">
+		<!-- 
+			/* Copyright 1997-2012 Omniture, Inc. */
+			
+			// ELQ GUID 
+			if(!s.c_r('elqCustomerGUID')) {
+				d=new Date;
+				d.setTime(d.getTime()+(365*24*60*60*1000));
+				s.c_w('elqCustomerGUID',GetElqCustomerGUID(),d);
+			}
+				
+			/* PAGE SPECIFIC */
+			
+			s.pageName='Privacy: Adobe Social Privacy Statement';
+			s.channel='Privacy';
+			s.prop6='English';
+			
+			
+			/*TNT FOOTER CONTINUED */
+			if(typeof mboxCreate == 'function') {
+				
+				var epi_offer_name;
+				var epi_offer_product;
+				var epi_offer_centricity;
+				var epi_offer_type;
+				
+				if(s.pageName==undefined)
+					s.pageName=window.location;
+				mboxCreate('global_page_vars','pageinfo_name='+s.pageName,'pageinfo_section='+s.channel,'pageinfo_url='+window.location,'pageinfo_offer_name='+epi_offer_name,'pageinfo_offer_product='+epi_offer_product,'pageinfo_offer_centricity='+epi_offer_centricity,'pageinfo_offer_type='+epi_offer_type);
+			}
+			/*TNT FOOTER END AGAIN */
+			
+			mboxLoadSCPlugin(s);
+		
+		</script>
+		
+		<!-- SiteCatalyst code version: H.24.3.
+		Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+		More info available at http://www.omniture.com -->
+		<script language="JavaScript" type="text/javascript"><!--
+		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+		<script language="JavaScript" type="text/javascript"><!--
+		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+		//--></script><noscript><img src="http://omnituremarketing.d1.sc.omtrdc.net/b/ss/omniturecom-2011/1/H.24.3--NS/0"
+		height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+		<!-- End SiteCatalyst code version: H.24.3. -->
+		
+		<!-- demandbase -->
+		<script type="text/javascript"> 
+			var domainy = location.protocol == "https:" ? "https://leads.demandbase.com" : "http://leads.demandbase.com"; 
+			document.write(unescape("%3Cscript src='" + domainy +"/204595.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://leads.demandbase.com/204595.js" type="text/javascript"></script> 
+		<noscript>
+			<img alt="Demandbase Connect" width="1" height="1" src="http://leads.demandbase.com/204595ns.gif" /> 
+		</noscript> 
+		<!-- end demandbase -->
+		
+		<!-- start LivePerson -->
+		
+		<script type="text/javascript">
+		    var lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];
+			
+		    lpMTagConfig.lpTagSrv = "sales.liveperson.net"; lpMTagConfig.lpServer = "sales.liveperson.net"; 
+			lpMTagConfig.lpNumber = "89901003"; lpMTagConfig.deploymentID = "omniture";
+		
+		    lpMTagConfig.vars.push(["page","unit","omniture-us"]);
+		    lpMTagConfig.vars.push(["session","language","english"]);
+		    
+			lpMTagConfig.vars.push(["page","Section","<value>"]); 
+		
+		</script>
+		
+		<!-- end LivePerson -->
+		
+		<!-- EF Tags -->
+		<script language="javascript" src="http://www.everestjs.net/static/st.v2.js"></script>
+		<script language="javascript">
+		var ef_event_type="pageview";
+		var ef_pageview_properties = "";
+		/*
+		 * Do not modify below this line
+		 */
+		var ef_segment = "3257";
+		var ef_search_segment = "3256";
+		var ef_userid="3085";
+		var ef_pixel_host="pixel.everesttech.net";
+		var ef_fb_is_app = 0;
+		effp();
+		</script>
+		<noscript><img src='http://pixel.everesttech.net/3085/v?' width='1' height='1'/></noscript>
+		
+		
+		
+<!-- END SITECATALYST CODE -->
+
+
 
 
 
