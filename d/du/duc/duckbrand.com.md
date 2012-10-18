@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606010815id_/http%3A//www.duckbrand.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018113648id_/http%3A//www.duckbrand.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Duck® brand, ShurTech Brands, LLC
 
