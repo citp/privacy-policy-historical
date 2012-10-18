@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealchicken.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209001559id_/http%3A//dealchicken.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchicken.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018060236id_/http%3A//www.dealchicken.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# DealChicken.com | Travel Deals | Travel Coupons
 
 Last Updated: August 5, 2011
 
@@ -8,7 +8,7 @@ We take seriously your interest in how your information is collected and used. P
 
 This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/web/20111209001559id_/http%3A//dealchicken.com/termsofservice). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/web/20121018060236id_/http%3A//www.dealchicken.com/termsofservice). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.
 
 ### Your California Privacy Rights
 
@@ -45,7 +45,7 @@ Our Site also may include links to other websites and may provide access to prod
 
 We also may make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages or purchasing any coupons, products or services that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
 
-Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/web/20111209001559id_/http%3A//dealchicken.com/termsofservice); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/web/20121018060236id_/http%3A//www.dealchicken.com/termsofservice); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
@@ -57,7 +57,7 @@ We also may use third-party service providers to target and serve some of the ad
 
 The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.
 
-The use and collection of information by third-party advertising service providers is governed by the relevant third party's Privacy Notice and is not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, please click [here](https://web.archive.org/web/20111209001559id_/http%3A//dealchicken.com/adservice).
+The use and collection of information by third-party advertising service providers is governed by the relevant third party's Privacy Notice and is not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, please click [here](https://web.archive.org/web/20121018060236id_/http%3A//www.dealchicken.com/adservice).
 
 We adhere to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, www.aboutads.info
 
