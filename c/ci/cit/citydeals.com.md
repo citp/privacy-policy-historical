@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the citydeals.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511012845id_/http%3A//privacy-policy.truste.com/verified-policy/www.citydeals.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citydeals.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018102511id_/http%3A//privacy-policy.truste.com/verified-policy/www.citydeals.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.citydeals.com
 
 Effective on March 15, 2010 
 
-This privacy statement describes how CityDeals Marketing collects and uses the personal information you provide on our Web site: [www.citydeals.com ](https://www.citydeals.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how CityDeals Marketing collects and uses the personal information you provide on our Web site: [www.citydeals.com ](http://www.citydeals.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
