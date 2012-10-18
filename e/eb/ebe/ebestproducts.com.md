@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebestproducts.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531021957id_/http%3A//www.ebestproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebestproducts.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018043140id_/http%3A//www.ebestproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Original Article Directory | EbestProducts.com
 
@@ -31,8 +31,10 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-#### Incoming Tags:
+#### You Came With These Tags:
 
   * inurl:/privacy-policy privacy policy article directories
 
 
+
+No tags for this post.
