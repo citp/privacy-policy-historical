@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carls-sims-3-guide.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021232id_/http%3A//www.carls-sims-3-guide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carls-sims-3-guide.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018213101id_/http%3A//www.carls-sims-3-guide.com/privacy.php) for the most accurate reproduction.*
 
 # Carl's Sims 3 Guide - Privacy
 
@@ -17,3 +17,5 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 http://www.google.com/privacypolicy.html
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
