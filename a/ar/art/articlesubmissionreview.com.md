@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesubmissionreview.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505033057id_/http%3A//articlesubmissionreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesubmissionreview.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018191003id_/http%3A//articlesubmissionreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,6 @@ Concerns or questions about this privacy policy may be addressed via the CTC Hel
 
 If you have any more questions or concern about us and our practices you may contact us at the following address:
 
-P.O. Box 371  
+1130 Baltimore Ave SE, Suite 16  
 Bandon, Oregon 97411  
 United States
