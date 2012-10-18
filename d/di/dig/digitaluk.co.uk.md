@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528002653id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018111123id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Digital UK - Privacy Policy
 
@@ -47,8 +47,6 @@ During the course of your use of the Site you may be requested to enter your ema
 ### C. Cookies
 
 There are a variety of cookies used on the Digital UK website, mostly to improve the user experience and help us tailor content to user need. We use some for web analytics and accessibility. In general, these cookies expire when a browsing session finishes.
-
-A ruling in May 2011 by the Information Commissioner's Office requires that in most cases, website wanting to use cookies should request consent from users. 
 
 [Find out more](http://www.digitaluk.co.uk/cookie_report)  
 
