@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaserviceprovider.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514050822id_/http%3A//www.joomlaserviceprovider.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaserviceprovider.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018045302id_/http%3A//www.joomlaserviceprovider.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ You may let us know whether or not you would like to receive information, specia
 Joomla Service Provider will provide you with the opportunity to opt-out of any of our direct marketing communications at any time. All promotional email sent from Joomla Service Provider will contain a provision allowing you the option to decline receiving future promotional email. You may unsubscribe to an email communication by contacting Joomla Service Provider at either of the addresses provided below and requesting that you be unsubscribed from that specific communication:
 
   * Web: Contact form
-  * Regular mail: Joomla Service Provider #804 1340 Burnaby Street, Vancouver BC V6E 1R1, Canada
+  * Regular mail: Joomla Service Provider: 701, Acropolis, Military road, Marol, Andheri (East), Mumbai-400059 Maharashtra, India
 
 
 
@@ -107,7 +107,7 @@ How to Contact Us
 If you have any questions about any of these practices or Joomla Service Provider’s use of your personal information, please feel free to contact us by web, or by mail at: 
 
 Joomla Service Provider.  
-#804 1340 Burnaby Street.  
-Vancouver BC   
-V6E 1R1  
-Canada
+701, Acropolis, Military road,  
+Marol, Andheri (East), Mumbai-400059  
+Maharashtra  
+India
