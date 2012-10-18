@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604125900id_/http%3A//ahmsta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018065344id_/http%3A//www.ahmsta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ahmsta's Crib - The Best E-Journal Website On Technology, Blogging, Gadgets Discussions, Money Making, Adsense Tips and more...
+# Privacy Policy - Ahmsta's Crib - The Best E-Journal Website On Technology, Blogging, Gadgets Discussions, Money Making, Adsense Tips and more
 
 If you require any more information or have any questions about my privacy policy, please feel free to contact me by email at ahmsta2@gmail.com.
 
