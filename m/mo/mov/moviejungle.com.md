@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviejungle.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219005849id_/http%3A//www.upcoming-movies.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviejungle.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018104331id_/http%3A//www.upcoming-movies.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
