@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603103401id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018090148id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
 
 # OASIS Privacy and Security - Oasis Womens Fashion Clothing Shop UK - www.Oasis-Stores.com
 
-We believe shopping at [Oasis-stores.com](http://www.oasis-stores.com/) (part of Aurora Fashions) is as secure as shopping in store. In addition we respect the privacy rights of our online visitors and recognise the importance of protecting information collected from them.
+We believe shopping at [Oasis-stores.com](http://stage.oasis-istore.fresca.co.uk/) (part of Aurora Fashions) is as secure as shopping in store. In addition we respect the privacy rights of our online visitors and recognise the importance of protecting information collected from them.
 
 We are part of Aurora Fashions and we take your privacy very seriously. We work hard to make sure that we only use your information in the ways that you want us to. This Privacy Statement explains what information we collect on this website, how and when it is collected, what we use it for now and how we will use it in the future. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement please contact us at [help@oasis-stores.com](mailto:help@oasis-stores.com).
 
@@ -20,7 +20,7 @@ No Junk Mail
 
 We know that everyone is busy, and nobody likes their email inbox cluttered up with junk mail.
 
-We will only send you marketing messages if you choose to receive them from us or third parties we work with and think you may be interested in hearing from. If you choose to receive our mailings or our partner’s mailings, we will only send you details about items and promotions which we think will be of interest to you. If you decide that you no longer want to receive emails from [www.oasis-stores.com](http://www.oasis-stores.com/), you can unsubscribe at any time by clicking [here](https://web.archive.org/pws/ENews.ice?page=eNewsPage) and selecting ‘Unsubscribe’. We will never sell your details to an unconnected third party for marketing purposes.
+We will only send you marketing messages if you choose to receive them from us or third parties we work with and think you may be interested in hearing from. If you choose to receive our mailings or our partner’s mailings, we will only send you details about items and promotions which we think will be of interest to you. If you decide that you no longer want to receive emails from [www.oasis-stores.com](http://stage.oasis-istore.fresca.co.uk/), you can unsubscribe at any time by clicking [here](https://web.archive.org/pws/ENews.ice?page=eNewsPage) and selecting ‘Unsubscribe’. We will never sell your details to an unconnected third party for marketing purposes.
 
 ##   
 Website Security
@@ -65,22 +65,22 @@ We will not pass your information to any third parties outside of Aurora Fashion
 ##   
 Updating your personal details
 
-We want to make sure that the information we hold about you is correct and up to date at all times. You can at any time amend or update your information by clicking [here](http://www.oasis-stores.com/pws/secure/ManageAccount.ice?pgForward=myoasis) to log in and update your details.
+We want to make sure that the information we hold about you is correct and up to date at all times. You can at any time amend or update your information by clicking [here](http://stage.oasis-istore.fresca.co.uk/pws/secure/ManageAccount.ice?pgForward=myoasis) to log in and update your details.
 
 You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee).
 
 ##   
 Cookies
 
-To enhance your shopping experience on the Oasis website, we gather information using files called cookies. We use cookies to keep track of things such as what products you have put in your basket, what other kind of products you may be interested in based on what you have previously bought or viewed and to remember you when you return to our site. This information is then used to serve you more relevant information based on your shopping preferences and means you get a richer experience when using your computer to browse and shop our website. 
+In order to improve your experience when shopping on the website we use cookies.
 
-You can choose to disable cookies but doing so will affect your shopping experience and may prevent you from accessing certain parts of the site. If you disable cookies, you'll still be able to browse the site but it will prevent the checkout from working and you will not be able to place orders. 
+A cookie is a piece of information our website will place on your computer’s hard drive that can track your movements while you are on the website, it will also recognise you when you visit our website again.
 
-You can enable or disable cookie settings on your computer. It depends on what type of computer (MAC or PC) and also what browser you use as to how you do this. To check your cookie settings on a PC you need to click Help and then choose About and then follow the link about cookies. To check your cookie settings on a Mac click on the apple menu and select the option called About. 
+Cookies are stored in order for us to continually improve our website and provide a better on-line shopping experience for you. They are mainly used for marketing purposes, but they are also used to tell us what country you are coming from so we can make sure that prices are displayed in the correct currency and pages in the correct language.
 
-We're giving you this information as part of our initiative to comply with recent legislation, and to make sure we are clear about your privacy when using our website. 
+If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies.
 
-Further information on cookies and how to disable them is available at [www.AboutCookies.org](http://www.aboutcookies.org/). 
+Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). However, please note that if you disable the use of cookies on your computer, you will not be able to shop on our website.
 
 ##   
 And lastly
