@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelinkjuicer.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531030823id_/http%3A//www.thelinkjuicer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelinkjuicer.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018123225id_/http%3A//www.thelinkjuicer.com/privacy.html) for the most accurate reproduction.*
 
 # The Link Juicer - Privacy Statement
 
