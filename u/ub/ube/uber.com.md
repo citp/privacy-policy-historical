@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522154437id_/https%3A//www.uber.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018051846id_/https%3A//www.uber.com/legal/privacy) for the most accurate reproduction.*
 
 # Uber - Privacy Policy
 
