@@ -1,25 +1,30 @@
-<!--The following is the downloaded HTML source of the trakt.tv privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626050042id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trakt.tv privacy policy that was archived on 2012-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121019225246id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <title>Privacy Policy - trakt</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="http://vicmackey.trakt.tv/images/favicon.png">
-<link rel="apple-touch-icon" href="http://vicmackey.trakt.tv/images/apple-touch-icon.png">
+<link rel="shortcut icon" href="http://trakt.us/images/favicon.png">
+<link rel="apple-touch-icon" href="http://trakt.us/images/apple-touch-icon.png">
 <meta name="keywords" content="trakt.tv,tracked,television,movies,tv,recommendations,xbmc,mediaportal,plex,boxee,apple tv,itunes,vlc,iphone,ipad,ios,tracked tv,tracked.tv,privacy">
 <meta name="description" content="The trakt privacy policy.">
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow">
-<link href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet">
-<link href="http://vicmackey.trakt.tv/styles/formcheck.20120507.css" rel="stylesheet">
-<link href="http://vicmackey.trakt.tv/styles/trakt.20120507.css" rel="stylesheet">
-<link href="http://vicmackey.trakt.tv/styles/nobadge.20120507.css" rel="stylesheet">
-<script src="http://vicmackey.trakt.tv/js/mootools-core.20120507.js"></script>
-<script src="http://vicmackey.trakt.tv/js/mootools-more.20120507.js"></script>
-<script src="http://vicmackey.trakt.tv/js/formcheck-en.20120507.js"></script>
-<script src="http://vicmackey.trakt.tv/js/formcheck.20120507.js"></script>
-<script src="http://vicmackey.trakt.tv/js/trakt.20120507.js"></script>
+<link href="//fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet">
+<link href="http://trakt.us/styles/formcheck.20121005.css" rel="stylesheet">
+<link href="http://trakt.us/styles/MooSelect.20121005.css" rel="stylesheet">
+<link href="http://trakt.us/styles/trakt.20121005.css" rel="stylesheet">
+<link href="http://trakt.us/styles/nobadge.20121005.css" rel="stylesheet">
+<script src="http://trakt.us/js/mootools-core.20121005.js"></script>
+<script src="http://trakt.us/js/mootools-more.20121005.js"></script>
+<script src="http://trakt.us/js/formcheck-en.20121005.js"></script>
+<script src="http://trakt.us/js/formcheck.20121005.js"></script>
+<script src="http://trakt.us/js/MooSelect.20121005.js"></script>
+<script src="http://trakt.us/js/Meio.Autocomplete.20121005.js"></script>
+<script src="http://trakt.us/js/trakt.20121005.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -57,8 +62,8 @@
 					<li><a href="/charts/all">All Time</a></li>
 				</ul>
 			</li>
-			<!--<li><a href="/movies/charts" class="">Movie Charts</a></li>-->
 			<li><a href="/community" class="">Community</a></li>
+			<li><a href="/lists" class="">Lists</a></li>
 			<li class="kids">
 				<a href="/downloads" class="">Downloads</a>
 							</li>
@@ -78,9 +83,11 @@
 				<h2>Privacy Policy</h2>
 		<div class="other"></div>
 		<div class="search">
-			<form action="/search" method="get">
-				<input type="text" placeholder="search shows, movies, and users" id="search-q" name="q" autocomplete="off">
-				<input type="button" id="search-button" value="">
+			<form id="global-search-form" action="/search" method="get">
+				<select id="search-type">
+					<option value="all">All</option><option value="shows">Shows</option><option value="episodes">Episodes</option><option value="movies">Movies</option><option value="users">Users</option><option value="people">People</option><option value="tvdb">TVDb ID</option><option value="imdb">IMDb ID</option><option value="tmdb">TMDb ID</option>				</select>
+				<input type="text" placeholder="What are you looking for?" id="search-q" name="q" autocomplete="off">
+				<div id="search-button-wrapper"><input type="submit" id="search-button" value=""></div>
 			</form>
 		</div>
 	</div>
@@ -252,12 +259,19 @@
 				<label for="join-password">Password:</label>
 				<span><input type="password" id="join-password" class="validate['required']" name="password" value="" autocomplete="off"></span>
 			</p>
+			<p>
+				<label for="join-math">1 plus 3 equals:</label>
+				<span><input type="text" id="join-math" class="validate['required']" name="math" value="" autocomplete="off"></span>
+			</p>
+			<p>
+							</p>
+			<p id="join-skylar"></p>
 		</fieldset>
 		<div class="buttons">
 			<a href="/join" class="validate['submit'] button" id="join-submit">Create Account</a>
 		</div>
 	</form>
-</div>
+	</div>
 <!-- sign in -->
 <div id="overlay-signin" class="overlay-popup wide dark">
 	<div class="title"><span>Sign in</span> to trakt</div>
@@ -345,5 +359,6 @@ var _sf_async_config={uid:20911,domain:"trakt.tv"};
 })();
 </script>
 
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","73f52d8248",820374,"NlxVMUJTDUsFWkJaDQ8WdgZEWwxWS3VTVAMNFkcXWUQCWx0=",0,75,new Date().getTime()]);</script>
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
