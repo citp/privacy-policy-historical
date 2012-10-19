@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113204917id_/http%3A//www.graveyardmall.com/pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019071439id_/http%3A//www.graveyardmall.com/pages/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,7 +32,7 @@ By email: [customerservice@graveyardmall.com](mailto:customerservice@graveyardma
 
 By standard mail: GraveyardMall.com 2420 Greenleaf Ave Elk Grove Village, IL, 60007
 
-By phone: 888 734-3132 (9:00 AM - 3:30 PM CDT)
+By phone: 888 734-3132 (8:00 AM - 3:00 PM CDT)
 
 **DISPUTES:**
 
