@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poweredbysearch.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502203251id_/http%3A//www.poweredbysearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweredbysearch.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019093719id_/http%3A//www.poweredbysearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Powered by Search
 
@@ -80,8 +80,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.poweredbysearch.com  
-250 Consumers Road, Suite 704  
-Toronto, Ontario M2J 4V6  
+505 Consumers Road, Suite 507  
+Toronto, Ontario M2J 4V8  
 Canada  
 hello@poweredbysearch.com  
 866-611-5535  
