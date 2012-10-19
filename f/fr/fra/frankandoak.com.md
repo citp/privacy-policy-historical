@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankandoak.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528165708id_/http%3A//www.frankandoak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankandoak.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019184311id_/http%3A//www.frankandoak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frank & Oak
 
