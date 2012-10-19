@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaregeeks.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614131024id_/http%3A//hardwaregeeks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaregeeks.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019234354id_/http%3A//hardwaregeeks.com/privacy) for the most accurate reproduction.*
 
 # » Privacy HardwareGeeks
 
