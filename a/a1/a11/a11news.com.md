@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a11news.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619232446id_/http%3A//a11news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a11news.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019083457id_/http%3A//a11news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
