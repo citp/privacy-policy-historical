@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510142120id_/http%3A//www.zoomin.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019051358id_/http%3A//www.zoomin.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
