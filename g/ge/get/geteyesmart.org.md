@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606123322id_/http%3A//www.geteyesmart.org/eyesmart/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019233638id_/http%3A//www.geteyesmart.org/eyesmart/privacy-policy.cfm) for the most accurate reproduction.*
 
-# EyeSmart Privacy Policy
+# EyeSmart Privacy Policy-Eye M.D.-approved information from EyeSmart
 
 ## What information do we collect?
 
