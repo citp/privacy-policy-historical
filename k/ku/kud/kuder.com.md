@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuder.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501091810id_/http%3A//www.kuder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuder.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019201300id_/http%3A//www.kuder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Kuder - Terms and Conditions of Restricted Use License - Career Assessment, Education and Career Planning, Career Development
 
