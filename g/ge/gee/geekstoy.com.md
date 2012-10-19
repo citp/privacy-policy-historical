@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527092735id_/http%3A//www.geekstoy.com/forum/showpost.php%3Fp%3D74607%26postcount%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019134717id_/http%3A//www.geekstoy.com/forum/showpost.php%3Fp%3D74607%26postcount%3D1) for the most accurate reproduction.*
 
 # Betfair Trading and Sports Betting Forum - View Single Post - Privacy Policy
 
 **_Overview_**  
-This privacy policy sets out how Talented Mavericks Limited uses and protects any information that you provide when you use this website or our products. Any information you provide by which you can be identified when using this website or our software prodcuts, will only be used in accordance with this privacy statement.  
+This privacy policy sets out how Talented Mavericks Limited uses and protects any information that you provide when you use this website or our products. Any information you provide by which you can be identified when using this website or our software prodcuts, will only be used in accordance with this privacy statement.
+
 Talented Mavericks Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 21st September 2009.
 
 **_What we collect_**  
