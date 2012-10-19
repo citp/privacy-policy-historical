@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123045558id_/http%3A//www.tnr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019172645id_/http%3A//www.tnr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New Republic
 
-**Privacy Policy**
-
-This Privacy Policy was last updated effective November 4, 2009.
+T _his Privacy Policy was last updated effective November 4, 2009._
 
 To help you understand how information submitted will be treated when you log on to and use our web site, The New Republic Online (“tnr.com”) offers this Privacy Policy. Use of the tnr.com web site, and disclosure to us of your personal information, is optional and voluntary. By visiting tnr.com, you are accepting and agreeing to the practices described in this Policy. The following paragraphs describe the type of information tnr.com collects, the reasons why such information is collected, how such information is used and who has access to it.
 
@@ -34,7 +32,7 @@ You may use the web site to subscribe to the print or digital version of The New
 
 Tnr.com offers several electronic newsletters to which you may voluntarily subscribe and unsubscribe at any time. Tnr.com uses MailChimp, a reputable third party, to deliver the email newsletters you will receive from our site and serve all of the advertisements that are placed within those emails.
 
-lChimp collects and stores all the information users submit to tnr.com in connection with the electronic newsletters. If you would like to know more about the information-gathering practices and “opt-out” procedures of MailChimp, please see <http://www.mailchimp.com/page/privacy/>.
+MailChimp collects and stores all the information users submit to tnr.com in connection with the electronic newsletters. If you would like to know more about the information-gathering practices and “opt-out” procedures of MailChimp, please see <http://www.mailchimp.com/page/privacy/>.
 
 You may remove yourself from any or all of the electronic newsletters’ mailing lists at any time by following instructions for unsubscribing found at the end of every newsletter or by emailing [tnrdigital@tnr.com](mailto:tnrdigital@tnr.com).
 
@@ -102,9 +100,9 @@ Customer Service
 
 Privacy Policy
 
-1331 H Street, NW
+1400 K Street, NW
 
-Suite 700
+Suite 1200
 
 Washington, DC 20005
 
