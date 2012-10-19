@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibfx.com.au privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513020127id_/http%3A//www.ibfx.com.au/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibfx.com.au privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019083342id_/https%3A//www.ibfx.com.au/Legal/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - IBFX Australia
+# Privacy Policy - IBFX
 
 IBFX Australia Pty Ltd ("IBFX") considers protecting and safeguarding the privacy of our clients and website visitor's personal and financial information of the utmost importance. At IBFX, we respect each individual's right to privacy. The following policy demonstrates how we collect, maintain, use, and protect the personal information we obtain from you.
 
