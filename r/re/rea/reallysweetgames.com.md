@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reallysweetgames.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621212755id_/http%3A//reallysweetgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallysweetgames.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019073422id_/http%3A//reallysweetgames.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - ReallySweetGames
+# Really Sweet Games
 
 Privacy Policy
 
@@ -43,49 +43,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. 
 
 If you feel that this site is not following its stated information policy, you may contact us via email or at the above addresses or phone number. 
-
-Top Players
-
-Top Rated Games
-
-Most Popular Games
-
-Gwen, Gabriella, and Grace are…
-
-[](http://reallysweetgames.com/other/girls-go-christmas-dress-up "<div class='tooltip_title'>Girls Go Christmas Dress Up</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>5096029</span>
-				</div><br>
-				<div class='tooltip_desc'>Gwen, Gabriella, and Grace are having a little Christmas party and can't wait for you to dress them up!</div>")
-
-Clone of the arcade fighting g…
-
-[](http://reallysweetgames.com/action/superfighter "<div class='tooltip_title'>Superfighter</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>3457361</span>
-				</div><br>
-				<div class='tooltip_desc'>Clone of the arcade fighting game - Super Fighter</div>")
-
-Play as the Quarterback in thi…
-
-[](http://reallysweetgames.com/sport/ultimate-football "<div class='tooltip_title'>Ultimate Football</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>3398260</span>
-				</div><br>
-				<div class='tooltip_desc'>Play as the Quarterback in this America Football game, throw passes to your teammates.</div>")
-
-[](http://reallysweetgames.com/sport/ski-run "<div class='tooltip_title'>Ski Run</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>2865532</span>
-				</div><br>
-				<div class='tooltip_desc'>Ski between the flags</div>")
-
-The objective of this game is …
-
-[](http://reallysweetgames.com/shooter/happy-tree-friends-flippy-attack "<div class='tooltip_title'>Happy Tree Friends: Flippy Attack</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>1799761</span>
-				</div><br>
-				<div class='tooltip_desc'>The objective of this game is simple. Stay alive as long as possible. Using characters from Happy Tree Friends.</div>")
-
-Log-in to save favourites
