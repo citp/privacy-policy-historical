@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518043557id_/http%3A//mi.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020015733id_/http%3A//mi.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
 # SOM - Michigan Privacy Policy
 
