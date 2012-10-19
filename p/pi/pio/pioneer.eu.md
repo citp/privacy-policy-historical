@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504171004id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020015742id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Europe
 
@@ -66,7 +66,7 @@ In order to improve the services offered by our websites, we may include links t
 **6\. Cookies**
 
 PIONEER websites may use the industry-wide technology called cookies. A cookie is a unique text file that a website sends to your browser software. Cookies enable a website to tailor information presented to you based on your browsing preferences. PIONEER may use cookies to personalize your pages, or to remember you when you register products or services. If you do not want PIONEER to deploy cookies in your browser, you can set your browser to reject cookies. Rejecting cookies may affect your ability to use some of the services at our PIONEER websites.  
-PIONEER also uses cookies to track the visits to our websites. The Information hereby gathered helps us to optimize the websites' content, navigation and performance.
+PIONEER also uses cookies to track the visits to our websites with Google Analytics software. The Information hereby gathered helps us to optimize the websites' content, navigation and performance.
 
   
 **7\. Choices and opt-out**
