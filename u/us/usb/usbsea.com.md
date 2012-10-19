@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usbsea.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225420id_/http%3A//www.usbsea.com/help/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usbsea.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019040105id_/http%3A//www.usbsea.com/help/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | usbsea.com
 
