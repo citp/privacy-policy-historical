@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendrise.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127130726id_/http%3A//www.friendrise.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendrise.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019134837id_/http%3A//www.friendrise.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Friendrise :: Legal :: Privacy Policy
+# Legal :: Privacy Policy :: Friendrise
 
 PRIVACY POLICY
 
