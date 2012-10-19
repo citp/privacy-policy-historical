@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningally.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615172955id_/http%3A//www.learningally.org/42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningally.org privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019143101id_/http%3A//www.learningally.org/42) for the most accurate reproduction.*
 
 # Privacy | Learning Ally, formerly Recording for the Blind & Dyslexic
 
@@ -14,6 +14,8 @@ For nearly 60 years, Learning Ally, formerly RFB&D, has been an invaluable educa
 ## General Privacy Policy - for all Learning Ally sites and e-mail newsletters
 
 It is the strict policy of Learning Ally that membership information is never given to any other party, for any reason. We do at times, however, exchange donor names from time to time with other reputable charitable organizations. This information would contain mailing addresses ONLY. If you DO NOT wish your name to be shared with other charitable organizations, you may [e-mail us](mailto:privacy@learningally.org), call us at 609-520-8042, or write to us at Learning Ally - Donor Services Financial Development, 20 Roszel Road, Princeton, NJ 08540. When contacting us, please be sure to include your exact mailing address so that we can locate your information.
+
+If you submit your email address to Learning Ally, you may receive communications about membership and updates about our products and services.
 
 CHILDREN: Be sure to ask your parents or guardians for permission before you send any information about yourself to us, or anyone else over the Internet.
 
