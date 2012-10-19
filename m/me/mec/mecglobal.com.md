@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mecglobal.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520065700id_/http%3A//www.mecglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecglobal.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019164956id_/http%3A//www.mecglobal.com/privacy) for the most accurate reproduction.*
 
 # MEC | Privacy
 
