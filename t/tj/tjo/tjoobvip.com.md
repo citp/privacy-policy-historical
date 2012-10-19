@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjoobvip.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620094845id_/http%3A//www.tjoobvip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjoobvip.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019194727id_/http%3A//www.tjoobvip.com/privacy.html) for the most accurate reproduction.*
 
 # TJoob VIP - Privacy Policy
 
