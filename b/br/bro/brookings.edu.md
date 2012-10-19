@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501105421id_/http%3A//www.brookings.edu/about/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019170819id_/http%3A//www.brookings.edu/about/privacy-policy) for the most accurate reproduction.*
 
-# Brookings Institution Privacy Policy - Brookings Institution
+# Brookings Privacy Policy | Brookings Institution
+
+The Brookings Institution values our visitors' private information and understands the need for security and trust surrounding such information. The following policy outlines the ways in which we collect, store and use personally identifiable information in providing our products and services. Except for very limited exceptions further described in the remainder of this Privacy Policy, we do not share any personally identifiable information with third parties.
+
+**Information Collection & Use**
+
+_Registration_
+
+In order to use certain parts of The Brookings Institution website, you may need to first complete a registration form to create a user name and/or password. During registration you may be required to give contact information. We may use this information to contact you about the services on our site in which you have expressed interest.
 
 _Online Orders_
 
@@ -16,17 +24,17 @@ We may use third-party service providers to conduct surveys. Those companies wil
 
 _Tell a Friend/Forward to a Colleague_
 
-If you use referral services to tell a friend/colleague about our site or electronic newsletters, we will send your friend/colleague a one-time e-mail inviting him or her to visit the site. The Brookings Institution maintains this information in our database for the purpose of sending the referred e-mail and compiling aggregate statistics on the usefulness of our referral program. 
+If you use referral services to tell a friend/colleague about our site or electronic newsletters, we will send your friend/colleague a one-time email inviting him or her to visit the site. The Brookings Institution maintains this information in our database for the purpose of sending the referred email and compiling aggregate statistics on the usefulness of our referral program. 
 
 **Communications from the Site**
 
- _Newsletters and Products  
+_Newsletters and Products  
 _  
-If you wish to subscribe to our electronic newsletter(s) or receive other materials, we will use your e-mail address to send the requested materials. We always provide a way to unsubscribe or opt out. Please see the "Choice/Opt-out" section, below. 
+If you wish to subscribe to our electronic newsletter(s) or receive other materials, we will use your email address to send the requested materials. We always provide a way to unsubscribe or opt out. Please see the "Choice/Opt-out" section, below. 
 
 _Customer Service and Profile_
 
-Based upon the personally identifiable information you provide us (i.e., your "profile"), we will send you a welcome e-mail to verify your enrollment when you subscribe to an electronic newsletter. 
+Based upon the personally identifiable information you provide us (i.e., your "profile"), we will send you a welcome email to verify your enrollment when you subscribe to an electronic newsletter. 
 
 In addition, we may store information that we collect through cookies, log files, transparent gifs and other technologies to create a "profile" of your preferences. 
 
@@ -38,7 +46,7 @@ If you no longer wish to receive electronic newsletters and/or promotional commu
 
 **Information Sharing and Disclosure**
 
- _Aggregate Information (non-personally identifiable)_
+_Aggregate Information (non-personally identifiable)_
 
 At times, we share aggregated demographic information about our user base with our partners. This information does not identify individual users. We do not link aggregate user data with personally identifiable information in these cases. 
 
@@ -46,8 +54,8 @@ _Personally identifiable information_
 
 We do not share personally identifiable information (your "profile") with third parties, except insofar as that information is required to fulfill a service, such as product fulfillment, that you have requested. 
 
-_Agents  
-_  
+_Agents_
+
 We use an outside shipping company to fulfill Brookings Bookstore orders and a credit card processing company to bill you for goods and services you purchase from us. We make commercially reasonable efforts to ensure that these companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
 _Service Providers_
@@ -58,13 +66,13 @@ We make commercially reasonable efforts to ensure that these third parties are p
 
 _Legal Disclaimer_
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on the Brookings Institution. We further reserve the right to disclose or use your personally identifiable information for the purposes of collecting on debts owed in connection with the purchase of goods or services on this web site. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on the Brookings Institution. We further reserve the right to disclose or use your personally identifiable information for the purposes of collecting on debts owed in connection with the purchase of goods or services on this website. 
 
-**Web Site Tools**
+**Website Tools**
 
- _Log Files_
+_Log Files_
 
-Web site visits generate certain information that is automatically stored in log files, including Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. 
+Website visits generate certain information that is automatically stored in log files, including Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. 
 
 We use this information, which in itself does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
@@ -80,13 +88,13 @@ _Transparent images and Web Beacons/Web Bugs_
 
 We may employ transparent images and Web Beacons (also referred to as Web Bugs) that help us better manage content on our site. Transparent images and Web Beacons are embedded invisibly on web pages. 
 
-We may use transparent images in our HTML-based e-mails and newsletters to help us gauge the effectiveness of our electronic communications. If you would like to opt out of these, please see "Choice/Opt-out." You can also request to receive text-only electronic newsletters, which do not contain transparent images. 
+We may use transparent images in our HTML-based emails and newsletters to help us gauge the effectiveness of our electronic communications. If you would like to opt out of these, please see "Choice/Opt-out." You can also request to receive text-only electronic newsletters, which do not contain transparent images. 
 
-Though we do not currently use Web Beacons in our e-mails, we reserve the right to do so at some future date. In that case, this Privacy Policy will be updated accordingly (see "Changes in this Privacy Statement," below). 
+Though we do not currently use Web Beacons in our emails, we reserve the right to do so at some future date. In that case, this Privacy Policy will be updated accordingly (see "Changes in this Privacy Statement," below). 
 
 **Links to Other Sites**
 
-This web site contains links to other sites that are not owned or controlled by The Brookings Institution. We are not responsible for the privacy practices or the content of such other sites. 
+This website contains links to other sites that are not owned or controlled by The Brookings Institution. We are not responsible for the privacy practices or the content of such other sites. 
 
 **Access to and Removal of Personally Identifiable Information** __
 
@@ -98,7 +106,7 @@ The security of your sensitive personal information is important to us. We encry
 
 **Changes in this Privacy Statement**
 
-We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page. 
+We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
 **Contact Us**
 
