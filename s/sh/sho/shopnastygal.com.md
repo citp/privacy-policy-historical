@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopnastygal.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530153710id_/http%3A//www.nastygal.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopnastygal.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019130647id_/http%3A//www.nastygal.com/privacy-statement) for the most accurate reproduction.*
 
 # Customer Care Privacy & Security Privacy Statement at Nasty Gal
 
