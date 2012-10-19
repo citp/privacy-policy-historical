@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609205209id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019124016id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
 
 # Harlequin.com | Privacy Policy
 
-[Click here](https://web.archive.org/web/20120609205209id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
+[Click here](https://web.archive.org/web/20121019124016id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
 
 **Effective Date: October 3, 2006**   
 **Last Updated: August 19, 2011**
@@ -173,18 +173,18 @@ We keep your information only for a period reasonably necessary to meet the purp
 
 **Access to Personal Information:**
 
-If you are an author or an individual providing services to Harlequin and would like access to your personal information, you may request it by writing to the Business Affairs Department at the following address:
+If you are an author or an individual providing services to Harlequin and would like access to your personal information, you may request it by writing to the Legal Affairs Department at the following address:
 
 Harlequin Enterprises Limited  
 225 Duncan Mill Road  
 Don Mills, Ontario  
 M3B 3K9
 
-Attention: Business Affairs Department
+Attention: Legal Affairs Department
 
 Fax Number: (416) 391-7055
 
-Harlequin will correct any errors you identify in your personal information. If, after contacting our Business Affairs Department, your concerns or questions have not been resolved to your satisfaction, you can contact Harlequin's Chief Privacy Officer in writing via mail or fax: 
+Harlequin will correct any errors you identify in your personal information. If, after contacting our Legal Affairs Department, your concerns or questions have not been resolved to your satisfaction, you can contact Harlequin's Chief Privacy Officer in writing via mail or fax: 
 
 Harlequin Enterprises Limited  
 225 Duncan Mill Road  
