@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-dispatch.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529235825id_/http%3A//www.the-dispatch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dispatch.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019183945id_/http%3A//www.the-dispatch.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy | The-Dispatch.com | The Dispatch
 
