@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonex.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161817id_/http%3A//www.lonex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonex.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019154305id_/http%3A//www.lonex.com/privacy.html) for the most accurate reproduction.*
 
 # Lonex Privacy policy
 
