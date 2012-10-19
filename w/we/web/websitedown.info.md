@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitedown.info privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513081412id_/http%3A//www.websitedown.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitedown.info privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019090959id_/http%3A//www.websitedown.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for WebsiteDown.info
 
@@ -16,7 +16,7 @@ The www.websitedown.info website have no access to control these cookies, JavaSc
 
 ### DISCLAIMER:
 
-revision date: 01/01/2012
+**revision date: 01/01/2012**
 
 Here at www.websitedown.info website we recognize that privacy matters and it is important to our users. This privacy policy document outlines the types of personal information collected by Website Down and how it is used, maintained and stored. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
