@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screensavers.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524062319id_/http%3A//www.screensavers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screensavers.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019092157id_/http%3A//www.screensavers.com/privacy) for the most accurate reproduction.*
 
 # Free Screensavers and Wallpapers Download
 
