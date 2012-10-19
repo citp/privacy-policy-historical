@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203732id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019134258id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chip Chick
 
@@ -38,3 +38,6 @@ When ChipChick.com & ChipChicklets.com makes changes to this privacy policy we w
 
 **Contact Information**  
 If you have any questions regarding our privacy policy, please [contact us](http://www.chipchick.com/contact_us).
+
+  
+
