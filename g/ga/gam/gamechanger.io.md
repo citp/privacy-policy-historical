@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609062546id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019144124id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About | GameChanger
 
 ## GameChanger Media, Inc. Privacy Policy
 
-The GameChanger Media, Inc. Electronic Privacy Policy has been written to answer questions you might have about online privacy. As a company that develops technology for amateur sports teams we are very concerned about privacy and make an effort to safeguard any personal information we may collect about you or your children. This policy refers only to information collected by and displayed on the GameChanger mobile applications and website.
+The GameChanger Media, Inc. Electronic Privacy Policy has been written to answer questions you might have about online privacy. As a company that develops technology for amateur sports teams we are very concerned about privacy and make an effort to safeguard any personal information we may collect about you. This policy refers only to information collected by and displayed on the GameChanger mobile applications and website.
 
-##### Our Commitment to Security
+##### GameChanger Application
 
-GameChanger Media, Inc., has put in place appropriate physical, electronic and managerial processes to safeguard the information we collect and prevent unauthorized access of information.
+The GameChanger software is intended for use by coaches and team administrators to score games and fans to follow game content. The GameChanger software is not intended for use by children under 13, and GameChanger does not permit children under 13 to register teams or otherwise enter any information about themselves or other children.
 
-##### Advice to Children and Parents
+GameChanger collects information from coaches and team administrators who enter information about their teams into the GameChanger software. Coaches and team administrators are free to limit the amount of information that is displayed about their teams. GameChanger recommends that coaches and administrators make sure that parents are informed of and consent to the manner in which information about the teams is displayed through the GameChanger software.
 
-We strongly advise children to get a parent or guardian's permission before submitting any kind of personal data over the Internet. We urge parents to be very clear with their children regarding the danger of giving personal information to anyone (online or in person) they don't know. We also encourage parents and guardians to spend time online with their children and to participate in the activities offered on the sites they visit.
+For teams with children under 13, GameChanger does not permit the display of last names.
 
-If children under 18 elect to register for any Gamechanger services, they should ask a parent for permission before sending any information to our website.
+##### Our Commitment to Privacy
+
+GameChanger Media, Inc. has put in place appropriate physical, electronic and managerial processes to safeguard the information we collect and prevent unauthorized access of information.
 
 ##### What personal information do we collect?
 
 All registered members of the www.GameChanger.io website are requested to provide an email address and password in return for access to the site.
 
-In addition, team administrators (coaches, scorekeepers, volunteers) may input a limited amount of optional information about players on their amateur athletic teams. As of the writing of this document the following information is requested (but not required): first name, last name, position and preferred throwing and batting hand (left or right). For all youth teams (13 years and under) a full first and last name is never displayed online to anyone other than the team administrator(s) for that team.
+In addition, team administrators (coaches, scorekeepers, volunteers) may input a limited amount of optional information about players on their amateur athletic teams. As of the writing of this document the following information is requested (but not required): first name, last name, position and preferred throwing and batting hand (left or right).
 
 ##### How do we use this information?
 
@@ -36,13 +38,9 @@ Cookies are pieces of information that a website transfers to an individual's ha
 
 Yes. The GameChanger website stores some preferences for team administrators and for other viewers of GameChanger’s content.
 
-##### Questions or Concerns
-
-GameChanger Media, Inc. reserves the right to modify these regulations from time to time to better address your concerns or to make other additions, deletions or changes that GameChanger Media, Inc. determines to be appropriate.
-
 ##### Disclosure
 
-GameChanger may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or if your actions violate the [Terms of Use](https://web.archive.org/about/terms).
+GameChanger may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or if your actions violate the Terms of Use.
 
 ##### Questions or Concerns
 
@@ -50,4 +48,4 @@ GameChanger Media, Inc. reserves the right to modify these regulations from time
 
 If you have any questions, comments or concerns regarding the GameChanger Media, Inc. privacy policy, please [contact us](http://gc.io/help).
 
-This Privacy Policy is effective as of January 12, 2012.
+This Privacy Policy is effective as of March 24, 2010. **Updated: September 4, 2012**
