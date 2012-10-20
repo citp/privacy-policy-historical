@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610233244id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020052627id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PrivacyGuard
 
@@ -6,9 +6,6 @@
 
 **_Get your first month  
 for just $1_**
-
-Billing Terms and  
-Conditions Apply
 
 **[Online Privacy Policy](https://web.archive.org/BCA/PG_NEW2/images/privacypolicy/PPolicyPGNEWGeneric.pdf)**
 
