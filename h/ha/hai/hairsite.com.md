@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairsite.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304233353id_/http%3A//www.hairsite.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsite.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020055657id_/http%3A//www.hairsite.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -24,8 +24,4 @@ Readers are welcome to email us with their questions about general hair care and
 
 Users may opt out to have their information shared with third parties by emailing 
 
-[ HairSite@aol.com](mailto:HairSite@aol.com) or PO Box 1741, New York, NY 10159-1741. Please allow 10 days for the opt out request to take effect. 
-
-As of the time this privacy and terms of use statement is published or revised, HairSite receives sponsorship or advertising fees from 
-
-[ Dr. Armani](http://www.alviarmani.com/) | [ Dr. Bisanga](http://www.bhrclinic.com/) | [ Dr. Cole](http://www.forhair.com/) | [Dr. Jones](http://www.drrobertjones.com/) | [ Dr. Hitzig](http://www.nyhairloss.com/) | [ Dr. Klein](http://www.hairgrowthmd.com/) | [ Dr. Madhu](http://www.hairhospi.com/) | [ Dr. Ng](http://www.alaxis.com.sg/index.php?option=com_content&view=article&id=43&Itemid=62) | [ Dr. Poswal](http://www.fusehair.com/) | [ Dr. Rahal](http://www.rahalhairtransplant.com/) | [ Dr. Razack](http://www.raztec.com/) | [ Dr. Umar](http://www.dermhairclinic.com/) | [ Dr. Woods](http://www.woodstechnique.com.au/) | [ Dr. Woods-Campbell](http://www.thewoodstechniquemd.com/) | [ HDC Clinic](http://www.hdc.com.cy/) | DHI Global | [ HairDirect](http://www.hairdirect.com/) | [ Lasercomb](http://hairmax.com/hairsite/) |
+[ HairSite@aol.com](mailto:HairSite@aol.com) or PO Box 1741, New York, NY 10159-1741. Please allow 10 days for the opt out request to take effect.  As of the time this privacy and terms of use statement is published or revised, HairSite receives sponsorship or advertising fees from  [ Dr. Armani](http://www.alviarmani.com/) | Dr. Bhatti | [ Dr. Bisanga](http://www.bhrclinic.com/) | [ Dr. Cole](http://www.forhair.com/) | Dr. Epstein | [Dr. Jones](http://www.drrobertjones.com/) | [ Dr. Hitzig](http://www.nyhairloss.com/) | [ Dr. Klein](http://www.hairgrowthmd.com/) | [ Dr. Madhu](http://www.hairhospi.com/) | [ Dr. Poswal](http://www.fusehair.com/) | [ Dr. Rahal](http://www.rahalhairtransplant.com/) | [ Dr. Razack](http://www.raztec.com/) | [ Dr. Umar](http://www.dermhairclinic.com/) | [ Dr. Ray Woods](http://www.woodstechnique.com.au/) | [ HDC Clinic](http://www.hdc.com.cy/) | DHI Global | HairDirect | [ Lasercomb](http://hairmax.com/hairsite/) |
