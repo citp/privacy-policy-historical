@@ -1,125 +1,121 @@
-> *The following text is extracted and transformed from the toolbox.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018193557id_/http%3A//www.toolbox.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbox.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020070524id_/http%3A//www.toolbox.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Toolbox.com Home
+# Ziff Davis, Inc. Privacy Policy « Ziff Davis
 
-### Toolbox.com Privacy Policy
+Updated May 2012
 
-TOOLBOX.COM, LLC (“TOOLBOX.COM”), a wholly owned subsidiary of the Corporate Executive Board Company (“CEB” or “Company”) (collectively “Our”), is committed to protecting your personal information. This Privacy Policy (the “Policy”) explains how TOOLBOX.COM collects and uses the personal information that you provide online to one of our TOOLBOX.COM websites (collectively, the “Sites”), and/or in conjunction with your registration for one of our services (the “Services”).
+**Ziff Davis, Inc. Privacy Policy**
 
-You should read this Policy before you submit any personal information to us. By using our Sites and Services, you consent to the collection and use of your personal information as outlined in this Policy. If you do not agree with the content of this Policy, you should refrain from using our Sites and Services. 
+This Privacy Policy describes what information Ziff Davis and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.
 
-### 1\. Who We Are
+**What we collect:**
 
-The Corporate Executive Board, which owns and operates the Sites, has its principal place of business at 1919 North Lynn Street, Arlington, Virginia 22209, United States. More information about CEB and its network of Services can be found at [www.executiveboard.com](http://www.executiveboard.com/)
+**Part 1- ‘ _Personal Information’_**
 
-Toolbox.com, which is a wholly-owned subsidiary of CEB, has its principal place of business at 4343 N. Scottsdale Road, Scottsdale, Arizona 85251 Suite 280. More information about Toolbox.com and its network of Services can be found at [www.toolbox.com](http://www.toolbox.com/). 
+Personal Information generally means information which might reasonably be used to specifically identify you and may include information such as your name, address, age, credit card details, email and phone number. We collect such personal information when you provide it to us, such as when you:
 
-This Policy covers our treatment of personally identifiable information that TOOLBOX.COM collects when you use any of our Sites or Services. This Policy does not apply to the practices of companies that CEB does not own or control or to people that CEB does not employ or manage.
-
-### 2\. What We Collect
-
-_In General._ We may collect and store any personally identifiable information you provide to us. Personally identifiable information is data that identifies you, or that can be combined with other information to identify or contact you, and includes (but is not limited to) your name, business or personal physical or email address, and telephone number.
-
-You are not obligated to provide us with any personally identifiable information, although registration is required to access the full range of information and Services offered. TOOLBOX.COM enables users (“Members”) to create TOOLBOX.COM profiles, which allow them to control their profile information and whether it should be made public or private. This also allows members to identify themselves with their contributions to any TOOLBOX.COM Site and to manage their TOOLBOX.COM e-mail-based subscriptions. We strive to limit the type of personally identifiable information that we collect to information that helps us accomplish our goal of providing first-class services for the benefit of our existing and prospective Members.
-
-_Members._ If you are a TOOLBOX.COM Member and access the restricted, Members-only areas of our Sites, TOOLBOX.COM may collect additional information relating to your participation in TOOLBOX.COM Services, such as collecting your resume for our Job Center. We also may obtain information about your access and use of TOOLBOX.COM research materials, decision-support tools, and other online and offline offerings. 
-
-_Information from other sources._ We also may periodically obtain information about you from partners and other sources, and combine that information with information we collected from you. Examples of information we may receive includes updated contact information and additional demographic information.
-
-_Information collected automatically._ When you visit the Sites, we automatically collect and analyze certain information about your computer. This information includes but may not be limited to the IP address used to connect your computer to the Internet, information about your browser type and language, the date and time you are accessing our site, the content of any undeleted cookies that your browser previously accepted from us, and the referring website address. 
-
-_Use of cookies and other technologies._ We use various technologies to collect information about your activities on our site. 
-
-  * _Cookies._ When you visit our Sites, we may assign your computer one or more "cookies." A cookie is a small text file that contains information that can later be read by us to facilitate your access to our Sites and personalize your online experience. For example, whenever you sign into our Sites, we will record your user ID in a cookie file on your computer. Cookies that TOOLBOX.COM creates that are stored on the user’s hard drive do not store any personally identifiable information. If applicable, we may also record your password in this cookie file, if you checked the box entitled "Save this password for automatic sign-in." Also, through the use of a cookie, we may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our Sites.
-  
-
-  * _Other Technologies._ We may use standard Internet technology, such as Web beacons(also called clear GIFs or pixel tags) and other similar technologies, to deliver or communicate with cookies and track your use of our Sites. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer and measure the overall effectiveness of our online content, advertising campaigns, and the products and services we offer through the Sites.
+  * Subscribe to the PC Magazine Digital Edition
+  * Register with any of our Ziff Davis B2B sites including Toolbox.com
+  * Purchase software license or a product
+  * Sign up for email newsletters or white papers
+  * Enter a sweepstakes
+  * Register for site membership and webinars
+  * Participate in surveys
+  * Create a profile or
+  * Otherwise communicate with us.
 
 
 
-__Information Collected by Third Parties.__ Third parties, such as companies, advertising entities, and business partners, may use cookies and other technologies (such as Web beacons) to collect information about your online activities. The purposes for collecting this information includes: to measure usage of our site; to analyze, modify, and personalize advertising content on our Sites; and to provide ads about goods and services we hope will be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are subject to those third parties’ own privacy policies, not this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected. 
+Several of the services that we offer require registration as a condition of use. We may also receive personal information about you from other sources and add it to the information you have provided to us.
 
-### 3\. How We Use The Information We Collect
+Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in our forums, blogs, wikis, chat rooms, or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas that allow users to upload or post content. We discourage users from posting personally identifiable information in this fashion, and any personally identifiable information you post to these areas is not covered by this Policy. You can change your publicly available information at any time via your profile page.
 
-_In General._ TOOLBOX.COM uses the information we collect about you for the following purposes: 
+**Part 2-** **_Other Information We Collect:_**
 
-  * to respond to inquiries that you submit to us about TOOLBOX.COM membership via the online “contact us” feature and determine which Services will help you achieve your business goals; 
-  * to send you membership details and information about TOOLBOX.COM Services and services that you have requested from us;
-  * to administer your membership and facilitate your access to and provide you with TOOLBOX.COM resources, decision-support tools, and other materials available to you through your Services membership; 
-  * to attribute content that you make available through the Sites;
-  * to communicate with you about surveys, marketing, promotions, events, educational forums, and other exclusive opportunities offered by TOOLBOX.COM, including information about other TOOLBOX.COM Services in which you may be interested; 
-  * to provide you with relevant advertising about products and services in which you may be interested;
-  * to engage in research and analysis in order to maintain, protect and improve our Services, as well as develop new services; 
-  * to enhance the TOOLBOX.COM network and TOOLBOX.COM products and services;
-  * for the purposes for which you provided the information;
-  * to customize the advertising and content you see, including the display of targeted advertisements;
-  * to generate anonymous and/or aggregated reporting; 
-  * to protect our rights and enforce our Terms of Service; and 
-  * to ensure the technical functioning of the Sites.
+_Web Beacons_  are electronic files that allow a web site to count users who have visited that page or to access certain cookies. When you receive email messages or newsletters from us, we may use web beacons, customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
 
+_Cookies_   are small text files that are placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. Like many other web sites, Ziff Davis sites use cookies to enable you to sign in to our services and to help personalize your online experience. We may use a cookie to identify members so they do not have to re-enter a user ID and password when they wish to download a utility, post to a discussion, or sign into an account. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies can also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf.
 
+_Pixel Tags,  _also known as clear gifs, beacons, spotlight tags or web bugs, are a method for passing information from the user’s computer to a third party Web site. Used in conjunction with cookies, Ziff Davis may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns. Pixel tags are also used as a supplement to our server logs and other methods of traffic and response measurement, and are sometimes used in conjunction with small Javascript-based applications. We may also implement pixel tags provided by other companies for the same purpose.
 
-Individuals having access to your personally identifiable information may include TOOLBOX.COM employees, as well as agents and service providers who provide services on our behalf.
+You need not have cookies turned on to visit all of our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of a Ziff Davis web site, you must have cookies enabled to access any member related pages (i.e., Discussion Boards, Member Profile pages, Search for a Member).
 
-Also, we may share aggregated or anonymized information with our partners and advertisers to measure the success of services and campaigns. Aggregated and anonymized information is not personally identifiable, and we reserve the right to share such information with third parties without limitation. 
+**What We Provide to Third Parties:**
 
-In the event that you post personally identifiable information in discussion forums or other areas of the Sites allowing users to upload or post content, that information can be viewed by any user with access to those areas. We discourage users from posting personally identifiable information in this fashion, and any personally identifiable information you post to these areas is not covered by this Policy.
+_Statistical Reports and Mailing Lists  _The aggregate statistics that describe our online audience, which are often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis and our brands. In addition, we make certain information such as the name of our users, their mailing address, phone number, email addresses, and – in certain circumstances – their employer’s name, company size and other industry data (when voluntarily submitted by the user) available on a rental or other basis (e.g. sale) to third party providers of goods and services. To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control what is Collected section below.
 
-### 4\. Choices About The User Of Your Information
+_Email Deployment, Data Analysis E-Commerce and Other Services  _We provide customer lists,  email addresses and other information to third party companies and contractors who provide us with specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses), subscription fulfillment, and customer support and service, research, statistical analysis, data and website hosting and other data and transaction processing. These companies work on our behalf and we do not provide our lists or other data to them for their own, permanent use. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They should also maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-TOOLBOX.COM believes that it is important that individuals are given the opportunity to exercise choice with respect to how their personally identifiable information is collected and used. If we propose to use your personally identifiable information for any purposes other than those described in this Policy or any service-specific privacy notices, we will allow you a convenient way to opt-out of such further uses.
+Please note that we engage third party service providers for the purpose of processing sales of subscriptions, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, or other services. These service providers have access to or are provided with certain personal information (including credit card information) in order to provide us with the applicable service.
 
-_Marketing Communications:_ We hope you find value in the communications we provide, and we will respect your wishes not to receive marketing communications. Please note that we will continue to send you member services emails and other service-related communications regardless of any such request. These service-related communications are an integral part of the TOOLBOX.COM Services to which you subscribe. Rest assured that TOOLBOX.COM will not share your personal information with other non-agent third parties for their own promotional or marketing purposes, without giving you a choice about such sharing.
+_Webcasts  _At times we produce and host sponsored webcasts for a variety of companies (“Sponsors”). Data collected during the registration process and the actual event may be shared with those Sponsors and others, and is governed by our policy and the third party’s privacy policy and may be used by us and the Sponsor for follow-up purposes.
 
-### 5\. Disclosures To Third Parties
+_Contests/Sweepstakes  _Data collected during the registration for contests and sweepstakes is used by us and may be shared with sponsors. Please read the contest rules carefully before you submit your data.
 
-TOOLBOX.COM may share your personally identifiable information with other companies or individuals in the following instances
+_Co-Branded Sites and Services  _When you use a co-branded service (a service operated with a service or site partner of Ziff Davis), or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Use of your information by such partners is subject to their privacy policies as well as ours.
 
-  * When we have your explicit consent to share such information.
-  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required or permitted by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
-  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of TOOLBOX.COM, our customers, or others; and in connection with our Terms of Service and other agreements.
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+_White Papers/Other Sponsored Downloads  _Ziff Davis hosts product listings and offers informational downloads for a variety of third party vendors. When registration is required in order to receive or view the download, some or all data collected during product registration and/or Ziff Davis web site registration may be shared with the vendor (and other third parties).
 
+_Ecommerce_  When shopping on certain of our sites or pages, users may need to provide personally identifiable information necessary to fulfill an online order, including name, billing address, shipping address, telephone number, email address, credit card number (with expiration date), and any of the above information needed to send a package to a gift recipient. If a user creates an account, the credit card information above will not be stored under their account. When placing an order, credit card information may be either temporarily stored on a Ziff Davis server and then immediately transferred to a secure server of a PCI compliant third party or will be immediately entered onto a secure server of a PCI compliant third party. We partner with a number of third parties to process and fulfill orders, send transactional emails, and ensure delivery of downloads and packages. While these third parties may have access to personal information in order to perform their duties, they are not permitted to use it for other purposes. __
 
+**What Third parties and Ziff Davis May Collect:**
 
-Please note that, when you become a TOOLBOX.COM Member and publicly share information in your profile, other users can see and access that information. 
+_Online Ad Serving.  _Ziff Davis and some of our advertisers use third-party advertising service companies to serve advertisements when you visit our sites. Often, these third-party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web and e-mail advertisement and to create a record of interaction with our site content that they use in conjunction with their advertising which appears on other sites, or for reporting web site traffic, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data.   **The specific providers we use are subject to change.   **As of the date of the posting of this policy, some of **** the current providers include **** DoubleClick, Omniture SiteCatalyst and Google Analytics (for information about how to opt out of tracking methods for these entities and others [**click here**](http://www.aboutads.info/))
 
-In the event that TOOLBOX.COM wishes to share your personally identifiable information in a manner that is not discussed above, you will have an opportunity to choose not to have us share such information.
+**What Ziff Davis does with the Information it Collects**
 
-We may also share aggregate or anonymous information with third parties, including advertisers, investors, and partners. Aggregate or anonymous information does not contain any personally identifiable information, and its use and disclosure is not subject to the terms of this Policy.
+**Personal Information.** How we use personal information is described in the Section _What We Provide to Third Parties._
 
-### 6\. International Transfers Of Personal Information
+**Emails.   **We use email addresses to send offers of services or products (and as set forth in the Section _What We Provide to Third Parties_ ). Any recipient will be able to unsubscribe from receiving these emails.
 
-TOOLBOX.COM operates the Sites in the United States and, depending on your country of residence, the submission of personally identifiable information to our Sites may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence. 
+**Other Information: Ad Serving and Ziff Davis.  **At times we display ads both on our network of owned and operated web sites and on non-Ziff Davis web sites. When you visit one of our web sites or view ads that we serve off of our network elsewhere on the Internet, you may see multiple kinds of ads, such as text ads next to search results and graphical ads shown on web pages. Sometimes these ads are based on the content of the page on which they appear. Other times these ads are generated by matching the ad to your interests as inferred from your browsing activities collected online. Either way, Ziff Davis tries to show you relevant ads, and to do so, we may use information we know or receive about you like your gender, location or interests.
 
-### 7\. Access And Correction Of Personally Identifiable Information
+_Interest-based Ads:_  We use cookies, Javascript, pixel tags and other technology to collect information about your visit (“Online Data”) to our sites and other third party partner websites that we do not own or operate but with whom we have agreements.  We analyze what pages you visit on our sites and the third party sites, what products or services you view, and whether you view or click on ads that are shown to you. We use this information to send you interest based ads. All such data is also collected anonymously, and is aggregated with other data we collect and/or similar data collected by partners to create segments, groups of users and certain general interest categories or segments that we have inferred based on (a) demographic or interest data, and a general geographic location derived from your IP address, (b) the pages you view and links you click when using our sites and services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests.
 
-You can request access to any personally identifiable information that we hold about you and ask us to correct any personally identifiable information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personally identifiable information in our possession, please contact:
+We store page views, clicks and search terms used for ad personalization targeting separately from your contact information or other data that directly identifies you (such as your name, e-mail address) which we obtained as described above under _Personal Information_ and we do not combine the two sets of data.
 
-Chief Compliance Officer, The Corporate Executive Board, 1919 North Lynn Street, Arlington, Virginia 22209; or email us at legaldept@executiveboard.com.
+We will engage third party providers to assist with the collection, storage and segmentation of this Online Data; and the providers are required to maintain the confidentiality of this information. These efforts do not result in the collection of personally identifiable information such as name or address; and we do not intentionally collect data that we consider to be sensitive such as health or medical information. This data is not sold or transferred to any third party. Except as may be set forth elsewhere in this policy, this Online Data is retained for not more than 180 days after which it shall expire except in certain situations when the same user subsequently visits one of our sites or a partner’s site in which event the 180 day period will commence again.
 
-In some cases, TOOLBOX.COM Members can directly access their online profiles and other personal details, enabling them to amend, update or add information by themselves at any time by logging into the relevant Services webpage.
+**_How You Can Change or Control what is Collected:_**
 
-### 8\. Information Security
+_Cookies._  Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.  You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon AdChoice
 
-TOOLBOX.COM has implemented reasonable technical and organizational security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of personal information. Unfortunately, no data transmission over the Internet can be guaranteed to be entirely secure, and TOOLBOX.COM assumes no liability for any damage suffered by you caused by the interception, alteration, or misuse of information during transmission. 
+However, if you ‘turn off,’ purge or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions or services available on our websites. Please [click here](http://www.aboutads.info/) to learn more about the use of cookies, your opt out choices, and more.
 
-Please note that the effective security with respect to our Sites depends, in part, on our Members ensuring that any IDs and passwords that they have been issued by us are kept confidential and secure and that Members adhere to the restrictions on password and ID-sharing set forth in our Terms of Use. 
+Ziff Davis supports the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information [click here](http://www.aboutads.info/)), and has Evidon Inc.’s assurance platform to comply with these Principles. As part of this service, online ads that we place using behavioral data we collect are expected to be delivered with the Advertising Option Icon (also referred to as the _Forward i_ ) or similar icon that helps consumers understand how their data is being used and provides choices for consumers who want more control. Online advertisements on our sites targeted to you based on previously collected online data about you by third parties should also have the Advertising Option Icon.  This icon is also at the bottom of each of our web pages. The Advertising Option icon provides information (and links to other information) on online behavioral ads, who is collecting and using your online data, how you can opt out and more.
 
-### 9\. Other Websites
+_Pixel Tags._ You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
 
-To provide increased value to users of our Sites, we may provide links to other websites or resources that are not part of the TOOLBOX.COM network of Services. TOOLBOX.COM does not exercise control over these websites or their privacy practices.
+_Updating Your Registration Information._ You can correct or change the information collected during site registration at any time at the profile page links shown below or by sending email to the addresses shown below. Please allow five to ten business days for corrections or changes to be publicly displayed or implemented throughout our systems.
 
-We encourage our users to be aware when they leave our Sites and to read the privacy statements of each and every Web site that collects personally identifiable information.
+_Your Newsletter Subscriptions._ You can opt-in to newsletter mailing lists, or remove yourself at any time through the [newsletter subscription management page](http://www.pcmag.com/newsletter_manage) (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow five to ten business days for changes to take effect.
 
-### 10\. Your California Privacy Rights
+_Your Subscription Information._ You can correct or change your PC Magazine Digital Edition subscription information and your preferences as to our ability to provide your information to third parties for their own marketing purposes click [here](http://www.pcmag.com/article2/0,2817,1329747,00.asp).  Please allow two to four weeks for changes to take effect (if you are a new subscriber, your information may not be immediately available at this URL – please allow up to four weeks from placing your subscription order for processing). You can correct or change your Toolbox.com subscriptions and preferences using the account settings[ here](http://it.toolbox.com/home/settings). Please note member service-related communications are an integral part of the Toolbox.com service to which you subscribe and you will continue to receive these emails as part of the Toolbox.com service.
 
-If you are a California resident, you are entitled by law to request an Information Sharing Disclosure. If you contact us at the address below, we will provide you with a notice of your right to prevent sharing of your personal information as well as a cost-free means of doing so. To receive such a notice, submit a written request to the address listed in the Access section below, specifying that you seek your "California Customer Choice Notice." Please allow thirty days for a response.
+_Stop Sharing of Lists.   _Many customers appreciate the offerings they receive from the third party providers of goods and services to whom we provide lists of our customers, but here is what to do if you no longer wish for us to share this information with such providers:
 
-### 11\. Changes To This Policy
+If you are a registered user of our sites, you can change your preferences via the following profile page links: [ExtremeTech](http://www.extremetech.com/sign_up/0,1213,,00.asp?success_page=%2Fview%5Fprofile%2F0,,,00+en%2DUSS%5F01DBC%2Easp&success_title=View+Member+Profile&failure_page=http%3A%2F%2Fziffdavis%2Ecom%2Fabout%2Fprivacy); [PCMag.com and the PCMag.com Utility Library](http://www.pcmag.com/join/0,2949,,00.asp?success_page=%2Fview%5Fprofile%2F0,,,00+en%2DUSS%5F01DBC%2Easp&success_title=View+Member+Profile&failure_page=http%3A%2F%2Fziffdavis%2Ecom%2Fabout%2Fprivacy); [LogicBuy.com ](http://www.logicbuy.com/viewprofile.aspx) and [Smart Device Central](http://www.smartdevicecentral.com/pages/sign_in.aspx?ReturnUrl=%2fmembers%2fview_profile.aspx%3fpagetype%3dview_profile&pagetype=view_profile); one of the [Ziff Davis B2B Focus sites; ](http://www.focus.com/about/email-policy/)and for a [Toolbox.com site](http://it.toolbox.com/home/settings), or send an email to [ZDinfo2012@ziffdavis.com](mailto:ZDinfo2012@ziffdavis.com). If you provided your contact information to PCMag.com in order to download a white paper, case study or other document provided by a Ziff Davis advertiser or to enter a PCMag.com contest sponsored by a Ziff Davis advertiser, please send an email with your preference request changes to: [ZDinfo2012@ziffdavis.com](mailto:ZDinfo2012@ziffdavis.com).
 
-This Policy may change from time to time, and we will post any Policy changes on this page. If we feel it appropriate, we will provide a more prominent notice at our discretion. Your continued use of our Sites following such posts or notices will signal your acceptance of such changes.
+Please allow up to ten business days for any changes to be implemented throughout our systems.
 
-  * If you have any additional questions or concerns about this Policy, please feel free to contact us at Chief Compliance Officer, The Corporate Executive Board, 1919 North Lynn Street, Arlington, Virginia 22209; or email us at legaldept@executiveboard.com
+**Other Useful Information Regarding Your Privacy**
 
+_Change of Ownership of Ziff Davis._ **** Some or all personal information maintained by Ziff Davis may be subject to transfer to another company in the event of a change of ownership of Ziff Davis or sale of any part of Ziff Davis.
 
+_Security_. We believe we use reasonable precautions to keep the personal information you disclose to our websites secure and to only release this information to third parties that share our commitment to privacy. However, we cannot guarantee there will not be a breach and we are not responsible for any breach of security or for the actions of any third parties.
+
+_Children._ **** Ziff Davis web sites are not intended for use by children, especially those under 13. No one under age 13 should provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases on our sites. If, notwithstanding these prohibitions, your children disclose information about themselves in our public discussion areas, consequences may occur that are not intended for children (e.g., they may receive unsolicited messages from other parties).
+
+_Links to Other Sites._ Ziff Davis web site may contain links to other sites whose information practices may be different from ours.  We do not have control over the information that is submitted to, or collected by, these third parties.  You should consult the privacy policy of these other sites to learn how your privacy is protected.
+
+_Compliance with Law and Other Terms._ **** Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our [**Terms of Use**](http://www.ziffdavis.com/about/terms) or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
+
+_International._ Ziff Davis operates websites in the United States and, depending on your country of residence, the submission of personally identifiable information to our sites may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
+
+**Please visit our**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **page for more information concerning your use of Ziff Davis websites and other services. The**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **are incorporated by reference into this Privacy Policy.**
+
+_Changes to the Privacy Policy_ We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change, we may indicate on our sites that our Privacy Policy has changed. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of our sites shall be deemed your acceptance of the Privacy Policy.
+
+**We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.**
+
+**Questions?** If you have any questions on our Privacy Policy, you can contact us at [HR@ziffdavis.com](mailto:HR@ziffdavis.com); be sure to include _Ziff Davis Privacy Policy Question_  in the subject line.
