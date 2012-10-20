@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621230914id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021002046id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MexGrocer.com - Privacy Policy
 
@@ -84,7 +84,7 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 Your **** Feedback
 
-At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](https://web.archive.org/web/20120621230914id_/http%3A//www.mexgrocer.com/contact.html) and let us know or write us by mail at: 
+At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](https://web.archive.org/web/20121021002046id_/http%3A//www.mexgrocer.com/contact.html) and let us know or write us by mail at: 
 
 MexGrocer.com LLC  
 4060 Morena Blvd. Suite C  
