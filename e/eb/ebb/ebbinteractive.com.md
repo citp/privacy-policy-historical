@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ebbinteractive.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419040741id_/http%3A//www.ebbinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebbinteractive.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020090804id_/http%3A//www.ebbinteractive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EBB Interactive
 
 ##  Privacy Policy 
 
-Last Updated January 12, 2011
+Last Updated January 12, 2012
 
 Thank you for visiting Empowered Brand Builders, Inc. / DBA: E.B.B. Interactive – MyBrandBuilderPro (“EBB/MBBP”): website design, web development, PPC services, video production, SEO services, software development, online micro-franchises, digital marketing training, and e-commerce Internet website (“Site”) located at the URLs www.empoweredbrandbuilders.com, www.ebbinteractive.com and www.mybrandbuilderpro.com. This Privacy Policy details certain policies implemented throughout EBB/MBBP governing EBB/MBBP’s use of Personally Identifiable Information provided to EBB/MBBP Classroom via this Site. 
 
@@ -72,5 +72,5 @@ EBB/MBBP provides you with the ability to review, correct and delete any of the 
 
 You may also contact us by email at: admin@empoweredbrandbuilders.com if you have any questions regarding this Privacy Policy or how to delete your Personally Identifiable Information. 
 
-Copyright 2011 Empowered Brand Builders, Inc. – DBA: E.B.B. Interactive | www.MyBrandBuilderPro.com |www.EBBinteractive.com  
+Copyright 2012 Empowered Brand Builders, Inc. – DBA: E.B.B. Interactive | www.MyBrandBuilderPro.com |www.EBBinteractive.com  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
