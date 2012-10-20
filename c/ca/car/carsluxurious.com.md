@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsluxurious.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620230126id_/http%3A//carsluxurious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsluxurious.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021002827id_/http%3A//carsluxurious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cars Luxurious
 
@@ -47,4 +47,8 @@ Update
 This Privacy Policy was last updated on: Saturday, February 25th, 2012.  
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
 
-No tags for this post.
+#### Cars News:
+
+[June 2012](http://carsluxurious.com/privacy-policy/ "June 2012")
+
+This entry was posted by at February 18, 2012 
