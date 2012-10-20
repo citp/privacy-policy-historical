@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectmath.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217090250id_/http%3A//www.connectmath.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectmath.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021004747id_/http%3A//www.connectmath.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
