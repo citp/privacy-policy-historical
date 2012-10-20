@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyindia.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501100303id_/http%3A//www.dailyindia.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyindia.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020044850id_/http%3A//www.dailyindia.com/pages/privacy.php) for the most accurate reproduction.*
 
 # DailyIndia.com Privacy Policy
 
