@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desvirgadaporelculo.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602035404id_/http%3A//support.herassgotfucked.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2535%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desvirgadaporelculo.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020182012id_/http%3A//support.herassgotfucked.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2535%26country%3Dus) for the most accurate reproduction.*
 
 # Her Ass Got Fucked
 
