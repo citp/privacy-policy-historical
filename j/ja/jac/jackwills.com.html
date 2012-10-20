@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the jackwills.com privacy policy that was archived on 2012-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514042253id_/http%3A//www.jackwills.com/en-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jackwills.com privacy policy that was archived on 2012-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121020162422id_/http%3A//www.jackwills.com/en-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" class=" js"><!--<![endif]--><head>
+    <!--Redirect if page is secured and user not login-->
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     
     
@@ -14,7 +15,9 @@
 <meta property="og:title" content="Privacy Policy | Jack Wills">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="stylesheet" href="/css/EN_core.css" media="screen" type="text/css">
+    <link rel="stylesheet" href="/css/EN_Navigation.css" media="screen" type="text/css">
     <link rel="stylesheet" href="/css/print.css" media="print" type="text/css">
+    
 
     
 <link rel="Stylesheet" href="/css/sections/EN_Customer_Service.css" media="screen" type="text/css">
@@ -22,7 +25,7 @@
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://pro.marinsm.com/tracker/async/wzkoktmm70.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=122883687800346"></script><script type="text/javascript" src="/scripts/jquery.js"></script>
    
     <meta property="og:type" content="">
-    <meta property="og:url" content="http://www.jackwills.com/en-US/privacy-policy">
+    <meta property="og:url" content="http://www.jackwills.com/en-us/privacy-policy">
     <meta property="og:image" content="http://www.jackwills.com">
     <meta property="og:image" content="http://www.jackwills.com/Images/master_page/jw_header_logo.gif">
     <meta property="og:site_name" content="Jack Wills">
@@ -72,13 +75,15 @@
     
 <script type="text/javascript">
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-3647720-14']);
-    
-    if (document.referrer == '')
-        _gaq.push(['_setCustomVar', 5, 'Traffic', 'Direct', 2]);
-    
-    _gaq.push(['_trackPageview']);
-    
+    $(window).load(function () {
+	    _gaq.push(['_setAccount', 'UA-3647720-14']);
+	    
+	    if (document.referrer == '')
+	        _gaq.push(['_setCustomVar', 5, 'Traffic', 'Direct', 2]);
+	    
+	    _gaq.push(['_trackPageview']);
+	    
+    });	
 </script>
 
     <div id="fb-root"></div>
@@ -91,38 +96,46 @@
         } (document, 'script', 'facebook-jssdk'));</script>
     <div class="container">
         <!-- begin: header -->
+        <div id="header_strip">
+            <div id="header_strip_inner">
+                <div id="store_prefs">
+                    
+    <ul class="nav_currency">
+    
+         <li data-lang="usd" class="usd active">
+            <a href="/en-us/privacy-policy" title="Switch to United States website">United States </a>
+        </li>
+         
+    
+    </ul>
+
+   
+                    <a href="/en-us/about/shopping-with-us/store-locator/" class="storeLocatorLink">Store Locator</a>
+                </div>
+                <div id="utilities">
+                    <li>1 866 280 9963</li><li><a href="/en-gb/about/here-to-help/contact-us/">Contact Us</a></li>
+                     
+        <li class="loginStatus"><a href="/en-us/account/login?ReturnUrl=/en-us/privacy-policy">Log in</a> / 
+        <a href="/en-us/account/register?ReturnUrl=/en-us/privacy-policy">Sign up</a></li>
+    
+
+                </div>
+            </div>
+        </div>
         <div class="header" role="banner">
             <div class="inner">
-                &nbsp;<!--Redirect if page is secured and user not login-->
+                <div class="share_jackwills"><ul><li><a target="_blank" href="http://www.facebook.com/jackwillsusa" title="Facebook" class="facebook">Facebook</a></li><li><a target="_blank" href="http://www.twitter.com/jackwillsusa" title="Twitter" class="twitter">Twitter</a></li><li class="follow_us">Follow Us!</li></ul></div>&nbsp;
                 <a href="/en-us/home" class="logo">
                     <span>Jack Wills - University Outfitters</span>
                     
         	    </a>
               <div id="mini_basket">
-                   
-    <ul class="nav_user">
-        <li><a href="/en-us/account/login?ReturnUrl=/en-US/privacy-policy">Log in</a> / </li>
-        <li><a href="/en-us/account/register?ReturnUrl=/en-US/privacy-policy">Sign up</a></li>
-    </ul>
-
-                  
-
-<form id="search" action="/en-us/search-results/" method="post" role="search">
-    <fieldset>
-        <legend class="hide">Search Jack Wills</legend>
-        <label for="search_box" class="inline">
-            Product Search
-        </label>
-        <input type="input" id="search_box" name="searchTerms" autocomplete="off" value="">
-        <button type="submit">Search</button>
-    </fieldset>
-</form>
                   
 
 <div id="basket_count" class="basket_count">
     <a class="text_link basket_icon" title="View Shopping Bag" href="/en-us/store/shopping-bag" id="mini_cart">
+        <span class="item_count">[0]</span>
          Items in Bag 
-    <span class="item_count">0</span>
     </a>
 
     <div class="mini_basket" style="display: none;">
@@ -136,20 +149,223 @@
               </div> 
             
             </div>
-            <div id="navcontainer">
-                <!--<a href="/en-us/feature/bsjia/" class="jw_seasonnaires">University Tours</a>-->
-                <div class="inner cf">
-                    <ul id="navigation">
-                        <li><a href="/en-us/ladies/" class="ladies">Ladies</a><ul class="three_column" style="display: none;"><li><a href="/en-us/ladies/bags-and-purses" title="Ladies Accessories &amp; Bags">Accessories &amp; Bags</a></li><li><a href="/en-us/ladies/jackets" title="Ladies Blazers &amp; Coats">Blazers &amp; Coats</a></li><li><a href="/en-us/ladies/denim" title="Ladies Denim">Denim</a></li><li><a href="/en-us/ladies/dresses" title="Ladies Dresses">Dresses</a></li><li><a href="/en-us/ladies/footwear" title="Ladies Footwear">Footwear</a></li><li><a href="/en-us/ladies/gym-range" title="Ladies Gym Range">Gym Range</a></li><li><a href="/en-us/ladies/Jewellery" title="Ladies Jewellery">Jewellery</a></li><li><a href="/en-us/ladies/hoodies-and-sweat-tops" title="Ladies Hoodies &amp; Sweat Tops">Hoodies &amp; Sweat Tops</a></li><li><a href="/en-us/ladies/hosiery-and-socks" title="Ladies Hosiery &amp; socks">Hosiery &amp; socks</a></li><li><a href="/en-us/ladies/make-up" title="Ladies Make-Up">Make-Up</a></li><li><a href="/en-us/ladies/playsuits" title="Ladies Playsuits">Playsuits</a></li><li><a href="/en-us/ladies/shirts" title="Ladies Shirts">Shirts</a></li><li><a href="/en-us/ladies/shorts" title="Ladies Shorts &amp; Skirts">Shorts &amp; Skirts</a></li><li><a href="/en-us/ladies/knitwear" title="Ladies Sweaters">Sweaters</a></li><li><a href="/en-us/ladies/sweatpants" title="Ladies Sweatpants">Sweatpants</a></li><li><a href="/en-us/ladies/Swimwear" title="Ladies Swimwear">Swimwear</a></li><li><a href="/en-us/ladies/tops-and-tees" title="Ladies Tops &amp; Tees">Tops &amp; Tees</a></li><li><a href="/en-us/ladies/trousers-and-leggings" title="Ladies Trousers &amp; Leggings">Trousers &amp; Leggings</a></li><li><a href="/en-us/ladies/underwear" title="Ladies Underwear">Underwear</a></li><li><a href="/en-us/ladies/gilets" title="Ladies Vests">Vests</a></li><li><a href="/en-us/get-the-look/ladies/" title="Ladies Get the Look">Get the Look</a></li><li><a href="/en-us/summer/ladies-superbrights" title="Ladies Super Brights">Super Brights</a></li><li><a href="/en-us/summer/ladies-shorts" title="Ladies Summer Shorts">Summer Shorts</a></li><li><a href="/en-us/ladies/swimshop" title="Ladies Swim Shop">Swim Shop</a></li><li><a href="/en-us/ladies/dresses" title="Ladies Summer Dresses">Summer Dresses</a></li><li><a href="/en-us/summer/ladies-red,whiteblue" title="Ladies Red, White and Blue">Red, White and Blue</a></li><li><a href="/en-us/summer/ladies-perfectly-preppy" title="Ladies Perfectly Preppy">Perfectly Preppy</a></li></ul></li><li><a href="/en-us/gentlemen/" class="gentlemen">Gentlemen</a><ul class="three_column" style="display: none;"><li><a href="/en-us/gentlemen/bags" title="Gentlemen Accessories &amp; Bags">Accessories &amp; Bags</a></li><li><a href="/en-us/gentlemen/hoodies-and-sweat-tops" title="Gentlemen Hoodies &amp; Sweat Tops">Hoodies &amp; Sweat Tops</a></li><li><a href="/en-us/gentlemen/blazers" title="Gentlemen Blazers">Blazers</a></li><li><a href="/en-us/gentlemen/suits" title="Gentlemen Suits">Suits</a></li><li><a href="/en-us/gentlemen/sweatpants" title="Gentlemen Sweatpants">Sweatpants</a></li><li><a href="/en-us/gentlemen/denim" title="Gentlemen Denim &amp; Chinos">Denim &amp; Chinos</a></li><li><a href="/en-us/gentlemen/knitwear" title="Gentlemen Sweaters">Sweaters</a></li><li><a href="/en-us/gentlemen/trousers" title="Gentlemen Trousers">Trousers</a></li><li><a href="/en-us/gentlemen/footwear" title="Gentlemen Footwear">Footwear</a></li><li><a href="/en-us/gentlemen/polos-and-rugbys" title="Gentlemen Polos &amp; Rugbys">Polos &amp; Rugbys</a></li><li><a href="/en-us/gentlemen/shirts" title="Gentlemen Shirts">Shirts</a></li><li><a href="/en-us/gentlemen/underwear-and-socks" title="Gentlemen Underwear &amp; Socks">Underwear &amp; Socks</a></li><li><a href="/en-us/gentlemen/shorts" title="Gentlemen Shorts &amp; Swimwear">Shorts &amp; Swimwear</a></li><li><a href="/en-us/gentlemen/jackets" title="Gentlemen Jackets">Jackets</a></li><li><a href="/en-us/gentlemen/varsity-rugby" title="Gentlemen Varsity Rugby">Varsity Rugby</a></li><li><a href="/en-us/gentlemen/heritage" title="Gentlemen Heritage Range">Heritage Range</a></li><li><a href="/en-us/gentlemen/tees" title="Gentlemen Tees &amp; Henleys">Tees &amp; Henleys</a></li><li><a href="/en-us/gentlemen/gilets" title="Gentlemen Vests">Vests</a></li><li><a href="/en-us/summer/gentlemen-superbrights" title="Gentlemen Super Brights">Super Brights</a></li><li><a href="/en-us/summer/gentlemen-shorts" title="Gentlemen Summer Shorts">Summer Shorts</a></li><li><a href="/en-us/gentlemen/blazers" title="Gentlemen Lightweight Blazers">Lightweight Blazers</a></li><li><a href="/en-us/summer/gentlemen-red,whiteblue" title="Gentlemen Red, White and Blue">Red, White and Blue</a></li><li><a href="/en-us/summer/gentlemen-perfectly-preppy" title="Gentlemen Perfectly Preppy">Perfectly Preppy</a></li></ul></li><li><a href="/en-us/homewares/" class="homewares">Homewares</a><ul class="two_column" style="display: none;"><li><a href="/en-us/homewares/active" title="Homewares Active">Active</a></li><li><a href="/en-us/homewares/jewellery" title="Homewares Jewellery">Jewellery</a></li><li><a href="/en-us/homewares/soft-furnishings" title="Homewares Soft Furnishings">Soft Furnishings</a></li><li><a href="/en-us/homewares/bath-and-beauty" title="Homewares Bath &amp; Beauty">Bath &amp; Beauty</a></li><li><a href="/en-us/homewares/kitchen" title="Homewares Kitchen">Kitchen</a></li><li><a href="/en-us/homewares/stationery" title="Homewares Stationery">Stationery</a></li><li><a href="/en-us/homewares/furniture" title="Homewares Furniture">Furniture</a></li><li><a href="/en-us/homewares/lighting" title="Homewares Lighting">Lighting</a></li><li><a href="/en-us/homewares/technology" title="Homewares Technology">Technology</a></li><li><a href="/en-us/homewares/home-accessories" title="Homewares Home Accessories">Home Accessories</a></li><li><a href="/en-us/homewares/cushions" title="Homewares Cushions">Cushions</a></li><li><a href="/en-us/homewares/bedding" title="Homewares Bedding">Bedding</a></li></ul></li><li><a href="/en-us/collaborations/" class="collaborations">Collaborations</a></li><li><a href="/en-us/jw-seasonnaires/" class="jw seasonnaires">JW Seasonnaires</a></li><li><a href="/en-us/films/" class="films">Films</a></li><li><a href="/en-us/our-story/" class="our story">Our Story</a></li>
-                    </ul>
+            <ul id="navigation">
+                <div id="navigation_links">
+                                  
+
+            <li class=" sub_menu">
+                <a class="ladies" href="/en-us/ladies/">Ladies</a>
+                
+                    <div class="mega_dropdown">
+
+                        <ul class="threecolumn">
+                                <li class="mega_dropdown_column first_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="new in" href="/en-us/ladies/new-in">New In</a></li><li><a class="get the look" href="/en-us/get-the-look/ladies/">Get The Look</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    <ul><li><a class="down vests" href="/en-us/ladies/gilets">Down Vests</a></li><li><a class="jackets &amp; coats " href="/en-us/ladies/jackets-and-coats ">Jackets &amp; Coats </a></li><li><a class="hoodies &amp; sweat tops" href="/en-us/ladies/hoodies-and-sweat-tops">Hoodies &amp; Sweat Tops</a></li><li><a class="sweaters &amp; cardigans" href="/en-us/ladies/jumpers-and-cardigans">Sweaters &amp; Cardigans</a></li><li><a class="dresses &amp; rompers" href="/en-us/ladies/dresses-and-playsuits">Dresses &amp; Rompers</a></li><li><a class="tshirts &amp; tops" href="/en-us/ladies/tshirts-and-tops">TShirts &amp; Tops</a></li></ul>
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                                <li class="mega_dropdown_column second_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="accessories &amp; bags" href="/en-us/ladies/accessories">Accessories &amp; Bags</a></li><li><a class="trousers jeans &amp; leggings" href="/en-us/ladies/trousers-jeans-and-leggings">Trousers Jeans &amp; Leggings</a></li><li><a class="denim" href="/en-us/ladies/denim">Denim</a></li><li><a class="loungewear" href="/en-us/ladies/loungewear">Loungewear</a></li><li><a class="sweatpants" href="/en-us/ladies/sweatpants">Sweatpants</a></li><li><a class="active wear" href="/en-us/ladies/gymwear">Active Wear</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                                <li class="mega_dropdown_column third_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="outerwear" href="/en-us/ladies/jackets-and-coats">Outerwear</a></li><li><a class="shirts &amp; blouses" href="/en-us/ladies/shirts">Shirts &amp; Blouses</a></li><li><a class="shoes &amp; boots" href="/en-us/ladies/shoes-and-boots">Shoes &amp; Boots</a></li><li><a class="shorts &amp; skirts" href="/en-us/ladies/shorts-and-skirts">Shorts &amp; Skirts</a></li><li><a class="underwear &amp; socks" href="/en-us/ladies/underwear-and-socks">Underwear &amp; Socks</a></li><li><a class="jewellery" href="/en-us/ladies/Jewellery ">Jewellery</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    <ul><li><a class="sale" href="/en-us/ladies/sale">Sale</a></li></ul>
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                        </ul>
+                    </div>
+
+            </li>
+            <li class=" sub_menu">
+                <a class="gentlemen" href="/en-us/gentlemen/">Gentlemen</a>
+                
+                    <div class="mega_dropdown">
+
+                        <ul class="threecolumn">
+                                <li class="mega_dropdown_column first_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="new in" href="/en-us/gentlemen/new-in">New In</a></li><li><a class="get the look" href="/en-us/get-the-look/gentlemen/">Get The Look</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    <ul><li><a class="down vests" href="/en-us/gentlemen/gilets">Down Vests</a></li><li><a class="jackets &amp; coats" href="/en-us/gentlemen/jackets-and-coats">Jackets &amp; Coats</a></li><li><a class="hoodies &amp; sweatshirts" href="/en-us/gentlemen/hoodies-and-sweat-tops">Hoodies &amp; Sweatshirts</a></li><li><a class="tshirts, polos &amp; rugbys" href="/en-us/gentlemen/tshirts-and-tops">TShirts, Polos &amp; Rugbys</a></li><li><a class="sweaters &amp; cardigans" href="/en-us/gentlemen/jumpers-and-cardigans">Sweaters &amp; Cardigans</a></li></ul>
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                                <li class="mega_dropdown_column second_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="shirts " href="/en-us/gentlemen/shirts ">Shirts </a></li><li><a class="sweatpants" href="/en-us/gentlemen/sweatpants">Sweatpants</a></li><li><a class="suits" href="/en-us/gentlemen/suits">Suits</a></li><li><a class="trousers, chinos &amp; jeans" href="/en-us/gentlemen/trousers-chinos-and-jeans">Trousers, Chinos &amp; Jeans</a></li><li><a class="denim" href="/en-us/gentlemen/denim">Denim</a></li><li><a class="outerwear" href="/en-us/gentlemen/jackets-and-coats">Outerwear</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                                <li class="mega_dropdown_column third_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="accessories &amp; bags" href="/en-us/gentlemen/accessories-and-bags">Accessories &amp; Bags</a></li><li><a class="active wear" href="/en-us/gentlemen/gym-range">Active Wear</a></li><li><a class="shoes &amp; boots" href="/en-us/gentlemen/shoes-and-boots">Shoes &amp; Boots</a></li><li><a class="underwear &amp; socks" href="/en-us/gentlemen/underwear-and-socks">Underwear &amp; Socks</a></li><li><a class="collaborations" href="/en-us/sheeps-back">Collaborations</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    <ul><li><a class="sale" href="/en-us/gentlemen/sale">Sale</a></li></ul>
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                        </ul>
+                    </div>
+
+            </li>
+            <li class=" sub_menu">
+                <a class="homewares" href="/en-us/homewares/">Homewares</a>
+                
+                    <div class="mega_dropdown">
+
+                        <ul class="twocolumn">
+                                <li class="mega_dropdown_column first_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="new in" href="/en-us/homewares/new-in">New In</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    <ul><li><a class="soft furnishings" href="/en-us/homewares/soft-furnishings">Soft Furnishings</a></li><li><a class="tech accessories" href="/en-us/homewares/tech-accessories">Tech Accessories</a></li><li><a class="mugs &amp; china" href="/en-us/homewares/mugs-and-china">Mugs &amp; China</a></li></ul>
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                                <li class="mega_dropdown_column second_col">
+                                    <!-- image link -->
+                                    
+                                    <!-- first section -->
+                                    <ul><li><a class="bath &amp; beauty" href="/en-us/homewares/bath-and-beauty">Bath &amp; Beauty</a></li><li><a class="accessories" href="/en-us/homewares/accessories">Accessories</a></li><li><a class="stationery" href="/en-us/homewares/stationery">Stationery</a></li><li><a class="furniture" href="/en-us/homewares/furniture">Furniture</a></li><li><a class="umbrellas" href="/en-us/homewares/umbrellas">Umbrellas</a></li></ul>
+
+                                    <!-- image link -->
+                                    
+                                    <!-- second section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                    <!-- third section -->
+                                    
+                                    
+                                    <!-- image link -->
+                                    
+                                </li>
+                        </ul>
+                    </div>
+
+            </li>
+            <li class="">
+                <a class="seasonnaires" href="/en-us/seasonnaires/">Seasonnaires</a>
+                
+
+            </li>
+            <li class=" last">
+                <a class="sale" href="/en-us/ladies/sale">Sale</a>
+                
+
+            </li>
+
+
+
                 </div>
-                <div id="service_message"><ul><li class="service_message_border"><a href="/en-us/about/customer-services/" title="FREE US SHIPPING">FREE US SHIPPING</a></li><li><a href="/en-us/about/store-locator/" title="FIND YOUR LOCAL STORE">FIND YOUR LOCAL STORE</a></li></ul></div>
-            </div>
+                
+
+<form id="search" action="/en-us/search-results/" method="post" role="search">
+    <fieldset>
+        <legend class="hide">Search Jack Wills</legend>
+        <label for="search_box">
+            Search
+        </label>
+        <input type="input" id="search_box" name="searchTerms" autocomplete="off" value="">
+        <button type="submit">Search</button>
+    </fieldset>
+</form>
+            </ul>
             
         </div>
         <!-- end: header -->
                 
-        
         <div id="content">
             <!-- begin: content -->
             
@@ -158,7 +374,7 @@
         
         <div id="landing_nav" class="onecol">
              <ul>
-                 <li id="customer_services"><a href="/en-us/about/customer-services/">Customer Services</a></li><li id="about_jack_wills"><a href="/en-us/about/about-jack-wills/">About Jack Wills</a></li><li id="contact_us"><a href="/en-us/contact">Contact Us</a></li><li id="brand_protection"><a href="/en-us/brand-protection">Brand Protection</a></li><li id="privacy_policy"><a href="/en-us/privacy-policy">Privacy Policy</a></li><li id="termsconditions"><a href="/en-us/terms-conditions">Terms &amp; Conditions</a></li><li id="careers"><a href="/en-us/about/careers/">Careers</a></li><li id="ethical_trade"><a href="/en-us/about/ethical-trade/">Ethical Trade</a></li>
+                 <li id="careers"><a href="/en-us/about/about-us/careers/">Careers</a></li><li id="privacy_policy"><a href="/en-us/privacy-policy">Privacy Policy</a></li><li id="ethical_trade"><a href="/en-us/about/about-us/ethical-trade/">Ethical Trade</a></li><li id="brand_protection"><a href="/en-us/brand-protection">Brand Protection</a></li><li id="contact_us"><a href="/en-us/contact">Contact Us</a></li><li id="termsconditions"><a href="/en-us/terms-conditions">Terms &amp; Conditions</a></li><li id="shipping"><a href="/en-us/about/shopping-with-us/shipping/">Shipping</a></li>
              </ul>
         </div>
         <div class="threecol last text_pages">
@@ -279,36 +495,9 @@ Conditions.</p>
         </div>
  
         <!-- begin: footer -->
-        <div id="footer" role="contentinfo"><div class="currencies"><div class="activeCurrency usd">$<span class="arrow"></span></div><div class="currencyOptions" style="position: absolute; bottom: 26px; overflow: hidden; left: 0px; z-index: 1; opacity: 0.9; height: 0px;"><div class="availableLangs"><ul class="nav_currency">
-    
-         <li data-lang="usd" class="usd active">
-            <a href="/en-us/privacy-policy" title="Switch to United States website">United States </a>
-        </li>
-         
-    
-    </ul></div></div></div>
-        <div id="footerLogo"><img src="/Images/master_page/mr_wills_footer.gif"></div>
-        
-    
 
-   
-            <ul class="left">
-                <li><a href="/en-us/about/customer-services/">Customer Services</a></li><li><a href="/en-us/contact">Contact Us</a></li>
-            </ul>
-
-            <ul class="center_left">            
-                <li><a href="/en-us/about/store-locator/">Store Locator</a></li><li><a href="/en-us/about/about-jack-wills/">About Jack Wills</a></li><li><a href="/en-us/about/careers/">Careers</a></li>
-            </ul>
-          
-            <ul class="center_right">
-        	     <li><a href="/en-us/brand-protection">Brand Protection</a></li><li><a href="/en-us/privacy-policy">Privacy Policy</a></li><li><a href="/en-us/terms-conditions">Terms &amp; Conditions</a></li>
-            </ul>
-
-            <ul class="right">
-                 <li><a href="http://www.facebook.com/jackwillsusa" class="facebook" target="_blank">Facebook</a></li><li><a href="http://twitter.com/#!/jackwillsusa" class="twitter" target="_blank">Twitter</a></li>
-            </ul>
-      	         
-        </div>
+        <!-- NEW FOOTER ------------------------>
+            <div id="footer"><div id="inner"><ul><li><h4>About Us</h4><ul><li><a href="/en-us/about/about-us/careers/">Careers</a></li><li><a href="/en-us/privacy-policy">Privacy Policy</a></li><li><a href="/en-us/about/about-us/ethical-trade/">Ethical Trade</a></li><li><a href="/en-us/brand-protection">Brand Protection</a></li></ul></li><li><h4>Here to Help</h4><ul><li><a href="/en-us/contact">Contact Us</a></li><li><a href="/en-us/terms-conditions">Terms &amp; Conditions</a></li></ul></li><li class="last"><h4>Shopping With Us</h4><ul><li><a href="/en-us/about/shopping-with-us/store-locator/">Store Locator</a></li><li><a href="/en-us/about/shopping-with-us/shipping/">Shipping</a></li></ul></li></ul></div></div><div id="lower_footer"><div id="inner"><ul id="locations"><li><a href="/en-gb/home">UK</a></li><li><a href="/en-ie/home">EUR</a></li><li class="last"><a href="/en-us/home">USA</a></li></ul><h6>© Jack Wills <span id="copyrightYear">2012</span></h6><ul id="accepted_payments"><li><img src="/media/941102/visa.png"></li><li><img src="/media/941096/mastercard.png"></li><li><img src="/media/941090/maestro.png"></li><li><img src="/media/941108/visa_electron.png"></li><li><img src="/media/941084/amex.png"></li></ul></div></div>
         <!-- end: footer -->
  
         <!-- begin: modal -->
@@ -355,7 +544,7 @@ Conditions.</p>
              var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBefore(mt, fscr);
          })();
     </script>
-
+           
     
 <script type="text/javascript">
     $(window).load(function () {
@@ -367,8 +556,6 @@ Conditions.</p>
         s.parentNode.insertBefore(ga, s);
     });
 </script>
-
-
 
 
   
