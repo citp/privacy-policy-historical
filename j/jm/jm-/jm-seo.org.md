@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jm-seo.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040932id_/http%3A//www.jm-seo.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jm-seo.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021005741id_/http%3A//www.jm-seo.org/privacy/index.html) for the most accurate reproduction.*
 
 # JM Internet Group: Privacy Policy
 
