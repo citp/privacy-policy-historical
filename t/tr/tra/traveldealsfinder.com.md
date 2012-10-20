@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614113157id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020052055id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Deals 2012
 
