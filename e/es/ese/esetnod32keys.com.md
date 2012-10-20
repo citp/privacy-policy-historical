@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esetnod32keys.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421162811id_/http%3A//www.esetnod32usernameandpassword.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esetnod32keys.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020080602id_/http%3A//www.eseteavandessfreeupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eset nod32 keys,eset nod32 username and password,eset 5 username and password
 
@@ -30,3 +30,15 @@ http://www.esetnod32usernameandpassword.org/ has no access to or control over th
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.esetnod32usernameandpassword.org/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+#### Incoming search terms:
+
+  * esetnod32usernameandpassword
+  * essandesetnod org
+  * http www esetnod32usernameandpassword com
+  * information inside
+  * www essandesetnod com/
+
+
+
+### Share and Enjoy
