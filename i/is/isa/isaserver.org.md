@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isaserver.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620073653id_/http%3A//www.isaserver.org/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isaserver.org privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020225402id_/http%3A//www.isaserver.org/pages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
