@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitefts.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214143id_/http%3A//articles.elitefts.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefts.net privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020064836id_/http%3A//articles.elitefts.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,16 +41,3 @@ We may enter into alliances, partnerships or other business arrangements with th
 ### Notice of New Services and Changes
 
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at customerservice@elitefts.com.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=%0D%0AOverview%0D%0AOur%20Privacy%20Policy%20is%20designed%20to%20assist%20you%20in%20understanding%20%20how%20we%20collect%20and%20use%20the%20personal%20information%20you%20provide%20to%20us%20and%20%20to%20assist%20you%20in%20making%20informed%20decisions%20when%20using%20our%20site%20and%20our%20%20products%20and%20services.%0D%0AWhat%20Inf "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&srcTitle=Elite+FTS+Educating+%26amp%3B+Outfitting+The+Strongest+Athletes+in+the+World "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Elite+FTS+Educating+%26amp%3B+Outfitting+The+Strongest+Athletes+in+the+World&summary=%0D%0AOverview%0D%0AOur%20Privacy%20Policy%20is%20designed%20to%20assist%20you%20in%20understanding%20%20how%20we%20collect%20and%20use%20the%20personal%20information%20you%20provide%20to%20us%20and%20%20to%20assist%20you%20in%20making%20informed%20decisions%20when%20using%20our%20site%20and%20our%20%20products%20and%20services.%0D%0AWhat%20Inf "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Farticles.elitefts.com%2Fabout%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
