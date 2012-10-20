@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyus.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505043753id_/http%3A//www.joyus.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyus.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021015042id_/http%3A//www.joyus.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Joyus - Privacy Policy
 
