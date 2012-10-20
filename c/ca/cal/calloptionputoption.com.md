@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501130038id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020061646id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy_policy
 
@@ -63,7 +63,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 **India 09887766554**
 
-[](https://web.archive.org/web/20120501130038id_/http%3A//www.calloptionputoption.com/index.html)
+[](https://web.archive.org/web/20121020061646id_/http%3A//www.calloptionputoption.com/index.html)
 
 [](http://www.copyscape.com/dmca-takedown-notice-search/)
 
