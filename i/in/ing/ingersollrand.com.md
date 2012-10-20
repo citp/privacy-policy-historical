@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingersollrand.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621030317id_/http%3A//company.ingersollrand.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingersollrand.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020080816id_/http%3A//company.ingersollrand.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Ingersoll Rand has a Global Data Protection Officer who assists in ensuring comp
 
 This Policy applies to all Personal information received by Ingersoll Rand in any format including electronic, paper or verbal. Ingersoll Rand collects, stores and processes Personal information concerning current and former employees, as well as applicants for employment through its Internet websites, its intranet site, electronic mail and manually. Ingersoll Rand is the sole owner of information it collects, stores and processes from current and former employees, applicants for employment, customers, vendors and others. Ingersoll Rand will not sell or share this information with third parties in ways different than what is disclosed in this Data Protection Policy. On a global basis, Ingersoll Rand will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy.  Notwithstanding the foregoing, Ingersoll-Rand has separate policies governing the processing of employee personal data and external personal data in those countries that are members of the European Union. These policies are consistent with the European Directive 95/46/EC on the protection of personal data.
 
-Personal information collected, stored and processed by Ingersoll Rand from employees and applicants for employment is maintained at Corporate or at Regional HQ, depending on the level of the position as well as the local office of the employee or applicant. Ingersoll Rand collects Personal information for employment related purposes and legitimate human resource business reasons such as recruitment and staffing; payroll administration; absence monitoring;  training and development;, management planning; appraisal and promotion; union negotiation; production and publication of company address books and telephone and e-mail directories; production of employee Identity cards; monitoring the use of company resources; information to contact close relatives in case of emergency; filling employment positions; administration and operations of its benefit and compensation programs; meeting governmental reporting requirements; security, health and safety management; performance management; company network access; and authentication. Ingersoll Rand does not request or gather information regarding  political opinions,  religion,  philosophy or sexual preference. To the extent Ingersoll Rand maintains information on trade union membership, medical health, race or ethnicity, Ingersoll Rand will protect, secure and process that information in a manner consistent with this Policy and applicable law.
+Personal information collected, stored and processed by Ingersoll Rand from employees and applicants for employment is maintained at Corporate or at Regional HQ, depending on the level of the position as well as the local office of the employee or applicant. Ingersoll Rand collects Personal information for employment related purposes and legitimate human resource business reasons such as recruitment and staffing; payroll administration; absence monitoring;  training and development; management planning; appraisal and promotion; union negotiation; production and publication of company address books and telephone and e-mail directories; production of employee Identity cards; monitoring the use of company resources; information to contact close relatives in case of emergency; filling employment positions; administration and operations of its benefit and compensation programs; meeting governmental reporting requirements; security, health and safety management; performance management; company network access; and authentication. Ingersoll Rand does not request or gather information regarding  political opinions,  religion,  philosophy or sexual preference. To the extent Ingersoll Rand maintains information on trade union membership, medical health, race or ethnicity, Ingersoll Rand will protect, secure and process that information in a manner consistent with this Policy and applicable law.
 
 Personal information collected by Ingersoll Rand from prospective customers, consumers, vendors, business partners and others may be maintained at its corporate offices in Swords, Ireland, Davidson, North Carolina, Piscataway, New Jersey or at other Ingersoll Rand facilities, consistent with local legislation. Ingersoll Rand collects Personal information for, among other things, legitimate business reasons such as customer service; product, warranty and claims administration; meeting governmental reporting and records requirements; maintenance of accurate accounts payable and receivable records; internal marketing research; safety and performance management; financial and sales data; and contact information. All Personal information collected by Ingersoll Rand will be used for legitimate business purposes consistent with this Policy.
 
@@ -36,8 +36,7 @@ The privacy principles in this Policy are based on the seven Safe Harbor Princip
 
 (1) NOTICE: Where Ingersoll Rand collects Personal information directly from individuals, it will inform them about the purposes for which it collects, stores and processes Personal information about them, the types of non-agent third parties to which Ingersoll Rand discloses that information, and the choices and means, if any, Ingersoll Rand offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to Ingersoll Rand, or as soon as practicable thereafter, and in any event before Ingersoll Rand uses the information for a purpose other than that for which it was originally collected. Ingersoll Rand may disclose Personal information if required to do so by law or to protect and defend the rights or property of Ingersoll Rand.
 
-(2) CHOICE: Ingersoll Rand will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
-
+(2) CHOICE: Ingersoll Rand will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.  
 For Sensitive Personal information, Ingersoll Rand will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 
 Ingersoll Rand will provide individuals with reasonable mechanisms to exercise their choices should requisite circumstances arise.
@@ -60,14 +59,38 @@ Any questions or concerns regarding the use or disclosure of Personal informatio
 
 Ingersoll Rand sees the Internet, intranets and the use of other technologies as valuable tools for communicating and interacting with consumers, employees, vendors, business partners and others. Ingersoll Rand recognizes the importance of maintaining the privacy of Personal information collected through websites that it operates. Ingersoll Rand's sole purpose for operating its websites is to provide information concerning products and services to the public. In general, visitors can reach Ingersoll Rand on the Web without revealing any Personal information. Visitors on the Web may elect to voluntarily provide Personal information via Ingersoll Rand websites but are not required to do so. Ingersoll Rand collects information from visitors to the websites who voluntarily provide Personal information by filling out and submitting online questionnaires concerning feedback on the website, requesting information on products or services, or seeking employment. The Personal information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. Ingersoll Rand collects this information so it may answer questions and forward requested information. Ingersoll Rand does not sell this information.
 
-Ingersoll Rand may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that websites place on users' computers to identify the user and enhance the website experience. None of this information is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of Ingersoll Rand websites may not function properly.
+Ingersoll Rand may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that websites place on users' computers to identify the user and enhance the website experience. Company personnel periodically audit Ingersoll-Rand’s commercial websites to determine what cookies are used on each. The cookies used are typically not intrusive and are not typically used to identify visitors personally. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. Visitors can learn how to control or delete cookies used on Ingersoll-Rand’s websites by visiting [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance. If visitors do suppress the website cookies, however, some areas of Ingersoll Rand websites may not function properly.
 
+The table below describes the cookies used on [www.Ingersollrand.com](http://www.ingersollrand.com/). To avoid these cookies, visitors can browse the website using their browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari.).
+
+**Session Cookies**
+
+We use a session cookie that lasts for the duration of your visit to our site and is used for load balancing. 
+
+User data is all anonymous.
+
+**Persistent Cookies for Site Analytics**
+
+**Google Analytics** – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. 
+
+| 
+
+You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+  
+---|---  
+  
+**Adobe Site Catalyst** \- we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. 
+
+| 
+
+You can find out more about Adobe’s position on privacy as regards its analytics service at  <http://www.omniture.com/en/privacy/product>  
+  
 Few, if any, of Ingersoll Rand's websites are directed toward children. Nevertheless, Ingersoll Rand is committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act ("COPPA").
 
 Ingersoll Rand website users have the option to request that Ingersoll Rand not use information previously provided, correct information previously provided, or remove information previously provided to Ingersoll Rand. Those that would like to correct or suppress information they have provided to Ingersoll Rand should forward such inquiries to:
 
 Ingersoll Rand Privacy Inquiries  
-800 Beaty Street, Building E  
+80 Beaty Street, Building E  
 Davidson, North Carolina  
 08855-6820  
 Attention: Evan Turtz, Global Data Protection and Privacy Officer
@@ -78,4 +101,4 @@ Ingersoll Rand websites may contain links to other "non-Ingersoll Rand" websites
 
 **VII. CHANGES TO THIS SAFE HARBOR PRIVACY POLICY**
 
-The practices described in this Policy are current Personal data protection policies as of April 1, 2012. Ingersoll Rand reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate notice will be given concerning such amendments.
+The practices described in this Policy are current Personal data protection policies as of September 1, 2012. Ingersoll Rand reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate notice will be given concerning such amendments.
