@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 10gen.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505170245id_/http%3A//www.10gen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10gen.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020142944id_/http%3A//www.10gen.com/privacy-policy) for the most accurate reproduction.*
 
-# 10gen - Privacy Policy
+# Privacy Policy | 10gen
 
 10gen, Inc. is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website located at 10gen.com and in connection with our MongoDB products and related products and services (the "Products").
 
@@ -95,9 +95,9 @@ We welcome your comments or questions regarding this Privacy Policy. Please e-ma
     
     10gen, Inc.
     Attn: Privacy
-    134 5th Avenue
-    3rd Floor
-    New York, NY 10011
+    578 Broadway
+    7th Floor
+    New York, NY 10012
     (866) 237-8815
     
     
@@ -110,4 +110,4 @@ If you believe that we have not adhered to this Privacy Policy, please contact u
 
 This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us or by prominently posting notice of the changes on our website. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our site. These changes will be effective immediately for new users of our website and Products. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our website or Products, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-This Privacy Policy was last revised on July 13, 2011.
+This Privacy Policy was last revised on September 11, 2012.
