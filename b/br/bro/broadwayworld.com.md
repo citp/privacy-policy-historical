@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524061057id_/http%3A//broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020101832id_/http%3A//broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # Broadway World.com - Broadway's Premier Web Resource
+
+|   |   [ **LOG IN**](http://broadwayworld.com/newlogin.cfm) | [**REGISTER NOW**!](http://broadwayworld.com/register.cfm) | 
 
 ******** BroadwayWorld.com ** DOES NOT DISCLOSE YOUR PERSONAL INFORMATION** to outside parties. We only release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](http://broadwayworld.com/board/guide.cfm) and other agreements; or protect the rights, property, or safety of BroadwayWorld.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
@@ -11,3 +13,6 @@ If you choose to receive additional information other than your newsletters, thi
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Thank you for making BroadwayWorld.com the web's premier theater resource and please let us know how we can serve you better! 
+
+|   
+---|---|---|---
