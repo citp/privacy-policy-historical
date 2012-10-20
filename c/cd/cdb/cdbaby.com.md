@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdbaby.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630124950id_/http%3A//www.cdbaby.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdbaby.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020232454id_/http%3A//www.cdbaby.com/privacy) for the most accurate reproduction.*
 
 # CD Baby | Privacy Policy
 
