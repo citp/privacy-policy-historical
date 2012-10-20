@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624071409id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021010528id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy/Your California Privacy Rights
 
@@ -8,7 +8,7 @@ Effective January 1, 2005, under California Civil Code Section 1798.83 (known as
 
 Any request for a disclosure required under this California law should be sent to us via email at [CaliforniaPrivacyDisclosure@nvidia.com](mailto:CaliforniaPrivacyDisclosure@nvidia.com). Please note that under this law, we are not required to respond to a customer's request more than once in a calendar year, nor are we required to respond to any request that is not sent to the email or mailing address designated above.
 
-This policy was last updated on May 21, 2012.
+This policy was last updated on August 3, 2012.
 
 NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including [www.nvidia.com](http://www.nvidia.com/page/home.html), [www.slizone.com](http://www.slizone.com/), [3DVision Live](http://www.3dvisionlive.com/), [GeForce.com](http://www.geforce.com/), [GTC](http://www.gputechconf.com/page/home.html), and [TegraZone.com](http://www.tegrazone.com/).
 
@@ -37,7 +37,7 @@ NVIDIA's Online Privacy Policy and Kids Privacy Policy set forth our policies an
 
   2. #### What Information We May Collect
 
-When users visit our website, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is also treated as Personal Information.
+When users visit our website, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. In addition, we may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with NVIDIA websites. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is treated as Personal Information.
 
 Please note: The **NVIDIA Online Store** is managed independently by Digital River, Inc., and is subject exclusively to the Digital River Privacy Statement. For a complete view of the statement please click [here](http://store.nvidia.com/store?Action=DisplayPrivacyAndSecurityPage&SiteID=nvidia).
 
@@ -45,7 +45,7 @@ Please note: The **NVIDIA Online Store** is managed independently by Digital Riv
 
   3. #### Why We Collect Personal Information
 
-The Personal Information we collect helps us process transactions, respond to requests, and learn about our users' interests in terms of the features, performance and support of our products, and our users' website experience. We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
+The Personal Information we collect helps us process transactions, respond to requests, and learn about our users' interests in terms of the features, performance and support of our products, and customize our users' website experience (including the content and advertisements delivered on our websites). We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
 
 We do not sell Personal Information about our customers or website users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, or consulting partners in an effort to better serve you. For example, when you register for a marketing event or contest on our website, we may share your Personal Information with the business partners that help us run the event or contest.
 
