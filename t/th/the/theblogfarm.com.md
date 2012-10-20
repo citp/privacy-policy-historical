@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305091500id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020091830id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Blog Farm - A Growing Blog Community
 
