@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233754id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020035611id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.*
 
 # Mysinglefriend Privacy Policy for Online Dating
 
