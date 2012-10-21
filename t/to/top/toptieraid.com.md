@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toptieraid.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519224354id_/http%3A//www.toptieraid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptieraid.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022012806id_/http%3A//www.toptieraid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Submit Classifieds
+# Privacy Policy - Submit Classifieds
 
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Toptieraid.com work and to keep it safe (details below).
 
