@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510030059id_/https%3A//help.gumtree.com.au/knowledgebase.php%3Farticle%3D121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com.au privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021120234id_/https%3A//help.gumtree.com.au/knowledgebase.php%3Farticle%3D121) for the most accurate reproduction.*
 
 # Gumtree Australia - Gumtree Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Gumtree Privacy Policy**
 
-On March 16, 2011, the Gumtree Privacy Policy was updated. Please take a few minutes and review the revised policy. If you have any questions, please [**contact us**](https://help.gumtree.com.au/). If you do not accept this revised policy, Gumtree many not be able to provide you with our services. Accordingly, you may close your account [**here**](https://help.gumtree.com.au/index.php?a=add).
+On March 16, 2011, the Gumtree Privacy Policy was updated. Please take a few minutes and review the revised policy. If you have any questions, please [**contact us**](https://help.gumtree.com.au/). If you do not accept this revised policy, Gumtree may not be able to provide you with our services. Accordingly, you may close your account [**here**](https://help.gumtree.com.au/index.php?a=add).
 
 This privacy policy describes how the Gumtree website, tools, applications, and services ("Gumtree") handle your personal information. Gumtree collects, uses, and shares personal information to help Gumtree work and to keep Gumtree safe (details below). This policy is effective March 16, 2011. To see the previous policy, [**click here**](https://info.gumtree.com.au/privacypolicy/privacy_policy.pdf).
 
@@ -75,10 +75,10 @@ Was this article helpful? [yes](javascript:void\(0\)) / [no](javascript:void\(0\
 
 | Article ID:  | 121  
 ---|---  
-Topic:  | [Gumtree Policies](https://web.archive.org/web/20120510030059id_/https%3A//help.gumtree.com.au/knowledgebase.php?category=5)  
+Topic:  | [Gumtree Policies](https://web.archive.org/web/20121021120234id_/https%3A//help.gumtree.com.au/knowledgebase.php?category=5)  
 Date added:  | 2009-09-29 10:07:35  
-Views:  | 55840  
-Rating (Votes): |  (6855)  
+Views:  | 129113  
+Rating (Votes): |  (7123)  
   
    
 « Go back
