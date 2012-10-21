@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607055849id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021190554id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
