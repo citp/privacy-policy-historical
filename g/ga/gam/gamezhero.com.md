@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezhero.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626022522id_/http%3A//www.gamezhero.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezhero.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021095517id_/http%3A//www.gamezhero.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ We do not sell or license your personally identifiable customer information to t
 
 We share personally identifiable information about our users (to the extent we have such information) only with those involved in providing services, functions or professional advice to GameAllianz or as outlined below. We use vendors to provide certain services or functions necessary to operate our Site and offer and deliver products and services to you. We share information with those third-parties and vendors to the extent necessary for them to perform their function on our behalf. All of these third-parties must agree to protect the privacy and security of our users and not to use information they receive during the course of their duties for any purpose other than for which it was provided.
 
-We may also disclose your personally identifiable information as required or permitted by law, or as we believe may be necessary (as determined in our sole and absolute discretion) to protect the integrity of our Site, GameAllianz or its affiliates, or the safety, privacy and well-being of our users, ourselves and third-party providers or members of the public including the use of and providing information to third-parties: 
+We may also disclose your personally identifiable information as required or permitted by law, or as we believe may be necessary (as determined in our sole and absolute discretion) to protect the integrity of our Site, GameAllianz or its affiliates, or the safety, privacy and well-being of our users, ourselves and third-party providers or members of the public including the use of and providing information to third-parties: 
 
   * To comply with valid legal process including subpoenas, court orders or search warrants.
   * To respond to official inquiries of governmental authorities.
@@ -52,7 +52,7 @@ We may also disclose your personally identifiable information as required or per
 
 The Security of Your Information:
 
-We have systems in place to enforce the terms of this Privacy Policy and secure your data. But, no matter how careful we are, no system is 100% secure and we cannot guarantee that there will be no unauthorized use or access of your personal information. If we become aware of any information breach that may affect you, we will notify you promptly following our discovery thereof. Should you suspect that there is a security breach or someone is attempting to circumvent our security system, please [contact us](https://web.archive.org/page/contacts).
+We have systems in place to enforce the terms of this Privacy Policy and secure your data. But, no matter how careful we are, no system is 100% secure and we cannot guarantee that there will be no unauthorized use or access of your personal information. If we become aware of any information breach that may affect you, we will notify you promptly following our discovery thereof. Should you suspect that there is a security breach or someone is attempting to circumvent our security system, please [contact us](https://web.archive.org/page/contact-us).
 
 Preteen Users:
 
@@ -66,4 +66,4 @@ Changes To and Questions About This Policy:
 
 We reserve the right to change this Privacy Policy from time to time. Before using this Site, recheck this page and review the "effective date" posted on the top of the Privacy Policy in effect at that time. If it has recently changed, make sure you review it and still agree with its terms. It will apply to any interactions you have at the Site and information you provide to us or at this Site. Your continued use of the Site or our services, or communications with us will evidence your agreement to the terms thereof.
 
-If you have questions or comments about this privacy policy, please [contact us](https://web.archive.org/page/contacts). But note that whether or not you have questions or comments, use of our site indicates your agreement to the terms hereof as written.
+If you have questions or comments about this privacy policy, please [contact us](https://web.archive.org/page/contact-us). But note that whether or not you have questions or comments, use of our site indicates your agreement to the terms hereof as written.
