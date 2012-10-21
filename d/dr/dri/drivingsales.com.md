@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630072402id_/http%3A//www.drivingsales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021225838id_/http%3A//www.drivingsales.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DrivingSales
 
