@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622095745id_/http%3A//adminschoice.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022014925id_/http%3A//adminschoice.com/privacy-statement) for the most accurate reproduction.*
 
-# Cialis Fluvastatin. Viagra Non Prescription Drug, Now from Online Pharmacy!
+# Admin's Choice | Privacy Statement
 
 The following discloses the information gathering and dissemination practices for this Web site: AdminsChoice.com
 
