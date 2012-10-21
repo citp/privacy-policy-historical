@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertemplatesfree.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305051157id_/http%3A//www.bloggertemplatesfree.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertemplatesfree.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021060344id_/http%3A//www.bloggertemplatesfree.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.bloggertemplatesfree.com
 
