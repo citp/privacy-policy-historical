@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donottrackplus.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618145535id_/http%3A//www.abine.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donottrackplus.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021171213id_/https%3A//abine.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ This website is not directed at individuals under thirteen years of age, and we 
 
 ### Information we Collect from the Browser Add-on (because we can't avoid it.)
 
-**All your accounts, passwords, and other browsing activity is stored locally in an encrypted database for which we do not have the ability to decrypt. Please see "[Where is my data](https://web.archive.org/web/20120618145535id_/http%3A//www.abine.com/whereismydata.php)" for more information. **
+**All your accounts, passwords, and other browsing activity is stored locally in an encrypted database for which we do not have the ability to decrypt. Please see "[Where is my data](https://web.archive.org/web/20121021171213id_/https%3A//abine.com/whereismydata.php)" for more information. **
 
 Our Abine browser add-on uses unique identifiers that are not tied to you or your IP address, and are used to help you track versions and updates for the add-on, as well as to validate shielding requests. If you chose to provide more data in order to take advantage of additional services, such as webmail, the add-on identifier is never used in a way that ties it to your name or personal information.
 
