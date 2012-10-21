@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liverpoolecho.co.uk privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513122615id_/http%3A//www.liverpoolecho.co.uk/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpoolecho.co.uk privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021231953id_/http%3A//www.liverpoolecho.co.uk/priv_statement) for the most accurate reproduction.*
 
 # LiverpooL Echo Privacy Statement
 
