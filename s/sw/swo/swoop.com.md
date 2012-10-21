@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swoop.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503021506id_/http%3A//swoop.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoop.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021160619id_/http%3A//swoop.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Swoop
 
