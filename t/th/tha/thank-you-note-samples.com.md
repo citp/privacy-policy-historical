@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thank-you-note-samples.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620110533id_/http%3A//www.thank-you-note-samples.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thank-you-note-samples.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021172527id_/http%3A//www.thank-you-note-samples.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
-  
 **Share this page:  **| | | |   
 ---|---|---|---|---  
 | | | 
