@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needaproperty.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522131457id_/http%3A//www.needaproperty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needaproperty.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021130407id_/http%3A//www.needaproperty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Need a Property
 
