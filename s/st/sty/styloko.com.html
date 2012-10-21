@@ -1,21 +1,22 @@
-<!--The following is the downloaded HTML source of the styloko.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621211236id_/http%3A//www.styloko.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styloko.com privacy policy that was archived on 2012-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121021041643id_/http%3A//www.styloko.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>
 	Privacy Statement
-</title><link media="all" rel="stylesheet" type="text/css" href="Styles/all.css?v=2.0.3.3"><link media="all" rel="stylesheet" type="text/css" href="Styles/form.css?v=2.0.3.3"><link rel="shortcut icon" href="Images/favicon.ico">
+</title><link media="all" rel="stylesheet" type="text/css" href="Styles/all.css?v=2.0.3.15"><link media="all" rel="stylesheet" type="text/css" href="Styles/form.css?v=2.0.3.15"><link rel="shortcut icon" href="Images/favicon.ico">
         <style type="text/css">
              .errorMsg, .infoMsg { padding-left: 10px; }
              .errorMsg { color: Red; }
              .infoMsg { color: Black; }
         </style>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/Scripts/jquery-1.7.2.min.js?v=2.0.3.3"></script>
-        <script type="text/javascript" src="/Scripts/jquery.effects.js?v=2.0.3.3"></script>
-        <script type="text/javascript" src="/Scripts/jquery-ui-1.8.18.custom.min.js?v=2.0.3.3"></script>
-        <script type="text/javascript" src="/Scripts/jquery.main.js?v=2.0.3.3"></script>
-        <script type="text/javascript" src="/Scripts/jquery.tools.min.js?v=2.0.3.3"></script>
-        <script type="text/javascript" src="/Scripts/history.js?v=2.0.3.3"></script>
-        <script type="text/javascript" src="/Scripts/AjaxClient.js?v=2.0.3.3"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/Scripts/jquery-1.7.2.min.js?v=2.0.3.15"></script>
+        <script type="text/javascript" src="/Scripts/jquery.effects.js?v=2.0.3.15"></script>
+        <script type="text/javascript" src="/Scripts/jquery-ui-1.8.18.custom.min.js?v=2.0.3.15"></script>
+        <script type="text/javascript" src="/Scripts/jquery.main.js?v=2.0.3.15"></script>
+        <script type="text/javascript" src="/Scripts/jquery.tools.min.js?v=2.0.3.15"></script>
+        <script type="text/javascript" src="/Scripts/history.js?v=2.0.3.15"></script>
+        <script type="text/javascript" src="/Scripts/AjaxClient.js?v=2.0.3.15"></script>
+        <script type="text/javascript" src="/Scripts/jquery.cookie.js?v=2.0.3.15"></script>
         <script type="text/javascript">
             function InitToolTips(el) {
                 var opts = {
@@ -42,6 +43,13 @@
                     'ciim=2');
                 $.cookie('Styloko', cookieValue, { expires: 365, raw: true, path: '/' });
             }
+            function SurveyTaken()
+            {
+                debugger;
+                var stylokoCookie = 'Styloko', cookieValue = $.cookie(stylokoCookie);
+                cookieValue = cookieValue.replace(/=.+[^&]/gi, '=31/12/9999 23:59:59');
+                $.cookie(stylokoCookie, cookieValue, { expires: 365, raw: true, path: '/' });
+            }
             $(function () {
                 $('.site-menu').next().remove();
                 $('.site-menu').css('visibility', 'visible');
@@ -63,12 +71,23 @@
                         e.preventDefault();
                         cookiesInfo.stop(true).fadeOut(200, cookieInfoClosed);
                     });
+
+                var surveyPopup = $('#prompt-to-participate-in-survey');
+                $('#DiscardSurvey', surveyPopup).click(function (e) {
+                    e.preventDefault();
+                    $('a.close', surveyPopup).click();
+                });
+                $('#TakeTheSurvey', surveyPopup).click(function (e) {
+                    SurveyTaken();
+                    $('a.close', surveyPopup).click();
+                });
             });
         </script>
         
-    <link media="all" rel="stylesheet" type="text/css" href="/Styles/static-page.css?v=2.0.3.3">
-<link id="PopupContainerCss" rel="stylesheet" type="text/css" href="Styles/PopupContainer.css?v=2.0.3.3"></head>
+    <link media="all" rel="stylesheet" type="text/css" href="/Styles/static-page.css?v=2.0.3.15">
+<link id="PopupContainerCss" rel="stylesheet" type="text/css" href="Styles/PopupContainer.css?v=2.0.3.15"></head>
     <body id="body" class="mode-normal">
+        
         <div id="fb-root"></div>
         <script>
             function RegisterLike(url, outerId, system) {
@@ -112,16 +131,42 @@
         </script>
         <form method="post" action="privacy" id="ctl05">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzkzODI4NzA3D2QWAmYPZBYEAgEPZBYCAgQPFQwcL1NjcmlwdHMvanF1ZXJ5LTEuNy4yLm1pbi5qcxovU2NyaXB0cy9qcXVlcnkuZWZmZWN0cy5qcycvU2NyaXB0cy9qcXVlcnktdWktMS44LjE4LmN1c3RvbS5taW4uanMXL1NjcmlwdHMvanF1ZXJ5Lm1haW4uanMcL1NjcmlwdHMvanF1ZXJ5LnRvb2xzLm1pbi5qcxMvU2NyaXB0cy9oaXN0b3J5LmpzFi9TY3JpcHRzL0FqYXhDbGllbnQuanMHU3R5bG9rbwRjaWltBGNpaW0BMgdTdHlsb2tvZAIDDxYCHgVjbGFzcwULbW9kZS1ub3JtYWwWAmYPZBYIAgcPPCsADQIADxYCHgtfIURhdGFCb3VuZGdkDBQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFg4eBFRleHQFD01ZJm5ic3A7U1RZTE9LTx4FVmFsdWUFD01ZJm5ic3A7U1RZTE9LTx4LTmF2aWdhdGVVcmwFBi9ob21lIx4HRW5hYmxlZGceClNlbGVjdGFibGVnHghEYXRhUGF0aAUGL2hvbWUjHglEYXRhQm91bmRnZBQrAAIWDh8CBQlTQ1JBUEJPT0sfAwUJU0NSQVBCT09LHwQFCC9sYXRlc3QjHwVnHwZnHwcFCC9sYXRlc3QjHwhnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYQHwIFBkxBVEVTVB8DBQZMQVRFU1QfBAUHL2xhdGVzdB4HVG9vbFRpcAUOUmVjZW50bHkgYWRkZWQfBWcfBmcfBwUHL2xhdGVzdB8IZ2QUKwACFhAfAgUHUE9QVUxBUh8DBQdQT1BVTEFSHwQFCC9wb3B1bGFyHwkFH1RoZSBtb3N0IGxpa2VkIGFuZCB0YWxrZWQgYWJvdXQfBWcfBmcfBwUIL3BvcHVsYXIfCGdkFCsAAhYQHwIFDE1ZIFNDUkFQQk9PSx8DBQxNWSBTQ1JBUEJPT0sfBAUML215c3R5bGVmaWxlHwkFDllvdXIgc2NyYXBib29rHwVnHwZnHwcFDC9teXN0eWxlZmlsZR8IZ2QUKwACFhAfAgUJRk9MTE9XSU5HHwMFCUZPTExPV0lORx8EBQovZm9sbG93aW5nHwkFEUZyb20geW91ciBuZXR3b3JrHwVnHwZnHwcFCi9mb2xsb3dpbmcfCGdkFCsAAhYOHwIFCFNIT1BQSU5HHwMFCFNIT1BQSU5HHwQFES9hbGxzYWxlcy93b21lbnMjHwVnHwZnHwcFFy9hbGxzYWxlcy97ZGVwYXJ0bWVudH0jHwhnFCsABAULMDowLDA6MSwwOjIUKwACFhAfAgUJQUxMIFNBTEVTHwMFCUFMTCBTQUxFUx8EBRAvYWxsc2FsZXMvd29tZW5zHwkFHEV2ZXJ5dGhpbmcgY3VycmVudGx5IG9uIHNhbGUfBWcfBmcfBwUWL2FsbHNhbGVzL3tkZXBhcnRtZW50fR8IZ2QUKwACFhAfAgUITVkgU0FMRVMfAwUITVkgU0FMRVMfBAUIL215c2FsZXMfCQUdWW91ciBmYXZvdXJpdGUgYnJhbmRzIG9uIHNhbGUfBWcfBmcfBwUIL215c2FsZXMfCGdkFCsAAhYQHwIFCkVWRVJZVEhJTkcfAwUKRVZFUllUSElORx8EBRMvYWxscHJvZHVjdHMvd29tZW5zHwkFD1Nob3AgZXZlcnl0aGluZx8FZx8GZx8HBRkvYWxscHJvZHVjdHMve2RlcGFydG1lbnR9HwhnZBQrAAIWDh8CBQRCTE9HHwMFBEJMT0cfBAUQL3dvbWVucy1mYXNoaW9uIx8FZx8GZx8HBRYve2RlcGFydG1lbnR9LWZhc2hpb24jHwhnFCsAAwUHMDowLDA6MRQrAAIWDh8CBQVXT01FTh8DBQVXT01FTh8EBQ8vd29tZW5zLWZhc2hpb24fBWcfBmcfBwUPL3dvbWVucy1mYXNoaW9uHwhnZBQrAAIWDh8CBQNNRU4fAwUDTUVOHwQFDS9tZW5zLWZhc2hpb24fBWcfBmcfBwUNL21lbnMtZmFzaGlvbh8IZ2QUKwACFg4fAgURU1RSRUVUJm5ic3A7U1RZTEUfAwURU1RSRUVUJm5ic3A7U1RZTEUfBAUWL2dyb3VwL01zLlN0cmVldHN0eWxlIx8FZx8GZx8HBSEvZ3JvdXAve3N0cmVldHN0eWxlfS5zdHJlZXRzdHlsZSMfCGcUKwADBQcwOjAsMDoxFCsAAhYQHwIFBVdPTUVOHwMFBVdPTUVOHwQFFS9ncm91cC9Ncy5TdHJlZXRzdHlsZR8JBRhTdHJlZXQgc3R5bGUgYW5kIGNhdHdhbGsfBWcfBmcfBwUVL2dyb3VwL21zLnN0cmVldHN0eWxlHwhnZBQrAAIWEB8CBQNNRU4fAwUDTUVOHwQFFS9ncm91cC9Nci5TdHJlZXRzdHlsZR8JBRhTdHJlZXQgc3R5bGUgYW5kIGNhdHdhbGsfBWcfBmcfBwUVL2dyb3VwL21yLnN0cmVldHN0eWxlHwhnZBYgZg9kFgICAQ8PFgIfAgUPTVkmbmJzcDtTVFlMT0tPZGQCAQ9kFgICAQ8PFgIfAgUJU0NSQVBCT09LZGQCAg9kFgQCAQ8PFgIfAgUGTEFURVNUZGQCAw8PFgIfAgUOUmVjZW50bHkgYWRkZWRkZAIDD2QWBAIBDw8WAh8CBQdQT1BVTEFSZGQCAw8PFgIfAgUfVGhlIG1vc3QgbGlrZWQgYW5kIHRhbGtlZCBhYm91dGRkAgQPZBYEAgEPDxYCHwIFDE1ZIFNDUkFQQk9PS2RkAgMPDxYCHwIFDllvdXIgc2NyYXBib29rZGQCBQ9kFgQCAQ8PFgIfAgUJRk9MTE9XSU5HZGQCAw8PFgIfAgURRnJvbSB5b3VyIG5ldHdvcmtkZAIGD2QWAgIBDw8WAh8CBQhTSE9QUElOR2RkAgcPZBYEAgEPDxYCHwIFCUFMTCBTQUxFU2RkAgMPDxYCHwIFHEV2ZXJ5dGhpbmcgY3VycmVudGx5IG9uIHNhbGVkZAIID2QWBAIBDw8WAh8CBQhNWSBTQUxFU2RkAgMPDxYCHwIFHVlvdXIgZmF2b3VyaXRlIGJyYW5kcyBvbiBzYWxlZGQCCQ9kFgQCAQ8PFgIfAgUKRVZFUllUSElOR2RkAgMPDxYCHwIFD1Nob3AgZXZlcnl0aGluZ2RkAgoPZBYCAgEPDxYCHwIFBEJMT0dkZAILD2QWBAIBDw8WAh8CBQVXT01FTmRkAgMPDxYCHwJlZGQCDA9kFgQCAQ8PFgIfAgUDTUVOZGQCAw8PFgIfAmVkZAIND2QWAgIBDw8WAh8CBRFTVFJFRVQmbmJzcDtTVFlMRWRkAg4PZBYEAgEPDxYCHwIFBVdPTUVOZGQCAw8PFgIfAgUYU3RyZWV0IHN0eWxlIGFuZCBjYXR3YWxrZGQCDw9kFgQCAQ8PFgIfAgUDTUVOZGQCAw8PFgIfAgUYU3RyZWV0IHN0eWxlIGFuZCBjYXR3YWxrZGQCCw9kFgICAw88KwANAgAPFgIfAWdkDBQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFg4fAgUFQUJPVVQfAwUFQUJPVVQfBAUGL2Fib3V0HwVnHwZnHwcFBi9hYm91dB8IZ2QUKwACFg4fAgUKQ09OVEFDVCBVUx8DBQpDT05UQUNUIFVTHwQFCC9jb250YWN0HwVnHwZnHwcFCC9jb250YWN0HwhnZBQrAAIWDh8CBQRKT0JTHwMFBEpPQlMfBAUFL2pvYnMfBWcfBmcfBwUFL2pvYnMfCGdkFCsAAhYQHwIFEVBSSVZBQ1kgU1RBVEVNRU5UHwMFEVBSSVZBQ1kgU1RBVEVNRU5UHwQFCC9wcml2YWN5HwVnHwZnHwcFCC9wcml2YWN5HwhnHghTZWxlY3RlZGdkFCsAAhYOHwIFElRFUk1TICYgQ09ORElUSU9OUx8DBRJURVJNUyAmIENPTkRJVElPTlMfBAUGL3Rlcm1zHwVnHwZnHwcFBi90ZXJtcx8IZ2QWCmYPZBYCZg8VAQVBQk9VVGQCAQ9kFgJmDxUBCkNPTlRBQ1QgVVNkAgIPZBYCZg8VAQRKT0JTZAIDD2QWAmYPFQERUFJJVkFDWSBTVEFURU1FTlRkAgQPZBYCZg8VARJURVJNUyAmIENPTkRJVElPTlNkAg8PZBYCAgMPPCsADQIADxYCHwFnZAwUKwAJBR8wOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3FCsAAhYOHwIFBUFCT1VUHwMFBUFCT1VUHwQFBi9hYm91dB8FZx8GZx8HBQYvYWJvdXQfCGdkFCsAAhYOHwIFCkNPTlRBQ1QgVVMfAwUKQ09OVEFDVCBVUx8EBQgvY29udGFjdB8FZx8GZx8HBQgvY29udGFjdB8IZ2QUKwACFg4fAgUESk9CUx8DBQRKT0JTHwQFBS9qb2JzHwVnHwZnHwcFBS9qb2JzHwhnZBQrAAIWEB8CBRFQUklWQUNZIFNUQVRFTUVOVB8DBRFQUklWQUNZIFNUQVRFTUVOVB8EBQgvcHJpdmFjeR8FZx8GZx8HBQgvcHJpdmFjeR8IZx8KZ2QUKwACFg4fAgUSVEVSTVMgJiBDT05ESVRJT05THwMFElRFUk1TICYgQ09ORElUSU9OUx8EBQYvdGVybXMfBWcfBmcfBwUGL3Rlcm1zHwhnZBQrAAIWBh8CBQ5PbmxpbmUgRmFzaGlvbh8DZR8EBQJ+L2QUKwACFgYfAgUDUlNTHwNlHwQFBC9yc3NkFCsAAhYGHwIFDUZhc2hpb24gc2FsZXMfA2UfBAUNL2Zhc2hpb25zYWxlc2RkAhEPZBYCZg8WAh8ABSNwb3B1cC1jb250YWluZXIgcG9wdXAtd2luZG93LWhpZGRlbhYCAgEPFgIeB1Zpc2libGVnZBgCBRBjdGwwMCRGb290ZXJNZW51Dw9kBRFQUklWQUNZIFNUQVRFTUVOVGQFDWN0bDAwJFN1Yk1lbnUPD2QFEVBSSVZBQ1kgU1RBVEVNRU5UZFWCdxXAhonGJV5Byxp/H5X/oGIfPC2OwP0XKkcuq5JZ">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzkzODI4NzA3D2QWAmYPZBYEAgEPZBYCAgQPFREcL1NjcmlwdHMvanF1ZXJ5LTEuNy4yLm1pbi5qcxovU2NyaXB0cy9qcXVlcnkuZWZmZWN0cy5qcycvU2NyaXB0cy9qcXVlcnktdWktMS44LjE4LmN1c3RvbS5taW4uanMXL1NjcmlwdHMvanF1ZXJ5Lm1haW4uanMcL1NjcmlwdHMvanF1ZXJ5LnRvb2xzLm1pbi5qcxMvU2NyaXB0cy9oaXN0b3J5LmpzFi9TY3JpcHRzL0FqYXhDbGllbnQuanMZL1NjcmlwdHMvanF1ZXJ5LmNvb2tpZS5qcwdTdHlsb2tvBGNpaW0EY2lpbQEyB1N0eWxva28HU3R5bG9rbwAAEzMxLzEyLzk5OTkgMjM6NTk6NTlkAgMPFgIeBWNsYXNzBQttb2RlLW5vcm1hbBYCZg9kFgoCBw88KwANAgAPFgIeC18hRGF0YUJvdW5kZ2QMFCsABgUTMDowLDA6MSwwOjIsMDozLDA6NBQrAAIWDh4EVGV4dAUPTVkmbmJzcDtTVFlMT0tPHgVWYWx1ZQUPTVkmbmJzcDtTVFlMT0tPHgtOYXZpZ2F0ZVVybAUGL2hvbWUjHgdFbmFibGVkZx4KU2VsZWN0YWJsZWceCERhdGFQYXRoBQYvaG9tZSMeCURhdGFCb3VuZGdkFCsAAhYOHwIFCVNDUkFQQk9PSx8DBQlTQ1JBUEJPT0sfBAUIL2xhdGVzdCMfBWcfBmcfBwUIL2xhdGVzdCMfCGcUKwAFBQ8wOjAsMDoxLDA6MiwwOjMUKwACFhAfAgUGTEFURVNUHwMFBkxBVEVTVB8EBQcvbGF0ZXN0HgdUb29sVGlwBQ5SZWNlbnRseSBhZGRlZB8FZx8GZx8HBQcvbGF0ZXN0HwhnZBQrAAIWEB8CBQdQT1BVTEFSHwMFB1BPUFVMQVIfBAUIL3BvcHVsYXIfCQUfVGhlIG1vc3QgbGlrZWQgYW5kIHRhbGtlZCBhYm91dB8FZx8GZx8HBQgvcG9wdWxhch8IZ2QUKwACFhAfAgUMTVkgU0NSQVBCT09LHwMFDE1ZIFNDUkFQQk9PSx8EBQwvbXlzdHlsZWZpbGUfCQUOWW91ciBzY3JhcGJvb2sfBWcfBmcfBwUML215c3R5bGVmaWxlHwhnZBQrAAIWEB8CBQlGT0xMT1dJTkcfAwUJRk9MTE9XSU5HHwQFCi9mb2xsb3dpbmcfCQURRnJvbSB5b3VyIG5ldHdvcmsfBWcfBmcfBwUKL2ZvbGxvd2luZx8IZ2QUKwACFg4fAgUIU0hPUFBJTkcfAwUIU0hPUFBJTkcfBAURL2FsbHNhbGVzL3dvbWVucyMfBWcfBmcfBwUXL2FsbHNhbGVzL3tkZXBhcnRtZW50fSMfCGcUKwAEBQswOjAsMDoxLDA6MhQrAAIWEB8CBQlBTEwgU0FMRVMfAwUJQUxMIFNBTEVTHwQFEC9hbGxzYWxlcy93b21lbnMfCQUcRXZlcnl0aGluZyBjdXJyZW50bHkgb24gc2FsZR8FZx8GZx8HBRYvYWxsc2FsZXMve2RlcGFydG1lbnR9HwhnZBQrAAIWEB8CBQhNWSBTQUxFUx8DBQhNWSBTQUxFUx8EBQgvbXlzYWxlcx8JBR1Zb3VyIGZhdm91cml0ZSBicmFuZHMgb24gc2FsZR8FZx8GZx8HBQgvbXlzYWxlcx8IZ2QUKwACFhAfAgUKRVZFUllUSElORx8DBQpFVkVSWVRISU5HHwQFEy9hbGxwcm9kdWN0cy93b21lbnMfCQUPU2hvcCBldmVyeXRoaW5nHwVnHwZnHwcFGS9hbGxwcm9kdWN0cy97ZGVwYXJ0bWVudH0fCGdkFCsAAhYOHwIFBEJMT0cfAwUEQkxPRx8EBRAvd29tZW5zLWZhc2hpb24jHwVnHwZnHwcFFi97ZGVwYXJ0bWVudH0tZmFzaGlvbiMfCGcUKwADBQcwOjAsMDoxFCsAAhYOHwIFBVdPTUVOHwMFBVdPTUVOHwQFDy93b21lbnMtZmFzaGlvbh8FZx8GZx8HBQ8vd29tZW5zLWZhc2hpb24fCGdkFCsAAhYOHwIFA01FTh8DBQNNRU4fBAUNL21lbnMtZmFzaGlvbh8FZx8GZx8HBQ0vbWVucy1mYXNoaW9uHwhnZBQrAAIWDh8CBRFTVFJFRVQmbmJzcDtTVFlMRR8DBRFTVFJFRVQmbmJzcDtTVFlMRR8EBRYvZ3JvdXAvTXMuU3RyZWV0c3R5bGUjHwVnHwZnHwcFIS9ncm91cC97c3RyZWV0c3R5bGV9LnN0cmVldHN0eWxlIx8IZxQrAAMFBzA6MCwwOjEUKwACFhAfAgUFV09NRU4fAwUFV09NRU4f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">
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl05'];
+if (!theForm) {
+    theForm = document.ctl05;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
-<script src="Scripts/jquery.cookie.js?v=2.0.3.3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=b-LYGrZ7Czh6TDRWKdRy6ckQHp8yTcnLAQpVUiFHoEiUNOTYST2xWkqChCTL5b60_o1uBG5oXWW6XwKLfURhq-7lrxtu-z4Bjt_ZMubXz7qbVonicPP7_RAEYM6VAcniqqGRQVG-3cBcwXd3mHuGuQ2&amp;t=68c4b60a" type="text/javascript"></script>
-<script src="Scripts/BrowserDetect.js?v=2.0.3.3" type="text/javascript"></script>
-<script src="Scripts/popup-container.js?v=2.0.3.3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=B_la53JXhJOpHzpzBsFkp0w0nRMxw-PbMXp8XkydGdvzK9lqYphLZaZ3nBtecjf7Rt_LXWI_swaPAS7D9MDfwijzyxpn8kyV_m9kPlc1SeFgGwoXCHHoqyog0cGmVmNP0&amp;t=ffffffffc9f82b39" type="text/javascript"></script>
-            <input type="hidden" name="ctl00$ScriptManager1" id="ScriptManager1">
+
+<script src="/WebResource.axd?d=F4lkjuo-BrGaPcOEXs0dgARmEtkHNleSoGU5uyTCHLI3-gJiPE5z5FJ4orn1mUIY7CMmvSCD-JEqFF-ciLWZjSGeggC0PVM0T8hWJUHnkNc1&amp;t=634773866700000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=EhjnB8GC6S1eEMzpEjX6-mqKHEZlPR9wquup_-laxddRqasqrWbdTTfJuU6kueBm78Qlu5A7xSeWJzZy9R71VZAeGCTMjMe5prsLmbtIV5LCxJkNOQu67Fml02Kjf7n5QxCyrvPRBCEOMxlO3W4UbQ2&amp;t=ffffffffdf4c7f25" type="text/javascript"></script>
+<script src="Scripts/BrowserDetect.js?v=2.0.3.15" type="text/javascript"></script>
+<script src="Scripts/popup-container.js?v=2.0.3.15" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=GSfPXjHlH9v7sQ8NGfN3kJChsstjokcAuRW6T5A33Rt-rjgiY1kvTdApoX-Lgn2OA9zx88MuvGcu-DOfHcjmurTJPTdR-R82ZU1Jvk9tp3AszY1tul1oXd7irdyBojcD0&amp;t=ffffffffdd783992" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=40Md7J4qDQIJRU0mSJgKPYdM9zQmaX5MOjOu4S0f6BM6_s6c6GO_K-rrnOkzJzX857N7U3S2nN-U1C05QH1ocvzri-C6lP5xPTrAeYwyWGSvKEpDghiePpfS66DqVJDuE2SBS6bGUzRivbJ3glmc4g2&amp;t=ffffffffdd783992" type="text/javascript"></script>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'ctl05', [], ['ctl00$ScriptManager1','ScriptManager1'], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ScriptManager1" id="ScriptManager1">
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.setServerId("ScriptManager1", "ctl00$ScriptManager1");
@@ -208,7 +253,9 @@ Sys.Application._enableHistoryInScriptManager();
                             
                             <div class="site-menu sub-menu" id="SubMenu">
 		<ul class="level1">
-			<li><a class="level1" href="/about">
+			<li><a class="level1" href="/goodies">
+                                    <span>TOOLS</span>
+                                </a></li><li><a class="level1" href="/about">
                                     <span>ABOUT</span>
                                 </a></li><li><a class="level1" href="/contact">
                                     <span>CONTACT US</span>
@@ -331,7 +378,7 @@ Sys.Application._enableHistoryInScriptManager();
                     
                     <div class="site-menu " id="FooterMenu">
 		<ul class="level1">
-			<li><a class="level1" href="/about">ABOUT</a></li><li><a class="level1" href="/contact">CONTACT US</a></li><li><a class="level1" href="/jobs">JOBS</a></li><li><a class="level1 selected" href="/privacy">PRIVACY STATEMENT</a></li><li><a class="level1" href="/terms">TERMS &amp; CONDITIONS</a></li><li><a class="level1" href="./">Online Fashion</a></li><li><a class="level1" href="/rss">RSS</a></li><li><a class="level1" href="/fashionsales">Fashion sales</a></li>
+			<li><a class="level1" href="/goodies">TOOLS</a></li><li><a class="level1" href="/about">ABOUT</a></li><li><a class="level1" href="/contact">CONTACT US</a></li><li><a class="level1" href="/jobs">JOBS</a></li><li><a class="level1 selected" href="/privacy">PRIVACY STATEMENT</a></li><li><a class="level1" href="/terms">TERMS &amp; CONDITIONS</a></li><li><a class="level1" href="./">Online Fashion</a></li><li><a class="level1" href="/rss">RSS</a></li><li><a class="level1" href="/fashionsales">Fashion sales</a></li>
 		</ul>
 	</div>
                 </div>
@@ -373,13 +420,8 @@ Sys.Application._enableHistoryInScriptManager();
     </div>
 </div>
             
-            <div id="CookiesInfo">
-	
-                <a id="closer" href="#">close</a>
-                <h1>Cookies on Styloko</h1>
-                <p>Syloko uses cookies to ensure that we provide the best experience on our website. We do not store any personally identifiable data in the cookies. If you continue without changing your settings, we'll assume that you are happy to receive all cookies from the website.</p>
             
-</div>
+            
         
 
 <script type="text/javascript">
