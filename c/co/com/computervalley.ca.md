@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510052930id_/http%3A//www.computervalley.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021060138id_/http%3A//www.computervalley.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : ComputerValley.ca
+# Privacy Policy | ComputerValley.ca
 
 **Our Privacy Commitment**  
 At ComputerValley.ca we know how important it is to protect your personal information. When you are shopping with us online we want to make every customer experience safe and secure. In keeping with that goal, we have developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information.
