@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlydomains.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521204105id_/http%3A//www.onlydomains.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlydomains.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021122322id_/http%3A//www.onlydomains.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Only Domains - Global Domain Name Registrar
 
