@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shewearsmanyhats.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622120701id_/http%3A//shewearsmanyhats.com/www.shewearsmanyhats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shewearsmanyhats.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021133629id_/http%3A//shewearsmanyhats.com/www.shewearsmanyhats.com/privacy) for the most accurate reproduction.*
 
 # Privacy | She Wears Many Hats
 
