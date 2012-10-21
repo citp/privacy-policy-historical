@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wheresgeorge.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017075447id_/http%3A//www.wheresgeorge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheresgeorge.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021144711id_/http%3A//www.wheresgeorge.com/privacy.php) for the most accurate reproduction.*
 
-# Where's George? ® 2.4 Privacy Policy
+# Where's George? ® 2.4 -- Track Your Dollar Bills Privacy Policy
 
 **#1 Personal Information**  
  | The staff at _Where's George?_ and _Where's Willy?_ respects your total and complete privacy. We will NEVER sell or distribute your email address or any other personal information to _anyone, anytime, anywhere._ It will be used solely to notify you of hits on your bills and/or exciting new changes and events at _Where's George?_ and/or _Where's Willy?_.  
@@ -11,7 +11,7 @@
 |   
 |   
 **#3 User Profiles**  
- | If you register and set up a Personal User Profile, _Where's George?_ and/or _Where's Willy?_ we will not be responsible for any information you provide in your User Profile, as the User Profiles are open to the public. Please be careful with the email address you place in your User Profile or post on the Public Forums, as web crawlers can capture your information from these pages. Also, the staff of _Where's George?_ and/or _Where's Willy?_ will not be responsible for any information posted in someone else's User Profile. If you find something offensive in a User Profile, you can report it to us using the [Contact Us](https://web.archive.org/web/20111017075447id_/http%3A//www.wheresgeorge.com/contact_us.php) page, and we will investigate it.  
+ | If you register and set up a Personal User Profile, _Where's George?_ and/or _Where's Willy?_ we will not be responsible for any information you provide in your User Profile, as the User Profiles are open to the public. Please be careful with the email address you place in your User Profile or post on the Public Forums, as web crawlers can capture your information from these pages. Also, the staff of _Where's George?_ and/or _Where's Willy?_ will not be responsible for any information posted in someone else's User Profile. If you find something offensive in a User Profile, you can report it to us using the [Contact Us](https://web.archive.org/web/20121021144711id_/http%3A//www.wheresgeorge.com/contact_us.php) page, and we will investigate it.  
 |   
 |   
 **#4 Registration**  
