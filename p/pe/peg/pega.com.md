@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508025431id_/http%3A//www.pega.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021034336id_/http%3A//www.pega.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security | Pega.com
 
 #### Pegasystems is committed to protecting your privacy.
 
-We are providing this Privacy and Security statement to inform you of our Privacy & Security policy and practices, and of the choices you can make about the way your information is collected online and how that information is used. We've structured our corporate Web site, [www.pega.com](http://www.pega.com/ "www.pega.com"), so that, in general, you can visit us on the Web without identifying yourself or revealing any personal information. Authentication is required, however, to enter Pegasystems' Support Network (for customers) and Partner Network (for our strategic business and technology partners).
+We are providing this Privacy and Security statement to inform you of our Privacy & Security policy and practices, and of the choices you can make about the way your information is collected online and how that information is used. We've structured our corporate Web site, [www.pega.com](http://www.pega.com/), so that, in general, you can visit us on the Web without identifying yourself or revealing any personal information. Authentication is required, however, to enter Pegasystems' Support Network (for customers) and Partner Network (for our strategic business and technology partners).
 
-This statement applies to [www.pega.com](http://www.pega.com/ "www.pega.com") as well as Pegasystems' Support Network and Partner Network sites; it does not apply to other offline Pegasystems sites, products or services.
+This statement applies to [www.pega.com](http://www.pega.com/) as well as Pegasystems' Support Network and Partner Network sites; it does not apply to other offline Pegasystems sites, products or services.
 
 #### 1\. Links to Non-Pegasystems Web Sites
 
@@ -26,7 +26,7 @@ To personalize our Web sites, services or communications and improve our product
 
   * **Non-personal information** is data about usage and service operation that is not associated with a specific personal identity. Pegasystems collects and analyzes non-personal information to evaluate how visitors use the Pegasystems Web sites. 
 
-Non-personal data we collect may include the pages visited on the Pegasystems Web sites, unique URLs visited within [www.pega.com](http://www.pega.com/ "www.pega.com"), browser type and IP address. Most non-personal data is collected via cookies or other analysis technologies. Pegasystems' Web pages use cookies, Web beacons and other technologies for data analysis and personalization services. Pegasystems also places advertisements on other Web sites that may use cookies. 
+Non-personal data we collect may include the pages visited on the Pegasystems Web sites, unique URLs visited within [www.pega.com](http://www.pega.com/), browser type and IP address. Most non-personal data is collected via cookies or other analysis technologies. Pegasystems' Web pages use cookies, Web beacons and other technologies for data analysis and personalization services. Pegasystems also places advertisements on other Web sites that may use cookies. 
 
 
 
