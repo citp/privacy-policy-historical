@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfsdirectsales.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508135421id_/http%3A//www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfsdirectsales.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021110300id_/http%3A//www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy) for the most accurate reproduction.*
 
 # DFS Direct Sales | DELL Store: Privacy Policy
 
