@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231455id_/http%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021121046id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
 
 # panelbase.net - Privacy Statement
 
-Last updated: 14th January 2011
+Privacy Statement Last updated: 25th May 2012
 
 At panelbase.net we are committed to protecting your privacy. Panelbase.net is operated by [Dipsticks Research Ltd](http://www.dipsticksresearch.com/), a professional market research agency who are also members of the [Market Research Society's Company Partner Scheme](http://www.mrs.org.uk/companypartner/companies.htm). Our primary business is to conduct research studies in order to provide insights for our clients, whilst ensuring that the personal identity of those participating in our surveys is protected. Results from surveys and research discussions are not linked to the individual identity of respondents without the informed consent of those respondents.
 
@@ -32,6 +32,24 @@ panelbase.net conducts research surveys using a variety of different technologie
 
 panelbase.net is committed to protecting the security of its members' personal information. We use a variety of security technologies and procedures to help protect information from unauthorised access, use, or disclosure, both online and offline. For example, we store the personal information you provide on computer servers with limited access that are located in access-controlled facilities. Additionally, when we transmit sensitive personal information over the Internet, such as your e-mail address, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol with Extended Validation (EV SSL).
 
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+
+The table below explains the cookies we use and why. 
+
+Origin | Name | Purpose | More Information  
+---|---|---|---  
+Panelbase.Net  |  ASPNET_SessionId  
+cookie.ASPXAUTH  |  The ASPNET_SessionId cookie is essential for any users accessing our site to access forms. This includes login forms and registrations etc. This cookie is removed when you close your browser. 
+
+The cookie.ASPXAUTH is used to signify you are logged in to our website. Without this cookie users are unable to remain logged in to our website. This cookie is removed when you close your browser. 
+
+|   
+Google Analytics  |  __utma  
+__utmb  
+__utmc  
+__utmv  
+__utmz  |  These cookies are used by Google Analytics to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page.  |  [ More about Google privacy ](http://www.google.com/analytics/learn/privacy.html "Read about Google privacy")  
+  
 We may occasionally update this privacy statement without notice.
 
 panelbase.net welcomes your comments regarding this privacy statement. If you believe that panelbase.net has not adhered to this privacy statement, please contact us by e-mail or postal mail (details below), and we will make every reasonable effort to promptly determine and remedy the problem.
