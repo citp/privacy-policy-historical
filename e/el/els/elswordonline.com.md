@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the elswordonline.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508031135id_/http%3A//www.elswordonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elswordonline.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021090248id_/http%3A//www.elswordonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Elsword Online
+# Privacy Policy | Elsword Online – Free Action MMORPG
 
 KILL3RCOMBO - ONLINE PRIVACY POLICY
 
-KOG-LU, Inc. dba Kill3rCombo and its affiliated companies ("Kill3rCombo", the "Companies," "we," "us") offer this web site (the "Site") and all Site-related services and products, including, without limitation, massively multiplayer online role-playing and multiplayer online casual games (the "Service") solely for playing purposes. Our foremost goal is to create and maintain measures to protect the privacy of our customers. Customer satisfaction is a great priority for us and we realize that our success is dependent on respecting our customers' rights.
+KOG Games Inc. dba Kill3rCombo and its affiliated companies ("Kill3rCombo", the "Companies," "we," "us") offer this web site (the "Site") and all Site-related services and products, including, without limitation, massively multiplayer online role-playing and multiplayer online casual games (the "Service") solely for playing purposes. Our foremost goal is to create and maintain measures to protect the privacy of our customers. Customer satisfaction is a great priority for us and we realize that our success is dependent on respecting our customers' rights.
 
 Kill3rCombo respects the privacy of all visitors who visit the Site and use the Service. However, we may collect certain information from visitors. This Privacy Policy governs your interaction with the Site and your registration for and use of the Service. Except as set forth within this Privacy Policy and our Terms of Use and End User License Agreement or other published guidelines, we do not release personally identifiable information about users without their permission. By using the Service, you imply your acceptance to this Privacy Policy, our Terms of Use, End User License Agreement, and other Kill3rCombo rules, policies, notices, agreements and guidelines.
 
