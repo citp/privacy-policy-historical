@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allakhazam.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626182408id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allakhazam.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021024548id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement :: ZAM
 
