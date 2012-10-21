@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesaurus.net privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522012559id_/http%3A//www.thesaurus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesaurus.net privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021112914id_/http%3A//www.thesaurus.net/privacy-policy) for the most accurate reproduction.*
 
 # Thesaurus | Check Thesaurus Online for Free
 
