@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628233333id_/http%3A//www.directorycentral.com/privacy.php%3Fwidth%3D600%26height%3D600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021071320id_/http%3A//www.directorycentral.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | www.DirectoryCentral.com
 
