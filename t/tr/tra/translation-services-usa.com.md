@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translation-services-usa.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505013446id_/http%3A//www.translation-services-usa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translation-services-usa.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021022126id_/http%3A//www.translation-services-usa.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ This policy was last modified on 10/24/11
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.translation-services-usa.com/  
-545 8th Ave. 12th Floor  
-New York, NY 10018  
+121 Newark Ave, 3rd Floor  
+Jersey City, NJ 07302  
 United States  
 212-380-1679 
