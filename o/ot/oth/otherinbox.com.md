@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505141025id_/http%3A//www.otherinbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021141236id_/http%3A//www.otherinbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OtherInbox
 
@@ -62,5 +62,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 OtherInbox  
 ATTN: Opt Out  
-701 Brazos Street, Suite 800  
+701 Brazos Street Ste 1603  
 Austin, TX 78701
