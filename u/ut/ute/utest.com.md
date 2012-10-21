@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514204507id_/http%3A//www.utest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021095618id_/http%3A//www.utest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security | uTest
 
