@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626161224id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021040249id_/http%3A//www.stouffers.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Nestlé USA Privacy Policy
-
-| 
+# Privacy Policy | Stouffer's®
 
 Effective: 5/15/2012  
 Last Updated On: 5/15/2012
@@ -311,7 +309,7 @@ Back to top
 
 __We have been awarded the TRUSTe Privacy Seal__
 
-Nestlé USA has been awarded the TRUSTe Privacy Seal, signifying that this privacy policy and our website practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to websites identified when clicking on TRUSTe’s "CERTIFIED PRIVACY" seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact Consumer Services. If you are not satisfied with our response, you can also contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Nestlé USA has been awarded the TRUSTe Privacy Seal, signifying that this privacy policy and our website practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to websites identified when clicking on TRUSTe’s "CERTIFIED PRIVACY" seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact Consumer Services. If you are not satisfied with our response, you can also contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Back to top
 
