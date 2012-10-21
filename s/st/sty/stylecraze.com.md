@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531091950id_/http%3A//www.stylecraze.com/pages/Privacy-Policy/pgid-56590.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021172810id_/http%3A//www.stylecraze.com/pages/Privacy-Policy/pgid-56590.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
