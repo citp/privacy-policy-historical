@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-mads.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509072640id_/http%3A//www.the-mads.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-mads.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021071952id_/http%3A//www.the-mads.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # The MAD Awards - Privacy Policy
 
@@ -29,6 +29,6 @@ The MADs website includes links to external websites operated by other individua
 
 In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact us using the details listed below.
 
-By Email: [**_sally@the-mads.com_**](https://web.archive.org/web/20120509072640id_/http%3A//www.the-mads.com/getintouch@the-mads.com)  
+By Email: [**_sally@the-mads.com_**](https://web.archive.org/web/20121021071952id_/http%3A//www.the-mads.com/getintouch@the-mads.com)  
 Twitter: [@madblogawards](http://www.twitter.com/madblogawards)  
 Telephone: 07500 095 284 
