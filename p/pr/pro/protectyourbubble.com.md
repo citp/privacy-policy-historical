@@ -1,109 +1,69 @@
-> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101130557id_/http%3A//www.protectyourbubble.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021051118id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
-# Protectyourbubble Privacy Policy
+# Privacy Policy - Protect Your Bubble
 
-## Who we are
+If You are an individual consumer located in California or other applicable state (if any), this notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
 
-Protect your bubble is a trading name of Assurant Direct Limited , a company registered in England and Wales (registration company number 5399683).
+The Signal, LP and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
 
-**Privacy Notice**  
-Protecting your privacy is important to us. We promise to respect and safeguard your personal information. We shall try to ensure that your details are accurate and kept up to date. We set out below how we use this information. 
+We use the brand name Protect Your Bubble to associate our products and services and to connect us with the brand of our parent company, Assurant, Inc. This Policy is intended to inform our consumers of our practices with regard to consumers' personal information collected through this website. As used in this online Privacy Policy, the term "you and your" are defined to include all website visitors including, but not limited to, customers, brokers, third party administrators, and/or representatives of any of the above.
 
-**Your electronic information**  
-If you contact us electronically, we may collect your electronic identifier e.g. Internet Protocol (IP) address or telephone number supplied by your service provider. 
+**I. Categories of personal information we collect**
 
-For quality control and training purposes, we may monitor or record your communications with us. 
+The term "personal information" includes any individually identifiable information about you that we collect online, such as your name, address, email address, telephone number, or social security number. We collect this information when you voluntarily disclose it to us in connection with a service offered on this website. Our website has security safeguards that are designed to protect any personal information that you decide to give us via this website. You may, however, choose not to provide this information and use an alternative form of communication such as telephone, fax, or regular mail. By using our website your consent to this online Privacy Policy is implied.
 
-Please note that there is no guarantee that any e-mail sent to this site will be received by Assurant or that the message will remain confidential whilst being transmitted.
+**II. How we use and disclose personal information**
 
-**Use of Personal Data  
-**When we ask for any personal data, or give you the opportunity to supply such data, it is solely to provide the service or information you have requested. 
+If you choose to provide us with personal information, such as in an email to one of our online email boxes, by filling out a form with your personal information and submitting it to us through our website or by logging onto our website, we use that information to respond to your message and to help us provide you with the information you have requested. We also need information from you when you register for online access to your claims information. We use that information in order to process transactions that you request and to authenticate you as a registered user.
 
-In addition to any personal data supplied by you, we may collect the following information: 
+We do not sell or rent personal information about visitors to this site or consumers who use the site. We will use and disclose the information you give us only as required or permitted by law. This may include, for example, disclosures to third parties that perform business services on our behalf or in response to a request from a law enforcement agency or subpoena.
 
-(a) Site visits.  
-We collect information on the pages you access. This is then used to help us develop the design and layout of our sites. This includes information on the relative popularity of each page, the average number of pages accessed, the number of e-mails sent or files downloaded, and the average time spent on the site. None of this information is linked back to you as an individual. 
+**III. How we collect and use personal information**
 
-(b) E-mail addresses.  
-If you supply an e-mail address to us, it is kept in confidence and used solely to answer your enquiry or to comply with your request. We retain the content of the form or e-mail, the e-mail address and our response. This enables us to retain an audit trail of our contact and provide you with the product, service or information you have requested. 
+Personally-identifiable information is information that allows us to identify you. We collect, analyze, monitor online activities, and store any personal information that you voluntarily provide by sending us an email to one of our online email boxes, by filling out a form with personal information and submitting through our website or by logging onto our website.
 
-Third party websites are not covered by our privacy policy. 
+This information helps us assist you with technical issues encountered when using our website, improve our website and make your visits more appealing. You may choose not to provide personal information to us by not sending us an email using our online email boxes, by not filling out a form with personal information and by not logging onto our website. Refer to Section XII for other ways to contact us.
 
-**How we protect your information**  
-We capture your personal information, such as names and addresses, over a secure link using recognised industry standard Secure Sockets Layer (SSL) technology which encrypts the data whilst passing it over the web. This will be indicated on most browsers by a lock in the status bar at the bottom of the screen. 
+**IV. How we collect and use non-personal information**
 
-Firewalls are used to block unauthorised traffic to the servers and the actual servers are locked in a secure location which can only be accessed by authorised personnel.
+Non-personal information is generic data that does not allow us to identify or contact a specific individual. We look at such data on an individual and collective basis, to help us detect trends that might help us to improve our website.
 
-**Cookies**  
-Please note that we use “Cookies” on the Site. A cookie is a software application that tracks our users’ navigation of the Site and stores that information on their hard drives. This allows us to understand our users’ habits and preferences which enable us to customise our services for our users to provide an enhanced user experience. We may, for example, use cookies to store registration information so that you do not have to provide it to us on subsequent visits. 
+We may gather generic data automatically from your web browser, such as: the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the Uniform Resource Locator (URL) click path to, through, and from our website; and the date and time you access our website.
 
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies and how to disable them altogether. However, cookies allow you to take full advantage of this website and we recommend that you leave them turned on. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer. 
+**V. Email communication**
 
-**Further information about cookies**  
-The Interactive Advertising Bureau is an industry body that has produced a series of web pages which explain how cookies work and how they can be managed. 
+To protect your privacy, please do not use email to communicate information to us that you consider confidential. Email is not a secure method of communication and is not encrypted. Accordingly, an email message potentially could be accessed and viewed by others without your knowledge and/or permission, while in transit to us.
 
-**How we use your information and who we share it with**  
-We will use your information to manage your insurance policy, including underwriting and claims handling. This may include disclosing it to other insurers, third party underwriters and reinsurers. Your information includes data about your transactions.
+**VI. Cookies**
 
-We may use and share your information with other members of the Group to help us and them: 
+Persistent cookies may be used on this website. These are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use this information to analyze traffic patterns and improve our website. If you prefer not to accept cookies, the help portion of the toolbar on most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, disabling cookies may result in certain parts of the website not operating correctly or prevent you from taking full advantage of some of the features of our website.
 
-  * assess financial and insurance risks
-  * recover debt 
-  * prevent and detect crime 
-  * understand our customers’ requirements 
-  * develop and test products and services 
+**VII. Process for reviewing or requesting changes to personal information**
 
+If you think that any personal information we have collected about you is inaccurate, you may send a written request for review to us at the address provided in Section XII. We will investigate your request and make appropriate changes if warranted.
 
+**VIII. Changes to this policy**
 
-We do not disclose your information to anyone outside the Group except:  
-Where we have your permission; or  
-where we are required or permitted to do so by law; or  
-to other companies who provide a service to us or you; or  
-where we may transfer rights and obligations under this agreement. 
+We may change this Policy from time to time without notice. The most current Policy will be posted on this website. You should therefore review this online Privacy Policy regularly.
 
-We may transfer your information to other countries. If we do this we will ensure that anyone to whom we pass it provides an adequate level of protection. 
+**IX. Effective date**
 
-From time to time we may change the way we use your information. Where we believe you may not reasonably expect such a change we will inform you. 
+Effective Date: February 14, 2006/as amended March 6, 2009
 
-For your protection, telephone calls will be recorded and may be monitored. 
+**X. Links to other Websites**
 
-Fraud prevention agencies 
+This website may contain links to other websites that may have online information practices different from ours. We are not responsible for the privacy and security practices of those websites, and we encourage our visitors to learn about the privacy and security practices of those websites.
 
-If false or inaccurate information is provided and fraud is identified or suspected, details may be passed to fraud prevention agencies. 
+**XI. Children**
 
-Law enforcement agencies may access and use this information 
+We do not knowingly collect personal information from anyone under the age of 13. For more information about protecting your child's privacy online, visit the Federal Trade Commission.
 
-We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: 
+**XII. Privacy contact information**
 
-Checking applications for, and managing credit and other facilities and recovering debt;  
-Checking insurance proposals and claims;   
-Checking details of job applicants and employees.
+We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Privacy Office, Post Office Box 979047, Miami, FL 33197-9047 or e-mail us your question at [theprivacyoffice@assurant.com](mailto:theprivacyoffice@assurant.com).
 
-We, and other organisations that may access and use information recorded by fraud prevention agencies, may do so from other countries. We can provide the names and addresses of the agencies we use if you would like a copy of your information held by them. Please contact us at the address below. The agencies may charge a fee. 
+We’re a new kind of insurance company. Different, special even. For starters we’ve got British roots, so we’ve got a sense of humor. But we’re backed by a global insurance company, so we’ve got the dependability you’re looking for. But what really makes us different is that we’re here for the little things you don’t always think about insuring. Things like smart phones, tablets, laptops, pets and travel. Because these little things actually help make life better, and that’s a big deal.
 
-**Marketing**  
-We would also like to keep you informed (by e-mail, text messaging or other electronic means) of selected products and services available from us and our carefully chosen suppliers. If you do not wish to receive this information from us then please ensure you indicate your preference on the application screen.
+We take that little things approach in everything we do. So we don’t just offer great coverage at competitive prices, we make the whole process simple and easy. We ditch the legal speak for plain English. We make claims headache free. Because we’re not here to make difficult times more difficult. We’re here to make life easier.
 
-However, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes. Please let us know next time you contact us or write to:
-
-The Marketing Department,  
-Protect your bubble,  
-Assurant House, 6-12 Victoria Street,  
-Windsor,  
-SL4 1EN. 
-
-**Sensitive information**   
-Some of the personal information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions) We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents. 
-
-Please ensure that you only provide us with sensitive information about other people with their agreement. 
-
-**Dealing with other people  
-**If you would like someone else to deal with your policy on your behalf on a regular basis please let us know. In some exceptional cases we may also deal with other people who call on your behalf, with your consent. If at any time you would prefer us to deal only with you, please let us know. 
-
-For quality control and training purposes, we may monitor or record your communications with us. 
-
-**Changes to this Policy**   
-This Privacy Policy may change and therefore you should review it regularly. We will of course notify you of any changes where we are required to do so. 
-
-**Rights**   
-If you would like a copy of the information we hold about you, please write to: The Data Protection Officer, Legal & Compliance Department, 117-119 Whitby Road Slough, SL1 3DR quoting your reference. A fee may be payable. 
+So that’s us in a nutshell. Thanks for stopping by.  Now you’ll see how easy it is to take care of the little things with Protectyourbubble.com.
