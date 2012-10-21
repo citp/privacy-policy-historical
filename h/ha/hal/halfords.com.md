@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630125405id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_564653_langId_-1_categoryId_173017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021160006id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_564653_langId_-1_categoryId_173017) for the most accurate reproduction.*
 
 # Halfords Advice Centre | Privacy Policy | Customer Services
 
