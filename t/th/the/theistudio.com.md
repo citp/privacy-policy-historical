@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503145348id_/http%3A//www.theistudio.com/muse/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021063341id_/http%3A//www.theistudio.com/muse/project-inquiry/privacy-security) for the most accurate reproduction.*
 
-# Privacy | WordPress Consultant: Judith Kallos, At Your Service... | WordPress Consultant: Judith Kallos, At Your Service...
-
-## [ Privacy ](http://www.theistudio.com/muse/project-inquiry/privacy-security "Permanent Link to Privacy")
+# Privacy | WordPress Consultant: Judith Kallos, At Your Service...
 
 ### The IStudio® and Your Privacy
 
