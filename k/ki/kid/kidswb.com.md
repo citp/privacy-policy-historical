@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505013616id_/http%3A//www.kidswb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021045124id_/http%3A//www.kidswb.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Kids WB
 
