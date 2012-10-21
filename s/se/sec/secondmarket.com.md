@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526032355id_/https%3A//www.secondmarket.com/privacy-policy%3Ft%3Dfl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021094928id_/https%3A//www.secondmarket.com/privacy-policy%3Ft%3Dfl) for the most accurate reproduction.*
 
 # Privacy Policy - SecondMarket
 
