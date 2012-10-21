@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232243id_/http%3A//netshelter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021164757id_/http%3A//www.netshelter.com/privacy-policy) for the most accurate reproduction.*
 
 # NetShelter Technology Media : Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
 Consumer privacy is of paramount importance to NetShelter Inc. ("NetShelter"), our advertisers, and the Web publishers in our network. NetShelter is committed to protecting the privacy of consumers, publishers, and advertisers, and to do our part to maintain the integrity of the Internet. NetShelter's combination of proprietary and partner technology allows us to deliver relevant, targeted content to individuals, but not at the expense of individual privacy. This Privacy Policy describes how we gather information from you when you visit the web sites of NetShelter (including all our subsidiaries, affiliates, and networks) and when we serve advertisements on our network of web sites, why we collect this information, and how we may use and share this information. For more details on our practices, contact us.
 
@@ -25,7 +25,7 @@ We may retain such information for up to two years. Aggregate reports generated 
 
 **Opt-Out**
 
-We partner with third parties for certain advertising services. These third parties may be members of the Network Advertising Initiative (NAI), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies. To learn more about behavioral advertising in general, and to exercise your right to opt-out of this practice, click here.  
+We partner with a limited number of behavioral advertising companies to serve ads and/or collect certain information when you visit our websites. Behavioral advertising companies may use cookies to collect non-personally identifiable information [what your search for] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this 'behavioral advertising' practice or to opt-out of this use of your anonymous information, you can visit the Network Advertising initiative's opt out [here](http://www.networkadvertising.org/managing/opt_out.asp).  
 Please note that if you change your computer, change your internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your opt-out.
 
 **Business Transfers**
@@ -50,4 +50,4 @@ This Privacy Policy is effective as of August 1, 2009. We may change this Privac
 
 **How To Contact Us**
 
-If you wish to contact us about this Privacy Policy, you can reach us by email at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy32098%20=%20'privacy'%20+%20'@';%20addy32098%20=%20addy32098%20+%20'netshelter'%20+%20'.'%20+%20'net';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy32098%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy32098%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[privacy@netshelter.net](mailto:privacy@netshelter.net) or by telephone at 415-365-4950.
+If you wish to contact us about this Privacy Policy, you can reach us by email at '; document.write( '' ); document.write( addy_text43667 ); document.write( '<\/a>' ); //--> or by telephone at 415-365-4950.
