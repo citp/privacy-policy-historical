@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claymont.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505120456id_/http%3A//www.claymont.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claymont.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021151225id_/http%3A//www.claymont.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Claymont Search Engine-free search engine submissions
 
