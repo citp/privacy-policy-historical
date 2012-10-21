@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620175502id_/http%3A//www.webafrica.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021134816id_/http%3A//www.webafrica.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy
 
