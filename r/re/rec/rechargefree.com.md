@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rechargefree.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503185622id_/http%3A//www.rechargefree.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rechargefree.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021171621id_/https%3A//www.rechargefree.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Free Recharge Online, Recharge Free, Free Online Recharge, Free Recharge
 
-This privacy policy sets out how [**www.RechargeFree.com** ](https://web.archive.org/web/20120503185622id_/http%3A//www.rechargefree.com/Default.aspx)uses and protects any information that you give to www.RechargeFree.com when you use this website.
+This privacy policy sets out how [**www.RechargeFree.com** ](https://web.archive.org/web/20121021171621id_/https%3A//www.rechargefree.com/Default.aspx)uses and protects any information that you give to www.RechargeFree.com when you use this website.
 
-[**www.RechargeFree.com** ](https://web.archive.org/web/20120503185622id_/http%3A//www.rechargefree.com/Default.aspx) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+[**www.RechargeFree.com** ](https://web.archive.org/web/20121021171621id_/https%3A//www.rechargefree.com/Default.aspx) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-[**www.RechargeFree.com** ](https://web.archive.org/web/20120503185622id_/http%3A//www.rechargefree.com/Default.aspx) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/08/2011
+[**www.RechargeFree.com** ](https://web.archive.org/web/20121021171621id_/https%3A//www.rechargefree.com/Default.aspx) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/08/2011
 
 ### What we collect
 
