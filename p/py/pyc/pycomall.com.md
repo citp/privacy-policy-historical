@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013754id_/http%3A//www.pycomall.com/pages.php%3Fpageid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021174352id_/http%3A//www.pycomall.com/pages.php%3Fpageid%3D13) for the most accurate reproduction.*
 
 # Privacy Policy :: Pycomall
 
