@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515013009id_/http%3A//www.genworth.com/content/non_navigable/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021080218id_/http%3A//www.genworth.com/content/non_navigable/corporate/privacy_policy.html) for the most accurate reproduction.*
 
-# Genworth Financial - Corporate Privacy Policy - Genworth Financial
+# Genworth Financial - Corporate Privacy Policy - Genworth
 
 |  [](https://web.archive.org/content/non_navigable/corporate/privacy_policy.print.html)  
 ---|---  
