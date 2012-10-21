@@ -1,67 +1,56 @@
-> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301184825id_/http%3A//www.etisalat.ae/index.jsp%3Flang%3Den%26type%3Dcontent%26contentid%3Dc6a202334eb5b010VgnVCM1000000c24a8c0RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021101130id_/http%3A//v2.weyak.ae/en/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Etisalat Portal Privacy Policy
 
-[](http://www.addthis.com/bookmark.php)
+THE CUSTOMER PERSONAL INFORMATION COLLECTED ON THIS PORTAL IS SUBJECT TO THIS PRIVACY POLICY. BY DISCLOSING INFORMATION TO US, YOU AGREE TO THE TERMS OF THE POLICY.
 
-This **Privacy Policy** for Etisalat Website (www.etisalat.ae) is to be read and used in connection with the Terms & Conditions which are also published on this website.
+Emirates Telecommunications Corporations - ETISALAT, respect the privacy of our customers and will not sell or make available in any way the personal information of our customers except where the customer requires us to do so. This policy guides how we collect and use information about our customers of our Etisalat portal services, and it sets out the principles governing Etisalat use of the customer information. By registering to use Etisalat portal services, you agree to use this policy.
 
-This privacy policy has been formulated to assist Customers /Users to understand how their personal information will be treated by Etisalat when they visit the website, as Etisalat’s objective is to make available a good experience and quality service to all Customers and /or Users.
+**Scope**  
+This privacy policy applies to subscribers to our Etisalat portal services only withier you have accessed from internet or mobile. This policy does not extend to individuals and/or corporate that submits information to us outside of our Etisalat portal services. Our privacy policy is stated bellow as follows:
 
-Please note that Etisalat may amend this policy from time to time without prior notice. Users/ Customers are advised to check this Policy on regular basis.
+  1. Collection and Storage of Personal Information: 
 
-**Collection of Personally Identifiable Information**
+When you register and use Etisalat portal services, you will be asked to provide Etisalat certain data, such as your contact details and demographic information, etc. We will store this Data and use it to contact you, provide you with details of services and otherwise for formal use and improvement of the portal. We will not share this information with any other person, company or organization except as may be required by law or related entities and/or outside contractors who may be used to ship products, provide technical support, handle order processing or otherwise act on our behalf for the purpose of providing products and services. Information concerning individuals' usage of our sites will not be disclosed to third parties except in aggregate form such that your information will not be personally identifiable.  
+In case of any changes occurring in your personal information and/or if in case that your personal information that we are storing is inaccurate your are kindly requested to update our systems by visiting My Profile Link
 
-Whenever a User visits Etisalat Website, the server used by Etisalat Web Host will make a record of User IP Address, the date and time of User visit, the type of Internet Browser User uses and the URL of any web site which referred User to Etisalat Website. Unless otherwise stated Cookies used (if any) in any part of Etisalat web site will not be deployed for collecting personally identifiable information.
+  2. Use of Information: 
 
-As General information, Cookies are small computer files that can be stored in web surfers' computers for the purposes of obtaining configuration information and analyzing web surfers' viewing habits. User may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of User computer system). Therefore, User may not be able to utilize or activate certain available functions in Etisalat Website.
+Your personal information will be used for the following purposes:
 
-**Types of Personally Identifiable Information Collected**
+    1. To deliver the service and/or products as per the customer request
+    2. To enable billing and shipping
+    3. To provide you with the latest information, promotions and events that is related to the service or product that we are selling online
+    4. To improve our customer service
+    5. To improve the quality of our services and products
+    6. To improve and get you feedback on Etisalat portal services
+    7. To conduct surveys related to the service or product that we are selling online
+    8. To inform you though you email or any other preferred method, of the latest updates and promotions that we are conducting or may be an interest to you
+  3. Additional Information Collected Automatically: 
 
-At times, Customer may be required to give her/his personally identifiable information including, but not limited to, Customer name, gender, age, identity document number, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests and activities etc.
+In some cases, when you connect to our portal, the system will automatically (i.e., not via registration) collect technical information that is not personally identifiable. Examples of this type of information include the type of Internet browser you are using, the type of computer operation system you are using and the domain name of the website from which you linked to our site.
 
-Refusal to provide such information may deny Customer's access to certain parts of Etisalat web site, or may render Etisalat unable to handle any application or request Customer is making, or may otherwise defeat the objectives of the visit. If Customer is under the age of 21, consent from a parent or guardian is required.
+  4. Information Placed Automatically on Your Computer - Cookies: 
 
-**Use of Personally Identifiable Information Collected**
+When you view our portal, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor our website to better match your interests and preferences, identify you further, etc. With most Internet browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
-Specific purposes for which User personally identifiable information may be used are set under Etisalat Website Terms & Conditions.
+  5. Your Rights: 
 
-**Direct Marketing/Market Research**
+You may review and update your information in our customer database, accessible at the Etisalat portal. It is recommended that amendments of customer personal information have to be done immediately, should the existing details require update.
 
-If Customer has once given to Etisalat personally identifiable information, Customer may receive from Etisalat or from its affiliated companies from time to time telephone calls, email, and short message and direct mailings containing promotional materials or market research/surveys. If Customer does not want to receive them, please write to:
+  6. External Sites: 
 
-**Etisalat Customer Care**    
-Head Office Marketing Department   
-P.O.Box 3838   
-Abu Dhabi, UAE
+As a service to you, our portal may feature links to external websites. Etisalat will not be responsible for the privacy practices or the content of any external websites. Accordingly, we recommend that you review the privacy policy of any external websites that you may enter from our site.
 
-[customercare@etisalat.ae](mailto:customercare@etisalat.ae)
+  7. Privacy Contact: 
 
-Etisalat Customers may be asked to indicate their particular preference before signing up for any of Etisalat services.
+For any questions regarding this policy, please call 101. Emirates Telecommunications Corporation with its business unit is introducing the Etisalat Portal Services with the association of its partner(s). All Copyright Etisalat. All rights reserved. Read our Terms of Use and our Privacy Policy.
 
-**On-line Services**
+Problems or suggestions concerning Etisalat portal service please contact our Internet Help Desk: 800-6100 
 
-**Etisalat Website**  may have on-line stores or service providers hosted within the web site, which are operated by third party merchants. If Customer wants to use or order any services or products from any of them, please note that any information Customer provides, once transferred to the relevant merchant, is beyond Etisalat’s control. Additionally Etisalat may also request information on several elements of Customer Service. User feedback is vital, appreciated and enables Etisalat to enhance the Quality of Customer Service Etisalat provides.
+  8. Governing law and Jurisdiction: 
 
-**Retention of the Information**
+This agreement is governed and shall be construed in accordance with the law of United Arab Emirates, and parties agree to submit to the jurisdiction of the courts of the United Arab Emirates. 
 
-A Customer’s personally identifiable information which is given to Etisalat via Internet during the subscription process will be retained for a reasonable period after termination of the subscription.
 
-**Disclosure of Information**
-
-User/Customer information may be shared with, or transferred to Etisalat, its subsidiaries and affiliated companies. For details, please refer to Etisalat Website Terms and Conditions published on this website.
-
-**Access to and Correction of Information**
-
-If a Customer wants to access and/or correct her/his personally identifiable information, which Customer has given to Etisalat via Internet, Customer may write to (email address). Etisalat may charge Customer a reasonable fee for each successful access current from time to time. However, such fee will be waived if the access is necessary to make a genuine and reasonable correction.
-
-**Links to other sites**
-
-**Etisalat Website**  may contain links to other sites. Emirates Telecommunications Corporation - Etisalat is not responsible for the data collection practices and/ or the privacy policies of any such sites.
-
-**Security**
-
-Etisalat employs techniques to secure the Etisalat Website. It is worth noting that such techniques do not guarantee that use of the Etisalat Website is invulnerable to all security risks, nor does Etisalat make any warranty, guarantee, or representation that use of the Etisalat Website is protected from all viruses, worms, and other vulnerabilities.
-
-  
 
