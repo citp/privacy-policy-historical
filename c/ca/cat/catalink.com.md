@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604002206id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021215629id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Catalink Privacy Policy
 
@@ -15,13 +15,23 @@ Simply log into your account and then click the **My Details** link at the top o
 You will be deemed to have accepted the following terms in relation to any information about yourself which you choose to submit to an LMG website or send to us by any other method (”personal information”). If you do not agree to these terms do not submit any personal information to us. If you wish to discuss our proposed uses of your personal information, or have any comments or complaints please [click here](http://www.catalink.com/contact_us.php).
 
 **COOKIES  
-** Cookies are pieces of data that are often created when you visit a website, and which are stored in the cookie directory of your computer.
+** Cookies are pieces of data that are often created when you visit a website and which are stored in the cookie directory of your computer. We use cookies to make our websites work more efficiently, as well as to provide information to the owners of the website. Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-1 cookie is created when you visit the Catalink website.
+A number of cookie are created when you visit the Catalink website.
 
-Our first cookie stores a random number on your computer to help us count the number of times users return to our site, keep track of your requests and areas visited on our website and enhance your experience of it.
+Our cookies store the following information to help us enhance your experience of our website: 
 
-You can set your browser not to accept cookies. If you do not know how to do this contact us giving details on the type of browser you are using, and we will do our best to help. Please note that if you do set your browser not to accept cookies you may not be able to access many parts of the Catalink Website. 
+  * a setting so that our website knows if you have already been shown our cookie compliance message
+  * a random number on your computer to help us count the number of times users return to our site
+  * the number of brochures requested
+  * number of pages visited
+  * the date of your last visit
+  * areas of the website visited
+  * which promotions you have shown an interest in
+  * when selected we store your email address to enable easy login to our website
+  * we store unique identifiers to enable secure login from emails
+
+Some of our sites use Google Analytics for tracking and reporting of site performance. You can opt out [here](http://tools.google.com/dlpage/gaoptout). You can set your browser not to accept cookies. If you do not know how to do this contact us giving details on the type of browser you are using, and we will do our best to help. Please note that if you do set your browser not to accept cookies you may not be able to access many parts of the Catalink Website. 
 
 **LOG FILES  
 **Log files allow us to record visitors' use of the site.
@@ -30,7 +40,7 @@ We use this information to optimise performance of our website and the informati
 
 Log files do not contain any personal information and they are not used to identify any individual patterns of use of the site. 
 
-**Types of information we may collect from you.**
+**Types of information we may collect from you:**
 
   * Aggregated data – ie data from cookies and log files.
   * Personal data – ie data from which you can be personally identified (even without using our website) such as full name postal address financial information or phone number.
