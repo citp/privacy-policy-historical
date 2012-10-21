@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219112954id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021164632id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
 
 # Memory upgrades from Crucial.com - Crucial's Privacy Policy
 
@@ -65,12 +65,19 @@ Our site provides you with the opportunity to opt-out of receiving communication
   * **Correct/update**  
 If you want to change or modify information you have previously provided to us, simply log in to your password-protected account. Once you are logged in, you will see links that will allow you to update your address book, e-mail subscriptions, password, and customer profile. (This list may change over time as our Web site is updated.) If you do not have a password-protected account with Crucial, you can modify your e-mail subscriptions on our [e-mail subscription page](https://web.archive.org/us/mysite/newslettersignup.aspx). If you have any problems or questions about updating information you have previously provided, please contact us at 800-336-8915 (US and Canada only) or 208-363-5790. Or you can send an e-mail to [crucial.service@micron.com](mailto:crucial.service@micron.com).
   * **Compliance Hotline**  
-If you have questions or concerns regarding use of your privacy information, please contact us first using one of the methods above. If you are still dissatisfied, you may call our Compliance Hotline at (866) 294-5593 in the U.S., Canada, and Puerto Rico, for other international numbers [click here](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=8715&nav=page2). If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should contact BBB EU Safe Harbor: (703) 247-9370 or 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203.
+Micron believes in ethical business practices.  You may review our [Code of Business Conduct and Ethics](http://www.micron.com/about/our-commitment/governance/ethics) and if you have any concerns, please contact us as described above or you may contact our [Compliance Hotline](https://secure.ethicspoint.com/domain/media/en/gui/8715/index.html).
   * **U.S. Commerce Department Safe Harbor Principles**  
 Micron adheres to the U.S. Commerce Department Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
+In compliance with the US-EU Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Micron at [privacy@micron.com](mailto:privacy@micron.com). 
 
+Micron has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+
+
+
+
+**Change of Control**  
+In the event that another company acquires assets related to this website, or if we experience some other change of control event such as a spin-off, merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all user-related information among the assets transferred to the acquiring company. We cannot guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this policy. 
 
 **Updates/Effective Date**  
-Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: March 1, 2010.  
-
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: July 10, 2012. 
