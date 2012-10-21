@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628060048id_/http%3A//www.redeye.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021171238id_/http%3A//www.redeye.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RedEye International Ltd
+# RedEye International Ltd | Privacy Policy
 
 At RedEye we respect your privacy and are committed to protecting the confidentiality of your personal information. Our aim is to be as clear and open as possible about what we do and why. At [www.RedEye.com](http://www.redeye.com/), visitor information will be
 
