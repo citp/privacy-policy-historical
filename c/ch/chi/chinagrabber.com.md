@@ -1,31 +1,13 @@
-> *The following text is extracted and transformed from the chinagrabber.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506230633id_/http%3A//chinagrabber.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinagrabber.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021231829id_/http%3A//chinagrabber.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Cheap Electronics Dropship Novo 7 Aurora Elf Android 4.0 - Privacy Policy
+# Cheap Dropship Electronics Android Tablets Phone China Grabber - Privacy Policy
 
 | 
 
-[ ](http://chinagrabber.com/onda-vi40-elite-edition---8gb-android-4-0-tablet-pc---9-7-ips-capacitive-a10-apad.aspx)
+**Privacy Policy**
 
   
-
-
-|   
----  
----  
-  
-**[FAQ's](http://chinagrabber.com/faq-s.aspx)  
-[Dropship Program](http://chinagrabber.com/Ebay-Amazon-Dropship-Program.aspx)**  
-**[Tablet Warranty Policy](http://chinagrabber.com/tablet-warranty-policy.aspx)**
-
-| | |   
----|---|---  
-| 
-
-Privacy Policy  
-
-
-  
-This Privacy Policy governs the manner in which China Grabber collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.chinagrabber.com](https://web.archive.org/web/20120506230633id_/http%3A//chinagrabber.com/www.chinagrabber.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by China Grabber, an IG8 Company.
+This Privacy Policy governs the manner in which ChinaGrabber collects, uses, maintains and discloses information collected from users (each, a "User") of the _[ww w.chinagrabber.com](http://www.gadgetgreats.com/)_ website ("Site"). This privacy policy applies to the Site and all products and services offered by ChinaGrabber, an IG8 Company.
 
 Our site has a fully encrypted Network Solutions SSL certificate.
 
@@ -43,7 +25,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-China Grabber collects and uses Users personal information for the following purposes: 
+ChinaGrabber collects and uses Users personal information for the following purposes: 
 
   * _\- To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
@@ -56,26 +38,26 @@ The email address Users provide for order processing, will only be used to send 
 
 
 
-**How we protect your information**  
-  
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.   
-  
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.   
-  
-**Sharing your personal information**   
-  
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.   
-  
-**Changes to this privacy policy**   
-  
-China Grabber has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.   
-  
-**Your acceptance of these terms**   
-  
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.   
-  
-**Contacting us**   
-  
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. 
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
+
+**Changes to this privacy policy**
+
+ChinaGrabber has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+
+**Contacting us**
+
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
 IG8 Limited  
@@ -85,18 +67,15 @@ Hi-tech Industrial Center
 Tsuen Wan New Territories  
 Hong Kong
 
-[China Grabber](https://web.archive.org/web/20120506230633id_/http%3A//chinagrabber.com/www.chinagrabber.com)   
-[www.chinagrabber.com](https://web.archive.org/web/20120506230633id_/http%3A//chinagrabber.com/www.chinagrabber.com)   
-info@chinagrabber.com  
-  
-This document was last updated on December 13, 2011   
+ _[ChinaGrabber](https://web.archive.org/web/20121021231829id_/http%3A//chinagrabber.com/www.chinagrabber.com)_
 
+_[www.chinagrabber.com](http://www.chinagrabber.com/)  
+_
 
-|   
-| |   
-|   
----  
----  
-  
-  
+info@chinagrabber
 
+.com
+
+This document was last updated on December 13, 2011
+
+| 
