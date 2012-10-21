@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505015548id_/http%3A//www.vbstyles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021060851id_/http%3A//www.vbstyles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - VBStyles
 
