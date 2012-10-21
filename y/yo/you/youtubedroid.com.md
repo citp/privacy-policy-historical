@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtubedroid.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614032210id_/http%3A//www.videodroid.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtubedroid.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022000608id_/http%3A//www.youtubedroid.com/privacy.php) for the most accurate reproduction.*
 
 # Free Online YouTube to MP3, MP4, 3GP, FLV, AVI Converter - Terms of Service
 
