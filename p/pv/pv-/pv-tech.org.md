@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527144442id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021052011id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | PV-Tech
+# Privacy Policy - PV-Tech
 
 This privacy policy sets out how Solar Media Limited uses and protects any information that you give Solar Media Limited when you use this website.
 
