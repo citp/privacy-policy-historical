@@ -1,59 +1,204 @@
-> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613023249id_/http%3A//roguefcu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021055431id_/https%3A//www.roguefcu.org/privacy-policy) for the most accurate reproduction.*
 
-# Rogue FCU | Privacy Policy Disclosure
+# Privacy Policy | Rogue Federal Credit Union
 
-### Our Privacy Pledge
+**FACTS**
 
-At Rogue Federal Credit Union we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Rogue Federal Credit Union and our affiliate, Rogue Federal Credit Union Investment and Insurance Services. This notice explains what types of member information we collect and under what circumstances we may share it. 
+| 
 
-### Member Information We Collect
+**WHAT DOES ROGUE FEDERAL** **CREDIT UNION** **DO  
+WITH YOUR PERSONAL INFORMATION?**  
+  
+---|---  
+  
+Why?
 
-The Credit Union collects only relevant information about members that is needed to establish and maintain your account and services as the law allows or requires us to collect. We may collect personal and financial information about you (member information) which is "nonpublic." The member information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources: 
+| 
 
-_Application Information._ We retain personal information we receive from you on any application you provide to us or our affiliate for membership, deposit account, EFT services, loans, financial planning, securities brokerage, insurance, or other Credit Union services. This information includes: name, address, e-mail address, social security number, birth date, phone number, employment and financial status, and credit history. 
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some, but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do with personal information.  
+  
+What?
 
-_Your Transactions._ Any time you make a transaction on one of your accounts, including ATM or card transactions, loan advances, transactions through Internet Banking, over the phone or at a branch we retain the transaction information, including: your account number, the date, amount, location of the transaction, and other pertinent information. Our affiliate may also provide us with reports on your securities and insurance transactions. 
+| 
 
-_Credit Reports._ When we evaluate your application for an account or service, we may request a credit report about you from a consumer reporting agency. We retain the personal and credit history information about you and we may use it to evaluate future account service requests. 
+The types of personal information we collect and share depend on the accounts or services you have with us. This information can include:
 
-_Online._ We may obtain information you provide online when you visit our website, www.roguefcu.org. This includes retaining information you provide us on any online application, Internet Banking transaction or information you send to us by e-mail. 
-
-_Copyrights._ You should assume that everything on the Rogue Federal Credit Union site is copyrighted unless otherwise noted and that it must not be used except as provided with the express written consent of RFCU. Images of people, places, or other images displayed on the RFCU site are either the property of, or used with permission by, RFCU. Use of these images by you or other third parties is prohibited unless expressly permitted. Any unauthorized use of these images may violate copyright laws, trademark laws, the laws of privacy and publicity, and other applicable regulations and statutes. 
-
-Rogue Federal Credit Union has not reviewed all of the sites which are linked to the Rogue Federal site, and the fact of such links does not indicate any approval or endorsement of any material contained on any linked site; your connection to any such linked site is at your own risk. 
-
-### Member Information We Share
-
-In order to provide financial services to you, we share certain information about you with our affiliate and third party service providers. However, we only share information to the extent necessary to service your account or offer new services to you. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed if necessary to enforce or administer an account or as required by law. 
-
-_Sharing Information with Credit Union Affiliates._ Our wholly-owned affiliate, Rogue Federal Member Financial Services, LLC, provides insurance products and services. We may share personal information (such as name, address, and account number) and account information (such as type of accounts, account balances, and transaction history) with our affiliate so they can serve you more efficiently. Our affiliate maintains the same privacy standards as the Credit Union. 
-
-_Sharing Information with Third Party Service Providers._ In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including: data processing companies, check, ATM and other payment processing companies, payment networks, loan service providers, insurance companies, collection agencies, credit reporting agencies, financial planners, securities brokerage, and insurance companies, and financial service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the member information we provide to them confidential. We share the following categories of information to third party service providers depending on the specific services provided: 
-
-  * Personal information (name, address, and account number)
-  * Account information (type of accounts, account balances, and transaction history)
-  * Transaction information (dates, amounts, locations, and type of transaction)
+  * Social Security number and income
+  * Account balances and transaction history
+  * Credit history and credit scores
 
 
 
-We do not sell member information nor share your account numbers with independent third party marketers offering their products and services. While we may assist in offering financial products and services of our affiliate or other financial service providers, we control the member information used to make such offers. 
+When you are _no longer_ our member, we will not share your information except as permitted or required by law as described in this notice.  
+  
+How?
 
-_Sharing Information as Legally Required or Permitted._ We may share any member information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate. 
+| 
 
-### Our Confidentiality and Security Safeguards
+All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Rogue Federal Credit Union chooses to share; and whether you can limit this sharing.  
+  
+**Reasons we can share your personal information**
 
-We maintain strict policies and security controls to assure that member information in our computer systems and files is protected. Our employees are permitted access to member information that they may need to perform their jobs and to provide service to you. Our employees have access to such member information as necessary to conduct a transaction or respond to your inquiries. All employees are trained to respect member privacy. No one except our employees has regular access to the Credit Union computer system and records storage. The Credit Union has established internal security controls, including physical, electronic, and procedural safeguards to protect the information you provide us and the information we collect about you. We will continue to review our internal security controls to safeguard your member information as we employ new technology in the future. 
+| 
 
-### Online Privacy Protections
+**Does** **Rogue Federal**
 
-At our website, [www.roguefcu.org](http://www.roguefcu.org/), you may (when activated) apply for accounts and services and you may communicate with us via e-mail. To protect the information you provide us online, we use multiple levels of security. The application information we accept online and our Internet Banking service relies on industry standard "Secure Sockets Layer" (SSL) encryption to secure your transaction information and communication. Generally, our e-mails are not secure. However, if we ask you to e-mail us information other than your name, address, e-mail address and phone number, it will be obtained using a secure (SSL encryption) e-mail form. When you visit our website, you can access site information, without revealing your personal identity. In the future, we may use a "cookie" in order to help us identify you and to track your website visit. A "cookie" is a piece of information that our web server may store on your computer hard drive and retrieve later. The cookie would not request, require or collect any personal identity information and you remain anonymous. Your member information would not be accessed by or stored within a cookie in any way. 
+**Share this?**
 
-### Protecting Children’s Information Privacy
+| 
 
-Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents. 
+**Can you limit this sharing?**  
+  
+**For our everyday business purposes-**  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
 
-### Privacy Policy Inquiries
+| 
 
-If you have any questions about our privacy practices contact us by calling (541) 858-7328, 1 (800) 856-7328 or writing to us at Rogue Federal Credit Union, 1370 Center Drive, Medford, Oregon 97501. 
+Yes
 
-June 2007 
+| 
+
+No  
+  
+**For our marketing purposes-**  
+to offer our products and services to you
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For joint marketing with other financial companies**
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For our affiliates' everyday business purposes-**  
+information about your transactions and experiences
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For our affiliates' everyday business purposes-**  
+information about your creditworthiness
+
+| 
+
+No
+
+| 
+
+We don't share  
+  
+**For nonaffiliates to market to you**
+
+| 
+
+No
+
+| 
+
+We don't share  
+  
+**Questions?**
+
+| 
+
+Call 541.858.7328 or toll free at 800.856.7328,
+
+or write to us at Rogue Federal Credit Union, 1370 Center Dr., Medford, OR 97501  
+  
+---|---  
+  
+**What we do**  
+  
+---  
+  
+**How does** **Rogue Federal Credit Union** **protect my personal information?**
+
+| 
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We also restrict access to nonpublic personal information about you to those employees and volunteers who need to know the information to provide products or services to you.  
+  
+**How does** **Rogue Federal Credit Union** **collect my personal information?**
+
+| 
+
+We collect your personal information, for example, when you
+
+  * open an account or apply for a loan
+  * apply for any credit union service
+  * you visit our website, provide us information on any online application or transaction, or information you send to us by email.
+  * use your credit or debit card or pay your bills
+  * make deposits to or withdrawals from your accounts
+
+
+
+We also collect your personal information from others, including credit bureaus or other companies.  
+  
+**Why can't I limit all sharing?**
+
+| 
+
+Federal law only gives you the right to limit information sharing as follows:
+
+  * sharing for affiliates' everyday business purposes-information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
+
+
+
+State laws and individual companies may give you additional rights to limit sharing.  
+  
+**Definitions**  
+  
+**Affiliates**
+
+| 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * _Rogue Federal Member Financial Services, LLC and CUSO Financial Services, LP, providers of financial services, including insurance products._
+
+  
+  
+**Nonaffiliates**
+
+| 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * _Rogue Federal Credit Union does not share with non-affiliates so they can market to you._
+
+  
+  
+**Joint marketing**
+
+| 
+
+A formal agreement between _Rogue Federal Credit Union and a_ nonaffiliated financial company where we jointly market financial products or services to you.
+
+  * _Our joint marketing partners include financial services and insurance companies._
+
+  
+  
+## 
+
+[](http://www.facebook.com/RogueCreditUnion)
+
+[](https://www.roguefcu.org/node/1161)
+
+**541.858.7328   -  800.856.7328**
