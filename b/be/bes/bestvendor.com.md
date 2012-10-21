@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestvendor.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615104052id_/http%3A//www.bestvendor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvendor.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021093237id_/http%3A//www.bestvendor.com/privacy) for the most accurate reproduction.*
 
-# Privacy - BestVendor
+# Privacy - BestVendor.com
 
 **General Statement**
 
