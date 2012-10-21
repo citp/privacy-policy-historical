@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the manausa.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213131308id_/http%3A//www.manausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manausa.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021055834id_/http%3A//www.manausa.com/privacy) for the most accurate reproduction.*
 
-# Tallahassee Real Estate Privacy Statement
+# Privacy Statement
 
-### CENTURY 21 First Realty's Exclusive Privacy Policy
+### CENTURY 21 First Realty’s Exclusive Privacy Policy
 
-This privacy statement discloses the privacy practices for CENTURY 21 First Realty, ("Company"), Web site found on [www.manausa.com](http://www.manausa.com/).
+This privacy statement discloses the privacy practices for CENTURY 21 First Realty, (“Company”), Web site found on [www.manausa.com](http://www.manausa.com/).
 
 This Web site has agreed to notify you of:
 
@@ -30,7 +30,7 @@ Company is the sole owner of the information collected on this site. We will not
 
 2\. REGISTRATION
 
-In order to subscribe to this Web site's newsletter, a user must first complete the registration form. During registration a user is required to give their contact information (such as email address and optional name). This information is used to contact the user about the services on our site for which they have expressed interest.
+In order to subscribe to this Web site’s newsletter, a user must first complete the registration form. During registration a user is required to give their contact information (such as email address and optional name). This information is used to contact the user about the services on our site for which they have expressed interest.
 
 3\. COOKIES
 
@@ -58,15 +58,12 @@ From time-to-time our site requests information from users via surveys or contes
 
 9\. FORWARD TO A FRIEND
 
-If a user elects to use our referral service for informing friends about our site or newsletter, we ask them for the friends' name and email address. Company or a third party service used by Company will automatically send the friends a one-time email inviting them to visit the site. This information is used for the sole purpose of sending this one-time email.
+If a user elects to use our referral service for informing friends about our site or newsletter, we ask them for the friends’ name and email address. Company or a third party service used by Company will automatically send the friends a one-time email inviting them to visit the site. This information is used for the sole purpose of sending this one-time email.
 
 10\. CHOICE / OPT-OUT
 
-Users who no longer wish to receive our newsletter may opt-out of receiving it by clicking the "Manage your subscription" link at the bottom of any Newsletter e-mail message.
+Users who no longer wish to receive our newsletter may opt-out of receiving it by clicking the “Manage your subscription” link at the bottom of any Newsletter e-mail message.
 
 11\. NOTIFICATION OF CHANGES
 
-If we decide to change our Privacy Policy, we will post those changes this site's Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-  
-
+If we decide to change our Privacy Policy, we will post those changes this site’s Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
