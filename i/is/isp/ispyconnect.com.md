@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625025715id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022005505id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
 
 # iSpy Privacy Policy
 
