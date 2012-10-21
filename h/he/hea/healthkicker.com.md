@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the healthkicker.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502214807id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthkicker.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021155026id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Xanga Help
+# » Privacy Policy | Xanga Help
 
 Effective: August 25, 2011
 
 **XANGA PRIVACY POLICY**
 
-This website is part of the Xanga service (”Xanga” or “the Xanga Network”) - a network of blogging and social networking communities, including Xanga.com, Lovelyish.com, Momaroo.com and others. When you register at any one of these communities, you gain access to all the communities. This will allow you to create, share, and view content across all the communities. This policy, as well as the Xanga Terms of Use, apply to all of Xanga’s communities.
+This website is part of the Xanga service (“Xanga” or “the Xanga Network”) – a network of blogging and social networking communities, including Xanga.com, Lovelyish.com, Momaroo.com and others. When you register at any one of these communities, you gain access to all the communities. This will allow you to create, share, and view content across all the communities. This policy, as well as the Xanga Terms of Use, apply to all of Xanga’s communities.
 
 Xanga exists to promote sharing and community. But when you share any information through a service like Xanga, it’s important to remember that you are potentially sharing it with the entire world. The information you submit to Xanga may be accessible to anyone who visits your Xanga site (including people who are not registered Xanga users), or through search engines, mobile devices, and a variety of other devices and services. It may also be copied and redistributed by anyone who has access to it. As a result, to help you make your Xanga experience more safe and fun, please read the safety tips on our Xanga Safety area at <http://help.xanga.com/about/safety/xanga-safety-features/>.
 
@@ -18,7 +18,7 @@ We take your privacy seriously and so should you. Xanga has many features design
 
   * **[Children](http://help.xanga.com/about/privacy-policy/#children)**
   * **[Information Collected by Xanga](http://help.xanga.com/about/privacy-policy/#informationcollected)**
-    * Registration - Required Information
+    * Registration – Required Information
     * Profile Information
     * Information Submitted to Your Xanga Site
     * Comments & Other Interactive Forums
@@ -62,20 +62,20 @@ For more information about protecting your child’s privacy online, please visi
 
 Xanga may collect certain information from you as described below. Xanga uses the information it collects for authentication purposes, to customize the advertising and content you see, to fulfill your requests for products and services, to provide aggregated, anonymous reporting for Xanga or third parties, to improve our services, and to communicate with you as part of the Xanga service.
 
-**Registration - Required Information**
+**Registration – Required Information**
 
 When you register for a Xanga account, Xanga requires you to provide the following information:
 
-  * _Username_ \- a unique nickname or handle that acts as your primary identifier to other Xanga users and visitors, or viewers of Xanga material on other systems (e.g. search engines, RSS readers, cell phones, etc.). _You cannot change your username_ and _it is always publicly displayed_ , so please choose carefully.
-  * _Password_ \- required for signing into your Xanga account. Your password provides access to all of the information in your account, so **_never share your password with anyone_** except a parent or guardian.
-  * _Email Address_ – an email address is required so that Xanga can contact you about your account. In addition, Xanga has several features through which information may be forwarded to this email address - including messages or invitations from other Xanga users, alerts, or logs of activity related to your account. You can control whether you receive certain of these emails by using the settings inside your Xanga account.Your email address is _never publicly displayed on Xanga_. But when you email someone through Xanga, your email address will be revealed to them (e.g. as the “from” or “reply to” address on the email you send through Xanga). In addition, Xanga has a search feature that allows others to search for you by your email address, but you can control whether you appear in these search results by using the settings inside your Xanga account.
+  * _Username_ – a unique nickname or handle that acts as your primary identifier to other Xanga users and visitors, or viewers of Xanga material on other systems (e.g. search engines, RSS readers, cell phones, etc.). _You cannot change your username_ and _it is always publicly displayed_ , so please choose carefully.
+  * _Password_ – required for signing into your Xanga account. Your password provides access to all of the information in your account, so **_never share your password with anyone_** except a parent or guardian.
+  * _Email Address_ – an email address is required so that Xanga can contact you about your account. In addition, Xanga has several features through which information may be forwarded to this email address – including messages or invitations from other Xanga users, alerts, or logs of activity related to your account. You can control whether you receive certain of these emails by using the settings inside your Xanga account.Your email address is _never publicly displayed on Xanga_. But when you email someone through Xanga, your email address will be revealed to them (e.g. as the “from” or “reply to” address on the email you send through Xanga). In addition, Xanga has a search feature that allows others to search for you by your email address, but you can control whether you appear in these search results by using the settings inside your Xanga account.
   * _Date of Birth_ – by default, for all new accounts created after 5/25/06, this Date of Birth is _not publicly displayed_ , but you may choose to display it (or not display it) through controls inside your Xanga account.
 
 
 
 **Profile Information**
 
-After you have registered for a Xanga account, you are given the opportunity to fill out information on our profile pages. Filling out the profile pages is optional - you are not required to fill out any of the profile information. If you choose to fill out the profile information, please note that this information will be posted on your Xanga site (See “Information Submitted to Your Xanga Site”) and will potentially be accessible to the entire world.
+After you have registered for a Xanga account, you are given the opportunity to fill out information on our profile pages. Filling out the profile pages is optional – you are not required to fill out any of the profile information. If you choose to fill out the profile information, please note that this information will be posted on your Xanga site (See “Information Submitted to Your Xanga Site”) and will potentially be accessible to the entire world.
 
 **Information Submitted to Your Xanga Site**
 
@@ -90,7 +90,7 @@ Xanga offers many ways for users to interact by posting information to each othe
 Xanga provides features designed to give you control over comments posted to your own Xanga Site. But please be aware that you may have _limited control_ over comments that you post anywhere else:
 
   * _Comments on Your Own Xanga Site_ – Xanga gives you the ability to _delete_ comments left on your own Xanga site. For certain comment features, you also have the ability to control who (if anyone) can submit comments to your site. For more information on controls for comments, please visit our Comments FAQ at <http://help.xanga.com/forum/comments>.
-  * _Comments not on Your Own Xanga Site_ \- if you post a comment anywhere other than your own Xanga site, you may have _limited control_ over that comment - you can edit your comments for 15 minutes after submitting. And if you are still not satisfied, you can ALWAYS delete your comment and post a new one. But remember: any comments you leave on another’s site may be copied and posted elsewhere by anyone who has access to it - so think before you submit!
+  * _Comments not on Your Own Xanga Site_ – if you post a comment anywhere other than your own Xanga site, you may have _limited control_ over that comment – you can edit your comments for 15 minutes after submitting. And if you are still not satisfied, you can ALWAYS delete your comment and post a new one. But remember: any comments you leave on another’s site may be copied and posted elsewhere by anyone who has access to it – so think before you submit!
 
 
 
@@ -108,7 +108,7 @@ Xanga allows individuals to sign in through selected third-party sign-in service
 
 For features such as inviting others to join Xanga or participate in specific areas of the service (collectively, “invitations”), or for forwarding information published through the service (e.g. specific weblog entries), you may provide email addresses of others to Xanga.
 
-Xanga stores the email addresses that you provide and uses them _solely_ to contact the owner of the email address. For invitations (such as invitations to join a network of “Xanga Friends”), Xanga sends one invitation email and may send multiple invitation reminders; for other email-based communications, Xanga sends an email specific to that communication (e.g. a copy of a specific weblog entry that you are forwarding). Xanga does not share, sell or rent these email addresses with any third parties (other than certain contractors performing work for Xanga under confidentiality agreements - see “[INFORMATION SHARING AND DISCLOSURE](http://help.xanga.com/about/privacy-policy/#informationsharing)” below).
+Xanga stores the email addresses that you provide and uses them _solely_ to contact the owner of the email address. For invitations (such as invitations to join a network of “Xanga Friends”), Xanga sends one invitation email and may send multiple invitation reminders; for other email-based communications, Xanga sends an email specific to that communication (e.g. a copy of a specific weblog entry that you are forwarding). Xanga does not share, sell or rent these email addresses with any third parties (other than certain contractors performing work for Xanga under confidentiality agreements – see “[INFORMATION SHARING AND DISCLOSURE](http://help.xanga.com/about/privacy-policy/#informationsharing)” below).
 
 Recipients of invitations who are not registered Xanga members can request that their emails be added to a “black list” to which Xanga sends no further invitations. Recipients who _are_ registered Xanga members can control whether they receive certain invitations or other email-based communications by using the settings inside their Xanga accounts.
 
@@ -206,7 +206,7 @@ Xanga requires that you provide an email address when registering for a Xanga ac
 
 Your email address is _never publicly displayed by Xanga_. But when you email someone through Xanga, your email address will be revealed to them (e.g. as the “from” or “reply to” address on the email you send through Xanga). In addition, Xanga has a search feature that allows others to search for you by your email address, but you can control whether you appear in these search results by using the settings inside your Xanga account.
 
-Xanga has several features through which information may be forwarded to your email address - including messages or invitations from other Xanga users, alerts, or logs of activity related to your account. You can control whether you receive certain of these emails by using the settings inside your Xanga account.
+Xanga has several features through which information may be forwarded to your email address – including messages or invitations from other Xanga users, alerts, or logs of activity related to your account. You can control whether you receive certain of these emails by using the settings inside your Xanga account.
 
 **Xanga Groups and Metros ®**
 
@@ -262,7 +262,7 @@ Xanga does not share, sell or rent any of your information, except as follows:
 
 **Third Party Advertisers**
 
-Xanga displays targeted advertisements based on information including demographics or interests. Xanga does _not_ provide any personally identifiable information to the advertiser when you interact with or view a targeted ad. But advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
+Xanga displays targeted advertisements based on information including demographics or interests. Xanga does _not_ provide any personally identifiable information to the advertiser when you interact with or view a targeted ad. But advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria – for example, women ages 18-24 from a particular geographic area.
 
 Please be aware that if you voluntarily provide information to a third party advertiser (e.g. you provide your email address after clicking on a targeted ad), you are consenting to the possibility that the advertiser will make the assumption that you also meet the targeting criteria used to display the ad.
 
@@ -298,7 +298,7 @@ Most browsers come with the ability to restrict cookies from specific or unknown
 
 Any information that you provide to a third party advertiser will be subject to the privacy policy of that third party and not Xanga’s policy. Xanga is not responsible for the disclosure of any such information that you provide to any third party advertiser.
 
-**Third Party Advertisers - Google**
+**Third Party Advertisers – Google**
 
 Google is one of the third-party advertising companies we may use to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, [click here](http://www.google.com/privacy_ads.html).
 
