@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the flying-hobby.com privacy policy that was archived on 2012-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515191658id_/http%3A//www.flying-hobby.com/shop/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flying-hobby.com privacy policy that was archived on 2012-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121021103949id_/http%3A//www.flying-hobby.com/shop/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" dir="ltr" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" dir="ltr" lang="en"><head prefix="website: http://ogp.me/ns/website#">
 <title>Privacy Notice : Flying-Hobby.com, Have a nice flying experience everyday!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="Battery Helicopters Charger Speed Control Transmitters Receiver Servo Motors FPV/Camera/Stand Training Tools Miscellaneous Canopy/Fuselage Airplanes Blades/Paddle Fuel Equipment Flybarless System PayPal FREE SHIPPING Clear Stock Reward Points Free Item Gyro/Governor Multi Flyer Time Deal Scale Rotor Head Second Hand Super Discount Combo Clean Stock Multi Control &amp; GPS ecommerce, open source, shop, online shopping Privacy Notice">
-<meta name="description" content="Flying-Hobby.com : Privacy Notice - Battery Helicopters Charger Speed Control Transmitters Receiver Servo Motors FPV/Camera/Stand Training Tools Miscellaneous Canopy/Fuselage Airplanes Blades/Paddle Fuel Equipment Flybarless System PayPal FREE SHIPPING Clear Stock Reward Points Free Item Gyro/Governor Multi Flyer Time Deal Scale Rotor Head Second Hand Super Discount Combo Clean Stock Multi Control &amp; GPS ecommerce, open source, shop, online shopping">
+<meta name="keywords" content="Battery Helicopters Charger Speed Control Transmitters Receiver Servo Motors FPV/Camera/Stand Training Tools Miscellaneous Canopy/Fuselage Airplanes Blades/Paddle Fuel Equipment Flybarless System Clear Stock Reward Points Free Item Gyro/Governor Multi Flyer Time Deal Scale Rotor Head Super Discount Combo Clean Stock Multi Control &amp; GPS ecommerce, open source, shop, online shopping Privacy Notice">
+<meta name="description" content="Flying-Hobby.com : Privacy Notice - Battery Helicopters Charger Speed Control Transmitters Receiver Servo Motors FPV/Camera/Stand Training Tools Miscellaneous Canopy/Fuselage Airplanes Blades/Paddle Fuel Equipment Flybarless System Clear Stock Reward Points Free Item Gyro/Governor Multi Flyer Time Deal Scale Rotor Head Super Discount Combo Clean Stock Multi Control &amp; GPS ecommerce, open source, shop, online shopping">
 <meta http-equiv="imagetoolbar" content="no">
 <link rel="shortcut icon" href="favicon.ico">
 <base href="http://www.flying-hobby.com/shop/">
@@ -176,40 +176,12 @@ function addToCartFm_submit_addResponse(responseText) {
 /**********************************************/
 /******** Add to Cart Link ********************/    
 /**********************************************/
-var addToCartFn=function(){
-    	$(".add-to-cart").each(
-		function (intIndex) {
-			var $this = $(this);
-                     $this.unbind("click");
-			$this.bind(
-				"click",
-				function() {
-					$.ajax({
-						url: $this.attr("href"),
-						cache: false,
-						beforeSend: function() {
-							if ($this.attr("href") != '') {
-								$this.append('<img src="images/spinner.gif" class="addToCartSpinner" />');
-							}
-							$this.children(".listingBuyNowButton").hide();
-						},
-						success: function(html) {
-							if (html == 'OK') {
-								$this.children(".addToCartSpinner").remove();
-								$this.append("<p>Item Added</p>");
-								$this.attr("href", '');
-							} 
-						}
-					})
-					return false;
-				});
-		}
-		
-	)
-}
+
+
 $(document).ready(function() {
-    addToCartFn();
+    //addToCartFn();
 });
+
 </script>
 
 
@@ -257,6 +229,72 @@ $(function(){
         })
     );    
 });
+</script>
+<script type="text/javascript">
+
+var ajaxAddFn = function(tht) {
+        $this = $(tht);    
+        $.ajax({
+                url: $this.attr("href"),
+                cache: false,
+                beforeSend: function() {
+                        if ($this.attr("href") != '') {
+                                $this.append('<img src="images/spinner.gif" class="addToCartSpinner" />');
+                        }
+                        $this.children(".listingBuyNowButton").hide();
+                },
+                success: function(html) {
+                        if (html == 'OK') {
+                                $this.children(".addToCartSpinner").remove();
+                                $this.append("<p>Item Added</p>");
+                                $this.attr("href", '');
+                        } 
+                }
+        })
+        return false;
+};
+
+var ajaxifyAddCart = function(tht){
+    ajaxAddFn(tht);
+    return false;
+};
+    $(document).ready(function() {
+    //Select all anchor tag with rel set to tooltip
+    $('a[rel=tooltip]').mouseover(function(e) {
+         
+        //Grab the title attribute's value and assign it to a variable
+        var tip = $(this).attr('title');    
+         
+        //Remove the title attribute's to avoid the native tooltip from the browser
+        $(this).attr('title','');
+         
+        //Append the tooltip template and its value
+        $(this).append('<div id="tooltip"><div class="tipHeader"></div><div class="tipBody">' + tip + '</div><div class="tipFooter"></div></div>');     
+         
+        //Set the X and Y axis of the tooltip
+        $('#tooltip').css('top', e.pageY + 10 );
+        $('#tooltip').css('left', e.pageX + 20 );
+         
+        //Show the tooltip with faceIn effect
+        $('#tooltip').fadeIn('500');
+        $('#tooltip').fadeTo('10',0.8);
+         
+    }).mousemove(function(e) {
+     
+        //Keep changing the X and Y axis for the tooltip, thus, the tooltip move along with the mouse
+        $('#tooltip').css('top', e.pageY + 10 );
+        $('#tooltip').css('left', e.pageX + 20 );
+         
+    }).mouseout(function() {
+     
+        //Put back the title attribute's value
+        $(this).attr('title',$('.tipBody').html());
+     
+        //Remove the appended tooltip template
+        $(this).children('div#tooltip').remove();
+         
+    });  
+    });    
 </script>
 </head>
 
@@ -405,15 +443,6 @@ $(function(){
                          msgr:conversationUrl="http://settings.messenger.live.com/Conversation/IMMe.aspx?invitee=61191ff6dd66e9b2@apps.messenger.live.com&mkt=en-us"><\/div>\
                     <script type="text/javascript" src="http://messenger.services.live.com/users/61191ff6dd66e9b2@apps.messenger.live.com/presence?dt=&mkt=en-us&cb=Microsoft_Live_Messenger_PresenceButton_onPresence"><\/script>\
                     \
-                    <script type="text/javascript" src="http://settings.messenger.live.com/controls/1.0/PresenceButton.js"><\/script>\
-                        <div\
-                          id="Microsoft_Live_Messenger_PresenceButton_71004bcf0284c991"\
-                          msgr:width="145"\
-                          msgr:backColor="#D7E8EC"\
-                          msgr:altBackColor="#FFFFFF"\
-                          msgr:foreColor="#424542"\
-                          msgr:conversationUrl="http://settings.messenger.live.com/Conversation/IMMe.aspx?invitee=71004bcf0284c991@apps.messenger.live.com&mkt=en-us"><\/div>\
-                    <script type="text/javascript" src="http://messenger.services.live.com/users/71004bcf0284c991@apps.messenger.live.com/presence?dt=&mkt=en-us&cb=Microsoft_Live_Messenger_PresenceButton_onPresence"><\/script>\
                 ');
             });
             </script>
@@ -421,10 +450,14 @@ $(function(){
         
         <div class="live-support">
             <ul id="jsddm-msn">
-                <li><a href="#"><img src="images/menu/livesupport.png" alt="" width="30" height="30"><span style="padding-left: 5px;">Live Support</span></a>
+                <li><a href="#"><img src="images/menu/livesupport.png" alt="" width="30" height="30"><span style="padding-left: 5px;">Support</span></a>
                     <ul></ul>
                 </li>
             </ul>
+        </div>
+    
+        <div class="complaint back">
+            <a href="complaint.html" id="complaint"></a>
         </div>
         
     </div>
@@ -442,7 +475,6 @@ $(function(){
 <div class="sideBoxContent"><ul class="bullet-menu" id="siteMenu">
   <li><a href="http://www.flying-hobby.com/shop/super-discount-combo-c-535.html">Super Discount Combo</a></li>
   <li><a href="http://www.flying-hobby.com/shop/clean-stock-c-565.html">Clean Stock</a></li>
-  <li><a href="http://www.flying-hobby.com/shop/reward-points-free-item-c-374.html">Reward Points Free Item</a></li>
   <li><a href="http://www.flying-hobby.com/shop/clear-stock-c-271.html">Clear Stock</a>
     <ul>
       <li><a href="http://www.flying-hobby.com/shop/clear-stock-second-hand-c-271_430.html">Second Hand</a></li>
@@ -458,7 +490,6 @@ $(function(){
       <li><a href="http://www.flying-hobby.com/shop/clear-stock-thundr-tiger-c-271_432.html">Thundr Tiger</a></li>
     </ul>
   </li>
-  <li><a href="http://www.flying-hobby.com/shop/paypal-free-shipping-c-251.html">PayPal FREE SHIPPING</a></li>
   <li><a href="http://www.flying-hobby.com/shop/helicopters-c-3.html">Helicopters</a>
     <ul>
       <li><a href="http://www.flying-hobby.com/shop/helicopters-hurricane-ep100200-c-3_5.html">Hurricane EP100/200</a>
@@ -505,6 +536,12 @@ $(function(){
           <li><a href="http://www.flying-hobby.com/shop/gaui-x4-aftermarket-parts-c-3_528_532.html">Aftermarket Parts</a></li>
         </ul>
       </li>
+      <li><a href="http://www.flying-hobby.com/shop/helicopters-gaui-nx4-c-3_615.html">GAUI NX4</a>
+        <ul>
+          <li><a href="http://www.flying-hobby.com/shop/gaui-nx4-kit-c-3_615_616.html">Kit</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/gaui-nx4-parts-c-3_615_617.html">Parts</a></li>
+        </ul>
+      </li>
       <li><a href="http://www.flying-hobby.com/shop/helicopters-gaui-x5-c-3_412.html">GAUI X5</a>
         <ul>
           <li><a href="http://www.flying-hobby.com/shop/gaui-x5-x5-fes-c-3_412_496.html">X5 FES</a></li>
@@ -532,9 +569,9 @@ $(function(){
       </li>
       <li><a href="http://www.flying-hobby.com/shop/helicopters-trex250-c-3_240.html">T-REX250</a>
         <ul>
-          <li><a href="http://www.flying-hobby.com/shop/trex250-trex-250pro-c-3_240_557.html">T-REX 250PRO</a></li>
-          <li><a href="http://www.flying-hobby.com/shop/trex250-250se-parts-c-3_240_242.html">250/SE Parts</a></li>
-          <li><a href="http://www.flying-hobby.com/shop/trex250-upgrade-parts-c-3_240_243.html">Upgrade Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex250-trex-250dfc-c-3_240_557.html">T-REX 250DFC</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex250-250se-parts-c-3_240_242.html">250SE Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex250-upgrade-dfc-parts-c-3_240_243.html">Upgrade DFC Parts</a></li>
           <li><a href="http://www.flying-hobby.com/shop/trex250-after-market-parts-c-3_240_244.html">After Market Parts</a></li>
         </ul>
       </li>
@@ -561,17 +598,20 @@ $(function(){
           <li><a href="http://www.flying-hobby.com/shop/trex450-sport-v2-aftermarket-parts-c-3_317_321.html">Aftermarket Parts</a></li>
         </ul>
       </li>
-      <li><a href="http://www.flying-hobby.com/shop/helicopters-trex450-3gx-c-3_286.html">T-REX450 3GX</a>
+      <li><a href="http://www.flying-hobby.com/shop/helicopters-trex450-3gxdfc-c-3_286.html">T-REX450 3GX/DFC</a>
         <ul>
-          <li><a href="http://www.flying-hobby.com/shop/trex450-3gx-450-3gx-c-3_286_509.html">450 3GX</a></li>
-          <li><a href="http://www.flying-hobby.com/shop/trex450-3gx-450-pro-c-3_286_287.html">450 PRO</a></li>
-          <li><a href="http://www.flying-hobby.com/shop/trex450-3gx-parts-c-3_286_288.html">Parts</a></li>
-          <li><a href="http://www.flying-hobby.com/shop/trex450-3gx-upgrade-parts-c-3_286_289.html">Upgrade Parts</a></li>
-          <li><a href="http://www.flying-hobby.com/shop/trex450-3gx-aftermarket-parts-c-3_286_290.html">Aftermarket Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex450-3gxdfc-450-3gx-c-3_286_509.html">450 3GX</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex450-3gxdfc-450-pro-c-3_286_287.html">450 PRO</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex450-3gxdfc-450-pro-dfc-c-3_286_605.html">450 PRO DFC</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex450-3gxdfc-parts-c-3_286_288.html">Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex450-3gxdfc-dfc-parts-c-3_286_618.html">DFC Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex450-3gxdfc-upgrade-parts-c-3_286_289.html">Upgrade Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex450-3gxdfc-aftermarket-parts-c-3_286_290.html">Aftermarket Parts</a></li>
         </ul>
       </li>
       <li><a href="http://www.flying-hobby.com/shop/helicopters-trex500-c-3_152.html">T-REX500</a>
         <ul>
+          <li><a href="http://www.flying-hobby.com/shop/trex500-trex-500dfc-c-3_152_619.html">T-REX 500DFC</a></li>
           <li><a href="http://www.flying-hobby.com/shop/trex500-trex500e-c-3_152_249.html">T-REX500E</a></li>
           <li><a href="http://www.flying-hobby.com/shop/trex500-trex500e-pro-c-3_152_512.html">T-REX500E PRO</a></li>
           <li><a href="http://www.flying-hobby.com/shop/trex500-trex500efl-c-3_152_458.html">T-REX500EFL</a></li>
@@ -611,10 +651,25 @@ $(function(){
           <li><a href="http://www.flying-hobby.com/shop/trex700-after-market-parts-c-3_191_225.html">After Market Parts</a></li>
         </ul>
       </li>
+      <li><a href="http://www.flying-hobby.com/shop/helicopters-trex800-c-3_607.html">T-REX800</a>
+        <ul>
+          <li><a href="http://www.flying-hobby.com/shop/trex800-kit-c-3_607_608.html">Kit</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/trex800-parts-c-3_607_609.html">Parts</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.flying-hobby.com/shop/helicopters-sab-goblin-630-c-3_598.html">SAB GOBLIN 630</a>
+        <ul>
+          <li><a href="http://www.flying-hobby.com/shop/sab-goblin-630-kit-c-3_598_599.html">Kit</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/sab-goblin-630-parts-c-3_598_600.html">Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/sab-goblin-630-upgrade-parts-c-3_598_623.html">Upgrade Parts</a></li>
+        </ul>
+      </li>
       <li><a href="http://www.flying-hobby.com/shop/helicopters-sab-goblin-700-c-3_521.html">SAB GOBLIN 700</a>
         <ul>
           <li><a href="http://www.flying-hobby.com/shop/sab-goblin-700-kit-c-3_521_522.html">Kit</a></li>
           <li><a href="http://www.flying-hobby.com/shop/sab-goblin-700-parts-c-3_521_523.html">Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/sab-goblin-700-upgrade-parts-c-3_521_624.html">Upgrade Parts</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/sab-goblin-700-aftermarket-parts-c-3_521_612.html">Aftermarket Parts</a></li>
         </ul>
       </li>
       <li><a href="http://www.flying-hobby.com/shop/helicopters-xcell-whiplash-90-c-3_540.html">X-Cell Whiplash 90</a>
@@ -792,6 +847,12 @@ $(function(){
   </li>
   <li><a href="http://www.flying-hobby.com/shop/multi-flyer-c-406.html">Multi Flyer</a>
     <ul>
+      <li><a href="http://www.flying-hobby.com/shop/multi-flyer-streak-800-c-406_625.html">Streak 800</a>
+        <ul>
+          <li><a href="http://www.flying-hobby.com/shop/streak-800-kit-c-406_625_626.html">Kit</a></li>
+          <li><a href="http://www.flying-hobby.com/shop/streak-800-parts-c-406_625_627.html">Parts</a></li>
+        </ul>
+      </li>
       <li><a href="http://www.flying-hobby.com/shop/multi-flyer-gaui-330x-c-406_407.html">GAUI 330X</a>
         <ul>
           <li><a href="http://www.flying-hobby.com/shop/gaui-330x-kits-c-406_407_408.html">Kits</a></li>
@@ -831,12 +892,15 @@ $(function(){
         </ul>
       </li>
       <li><a href="http://www.flying-hobby.com/shop/multi-flyer-frame-kit-upgrade-c-406_562.html">Frame Kit Upgrade</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/multi-flyer-color-props-c-406_596.html">Color Props</a></li>
     </ul>
   </li>
   <li><a href="http://www.flying-hobby.com/shop/multi-control-gps-c-582.html">Multi Control &amp; GPS</a>
     <ul>
       <li><a href="http://www.flying-hobby.com/shop/multi-control-gps-dji-c-582_583.html">DJI</a></li>
       <li><a href="http://www.flying-hobby.com/shop/multi-control-gps-gaui-c-582_584.html">GAUI</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/multi-control-gps-align-c-582_603.html">ALIGN</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/multi-control-gps-zero-c-582_613.html">ZERO</a></li>
       <li><a href="http://www.flying-hobby.com/shop/multi-control-gps-feiyu-tech-c-582_585.html">Feiyu Tech</a></li>
     </ul>
   </li>
@@ -844,8 +908,10 @@ $(function(){
     <ul>
       <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-camera-c-19_39.html">Camera</a></li>
       <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-cam-lens-c-19_581.html">Cam Lens</a></li>
-      <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-fpv-fly-system-c-19_347.html">FPV Fly System</a></li>
-      <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-flycam-stand-c-19_364.html">FlyCam Stand</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-fpv-aerial-photography-c-19_347.html">FPV &amp; Aerial Photography</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-fpv-gimbal-c-19_364.html">FPV Gimbal</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-fpv-gimbal-accessories-c-19_621.html">FPV Gimbal Accessories</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/fpvcamerastand-fpv-gimbal-parts-c-19_606.html">FPV Gimbal Parts</a></li>
     </ul>
   </li>
   <li><a href="http://www.flying-hobby.com/shop/flybarless-system-c-232.html">Flybarless System</a>
@@ -868,6 +934,7 @@ $(function(){
       <li><a href="http://www.flying-hobby.com/shop/canopyfuselage-airbrush-ep200-c-96_263.html">Airbrush EP200</a></li>
       <li><a href="http://www.flying-hobby.com/shop/canopyfuselage-airbrush-e325-c-96_177.html">Airbrush E325</a></li>
       <li><a href="http://www.flying-hobby.com/shop/canopyfuselage-airbrush-gaui-x5-c-96_564.html">Airbrush GAUI X5</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/canopyfuselage-airbrush-gaui-x7-c-96_597.html">Airbrush GAUI X7</a></li>
       <li><a href="http://www.flying-hobby.com/shop/canopyfuselage-airbrush-trex250-c-96_183.html">Airbrush T-Rex250</a></li>
       <li><a href="http://www.flying-hobby.com/shop/canopyfuselage-airbrush-trex450-c-96_178.html">Airbrush T-Rex450</a></li>
       <li><a href="http://www.flying-hobby.com/shop/canopyfuselage-airbrush-trex500-c-96_179.html">Airbrush T-Rex500</a></li>
@@ -924,6 +991,7 @@ $(function(){
       <li><a href="http://www.flying-hobby.com/shop/battery-aplus-thunder-45c-c-1_399.html">APLUS Thunder 45C</a></li>
       <li><a href="http://www.flying-hobby.com/shop/battery-aplus-35c-c-1_2.html">APLUS 35C</a></li>
       <li><a href="http://www.flying-hobby.com/shop/battery-align-c-1_91.html">ALIGN</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/battery-fullymax-c-1_611.html">FULLYMAX</a></li>
       <li><a href="http://www.flying-hobby.com/shop/battery-outrage-c-1_227.html">OUTRAGE</a></li>
       <li><a href="http://www.flying-hobby.com/shop/battery-hyperion-c-1_297.html">HYPERION</a></li>
       <li><a href="http://www.flying-hobby.com/shop/battery-transmitter-pack-c-1_94.html">Transmitter Pack</a></li>
@@ -999,15 +1067,18 @@ $(function(){
     <ul>
       <li><a href="http://www.flying-hobby.com/shop/servo-futaba-c-17_80.html">Futaba</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-jr-c-17_86.html">JR</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/servo-align-c-17_219.html">ALIGN</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-hitec-c-17_81.html">Hitec</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/servo-gaui-c-17_356.html">GAUI</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-maxwell-c-17_87.html">Maxwell</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-savox-c-17_175.html">SAVOX</a></li>
-      <li><a href="http://www.flying-hobby.com/shop/servo-align-c-17_219.html">ALIGN</a></li>
-      <li><a href="http://www.flying-hobby.com/shop/servo-gaui-c-17_356.html">GAUI</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/servo-rjx-c-17_610.html">RJX</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/servo-alware-c-17_622.html">ALWARE</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-hyperion-c-17_285.html">Hyperion</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-inolab-c-17_349.html">INO-LAB</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-outrage-c-17_484.html">Outrage</a></li>
       <li><a href="http://www.flying-hobby.com/shop/servo-specktrum-c-17_151.html">Specktrum</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/servo-thunder-tiger-c-17_620.html">Thunder Tiger</a></li>
     </ul>
   </li>
   <li><a href="http://www.flying-hobby.com/shop/motors-c-18.html">Motors</a>
@@ -1015,9 +1086,11 @@ $(function(){
       <li><a href="http://www.flying-hobby.com/shop/motors-kontronik-c-18_454.html">Kontronik</a></li>
       <li><a href="http://www.flying-hobby.com/shop/motors-scorpion-c-18_189.html">Scorpion</a></li>
       <li><a href="http://www.flying-hobby.com/shop/motors-kde-direct-c-18_508.html">KDE Direct</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/motors-quantum-c-18_601.html">QUANTUM</a></li>
       <li><a href="http://www.flying-hobby.com/shop/motors-zpower-c-18_184.html">Z-Power</a></li>
       <li><a href="http://www.flying-hobby.com/shop/motors-align-c-18_185.html">ALIGN</a></li>
       <li><a href="http://www.flying-hobby.com/shop/motors-gaui-c-18_187.html">GAUI</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/motors-alware-c-18_614.html">ALware</a></li>
       <li><a href="http://www.flying-hobby.com/shop/motors-motor-pinions-c-18_78.html">Motor Pinions</a></li>
     </ul>
   </li>
@@ -1027,6 +1100,7 @@ $(function(){
       <li><a href="http://www.flying-hobby.com/shop/tools-measurement-c-21_100.html">Measurement</a></li>
       <li><a href="http://www.flying-hobby.com/shop/tools-hand-tools-c-21_101.html">Hand Tools</a></li>
       <li><a href="http://www.flying-hobby.com/shop/tools-swashplate-tools-c-21_292.html">Swashplate Tools</a></li>
+      <li><a href="http://www.flying-hobby.com/shop/tools-model-desk-stand-c-21_604.html">Model Desk Stand</a></li>
     </ul>
   </li>
   <li><a href="http://www.flying-hobby.com/shop/miscellaneous-c-22.html">Miscellaneous</a>
@@ -1044,7 +1118,7 @@ $(function(){
       <li><a href="http://www.flying-hobby.com/shop/miscellaneous-tshirt-polo-c-22_313.html">T-Shirt 'Polo'</a></li>
     </ul>
   </li>
-  <li><a href="http://www.flying-hobby.com/shop/second-hand-c-488.html">Second Hand</a></li>
+  <li><a href="http://www.flying-hobby.com/shop/reward-points-free-item-c-374.html">Reward Points Free Item</a></li>
   <li><a href="http://www.flying-hobby.com/shop/time-deal-c-411.html">Time Deal</a></li>
   <li><a href="http://www.flying-hobby.com/shop/products_new.html">New Products ...</a></li>
   <li><a href="http://www.flying-hobby.com/shop/products_all.html">All Products ...</a></li>
@@ -1062,6 +1136,7 @@ $(function(){
   <option value="91">AEO</option>
   <option value="37">ALIGN</option>
   <option value="102">ALware</option>
+  <option value="141">APC</option>
   <option value="38">APLUS</option>
   <option value="54">Bantam</option>
   <option value="121">BEASTX</option>
@@ -1081,6 +1156,7 @@ $(function(){
   <option value="82">FLYING-HOBBY</option>
   <option value="117">FLYTECH</option>
   <option value="96">FMA</option>
+  <option value="138">Fullymax</option>
   <option value="59">Fun-Key</option>
   <option value="49">Futaba</option>
   <option value="42">GAUI</option>
@@ -1115,7 +1191,9 @@ $(function(){
   <option value="111">Parrot</option>
   <option value="130">Phoenix</option>
   <option value="122">Prolux</option>
+  <option value="135">QUANTUM</option>
   <option value="123">QuickUK</option>
+  <option value="140">RC Logger</option>
   <option value="99">RCScrewZ</option>
   <option value="58">RexPro</option>
   <option value="90">Rhino</option>
@@ -1132,12 +1210,15 @@ $(function(){
   <option value="52">Spartan RC</option>
   <option value="64">Spektrum</option>
   <option value="120">STO</option>
+  <option value="137">TAR</option>
   <option value="56">Thunder Tiger</option>
+  <option value="134">Toucanopy</option>
   <option value="61">Walkera</option>
   <option value="71">Wing Wing</option>
   <option value="83">YS</option>
   <option value="68">Z-Power</option>
   <option value="100">ZAP</option>
+  <option value="139">Zero</option>
 </select>
 </form></div><div class="leftsideboxfooter"></div></div>
 <!--// eof: manufacturers //-->
@@ -1229,14 +1310,14 @@ If you have any question or suggestion regarding our privacy policy,  please con
 <div id="navColumnTwoWrapper" style="width: 140px"><!--// bof: specials //-->
 <div class="rightBoxContainer" id="specials" style="width: 140px">
 <h3 class="rightBoxHeading" id="specialsHeading">Special Sales</h3>
-<div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/scorpion-brushless-motor-hkii22212010kv-p-10137.html"><img src="images/thumbnails/HKII-2221-2010KV.jpg" alt="Scorpion Brushless Motor HKII-2221-2010KV" title=" Scorpion Brushless Motor HKII-2221-2010KV " width="90" height="50"><br>Scorpion Brushless Motor HKII-2221-2010KV</a><div><span class="special-price-line-through">USD&nbsp;79.99</span><br>&nbsp;<span class="productSpecialPrice">USD&nbsp;62.00</span></div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=10137&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/scorpion-brushless-motor-hk2208-kv4660-p-10138.html"><img src="images/thumbnails/HK-2208-4660KV.jpg" alt="Scorpion Brushless Motor HK2208 KV4660" title=" Scorpion Brushless Motor HK2208 KV4660 " width="90" height="50"><br>Scorpion Brushless Motor HK2208 KV4660</a><div><span class="special-price-line-through">USD&nbsp;33.00</span><br>&nbsp;<span class="productSpecialPrice">USD&nbsp;29.00</span></div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=10138&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/scorpion-brushless-motor-hk4025630kv-6mm-shaft-p-10139.html"><img src="images/thumbnails/HK-4025-630KV_6.jpg" alt="Scorpion Brushless Motor HK-4025-630KV (6mm Shaft)" title=" Scorpion Brushless Motor HK-4025-630KV (6mm Shaft) " width="90" height="50"><br>Scorpion Brushless Motor HK-4025-630KV (6mm Shaft)</a><div><span class="special-price-line-through">USD&nbsp;159.99</span><br>&nbsp;<span class="productSpecialPrice">USD&nbsp;125.00</span></div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=10139&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/mok-trex-500-yellow-black-lighting-fiberglass-canopy-p-8909.html"><img src="images/thumbnails/MOK-T500-003.jpg" alt="MOK TREX 500 Yellow Black Lighting Fiberglass Canopy" title=" MOK TREX 500 Yellow Black Lighting Fiberglass Canopy " width="90" height="90"><br>MOK TREX 500 Yellow Black Lighting Fiberglass Canopy</a><div><span class="special-price-line-through">USD&nbsp;16.00</span><br>&nbsp;<span class="productSpecialPrice">USD&nbsp;12.00</span></div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=8909&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/h255-main-rotor-yoke-with-stop-platetitanium-anodized-p-5676.html"><img src="images/thumbnails/207001.jpg" alt="H255 Main Rotor Yoke with Stop Plate(Titanium anodized)" title=" H255 Main Rotor Yoke with Stop Plate(Titanium anodized) " width="90" height="68"><br>H255 Main Rotor Yoke with Stop Plate(Titanium anodized)</a><div><span class="special-price-line-through">USD&nbsp;24.20</span><br>&nbsp;<span class="productSpecialPrice">USD&nbsp;13.00</span></div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=5676&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="specials_sale.html"><b>More...</b></a></div></div>
+<div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/carbon-servo-plate-p-8773.html"><img src="images/thumbnails/H60074A.jpg" alt="Carbon Servo Plate" title=" Carbon Servo Plate " width="90" height="38"><br>Carbon Servo Plate</a><div><span class="special-price-line-through">USD&nbsp;8.99</span><br>Special: &nbsp;<span class="productSpecialPrice">USD&nbsp;5.00</span></div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=8773&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/carbon-main-framer20mm-p-4037.html"><img src="images/thumbnails/HN6055-1.jpg" alt="Carbon Main Frame(R)/2.0mm" title=" Carbon Main Frame(R)/2.0mm " width="90" height="60"><br>Carbon Main Frame(R)/2.0mm</a><div><span class="special-price-line-through">USD&nbsp;65.99</span><br>Special: &nbsp;<span class="productSpecialPrice">USD&nbsp;23.00</span></div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=4037&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_sold_out_sm.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/250dfc-main-shaft-p-10751.html"><img src="images/thumbnails/H25123.jpg" alt="250DFC Main Shaft" title=" 250DFC Main Shaft " width="90" height="50"><br>250DFC Main Shaft</a><div><span class="special-price-line-through">USD&nbsp;5.99</span><br>Special: &nbsp;<span class="productSpecialPrice">USD&nbsp;3.00</span></div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=10751&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/alware-super-lighting-boom-4-pcs-for-gaui-500xgreen-white-p-8541.html"><img src="images/thumbnails/AL500-LGW.jpg" alt="ALware Super Lighting Boom 4 pcs (For GAUI 500X)(Green White)" title=" ALware Super Lighting Boom 4 pcs (For GAUI 500X)(Green White) " width="90" height="50"><br>ALware Super Lighting Boom 4 pcs (For GAUI 500X)(Green White)</a><div><span class="special-price-line-through">USD&nbsp;59.00</span><br>Special: &nbsp;<span class="productSpecialPrice">USD&nbsp;28.00</span></div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=8541&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/alware-super-lighting-boom-4-pcs-for-gaui-500xorange-white-p-9328.html"><img src="images/thumbnails/AL500-LOW.jpg" alt="ALware Super Lighting Boom 4 pcs (For GAUI 500X)(Orange White)" title=" ALware Super Lighting Boom 4 pcs (For GAUI 500X)(Orange White) " width="90" height="50"><br>ALware Super Lighting Boom 4 pcs (For GAUI 500X)(Orange White)</a><div><span class="special-price-line-through">USD&nbsp;59.00</span><br>Special: &nbsp;<span class="productSpecialPrice">USD&nbsp;28.00</span></div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=9328&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="specials_sale.html"><b>More...</b></a></div></div>
 <div class="rightBoxFooter"></div>
 <!--// eof: specials //-->
 
 <!--// bof: featured //-->
 <div class="rightBoxContainer" id="featured" style="width: 140px">
 <h3 class="rightBoxHeading" id="featuredHeading">Recommended</h3>
-<div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/gaui-x4-sab-combo-kitescmotorfree-sab-p-9193.html"><img src="images/thumbnails/213002.jpg" alt="GAUI X4 SAB Combo (Kit+ESC+Motor+Free SAB)" title=" GAUI X4 SAB Combo (Kit+ESC+Motor+Free SAB) " width="90" height="64"><br>GAUI X4 SAB Combo (Kit+ESC+Motor+Free SAB)</a><div style="color: #ff6600;">&nbsp;<span class="productSpecialPrice">USD&nbsp;688.00</span></div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=9193&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/dji-naza-multicopter-p-9215.html"><img src="images/thumbnails/DJI-NAZA.jpg" alt="DJI Naza (Multicopter)" title=" DJI Naza (Multicopter) " width="90" height="50"><br>DJI Naza (Multicopter)</a><div style="color: #ff6600;">USD&nbsp;230.00</div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=9215&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/dji-wookong-multirotor-system-with-gps-f450-ark-free-p-8696.html"><img src="images/thumbnails/DJIWK-GPS.jpg" alt="DJI WOOKONG Multirotor System With GPS + F450 ARK (FREE)" title=" DJI WOOKONG Multirotor System With GPS + F450 ARK (FREE) " width="90" height="50"><br>DJI WOOKONG Multirotor System With GPS + F450 ARK (FREE)</a><div style="color: #ff6600;">USD&nbsp;1,199.00</div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=8696&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/miniature-aircraft-xcell-whiplash-90-electric-kit-flybarless-p-9512.html"><img src="images/thumbnails/MA1032-1.jpg" alt="Miniature Aircraft X-Cell Whiplash 90 Electric Kit (Flybarless)" title=" Miniature Aircraft X-Cell Whiplash 90 Electric Kit (Flybarless) " width="90" height="50"><br>Miniature Aircraft X-Cell Whiplash 90 Electric Kit (Flybarless)</a><div style="color: #ff6600;">USD&nbsp;888.00</div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=9512&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/gaui-gu368-3axis-gyro-p-4696.html"><img src="images/thumbnails/GU368.jpg" alt="GAUI GU-368 3-Axis Gyro" title=" GAUI GU-368 3-Axis Gyro " width="90" height="68"><br>GAUI GU-368 3-Axis Gyro</a><div style="color: #ff6600;">&nbsp;<span class="productSpecialPrice">USD&nbsp;129.00</span></div><a class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=4696&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div></div>
+<div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/alware-quad-flyer-spider-500-with-lighting-system-kit-only-p-8375.html"><img src="images/thumbnails/ALSP500X01.jpg" alt="ALware Quad Flyer Spider 500 With Lighting System ( Kit Only )" title=" ALware Quad Flyer Spider 500 With Lighting System ( Kit Only ) " width="90" height="50"><br>ALware Quad Flyer Spider 500 With Lighting System ( Kit Only )</a><div style="color: #ff6600;">Special: &nbsp;<span class="productSpecialPrice">USD&nbsp;49.00</span></div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=8375&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/dji-naza-multicopter-p-9215.html"><img src="images/thumbnails/DJI-NAZA.jpg" alt="DJI Naza (Multicopter)" title=" DJI Naza (Multicopter) " width="90" height="50"><br>DJI Naza (Multicopter)</a><div style="color: #ff6600;">USD&nbsp;230.00</div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=9215&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/helicopter-optical-tachometer-p-10183.html"><img src="images/thumbnails/RCD3063.jpg" alt="Helicopter Optical Tachometer" title=" Helicopter Optical Tachometer " width="90" height="50"><br>Helicopter Optical Tachometer</a><div style="color: #ff6600;">Special: &nbsp;<span class="productSpecialPrice">USD&nbsp;69.00</span></div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=10183&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/500x-quad-flyer-kit-only-p-8296.html"><img src="images/thumbnails/222001.jpg" alt="500X Quad Flyer ( Kit Only )" title=" 500X Quad Flyer ( Kit Only ) " width="90" height="60"><br>500X Quad Flyer ( Kit Only )</a><div style="color: #ff6600;">USD&nbsp;30.00</div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=8296&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div><div class="sideBoxContent centeredContent"><a href="http://www.flying-hobby.com/shop/miniature-aircraft-xcell-whiplash-90-electric-kit-flybarless-p-9512.html"><img src="images/thumbnails/MA1032-1.jpg" alt="Miniature Aircraft X-Cell Whiplash 90 Electric Kit (Flybarless)" title=" Miniature Aircraft X-Cell Whiplash 90 Electric Kit (Flybarless) " width="90" height="50"><br>Miniature Aircraft X-Cell Whiplash 90 Electric Kit (Flybarless)</a><div style="color: #ff6600;">USD&nbsp;899.00</div><a onclick="return ajaxifyAddCart(this);" class="add-to-cart" href="http://www.flying-hobby.com/shop/privacy.html?products_id=9512&amp;action=buy_now"><p class="addToCartResult" style="color:#00f"></p><img src="includes/templates/flying_hobby/buttons/english/button_buy_now.jpg" alt="Buy Now" title=" Buy Now " width="90" height="20" class="listingBuyNowButton"></a></div></div>
 <div class="rightBoxFooter"></div>
 <!--// eof: featured //-->
 
