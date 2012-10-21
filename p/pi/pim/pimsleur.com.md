@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506053549id_/http%3A//www.pimsleur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021122541id_/http%3A//www.pimsleur.com/privacy-policy) for the most accurate reproduction.*
 
 # Learn a new Language - Pimsleur Language Programs
 
