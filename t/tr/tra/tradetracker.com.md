@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradetracker.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622221714id_/http%3A//www.tradetracker.com/gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradetracker.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021122446id_/http%3A//www.tradetracker.com/gb/privacy) for the most accurate reproduction.*
 
-# Privacy policy -TradeTracker, the no 1 in performance-based online marketing solutions
+# Privacy policy - TradeTracker UK
 
 ## Privacy policy
 
