@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the celebrations.com privacy policy that was archived on 2012-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608161339id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celebrations.com privacy policy that was archived on 2012-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121021092857id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -24,7 +24,6 @@
 <link href="/saux/ie.css" rel="stylesheet" type="text/css" />
 <![endif]--> 
 <script type="text/javascript" src="/saux/jquery.all.js"></script>
-<script type="text/javascript" src="http://store.celebrations.com/ajaxpro/ajaxpro.js"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2622144-1']);
@@ -89,67 +88,23 @@ $(function() {
         scroll: 4
     });
 });
-
-function addLinks(sender) {
-    var wrapper = document.getElementById(sender.embedID);
-    var length = sender.descriptionLength;
-    if (wrapper != null) {
-        var divs = wrapper.getElementsByTagName("div");
-        for (var i = 0; i < divs.length; i++) {
-            var div = divs[i];
-            var prodLink = div.getElementsByTagName("a")[0];
-            if (prodLink != null) {
-                var buyNow = document.createElement("a");
-                buyNow.className = "shoplink";
-                buyNow.innerHTML = "Buy Now";
-                buyNow.href = prodLink.href;
-                div.appendChild(buyNow);
-            }
-
-            var link = document.createElement("a");
-            link.href = "http://store.celebrations.com/";
-            link.innerHTML = "Shop the Store";
-            link.className = "shoplink";
-            div.appendChild(link);
-            truncateDesc(div, length);
-        }
-    }
-}
-
-function truncateDesc(wrapper,length) {
-    var p = wrapper.getElementsByTagName("p")[0];
-    if(p != null) {
-        var strContent = p.innerHTML;
-        if (strContent.length > 0 && length > 0) {
-            var strDesc = "";
-            var words = strContent.split(' ');
-            if (words.length > length) {
-                for (var i = 0; i < length; i++) {
-                    strDesc = strDesc + words[i] + " ";
-                }
-                strDesc = strDesc.substr(0, strDesc.length - 1) + "...";
-                p.innerHTML = strDesc;
-            }
-        }
-    }
-}
 </script>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+</head>
 <body>
 <div class="top_bg">
 <div class="wrapper">
     <div class="masterhead clearfix">
         <a href="http://www.celebrations.com/" title="click here to return to the home page"><div class="logo">home page</div></a>
 		<div class="ad_banner">
-							<iframe scrolling="no" src="http://www.celebrations.com/aj/load-ad?Ad=TopGraduationHomePageAd" frameborder="0" marginwidth="0" marginheight="0" width="728" height="90"></iframe>
+							<iframe scrolling="no" src="http://www.celebrations.com/aj/load-ad?Ad=TopAd" frameborder="0" marginwidth="0" marginheight="0" width="728" height="90"></iframe>
         </div>
     </div>
     <div class="nav_bar clearfix">
         <ul class="navigation">
     <li class="orange"><a class="on" href="http://www.celebrations.com/"><span>Celebrations.com</span></a></li>
-    <li class="pink"><a class="" href="http://celebrations.punchbowl.com/new_event"><span>Digital <br>Invitations</span></a></li>
-    <li class="blue"><a class="" href="http://store.celebrations.com/"><span>Party Store</span></a></li>
-    <li class="green"><a class="" href="http://celebrations.finestationery.com"><span>Paper Invites<br>And More</span></a></li>
+    <li class="pink"><a class="" href="http://celebrations.punchbowl.com/new_event" rel="nofollow"><span>Digital <br>Invitations</span></a></li>
+    <li class="blue"><a class="" href="http://crate.celebrations.com/"><span>Celebrate Crate</span></a></li>
+    <li class="green"><a class="" href="http://celebrations.finestationery.com" rel="nofollow"><span>Paper Invites<br>And More</span></a></li>
 </ul>
 <div class="user_area">
    	<fb:login-button data-scope="email,user_birthday">Sign in with Facebook</fb:login-button>
@@ -158,9 +113,9 @@ function truncateDesc(wrapper,length) {
 <div>
 	<form action="http://www.celebrations.com/search" class="search">
 	    <fieldset>
-	        <input type="hidden" name="cx" value="partner-pub-8977770922302950:3i66sorpr4t">
-			<input type="hidden" name="cof" value="FORID:9">
-			<input type="hidden" name="ie" value="ISO-8859-1">
+	        <input type="hidden" name="cx" value="partner-pub-8977770922302950:5998116086">
+			<input type="hidden" name="cof" value="FORID:10">
+			<input type="hidden" name="ie" value="UTF-8">
 	        <input onclick="if (this.value == 'Google Custom Search') {this.value='';}" value="Google Custom Search" name="q" type="text">
 	        <div class="btn_orange"><input name="Submit" value="search" type="submit"></div>
 	        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
@@ -170,189 +125,256 @@ function truncateDesc(wrapper,length) {
 
 <div class="sub_nav">
 	<div class="clearfix">
-    	<ul>
-        	<li><a href="http://www.celebrations.com/party-ideas"><div class="corner_tr"></div><div class="corner_tl"></div>Themes &amp; Occasions</a>
-            	<div class="wide_load">
+		<ul>
+		   		    <li class=" ">
+		    	<strong><div class="corner_tr"></div><div class="corner_tl"></div>Occasions</strong>
+		    	<div class="drop_down_double">
             		<div class="corner_tr"></div>
                     <div class="corner_bl"></div>
                     <div class="corner_br"></div>
-                	<div class="box_double">
-                    	<span class="wfb">Holidays</span>
-                        <ul class="long">
-                       	                               <li><a href="http://www.celebrations.com/cincodemayo">Cinco De Mayo</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/mothersday">Mothers Day</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/4th-of-july">4th Of July</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/halloween-party-ideas">Halloween</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/thanksgiving-ideas">Thanksgiving</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/christmas-party-ideas">Christmas</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/holiday-party">Holiday Parties</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/new-years-eve">New Year's Eve</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/jewish-holiday-ideas">Jewish Holidays</a></li>
-                       	                           </ul>
-						<ul>
-                       		<li><a href="/article/fathersday">Fathers Day</a></li>
-                                                                          <li><a href="http://www.celebrations.com/valentines-day">Valentine's Day</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/easter">Easter</a></li>
-                       	                                                      <li><a href="http://www.celebrations.com/stpatricksday">Saint Patrick's Day</a></li>
-                       	                                                  </ul>
+                    <div class="left left_box">
+                    	<span class="wfb">DEPARTMENTS</span>
+	                    <ul>
+	                       	                    	<li><a href="http://www.celebrations.com/halloween-party-ideas">Halloween</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/thanksgiving-ideas">Thanksgiving</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/christmas-party-ideas">Christmas</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/themeparty">Theme Parties</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/wedding">Weddings</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/baby-shower-ideas">Baby Showers</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/girls-night-out">Girls Night Out</a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    </ul>
                     </div>
-                    <div class="single_box">
-                    	<span class="wfb">Entertaining</span>
-                        <ul>
-                                                       <li><a href="http://www.celebrations.com/dinnerparties">Dinner Parties</a></li>
-                                                       <li><a href="http://www.celebrations.com/barbeque">BBQ &amp; Outdoor</a></li>
-                                                       <li><a href="http://www.celebrations.com/winetasting">Wine Tastings</a></li>
-                                                       <li><a href="http://www.celebrations.com/charity-events">Charity Events</a></li>
-                                                   </ul>
+                    <div class="left single_box">
+                    	<span class="wfb">FEATURED</span>
+	                    <ul>
+	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/15-halloween-treats-on-a-stick">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/halloween-crafts-kids-frankenstein-pops.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>15 Halloween Treats on a Stick</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/10-cool-halloween-pumpkins-to-carve">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/10-cool-jack-o-lanterns-sick-pumpkin-jack-o-lantern-picture.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>10 Cool Halloween Pumpkins to Carve</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/candy-corn-milkshakes">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-08-31_Winnick_Candy-Corn-Milkshakes-Halloween-Treat.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Candy Corn Milkshakes</a></li>
+	                       	                       	                    </ul>
                     </div>
-                    <div class="single_box">
-                    	<span class="wfb">Themes</span>
-                        <ul>
-                                                       <li><a href="http://www.celebrations.com/themeparty">Theme Parties</a></li>
-                                                       <li><a href="http://www.celebrations.com/girls-night-out">Girls Night Out</a></li>
-                                                       <li><a href="http://www.celebrations.com/spring-parties">Spring Parties</a></li>
-                                                       <li><a href="http://www.celebrations.com/summerparties">Summer Parties</a></li>
-                                                       <li><a href="http://www.celebrations.com/fall-parties">Fall Parties</a></li>
-                                                       <li><a href="http://www.celebrations.com/winter-parties">Winter Parties</a></li>
-                                                       <li><a href="http://www.celebrations.com/tailgating">Tailgating</a></li>
-                                                       <li><a href="http://www.celebrations.com/super-bowl-parties">Super Bowl Parties</a></li>
-                                                   </ul>
-                    </div>
-                    <div class="single_box">
-                    	<span class="wfb">Milestones</span>
-                        <ul>
-                                                       <li><a href="http://www.celebrations.com/wedding">Weddings</a></li>
-                                                       <li><a href="http://www.celebrations.com/bridal-showers">Bridal Showers</a></li>
-                                                       <li><a href="http://www.celebrations.com/baby-shower-ideas">Baby Showers</a></li>
-                                                       <li><a href="http://www.celebrations.com/engagement-parties">Engagement Parties</a></li>
-                                                       <li><a href="http://www.celebrations.com/graduationparty">Graduation Parties</a></li>
-                                                   </ul>
-                    </div>
-                    <div class="single_box">
-                    	<span class="wfb">Birthdays</span>
-                        <ul>
-                                                       <li><a href="http://www.celebrations.com/1st-first-birthdays">First Birthdays</a></li>
-                                                       <li><a href="http://www.celebrations.com/birthdayparty">Kids Birthdays</a></li>
-                                                       <li><a href="http://www.celebrations.com/teen-birthday-party-ideas">Teen Birthdays</a></li>
-                                                       <li><a href="http://www.celebrations.com/birthday">Adult Birthdays</a></li>
-                                                       <li><a href="http://www.celebrations.com/40th-50th-birthday">40th &amp; 50th Birthdays</a></li>
-                                                   </ul>
-                    </div>
-                                    </div>
-            </li>
-            <li><a href="http://www.celebrations.com/food-and-drink"><div class="corner_tr"></div><div class="corner_tl"></div>Food &amp; Drink</a>
-            	<div class="drop_down_double">
+                </div>
+		    </li>
+		   		    <li class=" ">
+		    	<strong><div class="corner_tr"></div><div class="corner_tl"></div>Fall</strong>
+		    	<div class="drop_down_double">
             		<div class="corner_tr"></div>
                     <div class="corner_bl"></div>
                     <div class="corner_br"></div>
-                    <div class="left">
-                    	<span class="wfb">Everyday</span>
+                    <div class="left left_box">
+                    	<span class="wfb">DEPARTMENTS</span>
 	                    <ul>
-	                       	                        <li><a href="/kid-friendly-food">Kid Friendly Foods</a></li>
-	                       	                       						    <li><a href="/cocktails-mocktails">Cocktail Recipes</a></li>
-						   	                       						    <li><a href="/appetizers">Appetizers</a></li>
-						   	                       						    <li><a href="/entrees">Entrees</a></li>
-						   	                       						    <li><a href="/salads-sides-recipes">Salads</a></li>
-						   	                       						    <li><a href="/cupcakes">Cupcakes</a></li>
-						   	                       						    <li><a href="/dessert">Dessert Recipes</a></li>
-						   	                       						    <li><a href="/cookies">Cookie Recipes</a></li>
-						   	                       						    <li><a href="/brunch-recipes">Brunch Recipes</a></li>
-						   	                       						    <li><a href="/punch-recipes">Punch Recipes</a></li>
-						   	                    </ul>
+	                       	                    	<li><a href="http://www.celebrations.com/fall-parties">Fall Parties</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/tailgating">Tailgating</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/article/hot-cocktail-recipes-for-fall">Hot Cocktail Recipes for Fall</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/dinnerparties">Fall Dinner Parties</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/winetasting">Wine Tasting Parties</a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    </ul>
                     </div>
-                    <div class="single_box left">
-                    	<span class="wfb">Seasonal</span>
+                    <div class="left single_box">
+                    	<span class="wfb">FEATURED</span>
 	                    <ul>
-	                       	                        <li><a href="/halloween-treats">Halloween Treats</a></li>
-	                       	                       						    <li><a href="/halloween-drinks">Halloween Drinks</a></li>
-						   	                       						    <li><a href="/christmas-recipes">Christmas Recipes</a></li>
-						   	                       						    <li><a href="/christmas-drinks">Christmas Cocktails</a></li>
-						   	                       						    <li><a href="/super-bowl-recipes">Super Bowl Recipes</a></li>
-						   	                       						    <li><a href="/bridal-showers-drinks">Bridal Shower Cocktails</a></li>
-						   	                       						    <li><a href="/birthday-cakes">Birthday Cakes</a></li>
-						   	                    </ul>
+	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/how-to-turn-fall-foods-into-seasonal-centerpieces">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/diy-fall-food-centerpieces.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Turn Fall Foods into Seasonal Centerpieces</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/apple-engagement-party-for-fall">           <img src="http://cb.rsdn.co/usrimg/melissaklein-4618/Apple-Engagment-Table_copy.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Apple Engagement Party </a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/totally-awesome-diy-pumpkin-keg">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-09-06_Klein_DIY-Pumpkin-Keg-How-To-Craft-Idea-Fall-Party-Ideas-1.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>How to Make a Pumpkin Keg</a></li>
+	                       	                       	                    </ul>
                     </div>
-                                    </div>
-            </li>
-            <li><a href="http://www.celebrations.com/activities-games"><div class="corner_tr"></div><div class="corner_tl"></div>Activities &amp; Games</a>
-            	<div class="drop_down_double">
+                </div>
+		    </li>
+		   		    <li class=" ">
+		    	<strong><div class="corner_tr"></div><div class="corner_tl"></div>Birthdays</strong>
+		    	<div class="drop_down_double">
             		<div class="corner_tr"></div>
                     <div class="corner_bl"></div>
                     <div class="corner_br"></div>
-                    <div class="left">
-                    	<span class="wfb">Everyday</span>
+                    <div class="left left_box">
+                    	<span class="wfb">DEPARTMENTS</span>
 	                    <ul>
-	                       	                        <li><a href="/kids-activities">Kids Games and Activities</a></li>
-	                       						   						    <li><a href="/adult-party-games">Party Games for Adults</a></li>
-						   						   						    <li><a href="/kids-birthday-party-games">Kids Birthday Party Games</a></li>
-						   	                    </ul>
+	                       	                    	<li><a href="http://www.celebrations.com/1st-first-birthdays">1st Birthdays</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/birthdayparty">Kids Birthdays</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/birthday">Adult Birthdays</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/birthday-cakes">Birthday Cakes</a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    </ul>
                     </div>
-                    <div class="single_box left">
-                    	<span class="wfb">Seasonal</span>
+                    <div class="left single_box">
+                    	<span class="wfb">FEATURED</span>
 	                    <ul>
-						   	                        <li><a href="/halloween-party-games">Halloween Party Games</a></li>
-	                       						   						    <li><a href="/christmas-party-games">Christmas Party Games</a></li>
-						   						   						    <li><a href="/holiday-party-games">Holiday Party Games</a></li>
-						   						   						    <li><a href="/super-bowl-party-games">Super Bowl Party Games</a></li>
-						   						   						    <li><a href="/bridal-shower-games">Bridal Shower Games</a></li>
-						   	                    </ul>
+	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/article/tailgate-theme-birthday-party">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/tailgate_lunch_20.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Tailgate Theme Party Birthday</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/3-easy-ways-to-personalize-a-wine-bottle-gift">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-08-10_Ryan_3-Simple-Ways-to-Customize-a-Wine-Bottle-Gift.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>3 Easy Ways to Personalize a Wine Bottle Birthday Gift</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/article/first-birthday-party-menu">           <img src="http://cb.rsdn.co/usrimg/coryanneettiene/all_party_food.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>First Birthday Party Menu</a></li>
+	                       	                       	                    </ul>
                     </div>
-                                    </div>
-            </li>
-            <li><a href="http://www.celebrations.com/crafts-decor"><div class="corner_tr"></div><div class="corner_tl"></div>Crafts &amp; Decor</a>
-            	<div class="drop_down_double">
-            		<div class="corner_tr"></div>
+                </div>
+		    </li>
+		   		    <li class="toleft ">
+		    	<strong><div class="corner_tr"></div><div class="corner_tl"></div>Kids</strong>
+		    	<div class="drop_down_double">
+            		<div class="corner_tl"></div>
                     <div class="corner_bl"></div>
                     <div class="corner_br"></div>
-                    <div class="left">
-                    	<span class="wfb">Everyday</span>
+                    <div class="left left_box">
+                    	<span class="wfb">DEPARTMENTS</span>
 	                    <ul>
-	                       	                        <li><a href="/diy-ideas">DIY Party Ideas</a></li>
-	                       						   						    <li><a href="/kids-crafts">Crafts for Kids</a></li>
-						   						   	                    </ul>
+	                       	                    	<li><a href="http://www.celebrations.com/kids-crafts">Crafts for Kids</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/kid-friendly-food">Kid Friendly Foods</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/kids-activities">Summer Break Activities</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/content/back-to-school-activities-to-ease-first-day-jitters">Prepping for Back to School</a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    </ul>
                     </div>
-                    <div class="single_box left">
-                    	<span class="wfb">Specialty</span>
+                    <div class="left single_box">
+                    	<span class="wfb">FEATURED</span>
 	                    <ul>
-						   	                        <li><a href="/halloween-decorations">Halloween Decorations</a></li>
-	                       						   						    <li><a href="/thanksgiving-decorations">Thanksgiving Decorations</a></li>
-						   						   						    <li><a href="/christmas-decorations">Christmas Decorations</a></li>
-						   						   						    <li><a href="/easter-crafts">Easter Crafts</a></li>
-						   						   						    <li><a href="/mothersday-crafts">Mothers Day Crafts</a></li>
-						   	                    </ul>
+	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/easy-edible-fall-apple-craft-for-kids">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-08-29_Coppola_Edible-Crafts-for-Kids-Rice-Krispies-Apples.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Edible Apple Rice Krispie Treats</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/easy-candy-corn-hat-halloween-craft-for-toddlers">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-08-23_Fran_Halloween-Toddler-Craft-3-D-Candy-Corn-Party-Hat.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Easy Candy Corn Hat Craft for Kids</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/10-creative-crafty-lunch-ideas-for-kids">           <img src="http://cb.rsdn.co/usrimg/jaclynferrara/2Little_Bunny_Foo_Foo.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>10 Creative &amp; Crafty Lunch Ideas for Kids</a></li>
+	                       	                       	                    </ul>
                     </div>
-                                    </div>
-            </li>
-            <li class="last"><a href="http://www.celebrations.com/community"><div class="corner_tr"></div><div class="corner_tl"></div>Community</a>
-				<div class="drop_down">
-           		 	<div class="corner_tl"></div>
+                </div>
+		    </li>
+		   		    <li class="toleft ">
+		    	<strong><div class="corner_tr"></div><div class="corner_tl"></div>Recipes</strong>
+		    	<div class="drop_down_double">
+            		<div class="corner_tl"></div>
                     <div class="corner_bl"></div>
                     <div class="corner_br"></div>
-                    <ul>
-                                               <li><a href="http://www.celebrations.com/everyday">Everyday</a></li>
-                                               <li><a href="http://www.celebrations.com/party-101">Party 101</a></li>
-                                           	<li><a href="http://www.celebrations.com/questions">Q &amp; A</a></li>
-                    	<li><a href="http://www.celebrations.com/experts">Experts</a></li>
-                    </ul>
-                                    </div>
-            </li>
-        </ul>
+                    <div class="left left_box">
+                    	<span class="wfb">DEPARTMENTS</span>
+	                    <ul>
+	                       	                    	<li><a href="http://www.celebrations.com/cocktails-mocktails">Cocktails &amp; Mocktails</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/appetizers">Appetizers</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/entrees">Dinner</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/cupcakes">Cupcakes</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/dessert">Dessert</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/punch-recipes">Punch</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/brunch-recipes">Brunch</a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    </ul>
+                    </div>
+                    <div class="left single_box">
+                    	<span class="wfb">FEATURED</span>
+	                    <ul>
+	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/12-amazing-appetizers-for-football-season">           <img src="http://cb.rsdn.co/usrimg/jaclynferrara/Pigsinablanket-andrea.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>12 Amazing Appetizers for Football Season</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/candy-corn-jell-o-shots">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-08-27_Winnick_Adult-Halloween-Party-candy-corn-jello-shots-recipe.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Candy Corn Jell-O Shots</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/mexican-hot-chocolate-cookies">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-08-14_Winnick_Mexican-Chocolae-Cookies-Recipe.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Mexican Hot Chocolate Cookies</a></li>
+	                       	                       	                    </ul>
+                    </div>
+                </div>
+		    </li>
+		   		    <li class="toleft last">
+		    	<strong><div class="corner_tr"></div><div class="corner_tl"></div>Crafts</strong>
+		    	<div class="drop_down_double">
+            		<div class="corner_tl"></div>
+                    <div class="corner_bl"></div>
+                    <div class="corner_br"></div>
+                    <div class="left left_box">
+                    	<span class="wfb">DEPARTMENTS</span>
+	                    <ul>
+	                       	                    	<li><a href="http://www.celebrations.com/diy-ideas">DIY Party Ideas</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/kids-crafts">Crafts for Kids</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/content/lets-dish-potluck-party-ideas">DIY Potluck Party Ideas</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/halloween-decorations">Halloween Decoration Ideas</a></li>
+	                       	                    	<li><a href="http://www.celebrations.com/crafts-decor">Seasonal Crafts</a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    	<li><a href=""></a></li>
+	                       	                    </ul>
+                    </div>
+                    <div class="left single_box">
+                    	<span class="wfb">FEATURED</span>
+	                    <ul>
+	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/dried-wheat-grass-centerpiece-for-fall">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/thanksgiving-decorations-wheat-grass-centerpiece-table.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Dried Wheat Grass Centerpiece for Fall</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/diy-wall-art-craft">           <img src="http://cb.rsdn.co/usrimg/jaclynferrara/rachel_wall_art2.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>DIY Wall Art Craft</a></li>
+	                       	                       	                       	                       	                       	                    	<li class="left mr10 tac w100"><a href="http://www.celebrations.com/content/scented-favors-for-a-fall-wedding-or-anniversary">           <img src="http://cb.rsdn.co/usrimg/melanieeppright/Fall-Wedding-Anniversary-Party-Gift-Tag.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpthumbnail">
+       
+
+<br>Scented Party Favors for a Fall Gathering</a></li>
+	                       	                       	                    </ul>
+                    </div>
+                </div>
+		    </li>
+		   		</ul>
     </div>
 </div>
 
 <div class="sub_sub_nav clearfix">
     <ul>
-               <li><a href="http://www.celebrations.com/experts">Experts</a></li>
-        <li>|</li>
-        <li><a href="http://www.celebrations.com/video">Videos</a></li>
+               <li><a href="http://www.celebrations.com/video">Videos</a></li>
         <li>|</li>
         <li><a href="http://www.celebrations.com/gallery">Photos</a></li>
         <li>|</li>
-               <li><a href="http://www.celebrations.com/party-tools">Tools</a></li>
+        <li><a href="http://store.celebrations.com/" rel="nofollow">PARTY STORE</a></li>
+        <li>|</li>
+        <li><a href="http://celebrations.ziplist.com/mylist" rel="nofollow">SHOPPING LIST</a></li>
+        <li>|</li>
+        <li><a href="http://celebrations.ziplist.com/recipes/search" rel="nofollow">RECIPE SEARCH</a></li>
+        <li>|</li>
+        <li><a href="http://celebrations.ziplist.com/recipes/meal_planner" rel="nofollow">MEAL PLANNER</a></li>
     </ul>
     <div class="join_party">
-		<span class="mayfield">Join the Party!</span>
-	    <a href="http://pinterest.com/celebrations/" class="jp-pi" target="_blank"></a>
+       		<span class="mayfield">Join the Party!</span>
+	   	    <a href="http://pinterest.com/celebrations/" class="jp-pi" target="_blank"></a>
 		<a href="https://plus.google.com/106758649915166405331?prsrc=3" rel="publisher" style="text-decoration:none;" target="_blank"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:32px;height:32px;" target="_blank"></a>
         <a href="http://www.facebook.com/partyideas" class="jp-fb" target="_blank"></a>
         <a href="http://twitter.com/celebrations" class="jp-tw" target="_blank"></a>
@@ -465,78 +487,30 @@ ideas and expert entertaining tips by email.</div>
     </div>
     <div class="clearfix"><div class="box_corner_bottom_left"></div><div class="box_corner_bottom_right"></div></div>
 </div><div class="tac pb20">
-		<iframe scrolling="no" src="http://www.celebrations.com/aj/load-ad?Ad=TopRightGraduationHomePageAd" frameborder="0" marginwidth="0" marginheight="0" width="300" height="250"></iframe>
+		<iframe scrolling="no" src="http://www.celebrations.com/aj/load-ad?Ad=TopRightAd" frameborder="0" marginwidth="0" marginheight="0" width="300" height="250"></iframe>
 </div>
-<div class="box green_box">
+<div class="box ">
     <div class="clearfix"><div class="box_corner_top_left"></div><div class="box_corner_top_right"></div></div>
     <div class="box_content">
-                      <div class="mayfield">Latest &amp; Greatest!</div>
+                  	<div class="wtitle dots">Happy Halloween!</div>
                      	    <div class="clearfix">
-	<div class="image left"><a href="http://www.celebrations.com/content/stylish-simple-summer-dinner-party">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-06-08_Wasson_Simple-Stylish-Summer-Dinner-Party-4.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=contentlistthumb">
-       </a></div>
-	<div class="text w230 right">
-		<p class="off"><a href="http://www.celebrations.com/content/stylish-simple-summer-dinner-party">Stylish &amp; Simple Summer Dinner Party</a></p>
-	</div>
-</div>
-<div class="clearfix">
-	<div class="image left"><a href="http://www.celebrations.com/content/perfect-summer-party-playlists">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-06-07_perfect-summer-party-playlists.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=contentlistthumb">
-       </a></div>
-	<div class="text w230 right">
-		<p class="off"><a href="http://www.celebrations.com/content/perfect-summer-party-playlists">Perfect Summer Party Playlists</a></p>
-	</div>
-</div>
-<div class="clearfix">
-	<div class="image left"><a href="http://www.celebrations.com/content/tears-and-smiles-saying-goodbye-to-our-1st-home">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-05-29_Anderson_Saying-Goodbye-to-Friends.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=contentlistthumb">
-       </a></div>
-	<div class="text w230 right">
-		<p class="off"><a href="http://www.celebrations.com/content/tears-and-smiles-saying-goodbye-to-our-1st-home">Tears and Smiles: Saying Goodbye to Our 1st Home</a></p>
-	</div>
-</div>
-	   	       </div>
+	    <div class="image pb10"><a href="http://www.celebrations.com/content/31-ways-to-countdown-to-halloween">           <img src="http://cb.rsdn.co/usrimg/editor-dianaheather-5522/2012-09-10_Coppola_DIY-Halloween-Countdown-Blocks-Craft-Project.jpg?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=cpimage">
+          </a></div>
+    <p class="off"><a href="http://www.celebrations.com/content/31-ways-to-countdown-to-halloween">31 Ways to Countdown to Halloween</a></p>
+</div>	   	       </div>
     <div class="clearfix"><div class="box_corner_bottom_left"></div><div class="box_corner_bottom_right"></div></div>
 </div>
 <div class="box ">
     <div class="clearfix"><div class="box_corner_top_left"></div><div class="box_corner_top_right"></div></div>
     <div class="box_content">
-              	    <div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '222439884487842', // App ID
-      status     : true, // check login status
-      cookie     : true, // enable cookies to allow the server to access the session
-      xfbml      : true  // parse XFBML
-    });
-  };
-
-  // Load the SDK Asynchronously
-  (function(d){
-     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all.js";
-     d.getElementsByTagName('head')[0].appendChild(js);
-   }(document));
-</script>
-<div class="fb-like-box" data-href="http://www.facebook.com/partyideas" data-width="300" data-height="180" data-show-faces="true" data-border-color="#FFFFFF" data-stream="false" data-header="false"></div>	   	       </div>
+              	    <div class="fb-like-box" data-href="http://www.facebook.com/partyideas" data-width="300" data-height="180" data-show-faces="true" data-border-color="#FFFFFF" data-stream="false" data-header="false"></div>	   	       </div>
     <div class="clearfix"><div class="box_corner_bottom_left"></div><div class="box_corner_bottom_right"></div></div>
 </div>
 <div class="tac pb20">
-		<iframe scrolling="no" src="http://www.celebrations.com/aj/load-ad?Ad=BottomRightGraduationHomePageAd" frameborder="0" marginwidth="0" marginheight="0" width="300" height="250"></iframe>
+		<iframe scrolling="no" src="http://www.celebrations.com/aj/load-ad?Ad=crateadballoon" frameborder="0" marginwidth="0" marginheight="0" width="300" height="250"></iframe>
 </div>
-<div class="box green_box">
-    <div class="clearfix"><div class="box_corner_top_left"></div><div class="box_corner_top_right"></div></div>
-    <div class="box_content">
-                      <div class="mayfield">Featured Contributor</div>
-                     	    <div class="member clearfix">
-	<h4>Coryanne Ettiene</h4>
-	<div class="image">
-	   		<img src="http://cb.rsdn.co/usrimg/coryanneettiene/IMG_0819.JPG?ut=http%3A%2F%2Fwww.celebrations.com&amp;op=authorfeatured" class="widget_image">
-	   	</div> 
-	<div class="text">Kitchen Living Expert, TV Personality, Writer, Entertaining Guru, Kitchen Witch, Domesticity Sage, and Cocktail Shaker who wears h...</div>
-</div>
-<p class="off"><a href="http://www.celebrations.com/profile/coryanneettiene">View Profile</a></p>
-                    	   	       </div>
-    <div class="clearfix"><div class="box_corner_bottom_left"></div><div class="box_corner_bottom_right"></div></div>
+<div class="tac pb20">
+		<iframe scrolling="no" src="http://www.celebrations.com/aj/load-ad?Ad=BottomRightAd" frameborder="0" marginwidth="0" marginheight="0" width="300" height="250"></iframe>
 </div>
 </div>
     </div>
@@ -561,13 +535,13 @@ ideas and expert entertaining tips by email.</div>
 <br>
 <div class="pb20 pl30 bg_white">
 	<a href="http://www.celebrations.com/">HOME</a> | 
-	<a href="http://celebrations.punchbowl.com/new_event">ONLINE INVITATIONS</a> | 
-	<a href="http://store.celebrations.com/">PARTY STORE</a>
+	<a href="http://celebrations.punchbowl.com/new_event">ONLINE INVITATIONS</a>
 </div>
 <div class="pb20 pl30 bg_white">
 	<a href="http://www.celebrations.com/about">About Us</a> | 
 	<a href="http://www.celebrations.com/contact">Contact Us</a> | 
 	<a href="http://www.celebrations.com/advertise">Advertise with Us</a> | 
+	<a href="http://www.celebrations.com/experts">Experts</a> | 
 	<a href="http://www.celebrations.com/write">Write for Celebrations</a> | 
 	<a href="http://www.celebrations.com/love">Books</a> | 
 	<a href="http://www.celebrations.com/termsofuse">Terms of Use</a> | 
@@ -583,14 +557,15 @@ ideas and expert entertaining tips by email.</div>
 
 
 
-<div id="fb-root-login"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js#xfmbl=1"></script></div>
 <script>
 window.fbAsyncInit = function() {
 FB.init({
   appId: '222439884487842',
   cookie: true,
   xfbml: true,
-  oauth: true
+  oauth: true,
+  channelUrl:'http://www.celebrations.com/channel.html'
 });
 FB.Event.subscribe('auth.login', function(response) {
   $.post('http://www.celebrations.com/aj/get-fb-login-url',function(URL) { location.href = URL; });
@@ -602,8 +577,8 @@ FB.Event.subscribe('auth.logout', function(response) {
 (function() {
 var e = document.createElement('script'); e.async = true;
 e.src = document.location.protocol +
-  '//connect.facebook.net/en_US/all.js';
-document.getElementById('fb-root-login').appendChild(e);
+  '//connect.facebook.net/en_US/all.js#xfmbl=1';
+document.getElementById('fb-root').appendChild(e);
 }());
 </script>
 
