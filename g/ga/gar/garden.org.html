@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the garden.org privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505065430id_/http%3A//assoc.garden.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the garden.org privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022001727id_/http%3A//assoc.garden.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -9,9 +9,15 @@
 <meta name="description" content="Information and inspiration on gardening with answers to questions about lawns, landscapes, trees, shrubs, perennials, annuals, vegetables, herbs and flowers, organic gardens, compost, urban, soil, design, roses, tomato, how to grow in containers.">
 <meta name="keywords" content="garden, gardening, gardener, landscaping, plant, flower, lawn, vegetable, fruit, herb, tree, shrub, perennial, annual, rose, tomato, container, planter, pot, bulb, urban, pest, regional, horticulture, compost, seed, organic, design, prune, pruning, grass, soil, raised bed, harvest, pond, hardiness, zone, grow, green, edible, landscape">
     
+<script type="text/javascript" src="/common/js/jquery-1.4.2.min.js"></script> 
+<script type="text/javascript" src="/common/js/jquery.cycle.all.js"></script> 
+<script type="text/javascript" src="/common/js/nav.js"></script>
 <script type="text/javascript" src="/common/js/swfobject.js"></script>
-<script type="text/javascript" src="/common/js/nav.js"></script> 
-
+<script type="text/javascript" src="/common/js/gfa-core.js"></script>
+<script type="text/javascript" src="/common/js/textfield.js"></script>
+<script type="text/javascript" src="http://ads.garden.org/www/delivery/spcjs.php?id=1"></script>
+<script type="text/javascript" src="https://www.garden.org/wallpaper/includes/jquery.DOMWindow.js"></script>
+<script src="/common/js/assoc_analytics.js" type="text/javascript"></script>
 <link rel="shortcut icon" type="image/ico" href="/common/images/favicon.ico">
 
 <link href="/common/styles/nga-style.css" rel="stylesheet" media="screen, projection" type="text/css">
@@ -19,8 +25,9 @@
 
 <!--[if IE]>
 <link href="/common/styles/nga-style-ie.css" rel="stylesheet" media="screen, projection" type="text/css" />
-<link href="/styles/assoc-style-ie.css" rel="stylesheet" media="screen, projection" type="text/css" />
 <![endif]-->
+
+
     
 
 </head>
@@ -41,33 +48,39 @@ begin container
 	<div id="eyebrow">
 	<ul>
 	<li class="first"><a href="http://assoc.garden.org/about/" title="About">About</a></li>
-	<li><a href="https://secure.garden.org/donation/" title="Support NGA">Support NGA</a></li>
+	<li><a href="http://assoc.garden.org/sponsors/" title="Our Sponsors">Our Sponsors</a></li>
 	<li><a href="http://www.kidsgardening.org/grants-and-awards" title="Grants &amp; Awards">Grants &amp; Awards</a></li>
-	<li><a href="http://assoc.garden.org/sponsors/" title="Sponsors">Sponsors</a></li>
-	<li class="last"><a href="http://www.kidsgardening.org/garden-registry" title="Garden Registry">Garden Registry</a></li>
-	</ul>
+	<li><a href="http://assoc.garden.org/b2b/index.php?q=show&amp;id=2262" title="Advertising">Advertising</a></li>
+	<li class="last"><a href="http://assoc.garden.org/contactus/" title="Garden Registry">Contact Us</a></li>
+		</ul>
 	</div>
 <!-- end eyebrow
 begin header -->
 	<div id="header">
 	<h1>National Gardening Association</h1>
 	<h2>"When You Garden, You Grow"</h2>
+	<form action="/search" method="get">
+		<input type="text" value="What are you looking for?" class="default-value" name="keyword" size="11" maxlength="255" style="padding:5px; font-size:1.2em; color:#666666; font-style:italic;">
+		<input name="q" type="hidden" value="search">
+		<input name="submit" type="image" value="search" src="https://www.garden.org/images/global/search_topRight.png" class="search_btn" align="top">
+	</form>
 	</div>
 <!-- end header
 begin primary navigation -->
 <ul id="nav">
-	<li class="home"><a href="http://www.garden.org/" title="Home">Home</a></li>
-	<li class="micro"><a href="#">Themed Gardens</a>
+	<li class="home"><a href="http://www.garden.org/" title="Home"><span class="green">Home</span></a></li>
+	<li class="support"><a href="https://secure.garden.org/donation/" title="Support NGA"><span class="green">Support NGA</span></a></li>
+	<li class="micro"><a href="#"><span class="green">Themed Gardens</span></a>
 		<ul class="microDrop">
 			<li><a href="http://www.garden.org/urbangardening/" title="Moss in the City">Moss in the City</a></li>
 			<li><a href="http://www.garden.org/ediblelandscaping/" title="Edible Landscaping">Edible Landscaping</a></li>
 			<li><a href="http://www.garden.org/celebratingtheseasons/" title="Celebrating the Seasons">Celebrating the Seasons</a></li>
 		</ul>
 	</li>
-	<li class="kids"><a href="http://www.kidsgardening.org" title="Kids Gardening">Kids Gardening</a></li>
-	<li class="shop"><a href="http://store.yahoo.com/cgi-bin/clink?nationalgardening+jzGTFF+index.html+" title="Gardening with Kids Shop">Gardening with Kids Shop</a></li>
-	<li class="ngm"><a href="http://www.nationalgardenmonth.org" title="National Garden Month">National Garden Month</a></li>
-	<li class="research"><a href="http://www.gardenresearch.com" title="Research">Research</a></li>
+	<li class="kids"><a href="http://www.kidsgardening.org" title="KidsGardening"><span class="green">KidsGardening</span></a></li>
+	<li class="ngm"><a href="http://www.nationalgardenmonth.org" title="National Garden Month"><span class="green">National Garden Month</span></a></li>
+	<li class="research"><a href="http://www.gardenresearch.com" title="Garden Research"><span class="green">Garden Research</span></a></li>
+	<li class="shop"><a href="http://store.yahoo.com/cgi-bin/clink?nationalgardening+jzGTFF+index.html+" title="Kids Shop"><span class="green">Kids Shop</span></a></li>
 </ul>
 </div>
 <!-- end primary navigation -->
@@ -178,13 +191,12 @@ end center column
 <li><a href="http://assoc.garden.org/jobs/" title="Jobs">Jobs</a></li>
 <li class="first"><a href="http://assoc.garden.org/contactus/" title="Contact Us">Contact Us</a></li>
 </ul>
-<p><a href="http://assoc.garden.org/privacy" title="Privacy Policy">Privacy Policy</a>
+<p>© 2012 National Gardening Association
 <br>
-© 2012, National Gardening Association
+PO Box 4515, Burlington, VT 05406
 <br>
-1100 Dorset Street, South Burlington, VT 05403
-<br>
-Phone: (802) 863-5251</p>
+<a href="http://assoc.garden.org/contactus/" title="More Information to Contact Us">Contact Us</a> | <a href="http://assoc.garden.org/privacy" title="Read our Privacy Policy">Privacy Policy</a>
+</p>
 </div>
 <!--
 
@@ -192,15 +204,18 @@ begin analytics
 
 -->
 
+<!-- moved to header 9/19/12 Daniel
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+</script>
+
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-4809383-5");
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}</script> 
+-->
 
 
 <!--
