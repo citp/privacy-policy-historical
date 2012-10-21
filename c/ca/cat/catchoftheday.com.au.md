@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623024137id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021181620id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
 
 # CatchOfTheDay - One Deal, Every Day, Midday
 
@@ -52,7 +52,7 @@
 
 **(e)** web page usage statistics, including the time spent on each web page. 
 
-**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](http://www.catchoftheday.com.au/terms.php). 
+**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](https://www.catchoftheday.com.au/terms.php). 
 
 ### 3\. Using and Disclosing Your Personal Information
 
@@ -64,7 +64,7 @@
 
 **3.4** We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use and you are given the opportunity to opt out of receiving any further direct marketing communications. Our electronic marketing activities will comply with the requirements of the _Spam Act 2003_ (Cth). 
 
-**3.5** We may share your information with other members of the CatchOfTheDay.com.au Group, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Wine Cru Pty Ltd and their Related Bodies Corporate, as defined in the _Corporations Act 2001_ (Cth). 
+**3.5** We may share your information with other members of the CatchOfTheDay.com.au Group, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Wine Cru Pty Ltd, Ladybub Pty Ltd and their Related Bodies Corporate, as defined in the _Corporations Act 2001_ (Cth). 
 
 **3.6** We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia, we will do so in accordance with National Privacy Principle 9. 
 
