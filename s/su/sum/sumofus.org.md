@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumofus.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628061808id_/http%3A//sumofus.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumofus.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021134023id_/http%3A//sumofus.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SumOfUs
 
