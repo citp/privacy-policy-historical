@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icc-cricket.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629071714id_/http%3A//icc-cricket.yahoo.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icc-cricket.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021192936id_/http%3A//www.icc-cricket.com/privacy_policy.php) for the most accurate reproduction.*
 
 # International Cricket Council - Privacy Policy
 
