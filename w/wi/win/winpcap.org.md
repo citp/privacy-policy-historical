@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001015id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021084121id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# Title of Web Page
 
 Riverbed Technology knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting Riverbed's web site, submitting information or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -26,7 +26,7 @@ We may receive and store any information you enter on our web site or provide to
 
 ### E-mail Communications
 
-We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list with lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please unsubscribe at: [http://www.riverbed.com/us/unsubscribe.php](https://web.archive.org/web/20120623001015id_/http%3A//www.riverbed.com/us/unsubscribe.php)[.](https://web.archive.org/web/20120623001015id_/http%3A//www.riverbed.com/us/unsubscribe.php)
+We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list with lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please unsubscribe at: [http://www.riverbed.com/us/unsubscribe.php](https://web.archive.org/web/20121021084121id_/http%3A//www.riverbed.com/us/unsubscribe.php)[.](https://web.archive.org/web/20121021084121id_/http%3A//www.riverbed.com/us/unsubscribe.php)
 
 ### What About Cookies?
 
