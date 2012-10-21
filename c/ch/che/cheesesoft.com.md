@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cheesesoft.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522154609id_/http%3A//www.cheesesoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheesesoft.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021054523id_/http%3A//www.cheesesoft.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CheeseSoft - a Professional System Utility Company
 
-* * *
-
-CheeseSoft.com respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. 
+CheeseSoft.com respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy.
 
 This Privacy Policy explains CheeseSoft.com treatment of your personally identifiable information collected in connection with your activities on the CheeseSoft.com web site.
 
@@ -14,14 +12,14 @@ CheeseSoft.com will not collect or use any information about the visitors to the
 2\. CONTRACTUAL OBLIGATION  
 If you make a purchase from the Web Site, you will be asked to provide your name, email and payment information. We may use information collected in the following ways:
 
-  1. To process, validate and verify purchases. 
-  2. To contact you to reconfirm or verify accuracy of information provided. 
-  3. To register you as a customer. 
-  4. To open and maintain a support account for you. 
-  5. To send email notifications about new, existing, enhanced products or services. 
-  6. To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services. 
-  7. To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations. 
-  8. To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license. 
+  1. To process, validate and verify purchases.
+  2. To contact you to reconfirm or verify accuracy of information provided.
+  3. To register you as a customer.
+  4. To open and maintain a support account for you.
+  5. To send email notifications about new, existing, enhanced products or services.
+  6. To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services.
+  7. To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations.
+  8. To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license.
 
 
 
@@ -41,4 +39,4 @@ The Web Site may contain links to other web sites. CheeseSoft.com does not monit
 CheeseSoft.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
 6\. CONTACT INFORMATION  
-For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20120522154609id_/http%3A//www.cheesesoft.com/contactus.php).
+For questions regarding this Privacy Policy please [ **Contact us**](http://www.cheesesoft.com/contactus.php).
