@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the streetdeal.my privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170221id_/http%3A//www.streetdeal.my/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdeal.my privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021043204id_/http%3A//www.streetdeal.my/home/info/privacy) for the most accurate reproduction.*
 
 # Deals, Discounts Malaysia | StreetDeal.my
 
-This Privacy Policy discloses the privacy practices for the StreetDeal website (collectively, the "Website" located at www.StreetDeal.my). StreetDeal Malaysia Sdn. Bhd., a Malaysian Company, the provider of the Website (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy policy, please email us.
+This Privacy Policy discloses the privacy practices for the StreetDeal website (collectively, the "Website" located at www.StreetDeal.my). StreetDeal Malaysia Sdn. Bhd., a Malaysian Company and owned by Asia Deal Group Pte Ltd, the provider of the Website (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy policy, please email us.
 
 **Please read this privacy policy carefully. By accessing or using our website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this privacy policy and our website terms of use. If you do not agree to these terms, exit this page and do not access or use the website.**
 
@@ -10,7 +10,7 @@ This Privacy Policy discloses the privacy practices for the StreetDeal website (
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.
+We reserve the right to modify this privacy statement at any time without further notice, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.
 
 #### 2\. Types of Information Collected and Uses of Collected Information
 
@@ -41,6 +41,10 @@ We will not share, sell, rent, or trade your Personally Identifiable Information
 **We may share your information in a Business Transfer.** As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.
 
 **We may share your information for our Protection and the Protection of Others.** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.
+
+**We may share your information with any other website owned by AsiaDeal Group.** AsiaDeal Group is the holding company of the website and may roll out other websites with which StreetDeal may share your information
+
+**We may send you information, promotions, updates, and marketing and advertising materials in relation to third party organisations.** You will always have the opportunity to unsubscribe to these communications.
 
 #### 4\. Release of Non-Personally Identifiable Information
 
@@ -94,4 +98,6 @@ Conversely, if you are not currently registered as a StreetDeal user and you cli
 
 Whether you're a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you!
 
-Customer Service Inquiries | [info@StreetDeal.my](mailto:info@StreetDeal.my)
+Customer Service Inquiries | [info@StreetDeal.my](mailto:info@StreetDeal.my) | Phone: +603 6201 9699
+
+Level 8 Retail Office Block, Pavilion KL, 168 Jalan Bukit Bintang, 55100 Kuala Lumpur
