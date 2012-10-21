@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429203218id_/http%3A//www.qad.com/resources/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022001159id_/http%3A//www.qad.com/portal/site/erp/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
-  
+﻿ 
 
+Privacy Policy
 
-This statement sets forth QAD's Privacy Statement for QAD.com and describes the practices that QAD will follow with respect to the privacy of users of this site.
-
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact our Webmaster at:[Webmaster@qad.com](mailto:webmaster@qad.com)**
+This statement sets forth QAD's Privacy Statement for QAD.com and other QAD websites and describes the practices that QAD will follow with respect to the privacy of users of this site.
 
 ### What is personally identifiable information?
 
@@ -19,7 +18,7 @@ As a global company, QAD operates a number of Web sites around the world. Any in
 
 ### How is information collected, used, and disclosed?
 
-We do not collect personally identifiable information — including your e-mail address — unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. Whether you provide any information is entirely up to you. If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. In some circumstances, QAD may share information you voluntarily provide us with authorized business partners. Also, QAD uses Lotus QuickPlace as a tool for our user group members to share information and for customers utilizing Q-Advantage; if you become a member of a QuickPlace, you acknowledge and agree that other members of QuickPlace may have access to your personally identifiable information. We do not sell or rent personally identifiable information collected through this site to anyone.
+We do not collect personally identifiable information — including your e-mail address — unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. Whether you provide any information is entirely up to you. If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. In some circumstances, QAD may share information you voluntarily provide us with authorized business partners. QAD makes available a communication and collaboration tool to users of the QAD websites; you acknowledge and agree that other users of the QAD website may have access to your personally identifiable information (e.g. because it has been added to an address book). We do not sell or rent personally identifiable information collected through this site to anyone. You hereby agree that you will not use any personally identified information available on a QAD website for any purposes other than the purpose for which it is made available on the website.
 
 During the period you are logged onto our site we log IP addresses, browser and platform types, domain names, access times, referral addresses, and your activity while using or reviewing our site. QAD may also disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others.
 
@@ -37,7 +36,7 @@ If you have voluntarily provided personally identifiable information, we may, fr
 
 ### How can you correct, access, and update your information?
 
-You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site. Or if you prefer, you may contact our Webmaster at [Webmaster@qad.com](mailto:webmaster@qad.com).
+You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site.
 
 ### How do we protect your information?
 
