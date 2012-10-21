@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626191444id_/http%3A//www.orvis.com/intro.aspx%3Fsubject%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021215444id_/http%3A//www.orvis.com/intro.aspx%3Fsubject%3D107) for the most accurate reproduction.*
 
 # Orvis Privacy Policy
 
@@ -77,7 +77,7 @@ These companies are usually prohibited by contract from using this information f
 
 In some instances, you may choose to deal with some of these contractors directly and provide your personal information to them. In those instances, you should check the privacy policies on their independent websites to make sure you are willing to have your personal information handled to your satisfaction. 
 
-For example, when you make a purchase from Orvis with a credit card, you may choose to use an independent card processor, such as PayPal, or a particular form of credit, such as Bill Me Later (“BML”). When these or similar choices are available, you will be notified about the option of checking their respective privacy policies, which will govern the collection and use of personal information that you give to them directly. 
+For example, when you make a purchase from Orvis with a credit card, you may choose to use an independent card processor, such as PayPal. When these or similar choices are available, you will be notified about the option of checking their respective privacy policies, which will govern the collection and use of personal information that you give to them directly. 
 
 b. Third Parties 
 
@@ -148,7 +148,7 @@ Policy Changes
 
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our web site. We encourage you to review our privacy policy periodically. 
 
-This policy was last updated on October 22, 2008. 
+This policy was last updated on September 10, 2012. 
 
 Questions or Comments? 
 
