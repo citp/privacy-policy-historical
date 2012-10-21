@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popularasians.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605124727id_/http%3A//www.popularasians.com/forum/misc.php%3Fdo%3Dpage%26template%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularasians.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021091147id_/http%3A//www.popularasians.com/forum/misc.php%3Fdo%3Dpage%26template%3DPolicy) for the most accurate reproduction.*
 
-# Popular Asians - Entertainment Destination
+# Popular Asians Entertainment Destination
 
 We recognize that privacy of your personal information is important. We will never sell your personal information to third parties without your solicitation. 
 
