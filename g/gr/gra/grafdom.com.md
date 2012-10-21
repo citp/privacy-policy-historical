@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grafdom.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921111028id_/http%3A//www.grafdom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grafdom.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021114908id_/http%3A//www.grafdom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Grafdom
+# Grafdom Privacy Policy » Grafdom
 
 *Privacy Policy
 
