@@ -1,0 +1,775 @@
+<!--The following is the downloaded HTML source of the shptron.com privacy policy that was archived on 2012-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121021072714id_/http%3A//ecommerce.shopatron.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Privacy Policy | Shopatron eCommerce</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://ec1.shopatron.com/sites/default/files/st2010_favicon.ico" type="image/x-icon">
+<link rel="canonical" href="http://ecommerce.shopatron.com/node/1461">
+<meta name="keywords" content="shopatron,ecommerce,in-store pickup,mobile commerce,mcommerce,online shopping,online store,shopping cart,retail-integrated,order management,customer support,fraud management,coex freedom,ship to store">
+  <link type="text/css" rel="stylesheet" media="all" href="http://ec1.shopatron.com/sites/default/files/css/css_75007400f2cd76162f8868cabb20e669.css">
+  <script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1580624208401"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ec1.shopatron.com/sites/default/files/js/js_6b6a136d3fb00a761d378c46e8af0dc7.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "cdn_pull_url": { "status": "on", "url": "ec1.shopatron.com" }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 1, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 1, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.image-img_assist_custom,img.thumbnail, img.image-thumbnail", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "img.inline", "trigger_lightframe_group_classes": "", "custom_class_handler": "lightbox_ungrouped", "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 1, "flvPlayer": "/sites/all/themes/st2010/mediaplayer/player.swf", "flvFlashvars": "" }, "nice_menus_options": { "delay": "800", "speed": "fast" }, "_basePath": "corporate", "extlink": { "extTarget": "_blank", "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+// shopatron_utilities_insert_js();
+	
+var ShopatronBasepath = {
+	initialize: function() {
+		
+		var validArray = new Array();
+		validArray[0] = "corporate";
+		validArray[1] = "brand";
+		validArray[2] = "fulfillment";
+		validArray[3] = "multi-store";
+		validArray[4] = "login/merchant";
+		validArray[5] = "login/fulfillment";
+		validArray[6] = "affiliates";
+		validArray[7] = "fr";
+		validArray[8] = "de";
+			
+		if ($.cookie("current_basepath") && 
+			$.cookie("default_basepath") == 2) {
+
+			var pathname = window.location.pathname;
+			var href = $.cookie("current_basepath");
+			var anchor = $("#logohead").parent();
+			var isValid = false;
+			
+			$.each(validArray, function(index, value) { 
+  				if (value == href) { 
+  					isValid = true;
+  					return false;
+  				}
+			});
+
+			if (isValid){
+			
+				if (anchor.is("a")) {
+					anchor.attr("href", "/" + href);
+				}
+		
+				if (pathname == "/") {
+						$(window.location).attr("href", "/" + href);
+				}			
+			
+			}
+
+		
+		}
+		
+	}
+}
+
+Drupal.behaviors.initShopatronBasepath = function (context) {
+  $('body:not(.shopatronbasepath-processed)', context).addClass('shopatronbasepath-processed').each(function() {
+    ShopatronBasepath.initialize();
+    return false; // Break the each loop.
+  });
+};
+//--><!]]>
+</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body class="single brands not-front not-logged-in page-node node-type-page one-sidebar sidebar-left  show-grid">
+ <div id="suit">
+  <div id="tie">
+    <div id="head">
+
+      <div id="hat"><a href="/de" id="deutsch" class="hatbutton">Deutsch</a><a href="/fr" id="francais" class="hatbutton">Francais</a>
+<span id="search">
+          
+  	<form action="http://ecommerce2.shopatron.com/s/964/c15ff23efe3585d8ebd203243f0e2cf2" accept-charset="UTF-8" method="get" id="search-theme-form"> 
+	<div>
+		<div class="form-item" id="edit-search-theme-form-1-wrapper"> 
+ 		<label for="edit-search-theme-form-1">Search this site: </label> 
+ 		<input type="text" maxlength="128" name="keywords" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text"> 
+		</div> 
+		<input type="submit" id="edit-submit" value="Search" class="form-submit"> 
+	</div>
+	</form>            </span>
+
+<ul class="nice-menu nice-menu-down" id="nice-menu-18"><li class="menuparent first  odd "><a style="cursor:pointer;" id="login" class="hatbutton">Log In</a>
+<ul> <li class="first odd"><a href="/external-link?url=https://www.shopatron.com/login">Merchant Account</a></li>
+<li class="even"><a href="/external-link?url=https://www.shopatron.com/login">Fulfillment Partner Account</a></li>
+<li class="odd"><a href="/external-link?url=https://www.shopatron.com/account/log_in?e=-1">Customer Account</a></li></ul>
+</li></ul><a href="/corporate/contact-us" id="contact" class="hatbutton">Contact</a>        <div class="clr"></div>
+      </div>
+      <div id="brains"><a href="/"><img src="/themes/st2010/img/logo2011.png" width="380" height="65" id="logohead" alt="Shopatron ecommerce for brands and retailers"></a>
+        <div id="interestdropdown"><span class="phonenumber">1-866-625-5050</span> <span class="interest">Interest:</span>
+      <div id="sectionnav" class="level1">
+      <div id="block-nice_menus-8" class="block block-nice_menus ">
+
+
+  <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-8"><li class="menu-1186 menuparent menu-path-nolink-1186 first  odd  last "><span class="nolink">More About Shopatron</span><ul><li class="menu-1187 menu-path-node-3 first  odd "><a href="/brand" title="">Branded Manufacturer</a></li>
+<li class="menu-1188 menu-path-node-29 even "><a href="/fulfillment" title="">Fulfillment Partner</a></li>
+<li class="menu-1189 menu-path-node-30 odd  last "><a href="/multi-store" title="">Multi-Store Retailer</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="block-block-14" class="block block-block header-social-icons">
+
+
+  <div class="content"><a id="facebook_icon" href="http://www.facebook.com/Shopatron "></a>
+<a id="twitter_icon" href="http://twitter.com/shopatron "></a>
+<a id="linkedin_icon" href="http://www.linkedin.com/company/167689?trk=tyah "></a>
+<a id="rss_icon" href="http://feeds.feedburner.com/shopatron"></a></div>
+</div>
+    </div>
+          </div>
+        <div class="clr"></div>
+
+          <!-- Primary || Superfish -->
+          <div id="superfish">
+            <div id="superfish-inner">
+              <div id="block-nice_menus-10" class="block block-nice_menus ">
+
+
+  <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-10"><li class="menu-1190 menuparent menu-path-node-75 first  odd "><a href="/corporate/company" title="About Shopatron">Company</a><ul><li class="menu-2112 menu-path-node-120 first  odd "><a href="/corporate/management" title="Shopatron Management">Management</a></li>
+<li class="menu-2113 menu-path-node-121 even "><a href="/corporate/company/locations" title="Locations">Locations</a></li>
+<li class="menu-2114 menu-path-node-122 odd  last "><a href="/corporate/company/contact-us" title="Contact us">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-2287 menuparent menu-path-node-128 even "><a href="/corporate/products" title="Products">Products</a><ul><li class="menu-3176 menu-path-node-25-mid-3176 first  odd "><a href="/corporate/products/shopatron-manufacturer" title="Shopatron Manufacturer Online Order Management">Shopatron Manufacturer</a></li>
+<li class="menu-3181 menu-path-node-124-mid-3181 even  last "><a href="/corporate/products/shopatron-retailer" title="Shopatron Retailer">Shopatron Retailer</a></li>
+</ul>
+</li>
+<li class="menu-2208 menuparent menu-path-node-125 odd "><a href="/corporate/solutions" title="Solutions for Every Brand, Large and Small">Solutions</a><ul><li class="menu-2979 menu-path-node-12-mid-2979 first  odd "><a href="/corporate/solutions/online-store" title="Online Store for Brands">Online Store</a></li>
+<li class="menu-6284 menu-path-node-1719-mid-6284 even "><a href="/corporate/solutions/checkout-only" title="Checkout Only">Checkout Only</a></li>
+<li class="menu-7692 menu-path-node-2836-mid-7692 odd "><a href="/corporate/solutions/integration-toolset" title="Shopatron Integration Toolset">Integration Toolset</a></li>
+<li class="menu-2990 menu-path-node-44-mid-2990 even "><a href="/corporate/solutions/mcommerce" title="Mobile-Optimized mCommerce Store">mCommerce</a></li>
+<li class="menu-2983 menu-path-node-123-mid-2983 odd "><a href="/corporate/solutions/international-ecommerce" title="International eCommerce">International eCommerce</a></li>
+<li class="menu-7487 menu-path-node-2038-mid-7487 even "><a href="/corporate/solutions/in-store-pickup" title="In-Store Pickup">In-Store Pickup</a></li>
+<li class="menu-3177 menu-path-node-26-mid-3177 odd "><a href="/corporate/solutions/website-management-system" title="Shopatron Website Management System Management Tools">Shopatron Website Management System</a></li>
+<li class="menu-7477 menuparent menu-path-node-2716 even  last "><a href="/corporate/solutions/editions-pricing" title="Editions &amp; Pricing">Editions &amp; Pricing</a><ul><li class="menu-3128 menu-path-node-18-mid-3128 first  odd "><a href="/corporate/solutions/simple-start" title="Shopatron SimpleStart Edition">SimpleStart</a></li>
+<li class="menu-3129 menu-path-node-19-mid-3129 even "><a href="/corporate/solutions/editions-pricing/professional" title="Shopatron Professional Edition">Professional</a></li>
+<li class="menu-3130 menu-path-node-20-mid-3130 odd  last "><a href="/corporate/solutions/editions-pricing/enterprise" title="Shopatron Enterprise Edition">Enterprise</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-3136 menuparent menu-path-node-4-mid-3136 even "><a href="/corporate/services" title="Services">Services</a><ul><li class="menu-3144 menuparent menu-path-node-32-mid-3144 first  odd "><a href="/corporate/services/online-marketing" title="Online Marketing">Online Marketing</a><ul><li class="menu-3146 menu-path-node-64-mid-3146 first  odd "><a href="/corporate/services/online-marketing/email-marketing" title="Email Marketing">Email Marketing</a></li>
+<li class="menu-3148 menu-path-node-62-mid-3148 even "><a href="/corporate/services/online-marketing/search-engine-marketing" title="Paid Search Engine Marketing (Pay Per Click)">Paid Search Engine Marketing (Pay Per Click)</a></li>
+<li class="menu-3150 menu-path-node-63-mid-3150 odd "><a href="/corporate/services/online-marketing/search-engine-optimization" title="Search Engine Optimization (SEO)">Search Engine Optimization (SEO)</a></li>
+<li class="menu-3152 menu-path-node-61-mid-3152 even "><a href="/corporate/services/online-marketing/social-media-marketing" title="Social Media Marketing">Social Media Marketing</a></li>
+<li class="menu-7392 menu-path-node-2379-mid-7392 odd  last "><a href="/corporate/services/online-marketing/affiliate-program" title="Customized Affiliate Marketing Programs for Shopatron Merchants">Custom Affiliate Programs</a></li>
+</ul>
+</li>
+<li class="menu-3140 menu-path-node-27-mid-3140 even "><a href="/corporate/services/website-design" title="Website Design">Website Design</a></li>
+<li class="menu-3138 menu-path-node-60-mid-3138 odd  last "><a href="/corporate/services/website-development" title="Website Development">Website Development</a></li>
+</ul>
+</li>
+<li class="menu-7480 menuparent menu-path-node-2777 odd "><a href="/corporate/partners" title="Partner Program">Partners</a><ul><li class="menu-7481 menu-path-node-2778 first  odd "><a href="/corporate/partners/solution-partners" title="Shopatron Solution Partners">Solution Partners</a></li>
+<li class="menu-7482 menu-path-node-2779 even "><a href="/corporate/partners/technology-partners" title="Shopatron Technology Partners">Technology Partners</a></li>
+<li class="menu-7693 menu-path-node-2836-mid-7693 odd  last "><a href="/corporate/partners/integration-toolset" title="Shopatron Integration Toolset">Integration Toolset</a></li>
+</ul>
+</li>
+<li class="menu-3153 menuparent menu-path-node-5-mid-3153 even "><a href="/corporate/clients-industries" title="Clients &amp; Industries">Clients &amp; Industries</a><ul><li class="menu-4967 menuparent menu-path-corporate-clients-industries-client-list first  odd "><a href="/corporate/clients-industries/client-list">Client List</a><ul><li class="menu-4917 menu-path-corporate-clients-industries-client-list-all first  odd  last "><a href="/corporate/clients-industries/client-list-all">View All Clients</a></li>
+</ul>
+</li>
+<li class="menu-5556 menu-path-corporate-clients-industries-industry-list even  last "><a href="/corporate/clients-industries/industry-list">Industry List</a></li>
+</ul>
+</li>
+<li class="menu-3172 menuparent menu-path-node-34-mid-3172 odd "><a href="/corporate/news-events" title="News &amp; Events">News &amp; Events</a><ul><li class="menu-3169 menu-path-node-105-mid-3169 first  odd "><a href="/corporate/news-events/in-the-news" title="In The News">In The News</a></li>
+<li class="menu-5579 menu-path-corporate-news-events-press-releases even "><a href="/corporate/news-events/press-releases">Press Releases</a></li>
+<li class="menu-3186 menu-path-node-108-mid-3186 odd "><a href="/corporate/news-events/shopatron-reviews" title="Shopatron Reviews and Testimonials">Shopatron Reviews</a></li>
+<li class="menu-3156 menu-path-node-107-mid-3156 even "><a href="/corporate/news-events/events" title="Shopatron Webinars">Webinars</a></li>
+<li class="menu-7113 menu-path-node-1663-mid-7113 odd "><a href="/corporate/news-events/media-inquiries" title="Media Inquiries">Media Inquiries</a></li>
+<li class="menu-7438 menu-path-corporate-news-events-fulfillment-partners-month even  last "><a href="/corporate/news-events/fulfillment-partners-month">Fulfillment Partners of the Month</a></li>
+</ul>
+</li>
+<li class="menu-3175 menuparent menu-path-node-37-mid-3175 even "><a href="/corporate/resources" title="Resources">Resources</a><ul><li class="menu-3193 menu-path-node-141-mid-3193 first  odd "><a href="/corporate/resources/articles" title="Articles">Articles</a></li>
+<li class="menu-7333 menu-path-corporate-resources-blog even "><a href="/corporate/resources/blog">Blog</a></li>
+<li class="menu-3161 menuparent menu-path-node-40-mid-3161 odd "><a href="/corporate/resources/downloads" title="Downloads">Downloads</a><ul><li class="menu-3198 menu-path-node-144-mid-3198 first  odd "><a href="/corporate/resources/downloads/case-studies" title="Case Studies">Case Studies</a></li>
+<li class="menu-3196 menu-path-node-143-mid-3196 even "><a href="/corporate/resources/downloads/product-info" title="Product Information">Product Information</a></li>
+<li class="menu-3194 menu-path-node-142-mid-3194 odd "><a href="/corporate/resources/downloads/whitepapers" title="Whitepapers">Whitepapers</a></li>
+<li class="menu-7311 menu-path-node-2165-mid-7311 even  last "><a href="/corporate/resources/downloads/newsletters" title="PATH Newsletters">PATH Newsletters</a></li>
+</ul>
+</li>
+<li class="menu-7246 menu-path-node-2045-mid-7246 even "><a href="/corporate/resources/videos" title="New Video Library">Videos</a></li>
+<li class="menu-4268 menu-path-node-107-mid-4268 odd "><a href="/corporate/resources/webinars" title="Shopatron Webinars">Webinars</a></li>
+<li class="menu-7210 menu-path-ecommerce2shopatroncom-l-964-2009-09-03-ETVVB even  last "><a href="http://ecommerce2.shopatron.com/l/964/2009-09-03/ETVVB" target="_blank">Success Pack</a></li>
+</ul>
+</li>
+<li class="menu-2292 menu-path-jobsshopatroncom odd  last "><a href="http://jobs.shopatron.com">Careers</a></li>
+</ul>
+</div>
+</div>
+            </div> <!-- / inner -->
+          </div> <!-- /primary || superfish -->
+                 <div class="clr"></div>
+      </div>
+      <div id="wallet">
+        <div id="paper">
+                   </div>
+
+
+        <div id="maincontent">
+
+                  <h1 class="singlepage-title" id="page-title">Privacy Policy</h1>
+      
+          <div class="leftsection">
+
+
+              <div class="leftblox">
+    <div id="sidebar-left" class="column sidebar region grid-4 pull-12">
+      <div id="block-block-2" class="block block-block ">
+
+
+  <div class="content"><div class="leftblox">
+	<h2>Shopatron PATH Newsletter</h2>
+	<p>Enter email address to subscribe</p>
+	<form action="http://ecommerce2.shopatron.com/l/964/2010-09-30/O53BH" id="marketinginsight" method="post"><input class="searchfield1" id="Emailpi_Email" name="Email"><input accesskey="s" src="http://ec1.shopatron.com/sites/all/js/dropdown/gfx/selectarrow-right.png" type="image" value="Submit">&nbsp;</form>
+</div>
+<div style="position:absolute; left:-9999px; top: -9999px;">
+<label for="pardot_extra_field">Comments</label>
+<input type="text" id="pardot_extra_field" name="pardot_extra_field">
+</div></div>
+</div>
+<div id="block-views-brand_rotation2-block_1" class="block block-views ">
+
+
+  <div class="content"><div class="view view-brand-rotation2 view-id-brand_rotation2 view-display-id-block_1 brand-rotate view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <script type="text/javascript">
+    $(function() { 
+    	var randomObj = {"nodes":[{"node":{"path":"\/corporate\/clients-industries\/brands\/flex-lite-consolidated","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/Flex-a-Lite%20Consolidated.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/markwort-sporting-goods","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/markwort_logo.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/halo-usa","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/logo_main_12730_HaloUSA.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/vigor","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/logo_main_9303_Vigor.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/ruby-reef","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/rubyreef_logo.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/muzzy-products","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/Muzzy%20Products%20Corp..jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/anomaly-action-sports","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/anomoly_logo.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/color-my-bath","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/logo_main_10387_new2.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/jill-eaton","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/jillnew.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/phoenix-performance-products","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/Phoenix%20Performance%20Products.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/harmony","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/harmony.gif"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/vitecgroup-italia-spa","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/viteclogo.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/bluewater-ropes","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/bluewater-logo.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/naturalmat","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/Naturalmat1-e1295641878753.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/etonic-worldwide","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/Etonic%20Worldwide_0.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/wine-doctor","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/Wine%20Doc.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/regal-lager","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/regallagerlogo.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/jim-dunlop-uk","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/Jim%20Dunlop%20UK.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/urshuz","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/urshuzlogo.jpg"}},{"node":{"path":"\/corporate\/clients-industries\/brands\/bg-suspension","field_logo_fid":"http:\/\/ecommerce.shopatron.com\/sites\/default\/files\/imagecache\/sidebar_thumb\/bgsuspensionlogo.png"}}]};
+    	var randomInt = Math.floor(Math.random()*($(randomObj.nodes).length + 1));
+    	if (randomObj.nodes[randomInt]) {
+			var path = randomObj.nodes[randomInt].node.path;
+    		var img = randomObj.nodes[randomInt].node.field_logo_fid; 
+    		var random_brand = '<div class="views-field-field-logo-fid view-brand-rotation2"><a href="' + path +  '" class="brandurl"><img src="' + img +  '" /></a><div class="viewall"><a href="/' + Drupal.settings._basePath +  '/clients-industries/client-list-all">View all clients</a></div></div>';
+    		$("#block-views-brand_rotation2-block_1, #block-views-brand_rotation2-block_2").html(random_brand);
+    	}
+    });    	
+    </script>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+    </div>
+            </div>
+  
+          </div>
+
+                          <div class="pagecontent"> 
+                    <div class="clr"></div>
+              
+<div id="node-1461" class="node">
+
+
+
+  
+  
+  <div class="content clear-block">
+    <p><strong>Information We Collect</strong><br>
+The Shopatron service collects information about the use of the service to provide a secure and personalized experience. This includes the customer's name, purchasing records, and shopping patterns.</p>
+
+<p>We may collect information when you: (a) place an order via the Shopatron service; (b) send email messages or other information to us.</p>
+
+<p><strong>Cookies</strong><br>
+Like many other websites, Shopatron uses a standard technology called "cookies." Cookies are small pieces of information that are stored on your hard drive and not on our site. They can help make your Internet experience quicker and more convenient. Cookies let you keep shopping cart information independent from our servers. They help us understand how customers use our service, which allows us to improve and tailor the service. You will not be able to use the Shopatron service if you disable cookies.</p>
+
+<p><strong>Disclosure of Information</strong><br>
+We do not sell, rent, or loan your information to third parties without your permission. So, for example, we do not sell your email address or other information to mass marketers. Members of the Shopatron network (manufacturers and merchant shippers) will be allowed to contact you with special offers and information related to products you have bought or shopped for on the Shopatron network.</p>
+
+<p><strong>Privacy Protection for Children</strong><br>
+In compliance with the Children's Online Privacy Protection Act (COPPA), we do not knowingly provide our service to persons under the age of 18.</p>
+
+<p><strong>Security Procedures</strong><br>
+The Shopatron service has built-in security measures to protect your information from loss, misuse, and alteration. We use industry-standard practices, such as encrypted storage and password protection systems, to safeguard the confidentiality of information.</p>
+
+<p><strong>Security Standards</strong><br>
+Our secure server software (SSL) is the industry standard and is among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that the information cannot be read as it travels over the Internet.</p>
+
+<p>We do not accept credit card numbers delivered by email. You should never send credit card information by email, as it is not secure.</p>
+
+<p>Shopatron is a convenient shopping service for consumers. Our focus on effective security benefits customers by reducing fraud and improving the overall level of service.</p>
+
+<p><strong>GeoTrust Security</strong><br>
+Shopatron uses industry-standard GeoTrust security to ensure that manufacturers, consumers, and retailers can connect, communicate, and transact with confidence.</p>
+
+<p><strong>Contact Us</strong><br>
+If you would like to learn more about our privacy policy, contact us at <a href="mailto:support@shopatron.com">support@shopatron.com</a>. We reserve the right to modify this policy in the future.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+<div id="block-block-4" class="block block-block ">
+
+
+  <div class="content"><table class="chat-signup"><tbody><tr><td>
+<div id="click-to-chat"></div></td><td>
+<div class="signup-button"><a href="/corporate/solutions/editions-pricing"></a></div></td></tr></tbody></table></div>
+</div>
+<div id="block-block-19" class="block block-block ">
+
+
+  <div class="content"><script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+<script type="text/javascript">
+    new HelloBar(32784,66186);
+</script>
+</div>
+</div>
+       
+  
+          
+          </div>
+         <div class="clr"></div></div>
+
+
+
+        <div id="belt">
+          <div class="container_12">
+            <div class="grid_7 prefix_1">
+              <div class="grid_3 alpha topb">
+            <div class="footleft">
+    <div id="foot-left" class="foot-left">
+      <div id="block-views-recent_press_releases-block_1" class="block block-views ">
+
+  <h2>Press Releases</h2>
+
+  <div class="content"><div class="view view-recent-press-releases view-id-recent_press_releases view-display-id-block_1 pr view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <span class="views-field-title">
+                <span class="field-content"><a href="/corporate/news-events/press-release/kameleon-jewelry-%E2%80%98pops%E2%80%99-shopatron" class="prblock">Kameleon Jewelry ‘Pops’ with Shopatron</a></span>
+  </span>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <span class="views-field-title">
+                <span class="field-content"><a href="/corporate/news-events/press-release/intermix-enhances-ecommerce-experience-shopatron" class="prblock">Intermix Enhances eCommerce Experience with Shopatron</a></span>
+  </span>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <span class="views-field-title">
+                <span class="field-content"><a href="/corporate/news-events/press-release/juvenile-brands-shopatron-see-sales-accelerate-holiday-season" class="prblock">Juvenile Brands on Shopatron See Sales Accelerate into the Holiday Season</a></span>
+  </span>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <span class="views-field-title">
+                <span class="field-content"><a href="/corporate/news-events/press-release/hendrix-outdoors-launches-new-adamsbuilt-fishing-brand-shopatron" class="prblock">Hendrix Outdoors Launches New Adamsbuilt Fishing Brand with Shopatron</a></span>
+  </span>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <span class="views-field-title">
+                <span class="field-content"><a href="/corporate/news-events/press-release/inc-confirms-shopatron-one-fastest-growing-ecommerce-companies-2012" class="prblock">Inc. Confirms Shopatron as One of the Fastest-Growing eCommerce Companies in 2012</a></span>
+  </span>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="more-link">
+  <a href="/corporate/news-events/press-releases">
+    more  </a>
+</div>    </div>
+  
+  
+</div> </div>
+</div>
+    </div>
+    </div>
+  
+              </div>
+              <div class="grid_4 omega topb">
+                         <div class="footcenter">
+    <div id="foot-center" class="foot-center">
+      <div id="block-views-tweets-block" class="block block-views ">
+
+  <h2>Shopatron News Feed</h2>
+
+  <div class="content"><div class="view view-tweets view-id-tweets view-display-id-block view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field-text">
+                <span class="field-content">Whether you are a header, heeler, calf roper, novice, or professional, we’ve got the perfect rope. Just launched: <a href="http://t.co/BLBz2SfW" title="http://t.co/BLBz2SfW">http://t.co/BLBz2SfW</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field-text">
+                <span class="field-content">The gear you need to get that great shot. Just launched: <a href="http://t.co/BLBz2SfW" title="http://t.co/BLBz2SfW">http://t.co/BLBz2SfW</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field-text">
+                <span class="field-content">When it comes to great camera equipment, it’s the little things that matter. Just launched: <a href="http://t.co/CXWI7Yrq" title="http://t.co/CXWI7Yrq">http://t.co/CXWI7Yrq</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field-text">
+                <span class="field-content">When your boarding credo is “I’m going to live life as hard as I possibly can!” we’ve got your stuff. Just launched: <a href="http://t.co/1MaX9HtT" title="http://t.co/1MaX9HtT">http://t.co/1MaX9HtT</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field-text">
+                <span class="field-content">Now is zee time on Sprockets vhen vee ride. Just launched: <a href="http://t.co/26zytlmS" title="http://t.co/26zytlmS">http://t.co/26zytlmS</a></span>
+  </span>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/user/1/tweets">
+    more  </a>
+</div>
+  
+  
+  
+</div> </div>
+</div>
+    </div>
+    </div>
+                </div>
+            </div>
+            <div class="grid_4 topb">
+              <div class="lookupindustry">
+        <div id="sidebar-right" class="industrydropper">
+      <div id="block-views-industry_drop_2-block_1" class="block block-views ">
+
+
+  <div class="content"><div class="view view-industry-drop-2 view-id-industry_drop_2 view-display-id-block_1 view-dom-id-7">
+        <div class="view-header">
+      <h2>Shopatron supports over 40 industries:</h2>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <form action="/privacy-policy" accept-charset="UTF-8" method="post" id="ctools-jump-menu">
+<div><div class="container-inline"><div class="form-item" id="edit-jump-wrapper">
+ <select name="jump" class="form-select ctools-jump-menu-select ctools-jump-menu-change" id="edit-jump"><option value="" selected="selected">- Check out your industry -</option><option value="/corporate/clients-industries/industry/action-sports">  
+  
+                Action Sports
+  
+</option><option value="/corporate/clients-industries/industry/apparel-and-accessories">  
+  
+                Apparel and Accessories
+  
+</option><option value="/corporate/clients-industries/industry/archery">  
+  
+                Archery
+  
+</option><option value="/corporate/clients-industries/industry/arts-and-crafts">  
+  
+                Arts and Crafts
+  
+</option><option value="/corporate/clients-industries/industry/automotive-aftermarket">  
+  
+                Automotive Aftermarket
+  
+</option><option value="/corporate/clients-industries/industry/camping-and-hiking">  
+  
+                Camping and Hiking
+  
+</option><option value="/corporate/clients-industries/industry/car-audio">  
+  
+                Car Audio
+  
+</option><option value="/corporate/clients-industries/industry/consumer-electronics">  
+  
+                Consumer Electronics
+  
+</option><option value="/corporate/clients-industries/industry/cycling">  
+  
+                Cycling
+  
+</option><option value="/corporate/clients-industries/industry/dollplush-toy">  
+  
+                Doll/Plush Toy
+  
+</option><option value="/corporate/clients-industries/industry/educational">  
+  
+                Educational
+  
+</option><option value="/corporate/clients-industries/industry/equestrian">  
+  
+                Equestrian
+  
+</option><option value="/corporate/clients-industries/industry/fishing">  
+  
+                Fishing
+  
+</option><option value="/corporate/clients-industries/industry/fitness-and-health">  
+  
+                Fitness and Health
+  
+</option><option value="/corporate/clients-industries/industry/footwear">  
+  
+                Footwear
+  
+</option><option value="/corporate/clients-industries/industry/garden-and-patio">  
+  
+                Garden and Patio
+  
+</option><option value="/corporate/clients-industries/industry/gift-and-novelty">  
+  
+                Gift and Novelty
+  
+</option><option value="/corporate/clients-industries/industry/golf">  
+  
+                Golf
+  
+</option><option value="/corporate/clients-industries/industry/hardware-and-tools">  
+  
+                Hardware and Tools
+  
+</option><option value="/corporate/clients-industries/industry/health-and-personal-care">  
+  
+                Health and Personal Care
+  
+</option><option value="/corporate/clients-industries/industry/housewares">  
+  
+                Housewares
+  
+</option><option value="/corporate/clients-industries/industry/hunting">  
+  
+                Hunting
+  
+</option><option value="/corporate/clients-industries/industry/juvenile">  
+  
+                Juvenile
+  
+</option><option value="/corporate/clients-industries/industry/marine">  
+  
+                Marine
+  
+</option><option value="/corporate/clients-industries/industry/model-and-hobby">  
+  
+                Model and Hobby
+  
+</option><option value="/corporate/clients-industries/industry/music">  
+  
+                Music
+  
+</option><option value="/corporate/clients-industries/industry/needlearts">  
+  
+                Needlearts
+  
+</option><option value="/corporate/clients-industries/industry/optics">  
+  
+                Optics
+  
+</option><option value="/corporate/clients-industries/industry/pet">  
+  
+                Pet
+  
+</option><option value="/corporate/clients-industries/industry/photography">  
+  
+                Photography
+  
+</option><option value="/corporate/clients-industries/industry/powersports">  
+  
+                Powersports
+  
+</option><option value="/corporate/clients-industries/industry/running">  
+  
+                Running
+  
+</option><option value="/corporate/clients-industries/industry/skate-and-slate">  
+  
+                Skate and Slate
+  
+</option><option value="/corporate/clients-industries/industry/snowsports">  
+  
+                Snowsports
+  
+</option><option value="/corporate/clients-industries/industry/sporting-goods">  
+  
+                Sporting Goods
+  
+</option><option value="/corporate/clients-industries/industry/toy">  
+  
+                Toy
+  
+</option><option value="/corporate/clients-industries/industry/watersports">  
+  
+                Watersports
+  
+</option></select>
+</div>
+<input type="submit" name="op" id="edit-go" value="Go" class="form-submit ctools-jump-menu-button ctools-jump-menu-hide">
+</div><input type="hidden" name="form_build_id" id="form-90a050cef8926c81cadfca4d1fd0932f" value="form-90a050cef8926c81cadfca4d1fd0932f">
+<input type="hidden" name="form_id" id="edit-ctools-jump-menu" value="ctools_jump_menu">
+
+</div></form>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+    </div>
+  <div class="clr"></div>
+              </div>
+               <div class="beltlistright">
+                         <div class="footright">
+    <div id="foot-right" class="foot-right">
+      <div id="block-views-event_listing-block_1" class="block block-views ">
+
+
+  <div class="content"><div class="view view-event-listing view-id-event_listing view-display-id-block_1 view-dom-id-6">
+        <div class="view-header">
+      <br>
+<h2>On-Demand Webinars </h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-webinar-url-value">
+                <span class="field-content"><a href="http://ecommerce2.shopatron.com/google-shopping" class="block-webinar-watchnow">Google's Major Shopping Changes: What You Need to Know</a>
+<br class="clear"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-webinar-url-value">
+                <span class="field-content"><a href="http://ecommerce2.shopatron.com/order-management" class="block-webinar-watchnow">The Future of Distributed Order Management</a>
+<br class="clear"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field-field-webinar-url-value">
+                <span class="field-content"><a href="http://ecommerce2.shopatron.com/designing-conversion" class="block-webinar-watchnow">Designing for Engagement and Conversion</a>
+<br class="clear"></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news-events/event-list">
+    more  </a>
+</div>
+  
+  
+  
+</div> </div>
+</div>
+    </div>
+    </div>
+              </div>
+ </div>
+
+
+
+          <div class="container_12 footer">
+          <div class="insidefooter">
+        <div id="block-block-3" class="block block-block ">
+
+
+  <div class="content">Call us at: 1.866.625.5050 <a href="/sitemap">Sitemap</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/corporate/contact-us">Contact</a> | <a href="/corporate/news-events/shopatron-reviews">Shopatron Reviews</a> | <a href="http://ecommerce.shopatron.com/corporate/resources/blog">Blog</a>  | <a href="http://jobs.shopatron.com">Careers</a>  
+              <div class="topb copyright"> Copyright © 2004-2012 Shopatron, Inc. Aspects of the Shopatron network are patented, patent-pending, or patent-applied-for.</div>
+
+<script type="text/javascript">
+adroll_adv_id = "U4NSXCQHIBHJ7HKKPT77B3";
+adroll_pix_id = "2O7YNFW5GBBIHCI5HPIRXW";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script></div>
+</div>
+      </div>
+    
+              </div>
+
+
+
+
+         <div class="clr"></div></div>
+        <!-- end belt -->
+        <div class="clr"></div>
+      </div>
+      <!-- end wallet -->
+      
+
+    </div>
+  </div>
+</div>
+</div>
+
+      <div id="lowershadow"></div>
+
+  <div id="footer" class="prefix-1 suffix-1">
+
+  </div>
+
+
+  
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2054068-1"]);if(typeof(_vis_opt_GA_track) == "function") { _vis_opt_GA_track(); }_gaq.push(["_trackPageview"]);_gaq.push(['_setLocalRemoteServerMode'], ['_setDomainName', '.shopatron.com'], ['_setLocalGifPath', '/img/__utm.gif'], ['_setAllowLinker', true]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+<script type="text/javascript">
+	var piProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+	document.write(unescape("%3Cscript src='" + piProtocol + "pi.pardot.com/pi.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://pi.pardot.com/pi.js" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	piAId = "1964";
+	piCId = "25824";
+	piHostname = "pi.pardot.com";
+	piTracker();
+	-->
+</script><!-- begin olark code --> <script type="text/javascript">/*{literal}<![CDATA[*/ window.olark||(function(k){var g=window,j=document,a=g.location.protocol=="https:"?"https:":"http:",i=k.name,b="load",h="addEventListener";(function(){g[i]=function(){(c.s=c.s||[]).push(arguments)};var c=g[i]._={},f=k.methods.length;while(f--){(function(l){g[i][l]=function(){g[i]("call",l,arguments)}})(k.methods[f])}c.l=k.loader;c.i=arguments.callee;c.p={0:+new Date};c.P=function(l){c.p[l]=new Date-c.p[0]};function e(){c.P(b);g[i](b)}g[h]?g[h](b,e,false):g.attachEvent("on"+b,e);c.P(1);var d=j.createElement("script"),m=document.getElementsByTagName("script")[0];d.type="text/javascript";d.async=true;d.src=a+"//"+c.l;m.parentNode.insertBefore(d,m);c.P(2)})()})({loader:(function(a){return "static.olark.com/jsclient/loader1.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]}); olark.identify('3682-282-10-6280');/*]]>{/literal}*/</script> <!-- end olark code --><script type="text/javascript">olark('api.chat.onOperatorsAway', function() { olark('api.box.hide'); $("#click-to-chat").hide(); }); olark("api.chat.onOperatorsAvailable",function(){ $("#click-to-chat").show(); }); $("#click-to-chat").click(function() { olark("api.box.expand"); });</script>
+
+<!-- Page cached by Boost @ 2012-10-20 23:14:57, expires @ 2012-10-21 00:14:57 -->
+</body></html>
