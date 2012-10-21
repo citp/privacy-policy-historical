@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623003905id_/http%3A//www.cardhub.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021121139id_/http%3A//www.cardhub.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy at CardHub.com
 
@@ -122,5 +122,5 @@ Because we want to demonstrate our commitment to your privacy, we have agreed to
 Evolution Finance Inc.
 
 Attn: Customer Care — Privacy  
-1530 Key Blvd. #1315  
-Arlington, VA 22209
+818 18th Street, N.W.  
+Washington, DC 20006
