@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squareberry.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042059id_/http%3A//squareberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squareberry.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021141920id_/http%3A//squareberry.com/privacy-policy) for the most accurate reproduction.*
 
-# Squareberry | Privacy Policy
+# Mobile and Social Marketing Platform | Privacy Policy
 
 Last updated January 1, 2011  
 
@@ -31,7 +31,7 @@ Part of the service involves sharing your use of the service with your friends i
 
 
 **Affiliates**  
-We have no 3rd party affiliations at this time.  
+Force 5, Inc.  
 
 
 **Third Party Advertising**  
