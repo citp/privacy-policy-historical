@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508071953id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021170529id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Macgo Blu-ray player Privacy Policy
 
@@ -77,8 +77,7 @@ If we make material changes to this Policy, we will notify you here, by email, o
 
 Contacting Our Site
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at: [webmaster@macblurayplayer.com](mailto:webmaster@macblurayplayer.com)
 
-Macgo  
-Revised: 06/02/2011   
-Copyright © 2010-2011 Macgo Inc. All Rights Reserved.
+Macgo INTERNATIONAL LIMITED  
+Copyright © 2011-2012 Macgo INTERNATIONAL LTD. All Rights Reserved.
