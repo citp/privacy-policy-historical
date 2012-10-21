@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508104651id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021042602id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement — EUbusiness - legal, business and economic news from Europe and the EU
+# Privacy Statement — EUbusiness.com - EU Business News
+
+**Privacy policy updated 2012:**  
+In line with[ EU Directive 2002/58 on Privacy and Electronic Communications](http://www.eubusiness.com/topics/internet/e-privacy-directive), known as the E-Privacy Directive, we have updated this policy with new information on the cookies this website collects and uses.
 
   * [Information Collection and Use](http://www.eubusiness.com/privacy/privacy-statement#1)
   * [Registration](http://www.eubusiness.com/privacy/privacy-statement#2)
@@ -27,7 +30,18 @@ In order to receive our email alerts, users have to complete a registration form
 We request information from users on our order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiry date). This information is used for billing purposes and to fulfill customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
 **Cookies**  
-A cookie is a small text file written to a user's hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
+We use cookies to make this website as useful as possible. Cookies are small text files we put in your browser to track usage of our site, but they don't tell us who you are. 
+
+Once you close your browser, the cookie simply terminates. We use cookies so that we can personalise your experience of the website. If you set up your browser to reject the cookie, you will still be able to use the Website. Some of our business partners use cookies on our site (for example, advertisers). Please note we have no access to or control over these cookies.
+
+Most big websites or internet service providers use cookies, for example to help the site remember your settings such as language, font size and other preferences for how you want to view the site on your computer. The benefit is that you don't have to keep re-entering these details every time you come back to us.
+
+A cookie is a small text file written to your hard drive that contains information about you. Once you close your browser, the cookie simply terminates. We use cookies so that we can personalise your experience of the Website. If you set up your browser to reject the cookie, you may still use the Website.
+
+**Can I reject cookies?**  
+If you are worried about cookies, and you want to restrict or block the cookies which are set by the EUbusiness.com website, you can do this through your browser settings. The Help function within your browser should tell you how. 
+
+However, please be aware that restricting cookies will have an impact on the functionality of the website and the quality of your user experience.
 
 **Advertising**  
 EUbusiness runs advertising for a wide variety of organisations. We use third-party ad servers to serve ads when you visit our website. These companies may use information (NOT including your name, address, email address, or telephone number) about your visits to this website in order to provide advertisements about goods and services of interest to you. Third-party ad servers include Google. These ad servers may attempt to set cookies (see above) on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of ad delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
