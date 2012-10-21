@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616051958id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021130443id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Find top finance and consulting jobs on Doostang
 
