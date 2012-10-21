@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcginc.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515042102id_/http%3A//www.gcginc.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcginc.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021035759id_/http%3A//www.gcginc.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # GCG - Privacy Policy
 
@@ -64,4 +64,4 @@ If you do not wish to receive further e-mails from us, you may unsubscribe by co
 
 III. QUESTIONS?
 
-Any questions that you may have regarding this Privacy Policy may be directed to Dan Lane, Vice President, Quality Assurance, at daniel.lane@gcginc.com or Susan Puz, Senior. Assistant General Counsel, at susan.puz@gcginc.com. © 2010 GCG. All rights reserved.
+Any questions that you may have regarding this Privacy Policy may be directed to Dan Lane, Vice President, Quality Assurance, at daniel.lane@gcginc.com or Stacey Fishbein, Associate General Counsel, at stacey.fishbein@gcginc.com. © 2010 GCG. All rights reserved.
