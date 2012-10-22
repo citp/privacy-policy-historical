@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sangeethouse.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005600id_/http%3A//www.sangeethouse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangeethouse.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022053200id_/http%3A//www.sangeethouse.com/privacy.php) for the most accurate reproduction.*
 
-# Dishant.com - Home of Indian Music - Privacy Policy
+# Sangeethouse.com - Home of Indian Music - Privacy Policy
 
   
-**Privacy Statement for Dishant.Com**
+**Privacy Statement for Sangeethouse.Com**
 
-Dishant.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Dishant.com
+Sangeethouse.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Sangeethouse.com
 
 **Information Automatically Logged**
 
@@ -20,7 +20,7 @@ Third Party Cookies In the course of serving advertisements to this site, our th
 
 **Personal Information**
 
-The personal information you provide to us viz. name, email address, etc. allows us to inform you about updates to the service and to notify you of products and services of Dishant.com. We also share aggregate of these information, not individual data, with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service.
+The personal information you provide to us viz. name, email address, etc. allows us to inform you about updates to the service and to notify you of products and services of Sangeethouse.com. We also share aggregate of these information, not individual data, with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service.
 
 We do not share, sell or use any of the identifiable personal information to any third parties under any circumstances unless we are required to do so by law.
 
@@ -30,4 +30,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using [this link](https://web.archive.org/web/20071229005600id_/http%3A//www.sangeethouse.com/contactus.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using [this link](https://web.archive.org/web/20121022053200id_/http%3A//www.sangeethouse.com/contactus.php)
