@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504075111id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022023120id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # AchooAllergy.com Privacy Policy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.achooallergy.com&sealid=101)AchooAllery.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  
 If you have questions or concerns regarding this statement, you should first contact Customer Service at 1-800-338-7123. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://watchdog.truste.com/pvr.php?page=complaint)  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 AchooAllergy.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting AchooAllergy.com, you are accepting the practices described in our Privacy Policy.
@@ -30,13 +29,17 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 To sign up for our newsletter, visit AchooAllergy.com and fill in the [ email signup form](http://www.achooallergy.com/allergy-consumer-report.asp).
 
-**What About Cookies?  
+**What About Tracking Technologies?  
 **  
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide customized features and storage of items in your Shopping Cart between visits. 
 
 AchooAllergy.com does not collect any personal information via tracking technologies. Usage of cookies are in no way linked to any personally identifiable information on our site.
 
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
 **Tell-A-Friend**
 
@@ -105,4 +108,4 @@ Atlanta, GA 30341
 1-800-339-7123  
 info@achooallergy.com
 
-**Privacy Policy Last Updated on: 07/18/2011**
+**Privacy Policy Last Updated on: 09/18/2012**
