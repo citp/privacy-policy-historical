@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516023523id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022140142id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
 
 # Flowdock | Privacy Policy
 
