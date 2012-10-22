@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeaway.ca privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511205714id_/http%3A//www.homeaway.ca/info/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeaway.ca privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022020301id_/http%3A//www.homeaway.ca/info/about-us/legal/privacy) for the most accurate reproduction.*
 
-# Homeaway.CA Vacation Rentals:
+# Privacy Policy | Homeaway.CA Vacation Rentals
 
 We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to HomeAway.com, VRBO.com, VacationRentals.com and any other websites where this policy is linked to in the footer of the page (which we have collectively called the “Site” in this policy).
 
