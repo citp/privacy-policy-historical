@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605045219id_/http%3A//spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D68671) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022075808id_/http%3A//www.spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D68671) for the most accurate reproduction.*
 
-# Privacy | Spice Video On Demand
+# Privacidade | Spice Video On Demand
 
 **AEBN Privacy Policy**
 
