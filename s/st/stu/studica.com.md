@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626184121id_/http%3A//www.studica.com/us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022204409id_/http%3A//www.studica.com/us/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Academic Software Discounts for Students Teachers Fac
 
