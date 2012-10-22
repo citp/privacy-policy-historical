@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloytv.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017030012id_/http%3A//alloytv.com/privacy/%3Bjsessionid%3D6B0DD387DBBEE98DB1B6337A964C201A.node1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloytv.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022151603id_/http%3A//www.alloytv.com/privacy) for the most accurate reproduction.*
 
 # TEEN - alloytv
 
