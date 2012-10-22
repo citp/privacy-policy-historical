@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504042901id_/http%3A//www.gradwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022215639id_/http%3A//www.gradwell.com/privacy) for the most accurate reproduction.*
 
 # Gradwell | Privacy Policy
 
@@ -24,7 +24,8 @@ The list of relevant sub-contractors includes:
   * JuniperBridge Limited - Customer Support (UK)
   * Provu Limited - Logistics & Dispatch (UK)
   * Netlynk Group Limited - Logistics & Dispatch (UK)
-  * Optimum Contact Limited – Customer surveying (UK)  
+  * Optimum Contact Limited – Customer surveying (UK)
+  * Rag Doll - Research and Planning (UK)  
  
 
 
@@ -73,5 +74,11 @@ Back to top
 #### 6 Feedback
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via our Feedback page.
+
+Back to top
+
+#### 7 Cookie Policy
+
+Our [Cookie Policy](http://gradwell.com/cookiepolicy) forms part of this [Privacy Policy](http://gradwell.com/privacy) as well as our [general terms.](http://ttp//www.gradwell.com/tandcs)
 
 Back to top
