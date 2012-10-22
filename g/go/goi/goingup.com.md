@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goingup.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507234321id_/http%3A//www.goingup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingup.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022145312id_/http%3A//www.goingup.com/privacy.html) for the most accurate reproduction.*
 
-# FREE Web Stats and Analytics, Page Rank, SEO Optimization, Website Tools and Search Engine Marketing - Are you GoingUp?
+# Free Web Stats, Analytics, SEO, Live Chat and More!
 
 ## GoingUp! Privacy Policy
 
