@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the spn.sr privacy policy that was archived on 2012-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608000129id_/https%3A//virurl.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spn.sr privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022162539id_/https%3A//virurl.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<meta name="description" content="VIRURL is a real-time advertising platform for the social web. We enable businesses to leverage the social graph of users to quickly spread information about their product.">
 	<meta name="keywords" content="real-time, advertising, social web">
 	<meta property="fb:app_id" content="148930248465202">
-	
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/125241658.js"></script>
+
 	<title>Privacy Policy | VIRURL</title>
 
 	
-	<link rel="stylesheet" type="text/css" href="/css/compressed.css?4d3565c46bdc0cfee622f75295172cd0">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/compressed.css?18de036634a71a786f58f85628a050d1">
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
 	
-	<script type="text/javascript" src="/js/base/general.js?970a7a1324b6c7ff2ce84dc2b5a3fb2f"></script>
+	<script type="text/javascript" src="/js/base/general.js?445e720bcf1d35dfc3817a2664333906"></script>
 	<script type="text/javascript" src="/js/vendors/detect_timezone.js?12f6ba68823f6e345e4805f34db27573"></script>
 
 	<!--[if IE]>
@@ -38,11 +39,12 @@
 			}
 		});
 	</script>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=22679&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120608000129id_%2Fhttps%253A%2F%2Fvirurl.com%2Fpages%2Fprivacy&amp;r=0.5329938257876536" type="text/javascript"></script></head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body id="default_body">
+<body id="default_body"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 	
 	<div id="fb-root" class="displayNone"></div>
+
 <script type="text/javascript">
 	// function for initializing facebook api asynchronously
 	window.fbAsyncInit = function() {
@@ -57,62 +59,24 @@
 			appId: "148930248465202",
 			cookie: true,
 			xfbml: true,
-			status: false,
+			status: true,
 			oauth: true,
 			logging: false,
 		});
 
 		// adds login capabilities to facebook button click
 		// Note: previous check (if user was already connected) was eliminated to enforce approval of new permissions
+		/*
 		$('#mp_facebook_login_btn', '.jquery_context').click(function(event) {
 			event.preventDefault();
 			FB.login(function(response) {
 				if (response.status == 'connected' && response.authResponse != null) {
-					// if this call does not happen in 'connect_with_fb' action, then redirects
-					if (window.location.pathname != '/users/connect_with_fb') {
-						window.location.href = "https://virurl.com/" + redirectURL;
-					}
-					// otherwise, does an Ajax call
-					else {
-						// 1. 'Replaces' page contents with a loading/waiting animation
-						// fades out old contents
-						$('div#container_connect_with_fb').fadeOut('slow', function() {
-							// prepends new html
-							$('div#content_box').prepend("<div id='container_connect_with_fb_loader' \
-								style='display:none;text-align:center;margin-top:80px;'><h1 style='color:#B7B7B7;'>\
-								Your account is being updated. This will take a few seconds...</h1>\
-								<img src='/img/designs/general/loader_big.gif' alt='Merging Accounts' \
-								style='margin:0 auto;padding:10px;' /></div>");
-							// fades in new html
-							$('div#container_connect_with_fb_loader').fadeIn('fast', function() {
-
-								// 2. Calls action via Ajax
-								$.ajaxSetup({timeout: 60000}); // sets a timeout of 60 seconds
-								$.post('/users/merge_accounts', null, function(data) {
-									$('div#container_connect_with_fb_loader').remove(); // removes loader
-									if (data == true) {
-										// transitions into success message
-										$('div#container_connect_with_fb').html("<div class='message_success' \
-											id='flashMessage'>Your account has been successfully updated. \
-											<a href='/users/facebook_login'>Go to your account.</a></div>");
-									} else {
-										// transitions into error message
-										$('div#container_connect_with_fb > h2').remove();
-										$('div#container_connect_with_fb > p').remove();
-										$('div#container_connect_with_fb > .message_alert').remove();
-										$('div#container_connect_with_fb').prepend("<div class='message_alert' \
-											id='flashMessage'>An error occured while we were updating your \
-											account. Please try again.</div>");
-									}
-									$('div#container_connect_with_fb').fadeIn();
-								});
-								$.ajaxSetup({timeout: null}); // reverts the timeout
-							});
-						});
-					}
+					// redirects
+					window.location.href = "https://virurl.com/" + redirectURL;
 				}
-			}, {scope:'email,user_birthday,user_location,user_likes,user_activities,user_interests,publish_stream,offline_access'});
+			}, {scope:'email,user_birthday,user_location,user_likes,user_activities,user_interests,publish_stream'});
 		});
+		*/
 	};
 
 	(function(d) {
@@ -137,12 +101,10 @@
 	<div class="floatRight">
 		
 		<ul id="navbar_default">
-								<li class="highlightedTab"><a href="/" id="default_earn" class="" style="border-left:none;">Earn</a></li>
+								<li class="highlightedTab"><a href="/earn" id="default_earn" class="" style="border-left:none;">Earn</a></li>
 								<li class=""><a href="/signups/advertiser_signup" id="default_advertise" class="">Advertise</a></li>
-		
-			<li>
-							</li>
-		</ul>
+								<li class=""><a href="/users/login" id="default_signin" class="" style="color:#88BB00;border-right:none;">Sign In</a></li>
+				</ul>
 	</div>
 
 	<div class="clearFix"></div>
@@ -286,16 +248,32 @@ div#content_box p {
 		var s = document.getElementsByTagName('script')[0];
 		s.parentNode.insertBefore(ga, s);
 	})();
-</script><!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">
-	var _vwo_code = (function() {
-		var account_id = 22679,
-		settings_tolerance = 2000,
-		library_tolerance = 1500,
-		use_existing_jquery = false,
-		// DO NOT EDIT BELOW THIS LINE
-		f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='*{opacity:0 !important;filter:alpha(opacity=0) important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </script>
-<!-- End Visual Website Optimizer Asynchronous Code -->
+
+<script type="text/javascript">
+	adroll_adv_id = 'UEJBKHHAKZD7POGDEIX5F5';
+	adroll_pix_id = 'CULSQ25FDFEFNGXCAXMRKD';
+	(function () {
+		var oldonload = window.onload;
+		window.onload = function() {
+			__adroll_loaded = true;
+			var scr = document.createElement('script');
+			var host = (('https:' == document.location.protocol) ? 'https://s.adroll.com' : 'http://a.adroll.com');
+			scr.setAttribute('async', 'true');
+			scr.type = 'text/javascript';
+			scr.src = host + '/j/roundtrip.js';
+			((document.getElementsByTagName('head') || [null])[0] ||
+				document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			if (oldonload) { oldonload() }
+		};
+	}());
+</script>
+
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*{literal}<![CDATA[*/
+window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('8139-940-10-4416');/*]]>{/literal}*/</script><noscript><a href="https://www.olark.com/site/8139-940-10-4416/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
 
 </body></html>
