@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513012834id_/http%3A//www.brctv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022054343id_/http%3A//www.brctv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Ridge Communications
 
@@ -31,24 +31,33 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 Notification of Changes   
 Any changes to this policy will be listed on this page. 
 
-**LAST UPDATED AND EFFECTIVE DATE: May 13, 2011.**
+**LAST UPDATED AND EFFECTIVE DATE: May 18, 2012.**
 
-**NOTIFICATIONS FOR BLUE RIDGE COMMUNICATIONS 2011**
+**NOTIFICATIONS FOR BLUE RIDGE COMMUNICATIONS 2012**
 
 As required by law, we are notifying our customers of their right to privacy, our complaint procedure, refund policy, converter/TV compatibility and subscriber service procedure.
 
 **  
 PRIVACY NOTICE**
 
-The notice is being provided in accordance with the Cable Television Consumer Protection and Competition Act of 1992, a Federal law which requires all cable operators to notify subscribers of the collection, use and disclosure of personally identifiable information regarding cable subscribers. Blue Ridge Communications collects and maintains certain information concerning individual subscribers, which is necessary to provide cable television service to our subscribers and to detect unauthorized reception of our service. Such information includes billing records, service maintenance and repair records, premium service subscription, marketing and research survey information and subscriber complaints.We do not maintain this information any longer than is necessary for our business purposes. Information such as credit references, previous address, social security and driver license numbers are maintained for purpose of identity regarding the applicants for our services, for a period of five (5) years. After such time, if the purpose for which such information was collected has been accomplished, Blue Ridge Communications will destroy the information.  
+The notice is being provided in accordance with the Cable Television Consumer Protection and Competition Act of 1992, a Federal law which requires all cable operators to notify subscribers of the collection, use and disclosure of personally identifiable information regarding cable subscribers.   
+Blue Ridge Communications collects and maintains certain information concerning individual subscribers, which is necessary to provide cable television service to our subscribers and to detect unauthorized reception of our service. Such information includes billing records, service maintenance and repair records, premium service subscription, marketing and research survey information and subscriber complaints.  
+We do not maintain this information any longer than is necessary for our business purposes. Information such as credit references, previous address, social security and driver license numbers are maintained for purpose of identity regarding the applicants for our services, credit checks and collection purposes. After such time, if the purpose for which such information was collected has been accomplished, Blue Ridge Communications will destroy the information.  
  
 
-As a subscriber, you may review (and correct if necessary) any personal information held by us that pertains to you. These records are available at the local Blue Ridge Communications office serving you, during the hours of 9 AM to 5 PM, Monday through Friday. We request that you contact us beforehand by telephone or letter so that we may locate the information and set up an appointment for your review. Blue Ridge Communications may from time-to-time make your personal information available to our sales agents, research consultants, our accountants, programming services, representatives of franchising authorities, and collection agencies for the purpose of collecting money owed by a subscriber.   
+As a subscriber, you may review (and correct if necessary) any personal information held by us that pertains to you. These records are available at the local Blue Ridge Communications office serving you, during the hours of 9 AM to 5 PM, Monday through Friday. We request that you contact us beforehand by telephone or letter so that we may locate the information and set up an appointment for your review.   
+Blue Ridge Communications may from time-to-time make your personal information available to our sales agents, research consultants, our accountants, programming services, representatives of franchising authorities, and collection agencies for the purpose of collecting money owed by a subscriber.   
  
 
-Names and addresses of Blue Ridge Communications subscribers are provided to Program Guide distributors for the purpose of mailing; please notify our office by telephone or letter if you do not want to be included on the list.
+Names and addresses of Blue Ridge Communications subscribers are provided to Program Guide distributors for the purpose of mailing; please notify our office by telephone or letter if you do not want to be included on the list. 
 
-Any person, who feels aggrieved by an action of Blue Ridge Communications in violation of Section 631 of the Cable Television Consumer Protection and Competition Act of 1992 may bring a civil action in a United States District Court.The Cable Act restricts the collection of subscriber information and the disclosure of personally identifiable information.If Blue Ridge Communications is served with a court order requiring disclosure of personally identifiable information concerning a subscriber, we will inform the subscriber before any such information is released. Under some circumstances, a governmental entity may seek a court order to obtain personally identifiable subscriber information from a cable system concerning one of its subscribers. The subscriber would then be given an opportunity to contest issuance of such an order. Blue Ridge will not appear and contest on your behalf. Note: Prior notice and the opportunity to contest may not be provided for requests for information made pursuant to the Patriot Act.In emergency situations, 911 Response Centers may contact us for directions to a subscriber’s home. We will release this information unless you contact us in advance.
+If Blue Ridge (or it's parent company) enters into a merger, acquisition or sale of all or a portion of our assets, subscriber personally indentifiable information will, in most instances be transferred as part of the transaction.  
+ 
+
+Any person, who feels aggrieved by an action of Blue Ridge Communications in violation of Section 631 of the Cable Television Consumer Protection and Competition Act of 1992 may bring a civil action in a United States District Court.  
+The Cable Act restricts the collection of subscriber information and the disclosure of personally identifiable information.  
+If Blue Ridge Communications is served with a court order requiring disclosure of personally identifiable information concerning a subscriber, we will inform the subscriber before any such information is released. Under some circumstances, a governmental entity may seek a court order to obtain personally identifiable subscriber information from a cable system concerning one of its subscribers. The subscriber would then be given an opportunity to contest issuance of such an order. Blue Ridge will not appear and contest on your behalf. Note: Prior notice and the opportunity to contest may not be provided for requests for information made pursuant to the Patriot Act and for Internet and phone records.  
+In emergency situations, 911 Response Centers may contact us for directions to a subscriber’s home. We will release this information unless you contact us in advance.
 
 **COMPLAINT PROCEDURE**   
 Subscribers may call their local service office to register complaints about the quality of the television signals they receive.Complaints to the local office will be recorded, with the time received, the nature of the complaint along with the name, address and phone number of the subscriber calling in.In most cases, any complaints about technical quality or signals will be investigated within 48 hours of receipt, with a visit to your premises by a field technician. If a service call is not required, you will be informed as to the correction of the complaint immediately.If the local service office is unable to resolve the problem, you may direct correspondence to:  
