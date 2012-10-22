@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the winebid.com privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209052421id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winebid.com privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022160848id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head profile="http://a9.com/-/spec/opensearch/1.1/">
 
 		<meta http-equiv="X-UA-Compatible" content="IE=8">
 
 		
-		<!-- s-BORDEAUX -->
+		<!-- s-MERLOT -->
 		<!-- ds-dionysus -->
-		<!-- b-2758 -->
+		<!-- b-2943 -->
 		
-		<link rel="shortcut icon" href="/Images/favicon.ico" type="image/x-icon">
-		<link rel="apple-touch-icon" href="/Images/Mobile/iphone-icon.png">
+		<link rel="shortcut icon" href="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/366396089/Images/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" href="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/366396089/Images/Mobile/iphone-icon.png">
 		
 		<meta name="google-site-verification" content="Allo_FU3s6D1cxG79KV70k4lv3kpg59nBfhIcpS-jxY">
 		
@@ -24,14 +24,18 @@
 		<meta name="msapplication-task" content="name=Sell Wine;action-uri=/SellWine?utm_medium=tb_icon&amp;utm_content=Win7+Taskbar+Icon&amp;utm_source=Sell+Wine;icon-uri=/Images/favicon.ico">
 		<meta name="msapplication-task" content="name=Help;action-uri=/Help?utm_medium=tb_icon&amp;utm_content=Win7+Taskbar+Icon&amp;utm_source=Help;icon-uri=/Images/favicon.ico">
 
-		<title> WineBid.com » Privacy Policy</title>
+		<title>
+			WineBid.com » Privacy Policy	
+		</title>
 
-		<link href="/Stylesheets/Account.css?V.1.0.7" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/Navigation.css?V.1.0.8" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/SearchSidebar.css?V.1.0.9" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/Registration.css?V.1.0.5" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/jquery-ui-1.8.9.custom.css?V.1.0.1" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/Site.css?V.1.1.1" rel="stylesheet" type="text/css">
+		<link href="/Stylesheets/Account.css?V.2.0.1" rel="stylesheet" type="text/css">	
+		<link href="/Stylesheets/ActivityFeed.css?V.2.0.0" rel="stylesheet" type="text/css">
+		<link href="/Stylesheets/jquery-ui-1.8.9.custom.css?V.2.0.0" rel="stylesheet" type="text/css">	
+		<link href="/Stylesheets/Navigation.css?V.2.0.1" rel="stylesheet" type="text/css">	
+		<link href="/Stylesheets/RecommendedItemSlideShow.css?V.2.0.0" rel="stylesheet" type="text/css">
+		<link href="/Stylesheets/Registration.css?V.2.0.0" rel="stylesheet" type="text/css">
+		<link href="/Stylesheets/SearchSidebar.css?V.2.0.0" rel="stylesheet" type="text/css">		
+		<link href="/Stylesheets/Site.css?V.2.0.3" rel="stylesheet" type="text/css">
 		
 		<link title="WineBid.com" rel="search" type="application/opensearchdescription+xml" href="/searchProvider.xml">
 	
@@ -48,13 +52,17 @@
 
 		</script>
 			
-		<script src="/Scripts/jquery-1.5.2.min.js" type="text/javascript"></script>	
+		<script src="/Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>	
 		<script src="/Scripts/jquery-ui-1.8.12.custom.min.js" type="text/javascript"></script>
 		<script src="/Scripts/jquery.hoverIntent-r6.min.js" type="text/javascript"></script>
-		<script src="/Scripts/jquery.validate-1.8.min.js" type="text/javascript"></script>	
-		<script src="/Scripts/xVal.jquery.validate.js?V1.0.2" type="text/javascript"></script>		
-		<script src="/Scripts/winebid.common.js?V1.1.4" type="text/javascript"></script>
-
+		<script src="/Scripts/jquery.cookies.2.2.0.min.js" type="text/javascript"></script>
+		<script src="/Scripts/jquery.validate-1.9.min.js" type="text/javascript"></script>	
+		<script src="/Scripts/xVal.jquery.validate.js?V2.0.0" type="text/javascript"></script>		
+		<script src="/Scripts/winebid.common.js?V2.0.1" type="text/javascript"></script>
+		<script src="/Scripts/winebid.endlessActivityFeed.js?V2.0.0" type="text/javascript"></script>
+		<script src="/Scripts/winebid.analytics.js?V2.0.2" type="text/javascript"></script>
+		<script src="/Scripts/winebid.cartFunctions.js?V2.0.7" type="text/javascript"></script>
+		
 		
 
 		
@@ -90,6 +98,21 @@
 					overflow-y: auto; 
 				}
 
+				/* Hacks for hero rotation and recommended items */
+				.hero-main,
+				.recommended-items-left-scroll,
+				.recommended-items-right-scroll {
+					display: none;
+				}
+				.recommended-items .recommended-items-rotation {
+					border: none;
+					padding: 10px 21px 10px 21px;
+				}
+
+				button {
+					padding: 0;
+				}
+
 			</style>
 			<script type="text/javascript">
 			
@@ -114,6 +137,9 @@
 
 			$(document).ready(
 				function () {
+					
+					
+					
 
 					// Fix for mobile safari offset bug
 					// on iOS versions 3.2 -> 4.0 (fixed in iOS 4.2 on both iPhone & iPad)
@@ -140,9 +166,11 @@
 					ga.async = true;
 					ga.src = 'http://www.google-analytics.com/ga.js';
 
-
 					var s = document.getElementsByTagName('script')[0];
 					s.parentNode.insertBefore(ga, s);
+
+					// update the cart
+					setCartInfo();
 
 					// Disable context menu on image right click
 					$("img").bind("contextmenu", function (e) { e.preventDefault(); });
@@ -152,13 +180,13 @@
 				}
 			);
 
-		</script>			
+		</script>		
 			
 	
 
 	</head>
 
-	<body style="background-image:url('/Images/background.jpg');background-repeat: repeat-x;">
+	<body style="background-image:url('http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/338298468/Images/background.jpg');background-repeat: repeat-x;">
 		<div id="shell">
 			<div id="pageHeader">
 				
@@ -182,6 +210,16 @@
 		
 			
 			<li>
+				
+					<div class="cartEmptyLink" id="viewCartLink">
+						<a href="/ViewCart">Cart</a>
+					</div>
+				
+			</li>
+			
+			<li class="divider">|</li>
+			
+			<li>
 			
 				<a href="http://www.winebid.com/SignIn?ReturnUrl=%2FAbout%2FPrivacyPolicy">Sign In</a>
 			</li>
@@ -197,7 +235,7 @@
 		</ul>
 	
 <div style="clear:both">
-<img height="8" src="/Images/border_main_top.gif" width="716">
+<img height="8" src="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/338298468/Images/border_main_top.gif" width="716">
 
 </div>
 			</div>
@@ -207,17 +245,15 @@
 					<div id="sidebarContainer">
 						<div id="col1">
 							<div id="logoArea">
-								<a href="/"><img alt="WineBid.com" height="53" src="/Images/logo.gif" title="WineBid.com" width="212"></a>
+								<a href="/"><img alt="WineBid.com" height="53" src="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/338298468/Images/logo.gif" title="WineBid.com" width="212"></a>
 							</div>
-							<img height="8" src="/Images/border_sidebar_top.gif" style="position: relative; margin-top: -8px;" width="284">
+							<img height="8" src="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/332607073/Images/border_sidebar_top.gif" style="position: relative; margin-top: -8px;" width="284">
 							<div id="sidebarArea">
 								
 	
-		<div class="sidebarNavigation"><h2><a href="/About">About WineBid</a></h2><ul><li><a href="/About/ManagementTeam">Management Team</a></li><li><a href="/About/News">News</a></li><li class="selected">Privacy Policy</li><li><a href="/About/TermsAndConditions">Terms &amp; Conditions</a></li></ul></div>
+		<div class="sidebarNavigation"><h2><a href="/About">About WineBid</a></h2><ul><li><a href="/About/ManagementTeam">Management Team</a></li><li><a href="/About/News">Latest News</a></li><li class="selected">Privacy Policy</li><li><a href="/About/TermsAndConditions">Terms &amp; Conditions</a></li></ul></div>
 	
 
-								
-								<div style="width:276; height: 1px"></div>
 							</div>
 						</div>
 						<div id="col2">
@@ -228,17 +264,6 @@
 	<script language="javascript" type="text/javascript">
 
 		$(document).ready(function () {
-			$('#language').change(function () {
-				// Submit language change event to Google Analytics
-				var new_language = $('#language').val();
-				var language_action = 'Switch to ' + new_language;
-				_gaq.push(['_trackEvent', 'Language Switch', language_action]);
-
-				// prevent control modification on submit
-				formSubmitted = true;
-				$('#languageForm').submit();
-			});
-
 			var lastLanguageHover = new Date();
 			var languageSelectActive = false;
 			var formSubmitted = false;
@@ -307,12 +332,12 @@
 					</td>
 				</noscript><table style="float:left; margin-top: -2px;">
 			<tbody><tr>
-				<td style="vertical-align:top;"><img alt="English" src="/Images/icons/us.png" title="English"></td>
+				<td style="vertical-align:top;"><img alt="English" src="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/369346904/Images/icons/us.png" title="English"></td>
 				<td style="vertical-align:top;">
 					<script language="javascript">
-						document.write('<span id="languageName">US English</span>');
-					</script><span id="languageName">US English</span>
-					<select id="language" name="language"><option selected="selected" value="English">US English</option>
+						document.write('<span id="languageName">English</span>');
+					</script><span id="languageName">English</span>
+					<select id="language" name="language"><option selected="selected" value="English">English</option>
 <option value="Chinese">中文</option>
 </select>
 				</td>
@@ -326,7 +351,7 @@
 		</span> 
         
 		    <span style="color: #000">
-	    2 days, 21 hours and 35 minutes
+	    6 days, 9 hours and 51 minutes
         </span>
 	</div>
 
@@ -441,20 +466,20 @@
 				</div>
 			</div>
 			
-			<img height="8" src="/Images/border_main_bottom.gif" width="1000">
+			<img height="8" src="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/332607073/Images/border_main_bottom.gif" width="1000">
 			<div id="pageFooter">
 				<div style="float: left;">
 					<div style="float: left;">
 						<a href="/Help/ContactUs">Contact Us</a> <a href="/About">About WineBid</a> 
 					</div>
 					<div style="float: left;">
-						<a style="float: left; margin-right:5px;" href="https://www.facebook.com/pages/WineBidcom/165919296776686" target="_blank"><img alt="Join us on Facebook" src="/Images/icons/facebook-link.png" title="Join us on Facebook"></a>
+						<a style="float: left; margin-right:5px;" href="https://www.facebook.com/pages/WineBidcom/165919296776686" target="_blank"><img alt="Join us on Facebook" src="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/386275586/Images/icons/facebook-link.png" title="Join us on Facebook"></a>
 					</div>
 					<div style="float: left;">
-						<a style="float: left;" href="https://www.twitter.com/winebiddotcom" target="_blank"><img alt="Follow us on Twitter" src="/Images/icons/twitter-link.png" title="Follow us on Twitter"></a>
+						<a style="float: left;" href="https://www.twitter.com/winebiddotcom" target="_blank"><img alt="Follow us on Twitter" src="http://d1pj7rdyoojeyr.cloudfront.net/NoCdn/386275586/Images/icons/twitter-link.png" title="Follow us on Twitter"></a>
 					</div>
 				</div>
-				<div style="float: right"><a href="/About/TermsAndConditions">Terms &amp; Conditions</a> <a href="/About/PrivacyPolicy">Privacy Policy</a> © 2011 WineBid.com</div>
+				<div style="float: right"><a href="/About/TermsAndConditions">Terms &amp; Conditions</a> <a href="/About/PrivacyPolicy">Privacy Policy</a> © 2012 WineBid.com</div>
 			</div>
 		</div>
 
