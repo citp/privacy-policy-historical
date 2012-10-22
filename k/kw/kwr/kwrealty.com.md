@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwrealty.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626153038id_/http%3A//www.kw.com/kw/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwrealty.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022190732id_/http%3A//www.kw.com/kw/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
