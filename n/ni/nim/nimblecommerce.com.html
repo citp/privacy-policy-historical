@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nimblecommerce.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618163714id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nimblecommerce.com privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022161551id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 		
@@ -62,6 +62,9 @@
 	
 
 
+
+
+
 	
 	
 		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
@@ -69,7 +72,7 @@
 	
 
 		<!--[if IE 6]>
-<script type="text/javascript" src="/include.js?files=DD_belatedPNG_0.0.7a-min.js&amp;redownloadtoken=67930"></script>
+<script type="text/javascript" src="/include.js?files=DD_belatedPNG_0.0.7a-min.js&amp;redownloadtoken=73151"></script>
 <script defer type="text/javascript">
   DD_belatedPNG.fix('.pngImages');
 </script>
@@ -87,24 +90,28 @@
 		
 			
 			
-				<link rel="stylesheet" type="text/css" href="/include.css?files=default-nc.list&amp;ignoreCommerce=&amp;redownloadtoken=67930">
+				<link rel="stylesheet" type="text/css" href="/include.css?files=default-nc.list&amp;ignoreCommerce=&amp;redownloadtoken=73151">
 			
-		
 		
 		
 		
 
+
+
 	
+
 	
 		
 			
 			
-				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+				
+					
+					
+						<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+					
+				
+				<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
 			
-		
-		
-			<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-			<!-- TODO: update to v1.8.16 and fix issues with dialogs(centered) and test other components-->
 		
 	
 
@@ -134,8 +141,9 @@
 	}
 </script>
 		
+		
 			
-				<script type="text/javascript" src="/include.js?files=nimbleCommerce/default-nc.list&amp;redownloadtoken=67930"></script>
+				<script type="text/javascript" src="/include.js?files=nimbleCommerce/default-nc.list&amp;redownloadtoken=73151"></script>
 			
 			
 			
@@ -154,6 +162,7 @@
  
 		
 		<script type="text/javascript">
+			
 			if(document.getElementsByClassName) {
 				getElementsByClass = function(classList, node) {
 					return (node || document).getElementsByClassName(classList)
@@ -178,16 +187,36 @@
 				}
 			}
 			
-			//---------- show message when redirecting back -----------
 			$(function() {
+				// Adding CSRF token to POST request for preventing CSRF attacks (Track ticket #20280)
+				$.ajaxSetup({
+					data: {	CSRFToken: "a6f6418e-1341-45ae-a373-048776e90952" }
+				});
+				//---------- show message when redirecting back -----------
 				
 			});
 			
 		</script>
 			
+			
 		
 	</head>
-	<body class="pageBodyElement" id="mainContainer">
+
+
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+
+
+	<body class="pageBodyElement " id="mainContainer">
 		<div id="fb-root"></div>
 		
 
@@ -240,8 +269,6 @@
 
 
 
-
-
 <div class="ui-helper-clearfix headerOutline ui-corner-top pngImages">
 	
 		
@@ -251,7 +278,16 @@
 	
 	
 	<div id="headerNimbleCommerce" class="ui-helper-clearfix ui-corner-top">
-		<a href="/" class="pngImages" id="ncLogo">
+		
+			
+			
+			
+			
+				
+			
+		
+		
+		<a class="pngImages ncLogo" href="/">
 			
 			
 		</a>
@@ -261,60 +297,68 @@
 				
 			
 		
-		<div class="ncUserNameItem">
-			
-		</div>
+		
+
+		
+		
+
+		
+			<div class="l-ncServersNav ncServersNav">
+				Sales: (408) 758-8180
+				|
+				<a class="ncServersNavItem" href="http://www.nimblecommerce.com">
+					USA
+				</a>
+				|
+				<a class="ncServersNavItem ncServersNavItem_last" href="http://eu.nimblecommerce.com">
+					EU
+				</a>
+			</div>
+		
 		<ul id="headerNav" class="">
+			
+				<li class="headerNavItem">
+					<a href="/solutions/dealplatform" class="ui-corner-top menuLink moreMenuLink">Solutions</a>
+					<ul class="subMenu ui-corner-bottom">
+						<li><a href="/solutions/publisherPlatform" class="subMenuLink">Publisher Platform</a></li>
+						<li><a href="/solutions/supplierPlatform" class="subMenuLink">Supplier Platform</a></li>
+						<li><a href="/solutions/nimbleNetwork" class="subMenuLink">NimbleNetwork</a></li>
+						<li><a href="/affiliate" class="subMenuLink subMenuLastLink">Affiliate Program</a></li>
+					</ul>
+				</li>
+				<li class="headerNavItemSeparator">|</li>
+				
+			
+			
+			<li class="headerNavItem">
+						<a href="/services" class="ui-corner-top menuLink moreMenuLink ">Services</a>
+						<ul class="subMenu ui-corner-bottom">
+							<li><a href="/partners" class="subMenuLink subMenuLastLink">Partners</a></li>
+						</ul>
+				</li>
+				<li class="headerNavItemSeparator">|</li>
+				<li class="headerNavItem">
+					<a href="/customersOverview" class="ui-corner-top menuLink">Customers</a>
+				</li>
+				<li class="headerNavItemSeparator">|</li>
+				
+			
 			<li class="headerNavItem">
 				
 					
-						<a href="/aboutus/mission" class="ui-corner-top menuLink moreMenuLink">About Us</a>
+						<a href="/aboutus/mission" class="ui-corner-top menuLink moreMenuLink">Company</a>
 						<ul class="subMenu ui-corner-bottom">
 							<li><a href="/aboutus/team" class="subMenuLink">The Team</a></li>
+							<li><a href="/aboutus/advisors" class="subMenuLink">Board of Advisors</a></li>
 							<li><a href="/aboutus/jobs" class="subMenuLink">Careers</a></li>
 							<li><a href="/aboutus/news" class="subMenuLink">Press</a></li>
-							
 							<li><a href="http://blog.nimblecommerce.com" class="subMenuLink subMenuLastLink">Blog</a></li>
-							
 						</ul>
 					
 					
 				
 			</li>
 			<li class="headerNavItemSeparator">|</li>
-			<li class="headerNavItem">
-				<a href="/partners" class="ui-corner-top menuLink">Partners</a>
-			</li>
-			
-				<li class="headerNavItemSeparator">|</li>
-				<li class="headerNavItem">
-					<a href="/solutions/dealplatform" class="ui-corner-top menuLink moreMenuLink">Solutions</a>
-					<ul class="subMenu ui-corner-bottom">
-						<li><a href="/solutions/dealplatform" class="subMenuLink">Deal Platform</a></li>
-					
-						<li><a href="/solutions/sourcing" class="subMenuLink">Sourcing</a></li>
-					
-						<li><a href="/solutions/syndication" class="subMenuLink">Syndication</a></li>
-						<li><a href="/affiliate" class="subMenuLink subMenuLastLink">Affiliate Program</a></li>
-					</ul>
-				</li>
-				
-			<li class="headerNavItemSeparator">|</li>
-			<li class="headerNavItem">
-				
-					
-					
-						<a href="/services" class="ui-corner-top menuLink ">Services</a>
-						</li><li class="headerNavItemSeparator">|</li>
-					
-				
-			
-			
-				<li class="headerNavItem">
-					<a href="/customersOverview" class="ui-corner-top menuLink">Customers</a>
-				</li>
-				<li class="headerNavItemSeparator">|</li>
-				
 			
 			
 			
@@ -342,7 +386,6 @@
 				
 				</li>
 				
-			
 			
 			
 			
@@ -444,25 +487,127 @@ To be removed from our contact lists, please write to NimbleCommerce at the foll
 
 
 
-<div id="footerNimbleCommerce" class="pngImages ui-helper-clearfix">
+
+
+<div id="footerNimbleCommerce" class="pngImages ui-helper-clearfix ncFooter">
+
+	<!-- Solutions -->
 	<div class="ncFooterBox">
-		<div class="ncFooterBoxTitle">Company</div>
-		<span class="copyrightText">Copyright ©</span>
-		2012 NimbleCommerce<br>
-		<a href="/privacyPolicy" class="ncFooterLink">Privacy Policy</a>
-		
-	</div>
-	<div class="ncFooterBox">
-		<div class="ncFooterBoxTitle">Business Inquiries</div>
-		Sales: (408) 758-8180<br>
-		<a href="/contactus" class="ncFooterLink">Contact Form</a>
-	</div>	
-	
-	<div class="ncFooterBox ncFooterLastBox">
-		<div class="ncFooterBoxTitle">Programs</div>
-		<a href="/affiliate" class="ncFooterLink">Affiliate Program</a>
+		<h3 class="ncFooterTitle">
+			<a class="ncFooterLink" href="/solutions/dealplatform">
+				Solutions
+			</a>
+		</h3>
+		<a class="ncFooterLink" href="/solutions/publisherPlatform">
+			Publisher Platform
+		</a>
 		<br>
-		<a href="/partners" class="ncFooterLink">Partners</a>
+		<a class="ncFooterLink" href="/solutions/supplierPlatform">
+			Supplier Platform
+		</a>
+		<br>
+		<a class="ncFooterLink" href="/solutions/nimbleNetwork">
+			NimbleNetwork
+		</a>
+		<br>
+		<a class="ncFooterLink" href="/affiliate">
+			Affiliate Program
+		</a>
+	</div>
+
+	<!-- Services -->
+	<div class="ncFooterBox">
+		<h3 class="ncFooterTitle">
+			<a class="ncFooterLink" href="/services">
+				Services
+			</a>
+		</h3>
+		<a class="ncFooterLink" href="/partners">
+			Partners
+		</a>
+	</div>
+
+	<!-- Customers -->
+	<div class="ncFooterBox">
+		<h3 class="ncFooterTitle">
+			<a class="ncFooterLink" href="/customersOverview">
+				Customers
+			</a>
+		</h3>
+	</div>
+
+	<!-- Company -->
+	<div class="ncFooterBox">
+		<h3 class="ncFooterTitle">
+			<a class="ncFooterLink" href="/aboutus/mission">
+				Company
+			</a>
+		</h3>
+		<a class="ncFooterLink" href="/aboutus/team">
+			Team
+		</a>
+		<br>
+		<a class="ncFooterLink" href="/aboutus/advisors">
+			Board of Advisors
+		</a>
+		<br>
+		<a class="ncFooterLink" href="/aboutus/jobs">
+			Careers
+		</a>
+		<br>
+		<a class="ncFooterLink" href="/aboutus/news">
+			Press
+		</a>
+		<br>
+		<a class="ncFooterLink" href="http://blog.nimblecommerce.com">
+			Blog
+		</a>
+	</div>
+
+	<!-- Login -->
+	<div class="ncFooterBox">
+		<h3 class="ncFooterTitle">
+			<a class="ncFooterLink" href="/login">
+				Login
+			</a>
+		</h3>
+	</div>
+
+	<!-- Contact Form -->
+	<div class="ncFooterBox">
+		<h3 class="ncFooterTitle">
+			<a class="ncFooterLink" href="/contactus">
+				Contact Us
+			</a>
+		</h3>
+	</div>
+
+	<!-- Privacy Policy -->
+	<div class="ncFooterBox">
+		<h3 class="ncFooterTitle">
+			<a class="ncFooterLink" href="/privacyPolicy">
+				Privacy Policy
+			</a>
+		</h3>
+	</div>
+
+	<!-- Follow Us -->
+	<div class="ncFooterBox ncFooterFollowUs">
+		<h3 class="ncFooterTitle">
+			Follow Us
+		</h3>
+		<a class="ncFooterIcon ncFooterFb" target="_blank" href="http://www.facebook.com/NimbleCommerce"></a>
+		<a class="ncFooterIcon ncFooterTw" target="_blank" href="http://www.twitter.com/NimbleCommerce"></a>
+		<span class="ncFooterPhoneNumber">
+			Sales: (408) 758-8180
+		</span>
+	</div>
+
+	<div class="ncFooterCopyright">
+		
+
+		Copyright ©
+		2012 NimbleCommerce
 	</div>
 </div>
 
@@ -737,6 +882,27 @@ To be removed from our contact lists, please write to NimbleCommerce at the foll
 		};
 	}
 	var IS_USE_NC_TRACKING = false; 	
+</script>
+    			
+<script id="cmHotkeysHintTemplate" type="nc/template">
+	<div class="cmHotkeysHintWrapper">
+		<div class="cmHotkeysHintLink">Editor hotkeys</div>
+		<ul class="cmHotkeysHintContainer">
+			<li><span class="cmHotkeysHintComboTitle">Ctrl-F / Cmd-F</span> &mdash; <span class="cmHotkeysHintActionTitle cmSearchLink">search</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Ctrl-G / Cmd-G</span> &mdash; <span class="cmHotkeysHintActionTitle cmFindNextLink">find next</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Shift-Ctrl-G / Shift-Cmd-G</span> &mdash; <span class="cmHotkeysHintActionTitle cmFindPrevLink">find prev</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Shift-Ctrl-F / Cmd-Option-F</span> &mdash; <span class="cmHotkeysHintActionTitle cmReplaceLink">replace</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Shift-Ctrl-R / Shift-Cmd-Option-F</span> &mdash; <span class="cmHotkeysHintActionTitle cmReplaceAllLink">replace all</span></li>
+			<li class="separator"></li>
+			<li><span class="cmHotkeysHintComboTitle">Ctrl-Space</span> &mdash; <span class="cmHotkeysHintActionTitle cmAutocompleteLink">autocomplete</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Ctrl-Alt-A</span> &mdash; <span class="cmHotkeysHintActionTitle cmAutoformatLink">autoformat selection</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Ctrl-Alt-C</span> &mdash; <span class="cmHotkeysHintActionTitle cmCommentLink">comment selection</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Ctrl-Alt-U</span> &mdash; <span class="cmHotkeysHintActionTitle cmUnCommentLink">uncomment selection</span></li>
+			<li class="separator"></li>
+			<li><span class="cmHotkeysHintComboTitle">F11</span> &mdash; <span class="cmHotkeysHintActionTitle cmFullscreenToggleLink">toggle fullscreen</span></li>
+			<li><span class="cmHotkeysHintComboTitle">Ctrl-S</span> &mdash; <span class="cmHotkeysHintActionTitle cmSaveLink noAction">save</span></li>
+		</ul>
+	</div>
 </script>
 
 
