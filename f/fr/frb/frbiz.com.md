@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frbiz.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305090823id_/http%3A//www.frbiz.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frbiz.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022030051id_/http%3A//www.frbiz.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Privacy of service online.
 
@@ -57,4 +57,4 @@ You can access, view and edit your Registration Information, Publishing Informat
 
 **Your feedback**
 
-FRBIZ.COM welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses by email to [my@frbiz.com](mailto:my@frbiz.com)  or by post to FRBIZ.COM Limited.
+FRBIZ.COM welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses by email to [frbiz@maoyt.com](mailto:frbiz@maoyt.com)  or by post to FRBIZ.COM Limited.
