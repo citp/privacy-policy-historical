@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optifine.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620022333id_/http%3A//www.optifine.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optifine.net privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022122921id_/http%3A//optifine.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - optifine.net
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at steven.pp@gmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at optifinex@gmail.com. 
 
 At optifine.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by optifine.net and how it is used. 
 
