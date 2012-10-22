@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morth.nic.in privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330122452id_/http%3A//morth.nic.in/index1.asp%3Flang%3D1%26linkid%3D77%26lid%3D456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morth.nic.in privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022123428id_/http%3A//morth.nic.in/index1.asp%3Flang%3D1%26linkid%3D77%26lid%3D456) for the most accurate reproduction.*
 
 # Privacy Policy - Ministry of Road Transport & Highways, Government of India
 
