@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articopia.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031601id_/http%3A//www.articopia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articopia.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022171328id_/http%3A//www.articopia.com/privacy.html) for the most accurate reproduction.*
 
-# Free Article Directory - Articopia
+# Privacy Policy - Articopia
 
 **Registration Forms**
 
