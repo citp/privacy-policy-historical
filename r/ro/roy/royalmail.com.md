@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205190058id_/http%3A//www2.royalmail.com/customer-service/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022022905id_/http%3A//www.royalmail.com/customer-service/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Royal Mail Customer Service – Offering help and advice
+# Privacy policy | Royal Mail Ltd
+
+[ ](http://shop.royalmail.com/postage-supplies+stationery/icat/cat112/)
+
+## Your privacy and our use of cookies
+
+Cookies help us improve your Royal Mail online experience. If you accept their use, continue using our site. Or, find out more about cookies
 
 We know that your privacy is very important to you.  We make it our business for it to be as important to us.
 
@@ -103,7 +109,7 @@ There is a lot that you can do to help keep your information safe - not just on 
 Here are some simple ways you can improve the security of your information.
 
 **Use a strong password**  
-Read our advice on choosing a [strong password](https://web.archive.org/your-questions-answered). This will help you choose a password that will be difficult for other people to guess but easy for you to remember.
+A strong password includes a mixture of letters (upper case and lower case) and numbers. It should be longer than five characters and not a recognisable word. It should not be the word 'password' or a repeat of your username. A good method of creating a strong password might be to think of a memorable sentence and make a word out of the first letter of each word in the sentence.
 
 **Use a secure password hint**  
 Do not make your password hint the same as your password! Your password hint should not give away your password to someone you know well, for example 'my road' or 'my dog's name'.
@@ -137,12 +143,14 @@ It is a persistent cookie that is updated continuously during your first and sub
   
 Of these cookies, only the Website Analytic cookie can be deactivated through our website. For the other cookies you can change the preferences on your browser so that your computer doesn’t accept cookies from our website or allow them to be updated. Alternatively you can make your browser give you the option to accept or reject the cookies each time our website tries to create or update a cookie on your computer. Please note:
 
+[www.aboutcookies.org (new window)](http://www.aboutcookies.org/)[http://tools.google.com/dlpage/gaoptout (new window)](http://tools.google.com/dlpage/gaoptout)
+
   * Neither of these options will remove cookies that have already been placed on your computer or prevent them from being read. To delete existing cookies you will need to search your hard drive for the relevant cookie files and delete them. But please note that a deleted cookie will often be replaced the next time you visit the website that put it there.
   * If your browser is set up to reject application session cookies, some applications on our website will not work.
   * Because the cookie may contain or refer to some of your personal information we recommend you do not register for our website from a publicly available computer.
-For more information about cookies, including how to change your browser settings and find and delete cookies on your hard drive, please visit [www.aboutcookies.org (new window)](http://www.aboutcookies.org/).
+For more information about cookies, including how to change your browser settings and find and delete cookies on your hard drive, please visit .
 
-To opt-out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout (new window)](http://tools.google.com/dlpage/gaoptout). 
+To opt-out of being tracked by Google Analytics across all websites visit . 
 
 
 
@@ -171,3 +179,5 @@ SK9 5AF
 Please review this privacy policy periodically as we may update it from time to time and if we do this we will notify you on our website. Please refer to the 'last updated' date to see if and when the policy changed.
 
 Last updated: 8 August 2011
+
+[Print Page](http://www.royalmail.com/print/customer-service/terms-and-conditions/privacy-policy)
