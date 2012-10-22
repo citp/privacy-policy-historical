@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the ih8mud.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623091454id_/http%3A//www.ih8mud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ih8mud.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022200414id_/http%3A//www.ih8mud.com/privacy) for the most accurate reproduction.*
 
-# Legal and Privacy Policy :: Your Online Offroad 4×4 Tech Resource – IH8MUD.com
+# Legal and Privacy Policy :: Your Online Offroad Resource – IH8MUD.com
 
-This legal statement discloses the practices for the websites and information hosted by IH8MUD Inc. and located at http://www.ih8mud.com and http://www.rockcrawler.com and all related subdomains, including http://forum.ih8mud.com,  http://gallery.ih8mud.com, http://www.cruiserfaq.com, etc.
+This legal statement discloses the practices for the websites and information hosted by Tie Rod Media LLC and located at http://www.ih8mud.com and http://www.rockcrawler.com and all related subdomains, including http://forum.ih8mud.com,  http://gallery.ih8mud.com, http://www.cruiserfaq.com, etc.
 
-**IH8MUD Inc. is organized as a S-Corporation under the laws of the State of Wisconsin.**
+**Tie Rod Media LLC is organized as a Limited Liability Company under the laws of the State of Wisconsin.**
 
-This website is for reference and entertainment purposes only. By the use of this site or by clicking any images, buttons or text links, you accept these terms and conditions and acknowledge that your use of IH8MUD.com or RockCrawler.com and its related sites is subject to the terms and conditions outlined as follows. IH8MUD Inc. is in no way responsible or liable for any injuries or damages incurred because of the use of information provided or linked within these sites.
+This website is for reference and entertainment purposes only. By the use of this site or by clicking any images, buttons or text links, you accept these terms and conditions and acknowledge that your use of IH8MUD.com or RockCrawler.com and its related sites is subject to the terms and conditions outlined as follows. Tie Rod Media LLC is in no way responsible or liable for any injuries or damages incurred because of the use of information provided or linked within these sites.
 
-All content posted on IH8MUD.com/RockCrawler.com becomes the property of IH8MUD Inc. (unless otherwise stated) based on copyright law and may not be duplicated elsewhere without written permission.
+All content posted on IH8MUD.com/RockCrawler.com becomes the property of Tie Rod Media LLC (unless otherwise stated) based on copyright law and may not be duplicated elsewhere without written permission.
 
 #### Notification of Changes
 
-We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. You must review this agreement on a regular basis to keep yourself apprised of any changes. You can find the most recent version of the TOU at: [http://www.ih8mud.com/privacy/](http://www.ih8mud.com/privacy)
+We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. You must review this agreement on a regular basis to keep yourself apprised of any changes. You can find the most recent version of the TOU at: <http://www.ih8mud.com/privacy/>
 
-All corporate trademarks are the property of their respective owners and are used to refer to those specific products or activities related to those products. IH8MUD Inc’s use of these trademarks in its stories in no way infers that any relationship exists between IH8MUD Inc. and the trademark owner.
+All corporate trademarks are the property of their respective owners and are used to refer to those specific products or activities related to those products. Tie Rod Media LLC’s use of these trademarks in its stories in no way infers that any relationship exists between Tie Rod Media LLC and the trademark owner.
 
 #### Registration
 
 In order to fully utilize all aspects of this website, users must first complete the registration form. During registration a user is required to give their contact information (such as name and valid email address). This information may be used to contact the user about the services on our site for which they have expressed interest. Demographic or other personal information is purely voluntary (such as occupation and vehicle). You agree not to use the message boards, membership list or email addresses contained herein as a way to gather data, request interviews, solicit, gather data, etc.
 
-This information will never be sold or given away and IH8MUD Inc. will take reasonable action to protect this information from outside entities. We will provide any and all information requested by law enforcement with proper documentation.
+This information will never be sold or given away and Tie Rod Media LLC will take reasonable action to protect this information from outside entities. We will provide any and all information requested by law enforcement with proper documentation.
 
-Freedom of Speech: Although the Constitution of the US guarantees that ‘Congress shall make no law abridging the freedom of speech’, IH8MUD Inc. is not Congress. Freedom of speech rights do not extend to this privately owned website. The Legal/Privacy Guidelines of this website govern the behaviors and activities of the members and users. If you choose not to follow these guidelines, the result will be a disabling of your account.
+Freedom of Speech: Although the Constitution of the US guarantees that ‘Congress shall make no law abridging the freedom of speech’, Tie Rod Media LLC is not Congress. Freedom of speech rights do not extend to this privately owned website. The Legal/Privacy Guidelines of this website govern the behaviors and activities of the members and users. If you choose not to follow these guidelines, the result will be a disabling of your account.
 
 #### Third Party Advertising
 
-IH8MUD Inc. relies on third-party ad servers and ad networks to serve advertisements. These third-party ad servers and ad networks use technology to send, directly to your browser, the advertisements that appear on the site and they automatically receive your IP Address when this happens. Such third-party ad servers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
+Tie Rod Media LLC relies on third-party ad servers and ad networks to serve advertisements. These third-party ad servers and ad networks use technology to send, directly to your browser, the advertisements that appear on the site and they automatically receive your IP Address when this happens. Such third-party ad servers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
 
-IH8MUD Inc. does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent, unless part of a specific program or feature for which you will have the ability to opt-in. Please note that if an advertiser asks IH8MUD Inc. to show an advertisement to a certain audience (for example, males age 18 to 25) or audience segment (for example, males age 18 to 25 who have participated in certain community forums) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.
+Tie Rod Media LLC does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent, unless part of a specific program or feature for which you will have the ability to opt-in. Please note that if an advertiser asks Tie Rod Media LLC to show an advertisement to a certain audience (for example, males age 18 to 25) or audience segment (for example, males age 18 to 25 who have participated in certain community forums) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. IH8MUD Policies do not apply to, and cannot control the activities of, such other advertisers or web sites. IH8MUD Inc. reserves the right the add or remove third-party ad networks or ad servers in its discretion and IH8MUD.com may not at all times list such updated ad network or ad server partners in this Privacy Notice.
+You should consult the respective privacy policies of these third-party ad servers or ad networks. Tie Rod Media LLC Policies do not apply to, and cannot control the activities of, such other advertisers or web sites. Tie Rod Media LLC reserves the right the add or remove third-party ad networks or ad servers in its discretion and Tie Rod Media LLC may not at all times list such updated ad network or ad server partners in this Privacy Notice.
 
-Currently, IH8MUD.com has relationships with the following third-party ad servers or ad networks:
+Currently, Tie Rod Media LLC has relationships with the following third-party ad servers or ad networks:
 
   * Google – http://www.google.com/privacy.html
   * VigLink - http://www.viglink.com/policies/privacy
@@ -53,11 +53,11 @@ We use third-party companies to serve ads and collect non-personally identifiabl
 
 #### Log Files
 
-IH8MUD Inc. uses IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate statistical use. IP addresses are not linked to personally identifiable information.
+Tie Rod Media LLC uses IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate statistical use. IP addresses are not linked to personally identifiable information.
 
 #### Links
 
-This web site contains links to other sites. IH8MUD Inc. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This legal statement applies solely to information collected by this Web site.
+This web site contains links to other sites. Tie Rod Media LLC is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This legal statement applies solely to information collected by this Web site.
 
 #### Surveys & Contests
 
@@ -89,11 +89,11 @@ Any or all activities and/or actions depicted in this site may be hazardous, the
 
 IH8MUD and RockCrawler provide a collection of online resources, including classified ads, forums, and various other services.  By using these service in any way, you are agreeing to comply with site policies. In addition, when using particular service, you agree to abide by any applicable posted guidelines for all services, which may change from time to time. Should you object to any term or condition, any guidelines, or any subsequent modifications thereto or become dissatisfied in any way, your only recourse is to immediately discontinue use of these sites. We reserve the right, but are not obligated, to strictly enforce site policies through self-help, community moderation, active investigation, litigation and prosecution.
 
-IH8MUD Inc. assumes no liability for your use of the material contained within this site.
+Tie Rod Media LLC assumes no liability for your use of the material contained within this site.
 
 #### Forum/Bulletin Board
 
-Our Forum is visited by members of the general public. IH8MUD Inc. is in no way liable for actions direct or indirect, caused by people’s posts and opionions.   You understand that all postings, messages, text, files, images, photos, video, sounds, or other materials (“Content”) posted on, transmitted through, or linked from IH8MUD/RockCrawler, are the sole responsibility of the person from whom such Content originated. More specifically, you are entirely responsible for each individual item (“Item”) of Content that you post, email or otherwise make available via the Service. You understand that IH8MUD/RockCrawler does not control, and is not responsible for Content made available, and that by using these sites, you may be exposed to Content that is offensive, indecent, inaccurate, misleading, or otherwise objectionable. Furthermore, IH8MUD/RockCrawler and Content available through the Service may contain links to other websites, which are completely independent. IH8MUD Inc. makes no representation or warranty as to the accuracy, completeness or authenticity of the information contained in any such site. Your linking to any other webites is at your own risk. You agree that you must evaluate, and bear all risks associated with, the use of any Content, that you may not rely on said Content, and that under no circumstances will IH8MUD Inc. be liable in any way for any Content or for any loss or damage of any kind incurred as a result of the use of any Content posted, emailed or otherwise made available. You acknowledge that IH8MUD Inc. does not pre-screen or approve Content, but  shall have the right (but not the obligation) in its sole discretion to refuse, delete or move any Content that is available via the Service, for violating the letter or spirit of the policies or for any other reason.
+Our Forum is visited by members of the general public. Tie Rod Media LLC is in no way liable for actions direct or indirect, caused by people’s posts and opionions.   You understand that all postings, messages, text, files, images, photos, video, sounds, or other materials (“Content”) posted on, transmitted through, or linked from IH8MUD/RockCrawler, are the sole responsibility of the person from whom such Content originated. More specifically, you are entirely responsible for each individual item (“Item”) of Content that you post, email or otherwise make available via the Service. You understand that IH8MUD/RockCrawler does not control, and is not responsible for Content made available, and that by using these sites, you may be exposed to Content that is offensive, indecent, inaccurate, misleading, or otherwise objectionable. Furthermore, IH8MUD/RockCrawler and Content available through the Service may contain links to other websites, which are completely independent. Tie Rod Media LLC makes no representation or warranty as to the accuracy, completeness or authenticity of the information contained in any such site. Your linking to any other webites is at your own risk. You agree that you must evaluate, and bear all risks associated with, the use of any Content, that you may not rely on said Content, and that under no circumstances will Tie Rod Media LLC be liable in any way for any Content or for any loss or damage of any kind incurred as a result of the use of any Content posted, emailed or otherwise made available. You acknowledge that Tie Rod Media LLC does not pre-screen or approve Content, but  shall have the right (but not the obligation) in its sole discretion to refuse, delete or move any Content that is available via the Service, for violating the letter or spirit of the policies or for any other reason.
 
 #### Contact Us
 
