@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widestat.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620020537id_/http%3A//widestat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widestat.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022151931id_/http%3A//widestat.com/privacy) for the most accurate reproduction.*
 
 # WideStat.com - Website Worth Calculator, Estimated Website Revenue, Approximate Traffic Value - Privacy
 
