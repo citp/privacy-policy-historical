@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.co.nz privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508224630id_/http%3A//www.ticketmaster.co.nz/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.co.nz privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022105616id_/http%3A//www.ticketmaster.co.nz/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster - Help
 
