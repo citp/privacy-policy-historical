@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hijordan.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203052047id_/http%3A//www.hijordan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hijordan.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022160638id_/http%3A//www.hijordan.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Air Jordan Shoes, Michael Jordan Shoes
 
