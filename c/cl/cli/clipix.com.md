@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipix.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605025521id_/http%3A//www.clipix.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipix.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022235919id_/http%3A//www.clipix.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Clipix: Organize your life!
 
