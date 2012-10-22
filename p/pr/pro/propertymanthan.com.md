@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertymanthan.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617174838id_/http%3A//www.propertymanthan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertymanthan.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022205707id_/http%3A//www.propertymanthan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Property Manthan - Privacy Policy
 
