@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609081408id_/http%3A//www.currensee.com/US/legal/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022070357id_/http%3A//www.currensee.com/US/legal/security-policy) for the most accurate reproduction.*
 
-# Security Policy | www.currensee.com
+# US Security Policy | www.currensee.com
 
 ### Introduction
 
@@ -58,7 +58,7 @@ Data that is not personally identifiable, such as answers to surveys, comments, 
 
 We may store cookies on your computer or other technology to improve the quality of your visit to our Site, and to remember certain user attributes. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. We use “cookie" technology for several purposes. First, we use it to track general information about our users. The information collected through cookies is non-personally identifiable information and we use this information for statistical and market research purposes. We also give you the option to use cookies to establish a link between your computer and Currensee , to help authenticate you and to customize the Site’s content so that the information made available is more likely to be of interest to you. This link assures that, when you return to our Site, you will be able to log in without the necessity of providing your password, or help us to avoid asking for the same information on your return visits to the Site. You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Refer to your browser’s instructions or “Help” button to learn more about cookies.
 
-### 7\. Security Technology
+## 7\. Security Technology
 
 Currensee uses Secure Socket Layer (SSL) encryption technology in order to provide a secure environment for all transactions and to protect certain information that you submit from loss, misuse and alteration while under our control. This type of technology also protects you from having your information intercepted by anyone other than Currensee while it is being transmitted to us. We work hard to ensure that our Web sites are secure and that they meet industry standards. We also use other safeguards such as firewalls, authentication systems (e.g., passwords and personal identification numbers), and access control mechanisms to control unauthorized access to systems and data.
 
