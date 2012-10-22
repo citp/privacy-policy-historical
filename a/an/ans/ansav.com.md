@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansav.com privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325205807id_/http%3A//www.ansav.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansav.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022041936id_/http%3A//www.ansav.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ANSAV - Simple Indonesian Antivirus
 
