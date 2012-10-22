@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220551id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022151029id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Penelope's Oasis
+# New York City Mom Beauty Fashion Blogger and Happy Marriage Tips
 
 This [Privacy Policy](http://penelopesoasis.com/privacy-policy "Privacy Policy") governs the manner in which Penelope’s Oasis collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Penelope’s Oasis](http://penelopesoasis.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Penelope’s Oasis.
 
@@ -66,9 +66,5 @@ PenelopesOasis@yahoo.com
 This document was last updated on February 24, 2011
 
 [](http://penelopesoasis.com/privacy-policy/printpage/)
-
-### Share your thoughts!
-
-Like this post? Disagree? Want to share it or respond? Talk about it on your blog or anywhere and use the code below to link back:
 
 ### Keep Reading!
