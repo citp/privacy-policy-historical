@@ -1,21 +1,20 @@
-<!--The following is the downloaded HTML source of the experienceproject.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505080024id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the experienceproject.com privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022134522id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="experienceproject-com" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<base href="http://www.experienceproject.com/"><!--[if IE]></base><![endif]-->
-		
 		<meta name="viewport" content="width=device-width, user-scalable=yes">	
-		
-		<link rel="shortcut icon" href="http://images.epcdn.net/favicon.ico">
+		<link rel="apple-touch-icon" sizes="57x57" href="http://images.epcdn.net/images/ep/mobile/apple-touch-icon.png?v=1">
+		<link rel="shortcut icon" href="http://images.epcdn.net/ep-favicon.ico">
 		<link rel="search" type="application/opensearchdescription+xml" title="Experience Proj." href="http://www.experienceproject.com/search_plugin.xml">
 				<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:regular,bold|Just+Another+Hand:cursive">
-				<link rel="stylesheet" type="text/css" href="http://static.epcdn.net/css/ep-2012/all.css?v=23dc68eb44640de28661e89b283922e4" media="screen, projection">
+				<link rel="stylesheet" type="text/css" href="http://static.epcdn.net/css/ep-2012/all.css?v=db81368d0e72c4d7468f22637f194980" media="screen, projection">
 		<!--[if lte IE 8]>
 			<link rel="stylesheet" type="text/css" href="http://static.epcdn.net/css/eppage-ie8.css?v=1" media="screen, projection" />
 		<![endif]-->
 				<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
 				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js?load=effects,dragdrop,controls"></script>
-				<script type="text/javascript" src="http://static.epcdn.net/js/ep/all.js?v=7f6a1f3c849f082fd6299539105becbf"></script>
+				<script type="text/javascript" src="http://static.epcdn.net/js/ep/all.js?v=f1c309caf94e632d1a0891a9814619a8"></script>
 				<!--[if lt IE 9]>
 		<script type="text/javascript">
 			document.createElement('header');
@@ -44,7 +43,8 @@
 
 		} catch(err) { }
         </script>
-		  <script type="text/javascript">
+		  
+  <script type="text/javascript">
   //<![CDATA[
     (function(adSlots, adTargeting) {
     
@@ -59,18 +59,24 @@
     		// Targeting
     		if (adTargeting) {
     			_.each(adTargeting, function(value, key){
-    				googletag.pubads().setTargeting(key, ''+value);
+    				if (value instanceof Array) {
+    					value = value.map(function (el) {
+    						return '' + el;
+    					});
+    				} else {
+    					value = '' + value;
+    				}
+    				googletag.pubads().setTargeting(key, value);
     			});
     		}
     
-    		googletag.pubads().enableSingleRequest();	
+    		//googletag.pubads().enableSingleRequest();	
     		googletag.pubads().collapseEmptyDivs();	
     		googletag.enableServices();	
     	});
     
     })( 
-    	// Calling jsonSerialize explicitly because JsonSerialize isnt available until we're on php 5.4
-    	[{"id":"Generic-ATF-728x90","pageType":"Generic","location":"ATF","width":728,"height":90},{"id":"Generic-ATF-300x250","pageType":"Generic","location":"ATF","width":300,"height":250},{"id":"Generic-BTF-300x250","pageType":"Generic","location":"BTF","width":300,"height":250}], 
+    	[{"id":"Generic-ATF-728x90","pageType":"Generic","location":"ATF","width":728,"height":90},{"id":"Generic-ATF-300x250","pageType":"Generic","location":"ATF","width":300,"height":250},{"id":"Generic-BTF-300x250","pageType":"Generic","location":"BTF","width":300,"height":250},{"id":"Generic-BTF-728x90","pageType":"Generic","location":"BTF","width":728,"height":90}], 
     	null
     );
     
@@ -83,9 +89,24 @@
 				
 			<meta name="keywords" content="experiences,stories,blogs,question,answers,confessions,dreams,chat,experience project,xperience project,experienceproject,ep,eproject">
 						<link rel="canonical" href="http://www.experienceproject.com/privacy.php">
-					</head>
-				<body class="ep-page  ui-2012 adaptive production non-logged-in legalese privacy">
-		<script type="text/javascript">var google_analytics_domain_name=".experienceproject.com";</script> 			<div id="cover" class="cover" style="display:none;"></div>
+					<meta property="og:image" content="http://images.epcdn.net/images/ep/ep/facebook-default-ep-share-image.png">
+				</head>
+				<body class="ep-page  ui-2012 adaptive-possible adaptive production non-logged-in legalese privacy">
+		<script type="text/javascript">var google_analytics_domain_name=".experienceproject.com";</script> 		<!-- Begin comScore Tag -->
+		<script>
+		  var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "8097507" });
+		  (function() {
+		    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		    el.parentNode.insertBefore(s, el);
+		  })();
+		</script>
+		<noscript>
+		  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8097507&cv=2.0&cj=1" height="0" width="0" border="0"/>
+		</noscript>
+		<!-- End comScore Tag -->
+				<div id="cover" class="cover" style="display:none;"></div>
 			<div id="popup" class="popup" style="display:none;">
 				<span id="top-module-popup" class="module-top"></span>
 				<div id="popup-content"></div>
@@ -96,14 +117,10 @@
 					<header class="header" id="header">
 			<div class="header-top">
 				<div class="top-section">
-				<div id="logo">
-  <a href="http://www.experienceproject.com/index.php">
-    <img src="http://images.epcdn.net/images/ep/ep/logos/ep-logo-v3.png" width="210" height="58" title="Experience Project: Stories about every Life Experience" alt="Experience Project: Stories about every Life Experiences">
-  </a>
-</div>
-			<div class="header-ad">
-			  <div class="module ad ad-wide-leaderboard" id="ad-wide-leaderboard">
-    <div class="ad-slot" id="div-gpt-ad-Generic-ATF-728x90" style="width:728px; height:90px;">
+								<div class="header-ad">
+			      <div class="module ad ad-wide-leaderboard" id="ad-wide-leaderboard">
+      
+      <div class="ad-slot" id="div-gpt-ad-Generic-ATF-728x90" style="width:728px; height:90px;">
       <button class="hide-ad-button"></button>
     <script type="text/javascript">
     //<![CDATA[
@@ -124,9 +141,14 @@
   //]]>
   </script>
 </div>
-  </div>
-			</div>
-				<div class="mobile-grid" id="mobile-grid-trigger">
+    </div>
+  			</div>
+			<div id="logo">
+  <a href="http://www.experienceproject.com">
+    <img src="http://images.epcdn.net/images/ep/ep/logos/ep-logo-v3.png" width="210" height="58" title="Experience Project: Stories about every Life Experience" alt="Experience Project: Stories about every Life Experiences">
+  </a>
+</div>
+	<div class="mobile-grid" id="mobile-grid-trigger">
 		<span class="icon"></span>
 	</div>
 	<script type="text/javascript">
@@ -137,8 +159,8 @@
 			</div>
 			<nav class="header-bottom">
 				<div class="bottom-section">
-					<ul id="nav">
-						<li class="mobile-nav-heading">Explore and Share</li> 			<li class="first menu" menuname="Stories">
+							<ul id="nav">
+						<li class="first menu" menuname="Stories">
 				<a href="/stories/topics" onmousedown="logMetricsTrackerAction('ep-cats-nav-clicks', '/headerNav/stories');return true;">
 					<span class="icon"></span>
 					<span class="label">Stories</span>
@@ -179,7 +201,7 @@
 				<span id="omnibar-loading-spinner" style="display:none;"><img src="http://images.epcdn.net/images/loading.gif" alt="loading..."></span>
 				<script type="text/javascript">new EPCachingAutocompleter("q","hint","/classes/ep/utility/EPOmniSearch.php", { frequency: .4, indicator:'omnibar-loading-spinner', logged_in: false }, EPSearchRenderer);</script>
 				<input type="hidden" name="omni" value="button">
-				<input type="hidden" name="cx" value="partner-pub-7693235355009975:1bg8zj-3grl">
+				<input type="hidden" name="cx" value="002514466368695410372:0yohysajyru">
 				<input type="hidden" name="cof" value="FORID:9">
 				<input type="hidden" name="ie" value="ISO-8859-1">
 				<input type="hidden" name="sa" value="Search">
@@ -192,7 +214,7 @@
 			</div>		
 		</div>	
 					<div id="postShortcuts">
-				<a id="postShortcuts-heading" href="/share.php">Post </a>
+				<a id="postShortcuts-heading" href="/share.php">Post</a>
 				<ul id="postShortcuts-dropdown">
 					<li><a href="/share.php">Experiences</a></li>
 					<li><a href="/group_share.php" id="post-story-link" rel="nofollow">Stories</a></li>
@@ -207,8 +229,10 @@
 				<a id="ep-site-header-login-link" class="login-link" href="/dologin.php?ref=%2Fprivacy.php&amp;src=h" rel="nofollow">Sign In</a>
 				<div class="header-login-module-container">
 					<div class="header-login-module" id="header-login-module">
-  <form class="login-form" id="header-login-module-login-form" method="post" action="/ajax/ep/login.php">
+    <form class="login-form no-status" id="header-login-module-login-form" method="post" action="https://www.experienceproject.com/ajax/ep/login.php">
   <div class="status-msg"></div>
+    <input type="hidden" id="" name="page-url" value="http://www.experienceproject.com/privacy.php">
+  <input type="hidden" id="" name="redirect-url" value="">
     <div class="form-input-container login_username-input-container text-input default-text-input" id="login_username-input-container">
                   <label for="login_username-input">Username: </label>
       
@@ -238,15 +262,15 @@
       </div>
   </div>
     <div class="form-input-container stay_logged_in-input-container checkbox-input" id="stay_logged_in-input-container">
-                <input type="checkbox" id="stay_logged_in-input" name="stay_logged_in">
-  
+                    <input type="checkbox" id="stay_logged_in-input" name="stay_logged_in">
+      
         <label for="stay_logged_in-input">Keep me logged in</label>
             </div>
     <div class="form-input-container -input-container submit-input" id="-input-container">
                   <label for="-input"></label>
       
     <div class="status-input-container">
-          <input type="submit" id="-input" class="-input" name="" value="Welcome Home">
+          <input type="submit" id="-input" class="-input" name="" value="Welcome Home" sfu="">
   <div class="loading-indicator"></div>
                   <span class="description"></span>
       
@@ -266,11 +290,6 @@
 //<![CDATA[
   (function (domId) {
   	var module = $(domId);
-  	new EP.ui.auth.LoginForm(module.down('.login-form'), {
-  		onLoginSuccess: function() {
-  			window.location.href=window.location.href;
-  		}
-  	});
   	module.down('.show-registration-form-button').observe('click', function(event) {
   		event.preventDefault();
   		new EP.ui.registration.RegistrationOverlay().show();
@@ -283,7 +302,12 @@
 		</div>
 		<script>
 
-			(function() {		
+			(function(showLogin) {
+
+				if (showLogin) {
+					$('ep-site-header-login-link').up('.login-link-container').toggleClassName('show-login');
+				}
+
 				//login overlay
 				$('ep-site-header-login-link').observe('click', function(event) {
 					event.preventDefault();
@@ -308,10 +332,36 @@
 					});
 					overlay.show();					
 				});
-			})();
+			})( false);
 
 		</script>
-						</div>
+				<p class="adaptive-setting-toggler-container">
+			<a class="adaptive-setting-toggler" id="header-adaptive-setting-toggler">Full Site</a>
+		</p>
+		<script type="text/javascript">
+			(function(domId) {
+				var toggler = $(domId);
+
+				if (document.body.hasClassName('non-adaptive'))
+					toggler.update('Mobile Site');
+
+				toggler.observe('click',function(){
+					if (document.body.hasClassName('adaptive')) {
+						var preference = 'non_adaptive'; //prefers non-adaptive
+					} else {
+						var preference = 'adaptive';
+					}
+
+					eraseCookie('user_adaptive_pref');
+					createCookie('user_adaptive_pref', preference);	
+					window.location.href=window.location.href; //refresh page for new layout			
+				});						
+			})('header-adaptive-setting-toggler');
+
+		</script>
+							<div class="clear"></div>
+				</div>
+				
 			</nav>		
 		</header>
 					<script>
@@ -442,14 +492,14 @@
 						<div class="clear"></div>
 						</div>
 						<div id="footer-search-wrapper">
-				<div id="footer-search">
+					<div id="footer-search">
 			<form action="/gsearch.php" method="get">
 				<div class="footer-search-title">Search over 13 million life experiences and stories</div>
-			<div class="footer-group-links">From the experience archive: <a href="/groups/Fight-Depression-And-Loneliness-Everyday/25529">I Fight Depression and Loneliness Everyday</a>, <a href="/stories/Wish-That-I-Could-Sleep-In-Your-Arms-Tonight/2133094">Kayla</a></div>				<fieldset>
+			<div class="footer-group-links">From the experience archive: <a href="/groups/Watch-My-Little-Pony-Friendship-Is-Magic/412899">I Watch My Little Pony Friendship Is Magic</a>, <a href="/stories/Quit-Smoking/273637">Black Eye</a></div>				<fieldset>
 					<div class="field">
-						<input type="hidden" name="cx" value="partner-pub-7693235355009975:1bg8zj-3grl">
 						<input type="hidden" name="cof" value="FORID:11">
 						<input type="hidden" name="ie" value="ISO-8859-1">
+						<input type="hidden" name="cx" value="002514466368695410372:0yohysajyru">
 						<input type="hidden" name="sa" value="Search">
 						<input type="text" class="text default" name="q" value="">
 						<select name="hq">
@@ -467,17 +517,30 @@
 				</fieldset>
 			</form>
 		</div>
-				</div>
+		      <div class="module ad " id="Generic-BTF-728x90-container">
+      
+      <div class="ad-slot" id="div-gpt-ad-Generic-BTF-728x90" style="width:728px; height:90px;">
+    <script type="text/javascript">
+  //<![CDATA[
+    (function (divId) {
+    	googletag.cmd.push(function() { googletag.display(divId); }); 
+    })('div-gpt-ad-Generic-BTF-728x90');
+    
+  //]]>
+  </script>
+</div>
+    </div>
+  		</div>
 			<div id="footer-wrapper">
 				<p class="adaptive-setting-toggler-container">
-			<a class="adaptive-setting-toggler" id="adaptive-setting-toggler">Switch to Desktop Layout</a>
+			<a class="adaptive-setting-toggler" id="footer-adaptive-setting-toggler">Full Site</a>
 		</p>
 		<script type="text/javascript">
-			(function() {
-				var toggler = $('adaptive-setting-toggler');
+			(function(domId) {
+				var toggler = $(domId);
 
 				if (document.body.hasClassName('non-adaptive'))
-					toggler.update('Switch to Mobile Layout');
+					toggler.update('Mobile Site');
 
 				toggler.observe('click',function(){
 					if (document.body.hasClassName('adaptive')) {
@@ -490,7 +553,7 @@
 					createCookie('user_adaptive_pref', preference);	
 					window.location.href=window.location.href; //refresh page for new layout			
 				});						
-			})();
+			})('footer-adaptive-setting-toggler');
 
 		</script>
 		
@@ -499,7 +562,7 @@
 			<div id="navFooter-share" class="navFooter-section">
 			  <div class="navFooter-description">
 				<div class="navFooter-header">Share</div>
-				<p>This is your place to share the <strong>experiences that matter most to you</strong>.</p>
+				<p>This is your place to share the experiences that matter most to you.</p>
 			  </div>
 			  <div class="navFooter-links">
 				<p>
@@ -535,10 +598,9 @@
 			  </div>
 			  <div class="navFooter-links">
 				<p>
-				  <a href="/mk/all-trivia-games.php">Causes</a> / <a href="/mk/all-petitions.php">Petitions</a><br>
 				  <a href="/mk/trending-topics.php">Trending Topics</a><br>
 				  <a href="/games.php">Free Online Games</a><br>
-				  <a href="/mk/baby-names-first-names/name-meanings.php">Name Meanings</a> / <a href="/song_meanings.php">Song Meanings</a><br>
+				  <a href="/mk/baby-names-first-names/name-meanings.php">Name Meanings</a><br>
 				  <a href="/greetingcards.php">Greeting Cards</a> / <a href="/dictionary">Dictionary</a><br>
 				  <a href="/topics">Topics</a> / <a href="http://www.broadcause.com" rel="nofollow" target="_bc_blank">BroadCause</a> 
 				</p>
@@ -591,21 +653,7 @@
 				createCookie('reg_page_view_count', page_views);
 			}
 		</script>	
-				<!-- Begin comScore Tag -->
-		<script>
-		  var _comscore = _comscore || [];
-		  _comscore.push({ c1: "2", c2: "8097507" });
-		  (function() {
-		    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-		    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-		    el.parentNode.insertBefore(s, el);
-		  })();
-		</script>
-		<noscript>
-		  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8097507&cv=2.0&cj=1" height="0" width="0" border="0"/>
-		</noscript>
-		<!-- End comScore Tag -->
-			<!-- Quantcast Tag --> 
+				<!-- Quantcast Tag --> 
 		<script type="text/javascript">
 		  var _qevents = _qevents || [];
 		
