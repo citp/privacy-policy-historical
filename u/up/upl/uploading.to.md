@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploading.to privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520175338id_/http%3A//www.uploading.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploading.to privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022132917id_/http%3A//www.uploading.to/privacy) for the most accurate reproduction.*
 
 # Uploading.to - Upload files to Multiple File Hosts in one click
 
