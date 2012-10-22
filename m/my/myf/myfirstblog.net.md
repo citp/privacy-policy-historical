@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfirstblog.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615153657id_/http%3A//myfirstblog.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfirstblog.net privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022110552id_/http%3A//myfirstblog.net/privacy) for the most accurate reproduction.*
 
 # Privacy | MyFirstBlog.net: More than blogs, it is a network
 
