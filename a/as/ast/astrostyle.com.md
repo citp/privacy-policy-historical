@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512020904id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023003655id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy.htm) for the most accurate reproduction.*
 
 # Testimonials
 
@@ -51,4 +51,4 @@ WE do not allow postings that contain: (1) profanity or obscenities; (2) libel, 
 
 This message board may only be used for noncommercial purposes. Users may not post any information intended to promote or generate revenue for themselves or other third-party businesses. WE remains committed toward providing our users with the best service available and will maintain reasonable procedures to protect our message boards. WE reserves the right to edit, delete or refuse to post any messages that violate its policies and does not endorse the accuracy or reliability of the content posted by its users. 
 
-[NEXT](https://web.archive.org/web/20120512020904id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy2.htm)
+[NEXT](https://web.archive.org/web/20121023003655id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy2.htm)
