@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the traiborg.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522082422id_/http%3A//www.traiborg.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traiborg.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022022534id_/https%3A//traiborg.com/help/privacy) for the most accurate reproduction.*
 
 # TRAIBORG - Privacy Policy
 
 | 
 
-This Privacy Policy (forward **"Privacy Policy".** ) apply to your use of the website **www.traiborg.com** (in forward,the **"Web Site".** ). The Website is owned by **Traiborg.**
+## Safety and Protection of Personal Data
+
+The personal data security is a priority for **traiborg.com.** This website strives to provide the highest level of safety which is used for advanced technology. We adhere to the requirements of Law 34/2002 of Services of the Information Society and Electronic Commerce (LSSICE), and the Organic Law 15/1999 on Protection of Personal Data.
+
+This Privacy Policy (forward **"Privacy Policy".** ) apply to your use of the website **www.traiborg.com** (in forward,the **"Web Site".** ). The Website is owned by **CREACIONES TRAIBORG, S.L.**
 
 To **Traiborg.com.** , Your privacy is an issue of utmost importance. As custodians of your personal information, we have developed this policy to ensure that your privacy is always protected when you use the social network **Traiborg.com.**
 
@@ -30,11 +34,11 @@ A cookie is a small file stored on a computer that incorporates information abou
 
 However, if you want the future to stop all cookies stored on your computer, please consult the manufacturer of your browser by clicking "Help" menu of it. For more information on deleting or controlling cookies visit http://www.aboutcookies.org. 
 
-If you decide to disseminate personal information using any of our means of communication such as e-mail, personal information you disclose is your sole responsibility. In any case, we reserve the right to terminate the accounts of users who use the Web Site without compliance with our [ Terms of Use](http://www.traiborg.com/help/terms).
+If you decide to disseminate personal information using any of our means of communication such as e-mail, personal information you disclose is your sole responsibility. In any case, we reserve the right to terminate the accounts of users who use the Web Site without compliance with our [ Terms of Use](https://www.traiborg.com/help/terms).
 
 ## Using your personal data
 
-Internally, we use the personal data of our users to statistically analyze Web Site usage, to comply with applicable law, to improve the content and delivery of our products and to customize the content and design of the Web Site. We also use personal information to provide commercial information relating to their interests, in some cases, include promotions or advertisements intended to measure. Note that to facilitate **Traiborg.com** your email address, you expressly consent to **Traiborg.com** referred to it by one means or other electronic means , Communications, commercial and advertising content to which we refer. We believe these uses allow us to improve the Website and personalize your experience at our community in order to fully meet their expectations and meet their needs. In any case, use your personal information to solve problems, locate and correct errors and enforce our [ Terms of Use](http://www.traiborg.com/help/terms). 
+Internally, we use the personal data of our users to statistically analyze Web Site usage, to comply with applicable law, to improve the content and delivery of our products and to customize the content and design of the Web Site. We also use personal information to provide commercial information relating to their interests, in some cases, include promotions or advertisements intended to measure. Note that to facilitate **Traiborg.com** your email address, you expressly consent to **Traiborg.com** referred to it by one means or other electronic means , Communications, commercial and advertising content to which we refer. We believe these uses allow us to improve the Website and personalize your experience at our community in order to fully meet their expectations and meet their needs. In any case, use your personal information to solve problems, locate and correct errors and enforce our [ Terms of Use](https://www.traiborg.com/help/terms). 
 
 In particular, we offer the possibility to send emails relating to notification of new message alerts or other purposes related to the use of the Web site for which you have given us your consent. At any time, you can enable or disable this option in your Settings page. 
 
@@ -56,7 +60,7 @@ We reserve the right to disclose personal information when required by law, when
 
 ##  Use of personal data about other users 
 
-You are not authorized to use the personal data about other users who could get access for any purpose. We reserve the right to terminate the accounts of users who improperly use information from other users or otherwise failing to comply with the provisions of the [ Terms of Use ](http://www.traiborg.com/help/terms) . 
+You are not authorized to use the personal data about other users who could get access for any purpose. We reserve the right to terminate the accounts of users who improperly use information from other users or otherwise failing to comply with the provisions of the [ Terms of Use ](https://www.traiborg.com/help/terms) . 
 
 ##  Inactive 
 
@@ -104,12 +108,16 @@ Traiborg.com does not sell email addresses nor use them for any other purpose th
 
 If a user chooses to facilitate contact the Web site, **Traiborg.com** will automatically send an email to those contacts inviting them to join the Web Site. **Traiborg.com** does not sell email addresses nor use them for any other purpose than to send invitations but store these email addresses to automatically associate a user contacts with who sent the invitation. Also, contacts may contact **Traiborg.com** to request that their email addresses are removed from our database. In any case, by providing the email addresses of your contacts, the registered user of **Traiborg.com** explicitly states have sought and informed consent to their contacts with the conditions and treatment purposes described above. 
 
+##  Refund 
+
+To request reimbursement of money please contact us at the following address: pagos@traiborg.com No money is paid back on services already used. The user has a period of 7 days to request a refund, provided that no use is made for them. This can take between 30 to 45 days.
+
 ## 
 
 Policy Changes 
 
 If we decide to change the policy or the policy of use of email, any changes will be notified by email and post the changes occurring in the Website, and in those places we deem appropriate to that you are aware of the personal data we collect, how we treat them and under what circumstances, if any, we communicate. 
 
-[Join Free](http://www.traiborg.com/signup)  
+[Join Free](https://www.traiborg.com/signup)  
   
 ---|---
