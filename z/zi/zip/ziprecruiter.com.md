@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161500id_/http%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022162411id_/http%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZipRecruiter
+
+[ ](https://privacy.truste.com/privacy-seal/ZipRecruiter,-Inc-/validation?rid=ea55b827-615a-4d5a-8edd-1c47f0d53d24 "TRUSTe online privacy certification")
 
 _Last revised: August 24, 2010_
 
