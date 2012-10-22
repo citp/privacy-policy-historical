@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepur.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512030644id_/http%3A//www.gamepur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepur.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022181735id_/http%3A//www.gamepur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
