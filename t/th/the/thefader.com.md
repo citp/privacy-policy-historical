@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefader.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507011108id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefader.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022190137id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The FADER
 
