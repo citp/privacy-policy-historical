@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508222451id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022224300id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
 
 # Zoovy Privacy Policy
 
@@ -86,3 +86,5 @@ Carlsbad, CA. 92008
 [support@zoovy.com](mailto:support@zoovy.com)
 
 | 
+
+[](https://web.archive.org/complete/#mobile)
