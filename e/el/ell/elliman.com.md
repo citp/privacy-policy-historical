@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503202435id_/http%3A//www.elliman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023014239id_/http%3A//www.elliman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Prudential Douglas Elliman
 
