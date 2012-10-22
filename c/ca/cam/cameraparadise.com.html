@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cameraparadise.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513014602id_/http%3A//cameraparadise.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cameraparadise.com privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022192506id_/http%3A//cameraparadise.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Digital Camera Store - Buy Digital Cameras, Digital SLR Cameras, Lenses and Photography Accessories</title>
@@ -16,7 +16,7 @@
 <link href="../css/plug-in.css" rel="stylesheet" type="text/css">
 <link href="../../plug-in/SexyButtons/sexybuttons.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="../images/logo-small.ico">    <!-- General -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="../../js/utility.js"></script>
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/1574.js?439034" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="../../js/utility.js"></script>
     <script type="text/javascript" language="javascript" src="../../js/validation.js"></script>
 
 <!-- jquery -->
@@ -66,9 +66,9 @@
   })();
 </script>
 
-<!-- google plus -->
+<!-- google plus
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<!-- google plus --></head>
+ google plus --></head>
 <body>
   <form name="frm">
     <div id="container">
@@ -79,56 +79,211 @@
 
         	<div id="header-center">
             
-            	<a href="http://cameraparadise.com/" title="Camera Paradise"><img id="logo" src="../images/logo.png" alt="Camera Paradise" border="0"></a>
-<div style="float:right">
-	<div id="member">
-    <a href="http://cameraparadise.com/about-us.html" title="About Us">ABOUT US</a>
-    <a href="../cart/" title="View your shopping cart">VIEW CART</a>
-    <a href="../track-my-order/" title="Order tracker">ORDER TRACKER</a>
-                <a href="../member/" title="Camera Paradise Member Area">LOG IN</a>
-            <a href="../register/" title="Register">REGISTER</a>    
-        </div>
-	<br class="clear">
-    <div id="currency-box">
-        CURRENCIES:
-        <script type="text/javascript">
-            function display_currency(id){
-                fr = document.frm;
-                fr.action = '/en/privacy-policy/index.php?';
-                fr.target = '_self';
-                fr.method = 'post';
-                fr.submit();
-            }
-        </script>
-        <select name="display_currency_id" onchange="display_currency(this.value)" style="margin-right:10px; ">
-             <option value="1" selected="selected">Australian Dollar</option> <option value="7">US Dollar</option> <option value="2">British Pounds</option> <option value="4">EURO</option>        </select>
+            	<link href="http://cameraparadise.com/en/css/new_header.css" rel="stylesheet" type="text/css">
+<div style="float: left; width: 460px;">
+<a href="http://cameraparadise.com/" title="Camera Paradise">
+<img id="logo" src="../../en/images/logo.png" alt="Camera Paradise" border="0">
+</a>
+<div id="tool-bar2" class="content-shadow" style="float: left;">
+            
+                <div id="tools-box">
+	<div id="product-search">
+        <table>
+            <tbody><tr>
+                <td>
+                	<script type="text/javascript">
+                        function form_search(){
+                            fr = document.frm;
+                            
+                            if (fr.search_keyword.value =='Search Products')
+                                fr.search_keyword.value = "";
+                        
+                            fr.target = "_self";
+                            fr.method = "post";
+                            fr.action = "../../en/product/index.php";
+                            fr.submit();
+
+                        }
+                        
+                        function form_search_press_enter(e){
+                            if (e.keyCode == 13){
+                                form_search();
+                            }
+                        
+                        }
+                        $(document).ready(function(){
+                            if($('#search_keyword').val()=='Search Products'){
+                                $('#search_keyword').css('color','#CCCCCC');
+                            }
+                            else{
+                                $('#search_keyword').css('color','#000000');
+                            }
+                            
+                        });
+                    </script>
+                    <input type="text" style="width: 411px; height: 19px; border: medium none; margin-left: 13px; color:#CCCCCC;" id="search_keyword" name="search_keyword" value="Search Products" onfocus=" if(this.value=='Search Products'){ this.value=''; $('#search_keyword').css('color','#000000');}" onblur="if($.trim(this.value)=='') {this.value='Search Products'; $('#search_keyword').css('color','#CCCCCC');}" onkeypress="form_search_press_enter(event);">
+                    
+                    
+                    <script type="text/javascript">
+                        $().ready(function() {
+                            $("#search_keyword").autocomplete("../../en/include/autocomplete.php", {
+                                width: 400,
+                                scroll: true,
+                                scrollHeight: 500,									
+                                selectFirst: false
+                            });
+                        });
+                    </script>
+                    
+                    
+                    
+                </td>
+                <td><div style="background-color: #FFFFFF; margin-left: -6px;height: 25px;padding-left: 5px;"><a onclick="form_search();"><img height="16px" border="0" src="http://cameraparadise.com/en/images/search_btn.png" style="margin-top:4px; margin-right:3px"></a></div></td>
+            </tr>
+        </tbody></table>
     </div>
-	<!--
-    <div id="google-plus-box">
-        <g:plusone size="medium" href="http://cameraparadise.com"></g:plusone>
+    
+    <!-- My Cart 
+    <div id="my-cart">
+	    <table>
+            <tr>
+                <td><img src="../images/icon/basket.png" border="0" alt="My Shopping Cart" /></td>
+                <td><a href="http://cameraparadise.com/en/checkout/checkout.php" title="view my cart">VIEW CART</a></td>
+                
+                <td style="padding-left:5px;">
+                	<a href="#" onclick="javascript:window.open('https://www.paypal.com/hk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img  src="https://www.paypal.com/en_GB/i/logo/PayPal_mark_60x38.gif" border="0" alt="Acceptance Mark" /></a>
+                </td>
+            </tr>
+        </table>
     </div>
-    -->
+     -->
 </div>                
                 <br class="clear">
+    
+            </div>
+ </div>           
+<div style="float:right;  height: 121px;">
+
+	<div id="member">
+
+    
+
+    
+            <a href="http://cameraparadise.com/en/member/" title="Camera Paradise Member Area">Login</a>  
+
+    
+    <a href="http://cameraparadise.com/en/track-my-order/" title="Order tracker">Order Tracker</a>
+
+    <a href="http://cameraparadise.com/shipping.html" title="Shipping">Shipping</a>
+
+    <a href="http://cameraparadise.com/faq.html" title="Help">Help</a>
+
+    <a href="http://cameraparadise.com/contact-us.html" title="Contact Us">Contact Us</a>
+
+    
+
+    <a href="" title="Change Currency" onclick="$('#currency_div').toggle(); return false;
+
+">Change Currency</a>
+	<br class="clear">
+
+<div id="currency_div">
+
+
+    <ul id="currency_dropdown">
+    <li><a href="#" onclick="display_currency(1); return false;">Australian Dollar</a></li><li><a href="#" onclick="display_currency(2); return false;">British Pounds</a></li><li><a href="#" onclick="display_currency(7); return false;">US Dollar</a></li>
+    </ul>
+
+</div>
+
+    <!--
+
+    <a href="http://cameraparadise.com/en/checkout/checkout.php" title="View your shopping cart">VIEW CART</a>
+
+    -->
+
+    </div>
+
+	<br class="clear">
+    
+    <div style="width: 515px;">
+    
+    <div style="float: left; width: 120px;padding-top: 15px;">
+            </div>
+ 
+    <div id="view_cart_div" style="float: right;">
+        <div id="view_cart_p"><p>Enjoy AUD10 / GBP5 Discount Today!</p></div>        <div id="view_cart_details">
+            <span id="cart_det1">Cart (<span id="cart_summary_items">0</span> item) - AU$ <span id="cart_summary_amt">0</span></span><br>
+            
+             <div id="cart_det2">Est. Shipping Cost - AU$ <span id="cart_summary_shipping_amt">0.00</span></div>        
+        </div>
+        <div id="view_cart_btn">
+            <a title="view my cart" href="http://cameraparadise.com/en/checkout/checkout.php"><button title="VIEW CART / CHECKOUT" type="button" class="sexybutton sexysimple sexygreen view_cart_btn" style="font-size: 11px !important;">VIEW CART / CHECKOUT &gt;</button></a>
+        </div>
+        <br class="clear">
+    </div>
+</div>
+        <script type="text/javascript">
+
+            function display_currency(id){
+
+                fr = document.frm;
+
                 
-				<div id="menu" class="content-shadow">
+
+                fr.target = '_self';
+
+                fr.method = 'post';
+                document.frm.display_currency_id.value = id;
+
+                fr.submit();
+                
+
+            }
+
+        </script>
+        <input type="hidden" value="1" name="display_currency_id" onchange="display_currency(this.value)">
+        
+        
+
+
+	<!--
+
+    <div id="google-plus-box">
+
+        <g:plusone size="medium" href="http://cameraparadise.com"></g:plusone>
+
+    </div>
+
+    -->
+
+</div>
+
+
+
+
+
+                
+                <br class="clear">
+                
+				<div id="menu" class="content-shadow" style="margin: 0 auto; width: 980px;">
     <ul id="menu-ul">
     
         <li><a href="http://cameraparadise.com/en/index/index.php" title="Home Page of Camera Paradise">Home</a></li>
         
-        <li><a href="http://cameraparadise.com/digital-camera.html" title="Digital Camera">Digital Camera</a></li>
+        <li><a href="http://cameraparadise.com/digital-camera.html" title="Compact Cameras">Compact Cameras</a></li>
         
-        <li><a href="http://cameraparadise.com/digital-slr-camera.html" title="Digital SLR Camera">Digital SLR Camera</a></li>
+        <li><a href="http://cameraparadise.com/digital-slr-camera.html" title="Digital SLR Cameras">Digital SLR Cameras</a></li>
         
         <li><a href="http://cameraparadise.com/lenses.html" title="Lenses">Lenses</a></li>
         
-        <li><a href="http://cameraparadise.com/news.html" title="News &amp; Press">News &amp; Press</a></li>
+        <li><a href="http://cameraparadise.com/memory-card.html" title="Memory">Memory</a></li>
         
-        <li><a href="http://cameraparadise.com/faq.html" title="FAQ / HELP">FAQ</a></li>
+        <li><a href="http://cameraparadise.com/photography-accessories.html" title="Accessories">Accessories</a></li>
         
-        <li><a href="http://cameraparadise.com/shipping.html" title="Shipping">Shipping</a></li>
+        <li><a href="http://cameraparadise.com/en/news/" title="News &amp; Press">News &amp; Press</a></li>
         
-        <li><a href="http://cameraparadise.com/contact-us.html" title="Contact Camera Paradise">Contact Us</a></li>
+        
         
     </ul>
 </div>
@@ -142,69 +297,7 @@
         
         <div id="tool-bar" class="content-shadow">
         
-        	<div id="tools-box">
-	<div id="product-search">
-        <table>
-            <tbody><tr>
-                <td><img src="../images/icon/search.png" border="0" alt="camera search"></td>
-                <td>
-                	<script type="text/javascript">
-                        function form_search(){
-                            fr = document.frm;
-                            
-                            if (fr.search_keyword.value =='Keyword')
-                                fr.search_keyword.value = "";
-                        
-                            fr.target = "_self";
-                            fr.method = "post";
-                            fr.action = "../product/index.php";
-                            fr.submit();
-
-                        }
-                        
-                        function form_search_press_enter(e){
-                            if (e.keyCode == 13){
-                                form_search();
-                            }
-                        
-                        }
-                    </script>
-                    
-                                            <input type="text" id="search_keyword" name="search_keyword" value="Keyword" onclick="$('#search_keyword').val('');" onkeypress="form_search_press_enter(event);">
-                                        
-                    <script type="text/javascript">
-                        $().ready(function() {
-                            $("#search_keyword").autocomplete("../include/autocomplete.php", {
-                                width: 400,
-                                scroll: true,
-                                scrollHeight: 500,									
-                                selectFirst: false
-                            });
-                        });
-                    </script>
-                    
-                    <button class="sexybutton sexysimple sexygreen sexysmall" type="button" onclick="form_search();" style="margin-bottom:4px;">Search</button>
-                    
-                </td>
-            </tr>
-        </tbody></table>
-    </div>
-    
-    <!-- My Cart -->
-    <div id="my-cart">
-	    <table>
-            <tbody><tr>
-                <td><img src="../images/icon/basket.png" border="0" alt="My Shopping Cart"></td>
-                <td><a href="http://cameraparadise.com/en/cart/" title="view my cart">VIEW CART</a></td>
-                <!--
-                <td style="padding-left:5px;">
-                	<a href="#" onclick="javascript:window.open('https://www.paypal.com/hk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img  src="https://www.paypal.com/en_GB/i/logo/PayPal_mark_60x38.gif" border="0" alt="Acceptance Mark" /></a>
-                </td>
-                -->
-            </tr>
-        </tbody></table>
-    </div>
-</div>            
+        	            
             <br class="clear">
 
 <div id="facebook-tab"><a href="https://www.facebook.com/pages/Camera-Paradise/116365231746177" title="Camera Paradise on Facebook" target="_blank"><img src="../images/camera-paradise-facebook.png" alt="Find us on facebook" border="0"></a></div>
@@ -226,7 +319,7 @@
             <li><a href="../about-us/">About Us</a></li>
             <li>Warranty
               <ul>
-                <li><a href="../warranty/index.php" style="font-size:11px;">- Australia</a></li>
+                <li><a href="../warranty/index.php" style="font-size:11px;">- Australia &amp; UK </a></li>
                 <li><a href="../warranty/international-warranty.php" style="font-size:11px;">- International</a></li>
                 <li><a href="../warranty/mack-local-and-internetional-services-procedure.php" style="font-size:11px;">- Mack Services Procedure</a></li>
               </ul>
@@ -335,7 +428,7 @@
 <p><span lang="EN-US"><br></span></p>
 <p><strong><span lang="EN-US">Links To Other Sites</span></strong><span lang="EN-US"><br> This Web site contains links to other Web sites. Please note that when you   click on one of these links, you may be leaving the <strong>"CAMERAPARADISE.COM"</strong> site and entering another Web site. These   sites may independently collect or request information about you and we   encourage you to read the privacy statements of these linked sites as their   privacy policy may differ from ours.</span></p>
 <p><span lang="EN-US"><br></span></p>
-<p><strong><span lang="EN-US">Communication</span></strong><span lang="EN-US"><br> From time to time we may send out email messages alerting you that products   are available, to remind you about providing feedback or for promotional   offers. In addition, you will receive communication from us 1) if you contact   us for a particular reason, 2) to receive your orders, or 3) we need to   contact you for administrative purposes such as winning a contest.   Administrative e-mails will not contain promotional materials. If you choose   to receive our News Letters, they will contain promotional materials from <strong>"CAMERAPARADISE.COM"</strong>.</span></p>
+<p><strong><span lang="EN-US">Communication</span></strong><span lang="EN-US"><br> From time to time we may send out email messages alerting you that products   are available, to remind you about providing feedback or for promotional   offers. In addition, you will receive communication from us 1) if you contact   us for a particular reason, 2) to receive your orders, or 3) we need to   contact you for administrative purposes such as winning a contest.   Administrative e-mails will not contain promotional materials. If you choose   to make purchase from us, it means you are willing to receive the email alerts from&nbsp;<strong>"CAMERAPARADISE.COM"</strong>. There will be an unsubscription link at the bottom of each email. You can choose to opt out if you wish.</span></p>
 <p><span lang="EN-US"><br></span></p>
 <p><strong><span lang="EN-US">Legal Disclaimer</span></strong><span lang="EN-US"><br> Though we make every effort to preserve user privacy, we may need to disclose   personal information when required by law wherein we have a good-faith belief   that such action is necessary to comply with a current judicial proceeding, a   court order or legal process served on our Web site.</span></p>
 <p><span lang="EN-US"><br></span></p>
@@ -344,6 +437,7 @@
 <p><strong><span lang="EN-US">Contests</span></strong><span lang="EN-US"><br> Periodically, contests are run on our site. Our customers sponsor sometimes   contests. To enter these contests you need only to enter your ID and password   and your guess. At the time of entry, you may decide if you wish to have your   first name and state posted on our site if you are the winner. Winner´s names   are NEVER shared with our customers without their consent.</span></p>
 <p><span lang="EN-US"><br></span></p>
 <p><strong><span lang="EN-US">Our Use of Cookies</span></strong><span lang="EN-US"><br> Cookies is pieces of information that your browser stores on your computer´s   hard drive that identify you when you enter. The ability to select samples on   our site is not cookie-driven. We may use session cookies to provide a   seamless experience on the site and to combine with our log files so that we   can understand our site traffic and analyze our demographic information in   aggregate form. If you have set your browser to reject cookies, our site will   not identify you when you enter and you will need to manually type in your ID   and password.</span></p>
+<p><span lang="EN-US">Browsing activities on our site may be recorded with the use of cookies. We, partnered with 3rd party vendors (e.g., Google), will use the information to display advertisements to our visitors when they are browsing the internet. Similar browsing patterns among visitors may be grouped for the same advertising campaign. You can opt out of a third-party vendor´s use of cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative opt-out page</a>.</span></p>
 <p><span lang="EN-US"><br></span></p>
 <p><strong><span lang="EN-US">Your Feedback is Always Welcome</span></strong><span lang="EN-US"><br> We welcome your comments and questions about our privacy policy - or anything   else you might want to talk about. To contact us click <a href="../contact-us/">here</a><em>.</em></span></p>
 <p><br><span lang="EN-US"><em>&nbsp;</em></span></p>
@@ -369,22 +463,31 @@
     <center>
         <ul id="footer-menu">
             <li><a href="http://cameraparadise.com/en/index/index.php" title="Home Page of Camera Paradise">Home</a></li>
-            <li><a href="http://cameraparadise.com/about-us.html" title="About Camera Paradise">About Us</a></li>
-            <li><a href="http://cameraparadise.com/warranty.html" title="Warranty">Warranty</a></li>            
-            <li><a href="http://cameraparadise.com/faq.html" title="FAQ / HELP">FAQ</a></li>
-            <li><a href="http://cameraparadise.com/shipping.html" title="Shipping">Shipping</a></li>
-            <li><a href="http://cameraparadise.com/return-policy.html" title="Return Policy">Return Policy</a></li>
-            <li><a href="http://cameraparadise.com/wholesale.html" title="Digital Camera Wholesale">Wholesale</a></li>
-            <li><a href="http://cameraparadise.com/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
-            <li><a href="http://cameraparadise.com/condition-of-use.html" title="Condition of Use">Condition of Use</a></li>
-            <li><a href="http://cameraparadise.com/sitemap.html" title="Sitemap">Sitemap</a></li>            
-            <li><a href="http://cameraparadise.com/contact-us.html" title="Contact Camera Paradise">Contact Us</a></li>
+            <li><a href="http://cameraparadise.com/en/about-us/" title="About Camera Paradise">About Us</a></li>
+            <li><a href="http://cameraparadise.com/en/warranty/" title="Warranty">Warranty</a></li>            
+            <li><a href="http://cameraparadise.com/en/help/" title="FAQ / HELP">FAQ</a></li>
+            <li><a href="http://cameraparadise.com/en/shipping/" title="Shipping">Shipping</a></li>
+            <li><a href="http://cameraparadise.com/en/return-policy/" title="Return Policy">Return Policy</a></li>
+            <li><a href="http://cameraparadise.com/en/wholesale/" title="Digital Camera Wholesale">Wholesale</a></li>
+            <li><a href="http://cameraparadise.com/en/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+            <li><a href="http://cameraparadise.com/en/about-us/condition-of-use/" title="Condition of Use">Condition of Use</a></li>
+            <li><a href="http://cameraparadise.com/en/sitemap/" title="Sitemap">Sitemap</a></li>            
+            <li><a href="http://cameraparadise.com/en/contact-us/" title="Contact Camera Paradise">Contact Us</a></li>
         </ul>
     </center>
     
     <div id="copyright">© 2012 Camera Paradise. All rights reserved.</div>
 
-</div>        <!-- End of Footer -->
+</div>
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/1574.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+        <!-- End of Footer -->
 
     </div>
   </form>
