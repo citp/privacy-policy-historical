@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602145135id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022115428id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
 
 # SOS Privacy Policy
 
@@ -163,6 +163,3 @@ The security and confidentiality of your information is extremely important to u
 As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union or United States. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.
 
 _This Privacy Policy was last updated 22nd May 2012._
-
-  
-
