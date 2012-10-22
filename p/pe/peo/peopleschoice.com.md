@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625115936id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022113104id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
 # P&G Privacy Notice
 
