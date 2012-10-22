@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighealthtree.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214455id_/http%3A//www.bighealthtree.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighealthtree.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022215621id_/http%3A//bighealthtree.com/privacy_statement) for the most accurate reproduction.*
 
 # Big Health Tree Privacy Statement
 
@@ -68,7 +68,7 @@ No one under age 13 is eligible to use our services, and we do not direct any of
 
  **Information Use**
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Big Health Tree uses information obtained from its members and other visitors as stated in this Policy and to enhance members' and other visitor's experiences on the Big Health Tree website.
 
