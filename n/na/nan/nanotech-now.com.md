@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511165316id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022022652id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ******** | 
 
-[Home](https://web.archive.org/web/20120511165316id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20121022022652id_/http%3A//www.nanotech-now.com/) > Privacy
 
 ## Privacy Notice:
 
@@ -34,8 +34,6 @@ We use these summary statistics to help us make our site more useful to visitors
 |  The latest news from around the world, FREE    
 |   
   
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)  
   
 ---  
