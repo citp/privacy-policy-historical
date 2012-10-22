@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510215424id_/https%3A//www.billguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022151909id_/https%3A//www.billguard.com/privacy) for the most accurate reproduction.*
 
-# BillGuard® | Free protection for your credit cards and debit cards | Privacy & Security Policy
+# BillGuard® | Protection for your credit cards and debit cards | Privacy & Security Policy
 
 ##  Privacy & Security Policy 
 
-Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20120510215424id_/https%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
+Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20121022151909id_/https%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
 
 We also go out of our way to request only the minimal information needed in order to notify you when BillGuard finds questionable charges on your accounts. The text below explains how we use the information you provide us in as clear terms as possible but if anything is confusing or you'd just like to chat about it, please feel free to email me personally at yaron@billguard.com. I look forward to your email and thank you for the opportunity to earn your trust. We truly are safer together.
 
 So let's get started...
 
 This policy explains the accepted privacy practices for our website - [www.billguard.com](http://www.billguard.com/) (hereinafter the "Website" or "BillGuard") and describes the ways we collect and use your personal information and the rights and options available to you with respect this information. This policy is incorporated to BillGuard's [Terms of Use](https://web.archive.org/tos) (the "Terms of Use" or the "Terms").
-
-PLEASE NOTE THAT THIS POLICY IS A PRE-LAUNCH VERSION AND IS THEREFORE SUBJECT TO CHANGES AS WE LEARN MORE ABOUT OUR USERS EXPERIENCE WITH OUR SERVICES.
 
 You agree to be bound by any of the changes made in the terms of this policy. Continuing to use the Website and its services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Website and its services.
 
