@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cameraparadise.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513014602id_/http%3A//cameraparadise.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameraparadise.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022192506id_/http%3A//cameraparadise.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Digital Camera Store - Buy Digital Cameras, Digital SLR Cameras, Lenses and Photography Accessories
 
@@ -28,7 +28,7 @@ After becoming an **"CAMERAPARADISE.COM"** subscriber you may correct/update you
 This Web site contains links to other Web sites. Please note that when you click on one of these links, you may be leaving the **"CAMERAPARADISE.COM"** site and entering another Web site. These sites may independently collect or request information about you and we encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
 
 **Communication**  
-From time to time we may send out email messages alerting you that products are available, to remind you about providing feedback or for promotional offers. In addition, you will receive communication from us 1) if you contact us for a particular reason, 2) to receive your orders, or 3) we need to contact you for administrative purposes such as winning a contest. Administrative e-mails will not contain promotional materials. If you choose to receive our News Letters, they will contain promotional materials from **"CAMERAPARADISE.COM"**.
+From time to time we may send out email messages alerting you that products are available, to remind you about providing feedback or for promotional offers. In addition, you will receive communication from us 1) if you contact us for a particular reason, 2) to receive your orders, or 3) we need to contact you for administrative purposes such as winning a contest. Administrative e-mails will not contain promotional materials. If you choose to make purchase from us, it means you are willing to receive the email alerts from  **"CAMERAPARADISE.COM"**. There will be an unsubscription link at the bottom of each email. You can choose to opt out if you wish.
 
 **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
@@ -41,6 +41,8 @@ Periodically, contests are run on our site. Our customers sponsor sometimes cont
 
 **Our Use of Cookies**  
 Cookies is pieces of information that your browser stores on your computer´s hard drive that identify you when you enter. The ability to select samples on our site is not cookie-driven. We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your ID and password.
+
+Browsing activities on our site may be recorded with the use of cookies. We, partnered with 3rd party vendors (e.g., Google), will use the information to display advertisements to our visitors when they are browsing the internet. Similar browsing patterns among visitors may be grouped for the same advertising campaign. You can opt out of a third-party vendor´s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Your Feedback is Always Welcome**  
 We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us click [here](http://cameraparadise.com/en/contact-us/) _._
