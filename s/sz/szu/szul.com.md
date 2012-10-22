@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the szul.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510193413id_/http%3A//www.szul.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the szul.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022223310id_/http%3A//www.szul.com/privacy.aspx) for the most accurate reproduction.*
 
 # Szul.com - Privacy Policy
 
