@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512210931id_/https%3A//www.xcite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022183646id_/https%3A//www.xcite.com/privacy) for the most accurate reproduction.*
 
-# Read your rights in X-cite’s Privacy Policy. Your confidentiality matters
+# xcite.com - X-cite | Read your rights in X-cite’s Privacy Policy. Your confidentiality matters
 
 #### (Updated 18 December 2011)
 
