@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afroarticles.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506014131id_/http%3A//www.afroarticles.com/article-dashboard/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroarticles.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022230020id_/http%3A//www.afroarticles.com/article-dashboard/privacy.php) for the most accurate reproduction.*
 
 # Afro Articles - Article Marketing Directory | FREE Content | Marketing, Webmaster & SEO Tools |
 
