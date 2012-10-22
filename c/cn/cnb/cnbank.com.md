@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521162127id_/http%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022153148id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canandaigua National Bank & Trust
 
 ### Canandaigua National Corporation   
-Privacy Policy   
-
+Privacy Policy 
 
 Canandaigua National Corporation recognizes its customers' expectations of financial privacy, and preserving our customers' trust is one of the core values of our bank and our family of financial service companies. For over 120 years, respecting and protecting customer privacy has been vital to our business. 
 
@@ -43,7 +42,7 @@ Canandaigua National Corporation's Privacy Policy and the Fair Credit Reporting 
   * CNB Mortgage Company 
   * CNB Insurance Agency
   * Canandaigua National Trust Company of Florida
-  * The Genesee Valley Trust Company
+  * Genesee Valley Trust Company
 
 
 
@@ -56,8 +55,7 @@ www.cnbank.com
 
 
 ##### Internet Security at Canandaigua National Bank and Trust:   
-What You Should Know   
-
+What You Should Know 
 
 We are equally committed to protecting the privacy of customer information on the Internet. 
 
@@ -84,9 +82,38 @@ In addition, we encourage our customers to learn more about Internet Security an
 
 
 
+**Do Not Call Policy**
+
+The Canandaigua National Bank and Trust Company (herein referred to as CNB) is committed to honoring the requests of its current and prospective customers. In support of this commitment and pursuant to regulations set forth by the Federal Communications Commission (“FCC”), the Bank has adopted the following policy. 
+
+**CNB Do Not Call Registry**
+
+CNB maintains a record of any customer who has indicated to us either in person, in writing or by phone that they do not wish to be called at their home for solicitation purposes. A “telephone solicitation call” means any call that is made for the purpose of encouraging the purchase of products and services from the Bank. Being on the CNB “Do Not Call” Registry means that you won't receive any telephone solicitation calls by anybody representing CNB. All phone numbers associated with you as a customer on our records will be included as CNB Do Not Call numbers. 
+
+If you do not wish to receive telephone solicitation calls from CNB, you can ask us to place you on our “Do Not Call” Registry. **Your request can be in person, in writing or by phone, and should include at a minimum, your name and telephone number**. In compliance with federal and state laws, we will document your request immediately. Please allow up to 30 days for name and telephone number to be removed from any sales programs that are currently underway. 
+
+We may still contact you, however, for non-solicitation purposes. This would include things like surveys, billing and other service-related matters. 
+
+Our “do-not-call” records are maintained indefinitely. Once you have requested to be placed on the Registry, you will remain as a “do-not-call” customer. You should inform the Bank of any changes in your name or phone number. If you wish to be removed from our Do Not Call Registry, your request can be in person, in writing or by phone and should include at a minimum your name and telephone number. 
+
+Any personnel involved with sales, telemarketing and/or telephone solicitation with the Bank are trained, informed, and directed to comply with the Bank's “Do-Not-Call” policy. 
+
+A copy of our “Do Not Call” policy is available by written request to:   
+Canandaigua National Bank & Trust, 72 South Main Street, Canandaigua, NY 14424   
+We will send a copy via U.S. Mail or electronic mail. 
+
+**National or New York State Do Not Call Registry**
+
+We also honor “Do Not Call” requests on behalf of consumers listed on the National and New York State Do Not Call Registry maintained by the Federal Trade Commission and various state-agency lists. CNB will not contact any prospect who is on the Do Not Call Registry. 
+
+Many states “Do Not Call” regulations permit companies to contact their own customers even though they are on these “Do Not Call” lists. Therefore, if you are a customer, you may be contacted by us even though you are on a state or the national “do not call” list. If you do not want to be contacted by CNB even though you are a customer, simply follow the steps above to be placed on the CNB “Do Not Call” Registry and your request will be honored. 
+
+The Bank intends to comply with all federal and state do-not-call laws and regulations. If you have any questions or comments regarding the Bank's “Do-Not-Call” policy, you may also contact : 
+
 For more information:   
 Canandaigua National Bank and Trust   
 72 S. Main Street   
 Canandaigua, NY 14424   
-(585) 394-4260 or 1-800-724-2621   
+(585) 394-4260 or 1-800-724-2621 
 
+The foregoing Do Not Call Policy is hereby adopted by the Board of Directors of The Canandaigua National Bank and Trust Company. 
