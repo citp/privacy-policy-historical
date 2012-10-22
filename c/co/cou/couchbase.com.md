@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couchbase.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626114804id_/http%3A//www.couchbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchbase.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022150609id_/http%3A//www.couchbase.com/privacy) for the most accurate reproduction.*
 
 # Couchbase Website Privacy Policy | Couchbase
 
