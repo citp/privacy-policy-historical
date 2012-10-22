@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627073208id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022105236id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Avis Car Hire UK - Car Rental
 
@@ -33,6 +33,15 @@ When you participate in any online surveys you may be asked to supply certain pe
 Secure Socket Layer (SSL) encryption technology is used to protect personal information such as credit card details when making a booking.  
 Any personal information that we hold as part of your customer profile will be held in a database with physical and technological security controls and procedures in place.  
 Only the last 4 digits of your credit card number will be displayed when viewing, amending or deleting your credit card details or on any booking on our website.   
+
+
+## Our Commitment To Data Security
+
+The security of your personal information is important to us. When you enter sensitive information (such as your payment card number) during any registration or booking process, we encrypt that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personally identifiable information and personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+With this in mind we would ask you not to enter any payment card number into fields on our websites, unless that the field is specifically marked for that purpose.  
 
 
 ## Accessing and updating information
