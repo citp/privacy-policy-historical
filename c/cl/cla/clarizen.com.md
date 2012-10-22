@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529061428id_/http%3A//www.clarizen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022122931id_/http%3A//www.clarizen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# 404 | Clarizen
+# Privacy Policy | Clarizen
 
 Your privacy is of great importance to us. This Privacy Policy is to inform you what kind of information we may gather while you visit our website and how we may use such information.  
 We do not collect any personally identifiable information about individuals, except when such information is voluntarily submitted by the visitor through forms and some other information is collected automatically.
