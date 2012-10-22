@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401022025id_/http%3A//www.edwinwattsgolf.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022164154id_/http%3A//www.edwinwattsgolf.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Golf Clubs, Drivers, Irons, Hybrids, Wedges, Golf Shoes and Golf Equipment at Edwin Watts Golf
-
-## Effective as of June 2010
 
 At Edwin Watts Golf, we are committed to protecting the privacy and security of any personal information you provide to us. This Privacy Policy explains our policies and practices for collecting, storing, using, sharing, and protecting your personal information. This Privacy Policy applies to information we collect through this Web site, through your purchases of our products wherever they are sold, and through marketing and promotional activities that we conduct from time to time.
 
 Along with our Terms of Use, this Privacy Policy governs your use of our Web site. We may update this Privacy Policy as we continue to improve the services, products, and features we provide to you and as new developments in technology, law, or regulation call for changes. Please check this Privacy Policy from time to time to make sure you stay current.
 
- **How Your Information Is Collected and Used**
+**How Your Information Is Collected and Used**
 
 When you purchase items from us or voluntarily submit information to us (for example, when you sign up for an account with Edwin Watts Golf, send us e-mails or subscribe to our e-mail promotions, participate in sweepstakes, contests, or surveys, or post information on our Web site), we may collect personally identifiable information from you such as your name, e-mail address, postal address, telephone number, and credit card number. We may use this information to provide you with the products and services you have requested, to investigate and answer questions or concerns you submit to us, to offer you opportunities to participate in promotional programs tailored to you, to list you as a winner of a contest or sweepstakes, or to notify you of information that may be of interest to you about Edwin Watts Golf or our business partners and affiliates.
 
@@ -20,7 +18,7 @@ We partner with third-party Internet advertising companies, known as "ad network
 
 We may also obtain information about you from third parties, including demographic information (such as number of household members, age, and gender), and purchase preferences. We use such information to improve the accuracy of our customer database, increase our understanding of our customers, and identify potential customers.
 
- **How Your Information May Be Shared**
+**How Your Information May Be Shared**
 
 We do not sell or rent your personally identifiable information to outside marketers. We may, however, share such information in limited circumstances, outlined below.
 
@@ -88,4 +86,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 
 
-Copyright © 2010 Edwin Watts Golf Shops, LLC
+Copyright © 2012 Edwin Watts Golf Shops, LLC
+
+  
+ 
