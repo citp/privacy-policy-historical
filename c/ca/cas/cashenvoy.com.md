@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashenvoy.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119162045id_/https%3A//www.cashenvoy.com/%3Fcmd%3Dprivacy%26subcmd%3Dnone%26out%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashenvoy.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022064719id_/https%3A//www.cashenvoy.com/%3Fcmd%3Dprivacy%26subcmd%3Dnone%26out%3D1) for the most accurate reproduction.*
 
-# Privacy - - Cash Envoy
+# Privacy - - CashEnvoy
 
 This policy describes the ways we collect, store, use and protect your personal information. You accepted this policy when you signed up for our service. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. 
 
