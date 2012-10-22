@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609011918id_/http%3A//www.toolking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022061006id_/http%3A//www.toolking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,6 +23,12 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, DinosaurBedding.net has no access or control over these cookies that may be used by third party advertisers.
+
+### Google Trusted Stores
+
+Third party vendors, including Google, use cookies to serve the badge on your website and to serve ads based on a user's prior visits to your website.
+
+Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page. (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page.)
 
 ### Distribution of Information
 
