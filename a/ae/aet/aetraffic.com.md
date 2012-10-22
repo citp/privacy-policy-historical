@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aetraffic.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608160910id_/https%3A//www.aetraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetraffic.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023000725id_/https%3A//www.aetraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Buy Traffic | Aetraffic
 
