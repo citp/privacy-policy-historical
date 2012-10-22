@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellularoutfitter.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042054id_/http%3A//www.cellularoutfitter.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularoutfitter.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022164306id_/http%3A//www.cellularoutfitter.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wholesale Cell Phone Accessories ?Wholesale Cellular Phone Accessories ?CellularOutfitter.com
 
