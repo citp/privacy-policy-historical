@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zoovy.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508222451id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoovy.com privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022224300id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.-->
 
 <html><!-- BEGIN /includes/header-20120418 (technically, it starts above the doctype, but we want that first ) --><head>
 <script type="text/javascript" src="//www.zoovy.com/includes/cookies.js"></script> <script type="text/javascript">
@@ -8,7 +8,7 @@ setCookie('ZOOVY_LEAD','||');
 
 </script>
 <link rel="canonical" href="https://www.zoovy.com/legal/privacy/index.html">
-<!-- SRC:  LEAD:  HOST: z104 GENERATED: 20120402 15:24:52 -->
+<!-- SRC:  LEAD:  HOST: z105 GENERATED: 20120901 15:43:01 -->
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -24,20 +24,20 @@ setCookie('ZOOVY_LEAD','||');
 
 
 
-<script type="text/javascript" src="//www.zoovy.com/biz/ajax/jquery-1.6.4/jquery-1.6.4.js"></script>
-<script type="text/javascript" src="//www.zoovy.com/biz/ajax/jquery-ui-1.8.16/js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="/biz/ajax/jquery-1.7.2/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/biz/ajax/jquery-ui-1.8.16/js/jquery-ui-1.8.16.custom.min.js"></script>
 
 <script type="text/javascript" src="//crypto-js.googlecode.com/files/2.5.3-crypto-md5.js"></script>
-<script type="text/javascript" src="/biz/ajax/zmvc/201216/model.js?ts=20120222132300"></script>
-<script type="text/javascript" src="/biz/ajax/zmvc/201216/controller.js"></script>
-<script type="text/javascript" src="/biz/ajax/zmvc/201216/json2.js"></script>
+<script type="text/javascript" src="/biz/ajax/zmvc/201225/model.js?ts=20120702115700"></script>
+<script type="text/javascript" src="/biz/ajax/zmvc/201225/controller.js?ts=20120702115700"></script>
+<script type="text/javascript" src="/biz/ajax/zmvc/201225/json2.js"></script>
 
 
 
 
-<link rel="stylesheet" type="text/css" href="//www.zoovy.com/biz/ajax/jquery-ui-1.8.16/css/smoothness/jquery-ui-1.8.16.custom.css">
+<link rel="stylesheet" type="text/css" href="/biz/ajax/jquery-ui-1.8.16/css/smoothness/jquery-ui-1.8.16.custom.css">
 
-<link rel="stylesheet" type="text/css" href="//www.zoovy.com/includes/header-20120404/styles-20120404.css">
+<link rel="stylesheet" type="text/css" href="/includes/header-20120404/styles-20120404.css">
 
 <link rel="stylesheet" type="text/css" href="//static.zoovy.com/graphics/general/jslib/magiczoomplus-2.0.8/magiczoomplus.css">
 <script type="text/javascript" src="//static.zoovy.com/graphics/general/jslib/magiczoomplus-2.0.8/magiczoomplus.js"></script>
@@ -56,8 +56,9 @@ function instantiateController()	{
 	myControl = new zController({
 		"sdomain":"www.zoovy.com",
 		"noVerifyzjsid":true, //skip the verify session. should only do this on admin login page.
+		"noVerifyzGlobals":true,
 		"jqurl":"https://www.zoovy.com/webapi/jquery/", //could be changed to zoovy.com/webapi...
-		"release":"20120418194100", //increment this with each change. should solve caching issues.
+		"release":"20120702115700", //increment this with each change. should solve caching issues.
 		"secureURL" : "https://www.zoovy.com" //will change based on whether or not user has ssl cert. end with a slash.
 		},{});  //instantiate controller. handles all logic and communication between model and view.
 	myControl.storageFunctions.deleteCookie('zjsid');
@@ -86,6 +87,7 @@ function instantiateController()	{
 <!-- begin body -->
 
 
+<!-- begin loginfrm -->
 
 <div id="loginFormContainer" class="displayNone" title="Zoovy Account Login">
 <div id="loginMessaging"></div>
@@ -93,7 +95,10 @@ function instantiateController()	{
 <div><label>Username: </label><input type="text" name="login" id="loginFormLogin"></div>
 <div><label>Password: </label><input type="password" name="password" id="loginFormPassword"></div>
 <div class="alignRight">
-<input type="submit" value="login" class="ui-button ui-state-default ui-corner-all ui-button-text-only ui-state-active ">
+<span class="loadingPlaceholder" style="float:left; margin:11px 0px 0 11px;"></span>
+<button type="submit" class="ui-button ui-state-default ui-corner-all ui-state-highlight ui-button-text-icon-primary ui-button-text-icons " id="userLoginButton">
+<span class="ui-button-text">Login</span>
+</button>
 </div>
 </form>
 <hr>
@@ -101,6 +106,8 @@ function instantiateController()	{
 <a href="/recover/">lost password?</a> | <a href="#" onclick="$('#loginFormContainer').dialog('close'); return false;">cancel</a>
 
 </div>
+
+<!-- end loginfrm -->
 
 <div align="center">
 
@@ -303,87 +310,13 @@ Carlsbad, CA. 92008<br>
 
 
 
-
 <div style="text-align:left; width:290px;">
 
-<div style="margin-bottom:21px;">	
-
-
-<!-- box-create_trial-20110809 -->
-
-
-
-
-<div id="trialBoxen">
-
-	<div id="trialBoxenTopCorner"><img src="/includes/box-create_trial-20110809/images/rightside_angled_top-18x9.gif" width="18" height="9" alt=""></div>
-
-	<div id="trialBoxenRightShade"></div>
-	<div id="trialBoxenBottomCorner"><img src="/includes/box-create_trial-20110809/images/rightside_angled_bottom-18x63.gif" width="18" height="63" alt=""></div>
-
-
-<form action="/register/index.html">
-<input type="hidden" name="ACTION" value="SAVE">
-
-	
-<div id="trialFormContainer">
-
-<img src="/includes/box-create_trial-20110809/images/try_before_you_buy-190x105.gif" width="190" height="105" alt="try before you buy - free obligation 14 day trial, no credit card needed!">	
-
-<table align="center" cellspacing="0" cellpadding="2">
-<tbody><tr>
-	<td colspan="2" class="small">please register to receive instant access</td>
-</tr>
-<tr>
-	<td colspan="2"><hr></td>
-</tr>
-<tr>
-	<td><label class="required" for="trialFirstName">First Name</label></td>
-	<td><input type="text" value="" id="trialFirstName" name="firstname" class="formed"></td>
-</tr>
-<tr>
-	<td><label class="required" for="trialLastName">Last Name</label></td>
-	<td><input type="text" value="" name="lastname" id="trialLastName" class="formed"></td>
-</tr>
-<tr>
-	<td><label class="required" for="trialEmail">Email:</label></td>
-	<td><input type="text" value="" name="email" id="trialEmail" class="formed"></td>
-</tr>
-<tr>
-	<td><label class="required" for="trialPhoneNumber">Phone #:</label></td>
-	<td><input type="text" value="" name="phone" class="formed" id="trialPhoneNumber"></td>
-</tr>
-<tr>
-	<td><label for="trialCompany">Company:</label></td>
-	<td><input type="text" value="" name="company" id="trialCompany" class="formed"></td>
-</tr>
-<tr>
-	<td><label for="trialURL">URL/Domain:</label></td>
-	<td><input type="text" value="" name="url" id="trialURL" class="formed"></td>
-</tr>
-<tr>
-	<td colspan="2"><div class="floatRight"><input type="image" src="/includes/box-create_trial-20110809/images/start_free_trial_btn-145x29.gif" class="trialSubmit"></div></td>
-</tr>
-</tbody></table>
-</div>
-</form>
-
-</div>
-
-
-<!-- /box-create_trial-20110809 -->
-
-
-
-
+<div style="margin-bottom:21px;">
 	</div>
 	
 <div style="margin-right:20px;">
 
-	<div style="margin-bottom:20px;">
-		<div><a href="/company/contact/"><img src="/includes/footer-20110629/images/freedemo4-270x131.jpg" width="270" height="131" alt=""></a></div>
-	</div>
-	
 	<div class="border" style="padding:4px; margin-bottom:20px;">
 		<div><a href="/complete/#mobile"><img src="/includes/footer-20110629/images/banner_mobile-260x126.jpg" width="260" height="126" alt=""></a></div>
 	</div>
@@ -392,7 +325,6 @@ Carlsbad, CA. 92008<br>
 
 
 </div>
-
 
 
 
@@ -428,6 +360,7 @@ Carlsbad, CA. 92008<br>
 <div style="float:left; margin-left:17px; width:218px;" id="footer_col1" class="section vertsplit">
 
 <a href="/company/">Company Information</a>
+<a target="blog" href="http://blog.zoovy.com/">Blog</a>
 <a href="/company/contact/">Contact</a>
 <a href="/company/pressreleases/">News &amp; Press Releases</a>
 <a href="/legal/">Legal</a>
@@ -577,7 +510,7 @@ else if	(window.hideDiv != null)	{
 
 
 <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciFeLJ" style="z-index:100;position:absolute"></div><div id="scFeLJ" style="display:inline"></div><div id="sdFeLJ" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/zoovy/safe-standard.js?ps_h=FeLJ&amp;ps_t=1580418945576"></script></div>
+<div id="ciFeLJ" style="z-index:100;position:absolute"></div><div id="scFeLJ" style="display:inline"></div><div id="sdFeLJ" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/zoovy/safe-standard.js?ps_h=FeLJ&amp;ps_t=1580418947251"></script></div>
 <script type="text/javascript">var seFeLJ=document.createElement("script");seFeLJ.type="text/javascript";var seFeLJs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/zoovy/safe-standard.js?ps_h=FeLJ&ps_t="+new Date().getTime();setTimeout("seFeLJ.src=seFeLJs;document.getElementById('sdFeLJ').appendChild(seFeLJ)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=zoovy">Live Customer Support</a></div></noscript>
 <!-- END ProvideSupport.com Graphics Chat Button Code -->
 
