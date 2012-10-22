@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231213id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023013653id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
 
-# Ohio.gov | Policies
+# Ohio.gov | Policies | Privacy Notice
 
-## Privacy Notice
+### Revised December 9, 2011
 
-**Revised December 9, 2011** \- The Ohio Internet Portal, a service provided by the Ohio Department of Administrative Services Office of Information Technology, recognizes the importance of privacy to our web site visitors. Therefore, visitors should be aware of the following information.
+The Ohio Internet Portal, a service provided by the Ohio Department of Administrative Services Office of Information Technology, recognizes the importance of privacy to our web site visitors. Therefore, visitors should be aware of the following information.
 
 ### Public Records
 
@@ -30,7 +30,7 @@ Ohio.gov will follow Ohio state laws that require the establishment of reasonabl
 
 ### Confidential Personal Information
 
-Ohio Revised Code 1347.15 requires DAS to adopt administrative rules regulating access to the confidential personal information the agency keeps, whether electronically or on paper. The administrative rules may be found [here](http://codes.ohio.gov/oac/123-4).
+[Ohio Revised Code 1347.15](http://codes.ohio.gov/oac/123-4) requires DAS to adopt administrative rules regulating access to the confidential personal information the agency keeps, whether electronically or on paper.
 
 ### Access and Dispute of Information Rights:
 
