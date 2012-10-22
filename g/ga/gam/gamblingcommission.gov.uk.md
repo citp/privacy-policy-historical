@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509032553id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023005853id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Gambling Commission - Privacy statement
 
-This website is operated by the Gambling Commission whose principal place of business is at Victoria Square House, Victoria Square, Birmingham B2 4BP.  
+This website is operated by the Gambling Commission (the Commission) whose principal place of business is at Victoria Square House, Victoria Square, Birmingham B2 4BP.  
 
 
 We respect the privacy of every individual who visits our website. Our website does not automatically store or capture personal information, but merely logs the user's  IP address which is automatically recognised by the web server.
@@ -80,6 +80,15 @@ Name: govmetric_votes
 Typical content: to identify when a user has already rated a webpage  
 Expires: 24 hours after creation
 
+**Consent to store cookies** : We inform users, the first time that they visit our website, that we store cookies on their device. 
+
+Name: cookieOK  
+Typical content: to identify when a user has implied consent to the website storing cookies
+
+Expires: 1 year after visiting
+
+By using our website and online service you agree that we can place these types of cookies on your device.
+
 ## How we use information visitors provide us with
 
 We do not use cookies for collecting user information. Except as otherwise stated, we may use information visitors provide via this website to communicate information to them (if they have requested it) and for internal marketing and research purposes. We do not disclose any information visitors provide via the website to any third parties or other government departments except where:
@@ -102,7 +111,7 @@ Victoria Square
 Birmingham  
 B2 4BP
 
-This privacy statement only covers the Gambling Commission website at [www.gamblingcommission.gov.uk](http://www.gamblingcommission.gov.uk/www.gamblingcommission.gov.uk "www.gamblingcommission.gov.uk"). This statement does not cover links within this site to other websites.
+This privacy statement only covers the Gambling Commission website at [www.gamblingcommission.gov.uk](http://www.gamblingcommission.gov.uk/default.aspx "www.gamblingcommission.gov.uk"). This statement does not cover links within this site to other websites.
 
-Page last reviewed: July 2011
+Page last reviewed: July 2012
   *[IP address]: IP address
