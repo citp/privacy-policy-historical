@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proguitarshop.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613214215id_/http%3A//proguitarshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proguitarshop.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022035949id_/http%3A//proguitarshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
