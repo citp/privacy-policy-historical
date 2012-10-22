@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the pso-world.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602022427id_/http%3A//www.pso-world.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pso-world.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022212548id_/http%3A//www.pso-world.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PSO-World.com
 
 |  **Site Navigation**  
 ---  
   
-  * [PSOW Home](https://web.archive.org/?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Message Boards](https://web.archive.org/forums?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Submit News](https://web.archive.org/submit.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [News Archive](https://web.archive.org/news_search?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Recommend & Link](https://web.archive.org/friend.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Website Staff](https://web.archive.org/staffers.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [PSOW Home](https://web.archive.org/)
+  * [Message Boards](https://web.archive.org/forums)
+  * [Submit News](https://web.archive.org/submit.php)
+  * [News Archive](https://web.archive.org/news_search)
+  * [Website Staff](https://web.archive.org/staffers.php)
 
   
   
@@ -21,37 +20,37 @@
 ---  
 **Databases**
 
-  * [Item Database](https://web.archive.org/psz-items.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Drop Charts](https://web.archive.org/psz-findings.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Enemy List](https://web.archive.org/psz-enemies.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Weapons Gallery](https://web.archive.org/psz-weapons-gallery.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Item Database](https://web.archive.org/psz-items.php)
+  * [Drop Charts](https://web.archive.org/psz-findings.php)
+  * [Enemy List](https://web.archive.org/psz-enemies.php)
+  * [Weapons Gallery](https://web.archive.org/psz-weapons-gallery.php)
 
   
-[**Guides**](https://web.archive.org/sections.php?secver=6&s=b8a9edff2ffb328096e7d3cc9c774f59)
+[**Guides**](https://web.archive.org/sections.php?secver=6)
 
-  * [Cake Shop](https://web.archive.org/sections.php?op=viewarticle&artid=2611&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Character Types](https://web.archive.org/sections.php?op=listarticles&secid=217&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Character Planning](https://web.archive.org/sections.php?op=viewarticle&artid=2605&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Elemental Attributes](https://web.archive.org/sections.php?op=viewarticle&artid=2609&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Mag Feeding](https://web.archive.org/sections.php?op=viewarticle&artid=2599&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Mag Evolution Chart](https://web.archive.org/sections.php?op=viewarticle&artid=2602&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Mag Natures](https://web.archive.org/sections.php?op=viewarticle&artid=2604&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Photon Arts](https://web.archive.org/sections.php?op=viewarticle&artid=2606&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Set Bonuses](https://web.archive.org/sections.php?op=viewarticle&artid=2613&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Sewer Shop](https://web.archive.org/sections.php?op=viewarticle&artid=2608&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Side Mission Rewards](https://web.archive.org/sections.php?op=viewarticle&artid=2610&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Technique Stats](https://web.archive.org/sections.php?op=viewarticle&artid=2607&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Titles](https://web.archive.org/sections.php?op=viewarticle&artid=2600&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Cake Shop](https://web.archive.org/sections.php?op=viewarticle&artid=2611)
+  * [Character Types](https://web.archive.org/sections.php?op=listarticles&secid=217)
+  * [Character Planning](https://web.archive.org/sections.php?op=viewarticle&artid=2605)
+  * [Elemental Attributes](https://web.archive.org/sections.php?op=viewarticle&artid=2609)
+  * [Mag Feeding](https://web.archive.org/sections.php?op=viewarticle&artid=2599)
+  * [Mag Evolution Chart](https://web.archive.org/sections.php?op=viewarticle&artid=2602)
+  * [Mag Natures](https://web.archive.org/sections.php?op=viewarticle&artid=2604)
+  * [Photon Arts](https://web.archive.org/sections.php?op=viewarticle&artid=2606)
+  * [Set Bonuses](https://web.archive.org/sections.php?op=viewarticle&artid=2613)
+  * [Sewer Shop](https://web.archive.org/sections.php?op=viewarticle&artid=2608)
+  * [Side Mission Rewards](https://web.archive.org/sections.php?op=viewarticle&artid=2610)
+  * [Technique Stats](https://web.archive.org/sections.php?op=viewarticle&artid=2607)
+  * [Titles](https://web.archive.org/sections.php?op=viewarticle&artid=2600)
 
   
 **Media**
 
-  * [Merchandise](https://web.archive.org/gallery/showgallery.php?cat=782&s=b8a9edff2ffb328096e7d3cc9c774f59)
-[ ](https://web.archive.org/gallery/showgallery.php?cat=782&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [](https://web.archive.org/gallery/showgallery.php?cat=782&s=b8a9edff2ffb328096e7d3cc9c774f59)[Screenshots](https://web.archive.org/gallery/showgallery.php?cat=780&s=b8a9edff2ffb328096e7d3cc9c774f59)
-[ ](https://web.archive.org/gallery/showgallery.php?cat=780&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [](https://web.archive.org/gallery/showgallery.php?cat=780&s=b8a9edff2ffb328096e7d3cc9c774f59)[Wallpaper](https://web.archive.org/gallery/showphoto.php?photo=7751&size=big&cat=&s=b8a9edff2ffb328096e7d3cc9c774f59)
-[ ](https://web.archive.org/gallery/showphoto.php?photo=7751&size=big&cat=&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Merchandise](https://web.archive.org/gallery/showgallery.php?cat=782)
+[ ](https://web.archive.org/gallery/showgallery.php?cat=782)
+  * [](https://web.archive.org/gallery/showgallery.php?cat=782)[Screenshots](https://web.archive.org/gallery/showgallery.php?cat=780)
+[ ](https://web.archive.org/gallery/showgallery.php?cat=780)
+  * [](https://web.archive.org/gallery/showgallery.php?cat=780)[Wallpaper](https://web.archive.org/gallery/showphoto.php?photo=7751&size=big&cat=)
+[ ](https://web.archive.org/gallery/showphoto.php?photo=7751&size=big&cat=)
   
   
 **Phantasy Star Universe**  
@@ -66,35 +65,28 @@
   * [Submit Item Info](http://www.pso-world.com/psu-item-submit.php)
 
   
-**[Guides](https://web.archive.org/sections.php?op=viewtopsection&section=Phantasy+Star+Universe&secver=1&s=b8a9edff2ffb328096e7d3cc9c774f59)**
+**[Guides](https://web.archive.org/sections.php?op=viewtopsection&section=Phantasy+Star+Universe&secver=1)**
 
   * [Beastiary](http://www.pso-world.com/beastiary/psu/)
-  * [Characters](https://web.archive.org/sections.php?op=listarticles&secid=199&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Gameplay](https://web.archive.org/sections.php?op=listarticles&secid=203&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [General Information](https://web.archive.org/sections.php?op=listarticles&secid=204&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Overview](https://web.archive.org/psu.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Partner Machinery](https://web.archive.org/sections.php?op=listarticles&secid=202&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Photon Fortune](https://web.archive.org/psu-photon-fortune.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Walkthroughs](https://web.archive.org/sections.php?op=listarticles&secid=208&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Characters](https://web.archive.org/sections.php?op=listarticles&secid=199)
+  * [Gameplay](https://web.archive.org/sections.php?op=listarticles&secid=203)
+  * [General Information](https://web.archive.org/sections.php?op=listarticles&secid=204)
+  * [Overview](https://web.archive.org/psu.php)
+  * [Partner Machinery](https://web.archive.org/sections.php?op=listarticles&secid=202)
+  * [Photon Fortune](https://web.archive.org/psu-photon-fortune.php)
+  * [Walkthroughs](https://web.archive.org/sections.php?op=listarticles&secid=208)
 
   
-**[Stat Calculator](https://web.archive.org/psu-stat-calculator.php?s=b8a9edff2ffb328096e7d3cc9c774f59)**
+**[Downloads](https://web.archive.org/download.php)**
 
-  * [Base Stats](https://web.archive.org/psu-base-stats.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Job Percentages](https://web.archive.org/psu-job-percentages.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Stat Submission](https://web.archive.org/psu-stat-submission.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-
-  
-**[Downloads](https://web.archive.org/download.php?s=b8a9edff2ffb328096e7d3cc9c774f59)**
-
-  * [Images](https://web.archive.org/gallery/?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Trailers](https://web.archive.org/download.php?cat=PSU+Trailers&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Images](https://web.archive.org/gallery/)
+  * [Trailers](https://web.archive.org/download.php?cat=PSU+Trailers)
 
   
 **Interviews**
 
-  * [Takao Miyoshi](https://web.archive.org/phantasy-star-universe-e3-2006-takao-miyoshi.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Kelli Sae](https://web.archive.org/phantasy-star-universe-e3-2006-kelli-sae.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Takao Miyoshi](https://web.archive.org/phantasy-star-universe-e3-2006-takao-miyoshi.php)
+  * [Kelli Sae](https://web.archive.org/phantasy-star-universe-e3-2006-kelli-sae.php)
 
   
   
@@ -102,37 +94,35 @@
 ---  
 **Items**
 
-  * [Item Database](https://web.archive.org/items.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Item Comparison](https://web.archive.org/item_compare.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Drop Charts](https://web.archive.org/item_findings.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Search Findings](https://web.archive.org/item_findings_search.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Item Database](https://web.archive.org/items.php)
+  * [Item Comparison](https://web.archive.org/item_compare.php)
+  * [Drop Charts](https://web.archive.org/item_findings.php)
+  * [Search Findings](https://web.archive.org/item_findings_search.php)
 
   
-**[Guides](https://web.archive.org/sections.php?s=b8a9edff2ffb328096e7d3cc9c774f59)**
+**[Guides](https://web.archive.org/sections.php)**
 
-  * [Battle Mode](https://web.archive.org/sections.php?section=Battle+Mode&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Beastiary](https://web.archive.org/sections.php?section=Beastiary&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Blue Burst Overview](https://web.archive.org/psopc.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Challenge Mode](https://web.archive.org/sections.php?section=Challenge+Mode&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Characters](https://web.archive.org/sections.php?section=Character&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Enemy Parts](https://web.archive.org/sections.php?op=listarticles&secid=24&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Item Combinations](https://web.archive.org/sections.php?op=listarticles&secid=17&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Mags](https://web.archive.org/sections.php?section=Mags&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Maps](https://web.archive.org/sections.php?section=Maps&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Plus Overview](https://web.archive.org/psoplus.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Photon Drops](https://web.archive.org/sections.php?op=listarticles&secid=20&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [**Quests**](https://web.archive.org/sections.php?section=quests&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Scripts](https://web.archive.org/sections.php?op=viewtopsection&section=Scripts&secver=1&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Techniques](https://web.archive.org/sections.php?section=Technique&op=viewtopsection&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Videos](https://web.archive.org/download.php?cat=PSO+Videos&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Battle Mode](https://web.archive.org/sections.php?section=Battle+Mode&op=viewtopsection)
+  * [Beastiary](https://web.archive.org/sections.php?section=Beastiary&op=viewtopsection)
+  * [Blue Burst Overview](https://web.archive.org/psopc.php)
+  * [Challenge Mode](https://web.archive.org/sections.php?section=Challenge+Mode&op=viewtopsection)
+  * [Characters](https://web.archive.org/sections.php?section=Character&op=viewtopsection)
+  * [Enemy Parts](https://web.archive.org/sections.php?op=listarticles&secid=24)
+  * [Item Combinations](https://web.archive.org/sections.php?op=listarticles&secid=17)
+  * [Mags](https://web.archive.org/sections.php?section=Mags&op=viewtopsection)
+  * [Maps](https://web.archive.org/sections.php?section=Maps&op=viewtopsection)
+  * [Plus Overview](https://web.archive.org/psoplus.php)
+  * [Photon Drops](https://web.archive.org/sections.php?op=listarticles&secid=20)
+  * [**Quests**](https://web.archive.org/sections.php?section=quests&op=viewtopsection)
+  * [Scripts](https://web.archive.org/sections.php?op=viewtopsection&section=Scripts&secver=1)
+  * [Techniques](https://web.archive.org/sections.php?section=Technique&op=viewtopsection)
+  * [Videos](https://web.archive.org/download.php?cat=PSO+Videos)
 
   
 **Calculators**
 
-  * [Damage Calculator](https://web.archive.org/damagecalc.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Section ID Calculator](https://web.archive.org/secid_BB.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Stat Calculator](https://web.archive.org/statcalc.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Tech Dmg Calculator](https://web.archive.org/techdamagecalc.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Section ID Calculator](https://web.archive.org/secid_BB.php)
+  * [Stat Calculator](https://web.archive.org/statcalc.php)
 
   
   
@@ -140,25 +130,25 @@
 ---  
 **Cards**
 
-  * [Card Database](https://web.archive.org/items.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Card Comparison](https://web.archive.org/item_compare.php?version=v4&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Card Database](https://web.archive.org/items.php)
+  * [Card Comparison](https://web.archive.org/item_compare.php?version=v4)
 
   
-**[Guides](https://web.archive.org/sections.php?secver=4&s=b8a9edff2ffb328096e7d3cc9c774f59)**
+**[Guides](https://web.archive.org/sections.php?secver=4)**
 
-  * [Battle](https://web.archive.org/sections.php?section=Battle&op=viewtopsection&secver=4&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Cards](https://web.archive.org/sections.php?section=Card&op=viewtopsection&secver=4&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Characters](https://web.archive.org/sections.php?section=Character&op=viewtopsection&secver=4&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Decks](https://web.archive.org/sections.php?section=Decks&op=viewtopsection&secver=4&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Overview](https://web.archive.org/episode3.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Quests](https://web.archive.org/sections.php?section=Quests&op=viewtopsection&secver=4&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Scripts](https://web.archive.org/sections.php?op=viewtopsection?ion=Scripts&secver=4&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Battle](https://web.archive.org/sections.php?section=Battle&op=viewtopsection&secver=4)
+  * [Cards](https://web.archive.org/sections.php?section=Card&op=viewtopsection&secver=4)
+  * [Characters](https://web.archive.org/sections.php?section=Character&op=viewtopsection&secver=4)
+  * [Decks](https://web.archive.org/sections.php?section=Decks&op=viewtopsection&secver=4)
+  * [Overview](https://web.archive.org/episode3.php)
+  * [Quests](https://web.archive.org/sections.php?section=Quests&op=viewtopsection&secver=4)
+  * [Scripts](https://web.archive.org/sections.php?op=viewtopsection?ion=Scripts&secver=4)
 
   
 **Calculators**
 
-  * [Rank Calculator](https://web.archive.org/rankcalc.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Section ID Calculator](https://web.archive.org/secid.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Rank Calculator](https://web.archive.org/rankcalc.php)
+  * [Section ID Calculator](https://web.archive.org/secid.php)
 
   
   
@@ -166,25 +156,25 @@
 ---  
 **Forum**
 
-  * [Forum Index](https://web.archive.org/forums?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Forum Rules](https://web.archive.org/forums/faq.php?faq=vb3_board_faq#faq_forumrules&s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Forum Index](https://web.archive.org/forums)
+  * [Forum Rules](https://web.archive.org/forums/faq.php?faq=vb3_board_faq#faq_forumrules)
 
   
 **Fan Works**
 
-  * [Fan Art Gallery](https://web.archive.org/gallery/?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Fan Media Theater](https://web.archive.org/download.php?cat=Fan+Media+Theater&s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Fan Fiction](https://web.archive.org/fanfic.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Fan Art Gallery](https://web.archive.org/gallery/)
+  * [Fan Media Theater](https://web.archive.org/download.php?cat=Fan+Media+Theater)
+  * [Fan Fiction](https://web.archive.org/fanfic.php)
 
   
 **Features**
 
-  * [Contests Archive](https://web.archive.org/contests.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Download Center](https://web.archive.org/download.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Image Gallery](https://web.archive.org/gallery/?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Member Spotlight](https://web.archive.org/memberspotlight.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Quizzes](https://web.archive.org/quizzes.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
-  * [Voting Booth](https://web.archive.org/votingbooth.php?s=b8a9edff2ffb328096e7d3cc9c774f59)
+  * [Contests Archive](https://web.archive.org/contests.php)
+  * [Download Center](https://web.archive.org/download.php)
+  * [Image Gallery](https://web.archive.org/gallery/)
+  * [Member Spotlight](https://web.archive.org/memberspotlight.php)
+  * [Quizzes](https://web.archive.org/quizzes.php)
+  * [Voting Booth](https://web.archive.org/votingbooth.php)
 
   
   
@@ -247,7 +237,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.pso-world.com/forums/faq.php?faq=vb3_board_faq#faq_forumrules](http://www.pso-world.com/forums/faq.php?faq=vb3_board_faq#faq_forumrules&s=b8a9edff2ffb328096e7d3cc9c774f59)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.pso-world.com/forums/faq.php?faq=vb3_board_faq#faq_forumrules>
 
 ### Your Consent
 
@@ -261,7 +251,7 @@ http://www.pso-world.com
   
 ---  
   
-  * [](https://web.archive.org/print/2212?s=b8a9edff2ffb328096e7d3cc9c774f59 "Display a printer-friendly version of this page.")
+  * [](https://web.archive.org/print/2212 "Display a printer-friendly version of this page.")
 
   
   
