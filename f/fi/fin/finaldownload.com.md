@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finaldownload.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617150717id_/http%3A//www.finaldownload.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldownload.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022225831id_/http%3A//www.finaldownload.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Final Download Privacy Policy
 
