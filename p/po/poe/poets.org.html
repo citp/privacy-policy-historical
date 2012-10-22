@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the poets.org privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214209id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poets.org privacy policy that was archived on 2012-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022124710id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>
@@ -21,48 +21,7 @@ Privacy Policy Statement- Poets.org - Poetry, Poems, Bios &amp; More</title>
 	</script>
 <script language="JavaScript" type="text/javascript" src="/menu_data.js"></script>
 <script language="JavaScript" type="text/javascript" src="/ajax-newsletter-signup.js"></script>
-    
-    <script type="text/javascript" src="/autocomplete/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="/autocomplete/jquery.autocomplete.js"></script>
-<script type="text/javascript">
-jQuery.noConflict();
-jQuery(function() {
-	var autocompleteAuthor = jQuery("input[name=prmAuthor]");
-	var autocompleteAuthorValue = jQuery("#prmAuthorAutocompleteValue");
-	bindAutoComplete(autocompleteAuthor, "poet", autocompleteAuthorValue, false);
-	
-	var autocompletePoem = jQuery("input[name=prmMediaTitle]");
-	var autocompletePoemValue = jQuery("#prmMediaTitleAutocompleteValue");
-	bindAutoComplete(autocompletePoem, "poem", autocompletePoemValue, 200);
-});
-
-function bindAutoComplete(element, searchTypeValue, hiddenInput, resultWidth) {
-	element.attr('autocomplete', 'off');
-	element.click(function(event) { jQuery(this).val('') });
-	/* with hidden input for "id" value
-	element.autocomplete({
-		url: '/autocomplete/autocomplete.ajax-target.php',
-		resultWidth: resultWidth,
-		minChars: 2,
-		extraParams: { search_type: searchTypeValue },
-		matchSubset: 0,
-		onItemSelect: function(obj) {
-			hiddenInput.val(obj.data);
-		}
-	});
-	*/
-	element.autocomplete({
-		url: '/autocomplete/autocomplete.ajax-target.php',
-		resultWidth: resultWidth,
-		minChars: 2,
-		extraParams: { search_type: searchTypeValue },
-		matchSubset: 0,
-		filterResults: false
-	});
-}
-
-</script>
-<link rel="stylesheet" type="text/css" href="/autocomplete/jquery.autocomplete.css"></head>
+</head>
 <body bgcolor="#f9f9f9">
 <table width="733" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
 	<tbody><tr>
@@ -152,26 +111,28 @@ function bindAutoComplete(element, searchTypeValue, hiddenInput, resultWidth) {
 						<tbody><tr>
 							<td bgcolor="#537699" width="100%"><img src="/images/spacer.gif" border="0" alt="" width="15" height="27" align="absmiddle"><img src="/images/imgFindPP.gif" border="0" alt="Find a Poet or Poem" width="117" height="20" align="absmiddle"></td>
 						</tr>
+						<form method="post" action="/search.php"></form>
+							<input type="Hidden" name="prmResetList" value="1">
+							<input type="Hidden" name="EditSubmit" value="1">
+							<tr style="padding: 2pt;">
+								<td nowrap=""><img src="/images/spacer.gif" border="0" alt="" width="7" height="22" align="absmiddle">
+									<input type="Text" class="TEXT" name="prmAuthor" size="15" value="Poet" onfocus="this.value='';">
+									<input type="Image" name="EditSubmit" border="0" alt="Go" align="absmiddle" src="/images/btnGo2.gif"></td>
+							</tr>
 						
-						<tr>
-    <td nowrap="" style="padding: 2pt 0;" colspan="2"><img src="/images/spacer.gif" border="0" alt="" width="10" height="1" align="left">
-    <form style="margin:0; padding:0;" method="post" action="/search.php">
-	<input type="Hidden" name="prmResetList" value="1">
-	<input type="Hidden" name="EditSubmit" value="1">
-    <!--<input type="hidden" name="prmAuthor" id="prmAuthorAutocompleteValue" value=""> -->
-    <input type="Text" class="TEXT acInput" name="prmAuthor" size="15" value="Poet" autocomplete="off">
-    <input type="Image" name="EditSubmit" border="0" alt="Go" align="absmiddle" src="/images/btnGo2.gif"></form></td>
-</tr>
-<tr>
-    <td nowrap="" style="padding: 2pt 0;" colspan="2"><img src="/images/spacer.gif" border="0" alt="" width="10" height="1" align="left">
-    <form style="margin:0; padding:0;" method="post" action="/search.php">
-    <input type="Hidden" name="prmResetList" value="1">
-    <input type="Hidden" name="EditSubmit" value="1"> 
-    <!--<input type="hidden" name="prmMediaTitle" id="prmMediaTitleAutocompleteValue" value=""> -->
-    <input type="Text" class="TEXT acInput" name="prmMediaTitle" size="15" value="Poem" autocomplete="off">
-    <input type="Image" name="EditSubmit" border="0" alt="Go" align="absmiddle" src="/images/btnGo2.gif"></form></td>
-</tr>
-                        
+						<form method="post" action="/search.php"></form>
+							<input type="Hidden" name="prmResetList" value="1">
+							<input type="Hidden" name="EditSubmit" value="1">
+							<tr style="padding: 2pt;">
+								<td><img src="/images/spacer.gif" border="0" alt="" width="7" height="1" align="absmiddle">
+									<input type="Text" class="TEXT" name="prmMediaTitle" size="15" value="Poem" onfocus="this.value='';">
+									<input type="Image" name="EditSubmit" border="0" alt="Go" onclick="
+								if(this.form.prmMediaTitle.value=='Poem'){
+									window.location='page.php/prmID/59';
+									return false;
+								};" align="absmiddle" src="/images/btnGo2.gif"></td>
+							</tr>
+						
 						<tr>
 							<td width="100%" style="padding: 2pt;"><img src="/images/spacer.gif" border="0" alt="" width="12" height="20" align="absmiddle"><a href="/search.php/prmResetList/1">Advanced Search &gt;</a></td>
 						</tr>
@@ -363,7 +324,7 @@ When we transfer and receive certain types of sensitive information such as fina
 <tr><td colspan="4">
 	<table width="730px" cellspacing="0" cellpadding="2" border="0" align="center">
 	<tbody><tr><td style="color: #336699;"><a href="/switchfont.php"><img src="/images/btnMagnifier.gif" border="0" alt="Larger Type" width="20" height="19" align="absmiddle">Larger Type</a> | <a href="/index.php">Home</a> | <a href="/page.php/prmID/7">Help</a> | <a href="/page.php/prmID/8">Contact Us</a> | <a href="/page.php/prmID/340">Privacy Policy</a></td>
-		<td align="right" class="COPY">Copyright © 1997 - 2011 by Academy of American Poets.</td>
+		<td align="right" class="COPY">Copyright © 1997 - 2012 by Academy of American Poets.</td>
 	</tr>
 	</tbody></table>
 	</td>
@@ -384,9 +345,7 @@ try {
 			
 
 
-	
-
 
 
  
-<div class="acResults" style="display: none; position: absolute; top: 127px; left: 330.5px;"></div><div class="acResults" style="display: none; position: absolute; top: 152px; left: 330.5px;"></div></body></html>
+</body></html>
