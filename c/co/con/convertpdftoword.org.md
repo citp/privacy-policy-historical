@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertpdftoword.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508151020id_/http%3A//www.convertpdftoword.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertpdftoword.org privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023091752id_/http%3A//www.convertpdftoword.org/privacy-policy) for the most accurate reproduction.*
 
 # Convert PDF to Word Free Online – Privacy Policy
 
@@ -46,6 +46,6 @@ If we decide to change our privacy policy, we will post changes to this page. Th
 
 ## Terms and conditions
 
-Please visit our Terms and Conditions section related to the use of this website. [ convertpdftoword.org/legal/](https://web.archive.org/web/20120508151020id_/http://www.convertpdftoword.org/privacy-policy/%E2%80%9Dhttp://convertpdftoword.org/legal/%E2%80%9D)
+Please visit our Terms and Conditions section related to the use of this website. [convertpdftoword.org/legal/](http://convertpdftoword.org/legal/)
 
-If you have questions about our privacy policy, please send an email to [online.conversion.service@gmail.com](https://web.archive.org/web/20120508151020id_/http://www.convertpdftoword.org/privacy-policy/%E2%80%9Dmailto:)
+If you have questions about our privacy policy, please send an email to [online.conversion.service@gmail.com](mailto:online.conversion.service@gmail.com)
