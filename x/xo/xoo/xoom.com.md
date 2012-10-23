@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505081745id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023192511id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xoom
 
-Xoom Corporation, a California Corporation, takes your Privacy very seriously. This Privacy Policy applies to the Site **www.xoom.com** and is effective as of **2011-10-25**.
+Xoom Corporation, a California Corporation, takes your Privacy very seriously. This Privacy Policy applies to the Site **www.xoom.com** and is effective as of **2012-07-05**.
 
 We are committed to protecting our customers' privacy and security. This Privacy Statement explains what personal information we collect about you, with whom we share it, and how you [The user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
