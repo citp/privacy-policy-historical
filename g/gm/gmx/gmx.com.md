@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102182156id_/http%3A//www.gmx.com/privacy.html%3Bjsessionid%3D9C398FAE03A39A5BD002EB5CB68A21F8.jport-us012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023183030id_/http%3A//www.gmx.com/privacy.html%3Bjsessionid%3D50FCFC600F5980FDA79F5A63A068FA9D.jport-us013) for the most accurate reproduction.*
 
 # Free Webmail and Email by GMX | Sign Up Now!
-
-  * Please enable Java Script in your browser and retry.
-
-
 
 ## Privacy
 
@@ -21,8 +17,11 @@ GMX may request or collect personal information from online users in a variety o
 The data we collect is information that identifies you personally, and may include: 
 
     * Your name
-    * Email address
-    * Postal address
+    * Gender
+    * Date of Birth
+    * Country
+
+You can remove or modify your personal information at any time by logging in to your account at mail.com and navigating to Options -> Account -> Account Data. To delete your account in its entirety, please navigate to Options -> Account -> Delete Account and follow the instructions under “Delete Account.” For more information on managing your account see the help section in your mail.com account.
 
 GMX may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
 
@@ -44,7 +43,7 @@ GMX may also disclose aggregate, anonymous data based on information collected f
 
   * ### Special Offers and Updates
 
-Our customers and users will occasionally receive newsletters or emails with information on products, services, or special offers. Out of respect for the privacy of our users, GMX gives them the opportunity to opt-out from receiving these types of communications.
+Our customers and users will occasionally receive newsletters or emails with information on products, services, or special offers. Out of respect for the privacy of our users, GMX gives them the opportunity to opt-out from receiving these types of communications. To opt out of all non-service related communications please follow the instructions included in the mailing you receive.
 
   * ### Service Announcements
 
