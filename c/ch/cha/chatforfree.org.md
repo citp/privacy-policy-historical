@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatforfree.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525043012id_/http%3A//www.chatforfree.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatforfree.org privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023140859id_/http%3A//www.chatforfree.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
