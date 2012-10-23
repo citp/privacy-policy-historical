@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511072449id_/http%3A//www.naturehills.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023112039id_/http%3A//www.naturehills.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Nature Hills Nursery, Inc.
+# Privacy Policy
 
+**     25% Off All Trees, Shrubs and Perennials, AND 60% Off Bulbs. Ends TONIGHT!  **
+
+|   
+  
+---|---  
+  
 Nature Hills Nursery respects the privacy of visitors to our website and the privacy of our customers. We take your privacy seriously. We will not collect personal information about any visitor to our website, unless the visitor is made aware that we are collecting such information. We ensure that any information that is collected is collected in a secure and safe encrypted manner.
 
 **Currently, we would collect personal information for the following reasons:**
