@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creampie-angels.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616220000id_/http%3A//creampie-angels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creampie-angels.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023212704id_/http%3A//creampie-angels.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
