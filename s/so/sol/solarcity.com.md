@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614203008id_/http%3A//www.solarcity.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023034743id_/http%3A//www.solarcity.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We have implemented these practices for SolarCity's web sites (www.solarcity.com, solarlease.solarcity.com, solarguard.solarcity.com, www.mysolarcity.com) and dependent pages. We have instructed our website administrator to include information regarding these privacy practices on each location of the SolarCity website where personal information is collected.
 
-Portions of this privacy policy may be governed by the supplemental MapPoint Web & Virtual Earth Service Privacy Policy at <http://privacy.microsoft.com/en-us/search.mspx> for site content displaying a visual mapping service.
+Portions of this privacy policy may be governed by the supplemental MapPoint Web & Virtual Earth Service Privacy Policy at <http://privacy.microsoft.com/en-us/fullnotice.mspx> for site content displaying a visual mapping service.
 
 We encourage you to read this Privacy Policy.
 
@@ -42,7 +42,7 @@ You should know that e-mail is not necessarily secure against all forms of inter
 
 We collect only those e-mail addresses that are volunteered by the visitor, through e-mail messages addressed to our company or its employees, or through visitor responses via the "contact us" portion of the site, e-mail marketing destination web pages and public events.
 
-We use the lists of e-mail addresses for marketing purposes and to inform those interested in our products about events, products, services or other items of interest. We may also use the lists of e-mail addresses volunteered by our visitor's to register the visitor for an extranet account or to process orders for brochures and other written materials.
+We use the lists of e-mail addresses for marketing purposes and to inform those interested in our products about events, products, services or other items of interest. We may also use the lists of e-mail addresses volunteered by our visitors to register the visitor for an extranet account or to process orders for brochures and other written materials.
 
 You may opt-out of receiving the promotional or marketing e-mails at any time by [following this link](http://www.solarcity.com/contact/web-collect-unsubscribe.aspx), notifying us as a reply to any unwanted e-mail, or by writing to SolarCity at 3055 Clearview Way, San Mateo, CA 94402 USA. Requests to unsubscribe from SolarCity e-mails may take 10 business days to process.
 
