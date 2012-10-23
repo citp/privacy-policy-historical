@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the kfc.co.uk privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508075030id_/http%3A//kfc.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kfc.co.uk privacy policy that was archived on 2012-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023054031id_/http%3A//www.kfc.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" class=" webkit chrome linux js"><head>
 		<title>Privacy Policy - KFC.co.uk</title>
 		
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,6 +15,7 @@
 <link rel="stylesheet" href="/resources/css/style-extended.css" type="text/css"> 
 <link rel="shortcut icon" href="/resources/img/favicon.ico">
 
+		<link rel="stylesheet" href="/resources/css/jquery.superbox.css" type="text/css" media="all">	
 		
 
 
@@ -28,16 +29,18 @@ personal information and security">
 			
 			<meta http-equiv="refresh" content="0;url=?nojs=1#no-javascript"/>
 			
+			
 			<!--[if IE]>
 				<style type="text/css">
 		        	html {overflow-y: auto;}
 		        	#lightboxes .ie-bg {background: #000;position: absolute;z-index: -1;width: 100%;height: 100%;filter: alpha(opacity=45);}
-	        	</style>
+	        	</style>	        	
 			<![endif]-->
 		</noscript>
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//nexus.ensighten.com/fabric/Bootstrap.js"></script>
-		<script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script>
 		<script type="text/javascript">
+				
+				
 			  var _gaq = _gaq || [];
 			  _gaq.push(['_setAccount', 'UA-23240407-1']);
 			  _gaq.push(['_trackPageview']);
@@ -56,9 +59,53 @@ personal information and security">
 		<!--[if lt IE 9]>
 		<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
 		<![endif]-->
-	</head>
+			
+	<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20121023051818/https://ws.sharethis.com/button/css/buttons-secure.css"></head>
 	<body>
-	<div id="fb-root"></div>
+	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+	<script type="text/javascript">
+
+		window.fbAsyncInit = function() {
+			FB.init({
+				appId : '258050517636341', 
+				status : true,
+				cookie : true,
+				xfbml : true,
+				oauth : true
+			});
+			// run once with current status and whenever the status changes
+			FB.getLoginStatus(updateButton);
+			FB.Event.subscribe('auth.authResponseChange', updateButton);
+		};
+		(function() {
+			var e = document.createElement('script');
+			e.async = true;
+			e.src = document.location.protocol
+					+ '//connect.facebook.net/en_US/all.js';
+			document.getElementById('fb-root').appendChild(e);
+		}());
+
+		function updateButton(response) {
+			if (response.status === "unknown") {
+				
+			$('#fb-facepile').remove();
+				$('.fb-footer').addClass('fb-footer-loggedout').removeClass('fb-footer-loggedin');
+			} else {
+			}
+		}
+		var onsuperclick= function (){
+			window.location='/dontworryeathappy/viewStory/8';
+		};
+		
+	</script>
+	
+	    
+	
+	
+		
+		<!-- main div start -->
+	<div class=" ">
+	
 		<noscript>
 			<ul id="lightboxes">
 				<li id="close"></li>
@@ -82,10 +129,10 @@ personal information and security">
 		
 
 		<div>
+			
 			<!--Main wrapper start-->
-			<div class="mainWrapper">
+			<div class="mainWrapper" style="top: 83px;">
 				
-			    
 
 
 
@@ -110,15 +157,17 @@ function setHeaderSearchAction(){
 
 
 <div class="header">
+<div class="cookie_bar" id="cookie_bar" style="">
+			<span>Cookies help this site run better. But <a href="/cookies">these kinds of cookies...</a> not those kinds of <a href="/our-food/drinks/krushems-oreo">cookies.</a></span>
+			<span><a href="#" class="cookiesclosebtn"><img src="/resources/img/cookie_close_btn.png" width="10" height="9" alt="Close" title="Close"></a></span> 
+		</div>
 	<!--Top find us start-->
 	<ul class="findUs">		
 		
-			<li>
-				<fb:like href="http://kfc.co.uk/privacy-policy" width="50" layout="button_count" onclick="analize('_trackEvent', 'Clicked', 'Social', 'Facebook - http://www.kfc.co.uk/privacy-policy');">		
+			<li>			
+				<fb:like href="https://www.facebook.com/KFC.uk?ref=ts" width="50" layout="button_count" onclick="analize('_trackEvent', 'Clicked', 'Social', 'Facebook - http://www.kfc.co.uk/privacy-policy');">		
 			</fb:like></li>
 		
-		<li class="youTube"><a href="http://www.youtube.com/user/KFCRESTAURANTS?blend=1&amp;ob=5" target="new" onclick="analize('_trackEvent', 'Clicked', 'Social', 'YouTube');"><img src="/resources/img/ico-youTube.gif" alt="You Tube" title="You Tube" border="0"></a>
-		</li>				
 	</ul>
 	<!--Top find us end-->
 
@@ -157,6 +206,10 @@ function setHeaderSearchAction(){
 											
 											
 											
+			
+							<li class="deli-deluxe-rangeMenu"><a id="menu.deli-deluxe-range" href="http://www.kfc.co.uk/our-food/deli-deluxe-range" title="Deli Deluxe Range">Deli Deluxe Range</a></li>	
+			
+							<li class="grilled-bbq-rancher-rangeMenu"><a id="menu.grilled-bbq-rancher-range" href="http://www.kfc.co.uk/our-food/grilled-bbq-rancher-range" title="Grilled BBQ Rancher Range">Grilled BBQ Rancher Range</a></li>	
 			
 			
                     	 
@@ -207,22 +260,22 @@ function setHeaderSearchAction(){
 			
 			</li>
 			
-			<li class="wecareMenu"><a id="menu.wecare" href="http://www.kfc.co.uk/we-care" title="We Care">We Care</a>
+			<li class="dontworryeathappyMenu"><a id="menu.dontworryeathappy" href="http://www.kfc.co.uk/dontworryeathappy" title="Don't Worry. Eat Happy">Don't Worry. Eat Happy</a>
 			
 				<div class="subMenu">
                 	<div class="innerWrap">
                     	<ul>
 			
-                    	<li class="foodMenu"><a id="menu.food" href="http://www.kfc.co.uk/we-care/food" title="Food">Food</a></li>
+                    	<li class="foodMenu"><a id="menu.food" href="http://www.kfc.co.uk/dontworryeathappy?tag=food" title="Our Food">Our Food</a></li>
 			
 			
-                    	<li class="environmentMenu"><a id="menu.environment" href="http://www.kfc.co.uk/we-care/environment" title="Environment">Environment</a></li>
+                    	<li class="restaurantsMenu"><a id="menu.restaurants" href="http://www.kfc.co.uk/dontworryeathappy?tag=restaurants" title="Our Restaurants">Our Restaurants</a></li>
 			
 			
-                    	<li class="communityMenu"><a id="menu.community" href="http://www.kfc.co.uk/we-care/community" title="Community">Community</a></li>
+                    	<li class="communityMenu"><a id="menu.community" href="http://www.kfc.co.uk/dontworryeathappy?tag=community" title="Our Community">Our Community</a></li>
 			
 			
-                    	<li class="peopleMenu"><a id="menu.people" href="http://www.kfc.co.uk/we-care/people" title="People">People</a></li>
+                    	<li class="peopleMenu"><a id="menu.people" href="http://www.kfc.co.uk/dontworryeathappy?tag=people" title="Our People">Our People</a></li>
 			
 			
 			
@@ -401,25 +454,11 @@ function setHeaderSearchAction(){
 			indicated by you) with information about Our great KFC offers and
 			services.</p>
 
-		<h5>Cookies</h5>
-		<p>Our Site may use technologies such as "cookies" to provide
-			visitors with tailored information upon each visit. Cookies are a
-			common part of many commercial websites that allow small text files
-			to be sent by a website, accepted by a web browser and then placed on
-			your hard drive as recognition for repeat visits to the Site. Every
-			time you visit Our Site, Our servers, through cookies, pixels and/or
-			GIF files, collect basic technical information such as your domain
-			name, the address of the last URL visited prior to clicking through
-			to the Site, and your browser and operating system. If you like, you
-			can set your browser to notify you before you receive a cookie so you
-			have the chance to accept it and you can also set your browser to
-			turn off all cookies. The web site www.allaboutcookies.org (run by
-			the Interactive Marketing Bureau) contains step-by-step guidance on
-			how cookies can be switched off by users. You do not need to enable
-			cookies to visit Our Site; however, some parts of the Site and some
-			services may be more difficult or impossible to use if cookies are
-			disabled. To emphasize, cookies are not linked to any Personal
-			Information while on this Site.</p>
+		<h5>What information is collected about me on the site?</h5>
+		<p>Just like most websites you visit, we use cookies to track people's visiting patterns and make the site
+			easier to use next time you visit. Click the link below if you would like more detailed information
+			about how these cookies work and our policy regarding the information they collect.</p>
+			<a href="/cookies">All about cookies</a>
 
 		
 		<p class="heading" id="2">What does Company do with the information
@@ -589,21 +628,18 @@ function setHeaderSearchAction(){
         	<li><a href="http://www.kfc.co.uk/join-us" title="Join Us">Join Us</a></li>
         	<li><a href="http://www.kfc.co.uk/about-kfc/contact-us" title="Contact us">Contact us</a></li>
         	<li><a href="http://www.kfc.co.uk/privacy-policy" title="Privacy">Privacy</a></li>
+        	<li><a href="http://www.kfc.co.uk/cookies" title="Cookies">Cookies</a></li>
             <li><a href="http://www.kfc.co.uk/terms-and-conditions" title="Terms and conditions">Terms and conditions</a></li>
         </ul>
     </div>
-    	<ul class="findUs">
-    	<!-- FB like for KFC pages -->
-    	
-			<li>
-				<fb:like href="http://kfc.co.uk/privacy-policy" width="50" layout="button_count" onclick="analize('_trackEvent', 'Clicked', 'Social', 'Facebook - http://www.kfc.co.uk/privacy-policy');">		
-			</fb:like></li>
-		
-		<li class="youTube">
-        	<a href="http://www.youtube.com/user/KFCRESTAURANTS?blend=1&amp;ob=5" target="new" onclick="analize('_trackEvent', 'Clicked', 'Social', 'YouTube');"><img src="/resources/img/ico-youTube.gif" alt="You Tube" title="You Tube" border="0"></a>
-		</li>
-    </ul>
     <div class="clear"></div>
+    <div class="fb-footer fb-footer-loggedin">
+    <div id="fb-facepile">
+    <div class="fb-facepile" data-href="http://www.facebook.com/kfc.uk" data-size="small" data-max-rows="1" data-width="380"></div>
+    </div>
+    	<span><a href="http://www.facebook.com/KFC.UK">FB</a></span>
+    </div>
+    
 </div>
 			    <div class="clear"></div>
 			</div>
@@ -614,13 +650,29 @@ function setHeaderSearchAction(){
 		<div id="fade" class="black_overlay"></div>
 
 		
+    
+
+    
+
+
+
+
 
 <script src="/resources/js/ext/jquery-1.5.1.min.js" type="text/javascript"></script> 
-<script src="/resources/js/ext/jquery.tools.min.js" type="text/javascript"></script> 
+
+
+  <script src="/resources/js/ext/jquery.tools.min.js" type="text/javascript"></script> 
+
+
 <script src="/resources/js/ext/jquery.cookie.js" type="text/javascript"></script> 
 <script src="/resources/js/ext/jquery.scrollTo-1.4.2-min.js" type="text/javascript"></script> 
+<script src="/resources/js/ext/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script>
 <script src="/resources/js/ext/scrollToTop.js" type="text/javascript"></script>  
 <script src="/resources/js/kfc.js" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/js/jquery.superbox.js"></script>
+<!-- Don't Worry, Eat Happy index functionality -->
+	<script type="text/javascript" src="/resources/js/dweh.js"></script>
+
 
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 
@@ -637,7 +689,6 @@ function setHeaderSearchAction(){
 		
 
 		
-		
 		<div>
 			<div id="light" class="youtube_content"></div>
 			<div id="closeButton">
@@ -645,5 +696,52 @@ function setHeaderSearchAction(){
 			</div>
 			<div style="clear: both"></div>
 		</div>
+		<div>
+			<div id="light" class="youtube_content"></div>
+			<div id="closeButton">
+				<img src="/resources/img/img-close.png" onclick="closeVideo();" alt="Close Video">
+			</div>
+			<div style="clear: both"></div>
+		</div>
+		<script language="javascript">  
+			  $(document).ready(function(){
+				  $(".cookiesclosebtn").click(function(){
+				 	$(".mainWrapper").animate({
+					 top: "0px"
+			           }, 300, 'linear',  function() {
+ 			               $(this).parents(".cookie_bar").remove();
+	 				});			
+					
+			 	  });
+				  $.superbox.settings = {
+						closeTxt: "Close",
+						loadTxt: "Loading...",
+						nextTxt: "Next",
+						prevTxt: "Previous"
+					};
+					$.superbox();
+					
+				  $(".cookiesclosebtn").click(function(){
+				 	$(".mainWrapper").animate({
+					 top: "0px"
+			           }, 300, 'linear',  function() {
+			               $(this).parents(".cookie_bar").remove();
+					});			
+					
+			 	  });
+				  if($.cookie('kfcPageCookieIfgd'));
+				  else
+					  {
+					  if($("#cookie_bar")){
+						  $("#cookie_bar").show();
+					  	  $(".mainWrapper").css("top", "83px");
+					  }
+					  $.cookie('kfcPageCookieIfgd',"something",{expires:30});
+				  }
+			  });
+				  
+		  </script>
+		</div>
+		<!-- main div end -->
 	
-</body></html>
+<div id="superbox-overlay" style="display: none;"></div><div id="superbox-wrapper" style="display: none;"><div id="superbox-container"><div id="superbox"><p class="close"><a><strong><span>Close</span></strong></a></p><span onclick="onsuperclick()"></span><div id="superbox-innerbox"></div><p class="nextprev" style="display: none;"><a class="prev"><strong><span>Previous</span></strong></a><a class="next"><strong><span>Next</span></strong></a></p></div><p class="loading" style="display: none;">Loading...</p></div></div><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20121023051818/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121023054031id_%2Fhttp%253A%2F%2Fwww.kfc.co.uk%2Fprivacy-policy&amp;jsref=&amp;rnd=1580384638125" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20121023051818/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
