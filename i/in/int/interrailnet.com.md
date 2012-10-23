@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616134538id_/http%3A//www.interrailnet.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023181014id_/http%3A//www.interrailnet.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # InterRailnet.com Privacy Policy
 
