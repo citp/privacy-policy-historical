@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526121548id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023032558id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CloudAccess.net
 
-##### What This Privacy Policy Covers
+## CloudAccess.net Privacy Policy
+
+### What This Privacy Policy Covers
 
 This policy covers how CloudAccess.net, LLC, a Michigan corporation ("cloudaccess.net," "we," "us," or "our"), and all of its affiliated Web sites, products, and services, including, without limitation, www.cloudaccess.net (collectively, the "cloudaccess.net Sites, Products and Services"), treat personal information that the CloudAccess.net Products and Services collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the CloudAccess.net Sites, Products, and Services is not considered "personal information" and is not considered the type of information protected by a privacy policy.
 
@@ -10,7 +12,7 @@ This policy covers how the cloudaccess.net Sites, Products, and Services deal wi
 
 This policy does not apply to the practices of companies that CloudAccess.net does not own or control, or to people that CloudAccess.net does not employ or manage.
 
-##### Information We Gather
+### Information We Gather
 
 The CloudAccess.net Sites, Products, and Services may collect personal information (such as your name, email address, billing address, phone number, credit card information, and certain optional information such as birth date, birth place, mother's maiden name, gender, zip code, biographical information, ICQ/AIM/Yahoo/MSN/SKYPE user name, occupation, industry, and personal interests when you register with them, use the particular products or services, or post content on a Blog site as a guest with authoring rights, as applicable.
 
@@ -24,7 +26,7 @@ The CloudAccess.net Sites, Products, and Services may automatically receive and 
 
 The CloudAccess.net Sites, Products, and Services use information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
 
-##### _IP Address_
+### IP Address
 
 The CloudAccess.net Sites, Products, and Services may occasionally obtain IP addresses from users depending upon how you access our Web sites. IP addresses, browser, and session information may be used for various purposes, including to:
 
@@ -38,28 +40,20 @@ Monitor and prevent fraud and abuse.
 
 The CloudAccess.net Sites, Products, and Services may display your IP address to the owners or maintainers of certain journals or Blogs when you post to those journals or Blogs and the owner or maintainer has enabled functionality on the sites for this purpose.
 
-##### _Cookies_
+### Cookies
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Web site's computers and stored on your computer's hard drive. 
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Web site's computers and stored on your computer's hard drive. If you reject all cookies, you may not be able to use the cloudaccess.net Sites, Products, and Services that require you to "sign in," and you may not be able to take full advantage of all offerings. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. The CloudAccess.net Sites, Products, and Services use their own cookies for a number of purposes, including to: 
 
-If you reject all cookies, you may not be able to use the cloudaccess.net Sites, Products, and Services that require you to "sign in," and you may not be able to take full advantage of all offerings.
+  * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+  * Keep track of preferences you specify while you are using the cloudaccess.net Sites, Products, and Services.
+  * Estimate and report our total audience size and traffic.
+  * Conduct research to improve the content and services provided on the cloudaccess.net Sites, Products, and Services.
 
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
-  
-The CloudAccess.net Sites, Products, and Services use their own cookies for a number of purposes, including to:
-
-Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
-
-Keep track of preferences you specify while you are using the cloudaccess.net Sites, Products, and Services.
-
-Estimate and report our total audience size and traffic.
-
-Conduct research to improve the content and services provided on the cloudaccess.net Sites, Products, and Services.
 
 CloudAccess.net lets other entities that show advertisements on some of our Web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to CloudAccess.net's cookies.
 
-##### Information Relating to Children
+### Information Relating to Children
 
 The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. The CloudAccess.net Sites, Products, and Services are not directed at children under 13 years of age, but we recognize that with proper adult supervision some parents might permit their children to visit and utilize the CloudAccess.net Sites, Products, and Services. COPPA requires that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of the CloudAccess.net Sites, Products, and Services.
 
@@ -67,15 +61,16 @@ When your child attempts to register and/or provide personal information to clou
 
 Once parental notice and consent has been verified, the information we collect will be treated the same as information collected from any other user of the CloudAccess.net Sites, Products, and Services. Without verified parental notice and consent, we will not knowingly collect personal information of children under 13 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it.
 
-##### How Parents Can Access their Children's Personal Information
+### How Parents Can Access their Children's Personal Information
 
-In compliance with COPPA, parents and legal guardians may request us to review, delete, or stop the collection of the personally identifiable information of their child. You may do so in one of two ways:
+In compliance with COPPA, parents and legal guardians may request us to review, delete, or stop the collection of the personally identifiable information of their child. You may do so in one of two ways: 
 
-If you know the user name and password, follow the instructions below regarding Changing your Preferences and Personal Information, or you may contact us by letter, phone, or email, using the address information provided at the bottom of this page.
+  * If you know the user name and password, follow the instructions below regarding Changing your Preferences and Personal Information, or you may contact us by letter, phone, or email, using the address information provided at the bottom of this page.
+  * If you request that no further information about your child be collected or used, we will be required to terminate your child's ability to use the CloudAccess.net Sites, Products, and Services that require a user to "sign in."
 
-If you request that no further information about your child be collected or used, we will be required to terminate your child's ability to use the CloudAccess.net Sites, Products, and Services that require a user to "sign in."
 
-##### Information Use, Sharing, and Disclosure
+
+### Information Use, Sharing, and Disclosure
 
 The CloudAccess.net Sites, Products, and Services do not share personal information we learn about you from your use of the Web sites, products, and services with others, except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes. However, the CloudAccess.net Sites, Products, and Services may display targeted advertisements based on personal information.
 
@@ -87,7 +82,7 @@ Where you are contacted with an offer or service based on information you have s
 
 When you post a message, your user ID or alias that you are posting under may be visible to other users. 
 
-If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
 
 The CloudAccess.net Sites, Products, and Services may share personally identifiable information about you under the following circumstances:
 
@@ -99,11 +94,11 @@ We may share your personal information if we believe it is necessary in order to
 
 As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented.
 
-##### Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 CloudAccess.net may revise, modify, or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular CloudAccess.net account or by placing a prominent notice on our site.
 
-##### Confidentiality and Security
+### Confidentiality and Security
 
 No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
 
@@ -111,28 +106,23 @@ We use physical, electronic, and procedural safeguards to protect personal infor
 
 Your account information is password-protected.
 
-In certain areas, the CloudAccess.net Sites, Products, and Services use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
+In certain areas, the CloudAccess.net Sites, Products, and Services use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
 If CloudAccess.net learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the CloudAccess.net Sites, Products, and Services or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of those sites, products, and services. We may post a notice on our applicable Web sites if a security breach occurs. If this happens, you will need a Web browser enabling you to view the applicable Web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), you should notify us at admin @ cloudaccess.net.
 
-##### Changing Your Preferences and Personal Information
+### Changing Your Preferences and Personal Information
 
 You can edit your account information with an applicable CloudAccess.net Site, Product, or Service at any time. Most personal information you may provide is entirely optional. For example, to the extent that parents are considering whether to permit their children to use the CloudAccess.net Sites, Products, and Services, we do not condition a child's participation based upon their provision of any more personal information than is necessary to operate those Sites, Products, and Services.
 
 You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
 
-##### Contacting cloudaccess.net
+### Contacting Cloudaccess.net
 
 If you have a privacy concern regarding any CloudAccess.net Site, Product, or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those Sites, Products, or Services, you should write to us by email at  feedback @ cloudaccess.net. Alternatively, we can be reached by telephone at 800-400-1565 or our postal mail address:
 
 CloudAccess.net, LLC.  
 salesteam @ cloudaccess.net   
-Toll Free: 800-400-1565  
-Fax: 313-899-7032  
 web: [http://www.cloudaccess.net](https://www.cloudaccess.net/undefined)
-
-12719 S West Bayshore Dr., Suite 9  
-Traverse City, MI 49684
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing to us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the CloudAccess.net Sites, Products, and Services or may require us to terminate our relationship with you.
 
