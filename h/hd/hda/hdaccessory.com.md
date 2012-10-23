@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdaccessory.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623022739id_/http%3A//www.hdaccessory.com/servlet/the-template/privacy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdaccessory.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023220934id_/http%3A//www.hdaccessory.com/servlet/the-template/privacy/Page) for the most accurate reproduction.*
 
 # iPhone 4S 4 Accessories, iPad Cases, Skins & Covers, iPod Car Kit, Chargers, Headset, iPhone 4 4S Cover, Headphones, Car Mount Holder & Charger
 
