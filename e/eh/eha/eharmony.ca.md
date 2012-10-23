@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326222531id_/http%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023204739id_/http%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony - Go Beyond "Traditional" Online Dating
 
@@ -111,7 +111,8 @@ If you have any questions about the practices of this site, or your dealings wit
 Site Administrator  
 eHarmony, Inc.  
 P.O. Box 3640  
-Santa Monica, CA 90408 USA
+Santa Monica, CA 90408 USA   
+(855) 290-5581
 
 **Acceptance of Privacy Statement**
 
@@ -123,4 +124,4 @@ Your continued use of any portion of our website following posting of the update
 
 **Effective Date**
 
-This privacy statement was last revised on April 14, 2011.
+This privacy statement was last revised on August 20, 2011.
