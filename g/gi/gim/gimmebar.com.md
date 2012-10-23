@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gimmebar.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502170611id_/https%3A//gimmebar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmebar.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024011409id_/https%3A//gimmebar.com/privacy) for the most accurate reproduction.*
 
-# Gimme Bar | Privacy
+# Gimme Bar : Privacy
+
+Last updated: September 2, 2011
 
 Gimme Bar, Inc. (“ **Gimme Bar** ,” “ **we** ” or “ **us** ”) is pleased to provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information we receive from you and other users of the Gimme Bar service, through our website located at **https://gimmebar.com** (the “ **Website** ”). Such service and the Website are collectively referred to in this Privacy Policy as the “ **Service**.” This Privacy Policy applies only to information that you provide to us through the Service. Gimme Bar reserves the right to update this Privacy Policy from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Website at http://www.gimmebar.com/privacy. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Service will be subject to the then-current privacy policy.
 
@@ -85,8 +87,4 @@ This Privacy Policy is subject to the terms in our Terms of Service, available f
 
 If you have any questions about our privacy practices, please feel free to contact us at:
 
-Gimme Bar, Inc.  
-10 Jay Street, Suite 612A  
-Brooklyn, NY 11201-1161  
-admin@gimmebar.com  
-
+Gimme Bar, Inc. 10 Jay Street, Suite 612A Brooklyn, NY 11201-1161 admin@gimmebar.com
