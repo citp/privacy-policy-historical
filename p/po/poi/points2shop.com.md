@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the points2shop.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627040555id_/http%3A//www.points2shop.com/rules/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the points2shop.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023021708id_/http%3A//www.points2shop.com/rules/privacy_policy) for the most accurate reproduction.*
 
 # Points2shop - Earn Points for Free Rewards
 
