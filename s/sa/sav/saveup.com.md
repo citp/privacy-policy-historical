@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506064627id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023045547id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
 
 # SaveUp
+
+## **Privacy** policy.
 
 SaveUp, Inc. ("SaveUp") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [saveup.com](https://web.archive.org/) ("Site") and the services made available through the Site ("Services"). Capitalized terms not defined in this Privacy Policy have the meaning set forth in the Terms of Service. 
 
@@ -92,7 +94,7 @@ To make our Site and Services more useful to you, our servers (which may be host
 
 **Disclosure to Third Party Companies.** We may enter into agreements with Third Party Companies. A Third Party SaveUp may want access to Personal Data that we collect from its customers. As a result, we may disclose your Personal Data to a Third Party Company; however, we will not disclose your Personal Data to Third Party Companies for the Third Party Companies’ own direct marketing purposes, unless you have "opted-in" by following the instructions we provide to allow such disclosure. If you have opted-in to receive e-mail communications from a Third Party Company and later wish to discontinue receipt of these e-mails, please contact the Third Party Company directly to update your preferences. The privacy policies of our Third Party Companies may apply to the use and disclosure of your Personal Data that we collect and disclose to such Third Party Companies. Because we do not control the privacy practices of our Third Party Companies, you should read and understand their privacy policies. 
 
-**Compensation Disclaimer** Please note that www.saveup.com has financial relationships with some of the merchants mentioned here. www.saveup.com may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant. 
+**Compensation Disclaimer** Please note that SaveUp has financial relationships with some of the merchants mentioned here. SaveUp may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant. 
 
 ##### Your Choices Regarding Your Personal Data
 
