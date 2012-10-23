@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508075030id_/http%3A//kfc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.co.uk privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023054031id_/http%3A//www.kfc.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KFC.co.uk
 
@@ -23,9 +23,11 @@ What information does Company collect about me on this Site?
 
 The Company will collect personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities. The personally identifiable information ("Personal Information") collected can include some or all of the following: your name, address, telephone number, e-mail addresses, and any other information you may voluntarily provide. At the time of registration, you will have the option to receive future offers and updates from the Company by e-mail and SMS marketing by checking the appropriate opt-in box. If you choose to opt-in, your Personal Information will be kept in a secured database and We will alert you via e-mail or SMS (as indicated by you) with information about Our great KFC offers and services.
 
-##### Cookies
+##### What information is collected about me on the site?
 
-Our Site may use technologies such as "cookies" to provide visitors with tailored information upon each visit. Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit Our Site, Our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system. If you like, you can set your browser to notify you before you receive a cookie so you have the chance to accept it and you can also set your browser to turn off all cookies. The web site www.allaboutcookies.org (run by the Interactive Marketing Bureau) contains step-by-step guidance on how cookies can be switched off by users. You do not need to enable cookies to visit Our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled. To emphasize, cookies are not linked to any Personal Information while on this Site.
+Just like most websites you visit, we use cookies to track people's visiting patterns and make the site easier to use next time you visit. Click the link below if you would like more detailed information about how these cookies work and our policy regarding the information they collect.
+
+[All about cookies](https://web.archive.org/cookies)
 
 What does Company do with the information collected?
 
