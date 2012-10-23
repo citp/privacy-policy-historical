@@ -1,42 +1,38 @@
-<!--The following is the downloaded HTML source of the plink.com privacy policy that was archived on 2012-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525113135id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plink.com privacy policy that was archived on 2012-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121024013116id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta charset="UTF-8">
-		<title>plink.com | Earn Facebook Credits for Dining and Shopping Offline</title>
+		<title>Plink.com | Earn Plink Points for Dining and Shopping Offline</title>
 		<meta itemprop="name" content="Plink">
         
 		<meta itemprop="description" content="Earn Facebook Credits for Dining and Shopping Offline!">
-		
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
 		<link rel="shortcut icon" href="/assets/images/favicon.ico">
 
+        <link href="https://fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+        
+        <link href="/assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/assets/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
 		<link rel="stylesheet" href="/assets/css/core.css?v=10">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/js/jquery.js?v=10"></script>
-		<script src="/assets/js/allPages.js?v=10"></script>
 
-		<link rel="stylesheet" href="/assets/js/jqueryPlugins/jqModal.css?v=10">
-		<script src="/assets/js/jqueryPlugins/jqModal.js?v=10"></script>
 
-		<link rel="stylesheet" href="/assets/js/jqueryPlugins/poshyTip/tip-yellowsimple/tip-yellowsimple.css?v=10">
+        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/js/jquery.js?v=10"></script>
+        <script src="/assets/js/jqueryPlugins/placeholder.js"></script>
 
-		
-		<script>
-			$(document).ready(function(){
-				$('#dialog-whatIsPlink').jqm(
-					{
-						trigger:'.whatIsPlink',
-						modal:true,
-						toTop: true
-					}
-				);
-			})
-		</script>
-
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+            <!--[if lt IE 9]>
+              <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+            <![endif]-->
+        
 		
 	
-	<meta property="og:title" content="Earn Facebook Credits on Plink.com">
-	<meta property="og:description" content="Earn Facebook Credits for dining out at your favorite restaurants or shopping at retailers near you. Join Plink today.">
+	<meta property="og:title" content="Earn rewards on Plink.com">
+	<meta property="og:description" content="Earn rewards for dining out at your favorite restaurants or shopping at retailers near you. Join Plink today.">
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="https://www.plink.com/assets/images/logo.png">
 	<meta property="og:site_name" content="Plink">
@@ -59,62 +55,175 @@
 
           document.domain='plink.com';
 
-        </script>
+(function( $ ) {
+  $.fn.jqm = function() {
+  
+    console.log('jqm called');
+    // Do your awesome plugin stuff here
+
+  };
+})( jQuery );
+               </script>
         
 	</head>
 	
  
-	<body class="body centerXWrap  greyTextureRepeating">
-		<div class="blackAlphaGradient unit size24of24 lastUnit">
-			<div class="main centerXMe">
-				<div class="unit size24of24 lastUnit" id="rightColumn">
-					<div class="mod pop dropShadow25px">
-						<b class="top"><b class="tl"></b><b class="tr"></b></b>
-						<div class="inner">
 
-							<div class="mod topBlueAlpha unit size24of24 lastUnit">
-								<div class="r">
-									<div class="unit pvm pll">
-                                        <a href="/index.cfm?fuseaction=offers.wall">
-											<img src="/assets/images/logo.png">
-										</a>
-									</div>
-									
-										<div class="floatRight mtl loginButton cursor bold " id="loginButton" style="width:103px;">
-											<span class="fontDarkGrey">Login</span> <span class="fontLightBlue">&gt;</span>
-											<div id="dialog-login" class="jqmWindow">
-												<iframe src="/index.cfm?fuseaction=user.loginForm" width="100%" frameborder="0" allowtransparency="true" style="background:transparent;"></iframe>
-											</div>
-										</div>
-									
-									<br clear="both">
-								</div>
-							</div>
-							<div class="clear">&nbsp;</div>
-							<div class="mod mbn greyGradient whiteBorder textleft white unit size24of24 lastUnit">
+    <body class="container-fluid ">
 
-<div class="unit size24of24">
-	<div class="mal font13pt">
+        
+	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+
+	<script>
+		var fbConnectFrom = '';
+		var dialogAfterConnect = '';
+		
+
+		window.fbAsyncInit = function() 
+		{
+            
+            FB._https = true;
+            
+			FB.init({
+				appId: '108539345896102', 
+				cookie: true, 
+				xfbml: true,
+				oauth:true,
+				status: true,
+				channelURL:'https://www.plink.com/channel.html'
+			});
+
+			
+
+		};
+
+		(
+			function() 
+			{
+				var e = document.createElement('script'); e.async = true;
+				e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+				document.getElementById('fb-root').appendChild(e);
+			}()
+		);
+
+	</script>
+	
+	<script>
+		
+			function popFBConnect(shownFrom)
+			{
+				fbConnectFrom = shownFrom;
+				var left = (screen.width/2)-(630/2);
+				var top = (screen.height/2)-(300/2);
+				fbURL1 = 'https://www.facebook.com/dialog/oauth?'
+						+ 'client_id=108539345896102'
+						+ '&redirect_uri=https://www.plink.com/index.cfm?fuseaction=fbAuthentication.authenticate'
+						+ '&scope=email,user_birthday,user_location,user_checkins,publish_actions'
+						+ '&response_type=code'
+						+ '&state=051515519358864CF6BD718EEA543114'
+						+ '&display=popup';
+				fbURL = ' https://www.facebook.com/dialog/oauth?client_id=108539345896102&redirect_uri=https%3A%2F%2Fwww%2Eplink%2Ecom%2Findex%2Ecfm%3Ffuseaction%3DfbAuthentication%2Eauthenticate&scope=email,user_birthday,user_location,user_checkins,publish_actions&response_type=code&state=051515519358864CF6BD718EEA543114&display=popup';
+				fbConnectWindow = window.open(fbURL, 'fbConnectWindow', 'height=300, width=630,top='+top+',left='+left+'');
+				
+			}
+		
+
+		function fbLogin(fbUserID, email)
+		{
+			try{
+				fbConnectWindow.close();
+			} catch(err){}
+
+			addFbConnectLoader();
+			getFacebookUser(fbUserID, email)
+		}
+
+		function addFbConnectLoader(){
+			$('.facebookButton').parent().after("<img id='fbConnectLoader' style='' src='/assets/images/loader.gif'/>");
+
+		}
+        
+	</script>
+
+
+        <div class="blueHeader ">
+
+            <div class="container">
+                <div class="row ">
+
+                    <div class="span4 nmbxl">
+                        <a href="/index.cfm?fuseaction=offers.wall" class="noHover">
+                            <div class="logo posRelative">&nbsp;</div>
+                        </a>
+                        &nbsp;
+                    </div>
+
+                    <div class="span6 offset2 ptl textright">
+
+                        <div class="font14pt">
+                            
+                                <span class="fontLightBlue">Already have an account?</span>
+                                <span class="fontWhite loginButton cursor hoverUnderline" data-target="#dialog-login" data-toggle="modal">Log In</span>
+                                <div id="dialog-login" class="modal hide">
+                                    <iframe src="/index.cfm?fuseaction=user.loginForm" width="100%" frameborder="0" allowtransparency="true" style="background:transparent;"></iframe>
+                                </div>
+
+                            
+                        </div>
+
+                        
+                            <div class="mts ">
+                                <table class="mlxl">
+                                    <tbody><tr>
+                                        <td width="92">
+                                            <div class="fb-like" data-href="http://www.facebook.com/plinkdotcom" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" data-font="arial"></div>
+                                        </td>
+                                        <td style="padding-top:5px">
+<a href="https://twitter.com/plinkdotcom" class="twitter-follow-button" data-show-count="false">Follow @plinkdotcom</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                                        </td>
+                                        <td style="padding-top:5px">
+											<a target="_pinterest" href="http://pinterest.com/plinkdotcom/"><img src="/assets/images/follow-me-on-pinterest-button.png" alt="Follow Me on Pinterest"></a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                        
+
+                    </div>
+
+                </div>
+            </div>
+                
+
+        </div>
+
+        <div class="whiteBackground" style="min-height:400px;">
+
+<div class="container pvxl">
+	<div class="font13pt">
 		<h1>Plink Privacy and Security Policy</h1>
-		<h4 class="mvm font12pt bold fontDarkGrey ">Date Last Revised: <span class="fontLightBlue">August 5, 2011</span></h4>
-		<p>
-			</p><div class="unit size22of24">
-				Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="truste">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@plink.com.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site.<br>
-			</div>
-			<div class="unit size1of24">
-				<a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.plink.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.plink.com/seal_m.png" alt="Validate TRUSTe privacy certification"></a>
-			</div>
-			<div class="clear"></div>
+		<h4 class="mvm font12pt bold fontDarkGrey ">Date Last Revised: <span class="fontBlue">August 13, 2012</span></h4>
+		<p class="row-fluid">
+ </p><div class="span9">
+        Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="truste">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@plink.com">support@plink.com</a>.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site.<br>
+      </div>
+      <div class="span2">
+
+        <span id="d35500c0-c79f-4a6b-a5be-3fd6c350cbf7" class="phl"> <script type="text/javascript" src="//privacy-&#10;        policy.truste.com/privacy-seal/Plink/asc?rid=d35500c0-c79f-4a6b-a5be-3fd6c350cbf7"></script><a href="//privacy.truste.com/privacy-seal/Plink/validation?rid=374bcf9a-9073-4c87-8761-40abf21c2f9e" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Plink/seal?rid=374bcf9a-9073-4c87-8761-40abf21c2f9e" alt="TRUSTe
+        online privacy certification"></a></span>
+
+      </div>
 		<p></p>
-		<br>
-		<p>
+		<br clear="both">
+		<p class="mtm">
 			At Plink, our relationship with you is our most important asset. We want to earn your trust by being transparent about how Plink works. You should read this policy in its entirety, but should pay particular attention to these highlights: 
 		</p>
 		<ul class="list dottedList">
 			<li class="listItem">Plink is an online program where you can earn virtual currency and other rewards from Plink by visiting and making offline purchases at restaurants and other offline merchants. Plink uses a permissions-based tracking system to verify offline purchases. Consumers participating in the Plink program must opt-in to be tracked in the method outlined below. </li>
 			<li class="listItem">Plink does not charge for its services; however, to earn virtual currency, you must make offline purchases at participating offline restaurants and merchants. Plink also derives revenue from advertising and marketing services. We do not share, sell, trade or rent your personal information with third parties without your consent. Your privacy is not for sale. We allow advertisers to select characteristics of users (such as location) they want to show their advertisements or make offers to and we use the information we have collected to serve those advertisements and make those offers. We share reports with advertisers using non-private or non-personal information collected in aggregate. </li>
 		</ul>
-		<h3 class="mtm font12pt bold fontLightBlue">Introduction</h3>
+		<h3 class="mtm font12pt bold fontBlue">Introduction</h3>
 		<h6 class="mvm font12pt bold fontGrey">Questions.</h6>
 		<p>
 			If you have any questions or concerns about this Privacy and Security Policy, contact our privacy team by emailing <a href="mailto:support@plink.com">support@plink.com</a>. You may also contact us by mail at 2000 S. Colorado Blvd, Tower 1 Suite 7000, Denver, CO 80222.
@@ -127,7 +236,7 @@
 		<p>
 			If you are under age 13, please do not attempt to register for Plink or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us by emailing  <a href="mailto:support@plink.com">support@plink.com</a>.
 		</p>
-		<h3 class="mtm font12pt bold fontLightBlue">Information Collection and Use</h3>
+		<h3 class="mtm font12pt bold fontBlue">Information Collection and Use</h3>
 		<h6 class="mvm font12pt bold fontGrey">Personal information.</h6>
 		<p>
 			Plink is committed to maintaining the confidentiality, integrity and security of any personal information about our users. "Personal information" for purposes of this Policy means information that identifies you, such as your full name and email address. 
@@ -161,7 +270,7 @@
 		</p>
 		<h6 class="mvm font12pt bold fontGrey">Notifications and E-Mail Newsletters.</h6>
 		<p>
-			Plink may use your information to deliver to you any administrative notices, notification alerts, weekly or daily activity summaries, and communications relevant to your use of the Service. From time to time we may also transmit emails promoting Plink or third-party goods or services. Plink subscribers have the ability to opt-out of receiving our promotional emails by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails, such as email alerts. 
+			Plink may use your information to deliver to you any administrative notices, notification alerts, weekly or daily activity summaries, and communications relevant to your use of the Service. From time to time we may also transmit emails promoting Plink or third-party goods or services. Plink subscribers have the ability to opt-out of receiving our promotional emails by following the instructions in the emails or by logging into their account and changing their email preferences. Opting out in this manner will not end transmission of service-related emails, such as email alerts. 
 		</p>
 		<h6 class="mvm font12pt bold fontGrey">Contests, Giveaways and Surveys.</h6>
 		<p>
@@ -171,7 +280,15 @@
 		<p>
 			You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 		</p>
-		<h3 class="mtm font12pt bold fontLightBlue">Information Sharing and Disclosure</h3>
+		<h6 class="mvm font12pt bold fontGrey">Testimonials.</h6>
+		<p>
+		We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at <a href="mailto:support@plink.com">support@plink.com</a>.
+		</p>
+		<h6 class="mvm font12pt bold fontGrey">Social Media Features.</h6>
+		<p>
+			Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.	
+		</p>
+		<h3 class="mtm font12pt bold fontBlue">Information Sharing and Disclosure</h3>
 		<h6 class="mvm font12pt bold fontGrey">Your Consent.</h6>
 		<p>
 			We may share or disclose your information with your consent, such as when you use a third party web client to access your Plink account. 
@@ -197,7 +314,11 @@
 			</ul>
 			Such information does not identify you individually. Access to your Registration Information, Account Credentials, Account Information and any other personal information you provide is strictly restricted and used in accordance with internal procedures and safeguard governing access, in order to operate, develop or improve the Service. These individuals have been selected in accordance with our security policies and practices and are bound by confidentiality obligations. They may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 		<p></p>
-		<h3 class="mtm font12pt bold fontLightBlue">Modifying Your Personal Information</h3>	
+		<h3 class="mtm font12pt bold fontBlue">Modifying Your Personal Information</h3>	
+		<h6 class="mvm font12pt bold fontGrey">Changing your personal information.</h6>
+		<p>
+			If your personal information changes, or if you no longer desire our service, you may correct it by logging into your account and making the change within your account center or contacting us via email at <a href="mailto:support@plink.com">support@plink.com</a>. 
+		</p>
 		<h6 class="mvm font12pt bold fontGrey">Deleting your account.</h6>
 		<p>
 			You can delete your account by issuing a request via email to <a href="mailto:support@plink.com">support@plink.com</a>. When you request us to delete your account for the Service, your data will be permanently expunged from our primary production servers and further access to your account will not be possible. We will also promptly disconnect any connection we had established to your Account Information and delete all Account Credentials. However, portions of your data, consisting of aggregate, anonymized data derived from your Account Information, may remain on our production servers indefinitely. Your data may also remain on a backup server or media. Plink keeps these backups to ensure our continued ability to provide the Service to you in the event of malfunction or damage to our primary production servers. We also reserve the right to use any aggregated or anonymous data derived from or incorporating your personal information. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -206,7 +327,7 @@
 		<p>
 			Removed and deleted information may persist in backup copies, but will not be available to others.
 		</p>
-		<h3 class="mtm font12pt bold fontLightBlue">Your Information Is Secure</h3>	
+		<h3 class="mtm font12pt bold fontBlue">Your Information Is Secure</h3>	
 		<h6 class="mvm font12pt bold fontGrey">Access controls.</h6>
 		<p>
 			We use a combination of firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect Plink accounts and systems from unauthorized access. However, no security procedures are 100% effective, so there is always some risk that your personal information will be accessed by unauthorized persons. 
@@ -259,69 +380,84 @@
 	</div>
 </div>
 
-							</div>
-							
-								<div class="mod mtn whiteBottom">
-									<div class="r">&nbsp;</div>
-								</div>
-							
-						</div>
-						<b class="bottom"><b class="bl"></b><b class="br"></b></b>
-					</div>
-				<br clear="left">
+</div>
 
-				</div>
+ <div class="plinkBlue pbxl">
+            <div class="container fontWhite">
+                <div class="row ptl">
 
-				<div class="unit size24of24 lasUnit nmtl">
-					<div class="blackFooter">
-						<div class="r">
-							<div class="inner textleft pal">
-								<div class="unit size24of24 pvm prm fontWhite fontWhite">
-									<div class="unit size3of24 pvm whiteBorderRight">
-										Copyright © 2012 <br>
-										Plink LLC.<br>
-										All rights reserved.
-									</div>
-									<div class="unit size2of24 phm whiteBorderRight">
-										<div class="mlm">
-											<a href="/index.cfm?fuseaction=main.faq" class="fontWhite">FAQ</a><br>
-											<a href="/index.cfm?fuseaction=main.terms" class="fontWhite">Terms</a><br>
-											<a href="/index.cfm?fuseaction=main.privacy" class="fontWhite">Privacy</a><br>
-											<a href="/index.cfm?fuseaction=advertisers.homepage" class="fontWhite">Advertisers</a><br>
-										</div>
-									</div>
-									<div class="unit size2of24 phm whiteBorderRight">
-										<div class="mlm">
-											<a href="/index.cfm?fuseaction=main.aboutUs" class="fontWhite">About Us</a><br>
-											<a href="/index.cfm?fuseaction=main.press" class="fontWhite">Press</a><br>
-											<a href="/index.cfm?fuseaction=main.careers" class="fontWhite">Careers</a><br>
-											<a href="/index.cfm?fuseaction=main.contactUs" class="fontWhite">Contact Us</a><br>
-										</div>
-									</div>
-									<div class="unit size7of24 phm">
-										<div class="mlm">
-											<p>
-												<a href="mailto:support@plink.com" class="fontLightBlue">Need some help?</a><br>
-												If you have any questions or comments, our customer service professionals are always happy to help - <a href="mailto:support@plink.com" class="fontLightBlue">support@plink.com</a>
-											</p>
-										</div>
-									</div>
-									<div class="unit lastUnit textright">
-										<a href="https://www.facebook.com/#!/plinkdotcom" target="_blank"><img src="/assets/images/facebook-logo.png" class="pbs mrs"></a>
-										<a href="http://twitter.com/#!/plinkdotcom" target="_blank"><img src="/assets/images/twitter-logo.png" class="pbs mhm"></a>
-										<img src="/assets/images/nra.png" class="mls">
-										<a href="http://www.bbb.org/denver/business-reviews/marketing-programs-and-services/plink-in-denver-co-90134326#sealclick" target="_blank"><img src="/assets/images/bbb.png" class="mlm"></a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+                    <div class="span1 blueDivider">
+                        <ul class="unstyled">
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.faq" class="fontWhite underline">FAQ</a></li>
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.terms" class="fontWhite underline">Terms</a></li>
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.privacy" class="fontWhite underline">Privacy</a></li>
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.press" class="fontWhite underline">Press</a></li>
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.careers" class="fontWhite underline">Careers</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="span2 blueDivider">
+                        <ul class="unstyled plm">
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.whatsNew" class="fontWhite underline">What's New</a></li>
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.aboutUs" class="fontWhite underline">About Us</a></li>
+                            <li class="mbm"><a href="/index.cfm?fuseaction=advertisers.homepage" class="fontWhite underline">Advertisers</a></li>
+                            <li class="mbm"><a href="/index.cfm?fuseaction=main.contactUs" class="fontWhite underline">Contact Us</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="span4 blueDivider">
+                        <p class="font20pt">Need Some Help?</p>
+                        <p class="prm">
+                        If you have any questions or comments, our customer service professionals are always happy to help <a target="_blank" href="mailto:support@plink.com" class="underline fontWhite">support@plink.com</a>
+                        </p>
+                    </div>
+
+                    <div class="span2 blueDivider">
+                        <p class="font20pt">Be Social</p>
+                        <div>
+                            <a href="https://www.facebook.com/#!/plinkdotcom" target="_blank"><img src="/assets/images/facebook-logo.png" class=""></a>
+                            <a href="http://twitter.com/#!/plinkdotcom" target="_blank"><img src="/assets/images/twitter-logo.png" class=""></a>
+                        </div>
+                    </div>
+
+                    <div class="span3">
+                        <p class="font20pt">Proud member of</p>
+                        <div>
+                            <img src="/assets/images/nra.png" class="prl">
+                            
+                        </div>
+                    </div>
+
+                </div>
+
+				
+            </div>
+
+
+            <div class="textcenter fontWhite mvl underline">
+                Copyright © 2012 Plink, Inc. All Rights Reserved
+            </div>
+        </div>
+        
+
+
+     <!-- Le javascript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+		<script src="/assets/js/allPages.js?v=10"></script>
+        
+        <script src="/assets/bootstrap/js/bootstrap-modal.js?v=10"></script>
+
+		
+                <script src="/assets/js/facebookLogin.js?v=10"></script>
+            
+
+        <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
 
 		
 
-	
+    
 
-</body></html>
+
+ </body></html>
