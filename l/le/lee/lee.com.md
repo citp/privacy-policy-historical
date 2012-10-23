@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lee.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605040746id_/http%3A//www.lee.com/wps/wcm/connect/lee-en_us/customer_service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lee.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023085314id_/http%3A//www.lee.com/wps/wcm/connect/lee-en_us/customer_service/privacy) for the most accurate reproduction.*
 
 # Privacy and security
 
