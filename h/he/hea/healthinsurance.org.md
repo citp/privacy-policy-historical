@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605071825id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023034724id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
 
 # healthinsurance.org™ privacy policy
 
