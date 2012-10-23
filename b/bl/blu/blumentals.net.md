@@ -1,35 +1,56 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065843id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023162651id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Company
 
-Blumentals Software is committed to protecting your privacy. This privacy statement applies to the web site and all products and services offered by Blumentals Software.
+This privacy policy discloses the privacy practices for Blumentals Software websites and services. This privacy policy applies solely to information collected by the following websites 
 
-## Collection and use of information
+  * www.blumentals.net 
+  * www.blumentals.biz 
+  * www.rapidseotool.com 
+  * www.easymenumaker.com 
+  * www.easycssmenu.com 
+  * www.magicbuttonmaker.com 
 
-**When you use Blumentals Software web site** , our servers automatically record information that your browser sends to every website you visit, such as time of day, browser type, referring Web site address and your IP address. We may use this information to operate our website and to improve our website, products and services.
 
-**When you submit feedback or support request** via our online web forms, we may ask you for your name and email address. We may use this information to respond to your questions and inquiries.
 
-**When you subscribe to our e-mail newsletter** , by entering your email address, you agree to receive email from us about product updates and special deals. You can [remove your email address](https://web.archive.org/web/20120505065843id_/http%3A//www.blumentals.net/newsletter.php) from our list at anytime.
+## Information Gathering and Usage
 
-**When you place an order online with us** , you will be required to provide personal information (including your credit card details) to our trusted billing merchant. Information you provide to our billing merchant will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. Blumentals Software will have access to all details on the purchase, excluding your credit card or other payment details. This information is used to record your ownership of a product license so that we can provide you with a replacement copy in case you loose your digital copy of the product. This information can be also used to notify you about product updates and upgrades and also to let you know about new products released by our company. If you do not want us to notify you about new and updated product releases, please [let us know](http://www.blumentals.net/support/wizard.php).
+We are the sole owners of the information collected on this site. We only collect personal information that you voluntarily give us via email, web-based fill-in forms and other direct contact from you.
 
-We do not collect or store any credit card information.
+When you use Blumentals Software web site or services, our servers automatically record information that your browser sends to every website you visit, such as time of day, browser type, referring Web site address and your IP address.
 
-## Software license activation and validation
+When you register for Blumentals Software services, we may ask for information such as your name, company name, email address, billing address.
 
-Our software may attempt to contact remote servers over the Internet in order to complete the license activation process and validate the right to use the software on your computer. No personally identifiable information will be transmitted during this process, except to the extent that IP address may be considered personally identifiable in some jurisdictions.
+When you subscribe to our e-mail newsletter, you will be required to provide your e-mail address and to confirm your subscription by clicking a web link in your subscription confirmation e-mail.
 
-## Sharing of your personal information
+When you place an order online with us, you will be required to provide personal information (including your credit card details) to our trusted billing merchant. Information you provide to our billing merchant will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. Blumentals Software will have access to all details on the purchase, excluding your credit card or other payment details.
+
+We may use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+
+**Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.** If you do not want to receive such information, you can [remove your email address](http://www.blumentals.biz/newsletter.php) from our mailing lists at anytime.
 
 Except as described in this statement, **we will never willfully disclose your personal information outside of Blumentals Software** without your consent.
 
-We may share your personal information with third parties **only** if we believe such action is necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) protect and defend the rights or property of Blumentals Software; or (c) act in urgent circumstances to protect the personal safety of users of Blumentals Software products or members of the public.
+We may share your personal information with third parties only if we believe such action is necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) investigate, prevent, or take action regarding illegal activities or suspected fraud; (c) protect and defend the rights or property of Blumentals Software; or (d) act in situations involving potential threats to the personal safety of any person.
 
-## Changes to this privacy statement
+We do not collect or store any credit card information.
 
-We may decide to change this Privacy Statement from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+## Cookies
 
-## Contacting us
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-Any questions and comments about our Privacy Statement may be submitted via our [online feedback form](http://www.blumentals.net/company/feedback.php).
+## Software License Validation
+
+Our software may attempt to contact remote servers over the Internet in order to complete the license activation process and validate the right to use the software on your computer. No personally identifiable information will be transmitted during this process, except to the extent that IP address may be considered personally identifiable in some jurisdictions.
+
+## Data Storage
+
+Blumentals Software uses reputable third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Blumentals Software website and services.
+
+## Changes
+
+Blumentals Software may periodically update this policy. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+
+## Questions
+
+If you have any questions about this privacy policy, please [contact us](http://www.blumentals.biz/company-contact.php).
