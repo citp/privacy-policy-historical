@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harbinger-systems.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524163735id_/http%3A//www.harbinger-systems.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harbinger-systems.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023031722id_/http%3A//www.harbinger-systems.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Leaders in outsourced product development, advanced testing, mobile apps, e-Learning, open source development services in Pune, India
 
