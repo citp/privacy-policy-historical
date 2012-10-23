@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505120538id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023044707id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Kimberly-Clark | Privacy Policy
 
@@ -22,7 +22,7 @@ Like many companies, we sometimes use "cookie" technology on our web site. These
 
 **Contact Us**
 
-If you have any questions about our Privacy Policy, you can contact us via e-mail or phone us at 1-800-665-9773
+If you have any questions about our Privacy Policy, you can contact us via e-mail or phone us at 1-888-525-8388
 
 For postal mail, please write to us at:  
 Kimberly-Clark Corporation  
