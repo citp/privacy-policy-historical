@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentation-process.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106024440id_/http%3A//www.presentation-process.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentation-process.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023114304id_/http%3A//www.presentation-process.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Presentation Process Privacy Policy
 
@@ -59,6 +59,3 @@ If you do not agree to Presentation Process Privacy Policy as posted here on thi
 Your use of this site indicates acceptance of this privacy policy.
 
 Return to Top of Privacy Policy Page 
-
-  
-
