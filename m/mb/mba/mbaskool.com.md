@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbaskool.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529012706id_/http%3A//www.mbaskool.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbaskool.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023132333id_/http%3A//www.mbaskool.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MBA Skool-Study.Learn.Share.
 
@@ -10,11 +10,15 @@ At mbaskool.com, the privacy of our visitors is of extreme importance to us. Thi
 
 **Log Files**
 
-Like many other Web sites, mbaskool.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, mbaskool.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. We use cookies to 
 
 **Cookies and Web Beacons**
 
 mbaskool.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+ **Sharing Buttons**
+
+MBASkool uses third party buttons and cookies to enable sharing of content from your browser.
 
 **DoubleClick DART Cookie**
 
