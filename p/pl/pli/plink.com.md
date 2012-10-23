@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the plink.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525113135id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plink.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024013116id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.*
 
-# plink.com | Earn Facebook Credits for Dining and Shopping Offline
+# Plink.com | Earn Plink Points for Dining and Shopping Offline
 
-#### Date Last Revised: August 5, 2011
+#### Date Last Revised: August 13, 2012
 
-Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@plink.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.  
+Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@plink.com](mailto:support@plink.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.  
 
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.plink.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/Plink/validation?rid=374bcf9a-9073-4c87-8761-40abf21c2f9e "TRUSTe online privacy certification")
 
 At Plink, our relationship with you is our most important asset. We want to earn your trust by being transparent about how Plink works. You should read this policy in its entirety, but should pay particular attention to these highlights: 
 
@@ -64,7 +64,7 @@ Plink uses third party analytics services such as Google Analytics to help under
 
 ###### Notifications and E-Mail Newsletters.
 
-Plink may use your information to deliver to you any administrative notices, notification alerts, weekly or daily activity summaries, and communications relevant to your use of the Service. From time to time we may also transmit emails promoting Plink or third-party goods or services. Plink subscribers have the ability to opt-out of receiving our promotional emails by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails, such as email alerts. 
+Plink may use your information to deliver to you any administrative notices, notification alerts, weekly or daily activity summaries, and communications relevant to your use of the Service. From time to time we may also transmit emails promoting Plink or third-party goods or services. Plink subscribers have the ability to opt-out of receiving our promotional emails by following the instructions in the emails or by logging into their account and changing their email preferences. Opting out in this manner will not end transmission of service-related emails, such as email alerts. 
 
 ###### Contests, Giveaways and Surveys.
 
@@ -73,6 +73,14 @@ From time to time, Plink may offer you the opportunity to participate in contest
 ###### Facebook Connect.
 
 You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+###### Testimonials.
+
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [support@plink.com](mailto:support@plink.com). 
+
+###### Social Media Features.
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ### Information Sharing and Disclosure
 
@@ -104,6 +112,10 @@ Plink may share or disclose your non-private, aggregated, anonymous or otherwise
 Such information does not identify you individually. Access to your Registration Information, Account Credentials, Account Information and any other personal information you provide is strictly restricted and used in accordance with internal procedures and safeguard governing access, in order to operate, develop or improve the Service. These individuals have been selected in accordance with our security policies and practices and are bound by confidentiality obligations. They may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
 ### Modifying Your Personal Information
+
+###### Changing your personal information.
+
+If your personal information changes, or if you no longer desire our service, you may correct it by logging into your account and making the change within your account center or contacting us via email at [support@plink.com](mailto:support@plink.com). 
 
 ###### Deleting your account.
 
