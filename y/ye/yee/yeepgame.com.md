@@ -1,39 +1,40 @@
-> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521214214id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024015220id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
 
 # SUPPORT | Yeepgame.com-Harness the Power of Yeep!
 
-Privacy Policy
+Yeepgame absolutely respects and ensures the privacy of your information on the internet and your own personal privacy. To better help you understand how we collect, use, and protect the information you give to us, please read the following Privacy Policy.
 
-Privacy Policy
+**1.       ** **What information we gather**
 
-GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY)
+ We gather personal information from all registering members. We will request your email address when registering for your account safety concern. Besides, gender, birthday, country and phone number are all optional for you to fill in our “[Ucenter](http://www.yeepgame.com/ucenter/index)”.
 
-[www.yeepgame.com](http://www.yeepgame.com/) absolutely respects and ensures the privacy of your information on the internet and your own personal privacy. To better help you understand how we collect, use, and protect the information you give to us, please read the following Privacy Policy.
+We also collect data relating to all network connections, primarily your IP address. We use this information to track fraudulent user activity (including but not limited to: the use of multiple accounts, account sharing, illegal forum activity.) Your browser type and version are also detected to better enhance your user experience.
 
-**1\. What information we need and how we use it  
-**When you sign up to become one of our registered users, we will request personal information from you such as your email address. We will only use this information to assist you with purchases, inform you of purchases and other account history, and simply to contact you.
+Please keep in mind that if you disclose personal information through our messaging system or public forms - this information could be collected and used by other parties.
 
-**2\. About Cookies  
-**For better personal service, GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) may use cookies to save certain information and track data. This site uses cookies to track the number of visitors to the site, as well as their current web browser. This information is collected for market analysis purposes only. Cookies also serve as a third-party user: when ad agencies place ads on the site, the market analysis, information and other data they collect comes from cookies, and not directly from you.
+**2.  How we use your personal information**
 
-**3\. Data Sharing  
-**GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) will never sell your personal information to any other individual or organization. GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) will adhere to this Privacy Policy when sharing certain information with third-party users, except in the following situations.  
-1\. To provide you with better service, when we are required to share your information or other data in order to provide you with certain services or benefits (such as a special event, giveaway or in-game competition), these services or benefits will be explained in the News section of our website. You have the choice to decide whether or not to accept these services.  
-2\. Judicial requirements; or when we find that your behavior on our site is illegal. For public safety, this site will cooperate with the respective agent of law by providing them with whatever information they require.
+Yeepgame never sells or shares any of your personal information with other parties. We take all necessary measures to protect your personal information by deploying safe network models for storing and retrieving data. All information is strictly for internal use and all e-mails are only sent from our facilities.
 
-4\. Links  
-If you follow links or ads on our site that link to other websites, please be sure that you are familiar with their own privacy policies; our privacy policy does not apply to any external sites.
+Yeepgame won’t access and/or disclose your personal information without your permission except that it is required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on our company or the site; (b) protect and defend the rights or property of our company, including the Yeepgame website; or (c) act under exigent circumstances to protect the personal safety of users of Yeepgame, its web sites, or the public.
 
-5\. Protecting Yourself  
-Please keep your account and password private and do not give such information to anyone else. If you're using a shared computer, log out and close out of all game windows to protect your personal information.
+**3.**   **Use of Cookies**  
+A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-6\. Changes to this Privacy Policy  
-GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) reserves the right to change or delete portions of this Privacy Policy at any time, as well as make any additions to it, which will be announced and made effective on the Home page's News section.
+Yeepgame uses cookies to save certain information and tract data. Yeepgame uses cookies to track visitor numbers and your current web browser, usage of the website and your website preference. We never use cookies to gather or share your personal information.
 
-4.OPT OUT/CORRECTIONS
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, certain features of Yeepgame may not be accessible for you –as our site requires them to function properly and prevent site abuse. 
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or emailing your request to YeepGame.com’s Customer Support department at [gs@yeepgame.com](mailto:service@seasonmall.com) Please do not email your credit card number or other sensitive information.
+**4.  Protecting Yourself   
+**If you follow links or ads on our site that link to other websites, please be sure that you are familiar with their own privacy policies; our privacy policy does not apply to any external sites.
 
-Last modified: March, 2012.     
+Please keep your account and password private and do not give such information to anyone else easily. If you're using a shared computer, remember to log out and close out of all game windows to protect your personal information.
 
-GAMEWAVE CHINA HOLDINGS LIMITED
+As the forums are visible to the public please be aware that any personal information written in the public plate can be seen by the third parties.
+
+**5.   Modification of Privacy Policy  
+**Yeepgame reserves the right to change or delete portions of this Privacy Policy at any time, as well as make any additions to it. We will attempt to notify you of any such update or modification. However, you are responsible for periodically reviewing our Privacy Policy. You use of the site and/or any products or services offered by Yeepgame signifies your assent to the updated or modified Privacy Policy.
+
+**6\. OPT OUT/CORRECTIONS**
+
+Upon your request, we can (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing to Yeegame’s Customer Support - [gs@yeepgame.com](mailto:service@seasonmall.com)   .  
