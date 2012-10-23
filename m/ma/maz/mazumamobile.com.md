@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032352id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023201529id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
 
 # Phone Recycling, Recycle Mobile - Mazuma Mobile
 
 ## Who we are
 
 In this privacy policy references to "we", "us" and "our" are to Mazuma Mobile. References to "our Website" or "the Website" are to www.mazumamobile.com.
+
+## Other Websites
+
+This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
 
 ## What information we collect and how
 
@@ -30,6 +34,17 @@ Any personal information we collect from this website will be used in accordance
 
 We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website, measuring customer service or issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
 
-## Other Websites
+## Cookies
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+In order to sell your handset or device on the Mazuma Mobile website, your computer will need to accept cookies which are necessary for keeping track of what you have added to your Sales Basket, and whether or not you're logged in.
+
+Our cookies do not store any personal information.
+
+In addition to essential cookies, our website uses: 
+
+  * 'performance' cookies which help us to see how the website is being used, and how we can improve the website in the future
+  * 'functional' cookies which enable social media sharing and functionality
+
+
+
+If you want to block or delete cookies from our website, you can do this via your web browsers privacy settings, however **you may find that certain areas of the website may not work properly**.
