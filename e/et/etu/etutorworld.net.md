@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2012-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120206000215id_/http%3A//www.etutorworld.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023162046id_/http%3A//www.etutorworld.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Online Tutoring | Online Tutoring Service | eTutorWorld
 
