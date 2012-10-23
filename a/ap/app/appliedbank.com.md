@@ -1,13 +1,26 @@
-> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224001id_/http%3A//www.appliedbank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023142635id_/http%3A//www.appliedbank.com/privacy.html) for the most accurate reproduction.*
 
-# Applied Bank - Privacy Policy
+# Privacy Policy - Applied Bank
 
 This Privacy Policy is provided to help you understand how we protect Customer information. Applied Bank (herein referred to as Bank, we, us or our) respects your decision to do business with us and takes your privacy seriously. Our Privacy Policy provides you with an opportunity to make informed choices about the management of personal information. You trust us with your personal and financial information and we'll honor that trust by handling your information carefully and sensibly. This Privacy Policy will help you understand how we safeguard and use information, and how it applies to all Customers or former Customers who obtain financial services from us for personal, family or household purposes. Similarly, our Customers who receive information from us or transact business with us through the Internet are covered by additional privacy policies on our websites.
 
-  *   *   * Disclosures to Service Your Account
-  *   *   * Vermont Residents Only
-  *   *   *   *   * Information Usage
-  *   *   * 
+  * Collection of Information
+  * Security Procedures
+  * Disclosures to Service Your Account
+  * Disclosures to Provide You with Offers for Products and Services
+  * Offers for Products and Services of Other Companies
+  * Vermont Residents Only
+  * Protecting Our Children
+  * Former Customers
+  * Commitment to Service  
+
+  * Online Privacy Addendum
+  * Information Usage
+  * Links to Third Party Websites  
+
+  * Legal Disclaimers
+  * Controls
+
 
 
 ## Collection of Information
