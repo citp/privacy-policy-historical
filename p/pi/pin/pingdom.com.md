@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingdom.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624094541id_/http%3A//www.pingdom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingdom.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023210654id_/https%3A//www.pingdom.com/privacypolicy) for the most accurate reproduction.*
 
 # Pingdom - Web site monitoring for 100% uptime. Measure your downtime.
 
