@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymodernmet.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501070600id_/http%3A//www.mymodernmet.com/notes/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymodernmet.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023131354id_/http%3A//www.mymodernmet.com/notes/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Modern Metropolis
 
@@ -80,7 +80,7 @@ In the event of a change in ownership, or a merger with, acquisition by, or sale
 
 We use industry standard security measures to protect against the loss, misuse, and alteration of Personal Information under our control. Although we make good faith efforts to maintain the security of such Personal Information, we cannot guarantee that it will remain free from unauthorized access, use, disclosure, or alteration. Further, while we work hard to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent "hackers" or other unauthorized persons from illegally accessing or obtaining this information. We do not assume any liability to third parties whose information you include in your Address Book, or which you post or transmit in any Content on a Network. To help maintain the security of your Ning ID, please keep your password secure (and, if you are a Network Creator, keep your master key secure).
 
-If we learn of a security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Ning Platform or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Ning Platform. If a security systems breach occurs, Ning may post a notice on the Ning homepage (www.ning.com), or elsewhere on the Ning Platform and may send email to you at the email address you have provided to us.
+If we learn of a security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Ning Platform or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Ning Platform. If a security systems breach occurs, Ning may post a notice on the Ning homepage ([www.ning.com](http://www.ning.com/)), or elsewhere on the Ning Platform and may send email to you at the email address you have provided to us.
 
 ## 11\. Children
 
@@ -142,7 +142,9 @@ You may also write to us at:
 Ning, Inc.  
 735 Emerson Street  
 Palo Alto, CA 94301  
-Attn: Privacy Matters
+Attn: Privacy Matters  
 
-  
 
+## 18\. Notice Regarding Online Behavioral Advertising.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
