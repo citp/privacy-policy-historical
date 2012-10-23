@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423060833id_/http%3A//www.omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024005717id_/http%3A//www.omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Tech Support | IT Support | Online IT Support - Omnitechsupport.com
 
@@ -80,3 +80,15 @@ We reserve the right to disclose your personally identifiable information as req
 **Notification of Changes**
 
 If we make a material (non-editorial) change to our privacy policy, we will post a notice on our site so our users are aware of the change. If we make a significant change to the way we use, treat or disclose personal information, we will notify users by email. 
+
+  
+
+
+* * *
+
+**DISCLAIMER:** omnitechsupport.com is an independent service provider of remote tech support. Third party trademarks, brand names, products and services is only referential and Omni Tech Support hereby disclaims any sponsorship, affiliation or endorsement of or by any such third party. 
+
+* * *
+
+  
+
