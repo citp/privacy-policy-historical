@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richcasino.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603060543id_/http%3A//www.richcasino.com/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richcasino.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023064825id_/http%3A//www.richcasino.com/securityandprivacy) for the most accurate reproduction.*
 
 # Rich Casino is a brand new Casino Running on the new TOP GAME Software Platform
 
