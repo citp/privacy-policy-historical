@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175657id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023071400id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseClique.com
 
+|  |  [](http://www.addthis.com/bookmark.php?v=300&pubid=xa-505baccc4b4b25f2)  
+---|---  
+  
 Effective on December 14, 2011 
 
 This privacy statement describes how FranchiseClique.com collects and uses the personal information you provide on our Web site: www.FranchiseClique.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
@@ -97,7 +100,7 @@ We may update this privacy statement to reflect changes to our information pract
 Mount Pleasant, SC 29464  
 Email: [info@franchiseclique.com](mailto:info@franchiseclique.com)  
 Phone: (843) 277-1095  
-| 
+
 
 #### What type of franchise would you like?
 
@@ -109,6 +112,7 @@ Phone: (843) 277-1095
 
   * [Accounting and Financial Services Franchises](https://web.archive.org/industry/accounting-and-financial-services-franchises)
   * [Advertising and Direct Mail](https://web.archive.org/industry/advertising-and-direct-mail)
+  * [ATM Franchises](https://web.archive.org/industry/atm-franchises)
   * [Automotive Franchises](https://web.archive.org/industry/automotive-franchises)
   * [Beauty Salon and Spa Franchises](https://web.archive.org/industry/beauty-salon-and-spa-franchises)
   * [Broker and Consultant Franchise](https://web.archive.org/industry/broker-and-consultant-franchise)
@@ -170,8 +174,6 @@ Phone: (843) 277-1095
 ### Popular Searches
 
   * [New Franchises](https://web.archive.org/popular/new)
-  * [Top 50 Franchises](https://web.archive.org/popular/top50)
-  * [Top 100 Franchises](https://web.archive.org/popular/top100)
   * [Highlighted Franchises](https://web.archive.org/popular/highlighted)
   * [Veteran's Franchises](https://web.archive.org/industry/veterans-franchises)
   * [Women's Franchises](https://web.archive.org/industry/womens-franchises)
