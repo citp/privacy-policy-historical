@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625203904id_/http%3A//www.matchaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023074946id_/http%3A//www.matchaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
 # Match Affinity: Find your perfect match with our affinity test
 
