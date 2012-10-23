@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224305id_/http%3A//www.beechnut.com/Terms/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023110316id_/http%3A//www.beechnut.com/Terms/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Beech-Nut Baby Food
 
-| You Are Here: [Home](https://web.archive.org/) > [Web](https://web.archive.org/web) > [20120503224305id_](https://web.archive.org/web/20120503224305id_) > [Http%3A](https://web.archive.org/web/20120503224305id_/http%3A) > [](https://web.archive.org/web/20120503224305id_/http%3A/) > [Www.beechnut.com](https://web.archive.org/web/20120503224305id_/http%3A//www.beechnut.com) > [Terms](https://web.archive.org/web/20120503224305id_/http%3A//www.beechnut.com/Terms)  
+| You Are Here: [Home](https://web.archive.org/) > [Web](https://web.archive.org/web) > [20121023110316id_](https://web.archive.org/web/20121023110316id_) > [Http%3A](https://web.archive.org/web/20121023110316id_/http%3A) > [](https://web.archive.org/web/20121023110316id_/http%3A/) > [Www.beechnut.com](https://web.archive.org/web/20121023110316id_/http%3A//www.beechnut.com) > [Terms](https://web.archive.org/web/20121023110316id_/http%3A//www.beechnut.com/Terms)  
 ---  
 This is the web site of Beech-Nut Nutrition Corporation (“Beech Nut”).  
   |    
