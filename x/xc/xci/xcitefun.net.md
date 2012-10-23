@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcitefun.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504215747id_/http%3A//forum.xcitefun.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcitefun.net privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024015439id_/http%3A//forum.xcitefun.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy • XciteFun.net
 
