@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620121939id_/http%3A//www.jobs-to-careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023080751id_/http%3A//www.jobs-to-careers.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Jobs to Careers
+# Privacy Policy | Jobs2Careers
 
 ## Privacy Policy
 
 Last update on: April 4th, 2012
 
-Jobs-to-Careers.com ("Jobs-to-Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy
+Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy
 
-By registering with Jobs-to-Careers and/or using our site at www.jobs-to-careers.com ("the Site") or any other site that is operated by Jobs-to-Careers and displays a link to this Privacy Policy, you are accepting the policies and practices described in this Privacy Policy. Each time you visit the Site or provide us with information you agree that you are consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described in this Privacy Policy. 
+By registering with Jobs2Careers and/or using our site at www.Jobs2Careers.com ("the Site") or any other site that is operated by Jobs2Careers and displays a link to this Privacy Policy, you are accepting the policies and practices described in this Privacy Policy. Each time you visit the Site or provide us with information you agree that you are consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described in this Privacy Policy. 
 
 ####  Information Collection 
 
 ### **Account Information:**
 
-In order to become a Jobs-to-Careers user, you may optionally create an account on the Site. To create an account, you are required to provide: your email address, telephone number, your working experience, and first and last name. 
+In order to become a Jobs2Careers user, you may optionally create an account on the Site. To create an account, you are required to provide: your email address, telephone number, your working experience, and first and last name. 
 
 ### **Cookies, Log Files & IP Address:**
 
-As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. This type of information is collected to make our Services more useful to you and to help us improve the Site. You must accept cookies to access Jobs-to-Careers as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. This type of information is collected to make our Services more useful to you and to help us improve the Site. You must accept cookies to access Jobs2Careers as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
 
-Once we redirect you to a job page hosted by third-party sites, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You understand that Jobs-to-Careers has no control over third-party sites, thus your privacy is subject to third-party site's privacy policy.
+Once we redirect you to a job page hosted by third-party sites, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You understand that Jobs2Careers has no control over third-party sites, thus your privacy is subject to third-party site's privacy policy.
 
 ### **Information from Other Sources:**
 
@@ -28,21 +28,21 @@ We may receive information about you, including personal information, from third
 
 #### Children
 
-Minors (users under the age of 18) are not eligible to use Jobs-to-Careers, and we ask that minors (under the age of 18) do not submit any personal information to us or use the service. 
+Minors (users under the age of 18) are not eligible to use Jobs2Careers, and we ask that minors (under the age of 18) do not submit any personal information to us or use the service. 
 
 #### Use of Information
 
-We use personal information to enhance, improve, operate, and maintain Jobs-to-Careers; to provide you with services you request;  to contact you in connection with your transactions, postings and other activities on the Site, to forward to you messages from other users, and to communicate with you about Job opportunities and other products and services that we believe may be of interest to you. 
+We use personal information to enhance, improve, operate, and maintain Jobs2Careers; to provide you with services you request;  to contact you in connection with your transactions, postings and other activities on the Site, to forward to you messages from other users, and to communicate with you about Job opportunities and other products and services that we believe may be of interest to you. 
 
 #### Information Sharing and Disclosure
 
-Jobs-to-Careers collects the following categories of personally identifiable information: first and last name; home address, including name of a city and state or zip code; email address; telephone number, information about your job candidacy and job search (e.g., the number of years of work experience you have), information about your activities on Jobs-to-Careers, and demographic information, such as gender, geographic area, and preferences, when any of this information is linked to personal information that identifies you. 
+Jobs2Careers collects the following categories of personally identifiable information: first and last name; home address, including name of a city and state or zip code; email address; telephone number, information about your job candidacy and job search (e.g., the number of years of work experience you have), information about your activities on Jobs2Careers, and demographic information, such as gender, geographic area, and preferences, when any of this information is linked to personal information that identifies you. 
 
-Jobs-to-Careers may share this personal information with the following categories of third party persons: any person or entity to whom you have given us permission to share personal information; any third party affiliate, agent, service provider or business partner of such person or entity; any affiliate, agent, service provider or business partner who provides a service that you request on our site; any court, law enforcement agency or other investigator; any owner, successor or purchaser of Jobs-to-Careers or its assets. The use of information by each of these third parties is subject to such third-party's privacy policy. 
+Jobs2Careers may share this personal information with the following categories of third party persons: any person or entity to whom you have given us permission to share personal information; any third party affiliate, agent, service provider or business partner of such person or entity; any affiliate, agent, service provider or business partner who provides a service that you request on our site; any court, law enforcement agency or other investigator; any owner, successor or purchaser of Jobs2Careers or its assets. The use of information by each of these third parties is subject to such third-party's privacy policy. 
 
-If you opt-in to receive education consultation, Jobs-to-Careers may share your personal information with third-party education lead-generation companies to provide the requested consultation. They may call you by phone and send emails to you to provide education related information. 
+If you opt-in to receive education consultation, Jobs2Careers may share your personal information with third-party education lead-generation companies to provide the requested consultation. They may call you by phone and send emails to you to provide education related information. 
 
-Please be aware that we may send you certain communications relating to the Jobs-to-Careers service, such as service announcements, administrative messages and the Jobs-to-Careers Newsletter, that are considered "transactional or relationship" messages or are otherwise non-commercial, without offering you the opportunity to opt out of receiving them. 
+Please be aware that we may send you certain communications relating to the Jobs2Careers service, such as service announcements, administrative messages and the Jobs2Careers Newsletter, that are considered "transactional or relationship" messages or are otherwise non-commercial, without offering you the opportunity to opt out of receiving them. 
 
 ####  Data Security
 
@@ -50,16 +50,16 @@ We use reasonable security measures to protect personal information from unautho
 
 #### Links to Other Sites
 
-The Site contains links to other sites (including co-branded links). Please be aware that Jobs-to-Careers does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
+The Site contains links to other sites (including co-branded links). Please be aware that Jobs2Careers does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
 
 ####  Changes to this Privacy Policy 
 
-Jobs-to-Careers reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting Jobs-to-Careers .com. If we change this Privacy Policy, we will notify users by posting notice on our site or by notice sent using contact information we have on file, and will update the "last updated" date at the top of this Privacy Policy. If we make a change that is materially less restrictive upon our use and disclosure of personal information that we collected prior to the effective date of the change, we will notify users as described above and will seek consent before using or disclosing any previously-collected information in a manner that would violate the prior privacy policy. 
+Jobs2Careers reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting Jobs2Careers .com. If we change this Privacy Policy, we will notify users by posting notice on our site or by notice sent using contact information we have on file, and will update the "last updated" date at the top of this Privacy Policy. If we make a change that is materially less restrictive upon our use and disclosure of personal information that we collected prior to the effective date of the change, we will notify users as described above and will seek consent before using or disclosing any previously-collected information in a manner that would violate the prior privacy policy. 
 
 ####  Opt-out
 
-To stop receiving job alerts and marketing offers from jobs-to-careers.com, click [here](https://web.archive.org/unsubscribe.php). It may take up to 3 business days for the opt-out notification to be fully processed. 
+To stop receiving job alerts and marketing offers from Jobs2Careers.com, click [here](https://web.archive.org/unsubscribe.php). It may take up to 3 business days for the opt-out notification to be fully processed. 
 
 ####  Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs-to-careers.com](mailto:privacy@jobs-to-careers.com). or by mail to: InsidersReferral.com, Inc. 1230 Oakmead Pkwy, Suite 312 Sunnyvale, CA 94085 
+If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). or by mail to: InsidersReferral.com, Inc. 1230 Oakmead Pkwy, Suite 312 Sunnyvale, CA 94085 
