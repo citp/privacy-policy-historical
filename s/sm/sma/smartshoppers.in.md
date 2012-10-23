@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100208id_/http%3A//www.smartshoppers.in/auxpage_5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023105525id_/http%3A//www.smartshoppers.in/auxpage_5) for the most accurate reproduction.*
 
 # Privacy policy ― Buy online digital camera,SLR cameras,Photography lenses,Mobile Phones,MP3 Players in best price,offering good deals
 
