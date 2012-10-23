@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifttree.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623125950id_/http%3A//www.gifttree.com/helppgs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifttree.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023035253id_/http%3A//www.gifttree.com/helppgs/privacy.php) for the most accurate reproduction.*
 
 # GiftTree Privacy Policy and Security Statement
 
