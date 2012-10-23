@@ -1,31 +1,23 @@
-> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630182838id_/http%3A//www.sortprice.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024002948id_/http%3A//www.sortprice.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Sortprice.com
+# Sortprice - Privacy Policy
 
-**Sortprice.com's Privacy Policy**
+Sortprice.com Privacy Policy
 
-Sortprice.com is committed to provide you with the very best on-line shopping experience. We believe that trust and privacy are important parts of the service we provide our users. To ensure that we earn and keep that trust, Sortprice.com makes every effort to protect our users' privacy. This includes the confidentiality of your personal information. 
+Here at Sortprice.com, we’re committed to building the web’s best shopping experience for consumers and merchants alike. Of course, part of that experience is a guaranteed safe and secure shopping visit, so we are very serious about your privacy. To ensure that we earn and keep your trust, SortPrice.com makes every effort to go above and beyond to protect our users’ privacy, including the confidentiality of your personal information. In the interest of full disclosure, here’s what you need to know about how we do just that. 
 
-**Security**
+Security
 
-At Sortprice.com we use the latest security measures and technology required to provide shoppers and merchants a safe environment. We monitor our servers daily to protect against the loss, misuse and alteration of the data under our control.
+Not to brag, but our security infrastructure is rock solid and cutting-edge. We use the latest security measures and technology available in order to give you a safe environment from which to shop, compare prices and conduct product research. We also monitor our servers daily to protect against the loss, misuse and alteration of the data under our control.
 
-**IP Tracking**
+IP Tracking
 
-At Sortprice.com we log IP addresses (your unique Internet address) for system administration purposes. Your IP address is also used at times to help identify you as you browse and to gather broad technical and demographic information on who uses our website. We may provide third parties with statistics about our users, traffic patterns and related site information. This means your visit at Sortprice.com will be tracked, but you will remain anonymous.
+At Sortprice.com we do log IP addresses (your unique Internet address) for system and administrative purposes. Your IP address is also used at times to help identify you as you browse and to gather broad technical and demographic information on who uses our website. We may provide third parties with statistics about our users, traffic patterns and other related site information—for example, during popular holiday shopping periods we use IP addresses to compile demographic data on shopping trends that we provide to the media as part of their coverage. This means that your visit to Sortprice.com will be tracked. But no matter what, you will always remain anonymous.
 
-**Cookies**
+Cookies
 
-At Sortprice.com we use cookies to monitor traffic on our website. Sortprice.com creates these cookie files on your hard drive through your browser and uses them to save information on your visit with us. The stored cookie contains no personal information, and is used only to enhance the user experience on our website.
+We also use cookies to monitor traffic on our website. Through your browser, Sortprice.com creates these cookie files on your hard drive and uses them to store important data for the next time you choose to visit the site. However, stored cookies contain absolutely no personal or financially-sensitive information. They are used simply to enhance the user experience on our website.
 
-**E-mail Information**
+E-mail Collection
 
-Sortprice.com users may submit their e-mail address to request an e-mail for product specials under a specific category. We collect e-mail addresses to promote merchant products via a monthly Newsletter. Obtaining e-mail addresses from shoppers and other users is a very important part of our business. We take extra steps to protect the privacy and security of such information against unauthorized access. Sortprice.com has a strict policy against sharing or selling your e-mail address to any third party companies. At Sortprice.com we strive to create a secure and safe shopping experience.
-
-**Contact us**
-
-If you have any questions or comments regarding our Privacy Policy, you may contact us at: **privacy [at] sortprice.com**
-
-Sortprice.com.   
-222 West 37th Street 9th Floor   
-New York, NY. 10018
+As with just about any other company, collecting email addresses from shoppers and other visitors to our site is important to our business. Users may submit their email addresses to us to be added to the distribution list for our monthly shopper newsletter or to request additional information about particular products and/or merchants. Either way, doing so puts you at no risk—we take extra steps to protect the privacy of such information against unauthorized access. And SortPrice.com has a strict policy against the sharing or selling of your email address to any third parties. 
