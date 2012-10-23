@@ -1,15 +1,18 @@
-<!--The following is the downloaded HTML source of the aynrand.org privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624100938id_/http%3A//www.aynrand.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aynrand.org privacy policy that was archived on 2012-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023231033id_/http%3A//www.aynrand.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-
 <base href="http://www.aynrand.org/site/PageServer?pagename=privacypolicy">
+<title>
 
-<title>The Ayn Rand Institute: Privacy Policy</title>
+Privacy Policy - The Ayn Rand Institute
+</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta name="Keywords" content=" ">
 <meta name="Description" content="The Ayn Rand Institute (ARI), a 501(c)(3) nonprofit organization headquartered in Irvine, California, works to introduce young people to Ayn Rand’s novels, to support scholarship and research based on her ideas, and to promote the principles of reason, rational self-interest, individual rights and laissez-faire capitalism to the widest possible audience.">
+<meta name="Robots" content="index, follow">
+
 
 
 
@@ -22,13 +25,10 @@
 <script type="text/javascript" src="../yui3/yui/yui-min.js"></script>
 <script type="text/javascript" src="../js/convio/modules.js?version=2.9"></script>
 <script type="text/javascript">
-var Y = YUI({
-base: '../yui3/',
-
-debug: false,
-
-modules: getModules('../', 'convio', false)
-});
+var Y = YUI({base: '../yui3/',
+insertBefore: 'yui_marker_loader_css', // insert all YUI module css before customstyle so it can be overridden
+debug: false, 
+modules: getModules('../', 'convio', false) });
 </script>
 
 
@@ -46,6 +46,7 @@ modules: getModules('../', 'convio', false)
 
 
 
+<link rel="stylesheet" type="text/css" id="yui_marker_loader_css">
 <link href="../css/CustomStyle.css" rel="stylesheet" type="text/css">
 <link href="../css/CustomWysiwygStyle.css" rel="stylesheet" type="text/css">
 
@@ -113,7 +114,7 @@ var nexturl = document.QuickRegistration.NEXTURL_FOR_JS.value;
 var complete = URLEncode(document.QuickRegistration.QREG_COMPLETE.value);
 var theTime = new Date().getTime();	// used to make URL unique
 var denySubmit = URLEncode(document.QuickRegistration.denySubmit.value);
-var url = "http://www.aynrand.org/site/QuickReg/1700721569?QREG_SUBMIT=TRUE&QREG_FIRST_NAME=" + first_name + "&QREG_LAST_NAME=" + last_name + "&QREG_EMAIL=" + email  + "&QREG_STYLE=" + style + "&QREG_INCLUDE_INTERESTS=" + includeInterests + "&QREG_EXTERNAL_CONTENT=" + externalContent + "&QREG_BUTTON_TEXT=" + buttonText + "&QREG_COMPLETE=" + complete + "&TS=" + theTime + "&NEXTURL=" + nexturl + "&denySubmit=" + denySubmit;
+var url = "http://www.aynrand.org/site/QuickReg/1135040209?QREG_SUBMIT=TRUE&QREG_FIRST_NAME=" + first_name + "&QREG_LAST_NAME=" + last_name + "&QREG_EMAIL=" + email  + "&QREG_STYLE=" + style + "&QREG_INCLUDE_INTERESTS=" + includeInterests + "&QREG_EXTERNAL_CONTENT=" + externalContent + "&QREG_BUTTON_TEXT=" + buttonText + "&QREG_COMPLETE=" + complete + "&TS=" + theTime + "&NEXTURL=" + nexturl + "&denySubmit=" + denySubmit;
 
 document.QuickRegistration.QREG_EMAIL.value = "";
 
@@ -131,7 +132,7 @@ var buttonText = URLEncode(document.QuickRegistration.QREG_BUTTON_TEXT.value);
 var nexturl = document.QuickRegistration.NEXTURL_FOR_JS.value;
 var complete = URLEncode(document.QuickRegistration.QREG_COMPLETE.value);
 var theTime = new Date().getTime();	// used to make URL unique
-var url = "http://www.aynrand.org/site/QuickReg/1700721569?QREG_STYLE=" + style + "&QREG_INCLUDE_INTERESTS=" + includeInterests + "&QREG_EXTERNAL_CONTENT=" + externalContent + "&QREG_BUTTON_TEXT=" + buttonText + "&QREG_COMPLETE=" + complete + "&TS=" + theTime + "&NEXTURL=" + nexturl;
+var url = "http://www.aynrand.org/site/QuickReg/1135040209?QREG_STYLE=" + style + "&QREG_INCLUDE_INTERESTS=" + includeInterests + "&QREG_EXTERNAL_CONTENT=" + externalContent + "&QREG_BUTTON_TEXT=" + buttonText + "&QREG_COMPLETE=" + complete + "&TS=" + theTime + "&NEXTURL=" + nexturl;
 
  var width = 380; var height = 400; 
 
@@ -143,7 +144,7 @@ cv_new_win (url, 'Register', width, height, true);
 // done hiding from old browsers -->
 </script>
 <noscript>&nbsp;</noscript>
-<form name="QuickRegistration" action="http://www.aynrand.org/site/QuickReg/1700721569" method="get" style="display: inline;">
+<form name="QuickRegistration" action="http://www.aynrand.org/site/QuickReg/1135040209" method="get" style="display: inline;">
 
 
 
@@ -158,7 +159,7 @@ document.write('<a href="javascript:popupForm();" class="QRLink">Register</a>');
 
 
 <noscript>
-<input type="hidden" name="QREG_SYNCH" id="QREG_SYNCH" value="16" />
+<input type="hidden" name="QREG_SYNCH" id="QREG_SYNCH" value="15" />
 <input type="hidden" name="QREG_SAME_WINDOW" id="QREG_SAME_WINDOW" value="TRUE" />
 <input type="submit" class="Button" name="QREG_DISPLAY" value="Register" title="Register" />
 </noscript>
@@ -172,12 +173,9 @@ document.write('<a href="javascript:popupForm();" class="QRLink">Register</a>');
 <input type="hidden" name="NEXTURL" value="SPageServer?pagename=reg_welcome">
 <input type="hidden" name="BUTTON_IMAGE" value="null">
 <div style="display:none">
-<table border="0"><tbody><tr><td>
 <label for="denySubmit">Spam Control Text:</label>&nbsp;
 <input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts.">&nbsp;Please leave this field empty
-</td></tr></tbody></table>
 </div>
-
 </form>
 
 </li> 
@@ -209,7 +207,6 @@ a2a_config.onclick = 1;
 
 
 
-
 <table cellspacing="0">
 <tbody>
 <tr>
@@ -233,11 +230,12 @@ a2a_config.onclick = 1;
 <p><a href="PageServer?pagename=support_atlas_shrugged_initiative"></a></p>
 <p><a href="PageServer?pagename=support_campaigns_dccenter"><img src="../images/content/pagebuilder/128857.jpg" border="0" alt="The ARC Initiative"></a></p>
 <p><a href="http://www.aynrandlexicon.com/"><img src="../images/content/pagebuilder/123000.jpg" border="0" alt="The Ayn Rand Lexicon"></a></p>
-<p><a href="http://aynrandbookstore.com/"><img src="../images/content/pagebuilder/123002.jpg" border="0" alt="The Ayn Rand Bookstore"></a></p>
-<p><a href="http://www.objectivistconferences.com/"><img src="../images/content/pagebuilder/rh_ocon.jpg" border="0" alt="Objectivist Conferences" width="240" height="100"></a></p>
+<p><a href="http://estore.aynrand.org/"><img src="../images/content/pagebuilder/estore.png" border="0" alt="The Ayn Rand Institute eStore" width="240" height="100"></a></p>
+<p><a href="http://www.objectivistconferences.com/"><img src="../images/content/pagebuilder/rh_ocon_chicago.jpg" border="0" alt="Objectivist Conferences" width="240" height="100"></a></p>
 <p><a href="PageServer?pagename=reg_ar_library"><img src="../images/content/pagebuilder/123003.jpg" border="0" alt="The Ayn Rand Multimedia Library"></a></p>
 <p><a href="PageServer?pagename=reg_ls_index"><img src="../images/content/pagebuilder/123004.jpg" border="0" alt="ARI Lecture Series: The Complete Video Collection"></a></p>
-</div></td></tr></tbody></table>
+</div>
+</td></tr></tbody></table>
 </td>
 </tr>
 </tbody>
@@ -254,7 +252,7 @@ a2a_config.onclick = 1;
     <ul>
       <li><a href="PageServer?pagename=other_sites">Other Sites</a></li>
       <li><a href="PageServer?pagename=contact">Contact Us</a></li>
-      <li><a href="http://aynrandbookstore.com">Bookstore</a></li>
+      <li><a href="https://estore.aynrand.org">eStore</a></li>
       <li>
 <form id="searchForm" action="http://www.aynrand.org/site/Search">
 <fieldset>
@@ -303,7 +301,7 @@ a2a_config.onclick = 1;
 <ul class="widest">
   <li><a href="http://arc-tv.com">ARCTV</a></li>
   <li><a href="http://atlasshrugged.com"><cite>Atlas Shrugged</cite></a></li>
-  <li><a href="http://aynrandbookstore.com">Ayn Rand Bookstore</a></li>
+  <li><a href="https://estore.aynrand.org">Ayn Rand Institute eStore</a></li>
   <li><a href="http://aynrand100.com">Ayn Rand Centenary</a></li>
   <li><a href="http://aynrandcenter.org">Ayn Rand Center for Individual Rights</a></li>
   <li><a href="http://aynrandeducation.com">Ayn Rand Education</a></li>
@@ -311,12 +309,14 @@ a2a_config.onclick = 1;
   <li><a href="http://aynrandlexicon.com"><cite>Ayn Rand Lexicon</cite></a></li>
   <li><a href="http://aynrandnovels.com">Ayn Rand Novels</a></li>
   <li><a href="http://facetsofaynrand.com"><cite>Facets of Ayn Rand</cite></a></li>
+  <li><a href="http://capitalism.aynrand.org">Laissez-Faire blog</a></li>
   <li><a href="http://objectivistacademiccenter.org">Objectivist Academic Center</a></li>
   <li><a href="http://objectivistconferences.com">Objectivist Conferences</a></li>
   <li><a href="http://principlesofafreesociety.com">Principles of a Free Society</a></li>
   <li><a href="http://blog.aynrandcenter.org">Voices for Reason blog</a></li>
   <li><a href="http://winningtheunwinnablewar.com"><cite>Winning the Unwinnable War</cite></a></li>
 </ul>
+
   </li>
 </ul>
   </li><li id="link-aynrand"><a href="PageServer?pagename=ayn_rand_index">Ayn Rand</a>
@@ -329,9 +329,10 @@ a2a_config.onclick = 1;
   <li><a href="PageServer?pagename=about_ayn_rand_aynrand_gallery">Photo Gallery</a></li>
   <li><a href="PageServer?pagename=about_ayn_rand_archives_index">Ayn&nbsp;Rand Archives</a></li>
   <li><a href="PageServer?pagename=objectivism_booksbio">Books About Ayn&nbsp;Rand</a></li>
-  <li><a href="http://aynrandbookstore.com">Ayn&nbsp;Rand Bookstore</a></li>
+  <li><a href="https://estore.aynrand.org">Ayn&nbsp;Rand Institute eStore</a></li>
   <li><a href="PageServer?pagename=about_ayn_rand_faq_index2">FAQ</a></li>
 </ul>
+
   </li>
   <li><a href="PageServer?pagename=ayn_rand_works_index">Ayn Rand's Works</a>
 <ul>
@@ -352,9 +353,10 @@ a2a_config.onclick = 1;
   <li><a href="PageServer?pagename=objectivism_intro">Ayn Rand's Philosophy: Objectivism</a></li>
   <li><a href="PageServer?pagename=ayn_rand_ideas_suggested_reading">Suggested Reading List</a></li>
   <li><a href="http://aynrandlexicon.com">Topic Search</a></li>
-  <li><a href="http://aynrandbookstore.com">Ayn Rand Bookstore</a></li>
+  <li><a href="http://estore.aynrand.org">Ayn Rand Institute eStore</a></li>
   <li><a href="PageServer?pagename=objectivism_faq">FAQ</a></li>
 </ul>
+
   </li>
 </ul>
   </li>
@@ -377,8 +379,9 @@ a2a_config.onclick = 1;
   <li><a href="http://capitalism.aynrand.org">Laissez-Faire</a></li>
 </ul>
   </li>
-  <li><a href="http://aynrandbookstore.com/">Bookstore</a></li>
+  <li><a href="https://estore.aynrand.org/">eStore</a></li>
 </ul>
+
   </li>
   <li id="link-students"><a href="PageServer?pagename=students_index">Students</a>
 <ul id="nav-students">
@@ -568,7 +571,7 @@ var pageTracker = _gat._getTracker("UA-7181550-3");
 pageTracker._trackPageview();
 } catch(err) {} 
 </script>
-
+ 
 
 
 
