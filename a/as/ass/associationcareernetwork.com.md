@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associationcareernetwork.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505070147id_/http%3A//www.associationcareernetwork.com/displaycommon.cfm%3Fan%3D1%26subarticlenbr%3D49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associationcareernetwork.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023105404id_/http%3A//www.associationcareernetwork.com/displaycommon.cfm%3Fan%3D1%26subarticlenbr%3D49) for the most accurate reproduction.*
 
 # Association Career Network
 
