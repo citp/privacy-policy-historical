@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the figis.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425113522id_/http%3A//www.figis.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figis.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023221133id_/http%3A//www.figis.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
