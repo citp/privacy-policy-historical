@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622142304id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023044318id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.*
 
 # 
 
