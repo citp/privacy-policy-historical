@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505062712id_/http%3A//www.netterimages.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023032239id_/http%3A//www.netterimages.com/help/privacy.htm) for the most accurate reproduction.*
 
 # Netter Medical Images - Privacy Policy
 
 PRIVACY POLICY  
 This document outlines the Privacy Policy for the netterimages.com website
 
-This website ("Site") is owned by [Elsevier Inc.](http://us.elsevierhealth.com/), 1600 John F. Kennedy Blvd., Ste 1800, Philadelphia, PA 19103-2899, USA, and operated by [Slicksurface LLC](http://www.slicksurface.com/) ("Elsevier," "we," "us" or "our"). 
+This website ("Site") is owned by [Elsevier Inc.](http://us.elsevierhealth.com/), 1600 John F. Kennedy Blvd., Ste 1800, Philadelphia, PA 19103-2899, USA, and operated by [Tenthmatrix Information Systems Ltd](http://www.tenthmatrix.co.uk/ "Tenthmatrix Information Systems Ltd") ("Elsevier," "we," "us" or "our"). 
 
 We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
