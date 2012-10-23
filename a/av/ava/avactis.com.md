@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the avactis.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527220008id_/http%3A//www.avactis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avactis.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023221026id_/http%3A//www.avactis.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Avactis: Ecommerce PHP Shopping Cart Software
 
-[Home](https://web.archive.org/web/20120527220008id_/http%3A//www.avactis.com/) []() > Privacy Policy
+[Home](https://web.archive.org/web/20121023221026id_/http%3A//www.avactis.com/) []() > Privacy Policy
 
 Pentasoft Corporation ("Pentasoft") respects your privacy. We describe our privacy practices in this Privacy Policy so that you understand what Personal Information we collect about you and your company, and how we use such information.
 
