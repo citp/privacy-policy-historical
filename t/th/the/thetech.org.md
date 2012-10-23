@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065519id_/http%3A//www.thetech.org/about-us/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023212826id_/http%3A//www.thetech.org/about-us/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tech Museum
 
 ##  Information Collection and Use
 
-The Tech Museum is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Tech Museum collects information from our users at several different points on our website.
+The Tech Museum of Innovation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Tech collects information from our users at several different points on our website.
 
 ##  Registration
 
@@ -20,7 +20,7 @@ You can edit your museum account information including your email newsletter pre
 
 New categories of email newsletters might be added to the [My Account](https://web.archive.org/user) preferences page from time to time. Users who visit this page can opt out of receiving future newsletters from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
 
-We reserve the right to send you certain communications relating to The Tech Museum, such as service announcements, administrative messages and our email newsletters, that are considered part of your account, while offering you the opportunity to opt out of receiving them by following instructions contained in the messages you receive.
+We reserve the right to send you certain communications relating to The Tech, such as service announcements, administrative messages and our email newsletters, that are considered part of your account, while offering you the opportunity to opt out of receiving them by following instructions contained in the messages you receive.
 
 ##  Cookies
 
