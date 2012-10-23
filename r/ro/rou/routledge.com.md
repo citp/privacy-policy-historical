@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016164002id_/http%3A//www.routledge.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023132323id_/http%3A//www.routledge.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Routledge
-
-We are committed to preserving the privacy of all visitors to our website. If you are interested to understand how we use and protect the information that you provide to us, please read on.
 
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
 
@@ -24,7 +22,7 @@ In particular, we may use your information to contact you for your views on our 
 
 The information you provide to us may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfill and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our website to third parties but this will not include information that can be used to identify you.
 
-_Where you have consented_ when providing us with your details, we may also allow other companies in the Informa group, to contact you occasionally about products and services which may be of interest to you. They may contact you by emails. If you change your mind about being contacted by these companies in the future, please [let us know](https://web.archive.org/info/contact/ "contact us") and we'll make sure you're not contacted for these purposes again.
+_Where you have consented_ when providing us with your details, we may also allow other companies in the Informa group, to contact you occasionally about products and services which may be of interest to you. They may contact you by e-mail. If you change your mind about being contacted by these companies in the future, please [let us know](https://web.archive.org/info/contact/ "contact us") and we'll make sure you're not contacted for these purposes again.
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
 
@@ -49,4 +47,4 @@ We employ security measures to protect your information from access by unauthori
 
 ##  Changes to our Privacy Policy
 
-Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through emails notification.
+Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification.
