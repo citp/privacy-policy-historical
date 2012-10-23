@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madrasgeek.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190449id_/http%3A//www.madrasgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madrasgeek.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023072032id_/http%3A//www.madrasgeek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Madras Geek
 
 **Privacy Policy of http://www.madrasgeek.com**  
 At http://www.madrasgeek.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.madrasgeek.com and how it is used.
