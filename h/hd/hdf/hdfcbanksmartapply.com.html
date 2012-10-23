@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2012-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120316230123id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2012-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023180121id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -47,6 +47,14 @@
         if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
             //Setup the connection as a GET call
             //True explicity sets the request to asyncronous (default).
+            // This replace is to replace all possible attack words to some other by changing major vowels to numbers
+            // otherwise the session will be expired and the customer is punished.
+            if (msg != null && typeof(msg) != undefined) {
+                msg = msg.replace(/a/gi, "%40");
+                msg = msg.replace(/e/gi, "3");
+                msg = msg.replace(/i/gi, "1");
+                msg = msg.replace(/o/gi, "0");
+            }
             receiveReq.open("GET", ctx + "images/jserror.gif?linenumber=" + linenumber + "&url=" + url + "&msg=" + msg + "&dt=" + errdt, true);
             //Make the actual request.
             receiveReq.send(null);
@@ -57,8 +65,8 @@
     var st = new Date();
     var loc = escape(window.location);
     var ctx = "/";
-    var unique_id = "MBuPe38AAQEAADBSTKcAAAAK"
-    var start_time = "1331938885078907"
+    var unique_id = "UIbbcn8AAAEAAAa7eiEAAAA1"
+    var start_time = "1351015282446147"
     var req = ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time;
     new Image().src = req;
 </script>
@@ -72,37 +80,37 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/images/favicon.ico">
 
-<link rel="stylesheet" type="text/css" media="screen" href="https://d30qxz8zb1evpi.cloudfront.net/N546387482/bundles/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://d30qxz8zb1evpi.cloudfront.net/N1566025206/bundles/main.css">
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" media="screen" href="https://d30qxz8zb1evpi.cloudfront.net/N1316104946/bundles/ie.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://d30qxz8zb1evpi.cloudfront.net/N1242867543/bundles/ie.css" />
 <![endif]-->
 
 </head>
 <body>
 <div id="wrapper">
-    <div id="page" class="">
+    <div id="page" class="landing">
         <div id="page_holder">
             <div id="head">
-    <div class="header">
-        <div class="head-left">
-            <div class="logo-holder"><a href="/" class="gb logo" title="HDFC BANK">HDFC BANK</a></div>
-            <div class="navigation selectednav">
-                <ul id="mainmenu">
-                    <li class="personalloan"><a href="/personal-loan/compare-interest-rates.html">Personal Loans</a></li>
-                    <li class="carloan"><a href="/car-loan/compare-interest-rates.html">Car Loans</a></li>
-                    <li class="creditcards"><a href="/credit-card/apply-online.html">Credit Cards</a></li>
-                    <li class="account"><a href="/myaccount.html">Your Applications</a></li>
-                    <li class="track_app"><a href="/verifyOwnershipForm.html">Track Application Status</a></li>
-                </ul>
-                <div class="clear"></div>
+        <div class="header">
+            <div class="head-left">
+                <div class="logo-holder"><a href="/" class="gb logo" title="HDFC BANK">HDFC BANK</a></div>
+                <div class="navigation selectednav">
+                    <ul id="mainmenu">
+                        <li class="personalloan"><a href="/personal-loan/compare-interest-rates.html">Personal Loans</a></li>
+                        <li class="carloan"><a href="/car-loan/compare-interest-rates.html">Car Loans</a></li>
+                        <li class="creditcards"><a href="/credit-card/apply-online.html">Credit Cards</a></li>
+                        <li class="account"><a href="/myaccount.html">Your Applications</a></li>
+                        <li class="track_app"><a href="/verifyOwnershipForm.html">Track Application Status</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
             </div>
+            <div class="head-right">
+                &nbsp;<br>
+                <a href="/login.html" class="signin-lnk">Sign In</a>
+                </div>
         </div>
-        <div class="head-right">
-            <span class="gb powered-by" title="Powered by bankbazaar.com"></span><br>
-            <a href="/login.html" class="signin-lnk">Sign In</a>
-            </div>
     </div>
-</div>
 <div id="bd" class="container clearfix">
                 <div id="content_block">
     <h1>Privacy Policy</h1>
@@ -141,66 +149,8 @@
     <p> We will use the information stored in the cookies to improve visitor experience through throwing up relevant
         content where possible. We will also use the cookies to store visitor preferences to ease visitor navigation
         on the site.</p>
-</div><div class="dontshow">
-    <div id="search-dnd-block" class="search-dnd-block">
-        <span id="oldBlockUI" class="dontshow"></span>
-        <a name="closeimgName" class="close nocheckout dnd-close" href="javascript:void(0)"></a>
-
-        <div class="search-dnd">
-            <h4 class="search-dnd-sprite">Important Note About Your Mobile</h4>
-
-            <div class="search-dnd-Content">
-                <ul>
-                    <li class="search-dnd-info">
-                        It seems that your number is registered on the National Do-Not-Disturb (DND) list. Due to newly
-                        revised guidelines of TRAI (Telecom Regulatory Authority on India), we will not be able to
-                        update you on your  offer unless you provide proof of consent for
-                        HDFC BANK
-                         to call you by completing <strong>ONE</strong> of the following:
-                    </li>
-                    <li>
-                        <span class="dnd-confirm">
-                            <span class="search-dnd-sprite dnd-call-icon"></span>
-                            <strong>SMS US:</strong>
-                            <span class="call_msg SMS">SMS "CALL ME" to +91-9223174200 from +91-<span class="ndnc_mobile"></span>.</span>
-                            <span class="dnd-success SMS dontshow">Thank you for your consent.</span>
-                        </span>
-                        <a class="call_msg SMS nocheckout search-dnd-sprite dnd-button" href="javascript:void(0)"></a>
-                    </li>
-                    <li>
-                        <span class="dnd-or"><strong>OR</strong></span>
-                    </li>
-                    <li class="dnd-call-blk">
-                        <span class="dnd-confirm ">
-                            <span class="search-dnd-sprite dnd-sms-icon"></span>
-                            <strong>CALL US:</strong>
-                            <span class="call_msg CALLUS">Call 044-43981811 from +91-<span class="ndnc_mobile"></span>. </span>
-                            <span class="dnd-success CALLUS dontshow">Thank you for your consent.</span>
-                        </span>
-                        <a class="call_msg CALLUS nocheckout search-dnd-sprite dnd-button" href="javascript:void(0)"></a>
-                    </li>
-                    <li class="search-dnd-option">
-                        <div>After completing one of the above, in order to continue staying updated with
-                        
-                            status/approvals/scheduling of your  application via phone, please do
-                            <strong>ONE</strong> of the following:
-                        </div>
-                        <div class="dnd-option-a">Send "START 1" to 1909 to activate partial-DND, allowing you to
-                            receive SMS alerts from all 'Banking/Insurance/Financial Products/Credit Cards' companies
-                        </div>
-                        <div class="dnd-option-b">Send "STOP" to 1909 to de-register from DND</div>
-                        <div class="em">TRAI guarantees to activate registration/de-registration requested within 7
-                            days.
-                        </div>
-                    </li>
-                </ul>
-                <div class="clr"></div>
-            </div>
-            <div class="clr"></div>
-        </div>
-    </div>
-</div>
-</div>
+</div></div>
+            <div id="hdfcBBLogo"><span class="gb powered-by" title="Powered by bankbazaar.com"></span></div>
             <div class="footer">
 	<div class="footer_content">
 	    <span class="float_right gb verisign lazy-load {src:'/security-seals.html'}"></span><span class="copy">© <script type="text/javascript">var d = new Date();
@@ -211,7 +161,45 @@
     </div>
 </div>
 
-<script type="text/javascript" src="https://d30qxz8zb1evpi.cloudfront.net/N908593915/bundles/main.js"></script>
+<input type="hidden" name="website" value="HDFC_WHITELABEL" id="website"><script type="text/javascript" src="/jawr_loader.js?_=1350670677188"></script>
+<script type="text/javascript">
+JAWR.loader.getURLs=function (path,ptype) {
+    var paths=[];
+    var type=ptype;
+    if(ptype==null){
+    type='js';        //settting JS as default type
+    }
+var bundles=[];
+if(type.toString().toLowerCase()=='css'){
+    bundles=this.cssbundles;
+    }
+if(type.toString().toLowerCase()=='js'){
+    bundles=this.jsbundles
+    }
+var   mappingToUse=this.mapping;
+for (var x = 0; x < bundles.length; x++) {
+    var bundle = bundles[x];
+    if (bundle.belongsToBundle(path) && !this.usedBundles[bundle.name]) {
+    this.usedBundles[bundle.name] = true;
+    var pathtoRender = bundle.alternateProductionURL ? bundle.alternateProductionURL : this.normalizePath(mappingToUse + '/' + bundle.prefix + bundle.name);
+        if (typeof pathtoRender != undefined) {
+            /*Replacing both http and https to use // to use the page's security  protocol*/
+            pathtoRender = pathtoRender.replace(/http:\/\//gi,"//");
+            pathtoRender = pathtoRender.replace(/https:\/\//gi,"//");
+        }
+    paths.push(pathtoRender);
+    }
+}
+return paths;
+}
+
+</script><script type="text/javascript" src="https://d30qxz8zb1evpi.cloudfront.net/799995336/bundles/main.js"></script>
+<input type="hidden" name="" value="DC296F83B546794878FE675DA1AAA9B4-n1.hdfc2" id="sessionId"><input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="" id="mcIdVal"><script type="text/javascript">
+isMobileReceived = 'false';
+mcId = '';
+product = 'false';
+pTypeId = '97';
+</script>
 <noscript>
 <img src="/images/no-javascript.gif" alt="JS is not enabled in browser"/>
 </noscript>
@@ -250,6 +238,10 @@
     });
 
 </script>
+
+
+<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="mobilePixelSession" value="DC296F83B546794878FE675DA1AAA9B4-n1.hdfc2" id="tyrooSession"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="HDFC_WHITELABEL" id="global_website"><div class="dontshow">
+    </div>
 
 
 </body></html>
