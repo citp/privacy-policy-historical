@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydawdle.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512004219id_/http%3A//www.dailydawdle.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydawdle.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023082848id_/http%3A//www.dailydawdle.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Daily Dawdle
 
@@ -43,6 +43,6 @@ Thanks for visiting DailyDawdle.com
 You like funny photos? Well here at DailyDawdle.com, so do we. That's why we're here 365 days a year finding and posting funny pictures, funny videos, funny cats doing their cat things and other random humor for your viewing pleasure. If you have funny sh*t to share email us at info [at] dailydawdle [dot] com.  
 
 
-[ ](http://www.blogger.com/rearrange?blogID=1879388602716867220&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
+[ ](https://www.blogger.com/rearrange?blogID=1879388602716867220&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
 
 [](http://www.linkwithin.com/)
