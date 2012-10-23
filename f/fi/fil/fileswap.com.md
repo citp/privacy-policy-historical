@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileswap.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614020000id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileswap.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023072226id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # FileSwap.com : Privacy Policy
 
@@ -22,7 +22,8 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 
 From time to time, we may combine personal information and preferences collected on-line with personal information and preferences collected off-line in order to enhance and personalize our services. 
 
-**Sharing**   
+**Sharing**
+
 We may share aggregated demographic information with our sponsors. This is not linked to any personal information that can identify any individual person. From time to time, we may contract another party to provide certain specific services to our hosts/users. If we have collected your personally identifiable information from one Site, that Site may share the information with other sites within our network in order to provide you with additional goods and services for which we believe you may be interested. 
 
 Except as provided above, we do not currently sell or otherwise make available personally identifiable information about our users to third parties. Nevertheless, we reserve the right to make such information available to third parties in the future in order to enhance and personalize our services, or in the case of bankruptcy, sale of an asset, business or division, a merger or acquisition, or similar change of ownership. 
