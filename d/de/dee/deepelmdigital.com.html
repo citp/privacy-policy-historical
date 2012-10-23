@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the deepelmdigital.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508194548id_/http%3A//bandcamp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deepelmdigital.com privacy policy that was archived on 2012-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023023539id_/http%3A//bandcamp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=" js"><head>
     <title>Privacy | Bandcamp</title>
     
+    
+        <meta name="viewport" content="width=device-width">
+    
+
     
 
 
@@ -25,9 +29,10 @@
 
     
     
-        <link type="text/css" rel="stylesheet" href="http://s0.bcbits.com/tmpdata/cache/global_bundle_c5a1f6e829dfd4c3303759186a5d4b57.css">
-    
-    
+    <link type="text/css" rel="stylesheet" href="http://s0.bcbits.com/tmpdata/cache/global_bundle_bb9096e8b2a9adb8ae25584dd2c73b03.css" media="all and (min-width: 641px)">
+<link type="text/css" rel="stylesheet" href="http://s0.bcbits.com/tmpdata/cache/corp_bundle_f03d7ca3819d86bca15a876b0d6972ce.css" media="all and (min-width: 641px)">
+<link type="text/css" rel="stylesheet" href="http://s0.bcbits.com/tmpdata/cache/global_phone_bundle_d872c4951d78830cacb871f0bc47e649.css" media="only screen and (max-width: 640px)">
+<link type="text/css" rel="stylesheet" href="http://s0.bcbits.com/tmpdata/cache/corp_phone_bundle_dc3b473679a44d50d11bf17740e54f73.css" media="only screen and (max-width: 640px)">
 
     <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
         var isDebug = false;
@@ -39,9 +44,9 @@
 <script type="text/javascript">
     
     var isDebug = false;
-    var siteroot = "http:\/\/bandcamp.com";
-    var siteroot_https = "https:\/\/bandcamp.com";
-    var siteroot_current = "http:\/\/bandcamp.com";
+    var siteroot = "http://bandcamp.com";
+    var siteroot_https = "https://bandcamp.com";
+    var siteroot_current = "http://bandcamp.com";
     var band_url = null;
     var isProduction = true;
 
@@ -49,10 +54,10 @@
     document.documentElement.className += " js";
     
     
-    var Browser = {"grade":"X","type":null,"version":[-1],"make":null,"platform":null};    
+    var Browser = {"grade":"X","platform_name":"","platform_closed":true,"type":null,"version":[-1],"make":null,"platform":null};    
 
     
-    var TemplGlobals = {"siteroot":"http:\/\/bandcamp.com","static_siteroot":"http:\/\/s0.bcbits.com","siteroot_https":"https:\/\/bandcamp.com"};
+    var TemplGlobals = {"is_https":false,"siteroot":"http://bandcamp.com","static_siteroot":"http://s0.bcbits.com","siteroot_https":"https://bandcamp.com"};
 
     
     
@@ -73,50 +78,20 @@
     
     
     
-    
-    
-
-    
-
-    
-
-    
-
-    
-    
-    
-    
-    
-
-    
-
-    
-
-    
-
-    
-
 
 
         {
             
 
             
-            
-            
-            
-            
-            
-            
             legacy: {
                 head: [
                     
                      
 
-    "http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_a401442db2c7b83faf44d62d88f2dd82.js"
+    "http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_51c352e5c3b9bb9fa714a6734c8c881d.js"
 
 
-                
                 
                 ],
                 
@@ -132,7 +107,7 @@
                     
                      
 
-    "http://s0.bcbits.com/tmpdata/cache/utils_8f47d9202bc842bf24e09e5a65599917.js"
+    "http://s0.bcbits.com/tmpdata/cache/utils_466939b40b9224b4b0da69c290171d0a.js"
 
 
     
@@ -178,29 +153,6 @@
 
             JSLoader.currentset = JSLoader.sets[setname];
         },
-
-        checkSets : function() {
-            return; //disabled
-            if(!console.log || !JSLoader.sets.legacy) return;
-
-            var a = JSLoader.original_sets;
-            var b = JSLoader.sets.legacy;
-
-            var sections = ["head", "foot"];
-
-            for(var s=0; s<sections.length; s++) {
-                var seca = a[sections[s]];
-                var secb = b[sections[s]];
-
-                for(var i=0; i<seca.length; i++) {
-                    if(seca[i] != secb[i]) {
-                        console.log("warning: js lib " + sections[s] + "[" + i + "] mismatch:");
-                        console.log("should be: " + seca[i]);
-                        console.log("       is: " + secb[i]);
-                    }
-                }
-            }
-        },
         
         _addRequire : function(src) {
             var libs = JSLoader.currentset.foot;
@@ -214,41 +166,18 @@
         onJSLoaded : null
     };
 
-
         
         
          
 
-    /* keep a copy of the original loader sets here for comparison during debugging */
-    
-    JSLoader.original_sets = {
-            head: [
-                
-                "http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_7a36d3e163219e33d545fb7aba1e6478.js"
-            
-            
-            ],
-            
-            foot: [
-                
-                
-                "http://s0.bcbits.com/tmpdata/cache/json-min_5f97e41133fcf214c90129e9ae0fb794.js",
-                
-                "http://s0.bcbits.com/tmpdata/cache/utils_8f47d9202bc842bf24e09e5a65599917.js"
-                            
-            ]
-        };
-    
-
-    JSLoader.checkSets();
     JSLoader.selectSet("legacy");
     JSLoader.writeScriptTags( "head" );
 
     
-</script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_a401442db2c7b83faf44d62d88f2dd82.js"></script>    
+</script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_51c352e5c3b9bb9fa714a6734c8c881d.js"></script>    
 
 
-    
+    <script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/global_phone_head_bundle_efeb5134a0d429bca12299416d3b597c.js"></script>
 
     
         
@@ -275,7 +204,8 @@
 
 
         <script type="text/javascript">
-            
+            if ( window.MediaView )
+                MediaView.init( {"desktop_width":641} );  
         
             var gCrumb = null;
             Control.registerEvents();
@@ -285,7 +215,6 @@
 
     
     
-        
     
 
     
@@ -307,6 +236,7 @@
 
 
 
+
 <div id="navbar">
 <ul id="site-nav" class="horizontal">
     
@@ -314,6 +244,10 @@
     
     
     
+
+    
+
+
 </ul>
 
 <ul id="user-nav" class="horizontal">
@@ -330,6 +264,7 @@
     </div>
 
 
+
 <div id="centerWrapper">
     <div id="propOpenWrapper">
         
@@ -343,16 +278,35 @@
 
         <div id="pgBd" class="yui-skin-sam">
             
-<style type="text/css">
 
-#pgBd {
-    padding:35px 135px;
-    width:705px;
+
+
+    
+
+
+
+
+
+    
+    
+
+
+
+
+<style type="text/css" media="all and (min-width: 641px)">
+#pgContent {
+    padding: 35px 135px;
+    width: 705px;
+    font-size: 100%;
 }
 
+p, li {
+    color: black;
+}
 </style>
 
 
+<div id="pgContent">
 <h1 style="text-align:center;">Privacy Policy</h1>
 
 <p>Bandcamp, Inc. (“Bandcamp”) knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the www.bandcamp.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Bandcamp in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.</p>
@@ -363,20 +317,20 @@
 <h3>What Personal Information Does Bandcamp Collect?</h3>
 <p>The information we gather from customers enables us to personalize and improve our services and to allow our users to set up a user account and profile that can be used to interact with other users through the Website.  In connection with the Website, we request and display some personal information to other users and visitors of Website, which allows users to identify each other.  We collect the following types of information from our customers.</p>
 
-<b>Personal Information You Provide to Us:</b>
-<p>We receive and store any information you enter on our Website or provide to us in any other way.  The types of Personal Information collected may include your name, user name, email address, IP address, and browser information.  You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  The Personal Information you provide is used for such purposes as allowing you to interact with other users, improving the content of the Website, customizing the advertising and content you see, and communicating with you about specials and new features.</p>
+<h4>Personal Information You Provide to Us:</h4>
+<p>We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected may include your name, user name, password, email address, photograph or other likeness, purchase history, IP address, browser information and any other information you provide in connection with your user account. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as allowing you to interact with other users, improving the content of the Website, customizing the advertising and content you see, and communicating with you about specials and new features.</p>
 
-<b>Personal Information Collected Automatically:</b>
-<ul>
+<h4>Personal Information Collected Automatically:</h4>
+<ul class="traditional-list">
     <li>We receive and store certain types of information whenever you interact with our Website or services.  Bandcamp automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.
     </li><li>Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show.  Bandcamp only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally.  This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services.  As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site.   We share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience. Again, Bandcamp never discloses aggregate information to a partner in a manner that would identify you personally.
 </li></ul>
 
-<b>E-mail Communications:</b>
+<h4>E-mail Communications:</h4>
 <p>We may receive a confirmation when you open an email from Bandcamp if your computer supports this type of program. Bandcamp uses this confirmation to help us make emails more interesting and helpful and improve our service.  If you do not want to receive email or other mail from us, please send your request to <a href="mailto:support@bandcamp.com">support@bandcamp.com</a>.</p>
 
-<b>What About Cookies?</b>
-<ul>
+<h4>What About Cookies?</h4>
+<ul class="traditional-list">
     <li>Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people.  Bandcamp cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is.  
     </li><li>Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
     </li><li>Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Bandcamp and does not cover the use of cookies by any advertisers.
@@ -389,7 +343,7 @@
  
 <p><i>Agents:</i> We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.    Unless we tell you differently, Bandcamp’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.</p>
 
-<p><i>User profiles:</i> User profile information including users’ name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users’ email addresses will not be directly revealed to other users by Company, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile.</p>
+<p><i>User profiles:</i> User profile information including users’ name, email address, purchase history and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users’ email addresses will not be directly revealed to other users by Company, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile. You may designate certain User Submissions, including individual items in your purchase history, as private, in which case they will not be displayed to other users.</p>
 
 <p><i>Communication in response to User Submissions:</i> As part of the Website and Services, you will receive from Company email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Company may send you email and other communication that it determines in its sole discretion relate to your User Submissions.</p> 
 
@@ -411,16 +365,17 @@
 
 <h3>What Personal Information Can I Access?</h3>
 <p>Bandcamp allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information.  This list will change as our Website changes.</p> 
-<ul>
+<ul class="traditional-list">
 <li>Username and password
 </li><li>E-mail address
 </li><li>User profile information
 </li></ul>
 
 <h3>What Choices Do I Have?</h3>
-<ul>
+<ul class="traditional-list">
 <li>As stated previously, you can always opt not to disclose information to use, even though it may be needed to take advantage of certain Bandcamp features.
 </li><li>You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above.  When you update information, however, we often maintain a copy of the unrevised information in our records.
+</li><li>You may designate certain User Submissions as private so that they are not shared with other users.  Not all User Submissions may be designated as private.
 </li><li>You may request deletion of your Bandcamp account by sending an e-mail to <a href="mailto:support@bandcamp.com">support@bandcamp.com</a>.  Please note that some information may remain in our records after deletion of your account.  
 </li><li>If you do not wish to receive email or other mail from us, please send your request to <a href="mailto:support@bandcamp.com">support@bandcamp.com</a>.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Bandcamp Website, and you are responsible for reviewing such legal notices for changes.
 </li></ul>
@@ -432,6 +387,7 @@
 <p>If you have any questions or concerns regarding privacy at Bandcamp site, please send us a detailed message to <a href="mailto:support@bandcamp.com">support@bandcamp.com</a>. We will make every effort to resolve your concerns.</p>
 
 <br><p>Effective Date: August 1st, 2008</p>
+</div>
 
             <div style="clear:both"></div>
         </div>
@@ -442,7 +398,7 @@
     
         <a id="footer-logo" href="http://bandcamp.com?from=logo"><span class="hiddenAccess">Bandcamp</span></a>
     
-        <span id="view-switcher" style="display:none"></span>
+        <span id="phone-view-switcher-wrapper">&nbsp;</span> 
         <span id="webapp-selector-ui" style="display:none"></span>
     </div>
     
@@ -465,7 +421,7 @@
 <script type="text/javascript">
     if (typeof Y != "undefined") {
         Y.util.Event.onDOMReady(function() {
-            WebappSelector.create_ui("http:\/\/bandcamp.com", null);
+            WebappSelector.create_ui("http://bandcamp.com", null);
         });
     }
 </script>
@@ -483,7 +439,7 @@
     JSLoader.writeScriptTags( "foot" );
 
     
-</script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/json-min_5f97e41133fcf214c90129e9ae0fb794.js"></script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/utils_8f47d9202bc842bf24e09e5a65599917.js"></script>    
+</script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/json-min_5f97e41133fcf214c90129e9ae0fb794.js"></script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/utils_466939b40b9224b4b0da69c290171d0a.js"></script>    
 
 
 
@@ -563,6 +519,6 @@ if(!isDebug)
 
 
 
-<!-- roberto-15 Tue May 08 19:45:48 UTC 2012 -->
+<!-- roberto-7 Tue Oct 23 02:35:39 UTC 2012 -->
 
 </body></html>
