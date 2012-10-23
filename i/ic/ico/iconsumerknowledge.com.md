@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconsumerknowledge.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621145854id_/http%3A//www.iconsumerknowledge.com%3Fpage_id%3D80) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconsumerknowledge.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023022923id_/http%3A//www.iconsumerknowledge.com%3Fpage_id%3D80) for the most accurate reproduction.*
 
 # Our Privacy Policy – IConsumerKnowledge
 
