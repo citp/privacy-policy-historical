@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geckoboard.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605101603id_/http%3A//www.geckoboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckoboard.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023121404id_/http%3A//www.geckoboard.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy « Geckoboard Geckoboard
 
-## 1\. Information that we collect from you
+## 1\. INFORMATION THAT WE COLLECT FROM YOU
 
 1.1 If You decide to register with and use Geckoboard.com You will be asked to provide certain information about yourself including Your name and contact details. By submitting Your personal information, You consent to the collection, use and transfer of your information in accordance with the terms of this privacy policy.
 
@@ -12,7 +12,7 @@
 
 1.4 We do not store any of Your financial information including billing and credit card information. Your financial information is processed by secure, third party services.
 
-## 2\. Use of your information
+## 2\. USE OF YOUR INFORMATION
 
 2.1 We will only use Your information for the following purposes:
 
@@ -29,7 +29,7 @@
 
 2.3 We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all times.
 
-## 3\. Disclosure of your information
+## 3\. DISCLOSURE OF YOUR INFORMATION
 
 3.1 We do follow strict guidelines in the storage and disclosure of information which You have given us, to prevent unauthorized access. We comply with the laws of the countries from which we operate.
 
@@ -43,23 +43,23 @@
 
 3.6 You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to Your Geckoboard account. Note that although You set the password, it is Our proprietary information and belongs to Us for all time.
 
-## 4. Cookies
+## 4. COOKIES
 
 Cookies are small amounts of information which We store on Your computer. We issue cookies to Your computer when You log on to the Website and when You register with the Service. Cookies are necessary for the operation of the Service and therefore, if You set up your computer to reject cookies You will be unable to access the Service.
 
-## 5\. Security and data retention
+## 5\. SECURITY AND DATA RETENTION
 
 We employ security measures to protect Your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information for a reasonable period or as long as the law requires.
 
-## 6\. Accessing and updating
+## 6\. ACCESSING AND UPDATING
 
 You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. If You wish to do this, please contact Us. We are entitled by law to charge a fee of £10 to meet Our costs in providing You with details of the information We hold about You.
 
-## 7\. Changes to our privacy policy
+## 7\. CHANGES TO OUR PRIVACY POLICY
 
 Any changes to Our privacy policy in the future will be posted to the Website and, where appropriate, through e-mail notification. Please ensure that You are kept up-to-date with any such changes. By using the Service or accessing the Website You agreed to be bound by the most up-to-date version of this Policy.
 
-## 8. Contact
+## 8. CONTACT
 
 All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed to:
 
@@ -68,4 +68,4 @@ Datachoice Solutions Ltd
 United Kingdom  
 reg: 5958505  
 tel: +44 (0) 759 00 444 13  
-e-mail: help@geckoboard.com 
+e-mail: help@geckoboard.com
