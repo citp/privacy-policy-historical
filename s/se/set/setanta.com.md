@@ -1,58 +1,55 @@
-> *The following text is extracted and transformed from the setanta.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517004510id_/http%3A//www.setanta.com/au/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setanta.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023044654id_/http%3A//ie.setanta.com/ie/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Setanta
+# Privacy Policy - Setanta Sports | Ireland’s Sports Broadcaster
 
-### SETANTA SPORTS CUSTOMER AND WEBSITE PRIVACY POLICY  
+## Privacy Policy
 
+The setanta.com Web site (the ‘Site’) is maintained by SETANTA SPORT HIBERNIA S.a.r.l. (‘SETANTA SPORT HIBERNIA S.a.r.l.,’ ‘us,’ ‘our,’ or ‘we’). We can also be reached by telephone on 0818 271 400 or email . Our data collection and use policies with respect to the Site are set forth in this statement (‘Policy’). By using this Site, you signify your acceptance of this Policy.
 
-Setanta Sport Australia Pty Limited ACN 086 130 805 (“we”) is a provider of subscription sports television programs. In order for us to effectively provide our services to customers, we collect certain personal information. Such information may include your name, address, telephone number, e-mail address, bank details and credit card details.  
+**Definitions**
 
+When reviewing this Policy you should understand that when we use the term “personally identifiable information” we mean any information that can be used to identify or to contact a specific individual, such as a name, address, telephone number or email address. When we refer to “aggregate information” we mean information that does not allow us to identify or contact a specific individual but describes a general category of information about visitors to the Site, such as demographics, or visitors using a particular browser to access the Site.
 
-### Why we collect personal information
+What types of personally identifiable information does Setanta Sports collect on the Site?
 
-  
-The primary purpose of the collection of personal information is to maintain our database of customers so that we may effectively communicate with you, provide information about our services and facilitate receipt of payment from you. We may also use your personal information to provide you with information about our services, programs, events, functions or news updates that may be relevant or of interest to you. We generally ask you when you subscribe if you would like to be contacted for these purposes. If you do not wish to be contacted for these purposes you can let us know at any time by contacting us at the details below.  
+We collect various types of personally identifiable information from visitors to the Site. For instance, visitors may choose to subscribe to Setanta Sports via the Site (“Member”) or in order to participate in certain activities on the Site and enjoy special benefits offered only to Members. To subscribe visitors are required to provide their name, postal address, and email address. Personally identifiable information may also be requested in connection with a sweepstake or other competitions, survey or other activities on the Site. Visitors who wish to purchase products from the Site will also be asked to provide their shipping and/or delivery (if different from the postal address) addresses, telephone number and credit card information. Use of Share is governed by the Site’s Terms of Use
 
+Can I review or change information I have previously provided to Setanta Sports?
 
-### How we collect personal information
+Yes. If you want to review, correct, or change personal information that you have previously provided to us, please email [customerserviceire@setanta.com](mailto:customerserviceire@setanta.com) and we will provide you with your information and allow you to amend it.
 
-Personal information may be collected from you in a number of ways, for example:   
-• when you contact us or subscribe to our services by telephone;  
-• when you contact us or subscribe to our services by email or via our website;  
-• when you update an on-line profile that includes personal information such as your name and contact details; and  
-• when we request certain information from subscribers for a specific purpose.  
+Does Setanta Sports collect any other information about visitors to the Site?
 
+We constantly seek to maintain the integrity of, and make improvements to, the Site. As part of these efforts, we collect and analyse certain information about how visitors use the Site. When you visit our Site, we may collect various types of technical data, which we maintain in both aggregate and personally identifiable forms. This data includes (but is not limited to) domain and/or Web browser information. We may track which Web site you visited before arriving at the Site and the Web site you link to when you leave the Site. We may also keep a record of which pages of the Site you visit, and how long you spend on each page.
 
-Our website may use “cookies” (these are files that are implanted in your hard drive by some websites to store information about your web use patterns) to enhance or personalise our website services. We may in any case collect anonymous information that allows us to review information about the date, time and duration of visits to our website without identifying you. We may also aggregate personal information of our customers for statistical purposes. We do this in order to better inform ourselves of our customers’ preferences and requirements, and to enable us to monitor the effectiveness of, and constantly improve, our website and our services. 
+What does Setanta Sports do with information collected on the Site?
 
-### Disclosure and Use of Information 
+We will use personally identifiable information provided by visitors to fulfil the purpose for which such information was provided, as described in this Policy, and as disclosed at the time the visitor information is requested. Order information will be used to fulfil customer orders. We may also use postal address information provided by visitors to send them, among other things, Setanta Sports offers. Additionally, we may use information about your activities on the Site, your purchases, and your computer equipment to improve the performance of our Site, and to customise the content and layout of our Site pages for you. We may supplement personally identifiable and aggregate information collected from the Site with similar information obtained from our affiliates, companies with whom we have marketing or other business relationships, and other third party sources. We may offer visitors the opportunity to receive special promotions from us and other companies. If a visitor elects to receive such offers (or does not indicate a preference not to receive such information), we will use the information provided by that visitor to send those offers. We use aggregate information collected on the Site to evaluate how the Site is being used. This information does not contain any information that may be personally identified with a specific individual. For example, we may collect and analyse information about how many visitors arrived at certain pages of the Site, how long they stayed on those pages, and where they went afterwards. This information allows us to determine which pages might be the most interesting to and popular with visitors and enables us to provide visitors with a better and richer experience on the Site. We also use personally identifiable information and aggregate information for a variety of marketing and promotional purposes. For instance, we may use information gleaned from your use of the Site or the purchases you make to inform you of new areas of the Site and product specials. This information may also be used to assist companies with whom we have marketing or other business relationships to display advertising or product placements of ours and of those companies that may be of interest to you.
 
-We may disclose personal information to related entities and to service providers who we may engage to assist us to deliver services such as security and technology services.
+Can I opt-out of receiving email promotions from Setanta Sports ?
 
-We may also disclose personal information to third party companies and partners with whom we have a relationship. We may do this for instance to investigate or promote new products, services or offers which we think may be of interest or benefit to you.
+Yes. You may choose not to receive promotional emails or newsletters from us by not checking permission boxes when completing any online forms or by sending us an email with “remove” in the subject line. We will respond to a request made pursuant to these methods as promptly as practicable. Even if you elect to stop receiving promotional emails from us, we may still contact you to tell you important information about us or the Site.
 
-We may use or disclose personal information as follows:  
-• for the purpose for which it was collected;   
-• where you have consented to such use;   
-• to maintain our relationship with you;   
-• to inform you about new products or services;  
-• to the extent that we are required or authorised to do so by law; or   
-• for any other purpose that we may notify you of or that you have specifically approved prior to such disclosure.   
-You may withdraw your consent to use your personal information at any time. To withdraw this consent please contact us at the details below. Please note that withdrawing your consent may mean that we are unable to provide you with certain services.
+Does Setanta Sports share visitor information with other companies?
 
-We may sell, transfer, or otherwise disclose our database of personal information to a successor entity or purchaser in connection with a corporate merger, consolidation, sale of our assets or substantially all our assets, or other corporate change involving our services.
+We will not intentionally share your personally identifiable information with unaffiliated entities (i) except as described in this Policy or as disclosed at the time your personally identifiable information is provided, or (ii) without your consent. We do, however, share aggregate information about Members and visitors to our Site with third parties and we share visitor and Member personally identifiable information with companies with whom we have a marketing or other business relationship. We may also disclose personally identifiable information and aggregate information in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, and (4) protect the rights or property of Setanta Sports. In the event there is a change in the corporate structure of Setanta Sports such as, but not limited to, merger, consolidation, sale, liquidation, or transfer of substantial assets, Setanta Sports may, in its sole discretion, transfer, sell or assign information collected on and through this Site, including without limitation, personally identifiable information and aggregate information concerning visitors, to one or more affiliated or unaffiliated third parties. Certain activities and services available on the Site are provided by third parties. For example, if you choose to purchase a product from us, we may use an outside vendor to process and ship the order to you. In this instance, we would need to provide your shipping address to this entity. We may also utilise an outside email service provider to send our emails, in which case we would need to provide your email address to this vendor.
 
-### Security
+If I link to another Web site and provide information to that Web site, how will that information be handled?
 
-Once in our possession, we take all reasonable precautions to protect the personal information we hold about you from misuse, loss and unauthorised access, modification or disclosure. We use a number of technological mechanisms to provide a secure environment. However, no data transmission over the Internet can be guaranteed to be completely secure. We therefore cannot warrant the security of any information you provide to us over the Internet and you do so at your own risk.   
-We aim to ensure that your personal information is accurate, complete and up to date. To assist us, please contact us if any of the details provided have changed or if you believe that the information we hold is inaccurate. You may request us to provide you with access to the personal information we hold about you at any time. We will respond to your access request as soon as possible, however, prior to disclosing any such information it will be necessary for you to satisfactorily verify your identity.
+This Site may contain links to other Web sites. If you link to another Web site, you will leave this Site and this Policy will not apply to your use of, and activities on, those other Web sites. We encourage you to read the legal notices posted on those other Web sites, including their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, those Web sites.
 
-### Contact
+How does Setanta Sports protect the information I provide to the Site?
 
-In order to access or amend your personal information or if you have any queries in relation to this policy, please contact us: 
+We take reasonable precautions to safeguard information transmitted between visitors and the Site and information stored on our servers. We use Secure Servers to store all data and encryption for the transmission of data to our servers during the subscription process.. Despite these efforts, however, we may be unable to prevent and shall not be responsible for unauthorized access to such information by third parties.
 
-By email: [customerservice-au@setanta.com](mailto:customerservice-au@setanta.com)
+Where will Setanta Sports store and maintain information about me?
 
-By Phone: 1300 738 268
+We maintain this Site in the the Republic of Ireland. By providing personal and other information to this Site, visitors understand and consent to the collection and processing of such information in, and the transfer of such information to, the Republic of Ireland and other countries or territories, in accordance with the terms of this Policy.
 
-This policy may be updated from time to time and we recommend that you review it regularly for changes.
+Can Setanta Sports change this Policy?
+
+Yes. We reserve the right to change this Policy in order to address future developments of Setanta Sports or the Site or changes in industry or legal trends. Depending on the nature of the change, we will either announce the change (1) on the home page of the Site, (2) provide such notice via email to Members, customers, and others who provide us with their email address, or (3) take such other action as we deem appropriate under the circumstances. By continuing to use the Site following an announcement of any change, you will be deemed to have agreed to such change. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, please do not continue using this Site.
+
+Setanta Sports broadcasts exclusively live coverage of the Barclays Premier League on Saturdays at 3pm & Champions League, Europa League,  
+Airtricity League, Serie A and the Setanta Sports Cup. Live Allianz Leagues GAA, Monday Night Golf Channel, French Top 14, RaboDirect Pro 12,  
+Formula 1, NHL and NASCAR completes the picture.
