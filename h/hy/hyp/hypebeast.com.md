@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630175922id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023143905id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hypebeast
 
