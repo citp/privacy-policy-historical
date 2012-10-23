@@ -1,39 +1,42 @@
-> *The following text is extracted and transformed from the webpin.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511074438id_/http%3A//www.webpin.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpin.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023180645id_/http%3A//www.webpin.com/en/privacy.php) for the most accurate reproduction.*
 
-# - Webpin.com
+# 
 
-At Webpin.com we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the Webpin.com Products. Webpin.com is a service of the InfoSpace S. de R.L. de C.V. If you have any questions about this Policy, please feel free to contact us at [support@webpin.com](mailto:support@webpin.com)
+At mex.tl we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the mex.tl Products. mex.tl is a service of the InfoSpace S. de R.L. de C.V. If you have any questions about this Policy, please feel free to contact us at [support@webpin.com](mailto:support@webpin.com)
 
-### Information we collect and how we use it:
+  
 
-**Information you provide.** When you sign up for a Webpin.com Website we ask you for your desirable site name and email address. Your site name is used for publishing your Webpin.com Website under www.sitename.Webpin.com, your email address is used for sending you notifications concerning the Webpin.com services (i.e. sending you the password for your Webpin.com website and further notifications). 
 
-**Information about Usage.** When you log in to your Webpin.com website, Webpin.com servers automatically record information about the way you use Webpin.com. Webpin.com records information such as account activity (including storage usage, number of log-ins), and other log information (including browser type, IP-address, date and time of access, cookie ID, and referrer URL). 
+##### Information we collect and how we use it:
 
-**Identifying you with the help of a Cookie.** When you login to your Webpin.com-Website, we send one cookie to uniquely identify your browser. We use it so you do not have to re-enter your password when changing the content of different pages on your Webpin.com-website. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, in this case Webpin.com will not work properly. 
+**Information you provide.** When you sign up for a mex.tl Website we ask you for your desirable site name and email address. Your site name is used for publishing your mex.tl Website under www.sitename.mex.tl, your email address is used for sending you notifications concerning the mex.tl services (i.e. sending you the password for your mex.tl website and further notifications). 
 
-**Cookies by advertisers.** We also use third party advertisements on Webpin.com.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. 
+**Information about Usage.** When you log in to your mex.tl website, mex.tl servers automatically record information about the way you use mex.tl. mex.tl records information such as account activity (including storage usage, number of log-ins), and other log information (including browser type, IP-address, date and time of access, cookie ID, and referrer URL). 
 
-**Log information.** When you use Webpin.com, our servers automatically record information that your browser sends whenever you visit a website. Information about your web request, your I.P. address, your browser type, your browser language, and the date and time of your request will be collected. 
+**Identifying you with the help of a Cookie.** When you login to your mex.tl-Website, we send one cookie to uniquely identify your browser. We use it so you do not have to re-enter your password when changing the content of different pages on your mex.tl-website. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, in this case mex.tl will not work properly. 
 
-**Your website.** The information you provide on your Webpin.com-Website may be read by persons you do not know. So be careful with providing personal information. Webpin.com of course stores, processes and maintains your pages submitted files in order to provide the Website-service to you. 
+**Cookies by advertisers.** We also use third party advertisements on mex.tl.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. 
 
-**At Webpin.com.com we will keep a directory of all Webpin.com pages**. We may use the index of the content of your website, your tags, as well as a screenshot of your current site to faciliate browsing through the Webpin.com-Websites. 
+**Log information.** When you use mex.tl, our servers automatically record information that your browser sends whenever you visit a website. Information about your web request, your I.P. address, your browser type, your browser language, and the date and time of your request will be collected. 
 
-**Your Webpin.com-Profile.** Webpin.com also may collect other profile data including but not limited to: gender, age, and category concerning the topic of your site in order to assist users in finding each others websites. User Profile information including members pictures and first names will be displayed to people in order to facilitate user interaction. 
+**Your website.** The information you provide on your mex.tl-Website may be read by persons you do not know. So be careful with providing personal information. mex.tl of course stores, processes and maintains your pages submitted files in order to provide the Website-service to you. 
 
-**Your communication with Webpin.com.** When you send an email or other communication to Webpin.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+**At mex.tl.com we will keep a directory of all mex.tl pages**. We may use the index of the content of your website, your tags, as well as a screenshot of your current site to faciliate browsing through the mex.tl-Websites. 
 
-**Storage of your information.** The information of the Webpin.com Users is stored
+**Your mex.tl-Profile.** mex.tl also may collect other profile data including but not limited to: gender, age, and category concerning the topic of your site in order to assist users in finding each others websites. User Profile information including members pictures and first names will be displayed to people in order to facilitate user interaction. 
 
-### Sharing and Disclosure of Information Webpin.com Collects:
+**Your communication with mex.tl.** When you send an email or other communication to mex.tl, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
 
-If not stated otherwise, Webpin.com will not disclose personal information to third parties except
+**Storage of your information.** The information of the mex.tl Users is stored
 
-\- to conform to legal requirements or to respond to a subpoena, or other legal process received by Webpin.com
+##### Sharing and Disclosure of Information mex.tl Collects:
 
-\- to protect the safety of other Webpin.com users or the public
+If not stated otherwise, mex.tl will not disclose personal information to third parties except
 
-\- to enforce Webpin.com Terms of Service or our rights.
+\- to conform to legal requirements or to respond to a subpoena, or other legal process received by mex.tl
 
-If Webpin.com gets acquired we reserve the right to transfer personal information to the successor in interest.
+\- to protect the safety of other mex.tl users or the public
+
+\- to enforce mex.tl Terms of Service or our rights.
+
+If mex.tl gets acquired we reserve the right to transfer personal information to the successor in interest.
