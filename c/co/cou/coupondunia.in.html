@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the coupondunia.in privacy policy that was archived on 2012-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606045324id_/http%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coupondunia.in privacy policy that was archived on 2012-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023094033id_/http%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>privacy policy</title>
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="description" content="The most up to date listing of coupons for Indian retailers. Our editors check coupon codes to ensure validity every day.">
 <meta name="keywords" content="coupons, coupon codes, india coupon codes, promotional codes, promo codes, promotion codes">
  <meta name="OMG-Verify-V1" content="178600-6f22a8d7-424f-4216-ac49-afdcceb554c6">
 <meta name="google-site-verification" content="rG-eSMRF5hPfXeAB1-aoZqdexPpfZ1FXX4Q-tBugqQE">
-<link href="http://www.coupondunia.in/theme/Elegance/images/screen-03.css?042216" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/ico" href="favicon.ico">
+<link href="http://www.coupondunia.in/theme/Elegance/images/screen-03.css?111812" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.coupondunia.in/js/ZeroClipboard.js"></script>
-<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script src="http://cdn.webrupee.com/js" type="text/javascript"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -25,7 +26,8 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script><script type="text/javascript">
+</script>
+<meta name="google-site-verification" content="9pSfKskVYYX87nW9ZDgvlhtZ3NMQReMnd7vd6SMTX7M"><script type="text/javascript">
 	function validateForm ( form_obj )
 	{
 		var returnValue = true ;
@@ -47,9 +49,11 @@
 
 	}
 	
-	function copy_coupon_and_go_to_site ( coupon_id )
+	function copy_coupon_and_go_to_site ( coupon_id, popuptype, popup_enable )
 	{
-		var child = window.open ( "http://www.coupondunia.in/load/"+coupon_id+"/" , "_blank" ) ;
+		if(typeof(popup_enable)==='undefined') popup_enable = "yes";
+				coupon_click_popup( coupon_id, 382, 200 , popuptype );
+		//var child = window.open ( "http://www.coupondunia.in/load/"+coupon_id+"/" , "_blank" ) ;
 		//child.blur();
 		//window.focus();
 	}
@@ -71,6 +75,10 @@
 	{
 		$("#coupon_Tool_tip_action_"+copon_id).hide() ;
 	}
+
+	function coupon_click(coupon_id){
+		$.post('coupon_clicks.php', { coupon_id: coupon_id }, function() {}	);
+		}
 	
 	function reveal_all_coupons ( ) 
 	{
@@ -84,11 +92,12 @@
 		} else {
 		        window.onfocus = onFocus;
 		        window.onblur = onBlur;
-		}		
+		}
+		$('.dealButton').text('Deal Activated');	
 	}
 	
 	
-	function set_copy_command ( text_to_copy , control_id , coupon_id, website_name, coupon_code )
+	function set_copy_command ( text_to_copy , control_id , coupon_id, website_name, coupon_code, coupon_type, popuptype )
 	{
 		var revertcolor = $("#"+control_id).css('border-color');
 		var revertborder = $("#"+control_id).css('border-style');
@@ -115,8 +124,14 @@
 					window.clipboardData.setData("Text",text_to_copy);
 					_gaq.push(['_trackPageview', '/merchant-goal.php']);
 					_gaq.push(['_trackEvent', 'CouponClick', website_name]);
+					if( coupon_type == "regular" ) {
+						_gaq.push(['_trackEvent', 'CouponClick_MultipleTimeUseCoupon', website_name]);
+					}else if( coupon_type == "onetimeuse" ) {
+						_gaq.push(['_trackEvent', 'CouponClick_OneTimeUseCoupon', website_name]);
+					}
 					//setTimeout("copy_coupon_and_go_to_site ( " + coupon_id +")", 0) ;
-					copy_coupon_and_go_to_site(coupon_id);
+					coupon_click( coupon_id );
+					copy_coupon_and_go_to_site(coupon_id, popuptype, "yes");
 					reveal_all_coupons();
 				});
 			}
@@ -151,8 +166,14 @@
 					$("#coupon_Tool_tip_action_"+coupon_id).css("width","60px").text("Copied ! ") ;
 					_gaq.push(['_trackPageview', '/merchant-goal.php']);
 					_gaq.push(['_trackEvent', 'CouponClick', website_name]);
+					if( coupon_type == "regular" ) {
+						_gaq.push(['_trackEvent', 'CouponClick_MultipleTimeUseCoupon', website_name]);
+					}else if( coupon_type == "onetimeuse" ) {
+						_gaq.push(['_trackEvent', 'CouponClick_OneTimeUseCoupon', website_name]);
+					}
 					//setTimeout("copy_coupon_and_go_to_site ( " + coupon_id +")", 0) ;
-					copy_coupon_and_go_to_site(coupon_id);
+					coupon_click( coupon_id );
+					copy_coupon_and_go_to_site(coupon_id, popuptype, "yes");
 					reveal_all_coupons();
 				} );
 			
@@ -162,13 +183,49 @@
 		});
 	}
 
-</script>
-<link href="http://fonts.googleapis.com/css?family=Italiana" rel="stylesheet" type="text/css">
-</head>
+    function coupon_click_popup( coupon_id, w, h, popuptype )
+    {
+      // Fudge factors for window decoration space.
+      // In my tests these work well on all platforms & browsers.
+      h = screen.height - h;
+      wleft = (screen.width - w-50);
+      //wtop = (screen.height - h) / 2;
+      // IE5 and other old browsers might allow a window that is
+      // partially offscreen or wider than the screen. Fix that.
+      // (Newer browsers fix this for us, but let's be thorough.)
+      if (wleft < 0) {
+        w = screen.width;
+        wleft = 0;
+      }
+      window.open("http://www.coupondunia.in/load/"+coupon_id+"/", '_blank');
+      if((typeof coupon_click_popup_window === 'undefined' && popuptype != 'popup') || coupon_click_popup_window.closed){
+	      coupon_click_popup_window = window.open('http://www.coupondunia.in/couponassist?cid='+coupon_id,
+	    	'',
+	        //'width=' + w + ', height=' + h + ', ' +
+	        //'left=' + wleft + ', top=' + wtop + ', ' +
+	        'width=' + w + ', height=' + h + ', ' +
+	        'left=' + wleft + ', top=50, ' +
+	        'location=no, menubar=no, ' +
+	        'status=no, toolbar=no, scrollbars=1, resizable=no');
+      }else if(typeof coupon_click_popup_window !== 'undefined' && popuptype != "popup" ){
+    	  coupon_click_popup_window.location.assign('http://www.coupondunia.in/couponassist?cid='+coupon_id);
+    	  coupon_click_popup_window.focus();
+      }else{
+    	  window.location.assign('http://www.coupondunia.in/couponassist?cid='+coupon_id);
+    	  window.focus();
+      }
+      // Just in case width and height are ignored
+      //win.resizeTo(w, h);
+      // Just in case left and top are ignored
+      //win.moveTo(wleft, wtop);
+      //win.focus();
+    }
+
+</script></head>
 <body id="home">
 	<div class="branding">
 <div class="shell">
-	<a id="logo" href="http://www.coupondunia.in/" title="Home">
+	<a id="logo" href="http://www.coupondunia.in/" title="Home" onclick="_gaq.push(['_trackEvent', 'Logo', 'Click']);">
 			
 		</a>
 		<ul id="nav">
@@ -178,20 +235,174 @@
 		</ul>
 		<div id="search">
 			<form id="searchForm" method="post" action="http://www.coupondunia.in/search_query/" class="form-wrapper cf">
-				<input name="query" id="query" value="Search coupon codes" type="text" onfocus="this.value='';">
-				<button type="submit">Search</button>
-				<ul class="searchClue">
-					<li><a href="/flipkart">Flipkart</a></li>
-					<li><a href="/infibeam">Infibeam</a></li>
-					<li><a href="/dominos">Dominos</a></li>
-					<li><a href="/letsbuy">Letsbuy</a></li>
+				<input name="query" id="query" placeholder="Search Merchants (Flipkart, Snapdeal, etc)" type="text" autocomplete="off">
+				<button onclick="_gaq.push(['_trackEvent', 'Searchbox', 'Button']);" type="submit">Search</button>
+				<ul id="results" style="display:none;">
 				</ul>
-
 			</form>
 		</div>
 		<div class="clearfix"></div>
 </div>
-</div>	<!-- end: #search -->
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	//used to disable form submit
+	var ret_false = function() {
+		return false;
+	}
+	present = $('#results');
+	search_form_flag = 1; //shows if form submit is enabled or not
+	$(document).click(function() {
+		if(document.activeElement.parentNode.parentNode.id != 'results' && document.activeElement.id != 'query') {
+				$('#query').val();
+				$('#results').text('');
+				$('#results').hide();
+		}
+	});
+	$('#query').keyup(function(e) {
+		$('#results').show();
+		quer = $(this).val();
+		if((e.keyCode == 38 || e.keyCode == 40 || e.keyCode == 13 || e.keyCode == 27) && (quer.length >= 2)) {
+			$('#results').children('li').children('a').removeClass('selected');
+			switch ( e.keyCode ) {
+				case 38: // Up
+					if(present.prev().length == 0){
+						present = $('#results');
+						$(this).val(temp);
+						$('#searchForm').unbind('submit', ret_false);
+						search_form_flag = 1;
+						break;
+					}else if(present[0] != $('#results')[0]){
+						$('#searchForm').bind('submit', ret_false);
+						search_form_flag = 0;
+						present = present.prev();
+						present.children(':first').addClass('selected');
+					}else if(present[0] == $('#results')[0]){
+						present = present.children(':last');
+						$('#searchForm').bind('submit', ret_false);
+						search_form_flag = 0;
+						present.children(':first').addClass('selected');
+					}
+					$(this).val(present.children(':first').text());
+					break;
+				case 40: // Down
+					if(present[0] == $('#results')[0]) {
+						present = present.children(':first');
+						$('#searchForm').bind('submit', ret_false);
+						search_form_flag = 0;
+					}else if(present.next().length == 0) {
+						$(this).val(temp);
+						$('#searchForm').unbind('submit', ret_false);
+						search_form_flag = 1;
+						present = $('#results');
+						break;
+					}else {
+						$('#searchForm').bind('submit', ret_false);
+						search_form_flag = 0;
+						present = present.next();
+					}
+					present.children(':first').addClass('selected');
+					$(this).val(present.children(':first').text());
+					break;
+				case 13: // Enter
+					_gaq.push(['_trackEvent', 'Searchbox', 'Enter Key']);
+					if(search_form_flag == 0){
+					window.location = present.children(':first').attr('href');
+					}
+					break;
+				case 27:
+					$(this).val(temp);
+					$('#results').text('');
+					$('#results').hide();
+				}
+		}else if(e.keyCode == 37 || e.keyCode == 39 ) { //left and right arrows
+		}else {
+			$('#searchForm').unbind('submit', ret_false);
+			search_form_flag = 1;
+			present = $('#results');
+			if(quer.length == 2 || ((temp.substring(0, 2) != quer.substring(0, 2)) && quer.length > 2)) {
+				$.post('http://www.coupondunia.in/type_ahead.php', {query_string : quer.substring(0, 2), type : 'ajax'}, function(data) {
+					typeahead_result=[];
+					if(data != "") {
+						typeahead_result = jQuery.parseJSON(data);
+					}
+					search_result();
+				});
+			}else if(quer.length > 2) {
+				search_result();
+			}else {
+				$('#results').html("");
+			}
+			temp = quer;
+		}
+	});
+	
+	function search_result() {
+		if(typeahead_result.length != 0){
+			parse();
+		}else {
+			$('#results').html("");
+		}
+	}
+	
+	function parse() {
+		$('#results').html("");
+		primary_array = []; //results that start with queried string
+		secondary_array = []; //results that contain queried string
+		tert_array = []; //results that match alternate spellings
+		patt = new RegExp(quer.toLowerCase());
+		$.each(typeahead_result, function(index, obj) {
+					if(typeahead_result[index]['WebsiteTitle'].substring(0, quer.length).toLowerCase() == quer.toLowerCase() || typeahead_result[index]['WebsiteName'].substring(0, quer.length).toLowerCase() == quer.toLowerCase()) {
+						primary_array.push(typeahead_result[index]);
+					}else if(patt.test(typeahead_result[index]['WebsiteTitle'].toLowerCase()) || patt.test(typeahead_result[index]['WebsiteURL'].toLowerCase()) || patt.test(typeahead_result[index]['WebsiteName'].toLowerCase())) {
+						secondary_array.push(typeahead_result[index]);
+					}else if(patt.test(typeahead_result[index]['AlternateSpellings'].toLowerCase())) {
+						tert_array.push(typeahead_result[index]);
+					}
+				});
+		p_len = primary_array.length;
+		s_len = secondary_array.length;
+		t_len = tert_array.length;
+		//results limited to five with pref order primary>seconday>tertiary
+		if(p_len > 5) {
+			for(i=0; i<5; i++) {
+				$('#results').append('<li><a href="http://www.coupondunia.in/' + primary_array[i]["WebsiteTitle"] + '">' + primary_array[i]["WebsiteName"] + '</a></li> ');
+			}
+		}else {
+			$.each(primary_array, function(index, obj) {
+				$('#results').append('<li><a href="http://www.coupondunia.in/' + primary_array[index]["WebsiteTitle"] + '">' + primary_array[index]["WebsiteName"] + '</a> </li>');
+			});
+			//secondary and tertiary are discarded for query length 2 and included for >2
+			if(quer.length > 2) {
+				if(p_len + s_len >= 5) {
+					for(i=0; i<5-p_len; i++) {
+						$('#results').append('<li><a href="http://www.coupondunia.in/' + secondary_array[i]["WebsiteTitle"] + '">' + secondary_array[i]["WebsiteName"] + '</a></li> ');
+					}
+				}else if(p_len + s_len != 0 ) {
+					for(i=0; i<s_len; i++) {
+						$('#results').append('<li><a href="http://www.coupondunia.in/' + secondary_array[i]["WebsiteTitle"] + '">' + secondary_array[i]["WebsiteName"] + '</a></li> ');
+					}
+				}else if(t_len > 0 && (p_len + s_len + t_len >=5 )) {
+					for(i=0; i<5 - (p_len + s_len); i++) {
+						$('#results').append('<li><a href="http://www.coupondunia.in/' + tert_array[i]["WebsiteTitle"] + '">' + tert_array[i]["WebsiteName"] + '</a></li> ');
+					}
+				}else if(t_len > 0 && (p_len + s_len + t_len <5 )) {
+					for(i=0; i<t_len; i++) {
+						$('#results').append('<li><a href="http://www.coupondunia.in/' + tert_array[i]["WebsiteTitle"] + '">' + tert_array[i]["WebsiteName"] + '</a></li> ');
+					}
+				}
+			}
+		}
+		$('#results').children('li').children('a').bind('mouseenter', function() {
+			$('#results').children('li').children('a').removeClass('selected');
+			$(this).addClass('selected');
+			$('#query').val($(this).text());
+			present = $(this).parent();
+		});
+	}
+	
+});
+</script>	<!-- end: #search -->
 	<div id="header">
 		<div class="shell">
 			<div class="topAdvt"><script type="text/javascript"><!--
@@ -234,6 +445,7 @@
 																						$("#div_Background").hide ( ) ;
 																					}
 			 ) ;
+		$('#f_description').val('');
 		
 	}
 	
@@ -244,22 +456,86 @@
 
 	}
 	
+	function setCookie ( c_name, value, exdays )
+	{
+		try {
+			garb_variable = $.parseJSON(value);
+			value = JSON.stringify(value);
+		} catch (e) {
+			// not json
+		}
+		var exdate = new Date();
+		exdate.setDate ( exdate.getDate() + exdays );
+		var c_value = escape( value ) + ( ( exdays==null ) ? "" : "; expires="+exdate.toUTCString() );
+		document.cookie = c_name + "=" + c_value;
+	}
+	
+	function getCookie( c_name )
+	{
+		var i,x,y,ARRcookies = document.cookie.split( ";" );
+		for ( i=0; i<ARRcookies.length; i++ )
+		{
+		  x = ARRcookies[i].substr( 0, ARRcookies[i].indexOf("=") );
+		  y = ARRcookies[i].substr( ARRcookies[i].indexOf("=")+1 );
+		  x = x.replace( /^\s+|\s+$/g, "" );
+			  if ( x == c_name )
+				{
+				return unescape( y );
+				}
+		  }
+	}
+	
+	function checkCookie()
+	{
+		var username = getCookie( "username" );
+		  if ( username != null && username != "" )
+		  {
+			$('#f_name').val( username );
+		  }
+	}
+	
 	function show_window_comment( coupon_id )
 	{
+		checkCookie();
 		show_Screen_bg ( ) ;
-		
-		$("#div_loading").show();
-		$("#div_Window").load("http://www.coupondunia.in/comments_post/"+coupon_id+"/", function()
-																						{
-    $("#commentSubmit").validate();
-
-					var n_wd = $("#div_Window").width ( ) ;
-																							var n_ht = $("#div_Window").height ( ) ;
-																							//$(this).css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
-																							$(this).css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
-																							$("#div_loading").hide();
-																						}
-		 ) ;
+		$("#div_Login").show();
+		$("#commentSubmit").validate();
+		var n_wd = $("#div_Window").width ( ) ;
+		var n_ht = $("#div_Window").height ( ) ;
+		//$(this).css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
+		$("#div_Window").css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
+		var cookie_var = getCookie( "username" );
+		if(cookie_var != null && cookie_var != "") {
+			$('#f_description').focus();
+		}else {
+			$('#f_name').focus();
+		}
+		$("#user_submit").unbind('click');
+		$("#user_submit").bind('click',function() {
+			var name = $("#f_name").val();
+			var comment = $("#f_description").val();
+			if( name != "" && comment != "") {
+				$("#user_submit").text('Submitting Comment...');
+				$('#loader_image').show();
+				$.post("http://www.coupondunia.in/comments_post/"+ coupon_id, { CouponID: coupon_id, User_POST_Name: name, Comments_POST_: comment},
+					function(response) {
+					if(response = 1) {
+						update_comments(coupon_id, comment, name);
+						$("#li_toggle_comments_"+coupon_id).show();
+						$('.close').click();
+						$("#user_submit").text('Post My Comment!');
+						$('#f_description').val('');
+						$('#loader_image').hide();
+						setCookie("username", $('#f_name').val(), 30);
+					} else {
+						return false;
+						}
+				});
+			}else {
+				return false;
+			}
+		});
+												
 	}
 	
 	
@@ -278,23 +554,13 @@
 	}
 	
 
-</script>
-
-
-
-<div id="div_Background" style="display:none; background-color:#000000; position:fixed; z-index:101">
-</div>
-
-<div id="div_Window" style="display:none; top:15%; z-index:105; position:fixed; padding: 8px; width: auto;">
-	
-</div>
-	<!-- end: #header -->
+</script>	<!-- end: #header -->
 	<div id="shell">
 		<div id="content">
 			<div id="major">	
 				<div class="panel" id="storeCollection">
 					
-					<h2><span>privacy policy</span></h2>
+					<h2 onclick="_gaq.push(['_trackEvent', 'hTag', 'h2Click']);"><span>privacy policy</span></h2>
 					<div class="inner">
 						<div>
 							<strong>What information do we collect?</strong> <br><br>We collect information from you when you subscribe to our newsletter.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.<br><br>Google, as a third party vendor, uses cookies to serve ads on your site.
@@ -309,7 +575,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 			<!-- end: #major -->
 			<div id="minor">
 				<div class="panel boxed">
-					<h2><span>Browse Coupons</span></h2>
+					<h2 onclick="_gaq.push(['_trackEvent', 'hTag', 'h2Click']);"><span>Browse Coupons</span></h2>
 					<div class="inner">
 						
 						<div class="break">
@@ -323,7 +589,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/recharge">recharge</a>
 							
-													<a style="font-size: 27px;" href="http://www.coupondunia.in/coupons/electronic">electronic</a>
+													<a style="font-size: 53px;" href="http://www.coupondunia.in/coupons/electronic">electronic</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/holiday">holiday</a>
 							
@@ -331,49 +597,49 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/car-rental">car rental</a>
 							
-													<a style="font-size: 90px;" href="http://www.coupondunia.in/coupons/mobile">mobile</a>
+													<a style="font-size: 106px;" href="http://www.coupondunia.in/coupons/mobile">mobile</a>
 							
-													<a style="font-size: 47px;" href="http://www.coupondunia.in/coupons/camera">camera</a>
+													<a style="font-size: 56px;" href="http://www.coupondunia.in/coupons/camera">camera</a>
 							
-													<a style="font-size: 80px;" href="http://www.coupondunia.in/coupons/computer">computer</a>
+													<a style="font-size: 94px;" href="http://www.coupondunia.in/coupons/computer">computer</a>
 							
-													<a style="font-size: 23px;" href="http://www.coupondunia.in/coupons/game">game</a>
+													<a style="font-size: 32px;" href="http://www.coupondunia.in/coupons/game">game</a>
 							
-													<a style="font-size: 111px;" href="http://www.coupondunia.in/coupons/clothing">clothing</a>
+													<a style="font-size: 153px;" href="http://www.coupondunia.in/coupons/clothing">clothing</a>
 							
-													<a style="font-size: 33px;" href="http://www.coupondunia.in/coupons/flower">flower</a>
+													<a style="font-size: 36px;" href="http://www.coupondunia.in/coupons/flower">flower</a>
 							
-													<a style="font-size: 57px;" href="http://www.coupondunia.in/coupons/gift">gift</a>
+													<a style="font-size: 95px;" href="http://www.coupondunia.in/coupons/gift">gift</a>
 							
-													<a style="font-size: 24px;" href="http://www.coupondunia.in/coupons/chocolate">chocolate</a>
+													<a style="font-size: 26px;" href="http://www.coupondunia.in/coupons/chocolate">chocolate</a>
 							
-													<a style="font-size: 15px;" href="http://www.coupondunia.in/coupons/baby">baby</a>
+													<a style="font-size: 24px;" href="http://www.coupondunia.in/coupons/baby">baby</a>
 							
-													<a style="font-size: 40px;" href="http://www.coupondunia.in/coupons/toy">toy</a>
+													<a style="font-size: 46px;" href="http://www.coupondunia.in/coupons/toy">toy</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/diaper">diaper</a>
 							
-													<a style="font-size: 25px;" href="http://www.coupondunia.in/coupons/beauty">beauty</a>
+													<a style="font-size: 38px;" href="http://www.coupondunia.in/coupons/beauty">beauty</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/web-hosting">web hosting</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/domain">domain</a>
 							
-													<a style="font-size: 31px;" href="http://www.coupondunia.in/coupons/watch">watch</a>
+													<a style="font-size: 32px;" href="http://www.coupondunia.in/coupons/watch">watch</a>
 							
-													<a style="font-size: 26px;" href="http://www.coupondunia.in/coupons/perfume">perfume</a>
+													<a style="font-size: 34px;" href="http://www.coupondunia.in/coupons/perfume">perfume</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/cruise">cruise</a>
 							
-													<a style="font-size: 57px;" href="http://www.coupondunia.in/coupons/jewellery">jewellery</a>
+													<a style="font-size: 89px;" href="http://www.coupondunia.in/coupons/jewellery">jewellery</a>
 							
-													<a style="font-size: 39px;" href="http://www.coupondunia.in/coupons/daily-deal">daily deal</a>
+													<a style="font-size: 42px;" href="http://www.coupondunia.in/coupons/daily-deal">daily deal</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/auction">auction</a>
 							
 													<a style="font-size: 18px;" href="http://www.coupondunia.in/coupons/dvd">dvd</a>
 							
-													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/music">music</a>
+													<a style="font-size: 16px;" href="http://www.coupondunia.in/coupons/music">music</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/ticket">ticket</a>
 							
@@ -387,19 +653,19 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/party-supply">party supply</a>
 							
-													<a style="font-size: 15px;" href="http://www.coupondunia.in/coupons/handbag">handbag</a>
+													<a style="font-size: 31px;" href="http://www.coupondunia.in/coupons/handbag">handbag</a>
 							
-													<a style="font-size: 24px;" href="http://www.coupondunia.in/coupons/bag">bag</a>
+													<a style="font-size: 27px;" href="http://www.coupondunia.in/coupons/bag">bag</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/wallet">wallet</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/belt">belt</a>
 							
-													<a style="font-size: 17px;" href="http://www.coupondunia.in/coupons/lingerie">lingerie</a>
+													<a style="font-size: 19px;" href="http://www.coupondunia.in/coupons/lingerie">lingerie</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/maternity">maternity</a>
 							
-													<a style="font-size: 16px;" href="http://www.coupondunia.in/coupons/health">health</a>
+													<a style="font-size: 20px;" href="http://www.coupondunia.in/coupons/health">health</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/sunglasses">sunglasses</a>
 							
@@ -421,23 +687,33 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/astrology">astrology</a>
 							
-													<a style="font-size: 29px;" href="http://www.coupondunia.in/coupons/home-decor">home decor</a>
+													<a style="font-size: 55px;" href="http://www.coupondunia.in/coupons/home-decor">home decor</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/international">international</a>
 							
 													<a style="font-size: 31px;" href="http://www.coupondunia.in/coupons/flight">flight</a>
 							
-													<a style="font-size: 22px;" href="http://www.coupondunia.in/coupons/hotel">hotel</a>
+													<a style="font-size: 23px;" href="http://www.coupondunia.in/coupons/hotel">hotel</a>
 							
-													<a style="font-size: 45px;" href="http://www.coupondunia.in/coupons/book">book</a>
+													<a style="font-size: 58px;" href="http://www.coupondunia.in/coupons/book">book</a>
 							
-													<a style="font-size: 31px;" href="http://www.coupondunia.in/coupons/shoe">shoe</a>
+													<a style="font-size: 40px;" href="http://www.coupondunia.in/coupons/shoe">shoe</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/gps">gps</a>
 							
 													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/d2h">d2h</a>
 							
-													<a style="font-size: 15px;" href="http://www.coupondunia.in/coupons/food">food</a>
+													<a style="font-size: 33px;" href="http://www.coupondunia.in/coupons/food">food</a>
+							
+													<a style="font-size: 12px;" href="http://www.coupondunia.in/coupons/accessory">accessory</a>
+							
+													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/pet">pet</a>
+							
+													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/domestic-help">domestic help</a>
+							
+													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/event">event</a>
+							
+													<a style="font-size: 11px;" href="http://www.coupondunia.in/coupons/education">education</a>
 							
 													
 							
@@ -489,7 +765,7 @@ google_ad_height = 250;
 	</div>
 </div>-->
 
-<div style="margin: 15px 0px 10px 10px"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FCouponDunia&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=250" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowtransparency="true"></iframe></div>				
+				
 			</div>
 			<!-- end: #minor -->
 			<div class="break">
