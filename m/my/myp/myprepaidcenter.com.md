@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525094536id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024010218id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
 
 # Privacy | Login
 
