@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607062727id_/http%3A//www.cpmstar.com/index.aspx%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023215130id_/http%3A//www.cpmstar.com/index.aspx%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
-# CPMStar - The Online Network Devoted To Gamers
+# CPMStar - The Online Advertising Network Devoted To Gamers
 
-|    
+  
 **PRIVACY POLICY**  
 Effective Nov 20th, 2009 GSN Games Network, LLC, and the CPMStar service are committed to protecting customer privacy online. The following privacy policy applies solely to our CPMStar internet advertising services. 
 
@@ -21,4 +21,10 @@ By clicking on an advertisement or viewing a pop up or pop under advertisement, 
 **Changes to Our Privacy Policy**  
 As our services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect. 
 
-| 
+I forgot my password 
+
+To reset your password, enter the username you used to sign in and a reset will be sent to your email on file. 
+
+I forgot my username 
+
+Please enter the email address you provided when creating your account. 
