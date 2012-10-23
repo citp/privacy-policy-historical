@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511102506id_/http%3A//www.moniker.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023165722id_/https%3A//www.moniker.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Domain Names Auction Privacy - Moniker SnapNames
 
@@ -14,7 +14,7 @@ Moniker Online Services, LLC (together with its subsidiaries, "Moniker") is comm
 
 
 
-We encourage you to read this Privacy Policy carefully when using our Site or Services or transacting business with us. By using our Site or Services, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us by email at support@moniker.com, or by mail at Moniker Online Services, LLC, Attn: Privacy, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069.
+We encourage you to read this Privacy Policy carefully when using our Site or Services or transacting business with us. By using our Site or Services, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us by email at support@moniker.com, or by mail at Moniker Online Services, LLC, Attn: Privacy, 1800 SW 1st Avenue, Suite 440, Portland, OR 97201
 
 ### Information Collection
 
@@ -127,8 +127,8 @@ Moniker Online Services, LLC
 
 Attn: Privacy
 
-20 SW 27th Ave. Suite 201
+1800 SW 1st Avenue, Suite 440
 
-Pompano Beach, Florida 33069
+Portland, OR 97201
 
 support@Moniker.com
