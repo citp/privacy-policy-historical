@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063503id_/http%3A//www.trade-it.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023092642id_/http%3A//www.trade-it.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Policy
 
