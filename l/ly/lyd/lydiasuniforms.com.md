@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512175103id_/http%3A//www.lydiasuniforms.com/_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023032450id_/http%3A//www.lydiasuniforms.com/_privacy-policy) for the most accurate reproduction.*
 
 # Scrubs Nursing Uniforms | Cheap Discount Nurse Scrubs
 
@@ -45,4 +45,4 @@ We use cookies in order to improve your shopping experience. When you visit Lydi
 We also use coolies to track and maintain the identity of the website you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other websites. You can refuse coolies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a signed up user to allow you access to your account information.
 
 **LINKS**  
-For your convenience, our website may contain links to other sites. LydiasuNiforms.com. is not responsible for the privacy practices or the content of such websites.
+For your convenience, our website may contain links to other sites. LydiasUniforms.com. is not responsible for the privacy practices or the content of such websites.
