@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514100432id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023131547id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DateHookup.com Privacy Policy
+
+Effective as of: August 10th, 2012 
 
 We recognize that privacy is important. Below are some common questions and answers related to how we handle privacy. 
 
@@ -10,11 +12,9 @@ When you join DateHookup.com, you will have to submit certain personal informati
 
 **Do you share my info with other companies?**
 
-We don't give, sell, or share any information you submit to us to third parties, unless requested by police or required by law. 
+We don't give, sell, or share any information you submit to us to third parties, unless requested by police or required by law or unless necessary to provide our services to you. 
 
-**Member Screening**
-
-DateHookup.com does NOT screen its member profiles for accuracy in any way (that would be basically impossible) nor does it conduct any kind of background checks on members. Members use this site at their own risk. Use the same common sense you would use meeting people in the offline world. Background checks are not always accurate (someone could just submit fake personal information after all, plus not all criminal records are available online), so they should never be counted on to replace common sense and skepticism. ALWAYS meet someone new in a very public place, and let someone close to you know you are meeting someone. 
+Your information may be transferred to our contractors in connection with the provision of our services to you or where it is otherwise necessary to meet the purpose for which you have submitted your information. 
 
 **Why do you need my email address?**
 
@@ -30,12 +30,28 @@ You can set your profile to 'invisible' any time you want. This will make it so 
 
 **Do you use cookies?**
 
-We use cookies to enable the functions on this site to work. Without them DH would not function, so in order to use this site please have cookies enabled. Cookies are just small text files that reside on your computer. Sites will store session information in cookies in order to know whether you are logged in, etc. They are private. 
+We use cookies to enable the functions on this site to work. Without them DateHookup.com would not function, so in order to use this site please have cookies enabled. Cookies are just small text files that reside on your computer. Sites will store session information in cookies in order to know whether you are logged in, etc. They are private. 
 
 **Links**
 
-When browsing this site, you may encounter links that point to other sites. This could be in the form of advertising, or links that users might put in their profiles. DateHookup.com is not affiliated with these sites. 
+When browsing this site, you may encounter links that point to other sites. This could be in the form of advertising, or links that users might put in their profiles. DateHookup.com is not affiliated with these sites and has no liability for them. When you link to other third party websites, our privacy practices no longer apply. We encourage visitors to review each site's privacy policy before disclosing any personal data. 
 
 **Communication with other members**
 
 Communication with other members on this site is handled through our messaging and instant messaging systems. Your email address is never used for communication and remains private at all times. The only personal information that is available to other members is what you have in your profile or what you give them. 
+
+**Security**
+
+We have implemented generally accepted standards of technology and operational security in order to protect your personal information that we collect from loss, misuse, alteration or destruction. In particular, all appropriate confidentiality obligations and technical and organizational security measures are in place to protect against unauthorized or unlawful disclosure or processing of such personal information and the accidental loss or destruction of or damage to such personal data. In compliance with applicable law, we will promptly notify those persons whose personal data has been compromised, in accordance with the notification procedures in this Privacy Statement or as otherwise required. 
+
+**Notification procedures**
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our users via e-mail notice, written or hard copy notice, or through conspicuous posting of such notice on the 'My Home' page, as determined by us in our sole discretion. Notwithstanding the foregoing, we reserve the right to determine the form and means of providing notifications to our site users. 
+
+**Access to personal data**
+
+If you would like to update any personal information you have submitted to us, please do so via your profile page or account options. 
+
+**Modifications**
+
+We reserve the right to modify or amend this Privacy Policy at any time. The effective date will be displayed at the beginning of this policy. To keep visitors informed, we will notify users of material changes to our Privacy Policy by identifying the update on the 'My Home' page of DateHookup.com. 
