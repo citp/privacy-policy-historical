@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511131546id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023141042id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
 
 # ECSI General Privacy Statement
 
@@ -12,7 +12,7 @@ ECSI's web site collects detail information such as IP address, domain name, bro
 
 In addition to collecting detail information, ECSI may summarize the detail information and prepare aggregated information such as counts and flow patterns. This information is critical for the purposes of service monitoring, site improvement and content analysis. ECSI may periodically publish this summary data. Summary data will never contain any references to or information provided by an individual.
 
-ECSI monitors all unsuccessful access attempts to our servers. We reserve the right to disable any account or IP address/range which repeatedly makes unsuccessful access attempts or, in our judgement, is attempting to bypass our security.
+ECSI monitors all unsuccessful access attempts to our servers. We reserve the right to disable any account or IP address/range which repeatedly makes unsuccessful access attempts or, in our judgment, is attempting to bypass our security.
 
 **Internet Passwords**  
 ECSI may authorize users to access certain web pages or other Internet services by issuing a user ID and password combination. No employee or representative of ECSI will ever ask for password information. If you are ever requested to provide your Internet password, do not provide it! You should immediately send an email to [Webmaster@ecsi.net](mailto:webmaster@ecsi.net) providing the date, time, employee's name (if available) and a brief description of the incident.
