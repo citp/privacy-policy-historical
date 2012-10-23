@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619224445id_/http%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023131912id_/http%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Sportsmans Outdoor Superstore - Where Sportsmen & Outdoors Meet.
 
