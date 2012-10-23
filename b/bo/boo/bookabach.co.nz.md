@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306014120id_/http%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023095627id_/http%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -66,3 +66,5 @@ We may deploy 3rd party tools and platforms for bulk email processing, support d
 In addition to the circumstances described above, we may disclose your information if required to do so by law, or in the good faith belief that disclosure is otherwise necessary or advisable, including when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
 Please note that on our site we have advertisements and links to other websites that may collect personal information from you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read their privacy policies as they may be materially different from our Privacy Policy.
+
+Plan trips away by adding properties to a shortlists. You need to be [logged in](https://web.archive.org/member/login) to create or view your shortlists. 
