@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620014456id_/http%3A//www.epam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024021206id_/http%3A//www.epam.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,4 +53,4 @@ Newtown, PA 18940
 Phone: +1-267-759-9000  
 Fax: +1-267-759-8989
 
-Please feel free to [provide your feedback online](https://web.archive.org/web/20120620014456id_/http%3A//www.epam.com/company/requestinfo.html).
+Please feel free to [provide your feedback online](https://web.archive.org/company/requestinfo.html).
