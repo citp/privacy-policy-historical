@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castlegem.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618105344id_/http%3A//www.castlegem.co.uk/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castlegem.co.uk privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024065932id_/http%3A//www.castlegem.co.uk/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Castlegem - Privacy Statement
 
