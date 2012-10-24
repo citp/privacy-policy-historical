@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205546id_/http%3A//www.bungie.net/help/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024033225id_/http%3A//www.bungie.net/help/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Bungie.net : Privacy Statement
+# Bungie.net : privacy : 3/31/2012 11:15 AM PDT
 
 The Bungie Web sites consisting of Bungie.com, Bungie.net, "7th Column" and BungieStore.com (the “Bungie Web Sites”) are operated by Bungie Inc. (“Bungie,” “we” or “us”) or its suppliers. We also provide applications for your mobile devices (“Bungie Mobile Apps”) through which we offer various services (the “Bungie Mobile Services”). Additionally, we make various online services available through our games (“Bungie Game Services”). Together, we will refer to the Bungie Mobile Services, Bungie Game Services and Bungie Web Sites as the “Bungie Services” in this Privacy Statement. This Privacy Statement applies to the Bungie Services and describes what information we collect on them, as well as how we use and disclose such information. By using the Bungie Services, you consent to the data practices described in this Privacy Statement. 
 
