@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the job-maldives.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602005315id_/http%3A//www.job-maldives.com/2008/10/job-maldives-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-maldives.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024084422id_/http%3A//www.job-maldives.com/2008/10/job-maldives-privacy-policy.html) for the most accurate reproduction.*
 
 # Job Maldives: Job Maldives Privacy Policy
 
 .
 
-[ ](http://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text3&action=editWidget&sectionId=main "Edit")
+[ ](https://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text3&action=editWidget&sectionId=main "Edit")
 
-_"An ounce of action is worth a ton of theory."_ Friedrich Engels
+_"Whatever your mind can conceive and believe, it can achieve."_ Napoleon Hill
 
-[ ](http://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=main "Edit")
+[ ](https://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=main "Edit")
 
 ###  [Job Maldives Privacy Policy](http://www.job-maldives.com/2008/10/job-maldives-privacy-policy.html)
 
