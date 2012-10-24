@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myzeo.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529064020id_/http%3A//www.myzeo.com/sleep/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzeo.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024073649id_/http%3A//www.myzeo.com/sleep/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zeo Sleep Manager
 
 **Privacy Policy**
 
-**Effective: May 12, 2009 (updated September 26, 2011)**
+**Effective: May 12, 2009 (updated June 11, 2012)**
 
-Welcome to the web site (the “ **Site** ”) of Zeo, Inc. (“ **Zeo** ”, “ **we** ”, “ **us** ” and/or “ **our** ”). Through the Site, including without limitation the corporate-branded area and the area of the Site made available to registered owners of the Zeo Sleep Manager Mobile and Bedside sleep management devices (the “ **Zeo Sleep Manager Devices** ”), you will have access to an educational tool and motivational program that helps you learn about your sleep and which habits and behaviors may be keeping you from enjoying the sleep that you need (collectively, the “ **Zeo Services** ”). Neither the Zeo Sleep Manager Devices nor the Zeo Services are a medical device nor a medical program and none of them are intended for the diagnosis and/or treatment of sleep disorders.
+Welcome to the web site (the “ **Site** ”) of Zeo, Inc. (“ **Zeo** ”, “ **we** ”, “ **us** ” and/or “ **our** ”). Through the Site, including without limitation the corporate-branded area and the area of the Site made available to registered owners of the Zeo Sleep Manager Mobile and Bedside sleep management devices  and such other devices offered by Zeo from time to time (the “ **Zeo Sleep Manager Devices** ”), and through mobile applications offered by Zeo from time to time, you will have access to an educational tool and motivational program that helps you learn about your sleep and which habits and behaviors may be keeping you from enjoying the sleep that you need (collectively, the “ **Zeo Services** ”). Neither the Zeo Sleep Manager Devices nor the Zeo Services are a medical device nor a medical program and none of them are intended for the diagnosis and/or treatment of sleep disorders.
 
 Your privacy is very important to us at Zeo. Accordingly, we have developed this Privacy Policy to explain our policy with respect to personally identifiable data (“ **Personal Data** ”) and other information that is collected from those who use our Site.
 
@@ -34,7 +34,7 @@ When you interact with us through the Site, we may collect Personal Data and oth
 
 
 
-** ** **Our Disclosure of Your Personal Data and Other Information.** We consider your Personal Data and privacy to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+**Our Disclosure of Your Personal Data and Other Information.** We consider your Personal Data and privacy to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
   * **_Business Transfers:_** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
   * **_Agents, Consultants and Related Third Parties:_** Zeo, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, and maintaining databases. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
@@ -44,7 +44,7 @@ When you interact with us through the Site, we may collect Personal Data and oth
 
 
 
-** ** **Your Choices.** You can use the Site without providing any Personal Data. However, if you choose not to provide any Personal Data, you may not be able to use certain areas of the Site and/or certain Zeo Services.  For example, you will not be able to use the Zeo Services without creating an account, establishing a sleep profile and providing the necessary registration information.  You will have the choice as to whether or not you wish to be contacted by us and/or by any third parties with offers for products, services and/or events that may be of interest to you. You can control these choices at the My Account section of the Site.
+**Your Choices.** You can use the Site without providing any Personal Data. However, if you choose not to provide any Personal Data, you may not be able to use certain areas of the Site and/or certain Zeo Services.  For example, you will not be able to use the Zeo Services without creating an account, establishing a sleep profile and providing the necessary registration information.  You will have the choice as to whether or not you wish to be contacted by us and/or by any third parties with offers for products, services and/or events that may be of interest to you. You can control these choices at the My Account section of the Site.
 
 **Exclusions.** This Privacy Policy does not apply to any Personal Data collected by Zeo other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Zeo through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Zeo shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
@@ -52,7 +52,9 @@ When you interact with us through the Site, we may collect Personal Data and oth
 
 **Links to Other Web Sites.**   This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Zeo (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Zeo endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-**Security.** **** Zeo takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail and/or Internet transmission. Please keep this in mind when disclosing any Personal Data through the Site.
+**Security. ****** Zeo takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail and/or Internet transmission. Please keep this in mind when disclosing any Personal Data through the Site.
+
+**Your Sharing of Data.** Through the Services you may have the ability to share your Personal Data with others, including without limitation through email, Facebook and Twitter.  When sharing your Personal Data with others through these or other means you should take into consideration your own privacy.  Personal Data shared by you with others through these or other means are shared by you at your own risk, and such sharing is not subject to this Privacy Policy and is subject to the Privacy Policy and Terms and Conditions of the third parties through which you share your Personal Data.
 
 **Other Terms and Conditions.** Your access to and use of the Zeo Services through the Site is subject to the [Terms of Use](http://www.myzeo.com/pages/56_terms_conditions.cfm).
 
