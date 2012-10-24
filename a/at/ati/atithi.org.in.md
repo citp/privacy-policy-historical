@@ -1,24 +1,10 @@
-> *The following text is extracted and transformed from the atithi.org.in privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124202610id_/http%3A//www.atithi.org.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atithi.org.in privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024040213id_/http%3A//www.atithi.org.in/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Atithi Devo Bhavah
+# ::Atithidevo Bhava:: - PrivacyPolicy
 
-|   | 
+##  Privacy Policy
 
-As part of the registration process, you will provide certain personal information to the Ministry of Tourism. We agree to use your personal information only for internal purposes. We may contact you periodically to provide you with news, other information, or offers which we believe would be of interest to you. The usage of your information will be in accordance with the provisions of the Ministry of Tourism Privacy Statement.
+As a general rule, this web site does not collect Personal Information about you when you visit the site. You can generally Visit this Site, without revealing, Personal Information, unless you choose to provide such information. Any Personal information collected shall be used only for the stated purpose and shall NOT be shared with any other department organization (public/private).   
 
-|   |  [](https://web.archive.org/web/20120124202610id_/http%3A//www.atithi.org.in/news_listing.php) |  |  |   
----|---|---  
-| Welcome, shahid naveen  |   
----  
-Username:  
-shahida_orion  
-Email :   
-shahida_orion@rediffmail.com  
-Registration Date:   
-02/10/2009  
-   
-  
-* * *  
-  
-Update Profile   
-|  | 
+
+This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
