@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbilya.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315074110id_/http%3A//www.sbilya.com%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbilya.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025001851id_/http%3A//www.sbilya.com%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # أول استضافة عربية مجانية للمواقع والمنتديات
 
