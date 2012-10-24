@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmyparents.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615060605id_/http%3A//www.billmyparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmyparents.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024073012id_/http%3A//www.billmyparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BillMyParents
 
