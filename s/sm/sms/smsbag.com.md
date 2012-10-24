@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509063638id_/http%3A//www.smsbag.com/sms/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024041836id_/http%3A//www.smsbag.com/sms/policy.php) for the most accurate reproduction.*
 
 # smsBAG - SMS Gateway...your No1 SMS link to the World
 
@@ -43,6 +43,10 @@ smsbag attempts to be as efficient as possible, however smsbag doesn't warrant t
 smsbag makes neither representations nor warranties of any kind, expressed or implied, as for the operation of these web pages and/or about the information, content, materials, or products included in these web pages. You expressly agree that the use of this site is at your sole risk.
 
 smsbag doesn't warrant that the website and its servers are free from viruses or other harmful components. smsbag will not be liable for any damages of any kind arising from the access and the use of the site.
+
+**Price Changes**
+
+smsBAG has the right to adjust her prices at any time without any notification to the users. Thus, Prices are flexible and changes as the market price changes
 
 **Intellectual property:**
 
