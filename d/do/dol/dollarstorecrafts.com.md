@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625000108id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024112322id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
 
 # Dollar Store Crafts » Privacy
 
