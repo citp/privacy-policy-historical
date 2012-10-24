@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decipherinc.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506232343id_/http%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decipherinc.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024051618id_/http%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Decipher Market Research | Decipher
 
