@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the suddenlaunch.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215034952id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlaunch.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024125015id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
 
 # Sudden Launch - Because You Like Free Message Boards.
 
-We have created this privacy policy to show you our commitment to protecting your privacy. If you ever have any questions regarding the content of this privacy policy, you can email us at webmaster@suddenlaunch.com at any time.
+We have created this privacy policy to show you our commitment to protecting your privacy. If you ever have any questions regarding the content of this privacy policy, you can reach us at our support forum.
 
 **Server Logged Information**  
-Some information is automatically logged about you every time you visit a page hosted at our site. Information that may be logged includes your IP address, the site from which the you came, what browser you are using, and what time you went to the page. This is standard information logged by the [Apache](http://www.apache.org/) Web server.
+Some information is automatically logged about you every time you visit a page hosted at our site. Information that may be logged includes your IP address, the site from which the you came, what browser you are using, and what time you went to the page. This is standard information logged by systems running the Apache Web server software.
 
 **Public Domain**  
 All of the message forums at SuddenLaunch are accessable to everyone browsing the Internet. Please excercise caution when posting any personal information on this site.
