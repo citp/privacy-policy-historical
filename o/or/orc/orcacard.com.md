@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the orcacard.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307021747id_/http%3A//www.orcacard.com/ERG-Seattle/common/images/ORCA%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcacard.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024171613id_/https%3A//www.orcacard.com/ERG-Seattle/common/images/ORCA%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
 
 # ORCA Privacy Statement
 
                                                                           ORCA Privacy Statement
-Last Modified February 14, 2011
+Last Modified May 14, 2012
 Welcome to ORCA, which offers people the opportunity to use a single card to ride buses, trains and ferries
 throughout the Puget Sound region.
 The ORCA Privacy Statement explains how information is collected and treated by the Agencies when an individual
@@ -62,14 +62,14 @@ As used in this Privacy Statement, the following terms shall have the meanings i
 2.1 “Agency(ies)” means one or more of the following public transportation providers and the contractors and
 subcontractors which these Agencies, individually or collectively, have retained for purposes related to the ORCA
 Program.
-     Central Puget Sound Regional Transit Authority (“Sound Transit”);
-     City of Everett (“Everett Transit”);
-     King County (“King County Metro”);
-     Kitsap County Public Transportation Benefit Area (“Kitsap Transit”);
-     Pierce County Public Transportation Benefit Area (“Pierce Transit”);
-     Snohomish County Public Transportation Benefit Area (“Community Transit”); and
-     The State of Washington acting through the Washington State Department of Transportation,
-     Washington State Ferries Division (“WSF”)
+    Central Puget Sound Regional Transit Authority (“Sound Transit”);
+    City of Everett (“Everett Transit”);
+    King County (“King County Metro”);
+    Kitsap County Public Transportation Benefit Area (“Kitsap Transit”);
+    Pierce County Public Transportation Benefit Area (“Pierce Transit”);
+    Snohomish County Public Transportation Benefit Area (“Community Transit”); and
+    The State of Washington acting through the Washington State Department of Transportation,
+    Washington State Ferries Division (“WSF”)
 For clarification, the term “Agency(ies)” does not include Business Accounts or Retail Revalue Sites.
 2.2 “Autoload” is the Cardholder-authorized process for automatically loading ORCA Products on a registered
 ORCA Card and making a corresponding charge against the Cardholder’s credit card to pay for the loaded product.
@@ -90,7 +90,7 @@ by, and in accordance with the terms established by the Agencies. ORCA Card can 
 and Business Cards, unless the context indicates it means one or the other.
 2.8 “ORCA Customer Services” are the facilities and services of one or more of the Agencies that exchange
 information with customers regarding the ORCA Program and sell ORCA Cards and ORCA Products, including
-customer service counters, telephone call-in centers, mail-in centers, business account support and fare vending
+customer service counters, telephone call-in centers, mail-in centers, business account support and ticket vending
 machines.
 2.9 “ORCA Product(s)” or “Product(s)” are any transit fare payment option offered for sale within the ORCA
 Program including, but not limited to, monthly or period passes and E-purse.
@@ -118,16 +118,16 @@ services. You may still use cash to purchase ORCA Cards or ORCA Products as desc
 3.2 Your PII is collected in the ORCA Program:
      a. when you use a check, debit card or credit card to purchase an ORCA Card or ORCA Product or authorize
      “Autoload” of ORCA Products to load on an ORCA Card;
-     b. when you establish your eligibility for youth fare, the Regional Reduced Fare Permit for seniors and persons
+     b. when you establish your eligibility for Youth fare, the Regional Reduced Fare Permit for seniors and persons
      with disabilities, and King County’s Access paratransit program;
      c. when you purchase an ORCA Card or Product that requires proof of eligibility under a reduced fare program
      (e.g. a youth fare, a Regional Reduced Fare Permit, a Kitsap Transit Low Income fare, or a King County Access
      pass product);
-     d. when you register an ORCA Card to take advantage of the replacement card benefit or other
-     registration benefits;
+     d. when you register an ORCA Card to take advantage of the replacement card benefit or other registration
+     benefits;
      e. when you surrender your registered card and request a refund of the remaining E-purse value;
      f. when you request customer services such as an e-mail reply or phone call from an ORCA representative; and
-    g. when you use the functionality on password-protected areas of ORCA Websites.
+     g. when you use the functionality on password-protected areas of ORCA Websites.
                                                                                                                     Page 3
 
 
@@ -143,7 +143,7 @@ accept or request PIl from individuals we know to be under 18.
 4.0 Information Related to ORCA Card Issuance and Optional Registration
 4.1 When an ORCA Card is first issued, issuance information is created both in the ORCA central system and in
 the card’s electronic memory. This issuance information includes: the card’s serial number; the type of card; for a
-youth card, the qualifying date of birth to enable automatic conversion to adult card upon the expiration of youth
+Youth card, the qualifying date of birth to enable automatic conversion to Adult card upon the expiration of youth
 status upon end of qualifying age; for an RRFP (Regional Reduced Fare Permit,) an expiration date for temporary
 disabilities and any eligibility for a personal care attendant; for a senior RRFP card, the qualifying date of birth; for
 an ORCA Business Card, the identifying number of the Business Account.
@@ -155,7 +155,7 @@ Program to enable the Agencies to administer and monitor use of these reduced fa
     a. When eligibility for youth fares is established, the date of birth (or for Business Cards, the date that the
     cardholder is no longer eligible for a youth fare) is retained in the ORCA Program.
     b. When eligibility for a Regional Reduced Fare Permit is established, the following is retained in the ORCA
-    Program: First name, Last name, Middle initial (if applicable), Date of birth (for senior and youth only),
+    Program: First name, Last name, Middle initial (if applicable), Date of birth (for Senior and Youth only),
     whether or not a personal care attendant is eligible, Address and Expiration date (if applicable).
     c. When eligibility for King County’s Access paratransit program is established, the following information is
     retained in the ORCA Program to enable loading Access Products on an ORCA Card: First name, Last name,
@@ -173,13 +173,14 @@ debit card (see Section 6 below). Regardless of how you pay, the system will col
 you purchase an ORCA Card or an ORCA Product.
     a. date and time of the purchase;
     b. the serial number of the ORCA Card and the number of the device used to load an ORCA Product if the
-    ORCA Card is presented at a Retail Revalue Site, an Agency customer service office or a fare vending machine;
+    ORCA Card is presented at a Retail Revalue Site, an Agency customer service office or a ticket vending machine;
     c. the serial number of the subject ORCA Card and the processing location information about the purchase if
     the card is not presented for loading the ORCA Product at the time of purchase (e.g. online purchase; mail or
     telephone order; or Autoload);
     d. the amount/type of ORCA Product purchased; and
     e. the amount paid and method of payment (e.g. cash, check, credit or debit card) and related-information as
-    listed in Section 6.                                                                                                Page 4
+    listed in Section 6.
+                                                                                                                        Page 4
 
 
                                                                            ORCA Privacy Statement
@@ -192,9 +193,9 @@ was loaded on the card, the amount/type of ORCA Product loaded, the payment meth
 6.0 Information Related to Purchases Using Credit Cards, Debit Cards and Checks
 6.1 If you purchase an ORCA Card or ORCA Product by a means other than cash payment (or money order),
 you must provide the PII necessary for the transaction and, if applicable, shipment of an ORCA Card. Please note,
-however, the following does not apply when you pay at a Retail Revalue Site (See Section 10 below) or at a fare
-vending machine. Any PII that you provide at a fare vending machine to make payment with a credit or debit card is
-collected and processed under the fare vending machine system, not the ORCA system.
+however, the following does not apply when you pay at a Retail Revalue Site (See Section 10 below) or at a ticket
+vending machine. Any PII that you provide at a ticket vending machine to make payment with a credit or debit card
+is collected and processed under the ticket vending machine system, not the ORCA system.
 6.2 When you pay by personal check, the following information is provided by you or may be collected from the
 face of a check: name; address; driver’s license number; check amount; checking account number; and check routing
 number.
@@ -225,8 +226,8 @@ system collects the following information:
      h. any transfer or incentives applied.
 7.2 The ORCA Card itself contains a record of the last ten (10) uses of the card.
 7.3 Information related to the ORCA Card’s use is associated with the card’s serial number. If you have provided PII
-linked to your card’s serial number, the information about the use of the ORCA Card can be associated with
-your PII.
+linked to your card’s serial number, the information about the use of the ORCA Card can be associated with your
+PII.
                                                                                                                           Page 5
 
 
@@ -264,10 +265,10 @@ We also may collect statistical information about your use of the ORCA Websites,
 “user hits” which are visits and sessions that may be logged to determine which pages are visited most frequently.
  9.3 When you visit ORCA Websites, your computer will receive one or more “cookies.” Cookies are small text files
 placed on a user’s computer and accessed by the ORCA Websites to recognize repeat users, to facilitate the user’s
-ongoing access to and use of the Website, and to compile data to improve the site and related business purposes.
-Most browsers are set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate
-when a cookie is being sent. However, some ORCA Website features and services may not function properly if your
-cookies are disabled.
+ongoing access to and use of the Website, and to compile data to improve the site
+and related business purposes. Most browsers are set up to accept cookies, but you can reset your browser to refuse
+all cookies or to indicate when a cookie is being sent. However, some ORCA Website features and services may not
+function properly if your cookies are disabled.
 9.4 Although it may identify a user’s computer, automatically collected information is not considered PII because
 it does not personally identify individuals. Automatically collected information is typically consolidated on a daily
 basis and kept at an aggregate level by the Agencies’ contractor(s) responsible for providing the ORCA Websites.
@@ -321,21 +322,21 @@ Card use and other ORCA-related activities or products, and for any other ORCA P
                                                                                                                      Page 7
 
 
-                                                                        ORCA Privacy Statement
+                                                                         ORCA Privacy Statement
 12.2 The Agencies will not sell PII to other entities for their marketing purposes. The Agencies will only share PII
 with:
     a. Agency employees, officials and contractors on a “need to know” basis for purposes of fulfilling their duties
     and responsibilities; and
     b. other persons or entities if it is reasonably necessary:
-         1. to satisfy an applicable law or regulation;
-         2. to respond (voluntarily or involuntarily) to a subpoena, court order or other legal process and requests
-         by a governmental agency; and to protect the Agencies from any kind of potential harm (as an Agency
-         perceives that potential in its discretion.);
+          1. to satisfy an applicable law or regulation;
+          2. to respond (voluntarily or involuntarily) to a subpoena, court order or other legal process and requests
+          by a governmental agency; and to protect the Agencies from any kind of potential harm (as an Agency
+          perceives that potential in its discretion.);
           3. to enforce Agency terms of use and other provisions applicable under the ORCA Program or an Agency
-         transportation service, including investigation of potential violations thereof;
-         4. to detect, prevent, or otherwise address fraud, security or technical issues; or
-         5. to protect against harm to the rights, property or safety of the Agencies, the users of their services, or the
-         public, as required or permitted by law.
+          transportation service, including investigation of potential violations thereof;
+          4. to detect, prevent, or otherwise address fraud, security or technical issues; or
+          5. to protect against harm to the rights, property or safety of the Agencies, the users of their services, or the
+          public, as required or permitted by law.
 12.3 Persons or entities that receive information from the Agencies may be able to combine such information with
 other information they independently possess. The Agencies are not responsible for combining or any later use that
 may be made of information provided to others in accordance with this Privacy Statement.
@@ -354,18 +355,19 @@ Act exempts some records from mandatory disclosure. For example, the Act contain
 mandatory disclosure.
 RCW 42.56.330(4) The personally identifying information of current or former participants or applicants in a
 paratransit or other transit service operated for the benefit of persons with disabilities or elderly persons;
-RCW 42.56.330(5) The personally identifying information of persons who acquire and use transit passes and
-other fare payment media including, but not limited to, stored value smart cards and magnetic strip cards, except
-that an agency may disclose this information to a person, employer, educational institution, or other entity that is
-responsible, in whole or in part, for payment of the cost of acquiring or using a transit pass or other fare payment
-media, for the purpose of preventing fraud, or to the news media when reporting on public transportation or public
-safety.
-This information may be disclosed in aggregate form if the data does not contain any personally identifying
-information.
+RCW 42.56.330(5) The personally identifying information of persons who acquire and use transit passes or other
+fare payment media including, but not limited to, stored value smart cards and magnetic strip cards, except that an
+agency may disclose personally identifying information to a person, employer, educational institution, or other entity
+that is responsible, in whole or in part, for payment of the cost of acquiring or using a transit pass or other fare
+payment media, for the purpose of preventing fraud, or to the news media when reporting on public transportation
+or public safety. As used in this subsection, “personally identifying information” includes acquisition or use
+information pertaining to a specific, individual transit pass or fare payment media.
+Information regarding the acquisition or use of transit passes or fare payment media may be disclosed in aggregate
+form if the data does not contain any personally identifying information.
 Personally identifying information may be released to law enforcement agencies if the request is accompanied by a
 court order.
 The Agencies reserve their discretion, if any, to release or withhold records in accordance with the Act.
-                                                                                                                         Page 8
+                                                                                                                          Page 8
 
 
                                                                          ORCA Privacy Statement
@@ -420,10 +422,10 @@ federal courts sitting in King County, Washington that have jurisdiction over th
 Please direct any questions or comments regarding this Privacy Statement to the ORCA Regional Program
      Administrator as follows:
      E-mail: contactus@orcacard.com
-     Telephone: 1-888-988-6722 / TTY Relay: 711/1-888-889-6368 during regular business hours
+     Telephone: 1-888-988-6722 / TTY Relay: 711during regular business hours
      Mail: ORCA Regional Program Administrator
-		        401 S Jackson
-		        Seattle, WA 98104
+         401 S Jackson
+         Seattle, WA 98104
 When we receive formal written questions or complaints at this address, it is our policy to contact the complainant
 regarding his or her concerns.
 20.0 Changes to this Privacy Statement
@@ -436,7 +438,7 @@ under the current Privacy Statement will remain subject to the terms of this Sta
 all new information we collect, if any, will be subject to the new Statement.
 Alternate formats available upon request.
 1-888-988-6722 (ORCA)
-TTY Relay: 711/1-888-889-6368
+TTY Relay: 711
 email: contactus@orcacard.com
 2-2011.OPS
                                                                                                                        Page 10
