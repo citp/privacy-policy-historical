@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ridgid.com privacy policy that was archived on 2012-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519030406id_/http%3A//www.ridgid.com/Tools/Privacy-Policy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ridgid.com privacy policy that was archived on 2012-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121024194845id_/http%3A//www.ridgid.com/Tools/Privacy-Policy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy - RIDGID Professional Tools</title>
@@ -218,6 +218,13 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+var a = document.getElementsByTagName('a');
+  for(i = 0; i < a.length; i++){
+      if (a[i].href.indexOf(location.host) == -1 && a[i].href.match(/^http:\/\//i)) {
+          a[i].onclick = function () { _gaq.push(['_trackEvent', 'outgoing_links', this.href.replace(/^http:\/\//i, '')]); }
+       }
+  }
+  
 </script>
 <script src="/assets/js/gaAddons.js" type="text/javascript"></script>
 <script type="text/javascript"><!--
