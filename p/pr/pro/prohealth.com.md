@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011354id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024095917id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.*
 
 # ProHealth Vitamin & Supplement Store: Privacy Policy
 
@@ -15,7 +15,7 @@ If you choose not to accept cookies in your browser you will still be able to ac
 
 If you supply us with an email or postal address, we can send you periodic emails or catalogs with information about ProHealth products, research and upcoming events. You may opt out from receiving emails or postal communications at any time. 
 
-We use third-party companies to help us provide our products and information to you. Some of these companies are given limited access to some of the information you provide to us and may use cookies on our behalf. These companies are contractually restricted from using your information in any manner, other than in helping us provide you with the products and information most relevant to you. 
+ProHealth strives to give you the best website experience anywhere, and to do so we use third-party companies to provide our ProHealth products and information to you. Some of these trusted and carefully-screened companies are given limited access to some of the information you provide to us and may use cookies on our behalf. These companies are contractually restricted from using your information in any manner, other than in helping us provide you with the products and information most relevant to you while you are using the ProHealth website. 
 
 **Protection of Customer and User Information**
 
@@ -42,4 +42,4 @@ If you do not wish to receive email or postal mail from us, or have any question
 >  Santa Barbara, CA 93103 USA  
 >  Customer Service: (800) 366-6056  
 >  International: 001.805.564.3064  
->  Fax: (805) 965-0042 
+>  Fax: (805) 963-4515 
