@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626074102id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024071525id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We have policies and procedures in place to protect the safety of your personal 
 
 [Learn more about what we do with your personal information](https://web.archive.org/pdfsource/GeneralPrivacyStatement.pdf). 
 
-[Learn more about what BECU Trust Company does with your personal information](https://web.archive.org/pdfsource/6983.pdf). 
+[Learn more about what BECU Trust Company does with our clients' information](https://web.archive.org/pdfsource/6983.pdf). 
 
 ### Security
 
