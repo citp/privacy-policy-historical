@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printableworksheets.in privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626045020id_/http%3A//printableworksheets.in/index.php/43-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printableworksheets.in privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025011227id_/http%3A//printableworksheets.in/index.php/43-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Printable Worksheets
 
