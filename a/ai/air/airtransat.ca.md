@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124625id_/http%3A//www.airtransat.ca/EN/Info/privacy-policy-and-legal-notice.aspx%3FExitID%3D765%26ContentType%3Dgamme) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024071116id_/http%3A//www.airtransat.ca/en/Footers/Footer/Privacy-policy-and-Legal-notice%3FID%3D765%26type%3Dgamme%26tmpl%3DGEN) for the most accurate reproduction.*
 
 # Privacy | Air Transat
 
