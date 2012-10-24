@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealtime.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623121302id_/http%3A//www.shopping.com/sc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtime.co.uk privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024195947id_/http%3A//uk.shopping.com/sc/privacy-policy) for the most accurate reproduction.*
 
-# Shopping.com - Shopping made simple
+# Shopping.com UK - Find, Compare, and Buy Anything in Seconds
 
-September 13th, 2010 
+July 2, 2012 
 
-On September 13th, 2010, the Privacy Policy for shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions, please contact [Customer Support](https://web.archive.org/sc/contact-us).
+On July 2, 2012, the Privacy Policy for shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions, please contact [Customer Support](https://web.archive.org/sc/contact-us).
 
 ### Your Privacy
 
@@ -89,7 +89,7 @@ We may use the public content to develop aggregate ratings, personalize site vie
 
 ### Cookies and Web Beacons
 
-**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers.
+**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic, tack conversion and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers.
 
 You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access the Shopping.com Network as a registered member.
 
@@ -161,11 +161,11 @@ We don't permit third-party content on shopping.com (such as item listings) to i
 
 ## Datenschutzerklärung
 
-Stand: March 2011
+Stand: 02.07.2012 
 
-Diese Datenschutzerklärung wurde zuletzt am 11.03.2011 aktualisiert. Bitte nehmen Sie sich ein paar Minuten Zeit, um die veränderten Bestimmungen zu lesen. Falls Sie irgendwelche Fragen haben, oder mit den Veränderungen nicht einverstanden sind, kontaktieren Sie bitte den Kundenservice.
+Diese Datenschutzerklärung wurde zuletzt am 02.07.2012 aktualisiert. Bitte nehmen Sie sich ein paar Minuten Zeit, um die veränderten Bestimmungen zu lesen. Falls Sie irgendwelche Fragen haben, oder mit den Veränderungen nicht einverstanden sind, kontaktieren Sie bitte den Kundenservice.
 
-Die deutschsprachigen Websites [www.de.shopping.com](http://www.de.shopping.com/) gehören und werden betrieben von der Shopping Epinions International Limited (nachfolgend Shopping.com), ein zur eBay-Gruppe gehörendes Unternehmen. Der Zweck dieser Datenschutzerklärung ist es Ihnen zu erklären, wie wir und andere Mitglieder der eBay-Gruppe Ihre personenbezogenen Daten nutzen und, soweit erforderlich, Ihre Zustimmung für bestimmte Nutzungen einzuholen.
+Die deutschsprachigen Websites [www.de.shopping.com](http://www.de.shopping.com/) gehören und werden betrieben von der Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, ein zur eBay-Gruppe gehörendes Unternehmen. Der Zweck dieser Datenschutzerklärung ist es Ihnen zu erklären, wie wir und andere Mitglieder der eBay-Gruppe Ihre personenbezogenen Daten nutzen und, soweit erforderlich, Ihre Zustimmung für bestimmte Nutzungen einzuholen.
 
 Shopping.com erhebt, verarbeitet und nutzt Ihre Daten gemäß den geltenden datenschutzrechtlichen Bestimmungen. Verantwortliche Stelle für die Einhaltung der datenschutzrechtlichen Bestimmungen bei der Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten ist die Shopping Epinions International Limited. Der Firmensitz von Shopping Epinions International Limited ist Irland. Nach § 1 Abs. 5 Bundesdatenschutzgesetz richtet sich daher der Umgang mit Ihren personenbezogenen Daten nach irischem Datenschutzrecht. 
 
@@ -268,27 +268,21 @@ Shopping.com ist strikt gegen unaufgefordert versandte, kommerzielle E-Mails ode
 
 Wenn Sie Fragen zu diesen Datenschutzbestimmungen, der Handhabung der Website oder zu Shopping.com haben, wenden Sie sich bitte an:   
 Customer Support (Kundenbetreuung)  
-**Impressum:**  
-Shopping Epinions International Limited  
-Arthur Cox Building  
-Earlsfort Terrace  
-Dublin 2  
-Irland  
-Angemeldet in Dublin mit der Registrierungsurkundennummer 409492.
-
- **Kontakt:**  
-Shopping Epinions International Limited  
-Unit 6, Blanchardstown Corporate Park  
-Dublin 15  
-Irland
+**Kontakt:**  
+Shopping.com, Inc.  
+8000 Marina Boulevard  
+Fifth Floor  
+Brisbane, CA 94005  
+phone: 650.616.6500  
+fax: 650.616.6510
 
 ## Règle de respect de la vie privée
 
-Dernière mise à jour : Mars 11, 2011 
+Dernière mise à jour : 2 Juillet, 2012 
 
-Le Mars 11, 2011 , le règlement sur le Respect de la Vie Privée de Shopping.com a été modifié. Merci de prendre quelques minutes pour lire le règlement modifié. Si vous avez des questions ou souhaitez vous opposer à ces modifications, merci de contacter notre Service Client. 
+Le 2 Juillet 2012, le règlement sur le Respect de la Vie Privée de Shopping.com a été modifié. Merci de prendre quelques minutes pour lire le règlement modifié. Si vous avez des questions ou souhaitez vous opposer à ces modifications, merci de contacter notre Service Client. 
 
-Les sites Web du réseau Shopping.com sont mis à votre disposition par Shopping Epinions International Limited, Unit 6 Blanchardstown Corporate Park, Dublin 15, Irlande, une société membre du groupe eBay Inc. Ce règlement sur le respect de la vie privée décrit la manière dont nous utilisons et protégeons vos informations sur les sites Web du réseau Shopping.com et sur d'autres pages en ligne dans lesquelles vous pouvez interagir avec le contenu ou les services Shopping.com. 
+Les sites Web du réseau Shopping.com sont mis à votre disposition par Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, une société membre du groupe eBay Inc. Ce règlement sur le respect de la vie privée décrit la manière dont nous utilisons et protégeons vos informations sur les sites Web du réseau Shopping.com et sur d'autres pages en ligne dans lesquelles vous pouvez interagir avec le contenu ou les services Shopping.com. 
 
 En utilisant le réseau Shopping.com, vous adhérez aux dispositions des [Conditions générales](https://web.archive.org/sc/terms-of-service) d'utilisation et de ce règlement sur le Respect de la vie privée, et vous acceptez nos pratiques dans ce domaine. Ceci inclut l'utilisation et la divulgation de toute information personnelle que vous nous aurez communiquée ainsi que son transfert et son stockage sur nos serveurs aux Etats-Unis et partout où nous avons une présence physique. 
 
@@ -362,7 +356,7 @@ Nous pouvons utiliser ce contenu public pour déterminer des notes globales, per
 
 ### Cookies et repères Web
 
-**Cookies Shopping.com.** Lorsque vous consultez nos pages ou nos sites co-marqués, il est possible que Shopping.com ou d'autres sociétés membres de notre groupe fournissant des services communs et nos fournisseurs de service placent des cookies anonymes ou des repères Web sur votre ordinateur. Nous utilisons ces cookies et ces repères pour reconnaître les utilisateurs qui ont déjà visité le site, mesurer le trafic et l'activité sur les sites, surveiller et améliorer nos services, et assurer une protection contre la fraude. Nous utilisons également ces cookies pour affiner nos services, contenus, publicités, et offres promotionnelles 
+**Cookies Shopping.com.** Lorsque vous consultez nos pages ou nos sites co-marqués, il est possible que Shopping.com ou d'autres sociétés membres de notre groupe fournissant des services communs et nos fournisseurs de service placent des cookies anonymes ou des repères Web sur votre ordinateur. Nous utilisons ces cookies et ces repères pour reconnaître les utilisateurs qui ont déjà visité le site, mesurer le trafic, mesurer la conversion et l'activité sur les sites, surveiller et améliorer nos services, et assurer une protection contre la fraude. Nous utilisons également ces cookies pour affiner nos services, contenus, publicités, et offres promotionnelles 
 
 Vous pouvez bloquer les cookies en modifiant les paramètres de votre navigateur (contactez votre fournisseur de services Internet pour obtenir de l'aide). Dans ce cas, certains services ne vous seront peut-être plus accessibles. Votre navigateur doit par ailleurs accepter les cookies pour que vous puissiez accéder au réseau Shopping.com en tant que membre inscrit. 
 
@@ -389,21 +383,20 @@ Nous pouvons modifier régulièrement ce règlement. Dans ce cas, nous publieron
 Pour toute question sur ce règlement ou sur les pratiques du réseau Shopping.com, envoyez un e-mail à notre ou [département Respect de la vie privée](https://web.archive.org/sc/contact-us) ou contactez : 
 
 **Le Service Clients**  
-Shopping Epinions International Ltd.  
-The Atrium Building  
-Old Navan Road  
-Blanchardstown Centre  
-Dublin 15  
-Ireland  
-V.A.T. Number: 6429492S
+Shopping.com, Inc.  
+8000 Marina Boulevard  
+Fifth Floor  
+Brisbane, CA 94005  
+phone: 650.616.6500  
+fax: 650.616.6510
 
 E-mail: [commentairesfrance@shopping.com](mailto:commentairesfrance@shopping.com)
 
-Last Updated: March 11, 2011
+Last Updated: July 2, 2012
 
-On March 11, 2011, the Privacy Policy for uk.shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions or wish to object to these changes, please contact [Customer Support](https://web.archive.org/sc/contact-us)
+On July 2, 2012, the Privacy Policy for uk.shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions or wish to object to these changes, please contact [Customer Support](https://web.archive.org/sc/contact-us)
 
-The websites of the Shopping.com Network - uk.shopping.com, and dealtime.co.uk - are brought to you by Shopping Epinions International Limited, Unit 6 Blanchardstown Corporate Park, Dublin 15, Ireland, a member of the eBay Inc. corporate family. This Privacy Policy tells you how we use and protect your information on the websites of the Shopping.com Network and in other locations online where you interact with Shopping.com content or services. 
+The websites of the Shopping.com Network - uk.shopping.com, and dealtime.co.uk - are brought to you by Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, , a member of the eBay Inc. corporate family. This Privacy Policy tells you how we use and protect your information on the websites of the Shopping.com Network and in other locations online where you interact with Shopping.com content or services. 
 
 By using the Shopping.com Network, you agree to the terms of the User Agreement, including this Privacy Policy, and you consent to our privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States and elsewhere we have facilities. 
 
@@ -477,7 +470,7 @@ We may use the public content to develop aggregate ratings, personalize site vie
 
 ### Cookies and Web Beacons
 
-**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers. 
+**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic, track conversion and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers. 
 
 You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access the Shopping.com Network as a registered member. 
 
@@ -504,18 +497,12 @@ We may change this policy from time to time, and we will post the amended terms 
 If you have any questions about this privacy policy or the practices of the Shopping.com Network, you may e-mail our [Privacy Department](https://web.archive.org/sc/contact-us) or contact: 
 
 Customer Support  
-Shopping Epinions International Ltd.  
-Unit 6 Blanchardstown Corporate Park  
-Dublin 15  
-Ireland 
-
-Shopping Epinions International Ltd.  
-The Atrium Building  
-Old Navan Road  
-Blanchardstown Centre  
-Dublin 15  
-Ireland  
-V.A.T. Number: 6429492S
+Shopping.com, Inc.  
+8000 Marina Boulevard  
+Fifth Floor  
+Brisbane, CA 94005  
+phone: 650.616.6500  
+fax: 650.616.6510
 
 Shopping.com UK Client Services  
 Client Support Tel no - 0208 605 3345 or 0208 605 3364.  
@@ -523,11 +510,11 @@ Email - [clientsupport@shopping.com](mailto:clientsupport@shopping.com)
 
 ## Privacy Policy
 
-Last Updated: March 11, 2011
+Last Updated: July 2, 2012
 
-On March 11, 2011, the Privacy Policy for shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions or wish to object to these changes, please contact [Customer Support](https://web.archive.org/sc/contact-us). 
+On July 2, 2012, the Privacy Policy for shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions or wish to object to these changes, please contact [Customer Support](https://web.archive.org/sc/contact-us). 
 
-The websites of the Shopping.com Network are brought to you by Shopping Epinions International Limited, Unit 6 Blanchardstown Corporate Park, Dublin 15, Ireland, a member of the eBay Inc. corporate family. This Privacy Policy tells you how we use and protect your information on the websites of the Shopping.com Network and in other locations online where you interact with Shopping.com content or services.
+The websites of the Shopping.com Network are brought to you by Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, , a member of the eBay Inc. corporate family. This Privacy Policy tells you how we use and protect your information on the websites of the Shopping.com Network and in other locations online where you interact with Shopping.com content or services. 
 
 By using the Shopping.com Network, you agree to the terms of the User Agreement, including this Privacy Policy, and you consent to our privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States and elsewhere we have facilities.
 
@@ -599,7 +586,7 @@ We may use the public content to develop aggregate ratings, personalize site vie
 
 ### Cookies and Web Beacons
 
-**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers. 
+**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic, track conversion and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers. 
 
 You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access the Shopping.com Network as a registered member. 
 
@@ -625,10 +612,9 @@ We may change this policy from time to time, and we will post the amended terms 
 
 If you have any questions about this privacy policy or the practices of the Shopping.com Network, you may e-mail our [Privacy Department](https://web.archive.org/sc/contact-us) or contact: 
 
-Shopping.com Australia Pty Ltd.  
-Attn:  Customer Support/Privacy  
-Level 19  
-1 York Street  
-Sydney, NSW 2000  
-Australia  
-
+Shopping.com, Inc.  
+8000 Marina Boulevard  
+Fifth Floor  
+Brisbane, CA 94005  
+phone: 650.616.6500  
+fax: 650.616.6510
