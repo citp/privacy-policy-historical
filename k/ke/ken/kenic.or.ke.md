@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenic.or.ke privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508002938id_/http%3A//www.kenic.or.ke/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenic.or.ke privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024040244id_/http%3A//www.kenic.or.ke/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
