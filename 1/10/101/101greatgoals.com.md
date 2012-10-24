@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607063514id_/http%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024084225id_/http%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
 
 # 101 Great Goals Privacy and Cookie Policy | 101 Great Goals Football site
 
