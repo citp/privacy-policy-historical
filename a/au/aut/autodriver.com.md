@@ -1,87 +1,49 @@
-> *The following text is extracted and transformed from the autodriver.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826230758id_/http%3A//www.autodriver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodriver.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024225246id_/http%3A//www.autodriver.com/privacy.htm) for the most accurate reproduction.*
 
-# -
+# Privacy Policy
 
-## Autodriver.com LLC Website Privacy Statement
+In accordance with federal regulations, Adaroo.com LLC is giving you this notice to tell you how we may use non-public personal information you provided us in connection with a financial product or service you have obtained, or sought to obtain, from us. We call this nonpublic personal information "Private Information" and describe it below. This notice applies to your Private Information while you are our customer, as well as after our customer relationship is terminated.
 
-This document was last updated on May 20, 2009.
+Collection and Use of Private Information
 
-  1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
+We collect the following types of Private Information about you from the following sources:
 
-Autodriver.com LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.autodriver.com, you acknowledge and fully understand Autodriver.com LLC's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
-
-  
-
-  2. **PARTICIPATING MERCHANT POLICIES**
-
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Autodriver.com LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
-
-  
-
-  3. **INFORMATION WE COLLECT AND HOW WE USE IT**
-
-Autodriver.com LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
-
-  
-
-    1. **Web Server Logs.**
-
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
-
-      * Your Internet protocol address. 
-      * The kind of browser or computer you use. 
-      * Number of links you click within the site. 
-      * State or country from which you accessed the site. 
-      * Date and time of your visit. 
-      * Name of your Internet service provider. 
-      * Web page you linked to our site from. 
-      * Pages you viewed on the site. 
-  
-
-    2. **Use of Cookies**
-
-Autodriver.com LLC may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
-
-Autodriver.com LLC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into Autodriver.com LLC.com a site that relies on third-party cookies).
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-    3. **Personal Information Users**
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-      * To fulfill your service requests for services. 
-      * To protect ourselves from liability, 
-      *       * To respond to legal process or comply with law, or
-      * In connection with a merger, acquisition, or liquidation of the company.
-  
-
-  4. **USE OF WEB BEACONS OR GIF FILES**
-
-www.autodriver.com Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Autodriver.com LLC to count users who have visited those pages and to deliver co-branded services. Autodriver.com LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Autodriver.com LLC prohibits Web beacons from being used to collect or access your personal information.
-
-  5. **ACCESSING WEB ACCOUNT INFORMATION**
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant - info@autodriver.com.
-
-  6. **CHANGES TO THIS STATEMENT**
-
-Autodriver.com LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the 'updated' date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-  7. **CONTACTING US**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us info@autodriver.com or send your comments to:
+  * Information we receive from you on applications or other forms, such as your name, address, social security number and income.
+  * Information about your transactions with us, our affiliates, or others, such as your account balance and payment history.
+  * Information we receive from consumer reporting agencies, such as your credit history and creditworthiness.
 
 
 
+## Disclosure of Private Information
 
-> Autodriver.com LLC  
->  **Attention: Privacy Statement Personnel**  
->  AutoDriver, LLC PO Box 2052 Petersburg, VA 23804   
->  Autodriver.com LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
+We may disclose Private Information (described above) under the following circumstances:
+
+(1) Among Affiliates  
+There are two special categories of Private Information. One is information about your history of dealing with us, such as identification information, account history and balances and payment history (which we refer to as "Transaction Information"). The other is information received from other sources, including information typically found in a credit report (which we refer to as "Third Party Information"). We may share all Private Information that consists of Transaction Information with our affiliates. Our affiliates include a mortgage broker. We do this to provide you with the products and services we and our affiliates offer. We do not share Third Party Information with our affiliates.
+
+(2) With Other Financial Service Providers  
+When you apply to us for credit, or when a dealer forwards your credit application to us for approval, we will share all Private Information we obtain about you in that transaction with other lenders and finance companies (including motor vehicle dealers providing vehicle financing) who are necessary to our credit decision making process.
+
+(3) With Service Providers and Joint Marketing Partners  
+We may disclose all Private Information we collect to companies that perform services on our behalf, including companies we engage to market our products and services for us, or to other financial institutions with which we have joint marketing agreements including motor vehicle dealers providing vehicle financing.
+
+(4) With Non-Affiliated Marketing Companies  
+In order to provide you with additional product and service offerings, we may disclose all Private Information about you with trustworthy and reputable third parties such as:
+
+  * Financial service providers
+  * Non-financial companies
+  * Others
+
+
+
+IF YOU PREFER THAT WE NOT DISCLOSE YOUR PRIVATE INFORMATION WITH NON-AFFILIATED MARKETING COMPANIES, YOU MAY "OPT-OUT" OF THOSE DISCLOSURES, THAT IS, YOU MAY DIRECT US NOT TO MAKE THOSE DISCLOSURES (OTHER THAN DISCLOSURES OTHERWISE PERMITTED BY LAW). AFTER COMPLETION OF THE APPLICATION BY SENDING AN EMAIL TO THE ADDRESS  SHOWN ON THE CONTACT PAGE.
+
+(5) With Other Third Parties
+
+We may share all Private Information about you with other non-affiliated third parties, as permitted by law.
+
+Protection of Information
+
+We restrict access to Private Information about you to our employees and third parties who need to know that information in order to manage your account. Additionally, we take other steps to protect your Private Information in a manner consistent with industry standards for similar sized finance companies. We will review our safeguards from time to time, and strive to maintain them in a manner consistent with federal regulations, if any, that may be in effect from time to time. Our employees are trained and required to maintain our privacy policies and procedures. Employees who violate these policies and procedures are subject to disciplinary action.
+
+**Website Ownership and Contact Information**
