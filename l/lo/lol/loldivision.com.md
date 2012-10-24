@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loldivision.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630114249id_/http%3A//www.loldivision.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loldivision.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024091354id_/http%3A//www.loldivision.com/page/privacy.html) for the most accurate reproduction.*
 
 # It's All About The LOL! - LOL! Division!
 
