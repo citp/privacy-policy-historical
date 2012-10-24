@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505023743id_/http%3A//www.socialsurf4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024142742id_/http%3A//www.socialsurf4u.com/privacy.php) for the most accurate reproduction.*
 
 # SocialSurf4U.com - Privacy Policy
 
@@ -27,6 +27,3 @@ A member, at any time, may go to their account information and update their info
 
 **Contact Information**  
 If you have any questions, concerns or comments about our privacy policy you can contact us by sending an email to admin[at]socialsurf4u.com 
-
-Members Banner Advertisement  
-[](http://www.socialsurf4u.com/hit.php?banneris=652)
