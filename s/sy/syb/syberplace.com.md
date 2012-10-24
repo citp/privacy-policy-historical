@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611083306id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024025459id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
 
 # SyberPlace | Privacy Policy
 
@@ -21,7 +21,3 @@ We may change this Privacy Policy, or change, modify or withdraw access to this 
 **External Links**
 
 SyberPlace.com contains links to other sites, whilst we try to link only to sites that share our high standards and our respect for privacy, we cannot be responsible for the content or the privacy practices employed by other sites.
-
-**How to contact SyberPlace about this privacy policy?**
-
-It is important to us at SyberPlace to hear what visitors have to say about our services, and our policies. If site visitors have any questions, concerns, or complaints about this Privacy Policy, or want to let us know what they think about SyberPlace.com or the products and services that we offer, they can send us an email at admin@syberplace.com.
