@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508092156id_/https%3A//www.usconcealedcarry.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024060736id_/https%3A//www.usconcealedcarry.com/policies/privacy) for the most accurate reproduction.*
 
-# - USConcealedCarry.com
+# Privacy Policy | USConcealedCarry.com - USConcealedCarry.com
 
 #### Overview
 
@@ -51,4 +51,4 @@ If you have questions regarding our privacy policy, feel free to let us know, us
 Thanks!  
 
 
-Tim Schmidt President and CEO USConcealedCarry.com
+Tim Schmidt President and CEO US Concealed Carry Association
