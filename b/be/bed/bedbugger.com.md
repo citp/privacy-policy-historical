@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505025151id_/http%3A//bedbugger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024232531id_/http%3A//bedbugger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Got bed bugs? Bedbugger.com
 
@@ -10,8 +10,11 @@ The privacy of our visitors to Bedbugger.com is important to us.
 
 At Bedbugger.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Bedbugger.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-Email Addresses, phone numbers, names  
-The email address you use to register or post can be seen by us, but we do not share this with third parties. We beg you not to post your email address or phone number in any of your forum posts or blog comments! We can’t be responsible for deleting email addresses or phone numbers you choose to post. We ask that you consider carefully whether you wish to use your real name on Bedbugger.com or not, before posting.
+Email Addresses, phone numbers, names
+
+The email address you use to register or post can be seen by us, but we do not share this with third parties.  We can’t be responsible for deleting email addresses or phone numbers you choose to post. We ask that you consider carefully whether you wish to use your real name on Bedbugger.com or not, before posting.
+
+We may email you at the address provided in your profile in connection with your site use.
 
 Log Files
 
@@ -21,7 +24,7 @@ Cookies and Web Beacons
 
 We do use cookies to store information, such as your personal preferences when you visit our site. For example, when you return to the site, cookies mean you do not have to log in each time.
 
-We also use third party advertisements on Bedbugger.com to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Chicago-related ads to someone in Chicago, for example). 
+We also use third party advertisements on Bedbugger.com to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Chicago-related ads to someone in Chicago, for example).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
@@ -33,9 +36,37 @@ We use third-party advertising companies to serve ads when you visit our website
 
 Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to you based on your visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/privacy_ads.html) This will change the Google ads you see on Bedbugger.com and on other sites where Google ads are shown.
 
+Other uses of information
+
+We may use your information (including IP address, ISP, email, and other information provided by you or otherwise tracked as noted above) to enforce Bedbugger.com’s [Terms and Conditions of Use](http://bedbugger.com/terms-conditions "Terms and Conditions of Site User") or prevent or respond to improper activity related to the site or to prevent or respond to illegal activity.  In the event of suspected illegal activity, this information may be shared with law enforcement.
+
 Contact Form
 
-We use a secure contact form. If you choose to send a message via the contact form, it will go to nobugsonme, the site owner.
+We use a secure [contact form](http://bedbugger.com/about/contact "Contact form"). If you choose to send a message via the contact form, it will go to nobugsonme, the site owner.
 
 _  
 *This statement was based in part on a template by[JenSense.](http://www.jensense.com/2008/03/05/adsense-friendly-privacy-policy-sample-for-adsense-publishers-to-use/ "jensense") Thanks JenSense!_
+
+CHANGES:
+
+Updated 9/17/2012:
+
+  * Section on “Email Addresses, phone numbers, names”: added:
+
+
+
+> “We may email you at the address provided in your profile in connection with your site use.”
+
+  * Added link to contact form
+
+
+
+Added 9/17/2012:
+
+  * Added new section: Other uses of information
+
+
+
+> “We may use your information (including IP address, ISP, email, and other information provided by you or otherwise tracked as noted above) to enforce Bedbugger.com’s [Terms and Conditions of Use](http://bedbugger.com/terms-conditions "Terms and Conditions of Site User") or prevent or respond to improper activity related to the site or to prevent or respond to illegal activity.  In the event of suspected illegal activity, this information may be shared with law enforcement.”
+
+### Share and Enjoy
