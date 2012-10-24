@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byohosting.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224184257id_/http%3A//www.byohosting.com/%3Flang%3Den%26action%3Dterms%26section%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byohosting.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024065746id_/http%3A//www.byohosting.com/%3Flang%3Den%26action%3Dterms%26section%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ByoHosting
 
@@ -33,3 +33,23 @@ Your registration information is needed in order for us to operate the site, to 
 New customers will receive a ByoHosting welcome e-mail containing information about the features provided by the Service, as well as WHCP (Web Hosting Control Panel) and FTP login details. ByoHosting may also send system notifications upon need, related to any upgrade, maintenance or other service issues concerning your hosting account. 
 
 ByoHosting will keep your personally identifiable information private and will NOT share it with any unauthorized third parties. 
+
+**COOKIES**  
+We use different cookies on our website to make it as useful to you as possible. Cookies are small text files that we put on your computer or mobile device to tell us what you want to use on our site but they do not tell us who you are.
+
+[Here](http://www.aboutcookies.org/default.aspx) you can learn more about cookies and how to [control](http://www.aboutcookies.org/default.aspx?page=1) or [delete](http://www.aboutcookies.org/default.aspx?page=2) them.
+
+Here are the cookies that we use on our site: 
+
+_Essential cookies_  
+We use a cookie to remember your login for you and what you’ve put in the shop cart. Also, we set a cookie to help you choose a preferred font size for using the site. These cookies we consider essential for the operation of our website. 
+
+_External web services_  
+We use an external live chat service (using cookies to remember your session name) to deliver real time support to you should you want to.
+
+_Payment processing_  
+To process payments online, we require the billing address for the credit card used and our external payment provider, PayPal/WorldPay, requires your credit card details.
+
+We assume you are happy with this usage of cookies on this website. If you are not happy, then you should either not use this site, or delete the cookies (you can check out how to do that according to your browser [here](http://www.aboutcookies.org/Default.aspx?page=2)), or browse the site using your browser’s anonymous usage setting (named “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.).
+
+Please remember that if you choose to delete the cookies or use the browser anonymously, you may find that certain sections of this website do not work properly.
