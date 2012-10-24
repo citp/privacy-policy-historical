@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125161223id_/http%3A//www.yslbeautyus.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024153519id_/http%3A//www.yslbeautyus.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # YSL Beauty US by Yves Saint Laurent – Official Online Store
 
@@ -9,7 +9,7 @@ What does this privacy policy cover?
 
 This Privacy Policy applies to any personal information collected through the Site, in circumstances when you knowingly provide such information to us. 
 
-YSL Beauté reserves the right to make changes to the Site and its disclaimers, policies, and terms and conditions at any time without notice. If YSL Beauté makes a material modification to these Terms and Conditions, including the Privacy Policy, it will notify you by sending an e-mail to the e-mail address associated with your account or by displaying a prominent announcement above the text of this Terms and Conditions or the Privacy Policy, as appropriate, for thirty (30) days. YSL Beauté is not responsible if you do not receive such notification email due to the actions of your ISP or any email filtering service.
+YSL Beauté reserves the right to make changes to the Site and its disclaimers, policies, and terms and conditions at any time without notice. If YSL Beauté makes a material modification to these Terms and Conditions, including the Privacy Policy, it will notify you by sending an e-mail to the e-mail address associated with your account or by displaying a prominent announcement above the text of the Terms and Conditions or the Privacy Policy, as appropriate, for thirty (30) days. YSL Beauté is not responsible if you do not receive such notification email due to the actions of your ISP or any email filtering service.
 
 ### Personal information collection and usage
 
