@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slim9.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505122701id_/http%3A//www.slim9.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slim9.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024231728id_/http%3A//www.slim9.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Montreal, Quebec
 H3P 3H8  
 Canada 
 
-We can be reached via e-mail at our [contact us](https://web.archive.org/web/20120505122701id_/http%3A//www.slim9.com/contact.php) page or you can reach us by telephone at 1-877-79-SLIM9 (75469) 
+We can be reached via e-mail at our [contact us](https://web.archive.org/web/20121024231728id_/http%3A//www.slim9.com/contact.php) page or you can reach us by telephone at 1-877-79-SLIM9 (75469) 
 
 As each patients privacy is greatly important to us, Slim9 will never disclose any personal information to any third-parties. Your name, e-mail address and all other personal information will not be sold or used for any other purpose than processing your order. Information such as your telephone number and e-mail address are optional and only assist us in providing order confirmations and tracking information. 
 
@@ -35,4 +35,4 @@ Slim9 will never solicit via telephone, fax, e-mail or direct mail, this is stri
 
 
 
-[](https://web.archive.org/web/20120505122701id_/http%3A//www.slim9.com/products.php)
+[](https://web.archive.org/web/20121024231728id_/http%3A//www.slim9.com/products.php)
