@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521003056id_/http%3A//www.justfreestuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025004216id_/http%3A//www.justfreestuff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,7 +49,7 @@ Any other questions? Please contact us directly at: [james@justfreestuff.com](m
 
 James Barton  
 Webmaster/Administrator  
-JFSNetwork  
-6351 W. Montrose, #241  
-Chicago, Illinois. 60634-1563  
+Just Free Stuff  
+4740 N. Cumberland Ave. #379  
+Chicago, Illinois. 60656  
 [JustFreeStuff.com](http://www.justfreestuff.com/)
