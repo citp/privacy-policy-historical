@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stormpulse.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214140413id_/http%3A//www.stormpulse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormpulse.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024161450id_/https%3A//secure.www.stormpulse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Stormpulse / Hurricanes, severe weather, tracking, mapping
 
@@ -14,7 +14,7 @@ Your privacy is critically important to us. At Stormpulse we have a few fundamen
 
 Below is our privacy policy which incorporates these goals:
 
-Stormpulse Inc. (" **Stormpulse** ") operates [stormpulse.com](http://www.stormpulse.com/). It is Stormpulse's policy to respect your privacy regarding any information we may collect while operating our websites.
+Stormpulse, LLC (" **Stormpulse** ") operates [stormpulse.com](http://www.stormpulse.com/). It is Stormpulse's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -25,9 +25,6 @@ Stormpulse also collects potentially personally-identifying information like Int
 ### Gathering of Personally-Identifying Information
 
 Certain visitors to Stormpulse's websites choose to interact with Stormpulse in ways that require Stormpulse to gather personally-identifying information. The amount and type of information that Stormpulse gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [stormpulse.com](http://www.stormpulse.com/) to provide a username and email address. Those who engage in transactions with Stormpulse—by purchasing access to the Stormpulse Advanced service, for example—are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Stormpulse collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Stormpulse. Stormpulse does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
-**Why do you ask for my birthdate and gender?**  
-Users registering for a free version of Stormpulse's services are asked to provide age and gender. Stormpulse uses this information to improve the quality of the advertising programs that support our free services. This information is never shared with other companies or services at the individual or personal level (see the next section on 'Aggregated Statistics'). If you do not wish to provide this information, you may use the free, non-registered version of Stormpulse, minus the additional features provided with registration.
 
 ### Aggregated Statistics
 
