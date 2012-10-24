@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carepages.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510051508id_/https%3A//cms.carepages.com/CarePages/en/Policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carepages.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024171933id_/https%3A//cms.carepages.com/CarePages/en/Policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
