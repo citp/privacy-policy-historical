@@ -1,44 +1,6 @@
-> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610032957id_/http%3A//www.ashford.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024072111id_/http%3A//www.ashford.edu/privacy.htm) for the most accurate reproduction.*
 
 # UPDATED Privacy Policy | Ashford University
-
-[](https://web.archive.org/index.htm)
-
-  * [ Student Portal](https://student.ashford.edu/)
-  * [ Apply Now](https://oap.ashford.edu/)
-
-
-
-  *     * Faculty • Alumni • Success Stories 
-
-## Thrive with us.
-
-You've found Ashford University, a vibrant community that combines a traditional college campus with effective learning online. Here you'll experience a quality online education infused with history. 
-
-  *     *   *     * ## Set yourself up to succeed.
-
-It can seem overwhelming to enroll in school and finance your education. But have no fear – from transfer credits to financial aid, your team of advisors will be there for you every step of the way. 
-
-Of course, it's best to start by speaking with your very own Admissions Counselor, who will guide you through the steps and answer your every question.
-
-  *     *   *     * ## Go Saints!
-
-Athletics are an essential piece of the Ashford experience. As a student on campus in Clinton, Iowa, you have the opportunity to play, compete, and win! 
-
-Ashford University's Saints compete as members of the Midwest Collegiate Conference (MCC), which includes nine regional colleges and universities. 
-
-  *     * ## Duty.Honor.Education
-
-You make sacrifices for our nation. Fortunately, education doesn't have to be one of them. 
-
-Meet your personal corps of advisors – an online community that enables you to study anywhere in the world. 
-
-Deployment doesn't mean you have to stop learning. Either you or your spouse can request a break and pick up where you left off when you return. 
-
-To start your education rolling, talk with an Admissions Counselor today.
-
-  *     * 
-
 
 At Ashford University, we take your personal privacy seriously. This document describes the categories of information we gather via the website and for what purpose, outlines how that information may be shared with others, and identifies the categories of persons with whom it may be shared. By registering with Ashford University or by using the Ashford University Site, you accept and agree to this Privacy Policy and the [Ashford University Terms and Conditions of Usage](https://web.archive.org/terms.htm).
 
