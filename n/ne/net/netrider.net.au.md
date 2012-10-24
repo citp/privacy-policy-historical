@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605092539id_/http%3A//www.netrider.net.au%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024045853id_/http%3A//netrider.net.au%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Netrider - connecting riders! Australia's premier motorcycle community. News, Discussion Forums, Links, Classifieds, Articles, Events Calendar, and more...
 
