@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615040809id_/http%3A//www.homesecuritystore.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024042500id_/http%3A//www.homesecuritystore.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,8 +43,11 @@ Back to Top
 
 * * *
 
+  
 **Third-Party Advertisers**  
-The Home Security Store, Inc. Website has an advertisement supported forum, for which we subscribe to a third party advertisement provider to serve ads on our website. These ads may contain cookies. While we use cookies in other parts of our Website, cookies received with banner ads are collected by our ad company, and we do not have access to this information. For further information regarding the privacy practices of our advertisement provider, please visit <http://www.google.com/privacypolicy.html>
+Home Security Store, Inc. websites uses third party vendors, including Google, which use cookies to serve the Google Trusted Store badge and other ads based on a user's prior visits to our website. These ads may contain cookies. While we use cookies in other parts of our Website, cookies received with banner ads are collected by our ad company, and we do not have access to this information. For further information regarding the privacy practices of our advertisement provider, please visit <http://www.google.com/privacypolicy.html>
+
+Users may opt out of Google's use of cookies by visiting the [ Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).
 
 Back to Top
 
@@ -67,4 +70,4 @@ Back to Top
 
 * * *
 
-**This document was last revised: September 19, 2011**
+**This document was last revised: September 14, 2012**
