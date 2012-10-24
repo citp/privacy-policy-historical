@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the buncee.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022608id_/http%3A//buncee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buncee.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024123430id_/http%3A//www.buncee.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Buncee - Creative Social Networking
+# Privacy | Buncee - Communication through Creation
+
+  *   * [About](https://web.archive.org/about)
+  * [How To](https://web.archive.org/about)
+  * [Mobile](http://itunes.apple.com/us/app/buncee-bits/id501529344?mt=8)
+  * [Blog](http://buncee.wordpress.com/)
+  * [Artists](https://web.archive.org/artists)
+  * [Letter from CEO](https://web.archive.org/letterfromCEO)
+  * [F.A.Q.](https://web.archive.org/faq)
+  * [Privacy](https://web.archive.org/privacy)
+  * [Terms](https://web.archive.org/terms_service)
+  * [Contact us](https://web.archive.org/contact-us)
+
+
 
 Information Collection & User Registration 
 
@@ -105,4 +118,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@buncee.com](mailto:privacy@buncee.com)
+If you have any questions or suggestions regarding our privacy policy or any ownership issues with the content on the site , please contact us at: [privacy@buncee.com](mailto:privacy@buncee.com)
