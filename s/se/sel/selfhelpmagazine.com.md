@@ -1,16 +1,37 @@
-> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630101243id_/http%3A//selfhelpmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024234246id_/http%3A//www.selfhelpmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SelfhelpMagazine PRIVACY POLICY | Self-help from SelfhelpMagazine.com
 
-### SelfhelpMagazine PRIVACY POLICY
+This page states the Privacy Policy under which you, the Web Site visitor ("You" or "Your" or "Yourself") may use or correspond with this Web site ("Our Site"), which is owned by Pioneer Development Resources, Inc. ("We" or "Us" or "Our"). We respect Your privacy interests and operate this site by these principles. We have taken reasonable steps to protect the integrity and confidentiality of personally identifiable information that You may provide.
 
-At SelfhelpMagazine our goal is to respect your privacy online. We gather information about our visitors to help with tailoring our services to our visitors. We do not collect personal information through cookies. We collect only such personally identifiable information as age, sex, e-mail addresses, etc., when voluntarily submitted. All such information is kept private, and not sold or transferred to third parties. It is used exclusively for our internal purposes. With this security, you may wish to know there are at least two ways in which you may be subjected to unethical exploitation on the Internet: 
+## Voluntary Submission of Information
 
-  1. When visiting SelfhelpMagazine, your exploration of our material is private unless you voluntarily choose to make your identity known to other readers in our [Discussion Zone Forums](http://selfhelpmagazine.com/conduct.html). By sending a message to any one of our forum areas, your message will appear on our pages for an indeterminate amount of time. If you choose to use these areas of the magazine, please be aware that we are able to offer you free information because we do not pay our design and programming staff to work on our pages. Interns and volunteers have created everything you see on our website, but they are not available to correct mistakes or remove your comments in a timely fashion. Double-check your submissions and post at your own risk. 
-  2. If you choose to use our Psychological Resource [Links & Lists](http://selfhelpmagazine.com/resources/) and click on any website address in that department, you will actually be leaving our website. By so doing, you will no longer be in our magazine, and may, therefore, be visiting a website that may track your stop at every page, and sell this information to companies that may try to sell you products or services related to the topics found on the pages you visited.
+You may use the SelfhelpMagazine (SHM) Web site without disclosing personally identifiable information, and We will not obtain such information about You unless You choose to submit it to us. Any information You submit will be used internally only; however, submission of information authorizes such internal use by Us and Our employees. In particular, please note that submission of an e-mail authorizes Us to contact You via e-mail.
 
+## Cookies
 
+Please note that We use "cookies", which are small files stored on Your computer’s hard drive that are used to track certain information. These cookies enable Us to track and target the interests of Our users to enhance their experience on Our site. For example, cookies usually allow Your browser to remember which pages You have visited and help Us to know how much traffic Our pages receive. This process does not reveal any personal information about the person viewing the page (such as a username or password) unless the person has previously given such information. If You find cookies objectionable, please consult Your browser’s documentation for information on how to block or erase cookies.
 
-The company owning SelfhelpMagazine Magazine, [Pioneer Development Resources](http://www.cybertowers.com/), Inc., will not knowingly violate your privacy. Please see our SelfhelpMagazine [Service Agreement](https://web.archive.org/web/20080630101243id_/http%3A//selfhelpmagazine.com/serviceagreement.html) and [Code of Conduct](https://web.archive.org/web/20080630101243id_/http%3A//selfhelpmagazine.com/conduct.html) for further information about privacy.
+## Log Files
 
-Please use our pages to help yourself. If you become aware of any privacy issues or ways in which the privacy of others might be compromised without our knowledge, please help us make this site safe for everyone by reporting your concerns to us. Please feel free to contact the SelfhelpMagazine Editor-in-Chief, [Dr. Maheu ](mailto:drm@selfhelpmagazine.com)with any questions or concerns.
+In addition, Our Web server collects and saves the default information customarily logged by World Wide Web server software. Our logs contain the following information for each request: date, time, originating IP address and domain name, object requested, and completion status of the request. We use these logs to help improve Our service by evaluating the level of demand for Our site and detecting any errors on the site that might occur. These logs may be kept for an indefinite length of time and used at any time and in any way necessary to prevent security breaches and protect the integrity of the data on Our servers.
+
+## Use of Collected Information
+
+Any information We gather, whether submitted voluntarily or collected automatically, will be used for Our internal purposes only. It is Our policy not to disclose or to sell any information to third parties. Notwithstanding this policy, We retain the right to disclose collected information if required to do so by law or if acting on a good faith belief that such disclosure is necessary to protect Our rights or property or to respond to an emergency situation.
+
+## Review, Update, and Deletion of Collected Information
+
+If You are concerned about the information You have provided to Us or would like to review, update, or delete this information, please e-mail Us at [info@selfhelpmagazine.com](mailto:info@selfhelpmagazine.com). We will make reasonable efforts to comply with Your requests.
+
+## Security
+
+This site takes reasonable precautions to protect Our users’ information. We don't store passwords in plain text and display email addresses in public. We do not collect your financial information on our website. Rather, we use a third-party service called Authorize.net. Please note, however, that electronic transmissions via the Internet are not necessarily secure from interception, and We do not guarantee the security or confidentiality of transmissions. We reserve the right to update or otherwise alter Our security practices if and when it seems appropriate to do so.
+
+## Notification of Changes
+
+If We decide to change Our approach to privacy, We will post those changes to this Privacy Policy so that users are always aware of what information We collect, how We use it, and under what circumstances We disclose it. Changes to the Privacy Policy will be dated, and will be effective from the date specified forward.
+
+## Images
+
+At certain pages on Our Site, We post images of human beings or other images that may allow identification of a specific person. In all such cases, We have permission from the individual pictured, or from his or her parent or guardian. We do not post such images without such consent.
