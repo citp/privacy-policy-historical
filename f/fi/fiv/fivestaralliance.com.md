@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602122325id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024215045id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Five Star Alliance
 
