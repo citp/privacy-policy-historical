@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholikesu.net privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229225009id_/http%3A//www.wholikesu.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholikesu.net privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024223618id_/http%3A//www.wholikesu.net/privacy.html) for the most accurate reproduction.*
 
 # Who likes you? - Online Dating Service.
 
@@ -28,7 +28,7 @@ As a matter of policy, we do not sell or rent any PII about you to any third par
 
 We use third-party advertising companies to serve ads when you visit our website.   
 These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
-If you would like get more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_cookies.html)
+If you would like get more information about this practice and to know your choices about not having this information used by these companies, [dann klicken Sie hier](http://www.google.com/privacy_cookies.html)
 
 * How can you access your personal information? If you have an account on our website, you can review and update your personal information online by logging into your account and clicking on your account settings.  
 You can make your account inactive by visiting account cancellation in account settings or upon your notification. If your account is inactive we hide your account so nobody can see your account information.
