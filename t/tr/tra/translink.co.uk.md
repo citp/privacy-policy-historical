@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624170410id_/http%3A//translink.co.uk/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.co.uk privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024091504id_/http%3A//www.translink.co.uk/en/Translink-Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Translink
 
@@ -30,8 +30,8 @@ From time to time we may send you details of Translink promotions that may be of
 
   **Links to other sites**
 
-Translink contains links to other websites. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site that collects personal information. 
+Translink contains links to other websites. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site that collects personal information.
 
 In addition, links from this website exist for convenience and information and Translink accepts no responsibility or liability for the products, services or information contained on any such site. The existence of a link to another website does not imply or express endorsement of its provider, product or services by Translink.
 
-  If you don’t find your concern addressed here, please contact us at [feedback@translink.co.uk](mailto:feedback@translink.co.uk). 
+  If you don’t find your concern addressed here, please contact us at [feedback@translink.co.uk](mailto:feedback@translink.co.uk).
