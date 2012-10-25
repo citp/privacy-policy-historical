@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amightyriver.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511161731id_/http%3A//www.amightyriver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amightyriver.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025232407id_/http%3A//www.amightyriver.com/privacy-policy) for the most accurate reproduction.*
 
 # AMightyRiver.com | Privacy Policy | African American Career Resources Black Professionals
 
