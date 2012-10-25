@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213540id_/http%3A//hiusa.org/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025163413id_/http%3A//www.hiusa.org/about_us/privacy_policy) for the most accurate reproduction.*
 
 # HI-USA Privacy Policy - HIUSA
 
