@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505121746id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026015637id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FAQ
 
@@ -45,4 +45,5 @@ Browse our main categories from [action games](http://www.flasharcadegamessite.c
 
 Copyright © 2007-2011 [flasharcadegamessite.com](http://www.flasharcadegamessite.com/). All Rights Reserved. All gaming content are copyright and trademarked by their owners, authors.
 
-[contact us](https://web.archive.org/contact-us.php "contact us")
+  
+
