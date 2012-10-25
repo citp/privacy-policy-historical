@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessforsale.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514001925id_/http%3A//www.businessforsale.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessforsale.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025151332id_/http%3A//www.businessforsale.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Business For Sale Worldwide
+# Privacy Policy | BusinessForSale.Com
 
 ##  **BUSINESSFORSALE.COM’S PRIVACY POLICY**
 
@@ -8,8 +8,7 @@ INFORMATION GATHERED BY businessforsale.com. This is businessforsale.com’s (�
 
 COOKIES. Cookies are small bits of data cached in a user’s browser. Businessforsale.com utilizes cookies to determine whether or not you have visited the home page in the past. We primarily use Google Cookies which we believe are the safest form of cookie use.
 
-GOOGLE ANALYTICS COOKIES: Businessforsale.com uses Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google's privacy policy is available at: [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html)  
-
+GOOGLE ANALYTICS COOKIES: Businessforsale.com uses Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google's privacy policy is available at: [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html)
 
 GOOGLE ADSENSE COOKIES: Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.
 
