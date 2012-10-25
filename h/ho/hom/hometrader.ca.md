@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometrader.ca privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512194203id_/http%3A//www.hometrader.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometrader.ca privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026011905id_/http%3A//www.hometrader.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Home Trader
 
