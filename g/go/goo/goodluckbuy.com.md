@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodluckbuy.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518151251id_/http%3A//www.goodluckbuy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodluckbuy.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025154201id_/http%3A//www.goodluckbuy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # - Electronic digital products and spare parts accessories wholesale goodluckbuy.com
 
