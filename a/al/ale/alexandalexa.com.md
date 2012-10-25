@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609062158id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025042721id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alexandalexa
 
