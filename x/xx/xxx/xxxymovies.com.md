@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630124857id_/http%3A//xxxymovies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025142907id_/http%3A//www.xxxymovies.com/privacy.html) for the most accurate reproduction.*
 
 # XXX Movies - Privacy policy
 
