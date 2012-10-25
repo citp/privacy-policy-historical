@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmbcllc.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619151258id_/http%3A//dmbcllc.com/Default.aspx%3Ftabid%3D186) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmbcllc.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025151552id_/http%3A//dmbcllc.com/Default.aspx%3Ftabid%3D186) for the most accurate reproduction.*
 
 # Privacy Policy
 
