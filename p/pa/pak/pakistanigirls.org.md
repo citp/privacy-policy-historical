@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanigirls.org privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402103418id_/http%3A//pakistanigirls.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanigirls.org privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026010752id_/http%3A//pakistanigirls.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistani Girls
 
