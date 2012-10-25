@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendmatrix.co privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616154743id_/http%3A//socialmatrix.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendmatrix.co privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025070139id_/http%3A//socialmatrix.me/privacy) for the most accurate reproduction.*
 
 # Social Matrix
 
