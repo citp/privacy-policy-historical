@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513061312id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025102803id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CB2 - Privacy Policy
 
@@ -50,7 +50,7 @@ CB2 adheres to a strict privacy code regarding children and does not knowingly a
 
 ## cookies are served
 
-"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. They sound friendly and helpful because they are. They flag information about your activity on our Web site. This information helps us improve our site and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. 
+"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. They sound friendly and helpful because they are. They flag information about your activity on our Web site. This information helps us improve our site and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them to provide enhanced online marketing based on your interests and preferences. To opt out of these ads, please click here. 
 
 ## partnerships
 
