@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandparkerpromo.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618031222id_/http%3A//grandparkerpromo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandparkerpromo.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025183139id_/http%3A//www.grandparkerpromo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Grand Parker Casino - Play and Win Grand Prizes
 
