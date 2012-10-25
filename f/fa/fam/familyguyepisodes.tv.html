@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the familyguyepisodes.tv privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524175729id_/http%3A//www.familyguyepisodes.tv/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familyguyepisodes.tv privacy policy that was archived on 2012-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121025081304id_/http%3A//www.familyguyepisodes.tv/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml="lang"><head>
 
@@ -31,7 +31,6 @@
 
 <link href="/css/watchfullepisodesonline.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="http://www.familyguyepisodes.tv/tabcontent.js"></script>
 
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
@@ -40,6 +39,38 @@
   background-image: url("watch_family_guy.jpg");
 background-color:#000; background-position:top center; background-repeat:no-repeat; background-attachment:fixed;}
 </style>
+
+
+
+	<link rel="stylesheet" href="http://www.familyguyepisodes.tv/css/newtabstyle.css" type="text/css" media="screen">
+    
+    <script src="http://www.familyguyepisodes.tv/newtabjquery-1.2.3.min.js"></script>
+    <script>
+	
+	  // When the document loads do everything inside here ...
+	  $(document).ready(function(){
+		
+		// When a link is clicked
+		$("a.tab").click(function () {
+			
+			
+			// switch all tabs off
+			$(".active").removeClass("active");
+			
+			// switch this tab on
+			$(this).addClass("active");
+			
+			// slide all content up
+			$(".tabcontent").slideUp();
+			
+			// slide this content up
+			var content_show = $(this).attr("rel");
+			$("#"+content_show).slideDown();
+		  
+		});
+	
+	  });
+  </script>
 <script async="" src="http://widgets.amung.us/small.js"></script></head>
 <body onload="rotateImage('rImage')">
 <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
@@ -140,7 +171,7 @@ clicksor_layer_banner = false;
 <tbody><tr>
 <td align="right">
 				
-<span><a href="http://www.familyguyepisodes.tv/"><font size="1" color="RED"><b>She slams us against the monkey bars but none of us have the language skills to call her on it....</b>  </font> <font size="1" color="green"><b>-Stewie Griffin-</b></font>
+<span><a href="http://www.familyguyepisodes.tv/"><font size="1" color="RED"><b>Oh damn! Jeremy is still in the trunk! How long has it been, two weeks? Yeah, he's dead.... </b>  </font> <font size="1" color="green"><b>-Stewie Griffin-</b></font>
 </a></span>			
 				
 </td>
