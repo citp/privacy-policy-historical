@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622072049id_/http%3A//www.cashbackforex.com/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025042708id_/http%3A//www.cashbackforex.com/en-us/privacy.aspx) for the most accurate reproduction.*
 
-# privacy
+# Best Forex Brokers Online > Highest Rates > Cash Back Pip Rebates
 
 CashBackForex is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the CashBackForex Web site and governs data collection and usage. By using the CashBackForex website, you consent to the data practices described in this statement.
 
