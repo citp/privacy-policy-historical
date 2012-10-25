@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508031610id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026011610id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | InTech
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.intechweb.org/seal_m "Validate TRUSTe privacy certification")
 
-This privacy policy sets out how InTech ("we" and "us") uses and protects any information that you ("user") give when you use this website. InTech is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. InTech does not sell, rent, or otherwise provide your personal information to third parties, unless we have your permission or are required by law to do so. InTech may change this policy from time to time by updating this page. You are invited to check this page to ensure that you agree with the changes. This policy is effective from 14.10.2011.
+This privacy policy sets out how ("we" and "us") uses and protects any information that you ("user") give when you use this website. InTech is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy. InTech does not sell, rent, or otherwise provide your personal information to third parties, unless we have your permission or are required by law to do so. InTech may change this policy from time to time by updating this page. You are invited to check this page to ensure that you agree with the changes. This policy is effective from 20.09.2012.
 
-**InTech has been awarded TRUSTe's Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@intechweb.org](mailto:info@intechweb.org). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). **
+**InTech has been awarded TRUSTe's Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Website, [http://www.intechopen.com](http://www.intechopen.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@intechopen.com](mailto:info@intechopen.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)[.](https://feedback-form.truste.com/watchdog/request)**
 
 ####  1\. Usage of Information
 
@@ -40,21 +40,21 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
   1. You can choose what information you make available to other registered and unregistered users
   2. With the exception of your e-mail address (which works as a login), you are free to change your personal information at any time. If your personally identifiable information changes, you may correct, update or delete it by making the change on your user panel, or or by contacting us by postal mail at the contact information listed below.
-  3. You can submit a request to close your InTech account at any time. If you no longer desire our services you can deactivate your account by emailing us at info@intechweb.org or by contacting us by postal mail using the contact information listed below.
+  3. You can submit a request to close your InTech account at any time. If you no longer desire our services you can deactivate your account by emailing us at [info@intechopen.com](mailto:info@intechopen.com) or by contacting us by postal mail using the contact information listed below.
 
 
 
 ####  5\. Third Parties
 
-**InTech does not sell, rent, or otherwise provide your personal information to third parties, unless we have your permission or are required by law so as to comply with a subpoena or similar legal process.** Please note that in order to deliver certain services (for example, Article/Chapter publication), we may share information with third parties. To process payments made by you, we share some of your information with the payment processing company we use. While you are entitled to decline to provide the information requested, this may prevent us from providing the services requested. In the case of delivery of hard copies of books to authors or other parties ordering such publications, we share with third parties conducting postal delivery services the information required in order to carry out the delivery.
+InTech does not sell, rent, or otherwise provide your personal information to third parties, unless we have your permission or are required by law so as to comply with a subpoena or similar legal process. Please note that in order to deliver certain services (for example, Article/Chapter publication), we may share information with third parties. To process payments made by you, we share some of your information with the payment processing company we use. While you are entitled to decline to provide the information requested, this may prevent us from providing the services requested. In the case of delivery of hard copies of books to authors or other parties ordering such publications, we share with third parties conducting postal delivery services the information required in order to carry out the delivery. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 ####  6\. E-mail Policy
 
-InTech may send you service communications by email. If you have previously agreed to us using your personal information for email/newsletter services, InTech may send information which you might find of interest. You may change your mind and unsubscribe at any time by emailing us at [info@intechweb.org](mailto:info@intechweb.org).
+InTech may send you service communications by email. If you have previously agreed to us using your personal information for email/newsletter services, InTech may send information which you might find of interest. You may change your mind and unsubscribe at any time by emailing us at [info@intechopen.com](mailto:info@intechopen.com).
 
 ####  7\. Customer Testimonials / Comments / Reviews
 
-In the "Authors' Acknowledgments" section of our website we post customer testimonials/comments/reviews which may contain personally identifiable information. These testimonials are stored on a database held within InTech. Prior to posting a testimonial, we obtain the customer's consent via email to posting his or her name along with the testimonial.
+In the "Authors' Acknowledgments" section of our website we post customer testimonials/comments/reviews which may contain personal information. These testimonials are stored on a database held within InTech. Prior to posting a testimonial, we obtain the customer's consent via email to posting his or her name along with the testimonial. If you wish to update or delete your testimonial, you can contact us at [info@intechopen.com](mailto:info@intechopen.com).
 
 ####  8\. Cookies
 
@@ -78,7 +78,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 ####  13\. Blogs
 
-**If you use our blog on this web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs.**
+**If you use our blog on this web site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these blogs. To request removal of your personal information from our blog or community forum, contact us at[info@intechopen.com.](mailto:info@intechopen.com.) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.**
 
 ####  12\. Private Policy and Authors
 
@@ -86,16 +86,16 @@ The summary of Authors' personal information (First name, Last name, academic/jo
 
 **13\. Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account  or request that we no longer use your information to provide you services contact us at [info@intechweb.org](mailto:info@intechweb.org).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements .  
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account  or request that we no longer use your information to provide you services contact us at [info@intechopen.com](mailto:info@intechopen.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements .  
 
-####  14\. Changes in this Privacy Statement
+####  14\. Changes in this Privacy Policy
 
-**If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.**
+**If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.**
 
-**We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page 30 calendar days prior to implementing the change.**
+**We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page 30 calendar days prior to implementing the change.**
 
 ####  15\. Contact Us
 
-If you have questions or comments about this Privacy Policy, please email us at [info@intechweb.org](mailto:info@intechweb.org) or write to us at InTech d.o.o., University Campus STeP Ri, Slavka Krautzeka 83/A, 51000 Rijeka, Croatia.
+If you have questions or comments about this Privacy Policy, please email us at[ ](mailto:info@intechopen.com)[info@intechopen.com](mailto:info@intechopen.com) or write to us at InTech d.o.o., University Campus STeP Ri, Slavka Krautzeka 83/A, 51000 Rijeka, Croatia.
 
 Top of page
