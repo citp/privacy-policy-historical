@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullofthings.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625071029id_/http%3A//www.fullofthings.com/toc.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullofthings.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025122256id_/http%3A//fullofthings.com/toc.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # FullofThings - Privacy Policy
 
@@ -31,4 +31,4 @@ We don’t sell or rent or provide users’ personal information to third partie
 
 ### Access and modification
 
-You may change your personal information at anytime by logging into [My Account](https://web.archive.org/web/20120625071029id_/http%3A//www.fullofthings.com/memberEngine.php?action=home) on FullofThings.com.
+You may change your personal information at anytime by logging into [My Account](https://web.archive.org/web/20121025122256id_/http%3A//fullofthings.com/memberEngine.php?action=home) on FullofThings.com.
