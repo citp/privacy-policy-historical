@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613073736id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025045518id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -34,7 +34,7 @@ To help our members with the service, we provide forums and message boards to me
 
 #### Spyware and Deceptive Advertising
 
-Our [Terms of Service](https://adspeed.com/Knowledges/2/Content/Terms_Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://adspeed.com/Knowledges/223/Technical/howto_remove_spyware_adware_computer.html)
+Our [Terms of Service](https://adspeed.com/Knowledges/2/Content/Terms_Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://adspeed.com/Knowledges/223/Technical/howto_remove_spyware_malware_computer.html)
 
 #### General
 
@@ -44,15 +44,15 @@ If you have any questions about this privacy statement, or the practices of AdSp
 
 ## Testimonials for our Ad Servers
 
-  * > Thanks! We are a fan of AdSpeed.
+  * > You have a well-designed system and good service
 > 
-> _Maarten D_  
->  Modation Online Concepts
+> _Anu G_  
+>  Wordsmith
 
-  * > We definitely appreciate your great customer service. I would recommend your service to any colleague searching for ad serving.
+  * > I've been with AdRotator then AdSpeed for quite a few years now, and it has all been good. Very good. In fact is has been excellent. Thank you so very much. 
 > 
-> _Antoine L_  
->  kelDOM
+> _Tom Bailey_  
+>  AquariumFish
 
 
 
