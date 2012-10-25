@@ -1,70 +1,91 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618194725id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025092435id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
 
 # SAMHSA Privacy Policy
 
-(as of September 9, 2010)
+(Posted on July 3, 2012)
 
-Thank you for visiting our SAMHSA (HHS) web site and for reviewing our Privacy Policy. This is a privacy policy for [**http://www.samhsa.gov**](http://www.samhsa.gov/)and all SAMHSA funded sites. Our policy is clear: 
+Thank you for visiting our SAMHSA web site and reviewing our Privacy Policy. This policy pertains to [http://www.samhsa.gov](http://www.samhsa.gov/) and all SAMHSA funded websites.  Our policy is clear: 
 
-  * **We collect no personally identifiable information (PII) about you unless you choose to provide that information to us.**
-  * **Any PII you chose to provide is fully protected.**
-  * **Non-PII information related to your visit to our websites may be automatically collected and temporarily stored.**
-
-
-
-(NOTE: For more information on your health information privacy and security rights or the HIPAA Privacy and Security Rules, please visit [ http://www.hhs.gov/ocr/privacy/index.html](http://www.hhs.gov/ocr/privacy/index.html).)
-
-* * *
-
-###  Types of Information Collected
-
-When you browse through any website, information about your visit can be collected. We automatically collect and temporarily store the following information about your visit:
-
-  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an American Online account, or stanford.edu, if you are connecting from Stanford University's domain); 
-  * the date and time of your visit; 
-  * the pages you visited; and 
-  * the address of the website you came from when you came to visit. 
+  * We do not collect personally identifiable information (PII) about you unless you choose to provide that information to us.
+  * Any PII you chose to provide is protected by security controls consistent with the HHS Information Security and Privacy Policy and National Institutes of Standards and Technology and Office of Management and Budget guidance.
+  * Non-PII information related to your visit to our website may be automatically collected and temporarily stored.
 
 
 
-We use Google Analytics to collect and aggregate this information to create reports and analyses, which are used to help us make our site more useful to visitors. These data and reports are only available to web managers and other designated staff who require this information to perform their duties. HHS retains the data from Google Analytics as long as needed to support HHS' mission. **Again, there is no PII included in this data.**
+For more information on your health information privacy and security rights, or on the HIPAA Privacy and Security Rules, visit the HHS Office for Civil Rights <http://www.hhs.gov/ocr/privacy/index.html>. 
 
 * * *
 
-###  Session and Persistent Cookies
+### **Information Collected and Stored Automatically**
 
-When visiting websites, a small text file called a "cookie" may be placed on your computer. This allows HHS to collect non-PII data while you are navigating through the website. HHS uses two types of cookies on its websites:
+When you browse through our website, we gather and temporarily store technical information about your visit. This information does not identify who you are. The information we collect includes:
 
-  * Session cookies are temporary text files that expire when you leave our websites. When cookies expire, they are automatically deleted from your computer.
+  * The name of the domain you use to access the Internet (for example, aol.com, if you are using an American Online account, or stanford.edu, if you are connecting from Stanford University's domain);
+  * The date and time of your visit;
+  * The pages you visited; and
+  * The address of the website you came from when you came to visit.
 
-  * Persistent cookies are multi-session cookies that are stored on your computer and expire 2 years after your last visit to our websites. After 2 years, they are automatically deleted from your computer. We use persistent cookies to collect non-PII data about users who frequently visit our websites and to test variations of our site design and content to optimize our webpages. In the Office of Management and Budget (OMB) Memo 10-22 Guidance, our use of persistent cookies is defined as "Usage Tier 2 � Multi-session without Personally Identifiable Information (PII)," which "encompasses any use of multi-session Web measurement and customization technologies when no PII is collected."
 
 
-
-
-If you do not want cookies placed on your computer, you can set your browser to block them. Blocking these cookies from your computer will not affect your access to the content and tools in our websites. Instructions to opt out are available on <http://www.usa.gov/optout_instructions.shtml>.
-
-* * *
-
-###  Personally Provided Information
-
-You do not have to give us personal information to visit our web sites.
-
-If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only retain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication.
-
-However, note that all communications addressed to HHS are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis. All communications addressed to HHS are protected by the Privacy Act which restricts our use of them, yet permits certain disclosures.
+We use this information to improve our website and provide a better user experience for our visitors. We use a tool, Google Analytics, to collect and aggregate this information. This information is available only to web managers and other designated staff who require this information to perform their duties. It is retained only for as long as needed for proper analysis.   **There is no PII included in this data.**
 
 * * *
 
-###  Third-Party Applications
+### **Web Measurement and Customization**
 
-There may be third-party applications and/or services embedded on this site to improve its functionality. Our integration of these products is intended to provide a seamless user experience. Where applicable, privacy policies particular to these applications are provided.
+We use web measurement and customization technologies, such as cookies, to help our website function better for visitors and to better understand how the public is using our website.
+
+#### **Cookies**
+
+SAMHSA uses "cookies" to test and optimize our website design and content. A cookie is a small text file automatically placed on your computer. We use two types of cookies on our websites:
+
+  * We use **session cookies** to gather data for technical purposes, such as enabling better navigation through our website and generating aggregated statistics about how the website is used. Session cookies are temporary text files that expire when you leave our website. When cookies expire, they are automatically deleted from your computer. We do not use session cookies to collect PII, and we do not share data collected from session cookies. Our use of session cookies is defined as "Tier 1" usage in accordance with the OMB Memorandum (M)-10-22 _Guidance for Online Use of Web Measurement and Customization Technologies_. _ _
+
+  * We use **multi-session cookies** , a.k.a. persistent cookies, to customize our website for frequent visitors and to test variations of website design and content. Multi-session cookies are cookies that are stored over more than a single session on your computer. We do not use multi-session cookies to collect PII, and we do not share data collected from multi-session cookies. Our multi-session cookies are set to expire two years after your last visit to our website. After two years, they are automatically deleted from your computer. Our use of multi-session cookies is defined as "Tier 2" usage in accordance with the OMB Memorandum (M)-10-22 _Guidance for Online Use of Web Measurement and Customization Technologies._
+
+
+
+
+You can take actions to block cookies. Blocking these cookies from your computer will not affect your access to the content and tools on our website. Instructions to opt out are available on USA.gov <http://www.usa.gov/optout_instructions.shtml>. 
+
+* * *
+
+### **Personal Information Voluntarily Submitted to SAMHSA**
+
+If you choose to provide SAMHSA with personal information -- for example by completing a "Contact Us" inquiry via email, leaving a comment, or completing a survey -- we may use that information to respond to your message and/or help us get you the information or services you asked for. Submitting personal information (name, address, telephone number, email address, etc.) is voluntary and is not required to access information on our website.
+
+We will retain the information only for as long as necessary to respond to your question or to fulfill the stated purpose of the communication.  Electronically submitted information, like information submitted in paper form, is maintained and destroyed in accordance with the Federal Records Act and records schedules of the National Archives and Records Administration. It may be subject to disclosure in certain cases (for example, if lawfully required in response to a Freedom of Information Act request, court order, or Congressional access request, or if authorized by a Privacy Act System of Records Notice). It is subject to the Privacy Act if maintained in a Privacy Act system.
+
+For a broader discussion of your rights under the Freedom of Information Act and the Privacy Act, visit <http://publications.usa.gov/epublications/foia/foia.htm>. 
+
+* * *
+
+### **Visiting an Official SAMHSA Page on Third-Party Websites/Applications**
+
+We maintain accounts on third-party websites, such as social media sites, as tools to better interact with the public. Your activity on those third-party websites is governed by the security and privacy policies of those sites. Users of third-party websites are often sharing information with the general public, user community, and/or the third-party operating the website. These actors may use this information in a variety of ways. You should review the privacy policies of third-party websites before using them and ensure that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences. 
+
+#### SAMHSA Accounts
+
+Common third-party websites in use include:
+
+  * YouTube ([Privacy](http://www.youtube.com/t/privacy_at_youtube))
+  * Facebook ([Privacy](http://www.facebook.com/about/privacy/))
+  * Flickr ([Privacy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html))
+  * Twitter ([Privacy](http://twitter.com/privacy)) 
+
+
+
+#### **Information Collected and Used from Third-Party Websites**
+
+If you have an account with a third-party website, and choose to follow, like, friend, or comment, certain PII associated with your account may be made available based on the privacy policies of the third-party website and your privacy settings within that third-party website. SAMHSA sometimes collects and uses PII made available through third-party websites. We do not share PII made available through third-party websites.
+
+SAMHSA conducts and publishes a Privacy Impact Assessment (PIA) for each use of a third-party website. Each use of a third-party website may have unique functionality or practices. To learn more, review the published PIAs at <http://www.hhs.gov/pia/>.
 
 * * *
 
 ###  Disclosure
 
-HHS does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or by statute.
+SAMHSA does not disclose, give, sell, or transfer any personal information about our visitors unless required for law enforcement or by Federal law.
 
 * * *
 
@@ -72,29 +93,35 @@ HHS does not disclose, give, sell or transfer any personal information about our
 
 This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
+For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. In the event of authorized law enforcement investigations and as part of any required legal process, information from these sources may be used to help identify an individual. 
 
 * * *
 
-###  Systems of Records
+### For more information
 
-Some information originally collected through traditional paper systems can now be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided.
+For more information on the Privacy Act at HHS, visit: <http://www.hhs.gov/foia/privacy/index.html>
 
-###  HHS Data Council's 
+For SAMHSA privacy questions or concerns contact: [info.Privacy@samhsa.hhs.gov](mailto:info.Privacy@samhsa.hhs.gov)
 
-  * [HHS Privacy Committee](http://aspe.hhs.gov/datacncl/privcmte.htm)
+* * *
 
+### Systems of Records Notices (SORNS)
 
+Under the Privacy Act of 1974, a description of the information to be collected in any system of records must be published in the _Federal Register_ before the data collection begins.
+
+For each system of records, a specified Agency employee, known as a system manager, is responsible for the business requirements of the data maintained in the system, for answering any questions about seeing the records, and for amending or correcting information contained therein. The system manager, along with his or her mailing address, is listed in the _Federal Register_ notice. 
+
+For more information on SAMHSA System of Records Notices (SORNs), visit <http://www.samhsa.gov/about/systemrecords/index.aspx>. 
 
 **See Also:**
 
   * [Privacy Impact Assessment (PIA)](https://web.archive.org/About/pia/pia.aspx)
-  * [U.S. Federal Government related policies, including Privacy Act of 1974](http://aspe.hhs.gov/datacncl/privacy/#act)
-  * [SAMHSA Privacy Act System of Records Notices ](https://web.archive.org/About/systemrecords/index.aspx)
-  * [HHS Privacy Contacts](http://www.hhs.gov/contacts/privacy.html)
+  * [U.S. Federal Government related policies, including Privacy Act of 1974](http://www.hhs.gov/ocio/securityprivacy/pglandreports/polguidlegrep.html)
+  * [HHS Privacy Contacts](http://intranet.hhs.gov/it/cybersecurity/privacy/index.html)
   * [HHS Policy for Responding to Breaches of Personally Identifiable Information](http://www.hhs.gov/ocio/policy/2008-0001.002.html)
-  * [Privacy of Individually Identifiable Health Information  
-(Privacy Rule)](http://dev.samhsa.gov/healthprivacy/)  
+  * [Privacy of Individually Identifiable Health Information (Privacy Rule)](http://www.hhs.gov/ocr/privacy/)  
 
 
 
+
+_Last updated: 07/02/2012_
