@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026015324id_/http%3A//thebulliondesk.com/privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
-FastMarkets Ltd (“We”) are committed to protecting and respecting your privacy. This policy (together with our [Website Terms and Conditions](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
+FastMarkets Ltd (“We”) are committed to protecting and respecting your privacy. This policy (together with our [Website Terms and Conditions](https://web.archive.org/web/20121026015324id_/http%3A//thebulliondesk.com/FMTermsAndConditions.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is FastMarkets Ltd **(company registered number 03879279)** whose registered office is at 2 More London Riverside, London SE1 2AP. 
 
 We may collect and process the following data about you: 
@@ -65,7 +65,7 @@ We may disclose your personal information to third parties:
 
 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;  
 If Fastmarkets Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;  
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms and Conditions](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.html) or [Terms and Conditions of supply](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.pdf) and other agreements; or to protect the rights, property, or safety of Fastmarkets Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms and Conditions](https://web.archive.org/web/20121026015324id_/http%3A//thebulliondesk.com/FMTermsAndConditions.html) or [Terms and Conditions of supply](https://web.archive.org/web/20121026015324id_/http%3A//thebulliondesk.com/FMTermsAndConditions.pdf) and other agreements; or to protect the rights, property, or safety of Fastmarkets Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 ## 6\. YOUR RIGHTS
 
