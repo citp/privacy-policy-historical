@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsoft.com.vn privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626023109id_/http%3A//fsoft.com.vn/Pages/Privacy%2520Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsoft.com.vn privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025123736id_/http%3A//fsoft.com.vn/Pages/Privacy%2520Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
