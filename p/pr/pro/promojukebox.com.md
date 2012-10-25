@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promojukebox.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623162441id_/http%3A//promojukebox.com/_pjs--privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promojukebox.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025182252id_/http%3A//promojukebox.com/_pjs--privacy.html) for the most accurate reproduction.*
 
-# PromoJukebox - digital promotion machine for the music industry
+# PromoJukeBox - digital promotion machine for the music industry
 
 ## DATA PROTECTION DISCLOSURE  
 of Push Media Promotion GmbH
