@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the savaari.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623235756id_/http%3A//savaari.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savaari.com privacy policy that was archived on 2012-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121025135001id_/http%3A//www.savaari.com/privacy_policy_terms_conditions_cancellations) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><base href="user/">
 
+<link rel="shortcut icon" href="http://www.savaari.com/favicon.ico" type="image/x-icon"> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -10,7 +11,7 @@
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 <title></title>
 
-<link href="http://savaari.com/css/common.css" rel="stylesheet" type="text/css"><link href="http://savaari.com/css/jquery.selectBox.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://savaari.com/css/styles_header.css" media="screen">
+<link href="http://www.savaari.com/css/common.css" rel="stylesheet" type="text/css"><link href="http://www.savaari.com/css/jquery.selectBox.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://www.savaari.com/css/styles_header.css" media="screen">
 <style type="text/css">
 .tooldiv {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; }
 .tooldiv a:hover {background:#000000;border:1px solid #ccc;text-decoration:none;} /*BG color is a must for IE6*/
@@ -20,21 +21,24 @@
 
 
  
-<link rel="stylesheet" type="text/css" href="http://savaari.com/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
-<link rel="stylesheet" type="text/css" href="http://savaari.com/css/tooltip.css" media="screen">
-</head><body>
-<div id="fb-root"><script type="text/javascript" async="" src="https://widget.uservoice.com/N2OY2yLHwPcB7TAWMCB9g.js"></script><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script type="text/javascript" src="http://savaari.com/js/jquery1.4.min.js"></script>
-<script type="text/javascript" src="http://savaari.com/js/step3_default_ajax.js"></script>
-<script type="text/javascript" src="http://savaari.com/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="http://savaari.com/js/jquery.selectBox.js"></script>
-<script type="text/javascript" src="http://savaari.com/js/tooltip.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.savaari.com/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://www.savaari.com/css/tooltip.css" media="screen">
+
+</head><body onload="initialize()" onunload="GUnload()">
+
+<div id="fb-root"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/N2OY2yLHwPcB7TAWMCB9g.js"></script><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript" src="http://www.savaari.com/js/jquery1.4.min.js"></script>
+<script type="text/javascript" src="http://www.savaari.com/js/step3_default_ajax.js"></script>
+<script type="text/javascript" src="http://www.savaari.com/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="http://www.savaari.com/js/jquery.selectBox.js"></script>
+<script type="text/javascript" src="http://www.savaari.com/js/tooltip.js"></script>
 <script type="text/javascript">	
 /*<![CDATA[*/
-var APP_ID="341085955953874";
+/* var APP_ID="341085955953874"; */
+var APP_ID="470180719675873";
 	window.fbAsyncInit = function() 
 	{
-   	FB.init({appId: "341085955953874", status: true, cookie: true, xfbml: true
+   	FB.init({appId: "470180719675873", status: true, cookie: true, xfbml: true
    	});   	
 	FB.Event.subscribe("auth.login", function(response) {
 	  login();	
@@ -45,17 +49,18 @@ var APP_ID="341085955953874";
 
 	
 	function login(){
-	   FB.api("/me", function(response) {	   				
+	   FB.api("/me", function(response) {	
 	   			$.ajax({				
-        			url: "http://savaari.com/user/facebook_action.php",
+        			url: "http://www.savaari.com/user/facebook_action.php",
         			type: "GET",
         			data: ({id:response.id,name:response.name,email:response.email,first_name:response.first_name,last_name:response.last_name}),
         			success: function(data) {
         			
+        			
             			if (data == 1) {
-                			window.location.href="http://savaari.com/";
+                			window.location.href="http://www.savaari.com/";
             			} else {
-                			window.location.href="http://savaari.com/";
+                			window.location.href="http://www.savaari.com/";
             			}
         			}
     			});				
@@ -102,16 +107,17 @@ var APP_ID="341085955953874";
 		$("#logout").click(function(event){
 		FB.logout();	
 			
-			$.get("http://savaari.com/user/logout.php", function(){
+			$.get("http://www.savaari.com/logout.php", function(){
 				$.fancybox(
-					"<span style='font-weight: bold;padding: 10px; font-size: 12px; line-height: 18px; background-color:#4A9FE0; color:#FFF;'>You have been successfully logged out. Please wait while we redirect you to the home page...</span>",
+					"<div style=' background: #4c8fbf;'><span style='font-weight: bold;padding:0px;font-size: 12px; line-height: 18px; color:#FFF;'>You have been successfully logged out. Please wait while we redirect you to the home page...</span></div>",
 					{
 			        	"autoDimensions"	: false,
-						"width"         : 350,
-						"height"        : "auto",
+						"width"         	: 350,
+						"height"        	: "auto",
 						"autoScale"		: false,
-						"transitionIn"	: "none",
-						"transitionOut"	: "none"
+						"transitionIn"	: "none",						
+						"transitionOut"	: "none",
+						
 					}
 				);		
 			});
@@ -120,21 +126,24 @@ var APP_ID="341085955953874";
 		});
 		function goHome()
 		{
-			window.location.href="http://savaari.com/step1.php";
+			window.location.href="http://www.savaari.com/";
 		}
 /*]]>*/
 </script>
-	<div id="fb-root"></div>
+	
 	<div class="outer outrHeader">
 		<div class="wrapper header">
 		<div class="logoCntr">
-		<a href="http://savaari.com/">
-		<img width="296" height="54" alt="savaari logo" src="http://savaari.com/images/savaari_logo.png"></a></div>
+		<a href="http://www.savaari.com/">
+		<img width="296" height="54" alt="savaari logo" src="http://www.savaari.com/images/savaari_logo.png"></a></div>
 		<div class="qukConatctCntr">
 			<div class="qukConatct">
-		    		<span class="sendEnq fleft"><a class="enqpop" href="http://savaari.com/quest.php">Write to Us</a></span>
-		        	<span class="contNum fleft">FREE HOTLINE : 1800 108 1000<br>
-		        	Outside India : +91 9358585237<a href="http://savaari.com/html/tooltip.html" class="jTip" id="Dial" name="Dialing Instructions"><img src="http://savaari.com/images/info-icon.jpg" width="15" height="16" alt=""></a></span>
+		    		<span class="sendEnq fleft"><a class="enqpop" href="http://www.savaari.com/quest.php">Write to Us</a></span>
+		        	<span class="contNum fleft">
+					<!--FREE HOTLINE : 1800 108 1000<br/>
+		        	Outside India : +91 9358585237<a href="http://www.savaari.com/html/tooltip.html" class="jTip" id="Dial" name="Dialing Instructions">-->
+					<a href="http://www.savaari.com/html/tooltip.html" class="jTip" id="Dial" name="Dialing Instructions">
+					<img src="http://www.savaari.com/images/info-icon.jpg" width="15" height="16" alt="" style="position:relative; top:-10px;"></a></span>
 		        	
 		    	</div>
 		</div>		
@@ -142,10 +151,10 @@ var APP_ID="341085955953874";
         		<div class="lgRegFacebook"><div class="facebookLg">
 				<fb:login-button autologoutlink="true" width="154" height="22" scope="email,user_birthday,status_update,publish_stream">
 				</fb:login-button>	               	
-					</div><div class="lgReg"><span><a id="loginpop" href="http://savaari.com/login_new.php">Login</a></span><span class="noBrdr"><a id="regpop11" href="http://savaari.com/register_new.php">Register</a></span></div></div>
+					</div><div class="lgReg"><span><a id="loginpop" href="http://www.savaari.com/login_new.php">Login</a></span><span class="noBrdr"><a id="regpop11" href="http://www.savaari.com/register_new.php">Register</a></span></div></div>
             		<div class="forBtns">
-            			<a class="bsns" href="http://savaari.com/business_rental.php">For Business</a>
-            			<a class="evrbd" href="http://savaari.com/">For Everybody</a>
+            			<a class="bsns" href="http://www.savaari.com/business_rental">For Business</a>
+            			<a class="evrbd" href="http://www.savaari.com/">For Everybody</a>
             			<div class="clear"></div>
             		</div>
 		</div>
@@ -212,6 +221,36 @@ var APP_ID="341085955953874";
 
         <h2>Contacting Us</h2>
         <p>If there are any questions regarding this privacy policy you may contact us using the information on the About Us page.</p>
+        </div>
+        <a name="terms"></a>
+        <div class="carpckgHead">
+			<div class="carpckgHeadRght">Terms and Conditions</div>
+		</div><br>
+        <div class="commonCntnt">
+		<p>Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Savaari's relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.</p>
+		
+		<p>The term 'Savaari' or 'us' or 'we' refers to the owner of the website whose registered office is 203, first floor, oxford towers, 139 old airport road, kodihalli, bengaluru 560008. The term 'you' refers to the user or viewer of our website.</p>
+		
+		<p>The use of this website is subject to the following terms of use:</p>
+		
+		<ul class="acc">
+		<li>1) The content of the pages of this website is for your general information and use only. It is subject to change without notice.</li>
+		<li>2) This website uses cookies to monitor browsing preferences. If you do allow cookies to be used, the following personal information may be stored by us for use by third parties: IP Address, Location</li>
+		<li>3) Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.</li>
+		<li>4) Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.</li>
+		<li>5) This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.</li>
+		<li>6) All trade marks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website.</li>
+		<li>7) Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.</li>
+		<li>8) From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).</li>
+		<li>9) Your use of this website and any dispute arising out of such use of the website is subject to the laws of India.</li>
+		</ul>
+		
+		<h2>Cancellations and Returns</h2>
+		
+		<p>Any cancellation or shortening of the trip has to be done 24 hours before the trip takes place. In case it is a multi-day trip, the charge for the first day would be deducted from the refunded amount. If it is a single day trip then no refund will be issued.</p>
+		
+		<p>If the cancellation or shortening of the trip is requested within 24 hours of the pickup time, no refund will be issued.</p>
+        
 </div>
 <div style="clear: both;"></div>
 		</div>   <!-- middle -->
@@ -237,20 +276,65 @@ pageTracker._initData();
 
 pageTracker._trackPageview();
 
+</script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5544443-12']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- Google Code for Remarketing tag -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 997433245;
+		var google_conversion_label = "rdM6CMOTywMQnb_O2wM";
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/997433245/?value=0&amp;label=rdM6CMOTywMQnb_O2wM&amp;guid=ON&amp;script=0"/>
+		</div>
+		</noscript>
+<!-- Google Code for Remarketing tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1003615442;
+var google_conversion_label = "JSQ4CPaVwAMQ0unH3gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003615442/?value=0&amp;label=JSQ4CPaVwAMQ0unH3gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 	 	   <!--footer -->
 	 	  <div class="footerLinks">
-		  <a href="http://savaari.com/step1.php">Home</a>
-		  | <a href="http://savaari.com/car-rental-india/india-car-rentals-cars.php">Our Cars</a> |
-		  <a href="http://savaari.com/india-car-rentals-faq.php">FAQ</a>
-		  | <a href="http://savaari.com/car-rental-india/meetings-in-india-aboutus.php">About Us</a> |
-  			<a href="http://savaari.com/privacy.php">Privacy Policy</a> 
-		  | <a href="http://savaari.com/site_map.php">Site Map</a></div>
+		  <a href="http://www.savaari.com/">Home</a>
+		  | <a href="http://www.savaari.com/car-rental-india/india-car-rentals-cars">Our Cars</a> |
+		  <a href="http://www.savaari.com/india-car-rentals-faq">FAQ</a>
+		  | <a href="http://www.savaari.com/car-rental-india/meetings-in-india-aboutus">About Us</a> |
+  			<a href="http://www.savaari.com/privacy_policy_terms_conditions_cancellations">Privacy Policy</a> 
+  		  | <a href="http://www.savaari.com/privacy_policy_terms_conditions_cancellations#terms">Terms and Conditions</a>
+		  | <a href="http://www.savaari.com/site_map">Site Map</a>
+</div>
 
 		  
 	<div class="branchesCntr">
 	 <span class="branH">Branches : </span>
-	<a title="Agra Car Rental" href="http://savaari.com/agra-car-rentals/car-rentals-agra.php">Agra Car Rental</a>,&nbsp;<a title="Ahmedabad Car Rental" href="http://savaari.com/ahmedabad-car-rentals/car-rentals-ahmedabad.php">Ahmedabad Car Rental</a>,&nbsp;<a title="Ajmer Car Rental" href="http://savaari.com/ajmer-car-rentals/car-rentals-ajmer.php">Ajmer Car Rental</a>,&nbsp;<a title="Allahabad Car Rental" href="http://savaari.com/allahabad-car-rentals/car-rentals-allahabad.php">Allahabad Car Rental</a>,&nbsp;<a title="Amritsar Car Rental" href="http://savaari.com/amritsar-car-rentals/car-rentals-amritsar.php">Amritsar Car Rental</a>,&nbsp;<a title="Aurangabad Car Rental" href="http://savaari.com/aurangabad-car-rentals/car-rentals-aurangabad.php">Aurangabad Car Rental</a>,&nbsp;<a title="Bangalore Car Rental" href="http://savaari.com/bangalore-car-rentals/car-rentals-bangalore.php">Bangalore Car Rental</a>,&nbsp;<a title="Belgaum Car Rental" href="http://savaari.com/belgaum-car-rentals/car-rentals-belgaum.php">Belgaum Car Rental</a>,&nbsp;<a title="Bhopal Car Rental" href="http://savaari.com/bhopal-car-rentals/car-rentals-bhopal.php">Bhopal Car Rental</a>,&nbsp;<a title="Bhubaneshwar Car Rental" href="http://savaari.com/bhubaneshwar-car-rentals/car-rentals-bhubaneshwar.php">Bhubaneshwar Car Rental</a>,&nbsp;<a title="Chandigarh Car Rental" href="http://savaari.com/chandigarh-car-rentals/car-rentals-chandigarh.php">Chandigarh Car Rental</a>,&nbsp;<a title="Chennai Car Rental" href="http://savaari.com/chennai-car-rentals/car-rentals-chennai.php">Chennai Car Rental</a>,&nbsp;<a title="Coimbatore Car Rental" href="http://savaari.com/coimbatore-car-rentals/car-rentals-coimbatore.php">Coimbatore Car Rental</a>,&nbsp;<a title="Dehradun Car Rental" href="http://savaari.com/dehradun-car-rentals/car-rentals-dehradun.php">Dehradun Car Rental</a>,&nbsp;<a title="Gaya Car Rental" href="http://savaari.com/gaya-car-rentals/car-rentals-gaya.php">Gaya Car Rental</a>,&nbsp;<a title="Goa Car Rental" href="http://savaari.com/goa-car-rentals/car-rentals-goa.php">Goa Car Rental</a>,&nbsp;<a title="Gorakhpur Car Rental" href="http://savaari.com/gorakhpur-car-rentals/car-rentals-gorakhpur.php">Gorakhpur Car Rental</a>,&nbsp;<a title="Guntur Car Rental" href="http://savaari.com/guntur-car-rentals/car-rentals-guntur.php">Guntur Car Rental</a>,&nbsp;<a title="Gurgaon Car Rental" href="http://savaari.com/gurgaon-car-rentals/car-rentals-gurgaon.php">Gurgaon Car Rental</a>,&nbsp;<a title="Guwahati Car Rental" href="http://savaari.com/guwahati-car-rentals/car-rentals-guwahati.php">Guwahati Car Rental</a>,&nbsp;<a title="Gwalior Car Rental" href="http://savaari.com/gwalior-car-rentals/car-rentals-gwalior.php">Gwalior Car Rental</a>,&nbsp;<a title="Hubli Car Rental" href="http://savaari.com/hubli-car-rentals/car-rentals-hubli.php">Hubli Car Rental</a>,&nbsp;<a title="Hyderabad Car Rental" href="http://savaari.com/hyderabad-car-rentals/car-rentals-hyderabad.php">Hyderabad Car Rental</a>,&nbsp;<a title="Indore Car Rental" href="http://savaari.com/indore-car-rentals/car-rentals-indore.php">Indore Car Rental</a>,&nbsp;<a title="Jabalpur Car Rental" href="http://savaari.com/jabalpur-car-rentals/car-rentals-jabalpur.php">Jabalpur Car Rental</a>,&nbsp;<a title="Jaipur Car Rental" href="http://savaari.com/jaipur-car-rentals/car-rentals-jaipur.php">Jaipur Car Rental</a>,&nbsp;<a title="Jamnagar Car Rental" href="http://savaari.com/jamnagar-car-rentals/car-rentals-jamnagar.php">Jamnagar Car Rental</a>,&nbsp;<a title="Jamshedpur Car Rental" href="http://savaari.com/jamshedpur-car-rentals/car-rentals-jamshedpur.php">Jamshedpur Car Rental</a>,&nbsp;<a title="Jhansi Car Rental" href="http://savaari.com/jhansi-car-rentals/car-rentals-jhansi.php">Jhansi Car Rental</a>,&nbsp;<a title="Jodhpur Car Rental" href="http://savaari.com/jodhpur-car-rentals/car-rentals-jodhpur.php">Jodhpur Car Rental</a>,&nbsp;<a title="Kanpur Car Rental" href="http://savaari.com/kanpur-car-rentals/car-rentals-kanpur.php">Kanpur Car Rental</a>,&nbsp;<a title="Khajuraho Car Rental" href="http://savaari.com/khajuraho-car-rentals/car-rentals-khajuraho.php">Khajuraho Car Rental</a>,&nbsp;<a title="Kochi Car Rental" href="http://savaari.com/kochi-car-rentals/car-rentals-kochi.php">Kochi Car Rental</a>,&nbsp;<a title="Kolhapur Car Rental" href="http://savaari.com/kolhapur-car-rentals/car-rentals-kolhapur.php">Kolhapur Car Rental</a>,&nbsp;<a title="Kolkata Car Rental" href="http://savaari.com/kolkata-car-rentals/car-rentals-kolkata.php">Kolkata Car Rental</a>,&nbsp;<a title="Kota Car Rental" href="http://savaari.com/kota-car-rentals/car-rentals-kota.php">Kota Car Rental</a>,&nbsp;<a title="Lucknow Car Rental" href="http://savaari.com/lucknow-car-rentals/car-rentals-lucknow.php">Lucknow Car Rental</a>,&nbsp;<a title="Ludhiana Car Rental" href="http://savaari.com/ludhiana-car-rentals/car-rentals-ludhiana.php">Ludhiana Car Rental</a>,&nbsp;<a title="Madurai Car Rental" href="http://savaari.com/madurai-car-rentals/car-rentals-madurai.php">Madurai Car Rental</a>,&nbsp;<a title="Mangalore Car Rental" href="http://savaari.com/mangalore-car-rentals/car-rentals-mangalore.php">Mangalore Car Rental</a>,&nbsp;<a title="Mumbai Car Rental" href="http://savaari.com/mumbai-car-rentals/car-rentals-mumbai.php">Mumbai Car Rental</a>,&nbsp;<a title="Mysore Car Rental" href="http://savaari.com/mysore-car-rentals/car-rentals-mysore.php">Mysore Car Rental</a>,&nbsp;<a title="Nagpur Car Rental" href="http://savaari.com/nagpur-car-rentals/car-rentals-nagpur.php">Nagpur Car Rental</a>,&nbsp;<a title="Nasik Car Rental" href="http://savaari.com/nasik-car-rentals/car-rentals-nasik.php">Nasik Car Rental</a>,&nbsp;<a title="New Delhi Car Rental" href="http://savaari.com/delhi-car-rentals/car-rentals-delhi.php">New Delhi Car Rental</a>,&nbsp;<a title="Patna Car Rental" href="http://savaari.com/patna-car-rentals/car-rentals-patna.php">Patna Car Rental</a>,&nbsp;<a title="Pondicherry Car Rental" href="http://savaari.com/pondicherry-car-rentals/car-rentals-pondicherry.php">Pondicherry Car Rental</a>,&nbsp;<a title="Pune Car Rental" href="http://savaari.com/pune-car-rentals/car-rentals-pune.php">Pune Car Rental</a>,&nbsp;<a title="Raipur Car Rental" href="http://savaari.com/raipur-car-rentals/car-rentals-raipur.php">Raipur Car Rental</a>,&nbsp;<a title="Rajkot Car Rental" href="http://savaari.com/rajkot-car-rentals/car-rentals-rajkot.php">Rajkot Car Rental</a>,&nbsp;<a title="Ranchi Car Rental" href="http://savaari.com/ranchi-car-rentals/car-rentals-ranchi.php">Ranchi Car Rental</a>,&nbsp;<a title="Solapur Car Rental" href="http://savaari.com/solapur-car-rentals/car-rentals-solapur.php">Solapur Car Rental</a>,&nbsp;<a title="Surat Car Rental" href="http://savaari.com/surat-car-rentals/car-rentals-surat.php">Surat Car Rental</a>,&nbsp;<a title="Trichy Car Rental" href="http://savaari.com/trichy-car-rentals/car-rentals-trichy.php">Trichy Car Rental</a>,&nbsp;<a title="Trivandrum Car Rental" href="http://savaari.com/trivandrum-car-rentals/car-rentals-trivandrum.php">Trivandrum Car Rental</a>,&nbsp;<a title="Udaipur Car Rental" href="http://savaari.com/udaipur-car-rentals/car-rentals-udaipur.php">Udaipur Car Rental</a>,&nbsp;<a title="Vadodara Car Rental" href="http://savaari.com/vadodara-car-rentals/car-rentals-vadodara.php">Vadodara Car Rental</a>,&nbsp;<a title="Varanasi Car Rental" href="http://savaari.com/varanasi-car-rentals/car-rentals-varanasi.php">Varanasi Car Rental</a>,&nbsp;<a title="Vijayawada Car Rental" href="http://savaari.com/vijayawada-car-rentals/car-rentals-vijayawada.php">Vijayawada Car Rental</a>,&nbsp;<a title="Visakhapatnam Car Rental" href="http://savaari.com/visakhapatnam-car-rentals/car-rentals-visakhapatnam.php">Visakhapatnam Car Rental</a>,&nbsp;
+	<a title="Agra Car Rental" href="http://www.savaari.com/agra-car-rentals/car-rentals-agra">Agra Car Rental</a>,&nbsp;<a title="Ahmedabad Car Rental" href="http://www.savaari.com/ahmedabad-car-rentals/car-rentals-ahmedabad">Ahmedabad Car Rental</a>,&nbsp;<a title="Ajmer Car Rental" href="http://www.savaari.com/ajmer-car-rentals/car-rentals-ajmer">Ajmer Car Rental</a>,&nbsp;<a title="Allahabad Car Rental" href="http://www.savaari.com/allahabad-car-rentals/car-rentals-allahabad">Allahabad Car Rental</a>,&nbsp;<a title="Amritsar Car Rental" href="http://www.savaari.com/amritsar-car-rentals/car-rentals-amritsar">Amritsar Car Rental</a>,&nbsp;<a title="Aurangabad Car Rental" href="http://www.savaari.com/aurangabad-car-rentals/car-rentals-aurangabad">Aurangabad Car Rental</a>,&nbsp;<a title="Bangalore Car Rental" href="http://www.savaari.com/bangalore-car-rentals/car-rentals-bangalore">Bangalore Car Rental</a>,&nbsp;<a title="Belgaum Car Rental" href="http://www.savaari.com/belgaum-car-rentals/car-rentals-belgaum">Belgaum Car Rental</a>,&nbsp;<a title="Bhopal Car Rental" href="http://www.savaari.com/bhopal-car-rentals/car-rentals-bhopal">Bhopal Car Rental</a>,&nbsp;<a title="Bhubaneshwar Car Rental" href="http://www.savaari.com/bhubaneshwar-car-rentals/car-rentals-bhubaneshwar">Bhubaneshwar Car Rental</a>,&nbsp;<a title="Chandigarh Car Rental" href="http://www.savaari.com/chandigarh-car-rentals/car-rentals-chandigarh">Chandigarh Car Rental</a>,&nbsp;<a title="Chennai Car Rental" href="http://www.savaari.com/chennai-car-rentals/car-rentals-chennai">Chennai Car Rental</a>,&nbsp;<a title="Coimbatore Car Rental" href="http://www.savaari.com/coimbatore-car-rentals/car-rentals-coimbatore">Coimbatore Car Rental</a>,&nbsp;<a title="Dehradun Car Rental" href="http://www.savaari.com/dehradun-car-rentals/car-rentals-dehradun">Dehradun Car Rental</a>,&nbsp;<a title="Gaya Car Rental" href="http://www.savaari.com/gaya-car-rentals/car-rentals-gaya">Gaya Car Rental</a>,&nbsp;<a title="Goa Car Rental" href="http://www.savaari.com/goa-car-rentals/car-rentals-goa">Goa Car Rental</a>,&nbsp;<a title="Gorakhpur Car Rental" href="http://www.savaari.com/gorakhpur-car-rentals/car-rentals-gorakhpur">Gorakhpur Car Rental</a>,&nbsp;<a title="Guntur Car Rental" href="http://www.savaari.com/guntur-car-rentals/car-rentals-guntur">Guntur Car Rental</a>,&nbsp;<a title="Gurgaon Car Rental" href="http://www.savaari.com/gurgaon-car-rentals/car-rentals-gurgaon">Gurgaon Car Rental</a>,&nbsp;<a title="Guwahati Car Rental" href="http://www.savaari.com/guwahati-car-rentals/car-rentals-guwahati">Guwahati Car Rental</a>,&nbsp;<a title="Gwalior Car Rental" href="http://www.savaari.com/gwalior-car-rentals/car-rentals-gwalior">Gwalior Car Rental</a>,&nbsp;<a title="Hubli Car Rental" href="http://www.savaari.com/hubli-car-rentals/car-rentals-hubli">Hubli Car Rental</a>,&nbsp;<a title="Hyderabad Car Rental" href="http://www.savaari.com/hyderabad-car-rentals/car-rentals-hyderabad">Hyderabad Car Rental</a>,&nbsp;<a title="Indore Car Rental" href="http://www.savaari.com/indore-car-rentals/car-rentals-indore">Indore Car Rental</a>,&nbsp;<a title="Jabalpur Car Rental" href="http://www.savaari.com/jabalpur-car-rentals/car-rentals-jabalpur">Jabalpur Car Rental</a>,&nbsp;<a title="Jaipur Car Rental" href="http://www.savaari.com/jaipur-car-rentals/car-rentals-jaipur">Jaipur Car Rental</a>,&nbsp;<a title="Jamnagar Car Rental" href="http://www.savaari.com/jamnagar-car-rentals/car-rentals-jamnagar">Jamnagar Car Rental</a>,&nbsp;<a title="Jamshedpur Car Rental" href="http://www.savaari.com/jamshedpur-car-rentals/car-rentals-jamshedpur">Jamshedpur Car Rental</a>,&nbsp;<a title="Jhansi Car Rental" href="http://www.savaari.com/jhansi-car-rentals/car-rentals-jhansi">Jhansi Car Rental</a>,&nbsp;<a title="Jodhpur Car Rental" href="http://www.savaari.com/jodhpur-car-rentals/car-rentals-jodhpur">Jodhpur Car Rental</a>,&nbsp;<a title="Kanpur Car Rental" href="http://www.savaari.com/kanpur-car-rentals/car-rentals-kanpur">Kanpur Car Rental</a>,&nbsp;<a title="Khajuraho Car Rental" href="http://www.savaari.com/khajuraho-car-rentals/car-rentals-khajuraho">Khajuraho Car Rental</a>,&nbsp;<a title="Kochi Car Rental" href="http://www.savaari.com/kochi-car-rentals/car-rentals-kochi">Kochi Car Rental</a>,&nbsp;<a title="Kolhapur Car Rental" href="http://www.savaari.com/kolhapur-car-rentals/car-rentals-kolhapur">Kolhapur Car Rental</a>,&nbsp;<a title="Kolkata Car Rental" href="http://www.savaari.com/kolkata-car-rentals/car-rentals-kolkata">Kolkata Car Rental</a>,&nbsp;<a title="Kota Car Rental" href="http://www.savaari.com/kota-car-rentals/car-rentals-kota">Kota Car Rental</a>,&nbsp;<a title="Lucknow Car Rental" href="http://www.savaari.com/lucknow-car-rentals/car-rentals-lucknow">Lucknow Car Rental</a>,&nbsp;<a title="Ludhiana Car Rental" href="http://www.savaari.com/ludhiana-car-rentals/car-rentals-ludhiana">Ludhiana Car Rental</a>,&nbsp;<a title="Madurai Car Rental" href="http://www.savaari.com/madurai-car-rentals/car-rentals-madurai">Madurai Car Rental</a>,&nbsp;<a title="Mangalore Car Rental" href="http://www.savaari.com/mangalore-car-rentals/car-rentals-mangalore">Mangalore Car Rental</a>,&nbsp;<a title="Mumbai Car Rental" href="http://www.savaari.com/mumbai-car-rentals/car-rentals-mumbai">Mumbai Car Rental</a>,&nbsp;<a title="Mysore Car Rental" href="http://www.savaari.com/mysore-car-rentals/car-rentals-mysore">Mysore Car Rental</a>,&nbsp;<a title="Nagpur Car Rental" href="http://www.savaari.com/nagpur-car-rentals/car-rentals-nagpur">Nagpur Car Rental</a>,&nbsp;<a title="Nasik Car Rental" href="http://www.savaari.com/nasik-car-rentals/car-rentals-nasik">Nasik Car Rental</a>,&nbsp;<a title="New Delhi Car Rental" href="http://www.savaari.com/delhi-car-rentals/car-rentals-delhi">New Delhi Car Rental</a>,&nbsp;<a title="Patna Car Rental" href="http://www.savaari.com/patna-car-rentals/car-rentals-patna">Patna Car Rental</a>,&nbsp;<a title="Pondicherry Car Rental" href="http://www.savaari.com/pondicherry-car-rentals/car-rentals-pondicherry">Pondicherry Car Rental</a>,&nbsp;<a title="Pune Car Rental" href="http://www.savaari.com/pune-car-rentals/car-rentals-pune">Pune Car Rental</a>,&nbsp;<a title="Raipur Car Rental" href="http://www.savaari.com/raipur-car-rentals/car-rentals-raipur">Raipur Car Rental</a>,&nbsp;<a title="Rajkot Car Rental" href="http://www.savaari.com/rajkot-car-rentals/car-rentals-rajkot">Rajkot Car Rental</a>,&nbsp;<a title="Ranchi Car Rental" href="http://www.savaari.com/ranchi-car-rentals/car-rentals-ranchi">Ranchi Car Rental</a>,&nbsp;<a title="Solapur Car Rental" href="http://www.savaari.com/solapur-car-rentals/car-rentals-solapur">Solapur Car Rental</a>,&nbsp;<a title="Surat Car Rental" href="http://www.savaari.com/surat-car-rentals/car-rentals-surat">Surat Car Rental</a>,&nbsp;<a title="Trichy Car Rental" href="http://www.savaari.com/trichy-car-rentals/car-rentals-trichy">Trichy Car Rental</a>,&nbsp;<a title="Trivandrum Car Rental" href="http://www.savaari.com/trivandrum-car-rentals/car-rentals-trivandrum">Trivandrum Car Rental</a>,&nbsp;<a title="Udaipur Car Rental" href="http://www.savaari.com/udaipur-car-rentals/car-rentals-udaipur">Udaipur Car Rental</a>,&nbsp;<a title="Vadodara Car Rental" href="http://www.savaari.com/vadodara-car-rentals/car-rentals-vadodara">Vadodara Car Rental</a>,&nbsp;<a title="Varanasi Car Rental" href="http://www.savaari.com/varanasi-car-rentals/car-rentals-varanasi">Varanasi Car Rental</a>,&nbsp;<a title="Vijayawada Car Rental" href="http://www.savaari.com/vijayawada-car-rentals/car-rentals-vijayawada">Vijayawada Car Rental</a>,&nbsp;<a title="Visakhapatnam Car Rental" href="http://www.savaari.com/visakhapatnam-car-rentals/car-rentals-visakhapatnam">Visakhapatnam Car Rental</a>,&nbsp;
 		
 	</div>
 	</div>
@@ -259,11 +343,9 @@ pageTracker._trackPageview();
 	
 	
 	<div class="outer copyRight">
-	<div class="wrapper copyRightCont">Copyright © 2006-2012 savaari.com. All Rights Reserved.           </div>
+	<div class="wrapper copyRightCont">Copyright ©&nbsp;2006-2012 savaari.com. All Rights Reserved.           </div>
 </div>
 	
-	
-
 
 
 
