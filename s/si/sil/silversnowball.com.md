@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silversnowball.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075153id_/http%3A//silversnowball.com/cgi-bin/d.cgi/1/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silversnowball.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026015912id_/http%3A//www.silversnowball.com/cgi-bin/d.cgi/1/privacy2.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -249,7 +249,7 @@ Latest Update
   
 
 
-This Privacy Policy was last updated on: April, 2008
+This Privacy Policy was last updated on: September, 2012
 
   
 
@@ -287,6 +287,4 @@ any contractual or other legal rights in or on behalf of any
 
 party.
 
-[Back to Silversnowball](http://silversnowball.com/cgi-bin/d.cgi/1/order.htm)
-
-[Home](http://silversnowball.com/cgi-bin/d.cgi/1/order.htm) | [FAQs](http://silversnowball.com/cgi-bin/d.cgi/1/faq.htm) | [Privacy Policy](http://silversnowball.com/cgi-bin/d.cgi/1/privacy.htm) | [Terms Of Use](http://silversnowball.com/cgi-bin/d.cgi/1/terms.htm) | [Testimonials](http://silversnowball.com/cgi-bin/d.cgi/1/testimonials.htm)  | [Contact](http://silversnowball.com/cgi-bin/d.cgi/1/contact.htm)
+[Back to Silversnowball](http://silversnowball.com/cgi-bin/d.cgi/1/inforequest.htm)
