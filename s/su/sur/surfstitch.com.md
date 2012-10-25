@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515113215id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025134142id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
 
 # SURFSTITCH - AUSTRALIA'S #1 FOR SURF & FASHION | Boardshorts, Bikinis, Tees, Dresses & Surfing Gear
 
-[](https://server.iad.liveperson.net/hc/8012262/?cmd=file&file=visitorWantsToChat&site=8012262&byhref=1&imageUrl=https://www.surfstitch.com/images/static/benliveperson.jpg)[](http://www.surfstitch.com/home)
+[](http://www.surfstitch.com/home)
+
+[](https://web.archive.org/info/Australian_Delivery) [](https://web.archive.org/info/Oria_Awards_2012) [](https://web.archive.org/info/Australian_Returns)
 
   
 
@@ -91,12 +93,12 @@ For more information about the National Privacy Principles, see the Federal Priv
 
 WHAT'S IN STORE | SHIPPING & RETURNS | HOW CAN WE HELP? | FURTHER INFORMATION  
 ---|---|---|---  
-[Mens Clothing](https://web.archive.org/category/mens-clothing) | [Footwear](https://web.archive.org/category/footwear) | [Gift Wrapping](https://web.archive.org/info/Gift_Wrapping) | [Contact Us](https://web.archive.org/info/footer_contact_us) | [Promotions](https://web.archive.org/info/footer_promotions) | [Testimonials](https://web.archive.org/info/Testimonials)  
+[Mens Clothing](https://web.archive.org/category/mens-clothing) | [Footwear](https://web.archive.org/category/footwear) | [Gift Wrapping](https://web.archive.org/info/Gift_Wrapping) | [Help / Contact Us](https://web.archive.org/info/help) | [Promotions](https://web.archive.org/info/footer_promotions) | [Testimonials](https://web.archive.org/info/Testimonials)  
 ---|---|---|---|---|---  
 [Womens Clothing](https://web.archive.org/category/womens-clothing) | [Bags](https://web.archive.org/category/bags) | [Free Australian Shipping](https://web.archive.org/info/Australian_Delivery) | [My Account](https://www.surfstitch.com/myAccount/myAccountLogin.jsp) | [Gift Card](https://web.archive.org/gift/buyGiftCertificate.jsp) | [Affiliate Program](https://web.archive.org/info/Affiliate_Program)  
-[Kids Clothing](https://web.archive.org/category/kids-clothing) | [Watches](https://web.archive.org/category/watches) | [Express New Zealand Shipping](https://web.archive.org/info/New_Zealand_Delivery) | [General FAQ](https://web.archive.org/info/General_FAQ) | [About Us](https://web.archive.org/info/footer_about_us) | [Partners](https://web.archive.org/info/Partners)  
-[Accessories](https://web.archive.org/category/accessories) | [Wetsuits](https://web.archive.org/category/wetsuits) | [Express International Shipping](https://web.archive.org/info/International_Delivery) | [Ordering FAQ](https://web.archive.org/info/Ordering_FAQ) | [Careers](http://careers.surfstitch.com/) | [Terms and Conditions](https://web.archive.org/info/footer_terms_and_conditions)  
-[Sale](https://web.archive.org/category/sale) | [Surf Gear](https://web.archive.org/category/surf) | [Australian Returns](https://web.archive.org/info/Australian_Returns) | [Shipping FAQ](https://web.archive.org/info/Shipping_FAQ) | [Site Map](https://web.archive.org/info/footer_site_map) | [Look Book](https://web.archive.org/info/Look_book)  
-[Brands A-Z](https://web.archive.org/brand) | [Snow Gear](https://web.archive.org/category/snow) | [International Returns](https://web.archive.org/info/International_Returns) | [Returns FAQ](https://web.archive.org/info/Returns_FAQ) | [Privacy Policy](https://web.archive.org/info/footer_privacy_policy) | [This and That Fashion Blog](http://blog.surfstitch.com/)  
+[Kids Clothing](https://web.archive.org/category/kids-clothing) | [Watches](https://web.archive.org/category/watches-online) | [Express New Zealand Shipping](https://web.archive.org/info/New_Zealand_Delivery) | [About Us](https://web.archive.org/info/footer_about_us) | [Uni Days](https://web.archive.org/info/uni_days) | [Partners](https://web.archive.org/info/Partners)  
+[Accessories](https://web.archive.org/category/accessories) | [Wetsuits](https://web.archive.org/category/wetsuits) | [Express International Shipping](https://web.archive.org/info/International_Delivery) | [Privacy Policy](https://web.archive.org/info/footer_privacy_policy) | [Facebook](http://www.facebook.com/surfstitchcom?sk=app_208195102528120&app_data=dlt) | [Site Map](https://web.archive.org/info/footer_site_map)  
+[Sale](https://web.archive.org/category/sale) | [Surf Gear](https://web.archive.org/category/surf) | [Australian Returns](https://web.archive.org/info/Australian_Returns) | [Terms and Conditions](https://web.archive.org/info/footer_terms_and_conditions) | [Twitter](https://twitter.com/#!/surfstitch) | [Look Book](https://web.archive.org/info/Look_book)  
+[Brands A-Z](https://web.archive.org/brand) | [Snow Gear](https://web.archive.org/category/snow) | [International Returns](https://web.archive.org/info/International_Returns) | [Careers](http://careers.surfstitch.com/) | [Google +](https://plus.google.com/107277084782174639798/posts) | [This and That Fashion Blog](http://blog.surfstitch.com/)  
   
 © Copyright SurfStitch 2012 All rights reserved
