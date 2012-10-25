@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629092742id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025094101id_/https%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
 
-# SocialAppsHQ - Use our apps to make your Facebook Page stand out
+# Social Media Marketing Made Really Simple - SocialAppsHQ
 
 Last Updated: Jan 1, 2011
 
@@ -44,15 +44,15 @@ SocialAppsHQ takes reasonable security measures to protect your personal informa
 If you use a password on our Site, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please advise us immediately.
 
 **CHOICES ABOUT USE OF YOUR INFORMATION**  
-You may "opt-out" of receiving promotional emails from SocialAppsHQ by following the instructions in those emails. You may also send requests relating to promotional messages and your permission for sharing information with third parties for their marketing purposes by emailing [privacy@SocialAppsHQApp.com](mailto:privacy@SocialAppsHQApp.com). Opt-out requests will not apply to transactional service messages, including messages about your current SocialAppsHQ account and services.
+You may "opt-out" of receiving promotional emails from SocialAppsHQ by following the instructions in those emails. You may also send requests relating to promotional messages and your permission for sharing information with third parties for their marketing purposes by emailing [privacy@SocialAppsHQ.com](mailto:privacy@SocialAppsHQ.com). Opt-out requests will not apply to transactional service messages, including messages about your current SocialAppsHQ account and services.
 
 You may also choose to remove the Application from your Facebook account by clicking on "Settings" in the toolbar and selecting "Application Settings" from the drop-down menu. Click the "x" next to the Application's name, then click "remove" again to confirm the deletion.
 
 **UPDATING AND ACCESSING YOUR PERSONAL INFORMATION**  
-If your personal information changes, we invite you to correct or update your information as soon as possible. You can request changes or access to your information by emailing [privacy@SocialAppsHQApp.com](mailto:privacy@SocialAppsHQApp.com).
+If your personal information changes, we invite you to correct or update your information as soon as possible. You can request changes or access to your information by emailing [privacy@SocialAppsHQ.com](mailto:privacy@SocialAppsHQ.com).
 
 **CHANGES TO THIS POLICY**  
 SocialAppsHQ may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If there are material changes to this policy, we will notify you more directly. We encourage you to review this Policy whenever you visit our Sites or use our Applications to understand how your personal information is used.
 
 **QUESTIONS ABOUT THIS POLICY**  
-If you have any questions about this Policy, please contact us at [privacy@SocialAppsHQApp.com](mailto:privacy@SocialAppsHQApp.com).
+If you have any questions about this Policy, please contact us at [privacy@SocialAppsHQ.com](mailto:privacy@SocialAppsHQ.com).
