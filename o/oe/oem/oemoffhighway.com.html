@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oemoffhighway.com privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524034321id_/http%3A//www.oemoffhighway.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oemoffhighway.com privacy policy that was archived on 2012-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121025103434id_/http%3A//www.oemoffhighway.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
@@ -17,17 +17,30 @@
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.oemoffhighway.com/sites/www.oemoffhighway.com/merrick/files/css/master.orion.css?m=1337717540">
+   <link rel="stylesheet" type="text/css" href="http://www.oemoffhighway.com/sites/www.oemoffhighway.com/merrick/files/css/master.orion.css?m=1351023141">
 
    <!-- End included CSS -->
 
    <!-- Begin included scripts -->
-   <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   <script type="text/javascript" defer="" async="" src="/lib/piwik/piwik.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=3_1mFBZQiQZilu42EMH9DXP-Tm2uYG5LdPJDtHqSDSu_ORvliInvHzM7JcxoZGaOR4">
+
+{
+  siteName: 'oemoffhighway.com',
+  autoLogin: true,
+  enabledProviders: 'facebook,twitter,google,linkedin',
+  sessionExpiration: 0,                         // expire the user login session when the browser closes
+  connectWithoutLoginBehavior: 'alwaysLogin',   // This will cause Gigya's 'Adding Connection' operation (i.e. when the user clicks one of the social network buttons within the Social Plugins)
+  newUsersPendingRegistration: true            // When a new user logs-in (registers) via Gigya his new account is not considered final until socialize.notifyRegistration is called.
+}
+
+</script>
 <script type="text/javascript" src="http://ox-d.oemoffhighway.com/w/1.0/jstag"></script>
-<script type="text/javascript" src="http://www.oemoffhighway.com/sites/www.oemoffhighway.com/merrick/files/js/c8bc9b53a29a0928cb9bd333217a5f8f.js"></script>
+<script type="text/javascript" src="http://www.oemoffhighway.com/sites/www.oemoffhighway.com/merrick/files/js/59880c2f9034fcc37f4b135992fbd135.js"></script>
 
 
    
@@ -49,7 +62,10 @@ var _gaq = _gaq || [];
                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                   })();
 
-   
+   var default_fb_image = '/sites/www.oemoffhighway.com/merrick/themes/orion/css/images/site_logo_fb.png';
+
+
+
    var OX_4dc95e69a1e2d = OX();
    OX_4dc95e69a1e2d.addAdUnit('31843,31845,31849,31850,31847,31844,31851,76511,76512');
    
@@ -78,16 +94,30 @@ $(document).ready(function(){
 
    
 
-   $('.dropdown').parent().hover(function() {
 
-      /*$('.dropdown_nav').each(function() {
-         $(this).hide(0);
-      });*/
+   /*  Navigation Dropdown Menu JS  */
+
+   
+   $('.dropdown').parent().hover(function() {
 
       $(this).find('.dropdown').next('.dropdown_nav').stop(false,false).show();//.slideDown('fast');
 
    }, function() {
       $(this).find('.dropdown').next('.dropdown_nav').hide(0);
+   });
+   
+   
+   /*  LoggedIn Drop Down Menu JS  */
+   
+   
+   $('.logged_in_dropdown').parent().hover(function() {
+   
+      $(this).find('.logged_in_dropdown').next('.dropdown_nav').stop(false,false).show().slideDown('fast');
+      $(this).parents('#logged_in').addClass('active');
+
+   }, function() {
+      $(this).find('.logged_in_dropdown').next('.dropdown_nav').hide(0);
+      $(this).parents('#logged_in').removeClass('active');
    });
 
 
@@ -106,17 +136,17 @@ $(document).ready(function(){
    /* Animate the ad gracefully. */
    var timeout = 15000;
    if (typeof $('#welcome_ad')[0] != 'undefined' && $('#welcome_ad')[0].nodeName == 'DIV'){
-      $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800); });
+      $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); }); });
       $('#welcome_ad').animate({ height: 520 }, 800);
       if ($('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
-      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800);", timeout);
+      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
    } else {
       if ($('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
-      setTimeout("$('#welcome_frame').animate({ height: 0 }, 800);", timeout);
+      setTimeout("$('#welcome_frame').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
    }
 
 
@@ -127,8 +157,7 @@ default_text('EMAIL_ADDRESS');
 
    $('#magazine_sub_hover').tooltip({ effect: 'slide', tipClass: 'magazine_tooltip', relative: true, position: 'top center', offset: [10, 0]});
    $('.fan_box .profileimage').hide();
-
-tabbed_list_init('social_activity');});
+});
 //]]>
 </script>
 
@@ -136,7 +165,7 @@ tabbed_list_init('social_activity');});
    
 <script type="text/javascript">
 //<![CDATA[
-$(window).load(function(){window.setTimeout('facebook_init()', 3000);});
+$(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 //]]>
 </script>
 
@@ -147,37 +176,6 @@ $(window).load(function(){window.setTimeout('facebook_init()', 3000);});
 
    <!-- Body Javascript includes -->
 <!-- Site Catalyst -->
-<!-- SiteCatalyst code version: H.23.3.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-
-<script type="text/javascript">
-   var s_account="cygnusooh";
-   var s_domain_name="oemoffhighway.com";
-</script>
-
-
-<script language="JavaScript" type="text/javascript" src="/app/merrick/themes/orion/js/s_code_23_3.js"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-
-s.pageName="privacy-policy";
-s.channel="privacy-policy";
-s.prop1="privacy-policy";
-s.prop2="privacy-policy";
-s.prop3="privacy-policy";
-s.prop9="orion";
-s.eVar9="orion";
-s.events="event1";
-s.hier1="privacy-policy";
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://cygnus.122.2o7.net/b/ss/cygnusooh/1/H.23.3--NS/0"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.23.3. -->
 
 <!-- Google Analytics -->
 
@@ -229,12 +227,14 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- addOptions wrapper (custom) -->
 
 
+
 <!-- Brightcove -->
 
 
 
 <!-- ShareThis -->
 
+<!-- Gigya Analytics -->
 
 
 <!-- Merrick App and Theme JS -->
@@ -242,7 +242,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 <!-- LinkedIn -->
-
 
 <!-- Twitter -->
 
@@ -252,10 +251,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- Piwik -->
 
 
-
-
-   <!-- Deferred loading of Facebook "Like" button and widgets -->
-   
 
 
 
@@ -270,6 +265,19 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <!-- Bizo -->
   
+
+
+
+
+
+<!-- socialize.js script should only be included once -->
+
+
+
+
+
+
+
 
 
 <!-- Background container -->
@@ -292,11 +300,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
   <div class="header_advertisement">
   	<aside class="ad_728x90">
-   <div class="ad_tracking" rel="31843">
+         <div class="ad_tracking" rel="31843" id="openx_adunit_id__31843">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("31843");
    </script>
 </div>
+      
+      
 </aside>
   
   	<aside class="header_ad"><a href="http://www.oemoffhighway.com/specguide">
@@ -309,10 +319,16 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
          <img src="http://www.oemoffhighway.com/sites/www.oemoffhighway.com/merrick/themes/orion/css/images/site_logo.png" alt=""><br>
       </a>
 
+         <div class="primary">
+   	      <a id="login_link" href="/reg/login/display?referer=/privacy-policy" class="login button_primary button grid_item" title="Sign In">Login</a>
+      <a id="register_link" href="/reg/register/display?referer=/privacy-policy" class="button_secondary button register grid_item alpha" title="Register for OEM Off-Highway">Register</a>
       
-   <div class="primary">
-      <a href="javascript: void(0)" id="register_button" class="form_modal button_primary button register grid_item alpha" data-block="register" title="Register for OEM Off-Highway" rel="#page_overlay">Register</a>
-      <a href="javascript: void(0)" class="form_modal login button_secondary button grid_item" data-block="login" title="Sign In" rel="#page_overlay">Login</a>
+      <div class="social_login grid_item">
+         <script type="text/javascript">
+            gigya.socialize.showLoginUI(gigya_showloginui_params);
+         </script>
+         <div id="loginDiv"></div>
+      </div>
       <div class="grid_item omega">
          <a class="why_register" href="/why_register">Why register?</a>
          <span class="register_tagline">Enhance Your Experience</span>
@@ -328,10 +344,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <span class="contact_us primary"><a href="http://www.oemoffhighway.com/contact_us">Contact Us</a></span>
     <span class="bookmark primary"><a href="#" class="jqbookmark">Bookmark</a></span>
 </div>
-<div class="facebook_like_button">
-    <fb:like href="http%3A%2F%2Fwww.oemoffhighway.com%2Fprivacy-policy%3Futm_source%3DFacebook%26utm_medium%3Dsocial%26campaign%3Duser" layout="button_count" show_faces="false" width="0"></fb:like>
-
+<div class="social_buttons">
 </div>
+
          
 
 <form id="site_search_form" name="site_search_form" title="Search" class="search site_search_form" action="http://www.oemoffhighway.com/search">
@@ -359,7 +374,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 	      <li class="nav_magazine/ooh"><a href="http://www.oemoffhighway.com/magazine/ooh" target=""><span>Magazine</span></a></li>
 	      <li class="nav_events"><a href="http://www.oemoffhighway.com/events" target=""><span>Events</span></a></li>
 	      <li class="nav_blogs/manufacturing-matters"><a href="http://www.oemoffhighway.com/blogs/manufacturing-matters" target=""><span>Blog</span></a></li>
-	      <li class="nav_careers last"><a href="http://www.oemoffhighway.com/careers" target=""><span>Careers</span></a></li>
+	      <li class="nav_minexpo last"><a href="http://www.oemoffhighway.com/minexpo" target=""><span>MINExpo 2012</span></a></li>
 	   </ul>
    <!-- Secondary navigation -->
    <ul class="secondary location_home clearfix">
@@ -377,8 +392,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.oemoffhighway.com/topics/systems/operator-environment" title="Operator Environment" target="">Operator Environment</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -447,41 +463,14 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 			<section>
 
    <section class="connect_social block">
-    <span class="join_us grid_item">Join us</span>
 
-    <a class="facebook grid_item" href="http://www.facebook.com/OEMOffHighway" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/facebook.png" alt="Facebook Icon">
-    </a>
+    <span class="facebook_text grid_item">Follow us on:</span>
 
-    <span class="join_us grid_item">Connect with us</span>
+    <div id="connect_social_icons"></div>
 
-    <a class="linkedin grid_item" href="http://www.linkedin.com/groupInvitation?groupID=1831755" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/linkedin.png" alt="LinkedIn Icon">
-    </a>
 
-    <span class="join_us grid_item">Follow us</span>
 
-    <a class="twitter grid_item" href="http://twitter.com/OEMOffHighway" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/twitter.png" alt="Twitter Icon">
-    </a>
 
-        <div class="grid_item rss">
-        <div class="mobile_text grid_item">RSS:</div> 
-	    <a class="rss " href="http://www.oemoffhighway.com/feeds/privacy-policy" target="_blank">
-	        <img src="/app/merrick/themes/orion/css/images/rss.png" alt="RSS Icon">
-	    </a>
-    </div>
-      
-    
-    <div class="grid_item mobile">
-        <div class="mobile_text grid_item">Mobile:</div> 
-        
-        <a class="mobile_image grid_item" href="http://mobile.oemoffhighway.com/privacy-policy">
-            <img src="/app/merrick/themes/orion/css/images/mobile.png" alt="Mobile Icon">
-        </a>  
-    </div>
-
-    
 
     <div class="clear"></div>
 </section>
@@ -499,9 +488,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
       <h4 class="primary">Sign up for FREE email alerts!</h4>
    
       <div class="signup">
-         <form id="newsletter_signup_form" action="/register/step1" method="get" name="newsletter_signup_form">
+         <form id="newsletter_signup_form" action="/reg/newsletter/display" method="get" name="newsletter_signup_form">
             <input type="email" class="newsletter_signup_email" id="newsletter_signup_form_email" name="email" value="" title="Enter your e-mail address">
-            <a rel="#page_overlay" class="button_primary button form_modal" data-block="register" data-inputs="newsletter_signup_form_email">Submit</a>
+            <input type="submit" class="button_primary button" value="Submit">
          </form>
       </div>
    	   <div class="divider"></div>
@@ -518,91 +507,42 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
    
    <aside class="ad_300x250">
-   <div class="ad_tracking" rel="31845">
+         <div class="ad_tracking" rel="31845" id="openx_adunit_id__31845">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("31845");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
    
-   
-
-<section id="social_activity" class="social_activity block">
-
-   <ul class="tabbed_list clearfix">
-            <li class="item first">
-         <a href="#" class="primary current">Facebook Activity</a>
-      </li>
-            <li class="item">
-         <a href="#" class="primary">Facebook Fans</a>
-      </li>
-            <li class="item last">
-         <a href="#" class="primary">Twitter</a>
-      </li>
-         </ul>
-
-   <div class="tabbed_panes">
-            <div id="facebook_activity_widget" class="activity_box facebook_activity" "="">
-         
-<fb:activity width="300" height="308" header="true" recommendations="true"></fb:activity>
-
-      </div>
-            <div id="facebook_fans_widget" class="activity_box facebook_fans" style="display: none;">
-         
-<fb:like-box href="http://www.facebook.com/OEMOffHighway" width="300" height="308" stream="false" header="true"></fb:like-box>
-
-      </div>
-            <div id="twitter_feed_widget" class="activity_box twitter_feed" style="display: none;">
-         
+   <section id="social_activity" class="social_activity block" style="clear:both;">
 <script type="text/javascript">
-   /*var T = new TWTR.Widget({
-      version: 2,
-      type: 'profile',
-      rpp: 4,
-      interval: 6000,
-      width: 300,
-      height: 308,
-      theme: {
-         shell: {
-            background: '#4A4A4A',
-            color: '#FFFFFF'
-         },
-         tweets: {
-            background: '#FFFFFF',
-            color: '#333333',
-            links: '#0093DC'
-         }
-      },
-      features: {
-         scrollbar: false,
-         loop: false,
-         live: false,
-         hashtags: true,
-         timestamp: true,
-         avatars: false,
-         behavior: 'all'
-      }
-   }).render().setUser('OEMOffHighway').start();
-   if (typeof T.decay == 'undefined') {
-      T.decay = (function(){});
-   }*/
+
+var params = {
+    containerID: 'social_activity',
+    width:'300',  //width in px
+    height:'300', //height in px
+    siteName:'OEM Off-Highway', //site name
+    enabledProviders:'facebook,twitter,google,linkedin' //comma separated list, e.g. "facebook,myspace,twitter,yahoo,linkedin"
+};
+
+	gigya.socialize.showFeedUI(params);
 </script>
 
-      </div>
-         </div>
 </section>
 
    
       
 <div class="grid_9_10 alpha most_popular_sidebar">
    <aside class="ad_120x90">
-   <div class="ad_tracking" rel="31849">
+         <div class="ad_tracking" rel="31849" id="openx_adunit_id__31849">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("31849");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
    
 <section class="content_list block">
@@ -632,9 +572,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
             <!-- Does this list contain featured items? -->
                            
-<dl class="article">
+<dl class="press_release">
 
-    <dd><a href="/article/10683701/qa-with-eaton-hydraulics-steve-zumbusch" class="primary name">Q&amp;A with Steve Zumbusch</a></dd>
+    <dd><a href="/press_release/10815505/caterpillars-new-hybrid-excavator-uses-hydraulics-not-electricity-to-capture-and-reuse-energy" class="primary name">Caterpillar's New Hybrid Excavator Uses Hydraulics, Not...</a></dd>
 
 </dl>
 
@@ -660,9 +600,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
             <!-- Does this list contain featured items? -->
                            
-<dl class="press_release">
+<dl class="article">
 
-    <dd><a href="/press_release/10720035/arens-controls-suffers-fatal-explosion" class="primary name">Arens Controls' suffers fatal explosion</a></dd>
+    <dd><a href="/article/10218934/rolling-transmission-offers-a-smooth-ride" class="primary name">Rolling transmission offers a smooth ride</a></dd>
 
 </dl>
 
@@ -688,9 +628,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
             <!-- Does this list contain featured items? -->
                            
-<dl class="press_release">
+<dl class="product">
 
-    <dd><a href="/press_release/10278854/masternaut-vehicle-tracking-helps-fuel-efficiency" class="primary name">Masternaut Vehicle Tracking Helps Fuel Efficiency</a></dd>
+    <dd><a href="/product/10776833/doran-manufacturing-valve-stem-mounted-tire-pressure-sensors" class="primary name">Valve-Stem Mounted Tire Pressure Sensors</a></dd>
 
 </dl>
 
@@ -718,7 +658,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
                            
 <dl class="article">
 
-    <dd><a href="/article/10166484/avoiding-a-stress-full-situation" class="primary name">Avoiding A Stress-Full Situation</a></dd>
+    <dd><a href="/article/10769943/non-rigid-design-of-a-rigid-haul-truck" class="primary name">Non-rigid design of a rigid haul truck</a></dd>
 
 </dl>
 
@@ -744,9 +684,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
             <!-- Does this list contain featured items? -->
                            
-<dl class="news">
+<dl class="press_release">
 
-    <dd><a href="/news/10704897/casting-industry-continues-to-see-economic-gains" class="primary name">Casting Industry Continues to See Economic Gains</a></dd>
+    <dd><a href="/press_release/10784444/atlas-copco-previews-worlds-largest-articulated-underground-mining-truck-at-minexpo" class="primary name">Atlas Copco previews world's largest articulated underground...</a></dd>
 
 </dl>
 
@@ -776,23 +716,25 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 </section>
 
    <aside class="ad_120x90">
-   <div class="ad_tracking" rel="31850">
+         <div class="ad_tracking" rel="31850" id="openx_adunit_id__31850">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("31850");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
 </div>
    
    <div class="grid_11_12 omega">
       <aside class="ad_160x600">
-   <div class="ad_tracking" rel="31847">
+         <div class="ad_tracking" rel="31847" id="openx_adunit_id__31847">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("31847");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
    </div>
    
@@ -815,11 +757,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
       <footer id="footer">
    <div class="ad_container">
       <aside class="ad_728x90">
-   <div class="ad_tracking" rel="31844">
+         <div class="ad_tracking" rel="31844" id="openx_adunit_id__31844">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("31844");
    </script>
 </div>
+      
+      
 </aside>
 
    </div>
@@ -865,8 +809,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <!-- OAS code -->
 
-
-
+   
 
 
 
@@ -886,9 +829,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
-   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
-<script type="text/javascript" src="http://www.oemoffhighway.com/sites/www.oemoffhighway.com/merrick/files/js/4a045ec5cf80f97eff688f7e6f00799c.js"></script>
+   <script type="text/javascript" src="http://www.oemoffhighway.com/sites/www.oemoffhighway.com/merrick/files/js/d791f12012efa3fe0025962f4d2a4a67.js"></script>
 
 
    
@@ -912,7 +853,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
    });
    
    
-stLight.options({publisher:'aec08c83-ccff-40ed-a2d4-ff1d4b85220b'});
 
 window['tracker_data'] = { };
 try {
@@ -962,8 +902,38 @@ var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http
 document.write(unescape("%3Cscript src=\"" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "\" type=\"text/javascript\"%3E%3C/script%3E"));
 
 
+
+   var showFollowBarUI_params=
+   { 
+      containerID: 'connect_social_icons',
+      iconSize: 32,
+      buttons: [
+      
+      
+         { provider: 'facebook', actionURL: 'http://www.facebook.com/OEMOffHighway', action: 'dialog' },
+      
+
+      
+         { provider: 'twitter', action: 'dialog', followUsers: 'OEMOffHighway' },
+      
+
+      
+         { provider: 'linkedin', actionURL: 'http://www.linkedin.com/groupInvitation?groupID=1831755', title: 'Join us on LinkedIn' },
+      
+
+      
+
+      
+      
+      
+      
+      { provider: 'custom', actionURL: 'http://mobile.oemoffhighway.com/privacy-policy', iconURL: '/app/merrick/themes/orion/css/images/mobile.png', title: 'View our mobile site' }
+      ]
+   }
+
+gigya.socialize.showFollowBarUI(showFollowBarUI_params);
 //]]>
-</script>
+</script><script src="https://sjs.bizographics.com/convert_data.js?partner_id=786" type="text/javascript"></script>
 
 
 
