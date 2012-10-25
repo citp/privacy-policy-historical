@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617105456id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025234300id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - Aviva
 
@@ -20,7 +20,7 @@ The information that we collect via this website may include:-
 
   1. Any personal details that you type in and submit such as your name, address, e-mail address, date of birth, lifestyle and other information.
 
-  2. Data that allows us to remember you, any interests that you have recorded and how you use this website. This saves you from re-keying information when you return to the site and allows us to arrange our website content to match your preferred interests. We may use this information, now or later, to resolve any queries or issues that arise.
+  2. Data that allows us to remember you, any interests that you have recorded and how you use this website. This saves you from re-keying information when you return to the site and allows us to arrange our website content to match your preferred interests.
 
 We use “cookies” to collect this data. Cookies are text-only strings of information that are stored on your web browser or hard disk. You have the ability to accept or decline cookies by modifying the settings of your web browser. However, you may not be able to use all the interactive facilities of our site if cookies are disabled.
 
@@ -35,7 +35,7 @@ Further details are available on our [Aviva Cookie Policy](http://www.aviva.co.u
 What we do with your information
     
 
-Your information may be used for the purposes of insurance administration by the insurer, its associated companies, agents and business partners, by reinsurers and your intermediary. It may be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing the insurer's compliance with any regulatory rules/codes.
+Your information may be used for the purposes of insurance administration by the insurer, its associated companies, by reinsurers and your intermediary. It may be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing the insurer's compliance with any regulatory rules/codes.
 
 Your information may also be used for offering renewal, research and statistical purposes and crime prevention. It may be transferred to any country, including countries outside the European Economic Area for any of these purposes and for systems administration. Where this happens, we will ensure that anyone to whom we pass your information agrees to treat your information with the same level of protection as if we were dealing with it.
 
@@ -46,7 +46,7 @@ In the case of personal data, with limited exceptions, and on payment of the app
 Marketing
     
 
-[Aviva group](http://www.aviva.co.uk/legal/aviva-group-products-and-services.html) and its agents or business partners may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed. By providing us with your contact details, you consent to being contacted for these purposes. At that time, we will provide you with a means of opting-out and in addition, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
+[Aviva group](http://www.aviva.co.uk/legal/aviva-group-products-and-services.html) and its agents may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed. By providing us with your contact details, you consent to being contacted for these purposes. At that time, we will provide you with a means of opting-out and in addition, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
 
 Your rights
     
