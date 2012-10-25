@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the publicschoolworks.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325010529id_/http%3A//corp.publicschoolworks.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicschoolworks.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025125001id_/http%3A//corp.publicschoolworks.com/Page.aspx/7/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Public School WORKS™
+# Privacy Policy - Public School Works
 
 * **Our Commitment to Privacy**
 
@@ -34,7 +34,7 @@ In addition, we automatically gather general statistical information about our W
 
 As part of our service, we use cookies to store and sometimes track information about you.  Some features of our site may be available only through the use of a cookie.  A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive.  Generally, we use cookies to remind us who you are and enable us to access your account information so you do not have to re-enter it; gather statistical information about usage by registered or unregistered users to research visiting patterns and to help target advertisements based on user interests; assist our retail partners track visits and process orders; and track progress and participation in promotions and other services.  Preference and options configurations in your browser determine if and how a cookie will be accepted.  You can change those configurations on your computer if you desire.  By changing your preferences, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies.  If you do so and cookies are disabled, you may be required to re-enter your information more often and certain features of our site may be unavailable.
 
-In addition, our retail partners, advertisers, and other third parties appearing at our site or linked to our site may use their own cookies and may collect personally-identifiable information, including credit card information, in connection with your use of their Web sites.  The privacy policy of such third parties may differ from ours.  We encourage you to read the third party’s privacy policy before responding to the offer to determine how the personally-identifiable information is used by that third party 
+In addition, our retail partners, advertisers, and other third parties appearing at our site or linked to our site may use their own cookies and may collect personally-identifiable information, including credit card information, in connection with your use of their Web sites.  The privacy policy of such third parties may differ from ours.  We encourage you to read the third party’s privacy policy before responding to the offer to determine how the personally-identifiable information is used by that third party
 
 * **The Way We Use Information**
 
