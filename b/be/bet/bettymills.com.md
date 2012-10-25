@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619073816id_/http%3A//support.bettymills.com/customer/portal/articles/347006-privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025080154id_/http%3A//support.bettymills.com/customer/portal/articles/347006-privacy-security) for the most accurate reproduction.*
 
 # The Betty Mills Company | Privacy and Security
 
