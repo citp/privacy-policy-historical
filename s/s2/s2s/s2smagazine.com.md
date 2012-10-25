@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the s2smagazine.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231230id_/http%3A//www.s2smagazine.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s2smagazine.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025231335id_/http%3A//www.s2smagazine.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Welcome to S2Smagazine.com
+# Privacy Policy | S2Smagazine.com
 
 Sister2Sister Magazine (“Sister2Sister Magazine”) recognizes that its customers, visitors, users, and others who use [www.s2smagazine.com](http://www.s2smagazine.com/ "www.s2smagazine.com") or other web sites owned or operated by Sister2Sister Magazine (the “Sister2Sister Magazine Sites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Sister2Sister Magazine Sites. Sister2Sister Magazine provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Sister2Sister Magazine Sites.
 
