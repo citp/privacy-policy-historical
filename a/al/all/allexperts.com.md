@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allexperts.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055438id_/http%3A//www.allexperts.com/central/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allexperts.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025170708id_/http%3A//www.allexperts.com/central/privacy_policy.htm) for the most accurate reproduction.*
 
 # AllExperts - Privacy Policy
 
