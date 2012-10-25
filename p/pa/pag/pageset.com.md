@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageset.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221058id_/http%3A//sp.pageset.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageset.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025054415id_/http%3A//sp.pageset.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
 
 # About Pageset.com Privacy
 
