@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loginhelper.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608015126id_/http%3A//loginhelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginhelper.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025061805id_/http%3A//loginhelper.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Login Helper
+# Privacy Policy | Login Helper
 
 Below is information regarding Login Helper’s commitment to protect the privacy of users and to ensure the integrity of the [Internet](http://loginhelper.com/category/internet/ "Internet"). (This Privacy Policy was last revised on May 22, 2008.)
 
