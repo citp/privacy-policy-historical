@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyou.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030744id_/http%3A//vyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyou.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025154031id_/http%3A//vyou.com/privacy) for the most accurate reproduction.*
 
 # VYou
 
