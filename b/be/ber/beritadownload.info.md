@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beritadownload.info privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626042505id_/http%3A//beritadownload.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beritadownload.info privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026030110id_/http%3A//beritadownload.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Berita Download 2011
 
