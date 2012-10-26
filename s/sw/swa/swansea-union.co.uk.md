@@ -1,63 +1,111 @@
-> *The following text is extracted and transformed from the swansea-union.co.uk privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527103012id_/http%3A//www.swansea-union.co.uk/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swansea-union.co.uk privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026023706id_/http%3A//www.swansea-union.co.uk/footer/privacy) for the most accurate reproduction.*
 
-# Swansea SU Students Union - The Home for Swansea SU University Students
+# Privacy Policy
 
-**Swansea SU**  
-\- **We encourage you to read this Privacy Policy.**   
-Your privacy is important to BAM Agency Ltd, the provider of this website platform. The following Privacy Policy discloses the information practices for BAM websites, including the type of information gathered, how the information is used, and BAM's policy regarding sharing information with others.   
-BAM have implemented these practices for all websites across the BAM platform including this website and its various MiniSites pages. Information regarding our privacy practices is included wherever personal information is collected on the site. 
+SUSU is committed to protecting your privacy when you are using its online services.
 
-**Consent** \- By using the Site, you agree to the terms of this Privacy Policy. 
+##  Guiding Privacy Principles
 
-**Types of Information We Collect
+Compliance with the Data Protection Act of 1998 underlies all of our personal information privacy practices. We also have a set of guiding principles which govern how we use the information that we collect about you on our websites.
 
-\- Personal Information Provided by You
+Use of data is compliant with the Data Protection Act 1998 and specifically with the 8 data principles that are set out within it:
 
-**   
-We gather Personal Information and Anonymous Information from you when you visit the Site. "Personal Information" means any information that may be used to identify an individual, including, but not limited to: a first and last name; e-mail address; a home, postal or other physical address (when using services designed to deliver or send items to you) or other contact information necessary to provide a service that you requested. "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect Personal Information and Anonymous Information, as described below. 
+  1. Personal data shall be processed fairly and lawfully
+  2. Personal data shall be obtained only for one or more specified and lawful purposes (as above), and shall not be further processed in any manner incompatible with that purpose or those purposes.
+  3. Personal data shall be adequate, relevant and not excessive in relation to the purpose or purposes for which they are processed.
+  4. Personal data shall be accurate and, where necessary, kept up to date.
+  5. Personal data processed for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+  6. Personal data shall be processed in accordance with the rights of data subjects.
+  7. Appropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data.
+  8. Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
-**\- We collect Personal Information from you in the following instances:**
 
-  * If you register to the site, we will record your contact information, username and password. We can collect additional information submitted through registration or via updating your information. 
-  * If you purchase through the site, we will record your billing address, however we do not record your payment card details. This information is collected through [Protx](http://www.protx.com/), our online payment cart provider. No card payment details are stored through the site. 
-  * If you purchase through the online shop, you do not need to register to the site, we will record your contact information and billing address; however we will not record your payment card details. This information is collected through [Protx](http://www.protx.com/), our online payment cart provider. No card payment details are stored through the site. 
-  * By registering to the site, you will be added to the site's email database and will receive emails from the site. You can opt out of receiving emails by un-subscribing to the site. 
-  * If you email us directly via an email hyperlink or contact form to provide us with feedback or to ask us a question regarding the site, we will record any information contained in such email. 
-  * If you download software from the site, we will record your contact information, your additional details and intended use of the software. 
 
-**  
-\- Personal Information Collected Automatically**   
-As you navigate the site, certain information will be collected automatically. Your domain name will be recorded in order to measure and track your use of the site. This data helps us to improve the content of the site and to customise the content or layout of the site for you. We may also record your email address, which will then be automatically recognised by our servers.   
-We use cookies on the site to collect Personal Information from you to allow us to detect the areas of the site that are of interest to you. This enables us to improve our service and to provide you with tailored information upon your subsequent visits. A cookie is an element of data that a website sends to your computer's hard drive while you are viewing a website. BAM uses both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them). You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of the site may not function properly. 
+##  Information we collect
 
-**\- Use of Personal Information**   
-We collect Personal Information from you to fulfil your requests. For example, we may use your Personal Information to process an online purchase or interact with a service or feature to the site. We may also use your Personal Information to send you information that you requested, or to confirm registrations, purchases, or service request submissions.   
-We may use your email address to notify you of products or services that may interest you, such as events or other items of interest, in addition we may notify you of recent updates to our site, or to provide you with latest news notifications. You may opt-out from receiving promotional or marketing emails by notifying us at the address specified at the bottom of any unwanted email. This will unsubscribe you from all features throughout the site.   
-In some cases the opt-out facility will not be available. These instances include transactional or relationship messages, such as emails that are necessary to provide you with confirmation of a completed transaction (such as a purchase, request, or change in your user profile), emails providing notification of changes of terms of service, emails containing important information about the use of the site.   
-We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We use this Anonymous Information to perform statistical analyses of users' aggregate behaviour so that we may enhance the content of our services and improve site navigation. 
+We will ask for “Personal Information” which identifies you and enables you to be contacted. We will also ask for information about your course. If you join an activity group (Sports, Societies) we may ask you for next of kin details for emergency contact only, and for details of any medical conditions that might affect your participation in the activity that could put your or others at risk.
 
-**\- Disclosure of Personal Information**
+We will use the information for the following purposes: 
 
-Your Personal Information will generally not be shared, sold, traded, or rented to individuals or other entities such as direct mail organisations. However, we may need to provide your Personal Information to third parties to charge your credit card or deliver specific services to you such as support services or shipping. These third parties are required not to use your Personal Information other than to provide the services requested by BAM.   
-Although we currently do not share your Personal Information with our affiliates, subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may do so in the future. If we decide to share some or all of your Personal Information with any of these affiliates, we will require such affiliates to honour this Privacy Policy. If BAM assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.   
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to:   
-( **a** ) comply with relevant laws or to respond to subpoenas or warrants served on BAM **or  
-**( **b** ) protect and defend the rights or property of BAM or users of the site.   
-Editing Your Personal Profile We realise that your Personal Information, including your name, address and email address, is subject to change. To the extent that you do provide us with Personal Information, we wish to maintain its accuracy. In some cases, we provide a means to create an account or a profile of information. For example, to change your Personal Information, log in as usual and select the "Update My Details" link found on the top left side of the site.
+  * To administer your membership of SUSU.
+  * To administer the services and activities of SUSU, such as Sports Clubs, Societies, Student Reps, the Jobshop.
+  * To carry out research on the demographics, interests and behaviour of our registered members.
+  * To send you email newsletters from SUSU and details of student promotions as they become available.
+  * To improve the content of the SUSU websites.
+  * To perform marketing and promotional activities.
+  * To forward information to you which we feel you may find useful, such as details of products and services and forthcoming career/job opportunities.
 
-**\- Security of Your Personal Information**   
-We safeguard the Personal Information you send to us with certain physical, electronic, and managerial procedures. If you have established an account with us, your account information is password-protected for your privacy and security. In most areas of the site, we use industry-standard-encryption to enhance the security of data transmissions. In other areas, we notify you with a pop-up screen when we transfer or receive certain types of sensitive information. We also store your Personal Information behind our firewall and utilise appropriate security measures in our physical facilities to prevent loss or unauthorised use of sensitive information. Except as provided elsewhere in this Privacy Policy, we limit access to Personal Information in electronic databases to those persons including employees and staff of BAM) in our organisation that have a need for such access. While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your Personal Information when you are on the internet.   
-We suggest that you change your passwords often, use passwords that include a combination of letters and numbers, and use a secure browser. Products and services are available which can help give you privacy protection while navigating the internet. While we do not anticipate breaches in security, if one occurs, we will use commercially reasonable efforts to correct the problems that led to the breach.
 
-**\- Regarding Children**   
-We do not structure our websites to attract children. Accordingly, we do not intend to collect Personal Information from anyone under 18 years of age.   
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. 
 
-**Contact Information**   
-BAM welcomes your comments or questions regarding this Privacy Policy. Please contact us using the Contact us form. 
+We may pass your personal information onto the organisers of Sports Clubs, Societies or other SUSU services which you choose to join. 
 
-****   
-**Please fill in the boxes below and then click "send comments"**
+We also collect anonymous information for statistical purposes. Any anonymous information is not linked to your personal information and cannot be used to identify you.
 
-**Privacy Policy Updates  
-** This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post a notice on this page. If you object to any such changes, you must cease using the site. Continued use of the site following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+##  Scope
+
+This privacy policy only covers the SUSU website [http://www.swansea-union.co.uk](http://www.swansea-union.co.uk/)
+
+Other links within this site to other websites or framed third party sites within the SUSU websites are not covered by this policy. We may continue to use your personal information for a period after you cease being a registered member.
+
+##  Consent and Choice 
+
+If you choose not to register or not provide personal information, you may still visit the SUSU website but you will not be able to access the restricted areas available to registered users. By clicking on "I accept" during the registration process, you accept the Terms and Conditions described herein and consent to our using your information accordingly.
+
+##  Access to Personal Information
+
+Individuals can find out if we hold any personal information by making a ‘subject access request’ under the Data Protection Act 1998. If we do hold information about you we will:
+
+  * give you a description of it;
+  * tell you why we are holding it;
+  * tell you who it could be disclosed to; and
+  * let you have a copy of the information in an intelligible form.
+
+
+
+To make a request to SUSU for any personal information we may hold you need to make a request in writing please download a Subject Access Request form.
+
+SUSU cannot be held responsible for any inaccurate personal details.
+
+##  Disclosure of Personal Information
+
+Your personal information will not be sold, traded, or rented to individuals or other entities. We may need to share Personal Information with third parties when purchasing items off our website. These third parties are required to not use your Personal Information other than to provide the services requested by SUSU.
+
+We may disclose your Personal Information if we are required to comply with any legal obligations.
+
+##  Security
+
+We have taken appropriate measures to ensure that your personal information is not unlawfully processed. However, no information transferred over the Internet or wireless network can be guaranteed to be completely secure. We will not be transferring your personal information outside of the European Economic Area.
+
+##  Cookies
+
+Cookies are a means of storing information about you and your preferences on the hard drive of the computer you are using. 
+
+Please [read our full cookie policy](https://web.archive.org/footer/cookies).
+
+##  Minors
+
+The SUSU websites are intended for students and staff at Swansea University who are over 17 years of age. The SUSU websites are not intended for children and we ask that no-one under the age of 17 submits personal information to us or uses the site without supervision of a parent or guardian. 
+
+##  Questions
+
+The University is registered with the Information Commissioner to process personal data, and is obliged to comply with the Data Protection Act 1998. Personal data collected via this website will only be used for the stated purpose for which they are collected. No personal data will be passed to any third party without the consent of the person concerned.
+
+SUSU is an unincorporated association with charitable status and the ultimate data controller under the Act, its Trustees are therefore ultimately responsible for implementation of this policy. The Trustees will be represented by the General Manager who will deal with day to day matters.
+
+If you have any questions about this privacy policy, or the use of your personal information, or if you wish to request us to stop using your information in any way, please write to:
+
+Stuart Rice
+
+Swansea University Students' Union
+
+Singleton Park
+
+Swansea
+
+SA2 8PP
+
+If you have any questions for SUSU relating to privacy, please send them to this address. 
+
+##  Changes to this policy
+
+If we decide to change this privacy policy, we would post such changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
