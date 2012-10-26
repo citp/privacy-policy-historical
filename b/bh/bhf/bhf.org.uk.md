@@ -1,135 +1,136 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602112929id_/http%3A//www.bhf.org.uk/privacy-statement.aspx%3Fsc_id%3DFrontNAV-Footer-Privacy%2520Policy%26utm_source%3DFrontNAV-Footer-Privacy%2520Policy%26utm_medium%3DFrontNAV-Footer-Privacy%2520Policy%26utm_campaign%3DFrontNAV-Footer-Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026072406id_/http%3A//www.bhf.org.uk/privacy-statement.aspx%3Fsc_id%3DFrontNAV-Footer-Privacy%2520Policy%26utm_source%3DFrontNAV-Footer-Privacy%2520Policy%26utm_medium%3DFrontNAV-Footer-Privacy%2520Policy%26utm_campaign%3DFrontNAV-Footer-Privacy%2520Policy) for the most accurate reproduction.*
 
 # British Heart Foundation - Privacy Statement
 
-BHF is committed to safeguarding your privacy online. We use the information we collect about you to help us understand more about how our site is used and to be able to send you communications about BHF that may be of interest to you, either electronically or otherwise. The "personal information" is information that enables us to identify you, such as your email address, name, title and address.
+## What this privacy and cookie policy covers
 
-Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically.
+This policy explains how the British Heart Foundation and all entities in the British Heart Foundation (BHF) Group:
 
-  1. **What personal information does BHF collect?**
-
-Information is collected for the BHF regarding supporters, service users and visitors to our website: information regarding what pages are accessed and when, information volunteered by you (such as survey information), contact details and your preferred means of communication. 
-
-  2. **How does BHF use my information?**
-
-BHF uses the information we collect about you to help us with understanding more about how our site is used and to be able to send you communications that you have requested as well as those which may be of interest to you, either electronically or otherwise.
-
-  3. **Who is collecting your information?**
-
-When you are in the BHF website and are asked for personal information, you are sharing that information with BHF alone unless stated otherwise. For example, when you are using our secure online donation pages, you are going through to a partner company, World Pay plc and it is clear on the donation page when you are going through to the World Pay site. Where information is not collected directly from the BHF website, but is entered via a third party, the information is not used in any way or for any purpose other than to process the transaction or to pass the information on to the BHF, unless otherwise stated.
-
-  4. **With whom does BHF share your information?**
-
-As a general rule, BHF will not disclose any of your personally identifiable information, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it. When you are using our secure online donation pages you are going through to a partner company and the information you give such as your credit card number and contact information is provided to them so that the transaction can take place. Where information is collected via a third party, this data is only used by the BHF unless otherwise stated.
-
-BHF may make individual identifying information available to affiliated third parties, including BHF Ventures Ltd our trading subsidiary and our agents for marketing purposes. BHF also uses such information to contact you for marketing purposes. BHF does not sell on lists to others. From time to time, we agree with other likeminded organisations to write to some of each other's supporters for the mutual benefit of both.
-
-  5. **What are my choices regarding collection, use and distribution of my information?**
-
-If you indicated that you are interested in receiving regular information about BHF's work we will send you communications regarding BHF's work and activities, either electronically or otherwise. In addition, we may send you direct mail that we feel may be of interest to you.
-
-BHF does not sell or rent user information to anyone. From time to time, we agree with other likeminded organisations to write to some of each other's supporters, for the mutual benefit of both.
-
-  6. **What is BHF's policy on allowing me to update, correct or delete my personally identifiable information?**
-
-The accuracy of your individual identifying information is important to BHF. If you change email address or any of the other information we hold is inaccurate or out of date, please email us at internet@bhf.org.uk or write to Supporter Care, British Heart Foundation, Greater London House, 180 Hampstead Road, London NW1 7AW.
-
-  7. **How does BHF protect my personal identifiable information?**
-
-BHF is committed to taking reasonable steps to protect the individual identifying information that you provide to us.
-
-  8. **What security precautions are in place to protect the loss, misuse or alteration of my information?**
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, BHF cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-  9. **Users under 18**
-
-If you use this site for information about fundraising campaigning or supporting the work of BHF, please let an adult know.
+  * treat personal information that is collected on all BHF websites, including information relating to your past use of our websites and previous order details, and
+  * how we use cookies to provide services to you or to improve your use of our websites.
 
 
 
+Personal information is information that can be used to identify you, such as your name, address, email address, phone number and so on, and which is not normally publicly available.
 
-## Cookies and privacy
+This policy only applies to websites owned or operated by entities in the BHF Group. So if a link on this website takes you to the website of a third party you should refer to the privacy policy relating to that website to understand how your personal information is managed by that third party or how they use cookies.
 
-We use several different types of cookies to help the website work.  The main categories are:
+## Information collection and use
 
-### Cookies which are necessary to run the site
+### Non- registered users
 
-Our sites produce some cookies which are essential to keeping the site working and provide the services you need. These include:
+All BHF websites use cookies to help our websites work well and to track information about how people are using them. More information on cookies and how to control the cookies we use can be found further down the page. 
 
-  * Cookies that enable you to stay logged in for an entire visit to the site
-  * Cookies which enable you to add things to a shopping basket and keep them there until you decide to check out.
+### Registered users
 
-
-
-### Cookies which help us improve the site
-
-Some cookies help us to see how people are using our sites.  These  are known as ‘analytics cookies’ or ‘tracking cookies’.  They let us know what areas of website content are popular and how people are using the site.  This information is anonymous – we don’t collect anything that would identify a user.   We combine this data with the rest of the visitor data and examine it as a whole to build up a picture of how the site is performing. These cookies only work on our site and are not shared with anyone else.
-
-We also place tiny tags (also known as ‘tracking pixels’ or ‘web beacons’) on some of the emails we send out.  These do not collect any personal information either, but they let us know how many people are opening and reading our emails so that we can choose more popular content.
-
-We use cookies to test and improve the quality of our website service. For instance, when we are testing new website content we ask some of our visitors to answer a brief survey.  To make sure that we don’t ask the same people repeatedly and interfere with their browsing too much, we set a cookie which remembers if they have been asked to participate and what their answers were.  
-
-On occasion, we also run multiple versions of a page.  Some of our visitors will be shown one version of a page and we then use our analytics to see if this has helped people access more information or experience a better user journey with us.  To prevent confusion we set a cookie to make sure that our visitors always see the same version of a page instead of all the different ones.
-
-### Cookies which help us get value for money from advertising
-
-We occasionally use other cookies to track how our advertisements perform.  As with all our analytics cookies, all the information we collect is anonymous.  These cookies are used solely to let us know which site a visitor clicked on for our advertisement, that they have come through to our site and completed whatever action we wished to see promoted - such downloading a leaflet or ordering an information pack. 
-
-## A note about Youtube cookies
-
-We have begun to embed our Youtube videos using the ‘Privacy-enhanced’ settings.  This uses a cookie if the video is played.  More information on this setting can be found [ here](http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780).
-
-### Additional Information
-
-More information on the EU Cookie Directive can be found [here](http://www.aboutcookies.org/default.aspx).
-
-### Controlling Your Cookies
-
-Instructions on how to set the options on your browser to control what types of cookie you will accept can be found here (select the link that corresponds to your browser).
-
-  * [ Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
-  * [Internet Explorer](http://support.microsoft.com/kb/196955)
-  * [ Chrome](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
-  * [ Safari OS X](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
-  * [Safari iOS](http://support.apple.com/kb/HT1677)
-  * [ Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
-  * [ Blackberry](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
-  * [ Windows phone](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)
+  * All BHF websites collect personal information when you register with them.
+  * The website you sign up to will collect information such as your name, email address and post code. Once you register with that website you will not be anonymous to us when you subsequently sign in.
+  * We collect and retain information about your transactions with us so that we can process your transactions and deal with future queries.
+  * Through the use of cookies, we will receive information from your computer such as your IP address (the unique number that identifies your computer when you use the internet) and we will record this information.
+  * We will use the information that we obtain for the following general purposes: to fulfill your requests for products and services, improve our services, contact you, conduct research and monitor the performance of our websites.
 
 
 
-There are also a lot of 3rd party controls which can offer even greater flexibility and depth of control around which cookies you accept.  These changes would apply to all sites you visit, not just those run by the British Heart Foundation.
+## Information sharing and disclosure
 
-### Opting Out of Analytics Services
+The BHF and any entity in the BHF Group will never sell or share your personal information with any third party except:
 
-The BHF uses 2 different analytics providers which you can opt out from.  Once opted out, you will no longer be included in any tracking data from those tools across all sites (not just BHF ones).
+  * to provide the products or services you've requested from our site(s) where, for example, we use a separate company to deliver goods to you,
+  * when we have your permission,
+  * as part of any legal proceedings or regulatory investigation, or
+  * where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of any BHF website’s terms of use, or as otherwise required by law.
+
+
+
+The BHF may share your information with other entities owned by BHF that act as fundraisers for BHF, sell BHF products or provide BHF information subject to your communication preferences.
+
+## Cookies
+
+We use three different types of cookies to help our websites work well. A cookie is a small file of letters and numbers that we may put on your computer. These cookies allow us to distinguish you from other users of the website and this helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
+
+The main categories of cookies that we use are:
+
+**1.  Cookies that are necessary to run the site**
+
+Our sites use some cookies which are essential to keeping the site working and provide the services you need. These include cookies that enable you to:
+
+  * stay logged in for an entire visit to the site, or
+  * add things to a shopping basket and keep them there until you decide to check out.
+
+
+
+**2.  Cookies which help us improve the site – analytics cookies and web beacons**
+
+We use cookies to help us see how people are using our sites. These are known as ‘analytics cookies’, ‘tracking cookies’ or  ‘web beacons’.  
+We use analytics cookies:
+
+  * to see what website content is popular and how people are using the site as they allow us to track users movement through our websites.  This type of information is amalgamated so that we can build up a picture of how the site is performing.
+  * to make sure we offer you a consistent service. For example, if we are testing new website content or we want to run a survey, we use cookies to remember what content you have seen or if you have already been asked to join the survey.
+
+
+
+In addition, when we email you, we may place a tiny tag (also known as ‘tracking pixel’ or ‘web beacon’) on the email we send out. These do not collect any personal information, but they let us know how many people are opening and reading our emails so that we can choose more popular content.
+
+The information we collect using analytics cookies is anonymous and does not involve collecting the name or address of any user. The analytics cookies that we use only operate through our websites so they and the data they collect are not shared with anyone else.  
+
+
+**3.  Cookies which help us get value for money from advertising**
+
+We occasionally use other types of cookies that can track how our advertisements perform.  These cookies will help us identify which advertisements resulted in a “click through” to the BHF website or someone downloading one of our advice sheets. 
+
+### A note about Youtube cookies
+
+We have begun to embed our Youtube videos using the ‘Privacy-enhanced’ settings. This uses a cookie if the video is played. More information on this setting can be found here.
+
+## The cookies we specifically use when you visit our site
+
+By continuing to use our website you will have been deemed to have agreed to our use of cookies subject to any preferences you may have indicated to us or any overriding browser settings you may have.
+
+## How you can control the cookies used and placed on your computer
+
+We use analytic cookies from two providers – Google Analytics and Adobe Sitecatalyst. You can control our use of either or both of these by clicking on the following links. Please note that if you prevent the use of cookies using either of these systems, you will no longer be included in any tracking data from those tools across all sites (not just BHF websites). 
 
   * [Google Analytics](http://tools.google.com/dlpage/gaoptout)
   * [Adobe Sitecatalyst](http://www.omniture.com/en/privacy/2o7#optout)
 
 
 
-### Offline Methods of Contact
+You can control the use and placing of any cookies on your computer through the settings you select on your internet browser. To do this, identify your internet service provider, click on the relevant link below and follow the instructions. 
 
-If you do not wish to use our website there are other ways we can help you.
+**PC or Mac browsers**
 
-**Our cardiac nurses and heart health advisors are on hand to help with any questions** or concerns you have about heart health and heart conditions.
+  * [ Chrome](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
+  * [ Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
+  * [Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [ Safari OSX](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
 
-Call us on **0300 330 3311** (similar cost to 01 or 02 numbers). Lines are open 9am-5pm Monday to Friday.
 
-#### Taking part in an event
 
-To find additional information or to register for one of our fundraising events, please call us on **0845 130 8663**
+**Mobile browsers**
 
-#### Donating to us
+  * [Safari iOS](http://support.apple.com/kb/HT1677)
+  * [ Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
+  * [ Blackberry](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
+  * [ Windows Phone](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)
 
-If you wish to donate offline, send a cheque made payable to British Heart Foundation and take it to [your local BHF Shop](https://www.bhf.org.uk/about-us/where-we-are/the-bhf-map.aspx) or post it to:  
-British Heart Foundation, Greater London House, 180 Hampstead Road, London, NW1 7AW
 
-If you have any questions about making a donation, please call us on **0844 847 2787**.
 
-#### Finding your nearest shop
+## What will happen if you disable some or all of the cookies that BHF uses?
 
-Book a [free collection online](https://www.bhf.org.uk/test/van-collection.aspx) for furniture and electrical items you would like to donate, or call **0844 412 5000**  
+It would be impossible to use our online shop without cookies enabled, as the shopping basket function wouldn’t work. If you would prefer not to use our website, you can order goods by phone.
 
+Call: 0845 246 4050 (Mon - Fri 9am - 5pm)
+
+## Your ability to edit and delete your account information and preferences
+
+You can edit your BHF account Information, including your address and contact details at any time. You cannot directly change the name, address, contact details and other details of existing orders, but can contact the BHF to change order details if you need to.
+
+[Contact our customer care team.](https://www.bhf.org.uk/contact-us.aspx)
+
+We may send you certain service or administrative communications relating to the BHF website relating to your account, regardless of your opt-out preferences. If you cancel your BHF Account you will no longer be sent these messages.
+
+If you place an order with the site, we will keep a record of your details as entered at the time of the order for as long as necessary to process your order and deal with any subsequent enquiries. 
+
+## Changes to this privacy policy
+
+The BHF Group may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address you have provided to us or by placing a prominent notice on our website(s).
