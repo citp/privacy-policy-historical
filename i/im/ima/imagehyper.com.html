@@ -1,17 +1,9 @@
-<!--The following is the downloaded HTML source of the imagehyper.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505000300id_/http%3A//www.imagehyper.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imagehyper.com privacy policy that was archived on 2012-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121026174928id_/http%3A//www.imagehyper.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head><meta http-equiv="content-type" content="text/html;charset=UTF-8">
-	<meta http-equiv="Content-Style-Type" content="text/css"><meta http-equiv="Content-language" content="en-US"><title>Privacy Policy - ImageHyper</title><meta name="keywords" content="image hosting,image host,make money with images"><meta name="description" content="Revolutionary free image hosting site that lets you upload images for free and make money both if you are an uploader and a site owner"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="stylesheet" type="text/css" href="http://s.imagehyper.com/s.css" media="all"><link rel="stylesheet" type="text/css" href="http://s.imagehyper.com/custom-theme/jquery-ui-1.8.2.custom.css" media="all"><script type="text/javascript" async="" src="https://widget.uservoice.com/sEL0RGgBuEfCRpHtrRDY7A.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script><script type="text/javascript" src="http://s.imagehyper.com/popup.js"></script></head><body class="hm"><div id="hd">
+					<meta http-equiv="Content-Style-Type" content="text/css"><meta http-equiv="Content-language" content="en-US"><title>Privacy Policy - ImageHyper</title><meta name="keywords" content="image hosting,image host,make money with images"><meta name="description" content="Revolutionary free image hosting site that lets you upload images for free and make money both if you are an uploader and a site owner"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="stylesheet" type="text/css" href="http://s.imagehyper.com/s.css" media="all"><link rel="stylesheet" type="text/css" href="http://s.imagehyper.com/custom-theme/jquery-ui-1.8.2.custom.css" media="all"><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script><script type="text/javascript" src="http://s.imagehyper.com/popup.js"></script></head><body class="hm"><div id="hd">
 <div id="hlogo"><a href="/" title="Upload an Image"><img src="http://s.imagehyper.com/ic/logo.gif" width="252" height="62" alt="Upload an Image"></a></div><div id="hdbann">
-<script type="text/javascript">
-  var uvOptions = {};
-  (function() {
-    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/sEL0RGgBuEfCRpHtrRDY7A.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-  })();
-</script>
 <meta content="1234497" name="oron">
 <form action="/login.php" method="post"><div><label for="username_hd">Email: </label><input type="text" name="auth_user" id="username_hd" value="Email" onfocus="if (this.value=='Email') this.value='';" size="10"><label for="passwd_hd">Pass: </label><input type="password" name="auth_pass" id="passwd_hd" size="10"><input type="submit" value="Login" name="auth_submit"><br>
 <label for="auth_cok">Remember me </label><input name="auth_cok" id="auth_cok" type="checkbox">
@@ -23,17 +15,45 @@
 <ul id="n">
 <li id="hm" style="padding-left:15px;"><a href="/" title="Upload Image"><b>Upload Image</b></a></li>
 <li id="prem"><a href="/credits.php" title="Buy Premium"><b>Premium</b></a></li>
-<li><a href="/faq.php" title="Frequently Asked Questions"><b>FAQ</b></a></li>
-<li><a href="/earn-money.php" title="Earn Money"><b>Earn $$$</b></a></li>
-<li><a href="/browser-extensions.php" title="Browser Extensions"><b>Browser Add-Ons</b></a></li>
+<li><a href="/faq" title="Frequently Asked Questions"><b>FAQ</b></a></li>
+<li><a href="/browser-extensions" title="Browser Extensions"><b>Browser Add-Ons</b></a></li>
 <li><a href="http://forum.imagehyper.com" title="Support Forum"><b>Forum</b></a></li>
 </ul>
 <ul id="subnav">
 <li style="padding-left:15px;"><a href="/login.php" title="Login"><b>Login</b></a></li>
 	<li><a href="/register.php" title="Create a New Account"><b>Register</b></a></li></ul>
+<script src="/swfstorage/swfstore.min.js"></script>
+<script type="text/javascript">
+            // wait until the page has finished loading before starting
+            $(function(){
+                function readCookie(name) {
+                    var nameEQ = name + "=";
+                    var ca = document.cookie.split(';');
+                    for(var i=0;i < ca.length;i++) {
+                        var c = ca[i];
+                        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+                    }
+                    return null;
+                }
+                var mySwfStore = new SwfStore({
+                    namespace: 'imupload',
+                    swf_url: 'http://www.imagehyper.com/swfstorage/storage.swf',
+                    debug: false,
+                    onready: function(){
+                        mySwfStore.set('sessid', readCookie('PHPSESSID') || "" );
+                    },
+
+                    onerror: function(){
+                        // in case we had an error. (The most common cause is that the user disabled flash cookies.)
+                        $('#status').text('Error');
+                    }
+                });
+            });
+        </script>
 <div id="cont">
 <div id="c"><div id="cin">
-<h1>Privacy Policy</h1>
+		<h1>Privacy Policy</h1>
 
 <p>This privacy policy sets out how ImageHyper.com uses and protects any information that you give ImageHyper.com when you use this website.</p>
 
@@ -107,6 +127,6 @@
 <div id="f">
 Copyright © 2012 <a href="http://www.imagehyper.com" title="Free Image Hosting">Free Image Hosting</a> |
 
-<a href="http://www.imagehyper.com/tos.php" title="Terms of Service">Terms of Service</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/contactus.php">Contact Us</a>
+<a href="http://www.imagehyper.com/terms-of-service" title="Terms of Service">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/dmca-panel">DMCA</a> | <a href="/contact-us">Contact Us</a>
 </div>
-</div></body></html>
+</div> </body></html>
