@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstdata.de privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608030403id_/http%3A//www.firstdata.com/en_de/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstdata.de privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026144551id_/http%3A//www.firstdata.com/en_de/privacy.html) for the most accurate reproduction.*
 
 # First Data Privacy & Legal | First Data
 
@@ -50,7 +50,7 @@ This website uses the following cookies. You can delete, remove your consent and
 
 For more information about cookies, including how to see what cookies have been set and how to manage, block and delete them, see: [http://www.allaboutcookies.org/.](http://www.allaboutcookies.org/)
 
-[](http://www.allaboutcookies.org/)To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+[](http://www.allaboutcookies.org/)To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout.
 
 **Cookie Name** | **Purpose** | **More Information**  
 ---|---|---  
