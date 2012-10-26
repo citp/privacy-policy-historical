@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629142807id_/http%3A//www.onlynaturalpet.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026200337id_/http%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Only Natural Pet Store
 
@@ -52,9 +52,9 @@ Your email address will not be sold, rented, or traded to an outside party. You 
 
 **How can you opt-out, deactivate, or modify information you have provided to us?**
 
-To modify your e-mail subscriptions, please [click here](https://web.archive.org/web/20120629142807id_/http%3A//myaccount/secure/catalogpreferences.aspx) to be taken to our email subscription management page. There is also a link at the bottom of each email subscription communication with a link that will take you to this page. Please note that due to email production schedules you may receive any emails already in production.
+To modify your e-mail subscriptions, please [click here](https://web.archive.org/web/20121026200337id_/http%3A//myaccount/secure/catalogpreferences.aspx) to be taken to our email subscription management page. There is also a link at the bottom of each email subscription communication with a link that will take you to this page. Please note that due to email production schedules you may receive any emails already in production.
 
-If your personally identifiable information changes, you may [click here](https://web.archive.org/web/20120629142807id_/http%3A//myaccount/secure/myaccount.aspx) to sign into your account and update it. You may also update your information, or if you no longer desire our service, deactivate it, by contacting us at [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com) or 888-937-6677. Please note that even if you deactivate your account, we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+If your personally identifiable information changes, you may [click here](https://web.archive.org/web/20121026200337id_/http%3A//myaccount/secure/myaccount.aspx) to sign into your account and update it. You may also update your information, or if you no longer desire our service, deactivate it, by contacting us at [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com) or 888-937-6677. Please note that even if you deactivate your account, we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
 **Security**
 
@@ -90,7 +90,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120629142807id_/http%3A//www.onlynaturalpet.com/Help/termsofuse.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20121026200337id_/http%3A//www.onlynaturalpet.com/help/termsofuse.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
