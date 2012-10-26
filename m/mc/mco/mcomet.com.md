@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcomet.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110003804id_/http%3A//www.mcomet.com/doc/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcomet.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026130041id_/http%3A//www.mcomet.com/doc/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy-policy
 
