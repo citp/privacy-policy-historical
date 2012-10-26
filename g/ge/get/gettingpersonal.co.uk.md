@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510151934id_/http%3A//www.gettingpersonal.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026132517id_/http%3A//www.gettingpersonal.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Getting Personal
 
@@ -47,7 +47,38 @@ We know that you care how information about you is used and shared and we apprec
 
 **Cookies**
 
-Cookies are small amounts of information which we may store on your computer. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies by following the relevant instructions which can be found at www.aboutcookies.org. In that case, you may not be able to use certain features on our site. If you do not wish to receive cookies in the future, please let us know at ask@gettingpersonal.co.uk. 
+Cookies are small amounts of information which we may store on your computer's browser to help us improve your site experience. Cookies cannot contain viruses or install Malware and are commonly used across the internet for analytic purposes. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. 
+
+Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you.   
+Below we have listed the cookies that we currently use on the site and their purposes.
+
+Cookie | Name | Purpose  
+---|---|---  
+Session cookie   
+| GP_SessionId | This cookie is essential for the site to function and is set upon your arrival to Getting Personal. This cookie is deleted when you close your browser.  
+DC Storm | _#sess | These cookies are used to collect information about how visitors use our site. The information collected gives us more insight into what people are looking for and helps us determine which Key words are performing the best  
+_#uid  
+_#srchist  
+_#vdf  
+Google Analytics | _utma | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited.  
+_utmb  
+_utmc  
+_utmz  
+Omniture | mbox | This cookie is used to present you with recommendations of other products which you might like.  
+Shopping Basket | Cart | This cookie is used to record then items in your shopping basket, and enable you to place orders  
+Customer Details | CustomerID | This cookie contains an encrypted string to allow us to identify you on your next visit (if you've ticked "remember me" when logging in)  
+Customer persistence | RememberCustomer | This cookie determines whether your details are remembered for your next visit  
+Category Tracking | Tracking | Used by Getting Pesonal to determine which "route" you have followed around the site to reach a product page  
+Visitor Information | VisitorInfo | Used to determine A/B testing pages  
+GP site cookie acceptance | gpnocookies | This cookie is used to record if a user has accepted the use of cookies on the GP website.  
+  
+The Session and Cart cookies are considered 'essential' cookies as they are needed to allow you to transact on the website. 
+
+If you would like to ensure that we place no further non-essential cookies on your computer please tick the box below. This will not remove the current cookies placed but will ensure that no further non-essential cookies are placed on your browser during your visit to this site. Please be aware that this will mean that you lose key functionality on the site and may mean it is not possible to buy certain gifts or cards. 
+
+ Please tick here if you would like to prevent any further non-essential cookies being placed on your browser. 
+
+You may also set up your computer to reject cookies by following the relevant instructions which can be found at www.aboutcookies.org. Again, you may not be able to use certain features on our site. You can remove individual cookies or all cookies already present by using your Internet Browser settings.
 
 **Security and Data Retention**
 
