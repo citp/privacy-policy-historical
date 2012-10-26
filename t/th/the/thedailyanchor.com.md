@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailyanchor.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624095944id_/http%3A//www.thedailyanchor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyanchor.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026054529id_/http%3A//www.thedailyanchor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Anchor
 
