@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510133021id_/http%3A//www.testking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026123909id_/http%3A//www.testking.com/policy.htm) for the most accurate reproduction.*
 
 # TestKing Privacy Notice
 
