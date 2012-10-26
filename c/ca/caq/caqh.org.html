@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caqh.org privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503230932id_/http%3A//www.caqh.org/CAQH_privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caqh.org privacy policy that was archived on 2012-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121026053814id_/http%3A//www.caqh.org/CAQH_privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>CAQH Privacy Policy</title>
@@ -7,7 +7,7 @@
 <meta name="keywords" content="">
 <meta name="author" content="Blue Water Media, Inc., (202)861-0000, www.bluewatermedia.com">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script src="/__utm.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/__utm.js" type="text/javascript"></script>
 <script src="/js/functions.js" type="text/javascript"></script>
 <script src="/js/prototype.js" type="text/javascript"></script>
 <script src="/js/scriptaculous.js" type="text/javascript"></script>
@@ -128,7 +128,9 @@
 				</div>
 
 		</div>
-				<a href="/"><img src="/images/blank.gif" alt="Affordable Health Care" width="250" height="100" class="img-logo"></a>
+		
+
+		<a href="/"><img src="/images/blank.gif" alt="Affordable Health Care" width="250" height="100" class="img-logo"></a>
     <div id="header">
 			<div id="top-right-holder">
 				<div id="top-right">
@@ -223,8 +225,12 @@
 				<li><a href="/CORE_workgroup.php" class="no-b">Work Groups</a></li>
 			</ul>
 		</li>
-		<li><a href="/ORMandate_index.php">Mandated Operating Rules</a></li>
-		<li><a href="/CORE_faq.php">FAQs</a></li>
+		<li><a href="/ORMandate_index.php">Mandated Operating Rules</a>
+                        <ul>
+                                <li><a href="/COREPartnerTesting.php">Partner Testing</a></li>
+                        </ul>
+                </li>
+		<li><a href="/CORE_faq.php">FAQs: General and Technical</a></li>
 		<li><a href="/ben_participating.php">Participating Organizations</a>
 			<ul>
 				<li><a href="/pdf/ParticipationApplicationOctober2005FI.pdf" class="no-b">Participant Application Form</a></li>
@@ -234,7 +240,7 @@
 			<ul>
 				<li><a href="/CORE_phase_1_endorsement.php">Endorser Application Process</a></li>
 				<li><a href="/CORE_app_process_visual.php">Endorser Application Process Visual</a></li>
-				<li><a href="/pdf/COREPISealApp121306.pdf" class="no-b">Endorser Application</a>
+				<li><a href="/CORE_seal.php" class="no-b">Endorser Application</a>
 					<ul>
 						<li><a href="/pdf/CORESealApplicationForm.pdf">Phase I</a></li>
 						<li><a href="/pdf/COREPIISealApp.pdf">Phase II</a></li>
@@ -325,7 +331,7 @@
 	</div>
 
 			<div id="twitter">
-		<br><br><br><a href="https://twitter.com/#!/CAQH" target="_blank"><img src="/images_new/twitter.png" width="30" style="vertical-align: middle;"></a> Follow us on <a href="https://twitter.com/#!/CAQH" target="_blank">Twitter</a>!
+		<br><br><br><a href="https://twitter.com/#!/CAQH" target="_blank"><img src="/images/twitter.png" width="30" style="vertical-align: middle;"></a> Follow us on <a href="https://twitter.com/#!/CAQH" target="_blank">Twitter</a>!
 		</div>
 			
 </div>
@@ -456,14 +462,20 @@
 						© 2012 CAQH.  All rights reserved.
 					</p>
 					<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1666588-43");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>				</div>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33551726-1']);
+  _gaq.push(['_setDomainName', 'caqh.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+				</div>
 			</div>
 			<br class="clear">
 		</div>
