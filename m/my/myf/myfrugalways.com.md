@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfrugalways.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623101213id_/http%3A//www.myfrugalways.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfrugalways.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026084622id_/http%3A//www.myfrugalways.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My Frugal Ways
 
