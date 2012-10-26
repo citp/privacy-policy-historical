@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootout.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620150031id_/http%3A//www.zootout.com/privacy/fn/indore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootout.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026200447id_/http%3A//www.zootout.com/privacy) for the most accurate reproduction.*
 
 # Zootout - Food & Nightlife Daily Deals & Discount Beauty & Fitness Shopping Events
 
