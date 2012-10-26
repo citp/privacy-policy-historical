@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepirateschest.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229081512id_/http%3A//www.thepirateschest.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepirateschest.net privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027005719id_/http%3A//www.thepirateschest.net/privacy.php) for the most accurate reproduction.*
 
 # Download Movies, Software, Games, Music and More - TPC - Privacy Policy
 
