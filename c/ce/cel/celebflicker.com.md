@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebflicker.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624101227id_/http%3A//www.celebflicker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebflicker.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026090342id_/http%3A//www.celebflicker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity HQ Scans - Celebrity HQ Images, Scans, News and Gossips
 
