@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513050324id_/http%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026181258id_/http%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,388 @@ This Site may contain links to other sites of third parties. We are not responsi
 
 ## Cookies
 
-A technology called "cookies" may be used to provide you with tailored information. A "cookie" is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect the operating system and browser that a visitor is using.
+A technology called "cookies" allows websites to provide you with tailored information and an improved browsing experience. A "cookie" is a tiny element of data that a web site can send to your browse, usually containing specific information and for a specific purpose. For more information about cookies please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "View More Cookie Information").
+
+**Additional Information**
+
+**Cookie**
+
+| 
+
+**Domain**
+
+| 
+
+**Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**Further Information**  
+  
+---|---|---|---|---  
+  
+Google Analytics
+
+| 
+
+Google.com
+
+| 
+
+__utma, __utmb, __utmc, __utmz
+
+| 
+
+Google Analytics' cookies are used to collect anonymous information about how people use our website. We actively use this information to help us improve our site for the benefit of our customers.
+
+| 
+
+Google Analytics Privacy Policy  
+  
+Google +1
+
+| 
+
+Google.com
+
+| 
+
+PREF, NID
+
+| 
+
+Google uses cookies to track its 'Google +1' system. For further details on this please see Google's privacy policy.
+
+| 
+
+Google Plus One Privacy Policy  
+  
+Sykes Tracking
+
+| 
+
+Sykescottages.co.uk
+
+| 
+
+rfx_code, rfx_path, rfx_source
+
+| 
+
+Sykes Cottages uses these cookies to assess how visitors arrive at the Sykes website. This helps us ensure we're reaching customers where and when they need us.
+
+|    
+  
+  
+Yahoo Search Marketing
+
+| 
+
+Sykescottages.co.uk
+
+| 
+
+ysm_{x}
+
+| 
+
+Sykes Cottages uses these cookies to assess how visitors arrive at the Sykes website. For more details on Yahoo Search Marketing, please see Yahoo's privacy policy.
+
+| 
+
+Yahoo Privacy Policy  
+  
+Hosting Load Balancing
+
+| 
+
+Sykescottages.co.uk
+
+| 
+
+AWSELB
+
+| 
+
+This cookie is essential in order for our site to function and is used to help us balance our web traffic. This ensures we provide an optimal browsing experience for every visitor.
+
+| 
+
+AWS Privacy Policy  
+  
+PHP SESSION
+
+| 
+
+Sykescottages.co.uk
+
+| 
+
+PHPSESSID
+
+| 
+
+Essential to website operation, storing technical information needed in order to make website function correctly during browsing eg. Cottage Search function etc.
+
+| 
+
+Sykes Privacy Policy  
+  
+SagePay
+
+| 
+
+Sagepay.com
+
+| 
+
+JSESSIONID
+
+| 
+
+Essential to operation of website. Used by the SagePay secure payment gateway.
+
+| 
+
+SagePay Privacy Policy  
+  
+Burst Media
+
+| 
+
+Ad.yieldmanager.com
+
+| 
+
+uid
+
+bh
+
+| 
+
+Sykes Cottages works with selected partners to ensure we reach new and existing customers who may be interested in booking a cottage with us.
+
+| 
+
+Burst Media Privacy Policy  
+  
+Doubleclick.net
+
+| 
+
+id  
+  
+addthis.com, s7addthis.com
+
+| 
+
+uid, uit, psc, user_segment, __atuv, uvc  
+  
+SmartAdServer
+
+| 
+
+smartadserver.com, www4.smartadserver.com
+
+| 
+
+Iab, comp
+
+| 
+
+SmartAdServer Privacy Policy  
+  
+AppNexus
+
+| 
+
+Adnxs.com
+
+| 
+
+anj, sess, uuid2
+
+| 
+
+App Nexus Privacy Policy  
+  
+Improved Digital
+
+| 
+
+Ad.360yield.com
+
+| 
+
+tuuid, pxl, um
+
+| 
+
+Improved Digital Privacy Policy  
+  
+AdMeld
+
+| 
+
+Tag.admeld.com
+
+| 
+
+Meld_sess
+
+| 
+
+AdMeld Privacy Policy  
+  
+Struq
+
+| 
+
+Struq.com
+
+| 
+
+Pref, PREF
+
+| 
+
+Struq Privacy Policy  
+  
+Yahoo Search Marketing
+
+| 
+
+Yahoo.com, overture.com
+
+| 
+
+B, BX
+
+| 
+
+Yahoo Privacy Policy  
+  
+Rubicon
+
+| 
+
+rubiconproject.com , pixel.rubiconproject.com
+
+| 
+
+rpb, put_288, rpx
+
+| 
+
+Rubicon Privacy Policy  
+  
+PubMatic
+
+| 
+
+pubmatic.com
+
+| 
+
+KRTBCOOKIE_121, PUBRETARGET
+
+| 
+
+View PubMatic Privacy Policy  
+  
+Zedo
+
+| 
+
+Zedo.com
+
+| 
+
+FFgeo, FFBbh, ZEDOIDA
+
+| 
+
+Zedo Privacy Policy  
+  
+Advertising.com
+
+| 
+
+Advertising.com
+
+| 
+
+C2
+
+| 
+
+Advertising.com Privacy Policy  
+  
+OpenX
+
+| 
+
+openx.net
+
+| 
+
+i
+
+| 
+
+OpenX Privacy Policy  
+  
+Atlas Solutions
+
+| 
+
+atdmt.com
+
+| 
+
+AA002, MUID
+
+|    
+  
+  
+Weborama
+
+| 
+
+aimfar.solution.weborama.fr
+
+| 
+
+_adprofile
+
+| 
+
+Weborama Privacy Policy  
+  
+Facebook
+
+| 
+
+Facebook.com
+
+| 
+
+datr, lsd, reg_fb_gate, reg_fb_ref
+
+| 
+
+Cookies are set by Facebook when visiting our site having previously logged into Facebook elsewhere. For further details please see Facebook's privacy policy.
+
+| 
+
+Facebook Privacy Policy  
+  
+  
+
 
 ## Access Rights
 
