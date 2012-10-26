@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggeekdaddy.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505044956id_/http%3A//biggeekdaddy.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggeekdaddy.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026085456id_/http%3A//biggeekdaddy.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
