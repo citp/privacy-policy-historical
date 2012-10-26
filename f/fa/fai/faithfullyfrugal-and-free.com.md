@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the faithfullyfrugal-and-free.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513012740id_/http%3A//www.faithfullyfrugal-and-free.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfullyfrugal-and-free.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027002437id_/http%3A//www.faithfullyfrugal-and-free.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY — Faithfully Frugal & Free
-
-  * [](http://twitter.com/intent/tweet?text=PRIVACY%20-%20http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&t=PRIVACY "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=PRIVACY&body=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY&notes=What%20information%20do%20we%20collect%3F%0D%0A%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%20or%20subscribe%20to%20our%20newsletter.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%20or%20e-mail%20address.%20You%20 "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY&srcURL=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&srcTitle=Faithfully+Frugal+%26amp%3B+Free+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY&source=Faithfully+Frugal+%26amp%3B+Free+&summary=What%20information%20do%20we%20collect%3F%0D%0A%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%20or%20subscribe%20to%20our%20newsletter.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%20or%20e-mail%20address.%20You%20 "LinkedIn")
-  * 
-
+# PRIVACY - Faithfully Frugal & Free
 
 What information do we collect?
 
@@ -67,12 +57,4 @@ If there are any questions regarding this privacy policy you may [contact us](ht
 keepinitcheap@hotmail.com  
 Privacy Policy Created by Free Privacy Policy
 
-  * [](http://twitter.com/intent/tweet?text=PRIVACY%20-%20http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&t=PRIVACY "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=PRIVACY&body=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY&notes=What%20information%20do%20we%20collect%3F%0D%0A%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%20or%20subscribe%20to%20our%20newsletter.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%20or%20e-mail%20address.%20You%20 "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY&srcURL=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&srcTitle=Faithfully+Frugal+%26amp%3B+Free+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.faithfullyfrugal-and-free.com%2Fprivacy&title=PRIVACY&source=Faithfully+Frugal+%26amp%3B+Free+&summary=What%20information%20do%20we%20collect%3F%0D%0A%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%20or%20subscribe%20to%20our%20newsletter.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%20or%20e-mail%20address.%20You%20 "LinkedIn")
-  * 
-
+Find this article interesting? Please share it with your friends. Thanks for stopping by. 
