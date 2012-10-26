@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepapnea-treatments.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617063603id_/http%3A//sleepapnea-treatments.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepapnea-treatments.net privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027015508id_/http%3A//sleepapnea-treatments.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy sleep apnea treatments blog | Sleep apnea treatments
 
