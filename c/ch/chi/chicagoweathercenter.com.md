@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagoweathercenter.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612135503id_/http%3A//www.wgntv.com/about/wgntv-privacy-policy-story%2C0%2C4156562.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagoweathercenter.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026092009id_/http%3A//www.wgntv.com/about/wgntv-privacy-policy-story%2C0%2C4156562.htmlstory) for the most accurate reproduction.*
 
 # Privacy Policy - Tribune - privacy.tribune.com
 
