@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the srcweb.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222834id_/http%3A//srcweb.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srcweb.net privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026165321id_/http%3A//srcweb.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Download Free Software
+# Privacy Policy | SrcWeb.net
 
 Privacy Policy
 
