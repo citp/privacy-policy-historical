@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.com.my privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610194933id_/http%3A//www.citibank.com.my/english/docs/privacy-policy.htm%3Futm_source%3Dcbolhm%26utm_medium%3DfootrPrivacy%26utm_campaign%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.com.my privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026231838id_/http%3A//www.citibank.com.my/english/docs/privacy-policy.htm%3FeOfferCode%3DMYABNPV) for the most accurate reproduction.*
 
 # Citibank Malaysia - Privacy Policy
 
@@ -15,7 +15,7 @@ The security of personal information about you is our priority. We protect this 
 **YOUR CHOICES AT CITIBANK MALAYSIA**  
 At Citibank we endeavour to keep you informed of the latest marketing and promotional offers we feel would be useful and beneficial to you. These include programs you may find valuable in helping you manage your account such as product or service upgrades, credit line increases and other benefits.
 
-However, you can choose not to receive these materials should you so desire, by calling our 24-Hour CitiPhone Banking or writing in to Citibank Berhad, (Ref: Privacy), P.O. Box 11725, 50754 Kuala Lumpur or logging in to Citibank Online at www.citibank.com.my to email us. Please allow 8 to 10 weeks for your request to take effect. If you would like to be reinstated, simply call our CitiPhone Banking Officers and we will gladly assist you with your request.
+However, you can choose not to receive these materials should you so desire, by calling our 24-Hour CitiPhone Banking or writing in to Citibank Berhad, (Ref: Privacy), P.O. Box 11725, 50754 Kuala Lumpur or logging in to Citibank Online at www.citibank.com.my to email us. Please allow 4 to 5 weeks for your request to take effect. If you would like to be reinstated, simply call our CitiPhone Banking Officers and we will gladly assist you with your request.
 
 Please read Citibank's Internet Privacy Policy as well, which outlines our privacy policy for our Internet site users.
 
