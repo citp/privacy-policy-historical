@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegasusnews.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604182805id_/http%3A//www.pegasusnews.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegasusnews.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027105903id_/http%3A//www.pegasusnews.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | www.pegasusnews.com | Dallas/Fort Worth
 
