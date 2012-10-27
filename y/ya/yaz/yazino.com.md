@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yazino.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428061939id_/http%3A//www.yazino.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yazino.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027081629id_/https%3A//www.yazino.com/legal/privacy) for the most accurate reproduction.*
 
 # Yazino Privacy Policy
 
@@ -130,4 +130,4 @@ You may decide to provide us with another person's email address so that person 
 
 You may also provide us with another person's contact information for purposes of delivering information through the Services. We use this information to contact and, if necessary, remind that person that he or she has been invited to join Yazino or received content through an Yazino. All invitees are provided with the option not to receive further invitations from Yazino. We may disclose such information if required to do so in order to comply with legal processes, as described above.
 
-Advanced Games Lab Limited is registered in Alderney, Company Number 1734, Registered Office: Century House, 12 Victoria Street, Alderney GY9 3UF
+Yazino Limited is registered in Guernsey, Company Number 54245, Registered Office: Island House, Grande Rue, St Martins, Guernsey, GY4 6RU
