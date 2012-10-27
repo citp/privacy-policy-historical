@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603072949id_/http%3A//www.apnicommunity.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027114020id_/http%3A//www.apnicommunity.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
