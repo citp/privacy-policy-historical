@@ -1,39 +1,246 @@
-> *The following text is extracted and transformed from the gala-bingo.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606144339id_/http%3A//www.galabingo.co.uk/gb/20/help/account/privacy.html%3Fms%3DMS%26sid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gala-bingo.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028005858id_/http%3A//www.galabingo.com/privacy-policy) for the most accurate reproduction.*
 
-# Gala bingo - Help - Privacy policy
+# Privacy and policy
 
-In this Privacy Policy, as in the General terms and conditions, references to the "Company", "we" or "us" shall refer to the Galabingo.co.uk website and/or Eurobet UK Limited AND/OR Gala (Alderney) Limited, both subsidiaries of Gala Coral Group Limited. 
+**1\. OBJECTIVES OF THIS PRIVACY POLICY**
 
-The Company respects your privacy and we are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you use the Website, and any other online platform provided by us (collectively, the "Service"); why we collect this information and how we use the collected information. 
+1.1 In this Privacy Policy, as in the general terms and conditions ("the terms"), references to the "company", "we" or "us" will apply to the galacasino.com website, the galabingo.com website, and/or Gala Interactive (Gibraltar) Limited, which is a subsidiary of Gala Coral Group Limited.
 
-                        We may periodically make changes to this Privacy Policy that we will notify to you by  posting the modified terms and conditions on the Website and we advise you to revisit this Privacy Policy regularly. 
+Gala Interactive (Gibraltar) Limited is licensed by the Government of Gibraltar and regulated by the [Gibraltar Gambling Commissioner ](http://www.gibraltar.gov.gi/remotegambling) under Gibraltar's Gambling Act 2005.
 
-**1\. Information Collected.** We consider information that may be used to identify an individual, including, but not limited to, first and last name, date of birth, credit card information, home or other physical address, email address, phone number or other contact information to be “Personal Information”. You may be asked to provide Personal Information when you register for any Account with us or otherwise use the Service. The Personal Information that we collect may include information such as: contact information (including telephone number), shipping information, billing information, transaction history, web site usage preferences, and feedback regarding the Service. This information is held by us on servers based in the United Kingdom, Alderney and Gibraltar and elsewhere from time to time. In addition, when you interact with the Service, our servers keep an activity log unique to you that collects certain administrative and traffic information including: source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used which are essential for the provision of and the quality of the Service. We do not collect Personal Information about you on the Service without your knowledge.
+Further, any reference to ‘You' or ‘Your' refers to any person who opens an account with us and in effect signs up to and accepts these T's and C's.
 
-**2\. Means of Collecting & Processing Data.** We may automatically collect certain data as discussed above and receive Personal Information about you where you provide such information through the Service or other communications and interactions with the Company. We may also receive Personal Information from online vendors and service providers that refer you to the Service, and from customer lists lawfully acquired from third party vendors. In addition, we may engage the services of third-party service providers to provide technical support, process your online transactions and maintain your online Accounts. We will have access to any information you provide to such vendors, service providers and third-party e-commerce services and we will use the Personal Information as set out in section 3 below. This information may be disclosed only to our staff and to third parties involved in the completion of your transactions or in support of your use of the Service as set out in section 3 below.  We take steps to ensure that our arrangements with third‑party service providers and online vendors protect your privacy.
+1.2 We are required by law, specifically the Data Protection Act 1998, to comply with the data protection requirements regarding the use of any personal information collected from You, while using the website. We respect Your privacy and to support this committment to protecting Your personal information, this Privacy Policy has been created to confirm:
 
-**3\. Information Use.** We use the Personal Information we collect from you to deliver the Service, to provide customer support, to undertake necessary security and identity verification checks, to process any of your online transactions, meet certain business requirements and for any other purpose related to the operation of the Service. Your Personal Information may also be shared with our affiliates, subsidiaries, agents and suppliers in order to provide the Service and provide you with promotional offers and with information regarding the Company, our group companies and the Service. From time-to-time, we may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, you have the choice of whether or not to disclose such information. Information requested may include contact information (such as name, correspondence address and telephone number), and demographic information (such as zip or postal code or age). If you choose to participate in a survey or contest and win, by accepting any contest prize or winnings from us, you consent to use of your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law. Unless you have elected not to receive promotional information, we may also use your Personal Information (including your email address and phone number) to provide you with information regarding any similar products, services and promotions, including other online gaming products of ours and our affiliates such as online casino and bingo services. We will not sell, lease or share your Personal Information except as set forth in this Privacy Policy. 
+  * what information is gathered when You use the website (collectively referred to as the "Service");
+  * why we gather this information; and
+  * how we use the collected information.
 
-**4\. Certain Excluded Disclosures.** We may disclose your Personal Information if required to do so by law, or if we believe in good faith that such action is necessary to: (1) comply with any legal process served on us, the Website or the Service; (2) protect and defend our rights or property; or (3) act to protect the personal safety of users of the Service or the public. If, in our sole determination, you are found to have cheated or attempted to defraud the Company or any other user of the Service in any way including but not limited to game manipulation or payment fraud, or if we suspect you of fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), we reserve the right to share this information (together with your identity) with other online gaming sites, banks, credit card companies, and appropriate agencies. 
 
-**5\. Access.** You may “opt out” of receiving any promotional communications either by choosing to opt out where such option is made available on the Website or the Service or in an email you receive from us, or at any time by sending an email to [customer.services@galabingo.co.uk](mailto:customer.services@galabingo.co.uk). You may also call us on 0800 294 7 294, Monday - Sunday between 7am and 11pm or write to galabingo.com Customer Care, Gala Coral Remote Gambling, Globe house, Victoria Way, Woking, Surrey, GU21 6DD. In addition you may contact us at the just mentioned addresses if you: 1). want to confirm the accuracy of the Personal Information we have collected about you; 2). would like to update your Personal Information or delete your Personal Information; and/or 3). have any complaint regarding our use of your Personal Information. If requested, we will change any information you have provided to us or mark any information to prohibit future use, provided that you provide evidence as we may reasonably require for such changes. 
 
-**6\. Cookies.** Cookies are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of the Service. We also may use cookies to monitor traffic to the Service, improve the Service and make it easier and/or more relevant for your use. You have the ability to accept or decline cookies. Most online browsers automatically accept cookies, but if you prefer you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Service. 
+1.3 We may occasionally make changes to this Privacy Policy and these will be highlighted to You when we publish the updated terms on the website. In order to monitor any changes we advise You to review the Privacy Policy regularly.
 
-**7\. Consent to Use of Electronic Service Providers.** In order to play Real Money games on the Service, you will be required to send money to and receive money from us. We may use third party electronic payment processors and/or financial institutions ("ESPs") to process such financial transactions.  By accepting this Privacy Policy, you consent to Personal Information necessary for the processing of transactions being shared with ESPs, including where necessary the transfer of information outside of your country. We take steps to ensure that our arrangements with ESPs protect your privacy. 
+**2\. INFORMATION COLLECTED**
 
-**8\. Consent to Security Review.**   We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of your Galabingo.co.uk account and your financial transactions for potential breach of our terms and conditions and of applicable law. By accepting this Privacy Policy, holders of a Galabingo.co.uk Account authorise us, our staff, affiliates, subsidiaries, agents and suppliers to use your Personal Information and to disclose your Personal Information to third parties for the purposes of validating the information you provide to us, including where necessary the transfer of information outside of your country. Security Reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third party databases. In addition, to facilitate these Security Reviews, you agree to provide such information or documentation as we may request. 
+2.1 Personal information which may be used to identify an individual could include the following:
 
-**9\. Security.** We understand the importance of information security and the techniques needed to secure information. We store all of the Personal Information we receive directly from you in a password-protected database residing within our secure network behind active state-of-the-art firewall software. The Website supports SSL Version 3 with 128 bit encryption.  We take steps to ensure our subsidiaries, agents, affiliates and suppliers also employ adequate levels of security. 
+  * first and last name;
+  * date of birth;
+  * credit or debit card information;
+  * home or other physical address;
+  * e-mail address; and/or
+  * phone number or other contact information.
 
-**10\. Protection of Children.** The Service is not intended for or directed to persons under the age of 18. Any person who provides their information to us through any part of the Service represents to us that they are 18 years of age or older. It is our policy to endorse the Children’s Online Privacy Protection Act of 1998 and to use our best efforts to comply with that Act.  This may involve us having to access and verify your Personal Information.  If we become aware that a minor has attempted to or has submitted personal information via the online site, we will not accept this information and will take steps to remove such information from our records. 
 
-**11\. International Transfers.** Personal Information collected on the Service may be stored and processed in any country in which we or our affiliates, suppliers, subsidiaries or agents maintain facilities, and by using the Service, you consent to any transfer of information outside of your country (including to third countries which may not have been assessed as having adequate privacy laws).  Nevertheless, we take steps to ensure that our affiliates, agents, subsidiaries and suppliers comply with our standards of privacy regardless of their location.
 
-**12\. Third-Party Practices.** We cannot ensure the protection of any information or images that you provide to a third-party online site that links to or from the Service or any information collected by any third party administering our affiliate program or any other program, since these third-party online sites are owned and operated independently of us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If you have questions about a third party’s information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and is not responsible for the content or privacy practices of such online sites.
+2.2 Personal information may be requested during account registration or at other times, when using the service. The personal information collected may include:
 
-**13\. Legal Disclaimer.** The Service operates “AS-IS” and “AS-AVAILABLE,” without liability of any kind. We are not responsible for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that there will be error-free performance regarding the privacy of your Personal Information, and we will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information.
+  * contact information, for example a telephone number;
+  * shipping information;
+  * billing information;
+  * transaction history;
+  * website preferences; and/or
+  * feedback regarding the service.
 
-**14\. Merger.** If we should ever file for bankruptcy or be acquired by a third party, merge with a third party, sell all or part of our assets, or otherwise transfer substantially all of our relevant assets to a third party, we are entitled to share the Personal Information and all other information you have provided through the Service to potential and subsequent business and merger partners.
 
-**15\. Consent to Privacy Policy.** By clicking “Yes” during the registration process or by your continued use of the Service following the posting of this Privacy Policy (as applicable) you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our terms and conditions and any additional applicable terms posted on the Website. We may periodically make changes to this Privacy Policy that we will notify to you by way of posting the modified Privacy Policy on the Website and we advise you to revisit the Privacy Policy regularly. 
+
+2.3 This information is held by us on servers located in Gibraltar. However, this information may occasionally be held in other locations. Our servers also keep a log of Your activities which is essential for the quality and provision of the service, although this information is not collected without Your knowledge. This activity log includes administrative and traffic information such as:
+
+  * source IP address;
+  * time and date of access;
+  * web page/s visited;
+  * language used;
+  * software crash reports; and
+  * type of browser used.
+
+
+
+2.4 If there is a legal requirement, or we believe such action is necessary, we may reveal Your personal information for the following reasons:
+
+  * to comply with any legal process served on us, the website or the service;
+  * to protect and defend our rights of property or the interests of sporting or other qualified bodies; or
+  * to protect the personal safety of users of the service or the public.
+
+
+
+2.5 We may decide to share Your information and identity with other online gaming sites, banks, credit card companies and appropriate agencies, if You are found to have undertaken the following:
+
+  * cheated or attempted to defraud us or our affiliates or any other user of the service in any way, including but not limited to: 
+    * game manipulation or payment fraud;
+    * suspicion of fraudulent payment, including use of stolen credit cards;
+    * any other fraudulent activity, including any chargebacks or other reversal of payment; or
+    * prohibited transactions, including money laundering.
+
+
+
+2.6 We may share Your personal information with regulators, sports' governing bodies and other authorised bodies, including the police, for the purposes of investigating any actual or suspected criminal activity or other regulatory matters.
+
+**3\. MEANS OF COLLECTING AND PROCESSING DATA**
+
+3.1 As detailed in section 2, we may automatically collect certain data and receive personal information via Your use of our products and services, or other communications within the company. Personal information may be recorded on the telephone, or used for training purposes or by Customer Services.
+
+3.2 Personal information may also come from online vendors and service providers who refer You to the service and from customer lists lawfully acquired from third party vendors. Third-party service providers may be appointed to provide technical support, process Your online transactions and maintain Your online accounts. We may have access to any information provided to such vendors, service providers and third party e-commerce services and we will use the personal information as detailed in section 4 below.
+
+3.3 This information may only be revealed to our staff and third parties involved in the transaction process and the support of Your use of the service, as detailed in section 4 below. Our arrangements with third-party service providers and online vendors should ensure that Your privacy is protected.
+
+**4\. INFORMATION USE**
+
+4.1 The personal information collected from You will be used:
+
+  * to deliver the service;
+  * to provide customer support;
+  * to undertake necessary security and identity verification checks;
+  * to meet certain business requirements; and
+  * for any other purpose related to the operation of the service.
+
+
+
+4.2 Affiliates, subsidiaries, agents and suppliers may also share Your personal information in order to provide the service. These groups may also supply promotional offers and information regarding the company, our group of companies and the service.
+
+4.3 We or our affiliates, subsidiaries, agents and suppliers may occasionally request information from You using surveys or contests. Participation is completely voluntary and You therefore have the choice of whether or not to disclose such information. Information requested may include:
+
+  * contact information, such as name, correspondence address and telephone number; and
+  * demographic information such as postal code or age
+
+
+
+4.4 If You choose to participate in any betting opportunity, game, survey or contest and win, by accepting any contest prize or winnings from us, You consent to the use of your name, screenname (where applicable), image, photographs, and general locations for advertising, promotional and news purposes without additional compensation, except where prohibited by law.
+
+4.5 Personal information, such as e-mail address and telephone number, may also be used where You have agreed to receive promotional material. This will provide You with details of any similar products, services and promotions supplied by ourselves or our affiliates, including other online gaming products such as casino and bingo.
+
+We will not sell, lease or share Your personal information except as detailed in this Privacy Policy. At account closure, Your data will be kept for a certain period for legal and accounting purposes and will then be removed from our system.
+
+4.6 In order to play Real Money games You will need a facility to send and receive money. Third Party electronic payment processors and/or financial institutions may be used to process such financial transactions ("ESP's"). By accepting this Privacy Policy You agree to the sharing of necessary personal information, with the ESP's, to enable the processing of transactions. Where necessary this may include the transfer of information outside of Your country, which may not have been classified as having acceptable privacy laws.
+
+We use all reasonable endeavours to ensure that our arrangements with ESP's protect Your privacy.
+
+4.7 You agree that we are permitted to share personal information and all other information You may have provided by using the service, to potential and subsequent business and merger partners, if we undertake the following:
+
+  * file for bankruptcy;
+  * acquisition by a third party;
+  * merge with a third party;
+  * sell all or part of our assets; or
+  * transfer substantially all of our relevant assets to a third party.
+
+
+
+**5\. ACCESS TO PERSONAL INFORMATION**
+
+5.1 By sending an e-mail to help@galabingo.com, or calling us on 0800 294 7 294 (Monday-Sunday between 7am and 11pm), or by writing to galabingo.com Customer Services, Globe House, Victoria Way, Woking GU21 6DD, You can organise the following: [click here.](https://web.archive.org/contact)
+
+  * stop promotional communications by either opting out on the websites,where applicable, or in an e-mail received from us;
+  * confirm the accuracy of the personal information we have collected on You;
+  * update or delete Your personal information;
+  * lodge a complaint regarding the use of Your personal information; or
+  * change any information provided to us or mark any information to prohibit future use, provided evidence is provided to support such changes.
+
+
+
+**6\. COOKIES**
+
+6.1 Cookies are small text files that record Your preferences when You visit certain online pages, and are stored on Your computer or equipment. We use cookies to:
+
+  * track the use of the service;
+  * monitor traffic to the service; and
+  * improve the service by making it easier and more relevant for You.
+
+
+
+6.2 Online browsers can usually be set to either accept or decline cookies. However if cookies are declined You may not be able to fully experience the interactive features of the service.
+
+6.3 The following table lists the cookies in use on galabingo.com, and whether they are strictly necessary for the normal operation of the website, used for performance reasons, used for functionality reasons, or used for targeting purposes.
+
+Cookie Name |  What does it do? |  Strictly necessary |  Performance |  Functionality |  Targeting  
+---|---|---|---|---|---  
+GUEST_LANGUAGE_ID |  This cookie stores the language for guest (not logged in) users |    |    |  x |     
+COOKIE_SUPPORT |  This cookie tests whether or not cookies are supported by the user's browser |  x |    |    |     
+PTUSERNAME |  This cookie stores the username to enable ‘remember me' functionality in the website header |    |    |  x |     
+PTusSESSIONID |  This cookie stores the username to enable ‘remember me' functionality in the website header |  x |    |    |     
+JSESSIONID |  x |    |    |     
+PTSESSIONID |  x |    |    |     
+__utma |  These cookies are used by Google Analytics. To find out more, please visit Google's explained [here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) |    |    |    |  x  
+__utmb |    |    |    |  x  
+__utmc |    |    |    |  x  
+__utmz |    |    |    |  x  
+optAutoMuck |  This cookie defines your Auto Muck checkbox on the table |    |  x |    |     
+optShowRaiseOrLowerWindowsPopup |  This cookie defines whether the "Show raise or lower windows" alert will be shown in Firefox. |    |  x |    |     
+optShowMarketingMessage |  This cookie defines the default choice for Options Dialog, and if the Marketing messages should be shown. |    |  x |    |     
+optShowAttributes |  This cookie defines the default choice for 'Show attributes in lobby' in Options Dialog. |    |  x |    |     
+pokerCalculateOdds |  This cookie defines the default choice for Calculate Odds checkbox in Options Dialog. Defines whether or not to show the all-in odds. |    |    |  x |     
+buddyNotes |  This cookie defines whether or not the client should show the buddy notes panel (0 or 1). |    |    |  x |     
+buddyNotesVer |  This cookie defines the buddy notes version. |    |    |  x |     
+abSessionsState |  This cookie defines the state of the anti bot current session timer. It in turn defines what message should be returned. |    |    |    |     
+abTimerState |  This cookie defines the state of the anti bot timer (seconds passed). |    |    |    |     
+sessionList |  Defines the list of sessions which the offlien history has recorded if optStoreHistory is set to 1. |  x |    |    |     
+History |  Defines the physical path on the users computer where the local hand history will be stored. |  x |    |    |     
+Table |  Defines the physical path on the users computer where the local hand history for cash tables will be stored. |  x |    |    |     
+Tournament |  Defines the physical path on the users computer where the local hand history for tournaments will be stored. |  x |    |    |     
+disconnectionList |  Defines a list of IDs. Each disconnection is added to the list and upon next connection the list is sent to the channel server. |  x |    |    |     
+disconnection |  Defines the information about the disconnection that is to be sent to the channel server. |  x |    |    |     
+moduleScale |  Defines the scale mode of the client, normal and expanded (0 or 1). |    |    |  x |     
+moduleDataGridSelector |  Specifies if the default view of the datagrid is normal or exanded (0 or 1). |    |    |  x |     
+minigamesCookie |  Stores a count of the number of bets placed on a Minigame. Stored purely for displaying responsible gaming messages. |    |    |  x |     
+GameManagerSettings |  Stores which minirooms are currently opened. So when a browser window is refreshed, we can restore the minirooms. |    |    |  x |     
+AdobeDynamicStream |  This cookie is used to store the last max bandwidth to improve video performance. |    |  x |    |     
+userSettings{userID} | 
+
+  * Stores any "don't show again" selections on pop-ups
+  * Stores any settings chosen from the Options screen which are not a default settings.
+  * Chosen chat font colour
+
+|    |    |  x |     
+BIGipServerproduction_combined_weblogic_http |  Required for Content Delivery Network. |  x |    |    |     
+BIGipServerproduction_https_apache |  x |    |    |     
+CMPGlobalClientID |  x |    |    |     
+CxtId |  A unique user ID used to link multiple events to a single user and for reach and frequency reporting / The first time a user views or clicks a placement (or clicks a search click search result) or visits a page with a universal tag etc. / A canonical UUID e.g. "4a42365e-2cf6-4bb1-b876-91540ac5274f" |    |    |    |  x  
+GalaBingo |  Attempts to attribute activity such as registrations and bets to the most recently clicked (or, failing that, viewed) advert and placement (or Web search term). Stores information about tracked customer activity (e.g. has registered, has made a deposit, has placed a bet etc.) so that adverts can be targeted towards particular customer segments / When a placement with post-impression or post-click tracking is viewed or clicked or a search click is processed or a page with a universal tag etc. Only the most recent tracked impression, most recent tracked click and most recent search click are stored. |    |  x |    |  x  
+FrequencyCappingCookie |  If enabled on a strategy, stores details of the number of times each advert in the strategy is seen during a specified per-advert time period. |    |    |    |  x  
+Name of client in Connextra, name of placement, name of advert (all encrypted) |  If enabled, stores the publisher page URL for an advert impression so that it can be passed to the clickthrough page when the advert is clicked / When placement with a PublisherPageTracker is viewed / The URL of the publisher page (encrypted) where the user last saw the named placement-advert combination. |    |  x |    |  x  
+optout |  If enabled, stores the publisher page URL for an advert impression so that it can be passed to the clickthrough page when the advert is clicked / When placement with a PublisherPageTracker is viewed / The URL of the publisher page (encrypted) where the user last saw the named placement-advert combination. |    |  x |    |  x  
+btag |  This cookie tracks which affiliate a customer was referred by. |    |    |    |  x  
+  
+**7\. CONSENT TO SECURITY REVIEW**
+
+7.1 We may conduct a security review at any time to confirm Your identity, age and the registration data provided by You. This information will be used to verify use of Your account and financial transactions for potential breach of our terms and of applicable law.
+
+7.2 By accepting this Privacy Policy, You authorise us, our staff, affiliates, subsidiaries, agents and suppliers to both use Your personal information and to disclose Your personal information to third parties with the objective of validating the supplied information. This includes where necessary the transfer of information outside of Your country, including to countries whose privacy laws may not be regarded as acceptable.
+
+7.3 Security reviews may include, but are not limited to, ordering a credit report and/or confirming supplied information against third party databases. In addition information or documentation may be requested to assist with these security reviews.
+
+**8\. SECURITY OF PERSONAL INFORMATION**
+
+8.1 Information security is important to us and we understand the techniques required to secure this information. Security measures are in place to protect Your information from access by unauthorised persons and to prevent unlawful processing, accidental loss, destruction and damage.
+
+8.2 Data on our secure pages is encrypted using Secure Sockets Layer ("SSL") technology. Personal information received directly from You will be stored in a password-protected database located within our secure network behind active state of the art firewall software.
+
+8.3 Unfortunately the sending of information via the internet cannot be completely secure at all times.. Although we will make every reasonable effort to protect Your personal information, it cannot guarantee the security of any information disclosed online. In opening an account with us, You accept the potential security risks of internet use and will not hold us responsible for any breach of security unless it has been proved that we have been negligent. For Your own privacy protection we encourage You not to include sensitive information, for example credit/debit cards, in any e-mails sent to us.
+
+8.4 The Service operates "AS-IS" and "AS-AVAILABLE," without liability of any kind. Whilst we have implemented appropriate technical and organisational measures to ensure the safety of Your personal information, due to the continually evolving state of technology and business, coupled with its complexity, we are not able to guarantee error free performance in relation to the privacy of Your personal information.
+
+8.5 Protection of any information or images provided to a third-party online site that links to or from the service, cannot be guaranteed. This includes information collected by any third party managing our affiliate program or any other program, as these third-party online sites are owned and operated independently of us.
+
+8.6 Information gathered by these third parties will fall under their privacy policy rather than ours. If You have any queries regarding a third party's privacy policy, You can obtain this information directly from them.
+
+8.7 We are not responsible or liable for:
+
+  * the actions or policies of these third parties; or
+  * the content or privacy practices of these online sites.
+
+
+
+**9\. I** **NTERNATIONAL TRANSFERS**
+
+9.1 Personal information collected on the service may be stored and processed in any country in which we or our affiliates, suppliers, subsidiaries or agents have facilities. By using the service, You agree to the transfer of Your personal information outside of Your country, including to countries which may not have been reviewed as having acceptable privacy laws. Nevertheless, all reasonable processes are in place to ensure that our affiliates, agents, subsidiaries and suppliers comply with our privacy standards, irrespective of location.
+
+**10\. CONSENT TO PRIVACY POLICY**
+
+10.1 You agree to be bound by the terms of this Privacy Policy if You complete the following:
+
+  * by clicking the box next to "I accept the [Terms & Conditions](https://web.archive.org/terms) (incorporating the [Privacy Policy](https://web.archive.org/privacy-policy))" during the registration process;
+  * by continued use of the service following the posting of this Privacy Policy
+
+
+
+10.2 This Privacy Policy should be read in conjunction with our terms and any additional applicable terms posted on our websites. Changes may be made to this Privacy Policy from time to time. In the event that there are any changes, an updated version of our Privacy Policy will be published on our websites.
+
+This Privacy Policy was amended last on ( ) and this is our entire and exclusive Privacy Policy, which supersedes any earlier version. However we advise You to regularly review the Privacy Policy to check for any updates.
