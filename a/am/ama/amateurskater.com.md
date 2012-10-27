@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurskater.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627222318id_/http%3A//www.amateurskater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurskater.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027111355id_/http%3A//www.amateurskater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
