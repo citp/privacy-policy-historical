@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mensfitclub.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628002721id_/http%3A//www.mensfitclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensfitclub.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027041007id_/http%3A//www.mensfitclub.com/privacy) for the most accurate reproduction.*
 
-# MensFitClub – Privacy - MensFitClub
+# Privacy - Men's Fit Club
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Mensfitclub.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
