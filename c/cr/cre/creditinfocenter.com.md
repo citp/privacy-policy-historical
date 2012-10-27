@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625012229id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027065439id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy/Acceptable Use Policy - creditinfocenter.com
-
-[We Consult on Your Credit and Debt Situations!](http://www.creditinfocenter.com/misc/ConsultWithTheExpert.php)
+# Credit Infocenter's Privacy Policy
 
 ## Web Nation, Inc. Takes Your Privacy Seriously
 
@@ -32,8 +30,6 @@ Web Nation, Inc. will not sell or rent your personally identifiable information 
 Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
-
-You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
 
 ### Changes to This Privacy Policy
 
