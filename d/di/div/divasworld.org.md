@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divasworld.org privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122005012id_/http%3A//www.divasworld.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divasworld.org privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027051005id_/http%3A//www.musicdoinggood.org/privacy.html) for the most accurate reproduction.*
 
 # MusicDoingGood :: Privacy Policy
 
@@ -22,11 +22,11 @@ We want to be very clear: We do not obtain personal information about you at thi
 
 ## How to Contact Us
 
-If you no longer wish to receive offers or information from this site, if you would like to obtain a copy of the personal information gathered by this web site, or if you would like to correct or delete such information from our website's marketing database, you can always send us an e-mail with your concern or question by visiting our [CONTACT](https://web.archive.org/web/20120122005012id_/http%3A//www.divasworld.org/contact.html) section of DIVASWORLD.ORG.
+If you no longer wish to receive offers or information from this site, if you would like to obtain a copy of the personal information gathered by this web site, or if you would like to correct or delete such information from our website's marketing database, you can always send us an e-mail with your concern or question by visiting our [CONTACT](https://web.archive.org/web/20121027051005id_/http%3A//www.musicdoinggood.org/contact.html) section of DIVASWORLD.ORG.
 
 ## Special Notice to California Residents
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an e-mail to [info@DIVASWORLD.ORG](https://web.archive.org/web/20120122005012id_/http%3A//www.divasworld.org/info@divasworld.org) including the phrase “California Privacy Request” in the subject line, and provide us with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request.
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an e-mail to [info@DIVASWORLD.ORG](https://web.archive.org/web/20121027051005id_/http%3A//www.musicdoinggood.org/info@divasworld.org) including the phrase “California Privacy Request” in the subject line, and provide us with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request.
 
 Thank you for visiting our site.
 
