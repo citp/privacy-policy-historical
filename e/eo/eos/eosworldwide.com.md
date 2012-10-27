@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eosworldwide.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630215621id_/http%3A//eosworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eosworldwide.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027115712id_/http%3A//eosworldwide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EOS Worldwide
 
