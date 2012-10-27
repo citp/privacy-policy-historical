@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsportsjobs.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611130936id_/http%3A//www.globalsportsjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsportsjobs.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027092653id_/http%3A//www.globalsportsjobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ This Privacy Policy is designed to provide you with clear information about what
 
 2.6 Once you have registered with the Web Site, if you choose to make your curriculum vitae and/or other personal information visible to Recruiters (as defined in the Web Site Terms of Use), you acknowledge that those Recruiters will have access to your curriculum vitae and/or other personal information and you agree to the disclosure and processing of such information for the purposes of providing you with this Service.
 
-2.7 Please note that as part of the Services it will be necessary for our web server to receive the personal information Job seekers send to us and to automatically pass it on to Recruiters and vice versa and this may involve the passing or access of your personal information to countries outside of the United Kingdom whose privacy practices may not be subject to the same secure standards as in the United Kingdom. By accepting the Terms of Use and this privacy policy you will be expressly agreeing to the transfer of your personal data overseas.  ****
+2.7 Please note that as part of the Services it will be necessary for our web server to receive the personal information Job seekers send to us and to automatically pass it on to Recruiters and vice versa and this may involve the passing or access of your personal information to countries outside of the United Kingdom whose privacy practices may not be subject to the same secure standards as in the United Kingdom. By accepting the Terms of Use and this privacy policy you will be expressly agreeing to the transfer of your personal data overseas.  ** **
 
 2.8 Unfortunately, the internet is not a secure medium and we cannot guarantee the security of data transmitted to our Web Site. However, to prevent unauthorised access, maintain data accuracy and ensure the appropriate use of information, we have put in place procedures to protect the information we collect online. All of our employees are subject to obligations of confidentiality regarding information which they have access to in the course of their employment including your personal information.
 
