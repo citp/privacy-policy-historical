@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemonworldonline.net privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124160157id_/http%3A//www.pokemonworldonline.net/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemonworldonline.net privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027174135id_/http%3A//www.pokemonworldonline.net/pp.php) for the most accurate reproduction.*
 
 # Pokémon World Online - Privacy Policy
 
