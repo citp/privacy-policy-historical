@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203833id_/http%3A//smartshopper.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027234353id_/http%3A//www.smartshopper.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
