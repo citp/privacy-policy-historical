@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630144313id_/http%3A//www.danfoss.com/Terms/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028000949id_/http%3A//www.danfoss.com/Terms/PrivacyPolicy.htm%23Cookies) for the most accurate reproduction.*
 
 # Privacy Policy - Danfoss
 
@@ -29,7 +29,7 @@ Danfoss does not share cookie data - or related user behaviour - with any third 
 
 The cookies currently in use by Danfoss on this website:
 
-Webtrends analytics: |  | Tracking how a visitor move around and make use of the website   
+Webtrends and Google analytics: |  | Tracking how a visitor move around and make use of the website   
 – but not intrusive for the visitors’ privacy   
   
 ---|---|---  
