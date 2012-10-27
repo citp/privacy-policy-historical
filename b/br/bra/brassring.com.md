@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522023206id_/http%3A//www.kenexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027120641id_/http%3A//www.kenexa.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Kenexa
+# Kenexa > Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Kenexa-Technology,-Inc/validation?rid=ad2ff9cd-aa8a-49c2-806f-0fc0c97a9d32 "TRUSTe European Safe Harbor certification")
+****
 
 **I. INTRODUCTION**   
-The following sets forth Kenexa’s and its subsidiaries’ Privacy Policy, which contains four separate sections as follows:
+The following sets forth Kenexa’s and its subsidiaries’ Privacy Policy, which contains four separate sections as follows: 
 
   * This Introduction;
   * Kenexa Online Privacy Policy, which addresses the privacy practices applicable to usage of the Kenexa websites;
