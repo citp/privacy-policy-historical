@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624002040id_/http%3A//www.kenexa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027120641id_/http%3A//kenexa.com/privacypolicy) for the most accurate reproduction.*
 
 # Kenexa > Privacy Policy
 
+****
+
 **I. INTRODUCTION**   
-The following sets forth Kenexa’s and its subsidiaries’ Privacy Policy, which contains four separate sections as follows:
+The following sets forth Kenexa’s and its subsidiaries’ Privacy Policy, which contains four separate sections as follows: 
 
   * This Introduction;
   * Kenexa Online Privacy Policy, which addresses the privacy practices applicable to usage of the Kenexa websites;
