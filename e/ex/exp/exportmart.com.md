@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exportmart.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621011319id_/http%3A//www.exportmart.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exportmart.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027145027id_/http%3A//www.exportmart.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # ExportMart.com, Privacy Policy, Registration,Publishing,Payment Mode, Users Policy,Business Norms
 
