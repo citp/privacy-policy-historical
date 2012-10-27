@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628001117id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027024735id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jewish Journal
 
@@ -76,8 +76,8 @@ This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are
 
 If you have a privacy question about our Site, please email: Jay Firestone at [webmaster@jewishjournal.com](mailto:webmaster@jewishjournal.com). Or write: Tribe Media Corp., Attn: Jay Firestone, 3580 Wilshire Boulevard, Suite 1510, Los Angeles, California, 90010. Or call us at (213) 368-1661.
 
-(end of policy) 
+(end of policy)
 
 Advertisement
 
-[](http://www.jewishjournal.com/ads/www/delivery/ck.php?oaparams=2__bannerid=1117__zoneid=7__source=newspaper__cb=aa41fef3df__oadest=http%3A%2F%2Fwww.jewishjournal.com%2Fmobile)
+[](http://www.jewishjournal.com/ads/www/delivery/ck.php?oaparams=2__bannerid=1117__zoneid=7__source=newspaper__cb=a42b73d865__oadest=http%3A%2F%2Fwww.jewishjournal.com%2Fmobile)
