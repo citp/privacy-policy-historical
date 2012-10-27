@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachingsuccessapp.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512010509id_/http%3A//www.experiencepmi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachingsuccessapp.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028002130id_/http%3A//www.experiencepmi.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
