@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grayline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231025702id_/http%3A//www.grayline.com/site/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grayline.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028015702id_/http%3A//www.grayline.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
