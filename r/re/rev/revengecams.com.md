@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revengecams.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414213434id_/http%3A//secure.revengecams.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revengecams.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027232322id_/http%3A//secure.revengecams.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
