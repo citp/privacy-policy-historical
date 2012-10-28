@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pwc.co.uk privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413215318id_/http%3A//www.pwctermsandconditions.co.uk/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028061720id_/http%3A//www.pwc.co.uk/en/who-we-are/privacy-statement.jhtml) for the most accurate reproduction.*
 
 # Privacy Commitment
-
-PwC terms and conditions
 
 ## Introduction
 
@@ -12,9 +10,9 @@ PricewaterhouseCoopers LLP (the UK firm) (“PricewaterhouseCoopers LLP” or �
 
 We only collect identifiable personal data or information that is specifically and voluntarily provided by a visitor to our site. For example, a visitor to our site may choose to provide information such as name, title, office address, office email address and telephone number in order to:
 
-  * register for certain areas of the site; 
-  * contact us for further information; 
-  * participate in "join our mailing list" initiatives 
+  * register for certain areas of the site;
+  * contact us for further information;
+  * participate in "join our mailing list" initiatives
 
 
 
@@ -54,16 +52,12 @@ If you would like details of the information which you have submitted to us thro
 
 Should visitors subsequently choose to unsubscribe from mailing lists or any registrations, we will provide instructions, on the appropriate webpage or in communications to our visitors, or a visitor may contact by email to [privacy@pwc.com](mailto:privacy@pwc.com "Email privacy team").
 
-## Data retention 
+## Data retention
 
 The personal data you submit to us will only be retained for as long as is required for the purposes for which it was collected or as required by law.
 
 For example, contact information about visitors (such as information generated though registration for access to areas on the site) will be kept as long as the information is required to completely service the contact request or until a user requests that we delete that information. Mailing list information, discussion posts and email are kept for only the period of time considered reasonable to facilitate the visitor’s requests.
 
-## Cookies and log files
+## Cookies
 
-We use small text files called ‘cookies’ which are placed on your hard drives to assist in providing a more customised website experience. For example, a cookie can be used to store registration information in an area of the site so that a user does not need to re-enter it on subsequent visits to that area. Site statistics are compiled by third parties, and therefore your IP address will be passed to third parties for statistical reporting only.
-
-The use of cookies is now standard operating procedure for most websites. However if you are uncomfortable with the use of cookies, most browsers now permit users to opt-out of receiving them. In that case you will be unable to use this registration process and may find other functionality in the site impaired. After termination of the visit to our site, you can always delete the cookie from your system if you wish. 
-
-Close Window
+We use small text files called ‘cookies’ which are placed on your hard drives to assist in providing a more customised website experience. The use of cookies is now standard operating procedure for most websites. However if you are uncomfortable with the use of cookies, most browsers now permit users to opt-out of receiving them. In that case you will be unable to use this registration process and may find other functionality in the site impaired. After termination of the visit to our site, you can always delete the cookie from your system if you wish.
