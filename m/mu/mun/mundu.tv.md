@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mundu.tv privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606232305id_/http%3A//mundu.tv/aboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundu.tv privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028171951id_/http%3A//mundu.tv/aboutus/privacypolicy.php) for the most accurate reproduction.*
 
 # Terms - Mundu TV
 
