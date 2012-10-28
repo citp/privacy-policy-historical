@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancejobopenings.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616190633id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancejobopenings.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028143322id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.*
 
 # JobThread | Privacy Policy
 
