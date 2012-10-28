@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ukfreeads.ws privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624072602id_/http%3A//www.ukfreeads.ws/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfreeads.ws privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028101446id_/http%3A//www.ukfreeads.ws/info/privacy.php) for the most accurate reproduction.*
 
 # UKFreeAds.ws - Privacy Policy
+
+### Privacy Policy
 
 **General**
 
