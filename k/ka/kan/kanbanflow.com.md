@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kanbanflow.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520135006id_/https%3A//kanbanflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanbanflow.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028142250id_/https%3A//kanbanflow.com/privacy-policy) for the most accurate reproduction.*
 
-# KanbanFlow - Free, fast & flexible Kanban tool
+# KanbanFlow - Lean project management, simplified
 
 ## What information do we collect?
 
@@ -36,7 +36,7 @@ We use cookies to understand and save your preferences for future visits.
 
 ## Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## Childrens Online Privacy Protection Act Compliance
 
