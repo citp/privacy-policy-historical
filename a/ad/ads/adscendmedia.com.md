@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adscendmedia.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513102643id_/http%3A//adscendmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adscendmedia.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028132355id_/http%3A//adscendmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,4 +119,4 @@ If any provision of this Privacy Policy is found to be illegal, void, or unenfor
 
 This page was lasted updated on April 17, 2012. 
 
-[Contact Us](https://web.archive.org/web/20120513102643id_/http%3A//adscendmedia.com/contact.php)
+[Contact Us](https://web.archive.org/web/20121028132355id_/http%3A//adscendmedia.com/contact.php)
