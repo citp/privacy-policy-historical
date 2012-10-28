@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511044703id_/http%3A//www.intertrader.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029004310id_/http%3A//www.intertrader.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | InterTrader
 
@@ -15,7 +15,7 @@ Protecting the security and privacy of your personal information is important to
 
 At LCG, we are committed to maintaining the highest standards of integrity in our business. In the course of our business, it is necessary to collect Personal Information about our potential clients. We take this activity seriously and seek to provide fair, secure and appropriate methods for the handling of Personal Information. All such activities are intended to be consistent with both generally accepted privacy ethics and standard business practices. Your Personal Information may be shared with a limited number of trusted partners and/or affiliates of LCG where such use is restricted to the management of your account and will not breach any elements of the UK Data Protection Act 1998.
 
-If you have any questions or comments about LCG’s Privacy Policy, you can contact our Customer Support Team: [support@capitalspreads.com](mailto:support@capitalspreads.com) or +44 (0)20 7456 7020
+If you have any questions or comments about LCG’s Privacy Policy, you can contact our Customer Support Team: [support@intertrader.com](mailto:support@capitalspreads.com) or +44 (0)20 7456 7677
 
 **Personally Identifiable Information**
 
@@ -25,7 +25,7 @@ LCG may store and process personal information and share it within the LCG group
 
 If you choose not to have your personal information used to support its customer relationship programmes (especially direct-marketing or market-research), LCG will respect your choice. LCG do not now (and do not intend to in the future) sell, rent or otherwise market your personal information to third parties.
 
-You may opt out of receiving marketing emails at any time by selecting the 'unsubscribe' link at the top of the emails or by emailing [support@capitalspreads.com](mailto:support@capitalspreads.com) with your request.   
+You may opt out of receiving marketing emails at any time by selecting the 'unsubscribe' link at the top of the emails or by emailing [support@intertrader.com](mailto:support@capitalspreads.com) with your request.   
 
 
 **Children**  
@@ -72,7 +72,60 @@ To ensure a good quality of service we may monitor and record any communication 
 
 **How we use Cookies on our Site and what Information we collect.**
 
-For information about cookies please refer to [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+Like most websites, LCG uses cookies to improve your experience on our websites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. If you choose to opt out of cookies you may still use our site, but your ability to use some areas will be limited. In certain circumstances, there may be instances where our content management system generates a wholly anonymous and non-intrusive cookie to your system that has not been outlined below.  
+
+
+**Strictly necessary**
+
+**Cookie** | **Name** | **Purpose** | Type  
+---|---|---|---  
+Limited Risk Identifier | LRA | Part of the accounting opening process to define whether the user is more suitable for a limited risk account | Persistent (1 day)  
+Unique application reference number | AppNo/apln | Generates a unique application reference if you choose to apply for an account. | Session  
+Logged in to platform | ASP.NET_sessionId | This cookie allows our web servers to respond to your actions on teh website. | Session  
+Risk Warning | count | Displays a risk warning to those on their first visit to the website. | Persistent (remembered for all repeat visits)  
+Terms and Conditions | Terms (date) | Allows us to inform you of terms and conditions changes when you log into our live trading platform. | Persistent (10 years)  
+  
+**Performance cookies**
+
+Cookie | Name | Purpose |   
+  
+---|---|---|---  
+Google Analytics | UTM_a  
+UTM_b  
+UTM_c  
+UTM_v
+
+UTM_z
+
+| We use these cookies to understand how our website is being used in order to improve user experience. All data collected is anonymous. | Session & Persistent (up to 2 years)  
+Adform | TPC  
+uid  
+C
+
+cid
+
+GCM
+
+| Creates a randomly generated user ID to identify repeat visits by users and helps us to understand user's journeys on our site. | Session & Persistent (up to 60 days)  
+ClickDensity/Intellitracker |  | Gather typical web performance data such as information on referrer, content and page interactions. | Persistent (5 years)  
+  
+**Functionality cookies**
+
+**Cookie** | **Name** | **Purpose** | **Type**  
+---|---|---|---  
+Create Account ID record | cemail | Creates an account ID in our system based on the user's e-mail address when they fill out a live application form. | Persistent (1 day)  
+Promotional Offer | promcode | Contains a promotional code to populate the live application form if applicable. | Session  
+Javascript Identifier | has_js | Used to determine whether the user's browser accepts Javascript. | Session  
+Game I dentifier | GameID | During a promotional trading game we may use this cookie to identify if you are enrolled. | Persistent (30 days)  
+  
+**Targeting or advertising cookies**
+
+**Cookie** | **Name** | **Purpose** | **Type**  
+---|---|---|---  
+Affiliates | Agentid | Allows us to credit affiliate websites for driving traffic to our website. | Persistent (90 days)  
+  
+We would strongly recommend that you allow cookies on our website to ensure you have the best possible experience. Turning off cookies may result in reduced performance of our website and trading platform, however if you would still like to opt out of cookies, you can do this through your website browser. Our customer support team would be happy to talk you through this process if you require assistance.  
+
 
 **Session Cookies.**  
 
