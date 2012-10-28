@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthlottery.co.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205747id_/http%3A//www.healthlottery.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthlottery.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028033541id_/http%3A//www.healthlottery.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Health Lottery | Privacy Policy
 
@@ -32,7 +32,11 @@ The information we gather is held on servers hosted in the UK. We collect and pr
 
 
 
-If you do not wish your email address to be used for promotional or marketing purposes, please email [unsubscribe@healthlottery.co.uk](mailto:unsubscribe@healthlottery.co.uk) with STOP in the subject box. If you would like your postal address to be removed from our marketing records, please call The Health Lottery Helpline on 0844 375 5555.
+If you do not wish to be contacted for promotional or marketing purposes sent on behalf of carefully selected 3rd parties by email and or to your mobile phone check the box when signing up or once signed into your account go to the “My Details” page to opt out <https://www.healthlottery.co.uk/my-account/personal-details>
+
+### Marketing and Promotions
+
+By signing up at healthlottery.co.uk you agree that we can contact you with messages relating to The Health Lottery via email and other electronic mediums. Each email will contain a link to instantly unsubscribe from any future promotional mailings. Your details will never be sold to any 3rd party and all emails will be clearly marked as being sent by The Health Lottery. Please note that it is necessary that players receive customer service emails from The Health Lottery relating to your account and the game.
 
 ### Accuracy and security
 
