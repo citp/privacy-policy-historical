@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629095541id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028062150id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy
 
