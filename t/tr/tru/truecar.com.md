@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629043230id_/http%3A//www.truecar.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028085133id_/http%3A//www.truecar.com/legal/privacy%3Fpopup) for the most accurate reproduction.*
 
 # TrueCar Privacy Policy
 
@@ -79,4 +79,5 @@ If you have any questions or concerns about this Privacy Policy, or you do not w
 TrueCar, Inc.  
 225 Santa Monica, 12th Floor  
 Santa Monica, CA 90401  
-1-800-584-5000 
+1-800-584-5000  
+
