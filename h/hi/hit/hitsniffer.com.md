@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hitsniffer.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603083941id_/http%3A//www.hitsniffer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsniffer.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028034251id_/http%3A//www.hitsniffer.com/privacy.php) for the most accurate reproduction.*
 
 # Real Time Website Tracking Privacy Policy
-
-[](https://web.archive.org/register.php)
-
-## Hit Sniffer Privacy Policy
 
 ## Privacy Policy
 
@@ -55,6 +51,45 @@ You may request details of personal information which we hold about you under th
 
   
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## COOKIE POLICY
+
+Hit Sniffer uses cookies to help us track how you are using the system, diagnose problems and to provide the best browsing experience for you. 
+
+Cookies save you time as they help us to remember who you are. Cookies help us to be more efficient. We can learn about content that is important to you. We can revise or remove web pages that are not of interest and focus our energies on content that you want. 
+
+Here is the list of cookies that hitsniffer uses:
+
+> Hitsniffer Website
+
+PHPSESSID: Default php session handler  
+id: holds your account number  
+user: holds your username ( nickname )  
+email: holds your login email  
+pass: holds your password in an encrypted format, then hashed mode ( it is safe )  
+nomobile: help to show the desktop version of the website for modern mobile users  
+hs_notifysound: identifies if a user choses to play a notification sound when a new visitor visits your own website  
+hs_notifymsg: identifies if a user choses to view a notification message when a new visitor visits your own website  
+user_country: holds user country value to detect the correct language to be displayed  
+mysitegraphdatasource: identifies a users choice on suitable data source for main graph.  
+ew-position: position of widgets in dashboard.  
+ctype: identifies user choice on suitable type of graph.  
+comment_author_#: wordpress keep default action, hold commenter name.  
+comment_author_url_#: wordpress keep default action, hold commenter url.  
+comment_author_email_#: wordpress keep default action, hold commenter email.
+
+> Tracking Script
+
+blockip: If you are a webmaster and use the cookie method to opt-out of being counted.  
+#_uidx: # is dynamic number, used to identify returning visitors.  
+#rsuid: # is dynamic, used to improve returning visitors accuracy.  
+camp: used if a visitor visits a campaign page.  
+campid: used if a visitor visits a campaign page and holds the visitor ID.  
+#baseref: # is dynamic for each website, holds base referer data.  
+#_juid: # is dynamic for each website, holds javascript numerical unique value
+
+* We also use facebook, twitter and google+ buttons/widgets which add their own cookies  
+
 
 Get your free trial to test it yourself. nothing speaks better than system itself!
 
