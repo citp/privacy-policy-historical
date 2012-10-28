@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630023915id_/http%3A//www.qualitynet.net/%3Fpage_id%3D58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028200218id_/http%3A//www.qualitynet.net/%3Fpage_id%3D58) for the most accurate reproduction.*
 
 # Privacy Policy | Qualitynet
 
 Share with 
 
-[](http://api.addthis.com/oexchange/0.8/forward/digg/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy) [](http://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy) [](http://api.addthis.com/oexchange/0.8/forward/googlebuzz/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy) [](http://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy) [](http://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy)
+[](http://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy) [](http://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy) [](http://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http://www.qualitynet.net/?page_id=58&title=Privacy+Policy)
 
 At Qualitynet, your right to privacy and data security is our primary concern that is why we are committed to protecting your privacy when you visit our site. We use the information we collect about you to improve our ability to serve your needs. Below are the guidelines we use for protecting the information you provide us when you visit or use our site. We value the trust that our customers have placed in us. We will protect that trust by respecting the privacy of all our customers, especially as it related to maintaining the confidentiality of any information, which we obtain.
 
@@ -71,9 +71,6 @@ Contacting us
 Should you have any questions about this Privacy and Security Policy, its practices or your dealings with Qualitynet´s website, you can contact us at the following addresses:
 
 **Customer support:**  
-Tel: **804444**  
-Fax: **2413782**  
-Support E-mail: [**support@qualitynet.net**](mailto:support@qualitynet.net)
-
-
-
+**Tel:** **1804444**  
+**Fax: 22413782**  
+**Support E-mail:** [**support@qualitynet.net**](mailto:support@qualitynet.net)
