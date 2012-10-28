@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510094604id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028021931id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Moomettes Magnificents
+# Privacy Statement | Moomettes MagnificentsMoomettes Magnificents
 
 Effective Date:  December 15, 2007
 
@@ -10,7 +10,7 @@ Your privacy is important to Moomette’s Magnificents.  This privacy statement
 
 **Comment Policy:**
 
-**Rule No. 1. It’s my blog.** As sole author of this blog, I reserve the right to edit comments that I consider are [spam](http://moomettesmagnificents.com/blog/goto/CommentLuv/), offensive in nature or not family-friendly.
+**Rule No. 1. It’s my[blog](http://moomettesmagnificents.com/blog/goto/WPtouch/).** As sole author of this blog, I reserve the right to edit comments that I consider are [spam](http://moomettesmagnificents.com/blog/goto/CommentLuv/), offensive in nature or not family-friendly.
 
 **Personal information collection**
 
@@ -66,7 +66,7 @@ Moomette’s Magnificents may use your personal information to:
 
 Where Moomette’s Magnificents discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Moomette’s Magnificents may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Moomette’s Magnificents may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, [exercise](http://moomettesmagnificents.com/blog/goto/Classic_Shapewear/) or defend its legal rights.
 
 **Securing your data**
 
@@ -94,7 +94,7 @@ You should check this page occasionally to ensure you are familiar with any chan
 
 This website contains links to other websites.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our [Web site](http://moomettesmagnificents.com/blog/goto/Site5/). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Moomette’s Magnificents is not responsible for the privacy policies or practices of any third party.
 
@@ -106,6 +106,3 @@ If you have any questions about this privacy policy or Moomette’s Magnificents
 [](http://s169.photobucket.com/albums/u221/mattci/banners/?action=view&current=EmailMoomettesInfo.png)
 
 ###### _This privacy statement is based on a precedent created by[employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/) and published by [freenetlaw.com](http://www.freenetlaw.com/)[.](http://www.freenetlaw.com/)_
-
-[](http://moomettesmagnificents.com/blog/goto/Altard/)  
-
