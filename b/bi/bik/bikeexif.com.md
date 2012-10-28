@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521160653id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028203250id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Bike EXIF
 
@@ -6,6 +6,8 @@
 We collect information from you when you register on our site or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **What do we use your information for?**  
 Any of the information we collect from you may be used to improve our website or to send periodic emails. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
