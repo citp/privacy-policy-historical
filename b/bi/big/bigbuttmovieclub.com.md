@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbuttmovieclub.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529163612id_/http%3A//ww2.bigbuttmovieclub.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbuttmovieclub.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028164000id_/http%3A//track.bigbuttmovieclub.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
