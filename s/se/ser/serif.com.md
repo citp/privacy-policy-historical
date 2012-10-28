@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527205505id_/http%3A//www.serif.com/Company/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028150738id_/http%3A//www.serif.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Serif
 
-Serif is a trading name of Serif (Europe) Ltd (“we”, “our” or “us”) registered in England number 2117968 with registered offices at: The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP, UK. Telephone: UK – 0845 6740484 Intl.– +44 115 9145472
+Serif is a trading name of Serif (Europe) Ltd (“we”, “our” or “us”) registered in England number 2117968 with registered offices at: The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP, UK. Telephone: UK - 0845 6740484 Intl.- +44 115 9145472.
 
 This Privacy Policy and any documents it references, inform you how we collect and use the information (“Personal Data”) you provide in doing business with Serif including use of the Serif.com website and its services (the “Web Site”). Serif knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in compliance with the Data Protection Act 1998. We appreciate the trust you place in us.
 
-Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that have been posted on to the Serif.com web site. The use of this information is detailed in our [Terms and Conditions](https://web.archive.org/company/legal.asp).
+Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that have been posted on to the Serif.com web site. The use of this information is detailed in our [Terms and Conditions](https://web.archive.org/company/legal.aspx).
 
 We may modify this Privacy Policy from time to time without notice. When we do we will update the “Last Updated” date and for material changes we will notify you by placing a notice on the home page of our Web Site for a minimum of seven days. It is therefore important that you regularly review this privacy policy to ensure you are updated as to any changes.
 
@@ -120,6 +120,14 @@ There are a few third-party websites who also use cookies on our behalf. Social 
 
 
 
+### Targeting Cookies
+
+We also use cookies to record when you have visited certain specific areas of our website. When you do, a cookie is recorded so that our advertising partner, Google, can then display highly relevant adverts to you when you visit other selected websites. You can find out more about these adverts, and how to disable them by visiting the following website: 
+
+  * [Google Ad Preferences](https://www.google.com/settings/ads/onweb/)
+
+
+
 ### Removing Cookies
 
 Cookies don’t stay around forever and your web browser will eventually delete them. When a website stores a cookie, it states how long the cookie should stay on the computer for – this can be for the current visit only or for a period of time, for example one year. Our main cookie _SessionID_ only stays on your computer while you are on our website. It is automatically removed when you leave our website.
@@ -128,8 +136,8 @@ You can choose to delete our, or any website’s, cookies from your web browser 
 
 ## Questions
 
-If you have any questions about our Privacy and Cookies Policy, please [get in touch](https://web.archive.org/contactus.asp).
+If you have any questions about our Privacy and Cookies Policy, please [get in touch](https://web.archive.org/contactus.aspx).
 
-_Last Updated: 25th May 2012_
+_Last Updated: 31st May 2012_
 
 Back to top
