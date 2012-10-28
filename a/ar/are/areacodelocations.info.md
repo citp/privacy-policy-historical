@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areacodelocations.info privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513104840id_/http%3A//www.areacodelocations.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areacodelocations.info privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028051747id_/http%3A//www.areacodelocations.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for AreaCodeLocations.info
 
@@ -10,7 +10,7 @@ Whenever you visit a website on the Internet, your [IP address](http://en.wikipe
 
 We sell advertising space on AreaCodeLocations.info to third party companies. These advertisers have their own privacy policies and we are not responsible for information they may gather about their visitors. They may use [Internet cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to store information such as username and password needed for accessing a private area on their website.
 
-[Google privacy policy](http://www.google.com/privacy/ads/)  
-One of the advertisers displaying ads on our website is Google via their Adsense program. They use a new technology called Dart Cookie - an Internet cookie that may trigger ad displaying based on other websites you visit. You can choose not to be showed these so called Interest based ads at <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+[Google privacy policy](http://www.google.com/intl/en/policies/privacy/)  
+One of the advertisers displaying ads on our website is Google via their Adsense program. They use a new technology called Dart Cookie - an Internet cookie that may trigger ad displaying based on other websites you visit. See this page for detailed information on Google advertising and information collected: <http://www.google.com/intl/en/policies/privacy/ads/>
 
 [ClickBank privacy policy](http://www.clickbank.com/privacy.html)
