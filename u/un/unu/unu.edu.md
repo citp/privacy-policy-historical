@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unu.edu privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607164653id_/http%3A//unu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unu.edu privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028081657id_/http%3A//unu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - United Nations University
 
-This privacy statement discloses the privacy practices of the United Nations University (UNU).
+* This privacy statement discloses the privacy practices of the United Nations University (UNU).
 
 UNU is committed to the privacy of individuals who visit and interact with www.unu.edu and follows these practices.
 
@@ -16,7 +16,7 @@ UNU uses the IP address from your Internet connection to analyze trends, adminis
 
 **Sharing**
 
-UNU may share aggregated contact, demographic and other information with the various institutes and programmes of the UNU system. this information will not be shared with any other entity.
+UNU may share aggregated contact, demographic and other information with the various institutes and programmes of the UNU system. This information will not be shared with any other entity.
 
 **Links**
 
