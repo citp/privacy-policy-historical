@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501045621id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028162306id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comic Relief
 
@@ -59,9 +59,113 @@ By providing personal information to us, you consent that we may transfer your i
 
 ## Cookies
 
-Cookies are small pieces of information sent from our website to your computer to help us identify you quickly. Comic Relief uses cookies to help you use our site more effectively, to identify you when you visit our site, and to help us assess how our site is used. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+Cookies are small pieces of information which are sent from our website to your computer or mobile phone and which are stored on your device's hard drive. They help you use our site more effectively, and help us assess how our site is used.
 
-The Interactive Advertising Bureau provides in-depth information about cookies. Their website at [www.allaboutcookies.org](http://www.allaboutcookies.org/) also tells you how to remove cookies from your browser. Please note that if you remove our cookies, you may not be able to use our site as effectively. 
+Most internet browsers (such as Internet Explorer, Firefox Mozilla or Google Chrome) give users options about cookies. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to and use our site.
+
+You can find out more about cookies and how to remove them from your browser at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+Please note that if you remove our cookies, you may not be able to use our site as effectively. 
+
+During your visits to our site you may notice some cookies that are not related to Comic Relief. You should check the third party websites for more information about these.
+
+Here are a list of the main cookies that we use, and what they do:
+
+Our cookies
+
+Name
+
+Purpose
+
+ASP.NET_SessionId
+
+This cookie helps you use functions such as the online shop by enabling us to identify your visit between page loads. This cookie is destroyed each time you close your browser.
+
+PHPSESSID
+
+This cookie helps you to navigate between different parts of our site. It allows us to remember certain settings, like the part of the site you were using. This cookie is destroyed each time you close your browser.
+
+SESS<32 long hash>
+
+If you are logged into your account, or are filling in any information on the site, this cookie is used to provide extra security by making it harder for another computer to imitate you.
+
+mt_device
+
+If you specifically choose either the desktop or mobile version of the site, this cookie allows us to remember your choice.
+
+comicSurveyCookie
+
+If you complete a survey on this site, this cookie determines whether you see the survey or have already completed or closed the form.
+
+HBR_SITE_SESSID
+
+This cookie helps you use our jobs pages by enabling us to identify your visit between page loads. This cookie is destroyed each time you close your browser.
+
+Third party cookies
+
+Worldpay
+
+Name
+
+Purpose
+
+JSESSIONID
+
+machine
+
+If you make a donation or payment on our site, these cookies are used by Worldpay to enable your visit to be identified between page loads, and to make sure that at the payment point only your specific computer can continue with payment. These cookies are destroyed each time you close your browser. 
+
+Brightcove
+
+Name
+
+Purpose
+
+BC_BANDWIDTH
+
+_tmpi
+
+_tmid
+
+Akamai_AnalyticsMetrics_clientId
+
+AkamaiAnalyticsDO_visitStartTime
+
+AkamaiAnalytics_BrowserSessionId
+
+AkamaiAnalytics_VisitCookie
+
+AkamaiAnalytics_VisitIsPlaying
+
+AkamaiAnalytics_VisitLastCloseTime
+
+AkamaiAnalyticsDO_visitMetricsCsv
+
+AkamaiAnalyticsDO_bitRateBucketsCsv
+
+Google Analytics
+
+Name
+
+Purpose
+
+_utma
+
+_utmb
+
+_utmc
+
+_utmv
+
+_utmx
+
+_utmz
+
+We use a service called Google Analytics which collects information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited.
+
+For more information about these cookies, please visit:
+
+[http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html ](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html)
 
 ## Children
 
