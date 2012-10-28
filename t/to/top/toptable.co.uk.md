@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toptable.co.uk privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609004339id_/http%3A//www.toptable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028190325id_/http%3A//www.toptable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # toptable privacy policy | toptable
 
-##  Effective April, 2012
+##  Effective June, 2012
 
 toptable.co.uk Ltd, along with its parent company, subsidiaries or other affiliated companies ("toptable"), is committed to safeguarding your privacy. This Privacy Policy describes toptable's policies and procedures on the collection, use and disclosure of the information collected through [http://toptable.co.uk](https://web.archive.org/), mobile applications owned or operated solely by toptable (hereinafter referred to collectively as the "toptable Websites").
 
@@ -48,9 +48,9 @@ Where you have consented to receive marketing communications from toptable, you 
 
 You may also consent to receive marketing communications from the restaurant at which you've made a reservation. toptable plays no role in the content, frequency, timing or unsubscription process of any restaurant's marketing communications. If you would like to unsubscribe from a restauran's marketing communications, please contact the appropriate restaurant directly.
 
-###  Location data
+###  Mobile
 
-toptable Websites can provide helpful information based on where you are. If you tell us where you are (i.e., by allowing your mobile device to send us your location), we may use that information to provide you with location-based information. If you want to deactivate this feature, you can disable location services on your mobile device, please contact your carrier for more information.
+When you visit or use the toptable Websites on a mobile device, toptable may collect information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services and information, as well as to produce aggregate statistical data for the improvement of services offered by the toptable Websites. We outsource some of our technical, tracking and reporting functions, and other services to third parties. We may share information from or about you with them so that they can perform their services. Most mobile devices allow you to turn off location services. For more information about how to do this, please contact your mobile service carrier or your device manufacturer.
 
 ###  Social media
 
@@ -124,7 +124,7 @@ In the event of a sale, merger, consolidation, change in control, transfer of su
 
 For questions regarding how to access and change your personal information visit [http://www.toptable.co.uk](https://web.archive.org/) or contact customer support at 020 7299 2949.
 
-For questions or opinions on toptable's privacy policy, contact toptable via email at [info@toptable.co.uk](mailto:info@toptable.co.uk) or by mail at: toptable, Attn: Legal Department, 15 Worship Street, London EC2A 2DT United Kingdom.
+For questions or opinions on toptable's privacy policy, contact toptable via [email](http://support.toptable.co.uk/app/ask/c/) or by mail at: toptable, Attn: Legal Department, 15 Worship Street, London EC2A 2DT United Kingdom.
 
 ###  Safe Harbor Program
 
