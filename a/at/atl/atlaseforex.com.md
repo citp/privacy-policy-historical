@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607211108id_/http%3A//www.acfx.com/Licenses-and-documents/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028153127id_/http%3A//www.atlaseforex.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy — Licenses and documents — ACFX
+# Privacy Policy
+
+### Privacy Policy
 
 All material on the acfx.com website (“ACFX”) is owned by AtlasCapital Financial Services Limited (“ACFS”). ACFS is a Cypriot Investment Firm (“CIF”) regulated and supervised by the Cyprus Securities and Exchange Commission (“CySEC”) and operates with licence number CIF 085/07.
 
 ACFS would like to inform you that your privacy on the internet is of crucial importance to us. The success of our business depends on our ability to maintain the trust of our clients. During the course of our business, we gather information about our users, and we would like to inform you about the type of information we gather, what we do with it and how you can correct or modify the information you entrust us with. Please note that this policy only applies to websites operated by ACFS and not to other organizations or person to which we refer to on such websites through banners or links.
 
-  
-
-
-## Information collected
+#### **Information collected**
 
 When you sign up for a demo or live account with ACFX, the following information about you (“Your Data”) will be collected and stored for administrative, service related and/or legal purposes:
 
@@ -17,19 +16,15 @@ When you sign up for a demo or live account with ACFX, the following information
   * Financial information (“Financial Information”) for credit assessment.
   * Website traffic pattern information and IP addresses.
 
-  
 
 
-## Use of cookies
+#### **Use of cookies**
 
 ACFX uses cookies to collect information. A cookie is a small data file that a website stores on your computer’s hard disk for the purpose of keeping records when you visit the website. Cookies allow us to improve your comfort of use, for example by remembering your passwords and viewing preferences, thus allowing you to visit various “member-only” parts of the website without re-registering. Furthermore, cookies are used by us to measure activity on the website and make improvements and updates based on which areas are popular and which are not.
 
 We do not use cookies to retrieve information which was not originally sent in a cookie. We do not use information transferred through cookies for any direct promotional or marketing purposes without your consent.
 
-  
-
-
-## Use of information collected by ACFS
+#### **Use of information collected by ACFS**
 
 ACFX uses both the personal and aggregated information that we collect for multiple purposes. The information is used:
 
@@ -48,10 +43,7 @@ We may also use the information we gather to inform you of new products or servi
 
 Your e-mail address may be used by the ACFS in relation to its products and services (including any marketing campaigns related to these products or services). If you do not wish to receive such marketing material please send an email stating so to [marketing@acfx.com](mailto:marketing@acfx.com).
 
-  
-
-
-## Disclosure of personal data
+#### **Disclosure of personal data**
 
 The ACFS ’s employees, directors, officers and/or representatives are obliged by law to treat your data as confidential and may not pass on or use any of your data without valid legal grounds.
 
@@ -65,4 +57,4 @@ Without prejudice to the above, the ACFS can disclose the following information:
 
 
 
-If you have any other question or concern, please contact us by email at [support@acfx.com](mailto:support@acfx.com) or call us on +357 25501055.
+If you have any other question or concern, please contact us by email at [support@acfx.com](mailto:support@acfx.com) or call us on +357 25501055 
