@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527090937id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029005632id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,9 @@ Cookies are pieces of information stored by your web browser on behalf of a web 
 **Information Voluntarily Provided by You**   
 In the course of using this web site, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a web form) to request information, you may sign up for a mailing list, or you may send us your address so we may send you an application or other material. Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us update our site to better respond to similar requests. We will never sell, exchange or otherwise distribute your personally identifiable information, except to the extent required by law. We do not retain the information longer than necessary for normal operations. Each web page requesting information discloses the purpose of that information. If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page, or listed below, with questions or concerns on the use of personally identifiable information. 
 
+**Trademarks and Service Marks**   
+'AbleCommerce', 'CommerceBuilder', 'Software that Sells', 'Learn more... sell more' and 'Sell More' are registered trademarks or service marks of Able Solutions Corporation all rights reserved. All other trademarks, service marks, registered trademarks, or registered service marks mentioned in this website are the property of their respective owners. 
+
 Corporation web sites provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the Corporation's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a Corporation web site by noting the URL of the destination site. 
 
-If you have any questions about Able Solutions Corporation online security or privacy policies please [let us know!](https://web.archive.org/web/20120527090937id_/http%3A//www.ablecommerce.com/ecommerce-contacts.aspx)
+If you have any questions about Able Solutions Corporation online security or privacy policies please [let us know!](https://web.archive.org/web/20121029005632id_/http%3A//www.ablecommerce.com/ecommerce-contacts.aspx)
