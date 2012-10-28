@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesoccer.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512034202id_/http%3A//www.timesoccer.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesoccer.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028092152id_/http%3A//www.timesoccer.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - www.timesoccer.com
+# Time Soccer - More information about our privacy policy
 
 Privacy Policy for www.timesoccer.com 
 
