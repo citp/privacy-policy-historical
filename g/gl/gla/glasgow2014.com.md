@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304104216id_/http%3A//www.glasgow2014.com/system_pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028091031id_/http%3A//www.glasgow2014.com/system_pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
