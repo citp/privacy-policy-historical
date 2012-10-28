@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cspire.com privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201210525id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cspire.com privacy policy that was archived on 2012-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028174614id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -55,6 +55,7 @@
 	<link rel="stylesheet" type="text/css" href="/resources/css/colorbox.css">
 	<link rel="stylesheet" type="text/css" href="/resources/css/lightbox.css">
 	<link rel="stylesheet" type="text/css" href="/resources/css/atooltip.css">
+	<link rel="stylesheet" type="text/css" href="/resources/css/global_search.css">
 	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/resources/css/ie8.css"></link><![endif]-->	
 	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/resources/css/ie7.css"></link><![endif]-->	
 
@@ -63,9 +64,12 @@
 	
 		<link rel="stylesheet" type="text/css" href="/resources/css/global-OLD.css">
     
+	
+	<link rel="stylesheet" type="text/css" href="/resources/css/menu_login.css">
+	
 
 	<script type="text/javascript" src="/resources/js/jquery-1.5.2.min.js"></script>
-	<script type="text/javascript" src="/resources/js/jquery.carouFredSel-4.0.3.js"></script>
+	<script type="text/javascript" src="/resources/js/jquery.carouFredSel-5.5.2.js"></script>
 	<script type="text/javascript" src="/resources/js/jquery.colorbox-min.js"></script>
 	<script type="text/javascript" src="/resources/js/jquery.easing.1.3.js"></script>
 	<script type="text/javascript" src="/resources/js/jquery.scrollTo-1.4.2-min.js"></script>
@@ -184,7 +188,7 @@
 	
 
 
-	
+
 </head>
 
 
@@ -236,28 +240,126 @@
 
 
 
-	<div id="contextPath" style="display:none;"></div>
-	
-	<div id="processingLayer" class="processing" style="display:none;">
-		<img alt="Loading" src="/resources/images/loading-blue.gif"> processing your request...
-	</div>
+	<div id="contextPath" style="display:none;"></div>	
 	<div id="overlay"></div>
 	
 	
 		
 	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="global-search">
+	<div class="global-search-wrapper">
+		<form id="searchFormId" action="/index.jsp" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="1074149802670875825" type="hidden">
+			<input name="/cellularsouth/search/SiteSearchFormHandler.successURL" value="/search/search_results.jsp" type="hidden"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.successURL" value=" " type="hidden">
+			<input name="/cellularsouth/search/SiteSearchFormHandler.errorURL" value="/search/search_results.jsp" type="hidden"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.errorURL" value=" " type="hidden">
+			
+				
+				
+				
+			
+				
+				
+					<input id="search_input" name="/cellularsouth/search/SiteSearchFormHandler.query" value="Search" class="clear-default" type="text"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.query" value=" " type="hidden">	
+				
+				
+			
+			
+				
+				
+				
+			
+				
+				
+				
+					<input id="submitImage" style="float:right;height:17px;width:17px;" alt="Search" name="/cellularsouth/search/SiteSearchFormHandler.submit" src="/resources/images/icon/icon-search.png" type="image"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.submit" value=" " type="hidden">
+				
+				
+		<input name="_DARGS" value="/search/global_search_form.jsp.searchForm" type="hidden"></form>
+	</div>
+</div>
+		
+<script type="text/javascript" src="/resources/js/jquery.clear-default.js"></script>
+<script type="text/javascript">
+	$('input.clear-default').clearDefault();
+	$("#submitImage").click(function(){
+		submitSearch();
+	 });
+	
+ 	$('#search_input').focus(function() {
+		$('.global-search-wrapper').stop().animate({
+				width: "254px"
+		 	}, 
+		 	500,
+		 	'swing',
+		 	function() {
+		 		$('#search_input').stop().css("width","214px");
+		 	}
+		 );
+	});
+
+ 	$('#search_input').blur(function() {
+ 		$('#search_input').stop().css("width","105px");
+		$('.global-search-wrapper').stop().animate({
+				width: "128px"
+		 	}, 
+		 	500
+		 );
+	});
+</script>
+
+
+			
 	<div id="wrapper" class="theme_default">
 		<ul id="global-share">
 			<li><a href="http://www.facebook.com/cspire" id="facebook">Facebook</a></li>
 			<li><a href="http://twitter.com/cspire" id="twitter">Twitter</a></li>
 		</ul>
+		
 
-		<div id="masthead">
+
+	
+	
+	
+	
+	
+	
+	
+
+	<div id="contextPath" style="display:none;"></div>	
+	<div id="overlay"></div>
+	
+	
+		
+	
+		
+		<div id="cs_masthead">
 			<div id="masthead-inner">
 				<ul id="nav" class="cf">
 					<li><a id="logo" href="/">C Spire Wireless</a></li>
-					<li><a href="#" id="menu">Menu</a></li>
-					<li><a href="#" id="search">Search</a></li>
+					<li><a href="#" id="menu">Menu</a></li> 
+					<li>
+						<a href="#" id="search">
+							
+								
+									My Account
+								
+								
+							
+						</a>
+					</li>
 				</ul>
 				
 
@@ -282,6 +384,7 @@
 	
 
 	
+	
 	<div id="dropdown">
 		
 		<div class="dropdown-inner">
@@ -289,28 +392,34 @@
 			<ul class="dropdown-nav cf">
 				<li><a href="#tab-1" id="phones">Phones &amp; Devices</a></li>
 				<li><a href="#tab-2" id="plans">Plans &amp; Features</a></li>
-				<li><a href="#tab-3" id="apps">Apps</a></li>
 				<li><a href="#tab-4" id="accessories">Accessories</a></li>
-				<li><a href="#tab-5" id="discuss">Circle</a></li>
-				<li><a href="#tab-6" id="watch">Bright Lights</a></li>
+				<li><a href="#tab-3" id="apps">Apps</a></li>
+				<li><a href="#tab-6" id="percs">Rewards</a></li>
+				<li><a href="#tab-5" id="discuss">CIRCLE</a></li>
+				<li><a href="#tab-8" id="business_menu">Business &amp; Government</a></li>
 				<li><a href="#tab-7" id="services">Get Help</a></li>
-				<li><a href="#tab-8" id="compinfo">More From<br>C Spire</a></li>
+				<li><a href="#tab-9" id="compinfo">More From<br>C Spire</a></li>
 			</ul>
 			
 			
+			
 				
+					
 					
 				
 				
 			
 			
 			
-			  	
 				
-					<div class="dropdown-content" id="tab-1" style="display: none;">
+					
 						
+						  	
 							
-						
+								<div class="dropdown-content" id="tab-1" style="display: none;">
+									
+										
+									
 
 
 
@@ -323,6 +432,8 @@
 
 
 
+	
+	
 	
 	
 	
@@ -352,7 +463,7 @@
 				
 			</div>
 		
-			<div class="grid-header">Recommended Phones and Devices for you</div>
+			<div class="grid-header">Featured Phones and Devices</div>
 		 
 			 
 			 
@@ -398,13 +509,14 @@
 													
 							
 					 		
-					 		<a href="/shop_and_learn/devices/product_phone_detail.jsp?id=prod23560025">
-					  
+					 		<a href="/shop_and_learn/devices/product_device_detail.jsp?id=prod28490057&amp;navCount=0">
+					  				
+					  			
 								
 								
 									
 									<div class="thumb">
-										<img alt="Samsung Galaxy S Showcase" src="/dyn/dyn/MEDIA_CustomProductCatalog/m3291275_samsung_galaxy_promo_2.png">
+										<img alt="iPhone 4 8GB (Black)" src="/dyn/dyn/MEDIA_CustomProductCatalog/m3290743_iphone4_blk_list.png">
 									</div>
 								
 								
@@ -414,12 +526,13 @@
 								
 								
 								
-									<strong class="highlight">On Sale!</strong>
 								
-								
-								<h5>Samsung Galaxy S Showcase</h5>
+								<h5>iPhone 4 8GB (Black)</h5>
 						
 								
+								
+								
+								
 									
 									
 									
@@ -434,17 +547,34 @@
 										
 											
 											
+											
 										
-										
+											
 											
 											
 												
 											
 										
+										
+										
+				 							
+											
+											
+											
+											
+										
+				 							
+											
+											
+											
+											
+											
 									
 								
 								<p class="light-text">
 									$0.00
+									
+									
 								</p>
 						</a>
 					</li>
@@ -472,13 +602,14 @@
 													
 							
 					 		
-					 		<a href="/shop_and_learn/devices/product_device_detail.jsp?id=prod28490064">
-					  
+					 		<a href="/shop_and_learn/devices/product_phone_detail.jsp?id=prod28800136&amp;navCount=0">
+					  				
+					  			
 								
 								
 									
 									<div class="thumb">
-										<img alt="iPhone 4S 16GB (Black)" src="/dyn/dyn/MEDIA_CustomProductCatalog/m3290056_iphone4s_blk_list.png">
+										<img alt="Samsung Galaxy S III 4G LTE (White)" src="/dyn/dyn/MEDIA_CustomProductCatalog/m3700030_galaxys3_white_th.png">
 									</div>
 								
 								
@@ -487,11 +618,16 @@
 								
 								
 								
+									<strong class="highlight">Best Value!</strong>
 								
 								
-								<h5>iPhone 4S 16GB (Black)</h5>
+								
+								<h5>Samsung Galaxy S III 4G LTE (White)</h5>
 						
 								
+								
+								
+								
 									
 									
 									
@@ -506,17 +642,34 @@
 										
 											
 											
+											
 										
-										
+											
 											
 											
 												
 											
 										
+										
+										
+				 							
+											
+											
+											
+											
+										
+				 							
+											
+											
+											
+											
+											
 									
 								
 								<p class="light-text">
 									$199.99
+									
+									
 								</p>
 						</a>
 					</li>
@@ -544,13 +697,14 @@
 													
 							
 					 		
-					 		<a href="/shop_and_learn/devices/product_device_detail.jsp?id=prod28490103">
-					  
+					 		<a href="/shop_and_learn/devices/product_phone_detail.jsp?id=prod28850212&amp;navCount=0">
+					  				
+					  			
 								
 								
 									
 									<div class="thumb">
-										<img alt="iPhone 4S 16GB (White)" src="/dyn/dyn/MEDIA_CustomProductCatalog/m3290171_iphone4s_wht_list.png">
+										<img alt="Motorola Photon Q 4G LTE" src="/dyn/dyn/MEDIA_CustomProductCatalog/m3680601_motorola_photon_blue_th.png">
 									</div>
 								
 								
@@ -559,11 +713,16 @@
 								
 								
 								
+									<strong class="highlight">Best Value!</strong>
 								
 								
-								<h5>iPhone 4S 16GB (White)</h5>
+								
+								<h5>Motorola Photon Q 4G LTE</h5>
 						
 								
+								
+								
+								
 									
 									
 									
@@ -578,17 +737,34 @@
 										
 											
 											
+											
 										
-										
+											
 											
 											
 												
 											
 										
+										
+										
+				 							
+											
+											
+											
+											
+										
+				 							
+											
+											
+											
+											
+											
 									
 								
 								<p class="light-text">
-									$199.99
+									$99.99
+									
+									
 								</p>
 						</a>
 					</li>
@@ -611,15 +787,22 @@
 		
 	
 
+
 	</div>
 
 
-					</div>
-		
-					<div class="dropdown-content" id="tab-2" style="display: none;">
-						
+								</div>
 							
 						
+					
+					
+				
+			
+			
+			<div class="dropdown-content" id="tab-2" style="display: none;">
+				
+					
+				
 
 
 
@@ -648,13 +831,14 @@
 	
 	
 	
+	
 					
 			<div class="blue-button-double cf">
 				<a class="blue-button-short" href="/shop_and_learn/plans/category_plan_landing.jsp?id=cat320003"><span>View all Plans</span></a>
 				<a class="blue-button-short" href="/shop_and_learn/features/category_features_list.jsp?id=cat550006"><span> View all Features</span></a>
 						
 			</div>
-			<div class="grid-header">Recommended Plans for You</div>
+			<div class="grid-header">Featured Plans</div>
 			 
 				
 				
@@ -671,114 +855,6 @@
 					<ul class="grid plans-features cf">
 				
 			
-				
-				
-			
-				
-				
-				
-				
-			
-				
-					<li class="cf">	  
-						<!-- display Name and this is how you build the url to product details page -->	
-			            	
-							
-												
-							
-							
-							
-								
-												
-						
-						
-						
-						<a href="/shop_and_learn/plans/product_plan_details.jsp?id=prod27220084">
-							
-								<div class="thumb">
-									<img alt="CHOICE D 500" src="/dyn/dyn/MEDIA_CustomProductCatalog/m2690046_minutes-500.jpg">
-								</div>
-							
-							<h5>CHOICE D 500</h5>
-							
-								
-								
-								
-							
-								
-								
-								
-									
-									<p class="light-text">
-										
-											
-											
-												$50.00<sup>mo</sup>
-											
-										
-									</p>
-								
-							
-							
-							
-								<p class="light-text">with Infinite Data</p>
-							
-						</a>
-					</li>
-				
-				
-			
-				
-				
-				
-				
-			
-				
-					<li class="cf">	  
-						<!-- display Name and this is how you build the url to product details page -->	
-			            	
-							
-												
-							
-							
-							
-								
-												
-						
-						
-						
-						<a href="/shop_and_learn/plans/product_plan_details.jsp?id=prod27220101">
-							
-								<div class="thumb">
-									<img alt="CHOICE D Infinite" src="/dyn/dyn/MEDIA_CustomProductCatalog/m2690047_minutes-unlimited.jpg">
-								</div>
-							
-							<h5>CHOICE D Infinite</h5>
-							
-								
-								
-								
-							
-								
-								
-								
-									
-									<p class="light-text">
-										
-											
-											
-												$70.00<sup>mo</sup>
-											
-										
-									</p>
-								
-							
-							
-							
-								<p class="light-text">with Infinite Data</p>
-							
-						</a>
-					</li>
 				
 				
 			
@@ -841,7 +917,115 @@
 							
 							
 							
-								<p class="light-text">with Infinite Data</p>
+								<p class="light-text">with Data Included</p>
+							
+						</a>
+					</li>
+				
+				
+			
+				
+				
+				
+				
+			
+				
+					<li class="cf">	  
+						<!-- display Name and this is how you build the url to product details page -->	
+			            	
+							
+												
+							
+							
+							
+								
+												
+						
+						
+						
+						<a href="/shop_and_learn/plans/product_plan_details.jsp?id=prod28420405">
+							
+								<div class="thumb">
+									<img alt="CHOICE DATA+ Infinite" src="/dyn/dyn/MEDIA_CustomProductCatalog/m2690047_minutes-unlimited.jpg">
+								</div>
+							
+							<h5>CHOICE DATA+ Infinite</h5>
+							
+								
+								
+								
+							
+								
+								
+								
+									
+									<p class="light-text">
+										
+											
+											
+												$100.00<sup>mo</sup>
+											
+										
+									</p>
+								
+							
+							
+							
+								<p class="light-text">with Data &amp; Streaming Included</p>
+							
+						</a>
+					</li>
+				
+				
+			
+				
+				
+				
+				
+			
+				
+					<li class="cf">	  
+						<!-- display Name and this is how you build the url to product details page -->	
+			            	
+							
+												
+							
+							
+							
+								
+												
+						
+						
+						
+						<a href="/shop_and_learn/plans/product_plan_details.jsp?id=prod28880148">
+							
+								<div class="thumb">
+									<img alt="CHOICE DATA 500" src="/dyn/dyn/MEDIA_CustomProductCatalog/m2690046_minutes-500.jpg">
+								</div>
+							
+							<h5>CHOICE DATA 500</h5>
+							
+								
+								
+								
+							
+								
+								
+								
+									
+									<p class="light-text">
+										
+											
+											
+												$60.00<sup>mo</sup>
+											
+										
+									</p>
+								
+							
+							
+							
+								<p class="light-text">with Data Included</p>
 							
 						</a>
 					</li>
@@ -868,13 +1052,12 @@
 	</div>
 
 
-					</div>
-				
+			</div>
 			
-
-			<div class="dropdown-content" id="tab-3" style="display: none;">
+			<div class="dropdown-content" id="tab-3" style="display: none;">					
 				
-					
+				  	
+													
 						
 							
 						
@@ -895,6 +1078,7 @@
 	
 	
 	
+	
 
 	
 		
@@ -903,61 +1087,116 @@
 		
 	
 
-	
 		
 	
+		
+		
+		
+		
+		
 		
 			
+	
 		
+		
+		
+		
+		
+		
+			
+				
+			
 	
 	
 	
-		<div class="grid-header">Recommended Apps for You</div>
+		<div class="grid-header">Recommended Android Apps for You</div>
 		<ul class="grid apps cf">
 			
-				<li>
-					<a href="http://www.cspire.com/shop_and_learn/apps/product_app_details.jsp?id=prod28400074">
-						<div class="thumb">
+				
+				<li>					
+					
+					<a href="/shop_and_learn/apps/product_app_details.jsp?id=prod28640439">
+					
+						<div class="thumb">						
+							
 							
 								
-									<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3200095_a.png">
 								
 								
+							
+								
+								
+								
+									
+												<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3441920_ball.png">
+											
+										
+								
+							
 							
 						</div>
-						<h5>Google Earth</h5>
-						<p>Explore the world from the palm of your hand with Google Earth.</p>
-					</a>
+						<h5>Basketball Playbook</h5>
+						<p>Diagram basketball plays right on your phone with this app.</p>
+					</a>	
+					
 				</li>
 			
-				<li>
-					<a href="http://www.cspire.com/shop_and_learn/apps/product_app_details.jsp?id=prod27990057">
-						<div class="thumb">
+				
+				<li>					
+					
+					<a href="/shop_and_learn/apps/product_app_details.jsp?id=prod28640438">
+					
+						<div class="thumb">						
+							
 							
 								
-									<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3290599_tunein.png">
 								
 								
+							
+								
+								
+								
+									
+												<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3441913_comphysicstest-1.png-w124h124">
+											
+										
+								
+							
 							
 						</div>
-						<h5>TuneIn Radio</h5>
-						<p>A radio app that gives you live, streaming radio from stations all over the world.</p>
-					</a>
+						<h5>Laws of Physics</h5>
+						<p>Learning physics has never been so much fun.</p>
+					</a>	
+					
 				</li>
 			
-				<li>
-					<a href="http://www.cspire.com/shop_and_learn/apps/product_app_details.jsp?id=prod28390058">
-						<div class="thumb">
+				
+				<li>					
+					
+					<a href="/shop_and_learn/apps/product_app_details.jsp?id=prod28640437">
+					
+						<div class="thumb">						
+							
 							
 								
-									<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3190034_a.png">
 								
 								
+							
+								
+								
+								
+									
+												<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3441907_chess.png">
+											
+										
+								
+							
 							
 						</div>
-						<h5>The Coupons App</h5>
-						<p>Unbelievable coupon savings at your favorite stores, restaurants &amp; gas stations.</p>
-					</a>
+						<h5>Chess</h5>
+						<p>The timeless game of intellectual warfare.</p>
+					</a>	
+					
 				</li>
 			
 		</ul>
@@ -966,11 +1205,9 @@
 
 	</div>
 
-
+						
 					
-					
-				
-				
+							
 			</div>
 			
 			<div class="dropdown-content" id="tab-4" style="display: none;">
@@ -1080,7 +1317,7 @@
 						
 						
 						<li class="drop-icon batteries cf">
-							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp_AF&amp;_dynSessConf=-3583868347386705593&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Batteries&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
+							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp_AF&amp;_dynSessConf=1074149802670875825&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Batteries&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
 								
 								
 								
@@ -1121,7 +1358,7 @@
 						
 						
 						<li class="drop-icon cases cf">
-							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.1_AF&amp;_dynSessConf=-3583868347386705593&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Cases&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
+							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.1_AF&amp;_dynSessConf=1074149802670875825&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Cases&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
 								
 								
 								
@@ -1162,7 +1399,7 @@
 						
 						
 						<li class="drop-icon chargers cf">
-							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.2_AF&amp;_dynSessConf=-3583868347386705593&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Chargers&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
+							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.2_AF&amp;_dynSessConf=1074149802670875825&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Chargers&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
 								
 								
 								
@@ -1206,7 +1443,7 @@
 						
 						
 						<li class="drop-icon handsfree cf">
-							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.3_AF&amp;_dynSessConf=-3583868347386705593&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Handsfree&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
+							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.3_AF&amp;_dynSessConf=1074149802670875825&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Handsfree&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
 								
 								
 								
@@ -1247,7 +1484,7 @@
 						
 						
 						<li class="drop-icon memory-cards cf">
-							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.4_AF&amp;_dynSessConf=-3583868347386705593&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Memory+Cards&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
+							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.4_AF&amp;_dynSessConf=1074149802670875825&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=Memory+Cards&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
 								
 								
 								
@@ -1288,7 +1525,7 @@
 						
 						
 						<li class="drop-icon sim-cards cf">
-							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.5_AF&amp;_dynSessConf=-3583868347386705593&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=SIM+Cards&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
+							<a href="/shop_and_learn/accessories/category_accessories_list.jsp?_DARGS=/global/nav/accessory-categories.jsp.5_AF&amp;_dynSessConf=1074149802670875825&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=+&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.showAllTypes=false&amp;/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=SIM+Cards&amp;_D%3A/cellularsouth/handlers/filter/estore/AccessoryFilterFormHandler.accessoryTypes=+&amp;id=cat550004">
 								
 								
 								
@@ -1356,7 +1593,7 @@
 	
 	<a class="blue-button-wide" href="/community"><span>View all Discussions</span></a>
 	
-	<div class="grid-header">Recommended Discussions for You</div>
+	<div class="grid-header">Featured Discussions</div>
 	
 	<ul class="grid discuss cf">
 	
@@ -1384,13 +1621,13 @@
 				
 				
 					<li class="cf">
-						<a href="http://circle.cspire.com/message/5872#5872">
+						<a href="http://circle.cspire.com/message/3412#3412">
 							<div class="comment-count">
-								<div class="comment-bubble">85</div>
+								<div class="comment-bubble">895</div>
 								<strong>Comments</strong>
 							</div>
 							<div class="description">
-								<h5>Want to do more on Facebook? Play games in App Arcade to get personalized app recommendations and win daily prizes. You can share your app recommendations with friends, too. Start playing at http://tl</h5>
+								<h5>So has anyone discovered any special ways to earn Perc Points? What's your favorite way and what do you plan on using them for?</h5>
 								<small>Last post
 									
 										
@@ -1400,7 +1637,7 @@
 										
 										
 										
-											21 days ago 
+											1 year ago 
 										
 									
 								</small>
@@ -1415,13 +1652,13 @@
 				
 				
 					<li class="cf">
-						<a href="http://circle.cspire.com/message/1004#1004">
+						<a href="http://circle.cspire.com/message/7811#7811">
 							<div class="comment-count">
-								<div class="comment-bubble">77</div>
+								<div class="comment-bubble">114</div>
 								<strong>Comments</strong>
 							</div>
 							<div class="description">
-								<h5>Community Guidelines: C Spire encourages you to use our Circle and Inner Circle to share your opinions and ideas. We believe that a good Community is a happy Community. Therefore, we ask that you abid</h5>
+								<h5>@Edwin Hey Edwin! We recommend "lurking" a bit, and once you see how others are responding and posting, feel free to follow suit.</h5>
 								<small>Last post
 									
 										
@@ -1431,7 +1668,7 @@
 										
 										
 										
-											2 months ago 
+											11 months ago 
 										
 									
 								</small>
@@ -1446,13 +1683,13 @@
 				
 				
 					<li class="cf">
-						<a href="http://circle.cspire.com/message/9846#9846">
+						<a href="http://circle.cspire.com/message/16882#16882">
 							<div class="comment-count">
-								<div class="comment-bubble">101</div>
+								<div class="comment-bubble">233</div>
 								<strong>Comments</strong>
 							</div>
 							<div class="description">
-								<h5>Please submit your questions for our LG Q&amp;A in this post! Your questions will be answered by an LG representative between 11AM and 2PM today! Circle Members, please welcome Spencer, a virtual brand ad</h5>
+								<h5>you get 100 points for paying your bill online. responses on here are only 10pts,</h5>
 								<small>Last post
 									
 										
@@ -1462,7 +1699,7 @@
 										
 										
 										
-											2 days ago 
+											8 months ago 
 										
 									
 								</small>
@@ -1506,31 +1743,39 @@
 
 
 
-	<ul class="col2 grid watch-listen cf">
+	<a class="blue-button-wide" href="/rewards/"><span>PERCS Central</span></a>
+
+	<div class="grid-header">Learn more about PERCS</div>
 	
-		<li class="cf">
-			<a href="/brightlights/football/rivalries.jsp"> 
-				<div class="thumb">
-					<img src="/resources/images/icon/football_thumb1.png">
-					<div class="play"></div> 
-				</div>
-				<h5>Football</h5>
-				<p>Putting the spotlight on high school rivalries.</p>
-			</a>
-		</li>
+		
+			
+			
 	
-		<li class="cf">
-			<a href="/DiscoverCenter/cs-originals/music/"> 
-				<div class="thumb">
-					<img src="/resources/images/icon/music_thumb1.png">
-					<div class="play"></div> 
-				</div>
-				<h5>Music</h5>
-				<p>Discover and share all the hottest music right from your community.</p>
-			</a>
-		</li>
-	
-	</ul>
+		
+			
+				<style type="text/css">#tab-6 .grid-header { display:none; }</style>
+  <div style="background: none repeat scroll 0 0 #F2F2F2;border-bottom: 1px solid #E8E8E8;color: #3A3A3A;font-size: 14px;font-weight: normal;margin: 9px 0 0;padding: 7px 8px 2px 14px;margin-bottom:8px;"><div align="center"><strong>What is PERCS?</strong></div>Our PERCS® program is one-of-a-kind, just like you. You'll be rewarded just for doing what you're already doing, like sharing with friends, downloading apps and being a loyal customer.</div>
+<ul class="grid2 percs top cf">
+  <li class="drop-icon offers cf"> <a href="/rewards/purpose/?WT.ac=menu_purpose">
+    <div class="percs_offers"> <img src="/resources/images/icon/percs_offers_th.png"> </div>
+    <div class="percs_offers_txt">
+      <h5>PERCS with a Purpose</h5>
+      <p>Share your PERC Points to help raise money for breast cancer research. Share Now.</p>
+      <!--<h5>Your Offers</h5>
+      <p>Savings on Upgrades, Phones and Accessories<br>Members-only Offers</p> -->
+    </div>
+    </a> </li>
+  <li class="drop-icon faq cf"> <a href="/rewards/#7">
+    <div class="percs_faq"> <img src="/resources/images/icon/percs_faq_th.png"> </div>
+    <div class="percs_faq_txt">
+      <h5>Frequently Asked Questions</h5>
+      <p>Get answers to frequently asked questions about the PERCS program, PERC Points and Status PERCS</p>
+    </div>
+    </a> </li>
+</ul>
+<!--<div class="grid_cs_promo"><a href="/newslink/"><img src="/resources/images/menu/menubar_newslink.png" border="0" /></a></div>-->
+			
+			
 	
 
 	</div>
@@ -1558,7 +1803,7 @@
 	
 
 	<a class="blue-button-wide" href="/help/contact_us/contact_us.jsp"><span>Contact Us</span></a>
-	<div class="grid-header">Recommended Contact Methods for You</div>
+	<div class="grid-header">Recommended Support Methods for You</div>
 	
 	<ul class="grid services cf">
 		
@@ -1566,14 +1811,20 @@
 			
 				<li class="drop-icon tools cf">
 					<a href="/help/support_forum/support.jsp">
-						<h5>About Services</h5>
-						<p>Learn about the services and support that we offer.</p>
+						<h5>Support Home</h5>
+						<p>Online, on your phone or in person, we're here for you.</p>
 					</a>
 				</li>
-				<li class="drop-icon chat cf">
+				<li class="drop-icon chat cf chat_footer_link hide_div chat_footer_success">
 					<a href="#" id="dropdown-chat">
 						<h5>Live Chat</h5>
 						<p>Start a chat with a C&nbsp;Spire service expert.</p>
+					</a>
+				</li>
+				<li class="drop-icon chat cf chat_footer_error">
+					<a href="http://twitter.com/#!/cspirecare" id="dropdown-chat" target="_blank">
+						<h5>Social CS</h5>
+						<p>A brand new way to get instant answers from C Spire customer care. We are available 24/7.</p>
 					</a>
 				</li>
 				<li class="drop-icon person cf">
@@ -1608,6 +1859,79 @@
 
 
 
+	<div class="blue-button-double cf">
+		<a class="blue-button-short" href="/business/"><span>Business</span></a>
+		<a class="blue-button-short" href="/msgov/"><span>Government</span></a>	
+	</div>
+
+	<div class="grid-header">Learn more about Business &amp; Government</div>
+	
+		
+			
+			
+	
+		
+			
+				<ul class="grid percs top cf">
+  <li class="drop-icon offers cf">
+    <a href="http://www.cspire.com/sso/login.jsp?RelayState=/business">
+      <div class="percs_offers">
+     <img src="/resources/images/icon/log_in.png">
+     </div>
+    <div class="percs_offers_txt">
+      <h5>Manage Wireless Accounts</h5>
+      <p>Account Management, Ordering, Reporting, and more.</p>
+     </div>
+    </a>
+  </li>
+   <li class="drop-icon faq cf">
+   <a href="/business/plans.jsp">
+     <div class="percs_faq">
+     <img src="/resources/images/icon/plans.png">
+    </div>
+    <div class="percs_faq_txt">
+      <h5>Business Plans</h5>
+      <p>Personalized wireless plans for business.</p>
+     </div>
+    </a>
+  </li>
+   <li class="drop-icon faq cf">
+   <a href="/business/apps.jsp">
+     <div class="percs_faq">
+     <img src="/resources/images/icon/apps.png">
+    </div>
+    <div class="percs_faq_txt">
+      <h5>Business App Packs</h5>
+      <p>Apps tested and approved for your unique needs.</p>
+     </div>
+    </a>
+  </li>
+</ul>
+<!--<div class="grid_cs_promo"><a href="/newslink/"><img src="/resources/images/menu/menubar_newslink.png" border="0" /></a></div>-->
+			
+			
+	
+
+	</div>
+
+
+			</div>
+			<div class="dropdown-content" id="tab-9" style="display: none;">
+				
+					
+				
+
+
+
+
+	<!-- <div class="dropdown-content-top"></div> -->
+
+	<div class="dropdown-content-middle">
+		
+		
+
+
+
 	<div class="grid-header">Learn more about C Spire Wireless</div>
 	
 		
@@ -1618,45 +1942,48 @@
 			
 				<ul class="grid accessories top cf">
   <li class="drop-icon whycs cf">
-    <a href="/shop_and_learn/why_cspire/index.jsp">
-      <h5>Why C Spire</h5>
+    <a href="/personalized_wireless/">
+      <h5>Personalized Wireless</h5>
       <p>C Spire personalizes the wireless experience just for you.</p>
-    </a>
-  </li>
-  <li class="drop-icon rewards cf">
-    <a href="/rewards/index.jsp">
-      <h5>PERCS</h5>
-      <p>Get PERCS from our one-of-a-kind rewards program.</p>
     </a>
   </li>
   <li class="drop-icon network cf">
     <a href="/company_info/about_us/network.jsp">
-      <h5>Network</h5>
+      <h5>Our Network &amp; Coverage</h5>
       <p>Welcome to the first personalized network.</p>
     </a>
   </li>
-</ul>
-<ul class="grid services cf">
   <li class="drop-icon news cf">
     <a href="/company_info/news/index.jsp">
-      <h5>News/Events</h5>
+      <h5>News &amp; Events</h5>
       <p>Get the latest C Spire news <br>
         and events. </p>
     </a>
   </li>
+</ul>
+<ul class="grid services cf">
+  <li class="drop-icon brightlights cf">
+    <a href="/brightlights/index.jsp">
+      <h5>Bright Lights</h5>
+      <p>C Spire original programming:<br>
+             Brightlights Football<br>
+             Brightlights Music</p>
+    </a>
+  </li>	
+  <li class="drop-icon chat cf">
+    <a href="/social/">
+      <h5>Social Central</h5>
+      <p>You can contact us on social networks anytime. We read every post. Every day. 24/7.</p>
+    </a>
+  </li>
   <li class="drop-icon careers cf">
-    <a href="/careers/index.jsp">
+    <a href="/careers/">
       <h5>Careers</h5>
       <p>Inspire the wireless future. This is your time to shine.</p>
     </a>
   </li>
-  <li class="drop-icon business cf">
-    <a href="/business/index.jsp">
-      <h5>Business</h5>
-      <p>Personalized for your business.</p>
-    </a>
-  </li>
 </ul>
+<!--<div class="grid_cs_promo"><a href="/newslink/"><img src="/resources/images/menu/menubar_newslink.png" border="0" /></a></div>-->
 
 			
 			
@@ -1666,14 +1993,11 @@
 
 
 			</div>
-
 		</div>
 	</div>
 
 
 				<div id="search-dropdown">
-					<div class="search-dropdown-inner">
-						<div class="search-wrapper cf">
 							
 
 
@@ -1684,47 +2008,120 @@
 
 
 
+					<div class="login-tab-dropdown-inner">
+						<div class="login-tab-wrapper">
+				            
+								
+								
+								
+								
+							
+								
+								
+								
+								
+									
 
 
 
-<form id="searchFormId" action="/index.jsp" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="-3583868347386705593" type="hidden">
-	<input name="/cellularsouth/search/SiteSearchFormHandler.successURL" value="/search/search_results.jsp" type="hidden"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.successURL" value=" " type="hidden">
-	<input name="/cellularsouth/search/SiteSearchFormHandler.errorURL" value="/search/search_results.jsp" type="hidden"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.errorURL" value=" " type="hidden">
-	
-		
-		
-		
-	
-		
-		
-			<input id="search_input" name="/cellularsouth/search/SiteSearchFormHandler.query" value="Find Products &amp; Plans" class="clear-default" type="text"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.query" value=" " type="hidden">	
-		
-		
-	
-	
-		
-		
-		
-	
-		
-		
-		
-			<input id="submitImage" style="float:right;height:17px;width:17px;" alt="Search" name="/cellularsouth/search/SiteSearchFormHandler.submit" src="/resources/images/icon/icon-search.png" type="image"><input name="_D:/cellularsouth/search/SiteSearchFormHandler.submit" value=" " type="hidden">
-		
-		
-<input name="_DARGS" value="/search/FullText_search_form.jsp.searchForm" type="hidden"></form>
-		
-<script type="text/javascript" src="/resources/js/jquery.clear-default.js"></script>
-<script type="text/javascript">
-	$('input.clear-default').clearDefault();
-	$("#submitImage").click(function(){
-		submitSearch();
-	 });
-</script>
 
 
+
+
+
+
+
+
+
+
+<style>
+	#search-dropdown {
+		height: 323px;
+	}
+</style>
+
+	<div class="login-tab-wrap-lgdout">
+						<div class="my-account-form-container">
+							<div id="login-tab-title">Returning Customers</div>	
+					
+							<form class="idpLogin" method="post" action="https://prodapi.cspire.com/SAML2/SSO/Login.htm" name="login-tab-form">
+								<div class="formField">
+									<label for="username">Username</label>
+									<a class="forgot" href="#" tabindex="4" id="forgotUsernameLink" onclick="$('#recoverUsername').submit();return false;">Forgot Username?</a>
+									<div class="my-account-input-wrapper valid">
+										<div class="input-bg">
+											<div class="input-left">
+												<div class="input-right">
+													<input id="login-tab-username" name="username" tabindex="1" type="text">
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="formField">
+									<label for="password">Password</label>
+									<a class="forgot" href="#" tabindex="5" id="recoverPasswordLink" onclick="$('#recoverPassword').submit();return false;">Forgot Password?</a>
+										<div class="my-account-input-wrapper valid">
+											<div class="input-bg">
+												<div class="input-left">
+													<div class="input-right">
+														<input id="password" name="password" tabindex="2" type="password">
+													</div>
+												</div>
+											</div>
+										</div>
+								</div>
+								<input type="hidden" name="SAMLRequest" value="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">
+								<input type="hidden" name="RelayState" value="http://www.cspire.com:80/legal/general_landing.jsp?id=/generic/privacyPolicy">
+								
+								<input type="submit" value="Log In" class="btn blueBtn" tabindex="3">
+				
+							</form>
+						</div>
+						<div id="login-tab-border">		
+						</div>
+						<div id="login-tab-customer-wrapper">
+							<div id="login-tab-customer-inner">
+								<ul>
+									<li id="login-tab-title-b">New Customers</li>
+									<li id="my-account-cust-head">Don't have a C Spire account?</li>
+									<li class="my-account-cust-subhead"><a href="#" onclick="$('#registerNew').submit();return false;">Register a personal account</a></li>
+									<li class="my-account-cust-head2">Business Customer?</li>
+									<li class="my-account-cust-subhead"><a href="#" onclick="$('#registerNewB2B').submit();return false;">Register a business account</a></li>
+									<li class="my-account-cust-head2">Have a new phone or device?</li>
+									<li class="my-account-cust-subhead"><a href="/activation/activation.jsp">Activate it</a></li>
+								</ul>
+							</div>
+						</div>	
+
+<form id="registerNew" method="post" action="https://prodapi.cspire.com/restful-registration-views/SAML2/SSO/Register.htm">
+	<input type="hidden" name="SAMLRequest" value="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">
+	<input type="hidden" name="RelayState" value="http://www.cspire.com">
+</form>
+
+<form id="recoverUsername" method="post" action="https://prodapi.cspire.com/restful-registration-views/SAML2/SSO/RecoverUsername.htm">
+	<input type="hidden" name="SAMLRequest" value="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">
+	<input type="hidden" name="RelayState" value="http://www.cspire.com">
+</form>
+
+<form id="recoverPassword" method="post" action="https://prodapi.cspire.com/restful-registration-views/SAML2/SSO/RecoverPassword.htm">
+	<input type="hidden" name="SAMLRequest" value="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">
+	<input type="hidden" name="RelayState" value="http://www.cspire.com">
+</form>
+	
+<form id="registerNewB2B" method="post" action="https://prodapi.cspire.com/restful-registration-views/SAML2/SSO/Register/B2B.htm">
+	<input type="hidden" name="SAMLRequest" value="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">
+	<input type="hidden" name="RelayState" value="http://www.cspire.com">
+</form>
+
+</div>
+
+
+								
+							
 						</div>
 					</div>
+												
 				</div>
 			</div>
 			
@@ -1756,6 +2153,13 @@
 				
 			
 		</div>
+
+		
+
+
+		
+		
+		
 		
 		<div id="content">
 		
@@ -1969,381 +2373,87 @@
 
 
 
-<p style=" margin-top: 10px;">This Privacy Policy applies to C Spire's wireless services and
+<p style=" margin-top: 10px;">This Privacy Policy applies to C Spire's wireless services and websites, including, but not limited to, <a href="http://www.cspire.com">www.cspire.com</a> and <a href="http://www.cspire.com">www.cspire.net</a> ("Websites"), and your information collected via such Websites. C Spire™ is owned by Cellular South, Inc.</p>
 
-websites, including, but not limited to, <a href="http://www.cspire.com">www.cspire.com</a> and <a href="http://www.cspire.com">www.cspire.net</a> ("Websites"), and your information
-
-collected via such Websites. C Spire™ is owned by Cellular South, Inc.</p>
-
-
-
-<p style=" margin-top: 10px;">This Privacy Policy does not apply to other websites, third party
-
-application providers or to the Internet generally. C Spire may make content or services from
-
-other websites available to you from links located on our Websites. C Spire is not responsible
-
-for the privacy, security, or content of such sites. C Spire also uses third parties to
-
-advertise its products and services on the Internet and websites owned by parties that are
-
-unaffiliated with C Spire. You should review the privacy policy of each application provider
-
-you use and at any third party web site you visit to determine how that provider or site
-
-protects your privacy.</p>
-
-
+<p style=" margin-top: 10px;">This Privacy Policy does not apply to other websites, third party application providers or to the Internet generally. C Spire may make content or services from other websites available to you from links located on our Websites. C Spire is not responsible for the privacy, security, or content of such sites. C Spire also uses third parties to advertise its products and services on the Internet and websites owned by parties that are unaffiliated with C Spire. You should review the privacy policy of each application provider you use and at any third party web site you visit to determine how that provider or site protects your privacy.</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>PERSONAL INFORMATION</b></p>
 
+<p style=" margin-top: 10px;">C Spire collects personal information concerning its customers at the time they sign up for C Spire service. C Spire collects additional personal information from its customers and users of the Websites in connection with registration on the Websites, additional product and service orders, your 
+use of the C Spire network, downloads from the Websites, uploads to the Websites, contests, surveys and special offers. Personal information collected by C Spire may include, but is not limited to, your name, address, email address, telephone number, billing, payment, usage, credit and transaction information (including credit card numbers, account numbers, and/or social security numbers), and demographic information. C Spire does not design its Websites to attract, nor do we knowingly collect personal information from children under thirteen (13) years of age. Ordering online products and services from C Spire is limited to adults (eighteen (18) years of age or older or as otherwise legally defined).</p>
 
+<p style=" margin-top: 10px;">C Spire takes precautions to protect your personal information against unauthorized disclosure, theft and misuse. However, when you use third party applications or some portions of the Websites such as the forums and social networking services, any personal information you share is visible to other users and C Spire cannot protect it. You are responsible for the protection of the personal information you choose to share on third party applications or open portions of the Websites. Please be careful when doing so.</p>
 
-<p style=" margin-top: 10px;">C Spire collects personal information concerning its customers at
-
-the time they sign up for C Spire service. On occasion, C Spire collects additional personal
-
-information from its customers in connection with additional product and service orders, your
-
-use of the C Spire network, downloads from the Websites, uploads to the Websites, contests,
-
-surveys and special offers. Personal information collected by C Spire may include, but is not
-
-limited to, your name, address, email address, telephone number, billing, payment, usage,
-
-credit and transaction information (including credit card numbers, account numbers, and/or
-
-social security numbers), and demographic information. C Spire does not design its Websites to
-
-attract, nor do we knowingly collect personal information from children under thirteen (13)
-
-years of age. Ordering online products and services from C Spire is limited to adults (eighteen
-
-(18) years of age or older or as otherwise legally defined).</p>
-
-
-
-<p style=" margin-top: 10px;">C Spire takes precautions to protect your personal information
-
-against unauthorized disclosure, theft and misuse. However, when you use third party
-
-applications or some portions of the Websites such as the forums and social networking
-
-services, any personal information you share is visible to other users and C Spire cannot
-
-protect it. You are responsible for the protection of the personal information you choose to
-
-share on third party applications or open portions of the Websites. Please be careful when
-
-doing so.</p>
-
-
-
-<p>&nbsp;</p>
-
-
+<p>&nbsp;</p> 
 
 <p><b>NON-PERSONAL INFORMATION</b></p>
 
-
-
-<p style=" margin-top: 10px;">In addition to and sometimes in connection with the collection of
-
-personal information, C Spire also collects non-personal information - information collected in
-
-a form that does not reflect or reference anything directly identifiable with you or any other
-
-specific individual. Non-personal information collected by C Spire may include occupation,
-
-language, ZIP code, area code, location, Internet activity and time zone. C Spire uses this
-
-information to increase its understanding of customer behavior and better serve its customers.
-
-In cases where non-personal information is collected with personal information so that it can
-
-be connected to a specific individual, C Spire will treat the non-personal information as
-
-personal information as long as it is combined, and C Spire will remove any links between the
-
-non-personal and personal information before treating the separated information as non-personal
-
-information.</p>
-
-
+<p style=" margin-top: 10px;">In addition to and sometimes in connection with the collection of personal information, C Spire also collects non-personal information - information collected in a form that does not reflect or reference anything directly identifiable with you or any other specific individual. Non-personal information collected by C Spire may include occupation, language, ZIP code, area code, location, Internet activity and time zone. C Spire uses this information to increase its understanding of customer behavior and better serve its customers. In cases where non-personal information is collected with personal information so that it can be connected to a specific individual, C Spire will treat the non-personal information as personal information as long as it is combined, and C Spire will remove any links between the non-personal and personal information before treating the separated information as non-personal information.</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>LOCATION BASED SERVICES</b></p>
 
-
-
-<p style=" margin-top: 10px;">C Spire may provide location-based services or provide third
-
-parties with access to your location information so that such services may be provided to you.
-
-Devices and applications used with some C Spire services identify your location whenever the
-
-device is active and in a C Spire coverage area. Such location technology is necessary for the
-
-function of wireless communications and may also be used in connection with emergency services
-
-which permit us to provide your general location to emergency service personnel. C Spire's
-
-provision of location-based services or disclosure of your location to third parties, including
-
-in connection with third party applications, will be subject to your consent where appropriate.
-
-For instance, with your authorization, we may provide location-based services or provide
-
-location information to third parties in connection applications, including third-party
-
-applications, that you may use or download. You should carefully review the terms and
-
-conditions applicable to such applications and the privacy policies of any third-parties to
-
-whom you provide your consent to use location information, because when you use such
-
-third-party services their terms of use and privacy policies will govern.&nbsp;</p>
-
-
+<p style=" margin-top: 10px;">C Spire may provide location-based services or provide third parties with access to your location information so that such services may be provided to you. Devices and applications used with some C Spire services identify your location whenever the device is active and in a C Spire coverage area. Such location technology is necessary for the function of wireless communications and may also be used in connection with emergency services which permit us to provide your general location to emergency service personnel. C Spire's provision of location-based services or disclosure of your location to third parties, including in connection with third party applications, will be subject to your consent where appropriate. For instance, with your authorization, we may provide location-based services or provide 
+location information to third parties in connection applications, including third-party applications, that you may use or download. You should carefully review the terms and 
+conditions applicable to such applications and the privacy policies of any third-parties to whom you provide your consent to use location information, because when you use such third-party services their terms of use and privacy policies will govern.&nbsp;</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>COOKIES</b></p>
 
-
-
-<p style=" margin-top: 10px;">C Spire's Websites may place or employ a unique "cookie" on your
-
-browser to recognize your computer and track site usage. Additionally, C Spire may log IP
-
-addresses, or the location of your computer on the Internet. C Spire may use other technology,
-
-including but not limited to "web beacons" or "web bugs," on our Websites in order to recognize
-
-users and assess traffic patterns with the goal of making the Websites more convenient to the
-
-user. We may also include such technology in our email messages and electronic newsletters in
-
-order to count how many email messages have been opened. You can configure your Web browser to
-
-alert you when a Web Site is attempting to send a cookie to your computer and allow you to
-
-accept or refuse the cookie. You can also set your browser to disable the capacity to receive
-
-cookies or you can delete cookies previously accepted. Some C Spire Web pages (and other Web
-
-pages) may not work correctly if you have cookies disabled.</p>
-
-
+<p style=" margin-top: 10px;">C Spire's Websites may place or employ a unique "cookie" on your browser to recognize your computer and track site usage. Additionally, C Spire may log IP addresses, or the location of your computer on the Internet. C Spire may use other technology, including but not limited to "web beacons" or "web bugs," on our Websites in order to recognize users and assess traffic patterns with the goal of making the Websites more convenient or to make recommendations to the user. We may also include such technology in our email messages and electronic newsletters in order to count how many email messages have been opened. We may place advertisements regarding C Spire, its affiliates, and/or third parties on the Websites or third party websites. You can configure your Web browser to alert you when a Web Site is attempting to send a cookie to your computer and allow you to accept or refuse the cookie. You can also set your browser to disable the capacity to receive cookies or you can delete cookies previously accepted. Some C Spire Web pages (and other Web pages) may not work correctly if you have cookies disabled.</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>CPNI</b></p>
 
-
-
-<p style=" margin-top: 10px;">Subject to any applicable law, rule or regulation restricting
-
-disclosure or use of the information collected by C Spire, C Spire reserves the right to use
-
-and manage, as it sees fit, any information collected from you or your computer, including
-
-information collected by C Spire when you sign up for C Spire service, purchase products,
-
-participate in contests, surveys or special offers, log onto the Websites, download information
-
-from the Websites or upload information to the Websites. Among the applicable laws and
-
-regulations restricting disclosure of some of the information collected by C Spire is Section
-
-222 of the Telecommunications Act of 1996, as amended (the "Telecommunications Act"). The
-
-Telecommunications Act establishes certain criteria regarding the use of certain sensitive and
-
-commercially valuable telephone customer information, which includes, for example, when a
-
-customer places a call, whom and where the customer calls and the types of services offerings
-
-to which a customer subscribes. The Telecommunications Act refers to this type of information
-
-as "customer proprietary network information," or CPNI. C Spire will disclose and/or use CPNI
-
-only as permitted by the Telecommunications Act and applicable rules and regulations.</p>
-
-
+<p style=" margin-top: 10px;">Subject to any applicable law, rule or regulation restricting disclosure or use of the information collected by C Spire, C Spire reserves the right to use and manage, as it sees fit, any information collected from you or your computer, including information collected by C Spire when you sign up for C Spire service, purchase products, participate in contests, surveys or special offers, log onto the Websites, download information from the Websites or upload information to the Websites. Among the applicable laws and regulations restricting disclosure of some of the information collected by C Spire is Section 222 of the Telecommunications Act of 1996, as amended (the "Telecommunications Act"). The Telecommunications Act establishes certain criteria regarding the use of certain sensitive and commercially valuable telephone customer information, which includes, for example, when a customer places a call, whom and where the customer calls and the types of services offerings to which a customer subscribes. The Telecommunications Act refers to this type of information as "customer proprietary network information," or CPNI. C Spire will disclose and/or use CPNI only as permitted by the Telecommunications Act and applicable rules and regulations.</p>
 
 <p>&nbsp;</p>
 
+<p><b>CONTACTING YOU</b></p>
 
+<p style=" margin-top: 10px;">We may periodically contact you regarding promotions, offers, products or services from C Spire, its affiliates, and/or third parties via email, SMS text message and/or other methods. We may also periodically contact you regarding your C Spire account status, phone
 
-<p><b>EMAILS</b></p>
-
-
-
-<p style=" margin-top: 10px;">If you provide your email address to C Spire, then we may
-
-periodically send you emails regarding promotions and special offers from C Spire and/or its
-
-affiliates. We may also periodically contact you regarding your C Spire account status, phone
-
-or other matters relevant to C Spire customers or potential customers. You may choose to remove
-
-your name from the list for receiving such emails at anytime by following the instructions
-
-contained within the emails. By providing your email address to C Spire, you agree that C Spire
-
-shall have the right to manage and use your email address as it sees fit, and C Spire may sell
-
-or otherwise provide your email address to third parties.</p>
-
-
+or other matters relevant to C Spire customers or potential customers. You may opt out of receiving communications from us as provided below in PRIVACY RIGHTS AND OPTIONS. You also have the ability to choose to remove your name from the list for receiving emails at any time by following the instructions contained within the emails. By providing your email address to C Spire, you agree that C Spire shall have the right to manage and use your email address as it sees fit, and C Spire may sell or otherwise provide your email address to third parties.</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>THIRD PARTY SERVICE PROVIDERS</b></p>
 
-
-
-<p style=" margin-top: 10px;">C Spire may hire other companies to perform services on our
-
-behalf including, without limitation, sending email, fulfilling purchase requests and managing
-
-the operation of the Websites. These other companies may be supplied with or have access to
-
-your personal information, including your email address and other contact information. We may
-
-also use third parties, such as third-party ad servers or ad networks, to deliver ads to you on
-
-our behalf. These third-party ad servers may be supplied with or have access to your email
-
-address. Also, we may provide them with and they may collect and use non-personal information
-
-about your visits to the Websites and links from the Websites.</p>
-
-
+<p style=" margin-top: 10px;">C Spire may hire other companies to perform services on our behalf including, without limitation, sending email, fulfilling purchase requests and managing the operation of the Websites. These other companies may be supplied with or have access to your personal information, including your email address and other contact information. We may also use third parties, such as third-party ad servers or ad networks, to deliver ads to you on our behalf. These third-party ad servers may be supplied with or have access to your email address. Also, we may provide them with and they may collect and use non-personal information about your visits to the Websites and links from the Websites.</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>REQUIRED DISCLOSURES</b></p>
 
-
-
-<p style=" margin-top: 10px;">C Spire also reserves the right to disclose personal information,
-
-including email addresses, if we are required to do so by law or legal authority, or if we in
-
-good faith believe that it is necessary to do so in order to comply with legal process or law,
-
-to protect and defend the rights or property of C Spire, its affiliates, its customers or the
-
-public, or to protect against misuse of C Spire's Websites.</p>
-
-
+<p style=" margin-top: 10px;">C Spire also reserves the right to disclose personal information, including email addresses, if we are required to do so by law or legal authority, or if we in good faith believe that it is necessary to do so in order to comply with legal process or law, to protect and defend the rights or property of C Spire, its affiliates, its customers or the public, or to protect against misuse of C Spire's Websites.</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>PRIVACY RIGHTS AND OPTIONS</b></p>
 
+<p style=" margin-top: 10px;">Upon request to askus@cspire.com, C Spire will furnish you a copy of all information provided by you and maintained on record by C Spire at the time of your request in the format utilized by C Spire in the ordinary course of its business. This information will only be sent to you at your email or physical address as reflected by C Spire's records or given to you in person at a reasonable, prearranged time during normal business hours, at which time you may be asked to present proof of your identity. C Spire may require you to reimburse it for the reasonable costs of researching and copying such records as a condition to providing a copy of all such information to you. You may revise your personal information maintained in connection with your C Spire account at any time.</p>
 
+<p style=" margin-top: 10px;">You may opt-out of C Spire's non-essential marketing and targeted advertising services at any time by sending a request to askus@cspire.com. C Spire with process such requests in a timely manner.&nbsp;</p> 
 
-<p style=" margin-top: 10px;">Upon request to askus@cspire.com, C Spire will furnish you a copy
-
-of all information provided by you and maintained on record by C Spire at the time of your
-
-request in the format utilized by C Spire in the ordinary course of its business. This
-
-information will only be sent to you at your email or physical address as reflected by C
-
-Spire's records or given to you in person at a reasonable, prearranged time during normal
-
-business hours, at which time you may be asked to present proof of your identity. C Spire may
-
-require you to reimburse it for the reasonable costs of researching and copying such records as
-
-a condition to providing a copy of all such information to you. You may revise your personal
-
-information maintained in connection with your C Spire account at any time.</p>
-
-
-
-<p style=" margin-top: 10px;">You may opt-out of C Spire's non-essential marketing and targeted
-
-advertising services at any time by sending a request to askus@cspire.com. C Spire with process
-
-such requests in a timely manner.&nbsp;</p>
-
-
-
-<p style=" margin-top: 10px;">Your participation in certain offerings on the Sites, such as the
-
-Circle, App Arcade, Scout, and Inner Circle may lead to C Spire's collection of information
-
-from you; however, C Spire will inform you in the terms and conditions of such offerings prior
-
-to your agreement to participate in same, and provide you the ability to opt-out of such
-
-information collection.&nbsp;</p>
-
-
+<p style=" margin-top: 10px;">Your participation in certain offerings on the Websites, such as the Circle, App Arcade, Scout, and Inner Circle may lead to C Spire's collection of information from you; however, C Spire will inform you in the terms and conditions of such offerings prior to your agreement to participate in same, and provide you the ability to opt-out of such information collection.&nbsp;</p>
 
 <p>&nbsp;</p>
-
-
 
 <p><b>CHANGES TO PRIVACY POLICY</b></p>
 
-
-
-<p style=" margin-top: 10px;">C Spire reserves the right to change this Privacy Policy at any
-
-time, including if we adjust our business practices or if legal or regulatory events require
-
-changes. Any changes to this Privacy Policy will be posted on the Websites. Further, if we
-
-determine to adjust the way we use and disclose personal information in a way that is
-
-materially different than our practices at the time the personal information was collected, we
-
-will post a notice of the changes on the Websites at least thirty (30) days prior to
-
-implementing the changes and we will provide you with the opportunity to opt-out of the
-
-proposed use or discloser as it relates to your personal information. Please refer back to this
-
-policy from time to time to ensure you are aware of our most current privacy practices.</p>
-
-
+<p style=" margin-top: 10px;">C Spire reserves the right to change this Privacy Policy at any time, including if we adjust our business practices or if legal or regulatory events require changes. Any changes to this Privacy Policy will be posted on the Websites. Further, if we determine to adjust the way we use and disclose personal information in a way that is 
+materially different than our practices at the time the personal information was collected, we will post a notice of the changes on the Websites at least thirty (30) days prior to implementing the changes and we will provide you with the opportunity to opt-out of the proposed use or discloser as it relates to your personal information. Please refer back to this policy from time to time to ensure you are aware of our most current privacy practices.</p>
 
 <p>&nbsp;</p>
 
-
-
 <p><b>CONTACT US</b></p>
 
-
-
-<p style=" margin-top: 10px;">If you have any questions or if you would like to discuss the
-
-privacy policies and practices of C Spire, you may contact us by phone, email or regular mail
-
-at the address set forth below:</p>
+<p style=" margin-top: 10px;">If you have any questions or if you would like to discuss the privacy policies and practices of C Spire, you may contact us by phone, email or regular mail at the address set forth below:</p>
 
 
 
@@ -2483,7 +2593,7 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 					
 					Contact Us</a>
 				</li>
-				<li><a target="_blank" href="http://circle.cspire.com/community/engage/answer_center">Visit Answer Center</a>
+				<li style="font-size:12px"><a target="_blank" href="http://circle.cspire.com/community/engage/answer_center">Visit Answer Center</a>
 				</li>
 			
 		
@@ -2550,6 +2660,15 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 
 
 
+  
+	
+	
+	
+ 
+	
+	
+	
+ 
 
 
 
@@ -2557,23 +2676,6 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
             <div class="inner-wrap">
               <div class="inner">
                 <div class="content">
-                	
-                	  <div class="tooltip genie_intro" style="">
-	                    <div class="top">
-	                      <div class="btm">
-	                        <div class="content-wrapper">
-	                          <strong>Customize your Genie!</strong>
-	                          <p>
-	                            Did you know that you can
-	                            <span class="like">like</span>
-	                            or
-	                            <span class="unlike">unlike</span>
-	                            an item in your genie on rollover?
-	                          </p>
-	                        </div>
-	                      </div>
-	                    </div>
-	                  </div>
                 	
                 
 
@@ -2605,7 +2707,7 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
                     
                    	<div id="history-items">
                    
-                    	<div class="caroufredsel_wrapper" style="position: relative; overflow: hidden; margin: 0px; width: 696px; height: 0px;"><ul id="history-items-carousel" style="margin: 0px; float: none; position: absolute; top: 0px; left: 348px; width: 0px; height: 0px;">
+                    	<div class="caroufredsel_wrapper" style="text-align: left; float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; width: 696px; height: 0px; margin: 0px; overflow: hidden;"><ul id="history-items-carousel" style="text-align: left; float: none; position: absolute; top: 0px; left: 348px; margin: 0px; width: 696px; height: 0px;">
 							
 							
 								
@@ -2626,8 +2728,8 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 		
 	
 		<div id="history-scroll-arrows">
-			<a class="next" href="#" style="display: none;">Next</a>
-			<a class="previous" href="#" style="display: none;">Previous</a>
+			<a class="next hidden" href="#" style="display: none;">Next</a>
+			<a class="previous hidden" href="#" style="display: none;">Previous</a>
 		</div>
 	
 	</div>
@@ -2641,7 +2743,9 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 				
 					
 					
-						 <div class="account">
+					
+					
+				      <div class="account">
 	                    <div class="sign-in">
 	                      <div class="title">
 	                        My C Spire
@@ -2656,13 +2760,13 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 	                      </div>
 	                      <ul class="horizontal">
 	                        <li>
-	                          <a href="/activation/activation_index.jsp">
+	                          <a href="/activation/activation.jsp">
 	                            Activate a Device
 	                            <span class="arrow">»</span>
 	                          </a>
 	                        </li>
 	                        <li class="last">
-	                          <a href="/my_account/personal/my_billing/make_a_payment">
+	                          <a href="/sso/login.jsp?RelayState=/my_account/personal/my_billing/make_a_payment">
 	                            Pay Your Bill
 	                            <span class="arrow">»</span>
 	                          </a>
@@ -2670,8 +2774,6 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 	                      </ul>
 	                    </div>
 	                  </div>
-					
-					
 					
 				
                  
@@ -2734,83 +2836,8 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 		
 		
 		
-			<div class="caroufredsel_wrapper" style="position: relative; overflow: hidden; margin: 0px; width: 843px; height: 157px;"><ul id="recommendations-carousel" class="cf" style="margin: 0px; float: none; position: absolute; top: 0px; left: 0px; width: 4496px; height: 157px;">
+			<div class="caroufredsel_wrapper" style="text-align: left; float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; width: 843px; height: 157px; margin: 0px; overflow: hidden;"><ul id="recommendations-carousel" class="cf" style="text-align: left; float: none; position: absolute; top: 0px; left: 0px; margin: 0px; width: 2529px; height: 157px;">
 				
-    				
-   					
-   					
-		    	
-    				
-   					
-   					
-						
-		    				
-		    				
-		    				
-		    			
-		    				
-		    				
-		    				
-
-
-
-
-
-
-
-	<li class="list">
-		<div class="header">
-			<div class="category">Manage Your Account</div>
-		</div>
-		<div class="inner">
-			
-			
-				
-					
-						
-						
-							
-								
-								
-								
-							
-								
-								
-								
-									<ul>
-										<li>
-											<a href="/my_account/personal/profile/"><span class="arrow">»</span>Update Profile</a>
-										</li>
-										
-											
-											
-										
-											
-											
-												<li>
-													<a href="/my_account/personal/my_billing/make_a_payment/index.jsp?navAction=jump&amp;navCount=0"><span class="arrow">»</span>Pay Your Bill</a>
-												</li>
-											
-										
-										<li>
-											<a href="/my_account/personal/manage_features/index.jsp?id=cat550006"><span class="arrow">»</span>Add/Change Features</a>
-										</li>
-									</ul>
-									<div class="cta">
-										<a class="custom custom-blue-sm" href="/my_account/personal/"><span>Go To Account &gt;</span></a>
-									</div>
-								
-							
-						
-					
-				
-						
-		</div>
-	</li>	
-
-		    			
-		    		
-		    	
 		
 		
 		
@@ -2846,101 +2873,22 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 	
 	
 	<div class="header">
-		<div class="category">Receive Perc Points Today</div>
-		
-			
-				
-			
-
-
-
-
-	<div class="vote">
-		
-		
-		<a class="up" href="/views/genie/snippets/vote-success.jsp?recommendationId=10100030&amp;votedUp=true">
-			<img src="/resources/images/genie/thumbs-up.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-up.jsp?recommendationId=10100030" style="display:none" class="thumbs-up-link"></a>
-		<a class="down" href="/views/genie/snippets/vote-success.jsp?recommendationId=10100030&amp;votedUp=false">
-			<img src="/resources/images/genie/thumbs-down.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-down.jsp?recommendationId=10100030" style="display:none" class="thumbs-down-link"></a>
-	</div>
-
-
+		<div class="category">#NewReward - $10 Amazon Gift Card</div>
 		
 	</div>
 	
 	<div class="inner">
 		<div class="col col-first">
 			<div class="thumbnail">
-				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3130251_genie_thumb_percs.jpg">
+				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3680211_amazon_genie.jpg">
 			</div>
 		</div>
 		<div class="col col-last">
 			<div class="info">
-				<div class="title">Get rewarded for things you do every day. </div>
+				<div class="title">Get a $10 Amazon gift card today with your PERC points.</div>
 				<div class="cta">
-					<a class="custom custom-blue-sm" href="/rewards/">
-						<span>Sign Up Today &gt;</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-			
-			</li>
-		
-		
-	
-		
-		
-		
-		
-			
-			
-				
-					
-				
-				
-								
-				
-				
-								
-				
-				
-																						
-			
-			<li class="announcement" style="margin-right: 0px;">
-				
-					
-				
-
-
-
-
-
-
-	
-	
-	<div class="header">
-		<div class="category">#Personalized Apps</div>
-		
-	</div>
-	
-	<div class="inner">
-		<div class="col col-first">
-			<div class="thumbnail">
-				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3130255_genie_thumb_scout.jpg">
-			</div>
-		</div>
-		<div class="col col-last">
-			<div class="info">
-				<div class="title">Let Scout find the perfect apps for you.</div>
-				<div class="cta">
-					<a class="custom custom-blue-sm" href="/shop_and_learn/apps/android/apps_recognized.jsp">
-						<span>Download Scout &gt;</span>
+					<a class="custom custom-blue-sm" href="/shop_and_learn/promos/offer/?id=amazon_gift_card&amp;WT.ac=genie_2012_amazon_card">
+						<span>Learn More &gt;</span>
 					</a>
 				</div>
 			</div>
@@ -2982,44 +2930,22 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 	
 	
 	<div class="header">
-		<div class="category">#Holiday Promo</div>
-		
-			
-				
-			
-
-
-
-
-	<div class="vote">
-		
-		
-		<a class="up" href="/views/genie/snippets/vote-success.jsp?recommendationId=10100057&amp;votedUp=true">
-			<img src="/resources/images/genie/thumbs-up.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-up.jsp?recommendationId=10100057" style="display:none" class="thumbs-up-link"></a>
-		<a class="down" href="/views/genie/snippets/vote-success.jsp?recommendationId=10100057&amp;votedUp=false">
-			<img src="/resources/images/genie/thumbs-down.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-down.jsp?recommendationId=10100057" style="display:none" class="thumbs-down-link"></a>
-	</div>
-
-
+		<div class="category">Personalized 4G LTE is Here</div>
 		
 	</div>
 	
 	<div class="inner">
 		<div class="col col-first">
 			<div class="thumbnail">
-				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3130241_genie_thumb_galaxy.jpg">
+				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3680608_4g_genie_icon.png">
 			</div>
 		</div>
 		<div class="col col-last">
 			<div class="info">
-				<div class="title">THE FREE ANDROID EVENT</div>
+				<div class="title">4G LTE speed is now available.</div>
 				<div class="cta">
-					<a class="custom custom-blue-sm" href="/shop_and_learn/promos/android_holiday/">
-						<span>Shop Now &gt;</span>
+					<a class="custom custom-blue-sm" href="/shop_and_learn/4g/?WT.ac=genie_2012_4g_lte">
+						<span>Get Faster Now &gt;</span>
 					</a>
 				</div>
 			</div>
@@ -3061,277 +2987,24 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 	
 	
 	<div class="header">
-		<div class="category">Need some new music?</div>
-		
-			
-				
-			
-
-
-
-
-	<div class="vote">
-		
-		
-		<a class="up" href="/views/genie/snippets/vote-success.jsp?recommendationId=10100070&amp;votedUp=true">
-			<img src="/resources/images/genie/thumbs-up.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-up.jsp?recommendationId=10100070" style="display:none" class="thumbs-up-link"></a>
-		<a class="down" href="/views/genie/snippets/vote-success.jsp?recommendationId=10100070&amp;votedUp=false">
-			<img src="/resources/images/genie/thumbs-down.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-down.jsp?recommendationId=10100070" style="display:none" class="thumbs-down-link"></a>
-	</div>
-
-
+		<div class="category">PERCS with a Purpose</div>
 		
 	</div>
 	
 	<div class="inner">
 		<div class="col col-first">
 			<div class="thumbnail">
-				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3130234_genie_thumb_bmusicl.jpg">
+				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3700320_pp_genie_icon.jpg">
 			</div>
 		</div>
 		<div class="col col-last">
 			<div class="info">
-				<div class="title">Check out the latest in Bright Lights: Music.</div>
+				<div class="title">Share your Points to help breast cancer research.</div>
 				<div class="cta">
-					<a class="custom custom-blue-sm" href="/DiscoverCenter/cs-originals/music/browse-emerge.jsp#index.jsp">
-						<span>Go to Music &gt;</span>
+					<a class="custom custom-blue-sm" href="/rewards/purpose/?WT.ac=genie_purpose">
+						<span>Share Now &gt;</span>
 					</a>
 				</div>
-			</div>
-		</div>
-	</div>
-			
-			</li>
-		
-		
-	
-		
-		
-		
-		
-			
-			
-				
-					
-				
-				
-								
-				
-				
-								
-				
-				
-																						
-			
-			<li class="announcement">
-				
-					
-				
-
-
-
-
-
-
-	
-	
-	<div class="header">
-		<div class="category">Bright Lights: Football</div>
-		
-			
-				
-			
-
-
-
-
-	<div class="vote">
-		
-		
-		<a class="up" href="/views/genie/snippets/vote-success.jsp?recommendationId=11100030&amp;votedUp=true">
-			<img src="/resources/images/genie/thumbs-up.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-up.jsp?recommendationId=11100030" style="display:none" class="thumbs-up-link"></a>
-		<a class="down" href="/views/genie/snippets/vote-success.jsp?recommendationId=11100030&amp;votedUp=false">
-			<img src="/resources/images/genie/thumbs-down.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-down.jsp?recommendationId=11100030" style="display:none" class="thumbs-down-link"></a>
-	</div>
-
-
-		
-	</div>
-	
-	<div class="inner">
-		<div class="col col-first">
-			<div class="thumbnail">
-				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3130233_genie_thumb_blfootball.jpg">
-			</div>
-		</div>
-		<div class="col col-last">
-			<div class="info">
-				<div class="title">Tell us who you would like to see play next year</div>
-				<div class="cta">
-					<a class="custom custom-blue-sm" href="mailto:brightlights@cspire.com?subject=Suggestions for next year’s games">
-						<span>Send Suggestion &gt;</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-			
-			</li>
-		
-		
-	
-		
-		
-		
-		
-			
-			
-				
-					
-				
-				
-								
-				
-				
-								
-				
-				
-																						
-			
-			<li class="announcement">
-				
-					
-				
-
-
-
-
-
-
-	
-	
-	<div class="header">
-		<div class="category">Join Circle</div>
-		
-			
-				
-			
-
-
-
-
-	<div class="vote">
-		
-		
-		<a class="up" href="/views/genie/snippets/vote-success.jsp?recommendationId=6600032&amp;votedUp=true">
-			<img src="/resources/images/genie/thumbs-up.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-up.jsp?recommendationId=6600032" style="display:none" class="thumbs-up-link"></a>
-		<a class="down" href="/views/genie/snippets/vote-success.jsp?recommendationId=6600032&amp;votedUp=false">
-			<img src="/resources/images/genie/thumbs-down.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-down.jsp?recommendationId=6600032" style="display:none" class="thumbs-down-link"></a>
-	</div>
-
-
-		
-	</div>
-	
-	<div class="inner">
-		<div class="col col-first">
-			<div class="thumbnail">
-				<img src="/dyn/dyn/MEDIA_CustomProductCatalog/m3130239_genie_thumb_circle_icon.jpg">
-			</div>
-		</div>
-		<div class="col col-last">
-			<div class="info">
-				<div class="title">Help shape your future wireless services.</div>
-				<div class="cta">
-					<a class="custom custom-blue-sm" href="/community/">
-						<span>Join Today &gt;</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-			
-			</li>
-		
-		
-	
-		
-		
-		
-		
-			
-			
-				
-				
-								
-				
-								
-				
-				
-								
-				
-				
-																						
-			
-			<li class="article">
-				
-					
-				
-
-
-
-
-
-
-	
-	
-	<div class="header">
-		<div class="category">Why Shop Online?</div>
-		
-			
-				
-			
-
-
-
-
-	<div class="vote">
-		
-		
-		<a class="up" href="/views/genie/snippets/vote-success.jsp?recommendationId=7600027&amp;votedUp=true">
-			<img src="/resources/images/genie/thumbs-up.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-up.jsp?recommendationId=7600027" style="display:none" class="thumbs-up-link"></a>
-		<a class="down" href="/views/genie/snippets/vote-success.jsp?recommendationId=7600027&amp;votedUp=false">
-			<img src="/resources/images/genie/thumbs-down.png">
-		</a>
-		<a href="/views/genie/tooltips/thumbs-down.jsp?recommendationId=7600027" style="display:none" class="thumbs-down-link"></a>
-	</div>
-
-
-		
-	</div>
-	
-	<div class="inner">
-		<div class="info">
-			<h1>Buy Online, Pick Up In A Store</h1>
-			<p>Choose <b>Store Pickup</b> at checkout and have your order in an hour.</p>
-			<div class="cta">
-				<a class="custom custom-blue-sm" href="/shop_and_learn/devices/category_phones_list.jsp?id=cat30003">
-					<span>Start Shopping &gt;</span>
-				</a>
 			</div>
 		</div>
 	</div>
@@ -3359,11 +3032,15 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
                     </div>
                   </div>
                   <div id="recommendations-scroll-arrows">
-                    <a class="next" href="#">Next</a>
-                    <a class="previous" href="#">Previous</a>
+                    <a class="next hidden" href="#" style="display: none;">Next</a>
+                    <a class="previous hidden" href="#" style="display: none;">Previous</a>
                   </div>
                   <div class="genieShowHide">
-                  	<a class="genieHide" href="#">Hide Genie</a>
+	                  <div class="genieHideAll">
+	                  	<a class="genieHide" href="#">Hide Genie 
+	                  		<div id="genieCloseImage"></div> 
+	                  	</a> 
+                  	</div>	
                   </div>
                 </div>
               </div>
@@ -3372,23 +3049,11 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
           
 	<div id="genieSlim">
 		<div class="content">
-			
-				
-				
-				
-				
-			
-				
-				
-					<ul class="genieNav">
-						<li class="containsBtn"><div class="genieNavTitle"><a href="/my_account/personal/" target="_parent">Manage Your Account</a></div></li>
-						<li><div class="genieNavTitle"><a href="/rewards/" target="_parent">Receive Perc Points Today</a></div></li>
-						<li><div class="genieNavTitle"><a href="/shop_and_learn/apps/android/apps_recognized.jsp" target="_parent">#Personalized Apps</a></div></li>
-						<li><a class="textLink" href="/my_account/personal/my_billing/make_a_payment/">Pay Your Bill</a></li>
-					</ul>
-				
-				
-				
+			<ul class="genieNav">
+				<li><div class="genieNavTitle"><a href="/shop_and_learn/promos/offer/?id=amazon_gift_card&amp;WT.ac=genie_2012_amazon_card" target="_parent">#NewReward - $10 Amazon Gift Card</a></div></li>
+				<li><div class="genieNavTitle"><a href="/shop_and_learn/4g/?WT.ac=genie_2012_4g_lte" target="_parent">Personalized 4G LTE is Here</a></div></li>
+				<li><div class="genieNavTitle"><a href="/rewards/purpose/?WT.ac=genie_purpose" target="_parent">PERCS with a Purpose</a></div></li>
+			</ul>
 			
 			<div class="genieShowHide">
 				<a class="genieShow" href="#">Show Genie</a>
@@ -3453,23 +3118,59 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 
 
 
+
+<style type="text/css">li {padding-bottom: 2px;}</style>
 		<div id="footer">
 		  <div class="content">
-			<ul class="top clearfix">
-				<li class="intro"><a href="/shop_and_learn/apps/android/index.jsp"><img src="/resources/images/footer/scout-2.png" alt="Scout" style="margin-top:0px;"></a></li>
-				<li><a href="/community/"><img src="/resources/images/footer/circle-2.png" alt="Circle"></a></li>
-				<li><a href="/rewards/"><img src="/resources/images/footer/percs-2.png" alt="PERCS"></a></li>
+			
+			
 				
-				<li class="social">
-					<a href="http://www.facebook.com/cspire"><img alt="facebook" src="/resources/images/footer/social-facebook.png"></a>
-					<a href="http://twitter.com/cspire"><img alt="twitter" src="/resources/images/footer/social-twitter.png"></a>
-					<a href="http://www.youtube.com/cspire"><img alt="youtube" src="/resources/images/footer/social-youtube.png"></a>
-					<span>Follow Us On</span>
-				</li>
-			</ul>
+				
+			
+				
+				
+					<ul class="top clearfix">
+  
+  <!-- 295 -->
+  <li class="intro" style="margin-left: 335px;width:90px;">
+    <a href="/rewards/"><img style="margin-top:0px;" alt="PERCS" src="/resources/images/footer/percs_icon.png"></a>
+  </li>
+  
+  
+  <li style="width:90px;">
+    <a href="/shop_and_learn/apps/android/index.jsp"><img alt="SCOUT" src="/resources/images/footer/scout_icon.png"></a>
+  </li>
+  
+  
+  <!--<li style="width:90px;">
+    <a href="/newslink/"><img alt="NEWSLINK" src="/resources/images/footer/newslink_icon.png"></a>
+  </li>-->
+  
+  
+  <li style="width:90px;">
+    <a href="/shop_and_learn/plans/category_plan_landing.jsp"><img alt="CHOICE DATA" src="/resources/images/footer/choicedata_icon.png"></a>
+  </li>
+  
+  <li style="width:90px;">
+    <a href="/community/"><img alt="CIRCLE" src="/resources/images/footer/circle_icon.png"></a>
+  </li>
+    
+  
+  <!-- 9 -->
+  <li class="social" style="margin-left:69px;"> <a href="http://www.facebook.com/cspire">
+    <img alt="facebook" src="/resources/images/footer/social-facebook.png">
+    </a> <a href="http://twitter.com/cspire">
+    <img alt="twitter" src="/resources/images/footer/social-twitter.png">
+    </a> <a href="http://www.youtube.com/cspire">
+    <img alt="youtube" src="/resources/images/footer/social-youtube.png">
+    </a> <span>Follow Us On</span> </li>
+</ul>
+				
+			
+			
 			<div class="columns">
 				<div class="inner-wrapper clearfix">
-					<div style="width:19.9%;" class="column">
+					<div style="width:15.9%;" class="column">
 						<h2><a href="/shop_and_learn/devices/category_phones_list.jsp?id=cat30003">Shop &amp; Learn</a></h2>
 						<ul>
 							
@@ -3482,131 +3183,111 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 								
 									<li><a href="/shop_and_learn/devices/category_phones_list.jsp?id=cat30003">Devices</a></li>
 									<li><a href="/shop_and_learn/plans/category_plan_landing.jsp?id=cat320003">Plans</a></li>
+									<li><a href="/shop_and_learn/features/category_features_list.jsp?id=cat550006">Features</a></li>
+									<li><a href="/shop_and_learn/accessories/category_accessories_list.jsp?id=cat550004">Accessories</a></li>
 									<li><a href="/shop_and_learn/apps/android/index.jsp">Android Apps</a></li>
 									<li><a href="/shop_and_learn/apps/blackberry/apps_directory.jsp"> Blackberry Apps</a></li>
 									<li><a href="/shop_and_learn/apps/windows/apps_directory.jsp"> Windows Apps</a></li>
 									<li><a href="/landing/downloads.jsp?id=cat720005">Downloads</a></li>
-									<li><a href="/shop_and_learn/features/category_features_list.jsp?id=cat550006">Features</a></li>
-									<li><a href="/shop_and_learn/accessories/category_accessories_list.jsp?id=cat550004">Accessories</a></li>
 								
 							
-							<li><a href="/shop_and_learn/update_hub/">Device Software Updates</a></li>
-							<li><a href="/shop_and_learn/international_rates/index.jsp">International Roaming</a></li>
-							<li><a href="/tools/data_calculator/index.jsp">Data Calculator</a></li>
 							<li><a href="/giftcards/gift_cards.jsp?id=cat2110003">Gift Cards</a></li>
 							<li><a href="/rewards/">Rewards</a></li>
-							<li><a href="/shop_and_learn/why_cspire/index.jsp">Why C Spire?</a></li>
-						</ul>
-						
-									
-					</div>
-					<div style="width:19.9%;" class="column">
-						<h2><a href="/activation/activation.jsp">Activation</a></h2>
-						<ul>
-							<li><a href="/activation/activation.jsp">Activate Your Device</a></li>
-						</ul>
-						<h2><a href="/brightlights/">Watch</a></h2>
-						<ul>
-							<li><a href="/brightlights/football/rivalries.jsp">Bright Lights: Football</a></li>
-							
-							
-							
-						</ul>
-						<h2><a href="/brightlights/">Listen</a></h2>
-						<ul>
-							<li><a href="/DiscoverCenter/cs-originals/music/">Bright Lights: Music</a></li>
+							<li><a href="/tools/data_calculator/index.jsp">Data Calculator</a></li>
+							<li><a href="/comparetool/?WT.ac=f_compare_tool">Comparison Tool</a></li>
 						</ul>
 					</div>
-					<div style="width:19.9%;" class="column">
-					    <h2><a href="/community/">Connect &amp; Share</a></h2>
-						<ul>
-							<li><a href="/community">Circle</a></li>
-							<li><a href="/community/inner_circle/">Inner Circle</a></li>
-							<li><a href="/social">Social</a></li>
-							<li><a href="/TextMessaging/sendMessage.jsp">Send a Text</a></li>
-						</ul>	 
-				
-						<h2><a href="/company_info/about_us/index.jsp">Company Info</a></h2>
+					<div style="width:15.9%;" class="column">
+					    <h2><a href="/company_info/about_us/index.jsp">Company Info</a></h2>
 						<ul>
 							<li><a href="/company_info/about_us/index.jsp">About C Spire</a></li>
 							<li><a href="/company_info/news/index.jsp">News</a></li>
 							<li><a href="/company_info/events/index.jsp">Events</a></li>
-							<li><a href="/coverage/index.jsp#/stores">Store Locator</a></li>
-							<li><a href="/coverage/">Coverage Map</a></li>
 							<li><a href="/careers/">Careers</a></li>
 							<li><a href="/company_info/special_programs/wireless_safety/index.jsp">Special Programs</a></li>
 							<li><a href="/company_info/about_us/Lifeline_Assistance.jsp">Lifeline Assistance</a></li>
-							<li><a href="/sponsorship/" target="_blank">Sponsorship and Grants</a></li>
+							<li><a href="/sponsorship/" target="_blank">Sponsorship &amp; Grants</a></li>
+							<li><a href="/coverage/">Coverage Map</a></li>
+							<li><a href="/personalized_wireless/">Personalized Wireless</a></li>
 						</ul>
 					</div>
-					<div style="width:19.9%;" class="column">
+					<div style="width:15.9%;" class="column">
 						
 						
 						
-					    <h2><a href="/my_account/personal/index.jsp">My Account</a></h2>
-						<ul>
-							
-								
-								
-								
-							
-								
-								
-								
-									<li><a href="/my_account/personal/my_billing/index.jsp?navAction=jump&amp;navCount=0&amp;id=cat12620052">Pay Bill</a></li>	
-								
-														
 							
 							
-								
-								
+							
+						
 							
 							
 							
 								
-								
-								
-							
-								
-								
-																	
-									<li><a href="/my_account/personal/profile/index.jsp">My Profile</a></li>	
-									<li><a href="/my_account/personal/index.jsp">My Services</a></li>
-								
-							
-							
-							
-								
-								
-							
-								
-								
+								<h2><a href="/sso/login.jsp?RelayState=/my_account/personal/index.jsp">My Account</a></h2>
+								<ul>
+									<li><a href="/sso/login.jsp?RelayState=/my_account/personal/my_billing/index.jsp?navAction=jump&amp;navCount=0&amp;id=cat12620052">Pay Bill</a></li>	
+									<li><a href="/sso/login.jsp?RelayState=/my_account/personal/profile/index.jsp">My Profile</a></li>	
+									<li><a href="/sso/login.jsp?RelayState=/my_account/personal/index.jsp">My Services</a></li>
 									<li><a href="/my_account/personal/express_pay/index.jsp">Express Pay</a></li>
-									<li><a href="http://prodapi.cspire.com/SAML2/SSO/Register.htm?postRegURL=http%3a%2f%2fwww.cspire.com%3a80%2flegal%2fgeneral_landing.jsp%3fid%3d%2fgeneric%2fprivacyPolicy" title="Register">Register</a></li>
-									<li><a href="/sso/login.jsp?RelayState=http%3a%2f%2fwww.cspire.com%3a80%2flegal%2fgeneral_landing.jsp%3fid%3d%2fgeneric%2fprivacyPolicy">Sign In</a></li>
-								
+									<li><a href="https://prodapi.cspire.com/SAML2/SSO/Register.htm?postRegURL=http%3a%2f%2fwww.cspire.com%3a80%2flegal%2fgeneral_landing.jsp%3fid%3d%2fgeneric%2fprivacyPolicy" title="Register">Register</a></li>
+								</ul>
 							
-						</ul>
 						
-						<h2><a href="/business/index.jsp">Business Accounts</a></h2>
+					</div>
+					<div style="width:15.9%;" class="column">
+						<h2><a href="/business/index.jsp">Business &amp; Government</a></h2>
 						<ul>
 							<li><a href="/business/index.jsp">Business Home</a></li>
-							<li><a href="/sso/login.jsp?RelayState=http%3a%2f%2fwww.cspire.com%3a80%2flegal%2fgeneral_landing.jsp%3fid%3d%2fgeneric%2fprivacyPolicy">Manage Account</a></li>
-							<li><a href="/business/page.jsp?id=/generic/Business/PhonesList">Phones</a></li>
-							<li><a href="/business/page.jsp?id=/generic/Business/PlansList">Plans &amp; Features</a></li>
+							<li><a href="/msgov/">Government Home</a></li>
+							<li><a href="/sso/login.jsp?RelayState=http%3a%2f%2fwww.cspire.com%3a80%2flegal%2fgeneral_landing.jsp%3fid%3d%2fgeneric%2fprivacyPolicy">Manage Wireless Account</a></li>
+							<li><a href="/business/wireless.jsp">Wireless</a></li>
+							<li><a href="/business/hd_voice.jsp">HD Voice</a></li>
+							<li><a href="/business/broadband.jsp">Internet</a></li>
 						</ul>
-					</div>	
-					<div style="width:19.9%;" class="column">
-						<h2><a href="/help/">Help</a></h2>
+					</div>
+					<div style="width:15.9%;" class="column">
+						<h2><a href="/help/support_forum/support.jsp">Help</a></h2>
 						<ul>
 							<li><a href="/help/support_forum/support.jsp">Support</a></li>
-							<li><a class="chatLink" href="#">Live Chat</a></li>
+							<li><a class="chat_footer_link hide_div chat_footer_success" href="#">Live Chat</a></li>
 							<li><a href="/help/text_cs/">TextCS</a></li>
-							
-							<li><a href="/help/support_forum/orders.jsp">Check Order Status</a></li>
-							<li><a href="http://www.web-rebates.com/" target="_blank">Reward Card Information</a></li>
-							<li><a href="/help/hac/hac.jsp">Hearing Aid Compatibility</a></li>
 							<li><a href="/help/contact_us/contact_us.jsp">Contact Us</a></li>
+							
+							<li><a href="/help/hac/hac.jsp">Hearing Aid<br>Compatibility</a></li>
+							<li><a href="/coverage/index.jsp#/stores">Store Locator</a></li>
+						</ul>
+						<h2><a href="/community/">Connect</a></h2>
+						<ul>
+							<li><a href="/community">CIRCLE</a></li>
+							<li><a href="/community/inner_circle/">INNER CIRCLE</a></li>
+							<li><a href="/social">Social Central</a></li>
+							<li><a href="/TextMessaging/sendMessage.jsp">Send a Text</a></li>
+							<li><a href="/brightlights/football/rivalries.jsp">Bright Lights: Football</a></li>
+							<li><a href="/DiscoverCenter/cs-originals/music/">Bright Lights: Music</a></li>
+						</ul>
+					</div>
+					
+					<div style="width:15.9%;" class="column">
+						<h2>Popular Links</h2>
+						<ul>
+							
+								
+								
+								
+							
+								
+								
+								
+									
+									<li><a href="https://prodapi.cspire.com/SAML2/SSO/Register.htm?postRegURL=%2frewards%2f" title="Register">Register for PERCS</a></li>
+								
+							
+							<li><a href="/comparetool/?WT.ac=f_compare_tool_q">Why Switch to C Spire?</a></li>
+							<li><a href="/help/support_forum/orders.jsp">Check Order Status</a></li>
+							<li><a href="/activation/activation.jsp">Activate Your Device</a></li>
+							<li><a href="/shop_and_learn/update_hub/">Device Software Updates</a></li>
+							<li><a href="http://cspire.rewardpromo.com/" target="_blank">Reward Card Info</a></li>
+							<li><a href="/shop_and_learn/international_rates/index.jsp">International Roaming</a></li>
 						</ul>
 						<h2>Legal</h2>
 						<ul>
@@ -3632,7 +3313,7 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 						</ul>
 					</div>
 				</div>
-				<p><br>© 2011 C Spire. All rights reserved.</p>
+				<p style="clear:both;"><br>© 2012 C Spire. All rights reserved.</p>
 			</div>
 		</div>
 	</div>
@@ -3642,6 +3323,10 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 </div><!-- wrapper end tag -->
 
 
+<div id="processingLayer" class="processing" style="display:none;">
+	<img alt="Loading" src="/resources/images/loading-blue.gif"> processing your request...
+</div>
+	
 
 
 	
@@ -3671,12 +3356,6 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 	
 		
 		
-		
-		
-	
-
-	
-	
 		
 		
 	
@@ -3689,6 +3368,12 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 
 	
 	
+		
+		
+	
+
+	
+	
 	
 		
 		
@@ -3732,6 +3417,14 @@ Attn: Wade Smith, Director, Product Development &amp; Management</p>
 	
 	
 		
+		
+	
+		
+		
+			
+				
+				
+			
 		
 	
 
@@ -4313,7 +4006,6 @@ dcsTag();
 	
 		
 		
-
 
 
 
