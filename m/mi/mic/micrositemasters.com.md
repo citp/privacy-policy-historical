@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micrositemasters.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619042206id_/http%3A//www.micrositemasters.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micrositemasters.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028053625id_/http%3A//www.micrositemasters.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Microsite Masters - Privacy Policy
 
@@ -65,7 +65,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 dealings with this site, please contact us at:  
 Microsite Masters, LLC  
 http://www.micrositemasters.com  
-6755 Business Parkway - Suite 403, Elkridge, MD 21075  
+10045 Red Run Blvd - Suite 360, Owings Mills, MD 21117  
 staff@micrositemasters.com
 
-**This document was last updated on May 13th, 2012**
+**This document was last updated on August 12th, 2012**
