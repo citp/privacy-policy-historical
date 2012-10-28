@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812065228id_/https%3A//secure.bellonline.co.uk/terms/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028231330id_/https%3A//secure.bellonline.co.uk/terms/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+1) Privacy Policy
+
+2) Cookies Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -18,21 +22,7 @@ We may collect, store and use the following kinds of personal information:
 
 (e) any other information that you choose to send to us.
 
-**(2) Cookies**
-
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
-
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; and any billing/support desk or control panel login. We will use the persistent cookies to: enable our website to recognise you when you visit so that you don't have to log in on every visit.
-
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
-
-Our advertisers/payment services providers may also send you cookies. 
-
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
-
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
-
-**(3) Using your personal information**
+**(2) Using your personal information**
 
 Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -77,7 +67,7 @@ We will not without your express consent provide your personal information to an
 
 All our website financial transactions are handled through our payment services providers, PayPal and Nochex. You can review the PayPal privacy policy at www.paypal.com and nochex at www.nochex.co.uk. We will share information with PayPal and Nochex only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
-**(4) Disclosures**
+**(3) Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -95,7 +85,7 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-**(5) Security of your personal information**
+**(4) Security of your personal information**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
@@ -105,11 +95,11 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
 
-**(6) Policy amendments**
+**(5) Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
 
-**(7) Your rights**
+**(6) Your rights**
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
@@ -121,20 +111,92 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
-**(8) Third party websites**
+**(7) Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**(9) Updating information**
+**(8) Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(10) Contact**
+**(9) Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to sales@bellonline.co.uk or by post to Bell Online Ltd, 33 The Laurels, Kingsbury, STAFFS, B78 2PH.
 
-**(11) Data controller**
+**(10) Data controller**
 
 The data controller responsible in respect of the information collected on this website is Bell Online Ltd. 
 
-**Copyright © Bell Online Ltd 2010**
+Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+
+**About cookies**
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser, and stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+Cookies can be used by web servers to identity and track users as they navigate different pages on a website and to identify users returning to a website. 
+
+Cookies may be either “persistent” cookies or “session” cookies. A persistent cookie consists of a text file sent by a web server to a web browser, which will be stored by the browser and will remain valid until its set expiry date (unless deleted by the user before the expiry date). A session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+**Cookies on this website**
+
+We use both session cookies and persistent cookies on this website.
+
+**How we use cookies**
+
+Cookies do not contain any information that personally identifies you, but personal information that we store about you may be linked, by us, to the information stored in and obtained from cookies.
+
+We may use the information we obtain from your use of our cookies for the following purposes: 
+
+  1. to recognise your computer when you visit our website; 
+  2. to track you as you navigate our website, and to enable the use of the shopping cart on our website; 
+  3. to improve the website’s usability; 
+  4. to analyse the use of our website; 
+  5. in the administration of this website; 
+  6. to prevent fraud and improve the security of the website; 
+  7. to personalise our website for you, including targeting advertisements which may be of particular interest to you. 
+
+
+
+**Third party cookies**
+
+When you use our website, you may also be sent third party cookies.
+
+Our advertisers/service providers may send you cookies. They may use the information they obtain from your use of their cookies: 
+
+  1. to track your browser across multiple websites; 
+  2. to build a profile of your web surfing; 
+  3. to target advertisements which may be of particular interest to you. 
+
+
+
+Our advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website.
+
+We publish Google Adsense interest-based advertisements on some of our websites. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy/ads/ or using the NAI's (Network Advertising Initiative's) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
+
+**Blocking cookies**
+
+Most browsers allow you to refuse to accept cookies. For example: 
+
+  1. in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector; 
+  2. in Firefox you can block all cookies by clicking “Tools”, “Options”, and un-checking “Accept cookies from sites” in the “Privacy” box. 
+
+
+
+Blocking all cookies will, however, have a negative impact upon the usability of many websites. If you block cookies, you will not be able to use the shopping cart, forums, control panels and other areas on this website. 
+
+**Deleting cookies**
+
+You can also delete cookies already stored on your computer: 
+
+  1. in Internet Explorer, you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835); 
+  2. in Firefox, you can delete cookies by, first ensuring that cookies are to be deleted when you “clear private data” (this setting can be changed by clicking “Tools”, “Options” and “Settings” in the “Private Data” box) and then clicking “Clear private data” in the “Tools” menu. 
+
+
+
+Doing this may have a negative impact on the usability of many websites. 
+
+**Contact us**
+
+This website is owned and operated by Bell Online Ltd.
+
+If you have any questions about our cookies or this cookies policy, please contact us by email (at https://secure.bellonline.co.uk/contact.php), by telephone (to 0844 3304 678) or by post (to 33 The Laurels, Kingsbury, B78 2PH, UK).
