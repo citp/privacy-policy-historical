@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614073455id_/http%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028160746id_/http%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-### Shmoop Privacy Policy
-
-* * *
-
-As of October 5, 2009
 
 **Shmoop University, Inc. Privacy Policy**
 
@@ -142,5 +136,5 @@ Shmoop gathers, aggregates, processes, stores, discloses, and disposes of person
 If you have any questions or suggestions regarding our Privacy Policy, please use our online form to [contact us](https://web.archive.org/public/feedback/).  
 You may also email [support@shmoop.com](mailto:support@shmoop.com) or send postal mail to   
 Shmoop University Inc.,  
-P.O. Box 70186,   
-Sunnyvale, CA 94086. 
+P.O. Box 0935   
+Los Altos, CA 94023-0935 
