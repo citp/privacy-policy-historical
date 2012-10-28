@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the independent.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628000527id_/http%3A//www.independent.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independent.com privacy policy that was archived on 2012-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028065055id_/http%3A//www.independent.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta name="y_key" content="33d4a6dfbd23f58a">
@@ -213,6 +213,11 @@ img {border: 0;}
 }
 .calendarnav a:link, #calendarnav a:visited, #calendarnav a:hover {
 }
+#top-search{padding-top:50px}
+#top-search input.submit{border:1px solid #999;border-left:1px solid #6b8af9}
+#top-search input.submit:hover{border:1px solid #181818;border-left:1px solid #6b8af9}
+#top-search input[type=text]{color:#bbb;width:100px;height:14px;padding:3px;padding-right:40px;outline:none;border:1px solid #999;border-right:0px;background-color:#FBFBFB;font-family:Helvetica,Arial,sans-serif;font-size:14px; -webkit-transition:background-color .2s ease-in, background-position .2s ease-in, box-shadow .3s ease-in; -moz-transition:background-color .2s ease-in, background-position .2s ease-in, box-shadow .3s ease-in; -o-transition:background-color .2s ease-in, background-position .2s ease-in, box-shadow .3s ease-in; -ms-transition:background-color .2s ease-in, background-position .2s ease-in, box-shadow .3s ease-in; transition:background-color .2s ease-in, background-position .2s ease-in, box-shadow .3s ease-in}
+#top-search input[type=text]:focus{color:#181818;background-color:#FFF;border-color:#333;border-right:0px;box-shadow:0px 0px 7px -2px #333;}
 </style>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -328,17 +333,19 @@ $(document).ready(function() {
 <a href="/"><img style="width:347px;height:57px;" src="http://media.independent.com/swf/Indy_logoWeb6.png"></a>
 </div>
 
-<div style="float:left;width:100px;margin:0px;padding:0px;margin-right:55px;">
-<div style="width:55px;height:65px;float:left;"><a href="/weather/"><img style="width:55px;height:65px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif"></a></div>
-<div style="height:45px;width:45px;float:left;clear:right;"><a href="/weather/"><img style="width:45px;height:45px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif"></a></div>
-<div style="font-family:Georgia;font-size:16px;color:#990000;padding-top:0px;margin-top:0px;" align="center" id="curcon"><a style="color:#990000;font-weight:500;" href="/weather/">78.1°</a></div>
+<div style="float:left;width:135px;margin:0px;padding:0px;margin-right:45px;">
+<div style="width:55px;height:65px;float:left;"><a href="/weather/" title="Click for Current Conditions and Forecast"><img style="width:55px;height:65px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif"></a></div>
+<div style="height:45px;width:80px;float:left;clear:right;"><a href="/weather/" title="Click for Current Conditions and Forecast"><img style="width:80px;height:45px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif"></a></div>
+<div style="font-family:Georgia;font-size:21px;color:#990000;padding-top:0px;margin-top:0px;" align="center" id="curcon"><a style="color:#990000;font-weight:500;" href="/weather/" title="Click for Current Conditions and Forecast">60.4°</a></div>
+<div style="width:50px;height:16px;float:left;"><a href="/weather/" title="Click for Current Conditions and Forecast"><img style="width:50px;height:16px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif"></a></div>
+<div style="width:85px;float:left;" align="center"><a href="/weather/" style="font-size:80%;cursor:pointer;" title="Click for Current Conditions and Forecast">WEATHER <font style="font-size:140%;">»</font></a></div>
 </div>
 
-<div id="top-search" style="margin-left:0px;">
+<div id="top-search" style="margin-left:0px;height:28px;width:171px;">
 <form method="get" action="http://www.google.com/custom" target="_top">
 <input type="hidden" name="domains" value="independent.com">
-<p><input type="text" name="q" size="15" maxlength="255" value="">
-<input class="submit" name="sa" value="Search" type="image" src="http://media.independent.com/img/search.gif"></p>
+<p><input type="text" name="q" size="15" maxlength="255" value="" placeholder="Search Here..." style="float:left;">
+<input class="submit" name="sa" value="Search" type="image" src="http://media.independent.com/img/search/search20px.png" style="margin-left:0px;padding-left:0px;float:left;" title="Search"></p>
 <input type="hidden" name="sitesearch" value="independent.com" style="border:0px;" checked="checked">
 <input type="hidden" name="sitesearch" value="" style="border:0px;">
 <input type="hidden" name="client" value="pub-6572077223973871">
@@ -348,7 +355,7 @@ $(document).ready(function() {
 <input type="hidden" name="cof" value="GALT:#0066CC;GL:1;DIV:#999999;VLC:336633;AH:center;BGC:FFFFFF;LBGC:FF9900;ALC:0066CC;LC:0066CC;T:000000;GFNT:666666;GIMP:666666;FORID:1">
 <input type="hidden" name="hl" value="en">
 </form>
-</div><!-- /search -->  
+</div><!-- /search --> 
     
 <div id="top-ad" style="margin-top:15px;">
 <script type="text/javascript">
@@ -659,9 +666,9 @@ Santa Barbara, CA, 93101</p>
 
 
 <div style="width:130px;float:left;padding-right:10px;border-right:1px solid #ddd;">
-<div><a href="/events/2012/jun/27/22341/"><img id="bbimg" style="width:130px;" src="http://media.independent.com/img/events/2012/lw5_t130.jpg?53bc78d818e4e8e1b6845fcce80b645e712e3a0b"></a></div>
-<h4 id="22341"><a href="/events/2012/jun/27/22341/"><em>Little Women</em></a></h4>
-<p class="mrecent">A musical based on the beloved classic novel by Louisa ... <a href="/events/2012/jun/27/22341/"> Read More</a></p>
+<div><a href="/events/2012/oct/28/26711/"><img id="bbimg" style="width:130px;" src="http://media.independent.com/img/events/2012/13_t130.jpg?53bc78d818e4e8e1b6845fcce80b645e712e3a0b"></a></div>
+<h4 id="26711"><a href="/events/2012/oct/28/26711/"><em>La Razón Blindada</em></a></h4>
+<p class="mrecent">Performed entirely in Spanish with English supertitles, this play tells ... <a href="/events/2012/oct/28/26711/"> Read More</a></p>
 </div>
 
 
@@ -670,21 +677,17 @@ Santa Barbara, CA, 93101</p>
 <h5 style="font-family:Helvetica, san-serif;color:#666;margin-top:0px;">ALSO TODAY</h5>
 
 
- 
+
 
 <ul>
 
-    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/jun/29/24808/"><em>The Rivals</em></a></li>
+    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/oct/27/27008/">Native Plant Sale</a></li>
 
-    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/jun/27/25052/">Bacara Solstice</a></li>
+    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/oct/27/26964/">Owl-O-Ween: A Family Nature Adventure</a></li>
 
-    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/jun/27/24929/"><em>Briars in the Cottonpatch</em></a></li>
+    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/oct/27/26394/">Bruegala Buellton</a></li>
 
-    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/jun/27/22341/"><em>Little Women</em></a></li>
-
-    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/ongoing/25137/">Summer Fun! Wednesday Art Workshops </a></li>
-
-    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/jun/27/25130/">Eileen Boris</a></li>
+    <li style="list-style-type:square;list-style-position:inside;margin-bottom:5px;"><a href="/events/2012/oct/28/26711/"><em>La Razón Blindada</em></a></li>
 
 </ul>
 
@@ -721,8 +724,8 @@ addEvent(window, 'load', function() {
 	&&
 	navigator.userAgent.indexOf('Mac') != -1) return; /* Unfortunate browser detect for IE5/Mac */
     eventcal = new Calendar("eventcal", "go_to_event_date");
-    eventcal.drawDate(06, 2012);
-    document.getElementById('c2762012').style.backgroundColor = '#f4b371';
+    eventcal.drawDate(10, 2012);
+    document.getElementById('c27102012').style.backgroundColor = '#f4b371';
 });
 </script>
 
@@ -743,7 +746,7 @@ addEvent(window, 'load', function() {
 <div id="sc1" class="tabcontent">
 <img style="width:258px;height:12px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif">
 <a href="/news/in-print/"><img style="width:51px;height:192px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif"></a>
-<a href="/news/in-print/"><img src="http://media.independent.com/img/photos/2012/06/20/Solstice_336_t148.jpg?0edadd65ae7047733afece0e38e20aad17eda05d"></a>
+<a href="/news/in-print/"><img src="http://media.independent.com/img/photos/2012/10/24/BLEedp01_Cover2InJustice_35_t148.jpg?0edadd65ae7047733afece0e38e20aad17eda05d"></a>
 <a href="/news/in-print/"><img style="width:51px;height:192px;" src="http://media.independent.com/weather-bg-imgs/1x1trnsp.gif"></a>
 <a href="/news/in-print/"><img src="http://media.independent.com/in%20print%20tab%20box/images/twi.png"></a>
 </div>
@@ -752,15 +755,19 @@ addEvent(window, 'load', function() {
     
     <ul>
     
-    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2012/apr/12/2012-summer-camp-guide/">Summer Adventure Guide 2012</a></li>
+    <li style="list-style-type:none;font-weight:600;"><a href="hhttp://www.independent.com/news/2012/sep/20/2012-fall-arts-preview/">2012 Fall Arts Preview</a></li>
+    
+    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2012/sep/27/2012-foodies/">The 2012 Foodies</a></li>
+    
+    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/bands/">Local Bands</a></li>
     
     <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2012/feb/23/2012-wedding-resource-guide/">2012 Wedding Resource Guide</a></li>
     
     <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2012/jun/14/blue-green-2012/">Blue Green Guide 2012</a></li>
     
-    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2012/jun/21/2012-summer-arts-preview/">Summer Arts Preview 2012</a></li>
+    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/documents/2012/jul/13/2012-calendar-fundraisers/">2012 Calendar of Fundraisers</a></li>
     
-    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/bands/">Local Bands</a></li>
+    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2012/apr/12/2012-summer-camp-guide/">Summer Adventure Guide 2012</a></li>
     
     <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2011/oct/20/best-santa-barbara-2011/">Best Of 2011</a></li>
     
@@ -768,14 +775,10 @@ addEvent(window, 'load', function() {
     
     <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2011/nov/23/local-heroes-2011/">Local Heroes 2011</a></li>
     
-    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/documents/2011/mar/04/2011-calendar-fundraisers/">2011 Calendar of Fundraisers</a></li>
-    
-    <li style="list-style-type:none;font-weight:600;"><a href="http://www.independent.com/news/2011/sep/29/2011-foodies/">2011 Foodie Awards</a></li>
-    
     </ul>
 </div>
 <div id="sc3" class="tabcontent">
- <ol><li><a href="/news/2012/jun/21/residential-ocean-liner-stops-santa-barbara/">Residential Ocean Liner Stops in Santa Barbara</a></li><li><a href="/news/2012/jun/21/smelly-bird-refuge-mystery/">The Stinky Bird Refuge Mystery</a></li><li><a href="/news/2012/jun/21/judge-orders-montecito-motors-owners-prison-and-pa/">Judge Orders Montecito Motors Owners to Prison and to Pay Millions</a></li><li><a href="/news/2012/jun/26/santa-barbara-zoo-giraffe-dies/">Santa Barbara Zoo Giraffe Dies</a></li><li><a href="/news/2012/jun/23/weekend-poodle-alert/">Weekend Poodle Alert</a></li><li><a href="/news/2012/jun/23/olympic-mettle/">Olympic Mettle</a></li></ol>
+ <ol><li><a href="/news/2009/apr/19/lost-secrets-sunbird-quicksilver-mine/">Lost Secrets of the Sunbird Quicksilver Mine</a></li><li><a href="/news/2012/oct/18/mysterious-case-christopher-marks/">The Mysterious Case of Christopher Marks</a></li><li><a href="/news/2012/oct/23/fatal-shark-attack-surf-beach/">Fatal Shark Attack at Surf Beach</a></li><li><a href="/news/2012/oct/24/miramar-stuck-more-muck/">Miramar Stuck in More Muck</a></li><li><a href="/news/2012/oct/22/former-sbpd-detective-trial/">Former SBPD Detective on Trial</a></li><li><a href="/news/2012/oct/25/budget-ax-falls-community-clinics/">Budget Ax Falls on Community Clinics</a></li></ol>
 </div>
 </div>
 
@@ -800,21 +803,21 @@ addEvent(window, 'load', function() {
 
 <ul id="adcomments">
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78414">banjo on "Car Crashes into Bank of America"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78414">If he gassed up on the Chevron on Coast Village Road, then he probably needed to make an emergency withdrawal to pay the ...</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/27/sprint-finish/?on#c85197">billclausen on "Sprint to the Finish"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/27/sprint-finish/?on#c85197">What comes to my mind is the image of contestants on Wheel Of Fortune spinning the wheel saying "Big money, c'mon big money".</a></li>
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78413">lawdy on "Car Crashes into Bank of America"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78413">He had just gassed up at the chevron, and his mind was still reeling from the volume of the tv screen ads.</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/27/whose-god/?on#c85196">billclausen on "Whose God?"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/27/whose-god/?on#c85196">"The God of my understanding teaches kindness, compassion, forgiveness, love, honesty, integrity, goodness, truth and beauty." Then why does your God allow these ...</a></li>
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78412">Ken_Volok on "Car Crashes into Bank of America"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78412">These incidences are often a result of an elderly driver being under medication.</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/24/miramar-stuck-more-muck/?on#c85195">billclausen on "Miramar Stuck in More Muck"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/24/miramar-stuck-more-muck/?on#c85195">This is starting to get like Blazing Saddles.</a></li>
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/23/weekend-poodle-alert/?on#c78411">fmrlobbyist on "Weekend Poodle Alert"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/23/weekend-poodle-alert/?on#c78411">I believe that the Presidential Suite is going to be named The Salud Carbajal Suite. With 24/7/365 access.</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/25/five-eucalypti-declared-historic/?on#c85194">henryjk on "Five Eucalypti Declared 'Historic'"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/25/five-eucalypti-declared-historic/?on#c85194">If anyone in town had those gigantic eucalypti towering over their homes or businesses and planted only ten feet from the wall of ...</a></li>
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78410">Draxor on "Car Crashes into Bank of America"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/26/car-crashes-bank-america/?on#c78410">Could've happened to a worser bank, but it didn't. Wait a minute---they're pretty much ALL bad.</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/27/whose-god/?on#c85193">RexOfSB on "Whose God?"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/27/whose-god/?on#c85193">Very eloquently spoken. When I see how the evangelical "christians" have hijacked the Republican party I cringe for our country, should Romney be ...</a></li>
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/25/make-it-work-stops-working/?on#c78409">Draxor on "Make It Work Stops Working"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/25/make-it-work-stops-working/?on#c78409">CNTRL+ALT+DELETE = TIME TO REBOOT</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/25/budget-ax-falls-community-clinics/?on#c85192">at_large on "Budget Ax Falls on Community Clinics"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/25/budget-ax-falls-community-clinics/?on#c85192">Why does converting to digital cost so much and is this an on-going expense? Why did they let two medical professionals (and what ...</a></li>
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/27/lead-kills-condors/?on#c78408">billclausen on "Lead Kills Condors"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/27/lead-kills-condors/?on#c78408">By the way Binky, I like your suggestion of the Anti-Saloon League. The visual of myself, and others--including Wolverine--huddled together in an old ...</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/25/five-eucalypti-declared-historic/?on#c85191">Ken_Volok on "Five Eucalypti Declared 'Historic'"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/25/five-eucalypti-declared-historic/?on#c85191">At least one day we can get rid of "the structure bridging" the gallery and the library and plant more eucalyptus.</a></li>
 
-<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/jun/27/lead-kills-condors/?on#c78407">billclausen on "Lead Kills Condors"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/jun/27/lead-kills-condors/?on#c78407">I have to side with the Tree Huggers on this one. While I'm not a college-educated intellectual like so many others in these ...</a></li>
+<li><a style="color:#99CCCC;font-weight:bold;" href="/news/2012/oct/26/case-obama/?on#c85190">binky on "The Case for Obama"</a>  <a style="color:#fff;font-weight:bold;" href="/news/2012/oct/26/case-obama/?on#c85190">Well said, hodgmo.</a></li>
 
 </ul>
 		<script type="text/javascript">
