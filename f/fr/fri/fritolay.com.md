@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630173242id_/http%3A//www.fritolay.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028040802id_/http%3A//www.fritolay.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Frito-Lay
 
