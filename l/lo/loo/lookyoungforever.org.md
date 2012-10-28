@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lookyoungforever.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521003852id_/http%3A//www.lookyoungforever.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookyoungforever.org privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028021030id_/http%3A//www.lookyoungforever.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Looking Young Forever | Looking Young Forever
+# Looking Young Forever | Privacy Policy
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.lookyoungforever.org%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -22,3 +24,5 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of then you may contact us at 
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.lookyoungforever.org%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
