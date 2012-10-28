@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsdealer.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602192304id_/http%3A//www.gadgetsdealer.com/m-article-id-83.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsdealer.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028095327id_/http%3A//www.gadgetsdealer.com/m-article-id-83.html) for the most accurate reproduction.*
 
 # Privacy Policies - Gadgetsdealer.com
 
@@ -27,12 +27,17 @@ Where relevant, we also collect personally identifiable information, which consi
 **Notice of changes to this privacy policy  
 ** We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our website and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
 
-**what kind of email are you sending to the customer**   
+**What kind of email are you sending to the customers?**  
 We send email content to our customers as following:  
-Transaction mail, Shipping notification, Weekly deal, Promotion, Activity, 
+Transaction mail, Shipping notification, Weekly deal, Promotion, Activity.
 
-**address, phone number and email**   
-1333 Arlington Blvd, Davis, CA 95616-2658, USA +1 530-419-5986,[Contact Us ](https://web.archive.org/web/20120602192304id_/http%3A//www.gadgetsdealer.com/m-article-id-12.html)
+ **Address, phone number and email**
 
-**how to unsubscribe**   
-You can unsubscribe from any email or you personal subscribe setting after logged in.
+  
+1333 Arlington Blvd, Davis, CA 95616-2658, USA +1 530-419-5986, [Contact Us ](http://www.gadgetsdealer.com/eload_admin/m-article-id-12.html)  
+Email:support@gadgetsdealer.com
+
+ **How to unsubscribe?**
+
+  
+You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
