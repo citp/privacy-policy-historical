@@ -1,54 +1,12 @@
-> *The following text is extracted and transformed from the rejuvenation.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501102944id_/http%3A//www.rejuvenation.com/faqnumberid3b3ccccd6940c/faq/faqshow.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rejuvenation.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028225907id_/http%3A//www.rejuvenation.com/customer-service/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Your privacy is important to us, and we want you to feel comfortable with what information we share, and when and why we share it. Of course, we always want you to know you can opt out of sharing your information at any time. The lowdown is all right here...
-
-Terms & Conditions
-
-Welcome to Rejuvenation.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm® and Rejuvenation®.
-
-Please take a few minutes to review these Terms and Conditions. Your purchase of products from us constitutes your agreement to follow these Terms and Conditions and to be bound by them.
-
-**These Terms and Conditions May Change**
-
-Williams-Sonoma, Inc. Brands reserves the right to update or modify these Terms and Conditions at any time without prior notice. For this reason, we encourage you to review these Terms and Conditions whenever you purchase products from us or use our Web Site.
-
-Use of Our Web Site
-
-**User Comments**
-
-We welcome your comments about our Web Site. However, any comments, feedback, notes, messages, ideas, suggestions or other communications (collectively "Comments") sent to our Web Site shall be and remain the exclusive property of Williams-Sonoma, Inc. Brands. Your submission of any such Comments shall constitute an assignment to Williams-Sonoma, Inc. Brands of all worldwide rights, titles and interests in all copyrights and other intellectual property rights in the Comments. Williams-Sonoma, Inc. Brands will be entitled to use, reproduce, disclose, publish and distribute any material you submit for any purpose whatsoever, without restriction and without compensating you in any way. For this reason, we ask that you not send us any comments that you do not wish to assign to us, including any confidential information or any original creative materials such as stories, product ideas, computer code or original artwork.
-
-**Hyperlinks to other Web Sites**
-
-To the extent our Web Site contains hyperlinks to outside services and resources, the availability and content of which Williams-Sonoma, Inc. Brands does not control, any concerns regarding any such service or resource, or any hyperlink thereto, should be directed to the particular outside service or resource.
-
-**Disclaimer**
-
-This Web Site and all Content available on this Web Site are provided on an "as is" basis without warranties of any kind, either express or implied, including without limitation warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge, by your use of this Web Site, that your use of this Web Site is at your sole risk, that you assume full responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use of this Web Site, and that Williams-Sonoma, Inc. Brands shall not be liable for any damages of any kind related to your use of this Web Site.
-
-**Product Pricing Information**
-
-The prices displayed on our Web Site may differ from prices that are available in stores. The prices displayed in our catalogs are quoted in U.S. Dollars and are valid and effective only in the U.S.
-
-**Inaccuracy Disclaimer**
-
-From time to time there may be information on our Web Site or in our catalog that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. Williams-Sonoma, Inc. Brands reserves the right to correct any errors, inaccuracies or omissions and to change or update information at any time without prior notice (including after you have submitted your order).
-
-* * * * * * * * * * 
-
-Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California. 
-
-Last Updated: November 2011
-
-Privacy Policy
+# Rejuvenation
 
 We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm and Rejuvenation. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
-**Collecting Information About You**
+#### Collecting Information About You
 
 There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
 
@@ -56,7 +14,7 @@ Whether or not to provide such information is completely your own choice. But if
 
 In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
 
-**Using Information About You**
+#### Using Information About You
 
 We use your contact information for internal purposes only, such as:
 
@@ -75,11 +33,11 @@ To serve you better, we may combine information you give us online, in our store
 
 We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/](http://www.networkadvertising.org/).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
 
 In certain instances we may disclose your contact information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Williams-Sonoma, Inc. Brands or to others. We may also disclose your contact information when we believe the law or legal process requires it.
 
-**Opting Out Of Marketing And Transfers; Updating and Deleting Information About You**
+#### Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
 
 We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. You can call us at 888.343.8548 or send us an email at customerservice@rejuvenation.com. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use either of the following statements in your message to us:
 
@@ -90,35 +48,35 @@ You may also click the designated link at the bottom of all email advertisements
 
 Please note that any requests to remove or update your contact information may take up to ten days for your email request and 6-8 weeks to process your postal mail request.
 
-**Cookies**
+#### Cookies
 
 When you visit our web sites, we send one or more "cookies" to your computer or other device. We may also use cookies in emails that you receive from us. A "cookie" is a small data file that is placed on the hard drive of your computer when you visit a web site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. Generally, we use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
 Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking [here](http://www.williams-sonoma.com/popup/customer-service/cm-opt-out.html?cm_type=fnav). In addition, in connection with the services that they provide to us, certain of our Service Providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Internet. These third parties do not have access to any contact information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
-**Security**
+#### Security
 
 We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, we cannot guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
 
 We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.
 
-**Protecting Children**
+#### Protecting Children
 
 Williams-Sonoma, Inc. Brands take special care to protect the safety and privacy of children. Our web sites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13.
 
 Children under the age of 13 should always ask their parents or guardians for permission before providing any contact information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the Internet.
 
-**Links to Third Party Sites**
+#### Links to Third Party Sites
 
 Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any of your information on such site.
 
-**Policy Changes**
+#### Policy Changes
 
 If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web sites, as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our web sites or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
 
-**Your Feedback**
+#### Your Feedback
 
-To help us improve our privacy policy and practice, please give us your feedback.  You can call us at 888.343.8548 or send us an email at customerservice@rejuvenation.com.
+To help us improve our privacy policy and practice, please give us your feedback. You can call us at 888.343.8548 or send us an email at customerservice@rejuvenation.com.
 
 Effective Date: November 2011
 
