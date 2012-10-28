@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justanswer.co.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616065637id_/http%3A//ww2.justanswer.co.uk/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028050458id_/http%3A//ww2.justanswer.co.uk/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
@@ -85,4 +85,4 @@ JustAnswer reserves the right to update this policy at any time without prior no
 **Contact Us**  
 If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking [HERE](mailto:support@justanswer.com) or mail us at P.O. Box 29045, San Francisco, CA 94129.
 
-NOTICE: [Click here](http://www.onguardonline.gov/default.aspx) for important information about safe surfing from the Federal Trade Commission.
+NOTICE: [Click here](http://www.safetysurf.com/) for important information about safe surfing.
