@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctfs.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514064414id_/https%3A//www.ctfs.com/SecurityCentre/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctfs.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028112136id_/https%3A//www.ctfs.com/SecurityCentre/PrivacyAndSecurity) for the most accurate reproduction.*
 
 # Canadian Tire Financial Services - Privacy and Security
 
