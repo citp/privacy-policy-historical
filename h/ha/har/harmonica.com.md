@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonica.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508072501id_/http%3A//www.harmonica.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonica.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028164253id_/http%3A//www.harmonica.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Harmonica.com - how to play the harmonica
 
@@ -18,7 +18,7 @@ Information Collection
 
 **
 
-Harmonica.com collects information from our users in several areas of our Web site as described in this privacy policy.
+Harmonica.com LLC collects information from our users in several areas of our Web site as described in this privacy policy.
 
  **
 
@@ -110,7 +110,7 @@ Information Use
 
 **
 
-Harmonica.com is the sole owner of the information collected on this site. We will not share, sell or rent this information to others in any way other than as disclosed in this policy or stated at the point where the information is collected.
+Harmonica.com LLC is the sole owner of the information collected on this site. We will not share, sell or rent this information to others in any way other than as disclosed in this policy or stated at the point where the information is collected.
 
  **
 
