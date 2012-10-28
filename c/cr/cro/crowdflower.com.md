@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615220311id_/http%3A//crowdflower.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028101326id_/http%3A//crowdflower.com/general/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy — CrowdFlower
 
@@ -68,7 +68,7 @@ Cookies: We may also automatically collect certain information through the use o
 
 If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to block cookies, this could affect certain features on our Site and may make you unable to work on certain tasks. In addition, CrowdFlower or a third party may also set a “flash cookie” (also known as “local shared objects”) on your computer. Removing and rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Site.
 
-[Adobe](https://web.archive.org/web/20120615220311id_/http%3A//crowdflower.com/general/www.adobe.com/products/flashplayer/security) has more information about deleting or disabling flash cookies.
+[Adobe](http://www.adobe.com/security/flashplayer/) has more information about deleting or disabling flash cookies.
 
 Web Beacons: We may use Web beacons (also known as clear GIFs or Web bugs) or similar technology on the Site or in emails. Web beacons are small, invisible graphic images that may be used to collect certain information and monitor user activity. Web beacons allow us to count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
