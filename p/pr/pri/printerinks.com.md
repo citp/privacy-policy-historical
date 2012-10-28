@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616144458id_/http%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028194500id_/http%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -28,7 +28,7 @@ We will not send any unsolicited commercial email (also known as spam) to person
 
 Printerinks.com takes precautions to protect its customers' information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
-When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the best encryption software currently available in the industry - SSL. Printerinks.com uses the most advanced form of SSL software available: 128-bit encryption by VeriSign. To learn more about SSL, follow this link www.verisign.com. 
+When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the best encryption software currently available in the industry - SSL. Printerinks.com uses the most advanced form of SSL software available: 128-bit encryption by VeriSign. To learn more about SSL, follow this link [www.verisign.com](http://www.verisign.com/ "PayPal"). 
 
 Access to all of our users' information is restricted. Printerinks.com operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We do not store your financial information in our system so for future transactions, you will be required to re-enter your information. 
 
