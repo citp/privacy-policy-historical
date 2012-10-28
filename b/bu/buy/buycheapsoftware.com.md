@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518104342id_/http%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028090223id_/https%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # BuyCheapSoftware
 
@@ -6,6 +6,8 @@
   * **UNDER NO CIRCUMSTANCES WILL WE EVER RELEASE, SELL, RENT, OR LEASE CUSTOMER INFORMATION TO ANY 3rd PARTY.**
   * **Personal Information**  
 We require only the personal information that is necessary to securely process your online order and for contacting you about your transactions. It is used exclusively for that purpose. If you become a BUYCHEAPSOFTWARE customer, you may receive updated pricelists and special price-reduction offers. If you would prefer not to receive these, please [**Click here**](mailto:sales@buycheapsoftware.com). 
+  * **Download Ordersr**  
+We guarantee all of our DOWNLOAD Installation Keycodes. However, keycodes are not refundable after they have been sent. Your keycode will be emailed within 24 hours or the next business-day when ordered on weekends.. Please also check your spam and junk folder or whitelist Buycheapsoftware.com in advance. You can also call us during our PST business hours of 9:00 AM to 5:00 PM at 1-888-999-2611 press #2 for customer service to check on your order or email us at customerservice@buycheapsoftware.com
   * **Email Policies**  
 When you purchase online from BUYCHEAPSOFTWARE, we will contact you by e-mail to confirm your order and to update you on the status of your order. We do not release customer email addresses. We contact customers by email to confirm orders, for tech support, and to send updated pricelists. We do not SPAM. 
   * **Customer Satisfaction**  
