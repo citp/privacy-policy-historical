@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfreefree.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516051329id_/http%3A//www.mrfreefree.com/page.tg%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfreefree.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028034256id_/http%3A//www.mrfreefree.com/page.tg%3Fprivacy) for the most accurate reproduction.*
 
 # Mr Free Free - Privacy Statement for Mr.FreeFree.com
 
