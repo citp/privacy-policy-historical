@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508042714id_/http%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028122635id_/https%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
 
 # Contactology - Privacy Policy
 
-**Last updated: January 19, 2010**
+**Last updated: September 7, 2012**
 
 To report any abuse or violations of the Contactology service, please contact [support@contactology.com](mailto:support@contactology.com) We will follow up with you and make every effort to trace the origin of the message. 
 
 Contactology is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the Web site [www.contactology.com.](http://www.contactology.com/) Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Brad Haynes at [bhaynes@contactology.com](mailto:bhaynes@contactology.com) or call 1-866-363-0670 and dial ext. 100. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url= TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact support at [support@contactology.com](mailto:support@contactology.com) or call 1-866-363-0670. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 **What Information We Collect and How We Collect It**
 
