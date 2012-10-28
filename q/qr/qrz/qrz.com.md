@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608014719id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028125154id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
 
-# QRZ.COM
+# privacy by QRZ.COM
 
-[](http://www.qrz.com/click?id=3976)
+[](http://www.qrz.com/click?id=4251)
 
-[](http://www.qrz.com/click?id=3843)
+[](http://www.qrz.com/click?id=4049)
 
-[](http://www.qrz.com/click?id=1991)
+[](http://www.qrz.com/click?id=3877)
 
-[](http://www.qrz.com/click?id=3926)
+[](http://www.qrz.com/click?id=4064)
 
-[](http://www.qrz.com/click?id=3866)
+[](http://www.qrz.com/click?id=4268)
 
 [](http://www.qrz.com/click?id=55)
 
-[](http://www.qrz.com/click?id=3865)
+[](http://www.qrz.com/click?id=1992)
+
+[](http://www.qrz.com/click?id=3926)
 
   
 
