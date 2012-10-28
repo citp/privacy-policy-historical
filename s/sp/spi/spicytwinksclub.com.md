@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicytwinksclub.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504004921id_/http%3A//www.spicytwinksclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicytwinksclub.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028111231id_/http%3A//www.spicytwinksclub.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
