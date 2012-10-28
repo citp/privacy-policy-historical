@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the hitsniffer.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603083941id_/http%3A//www.hitsniffer.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitsniffer.com privacy policy that was archived on 2012-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028034251id_/http%3A//www.hitsniffer.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Real Time Website Tracking Privacy Policy</title>
 
 <meta name="keywords" content="real time website tracking,website statistics,website stats,website tracking software,blog tracking statistics,website visitor stats,real time website statistics">
-
 <meta name="description" content="Real-time website tracking, live chat support system,website visitor stats,real time website statistics ">	
 
 
@@ -13,16 +12,60 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="apple-touch-icon" href="/api/apple.png">
-
-<link href="/imgs/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script><script src="https://hitsniffer.com/track.js" async=""></script><script>
+<link rel="stylesheet" href="/imgs/cookie-law/notify.css">
+<link href="/imgs/style.css?3" rel="stylesheet" type="text/css">
+<script src="https://hitsniffer.com/track.js" async=""></script><script>
 if (typeof jQuery == 'undefined') { 
 document.write('<scr'+'ipt type="text/javascript" src="/js/jquery.js?v=1.4.4"></scr'+'ipt>');
 }
 </script><script type="text/javascript" src="/js/jquery.js?v=1.4.4"></script>
+
+<meta name="viewport" content="maximum-scale=1.6, minimum-scale=0.25">
 <script type="text/javascript" src="/js/jquery.tooltip.v.1.1.js"></script>
 <script type="text/javascript" src="/imgs/highcharts/js/highcharts.js"></script>
 <script type="text/javascript" src="/imgs/highcharts/js/modules/exporting.js"></script>
+
+<script type="text/javascript" src="/imgs/cookie-law/jquery-notify.min.js"></script>
+<script type="text/javascript" src="/imgs/cookie-law/jquery-easy-eu-cookie-law.min.js"></script>
+<script>			
+			$(function(){
+				$.cookieLaw({
+					onAccepted: function(){
+						$('#cookieStatus').val('Accepted!');
+					}
+				});
+
+				$('#viewNonImplied').click(function(){
+					$('#cookieStatus').val('Not Accepted');
+
+					var date = new Date();
+					date.setTime(date.getTime()-1);
+
+					document.cookie = "euCookieLaw=; expires="+date.toGMTString()+"; path=/";
+
+					$('#notification_area li').remove();
+
+					$.cookieLaw({
+						impliedConsent: false,
+						onAccepted: function(){
+							$('#cookieStatus').val('Accepted!');
+						}
+					});
+				})
+
+				$('#clearCookie').click(function(){
+					$('#cookieStatus').val('Not Accepted');
+
+					var date = new Date();
+					date.setTime(date.getTime()-1);
+
+					document.cookie = "euCookieLaw=; expires="+date.toGMTString()+"; path=/";
+				})
+			})
+		</script>
+
+
+
 </head>
 
 
@@ -40,7 +83,7 @@ document.write('<scr'+'ipt type="text/javascript" src="/js/jquery.js?v=1.4.4"></
 		<td valign="top" width="141">
 		<a href="/">
 		
-<img border="0" src="/imgs/imgs/nilogo.png" title="Hit Sniffer" alt="logo"></a>
+<img border="0" src="/imgs/imgs/nilogo.png" title="Hit Sniffer" alt="logo" style="margin: 5px; margin-left: 0px;"></a>
 
 		</td>
 		<td width="766">
@@ -48,14 +91,20 @@ document.write('<scr'+'ipt type="text/javascript" src="/js/jquery.js?v=1.4.4"></
         
                		<form method="POST" action="/login.php?action=do" name="lgnh" style="text-align: left;"><table border="0" align="right" cellpadding="1" cellspacing="0">
           <tbody><tr>
-            <td style="font-size: 8pt;">Email:</td>
-            <td style="font-size: 8pt;">Password:</td>
-            <td>&nbsp;</td>
+            <td><input placeholder="Email:" name="email" type="text" id="email" style="width: 120px; border-radius: 3px;-moz-border-radius: 3px; border: 1px solid #aaa; padding: 2px; background-color: #f7f7f7;" size="20"></td>
+            <td><input placeholder="Password:" style="width: 120px; border-radius: 3px;-moz-border-radius: 3px; border: 1px solid #aaa; padding: 2px;  background-color: #f7f7f7;" type="password" name="pass" size="20"></td>
+            <td><input class="btn" style="text-align: center;width: 60px; border-radius: 3px;-moz-border-radius: 3px; border: 1px solid #aaa; padding: 2px;" type="submit" value="Login"></td>
           </tr>
           <tr>
-            <td><input name="email" type="text" id="email" style="width: 120px; border-radius: 3px;-moz-border-radius: 3px; border: 1px solid #aaa; padding: 2px; background-color: #f7f7f7;" size="20"></td>
-            <td><input style="width: 120px; border-radius: 3px;-moz-border-radius: 3px; border: 1px solid #aaa; padding: 2px;  background-color: #f7f7f7;" type="password" name="pass" size="20"></td>
-            <td><input style="width: 50px; border-radius: 3px;-moz-border-radius: 3px; border: 1px solid #aaa; padding: 2px;" class="btn" type="submit" value="Login"></td>
+            <td><input type="checkbox" name="remember" id="rem" value="1" checked=""><label for="rem">Remember Me</label></td>
+            <td>
+            
+            </td>
+            <td>
+            
+            
+            <input onclick="window.location.href='/register.php';" class="btn" style="text-align: center;width: 60px; border-radius: 3px;-moz-border-radius: 3px; border: 1px solid #aaa; padding: 2px;" type="button" value="Register">
+            </td>
           </tr>
         </tbody></table></form>
 
@@ -127,12 +176,9 @@ document.write('<scr'+'ipt type="text/javascript" src="/js/jquery.js?v=1.4.4"></
     </ul>
     
     
- 
-    
-    
-    
-    
-    
+   
+
+
     
     
     
@@ -146,7 +192,16 @@ document.write('<scr'+'ipt type="text/javascript" src="/js/jquery.js?v=1.4.4"></
 	</tr>
 </tbody></table>
 </div>
+
+
+
 <div class="topheaderplaceholder"></div>
+
+
+
+
+<div style="background-color: #f7f7f7; text-align: center;">
+<div style="margin: auto;width: 995px; background-color: #fff; box-shadow:0 0 8px #9B9B9B;-moz-box-shadow:0 0 8px #9B9B9B;-webkit-box-shadow:0 0 8px #9B9B9B; padding: 0px; text-align: left;">
 
 
 
@@ -169,7 +224,7 @@ $("ul.subnav").parent().append("<span></span>"); $("ul.topnav li span").click(fu
 
 
 });
-</script><div class="cont">
+</script><div class="cont" style="font-size: 10pt;">
 <h2>Privacy Policy</h2>
         <img src="images/privacy policy.jpg" alt="real time website tracking terms and conditions" width="253" height="229" class="floated">
         <p align="justify">This privacy policy sets out how Hit Sniffer uses and  protects any information that you give Hit Sniffer when you use this  website.<br>
@@ -224,14 +279,52 @@ You may request details of  personal information which we hold about you under t
         <p align="justify"><br>
           If you believe  that any information we are holding on you is incorrect or incomplete, please  write to or email us as soon as possible, at the above address. We will  promptly correct any information found to be incorrect.</p>
         
-        
-  
+<a name="cookie"></a><h2>COOKIE POLICY</h2>
+
+<p align="justify"> Hit Sniffer uses cookies to help us track how you are using the system, diagnose problems and to provide the best browsing experience for you. </p>
+
+<p align="justify">
+Cookies save you time as they help us to remember who you are. Cookies help us to be more efficient. We can learn about content that is important to you. We can revise or remove web pages that are not of interest and focus our energies on content that you want.
+</p>
+
+<p align="justify">Here is the list of cookies that hitsniffer uses:<br>
+  <br>
+</p>
+<p align="justify"> &gt; Hitsniffer Website</p>
+<p align="justify">PHPSESSID: Default php session handler<br>
+  id: holds your account number<br>
+  user: holds your username ( nickname )<br>
+  email: holds your login email<br>
+  pass: holds your password in an encrypted format, then hashed mode ( it is safe )<br>
+  nomobile: help to show the desktop version of the website for modern mobile users<br>
+  hs_notifysound: identifies if a user choses to play a notification sound when a new visitor visits your own website<br>
+  hs_notifymsg: identifies if a user choses to view a notification message when a new visitor visits your own website<br>
+  user_country: holds user country value to detect the correct language to be displayed<br>
+  mysitegraphdatasource: identifies a users choice on suitable data source for main graph.<br>
+  ew-position: position of widgets in dashboard.<br>
+  ctype: identifies user choice on suitable type of graph.<br>
+  comment_author_#: wordpress keep default action, hold commenter name.<br>
+  comment_author_url_#: wordpress keep default action, hold commenter url.<br>
+  comment_author_email_#: wordpress keep default action, hold commenter email.</p>
+<p align="justify">&gt; Tracking Script</p>
+<p align="justify"> blockip: If you are a webmaster and use the cookie method to opt-out of being counted.<br>
+  #_uidx: # is dynamic number, used to identify returning visitors.<br>
+  #rsuid: # is dynamic, used to improve returning visitors accuracy.<br>
+  camp: used if a visitor visits a campaign page.<br>
+  campid: used if a visitor visits a campaign page and holds the visitor ID.<br>
+  #baseref: # is dynamic for each website, holds base referer data.<br>
+  #_juid: # is dynamic for each website, holds javascript numerical unique value</p>
+<p align="justify"> * We also use facebook, twitter and google+ buttons/widgets which add their own cookies<br>
+</p>
+<p align="justify">&nbsp;</p>
+
+
 <div class="cont">
 			<p align="center">Get your free trial to test it yourself. nothing 
-			speaks better than system itself!</p>
+		  speaks better than system itself!</p>
 			<p align="center">
 				<a href="/register.php">
-				<img border="0" src="img/sign-up.png" width="222" height="45"></a></p></div>
+		<img border="0" src="img/sign-up.png" width="222" height="45"></a></p></div>
         </div><!-- HITSNIFFER TRACKING CODE - DO NOT CHANGE -->
 <script>aid=7;sid=18;</script>
 <script type="text/javascript">
@@ -245,44 +338,33 @@ hstc.async=true;
 var htssc = document.getElementsByTagName('script')[0];
 htssc.parentNode.insertBefore(hstc, htssc);
 })();
-</script><script type="text/javascript">
-  (function() {
-   var s = document.createElement('SCRIPT');
-   var c = document.getElementsByTagName('script')[0];
-   s.type = 'text/javascript';
-   s.async = true;
-   s.src = 'http://platform.twitter.com/widgets.js';
-   c.parentNode.insertBefore(s, c);
-  })();
-</script><noscript><a href="http://www.hitsniffer.com/">
+</script>
+<noscript><a href="http://www.hitsniffer.com/">
 <img src="http://www.hitsniffer.com/track.php?mode=img&code=96fca7298c8f37fc6c38354c99c0f9f7" alt="website statistics" />Realtime website tracking software</a></noscript>
 <!-- HITSNIFFER TRACKING CODE - DO NOT CHANGE -->
-
-
-<script src="http://connect.facebook.net/en_US/all.js#appId=221635397864252&amp;xfbml=1"></script>
-<center>
-<div style="clear: both; width: 900px; padding: 4px;">
-
-<div style="float: left;">
-<div id="fb-root"></div><fb:like href="http://www.facebook.com/hitsniffer" send="true" width="450" show_faces="false" font="trebuchet ms"></fb:like>
-</div>
-<div style="float: left;">
-<g:plusone></g:plusone>
-</div>
-
-
-<div style="float: right;"><a href="http://twitter.com/hitsniffer" class="twitter-follow-button" data-show-count="true" data-align="right">Follow @hitsniffer</a>
-</div>
-
-</div>
-
-</center>
-<div style="clear: both;"></div>
-
-
-
+</div></div>
 <div class="footer">
 <center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <div class="footer_resize" style="text-align: left;">
             <p class="leftt">
         <a href="/">Home</a> &nbsp;
@@ -293,7 +375,7 @@ htssc.parentNode.insertBefore(hstc, htssc);
        <a href="/privacy.php">Privacy</a>  &nbsp;
         <a href="/contact.php">Contact</a></p>
                 
-      <p class="rightt">2012 © Copyright Hit Sniffer. All Rights Reserved</p>
+      <p class="rightt">2010-2012 © Copyright Hit Sniffer. All Rights Reserved</p>
       <div class="clr"></div>
       <div class="clr"></div>
     </div>
@@ -301,12 +383,5 @@ htssc.parentNode.insertBefore(hstc, htssc);
 
 </div>
 
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = document.location.protocol+'//apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
 
 </body></html>
