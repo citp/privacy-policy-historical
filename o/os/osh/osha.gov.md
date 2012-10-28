@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623005638id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028140540id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
 # U.S. Department of Labor -- Privacy and Security Statement
 
@@ -34,11 +34,20 @@ In addition to the Department's official websites, the Department uses social me
 
 _Cookie Use Notice:_
 
-Cookies are small pieces of temporary data that are exchanged between a website and a user's computer which enable a "session," or "dialog," to be established between the two machines. The Department does not use cookies to collect any PII from users or to track user activities beyond our websites. The Department does not maintain copies of cookies on our websites after you leave our websites.
+Cookies are small files that Web servers place on a user's hard drive. They can serve several functions, depending upon how they are designed:
 
-The Department employs "cookies" to provide better service to its customers. With the session established, the Department is able to tailor its responses (i.e., identify and provide you with the information you want) and help you traverse our webpages in the most efficient and effective manner possible. The session is often broken when the Department's server does not receive further requests from your computer or you simply exit your browser.
+  * they allow the website to identify you as a previous visitor each time you access a site;
+  * they track what information you view at a site (important to commercial sites trying to determine your buying preferences); 
+  * in the more advanced cases they track your movements through many websites but not the whole Web; 
+  * businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;
+  * advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many websites; and 
+  * they can be used to help a website tailor screens for each customer's preference. 
 
-The Department limits its use of cookies to "session cookies" types of cookies that are temporarily stored in your computer's memory. Session cookies are normally deleted from a user's computer when the user logs off the computer or the user exits the browser. The Department does not issue "persistent cookies," which are cookies that could be stored permanently on your workstation and reused each time you visit the Department's website. Some social media and third party sites that display information from the Department may use persistent cookie technology. Most Internet browsers automatically accept persistent cookies. Although using persistent cookies may create a better experience for you, these sites should also work without them. If you don't want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit.
+
+
+Some DOL pages have "session cookies," to facilitate use of that particular page. These disappear when the Web user terminates a Web session and closes the browser. DOL also permits the use of persistent cookies for the collection of Web metrics; however, DOL does not collect any personally identifiable information about visitors to our Web pages. Please see our [DOL Persistent Cookie Notice](https://web.archive.org/dol/persistentcookies.htm) that details the types of information collected and how to opt-out by changing the cookie settings in your browsers.
+
+If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies. 
 
 * * *
 
