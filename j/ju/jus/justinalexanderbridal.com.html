@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the justinalexanderbridal.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510090238id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justinalexanderbridal.com privacy policy that was archived on 2012-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028085514id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,6 +7,8 @@
     <meta name="description" content="Leading and award-winning designer label of wedding gowns. Find the wedding dress of your dreams at a store near you.">
     <meta name="keywords" content="wedding dresses, wedding dress, wedding gowns, the wedding dress, wedding gown, bridal dresses, bridal dress, bridal gowns, bridal gown, wedding designer">
     <meta name="robots" content="INDEX,FOLLOW">
+	
+		
     <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
     <link href="http://www.justinalexanderbridal.com/css/reset.css" rel="stylesheet" type="text/css">
 
@@ -56,23 +58,120 @@
 <script type="text/javascript" src="http://www.tabpress.com/_js/ga_social_tracking.js"></script>		
 </head><body>
 <div id="all">
-        <div id="header">
-            <h1 class="mir"><a id="logo" href="http://www.justinalexanderbridal.com/index.php">Justin Alexander</a></h1>
-            <div id="actionBox">            
-                <a id="lang" href="http://www.justinalexanderbridal.com/store_locator.php">STORE LOCATOR</a>
-                
-                
-								<a id="login" href="http://www.justinalexanderbridal.com/login.php">LOGIN</a>
-				                  <form name="frmtopsearch" id="frmtopsearch" enctype="multipart/form-data" method="get" action="http://www.justinalexanderbridal.com/searchresult.php">
-                  <input name="srch" type="text" class="searchBox" id="txtSearch" value="SEARCH CATALOG">
-                
-				  </form>
-                  <div id="welcome" class="clr">
-                                     <div class="clr"></div>
+       <div id="header">
+    <h1 class="mir"><a id="logo" href="http://www.justinalexanderbridal.com/index.php">Justin Alexander</a></h1>
+    <div id="actionBox">            
+        <div class="access">
+                            <a id="login" href="http://www.justinalexanderbridal.com/login.php">LOGIN</a>
                     </div>
-            </div>
-            <div class="clr"></div>
-        </div>       <div id="section">
+        
+        <style type="text/css">
+            body { font-family:Arial, Helvetica, sans-serif }
+            span.customStyleSelectBox { 
+                font-size:11px; 
+                background-color: transparent; 
+                color:#FEFEFE; 
+                border: none;
+                text-transform: uppercase;
+                text-align: right;
+                margin-left: 80px;
+            }
+            .styleselect { 
+                margin-left: 80px;
+                background: #565455;
+                color:#FEFEFE; 
+                display: none;
+            }
+            span.customStyleSelectBox.changed { }
+            .customStyleSelectBoxInner { }
+        </style>
+        <script type="text/javascript">
+            (function($){
+                $.fn.extend({
+ 
+                    customStyle : function(options) {
+                        if(!$.browser.msie || ($.browser.msie&&$.browser.version>6)){
+                            return this.each(function() {
+	  
+                                var currentSelected = $(this).find(':selected');
+                                $(this).after('<span class="customStyleSelectBox"><span class="customStyleSelectBoxInner">'+currentSelected.text()+'</span></span>').css({position:'absolute', opacity:0,fontSize:$(this).next().css('font-size')});
+                                var selectBoxSpan = $(this).next();
+                                var selectBoxWidth = parseInt($(this).width()) - parseInt(selectBoxSpan.css('padding-left')) -parseInt(selectBoxSpan.css('padding-right'));			
+                                var selectBoxSpanInner = selectBoxSpan.find(':first-child');
+                                selectBoxSpan.css({display:'inline-block'});
+                                selectBoxSpanInner.css({width:selectBoxWidth, display:'inline-block'});
+                                var selectBoxHeight = parseInt(selectBoxSpan.height()) + parseInt(selectBoxSpan.css('padding-top')) + parseInt(selectBoxSpan.css('padding-bottom'));
+                                $(this).height(selectBoxHeight).change(function(){
+                                    //selectBoxSpanInner.text($(this).val()).parent().addClass('changed');
+                                    selectBoxSpanInner.text($(this).find(':selected').text()).parent().addClass('changed');
+                                    // Thanks to Juarez Filho & PaddyMurphy
+                                });
+			
+                            });
+                        }
+                    }
+                });
+            })(jQuery);
+
+            $(function(){
+            
+                var width = $('.access').width();
+                
+                width = 205 - parseInt(width);
+                
+                $('span.customStyleSelectBox').width(width);
+                $('.styleselect').width(width);
+                
+                $('.styleselect').customStyle();
+                $('.styleselect').show();
+            });
+        </script>
+
+        		
+
+        <form name="frmfooter" id="frmfooter" enctype="multipart/form-data" method="get" action="http://www.justinalexanderbridal.com/changelanguage.php">
+            <select name="footer_lang" class="styleselect" id="footer_lang" onchange="document.frmfooter.submit();">
+                                
+                    <option value="en_US">English (US) </option>
+                                
+                    <option value="de">Deutsch</option>
+                                
+                    <option value="nl">Nederlands</option>
+                                
+                    <option value="pl">Język polski</option>
+                                
+                    <option value="es">Español</option>
+                                
+                    <option value="el">Ελληνικά</option>
+                                
+                    <option value="ru">Русский</option>
+                                
+                    <option value="it">Italiano</option>
+                                
+                    <option value="pt">Português</option>
+                                
+                    <option value="tr">Türkçe</option>
+                            </select>
+        </form> 
+
+        <div class="spacer-10">&nbsp;</div>
+        <form name="frmtopsearch" id="frmtopsearch" enctype="multipart/form-data" method="get" action="http://www.justinalexanderbridal.com/searchresult.php">
+            <input name="srch" type="text" class="searchBox" id="txtSearch" value="SEARCH CATALOG">
+        </form>
+
+        <a target="_blank" href="https://plus.google.com/u/0/110848549341144635058"><img class="socialTop" src="http://www.justinalexanderbridal.com/img/social/GOOGLE-PLUS_grey.png" alt=""></a>
+        <a target="_blank" href="http://twitter.com/ja_bridal"><img class="socialTop" src="http://www.justinalexanderbridal.com/img/social/TWITTER_grey.png" alt=""></a>
+        <a target="_blank" href="http://pinterest.com/jabridal"><img class="socialTop" src="http://www.justinalexanderbridal.com/img/social/PINTEREST_grey.png" alt=""></a>
+        <a target="_blank" href="https://www.facebook.com/justinalexanderbride"><img class="socialTop" src="http://www.justinalexanderbridal.com/img/social/FACEBOOK_grey.png" alt=""></a>
+
+        <div class="spacer-10">&nbsp;</div>
+        <a id="lang" href="http://www.justinalexanderbridal.com/store_locator.php">STORE LOCATOR</a>
+        <div id="welcome" class="clr">
+                        <div class="clr"></div>
+        </div>
+    </div>
+    <div class="clr"></div>
+</div>       <div id="section">
         <div id="fb-root"></div>
     <script>    
 	(function (d, s, id) {
@@ -117,46 +216,8 @@
                 <li><a href="http://www.justinalexanderbridal.com/career_opportunities.php">CAREER OPPORTUNITIES</a></li>
                 
             </ul>
-           
-            <ul class="menu">
-              <li>
-              			  			
-              <form name="frmfooter" id="frmfooter" enctype="multipart/form-data" method="get" action="http://www.justinalexanderbridal.com/changelanguage.php">
-			<select name="footer_lang" class="text_field8" id="footer_lang" onchange="document.frmfooter.submit();">
-				<option value="" selected="">OTHER LANGUAGES</option>
-				                
-                <option value="en_US">English (US) </option>
-	                
-                <option value="de">Deutsch</option>
-	                
-                <option value="nl">Nederlands</option>
-	                
-                <option value="pl">Język polski</option>
-	                
-                <option value="es">Español</option>
-	                
-                <option value="el">Ελληνικά</option>
-	                
-                <option value="ru">Русский</option>
-	                
-                <option value="it">Italiano</option>
-	                
-                <option value="pt">Português</option>
-	                
-                <option value="tr">Türkçe</option>
-	    		 </select>
-			</form> 
-              </li>
-            </ul>
-            <div class="clr">
-            <fb:like href="https://www.facebook.com/justinalexanderbride" send="false" layout="button_count" width="150" show_faces="false"></fb:like>
-            </div>
 
             <div class="socialBox">
-                <a id="socialFace" href="http://www.facebook.com/justinalexanderbride" target="_blank"></a>
-                <a id="socialTwit" href="http://twitter.com/intent/user?screen_name=ja_bridal" target="_blank"></a>
-               
-				<br>
                <a id="newsletterLink" href="http://www.justinalexanderbridal.com/register_popup.php" target="_blank">NEWSLETTER</a> 
             </div>
         </div>				<div id="content">
@@ -326,7 +387,7 @@ info-us@justinalexanderbridal.com</span></p>
 			<div class="clr"></div>
 		</div>
 		<div class="brandText">
-        Wedding designer known for vintage wedding dresses and bridal couture styling. Every bridal gown is a masterpiece. Find your dream bridal dress.		</div>
+        Wedding designer known for <a href="http://www.justinalexanderbridal.com/vintage-wedding-dresses.html">vintage wedding dresses</a> and <a href="http://www.justinalexanderbridal.com/bridal-couture.html">bridal couture</a> styling. Every bridal gown is a masterpiece. Find your dream bridal dress.		</div>
 	 </div>
 		 <div id="sinBrand" class="brandSite">
 		<div class="brandHeader">
@@ -368,8 +429,8 @@ info-us@justinalexanderbridal.com</span></p>
                 <div class="clr"></div>
             </div>
             <p>
-            Justin Alexander Bridal is a designer and manufacturer of mid-to-high end <a href="http://www.justinalexanderbridal.com">wedding gowns, </a><a href="http://www.justinalexanderbridal.com">wedding dresses</a>, <a href="http://www.justinalexanderbridal.com/designer-dresses.html">designer dresses</a>, and <a href="http://www.justinalexanderbridal.com/style-wedding-fashion.html">wedding fashion</a>. Inspired by the 1950's and 60's the collection is well known for making the finest <a href="http://www.justinalexanderbridal.com/vintage-wedding-dresses.html">vintage wedding dresses</a> and <a href="http://www.justinalexanderbridal.com/bridal couture.html">bridal couture</a>.  Justin Alexander <a href="http://www.justinalexanderbridal.com/style-wedding-fashion.html">bridal style</a>, wedding gowns, and wedding dresses are updated with modern twists making them perfect for contemporary brides. If you are looking for a unique <a href="http://www.justinalexanderbridal.com">wedding dress</a> check out our <a href="http://www.justinalexanderbridal.com/short-wedding-dresses.html">short wedding dresses</a>, or if you are looking for the hottest new trends check out our <a href="http://www.justinalexanderbridal.com/lace-wedding-dresses.html">lace wedding dresses</a> or <a href="http://www.justinalexanderbridal.com/mermaid-wedding-dresses.html">mermaid wedding dresses</a>. The highest quality materials and exquisite styling and details make each Justin Alexander Bridal wedding gown a true work of art. Visit here for a look at <a href="http://www.justinalexanderbridal.com/2012-wedding-dresses.html">wedding dresses 2012</a> and our <a href="http://www.justinalexanderbridal.com/2012-wedding-dresses.html">2012 wedding dress</a> collection.<br><br>            <br><br>
-            Copyright © 2012 Justin Alexander Bridal, Inc., LLC. All Rights Reserved. Images May Not Be Reproduced Without Permission        </p>
-        </div>
-    </div>
-</body></html>
+            Justin Alexander Bridal is a designer and manufacturer of mid-to-high end <strong style="font-weight:500;">wedding gowns</strong>, <strong style="font-weight:500;">wedding dresses, <a href="http://www.justinalexanderbridal.com/designer-dresses.html">designer dresses</a>, and <a href="http://www.justinalexanderbridal.com/style-wedding-fashion.html">wedding fashion</a>. Inspired by the 1950's and 60's the collection is well known for making the finest <a href="http://www.justinalexanderbridal.com/vintage-wedding-dresses.html">vintage wedding dresses</a> and <a href="http://www.justinalexanderbridal.com/bridal-couture.html">bridal couture</a>.  Justin Alexander <a href="http://www.justinalexanderbridal.com/style-wedding-fashion.html">bridal style</a>, wedding gowns, and wedding dresses are updated with modern twists making them perfect for contemporary brides. If you are looking for a unique wedding dress check out our <a href="http://www.justinalexanderbridal.com/short-wedding-dresses.html">short wedding dresses</a>, or if you are looking for the hottest new trends check out our <a href="http://www.justinalexanderbridal.com/lace-wedding-dresses.html">lace wedding dresses</a> or <a href="http://www.justinalexanderbridal.com/mermaid-wedding-dresses.html">mermaid wedding dresses</a>. The highest quality materials and exquisite styling and details make each Justin Alexander Bridal wedding gown a true work of art. Visit here for a look at  our <a href="http://www.justinalexanderbridal.com/2012-wedding-dresses.html">2012 wedding dress</a> collection.<br><br>            <br><br>
+            Copyright © 2012 Justin Alexander Bridal, Inc., LLC. All Rights Reserved. Images May Not Be Reproduced Without Permission        </strong></p><strong style="font-weight:500;">
+        </strong></div><strong style="font-weight:500;">
+    </strong></div><strong style="font-weight:500;">
+</strong></body></html>
