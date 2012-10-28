@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605085848id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028174154id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shoeboxed | Shoeboxed.com
 
 ## Privacy Policy
 
-**Last Updated: August 10, 2009**
+**Last Updated: September 10, 2012**
 
 Shoeboxed Privacy Practices Verified by TRUSTe
 
@@ -47,7 +47,7 @@ Shoeboxed and our advertising partners employ a software technology called clear
 
 ## Your information in your Shoeboxed account
 
-Shoeboxed may use the information listed above to: enforce our Terms of Service, customize and improve Shoeboxed’s software and website, provide customer service, resolve disputes and troubleshoot problems, inform users of targeted marketing, service updates and promotional offers unless you opt out and verify your identity. You can opt out of these messages by clicking Manage your subscription at the bottom of your e-mails and/or by contacting us at help@team.shoeboxed.com. Your data may be shared with other users if you choose to allow it if and only if you choose to share it. Registration is required if you want to use many of the services of Shoeboxed. As part of this registration, Shoeboxed will require that you submit certain information, such as your e-mail address. Any and all information submitted to Shoeboxed as feedback may be gathered and processed by Shoeboxed to improve its software and website. Shoeboxed may use anonymous information gathered through feedback for marketing purposes. Shoeboxed will not use feedback information that identifies you specifically without your permission. 
+Shoeboxed may use the information listed above to: enforce our Terms of Service, customize and improve Shoeboxed’s software and website, provide customer service, resolve disputes and troubleshoot problems, better understand common traits of our customers in order to develop and improve Shoeboxed’s marketing campaigns, inform users of targeted marketing, service updates and promotional offers unless you opt out and verify your identity. You can opt out of these messages by clicking Manage your subscription at the bottom of your e-mails and/or by contacting us at help@team.shoeboxed.com. Your data may be shared with other users if and only if you choose to share it. Registration is required if you want to use many of the services of Shoeboxed. As part of this registration, Shoeboxed will require that you submit certain information, such as your e-mail address. Any and all information submitted to Shoeboxed as feedback may be gathered and processed by Shoeboxed to improve its software and website. Shoeboxed may use anonymous information gathered through feedback for marketing purposes. Shoeboxed will not use feedback information that identifies you specifically without your permission.
 
 We gather and store certain types of information whenever you use Shoeboxed products or services. Shoeboxed records traffic data from your browser, including your IP address, cookie information, and the pages you are visiting within the site. Traffic data is helpful in identifying and fixing problems with the site. 
 
@@ -93,13 +93,11 @@ Shoeboxed does not post any user information along with testimonials unless we h
 
 If you choose to submit any personally identifiable information on our blog, you should be aware that this information can be read, collected, or used by other users on these forums. We are not responsible for the information you choose to submit in these forums. 
 
-If you have a complaint about Shoeboxed’s privacy policy, please send it via email to help@team.shoeboxed or mail it to PO Box 1411, Durham, NC 27701 (Street address: 501 Washington Street, Suite K, Durham NC 27701. You can also contact us to opt-out of having your personally identifiable information used for certain purposes, including promotional communications, newsletters, or sweepstakes. Your complaint will be filed and reviewed by a qualified member of the Shoeboxed team. If required, you will receive a response to your message as soon as possible. If necessary, Shoeboxed will incorporate any changes that are necessary as soon as possible 
+If you have a complaint about Shoeboxed’s privacy policy, please send it via email to help@team.shoeboxed or mail it to PO Box 1411, Durham, NC 27701 (Street address: 112 Broadway St, Suite B, Durham NC 27701. You can also contact us to opt-out of having your personally identifiable information used for certain purposes, including promotional communications, newsletters, or sweepstakes. Your complaint will be filed and reviewed by a qualified member of the Shoeboxed team. If required, you will receive a response to your message as soon as possible. If necessary, Shoeboxed will incorporate any changes that are necessary as soon as possible 
 
 ## Changes to this Privacy Policy
 
-Shoeboxed may amend or change this Policy at its sole discretion at any time. The use of the information we collect at any given point is subject to the Privacy Policy in effect at the time of collection. You should periodically check the Privacy Policy to make sure you understand the current policy. 
-
-Shoeboxed will notify you through e-mail contact or a prominent notice on the site before we implement any material changes regarding our privacy practices. 
+Shoeboxed may amend or change this Policy at its sole discretion at any time. You should periodically check the Privacy Policy to make sure you understand the current policy.
 
 ## Conditions of use
 
