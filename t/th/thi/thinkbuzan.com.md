@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbuzan.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617102202id_/http%3A//www.thinkbuzan.com/us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbuzan.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028064630id_/http%3A//www.thinkbuzan.com/us/company/privacy) for the most accurate reproduction.*
 
 # ThinkBuzan - Company - Privacy Policy
 
@@ -25,7 +25,6 @@ Cardiff Bay
 Cardiff  
 United Kingdom  
 CF10 4RU  
-Telephone: +44(0) 20 71 177 173  
 Email: [customersupport@thinkbuzan.com](mailto:customersupport@thinkbuzan.com)
 
 Please see our contact section for more information.
