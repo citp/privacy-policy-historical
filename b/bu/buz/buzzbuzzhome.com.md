@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzbuzzhome.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125015405id_/http%3A//www.buzzbuzzhome.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzbuzzhome.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028181846id_/http%3A//www.buzzbuzzhome.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# BuzzBuzzHome - New Real Estate Developments Toronto Calgary Vancouver Montreal
+# 
 
 BuzzBuzzHome has created this Privacy Policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this Web site. 
 
@@ -20,18 +20,18 @@ This site contains links to third party sites. BuzzBuzzHome is not responsible f
 
 Demographic and profile data is used to tailor our visitor's experience at our site and display the content according to their preferences. This information is shared with advertisers on an aggregate basis only. 
 
-**Security**
+SECURITY
 
 This site has reasonable security measures in place to protect against loss, misuse and interception by third parties. BuzzBuzzHome assumes no liability for interception, alteration or misuse of information transmitted over the Internet. 
 
-**Choice/Opt-Out**
+CHOICE/OPT-OUT
 
 In the Registration process where we request information about the visitor, our site provides users the opportunity to opt-out of receiving email or other forms of communications from BuzzBuzzHome. To opt-out of receiving emails click on the “track” tab and change the email alert frequency to no alert for search alerts and development alerts. 
 
-**Contacting Us**
+CONTACTING US
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, you can contact: [privacy@buzzbuzzhome.com](mailto:privacy@buzzbuzzhome.com)
 
-Last Revised: April 08, 2009 
+_Last Revised: April 08, 2009_
 
 Version: 2009-1 
