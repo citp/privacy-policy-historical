@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitreach.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628200211id_/http%3A//www.hitreach.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitreach.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028093815id_/http%3A//www.hitreach.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Hit Reach
 
@@ -74,16 +74,3 @@ Any changes we may make to our Privacy Policy in the future will be posted on th
 **CONTACT**
 
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to admin at hitreach.co.uk
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&t=Privacy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&title=Privacy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&title=Privacy&notes=Hit%20Reach%20%28%22We%22%29%20are%20committed%20to%20protecting%20and%20respecting%20your%20privacy.%0D%0A%0D%0AThis%20policy%20%28together%20with%20our%20Terms%20and%20Conditions%29%20sets%20out%20the%20basis%20on%20which%20any%20Personal%20Information%20we%20collect%20from%20you%2C%20or%20that%20you%20provide%20to%20us%2C%20will%20be%20processed%20b "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&title=Privacy&srcURL=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&srcTitle=Hit+Reach+WordPress+Web+Design+%26amp%3B+Search+Engine+Optimisation+%28SEO%29+in+Dundee%2C+Scotland "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&title=Privacy&source=Hit+Reach+WordPress+Web+Design+%26amp%3B+Search+Engine+Optimisation+%28SEO%29+in+Dundee%2C+Scotland&summary=Hit%20Reach%20%28%22We%22%29%20are%20committed%20to%20protecting%20and%20respecting%20your%20privacy.%0D%0A%0D%0AThis%20policy%20%28together%20with%20our%20Terms%20and%20Conditions%29%20sets%20out%20the%20basis%20on%20which%20any%20Personal%20Information%20we%20collect%20from%20you%2C%20or%20that%20you%20provide%20to%20us%2C%20will%20be%20processed%20b "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.hitreach.co.uk%2Fabout%2Fprivacy%2F&Title=Privacy "BlinkList")
-  * 
-
