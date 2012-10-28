@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606102232id_/http%3A//www.digitalworldz.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028083526id_/http%3A//www.digitalworldz.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # Digital World Forums - Privacy Policy
 
