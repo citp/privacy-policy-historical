@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfred.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530092829id_/http%3A//www.betfred.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfred.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029003917id_/http%3A//www.betfred.com/privacy) for the most accurate reproduction.*
 
 # Betfred Privacy Policy
 
@@ -49,6 +49,12 @@ Transactions carried out on our websites automatically collect information using
 We use cookies to analyse site usage, improve our content and product offerings and to customise promotional efforts, site content and layout. You can find out more about how Internet sites use cookies on [www.aboutcookies.org](http://www.aboutcookies.org/). 
 
 If you prefer, you can turn cookies off in your browser. The ‘Help’ menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies and how to prevent cookies altogether. If you do turn off or disable cookies, we may be unable to optimise your visit to our site and/or you may not be eligible for certain offers or promotions. 
+
+Our website, its procedures and this policy remain under review and may be updated further in the future. We are not responsible for cookies not controlled by us.
+
+We partner with SteelHouse to deliver offers that are relevant to your interests based on what you’ve viewed on our site. SteelHouse’s cookies only collect Non-Personally Identifiable Information for online marketing purposes. This information is anonymous and cannot be traced back to any individual. To learn more, please visit [SteelHouse’s Privacy Policy](http://www.steelhouse.com/privacy-policy).
+
+To receive less relevant offers and decline to be included in our online offers through SteelHouse, [click here](http://www.steelhouse.com/opt-out). To opt-out of all online marketing provided by members of the Network Advertising Initiative (NAI) of which SteelHouse is a member, [click here](http://www.networkadvertising.org/). 
 
 _Overseas transfer of your information_
 
