@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527095337id_/http%3A//www.webyana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029060843id_/http%3A//www.webyana.com/privacy) for the most accurate reproduction.*
 
-# Webyana - Create your free website in minutes
+# Get your free website in matter if minutes - Webyana.com
 
 ## Privacy Policy
 
