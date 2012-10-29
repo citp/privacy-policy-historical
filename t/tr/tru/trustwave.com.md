@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506055338id_/https%3A//www.trustwave.com/downloads/Trustwave-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030000359id_/https%3A//www.trustwave.com/downloads/Trustwave-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Trustwave Holdings, Inc. Privacy Policy
 
