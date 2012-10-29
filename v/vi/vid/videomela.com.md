@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomela.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510144958id_/http%3A//www.videomela.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomela.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029161454id_/http%3A//www.videomela.com/privacy) for the most accurate reproduction.*
 
 # Music Video - Watch Online Free!
 
