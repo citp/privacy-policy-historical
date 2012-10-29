@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sarsefiling.co.za privacy policy that was archived on 2012-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120308023905id_/http%3A//www.sarsefiling.co.za/PrivacyPolicyPage.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sarsefiling.co.za privacy policy that was archived on 2012-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029075854id_/http%3A//www.sarsefiling.co.za/PrivacyPolicyPage.aspx) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Untitled Page
@@ -12,6 +12,38 @@
 					document.frmDownloadDoc.txtFileID.value = FileID;
 					document.frmDownloadDoc.submit();
 				}
+				
+				function ShowMobiMessage(Application){
+				        var k = '1'
+				         var ReturnedURL = 'https://sarsefiling.mobi'
+				         
+				        if (k == '1')
+				            {
+				            
+				         if (Application == 'Site') {
+
+                         if (confirm('We detect that you are accessing the SARS eFiling website through a mobile device. For a more optimal eFiling experience, you can click ok to visit SARS eFiling mobisite at https:// sarsefiling.mobi '))
+			             document.location = ReturnedURL;
+                                                    } 
+
+                         if (Application == 'App') {
+                            if (confirm('We detect that you are accessing the SARS eFiling website through a mobile device. For a more optimal eFiling experience, you can click ok to download the application'))
+			             document.location = 'https://itunes.apple.com/za/app/sars-mobile-efiling/id554610898?mt=8&uo=4'
+			
+                                                   } 
+
+                          if (Application == 'Android') {
+                            if (confirm('We detect that you are accessing the SARS eFiling website through a mobile device. For a more optimal eFiling experience, you can click ok to download the application'))
+			             document.location = 'https://play.google.com/store/apps/details?id=air.za.gov.sars.efiling'
+			
+                                                   } 
+
+				            
+				           }	
+				            
+				}			
+				
+				
     </script>
 
 </head>
@@ -67,10 +99,11 @@
                                             <input type="image" name="ctl00$btnForms" id="ctl00_btnForms" onmouseover="this.src='images/HomePage/LeftNav/5_Forms_Roll.jpg'" onmouseout="this.src='images/HomePage/LeftNav/5_Forms.jpg'" src="images/HomePage/LeftNav/5_Forms.jpg" border="0"><br>
                                             <img id="ctl00_Image2" src="images/HomePage/LeftNav/6_CallCentre.jpg" border="0"><br>
                                            
+
                                            
                                             <img id="ctl00_Image4" src="images/HomePage/LeftNav/Extra_Nav_Background.jpg" border="0"><br>
-                                            <img id="ctl00_Image5" src="images/HomePage/LeftNav/Extra_Nav_Background.jpg" border="0"><br>
-                                            <img id="ctl00_Image6" src="images/HomePage/LeftNav/Extra_Nav_Background.jpg" border="0"><br>
+                                            <!--<img id="ctl00_Image5" src="images/HomePage/LeftNav/Extra_Nav_Background.jpg" border="0" /><br />
+                                            <img id="ctl00_Image6" src="images/HomePage/LeftNav/Extra_Nav_Background.jpg" border="0" /><br />-->
                                         </td>
                                         <td style="background-color: white; border-right: gray 2px solid;" align="left" valign="top">
                                             <table cellpadding="0" cellspacing="0" border="0">
