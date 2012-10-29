@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.co.in privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622212014id_/http%3A//www.acer.co.in/ac/en/IN/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.co.in privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029145923id_/http%3A//www.acer.co.in/ac/en/IN/content/privacy) for the most accurate reproduction.*
 
 # Privacy
 
