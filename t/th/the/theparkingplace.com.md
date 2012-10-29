@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theparkingplace.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629214452id_/http%3A//www.theparkingplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparkingplace.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029125905id_/http%3A//theparkingplace.com/privacy) for the most accurate reproduction.*
 
-# TheParkingPlace.com
+# The Parking Place
 
 **Last Updated May 18, 2011**
 
