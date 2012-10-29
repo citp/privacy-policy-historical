@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215063801id_/http%3A//www.southuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029085620id_/http%3A//www.southuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - South University
 
 ## South University Privacy Policy
 
-This policy was last updated on August 6, 2011  
+This policy was last updated on February 22, 2012  
 
 
 South University is committed to protecting any personal information that you may provide to us. We want you to understand what kinds of information we gather from you, how this information is used and protected, and how you can control its use. This statement discloses the privacy practices of South University’s Web site. By using South University’s Web site, the user agrees, without limitation or qualification, to be bound by this Privacy Policy. Any changes in our Privacy Policy will be communicated in this page, so please check back from time to time. This policy applies to the online collection of information at this Web site only.
@@ -24,6 +24,9 @@ We collect personal information you submit pursuant to the registration and inqu
 In addition, we may have collected similar information from you in the past. We use that historic information in accordance with this Privacy Policy. By using our Web site you are consenting to our continued use of any such information.
 
 When you make a request for further information and provide South University with your personal contact information, that information is collected and used for the purpose of responding to your specific requests. We do not share, sell or lease personal information about you except as set forth in this Web site.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to better understand and improve the user experience of our websites.   
+You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 **How Your Information is Used**   
 We utilize “cookies” on South University’s Web site. “Cookies” are small files that we send to and store on your computer so that we may recognize your computer as a unique machine the next time you visit South University’s Web site.
@@ -69,5 +72,5 @@ Pittsburgh, PA 15222
 Fax: 1.412.995.7295  
 Email: [csprivacy@edmc.edu](mailto:csprivacy@edmc.edu)
 
-This policy was last updated on August 6, 2011  
+This policy was last updated on February 22, 2012  
 
