@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impossibru.me privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023606id_/http%3A//www.impossibru.me/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impossibru.me privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029081651id_/http%3A//www.impossibru.me/page/privacy.html) for the most accurate reproduction.*
 
 # Most Viewed Pictures Ever - Impossibru.me
 
@@ -40,6 +40,12 @@ We implement a variety of security measures to maintain the safety of your perso
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page.](http://www.google.com/policies/privacy/ads/)
+
+
 
 **Do we disclose any information to outside parties?**
 
