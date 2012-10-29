@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.co.in privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604034714id_/http%3A//www.adidas.co.in/pages/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.co.in privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029134710id_/http%3A//www.adidas.co.in/pages/legal/privacy-policy) for the most accurate reproduction.*
 
 # adidas Privacy policy
 
