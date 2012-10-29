@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119010903id_/http%3A//www.fashionfling.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029110154id_/http%3A//www.fashionfling.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Fashion Fling - Reviews, Giveaways, Coupons, New Products, Coupon Codes, Blog: Privacy Policy
+# Privacy Policy
 
 We value and respect our visitors privacy. That is the reason why we included this privacy policy to make sure that your privacy is not being violated. If you have any questions concerning our Privacy Policy, please do not hesitate to ask!
 
