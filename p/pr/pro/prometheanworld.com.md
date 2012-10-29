@@ -1,83 +1,88 @@
-> *The following text is extracted and transformed from the prometheanworld.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104234109id_/http%3A//www.prometheanworld.com/server.php%3Fshow%3Dnav.1071) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometheanworld.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029041833id_/http%3A//www.prometheanworld.com/en-us/privacypolicy) for the most accurate reproduction.*
 
-# Privacy : Promethean.
+# Promethean World - Privacy Policy
 
-This version dated March 20, 2007 
+#### 1\. INFORMATION WE MAY COLLECT FROM YOU
 
-At Promethean we recognise that privacy is important. This Policy applies to all of the products, services and websites offered by Promethean Ltd. or its subsidiaries or affiliated companies (collectively, Promethean's "services").
+1.1 We may collect and process the following data about you:
 
-If you have any questions about this Policy, please feel free to contact us through our website or via email to [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com) or you can write to us at Promethean Limited, Promethean House, Lower Philips Road, Blackburn, Lancashire, BB15TH UK.
-
-### Information we collect and how we use it:
-
-We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
-
-  * Information you provide - When you sign up for a Promethean Account or other Promethean service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our online shop, we also request credit card or other payment account information which are maintained in encrypted form on secure servers owned by our Merchant Vendor Protx. We may combine the information you submit under your account with information from other Promethean services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
-  * Promethean cookies - When you visit Promethean, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search for resources. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Promethean features and services may not function properly if your cookies are disabled. 
-  * Log information - When you use Promethean services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * User communications - When you send email or other communication to Promethean, we may retain those communications in order to process your enquiries, respond to your requests and improve our services. 
-  * Links - Promethean may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our customised content and advertising. 
-  * Other sites - This Privacy Policy applies to web sites and services that are owned and operated by Promethean Ltd. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+  1. Information that you provide by filling in forms on Our Site. This includes information provided at the time of registering to use Our Site, posting material in the Planet forums or blogs or requesting further service, products or downloads. We may also ask you for information when you enter a competition or promotion, and when you report a problem with Our Site.
+  2. If you contact Us, We may keep a record of that correspondence.
+  3. Details of transactions you carry out through Our Site and of the fulfilment of your orders.
+  4. Details of your visits to Our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for Our own billing purposes or otherwise and the resources that you access.
 
 
 
-Promethean only processes personal information for the purposes described in the Privacy Policy. In addition to the above, such purposes include:
+#### 2\. IP ADDRESSES AND COOKIES
 
-  * Providing our products and services to users, including the display of customised content and advertising; 
-  * Auditing, research and analysis in order to maintain, protect and improve our services; 
-  * Ensuring the technical functioning of our network; and 
-  * Developing new services. 
+2.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to Our advertisers. This is statistical data about Our users' browsing actions and patterns, and does not identify any individual.
 
+2.2 For the same reason, We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help Us to improve Our Site and to deliver a better and more personalised service. They enable Us:
 
-
-Promethean processes personal information on our servers in Canada and in other countries. In some cases, we process personal information on a server outside your own country. We only process personal information to provide our own services to you and this information is never disclosed to a third party. This is subject to a legal challenge to provide such information.
-
-### Choices for personal information
-
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
-
-If we propose to use personal information for any purposes other than those described in this Policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy, unless we have obtained your prior consent. 
-
-You can decline to submit personal information to any of our services, in which case Promethean may not be able to provide those services to you. 
-
-### Information sharing 
-
-Promethean only shares personal information with other companies or individuals outside of Promethean in the following limited circumstances: 
-
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Promethean, its users or the public as required or permitted by law. 
+  1. To speed up your use of Our Site.
+  2. To store information about your preferences, and so allow Us to customise Our Site according to your individual interests.
+  3. To estimate Our customer base and usage pattern.
+  4. To recognise you when you return to Our Site.
 
 
 
-Promethean may transfer the personal data it holds as part of a transfer of all or the relevant part of its business or assets.
+2.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of Our Site. Unless you have adjusted your browser setting so that it will refuse cookies, Our system will issue cookies when you log on to Our Site.
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular resource, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
+2.4 Please note that Our advertisers may also use cookies, over which We have no control.
 
-Please contact us at the address below for any additional questions about the management or use of personal data. 
+#### 3\. WHERE WE STORE YOUR PERSONAL DATA
 
-### Information security 
+3.1 The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") . It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-We take appropriate security measures to protect against unauthorised access to or unauthorised alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorised access to systems where we store personal data. 
+3.2 [All information you provide to Us is stored on Our secure servers. Any payment transactions will be encrypted [using SSL technology]. Where We have given you (or where you have chosen) a password which enables you to access certain parts of Our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-We restrict access to personal information to Promethean employees who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+3.3 Unfortunately, the transmission of information via the internet is not completely secure. Although We will do Our best to protect your personal data, We cannot guarantee the security of your data transmitted to Our Site; any transmission is at your own risk. Once We have received your information, We will use procedures and security features to try to prevent unauthorised access.
 
-### Data integrity 
+#### 4\. USES MADE OF THE INFORMATION
 
-Promethean processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
+4.1 We use information held about you in the following ways:
 
-### Accessing and updating personal information 
+  1. To ensure that content from Our Site is presented in the most effective manner for you and for your computer.
+  2. To provide you with information, products or services that you request from Us or which We feel may interest you, where you have consented to be contacted for such purposes.
+  3. To carry out Our obligations arising from any contracts entered into between you and Us.
+  4. To allow you to participate in interactive features of Our service (such as the Planet blogs, forums, wikis, online storage, virtual field trip and the social bookmarking sections of Our Site, when you choose to do so.
+  5. To notify you about changes to Our service.
+  6. We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and We or they may contact you about these by post or telephone.
+  7. If you are an existing customer, We will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+  8. If you are a new customer, and where We permit selected third parties to use your data We (or they) will contact you by electronic means only if you have consented to this. i) If you do not want Us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the registration form.
+  9. We do not disclose information about identifiable individuals to our advertisers, but We may provide them with aggregate information about our users (for example, We may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data We have collected from you to enable Us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-When you use Promethean services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardise the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. 
 
-### Enforcement 
 
-Promethean regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Promethean's treatment of personal information by contacting us through this web site or via email to [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com) or by writing to us at Promethean Limited, Promethean House, Lower Philips Road, Blackburn, Lancashire, BB15TH UK. When we receive formal written complaints at this address, it is Promethean's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Promethean and an individual. 
+#### 5\. DISCLOSURE OF YOUR INFORMATION
 
-### Changes to this policy 
+5.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-Please note that this Privacy Policy may change from time to time. If the Policy changes, the changes will be posted on the site and your continued use of the site will then be taken as acceptance of the change.
+5.2 We may disclose your personal information to third parties:
 
- We expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
+  1. In the event that We sell or buy any business or assets, in which case We may disclose your personal data to the prospective seller or buyer of such business or assets.
+  2. If Promethean Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  3. If We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Promethean Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
-  
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or via email to [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com) or you can write to Promethean Limited, Promethean House, Lower Philips Road, Blackburn, Lancashire, BB15TH UK.
+
+
+#### 6\. YOUR RIGHTS
+
+6.1 You have the right to ask Us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if We intend to use your data for such purposes or if We intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data. You can also exercise the right at any time by updating the preferences in your Promethean Planet account.
+
+6.2 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+#### 7\. CHANGES TO OUR PRIVACY POLICY
+
+Any changes We may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. You are expected to check this page from time to time to take notice of any changes We make, as they are legally binding on you. Some of the provisions contained in this Privacy Policy may also be superseded by provisions or notices published elsewhere on Our Site.
+
+#### 8\. CONTACT
+
+Questions, comments and requests regarding this privacy policy should be addressed to [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com "Email Webmaster")
+
+* * *
+
+Site operated by  
+Promethean Limited  
+Company number 1308938  
+Registered Office – Promethean Limited, Promethean House, Lower Philips Road, Whitebirk Industrial Estate, Blackburn, Lancashire BB1 5TH.
