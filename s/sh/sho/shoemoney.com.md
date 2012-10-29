@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoemoney.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516161153id_/http%3A//www.shoemoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemoney.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029012929id_/http%3A//www.shoemoney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Shoemoney - Skills To Pay The Bills
+# Privacy Policy - ShoeMoney Internet Marketing Blog
 
 **SHOEMONEY.COM PRIVACY POLICY (UPDATED 8/2011)**
 
