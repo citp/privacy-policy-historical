@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbaitheatreguide.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418052242id_/http%3A//www.mumbaitheatreguide.com/dramas/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaitheatreguide.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029121555id_/http%3A//www.mumbaitheatreguide.com/dramas/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Policy : www.MumbaiTheatreGuide.com
 
