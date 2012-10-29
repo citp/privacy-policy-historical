@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailbrain.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628043129id_/http%3A//www.emailbrain.com/eb/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailbrain.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029052204id_/http%3A//www.emailbrain.com/eb/pp.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | EmailBrain Smart Email Marketing
 
