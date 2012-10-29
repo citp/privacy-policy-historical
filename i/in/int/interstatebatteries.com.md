@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512044118id_/http%3A//www.interstatebatteries.com/cs_eStore/ContentNet/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029061302id_/http%3A//www.interstatebatteries.com/cs_eStore/ContentNet/privacy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
@@ -14,7 +14,7 @@
 
 This privacy policy (this “ **Policy** ”) is incorporated in, and subject to, the _[Conditions of Use](http://www.interstatebatteries.com/cs_eStore/ContentNet/legal.aspx)_ (the “ **Conditions of Use** ”) for Interstate Batteries’ website (the “ **Site** ”). Please refer to the Conditions of Use for definitions of words with initial capitals letters that are not otherwise defined in this Policy.
 
-IB reserves the right, in IB’s sole discretion, to change, modify, add, or remove portions of this Policy at any time without notice to you. You should read this Policy periodically for changes. If you use the Site after IB posts changes to this Policy, you are deemed to have accepted the changed Policy. This Policy was last changed on October 29th, 2010.
+IB reserves the right, in IB’s sole discretion, to change, modify, add, or remove portions of this Policy at any time without notice to you. You should read this Policy periodically for changes. If you use the Site after IB posts changes to this Policy, you are deemed to have accepted the changed Policy. This Policy was last changed on May 5th, 2012.
 
  
 
