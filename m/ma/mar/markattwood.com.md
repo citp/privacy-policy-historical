@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markattwood.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605075218id_/http%3A//www.markattwood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markattwood.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029090339id_/http%3A//markattwood.com/privacy-policy) for the most accurate reproduction.*
 
 # MarkAttwood.com Privacy Statement | Mark Attwood
 
