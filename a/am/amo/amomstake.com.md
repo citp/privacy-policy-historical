@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amomstake.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606073840id_/http%3A//www.amomstake.com/disclosure-privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amomstake.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029063921id_/http%3A//www.amomstake.com/disclosure-privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Disclosure, Privacy Policy, Terms & Conditions - A Mom's Take | A Mom's Take
 
@@ -28,7 +28,7 @@ A Mom’s Take is not responsible for the context of external internet sites. Yo
 
 A Mom’s Take may on occasion ask for personal information, such as for giveaways. This information will not be sold or used for any purpose other than contacting the winner of the giveaway. Your information may also be sent to giveaway sponsors for mailing or contacting you in regards to the prize or giveaway. A Mom’s Take is not responsible for information shared with giveaway sponsors as a means for mailing a prize. It is the intent of A Mom’s Take that this information be collected for confirming winners of a giveaway as a method of prize distribution only.
 
-We use third-party advertising companies to serve ads when you visit our website. This companies may use aggregate information (not including your name, address, email address or telephone number) about your visit to this and other websites in order to provide advertisements about good and services of interest to you.
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
 ## **Terms & Conditions**
 
