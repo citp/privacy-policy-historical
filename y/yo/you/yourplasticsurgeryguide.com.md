@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourplasticsurgeryguide.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510101943id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourplasticsurgeryguide.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029055434id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Consumer Guide to Cosmetic Plastic Surgery
 
@@ -37,5 +37,3 @@ You must be at least 18 years old to have our permission to use this site. Our p
 ## Other Sites
 
 You have the opportunity to access other sites from this website, by either clicking on a text link or on an advertisement. Please be aware that when you leave this site, you will enter sites outside the control of Ceatus Media Group LLC, and the privacy policies of those sites are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection.
-
-[page updated June 2008]
