@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502122152id_/https%3A//www.helpscout.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029152308id_/https%3A//www.helpscout.net/privacy-policy) for the most accurate reproduction.*
 
-# Customer Service Software - Web Based Help Desk - Email Ticketing Application
+# Privacy Policy | Help Scout
 
 #### We are committed to protecting your personal information.
 
