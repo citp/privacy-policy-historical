@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsaver.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630044925id_/http%3A//dealsaver.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsaver.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029162138id_/http%3A//dealsaver.com/privacy_policy.html) for the most accurate reproduction.*
 
 # dealsaver® Privacy Policy
 
@@ -12,7 +12,7 @@ dealsaver.com collects and stores personally identifiable information such as yo
 
 This Privacy Policy is subject to change from time to time by dealsaver.com and your continued use of dealsaver.com means you agree to, without modification, the revisions. If you are a registered member of dealsaver.com, you will be notified of material revisions to this Privacy Policy via an e-mail message to the e-mail address that you provided at registration. If you are not a registered member of dealsaver.com, you may view revisions to this Privacy Policy on this page. Material changes to this Privacy Policy will be indicated by a revised effective date at the top left hand corner of this page and by a notice posted on the homepage of dealsaver.com. Whether or not you are a registered member of dealsaver.com, it is your responsibility to check back and review this page regularly to ensure you are familiar with the most current terms. Should you object to any such modifications to this Privacy Policy or become dissatisfied with dealsaver.com in any way, your only option is to immediately terminate your membership and discontinue use of dealsaver.com. Otherwise, continuing to use the service after the effective date means that you agree to be bound by the changes, without modification.
 
-Information we collect
+##### Information we collect
 
 Access to certain special content, services and features on dealsaver.com may require users to be subscribers to a local McClatchy Company individual newspaper and/or to become registered members at dealsaver.com. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a daily deal or other offer, a print subscription to a local McClatchy Company individual newspaper or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt out of subscribing to e-mail newsletters and alerts sent to you on behalf of dealsaver.com and its advertisers.
 
@@ -22,11 +22,11 @@ You may also be asked to create a separate registration account with some of the
 
 If you wish to forward an deal offer, coupon, article or other dealsaver.com content to a friend, we will ask that you provide your friend's name and e-mail address. While we may collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service.
 
-Passive data collection and use
+##### Passive data collection and use
 
 Like most Web sites, dealsaver.com also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on dealsaver.com, search queries, your click-stream data, the location that referred you to dealsaver.com and the average number of pages viewed. If you visit another Web site prior to browsing dealsaver.com, that Web site might place personally identifiable information within a URL, which may be logged by us. Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. Note that logging your IP address does not in and of itself provide us with your name, e-mail address or home or work address. We use this log information for systems administration and troubleshooting purposes and may also use it to gather general demographic information about you such as your general location and your Internet Service Provider. To better provide our services to you and to develop member profiles that enable us to tailor dealsaver.com's services and its advertisements to your interests, we may correlate this log information with other information about you, such as your registration information, purchase history or newspaper subscription records. We may provide to third parties anonymous aggregated (non-personally identifiable) general information about our Web site and its users.
 
-Use of cookies
+##### Use of cookies
 
 Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of dealsaver.com and to allow us to better understand how people use dealsaver.com through click-stream analysis. For example, cookies may be used to store information such as your member name and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to limit the number of times you see a particular advertisement while visiting dealsaver.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to dealsaver.com and may prevent you from using certain functions.
 
@@ -42,15 +42,15 @@ Users may elect to be excluded from these and other targeted-advertising network
 
 Pages on dealsaver.com may contain tiny electronic images known as web beacons. We use web beacons to assist us in delivering cookies on dealsaver.com and to allow us to count users who have visited those pages. We may include web beacons in promotional e-mail messages in order to determine whether messages have been opened and acted upon. Many of our web beacons are provided by Omniture, which uses the domain 2o7.net. Please refer to Omniture's privacy policy at http://www.omniture.com/en/privacy for more information concerning the use of web beacons. Users may elect to opt out of Omniture cookie tracking by following this link http://www.omniture.com/en/privacy/2o7 and clicking on the "Click Here To Opt-Out of 2o7.net Cookie Tracking Now" link at the bottom of the page.
 
-Behavioral Targeting
+##### Behavioral Targeting
 
 dealsaver.com may participate in the APT from Yahoo! platform and Google’s DoubleClick Boomerang for Publishers. Yahoo! is an ad network partner to display ads on our sites. Boomerang is a tool that enables us to participate in behavioral networks. To improve your ad experience on dealsaver.com and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display, and dealsaver.com may use information acquired from other sources. Learn more about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the Network Advertising Initiative.
 
-Use of personally identifiable information
+##### Use of personally identifiable information
 
 Personally identifiable information may be accessed by the user who entered it, by individual local McClatchy newspapers and dealsaver.com personnel, and by certain third parties, such as those who provide technical support or content services to dealsaver.com. For example, your billing and credit card information will be shared with third parties who perform tasks required to complete the purchase transaction. We require these third parties to keep any personal information supplied by us confidential. We also endeavor to keep your personally identifiable information inaccessible to other users or advertisers of dealsaver.com. Note that your first name may be displayed on dealsaver.com when you visit dealsaver.com as a logged in member. We will also display your e-mail address and contact information in your Member Center. While no Web site is completely secure, we make reasonable efforts to secure the Member Center, such that; it can only be accessed by logging in with your member name and password. 
 
-We may also disclose personally identifiable information when deemed necessary or appropriate: 
+##### We may also disclose personally identifiable information when deemed necessary or appropriate:
 
   * * to comply with a subpoena or other service of process, court order, or other legal proceeding, or if otherwise requested by a legitimate law enforcement body to cooperate in their investigations;
   * * to otherwise comply with applicable law;
@@ -61,15 +61,15 @@ or as required by law;
 
 
 
-Use of aggregated information
+##### Use of aggregated information
 
 To describe our services to prospective partners, advertisers and others, we may use your personally identifiable information to create a compiled, aggregate and anonymous view of the dealsaver.com audience and their usage patterns ("Aggregated Information"). We use Aggregated Information to operate our services and to better understand our audience as we develop new content and services. Aggregated Information may also be shared with third parties with whom we contract to provide content and services on dealsaver.com as well as advertisers so that they can better understand our audience. For example, we might disclose that a certain percentage of our users are female or within a certain age range or live within a cluster of ZIP codes.
 
-Children's privacy
+##### Children's privacy
 
 dealsaver.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of dealsaver.com in order to access general dealsaver.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below., dealsaver.com, 1100 Situs Court, Raleigh, NC 27606, or 919-861-1200, or [dealsaversupport@mcclatchyinteractive.com.](mailto:dealsaversupport@mcclatchyinteractive.com)
 
-Member mail and e-mail offers
+##### Member mail and e-mail offers
 
 dealsaver.com does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to on dealsaver.com as e-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may visit the Member Center ,if applicable, and change one or more of the category-specific permissions related to receiving e-mail from the McClatchy Company individual newspapers andDealSaver.com advertisers. Alternatively, the user may opt-out by following the opt-out instructions provided at the bottom of each email newsletter. 
 
@@ -81,34 +81,34 @@ When a user specifically authorizes e-mail solicitations we make available the u
 
 Our HTML-encoded e-mail messages may include graphic files, which we use to gather information about e-mails sent our members. When such a message is opened in an HTML-capable e-mail program, the recipient's computer accesses our server to retrieve the graphic file, and allows us to record and store the date and time, the recipient's e-mail address, and other standard logging information. These HTML-encoded e-mail messages may also read cookies.
 
-Affiliated sites, linked sites and advertisements
+##### Affiliated sites, linked sites and advertisements
 
 dealsaver.com expects its partners, providers of content and services and advertisers to respect the privacy of its users. Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices. For example, during your visit to dealsaver.com you may link to, or view as part of a frame on a dealsaver.com page, certain content that is actually created or hosted by a third party. Also through dealsaver.com you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties. The McClatchy Company individual newspapers and dealsaver.com are not responsible for the actions or policies of such third parties. You should use common sense when you navigate the Web and be aware of when you travel outside of dealsaver.com. In addition, you should carefully review the applicable privacy policies of each Web site you visit and each Web service you use.
 
-Electronic commerce
+##### Electronic commerce
 
 For certain electronic commerce services on dealsaver.com, \such as purchasing deal vouchers electronically or subscribing to an individual McClatchy Company local newspaper,, we require additional information. To complete these transactions, we may collect information from you such as your name, credit card number and other financial or personally identifiable information. We endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology, which encrypts information you submit. The dealsaver.com uses the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties except for the providers of the transaction processing and the issuers of credit cards in order to process the transaction, or as otherwise set forth in this policy.
 
-Changing your personal information and deleting your account
+##### Changing your personal information and deleting your account
 
 In general, if you are a registered member, you may return to your account information page in the Member Center to update the information you previously provided to us. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change information regarding their date of birth. dealsaver.com may retain personal information for an indefinite amount of time.
 
 You can delete your dealsaver.com membership account in Member Center by clicking on the link labeled "delete my account." By doing so, all but a transactional record of your membership account will be removed from our databases, though some records may remain on back-up media. Note that by deleting your account, you will cancel your membership and may no longer be able to access those parts of dealsaver.com for which membership is required.
 
-Remember the risks when you use the Internet
+##### Remember the risks when you use the Internet
 
 You should know that when you voluntarily disclose personal information in a public location on the dealsaver.com Web site (for example, in the discussion forums), that information may be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot be responsible for information that you choose to publicly disclose. Further, you are solely responsible for maintaining the secrecy of any passwords or other account information. Although we make good faith efforts to store the information we collect in a secure operating environment that is not available to the public and to work with responsible third parties, we cannot guarantee complete security for your information.
 
 In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through dealsaver.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
 
-International users
+##### International users
 
 If you are an international user, by using dealsaver.com or by registering for any of its services, you agree that dealsaver.com may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by going to your account information page in the Member Center and personally updating the information in accordance with applicable law or by contacting us at the address or e-mail set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
 
-Platform for privacy preferences
+##### Platform for privacy preferences
 
 dealsaver.com supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While dealsaver.com supports P3P, the resulting code has inherent limitations such that it does not fully and may not accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code or other privacy principals for all purposes.
 
-Contact Information
+##### Contact Information
 
 If you have any questions or comments about our policies, we may be reached at dealsaver.com, c/o McClatchy Interactive, 1100 Situs Court, Raleigh, NC 27606 919-861-1200. or at [dealsaversupport@mcclatchyinteractive.com](mailto:dealsaversupport@mcclatchyinteractive.com).
