@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localbuzz.com.au privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509052625id_/http%3A//www.localbuzz.com.au/cms.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbuzz.com.au privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029105240id_/http%3A//www.localbuzz.com.au/cms.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy : LocalBuzz!
 
@@ -108,4 +108,4 @@ The LocalBuzz Sites may contain links to third party websites to which we have n
 
 **5\. Future changes**
 
-Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features. Because of this, from time to time, our policies will be reviewed and may be revised. LocalBuzz! reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each LocalBuzz! website. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
+Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features. Because of this, from time to time, our policies will be reviewed and may be revised. LocalBuzz! reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each LocalBuzz! website.[Breitling Bentley](http://www.qualityreplica.biz/breitling/bentley) The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
