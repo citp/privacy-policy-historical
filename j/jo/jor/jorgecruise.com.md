@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617063431id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029020627id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Jorge Cruise: Get my FREE 3 day menu to lose 7lbs of belly fat
+# Privacy Policy - Which diet? -- JorgeCruise.com
 
 ## Privacy Policy
 
-JorgeCruise.com, Inc. takes your privacy seriously. Earning and maintaining your trust is important to us. We want you to understand what information we gather from you, how this information is used and protected. This Privacy Policy and Agreement ("Privacy Policy") discloses the privacy practices of the JorgeCruise.com. By using the Website, you agree, without limitation or qualification, to be bound by this Privacy Policy. This Privacy Policy applies only to information collected by JorgeCruise.com online.
+Jorge Cruise Media takes your privacy seriously. Earning and maintaining your trust is important to us. We want you to understand what information we gather from you, how this information is used and protected. This Privacy Policy and Agreement ("Privacy Policy") discloses the privacy practices of the JorgeCruise.com. By using the Website, you agree, without limitation or qualification, to be bound by this Privacy Policy. This Privacy Policy applies to information collected by JorgeCruise.com, TheBellyFatCure.com and SlimHappyBelly.com online.
 
 We may amend this Privacy Policy from time to time, and therefore encourage you to revisit this page periodically or when you notice new features on the Website.
 
@@ -25,11 +25,13 @@ If you have any questions about our Privacy Policy or feel that we are not abidi
 Send a letter to:
 
 JorgeCruise.com, Inc.   
-2924 Emerson Street,   
-Suite 200 San Diego, CA 92106   
 Attn: Privacy / Legal  
-Or, send a fax to: (619) 374-2004  Attn: Privacy / Legal
+2924 Emerson Street,   
+Suite 200   
+San Diego, CA 92106 
 
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.
 
-Effective Date: This policy was last updated on December 22, 2010
+  
+Effective Date: This policy was last updated on March 20, 2012  
+
