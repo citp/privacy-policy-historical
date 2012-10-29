@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourplasticsurgeryguide.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510101943id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourplasticsurgeryguide.com privacy policy that was archived on 2012-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029055434id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -12,7 +12,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<script src="/g/js/scripts.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" src="/g/js/scripts.js"></script>
 </head><body id="subpage"><div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
   window.fbAsyncInit = function() {
@@ -35,12 +35,10 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/colorbox/jquery.colorbox.js"></script>
 <script type="text/javascript" src="/scripts/jquery.thickbox.js"></script>
+<script type="text/javascript" src="/scripts/sifr.js"></script>
 <script type="text/javascript" src="/scripts/common.js"></script>
 <script type="text/javascript" src="/scripts/init.js"></script>
-<script type="text/javascript" src="/scripts/sifr.js"></script>
 <script type="text/javascript" src="http://www.yourplasticsurgeryguide.com/surgeons/videoplayer/js/flowplayer-3.2.2.min.js"></script>
-
-
 
 
 <!--[if IE]>
@@ -56,7 +54,30 @@ try {
 </script>
 <![endif]-->
 
-
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript">
+//alert('hi');
+$(document).ready(function(){ 
+  $(window).scroll(function(){ 
+    var h = $('#container').height(); 
+    var y = $(window).scrollTop();
+		var m = $.cookie('geo_toolbar');
+ 		
+		if( m != 'on' ){
+			if( y > (h*.25) ) { 
+				$("#geo-zipsearch-float").slideDown("slow"); 
+			} else { 
+				$("#geo-zipsearch-float").slideUp("slow"); 
+			} 
+		}
+  }); 
+ 
+  $('.close-float-btn').bind('click', function() {
+		$.cookie('geo_toolbar', 'on', { path: '/' });    $("#geo-zipsearch-float").slideUp("slow"); 
+		return false;
+  }); 
+})
+</script>
 
 <script type="text/javascript">
 
@@ -73,7 +94,8 @@ try {
 </script>
 
 
-<div id="container"><a name="top"></a><a href="#skipnav" class="skip">Skip to Site Navigation</a>
+<div id="container">
+<a name="top"></a><a href="#skipnav" class="skip">Skip to Site Navigation</a>
 
 <div id="header"><a href="http://www.yourplasticsurgeryguide.com"><img src="/art14/ypsg-logo1.gif" border="0" alt="Consumer Guide to Plastic Surgery" id="logo"></a>
 <a href="/surgeons/" id="fas"><img src="/art14/fas.gif" border="0" alt="find a plastic surgeon"></a></div><!-- /header -->
@@ -81,8 +103,8 @@ try {
 <div id="topnav"><form method="get" action="http://search.freefind.com/find.html" name="search" accept-charset="utf-8" target="_self">
 <input type="hidden" name="id" value="3569271"><input type="hidden" name="pageid" value="r"><input type="hidden" name="mode" value="all"><input type="hidden" name="n" value="0"><input type="hidden" name="_charset_" value=""><input type="hidden" name="bcd" value="÷">
 <ul>
-<li id="home"><a href="http://www.yourplasticsurgeryguide.com">Plastic Surgery<span></span></a></li>
-<li id="choose"><a href="/choose-surgeon/">Choosing Your Surgeon<span></span></a>
+<li id="search"><input type="text" name="query" value="SEARCH" class="submit" onfocus="removeText(this)" onblur="replaceText(this)"></li>
+<li id="choose"><a href="/choose-surgeon/">How to choose a surgeon<span></span></a>
 	<ul>
 	<li><a href="/choose-surgeon/overview.htm">How do I choose a plastic surgeon?</a></li>
 	<li><a href="/choose-surgeon/office-surgery.htm">Office-based cosmetic surgery centers</a></li>
@@ -103,27 +125,20 @@ try {
     <li><a href="/photo-gallery-rhinoplasty.htm">Rhinoplasty before and after photos</a></li>
     </ul>
 </li>
-<li id="advisory"><a onclick="return false;">Surgery Costs<span></span></a>
+<!--<li id="videog"><a href="/video-gallery/">Plastic Surgery Videos<span></span></a>
 	<ul>
-	<li><a href="/checklists/plastic-surgery-cost.htm">Plastic surgery costs</a></li>
-	<li><a href="/checklists/financing.htm">Financing</a></li>
-	<li><a href="/rhinoplasty/cost.htm">Rhinoplasty costs</a></li>
-	<li><a href="/breast-augmentation/cost.htm">Breast augmentation costs</a></li>
-	<li><a href="/breast-lift/lift-cost.htm">Breast lift costs</a></li>
-	<li><a href="/breast-reduction/cost.htm">Breast reduction costs</a></li>
-	<li><a href="/liposuction/cost.htm">Liposuction costs</a></li>
-	<li><a href="/tummy-tuck/cost.htm">Tummy Tuck costs</a></li>
-	</ul></li>
-<li id="search"><strong>Search<span></span></strong> <input type="text" name="query" value="" class="text"> <input type="image" src="/art14/btn-submit-topnav.png" name="submit" value="Find" class="submit"></li>
+	<li><a href="/video-gallery/video-gallery-breast.htm">Breast surgery videos</a></li>
+	<li><a href="/video-gallery/video-gallery-face.htm">Facial treatment videos</a></li>
+    <li><a href="/video-gallery/video-gallery-lipo.htm">Liposuction videos</a></li>
+    <li><a href="/video-gallery/video-gallery-nose.htm">Rhinoplasty videos</a></li>
+    <li><a href="/video-gallery/video-gallery-tummy.htm">Tummy Tuck videos</a></li>
+	</ul></li>-->
+<li id="advisory"><a href="/advisory-board.htm">Advisory Board<span></span></a></li>
 </ul></form>
 </div><!-- /topnav -->
-
 <div id="contentWrapper"><span class="topCorner"></span>
-
 <div id="content">
-
 <div id="editorial">
-
 <h1>Privacy Statement</h1>
 
 <p>We respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.</p>
@@ -161,10 +176,7 @@ try {
 <h2>Other Sites</h2>
 
 <p>You have the opportunity to access other sites from this website, by either clicking on a text link or on an advertisement. Please be aware that when you leave this site, you will enter sites outside the control of Ceatus Media Group LLC, and the privacy policies of those sites are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection.</p>
-
-<p id="updated">[page updated June 2008]</p>
-
-</div> <!-- /editorial -->
+</div><!-- /editorial -->
 
 <div id="rightSidebar"><div class="ipWrapper">
 	<div class="topbox"></div>
@@ -174,25 +186,27 @@ try {
 				
 					<li id="stub1">
 						<script type="text/javascript">
-							_gaq.push(['_trackEvent', 'PS_226_970:Kenneth Bermudez, MD, FACS:94118:Plastic Surgery', 'profile_stub-view', '94013' ]);
+							_gaq.push(['_trackEvent', 'PS_1353_2288:Wandra Miles, MD:98104:Plastic Surgery', 'profile_stub-view', '98144' ]);
 						</script>
 						<p class="docpic">
 							<!-- THUMBNAIL 1 -->
       				
-								<img alt="Bermudez-50x50" class="docpic1" height="48" src="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez/bermudez-50x50.jpg" style="border:0;" width="48">
+								<img alt="Miles-50x50" class="docpic1" height="48" src="http://www.yourplasticsurgeryguide.com/surgeons/p/miles/miles-50x50.jpg" style="border:0;" width="48">
 							<!-- THUMBNAIL 2 -->
       										</p>
 						<!-- PROFILE NAME -->
       		   
-							<h4>Kenneth Bermudez, MD, FACS</h4>
+							<h4>Wandra Miles, MD</h4>
 						<p>
 							<!-- PRACTICE -->
-														<!-- LINE 1, LINE 2 -->
-      		    								525 Spruce Street<br>
+								Miles Plastic Surgery<br>							<!-- LINE 1, LINE 2 -->
+      		    
+								1221 Madison St.<br>
+								Suite 1520<br>
 							<!-- CITY, STATE ZIP -->
-      		    San Francisco, CA 94118<br>
+      		    Seattle, WA 98104<br>
 							<!-- PHONE -->
-							<strong>(800) 519-7541</strong><br>							<!-- URL -->
+							<strong>(888) 829-6018</strong><br>							<!-- URL -->
 						</p> 
 						
 							<div class="buttoncontain">
@@ -203,27 +217,22 @@ try {
 											
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_977:Kenneth Bermudez, MD, FACS:94118:Breast Augmentation', 'profile_stub-visit-profile:button1',  '94013']);" title="Breast"><span>Breast</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2290:Wandra Miles, MD:98104:Breast Augmentation', 'profile_stub-visit-profile:button1',  '98144']);" title="Breast"><span>Breast</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_979:Kenneth Bermudez, MD, FACS:94118:Facelift', 'profile_stub-visit-profile:button1',  '94013']);" title="Facelift"><span>Facelift</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2291:Wandra Miles, MD:98104:Facelift', 'profile_stub-visit-profile:button1',  '98144']);" title="Facelift"><span>Facelift</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_982:Kenneth Bermudez, MD, FACS:94118:Liposuction', 'profile_stub-visit-profile:button1',  '94013']);" title="Liposuction"><span>Liposuction</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2292:Wandra Miles, MD:98104:Liposuction', 'profile_stub-visit-profile:button1',  '98144']);" title="Liposuction"><span>Liposuction</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_985:Kenneth Bermudez, MD, FACS:94118:Rhinoplasty', 'profile_stub-visit-profile:button1',  '94013']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
-													</li>
-
-												
-													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_988:Kenneth Bermudez, MD, FACS:94118:Tummy Tuck', 'profile_stub-visit-profile:button1',  '94013']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2289:Wandra Miles, MD:98104:Tummy Tuck', 'profile_stub-visit-profile:button1',  '98144']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
 													</li>
 										</ul>
 									</li>
@@ -237,27 +246,22 @@ try {
 											
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_977:Kenneth Bermudez, MD, FACS:94118:Breast Augmentation', 'profile_stub-visit-profile:button2',  '94013']);" title="Breast"><span>Breast</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2290:Wandra Miles, MD:98104:Breast Augmentation', 'profile_stub-visit-profile:button2',  '98144']);" title="Breast"><span>Breast</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_979:Kenneth Bermudez, MD, FACS:94118:Facelift', 'profile_stub-visit-profile:button2',  '94013']);" title="Facelift"><span>Facelift</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2291:Wandra Miles, MD:98104:Facelift', 'profile_stub-visit-profile:button2',  '98144']);" title="Facelift"><span>Facelift</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_982:Kenneth Bermudez, MD, FACS:94118:Liposuction', 'profile_stub-visit-profile:button2',  '94013']);" title="Liposuction"><span>Liposuction</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2292:Wandra Miles, MD:98104:Liposuction', 'profile_stub-visit-profile:button2',  '98144']);" title="Liposuction"><span>Liposuction</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_985:Kenneth Bermudez, MD, FACS:94118:Rhinoplasty', 'profile_stub-visit-profile:button2',  '94013']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
-													</li>
-
-												
-													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/bermudez-san-francisco-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_226_988:Kenneth Bermudez, MD, FACS:94118:Tummy Tuck', 'profile_stub-visit-profile:button2',  '94013']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/miles-seattle-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_1353_2289:Wandra Miles, MD:98104:Tummy Tuck', 'profile_stub-visit-profile:button2',  '98144']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
 													</li>
 										</ul>
 									</li>
@@ -267,29 +271,27 @@ try {
 
 					<li id="stub2">
 						<script type="text/javascript">
-							_gaq.push(['_trackEvent', 'PS_39_606:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Plastic Surgery', 'profile_stub-view', '94013' ]);
+							_gaq.push(['_trackEvent', 'PS_194_1371:Mary Lee Peters, MD:98104:Plastic Surgery', 'profile_stub-view', '98144' ]);
 						</script>
 						<p class="docpic">
 							<!-- THUMBNAIL 1 -->
       				
-								<img alt="Poulos-50x50" class="docpic1" height="48" src="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos/poulos-50x50.jpg" style="border:0;" width="48">
+								<img alt="Dr-50x50" class="docpic1" height="48" src="http://www.yourplasticsurgeryguide.com/surgeons/p/peters/dr-50x50.jpg" style="border:0;" width="48">
 							<!-- THUMBNAIL 2 -->
-      				
-								<img alt="Hvistendahl-50x50" class="docpic2" height="48" src="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos/hvistendahl-50x50.jpg" style="border:0;" width="48">
-						</p>
+      										</p>
 						<!-- PROFILE NAME -->
       		   
-							<h4>Stanley G. Poulos, MD<br>Yngvar A. Hvistendahl, MD</h4>
+							<h4>Mary Lee Peters, MD</h4>
 						<p>
 							<!-- PRACTICE -->
-								Plastic Surgery Specialists<br>							<!-- LINE 1, LINE 2 -->
+								Mary Lee Peters, MD<br>							<!-- LINE 1, LINE 2 -->
       		    
-								350 Bon Air Road<br>
-								Suite 300<br>
+								901 Boren Avenue<br>
+								Suite 1650<br>
 							<!-- CITY, STATE ZIP -->
-      		    Greenbrae, CA 94904<br>
+      		    Seattle, WA 98104<br>
 							<!-- PHONE -->
-							<strong>(800) 689-1628</strong><br>							<!-- URL -->
+							<strong>(888) 758-9799</strong><br>							<!-- URL -->
 						</p> 
 						
 							<div class="buttoncontain">
@@ -300,27 +302,22 @@ try {
 											
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_592:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Breast Augmentation', 'profile_stub-visit-profile:button1',  '94013']);" title="Breast"><span>Breast</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1362:Mary Lee Peters, MD:98104:Breast Augmentation', 'profile_stub-visit-profile:button1',  '98144']);" title="Breast"><span>Breast</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_594:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Facelift', 'profile_stub-visit-profile:button1',  '94013']);" title="Facelift"><span>Facelift</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1363:Mary Lee Peters, MD:98104:Facelift', 'profile_stub-visit-profile:button1',  '98144']);" title="Facelift"><span>Facelift</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_597:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Liposuction', 'profile_stub-visit-profile:button1',  '94013']);" title="Liposuction"><span>Liposuction</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1367:Mary Lee Peters, MD:98104:Liposuction', 'profile_stub-visit-profile:button1',  '98144']);" title="Liposuction"><span>Liposuction</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_602:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Rhinoplasty', 'profile_stub-visit-profile:button1',  '94013']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
-													</li>
-
-												
-													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_604:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Tummy Tuck', 'profile_stub-visit-profile:button1',  '94013']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1368:Mary Lee Peters, MD:98104:Tummy Tuck', 'profile_stub-visit-profile:button1',  '98144']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
 													</li>
 										</ul>
 									</li>
@@ -334,27 +331,22 @@ try {
 											
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_592:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Breast Augmentation', 'profile_stub-visit-profile:button2',  '94013']);" title="Breast"><span>Breast</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1362:Mary Lee Peters, MD:98104:Breast Augmentation', 'profile_stub-visit-profile:button2',  '98144']);" title="Breast"><span>Breast</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_594:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Facelift', 'profile_stub-visit-profile:button2',  '94013']);" title="Facelift"><span>Facelift</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1363:Mary Lee Peters, MD:98104:Facelift', 'profile_stub-visit-profile:button2',  '98144']);" title="Facelift"><span>Facelift</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_597:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Liposuction', 'profile_stub-visit-profile:button2',  '94013']);" title="Liposuction"><span>Liposuction</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1367:Mary Lee Peters, MD:98104:Liposuction', 'profile_stub-visit-profile:button2',  '98144']);" title="Liposuction"><span>Liposuction</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_602:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Rhinoplasty', 'profile_stub-visit-profile:button2',  '94013']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
-													</li>
-
-												
-													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/poulos-san-francisco-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_39_604:Stanley G. Poulos, MD|Yngvar A. Hvistendahl, MD:94904:Tummy Tuck', 'profile_stub-visit-profile:button2',  '94013']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/peters-seattle-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_194_1368:Mary Lee Peters, MD:98104:Tummy Tuck', 'profile_stub-visit-profile:button2',  '98144']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
 													</li>
 										</ul>
 									</li>
@@ -364,27 +356,27 @@ try {
 
 					<li id="stub3" class="last">
 						<script type="text/javascript">
-							_gaq.push(['_trackEvent', 'PS_775_537:Joel Beck, MD, FACS:94402:Plastic Surgery', 'profile_stub-view', '94013' ]);
+							_gaq.push(['_trackEvent', 'PS_734_999:David Pratt, MD, FACS:98033:Plastic Surgery', 'profile_stub-view', '98144' ]);
 						</script>
 						<p class="docpic">
 							<!-- THUMBNAIL 1 -->
       				
-								<img alt="Beck-50x50" class="docpic1" height="48" src="http://www.yourplasticsurgeryguide.com/surgeons/p/beck/beck-50x50.jpg" style="border:0;" width="48">
+								<img alt="Pratt-50x50" class="docpic1" height="48" src="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt/pratt-50x50.jpg" style="border:0;" width="48">
 							<!-- THUMBNAIL 2 -->
       										</p>
 						<!-- PROFILE NAME -->
       		   
-							<h4>Joel Beck, MD, FACS</h4>
+							<h4>David Pratt, MD, FACS</h4>
 						<p>
 							<!-- PRACTICE -->
-								Bay Area Aesthetic Surgery<br>							<!-- LINE 1, LINE 2 -->
+								Pratt Plastic Surgery<br>							<!-- LINE 1, LINE 2 -->
       		    
-								66 Bovet Road<br>
-								Suite 101<br>
+								10413 NE 37th Circle<br>
+								Building 3, Suite B<br>
 							<!-- CITY, STATE ZIP -->
-      		    San Mateo, CA 94402<br>
+      		    Kirkland, WA 98033<br>
 							<!-- PHONE -->
-							<strong>(866) 576-3549</strong><br>							<!-- URL -->
+							<strong>(888) 723-9284</strong><br>							<!-- URL -->
 						</p> 
 						
 							<div class="buttoncontain">
@@ -395,27 +387,27 @@ try {
 											
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_538:Joel Beck, MD, FACS:94402:Breast Augmentation', 'profile_stub-visit-profile:button1',  '94013']);" title="Breast"><span>Breast</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1002:David Pratt, MD, FACS:98033:Breast Augmentation', 'profile_stub-visit-profile:button1',  '98144']);" title="Breast"><span>Breast</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_539:Joel Beck, MD, FACS:94402:Facelift', 'profile_stub-visit-profile:button1',  '94013']);" title="Facelift"><span>Facelift</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1008:David Pratt, MD, FACS:98033:Facelift', 'profile_stub-visit-profile:button1',  '98144']);" title="Facelift"><span>Facelift</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_547:Joel Beck, MD, FACS:94402:Liposuction', 'profile_stub-visit-profile:button1',  '94013']);" title="Liposuction"><span>Liposuction</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1013:David Pratt, MD, FACS:98033:Liposuction', 'profile_stub-visit-profile:button1',  '98144']);" title="Liposuction"><span>Liposuction</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_553:Joel Beck, MD, FACS:94402:Rhinoplasty', 'profile_stub-visit-profile:button1',  '94013']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1019:David Pratt, MD, FACS:98033:Rhinoplasty', 'profile_stub-visit-profile:button1',  '98144']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_557:Joel Beck, MD, FACS:94402:Tummy Tuck', 'profile_stub-visit-profile:button1',  '94013']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1025:David Pratt, MD, FACS:98033:Tummy Tuck', 'profile_stub-visit-profile:button1',  '98144']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
 													</li>
 										</ul>
 									</li>
@@ -429,27 +421,27 @@ try {
 											
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_538:Joel Beck, MD, FACS:94402:Breast Augmentation', 'profile_stub-visit-profile:button2',  '94013']);" title="Breast"><span>Breast</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-breast.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1002:David Pratt, MD, FACS:98033:Breast Augmentation', 'profile_stub-visit-profile:button2',  '98144']);" title="Breast"><span>Breast</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_539:Joel Beck, MD, FACS:94402:Facelift', 'profile_stub-visit-profile:button2',  '94013']);" title="Facelift"><span>Facelift</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-facelift.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1008:David Pratt, MD, FACS:98033:Facelift', 'profile_stub-visit-profile:button2',  '98144']);" title="Facelift"><span>Facelift</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_547:Joel Beck, MD, FACS:94402:Liposuction', 'profile_stub-visit-profile:button2',  '94013']);" title="Liposuction"><span>Liposuction</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-liposuction.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1013:David Pratt, MD, FACS:98033:Liposuction', 'profile_stub-visit-profile:button2',  '98144']);" title="Liposuction"><span>Liposuction</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_553:Joel Beck, MD, FACS:94402:Rhinoplasty', 'profile_stub-visit-profile:button2',  '94013']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-rhinoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1019:David Pratt, MD, FACS:98033:Rhinoplasty', 'profile_stub-visit-profile:button2',  '98144']);" title="Rhinoplasty"><span>Rhinoplasty</span></a>
 													</li>
 
 												
 													<li>
-														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/beck-san-francisco-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_775_557:Joel Beck, MD, FACS:94402:Tummy Tuck', 'profile_stub-visit-profile:button2',  '94013']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
+														<a href="http://www.yourplasticsurgeryguide.com/surgeons/p/pratt-seattle-abdominoplasty.htm" onclick="_gaq.push(['_trackEvent', 'PS_734_1025:David Pratt, MD, FACS:98033:Tummy Tuck', 'profile_stub-visit-profile:button2',  '98144']);" title="Tummy Tuck"><span>Tummy Tuck</span></a>
 													</li>
 										</ul>
 									</li>
@@ -471,586 +463,523 @@ try {
 
 </div>
 
-<p id="bottomlinks"><a href="/contact-us.htm" title="Please send us your comments or questions about this website" rel="nofollow">Contact Us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/about.htm" title="Learn what plastic surgery and this website are all about">About Us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/sitemap.htm" title="The site map includes links to every page on this site">Site Map</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/terms.htm" title="Terms of Use: Consumer Guide to Cosmetic Plastic Surgery" rel="nofollow">Terms of Use</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/privacy.htm" title="Privacy Statement: Consumer Guide to Cosmetic Plastic Surgery" rel="nofollow">Privacy Statement</a><br>
-</p>
-	<br class="clearBoth">
-</div><!-- /content -->
+<p id="bottomlinks"><a href="/contact-us.htm" title="Please send us your comments or questions about this website" rel="nofollow">Contact Us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/about.htm" title="Learn what plastic surgery and this website are all about">About Us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/sitemap.htm" title="The site map includes links to every page on this site">Site Map</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/terms.htm" title="Terms of Use: Consumer Guide to Cosmetic Plastic Surgery" rel="nofollow">Terms of Use</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/privacy.htm" title="Privacy Statement: Consumer Guide to Cosmetic Plastic Surgery" rel="nofollow">Privacy Statement</a><br></p>
+	<br class="clearBoth"></div><!-- /content -->
 <br class="clearBoth"><span class="bottomCorner"></span></div><!-- /contentWrapper -->
 
 <div id="left"><a name="skipnav"></a>
 <ul id="menu">
 <li id="mn1"><a href="http://www.yourplasticsurgeryguide.com/breasts/">Your Breasts<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper threecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper threecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>        
+			<li><a href="/surgeons/breast.htm">Find a Breast Surgeon</a></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/breast-augmentation/">Breast Augmentation</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/breast-augmentation/">Breast Augmentation</a>
-					<ul>
-					<li><a href="/breast-augmentation/intro.htm">what you need to know about breast augmentation</a></li>
-					<li><a href="/breast-augmentation/overview.htm">are you a good candidate for breast augmentation?</a></li>
-					<li><a href="/breast-augmentation/breast-auto-augmentation.htm">breast auto augmentation</a></li>
-                    <li><a href="/breast-augmentation/incision.htm">breast augmentation: breast implant incisions</a></li>
-					<li><a href="/breast-augmentation/placement.htm">breast implant placement</a></li>
-					<li><a href="/breast-augmentation/laser-bra.htm">laser bra breast surgery</a></li>
-					<li><a href="/breast-augmentation/nipple-surgery.htm">nipple surgery</a></li>
-                    <li><a href="/breast-augmentation/tuberous-breasts.htm">tuberous breast correction</a></li>
-                    <li><a href="/breast-augmentation/double-bubble-breast-augmentation.htm">breast augmentation double bubble</a></li>
-					<li><a href="/breast-augmentation/capsular-contracture.htm">breast augmentation capsular contracture</a></li>
-                    <li><a href="/breast-augmentation/complications.htm">breast augmentation complications</a></li>
-                    <li><a href="/breast-augmentation/breast-augmentation-recovery.htm">breast augmentation recovery</a></li>
-                    <li><a href="/breast-implants/revision-breast-surgery.htm">revision breast augmentation</a></li>
-					<li><a href="/breast-augmentation/cost.htm">breast augmentation cost</a></li>
-					<li><a href="/breast-implants/implants-consult.htm">preparing for your consultation</a></li>
-					<li><a href="/breast-implants/implants-size.htm">choosing your breast implant size</a></li>
-					<li><a href="/photo-gallery-breast.htm">breast augmentation before &amp; after photos</a></li>
-					<!-- <li><a href="/surgeons/breast.htm">find a breast augmentation surgeon</a></li> -->
-					</ul></li>
-                    <li><a href="http://www.yourplasticsurgeryguide.com/breast-lift/">Breast Lift</a>
-					<ul>
-					<li><a href="/breast-lift/lift-cost.htm">breast lift cost</a></li>
-                    <li><a href="/breast-lift/breast-lift-risks.htm">breast lift risks</a></li>
-                    <li><a href="/breast-lift/breast-lift-recovery.htm">breast lift recovery</a></li>
-                    <li><a href="/breast-lift/lift-overview.htm">are you a good candidate for breast lift?</a></li>
-					<li><a href="/breast-lift/lift-surgery.htm">faq: breast lift without surgery?</a></li>
-					<li><a href="/surgeons/breast.htm">find a breast lift surgeon</a></li>
-					<!--<li><a href="/breast-lift/lift-surgery.htm">what you need to know about breast lift</a></li>-->
-					</ul></li>
-				</ul>
+				<li><a href="/breast-augmentation/intro.htm">What you need to know</a></li>
+                <li><a href="/breast-augmentation/cost.htm">Cost</a></li>
+                <li><a href="/photo-gallery-breast.htm">Before &amp; after photos</a></li>
+                <li><a href="/breast-augmentation/breast-augmentation-recovery.htm">Recovery</a></li>
+                <li><a href="/breast-augmentation/nipple-surgery.htm">Nipple surgery</a></li>
+				<li><a href="/breast-augmentation/overview.htm">Are you a good candidate?</a></li>
+                <li><a href="/breast-augmentation/capsular-contracture.htm">Capsular contracture</a></li>
+                <li><a href="/breast-augmentation/complications.htm">Complications</a></li>
+                <li><a href="/breast-augmentation/placement.htm">Breast implant placement</a></li>
+                <li><a href="/breast-augmentation/laser-bra.htm">Laser bra breast surgery</a></li>
+				<li><a href="/breast-augmentation/breast-auto-augmentation.htm">Breast auto augmentation</a></li>
+				<li><a href="/breast-augmentation/incision.htm">Breast implant incisions</a></li>								
+				<li><a href="/breast-augmentation/tuberous-breasts.htm">Tuberous breast correction</a></li>
+				<li><a href="/breast-augmentation/double-bubble-breast-augmentation.htm">Double bubble</a></li>							
+				<li><a href="/breast-implants/revision-breast-surgery.htm">Revision breast augmentation</a></li>				
+				<li><a href="/breast-implants/implants-consult.htm">Preparing for your consultation</a></li>
+				<li><a href="/breast-implants/implants-size.htm">Choosing your breast implant size</a></li>				
+				</ul></li>
+			</ul>
 			</div>
-			<div class="column">
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/breast-lift/">Breast Lift</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/breast-implants/">Breast Implants</a>
-					<ul>
-                   
-					<li><a href="/breast-implants/implants-anatomy.htm">breast implant anatomy</a></li>
-					<li><a href="/breast-implants/implants-fda.htm">implants and the fda</a></li>
-					<li><a href="/breast-implants/breast-implant-clinical-trials.htm">current breast implant clinical trials</a></li>
-					<li><a href="/breast-implants/implants-saline-vs-silicone.htm">silicone breast implants</a></li>
-                    <li><a href="/breast-implants/saline-breast-implants.htm">saline breast implants</a></li>
-                    <li><a href="/breast-implants/gummy-bear-implants.htm">gummy bear implants</a></li>
-                    <li><a href="/breast-implants/fat-transfer-breast-augmentation.htm">fat transfer</a></li>
-					<li><a href="/breast-implants/implants-size.htm">choosing your breast implants size</a></li>
-					<li><a href="/breast-implants/implants-side-effects.htm">breast implant side effects and risks</a></li>
-                    <li><a href="/breast-implants/breast-implants-removal.htm">breast implant removal</a></li>
-					<li><a href="/breast-implants/implants-pectoral.htm">male breast implants</a></li>
-					<li><a href="/breast-implants/implants-overview.htm">what you need to know about breast implants</a></li>
-					<li><a href="/photo-gallery-breast.htm">breast implant before &amp; after photos</a></li>
-					<li><a href="/breast-implants/implants-am-i-a-candidate.htm">are you a good candidate for breast implants?</a></li>
-					<li><a href="/breast-implants/implants-consult.htm">preparing for your consultation</a></li>
-					<li><a href="/surgeons/breast.htm">find a breast implant surgeon</a></li>
-                    <li><a href="/breast-implants/alcl-breast-implants.htm">anaplastic large cell lymphoma</a></li>
-					<!-- <li><a href="/breast-implants/implants-choices.htm">breast implant choices</a></li>
-					<li><a href="/breast-implants/saline-breast-implants.htm">saline breast implants</a></li> -->
-					</ul></li>
-				<li><strong>Artículos en español</strong>
-					<ul>
-					<li><a href="/breast-augmentation-introduccion.htm">el aumento de senos: introducción</a></li>
-					<li><a href="/aumento-de-senos-precio.htm">quanto cuesta el aumento de senos</a></li>
-					<li><a href="/levantamiento-de-senos.htm">levantamiento de senos</a></li>
-					</ul></li>
-				</ul>
+				<li><a href="/breast-lift/lift-cost.htm">Cost</a></li>
+                <li><a href="/breast-lift/lift-surgery.htm">Non-surgical breast lift</a></li>
+                <li><a href="/breast-lift/lift-overview.htm">Are you a good candidate?</a></li>
+				<li><a href="/breast-lift/breast-lift-risks.htm">Risks</a></li>
+				<li><a href="/breast-lift/breast-lift-recovery.htm">Recovery</a></li>
+                <li><a href="/photo-gallery-breast.htm">Before &amp; after photos</a></li>					
+				</ul></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/breast-implants/">Breast Implants</a>
+				<ul>
+                <li><a href="/breast-implants/implants-overview.htm">What you need to know</a></li>
+                <li><a href="/photo-gallery-breast.htm">Before &amp; after photos</a></li>
+                <li><a href="/breast-implants/implants-am-i-a-candidate.htm">Are you a good candidate?</a></li>
+                <li><a href="/breast-implants/implants-side-effects.htm">Side effects and risks</a></li>
+                <li><a href="/breast-implants/fat-transfer-breast-augmentation.htm">Fat transfer</a></li>
+                <li><a href="/breast-implants/implants-size.htm">Choosing your breast implant size</a></li>
+                <li><a href="/breast-implants/breast-implants-removal.htm">Implant removal</a></li>
+                <li><a href="/breast-implants/saline-breast-implants.htm">Saline implants</a></li>
+                <li><a href="/breast-implants/breast-implant-clinical-trials.htm">Clinical trials</a></li>
+                <li><a href="/breast-implants/gummy-bear-implants.htm">Gummy bear implants</a></li>
+                <li><a href="/breast-implants/implants-saline-vs-silicone.htm">Silicone implants</a></li>
+                <li><a href="/breast-implants/implants-choices.htm">Choosing implant type</a></li>
+				<li><a href="/breast-implants/implants-anatomy.htm">Implant anatomy</a></li>
+				<li><a href="/breast-implants/implants-fda.htm">Implants and the fda</a></li>			
+				<li><a href="/breast-implants/implants-consult.htm">Preparing for your consultation</a></li>
+				<li><a href="/breast-implants/alcl-breast-implants.htm">Anaplastic large cell lymphoma</a></li>
+				</ul></li>
+			</ul>
 			</div>
-			<div class="column">
+		<div class="column">
+			<ul>
+			<li><strong>Artículos en español</strong>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/breast-reduction/">Breast Reduction</a>
-					<ul>
-					<li><a href="/breast-reduction/side-effects.htm">breast reduction side effects</a></li>
-					<li><a href="/breast-reduction/overview.htm">what you need to know about breast reduction</a></li>
-					<li><a href="/breast-reduction/surgery.htm">are you a good candidate for breast reduction surgery?</a></li>
-                    <li><a href="/breast-reduction/breast-reduction-recovery.htm">breast reduction recovery</a></li>
-					<li><a href="/breast-reduction/cost.htm">breast reduction cost</a></li>
-					<li><a href="/surgeons/breast.htm">find a breast reduction surgeon</a></li>
-					</ul></li>
-                    <li><a href="http://www.yourplasticsurgeryguide.com/breast-reduction/gynecomastia.htm">Male Breast Reduction</a>
-					<ul>
-					<li><a href="/breast-reduction/male-breast-reduction-risks.htm">male breast reduction risks</a></li>
-                    <li><a href="/breast-reduction/male-breast-reduction-recovery.htm">male breast reduction recovery</a></li>
-                    </ul>
-				</li><li><a href="http://www.yourplasticsurgeryguide.com/reconstructive/breast-reconstruction.htm">Breast Reconstruction</a>
-					<ul>
-					<li><a href="/reconstructive/reconstructive-options.htm">reconstruction after prophylactic mastectomy</a></li>
-                    <li><a href="/reconstructive/breast-reconstruction-questions.htm">questions to ask about breast reconstruction</a></li>
-                    <li><a href="/reconstructive/breast-reconstruction-recovery.htm">breast reconstruction recovery</a></li>
-                    <li><a href="/reconstructive/breast-reconstruction-risks.htm">breast reconstruction risks</a></li>
-                    <li><a href="/reconstructive/lymphedema.htm">lymphedema</a></li>
-					</ul></li>
-				
-				<!--<li><a href="/saline-vs-silicone/">Which Breast Implant Is Right For Me? [sponsored]</a></li>-->
-				<li><a href="/breast-implants/implants-am-i-a-candidate.htm">Self-Evaluation: Am I a Good Candidate?</a></li>
-                
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/breast-augmentation-introduccion.htm">El aumento de senos</a></li>
+				<li><a href="/aumento-de-senos-precio.htm">Quanto cuesta el aumento de senos</a></li>
+				<li><a href="/levantamiento-de-senos.htm">Levantamiento de senos</a></li>
+				</ul></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/breast-reduction/">Breast Reduction</a>
+				<ul>
+                <li><a href="/breast-reduction/overview.htm">What you need to know</a></li>
+                <li><a href="/breast-reduction/cost.htm">Cost</a></li>
+				<li><a href="/breast-reduction/side-effects.htm">Side effects</a></li>				
+				<li><a href="/breast-reduction/surgery.htm">Are you a good candidate?</a></li>
+				<li><a href="/breast-reduction/breast-reduction-recovery.htm">Recovery</a></li>				
+				</ul></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/reconstructive/breast-reconstruction.htm">Breast Reconstruction</a>
+				<ul>
+				<li><a href="/reconstructive/reconstructive-options.htm">After prophylactic mastectomy</a></li>
+				<li><a href="/reconstructive/breast-reconstruction-questions.htm">Questions to ask</a></li>
+				<li><a href="/reconstructive/breast-reconstruction-recovery.htm">Recovery</a></li>
+				<li><a href="/reconstructive/breast-reconstruction-risks.htm">Risks</a></li>
+				<li><a href="/reconstructive/lymphedema.htm">Lymphedema</a></li>
+				</ul></li>
+			<li><a href="/breast-implants/implants-am-i-a-candidate.htm">Self-Evaluation Candidacy</a></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
 <li id="mn2"><a href="http://www.yourplasticsurgeryguide.com/body/">Your Body<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper threecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper threecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/contouring/">Body Contouring</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/contouring/">Body Contouring</a>
-					<ul>
-					<li>(<em>surgical</em>)</li>
-					<li><a href="/contouring/arm-lift.htm">arm lift</a></li>
-					<li><a href="/contouring/bicep-tricep-implants.htm">bicep and tricep implants</a></li>
-					<li><a href="/contouring/fat-transfers.htm">body fat transfers</a></li>
-					<li><a href="/contouring/body-implants.htm">body implants</a></li>
-					<li><a href="/contouring/body-lift.htm">body lift</a></li>
-					<li><a href="/contouring/bra-line-back-lift.htm">bra-line back lift</a></li>
-					<li><a href="/contouring/bra-line-back-lift-pictures.htm">bra-line back lift before &amp; after photos</a></li>
-                    <li><a href="/contouring/brazilian-butt-lift.htm">brazilian butt lift</a></li>
-					<li><a href="/contouring/butt-implants.htm">butt implants</a></li>
-                    <li><a href="/contouring/calf-implants.htm">calf implants</a></li>
-					<li><a href="/tummy-tuck/panniculectomy.htm">panniculectomy</a></li>
-					<li><a href="/other-procedures/penile-implant.htm">penile implants</a></li>
-					<li><a href="/contouring/thigh-lift.htm">thigh lift</a></li>
-					<li><a href="/roundtables/roundtable-redefined.htm">surgeons discuss body contouring</a></li>
-					</ul>
+				<li>(<em>Surgical</em>)</li>
+				<li><a href="/contouring/arm-lift.htm">Arm lift</a></li>
+                <li><a href="/contouring/body-lift.htm">Body lift</a></li>
+                <li><a href="/contouring/butt-implants.htm">Butt implants</a></li>
+				<li><a href="/contouring/fat-transfers.htm">Body fat transfers</a></li>
+                <li><a href="/contouring/thigh-lift.htm">Thigh lift</a></li>
+                <li><a href="/contouring/brazilian-butt-lift.htm">Brazilian butt lift</a></li>
+                <li><a href="/contouring/bra-line-back-lift.htm">Bra-line back lift</a></li>
+				<li><a href="/contouring/body-implants.htm">Body implants</a></li>					
+				<li><a href="/contouring/bra-line-back-lift-pictures.htm">Bra-line back lift before &amp; after</a></li>								
+				<li><a href="/tummy-tuck/panniculectomy.htm">Panniculectomy</a></li>				
+				<li><a href="/roundtables/roundtable-redefined.htm">Surgeons discuss body contouring</a></li>
+				</ul>
 					
-					<ul>
-					<li>(<em>non-invasive</em>)</li>
-					<li><a href="/face-lift/thermage.htm">thermage</a></li>
-                    <li><a href="/contouring/zeltiq-coolsculpting.htm">zeltiq coolsculpting</a></li>
-					<li><a href="/zerona-laser/">zerona</a></li>
-					</ul></li>
-				</ul>
-			</div>
-			<div class="column">
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/other-procedures/labiaplasty.htm">Labiaplasty</a>
-					<ul>
-					<li><a href="/other-procedures/labiaplasty-procedures.htm">vaginal rejuvenation procedures</a></li>
-					</ul></li>
-				<li><a href="http://www.yourplasticsurgeryguide.com/liposuction/">Liposuction</a>
-					<ul>
-					<li><a href="/liposuction/intro.htm">what you need to know about liposuction</a></li>
-					<li><a href="/liposuction/overview.htm">are you a good candidate for liposuction?</a></li>
-                    <li><a href="/liposuction/liposuction-risks.htm">liposuction risks</a></li>
-                    <li><a href="/liposuction/liposuction-recovery.htm">liposuction recovery</a></li>
-					<li><a href="/liposuction/lipo-clinical-trials.htm">current liposuction clinical trials</a></li>
-					<li><a href="/liposuction/tumescent.htm">tumescent liposuction</a></li>
-					<li><a href="/liposuction/lipo-dissolve.htm">lipodissolve</a></li>
-					<li><a href="/tummy-tuck/abdominal-etching.htm">abdominal etching</a></li>
-					<li><a href="/liposuction/cost.htm">liposuction cost</a></li>
-					<li><a href="/laser-liposuction/">laser liposuction</a></li>
-                    <li><a href="/liposuction/ultrasound-assisted-liposuction.htm">ultrasound assisted liposuction</a></li>
-                    <li><a href="/liposuction/water-assisted-liposuction.htm">water assisted liposuction</a></li>
-					<li><a href="/photo-gallery-liposuction.htm">liposuction before &amp; after photos</a></li>
-					<li><a href="/surgeons/liposuction.htm">find a liposuction surgeon</a></li>
-					</ul></li>
+				<li>(<em>Non-Invasive</em>)</li>
+                <li><a href="/contouring/zeltiq-coolsculpting.htm">Zeltiq coolsculpting</a></li>
+				<li><a href="/face-lift/thermage.htm">Thermage</a></li>				
+				<li><a href="/zerona-laser/">Zerona</a></li>
 				</ul>
+			</li></ul>
 			</div>
-			<div class="column">
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/other-procedures/labiaplasty.htm">Labiaplasty</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/tummy-tuck/">Tummy Tuck</a>
-					<ul>
-					<li><a href="/tummy-tuck/howperformed.htm">what you need to know about tummy tucks</a></li>
-					<li><a href="/tummy-tuck/overview.htm">are you a good candidate for a tummy tuck?</a></li>
-					<li><a href="/tummy-tuck/cost.htm">tummy tuck cost</a></li>
-                    <li><a href="/tummy-tuck/tummy-tuck-risk.htm">tummy tuck risks</a></li>
-                    <li><a href="/tummy-tuck/tummy-tuck-recovery.htm">tummy tuck recovery</a></li>
-					<li><a href="/photo-gallery-tummy-tuck.htm">tummy tuck before &amp; after photos</a></li>
-					<li><a href="/surgeons/abdominoplasty.htm">find a tummy tuck surgeon</a></li>
-					<li><a href="/tummy-tuck/abdominal-etching.htm">abdominal etching</a></li>
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/other-procedures/labiaplasty-procedures.htm">Vaginal rejuvenation procedures</a></li>
+				</ul></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/liposuction/">Liposuction</a>
+				<ul>
+				<li><a href="/liposuction/intro.htm">What you need to know</a></li>
+                <li><a href="/liposuction/cost.htm">Cost</a></li>
+                <li><a href="/laser-liposuction/">Laser liposuction</a></li>
+                <li><a href="/photo-gallery-liposuction.htm">Before &amp; after photos</a></li>
+				<li><a href="/liposuction/overview.htm">Are you a good candidate?</a></li>
+				<li><a href="/liposuction/liposuction-risks.htm">Risks</a></li>
+				<li><a href="/liposuction/liposuction-recovery.htm">Recovery</a></li>
+				<li><a href="/liposuction/lipo-clinical-trials.htm">Clinical trials</a></li>
+                <li><a href="/liposuction/lipo-dissolve.htm">Lipodissolve</a></li>
+				<li><a href="/liposuction/tumescent.htm">Tumescent liposuction</a></li>
+                <li><a href="/surgeons/liposuction.htm">Find a liposuction surgeon</a></li>				
+				<li><a href="/tummy-tuck/abdominal-etching.htm">Abdominal etching</a></li>								
+				<li><a href="/liposuction/ultrasound-assisted-liposuction.htm">Ultrasound-assisted liposuction</a></li>
+				<li><a href="/liposuction/water-assisted-liposuction.htm">Water-assisted liposuction</a></li>					
+				</ul></li>
+			</ul>
+			</div>
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/tummy-tuck/">Tummy Tuck</a>
+				<ul>
+				<li><a href="/tummy-tuck/howperformed.htm">What you need to know</a></li>
+                <li><a href="/tummy-tuck/cost.htm">Cost</a></li>
+                <li><a href="/surgeons/abdominoplasty.htm">Find a tummy tuck surgeon</a></li>
+                <li><a href="/photo-gallery-tummy-tuck.htm">Before &amp; after photos</a></li>
+				<li><a href="/tummy-tuck/overview.htm">Are you a good candidate?</a></li>				
+				<li><a href="/tummy-tuck/tummy-tuck-risk.htm">Risks</a></li>
+				<li><a href="/tummy-tuck/tummy-tuck-recovery.htm">Recovery</a></li>			
+				
+				<li><a href="/tummy-tuck/abdominal-etching.htm">Abdominal etching</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
 <li id="mn3"><a href="http://www.yourplasticsurgeryguide.com/face-and-head/">Your Face<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper threecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper threecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/rhinoplasty/">Rhinoplasty</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/rhinoplasty/">Rhinoplasty</a>
-					<ul>
-					<li><a href="/rhinoplasty/cost.htm">rhinoplasty cost</a></li>
-                    <li><a href="/rhinoplasty/rhinoplasty-risks.htm">rhinoplasty risks</a></li>
-					<li><a href="/rhinoplasty/rhinoplasty-recovery.htm">rhinoplasty recovery</a></li>
-					<li><a href="/rhinoplasty/howperformed.htm">what you need to know about rhinoplasty</a></li>
-					<li><a href="/rhinoplasty/overview.htm">are you a good candidate for rhinoplasty?</a></li>
-					<li><a href="/rhinoplasty/revision-rhinoplasty.htm">revision rhinoplasty</a></li>
-                    <li><a href="/rhinoplasty/ethnic-rhinoplasty.htm">ethnic rhinoplasty</a></li>
-					<li><a href="/photo-gallery-rhinoplasty.htm">rhinoplasty before &amp; after photos</a></li>
-					<li><a href="/surgeons/rhinoplasty.htm">find a rhinoplasty surgeon</a></li>
-					</ul></li>
-				</ul>
+                <li><a href="/rhinoplasty/howperformed.htm">What you need to know</a></li>
+				<li><a href="/rhinoplasty/cost.htm">Cost</a></li>
+                <li><a href="/photo-gallery-rhinoplasty.htm">Before &amp; after photos</a></li>
+                <li><a href="/surgeons/rhinoplasty.htm">Find a rhinoplasty surgeon</a></li>
+                <li><a href="/rhinoplasty/overview.htm">Are you a good candidate?</a></li>
+                <li><a href="/rhinoplasty/revision-rhinoplasty.htm">Revision rhinoplasty</a></li>
+                <li><a href="/rhinoplasty/ethnic-rhinoplasty.htm">Ethnic rhinoplasty</a></li>
+				<li><a href="/rhinoplasty/rhinoplasty-risks.htm">Risks</a></li>
+				<li><a href="/rhinoplasty/rhinoplasty-recovery.htm">Recovery</a></li>														
+				</ul></li>
+			</ul>
 			</div>
-			<div class="column">
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/face-lift/">Facelift</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/face-lift/">Facelift</a>
-					<ul>
-					<li><a href="/face-lift/howperformed.htm">what you need to know about facelifts</a></li>
-					<li><a href="/face-lift/face-lift-clinical-trials.htm">current facelift clinical trials</a></li>
-					<li><a href="/face-lift/cheek-implants.htm">cheek implants</a></li>
-                    <li><a href="/face-lift/cheek-reduction-surgery.htm">cheek reduction</a></li>
-					<li><a href="/face-lift/chin-implant.htm">chin implant</a></li>
-                    <li><a href="/face-lift/face-lift-variations.htm">facelift variations</a></li>
-					<li><a href="/face-lift/facelift-stem-cell.htm">stem cell facelift</a></li>
-                    <li><a href="/face-lift/facial-liposuction.htm">facial liposuction</a></li>                    
-                    <li><a href="/facial-rejuvenation/facial-implants.htm">facial implants</a></li>
-					<li><a href="/face-lift/jaw-implant.htm">jaw implants</a></li>
-					<li><a href="/face-lift/thread-lift.htm">thread lift</a></li>
-					<li><a href="/facial-rejuvenation/facial-bones.htm">facial bones</a></li>
-					<li><a href="/facial-rejuvenation/forehead-lift.htm">brow lift</a></li>
-					<li><a href="/face-lift/chin-surgery.htm">chin surgery</a></li>
-                    <li><a href="/face-lift/lip-reduction.htm">lip reduction</a></li>
-					<li><a href="/face-lift/neck-lift.htm">neck lifts</a></li>
-                    <li><a href="/face-lift/lip-lift.htm">lip lifts</a></li>
-                    <li><a href="/face-lift/facelift-risks.htm">facelift risks</a></li>
-                    <li><a href="/face-lift/facelift-recovery.htm">facelift recovery</a></li>
-					<li><a href="/face-lift/cost.htm">facelift cost</a></li>
-					<li><a href="/photo-gallery-facelift.htm">facelift before &amp; after photos</a></li>
-					<li><a href="/surgeons/facelift.htm">find a facelift surgeon</a></li>
-					<!-- <li><a href="/roundtables/thread-lift.htm">surgeons discuss thread lift</a></li>
-					<li><a href="/face-lift/thermage.htm">thermage</a></li>
-					 -->
-					</ul></li>
-				</ul>
+				<li><a href="/face-lift/howperformed.htm">What you need to know</a></li>
+                <li><a href="/face-lift/neck-lift.htm">Neck lifts</a></li>
+                <li><a href="/face-lift/cost.htm">Cost</a></li>
+                <li><a href="/photo-gallery-facelift.htm">Facelift before &amp; after photos</a></li>
+                <li><a href="/face-lift/thread-lift.htm">Thread lift</a></li>
+                <li><a href="/face-lift/chin-surgery.htm">Chin surgery</a></li>
+                <li><a href="/face-lift/face-lift-variations.htm">Variations</a></li>
+				<li><a href="/face-lift/face-lift-clinical-trials.htm">Clinical trials</a></li>
+				<li><a href="/face-lift/cheek-implants.htm">Cheek implants</a></li>
+				<li><a href="/face-lift/cheek-reduction-surgery.htm">Cheek reduction</a></li>
+				<li><a href="/face-lift/chin-implant.htm">Chin implant</a></li>				
+				<li><a href="/face-lift/facelift-stem-cell.htm">Stem cell facelift</a></li>
+				<li><a href="/face-lift/facial-liposuction.htm">Facial liposuction</a></li>                    
+				<li><a href="/facial-rejuvenation/facial-implants.htm">Facial implants</a></li>
+				<li><a href="/face-lift/jaw-implant.htm">Jaw implants</a></li>				
+				<li><a href="/facial-rejuvenation/facial-bones.htm">Facial bones</a></li>
+				<li><a href="/facial-rejuvenation/forehead-lift.htm">Brow lift</a></li>				
+				<li><a href="/face-lift/lip-reduction.htm">Lip reduction</a></li>				
+				<li><a href="/face-lift/lip-lift.htm">Lip lifts</a></li>
+				<li><a href="/face-lift/facelift-risks.htm">Risks</a></li>
+				<li><a href="/face-lift/facelift-recovery.htm">Recovery</a></li>					
+				<li><a href="/surgeons/facelift.htm">Find a facelift surgeon</a></li>
+				</ul></li>
+			</ul>
 			</div>
-			<div class="column">
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/face-lift/eyelid-surgery.htm">Eyelid Surgery</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/face-lift/eyelid-surgery.htm">Eyelid Surgery</a>
-					<ul>
-                    <li><a href="/face-lift/eyelid-surgery-cost.htm ">eyelid surgery cost</a></li>
-                    <li><a href="/face-lift/eyelid-surgery-risks.htm ">eyelid surgery risks</a></li>
-                    <li><a href="/face-lift/eyelid-surgery-recovery.htm ">eyelid surgery recovery</a></li>
-                    <li><a href="/face-lift/asian-eyelid-surgery.htm">asian eyelid surgery</a></li>
-					<li><a href="/hair/latisse.htm">latisse</a></li>
-					</ul></li>
-				<li><a href="http://www.yourplasticsurgeryguide.com/other-procedures/otoplasty.htm">Ear Surgery</a>
-					<ul>
-					<li><a href="/ear/ear-surgery-cost.htm">ear surgery cost</a></li>
-                    <li><a href="/ear/ear-surgery-risks.htm">ear surgery risks</a></li>
-                    <li><a href="/ear/ear-surgery-recovery.htm">ear surgery recovery</a></li>
-                    <li><a href="/ear/earlobe-repair-surgery.htm">earlobe surgery</a></li>
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/face-lift/eyelid-surgery-cost.htm ">Cost</a></li>
+                <li><a href="/face-lift/eyelid-surgery-recovery.htm ">Recovery</a></li>
+				<li><a href="/face-lift/eyelid-surgery-risks.htm ">Risks</a></li>				
+				<li><a href="/face-lift/asian-eyelid-surgery.htm">Asian eyelid surgery</a></li>
+				<li><a href="/hair/latisse.htm">Latisse</a></li>
+				</ul></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/other-procedures/otoplasty.htm">Ear Surgery</a>
+				<ul>
+				<li><a href="/ear/ear-surgery-cost.htm">Cost</a></li>
+                <li><a href="/ear/ear-surgery-recovery.htm">Recovery</a></li>
+				<li><a href="/ear/ear-surgery-risks.htm">Risks</a></li>				
+				<li><a href="/ear/earlobe-repair-surgery.htm">Earlobe surgery</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
 <li id="mn4"><a href="http://www.yourplasticsurgeryguide.com/skin/">Your Skin<span></span></a>	
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper twocol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper twocol">
+	<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/anti-aging/">Anti-Aging</a>
 				<ul>
-				<li><a href="http://www.yourplasticsurgeryguide.com/anti-aging/">Anti-Aging</a>
-					<ul>
-					<li><a href="/anti-aging/skincare-102.htm">skin care basics</a></li>
-					<li><a href="/facial-rejuvenation/exfoliants.htm">exfoliants</a></li>
-					<li><a href="/anti-aging/moisturizers.htm">moisturizers</a></li>
-					<li><a href="/anti-aging/antioxidants.htm">antioxidants</a></li>
-					<li><a href="/anti-aging/vitamin-c-benefits.htm">vitamin c</a></li>
-					<li><a href="/anti-aging/retin-a.htm">retin-a</a></li>
-					<li><a href="/anti-aging/stretch-mark-treatments.htm">stretch marks</a></li>
-					<li><a href="/laser-skin-procedures/laser-hair-removal.htm">laser hair removal</a></li>
-					<li><a href="/facial-rejuvenation/facial-exercise.htm">facial exercise</a></li>
-					<li><a href="/other-procedures/cellulite.htm">cellulite treatment</a></li>
-					<li><a href="/anti-aging/everlasting-appearance.htm">everlasting appearance</a></li>
-					<li><a href="/facial-rejuvenation/">facial rejuvenation</a></li>
-					<li><a href="/anti-aging/vitamins-natural-healing.htm">vitamins and natural healing</a></li>
-					<li><a href="/other-procedures/spider-vein.htm">spider vein treatment</a></li>
-                    <li><a href="/valentines-day-2011.htm">dark chocolate wrinkle rx</a></li>
-					<!-- <li><a href="/facial-rejuvenation/adult-acne.htm">adult acne</a></li>
-					<li><a href="/facial-rejuvenation/facial-bones.htm">facial bones</a></li>
-					<li><a href="/facial-rejuvenation/skin-disorders.htm">skin disorders</a></li> -->
-					</ul></li>
-				</ul>
+                <li><a href="/anti-aging/retin-a.htm">Retin-a</a></li>
+                <li><a href="/anti-aging/stretch-mark-treatments.htm">Stretch marks</a></li>
+                <li><a href="/anti-aging/vitamin-c-benefits.htm">Vitamin c</a></li>
+				<li><a href="/anti-aging/skincare-102.htm">Skin care basics</a></li>
+                <li><a href="/anti-aging/antioxidants.htm">Antioxidants</a></li>
+                <li><a href="/anti-aging/everlasting-appearance.htm">Everlasting appearance</a></li>
+				<li><a href="/facial-rejuvenation/exfoliants.htm">Exfoliants</a></li>
+				<li><a href="/anti-aging/moisturizers.htm">Moisturizers</a></li>													
+				<li><a href="/anti-aging/hand-rejuvenation.htm">Hand rejuvenation</a></li>
+				<li><a href="/laser-skin-procedures/laser-hair-removal.htm">Laser hair removal</a></li>
+				<li><a href="/facial-rejuvenation/facial-exercise.htm">Facial exercise</a></li>
+				<li><a href="/other-procedures/cellulite.htm">Cellulite treatment</a></li>				
+				<li><a href="/facial-rejuvenation/">Facial rejuvenation</a></li>
+				<li><a href="/anti-aging/vitamins-natural-healing.htm">Vitamins &amp; natural healing</a></li>
+				<li><a href="/other-procedures/spider-vein.htm">Spider vein treatment</a></li>
+				<li><a href="/valentines-day-2011.htm">Dark chocolate wrinkle rx</a></li>
+				</ul></li>
+			</ul>
 			</div>
-			<div class="column">
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/reconstructive/skin-cancer.htm">Skin Cancer</a></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/skin-resurfacing/" class="level3">Skin Resurfacing</a>
 				<ul>
-				<li><a href="/reconstructive/skin-cancer.htm">Skin Cancer</a></li>
-				<li><a href="/skin-resurfacing/" class="level3">Skin Resurfacing</a>
-					<ul>
-					<li><a href="/facial-rejuvenation/chemical-peel.htm">chemical peels</a></li>
-					<li><a href="/facial-rejuvenation/microdermabrasion.htm">microdermabrasion</a></li>
-					<li><a href="/other-procedures/micropigmentation.htm">micropigmentation</a></li>
-					<li><a href="/facial-rejuvenation/vibraderm.htm">vibraderm</a></li>
-					<li><a href="/laser-skin-procedures/fraxel.htm">fraxel</a></li>
-					<li><a href="/laser-skin-procedures/laser-skin-resurfacing.htm">laser skin resurfacing</a></li>
-					<li><a href="/laser-skin-procedures/laser-scar-removal.htm">laser scar removal</a></li>
-					<li><a href="/laser-skin-procedures/laser-tattoo-removal.htm">laser tattoo removal</a></li>
-					<li><a href="/laser-skin-procedures/laser-hair-removal.htm">laser hair removal</a></li>
-					<li><a href="/roundtables/roundtable-photo-rejuvenation.htm">surgeons discuss photo rejuvenation</a></li>
-					</ul></li>
-				<li><a href="/hair/">Hair</a>
-					<ul>
-					<li><a href="/hair/">hair loss</a></li>
-					<li><a href="/hair/female-hair-loss.htm">female hair loss</a></li>
-					<li><a href="/hair/hair.htm">hair transplants</a></li>
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/facial-rejuvenation/chemical-peel.htm">Chemical peels</a></li>
+				<li><a href="/facial-rejuvenation/microdermabrasion.htm">Microdermabrasion</a></li>
+				<li><a href="/other-procedures/micropigmentation.htm">Micropigmentation</a></li>
+				<li><a href="/facial-rejuvenation/vibraderm.htm">Vibraderm</a></li>
+				<li><a href="/laser-skin-procedures/fraxel.htm">Fraxel</a></li>
+				<li><a href="/laser-skin-procedures/laser-skin-resurfacing.htm">Laser skin resurfacing</a></li>
+				<li><a href="/laser-skin-procedures/laser-scar-removal.htm">Laser scar removal</a></li>
+				<li><a href="/laser-skin-procedures/laser-tattoo-removal.htm">Laser tattoo removal</a></li>
+				<li><a href="/laser-skin-procedures/laser-hair-removal.htm">Laser hair removal</a></li>
+				<li><a href="/roundtables/roundtable-photo-rejuvenation.htm">Surgeons discuss photo rejuvenation</a></li>
+				</ul></li>
+			<li><a href="http://www.yourplasticsurgeryguide.com/hair/">Hair</a>
+				<ul>
+				<li><a href="/hair/">Hair loss</a></li>
+				<li><a href="/hair/female-hair-loss.htm">Female hair loss</a></li>
+				<li><a href="/hair/hair.htm">Hair transplants</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
 <li id="mn5"><a href="http://www.yourplasticsurgeryguide.com/injectables-and-fillers/">Injectables &amp; Fillers<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper onecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper onecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li>
 				<ul>
-				<li>
-					<ul>
-					<li><a href="/injectables-and-fillers/injectable-fillers.htm">injectable fillers overview</a></li>
-                    <li><a href="/injectables-and-fillers/belotero-injections.htm">belotero balance</a></li>
-					<li><a href="/injectables-and-fillers/botox.htm">botox</a></li>
-					<li><a href="/injectables-and-fillers/botox-clinical-trials.htm">botox clinical trials</a></li>
-					<li><a href="/injectables-and-fillers/botox-faq.htm">botox: FDA update</a></li>
-					<li><a href="/injectables-and-fillers/collagen.htm">collagen</a></li>
-					<li><a href="/injectables-and-fillers/dermal-fillers-faq.htm">cosmetic dermal fillers</a></li>
-					<li><a href="/injectables-and-fillers/dysport.htm">dysport</a></li>
-					<li><a href="/injectables-and-fillers/fat-fillers.htm">fat fillers</a></li>
-                    <li><a href="/injectables-and-fillers/vampire-injections.htm">selphyl injections</a></li>
-					<li><a href="/injectables-and-fillers/juvederm.htm">juvederm</a></li>
-                    <li><a href="/injectables-and-fillers/laviv.htm">laviv</a></li>
-					<li><a href="/injectables-and-fillers/lip-augmentation.htm">lip augmentation</a></li>
-                    <li><a href="/injectables-and-fillers/perlane-injections.htm">perlane</a></li>
-					<li><a href="/injectables-and-fillers/prevelle-silk.htm">prevelle silk</a></li>
-					<li><a href="/injectables-and-fillers/restylane.htm">restylane</a></li>
-					<li><a href="/injectables-and-fillers/radiesse.htm">radiesse</a></li>
-					<li><a href="/injectables-and-fillers/sculptra.htm">sculptra</a></li>
-					<li><a href="/injectables-and-fillers/artecoll.htm">artefill</a></li>
-					<li><a href="/injectables-and-fillers/evolence.htm">evolence</a></li>
-                    <li><a href="/injectables-and-fillers/xeomin-injections.htm">xeomin</a></li>
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/injectables-and-fillers/injectable-fillers.htm">What you need to know</a></li>				
+				<li><a href="/injectables-and-fillers/botox.htm">Botox</a></li>
+				<li><a href="/injectables-and-fillers/botox-clinical-trials.htm">Botox clinical trials</a></li>
+				<li><a href="/injectables-and-fillers/botox-faq.htm">Botox: FDA update</a></li>
+                <li><a href="/injectables-and-fillers/restylane.htm">Restylane</a></li>
+                <li><a href="/injectables-and-fillers/juvederm.htm">Juvederm</a></li>
+                <li><a href="/injectables-and-fillers/radiesse.htm">Radiesse</a></li>
+				<li><a href="/injectables-and-fillers/collagen.htm">Collagen</a></li>
+                <li><a href="/injectables-and-fillers/dysport.htm">Dysport</a></li>
+                <li><a href="/injectables-and-fillers/sculptra.htm">Sculptra</a></li>
+                <li><a href="/injectables-and-fillers/artecoll.htm">Artefill</a></li>
+                <li><a href="/injectables-and-fillers/xeomin-injections.htm">Xeomin</a></li>
+				<li><a href="/injectables-and-fillers/dermal-fillers-faq.htm">Cosmetic dermal fillers</a></li>				
+				<li><a href="/injectables-and-fillers/fat-fillers.htm">Fat fillers</a></li>
+				<li><a href="/injectables-and-fillers/vampire-injections.htm">Vampire injections</a></li>				
+				<li><a href="/injectables-and-fillers/laviv.htm">Laviv</a></li>
+				<li><a href="/injectables-and-fillers/lip-augmentation.htm">Lip augmentation</a></li>
+                <li><a href="/injectables-and-fillers/belotero-injections.htm">Belotero balance</a></li>
+				<li><a href="/injectables-and-fillers/perlane-injections.htm">Perlane</a></li>
+				<li><a href="/injectables-and-fillers/prevelle-silk.htm">Prevelle silk</a></li>						
+				<li><a href="/injectables-and-fillers/evolence.htm">Evolence</a></li>				
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
-<li id="mn6"><a onclick="return false;">Your Surgery<span></span></a>
+<li id="mn6"><a href="http://www.yourplasticsurgeryguide.com/trends/spec-male-con.htm">Male Plastic Surgery<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper onecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper onecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/trends/spec-male-con.htm">Male Plastic Surgery</a>
 				<ul>
-				<li><strong>Safety</strong>
-					<ul>
-					<li><a href="/checklists/malignant-hyperthermia.htm">malignant hyperthermia in the news</a></li>
-					<li><a href="/checklists/mrsa.htm">MRSA infection risk</a></li>
-					</ul></li>
-				<li><strong>Before Surgery</strong>
-					<ul>
-					<li><a href="/other-procedures/combination-treatment-components.htm">informed decision</a></li>
-					<li><a href="/checklists/pre-and-post-op-checklist.htm">pre and postop checklist</a></li>
-					<li><a href="/checklists/anesthesia.htm">anesthesia</a></li>
-                    <li><a href="/checklists/smoking.htm">quit smoking</a></li>
-					<li><a href="/checklists/clinical-trial.htm">cosmetic surgery clinical trials</a></li>
-					</ul></li>
-				<li><strong>Recovery</strong>
-					<ul>
-					<li><a href="/checklists/recovery-aids.htm">recovery aids</a></li>
-					<li><a href="/checklists/9-tips.htm">nine tips for a healthy recovery from plastic surgery</a></li>
-					<li><a href="/checklists/pre-and-post-op-checklist.htm">pre and postop checklist</a></li>
-					</ul></li>
+				<li><a href="/tummy-tuck/abdominal-etching.htm">Abdominal etching</a></li>
+				<li><a href="/contouring/bicep-tricep-implants.htm">Bicep &amp; tricep implants</a></li>
+				<li><a href="/contouring/calf-implants.htm">Calf implants</a></li>
+                <li><a href="/trends/male-eyelid-surgery.htm">Male eyelid surgery</a></li>
+				<li><a href="/trends/male-facelift.htm">Male facelift</a></li>
+				<li><a href="/liposuction/male-liposuction.htm">Male liposuction</a></li>
+				<li><a href="/trends/male-rhinoplasty.htm">Male rhinoplasty</a></li>
+				<li><a href="/tummy-tuck/male-tummy-tuck.htm">Male tummy tuck</a></li>
+				<li><a href="/breast-implants/implants-pectoral.htm">Pec implants</a></li>
+				<li><a href="/other-procedures/penile-implant.htm">Penile implants</a></li>
 				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+			</li></ul>    
+			<ul>
+			<li><a href="http://www.yourplasticsurgeryguide.com/breast-reduction/gynecomastia.htm">Male Breast Reduction</a>
+				<ul>
+				<li><a href="/breast-reduction/male-breast-reduction-risks.htm">Risks</a></li>
+				<li><a href="/breast-reduction/male-breast-reduction-recovery.htm">Recovery</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
-<li id="mn7"><a onclick="return false;">Statistics<span></span></a>
+<li id="mn7"><a onclick="return false;">Your Surgery<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper onecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper onecol">
+	<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li><strong>Safety</strong>
 				<ul>
-				<li>
-                	<ul>
-					<li><strong>2011</strong></li>
-                    <li><a href="/trends/asaps-2011.htm">ASAPS</a></li>
-					</ul></li>
-				<li>
-					<ul>
-					<li><strong>2010</strong></li>
-                    <li><a href="/trends/charts-graphs-2010.htm">ASAPS</a></li>
-                    <li><a href="/trends/asps-2010.htm">ASPS</a></li>
-                    <li><a href="/trends/2010-isaps-biennial-study.htm">ISAPS</a></li>                    
-                    <li><a href="/trends/demographic-changes.htm">demographic changes</a></li>
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/checklists/malignant-hyperthermia.htm">Malignant hyperthermia in the news</a></li>
+				<li><a href="/checklists/mrsa.htm">MRSA infection risk</a></li>
+				</ul></li>
+			<li><strong>Before Surgery</strong>
+				<ul>
+				<li><a href="/other-procedures/combination-treatment-components.htm">Informed decision</a></li>
+				<li><a href="/checklists/pre-and-post-op-checklist.htm">Pre and postop checklist</a></li>
+				<li><a href="/checklists/anesthesia.htm">Anesthesia</a></li>
+				<li><a href="/checklists/smoking.htm">Quit smoking</a></li>
+				<li><a href="/checklists/clinical-trial.htm">Cosmetic surgery clinical trials</a></li>
+				</ul></li>
+			<li><strong>Recovery</strong>
+				<ul>
+				<li><a href="/checklists/recovery-aids.htm">Recovery aids</a></li>
+				<li><a href="/checklists/9-tips.htm">Nine tips for a healthy recovery</a></li>
+				<li><a href="/checklists/pre-and-post-op-checklist.htm">Pre and postop checklist</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
-<li id="mn8"><a href="http://www.yourplasticsurgeryguide.com/trends/">Cosmetic Trends<span></span></a>
+<li id="mn8"><a onclick="return false;">Statistics<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper onecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper onecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li>
 				<ul>
-				<li>
-					<ul>
-					<li><a href="/trends/wedding-makeovers.htm">wedding beauty makeovers</a></li>
-					<li><a href="/trends/mommy-makeover.htm">mommy makeover</a></li>
-                    <li><a href="/trends/spec-male-con.htm">male plastic surgery</a></li>
-                    <li><a href="/trends/male-facelift.htm">male facelift</a></li>
-                    <li><a href="/tummy-tuck/male-tummy-tuck.htm">male tummy tuck</a></li>
-					<li><a href="/trends/ethnic-plastic-surgery.htm">ethnic plastic surgery</a></li>
-					<li><a href="/trends/bikini-ready.htm">get bikini ready</a></li>
-					<li><a href="/checklists/how-much-is-too-much.htm">how much plastic surgery is too much?</a></li>
-					<li><a href="/trends/celebrity.htm">celebrity emulation</a></li>
-					<li><a href="/trends/travel-surgery.htm">traveling for plastic surgery</a></li>
-					<li><a href="/checklists/30-something-patient.htm">30-something patient stories</a></li>
-					<li><a href="/trends/teen-plastic-surgery.htm">teen plastic surgery</a></li>
-					<li><a href="/other-procedures/combination-treatment-plans.htm">combination treatment plans</a></li>
-					<li><a href="/other-procedures/mini-micro.htm">mini and micro procedures</a></li>
-                    <li><a href="/red-carpet-ready.htm">red-carpet ready tips</a></li>
-                    <li><a href="/charitable-organizations.htm">plastic surgery charitable organizations</a></li>
-                                       
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><strong>2011</strong></li>
+				<li><a href="/trends/asaps-2011.htm">ASAPS</a></li>
+				<li><a href="/trends/asps-2011.htm">ASPS</a></li>
+				</ul></li>
+			<li>
+				<ul>
+				<li><strong>2010</strong></li>
+				<li><a href="/trends/charts-graphs-2010.htm">ASAPS</a></li>
+				<li><a href="/trends/asps-2010.htm">ASPS</a></li>
+				<li><a href="/trends/2010-isaps-biennial-study.htm">ISAPS</a></li>                    
+				<li><a href="/trends/demographic-changes.htm">Demographic changes</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
-<li id="mn9"><a href="http://www.yourplasticsurgeryguide.com/reconstructive/">Reconstructive Surgery<span></span></a>
+<li id="mn9"><a href="http://www.yourplasticsurgeryguide.com/trends/">Cosmetic Trends<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper onecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper onecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li>
 				<ul>
-				<li>
-					<ul>
-					<li><a href="/reconstructive/reconstructive-surgery.htm">what you need to know about reconstructive plastic surgery</a></li>
-					<li><a href="/reconstructive/breast-reconstruction-trials.htm">current breast reconstruction clinical trials</a></li>
-					<li><a href="/reconstructive/academic-reconstructive-centers.htm">academic reconstructive centers</a></li>
-					<li><a href="/reconstructive/cleft.htm">cleft repair surgery</a></li>
-					<li><a href="/reconstructive/breast-reconstruction.htm">breast reconstruction</a></li>
-					<li><a href="/reconstructive/reconstructive-options.htm">reconstruction after prophylactic mastectomy</a></li>
-					<li><a href="/reconstructive/hand-surgery.htm">hand surgery</a></li>
-					
-					
-					<!-- <li><a href="/reconstructive/face-transplant.htm">face transplant</a></li>
-						<ul class="popup">	
-						<li><a href="/reconstructive/columbia.htm">Columbia/Cornell University Medical Center</a></li>
-						<li><a href="/reconstructive/arizona.htm">The University of Arizona College of Medicine</a></li>
-						<li><a href="/reconstructive/maryland.htm">University of Maryland Medical Center</a></li>
-						<li class="last"><a href="/reconstructive/southwestern.htm">University of Texas Southwestern Medical Center</a></li>
-						</ul> -->
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/trends/wedding-makeovers.htm">Wedding beauty makeovers</a></li>
+				<li><a href="/trends/mommy-makeover.htm">Mommy makeover</a></li>
+				<li><a href="/trends/ethnic-plastic-surgery.htm">Ethnic plastic surgery</a></li>
+				<li><a href="/trends/bikini-ready.htm">Get bikini ready</a></li>
+				<li><a href="/checklists/how-much-is-too-much.htm">How much is too much?</a></li>
+				<li><a href="/trends/cosmetic-foot-surgery.htm">Cosmetic foot surgery</a></li>
+				<li><a href="/trends/toe-fungus-treatment.htm">Toe fungus treatment</a></li>
+				<li><a href="/trends/celebrity.htm">Celebrity emulation</a></li>
+				<li><a href="/trends/travel-surgery.htm">Traveling for plastic surgery</a></li>
+				<li><a href="/checklists/30-something-patient.htm">30-something patient stories</a></li>
+				<li><a href="/trends/teen-plastic-surgery.htm">Teen plastic surgery</a></li>
+				<li><a href="/other-procedures/combination-treatment-plans.htm">Combination treatment plans</a></li>
+				<li><a href="/other-procedures/mini-micro.htm">Mini and micro procedures</a></li>
+				<li><a href="/red-carpet-ready.htm">Red-carpet ready tips</a></li>
+				<li><a href="/charitable-organizations.htm">Plastic surgery charities</a></li>
+				<li><a href="/trends/presidential-look.htm">The Presidential look</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
-<li id="mn10"><a href="http://www.yourplasticsurgeryguide.com/day-spas/">Day Spas<span></span></a>
+<li id="mn10"><a href="http://www.yourplasticsurgeryguide.com/reconstructive/">Reconstructive Surgery<span></span></a>
 	<ul class="megamenu">
-	<li>
-		<div class="wrapper onecol">
-			<div class="top"><div></div></div>
-			<div class="column">
+	<li><div class="wrapper onecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li>
 				<ul>
-				<li>
-					<ul>
-					<li><a href="/day-spas/directory.htm">day spa directory</a></li>
-					<li><a href="/medical-spas/">medical spa directory</a></li>
-					<li><a href="/day-spas/body-wraps.htm">body wraps</a></li>
-					<li><a href="/day-spas/facials.htm">facial</a></li>
-					<li><a href="/day-spas/massage.htm">massage</a></li>
-					</ul></li>
-				</ul>
-			</div><br class="clear">
-			<div class="bottom"><div></div></div>
+				<li><a href="/reconstructive/reconstructive-surgery.htm">What you need to know</a></li>
+                <li><a href="/reconstructive/breast-reconstruction.htm">Breast reconstruction</a></li>
+                <li><a href="/reconstructive/hand-surgery.htm">Hand surgery</a></li>
+				<li><a href="/reconstructive/breast-reconstruction-trials.htm">Clinical trials</a></li>
+				<li><a href="/reconstructive/academic-reconstructive-centers.htm">Academic reconstructive centers</a></li>
+				<li><a href="/reconstructive/cleft.htm">Cleft repair surgery</a></li>				
+				<li><a href="/reconstructive/reconstructive-options.htm">After prophylactic mastectomy</a></li>				
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
 		</div>
 	</li>
 	</ul></li>
-<li id="mn11" class="bottom"><a href="http://www.yourbariatricsurgeryguide.com" target="_blank">Bariatric Surgery<span></span></a></li>
-
-    <!-- <li><a href="/other-procedures/combination-treatment-components.htm">combination treatments</a></li>
-	
-	
-    
-	
-	
-    	<ul class="popup"><li class="last"><a href="/trends/makeover-story.htm">mommy makeover patient story</a></li></ul>
-    </li>
-	<li><a href="/trends/spec-male-con.htm">plastic surgery for men</a></li>
-	
-    
-	<li><a href="/trends/charts-graphs-2004.htm">2004 trend reports</a></li>
-	<li><a href="/trends/charts-graphs-2005.htm">2005 trend reports</a></li>
-	<li><a href="/trends/charts-graphs-2006.htm">2006 trend reports</a></li>
-	<li><a onclick="return false;" class="level3">2007 trend reports</a>
-  
-  	<ul class="popup">
-	<li><a href="/trends/charts-graphs.htm">2007 ASAPS</a></li>
-	
+<li id="mn11"><a href="http://www.yourplasticsurgeryguide.com/day-spas/">Day Spas<span></span></a>
+	<ul class="megamenu">
+	<li><div class="wrapper onecol">
+		<div class="top"><div></div></div>
+		<div class="column">
+			<ul>
+			<li>
+				<ul>
+				<li><a href="/day-spas/directory.htm">Day spa directory</a></li>
+				<li><a href="/medical-spas/">Medical spa directory</a></li>
+				<li><a href="/day-spas/body-wraps.htm">Body wraps</a></li>
+				<li><a href="/day-spas/facials.htm">Facial</a></li>
+				<li><a href="/day-spas/massage.htm">Massage</a></li>
+				</ul></li>
+			</ul></div><br class="clear">
+		<div class="bottom"><div></div></div>
+		</div>
 	</li>
-    <li><a onclick="return false;" class="level3">2008 trend reports</a>
-    	<ul class="popup">
-	
-	
-    </li>
-    
-    
-     <li class="last"><a href="/trends/charts-graphs-2009.htm">2009 trend reports</a></li>
-	</ul>
-   
-    </li> -->
-<!-- 
-<li id="mn9"><a href="/checklists/">What to Consider<span></span></a>
-	<ul class="popup">
-	
-    
-	
-	<li><a href="/checklists/emotional-changes.htm">emotional changes after plastic surgery</a></li>
-	<li><a href="/checklists/financing.htm">financing</a></li>
-	
-	
-	
-	
-	<li><a href="/checklists/plastic-surgery-cost.htm">plastic surgery cost</a></li>
-	
-	
-	
-	
-	
-	</ul>
-</li>
- -->
-
-</ul>
-</div><!-- /left -->
+	</ul></li>
+<li id="mn12" class="bottom"><a href="http://www.yourbariatricsurgeryguide.com" target="_blank">Bariatric Surgery<span></span></a></li>
+</ul></div><!-- /left -->
 
 <div id="copyright"><p>© 2005-2012 Ceatus Media Group LLC<br>
-Consumer Guide to Plastic Surgery is a registered trademark of Ceatus Media Group.<br>
-<br>
+Consumer Guide to Plastic Surgery is a registered trademark of Ceatus Media Group.<br><br>
 Images and text on this site belong to Ceatus Media Group. Copying or reproducing any text or graphics from this website is strictly prohibited by copyright law. Please read our <a href="/copyright-infringement.htm" rel="nofollow">copyright infringement policy</a>.<br><br>
-<a href="http://www.copyscape.com/"><img src="/art14/copyscape.jpg" alt="Page copy protected against web site content infringement by Copyscape" title="Do not copy content from the page. Plagiarism will be detected by Copyscape." width="234" height="16" border="0"></a>
-<br>
-<br>
-<span class="noprint">Most popular <a href="http://www.yourplasticsurgeryguide.com">cosmetic surgery</a> topics: <a href="http://www.yourplasticsurgeryguide.com/breast/">Breast Enhancement</a>, <a href="http://www.yourplasticsurgeryguide.com/breast-augmentation/">Breast Augmentation</a>, <a href="http://www.yourplasticsurgeryguide.com/face-lift/">Facelift</a>, <a href="http://www.yourplasticsurgeryguide.com/liposuction/">Liposuction</a>, <a href="http://www.yourplasticsurgeryguide.com/rhinoplasty/">Rhinoplasty</a>, and <a href="http://www.yourplasticsurgeryguide.com/tummy-tuck/">Tummy Tuck</a></span><span class="noprint"><br>
-      </span></p>
-  
+<a href="http://www.copyscape.com"><img src="/art14/copyscape.jpg" alt="Page copy protected against web site content infringement by Copyscape" title="Do not copy content from the page. Plagiarism will be detected by Copyscape." width="234" height="16" border="0"></a><br>
+
+</p><div class="geo-zsf-container">
+<div id="geo-zipsearch-float">
+	<div id="zipsearch-float-wrap">
+	<form id="zipsearch-float" action="../geo-directory.htm" method="get">
+	<input type="text" name="zip" onfocus="removeText(this)" onblur="replaceText(this)" value="Enter Zip Code" class="zip">		
+	<input type="submit" name="submit" value="Submit" class="zipsearch-float-btn">
+	</form>
+  <script type="text/javascript">
+	$(document).ready(function(){
+		$('#zipsearch-float .zipsearch-float-btn').click(function(){
+			if( $('.zip').val() == 'Enter Zip Code' ){
+				alert( 'Please enter a zip code' );
+				return false;
+			}
+		});
+	});
+	</script>
+    <a href="#geo-zipsearch-float" class="close-float-btn"><span>x</span></a>	</div>
+</div></div>
 </div><!-- /copyright -->
 <br class="clearBoth">
 </div>
 <!-- /container -->
-
 
 </body></html>
