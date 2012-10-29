@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fg-a.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212162925id_/http%3A//www.fg-a.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fg-a.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029103904id_/http%3A//www.fg-a.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -11,8 +11,6 @@ We _do collect_ general statistical information for the operation of our web sit
 **Advertising**
 
 In order to prevent going to a paid membership model, our site ( fg-a.com ) primarily uses advertising to generate revenue. Some of our advertising is managed by other companies. Third party advertising companies sometimes require the use of cookies. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
-
-For more information about cookies and how to opt-out [click here](http://www.doubleclick.com/privacy/faq.aspx).
 
 Below is a list of the companies that manage our third party advertising and a direct link to each sites privacy policy.
 
