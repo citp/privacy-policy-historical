@@ -1,106 +1,136 @@
-> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123005607id_/http%3A//www.yepme.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029101925id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# :: Yepme :: Privacy Policy ::
+# 
 
-**Privacy Policy**                  
+We value the trust you place in yepme.com. Please read this Privacy Policy, which tells you what information we collect from users of the Yepme.com, how we use that information, and with whom we may share it. Unless defined in this Privacy Policy Conduct, terms capitalized but not defined herein are defined in the Terms & Conditions. In this Privacy Policy Yepme.com is referred to as " **we** ," " **us** ," or " **our** " and you the end user are referred to as " **you** ", " **your** " or “ **user** ”.
 
-           
+**How Personal Information Is Collected and Updated**
 
-Yepme websites are owned and operated by Vas Data Services Private Limited. Please read this Privacy Policy, which tells you what information we collect from users of the Yepme websites, how we use that information, and with whom we may share it. Unless defined in this Privacy Policy Conduct, terms capitalized but not defined herein are defined in the Terms & Conditions. In this Privacy Policy Vas Data Services Private Limited is referred to as " **Vas Data Services Private Limited** ," " **we** ," " **us** ," or " **our** " and you the end user are referred to as " **you** " or " **your** ".     
+We may collect information that personally identifies you when you register, when you participate in reviews and other features or when you otherwise communicate with us. 
 
-                  **How Personal Information Is Collected and Updated**
+  
+**Types of Personal Information Collected**
 
-                  We may collect information that personally identifies you when you register, when you participate in reviews and other features or when you otherwise communicate with us.   
+  * We may collect the following types of information at the Yepme.com:
+    1. When you register at any of the Yepme.com, we may request the following personal information: 
 
-                  **Types of Personal Information Collected**
+**(i)** Your name and email address 
 
-                  We may collect the following types of information at the Yepme websites: 
+  
 
-  1. When you register at any of the Yepme websites, we may request the following personal information: 
-    * Your name and email address
+    2. When you search anything on the website, your keywords will be collected in a protected location for improving our search results. 
 
-
-  2. When you search anything on the website, your keywords will be collected in a protected location for improving our search results. 
-
-
-  3. If you are paying with a credit card, to process your payment we may also request the following personal information: 
-    * Your credit card number, name, CVV and expiry date, Your billing information 
-
-
-
-                 
-
+  
 **How Information Is Used and Shared**
 
- _Communications._
+**Communications:** We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by sending an email to [**customer.care@yepme.com**](mailto:customer.care@yepme.com)
 
-We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by sending an email to [info@vasdata.com](mailto:info@vasdata.com). 
+**Processing Payments:** For credit card purchasers, we redirect to the relevant financial institution for online transaction and billing information. 
 
-_Processing Payments._
+  
 
-For credit card purchasers, we provide to the relevant financial institution your credit card number and billing information. 
 
-_Legal Requirements._
+**Legal Requirements:** Yepme.com reserves the right to disclose your personal information as necessary to:
 
-Vas Data Services Private Limited reserves the right to disclose your personal information as necessary to: (1) comply with the law or comply with legal process served on Vas Data Services Private Limited; (2) protect and defend the rights or property of Vas Data Services Private Limited; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions. Vas Data Services Private Limited cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution 
+**(1)** Comply with the law or comply with legal process served on Yepme.com.
 
-_Promotional Mailers:_
+**(2)** Protect and defend the rights or property of Yepme.com.
 
-Whenever you register with us, we will send you your subscription status through email for your review. You can also change subscription status and frequency of promotional emails (daily, weekly, monthly) using your profile settings and we will send emails accordingly. Based on your subscription status and preferences, we will send you promotional emails. You can opt out anytime by using unsubscribe link provided in such emails and we will stop sending promotional mailers within 1 week of your opting out. 
+**(3)** Protect the personal safety of other Yepme.com users or the public 
 
-                  **Third Parties**
+**(4)** To ensure compliance with our Terms & Conditions. Yepme.com co-operates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution. 
 
-                  Except as described in this Privacy Policy, we will not disclose your personal information to third parties. Yepme may, however, use for its own purposes, aggregate information that does not identify you personally, or share aggregate information about our users with advertisers, business partners, sponsors, and other third parties.    
+  
+**Third Parties**
 
-                  **Business Transfers**
+Except as described in this Privacy Policy, we will not disclose your personal information to third parties. Yepme.com may, however, use for its own purposes, aggregate information that does not identify you personally, or share aggregate information about our users with advertisers, business partners, sponsors, and other third parties. 
 
-                  Information about Yepme websites users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of Vas Data Services Private Limited.   
+  
+**Business Transfers**
 
-                  **Non-personal User Information**
+Information about Yepme.com users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of Yepme.com.
 
-                  An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. When you request pages from Yepme websites, our servers log your computer's IP address. Yepme collects these IP addresses for the sole purpose of identifying our users' service providers (whether AOL, MSN, etc.) so we can better develop our offerings at the Yepme websites. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: (1) comply with the law or comply with legal process served on Vas Data Services Private Limited; (2) protect and defend the rights or property of Vas Data Services Private Limited; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions.   
+  
+**Non-personal User Information**
 
-                  **Cookies**
+An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. When you request pages from Yepme.com, our servers log your computer's IP address. Yepme.com collects these IP addresses for the sole purpose of identifying our users' service providers (whether yahoo, hotmail, Gmail etc.) so we can better develop our offerings at the Yepme.com. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: 
 
-                  A cookie is a small packet of information that we place on your computer's hard drive whenever you visit the Yepme websites. For each user, our web server automatically recognizes the following: 
+**(1)** Comply with the law or comply with legal process served on Yepme.com.com
 
-  * the host origin of the request (e.g., your IP address) 
-  * the referrer (e.g., where you came from if you arrived at our site via a link) 
-  * the requested document (e.g., the page being viewed) 
-  * your browser type (e.g., Internet Explorer 5.0) 
-  * platform information (e.g., Windows 2000, MAC OS 10) 
+**(2)** Protect and defend the rights or property of Yepme.com.com
+
+**(3)** Protect the personal safety of other Yepme.com users or the public 
+
+**(4)** To ensure compliance with our Terms & Conditions. 
+
+  
+**Cookies**
+
+A cookie is a small packet of information that we place on your computer's hard drive whenever you visit the Yepme.com. For each user, our web server automatically recognizes the following:
+
+  
+
+
+  * The host origin of the request (e.g., your IP address)
+  * The referrer (e.g., where you came from if you arrived at our site via a link)
+  * The requested document (e.g., the page being viewed)
+  * your browser type (e.g., Internet Explorer 6.0)
+  * platform information (e.g., Windows 2000, Windows XP, MAC OS 10)
   * session data (e.g., whether login was successful) 
 
 
 
-Yepme uses cookies for a variety of reasons, including without limitation the following: 
+Yepme.com uses cookies for a variety of reasons, including without limitation the following:
 
-  * For session variables, to facilitate your navigation of content on the Yepme websites. 
-  * To determine if cookies are enabled in your browser so that we may ensure that our Yepme websites run on your computer. 
-  * To authenticate your access to content on the Yepme websites. 
+  
 
 
+  * For session variables, to facilitate your navigation of content on the Yepme.com. 
+  * To determine if cookies are enabled in your browser so that we may ensure that our Yepme.com run on your computer. 
+  * To authenticate your access to content on the Yepme.com. 
 
-We do not store in cookies any passwords or credit card information, any information that personally identifies you, or any information that tracks you from session to session.    
 
-                **Steps You Can Take to Protect Your Privacy**
 
- _Links to Other Websites:_
+We do not store in cookies any passwords or credit card information, any information that personally identifies you.
 
-You should be aware that when you are on any Yepme website, you could be directed to other websites hosted by third parties. We do not endorse those websites. For example, if you "click" a link to a third party site we have listed on one of the pages on the Yepme websites, the "click" takes you off the applicable Yepme websites. Vas Data Services Private Limited is not responsible for the content or information collection practices of these websites. Please note that these websites may have privacy policies that differ from this Privacy Policy. We encourage you to review and understand their privacy practices before providing them with information. 
+  
+**Compliance with the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011**
 
-_What You Disclose:_
+1\. We provide you the opportunity to expressly signify your consent to the terms of our Privacy Policy through an opt in mechanism. You can also withdraw your consent earlier provided at any time subsequently by providing us written intimation of your intent to do so. 
 
-Please take appropriate precautions not to reveal your personal information while interacting with other users on Yepme websites. Please keep in mind that whenever you give out personal information online - for example, via Yepme review feature - that information can be viewed and used by people that you do not know, including but not limited to other users who access at the Yepme websites. 
+2\. We collect your information for a lawful purpose connected with the successful conduct of our business for which such collection of information is necessary.
 
-_Passwords:_
+3\. We do not retain your information for longer than is required for the purposes for which we collected the information.
 
-Your access to your account is password-protected and only you are authorized to access it and view the information relevant to the account. You agree not to share your passwords with anyone. You are responsible for maintaining the secrecy of your passwords. You agree to sign off from the Yepme websites and close your Internet browser window when you have finished accessing and using any website. 
+4\. We use collected information for the purpose for which it was collected and for nothing else.
 
-_No Guarantee of Security._
+5\. If you have provided us information that is inaccurate or incomplete and want the same to be corrected or updated, please let us know in writing and we shall do the needful to the extent the same is feasible.
 
-No data transmission over the Internet is guaranteed to be secure. Vas Data Services Private Limited does not ensure or warrant the security of any personal or other information you transmit to us including without limitation via the Yepme websites.  
+6\. Your information is secure with us as we have robust security practices and standards at par with industry standards.
 
-                  **Contact Information**
+For redressal of your grievances, please find particulars of the Grievance Officer at [**customer.care@yepme.com**](mailto:customer.care@yepme.com) .
 
-                  If you have questions or concerns regarding this Privacy Policy, please contact our support at [info@vasdata.com](mailto:info@vasdata.com).           
+  
+**Steps You Can Take to Protect Your Privacy**
+
+**Links to Other Websites:** You should be aware that when you are on any Yepme.com website, you could be directed to other websites hosted by third parties. We do not endorse those websites. For example, if you "click" a link to a third party site we have listed on one of the pages on the Yepme.com, the "click" takes you off the applicable Yepme.com. Yepme.com is not responsible for the content or information collection practices of these websites. Please note that these websites may have privacy policies that differ from this Privacy Policy. We encourage you to review and understand their privacy practices before providing them with information. 
+
+**What You Disclose:** Please take appropriate precautions not to reveal your personal information while interacting with other users on Yepme.com. Please keep in mind that whenever you give out personal information online - for example, via Yepme.com review feature - that information can be viewed and used by people that you do not know, including but not limited to other users who access at the Yepme.com. 
+
+**Passwords:** Your access to your account is password-protected and only you are authorized to access it and view the information relevant to the account. You agree not to share your passwords with anyone. You are responsible for maintaining the secrecy of your passwords. You agree to sign off from the Yepme.com and close your Internet browser window when you have finished accessing and using any website. 
+
+No Guarantee of Security. No data transmission over the Internet is guaranteed to be secure. Yepme.com does not ensure or warrant the security of any personal or other information you transmit to us including without limitation via the Yepme.com. 
+
+**Miscellaneous Privacy Issues**
+
+**Children:** Minors under the age of 18 may not use the website. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the website is designed to attract anyone under the age of 18. Yepme.com does not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults. If you are under 18, you may use Yepme.com only with the involvement of a parent or guardian. 
+
+**Public Areas:** We may provide areas on our website where you can publicly post information about yourself, can communicate with others, or can review products and submit media content. This information may be accessible by other consumers or companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a product review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. 
+
+  
+**Contact Information**
+
+If you have questions or concerns regarding this Privacy Policy; please contact our support at [**customer.care@yepme.com**](mailto:customer.care@yepme.com)
+
+  
+
