@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalf1.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110253id_/http%3A//www.totalf1.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalf1.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029153753id_/http%3A//totalf1.com/privacypolicy.php) for the most accurate reproduction.*
 
 # F1, Formula 1: TotalF1.com - Privacy Policy
 
