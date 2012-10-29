@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180739id_/https%3A//www.wesfarmers.com.au/security-a-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029045048id_/http%3A//www.wesfarmers.com.au/security-a-privacy.html) for the most accurate reproduction.*
 
 # Wesfarmers - Security & privacy
 
