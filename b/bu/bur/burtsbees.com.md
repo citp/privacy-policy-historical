@@ -1,99 +1,166 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618154305id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029214424id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
 
-# Privacy & Security - Burt's Bees
+# Privacy Policy - Burt's Bees
 
-When you provide us with information through Burtsbees.com (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information.
+**Last revised:** August 1, 2012
 
-Please note that this Privacy Policy governs only information provided by the Site. It does not govern any other information or communications that may reference Burt's Bees, e.g., communications from retailers.
+Burt’s Bees, Inc. and its family of companies (collectively, “we,” “us,” “our”) understand that privacy is important to our consumers and wants you to make knowledgeable decisions about the information you disclose. This Privacy Policy (“Privacy Policy”) is designed to inform you of our practices regarding the collection, use and disclosure of information that you provide to us or that we collect from you through your use of or interaction with our websites and our other online or mobile sites, services, applications or advertisements that link to this Privacy Policy (collectively hereinafter, our “Properties”).
 
-This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that you may provide via this Site. Please be sure to read this entire Privacy Policy before using or submitting information to this Site.
+Before using our Properties or providing information to us, please carefully review this Privacy Policy. By using one of our Properties, including registering for an account or accessing one of our websites, mobile products or online services that link to this Privacy Policy, you agree that we may collect and use your information in accordance with this Privacy Policy, as revised from time to time. Please note that this Privacy Policy does not apply to information collected from sources other than our Properties, including third party websites that may link to or be linked from our Properties or that otherwise use our name.
 
-## What Customer information does Burtsbees.com collect?
-
-While maintaining our commitment to your privacy, we do collect personally and non-personally identifiable information about you. A detailed description of the types of information collected is outlined below.
-
-Personally identifiable information includes your name, shipping address, billing address, email address and credit card information. We collect this information during the online checkout and email newsletter registration processes so that we can properly fulfill your orders and requests.
-
-Non-personally identifiable information includes your browser type, domain name, IP address and how you maneuvered through the Site. We collect this information so that we can identify general shopping and navigation patterns so we might better understand how to improve your experience with us.
-
-## Collection of Personally Identifiable Information
-
-We do not collect personally identifiable information about you, except when you provide it to us. For example, if you decide to complete a user registration form or online survey, you may be asked to provide certain information such as your contact information (name, email address, mailing address and telephone number), age group, gender and product concerns and the brands and products you use. If you decide to place an order, we will also need to know your delivery and billing address, credit card number and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password.
-
-If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information. You will be informed what information is required and what information is optional.
-
-When you submit your personally identifiable information on the Site, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.
-
-## Collection of Non-Personally Identifiable Information
-
-As you navigate through this Site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this Site some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This Site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this Site might not work without cookies.
-
-This Site may use and combine such passively collected anonymous information to provide better service to Site visitors, customize the Site based on your preferences, compile and analyze statistics and trends and otherwise administer and improve the Site for your use. Such information is not combined with personally identifiable information collected elsewhere on the Site unless you have consented.
-
-A "cookie" is a bit of information that a website sends to your Web browser that helps the Site remember information about you and your preferences.
-
-"Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the Site "remembers" previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes) and collect aggregate statistical information on the Site. They are erased once you exit your Web browser or otherwise turn off your computer.
-
-"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (such as passwords), helping to determine what areas of the website visitors find most valuable and customizing the website based on your preferences on an ongoing basis. Persistent cookies placed by this Site on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the Site. Otherwise, our Site's server only knows that an unidentified visitor with your cookie has returned to the Site.
-
-You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser.
-
-A Site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a Site and administer and improve the Site.
-
-"Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs and 1-by-1 GIFs) are smaller than cookies and tell the website server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the Site and on different pages of the Site. Such tags indicate how many times a page is opened and which information is consulted.
-
-"Navigational data" (log files, server logs and clickstream data) are used for system management, to improve the content of the Site, market research purposes and to communicate information to visitors.
-
-## Your Consent
-
-By using this Site, you agree to the terms of this Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy.
-
-## Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [Learn more about SSL](http://www.verisign.com/ssl/index.html).
-
-We implement various security measures in accordance with industry standards to protect the security of your personal information both online and offline. This Site takes reasonable steps to protect personally identifiable information as you transmit it to our Site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration, or destruction. You should always keep in mind that no Internet transmission is ever completely secure or error-free. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-## Children Under 13
-
-We take special steps to safeguard the privacy of children. This Site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this Site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to websites.
-
-## Use and Disclosure of Information
-
-Except as otherwise stated, we may use information collected via this Site to improve the content of our Site, to customize the Site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes and for any other purpose specified. In addition, we may make full use of all information acquired through this Site that is not in personally identifiable form.
-
-We do not sell, trade, or rent your email or phone number to anyone. We use outside shipping companies to ship orders (FedEx, APX, USPS, or UPS) and a credit card processing company to bill users for goods and services. These companies may receive personally identifiable information to help us process your order. These companies will not retain share, store or use personally identifiable information for any secondary purposes. Your personal data will be stored on file at Burt's Bees headquarters for as long as your account is active. We may disclose personally identifiable information you provide via this Site to third parties that are not associated with Burt's Bees, but only:
-
-  1. to contractors we use to support our business (such as fulfillment services, technical support, delivery services and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes;
-  2. in connection with the sale, assignment, or other transfer of the business of this Site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or
-  3. to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations.
+  * Contacting Us
+  * Highlights of Our Practices
+  * What Information We Collect
+  * How We Use the Information We Collect 
+  * Information Sharing and Disclosure
+  * Accessing and Updating Your Personal Information
+  * Opting Out of Communications 
+  * Security
+  * Websites Not Covered by this Privacy Policy 
+  * Children Under the Age of 13
+  * Cross-Border Data Transfers
+  * Changes to this Policy 
 
 
 
-The collection, use and disclosure of information contemplated in this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. In these cases, you will be asked to consent to such transfers and disclosures in accordance with this Privacy Policy.
+**Contacting Us**
 
-## Access, Correction and Deletion
+Please direct any inquiries related to this Privacy Policy or personal information we have collected about you by mail to Burt’s Bees, Inc., Mail Stop 2334, 1221 Broadway, Oakland, California, 94612-1888, or by email. If you have any questions or comments about our company or our products or have other customer service needs, please [click here](https://web.archive.org/c/footernav/need-help/contact-us.html) for information on contacting our consumer service representatives.
 
-To keep personally identifiable information that you provide via this Site accurate, current and complete, please contact us as specified below and we will take appropriate steps to update or correct such information in our possession, or to delete your information from our contact list.
+**Highlights of Our Practices**
 
-## Links to Other Websites
+This section is intended to provide you with a basic overview of the privacy practices described in this Privacy Policy. For complete details on our practices, please read this entire Privacy Policy.
 
-This Site may contain links or references to other websites to which this Privacy Policy does not apply. Please be aware that we are not responsible for the privacy practices of other websites. This Privacy Policy applies only to the information we collect on the Site. We encourage you to read the Privacy Policy of every website you visit.
+**_Information We Collect:_**
+    
 
-## Choice/Opt-Out
+  * We collect information about you from a variety of sources, including: 
+    * Information you provide to us directly through the Properties, such as when you fill out a registration form.
+    * Information automatically collected when you visit or use our Properties, such as information on how you were referred to our site and what you do on our site.
+    * Information from third parties, such as our vendors and business partners.
 
-You may opt-out of receiving future Opt-In Communications from Burt's Bees when you register at the Site or otherwise provide your contact information to the Site. You may change your preferences at any time by revising your profile by [clicking here](https://web.archive.org/LogonForm?storeId=10001&catalogId=10051&langId=-1). To unsubscribed from our Hive Newsletter, you can click the "unsubscribe" link at the bottom of any email Opt-In Communication you receive from us and following the instructions provided therein, or you can unsubscribe by [clicking here](https://web.archive.org/HiveUnsubscribeView?storeId=10001&catalogId=10051&langId=-1).
+Read more about what information we collect 
 
-## How to Contact Us
+  
+**_How Your Information Is Used and/or Disclosed:_**
+    
 
-If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this Site, or if you would like to opt out of future communications, please contact us as follows:
+  * We use the information we collect to fulfill your requests, conduct transactions with you, communicate with you about our products and other matters, manage our Properties, provide targeted advertising to you and conduct research and analysis.
+  * We do not sell or rent your personal information to third party marketers.
+  * We may combine all the information we collect about you.
+  * We may share your information: 
+    * With our third party service providers that assist or support our business operations, such as fulfillment, research, marketing and technology.
+    * With our affiliates, retailers and third party business partners for research, analysis and other purposes, but not for their direct marketing purposes.
+    * In an aggregated form that cannot identify you.
+    * If all or part of our business is sold to another company.
+    * To protect and defend our or other parties’ rights, safety and property.
+    * When required by law and/or government authorities.
 
-Burt's Bees, Inc.  
-Attn: Consumer Care  
-PO Box 13489  
-Durham, NC 27709  
-1.800.849.7112
+Read more about how we use, share and/or disclose your information
+  
+**_Your Choices:_**
+    
 
-## Changes to This Privacy Policy
+  * If you have opted in to receive communications from us, we may send you emails or text messages containing newsletters, special offers and other information.
+  * You can stop receiving promotional messages by following the instructions contained in such communication, or if applicable, by logging into the communication preference center on the website associated with your account.
+  * We may participate in online behavioral advertising initiatives that result in advertisements targeted to you based on your online behavior. However, we offer you the ability to opt-out of some of our advertising activities.
 
-If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically and especially before you provide any personally identifiable information. This Privacy Policy was last updated on September, 2007.
+Read more about updating your information and opting out of communications
+
+
+**What Information We Collect.**
+
+We may collect several types of information about you, including:
+
+  * Personal information:
+    * We may collect personal information through your use of the Properties, such as when you register for our Properties, subscribe to receive our communications, update your account information, enter contests or sweepstakes, respond to surveys, rate or review products, make purchases, contact us with questions or comments, apply for a job, submit user generated content or participate in our online forums, promotions and social media platforms.
+    * This personal information can include data attributes like your full name, username, password, email address, telephone number, physical or billing mail addresses, date of birth and other information you may provide to us, as well as credit card numbers or, in some limited cases, national ID numbers, like your social security number, for tax reporting purposes related to some high-value promotional prize awards. It may also include other personally-identifiable information we have collected from you, such as your attitudes and opinions about our products, demographics, interests, household or lifestyle information, satisfaction with our website and newsletters and your purchasing and browsing behavior. Additionally, it may include a resume or curriculum vitae or other information you submitted in connection with a job application or inquiry. If you have contacted us on behalf of a business or other entity, we may also collect your work contact information and details about your business or entity that you provide to us.
+    * In some instances, we may combine non-personal information with personal information, such as combining your name with your geographic location or your browsing history. If we combine any non-personal information with personal information, we will treat the combined information as personal information as long as it is combined. We also may combine personal information with information we receive about you from outside sources. For example, we may obtain commercially available demographic information about you from third parties, get device information from mobile applications or advertisements or purchase e-mail or similar lists from third parties for advertising and marketing purposes.
+  
+
+  * Other information we collect through our Properties:
+    * _Non-personal information:_ We may collect non-personal information that does not uniquely identify any individual. This might include demographic information like age and income range, gender, education, household size and marital status, as well as information from which identifying particulars have been removed. If this non-personal information does not personally identify you, we may collect, use and disclose non-personal information for any purpose, such as research to improve our products or advertising.
+    * _Server log files:_ An Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider and is identified and logged automatically in our server log files whenever you visit one of our Properties, along with the time of the visit and the page(s) that were visited. We use IP addresses for purposes such as routing visitors to the appropriate website for the visitor’s country, calculating usage levels, helping diagnose server problems, and administering our Properties. If you accessed one of our Properties using a mobile device like a smartphone, we may also collect your phone’s unique device ID and other similar mobile device data.
+    * _Cookies and similar technologies:_ We also employ technologies like Cookies, web beacons, clear GIF, pixel or Internet tag technologies which may uniquely identify your account, or the IP address associated with your Internet device. A “Cookie” is a small text file containing a random and unique alphanumeric identifier that our Properties may transfer to your computer's hard drive through your web browser that enables our systems to recognize your browser. These technologies provide us with information related to the ways consumers interact with our advertising or our Properties, like browser type, browsing behaviors, user web requests, pages and content viewed, the number of new visits or log-ins, search engine referral, affiliate referrals, traffic driven by banner ads or other promotions, which items are placed in shopping carts and which are abandoned, conversions and what purchases were made and zip codes. Such technologies, like Cookies, can contain or store non-personal and personal information (such as if you have previously registered on our Properties or consented to the retention of certain personal information) and allow web browser servers to recognize return visits to our Properties, improve web browsing navigation, or the quality and delivery of certain features or customized content through our Properties. Some Cookies (known as “persistent cookies”) will remain on your computer or Internet device until you delete them, while others (known as “session cookies”) are automatically erased when you exit your Internet browser. You can set your computer or Internet device to accept or reject most Cookies, or to notify you in most situations that a Cookie is offered so that you can decide whether to accept it.
+    * _Flash LSOs:_ We and our third-party service providers may use Flash Local Storage Objects (“Flash LSOs”) in certain situations, including to recognize you and remember your preferences or other details about your visit. Flash LSOs are different from browser Cookies because of the amount and type of data stored. In addition, you generally cannot control, delete or disable the acceptance of Flash LSOs from your browser. For more information on Flash LSOs, and to learn how to control them, click on the support page for your Flash player and choose Global Storage Settings Panel and follow the instructions. To see the Flash LSOs on your computer now, go to your Flash player’s Website Storage Settings Panel and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
+    * _Third-party applications and APIs:_ We also offer and deliver services, content or interactive features through and/or using third party application programming interfaces (API), gadgets, extensions that are hosted on our Properties or through other third party websites, or social networking platforms. When you participate in these services, products, applications, or otherwise connect with, or “accept” or “allow” third party applications, networks, platforms or services through our Properties and/or one of our services or products, you are authorizing those third parties to receive your information and additionally to potentially share any or all of your information with us, based on your privacy or other settings on the particular third party network or platform. Any personal or other information we receive by these means will be treated and/or processed according to this Privacy Policy.
+    * _Location data:_ Some of our Properties may allow you to submit information about your general location, such as your zip code or address, in order to locate stores that sell our products or provide other location-related services. With your consent, some of our Properties also may capture and record certain geo-location or global positioning data in order to provide location-related functionality. We may link such location data to other information that you provide to us or that may be accessed in connection with your use of our Properties.
+    * _Collection by third-party e-commerce providers:_ Some of our Properties may offer you the ability to make purchases using third-party e-commerce providers or payment services. In those instances, you will be directed to a webpage that is hosted by the third party (or its service providers) and not by us. Unless otherwise stated, any personal information that you provide through that third party webpage will be collected by that party and not by us, and will be subject to that party’s privacy policy, rather than this Privacy Policy. In such a situation, we will have no control over, and shall not be responsible for, that party’s use of the information you provide to them.
+    * _Website analytics:_ We may work with third-party service providers who use the technologies described in this Privacy Policy to conduct website analytics to help us track and understand how visitors use our Properties. For example, we may use companies like IBM Coremetrics, a third-party web analytics service provider, to help us improve our website performance and user experience. You can review the IBM Coremetrics privacy policy and its opt-out tool, by [clicking here](http://www-142.ibm.com/software/products/us/en/web-analytics).
+    * _Online behavioral advertising:_ We, or service providers acting on our behalf, may place or recognize a unique Cookie on your browser when you visit our Properties. Our service providers use the Cookie to collect data about your use of our Properties, as well as about your use of third-party websites, and they use that data to serve customized advertisements to you as you browse the Internet. Our service providers may participate in the Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance. As part of this program, our online behaviorally targeted advertisements may be delivered with **“AdChoices”** icons that help you understand how data about you is being used and provide you with the ability to opt out of such behaviorally targeted advertising. Additionally, our websites that participate in third party behavioral advertising may also contain such icons. Please click on an AdChoices icon or [click here](http://info.evidon.com/pub_info/229?v=1) to learn more about your choices with respect to online behavioral advertising. When you click an AdChoices icon on our websites, you will also be provided with a list of third parties collecting behavioral advertising data on that site; please visit the privacy policies of those service providers, including **BazaarVoice** and **Quantcast** , to learn more about how they collect and use data and how you may opt out of such collection and use, if applicable. To learn more about the Self-Regulatory Program for Online Behavioral Advertising, please visit <http://www.aboutads.info/consumers>.
+
+
+
+**How We Use the Information We Collect**
+
+We may use the information we collect about you for purposes such as to:
+
+  * complete transactions you have requested or fulfill orders you have placed;
+  * respond to or follow-up on your comments, reviews, inquiries and other requests;
+  * deliver targeted advertising, product solutions or content or services you have requested;
+  * conduct research and analysis related to our business, products or Properties;
+  * improve our products, services or Properties and tailor them to your usage or preferences;
+  * communicate with you about contests, sweepstakes, loyalty or rewards programs, coupons, rebates, promotions or other matters which you have entered or joined or for which you have requested information;
+  * implement social networking features you have activated;
+  * publish your reviews, comments, photos, videos and other content you have posted to one of our interactive or user-generated features;
+  * communicate with you about your account or your use of our Properties;
+  * enforce the terms of use of our Properties or otherwise manage our business;
+  * if you have opted-in to receive news, special offers or other information from us or one of our brands by email or text message, send you promotional messages we think will be of interest to you. If you no longer want to receive these direct marketing communications, you may opt-out of such communications by the methods describe in the “Opting Out of Communications” section below.
+
+
+
+**Information Sharing and Disclosure**
+
+We will not sell or rent your personal information to third parties. From time to time, we may share your personal information with our affiliates, retail partners and other third party business partners (and their service providers), such as in the following circumstances:
+
+  * to conduct research and/or analysis;
+  * to prevent such parties from sending promotional messages on our behalf to people who have asked us to not send such messages; or
+  * if you have opted-in to receive promotional communications from us, send a tailored promotional communications to you jointly offering a product or service.
+
+
+
+We will require these parties to maintain the confidentiality of your personal information, and will not authorize them to use the personal information we provide for their direct marketing purposes (as defined the _California “Shine the Light” Law, California Civil Code §§ 1798.83_ ) unless we have explicitly given you the option to opt-in or opt-out of such disclosure.
+
+We rely on third party service providers to perform a variety of services on our behalf, and we may disclose your personal information to such service providers, such as fulfillment services, sweepstakes and contest administrators, loyalty and rebate program operators, technical support providers, customer service providers, delivery services, e-commerce providers, credit card processers and research and analytics providers. However, we do not authorize these third parties’ to use your data for purposes other than for which it has been provided, and do not authorize these third parties to disclose that information to unauthorized parties or use that information for their direct marketing purposes.
+
+Additionally, we will use and disclose personally identifiable information we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. In addition, we may transfer personal information and other information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, brands, affiliates, subsidiaries or other assets.
+
+We may offer community features and public interactive forums through our Properties, like discussion boards, product reviews, chat rooms, forums, wikis, social networking platforms and blogs. When you participate in such offerings, your username and other personal information you choose to provide or communicate in these public spaces may be seen by others, and you should exercise caution when disclosing such information and realize that information you post could remain viewable in cached or archived webpages or copied and stored by other users even after you remove it. We cannot control the actions of other users of our Properties, and we are not responsible for the results of your postings. Furthermore, when you participate in these interactive features, you may be agreeing to terms of use that, among other things, allow us to use your name and other information in our marketing and advertising.
+
+We may share aggregated or anonymous information that cannot identify you with third parties. For example, we may disclose the number of visitors to our websites, the number of people who have downloaded a particular coupon or the number of people from a certain state who purchased a product from one of our e-commerce websites.
+
+We occasionally partner with other companies to run joint promotions or offer you separate third party promotions. When you provide information for these promotions, please note whether you are providing your information directly to that party to use for their own marketing purposes. In such instances, their use of your information will be governed by such party’s own privacy policy.
+
+**Accessing and Updating Your Personal Information**
+
+We will retain personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. If you have created an online account on one of our websites and would like to update the personal information you have provided to us, you can access your account on the applicable website to view and make changes or corrections to your personal information. You may also contact us at the mailing address listed above under [“Contacting Us”](https://web.archive.org/c/contact-us.html) to provide us with your name, telephone number, email and/or mailing address and your request to update information. We will try to comply with your request as soon as reasonably practicable.
+
+**Opting Out of Communications**
+
+If you no longer want to receive marketing-related emails from one of our brands on a going-forward basis, you may opt-out of receiving marketing-related emails by clicking the "unsubscribe" link at the bottom of any email newsletter you receive from that brand, or, if you created an online account when you registered to receive our emails, you may log-in to your account on the applicable brand’s website and make changes to your communication preferences. If you no longer want to receive promotional text messages from one of our brands, please follow the cancellation instructions contained in the last text message sent by that brand. If you are having difficulty unsubscribing from our marketing communications using the above methods, please contact us directly at the email or mailing addresses listed above under [“Contacting Us”](https://web.archive.org/c/contact-us.html).
+
+Please allow ample time for us to process your request. However, please note that even if you opt-out from receiving marketing communications, we may need to send you service-related communications and may need to keep information we have collected about you for record-keeping, research and other purposes. Also, please note that if you participated in a promotion that involved a third party, and, as part of that promotion, you agreed to receive future marketing communications directly from that party, you will need to contact that party to opt-out of such communications. This process may be outlined in that party’s privacy policy.
+
+To opt-out of our email Hive list or mobile messaging,[click here](https://web.archive.org/HiveUnsubscribeView).
+
+**Security**
+
+We use organizational, technical and administrative means intended to protect stored and transmitted information from loss, misuse and unauthorized access or disclosure, and we seek to encrypt credit card numbers from e-commerce transactions conducted on our Properties using secure socket layer (SSL) technology. However, no method of Internet transmission or electronic storage is 100% secure or error-free, so we unfortunately cannot guarantee absolute security. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at the email address listed above.
+
+**Websites Not Covered by this Privacy Policy**
+
+Our Properties may contain links or references to other websites or services that are managed by third parties or that are managed by us but contain a different privacy policy. This Privacy Policy governs only information that we collect through our Properties that link to this Privacy Policy, and not to websites, services or applications that do not link to this Privacy Policy or that are maintained and controlled by other companies or organizations, including third party websites linked to from our Properties (such as e-commerce stores), as well as communications from third parties that reference our company or products. Please note that many of the websites we operate outside of the United States are governed by separate privacy policies linked to from those websites. This Privacy Policy also does not cover the “offline” collection of information by us unless you have been notified that this Privacy Policy applies at the time of collection. The collection and use of your information by and through third party websites, applications or other means will be governed by the privacy policies applicable to those third parties and mediums. The inclusion of a link or reference on the Properties does not imply endorsement of the linked site by us or by our affiliates.
+
+Websites may contain our name, logos, products or other branding even though they are actually operated by third parties that may or may not have a relationship with us. Therefore, we encourage you to read the privacy policy of every service, application, or website you visit or interact with.
+
+**Children Under the Age of 13**
+
+Our Properties are not intended for children under the age of 13 and we do not knowingly collect personal information from children under age 13. If you are younger than 13, please do not use our Properties and please do not provide your personal information to us.
+
+**Cross-Border Transfers**
+
+Because we operate globally, your personal information may be stored and processed in any country where we have facilities or in which we engage service providers. By using our Properties, you consent to the transfer of information to countries outside your country of residence, including the United States, which may have different data protection rules than in your country.
+
+**Changes to this Policy**
+
+We reserve the right to change this Privacy Policy at any time. Please check the “Last Revised” legend at the top of this page to see when this Privacy Policy was last revised. When changes are made to this Privacy Policy they will become immediately effective when published in a revised Privacy Policy posted on this page unless otherwise noted. Your use of the Properties following these changes indicates your consent to the practices described in the revised Privacy Policy.
