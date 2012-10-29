@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022458id_/http%3A//dealdey.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029023353id_/http%3A//dealdey.com/privacy_policy) for the most accurate reproduction.*
 
 # DealDey - Privacy Policy
 
@@ -104,8 +104,5 @@ DealDey (HQ)
 No. 43 Raymond Njoku Street,   
 off Awolowo Road,  
 Ikoyi, Lagos.  
-080-9999-7-111  
-080-9999-7-222  
-080-9999-7-333  
-080-9999-7-444  
+01-909 9999  
 [help@dealdey.com](mailto:help@dealdey.com)
