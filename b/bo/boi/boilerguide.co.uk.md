@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620143024id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029232429id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -103,7 +103,7 @@ You have the right to require us to correct any inaccuracies in your data free o
 
 You also have the right to ask us to stop processing your personal data for direct marketing purposes. If you wish to exercise this right you should:- 
 
-  1. Put your request in writing via the [contact form](https://web.archive.org/web/20120620143024id_/http%3A//www.boilerguide.co.uk/contact)
+  1. Put your request in writing via the [contact form](https://web.archive.org/web/20121029232429id_/http%3A//www.boilerguide.co.uk/contact)
   2. Provide us with enough information to identify you (e.g. account number, user name, registration details).
   3. If your objection is not to direct marketing in general, but to direct marketing by a particular channel (e.g. e-mail or telephone) please specify the channel you are objecting to.
 
@@ -111,6 +111,6 @@ You also have the right to ask us to stop processing your personal data for dire
 
 ## Our contact details
 
-We welcome your feedback and questions. If you wish to contact us, please do so via the [contact form](https://web.archive.org/web/20120620143024id_/http%3A//www.boilerguide.co.uk/contact) or you can write to us at Boiler Guide, c/o Holmes Media (UK) Limited, 11 The Point, Rockingham Road, Market Harborough, LE16 7QU, or you may call us on 0845 287 5939. Registered in England No. 6873930 Vat No. 904 1556 46. 
+We welcome your feedback and questions. If you wish to contact us, please do so via the [contact form](https://web.archive.org/web/20121029232429id_/http%3A//www.boilerguide.co.uk/contact) or you can write to us at Boiler Guide, c/o Holmes Media (UK) Limited, 11 The Point, Rockingham Road, Market Harborough, LE16 7QU, or you may call us on 0845 287 5939. Registered in England No. 6873930 Vat No. 904 1556 46. 
 
 We may change this privacy policy from time to time. You should check this policy occasionally to ensure you’re aware of the most recent version which will apply each time you access this website. 
