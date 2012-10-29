@@ -1,61 +1,169 @@
-> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111546id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029064336id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RobbieWilliams.com
 
-**ROBBIEWILLIAM.COM SITE PRIVACY POLICY**
+PRIVACY AND COOKIES POLICY
 
-1.    WELCOME TO WWW.ROBBIEWILLIAMS.COM.
+1\. INFORMATION ABOUT US
 
-1.1    In compliance with the UK Data Protection Act 1998, the following information relates to the processing by us of your personal data.  Please note that in this privacy policy, “we” or “us” refers to RobbieWilliams.com who manage [www.robbiewilliams.com](http://www.robbiewilliams.com/ "www.robbiewilliams.com") on behalf of Robbie Williams.
+[www.robbiewilliams.com](http://www.robbiewilliams.com/) (our site) is operated and owned by RobbieWilliams.com of  111 Frithville Gardens, London, W12 7JQ REG NO 4389178 on behalf of Robbie Williams  (“we, us or our”). We take your privacy very seriously and are committed to protecting and respecting it.
 
-1.2    We are committed to complying with the provisions of the Data Protection Act 1998 and ensuring that the personal data we hold is processed fairly and lawfully.  This Privacy Policy has therefore been prepared to tell you about the way we collect information from you and what we do with that information. If any part of this statement changes, we will tell you via our homepage.   
-1.3    If you have any questions about this statement or your personal information that we may collect from you, please contact us at [help@robbiewilliams.com](mailto:help@robbiewilliams.com).
+This Privacy and Cookies Policy (together with the documents referred to on it and the terms and conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-1.4    This Privacy Policy explains how we collect information from you when you visit or register to use the Site and how this information is then used. Please read this Privacy Policy carefully and re-visit this page from time to time to review any changes that may have been made.
+For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is RobbieWilliams.com of 111 Frithville Gardens, London, W12 7JQ.
 
-  1.5    We are registered as a data controller in accordance with United Kingdom Data Protection Act 1998. We will process any personal information we collect about you in accordance with the Data Protection Act 1998. 
+We will only collect and process information about you in accordance with this Privacy and Cookies Policy. By using our site, you consent to such processing.
 
-  1.6    This Privacy Policy applies to you whether you use the Site as a casual browser or have registered to join the mailing list or where you have entered into a contract with us for the provision of our products, including the purchase of Inner Sanctum subscription.
+2\. INFORMATION WE MAY COLLECT FROM YOU
 
-  **2.     WHAT PERSONAL INFORMATION DO WE COLLECT, AND HOW IS THAT INFORMATION THEN USED?**
+We may collect and process the following data about you:
 
-**Information collected when you browse the Site**
+  * Information that you provide when you fill in forms on our site, such as your name, age, address, email address, sex and mobile number. We may also ask you for information when you purchase products (“Products”) from our site, register for our mailing list, access our chat forum and when you report a problem with our site.
+  * Information about you such as your name, address and contact details when you enter a competition or prize-draw we may choose to operate.
+  * ·If you contact us, we may keep a record of that correspondence.
+  * ·We or our agents on our behalf may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * ·Details of any transactions you carry out through our site and of the fulfilment of your orders (“Orders”).
+  * ·Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-2.1     We will not collect any personal information about you from your browsing of the Site unless you agree to collection and use of your personal data.
 
-  Information collected when you register for the mailing list or to order products from the Site, including Inner Sanctum subscription
 
-2.2    When you register with the Site, you may be asked to submit personal information about yourself in order to register. This information may include, for example, your name, address, telephone number, email address. We will only collect information that is necessary for us to provide you with the product that you have requested. The type of information that we may collect will depend upon the nature of that product. 
+3\. IP ADDRESSES AND COOKIES
 
-  **How will we use any personal information that we collect?**
+We use analytics to collect and store anonymous statistical data about our users’ visits to our site.
 
-  2.3    Where we collect personal information, we will use it for administration and to tailor our service and/or products to match your needs. We may also use personal information to conduct market research surveys, for statistical analysis to determine Site usage, to run competitions and to contact you about items of interest pertaining to Robbie Williams including the products and services of this site.   
-2.4    At all times we are legally obliged to collect, retain and process any personal information that you provide in accordance with the Data Protection Act 1998. Each time you provide us with personal information we aim to let you know how we intend to use it and ask you to give your consent to such use.  If you shop with us, we will use your contact details to contact you if there is a problem with your order. Otherwise, you can use the My Account section to select the type of mail or mobile communications you are happy to receive from us. This will include (i) where we would like to send you details about Robbie Williams news, events, products and promotions, (ii) where we would like to send you details of products and services endorsed by Robbie Williams; and (iii) where we would like to share that information with certain selected third parties to allow them to provide you with details of their services and/or products which might be of interest to you.
+We may also collect information about your computer, mobile phone (or other portable or static device used to access our site) and your visit to our site, including where available your IP address, operating system, session_id, login, screen name and browser type, for system administration and to report aggregate information to our partners and if necessary our advertisers.
 
-  **How can I remove, update, prevent use of or correct my personal information, including unsubscribing from the email or mobile mailing lists?**
+We may obtain information about your general internet usage by using a cookie file and/or similar tools which are stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive to report back anonymous data to us. They help us to improve our site and to deliver a better and more personalised service.
 
-2.6    Please refer to the “My Account” section of the Site where you can update, correct or delete your personal information as appropriate.  Within the My Account section, you can amend your mail preferences to select or de-select the types of email  you would like to receive from us. To be removed from any mailing list, simply de-select those you wish to be removed from. Should you wish for us to delete your details from our records entirely, you will need to contact us at [help@robbiewilliams.com](mailto:help@robbiewilliams.com) as we will need to do this manually for you. 
+Our site uses the following cookies:
 
-  **3.     HOW DO WE PROTECT YOUR PERSONAL INFORMATION?**
+3.1 Session cookies
 
-  3.1    We will hold your personal information securely and will only keep it for as long as is reasonably necessary in the circumstances, or whilst you are registered to use the Site, unless you have provided us with your consent to use the data for any additional purposes.  We take the security of the Site and the information you provide very seriously and we will take all appropriate technical measures using recognised security procedures and tools in accordance with good industry practice to protect your personal information. 
+These remember what you have put in your basket and enable you to use the checkout to make your purchase on our site. Without these essential session cookies we would not be able to provide you with the ability to make the purchase on our site.
 
-  3.2    Whilst we use all reasonable endeavours to protect your security in the manner described above, we consider that it is only appropriate to advise users that data transmission over the Internet and the World Wide Web cannot always be guaranteed as 100% secure, and therefore that you use the Site at your own risk.
+Session cookies are not used to gather information to advertise products or services to you.
 
-  **DO WE USE COOKIES?**
+3.2 Quantcast cookie (_qca)
 
-  4.1     Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to the Site.  You do not need to have cookies turned on to visit most of the Site. A cookie will not provide us with any personal information. Therefore, if you have not supplied us with any personal information, you can still browse our Site anonymously. 
+This web analytics service provided by Quantcast helps us to analyse how users use our site. It records visitors behaviour overall, such as typical length of stay on our site or average number of pages a user views.
 
-  4.2     We do not automatically capture or store personal data from browsers to the Site, other than to log your IP address and session information such as the duration of the visit to our Site and the nature of the browser used. This information is used only for administration of the Site system and in the compilation of statistics used by us alone.
+3.3 Google Analytics (_utma, _utmb, _utmc, _utmz)
 
-  4.3      Cookies may be required to allow you to access and participate in certain areas of the Site.
+This web analytics service provided by Google Inc helps us to analyse how users use our site. It counts the number of visitors and tells us things about their behaviour overall, such as typical length of stay on our site or the average number of pages a user views.  
 
-  4.4     The majority of browsers will allow you to alter the settings used for cookies and to disable and enable them as you require.  If you do not want cookies then please refer to the help menu on your browser for instructions on disabling them.  For further general information on cookies and more detailed advice on how to disable and enable them please go to [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+This information generated by the cookie about your use of our site will be transmitted to and stored by Google on their servers. Google will use this information for the purpose of evaluating your use of our site, compiling reports on website activity and providing other services relating to website activity.
 
-  **5.     CHANGES TO THIS PRIVACY POLICY**
+Generally, cookies may be used to enable us:
 
-  If we make any changes to this Privacy Policy these changes will be detailed on this page in order to ensure that you are fully aware of what information is collected, how it is used and under what circumstances it will be disclosed. 
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests and provide a more personalised experience to you.
+  * To speed up your searches.
+  * To recognise you when you return to our site.
 
-  **6.     LINKS**
 
-  This Privacy Policy applies only to information collected by this Site.  The Site may contain links to other websites. Please be aware that we are not responsible for the privacy policies of such other sites and we would advise you to read the privacy statement of any Site that collects personal information from you.
+
+Some third party cookies are set by services that appear on our site. They are set by the operators of that service and are not in our control. They are set by Twitter, Facebook, YouTube, Google+ and other third party services and relate to the ability of users to share content on our site.
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies, as explained below:
+
+How to manage cookies:
+
+Google Chrome
+
+  * Click the spanner icon on the browser toolbar.
+  * Select 'Settings'.
+  * Click 'Show advanced settings'.
+  * Under 'Privacy', click 'Content settings'.
+  * In the 'Cookies' section, you can manage your cookie settings.
+
+
+
+Microsoft Internet Explorer
+
+  * Click 'Tools' on the browser toolbar.
+  * Select 'Internet options'.
+  * Click the 'Privacy' tab, where you can manage your cookie settings.
+
+
+
+Mozilla Firefox
+
+  * Click the 'Firefox' button, or 'Tools' at the top of the browser page.
+  * Select 'Options'.
+  * Click the 'Privacy' tab.
+  * Set 'Firefox will:' to 'Use custom settings for history'.
+  * Manage your settings to accept or reject cookie types.
+
+
+
+Safari
+
+  * Click 'Safari' at the top of the screen.
+  * Select 'Preferences'.
+  * Click the 'Privacy' tab, where you can manage your cookie settings.
+
+
+
+By continuing to use our site you give your pre-informed consent to us using cookies (and other similar tools) on your visit. If you subsequently wish to revoke this consent, you may do so by deleting the cookies (and similar tools) via your browser tools settings. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system may issue cookies when you log on to our site.
+
+If you want to learn more about cookies you can do so at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+4\. WHERE WE STORE YOUR PERSONAL DATA
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will endeavour to take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy and Cookies Policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+5\. USES MADE OF THE INFORMATION
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, Products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To notify you about changes to our service.
+  * To fulfil our legal obligations and respond to litigation.
+  * For our statistical or survey purposes to improve our site and communicate our services to you.
+  * To prevent or detect fraud or abuses of our site and enable third parties to carry out technical, logistical or other functions on our behalf.
+  * If you consent, to notify you by email of our Products, promotions, competitions and special offers that may be of interest to you.
+  * To create non personally identifiable reports on the user interaction with our site.
+
+
+
+6\. HOW YOU CAN REMOVE, UPDATE OR CORRECT YOUR PERSONAL INFORMATION INCLUDING UNSUBSCRIBING FROM OUR NEWSLETTER
+
+When you enter your email address into the newsletter icon and click the icon, you will be given the opportunity to enter a form and provide us with your details for us to contact you. We will then send you an email for you to confirm your subscription to the newsletter. If you wish to update, correct or delete your details or unsubscribe form our newsletter you can do so following the relevant icons and links in displayed our email to you.
+
+If you wish us to delete your details from our records entirely, you will need to contact us at [help@robbiewilliams.com](mailto:help@robbiewilliams.com) as we will need to do this manually for you.
+
+7\. DISCLOSURE OF YOUR INFORMATION
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If we or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * To our third party partners as part of providing the full functionality and services of our site to you and to allow them to provide you with details of their services and/or products which might be of interest to you.
+
+
+
+8\. MINORS
+
+Please note that our site and the service available on it are not aimed at Minors, and you should not share any personal information with us if you are a Minor (the age of Minors is determined by local laws where you reside).
+
+9\. CHANGES TO OUR PRIVACY AND COOKIES POLICY
+
+Any changes we may make to our Privacy and Cookies Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+10\. LINKS
+
+This Privacy and Cookies Policy applies only to information collected by us on our site. The site may contain links to other websites. Please be aware that we are not responsible for the privacy and cookies policies of such other websites and we would advise you to read the privacy and cookies policy of other websites that collects your personal information. 
+
+11\. CONTACT
+
+If you have any questions, comments or requests regarding this Privacy and Cookies Policy, the practices of our site or your dealings with our site you can contact us by emailing [help@robbiewilliams.com](mailto:help@robbiewilliams.com).
+
+Thank you for visiting our site.
+
+BACK TO TOP
