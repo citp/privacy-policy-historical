@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goshopping.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629085822id_/http%3A//www.goshopping.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goshopping.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029134508id_/http%3A//www.goshopping.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Goshopping.com - privacy policy
 
