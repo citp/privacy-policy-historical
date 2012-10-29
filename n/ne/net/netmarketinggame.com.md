@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmarketinggame.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101837id_/http%3A//www.netmarketinggame.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmarketinggame.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029033800id_/http%3A//www.netmarketinggame.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Todd Gross Inc and its affiliates websites
 
