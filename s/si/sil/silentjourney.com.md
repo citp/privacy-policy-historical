@@ -1,100 +1,62 @@
-> *The following text is extracted and transformed from the silentjourney.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silentjourney.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029041126id_/http%3A//www.silentjourney.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# PRIVACY POLICY | Silent Journey
 
-**Go Daddy Respects Your Privacy**
+SilentJourney ("SilentJourney," "SJ" or "we"), has created this privacy policy (the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our website with this in mind. SilentJourney is fully committed to 100% permission-based marketing. You agree to this Privacy Policy, in its entirety, when you: 1) access or use our website located at www.SilentJourney.com (the "Website"); 2) agree to receive e-mail from USH; 3) obtain, or attempt to obtain, services (the "Service") from SilentJourney properties at this Website or at a website belonging to an affiliate of SilentJourney; and/or 4) register for one of our sweepstakes contests (the "Sweepstakes"). 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy will address the following: 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * What information this Website gathers/tracks about you. 
+  * What this Website does with the information it gathers/tracks. 
+  * With whom this Website shares the information it gathers/tracks. 
+  * This Website's opt-out policy. 
+  * This Website's policy on correcting and updating personally identifiable information. 
+  * This Website's policy on deactivating your name from our database. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Information Collected Online Registration/Application** We provide an online application and/or information request forms to process your request for Service. Understand that the information that you submit is voluntary, but required if you request Services and/or enter one of our Sweepstakes, whether or not you enter into a formal application with SilentJourney. Upon registration, users may be required to provide personal information including, but not limited to, the following: 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * Name 
+  * Gender 
+  * E-mail address 
+  * Street Address 
+  * Zip Code 
+  * Daytime Telephone Number and Nighttime Telephone Number or Cellular Telephone Number 
+  * Credit Card Information 
+  * Social Security Number 
+  * Birth Date 
+  * Reference Information 
+  * Driver's License Number 
+  * Answers to various questions, including providing authorization to access your credit report. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The aforementioned registration/application information, together with information regarding your transactions with SilentJourney is referred to, collectively, herein as "Personal Information." 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**IP Addresses** We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is used to gather broad and specific demographic information as well as for validation purposes. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Cookies** We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit our Website (if you choose), and for other purposes. 
 
-**Security**
+**Web Site Tracking Software** Web servers, or those of third-party vendors, utilize certain tracking software to capture your domain name address (the address of your Internet service provider) for purposes of tracking Website statistics. Note that we only collect information about you when you voluntarily provide that information through an application or registration, by visiting the Website request form, or some other Website activity we may provide from time to time. The capture of your domain name is a common practice among websites for measuring the number of hits, pages visited, and length of user session. We use this information to measure the effectiveness of the Website offerings in order to service you better. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Sharing of Information** SilentJourney respects your privacy. We will never share your personal information with a third party, unless required by law. You agree that by submitting your e-mail address at the Website you may receive e-mail marketing from SilentJourney only. With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, SilentJourney retains the right to contact you via telemarketing in accordance with the terms of the ATSR.  
+SilentJourney reserves the right to release current or past user information and Personal Information: a) in the event that we believe that the Website and/or the Service is being or has been used in violation of the Website Terms and Conditions or to commit unlawful acts; or b) if the information is subpoenaed. Moreover, you hereby consent to disclosure of any record or communication to any third-party when SilentJourney, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. 
 
-**Updating Your Information**
+**Other Websites** This Website may contain links to other third-party owned and/or operated websites. SilentJourney is not responsible for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase through one of their third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and SilentJourney has no responsibility or liability relating to them. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Security** All collected information is stored in a technically and physically secure environment. When our registration/application process asks users to enter sensitive information (such as bank account information, Social Security Number, etc), and when we store and transmit such sensitive information, that information is encrypted and is protected with SSL encryption software. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example a loan specialist or a customer service representative) are granted access to Personal Information. Our employees are dedicated to ensuring the security and privacy of all SilentJourney user information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your Personal Information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Minors** Visitors under 18 years of age are not permitted to use and/or submit their personal information at our Website and are not allowed to participate in the Sweepstakes offered by SilentJourney. SilentJourney does not knowingly solicit or collect information from visitors under 18 years of age. SilentJourney encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Opt-Out/Unsubscribe** To stop receiving future communications from SilentJourney, please [Click Here](mailto:support@silentjourney.com). SilentJourney uses Personal Information to provide promotional offers by e-mail to individuals. SilentJourney may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all SilentJourney e-mail lists, please [Click Here](mailto:support@silentjourney.com). 
 
-      iii.      You may call us at: (480) 505-8800
+**Changes in Privacy Policy** SilentJourney reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website explaining that we are changing our Privacy Policy. If the manner in which we use Personal Information changes, SilentJourney will notify its users by posting the changes on the Website and sending out an e-mail notification to its customers notifying them of the changes, and providing them with the opportunity to opt-out of the provisions relating to the transfer of their Personal Information. Other than where the user opts-out, and other than where affirmative consent is required for California residents and Vermont residents, the user's continued use of the SilentJourney service and/or continued receipt of SilentJourney e-mails constitutes an affirmative acknowledgement and acceptance by the user of the modified Privacy Policy. 
 
-       iv.      You may fax us at: (480) 505-8844
+**Contacting the Website** Our "About SJ page contains information that allows you to contact us directly with any questions or comments that you may have. We listen to or read every message sent in and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of SilentJourney, please feel free to contact us at [support@silentjourney.com](mailto:support@silentjourney.com) or : 
 
-**Sending Emails**
+[SilentJourney.com](http://www.silentjourney.com/)  
+275 Madison Avenue 4th Fl   
+New York, NY 10016  
+Phone: 212-878-6611  
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
