@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609025603id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029083627id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.com
 
@@ -23,7 +23,7 @@ TigerDirect.com uses information that we collect from our visitors and customers
 
 **Catalog Requests and Email Newsletter Subscriptions:** Upon placing an order through the Site, you will automatically begin receiving both the TigerDirect.com catalog and the TigerDirect.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from TigerDirect.com.
 
-**Sweepstakes Entrants:** From time to time, we may run sweepstakes. If you enter sweepstakes sponsored by us, we employ a double opt-in subscription program. Upon registration, a confirmation email will be sent to the email address you provide to us in connection with your entry which will include instructions, or a link to instructions, for completing the subscription process. You will not be entered until you click through the link in the email we send to you or otherwise follow the instructions contained therein. In order to make our sweepstakes more relevant to you, our servers may receive a confirmation when you open an email message from us.
+**Sweepstakes Entrants:** From time to time, we may run sweepstakes. If you enter a sweepstakes sponsored by us, you will opt-in to receive email or other communications from us and our affiliated partners. You may subsequently opt-out of the receipt of such email or communications by following the directions in the email or contacting that site. Your opt-out status will not affect your participation or chances to win in the sweepstakes. During the applicable sweepstakes period, however, you may nevertheless receive emails which we deem are related to the sweepstakes and related programs.
 
 **2\. Use of Information Collected By Us**
 
