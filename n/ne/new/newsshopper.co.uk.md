@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609205707id_/http%3A//www.newsshopper.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029060214id_/http%3A//www.newsshopper.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
