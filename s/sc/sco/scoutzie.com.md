@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scoutzie.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504111310id_/http%3A//www.scoutzie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutzie.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029085121id_/http%3A//www.scoutzie.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Mobile Designers In The World | Scoutzie
-
-## Privacy Policy
 
 Your privacy is important to us. At Scoutzie we have a few fundamental principles:
 
