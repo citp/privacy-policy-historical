@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608002946id_/http%3A//www.electronicrecyclers.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029090256id_/http%3A//www.electronicrecyclers.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : E-waste and Electronic Recycling Centers | Recycle Corporate, Consumer and Government Electronics
 
