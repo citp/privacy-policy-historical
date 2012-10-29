@@ -1,41 +1,41 @@
-> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511085838id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029025752id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
 
 # vouchercloud
 
   
 
 
-Vouchercloud values your privacy and is dedicated to safeguarding and preserving your privacy when using our application, visiting our website or communicating electronically with us.
+**vouchercloud** values your privacy and is dedicated to safeguarding and preserving your privacy when using our application, visiting our website or communicating electronically with us.
 
-This Privacy Policy, together with our Terms & Conditions explains what happens to the types of personal and non-personal information we collect when you use the vouchercloud application and website ( **Vouchercloud** ). By using **Vouchercloud** you agree to the terms of this Privacy Policy. If you do not agree to these terms please do not continue using **Vouchercloud**.
+This Privacy Policy, together with our Terms & Conditions explains what happens to the types of personal and non-personal information we collect when you use the **vouchercloud** application and website ( ** **vouchercloud**** ). By using ****vouchercloud**** you agree to the terms of this Privacy Policy. If you do not agree to these terms please do not continue using ****vouchercloud****.
 
-**Vouchercloud** uses the personal information we collect to provide our service to you. We will not rent, sell or share your personal information with any other company for its own marketing purposes without your consent except where mentioned within this policy.
+****vouchercloud**** uses the personal information we collect to provide our service to you. We will not rent, sell or share your personal information with any other company for its own marketing purposes without your consent except where mentioned within this policy.
 
 ### Collection of Information
 
-In order to deliver you the best possible service when using **Vouchercloud** , we collect and process the following information :
+In order to deliver you the best possible service when using ****vouchercloud**** , we collect and process the following information :
 
 ##### Information you provide us
 
-When you download **Vouchercloud** and use a voucher on for the first time, we ask you to register and provide us with personal information as follows : Your name, email address, date of birth, postcode and gender.
+When you download ****vouchercloud**** and use a voucher on for the first time, we ask you to register and provide us with personal information as follows : Your name, email address, date of birth, postcode and gender.
 
-There are also opportunities within **Vouchercloud** to provide the email addresses or contact details of your friends or family members and your social networking site login details to allow you to tell people about **Vouchercloud**. We may use the information you provide us along with your voucher usage details, to provide you with a better experience when using **Vouchercloud**. We will always provide you the opportunity to opt out of receiving any communication via email.
+There are also opportunities within ****vouchercloud**** to provide the email addresses or contact details of your friends or family members and your social networking site login details to allow you to tell people about ****vouchercloud****. We may use the information you provide us along with your voucher usage details, to provide you with a better experience when using ****vouchercloud****. We will always provide you the opportunity to opt out of receiving any communication via email.
 
 ##### Usage and redemption information
 
-As part of the standard operation of using **Vouchercloud** , we may collect certain non-personal information from you. For example, when you redeem a voucher, your mobile phone automatically records and sends basic information about your voucher redemption and application browsing. This may include the dates and times and redemption information and in the case of an offer being rejected, the information relating to the reason behind the rejection. We may combine this non-personal information with your personal information.
+As part of the standard operation of using ****vouchercloud**** , we may collect certain non-personal information from you. For example, when you redeem a voucher, your mobile phone automatically records and sends basic information about your voucher redemption and application browsing. This may include the dates and times and redemption information and in the case of an offer being rejected, the information relating to the reason behind the rejection. We may combine this non-personal information with your personal information.
 
 ##### Mobile phone location
 
-When you use **Vouchercloud** , we may receive your location and will use this to give you offers which are near you. Depending on your handset or the network you subscribe to, **Vouchercloud** may automatically receive this information.
+When you use ****vouchercloud**** , we may receive your location and will use this to give you offers which are near you. Depending on your handset or the network you subscribe to, ****vouchercloud**** may automatically receive this information.
 
 ##### Mobile UDID
 
-When you use the **Vouchercloud** application for the first time, we will receive a unique identifier for your phone if your handset manufacturer or network provide it. **Vouchercloud** may use your unique mobile device identification information to offer you extended services and/or functionality. We may associate that information to the mobile device identification information and to other information we have collected from and about you; however we will not use that number to telemarket to you.
+When you use the ****vouchercloud**** application for the first time, we will receive a unique identifier for your phone if your handset manufacturer or network provide it. ****vouchercloud**** may use your unique mobile device identification information to offer you extended services and/or functionality. We may associate that information to the mobile device identification information and to other information we have collected from and about you; however we will not use that number to telemarket to you.
 
-##### Directly communicating with **Vouchercloud**
+##### Directly communicating with ****vouchercloud****
 
-When you send email or other communication to **Vouchercloud** , we may retain the communication in order to serve you.
+When you send email or other communication to ****vouchercloud**** , we may retain the communication in order to serve you.
 
 ##### Information you provide on our Partners' websites
 
@@ -43,7 +43,7 @@ You mind find links to third party websites on our website. These websites shoul
 
 ##### Merchant Loyalty Information
 
-**Vouchercloud** may collect and save various merchants' Loyalty Card numbers for you. These numbers may be stored on the **Vouchercloud** servers and will be transmitted between the **Vouchercloud** servers and your device.
+****vouchercloud**** may collect and save various merchants' Loyalty Card numbers for you. These numbers may be stored on the ****vouchercloud**** servers and will be transmitted between the ****vouchercloud**** servers and your device.
 
 ### Use of Information and Data
 
@@ -55,7 +55,7 @@ Where applicable, we may disclose your personal information to any member of our
 
 ##### Unsubscribe
 
-Users who wish to no longer receive one of our promotional emails may click on the "Update your preferences" link which is embedded with every email sent by vouchercloud to opt out of individual types of promotional email. 
+Users who wish to no longer receive one of our promotional emails may click on the "Update your preferences" link which is embedded with every email sent by **vouchercloud** to opt out of individual types of promotional email. 
 
 ### Use of Cookies
 
@@ -75,17 +75,17 @@ We have take certain operational, physical and technical steps available to safe
 
 ### Changes to this Policy
 
-**Vouchercloud** reserves the right to change or modify this privacy Policy. If we change this Privacy Policy, you will be notified of any changes and be asked to approve again our policy.
+****vouchercloud**** reserves the right to change or modify this privacy Policy. If we change this Privacy Policy, you will be notified of any changes and be asked to approve again our policy.
 
 ### Access To Information
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of �10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
 ### Contacting Us
 
 If you have questions about this Privacy Policy, you can contact us at:
 
-vouchercloud  
+**vouchercloud**  
 First Floor  
 77 West Street  
 Bedminster  
@@ -93,4 +93,4 @@ Bristol
 BS3 3NU
 
 Email : [hello@vouchercloud.com](mailto:hello@vouchercloud.com)   
-Telephone: 08456 018 018 
+Telephone:08456 018 018 
