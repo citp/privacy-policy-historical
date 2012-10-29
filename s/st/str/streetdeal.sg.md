@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625125933id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029010145id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
 
 # Deals, Discounts Singapore | StreetDeal.sg
 
@@ -43,6 +43,8 @@ We will not share, sell, rent, or trade your Personally Identifiable Information
 **We may share your information for our Protection and the Protection of Others.** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others. 
 
 **We may share your information with any other website owned by AsiaDeal Group.** AsiaDeal Group is the holding company of the website and may roll out other websites with which StreetDeal may share your information
+
+**We may send you information, promotions, updates, and marketing and advertising materials in relation to third party organisations.** You will always have the opportunity to unsubscribe to these communications.
 
 #### 4\. Release of Non-Personally Identifiable Information
 
@@ -100,6 +102,6 @@ If at any time you would like to **unsubscribe** from our mailing list, please u
 
 Whether you're a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you!
 
-Customer Service Inquiries | [info@StreetDeal.sg](mailto:info@StreetDeal.sg)
+Customer Service Inquiries | [info@StreetDeal.sg](mailto:info@StreetDeal.sg) | Phone: 6361 0888
 
 305 Alexandra Road, #05-15 Vantage Automotive Centre, Singapore 159942
