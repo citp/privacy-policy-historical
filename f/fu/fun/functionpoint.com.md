@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509163231id_/http%3A//www.functionpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029153553id_/http%3A//www.functionpoint.com/privacy) for the most accurate reproduction.*
 
-# Invoice and Manage Your Clients with Confidence
+# Invoice and Manage Your Clients with Confidence | Function Point
 
 ## Your online information:
 
