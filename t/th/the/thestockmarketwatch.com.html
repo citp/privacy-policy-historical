@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thestockmarketwatch.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615102752id_/http%3A//thestockmarketwatch.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thestockmarketwatch.com privacy policy that was archived on 2012-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029120935id_/http%3A//thestockmarketwatch.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Privacy Policy</title>
@@ -8,8 +8,49 @@
 		<link rel="shortcut icon" type="image/x-icon" href="http://thestockmarketwatch.com/favicon.ico">
 	    <link href="http://c0048116.cdn1.cloudfiles.rackspacecloud.com/smw-all3.css" media="all" rel="stylesheet" type="text/css">
         <meta property="og:image" content="http://thestockmarketwatch.com/images/ogImage.png">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://c0048117.cdn1.cloudfiles.rackspacecloud.com/nicetitle.js"></script>
-        
+        <style type="text/css">
+.footerFloat {
+    background-color: #dfdfdf;
+    height: 40px;
+    font-family:Verdana;
+    padding-top: 2px;
+    font-size:11px;
+    width: 100%;
+    position:fixed;
+    left: 0px;
+    bottom: 0px;
+    border-top:2px solid #4A6184;
+}
+.footerFloat img {
+    margin-left:5px;
+    margin-right:5px;
+}
+.footerFloat td {
+    white-space:nowrap;
+}
+.fbNLtype, .fbNLname {
+    display:block;
+    text-decoration:none;
+}
+.fbNLtype {
+    font-weight:bold;
+    color:#069;
+}
+.fbNLname {
+    color:#5d5d5d;
+}
+
+
+    </style>
+    <!--[if lte IE 6]>
+    <style type="text/css">
+    body {height:100%; overflow-y:auto;}
+    html {overflow-x:auto; overflow-y:hidden;}
+    * html .footerFloat {position:absolute;}
+    </style>
+    <![endif]-->
+    
+        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://c0048117.cdn1.cloudfiles.rackspacecloud.com/nicetitle.js"></script>
         <script type="text/javascript" src="http://c48117.r17.cf1.rackcdn.com/smw-all2.js"></script>
         
             
@@ -41,7 +82,7 @@
 			    
 			    <div style="float:right;margin-top:12px;margin-right:5px;">
     			    <form action="http://thestockmarketwatch.com/stock.aspx" method="get" style="display:block;float:left;margin:0px;margin-top:-5px;padding:0px;color:#ffffff;font-size:10pt;line-height:15px;">
-				        Stock: <input type="text" size="4" maxlength="6" name="stock" style="width: 50px; margin: 0px; padding: 2px;"> 
+				        Stock: <input type="text" size="4" maxlength="8" name="stock" style="width: 50px; margin: 0px; padding: 2px;"> 
 				        <input style="font-size:10pt;" type="submit" value="Get Quote">
 				        <br>
         			    	<div style="text-align:center">
@@ -69,18 +110,19 @@
 			</div>
 				
 		    <div id="marketBar" style="color:#fff;">
+    <script src="/js/fade2.js"></script>
 		        <table cellpadding="0" cellspacing="0" border="0">
 		            <tbody><tr>
-		                <td style="vertical-align:top;width:245px;padding-left:5px;">
+		                <td style="vertical-align:top;width:225px;padding-left:5px;">
 		                    <div style="margin-bottom:0px;font-size: 11px;"><a style="border-bottom:1px solid #fff;" href="http://thestockmarketwatch.com/">US Stock Markets</a></div>
 		                    <div id="divHead_MarketUpdate">...</div><script>ExecHTTP("http://thestockmarketwatch.com/ajax/genericLoader.aspx?type=marketupdate","","document.getElementById('divHead_MarketUpdate').innerHTML=ReturnedAjaxData['http://thestockmarketwatch.com/ajax/genericLoader.aspx?type=marketupdate'];makeNiceTitles();");</script>
 	                    </td>
-		                <td style="vertical-align:top;width:250px;padding:0 10px 0 10px;border-left:1px dotted #ccc;">
-		                    <div style="margin-bottom:8px;font-size: 11px;"><a style="border-bottom:1px solid #fff;" href="http://thestockmarketwatch.com/stock-market-news/">Recent Market News</a></div>
-	                        <div id="divHead_News">...</div><script>ExecHTTP("http://thestockmarketwatch.com/ajax/genericLoader.aspx?type=recentnews","","document.getElementById('divHead_News').innerHTML=ReturnedAjaxData['http://thestockmarketwatch.com/ajax/genericLoader.aspx?type=recentnews'];makeNiceTitles();");</script>
+		                <td style="vertical-align:top;width:250px;padding:10px 2px 0 2px;border-left:1px dotted #ccc;">
+		                    <div id="divHead_News">...</div><script>ExecHTTP("http://thestockmarketwatch.com/ajax/featuredWriters.aspx","","document.getElementById('divHead_News').innerHTML=ReturnedAjaxData['http://thestockmarketwatch.com/ajax/featuredWriters.aspx'];makeNiceTitles();fade('fadeBlock');");</script>
+		                    
 	                    </td>
 		                <td style="vertical-align:top;padding:0 8px 0 8px;border-left:1px dotted #ccc;">
-		                    <div style="margin-bottom: 5px; font-size: 11px;"><u>My History</u></div>
+		                    <div style="margin-bottom: 5px; font-size: 11px;"><u>History</u></div>
 		                    <div id="divHead_QuoteHistor">...</div><script>ExecHTTP("http://thestockmarketwatch.com/ajax/genericLoaderUser.aspx?type=history&ip=204.236.235.245","","document.getElementById('divHead_QuoteHistor').innerHTML=ReturnedAjaxData['http://thestockmarketwatch.com/ajax/genericLoaderUser.aspx?type=history&ip=204.236.235.245'];makeNiceTitles();");</script>	                    
 		                </td>
 		                <td style="vertical-align:top;padding-left:8px;border-left:1px dotted #ccc;">		                
@@ -107,7 +149,7 @@
 </script>
                 
                 <div style="float:left;margin-left:0;">
-                    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=133932816698567&amp;xfbml=1"></script><fb:like href="http://thestockmarketwatch.com/markets/today.aspx" send="true" width="450" show_faces="false" colorscheme="dark" font="arial"></fb:like>
+                    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=133932816698567&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Stock-Market-Watch/141123479265543" send="true" width="450" show_faces="false" colorscheme="dark" font="arial"></fb:like>
                 </div>
             
                 
@@ -145,6 +187,7 @@
 			                    <li style="padding:1px;"><a href="http://thestockmarketwatch.com/markets/commodities/today.aspx">Commodities</a></li>
 		                    </ul>
 	                    </li>
+	                    <li><a href="http://thestockmarketwatch.com/forex/">Forex</a></li>
 	                    <li><a title="metal prices" href="http://thestockmarketwatch.com/metal/prices.aspx">Metals</a>
 		                    <ul>
 			                    <li style="padding:1px;"><a href="http://thestockmarketwatch.com/metal/prices.aspx">Metal Prices</a></li>
@@ -156,13 +199,13 @@
 		                    </ul>
 	                    </li>
 	                    
-	                    <li><a href="http://thestockmarketwatch.com/markets/topstocks/">Top Stocks</a></li>
-	                    <li><a href="http://thestockmarketwatch.com/stock-market-news/">News</a></li>
-	                    <li><a title="Stock Market Buzz" rsssrc="The very latest updates on notable market events." datedisplay="" href="http://thestockmarketwatch.com/stock-market-buzz.aspx">Market Buzz</a></li>
+	                    <li><a style="font-size:12px;line-height:12px;text-align:center;margin-top:-2px;" href="http://thestockmarketwatch.com/markets/topstocks/">Top<br>Stocks</a></li>
+	                    <li><a style="font-size:12px;line-height:12px;text-align:center;margin-top:-2px;" href="http://thestockmarketwatch.com/economic-calendar/">Economic<br>Calendar</a></li>
+	                    <li><a href="http://www2.thestockmarketwatch.com/stock-market-news/">News</a></li>
 						<li><a href="http://chat.thestockmarketwatch.com/chat7/stockchat.aspx">Chat</a></li>
 	                        
 	                    <li><a href="http://thestockmarketwatch.com/markets/etfs/today.aspx">ETFs</a></li>
-	                    <li><a href="http://thestockmarketwatch.com/stock-screener/screener.aspx">Stock Screener</a>
+	                    <li><a href="http://thestockmarketwatch.com/stock-screener/screener.aspx">Screener</a>
 		                    <ul>
 		                        <li style="padding:1px;"><a href="http://thestockmarketwatch.com/stock-screener/screener.aspx">Custom Screen</a></li>
 			                    <li style="padding:1px;"><a href="javascript:void;">Common Stock Screens</a>
@@ -208,14 +251,18 @@
 			                    </li>
 		                    </ul>
 	                    </li>
-	                    <li><a href="http://thestockmarketwatch.com/newsletters">Newsletters</a></li>
-	                    <li><a href="http://thestockmarketwatch.com/learn-stock-market">Learn</a></li>
 	                    
 	               </ul>
 		   </div>
+		   <div style="padding:2px;text-align:right;background:#e8e8e8;padding-right:10px;">
+	                    
+	                    <a href="/markets/pre-market/today.aspx">Pre Market</a> | 
+	                    <a href="/markets/dowjones/today.aspx">Dow Jones</a> | 
+	                    <a href="/metal/gold-price.aspx ">Gold</a> | 
+	                    <a title="Stock Market Buzz" rsssrc="The very latest updates on notable market events." datedisplay="" href="http://thestockmarketwatch.com/stock-market-buzz.aspx">Market Buzz</a> | <a href="http://thestockmarketwatch.com/newsletters">Newsletters</a> | <a href="http://thestockmarketwatch.com/learn-stock-market">Learn</a></div>	
 		   
 		</div>
-				
+			
 		<table id="smcontain" cellspacing="0" style="border:none">
 			<tbody><tr><td id="smcontent"><!--end smwheader-->
 			
@@ -362,6 +409,7 @@
 			<tr>
 				<td id="smfooter1">&nbsp;</td>
 			</tr>
+			
 			<tr>
 				<td id="smfooter2">
 					
@@ -538,15 +586,79 @@ var clicky_site_id = 239955;
 <a style="display:none;" title="Real Time Web Analytics" href="http://getclicky.com/239955"></a>
 <noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/239955ns.gif" /></p></noscript>
 
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-w_sQPBLfP87Dy"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-w_sQPBLfP87Dy.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
 					
 				</td>
 			</tr>
+			
 		</tbody></table>
 		
 		
 		<!--end smfooter-->	
-		
-		
+		<div class="footerFloat">
+   
+    <table style="margin:0 auto;">
+        <tbody><tr>
+            <td style="font-size:12px;color:green;padding-right:8px;vertical-align:top;">
+                <b>Be a Better<br>Trader, Today</b>
+            </td>
+            <td><img alt="arrow" border="0" src="http://c370985.r85.cf1.rackcdn.com/rightArrow.png"></td>
+            <td><div style="height:30px;border-left:1px solid #ccc;margin:0 10px 0 10px"></div></td>
+            <td><a target="_blank" href="http://thestockmarketwatch.com/nlLanding/JasonBond/Default.aspx"><img alt="small cap trading" border="0" src="http://c370985.r85.cf1.rackcdn.com/jbp.png"></a></td>
+            <td style="font-size:12px;vertical-align:top;">
+                <a target="_blank" href="http://thestockmarketwatch.com/nlLanding/JasonBond/Default.aspx" class="fbNLtype">Small Cap Stocks</a>
+                <a target="_blank" href="http://thestockmarketwatch.com/nlLanding/JasonBond/Default.aspx" class="fbNLname">Jason Bond Picks</a>
+            </td>
+            <td><div style="height:30px;border-left:1px solid #ccc;margin:0 10px 0 10px"></div></td>
+            
+            
+            <td><a target="_blank" href="http://www.thestockmarketwatch.com/nlLanding/nlSignup.aspx"><img alt="etf trading" border="0" src="http://c370985.r85.cf1.rackcdn.com/chris.png"></a></td>
+            <td style="font-size:12px;vertical-align:top;">
+                <a target="_blank" href="http://www.thestockmarketwatch.com/nlLanding/nlSignup.aspx" class="fbNLtype">ETFs &amp; Futures</a>
+                <a target="_blank" href="http://www.thestockmarketwatch.com/nlLanding/nlSignup.aspx" class="fbNLname">Gold And Oil Guy</a>
+            </td>
+            <td><div style="height:30px;border-left:1px solid #ccc;margin:0 10px 0 10px"></div></td>
+            <td><a target="_blank" href="http://www.thestockmarketwatch.com/nlLanding/getdeal.aspx?offer=options"><img alt="options trading" border="0" src="http://c370985.r85.cf1.rackcdn.com/optionsGuy.png"></a></td>
+            <td style="font-size:12px;vertical-align:top;">
+                <a target="_blank" href="http://www.thestockmarketwatch.com/nlLanding/getdeal.aspx?offer=options" class="fbNLtype">Options Trading</a>
+                <a target="_blank" href="http://www.thestockmarketwatch.com/nlLanding/getdeal.aspx?offer=options" class="fbNLname">OptionsTradingSignals</a>
+            </td>
+            <td><div style="height:30px;border-left:1px solid #ccc;margin:0 10px 0 10px"></div></td>
+            
+           <td style="font-size:12px;vertical-align:top;">
+                <a href="http://thestockmarketwatch.com/economic-calendar/" class="fbNLtype">U.S. Economic Calendar</a>
+                <a href="http://thestockmarketwatch.com/economic-calendar/" class="fbNLname">Track Important Economic Events</a>
+            </td>
+            
+        </tr>
+    </tbody></table>
+   
+   </div>
+
 
 
 	
