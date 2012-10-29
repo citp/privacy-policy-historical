@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscc.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607024320id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscc.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029145102id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Information Highlights | U.S. Cellular
 
@@ -49,7 +49,7 @@ Customers are encouraged to establish a password on their account for added acco
 
 CPNI refers to and includes information that we have about you by virtue of our relationship with you as your wireless service provider. This includes information about your account usage – such as the type and quantity of the services you subscribe to and other details about your calling, text messaging, or picture messaging plan. Use of CPNI is subject to federal laws and regulations with which U.S. Cellular is required to comply.
 
-When you become a customer of U.S. Cellular and no later than every two years thereafter, we will send you a notice in the mail explaining your rights concerning [Customer Proprietary Network Information](http://cellsite/olr/communications/business_integration/data_privacy_protection/docs/CPNI_Notification_Monthly_Prepaid_v2011.pdf). 
+When you become a customer of U.S. Cellular and no later than every two years thereafter, we will send you a notice in the mail explaining your rights concerning [Customer Proprietary Network Information](https://web.archive.org/uscellular/pdf/CPNI_Notification_Monthly_Prepaid_v2011.pdf). 
 
 ###  Personally Identifiable Wireless Location Information
 
