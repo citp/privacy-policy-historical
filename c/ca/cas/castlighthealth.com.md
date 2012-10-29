@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castlighthealth.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626181931id_/http%3A//www.castlighthealth.com/privacy-policy-2011) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castlighthealth.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029141917id_/http%3A//www.castlighthealth.com/privacy-policy-2011) for the most accurate reproduction.*
 
 # Privacy Policy | Castlight Health
 
