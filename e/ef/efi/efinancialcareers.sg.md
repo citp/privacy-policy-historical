@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118031357id_/http%3A//www.efinancialcareers.sg/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029153151id_/http%3A//www.efinancialcareers.sg/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
