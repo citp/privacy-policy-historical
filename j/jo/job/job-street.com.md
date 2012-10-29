@@ -1,100 +1,126 @@
-> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029112151id_/http%3A//job-street.com/privacy_policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# JobStreet - Your Path to a Better Job
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### Job-Street.com PRIVACY POLICY Effective Date: April 16, 2010
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This privacy policy (this "Policy") covers the web site www.Job-Street.com and the other web sites operated under the domain name Job-Street.com (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Policy describes the types of information that Job-Street.com ("Job-Street", "we", "us" or "our") gathers from you and the other people who visit the Site (the "Users"), how we may use that information and how you can contact us regarding this Policy and your personal information. 
 
-**Information Collection and Use**
+### **Your Consent**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Please read this entire Policy carefully before using this Site or providing us with any information. When you access or use this Site, you consent to the collection, use and disclosure of your information in accordance with this Policy. By providing personal information to the Site, all Users fully understand and consent to the collection, use and processing of such information by Job-Street or third parties as set forth herein. If you do not agree to the terms of this Policy, you are not authorized to use the Site. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### **Contact Us**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+If you have any questions about this Policy please contact us via e-mail at info@Job-Street.com.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Electronic:  
+To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
+To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@Job-Street.com  
+To express or ask questions regarding privacy concerns: send an email to info@Job-Street.com 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Address:  
+600 3rd Ave  
+2nd Floor  
+New York, NY 10016  
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### **Registration**
 
-**Security**
+Users are welcome to browse our Site; however, in order to participate in some of our services, Users may be required to complete brief registration forms. These forms may or may not ask for personally identifiable information. When personally identifiable information is collected, it is subject to the terms of this Policy. Information entered by Users may be transmitted to third parties.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### **Personally Identifiable Information**
 
-**Updating Your Information**
+Job-Street collects personally identifiable information from our Users at several different points on our Site, including, without limitation, when Users provide it to us by (i) contacting us through e-mail, (ii) registering for use of the Site or (iii) submitting information through any forms, interactive features or services available on the Site.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Personally identifiable information may include, but is not limited to, your name, mailing address, telephone number, e-mail address, credit card information or any other information which might reasonably be used to identify you individually. When other information is directly associated with personally identifiable information, this other information becomes personally identifiable information for purposes of this Policy. We collect this personally identifiable information when you, at any point, manually enter it into any online form available on the Site or voluntarily submit it to us in another manner. We may also store your personally identifiable information in our systems for use in other ways as described in this Policy.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+In order for you to take full advantage of the Site you may be asked to voluntarily provide your personally identifiable information to us. You may choose not to provide us with your personally identifiable information by simply not entering it on the Site or not otherwise providing it to us. While you still will have access to the Site even if you do not provide us with your personally identifiable information, you should understand that you will not be able to use certain of the services or features available through the Site that require you to enter your personally identifiable information in order to function.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### **Non-personal Information**
 
-      iii.      You may call us at: (480) 505-8800
+If you do not input or otherwise submit any of your personally identifiable information, then the information we collect from you is limited. For example, we log your IP address in order to help us diagnose problems with our server, administer the Site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access the Site through an always-on type of Internet connection (such as cable or DSL), or through a dial-up connection. We match IP addresses to completed User registration forms for validation and error checking purposes. If you reached the Site by clicking on a link or ad from another site, then we may also log that information. This helps us maximize our Internet exposure and to understand the interests of our Users. In general, this information is used to generate overall anonymous reports on our Users that enable us to improve the effectiveness of the Site.
 
-       iv.      You may fax us at: (480) 505-8844
+### **Cookies**
 
-**Sending Emails**
+We often place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through the Site and to determine whether you have visited us before. However, unless you provide us with personally identifiable information, the cookies will not contain any information that would allow us to personally identify you. If you do provide personally identifiable information to us, the cookie is tied to this information so that our systems will recognize you each time you visit the Site. In that way, we can save your preferences from visit to visit and present you with a customized version of the Site, without requiring you to log into the Site every time you visit. Our cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other sites. We use cookies in this manner to help us understand how Users use the Site, and to help us to improve the Site. You may refuse to accept a cookie from us by following the procedures for rejecting cookies specific to your web browser.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+If you visit the web site of a third party by clicking on an external link on the Site, they may also use cookies on their web site. We have no access to or control over these cookies. This Policy covers the use of cookies by Job-Street only and does not cover the use of cookies by any advertisers or other third parties.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### **User Activity Tracking**
 
-**Compliance with Laws and Law Enforcement**
+We employ software technology that enables us to track certain aspects of a User's visit to the Site. This technology helps us better manage content on the Site by informing us what content is effective. The software uses two methods to track User activity: 1) "trackers" and 2) "clear gifs." Trackers are pieces of executable code that are embedded in a web page that track usage activity including which pages are viewed, when they are viewed, and how long the pages are viewed. Clear gifs are tiny graphics with unique identifiers which are embedded in web pages and e-mails that track whether or not a User has viewed a particular page or e-mail. User activity information may be associated with additional information about a User's session, such as IP Address and the type of browser used, and personally identifiable information, if provided by the User.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+If you arrive at the Site by "clicking through" from another web site, and you have registered with that other web site, then certain information about you that you provided to that other web site, such as the terms you were searching on that led you to the Site, may be transmitted to us and we may use it as described in this Policy. You should review the privacy policy of any web site from which you reached the Site in order to determine what information was collected by that web site and for what purpose(s) you agreed that web site could use that information. We may or may not retain that information; if we do, then we may use it in accordance with this Policy. This information may or may not be associated with other User activity data or personally identifiable information.
 
-**Third Party Service Providers**
+### **Job-Street Policy Regarding Children Under the Age of 13**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Job-Street complies with the Children's Online Privacy Protection Act (COPPA). COPPA requires that web site operators never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. The Site is not intended for children under the age of 13, and Job-Street does not knowingly collect or use personally identifiable information from children under the age of 13. If we discover personal data from a child under the age of 13, we will eliminate that data.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You are not permitted to use the Site if you are under the age of 13. By using the Site, you agree to provide us with accurate information concerning your age or identity if we request it. You also agree not to assist children under the age of 13 in accessing the Site or to attempt to contact children under 13 through the Site.
 
-**Supplementation of Information**
+### **How We Use the Information We Collect**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may use the information (whether or not personally identifiable) that you provide to us to, among other things:
 
-**Contests/Surveys**
+  * Make your next visit to the Site more personalized.
+  * Process or complete transactions requested by you.
+  * Contact you regarding administrative issues, such as questions about your specific request, or otherwise respond to your comments or requests.
+  * E-mail information and offers to you.
+  * Mail information and offers to you. 
+  * Make telephone calls and send text messages to you with information and offers. 
+  * Provide your information to third parties to fulfill services you have requested or that may be of interest to you.
+  * Compile anonymous statistical information and analysis. 
+  * Provide compiled anonymous information to third parties. 
+  * Provide, sell, or rent your information to third parties for advertising purposes.
+  * Permit you to access certain web-based programs or applications on the Site.
+  * Help administer and protect the security of the Site.
+  * Process online purchases or other payment transactions.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+You should be aware that any personal information that is voluntarily posted by you to a public area of the Site (for example, a message board) may be viewed and used by other Users.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### **Consent to the Use of Third Party Providers**
 
-**What Happens to my Personal Information if I Opt Out?**
+Please understand that Job-Street may contract with third parties to provide various services to Job-Street relating to the Site on an outsourced basis rather than performing the services ourselves. For example, we may (i) contract with an e-mail provider to handle the distribution of e-mail messages to Users of the Site, (ii) contract with a web site hosting provider to host the Site for us or (iii) contract with a third party to provide call center services to facilitate communication in connection with our services. We may also contract with various validation services to confirm contact information you provide. By visiting the Site, all Users consent to Job-Street providing all information (whether or not personally identifiable) received or collected from those Users to such third party providers for the purpose of enabling the third party provider to provide these outsourced services to us. In addition, all Users consent to the collection, maintenance, and processing of their information (whether or not personally identifiable) by Job-Street and these third party providers.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We will share information provided by Users (whether or not personally identifiable) with certain third parties in our network so that they can contact you with information about the services in which you have expressed interest. In order to provide the services available to you on this Site, we may also supplement your information (whether or not personally identifiable) with information from third party sources with whom we have contracted for the purpose of verifying the contact information you have provided. You have the option not to have your information shared with third parties by not requesting these services.
 
-**Transfer of Data Abroad**
+We may also share information about Users (whether or not personally identifiable) with third parties so that we can offer you a broader range of services and information to meet your needs. If you would prefer not to have your information shared with third parties, you may opt out by e-mailing info@Job-Street.com.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+### **Communications From Us**
 
-**Changes in Our Practices**
+We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will contact you either through e-mail, telephone, or postal mail.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+When it is necessary to do so, we will send you service-related announcements, primarily via e-mail. For example, if our service is temporarily suspended for maintenance, we may send you an e-mail. Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by e-mailing info@Job-Street.com.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+### **Opting Out; Access to Collected Information**
 
-**Contacting Our Site**
+This Policy describes Job-Street's uses of your information. If you do not agree to our uses of your personally identifiable information as we have described in this Policy, you are not required to provide that information to us. In addition, if we send e-mails to you, you may opt out of receiving non-administrative e-mails from us simply by responding to the opt-out link provided on all e-mail communications from Job-Street. You may review, update and delete any personal information that you have provided to us through this Site by e-mailing info@Job-Street.com.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+### **Surveys & Contests**
 
-* * *
+From time-to-time our Site will request personally identifiable information from Users via surveys or contests. Participation in these surveys or contests is completely voluntary and the User therefore has a choice whether or not to disclose personally identifiable information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be shared with the contest or survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Site. [Users' personally identifiable information collected through surveys or contests is not shared with third parties who are not agents or service providers, unless we give prior notice and receive your permission for the sharing.] Though we may use an intermediary to conduct these surveys or contests, these intermediaries will not use the Users' personally identifiable information for any secondary purposes.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+### **Other Web Sites; Links**
+
+This Site may contain links to other third-party web sites, including web sites of our affiliated institutions, promotional partners, advertisers, sponsors or other third parties. While we try to link only to third-party websites that share our respect for privacy, this Policy and our privacy practices do not extend to and may differ from those of third-party websites that can be accessed through links on this Site. Job-Street is not responsible for any actions, content of web sites, privacy policies or security of such third parties. You should review the applicable privacy policies of the third-party web sites before registering with, providing information to or navigating those web sites.
+
+### **Disclosure of Your Information**
+
+As you might expect, Job-Street must cooperate with legal authorities, and may in some circumstances be required to disclose information (including personally identifiable information) in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this Policy, you consent to our right to do so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we believe we are required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. We further reserve the right to disclose your personal information to appropriate third parties: (i) to protect any other party’s rights, property and safety, (ii) to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving harassment, abusive messages or potential threats to the physical safety of any person and (iii) to protect against misuse or unauthorized use of this Site.
+
+Job-Street may establish subsidiaries or other related companies, or merge with or be acquired by another company. When that happens, we may disclose to them your personally identifiable information, in which case we will request them to abide by this Policy. We may also disclose some personally identifiable information to a potential acquirer.
+
+### **Changes to Policy**
+
+If we make material changes to this Policy, we will post a notice on the home page regarding the amended Policy, so that you are aware of what personally identifiable information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Policy at any time, so please review the Site frequently for any changes. Amendments to this Policy will be posted on the Site and will be effective when posted. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted, the changes to any amended or revised Policy by your continued use of our services or the Site.
+
+### **Security**
+
+Job-Street will take reasonable measures to secure the personally identifiable information Users provide to us. However, Job-Street cannot guaranty the security of any information you submit to us and you do so at your own risk. All personally identifiable information is protected by password and accessible only to authorized Job-Street personnel. However, there is a possibility that Internet transmissions containing a User's personally identifiable information may be intercepted by others. There is no way for us to ensure the privacy of User information before it arrives at the Site or after it leaves the Site.
