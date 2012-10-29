@@ -1,61 +1,33 @@
-> *The following text is extracted and transformed from the leadtek.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225525id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadtek.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029135720id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.*
 
 # Leadtek - We make dreams a reality
 
-Leadtek Research Inc. (hereinafter called as “Leadtek”) is strongly committed to protecting the privacy of consumers of its interactive products and services. Leadtek has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.leadtek.com](http://www.leadtek.com/).  Throughout cyberspace, we want to contribute to providing a safe and secure environment for customers, and in particular, ensure that kid’s information is protected.
+**Privacy Statement**  
+By submitting your personal information through Leadtek Research Inc. ( “LEDATEK”)’s website, you hereby give your consent to the handling of your personal data in the manner described in this statement. 
 
-**1\. Collection of your Personal Information**
+This privacy statement is to inform you of our online information practiced and the choices available regarding the collection and use of your personal information via this website.  
+You acknowledge and agree that this statement has the same effect as a written consent.  By accessing or using this website or providing information to LEADTEK through this website, you acknowledge that you have reviewed the content of this statement and consent to the practices described in this statement.
 
-1.1In general, we will not ask you sign up when you visit Leadtek Web site. Your personally identifiable information may be gathered, processed or used in the following ways:
+Except this statement, LEADTEK might provide different or additional information or terms for specific products, discounts, areas, services, or activities.
 
-1.1.1 Leadtek collects the information about you on the registration screen when you sign up for the service or products when you visit Leadtek Web Site, no matter required by Leadtek or the third party, in your free will.
+**Information that LEDATEK collect**  
+When you browse this website, you don’t need to provide specific personal information, only when you wish to do some actions, for example when you sign up for club membership, when you participate in promotions or surveys or when you share product information to friends through e-mail), LEADTEK will require you to submit it.  If you do not provide the personal information, your participation may be limited or prohibited. 
 
-1.1.2 Leadtek collects personally identifiable information about you on the registration screen when you sign up for the service or products when you visit Leadtek Web Site, such as your e-mail address, name, home or work address or telephone number.
+**How LEADTEK use your information (including personal and non-personal)**  
+When you use this website, LEADTEK’s product, and/or service, LEADTEK may use your information to send important notices, such as communications about purchases and changes to terms, conditions and conditions of LEADTEK.  We also use your information to assist LEADTEK develop, deliver and improve LEADTEK’s products, services and advertising.  We may also process and use your information for internal purposes, such as data analysis and research for improving LEADTEK’s services, products and customer communications.  LEADTEK may share your information with agents or contractors of LEADTEK for purposes of performing services for LEADTEK.  Except as described in this statement or otherwise as permitted by law, LEADTEK will not disclose your information outside of LEADTEL and its affiliates without your consent. 
 
-1.2 There is also information about your computer hardware and software that is automatically collected by Leadtek and may be shared with other Web sites within the Leadtek family of web sites. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Leadtek for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Leadtek Web sites. Leadtek will have prior consent of user and respect your personal decisions prior to collect your personally identifiable information when you register for member account or information full-in. Leadtek will not collect personal information without prior consent with user and will abide by the Law of 「Computer-Processed Personal Data Protection Law ( 電腦處理個人資料保護法)」of Republic of China.
+**Cookies**  
+This website use cookies, a small data file left in your computer, to allow LEADTEK’s server to store or remember specific information.  This helps LEADTEK to provide you more personal services.  LEADTEK will not use cookies to collect your personal information such as name, e-mail address.  If you have any concern, you could change your browser preferences to disable all or some cookies functions.。 
 
-1.3 _Please note that this policy applies only to Leadtek Web Site that carry Leadtek brand, and not to the other companies’or organizations’ Web Site to which we link. We have clearly marked Leadtek branded Web Sites with our logo so you know where this policy applies._
+**Security**  
+LEADTEK commit to protect the security of your personal information by using industry standard security technologies, such as SSL, for transmission off credit card information or wherever personal information is requires on web, to avoid unauthorized access of your personal information.  However, LEADTEK do not guarantee to provide a 100% safe and perfect security on internet.
 
-**2\. Information collection and Disclosure**
+**Your right**  
+You may, at any time, to contact LEADTEK by e-mail ([service@leadtek.com.tw](mailto:service@leadtek.com.tw)) or post mail (18F., No.166, Jian-Yi Rd., Chung-Ho Dist., New Taipei City 23511, Taiwan, R.O.C.) to ask LEADTEK for access, copy, modify, update, or stop, delete your personal information.  LEADTEK will reply you and remove your personal information as soon as possible, and LEADTEK may charge you a reasonable handling fee for following your instruction, if any. 
 
-2.1 Leadtek Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to the following:
+**Change of this statement**  
+LEADTEK reserve the right to update this statement at any time to reflect changes in its practices, applicable laws or regulations.  If LEADTEK update this statement, LEADTEK will annunciate the update version of this statement with a new “effective date” in the end of this statement. For permitted by applicable law, your continued use of the website constitutes your binding acceptance of the updated statement. 
 
-  * 2.1.1 Leadtek has to conform to the edicts of the law, subpoenas, and court orders or comply with legal process served on Leadtek or the site.
-  * 2.1.2 Leadtek needs to share your information, in certain area, to provide the products or service you have joined the activities held in Leadtek Web site.
-  * 2.1.3 During you visit Leadtek Web Site, Leadtek has your prior consent to share the information before Leadtek collects your personally identifiable information about you on the registration screen when you sign up for the service or products.
-
-
-
-**3\. Information Collection and Use**
-
-3.1 Before Leadtek collects your personal information, you will provide the certain purposes you requested for service or products and realize Leadtek will use the information as you instructed when the service or information provided.
-
-3.2 Except Section 2 described above, Leadtek will use information for certain purpose user required and understood.
-
-3.3 Leadtek collects anonymous demographic information that is not unique to you.
-
-3.4 Leadtek does not sell, rent or lease its customer lists to third parties.
-
-**4\. E-Mail Delivery**
-
-Leadtek may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. To alert you of new products, product upgrades, special offers and other information related to Leadtek and the Leadtek Internet Access service. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party.
-
-**5\. Use of Cookies**
-
-5.1 Many of the Leadtek Web sites use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-5.2 One of the primary purposes of cookies is to provide a convenience feature to save your time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Leadtek’s pages, or register with Leadtek sites or services, a cookie helps Leadtek to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Leadtek Web site, the information you previously provided can be retrieved, so you can easily use the Leadtek features that you customized.
-
-5.3 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Leadtek services or Web sites you visit.
-
-**6\. Use of Third Party Advertisement Networks**
-
-The majority of the online banner advertisements you see on Leadtek Web sites are displayed by Leadtek. In addition, Leadtek also allows other companies, called third-party ad servers or ad networks, to display advertisements on Leadtek Web sites. To do this, ad networks place a persistent cookie on your computer. Doing this allows the advertisement network to recognize your computer each time they send you an online advertisement. In this way, advertisement networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an advertisement network to deliver advertisements that they believe will be of most interest to you. _Leadtek does not have access to or control of the cookies that may be placed by the third-party advertisement servers or advertisement networks. If you want to prevent one of these third-party companies from sending and reading cookies on your computer, you will need to visit each ad network's Web site individually and request that you be removed from its system._
-
-**7\. Privacy Protection for Children**
-
-Leadtek does not collect, use and share of their children's (ages 13 and under) personal information online to third parties.
-
-**8.** This Privacy statement was last update on November 1st, 2001. For the improvement of technology and evaluation of laws, Leadtek reserve the right to modify this Privacy Policy Statement, from time to time, for protecting to privacy right of users. Any changes will be disclosed at the home page of Leadtek Web Site at [www.leadtek.com](http://www.leadtek.com/).
+Effective Date：2012/10/5
 
 [**Reach declaration**](http://www.leadtek.com/eng/company/images/REACH.doc)
