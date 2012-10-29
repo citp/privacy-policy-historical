@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplementworld.co.za privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521091053id_/http%3A//www.supplementworld.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplementworld.co.za privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029173711id_/http%3A//www.supplementworld.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
