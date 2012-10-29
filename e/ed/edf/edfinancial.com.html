@@ -1,59 +1,19 @@
-<!--The following is the downloaded HTML source of the edfinancial.com privacy policy that was archived on 2012-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525051204id_/http%3A//www.edfinancial.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edfinancial.com privacy policy that was archived on 2012-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029114103id_/http%3A//www.edfinancial.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="EN" xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><title>
 	Internet Privacy Policy - Edfinancial Services
 </title><meta name="description" content="At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us."> 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
-<meta http-equiv="pragma" content="no-cache"> 
-<meta http-equiv="content-style-type" content="text/css"> 
-<meta http-equiv="content-script-type" content="text/javascript"> 
+<meta charset="UTF-8"> 
+<meta http-equiv="cache-control" content="no-cache"> 
 <meta name="keywords" content="privacy, protect your information, personal information, use of personal information, consumer protection, secure transactions, NPPI, esignature, SSL"> 
-<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=EdfinancialRedesignSub"> 
-<meta name="language" content="en">
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=EdfinancialRedesignSub" type="text/css" rel="stylesheet"> 
+<link rel="shortcut icon" href="/images/favicon.ico">
+<link rel="bookmark" href="/images/favicon.ico"><meta name="language" content="en">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1-6-1-min.js"></script>
+<script type="text/javascript" src="/scripts/jquery-ui-min.js"></script>
+<link rel="stylesheet" type="text/css" href="/CMSPages/GetCSS.aspx?stylesheetname=modal_css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-var min=8;
-var max=18;
-function increaseFontSize() {
- 
-   var p = document.getElementsByTagName('p');
-   for(i=0;i<p.length;i++) {
- 
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
- 
-         var s = 12;
-      }
-      if(s!=max) {
- 
-         s += 1;
-      }
-      p[i].style.fontSize = s+"px"
- 
-   }
-}
-function decreaseFontSize() {
-   var p = document.getElementsByTagName('p');
-   for(i=0;i<p.length;i++) {
- 
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
- 
-         var s = 12;
-      }
-      if(s!=min) {
- 
-         s -= 1;
-      }
-      p[i].style.fontSize = s+"px"
- 
-   }
-}
-
-</script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -66,30 +26,94 @@ function decreaseFontSize() {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script> 
+$(function(){
+	$('a[rel="PDF"]').attr('target','_blank');
+	hider = function(elem) { $(elem).removeClass('toggled').next().hide(); };
+	$('.toggler').click(function(){
+		//$('.toggler').each(function(){hider(this);});
+		$(this).next().toggle();
+		if ($(this).hasClass('toggled')) { $(this).removeClass('toggled'); }
+		else { $(this).addClass('toggled'); }
+	});
+	hider('.toggler');
+	$('.SpanishDefForms').hide();
+	$('.SpanishDefLink').click(function(){ $(this).addClass('active');
+	$('.EnglishDefLink').removeClass('active');
+	$('.SpanishDefForms').show(); $('.EnglishDefForms').hide(); });
+	$('.EnglishDefLink').click(function(){ $(this).addClass('active');
+	$('.SpanishDefLink').removeClass('active');
+	$('.EnglishDefForms').show(); $('.SpanishDefForms').hide(); });
+
+	$('.makeModal').dialog({
+			autoOpen: false,
+			modal: true,
+			position: ['center',100],
+			draggable: false,
+			resizable: false,
+			width: 650
+	});
+	$('a[href="#loan-types"]').click(function(){
+		$('#loan-types').dialog('open');
+		$('#loan-types a').blur();
+		return false;
+	});
+
+	$("#modal").dialog({
+		autoOpen: false, modal: true, position: ['center',75],
+		draggable: false, resizable: false,
+		width: 658, height: 415
+	});
+	$('a[rel=account]').click(function(){
+		$('#modal').dialog('open');
+		$('.modal-direct').blur();
+		return false;
+	});
+});
+</script>
+<style>
+#fadeshow {
+   z-index:1;
+   background:transparent !important;
+   box-shadow: 0 0 10px #888;
+   margin: 30px 60px 30px 37px;
+}
+#fadeshow img, #fadeshow div, #fadeshow { border-radius:20px; }
+
+
+#loan-types { padding: 10px; }
+.normal { font-weight:normal; }
+.ui-dialog {
+	background:url(/images/portals-modal-bg.jpg) no-repeat center white;
+	border:1px black solid;
+	border-radius:15px;
+}
+.ui-dialog-titlebar {
+	height: 54px;
+	border-radius: 14px 14px 0 0;
+	box-shadow: #666 0 5px 10px;
+	background: url(/images/which-loan-type-banner.jpg) no-repeat center #0E4D85;
+	border-bottom: #8EC05D 5px solid;
+}
+.ui-widget-overlay{
+	position:absolute; top:0;
+	background-color: #AAA; opacity: .3;
+}
+</style> 
 </head>
-<body class="LTR ENUS">
-    <form name="form1" method="post" action="/privacy.aspx" id="form1">
+<body class="LTR ENUS ContentBody">
+    <form name="form" method="post" action="/privacy.aspx" id="form">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyNw9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgICAg8PFgQeCENzc0NsYXNzBQ1zZWFyY2hUZXh0Ym94HgRfIVNCAgJkZGSLmH32QEK56bvc007QOpYioPaRD8z4nyKsppFlVwTfaA==">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYwODg0MzQ2Ng9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgICAg8PFgQeCENzc0NsYXNzBQ1zZWFyY2hUZXh0Ym94HgRfIVNCAgJkZGS4vU/VB7fWmfK3UOc/2Pz2yZZEywxZv7SHmnPZbSuuCA==">
 </div>
 
-<div><input type="hidden" name="lng" id="lng" value="en-US">
-</div>
-<script src="/ScriptResource.axd?d=NCDI1JGHRqe6zn1kQgxO9dI258aP4viM0m6O5U9hMbH0FZL4K-OZR_iG5qwrIyq06Bf7Yt0x--qhlH7Tvk-k3s7kDMeDPLoyp9iuMfhA0HB597R3AEINpsWduGd9kz9U4NvUsE4b7lfrnaY4QLKJGF-RcTrmlgFeA5SSyZ_LsOER3G8by2ZDs8cUh-hNdV0b0&amp;t=ffffffff940d030f" type="text/javascript"></script>
-    <div id="manPortal">
-
+<input type="hidden" name="lng" id="lng" value="en-US">
+<script src="/ScriptResource.axd?d=XQ1VB5zFydeY-w6SAxxtasto-rQC33Vperde1RbMJ6rDM8Ov_FPmNYAhtTN2FMky2HCwO99SBLR1rOIx-G_ssst36PeUoX0xbyx3U3FlkuaqDoID-j2BaiS78ev7gptJ0&amp;t=34d147fd" type="text/javascript"></script>
+    <div id="CMSHeaderDiv">
+	<!-- -->
 </div>
      
-
-
- <div class="skipnav"><a href="#internalContent">Skip to main content</a> </div>
-        
-   <div id="fontsizer">
-<p>Change font size: <a href="javascript:decreaseFontSize();" title="Decrease Font Size"><img src="/images/redesign/decrease.gif" alt="Decrease Font Size"></a> <a href="javascript:increaseFontSize();" title="Increase Font Size"><img src="/images/redesign/increase.gif" alt="Increase Font Size"></a></p>
-   </div>  
-
-
+ <div class="skipnav"><a href="#internalContent">Skip to main content</a></div>
  <div id="headerSearch">
 	<div id="headerLogo"><a href="/default.aspx" title="Edfinancial Services"><img src="/images/redesign/edfinancial_logo.gif" alt="Edfinancial Services"></a></div>
 	<div id="searchField">
@@ -97,9 +121,9 @@ function decreaseFontSize() {
 <!-- Start Search -->
     
 	<div class="search">
-		<div id="plc_lt_zoneSearch_cmssearchbox_pnlSearch" class="searchBox">
+		<div id="p_lt_zoneSearch_cmssearchbox_pnlSearch" class="searchBox">
 	
-    <label for="plc_lt_zoneSearch_cmssearchbox_txtWord" id="plc_lt_zoneSearch_cmssearchbox_lblSearch">Search:</label><input name="plc$lt$zoneSearch$cmssearchbox$txtWord" type="text" id="plc_lt_zoneSearch_cmssearchbox_txtWord" class="searchTextbox"><input type="submit" name="plc$lt$zoneSearch$cmssearchbox$btnGo" value="Go" id="plc_lt_zoneSearch_cmssearchbox_btnGo" class="searchButton">
+    <label for="p_lt_zoneSearch_cmssearchbox_txtWord" id="p_lt_zoneSearch_cmssearchbox_lblSearch">Search:</label><input name="p$lt$zoneSearch$cmssearchbox$txtWord" type="text" id="p_lt_zoneSearch_cmssearchbox_txtWord" class="searchTextbox"><input type="submit" name="p$lt$zoneSearch$cmssearchbox$btnGo" value="Go" id="p_lt_zoneSearch_cmssearchbox_btnGo" class="searchButton">
 
 </div>
 
@@ -115,47 +139,75 @@ function decreaseFontSize() {
 
 
 <div id="menu">
-                      <h2>Navigation</h2>
+                      <h2>
+	Navigation</h2>
 <ul title="navigation">
-    <li><a title="Manage My Account" href="/managemyaccount">Manage My Account</a>
-    <h2>Manage My Account</h2>
-    <ul title="Manage My Account links">
-        <li><a title="Make a Payment" href="/makeapayment">Make a Payment</a></li>
-        <li><a title="Online Account Access" href="/onlineaccountaccess">Online Account Access</a></li>
-        <li><a title="Update My Information" href="/MyAccount/UpdateInfo">Update My Information</a></li>
-        <li><a title="Repayment Options" href="/repaymentoptions">Repayment Options</a></li>
-        <li><a title="Online Forms" href="/forms/otherforms">Online Forms</a></li>
-        <li><a title="E-correspondence" href="/ecorrespondence">E-correspondence</a></li>
-        <li><a title="Student Loan FAQs" href="/myaccount/help">Student Loan FAQs</a></li>
-    </ul>
-    </li>
-    <li><a title="Debt Management" href="/debtmanagement">Debt Management</a>
-    <h2>Debt Management</h2>
-    <ul title="Debt Management links">
-        <li><a title="Student Loan Repayment" href="/debtmanagement/studentloanrepayment">Student Loan Repayment</a></li>
-        <li><a title="Financial Aid and Student Loans" href="/debtmanagement/financialaidandstudentloans">Financial Aid &amp; Student Loans</a></li>
-        <li><a title="Private Student Loans" href="/debtmanagement/privatestudentloans">Private Student Loans</a></li>
-    </ul>
-    </li>
-    <li><a title="For Schools and Clients" href="/forschoolsandclients">For Schools &amp; Clients</a>
-    <h2>For Schools and Clients</h2>
-    <ul title="For Schools and Clients links">
-        <li><a title="Higher Education Solutions" href="/highereducationservices">Higher Education Solutions</a></li>
-        <li><a title="Repayment Servicing" href="/forschoolsandclients/repaymentservicing.aspx">Repayment Servicing</a></li>
-        <li><a title="Edfinancial Services Lenders" href="/forschoolsandclients/partners.aspx">Edfinancial Services Lenders</a></li>
-    </ul>
-    </li>
-    <li><a title="Contact" href="/findcontactinfo">Contact</a>
-    <h2>Contact</h2>
-    <ul title="Contact links">
-        <li><a title="Student Loan FAQ's" href="/myaccount/help">Student Loan FAQs</a></li>
-        <li><a title="Phone Numbers and Addresses" href="/ContactUs/PhoneandAddress">Phone Numbers &amp; Addresses</a></li>
-        <li><a title="Email Customer Service" href="/ContactUs/EmailCustomerService">Email Customer Service</a></li>
-        <li><a title="Update My Information" href="/MyAccount/UpdateInfo">Update My Information</a></li>
-        <li><a title="Media Center" href="/mediacenter.aspx">Media Center</a></li>
-    </ul>
-    </li>
-</ul>                        
+	<li>
+		<a href="/managemyaccount" title="Manage My Account">Manage My Account</a>
+		<h2>
+			Manage My Account</h2>
+		<ul title="Manage My Account links">
+			<li>
+				<a href="/makeapayment" rel="account" title="Make a Payment">Make a Payment</a></li>
+			<li>
+				<a href="/onlineaccountaccess" rel="account" title="Online Account Access">Online Account Access</a></li>
+			<li>
+				<a href="/MyAccount/UpdateInfo" title="Update My Information">Update My Information</a></li>
+			<li>
+				<a href="/repaymentoptions" title="Repayment Options">Repayment Options</a></li>
+			<li>
+				<a href="/forms/otherforms" title="Online Forms">Online Forms</a></li>
+			<li>
+				<a href="/bepaperfree" title="E-correspondence">E-correspondence</a></li>
+			<li>
+				<a href="/faqs" title="Student Loan FAQs">Student Loan FAQs</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="/debtmanagement" title="Debt Management">Debt Management</a>
+		<h2>
+			Debt Management</h2>
+		<ul title="Debt Management links">
+			<li>
+				<a href="/debtmanagement/studentloanrepayment" title="Student Loan Repayment">Student Loan Repayment</a></li>
+			<li>
+				<a href="/debtmanagement/financialaidandstudentloans" title="Financial Aid and Student Loans">Financial Aid &amp; Student Loans</a></li>
+			<li>
+				<a href="/debtmanagement/privatestudentloans" title="Private Student Loans">Private Student Loans</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="/forschoolsandclients" title="For Schools and Clients">For Schools &amp; Clients</a>
+		<h2>
+			For Schools and Clients</h2>
+		<ul title="For Schools and Clients links">
+			<li>
+				<a href="/highereducationservices" title="Higher Education Solutions">Higher Education Solutions</a></li>
+			<li>
+				<a href="/forschoolsandclients/repaymentservicing.aspx" title="Repayment Servicing">Repayment Servicing</a></li>
+			<li>
+				<a href="/forschoolsandclients/partners.aspx" title="Edfinancial Services Lenders">Edfinancial Services Lenders</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="/findcontactinfo" title="Contact">Contact</a>
+		<h2>
+			Contact</h2>
+		<ul title="Contact links">
+			<li>
+				<a href="/faqs" title="Student Loan FAQ's">Student Loan FAQs</a></li>
+			<li>
+				<a href="/ContactUs/PhoneandAddress" title="Phone Numbers and Addresses">Phone Numbers &amp; Addresses</a></li>
+			<li>
+				<a href="/ContactUs/EmailCustomerService" title="Email Customer Service">Email Customer Service</a></li>
+			<li>
+				<a href="/MyAccount/UpdateInfo" title="Update My Information">Update My Information</a></li>
+			<li>
+				<a href="/mediacenter.aspx" title="Media Center">Media Center</a></li>
+		</ul>
+	</li>
+</ul>
+                        
 		</div>
         
 
@@ -236,8 +288,8 @@ If your request is made to an address, other than the one provided in this polic
 
 	<div class="internalSidebar">
 		<div class="centering"><div id="sidebarAds"><br>
-    			<a title="Repayment Options" href="/repaymentoptions"><img alt="Repayment Options" src="/images/breakingbank225.jpg"></a> <br>
-<a title="Be Paper Free" href="/bepaperfree"><img alt="Be Paper Free" src="/images/bepaperfree225.jpg"></a>
+    			<a onclick="javascript: pageTracker._trackPageview('/subpageads/repaymentoptions');" title="Repayment Options" href="/repaymentoptions"><img alt="Repayment Options" src="/images/breakingbank225.jpg"></a> <br>
+<a onclick="javascript: pageTracker._trackPageview('/subpageads/bepaperfree');" title="Be Paper Free" href="/bepaperfree"><img alt="Be Paper Free" src="/images/bepaperfree225.jpg"></a>
     		</div>
     		</div>
 	</div>
@@ -280,7 +332,13 @@ If your request is made to an address, other than the one provided in this polic
 
 
     
-    </form>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
 
 
 </body></html>
