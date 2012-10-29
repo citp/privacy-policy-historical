@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510080457id_/http%3A//www.blinds.com/control/info%3F%2313) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029083400id_/http%3A//www.blinds.com/control/info%3F%2313) for the most accurate reproduction.*
 
-# FAQs - Blinds.com
+# 
 
 | **1.  How do I contact you?** | Back to Top  
 ---|---  
@@ -45,7 +45,7 @@ Changes or cancellations can only be made during the first 12 hours and as long 
   
 **9.  Do you ship outside of the continental U.S.?** | Back to Top  
 **Answer:**  
-Please call for availability and rates.  
+Please call for availability and rates. [Click here](http://www.blinds.com/control/infopage?page=freight_forwarders.html) for freight forwarding information and contacts.  
   
   
 **10.  When do you charge my credit card?** |    
