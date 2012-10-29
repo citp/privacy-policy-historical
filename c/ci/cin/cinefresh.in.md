@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinefresh.in privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217040236id_/http%3A//www.cinefresh.in/2009/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinefresh.in privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029122105id_/http%3A//www.cinefresh.in/2009/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews: Privacy Policy
 
