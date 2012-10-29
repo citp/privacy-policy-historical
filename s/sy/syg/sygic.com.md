@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sygic.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505123125id_/http%3A//www.sygic.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sygic.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029111809id_/http%3A//www.sygic.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Sygic | Privacy policy
 
@@ -137,4 +137,4 @@ If You think that the use of Your Personal Information is not in alignment with 
 
 This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use Your Personal Information, we will post a notice on this page. If You object to any such changes, You must cease using our Websites and our products and services where Personal Information is collected. Continued use of our Websites and our products and services following notice of any such changes will indicate Your acknowledgement of the changes and agreement to be bound by the new terms and conditions.
 
-Copyright © 2010 Sygic a.s.. All rights reserved.
+Copyright © 2012 Sygic a.s. All rights reserved.
