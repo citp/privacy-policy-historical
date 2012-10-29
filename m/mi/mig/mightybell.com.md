@@ -1,100 +1,89 @@
-> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029065738id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Mightybell | Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Mightybell Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
-
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
-
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
-
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+###### Last updated: June 4, 2012
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+### OUR POLICY
+
+Welcome to mightybell.com a web application made available by Mighty Software, Inc. (“Mightybell”, “we,” “us,” or “our”). We created this privacy policy to provide information about our company and its services that provide spaces (“Spaces”) to online groups for specific interests (together with our web application, the “Service”) to our users (“you,” or “your”). This Privacy Policy sets forth Mightybell’s policy with respect to information, including personally identifiable data (“Personal Data”), and other information that is collected from visitors to our Application and users of the Service. Capitalized terms used but not defined in this Privacy Policy are defined in our Terms of Service.
+
+### INFORMATION WE COLLECT
+
+When you interact with us through the Service, we may collect Personal Data and other information from you, as further described below:
+
+Personal Data That You Provide Through the Service: We collect Personal Data from you when you voluntarily provide such information, such as when you register for access to the Service (for example, name and email address), use certain features of the Service, contact us with inquiries, or respond to one of our surveys. Wherever Mightybell collects Personal Data we make an effort to provide a link to this Privacy Policy. If you are a User, you agree to comply with this Privacy Policy. However, as a member of Spaces, you acknowledge that Mightybell cannot control the actions of other Users; if you have a privacy-related dispute with an User, you should contact the User directly.
+
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Mightybell and the authorized third parties referred to herein located in the United States.
+
+Non-Identifiable or Aggregated Data: When you interact with Mightybell through the Service, we receive and store certain personally non-identifiable information (including your age and location that you provide). Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Mightybell may store such information itself or such information may be included in databases owned and maintained by Mightybell affiliates, agents, or service providers. The Service may use such information and pool it with other information to track, for example, the total number of visitors to our Service, the total number of Users who join Spaces, the number of visitors to each page of our Service, the domain names of our visitors' Internet service providers, and how our Users use and interact with the Service. Also, in an ongoing effort to better understand and serve the Users of the Service, Mightybell often conducts research on its customer demographics, interests, and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis. Mightybell may share this non-identifiable and aggregate data with its Users, affiliates, agents, and business partners, but this type of non-identifiable and aggregate information does not identify you personally. Mightybell may also disclose aggregated User statistics in order to describe our Service to current and prospective business partners, and to other third parties for other lawful purposes.
+
+In operating the Service, we may also use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Service gives to your browser when you access the Service. Our cookies help provide additional functionality to the Service and help us analyze Service usage more accurately. For instance, our Service may set a cookie on your browser that allows you to access the Service without needing to remember and then enter a password more than once when you are using the Service. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service’s features.
+
+### OUR USE OF YOUR PERSONAL DATA AND OTHER INFORMATION
+
+Mightybell uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Service (including through any Integrated Services), we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Mightybell and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Service to help us improve the content and functionality of the Service, to better understand our users and to improve the Service. Mightybell and its Related Companies may use this information to communicate with you regarding the Service or to tell you about products or services that we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. Note however that as a User of the Service you cannot opt-out of some administrative communications that are reasonably necessary to the Service, such as billing or service notifications.
+
+If Mightybell intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+
+### OUR DISCLOSURE OF YOUR PERSONAL DATA AND OTHER INFORMATION
+
+Mightybell is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+
+Hosts: If you participate in a Space created by another user of the Service, the Host may have access to certain Personal Data that you make generally available through the Service, such as your username, gender, age, location, and activity in their specific Space in which you are participating. The Host may also receive aggregate usage data related to your participation in a Space, such as when you accomplish an action in such Space and how you rated it.
+
+Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
+
+Related Companies: We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
+
+Agents, Consultants and Related Third Parties: Mightybell, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases, and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+
+Legal Requirements: Mightybell may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Mightybell, (iii) act in urgent circumstances to protect the personal safety of users of the Service or the public, or (iv) protect against legal liability.
+
+### YOUR CHOICES
+
+Note that although you may be able to set your participation in a Space as non-visible to others, other members in a Space will be able to see that you are participating.
+
+You can access the Service without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain features of the Service.
+
+### EXCLUSIONS
+
+This Privacy Policy does not apply to any Personal Data collected by Mightybell other than Personal Data collected through the Service. This Privacy Policy shall not apply to any unsolicited information you provide to Mightybell through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, such as public forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Mightybell shall be free to reproduce, use, disclose, distribute, and exploit such Unsolicited Information without limitation or attribution.
+
+### CHILDREN
+
+Mightybell does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Mightybell through the Service, please contact us and we will look to delete that information from our databases.
+
+### LINKS TO OTHER WEB APPLICATIONS
+
+This Privacy Policy applies only to the Service. The Service may contain links to other web sites not operated or controlled by Mightybell (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Service do not imply that Mightybell endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+### INTEGRATED SERVICES
+
+One of the special features of the Service is that it allows you to enable various online third party services, such as social media and social networking services like Facebook and Twitter (“Integrated Services”), to integrate directly into your Mightybell Space. By directly integrating these services, we make your use of Mightybell richer, and more personalized. To enable this feature, we may ask you to authorize Mightybell to access the Integrated Services. When you add an Integrated Service account to the Service, your login information and other relevant information necessary to enable the Service will be passed through to the Integrated Service to access that Integrated Service and your data contained within that Integrated Service. We may import, use, disclose, and retain such data and information to, among other things, customize and improve the Service for you, your friends, and others. Note that Integrated Services may also import, use, and retain this information. You may control how certain information is shared with us in your privacy settings within the Integrated Services. However, please remember that the manner in which Integrated Services use, store, and disclose your information is governed solely by the policies of such third parties, and Mightybell shall have no liability or responsibility for the privacy practices or other actions of any Integrated Service that may be enabled within the Service.
+
+### SECURITY
+
+Mightybell takes reasonable steps to protect the Personal Data provided via the Service from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email, or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.
+
+### OTHER TERMS AND CONDITIONS
+
+Your access to and use of the Service is subject to the Terms of Service at mightybell.com/tos.
+
+### CHANGES TO MIGHTYBELL’S PRIVACY POLICY
+
+The Service and our business may change from time to time. As a result, at times it may be necessary for Mightybell to make changes to this Privacy Policy. Mightybell reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Service after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+Mightybell has no liability or responsibility for the privacy practices or other actions of any Integrated Service that may be enabled within the Service.
+
+### ACCESS TO INFORMATION; CONTACTING MIGHTYBELL
+
+To keep your Personal Data accurate, current, and complete, please update your account settings or contact us at the email address below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Service.
+
+Please also feel free to contact us if you have any questions about Mightybell’s Privacy Policy or the information practices of the Service.
+
+You may contact us at: help@mightybell.com.
