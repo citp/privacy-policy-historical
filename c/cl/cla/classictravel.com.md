@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classictravel.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215031352id_/http%3A//classictravel.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classictravel.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029213041id_/http%3A//www.classictravel.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Luxury Travel Agency - Luxury Hotels, Online Booking, Virtuoso Rates, Reviews - Classic Travel
+# Our Privacy Policy - Your Privacy is Important to Us
 
 To provide credit card security and keep your personal information safe, we use Secure Sockets Layer (SSL) technology, the most widely used data encryption coding systems for secure e-commerce transactions. All of your information is encrypted (scrambled) prior to being sent over the Internet to our system. To protect your information once we receive it, we place it on systems behind secure firewalls, which are communication-management computers designed to keep information safe and inaccessible to other Internet users. If your browser doesn't accept the SSL technology, transactions will not be permitted.
 
