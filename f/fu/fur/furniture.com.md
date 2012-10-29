@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625003644id_/http%3A//www.furniture.com/shared/Pages/customerservice/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029052912id_/http%3A//www.furniture.com/shared/Pages/customerservice/policy.aspx%23190) for the most accurate reproduction.*
 
 # - Our Policies - Furniture.com
 
@@ -62,29 +62,15 @@ To ensure smooth delivery of your furniture, please review the following deliver
 
 
   
-Pick Up  
+Pick UP  
   
-Pick-ups can be made at certain locations. Should you pick up your furniture, pick-up hours and directions will be e-mailed to you with your order confirmation.
-
-To ensure smooth pick-up of your furniture, please review the following pick-up policies:
-
-.- Customers who pick up merchandise are served on a first-come, first-serve basis. Wait times may vary. Please allow additional wait time for fabric treatment.
-
-.- Online orders must be paid in full at the time of purchase and require that when you pick up you bring the credit card used to place your order, picture ID, and your printed email confirmation.
-
-.- Merchandise that is picked-up may be in cartons and require assembly. Due to the nature of furniture shipped in cartons, we are unable to unpack cartons or assemble product for you at the pick-up location.
-
-.- Please be sure that the size of your vehicle will accommodate the size of the furniture to be picked up. We are not responsible for loading and tie-down of merchandise or the safe transportation of furniture to your home. Damage that occurs during transit is not covered under warranty nor can we accept returns on the merchandise.
-
-.- For concealed damage on merchandise that was picked up, you must contact our Online Customer Service Department at (866) 965-3876 or email us at customerservice@furniture.com within 48 hours of the date the merchandise was picked up. Any items returned must be in the original carton.
-
-
+Unfortuantely we are unable to offer Pick-up option for your area at this time.
   
 Cancellations and Returns  
 Should you wish to cancel your order, please refer to the following policies.  
 Cancellation before Delivery  
   
-Orders can generally be cancelled within 24 hours or as long as they have not been prepared for delivery by our retailers.   
+Orders can generally be cancelled within 24 hours or as long as they have not been prepared for delivery by our retailer partners.   
 Once you place your order, you will receive the contact information of service representatives that will help you with your order. To cancel your order, simply call a service representative, or, if you prefer, e-mail us at CustomerService@furniture.com. A full refund will promptly be made to your credit card. In some cases a restocking fee and delivery fees may apply if you cancel your order once it has been picked up for delivery.
   
 Returns after Delivery  
@@ -191,7 +177,7 @@ Information about your browser helps us improve the way our site appears on your
 back to top  
 5\. Does Furniture.com ever share such information? With whom?  
   
-is never shared with anyone, except in connection with your order. Credit card or check information is only shared with financial institutions that process your payment. Shipping information is shared with the retail partners that fulfill your order. Information on financing applications goes directly to the financial institution that handles the financing, not to Furniture.com; we never see your application information, only your approval code, name and address. Technically, this shared information does pass out of our direct control, but Furniture.com makes clear to financial companies and retail partners we work with that we expect your information to be handled in accordance with Furniture.com's Privacy Policy. 
+Your personal information is never shared with anyone, except in connection with your order. Credit card or check information is only shared with financial institutions that process your payment. Shipping information is shared with the retail partners that fulfill your order. Information on financing applications goes directly to the financial institution that handles the financing, not to Furniture.com; we never see your application information, only your approval code, name and address. Technically, this shared information does pass out of our direct control, but Furniture.com makes clear to financial companies and retail partners we work with that we expect your information to be handled in accordance with Furniture.com's Privacy Policy. 
 
 We do not sell, rent, share, trade or give away any of the information you provide to us except to the financial institutions processing your payment or your financing application and the retailers / shippers that produce and/or deliver your order. No third party will solicit you as a result of information within our control.
 
@@ -248,9 +234,8 @@ If, however, we are going to use users' personally identifiable information in a
 
   
 Secure Shopping  
+We make certain that we never share the information you've shared with us. We also make sure that your information is protected as you send it to us.  
   
-We make certain that we never share the information you've shared with us. We also make sure that your information is protected as you send it to us. 
-
 Our secure server software (SSL) is among the best technology available today. It encrypts (scrambles in code) all personal data you share with us, including your credit card and telephone numbers, name and address. Furniture.com is so confident in our systems that we ensure 100% safety in the transactions you make with us.* 
 
 *In the rare event that unauthorized charges are made to your credit card during a transaction with us, you will not be held responsible in any way. Under federal law, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, Furniture.com will cover the entire liability for you, up to the full $50. Furniture.com will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own, on purchases made at Furniture.com while using the secure server. In the event of unauthorized use of your credit card, in order to qualify for the Furniture.com security guarantee, you must undertake any steps required by federal law and your credit card agreement, including any provision requiring you to notify your credit card provider in accordance with its reporting rules and procedures. If you have any questions regarding federal laws, contact your state's attorney general or the United States Department of the Treasury.
