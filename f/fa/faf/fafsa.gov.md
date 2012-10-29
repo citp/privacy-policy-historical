@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521123420id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029081035id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - FAFSA on the Web - Federal Student Aid
 
@@ -18,7 +18,7 @@
 > 
 > More about privacy and your student aid records
 > 
-> [Privacy Notice](https://web.archive.org/web/20120521123420id_/http%3A//www.fafsa.ed.gov/privacynotice.htm)
+> [Privacy Notice](https://web.archive.org/web/20121029081035id_/http%3A//www.fafsa.ed.gov/privacynotice.htm)
 > 
 > [Privacy Impact Assessment](http://www2.ed.gov/notices/pia/index.html)
 
