@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmynd.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126080804id_/https%3A//webmynd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmynd.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029085133id_/https%3A//trigger.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Trigger
 
@@ -95,7 +95,7 @@ In the event that personal information is compromised as a result of a breach of
 
 ### Your Choices About Your Information
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case Trigger may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your [development dashboard](https://web.archive.org/forge/). You can review and correct the information about you that Trigger keeps on file by contacting us directly at [support@trigger.io](mailto:support@trigger.io).
+You may, of course, decline to submit personally identifiable information through the Service, in which case Trigger may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your [development dashboard](https://web.archive.org/account/). You can review and correct the information about you that Trigger keeps on file by contacting us directly at [support@trigger.io](mailto:support@trigger.io).
 
 ### Children's Privacy
 
