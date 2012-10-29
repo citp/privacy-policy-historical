@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pesapal.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524030727id_/https%3A//www.pesapal.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesapal.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029094654id_/https%3A//www.pesapal.com/home/privacypolicy) for the most accurate reproduction.*
 
 # PesaPal™ | Privacy Policy
-
-## PesaPal™ Privacy Policy
 
 What information do we collect?
 
