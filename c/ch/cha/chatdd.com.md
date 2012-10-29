@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615075529id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029104630id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
@@ -46,21 +46,21 @@ We do not take any responsibility for any error or omission by Chatdd.com or Thi
 
 ## Latest Threads from ChatDD Forums:
 
-  * [Namaz..](http://forum.chatdd.com/islam-forum/94054-namaz.html)
-  * [Goongi Ho Gai Zuban Aaj K...](http://forum.chatdd.com/urdu-adab/94053-goongi-ho-gai-zuban-aaj-kuch-kehte-kehte.html)
-  * [My 1st Design For Chat DD...](http://forum.chatdd.com/designers-work/94052-my-1st-design-chat-dil-sy-dil-tk-dd-forum-dedication-my-bro-jawaid-khan.html)
-  * [Love Pyar Kise Tum Kehte ...](http://forum.chatdd.com/love-friendship-%3B/94050-love-pyar-kise-tum-kehte-ho-%2A.html)
-  * [Assess Yourself](http://forum.chatdd.com/freedom-speech-gupshup/94049-assess-yourself.html)
-  * [A female devotee of Allah...](http://forum.chatdd.com/islam-forum/94048-female-devotee-allah-talah.html)
-  * [The translation of salat ...](http://forum.chatdd.com/islam-forum/94047-translation-salat-namaz.html)
-  * [parwarash-e-loh-o-qalam](http://forum.chatdd.com/famous-urdu-poetry/94046-parwarash-e-loh-o-qalam.html)
-  * [Sar-e-bazaar](http://forum.chatdd.com/famous-urdu-poetry/94045-sar-e-bazaar.html)
-  * [Ussey Main Q btaoon Maine...](http://forum.chatdd.com/famous-urdu-poetry/94044-ussey-main-q-btaoon-maine-usko-kitna-chaha-hai.html)
-  * [Ek Ajnabi Hai Magar..](http://forum.chatdd.com/famous-urdu-poetry/94043-ek-ajnabi-hai-magar.html)
-  * [Ghazal](http://forum.chatdd.com/famous-urdu-poetry/94042-ghazal.html)
-  * [Oovoo Full Offline Instal...](http://forum.chatdd.com/computer/94041-oovoo-full-offline-installer.html)
-  * [hi everyone](http://forum.chatdd.com/freedom-speech-gupshup/94037-hi-everyone.html)
-  * [ufff ye girls bhi na ....](http://forum.chatdd.com/fun-humor-jokes/94036-ufff-ye-girls-bhi-na.html)
+  * [funny](http://forum.chatdd.com/photo-gallery-wallpapers-world/99550-funny.html)
+  * [Salsa Chicken Rice Casser...](http://forum.chatdd.com/cooking-recipes/99549-salsa-chicken-rice-casserole.html)
+  * [Spicy Garlic Lime Chicken](http://forum.chatdd.com/cooking-recipes/99548-spicy-garlic-lime-chicken.html)
+  * [اچھی یادداشت �...](http://forum.chatdd.com/information-center/99547-1575%3B-1670%3B-1726%3B-1740%3B-1740%3B-1575%3B-1583%3B-1583%3B-1575%3B-1588%3B-1578%3B-1705%3B-1746%3B-1604%3B-1740%3B-1746%3B-1576%3B-1681%3B-1726%3B-1575%3B-1662%3B-1746%3B-1605%3B-1740%3B-1722%3B-1608%3B-1585%3B-1586%3B-1588%3B-1604%3B-1575%3B-1586%3B-1605%3B.html)
+  * [Different Jura style..](http://forum.chatdd.com/ladies-gents-fashion/99546-different-jura-style.html)
+  * [Beautiful Watches For Gir...](http://forum.chatdd.com/ladies-gents-fashion/99545-beautiful-watches-girls.html)
+  * [Main Narra e Mastana](http://forum.chatdd.com/famous-urdu-poetry/99544-main-narra-e-mastana.html)
+  * [=-App Ki Eid?-=](http://forum.chatdd.com/freedom-speech-gupshup/99543-%3D-app-ki-eid-%3D.html)
+  * [Top & Best IELTS Preparat...](http://forum.chatdd.com/education-results-admission-notes/99542-top-best-ielts-preparation-institutes-pakistan-lahore-karachi-islamabad.html)
+  * [Jannat ki 5 Cheezain](http://forum.chatdd.com/islam-forum/99541-jannat-ki-5-cheezain.html)
+  * [teacher](http://forum.chatdd.com/fun-humor-jokes/99540-teacher.html)
+  * [Qurbani](http://forum.chatdd.com/fun-humor-jokes/99539-qurbani.html)
+  * [refresh your imaan,,,,,](http://forum.chatdd.com/islam-forum/99538-refresh-your-imaan.html)
+  * [Reham,,,,,,,,,,,,,](http://forum.chatdd.com/islam-forum/99537-reham.html)
+  * [A Girl Wont Cry Easily,](http://forum.chatdd.com/english-club/99536-girl-wont-cry-easily.html)
 
 [ ](http://www.countgames.com/)
 
