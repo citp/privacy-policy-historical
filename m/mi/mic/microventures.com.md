@@ -1,149 +1,99 @@
-> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218234051id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029100111id_/http%3A//www.microventures.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Angel Investing Private Equity and Crowd funding by Microventures
 
-#### Find Answers To Your Questions:
+**Your Privacy**
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+The website MicroVentures.com and the services available on it (collectively, we'll refer to these as the MicroVenture services) are provided to you by MicroVenture Marketplace Inc. As we provide you (or the organization for which you are acting) with the MicroVenture services, we collect some personal information. This Privacy Policy tells you how MicroVenture uses and works to protect your information.
 
-### Privacy Policy
+By using MicroVenture, you agree to the terms and conditions of the User Agreement, including this Privacy Policy, and you consent to our privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States, as described below.
 
-**Why A Privacy Policy?**  
+**Collection**
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+When you register for the MicroVenture services and apply for an account, we may collect information about you, including:
 
- **This Privacy Policy protects your privacy by:**
+  * Information that you provide to us to set up a user account for you and identify you on the site, including user name, password, and secret questions and answers.
+  * Contact information, including first and last name, phone number, fax number, email address and mailing address.
+  * Payment information, including email address, bank account and routing number.
+  * Profile information, including your investment preferences and other information you may provide us that allows us to customize your MicroVenture experience.
+  * Other information we are required by law to collect from you, or from consumer reporting agencies, to process securities-related transactions, to assess the suitability of various investments, and to comply with tax laws and anti-money laundering laws. This includes Social Security number, date of birth, gender, country of citizenship, liquid assets, net worth, education, occupation, employment status, employer contact information, annual income, investment objectives and suitability profile.
 
- **Informing you about:**
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
 
+We may obtain information about you when you interact with MicroVenture, for example, your transaction history, information about your contacts with Customer Service, and your responses to promotions or special offers.
 
+We may collect some information automatically from your computer while you browse our website, such as where you go on the site and what you do there. We collect your Internet Protocol (IP) address, computer and connection information, browser type and version, operating system, Internet Service Provider (ISP), time stamps, banner ads you click, the URLs you come from and go to next, and a cookie number.
 
-**Empowering you to choose:**
+We may also obtain information about you through other sources such as credit agencies, affiliates and business partners.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+**Use**
 
+We use the information we collect to:
 
+  * Operate the MicroVenture site.
+  * Verify your identity and contact information.
+  * Provide you with information and services you request.
+  * Set up your trading account, issue an account number and a secure password, maintain your portfolio and trading activity, and contact you with account information.
+  * Customize your experience on the MicroVenture site.
+  * Communicate with you about your transactions, service updates and other administrative issues.
+  * Send you targeted marketing and promotional offers, based on your communications preferences.
+  * Measure and improve our site and services.
+  * Resolve disputes, address complaints and troubleshoot technical problems.
+  * Analyze site and user behavior and prepare aggregated reports.
+  * Comply with applicable laws and regulations.
 
-**Assuring you that Network Solutions:**
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
+**Sharing and Disclosure**
 
+The cornerstone of this Privacy Policy is our commitment to keep your personal information confidential. MicroVenture Marketplace does not sell, license, lease or otherwise disclose your personal information to any third party for purposes of marketing by the third party or for any reason, except as described below. To provide our products and services, we may disclose your information to the following parties:
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+_Issuers._ We may share your information with our participating issuers. They will use the information only as necessary to complete your transactions and to include collect the information needed to register you as a shareholder of the issuer and issue the shares that you have purchased.
 
-  
-**Third Party Advertising and Cookies**
+_MicroVentures.com Affiliates._ We may share information with present or future affiliates, including our subsidiaries, joint ventures or other companies under common control, where it may be used to provide joint services or for such purposes as internal statistics, strategic decision-making, customer reviews, identifying customer trends, customer verification, fraud prevention and security. You may limit our affiliates from marketing their products or services to you based on personal information that we collect about you and share with them. This information may include your name, email address, mailing address, age, employment status, general account and demographic information and account history with us. Your choice to limit marketing offers from our affiliates will apply until you tell us to change your choice. You can opt back in at any time. To limit affiliate marketing offers, contact us by e-mail at [help@microventures.com](mailto:help@microventures.com) , change your account preferences in My Account or contact us at Customer Service.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+_Service Providers._ We may share information with service providers under contract who help with our business operations and internal functions, for example, verifying our users, processing accounts, order fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business, maintaining the MicroVenture site, and providing related services, such as electronic funds transfers and wires. Our service providers are required to protect personal information in a manner similar to the way we protect personal information and to use it only for the services they provide to us.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+_Legal and Other Disclosures._ We may disclose information when permitted by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served on MicroVenture; to protect the property or interests of MicroVenture, its agents and employees; or to protect personal safety or the public.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+_Assets._ As our business evolves, MicroVenture may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, personal information may be one of the assets transferred.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+If we propose to share information in a manner not covered in this Privacy Policy, we will notify you of this change by posting an addendum on our site, a notice in the "Announcements" or "What's New" section of the site, and if appropriate, provide you an opportunity to opt out of such use.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+**Email Communications**
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Choice/Opt-Out. Because we do not share your personal information with non-affiliated third parties for marketing purposes, there is no need for you to opt out of such uses. At any time, you have the ability to opt out of receiving marketing communications from MicroVenture, but you may not opt out of administrative emails (for example, electronic delivery of financial information, or emails about your transactions or our policy changes) while you are a registered MicroVenture user. In such cases, you can opt out by changing your email preferences in My Account or by using the link provided at the bottom of each marketing email.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+Email Tools. If you send emails to a recipient through our site, they will receive your email address and any personal message you include. We use the email addresses you provide to send your requested communication and for no other purpose. We may be required by law to retain these emails; they are not private communications. You may not use our email tools to send spam or content that violates the User Agreement.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Anti-Spam Policy. MicroVenture does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact Customer Service and we will investigate.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+**Cookies and Web Beacons**
 
- **Getting to Know Our Customers**
+MicroVenture, our service providers, and other members of our corporate family who provide us with joint services, will sometimes place anonymous cookies or web beacons on your computer when you visit the site. We use these cookies and web beacons to recognize returning users, provide relevant content, measure traffic and activity on the site, monitor and improve our services and protect against fraud. You can block cookies by changing the settings on your browser (consult your browser help menu to find out how), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access MicroVenture as a registered user.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+**Accessing, Reviewing and Changing Your Personal Information**
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+We urge you to review your information regularly to ensure that it is correct and complete. As a registered user, you can review and change your personal information by accessing My Account. You may not be able to change some account information online. If you are unable to make your desired change in My Account, please contact Customer Service for assistance. Although we will require you to revalidate your personal information periodically, you should promptly update your personal information if it changes or becomes inaccurate.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+You can request that we close your MicroVenture account by e-mailing Customer Service at [help@microventures.com](mailto:help@microventures.com). After we close your account, we may retain some information to comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement and take actions otherwise permitted by law. If your account or membership is terminated or suspended, we may retain some information to prevent re-registration.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+**Security**
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+We view protection of your privacy as a very important principle. We store and process your information on computers located in the United States that are protected by physical as well as technological security devices. We have implemented physical, electronic and procedural safeguards that are designed to protect the security of your information in compliance with applicable U.S. federal and state regulations. These include advanced firewall and password protection for our databases, physical access controls to our buildings and files, and restricted access to your personal information to employees that need to know that information to operate, develop or improve our services.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We have invested in leading-edge security software, systems and procedures to offer you a safe and secure investing platform and protect your personal, financial and investment information. While no security system is absolutely impenetrable, we will continually monitor the effectiveness of our security system and refine and upgrade our security technology as new tools become available.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+**Links to Other Sites**
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+The MicroVenture site may contain links to other websites. We are not responsible for the privacy practices or the content of these sites. If you have concerns about how another website collects and uses information about you, make sure to read that site's own privacy policy.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+**General**
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+We may change this policy from time to time, and we will post the amended terms on the MicroVenture site and notify you by email of major changes. Amended terms will take effect immediately for new users, and 30 days after they are posted for existing users. You should review this Privacy Policy periodically to remain informed of any changes. You agree to accept posting of a revised Privacy Policy electronically on this site as actual notice to you.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+We are strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have any questions, complaints or comments, please e-mail us at [help@microventures.com](mailto:help@microventures.com) or contact us at Customer Service.
 
-b. Click “Edit User Info” in the left menu;
+Print This Page
 
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+top
