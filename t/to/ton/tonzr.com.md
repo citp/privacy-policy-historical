@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonzr.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101744id_/http%3A//www.tonzr.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonzr.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029034259id_/http%3A//tonzr.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Tonzr - Privacy Policy
 
