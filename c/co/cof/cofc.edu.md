@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cofc.edu privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628034028id_/http%3A//www.cofc.edu/policies/privacypolicy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cofc.edu privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029160842id_/http%3A//www.cofc.edu/policies/privacypolicy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy - College of Charleston
 
