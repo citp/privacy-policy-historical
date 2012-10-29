@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsclient.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630103154id_/http%3A//windowsclient.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsclient.net privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029035754id_/http%3A//windowsclient.net/privacy.aspx) for the most accurate reproduction.*
 
 # WindowsClient.net
 
