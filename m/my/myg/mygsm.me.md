@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygsm.me privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603230140id_/http%3A//www.mygsm.me/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygsm.me privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029053408id_/http%3A//www.mygsm.me/Privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement-mygsm.me online mobile phone shop in dubai United Arab Emirates
 
