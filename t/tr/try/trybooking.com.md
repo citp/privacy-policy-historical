@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trybooking.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514055454id_/http%3A//www.trybooking.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trybooking.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029100653id_/http%3A//www.trybooking.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # TryBooking | Sell Tickets Online
 
