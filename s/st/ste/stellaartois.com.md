@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellaartois.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220210004id_/http%3A//www.stellaartois.com/privacy-policy-14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaartois.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030080634id_/http%3A//www.stellaartois.com%3Fp%3D14) for the most accurate reproduction.*
 
 # Privacy Policy | Stella Artois
 
@@ -32,7 +32,7 @@ If, at any time, you have any requests or queries concerning this policy or want
 
 Stella Artois  
 Consumer Department  
-Inbev UK Limited  
+AB Inbev UK Limited  
 Porter Tun House  
 500, Capability Green  
 Luton  
