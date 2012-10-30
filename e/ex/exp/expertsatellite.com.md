@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the expertsatellite.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510091204id_/http%3A//www.expertsatellite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertsatellite.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030123408id_/http%3A//www.expertsatellite.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
 **Expert Satellite is Committed to Maintaining Your Privacy and Security**
 
-Our priority is to ensure that your transaction is secure, the data you provide to us is protected, and that your privacy is respected. We take this responsibility very seriously. 
+Our priority is to ensure that your transaction is secure, the data you provide to us is protected, and that your privacy is respected. We take this responsibility very seriously.
+
+**Security**
+
+We take significant steps to ensure that our servers and your data are always kept secure. We have even hired leading security firms to improve and audit our performance including **ScanAlert (HackerSafe)** and **VeriSign**. When we collect personally identifiable information from you, the data is always secured by Secure Sockets Layer (SSL).
+
+VeriSign SSL Certificates protect e-commerce transactions and other private information with 128-bit encryption, the strongest SSL protection available. All information collected is protected from unauthorized access. 
 
 **Privacy and Sharing of Data**
 
-Personal information is collected when users voluntarily register at Expert Satellite.com to purchase items, receive newsletters, or for other special offers or promotional opportunities. It is Expert Satellite's policy to maintain all personal information as confidential.
+Personal information is collected when users voluntarily register at www.expertsatellite.com to purchase items, receive newsletters, or for other special offers or promotional opportunities. It is Expert Satellite's policy to maintain all personal information as confidential.
 
 If you sign-up for DIRECTV service, it is necessary for us to share your information with DIRECTV in order to fulfill your service request. DIRECTV's Privacy Policy can be found on DIRECTV.com.
 
@@ -28,11 +34,11 @@ Expert Satellite encourages parents to spend time with their children online. Un
 
 You may have clicked on an advertisement for this website that was delivered by an advertising network partner of Expert Satellite, such as Google.
 
-Expert Satellite and its advertising network partners often measure the performance of the advertising they deliver. By providing a tool to more accurately measure the performance of the ads delivered, Expert Satellite and our advertising network partners will be able to improve the quality and relevance of the ads that you see online. One of the tools we and our advertising network partners use is called a “cookie;” a cookie is a small string of text that is placed on your computer when you click on ads or visit certain pages on our site or our partners’ sites. Cookies can remain active on your computer for up to 180 days. If you visit certain pages of our website or partner websites during that period, Expert Satellite and our advertising network partners will be able to tell that you saw an ad and visited particular pages or completed particular actions, such as placing an order with Expert Satellite (if applicable).
+Expert Satellite and its advertising network partners often measure the performance of the advertising they deliver. By providing a tool to more accurately measure the performance of the ads delivered, Direct Star TV and our advertising network partners will be able to improve the quality and relevance of the ads that you see online. One of the tools we and our advertising network partners use is called a “cookie;” a cookie is a small string of text that is placed on your computer when you click on ads or visit certain pages on our site or our partners’ sites. Cookies can remain active on your computer for up to 180 days. If you visit certain pages of our website or partner websites during that period, Expert Satellite and our advertising network partners will be able to tell that you saw an ad and visited particular pages or completed particular actions, such as placing an order with Expert Satellite (if applicable).
 
 If you'd like to know more about how Expert Satellite handles information gathered from the use of cookies, please read this _privacy policy_ , and you can find links to our advertising network partners’ privacy policies below:
 
-  * [Google](http://www.google.com/privacy.html)
+  * [Google](http://www.google.com/privacy/)
   * [Yahoo!](http://info.yahoo.com/privacy/us/yahoo/details.html)
   * [Microsoft](http://privacy.microsoft.com/en-us/fullnotice.mspx)
 
@@ -47,5 +53,12 @@ We may also use third-party advertising or analytics firms to serve ads on our b
 **Changes to this Privacy Statement**
 
 Expert Satellite reserves the right to change this policy. If we do make changes, the revised privacy policy will be posted on this site.
+
+**How to Contact Us**
+
+You may contact us via the following methods:
+
+Phone: 1-877-674-1166  
+Mailing Address: 1091 521 Corporate Center Drive, Indian Land, SC 29707
 
 **We take your privacy and security seriously.**
