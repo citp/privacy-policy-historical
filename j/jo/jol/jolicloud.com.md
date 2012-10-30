@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509195530id_/http%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030070626id_/http%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
 
 # Jolicloud - Privacy Policy
 
 ## Privacy Policy
 
-### Last updated January 17, 2012.
+### Last updated May 22, 2012.
 
 Jolicloud (“we”, “us”, or “our”) is committed to respecting your privacy and the confidentiality of your personal data. We are not in the business of selling information about you; we use the information you share with us for the sole purpose of running and improving our services.
 
@@ -36,9 +36,9 @@ We send HTTP cookies to your browser or device to keep you logged in. We also us
 
   * #### Usage and interaction
 
-We collect information about your usage of and interaction with the Jolicloud websites and Services including computer and connection information, device capability, browser type, language preference, current date and time, bandwidth, statistics on page views, and traffic to and from our websites and services. 
+We collect information about your usage of and interaction with the Jolicloud websites and Services including computer and connection information, application version, device capability, browser type, language preference, current date and time, bandwidth, statistics on page views, and traffic to and from our websites and services. 
 
-We may also collect data pertaining to your “Friends” and list you as a “Follower” on their profile or collect and share other information for your activity, including (but not limited to) friends you have connected with, upgrades you have made and applications you have installed, removed, created and accessed.
+We may also collect data pertaining to your “Friends” and list you as a “Follower” on their profile or collect and share other information for your activity, including (but not limited to) friends you have connected with, upgrades you have made, content you have made public or private, collections you have created, made public or followed, and applications you have installed, removed, created and accessed.
 
 We never link this information to any personally identifiable information such as your email, name, or any other information that could be used to identify you. This data is used in aggregate to improve the quality of our site and to track usage trends.
 
@@ -54,6 +54,25 @@ When you communicate with us electronically, we keep those communications in ord
 
 
 
+
+### How is your information shared?
+
+Jolicloud Me is an index of your personal content from the services which you have connected to your Jolicloud Me.
+
+Private content on Jolicloud Me is visible only to you.
+
+Public content on Jolicloud Me is visible to all of your friends inside Jolicloud Me.
+
+The privacy settings you applied on the services you connected to Jolicloud Me (i.e. Facebook, Twitter, Picasa, Flickr, Tumblr and/or Instagram) are applied to all of the content appearing inside Jolicloud Me. Specifically,
+
+  * Content which is available only to you or which has been restricted to a group on the original service will be private inside Jolicloud Me
+  * Content which is available to anyone on the original service will be public by default inside Jolicloud Me.
+
+
+
+Your “Public Items” is a stream of your Jolicloud Me items that are public as defined above.
+
+Collections which you create are all public by default. It is possible to change this setting and to make your collections private only to you.
 
 ### What is your information used for?
 
@@ -91,13 +110,13 @@ We take all reasonable steps to safeguard the security of any information you in
 
 According to the French data protection law dated 6th January 1978, you have a right to access and modify your personal data stored by Jolicloud. Accordingly, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes.
 
-To access and modify your personal data, please send an email to [privacy@jolicloud.com](https://web.archive.org/web/20120509195530id_/http%3A//www.jolicloud.com/privacy@jolicloud.com) identifying yourself and the information you would like us to access, correct or remove. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+To access and modify your personal data, please send an email to [privacy@jolicloud.com](https://web.archive.org/web/20121030070626id_/http%3A//www.jolicloud.com/privacy@jolicloud.com) identifying yourself and the information you would like us to access, correct or remove. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
 The data we are indexing from your third party services can be deleted at any time. To remove services you no longer want to see in your Jolicloud please go to [your settings](https://web.archive.org/settings). We will delete the third party authentication data and the third party data completely from our servers as fast as is technically feasible - this could talk approx 20 minutes. Records of your interaction with Jolicloud may persist in our server and communication logs.
 
   * #### Transfer of your Information outside the EEA
 
-Your information may be collected, stored, accessed and further processed (by us or data processors acting on our behalf) in the United States and other territories both inside and outside the EEA. If we process your information on servers or using service providers based in such territories, we will ensure that your Information is afforded the same level of protection as in the EEA.
+Your information may be collected, stored, accessed and further processed (by us or data processors acting on our behalf) in the United States and other territories both inside and outside the EEA. If we process your information on servers or using service providers based in such territories, we will ensure that your Information is afforded the same level of protection as in the EEA. You should be aware that privacy laws in the United States may not be equivalent to the laws in your country, and by using the Platform, you consent to the transfer, storage and processing of your personal information in the United States in accordance with this Privacy Policy and applicable law.
 
   * #### Changes to this Privacy Policy
 
@@ -109,7 +128,7 @@ We do not own or operate the applications available through the Jolicloud Applic
 
   * #### Contacting Jolicloud
 
-If you have any additional questions or concerns about this privacy policy, please feel free to contact us any time at [privacy@jolicloud.com](https://web.archive.org/web/20120509195530id_/http%3A//www.jolicloud.com/privacy@jolicloud.com).
+If you have any additional questions or concerns about this privacy policy, please feel free to contact us any time at [privacy@jolicloud.com](https://web.archive.org/web/20121030070626id_/http%3A//www.jolicloud.com/privacy@jolicloud.com).
 
 
 
