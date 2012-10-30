@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104220842id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030041222id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
 
 # Privacy: General Information: University of Nevada, Reno
 
+### Contact Information
+
+**University of Nevada, Reno**
+
+Contact Information for University of Nevada, Reno  
+---  
+Website| [University of Nevada, Reno]( "University of Nevada, Reno")  
+Phone| (775) 784-1110  
+Address | 1664 N. Virginia Street  
+Reno,  NV  89557  
+Contact |  [Contact Us](http://www.unr.edu/general-information/contact-us "Contact University of Nevada, Reno")  
+  
 ## Privacy
 
 The following policy describes the information gathering and dissemination practices for the University of Nevada, Reno's main website ([www.unr.edu](http://www.unr.edu/)), all sites in the unr.edu domain, and other affiliated University websites/domains:
 
-### Information gathering
+### Information gathering and Cookies
 
-The University of Nevada, Reno logs server information to identify: (1) usage levels of specific areas of our site; (2) origin of our site's audience; and, (3) browser and operating system of site visitors. We do not associate IP addresses to individuals. As such, visitor sessions will be tracked, but visitors will remain anonymous.
+The University of Nevada, Reno uses cookies and server log information to track user activity on the unr.edu website. This information includes, but is not limited to:
 
-The following information may be collected for this analysis including, but not limited to:
-
-  * User Client hostname - The hostname (or IP address if DNS is disabled) of the user/client requesting access.
-  * HTTP header, "user-agent" - The user-agent information includes the type of browser, its version, and the operating system it is running on.
-  * HTTP header, "referrer" - The referrer specifies the page from which the client accessed the current page.
-  * System date - The date and time of the user/client request.
-  * Full request - The exact request the user/client made.
-  * Status - The status code the server returned to the user/client.
-  * Content length - The content length, in bytes, of the document sent to the user/client.
-  * Method - The request method used.
-  * Universal Resource Locator (URL) - The location of a resource on the server.
-  * Query string of the URL - Anything after the question mark in a URL.
-  * Protocol - The transport protocol and version used.
+  1. Usage levels of specific areas of our site. 
+  2. Origin of our site's audience. 
+  3. Browser and operating system of site visitors. 
 
 
 
-Other than information provided by visitors, the University of Nevada, Reno Web site does not collect personally identifiable information (e.g., name, email, address.)
+We do not associate IP addresses to individuals. As such, visitor sessions will be tracked, but visitors will remain anonymous.
 
-### Cookies
-
-University of Nevada, Reno Web sites may use cookies to track the date of last visit to a specific page or to identify a session at a particular Web site. A cookie file contains unique information the Web site can use to enhance the user's experience and to make navigation of the site easier.
+**By using the University of Nevada, Reno website, you agree that we can place these types of cookies on your device.**
 
 ### Information Provided Voluntarily
 
@@ -54,6 +54,7 @@ University of Nevada, Reno Web site gateway contains links to sites outside the 
 
 ### Student Privacy Policy
 
-[Directory Information and the Family Educational Rights and Privacy Act](http://www.unr.edu/general-information/privacy/students)
+  * [Directory Information and the Family Educational Rights and Privacy Act](http://www.unr.edu/general-information/privacy/protecting-data)
+  * [Protecting Your Data](http://www.unr.edu/general-information/privacy/protecting-data)
 
-[Protecting Your Data](http://www.unr.edu/general-information/privacy/protecting-data)
+
