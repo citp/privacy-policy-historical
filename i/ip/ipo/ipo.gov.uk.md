@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616173629id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030090854id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
 
 # Intellectual Property Office - Cookies and Privacy
 
@@ -115,7 +115,7 @@ These cookies are set by our website and are also referred to as 'first-party' c
 
 ### bl
 
-  *  **Purpose** : Used by some of our web appliactions to identify if you have come to us via the businesslink website.
+  *  **Purpose** : Used by some of our web applications to identify if you have come to us via the businesslink website.
   *  **Benefit** : To remember the selections or preferences you’ve already made when looking at information or using a service.
   *  **Data stored by cookie** : Information about the session; the cookie itself contains no personal information.
   *  **Duration of cookie** : Expires when you close your browser.
