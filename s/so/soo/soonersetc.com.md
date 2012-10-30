@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508112533id_/http%3A//www.soonersetc.com/component/content/article/199.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030102617id_/http%3A//www.soonersetc.com/component/content/article/199.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
