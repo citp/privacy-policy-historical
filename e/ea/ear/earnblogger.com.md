@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earnblogger.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126234752id_/http%3A//www.earnblogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnblogger.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030165028id_/http%3A//www.earnblogger.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Earn Blogger
+# Privacy - Earn Blogger
 
 At www.earnblogger.com, the privacy of our users or visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.earnblogger.com and how it is used.
 
