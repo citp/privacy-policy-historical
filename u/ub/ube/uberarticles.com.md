@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberarticles.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614071922id_/http%3A//uberarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberarticles.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030061756id_/http%3A//uberarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Uber Articles
 
