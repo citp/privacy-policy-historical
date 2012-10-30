@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesgenie.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510084356id_/https%3A//www.salesgenie.com/Static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesgenie.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030093736id_/https%3A//salesgenie.com/Static/Privacy) for the most accurate reproduction.*
 
 # Salesgenie - Privacy
 
