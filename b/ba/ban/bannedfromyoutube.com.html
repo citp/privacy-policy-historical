@@ -1,0 +1,617 @@
+<!--The following is the downloaded HTML source of the bannedfromyoutube.com privacy policy that was archived on 2012-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121030211605id_/http%3A//bannedfromyoutube.com/view_page.php%3Fpid%3D2) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta property="og:title" content="bannedfromyoutube">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://bannedfromyoutube.com/">
+<meta property="og:image" content="http://bannedfromyoutube.com/">
+<meta property="og:site_name" content="bannedfromyoutube">
+<meta property="fb:admins" content="1061914876">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- ClipBucket v2 -->
+<meta name="copyright" content="bannedfromyoutube 2012">
+<meta name="author" content="bannedfromyoutube">
+<link rel="shortcut icon" href="http://www.bannedfromyoutube.com/favicon.ico" type="image/ico">
+<link rel="icon" href="http://www.bannedfromyoutube.com/favicon.ico" type="image/ico">
+
+<!-- RSS FEEDS -->
+<link rel="alternate" type="application/rss+xml" title="Recently added videos" href="http://bannedfromyoutube.com/rss.php?mode=recent">
+<link rel="alternate" type="application/rss+xml" title="Most Viewed Videos" href="http://bannedfromyoutube.com/rss.php?mode=views">
+<link rel="alternate" type="application/rss+xml" title="Top Rated Videos" href="http://bannedfromyoutube.com/rss.php?mode=rating">
+<link rel="alternate" type="application/rss+xml" title="Videos Being Watched" href="http://bannedfromyoutube.com/rss.php?mode=watching">
+
+
+<meta name="keywords" content="banned, videos, sexy, scandal">
+<meta name="description" content="bannedfromyoutube The best compilation of funny, sexy and crazy images online!">
+		
+<meta name="distribution" content="global">
+
+
+
+<title>bannedfromyoutube.com - Privacy Policy</title>
+
+<link href="http://bannedfromyoutube.com/styles/cbv2new/theme/main.css" rel="stylesheet" type="text/css">
+
+<!-- Setting Template Variables -->
+<!-- Setting Template Variables -->
+
+<script type="text/javascript">
+var baseurl = 'http://bannedfromyoutube.com';
+var imageurl = 'http://bannedfromyoutube.com/styles/cbv2new/images';
+</script>
+
+
+<script>
+var baseurl = 'http://bannedfromyoutube.com';
+var imageurl = 'http://bannedfromyoutube.com/styles/cbv2new/images';
+</script>
+<link rel="stylesheet" href="http://bannedfromyoutube.com/styles/global/jquery_ui.css" type="text/css" media="all">
+<script type="text/javascript" src="http://bannedfromyoutube.com/js/jquery.js"></script>
+<script type="text/javascript" src="http://bannedfromyoutube.com/js/ui/jquery-ui.js"></script>
+ 
+<script type="text/javascript">
+var embedPlayerWidth = '300';
+var embedPlayerHeight = '250';
+var autoPlayEmbed = 'yes';
+
+
+
+function updateEmbed(width,height,autoplay)
+{
+	$('#embed_code').val( $('#embed_code').val().replace(/width=\"([0-9]+)\"/g,'width="'+width+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/width\:([0-9]+)px/g,'width:'+width+'px') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height=\"([0-9]+)\"/g,'height="'+height+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height\:([0-9]+)px/g,'height:'+height+'px') );
+}
+
+function switchEmbedCode(type)
+{
+	if(embed_type==type)
+		return false;
+	else
+	{
+		embed_type = type;
+		
+		var alt_embed =$('#alternate_embed_code').val();
+		$('#alternate_embed_code').val($('#embed_code').val());
+		$('#embed_code').val(alt_embed);
+		
+	}
+}
+
+
+
+</script>
+
+
+<!-- Including JS Files-->
+   <script src="http://bannedfromyoutube.com/js/jquery_plugs/cookie.js" type="text/javascript"></script>
+    <script src="http://bannedfromyoutube.com/js/functions.js" type="text/javascript"></script>
+ <!-- Including JS Files-->
+<script type="text/javascript">
+	callURLParser();
+</script>
+<!-- Including Plugin Headers -->
+	
+	<script type="text/javascript">
+
+
+	
+	
+	var download = 0;
+	var total_size = 0;
+	var cur_speed = 0;
+	
+	var status_refesh = 1 //in seconds
+	var result_page = 'http://cs1.bannedfromyoutube.com/actions/file_results.php';
+	var download_page = 'http://bannedfromyoutube.com/plugins/cb_multiserver/api/remote_upload.php';
+	var server_path = 'http://cs1.bannedfromyoutube.com';
+	var count = 0;
+	
+	
+	var force_stop = false;
+	var remoteObjID = randomString();
+	
+	
+	function ms_remote_upload()
+	{
+		
+		
+		$('#remoteUploadBttn').attr("disabled","disabled").hide();
+		$('#ytUploadBttn').attr("disabled","disabled");
+		$('#remoteUploadBttnStop').show();
+		var file = $("#remote_file_url").val();
+		force_stop = false;		
+		var theError = false;
+		
+		$.post(baseurl+'/actions/file_downloader.php',
+			{check_url:file},function(data)
+			 {
+				  if(data.err)
+				  	theError = true;
+			  },"json"
+		);
+			
+			
+		if(!file || file=='undefined' || theError)
+		{
+			alert("Please enter file url");
+			$('#remoteUploadBttn').attr('disabled','').show();
+			$('#remoteUploadBttnStop').attr("disabled","disabled").hide();
+			$('#ytUploadBttn').attr("disabled","");
+			return false;
+		}
+		
+		var ajaxCall = $.ajax({
+			  url: download_page,
+			  type: "POST",
+			  data: ({file:file,file_name:file_name,server_path:server_path}),
+			  dataType : 'json',
+			  beforeSend : function()
+			  {
+				  
+				  ms_status_update();
+				  var remoteFileName = getName(file);
+				 $("#loading").html('<div style="float: left; display: inline-block;"><img src="'+imageurl+'/ajax-loader.gif"></div><div style="float: left; line-height: 16px; padding-left:5px">'+lang.remoteUploadFile+'</div><div class="clear"></div>');
+				 $('#remoteFileName').replaceWith('"'+remoteFileName+'"');
+			  },
+			  success: function(data)
+			  {
+				  
+				  if(data.error)
+				  {		  
+					force_stop = true;
+					$('#remoteUploadBttn').attr('disabled','');
+					$('#ytUploadBttn').attr("disabled","");
+					alert(data.error);
+				  }				  
+				  $("#loading").html('');
+				  
+				  var vid = data.vid;
+				  
+				   $.post(baseurl+'/actions/file_uploader.php',
+				  {"getForm":"get_form","title":$("#remote_file_url").val(),"objId":remoteObjID},
+				  function(data)
+				  {
+					    $('#remoteUploadBttnStop').hide();
+						$('#ytUploadBttn').hide();
+						$('#remoteForm').append(data);
+							$('#cbSubmitUpload'+remoteObjID)
+							.before('<span id="updateVideoDataLoading" style="margin-right:5px"></span>')
+							.attr("disabled","")
+							.attr("value",lang.saveData)
+							.attr("onClick","doUpdateVideo('#uploadForm"+remoteObjID+"','"+remoteObjID+"')")
+							.after('<input type="hidden" name="videoid" value="'+vid+'" id="videoid" />')
+							.after('<input type="hidden" name="updateVideo" value="yes" id="updateVideo" />');
+				  },'text');
+			  }
+		   }
+		);
+		
+		$('#remoteUploadBttnStop').click(function() { 
+		ajaxCall.abort(); force_stop=true; $("#loading").html('');$('#remoteDownloadStatus').hide(); $(this).hide();$('#remoteUploadBttn').attr('disabled','').show(); });
+		
+		
+	}
+	
+	
+	function ms_status_update()
+	{
+		
+
+		$.getJSON(result_page+"?file_name="+file_name+"&jsoncallback=?", function(data)
+	{
+				
+				  if(data)
+				  {
+					  var total = data.total_size;
+					  var download = data.downloaded;
+					  var total_fm = data.total_size_fm;
+					  var download_fm = data.downloaded_fm;
+					  var speed = data.speed_download;
+					  var eta = data.time_eta;
+					  var eta_fm = data.time_eta_fm;
+					  var time_took = data.time_took;
+					  var time_took_fm = data.time_took_fm;
+					   
+					  if(speed/1024/1024>1)
+					  {
+						var theSpeed = Math.round(speed / 1024/1024) + " Mbps";
+					  }else
+						var theSpeed = Math.round(speed/ 1024 ) + " Kbps";
+					  
+					perc_download = Math.round(download/total*100);
+					
+					$('#remoteDownloadStatus').show();
+					//$('#prog_bar').width(perc_download+'%');
+					$('#prog_bar').animate({width:perc_download+'%'},1000);
+					$('#prog_bar').html(perc_download+'%');
+					$('#dspeed').html(theSpeed);
+					$('#eta').html(eta_fm);
+					$('#status').html(download_fm+' of '+total_fm);
+				  }
+					
+					var intval = status_refesh*1000;
+					if(perc_download<100 && !force_stop)
+					setTimeout(function(){ms_status_update()},intval);
+					
+					else if(perc_download==100 && total>1)
+					{
+						
+						$('#time_took').html('Time Took : '+time_took_fm);
+					}
+			}
+			);
+		
+	}
+	
+	
+</script>
+	<!--Including Pak Player HTML -->
+<script src="http://bannedfromyoutube.com/player/pak_player/pplayer.js" type="text/javascript"></script>
+<!-- Ending Plugin Headers -->
+
+
+
+<script type="text/javascript">
+
+window.onload = function() {
+		ini_cookies();
+}
+
+</script>
+
+
+
+
+
+
+
+<script>
+$(function() {
+
+	$( ".date_field" ).datepicker({ 
+		dateFormat: 'yy-mm-dd',
+		changeMonth: true,
+		changeYear: true,
+		yearRange : "1901 : c"
+		});
+});
+</script>
+
+
+<!-- ClipBucket version 2.6 -->
+
+
+
+<!-- Including Common Js -->
+
+<!-- End Including Common Js -->
+
+
+<script type="text/javascript">
+	
+	$(document).ready(function() {
+	
+		
+		$("#searchSelectWrapper ul li a").filter('#videos').parent().addClass('selected');	
+		$('#selectedText').text($("#searchSelectWrapper ul li a").filter('#videos').text());
+		$('#searchType').val($("#searchSelectWrapper ul li a").filter('#videos').attr('id'));
+	
+								   
+	$('.user_login').hide();					   
+	
+	$('#user_login').toggle(
+		function() {
+			$('.user_login').slideDown('normal');
+		},
+		function() {
+			$('.user_login').slideUp('normal');
+		}
+								
+	);
+	$("#searchSelectWrapper ul li a").bind({
+		click : function(event) {
+			event.preventDefault();
+			$("#searchType").val($(this).attr('id'));
+			$('#selectedText').text($(this).text());
+			$(this).parent().parent().children().removeClass('selected');
+			$(this).parent().addClass('selected')
+			$('#searchSelectWrapper').hide();
+		}
+	});
+	/*$('.tabs li').click(
+		function() {
+			$('.tabs li').removeClass('selected')
+			$(this).addClass('selected');
+		}
+	);*/
+	
+	$('.tabs li').each(function(index, value){
+		$(value).click(function(){
+			{	
+				$(this).parent().children().filter('.selected').removeClass('selected');
+				$(this).addClass('selected');
+			}
+		})
+	});
+	$('#lang_selector').click(function(){
+  	//do redirection
+	});
+	
+		$('#lang_selector').change(function(){
+		  var optionSelectedValue = $('#lang_selector option:selected').val();
+		  if(optionSelectedValue)
+		  window.location = "?set_site_lang="+optionSelectedValue;
+		});
+		
+								
+	});
+	
+	function ToggleView(obj) {
+		var obj = $(obj),
+			obj_id = obj.attr('id'),
+			parent = obj.parent().attr('id'),
+			target = $("#"+parent).next().attr('id');
+			//alert('#'+parent+' #'+target+' .grid_view');
+			if(obj_id == "grid") {
+				$('#'+parent+' + #'+target+' .grid_view').removeClass('list_view');
+				$.cookie("current_style","grid_view")
+				$('.vid_sp').hide();		
+				$('.truncatedtitle').hide();	
+				$('.fulltitle').show();	
+			} else {
+				$('#'+parent+' + #'+target+' .grid_view').addClass('list_view');
+				$.cookie("current_style","list_view")
+				$('.vid_sp').show();
+				$('.truncatedtitle').show();	
+				$('.fulltitle').hide();			
+			}
+	}
+
+</script>
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix { height: 1%; }
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="http://bannedfromyoutube.com/styles/cbv2new/theme/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<script type="text/javascript">
+function bookmarkSite(title, url) {
+	if (window.sidebar) { // firefox
+		window.sidebar.addPanel(title, url,"");
+		return false;
+	} else if( document.all ) { //MSIE
+		window.external.AddFavorite( url, title);
+		return false;
+	} else if(window.opera && window.print) {
+		alert("Your using Opera. Press Shift+Ctrl+D to add '"+title+"' in bookmarks");
+		return false;
+	} else if(navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
+		alert("Your using either Chrome or Safari. Press Ctrl+D to add '"+title+"' in bookmarks.")	
+	} else {
+		alert("Sorry, your browser doesn't support this");	
+	}
+}
+</script>
+
+
+
+<script type="text/javascript">
+clicksor_layer_border_color = '';
+clicksor_layer_ad_bg = ''; clicksor_layer_ad_link_color = '';
+clicksor_layer_ad_text_color = ''; clicksor_text_link_bg = '';
+clicksor_text_link_color = '#ff0c15'; clicksor_enable_text_link = true;
+clicksor_layer_banner = false;
+</script>
+<script type="text/javascript" src="http://ads.clicksor.com/newServing/showAd.php?nid=1&amp;pid=265539&amp;adtype=&amp;sid=430062"></script>
+<noscript><a href="http://www.yesadvertising.com">affiliate marketing</a></noscript>
+
+
+</head>
+
+<!-- Global Header Ends Here --><body>
+
+
+<!-- Including Commong header -->
+<div class="container_container">
+	<div class="topHead">
+<div id="container" class="container headcontainer clearfix">
+<!-- Loading Quicklist Box -->
+<div id="quicklist_box"></div>
+
+<div id="header">
+	<div>
+    <a href="http://bannedfromyoutube.com/index.php"><img src="http://bannedfromyoutube.com/styles/cbv2new/images/dot.gif" alt="bannedfromyoutube.com - Privacy Policy" name="logo_icon" width="180" height="50" border="0" id="logo_icon" title="bannedfromyoutube.com - Privacy Policy" class="logo"></a>
+</div> <!--LOGO END-->
+
+    <div class="login_con clearfix">
+        <div class="user_login clearfix">
+                	<a href="http://bannedfromyoutube.com/forgot.php" class="forget" title="Forget Username/Password, Click Here"></a>
+            <form action="http://bannedfromyoutube.com/signup.php" method="post" name="login" style="margin:0px; padding:0px;">
+                <input type="text" value="Username" id="cb_head_username" name="username" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">
+                <input type="password" value="Password" id="cb_head_password" name="password" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">                
+                <input type="submit" value="Login" id="login_head_bttn" name="login">
+                <input type="checkbox" name="rememberme" id="rememberme"> <span class="remember">Remember Me</span>
+                
+			</form> 
+         
+        </div> <!--USER_LOGIN CLASS END-->
+      
+         <div id="user_login">
+            <a href="javascript:void(0)">
+                        	Login
+                
+            </a>
+        </div> <!--USER_LOGIN ID END--><div class="updatedUpload">
+   	 <a href="http://bannedfromyoutube.com/upload.php">Upload video</a> | <a href="http://bannedfromyoutube.com/photo_upload.php">Upload Photo</a>       
+    </div>
+    </div> <!--LOGIN_CON END-->
+    
+        
+</div> <!--HEADER ID END-->
+</div>
+<div class="top_tabs clearfix">
+    <ul>
+    	<li id="cbHomeTab" class=" selected"><a href="index.php">Home</a></li><li id="cbCollectionsTab" class=""><a href="http://bannedfromyoutube.com/collections.php">Collections</a></li><li id="cbForumTab" class=""><a href="http://blog.bannedfromyoutube.com">Forum</a></li><li id="cbMembersTab" class=""><a href="http://bannedfromyoutube.com/channels.php">Members</a></li><li id="cbGroupsTab" class=""><a href="http://bannedfromyoutube.com/groups.php">Groups</a></li><li id="cbSignupTab" class=""><a href="http://bannedfromyoutube.com/signup.php">Signup</a></li>
+    </ul>
+	
+</div> <!--TOP_TABS END-->
+
+<div class="navi">
+        <ul>
+                
+        
+        	<li>Welcome Guest ! Please <a href="http://bannedfromyoutube.com/signup.php">Login</a> or <a href="http://bannedfromyoutube.com/signup.php">Register</a></li>
+             
+         </ul>
+<div class="search_con">
+    <div class="s_bg">	
+        <form action="http://bannedfromyoutube.com/search_result.php" method="get" name="search" id="search" style="margin:0px; padding:0px;">               
+            <input name="query" id="query" type="text" class="searchbar" value="">
+            <input type="hidden" name="type" id="searchType" value="">                      
+            <div class="moveL">
+            	<div id="selectedSearch" class="clearfix" onclick="$('#searchSelectWrapper').toggle();">
+                	<span id="selectedText"></span>
+                </div>
+                <div id="searchSelectWrapper">
+                <ul>
+                                            <li>
+                        <a id="groups" href="#">Groups</a>
+                        </li>
+                                            <li>
+                        <a id="collections" href="#">Collections</a>
+                        </li>
+                                            <li>
+                        <a id="users" href="#">Users</a>
+                        </li>
+                                            <li>
+                        <a id="videos" href="#">Videos</a>
+                        </li>
+                                            <li>
+                        <a id="photos" href="#">Photos</a>
+                        </li>
+                                    </ul>    
+                </div>
+            </div>                                
+            <input name="submit" type="submit" class="searchbutton" value="Search">
+        </form>
+    </div> <!--S_BG END-->    
+</div> <!--SEARCH_CON END-->
+    </div></div>
+    
+    
+        <div id="container" class="container clearfix">
+        
+        <div class="nav_shadow"></div>
+        <div id="content" style="">
+        
+        
+        
+        <!-- Message -->
+        
+
+
+
+
+
+            				<div class="subpageholder subpageholderb">
+<div style="width:98%; margin:auto"><h1>ClipBucket Privacy Notice - YT Version
+</h1>
+<h2>Personal Information</h2>
+<ul>
+  <li><strong>Browsing ClipBucket</strong> You can watch videos on ClipBucket without having a ClipBucket Account or a  PHPBucket Account. You also can contact us through the ClipBucket Help Center  or by emailing us directly without having to register for an account.</li>
+  <li><strong>Your ClipBucket Account.</strong> For some activities on ClipBucket, like uploading videos, posting  comments, flagging videos, or watching restricted videos, you need a  ClipBucket or PHPBucket Account. We ask for some personal information when  you create an account, including your email address and a password,  which is used to protect your account from unauthorized access. A  PHPBucket Account, additionally, allows you to access other PHPBucket  services that require registration.</li>
+  <li><strong>Usage Information.</strong> When you use ClipBucket, we may record information about your usage of the  site, such as the channels, groups and favorites you subscribe to,  which other users you communicate with, the videos you watch, the  frequency and size of data transfers, and information you display about  yourself as well as information you click on in ClipBucket (including UI  elements, settings). If you are logged in, we may associate that  information with your ClipBucket Account. In order to ensure the quality  of our service to you, we may place a tag (also called a "web beacon")  in HTML-based customer support emails or other communications with you  in order to confirm delivery.</li>
+  <li><strong>Content Uploaded to Site.</strong> Any personal information or video content that you voluntarily disclose  online (e.g., video comments, your profile page) may be collected and  used by others. If you download the ClipBucket Uploader, your copy  includes a unique application number. This number, and information  about your installation of the Uploader (version number, language) will  be sent to ClipBucket when the Uploader automatically checks for updates  and will be used to update your version of the Uploader.</li>
+</ul>
+<h2>Uses</h2>
+<ul>
+  <li>If  you submit personal information to ClipBucket, we may use that information  to operate, maintain, and improve the features and functionality of  ClipBucket, and to process any flagging activity or other communication  you send to us.</li>
+  <li>We do not use your  email address or other personal information to send commercial or  marketing messages without your consent. We may use your email address  without further consent for non-marketing or administrative purposes  (such as notifying you of major ClipBucket changes or for customer service  purposes). You also can choose how often ClipBucket sends you email  updates in your ClipBucket Account settings page.</li>
+  <li>We  use cookies, web beacons, and log file information to: (a) store  information so that you will not have to re-enter it during your visit  or the next time you visit ClipBucket; (b) provide custom, personalized  content and information; (c) monitor the effectiveness of our marketing  campaigns; (d) monitor aggregate metrics such as total number of  visitors and pages viewed; and (e) track your entries, submissions, and  status in promotions, sweepstakes, and contests.</li>
+</ul>
+<h2>Information That is Publicly Available</h2>
+<ul>
+  <li>When  you create a ClipBucket Account, some information about your ClipBucket  Account and your account activity will be provided to other users of  ClipBucket. This may include the date you opened your ClipBucket Account, the  date you last logged into your ClipBucket Account, your age (if you choose  to make it public), the country and the number of videos you have  watched.</li>
+  <li>Your ClipBucket Account name,  not your email address, is displayed to other users when you engage in  certain activities on ClipBucket, such as when you upload videos or send  messages through ClipBucket. Other users can contact you by leaving a  message or comment on the site.</li>
+  <li>Any  videos that you submit to ClipBucket may be redistributed through the  internet and other media channels, and may be viewed by other ClipBucket  users or the general public. </li>
+  <li>You  may also choose to add personal information which may include your  name, gender, profile picture or other details, that will be visible to  other users on your ClipBucket Account channel page. If you choose to add  certain features to your ClipBucket Account channel page, then these  features and your activity associated with these features will be  displayed to other users and may be aggregated and shared with your  friends or other users. Such shared activity may include your favorite  videos, videos you rated and videos that you have uploaded.</li>
+</ul>
+<h2>Your Choices</h2>
+<ul>
+  <li>If  you have a ClipBucket Account, you may update or correct your personal  profile information, email preferences and privacy settings at any time  by visiting your account profile page. </li>
+  <li>You  may control the information that is available to other users and your  confirmed friends at any time by editing your ClipBucket Account and the  features that are included on your channel page. If you have enabled  Active Sharing, other users may see that you, as identified by your  account name, not your email address, are watching the same video.</li>
+  <li>You  may, of course, decline to submit personal information through ClipBucket,  in which case you can still view videos and explore ClipBucket, but  ClipBucket may not be able to provide certain services to you. Some  advanced ClipBucket features may use other PHPBucket services like PHPBucket  Checkout or AdSense. The privacy notices of those services govern the  use of your personal information associated with them.</li>
+</ul>
+</div>
+</div>				 		
+                    </div> <!--CONTENT END-->
+        <div class="clear" style="margin-top:10px"></div>
+
+        <div id="footer">
+            <div class="changer">
+           
+			                    <form action="" method="post" name="change_lang">
+                    <select id="lang_selector" class="lang_selector">
+<option value="">- Change Language -</option>
+<option value="en" selected="selected">English</option>
+</select>
+              
+                </form>
+                       
+                <div class="ch_left"></div>        	
+                <div class="ch_right"></div>
+            </div> <!--CHANGER END-->
+            <div class="ch_shadow" style="height:10px"></div>
+            <!--FOOTER CLASS END-->
+            
+<div class="footer">
+	<div class="footer_copyr">
+    	© bannedfromyoutube.com 2012
+   	</div>
+    <ul class="clearfix">
+    
+    	
+        
+                	            	<li><a href="http://bannedfromyoutube.com">Home</a></li>
+                            	            	<li><a href="http://bannedfromyoutube.com/contact.php">Contact Us</a></li>
+                            	            	<li><a href="http://bannedfromyoutube.com/view_page.php?pid=2">Privacy Policy</a></li>
+                            	            	<li><a href="http://bannedfromyoutube.com/view_page.php?pid=3">Terms of Service</a></li>
+                        </ul>
+    <div class="clearfix"></div>
+    
+    <div class="footer_sp"></div>
+    
+   <!-- <div align="center"></div>-->
+
+</div>
+
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=5668616; 
+var sc_invisible=1; 
+var sc_security="9e34d3f8"; 
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="godaddy
+counter"
+href="http://statcounter.com/godaddy_website_tonight/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5668616/0/9e34d3f8/1/"
+alt="godaddy counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+        </div> <!--FOOTER ID END-->
+    </div>
+</div>
+
+</body></html>
