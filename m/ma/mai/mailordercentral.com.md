@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailordercentral.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519050312id_/http%3A//www.dydacomp.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailordercentral.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030101642id_/http%3A//www.dydacomp.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Online Privacy Policy Statement - Online Security - Dydacomp
 
