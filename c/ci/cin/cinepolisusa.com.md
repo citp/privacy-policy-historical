@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinepolisusa.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621145456id_/http%3A//www.cinepolisusa.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinepolisusa.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030115528id_/http%3A//www.cinepolisusa.com/Home/Privacy) for the most accurate reproduction.*
 
 # Cinepolis Luxury Cinemas | Privacy Policy | San Diego, Del Mar, Carlsbad, La Costa, Laguna Niguel, Ocean Ranch | Movie theater with leather recliners, full bar and fine dining
 
