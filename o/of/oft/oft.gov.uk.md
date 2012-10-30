@@ -1,34 +1,44 @@
-> *The following text is extracted and transformed from the oft.gov.uk privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215055047id_/http%3A//www.oft.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oft.gov.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030212917id_/http%3A//www.oft.gov.uk/privacy-policy) for the most accurate reproduction.*
 
-# OFT website privacy statement
+# Privacy policy - The Office of Fair Trading
 
-This statement covers the services provided by the OFT website: [www.oft.gov.uk](http://www.oft.gov.uk/)
+Back to top
 
-#### Information we collect from visitors
+## Privacy statement
 
-We collect several kinds of information from visitors to oft.gov.uk depending on the part of the site being visited: email addresses, site usage information and, in a few cases, personal details such as your name and postal details if you order publications.
+We ensure that the information that you provide to us is not shared and that the privacy of our website users is properly guarded.
 
-**Feedback**  
-If you provide feedback on the OFT website through our [webeditor@oft.gsi.gov.uk](mailto:webeditor@oft.gsi.gov.uk) email address we will only use this information to develop and improve the site.
+**Information we collect from visitors**   
+We collect several kinds of information from visitors to oft.gov.uk depending on the part of the site being visited: site usage information and, in a few cases, personal details such as your name, email address and postal details if you order publications or sign up for certain tools.
 
-**Comments and questions**  
-If you send an enquiry by email to a specific contact on the OFT website it may not always be possible for the OFT to provide the information requested directly. In such circumstances we may pass your enquiry to another government department so that they can respond to your information request.
+**Feedback  
+**If you [fill in our feedback form](https://web.archive.org/feedback) we will only use this information to develop and improve the site.
 
-**Email alerts  
-** If you sign up to receive email alerts we will use the information you give us to provide the service(s) you have requested. We may occasionally contact email alert subscribers to help us evaluate and improve the service that we offer.
+**Comments and questions**   
+If you send an enquiry by email to a specific contact at the OFT it might not be possible for the OFT to provide the information requested directly. In such circumstances we may pass your enquiry to another government department so that they can respond to your request.
 
-If you subscribe to the email alert service, you can correct, update or remove any personally identifiable information directly, via our internet pages. You can also inform us that you wish to cancel a subscription and we will remove you from our mailing list and delete your details from our records.
+**Email alerts**   
+If you [sign up to receive email alerts](https://web.archive.org/subscribe) we will use the information you give us to provide the service(s) you have requested. We may occasionally contact email alert subscribers to help us evaluate and improve the service that we offer.
 
-We will hold the information you have provided for as long as you require access to the service requested. 
+If you subscribe to the email alert service, you can correct, update or remove any personally identifiable information directly, via our [email alerts pages](https://web.archive.org/subscribe). If you wish to cancel a subscription and be removed from our mailing list, you can inform us by [logging in](https://web.archive.org/subscribe) and selecting the 'unsubscribe' option. We will then delete your details from our records.
 
-**Site usage information  
-** Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. Anonymous session cookies track your visit to the OFT site for the length of time you are on the site. The cookie disappears when you close your browser. 
+We will hold the information you have provided for as long as you require access to the service requested.
 
-Cookies do not contain any personal information about you and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.
+**Site usage information**   
+This site uses an online measuring package called SiteStat which uses cookies to identify repeat visits.
 
-Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie.
+Back to top
 
-[Back to OFT home page](https://web.archive.org/default.htm)
+## Cookies
 
-  
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies.
 
+Back to top
+
+## Our use of cookies
+
+The OFT website uses cookies, firstly to check whether your device (computer or mobile) recognises and allows the use of cookies, and then to improve the service provided on our website. 
+
+[ **Visit our Cookies Policy page** ](https://web.archive.org/cookie-policy/) **to find out more about cookies, how to manage them and the cookies that are used on the OFT website.**
+
+Back to: [Home](https://web.archive.org/)
