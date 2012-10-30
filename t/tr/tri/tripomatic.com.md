@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508150809id_/http%3A//www.tripomatic.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030052605id_/http%3A//www.tripomatic.com/article/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tripomatic
-
-Last updated: November 25, 2011
+# Privacy
 
 This Privacy Policy document explains what information this website collects and how it is used. You will also find instructions on how to control its collection. 
 
@@ -30,14 +28,19 @@ Any of the information we collect from you may be used in one of the following w
 ## Your choice regarding your information
 
   * Submitting your personal information is voluntary. Should you decide not to provide such information, you may not be able to use all services we provide. 
-  * You may update, correct or delete your user information by contacting us at [info@tripomatic.com](mailto:info@tripomatic.com)
+  * You may update, correct or delete your user information by contacting us at [team@tripomatic.com](mailto:team@tripomatic.com)
 
 
 
 ## Do we use cookies?
 
   * Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow that). Cookies enable the sites' or service providers' systems to recognise your browser and capture and remember certain information. 
-  * We use cookies to help us to remember and process your trips, to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better user experience and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf with the exception of helping us to conduct and improve our business. 
+  * We use cookies to save your preferences, such as your preferred currency, timezone or language. We also use session cookies to be able to identify the user after sign in and be able to save edited data correctly. 
+  * Our website uses affiliate marketing for monetization and we get paid commission on sales of some services or products we recommend. We use 3rd party companies to provide us services related to tracking the sales. Their use of cookies is covered by their privacy policies ([Booking.com](http://www.booking.com/general.html?tmpl=docs%2Fprivacy-policy;lang=en-us), [CarTrawler](https://www.cartrawler.com/about/privacy-policy.php), [Commision Junction](http://www.cj.com/legal/privacy_web_user.html), [Digital Window](http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf), [Airbnb](http://www.airbnb.com/terms), [TradeDoubler](http://www.tradedoubler.com/privacy-policy/), [City Discovery](http://www.city-discovery.com/privacy_policy.php)). 
+  * We use Google API extensively and some of the services we use are known to use cookies - namely Google AdSense to display ads on our site, Google Analytics for website statistics, Google Sign In to allow users to sign in with their Google Account. Google uses cookies and their use is covered by their privacy policy. 
+  * We use Facebook API, especially to allow visitors to sign in using their Facebook accounts. Facebook uses cookies and their use is covered by their privacy policy. 
+  * We never use cookies to save or track personal information. If you do not want our website to save cookies on your computer, set up your browser accordingly, use your browser in an anonymous mode or use cookie-less browser. Most browsers can also be set up to disallow cookies from certain domains or ask every time a website tries to save a cookie. 
+  * We use a 3rd Party to enable these affiliate partnerships. You can read their Privacy Policy and find more information on the cookies they use. 
 
 
 
@@ -70,3 +73,5 @@ Any of the information we collect from you may be used in one of the following w
   * By using our site, you consent to our privacy policy.
 
 
+
+Last updated: May 31, 2012
