@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelamfoundation.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618055301id_/http%3A//www.thelamfoundation.org/about-lam-foundation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelamfoundation.org privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030134338id_/http%3A//www.thelamfoundation.org/about-lam-foundation/privacy-policy) for the most accurate reproduction.*
 
 # The LAM Foundation :: Privacy Policy
 
@@ -30,6 +30,8 @@ Total visitor traffic.
 We use aggregate information gathered from your visit to better design our Web site. This information gives us a broad picture of how people use our Web site in order to help the management of our systems and to better serve our audience.
 
 ### Donation Information
+
+[Click here](http://www.thelamfoundation.org/images/pdfs/GAPolicy.pdf) for our Gift Acceptance Policy.
 
 We maintain records of all contributions to The LAM Foundation. Personal information is private and confidential. Additionally, all information is stored in a secure location accessible only by authorized staff. The LAM Foundation may contact you with further communications. If you wish to restrict the use of your contact information, you can choose to opt out from financial contribution activities or any contact with The LAM Foundation.
 
