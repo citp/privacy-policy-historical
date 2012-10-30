@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spambotsecurity.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501203405id_/http%3A//www.spambotsecurity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spambotsecurity.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030140857id_/http%3A//www.spambotsecurity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpambotSecurity.com
 
