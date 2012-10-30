@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the partypartners.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105204533id_/https%3A//www.partypartners.com/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypartners.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031005715id_/https%3A//www.partypartners.com/policy.do) for the most accurate reproduction.*
 
-# PartyPartners Limited Privacy Policy
+# bwin.party partners Limited Privacy Policy
 
 **1\. PRIVACY**
 
 We are committed to protecting your personal information. We have created this Privacy Policy to let you know what information We collect when you participate in the Affiliate Network at [the PartyPartners Website](http://www.partypartners.com/) (collectively, the ' **Affiliate Network** '), why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between you and PartyPartners Limited and the bwin.party Group, being bwin.party digital entertainment plc together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20120105204533id_/https%3A//www.partypartners.com/legal.do) (' **PartyPartners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
+Please note that this Privacy Policy will be agreed between you and PartyPartners Limited and the bwin.party Group, being bwin.party digital entertainment plc together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20121031005715id_/https%3A//www.partypartners.com/legal.do) (' **PartyPartners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
 
 We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on the [PartyPartners Website](http://www.partypartners.com/). We recommend that you revisit this Privacy Policy regularly.
 
