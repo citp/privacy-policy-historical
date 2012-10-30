@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629124407id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030145126id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -28,4 +28,4 @@ We welcomes feedback concerning this Privacy Policy. Please send your comments a
   
 
 
-    || Step 1: Please Choose Your Delivery City and start your Shopping ||    Same Day Delivery Accepted till 4 PM IST ||    Free Shipping Over 150 Cities, Door Step Delivery Services over 300 Cities Indiawide ||    || Send Flowers and Gifts All Over India. ||    Click on Any Product Name to see complete description about the Item ||
+    || 100% Guaranteed Delivery ||    Over " 2000 Products " To Choose for Express Delivery All India ||    Send Flowers, Cakes, Eggless Cakes, Chocolates, Sweets, Combo Gifts    Fresh Fruits, Dry Fruits, Cards, Addon Gifts, Gift Vouchers, All Occasion Gifts.    Send Diwali Gifts All Over India, 13th November 2012, Express Delivery All Over India    II Now Same Day Delivery Accepted till 5 PM IST || Crossed 5 PM IST? Call Now on +91 9836364260    Free Shipping Over 150 Cities, Door Step Delivery Services over 300 Cities Indiawide ||
