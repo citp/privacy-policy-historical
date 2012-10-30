@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the marijuanadoctors.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508134638id_/https%3A//www.marijuanadoctors.com/content/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marijuanadoctors.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030154018id_/https%3A//www.marijuanadoctors.com/content/about/legal/privacy) for the most accurate reproduction.*
 
 # Marijuana Doctors Privacy Policy | Marijuana Doctors
 
 MARIJUANADOCTORS.COM  
-PRIVACY POLICY 10/29/10
+PRIVACY POLICY 10/1/12
 
-This Privacy Policy (this “Policy”) applies to all visitors, users, physicians clinics, dispensaries, and other participants (referred to as "you" below) of The Medical Cannabis Network website accessible at [http://www.marijuanadoctors.com](https://web.archive.org/web/20120508134638id_/https%3A/), and any other website (all of the foregoing, collectively, the "MCN Website") operated or owned by The Medical Cannabis Network, Inc. (“TMCNI”) and/or its subsidiary or other affiliate (an “Affiliate”) which operates the MCN Website with respect to a given state or other jurisdiction (collectively, "we" or "MCN"), unless contrary or additional policies or provisions are expressly stated to apply at such other websites or with respect to a given web page or feature.  
+This Privacy Policy (this “Policy”) applies to all visitors, users, physicians clinics, dispensaries, and other participants (referred to as "you" below) of The Medical Cannabis Network website accessible at [http://www.marijuanadoctors.com](https://web.archive.org/web/20121030154018id_/https%3A/), and any other website (all of the foregoing, collectively, the "MCN Website") operated or owned by The Medical Cannabis Network, Inc. (“TMCNI”) and/or its subsidiary or other affiliate (an “Affiliate”) which operates the MCN Website with respect to a given state or other jurisdiction (collectively, "we" or "MCN"), unless contrary or additional policies or provisions are expressly stated to apply at such other websites or with respect to a given web page or feature.  
 
 [MCN has been awarded TRUSTe's Privacy Seal signifying that this Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements [link to http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html] including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@marijuanadoctors.com.  If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complain)
 
@@ -101,35 +101,8 @@ Children
 
 The MCN Website and the functions and features we offer are not intended for use by children or minors, although parents or guardians of minors who need to seek doctors or clinics may use the MCN Website on such minors’ behalf.  We ask that children and minors not use the MCN Website directly, whether or not supervised by parents or guardians.   
 
-Modifications; Cancellation
+Modifications; Cancellation; Refund Policy
 
 MCN reserves the right to reasonably modify this Policy at any time.  Minor changes will be posted on the MCN Website, and you will be notified of material changes to this Policy by either (a) e-mail (to the e-mail account you registered with) or (b) a prominently posted notice, either here or on the MCN Website home page, of pending material changes at least 30 calendar days prior to the effectiveness of such change.   All such modifications will be binding on all registrants and users, including retroactively with respect to information and materials provided prior to such modification, provided that if you do not agree to the retroactive application of any specific change, you may provide us written notice (to info@marijuanadoctors.com  [link this]) and we will use reasonable efforts to delete all Personal Identifying Information, PHI, and Usage Information affected by such change, which may also require the termination of your account.  If you are concerned, please check back periodically to review the current MCN Privacy Policy.  
 
 If you do not agree with any such changes, or if you no longer wish to be subject to this Policy, you may contact MCN (see above and also the Terms of Use) [link this] to cancel your account, and upon complete payment of any amounts due and owing for any paid MCN service you have knowingly purchased (if applicable), MCN will use diligent efforts to delete your Personal Identifying and Billing Information.
-
-Priority
-
-The terms contained in this Policy are subordinate to any contrary terms contained in any express user or membership agreement between a user, doctor, clinic, or dispensary and MCN or to any express written agreement containing the signatures of authorized representatives of both parties.  
-
-Liability
-
-MCN's liability from or arising out of this Policy or any breach thereof is subject to the general limits of liability stated in the MCN Terms of Use. [link this] 
-
-If you are located in a state (or other jurisdiction) where the MCN Website is operated by an Affiliate, your relationship is solely with such Affiliate and not with TMCNI, and any claims you may have arising out of or relating to this Policy or the MCN Website shall be made solely against such Affiliate, and not TMCNI.  
-
-You May Contact Us Here:
-
-MD MCN Co Inc.  
-1111 Lincoln Rd.  
-Suite 325      
-Miami Beach FL 33139
-
-888.392.9772
-
-[info@marijuanadoctors.com ](mailto:info@marijuanadoctors.com)
-
-Effective Revision Date
-
-This Policy was last updated on 10/29/10
-
-Copyright © 2010 The Medical Cannabis Network, Inc. and/or its suppliers,  Medical Cannabis Network Inc., 1111 Lincoln Rd. Suite 325, Miami Beach FL 33139 U.S.A. All rights reserved.
