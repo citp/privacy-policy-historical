@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508002413id_/https%3A//secure.huckberry.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030083603id_/https%3A//secure.huckberry.com/privacy_policy) for the most accurate reproduction.*
 
 # Huckberry
 
@@ -65,6 +65,6 @@ If you have any questions about this Privacy Policy, please contact us at:
 Huckberry   
 2230 Taylor St.   
 San Francisco, CA 9413   
-(415) 742-8228   
+(415) 742-8227   
 support@Huckberry.com   
 Last Updated: February 15, 2011. ©2011 Huckberry LLC. All rights reserved. 
