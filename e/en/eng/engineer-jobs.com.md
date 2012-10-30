@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineer-jobs.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512070238id_/http%3A//www.engineer-jobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineer-jobs.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030072514id_/http%3A//www.engineer-jobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Jobs | Engineering & Architecture Job Listings on Engineer-Jobs.com
 
@@ -128,7 +128,7 @@ Back to top
 
 * * *
 
-Rev. October 2010
+Rev. May 2012
 
 * * *
 
