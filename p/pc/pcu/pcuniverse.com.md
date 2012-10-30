@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcuniverse.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004121439id_/http%3A//www.pcuniverse.com/pages.php%3Fpage_id%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcuniverse.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030054202id_/http%3A//www.pcuniverse.com/pages/Privacy-and-Security-Policy.html) for the most accurate reproduction.*
 
-# Privacy and Security Policy
+# PCUNIVERSE: Privacy and Security Policy
 
 **This policy describes the way we collect, store, use and protect your personal information. You accepted this policy when you logged on to our website. We may amend this policy from time to time by posting a revision on our website. The revision will be effective at the time we post it.**
 
@@ -10,6 +10,7 @@ This Privacy Policy may not apply to sites that are accessible through PCUnivers
 
 We value our relationship with each of our customers and understand that a secure and safe environment is a critical element of that relationship. We are committed to implementing industry standard best practices in the collection, use, storage and protection of private data. When we ask for your personal information we will tell you why we need to it; we will tell you what we will do with it; we will advise you as to how you can reduce or eliminate emails or any other types of communication from us; we will deploy reasonable security measures to protect your information; when we share your information upon your consent, we will require other companies we use to provide services for us to comply with all legal requirements concerning the privacy of your information.
 
+  
 We take great care in safeguarding your personal information and in complying with all applicable federal and state privacy laws and our own internal standards and best practices. 
 
 As part of your interaction with PCUniverse.Com, we may collect personal information such as: 
@@ -34,6 +35,7 @@ Contact us with a question or concern
 
 Participate in other activities with PCUniverse.Com 
 
+  
 Uses of Your Personal Information
 
 We use the personal information you provide for purposes including, but not limited to: 
@@ -69,6 +71,7 @@ If you provide us information about others, or if others give us your informatio
 Information from Third Parties   
 PCUniverse.Com obtains consumer information from third party providers in order to improve the accuracy of our customer database, increase our understanding of our customers, or to identify potential customers. 
 
+  
 Sharing of Personal Information  
 PCUniverse.Com does not sell or rent your personal information to third parties. 
 
@@ -96,10 +99,12 @@ The third parties with whom we conduct business are authorized to use your infor
 
 We may also share aggregated data with third parties for analysis and research purposes. This data does not contain name, address or other personally identifiable information. 
 
+  
 Exceptional Disclosures
 
 From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain personal information when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. We may also transfer personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. 
 
+  
 Opt Out Information
 
 If you no longer wish to receive these communications, let us know by using whichever of the following methods is appropriate under the circumstances: 
@@ -115,6 +120,7 @@ PCUniverse.Com will take the appropriate steps to modify your preferences with r
 
 Although you may have opted not to receive marketing communications, you may still receive business-related communications such as order confirmations, product recall notices, loyalty program membership information or other business-related communications. 
 
+  
 Updating Personal Information  
 PCUniverse.Com wants your personal information to be accurate and complete. We provide several different methods for you to update your personal information. 
 
@@ -127,6 +133,7 @@ To update **** your name, address, phone number and/or e-mail information:
 
 Please be sure to include in the email your current information and the requested changes. 
 
+  
 Security Of Personal Information   
 We use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to such information. PCUniverse.Com cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk. 
 
@@ -134,11 +141,13 @@ We use a variety of information security measures to protect your online transac
 
 When you create an account on PCUniverse.Com you are required to establish a password. To maximize your level of protection, you should compose a password of at least 6-10 characters, using a combination of both letters and numbers. You are solely responsible for maintaining the secrecy of your password and account information. You have the ability to purchase on our site without creating an account; however, you will need to reenter your personal information each time you use our site in order to make a purchase. 
 
+  
 Cookies, Clickstream Technology And Third Party Ad Providers  
 A cookie is a small data file that a website or an e-mail may save to your browser, which may then be stored on your hard drive. Our websites and e-mails use cookies to create a more personalized shopping experience for visitors to our site. Cookies simulate a continuous connection — they let us "remember" information about your preferences and session, what you have placed in your cart, and generally allow you to move within areas of our site without reintroducing yourself. 
 
 PCUniverse.Com may use a third party to place cookies on your computer to collect non-personally identifiable information. Although our cookies may contain a unique user ID, they do not collect or store any personally identifiable information. 
 
+  
 You may choose to set your Web browser to not accept cookies. However, without enabling your cookies, you will not be able to view certain features on our site, create an account, or make purchases on the PCUniverse.Com Website without entering personal information on more than one occasion. 
 
 Our servers automatically collect clickstream information such as the address (or URL) of the Website that you came from before visiting our site, which pages you visit on our site, which browser you use to view our site and any search terms you may have entered on our site, among other things. 
@@ -149,13 +158,21 @@ PCUniverse.Com may use third party service providers to serve ads across the Int
 
 No personally identifiable information is collected in this process. We may share anonymous information with this service provider in an aggregate form, for purposes of analysis and improvement of our site. 
 
+  
 Collection Of Children's Personal Information  
-We are committed to protecting the privacy and identity of children. We do not knowingly or intentionally collect personal information online from individuals under the age of 13. This site is not intended for use by anyone under the age of 13, and we strongly urge parents to monitor their children’s internet access and usage.
+We are committed to protecting the privacy and identity of children. We do not knowingly or intentionally collect personal information online from individuals under the age of 13. This site is not intended for use by anyone under the age of 13, and we strongly urge parents to monitor their children’s internet access and usage. For more information on improving your family’s web security, please visit <http://www.microsoft.com/protect/family/guidelines/basics.mspx>
 
-Direct supervision is the safest and most effective way to protect your child.
+As always, direct supervision is the safest and most effective way to protect your child.
 
+For more information, please visit [www.netnanny.com](http://www.netnanny.com/)
+
+  
 Concerns About The Privacy Or Security Of Your Personal Information  
 Please contact us at [customercare@pcuniverse.com](mailto:customercare@pcuniverse.com) to report a known or suspected privacy or security breach or to submit privacy or security-related questions or complaints.  Enter the term “Privacy and Security” in the subject area of your e-mail. After receiving your communication, we will respond within five business days. 
 
 Privacy Policy Changes   
 As PCUniverse.Com continues to improve the services, products and the features we provide, this policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided your personal information, we will give you the opportunity in advance of implementing any new policy to opt-out of having your information used or shared in that new manner. 
+
+California Privacy Rights Notice
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by PCUniverse.Com pursuant to Section 1798.83 of the California Civil Code, please contact [customercare@pcuniverse.com](mailto:customercare@pcuniverse.com).
