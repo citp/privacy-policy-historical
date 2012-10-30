@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pressmart.com privacy policy that was archived on 2012-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506101620id_/http%3A//www.pressmart.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pressmart.com privacy policy that was archived on 2012-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031003706id_/http%3A//www.pressmart.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ePublishing Company: Electronic Publishing Software / Solutions</title>
@@ -17,7 +17,7 @@
 <link rel="stylesheet" type="text/css" href="css/dropdown.css">
 
 <!-- Menu --> 
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var menuids=["treemenu1"] //Enter id(s) of SuckerTree UL menus, separated by commas
 function buildsubmenus_horizontal(){
 for (var i=0; i<menuids.length; i++){
@@ -65,6 +65,26 @@ window.attachEvent("onload", buildsubmenus_horizontal)
   </script>
 <!-- smt2 Code ENDS here -->
 
+<script type="text/javascript" src="slideshow/scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript">
+   var deviceheight = $(window).height();
+        var devicewidth = $(window).width();
+
+
+function loadcss(a){
+	var b=document.createElement("link");b.setAttribute("rel","stylesheet");
+	b.setAttribute("type","text/css");b.setAttribute("href",a);
+	document.getElementsByTagName("head")[0].appendChild(b)
+	}
+
+
+     if (devicewidth < 1024) {
+                loadcss('css/pressmart-styles_ipad.css');
+            }
+            else if (devicewidth > 1024) {
+           loadcss('css/pressmart-styles.css');
+            }
+        </script><link rel="stylesheet" type="text/css" href="css/pressmart-styles.css">
 </head>
 
 <body>
@@ -88,15 +108,15 @@ window.attachEvent("onload", buildsubmenus_horizontal)
                     <li><a href="industries/index.html" class="mainfoldericon">INDUSTRIES</a>
                     <ul style="top: 71px;">
                         <li><a href="industries/education.html">Education</a></li>
-                        <li><a href="industries/healthcare.html">Healthcare</a></li>
-                        <li><a href="industries/pharmaceuticals.html">Pharmaceuticals</a></li>
-                        <li><a href="industries/travel-leisure.html">Travel &amp; Leisure</a></li> 
+                        <li><a href="industries/life-sciences.html">Life Sciences</a></li>
+                            <!--       <li><a href="industries/pharmaceuticals.html">Pharmaceuticals</a></li>
+                        <li><a href="industries/travel-leisure.html">Travel & Leisure</a></li> 
                         <li><a href="industries/fashion.html">Fashion</a></li> 
-                        <li><a href="industries/banking-finance.html">Banking &amp; Finance</a></li> 
-                        <li><a href="industries/health-beauty.html">Health &amp; Beauty</a></li> 
+                        <li><a href="industries/banking-finance.html">Banking & Finance</a></li> 
+                        <li><a href="industries/health-beauty.html">Health & Beauty</a></li> 
                         <li><a href="industries/retail.html">Retail</a></li> 
                         <li><a href="industries/automobile.html">Automobile</a></li> 
-                        <li><a href="industries/real-estate.html">Real Estate</a></li> 
+                        <li><a href="industries/real-estate.html">Real Estate</a></li> --> 
 					</ul>
                     </li>
                     <li><a href="clients.html">CUSTOMERS</a></li>
@@ -420,25 +440,28 @@ Even after you've decided to go digital, the challenges don't go away…they sim
 Scripts from source page 
 -->   
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-973871-1";
-urchinTracker();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-973871-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 <!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
 
 <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
 <script type="text/javascript">__sfga();</script>
 <!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-<!-- Begin Optify Tracking Code -->
-<script type="text/javascript">
-var optJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + optJsHost + 
-"service.optify.net/opt.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://service.optify.net/opt.js" type="text/javascript"></script>
-<script type="text/javascript"> try { _opt.view("V7NSLWBW"); } catch(err) {} </script>
-<!-- End Optify Tracking Code -->
+<!-- LeadLander Tracking Code Begin-->
+<script type="text/javascript" language="javascript">llactid=17147</script>
+<script type="text/javascript" language="javascript" src="http://t6.trackalyzer.com/trackalyze.js"></script>     
+<!-- LeadLander Tracking Code End-->
     
 
 
