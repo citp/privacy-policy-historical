@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616100337id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030185209id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TOMS.com
 
@@ -27,7 +27,7 @@ We do not sell or rent information about our customers and all information provi
 
   |  | A. | We may share aggregate or summary information regarding our customers with partners, advertisers or other third parties. This data will never identify you personally.  
 ---|---  
-B. | We may share information with companies that provide support services to us (such as a printer, mailing house, fulfillment company or web host) or that help us market our products and services. This information may also be shared with marketers whose products or services we feel may be of interest to you. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.  
+B. | We may share information with companies that provide support services to us (such as a printer, mailing house, fulfillment company or web host) or that help us market our products and services. This information may also be shared with marketers whose products or services we feel may be of interest to you. These companies may need information about you in order to perform their functions. These companies are not authorized to use any personal information we share with them about you for any other purpose.  
 C. | We will use your personal information to communicate with you about your orders and deliveries, and we may send you a confirmation email when you register/place an order with us. Also, if you submit your email address to register for the One for One™ movement or to open a TOMS Shoes account, we use it to deliver the information to you.  
 D. | We may be required to disclose such information in response to subpoenas, court orders, requests from law-enforcement officials, or if we are otherwise required to disclose such information by law.  
 E. | We may publicly disclose the name, city, and state of the winner of any online sweepstakes.  
@@ -52,7 +52,7 @@ We do not intentionally collect personally identifiable information from childre
 
 **OPT OUT / CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to TOMS.com's Customer Support department at info@TOMSshoes.com. Please clearly label the subject line "Opt Out / Corrections," and do not email your credit-card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to TOMS.com's Customer Support department at customerservice@toms.com. Please clearly label the subject line "Opt Out / Corrections," and do not email your credit-card number or other sensitive information.
 
 **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
@@ -64,7 +64,7 @@ We may change our Privacy Policy from time-to-time. We encourage you to refer to
 
 **QUESTIONS AND FEEDBACK**
 
-We welcome your questions, comments and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at [info@TOMSshoes.com](mailto:info@tomsshoes.com).
+We welcome your questions, comments and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at [customerservice@toms.com](mailto:customerservice@toms.com).
 
 **TERMS AND CONDITIONS**
 
