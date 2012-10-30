@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earth.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526172908id_/http%3A//earth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030143012id_/http%3A//earth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Earth.com
 
