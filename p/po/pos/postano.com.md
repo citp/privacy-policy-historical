@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postano.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617181500id_/http%3A//www.tigerlogic.com/tigerlogic/company/background/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postano.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030154433id_/http%3A//www.tigerlogic.com/tigerlogic/company/background/privacy.jsp) for the most accurate reproduction.*
 
 # TigerLogic Corporation - Privacy Policy
 
