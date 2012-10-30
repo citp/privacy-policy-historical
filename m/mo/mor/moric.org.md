@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moric.org privacy policy that was archived on 2012-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120208124148id_/http%3A//www.moric.org/privacy.phtml%3Fsessionid%3D24a3a874096f919b5feb4a76b4e89c02) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moric.org privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030152953id_/http%3A//www.moric.org/privacy.phtml%3Fsessionid%3D91b50afca720184c716f98c71f323fda) for the most accurate reproduction.*
 
 # Mohawk Regional Information Center
 
