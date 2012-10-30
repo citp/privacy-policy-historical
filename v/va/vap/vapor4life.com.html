@@ -1,87 +1,86 @@
-<!--The following is the downloaded HTML source of the vapor4life.com privacy policy that was archived on 2012-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608231757id_/http%3A//www.vapor4life.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vapor4life.com privacy policy that was archived on 2012-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121030195235id_/http%3A//www.vapor4life.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy | Vapor4Life</title>
-<meta name="description" content="Default Description">
-<meta name="keywords" content="">
+<meta name="description" content="Vapor4Life has quality e-cigs, electronic cigarette starter kits, and e-cigarette accessories
+for your vaping needs.">
+<meta name="keywords" content="Electronic cigarette, e-cigarette, e-cigs">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.vapor4life.com/media/favicon/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.vapor4life.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.vapor4life.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.vapor4life.com/media/favicon/default/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://www.vapor4life.com/js/blank.html';
-    var BLANK_IMG = 'http://www.vapor4life.com/js/spacer.gif';
+    var BLANK_URL = 'https://www.vapor4life.com/js/blank.html';
+    var BLANK_IMG = 'https://www.vapor4life.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
+
 <script type="text/javascript" src="/js/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.tools.min.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.cookies.js"></script>
-<script type="text/javascript" src="/js/shadowbox-3.0.3/shadowbox.js"></script>
-<link rel="stylesheet" href="/js/shadowbox-3.0.3/shadowbox.css" type="text/css">
 
+<link rel="stylesheet" href="/js/shadowbox-3.0.3/shadowbox.css" type="text/css">
+<script type="text/javascript" src="/js/shadowbox-3.0.3/shadowbox.js"></script>
+<script type="text/javascript">Shadowbox.init()</script>
 <script type="text/javascript">
-    Shadowbox.init();
-    jQuery(document).ready(function($) {
-        if ($('.tooltip').length) {
-            jQuery('.tooltip').tooltip();
-        }
-        if (!$('body').hasClass('page-empty')) {
-            if ($.cookie('verify') != 1) {
-                $.cookie('verify', 0, { path: '/' });
-                window.onload = function() {
-                    Shadowbox.open({
-                        content:    '/customer-verification',
-                        player:     'iframe',
-                        height:     230,
-                        width:      440,
-                        options: { 
-                            modal: true,
-                            displayNav: false,
-                            enableKeys: false,
-                            overlayOpacity: 0.9
-                        }
-                    });
-                };
-            }
-        }
-        if($('.error-msg:contains("Invalid login")').length) {
+jQuery(document).ready(function($) {
+   // Verify Popup
+    if (!$('body').hasClass('page-empty')) {
+        if ($.cookie('verify') != 1) {
+            $.cookie('verify', 0, { path: '/' });
             window.onload = function() {
                 Shadowbox.open({
-                    content:    '/customer-message',
+                    content:    '/customer-verification',
                     player:     'iframe',
                     height:     230,
-                    width:      440
+                    width:      440,
+                    options: { 
+                        modal: true,
+                        displayNav: false,
+                        enableKeys: false,
+                        overlayOpacity: 0.9
+                    }
                 });
             };
         }
-    });
+    }
+// Login Popup
+    if($('.error-msg:contains("Invalid login")').length) {
+        window.onload = function() {
+            Shadowbox.open({
+                content:    '/customer-message',
+                player:     'iframe',
+                height:     230,
+                width:      440
+            });
+        };
+    }
+});
 </script>
-<script type="text/javascript"></script>
-
-<link rel="stylesheet" type="text/css" href="http://www.vapor4life.com/skin/frontend/website/default/css/local.css" media="all">
-<script type="text/javascript" src="http://www.vapor4life.com/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/lib/ccard.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/prototype/validation.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/varien/js.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/varien/form.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/varien/menu.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/mage/translate.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/js/mage/cookies.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.vapor4life.com/skin/frontend/website/default/css/local.css" media="all">
+<script type="text/javascript" src="https://www.vapor4life.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/mage/cookies.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.vapor4life.com/skin/frontend/base/default/css/styles-ie.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.vapor4life.com/skin/frontend/base/default/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.vapor4life.com/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://www.vapor4life.com/skin/frontend/base/default/js/ie6.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.vapor4life.com/skin/frontend/base/default/js/ie6.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -96,7 +95,7 @@ Mage.Cookies.domain   = '.www.vapor4life.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" src="http://www.vapor4life.com/js/website.js"></script>
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" src="/js/website.js"></script>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body id="category-64" class="category-1 category-2 category-64 view-catalog language-default catalog-category-view category-type-block categorypath-privacy-policy-html category-privacy-policy">
 
@@ -129,9 +128,9 @@ _gaq.push(['_trackPageview']);
     <div class="page">
         <div class="header-container">
     <div class="header">
-        <a href="http://www.vapor4life.com/" title="Vapor4Life" class="logo"><img src="http://www.vapor4life.com/skin/frontend/website/default/images/logo.png" alt="Vapor4Life"></a>
+        <a href="http://www.vapor4life.com/" title="Vapor4Life" class="logo"><img src="https://www.vapor4life.com/skin/frontend/website/default/images/logo.png" alt="Vapor4Life"></a>
         <div class="quick-access">
-            <form id="search_mini_form" action="http://www.vapor4life.com/catalogsearch/result/" method="get">
+            <form id="search_mini_form" action="https://www.vapor4life.com/catalogsearch/result/" method="get">
     <div class="form-search">
         <input id="search" type="text" name="q" value="" class="input-text">
         <button type="submit" title="Search" class="button"><span><span>Go</span></span></button>
@@ -139,15 +138,15 @@ _gaq.push(['_trackPageview']);
         <script type="text/javascript">
         //<![CDATA[
             var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search products');
-            searchForm.initAutocomplete('http://www.vapor4life.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            searchForm.initAutocomplete('https://www.vapor4life.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
         //]]>
         </script>
     </div>
 </form>
             <div class="quick-social">
                 <ul>
-<li class="facebook"><a href="http://facebook.com/officialv4l" target="_blank">facebook</a></li>
-<li class="twitter"><a href="http://twitter.com/vapor4life" target="_blank">twitter</a></li>
+<li class="facebook"><a onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Facebook Header Click']);" href="http://facebook.com/officialv4l" target="_blank">facebook</a></li>
+<li class="twitter"><a onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Twitter Header Click']);" href="http://twitter.com/vapor4life" target="_blank">twitter</a></li>
 </ul>            </div>
             <div class="quick-block">
                 <p>Questions? Give us a call at&nbsp;<strong>847.944.8200</strong></p>            </div>
@@ -157,11 +156,11 @@ _gaq.push(['_trackPageview']);
                 <p><a href="/customer-service.html">customer service</a></p>            </div>
             <div class="quick-total">
                 <a href="/checkout/cart/" class="total"><span class="price">$0.00</span></a>
-                <a class="button" href="/shop-our-products.html">Shop Now</a>
+                <a onclick="_gaq.push(['_trackEvent', 'Shop Now Header', 'Click', 'Shop Now Top Right Navigation']);" class="button" href="/shop-our-products.html">Shop Now</a>
             </div>
         </div>
                 <div class="nav-container">
-    <ul class="nav level-1 layer-1"><li class="item-5 first parent"><a href="http://www.vapor4life.com/shop-our-products.html"><span>Shop Our Products</span></a><ul class="nav level-2 layer-2"><li class="item-11 first"><a href="http://www.vapor4life.com/shop-our-products/starter-kits.html"><span>Starter Kits</span></a></li><li class="item-12"><a href="http://www.vapor4life.com/shop-our-products/batteries.html"><span>Batteries</span></a></li><li class="item-46"><a href="http://www.vapor4life.com/shop-our-products/flavors.html"><span>Flavors</span></a></li><li class="item-13"><a href="http://www.vapor4life.com/shop-our-products/blanks-and-tanks.html"><span>Blanks &amp; Tanks</span></a></li><li class="item-16"><a href="http://www.vapor4life.com/shop-our-products/accessories.html"><span>Accessories</span></a></li><li class="item-62 last"><a href="http://www.vapor4life.com/shop-our-products/weekly-specials.html"><span>Weekly Specials</span></a></li></ul></li><li class="item-4 parent"><a href="http://www.vapor4life.com/who-is-vapor4life.html"><span>Who is Vapor4Life?</span></a><ul class="nav level-2 layer-2"><li class="item-36 first"><a href="http://www.vapor4life.com/who-is-vapor4life/smokeless-lounge.html"><span>Smokeless Lounge</span></a></li><li class="item-35 last"><a href="http://www.vapor4life.com/who-is-vapor4life/meet-steve.html"><span>Meet Steve</span></a></li></ul></li><li class="item-6 last parent"><a href="http://www.vapor4life.com/why-e-cigarettes.html"><span>Why E-Cigarettes</span></a><ul class="nav level-2 layer-2"><li class="item-52 first"><a href="http://www.vapor4life.com/why-e-cigarettes/vaping-vocabulary.html"><span>Vaping Vocabulary</span></a></li><li class="item-53"><a href="http://www.vapor4life.com/why-e-cigarettes/refilling-blanks-and-tanks.html"><span>Refilling Blanks &amp; Tanks</span></a></li><li class="item-54"><a href="http://www.vapor4life.com/why-e-cigarettes/choosing-nicotine-strength.html"><span>Choosing Nicotine Strength</span></a></li><li class="item-55 last"><a href="http://www.vapor4life.com/why-e-cigarettes/about-batteries.html"><span>About Batteries</span></a></li></ul></li></ul></div>
+    <ul class="nav level-1 layer-1"><li class="item-5 first parent"><a href="http://www.vapor4life.com/shop-our-products.html"><span>Shop Our Products</span></a><ul class="nav level-2 layer-2"><li class="item-11 first"><a href="http://www.vapor4life.com/shop-our-products/starter-kits.html"><span>E-Cig Starter Kits</span></a></li><li class="item-73"><a href="http://www.vapor4life.com/shop-our-products/v4l-omg-mods.html"><span>V4L OMG Mods</span></a></li><li class="item-62"><a href="http://www.vapor4life.com/shop-our-products/weekly-specials.html"><span>Weekly Specials</span></a></li><li class="item-46"><a href="http://www.vapor4life.com/shop-our-products/flavors.html"><span>Flavors</span></a></li><li class="item-13"><a href="http://www.vapor4life.com/shop-our-products/blanks-and-tanks.html"><span>Blanks &amp; Tanks</span></a></li><li class="item-12"><a href="http://www.vapor4life.com/shop-our-products/batteries.html"><span>Batteries</span></a></li><li class="item-60"><a href="http://www.vapor4life.com/shop-our-products/gift-certificates.html"><span>Gift Certificates</span></a></li><li class="item-16 last"><a href="http://www.vapor4life.com/shop-our-products/accessories-1.html"><span>Accessories</span></a></li></ul></li><li class="item-4 parent"><a href="http://www.vapor4life.com/who-is-vapor4life.html"><span>Who is Vapor4Life?</span></a><ul class="nav level-2 layer-2"><li class="item-36 first"><a href="http://www.vapor4life.com/who-is-vapor4life/smokeless-lounge.html"><span>Smokeless Lounge</span></a></li><li class="item-35"><a href="http://www.vapor4life.com/who-is-vapor4life/meet-steve.html"><span>Meet Steve</span></a></li><li class="item-70 last"><a href="http://www.vapor4life.com/who-is-vapor4life/upcoming-events.html"><span>Upcoming Events</span></a></li></ul></li><li class="item-6 last parent"><a href="http://www.vapor4life.com/why-e-cigarettes.html"><span>Why E-Cigarettes</span></a><ul class="nav level-2 layer-2"><li class="item-52 first"><a href="http://www.vapor4life.com/why-e-cigarettes/vaping-vocabulary.html"><span>Vaping Vocabulary</span></a></li><li class="item-53"><a href="http://www.vapor4life.com/why-e-cigarettes/refilling-blanks-and-tanks.html"><span>Refilling Blanks &amp; Tanks</span></a></li><li class="item-54"><a href="http://www.vapor4life.com/why-e-cigarettes/choosing-nicotine-strength.html"><span>Choosing Nicotine Strength</span></a></li><li class="item-55 last"><a href="http://www.vapor4life.com/why-e-cigarettes/about-batteries.html"><span>About Batteries</span></a></li></ul></li></ul></div>
     </div>
 </div>
         <div class="main-container col2-left-layout">
@@ -183,13 +182,13 @@ _gaq.push(['_trackPageview']);
                     <div class="col-main">
                         <div class="top-container">
     <div class="top">
-        <div class="incentives"><p><img src="/media/images/incentives.png" alt=""></p></div><div class="share"><div class="addthis_toolbox addthis_default_style ">
-    <a class="addthis_button_preferred_1"></a>
-    <a class="addthis_button_preferred_2"></a>
-    <a class="addthis_button_preferred_3"></a>
-    <a class="addthis_button_preferred_4"></a>
-    <a class="addthis_button_compact"></a>
-    <a class="addthis_counter addthis_bubble_style"></a>
+        <div class="incentives"><p><a href="/warranty.html"><img src="/media/images/incentives.png" alt=""></a></p></div><div class="share"><div class="addthis_toolbox addthis_default_style ">
+    <a onclick="_gaq.push(['_trackEvent', 'Share This', 'Click', 'Share This Shared Item']);" class="addthis_button_preferred_1"></a>
+    <a onclick="_gaq.push(['_trackEvent', 'Share This', 'Click', 'Share This Shared Item']);" class="addthis_button_preferred_2"></a>
+    <a onclick="_gaq.push(['_trackEvent', 'Share This', 'Click', 'Share This Shared Item']);" class="addthis_button_preferred_3"></a>
+    <a onclick="_gaq.push(['_trackEvent', 'Share This', 'Click', 'Share This Shared Item']);" class="addthis_button_preferred_4"></a>
+    <a onclick="_gaq.push(['_trackEvent', 'Share This', 'Click', 'Share This Shared Item']);" class="addthis_button_compact"></a>
+    <a onclick="_gaq.push(['_trackEvent', 'Share This', 'Click', 'Share This Shared Item']);" class="addthis_counter addthis_bubble_style"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fa92c0701859bb5"></script></div>    </div>
 </div>
@@ -230,7 +229,7 @@ _gaq.push(['_trackPageview']);
                     </div>
                     <div class="col-left sidebar"><div class="nav-container">
     </div>
-<div class="block staff-picks"><p><a href="/staff-picks.html"><img src="/media/images/staff-picks.png" alt="Staff Picks"></a></p></div></div>
+<div class="block staff-picks"><p><a onclick="_gaq.push(['_trackEvent', 'Shop Now Left Navigation', 'Click', 'Shop Now Left Navigation Click']);" href="/staff-picks.html"><img src="/media/images/staff-picks.png" alt="Staff Picks"></a></p></div></div>
                 </div>
             </div>
                                 </div>
@@ -238,7 +237,7 @@ _gaq.push(['_trackPageview']);
     <div class="footer">
         <div class="footer-top"><div class="footer-links"><ul>
 <li><a href="/shop-our-products.html">Shop Products</a></li>
-<li><a href="/who-is-vapor4life.html">Who is Vapor4Life</a> </li>
+<li><a href="/who-is-vapor4life.html">Who is Vapor4Life?</a> </li>
 <li><a href="/blog">Blog</a></li>
 <li><a href="/shop-our-products/starter-kits.html">Starter Kits</a></li>
 <li><a href="/why-e-cigarettes.html">Why E-Cigarettes</a></li>
@@ -260,11 +259,11 @@ _gaq.push(['_trackPageview']);
 <li><a href="/faq.html">FAQ</a></li>
 </ul></div><div class="footer-information"><p><strong><span class="vap-white">Vapor4Life<sup>™</sup></span></strong><br>4100 Commercial Ave<br>Northbrook, IL 60062&nbsp;</p>
 <p>Questions? Give us a call.<br>847.944.8200<br>Mon-Fri 9am-8pm CST</p></div></div><div class="footer-bottom"><div class="footer-disclaimer"><p><strong>This product may contain nicotine which is a highly addictive substance. This product is intended for adult smokers. You must be of legal smoking age in your territory to purchase this product. Please consult your physician before use.</strong></p>
-<p>* All US orders over $50 can get free shipping with the promo code FREESHIPUS. International customers can get free shipping on orders over $125 &nbsp;&nbsp; with promo code FREESHIPWORLD. We will make sure that we put extra goodies in these orders in order to make you smile. These codes are for&nbsp;&nbsp; regular Priority shipping only and can not be used for Express shipping. Additionally, this code can not be combined with any other promotions.</p></div><div class="footer-secure"><p><a href="javascript:void(0)"><img src="/media/images/mcafee-secure.png" alt=""></a></p></div></div>        <address></address>
+<p>* All US orders over $50 can get free shipping with the promo code FREESHIPUS. International customers can get free shipping on orders over $125 &nbsp;&nbsp; with promo code FREESHIPWORLD. These codes are for&nbsp;&nbsp; regular Priority shipping only and can not be used for Express shipping. Additionally, this code can not be combined with any other promotions.</p></div><div class="footer-secure"><p><a href="https://www.mcafeesecure.com/RatingVerify?ref=www.vapor4life.com" target="_blank"><img src="/media/images/mcafee-secure.png" alt=""></a></p></div></div>        <address></address>
     </div>
 </div>
             </div>
 </div>
 
 
-<div id="sb-container" style="display: block; height: 768px; width: 1366px; visibility: visible;"><div id="sb-overlay" style="background-color: rgb(0, 0, 0); opacity: 0.9;"></div><div id="sb-wrapper" style="top: 245.402px; left: 462.69px; width: 440.62px; visibility: visible;"><div id="sb-title"><div id="sb-title-inner" style="margin-top: 26px; visibility: hidden;"></div></div><div id="sb-wrapper-inner" style="height: 229.195px;"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading" style="display: block;"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner" style="margin-top: -20px; visibility: hidden;"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()" style="display: none;"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()" style="display: none;"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()" style="display: none;"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()" style="display: none;"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()" style="display: none;"></a></div></div></div></div></div></body></html>
+<div id="sb-container" style="display: block; height: 768px; width: 1366px; visibility: visible;"><div id="sb-overlay" style="background-color: rgb(0, 0, 0); opacity: 0.9;"></div><div id="sb-wrapper" style="top: 245.595px; left: 463.02px; width: 439.96px; visibility: visible;"><div id="sb-title"><div id="sb-title-inner" style="margin-top: 26px; visibility: hidden;"></div></div><div id="sb-wrapper-inner" style="height: 228.81px;"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading" style="display: block;"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner" style="margin-top: -20px; visibility: hidden;"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()" style="display: none;"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()" style="display: none;"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()" style="display: none;"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()" style="display: none;"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()" style="display: none;"></a></div></div></div></div></div></body></html>
