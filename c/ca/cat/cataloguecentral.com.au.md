@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626034803id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031005236id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
 
 # Catalogue Central's Privacy Policy
 
