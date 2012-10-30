@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personaglobal.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513165742id_/http%3A//www.personaglobal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personaglobal.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030221000id_/http%3A//personaglobal.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy ::Persona global
 
