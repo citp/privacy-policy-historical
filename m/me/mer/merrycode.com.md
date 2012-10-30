@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrycode.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516165924id_/http%3A//blog.merrycode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrycode.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030162954id_/http%3A//blog.merrycode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MerryCode
 
