@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lootbargain.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503222635id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lootbargain.com privacy policy that was archived on 2012-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121030035145id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,64 +16,262 @@
 
 
         <!--start header-->
-        <!--[if IE 7]>
-        <link rel="stylesheet" type="text/css" href="css/ie7.css">
-<![endif]-->
-
+        <link href="http://www.lootbargain.com/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+<link href="http://www.lootbargain.com/js-new/rupeesfont/rupees.css" rel="stylesheet" type="text/css" media="screen">
+<script>
+  $(document).ready(function() {
+	  
+	$("#top_cat").live('click',function () {
+  			if ($('#tc').is(":hidden"))
+               {
+                    $('#tc').slideDown("slow");
+               } else {
+                    $('#tc').slideUp("slow");
+               }
+			   $.ajax({
+				  type:'get',
+				  url:'/getCats.php',
+				  success:function(msg){
+				   $('#tc').html(msg);
+				  }
+				 });
+			    $('#citypop').slideUp("slow");
+			  $('#ts').slideUp("slow");
+			  $('#ma').slideUp("slow");
+			  $('#selectlocation').slideUp("slow");
+	});
+	$("#show_city").live('click',function () {
+  			if ($('#selectlocation').is(":hidden"))
+               {
+                    $('#selectlocation').slideDown("slow");
+               } else {
+                    $('#selectlocation').slideUp("slow");
+               }
+			  $('#tc').slideUp("slow");
+			  $('#ts').slideUp("slow");
+			  $('#ma').slideUp("slow");
+			  showcitynew();
+	});
+	$("#top_search").live('click',function () {
+  			if ($('#ts').is(":hidden"))
+               {
+                    $('#ts').slideDown("slow");
+               } else {
+                    $('#ts').slideUp("slow");
+               }
+			   $.ajax({
+				  type:'get',
+				  url:'/getBrands.php',
+				  success:function(msg){
+				   $('#category_brands').html(msg);
+				  }
+				 });
+			  $('#tc').slideUp("slow");
+			   $('#citypop').slideUp("slow");
+			  $('#ma').slideUp("slow");
+			  $('#selectlocation').slideUp("slow");
+			  
+	});
+	
+	$("#my_acc").live('click',function () {
+  			if ($('#ma').is(":hidden"))
+               {
+                    $('#ma').slideDown("slow");
+               } else {
+                    $('#ma').slideUp("slow");
+               }
+			  $('#tc').slideUp("slow");
+			   $('#citypop').slideUp("slow");
+			  $('#ts').slideUp("slow");
+			  $('#selectlocation').slideUp("slow");
+	});
+	$("#submit_login_home").live('click',function () {
+		var emailRegEx = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
+		var email_id=$('#emailid_home').val();
+		var pwd=$('#pwd_home').val();
+		if(email_id=='')
+		{
+			alert('Please enter E-mail Address');
+			return false;
+		}
+		if(email_id!='' && email_id.search(emailRegEx) == -1)
+		{
+			alert('Please enter valid E-mail Address');
+			return false;
+		}
+		if(pwd=='')
+		{
+			alert('Please enter Password');
+			return false;
+		}
+		$("#frmlogin_home").submit();
+	});
+	$('#pwd_home').keypress(function(e){
+      if(e.which == 13){
+			var emailRegEx = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
+		var email_id=$('#emailid_home').val();
+		var pwd=$('#pwd_home').val();
+		if(email_id=='')
+		{
+			alert('Please enter E-mail Address');
+			return false;
+		}
+		if(email_id!='' && email_id.search(emailRegEx) == -1)
+		{
+			alert('Please enter valid E-mail Address');
+			return false;
+		}
+		if(pwd=='')
+		{
+			alert('Please enter Password');
+			return false;
+		}
+		$("#frmlogin_home").submit();
+       }
+      });
+	$('#emailid_home').keypress(function(e){
+      if(e.which == 13){
+			var emailRegEx = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
+		var email_id=$('#emailid_home').val();
+		var pwd=$('#pwd_home').val();
+		if(email_id=='')
+		{
+			alert('Please enter E-mail Address');
+			return false;
+		}
+		if(email_id!='' && email_id.search(emailRegEx) == -1)
+		{
+			alert('Please enter valid E-mail Address');
+			return false;
+		}
+		if(pwd=='')
+		{
+			alert('Please enter Password');
+			return false;
+		}
+		$("#frmlogin_home").submit();
+       }
+      });	
+  });
+</script>
 <style type="text/css">
+	/*selectlocation*/
+#selectlocation {background-color:#ffffff; z-index:995; margin:3px 0px 0px 362px; width:196px; border:1px solid #BBBABA; }
+#selectlocation ul {margin:0px 5px 5px 5px; padding-top:3px; float:left; padding:0px;}
+#selectlocation ul li {width:171px; background:url(http://www.lootbargain.com/images/cities-arrow.png) no-repeat left 4px; background-position:center left; line-height:20px; padding-left:13px; margin:3px 0px; background-color:#F8F7F7;}
+#selectlocation ul li a{ color:#000; font-weight:normal;}
+#selectlocation ul li a:hover{ color:#b004e5; font-weight:normal;}
+#selectlocation ul li.heading {background:none; padding-left:0px; margin:3px 0px; padding-top:5px; color:#f9aa3a;background:url(http://www.lootbargain.com/images/top-citiets-li-bg.png) repeat-x left top; width:182px;}
+#selectlocation ul li.heading a {color:#DF4800;}
 
-/*citypop*/
-#citypop {background:url(images/main-cities-bg.png) no-repeat center bottom; position:absolute; z-index:1000; margin:40px 0px 0px 275px; width:171px; display:none;}
-#citypop ul {margin:0px 10px 10px 10px; float:left;}
-#citypop ul li {background:url(images/cities-arrow.png) no-repeat left 4px; padding-left:13px; margin:3px 0px;}
-#livechat { margin:-5px 15px 0px 0px; padding:0px; z-index:999; float:left;}
+#cloudepanel {
+    display: none;
+    margin: -19px 0 0 -290px;
+    position: absolute;
+    width: 435px;
+	z-index:1000;
+}
+
+#cloudepanel p {
+	margin:0px;
+	padding:0px 10px 0px 10px;
+	text-align:justify;
+}
+
+#cloudepanel1 {
+    display: none;
+    margin: 45px 0 0 550px;
+    position: absolute;
+    width: 435px;
+	z-index:1000;
+}
+
+#cloudepanel1 p {
+	margin:0px;
+	padding:0px 10px 0px 10px;
+	text-align:justify;
+}
+
+
+
+
+.ts_pop_new{position:absolute; width:265px; margin-left:260px;  height:auto; display:none; background-color:#FFF;  margin-top:5px; border:solid 0px #bbbaba; padding-bottom:0px; z-index:995;}
+
+.ts_pop{position:absolute; width:178px; margin-left:260px;  height:auto; display:none; background-color:#FFF;  margin-top:5px; border:solid 1px #bbbaba; padding-bottom:6px; z-index:995;}
+.ts_pop ul{ margin:0;  width:100px; padding:0px 5px 10px 5px; z-index:995;}
+.ts_pop ul li{ margin:0; margin-top:2px; margin-bottom:1px; padding:4px; list-style:none; width:160px; line-height:18px; background-color:#f8f7f7; float:left; z-index:995;}
+.ts_pop ul li a{color:#000; font-size:12px; float:left; font-weight:normal; padding-left:7px; }
+.ts_pop ul li a:hover{ color:#b004e5; font-size:12px; float:left; font-weight:normal; background-color:#FFFFFF; }
+
+
+/*----- loot lo membership starts------*/
+.tc_pop_new {
+    background-color: #FFFFFF;
+    border: 1px solid #BBBABA;
+    display: none;
+    height: auto;
+    margin-left: 150px;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    position: absolute;
+    width: 245px;
+    z-index: 995;
+}
+.tc_pop_new ul {
+    margin: 3px 0 0;
+    padding: 0 5px 10px;
+    width: 200px;
+    z-index: 995;
+}
+.tc_pop_new ul li {
+    background-color: #f8f7f7;
+    float: left;
+    line-height: 18px;
+    list-style:none outside none;
+    margin: 2px 0px 0px 0px;
+    padding: 0px 0px 5px 0px;
+    width: 233px;
+    z-index: 995;
+	border:1px solid #eeeeee;
+}
+.tc_pop_new ul li a {
+    color: #000000;
+    float: left;
+    font-size: 12px;
+    font-weight: normal;
+    padding-left: px;
+   
+	
+}
+.tc_pop_new ul li a:hover {
+    color: #B004E5;
+    float: left;
+    font-size: 12px;
+    font-weight: normal;
+}
+/*----- loot lo membership ends------*/
+
 </style>
-<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
 
 
-<div id="header">  
-      	<div id="header_resize">
-        		<div id="headertop">
-	        <p class="left"><a href="search-result.php?action=Today's Deals">Today's Deals</a>  <a href="search-result.php?action=All India Deals">All India Deals</a>    <a href="coupons-by-category.php">Categories</a><!-- <a href="delhi">Deals of Delhi</a>  --> <a href="javascript:void(0)" style="background:url(images/cities-dd-arrow.png) no-repeat right 5px; padding-right:20px; margin-right:10px;" onclick="document.getElementById('citypop').style.display='block'; showcity()">Cities</a> <!--<a href="/blog/">Blog</a>--></p>
-         <input type="hidden" name="citylist" value="0" id="citylist">
+<div id="header">
 
-					<script language="javascript">
-					function showcity()
-					{
-					
-						if(document.getElementById('citylist').value==0)
-						{
-						document.getElementById('citypop').style.display='block';
-						document.getElementById('citylist').value=1;		
-						return false;		
-						}
-						else{
-						document.getElementById('citypop').style.display='none';
-						document.getElementById('citylist').value=0;		
-						}
-					}
-					
-					</script>
-		 <div id="citypop">
+
+
+	
+		<div id="citypop">
        	<ul>
-        	<li><a href="delhi" onclick="document.getElementById('citypop').style.display='';">Delhi</a></li>
-            <li><a href="nagpur" onclick="document.getElementById('citypop').style.display='';">Nagpur</a></li>
-            <li><a href="chandigarh" onclick="document.getElementById('citypop').style.display='';">Chandigarh</a></li>
-            <li><a href="mumbai" onclick="document.getElementById('citypop').style.display='';">Mumbai</a></li>
-            <li><a href="pune" onclick="document.getElementById('citypop').style.display='';">Pune</a></li>
-			<li><a href="chennai" onclick="document.getElementById('citypop').style.display='';">Chennai</a></li>
-            <li><a href="bangalore" onclick="document.getElementById('citypop').style.display='';">Bangalore</a></li>
+        	<li><a href="delhi" onclick="document.getElementById('citytop').style.display='';">Delhi</a></li>						
+						<li><a href="chandigarh" onclick="document.getElementById('citytop').style.display='';">Chandigarh</a></li>
+						<li><a href="mumbai" onclick="document.getElementById('citytop').style.display='';">Mumbai</a></li>
+						<li><a href="pune" onclick="document.getElementById('citytop').style.display='';">Pune</a></li>
+						<li><a href="chennai" onclick="document.getElementById('citytop').style.display='';">Chennai</a></li>
+						<li><a href="bangalore" onclick="document.getElementById('citytop').style.display='';">Bangalore</a></li>
+						 <li><a href="ahmedabad" onclick="document.getElementById('citypop').style.display='';">Ahmedabad</a></li>                   
         </ul>
        </div>
-		 
-		   <p class="right">
-			<a href="javascript:void(0);" onclick="window.open('http://www.lootbargain.com/lblivehelp/livehelp.php?relative=Y&amp;serversession=1&amp;pingtimes=15','lbchat','width=590,height=450,titlebar=0,location=0,status=0,resizable=0,scrollbars=0,menubar=0,toolbar=0')"><img src="images/live-chat.gif" alt="Lootbargain live help!" title="Lootbargain live help!" border="0" id="livechat"></a>
-                                <a href="user-login.php">Sign In</a>  |  <a href="user-login.php#recent">Sign Up</a>
-                            </p>
-<div class="clear"></div>     
-        </div>
-      <div id="locate" style="display:none">
-        <script type="text/javascript" src="js/flexscroll/flexcroll.js"></script><style type="text/css">.flexcroll-hide-default {overflow: hidden !important;}</style>
+		<div id="locate" style="display: none;">
+		<script type="text/javascript" src="http://www.lootbargain.com/js/flexscroll/flexcroll.js"></script>
 
 <div id="locationPanel">
   <div id="lpContent">
@@ -114,32 +312,293 @@
       
     </div>
 </div>
-<script type="text/javascript" src="js/locationJs.js"></script>
+<script type="text/javascript" src="http://www.lootbargain.com/js/locationJs.js"></script>
 
 
-      </div>
-        <div id="logo"><a href="index.php"><img src="images/purray-logo.png" alt="" border="0"></a></div>
-        
-        
-        <div id="h-right">
-<table width="0" border="0" cellspacing="0" cellpadding="0" align="right">
-<tbody><tr>
-	<td style=" height:30px; min-width:160px; padding:0px 0px 0px 13px;">Your Current Location is:</td>
-    <td>&nbsp;</td>
-</tr>	
-  <tr>
-    <td height="27" background="images/location-bg-left.png" style="min-width:160px; padding:0px 0px 0px 13px;">Delhi NCR, India</td>
-    <td width="35" background="images/location-bg-right.png" style=" background-position:right; padding:2px 0px 0px 10px;"><a href="javascript:void(0);" onclick="document.getElementById('locate').style.display='';"><img src="images/location-button.png" border="0" alt=""></a></td>
-  </tr>
-</tbody></table>
-        </div>
-        
-        
-        
-       <div class="clear"></div> 
-      </div>	
-      <div class="clear"></div>
-      </div>        <!--end header-->
+		</div>
+		<div id="logo"><a href="http://www.lootbargain.com/"><img src="http://www.lootbargain.com/images/purray-logo.png" alt="Lootbargain : Online Shopping Site India" title="Lootbargain : Online Shopping Site India" border="0"></a></div>
+
+		<!--div class="hdrrt">All Products</div-->
+	<div class="hdrrt"><div class="hdrrt_t">
+	
+	
+	<div style="float:left; margin:0px 20px 0px 0px; width:120px;">
+	<!--live chat starts-->
+	<div style="margin-top: 5px; width: 39px; margin-left:0px; margin-right:10px; float:left;">  <a onclick="window.open('http://www.lootbargain.com/lblivehelp/livehelp.php?relative=Y&amp;serversession=1&amp;pingtimes=15','lbchat','width=590,height=450,titlebar=0,location=0,status=0,resizable=0,scrollbars=0,menubar=0,toolbar=0')" href="javascript:void(0);"><img border="0" id="livechat" title="Lootbargain live help!" alt="Lootbargain live help!" src="http://www.lootbargain.com/images/live-chat.gif"></a></div>
+	<!--live chat ends-->	
+	
+	<!-- like start-->
+	<div style="width:50px; float:left; margin-top:0px; margin-left:0px; ">
+	<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Flootbargain&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=21&amp;appId=224247874282513" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true">
+	</iframe>	
+   </div> 
+	<!--like end-->
+	</div>	
+	
+	<a href="#" style="border-right:1px solid #590d91; padding:3px 8px;" id="top_cat">Loot Lo Membership
+ 	&nbsp;<img border="0" alt="" src="http://www.lootbargain.com/images/scroll-bar-point.jpg">
+	</a>
+    <div class="tc_pop_new" id="tc">
+	<img border="0" alt="" src="http://www.lootbargain.com/images/progressAnimation.gif">
+	</div>
+	
+		  
+		
+			
+			
+			            
+            <a href="#" style="border-right:1px solid #590d91; padding:3px 8px;" id="top_search">Top Brands 
+			&nbsp;<img border="0" alt="" src="http://www.lootbargain.com/images/scroll-bar-point.jpg">
+			</a>
+    <div id="ts" class="ts_pop_new">
+	<!-- <ul style="z-index:995;"> -->
+	<div id="category_brands"><img border="0" alt="" src="http://www.lootbargain.com/images/progressAnimation.gif"></div>
+
+
+         <!--
+		    <a href="JavaScript:void(0);" style="float:left; margin-left: 103px; margin-top: -73px;" onclick="document.getElementById('ts').style.display='none';"><img src="http://www.lootbargain.com/images/cross.png" /></a>
+			-->
+            </div>
+                 
+		 
+    <div id="ma" class="ma_pop">
+	<form method="POST" action="http://www.lootbargain.com/user-login-page.php" name="frmlogin_home" id="frmlogin_home">
+	<ul>
+		<li><label style="width:95px; float:left;">E-Mail ID * </label> <input name="emailid_home" id="emailid_home" type="text" style="width:155px; border:1px solid #c1afcf;"></li>
+		<li><label style="width:95px; float:left;">Password *</label> <input name="pwd_home" type="password" id="pwd_home" style="width:155px; border:1px solid #c1afcf;"> <br>
+		<a style="text-indent:96px; font-size:11px; width:200px;" href="http://www.lootbargain.com/user-login.php">Forgot Password</a>
+		<input type="hidden" name="index_login" id="index_login" value="1">
+		</li>
+				
+		<li>
+		 <table border="0" width="265" cellspacing="0" cellpadding="0" align="left" style="float:left;">
+    		<tbody>
+			<tr height="30">
+			<td colspan="2" valign="top">
+				<input name="submit_login_home" id="submit_login_home" type="button" style="margin-left:96px; background-image:url(http://www.lootbargain.com/images/login_btn.png); width:55px; height:22px; border:0; cursor:pointer;"> 
+		   
+			 	<input onclick="window.location='http://www.lootbargain.com/user-login.php?tab_signup=1'" name="" type="button" style="cursor:pointer; margin-right:33px; width:55px; height:22px; background-image:url(http://www.lootbargain.com/images/sign-up.png); border:0;">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center"><img src="http://www.lootbargain.com/images/or.png" width="260" height="11"></td>
+		</tr>
+		<tr height="45">
+		<td style="color:#333333;" width="65" align="center">
+		<!-- FACEBOOK CONNECT START HERE   -->
+						<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+								    <a href="https://www.facebook.com/login.php?api_key=344681998947248&amp;cancel_url=http%3A%2F%2Fwww.lootbargain.com%2Fsearch_deals.php&amp;display=popup&amp;fbconnect=1&amp;next=http%3A%2F%2Fwww.lootbargain.com%2Fsearch_deals.php&amp;return_session=1&amp;session_version=3&amp;v=1.0&amp;req_perms=email%2Cpublish_stream&amp;scope=publish_stream"><img src="http://www.lootbargain.com/images/flogin.png" border="0" title="login "></a>					
+					<!-- <a href="#" onclick="fblogin();"><img src="images/flogin.jpg" border="0" title="login "></a> -->
+				 <!-- <fb:login-button perms="email"></fb:login-button> -->
+				  	<!-- Face Book Login Script - Start -->
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId   : '344681998947248',
+          session : null, // don't refetch the session when PHP already has it
+          status  : true, // check login status
+          cookie  : true, // enable cookies to allow the server to access the session
+          xfbml   : true // parse XFBML
+        });
+
+        // whenever the user logs in, we refresh the page
+        FB.Event.subscribe('auth.login', function() {
+          window.location.reload();
+        });
+      };
+
+      (function() {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());
+
+
+//your fb login function
+ function fblogin() 
+	 {
+						FB.login(function(response) {
+						  if (response.authResponse) {
+							  // user is logged in and granted some permissions.
+							  // perms is a comma separated list of granted permissions
+							
+						  } else {
+							// user is not logged in
+						  }
+						}, {perms:'read_stream,publish_stream,offline_access,email'});
+
+    }
+
+function fblogout()
+{
+
+FB.logout(function(response) {
+  // user is now logged out
+  window.location.reload();
+});
+
+}
+    </script>
+<!-- Face Book Login Script - End -->
+
+				  				  <!-- FACEBOOK CONNECT ENDED HERE   -->
+		</td>
+		</tr>
+			
+	</tbody>
+</table>
+		
+		</li>
+		<!--li><a href="user-login.php">Sign Up</a>  <input name="submit_login" id="submit_login" type="button" value="Login" style="border:none; background-color:#000000; color:#FFFFFF; font-weight:bold; padding:3px; margin-left:10px;" /></li-->
+	</ul>
+	</form>
+            <!--a href="JavaScript:void(0);" style="float:left;margin-left: 270px; margin-right:5px; margin-top: -116px;" onclick="document.getElementById('ma').style.display='none';"><img src="http://www.lootbargain.com/images/cross.png" /></a-->
+            </div>  
+            
+       <a href="#" style="margin-left: 15px; margin-right: 10px;" id="show_city" title="Delhi NCR, India">
+	   Delhi NCR, Indi	   &nbsp;<img src="http://www.lootbargain.com/images/scroll-bar-point.jpg" border="0" alt="select city"></a>
+			<div id="selectlocation" style="display:none; ">
+                     <ul>
+                      <!-- 
+<li><a href="ahmedabad" onclick="document.getElementById('selectlocation').style.display='';">Ahmedabad</a></li>
+						 <li><a href="bangalore" onclick="document.getElementById('selectlocation').style.display='';">Bangalore</a></li>
+						 <li><a href="chandigarh" onclick="document.getElementById('selectlocation').style.display='';">Chandigarh</a></li>
+						 <li><a href="chennai" onclick="document.getElementById('selectlocation').style.display='';">Chennai</a></li>
+						 <li><a href="delhi" onclick="document.getElementById('selectlocation').style.display='';">Delhi NCR</a></li>    
+						 <li><a href="mumbai" onclick="document.getElementById('selectlocation').style.display='';">Mumbai</a></li>
+						<li><a href="pune" onclick="document.getElementById('selectlocation').style.display='';">Pune</a></li>
+						-->
+
+<li><a href="http://www.lootbargain.com/east_delhi" onclick="document.getElementById('selectlocation').style.display='';">East Delhi</a></li>
+<li><a href="http://www.lootbargain.com/south_central_delhi" onclick="document.getElementById('selectlocation').style.display='';">New Delhi(South &amp; Central)</a></li>
+<li style="border-bottom:solid 2px #663399;"><a href="http://www.lootbargain.com/north_west_delhi" onclick="document.getElementById('selectlocation').style.display='';">North &amp; West Delhi</a></li>
+<li><a href="http://www.lootbargain.com/noida" onclick="document.getElementById('selectlocation').style.display='';">Noida</a></li>
+<li><a href="http://www.lootbargain.com/gurgaon" onclick="document.getElementById('selectlocation').style.display='';">Gurgaon</a></li>
+<li><a href="http://www.lootbargain.com/ghaziabad" onclick="document.getElementById('selectlocation').style.display='';">Ghaziabad</a></li>
+<li><a href="http://www.lootbargain.com/faridabad" onclick="document.getElementById('selectlocation').style.display='';">Faridabad</a></li>
+
+<li class="heading"><a href="http://www.lootbargain.com/delhi" onclick="document.getElementById('selectlocation').style.display='';">Delhi NCR</a></li>  
+                        
+<li class="heading"><a href="search_deals.php?action=All Cities Deals" onclick="document.getElementById('selectlocation').style.display='';redirectToSearch('action=All Cities Deals');">All Cities Deals</a></li>
+<li class="heading"><a href="search_deals.php?action=All India Deals" onclick="document.getElementById('selectlocation').style.display='';redirectToSearch('action=All India Deals')">All India Deals</a></li>
+							   <li class="heading">Other Cities</li>
+									<form method="get">
+								    <select name="otherlocation" style="width:150px" onchange="createSessionReload1(this.value);">
+								    <option value="">Select Your City</option>
+							  							  		<option value="101|1577|19453">Ahmedabad</option>
+							  							  		<option value="101|1577|19725">Surat</option>
+							  							  		<option value="101|1582|20229">Bangalore</option>
+							  							  		<option value="101|1587|21378">Mumbai</option>
+							  							  		<option value="101|1587|21435">Pune</option>
+							  							  		<option value="101|1594|21894">Ludhiana</option>
+							  							  		<option value="101|1597|22321">Chennai</option>
+							  							        </select>
+							  		</form>
+							  							                      </ul>
+					
+								
+             </div>
+			 
+    <!-- delhi my-account start-->
+	 						<a href="#" style="border-left:1px solid #590d91; padding: 3px 8px;" id="my_acc">My Account&nbsp;<img border="0" alt="" src="http://www.lootbargain.com/images/scroll-bar-point.jpg"></a>
+						<!--delhi my-account ends-->	
+	
+			 
+               <input type="hidden" name="citylistnew" value="0" id="citylistnew">
+
+					<script language="javascript">
+					function showcitynew()
+					{
+					
+						if(document.getElementById('citylistnew').value==0)
+						{
+						document.getElementById('selectlocation').style.display='block';
+						document.getElementById('citylistnew').value=1;		
+						return false;		
+						}
+						else{
+						document.getElementById('selectlocation').style.display='none';
+						document.getElementById('citylistnew').value=0;		
+						}
+					}
+					
+					</script>
+					
+					<!--your cart start-->
+					 								<div class="kart" style="float: left; padding: 3px 5px 12px 83px; color:#c8dce5;  margin-top:-1px; margin-left:0px;">(0)
+									</div>
+										<!--your cart end-->
+    
+                </div>      
+            
+  <div class="hdrrt_b">
+  
+
+  
+    <div style="float:right; margin-top:5px;">   
+			</div>
+    
+    
+  
+  </div>
+  
+            
+    </div>	
+	  
+            
+            </div>
+		<!--start topbg-->
+        <div class="top_bg_new"></div>
+		<!--end topbg-->
+		
+				 <script language="javascript1.1">
+
+ function createSessionReload1(str)
+ {
+
+var rettmp = new Array();
+rettmp=str.split("|");	
+
+ var xmlhttp; 
+ if (window.XMLHttpRequest)
+   {// code for IE7+, Firefox, Chrome, Opera, Safari
+   xmlhttp=new XMLHttpRequest();
+   }
+ else
+   {// code for IE6, IE5
+   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+   }
+ xmlhttp.onreadystatechange=function()
+   {
+   
+   if (xmlhttp.readyState==4 && xmlhttp.status==200)
+     {
+		
+		//alert(xmlhttp.responseText);
+		var html=xmlhttp.responseText;							
+		
+		if(html == 1)
+      		{
+        						location.reload();
+				     	 	}
+						
+     }
+   }
+  	  
+	  var URL="/setCSC.php";		
+	  var params = "?cntry="+rettmp[0]+"&state="+rettmp[1]+"&city="+rettmp[2];  	  
+		//alert(URL+params);
+	   xmlhttp.open("GET",URL+params,true);	
+	   xmlhttp.send(null);
+   
+
+ }
+
+</script>
+ 
+
+        <!--end header-->
 
     <!--start Content-->
     <div id="content">
@@ -288,7 +747,10 @@ Email: <a href="mailto:contact@lootbargain.com">contact@lootbargain.com</a>
     <!--end Content-->
     
     <!--start fotter-->
-    <div id="fotter">
+    <style>
+.yell{ color:#f9a53e; font-weight:bold;}
+</style>
+<div id="fotter">
         
         <!--start-fotter_resize-->
         <div id="fotter_resize">
@@ -297,12 +759,12 @@ Email: <a href="mailto:contact@lootbargain.com">contact@lootbargain.com</a>
             
             <div id="snlinks"> 
                 <p>Follow Us On :</p> 
-                <a href="http://www.facebook.com/pages/Loot-Bargain/156382781120762?sk=wall" target="_blank"><img src="images/facebook.png" width="16" height="16" alt="" title="Facebook"></a> 
-                <a href="http://twitter.com/#!/Lootbargain" target="_blank"><img src="images/twitter.png" width="16" height="16" alt="" title="Twitter"></a> 
-                <!--<a href="#" target="_blank"><img src="images/googleplus.png" width="16" height="16" alt="" title="google + 1" /></a> -->
+                <a href="http://www.facebook.com/pages/Loot-Bargain/156382781120762?sk=wall" target="_blank"><img src="http://www.lootbargain.com/images/facebook.png" width="16" height="16" alt="" title="Facebook"></a> 
+                <a href="http://twitter.com/#!/Lootbargain" target="_blank"><img src="http://www.lootbargain.com/images/twitter.png" width="16" height="16" alt="" title="Twitter"></a> 
+                <!--<a href="#" target="_blank"><img src="http://www.lootbargain.com/images/googleplus.png" width="16" height="16" alt="" title="google + 1" /></a> -->
                  <!--<a href="http://www.stumbleupon.com/stumbler/vitunsharma/reviews/" target="_blank">
-                <img src="images/stumble.png" width="16" height="16" alt="" title="Stumble Upon" /></a>-->
-                <a href="rss.xml" target="_blank"><img src="images/rss.png" width="16" height="16" alt="" title="RSS"></a> 
+                <img src="http://www.lootbargain.com/images/stumble.png" width="16" height="16" alt="" title="Stumble Upon" /></a>-->
+                <a href="rss.xml" target="_blank"><img src="http://www.lootbargain.com/images/rss.png" width="16" height="16" alt="" title="RSS"></a> 
             </div>
         <div class="clear"></div>
         </div>
@@ -312,36 +774,57 @@ Email: <a href="mailto:contact@lootbargain.com">contact@lootbargain.com</a>
         <!--start-fotter-detail-a-->
         <div id="fotter-detail-a">
         	<div id="ullinks">
-        	<ul>
-            	<li><h1>Company</h1></li>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about-us.php">About Us</a></li>
-                <li><a href="tc.php#disclamer">Disclaimer</a></li>
-                <li><a href="tc.php">Terms &amp; Conditions</a></li>
-                <li><a href="privacy-policy.php">Privacy Policy</a></li>
+        	<ul style="background-color:#">
+            	<li><h1 class="yell">Company</h1></li>
+                <li><a title="Home" href="http://www.lootbargain.com/index.php">Home</a></li>
+                <li><a title="About Us" href="http://www.lootbargain.com/about-us.php">About Us</a></li>
+                <li><a title="Disclaimer" href="http://www.lootbargain.com/tc.php#disclamer">Disclaimer</a></li>
+                <li><a title="Terms &amp; Conditions" href="http://www.lootbargain.com/tc.php">Terms &amp; Conditions</a></li>
+                <li><a title="Privacy Policy" href="http://www.lootbargain.com/privacy-policy.php">Privacy Policy</a></li>
+				<li><a title="Loot Lo Membership" href="http://www.lootbargain.com/membership.php">Loot Lo Membership</a></li>
             </ul>
         	<ul>
-            	<li><h1>Support</h1></li>
-                <li><a href="faq.php">FAQ</a></li>
-				<li><a href="under-construction.html">LB Referral Ads</a></li>
-                <li><a href="contact-us.php">Feedback</a></li>
-                <li><a href="contact-us.php">Contact Us</a></li>
-                <li><a href="resources.php">Resources Links</a></li>
+            	<li><h1 class="yell">Support</h1></li>
+                <li><a title="FAQ" href="http://www.lootbargain.com/faq.php">FAQ</a></li>				
+                <li><a title="Feedback" href="http://www.lootbargain.com/feedback.php">Feedback</a></li>
+                <li><a title="Contact Us" href="http://www.lootbargain.com/contact-us.php">Contact Us</a></li>
+				 <li><a title="Contact Us" href="http://www.lootbargain.com/blog/" target="_blank">Blog</a></li>
+             
+				
             </ul>
             <ul>
-            	<li><h1>Merchant</h1></li>
-                <li><a href="merchant-login.php">Merchant Login</a></li>
-                <li><a href="merchant-registration.php">Merchant Registration</a></li>
-				<li><a href="add-coupons.php">Post a Deal</a></li>
-                <li><a href="mtc.php">LB Merchant Policy</a></li>
-                <li><a href="merchant-faq.php">Merchant's FAQ</a></li>
+            	<li><h1 class="yell">Merchant</h1></li>
+                <li><a title="Merchant Login" href="http://www.lootbargain.com/merchant-login.php">Merchant Login</a></li>
+                <li><a title="Merchant Registration" href="http://www.lootbargain.com/merchant-registration.php">Merchant Registration</a></li>
+				<li><a title="Post a Deal" href="http://www.lootbargain.com/add-coupons.php">Post a Deal</a></li>
+                <li><a title="LB Merchant Policy" href="http://www.lootbargain.com/mtc.php">LB Merchant Policy</a></li>
+                <li><a title="Merchant's FAQ" href="http://www.lootbargain.com/merchant-faq.php">Merchant's FAQ</a></li>
             </ul>
+            
+            <ul>
+            	<li><h1 class="yell">Affiliates</h1></li>
+               
+<!--              <li><a href="http://www.lootbargain.com/lootbargain_affiliates_1" target="_blank">Coupon Dunia </a></li>
+			  <li><a href="http://www.lootbargain.com/lootbargain_affiliates_2" target="_blank">Couponz Guru </a></li>-->
+                 <li><a title="Affiliate Partners" href="http://www.lootbargain.com/resources.php">Affiliate Partners</a></li>
+				  <li><a title="Affiliate Partners" href="http://www.lootbargain.com/corporate_affiliation.php">Corporate Purchase Request Form</a></li>
+            </ul>
+            
             </div>
-			<div style="width:280px; float:right; text-align:left;" id="f-img">
-      		  <a href="bonanza-deals-of-the-day.php"><img src="images/f-bonanza-deals.png" alt="Bonanza Deals" border="0"></a>
-    		    <a href="deals-of-the-day.php"><img src="images/f-deals-of-day.png" alt="Deals of the Day" border="0"></a>
-		  	
-			<a href="user-login.php#recent"><img src="images/f-cashback.png" alt="Cashback"></a>
+            <ul>
+            	<li><h1 class="yell">We Accept</h1></li>
+               <li title="Debit/Credit Cards" style="margin-top:10px;  margin-bottom:5px;"><img src="http://www.lootbargain.com/images/f-li-arrwos.gif" style="margin-right:10px;">Debit / Credit Cards</li>
+            <img alt="Pay By Creditcard" title="Pay By Creditcard" src="http://www.lootbargain.com/images/mc.png" style="padding-right:10px;">
+			<img alt="Pay By Creditcard" title="Pay By Creditcard" src="http://www.lootbargain.com/images/visa.png" style="padding-right:10px;">
+			<img alt="Pay By Creditcard" title="Pay By Creditcard" src="http://www.lootbargain.com/images/amex.png" style="padding-right:10px;">
+           <li style="margin-top:10px;  margin-bottom:5px" title="Airtel Money"><img src="http://www.lootbargain.com/images/f-li-arrwos.gif" style="margin-right:10px;">Airtel Money<img src="http://www.lootbargain.com/images/atel.png" style="padding-left:5px;" align="absmiddle" title="Airtel Money" id="Airtel Money"> </li>
+            <li title="Net Banking" style="margin-top:10px;  margin-bottom:5px"><img title="Net Banking" alt="Net Banking" src="http://www.lootbargain.com/images/f-li-arrwos.gif" style="margin-right:10px;">Net Banking </li>
+                        <li title="Cash On Delivery" style="margin-top:10px;  margin-bottom:5px"><img src="http://www.lootbargain.com/images/f-li-arrwos.gif" style="margin-right:10px;" title="Cash On Delivery" alt="Cash On Delivery">Cash On Delivery</li>
+            </ul>
+			<div style="width:70px; float:right; text-align:left;" id="f-img">
+      	
+		<!--  <a href="membership.php"><img src="http://www.lootbargain.com/images/membership-fotter-icon.png" border="0" alt="become a member to get unlimited coupons." title="become a member to get unlimited coupons." /></a>-->
+			<a href="http://www.lootbargain.com/tc.php#refund"><img src="http://www.lootbargain.com/images/pay-img/money-back.png" width="70" height="71" border="0" style="margin-left:10px;" title="100% Moneyback guarantee" alt="100% Moneyback guarantee"></a>
         </div>
         <div class="clear"></div>
         </div>
