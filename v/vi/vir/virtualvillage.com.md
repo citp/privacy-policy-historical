@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtualvillage.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517103320id_/http%3A//www.virtualvillage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualvillage.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030130107id_/http%3A//www.virtualvillage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Virtual Village US
+# Privacy Policy US
 
-#### PRIVACY POLICY for www.virtualvillage.com
+#### PRIVACY POLICY for [www.virtualvillage.com](http://www.virtualvillage.com/)
 
 At Virtual Village we are committed to safeguarding and preserving your privacy when you visit our site or communicate electronically with us.
 
