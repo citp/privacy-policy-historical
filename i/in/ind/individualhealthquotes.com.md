@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622090258id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030095156id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Individual Health Quotes Privacy Policy - Any Quote. Anytime.
 
@@ -8,7 +8,7 @@ IndividualHealthQuotes believes it is important for you to know and understand h
 
 Please note that this privacy policy only applies to this website. Other websites in the IndividualHealthQuotes network may have different privacy policies.
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20120622090258id_/http%3A//www.individualhealthquotes.com/terms.html).
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20121030095156id_/http%3A//www.individualhealthquotes.com/terms.html).
 
 ### Services Offered By IndividualHealthQuotes
 
@@ -102,9 +102,11 @@ You further acknowledge that this website's Privacy Policy and Terms of Use cons
 
 You further acknowledge that you agree to be contacted by insurance professionals, the IndividualHealthQuotes Consumer Protection and/or Quality Assurance departments, and other third party partners of IndividualHealthQuotes, regardless of the presence of your telephone number on any state or Federal DNC (“Do Not Call”) of DNE (“Do Not Email”) list or registry.
 
+You further agree to receive quotes, policy updates, and other customized content to your wireless phone. In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence. GoHealth does not charge you for sending or receiving text messages. You may opt-out and remove your SMS information by sending "STOP", "END", "QUIT" to the SMS text message you have received.
+
 ### California Residents Privacy Rights 
 
-Companies that collect personally-identifiable information from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. 
+Companies that collect personally-identifiable information from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties.
 
 IndividualHealthQuotes has elected the second option, and you may request that your personally-identifiable information not be shared with third parties by sending your request, including your full name, email address and postal address to:
 
