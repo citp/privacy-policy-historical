@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silver-spirits.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127145928id_/http%3A//www.silver-spirits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silver-spirits.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030163328id_/http%3A//www.silver-spirits.com/privacy-policy) for the most accurate reproduction.*
 
 # Silver-Spirits.com | Working Mom, Fashion, Parenting, Marriage » Privacy Policy
 
