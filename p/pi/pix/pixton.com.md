@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501102926id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030104705id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixton for Fun
 
 ## Privacy Policy
 
-Last updated on April 25, 2011.
+Last updated on September 10, 2012.
 
 ### Our Commitment to Privacy
 
@@ -34,9 +34,7 @@ We collect the following types of personal information from all Pixton members:
 
 
 
-Additionally, we collect the following types of personal information, by product:
-
-#### PIXTON FOR FUN
+Additionally, we may collect the following types of personal information:
 
   * Facebook User ID, OR: screen name, email address, password, birth date, country, and gender;
   * email address and phone number of parent, if applicable;
@@ -45,36 +43,21 @@ Additionally, we collect the following types of personal information, by product
 
 
 
-#### PIXTON FOR SCHOOLS
-
-  * email address (required for Teachers, optional for Students);
-  * name (does not have to be real name); and
-  * institution name, address, city, province/state, country, postal/zip code, phone number, first name, last name, title (main Teacher or Administrator only).
-
-
-
-#### PIXTON FOR BUSINESS
-
-  * Facebook user ID, OR: email address, first name, last name, job title, company name, website, phone number, city, province/state, country, postal/zip code.
-
-
-
 ### How Do We Collect Information?
 
 We collect information from you in a variety of ways, including the following: 
 
   * sign-up forms;
-  * our "contact us" form;
-  * comments you provide to us;
-  * comics you create;
-  * private messages you send and receive;
   * profile fields (freestyle text fields);
-  * third-party services such as Google API (which includes Google Translate and Google Maps);
-  * send-to-a-friend and invite-your-friends forms you fill out;
   * the Google Interactive map (if you indicate your approximate location on it); and
+  * send-to-a-friend and invite-your-friends forms you fill out;
+  * third-party services such as Google API (which includes Google Translate and Google Maps);
+  * our "contact us" form;
   * email messages which may contain code that allows us to track whether the message was opened and/or links clicked.
 
 
+
+We strongly advise you not to submit personal information as part of comments, comics, private messages, or other content you create. However, if you do, the information will be stored in our database and treated the same as other personal information collected from you.
 
 ### Purposes
 
@@ -83,15 +66,15 @@ We collect, use and disclose your personal information for the following purpose
   * to respond to or follow-up regarding any comments you submit to us;
   * to open your membership account;
   * to authenticate your identity;
+  * to track email and site usage statistics;
+  * to protect us, you and others from fraud and error and to safeguard our business interests;
+  * to comply with legal and regulatory requirements;
+  * as part of a sale of any or all of our business;
   * to apply our policies, such as minimum age policies;
   * to process your payments through our third party payment processors;
   * to facilitate communication and sharing among our members;
-  * to allow members to share comics with their friends and tell their friends about our site;
-  * to track email and site usage statistics;
-  * to link members' Pixton accounts to third party accounts such as Facebook, and to integrate third-party authentication, such as Facebook authentication;
-  * to protect us, you and others from fraud and error and to safeguard our business interests;
-  * to comply with legal and regulatory requirements; and
-  * as part of a sale of any or all of our business.
+  * to allow members to share comics with their friends and tell their friends about our site; and
+  * to link members' Pixton accounts to third party accounts such as Facebook, and to integrate third-party authentication, such as Facebook authentication.
 
 
 
@@ -99,13 +82,13 @@ The above collections, uses and disclosures are a reasonably necessary part of y
 
   * to personalize your experience with us through our website and through our customer service representatives;
   * to communicate to members news about us and our services;
-  * to allow us and third parties to offer additional or alternate products and services to you;
-  * to evaluate and improve our products and services; and
-  * to invite you to participate in surveys, contests or special events.
+  * to evaluate and improve our products and services;
+  * to invite you to participate in surveys, contests or special events; and
+  * to allow us and third parties to offer additional or alternate products and services to you.
 
 
 
-You may instruct us to refrain from using or sharing your personal information in any or all of the five ways described above at any time by providing written notification to our Privacy Officer. We acknowledge that the sharing of your personal information in any or all of the five ways described above is at your option and we will not refuse you access to any product or service merely because you have advised us to stop using or sharing your personal information in any or all of the five ways shown. You may also opt out of certain disclosures by logging into your Pixton account, navigating to your Account Settings page, and changing your privacy settings.
+You may instruct us to refrain from using or sharing your personal information in any or all of the five ways described above at any time by providing written notification to our Privacy Officer. We acknowledge that the sharing of your personal information in any or all of the five ways described above is at your option and we will not refuse you access to any product or service merely because you have advised us to stop using or sharing your personal information in any or all of the five ways shown. You may also opt out of certain disclosures by logging into your Pixton account, navigating to your Account Settings page, and changing your email notification and privacy settings.
 
 If we want to use your personal information for a new purpose, we will disclose this to you and ask for your consent unless the new use is already authorized or required by law.
 
