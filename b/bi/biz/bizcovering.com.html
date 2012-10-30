@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bizcovering.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630231919id_/http%3A//bizcovering.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizcovering.com privacy policy that was archived on 2012-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121030210541id_/http%3A//bizcovering.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -205,8 +205,19 @@ function showTriondSignupForm()
 </head>
 
 <body> 
-		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
-		
+<!-- 
+		<script language="JavaScript" src="http://j.maxmind.com/app/geoip.js"></script>
+ -->
+		<script>
+			triond_user_logged_in = false;
+//			if (geoip_country_code() != 'CN'){
+//				document.write('<scr' + 'ipt type="text/javascript" src="http://www.triond.com/login/is-logged-in"></s' + 'cript>');
+//			} else {
+//				impression_country = 'CN';
+//			}
+		</script>
+ 
+
 <div id="wrapper">
 
 	<div id="header">
@@ -217,27 +228,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=589");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=589&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=44604988245&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=af52d5&amp;cb=e632294015b7a9860854dfd08729a794' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=589&amp;cb=e632294015b7a9860854dfd08729a794&amp;n=af52d5' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('leaderboard')</script>		</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=589");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=589&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=72957622535&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=87accb&amp;cb=2c3467879ba3e2d39ab9ce0b6f6e71c5' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=589&amp;cb=2c3467879ba3e2d39ab9ce0b6f6e71c5&amp;n=87accb' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('leaderboard')</script>		</div>
 		
 	</div><!--  #header -->
 
@@ -384,27 +398,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=788");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=788&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=75775980325&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=ebcfba&amp;cb=6abd317e0b64ecc992b2684be440d6bb' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=788&amp;cb=6abd317e0b64ecc992b2684be440d6bb&amp;n=ebcfba' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160')</script>			</li>	
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=788");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=788&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=5669043412&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=a3b04a&amp;cb=8c3da5a630164af468a5c6d898f3f0ae' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=788&amp;cb=8c3da5a630164af468a5c6d898f3f0ae&amp;n=a3b04a' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160')</script>			</li>	
 
 		</ul>
 	</div><!-- #primary .sidebar -->
@@ -415,27 +432,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=590");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=590&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=25692606946&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=834c1b&amp;cb=5b45bd34e59b4085a4554a2126985944' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=590&amp;cb=5b45bd34e59b4085a4554a2126985944&amp;n=834c1b' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad300')</script>			</li>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=590");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=590&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=93680979375&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=d92f56&amp;cb=b5fa2eb1460d3d87e86c7b2d48d7eef8' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=590&amp;cb=b5fa2eb1460d3d87e86c7b2d48d7eef8&amp;n=d92f56' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad300')</script>			</li>
 	
 		<div id="subscription">
 			<div id="subscribe-rss">
@@ -458,27 +478,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=248");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=248&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=19432196824&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=cdc8ae&amp;cb=88fd3a9ab195b1cef9ce15960ecd3082' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=248&amp;cb=88fd3a9ab195b1cef9ce15960ecd3082&amp;n=cdc8ae' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160-right')</script>			</li>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=248");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=248&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=12513527412&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c0b02d&amp;cb=11a403bc5412b344c1f13edb61e7b4af' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=248&amp;cb=11a403bc5412b344c1f13edb61e7b4af&amp;n=c0b02d' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160-right')</script>			</li>
 	
 		<ul class="xoxo">
 		
@@ -502,34 +525,37 @@ function showTriondSignupForm()
 			<li id="popularposts">
 				<div class="sidebar-title">Popular Articles</div>	
 				<ul class="sidebar-list">
-					<li><a href="http://bizcovering.com/business/mels-dirtiest-jobs/" title="Mels' Dirtiest Jobs"> Mels' Dirtiest Jobs</a></li><li><a href="http://bizcovering.com/business/using-eggs-safely/" title="Using Eggs Safely!"> Using Eggs Safely!</a></li><li><a href="http://bizcovering.com/business/orange-sweet-dish/" title="Orange Sweet Dish"> Orange Sweet Dish</a></li><li><a href="http://bizcovering.com/investing/building-your-own-real-estate-empire/" title="Building Your Own Real Estate Empire"> Building Your Own Real Estate Empire</a></li><li><a href="http://bizcovering.com/business/what-is-hard-water/" title="What is Hard Water?"> What is Hard Water?</a></li><li><a href="http://bizcovering.com/business/the-world-of-petroleum/" title="The World of Petroleum"> The World of Petroleum</a></li><li><a href="http://bizcovering.com/marketing-and-advertising/internet-marketinga-strategic-promotional-tool/" title="Internet Marketing:a Strategic Promotional Tool"> Internet Marketing:a Strategic Promotional Tool</a></li><li><a href="http://bizcovering.com/real-estate/points-to-consider-before-hiring-a-property-inventory-clerk/" title="Points to Consider Before Hiring a Property Inventory Clerk"> Points to Consider Before Hiring a Property Inventory Clerk</a></li><li><a href="http://bizcovering.com/real-estate/understanding-the-significance-of-inventory-clerks/" title="Understanding The Significance of Inventory Clerks"> Understanding The Significance of Inventory Clerks</a></li><li><a href="http://bizcovering.com/business/future-of-paper-shredding-business/" title="Future of Paper Shredding Business"> Future of Paper Shredding Business</a></li>				</ul>
+					<li><a href="http://bizcovering.com/employment/job-searches-on-the-internet/" title="Job Searches on The Internet"> Job Searches on The Internet</a></li><li><a href="http://bizcovering.com/business/yamaha-ef2000is-inverter-generator-facts/" title="Yamaha Ef2000is Inverter Generator Facts"> Yamaha Ef2000is Inverter Generator Facts</a></li><li><a href="http://bizcovering.com/business/sugar-addiction-the-cause-for-the-rising-obesity-and-how-to-overcome-it/" title="Sugar Addiction, The Cause for The Rising Obesity, and How to Overcome It"> Sugar Addiction, The Cause for The Rising Obesity, and How to Overcome It</a></li><li><a href="http://bizcovering.com/business/organic-foods-are-costly/" title="Organic Foods are Costly"> Organic Foods are Costly</a></li><li><a href="http://bizcovering.com/business/dangers-from-uncontrolled-e-waste/" title="Dangers From Uncontrolled E-waste"> Dangers From Uncontrolled E-waste</a></li><li><a href="http://bizcovering.com/marketing-and-advertising/embroidery-traditions-of-gujarat-in-india/" title="Embroidery Traditions of Gujarat in India"> Embroidery Traditions of Gujarat in India</a></li><li><a href="http://bizcovering.com/business/what-is-success-2/" title="What is Success?"> What is Success?</a></li><li><a href="http://bizcovering.com/business/chickpea-shrimp-and-caper-ragu/" title="Chickpea, Shrimp, and Caper Ragu"> Chickpea, Shrimp, and Caper Ragu</a></li><li><a href="http://bizcovering.com/business/a-victory-of-sorts-by-the-little-man/" title="A Victory of Sorts by The Little Man"> A Victory of Sorts by The Little Man</a></li><li><a href="http://bizcovering.com/business/see-that-rash-and-other-things-you-dont-want-to-seehear-in-an-elevator/" title="" see="" that="" rash"="" and="" other="" things="" you="" don't="" want="" to="" hear="" in="" an="" elevator"=""> "See That Rash" and Other Things You Don't Want to See/hear in an Elevator</a></li>				</ul>
 			</li>
 			<li id="ad300">
 				
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1038");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1038&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=69028493844&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=8efc02&amp;cb=8faa66e4b62a830deb900f138117bc5c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1038&amp;cb=8faa66e4b62a830deb900f138117bc5c&amp;n=8efc02' border='0' alt='' /></a></noscript>			</li>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1038");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1038&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=72460016574&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=126700&amp;cb=9c37f6d16f2f0c36d051d3664f4b03c8' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1038&amp;cb=9c37f6d16f2f0c36d051d3664f4b03c8&amp;n=126700' border='0' alt='' /></a></noscript>			</li>
 			
 			<!-- 
 			<li id="ad125">
@@ -537,7 +563,7 @@ function showTriondSignupForm()
 			 -->	
 			<li id="triond-signup">
 				
-	<div id="triond-signup-div" style="display:none">
+	<div id="triond-signup-div" style="display: block;">
 	</div>
 	<script type="text/javascript">
 	if(typeof triond_user_logged_in != "undefined")
@@ -587,7 +613,7 @@ function showTriondSignupForm()
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=905&amp;rnd=2836512470"><script type="text/javascript">
+<script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t11._setAccount', 'UA-1488967-11']);_gaq.push(['t11._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -620,53 +646,59 @@ var _sf_async_config={uid:6902};
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1376");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1376&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=32101220827&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=8c1926&amp;cb=e077be54a9cf10c98a399f54971d02fb' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1376&amp;cb=e077be54a9cf10c98a399f54971d02fb&amp;n=8c1926' border='0' alt='' /></a></noscript>	</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1376");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1376&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=47452952011&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=d571e6&amp;cb=5e000100227706d059b348b607666db1' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1376&amp;cb=5e000100227706d059b348b607666db1&amp;n=d571e6' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=975");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=975&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=54949783387&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=36831a&amp;cb=d6b084075b54fcce9cb38cef7e86bf8c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=975&amp;cb=d6b084075b54fcce9cb38cef7e86bf8c&amp;n=36831a' border='0' alt='' /></a></noscript>	</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=975");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=975&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=48370590182&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4be247&amp;cb=bf18201e78099ea624c6c47e22eb1bb0' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=975&amp;cb=bf18201e78099ea624c6c47e22eb1bb0&amp;n=4be247' border='0' alt='' /></a></noscript>	</div>
 <!-- start eXelate tag - Triond - Default Site -->
 
 <script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=005&amp;c=20205&amp;ctg=business&amp;subctg=uncategorized"></script>
@@ -676,49 +708,55 @@ var _sf_async_config={uid:6902};
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1576");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1576&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=23303830625&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=261319&amp;cb=a7ee74f3cd161d2ff34db42fbe7b977a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1576&amp;cb=a7ee74f3cd161d2ff34db42fbe7b977a&amp;n=261319' border='0' alt='' /></a></noscript>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1576");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1576&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=15728280021&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=b9995a&amp;cb=edd284fe24e076ea4c90a0c55812be29' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1576&amp;cb=edd284fe24e076ea4c90a0c55812be29&amp;n=b9995a' border='0' alt='' /></a></noscript>
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1586");
-					   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1586&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=50913878819&amp;loc=https%3A//web.archive.org/web/20120630231919id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=680a39&amp;cb=fd0168a84c0fdcd9e83990f53df204bb' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1586&amp;cb=fd0168a84c0fdcd9e83990f53df204bb&amp;n=680a39' border='0' alt='' /></a></noscript>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1586");
+						   document.write ("&clr_link=2181BA&clr_title=158A3B&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=414141&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1586&amp;clr_link=2181BA&amp;clr_title=158A3B&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=414141&amp;source=acf=nontriond&amp;cb=20251232431&amp;loc=https%3A//web.archive.org/web/20121030210541id_/http%253A//bizcovering.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=442c03&amp;cb=ddaaf0814989057e0860f41405996194' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1586&amp;cb=ddaaf0814989057e0860f41405996194&amp;n=442c03' border='0' alt='' /></a></noscript>
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
