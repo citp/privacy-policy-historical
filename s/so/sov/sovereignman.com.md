@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616074930id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030040515id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,19 +22,21 @@ a. We will use your Personal Information to process your subscription or request
 
 (1) Online Orders. When you purchase a subscription from us, we will request certain Personal Information, including credit card information. Individuals who do not have a Visa, MasterCard or American Express credit card are not permitted to make purchases with us online.
 
-(2) Sharing Information with Other Companies. We may share your Personal Information (but never your credit card or password information) with our affiliates or with third parties who provide services to us and agree to keep your Personal Information confidential.
+(2) Sharing Information with Other Companies. We may share your Personal Information (but never your credit card or password information) with third party service providers, such as the service provider which distributes our daily emails. Each provider agrees to keep your Personal Information confidential.
 
 (3) Mailing and Email Addresses. We will use your mailing and email addresses to send you the publications you have subscribed to. We may also contact you with questions about your subscription or service, or to remind you of your password, if necessary. If you submit an inquiry via email about one of your subscriptions, for security reasons we may ask you to provide additional information so we can verify your identity.
 
 b. We may send you information and special offers on our other products. We may also, on occasion, use your mailing or email address to send you information or special offers from select companies that offer products, services or information we believe may be of interest to you. Though we hope you gain value from the email messages you receive, you can choose to opt out of receiving further messages by following the instructions provided at the bottom of each email.
 
-You may, at any time, request to not have your mail and email information used for information and offers from us or other companies by contacting our customer service center at +852 819 25725.
+You may, at any time, request to not have your mail and email information used for information and offers from us or other companies by contacting our customer service center at admin@sovereignman.com.
 
-c. We will only disclose your Personal Information to our employees, affiliates, agents, contractors, or other third parties who have a need to know such information for the uses listed above. Except as provided above, we will not disclose Personal Information to any other third parties.
+c. We will only disclose your Personal Information to our employees, contractors, or other third parties who have a critical need to know such information for the uses listed above. Except as provided above, we will not disclose Personal Information to any other third parties.
 
-d. Personal Information may also be aggregated with such information from other visitors to the Sites such that the information no longer personally identifies you. We may use the aggregated information for the general purpose of evaluating our market and/or business trends, our customer demographics, interests and behavior, our past and future product or service offerings and/or pricing, or other aspects of our business. We may share such aggregated information with our business partners, vendors, distributors or other collaborators, for these same purposes. We may also sell or license such aggregate information to one or more third parties for use in a similar manner.
+d. Personal Information may also be aggregated with such information from other visitors to the Sites such that the information no longer personally identifies you. We may use the aggregated information for the general purpose of evaluating our market and/or business trends, our customer demographics, interests and behavior, our past and future product or service offerings and/or pricing, or other aspects of our business.
 
-e. We also retain the right to release your Personal Information when required by law or when we, in good faith, believe that we must release the information in order to: (1) satisfy a legal order or comply with legal process; (2) defend our rights or those of our affiliates or business partners; or (3) protect the personal safety of our employees, agents, affiliates, business partners, customers, or site users. We also retain the right to transfer your Personal Information in the context of the sale of all or part of our business.
+e. If requested by a legal authority to release your information, this company will vigorously defend against any such request.
+
+f. We retain the right to transfer your Personal Information in the context of the sale of all or part of our business.
 
 4\. Security.
 
@@ -54,6 +56,6 @@ Please note that you are responsible for updating your personal information with
 
 7\. Contacting Us.
 
-You may contact us regarding this Privacy Policy by contacting our customer service center at +852 819 25725 or by writing to Blacksmith Pte. Ltd., 20 Cecil Street #14-01, Singapore 049705.
+You may contact us regarding this Privacy Policy by contacting our customer service center at +852 819 25725 or by writing to Blacksmith Pte. Ltd., No.4 Kiarong Complex Gadong 2nd Floor Block D BSB, Brunei-Muara BE1318Brunei Darussalam
 
-Effective as of September 15, 2010.
+Effective as of October 15, 2012.
