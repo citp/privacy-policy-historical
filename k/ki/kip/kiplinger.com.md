@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611023035id_/http%3A//www.kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030161904id_/http%3A//www.kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Following are the specifics of how we protect your privacy.
 
 **WHEN YOU PARTICIPATE IN AN ONLINE SURVEY.** We may share survey information about our users with advertisers and business partners. However, we keep and share only aggregate numbers. For example, we will say x percent of our users are females and y percent males. We do not reveal any individual information about you.
 
-**WHEN YOU SIGN UP FOR E-MAIL UPDATES AND COLUMNS.** Kiplinger promotions, as well as outside advertising, will appear on e-mail alerts. From time to time, Kiplinger may send you e-mail notifications about new or existing products and services, new web site features, special offers, or to otherwise contact you. Your e-mail address will not be released to other companies or organizations. You can remove your name from the e-mail subscription list at any time by using the unsubscribe link at the bottom of each of our e-mails. 
+**WHEN YOU SIGN UP FOR E-MAIL UPDATES AND COLUMNS.** Kiplinger promotions, as well as outside advertising, will appear on e-mail alerts. From time to time, Kiplinger may send you e-mail notifications about new or existing products and services, new web site features, special offers, or to otherwise contact you. **If you do not wish to receive emails from us**. All our free email alert services and special offer emails include an unsubscribe link at or near the bottom of the email. To unsubscribe, simply follow the link and enter your preferences. For more information, please see the contact information at the bottom of this page. 
 
   * YOUR ABILITY TO CHOOSE. We offer you the opportunity to choose whether to receive marketing information from Kiplinger if you sign up for an e-mail alert. If you subscribe to an e-mail alert, you may update your communication preferences by visiting our E-Mail Alert Sign Up page ([http://www.kiplinger.com/email](http://www.kiplinger.com/email/)).
 
@@ -35,3 +35,7 @@ Following are the specifics of how we protect your privacy.
 **POLICY MODIFICATIONS.** When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated. 
 
 **EXCEPTIONAL CIRCUMSTANCES.** In addition to the above circumstance, we may disclose information about you (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. 
+
+The Kiplinger Washington Editors, Inc.   
+1100 13th Street, NW Suite 750  
+Washington, D.C. 20005
