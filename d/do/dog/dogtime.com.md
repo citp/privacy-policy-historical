@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621173243id_/http%3A//dogtime.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030143749id_/http%3A//dogtime.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
