@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prontohome.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119041916id_/http%3A//www.prontohome.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prontohome.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030082659id_/http%3A//www.prontohome.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
@@ -15,7 +15,6 @@ Pronto LLC
 555 West 18th Street  
 4th Floor  
 New York, NY 10011  
-[www.pronto.com](https://web.archive.org/)  
 [Email Privacy Officer](https://web.archive.org/help/about/contactPrivacyOfficerForm.do)  
 
 
