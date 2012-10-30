@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zattoo.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615070318id_/http%3A//corporate.zattoo.com/datenschutz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zattoo.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030080018id_/http%3A//corporate.zattoo.com/datenschutz) for the most accurate reproduction.*
 
 # Privacy Policy | Zattoo
 
@@ -82,7 +82,7 @@ Zattoo may buy or sell business units or subsidiaries. In such cases – as well
 
 The User may at any time require information about his or her personal data as held by Zattoo, the correction or updates to incorrect information, that Zattoo cease to collect personal data or that Zattoo delete the User’s personal data. Zattoo may however, still be required to retain certain data where state authorities require it by law or court judgement, e.g. where a court decrees that certain data must be saved and held ready for inspection.
 
-Applications for access to personal data should be submitted by e-mail to: legal@zattoo.com or in writing to: Zattoo Europe Ltd., Customer Support, Eggbuehlstrasse 28, CH-8050 Zuerich, Switzerland.
+Applications for access to personal data should be submitted by e-mail to: legal@zattoo.com or in writing to: Zattoo Europe Ltd., Customer Support, Eggbuehlstrasse 28, CH-8050 Zuerich, Switzerland. If you would like to delete your account or cancel your subscription you find further information here: [Delete account](https://zattoo.zendesk.com/entries/20251491-how-can-i-delete-my-account-permanently); [Cancel subscription](https://zattoo.zendesk.com/entries/20249128-how-can-i-cancel-my-subscription).
 
 **10\. FURTHER DATA PROTECTION AGREEMENTS**
 
@@ -167,7 +167,7 @@ Zattoo may buy or sell business units or subsidiaries. In such cases – as well
 
 The User may at any time require information about his or her personal data as held by Zattoo, the correction or updates to incorrect information, that Zattoo cease to collect personal data or that Zattoo delete the User’s personal data. Zattoo may however, still be required to retain certain data where state authorities require it by law or court judgement, e.g. where a court decrees that certain data must be saved and held ready for inspection.
 
-Applications for access to personal data should be submitted by e-mail to: legal@zattoo.com or in writing to: Zattoo Switzerland Ltd., Customer Support, Seestrasse 30a, 8806 Baech, Switzerland. You can find more information at www.edoeb.admin.ch.
+Applications for access to personal data should be submitted by e-mail to: legal@zattoo.com or in writing to: Zattoo Switzerland Ltd., Customer Support, Seestrasse 30a, 8806 Baech, Switzerland. You can find more information at www.edoeb.admin.ch. If you would like to delete your account or cancel your subscription you find further information here: [Delete account](https://zattoo.zendesk.com/entries/20251491-how-can-i-delete-my-account-permanently); [Cancel subscription](https://zattoo.zendesk.com/entries/20249128-how-can-i-cancel-my-subscription).
 
 **10\. FURTHER DATA PROTECTION AGREEMENTS**
 
