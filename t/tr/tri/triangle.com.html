@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the triangle.com privacy policy that was archived on 2012-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519104426id_/http%3A//www.triangle.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the triangle.com privacy policy that was archived on 2012-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121030144607id_/http%3A//www.triangle.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
@@ -56,8 +56,8 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 -->
 </script>
 
-<!-- templates/ads/dart_init.ett :start -->
-<!-- templates/ads/dart_init.ett :end -->
+<!-- support/ads/dart_init.ett :start -->
+<!-- support/ads/dart_init.ett :end -->
 
 
 
@@ -162,12 +162,27 @@ function getVarFromUrl(str) {
 	miAppControler.prototype.findnsave = 0;
   miAppControler.prototype.dealsaver = 1;
 
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
+	*/  
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
+
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
 pageInfo.section.id = 133;
+pageInfo.asset = "";
+pageInfo.asset.id = "";
 
  
-
+pageInfo.type = "section-front";
 </script>
 
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAADB86yTuJCxFGEMnUrGMgFBSIJu-AmtwRNYay0bKhJ9RdDdsPpRRA7QDecaQGq4iY6RAumlsE-cS2KQ">
@@ -260,7 +275,11 @@ $(document).ready( function() {
 
 
  
- <!-- start: templates/hnews/apregistry_init.ett  --><!-- end: templates/hnews/apregistry_init.ett  -->
+ <!-- start: support/hnews/apregistry_init.ett  -->
+
+
+
+<!-- end: support/hnews/apregistry_init.ett  -->
  
 
 
@@ -290,50 +309,50 @@ $(document).ready( function() {
 	<div class="container">
 		<ul class="tabs">
 			<li class="nao tab">
-				<a href="http://www.newsobserver.com" target="_parent">newsobserver</a>
+				<a href="http://www.newsobserver.com/#navlink=navbar" target="_parent">newsobserver</a>
 			</li>
 			<li class="triangle tab">
-				<a href="http://www.triangle.com" target="_parent">triangle</a>
+				<a href="http://www.triangle.com/#navlink=navbar" target="_parent">triangle</a>
 			</li>
 			<li class="mom2mom tab">
-				<a href="http://www.trianglemom2mom.com" target="_parent">trianglemom2mom</a>
+				<a href="http://www.trianglemom2mom.com/#navlink=navbar" target="_parent">trianglemom2mom</a>
 			</li>
 			<li class="trianglejobs tab">
-				<a href="http://www.trianglejobs.com" target="_parent">trianglejobs</a>
+				<a href="http://www.trianglejobs.com/#navlink=navbar" target="_parent">trianglejobs</a>
 			</li>
 			<li class="communities tab">
 				<a href="#communities">communities</a>
 				<div id="communities">
 					<ul>
 						<li>
-							<a href="http://www.carynews.com/">cary news</a>
+							<a href="http://www.carynews.com/#navlink=navdrop">cary news</a>
 						</li>
 						<li>
-							<a href="http://www.chapelhillnews.com/">chapel hill news</a>
+							<a href="http://www.chapelhillnews.com/#navlink=navdrop">chapel hill news</a>
 						</li>
 						<li>
-							<a href="http://www.claytonnewsstar.com/">clayton news star</a>
+							<a href="http://www.claytonnewsstar.com/#navlink=navdrop">clayton news star</a>
 						</li>
 						<li>
-							<a href="http://www.thedurhamnews.com/">durham news</a>
+							<a href="http://www.thedurhamnews.com/#navlink=navdrop">durham news</a>
 						</li>
 						<li>
-							<a href="http://www.easternwakenews.com/">eastern wake news</a>
+							<a href="http://www.easternwakenews.com/#navlink=navdrop">eastern wake news</a>
 						</li>
 						<li>
-							<a href="http://www.garnerclayton.com/">garner cleveland record</a>
+							<a href="http://www.garnerclayton.com/#navlink=navdrop">garner cleveland record</a>
 						</li>
 						<li>
-							<a href="http://www.theherald-nc.com/">the herald</a>
+							<a href="http://www.theherald-nc.com/#navlink=navdrop">the herald</a>
 						</li>
 						<li>
-							<a href="http://www.midtownraleighnews.com/">midtown raleigh news</a>
+							<a href="http://www.midtownraleighnews.com/#navlink=navdrop">midtown raleigh news</a>
 						</li>
 						<li>
-							<a href="http://www.northraleighnews.com/">north raleigh news</a>
+							<a href="http://www.northraleighnews.com/#navlink=navdrop">north raleigh news</a>
 						</li>
 						<li>
-							<a href="http://www.southwestwakenews.com/">southwest wake news</a>
+							<a href="http://www.southwestwakenews.com/#navlink=navdrop">southwest wake news</a>
 						</li>
 					</ul>
 				</div>
@@ -378,14 +397,14 @@ $(document).ready( function() {
 
  
 <div class="advertisement ts_shared_ads_leaderboard dart3" id="dart_728x90_ats_1">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=1;!c=news;pub=TriangleDotCom2;ord=168296454571529' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=1;!c=news;pub=TriangleDotCom2;ord=657132205719080' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -394,13 +413,13 @@ $(document).ready( function() {
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=1;!c=news;pub=TriangleDotCom2;ord=168296454571529;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=1;!c=news;pub=TriangleDotCom2;ord=168296454571529;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=1;!c=news;pub=TriangleDotCom2;ord=657132205719080;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=1;!c=news;pub=TriangleDotCom2;ord=657132205719080;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div><!-- /.advertisement ts_shared_ads_leaderboard -->
@@ -429,7 +448,7 @@ $(document).ready( function() {
 
 
 <div id="weather_widget">
-	<a href="http://newsobserver.accuweather.com/mcclatchy/news_observer/forecast.asp" class="icon"><img src="http://media2.newsobserver.com/static/images/weather/smallicons/04.gif"></a><a href="http://newsobserver.accuweather.com/mcclatchy/news_observer/forecast.asp">55°F</a>
+	<a href="http://www.newsobserver.com/weather" class="icon"><img src="http://media2.newsobserver.com/static/images/weather/smallicons/12.gif"></a><a href="http://www.newsobserver.com/weather">45°F</a>
 </div>
 
 
@@ -778,14 +797,14 @@ $(document).ready( function() {
 
  
 <div class="advertisement ts_pubsys_section_section_content dart3" id="dart_300x250_ats_1">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=2;!c=news;pub=TriangleDotCom2;ord=168296454571529' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=2;!c=news;pub=TriangleDotCom2;ord=657132205719080' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -794,13 +813,13 @@ $(document).ready( function() {
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=2;!c=news;pub=TriangleDotCom2;ord=168296454571529;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=2;!c=news;pub=TriangleDotCom2;ord=168296454571529;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=2;!c=news;pub=TriangleDotCom2;ord=657132205719080;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.naotr/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=2;!c=news;pub=TriangleDotCom2;ord=657132205719080;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div><!-- /.advertisement ts_pubsys_section_section_content -->
@@ -852,14 +871,14 @@ $(document).ready( function() {
 
  
 <div class="advertisement ts_pubsys_section_section_content dart3" id="dart_300x100_bts_1">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.naotr/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=3;dcopt=ist;!c=news;pub=TriangleDotCom2;ord=168296454571529' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.naotr/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=3;dcopt=ist;!c=news;pub=TriangleDotCom2;ord=657132205719080' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -868,13 +887,13 @@ $(document).ready( function() {
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.naotr/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=3;dcopt=ist;!c=news;pub=TriangleDotCom2;ord=168296454571529;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.naotr/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=3;dcopt=ist;!c=news;pub=TriangleDotCom2;ord=168296454571529;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.naotr/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=3;dcopt=ist;!c=news;pub=TriangleDotCom2;ord=657132205719080;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.naotr/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=3;dcopt=ist;!c=news;pub=TriangleDotCom2;ord=657132205719080;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div><!-- /.advertisement ts_pubsys_section_section_content -->
