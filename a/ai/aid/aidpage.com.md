@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aidpage.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512231204id_/http%3A//www.peoplenetworks.com/legal/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aidpage.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030230313id_/http%3A//peoplenetworks.com/legal/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - People Networks Inc.
 
