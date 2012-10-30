@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guruplay.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232018id_/http%3A//www.guruplay.com/en/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guruplay.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030111039id_/http%3A//www.guruplay.com/en/security-and-privacy) for the most accurate reproduction.*
 
 # Live Casino Games, UK Online Slots, Roulette & Poker Tournaments for Real Money Gambling Site |Free Live Black Jack & Live Dealer High Roller Casino TV | Table Games Promotion Bonus Offers, Video Poker Room Site, Baccarat, Best Roulette | Guru Play.com
 
@@ -65,7 +65,7 @@ For example, a cookie will track your login details and be stored as an anonymou
 
 If one of our advertisers or partners uses cookies then this lies outside of our control. For more information about cookies, including how to disable them, visit [www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies).
 
-Cookies are required to be enabled on GuruPlay, and turning them off will disable some of the features of the website. If you have any issues with your PC that you feel may be cookie related, please feel free to have a look at the [FAQs page](https://web.archive.org/web/20120630232018id_/http%3A//www.guruplay.com/en/faq.html), paying particular attention to the Technical subsection.
+Cookies are required to be enabled on GuruPlay, and turning them off will disable some of the features of the website. If you have any issues with your PC that you feel may be cookie related, please feel free to have a look at the [FAQs page](https://web.archive.org/web/20121030111039id_/http%3A//www.guruplay.com/en/faq.html), paying particular attention to the Technical subsection.
 
 #### 6) Website Links
 
