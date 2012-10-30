@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614155434id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030190304id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy ::Emedoutlet Online Pharmacy::
 
