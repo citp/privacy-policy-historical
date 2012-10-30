@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhi.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101353id_/http%3A//www.rhi.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhi.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030142042id_/http%3A//www.rhi.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Robert Half International - Privacy Policy
 
