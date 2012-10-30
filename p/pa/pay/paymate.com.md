@@ -1,147 +1,131 @@
-> *The following text is extracted and transformed from the paymate.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235213id_/http%3A//www2.paymate.com/pm/default.asp%3Ftitle%3DSecurity-and-Privacy%26contentID%3D52) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymate.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030053326id_/http%3A//www.paymate.com/cms/index.php/security-a-privacy) for the most accurate reproduction.*
 
-# Security & Privacy | Paymate - Online payment service - sell online, buy online
+# Paymate - Privacy Policy
 
-[Home](https://web.archive.org/web/20120503235213id_/http%3A//www2.paymate.com/pm/default.asp) > Security & Privacy
+This Privacy Policy applies to all personal information collected by Flexi Online through the website located at [www.paymate.com](http://www.paymate.com/), [www2.paymate.com](http://www2.paymate.com/) and [www.my-paymate-onthego.com](http://www.my-paymate-onthego.com/) (the **Paymate** ******Website** ) or in the course of providing the "Paymate" services (online payment services) or "Paymate on the Go" services (access to the "Paymate" services through use of "Paymate on the Go"). References in this Privacy Policy to **Flexi** ******Online** are references to Flexi Online Pty Ltd (ABN 42 154 594 199) of Level 8, 201 Pacific Highway, St Leonards NSW 2065.
 
-To help clients better understand the personal information we gather and the practices we employ, Paymate has developed a Privacy Policy that covers the following areas:
+Flexi Online recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously.
 
-  * Information collected
-  * Use and disclosure of information
-  * Accessing and updating information about you
-  * Security
-  * Acceptance of and changes to this Privacy Policy
-  * Contact details
+This Privacy Policy sets out how Flexi Online will deal with the personal information that it collects from you, as required by the _Privacy_ ___Act_ ___1988_ __ (Cth). If an alternative processes will apply to any particular personal information, Flexi Online will notify you of the alternative processes at or before the time of collection of that personal information or, where that is not practicable, as soon as practicable after the point of collection.
 
+By using the Paymate Website you consent to us using your personal information in accordance with this Privacy Policy.
 
+## Collecting information
 
-This Privacy Policy applies to your use of the website operated under the domain name www.paymate.com, www2.paymate.com and www.haiwaibao.com (the "Paymate Website") and the services provided by Paymate Pty Ltd ABN 91 093 528 002.
+Flexi Online may collect personal information about you when you use the Paymate Website or when someone else submits information about you to the Paymate Website (in which case we will contact you). We may also collect personal information if you fill in forms for us, during face-to-face meetings, in email messages or during telephone conversations. If you contact us, we may keep a record of that contact.
 
-In addition to this Privacy Policy, there may also be specific and additional privacy provisions that apply to particular Paymate services. Because those specific and additional provisions also relate to your privacy protection, you should review them carefully. To the extent of any inconsistency between the provisions of this Privacy Policy and those other specific and additional provisions, the specific and additional provisions will take priority.
+The main types of personal information we collect include:
 
-Where this Privacy Policy refers to your "personal information", it means information about you (as an individual) from which your identity is apparent, or can reasonably be ascertained. Your name and e-mail address are examples of personal information.
-
-* * *
-
-## Information collected
-
-You can visit the Paymate Website and find out about our products and services without giving us any information about yourself. We may record certain non-personal information, such as your server address, domain name, the date and time of your visit and any pages viewed. That information will only be used for statistical and website administration purposes. To maintain visitor anonymity, we will not associate that information with records containing personal information unless you have consented for us to do so. 
-
-When you register to use Paymate, we require your name, phone number, e-mail address, mailing address, bank account and/or credit card number, and credit card expiration date (if applicable). We will also record any changes you make to this information in the Change Profile section of the Paymate Website. We require this information in order to verify your identity and bank/credit card account authority, to contact you and to provide our services to you. Upon registration, we will provide you with a usercode and password to use Paymate.
-
-If someone else wishes to use Paymate to pay you or receive money from you, we will collect any personal information that they provide about you that is necessary for us to contact you and to perform our services. We will not make any other use of that information if you are not registered with Paymate.
-
-The Paymate Website may contain links to web sites operated by third parties and other websites may contain links to the Paymate Website ("Linked Websites"). If the operators of those Linked Websites collect information about you, we may have access to that information as part of our arrangements with those third parties. Linked Websites should contain their own privacy statements and the operators of Linked Websites are responsible for informing you about their own privacy practices.
-
-When you buy or sell an item using Paymate, we will ask for confirmation of some of the details you have provided on registration, as well as information about the transaction, including the amount and relevant credit card or bank account information.
-
-We may also collect personal information from you if you knowingly provide it to us, for example by sending us an e-mail or providing feedback.
-
-* * *
-
-## Use and disclosure of information
-
-We will not use or disclose (share, sell or divulge) any of your personal information to third parties unless we have informed you, have been authorised by you, or are required or authorised to do so by law.
-
-In order to provide our services or to assess your application, we may need to provide personal information to third parties and they may need to provide personal information about you to us. Purposes for which we may exchange personal information with third parties include to verify your identity or bankruptcy status, to process a transaction, to conduct a commercial credit check, to check for court judgments against you, and to confirm receipt of payment
-
-We may also use your personal information:
-
-  * for purposes related to our research, planning, product development, security, testing and risk management;
-  * for purposes connected with the operation, administration, development or enhancement of the our services and the paymate Website; and
-  * where we suspect that fraud or unlawful activity has been, is being or may be engaged in.
+  * what you tell us about yourself (for example, through the registration process Paymate, the application process for "Paymate on the Go", or when we otherwise ask for information such as your name, phone number, fax number, email address, physical address, date of birth, bank account details and gender);
+  * information about how you use our website (for example, what pages you visit on our site and your IP address); and
+  * information relating to your application for, and use of, the "Paymate" and "Paymate on the Go" services including transactions processed.
 
 
 
-We may provide personal information about you to our service providers who assist us in providing our services and the Paymate Website. We will only disclose your personal information to those third party service providers on a confidential basis so that the service provider can effectively provide those services.
+## Our use of cookies and other online tools
 
-In particular, when processing credit card transactions, we will utilise systems that assist in minimising the risk of credit card fraud. Personal information that we collect about you, including your credit card details, demographic information, such as your address and date of birth, and information about the purchases you have conducted through this website, is required to provide a basis for credit card fraud risk analysis.
+We sometimes use cookie technology on our website and permit third-party advertising companies who serve ads on the Paymate Website to use cookie technology and website traffic analysis tools on our website in a similar way. Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes and are a necessary part of facilitating online transactions. Cookies are useful to estimate traffic patterns through our website. Most website browsers are set to accept cookies.
 
-If you order a shipment through the Paymate Shipping Service, we will provide your personal information by email or other means to the organisation (e.g. DHL) providing the shipping service (as noted in the relevant section of the Paymate Website). That organisation - which may handle your personal information outside Australia - is responsible for its own privacy practices and you should inform yourself of that organisation's applicable privacy policies.
+If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean that you will not be able to take full advantage of the Paymate Website's services.
 
-If you consent to this Privacy Policy, we will transfer the personal information that you have provided to us to third parties in countries outside Australia for the purposes of processing that information to minimise the risk of credit card fraud. The personal information, which is transferred for that purpose, will be stored in that third party's database for use in credit card fraud risk analysis.
+## Using your personal information
 
-If you do not provide us with:
+Our purpose in collecting information about you is to:
 
-  * your personal information, and;
-  * your consent to this Privacy Policy;
-
-
-
-then we will not be able to process your registration and / or credit card transactions.
-
-When you participate in a Paymate transaction, information about you and the transaction will be available to the other party to the transaction. This information will include your name, e-mail address, business name and Australian Business Number if a business, telephone number, mailing address, shipping address, the date and amount of the transaction, however your credit card number and bank account number will not be shown to the other party. If you are a seller using the Paymate TrustMark, this information may be available to potential buyers, as well as the date from which you have been continually registered with Paymate and the number of payments you have received via Paymate since that date. You and other users must maintain the confidentiality of each other's personal information. Please note that other users may be located in a different country to you.
-
-  
-Although such situations are rare, you should be aware that we may disclose your personal information to third parties in any of the following circumstances:
-
-  * where an investigation of fraud or unlawful activity has been or is being conducted by us and the information is disclosed to relevant persons or authorities; or
-  * where the disclosure is required or authorised by law; or
-  * where we believe that the disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of its functions; or
-  * for the preparation for or the conduct of legal proceedings or for the implementation of the orders of a court or tribunal.
+  * facilitate your full use of the Paymate Website and the "Paymate" and "Paymate on the Go" services;
+  * verify your identity and other relevant details when you seek to apply for provision of "Paymate" and "Paymate on the Go" services;
+  * provide you with the "Paymate" services, "Paymate on the Go" services and any other services available from time to time via the Paymate Website;
+  * to process payments and handle chargebacks;
+  * provide you with a better website experience;
+  * to notify you of information directly related to the services you are receiving (such as any changes to our Product Disclosure Statement);
+  * enable us to operate our business efficiently;
+  * improve our services to you; and
+  * comply with any laws.
 
 
 
-In the event that a third party acquires the business assets of Paymate Pty Ltd, that third party may wish to acquire customer information. If this happens, we will take reasonable steps to notify you of any personal information which we propose to transfer and to provide you with an opportunity to opt-out of having your personal information transferred.
+## Use and disclosure of your personal information
 
-We use and disclose aggregated non-personally identifying information as part of our process of constantly improving our services.
+Flexi Online and its related bodies corporate recognise the trust you place in us when you give us personal information. In order to operate the Paymate Website or deliver a service we may sometimes share your personal information with a service partner. Flexi Online will also disclose data to third parties in the following circumstances:
 
-* * *
-
-## Credit Information
-
-If you consent to this Privacy Policy, you agree that Paymate may give information about you to a credit reporting agency to obtain a consumer/commercial report about you and/or allow a credit reporting agency to create or maintain a credit information file containing information about you, listing defaults (minimum AU$100 and 60 days overdue) and exchange information with other credit providers under Sections 18(E)(1) and 18(K) of the Privacy Act 1988.
-
-* * *
-
-## Advertising
-
-We use third-party advertising companies (such as Google AdWords) to serve ads on our web site and other web sites. These companies may use cookies to collect information (not including your name, address, email address or telephone number) about your visits to this and other web sites. They use this information to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. We may also email you with information about our new services and service features from time to time, but will always offer you the ability to 'opt out' of future mailings by clicking on an 'unsubscribe' link.  We may use third party service providers (such as WebCentral Promotions Manager) to distribute such email communications.
-
-* * *
-
-## Accessing and updating information about you
-
-You can access and update your registration information the Change Profile section of the Paymate Website at any time once you have provided your usercode and password. You can also view your recent transactions there. If you need to access or correct any other personal information we hold about you and are unable to do so in the Change Profile section, please contact us using the “Contact Details” set out below. An access fee may be charged. In certain circumstances, we may not be required by law to allow you to access or correct your personal information. If that is the case, we will give you our reasons for that decision.
-
-* * *
-
-## Security
-
-Paymate uses several mechanisms to protect the security and integrity of your personal information
-
-  * All your transactions with Paymate are conducted in 'secure sessions' using the financial industry's Secure Socket Layer (SSL) standards with 128-bit encryption. You should check that your browser is compatible with SSL encryption. This is often indicated by a 'closed lock' icon at the bottom of your screen.
-  * Your username and password are essential for you to access your account details or to conduct a payment transaction. For your own protection, Paymate requires you to keep these confidential and encourage you to change your password regularly. **Please ensure you never provide your Username and/or password to anyone in response to email requests. You will never be asked by Paymate to disclose such information legitimately.**
-  * Paymate transfers financial data securely into the Australian payments clearing system via dedicated telecommunications lines and proprietary banking software to ensure the integrity of our direct debit and credit payments. We process our credit card payments similarly.
-  * Paymate employs qualified, independent auditors to review our security standards and practices on a regular basis to ensure that our software, operational practices and management controls meet the stringent standards of the Australian financial industry.
+  * sending merchant data to banks for checking against such banks' "acceptable merchants policy";
+  * sending information to third parties for identity checking and to confirm bank/credit card account authority;
+  * sending transaction data, including bank account information, to banks for settlement purposes; and
+  * sending transactional data to a third party for fraud monitoring purposes.
+  * We will not otherwise disclose your personal information to other companies without your consent.
 
 
 
-Unfortunately, no data transmission over the Internet can be guaranteed as completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once your personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure.
+Flexi Online will not otherwise use or disclose any personal information about you without your consent, unless:
 
-* * *
+  * the use or disclosure is for one of the purposes described in or otherwise permitted by this Privacy Policy;
+  * the use or disclosure is required or permitted by law;
+  * we believe it necessary to provide you with a service which you have requested;
+  * to implement our terms of service;
+  * we believe it necessary to protect the rights, property or personal safety of another person or Flexi Online; or
+  * the assets and operations of Flexi Online's business are transferred to a third party.
 
-## Acceptance of and changes to this Privacy Policy
 
-We may change this Privacy Policy from time to time. When a variation occurs, we will take reasonable steps to notify you by e-mail at the e-mail address you provide to us on registration, or we will refer you to the variation at the time you next use Paymate or the Paymate Website, or we will publish the Privacy Policy as so varied on the Paymate Website. You accept that by doing this, we have provided you with sufficient notice of variation. Continued use of Paymate and the Paymate Website by you is acceptance of the changed Privacy Policy and any information collected following will be subject to that changed Privacy Policy.
 
-This Privacy Policy is governed by the law of New South Wales, Australia and you and Paymate irrevocably submit to the non-exclusive jurisdiction of the courts of New South Wales, Australia.
+If you do not provide information requested by the Paymate Website, Flexi Online may not be able to provide you with access to or full use of sections of the Paymate Website.
 
-* * *
+## Marketing activities
+
+We do not disclose personal information about you to advertisers. Instead, advertisers give us advertisements and tell us the kind of audience they wish to reach. Flexi Online then takes the advertisement and displays it to end users who are most likely to have an interest in the product or service.
+
+If you have opted-in to receive marketing information from us, we may use your personal information to provide you with information about new or updated products or services we offer or special offers or promotions that you may be interested in.
+
+If you are receiving promotional information about Flexi Online and do not wish to receive this information any longer, please contact us and ask us to remove your name from our mailing list. Alternatively, if you are registered for "Paymate" services, you can log into "my account" on the Paymate Website and change your preferences. You will also be given the option to unsubscribe from any promotional emails that we send to you.
+
+## Access and correction
+
+If you are registered for "Paymate" services, you can access and update your account details at any time through "my account" on the Paymate Website.
+
+If at any time you want to know exactly what personal information we hold about you, you are welcome to access your record in the manner permitted by the _Privacy_ ___Act_ ___1988_ __ (Cth) by contacting us via the contact details set out below.
+
+You may request that we correct personal information we hold about you that is inaccurate or out-of-date by contacting us via the contact details set out below. If you request that we delete your personal information, we will take all reasonable steps to delete it unless we need to keep it for legal, auditing or internal business reasons.
+
+## Storage and security of your personal information
+
+Flexi Online will take all reasonable steps to keep secure any information which we hold about you. We restrict access to personal information to our employees, contractors, agents and personnel who require the information to assist us to operate our business. Our security procedures include the following:
+
+  * All your transactions with Flexi Online are conducted in "secure sessions" using the financial industry's Secure Socket Layer (SSL) standards with 128-bit encryption. You should check that your browser is compatible with SSL encryption. This is often indicated by a "closed lock" icon at the bottom of your screen.
+  * If you have registered, your username and password are essential for you to access your account details or to conduct a payment transaction. For your own protection, Flexi Online requires you to keep these confidential and encourages you to change your password regularly. **Please ensure that you never provide your user name and/or password to anyone in response to email requests. You will never be asked by Flexi Online to disclose such information legitimately.**
+  * Flexi Online transfers financial data securely into the Australian payments clearing system via dedicated telecommunications lines and proprietary banking software to ensure the integrity of our direct debit and credit payments. We process credit card payments in a similar way.
+  * Flexi Online employs qualified, independent auditors to review our security standards and practices on a regular basis to ensure that our software, operational practices and management controls meet the stringent standards of the Australian financial industry.
+
+
+
+Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times. Flexi Online will not be responsible for events arising from unauthorised access to your personal information.
+
+Please note also that Flexi Online uses an overseas facilities in the United States to store information relating to the "Paymate on the Go" service. As a result, we may transfer your personal information to our overseas facilities for storage.
+
+You can also play an important role in keeping your personal information secure by maintaining the confidentiality of any password and accounts on the Paymate Website. Please notify us immediately if there is any unauthorised use or your account by any other internet user or any other breach of security.
+
+## Passwords and log-in security
+
+If you are registered on the Paymate Website, you will have a user name and password. You are responsible for the security of your password and log-in information. You take responsibility to ensure the confidentiality of this information.
+
+## Links to other websites
+
+The Paymate Website provides links to third party websites. These linked sites are not under the control of Flexi Online, and Flexi Online is not responsible for the conduct of companies linked to the Paymate Website. Before disclosing your personal information on any other website, we advise you to examine the privacy policy and terms of use of that website.
+
+## What to do if you have a problem or question
+
+Please let us know if you have any questions about this privacy policy or the way that we handle your personal information.
+
+If you have a complaint about how your personal information has been handled, please let us know immediately.
+
+## Future changes
+
+Our commitment to being a leading provider of online payment services means that our business will continue to evolve as we introduce new services and features to the Paymate Website. Because of this, from time to time, our policies will be reviewed and may be revised. Flexi Online reserves the right to changes its Privacy Policy at any time and notify you by posting an updated version of the policy on the Paymate Website. You should therefore review this Privacy Policy frequently to ensure that you are aware of the most recent version of the Privacy Policy.
 
 ## Contact details
 
-If you have any questions or feedback about privacy or security please contact us at   clientservices@paymate.com or
+You can contact us at [clientservices@paymate.com](mailto:clientservices@paymate.com) or by calling us on the following numbers : in Australia **1800 240 112 (toll free)   \- in New Zealand 0800 000 095 (toll free)**
 
-Paymate
+### Our postal details are:
 
-2105, Woodside Road, Woodside CA 94062 USA  
-Telephone +1 866-376-7028  Fax: +1 650-366-6283.
-
-or
-
-Suite 2505, 31 Market Street Sydney NSW 2000 Australia  
-Telephone +612 9283 6977 Fax: +612 9283 6944.
-
-  
-
+Flexi Online Pty Ltd  
+Level 8, 201 Pacific Highway  
+St. Leonards NSW 2065
