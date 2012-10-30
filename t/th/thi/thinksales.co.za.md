@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinksales.co.za privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501112327id_/http%3A//www.thinksales.co.za/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinksales.co.za privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030102041id_/http%3A//www.thinksales.co.za/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThinkSales
 
@@ -75,3 +75,5 @@ This Privacy Policy may be modified from time to time. If there is a significant
 ## Contacting ThinkSales
 
 Should you have any questions, concerns or suggestions, you may contact ThinkSales.co.za by emailing our webmaster.
+
+Comments are closed.
