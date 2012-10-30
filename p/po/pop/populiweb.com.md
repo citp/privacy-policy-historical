@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525000044id_/http%3A//www.populiweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030061942id_/http%3A//www.populiweb.com/privacy) for the most accurate reproduction.*
 
 # Populi - Privacy Notice
 
