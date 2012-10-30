@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunmaidprize.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513171240id_/http%3A//www.sunmaid.com/sun-maid-internet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunmaidprize.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030134537id_/http%3A//www.sunmaid.com/sun-maid-internet-privacy-policy.html) for the most accurate reproduction.*
 
 # SUN-MAID INTERNET PRIVACY POLICY | Sun-Maid
 
