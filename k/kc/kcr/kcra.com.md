@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603184433id_/http%3A//www.kcra.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030081028id_/http%3A//www.kcra.com/connect/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -122,7 +122,7 @@ If we believe that the security of any user's personal information in our posses
 
 **How can you access and edit your personally identifiable information?**
 
-You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](http://www.kcci.com/connect/email) (if applicable), or if you are a member of the u local community, you may edit your profile preferences [here](http://ulocal.kcra.com/).
+You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/connect/email) (if applicable), or if you are a member of the u local community, you may edit your profile preferences [here](http://ulocal.kcra.com/).
 
 **What Web sites does this Privacy Policy cover?**
 
