@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2shared.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161121id_/http%3A//www.2shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2shared.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030074651id_/http%3A//www.2shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 2shared - Privacy Policy
 
@@ -7,7 +7,7 @@ Your use of www.2shared.com site is governed by 2shared [Terms of Use](https://w
 
 This privacy policy may change from time to time, so you are encouraged to check the page regularly. 2shared will operate this Web site according to the Privacy Policy that is posted at the time. 
 
-When you upload your files to the 2shared server, we will provide you with a unique URL to download your file and administrative link to remove, rename, add description, add password and perform some other operations with your file. Uploading the file means it will become available for public by default via 2shared search. 2shared will provide your file to any web browser requesting your unique URL. 2shared has the right to review your file contents for violations of our Terms of Use. If 2shared determines your file is in violation of 2shared Terms of Use the file will be removed and further actions can be taken in regard of such violation. We reserve the right to cancel your files from our systems. 
+When you upload your files to the 2shared server, we will provide you with a unique URL to download your file and administrative link to remove, rename, add description, add password and perform some other operations with your file. 2shared will provide your file to any web browser requesting your unique URL. 2shared has the right to review your file contents for violations of our Terms of Use. If 2shared determines your file is in violation of 2shared Terms of Use the file will be removed and further actions can be taken in regard of such violation. We reserve the right to cancel your files from our systems. 
 
 **IMPORTANT:** By uploading files to 2shared.com you agree they become publicly available and confirm you have legitimate rights to make these files public. You are responsible for any possible violation of third party rights related to uploaded content in case if this content is not in public domain or you don't have legitimate rights to make the content publicly available. 
 
@@ -23,11 +23,11 @@ Our website utilizes a non-persistent cookie to track your session with our web 
 
 You have the right to access, upload and download your files at any time. You may also grant access to your files to other persons by providing the download link to your audience. 
 
-If for some reason you cannot access your file on 2shared, please contact us at [support@2shared.com](https://web.archive.org/web/20120615161121id_/http%3A//www.2shared.com/support@2shared.com). 
+If for some reason you cannot access your file on 2shared, please contact us at [support@2shared.com](mailto:support@2shared.com). 
 
 **How we protect your information**
 
-Any information collected and processed with 2shared is treated with the utmost confidentiality. 2Shared will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through 2shared will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data. 
+Any information collected and processed with 2shared is treated with the utmost confidentiality. 2shared will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through 2shared will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data. 
 
 Automated and scheduled backups make reliability of the service much higher. Daily copying of the information will let you avoid any unpleasant consequence. 
 
@@ -47,6 +47,4 @@ To access feedback form use the Feedback link at the top right of the screen of 
 
 **Contact Us**
 
-If you have any questions or comments about our Privacy Policy, please contact us at [support@2shared.com](https://web.archive.org/web/20120615161121id_/http%3A//www.2shared.com/support@2shared.com). 
-
-This Privacy Policy was last updated on February 1, 2012. 
+If you have any questions or comments about our Privacy Policy, please contact us at [support@2shared.com](mailto:support@2shared.com). 
