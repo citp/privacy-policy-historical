@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603131631id_/http%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030095432id_/http%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy notice - Privacy notice - University of Leeds
 
@@ -57,10 +57,10 @@ __utmz
 
 [Google analytics terms of service](http://www.google.com/intl/en_uk/analytics/tos.html)  
 NetScaler appliance  
-|  NSC* | These cookies are set by our Citrix NetScaler appliance amnd are used to ensure your browsing session remains on the same web server  
+|  NSC* | These cookies are set by our Citrix NetScaler appliance and are used to ensure your browsing session remains on the same web server  
 |  [Citrix](http://www.citrix.com/)  
 PHP session  
-|  PHPSESSID | This cookie stores a unique ID asigned by the web server. It is used to enable some site functionality to work properly.  
+|  PHPSESSID | This cookie stores a unique ID assigned by the web server. It is used to enable some site functionality to work properly.  
 |  [PHP information  
 ](http://www.php.net/manual/en/intro.session.php)  
 Test cookie  
