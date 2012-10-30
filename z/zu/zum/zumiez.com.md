@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504231510id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030171606id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy at Zumiez
 
@@ -17,10 +17,10 @@ Why do we collect personal information? How do we use it? When do we share it wi
   * Phone: Toll Free at: (877) 828-6929
   * Email: [help@zumiez.com](mailto:help@zumiez.com)
   * Postal Address:  
-Zumiez Inc.  
-6300 Merrill Creek Pkwy Suite B,  
-Everett, WA. 98203  
-Attn: Customer Service
+Zumiez Customer Care  
+9911 B Woodend Rd  
+Edwardsville, KS 66111  
+
 
 
 
@@ -39,10 +39,10 @@ If you need further assistance, please contact Zumiez Customer Service with your
   * Phone: Toll Free at: (877) 828-6929
   * Email: [help@zumiez.com](mailto:help@zumiez.com)
   * Postal Address:  
-Zumiez Inc.  
-6300 Merrill Creek Pkwy Suite B,  
-Everett, WA. 98203  
-Attn: Customer Service
+Zumiez Customer Care  
+9911 B Woodend Rd  
+Edwardsville, KS 66111  
+
 
 
 
@@ -137,9 +137,9 @@ If you no longer want to receive this information, contact us by:
   * Phone: Toll Free at (877) 828 6929
   * Email: [help@zumiez.com](mailto:help@zumiez.com)
   * Postal Address:  
-Zumiez Inc.  
-6300 Merrill Creek Pkwy Suite B  
-Everett, WA. 98203
+Zumiez Customer Care  
+9911 B Woodend Rd  
+Edwardsville, KS 66111
 
 
 
@@ -170,6 +170,28 @@ Links to Other Sites
 
 For your convenience Zumiez.com may contain links to other web sites. Linked web sites operate independently, we are not responsible for webcasting or any other form of transmission received from any linked site. We advise reading the linked site's policies to ensure a better shopping experience.
 
+Zumiez SMS
+
+TERMS AND CONDITIONS
+
+Text CLUB to 91404 to opt in to Zumiez News Alerts. The subscription is a recurring service; 6 messages per week. Message and data rates may apply. Send "HELP" to 91404 for information, or contact support@hipcricket.com, 1-866-HIP-CRIK (866.447.2745). Send "STOP" to 91404 to opt out of the service. You must have a two way text-enabled phone with compatible carrier and plan. Compatible major carriers include Alltel Wireless, AT&T, Boost Mobile, Nextel, Sprint, T-Mobile (R), U.S. Cellular, Verizon Wireless and Virgin Mobile USA. Text messaging is not available in all areas of the United States.
+
+PRIVACY POLICY
+
+We value your participation and we promise to keep your information private and not sell to another 3rd party.
+
+A valid email address is required for email alerts. All messages that you receive MAY include a note from a sponsor - in many cases, this is included so that we can keep the service FREE to you (outside of your carrier charges - we have no control over those).
+
+To opt out of receiving alerts, either...
+
+  * 1\. For text alerts only, text the word "STOP" at anytime to 91404.
+  * 2\. For email alerts only, click on the unsubscribe link within the received alert.
+  * 3\. Email support@hipcricket.com, clearly stating your email address AND REFERENCING THE SOURCE OF THE EMAILS, with instructions that you wish to be opted out of email and/or text alerts.
+
+
+
+Text messaging is not available in all areas, and on all carriers, within the United States. Contact your carrier for more specific details. An internet connection is required to access your email account. You, the subscriber, are responsible for the provision and maintenance of all facilities required to access these accounts. 
+
 Your California Privacy Rights
 
 California Civil Code Section 1798.83 permits customers of the Zumiez who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact Zumiez Customer Service with your questions or comments at:
@@ -191,10 +213,9 @@ Have questions or comments about this policy? Let us know by contacting us at:
   * Phone: Toll Free at: (877) 828-6929
   * Email: [help@zumiez.com](mailto:help@zumiez.com)
   * Postal Address:  
-Zumiez Inc.  
-6300 Merrill Creek Pkwy Suite B,  
-Everett, WA. 98203  
-Attn: Customer Service
+Zumiez Customer Care  
+9911 B Woodend Rd  
+Edwardsville, KS 66111
 
   
 
