@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619211427id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030115021id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
 | 
 
-[ ](https://web.archive.org/web/20120619211427id_/http%3A//www.paydotcom.com/widgetlp.php)  
+[ ](https://web.archive.org/web/20121030115021id_/http%3A//paydotcom.com/widgetlp.php)  
 
 
   
@@ -14,41 +14,9 @@ Sponsored Links
 |   
 ---  
   
-A truly unique and robust business building CRM system.  
+25 complete turn-key businesses built just for you  
   
-http://paydotcom.com/red.php?id=457eed53469a499fc559b3c356943e84  
-  
-* * *  
-  
----  
-  
-Get hundreds of backlinks from unique blogs to any page you want - on autopilot!  
-  
-http://tgli.de/M7q   
-  
-* * *  
-  
----  
-  
-5 reasons why using the franchise model gives you near a 97% success rate.  
-  
-http://tgli.de/M4h   
-  
-* * *  
-  
----  
-  
-Instantly increase your conversions with this new Magic Cart Button  
-  
-http://tgli.de/M4g   
-  
-* * *  
-  
----  
-  
-Offer ends soon, get it while you can !  
-  
-http://tgli.de/M7A   
+http://tgli.de/NAQ  
   
 * * *  
   
@@ -58,7 +26,7 @@ PAYDOTCOM
 
 **PRIVACY POLICY**
 
-[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20120619211427id_/http%3A//www.paydotcom.com/terms.php)
+[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20121030115021id_/http%3A//paydotcom.com/terms.php)
 
 **_Definitions_**
 
