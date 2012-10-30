@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504072637id_/https%3A//www.isocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030121655id_/https%3A//www.isocket.com/privacy) for the most accurate reproduction.*
 
 # isocket
+
+##  Privacy Policy 
 
 isocket values your privacy. We make every reasonable effort to protect and respect your personal and sensitive information. 
 
@@ -118,9 +120,10 @@ You can review your personal information and make any necessary changes, at any 
 If you have questions or concerns regarding this policy, you can contact us by email: [support@isocket.com](mailto:support@isocket.com)
 
 Or write to us at: 
-
-isocket  
-C/O Privacy  
-270 East Ln.  
-Suite #2  
-Burlingame, CA 94010 
+    
+    
+      isocket  C/O Privacy
+      270 East Ln.
+      Suite #1
+      Burlingame, CA 94010
+    
