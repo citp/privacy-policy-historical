@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608231757id_/http%3A//www.vapor4life.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030195235id_/http%3A//www.vapor4life.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Vapor4Life
 
