@@ -1,0 +1,1223 @@
+<!--The following is the downloaded HTML source of the itradecimb.com.sg privacy policy that was archived on 2012-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121030044500id_/https%3A//www.itradecimb.com.sg/app/common.content.z%3Fcat%3D06%26subcat%3D06_05) for the most accurate reproduction.-->
+
+<html><head>
+
+
+
+
+
+
+
+
+    
+    
+        <title>i*Trade@CIMB SG - Privacy</title>
+    
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<!-- 
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+ -->
+ <meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta name="GOOGLEBOT" content="NOARCHIVE">
+
+<script type="text/javascript" src="/app/scripts/util.js"></script>
+<script type="text/javascript" src="/app/scripts/validation.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+	function goToStockFilter() {
+	    window.open('trade.stock.filters.view.z','stockFilter',"scrollbars=1,width=1024,height=768,resizable=yes",'bottom');
+				
+	}
+	function goToCharts() {
+		window.open('trade.applet.view.z?OPERATION=HISTORICAL_CHART&ecode=Z74','history','resizable=yes,scrollbars=yes,width=750,height=520','bottom');		
+	}
+	function goToZackUS() {
+		window.open('research.zackus.z?t=IBM&type=copro','zackUS','resizable=yes,scrollbars=yes,width=750,height=520','bottom');		
+	}
+
+	var newwindow = null;
+	function popBlankBuySell(buySell, ricCode,placeOrder)
+              { 
+                if(newwindow != null)
+                  newwindow.close();
+
+                newwindow=window.open('oms.users.order.orderpopup.z?fmBuySell=' + buySell + '&rcode=' + ricCode +'&placeOrder=' + placeOrder,'trade','scrollbars=1,height=600,width=470');
+			    if (window.focus) {newwindow.focus()}
+
+              }
+function showResearch() {
+ 
+	var showresearch=false ;
+	var loggedin=false;
+	var isseturl=false;
+	
+	if(loggedin==true && showresearch==true){
+		 Srrwindow=window.open('research.z?OPERATION=srr','SRR','resizable=yes,scrollbars=yes,width=1000,height=750','bottom');
+		 if (window.focus) {Srrwindow.focus()}
+	}	
+	 if(loggedin == false ) {		
+		window.location='research.z';		
+		return true;		
+	 }
+	 if(loggedin==true && !showresearch){
+	 	  //alert("Please subscribe to view this service.Thank You");
+	  <!-- Based on the Thailand cross border message is displayed modified by Eshwar dt 23Mar2012 -->  
+		 if(isseturl==true){
+				alert("You are not subscribed to access our research.\n For more information,please contact your trading representative or our client services at (66) 2 670 8698-9.");
+					}
+			else	{
+				alert("You are not subscribed to access our research.\n For more information,please contact your trading representative or our client services at 1800-538-9889.");
+					}
+	 }
+	 	
+}
+</script>
+
+
+
+<link rel="stylesheet" type="text/css" href="/app/themes/default/css/main.css">
+
+<link rel="stylesheet" type="text/css" href="/app/whitelabel/SG/bo/css/cimbbo.css">
+<link rel="stylesheet" type="text/css" href="/app/whitelabel/SG/fe/css/cimbfe.css">
+
+    
+    
+        <script type="text/javascript" src="/app/scripts/cssexpr.js"></script>
+        <script type="text/javascript" src="/app/scripts/xmenu.js"></script>
+
+        
+        
+        <link rel="stylesheet" type="text/css" href="/app/themes/default/css/xmenu.css">
+        
+    
+ 
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/app/css/anylinkmenu.css">
+<link rel="stylesheet" type="text/css" href="/app/css/cimbTabMenu.css">
+<script type="text/javascript" src="/app/scripts/anylinkmenu.js"></script>
+ 
+
+
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>  
+</head>
+
+<body style="margin: 0;" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+
+
+<div id="sizer_header">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/app/themes/cimb-header.css">
+<!-- Random no is added so that user need not to clear cache even if js file is modified Ankur-->	
+<script type="text/javascript" src="/app/scripts/cimb-header.js?randomNo=116"></script>
+
+<!--  Added for Group Websites dropdown list(changes done with Color code release) -->		
+<script type="text/javascript">
+
+function JumpToIt(list) {
+
+    var newPage = list.options[list.selectedIndex].value;
+   	
+	switch (newPage){
+	
+		case "1":		
+			window.open("http://www.cimbbank.com.my/");
+			break;
+		case "2":
+			window.open("http://www.cimbbank.com.sg/");
+			break;
+		case "3":		
+			window.open("http://www.cimbbank.com.kh/");
+			break;
+		case "4":
+			window.open("http://www.cimbniaga.com/");
+			break;
+		case "5":		
+			window.open("http://www.cimbthai.com/");
+			break;
+		case "6":
+			window.open("http://www.directaccess.com/");
+			break;
+		case "7":		
+			window.open("http://www.cimbislamic.com/");
+			break;
+		case "8":
+			window.open("http://www.cimbniagasyariah.com/");
+			break;
+		case "9":		
+			window.open("http://www.ib.cimb.com/");
+			break;
+		case "10":
+			window.open("http://www.cimbsecurities.com/");
+			break;
+		case "11":		
+			window.open("http://www.cimb-principal.com.my/");
+			break;
+		case "12":
+			window.open("http://www.cimbetf.com/");
+			break;
+		case "13":		
+			window.open("http://www.cwealthadvisors.com.my/");
+			break;
+		case "14":
+			window.open("http://www.cimbaviva.com/");
+			break;
+	}
+	
+
+	
+}
+
+</script>
+
+<!-- Group Websites dropdown -->
+
+
+
+
+
+
+   <script type="text/javascript">
+   <!--
+		var url = window.location.href;
+		var url_parts = url.split('/');
+		var domain_name_parts = url_parts[2].split(':');
+		var domain_name = domain_name_parts[0];
+
+		//production URL
+		//if (domain_name == 'my.itradecimb.com.sg')
+		if (domain_name == 'my.itradecimb.com.sg')		
+		{			
+			window.location = '/app/ref/redirection.html';
+		}
+   //-->
+</script>
+<!-- HeaderStart -->
+<!-- header : start -->
+
+<table width="980" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tbody><tr><td>
+		
+        <table width="980" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        	<!-- <tr valign="top" height=11>&nbsp;</tr> -->
+            <tbody><tr><td><img src="images/common_element.gif"></td></tr>
+            <tr><td>
+                    &nbsp;<table width="980" border="0" cellspacing="0" cellpadding="0" bordercolor="red">
+                        <tbody><tr valign="bottom" height="25">
+							<td width="13">&nbsp;</td>
+							<td align="left" rowspan="2" valign="top" width="223"><a href="home.z"><img src="images/itrade-logo.gif" border="0"></a></td>
+                   <!--     <td width="134"><a href="http://www.cimb.com" target="_blank"><img src="images/cimb_grp_icon2.gif" border="0" /></a></td>
+                            <td width="88"><a href="http://www.ib.cimb.com" target="_blank"><img src="images/cimb_inv_icon2.gif" border="0"></a></td>
+                            <td width="119"><a href="http://www.cimbbank.com.sg" target="_blank"><img src="images/cimb_bank_icon2.gif" border="0"></a></td>
+                            <td width="135"><!--<a href="http://www.cimbislamic.com/" target="_blank"><img src="images/cimb_isl_icon2.gif" border="0"></a>-->
+                            <td width="248">&nbsp;</td>
+							<td width="7">&nbsp;</td>
+							<td width="248">&nbsp;</td>
+							<td width="7">&nbsp;</td>
+							<td width="248">&nbsp;</td>
+							 
+				<!-- Added for Group Websites dropdown list(changes done with Color code release) -->			
+							<td width="160" align="right">
+								
+								
+								<select name="mylist" class="jumpmenu_side1" onchange="JumpToIt(this)">
+								<option value="default">Group Websites</option>								
+								<option value="1">CIMB Bank (Malaysia)</option>						
+								<option value="2">CIMB Bank (Singapore)</option>
+								<option value="3">CIMB Bank (Cambodia)</option>						
+								<option value="4">CIMB Niaga</option>
+								<option value="5">CIMB Thai</option>						
+								<option value="6">Direct Access</option>
+								<option value="7">CIMB Islamic</option>						
+								<option value="8">CIMB Niaga Syariah</option>
+								<option value="9">CIMB Investment</option>						
+								<option value="10">CIMB Securities</option>
+								<option value="11">CIMB Principal</option>						
+								<option value="12">CIMB ETF</option>
+								<option value="13">CWA</option>						
+								<option value="14">CIMB Aviva</option>
+								
+								</select>
+								
+							</td>
+						
+						
+					<!--  End Group Websites dropdown -->
+						
+
+							
+					<!-- 	<td align="right" rowspan=2 valign=top width=223><a href="home.z"><img src="images/itrade-logo.gif" border="0"></a></td>
+							 -->
+							<td width="13">&nbsp;</td>
+                        </tr>
+                        <tr valign="top" height="26">
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody></table>
+			
+                </td>
+            </tr>
+            <tr><td><img src="images/spacer.gif" width="13" height="6"></td></tr>
+            <tr><td>
+                    <table width="980" border="0" cellspacing="0" cellpadding="0" bordercolor="blue">
+                        <tbody><tr>
+						<td width="13">&nbsp;</td>
+						<td width="724">
+                                <table width="724" border="0" cellspacing="0" cellpadding="0" bordercolor="black">
+                                    <tbody><tr height="28">
+                                        <td width="180" align="center" valign="middle" bgcolor="#790008">
+										
+										<!-- Changes done to redirect the portal to trade.z, after clicking on 'Online Share Trading'  -->
+										<!-- Changes done by Saurabh Chauhan on 16/11/2011 Starts -->
+										
+										<a class="HS_content_white_bold0" href="trade.z"><font class="HS_content_white_bold0">Online Share Trading</font></a>
+										
+										<!--  : End -->
+										
+										
+										</td>
+                                        <td width="27" valign="top"><img src="images/m_menu-on_right.gif" width="27"></td>
+                                        <td width="170">&nbsp;</td>
+                                        <td width="27">&nbsp;</td>
+                                        <td width="320" align="right">&nbsp;</td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td width="7">&nbsp;</td>
+                            <td width="223" valign="middle" class="maroon1">
+                                <table width="223" border="0" cellspacing="0" cellpadding="0" bordercolor="yellow">
+                                    <tbody><tr class="maroon1">
+                                        <td width="63" class="maroon_bold">You are in :</td>
+                                        <td width="160" align="right">
+										<select name="select" id="select" class="jumpmenu_side1" onchange="HS_jumpToSite('_blank',this,0);">
+<option value="http://www.itradecimb.com.my">Malaysia</option>
+<option value="http://www.itradecimb.co.id">Indonesia</option>
+<option value="http://www.cimbsecurities.co.th">Thailand</option>
+<option value="https://www.itradecimb.com.sg" selected="">Singapore</option>
+</select>
+
+										
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+							<td width="13">&nbsp;</td>
+                        </tr>
+                      <!--  <tr><td><img src="images/spacer.gif" width="980" height="2" /></td></tr> -->
+                    </tbody></table>
+                  </td></tr>
+                  <tr><td><img src="images/spacer.gif" width="980" style="height:1px;"></td></tr>
+               </tbody></table>
+               </td></tr>
+               </tbody></table>
+
+<!-- HeaderEnd -->
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"> 
+<link rel="stylesheet" href="/app/css/scrollerPostLogin.css" type="text/css">
+<link rel="stylesheet" href="/app/css/style1.css" type="text/css">
+
+<script type="text/javascript" language="javascript" src="/app/scripts/ifis/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="/app/scripts/ifis/jquery.simplyscroll-1.0.4.js"></script>
+
+
+
+
+
+
+
+    
+    
+     
+        
+            
+            
+             <!-- Table for Menu Starts -->
+        <table id="Table_03" width="980" border="0" cellpadding="0" cellspacing="0">
+			
+         <tbody><tr height="28">
+			<td width="13">&nbsp;</td>
+            <td width="724" valign="top" color="#790008">
+              <table cellspacing="0" cellpadding="0" border="0" bgcolor="790008">		
+			<tbody><tr><td width="139" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold" align="center">
+   <a href="#" class="menuanchorclass" rel="ProductsServices">
+<font class="HS_content_white_bold">&nbsp;&nbsp;Product &amp; Services&nbsp;&nbsp;</font>
+</a>
+
+</font>
+</td>
+
+<td width="2" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold">|</font>
+</td>
+
+<td width="99" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold" align="center">
+   <a href="javascript:showResearch();" class="menuanchorclass" rel="Research">
+<font class="HS_content_white_bold">&nbsp;&nbsp;Research&nbsp;&nbsp;</font>
+</a>
+
+</font>
+</td>
+
+<td width="2" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold">|</font>
+</td>
+
+<td width="95" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold" align="center">
+   <a href="#" class="menuanchorclass" rel="Account">
+<font class="HS_content_white_bold">&nbsp;&nbsp;Account&nbsp;&nbsp;</font>
+</a>
+
+</font>
+</td>
+
+<td width="2" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold">|</font>
+</td>
+
+<td width="87" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold" align="center">
+   <a href="/app/trade.z" class="menuanchorclass" rel="Trade">
+<font class="HS_content_white_bold">&nbsp;&nbsp;Trade&nbsp;&nbsp;</font>
+</a>
+
+</font>
+</td>
+
+<td width="2" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold">|</font>
+</td>
+
+<td width="107" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold" align="center">
+   <a href="#" class="menuanchorclass" rel="Investment">
+<font class="HS_content_white_bold">&nbsp;&nbsp;Investment&nbsp;&nbsp;</font>
+</a>
+
+</font>
+</td>
+
+<td width="2" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold">|</font>
+</td>
+
+<td width="99" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold" align="center">
+   <a href="/app/investorCenter.z?cat=02" class="menuanchorclass" rel="InvestorsCenter">
+<font class="HS_content_white_bold">&nbsp;&nbsp;eRewards&nbsp;&nbsp;</font>
+</a>
+
+</font>
+</td>
+
+<td width="2" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold">|</font>
+</td>
+
+<td width="83" align="center" height="28" valign="middle" bgcolor="#790008">
+
+<font class="HS_content_white_bold" align="center">
+   <a href="/app/help.client.services.z?cat=01" class="menuanchorclass" rel="Help">
+<font class="HS_content_white_bold">&nbsp;&nbsp;Help&nbsp;&nbsp;</font>
+</a>
+
+</font>
+</td>
+
+<td width="2" align="center" height="28" valign="middle" bgcolor="#790008">
+
+</td>
+
+
+              </tr></tbody></table>
+             </td>
+			 
+			 <td width="7">&nbsp;</td>
+			 
+ 			 <td width="110" align="center" valign="middle" bgcolor="#ed1c24"><a href="./user.registration.options.z" style="text-decoration: none;"><font class="HS_content_white_bold">Register</font></a></td>
+             <td width="3" align="center" valign="middle" bgcolor="#ed1c24"><font class="HS_content_white_bold">&nbsp;|&nbsp;</font></td>
+			 <td width="110" align="center" valign="middle" bgcolor="#ed1c24"><a onclick="javascript:popDemo();" href="#" style="text-decoration: none;"><font class="HS_content_white_bold">Demo</font></a></td>
+			 
+			 <td width="13">&nbsp;</td>
+           </tr>
+        
+        
+            <tr height="1">
+              <td height="1">
+             <!-- Error Starts -->
+	     
+	      <table>
+              <tbody><tr height="1">
+                <td height="1">
+	               <table border="0" cellpadding="5" cellspacing="2" class="2nd_level_nav">
+	               
+	               
+	               <script type="text/javascript"> 
+
+<!--
+anylinkmenu.init("menuanchorclass");
+var ProductsServices={divclass:'anylinkmenu', inlinestyle:'', linktarget:''}; 
+
+ProductsServices.items=[
+["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Online Trading&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=03_01&subsubcat=03_01_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Equities&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=03_02" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Margin Financing&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=03_03&subsubcat=03_03_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Securities Borrowing <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; & Lending&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=03_04&subsubcat=03_04_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Brokerage Services&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=03_02" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Research&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f23608d3a01236f647d3f0365" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Extended Settlement&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_03&subsubcat=40288c9f1f8925cc011f8d50c5be0241" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;CIMB FTSE ASEAN <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40 ETF&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f1cd1b911011cdba894fc060f" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;ETF&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f28cf0a280128d3f85e2e02d5" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Structured Warrants&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f28cf0a280128d3f8971102d6" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Warrant Portal&nbsp;</font>","javascript:goToWarrants();" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;CFD&nbsp;</font>","javascript:goToCFD();" ]];
+var Account={divclass:'anylinkmenu', inlinestyle:'', linktarget:''}; 
+
+Account.items=[
+["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Open Account&nbsp;</font>","/app/user.registration.options.z?jumpTo=open" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Account Type&nbsp;</font>","/app/account.client.view.accountType.z?cat=07&subcat=07_03" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Fee & Commission&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_05" ]];
+var Investment={divclass:'anylinkmenu', inlinestyle:'', linktarget:''}; 
+
+Investment.items=[
+["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Financial Services&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f20b3a7b60120d23a866c0fb8" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Unit Trusts&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f20b3a7b60120d23f1ec70fbc" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Insurance&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f20b3a7b60120d2456d5f0fc1" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Managed Accounts&nbsp;</font>","/app/productservices.common.z?cat=03&subcat=40288c9f20b3a7b60120d248a57c0fc7" ]];
+var Help={divclass:'anylinkmenu', inlinestyle:'', linktarget:''}; 
+
+Help.items=[
+["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Customer Service&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_01&subsubcat=01_01_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;General &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_02&subsubcat=01_02_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_03&subsubcat=01_03_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Account Opening&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_04&subsubcat=01_04_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Charges & Settlement&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_05" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Trading &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_06&subsubcat=01_06_01" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Technical &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>","/app/help.client.services.z?cat=01&subcat=01_07&subsubcat=01_07_02" ],["&nbsp; <img src=images/acc-arrow-cimb.gif border=0 /><font class=HS_content_white_bold>&nbsp;&nbsp;Demo&nbsp;</font>","javascript:popDemo();" ]];
+//-->
+</script> 
+
+
+	               </table>
+               </td>
+               <td align="right" width="5%" height="1">
+               
+               </td>
+              </tr> 
+	        </tbody></table>
+	     
+	     <!-- Error Ends -->
+	       </td>
+         </tr>
+	</tbody></table> 
+	<!-- 2nd Level Mennu for trade only as per CIMBinvest -->
+	
+
+<script language="JavaScript">
+	 <!--
+
+	function ShowMenu(x,y, menuw, menuh) {
+
+		try
+		{
+		
+		
+	document.getElementById("frTest").style.left = x+'';
+        document.getElementById("frTest").style.top = y+'';
+        document.getElementById("frTest").style.width = menuw+'px';
+        document.getElementById("frTest").style.height = menuh+'px';
+
+				
+		
+		
+
+		}
+		catch (err)
+		{
+
+		}		
+	        document.getElementById("frTest").style.display = "inline";	
+	}
+
+
+
+
+
+	
+	function HideMenu() {
+		
+		
+		try
+		{
+        document.getElementById("frTest").style.left = '0px';
+        document.getElementById("frTest").style.top = '0px';
+        document.getElementById("frTest").style.width = '0px';
+        document.getElementById("frTest").style.height = '0px';
+        }
+        catch (err)
+        {
+        }
+        document.getElementById("frTest").style.display = "none";
+    }
+	//-->
+
+	<!-- Added for Auto Chartist : Start -->
+	 function CallAlert()
+		 {			
+			 window.location.href='./subscription.view.z?section=A';			
+		 }
+	
+	<!-- Added for Auto Chartist : End -->
+     
+    </script>  
+
+    <iframe id="frTest" style="width:0px;height:1px;position:absolute;top:20;left:0;display:none;" frameborder="0" scrolling="no" marginwidth="0" src="/app/blank.html" marginheight="0"></iframe> 
+
+     <table id="Table_03" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+          
+                   
+         </tr>
+     </tbody></table>
+	
+	 <!-- Code Commented as per the CLient Request  -->
+	 <!-- 
+    <table >
+        
+        <tr>
+            <td><img src="images/spacer.gif" width="7" height="10" /></td>
+            <td height ="5" >
+                <ul id="scroller">
+                    <li id="content" style="white-space: nowrap;"></li>
+                </ul>
+        
+                <script type="text/javascript" language="javascript">
+                var obj;
+                start();
+                
+                function start() {
+                    obj = $("#scroller").simplyScroll({
+                        autoMode: 'loop'
+                    });
+                    setTimeout("moveForward()",1000);
+                }
+                
+                function moveForward() {
+                    obj = $("#scroller").simplyScroll({
+                        startNow: 1
+                    });
+                }
+                
+                var width = $("#content").width();
+                </script>
+            </td>
+        </tr>
+    </table>
+	-->
+<!-- Table for Menu Ends -->
+
+
+
+
+ 
+
+<!-- By Ashish <script>liveclock();</script> -->
+<div id="sizer_content">
+<!-- Body Starts -->
+<table id="contentTable" width="980" height="80%" border="0" cellpadding="0" cellspacing="0">
+	
+	<tbody><tr>
+  
+    
+        <!-- Right TD -->
+        <td width="13">&nbsp;</td>
+        <td valign="top" width="954">
+            <table width="100%" height="100%" border="0" bordercolor="red" align="center" cellpadding="0" cellspacing="0">
+               
+			   <!-- pref start -->
+			   
+								<tbody><tr valign="top" class="bottom_grey">									
+                                    <td valign="top" height="15">
+										<a href="common.home.content.z" class="bottom_grey" style="TEXT-DECORATION: none"><span class="bottom_grey">Home</span></a>&nbsp;&gt;&gt;&nbsp;
+                                        
+                                        
+                                        
+                                            Privacy										
+                                                                                
+                                        
+                                    </td>
+                                    <td align="right" class="zPageButton">
+                                        
+                                    </td>
+                                </tr>
+
+				<!-- pref end -->
+                    <tr>						
+    			        <td height="25">
+                            <!-- PageInfo:Start -->
+    		                <table width="100%" height="25" border="0" cellpadding="0" cellspacing="0">
+								
+				
+			<tbody><tr height="5">
+			<td height="5"><!-- To increase space between -->
+			</td>
+			</tr>
+			<tr>
+					<td class="maroon6">
+					<strong>
+					Privacy
+					
+					</strong></td>
+					<td width="13">&nbsp;</td><!-- lax 1-->
+					
+			</tr>
+			<tr height="5">
+				<td height="5">
+				</td>
+			</tr>
+			<tr>
+				<td>
+				
+				</td>
+			</tr>
+
+		
+		
+               <tr>
+
+                  <td valign="top">
+				  
+					 
+                    <div id="contentTab" class="ddcolortabs" nowrap="">
+                         <ul>    			
+                
+         					
+					   
+							</ul>
+						</div><table width="100%" border="0" cellpadding="5" cellspacing="0" class="side_nav"><!--  bgcolor="#00FF00" green -->
+					 <tbody><tr>
+		
+					 
+				
+					   </tr>
+                     </tbody></table>
+                    </td>
+                </tr>
+				
+				
+				
+                            </tbody></table>							
+	                           <!-- PageInfo:End -->
+                        </td>
+						
+                    </tr>
+                
+                
+                
+               <tr height="2" bgcolor="#e8e8e8"> 
+                <td height="2" bgcolor="#e8e8e8" colspan="2"></td>
+                </tr>
+				
+		   <tr><!--  Third level content body starts -->
+                   
+                                  
+                    <td valign="top" style=" border-left-width:2px; border-left-color:#e8e8e8;">
+                        <!------- Content:Start ------------>
+                        <!-- >>>>>>> decorator setup >>>>>>> -->
+       
+
+
+
+
+
+
+<!-- >>>>>>> decorator setup >>>>>>> -->
+
+		<table cellspacing="0" cellpadding="10" width="90%" align="left" border="0">
+<tbody>
+<tr>
+<td colspan="2">
+<p align="justify"><span class="bodytext">CIMB Securities (Singapore) Pte Ltd&nbsp;("CIMB") takes your privacy seriously. Please read the following to learn about our Privacy Policy. This Privacy Policy is effective as of 19 February 2001. CIMB reserves the right to change this Privacy Policy at any time by publishing the new Privacy Policy on the Website (as hereafter defined). This Privacy Policy and the statements outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. </span></p></td></tr>
+<tr>
+<td width="32"><span class="bodytext"><b>1.</b></span></td>
+<td width="546"><span class="bodytext"><b>What this Privacy Policy Covers</b></span></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">1.1</span></td>
+<td>
+<p align="justify"><span class="bodytext">This Privacy Policy covers how CIMB uses the personally identifiable information (the "Personally Identifiable Information") it collects. However, please note that this Privacy Policy only applies to the website at Internet URL www.itradecimb.com.sg and&nbsp;<a href="https://my.itradecimb.com.sg/">my.itradecimb.com.sg</a> (the "Websites") and does not apply to the websites owned and/or operated by third parties.</span></p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">1.2</span></td>
+<td>
+<p align="justify"><span class="bodytext">CIMB is not responsible for any actions or policies of third party websites which are hyperlinked to and from the Website. You should check the applicable privacy policy of such party before providing Personally Identifiable Information to such websites. </span></p></td></tr>
+<tr>
+<td width="32"><span class="bodytext"><b>2.</b></span></td>
+<td><span class="bodytext"><b>Collection of Personally Identifiable Information</b></span></td></tr>
+<tr>
+<td valign="top" width="32">
+<p align="justify"><span class="bodytext">2.1</span></p></td>
+<td>
+<p class="bodytext" align="justify">This Privacy Policy covers how CIMB uses the personally identifiable information (the "Personally Identifiable Information") it collects. However, please note that this Privacy Policy only applies to the website at Internet URL www.itradecimb.com.sg and <a href="https://my.itradecimb.com.sg/">my.itradecimb.com.sg</a> (the "Websites") and does not apply to the websites owned and/or operated by third parties</p>
+<p class="bodytext" align="justify">(a) &nbsp;apply to be a registered user of the Website; <br>(b)&nbsp; when you visit the web pages on the Website that can be accessed without the need for&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;registration; <br>(c) &nbsp;when you enter promotions or contests that are available to you without having to be a&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;registered user of the Website; <br>(d) &nbsp;when you use the online services available on the Website (the "Online Services"). <br>&nbsp;&nbsp;&nbsp; <br>CIMB also automatically receives and records information from your browser on our server logs including but not limited to your Internet protocol address, cookie information and the page you requested</p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">2.2</span></td>
+<td>
+<p class="bodytext" align="justify">CIMB uses the Personally identifiable Information:</p>
+<p class="bodytext" align="justify">(a)&nbsp; to facilitate your access to the Website or your use of the Online Services;<br>(b)&nbsp; to customize and personalise the content of the web page that you see; <br>(c) &nbsp;to fulfill your requests for the Online Services; and <br>(d) &nbsp;to evaluate your preferences and facilitate future works on the Website.</p></td></tr>
+<tr>
+<td width="32"><span class="bodytext"><b>3.</b></span></td>
+<td><span class="bodytext"><b>Information Collection and Use</b></span></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">3.1</span></td>
+<td>
+<p align="justify"><span class="bodytext">Your Personally Identifiable Information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection. At such point of collection, you will have the opportunity to indicate whether you would like to "opt out"of receiving promotional and/or marketing information about other products, services and offerings from CIMB and/or any third parties.</span></p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">3.2</span></td>
+<td>
+<p align="justify"><span class="bodytext">However, CIMB reserves the right to contact you regarding matters such as account status, changes to the subscriber agreement and other matters relevant to the Online Services and/or the Personally Identifiable Information collected. </span></p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">3.3</span></td>
+<td>
+<p align="justify"><span class="bodytext">CIMB also reserves the right to perform statistical analysis of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. CIMB may sell or provide aggregated data from these analysis to third parties</span></p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">3.4</span></td>
+<td>
+<p align="justify"><span class="bodytext">Except as provided in paragraph 3.3, CIMB will not sell or rent your Personally Identifiable Information to anyone.</span></p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">3.5</span></td>
+<td>
+<p class="bodytext" align="justify">CIMB will send Personally Identifiable Information about you to other companies or people when: </p>
+<p class="bodytext" align="justify">(a) &nbsp;We have your consent to share the information; <br>(b) &nbsp;We need to share your information in order to provide the Online Services or other services&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that you have requested; and <br>(c) &nbsp;We are compelled by any law, court order, legal process or regulatory authority to disclose&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your Personal Identifiable Information to third parties.</p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext"><b>4.</b></span></td>
+<td><span class="bodytext"><b>Cookies</b></span></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">4.1</span></td>
+<td>
+<p align="justify"><span class="bodytext">"Cookies" are small text files a website can use to recognize repeat users, facilitate the user's ongoing access to and use of the website and allow a website to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site.</span></p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">4.2</span></td>
+<td><span class="bodytext">CIMB may set and access CIMB cookies on your computer </span></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">4.3</span></td>
+<td>
+<p align="justify"><span class="bodytext">CIMB allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. The use of cookies by such companies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to CIMB's cookies. </span></p></td></tr>
+<tr>
+<td valign="top" width="32"><span class="bodytext">4.4</span></td>
+<td>
+<p class="bodytext" align="justify">If you do not want any information about yourself to be collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. However, please note that if you do this, certain features (e.g., customized delivery of information) available on the Website may not be available to you.</p>
+<p class="bodytext"></p></td></tr></tbody></table>
+                        <!------- Content:End -------------->
+                    </td>
+                    
+                    
+                    
+                    <td valign="top" width="5" bgcolor="#e8e8e8">&nbsp;</td>  
+                    
+                    
+           </tr>
+           
+           <tr height="5"><td bgcolor="#e8e8e8" height="5" colspan="2"></td></tr>  
+			
+            </tbody></table>
+        </td>
+     <td width="7">&nbsp;</td> 
+     <!-- New Right TD Starts Ash -->
+        
+    <td width="223" valign="top">
+          <!------- NavArea:Start ------------>
+            <table width="218" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						
+							<!-- Ashish 24May2010<tr>
+								<td width="13">&nbsp;</td><!-- lax -->
+							<!-- Ashish </tr> -->
+							</td></tr><tr>
+								<td valign="top">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+	 <tbody><tr>
+	 	<td><!-- Page Name : commonLogin.jsp-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="scripts/rsa/jsbn.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/rsa/prng4.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/rsa/rng.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/rsa/rsa.js"></script>
+
+<!-- E2EE JS Implementation : 7th April 2011 - Jitesh-->
+<script language="JavaScript" src="scripts/e2ee/jsbn_jso.js" "type="text/javascript"></script>
+<script language="JavaScript" src="scripts/e2ee/prng4_jso.js" type="text/javascript"></script>
+<script language="JavaScript" src="scripts/e2ee/rng_jso.js" type="text/javascript"></script>
+<script language="JavaScript" src="scripts/e2ee/hashprc_jso.js" type="text/javascript"></script>
+<script language="JavaScript" src="scripts/e2ee/rsa_jso.js" type="text/javascript"></script>
+<script language="JavaScript" src="scripts/e2ee/base64_jso.js" type="text/javascript"></script> 
+
+
+
+
+<script type="text/javascript">
+<!-- E2EE JS Implementation : 7th April 2011 - Jitesh-->
+	var rsa;
+	//alert("Hii");
+	
+			var publickey= "c82d627ba027075f2ef0cc8f57eb88708f04bf18c283e0e8d0dcde82baec782c4f531c766974fd8ecda1dc5d3d2c02a85020af881e6872a986df68ed7c3bde1bf8a6c764177097053a70954ec9ed62a3278bf110e6bc0b87865dccb6c53bf1131990cbb02e86b417fbedf71d708857588e60f1c02418b1176d25250fe12c6b3f:10001";
+			var sid="9CF6F0948A50791321E178F701E1466B6FB05E34";
+			var clientRandom="AA86083928E22EA24F09E4EC09323EB087C9B2D5";
+			rsa = new RSAEngine();
+			rsa.init(publickey, sid, clientRandom);		
+				
+	function getRPIN(pin) {
+		if(null!=rsa){
+			return rsa.encryptPIN1(pin);
+		}
+		return "";
+	}
+		
+	function getRPIN2(old_pin, new_pin) {
+		if(null!=rsa){
+			return rsa.encryptPIN2(old_pin, new_pin);
+		}
+		return "";			
+	}
+
+	// count added to disable two successive enter key hit by the user
+ 	var count=1;
+	function callSubmit(f,event) {
+		if(count==1 && (13 == event.which || 13 == event.keyCode)){
+		document.getElementsByName("login")[0].disabled=true;
+		document.getElementsByName('login')[0].value="Processing...";
+		if(validateLoginForm(f)){
+			document.frmLogin.submit();
+		}
+		count=2;
+		}else
+			{
+				return false;
+			}
+	}
+
+	function disableautocompletion(id1){ 
+		 var passwordControl=document.getElementById(id1);
+		 passwordControl.setAttribute("autocomplete","off");
+	}
+
+	function do_encrypt()
+	{
+ 	   var rsa = new RSAKey();
+    	   rsa.setPublic('a6610fb1b859594afb7ff6a8930a59c406ba3fda2d56b00868cebf7dc2b795c735b2d473e522b8d4b0e4bca0d785e0dc37090fd3a4f904173c46130a9aecbca90c1e54703f0e8214da5e9ff142a7328362ea9a141785ae8b32231684f2ffeef479ea9ef2a065a6e3368d266f6637220555e2e471e97f54d536e01f82e26f6863', '10001');
+    	   var res = rsa.encrypt(document.getElementById('password').value);
+ 	   document.getElementById('password').value=res;
+	}
+
+	
+</script>
+<form name="frmLogin" method="post" action="login.z" autocomplete="off">
+<input type="hidden" id="n" value="a6610fb1b859594afb7ff6a8930a59c406ba3fda2d56b00868cebf7dc2b795c735b2d473e522b8d4b0e4bca0d785e0dc37090fd3a4f904173c46130a9aecbca90c1e54703f0e8214da5e9ff142a7328362ea9a141785ae8b32231684f2ffeef479ea9ef2a065a6e3368d266f6637220555e2e471e97f54d536e01f82e26f6863">
+<input type="hidden" id="e" value="10001">
+   <input name="E2EE_RPIN" type="hidden">
+   <input name="E2EE_RANDOM" value="AA86083928E22EA24F09E4EC09323EB087C9B2D5" type="hidden">
+   <input name="E2EE_SESSION" value="9CF6F0948A50791321E178F701E1466B6FB05E34" type="hidden">
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2" width="222" align="left" height="120" style="border-right: 2px solid lightgray; border-bottom: 2px solid lightgray">
+	<tbody><tr height="28">
+		<td bgcolor="#edic24" height="28">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td height="28" valign="middle" bgcolor="#edic24" align="left"><font class="HS_content_white_bold">Members' Login</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td valign="top">
+		<table width="180" border="0" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
+			<tbody><tr>
+				<td colspan="2">
+
+
+
+
+
+
+
+
+
+
+</td>
+			</tr>
+			<tr>
+				<td class="fieldname">User ID :&nbsp;&nbsp;</td>
+				<!-- Removed the changes made for disabling copy/paste and autocompletion of user id. Modified by Dinakara on 14 May 2012 -->
+				<td><input name="username" class="input_text" type="text" tabindex="1" size="19"></td>
+			</tr>
+			<tr>
+				<td class="fieldname"><strong>Password :&nbsp;&nbsp;</strong></td>
+				<td><input name="password" id="password" class="input_text" type="password" tabindex="2" size="19" onfocus="disableautocompletion(this.id);" onblur="disableautocompletion(this.id);" oncopy="return false" onpaste="return false" oncut="return false" onkeydown="if(13 == event.which || 13 == event.keyCode) callSubmit(this.form,event);"></td>
+			</tr>
+			<tr>
+				<td class="fieldname">Jump to :&nbsp;&nbsp;</td>
+				<td width="30%"><select name="jumpTo" class="input_text" tabindex="3">
+					<option selected="" value="home.z">---------Select--------</option>
+					<option value="trade.stock.z">Stock (Streaming) </option>
+					<option value="trade.stock.z?VIEW_TO_SET=HTML">Stock (Snapshot) </option>
+					<option value="portfolio.summary.view.z">Portfolio </option>
+					<option value="trade.orders.view.z">Order </option>
+					<option value="trade.watch.lists.view.z?selectWatchList=1">Watchlist 1 </option>
+					<option value="trade.watch.lists.view.z?selectWatchList=2">Watchlist 2 </option>
+					<option value="trade.watch.lists.view.z?selectWatchList=3">Watchlist 3 </option>
+					<option value="trade.watch.lists.view.z?selectWatchList=4">Watchlist 4 </option>
+					<option value="trade.watch.lists.view.z?selectWatchList=5">Watchlist 5 </option>
+					<option value="user.registration.options.z">Account</option>
+					<!-- jump to research removed for subscription based research -Karthika.G 19 june -->
+					<!-- <option value="research.articles.z?countryId=SG&categoryId=01">Research</option>    -->
+				</select></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+				<table>
+					<tbody><tr>
+						<td colspan="3"><a class="member_login" href="common.content.z?cat=06&amp;subcat=06_03" style="text-decoration: underline">By login, I agree
+						to the Terms of Use</a></td>
+					</tr>
+					<tr>
+						<td width="100%"><a class="member_login" href="forgetpassword.z" style="text-decoration: underline">Forgot Password? </a><br>
+						<a class="member_login" href="help.client.services.z?cat=01" style="text-decoration: underline">Help?</a></td>
+						<td align="right"><button type="button" name="login" tabindex="4" class="button_text" onclick="if(validateLoginForm(this.form)){this.disabled=true;this.innerHTML='Processing...';frmLogin.submit();}else return false;">
+							Go
+						</button>
+</td>
+					</tr>
+				</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+ <input type="hidden" name="lrcf" value="cat=06&amp;subcat=06_05"></form>
+</td>
+	 </tr>
+	 
+	 
+	 
+ </tbody></table></td>
+							</tr>
+						
+					
+				
+             </tbody></table>
+            <!-- NavArea:End -->
+ </td> 
+    
+        <!-- New Right TD Ends Ash -->
+        <td width="13">&nbsp;</td>
+        
+        
+    </tr>
+</tbody></table>
+</div>
+
+
+
+
+
+  
+      <div id="sizer_footer">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="990" border="0" cellpadding="1" cellspacing="0" height="50">
+<tbody><tr>
+<td></td>
+<td></td>
+</tr>
+  <tr>
+  
+    <td height="20" background="images/backOffice_sliced_14.jpg">
+    <span class="footer_text">Best Viewed with 1024 x 768 screen resolution. Internet Explorer 7.0</span></td>
+  
+  </tr>
+
+  <tr>
+    
+    <td height="27" background="images/backOffice_sliced_15.jpg">
+    <table width="100%" height="54" border="0" cellpadding="0" cellspacing="0" class="footer_text" bgcolor="#790008">
+      <tbody><tr>
+        <td width="57%"><span style="color:#ffffff">
+        <a class="header_footer" href="http://www.cimb.com" target="_blank">CIMB Group</a> |
+        <a class="header_footer" href="common.content.z?cat=06&amp;subcat=06_01">Contact Us</a> |
+
+        <a class="header_footer" href="common.content.z?cat=06&amp;subcat=06_03">Terms of Use</a> |
+        <a class="header_footer" href="common.content.z?cat=06&amp;subcat=06_04">Terms and Conditions</a> |
+        <a class="header_footer" href="common.content.z?cat=06&amp;subcat=06_05">Privacy</a> 
+       </span> </td>
+        <td width="43%"><div align="left"><font color="white">&nbsp;&nbsp;All Right Reserved. Copyrights 2008 © CIMB Securities (Singapore) Pte Ltd.<br>&nbsp;&nbsp;Company Reg No.: 198701621D</font></div></td>
+       </tr>
+    </tbody></table>
+    </td>
+    <td width="13">&nbsp;</td>
+  </tr>
+ </tbody></table>
+
+      </div>
+  
+
+
+
+<script>
+function handleResize()
+{
+    //var headerHeight = document.getElementById("sizer_header").offsetHeight + document.getElementById("sizer_menu").offsetHeight;// + document.getElementById("sizer_ticker").offsetHeight;
+    //var footerHeight = document.getElementById("sizer_footer").offsetHeight;
+    //document.getElementById('contentTable').height = document.body.clientHeight - headerHeight - footerHeight;
+}
+//window.onresize=handleResize;
+//handleResize();
+</script>
+
+
+
+
+
+
+
+</body></html>
