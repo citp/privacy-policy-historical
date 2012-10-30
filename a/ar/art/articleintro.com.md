@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleintro.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606231653id_/http%3A//www.articleintro.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleintro.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030202054id_/http%3A//www.articleintro.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policies for ArticleIntro.com
 
