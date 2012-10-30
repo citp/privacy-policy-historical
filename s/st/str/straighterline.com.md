@@ -1,12 +1,27 @@
-> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233322id_/http%3A//www.straighterline.com/help/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030124258id_/http%3A//www.straighterline.com/help/privacy-policy.cfm) for the most accurate reproduction.*
 
 # StraighterLine Privacy Policy - StraighterLine
 
-Usage Eligibility
+The StraighterLine Privacy Policy details the commitment of StraighterLine to our users' privacy. Please review the following policy to understand how the information you provide StraighterLine ("StraighterLine") will be treated.
+
+* Who We Are and How to Reach Us
+
+StraighterLine is the sole provider of this website. You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. Please contact us at:
+
+StraighterLine  
+1201 S. Sharp Street  
+Suite 110  
+Baltimore, MD   
+21230
+
+(202) 507-7020  
+[info@straighterline.com](mailto:info@straighterline.com)
+
+* Usage Eligibility
 
 The StraighterLine service is intended for students over the age of 18. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website services will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Use Agreement . If necessary, and in accordance with applicable law, StraighterLine will cooperate with local, state and/or federal authorities to protect its users, parents, partners, affiliates, subsidiaries and operational providers or to prevent unauthorized use of the site.
 
-Personal Information
+* Personal Information
 
 The only personal information this website obtains about you is information voluntarily provided by you.
 
@@ -22,7 +37,15 @@ StraighterLine contains links to other sites and some features of the Straighter
 
 In order to provide partner company features, it may be necessary for either you or StraighterLine to share your voluntarily provided personal information with this company. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
 
-Our Security Procedures
+* Non-Personal Information
+
+Certain non-personal information of visitors is also recorded by the standard operation of StraighterLine's Internet servers. This information is primarily used to provide visitors to StraighterLine with an enhanced online experience. Information tracked includes the type of browser being used by the visitor, the type of operating system, and the domain name of the visitor's Internet service provider. StraighterLine may disclose aggregated user statistics in order to describe the StraighterLine service to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+
+* Use of Cookies
+
+This site requires cookies. StraighterLine uses cookies to establish a session. We do not use cookies for tracking purposes. Cookies do not allow the website to access personal information that you haven't already provided.
+
+* Our Security Procedures
 
 We are committed to safeguarding the privacy of all users. We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. We have a digital certificate that is signed by a recognized certificate authority. Credit card information, while handled by a third party, is transmitted via encrypted technology.
 
