@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justjaredjr.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614221624id_/http%3A//www.justjaredjr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justjaredjr.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030031642id_/http%3A//www.justjaredjr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy And Consumer Education | Just Jared Jr.
 
