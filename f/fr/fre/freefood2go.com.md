@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freefood2go.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622044620id_/http%3A//www.freefood2go.com/index.php%3Fp_resource%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefood2go.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031003335id_/http%3A//www.freefood2go.com/index.php%3Fp_resource%3Dprivacy) for the most accurate reproduction.*
 
-# MyLife Products International - Privacy Policy for Individuals
+# MyLife International - Privacy Policy for Individuals
 
 test 
 
