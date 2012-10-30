@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shebudgets.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511095154id_/http%3A//www.shebudgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shebudgets.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030062635id_/http%3A//www.shebudgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
