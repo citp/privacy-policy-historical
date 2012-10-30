@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620112058id_/http%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030073358id_/http%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Spreets
+
+## Privacy Policy
 
 **SPREETS PRIVACY POLICY**
 
@@ -54,7 +56,9 @@ Spreets Pty Limited.
 Legal Department - Privacy Policy Issues  
 PO Box R1469  
 ROYAL EXCHANGE NSW 1225  
-Australia.
+Australia.  
+Phone: 1300 66 56 54  
+Email: au-legalpoc@yahoo-inc.com
 
 **Changes to this Privacy Policy**
 
