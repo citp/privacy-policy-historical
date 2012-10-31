@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304225035id_/http%3A//www.metropcs.com/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031190747id_/http%3A//www.metropcs.com/metro/tac/termsAndConditions.jsp%3Fterms%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# MetroPCS | Privacy Policy
+# Unlimited Wireless Service - MetroPCS
 
-[](http://www.truste.org/ivalidate.php?url=www.metropcs.com&sealid=101)
+## **Privacy Policy**
 
-Revised Effective: June 27, 2008
+Revised Effective: February 16, 2011
 
 MetroPCS Communications, Inc. and its subsidiaries (collectively, "MetroPCS," "we," "our," or "us") understand that your privacy is important, and we have adopted this privacy policy (this "Policy") to describe what information may be collected about you by us when you access or use our website or our service, as well as any electronic information collected by MetroPCS as a result of your use of our network (the "Service"). This Policy also describes how that information may be used or disclosed by us. This Policy does not apply to information about you that may be collected by us other than through the access or use of our website or our service.
 
@@ -85,11 +85,7 @@ However, if you dial 911 for emergency services, we are required by Federal Comm
 
 ###  Website 
 
-MetroPCS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Policy covers the website www.metropcs.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this Policy, you should first contact MetroPCS Web Operations at metropcsweb@metropcs.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site or through the use of the Service. 
+MetroPCS has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software from the site or through the use of the Service. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at metropcsweb@metropcs.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 When you visit our website to learn more about MetroPCS products and services, access your account, pay your bill, or submit other information to us, we automatically receive and record information on our server logs from your browser, including your IP address and the page you request. We use this information for the following general purposes: to customize the advertising and content you see, to fulfill your requests for products and services, to improve our services, to contact you, to conduct research, and to provide anonymous reporting for internal and external clients. 
 
