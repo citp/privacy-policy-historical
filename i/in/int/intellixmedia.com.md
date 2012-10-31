@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellixmedia.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215823id_/http%3A//www.intellixmedia.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellixmedia.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031032527id_/http%3A//www.intellixmedia.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Of Web Design Company In USA Intellix Media
 
