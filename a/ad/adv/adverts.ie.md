@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629153354id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031155853id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
 
 # Privacy and Info
 
@@ -134,6 +134,7 @@ iePinning_www.adverts.ie | "hidden" | Remembers when the user has dismissed the 
 fb_login | "1" | Indicates that the user logged in via Facebook | On user logout or browser exit  
 fbsr_116958691666039 | Alphanumeric string | The user's Facebook session information, if the user is logged in via Facebook | On user logout or browser exit  
 ajs_cid | Comma-separated list of numbers | A list of categories the user has recently visited | 30 days  
+app_notice_off | 1 or 0 |  Whether the user has dismissed or othewise interacted with the notice regarding the app being available for their device  | 1 year  
   
 In addition to the above cookies set by Adverts.ie, cookies may also be set by a number of our site partners: 
 
