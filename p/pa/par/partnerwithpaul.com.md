@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616175422id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031092728id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
