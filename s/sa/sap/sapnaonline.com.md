@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapnaonline.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511171540id_/http%3A//www.sapnaonline.com/index.php%3Foption%3Dcom_content%26id%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapnaonline.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031112009id_/https%3A//sapnaonline.com/index.php%3Foption%3Dcom_content%26id%3D70) for the most accurate reproduction.*
 
 # Sapnaonline.com | Pan-India online secure shopping | Books | Music | Multimedia | Games | Much More:Sapnaonline.com
 
