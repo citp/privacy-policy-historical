@@ -1,75 +1,89 @@
-> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502131036id_/http%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031234849id_/http%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eatnow.com.au
 
-####  1\. Introduction: 
+#### Privacy Policy
 
-Eat Now Services Pty Ltd take the confidentiality of personal data seriously. By visiting and ordering on this website, you agree to the terms of this Privacy Policy and consent to the processing of your data as described in this Privacy Policy.
+#### 1\. General Statement
 
-The following explains how we use and protect the information that you provide us with. 
+**1.1** Eat Now Services Pty Ltd ( **EatNow.com.au** ) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth). 
 
-####  2\. Privacy Act 2001 
+**1.2** Personal information is defined in the _Privacy Act 1988_ (Cth) and means information or an opinion about an individual whose identity is apparent or can be reasonably ascertained from that information or opinion. 
 
-Eat Now Services Pty Ltd makes every effort to comply with the principles of the Australian Privacy Act (1988). For more information about the Privacy Act visit [www.privacy.gov.au](http://www.privacy.gov.au/).
+**1.3** Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit. 
 
-####  3\. What information do we collect? 
+#### 2\. Collection of Personal Information
 
-You can access the home page and browse our site without disclosing your personal information, but when you order from our site we obviously need a certain amount on information to get your order to you. So to deliver our service, you will be asked to provide personal information about yourself. 
+**2.1** EatNow.com.au only collects personal information for the purposes of conducting our business as an online food ordering service. The personal information we collect from you will include information you give us when you: 
 
-Personal information required during the order process includes you name, delivery/billing address, phone number, email address and other similar information used to identify you and complete the order. There is also certain information we automatically track, including the URL that you just came from, the browser you are using and your IP address to protect our partner restaurants against misleading or fraudulent orders. 
+**(a)** register or subscribe to our Website; 
 
-However, no information may be submitted to this website by persons under the age of 18 without the consent of a parent or legal guardian, nor may persons under the age of 18 make purchases or other legal acts on this site without such consent unless permitted by applicable legislation.
+**(b)** complete a transaction with us; and 
 
-####  4\. How we use the information 
+**(c)** contact us. 
 
-Your information will enable us to provide you with access to the relevant parts of the website to complete your order and supply the services you have requested. Once the order is confirmed, personal information collected by our site will be shared with the relevant restaurant partner to enable them to complete your delivery or contact you where necessary. However we have a written agreement with all member restaurants restricting them from further disclosure or use of personal information that we provide them beyond the fulfilment of your order.
+**2.2** The personal information that we collect on individuals may include, but is not limited to: 
 
-Your personal information will be used to notify you of the status of your order and enable us to bill you and once again, to contact you where necessary. We will also use and analyse the information we collect so that we can administer, support, improve and develop our systems. We may also collect information from any written or verbal communications with us to improve our service.
+**(a)** your name; 
 
-Personal information will not be shared with any of our business partners or affiliates or outside parties without your permission and will be treated as confidential. However we reserve the right to disclose personal information if required to do so by legal, governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable to protect the interests of Eat Now Services Pty Ltd. 
+**(b)** your contact details; 
 
-####  5\. Security and data retention 
+**(c)** your payment details; and 
 
-We hold personal data in accordance with data protection legislation and take steps to protect your information from unauthorised access and against unlawful processing, accidental loss, destruction and damage. The technology that we use and the policies that we have implemented are intended to safeguard your privacy. The information you provide will be held and may be accessed by or given to our staff or third parties who process information and/or provide support services for us but we will not hold or store any payment details. 
+**(d)** other personal information that we collect in the course of a transaction. 
 
-You have the right to see the information we hold about you but we may charge a nominal fee to the cover the costs of retrieving this information.
+**2.3** We may collect personal information from individuals who are not customers of our business but whose personal information is given to us by those individuals via our Website or in the course of a transaction. 
 
-####  6\. Payment details 
+**2.4** Where reasonably practicable, we attempt to collect information directly from individuals. When we collect information, we will generally explain to the individual why we are collecting it, who we give it to and how we will use or disclose it or, alternatively, those matters will be obvious from the circumstances. 
 
-**Consumers:**
+**2.5** If we collect information about an individual from someone else, we will take reasonable steps to ensure that the individual is made aware of the matters listed in clause 2.4. 
 
-Your credit or debit cards are not processed by Eat Now; therefore the details are not transmitted electronically via our website. Any payment via credit or debit card is done so by you, directly with the restaurant in accordance with their terms and conditions. Any concerns arising about payment should be discussed directly with the restaurant from which you are ordering from.
+**2.6** We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way. 
 
-**Restaurants:**
+**2.7** When you visit our Website, for the purpose of managing our Website and improving our business, we may also collect the following information: 
 
-Eat Now uses an SSL (Secure Socket Layer) Certificate for the purpose of encrypting your credit card details for transmission from our servers to our Internet Payment Gateway (eWay). No Internet communication is 100% guaranteed secure, but to the best of our ability, we take steps to keep your information secure using industry standards and best practices in the handling of sensitive information.
+**(a)** your computer's operating system; 
 
-The Payment Gateway temporarily stores your credit card details while it communicates with the bank for the purpose of completing the transaction. Your credit card details are then purged and not stored long term.
+**(b)** your computer's browser type and capabilities; 
 
-####  7\. Accessing and Updating 
+**(c)** your computer's Internet Protocol (IP) address and geolocation; 
 
-Every user who confirms an order will be prompted to create a unique password which will give them the benefits of membership to the website. As a member should you wish to change personal information, you can correct or update this information by entering the member area using your registered email address and unique password, then editing your member profile.
+**(d)** web pages visited, including how you were referred to each web page; and 
 
-To remove your personal information and cancel your membership, send an email from your registered email address to help@eatnow.com.au. Personal details will be removed within 10 working days.
+**(e)** web page usage statistics, including the time spent on each web page. 
 
-####  8\. Cookies 
+**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](http://www.eatnow.com.au/info/termsOfUse.html). 
 
-Cookies are small amounts of information that we store on your computer to speed up our service and make it easier to log in and use the site on future visits. They may record your preferences, session information, or details of how access our webpages. Our system will issue cookies to your computer when you log on to the Website. Cookies do not deliver viruses, and can only be read by the server that sent you the cookie. You may set up your computer to reject cookies but please bear in mind however, that you may not be able to use all the features of our site if cookies are disabled.
+#### 3\. Using and Disclosing Your Personal Information
 
-Please also note we may use a third party to serve advertisements on our site. Cookies may be employed by advertiser to track the number of anonymous users responding to the advertising campaign. We do not access or control cookies placed by third parties.
+**3.1** We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law. 
 
-####  9\. Promotional Information 
+**3.2** Generally, we use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services. 
 
-We work hard to provide our customers with the highest quality service and best offers. From time to time we will have promotions that may be of interest to you. However we appreciate that every website says this, and since we respect our customers time is valuable we will not send you email updates, newsletters, or other information unless specifically request it from our member log in page. If you do request them, you will still have the ability to unsubscribe to future offers. 
+**3.3** If those purposes for which we have collected the information involve providing personal information about an individual to any third party, we will take appropriate and reasonable steps to ensure any personal information is protected. 
 
-####  10\. Links to Third Party Websites 
+**3.4** We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use and you are given the opportunity to opt out of receiving any further direct marketing communications. Our electronic marketing activities will comply with the requirements of the _Spam Act 2003_ (Cth). 
 
-This policy applies only to the personal data collected on this website and not to third party websites you may access from here. As we are not responsible for the privacy policies of third party websites we advise customers to read the privacy policies of other websites before registering any personal data.
+**3.5** We may share your information with other members of the CatchOfTheDay.com.au Group, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Wine Cru Pty Ltd, Mumgo Pty Ltd, Eat Now Services Pty Ltd and their Related Bodies Corporate, as defined in the _Corporations Act 2001_ (Cth). 
 
-####  11\. Changes to our privacy policy 
+**3.6** We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia, we will do so in accordance with National Privacy Principle 9. 
 
-This policy may be revised and updated periodically at our discretion. Any changes to our privacy policy will be posted to the Website. The date at the top of this document indicates the most recent update.
+#### 4\. Security of Your Personal Information
 
-####  12\. Contacting Us 
+We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
 
-If you have any questions about our privacy policy or would like more information please use the [Contact Us](https://web.archive.org/info/contact.html) page of our website.
+#### 5\. Access to Your Personal Information
+
+**5.1** Under the _Privacy Act 1988_ (Cth), you have certain rights to access the personal information we collect and hold about you. 
+
+**5.2** Generally, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.   
+You may make a request by sending us an email using our [Help Centre](http://www.eatnow.com.au/info/contact.html) or by writing to us at:   
+Office of the Chief Information Officer  
+Eat Now Services Pty Ltd   
+198 Boundary Road   
+Braeside, Victoria 3195  
+Australia 
+
+**5.3** Additional information regarding privacy may be obtained from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/). 
+
+Privacy Policy last updated on 18 October 2012.
