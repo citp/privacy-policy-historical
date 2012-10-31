@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstudio.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602161939id_/http%3A//www.webstudio.com/site/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstudio.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031145916id_/http%3A//www.webstudio.com/site/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,6 +65,6 @@ Your credit card number is encrypted (scrambled) with state-of-the-art technolog
 
 **What if I have a question or complaint? **
 
-If you have any questions or wish to file a complaint, please feel free to . 
+If you have any questions or wish to file a complaint, please feel free to [**Email Us**](mailto:techsupport@webstudio.com). 
 
 By using The Beach Web sites listed herein, you signify your assent to the The Beach Privacy Policy. If you do not agree to this policy, please do not use these sites.
