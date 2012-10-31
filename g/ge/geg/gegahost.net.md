@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gegahost.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618032840id_/http%3A//www.gegahost.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gegahost.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031072247id_/http%3A//www.gegahost.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,3 +20,5 @@ You can contact us at The support system in your control panel
 
 Contacting the website:   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, You can contact us at The support system in your control panel.
+
+[](http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=topstreams-)
