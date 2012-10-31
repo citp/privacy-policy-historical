@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonfanclub.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509235311id_/http%3A//toonfanclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonfanclub.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031160738id_/http%3A//toonfanclub.com/privacy.html) for the most accurate reproduction.*
 
 # Toon Fan Club :: Members area!
 
