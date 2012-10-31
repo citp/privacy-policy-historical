@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the da-spot.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621073553id_/http%3A//www.da-spot.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the da-spot.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031131805id_/http%3A//www.da-spot.net/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Da-Spot.net
 
