@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the nirvanix.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604054541id_/http%3A//www.nirvanix.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nirvanix.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031040719id_/http%3A//www.nirvanix.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Nirvanix
 
 Your privacy is important to us. We appreciate and take very seriously the trust you place in us. This Nirvanix Privacy Statement discloses our information practices for Nirvanix websites, including how information gathered by Nirvanix websites is used, tracked, and shared.
-
-## Safe Harbor
-
-Nirvanix complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Nirvanix has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Nirvanix's certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Information We Collect
 
@@ -73,9 +69,11 @@ We may also use or share your information to protect our rights or the rights of
 
 If we change this Statement, we will post the revised Statement so you are always aware of what information we collect, how we use it, and under which circumstances, if any, it is disclosed. We will provide the date of the update at the end of the Statement.
 
-## Privacy Questions
+## Safe Harbor
 
-If you have any questions regarding this Statement, you may contact us at:
+Nirvanix complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Nirvanix has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Nirvanix commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Nirvanix at:
 
 Nirvanix, Inc.  
 ATTN: Privacy  
@@ -83,4 +81,6 @@ ATTN: Privacy
 San Diego, CA 92122  
 Electronic mail: [support@nirvanix.com](mailto:support@nirvanix.com)
 
-Last update: 01/09/2012
+Nirvanix has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Nirvanix, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+Last update: 07/18/2012
