@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readworks.org privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529055542id_/http%3A//www.readworks.org/uee/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readworks.org privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031023526id_/http%3A//www.readworks.org/uee/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReadWorks.org
 
@@ -62,18 +62,18 @@ Options Regarding the Use of Your Information
 
 If you do not want to receive emails from UEE, please write us at [info@readworks.org](mailto:info@readworks.org) using the subject line "Opt Out." Additionally each email you receive from UEE will contain instructions for unsubscribing from the email list.
 
-Similarly if you would like UEE not to share your personally identifying information with other companies, you should contact us by writing to us at: Urban Education Exchange Inc., 219 West 135th Street New York, NY 10030.
+Similarly if you would like UEE not to share your personally identifying information with other companies, you should contact us by writing to us at: ReadWorks, 68 Jay Street, #426, Brooklyn, NY 11201.
 
 About Children
 
 The Children's Online Privacy Protection Act took effect on April 21, 2000 and imposes certain requirements on websites directed toward children under 13 that collect information on those children, or on websites that know they are collecting information on children under the age of 13. If you are under 13 years of age, please do not provide any individually identifiable information, such as name, home address, email address, telephone number or any other information that would allow someone to identify or contact you. It currently is UEE’s policy not to knowingly request or collect personal information on any person under the age of 13.
 
-If UEE becomes aware that an individual is under the age of 13 and has submitted any information to us for any purpose without prior verifiable parental consent, it will delete his or her information from UEE files. In addition, if a parent, guardian or person over the age of 13 becomes aware that a child has submitted personal information without proper consent, that person should immediately contact UEE at the email address listed on the [Contact Page](https://web.archive.org/uee/contact) of the website, or by writing to us at: Urban Education Exchange 219 West 135th Street New York, NY 10030. Upon receipt of such written notice UEE will delete the child's information from its existing files. If this policy changes, UEE will revise this portion of its privacy policy and will comply with the requirements of the Children's Online Privacy Protection Act, which include providing notice and choice to each child's parent or guardian before collecting personal information.
+If UEE becomes aware that an individual is under the age of 13 and has submitted any information to us for any purpose without prior verifiable parental consent, it will delete his or her information from UEE files. In addition, if a parent, guardian or person over the age of 13 becomes aware that a child has submitted personal information without proper consent, that person should immediately contact UEE at the email address listed on the [Contact Page](https://web.archive.org/uee/contact) of the website, or by writing to us at: ReadWorks, 68 Jay Street, #426, Brooklyn, NY 11201. Upon receipt of such written notice UEE will delete the child's information from its existing files. If this policy changes, UEE will revise this portion of its privacy policy and will comply with the requirements of the Children's Online Privacy Protection Act, which include providing notice and choice to each child's parent or guardian before collecting personal information.
 
 Securing Information 
 
 UEE is committed to doing its best to maintain the security of information collected on the Website. To try to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, UEE has put in place reasonable physical, electronic, and managerial procedures to safeguard and secure information collected online. To the extent user information is maintained, it is located on a secured server behind a firewall; it is not directly connected to the internet. The firewall meets recognized industry standards.
 
-Your confidence in us is UEE’s highest priority. If you have any concerns about privacy and security that have not been answered in this policy, please contact us at the email address [info@ueexchange.org](mailto:info@ueexchange.org), or by writing to us at: Urban Education Exchange, 219 West 135th Street New York, NY 10030.
+Your confidence in us is UEE’s highest priority. If you have any concerns about privacy and security that have not been answered in this policy, please contact us at the email address [info@readworks.org](mailto:info@readworks.org), or by writing to us at: ReadWorks, 68 Jay Street, #426, Brooklyn, NY 11201.
 
-This Privacy Policy was last updated on December 2nd, 2010.
+This Privacy Policy was last updated on June 27, 2012.
