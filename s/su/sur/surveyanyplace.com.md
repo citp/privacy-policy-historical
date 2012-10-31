@@ -1,100 +1,45 @@
-> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031133440id_/http%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Survey AnyplaceSurvey Anyplace
 
-**Go Daddy Respects Your Privacy**
+This privacy policy (“Privacy Policy”) tells you how we use personal information collected at the surveyanyplace.com Site. Please read this Privacy Policy before using the Site or submitting any Personal Data. By using the Site, you are accepting the terms of this Privacy Policy. This Privacy Policy supplements the Survey Anyplace Terms (and uses terms defined therein), and is a part of the Agreement between Survey Anyplace and its Users. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### Principles applied
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Survey Anyplace is committed to the protection of the privacy and Personal Data of its Users. Survey Anyplace applies the principles of Data Protection Law (which is defined as the applicable laws governing data protection and privacy. Throughout the European Union, this means the relevant implementations of the EU Directive 95/46/EC dated 24 October 1995 of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data (Official Journal L 281 of 23/11/1995), any replacement legislation, or any similar regulation under any applicable law, and any regulatory requirements or codes of practice governing the use, storage or transmission of Personal Data), which are that: -          Personal Data will only be processed fairly and lawfully; -          Personal Data will only be processed for the purposes set forth in this Policy, and in accordance with your rights; -          Personal Data collected will be adequate, relevant and not excessive in the light of these purposes; -          Personal Data will not be kept longer than necessary; -          Personal Data will be held secure; -          Personal Data will only be transferred in accordance with applicable Data Protection Laws; -          You will be able to ensure at all times that your Personal Data are accurate. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### Which data are collected, and what are Personal Data?
 
-**Information Collection and Use**
+Survey Anyplace collects the Personal Data you submit when you open or use an Account. Examples are your name, address, or other data that allow you to be identified (“Personal Data”). Please note that any data used or submitted by you in or through a survey or other application or functionality of the Site that is made partially or wholly available to other Users, Respondents or any part of the public is not considered Personal Data, since you choose to make it available to Respondents without interference from or control by Survey Anyplace. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### Use of Personal Data
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+You agree that by submitting your Personal Data to the Site, Survey Anyplace may use and/or share with third parties your Personal Data for the following purposes: -          For managing your User account, including sending a password when reported forgotten, linking your name to Content you created, providing the Services offered, sending subscription-based emails, to which you can unsubscribe, regarding your account, the Site or the Services, and for collecting payments. -          To deliver, monitor, develop and improve the Site and the Services and to provide you with a better and more personalized User experience. -          For general advertising and marketing purposes (including audit, data analysis and research). Survey Anyplace may share demographic, profile and other general information about You and other Users with our partners on an aggregate basis. -          For direct marketing purposes to You, but only when You have given permission -          If required to do so by law, regulation or under a good faith belief that action is necessary to conform to or comply with the law and legal process, to protect and defend Survey Anyplace rights and/or property and customers, whether or not required to do so by law. Survey Anyplace reserves the right to contact appropriate authorities and disclose Personal Data at its discretion when it appears that individuals are using the Site or Services for illegal or infringing activities that otherwise violate the Survey Anyplace Privacy Policy or Terms. -          To process Personal Data on servers in other countries. We may therefore transfer and process your Personal Data on a server outside Your country or outside the European Union or the European Economic Area. However, Survey Anyplace will always do so in accordance with this Privacy Policy and applicable laws. -          In relation to a merger or acquisition by another company, or if the business unit providing Your service were sold to another company, Personal Data may be transferred to and used by the resulting combined company. If Survey Anyplace were to cease operations, this Personal Data might be transferred to and used by another company, which offers similar or related products or services. Subject to the above, we won’t do any of the following with your Personal Data: -          We won’t ever sell your Personal Data information to anyone else. -          We won’t spam you (but we may send you useful updates and news from Survey Anyplace). -          We won’t divulge your Personal Data to anyone you haven’t asked us explicitly to reveal it to. -          We won’t share your information with a 3rd party unless required by law. We do not sell personal information collected through this site or use your personal information for any other purposes than those stated above. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### Links
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+This Privacy Policy only covers the Survey Anyplace Site. We are not responsible for the data policies or procedures or the content of other linked sites. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### Cookies
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Cookies may be used by us to provide you with customised information from the Site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to establish the most popular areas of our web site. Cookies are also used to maintain a session, which tells us you are logged in. Your password, or any other personal information, is never stored in this cookie. We use cookies so that we can give you a better experience when you return to our Site. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it. If you disable cookies from your browser you may not be able to access certain features of a particular web site. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### Keeping your Personal Data correct and complete
 
-**Security**
+While your account is active, you will at all times have access to your profile and any Personal Data you have submitted. You will be responsible for the content of your submitted Personal Data, and you will be responsible for such information to keep it truthful, correct and up to date. Please remember that Personal Data you share with other Users or Respondents may become public. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### Data Security
 
-**Updating Your Information**
+Your Personal Data is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to it. Survey Anyplace uses a variety of adequate security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. Survey Anyplace secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When financial information (such as a credit card number) is transmitted to the payment gateway, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Questions
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If you have questions or concerns about this Privacy Policy, its implementation, or your Personal Data, please contact Survey Anyplace at [info@surveyanyplace.com](mailto:info@surveyanyplace.com). 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Law
 
-      iii.      You may call us at: (480) 505-8800
+The Website is operated from Belgium, and therefore Belgian law applies (including its implementation of Data Protection Laws). Only Belgian courts will have jurisdiction. 
 
-       iv.      You may fax us at: (480) 505-8844
+### Modification
 
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Survey Anyplace reserves the right to make changes to and update this Privacy Policy from time to time. If we make any material changes to this Privacy Policy we will notify you by posting the new version of the Privacy Policy on the Site or may send each User a courtesy email.  It is your responsibility to check the Site for updates to this Privacy Policy.   Last Updated: September 25, 2012  
