@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotefame.info privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510130106id_/http%3A//www.quotefame.info/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotefame.info privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031034300id_/http%3A//www.quotefame.info/page/privacy) for the most accurate reproduction.*
 
 # Privacy - QuoteFame
 
