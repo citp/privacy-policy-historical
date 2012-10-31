@@ -1,19 +1,14 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607004421id_/http%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.static/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031192520id_/https%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy and cookies | Cotswold Outdoor
 
 **We care about your privacy**
 
 **This privacy policy covers Cotswold Outdoor Ltd and its websites.**
 
-You can browse our website without disclosing any personal data to us.
-
-We will store data that you provide us with to allow us to process and fulfil any order requirements and also to provide you with the best possible service.
+You can browse our website without disclosing any personal data to us. We will store data that you provide us with to allow us to process and fulfil any order requirements and also to provide you with the best possible service.
 
 Any personal data that you may volunteer whilst using our services e.g. (customer registration, placing an order or requesting a catalogue) will be stored. We will use this data for our own marketing purposes, including market research and to keep you up to date with any product offers or information regarding our stores or direct sales channels.
-
-  
-
 
 **We will not share your data with any other third party organisation**  
 
@@ -32,7 +27,6 @@ Any personal data that you may volunteer whilst using our services e.g. (custome
   * Order details
   * Your favourite outdoor activities
 
-  
 
 
 **All information is collected lawfully and in accordance with the Data Protection Act 1998**  
@@ -40,22 +34,11 @@ Any personal data that you may volunteer whilst using our services e.g. (custome
 
 Our website contains links to third party websites operating their own terms and conditions and privacy policies. The Cotswold Outdoor Ltd group is not responsible for the policies of any linked third party sites.
 
-Our community, www.community.cotswoldoutdoor.com has it’s own privacy policy, which can be found [here](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.static/sub/communitytc "Community Privacy Policy")
+Our community, www.community.cotswoldoutdoor.com has it’s own privacy policy, which can be found on the tab "Community T&Cs" on the Terms and Conditions page [here](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/terms-conditions "View Terms & Conditions")
 
-**Find out more**
+**Cookies (...and not the round, edible ones!)**
 
-If you have a general query, please check our [Frequently Asked Questions](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.static/sub/FAQs "Frequently Asked Questions") section which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.static/sub/customer-service "contact us ").
-
-  
-
-
-**Cookies**
-
-**What are cookies? (not the round, edible ones!)**
-
-Cookies are tiny text files stored on your computer when you visit certain web pages.
-
-At www.cotswoldoutdoor.com we use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
+Cookies are tiny text files stored on your computer when you visit certain web pages. We use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
 
 But don't worry, cookies do not in any way harm your computer. However, by allowing cookies you will be able to use all of the features on our website, plus your anonymous data helps us to develop and improve our website and your experience.
 
@@ -68,25 +51,6 @@ But don't worry, cookies do not in any way harm your computer. However, by allow
   * **Third party cookies** \- A third party cookie is placed on your computer by a website other than the one you are visiting. These cookies are generally issued by affiliate companies and are in a standard format that makes the information collected readable by other websites.
 
 
-
-**Using 'share' tools**
-
-**When you choose to 'share' content with your friends through social media networks like Facebook and Twitter, you may be sent cookies from these websites.**
-
-We don't control the setting of these cookies, so please check the third-party websites for more information about their cookies and how to manage them. 
-
-Social media tools on our website: 
-
-  * • Facebook 
-  * • Twitter 
-  * • Google Plus 
-  * • YouTube 
-
-
-
-**Find out more**
-
-If you have a general query, please check our [Frequently Asked Questions](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.static/sub/FAQs "Frequently Asked Questions") section which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [ contact us](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.static/sub/customer-service "contact us "). 
 
 **Exempt cookies**
 
@@ -175,4 +139,23 @@ Firefox 3.0+
   5. Un -tick the box that says 'Accept Cookies From sites'
   6. Click OK and Close the screen.
 
+  
+  
+**Using 'share' tools**
 
+**When you choose to 'share' content with your friends through social media networks like Facebook and Twitter, you may be sent cookies from these websites.**
+
+We don't control the setting of these cookies, so please check the third-party websites for more information about their cookies and how to manage them. 
+
+Social media tools on our website: 
+
+  * • Facebook 
+  * • Twitter 
+  * • Google Plus 
+  * • YouTube 
+
+
+
+**Find out more**
+
+If you have a general query, please check our [Frequently Asked Questions](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/FAQs "Frequently Asked Questions") section which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/customer-service "contact us ").
