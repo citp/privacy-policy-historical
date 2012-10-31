@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkart.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508063729id_/http%3A//www.sparkart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkart.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031045632id_/http%3A//sparkart.com/privacy) for the most accurate reproduction.*
 
 # privacy policy • sparkart
 
