@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudstack.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130050id_/http%3A//www.cloudstack.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudstack.org privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031234132id_/http%3A//cloudstack.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# CloudStack Privacy Policy
 
 ## Personal Information
 
@@ -12,4 +12,4 @@ Certain free downloadable software programs from Citrix Systems Inc. may notify 
 
 ## Links to Other Sites
 
-The CloudStack.org site contains links to other Web sites for news and other information. Citrix Systems Inc. is not responsible for the privacy practices or the content of such Web sites.
+The CloudStack.org site contains links to other websites for news and other information. Citrix Systems Inc. is not responsible for the privacy practices or the content of such websites.
