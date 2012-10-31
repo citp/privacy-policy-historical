@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highwire.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021153id_/http%3A//www.highwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031013851id_/http%3A//www.highwire.com/privacy) for the most accurate reproduction.*
 
 # Highwire Privacy Policy - Create Your Own Online Store
 
