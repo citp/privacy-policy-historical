@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627000941id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031125913id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Driver Whiz Privacy Policy
 
@@ -6,10 +6,11 @@
 
 383 MEDIA, INC. (“383 MEDIA, INC.”) privacy policy (“Privacy Policy”) covers the collection and use of personal information (“Personal Information”) that we may gather any time you interact with us, such as when you visit our Web site, purchase a 383 MEDIA, INC. products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how 383 MEDIA, INC. uses the information, and how we safeguard your Personal Information when you submit it to us at www.driverwhiz.com. At 383 MEDIA, INC., protecting your privacy is important to us. After all, online privacy and security is what we’re all about. You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by 383 MEDIA, INC. in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.
 
+Driver Whiz is certifed as a Trusted Download Program by TRUSTe signifying that the Driver Whiz application has been tested TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Driver Whiz application, please contact us at 383 Media, Inc., 5776 Stoneridge Mall Road, Suite 335, Pleasanton, CA 94588 or by email at driverwhiz@driversupport.com or by phone at 512.373.3518. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=198&sealid=112 "TRUSTe")**.
+
 ### Why 383 MEDIA, INC. Collects Personal Information
 
-383 MEDIA, INC. only collects your Personal Information where it is required to provide you the best services and products available. By maintaining an accurate customer database, we are able to send notifications via e-mail to keep you informed about the status of your orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our products and services.  
- 
+383 MEDIA, INC. only collects your Personal Information where it is required to provide you the best services and products available. By maintaining an accurate customer database, we are able to send notifications via e-mail to keep you informed about the status of your orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our products and services.
 
 ### Why 383 MEDIA, INC. Collects Device Hardware and Software Inventory Information
 
@@ -111,6 +112,6 @@ For questions about this policy as well as product-related technical support: <h
 5776 Stoneridge Mall Road, Suite 335  
 Pleasanton, CA 94588
 
-  **Phone:** 512.373.3518  
+**Phone:** 512.373.3518  
 **Fax:** 254.983.9179  
 **Email:** driverwhiz@driversupport.com
