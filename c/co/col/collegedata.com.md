@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610085855id_/http%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031072028id_/http%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml) for the most accurate reproduction.*
 
 # CollegeData - Privacy Policy
 
@@ -18,7 +18,7 @@ Sign Up
 When you sign up for CollegeData, we ask that you provide to us certain personally identifiable information. We request this information in order to verify compliance with the CollegeData Site User Agreement and applicable federal, state and local law and for identification and security purposes. We may also ask that you provide to us certain other information, such as how you heard about CollegeData and what college planning resources you are using or have used.
 
 Data Locker  
-When you use certain tools on this Site, such as College Chances, EFC Estimator, College Match, Scholarship Finder, and College Net Cost Calculator, and when you save items to your Data Locker, such information will be retained in a file specific to you.
+When you use certain tools on this Site, such as College Chances, EFC Calculator, College Match, Scholarship Finder, and College Net Price Calculator, and when you save items to your Data Locker, such information will be retained in a file specific to you.
 
 Collection of Personal Information from Children Under Thirteen  
 1st Financial Bank USA does not knowingly allow children under the age of thirteen (13) to sign up for our services.
@@ -41,7 +41,7 @@ This Privacy Policy only addresses our use and disclosure of information we coll
 
 What security measures does the Site employ?
 
-We maintain physical, electronic, and procedural safeguards that are designed to guard your personally identifiable information, including the information we collect on this Site. Our security procedures are aimed at preventing unauthorized access to such information and are reviewed and audited periodically for compliance with federal standards. To help protect the privacy of data you transmit through use of this Site, all communication of personally identifiable information is transmitted over a Secure Sockets Layer (SSL). Your registration and log in information are always transmitted using SSL, as is information submitted on an Admissions Profile or when using the EFC Estimator. We also recommend users access the Site with a browser that supports 128-bit encryption.
+We maintain physical, electronic, and procedural safeguards that are designed to guard your personally identifiable information, including the information we collect on this Site. Our security procedures are aimed at preventing unauthorized access to such information and are reviewed and audited periodically for compliance with federal standards. To help protect the privacy of data you transmit through use of this Site, all communication of personally identifiable information is transmitted over a Secure Sockets Layer (SSL). Your registration and log in information are always transmitted using SSL, as is information submitted on an Admissions Profile or when using the EFC Calculator. We also recommend users access the Site with a browser that supports 128-bit encryption.
 
 How will I know about changes in the Privacy Policy?
 
