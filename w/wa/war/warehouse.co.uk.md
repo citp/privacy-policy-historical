@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warehouse.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501070508id_/http%3A//www.warehouse.co.uk/fcp/content/Privacy-Statement/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warehouse.co.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031154834id_/http%3A//www.warehouse.co.uk/fcp/content/Privacy-Statement/content) for the most accurate reproduction.*
 
 # Information - Privacy - Warehouse.co.uk
 
-Warehouse is a member of Aurora Fashions group of companies (" **we** ", " **us** " and " **our** "). We take your privacy very seriously. We work hard to make sure that we only use your information in the ways that you want us to. This Privacy Statement explains what information we collect on the Warehouse website at www.warehouse.co.uk (the " **Website** ") and the Warehouse Facebook page at www.facebook.com/WarehouseFashion (" **Facebook Page** "), how and when it is collected, what we use it for now and how we will use it in the future. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement please contact us at [helpme@warehouse.co.uk](mailto:helpme@warehouse.co.uk).
+Warehouse is a member of Aurora Fashions group of companies (" **we** ", " **us** " and " **our** "). We take your privacy very seriously. We work hard to make sure that we only use your information in the ways that you want us to. This Privacy Statement explains what information we collect on the Warehouse website at www.warehouse.co.uk (the " **Website** "), how and when it is collected, what we use it for now and how we will use it in the future. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement please contact us at [helpme@warehouse.co.uk](mailto:helpme@warehouse.co.uk).
 
 ### No junk email
 
@@ -81,13 +81,6 @@ If you want to delete any cookies that are already on your computer, please refe
 Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). However, please note that if you disable the use of cookies on your computer, you will not be able to shop on our Website.
 
 Back to top
-
-### Facebook
-
-  1. We, and not Facebook, may collect information from you in relation to the operation of the Facebook Page.
-  2. Notwithstanding clause 1 of this part, we will not use any information collected from you without your permission.
-
-
 
 ### And lastly
 
