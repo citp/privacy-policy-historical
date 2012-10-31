@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531083603id_/http%3A//www.hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031025715id_/http%3A//www.hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
 
 # HanCinema Privacy Policy Statement @ HanCinema :: The Korean Movie and Drama Database, discover the South Korean cinema and drama diversity
 
 HanCinema is a web site made by **Cedric Collemine**.
 
 Our postal address is   
-**155 rue de Boissise  
-77190 - Dammarie-les-Lys - France**
+**5392 208 Ss  
+Langley, BC V3A 2J9 - Canada**
 
 We can be reached via e-mail by clicking here, Contact, and leaving us a message.  
-or you can reach us by telephone at 33 (0) 1 64 79 17 87
+or you can reach us by telephone at 33 (0) 604 725 2413
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
