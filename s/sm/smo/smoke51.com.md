@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smoke51.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527081318id_/http%3A//www.smoke51.com/shop/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoke51.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031021930id_/http%3A//www.smoke51.com/shop/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
