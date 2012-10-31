@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesurge.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508051839id_/http%3A//www.articlesurge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesurge.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031132842id_/http%3A//www.articlesurge.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Privacy Statement
 
@@ -17,6 +17,12 @@ Aggregated Information (information that does not personally identify you) may b
 We may use Personally Identifiable Information collected on www.Article Surge to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.Article Surge and other topics we think you might find of interest. 
 
 Personally Identifiable Information collected by YOUR SITE NAME HERE may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Affiliated sites, linked sites and advertisements**
 
