@@ -1,26 +1,23 @@
-> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629083403id_/http%3A//www.safaribooksonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031050754id_/http%3A//www.safaribooksonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Safari Books Online
 
 #####  This version (Version 2.0) of Safari's Privacy Policy is effective as of December 15, 2011.
 
-This Policy (the "Policy") discloses the privacy practices of Safari Books Online, LLC ("Safari," "we," "us," "our"). Safari is the owner and operator of the web sites located at [www.creativeedge.com](http://www.creativeedge.com/) and [www.safaribooksonline.com](https://web.archive.org/). This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you.
+This Policy (the "Policy") discloses the privacy practices of Safari Books Online, LLC ("Safari," "we," "us," "our"). Safari is the owner and operator of the web sites located at [www.creativeedge.com](http://www.creativeedge.com/) and [www.safaribooksonline.com](http://www.safaribooksonline.com/). This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you.
 
 Safari has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with _TRUSTe's program requirements_ including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information collected through this Web site.
 
-Safari Books Online, LLC complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Safari Books Online, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Safari Books Online, LLC's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/%22%20%5Ct%20%22_blank). complies with the U.S. -- E.U. & U.S. -- Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the U.S. -- E.U. & U.S. -- Swiss Safe Harbor Framework can be found at: _<http://export.gov/safeharbor>_. If you have any questions about this Policy, please contact us by email at [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com) or by mail at:
+Safari Books Online, LLC complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Safari Books Online, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Safari Books Online, LLC's certification, please visit <http://www.export.gov/safeharbor>. If you have any questions about this Policy, please contact us by email at [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com) or by mail at:
 
 > Safari Books Online, LLC  
 >  1003 Gravenstein Hwy North  
 >  Sebastopol, CA 95472
 
+  1. **Information We Collect**
+
 Personally Identifiable Information ("PII") means information that can be directly associated with you (such as your name, email address, telephone number or billing information), or information about activities directly linked to you (such as subscriptions that you have licensed or purchased). We collect PII in the following ways:
 
-We will not sell your information to third party companies for their promotional use, except in the event that Safari is involved in a merger or acquisition as described below.
-
-We may share or disclose your PII with:
-
-  1. **Information We Collect**
     * **1.1 Information that you provide to us directly:**
 
 When you contact or communicate with Safari, we may gather information such as your name, physical address, email address and phone number.
@@ -78,6 +75,11 @@ Advising you of relevant promotions, products, services, and news about Safari a
 >  Preventing fraud and prohibited or illegal activities
 
   3. **How We Share and Disclose PII**
+
+We will not sell your information to third party companies for their promotional use, except in the event that Safari is involved in a merger or acquisition as described below.
+
+We may share or disclose your PII with:
+
     * Companies that are related to Safari, in order to support business and marketing processes
     * Our service providers and suppliers, who are authorized to use your personal information _only as necessary_ to provide these services to us. For example, we use a third party payment processor in order to bill you for the goods and services you have purchased, an email service provider to send communications to you on our behalf, and a third party "Live Chat" service that helps provide customer service.
     * As necessary, if we suspect a violation of our policies or to protect the rights or safety of any person or entity
@@ -110,10 +112,10 @@ If you need to update, correct, or request the deletion or deactivation of your 
 
 You also may update your information by writing to:
 
-Safari Books Online, LLC  
-Attn: Customer Service  
-1003 Gravenstein Hwy North  
-Sebastopol, CA 95472
+> Safari Books Online, LLC  
+>  Attn: Customer Service  
+>  1003 Gravenstein Hwy North  
+>  Sebastopol, CA 95472
 
 We will make reasonable efforts to incorporate the changes as soon as possible. Before we make changes, we may ask you to verify your identity and/or provide other details. We may keep a copy of the prior information for our records.
 
@@ -133,20 +135,20 @@ Safari transacts business throughout the world and has operations, processes and
 
 Safari regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Safari's treatment of PII by emailing us at [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com) or by writing to us at:
 
-Safari Books Online, LLC  
-Attn: Customer Service  
-1003 Gravenstein Hwy North  
-Sebastopol, CA 95472SS
+> Safari Books Online, LLC  
+>  Attn: Customer Service  
+>  1003 Gravenstein Hwy North  
+>  Sebastopol, CA 95472
 
   11. **Changes to this Privacy Policy**
 
-Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent. We will post any Policy changes on this page and, if the changes are significant, we will provide prior notice via a prominent notice on our site. and Wwe will also keep prior versions of this Policy in an archive for your review.
+Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent. We will post any Policy changes on this page and, if the changes are significant, we will provide prior notice via a prominent notice on our site. We will also keep prior versions of this Policy in an archive for your review.
 
   12. **Your California Privacy Rights**
 
 (for California residents) - Information-Sharing Disclosure
 
-Safari's policy is to share your personal information only if you have given us your consent, for instance, by your agreeing to this Policy.
+Safari’s policy is to share your personal information only if you have given us your consent, for instance, by your agreeing to this Policy.
 
 After obtaining such consent, Safari may from time to time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs.
 
@@ -154,9 +156,7 @@ If you no longer wish your information to be shared, please let us know. If you 
 
   13. **Previous Versions**
 
-For the previous version see [Safari Online Privacy Policy, [Version 1.0]](https://web.archive.org/web/20120629083403id_/http%3A//www.safaribooksonline.com/6.0/privacyPolicyV1.html)
-
-This is Version 2.0.
+For the previous version see [Safari Online Privacy Policy, [Version 1.0]](http://my.safaribooksonline.com/6.0/privacyPolicyV1.html)
 
 
 
