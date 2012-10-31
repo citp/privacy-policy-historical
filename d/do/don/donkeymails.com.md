@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618033415id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031105947id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # DonkeyMails.com: No Minimum Payout
 
@@ -8,18 +8,26 @@
 ---  
 Welcome to DonkeyMails.com! 
 
-Donkeymails is launched at February 3th 2005. Now some years later we've reached our 300,000 Member! We want to thank all our advertisers and members for the great support to make this possible with our current grow we hope to reach the 500,000 in 2010. Not a member yet [Join Now!](http://www.donkeymails.com/pages/confirm.php) start with earning and cashout at no-minimum!! If you are looking for advertising please visit our advertise page [Click here to visit the advertise page!!](http://www.donkeymails.com/pages/advertise.php).  
+Donkeymails is launched at February 3th 2005. Now some years later we've reached our 600,000 Member! We want to thank all our advertisers and members for the great support to make this possible. Not a member yet [Join Now!](http://www.donkeymails.com/pages/confirm.php) start with earning and cashout at no-minimum!! If you are looking for advertising please visit our advertise page [Click here to visit the advertise page!!](http://www.donkeymails.com/pages/advertise.php).  
   
    
    
-| Statistics Apr 2010  
+| Statistics July 2012  
 ---  
-Total Members | 400,000+  
-Total Payouts | 800,000+  
+Total Members | 625,000+  
+Total Payouts | 1,400,000+  
    
   
-[Donkeymails Referral Contest Win $250 Click Here!!](http://donkeymails.com/pages/refcontests.php) 2 Websites that you Really must Join -> [Stiforp In pre Launch!](http://edelweis.stiforptour.com/?SOURCE=07) | [Best Home Business!](http://edelweis.onebigpowerline.com/?SOURCE=07dkm2site)   
-[](http://www.donkeymails.com/scripts/runner.php?BA=24108&hash=9cb9d726309e3143d10cd7b0cfd09f8f&url=http%3A%2F%2Fwww.topleadertoday.com)
+[Donkeymails Referral Contest Win $250 Click Here!!](http://donkeymails.com/pages/refcontests.php)   
+Donkeymails Favorites Must join!-> [Smart Media (paid)](http://edelweis.smartmediatechnologies.com/) | [HomePagepays (FREE)](http://edelweis.homepagepays.com/) | [Stiforp NR 1.!](http://edelweis.stiforptour.com/?SOURCE=07) | [Work from home!](http://edelweis.onebigpowerline.com/?SOURCE=07dkm2site)   
+[](http://www.donkeymails.com/scripts/runner.php?BA=25437&hash=c7601461c89e2b35499c1c2c95bdfa7f&url=http%3A%2F%2Fwww.myfreeshares.com%2Findex.php%3Fref%3Dkamar_virk)
+
+**Hello all donkeymails members,
+
+Today we have a great website that is now in Pre Launch that you really had to join [FunkyShark click here to join](http://rewards.funkyshark.com/act/edelweis?cid=news). This website is now in Pre Launch and is free to join, with a great low cost upgraded membership that let you earn cash into 8 ways. We really expect a lot from this new website which partly become of their great owner (scott wacker) their pay plan, and the program itselfs. So if you not joined it yet this is really the time to get in and to start your promotions [FunkyShark click here to join](http://rewards.funkyshark.com/act/edelweis?cid=news).   
+Sebas Broekhof owner Donkeymails.com 
+
+**
 
   
 **DonkeyMails.com: No Minimum Payout Respects Your Privacy** **Information Collected** DonkeyMails.com: No Minimum Payout has created this privacy statement in order to demonstrate our firm commitment to privacy. DonkeyMails.com: No Minimum Payout uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. DonkeyMails.com: No Minimum Payout uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. DonkeyMails.com: No Minimum Payout's registration form requires users to give us contact information (like their name, address, and email address). DonkeyMails.com: No Minimum Payout uses member contact information from the registration form to send the member information about our company and email advertisements. 
@@ -52,9 +60,9 @@ DonkeyMails.com: No Minimum Payout gives users the following options for changin
 
   
 [](http://www.clixsense.com/?2092639&dkmbot180512) [](http://www.pswtracker.com/index.php?refid=264579&src=dkmbot)   
-[](http://www.wealth2xtreme.com/?edelweis)   
+[](http://www.zephyrclix.com/?ref=edelweis)   
 
 
-**Our Favorite Traffic Exchanges - >**[HitsClub Cash SurfNew*](http://www.hitsclub.com/?r=68386),[LiveTrafficNetwork](http://www.livetrafficnetwork.com/?rid=2651)NEW* ,[Hits-A-Million](http://hits-a-million.com/?refid=17242)NEW*+CashSurf! , [TrafficDelivers](http://trafficdelivers.com/?rid=63056)NEW* , [ListSurfing!](http://www.listsurfing.com/?rid=15402)NEW* ,[$$Sweeva Amazing$$](http://www.sweeva.com/ref/edelweis) , [NewWaySurf](http://www.newwaysurf.com/index.php?refid=9478&campaign=favtraffic) , [HitTactic CashSurf!](http://www.hittactic.com/index.php?refid=edelweis) , [High-Hits](http://www.high-hits.com/?rid=7490) , [Easyhits4u. NR1](http://www.easyhits4u.com/?ref=edelweis), [HitBandit](http://www.hitbandit.com/?ref=edelweis&cnn=allsitefav), [ Bootscootintraffic](http://www.bootscootintraffic.com/?rid=2979) , [SmileyTraffic](http://www.smileytraffic.com/?rid=72) ,[ Soaring4Traffic](http://www.soaring4traffic.com/?rid=10052) , [Hit2hit](http://hit2hit.com/?rid=7) (* New Added!!) 
+**Our Favorite Traffic Exchanges - > ** [VastHits](http://vasthits.com/?r=66177)EARN CASH* ,[ Surfers2U](http://www.surfers2u.com/?rid=4987)EARN CASH* , [BigBeachHits 2 Ref Levels!New*](http://bigbeachhits.com/?rid=3163), [HitsClub Cash SurfNew*](http://www.hitsclub.com/?r=68386),[Hits-A-Million](http://hits-a-million.com/?refid=17242)NEW*+CashSurf! , [TrafficDelivers](http://trafficdelivers.com/?rid=63056)NEW* , [ListSurfing!](http://www.listsurfing.com/?rid=15402)NEW* ,[$$Sweeva Amazing$$](http://www.sweeva.com/ref/edelweis) , [NewWaySurf](http://www.newwaysurf.com/index.php?refid=9478&campaign=favtraffic) , [HitTactic CashSurf!](http://www.hittactic.com/index.php?refid=edelweis) , [High-Hits](http://www.high-hits.com/?rid=7490) , [Easyhits4u. NR1](http://www.easyhits4u.com/?ref=edelweis), [HitBandit](http://www.hitbandit.com/?ref=edelweis&cnn=allsitefav), [SmileyTraffic](http://www.smileytraffic.com/?rid=72) ,[ Soaring4Traffic](http://www.soaring4traffic.com/?rid=10052) , [Hit2hit](http://hit2hit.com/?rid=7) (* New Added!!) 
 
 **This site is part of the[multimoneygroup.com](http://www.multimoneygroup.com/)our sites are:**
