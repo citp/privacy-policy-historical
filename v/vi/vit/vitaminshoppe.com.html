@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the vitaminshoppe.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512020945id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitaminshoppe.com privacy policy that was archived on 2012-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031121407id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
-	<title>Privacy &amp; Security Policy The Vitamin Shoppe</title>
+	<title>Privacy &amp; Security Policy the Vitamin Shoppe</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<link rel="stylesheet" type="text/css" media="all" href="/css/common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/common.css?v=10112012">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" type="image/png" href="/favicon.png">
 <meta property="fb:app_id" content="199149016765969">
 
 <link href="/css/uicl.css" othercontext="/search" type="text/css" rel="stylesheet">
@@ -13,7 +15,7 @@
 <![endif]-->
 
 <!--VS-282: Google Analytics Implementation  -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://static.www.turnto.com/traServer3/trajs/I1h5bZdr3OSP4fMsite/tra.js"></script><script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-3215593-1']);
 	_gaq.push(['_trackPageview']);
@@ -24,20 +26,28 @@
 <script language="javascript" type="text/javascript" src="/search/js/updateRecordListForm.js"></script>
 <script language="javascript" type="text/javascript" src="/search/js/util.js"></script>
 <script language="javascript" type="text/javascript" src="/search/js/searchbox.js"></script>
-<script language="javascript" type="text/javascript" src="/search/js/prototype.js"></script>
-<script language="javascript" type="text/javascript" src="/search/js/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/search/js/builder.js"></script><script type="text/javascript" src="https://web.archive.org/search/js/effects.js"></script><script type="text/javascript" src="https://web.archive.org/search/js/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/search/js/controls.js"></script><script type="text/javascript" src="https://web.archive.org/search/js/slider.js"></script>
-<script language="javascript" type="text/javascript" src="/search/js/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery/jquery-1.7.2.js"></script>
  
 <script language="javascript" type="text/javascript" src="/js/common.js"></script>
-<script language="javascript" type="text/javascript" src="/js/jquery/jquery.js"></script>
 <script language="javascript" type="text/javascript" src="/js/jquery/jquery.ready.js"></script>
 
+<script type="text/javascript" src="/js/jquery/querystring-0.9.0-min.js"></script>
+<script type="text/javascript" src="/js/jquery/querystring-0.9.0.js"></script>
 
 <script language="javascript" type="text/javascript" src="/js/foresee/foresee-alive.js">
 </script>
 
-
+<script type="text/javascript" src="/js/cookie_fn.js"></script>
+<script type="text/javascript">
+	var showPurchaseSharingWidget=false;
+	var confirmedOrderId = "null";
+	 var sitekey = "I1h5bZdr3OSP4fMsite";
+</script>
+<script type="text/javascript" src="/js/turnto_vs.js"></script>
 <script type="text/javascript" language="JavaScript">
+<!-- Added the check below to handle IE-7,8 issue when applying the Newbie coupon.--> 
+
+
 function checkForm() {
 answer = true;
 if (siw && siw.selectingSomething)
@@ -46,38 +56,164 @@ return answer;
 }//
 </script>
 
+<script type="text/javascript">
 
-<script src="/js/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+var turnToConfig = {
+  siteKey: sitekey,
+  floatingTeaserStyle:2,
+  orderConfFlowPauseSeconds:3,
+  postPurchaseFlow:showPurchaseSharingWidget,
+  askStaffOption: true,
+  questionHeader:"Ask customers who bought this.<br/><span style='font-weight:normal;font-size:14px;'>We&rsquo;ll email them your question, then email you their replies.</span>",
+  askStaffQuestFor: "My question is for",
+  askCustomerRadio:"Previous Customers: (Product Questions: best uses, have they had any problems, advice, etc.) ",
+  askStaffRadio:"Vitamin Shoppe Staff: (Specific Questions: product details, shipping availability, or other customer service issue)",
+  questionBoxInstruction: "<div class=\"TTQuestionBoxInst\">1. You must sign in to ask your question <br />2. Please do not include HTML, links, references to other stores, pricing, or your contact information within the body of your question. These elements are automatically suppressed by the program.</div>",
+  askStaffMessageFunction: turntoStaffMessageDisplay,
+  setupType: "staticEmbed",
+  viewEmbedUgcFromEmailFunc:showQaTabFromEmailLink,
+  registration: {
+        localGetLoginStatusFunction:localGetLoginStatusFunction,	              
+        // this url will be loaded in an iframe in a TT overlay and will handle partner site user login or registration.
+        // After the login or registration, the page should call
+        // parent.TurnTo.localAuthenticationComplete();	               
+
+        localRegistrationUrl:'/store/en/common/turnto_login.jsp',
+        localGetUserInfoFunction:localGetUserInfoFunction,
+        localLogoutFunction:localLogoutFunction
+    }
+};
+if (document.location.href.indexOf('login.jsp') > -1) {
+    turnToConfig.callbackFn = turnto_logout
+}
+		if(document.location.href.indexOf('order_confirm.jsp') > -1) {
+		    document.write(unescape("%3Cscript src='" + document.location.protocol + "//static.www.turnto.com/tra3/turntoFeed.js' type='text/javascript'%3E%3C/script%3E"));
+		}
+		    </script>
+		    <script type="text/javascript">
+		    if(document.location.href.indexOf('order_confirm.jsp') > -1) {
+		        document.write(unescape("%3Cscript src='" + document.location.protocol + "//static.www.turnto.com/traServer3/trajs/" + turnToConfig.siteKey + "/tra.js' type='text/javascript'%3E%3C/script%3E"));
+
+		     } else {
+		              (function() {
+		                  var tt = document.createElement('script'); tt.type = 'text/javascript'; tt.async = true;
+		                  tt.src = document.location.protocol + "//static.www.turnto.com/traServer3/trajs/" + turnToConfig.siteKey + "/tra.js";
+		                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tt, s);
+		              })();
+		     }
+		  </script>
+
+
+<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/visitor/addons/deploy2.asp?site=77706594&amp;d_id=vitaminshoppe&amp;default=simpleDeploy"></script><script src="/js/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 
 <body>
 
+	  <a name="#top" id="pageTop"></a>
 <!-- div#header -->
 <div id="page-container">
 
 <!-- div#header -->
 <div id="header">
+	<div id="tools-logo-wrapper">
 
-<div id="logo">
-	<h1><span>
-		 <a href="http://www.vitaminshoppe.com/store/en/vitamins_minerals/index.jsp?tab_selection=">The Vitamin Shoppe
-                              </a></span></h1>
-</div>
-
-<div id="searchTitle"></div>
+		<div id="logo">
+			 <a href="http://www.vitaminshoppe.com/store/en/vitamins_minerals/index.jsp?tab_selection=" tabindex="1"><img src="/images/en/global/topNav/vs_logo.jpg" alt="the Vitamin Shoppe">
+							</a></div><!-- /logo -->
 
 
+<script type="text/javascript" language="JavaScript">
+$("#logo a").ready(function(){
+	$("#logo a").attr("tabIndex","1");	
+});
+</script>
 
+<div id="tools-wrapper">
+
+<!-- div#topTools -->
+  <div id="topTools">
+  	<div id="sign-in">
+
+  <style type="text/css">
+   .turnto_off{display:block;}
+   .turnto_on{display:none;}
+  </style>
+  	<span class="turnto_off"><b>hello,&nbsp;<a href="/store/en/profile/your_account.jsp?tab_selection=">please sign in</a>.</b></span>
+			           
+									<span class="turnto_on">
+                 	<span class="turnto_loggedout"><b>hello,&nbsp;<a href="/store/en/profile/your_account.jsp?tab_selection=">please sign in</a>.</b></span>
+                	<span class="turnto_loggedin"><b>hello,&nbsp;<span class="userFirstName"></span></b>&nbsp;(not&nbsp;<a href="/store/en/profile/login.jsp?_DARGS=/store/en/common/header_std_bot.jsp_A&amp;_DAV=&amp;_dynSessConf=-7827098906399570924"><span class="userFirstName"></span></a>?)</span>
+                </span>
+              </div><!-- /signin -->
+		
+
+    <div id="account-items">
+		 		  
+		<a href="http://www.vitaminshoppe.com/content/en/stores/index.jsp?intsource=header&amp;tab_selection=">store locator</a>
+
+		  |
+
+		  <a href="https://www.vitaminshoppe.com/store/en/profile/your_account.jsp?tab_selection=">my account</a>  
+
+		  |
+
+		  <a href="http://www.vitaminshoppe.com/content/en/support/help/help.jsp?intsource=header&amp;tab_selection=">help</a>	  
+
+			| 1-866-293-3367
+	</div><!-- /account-items -->	
+
+	<div id="cart">
+		<img src="/images/en/global/topNav/shopping_cart.gif">(0 Items) your shopping cart</div><!-- /cart -->
+	<div class="clear"></div>
+
+  </div><!-- /div#topTools -->
+  
 <div id="SearchFormDiv">
+<link rel="stylesheet" type="text/css" href="/css/jquery.ui.all.css">
+     <script type="text/javascript" src="/js/jquery/jquery-ui-1.8.21.custom.js"></script>
+   <script type="text/javascript" src="/js/jquery/jquery.ui.core.js"></script>
+   <script type="text/javascript" src="/js/jquery/jquery.ui.widget.js"></script> 
+   <script type="text/javascript" src="/js/jquery/jquery.ui.position.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery.ui.autocomplete.js"></script>
+   <script type="text/javascript">
+   var opr=false;
+   var autoS=false;
+   var srchTxt="";
+   var nodata = false;
+   var escKey = false;
+   var tabKey=false;
+   var typeahead=false;
+   function searchNonSel(event, frm,url){
+   	if(event.keyCode==13) { 
+   		if(nodata&&(document.getElementById('Ntt').value!="")) {
+   			Search(frm, url);
+   		}
+   		else if(escKey&&(document.getElementById('Ntt').value!="")) {
+   			Search(frm, url);
+   		}
+   		else if(srchTxt!=""){
+   			if(srchTxt==document.getElementById('Ntt').value){
+   				if(!autoS){ 
+   					Search(frm, url);
+   				}
+   				else{
+   					autoS=false;
+   				}
+   			}
+   		}else{
+   			Search(frm, url);
+   		}
+   	}
+   }
+   </script>
 <div id="search">
   		<form name="search_form" onsubmit="return false;" id="myForm" action="#">
   			<span>
-		 	<div class="submitCntr">
-	        	<input type="image" src="/images/en/global/topNav/search_box_btn.gif" class="SearchSubmit go-btn" id="submit" name="submit" value="Go" onclick="Javascript:Search(this.form, '/search/controller')">
-		    </div>
 		  		<div class="searchCntr">
-		  			<input type="text" id="Ntt" name="Ntt" maxlength="100" class="searchField" autocomplete="off" onkeydown="if(event.keyCode==13) Javascript:Search(this.form, '/search/controller')">
+		  			<input type="text" id="Ntt" name="Ntt" maxlength="100" value="search" tabindex="2" class="searchField statText" autocomplete="off" onkeydown="javascript:searchNonSel(event, this.form, '/search/controller')">
 					</div>
-
+	  			<div class="submitCntr">
+	        	<input type="image" src="/images/en/global/topNav/search_box_go_btn.gif" tabindex="4" class="SearchSubmit go-btn" id="submit" name="submit" value="Go" onclick="javascript:Search(this.form, '/search/controller')">
+		    </div>
 			<input type="hidden" name="N" value="0">
 			<input type="hidden" name="Ntk" value="SiteSearch">
 			<input type="hidden" name="D_other" value="">
@@ -87,161 +223,17 @@ return answer;
 			<input value="main" type="hidden" name="intsource2">
 			<input value="false" type="hidden" id="showTypeAhead" name="showTypeAhead">
        		<input value="null" type="hidden" name="tab_selection">
-
 		</span>
 			
 	</form>
 	</div>
 </div>
-
-<script>
-	function getCoOrdsForDiv()
-    {
-        // Get top-left co-ordinate of div
-        var textbox = $("#Ntt");
-        var offset = textbox.offset();
-        
-        // Add height of textbox to the top co-ordinate to get the botton left co-ordinate
-        offset.top += textbox.height();
-        
-        // Add some pixels to fix div position, don't know why offset wasnt accurate
-        offset.top += 6;
-        offset.left += 3;
-        
-        return offset;
-    }
-	function getContent(){
-
-		var ajaxUrl = "/search/typeahead?";
-
-		// D=vitamin%20d&Dx=mode+matchall&Dn=0&N=0&Ntt=vitamin%20d&Ntk=product.name";
-		var searchTerm = $.trim(document.getElementById('Ntt').value);
-		
-		//alert("Search term::" + searchTerm + "*");
-		ajaxUrl += "D=" + searchTerm + "*";
-
-		ajaxUrl += "&Ntt=" + searchTerm + "*";
-
-		if(document.getElementById('N')!=null){
-			ajaxUrl += "&N=" + document.getElementById('N').value;
-			ajaxUrl += "&Dn=" + document.getElementById('N').value;
-		}
-		else{
-			ajaxUrl += "&N=0";
-			ajaxUrl += "&Dn=0";
-		}
-		ajaxUrl += "&Dk=1";
-
-		//Abhijit - Added the Di query param:Category - 200784496 Brand - 200785715 Product Aisle - 18
-		//Is there a possibility that this could change in future? 
-		//Need to see if the values can be made dynamic instead of hardcoding
-		ajaxUrl += "&Di=200784496+200785715";		
-		
-        //ajaxUrl += "&Ns=p.purchase_count|1";		
-        //ajaxUrl += "&Ntk=p.display_name";
-        ajaxUrl += "&Ntx=mode+matchall";
-        
-        //TypeAheadSearch is a new Search Interface created with Relevancy Ranking strategy as First and then by Purchase Count 
-        //Search interface applies only for record search. It does not impact Dimension search
-        ajaxUrl += "&Ntk=TypeAheadSearch"; 
-        
-		ajaxUrl += "&Dx=mode+matchall+rel+first";
-
-		ajaxUrl = encodeURI(ajaxUrl);
-		
-	    //alert("ajaxUrl==" + ajaxUrl );
-	
-		$.ajax({
-			  url: ajaxUrl,
-			  cache: false,
-			  success: function(html){
-			  
-			  	var offset = getCoOrdsForDiv();
-			 	
-			  	$('#SuggestionListDiv').css("display", "inline");
-			  	$('#SuggestionListDiv').html(html);
-			    
-			  }
-	});
-	}
-
-	$(document).ready(function() {
-		  $(document).click(function() {
-		    $(".picklist_container_outer").hide();
-		  });
-		});
-
-	jQuery(document).keydown(function(e){
-		if(e.keyCode==27){
-			if (!$.browser.mozilla){
-				$("#Ntt").val('');
-				$(".picklist_container_outer").hide();
-			}
-		}
-		});
-
-	jQuery(document).keypress(function(e){
-		if(e.keyCode==27){
-			if ($.browser.mozilla){
-				$("#Ntt").val('');
-				$(".picklist_container_outer").hide();
-			}
-		}
-		});
-	
-	window.onload = 
-			(
-				function()
-				{
-					$('#Ntt').keyup(function() {
-						if ($('#Ntt').val().length >= 2 
-								&& document.getElementById('showTypeAhead').value						
-						){
-							getContent();
-				  		} else {
-				  			$(".picklist_container_outer").hide();
-				  		}
-					});
-				}
-				
-			   			
-			)
-</script>
-<!-- div#topTools -->
-  <div id="topTools">
-  	<div>
-  	<b>Hello.
-			                <a href="/store/en/profile/your_account.jsp?tab_selection=">Please sign in</a>.</b>  
-									</div>
-		
-    <ul id="tools">
-    <li>
-					 <a href="https://www.vitaminshoppe.com/store/en/profile/your_account.jsp?tab_selection=">My Account
-       			                                    </a></li>    
-   <li>
-	  
-		<a href="http://www.vitaminshoppe.com/content/en/stores/index.jsp?intsource=header&amp;tab_selection=">Store Locator
-	                                    </a></li>
-	  
-	  <li class="noBorder">
-		  <a href="http://www.vitaminshoppe.com/content/en/support/help/help.jsp?intsource=header&amp;tab_selection=">Help
-                                </a></li>
-	   </ul>
-	   	<div>Shop 9AM - 9PM ET: 1-866-293-3367</div>
-	   
-
-   
-
-  </div>
-  <!-- /div#topTools -->
+<div id="lpButtonHeader"></div>
+		</div><!-- /tools-wrapper -->
+</div><!-- /tools-logo-wrapper-->
   
 
-  
-	<div id="shopEco">
-		    	<div id="lpButtonHeader"></div>
-		    	  		 
-			</div>
-		<div class="clear"></div>
+    <div class="clear"></div>
 
 
 <!-- div#tabs -->
@@ -250,47 +242,24 @@ return answer;
         <div id="productTabs">
           <ul class="anchors">
 
-
-	      <li>
-
-
-			<a href="http://www.vitaminshoppe.com/store/en/vitamins_minerals/index.jsp?tab_selection=vitamins"><span class="vitamins">
-								Vitamins &amp; Supplements
-							</span>
+		<li class="active">
+		<a href="http://www.vitaminshoppe.com/store/en/vitamins_minerals/index.jsp?tab_selection=vitamins"><span>vitamins, supplements, herbs &amp; more</span>
 							</a></li>
 			
 			
 			
-            <li class="on">
-			<a href="http://www.vitaminshoppe.com/store/en/sports_nutrition/index.jsp?tab_selection=sports"><span class="sports">Sports Nutrition
-						 	</span>
+		<li>
+			<a href="http://www.vitaminshoppe.com/store/en/sports_nutrition/index.jsp?tab_selection=sports"><span>sports nutrition &amp; workout support</span>
 						 	</a></li>
 			
 	
-            <li>
-    
-    			<a href="http://www.vitaminshoppe.com/store/en/green_living/index.jsp?tab_selection=green_living"><span class="eco">EcoShoppe
-							 	</span>
+		<li>
+			<a href="http://www.vitaminshoppe.com/store/en/green_living/index.jsp?tab_selection=green_living"><span>home, spa &amp; green living</span>
 							 	</a></li>
 
-            <li>            
-            
-   			<a href="http://www.vitaminshoppe.com/store/en/personal_care/index.jsp?tab_selection=personal_care"><span class="personalCare">Personal Care
-						 	</span>
-						 	</a></li>
-
-
-
-	<li>
-	
-		  <!-- Prospero Widgets Demo Script Tag -->
-		<a href="http://community.vitaminshoppe.com" target="_blank"><span class="boards">Message Boards</span></a>				
-			</li>            
-			
-	<li><a href="/store/en/shop/shopping_cart.jsp"><img src="/images/en/global/topNav/shopping_bag.gif" alt="Proceed to Checkout" class="shopBag"></a><span class="cart"><b>Your Shopping Bag:</b><br>
-			 
-	         0 Items
-	    </span></li>
+		<li class="last">
+			<a href="http://www.vitaminshoppe.com/store/en/personal_care/index.jsp?tab_selection=personal_care"><span>natural bath &amp; beauty</span>
+						 	</a></li>      
 
 	 </ul>
 	
@@ -310,19 +279,19 @@ return answer;
 	  
 	  
 		<!-- Shop By Brand -->
-		<li class="rootDrop"><a class="main" href="/store/en/browse/brands.jsp">Shop By <br> Brand</a><ul class="mainNavDrop dropDownWidth3col">
+		<li class="rootDrop"><a class="main" href="/store/en/browse/brands.jsp">shop by brand</a><ul class="mainNavDrop dropDownWidth3col">
 			<li>
 				<div class="menuColumn">
 					<a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785742">Alacer</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785802">Atkins</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785888">BodyTech</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785890">Boiron</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785907">BSN</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785924">Carlson Laboratories</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785967">Country Life</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785981">Cytosport</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200785998">Designer Whey</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786078">Enzymatic Therapy</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786114">Flora</a></div>
 				<div class="menuColumn">
-					<a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786135">Garden of Life</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786142">Genuine Health</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786253">Jarrow Formulas</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786265">KAL</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786342">M.D. Select</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786366">Mercola</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786416">Muscletech</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786426">Natren</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786428">Natrol</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786453">Nature's Plus</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786458">Nature's Way</a></div>
+					<a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786135">Garden of Life</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786142">Genuine Health</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786253">Jarrow Formulas</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786265">KAL</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786366">Mercola</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786416">Muscletech</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786426">Natren</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786428">Natrol</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786453">Nature's Plus</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786458">Nature's Way</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786470">New Chapter</a></div>
 				<div class="menuColumn">
-					<a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786470">New Chapter</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786480">Nordic Naturals</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786541">Optimum Nutrition</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786716">Solaray</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786717">Solgar</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786722">Source Naturals</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786821">TwinLab</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786840">USP Labs LLC</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786869">Vitamin Shoppe</a></div>
+					<a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786480">Nordic Naturals</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786541">Optimum Nutrition</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786641">Rainbow Light Nutritional Systems</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786716">Solaray</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786717">Solgar</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786722">Source Naturals</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786818">True Athlete</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786821">TwinLab</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786840">USP Labs LLC</a><a class="" href="/search/controller?tab_selection=vitamins&amp;type=brand&amp;N=200786869">Vitamin Shoppe</a></div>
  			</li>
 			<!-- code by MP march 27 -->
             <li>
             <div id="brand_box_list">
-            <a class="titleLink" href="/store/en/browse/brands.jsp?tab_selection=vitamins">See All Brands &gt;</a></div>
+            <a class="titleLink" href="/store/en/browse/brands.jsp?tab_selection=vitamins">see all brands &gt;</a></div>
             </li> 			
  			<li>
 				<div class="menu_promo">
@@ -339,7 +308,7 @@ return answer;
 
 	<li class="rootDrop">
         
-			<a class="main" href="/store/en/vitamins_minerals/healthconcerns.jsp">Shop by <br> Health Concern</a><ul class="mainNavDrop dropDownWidth3col">
+			<a class="main" href="/store/en/vitamins_minerals/healthconcerns.jsp">shop by <br> health concern</a><ul class="mainNavDrop dropDownWidth3col textbrand">
 					<li>
 						<div class="menuColumn">
 							<!--ForEach output oparam child.childCategories -->
@@ -348,14 +317,15 @@ return answer;
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784771">Brain &amp; Memory Support</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787368">Build Muscle</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784772">Cardiovascular Support</a><!--ForEach output oparam child.childCategories -->
+					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200788381">Children's Health</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784773">Cleanse and Detox</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784775">Digestive Health</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787443">Endurance Support</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784776">Energy Support</a><!--ForEach output oparam child.childCategories -->
-					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784777">Eye Health</a><!--ForEach output oparam child.childCategories -->
 					</div>
 							<div class="menuColumn">
-							<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787200">Exercise &amp; Workout Support</a><!--ForEach output oparam child.childCategories -->
+							<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784777">Eye Health</a><!--ForEach output oparam child.childCategories -->
+					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787200">Exercise &amp; Workout Support</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784780">Hair, Skin &amp; Nails</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784768">Healthy Aging &amp; Vitality</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787174">Healthy Eating</a><!--ForEach output oparam child.childCategories -->
@@ -364,10 +334,10 @@ return answer;
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784787">Men's Health</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784786">Mood Support</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787340">Pre, During and Post Pregnancy</a><!--ForEach output oparam child.childCategories -->
-					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787360">Seasonal and Homeopathic Allergy &amp; Sinus</a><!--ForEach output oparam child.childCategories -->
 					</div>
 							<div class="menuColumn">
-							<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200786936">Sexual Well-Being</a><!--ForEach output oparam child.childCategories -->
+							<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787360">Seasonal and Homeopathic Allergy &amp; Sinus</a><!--ForEach output oparam child.childCategories -->
+					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200786936">Sexual Well-Being</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784789">Sleep Support</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784790">Stress Management</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787448">Training Support</a><!--ForEach output oparam child.childCategories -->
@@ -375,9 +345,12 @@ return answer;
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200787680">Weight Maintenance</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784791">Weight Management</a><!--ForEach output oparam child.childCategories -->
 					<a class="" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784785">Women's Health</a><!--ForEach output oparam child.childCategories -->
-					<a class="titleLink" href="/store/en/vitamins_minerals/healthconcerns.jsp">
+					<span class="titleLink">
+	<a class="titleLink" href="/store/en/vitamins_minerals/healthconcerns.jsp">
 				Shop All &gt;
-				</a></div>
+				</a></span>
+
+</div>
 					</li>
 				</ul>
         </li>		  
@@ -389,7 +362,7 @@ return answer;
 		  <!-- Vitamins Supplements -->
         <li class="rootDrop">
 			 
-			<a class="main" href="/search/controller?tab_selection=vitamins&amp;type=category&amp;N=200784498">Vitamins &amp; Supplements</a><ul class="mainNavDrop dropDownWidth2col">
+			<a class="main" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784498">vitamins &amp; supplements</a><ul class="mainNavDrop dropDownWidth2col textbrand">
 		  
 		  <li>
           		
@@ -442,7 +415,7 @@ return answer;
 				  <!-- Herbs Homepathics -->
         <li class="rootDrop">
 
-			<a class="main" href="/search/controller?tab_selection=vitamins&amp;type=category&amp;N=200784606">Herbs &amp; Homeopathics</a><ul class="mainNavDrop dropDownWidth2col">
+			<a class="main" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784606">herbs &amp; homeopathics</a><ul class="mainNavDrop dropDownWidth2col textbrand">
 		  
 		  <li>
           		
@@ -485,7 +458,7 @@ return answer;
 		  <!-- Foods and Beverages -->
         <li class="rootDrop">
         
-			<a class="main" href="/search/controller?tab_selection=vitamins&amp;type=category&amp;N=200784669">Foods &amp; Beverages</a><ul class="mainNavDrop dropDownWidth3col" style="top: 40px; left: -58px; display:none;">
+			<a class="main" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784669">foods &amp; beverages</a><ul class="mainNavDrop dropDownWidth3col textbrand" style="top: 50px; left: -58px; display:none;">
           <li>
 		  
 
@@ -530,7 +503,7 @@ return answer;
 				  				  <!-- Kids Pets -->
         <li class="rootDrop">
         
-			<a class="main" href="/search/controller?tab_selection=vitamins&amp;type=category&amp;N=200784731">Kids &amp; Pets</a><ul class="mainNavDrop dropDownWidth2col" style="top:40px; left: -8px; display:none;">
+			<a class="main" href="/search/controller?tab_selection=&amp;type=category&amp;N=200784731">kids &amp; pets</a><ul class="mainNavDrop dropDownWidth2col textbrand" style="top:50px; left: -8px; display:none;">
 		  
 		  <li>
           		
@@ -566,7 +539,7 @@ return answer;
         <li class="rootDrop">
 
         
-				<a class="main" href="/content/en/health/index.jsp">Articles &amp; Recipes</a><ul class="mainNavDrop dropDownWidth2col" style="top: 40px; left: -128px; display:none;">
+				<a class="main" href="/content/en/health/index.jsp">articles &amp; recipes</a><ul class="mainNavDrop dropDownWidth2col textbrand" style="top: 50px; left: -128px; display:none;">
 		<li>
 			<div class="menuColumn">
 				<a class="titleLink" href="/content/en/health/index.jsp">Articles &amp; Reference</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/a-z-index/a-to-z-index-of-health-conditions-1/~default">Health Conditions</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/a-z-index/a-to-z-index-of-herbal-remedies/~default">Herbal Remedies</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/a-z-index/a-to-z-index-of-homeopathy-by-condition/~default">Homeopathy</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/toc/mens-health-center/~default">Men's Health</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/toc/sports-and-fitness-health-center/~default">Sports &amp; Fitness</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/feature/supplement-faq_11473_1/~default">Supplement Guide</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/toc/weight-management-health-center/~default">Weight Management</a><a href="/content/en/healthguide/hncontent.jsp?resource=/assets/toc/womens-health-center/~default"> Women's Health</a><a class="titleLink" href="/content/en/health/index.jsp">View All &gt;</a></div>
@@ -585,31 +558,17 @@ return answer;
        
 	   
 	   	    <!-- Boards-->
-        <li class="rootDrop"><a class="main" href="http://community.vitaminshoppe.com/n/forumIndex.aspx?webtag=vs-home">Message Boards</a>
-          <ul class="mainNavDrop dropDownWidth1col" style="top: 40px; left: -63px; display:none;">
-          <li>
-		  
-           	<div class="menuColumn">
-				<a href="http://community.vitaminshoppe.com/n/pfx/forum.aspx?nav=messages&amp;folderId=4&amp;listMode=13&amp;webtag=vs-supplements">Ask the Herbal Pharmacist</a>
-				<a href="http://community.vitaminshoppe.com/n/pfx/forum.aspx?webtag=vs-caring">Caring for Kids &amp; Parents</a>
-				<a href="http://community.vitaminshoppe.com/vs-bodybuilding">Fitness Advice &amp; Tips</a>
-				<a href="http://community.vitaminshoppe.com/n/pfx/forum.aspx?webtag=vs-Green">Green Living</a>
-				<a href="http://community.vitaminshoppe.com/n/pfx/forum.aspx?nav=messages&amp;folderId=5&amp;listMode=13&amp;webtag=vs-supplements">Healthy Aging</a>
-				<a href="http://community.vitaminshoppe.com/n/pfx/forum.aspx?nav=messages&amp;folderId=2&amp;listMode=13&amp;webtag=vs-supplements">Herbs &amp; Homeopathics</a>
-				<a href="http://community.vitaminshoppe.com/vs-loseweight">Lose Weight &amp; Keep It Off</a>
-				<a href="http://community.vitaminshoppe.com/vs-supplements">Supplement Central</a>
-				<a href="http://community.vitaminshoppe.com/n/forumIndex.aspx?webtag=vs-home" class="titleLink">View All &gt;</a>
-		</div>  
+        <li class="rootDrop">
 
 		
 		   </li>
           </ul>
 
-        </li>
+        
 				  <!-- End Boards -->
 	   
 
-      </ul>
+      
       <!-- /ul#nav -->
 
      
@@ -626,7 +585,7 @@ return answer;
 
 
 <!--
-<img src="/images/en/sports_nutrition/05112012.gif" alt="All Vitamin Shoppe Brand Products: BUY 1, GET 1 50% OFF" border="0" />
+<img src="/images/en/sports_nutrition/10312012.gif" alt="All Vitamin Shoppe Brand Products: BUY 1, GET 1 50% OFF" border="0" />
 -->
 
 
@@ -648,10 +607,53 @@ $("a.details").fancybox({
 });
 });
 </script>
+<style>
+#freeshippingban {
+margin: 2px -4px 0 0;
+}
+</style>
+<!--[if gte IE 8]>
+<style>
+#freeshippingban {
+margin: 2px -5px 0 0;
+}
+</style>
+<![endif]-->
 <div id="topPromotionalContent">
 <span class="sm-details">
-<a class="details" href="/content/en/other/freeship25.jsp"><img width="715" height="56" border="0" title="Free Shipping on Orders Over $25" alt="Free Shipping on Orders Over $25" src="/images/en/promo/free-ship-left.jpg"></a><a href="/store/en/quick_order/all_products.jsp?cm_sp=Universal-_-FS25Banner-_-Reorder&amp;tab_selection=" target="_self"><img width="245" height="56" border="0" alt="Quick Reorder" src="/images/en/promo/reorder-right.jpg"></a>
+
+<a class="details" href="#FreeShippingInByFiveMessage"><img id="freeshippingban" width="765" height="58" border="0" title="Free Shipping on Orders Over $25" alt="Free Shipping on Orders Over $25" src="/ca/images/home/free-shipping-banner.gif"></a>
+
+<a href="/store/en/quick_order/all_products.jsp?cm_sp=Universal-_-FS25Banner-_-Reorder&amp;tab_selection=" target="_self"><img width="195" height="58" border="0" alt="Quick Reorder" src="/ca/images/home/reorder-banner.gif"></a>
+
 </span>
+</div>
+
+<div style="display: none;">
+  <div id="FreeShippingInByFiveMessage" style="width: 800px;">
+
+
+    <div style="float: left; width: 47%;">
+      <span style="color:#2F70B0;font-size:16pt;line-height:21pt;">FREE SHIPPING on orders of $25 or more.</span><br><br>
+
+      <strong>How to get FREE Shipping: </strong><br>
+
+      1. Place your online order of $25 or more*<br>
+      2. Ship to an address within the United States (including U.S. territories)<br>
+      3. Your shipment should arrive within 2-6 business days from your order<br><br>
+
+      * Your total purchase must reach the designated amount prior to the costs of shipping and tax. 
+    </div><!-- /left message -->
+
+    <div style="float: right; width: 47%;">
+      <span style="color:#2F70B0;font-size:16pt;line-height:21pt;">Order by 5, We'll Ship the Same Day</span><br><br>
+      <p>Domestic orders placed by 5 PM Eastern Time will be packed and shipped the same day, pending verification of billing information and the shipping method selected. International orders and orders containing gift cards, out-of-stock items or refrigerated items will be processed as quickly as possible, but won't necessarily be shipped out the same day.</p>
+
+      <p>Excludes all orders placed on major US holidays (Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Day and New Year's Day). </p>
+    </div><!-- /right message -->
+    <div style="clear: both;"></div>
+
+  </div><!-- /FreeShippingInByFiveMessage -->
 </div><table width="900" style="margin-left: 30px;"><tbody><tr><td width="550" height="40" valign="center" class="bodytext"><h1>
 <a href="/store/en/vitamins_minerals/index.jsp">Home</a> &gt; <a href="/content/en/support/help/help.jsp">Help</a> 
 &gt; Privacy &amp; Security Policy
@@ -814,20 +816,47 @@ While we support the protection of our customer's privacy on the Internet, The V
 					<img src="http://tracker.marinsm.com/tp?act=1&cid=5593wj5066&script=no" >
 					</noscript>
 				<!-- end Copyright Marin Software -->
-		<div id="footerLinks">
- 
-    <div class="topRow">
+		<div id="footer-social">
+  <div id="social-left">
+    <span id="social-image">
+      <img src="/images/en/social/get-social.gif">
+    </span>
+  </div><!-- /social-left -->
 
-	<div class="topRowCol">
-		 	<div id="lpButtonFooter"></div>			
-		</div>
-		<div class="topRowColMid"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=155996&amp;p=irol-newsArticle_print&amp;ID=1655396&amp;highlight="><img src="/images/en/global/footer/award_RibbonB.gif" alt="Consumer Labs" width="59" height="50" border="0" class="icons"></a></div>
- <div class="topRowColMid"><a href="http://www.stellaservice.com/profile/169/"><img src="/images/en/global/footer/footer_stella.gif" alt="STELLAService" width="72" height="46" border="0" class="icons"></a></div>
- <div class="topRowColMid"><a href="http://www.bbb.org/new-jersey/business-reviews/vitamins-and-food-supplements/the-vitamin-shoppe-in-north-bergen-nj-16004762" target="_blank"><img src="/images/en/global/footer/footer_BBB.gif" alt="Rated A+ by the Better Business Bureau" width="91" height="46" border="0" class="icons"></a></div>
- <div class="topRowColMid"><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--19205.html"><img src="/images/en/global/footer/footer_bizrate.gif" alt="Rated Outstanding by Bizrate" width="89" height="53" border="0" class="icons"></a></div>
+  <div id="social-right">
+
+    <div id="social-message">
+      <!-- <img src="/images/en/social/follow-message.gif" /> -->
+      follow, like, tweet, pin - just make sure to join in
+    </div><!-- /social-message -->
+
+    <div id="social-icons">
+
+      <a href="/content/en/mobile/vs-mobile.jsp"><img src="/images/en/social/vs-mobile.gif" alt="vitamin shoppe mobile"></a><!-- //vsmobile -->
+
+      <a href="http://www.twitter.com/VitaminShoppe" target="_blank"><img src="/images/en/social/twitter.gif" alt="vitamin shoppe twitter"></a><!-- //twitter -->
+
+      <a href="http://www.facebook.com/THEVITAMINSHOPPE" target="_blank"><img src="/images/en/social/facebook.gif" alt="vitamin shoppe facebook"></a><!-- //facebook -->
+
+      <a href="http://www.youtube.com/user/TheVitaminShoppe1" target="_blank"><img src="/images/en/social/youtube.gif" alt="vitamin shoppe youtube"></a><!-- //youtube -->
+
+      <a href="http://pinterest.com/vitaminshoppe/" target="_blank"><img src="/images/en/social/pinterest.gif" alt-"vitamin="" shoppe="" pinterest"=""></a><!-- //pinterest -->
+
+      <a href="https://plus.google.com/u/0/116764408827604189994/posts" target="_blank"><img src="/images/en/social/googleplus.gif" alt="vitamin shoppe google plus"></a><!-- //googleplus -->
+
+    </div><!-- /social-icons -->
+
+  </div><!-- //social-right -->
+
+</div><!-- /footer-social -->
+
+ <div id="footerLinks">
+ 
+<!-- / SOCIAL FOOTER ITEMS GO HERE -->
    
-   </div>
-    <div class="column">
+   
+ 
+   <div class="column">
  <ul>
  <li class="footerTitle">My Account</li>
  <li>
@@ -854,9 +883,6 @@ While we support the protection of our customer's privacy on the Internet, The V
      <a href="http://www.vitaminshoppe.com/content/en/support/help/faq.jsp">Frequently Asked Questions</a></li>
  </ul>
 </div>
- <p class="hr-botRow">&nbsp;</p>
-
-
 
    <div class="column">
  	<ul>
@@ -888,7 +914,6 @@ While we support the protection of our customer's privacy on the Internet, The V
 	<a href="http://www.vitaminshoppe.com/content/en/support/help/frequent_buyer.jsp?">Healthy Awards Program</a></li>
 	</ul>
    </div>
-	 <p class="hr-botRow">&nbsp;</p>	
 		
 
 	   <div class="column">
@@ -896,7 +921,8 @@ While we support the protection of our customer's privacy on the Internet, The V
 		<li class="footerTitle">Policies</li>
 		
 		<li>
-				<a href="http://www.vitaminshoppe.com/content/en/support/help/privacy.jsp">Privacy Policy</a></li>
+				<a href="http://www.vitaminshoppe.com/content/en/support/help/privacy.jsp">Privacy Policy</a>&nbsp;<span style="font-weight: bold; color: red;">[new]</span>
+                      </li>
 		
         <li>
 			<a href="http://www.vitaminshoppe.com/content/en/support/help/shipping_rates_policies.jsp">Shipping Rates &amp; Information</a></li>
@@ -910,7 +936,6 @@ While we support the protection of our customer's privacy on the Internet, The V
         <li><a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=1491126">Join Our Affiliate Program</a></li>
 		</ul>
    		</div>
-		 <p class="hr-botRow">&nbsp;</p>
 		
 			
 			<div class="column">
@@ -937,11 +962,7 @@ While we support the protection of our customer's privacy on the Internet, The V
 			<a href="http://www.vitaminshoppe.com/content/en/support/help/investors.jsp">News</a></li>
 
             <li>
-            
-                 <a href="http://community.vitaminshoppe.com/vs-home">Message Boards</a></li>
-
-            <li>
-                 <a href="http://www.facebook.com/pages/The-Vitamin-Shoppe/22277123230">Facebook Page</a></li>
+                 <a target="_blank" href="http://www.facebook.com/pages/The-Vitamin-Shoppe/22277123230">Facebook Page</a></li>
 
 
             <li>
@@ -955,9 +976,28 @@ While we support the protection of our customer's privacy on the Internet, The V
 	
             <li>
 					<a href="http://www.vitaminshoppe.com/content/en/video/video_page.jsp">In-Store Videos</a></li>
+
 	
 			</ul>
 			</div>
+      <div class="column column-last">
+      <ul>
+        <li class="footerTitle footerTitle-last">awards</li>
+        <li>
+          <div class="footer-award-badges">
+
+                <span class="award-badge"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=155996&amp;p=irol-newsArticle_print&amp;ID=1655396&amp;highlight=" alt="Consumer Labs 2012 Rated #1 Vitamin Store" title="Consumer Labs 2012 Rated #1 Vitamin Store" target="_blank"><img src="/images/en/global/footer/award_RibbonB.gif"></a></span>
+
+                <span class="award-badge"><a href="http://www.stellaservice.com/profile/VitaminShoppe.com/" target="_blank"><img src="/images/en/global/footer/footer_stella.gif" alt="Service Award-The Web’s most trusted signal of high quality customer service" title="Service Award-The Web’s most trusted signal of high quality customer service"></a></span>
+
+                <span class="award-badge"><a href="http://www.bbb.org/new-jersey/business-reviews/vitamins-and-food-supplements/the-vitamin-shoppe-in-north-bergen-nj-16004762" target="_blank"><img src="/images/en/global/footer/footer_BBB.gif" alt="Rated A+ by the Better Business Bureau" title="Rated A+ by the Better Business Bureau"></a></span>
+                
+                <span class="award-badge"><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--19205.html" target="_blank"><img src="/images/en/global/footer/footer_bizrate.gif" alt="Rated Outstanding by Bizrate 2011" title="Rated Outstanding by Bizrate 2011"></a></span>
+
+            </div><!-- /footer-badges -->
+        </li>
+      </ul>
+      </div><!-- /column -- award-badges -->
             
             <div class="clear">
             
@@ -965,7 +1005,7 @@ While we support the protection of our customer's privacy on the Internet, The V
 
 
 <p>All online offers and prices are valid for online purchases only, and may be different from those in the catalog and in our retail stores. We are not responsible for <a href="/content/en/support/help/legal_info.jsp">pricing or typographical errors</a>. 
- Sale Prices are valid through June 3, 2012 11:59PM ET only.</p>
+ Sale Prices are valid through November 25, 2012 11:59PM ET only.</p>
 
  
 <p> © <dsp:valueof bean="/atg/dynamo/service/CurrentDate.year"> 2012 The Vitamin
@@ -973,8 +1013,12 @@ Shoppe. All Rights Reserved.</dsp:valueof></p>
 
 <p>**The products and the claims made about specific products on or through this site have not been evaluated by the United States Food and Drug Administration and are not intended to diagnose, treat, cure or prevent disease. The information provided on this site is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. You should not use the information on this site for diagnosis or treatment of any health problem or for prescription of any medication or other treatment. You should consult with a healthcare professional before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a health problem. Please view our full <a href="/content/en/support/help/legal_info.jsp">Terms Of Use Agreement</a> for more information and the terms and conditions governing your use of this site. WEIGHT MANAGEMENT: Supports a weight management program that includes exercise and a calorie, carbohydrate, or fat restricted diet.</p></div><!-- /div#footerCopyright -->
 
-<div class="instance">vs-store-prod-101:2</div>
- 
+	<div class="instance">
+	<!-- 
+		vs-store-prod-102:
+		0
+	-->	
+	 </div>
  </div>
 
  </div>
@@ -1012,18 +1056,21 @@ Shoppe. All Rights Reserved.</dsp:valueof></p>
 			<script language="javascript" src="/js/coremetrics/cmtaggingservices_new.js"></script>
 
 			<script language="javascript" type="text/javascript">
+    				psCreatePageviewTag("Control 2: No Type-Ahead", "Search Page AB Test #2", null, null);
+  				</script>
+			<script language="javascript" type="text/javascript">
 						var fsr_cmmmc =" ";
 					</script>
 				<script language="javascript" type="text/javascript" src="/js/foresee/foresee-trigger.js"></script>
-		<script src="/js/liveperson/mtagconfig.js" type="text/Javascript"></script> 
-         <script type="text/javascript">
+		<script type="text/javascript">
+			var livePersonAccNo ="77706594";
+			</script>
+		    <script src="/js/liveperson/mtagconfig.js" type="text/Javascript"></script> 	
+				<script type="text/javascript">
 					// Variables submission using lpAddVars
 					lpAddVars('page','Section','general'); // All tagged pages. Example values: ['shopping', 'checkout', 'contact', 'general']
-				</script>		
-			
-
-
-<!--VS-282: Google Analytics Implementation  -->
+				</script>	
+			<!--VS-282: Google Analytics Implementation  -->
 	<script type="text/javascript">
 	(function() {
 	var ga = document.createElement('script'); 
@@ -1035,5 +1082,8 @@ Shoppe. All Rights Reserved.</dsp:valueof></p>
 	s.parentNode.insertBefore(ga, s);
 	})();
 </script>
+	
+
+
 
 </div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
