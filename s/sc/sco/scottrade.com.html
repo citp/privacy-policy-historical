@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scottrade.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501115757id_/http%3A//www.scottrade.com/disclosures/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scottrade.com privacy policy that was archived on 2012-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031152112id_/http%3A//www.scottrade.com/disclosures/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -74,7 +74,7 @@
 
   
 
-    
+    <!-- cq:include path="clickstreamcloud" resourceType="cq/personalization/components/clickstreamcloud"/ -->
     <!-- Begin Page Container -->
     <div id="page-container">   
         
@@ -101,13 +101,23 @@
 
 
 
-<a href="http://www.scottrade.com/"><img title="Scottrade Logo" style="float: left; margin-top: 10px" alt="Home" src="/etc/designs/scottrade/jcr%3acontent/common/site-logo.img.png/1324434857818.png"></a>
+<a href="http://www.scottrade.com/"><img title="Scottrade Logo" style="float: left; margin-top: 10px" alt="Scottrade Logo" src="/etc/designs/scottrade/_jcr_content/common/site-logo.img.png/1324434857818.png"></a>
      
-    </div>
+    
+</div>
 
         <div class="logo page-id siteID">
 
-</div>
+
+
+
+
+
+
+
+
+                   
+    </div>
 
         <!-- End Site Logo -->
         <div id="skip">
@@ -134,15 +144,19 @@
 <script type="text/javascript">
 jQuery(document).ready(function(){
                 var time = new Date();
-                var displayStart =[11, 10, 10, 10, 10, 10, 11];
-                var displayEnd = [3, 3, 5, 5, 5, 5, 5];
+                var dstTime = new Date();
+                dstTime.setMonth(0);
+                dstTime.setDate(1);
+                var dstAdj = time.getUTCHours() + dstTime.getTimezoneOffset()/60 - time.getTimezoneOffset()/60;
                 var dow = time.getUTCDay();
-                if (time.getUTCHours() > displayStart[dow] || time.getUTCHours() < displayEnd[dow]) {
-                                if (time.getUTCHours() == (displayEnd[dow] - 1) && time.getUTCMinutes() > 30) {
-            return false;
-        }
-        $("#moxie").attr("style", "");
-$("#moxie2").attr("style", "");
+                var displayStart = [12, 11, 11, 11, 11, 11, 12];
+                var displayEnd = [4, 4, 6, 6, 6, 6, 6];
+
+                if (dstAdj > displayStart[dow] || dstAdj  < displayEnd[dow]) {
+                                if (dstAdj  == (displayEnd[dow] - 1) && time.getUTCMinutes() > 30) {
+                                                return false;
+                                }
+                                $("#moxie").attr("style", "");
                 }
 });
 </script>
@@ -182,20 +196,27 @@ $("#moxie2").attr("style", "");
 
 <script type="text/javascript" language="JavaScript" src="http://marketingcontent2.scottrade.com/Marketing/JavaScript/searchSuggest.js"></script>   
 
+    
+	<div id="search-form">
+		<div class="search-field">
+			<div class="search-box"><input type="text" id="searchBox" class="ForAutofill ui-autocomplete-input watermark" maxlength="100" value="Search Keywords or Symbol" autocomplete="off">
+            </div>
+            <!--
+			<input type="button" class="search" />
+			-->
+			<input type="image" class="search" src="/content/dam/assets/web/common/blank-pixel.gif" alt="Search" width="" height="">
+			<a id="tlb_searchUrl" href="http://www.scottrade.com/Search.html" style="display: none;"> </a>
+    		<div class="clear"><!-- --></div>
+		</div>
+        <a class="open-account" href="https://apply.scottrade.com/">
+            <img src="/content/dam/assets/web/common/blank-pixel.gif" width="" height="" alt="Open a New Brokerage Account">
+        </a>
+	
+        
+	
+	   <div class="clear"><!-- --></div>
+	</div>
 
-<div id="search-form">
-<div class="search-field">
-<div class="search-box"><input type="text" id="searchBox" class="ForAutofill ui-autocomplete-input watermark" maxlength="100" value="Search Keywords or Symbol" autocomplete="off"></div>
-<input type="button" class="search">
-<a id="tlb_searchUrl" href="http://www.scottrade.com/Search.html" style="display: none;"> </a>
-<div class="clear"><!-- --></div>
-</div>
-<a class="open-account" href="https://apply.scottrade.com/"></a>
-
-
-
-<div class="clear"><!-- --></div>
-</div>
 <script type="text/javascript">
     var tlbWatermark = "Search Keywords or Symbol";
     jQuery(".search-box input.ForAutofill").focus(function() {
@@ -231,7 +252,7 @@ $("#moxie2").attr("style", "");
 
 
 <div id="navigation">
-<ul class="nav-list" id="dd-menu"><li><a href="http://www.scottrade.com/online-brokerage.html" target="_self">Why Scottrade? </a><ul class="submenu"><li><a href="http://www.scottrade.com/online-brokerage/reasons-to-choose.html" target="_self">Reasons to Choose</a></li><li><a href="http://www.scottrade.com/online-brokerage/online-broker-comparison.html" target="_self">Online Broker Comparison</a></li><li><a href="http://www.scottrade.com/online-brokerage/trading-fees-commissions.html" target="_self">Fees &amp; Commissions</a></li><li><a href="http://www.scottrade.com/online-brokerage/interest-margin-rates.html" target="_self">Margin &amp; Interest Rates</a></li><li><a href="http://www.scottrade.com/online-brokerage/trade-quality-execution.html" target="_self">Trade Quality and Execution</a></li><li><a href="http://www.scottrade.com/online-brokerage/secure-trading.html" target="_self">Security/ID Theft Protection</a></li><li><a href="http://www.scottrade.com/online-brokerage/company-overview.html" target="_self">Company Overview</a></li><li><a href="http://www.scottrade.com/online-brokerage/online-community.html" target="_self">Online Community</a></li><li><a href="http://www.scottrade.com/online-brokerage/referall.html" target="_self">ReferALL</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/online-trading.html" target="_self">Online Trading</a><ul class="submenu"><li><a href="http://www.scottrade.com/online-trading/trading-website.html" target="_self">Scottrade Trading Website</a></li><li><a href="http://www.scottrade.com/online-trading/trading-platform-scottrader.html" target="_self">Scottrader Streaming Quotes</a></li><li><a href="http://www.scottrade.com/online-trading/online-trading-platform-scottradeelite.html" target="_self">ScottradeELITE</a></li><li><a href="http://www.scottrade.com/online-trading/options-trading-platform-optionsfirst.html" target="_self">OptionsFirst®</a></li><li><a href="http://www.scottrade.com/online-trading/fund-your-account.html" target="_self">Ways to Fund Your Account</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/mobile-trading.html" target="_self">Mobile Trading</a><ul class="submenu"><li><a href="http://www.scottrade.com/mobile-trading/iPhone.html" target="_self">iPhone® Trading App</a></li><li><a href="http://www.scottrade.com/mobile-trading/android.html" target="_self">Android™ Trading App</a></li><li><a href="http://www.scottrade.com/mobile-trading/blackberry.html" target="_self">BlackBerry® Trading App</a></li><li><a href="http://www.scottrade.com/mobile-trading/mobile-trading-website.html" target="_self">Mobile Trading Website</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/online-banking.html" target="_self">Online Banking</a></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/investment-products.html" target="_self">Investment Products</a><ul class="submenu"><li><a href="http://www.scottrade.com/investment-products/ira.html" target="_self">Retirement &amp; IRAs</a></li><li><a href="http://www.scottrade.com/investment-products/stocks.html" target="_self">Stocks</a></li><li><a href="http://www.scottrade.com/investment-products/options-trading.html" target="_self">Options</a></li><li><a href="http://www.scottrade.com/investment-products/mutual-funds.html" target="_self">Mutual Funds</a></li><li><a href="http://www.scottrade.com/investment-products/etfs.html" target="_self">ETFs</a></li><li><a href="http://www.scottrade.com/investment-products/bonds.html" target="_self">Bonds</a></li><li><a href="http://www.scottrade.com/investment-products/cds.html" target="_self">CDs</a></li><li><a href="http://www.scottrade.com/investment-products/treasuries.html" target="_self">Treasuries</a></li><li><a href="http://www.scottrade.com/investment-products/esas.html" target="_self">Coverdell ESAs</a></li><li><a href="http://www.scottrade.com/investment-products/international-investing.html" target="_self">International Investing</a></li><li><a href="http://www.scottrade.com/investment-products/account-types.html" target="_self">Account Types</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://research.scottrade.com/qnr/public/Markets/Overview/" target="_self">Quotes &amp; Research</a></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://research.scottrade.com/public/knowledgecenter/overview/overview.asp?lang=en" target="_self">Knowledge Center</a></li></ul><div class="clear"><!-- --></div>
+<ul class="nav-list" id="dd-menu"><li><a href="http://www.scottrade.com/online-brokerage.html" target="_self">Why Scottrade? </a><ul class="submenu"><li><a href="http://www.scottrade.com/online-brokerage/reasons-to-choose.html" target="_self">Reasons to Choose</a></li><li><a href="http://www.scottrade.com/online-brokerage/online-broker-comparison.html" target="_self">Online Broker Comparison</a></li><li><a href="http://www.scottrade.com/online-brokerage/trading-fees-commissions.html" target="_self">Fees &amp; Commissions</a></li><li><a href="http://www.scottrade.com/online-brokerage/interest-margin-rates.html" target="_self">Margin Interest Rates</a></li><li><a href="http://www.scottrade.com/online-brokerage/interest-rates.html" target="_self">Credit Interest Rates</a></li><li><a href="http://www.scottrade.com/online-brokerage/trade-quality-execution.html" target="_self">Trade Quality and Execution</a></li><li><a href="http://www.scottrade.com/online-brokerage/secure-trading.html" target="_self">Security/ID Theft Protection</a></li><li><a href="http://www.scottrade.com/online-brokerage/company-overview.html" target="_self">Company Overview</a></li><li><a href="http://www.scottrade.com/online-brokerage/online-community.html" target="_self">Online Community</a></li><li><a href="http://www.scottrade.com/online-brokerage/referall.html" target="_self">Referral Program</a></li><li><a href="http://www.scottrade.com/online-brokerage/switch.html" target="_self">Switch to Scottrade</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/online-trading.html" target="_self">Online Trading</a><ul class="submenu"><li><a href="http://www.scottrade.com/online-trading/trading-website.html" target="_self">Scottrade Trading Website</a></li><li><a href="http://www.scottrade.com/online-trading/trading-platform-scottrader.html" target="_self">Scottrader Streaming Quotes</a></li><li><a href="http://www.scottrade.com/online-trading/online-trading-platform-scottradeelite.html" target="_self">ScottradeELITE</a></li><li><a href="http://www.scottrade.com/online-trading/options-trading-platform-optionsfirst.html" target="_self">OptionsFirst®</a></li><li><a href="http://www.scottrade.com/online-trading/fund-your-account.html" target="_self">Ways to Fund Your Account</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/mobile-trading.html" target="_self">Mobile Trading</a><ul class="submenu"><li><a href="http://www.scottrade.com/mobile-trading/iPhone.html" target="_self">iPhone® Trading App</a></li><li><a href="http://www.scottrade.com/mobile-trading/android.html" target="_self">Android™ Trading App</a></li><li><a href="http://www.scottrade.com/mobile-trading/blackberry.html" target="_self">BlackBerry® Trading App</a></li><li><a href="http://www.scottrade.com/mobile-trading/mobile-trading-website.html" target="_self">Mobile Trading Website</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/online-banking.html" target="_self">Online Banking</a></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://www.scottrade.com/investment-products.html" target="_self">Investment Products</a><ul class="submenu"><li><a href="http://www.scottrade.com/investment-products/ira.html" target="_self">Retirement &amp; IRAs</a></li><li><a href="http://www.scottrade.com/investment-products/stocks.html" target="_self">Stocks</a></li><li><a href="http://www.scottrade.com/investment-products/options-trading.html" target="_self">Options</a></li><li><a href="http://www.scottrade.com/investment-products/mutual-funds.html" target="_self">Mutual Funds</a></li><li><a href="http://www.scottrade.com/investment-products/etfs.html" target="_self">ETFs</a></li><li><a href="http://www.scottrade.com/investment-products/bonds.html" target="_self">Bonds</a></li><li><a href="http://www.scottrade.com/investment-products/cds.html" target="_self">CDs</a></li><li><a href="http://www.scottrade.com/investment-products/treasuries.html" target="_self">Treasuries</a></li><li><a href="http://www.scottrade.com/investment-products/esas.html" target="_self">Coverdell ESAs</a></li><li><a href="http://www.scottrade.com/investment-products/international-investing.html" target="_self">International Investing</a></li><li><a href="http://www.scottrade.com/investment-products/account-types.html" target="_self">Account Types</a></li></ul></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://research.scottrade.com/qnr/public/Markets/Overview/" target="_self">Quotes &amp; Research</a></li><li><img src="/etc/designs/scottrade/images/nav-divider.gif" class="nav-divider"></li><li><a href="http://research.scottrade.com/public/knowledgecenter/overview/overview.asp?lang=en" target="_self">Knowledge Center</a></li></ul><div class="clear"><!-- --></div>
 </div>
 
 </div>
@@ -391,7 +412,7 @@ $("#moxie2").attr("style", "");
 
             <h2> </h2>
    
-            <p>The Scottrade Privacy Statement describes how we collect and protect your personal information in the course of providing you with financial services.</p>
+            <p>The Scottrade Brokerage Privacy Statement describes how we collect and protect your personal information in the course of providing you with financial services.</p>
 <h3>Our Privacy Policy<br>
 </h3>
 <p>We are very committed to protecting the privacy of your personal information. Scottrade wants you to know that:</p>
@@ -404,67 +425,73 @@ $("#moxie2").attr("style", "");
 </ul>
 <h3>Personal Information We May Collect<br>
 </h3>
-<p>We collect personal information about you, which may include your name, physical address, e-mail address, telephone number, Social Security number and other information as required.</p>
-<p>We obtain this information from the following sources:</p>
+<p>We collect personal information about you, which may include your name, physical address, email address, telephone number, Social Security number and other information as required.</p>
+<p>We obtain this information from the following sources:.<br>
+</p>
 <ul>
 <li>Information you provide online, on written applications or forms, and other information you may provide;</li>
 <li>Information entered online that may be stored even if you do not complete or submit an application;</li>
 <li>Information from third parties in order to verify your identity or to prevent fraud;</li>
 <li>Information from third parties that you authorize to provide information to us; and</li>
 <li>Information about your transactions, account experience, account balance, trading activity and payment history.<br>
+<br>
 </li>
 </ul>
 <h3>Personal Information We Use or Disclose<br>
 </h3>
-<p>Scottrade does not sell, rent or license your personal information to anyone. This applies to both current and former customers.</p>
-<p>We use your personal information to provide services you may have requested, to respond to communications from you, and to help you open new or additional accounts.</p>
-<p>We disclose your personal information, as permitted by law, to non-affiliated third parties that help us provide financial services to you. This includes third parties who provide statements of your accounts, transaction confirmations and check printing; or provide custody, depository or recordkeeping services. All non-affiliated third parties that accept or receive personal information from us are obligated contractually or by law or regulation to keep this information confidential and to use the information only to provide the services we ask them to perform.</p>
-<p>We disclose personal information to government and regulatory agencies and to comply with a lawful summons, court order, subpoena, fraud investigation, audit or regulatory examination.</p>
+<p>Scottrade does not sell, rent or license your personal information to anyone. This applies to both current and former customers. We use your personal information to provide services you may have requested, to respond to communications from you, and to help you open new or additional accounts. We disclose your personal information, as permitted by law, to affiliated and non-affiliated third parties that help us provide financial services to you. This includes third parties who provide statements of your accounts, transaction confirmations and check printing; or provide custody, depository or recordkeeping services. All affiliated and non-affiliated third parties that accept or receive personal information from us are obligated contractually or by law or regulation to keep this information confidential and to use the information only to provide the services we ask them to perform. We disclose personal information to government and regulatory agencies and to comply with a lawful summons, court order, subpoena, fraud investigation, audit or regulatory examination.<br>
+<br>
+</p>
 <h3>Security of Your Personal Information<br>
 </h3>
-<p>We maintain physical, electronic and procedural safeguards that restrict access to your personal information. We comply with applicable laws and regulations. Our online environment uses industry leading security technologies including layered security and access controls over personal information.</p>
-<p>These safeguards are reviewed and may be adjusted in response to advances in technology and the latest security threats.</p>
+<p>We maintain physical, electronic and procedural safeguards that restrict access to your personal information. We comply with applicable laws and regulations. Our online environment uses industry leading security technologies including layered security and access controls over personal information. These safeguards are reviewed and may be adjusted in response to advances in technology and the latest security threats.<br>
+<br>
+</p>
 <h3>How We Use Cookies<br>
 </h3>
-<p>Scottrade uses first-party and third-party cookies. Cookies are small text files sent by a Web site server to your Web browser and stored on your computer. The use of cookies helps us understand how you are using our Web site. They allow us to improve the security, content, navigation and functionality of the Web site. Additionally, we use cookies on our Web sites and the sites on which we advertise to track advertising performance and to collect aggregate data on Web page viewing. Cookies are not used to collect or disseminate any personal information.</p>
-<p>You can manage the placement of cookies on your computer through the features found in most Internet browsers. You can also delete cookies that have already been placed on your computer. Consult the "Help" function of your browser to explore your options.</p>
+<p>Scottrade uses first-party and third-party cookies. Cookies are small text files sent by a website server to your Web browser and stored on your computer. The use of cookies helps us understand how you are using our website. They allow us to improve the security, content, navigation and functionality of the website. Additionally, we use cookies on our websites and the sites on which we advertise to track advertising performance and to collect aggregate data on Web page viewing. Cookies are not used to collect or disseminate any personal information. You can manage the placement of cookies on your computer through the features found in most Internet browsers. You can also delete cookies that have already been placed on your computer. Consult the "Help" function of your browser to explore your options.<br>
+<br>
+</p>
 <h3>Internet Protocol (IP) Address<br>
 </h3>
-<p>As you enter our Web site, we capture and retain the IP address of the device you are using, such as a personal computer or a handheld device. The IP address does not identify you or your personal information and is used for security purposes only.</p>
-<h3>Links to Other Web Sites<br>
+<p>As you enter our website, we capture and retain the IP address of the device you are using, such as a personal computer or a handheld device. The IP address does not identify you or your personal information and is used for security purposes only.<br>
+<br>
+</p>
+<h3>Links to Other Websites<br>
 </h3>
-<p>We provide links to other third-party Web sites to provide information that may be of interest to you. When you select a link to a third-party site, you are subject to the privacy and security policies of the third party.</p>
+<p>We provide links to other third-party websites to provide information that may be of interest to you. When you select a link to a third-party site, you are subject to the privacy and security policies of the third party.<br>
+<br>
+</p>
 <h3>How to Protect Yourself<br>
 </h3>
-<p>We encourage you to protect your personal computers by using the Security Checklist under the Security Section and ensure your account information is stored securely, transactions are accurately reflected and contact information is up-to-date.</p>
+<p>We encourage you to protect your personal computers by using the Security Checklist on the Scottrade.com website under the Security Section and ensure your account information is stored securely, transactions are accurately reflected and contact information is up-to-date.<br>
+<br>
+</p>
 <h3>Steps to Take if You Become an Identity Theft Victim<br>
 </h3>
 <p>If you feel you have become the victim of online identity theft, you should take the following steps:</p>
 <ul>
-<li>If you feel your Scottrade account has been compromised in any way, immediately contact us toll-free at (800) 619-SAVE (7283).</li>
+<li>If you feel your Scottrade account has been compromised in any way, immediately contact us toll-free at 1-800-619-SAVE (7283).</li>
 <li>Contact the fraud department at each major credit bureau and tell them you are an identity theft victim:</li>
 </ul>
 <ol>
-<li>Equifax - call (800) 525-6285 or visit<br>
-<a target="_blank" href="http://www.equifax.com/home">www.equifax.com/home</a></li>
-<li>Experian - call (888) 397-3742 or visit<a target="_blank" href="http://www.experian.com/"><br>
-www.experian.com/</a></li>
-<li>TransUnion - call (800) 680-7289 or visit<a target="_blank" href="http://www.transunion.com/"><br>
-www.transunion.com/</a></li>
+<li>Equifax - call (800) 525-6285 or visit <a href="http://www.equifax.com/home" target="_blank">www.equifax.com</a></li>
+<li>Experian - call (888) 397-3742 or visit <a href="http://www.experian.com/" target="_blank"><u></u>www.experian.com/</a></li>
+<li>TransUnion - call (800) 680-7289 or visit <a href="http://www.transunion.com/" target="_blank">www.transunion.com/</a></li>
 </ol>
 <ul>
 <li>Contact the creditors/companies for any accounts that have been tampered with or opened fraudulently. Speak with someone in the security or fraud area of each creditor/company; follow up with a letter.</li>
 <li>File a report with your local police or the police in the community where the online fraud took place. Get a copy of the police report in case you need proof of the crime.</li>
-<li>Keep records of everything involved in your efforts to clear up the fraud, including copies of written correspondence and records of telephone calls.</li>
+<li>Keep records of everything involved in your efforts to clear up the fraud including copies of written correspondence and records of telephone calls.</li>
 <li>File a complaint with the Federal Trade Commission (FTC).<br>
 <br>
 </li>
 </ul>
 <h3>Revisions<br>
 </h3>
-<p>Scottrade reserves the right to make changes to the Privacy Statement at any time. Any changes or updates become effective immediately upon posting to this site. Please check the "Last Revision" date below to determine if there have been any changes since you have last reviewed our Privacy Statement.</p>
-<p>Scottrade provides an annual privacy notice to current customers. You may always review our Privacy Statement here, or contact us for a copy at (800) 619-SAVE (7283).</p>
-<p>Last Revision 12/02/2008<br>
+<p><b></b>Scottrade reserves the right to make changes to the Brokerage Privacy Statement at any time. Any changes or updates become effective immediately upon posting to this site. Please check the "Last Revision" date below to determine if there have been any changes since you have last reviewed our Privacy Statement. Scottrade provides an annual privacy notice to current customers. You may always review our Brokerage Privacy Statement online at <i>www.scottrade.com</i>, or contact us for a copy at 1-800-619-SAVE (7283).</p>
+<p>&nbsp;</p>
+<p>Last Revision 1/2012<br>
 </p>
  
             
@@ -698,7 +725,7 @@ www.transunion.com/</a></li>
 <div id="bottom-links">
     <div id="legal-links">
         <ul>
-        
+            
 
 
         <li><a href="http://www.scottrade.com/forms-center.html">Forms Center</a></li>
@@ -721,7 +748,7 @@ www.transunion.com/</a></li>
 
             <li class="bullet"></li>
 
-        <li><a href="http://www.scottrade.com/disclosures/margin.html">Margin Disclosure</a></li>
+        <li><a href="http://research.scottrade.com/public/knowledgecenter/policies/disclosures.asp">Agreements &amp; Disclosures</a></li>
 
             <li class="bullet"></li>
 
@@ -733,10 +760,8 @@ www.transunion.com/</a></li>
 
   
         </ul>
-       
-            <img src="/etc/designs/scottrade/images/7-online-trades.gif" class="online-trades-badge">
         
-              
+        <img src="/etc/designs/scottrade/images/7-online-trades.gif" class="online-trades-badge"> 
     </div>
 </div>
 <!-- End Bottom Links -->
@@ -749,8 +774,7 @@ $(document).ready(function() {
   $(".flickr").click(function() { sTracklink("FooterFlickr")}); 
   $(".yt").click(function() { sTracklink("FooterYouTube")}); 
 });
-</script>
-</div>
+</script></div>
    
 <!-- End Footer -->
 
@@ -764,11 +788,13 @@ $(document).ready(function() {
 <p>Authorized account login and access indicates customer’s consent to the Brokerage Account Agreement. Such consent is effective at all times when using this site.<br>
 Unauthorized access is prohibited.<br>
 </p>
-<p>Scottrade, Inc. and Scottrade Bank are separate but affiliated companies and are wholly-owned subsidiaries of Scottrade Financial Services, Inc. Brokerage products and services offered by Scottrade, Inc. - Member <a href="http://www.finra.org/">FINRA</a> and <a href="http://www.sipc.org/">SIPC</a>. Deposit products and services offered by Scottrade Bank, Member <a target="_blank" href="http://www.fdic.gov/">FDIC</a>.</p>
+<p>Scottrade, Inc. and Scottrade Bank are separate but affiliated companies and are wholly-owned subsidiaries of Scottrade Financial Services, Inc. Brokerage products and services offered by Scottrade, Inc. - Member <a href="http://www.finra.org/">FINRA</a> and <a href="http://www.sipc.org/">SIPC</a>. Deposit products and services offered by Scottrade Bank, Member <a href="http://www.fdic.gov/" target="_blank">FDIC</a>.</p>
 <p><b>Brokerage Products Not FDIC-Insured - Not Bank Guaranteed - May Lose Value.</b></p>
 <p>Online market and limit stock trades are just $7 for stocks priced $1 and above.<br>
+<br>
+*May 2012, Smart Money recognized Scottrade as its overall second-highest ranking broker, with the highest score for fees and commissions and banking services.<br>
 </p>
-<p>Scottrade does not charge setup, termination, inactivity or annual maintenance fees. Applicable transaction fees still apply.<br>
+<p>Scottrade does not charge setup, inactivity or annual maintenance fees. Applicable transaction fees still apply.<br>
 </p>
 <p>Scottrade does not provide tax advice. The material provided is for informational purposes only. Please consult your tax, or legal, advisor for questions concerning your personal tax or financial situation.<br>
 </p>
@@ -776,21 +802,18 @@ Unauthorized access is prohibited.<br>
 <br>
 Any specific securities, or types of securities, used as examples are for demonstration purposes only. None of the information provided should be considered a recommendation or solicitation to invest in, or liquidate, a particular security or type of security.<br>
 <br>
-Investors should consider the investment objectives, risks, charges and expenses of a mutual fund carefully before investing. A mutual fund's prospectus contains this and other information about the mutual fund. Prospectuses are available through our <a href="http://www.scottrade.com">website</a> or through a <a href="http://www.scottrade.com/locations/index.html">Scottrade branch office</a>. The prospectus should be read carefully before investing. No transaction fee (NTF) funds are subject to the terms and conditions of the NTF funds program. Scottrade is compensated by the funds participating in the NTF program through recordkeeping, shareholder, or SEC 12b-1 fees.<br>
+Investors should consider the investment objectives, charges, expense, and unique risk profile of an Exchange Traded Fund (ETF) carefully before investing. Leveraged and Inverse ETFs may not be suitable for all investors and may increase exposure to volatility through the use of leverage, short sales of securities, derivatives and other complex investment strategies. These funds’ performance will likely be significantly different than their benchmark over periods of more than one day, and their performance over time may in fact trend opposite of their benchmark. Investors should monitor these holdings, consistent with their strategies, as frequently as daily. A prospectus contains this and other information about the ETF and should be obtained from the issuer. The prospectus should be read carefully before investing.</p>
+<p>Investors should consider the investment objectives, risks, charges and expenses of a mutual fund carefully before investing. A mutual fund's prospectus contains this and other information about the mutual fund. Prospectuses may be ordered through <a href="http://www.scottrade.com/">Scottrade.com</a> or through a <a href="http://www.scottrade.com/locations/index.html">Scottrade branch office</a>. The prospectus should be read carefully before investing. No transaction fee (NTF) funds are subject to the terms and conditions of the NTF funds program. Scottrade is compensated by the funds participating in the NTF program through recordkeeping, shareholder, or SEC 12b-1 fees.<br>
 <br>
-Investors should consider the investment objectives, charges, expense, and unique risk profile of an Exchange Traded Fund (ETF) carefully before investing. Leveraged and Inverse ETFs may not be suitable for long-term investors and may increase exposure to volatility through the use of leverage, short sales of securities, derivatives and other complex investment strategies. A prospectus contains this and other information about the ETF and should be obtained from the issuer. The prospectus should be read carefully before investing.</p>
-<p>Focus™ Morningstar ETFs are commission free for those using Scottrade’s online platforms. Investors not affiliated with Scottrade are subject to commission costs. FocusShares, LLC, is a registered investment advisor (RIA), exchange-traded funds (ETF) sponsor and wholly-owned subsidiary of Scottrade Financial Services, Inc.</p>
-<p>Morningstar is a service mark of Morningstar, Inc. and has been licensed for use for certain purposes by FocusShares, LLC (an affiliate of Scottrade, Inc.). The Focus™ Morningstar ETFs are not sponsored, endorsed, sold or promoted by Morningstar, and Morningstar makes no representation regarding the advisability of investing in Focus™ Morningstar ETFs.<br>
+Margin trading involves interest charges and risks, including the potential to lose more than deposited or the need to deposit additional collateral in a falling market. The <a href="http://www.scottrade.com/documents/formscenter/SF1011_Margin_Agreement.pdf" target="_blank">Margin Disclosure Statement and Agreement</a> (PDF) is available for download, or it is available at one of <a href="http://www.scottrade.com/locations/index.html">our branch offices</a>. It contains information on our lending policies, interest charges, and the risks associated with margin accounts.<br>
 <br>
-Margin trading involves interest charges and risks, including the potential to lose more than deposited or the need to deposit additional collateral in a falling market. The <a target="_blank" href="http://www.scottrade.com/documents/formscenter/SF1011_Margin_Agreement.pdf">Margin Disclosure Statement and Agreement</a> (PDF) is available for download, or it is available at one of <a href="http://www.scottrade.com/locations/index.html">our branch offices</a>. It contains information on our lending policies, interest charges, and the risks associated with margin accounts.<br>
-<br>
-Options involve risk and are not suitable for all investors. Detailed information on our policies and the risks associated with options can be found in the <a href="http://www.scottrade.com/forms-center/OptionsForms.html">Scottrade Options Application and Agreement</a>, <a target="_blank" href="http://www.scottrade.com/documents/alt/111_BrokAccAgreement.pdf">Brokerage Account Agreement</a>, and by downloading the <a target="_blank" href="http://www.optionsclearing.com/about/publications/character-risks.jsp">Characteristics and Risks of Standardized Options and Supplements (PDF)</a> from The Options Clearing Corporation, or by requesting a copy from a <a href="http://www.scottrade.com/locations/index.html">Scottrade branch office</a>. Supporting documentation for any claims will be supplied upon request.<br>
+Options involve risk and are not suitable for all investors. Detailed information on our policies and the risks associated with options can be found in the <a href="http://www.scottrade.com/forms-center/OptionsForms.html">Scottrade Options Application and Agreement</a>, <a href="http://www.scottrade.com/documents/alt/111_BrokAccAgreement.pdf" target="_blank">Brokerage Account Agreement</a>, and by downloading the <a href="http://www.optionsclearing.com/about/publications/character-risks.jsp" target="_blank">Characteristics and Risks of Standardized Options and Supplements (PDF)</a> from The Options Clearing Corporation, or by requesting a copy from a <a href="http://www.scottrade.com/locations/index.html">Scottrade branch office</a>. Supporting documentation for any claims will be supplied upon request.<br>
 <br>
 Market volatility, volume, and system availability may impact account access and trade execution.<br>
 <br>
 Testimonials may not be representative of the experience of other clients and are no guarantee of future performance or success.<br>
 <br>
-Scottrade®, the Scottrade® logo, and Focus™ are the registered and unregistered trademarks of Scottrade, Inc. and its affiliates.<br>
+Scottrade® and the Scottrade® logo are the registered and unregistered trademarks of Scottrade, Inc. and its affiliates.<br>
 <br>
 © 2012 Scottrade, Inc. All rights reserved.</p>
 
