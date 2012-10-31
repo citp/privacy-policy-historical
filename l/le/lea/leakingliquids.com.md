@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leakingliquids.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508033316id_/http%3A//secure.leakingliquids.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakingliquids.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031133552id_/http%3A//secure.leakingliquids.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
