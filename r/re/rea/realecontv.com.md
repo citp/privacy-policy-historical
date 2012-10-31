@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realecontv.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510151455id_/http%3A//www.realecontv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realecontv.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031070838id_/http%3A//www.realecontv.com/privacy.html) for the most accurate reproduction.*
 
 # Real Econ TV
 
-[About Us](https://web.archive.org/about.html) | [Our Advertisers](https://web.archive.org/advertisers.html) | [Contact](https://web.archive.org/contact.html) | [Subscribe](https://web.archive.org/subscribe.html)
+[Home](https://web.archive.org/) | [About Us](https://web.archive.org/about.html) | [Our Advertisers](https://web.archive.org/advertisers.html) | [Contact](https://web.archive.org/contact.html) | [Subscribe](https://web.archive.org/subscribe.html)
 
 ## Business news without the bullshit
 
