@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614054423id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031061245id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingCoach.com
 
@@ -18,7 +18,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 AccountingCoach, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website www.accountingcoach.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Harold Averkamp by using our **[email contact form](https://web.archive.org/web/20120614054423id_/http%3A//www.accountingcoach.com/contact.html)**.
+If you have questions or concerns regarding this statement, you should first contact Harold Averkamp by using our **[email contact form](https://web.archive.org/web/20121031061245id_/http%3A//www.accountingcoach.com/contact.html)**.
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should **[contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=)**. TRUSTe will then serve as a liaison with us to resolve your concerns. AccountingCoach, LLC does not share, rent, trade or sell your personal information other than as described within this privacy policy. 
 
@@ -108,7 +108,7 @@ We follow generally accepted industry standards to protect the personally identi
   
 
 
-If you have any questions about security on our website, you can email us by using our ******[email contact form](https://web.archive.org/web/20120614054423id_/http%3A//www.accountingcoach.com/contact.html)**.
+If you have any questions about security on our website, you can email us by using our ******[email contact form](https://web.archive.org/web/20121031061245id_/http%3A//www.accountingcoach.com/contact.html)**.
 
   
   
@@ -144,7 +144,7 @@ Our third-party advertising partner employs a software technology called clear g
 
 ### **Updating or correcting personally identifiable information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our ******[contact form](https://web.archive.org/web/20120614054423id_/http%3A//www.accountingcoach.com/contact.html)**.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our ******[contact form](https://web.archive.org/web/20121031061245id_/http%3A//www.accountingcoach.com/contact.html)**.
 
   
   
@@ -160,7 +160,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### **How to contact us**
 
-Should you have other questions or concerns about these privacy policies, please contact us by using our ******[email contact form](https://web.archive.org/web/20120614054423id_/http%3A//www.accountingcoach.com/contact.html)** or the following postal address.
+Should you have other questions or concerns about these privacy policies, please contact us by using our ******[email contact form](https://web.archive.org/web/20121031061245id_/http%3A//www.accountingcoach.com/contact.html)** or the following postal address.
 
 > _AccountingCoach, LLC  
 >  1109 W. Blackhawk Dr.  
