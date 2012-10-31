@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theresumator.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510031303id_/http%3A//www.theresumator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theresumator.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031191441id_/http%3A//www.theresumator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This notice sets forth our Privacy Policy. By agreeing to the Terms of Use required to use the Service, you are accepting the practices described in this Privacy Policy (the “Privacy Policy”). Capitalized terms used but not defined in the Privacy Policy have the meanings ascribed to them in the [Terms of Use](http://www.theresumator.com/terms-conditions/).
+This notice sets forth our Privacy Policy. By agreeing to the Terms of Use required to use the Service, you are accepting the practices described in this Privacy Policy (the “Privacy Policy”). Capitalized terms used but not defined in the Privacy Policy have the meanings ascribed to them in the [Terms of Use](http://www.theresumator.com/terms-conditions).
 
 ###  What Information Do We Collect?
 
