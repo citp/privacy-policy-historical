@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221213004id_/http%3A//www.towerdata.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031173202id_/http%3A//www.towerdata.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # TowerData Privacy Policy
+
+For TowerData's Safe Harbor Privacy Policy, [click here](https://web.archive.org/company/eu_privacy_policy.html). 
 
 The TowerData Privacy Policy is our way of ensuring the safety and accuracy of Internet users' personal information, whether gathered on this site, by our clients, or by our partners.
 
