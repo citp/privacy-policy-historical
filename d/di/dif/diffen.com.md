@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511005710id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031200146id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
@@ -28,13 +28,15 @@ When you edit any page on Diffen, **you are publishing a document**. This is a p
 
 **Identification of an author**
 
-When you publish a page on Diffen, you may be logged in or not. 
+When you publish or edit a page on Diffen, you may be logged in or not. 
 
 If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. 
 
 If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the Internet address from which you are contacting Diffen. Depending on your connection, this number may be traceable only to a large Internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals. 
 
 It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym. 
+
+Your IP address is also associated and published with any "anonymous" comments that you post on Diffen. 
 
 When using a pseudonym, your IP address will not be available to the public except in cases of abuse, including vandalism of a Diffen page by you or by another user with the same IP address. In all cases, your IP address will be stored on the Diffen servers and can be seen by Diffen's server administrators and by users who have been granted ["CheckUser"](http://meta.wikimedia.org/wiki/CheckUser "http://meta.wikimedia.org/wiki/CheckUser") access. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). 
 
@@ -44,9 +46,9 @@ If you use a company mail server from home or telecommute and use a DSL or cable
 
 Diffen will set a temporary session cookie (PHPSESSID) whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. 
 
-More cookies may be set when you log in or use the chat feature, to avoid typing in your user name (or optionally password) on your next visit. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
+More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
 
-Diffen uses third-party advertising companies (such as Google AdSense and Skimlinks) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, IP address, [ISP](http://en.wikipedia.org/wiki/Internet_Service_Provider "http://en.wikipedia.org/wiki/Internet_Service_Provider") etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). Please also note that 
+Diffen uses third-party advertising companies (such as Google AdSense and Infolinks) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, IP address, [ISP](http://en.wikipedia.org/wiki/Internet_Service_Provider "http://en.wikipedia.org/wiki/Internet_Service_Provider") etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). Please also note that 
 
   * Google, as a third party vendor, uses cookies to serve ads on Diffen. 
   * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "http://www.doubleclick.com/privacy/faq.aspx") enables it to serve ads to you based on your visit to Diffen and other sites on the Internet. 
@@ -54,9 +56,13 @@ Diffen uses third-party advertising companies (such as Google AdSense and Skimli
 
 
 
-You can choose to disable cookies from Diffen or selectively from any of the 3rd party advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable Diffen.com cookies, you will be unable to log in to the website or use the chat feature but will still be able to use a lot of the site's functionality. 
+Other third parties whose resources are requested by web pages on Diffen include Twitter, Facebook, Google Plus and AddThis. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/ "http://techcrunch.com/2012/06/13/facebook-exchange/") and build a profile. 
 
-Diffen's content delivery network (CDN) is CloudFlare and this CDN may also set cookies. 
+Diffen's content delivery network (CDN), such as CloudFlare, may also set cookies. 
+
+The list of third parties identified in this privacy policy is not exhaustive. Diffen reserves the right to work with any third party services, which may or may not use cookies. 
+
+You can choose to disable cookies from Diffen or selectively from any of the third parties or advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable Diffen.com cookies, you will be unable to log in to the website or use the chat feature but will still be able to use a lot of the site's functionality. 
 
 **Passwords**
 
