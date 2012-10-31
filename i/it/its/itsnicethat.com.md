@@ -1,10 +1,28 @@
-> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615211329id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031122943id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
 
-# It's Nice That : Privacy Policy
+# It's Nice That : Privacy Policy and Cookies
 
 ### Introduction
 
 We at It’s Nice That Ltd are committed to ensuring that our web-site (“It’s Nice That”) is totally secure for you to use. We understand that you want the personal information you give us to be kept private as well as secure. This privacy policy explains how we will use the personal information you give us and how we make sure it is kept secure.
+
+### The use of cookies
+
+### The use of Cookies
+
+It’s Nice That uses cookies to track and measure user traffic to our web-site. Cookies are small pieces of information that are stored by your browser on your computer hard drive. They can be thought of as an internet user’s identification card which tells a web-site when the user has returned. They are not computer programs and contain no recognisable personal information. We use them to identify you as you travel around our web-site and to provide site usage information, which will further help us improve and develop the site and services we offer. You should be aware that you can set you computer to reject cookies. However, you may not be able to use all of the features of It’s Nice That web-site. You can find more information on cookies at aboutcookies.org
+
+As a UK-based website, It’s Nice That is bound by EU legislation. By visiting It’s Nice That we take it that you are agreeing to these cookies being set.
+
+We use…
+
+Analytics cookie: this cookie allows the site to anonymously track the pages visitors view. It is an industry standard practise, and does not reveal any identifiable personal information about visitors.
+
+Third party social media cookies: these cookies allow the site to know whether you are logged into social media platforms such as Twitter, Facebook or YouTube. This allows the site to enhance your experience when displaying content from these sites. This information is communicated directly with the third party site.
+
+Ad targeting: these cookies are used by our ad provider (DoubleClick for Publishers) to decided which ads visitors to the site are shown.
+
+You can find out more about EU cookie law and your rights by visiting [this site](http://www.youronlinechoices.eu/)
 
 ### Collection of Information
 
