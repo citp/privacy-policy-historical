@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611032116id_/http%3A//www.lycamobile.com.au/privacy-policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031125711id_/http%3A//www.lycamobile.com.au/privacy-policy/en) for the most accurate reproduction.*
 
 # LYCAMOBILE PRIVACY POLICY
 
