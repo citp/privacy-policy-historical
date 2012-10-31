@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625211907id_/http%3A//www.clientattraction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031095223id_/http%3A//clientattraction.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Fabienne and Derek Fredrickson and Client Attraction, LLC take your privacy seriously. Please read the following to learn more about our Privacy Policy. To learn more about our other website policies, please read our [Terms of Use](https://web.archive.org/terms)
+Fabienne and Derek Fredrickson and Client Attraction, LLC take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
 Client Attraction (“CA”) provides information and activities relating to Fabienne and Derek Fredrickson on the ClientAttraction.com and related websites (the “Site”). Our content includes information about Fabienne and Derek’s programs, products and events along with photos, video and educational information for and interactivity with our users and also provides links to other Client Attraction sites. While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users.
 
