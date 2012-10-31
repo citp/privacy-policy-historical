@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videomaker.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620201953id_/http%3A//www.videomaker.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomaker.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031024900id_/http%3A//www.videomaker.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Videomaker.com
 
 **Videomaker Magazine** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website. Videomaker Online is located at http://www.videomaker.com. 
 
@@ -14,16 +14,14 @@ This site contains links to other sites. **Videomaker Magazine** is not responsi
 
 ## Choice/Opt-Out Section
 
-. 
-
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. Users may request that information be deleted from our database by sending email to [customerservice@videomaker.com](mailto:customerservice@videomaker.com). 
 
 ## Contacting Videomaker Magazine
 
-. 
-
 Users may change or modify information previously provided to **Videomaker Magazine** , or ask questions about this privacy statement or the Videomaker Online web site, by sending mail to the following postal address:  
 Webmaster  
-**Videomaker Magazine**  
+ **Videomaker Magazine**  
 PO Box 4591  
 Chico, CA 95927 
+
+© 2012 Videomaker, Inc. All rights reserved.
