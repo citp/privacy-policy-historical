@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519022845id_/http%3A//www.broadbandchoices.co.uk/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031231934id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
@@ -16,11 +16,10 @@ We take your privacy and the security of your personal information very seriousl
 
 We may collect and process personal information about you, which you give to us when you use our Websites. The type on personal information we collect will vary depending on the services you are using on our Websites:
 
-  * details of your visits to our Websites including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access; 
+  * details of your visits to our Websites including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access ([please see our Cookie policy for more information](http://www.broadbandchoices.co.uk/cookie-policy.html "please see our Cookie policy for more information")); 
   * your email address if you register with us to receive our email newsletters;
-  * Your postcode or home phone number if you perform an availability check (for example when perform a postcode search for broadband suppliers available in your area through Broadbandchoices.co.uk);
-  * your postcode or home phone number if you perform an availability check (for example when you perform a postcode search for broadband suppliers available in your area through Broadbandchoices.co.uk);
-  * more detailed personal information if you place and order for home phone services through Homephonechoices.co.uk or apply for a personal finance service through Creditchoices.co.uk or Insurancechoices.co.uk; 
+  * Your postcode if you perform an availability check (for example when perform a postcode search for broadband suppliers available in your area through Broadbandchoices.co.uk);
+  * more detailed personal information if you place and order for home phone services through Homephonechoices.co.uk; 
   * if you contact us, we may keep a record of that correspondence; and information that you provide by filling in forms on our Websites. 
 
 
@@ -33,7 +32,7 @@ We may use your personal information:
 
   * to monitor and improve the performance of our Websites and services;
   * to provide you with emails and newsletters and special offers if you register with us;
-  * to provide an availability check of specific services in your area;
+  * to provide an availability check of specific broadband, home phone or TV services in your area;
   * to fulfil our obligations if you enter a prize draw or competition;
   * to process a transaction between you and a third party which you have requested;
   * to prevent fraud and defend our legal rights; and
@@ -55,7 +54,7 @@ We engage a third party email technology partner to help us coordinate and manag
 
 We obtain additional personal information from third parties to enable us to improve the relevance of our communications to you.
 
-You can easily unsubscribe from our emails at any time, either through your personal log in; by clicking the “unsubscribe” link at the bottom of any electronic correspondence (may take up to 7 days to take effect); or by emailing us at [dpo@consumerchoices.co.uk](mailto:dpo@consumerchoices.co.uk "dpo@consumerchoices.co.uk").
+You can easily unsubscribe from our emails at any time, either by clicking the “unsubscribe” link at the bottom of any electronic correspondence (may take up to 7 days to take effect); or by emailing us at [dpo@consumerchoices.co.uk](mailto:dpo@consumerchoices.co.uk "dpo@consumerchoices.co.uk").
 
 ## Broadband and home phone availability check
 
@@ -73,7 +72,7 @@ We may republish extracts of emails sent to [ourexpert@broadbandchoices.co.uk](m
 
 ## Disclosure of your Information
 
-If you place an order for a service with a third party (for example a home phone order) through our Websites then we will collect your personal information and provide this only to that third party to facilitate the transaction you have requested. This data is collected and stored securely and is deleted from our records after the transaction has been processed by the third party provider.
+If you place an order for a service with a third party (for example a home phone order) through our Websites then we will collect your personal information and provide this only to that third party to facilitate the transaction you have requested. This data is collected and stored securely in encrypted form and is deleted from our records after the transaction has been processed by the third party provider.
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -103,29 +102,13 @@ We link to third party websites from our Websites. We cannot be held responsible
 
 ## Cookies
 
-A cookie is a small text file that is sent by the web server of the website you visit to your web browser and is stored on your computer. Cookies provide a number of functions in order to make websites work, or work more efficiently, as well as to provide information to the owners of websites (e.g. cookies can identify if you have previously visited a website).
-
-The Privacy and Electronic Communications (EC Directive) Regulations 2003 has introduced requirements to provide website users with access to information relating to the use of cookies.
+A cookie is a small text file that is sent by the web server of the website you visit to your web browser and is stored on your computer. Cookies provide a number of functions in order to make websites work, or work more efficiently, as well as to provide information to the owners of websites (e.g. cookies can identify if you have previously visited or registered with a website).
 
 We collect information about users visiting our Websites by analysing site traffic which includes the use of cookies.
 
-**Cookie** | **Type** | **Purpose**  
----|---|---  
-Internal tracking cookies | Web analytics | These cookies collect anonymous traffic data about your use of our Websites such as the pages you visit and the time spent viewing those pages. This data is used to try and understand what you do and don't like about our Websites so that we can improve our services.  
-Google Analytics cookies | Web analytics | Our Websites also use Google Analytics tracking cookies to collect anonymous traffic data about your use of our Websites. This information is stored by Google and subject to their privacy policy, which can be viewed here: <http://www.google.com/privacy.html>
+The Privacy and Electronic Communications (EC Directive) Regulations 2003 has introduced requirements to provide website users with access to information relating to the use of cookies. 
 
-This data is used to try and understand what you do and don't like about our Websites so that we can improve our services.  
-  
-Order tracking cookie | Sales tracking | This cookie collects data on your product selection only if you select a product to buy from our Website. This cookie then tracks your journey as you click out from our Website to the service provider’s website to facilitate the completion of your purchase.  
-User cookie | User tracking | This cookie collects data on your user preferences such as whether you have registered with our Websites or if you have voted in one of our online polls. This data is retained so that if you return to our Websites you do not have to re-enter your log-in details and you would not be shown the same online poll question, by way of example.   
-Third party post impression tracking cookies | Advertising tracking | These cookies collect data if you click on certain adverts on our Websites. They allow those advertisers to accurately identify that you clicked through from one of our Websites and when.  
-Third party interest-based advertising cookies | Targeted advertising | These cookies collect data for third party advertisers and affiliate networks from our Websites and allow those third parties to subsequently show you highly relevant, “interest-based” advertising when you visit other websites. You can learn more, or choose not to be shown adverts selected using interest-based advertising, by visiting the information page on [interest based advertising](http://www.tradedoubler.com/uk-en/legal/targeting.html).  
-  
-The information collected by cookies and other tracking methods is anonymous and does not contain any information that can personally identify you.
-
-Most web browsers automatically accept cookies but you can alter your browser settings to prevent automatic acceptance or you can manually delete your cookie history whenever you wish.
-
-You may delete and block all cookies from our Websites but some parts of the Websites will not work.
+You can find out more about the cookies we use on our Websites, as well as information on how to turn off cookies, or change the cookie settings on your browser [here](http://www.broadbandchoices.co.uk/cookie-policy.html "here").
 
 ## Data processing and data control
 
