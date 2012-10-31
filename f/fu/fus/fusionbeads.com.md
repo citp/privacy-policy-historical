@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509133922id_/http%3A//www.fusionbeads.com/shop/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031095242id_/http%3A//www.fusionbeads.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Fusion Beads, bead, beading, sterling, seed beads, charm, swarovski, lampwork, glass, jewelry, pearls - FusionBeads.com
+# Privacy Policy and Security
 
 **At Fusion Beads Incorporated, we are committed to protecting your privacy. We use the information we collect about you to process orders only. Please read on for more details about our privacy policy.**
 
 **What information do we collect? How do we use it?**  
-When you order, we need to know your name, e-mail address, phone number, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. Note that Fusion Beads does not store customer credit card information once an order is placed. This information is transmitted securely (see below) to a credit card processing company that maintains the highest level of security.
+When you order, we need to know your name, e-mail address, phone number, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information is transmitted securely (see below) to a credit card processing company that maintains the highest level of security.
 
 **How do we protect customer information?**  
 When you place orders, we provide the use of a secure server. The secure server software (SSL) encrypts the information you input before it is sent to the Web server. We then retrieve all orders using an encrypted connection, ensuring the safety of your personal and credit card information. All customer data we collect is protected against unauthorized access. 
