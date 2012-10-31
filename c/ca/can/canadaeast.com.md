@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529051434id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031040652id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # canadaeast.com - Privacy Policy - Breaking News, New Brunswick, Canada
 
