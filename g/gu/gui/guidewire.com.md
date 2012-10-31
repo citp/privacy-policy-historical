@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidewire.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190159id_/http%3A//www.guidewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidewire.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101001132id_/http%3A//www.guidewire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ We will retain your information for as long as your account is active or as need
 
 **8\. How can you unsubscribe from our database?** You may change your subscription status at any time by visiting our subscription status page and entering your registered email address. If you registered under multiple addresses you will need to enter each address you wish to unsubscribe. An email will be sent to the address provided in order to ensure that the unsubscribe request is valid. If you are unable to access our subscription status page, you may send an email to [unsubscribe@guidewire.com](mailto:unsubscribe@guidewire.com) and we will notify you of your subscription status. Please be sure to send your request from the email address you wish to unsubscribe or clearly state in the email body the email address you wish to unsubscribe. You may also opt-out from receiving newsletter or promotional communications by following the instructions included in each newsletter or communication.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 650.357.9100 or send a letter to Guidewire Software, 2211 Bridgepointe Parkway, San Mateo, CA 94404. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 650.357.9100 or send a letter to Guidewire Software, 1001 E. Hillsdale Blvd., Foster City, CA 94404. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by calling us at the number above or sending us e-mail at the above address.
 
@@ -55,5 +55,5 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 **10\. General.** Put simply, we value your trust in us. So we want to maintain your privacy and work with you to ensure that this web site and the information and services we provide to you are a valuable resource for you. For any more information about this web site or your visit, please contact us at [info@guidewire.com](mailto:info@guidewire.com).
 
 Guidewire Software, Inc.  
-2211 Bridgepointe Parkway, Suite 200  
-San Mateo, CA 94404
+1001 E. Hillsdale Blvd., Suite 800  
+Foster City, CA 94404
