@@ -1,25 +1,26 @@
-<!--The following is the downloaded HTML source of the deltastock.com privacy policy that was archived on 2012-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506181401id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deltastock.com privacy policy that was archived on 2012-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031082640id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="NOODP, NOYDIR">
-<link rel="shortcut icon" href="http://www.deltastock.com/favicon.ico"> 
-<link rel="stylesheet" href="/style.css" type="text/css">
+<link rel="shortcut icon" href="http://www.deltastock.com/favicon.ico">
+
+<link rel="stylesheet" href="https://www.deltastock.com/style.css" type="text/css">
+
+
+	<script type="text/javascript" async="" src="https://web.archive.org/web/20111007081554/https://ssl.google-analytics.com/ga.js"></script><script src="/includes/scripts.js" type="text/javascript"></script>
+
 
 <title>Privacy Policy | Client Protection</title>
 <meta content="Deltastock.com - Online Forex &amp; Stock Broker. Privacy policy and client funds protection guaranteed. Trade forex online at fixed and variable spreads in one platform. Free Practice Trading Account." name="description">
-
-
-<script type="text/javascript" async="" src="https://web.archive.org/web/20111007081554/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/scripts.js"></script>
-
 
 <script type="text/javascript" src="/includes/google-analytics.js"></script>
 
 <style type="text/css"> #nav li a { padding: 0 16px;} </style>
 </head>
 
-<body>
+<body class="en">
 
 <!-- Google Code for EN Homepage Remarketing List -->
 
@@ -46,8 +47,10 @@ var google_conversion_value = 0;
 	<div id="new-header">
 		<div class="top-sp">
 			<h3 onclick="window.location='/'"><span>DeltaStock - Global Forex and CFD Broker</span></h3>
+			
 			<a id="green-button" href="/english/platforms/demo_registration.asp" onclick="_gaq.push(['_trackEvent', 'Demo Header Button', 'Click', 'Open Demo Account']);"><div id="green-button_l"><div id="green-button_r"><div class="but-text">Open a FREE Demo Account</div></div></div></a>
 			<a id="blue-button" href="/english/platforms/open_account.asp" onclick="_gaq.push(['_trackEvent', 'Live Header Button', 'Click', 'Open Line Account']);"><div id="blue-button_l"><div id="blue-button_r"><div class="but-text">Open a Live Account</div></div></div></a>
+			
 		</div>
 		<div class="bottom-sp">
 
@@ -56,8 +59,6 @@ var google_conversion_value = 0;
 
 			<div class="my-profile">
 				
-				    <a href="/english/my-account/my-profile.asp"><img src="/images/header/profile-person.gif" style="margin-right:4px" alt="My Profile">My Profile</a>
-				    
 			</div>
 			<span class="language-caption">Language:</span>
 <a id="langitems-ddheader" onclick="ShowHide('langitems-ddcontent')"><span class="uk">English</span></a><ul id="langitems-ddcontent" style="display: none;"><li><a href="/france/" onclick="javascript:return Translate('france','0')" class="fr">Français</a></li><li><a href="/spain/" onclick="javascript:return Translate('spain','0')" class="es">Español</a></li><li><a href="/germany/" onclick="javascript:return Translate('germany','0')" class="de">Deutsch</a></li><li><a href="/russia/" onclick="javascript:return Translate('russia','0')" class="ru">Русский</a></li><li><a href="/romania/" onclick="javascript:return Translate('romania','0')" class="ro">Romana</a></li><li><a href="/bulgaria/" onclick="javascript:return Translate('bulgaria','0')" class="bg">Български</a></li></ul>
@@ -66,7 +67,19 @@ function Translate(site, uk) {
         //alert('about-us/privacy_policy.asp');
 		window.location.replace('/' + site + '/includes/check.asp?uk=' + uk + '&cf=about-us/privacy_policy.asp'); 
 		return false;
-}
+};
+
+function ShowHide(id)
+{
+var e = document.getElementById(id);
+	
+   if (e.style.display == 'block')
+   {
+       e.style.display = 'none';
+   } else {
+			e.style.display = 'block';
+   };
+};
 </script>
 
 
@@ -108,15 +121,16 @@ function Translate(site, uk) {
 					</li>
 					<li><a href="/english/promotions/skrill-bonus.asp?PC=036_Skrill">Promotions</a>
 						<ul class="sub">
-						<!--<li><a href="/english/promotions/moneybookers_bonus.asp?PC=026_Moneybookers">Moneybookers Bonus</a></li>-->
 						<li><a href="/english/promotions/skrill-bonus.asp?PC=036_Skrill">Skrill Bonus</a></li>
+						<li><a href="/english/promotions/south-africa-sms-promotion.asp?PC=041_SA.SMS">South African Promotions</a></li>
 						<li><a href="/english/promotions/form_friend.asp">Refer a Friend Program</a></li>
 						</ul>
 					</li>
 					<li><a href="/english/my-account/accounts.asp">My Account</a>
 						<ul class="sub">
-						<li><a href="/english/my-account/my-account.asp">My Delta Trading Account</a></li>
+						<li><a href="/english/my-account/my-dt-account.asp?ver=original&amp;cfrom=myacc">My Delta Trading Account</a></li>
 						<li><a href="/english/my-account/my-mt4-account.asp">My MT4 Account</a></li>
+						<li><a href="/english/my-account/deposit-withdraw.asp">Deposit/Withdrawal Info</a></li>
 						</ul>
 					</li>
 					<li><a href="/english/about-us/about-us.asp" class="active">About Us</a>
@@ -178,8 +192,16 @@ function Translate(site, uk) {
 			document.getElementById("last-loc-item").innerHTML = RaqStr + "&nbsp;" + h1string;
 		}
 		
-		activateMenu("sidebar-menu");
-		activateMenu("sidebar-faq");
+		var strActivate = "" + window.location;
+		var flgActivate = true;
+		if (strActivate.indexOf("download.asp") >= 0) {
+			flgActivate = false;
+		};
+		
+		if (flgActivate) {
+			activateMenu("sidebar-menu");
+			activateMenu("sidebar-faq");
+		};
 		
 	}
 </script>
@@ -204,24 +226,17 @@ function Translate(site, uk) {
 
 <ul class="sidebar-menu" id="sidebar-menu">
 <li><a href="../about-us/about-us.asp" title="About Deltastock">About Deltastock</a></li>
-<li><a href="../about-us/mifid.asp" title="MiFID Regulated Online Broker">
-
-MiFID Regulated Online Broker
-
-</a></li>
+<li><a href="../about-us/mifid.asp" title="MiFID Regulated Online Broker">MiFID Regulated Online Broker</a></li>
 <li><a href="../about-us/legal-information.asp" title="Legal Information">Legal Information</a></li>
-
-
 <li><a href="../about-us/why_choose_us.asp" title="Why Choose Us">Why Choose Us</a></li>
-
-
 <li><a href="../about-us/feedback.asp" title="Feedback">Feedback</a></li>
 <li><a href="../about-us/privacy_policy.asp" title="Privacy Policy" class="active">Privacy Policy</a></li>
 
-<li class="sub-title last-child"><a href="../about-us/contacts_sofia.asp" title="Contacts">Contact Us</a>
-<ul id="sidebar-submenu" class="sidebar-submenu" style="display: none;">
+<li id="contact" class="sub-title last-child"><a href="../about-us/contacts_sofia.asp" title="Contacts">Contact Us</a>
+<ul id="sidebar-submenu-contact" class="sidebar-submenu" style="display: none;">
 <li><a href="../about-us/contacts_sofia.asp">Bulgaria - Sofia</a></li>
 <li><a href="../about-us/contacts_romania.asp">Romania - Bucharest</a></li>
+<li><a href="../about-us/contacts_sa.asp">RSA - Johannesburg</a></li>
 </ul>
 </li>
 </ul>
@@ -305,95 +320,91 @@ You are not required to supply any of the personal information that Deltastock m
 </div>
 <div class="clear"></div>
 </div>
-<table align="center" cellpadding="6" cellspacing="0" class="tblfooter" width="1000" border="0" style="margin-bottom:24px">
+<div class="footer-top-spacing"></div>
+<table align="center" cellpadding="6" cellspacing="0" class="tblfooter" width="1000" border="0">
 <tbody><tr>
-	<td colspan="4" style="height: 2px; padding: 0px; margin: 0px; border: none;"></td>	
+	<td colspan="4" style="height: 5px; padding: 0px; margin: 0px; border: none;"></td>	
 </tr>
 <tr>
-	<td colspan="4" style="background-color: white; height: 2px; padding: 0px; margin: 0px; border: none;"></td>	
-</tr>
-<tr>
-	<th>Trading Information</th>	
+	<th>Trading Information</th>
 	<th>Deltastock Accounts</th>	
 	<th>Trading Platforms</th>	
 	<th>Trading Resources</th>	
 </tr>
 <tr>
 	<td style="border: none;" valign="top">
-		<p style="text-decoration: underline">Instruments Available:</p>
+		<p class="footer-desc">Instruments Available</p>
 		<p class="inside"><a href="/english/instruments/forex.asp">Forex</a></p>
 		<p class="inside"><a href="/english/instruments/cfd-shares.asp">Contracts for Difference (CFDs)</a></p>
 		<p class="inside"><a href="/english/instruments/gold-silver.asp">Gold and Silver</a></p>
-				
-		<p style="text-decoration: underline">Partnership:</p>
+		<br>		
+		<p class="footer-desc">Partnership</p>
 		<p class="inside"><a href="/english/partnership/referring-partner.asp">Referring Party Program</a></p>
 		<p class="inside"><a href="/english/partnership/white_label.asp">White Label</a></p>
 		<p class="inside"><a href="/english/partnership/introducing_brokers.asp">Introducing Broker</a></p>		
 	</td>
 	
 	<td valign="top">
-		<p style="text-decoration: underline">Demo Account:</p>
-		<p class="inside"><a href="/english/platforms/demo_registration.asp">Get a Delta Trading Demo</a></p>
-		<p class="inside"><a href="/english/platforms/deltastock-mt4-demo.asp">Get a MetaTrader 4 Demo</a></p>
+		<p class="footer-desc">Demo Account</p>
+		<p class="inside"><a href="/english/platforms/demo_registration.asp">Open a Delta Trading Demo</a></p>
+		<p class="inside"><a href="/english/platforms/deltastock-mt4-demo.asp">Open a MetaTrader 4 Demo</a></p>
 		<p class="inside"><a href="/english/platforms/delta_trading_download.asp">Download Delta Trading</a></p>
 		<p class="inside"><a href="/english/platforms/meta_trader_download.asp">Download MetaTrader 4</a></p>
-		
-		<p style="text-decoration: underline">Live Account:</p>
-		<p class="inside"><a href="/english/platforms/open-live-account.asp?pc=site">Open a Delta Trading Live</a></p>
-		<p class="inside"><a href="/english/platforms/open-live-account.asp?pc=site&amp;mt=yes">Open a MetaTrader 4 Live</a></p>
-		
-		<p style="text-decoration: underline">Deposit Funds:</p>
-		<p class="inside"><a href="/english/my-account/accounts.asp">Information</a></p>
+		<br>
+		<p class="footer-desc">Live Account</p>
+		<p class="inside"><a href="/english/platforms/open-live-account.asp?pc=site">Open a DT Live Account</a></p>
+		<p class="inside"><a href="/english/platforms/open-live-account.asp?pc=site&amp;mt=yes">Open a MT4 Live Account</a></p>
+		<p class="inside"><a href="/english/my-account/deposit-withdraw.asp">Deposit Funds</a></p>
 	</td>
 	
 	<td valign="top">
-		<p style="text-decoration: underline">Delta Trading:</p>
-		<p class="inside"><a href="/english/platforms/demo_registration.asp">Get a Free Demo</a></p>
-		<p class="inside"><a href="/english/platforms/delta_trading_download.asp">Download Platform</a></p>
+		<p class="footer-desc">Delta Trading</p>
+		<p class="inside"><a href="/english/platforms/demo_registration.asp">Open a Free Demo Account</a></p>
+		<p class="inside"><a href="/english/platforms/delta_trading_download.asp">Download DT</a></p>
 		<p class="inside"><a href="/english/platforms/Delta-Trading-help.asp">User Guide</a></p>
-		<p class="inside"><a href="/english/platforms/video.asp">Platform Video Tutorials</a></p>
-		
-		<p style="text-decoration: underline">MetaTrader 4:</p>
+		<p class="inside"><a href="/english/platforms/video.asp">Video Tutorials</a></p>
+		<br>
+		<p class="footer-desc">MetaTrader 4</p>
 		<p class="inside"><a href="/english/platforms/deltastock-mt4-demo.asp">Get a Free Demo</a></p>
-		<p class="inside"><a href="/english/platforms/meta_trader_download.asp">Download Platform</a></p>
-		<p class="inside"><a href="/english/platforms/meta_trader_download_detailed.asp">Installation Details</a></p>
+		<p class="inside"><a href="/english/platforms/meta_trader_download.asp">Download MT4</a></p>
 	</td>
 	
 	<td valign="top">
-		<p style="text-decoration: underline">Trading Tools:</p>
+		<p class="footer-desc">Trading Tools</p>
 		<p class="inside"><a href="/english/resources/economic_calendar.asp">Economic Calendar</a></p>
 		<p class="inside"><a href="/english/resources/daily_tech_analyses.asp">Forex Technical Analysis</a></p>
 		<p class="inside"><a href="/english/resources/quotes.asp">Forex and Index Quotes</a></p>
 		<p class="inside"><a href="/english/resources/Currency_Converter.asp">Currency Calculator</a></p>
 		<p class="inside"><a href="/english/resources/currency-relation.asp">Currency Relation</a></p>
 		<p class="inside"><a href="/english/resources/widgets.asp">Trading Widgets</a></p>
-		
-		<p style="text-decoration: underline">Webmaster Tools:</p>
+		<br>
+		<p class="footer-desc">Webmaster Tools</p>
 		<p class="inside"><a href="/english/resources/free-forex-web-tools.asp">Free Forex Tools</a></p>
 	</td>
 </tr>
+<tr><td height="35"></td></tr>
 <tr>
-	<td style="border: none">
-		<span>Your IP-address: </span>
-		207.241.237.231
-	</td>
-	<td nowrap="nowrap" colspan="3" style="border: none; text-align: right; padding-top: 12px; padding-left: 0px; padding-right: 20px;">
-		<img align="absmiddle" alt="phone" src="/images/home/phone2.gif">phone: +359 2 811 50 10;						
-		<img align="top" alt="phone" src="/images/home/fax.gif" style="padding-left: 4px; padding-right: 4px;"><a href="/english/home/live-help.asp" style="text-decoration: underline;">24/5 Live Help</a>;		
-		<img align="top" alt="phone" src="/images/home/email.gif" style="padding-left: 4px;">E-mail: <a href="mailto:office@deltastock.com" style="text-decoration: underline;">office@deltastock.com</a>
-	</td>
-</tr>
-<tr>
-	
-	<td colspan="4" style="background-color: white; height: 8px; padding: 0px; margin: 0px; border: none;">
+	<td colspan="4" class="mini-footer" width="100%">
+		<span class="fut-copy">Copyright © 1999-<span>2012</span>&nbsp;Deltastock AD</span>
+		<span class="fut-contact">
+			<img align="absmiddle" alt="phone" src="/images/home/phone2.gif"> +359 2 811 50 10&nbsp;						
+			<img align="absmiddle" alt="phone" src="/images/home/live-chat.gif" style="padding-left: 4px; padding-right: 4px;"><a href="/english/home/live-help.asp" style="text-decoration: underline;">24/5 Live Help</a>&nbsp;
+			<img align="absmiddle" alt="phone" src="/images/home/email.gif" style="padding-left: 4px;"> <a href="mailto:office@deltastock.com" style="text-decoration: underline;">office@deltastock.com</a>
+		</span>
 	</td>
 </tr>
 <tr>
-	<td colspan="4" style="border: none; padding: 0px; margin: 0px; padding-top: 2px; background-color: white;">
+	<td colspan="4" style="border: none; padding: 0px; margin: 0px; padding-top: 2px;">
 		<table border="0" cellpadding="0" cellspacing="0" style="border-colapsed: colapsed; color: #555; width:1000px">
 			<tbody><tr>
-				<td nowrap="nowrap" class="foot" style="border-left: none; text-align: left; padding-left: 0px; padding-top: 12px; padding-bottom: 12px; font-weight: normal">
-							Copyright © 1999-<span>2012</span>&nbsp;Deltastock AD
+				<td nowrap="nowrap" class="foot-social">
+				<!-- a href="http://www.facebook.com/Deltastock" target="_blank"><img src="/images/footer-fb.png" alt="Like us on Facebook" /></a>
+				<a href="http://www.twitter.com/deltastock" target="_blank"><img src="/images/footer-tw.png" alt="Follow us on Twitter" /></a>
+				<a href="http://www.youtube.com/deltastockAD" target="_blank"><img src="/images/footer-yt.png" alt="Watch our videos on YouTube" /></a>
+				<a href="https://plus.google.com/107359668031653267845/" target="_blank"><img src="/images/footer-gp.png" alt="Add us on Google Plus" /></a-->
+                <a href="/english/my-account/deposit-withdraw.asp" title="Deposit Funds to your trading account">
+                    <img src="/images/my-account/visa.png" alt="Payment options: VISA"><img src="/images/my-account/mastercard.png" alt="Payment options: Mastercard"><img src="/images/my-account/wire.png" alt="Payment options: Wire Transfer"><img src="/images/my-account/skrill.png" alt="Payment options: Skrill">
+                    </a>        
 				</td>
 				<td nowrap="nowrap" class="foot" style="border-left: none; text-align: right; text-transform: uppercase; font-family: Verdana;">
 					<a href="/">Home</a>
@@ -410,11 +421,13 @@ You are not required to supply any of the personal information that Deltastock m
 				</td>
 			</tr>
 			<tr>
-				<td colspan="2" style="padding-left: 0px; border-left: none; padding-top: 6px; font-size: 9px">	                       
+				<td colspan="2" style="padding-left: 0px; border-left: none; padding-top: 6px; font-size: 9px">
 					<p class="textf"><b>Risk Warning</b>: Trading оn margin carries a high level of risk to your capital and may not be suitable for all investors. You may lose more than your initial investment! Ensure you fully understand the risks involved and seek independent advice if necessary.</p>
-				    <p class="textf"><span style="font-weight: bold">Head Office:</span> 115 G Tsarigradsko Shose Blvd., Megapark Office Building, Office Area "E", floor 6, 1784 Sofia, Bulgaria. Regulated by Financial Supervision Commission (FSC) Reg. No: RG-03-0146 and registered in Bulgarian National Bank (BNB) Reg. N BGR00107.</p>					
-				    <p class="textf">The information on this site is not intended for use by, or for distribution to, any person in any country or jurisdiction, where such use or distribution would contravene the local law or regulation.</p>                  
-					<p class="textf"><img src="/images/home/eu.gif" alt="EU"> EU Regulated and Authorised by the Financial Supervision Commission (FSC), Bulgaria, Register Number: RG-03-0146 and Registered with Bulgarian National Bank (BNB) Register Number: BGR00107</p>
+					<p class="textf">The information on this site is not intended for use by, or for distribution to, any person in any country or jurisdiction, where such use or distribution would contravene the local law or regulation.</p>
+					<p class="textf"><span style="font-weight: bold">Head Office:</span> Megapark Office Building, Area “E”, 6th Floor, 115G Tsarigradsko Shose Blvd., Sofia 1784, Bulgaria.</p>
+					<p class="textf"><img alt="EU" src="/images/home/eu.gif"> <b>EU Regulation</b>: Deltastock AD is fully licensed and regulated under MiFID. The company is regulated and authorised by the Financial Supervision Commission (FSC), Bulgaria, Reg. No. RG-03-0146, and registered with the Bulgarian National Bank (BNB), Reg. No. BGR00107.</p>
+					<p class="textf"><span>Your IP Address is</span> 174.129.237.157</p>
+					<br>
 				</td>
 			</tr>
 		</tbody></table>
