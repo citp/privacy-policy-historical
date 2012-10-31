@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indigorose.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629211544id_/http%3A//www.indigorose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigorose.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031102935id_/http%3A//www.indigorose.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indigo Rose Software
 
