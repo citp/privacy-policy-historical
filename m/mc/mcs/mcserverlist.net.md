@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcserverlist.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002306id_/http%3A//mcserverlist.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcserverlist.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031235746id_/http%3A//mcserverlist.net/privacy) for the most accurate reproduction.*
 
 # MCSL: Minecraft Server List
 
