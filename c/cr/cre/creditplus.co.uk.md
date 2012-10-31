@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504083212id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031145953id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
 # Car Loan Terms and Conditions - Creditplus trading as Whichdeal Ltd
 
@@ -24,23 +24,17 @@ By using the Web-Site the User further agrees to indemnify and hold Creditplus h
 
 Creditplus reserve the right to charge an administration fee to cover the cost of sourcing a suitable vehicle or vetting an appropriate dealer, or if the loan does not complete due to false information given on the application form. The administration charge is kept to a minimum to cover costs only. In the event of a cancelled order by the client, or the client changing supplier the administration fee will not be returned by Creditplus. 
 
-## Used Cars Supplied by Creditplus 
-
-Cars supplied by Creditplus will be covered by a [car warranty](http://www.creditplus.co.uk/car-warranty/index.html "Car Warranty") for a minimum of 3 months. It is the customer's responsibility to be fully aware of the parts not covered by the car warranty (if any). The car is supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
+Cars supplied by Creditplus will be covered by a [car warranty](http://www.creditplus.co.uk/car-warranty/ "Car Warranty") for a minimum of 3 months. It is the customer's responsibility to be fully aware of the parts not covered by the car warranty (if any). The car is supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
 
 If a car is returned the customer bears the cost of return and a cancellation fee of 5% of the car value or a minimum of £500, whichever is the greater.
 
-## New & Pre-registered Cars Supplied by Creditplus
+The Creditplus Vehicle Standards Guideline can be [viewed here](https://web.archive.org/vehicle-standards.pdf).
 
 All New & Pre-registered cars supplied by Creditplus will be covered by the relevant Manufacturers warranty. Where a vehicle is Pre-registered the balance of manufacturer’s warranty shall apply with no additional warranties being supplied by Creditplus. It is the customer’s responsibility to be fully aware of the parts not covered by the manufacturer’s car warranty (if any). All New & Pre-registered cars are supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
 
 If a New or Pre-registered car is returned the customer bears the cost of return along with a cancellation fee of 10% of the car value or a minimum of £1000, whichever is the greater.
 
-## Car Finance is Subject to Status
-
 Car Finance is provided, subject to status. Written quotations are available on request. To apply you must be at least 18 years old and a UK resident (excluding Northern Ireland, the Channel Islands and the Isle of Man). 
-
-## The Financial Services (Distance Marketing) Regulations Act 2004
 
 Guidance on the Consumer Protection (Distance Selling) Regulations 2000 No.2334. Creditplus comply with distance selling rules. Customers are not permitted to cancel or return goods for:
 
@@ -54,8 +48,6 @@ The new regulations do not apply to financial services or auctions.
 
 
 
-## Data Protection Act
-
 If you make an application, your details will be held on computer and used in a credit scoring or other automated decision-making process when assessing your application. An enquiry will be made with Credit Reference Agencies, who will record it so that it can be viewed by other Agency users. Your information will also be checked with fraud prevention agencies and if fraud is suspected Creditplus ("we" or "us") will record this and those details will be shared with other subscribing organisations. For the purposes of this application you may be treated as financially linked and your application will be assessed with reference to any "associated" records. If you are a joint applicant or if you have told us of some other financial association with another person, you must be sure that you are entitled to: 
 
   * Disclose information about your joint applicant and anyone referred to by you
@@ -64,8 +56,6 @@ If you make an application, your details will be held on computer and used in a 
 
 
 You authorise us to make all enquiries necessary to verify this information to enable us to consider this application. By agreeing to the terms and conditions when making your application, you are giving your consent for your information to be used by Creditplus for administrative, underwriting, marketing and revenue purposes. This includes our sister site [www.visitcars.co.uk](http://www.visitcars.co.uk/). If you do not want your details to be used for marketing please write to Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Under the terms of the act you have the right to obtain a copy of the information held about you upon payment of the appropriate fee. 
-
-## Privacy Policy
 
 This is the web site of Whichdeal Limited, trading as Creditplus. Our postal address is: Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Our telephone number is 08717 502 495.
 
