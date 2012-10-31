@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615121015id_/http%3A//www.adidas.com/us/content/privacypolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101000434id_/http%3A//www.adidas.com/us/content/privacypolicies) for the most accurate reproduction.*
 
 # adidas - Help Desk
 
@@ -109,4 +109,14 @@ If you have a question regarding a product or service, please contact Customer S
 
 The adidas Group is a global player which is represented in markets all over the world. To find out more about our major locations, see [http://www.adidas-group.com/en/ourgroup/locations/default.](http://www.adidas-group.com/en/ourgroup/locations/default.aspx)
 
+**_European Union and Swiss Residents_**
+
+If you choose to provide adidas with your information, you consent to the transfer and storage of that information on our servers located in the United States.
+
+adidas adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program <http://www.export.gov/safeharbor/>
+
+For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to adidas by sending us an email at [privacy.policy@adidas.com](mailto:privacy.policy@adidas.com). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the US-EU and US-Swiss Safe Harbor Privacy Principles. For clarity, this "European Union and Swiss Residents" section of this Privacy Policy applies only to residents of the EU and Switzerland.
+
 To return to the Website, please use the "Back" button on your browser.
+
+REV: 06/21/2012
