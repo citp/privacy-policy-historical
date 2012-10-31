@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceit.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512070105id_/http%3A//www.raceit.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceit.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031031944id_/http%3A//www.raceit.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,8 +21,8 @@ This Web site may contain hyperlinks to third party Web sites. Such hyperlinks a
 If you have any questions about this Privacy Policy or about our Web site in general, please contact us as follows: 
 
 RaceIt  
-5207 Hickory Park Dr, Suite E  
-Glen Allen, VA 23059
+9030 Stony Point Pkwy Suite 450  
+Richmond, VA 23235
 
 Phone: 804-200-1640  
 Fax: 804-935-8900  
