@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629131356id_/http%3A//www.liquidgeneration.com/Blog/Suck-My-Blog/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031100732id_/http%3A//www.liquidgeneration.com/Blog/Suck-My-Blog/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Liquid Generation
 
