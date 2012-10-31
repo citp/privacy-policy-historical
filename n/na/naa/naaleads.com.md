@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511000508id_/http%3A//www.naaleads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031231820id_/http%3A//www.naaleads.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | National Agents Alliance - NAA | Insurance Sales Jobs
 
