@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipino-tv.info privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502094352id_/http%3A//www.filipino-tv.info/2010/12/privacy-policy-for-wwwfilipino-tvinfo.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipino-tv.info privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031073410id_/http%3A//www.filipino-tv.info/2010/12/privacy-policy-for-wwwfilipino-tvinfo.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.filipino-tv.info | Filipino-TV | Watch Pinoy TV Shows Pinoy Channel FilTV Free Movies Chat Tambayan
 
