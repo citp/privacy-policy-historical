@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603055506id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031104525id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
+
+[Privacy policy]()
 
 **Auto Trader Privacy Policy and Cookies (“Policy”)  
 **
@@ -10,11 +12,7 @@ All personal information collected and used from the Auto Trader website at [www
   
 References in this Policy to "Auto Trader" also apply to its sister channels on this Website, including: Commercial Trader, Bike Trader, Truck Trader, Plant Trader, Van Trader, Farmers Trader and Motorhome and Caravan Trader. 
 
-**  
-INFORMATION COLLECTED**
-
-**  
-Information collected**
+[Information Collected]()
 
 **  
 Online Advertisements**
@@ -49,7 +47,7 @@ Video Chat Service
 
 If you use the video chat service (“Video Chat Service”), you may disclose personal information in the course of using the service. All conversations and email exchanges are recorded.
 
- **Use of information**
+[Use of information]()
 
 **  
 Test Drive**
@@ -66,9 +64,10 @@ Your contact details are collected in order for us to pass your details on to th
 **  
 Video chat service**
 
+  
 Any personal information that you disclose during a video chat or via an online form will be accessible to and processed by the third party supplier of the Video Chat Service and to the dealer with whom you communicate as well as being made available to Auto Trader.
 
- **Who we may disclose information to**
+[Who we may disclose information to]()
 
 **  
 We may disclose your personal information to third parties as follows:**
@@ -89,8 +88,7 @@ Vehicle Searches**
   
 In order to conduct a vehicle search on the Auto Trader Website, we will require you to supply a postcode and a selection of identifying criteria matching your chosen vehicle, for example make, model and price. 
 
-**  
-USE OF INFORMATION**
+[Use of Information]()
 
 **  
 General**
@@ -163,8 +161,7 @@ Other registration information is collected in order:**
 
 5\. To support our 'Send To Mobile' functionality - whereby visitors to our Website can send details of vehicles for sale to mobile phones.
 
-**  
-COOKIES**
+[Cookies]()
 
   
 When you visit our Website we issue a "cookie" file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information. Cookies enable us to: improve the use of our Website; to recognise your computer; to store settings to help facilitate your use of our Website; and to deliver a better and more personalised service. 
@@ -191,11 +188,9 @@ If your computer is cookie enabled we are also able to limit the number of occas
 
 **  
 Please note in order to place an advert you will need to enable cookies in your browser. For details on how to enable cookies, please visit**[ **http://www.aboutcookies.org/**](http://www.aboutcookies.org/)  
- ** 
+ ** **
 
-Why we use cookies 
-
-**
+[Why we use cookies]()
 
 **  
 Auto Trader uses cookies for 4 purposes:**
@@ -263,8 +258,7 @@ Automatic Logging of Session Data**
   
 We automatically log generic information about your computer and your computer's connection to the Internet which we call "session data".  Session data consists of things such as device information, IP address, operating system and browser software information, and the activities conducted by you while on our Website.  An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the Website the user wishes to view.  We collect session data because it helps us to analyse such things as what items visitors are likely to click on most, the way visitors are clicking through the Website, how many visitors are surfing to various pages on the Website, how long visitors to the Website are staying and how often they are visiting.  It also helps us diagnose problems with our servers and lets us better administer our systems.  It is possible to determine from an IP address a visitor’s Internet Service provider (ISP) and the approximate geographical location of his or her point of connectivity.  We may also use some session data, such as the pages you have visited on our Website, to send you e-mail messages focused on matters that you may be interested in, unless you have previously opted out of receiving such messages.  We also use session data to help prevent fraud and unauthorised use of our Website.
 
-**  
-Use of data link from registration page**
+[Use of data link from registration page]()
 
 **  
 Why are we collecting this information?**
@@ -292,8 +286,7 @@ Insurance renewal date
   
 Thanks to our long running associations with the Motor Trade, we often hear about exciting deals on insurance. By providing us with details on your renewal date, we can ensure we target you with the best offers, when they’re most relevant. 
 
-**  
-Offensive or misleading adverts or content**
+[Offensive or misleading adverts or content]()
 
   
 If you notice any offensive or unsuitable adverts or content on the Website, please email [enquiries@autotrader.co.uk](mailto:enquiries@autotrader.co.uk) or call 0845 345 3450. 
