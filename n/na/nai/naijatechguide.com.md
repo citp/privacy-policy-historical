@@ -1,32 +1,40 @@
-> *The following text is extracted and transformed from the naijatechguide.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510122717id_/http%3A//www.naijatechguide.com/2009/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijatechguide.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031234912id_/http%3A//apps.naijatechguide.com/privacy-policy.php) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Nigeria Technology Guide
+# Privacy Policy for NaijaTechGuide Blog and Apps
 
-[](http://www.naijatechguide.com/2008/07/design-website-today.html)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  [info@naijatechguide.com](mailto:info@naijatechguide.com) .
 
-Nigeria Technology Guide values your privacy and we know you value them as well. Here we provide you with information on what types of personal information we collect when you use or visit this website. This privacy statement also tells you how we use the information we collect as well as how you can prevent us from collecting information about your access to Nigeria Technology Guide.
+At NaijaTechGuide, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by Nigeria Technology Guide (NaijaTechGuide Blog) and NaijaTechGuide Apps, here after both refered to as NaijaTechGuide and how it is used. 
 
-## What type of information does Nigeria Technology Guide collect?
+### Log Files
 
-Each time you visit Nigeria Technology Guide, we collect information related to your visit. This include information like your IP address, type of browser/operating system, the time you spent on our website, the website that led you to our website, what you were looking for, and all other information as will be found on a normal log file. Information on our log file does not include your name, address, email address, or phone number.
+Like many other Web sites, NaijaTechGuide makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-If you provide personally identifiable information via email correspondence, we will store them.
+### Cookies and Web Beacons
 
-Note that information collected on Nigeria Technology Guide is for the sole aim of serving you better. We do not sell your personal information to third parties.
+NaijaTechGuide does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-## Cookies & web beacons
+### DoubleClick DART Cookie
 
-Nigeria Technology Guide use third-party advertising companies to serve ads when you visit. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on NaijaTechGuide.  
+Google's use of the DART cookie enables it to serve ads to users based on their visit to NaijaTechGuide and other sites on the Internet.
 
-## Your Options
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [**here**](http://www.google.com/privacy_ads.html)
 
-You can turn off cookies in your web browser. However this will affect your user experience on Nigeria Technology Guide. You can also avoid sending personally identifiable information to us via email.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-  
+  * Google Adsense
+  * Commission Junction
+  * Adbrite
+  * Amazon
+  * Adplacers
 
 
-[](http://www.addtoany.com/share_save)  
-[**follow @naijatechguide on Twitter**](http://twitter.com/naijatechguide)  
-[**Join us on Facebook**](http://www.facebook.com/naijatechguide)  
-[**Subscribe to our feed**](http://feedproxy.google.com/blogspot/tKRU)  
-[**Join our Tech Forum**](http://naijatechforum.com/)
+
+These third-party ad servers or ad networks use technology to display the advertisements and links that appear on NaijaTechGuide directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+Naijatechguide has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. NaijaTechGuide privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
