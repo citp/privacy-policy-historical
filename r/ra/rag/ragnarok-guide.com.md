@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragnarok-guide.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630035446id_/http%3A//www.ragnarok-guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragnarok-guide.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031034948id_/http%3A//www.ragnarok-guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ragnarok Guide
 
@@ -69,4 +69,4 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via this contact form:
 
-[](https://addthis.com/bookmark.php?v=250)
+[](https://addthis.com/bookmark.php?v=300)
