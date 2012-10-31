@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyhealthandhome.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040448id_/http%3A//familyhealthandhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhealthandhome.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031111441id_/http%3A//familyhealthandhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Family Health and Home
 
@@ -14,9 +14,8 @@ Like most standard Web site servers, I use log files. This includes internet pro
 **Cookies**  
 A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors’ activity. Some of my business partners use cookies on our site (for example, advertisers). However, I have no access to or control over these cookies, once I have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
 
-Google, one of our third-party advertisers who have running ads on http://familyhealthandhome.com/, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**Links**
 
-**Links**  
 This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Advertisers**  
