@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterproofpaper.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502095028id_/http%3A//www.waterproofpaper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterproofpaper.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031100615id_/http%3A//www.waterproofpaper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WaterproofPaper.com Privacy Policy
 
