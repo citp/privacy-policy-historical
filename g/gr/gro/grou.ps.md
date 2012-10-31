@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grou.ps privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064036id_/http%3A//company.grou.ps/wiki/21329) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grou.ps privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031112813id_/http%3A//grou.ps/home/privacy-policy) for the most accurate reproduction.*
 
-# GROU.PS - behind the scenes
+# GROU.PS | Privacy Policy
 
 **Personally Identifiable User Information**
 
@@ -27,8 +27,6 @@ Users should be aware that other websites visited before entering GROU.PS might 
 When you post Content (or send messages) in any Social Network(s) on the GROU.PS Platform that enable direct sharing of information with other Users and visitors, other Users and visitors will have access to any Personal%Proxy-Connection: keep-alive Cache-Control: max-age=0 Data in such Content. The GROU.PS Platform keeps track of Content that you have uploaded to a Social Network on GROU.PS as well as the top Users for a Network. Such information, displayed with your GROU.PS ID and photo, if you uploaded one, is available to Users and visitors of the GROU.PS Platform. In addition, the GROU.PS Platform enables other Users to invite you to use Social Networks on GROU.PS.
 
 Because you may voluntarily disclose any Personal Data in these public areas, you should be careful about the information you choose to disclose. GROU.PS does not control that disclosure, and is not liable in any way for anyone's use or misuse of the information in the disclosure. In other words, use caution and judgment here.
-
-**Personally Identifiable Information**
 
 We will send you administrative messages, and email updates regarding your account, your Social Networks, or the GROU.PS Platform. We may also send you notices of new Content that has been added to Networks in which you may be interested when you have subscribed to such notices. In some cases, we may also send you primarily promotional messages. In your account's preferences section, you can choose to opt out of promotional messages and new Content notices. You may opt out of receiving administrative messages by canceling your GROU.PS User account. We will not use your Address Book information for our own purposes.
 
@@ -78,9 +76,8 @@ By visiting GROU.PS and Social Networks running on the GROU.PS Platform and prov
 
 **Revisions to This Policy**
 
+**Third Party Cookies**
+
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
+
 GROU.PS reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on GROU.PS, and a User's continued use of GROU.PS will signify agreement to such changes.
-
-[](http://www.addthis.com/bookmark.php?v=20)
-
-  
-
