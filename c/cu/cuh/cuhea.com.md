@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuhea.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606191607id_/http%3A//www.cuhea.com/2011/01/05/cuhea-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuhea.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031053135id_/http%3A//www.cuhea.com/2011/01/05/cuhea-inc-privacy-policy) for the most accurate reproduction.*
 
 # Cuhea, Inc. Privacy Policy
 
