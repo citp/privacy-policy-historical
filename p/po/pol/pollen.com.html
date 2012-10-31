@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the pollen.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511033549id_/http%3A//pollen.com/privacy_policy_general.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pollen.com privacy policy that was archived on 2012-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031142542id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Pollen.com - Free 4-day Allergy Forecasts and Allergy Alerts</title>
+<title>Free 4-day Allergy Forecasts and Allergy Alerts by Pollen.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="keywords" content="pollens, pollen reports, pollen report, pollen levels, pollen index, pollen forecast, pollen counts, pollen count, pollen allergy, pollen allergies, pollen alert, pollen allergy season, allergy forecast, allergy allergies">
-<meta name="description" content="Pollen.com - Free 4-day Allergy Forecasts and Allergy Alerts">
+<meta name="description" content="Free 4-day Allergy Forecasts and Allergy Alerts provided by Pollen.com">
 <meta name="robots" content="all">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link href="css/pollen_ui.css" type="text/css" rel="stylesheet">
@@ -44,7 +44,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td class="Mast" style="background-image:url(images/mast/mast_willow.jpg);" align="center">
+			<td class="Mast" style="background-image:url(images/mast/mast_sagebrush.jpg);" align="center">
 				<!-- MAST { -->
 				<div class="mast_high_level" style="" align="left">
 					<img src="images/logo_pollen.png" alt="Pollen.com Logo" id="logo">
@@ -159,13 +159,13 @@ $(document).ready(function(){
 			nextAd2();
 		});
 		</script>
-		<input type="hidden" id="i2" name="i2" value="0">
-		<div align="center" id="ajax-banner2"></div>
+		<input type="hidden" id="i2" name="i2" value="1">
+		<div align="center" id="ajax-banner2" onmouseover="pauseAds();" onmouseout="resumeAds();"></div>
   </div>
   <!-- END AD } -->
 
   <!-- AD SURVEY { -->
-  <div id="adsurvey" class="snippet">
+  <div id="adsurvey" class="snippet" style="height: 701px;">
 	
   </div>
   <!-- END SURVEY } -->
@@ -193,13 +193,14 @@ function nextAd()
 	makeHttpRequest(url, 'loadBanner', true);
 	$('#i').val(i+1);
 }
+
 $(document).ready(function(){  
 	$('#i').val(0);
 	nextAd();
 });
 </script>
-<input type="hidden" id="i" name="i" value="0">
-<div align="center" id="ajax-banner" style="width:300px; height:250px;"></div>
+<input type="hidden" id="i" name="i" value="1">
+<div align="center" id="ajax-banner" style="width:300px; height:250px;" onmouseover="pauseAds();" onmouseout="resumeAds();"></div>
 
 
 	</div>
@@ -244,7 +245,7 @@ $(document).ready(function(){
 			1 IMS Drive <br>
 			Plymouth Meeting, PA 19462<br><br>
 			Phone: (610) 834-0800<br>
-			e-mail:<a href="mailto:support@pollen.com">support@pollen.com</a>
+			Or send us a message by clicking <a href="contact.asp">here</a>.
 			</p>
 			<p><a href="cookies.asp">Important Information About Accepting/Declining Cookies</a></p>
 			
@@ -274,7 +275,7 @@ $(document).ready(function(){
 							<a class="footer" href="links.asp">Allergy Links</a>
 							<div style="font-size:10px; margin-top:14px; ">Copyright © 2012 IMS Health Incorporated. All rights reserved. 
 								<a class="footer" href="terms_of_use.asp">Terms of Use</a>&nbsp; | &nbsp;<a class="footer" href="javascript:goMobile();">Pollen.com Mobile Site</a><br>
-								Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page Last Modified: 11/14/2011
+								Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page Last Modified: 9/19/2012
 							</div> 
 					</div>
 					<!-- } END FOOTER +++++++++++ -->
