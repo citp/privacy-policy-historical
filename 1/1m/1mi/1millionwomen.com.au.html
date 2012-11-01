@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1millionwomen.com.au privacy policy that was archived on 2011-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110406102126id_/http%3A//www.1millionwomen.com.au/Privacy-Policy.cfm%3Fruuid%3D2A54A957-94F0-1A16-B9F34B6EC45DCCA3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1millionwomen.com.au privacy policy that was archived on 2012-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101150527id_/http%3A//www.1millionwomen.com.au/Privacy-Policy.cfm%3Fruuid%3D4D9B718D-F16D-8E74-A3A8B930B2343048) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -202,7 +202,8 @@ function AC_Generateobj(objAttrs, params, embedAttrs)
     }
     str += '> </embed>';
   }
-  document.write(str);
+  //document.write(str);
+  return str;
 }
 function AC_FL_RunContent(){
   var ret = 
@@ -210,7 +211,8 @@ function AC_FL_RunContent(){
     (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
      , "application/x-shockwave-flash"
     );
-  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+  //AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+	return AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
 }
 function AC_SW_RunContent(){
   var ret = 
@@ -218,6 +220,7 @@ function AC_SW_RunContent(){
     (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
      , null
     );
+  //AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
   AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
 }
 function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
@@ -308,45 +311,40 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
 <body>
 <div id="header" class="container">
 	
-	<h1 id="logo" class="imgBg"><a href="http://www.1millionwomen.com.au/index.cfm?ruuid=2A612C62-BEC1-32F4-1DFAE8EC741A867E" title="1 Million Women">1 Million Women</a></h1>
+	<h1 id="logo" class="imgBg"><a href="/index.cfm?ruuid=BC816834-E6C2-AF94-F938BE59DA1624F0" title="1 Million Women">1 Million Women</a></h1>
 	
 	
 		
 	
 	<ul id="mainNav" class="menu column span-16">
 		<li id="mainNav_home">
-			<a href="http://www.1millionwomen.com.au/index.cfm?ruuid=2A612C72-ED59-A247-1B437A2829B02CF2" class="imgBg " title="1 Million Women Homepage">Home</a>
+			<a href="/index.cfm?ruuid=BC816844-9312-D359-00F58D38E4B8D5E9" class="imgBg " title="1 Million Women Homepage">Home</a>
 		</li>
 		<li id="mainNav_more">
-			<a href="http://www.1millionwomen.com.au/Get-Involved.cfm?ruuid=2A612C81-E905-311F-103EDE96A527FCFB" class="imgBg " title="Get Involved">Get Involved</a>		</li>
-		<li id="mainNav_womantowoman">
-			<a href="http://www.1millionwomen.com.au/Sharing-Stories.cfm?ruuid=2A612C91-DB76-B937-B19ED1CDCA2F5C99" class="imgBg " title="Sharing Stories">Sharing Stories</a>
-		</li>
-		<li id="mainNav_ourteam">
-			<a href="http://www.1millionwomen.com.au/The-Campaign.cfm?ruuid=2A612CA0-975B-0533-7E1E3F8E11BF2B23" class="imgBg cursor " title="About Us">About Us</a>
-			
-			
-		</li>
-		<li id="mainNav_about">
-			<a href="http://www.1millionwomen.com.au/Our-Partners.cfm?ruuid=2A612CB0-9CD5-C76B-9809F33A7A4E4C4A" class="imgBg " title="Partners">Partners</a>
-		</li>
+			<a href="/Get-Involved.cfm?ruuid=BC816854-DC54-3109-48DBBED89579BAD1" class="imgBg " title="Get Involved">Get Involved</a>		</li>
+		<li id="mainNav_tell">
+			<a href="/Tell-a-Friend.cfm?ruuid=BC816863-B898-F046-1FFD1BC9F191369F" class="imgBg " title="Get Involved">tell a friend</a>		</li>
 		<li id="mainNav_news">
-			<a href="http://www.1millionwomen.com.au/News-and-Events.cfm?ruuid=2A612CC0-C530-5049-27A1704F5928C8B8" class="imgBg " title="News &amp; Events">News &amp; Events</a>
+			<a href="/News-and-Events.cfm?ruuid=BC816873-E29C-CD7A-D753ED93210C7589" class="imgBg " title="News &amp; Events">News &amp; Events</a>
+		</li>	
+		<li id="mainNav_ourteam">
+			<a href="/The-Campaign.cfm?ruuid=BC816883-A5A1-52E7-7B521F004B6A2C86" class="imgBg cursor " title="About Us">About Us</a>
+			
+			
 		</li>
+		<li id="mainNav_contact">
+			<a href="/Contact-Us.cfm?ruuid=BC816892-9857-25F8-4672884D01271733" class="imgBg " title="Contact">contact</a>
+		</li>	
+		
+		
 	</ul>
 	<ul id="subNav" class="menu">
+			<li id="nav_donate_new"><a href="/donate.cfm?ruuid=BC8168A2-0EA3-FA56-B0ABA7203C7949F8" class="imgBg" title="Donate">Donate</a></li>		
 		
+			<li id="nav_login"><a href="/Login.cfm?ruuid=BC8168B1-F3BB-E3F5-D800DD94161489DB" class="imgBg " title="Login">Login</a></li>
 		
-			<li id="nav_join"><a href="http://www.1millionwomen.com.au/Join.cfm?ruuid=2A612CCF-ABBD-8C88-675E1D178F025B48" class="imgBg " title="Join">Join</a></li>		
-		
-		
-		<li id="nav_tell"><a href="http://www.1millionwomen.com.au/Tell-a-Friend.cfm?ruuid=2A612CDF-D38C-4C59-DAA5F7053BD7EBC5" class="imgBg " title="Tell a Friend">Tell a Friend</a></li>
-		<li id="nav_donate"><a href="http://www.1millionwomen.com.au/Contact-Us.cfm?ruuid=2A612CEE-AADE-ED4A-BAC163DC7511634E" class="imgBg " title="Contact Us">Contact Us</a></li>
-	
-		
-			<li id="nav_login"><a href="http://www.1millionwomen.com.au/Login.cfm?ruuid=2A612CFE-FD8F-4206-079FA635E3B001AF" class="imgBg " title="Login">Login</a></li>
-				
-		
+			<li id="nav_join"><a href="/Join.cfm?ruuid=BC8168C1-C883-DE0D-2DAB91E55F0AE9D2" class="imgBg " title="Join">Join</a></li>		
+					
 	</ul>
 	<div class="clearer">&nbsp;</div>
 	 
@@ -356,7 +354,7 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
 <div id="content" class="container">
 
 	
-		<span style="float:right;">« <a href="My-Profile.cfm?ruuid=2A612D0E-D136-9CC9-5945C67411DDD6DD">Back to my profile</a></span>
+		<span style="float:right;">« <a href="My-Profile.cfm?ruuid=BC8168D1-F2B4-3435-82B77BAA23C6CEB6">Back to my profile</a></span>
 		<h2 class="sifr_h2" style="float: left; width: 400px;">Privacy Policy</h2> 
 		<br style="clear: both;">
 	
@@ -449,20 +447,23 @@ POLICY UPDATING: This website will be continually improved and up-dated. This ma
 
 
 <div id="footer" class="container">
-	<div id="shareThis" class="detailPage">
+<div id="shareThis" class="detailPage">
 		<h3>Find Us</h3>
 		<ul>
-			<li><a href="http://twitter.com/#!/1millionwomen" title="Twitter"><img src="inc/img/icon_twitter_small.png" width="18" height="17" alt="Twitter">Twitter</a></li>
-			<li><a href="http://www.facebook.com/1MillionWomen" title="Facebook"><img src="inc/img/icon_facebook_small.png" width="18" height="17" alt="Facebook">Facebook</a></li>
-			<li><a href="http://www.youtube.com/user/1MWcampaign" title="Youtube"><img src="inc/img/icon_youtube_small.png" width="18" height="17" alt="Youtube">Youtube</a></li>
-			<li><a target="_blank" href="http://1millionwomen.wordpress.com" title="BLOG"><img src="inc/img/feed.png" width="18" height="17" alt="BLOG">BLOG</a></li>
-			<li><a href="#" title="Other"><img src="inc/img/icon_shareThis_small.png" width="18" height="17" alt="Other">Share This</a></li>			
-		</ul>
-	</div>
+			<li><a title="Twitter" href="http://twitter.com/#!/1millionwomen" target="_blank"><img width="18" height="17" alt="Twitter" src="inc/img/icon_twitter_small.png">Twitter</a></li>
+			<li><a title="Facebook" href="http://www.facebook.com/1MillionWomen" target="_blank"><img width="18" height="17" alt="Facebook" src="inc/img/icon_facebook_small.png">Facebook</a></li>
+			<li><a title="Youtube" href="http://www.youtube.com/user/1MWcampaign" target="_blank"><img width="18" height="17" alt="Youtube" src="inc/img/icon_youtube_small.png">Youtube</a></li>
+			<li><a title="BLOG" href="http://1millionwomen.wordpress.com" target="_blank"><img width="18" height="17" alt="BLOG" src="inc/img/feed.png">BLOG</a></li>
+			<li class="last"><span class="st_sharethis" st_image="http://1millionwomen.com.au/images/logo_facebook.jpg"><a title="Share This" href="javascript:void(0);">Share This</a></span></li><a title="Share This" href="javascript:void(0);">
+			<script type="text/javascript">var switchTo5x=true;</script>
+			<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">stLight.options({publisher: "ur-d5fc8c3c-c140-acbc-6b82-c6e6f6baae36"}); </script>
+		</a></ul><a title="Share This" href="javascript:void(0);">
+	</a></div><a title="Share This" href="javascript:void(0);">
 	
 	
 	
-	<div class="terms">© Copyright 1 Million Women 2010 <span class="seperator">|</span> <a href="http://www.1millionwomen.com.au/Terms-of-Use.cfm?ruuid=2A612D1D-E107-812E-36C3B3087E75F016" title="Terms of Use">Terms of Use</a> <span class="seperator">|</span> <a href="http://www.1millionwomen.com.au/Privacy-Policy.cfm?ruuid=2A612D2D-C119-D021-B03066FD00BA3F4A" title="Privacy Policy">Privacy Policy</a> <span class="seperator">|</span> <a href="http://www.1millionwomen.com.au/Sitemap.cfm?ruuid=2A612D3C-E9CA-E882-99C9273399ED8C48" title="Sitemap">Sitemap</a> </div>
+	</a><div class="terms"><a title="Share This" href="javascript:void(0);">© Copyright 1 Million Women 2012 <span class="seperator">|</span> </a><a href="/Terms-of-Use.cfm?ruuid=BC8168E0-C2E4-5554-E75936CA2BA28238" title="Terms of Use">Terms of Use</a> <span class="seperator">|</span> <a href="/Privacy-Policy.cfm?ruuid=BC8168F0-B63A-BAB5-0E3779F2CEEC4A75" title="Privacy Policy">Privacy Policy</a> <span class="seperator">|</span> <a href="/Sitemap.cfm?ruuid=BC816900-ACEA-E8DD-AA6A50EBB43B02FC" title="Sitemap">Sitemap</a><span class="seperator">|</span> <a href="/Contact-Us.cfm?ruuid=BC81690F-927B-A6BB-4342953759DF3909" title="Contact">Contact</a></div>
    
     <div class="collab">
 		<ul>
