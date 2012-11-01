@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613223308id_/http%3A//pegitboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101112130id_/http%3A//pegitboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Peg It Board
 
-Unless otherwise defined in this Policy, terms used in this Policy have the same meanings as in our Peg It Board Terms of Service, accessible at [http://pegitboard.com/about/terms/](http://pegitboard.com/tos). As used in this Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+Unless otherwise defined in this Policy, terms used in this Policy have the same meanings as in our Peg It Board Terms of Service, accessible at [http://pegitboard.com/about/terms/](http://pegitboard.com/tos). As used in this Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
 
 * * *
 
