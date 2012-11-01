@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the 1stdomains.co.nz privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510092042id_/http%3A//www.1stdomains.co.nz/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stdomains.co.nz privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101070335id_/http%3A//www.1stdomains.co.nz/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 1st Domains
 
-The statement applies to user interaction with the registrar of the website, 1st Domains - a Division of Net24 Limited, which accepts the applications for registration of domain names.
+The statement applies to user interaction with the registrar of the website, 1st Domains - a Division of Voyager Internet Limited, which accepts the applications for registration of domain names.
 
 **Information that you provide**  
 When you request 1st Domains to act as your registrar for your domain name, we request from you certain personal information. All the information that we request is compulsory in order to enable 1st Domains to process your application, unless otherwise clearly stated. The information that you provide must be complete, accurate and current at the time of registration.   
 In addition to the information you provide on the request for registration, we also maintain a record of whether and when you use the information and services that we provide.We use this information in order to assess the services that we provide and to ensure that they respond to your needs and interests. We also record site traffic patterns and maintain log files of users' access to site files.   
 1st Domains also tracks user traffic patterns throughout and we use this information to compare with data about individual users. 1st Domains also uses cookies for keeping track of user login and session data.   
-The statement applies to user interaction with the registrar of the website, 1st Domains - a Division of Net24 Limited, which accepts the applications for registration of domain names.
+The statement applies to user interaction with the registrar of the website, 1st Domains - a Division of Voyager Internet Limited, which accepts the applications for registration of domain names.
 
 Certain financial information is recorded for our accounting systems, however your credit card information provided at our web site is discarded after use and is not stored.
 
