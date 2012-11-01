@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007154451id_/http%3A//cloudability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102002642id_/https%3A//cloudability.com/privacy) for the most accurate reproduction.*
 
-# Pages - Privacy - Cloudability
+# Privacy Policy | Cloudability
 
 This Privacy Policy describes how we collect, use, and protect the personal information you provide when you use the Services provided by Cloudability through the Cloudability Site. Unless otherwise defined in this Privacy Policy, capitalized terms used in this Privacy Policy have the same meaning as in the Cloudability Terms of Service.
 
