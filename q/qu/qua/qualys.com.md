@@ -1,25 +1,45 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505011314id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102005521id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Highlights | Qualys, Inc.
+
+Version 2.1 – Effective June 8, 2012
 
 This Privacy Statement Highlights provides a high-level summary of Qualys' entire [Privacy Statement](https://web.archive.org/company/privacy/statement/). Qualys provides these highlights as a convenience to you but should not be considered the fully Privacy Statement of Qualys.
 
 ## Overview
 
-Qualys® is committed to providing you with excellent service for its QualysGuard® services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#Safe%20Harbor).
+Qualys® is committed to providing you with excellent service for its QualysGuard® services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
 
   
 
 
 #### Web Sites Covered
 
-This Privacy Statement applies to Qualys Web sites that link to this Privacy Statement:  
-[http://www.qualys.com](https://web.archive.org/);  
-[https://qualysguard.qualys.com](https://qualysguard.qualys.com/);  
-[https://pci.qualys.com](https://pci.qualys.com/);  
-[https://freescan.qualys.com](https://freescan.qualys.com/);  
-[https://sans20.qualys.com](https://sans20.qualys.com/); and  
-[https://freemap.qualys.com](https://freemap.qualys.com/) (collectively referred to as "Qualys Web sites").
+This Privacy Statement applies to Qualys Web sites that link to this Privacy Statement:
+
+[http://www.qualys.com](https://web.archive.org/);
+
+[https://qualysguard.qualys.com](https://qualysguard.qualys.com/);
+
+[https://pci.qualys.com](https://pci.qualys.com/);
+
+[https://freescan.qualys.com](https://freescan.qualys.com/);
+
+[https://community.qualys.com](https://community.qualys.com/);
+
+[http://cn.qualys.com](http://cn.qualys.com/);
+
+[http://qualys.jp](http://qualys.jp/);
+
+[https://browsercheck.qualys.com](https://browsercheck.qualys.com/);
+
+[https://ssllabs.qualys.com](https://ssllabs.qualys.com/);
+
+[http://news.qualys.com](http://news.qualys.com/);
+
+[http://laws.qualys.com](http://laws.qualys.com/); and
+
+[https://portal.qualys.com](https://portal.qualys.com/) (collectively referred to as "Qualys Web sites").
 
 Qualys Web sites may contain links to other Web sites. Qualys is not responsible for the information practices or the content of such other Web sites. Qualys encourages you to review the privacy statements of other Web sites to understand their information practices.
 
@@ -58,11 +78,11 @@ We consider the protection of all personal information we receive from our Web s
 
 #### EU Safe Harbor
 
-Qualys self-certifies in compliance with the Safe Harbor Privacy Principles published by US Department of Commerce ("Safe Harbor Principles") with respect to personal data about individuals in the EEA that subsidiaries, customers, suppliers and other businesses in the EEA send to Qualys. Read about [Qualys' participation in EU Safe Harbor](https://web.archive.org/company/privacy/statement/#Safe%20Harbor).
+Qualys self-certifies in compliance with the Safe Harbor Privacy Principles published by US Department of Commerce ("Safe Harbor Principles") with respect to personal data about individuals in the EEA that subsidiaries, customers, suppliers and other businesses in the EEA send to Qualys. Read about [Qualys' participation in EU Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
 
   
 
 
 #### How to Contact Qualys
 
-If you have questions or would like additional information about Qualys' Privacy Statement, please contact Qualys at **_1600 Bridge Parkway, Redwood Shores, CA 94065_** , telephone: **_650.801.6100_** , or fax: **_650.801.6101_**.
+If you have questions or would like additional information about Qualys' Privacy Statement, please contact Qualys at **_1600 Bridge Parkway, Redwood City, CA 94065_** , telephone: **_650.801.6100_** , or fax: **_650.801.6101_**.
