@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the booz.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622084953id_/http%3A//www.booz.com/global/home/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the booz.com privacy policy that was archived on 2012-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101212240id_/http%3A//www.booz.com/global/home/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy</title>
@@ -16,7 +16,7 @@
 	<!--[if lte IE 6]>
 	<link rel="stylesheet" type="text/css" href="/template/sites/bac/css_files/ie6_hacks.css" media="screen" /="">
 	<![endif]-->
-	<script language="javascript" type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
 	<!--
 	
 	var awcdm__menu_showing = null;
@@ -121,13 +121,66 @@
 	</script>
 	
 	<!-- begin global js -->
+	<script language="javascript" src="/media/system/js/shared/jquery.js"></script>
 	<script language="javascript" src="/media/system/js/shared/AWCShared.js"></script>
+	<script language="javascript" type="text/javascript">
+	var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-4932932-1']);
+	  _gaq.push(['_setDomainName', 'booz.com']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	
+	if (typeof jQuery != 'undefined') {
+	    jQuery(document).ready(function($) {
+	        var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+	        var baseHref = '';
+	        if (jQuery('base').attr('href') != undefined)
+	            baseHref = jQuery('base').attr('href');
+	        jQuery('a').each(function() {
+	            var href = jQuery(this).attr('href');
+	            if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+	                jQuery(this).click(function() {
+	                    var extLink = href.replace(/^https?\:\/\//i, '');
+	                    _gaq.push(['_trackEvent', 'Outbound', 'Click', extLink]);
+	                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+	                        setTimeout(function() { location.href = href; }, 200);
+	                        return false;
+	                    }
+	                });
+	            }
+	            else if (href && href.match(/^mailto\:/i)) {
+	                jQuery(this).click(function() {
+	                    var mailLink = href.replace(/^mailto\:/i, '');
+	                    _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+	                });
+	            }
+	            else if (href && href.match(filetypes)) {
+	                jQuery(this).click(function() {
+	                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+	                    var filePath = href;
+	                    _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+	                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+	                        setTimeout(function() { location.href = baseHref + href; }, 200);
+	                        return false;
+	                    }
+	                });
+	            }
+	        });
+	    });
+	}
+	</script>
 	<!-- end global js -->
 	
 	<link rel="stylesheet" href="/media/css/bac-strategy-table.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/media/css/bac-base_plus.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/media/css/bac-media.css" type="text/css" media="all">
-	<link rel="stylesheet" href="/media/css/AWCTemporary-be9ce6681ee1614ed78d25d60a5e5179.css" type="text/css">
+	<link rel="stylesheet" href="/media/css/AWCTemporary-76d863a709e21e86411811fadaa4e50f.css" type="text/css">
 </head>
 <body>
 <div style="width: 890px; margin: auto; padding: auto;">
@@ -428,7 +481,7 @@
             <td align="left" width="10" valign="bottom" height="30">&nbsp;</td>
             <td align="left" width="140" valign="bottom" height="30"><div id="searchbox"><form name="search_query" action="http://www.booz.com/global/home/search_results" method="GET">
 <input type="hidden" name="search_query__case_sensitive" value="0"><input type="hidden" name="search_query__search_option" value="any"><input type="hidden" name="search_query__query_id" value="49182626"><div style="float: left; overflow: hidden;"><input type="text" name="search_query__search_text" value="" size="25" class="AWC-39746352" id="search_text"></div>
-<div style="float: right; overflow: hidden;"><input type="image" src="/media/image/bac-search_button.gif" width="19" height="19" border="0" id="submit" name="search_query__submit"></div><input type="hidden" name="form_stage" value=""><input type="hidden" name="search_query__entered" value="1"></form>
+<div style="float: right; overflow: hidden;"><input type="image" src="/media/image/bac-search_button.gif" width="19" height="19" border="0" id="submit" name="search_query__submit" value="1"></div><input type="hidden" name="form_stage" value=""><input type="hidden" name="search_query__entered" value="1"></form>
 </div></td>
         </tr>
     </tbody>
@@ -447,10 +500,11 @@
 <p class="AWC-39746364">This Web Site may contain links to other sites.&nbsp;Please be aware that Booz &amp; Company is not responsible for the privacy practices of these other sites.&nbsp;We encourage our users to be aware when they leave the Web Site and to read the privacy statements of each and every web site that collects personally identifiable information.&nbsp;This Privacy Policy applies solely to information collected by this Web Site.</p>
 <p class="AWC-39746364">We reserve the right to change or otherwise update this Privacy Policy at any time.&nbsp;Such changes or updates are effective immediately after we give notice of the change or update, which we may do so by revising the “Last Updated” date of this Privacy Policy or by otherwise posting the changes or updates on the Web Site or by email or conventional mail, and/or by other means that provides reasonable notice.&nbsp;Your use of the Web Site after such notice is posted means that you accept these changes or updates.&nbsp;You agree that Booz &amp; Company shall not be liable to you for any damages that might result from any changes to the Privacy Policy.</p>
 <p class="AWC-39746364"><em>Last updated March 16, 2011</em></p><p></p><p></p>
-<div id="left-column-footer"><!-- AWCDIV:hide:begin:49182927 --><table width="590" cellspacing="0" cellpadding="0" border="0">
-    <tbody>
-        <tr>
-            <td height="22" valign="bottom"><span class="AWC-39746376">Copyright <script language="JavaScript">
+<div id="left-column-footer"><!-- AWCDIV:hide:begin:49182927 --><table border="0" cellpadding="0" cellspacing="0" width="590">
+	<tbody>
+		<tr>
+			<td height="22" valign="bottom">
+				<span class="AWC-39746376">Copyright <script language="JavaScript">
 <!-- hide from old browsers
   var today = new Date()
   var year = today.getYear()
@@ -458,205 +512,14 @@
   document.write(year)
 //-->
 </script>2020 Booz &amp; Company Inc. All rights reserved.</span></td>
-            <td height="22" align="right" valign="bottom" class="AWC-39746376"><a href="http://www.booz.com/global/home/privacy_policy" class="AWC-39746380">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.booz.com/global/home/terms_of_use" class="AWC-39746380">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.booz.com/global/home/what_we_think/multimedia/mobile" class="AWC-39746380">Mobile</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.booz.com/global/home/sitemap" class="AWC-39746380">Site Map</a></td>
-        </tr>
-    </tbody>
+			<td align="right" class="AWC-39746376" height="22" valign="bottom">
+				<a href="http://www.booz.com/global/home/privacy_policy" class="AWC-39746380">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.booz.com/global/home/terms_of_use" class="AWC-39746380">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.booz.com/global/home/what_we_think/multimedia/mobile" class="AWC-39746380">Mobile</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.booz.com/global/home/sitemap" class="AWC-39746380">Site Map</a></td>
+		</tr>
+	</tbody>
 </table>
-<p><script type="text/javascript">
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-4932932-1");
-
-pageTracker._setDomainName("booz.com");
-
-pageTracker._initData();
-
-pageTracker._trackPageview();
-
-</script>
-
- 
-
-<script src="http://www.google-analytics.com/urchin.js"></script>
-
- 
-
-<script type="text/javascript">
-
-_uacct = "UA-4932932-1";
-
-_userv = 2;
-
-urchinTracker();
-
- 
-
-//
-
-//  By default, this script will track links to the follwoing file 
-
-//  types: .doc, .xls, .exe, .zip and .pdf
-
-//
-
-var fileTypes    = (".doc",".xls",".exe",".zip",".pdf");
-
- 
-
-// This is a debug mode flag.  Change to '' for production.  In debug mode
-
-// the script will display an alert box and skip sending data to Google 
-
-// Analytics.
-
-//
-
-var debug          = '';
-
- 
-
-//
-
-// This variable controls how outbond links will appear
-
-// the GA reports.  By default, external links will appear as
-
-// '/outbound/<URL>' where URL is the URL in the anchor tag.
-
-//
-
-var extIdentifier  = '/outbound'+_udl.pathname+'/'+_udl.search+'/';
-
- 
-
-/// No need to change anything below this line ///
-
- 
-
-if (document.getElementsByTagName) { 
-
-  // Initialize external link handlers 
-
-  var hrefs = document.getElementsByTagName('a'); 
-
- 
-
-  for (var l = 0; l < hrefs.length; l++) { 
-
-    //protocol, host, hostname, port, pathname, search, hash 
-
-    if (hrefs[l].hostname == location.host) { 
-
-      var path = hrefs[l].pathname; 
-
-    if (path.indexOf(fileTypes) != -1) startListening(hrefs[l],"click",trackDocuments); 
-
-    } else { 
-
-      startListening(hrefs[l],"click",trackExternalLinks); 
-
-    } 
-
-  } 
-
-} 
-
- 
-
-function startListening (obj,evnt,func) { 
-
-  if (obj.addEventListener) {
-
-    obj.addEventListener(evnt,func,false); 
-
-  } else if (obj.attachEvent) {
-
-    obj.attachEvent("on" + evnt,func); 
-
-  } 
-
-} 
-
- 
-
-function trackDocuments (evnt) { 
-
-  var url = (evnt.srcElement) ? "/" + evnt.srcElement.pathname : this.pathname; 
-
- 
-
-  if (typeof(urchinTracker) == "function") {
-
-   if (!debug) {
-
-    urchinTracker(url);
-
-   } else { 
-
-    alert(url);
-
-    return false;
-
-   }
-
-  }
-
-} 
-
- 
-
-function trackExternalLinks (evnt) { 
-
-  var lnk; 
-
-  if (evnt.srcElement) { 
-
-    var elmnt = evnt.srcElement; 
-
-    while (elmnt.tagName != "A") { 
-
-      var newelmnt = elmnt.parentNode; 
-
-      elmnt = newelmnt; 
-
-    } 
-
-    lnk = extIdentifier +elmnt.hostname + "/" + elmnt.pathname + elmnt.search; 
-
-  } else { 
-
-    lnk = extIdentifier + this.hostname + this.pathname + this.search; 
-
-  } 
-
- 
-
-  if (typeof(urchinTracker) == "function") {
-
-   if (!debug) {
-
-    urchinTracker(lnk);
-
-   } else {
-
-    alert(lnk);
-
-    return false;
-
-   }
-
-  }
-
-}
-
-</script></p><!-- AWCDIV:hide:end:49182927 --></div>
+<p>
+	<!-- AWCDIV:hide:begin:51302642 --><!-- AWCDIV:hide:end:51302642 --></p>
+<!-- AWCDIV:hide:end:49182927 --></div>
 </div>
 <div id="columns-5-6">
 <div id="bcnav">&nbsp;</div>
