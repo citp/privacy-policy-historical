@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515040435id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101025751id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
 
 # NASDAQ OMX Privacy Statement
 
@@ -131,7 +131,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [ http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20120515040435id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20121101025751id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -147,7 +147,7 @@ Website: <http://www.nasdaqinsurance.com/>
 Website: <http://www.nasdaqtrader.com/>  
 Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
 Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20120515040435id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20121101025751id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
 
 Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
