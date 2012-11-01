@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630215630id_/https%3A//www.gaggle.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101073841id_/https%3A//gaggle.net/home/privacy) for the most accurate reproduction.*
 
 # Gaggle - Safe Online Learning Tools
 
@@ -24,7 +24,7 @@ In general Gaggle automatically gathers usage information like frequency of user
 
 Our site's registration form requires users to give us contact information such as their name and email address. We use this contact information from the registration form to verify your status as a teacher or school district employee and your affiliation with a particular school, district, or educational institution. This is done to protect the safety of our users. We at Gaggle want to provide safe, controlled e-mail accounts for students and teachers. The customer's registration information is also used to contact the user with information about our company and updates to the Gaggle E-mail Service.
 
-In the future Gaggle will ask our users to voluntarily provide their date of birth and gender. This personal information is collected from student users for the purposes of targeted advertising and to insure that our younger users are not exposed to material appropriate for an older audience.
+In the future Gaggle will ask our users to voluntarily provide their date of birth and gender. This personal information is collected from student users for the purposes of targeted advertising and to ensure that our younger users are not exposed to material appropriate for an older audience.
 
 ### Disclosure
 
@@ -50,7 +50,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ### Student Safety
 
-Gaggle supports the efforts of COPPA to insure the online safety of children. Email accounts on the Gaggle system are provided only through a qualified school or educational organization. Schools receive a master account which enables them to create accounts for student users. Schools should obtain parental permission before issuing accounts to students.
+Gaggle supports the efforts of COPPA to ensure the online safety of children. Email accounts on the Gaggle system are provided only through a qualified school or educational organization. Schools receive a master account which enables them to create accounts for student users. Schools should obtain parental permission before issuing accounts to students.
 
 We meet the following guidelines listed below and agree to:
 
