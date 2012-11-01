@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadefury.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502110117id_/http%3A//www.arcadefury.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadefury.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101234944id_/http%3A//www.arcadefury.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcade Fury
 
@@ -12,7 +12,7 @@ Privacy Policy
 
 Privacy Policy for www.scrapgames.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@scrapgames.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@scrapgames.com.
 
 At www.scrapgames.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.scrapgames.com and how it is used. 
 
@@ -24,7 +24,7 @@ www.scrapgames.com does use cookies to store information about visitors preferen
 
 DoubleClick DART Cookie   
 .:: Google, as a third party vendor, uses cookies to serve ads on www.scrapgames.com.   
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.scrapgames.com and other sites on the Internet.   
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to [Adventure Games](http://www.adventuregame.cc/) and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....   
