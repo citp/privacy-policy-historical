@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hellofresh.co.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602111955id_/http%3A//www.hellofresh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofresh.co.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101070611id_/http%3A//www.hellofresh.co.uk/privacy) for the most accurate reproduction.*
 
 # HelloFresh - Privacy
 
 Privacy
 
-**Jade 1314. GmbH("We") are committed to protecting and respecting your privacy.**
+**GROCERY DELIVERY E-SERVICES UK LTD("We") are committed to protecting and respecting your privacy.**
 
-This policy (together with our terms of useand any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Jade 1314. GmbH of Saarbrücker Strasse 30, 10405 Berlin, Germany. Information we may collect from you.
+This policy (together with our terms of useand any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is GROCERY DELIVERY E-SERVICES UK LTD of London UK. Information we may collect from you.
 
 We may collect and process the following data about you:
 
@@ -40,6 +40,8 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **Uses made of the information**
 
+Information you enter into our registration forms may be collected and stored briefly by us so that we may contact you in relation to the nature of your attempted transaction, even if you don't confirm the transaction. This may be used to send operational emails to enquire as to why the purchase was not completed. We will not use this data for any other purpose, we won't store it for longer than necessary and we certainly won't share it with any other company. Our aim is simply to provide you with the highest level of service that we can. 
+
 We use information held about you in the following ways:
 
   * To ensure that content from our site is presented in the most effective manner for you and for your computer.
@@ -67,8 +69,8 @@ We may disclose your personal information to any member of our group, which mean
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
-  * If Jade 1314. GmbH or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or to protect the rights, property, or safety of Jade 1314. GmbH, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If GROCERY DELIVERY E-SERVICES UK LTD or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or to protect the rights, property, or safety of GROCERY DELIVERY E-SERVICES UK LTD, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
