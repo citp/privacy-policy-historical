@@ -1,83 +1,63 @@
-> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155100id_/http%3A//www.xtremeprofits.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101073502id_/http%3A//www.nichewisdom.com/privacy) for the most accurate reproduction.*
 
-# Xtreme Profits Privacy Statment
+# Privacy | Niche Marketing Strategy
 
-This notice is being provided to you by **_III Websites, LLC_** , Matt Levenhagen and all Partner Sites. We are committed to maintaining the confidentiality and security of personal information gathered from potential, current and former customers. The proper handling of personal information continues to be one of our highest priorities. As a valued customer who provides us with nonpublic personal information, we want you to know why we need this information and we want to explain our commitment to protecting the information you provide.
+**PRIVACY POLICY**
 
-Our postal address is: Upon Request
+This privacy policy applies to the use of nichewisdom.com.
 
-We can be reached via e-mail at: http://www.jvpal.com/contact.htm
+We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
-**Customer Information**
+**Log Files and Cookies**
 
-We collect and maintain only information necessary for us to be able to provide the services requested by you and to administer your business with us. We may collect nonpublic personal information from the following sources:
+This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
-  * From you when you complete an application or other form (such as name, address, social security number, or Web Address). 
-  * From your transactions with us, our partners, affiliates or others (such as purchasing of e-Books or other material). 
-  * From general correspondence that may arise from time to time. 
-  * We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations and the e-mail addresses of those who subscribe to our mailing list and newsletter. 
+Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
 
+We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
 
+We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
 
-**Sharing Information**
+**Links to Other Websites**
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, it is not shared with other organizations for commercial purposes.
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-We only share your nonpublic personal information with affiliated or nonaffiliated companies or individuals that perform servicing functions on our behalf or as permitted by law (such as governmental and consumer reporting agencies). In the normal course of our business, we may disclose some or all of the above described information to nonaffiliated companies or individuals that contract with us to perform services or function on our behalf, such as: Record keeping, Distribution of materials, Statement preparation, Computer-related services, Administrative services, or Joint marketing of our products and services.
+Registration and Use of Personal Information
 
-When we provide nonpublic personal information to a service provider, we require the provider to agree to safeguard your information, to use that information only for the intended purpose and to abide by applicable law.
+Registration is not required in order to use or access this website.
 
-**Access to Information**
+If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
 
-Only employees, management or representatives with a valid business reason have access to your nonpublic personal information. All such persons who work with confidential information are educated on the importance of maintaining the confidentiality and security of the information and are required to abide by our information-handling practices.
+Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
 
-With respect to **cookies:**
+We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by clicking on the “unsubscribe” link in any email we send to you, by replying to any email we send you or entering the word UNSUBSCRIBE in the subject line..
 
-We do not set any cookies at this time. 
+Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
-Relating to Use of **Personal Information** :
+**Access to Personally Identifiable Information**
 
-**If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.**
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by using the contact form on this site.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by providing us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+**Security**
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore â€“ as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
 
-With respect to **Ad Servers**
+You may submit any questions you may have about our security procedures by contacting us through the contact form on this site.
 
-We do not partner with or have special relationships with any ad server companies. 
+**Links to Other Websites**
 
-**Future Changes**
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
+**Affiliate Disclaimer**
 
-**Access to the visitors personal information**
+This website may also contain affiliate links. These links may show up within the content, via banners or other types of product displays.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
+**Legal Disclaimer**
 
-Consumers can access this information by e-mailing us at the above address, or visiting us at <http://www.jvpal.com/contact.htm>.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
 
-**Maintenance of Accurate Information**
+**Contact Details**
 
-We strive to maintain accurate, up-to-date customer records in accordance with industry standards. Procedures have been established to keep information current and complete. These procedures include responding to requests to correct information in a timely manner.
+If you have any questions or concerns regarding this privacy policy, or you wish to contact us, our contact information is as follows:
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by sending us e-mail at the above address, visiting us at <http://www.jvpal.com/contact.htm>. 
-
-**Protection of Information**
-
-We maintain security standards to protect your information, whether written, spoken, or electronic. We update and test our systems to assure protection and integrity of the information. We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-**Disclosure of our Privacy Policy**
-
-We recognize and respect the privacy concerns of potential, current and former customers, and are committed to safeguarding nonpublic personal information. As a member of the Online Marketing industry, we are providing you this notice for informational purposes and will update and distribute it as required by law.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. If it is not resolved with this approach you may contact:
-
-  * The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org 
-  * 1State or local chapters of the Better Business Bureau 
-  * State or local consumer protection office 
-  * The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>. 
-
-
+Simply use the [contact form](http://www.nichewisdom.com/contact) on this site found on the menu.
