@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aota.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502021700id_/http%3A//www.futurequest.net/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aota.net privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101172503id_/http%3A//www.futurequest.net/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - FutureQuest, Inc.
 
@@ -97,5 +97,14 @@ If a parent or guardian wishes to provide permission for their child to use the 
 If a parent or guardian wishes to close a child's account, please let us know by visiting the cancellation form provided at [http://www.FutureQuest.net/Billing/Cancel/](http://www.futurequest.net/Billing/Cancel/ "Cancel Account")
 
 For more information or to contact a FutureQuest Representative visit the FutureQuest [Service Desk](http://service.futurequest.net/ "Service Desk") at [http://Service.FutureQuest.net](http://service.futurequest.net/ "Service Desk") or send email to [Service@FutureQuest.net](mailto:Service@FutureQuest.net)
+
+  
+
+
+* * *
+
+FutureQuest Site Search 
+
+Loading
 
 Back to Top
