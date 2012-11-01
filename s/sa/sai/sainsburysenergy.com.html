@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sainsburysenergy.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512013337id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sainsburysenergy.com privacy policy that was archived on 2012-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101215635id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><!--<![endif]--><head>
  
@@ -86,17 +86,40 @@ function overWriteCookie(newEmail) {
 
 
 
-</head>
+<link type="text/css" rel="stylesheet" href="/libs/cq/personalization/clientlib/themes/default.css"></head>
 
 
  
+
+
+
 <body>
 <div id="main-cont">
 
 
+<script type="text/javascript"> var tempJq = jQuery; </script>
+<div class="clickstreamcloud">
+<script type="text/javascript">
+CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]},{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/libs/cq/personalization/clientlib.js","c":[]},{"p":"/apps/cq/personalization/clientlib.js","c":[]},{"p":"/libs/cq/personalization/clientlib/themes/default.css","c":[]},{"p":"/libs/cq/personalization/clientlib/ie6/themes/default.css","c":["ie6"]}],false);
+</script><script src="/etc/clientlibs/foundation/jquery.js" type="text/javascript"></script>
+<script src="/etc/clientlibs/foundation/shared.js" type="text/javascript"></script>
+<script src="/libs/cq/personalization/clientlib.js" type="text/javascript"></script>
+<script src="/apps/cq/personalization/clientlib.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/etc/segmentation.segment.js"></script>
+
+
+<div id="clickstreamcloud-gui"></div></div>
+
+<script type="text/javascript"> var jQuery = tempJq; var $ = tempJq; </script>
+
+
+
  
 
  
+
+
 
 
 
@@ -115,6 +138,7 @@ function overWriteCookie(newEmail) {
             <p id="logoutMsg" class="searchTxt">
             </p>
         </div>
+    
 	<div id="mastRight">
             <div class="right">
                 <ul class="inline fleft">
@@ -122,20 +146,152 @@ function overWriteCookie(newEmail) {
                     <li><a class="lineBreak" href="/Contactus/">Contact us</a> | </li>
                     <li><a href="/emergencies.html">Emergencies</a></li>
                 </ul>
-                <form class="inline" action="/Site-Search/" method="post" role="search">
-                <span class="searchTxt2">
-					<input name="site_search" type="text" onclick="if (this.value=='Search'){this.value='';this.style.color='red';} " onfocus="if (this.value=='Search'){this.value='';this.style.color='black';} return false; " onblur="if (this.value==''){this.value='Search';return false;}" value="Search" title="Search" id="searchInput" autocomplete="off" class="ac_input">
-				</span>
-				<span class="fleft btn-search">
+				
+				
+				
 					
-					<input type="image" alt="Search" src="/etc/designs/centrica/sainsbury/images/search_button.png" id="site-search-submit">
-				</span>
-             </form>
+					  <div class="siteSearch globalSiteSearch">
+ 
+
+<div class="siteSearchJourney parsys globalSiteSearch">
+  
+
+
+<script>
+var currentsearchform="#site-search-form38903857-b65b-49f1-bc35-cc80b7b5c9f5";
+</script>
+<div class="topsrch fleft">
+    <form role="search" id="site-search-form38903857-b65b-49f1-bc35-cc80b7b5c9f5">
+        <input type="text" name="site_search" class="site_search srchbox fleft ac_input" id="site-search-input38903857-b65b-49f1-bc35-cc80b7b5c9f5" title="Search" value="Search" autocomplete="off">
+        <input type="image" class="fleft site-search-submit" alt="Search" title="Search" src="/etc/designs/centrica/sainsbury/images/btn-search-input.png" id="site-search-submit38903857-b65b-49f1-bc35-cc80b7b5c9f5">
+        <input id="uri" type="hidden" name="uri" value="/SiteSearch/">
+    </form>          
+</div>
+
+ 
+
+ <script type="text/javascript">
+       var arrayofjson =[];
+       var siteSearchURL ="";
+       var searchindex;
+       var searchText;
+       if(siteSerchValues==undefined)
+       var siteSerchValues=[];
+       $(document).ready(function(){
+           searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
+          
+        $(".site-search-submit").click(function(e){
+        	e.preventDefault();
+        	searchText = $(this).prev('.site_search').val();
+            sitesearchResult(searchText);
+           
+        });
+    
+     
+       $('.site_search').keypress(function(e){
+            if(e.which==13) {
+                e.preventDefault();
+                searchText = $(this).val();
+                sitesearchResult(searchText);
+                return false;
+              
+            }
+        });
+
+
+       $('.site_search').click(function(e){
+           if ($(this).val()=='Search') {
+                $(this).val('');
+            }
+       });
+
+
+       $('.site_search').focus(function(e){
+           if ($(this).val()=='Search') {
+               $(this).val('').css("color","black" );
+               } 
+           return false;
+       });
+
+
+       $('.site_search').blur(function(e){
+           if ($(this).val()=='') {
+               $(this).val('Search').css("color","#999999" );
+               return false;
+              }
+       });
+       
+       });
+       
+       function sitesearchResult(searchString) {
+            var uri = $("#uri").val();
+			searchString = replaceAll(searchString," ","+");
+			searchString = uri + "?q=" + searchString;
+			siteSearchURL="";
+			siteSearchURL =  siteSearchURL + searchString;
+			window.location.href=siteSearchURL ;         
+        }
+    
+     function replaceAll(source,findString,replaceString){
+        var temp = source;
+        if(source != null && source != "undefined") {
+        var index = temp.indexOf(findString);
+          while(index != -1){
+              temp = temp.replace(findString,replaceString);
+              index = temp.indexOf(findString);
+          }
+          return temp;
+          }
+      }
+
+
+     var dd=0;
+    
+     var url = "/content/sysadmin/sainsbury/sitesearch/_jcr_content.infinity.json";
+    $.ajaxSetup({ async: false });
+    $.getJSON(url, function(data) {
+         $.each(data, function(i, node) {
+             if(i.match(/^sitesearch*/)){
+                 $.each(node, function(j, childnode) {
+                     if(j=="authoradds"){
+                         if(typeof(childnode)=="object"){
+                             for(k=0;k<childnode.length;k++)
+                                 arrayofjson[dd++]=(childnode[k]);
+                         }
+                         else
+                             arrayofjson[dd++]=(childnode);
+                     }
+                 });
+             }
+         });
+         var searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
+         siteSerchValues[searchindex]=arrayofjson;
+         
+    });
+
+    $(document).ready(function() {
+		$("body").removeAttr("onload");
+	});
+
+
+</script>
+         
+
+
+</div>
+
+</div>
+
+					
+					
+				
             </div>
         </div>
 <!-- end of mastRight -->          
+          
     </div>
-</div> 
+</div>
+
 
 
     <div class="megamenu">
@@ -154,7 +310,6 @@ function overWriteCookie(newEmail) {
 <li role="presentation"><a href="/GetAPrice/" role="menuitem">Get a quote</a></li>
 <li role="presentation"><a href="/products-and-services/energy/our-energy-tariffs.html" role="menuitem">Our energy tariffs</a></li>
 <li role="presentation"><a href="/products-and-services/energy/switch.html" role="menuitem">A guide to switching</a></li>
-<li role="presentation"><a href="/products-and-services/energy/price-announcement.html" role="menuitem">Price announcement</a></li>
 </ul>
 </div></div>
 <div class="mega-column"><div class="mega-column-content">
@@ -162,7 +317,6 @@ function overWriteCookie(newEmail) {
 <ul>
 <li role="presentation"><a href="/products-and-services/nectar/collect-points.html" role="menuitem">Collect points</a></li>
 <li role="presentation"><a href="/products-and-services/nectar/spend-points.html" role="menuitem">Spend points</a></li>
-<li role="presentation"><a href="/products-and-services/nectar/nectar-offer.html" role="menuitem">Nectar offer</a></li>
 <li role="presentation"><a href="/products-and-services/nectar/terms-and-conditions.html" role="menuitem">Terms and conditions</a></li>
 </ul>
 </div></div>
@@ -261,6 +415,8 @@ function overWriteCookie(newEmail) {
 
 
 
+
+
 <div id="content-body">
     <div class="content-wrapper">
 	    
@@ -269,10 +425,12 @@ function overWriteCookie(newEmail) {
 <div id="primary-wrapper">
     
     <div id="content-wrapper-main">
-    <div class="title">
+    
+	
+		<div class="title">
  <h1 id="h1">Privacy</h1></div>
 
-    
+	
     <div class="parsys hero-panel"></div>
 
 
@@ -285,7 +443,13 @@ function overWriteCookie(newEmail) {
     
     
         <div id="primary-content-full" role="main">
-            <div class="par parsys"><div class="section heading">
+            <div class="par parsys"><div class="text parbase section">
+ 
+<p><a href="/global-maintenance/cookies-policy.html"><span class="primary-link"><b>Click here to read our policy on cookies</b></span></a></p>
+<p><a href="/global-maintenance/cookies-policy.html"><b></b></a></p>
+
+</div>
+<div class="section heading">
  
 <h2>Protecting your privacy</h2>
 
@@ -429,7 +593,7 @@ PO Box 491<br>
 Leeds<br>
 LS3 1WZ<br>
 Phone: 0870 060 1414<br>
-Website: <a href="http://www.callcredit.co.uk/" target="_blank"><b>www.callcredit.co.uk</b><sup><img src="/etc/designs/centrica/sainsbury/images/external-link.gif" title="this link will open in a new window" alt="this link will open in a new window" role="presentation"></sup></a><br>
+Website: <a href="http://www.callcredit.co.uk/" target="_blank"><b>www.callcredit.co.uk</b><sup><img src="/etc/designs/centrica/sainsbury/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
 </p>
 <p>Experian<br>
 Consumer Help Service<br>
@@ -437,7 +601,7 @@ PO Box 8000<br>
 Nottingham<br>
 NG80 7WF<br>
 Phone: 0870 241 6212<br>
-Website: <a href="http://www.experian.co.uk/" target="_blank"><b>www.experian.co.uk</b><sup><img src="/etc/designs/centrica/sainsbury/images/external-link.gif" title="this link will open in a new window" alt="this link will open in a new window" role="presentation"></sup></a><br>
+Website: <a href="http://www.experian.co.uk/" target="_blank"><b>www.experian.co.uk</b><sup><img src="/etc/designs/centrica/sainsbury/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
 </p>
 <p>Equifax Plc<br>
 Credit File Advice Centre<br>
@@ -445,7 +609,7 @@ PO Box 1140<br>
 Bradford<br>
 BD1 5US<br>
 Phone: 0844 335 0550<br>
-Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co.uk</b><sup><img src="/etc/designs/centrica/sainsbury/images/external-link.gif" title="this link will open in a new window" alt="this link will open in a new window" role="presentation"></sup></a>.<br>
+Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co.uk</b><sup><img src="/etc/designs/centrica/sainsbury/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a>.<br>
 </p>
 
 </div>
@@ -482,18 +646,16 @@ Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co
 <p>We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer's hard drive which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies.</p>
 <p>If you don’t want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.</p>
 <p></p>
-<p><a href="/privacy/cookies-policy.html"><b>Click here to read our policy on cookies</b>.</a><br>
-</p>
 
 </div>
 <div class="section heading">
  
-<h2>6. Turning off cookies in different browsers</h2>
+<h2>6. Cookies</h2>
 
  </div>
 <div class="text parbase section">
  
-<p>You can find information on <b>disabling cookies at </b><a target="_blank" href="http://www.allaboutcookies.org/"><b>www.allaboutcookies.org</b><sup><img src="/etc/designs/centrica/sainsbury/images/external-link.gif" title="this link will open in a new window" alt="this link will open in a new window" role="presentation"></sup></a></p>
+<p>We use 'cookies' on our site. Visit our <a href="/global-maintenance/cookies-policy.html"><b>cookies policy</b></a> to find out more and manage cookies.</p>
 
 </div>
 <div class="section heading">
@@ -530,7 +692,14 @@ Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co
     </div>
 </div>
 
+
  
+    
+ 
+
+ 
+
+
 <div id="footer" role="contentinfo">
     <div id="subFooter">        
         <div class="footer-lft">			
@@ -552,12 +721,18 @@ Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co
                 <li><a href="/terms-and-conditions.html" title="Terms &amp; conditions">Terms &amp; conditions</a></li>
                 <li><a href="/sitemap.html" title="Sitemap">Sitemap</a></li>
                 <li><a href="/accessibility.html" title="Accessibility">Accessibility</a></li>
-                <li class="last"><a href="http://www.sainsburys.co.uk" title="Sainsbury's" target="_blank">Sainsbury's</a></li>
+                <li><a href="/global-maintenance/cookies-policy.html" title="Cookies">Cookies</a></li>
+                <li class="last"><a href="http://www.sainsburys.co.uk" title="Sainsbury's" target="_blank">Sainsbury's</a></li>                
             </ul>
-            <p class="copyrights"> © Sainsbury's Energy 2012</p>  
+            <p class="copyrights"> © Sainsbury's Energy 2012</p> 
+			
         </div>
     </div>
 </div>
+
+
+
+
 </div>
 
  
@@ -565,7 +740,7 @@ Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co
 
 
 <script src="/etc/designs/centrica/sainsbury/scripts/jquery-ui-1.8.11.custom.min.js" type="text/javascript"></script>
-<script src="/etc/designs/centrica/scripts/bg_jcarousellite_1.0.1.pack.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/bg_jcarousellite_1.0.2.pack.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/jquery-search.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/jquery-autocomplete.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/jquery-csv.js" type="text/javascript"></script>
@@ -586,6 +761,7 @@ Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co
  
 
  
+
 <script>
     $(document).ready(function(){
         displayLogoutMsg();
@@ -615,7 +791,7 @@ Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.html+%2863ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,63,0,63&chxr=0,0,63&chd=t:9,36,39,41,41,46,46,47,47,48,48,49,50,50,51,51,52,52,53,53,54,55,55,56,56,57,57,58,59,59,60,60,61,62,62|25,0,0,0,22,0,1,0,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,1,0,1&chly=megamenu.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy.html+%2872ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,72,0,72&chxr=0,0,72&chd=t:10,14,15,17,40,43,43,44,52,53,53,54,54,55,56,56,57,57,58,58,59,59,60,60,64,64,65,66,66,67,67,68,68,69,70,70,71,71,72|1,2,1,22,1,0,1,28,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp&chs=600x500
 -->
 
 
@@ -625,6 +801,8 @@ var stHost = (("https:" == document.location.protocol) ? "https://www." : "http:
 var stAccount = "10086";
 document.write(unescape("%3Cscript src='" + stHost + "sitetagger.co.uk/" + stAccount + "/sitetagger.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://www.sitetagger.co.uk/10086/sitetagger.js" type="text/javascript"></script>
+<div class="analytics">
+</div>
 
 
 
