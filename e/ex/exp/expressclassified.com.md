@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expressclassified.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607043727id_/http%3A//expressclassified.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressclassified.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101102048id_/http%3A//expressclassified.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Express Classified – Free Classified Ads & Free Online Advertising
+# Privacy Policy Express Classified - Free classified ads ()
 
 ##  Website Privacy Policy 
 
