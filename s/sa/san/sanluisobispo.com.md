@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516214633id_/http%3A//www.sanluisobispo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101080048id_/http%3A//www.sanluisobispo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Tribune & SanLuisObispo.com
+# SanLuisObispo.com San Luis Obispo, CA
 
 ##### Effective Date: 9-4-09
 
@@ -70,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 SanLuisObispo.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of SanLuisObispo.com in order to access general SanLuisObispo.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-SanLuisObispo.com, 3825 So. Higuera Street, San Luis Obispo, California 93406, or 805-781-7800, or [webmaster@thetribunenews.com](mailto:webmaster@thetribunenews.com)
+SanLuisObispo.com, 3825 S. Higuera St., San Luis Obispo, CA, 93406, or 805-781-7800, or [webmaster@thetribunenews.com](mailto:webmaster@thetribunenews.com)
 
 ### Member mail and e-mail offers
 
@@ -118,4 +118,4 @@ SanLuisObispo.com supports P3P, the Platform for Privacy Preferences, which allo
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at SanLuisObispo.com, 3825 So. Higuera Street, San Luis Obispo, California 93406, at 805-781-7800 or at [webmaster@thetribunenews.com](mailto:webmaster@thetribunenews.com).
+If you have any questions or comments about our policies, we may be reached at SanLuisObispo.com, 3825 S. Higuera St., San Luis Obispo, CA, 93406, at 805-781-7800 or at [webmaster@thetribunenews.com](mailto:webmaster@thetribunenews.com).
