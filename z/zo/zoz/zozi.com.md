@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zozi.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614043638id_/http%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zozi.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101094552id_/http%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
 
 # zozi
 
@@ -15,6 +15,10 @@ The information we gather from customers enables us to personalize and improve o
 #### Personal Information You Provide to Us:
 
 We may receive and store any information you enter on our website or provide to us in any other way. The types of Personal Information collected include your full name, credit card information, email address, zip code, IP address, browser information, username, password, historical purchase data and any other information necessary for us to provide our services. The Personal Information you provide may be used for such purposes as responding to your requests for certain services, customizing the content you see, and communicating with you about new services. 
+
+#### Financial Information:
+
+We may have access to certain financial information you provide to us through the Website, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “Payment Processor”), which may in turn provide us with a secured portion of your financial information in order to complete transactions made through the Website. You acknowledge that the use and storage of your financial information is governed by the Payment Processor’s applicable terms of service and privacy policy. 
 
 #### Personal Information Collected Automatically:
 
@@ -42,6 +46,8 @@ Personal Information about our customers is an integral part of our business. We
 Affiliated Businesses We Do Not Control: We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Company may provide services jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business. 
 
 Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+
+Financial Information: As stated above, we may have access to a secured portion of your financial information, which is collected and stored by our Payment Processor. We may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Website. 
 
 Promotional Offers: We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to support@zozi.com 
 
@@ -93,6 +99,6 @@ _zozi Headquarters_
 
 San Francisco, CA 94133
 
-1-888-ZOZI-123
+1-888-969-4123
 
 [support@zozi.com](mailto:support@zozi.com)
