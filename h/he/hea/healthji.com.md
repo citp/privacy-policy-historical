@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthji.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503023637id_/http%3A//www.healthji.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthji.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101062939id_/http%3A//www.healthji.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Health & Wellness Programs, Corporate Health Programs, Employee Health & Wellness Programs | Healthji
+# Health & Wellness Programs, Corporate Health Programs, Health Products, Sports Nutrition, Employee Health & Wellness Programs | Healthji
 
 At HealthjiTM, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information. This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below) that we collect on the Website. By visiting the Healthji.com website and any other URLs and websites administered by EZ-Healthline, and its affiliates (collectively, the Website) submitting your Personal Information to us, you accept the practices described in this statement. The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason.
 
