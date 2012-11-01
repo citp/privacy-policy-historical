@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608010839id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101161314id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
 
 # FanIQ - Privacy Policy
 
-**Effective Date: September 7, 2011**
+**Effective Date: June 5, 2012**
 
 FanIQ ("FanIQ" or "we") respects and values your privacy. As such, this Privacy Policy details FanIQ's treatment of personally identifiable information ("PII") and other information collected through the website, located at [www.FanIQ.com](http://www.faniq.com/), any related online applications or services, or the mobile versions thereof (collectively, "Website").
 
@@ -50,7 +50,7 @@ Users can also login to the FanIQ website using their Facebook username and pass
 
 ### Sharing of Individual PII with Third Parties
 
-FanIQ will not sell, rent or lease PII collected on the FanIQ website to third-party marketers. FanIQ, may however, share PII with its affiliates (FanIQ is a subsidiary of Datran Media) who may use the information for marketing purposes. For more information, please see the Datran Media Privacy Policy [here](http://www.datranmedia.com/privacy/). Our affiliates will not share PII with unaffiliated third parties for their own marketing purposes. 
+FanIQ will not sell, rent or lease PII collected on the FanIQ website to third-party marketers. FanIQ, may however, share PII with its affiliates (FanIQ is a subsidiary of PulsePoint, Inc.) who may use the information for marketing purposes. For more information, please see the PulsePoint, Inc. Privacy Policy [here](http://www.datranmedia.com/privacy/). Our affiliates will not share PII with unaffiliated third parties for their own marketing purposes. 
 
 FanIQ may share PII with service providers who assist us with our marketing efforts and other communications, but those service providers will not use this PII for their own marketing purposes and are prohibited by contract from sharing this PII with any party other than FanIQ. These businesses include providers of website applications. These services enable us to deliver communications to website users and to verify and update information about website users.
 
@@ -70,7 +70,7 @@ We use non-personally identifiable information to help us to tailor the features
 
 Cookies are pieces of information that any website may transfer to your browser that are then stored in your computer's system. Cookies are returned to the website that deposited them when a visitor returns to that site. We use Cookies to store users' preferences and to record session information. We also use Cookies for purposes including ensuring that users are not repeatedly offered the same advertisements and to customize newsletter, advertising and web page content based on browser type and user profile information. The deposit of Cookies by the website may enhance your online experience by allowing us to save your preferences for your next visit. Our Cookies may also measure the general activity on the website and measures advertising effectiveness, which allows us to determine which areas and features are most popular. This information allows us to make improvements to our website.
 
-Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you choose to decline Cookies, some of the functionality of the website may be impaired. Some of the cookies placed may be from our affiliate Datran Media's Aperture business. For more information, please see the Datran Media [Aperture privacy policy](http://www.datranmedia.com/privacy/aperture/). Should you wish to opt-out of us placing an Aperture audience cookie on your browser, you can [click here](http://rt.displaymarketplace.com/optout.html) to deploy an "opt-out" cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new Aperture audience cookie on that browser and will prevent the Aperture audience business from collecting web data and audience data on that browser.
+Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you choose to decline Cookies, some of the functionality of the website may be impaired. Some of the cookies placed may be from our affiliate PulsePoint, Inc's Aperture business. For more information, please see the PulsePoint, Inc. [Aperture privacy policy](http://www.datranmedia.com/privacy/aperture/). Should you wish to opt-out of us placing an Aperture audience cookie on your browser, you can [click here](http://rt.displaymarketplace.com/optout.html) to deploy an "opt-out" cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new Aperture audience cookie on that browser and will prevent the Aperture audience business from collecting web data and audience data on that browser.
 
 Web beacons, also known as "clear gifs," "one-pixel gifs," "web bugs," "Internet tags" or "pixel tags," are small graphic images on a website or in an email that allow us and third parties to monitor the activity on our website or to make Cookies more effective. We use log files to store the data that is collected through web beacons.
 
@@ -102,15 +102,15 @@ FanIQ places the highest value on the privacy of children. FanIQ does not knowin
 
 ### Access 
 
-Individuals wishing to review PII collected by FanIQ on this website should write to FanIQ Privacy Department, c/o Datran Media, 345 Hudson Street, 5th Floor, New York, New York, 10014. FanIQ may take reasonable steps to confirm the identity of the consumer in an effort to prevent identity theft.
+Individuals wishing to review PII collected by FanIQ on this website should write to FanIQ Privacy Department, c/o PulsePoint, Inc., 345 Hudson Street, 5th Floor, New York, New York, 10014. FanIQ may take reasonable steps to confirm the identity of the consumer in an effort to prevent identity theft.
 
 ### European Union and Other Non-US Residents
 
 Your information may be stored and processed in any country in which FanIQ or its affiliates maintain facilities, including in the United States, which may not have protections equivalent to those in your home country. For purpose of providing the service or sharing or disclosing data for purposes noted in this policy, FanIQ reserves the right to transfer information outside of your country. By using and registering on the FanIQ website, you consent to the transfer of information outside of your country.
 
-In addition, FanIQ's parent company, Datran Media, has self certified to the Department of Commerce's Safe-Harbor framework, and we adhere to the Safe-Harbor Principles. For more information on the Safe-Harbor program, visit <http://export.gov/safeharbor>. If you are a European resident and have a data-privacy inquiry, you may contact us at [info@datranmedia.com](mailto:info@datranmedia.com) or in writing at:
+In addition, FanIQ's parent company, PulsePoint, Inc., has self certified to the Department of Commerce's Safe-Harbor framework, and we adhere to the Safe-Harbor Principles. For more information on the Safe-Harbor program, visit <http://export.gov/safeharbor>. If you are a European resident and have a data-privacy inquiry, you may contact us at [info@pulsepoint.com](mailto:info@pulsepoint.com) or in writing at:
 
-Datran Media  
+PulsePoint, Inc.  
 345 Hudson Street, 5th Floor  
 New York, NY 10014  
 Tel: (212) 706-9781
@@ -127,12 +127,12 @@ Email: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
 
 ### Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits California residents who have provided PII to Datran Media or its partners to request certain information regarding FanIQ disclosure of PII to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of PII disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties when required. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section.
+California Civil Code Section 1798.83 permits California residents who have provided PII to PulsePoint, Inc. or its partners to request certain information regarding FanIQ disclosure of PII to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of PII disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties when required. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section.
 
 If you have any questions about your California privacy rights or this Privacy Policy, please contact us at feedback@FanIQ.com or in writing at:
 
 FanIQ Privacy Department  
-c/o Datran Media  
+c/o PulsePoint, Inc.  
 345 Hudson Street, 5th Floor  
 New York, NY 10014  
 Tel: (212) 706-9781
