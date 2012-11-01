@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302063952id_/http%3A//www.2ksports.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101083605id_/http%3A//www.2ksports.com/info/privacy) for the most accurate reproduction.*
 
 # 2K Sports - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **TAKE-TWO INTERACTIVE PRIVACY POLICY**
 
-**Last updated on March 1, 2010**
+**Last updated on March 26, 2012**
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Take-Two%20Interactive%20Software,%20Inc.&sealid=102)
 
@@ -16,7 +16,7 @@ Take Two Interactive Software Inc./Rockstar Games Inc., its parent and its subsi
 
 PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. BY REGISTERING OR USING OUR ONLINE SERVICES, YOU AGREE THAT WE MAY TRANSFER AND STORE YOUR ACCOUNT INFORMATION IN THE USA, THAT WE MAY PROCESS YOUR DATA IN ACCORDANCE WITH THE FOLLOWING PRIVACY POLICY, THAT YOU AGREE TO BE BOUND BY OUR PRIVACY POLICY, AND THAT YOU WILL ABIDE BY OUR TERMS & CONDITIONS. THIS PRIVACY POLICY SUPPLEMENTS THE PRIVACY DISCLOSURES PROVIDED TO YOU WITH YOUR SOFTWARE PRODUCT AND/OR BY YOUR CONSOLE MANUFACTURER. 
 
-The Company is a licensee of the TRUSTe Privacy, Children’s Privacy and EU Safe Harbor Privacy Programs. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to have our privacy practices reviewed for compliance by TRUSTe. 
+The Company is a licensee of the TRUSTe Privacy, Children’s Privacy. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to have our privacy practices reviewed for compliance by TRUSTe. 
 
 This Privacy Policy will explain: 
 
@@ -42,8 +42,9 @@ This Privacy Policy will explain:
 
 
 WHAT DOES THIS PRIVACY POLICY APPLY TO?   
-This Privacy Policy applies to the Company’s Online services including the TRUSTe certified Company websites that link to it. In addition, the Company may also own several other domain names that relate to its labels, feature its products, or point to the websites listed above, and we may from time to time add new sites. This privacy policy applies to TRUSTe certified Take-Two sites. To view a complete list of these certified Take-two sites, please click on the TRUSTe seal on this page.   
-The Company complies with the EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union consistent with the European Commission's Directive on Data Protection that went into effect in October, 1998. 
+This Privacy Policy applies to the Company’s Online services including the TRUSTe certified Company websites that link to it. In addition, the Company may also own several other domain names that relate to its labels, feature its products, or point to the websites listed above, and we may from time to time add new sites. This privacy policy applies to TRUSTe certified Take-Two sites. To view a complete list of these certified Take-two sites, please click on the TRUSTe seal on this page. 
+
+The Company complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. The Company  has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our  certification, please visit <http://www.export.gov/safeharbor/>. 
 
 Please note that this Privacy Policy applies only to information submitted and collected online through the Online Services, and does not apply to information that may be collected by the Company offline. In addition, this Privacy Policy does not apply to websites or services maintained by other companies or organizations and the Company cannot and does not guarantee the security of any personal information disclosed to those third-parties. In addition, please note that we may hire vendors (agents or contractors) to collect personal information on our behalf and in such cases such vendors will be instructed to comply with our Online Privacy Statement as set forth herein. These vendors may not use your personally identifiable information for their own marketing purposes. 
 
