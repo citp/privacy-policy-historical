@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606154451id_/http%3A//www.partmaster.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101224109id_/http%3A//www.partmaster.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Spares, Spare Parts & Accessories - Currys Partmaster.co.uk
 
@@ -20,7 +20,7 @@ The information we collect via this website may include:
 
 (1) Any personal details you type in and submit, such as name, address, email address, etc.
 
-(2) Data which allows us to recognise you, your preferences and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A cookie is a small amount of data which we send to your computer. The data is then stored on your browser or hard disk. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or to disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser. If you disable cookies, the site will not operate correctly on your computer. The cookies store information only for as long as you are viewing the website.
+(2) Data which allows us to recognise you, your preferences and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A cookie is a small amount of data which we send to your computer. The data is then stored on your browser or hard disk. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or to disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser. If you disable cookies, the site will not operate correctly on your computer. The cookies store information only for as long as you are viewing the website. To find out what cookies we use and why we use them [click here](http://www.partmaster.co.uk/cgi-bin/static.pl?content=cookies "View Cookies"). 
 
 (3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website.
 
