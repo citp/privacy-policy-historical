@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516101043id_/http%3A//www.lumenis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101235038id_/http%3A//www.lumenis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement: Lumenis
 
