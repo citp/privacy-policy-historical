@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tropicalglen.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512091154id_/http%3A//www.tropicalglen.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicalglen.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101173137id_/http%3A//www.tropicalglen.com/Privacy.html) for the most accurate reproduction.*
 
 # Free Oldies Music - The Songs Played on this Music Channel
 
 Your Help is Needed  
-Please [Contribute](https://web.archive.org/web/20120512091154id_/http%3A//www.tropicalglen.com/Contribute.html "Go to our Donation Page")   
+Please [Contribute](https://web.archive.org/web/20121101173137id_/http%3A//www.tropicalglen.com/Contribute.html "Go to our Donation Page")   
 or View Ads to help us  
 Keep the Free Jukebox OnLine
 
 Your Help is Needed  
-Please [Contribute](https://web.archive.org/web/20120512091154id_/http%3A//www.tropicalglen.com/Contribute.html "Go to our Donation Page")   
+Please [Contribute](https://web.archive.org/web/20121101173137id_/http%3A//www.tropicalglen.com/Contribute.html "Go to our Donation Page")   
 or View Ads to help us  
 Keep the Free Jukebox OnLine
 
