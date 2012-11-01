@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmagnates.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501080219id_/http%3A//www.webmagnates.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmagnates.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101234100id_/http%3A//webmagnates.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,5 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
 
 **8\. Contact Information.**  
 If you have any questions about this Policy or our web site, please feel free to contact us.
-
-Last Updated ( Tuesday, 05 April 2011 08:41 )   
 
 Visiting WebMagnates.Org for the first time? Sure you will find a lot of ways to make money online here. Don't forget to subscribe to our news feed. 
