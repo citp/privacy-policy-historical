@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520181101id_/http%3A//www.payzone.ie/pages/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101061209id_/http%3A//www.payzone.ie/pages/about-us/privacy-policy.php) for the most accurate reproduction.*
 
 # Payzone IE - Privacy Policy
 
