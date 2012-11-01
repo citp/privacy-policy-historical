@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlehearty.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021839id_/http%3A//www.articlehearty.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlehearty.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101235619id_/http%3A//www.articlehearty.com/p/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free Article Directory
 
