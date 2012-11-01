@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.ph privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130063128id_/http%3A//www.expedia.com.ph/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.ph privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101034547id_/http%3A//www.expedia.com.ph/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia, Inc. Privacy Pledge
 
@@ -54,7 +54,7 @@ We may share your information with the following entities:
 
                      Referring websites. If you were referred to this site from another website, we may share some information about you with that referring website so that they can contact you directly by email or post about their products and services. We have not placed limitations on the referring websites’ use of your personal information and we encourage you to review the privacy policies of any website that referred you to this site. 
 
-Companies within our corporate family. We may share your personal information with our corporate affiliates in the leisure and travel sector, including Hotels.com; L.P.; TripAdvisor LLC; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both leisure- and travel-related, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy.  We also may share your information: 
+Companies within our corporate family. We may share your personal information with our corporate affiliates in the leisure and travel sector, including Hotels.com; L.P.; Hotwire, Inc; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both leisure- and travel-related, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy.  We also may share your information: 
 
                      Where required by law in the good faith belief that disclosure is necessary to comply with applicable laws or legal processes. For example, under US law, airlines are required to provide the US Department of Homeland Security with certain information about passengers flying to, from or over the US. 
 
@@ -114,6 +114,6 @@ If any part of this website links you to other websites, those websites do not o
 We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website. 
 
   
-This Privacy Policy is effective as of July 25, 2011. 
+This Privacy Policy is effective as of July 06, 2012. 
 
 Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA 
