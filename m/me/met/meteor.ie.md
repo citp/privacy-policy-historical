@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531033702id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101085822id_/http%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
-Meteor Mobile Communications Limited in examination (under the Companies (Amendment) Act, 1990) (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.
+Meteor Mobile Communications Limited (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.
 
 This policy applies to all personal data ("Data") in our possession. Personal Data is any information concerning a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in or is likely to come into the possession of a data controller. Personal Data covered under this policy includes the following: call traffic details, service usage data and customer details.
 
@@ -90,7 +90,7 @@ A cookie is a small unique text file that is saved on your hard desk by a web si
 
 ## Access to your Information
 
-You have a right to copies of your personal data kept by us and to have any inaccuracies corrected. Requests should be in writing and should be addressed to Customer Care, Kingswood Avenue, City West business Park, Dublin 24. We may charge an administrative fee as determined by the Data Protection Commissioner.
+You have a right to copies of your personal data kept by us and to have any inaccuracies corrected. Requests should be in writing and should be addressed to Data Protection Officer, Meteor Mobile Communications Ltd, 1 Heuston South Quarter, St. John's Road, Dublin 8. We may charge an administrative fee as determined by the Data Protection Commissioner.
 
 ## Information Security
 
@@ -98,15 +98,15 @@ Meteor is constantly reviewing and enhancing its technical, physical and manager
 
 ## General
 
-If we change this notice we will post the amended version on our website so you always know how we will collect, use and disclose your information. See [www.meteor.ie](http://www.meteor.ie/)
+If we change this notice we will post the amended version on our website so you always know how we will collect, use and disclose your information. See <http://www.meteor.ie/>
 
 If you have any questions about Meteors data protection policy or the way in which your data is processed, please write to:
 
 Data Protection Officer,   
 Meteor Mobile Communications Limited,   
-4030 Kingswood Avenue,   
-Citywest Business Park,   
-Dublin 24
+1 Heuston South Quarter,   
+St. John's Road,   
+Dublin 8
 
 or send an email to [dataprotection@meteor.ie](mailto:dataprotection@meteor.ie)
 
