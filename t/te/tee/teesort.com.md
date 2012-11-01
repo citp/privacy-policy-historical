@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teesort.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121111734id_/http%3A//www.teesort.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teesort.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101105649id_/http%3A//www.teesort.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,12 +55,14 @@ Interest-based advertising will allow advertisers to show ads based on a user's 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@teesort.com](mailto:info@teesort.com)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@teesort.com](mailto:info@teesort.com)
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Delhi's Cyber Law. A small fee will be payable. If you would like a copy of the information held on you please write to **Address**.
+You may request details of personal information which we hold about you under the Delhi's Cyber Law. A small fee will be payable. If you would like a copy of the information held on you please write to  **Address**.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+Copyright © 2012 - Teesort.Com - All rights reserved.
