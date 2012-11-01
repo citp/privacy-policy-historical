@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626055422id_/http%3A//www.cisionwire.com/Footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101231227id_/http%3A//www.cisionwire.com/Footer/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Cision Wire
 
@@ -10,7 +10,7 @@ Cision
 332 South Michigan Avenue  
 Chicago, Il 60604  
 Phone: 312.922.2400  
-Email: [ ](mailto:%CNEE%--decode--aW5mby51c0BjaXNpb24uY29t%CNEE%)
+Email: [info.us@cision.com](mailto:info.us@cision.com)
 
 ## Cookies
 
@@ -34,7 +34,7 @@ Compiling this information helps us to better understand site usage patterns, an
 
 The information we collect is not shared with email advertisers or other parties. Only Cision employees who need access to the information in order to do their jobs have access to it. These employees are fully committed to our privacy and security policies. 
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact our Client Services department at 800.621.0561. You can also email us at [ ](mailto:%CNEE%--decode--c3VwcG9ydC51c0BjaXNpb24uY29t%CNEE%). If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
+If you believe we are not handling your information in accordance with our privacy policy, please contact our Client Services department at 800.621.0561. You can also email us at [support.us@cision.com](mailto:support.us@cision.com). If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
 
 ##  Safe Harbor Privacy Policy for Cision US, Inc. 
 
