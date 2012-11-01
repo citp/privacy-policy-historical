@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505024032id_/https%3A//www.firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101094416id_/https%3A//firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
 
 # First Community Credit Union - Privacy Policy
 
