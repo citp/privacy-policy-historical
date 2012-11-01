@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509201828id_/http%3A//www.dailytelegraph.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101053252id_/http%3A//www.dailytelegraph.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | How the Daily Telegraph is keeping your details private and secure | thetelegraph.com.au
 
 ### STATEMENT REGARDING PRIVACY POLICY
 
-Nationwide News (News), News Digital Media (News) and all News Limited companies (News) recognises the importance of protecting the privacy of personally identifiable information collected about our customers.  For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+ Nationwide News (News), News Digital Media (News) and all News Limited companies (News) recognises the importance of protecting the privacy of personally identifiable information collected about our customers.  For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information.  Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
@@ -14,22 +14,21 @@ We collect personal information when we provide our services to you.  Generally
 
 **Use of Information**
 
-We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details.  When you are online, we collect information regarding the pages within our network which you visit and what you click on.  As a general rule we do not collect sensitive information.  However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it.
+We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details.  When you are online, we collect information regarding the pages within our network which you visit and what you click on.  As a general rule we do not collect sensitive information.  However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it.  
 
 We use your information to provide our services (which on digital platforms may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes.  Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
 
-We may share your information with other companies which are related to News Limited within Australia.  We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
+We may share your information with other companies which are related to News Limited within or outside of Australia.  We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
 
 We may disclose your personal information in order to comply with Australian or foreign law.
 
-**Use by Third Parties**
+  **Use by Third Parties**
 
-News may disclose your information to its service providers (including technical infrastructure providers) and contractors (including mail houses or debt collection agencies) from time to time but only to help us to provide and market our goods and services to you.  We may also share your information with third parties who provide prizes for competitions or reader offers.  If we do any of these, we generally require the third parties to protect your information at least to the same degree that we do.
+News may disclose your information to its service providers (including technical infrastructure providers) and contractors (including mail houses or debt collection agencies) from time to time but only to help us to provide and market our goods and services to you.  We may also share your information with third parties who provide prizes for competitions or reader offers.  If we do any of these, we generally require the third parties to protect your information at least to the same degree that we do.  
 
 If you have consented to us doing so, News may also share your information with a third party for the purpose of enabling those third parties to contact you with marketing messages.
 
-**Use of Aggregate Data**  
-
+**Use of Aggregate Data**
 
 We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which on digital platforms may include the display of personalised content and advertising) including our Web pages for your computer.  We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
 
@@ -43,11 +42,11 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be to
 
 #### Access to Personal Information
 
-You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.  
 
 To request access, please contact our privacy officer as set out at the end of this document.
 
-  
+   
 **Public Information**
 
 Any information posted on bulletin boards and/or communicated in chat areas becomes public information.  While News strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board.
@@ -58,7 +57,7 @@ Cookies are data that a Web site transfers to an individual's hard drive for rec
 
 #### Online Links to Third Party and Co-Branded Sites
 
-News may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners.  Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf.  These sites may collect personal information from you that may be shared with us.  This Privacy Statement will apply to any personal information we obtain in this manner.
+News may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners.  Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf.  These sites may collect personal information from you that may be shared with us.  This Privacy Statement will apply to any personal information we obtain in this manner. 
 
 News is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites.  These links are meant for the user's convenience only.  Links to third party sites do not constitute sponsorship, endorsement or approval by News of the content, policies or practices of those third party sites.  Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
 
