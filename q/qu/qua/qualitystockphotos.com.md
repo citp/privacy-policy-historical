@@ -1,100 +1,99 @@
-> *The following text is extracted and transformed from the qualitystockphotos.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitystockphotos.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101084931id_/http%3A//www.qualitystockphotos.com/policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Kozzi | TERMS OF USE
 
-**Go Daddy Respects Your Privacy**
+Effective Date: 08/15/2011  
+This privacy statement describes how Kozzi Inc. (“Kozzi”) collects and uses the personal information you provide on our Web site: [www.qualitystockphotos.com](http://www.qualitystockphotos.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
+We will share your personal information with third parties only in the ways that are described in this privacy statement.  We do not sell your personal information to third parties.     
+Kozzi Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@qualitystockphotos.com](mailto:privacy@qualitystockphotos.com)
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We collect the following personal information from you
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * Contact Information such as name, email address and Unique Identifiers such as user name and password
+  * Preferences Information such as product marketing preferences.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Uses of Information**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  
+Kozzi Inc. is committed to protecting your privacy. The information collected by Kozzi Inc. is solely used to manage and maintain our website in order to create a more satisfactory experience for our users.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Use of your personal information is collected by Kozzi Inc. to:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * create and manage your account;
+  * provide customer service;
+  * perform research and analysis aimed at improving our products, services and technologies;
+  * to display content that is designed for your interests and preferences;
+  * to run contests, select entrants, and choose prize winners;
+  * to run our interactive areas;
+  * to keep you up to date on the companies activities through communications such as bi-weekly newsletters, information about new products and services being introduced to the website.  
+_Please keep in mind if you exempt yourself from such marketing communications you will continue to receive bi-weekly newsletters and product and service updates. If you wish to no longer receive newsletters or marketing communications you may follow the unsubscribe instructions contained in the emails you receive_.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  
+Personal information collected by Kozzi Inc. may be stored and processed in Canada or any other country in which Kozzi Inc. or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (which includes your right to have personal information deleted from our databases), please contact [privacy@qualitystockphotos.com](mailto:privacy@qualitystockphotos.com).
 
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+When you visit this site, certain types of non-personal information, such as the website that referred you to us, your IP address, browser type and language used, and access times, can be automatically collected as part of the site’s ability to shift to consumer needs and activity.   
+ 
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. Kozzi stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-**What Happens to my Personal Information if I Opt Out?**
+Your friend may contact us at [privacy@qualitystockphotos.com](mailto:privacy@qualitystockphotos.com) to request that we remove this information from our database.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**Legal Disclaimer  
+**We may disclose your personal information
 
-**Transfer of Data Abroad**
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * to any other third party with your prior consent to do so.
+  * if Kozzi is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  
+**Access to Personal Information  
+**If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@qualitystockphotos.com](mailto:support@qualitystockphotos.com)
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Contacting Our Site**
+**Security  
+**The security of your personal information is important to us.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@qualitystockphotos.com](mailto:support@qualitystockphotos.com).
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+**Tracking Technologies**
 
-* * *
+_Cookies_
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do/do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+Cookies offer users many conveniences when browsing our website. We use both session ID cookies and/or persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+
+Persistent cookies are used to retain certain personal preferences that users may have. For example the background colour of the website can be changed, thus whatever colour the user chooses, this setting will be saved for the next visit. We also set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+
+The use of cookies by our service providers is not covered by our privacy statement.  We do not have access or control over these cookies. 
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
+
+_Log Files_
+
+As is true of most Web sites, we use a third party tracking-utility partner to gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+
+**Links to Other Web Sites   **  
+Our Site includes links to other web sites whose privacy practices may differ from those of Kozzi. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any web site you visit.
+
+**Notification of Privacy Statement Changes**  
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**Children  
+**Kozzi Inc. is a family friendly website, thus children are generally welcome to browse our website without parental consent. We cannot fully guarantee a child or parent will not be offended by our content but the content we upload is vetted. If you need any more information please contact [info@qualitystockphotos.com](mailto:info@qualitystockphotos.com)
+
+**Contact Us  
+**If you have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@kozzicom](mailto:privacy@kozzicom) or via postal mail at:  
+400 Matheson Blvd. East,   
+Mississagua, Ontario, Canada   
+L4Z 1P1
