@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513212654id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101122105id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandor
 
-Revised February 22, 2011
+Oh wow, you're actually reading this? Wait a sec, let me turn on stuffy lawyer mode. Here goes:
 
-This Privacy Policy (“Policy”) explains how Our Film Festival, Inc. (“Fandor”) collects, uses, and discloses personal information in connection with Fandor’s social movie streaming service, including our software and streaming applications, our social discovery and sharing tools, and our collection of content, accessed via the Fandor site located at www.fandor.com, via Fandor applications on devices such as iPad, Roku, or Boxee, or via third-party sites such as Facebook (collectively, the “Service”). We provide this information so you can make an informed decision about using the Service and the audiovisual materials made available via the Service.
+Revised August 6, 2012
+
+This Privacy Policy (“Policy”) explains how Our Film Festival, Inc. (“Fandor”) collects, uses, and discloses personal information in connection with Fandor’s social movie streaming service, including our software and streaming applications, our social discovery and sharing tools, and our collection of content, accessed via the Fandor site located at www.fandor.com, via Fandor applications on devices such as iPad or Roku, or via third-party sites such as Facebook (collectively, the “Service”). We provide this information so you can make an informed decision about using the Service and the audiovisual materials made available via the Service.
 
 We reserve the right to change this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
@@ -19,8 +21,6 @@ Active Collection. We collect certain information you voluntarily provide to us,
 Passive Collection. When you use the Service, some information may also be automatically collected, such as your Internet Protocol (IP) address, your operating system, browser type, the address of a referring Web site, and your activity on the Service. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
 We may also automatically collect certain information through the use of “cookies” or web beacons. Cookies are small data files stored on your hard drive at the request of a Web site. Web beacons are small, invisible graphic images that may be used on the site or in emails relating to the Service to collect certain information and monitor user activity. We use these tools to help us improve the Service and your experience. If we link cookies or beacon data to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, choosing to remove or reject cookies could affect or disable certain features of the Service. 
-
-To learn more about our use of Yahoo Analytics, visit: [Yahoo Analytics](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
 
 You may encounter ads served by third parties in your use of the Service. These third parties may use cookies, web beacons, or other means to collect non-personal information, and may use information collected to, among other things, analyze data, determine the popularity of certain content, deliver advertising targeted to your interests, and better understand the usage and visitation of the Service and the other Web sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or web beacons located in third-party ads. We encourage you to check the privacy policies of advertisers or ad services to learn about their use of cookies and other technology.
 
