@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509211037id_/http%3A//www.tor.com/page/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101121911id_/http%3A//www.tor.com/page/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Tor.com
 
@@ -51,7 +51,7 @@ We at Holtzbrinck Publishers, LLC, doing business as Macmillan, (“we” or “
 >  You may sign up to receive our music downloads, video downloads and/or other information, functionality or content contained on or received through www.Tor.com in addition to information about specific www.Tor.com promotional programs. In order to fulfill your requests, we may ask you for your personal information, such as name and email address. In order for you to obtain certain other content we may ask you to register on the Site and create a user name and password, as well as potentially, a security question, which may consist of personal information.
 > 
 > **Ordering Our Products**  
->  When you order from us, we collect your name, billing address, shipping address, email address, phone number, and credit card number. We also gather information on the person who will receive any gift you send (e.g., that person's name and address) and we will retain a record of your purchases.
+>  When you order from us, we collect your name, billing address, shipping address, email address, phone number, and credit card number. We also gather information on the person who will receive any gift you send (e.g., that person’s name and address) and we will retain a record of your purchases.
 > 
 > **Surveys and Questionnaires**  
 >  We may ask you to complete online surveys and opinion polls on a variety of topics, including activities, attitudes, and interests as they relate to our products and services. When you complete a survey we or our service provider usually collect your name, zip code, and email address. We also may ask you for additional information, such as your age, interests, or product preferences.
@@ -67,27 +67,29 @@ We at Holtzbrinck Publishers, LLC, doing business as Macmillan, (“we” or “
 > 
 > Please treat the www.Tor.com community with respect. Do not post profane, obscene, inflammatory or spiteful comments, or messages that abuse, denigrate or threaten others. We remind you that if you post your phone number, email address, or other personal contact information, it will become and remain publicly available.
 > 
-> Please keep in mind: A discussion board post is not an effective way to tell us you need help with an order or site feature. If you'd like to tell us about a specific problem, please email us.
+> Please keep in mind: A discussion board post is not an effective way to tell us you need help with an order or site feature. If you’d like to tell us about a specific problem, please email us.
 > 
 > **Tell a Friend**  
 >  We may offer “Tell a Friend” functionality on this Site to send your friends information from www.Tor.com and its partners. In order to fulfill this request, we will ask you for your and your friends’ names and email addresses. We do not retain your friend’s information after the email is sent.
 > 
 >   
->  ******“Contact Us”**  
+>  **“Contact Us”**  
 >  You may choose to contact us through our Site. If you email us comments or questions, we will have your email address, as well as any other information you choose to provide.
 > 
 > **Passive Collection of Information**  
 >  When you visit our website, your browser automatically sends us certain Internet-related information, such as the Internet Protocol (IP) address of the computer you’re using and your originating domain. We also collect certain information about our website visitors, such as how many users visited our site, the average time spent on the site, the pages viewed, and referring websites. By collecting this information, we learn how to best tailor our website to our visitors. While we generally examine such information only in the aggregate, such information could be linked back to individual IP addresses. This site is located in the United States and is operated in accordance with United States Law. In the United States, IP address is not considered personally identifiable information.
 > 
-> This Site’s HTML-formatted web pages may include electronic image requests (called a "single-pixel gif", “clear-gifs” or "web beacon" request) which are sent to our service providers’ servers. These web beacons are the technique by which our service providers compile anonymous information about your browsing activity on the Site.
+> This Site’s HTML-formatted web pages may include electronic image requests (called a “single-pixel gif”, “clear-gifs” or “web beacon” request) which are sent to our service providers’ servers. These web beacons are the technique by which our service providers compile anonymous information about your browsing activity on the Site.
 > 
-> We use cookies on this website. A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer's browser. It holds information a site may need to interact with you and personalize your experience. At www.Tor.com, we use two kinds of cookies: session cookies and persistent cookies.
+> We use cookies on this website. A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer’s browser. It holds information a site may need to interact with you and personalize your experience. At www.Tor.com, we use two kinds of cookies: session cookies and persistent cookies.
 > 
 > Session cookies exist only for as long as your browser remains open. Once you exit your browser, they go away. Persistent cookies, in contrast, last from visit to visit; they do not go away when you exit your browser.
 > 
-> We use cookies to administer certain functions, and to help you navigate the website more efficiently. For example, we use session cookies to maintain information we need to have in order for you to shop at www.Tor.com. Without the session ID cookie, you can't add merchandise to your bag and carry it to Checkout.
+> We use cookies to administer certain functions, and to help you navigate the website more efficiently. For example, we use session cookies to maintain information we need to have in order for you to shop at www.Tor.com. Without the session ID cookie, you can’t add merchandise to your bag and carry it to Checkout.
 > 
-> You can use our site without accepting cookies. The "help" portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, if you disable all cookies, you may not be able to take advantage of all features of this website.
+> We may also place a cookie on your computer to permit our ad serving companies to identify you as someone who is interested in our site, or services or products, when you visit third-party sites. This enables the ad serving company to deliever our advertising to you on these sites.
+> 
+> You can use our site without accepting cookies. The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, if you disable all cookies, you may not be able to take advantage of all features of this website.
 > 
 > Collection of site usage information on our site is performed on our behalf by a third party service provider. In addition to cookies, the service provider may use web beacons to notify the service provider of web page access by visitors. Our third party service provider may retain such usage information for its own internal purposes.
 > 
@@ -106,7 +108,7 @@ We may share the information you provide with companies that are related to Macm
 
 In addition, we may share information about you with non-affiliated third parties whose products or services may be of interest to you. These third parties may contact you about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities with selected third parties and may share personal information about our website visitors with them.
 
-We also share information provided by our website visitors with service providers we have retained to perform services on our behalf. For example: when you make a purchase, we may share information about you and your transaction with other companies for the purpose of processing your transaction, and we may retain outside companies to manage databases of customer information and to distribute email offerings.   
+We also share information provided by our website visitors with service providers we have retained to perform services on our behalf. For example: when you make a purchase, we may share information about you and your transaction with other companies for the purpose of processing your transaction, and we may retain outside companies to manage databases of customer information and to distribute email offerings.  
 We also may transfer and disclose personal information in accordance with the terms and conditions of any sweepstakes and contests and any publicity release you may sign in accordance with that sweepstakes or contest. Any information you provide in a user-generated content context may be publicly disclosed and shared accordingly.
 
 In addition, we may disclose information about you to others (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual fraud or illegal activity.
@@ -119,8 +121,8 @@ We provide links to other Web sites for your convenience and information, includ
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads and provide other services on our Web pages. As a result of your visit to our site, these ad servers and other entities may collect information such as your domain type, your IP address and click-stream information. We are not responsible for the data collection practices of any sites linked to www.Tor.com nor does our linking to third party websites or other services constitute sponsorship or endorsement of the content or business practices on these sites. By use of this Site, you agree that use of the hyperlinks to third party sites will be at your own risk.
 
 **_Children’s Privacy_**  
-We do not knowingly collect information from children under 13. We use technical measures to prevent collection of information from children under 13.   
-If our policy concerning collection of information from children under 13 changes, we will revise this portion of the www.Tor.com privacy notice and will comply with the requirements of the Children's Online Privacy Protection Act.
+We do not knowingly collect information from children under 13. We use technical measures to prevent collection of information from children under 13.  
+If our policy concerning collection of information from children under 13 changes, we will revise this portion of the www.Tor.com privacy notice and will comply with the requirements of the Children’s Online Privacy Protection Act.
 
 **_Security_** __  
 www.Tor.com is committed to protecting the security of information collected on our site. We use technical, physical and administrative methods to safeguard and secure the information we collect on line. When you submit information for a credit card transaction through our purchase pages, we use Secure Sockets Layer (SSL) software to encrypt credit card information during transmission (however, we do not use a secure connection for other types of activities).
@@ -136,19 +138,19 @@ We also give you the option of requesting that we not share your information wit
 
 Please be aware that we are able to effectuate an opt-out only for a specific email address. So, if you have more than one email address or if you have changed your email address, your opt-out request may not be effectuated properly. If you believe you have opted out, but continue to receive emails from us, please contact us by one of the means listed under “How to Contact Us”, below, and we will endeavor to resolve the issue.
 
-You can "opt-out" of receiving newsletters, advertising and promotional email from us by following the opt-out instructions in our email messages. To ensure that your opt-out request is honored, you must use the designated method in the email message to notify us of your opt-out request, as we cannot guarantee that other methods of notification will be effective or timely.
+You can “opt-out” of receiving newsletters, advertising and promotional email from us by following the opt-out instructions in our email messages. To ensure that your opt-out request is honored, you must use the designated method in the email message to notify us of your opt-out request, as we cannot guarantee that other methods of notification will be effective or timely.
 
-Please note that even if you choose to opt-out of receiving [www.tor.com](http://www.tor.com/) or Macmillan's marketing, we will continue to send you important service related communications, including follow-up messages regarding sweepstakes or contests you have entered or other transactions you have undertaken (e.g., order confirmation).
+Please note that even if you choose to opt-out of receiving [www.tor.com](http://www.tor.com/) or Macmillan’s marketing, we will continue to send you important service related communications, including follow-up messages regarding sweepstakes or contests you have entered or other transactions you have undertaken (e.g., order confirmation).
 
 If you cannot determine how to opt-out of a particular program, please contact us as specified in the “Contact Us’ section below.
 
-**www.Tor.com Accounts**   
-If you would like to review the Personal Information that we have collected from you online in connection with your purchases from www.Tor.com, log back into your user account. Click on "My Account" to review or make changes to your purchase information at any time. If you are not signed in, you will be prompted to do so. If you do not remember your password, click on the "Forgot your password" link, provide your email address and we will send you your password via emailmail.
+**www.Tor.com Accounts**  
+If you would like to review the Personal Information that we have collected from you online in connection with your purchases from www.Tor.com, log back into your user account. Click on “My Account” to review or make changes to your purchase information at any time. If you are not signed in, you will be prompted to do so. If you do not remember your password, click on the “Forgot your password” link, provide your email address and we will send you your password via emailmail.
 
 **_Updates to this Privacy Notice_** __  
 By using the Site and any related interactive services you signify your agreement to this Privacy Notice. This Privacy Notice may change from time to time. Changes to this Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the services and the Site subsequent to any changes to this Privacy Notice constitutes your acceptance of the changes. Please review this Notice periodically to ensure continuing familiarity with its most current provisions. We indicate above the effective date of the Notice.
 
-**_How to Contact Us and Update Information_**   
+**_How to Contact Us and Update Information_**  
 If you would like to update or correct your personal information, please send an email to [questions@tor.com](mailto:questions@tor.com).
 
 If you have any questions about our information practices or our products, services or promotions, please contact us by:
@@ -161,5 +163,5 @@ If you have any questions about our information practices or our products, servi
 Macmillan  
 Internet Marketing Department  
 175 Fifth Avenue  
-New York, NY 10010   
+New York, NY 10010  
 Attention: Internet Marketing Coordinator
