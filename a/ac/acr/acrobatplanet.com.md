@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acrobatplanet.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215300id_/http%3A//www.acrobatplanet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acrobatplanet.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101022249id_/http%3A//www.acrobatplanet.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Free PDF Ebooks Files @AcrobatPlanet.Com
+# Privacy Policy | Acrobat Planet
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.acrobatplanet.com/contact)
 
