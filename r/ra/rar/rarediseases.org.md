@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509170252id_/http%3A//www.rarediseases.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101065015id_/http%3A//www.rarediseases.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — National Organization for Rare Disorders
 
-The National Organization for Rare Disorders has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: National Organization for Rare Disorders (NORD), [http://www.rarediseases.org](http://www.rarediseases.org/front-page)
+The National Organization for Rare Disorders has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: National Organization for Rare Disorders (NORD), [http://www.rarediseases.org](https://rarediseases.org/front-page)
 
 #### Cookies
 
@@ -42,4 +42,4 @@ NORD offers a periodic e-mail service to those who are interested in hearing abo
 
 #### Contacting NORD
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may [contact us here](http://www.rarediseases.org/about/contact-us).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may [contact us here](https://rarediseases.org/about/contact-us).
