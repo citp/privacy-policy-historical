@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628043127id_/http%3A//www.esnips.com/index.php%3Ffile%3Dminicms/cms%26id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101140056id_/http%3A//www.esnips.com/index.php%3Ffile%3Dminicms/cms%26id%3D8) for the most accurate reproduction.*
 
 # Privacy policy - eSnips
 
