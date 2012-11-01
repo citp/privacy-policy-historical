@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payplay.fm privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516200401id_/http%3A//payplay.fm/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payplay.fm privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101230852id_/http%3A//payplay.fm/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
