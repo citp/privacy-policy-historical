@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grammarbook.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505044824id_/http%3A//www.grammarbook.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarbook.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101052658id_/http%3A//grammarbook.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Modified: March 5, 2009 
+Last Modified: June 14, 2012 
 
 Thank you for visiting [GrammarBook.com](http://grammarbook.com/). We are committed to respecting your privacy and security as a visitor to this website (the “Site”). This Privacy Policy is intended to help you understand the policies of the Site related to online privacy and customer security. 
 
@@ -39,6 +39,8 @@ This information is used for internal purposes only. The statistics generated b
 **Information Collected By Third Party Advertisers**
 
 We use a third-party, Google, to serve ads when you visit the Site. Google may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, _[click here](http://www.google.com/privacy_cookies.html)_.
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can _[click here](http://valueclickmedia.com/member_privacy.shtml)_.
 
 **_Protection of Information_**
 
