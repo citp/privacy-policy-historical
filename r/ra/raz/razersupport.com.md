@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the razersupport.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626161242id_/http%3A//www.razerzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razersupport.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101190113id_/http%3A//www.razerzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Razer™ | For Gamers. By Gamers.™
-
-Effective May 21, 2012
-
-### Overview of Razer’s Privacy Policy
+# Razer Privacy Policy | Razer™
 
 Razer USA Ltd. (“ **Razer** ”, “ **our** ”, “ **us** ” or “ **we** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal and other information that we receive or obtain from visitors to [http://www.razerzone.com](http://www.razerzone.com/) and other website domains that are managed by us or our affiliates (the “ **Site** ”), and from customers and other users of the services and offerings of Razer or its affiliates (the “ **Services** ”).
 
