@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630115051id_/http%3A//www.promopeddler.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102002443id_/http%3A//www.promopeddler.com/company/privacy) for the most accurate reproduction.*
 
-# Promopeddler.com
+# Privacy Policy | Promopeddler.com
 
 ## Privacy Notice
 
@@ -29,6 +29,6 @@ Your business is important to us. We will not do anything to jeopardize the trus
 Sincerely,  
 
 
-### Don McBride  
-General Manager  
+### Michelle Yulo  
+Sales Manager  
 Promopeddler.com
