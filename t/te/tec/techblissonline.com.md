@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223941id_/http%3A//techblissonline.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101221625id_/http%3A//techblissonline.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Techblissonline
 
@@ -10,7 +10,7 @@ We have a strict no spam policy and do not send you any emails, unless you subsc
 
 ## Credit card and Financial details
 
-Techblissonline will never ask for Credit Card details and request you **_NOT_** to share it through any of the forms on Techblissonline.
+Techblissonline will never ask for Credit Card details and request you _NOT_ to share it through any of the forms on Techblissonline.
 
 ## External Sites
 
@@ -20,7 +20,7 @@ Techblissonline is not responsible for the content of external sites linked from
 
 A "cookie" is a small data text file that is placed in your browser and allows Techblissonline to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Techblissonline does not use cookies to collect personal information. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences. 
 
-We allow **third-party advertising companies** (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We allow third-party advertising companies (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
