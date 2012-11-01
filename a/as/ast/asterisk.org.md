@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the asterisk.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510163819id_/http%3A//www.asterisk.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asterisk.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101222137id_/http%3A//www.asterisk.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Asterisk
+# Privacy | Asterisk.org
 
 Digium respects your right to privacy. Please read below to understand more about our privacy policy.
 
 By using our web site, you consent to the collection and use of information by Digium. If our privacy policy changes, we will update this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+## Information Collection
 
 A Website is capable of collecting certain information about persons who access a Website or attempt to use its functions. Digium's primary goal in collecting personal and business information is to provide a customized experience on our network of sites. This includes personalization services, interactive communications, business transaction information, and other types of services. Digium is the sole owner of all information collected by the Websites. To the extent that Digium provides access to this information to others, the parameters for such disclosure are set forth herein.
 
@@ -15,6 +17,8 @@ The personal information we collect as part of any entry/registration process al
 Some of our web pages use "cookies" or other information collection devices so that we can better serve you with more tailored information when you return to our Website. Cookies are identifiers which a website sends to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, so that you can choose to decline or accept it.
 
 We may use IP addresses and web server log files to analyze trends, administer a Website, track a user's movement, and gather broad demographic information for aggregate use. Additionally, in areas of a Website requiring registration, we may use this information from time to time to police a Website for unregistered users (but we undertake no obligation to do so). Information of this type may be combined with cookies or other sources of information for these purposes. Specifically, through the use of web server log files, any or all of the following information may be accessed, collected, analyzed, and stored during or after your visits to the Website: the name of the domain name from which you access the Internet; the country from which you access the Website; the date and time you access the Website; the pages you visit on the Website and the sequence in which you visit them; the amount of time you spent on a particular Website page; the Internet address of a website that you visit immediately before or after visiting our Website; the Internet address from which you liked directly to our Website, if any; the type of operating system on your computer; the type of browser that you are using to view a Website. These and similar types of information may also be collected by "web-bugs" or single-pixel gifs and by other means.
+
+## Information Use and Disclosure
 
 Digium may use the information obtainable from a Website for editorial and feedback and legal purposes and for other purposes.
 
@@ -30,11 +34,13 @@ Digium may use the information collected to analyze trends, administer Websites,
 
 Digium may share and disclose aggregated user statistics and demographic information in order to describe our services to prospective and existing partners, advertisers, or other third parties, and for other lawful purposes. This information is not linked to any personal information that can identify any individual person. Under confidentiality agreements, Digium may match user information with third-party data. Digium may disclose your personal information to business partners unless you directly inform us that you prefer we not do so.
 
+## Links to Third Party Sites
+
 The Website may contain links to third party sites. Access to any other Internet site linked to the Website is at the user's own risk and Digium is not responsible for the accuracy or reliability of any information, data, opinions, advice, statements, terms of use or privacy practices of such other sites unless it is also a Website owned or controlled by Digium. Digium provides these links merely as a convenience and the inclusion of such links does not imply an endorsement of the site or their entities, products or services. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every site that collects personally identifiable information. This Privacy Policy applies solely to information collected by a Website on the domains owned and controlled by Digium.
 
-Digium's Websites take precautions to protect our users' information. We use standard industry mechanisms to protect customer data from unauthorized access, for example, by using password protection and standard encryption methods. Transactions, access to transactional records, or access to account information occurs over a server that has safeguards such as secure server software (SSL) which encrypts information before transmission. You can confirm that pages are encrypted, and we urge you to do so before submitting or transmitting sensitive information, by viewing the lock icon on the bottom of most browsers. We also take measures off-line to protect your information that 
+## Security
 
-is known to Digium to be financial and business sensitive information to the same extent that we take measures to protect our own such information.
+Digium's Websites take precautions to protect our users' information. We use standard industry mechanisms to protect customer data from unauthorized access, for example, by using password protection and standard encryption methods. Transactions, access to transactional records, or access to account information occurs over a server that has safeguards such as secure server software (SSL) which encrypts information before transmission. You can confirm that pages are encrypted, and we urge you to do so before submitting or transmitting sensitive information, by viewing the lock icon on the bottom of most browsers. We also take measures off-line to protect your information that is known to Digium to be financial and business sensitive information to the same extent that we take measures to protect our own such information.
 
 You may edit your account information and account profile at any time using your email address and password. Do not divulge your password to anyone. Digium will never ask you for your password in an unsolicited telephone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your work. This may help to protect against access by others to your personal and business information if you share a computer or are using a computer in a public place.
 
