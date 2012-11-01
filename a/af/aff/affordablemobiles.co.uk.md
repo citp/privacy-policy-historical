@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509141937id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101230853id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Affordable Mobiles Privacy Policy
 
-|  | 
+| 
+
+[ ](http://www.facebook.com/affordablemobiles.co.uk "Affordable Mobiles has a fan page on Facebook.")
+
+[ ](http://twitter.com/share?url=www.affordablemobiles.co.uk "Follow Affordable Mobiles on our Twitter account.")
+
+| 
 
 |   
 ---  
@@ -13,7 +19,7 @@ Affordable Mobiles know that you care about how the information you provide us i
 By visiting www.affordablemobiles.co.uk you are accepting and consenting to the practices described in this Privacy Notice.  
 
 
-All information provided to or gathered by affordablemobiles.co.uk is controlled primarily by Affordable Mobiles, Logistics House, Sopwith Way, Drayton Fields Industrial Estate, Daventry, Northamptonshire, NN11 8PB.  
+All information provided to or gathered by affordablemobiles.co.uk is controlled primarily by Affordable Mobiles, Magellan House, Lamport Drive, Heartlands Business Park, Daventry, NN11 8YH.  
 
 
 The information we learn from customers helps us to personalise and continually improve your shopping experience with us. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
@@ -32,18 +38,17 @@ We maintain physical, electronic and procedural safeguards in connection with th
 
 You can tell whether you have entered a secure location on our website by the small padlock which will appear at the bottom of the page on your browser.
 
-If any of the information that you provided changes, such as home addresses, names and e-mail addresses, then please contact us either by e-mail [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or write to our Privacy Manager, Affordable Mobiles, Logistics House, Sopwith Way, Drayton Fields Industrial Estate, Daventry, Northamptonshire, NN11 8PB.  
+If any of the information that you provided changes, such as home addresses, names and e-mail addresses, then please contact us either by e-mail [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or write to our Privacy Manager, Affordable Mobiles, Magellan House, Lamport Drive, Heartlands Business Park, Daventry, NN11 8YH.  
 
 
 If you choose to visit affordablemobiles.co.uk, your visit and any dispute over privacy is subject to this Privacy Notice and our [Terms & Conditions](https://web.archive.org/terms_and_conditions.html), including limitations on damages and application of the laws of England. If you have any concern about privacy, please e-mail a thorough description to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or send it to:
 
 Affordable Mobiles,   
-Logistics House,   
-Sopwith Way,   
-Drayton Fields Industrial Estate,   
-Daventry,   
-Northamptonshire,   
-NN11 8PB
+Magellan House  
+Lamport Drive  
+Heartlands Business Park  
+Daventry   
+NN11 8YH
 
 and we will try to resolve it.
 
@@ -51,9 +56,9 @@ Our business changes constantly and our Privacy Notice and the [Terms & Conditio
 
 If you have any comments regarding our website or our privacy policies, then please e-mail your views to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.com) or send a letter to our Privacy Manager, Affordable Mobiles, Logistics House, Sopwith Way, Drayton Fields Industrial Estate, Daventry, Northamptonshire, NN11 8PB.   
   
-[](https://web.archive.org/about/#/whychooseus)[](https://web.archive.org/about/#/freedelivery)[](https://web.archive.org/about/#/business20years)[](https://web.archive.org/about/#/awards)
+[](https://web.archive.org/about/#/whychooseus) [](https://web.archive.org/about/#/freedelivery) [](https://web.archive.org/about/#/awards)
 
-[](https://web.archive.org/samsung-galaxy-s3.html) [](https://web.archive.org/contract-mobile-phones/34272155.html)
+[](https://web.archive.org/iphone5.html) [](https://web.archive.org/samsung-galaxy-s3.html)
 
 ### Testimonials
 
