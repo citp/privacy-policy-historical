@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508175136id_/http%3A//www.barringtonsports.com/help/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101063036id_/http%3A//www.barringtonsports.com/help/privacy_notice) for the most accurate reproduction.*
 
 # Privacy Notice: Help Topics & FAQs | Barrington Sports
 
@@ -20,7 +20,7 @@ Barrington Sports knows that you care how information about you is used and shar
 
 #### Controllers of Personal Information
 
-Any personal information provided to or to be gathered by Barrington Sports is controlled primarily by Barrington Sports, the data controllers, at Unit 3, Wolfe Close, Parkgate Industrial Estate, Knutsford, Cheshire, WA16 8XJ, UK.
+Any personal information provided to or to be gathered by Barrington Sports is controlled primarily by Barrington Sports, the data controllers, at Northgame House, Haig Road, Parkgate Industrial Estate, Knutsford, Cheshire, WA16 8DX, UK.
 
 [Back to top](http://barringtonsports.com/help/privacy_notice/#pagetop)
 
