@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the veeble.org privacy policy that was archived on 2012-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616223109id_/http%3A//www.veeble.org/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veeble.org privacy policy that was archived on 2012-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101104431id_/http%3A//veeble.org/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Veeble :: Privacy Policy</title>
@@ -35,7 +35,7 @@
 
 
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="../../js/jquery-1.6.js"></script>
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="../../js/jquery-1.6.js"></script>
 
 <script type="text/javascript" src="../../js/script.js"></script>
 <!--[if lt IE 9]>
@@ -245,6 +245,38 @@ document.picture.src=image2.src
 document.picture.src=image1.src
 					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:180});
 				});
+
+
+
+$('.boxgrid1.caption1').hover(function(){
+document.picture1.src=image2.src
+					$(".cover", this).stop().animate({top:'-60px'},{queue:false,duration:100});
+				}, function() {
+document.picture1.src=image1.src
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:180});
+				});
+
+
+
+$('.boxgrid2.caption2').hover(function(){
+document.picture2.src=image2.src
+					$(".cover", this).stop().animate({top:'-60px'},{queue:false,duration:100});
+				}, function() {
+document.picture2.src=image1.src
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:180});
+				});
+
+
+
+
+$('.boxgrid3.caption3').hover(function(){
+document.picture3.src=image2.src
+					$(".cover", this).stop().animate({top:'-60px'},{queue:false,duration:100});
+				}, function() {
+document.picture3.src=image1.src
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:180});
+				});
+
 			});
 		</script>
 	
@@ -319,12 +351,34 @@ $('#example-fade10').tipsy({fade: true});
 $('#example-fade11').tipsy({fade: true});
 
 
+ $('#sw1').tipsy({html: true,fade: true, gravity: 'sw'});
+$('#sw2').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw3').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw4').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw5').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw6').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw7').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw8').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw9').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw10').tipsy({html: true,fade: true, gravity: 'sw'});
+$('#sw11').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw12').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw13').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw14').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw15').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw16').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw17').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw18').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw19').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw20').tipsy({html: true,fade: true, gravity: 'sw' });
+$('#sw21').tipsy({html: true,fade: true, gravity: 'sw' });
+
     
     $('#example-custom-attribute').tipsy({title: 'id'});
     $('#example-callback').tipsy({title: function() { return this.getAttribute('original-title').toUpperCase(); } });
     $('#example-fallback').tipsy({fallback: "Where's my tooltip yo'?" });
     
-    $('#example-html').tipsy({html: true });
+    $('#example-html').tipsy({html: true,fade: true, gravity: 'sw' });
     
   });
 </script>
@@ -353,11 +407,74 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=no,scrollbars=yes
   })();
 </script>
 
+<!-- Live chat code-->
+
+<script type="text/javascript">
+  var __lc = {};
+  __lc.license = 1498012;
+
+  (function() {
+    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+    lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+  })();
+</script>
+
+<!-- Live chat code end-->
+
+<!-- Superfish menu-->
+
+<link rel="stylesheet" type="text/css" href="../../css/superfish.css" media="screen">
+		
+		<script type="text/javascript" src="../../js/hoverIntent.js"></script>
+		<script type="text/javascript" src="../../js/superfish.js"></script>
+
+
+		<script>
+
+	$(document).ready(function() {
+		$('ul.sf-menu').superfish({
+			delay:       1000
+
+	});
+
+	});
+
+</script>
+
+<!-- Superfish menu end-->
+
+<!-- Jquery image change on hover-->
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $(".buynow").hover(
+        function() {$(this).attr("src","images/buy-nowh.png");},
+        function() {$(this).attr("src","images/buy-now.png");
+    });
+
+$(".lmore").hover(
+        function() {$(this).attr("src","images/lmoreh.png");},
+        function() {$(this).attr("src","images/lmore.png");
+    });
+
+$(".nwtest").hover(
+        function() {$(this).attr("src","images/nwtestbuttonh.png");},
+        function() {$(this).attr("src","images/nwtestbutton.png");
+    });
+
+});
+</script>
+
+<!-- Jquery image change on hover code end-->
+
+
 
 </head>
 <body id="page2">
 		
-
+<div id="freeow" class="freeow freeow-top-left"></div>
 	
 <div class="body1">
 	<div class="main">
@@ -388,14 +505,20 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=no,scrollbars=yes
           </form>
 </div>
 						<li><a href="http://control.veeble.org/login.php" class="noshadow">Control Panel</a></li>
+<li><a href="http://blog.veeble.org" class="noshadow" target="_blank">Blog</a></li>
+<li><a href="http://kb.veeble.org" class="noshadow" target="_blank">Knowledgebase</a></li>
+
+
 						<li class="end"><a href="../../support/" class="noshadow">Contact</a></li>
+
+					
 					</ul>
 
 
 
 				</nav>
 
-<div style="color: yellow; float: right; margin-right: -305px; padding-top: 5px;">
+<div style="color: yellow; float: right; margin-right: -455px; padding-top: 5px;">
 
 <img src="http://veeble.org/images/flags/US.gif" style=" width: 16px; height: 11px; padding-top: 5px; padding-left: 4px; float: right;"><!--
 <img src=images/flags/noflag.gif  style=' width: 16px; height: 11px; padding-top: 5px; padding-left: 4px; float: right;'>-->
@@ -424,7 +547,7 @@ Veeble
 <div style="color: #fff; float: right; margin-right: 10px; padding-top: 30px; text-align:right;">
 
 <span style="font-family: Verdana;">
-20666 people recommends us.</span>
+21417 people recommends us.</span>
 <div style="margin-right: -35px; padding-top: 5px;">
 
 
@@ -457,6 +580,8 @@ Veeble
 						<li><a href="../../virtual-servers/xen/">Xen Servers</a></li>
 <li><a href="../../virtual-servers/windows/">Windows Servers</a></li>
 						<li><a href="../../virtual-servers/kvm/">KVM Servers</a></li>
+	<li><a href="../../virtual-servers/managed/">Managed Servers</a></li>
+
 <li><a href="../../virtual-servers/resellers/">Reseller Program</a></li>
 					</ul>
 
@@ -483,9 +608,6 @@ Veeble
 			</div>
 </div>
 
-
-
-
 <!-- content -->
 <div class="cover">
 
@@ -493,29 +615,32 @@ Veeble
 		<article id="content">
 <div class="legalban">
 
+<ul class="sf-menu" style="margin-left: 380px;">
+			<li class="current">
+				<a href="../tos">Terms of Service</a>
+				
 
-<div style="padding-right: 20px; float:right; padding-top: 20px; height: 48px; " class="zeroshadow">
+					</li>
+					
+					
+			
+			<li>
+				<a href="../aup">Acceptable Use Policy</a>
+				
+			</li>
+
+<li>
+				<a href="../privacy">Privacy Policy</a>
+			</li>
+
+<li>
+				<a href="../sla">Service Level Agreement</a>
+			</li>
 
 
+		
+		</ul>
 
-
-<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ci7LrC" style="z-index:100;position:absolute"></div><div id="sc7LrC" style="display:inline"></div><div id="sd7LrC" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/veeble/safe-standard.js?ps_h=7LrC&amp;ps_t=1582150350654"></script></div><script type="text/javascript">var se7LrC=document.createElement("script");se7LrC.type="text/javascript";var se7LrCs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/veeble/safe-standard.js?ps_h=7LrC&ps_t="+new Date().getTime();setTimeout("se7LrC.src=se7LrCs;document.getElementById('sd7LrC').appendChild(se7LrC)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=veeble">Customer Service Help Desk</a></div></noscript>
-<!-- END ProvideSupport.com Graphics Chat Button Code -->
-
-</div>
-
-
-
-<!-- Here's all it takes to make this navigation bar. -->
-   <ul class="nav-legal">
-        <li><a href="../tos">Terms of Service</a></li>
-      <li><a href="../aup">Acceptable Use Policy</a></li>
-	 <li><a href="#" class="current">Privacy Policy</a></li>
-      <li><a href="../sla">Service Level Agreement</a></li>
-
-   </ul>
-   <!-- That's it! -->
 
 </div>
 
@@ -693,7 +818,7 @@ For additional questions, please contact our team using our <a href="../../suppo
       <div class="footer-content">
 
         <div class="footer-box">
-            <h4 style="padding-left: 10px;">Websites &amp; Hosting</h4>
+            <h4 style="padding-left: 10px;">Web Hosting</h4>
 
             <ul>
               <li><a href="../../web-hosting">Cpanel Web Hosting</a></li>
@@ -713,21 +838,41 @@ For additional questions, please contact our team using our <a href="../../suppo
               <li><a href="../../virtual-servers/openvz">OpenVZ Virtual Servers</a></li>
  <li><a href="../../virtual-servers/xen">Xen Virtual Servers</a></li>
 
- <li><a href="../../virtual-servers/kvm">KVM Virtual Servers</a></li>
+               <li><a href="../../windows">Windows RDP Servers</a></li>
 
-              <li><a href="../../physical-servers">Physical Servers</a></li>
-
+<li><a href="../../virtual-servers/kvm">KVM Virtual Servers</a></li>
 
             </ul>
         </div>
         
-        <div class="footer-box">
+
+  <div class="footer-box">
+            <h4 style="padding-left: 9px;">Legal Terms</h4>
+
+            <ul>
+              <li><a href="../../legal/tos">Terms of Service</a></li>
+
+ <li><a href="../../legal/aup">Acceptable Use Policy</a></li>
+
+ <li><a href="../../legal/sla">Service Level Agreement</a></li>
+
+              <li><a href="../../legal/privacy">Privacy Policy</a></li>
+
+
+            </ul>
+        </div>
+
+
+
+        <div class="footer-box" style="width:240px;">
 <h4 style="padding-left: 9px;">Contact</h4>
 
             <ul>
                <li><a href="../../support">Support</a></li>
+
+<li><a href="../../#" onclick="LC_API.open_chat_window();return false">Live Chat</a></li>
              
-              <li><a href="../../legal/tos">Terms of Service</a></li>
+             
 
               
             </ul>
@@ -755,20 +900,13 @@ For additional questions, please contact our team using our <a href="../../suppo
 </div>
         </div>
         
-        <div class="footer-box end-footer-box">
-<!--            
-<img src="../../images/online.png" alt="Chat Online" style=" width: 177px; height: 38px; padding-left: 60px;">
--->
+        <div class="footer-box end-footer-box" style="width: 150px; margin-left: 30px;">
 
-<div style="height: 38px; padding-left: 60px;" class="zeroshadow">
-<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciJBPR" style="z-index:100;position:absolute"></div><div id="scJBPR" style="display:inline"></div><div id="sdJBPR" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/veeble/safe-standard.js?ps_h=JBPR&amp;ps_t=1582150350703"></script></div><script type="text/javascript">var seJBPR=document.createElement("script");seJBPR.type="text/javascript";var seJBPRs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/veeble/safe-standard.js?ps_h=JBPR&ps_t="+new Date().getTime();setTimeout("seJBPR.src=seJBPRs;document.getElementById('sdJBPR').appendChild(seJBPR)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=veeble">Customer Service Help Desk</a></div></noscript>
-<!-- END ProvideSupport.com Graphics Chat Button Code -->
-</div>
+<div style="margin-top: 56px; ">
+<img src="../../images/solusvm_official_partner.png" style="width: 140px; height:35px;">
 
+<img src="../../images/download-spla.jpg" style="width: 140px; height:35px; padding-top: 15px;">
 
-<div style="margin-top: 50px; margin-left: 27px;">
-<img src="../../images/solusvm_official_partner.png" style="width: 220px; height:61px;">
 
 </div>
 
@@ -787,7 +925,6 @@ For additional questions, please contact our team using our <a href="../../suppo
 </div>
 <script type="text/javascript"> Cufon.now();</script>
 <div id="two" class="jGrowl bottom-left"></div>
-
 
 
 </body></html>
