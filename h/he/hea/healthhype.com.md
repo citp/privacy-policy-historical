@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055845id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101062904id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthhype.com
 
