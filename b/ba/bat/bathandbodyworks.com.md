@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503191445id_/http%3A//www.bathandbodyworks.com/helpdesk/index.jsp%3Fdisplay%3Dcorp%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101085636id_/http%3A//www.bathandbodyworks.com/helpdesk/index.jsp%3Bjsessionid%3DnFCjQntYwyzhv2MgJXlCLj7ybS1TJcwnTTfCyTqh5h7rj1BRDb1G%21996731012%3Fdisplay%3Dcorp%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # Privacy & Security - Bath & Body Works
 
