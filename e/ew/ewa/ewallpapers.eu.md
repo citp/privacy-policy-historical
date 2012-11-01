@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewallpapers.eu privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232016id_/http%3A//ewallpapers.eu/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewallpapers.eu privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101091420id_/http%3A//ewallpapers.eu/privacy-policy.htm) for the most accurate reproduction.*
 
 # High Resolution & Widescreen Wallpapers
 
