@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papyrusclubs.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513030327id_/http%3A//www.papyrusclubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusclubs.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101215740id_/http%3A//www.papyrusclubs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Campus Newspapers, Educational Services, Student Communities
 
