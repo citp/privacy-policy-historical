@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the siriuscanada.ca privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628063142id_/http%3A//www.sirius.ca/en/auxiliary/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriuscanada.ca privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101083513id_/http%3A//siriusxm.ca/Legal/Privacy-Policy-Sirius.aspx) for the most accurate reproduction.*
 
-# SIRIUS Satellite Radio Canada -
+# Privacy Policy Sirius - SiriusXM Canada
 
-**SIRIUS PRIVACY POLICY**
+Below is the Privacy Policy for Sirius Canada Subscribers. If you are an XM Canada subscriber, [here is the Privacy Policy applicable to your subscription](https://web.archive.org/Legal/Privacy-Policy-XM.aspx "here is the Privacy Policy applicable to your subscription").
 
-Your privacy is important to **Sirius Canada Inc.** (referred to as "Sirius", "we" or "us" in this policy) and the purpose of this policy is to tell you what personal information we collect about you, how we use it, whether we disclose it to anybody else, how long we keep it, and how you can request access to your personal information or obtain more information about Sirius' privacy policies.
+Your privacy is important to Sirius Canada Inc. (referred to as "Sirius", "we" or "us" in this policy) and the purpose of this policy is to tell you what personal information we collect about you, how we use it, whether we disclose it to anybody else, how long we keep it, and how you can request access to your personal information or obtain more information about Sirius' privacy policies.
 
 ACCEPTANCE OF TERMS OF PRIVACY POLICY AND CONSENT TO THE USE OF YOUR PERSONAL INFORMATION
 
@@ -16,13 +16,13 @@ Accountability
 
 We are responsible for the personal information under our control and we have designated a Privacy Officer who is responsible for our compliance with this policy and with privacy legislation. If you wish to contact our Privacy Officer, you can do one of the following:
 
-By Telephone (416) 513-7474  
-By Email [privacy@siriuscanada.ca](mailto:privacy@siriuscanada.ca)  
-By Mail SIRIUS Canada  
-P.O. Box 3129  
-M.I.P.  
-Markham, ON  
-L3R 6G5
+By Telephone (416) 513-7400   
+By Email [privacy@siriuscanada.ca](mailto:privacy@siriuscanada.ca "privacy@siriuscanada.ca")   
+By Mail SIRIUS Canada   
+P.O. Box 3129   
+M.I.P.   
+Markham, ON   
+L3R 6G5 
 
 What Information do we Collect?
 
@@ -34,10 +34,8 @@ When you visit the site and sign up for a newsletter, contact Sirius with a ques
 
 When you purchase the Sirius Service, whether over the telephone or otherwise, we will collect some or all of the following personal information:
 
-your name, address and telephone number e-mail address and facsimile number  
-billing and payment information (such as your credit card number)  
-delivery instructions and other information incidental to our supply of the Sirius Service  
-demographic information, including language of preference, referral source, and other marketing information if you agree to provide it  
+your name, address and telephone number e-mail address and facsimile number billing and payment information (such as your credit card number) delivery instructions and other information incidental to our supply of the Sirius Service demographic information, including language of preference, referral source, and other marketing information if you agree to provide it.
+
 In addition, from time to time, if you have registered at the site or purchased the Sirius Service we may ask you to complete a survey in order to get a better sense of your use of the site or the Sirius Service and what products or services may be of interest to you.
 
 Non-Personal Information Collected Automatically
@@ -52,7 +50,7 @@ When you view our site, we may store some information on your computer in the fo
 
 Children
 
-We do not sell or market, knowingly solicit information from, or sell products or services for purchase for people under 18. We encourage all parents or guardians to instruct their children in the safe and responsible use of their personal information while using the Internet. If you are a parent of a child under the age of 18, and your child has submitted personal information to Sirius either through the website or over the telephone, you may contact us at privacy@siriuscanada.ca and we will delete any personally identifiable information about your child as soon as reasonably possible.
+We do not sell or market, knowingly solicit information from, or sell products or services for purchase for people under 18. We encourage all parents or guardians to instruct their children in the safe and responsible use of their personal information while using the Internet. If you are a parent of a child under the age of 18, and your child has submitted personal information to Sirius either through the website or over the telephone, you may contact us at [ privacy@siriuscanada.ca](https://web.archive.org/web/20121101083513id_/http%3A//siriusxm.ca/Legal/privacy@siriuscanada.ca "mailto:privacy@siriuscanada.ca")and we will delete any personally identifiable information about your child as soon as reasonably possible.
 
 How do we use your Personal Information?
 
@@ -76,7 +74,7 @@ Subject to legal and contractual requirements, you can refuse to consent to our 
 
 Your ability to opt-out
 
-If you agreed that we may communicate with you to offer you other products and services (including through disclosure of your information to our affiliates) that may be of interest to you, you may still notify us of your intention to opt-out. If you no longer want us to use your personal information or share it with our affiliates for the purpose of offering you other products and services, please notify us by sending an e-mail to privacy@siriuscanada.ca , and ensure that you include "Opt-Out" in the subject matter field of the email. It may take approximately 14 days for your opt-out request to become effective. Occasionally, we also may send you e-mail communications with information which may be useful to you, including information about our products and services or about offerings from third parties. We will include instructions in our e-mail messages on how to unsubscribe if you decide you do not want to receive any future marketing or promotional e-mails from us. However, if you have purchased the Sirius Service, to ensure that you receive important customer service information, you agree that we may continue to send you non-marketing related information when necessary.
+If you agreed that we may communicate with you to offer you other products and services (including through disclosure of your information to our affiliates) that may be of interest to you, you may still notify us of your intention to opt-out. If you no longer want us to use your personal information or share it with our affiliates for the purpose of offering you other products and services, please notify us by sending an e-mail to [privacy@siriuscanada.ca ](mailto:privacy@siriuscanada.ca "privacy@siriuscanada.ca ") , and ensure that you include "Opt-Out" in the subject matter field of the email. It may take approximately 14 days for your opt-out request to become effective. Occasionally, we also may send you e-mail communications with information which may be useful to you, including information about our products and services or about offerings from third parties. We will include instructions in our e-mail messages on how to unsubscribe if you decide you do not want to receive any future marketing or promotional e-mails from us. However, if you have purchased the Sirius Service, to ensure that you receive important customer service information, you agree that we may continue to send you non-marketing related information when necessary.
 
 You can Request Access to Your Personal Information
 
@@ -94,4 +92,4 @@ Questions? Concerns?
 
 If you have any questions or concerns about this Privacy Policy or about the collection, use and disclosure of your personal information by Sirius please contact our Privacy Officer as set out at the beginning of this policy and we will try to address your concerns.
 
-Read the [XM Canada Privacy Policy](http://www.xmradio.ca/about/privacy-policy.cfm)
+Read the XM Canada Privacy Policy
