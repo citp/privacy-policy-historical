@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videouniversity.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604083905id_/http%3A//www.videouniversity.com/videouniversity-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videouniversity.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101092656id_/http%3A//www.videouniversity.com/videouniversity-privacy-policy) for the most accurate reproduction.*
 
-# VideoUniversity Privacy Policy « Video University
+# VideoUniversity Privacy Policy « VideoUniversity
 
 Welcome to VideoUniversity.com’s website. We appreciate your interest. When you visit and navigate our site and when you communicate with us via our site, we will not collect personal information about you unless you provide us that information voluntarily.
 
