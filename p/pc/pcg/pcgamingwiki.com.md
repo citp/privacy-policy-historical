@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcgamingwiki.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606142232id_/http%3A//pcgamingwiki.com/wiki/PCGamingWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamingwiki.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101235711id_/http%3A//pcgamingwiki.com/wiki/PCGamingWiki%3APrivacy_policy) for the most accurate reproduction.*
 
-# PCGamingWiki:Privacy policy - PCGamingWiki - bugs, crashes, freezes, fixes and workarounds
+# PCGamingWiki:Privacy policy - PCGamingWiki PCGW - Bugs, fixes and workarounds
 
 **What information do we collect?**
 
@@ -61,5 +61,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [afj.tsai@gmail.com](mailto:afj.tsai@gmail.com)
-
-## More articles...
