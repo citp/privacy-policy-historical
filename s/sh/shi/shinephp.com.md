@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shinephp.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629040546id_/http%3A//www.shinephp.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinephp.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101032815id_/http%3A//shinephp.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement | ShinePHP.com
+# Privacy Policy Statement - ShinePHP.com
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
