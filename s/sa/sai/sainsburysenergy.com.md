@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysenergy.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512013337id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysenergy.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101215635id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Info About Our Privacy Policy - Sainsbury's Energy
 
@@ -139,12 +139,9 @@ We may use 'cookies' to monitor how people use our site. This helps us to unders
 
 If you don’t want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.
 
-[**Click here to read our policy on cookies**.](https://web.archive.org/privacy/cookies-policy.html)  
+## 6\. Cookies
 
-
-## 6\. Turning off cookies in different browsers
-
-You can find information on **disabling cookies at**[ **www.allaboutcookies.org**](http://www.allaboutcookies.org/)
+We use 'cookies' on our site. Visit our [**cookies policy**](https://web.archive.org/global-maintenance/cookies-policy.html) to find out more and manage cookies.
 
 ## 7\. Links
 
