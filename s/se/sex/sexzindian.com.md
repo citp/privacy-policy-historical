@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexzindian.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508215734id_/http%3A//www.sexzindian.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexzindian.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101070751id_/http%3A//www.sexzindian.com/static/privacy) for the most accurate reproduction.*
 
-# SexZIndian.com- Free Indian Sex Videos | Free Desi Sex Videos | Free Indian Porn | Only Indian Girls!
+# Privacy Policy - SexZIndian.com
 
 ## Privacy Policy
 
