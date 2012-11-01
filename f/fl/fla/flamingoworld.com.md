@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512222249id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101223054id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
 
-# FlamingoWorld.com Privacy Policy
+# The FlamingoWorld.com Privacy Policy
 
 FlamingoWorld.com (http://www.flamingoworld.com) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from our users. Please read the following to understand our views and practices regarding personal information, and how they pertain to you as you use our various features and services. This statement discloses the current privacy practices for our Web sites.
 
