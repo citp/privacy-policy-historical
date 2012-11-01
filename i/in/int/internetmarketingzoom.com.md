@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketingzoom.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520031337id_/http%3A//www.internetmarketingzoom.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingzoom.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101232405id_/http%3A//www.internetmarketingzoom.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Marketing Zoom
 
