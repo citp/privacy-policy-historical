@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmein.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525030247id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmein.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101172311id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # GET ME IN! Buy & Sell Concert Tickets, Theatre Tickets and Sports Tickets.
 
@@ -52,9 +52,7 @@ We automatically log generic information about your computer's connection to the
 
 Cookies are small pieces of information that are stored by your browser on your computer's hard drive. There are many myths circulating about cookies, but you should know that cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses or harvest your personal information. The use of cookies is very common on the internet and GET ME IN!'s use of cookies is similar to that of such sites as Ebay, Yahoo!, BBC.com and other reputable online companies. First and foremost, you can rest assured that no personally identifiable information ("PII") about you (e.g., name, address, etc.) is gathered or stored in the cookies placed by the GET ME IN! web site and, as a result, none can be passed on to any third parties.
 
-Our Site uses cookies to keep track of what you have purchased. We use cookies to deliver content specific to your interests, to save your password (if you have supplied us with one) so you do not have to re-enter it each time you visit our Site, and for other purposes, such as informing you that you may have made multiple bookings for specific events on our Site. We may also from time to time, allow Criteo Ltd to send its own cookies to your visitors cookie file, in order to collect non-personal data relating to your internet activity. All data collected in this way will be done so in accordance with all applicable laws and regulations (including but not limited to laws governing privacy and data protection) Further information on how to opt out of Criteo’s cookie retargeting can be found at <http://www.criteo.com/en/solutions/privacy-policy> You can also always disable cookies or set your browser to alert you when cookies are being sent, but if you choose to do so you may not be able to access some areas of the Site.
-
-First and foremost, you can rest assured that no personally identifiable information ("PII") about you (e.g., name, address, etc.) is gathered or stored in the cookies placed by the GET ME IN! web site and, as a result, none can be passed on to any third parties.
+Our Site uses cookies to keep track of what you have purchased. We use cookies to deliver content specific to your interests, to save your password (if you have supplied us with one) so you do not have to re-enter it each time you visit our Site, and for other purposes, such as informing you that you may have made multiple bookings for specific events on our Site. 
 
 **Other**
 
@@ -72,8 +70,8 @@ All personal information you provide to GET ME IN! is transmitted using SSL (Sec
 
 **What other information should I know about my privacy?**
 
-If you are a buyer, GET ME IN! will disclose your name and address details to sellers for order fulfillment purposes only.  
-We use a credit card processing company to bill you for goods and services. We will disclose your name, billing address and credit card information to these credit card companies. But these companies do not retain, share, store or use personally identifiable information for any other purposes other than the billing for good and services. 
+If you are a buyer, GET ME IN! will disclose your name, contact number and address details to sellers for order fulfillment purposes only.  
+We use a credit card processing company to bill you for goods and services. We will disclose your name, billing address and credit card information to these credit card companies. But these companies do not retain, share, store or use personally identifiable information for any other purposes other than the billing for good and services. Additionally your contact details may be used by the courier as part of their address label to facilitate delivery and enable them to contact you directly in the event of any delivery issues.
 
 In addition to the circumstances described above, GET ME IN! may disclose client information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of GET ME IN! or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
 
