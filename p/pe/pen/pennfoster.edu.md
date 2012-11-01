@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennfoster.edu privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508173130id_/http%3A//www.pennfoster.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennfoster.edu privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101074116id_/http%3A//www.pennfoster.edu/privacy.html) for the most accurate reproduction.*
 
 # Penn Foster Career School | Privacy Policy
 
@@ -6,7 +6,7 @@ At Penn Foster, we want your visit to be both satisfying and comfortable. Our pr
 
 **Collection and Storage of Information**
 
-When you communicate with Penn Foster we will collect and store certain personal information in our customer database. This information could include any of the contact or demographic information you provide us, including your name, address, phone number, email address, your zip code, or your age. In addition, we may collect certain financial information such as your credit card number or your mother's maiden name, in order to process your order and collect payment. "Cookies" may also be used to recognize you and give you access to our site. And if you enroll in one or more of our programs, your student records and correspondence with our company are maintained by us as required by law and good business practices.
+When you communicate with Penn Foster we will collect and store certain personal information in our customer database. This information could include any of the contact or demographic information you provide us, including your name, address, phone number, email address, your zip code, or your age. In addition, we may collect certain financial information such as your credit card number, card expiration date, card holder's name and CVV code or your bank account and routing numbers or your mother's maiden name, in order to process your order and collect payment. "Cookies" may also be used to recognize you and give you access to our site. And if you enroll in one or more of our programs, your student records and correspondence with our company are maintained by us as required by law and good business practices.
 
 **Use of Information**
 
