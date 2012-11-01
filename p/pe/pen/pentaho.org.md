@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pentaho.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502115918id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaho.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101083512id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.*
 
 # Pentaho Privacy Statement
 
