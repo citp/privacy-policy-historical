@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bornagainamerican.org privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427121825id_/http%3A//www.bornagainamerican.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bornagainamerican.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101222145id_/http%3A//www.bornagainamerican.org/privacy.html) for the most accurate reproduction.*
 
 # Born Again American • About Us
 
