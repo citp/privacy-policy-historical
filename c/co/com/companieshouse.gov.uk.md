@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the companieshouse.gov.uk privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604080622id_/http%3A//www.companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companieshouse.gov.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101024920id_/http%3A//www.companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions
-
-**Terms and Conditions**
 
   * Disclaimer
   * Privacy and Cookies Statement
   * Acceptable Use Statement
+  * Information collected on behalf of HMRC
+  * Personal information
+  * [Companies House Mobile Application](https://web.archive.org/web/20121101024920id_/http%3A//www.companieshouse.gov.uk/legal/mobile-app.shtml)
 
 
 
@@ -32,7 +33,11 @@ back to top
 
 **Privacy and Cookies**
 
-[Our cookie policy](https://web.archive.org/web/20120604080622id_/http%3A//www.companieshouse.gov.uk/legal/cookies.shtml)
+[Our cookie policy](https://web.archive.org/web/20121101024920id_/http%3A//www.companieshouse.gov.uk/legal/cookies.shtml)
+
+**Information collected on behalf of HMRC**
+
+Companies House through the Joint Registration Service will act as agents for HMRC and provide an optional service whereby when a person registers a new company, a facility will be offered so that person can also register the company for Corporation Tax.  Once incorporation at Companies House has been accepted the Corporation Tax information will be sent to HMRC and will not be retained by Companies House.
 
 **Personal information**
 
@@ -55,5 +60,9 @@ The Companies House searchable databases are designed to meet the needs of a wid
 Due to limitations of equipment and bandwidth, they are not intended to be a source for bulk downloads. 
 
 Individuals, companies, IP addresses or blocks of IP addresses who deny or degrade service to other users by generating unusually high numbers of daily database accesses, whether generated manually or in an automated fashion, may be denied access to these services without notice.
+
+**Companies House Mobile Application**
+
+[Companies House Mobile Application](https://web.archive.org/web/20121101024920id_/http%3A//www.companieshouse.gov.uk/legal/mobile-app.shtml)
 
 back to top
