@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509223136id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101194835id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Australian Securities Exchange - ASX
 
