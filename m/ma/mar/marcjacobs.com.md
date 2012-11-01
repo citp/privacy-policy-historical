@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615141638id_/http%3A//www.marcjacobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101193032id_/http%3A//www.marcjacobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marc Jacobs
 
