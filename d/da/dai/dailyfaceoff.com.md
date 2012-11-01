@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfaceoff.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512080116id_/http%3A//www.dailyfaceoff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfaceoff.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102002651id_/http%3A//www.dailyfaceoff.com/privacy-policy) for the most accurate reproduction.*
 
 # NHL Starting Goalies and more! | DailyFaceoff.com | Privacy Policy
 
