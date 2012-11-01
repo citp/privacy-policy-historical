@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forzaitalianfootball.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606020144id_/http%3A//forzaitalianfootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzaitalianfootball.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101231538id_/http%3A//forzaitalianfootball.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Forza Italian Football
+# Privacy Policy - Forza Italian Football | Forza Italian Football
 
 *****Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates.**
 
@@ -70,5 +70,3 @@ London
 N20 0NN.
 
 This Privacy Policy was last updated on 12th February 2007.
-
-### Leave a Reply
