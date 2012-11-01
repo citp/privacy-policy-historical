@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richellusa.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527073905id_/http%3A//www.richellusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richellusa.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101151813id_/http%3A//www.richellusa.com/privacy) for the most accurate reproduction.*
 
 # Richell USA Inc. :: Privacy Policy
 
