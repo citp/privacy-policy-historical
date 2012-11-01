@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the careesma.in privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171515id_/http%3A//www.careesma.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careesma.in privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101235321id_/http%3A//www.careesma.in/privacy) for the most accurate reproduction.*
 
 # Careesma.in - Finding a job has never been so easy!
 
 #### Privacy Policy
 
-Careesma is firmly committed to protecting the privacy of users and has created this privacy policy in order to demonstrate our firm commitment to privacy. At Careesma, we take your privacy seriously. Please be assured that we will safeguard any information that you provide.  
-As a career site, Careesma will ask job seekers and employers to submit any information relevant to the job/candidate search in order to conduct/optimize the search functionality. All information is submitted exclusively on a voluntary basis. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below.The following discloses our information gathering practices.
+careesma.at is firmly committed to protecting the privacy of users and has created this privacy policy in order to demonstrate our firm commitment to privacy. At Careesma, we take your privacy seriously. Please be assured that we will safeguard any information that you provide.  
+As a career site, careesma.at will ask job seekers and employers to submit any information relevant to the job/candidate search in order to conduct/optimize the search functionality. All information is submitted exclusively on a voluntary basis. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below.The following discloses our information gathering practices.
 
 #### Registration
 
-To register, we ask for contact information (job seekers and employers) and information on your company (employers). All the information on the registration pages and we do not disclose any personally identifiable information to anyone outside of Careesma without your permission or as otherwise required by law. Your contact information (such as name and email address) may however be used to contact you about any features/services on our site which we believe may be of interest. 
+To register, we ask for contact information (job seekers and employers) and information on your company (employers). All the information on the registration pages and we do not disclose any personally identifiable information to anyone outside of careesma.at without your permission or as otherwise required by law. Your contact information (such as name and email address) may however be used to contact you about any features/services on our site which we believe may be of interest. 
 
 #### Resumes
 
-Members have the option of posting their Resumes in the Careesma database. You may edit/change information on your Resume at any point in time. You may also remove your Resumes from our databases at any point in time.
+Members have the option of posting their Resumes in the careesma.at database. You may edit/change information on your Resume at any point in time. You may also remove your Resumes from our databases at any point in time.
 
 #### Job Postings
 
@@ -23,7 +23,7 @@ You may change/modify/delete any information you provide at any point in time.
 #### Privacy Commitment Changed
 
 All the information collected is owned by Intercom World Wide.  
-Intercom World Wide and Careesma will continue to commit itself to protecting and maximizing users' privacy. We will update you on an ongoing basis on any changes/enhancements in our privacy practices.
+Intercom World Wide and careesma.at will continue to commit itself to protecting and maximizing users' privacy. We will update you on an ongoing basis on any changes/enhancements in our privacy practices.
 
 #### Legal Addresses
 
