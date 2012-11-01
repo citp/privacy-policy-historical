@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606180102id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101062805id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - beeconomic.com.ph
 
@@ -64,7 +64,7 @@ Regarding information transmitted between the Website and and/or users, while we
 If there is a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation or Groupon Philippines Inc. then, in our sole discretion, we may transfer, sell or assign information collected on and through this Website (including, without limitation, PII and other information), to one or more relevant third parties.
 
 **8\. Customer Service**  
-If you have any questions or concerns, please feel free to contact us at [support@groupon.ph](mailto:support@groupon.ph).  
+If you have any questions or concerns, please feel free to Contact us: [groupon.ph](https://grouponphilippines.zendesk.com/anonymous_requests/new)  
  **  
 9.   DTI  
 **Should your questions or concerns not be addressed by Groupon Customer Service, you may opt to contact the DTI at 751-3330 or ** [dtincrlegal@yahoo.com](mailto:dtincrlegal@yahoo.com).**
