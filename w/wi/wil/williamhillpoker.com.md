@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the williamhillpoker.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508210247id_/http%3A//www.williamhillpoker.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillpoker.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101010453id_/http%3A//www.williamhillpoker.com/privacy.htm) for the most accurate reproduction.*
 
 # The William Hill Poker Privacy Policy
+
+[home](http://www.williamhillpoker.com/) » Privacy Policy
 
 **For www.williamhillpoker.com (“the Website”)**
 
@@ -53,3 +55,5 @@ If at any time You believe that the Operator has not adhered to the principles c
 
   
  **This Privacy Policy is effective from 5th August 2009**
+
+Connected Players: 15,562 Cash Table Players: 7,324 JACKPOTS Fort Knox : $60,000 , Rio : $135,000 , Maui : $36,000 , Dirty Dozen : $2,000
