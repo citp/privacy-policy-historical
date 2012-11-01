@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingdirectaffinity.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510055856id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingdirectaffinity.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101044227id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
 # Dating Direct Affinity: Find your perfect match with our affinity test
 
@@ -45,6 +45,8 @@ Persistent cookies stay in the cookie file of your browser for longer (though ho
 Usually you can modify the settings of your browser to accept or reject all cookies or be notified when a cookie is set. To view your security settings in Internet Explorer, access the Internet Options within the tools menu in your browser and select the Privacy tab to choose a privacy setting for the internet zone you are in. For further information on cookies and cookie settings, including how to delete cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our site. These third parties may use cookies and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites. This is so they can track the effectiveness of their campaigns (including whether these ads are clicked on or viewed by users and later purchases by such users), avoid showing you the same ad repeatedly and display ads on this and other sites tailored to your preferences. We don't have any access to or control over these third party technologies as these aren't covered by this policy. Also, if you would like more information about this practice and to know your choices about not having this information used by certain of these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). Please contact the third parties directly for more information about their privacy practices.
+
+If you are looking for the information we collect about your computer and or device through our use of cookies; then please see our [Cookie Policy.](https://web.archive.org/misc/cookie.php)
 
 ## 6. How do we use your personal data?
 
