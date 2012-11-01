@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225016id_/http%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101081535id_/http%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Plusnet Policies
 
