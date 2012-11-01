@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wta.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623061302id_/http%3A//www.wta.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wta.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101091750id_/http%3A//www.wta.org/connect/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Washington Trails Association
 
@@ -8,7 +8,7 @@ Washington Trails Association firmly respects your privacy and will attempt to h
 
 #### Browsing our website
 
-You can browse [www.wta.org](http://www.wta.org/about/), subject to our website [Terms of Service](http://www.wta.org/connect/terms-of-service "Terms of Service"), without telling us who you are and without revealing any personal information. The only information we collect from an typical ordinary web site visit (one that does not involve a form submission) is your IP address, the pages you view and the date and time you view them. We use this information to measure site activity in order to improve the usefulness of our website to our visitors.
+You can browse [www.wta.org](http://www.wta.org/connect/), subject to our website [Terms of Service](http://www.wta.org/connect/terms-of-service "Terms of Service"), without telling us who you are and without revealing any personal information. The only information we collect from an typical ordinary web site visit (one that does not involve a form submission) is your IP address, the pages you view and the date and time you view them. We use this information to measure site activity in order to improve the usefulness of our website to our visitors.
 
 #### Collection of personally identifiable information
 
@@ -16,7 +16,7 @@ Visitors must register in order to use certain features of our website, such as 
 
 When a visitor asks us to provide information or a service, we request information that enables us to respond to the visitor. This information could include contact information (such as name, mailing address, and email address) and, if applicable, financial, payment, or billing information.
 
-Washington Trails Association may gather email addresses and other personally identifiable data about visitors when such data is voluntarily submitted to [www.wta.org](http://www.wta.org/about/). For example, our site uses submission forms for visitors to sign up for trail work or events; request information, services, or products; or to become a member. Email addresses from the submission form will be used only for the purpose of contacting you about the particular work party, event, online order or other interaction. You will receive unrelated emails only if you have specifically opted-in to one of our mailing lists at the time you provided it. Other contact information (e.g., mailing address) may be used to contact you about opportunities with the WTA that we feel may be of interest to you. Financial information is used to bill visitors in connection with their orders. WTA cannot insure against invasion by security breakers of any manner.
+Washington Trails Association may gather email addresses and other personally identifiable data about visitors when such data is voluntarily submitted to [www.wta.org](http://www.wta.org/connect/). For example, our site uses submission forms for visitors to sign up for trail work or events; request information, services, or products; or to become a member. Email addresses from the submission form will be used only for the purpose of contacting you about the particular work party, event, online order or other interaction. You will receive unrelated emails only if you have specifically opted-in to one of our mailing lists at the time you provided it. Other contact information (e.g., mailing address) may be used to contact you about opportunities with the WTA that we feel may be of interest to you. Financial information is used to bill visitors in connection with their orders. WTA cannot insure against invasion by security breakers of any manner.
 
 Washington Trails Association makes every effort to ensure the secure collection and transmission of sensitive user information using industry-accepted data collection and encryption methodologies.
 
