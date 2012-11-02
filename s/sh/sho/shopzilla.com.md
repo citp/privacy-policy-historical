@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopzilla.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102754id_/http%3A//about.shopzilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopzilla.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102051206id_/http%3A//about.shopzilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shopzilla
 
-Effective Date & Last Modified March, 22, 2012. 
+Effective Date & Last Modified October 25, 2012. 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
@@ -108,4 +108,7 @@ This Privacy Policy may change from time to time to reflect our changing busines
 ****This Privacy Policy and our[Terms of Use](http://about.shopzilla.com/user-agreement) , both as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services.   No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
 
   
-**© 2011 Shopzilla, Inc. **
+**© 2012 Shopzilla, Inc. **
+
+12200 W. Olympic Blvd, Suite 300, CA 90064 | help@shopzilla.com | 310.571.1235  
+
