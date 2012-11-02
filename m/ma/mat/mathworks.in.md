@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504194641id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102131044id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # MathWorks India - Policies and Statements
 
@@ -91,8 +91,3 @@ MathWorks may make improvements or changes in the information, services, product
 _If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please[contact us](https://web.archive.org/company/feedback/)._
 
 Updated 08/27/2009
-
-| 
-
-| [](https://web.archive.org/company/aboutus/contact_us/contact_sales.html) | [Contact sales](https://web.archive.org/company/aboutus/contact_us/contact_sales.html)  
----|---
