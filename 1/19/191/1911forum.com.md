@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1911forum.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501095202id_/http%3A//www.1911forum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1911forum.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102184108id_/http%3A//www.1911forum.com/privacy.php) for the most accurate reproduction.*
 
 # 1911Forum.com - 1911 community, news, reviews, and more!
 
