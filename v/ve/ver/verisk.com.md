@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035055id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102052550id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Verisk Analytics Privacy Policy
 
