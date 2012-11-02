@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611070312id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102052411id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # ExpertRating - Online Certification and Employment Testing
 
-**Last Updated: July. 20th. 2010**
+**Last Updated: September. 30th. 2012**
 
-ExpertRating Solutions has been awarded TRUSTe's Privacy [ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.expertrating.com&sealid=101) Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [ExpertRating Help Desk](http://www.expertrating.com/contact.asp). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) . 
+ExpertRating Solutions has been awarded TRUSTe's Privacy 
 
-Expert Rating Solutions is committed to protecting your privacy. We have established this privacy statement to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy statement applies exclusively to the Website [www.expertrating.com](https://web.archive.org/web/20120611070312id_/http%3A//www.expertrating.com/privacy/www.expertrating.com). By using this Website, you are providing your consent to the privacy practices disclosed within this statement. 
+[](https://privacy.truste.com/privacy-seal/Expert-Rating-Solutions/validation?rid=ad9122a4-912d-4e3c-8009-dbfb7df8acab "TRUSTe online privacy certification")
+
+Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.expertrating.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [ExpertRating Help Desk](http://www.expertrating.com/contact.asp). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+
+Expert Rating Solutions is committed to protecting your privacy. We have established this privacy statement to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy statement applies exclusively to the Website [www.expertrating.com](https://web.archive.org/web/20121102052411id_/http%3A//www.expertrating.com/privacy/www.expertrating.com). By using this Website, you are providing your consent to the privacy practices disclosed within this statement. 
 
 **What type of user related information do we collect?**
 
@@ -26,11 +30,11 @@ Your personal information is kept strictly confidential through a well organized
 
 **Our commitment to payment information (credit card number) security**
 
-ExpertRating services can be purchased online through a secure credit card transaction using any major credit card or PayPal. The ecommerce functionality on the site has been provided by [WorldPay](http://www.worldpay.com/) which is a trusted name in online transaction processing. When you supply your credit card information it is not retained on file by us. Moreover, the transaction takes place on the worldpay secure server which is 100% safe. When you buy any of our services, it is treated as a one time sale and your credit card will not be charged again in the future as is the case in subscription sales. [PayPal](http://www.paypal.com/) transactions take place on the PayPal server which is a trusted name in online transaction processing. 
+ExpertRating services can be purchased online through a secure credit card transaction using any major credit card or PayPal. The ecommerce functionality on the site has been provided by [PayPal](http://www.paypal.com/) which is a trusted name in online transaction processing. When you supply your credit card information it is not retained on file by us. Moreover, the transaction takes place on the PayPal secure server which is 100% safe and encrypts the transmission of that information using secure socket layer technology (SSL). When you buy any of our services, it is treated as a one time sale and your credit card will not be charged again in the future as is the case in subscription sales. [PayPal](http://www.paypal.com/) transactions take place on the PayPal server which is a trusted name in online transaction processing. 
 
 **How you can access or correct your personal information**
 
-You can access and change the personal information that we collect and maintain by logging in at your user account with the username and passwords assigned to your account. 
+You can access, delete or change the personal information that we collect and maintain by logging in at your user account with the username and passwords assigned to your account. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at ExpertRating [Help Desk](http://www.expertrating.com/support/index.asp). 
 
 The login page is at: <http://www.expertrating.com/login.asp>
 
@@ -44,7 +48,16 @@ From time to time, we may employ the services of a third party agent to assist u
 
 **Information Sharing and Disclosure**
 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.   
 ExpertRating may be required by law to disclose information to law enforcement, or other government agencies under certain circumstances such as where a formal request has been made in a civil suit, court order, or subpoena served on the Website. We reserve the right to disclose information in our sole and absolute discretion, where deemed necessary to protecting the safety of our staff, users, the general public, or in protecting our intellectual property. 
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [ExpertRating Help Desk](http://www.expertrating.com/support/index.asp). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+**Links to 3rd Party Sites**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Expert Rating Solutions. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
 
 **What is our policy if there is a change in our Privacy practices?**
 
@@ -57,3 +70,12 @@ ExpertRating will do its utmost to ensure that the successor adheres to the same
 **Who should I contact if I have a Privacy related concern?**
 
 If you have any doubts or require clarifications related to the privacy of your information with us, please use our [ contact form](http://www.expertrating.com/contact.asp) to get in touch with us.
+
+  
+By Mail:   
+ExpertRating Solutions  
+280 Madison Avenue  
+912 - 9th Floor  
+New York  
+United States - 10016  
+
