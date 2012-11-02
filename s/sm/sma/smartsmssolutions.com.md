@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smartsmssolutions.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514114207id_/http%3A//smartsmssolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsmssolutions.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102142926id_/http%3A//smartsmssolutions.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Smart SMS Solutions
+# Smart SMS Solutions - Privacy Policy
+
+##  Privacy Policy 
 
 At SmartSMSSolutions we recognize that your privacy is important. Our goal is to maintain the trust of our users and others who visit our web sites. This document outlines our practices with respect to **Protection of Database Information** and **Disclosure of Your Information**.
 
