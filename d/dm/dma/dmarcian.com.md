@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517125106id_/http%3A//www.dmarcian.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102095539id_/http%3A//www.dmarcian.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# dmarcian - DMARC Tools For Humans
 
 The privacy and security of personal information is a dmarcian.com priority, and we want you to be aware of how your information is collected and handled.
 
@@ -43,4 +43,4 @@ Compliance with Email Communication Laws
 Change in Privacy Policy
     dmarcian.com reserves the right to modify the terms of this Privacy Policy. dmarcian.com will provide notice of such changes by posting at: http://dmarcian.com/privacy.html. Users not agreeing to the modified Privacy Policy may stop the use of the Service. Continued use after such modifications have been posted shall be deemed acceptance of by user.
 
-For questions about this Privacy Policy, please contact us at: [authonaut@dmarcian.com](mailto:authonaut@dmarcian.com). 
+For questions about this Privacy Policy, please contact us. 
