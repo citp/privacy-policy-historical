@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressandplay.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025858id_/http%3A//www.dressandplay.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressandplay.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102173006id_/http%3A//www.dressandplay.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DressAndPlay.com
 
