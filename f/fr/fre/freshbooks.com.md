@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325013340id_/http%3A//www.freshbooks.com/privacy.php%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102175023id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For FreshBooks Apps, Services and Web Site
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.freshbooks.com/seal_m "Validate TRUSTe privacy certification")
 
 ## Privacy Policy
 
 #### Last Updated: February 8, 2011
+
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.freshbooks.com/seal_m "Validate TRUSTe privacy certification")
 
 This is the Privacy Policy of the FreshBooks website (the “Site”), operated by 2NDSITE Inc. (together with our affiliates and subsidiaries, “FreshBooks”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
@@ -56,7 +56,7 @@ Forum. If you post on our forum or blog your username and other information you 
 
 Subsidiaries and Affiliates; Service Providers. We may from time to time use the services of affiliates, subsidiaries and unrelated service providers in the operation of the Site, and may disclose personal information to them in the course of our use of their services. For example, we may use the services of third-party hosting companies to host the operation of the Site. This may involve the hosting of data, including personal information, on servers operated by those hosting companies. We take care to use only service providers that we believe are reputable and able to live up to our and your expectations, including about the handling of confidential information.
 
-Legal Requests; Emergencies. FreshBooks may disclose your personal information (a) to any governmental authority as part of an investigation to determine our compliance with any applicable law, rule, or regulation (including privacy laws, rules, and regulations), (b) in response to a court order, subpoena, discovery request, or other lawful judicial or administrative proceeding, (c) as otherwise required under any applicable law, rule, or regulation, and (d) in good faith, to protect or defend the rights or property of Freshbooks and other users.
+Legal Requests; Emergencies. FreshBooks may disclose your personal information (a) to any governmental authority as part of an investigation to determine our compliance with any applicable law, rule, or regulation (including privacy laws, rules, and regulations), (b) in response to a court order, subpoena, discovery request, or other lawful judicial or administrative proceeding, (c) as otherwise required under any applicable law, rule, or regulation, and (d) in good faith, to protect or defend the rights or property of FreshBooks and other users.
 
 ### Your Use of Other Persons’ Information
 
@@ -107,6 +107,7 @@ We may update this privacy statement to reflect changes to our information pract
 It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at:  
 FreshBooks  
 privacy@freshbooks.com  
-2770 Dufferin Street, Suite 201  
-Toronto, ON M6B 3R7 Canada  
+35 Golden Ave, Suite 105  
+Toronto, ON  
+M6R 2J5 Canada  
 
