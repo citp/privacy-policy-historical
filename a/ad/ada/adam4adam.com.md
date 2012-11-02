@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513014657id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102055027id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
 
 # Adam4Adam - Free online dating & hookup, gay, chat, cam
 
@@ -31,8 +31,8 @@ This credit card information is gathered to bill customers for services purchase
 **Community Tools**  
 Adam4Adam provides many venues for member interaction and community. In some cases use of such tools (e.g., chat rooms) may reveal a user's member name or e-mail address and may permit users to publish certain personal information on the Adam4Adam Site. In all cases, users affirmatively choose to expose or place this information in public areas (e.g. profile page) of the Adam4Adam Site, and thereby agree that such information may be viewed by or forwarded to anyone. Users who do not want this information to be publicly available should not post in public areas of the Adam4Adam Site. 
 
-**Adam4Adam Profiles and PRO ads**  
-Adam4Adam permits users to submit adult-oriented personal information for use in the Adam4Adam Profile and PRO ad services. This information is also stored for the purposes of member self-publishing and interaction and to customize the user's Adam4Adam site experience. By registering for Adam4Adam Profiles or PRO ad and submitting your user information, you understand that the information provided in the profie or PRO ad, including your photograph, may be forwarded by members to other members and to persons who are not members. Adam4Adam will not knowingly collect Profile or PRO ad information from those under the age of 18. 
+**Adam4Adam Profiles and ProAds**  
+Adam4Adam permits users to submit adult-oriented personal information for use in the Adam4Adam Profile and ProAd services. This information is also stored for the purposes of member self-publishing and interaction and to customize the user's Adam4Adam site experience. By registering for Adam4Adam Profiles or ProAd and submitting your user information, you understand that the information provided in the profie or ProAd, including your photograph, may be forwarded by members to other members and to persons who are not members. Adam4Adam will not knowingly collect Profile or ProAd information from those under the age of 18. 
 
 **Member Feedback**  
 Adam4Adam stores feedback members send to us. This feedback is used to administer and refine the Adam4Adam Site and associated services and at times may be shared with Adam4Adam partners either in aggregate form or individually with specific identifying characteristics about the Member (e.g., e-mail address or name) removed. 
