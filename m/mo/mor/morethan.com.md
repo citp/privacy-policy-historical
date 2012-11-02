@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521020506id_/https%3A//www.morethan.com/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102101401id_/http%3A//www.morethan.com/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MORE TH>N Car, Home, Pet, Breakdown, Life and Travel Insurance quotes online from Royal & SunAlliance – Legal Stuff
 
@@ -116,11 +116,11 @@ It is vital that the MID holds your current registration number. If it is incorr
 
 You can check that your correct registration number details are shown on the MID at [www.askmid.com](http://www.askmid.com/)
 
-## Cookie policy
+## Cookies
 
 Cookies are small text files placed on your computer and are commonly used on the internet. There are various types of cookies which perform different functions, such as remembering which items you have placed in your shopping basket or analysing your browsing behaviour to enable advertisers to present you with adverts more relevant to you and your interests. 
 
-For more information about cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20120521020506id_/https%3A//www.morethan.com/Pages/Legal/www.allaboutcookies.org). 
+For more information about cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20121102101401id_/http%3A//www.morethan.com/Pages/Legal/www.allaboutcookies.org). 
 
 ## Accepting or rejecting cookies
 
@@ -131,7 +131,7 @@ We use cookies to:
   * Collect information that will help us to distinguish visitors, to understand visitors’ browsing habits on our website and to improve their experience.
   * Compile statistical reports on website activity e.g. numbers of visitors and the pages they visit
   * Collect information that will allow us to tailor advertising to make it more relevant for you, based on your previous interactions with our website.
-  * Remember information about you when you visit our site. Some of the cookies are essential in order to provide our services to you.
+  * Remember information about you when you visit our site. **Some of the cookies are essential in order to provide our services to you.**
 
 
 
