@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505044436id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102194809id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smashing Lists
-
-## Privacy Policy
 
 **Personal Information**  
 As with most other websites, we collect the data you provide to us when you visit or post a comment to our site. This information may include your name, your email address, your IP address, your ISP, the browser you used to visit our site (such as Internet Explorer, Chrome, Safari or Firefox), the time you visited our site and which pages you visited throughout our site. Your personal information will never be released, sold, or rented to any entities or individuals outside smashinglists.com.
@@ -14,5 +12,3 @@ beacons when they advertise on our site. Google, through their Adsense Program, 
 **Third Party Companies**
 
 Third party companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
-
-﻿
