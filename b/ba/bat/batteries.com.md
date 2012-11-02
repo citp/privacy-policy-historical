@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513035129id_/http%3A//www.batteries.com/_/N-/Ntt-Privacy%2BPolicy/Ntk-All) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102193708id_/http%3A//www.batteries.com/_/N-/Ntt-Privacy%2BPolicy/Ntk-All) for the most accurate reproduction.*
 
 # Notebook Batteries | Laptop Batteries | Camcorder Batteries | Digital Camera Batteries
 
