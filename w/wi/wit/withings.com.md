@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withings.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512163418id_/http%3A//www.withings.com/en/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withings.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102184640id_/http%3A//withings.com/en/index/privacy) for the most accurate reproduction.*
 
 # Withings - Privacy
 
