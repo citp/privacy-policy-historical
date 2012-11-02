@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interestings.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510050039id_/http%3A//www.interestings.net/%3Fpage_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interestings.net privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102024710id_/http%3A//www.interestings.net/%3Fpage_id%3D37) for the most accurate reproduction.*
 
 # Privacy Policy
 
