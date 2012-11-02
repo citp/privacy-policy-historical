@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602174216id_/http%3A//www.shopkitson.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102135817id_/http%3A//www.shopkitson.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# ShopKitson.com - The Online Store For The Famous Kitson Boutique
+# ShopKitson - Privacy
 
 Kitson is committed to respecting and protecting your privacy by adhering to five foundational principles: Notice, Choice, Access, Security, and Enforcement. By using our web site, you consent to the collection and use of certain information by Kitson, as set forth in this Privacy Policy. This Privacy Policy covers our treatment of Personal Information (defined below) that we collect when you are on our web site. This policy also covers our treatment of any Personal Information that our business partners, if any, share with us. This Privacy Policy only governs your use of our web site. This Privacy Policy does not apply to the practices of companies that Kitson does not own or control, or to people that Kitson does not employ or manage.
 
@@ -42,4 +42,4 @@ Kitson reserves the right, at our discretion, to change, modify, add, or remove 
 
  **Contacting Kitson**
 
-You can contact [Kitson](https://web.archive.org/web/20120602174216id_/http%3A//www.shopkitson.com/index.php?page=service) via e-mail to request that we update your Personal Information. If you believe that Kitson has failed to adhere to this Privacy Policy, please contact Kitson at: [info@shopkitson.com](mailto:info@shopkitson.com).
+You can contact [Kitson](https://web.archive.org/web/20121102135817id_/http%3A//www.shopkitson.com/index.php?page=service) via e-mail to request that we update your Personal Information. If you believe that Kitson has failed to adhere to this Privacy Policy, please contact Kitson at: [info@shopkitson.com](mailto:info@shopkitson.com).
