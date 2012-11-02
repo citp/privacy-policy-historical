@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601175132id_/http%3A//www.inin.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102181836id_/http%3A//www.inin.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Interactive Intelligence
+
+#### Interactive Intelligence Group, Inc. Privacy Policy 
 
 Dear Internet website visitor (“you”):
 
 Thank you for your interest in Interactive Intelligence Group, Inc. (“Interactive Intelligence”). This Privacy Policy describes Interactive Intelligence’s privacy policy with regard to our Internet website located at [http://www.inin.com](http://www.inin.com/) or any successor Internet website thereto (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
 
 Interactive Intelligence treats your visit to our Site as we would treat any other interaction with our valued customers and prospective customers: as a private matter between you and Interactive Intelligence. We want you to know up front how we deal with any personally identifiable information you see fit to provide to us during our interactions with you. Therefore, this Privacy Policy will answer the following questions. 
+
+  1. What personally identifiable information is collected from you and how will it be used?
+  2. What information may be gathered from children?
+  3. What cookies are and how they are used?
+  4. Who should you contact if you have any questions concerning this Privacy Policy?
+
+
 
 * * *
 
