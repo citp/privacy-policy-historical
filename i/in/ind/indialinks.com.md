@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indialinks.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510075357id_/http%3A//www.indialinks.com/legal/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialinks.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102224359id_/http%3A//www.indialinks.com/legal/privacy_statement.php) for the most accurate reproduction.*
 
 # India's leading .IN & ICANN accredited Domain Registrar & Web Hosting Company
 
