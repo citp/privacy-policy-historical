@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the megacasino.com privacy policy that was archived on 2012-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120415185315id_/http%3A//www.megacasino.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the megacasino.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102045749id_/http%3A//www.megacasino.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MegaCasino.com - slots, video slots, roulette, video poker, blackjack</title>
@@ -10,9 +10,54 @@
 <meta name="robots" content="index, follow">
 <meta name="GOOGLEBOT" content="index, follow">
 
-
-<script language="javascript" type="text/javascript" src="http://www.megacasino.com/js/clickscount.js"></script>
 <script language="javascript" type="text/javascript">
+
+function OpenInstantPlay() {
+
+	//window.location.href = "download.asp";
+
+	
+	var y = window.screen.width - 10;
+	var x = window.screen.height - 50;
+	var sb = "no";
+	if (window.screen.width<1281)
+	{
+	 sb = "yes";
+	}
+	
+	if (document.getElementById("downloadCount"))
+	{
+		document.getElementById("downloadCount").innerHTML="<img src='http://www.megacasino.com/downloadcount.inc.asp?AFFID=170001&subid=0&prc=0&ActionID=100' border='0' width='1' height='1'>";
+	}
+
+    window.open("http://www.megacasino.com/instant-play.html?m_Lang=1",'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
+	
+  
+}
+
+function OpenInstantPlayLP(langID) {
+
+	//window.location.href = "download.asp";
+
+	
+	var y = window.screen.width - 10;
+	var x = window.screen.height - 50;
+	var sb = "no";
+	if (window.screen.width<1281)
+	{
+	 sb = "yes";
+	}
+	
+	if (document.getElementById("downloadCount"))
+	{
+		document.getElementById("downloadCount").innerHTML="<img src='http://www.megacasino.com/downloadcount.inc.asp?AFFID=170001&subid=0&prc=0&ActionID=100' border='0' width='1' height='1'>";
+	}
+
+	if (langID==""){langID = 1;}
+    window.open("http://www.megacasino.com/instant-play.html?m_Lang="+ langID +"",'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
+	
+  
+}
 
 var current_lang = 'en';
 
@@ -67,14 +112,54 @@ function count_dl_full(){
 	function StartDownload(URL,AFFID)
 	{
 		
-		window.location.href = URL;
+		var userAgent = 'ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)';
+        this.ua = userAgent.toLowerCase(); 
 		
-		if (document.getElementById("downloadCount"))
-			{
-				document.getElementById("downloadCount").innerHTML="<img src='http://www.megacasino.com/downloadcount.inc.asp?AFFID=170001&subid=0&prc=0' border='0' width='1' height='1'>";
-			}
+		// platform / os
+        if( this.ua.indexOf('mac') != -1 ) 
+        { 
+
+			OpenInstantPlay();
+        }
+		else
+		{
+		
+			window.location.href = URL;
 			
-		download_pixel();
+			if (document.getElementById("downloadCount"))
+				{
+					document.getElementById("downloadCount").innerHTML="<img src='http://www.megacasino.com/downloadcount.inc.asp?AFFID=170001&subid=0&prc=0' border='0' width='1' height='1'>";
+				}
+				
+			download_pixel();
+		}	
+		
+	}
+	
+	function StartDownloadLP()
+	{
+		
+		
+		var userAgent = 'ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)';
+        this.ua = userAgent.toLowerCase(); 
+		
+		// platform / os
+        if( this.ua.indexOf('mac') != -1 ) 
+        { 
+
+			OpenInstantPlay();
+        }
+		else
+		{
+			window.location.href = "http://download.skillonnet.com/download?aname=170001&prod_id=3&skid=megacasino&zone_id=0P1R0C10";
+			
+			if (document.getElementById("downloadCount"))
+				{
+					document.getElementById("downloadCount").innerHTML="<img src='http://www.megacasino.com/downloadcount.inc.asp?AFFID=170001&subid=0&prc=0' border='0' width='1' height='1'>";
+				}
+				
+			download_pixel();
+		}	
 		
 	}
 	
@@ -277,6 +362,19 @@ function getParameterByName(name) {
 
 <script>
 $(document).ready(function() {
+
+
+
+	
+	if (readCookie('df') != '1') {
+		//document.getElementById("mycookie2").src="http://www.megacasino.com/fcookie.html?aname=170001&zoneid=0P1R0C10&dynid="+ Math.random()*10 +"&skin=megacasino";
+		document.getElementById("mycookie2").src="http://www.megacasino.com/fcookie.html?aname=170001&zoneid=0P1R0C10&dynid=0P1R0C10&skin=megacasino";
+		createCookie('df','1',3);
+	}
+
+
+
+
     if (readCookie('main_pop') != '1') {
         var test = getParameterByName('test');
         var xlang = getParameterByName('lang');
@@ -307,8 +405,9 @@ $(document).ready(function() {
 
 
 </head><body><div id="downloadCount" style="display:none;"></div>
-<div id="cnt1" style="display:none;"></div>
-<iframe src="" id="GC_pixel" width="1" height="1" frameborder="0" scrolling="no"></iframe>
+<div id="cnt1" style="display:none;">megacasino.com</div>
+<iframe src="" id="GC_pixel" width="1" height="1" frameborder="0" scrolling="no" style="display:none;"></iframe>
+<iframe src="" id="mycookie2" width="1" height="1" frameborder="0" scrolling="no"></iframe>
 <link rel="SHORTCUT ICON" href="http://www.megacasino.com/MegaCasinoIcon.png">
 <link rel="stylesheet" href="http://www.megacasino.com/style/default.css" type="text/css">
 
@@ -322,9 +421,6 @@ $(document).ready(function() {
 <div class="wrap wrap_inner">
 
 
-
-
-
 <div class="wrap_in">
 
 	<div class="top">
@@ -333,7 +429,7 @@ $(document).ready(function() {
 
 		<ul>
 			<li><a href="http://www.megacasino.com/">Home</a></li>
-			<li><a href="download.asp">Download</a></li>
+			<li><a href="javascript:StartDownload('http://download.skillonnet.com/download?aname=170001&amp;prod_id=3&amp;skid=megacasino&amp;zone_id=0P1R0C10');">Download</a></li>
 			<li><a href="vip.asp">VIP</a></li>
 			<li><a href="help.asp">Help</a></li>
 			<li><a href="Promotions.asp">Promotions</a></li>
@@ -410,32 +506,15 @@ $(document).ready(function() {
 <div class="sidebar">
 	<div class="sep3">&nbsp;</div>
 	<ul class="buttons_alt">
-	<li><a class="but_alt_blank but_alt_download font white" href="download.asp">Download now</a></li>
-	<li><a class="but_alt_blank but_alt_play font" href="download.asp">Instant play</a></li>
+	<li><a class="but_alt_blank but_alt_download font white" href="javascript:StartDownload('http://download.skillonnet.com/download?aname=170001&amp;prod_id=3&amp;skid=megacasino&amp;zone_id=0P1R0C10');">Download now</a></li>
+	<li><a class="but_alt_blank but_alt_play font" href="javascript:OpenInstantPlay();">Instant play</a></li>
 	</ul>
 
 	<div class="sep4">&nbsp;</div>
 
 	<div class="h3 font">Jackpots</div>
 	<div class="sep1">&nbsp;</div>
-	<ul class="list">
-	<li>
-	<span class="icon icon_35">
-		<a href="#"><img src="http://www.megacasino.com/style/data/genie_small.png" alt="icon" height="35" width="60"> Millionaire Genie</a><br>
-		<span class="white">€<span id="jackpot1">263,312.74</span></span>
-	</span>
-	</li>
-
-	<li>
-		<span class="icon icon_35">
-			<a href="#"><img src="http://www.megacasino.com/style/data/good_evil_small.png" alt="icon" height="35" width="60"> Good &amp; Evil</a><br>
-			<span class="white">€<span id="jackpot2">260,564.52</span></span>
-		</span>
-	</li>
-</ul>
-
-<input type="hidden" name="total1" id="total1" value="263312.74">
-<input type="hidden" name="total2" id="total2" value="260564.52">
+	<ul class="list"><li><span class="icon icon_35"><a href="#"><img src="../style/data/genie_small.png" alt="icon" height="35" width="60"> Millionaire Genie</a><br><span class="white">€<span id="jackpot1">596,773.92</span></span></span></li><li><span class="icon icon_35"><a href="#"><img src="../style/data/good_evil_small.png" alt="icon" height="35" width="60"> Good &amp; Evil</a><br><span class="white">€<span id="jackpot2">281,636.65</span></span></span></li></ul><input type="hidden" name="total1" id="total1" value="596773.92"><input type="hidden" name="total2" id="total2" value="281636.65">
 	
 	
 
@@ -445,6 +524,7 @@ $(document).ready(function() {
 	<div class="h3 font">Today</div>
 
 	<a onclick="javascript:OpenPopupV('Calendar.html',700,700);return false;" class="link icon icon_35"><img src="style/data/calendar.png" alt="icon" height="35" width="60"><span class="link_in">Check out our calendar</span></a>
+
 
 </div><!-- sidebar -->
 
@@ -474,17 +554,18 @@ IncreaseJackpot2();
 	<div class="footer_h">Mega Casino</div>
 	<div class="footer_t">Mega casino is an innovative online casino featuring a large variety of Casino and Instant Win games. To begin playing, you simply need to download and install our software. Mega Casino is available anytime and from anywhere! We offer the best Vegas Style casino games: including several Blackjack games, variations of Roulette, plus Slot Machines, Baccarat, Video Poker and Craps. We are always offering Instant Cash Payouts, MEGA JACKPOTS and huge Progressive Jackpots. At Mega Casino we cater to all types of players; whatever your budget or level of experience we have exactly the right games and options. Check out our fantastic casino promotions or contact our 24/7 Casino Support Staff directly for further details. Get started today and join our regular players from all around the world; enjoy our top quality casino software, and fun and exciting games</div>
 	<ul class="footer_logos">
-		<li><a title="skillonnet" href="http://www.skillonnet.com/" target="_blank"><img src="style/logos/01.png" alt="SkillOnNet" height="36" width="105"></a></li>
-		<li><img src="style/logos/WebMoney_Accept.png" alt="WebMoney"></li>
-		<li><a title="WebMoney Verified" href="https://passport.webmoney.ru/asp/certview.asp?wmid=462153090810" target="_blank"><img src="style/logos/WebMoney_Verified.png" alt="WebMoney"></a></li>
-		<li><img src="style/logos/02.png" alt="cashier" height="36" width="57"></li>
-		<li><a href="http://www.lga.org.mt/lga/home.aspx" target="_blank"><img src="style/logos/03.png" alt="lga" height="36" width="152"></a></li>
-		<li><img src="style/logos/04.png" alt="iTech Labs" height="36" width="104"></li>
-		<li><img src="style/logos/05.png" alt="18" height="36" width="31"></li>
-		<li><img src="style/logos/06.png" alt="secure" height="36" width="74"></li>	
+		<li><a title="skillonnet" href="http://www.skillonnet.com/" target="_blank"><img src="http://www.megacasino.com/style/logos/01.png" alt="SkillOnNet" height="36" width="105"></a></li>
+		<li><img src="http://www.megacasino.com/style/logos/WebMoney_Accept.png" alt="WebMoney"></li>
+		<li><a title="WebMoney Verified" href="https://passport.webmoney.ru/asp/certview.asp?wmid=462153090810" target="_blank"><img src="http://www.megacasino.com/style/logos/WebMoney_Verified.png" alt="WebMoney"></a></li>
+		<li><img src="http://www.megacasino.com/style/logos/02.png" alt="cashier" height="36" width="57"></li>
+		<li><a href="http://www.lga.org.mt/lga/home.aspx" target="_blank"><img src="http://www.megacasino.com/style/logos/03.png" alt="lga" height="36" width="152"></a></li>
+		<li><img src="http://www.megacasino.com/style/logos/04.png" alt="iTech Labs" height="36" width="104"></li>
+		<li><img src="http://www.megacasino.com/style/logos/05.png" alt="18" height="36" width="31"></li>
+		<li><img src="http://www.megacasino.com/style/logos/06.png" alt="secure" height="36" width="74"></li>	
 	</ul>
 	<div class="footer_t">MegaCasino.com is operated by Skill On Net Limited which is licensed by the Lotteries and Gaming Authority of Malta (LGA) under license number<br> LGA/CL1/563/2009</div>
-	<div class="footer_t">V3.0.0</div>
+	<div class="footer_t">Clicking on the download button will lead to the installation of Windows compatible casino software on your PC of around 10 MB, which will enable you to register and play on platform. The application can be uninstalled completely cleanly using the normal remove programs options in Windows platform. No functions of the software will remain after an uninstallation.</div>
+	<div class="footer_t">V3.0.2</div>
 
 </div><!-- footer -->
 
