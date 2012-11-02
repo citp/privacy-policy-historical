@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501102641id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102211244id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
 
-# SilkFred - The destination for emerging designers
+# SilkFred - The Online Destination for Emerging Designers
 
-### November 2011
+### May 2012 1.1
 
-**Silk Fred Limited** (the Company) is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can at www.SilkFred.com and our associated web and mobile applications (the Website).
+**Silk Fred Limited** of 80-86 Old Street, London EC1V 9AZ (the Company) is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can at www.SilkFred.com and our associated web and mobile applications (the Website). 
 
 Please read the following Privacy Policy (which forms part of the Terms for the Website) to understand how your personal information will be treated by us. 
 
@@ -50,7 +50,7 @@ Some websites that have links from our Website may from time to time collect per
 
     1. We do not store credit card details.
 
-    2. We share customer details with any third parties unless you have authorised us to do so.
+    2. We do not share customer details with any third parties unless you have authorised us to do so.
 
     3. The main reasons we collect personal information from you is to enable you to sell and/or purchase products from the Website, enable you to register on, and use, the Website, to keep you informed about activity on your account and regular updates regarding the Website and the services/ functions it provides and provide you with a customised experience on the Website. Any information we collect will be used by us strictly in accordance with current data protection legislation and this Privacy Policy. We will store the information we collect from you and hold it on our computers or otherwise.
 
@@ -64,7 +64,7 @@ Some websites that have links from our Website may from time to time collect per
 
       2. We may contact you for such marketing purposes by email, text message and other electronic messages such as picture messaging.
 
-    7. If you ever wish to stop receiving communications from us, you will have the option to unsubscribe from such communications (usually at the bottom of the page/message containing the communication). You can also unsubscribe from receiving communications by logging in and choosing the relevant option on the Website.
+    7. You can also unsubscribe from receiving communications by logging in to the Website, choosing the "My Account" option and then setting your email preferences in "Email Alerts" section.
 
   6. **With whom do we share your information and for what purpose?**
 
@@ -106,7 +106,7 @@ To change your registered details on our Website, log in to the Website by enter
 
   13. **Contact us**
 
-If you have any comments or queries in connection with our Privacy Policy, please contact us.
+If you have any comments or queries in connection with our Privacy Policy, please contact us at [hello@silkfred.com](mailto:hello@silkfred.com).
 
 
 
