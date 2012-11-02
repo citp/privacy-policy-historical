@@ -1,6 +1,30 @@
-> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628100712id_/http%3A//www.tokbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102064751id_/http%3A//www.tokbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TokBox
+
+Manage your projects, view usage, upgrade and more
+
+Need an account? Sign up
+
+Enter your registered email and we will send you instructions
+
+Back to Login
+
+Get started building right away by signing up
+
+Already have an account? [Login]()
+
+Instructions on how to reset your password have been sent to
+
+email@example.com
+
+Didn't get the email? Resend
+
+A confirmation email has been sent to
+
+email@example.com
+
+Click on the confirmation email to verify you are who you say you are.
 
 TokBox, Inc. (the “Company”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company’s website at http://www.tokbox.com (the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
