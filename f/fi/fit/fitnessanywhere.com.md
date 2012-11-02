@@ -1,49 +1,79 @@
-> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118085108id_/http%3A//www.trxtraining.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102175907id_/http%3A//www.trxtraining.com/privacy-policy) for the most accurate reproduction.*
 
-# TRX Training Privacy policy disclose the privacy practices at our websites including www.trxtraining.com
+# Privacy Policy
 
-This privacy notice discloses the privacy practices for [www.trxtraining.com]().
+Fitness Anywhere, LLC ("Fitness Anywhere") respects your privacy, and is committed to reasonable measures to safeguard personally identifying information you may share with us.
 
-This privacy notice applies solely to information collected by this web site.
+Fitness Anywhere's Privacy Policy (hereinafter referred to as "The Policy") is designed to help you understand how we collect and use the information you decide to share, and help you make informed decisions when providing personally identifying information to Fitness Anywhere as a visitor or registered user at [www.trxtraining.com](http://www.trxtraining.com/).
 
-It will notify you of the following:
+If you have questions or concerns regarding The Policy, you should first contact us at [privacy@trxtraining.com](mailto:privacy@trxtraining.com).
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+###  What Information Do We Collect?
 
+We only have access to collect information that you voluntarily give us via email or other direct contact from you. We are the sole owners of the information collected on [www.trxtraining.com](http://www.trxtraining.com/). We will not sell or rent this information to anyone other than as permitted by The Policy, or specifically authorized by you.
 
+If you choose to register with us and create a user profile you are required to enter your name, email, and create a password. Additionally, you have the option of providing us with birthday, gender, creating a screen name, or storing your billing payment information as well as shipping address.
 
-##### Information Collection, Use, and Sharing
+Guest users are only required to provide as much information as is reasonably necessary to complete any transaction for which they have initiated, including an email address, billing, and shipping information. However, unlike a registered user who may opt to have billing and shipping information stored, guest users billing and shipping information will not be stored and will only be used for purposes of completing the transaction for which it was provided.
 
-We are the sole owners of the information collected on this site. We only have access to collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We will be using browser session data to store your shopping cart as well as your session while you browse the site. Your data will be stored only for that browser session. However, if you have logged in as registered user, then your activities will be saved by browser session and stored on the server with a session ID.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+Like many companies, we monitor the use of the website by collecting aggregate information. No personally identifiable data are collected in this process. Typically, such information comprises customer demographics, traffic patterns, sales, and site usage. This information is used for our commercial purposes, including to improve usability, performance and effectiveness of the website.
 
-We may share non-personal, aggregate information regarding customer demographics, traffic patterns, sales, and site usage with our partners, advertisers or sponsors. We will never willfully disclose personally identifiable information about our customers to any third party without prior consent.
+In some instances, we may collect aggregate data through cookies and similar files. The majority of web browsers accept cookies and similar files, but you can usually change the browser settings to prevent this. However, if you do so, some functionality of [www.trxtraining.com](http://www.trxtraining.com/) may be impaired or lost, particularly any site customization features.
 
-In special cases Fitness Anywhere may believe it is necessary to disclose personally identifiable information in order to identify, contact or bring legal action against someone who may be violating or causing injury to or interference with Fitness Anywhere's rights or property, other users, or any other party that could be harmed by such activities. We may also disclose or access personally identifiable information when we believe in good faith that the law requires it.
+Our website may provide links to third-party websites that are outside of our control and not covered by The Policy, e.g. [Facebook®](http://www.facebook.com/about/privacy/) and [Twitter®](http://twitter.com/privacy). We encourage you to review the privacy policies posted on these (and all) sites to learn about those sites policies and practices with respect to your personally identifying information.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+Any improper collection or misuse of personally information provided to Fitness Anywhere may be a violation of The Policy and should be reported to [privacy@trxtraining.com](mailto:privacy@trxtraining.com).
 
-##### Your Access to and Control Over Information
+###  How is the information obtained by Fitness Anywhere used?
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+Whether you visit [www.trxtraining.com](http://www.trxtraining.com/) as a guest or register as a user and create a profile, your information is used to provide the service or transaction you requested.
 
-  1. See what data we have about you, if any.
-  2. Change/correct any data we have about you.
-  3. Have us delete any data we have about you.
-  4. Express any concern you have about our use of your data.
+We may share your personally identifiable information with authorized third-parties agents or contractors in order to provide a requested service or transaction. For example, if we need to ship something to you, we must share your name and address with a shipping company.
 
+Any comments, statuses, updates, +1, tweets, etc that you voluntarily share on a Fitness Anywhere social media page may appear on [www.trxtraining.com](http://www.trxtraining.com/) in the scrolling bar that shows activity on our pages or profiles.
 
+We may collect and share personally identifiable information when we have a good faith belief that access, use, or disclosure of such information is reasonably necessary to satisfy any applicable law, rule, regulation, or enforceable governmental or administrative request, enforce our applicable Terms of Service, including investigation of potential violations, detect, prevent, or address fraud, security or technical issues, or protect against harm to the rights, property or safety of Fitness Anywhere, our users or the public.
 
-##### Security
+Our use of information other than for the purpose of completing a requested transaction or service is on an opt-in basis. This means that you will not receive communications from us regarding, for example, specials, new products or new services, unless you have given us affirmative permission to receive such communications.
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+###  How are the Privacy Rights of younger users treated?
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+Our web sites do not target and are not intended to attract children under the age of 13. We do not knowingly collect information from or about children under the age of 13. [Child Online Privacy Protection Act](http://www.ftc.gov/ogc/coppa1.htm).
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+###  How your information may be shared with advertisers or other Third Parties?
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 888-878-5348 or via[email](mailto:customerservice@fitnessanywhere.com).**
+We provide such information to our subsidiaries and affiliated companies who may render services with us or on our behalf. We may also provide such information to other trusted business partners of ours who process information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with The Policy and any other appropriate confidentiality and security measures. We may share non-personal, aggregate information regarding customer demographics, traffic patterns, sales, and site usage with our partners, advertisers or sponsors. We may offer some services on or in collaboration with other Internet web sites. Personally identifiable information that you provide to those third-party sites may be sent to us so that we can deliver the requested service. We process such information under The Policy. Similarly, we may provide access to third party applications, such as gadgets or extensions, through our website. Any information when you enable such a third party application is processed under The Policy. Any information collected by a third party application provider is governed by their privacy policies. Except as stated elsewhere in The Policy, we will not disclose personally identifiable information about our users to any third party without your prior consent.
+
+###  How is personal information changed or removed?
+
+You may contact us any time at [privacy@trxtraining.com](mailto:privacy@trxtraining.com) to request any of the following: 1) see what personally identifiable information we have about you, if any, 2) change or correct any personally identifiable information we have about you, 3) have us delete any personally identifiable information we have about you, 4) express any concern you have about our use of your personally identifiable information. It is not technologically possible to change or delete each and every instance of the information we hold on you from our systems, and data may remain in non-erasable or aggregate form. We may retain data for a period in our backup or temporary systems. We may also retain some information for longer periods as required by law, contract, or auditing requirements.
+
+###  What is Fitness Anywhere's Security?
+
+We store your personal data on a secure server that is password protected and shielded from the outside world by a firewall. We have in place policies that are intended to ensure, as far as possible, the security and integrity of all our information, including your personally identifying information. However, no system or information can ever be fully protected against every possible hazard. As a result, we cannot ensure or warrant the security or privacy of any information you provide to us and, accordingly, you do so at your own risk.
+
+Whenever we collect particularly sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, looking for "https" at the beginning of the address of the web page, or referring to the web badge that insures [www.trxtraining.com](http://www.trxtraining.com/) uses [VeriSign® services](https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.FITNESSANYWHERE.COM&lang=en).
+
+###  How will you know of changes to The Policy?
+
+We may change The Policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version. The Policy was last updated March 15, 2012.
+
+###  Does Fitness Anywhere follow the requirements of the US Department of Commerce EU Data Protection Safe Harbor Framework?
+
+Yes. We collect and use personal information from the European Union according to the Policy and in adherence to the [safe harbor framework](http://export.gov/safeharbor/) developed by the United States Department of Commerce in coordination with the [European Commission for protecting personal data](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) from the EU.
+
+###  What about the rights of those in Fitness Anywhere's Home base, California?
+
+Residents of the State of California have the right to request a list of all third parties to which Fitness Anywhere has disclosed certain information during the preceding year for the third parties' direct marketing purposes.
+
+However, it is our policy to neither disclose personal information, nor to sell such information to third parties for direct marketing purposes. In the future if The Policy changes in this respect, you have given us your email address to contact you with any material changes, and you are a California resident and want such a list, please contact us at [privacy@trxtraining.com](mailto:privacy@trxtraining.com).
+
+###  How can you contact Fitness Anywhere with inquiries or complaints?
+
+If you have any questions or complaints about The Policy, please contact us at [privacy@trxtraining.com](mailto:privacy@trxtraining.com). You may also contact us by mail at Fitness Anywhere, 755 Sansome St, San Francisco, CA 94111. Complaints will be resolved internally in accordance with our complaints procedures. [If you live in the European Union and efforts to resolve the matter internally are unsatisfactory, the complaint may be submitted to the [American Arbitration Association](http://www.adr.org/aaa/faces/), which has been selected as the independent recourse mechanism to resolve complaints and disputes relating to treatment of data originating in the European Union under this policy.]
+
+References to "we," "us," and "our" references to Fitness Anywhere, LLC and its affiliates.
+
+This Policy does not supersede the [Terms of Use](http://www.trxtraining.com/terms-of-use) that govern your use of the site. Any conflict between the two shall be resolved in favor of the [Terms of Use](http://www.trxtraining.com/terms-of-use).
