@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516123219id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102063810id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT UBM MEDICA LLC
 
 **PRIVACY STATEMENT** **  
 ****UBM MEDICA LLC  
-**_Effective: January 20, 2012   _
+**_Effective: June 11, 2012_
 
-UBM Medica LLC ("UBM Medica") offers conferences, medical information, and related offerings  to medical professionals.  We publish this privacy policy to let you know what data we collect about you as an individual professional, how we use that data, and what choices you have. 
+UBM Medica LLC ("UBM Medica") offers conferences, medical information, and related offerings to medical professionals. We publish this privacy policy to let you know what data we collect about you as an individual professional, how we use that data, and what choices you have. 
 
-This privacy policy covers all "personal" data we collect about you from face to face and virtual conferences and meetings, websites, email campaigns, and print publications. "Personal" data means data which identifies you as an individual and reflects your individual use of our products and services _. It is data about you as a medical professional._ Please note that a separate privacy policy covers our websites directed to consumers. If you are uncertain about which privacy policy applies to a particular website or web page, consult the privacy link at the bottom of the web page.
+This privacy policy covers all "personal" data we collect about you from face to face and virtual conferences and meetings, websites, email campaigns, and print publications. "Personal" data means data which identifies you as an individual and reflects your individual use of our products and services. It is data about you as a medical professional. Please note that a separate privacy policy covers our websites directed to consumers. If you are uncertain about which privacy policy applies to a particular website or web page, consult the privacy link at the bottom of the web page.
 
 Please note that you may choose to publish your personal information and your views in various of our online venues, for example, online communities, forums or virtual events. This Policy does not protect your public disclosures.
 
 **Information We Collect About You** **  
 ** We collect the following data about you:
 
-  * Information you give us about yourself, including data about your professional credentials and practice, when you register for or subscribe to any of our events, services or resources or contact us directly. We may use medical or other databases to update or complete certain information about you. 
+  * Information you give us about yourself, including data about your professional credentials and practice, when you register for or subscribe to any of our events, services or resources, register with us through a UBM Medica Network site or contact us directly. We may use medical or other databases to update or complete certain information about you. 
   * If you are a medical doctor, we may ask the American Medical Association to verify your medical credentials. For more information about the AMA's own privacy practices, please click <http://www.ama-assn.org/ama/pub/footer/privacy-policy.shtml>. 
   * Once you register we create an account for you, adding data about how you use and interact with our events, products, services, resources and email campaigns. 
 
@@ -23,8 +23,8 @@ Please note that you may choose to publish your personal information and your vi
 
 We also use common Internet data collection technologies to collect data: We use "cookies" and associated web beacons. A cookie is simply a piece of code which is placed on your personal computer to recognize the computer as it accesses our websites. Many cookies are not "personal" cookies in that they are not associated with you as an identified individual. 
 
-  * We recognize or verify who is accessing our websites or content areas that require registration and so, may place "personal" cookies on your pc. 
-  * Some but not all of our websites include online advertising. Cookies are also used to serve such advertising or content. We may display ads on our own sites on a personally identifiable basis. We allow other companies, called third party ad servers, to serve ads that appear on our sites as well.  Please see the information under ["Your Choices"](http://imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html#choices) for details about online advertising. 
+  * We recognize or verify who is accessing our websites or content areas that require registration and so, may place "personal" cookies on your pc. We may also use this cookie to understand your interests and put you in touch with third parties that we expect will have additional information relevant to your interests. 
+  * Some but not all of our websites include online advertising. Cookies are also used to serve such advertising or content. We may display ads on our own sites on a personally identifiable basis. We allow other companies, called third party ad servers, to serve ads that appear on our sites as well. Please see the information under ["Your Choices"](http://imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html#choices) for details about online advertising. 
 
 
 
@@ -48,22 +48,22 @@ Finally, we collect log data, including IP, or Internet Protocol, addresses used
 You have a choice about and control over
 
 **Connecting directly with other companies for marketing purposes.  ** **  
-** In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and product information.  When you choose to take advantage of that content or information, you choose to have your name and contact details transferred to that other company.  We will put you in direct contact with other companies when you choose to:
+** In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and product information. When you choose to take advantage of that content or information, you choose to have your name and contact details transferred to that other company. We will put you in direct contact with other companies when you choose to:
 
   * Access sponsored or co-sponsored content on those portions of our web sites that require registration. 
   * Register for a specific web cast, online event, newsletter, online resource, or other offering which is sponsored or co-sponsored by another company. 
-  * Register for a virtual event with a number of exhibitors.  We may give your name and contact details to all exhibitors and give the exhibitors whose booths and resources you access a record of your visits. 
+  * Register for a virtual event with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitors whose booths and resources you access a record of your visits. 
   * Register for or attend a special sponsored sessions at a face to face event. 
 
 
 
-Please note:  Sponsors may ask us to display their ads targeted to you on our web sites.  In those instances, you may choose whether to respond by clicking on the link within the ad.  Clicking on that link will connect you directly to the sponsor’s web pages and information.  
+Please note:  Sponsors may ask us to display their ads targeted to you on our web sites. In those instances, you may choose whether to respond by clicking on the link within the ad. Clicking on that link will connect you directly to the sponsor’s web pages and information.  
 Please note: career fairs, whether face to face or online, may be covered by a separate policy or policies.
 
 **Making information you provide public.    **
 
-  * Our online event venues also require that you register and allow you to have both public and closed communications with exhibitors and other participants.  Information that identifies you will be published or shared according to your choices for that venue.
-  * We create online membership communities that allow you to publish your profile and post  information and content.  These communities provide privacy controls so that you can control how much of your profile and other information to make public or to share with others within the community.  As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.  Your profile will remain visible to the community unless and until you withdraw from the community AND contact the community’s HELP desk to request that your profile be hidden. 
+  * Our online event venues also require that you register and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices for that venue. 
+  * We create online membership communities that allow you to publish your profile and post information and content. These communities provide privacy controls so that you can control how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide. Your profile will remain visible to the community unless and until you withdraw from the community AND contact the community’s HELP desk to request that your profile be hidden.
 
 
 
@@ -90,7 +90,7 @@ To remove your name from our email marketing lists, please follow the directions
 
 
 
-Some but not all of our websites include online ads served by third parties.  We do not control the cookies that other companies and their third party ad servers use to display ads to you on our websites. 
+Some but not all of our websites include online ads served by third parties. We do not control the cookies that other companies and their third party ad servers use to display ads to you on our websites. 
 
   * We currently allow the following third party ad servers to place those ads: DoubleClick ([www.doubleclick.com/privacy/index.aspx](http://www.doubleclick.com/privacy/index.aspx)), Atlas ([www.atlassolutions.com/privacy.aspx](http://www.atlassolutions.com/privacy.aspx)), MediaPlex ([www.mediaplex.com/mojo_privacy_statement.shtml](http://www.mediaplex.com/mojo_privacy_statement.shtml)), Pointroll ([www.pointroll.com/privacy-policy.aspx](http://www.pointroll.com/privacy-policy.aspx)), Eyeblaster ([www.eyeblaster.com/Content.aspx?page=privacy_policy](http://www.eyeblaster.com/Content.aspx?page=privacy_policy)), and Bizo ([www.bizo.com/business_audience/privacy_policy](http://www.bizo.com/business_audience/privacy_policy)). Please visit their websites for more information about the technologies they use, their privacy practices, and the choices each offers. 
   * Many of the third party ad serving companies that serve ads to our websites are members of the Network Advertising Initiative (<http://www.networkadvertising.org/>). The NAI offers useful information and a single place to turn off ad serving from all its members. 
@@ -129,5 +129,5 @@ _[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com)_
 
 UBM Medica LLC  
 General Counsel  
-240 West 35th Street   
-New York, NY  10001
+150 West 30th Street 20th Floor   
+New York, NY 10001
