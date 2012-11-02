@@ -1,0 +1,376 @@
+<!--The following is the downloaded HTML source of the 2epix.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102235050id_/http%3A//www.2epix.com/page/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="language" content="en"> 
+<meta http-equiv="content-language" content="en"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>2epix - Makes Your Day</title>
+<meta name="title" content="2epix - Makes Your Day">
+<meta name="description" content="View, Rate, Submit and Share amazingness. Join us!">
+<meta name="keywords" content="funny,fun,funny blog,funny pics,funny pictures,entertainment,rofl,lol,laugh,share fun,comedy,humor,lols,gag,meme,epix,epic,">
+<base href="http://www.2epix.com/">
+<meta name="copyright" content="http://www.2epix.com/"> 
+<meta name="author" content="2epix.com"> 
+<meta name="revisit-after" content="1 Days"> 
+<meta name="googlebot" content="All"> 
+<meta name="robots" content="All"> 
+<meta name="distribution" content="global"> 
+<meta name="rating" content="general">
+
+
+<link href="css_styles.css" rel="stylesheet" type="text/css" media="all">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js_jquery,jquery.tipsy.js"></script>
+<script language="javascript">
+$(document).ready(function () { 
+	$('.posts img').tipsy({title: 'alt', fade: true, html: true, gravity: 's'});
+	ratingBar();
+	
+	$('.deletepost').bind('click',function(event){
+		if (confirm("Are you sure you want to delete this post?")) {
+		event.preventDefault();
+		$.get(this.href,{},function(response){ });
+		alert("The post has been deleted.");
+		window.location.href = window.location;
+		}
+		return false;
+	});
+	
+	$("#user ul li a").mouseover (function () {
+		if ($(this).hasClass("greentopnav")) {
+			$(this).addClass("greentopnavhover");
+			$(this).find("span").addClass("greentopnavhover");
+		} else {
+			$(this).addClass("bluetopnavhover");
+			$(this).find("span").addClass("bluetopnavhover");
+		}
+	}).mouseout( function(){
+		if ($(this).hasClass("greentopnav")) {
+			$(this).removeClass("greentopnavhover");
+			$(this).find("span").removeClass("greentopnavhover");
+		} else {
+			$(this).removeClass("bluetopnavhover");
+			$(this).find("span").removeClass("bluetopnavhover");
+		}
+	});
+		
+});
+
+function adjustSize(width,height,target) {
+	$(target).addClass("thumbs_done");
+	$(".thumbs_done").css({"width":width+"px","height":height+"px","overflow":"hidden"});
+}
+
+function ratingBar() {
+	var width = $("#rating").width();
+	var id = '';
+	var dataString = 'id='+id+'&width='+width;
+	$.ajax({
+		type: "GET",
+		url: "ratingbar.php",
+		data: dataString,
+		cache: false,
+		success: function(html)
+		{
+			$(".ratingbar").html(html);
+		}
+	});
+
+}
+
+// rating starts here
+
+
+function reportPost() {
+	var id = '';
+	var dataString = 'id='+id;
+	$.ajax({
+		type: "GET",
+		url: "reportpost.php",
+		data: dataString,
+		cache: false,
+		success: function(html)
+		{
+			$("#reportpost").html(html);
+		}
+	});
+
+}
+
+
+
+$(function() {
+
+$(".rate").click(function() {
+
+	var id = $(this).attr("id");
+	var name = $(this).attr("name");
+	var dataString = 'id='+ id + '&do=';
+	var parent = $(".rating");
+	var width = parent.width() - 2;
+	var height = 'auto';
+	var target = ".rating";
+
+	if(name=='thumbs_up') {
+	
+		$(this).fadeIn(200).html();
+			$.ajax({
+				type: "GET",
+				url: "rating.php",
+				data: dataString + 'up',
+				cache: false,
+				success: function(html)
+				{
+					adjustSize(width,height,target);
+					parent.html(html);
+				}
+			});
+		  
+		} else {
+		
+			$(this).fadeIn(200).html();
+			$.ajax({
+				type: "GET",
+				url: "rating.php",
+				data: dataString + 'down',
+				cache: false,
+				success: function(html)
+				{
+					adjustSize(width,height,target);
+					parent.html(html);
+				}
+			});
+		
+		}
+		ratingBar();
+		return false;
+	});
+});
+// rating ends here
+
+
+
+</script>
+
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29127424-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-642a63c7-ae7f-41f8-4730-15bb4609b563"}); </script>
+
+
+</head>
+
+<body>
+<div id="wrapper">
+<div id="fb-root"></div>
+    <div id="header">
+        <div id="headercontent">
+            <div id="logo">
+                <a href="http://www.2epix.com/"><img src="templates/images/logo.png" width="104" height="44" border="0"></a>
+            </div><!-- logo -->
+            
+            <div id="menu" class="topnav">
+                <ul>
+                    <li><a href="http://www.2epix.com/">Latest</a></li>
+                    <li><a href="top/today">Top</a></li>
+					<li><a href="upload/">Upload</a></li> 
+                    <li><a href="random/"><img src="templates/images/random.png" border="0"></a></li>
+                                
+		        </ul>
+            </div><!-- top nav -->
+            
+            <div id="user" class="topnav">
+                <ul>
+                    
+                    <li><a href="user/login/" class="greentopnav">Login<span></span></a></li>
+                    
+                    <li><a href="user/register/" class="greentopnav">Register<span></span></a></li>
+                </ul>
+            </div><!-- top nav -->
+            
+        </div><!-- header content -->
+    </div><!-- header -->
+
+<div id="maincontainer">
+
+	
+
+    <div id="content">
+        
+
+<div id="left">
+
+    <div class="leftbox">
+    
+
+        <h3 class="leftboxheading">Privacy Policy</h3>
+       
+        <p class="textcontent">
+     
+</p><div style="text-align: justify;">Your privacy is very important to us. Accordingly, we have developed
+this Policy in order for you to understand how we collect, use,
+communicate and disclose and make use of personal information. The
+following outlines our privacy policy. Before or at the time of
+collecting personal information, we will identify the purposes for which
+information is being collected. We will collect and use of personal
+information solely with the objective of fulfilling those purposes
+specified by us and for other compatible purposes, unless we obtain the
+consent of the individual concerned or as required by law. We will only
+retain personal information as long as necessary for the fulfillment of
+those purposes. We will collect personal information by lawful and fair
+means and, where appropriate, with the knowledge or consent of the
+individual concerned. Personal data should be relevant to the purposes
+for which it is to be used, and, to the extent necessary for those
+purposes, should be accurate, complete, and up-to-date. We will protect
+personal information by reasonable security safeguards against loss or
+theft, as well as unauthorized access, disclosure, copying, use or
+modification. We will make readily available to customers information
+about our policies and practices relating to the management of personal
+information. We are committed to conducting our business in accordance
+with these principles in order to ensure that the confidentiality of
+personal information is protected and maintained.</div><p style="text-align: justify;"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">IP Address and Log Files</span></p><p style="text-align: justify;">We
+may use your IP address to administer our Website, to help diagnose
+problems with our server, to analyze trends, to track users webpage
+movements, to help identify you and your shopping cart, and to gather
+broad demographic information for aggregate use.</p><p style="text-align: justify;"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">Cookies</span></p><p style="text-align: justify;">1.
+This Website may use a standard technology called a cookie to collect
+information about how you use the Website. Cookies reside on your
+computer and help our Website to recognize your computers browser as a
+previous visitor. This information allows us to customize delivery of
+information. For example, our Website may use cookies to save and
+remember registration information or preferences that you may have set
+while browsing the Website, to keep track of your shopping cart, to
+ensure you do not see the same ad content repeatedly, to deliver content
+specific to your interests, and to save your password so you do not have
+to re-enter it each time you visit our site. We use cookies only to
+gather information as indicated in this policy.</p><p style="text-align: justify;">2. In addition, on
+occasion our site may also set a session cookie which helps us
+administer the Website. The session cookie expires when you close your
+browser and does not retain any information about you after it expires.</p><p style="text-align: justify;">3.
+Finally, we may also use an ad network provider to help present
+advertisements on this website. This ad network provider, like other
+advertising service vendors, uses cookies, web beacons, or similar
+technologies on the hard drive of your computer to serve you
+advertisements tailored to interests you have shown by browsing on this
+and other sites you have visited, and to determine whether you have seen
+a particular advertisement before and to avoid sending you duplicate
+advertisements. In doing so, the provider collects non-personal data
+such as your browser type, your operating system, web pages visited,
+time of visits, content viewed, ads viewed, and other clickstream data.
+The use of cookies, web beacons, or similar technologies by these ad
+network providers is subject to their own privacy policies, not ours.</p>
+
+        <p></p>
+
+
+
+    </div>
+</div>
+    
+<div id="right">
+	
+
+
+
+
+<div class="rightbox">
+	<div id="browse">
+		<h3 class="rightboxheading">Browse More Pictures</h3>
+        <div class="browsepost">
+        	<a href="old-enough_3887.html" title="Old enough"><img src="pictures/sml_9649dec6196d730c5e024f204477d8d1.jpg" border="0"><br>Random</a>
+        </div>
+                
+        <div class="browsepost">
+        	<a href="lol_3176.html" title="Lol..."><img src="pictures/sml_59dfa2df42d9e3d41f5b02bfc32229dd.jpg" border="0"><br>Random</a>
+        </div>
+	</div><!-- browse -->
+</div>
+
+
+<div style="text-align: left" ;="" class="rightbox">
+<font size="4"><strong> Follow us, unless you are a cop.</strong></font>
+<div class="fb-like-box" data-href="https://www.facebook.com/2epix" data-width="300" data-show-faces="false" data-stream="false" data-header="true"></div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+    
+    <div class="clear"></div>
+
+
+        <div class="clear"></div>
+    </div><!-- content -->
+ 
+    <div class="clear"></div>
+    
+</div><!-- main container -->
+    <div class="clear"></div>
+
+</div><!-- wrapper -->    
+<br>
+    <div id="footer">
+    	<div id="footercontent">
+        	<ul style="float:left;">
+            	<li><span>© 2012 &nbsp; 2epix.com</span></li>
+            </ul>
+        	<ul style="float:right;">
+                <li><a href="page/terms.html">Terms Of Use</a></li>
+                <li><a href="page/privacy.html">Privacy Policy</a></li>
+                <li><a href="page/contact.html">Contact</a></li>
+            </ul>
+        </div>
+    	
+    </div><!-- footer -->
+    <div class="clear"></div>
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-53DkzHMShFqFM"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-53DkzHMShFqFM.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+</body></html>
