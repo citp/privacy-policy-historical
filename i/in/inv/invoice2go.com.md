@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invoice2go.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031013id_/http%3A//www.invoice2go.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoice2go.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102022321id_/http%3A//www.invoice2go.com/privacy.aspx) for the most accurate reproduction.*
 
-# Invoice2go - Invoice, Estimate and Business Forms Software - Free-to-try Invoice Software
+# Privacy Policy - Invoice2go
 
 **Effective Date: August 18, 2010**
 
@@ -53,3 +53,5 @@ If Invoice2go should ever sell its assets, merge with another entity or file for
 Invoice2go welcomes your feedback regarding this Privacy Policy. If you have questions, comments, or concerns about either one, please contact us by e-mail at info AT Invoice2go.com. 
 
 Copyright © 2010 Invoice2go Corporation. All rights reserved. 
+
+[](https://twitter.com/#!/Invoice2go) [](http://www.facebook.com/pages/Invoice2go/136569776389164) Follow us for the latest hot-off-the-press news on all things Invoice2go
