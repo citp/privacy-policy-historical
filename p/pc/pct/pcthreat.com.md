@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcthreat.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514075547id_/http%3A//www.pcthreat.com/privacy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcthreat.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102184424id_/http%3A//www.pcthreat.com/privacy-en.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -9,7 +9,3 @@ Any collected personal information, like your name, email address, Instant messe
 Be aware that if you post any personal data on our discussion forum, it may be visible to everyone because search engines are able to grasp the data and keep it for a certain time even if it has been deleted from our servers. You have a right to delete your personal information whenever you wish. In case you would like to remove your account, feel free to contact us.
 
 Our website provides links to other websites. However, we do not take the responsibility for their actions associated with your personal data collection and processing. That is why we advise you to check their privacy policies separately.
-
-[ ](http://www.pcthreat.com/download-sph)
-
-[ ](http://www.pcthreat.com/download-sph)
