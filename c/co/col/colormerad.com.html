@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the colormerad.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625021218id_/http%3A//www.colormerad.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colormerad.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102214948id_/http%3A//www.colormerad.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>Privacy Policy - Color Me Rad - The most colorful 5K you will ever run!</title>
@@ -7,7 +7,7 @@
 <meta http-equiv="description" content="">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/styles/styles.css">
+<link rel="stylesheet" type="text/css" href="/styles/styles-new.css">
 <link rel="stylesheet" type="text/css" href="/styles/fancybox.css">
 <link rel="stylesheet" type="text/css" href="/styles/tabs.css">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
@@ -16,6 +16,17 @@
 <script type="text/javascript" src="/js/ui.core.js"></script>
 <script type="text/javascript" src="/js/ui.tabs.js"></script>
 <script type="text/javascript"> 
+$(document).ready(function()
+  {
+	$.ajax(
+	{
+		url : '/ajaxutils.i?cmd=racelist_footer',
+		success: function(data)
+		{
+			$('#race_columns').html(data);
+		}
+	});
+  });
   $(document).ready(function() {
     $(".fancybox").fancybox({ 
         zoomSpeedIn: 400, 
@@ -86,33 +97,35 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div id="container">
+<div class="container">
   <div id="header">
-    <a href="/"><img src="/images/logo.gif" width="276" height="124" alt="Color Me Rad" id="logo" class="fl-left"></a>
+    <a href="/"><img src="/images/201208logo.png" width="268" height="131" alt="Color Me Rad" id="logo" class="fl-left"></a>
     <div id="topbar" class="fl-right">
-      <div id="register"><a href="/race.html"><img src="/images/btn_register.png" width="280" height="199" alt="Register"></a></div>
       <div id="navigation">
-        <a href="/about.html"><img src="/images/b_about.gif" width="50" height="27" alt="About"></a>
-        <a href="/ecommerce"><img src="/images/b_store.gif" width="47" height="27" alt="Store"></a>
-        <a href="/faq.html"><img src="/images/b_faq.gif" width="33" height="27" alt="FAQ"></a>
-        <a href="/contact.html"><img src="/images/b_contact.gif" width="68" height="27" alt="Contact"></a>
-        <a href="/member/login.i"><img src="/images/b_login.gif" width="44" height="27" alt="Login"></a>
+        <a href="/about.html"><img src="/images/201208nav-about.gif" width="67" height="27" alt="About"></a>
+        <a href="/racemap.i"><img src="/images/201208nav-locations.gif" width="95" height="27" alt="Locations"></a>
+        <a href="/ecommerce"><img src="/images/201208nav-store.gif" width="66" height="27" alt="Store"></a>
+        <a href="/faq.html"><img src="/images/201208nav-faq.gif" width="48" height="27" alt="FAQ"></a>
+        <a href="/blog/"><img src="/images/201208nav-photos.gif" width="58" height="27" alt="Photos"></a>
+        <!--<a href="/contact/contact.i?cmd=qna_form">--><a href="/contact/contact.i?cmd=qna_form" class="a-aqua"><img src="/images/201208nav-contact.gif" width="84" height="27" alt="Contact"></a>
+        <a href="/member/login.i"><img src="/images/201208nav-login.gif" width="64" height="27" alt="Login"></a>
       </div>
-      <div id="colorbar"><img src="/images/navigation_color.gif" width="548" height="2" alt=""></div>
-      <div id="social">
-	 	<a href="http://www.yelp.com/" target="_blank"><img src="/images/social_yelp.gif" width="28" height="28" alt="Yelp"></a>
+      <div id="register"><a href="/racemap.i"><img src="/images/btn_register.png" width="280" height="199" alt="Register"></a></div>
+      <div id="btn-mailinglist"><a href="/contact/contact.i"><img src="/images/201208btn-mailinglist.png" width="169" height="51" alt="Join Mailing List"></a></div>
+	   <div id="social">
         <a href="http://www.pinterest.com/colormerad5k" target="_blank"><img src="/images/social_pinterest.gif" width="28" height="28" alt="Pinterest"></a>
         <a href="http://www.youtube.com/colormerad5k" target="_blank"><img src="/images/social_youtube.gif" width="28" height="28" alt="YouTube"></a>
         <a href="http://www.twitter.com/colormerad5k" target="_blank"><img src="/images/social_twitter.gif" width="28" height="28" alt="Twitter"></a>
         <a href="http://www.facebook.com/colormerad5k" target="_blank"><img src="/images/social_facebook.gif" width="28" height="28" alt="Facebook"></a>
         <div id="facebook"><fb:like href="http://www.facebook.com/colormerad5k" send="false" layout="button_count" width="95" show_faces="false" font="verdana"></fb:like></div>
       </div>
+     <div id="btn-volunteer"><a href="/volunteer.html"><img src="/images/201208volunteer.png" width="165" height="61" alt="Volunteer"></a></div>
     </div>
     <div class="clear"></div>
   </div>
-  
+
   <div id="sidebar" class="fl-left">
-    <div class="sidebar-header"><a href="/race.html"><img src="/images/h_locations.gif" width="236" height="51" alt="Race Locations"></a></div>
+    <div class="sidebar-header"><a href="/racemap.i"><img src="/images/h_locations.gif" width="236" height="51" alt="Race Locations"></a></div>
     <div class="sidebar-box bg-gray">
       <tags>
 <shell> </shell>
@@ -145,17 +158,13 @@
 
 
     </div>
-    
     <div class="sidebar-header"><img src="/images/h_video.gif" width="236" height="51" alt="Our Video"></div>
     <div class="sidebar-box bg-aqua">
       <a href="http://www.youtube.com/embed/F0f1N_uU7uc?version=3&amp;autoplay=1" class="fancybox"><img src="/images/video.jpg" width="212" height="131" alt="Watch the video"></a>
     </div>
-	<div><img src="/images/sidebar-artofrunning.png" width="228" height="210" alt=""></div>
-	<br>
-	<div><img src="/images/sidebar-colorbomb.png" width="228" height="144" alt=""></div>
   </div>
-  
-  <div id="content" class="fl-right">
+
+  <div id="shell-content" class="fl-right">
     <div id="banner">
       <div id="banner-img">
         <div id="banner-overlay">
@@ -164,7 +173,6 @@
         <img src="/images/flosmall.jpg" width="673" alt="">
       </div>
     </div>
-    
     
 <h1>
 	Privacy Policy</h1>
@@ -212,33 +220,42 @@
 	info@colormerad.com</p>
 
 
-
   </div>
-  
   <div class="clear"></div>
-  
-  <div id="second-tier">
-    <div id="mailing-list" class="fl-left"><a href="/contact/contact.i"><img src="/images/btn_mailinglist.png" width="386" height="48" alt="Join our mailing list"></a></div>
-    <div id="login-box" class="fl-right"><a href="/member/login.i"><img src="/images/btn_loginfield.png" width="550" height="48" alt="Login"></a>
-      <div id="login-button"><a href="/member/login.i"><img src="/images/btn_login.png" width="176" height="148" alt="Login"></a></div>
+</div>
+
+<div id="locations-bg">
+  <div class="container">
+    <div id="locations">
+      <img src="/images/201208locations-logo.png" width="204" height="177" alt="The Art of Running - Color Me Rad" id="locations-logo">
+      <a href="/volunteer.html"><img src="/images/201208colorsquad-logo.png" width="215" height="162" alt="Join the Color Bomb Squad" id="locations-cbs"></a>
+      <a href="/blog/"><img src="/images/201208locations-photos2.png" width="130" height="130" alt="Photos" id="locations-photos"></a>
     </div>
-    <br class="clear">
+    <div id="race_columns"></div>
+    <div class="clear"></div>
   </div>
- 
+</div>
+
+<div id="footer-bg">
   <div id="footer">
     <div id="footer-copyright" class="fl-left">
       Copyright © 2012 Color Me Rad. All rights reserved.
-      <br>Our <a href="http://infogenix.com/">Utah Web Design</a> Company &nbsp;|&nbsp; <a href="/privacy-policy.html">Privacy Policy</a>
+      <div id="footer-copylinks"><a href="http://infogenix.com">Infogenix Web Design</a> &nbsp;|&nbsp; <a href="/privacy-policy.html">Privacy Policy</a></div>
     </div>
     <div id="footer-links" class="fl-right">
-      <a href="/about.html" class="a-yellow">About</a>
-      <a href="/ecommerce" class="a-aqua">Store</a>
+      <a href="/about.html" class="a-aqua">About</a>
+      <a href="/racemap.i" class="a-green">Locations</a>
+      <a href="/ecommerce" class="a-yellow">Store</a>
       <a href="/faq.html" class="a-orange">FAQ</a>
-      <a href="/contact.html" class="a-pink">Contact</a>
-			<a href="/waiver.i?cmd=list" class="a-aqua">Waiver</a>
+      <a href="/blog" class="a-pink">Photos</a>
+      <!--<a href="/contact/contact.i?cmd=qna_form" class="a-aqua">Contact</a>-->
+      <a href="/contact/contact.i?cmd=qna_form" class="a-aqua">Contact</a>
       <a href="/member/login.i" class="a-green">Login</a>
-      <a href="/race.html" class="a-yellow">Register</a>
+      <a href="/racemap.i" class="a-yellow">Register</a>
+      <a href="/volunteer.html" class="a-orange">Volunteer</a>
+	  <a href="http://www.colormerad.com/waiver.i?cmd=list" class="a-pink">Waiver</a>
     </div>
+    <div class="clear"></div>	
   </div>
 </div>
 
