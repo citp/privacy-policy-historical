@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625021218id_/http%3A//www.colormerad.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102214948id_/http%3A//www.colormerad.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Color Me Rad - The most colorful 5K you will ever run!
 
