@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510114357id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102073513id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # eRenterPlan - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.erenterplan.com&sealid=101)
 
-LeasingDesk Insurance Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+LeasingDesk Insurance Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 LeasingDesk Insurance Services  
 Attention: Legal – Privacy Policy  
@@ -12,7 +12,9 @@ Attention: Legal – Privacy Policy
 Irvine, CA 92618  
 [privacy@realpage.com.](mailto:privacy@realpage.com)
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+Ph: 888-205-8118
+
+If you are not satisfied with our response you can contact [ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 This website is operated by Multifamily Internet Ventures, LCC (“MIV”), d/b/a LeasingDesk Insurance Services (“LDIS”).  This privacy policy (“Privacy Policy”) applies to the information that you provide to LDIS via the www.eRenterPlan.com Website where this Privacy Policy appears in the footer, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below.
 
@@ -43,7 +45,9 @@ Because of the financial nature of our business, websites operated by LDIS are n
 
 You have control and access to the personal information you provide to LDIS.  The “Update Your Policy Information” area of the website allows you to view, correct, or delete, information collected about you, other than your name and physical address.  LDIS may need to communicate with you regarding critical messages relating to your product or Service (such as service messages, renewal notices, or legally mandated notices).  In addition, if you are required to provide LDIS with your email address, we may use it from time to time to notify you of changes to this Privacy Policy, additional services, confirm transactions, or to provide general information regarding your policy.  If you do not wish to be contacted by email for non-policy related communications from LDIS, you may unsubscribe using the link provided on the email you receive.
 
-The personal information LDIS collects is not shared with non-affiliated third-parties for their marketing, or promotional, use.  Therefore, there is no need to “opt-out” from sharing your personal information.  LDIS may disclose personal information to the following categories of non-affiliated third parties with which LDIS, and its affiliated companies, contract to perform certain functions or services on their behalf:  (i) other financial institutions; (ii) other insurance companies; and (iii) other third-parties, such as your landlord.
+The personal information LDIS collects is not shared with non-affiliated third-parties for their marketing, or promotional, use.  LDIS may disclose personal information to the following categories of non-affiliated third parties with which LDIS, and its affiliated companies, contract to perform certain functions or services on their behalf:  (i) other financial institutions; (ii) other insurance companies; and (iii) other third-parties, such as your landlord.
+
+If you wish to Optout from advertising messages from erenterplan.com, please send an email to [unsubscribe@mail.erenterplan.com](mailto:unsubscribe@mail.erenterplan.com)
 
 When you visit this website, we may store some information on your computer.  This information will be in the form of a “cookie” or similar file and can help us maintain and improve this website in many ways.  A “cookie” is a small amount of data that is transferred to your web browser by a web server and can only be read by the server that gave it to you.  It functions as your identification card, recording such things as Internet address, passwords, and preferences.  It cannot be executed as code or deliver viruses.  This is all done without LDIS knowing your name or other personal information.  When you visit any LDIS website you are anonymous, unless you chose to identify yourself to us.  Some of our business partners may use cookies on our site.  We have no access to or control over these cookies.  This Privacy Policy covers the use of cookies by the www.eRenterPlan.com website only and does not cover the use of cookies by any of our business partners.  With most web browsers, you can erase “cookies” from your computer hard drive, block all “cookies”, or receive a warning before a “cookie” is stored.  Please refer to the “Help” portion of the browser toolbar to learn more about these functions.
 
@@ -76,8 +80,10 @@ Attention:  Legal – Privacy Policy
 Irvine, CA  92618  
 [privacy@realpage.com](mailto:privacy@realpage.com)  
 
+Ph: 888-205-8118
+
 If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url).  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 We may amend this Privacy Policy from time to time.  All amended terms will automatically take effect thirty (30) days after they are initially made and will be made available on the LDIS website.  In addition, we may notify you by email of amended terms to this Privacy Policy if:  (i) you have provided your email address to us; and (ii) you have consented to receive electronic communications from us.
 
-The effective date of this Privacy Policy is:  03/20/2008
+The effective date of this Privacy Policy is:  10/22/2012
