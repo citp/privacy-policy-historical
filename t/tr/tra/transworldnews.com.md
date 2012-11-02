@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517152827id_/http%3A//www.transworldnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102114439id_/http%3A//www.transworldnews.com/Privacy.aspx) for the most accurate reproduction.*
 
-# News and Press release service TransWorldnews
+# TransWorldNews - www.transworldnews.com/privacy.aspx
 
 The privacy policy and statement below cover all websites owned and operated by TransWorldNews, Inc. ("TransWorldNews"). Websites included under "TransWorldNews" include [StockENews.com](http://stockenews.com/), [StockFiling.com](http://stockfiling.com/) and [TWNKeys.com](http://twnkeys.com/). 
 
