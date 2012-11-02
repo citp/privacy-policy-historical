@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refinery29.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630081821id_/http%3A//www.refinery29.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refinery29.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102060030id_/http%3A//www.refinery29.com/privacy) for the most accurate reproduction.*
 
 # R29's Privacy Policy - Your Information Is Protected on Refinery29
 
