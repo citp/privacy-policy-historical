@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 49ers.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603124448id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 49ers.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102053214id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html SYSTEM "about:legacy-compat"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:nflcs="http://clubs.nfl.com" xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://www.nfl.com/2009/pluckApplicationServer"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>49ers.com | Privacy Policy</title><!--ls:begin[stylesheet]--><style type="text/css">.centerComponents
 {
@@ -236,7 +236,19 @@
 #c1242803195017{background-color: transparent;}#c1245841203441{background-color: transparent;}#c1242803195021{background-color: transparent;}#c1242803195020{background-color: transparent;}#c1312276844882{background-color: transparent;}#c1242803195022{background-color: transparent;}#c1242803195024{background-color: transparent;}#c1242803195023{background-color: transparent;}#c1242803195018{background-color: transparent;}#c1242803195019{background-color: transparent;}#c1242803195028{background-color: transparent;}#c1242803195027{background-color: transparent;}#c1302859246272{background-color: transparent;}#c1242803195016{background-color: transparent;}#c1242803195015{background-color: transparent;}</style><!--ls:end[stylesheet]--><!--ls:begin[meta-keywords]--><meta name="keywords" content=""><!--ls:end[meta-keywords]--><!--ls:begin[meta-description]--><meta name="description" content=""><!--ls:end[meta-description]--><!--ls:begin[meta-vpath]--><meta name="vpath" content=""><!--ls:end[meta-vpath]--><meta name="og:title" content="49ers.com | Privacy Policy"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <script type="text/javascript">
     var nflcsAssetPath='http://prod.static.49ers.clubs.nfl.com/';
+    var nflcsAVAssetPath='http://prod.video.49ers.clubs.nfl.com/';
     var nflcsClubCode='SF';
+    var nflcomCombinatorAVP='http://combine.nflcdn.com/yui/min2/index.php?g=video';
+    var nflcomYuiBase='http://combine.nflcdn.com/yui/';
+    var nflcsAVDefaults={
+        id:"avplayer",
+        width:"410",
+        config:"http://prod.static.49ers.clubs.nfl.com/assets/vp/prod/config.json",
+        autoplay:false,
+        pr:3,
+        offset:0,
+        playername: "player_default"
+    }
     // omniture account VAR instantiated here to provide data to media player
     var s_account, s_analytics, s;
     s_account ='nflclubs49ers,nflglobal';
@@ -444,9 +456,9 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
                     <span>Team</span>
                 </a>
             </li>
-            <li id="main-nav-news-and-events">
-                <a class="root-node-link" target="" title="News and Events" href="http://www.49ers.com/news-and-events/index.html">
-                    <span>News and Events</span>
+            <li id="main-nav-news">
+                <a class="root-node-link" target="" title="News" href="http://www.49ers.com/news/index.html">
+                    <span>News</span>
                 </a>
             </li>
             <li id="main-nav-media-gallery">
@@ -454,14 +466,14 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
                     <span>Media Gallery</span>
                 </a>
             </li>
-            <li id="main-nav-game-day">
-                <a class="root-node-link" target="" title="Game Day" href="http://www.49ers.com/gameday/season-schedule.html">
-                    <span>Game Day</span>
+            <li id="main-nav-gameday">
+                <a class="root-node-link" target="" title="Gameday" href="http://www.49ers.com/gameday/season-schedule.html">
+                    <span>Gameday</span>
                 </a>
             </li>
-            <li id="main-nav-buy-tickets">
-                <a class="root-node-link" target="" title="Buy Tickets" href="http://www.49ers.com/buy-tickets/index.html">
-                    <span>Buy Tickets</span>
+            <li id="main-nav-tickets">
+                <a class="root-node-link" target="" title="Tickets" href="http://www.49ers.com/tickets/index.html">
+                    <span>Tickets</span>
                 </a>
             </li>
             <li id="main-nav-stadium">
@@ -480,8 +492,13 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
                 </a>
             </li>
             <li id="main-nav-gold-rush">
-                <a class="root-node-link" target="" title="Gold Rush" href="http://www.49ers.com/gold-rush/2012-squad-reveal.html">
+                <a class="root-node-link" target="" title="Gold Rush" href="http://www.49ers.com/gold-rush/squad.html">
                     <span>Gold Rush</span>
+                </a>
+            </li>
+            <li id="main-nav-fantasy-football">
+                <a class="root-node-link" target="_blank" title="Fantasy Football" href="http://49ers.fantasy.nfl.com/">
+                    <span>Fantasy Football</span>
                 </a>
             </li>
             <li id="main-nav-shop">
@@ -505,7 +522,7 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
-            <div class="fragment-container" parent="main-nav-news-and-events" rel="/nav-ribbon/news-and-events.html">
+            <div class="fragment-container" parent="main-nav-news" rel="/nav-ribbon/news.html">
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
@@ -513,11 +530,11 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
-            <div class="fragment-container" parent="main-nav-game-day" rel="/nav-ribbon/game-day.html">
+            <div class="fragment-container" parent="main-nav-gameday" rel="/nav-ribbon/gameday.html">
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
-            <div class="fragment-container" parent="main-nav-buy-tickets" rel="/nav-ribbon/buy-tickets.html">
+            <div class="fragment-container" parent="main-nav-tickets" rel="/nav-ribbon/tickets.html">
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
@@ -534,6 +551,10 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
                 <span class="placeholder">Loading...</span>
             </div>
             <div class="fragment-container" parent="main-nav-gold-rush" rel="/nav-ribbon/gold-rush.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-fantasy-football" rel="/nav-ribbon/fantasy-football.html">
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
@@ -574,7 +595,9 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
                 
                 
                     
-                        <div class="gbl-header-hot-topics"><a mce_href="http://www.49ers.com/buy-tickets/priority-waitlist.html" href="http://www.49ers.com/buy-tickets/priority-waitlist.html">Season Ticket Waitlist</a> <a mce_href="http://blog.49ers.com/2012/05/29/49ers-anthem-auditions/" href="http://blog.49ers.com/2012/05/29/49ers-anthem-auditions/">Anthem Auditions</a> <a target="_blank" mce_href="http://newsantaclarastadium.com/" href="http://newsantaclarastadium.com/">New Stadium</a> <a href="http://blog.49ers.com/">Blog</a>&nbsp;<a href="http://www.facebook.com/SANFRANCISCO49ERS" target="_blank">Facebook</a> <a href="http://twitter.com/49ers" target="_blank">Twitter</a> <a class="hot-topic-social" href="http://www.facebook.com/SANFRANCISCO49ERS" target="_blank"> <img src="http://prod.static.49ers.clubs.nfl.com/assets/clubimages/hot-topics-facebook2.png"></a><a class="hot-topic-social" href="http://twitter.com/#!/49ers" target="_blank"><img src="http://prod.static.49ers.clubs.nfl.com/assets/clubimages/hot-topics-twitter2.png"></a></div>
+                        <div class="gbl-header-hot-topics"><a mce_href="http://www.49ers.com/buy-tickets/priority-waitlist.html" href="http://www.49ers.com/buy-tickets/priority-waitlist.html">New Stadium Waitlist</a> <a target="_self" href="http://blog.49ers.com/">Blog</a> <a target="_blank" href="http://www.facebook.com/SANFRANCISCO49ERS">Facebook</a> <a target="_blank" href="http://twitter.com/49ers">Twitter </a><!-- BEGIN WATCH GAMES AD -->
+<div id="watch-games-ht-btn" style="display: inline; float: right; padding: 0px 40px 0px 0px;"><a target="_blank" href="http://twitter.com/49ers"><nflcs:ad data-adtype="adj" data-width="235" data-height="15" data-suite="team.sf" data-customparams="" class="no-style"><param name="nfl" value="ad"></nflcs:ad></a></div>
+<!-- END WATCH GAMES AD --></div>
                     
                 
             
@@ -817,8 +840,21 @@ swfobject.embedSWF("http://prod.static.49ers.clubs.nfl.com/assets/swf/49erslogo.
 </div>
 </div>
 </div>
-<script src="http://prod.static.49ers.clubs.nfl.com/assets/fb-like-box-slider/fb-like-box-slider.js" type="text/javascript"></script>
-<link rel="stylesheet" href="http://prod.static.49ers.clubs.nfl.com/assets/fb-like-box-slider/fb-like-box-slider.css" type="text/css">
+<!--/START THE FB SLIDE/--> <link rel="stylesheet" href="http://prod.static.49ers.clubs.nfl.com/assets/fb-like-box-slider/likeUsFB.css" type="text/css">
+<div id="like_our_fb_page">
+<div class="content">
+<h1>49ers ON FACEBOOK</h1>
+<p>Who's got it better than us?</p>
+</div>
+<div class="fb_like"></div>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script>
+<fb:like-box href="http://www.facebook.com/SANFRANCISCO49ERS" width="370" show_faces="false" border_color="" stream="false" header="false"> </fb:like-box></div>
+<script type="text/javascript" src="http://prod.static.49ers.clubs.nfl.com/assets/fb-like-box-slider/likeUsFB.js">// <![CDATA[
+
+// ]]></script>
+<div class="hide"></div>
+<!--/END THE FB SLIDE/-->
                     
                 
             
