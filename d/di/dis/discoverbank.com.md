@@ -1,36 +1,19 @@
-> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127224713id_/http%3A//www.discoverbank.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102021302id_/https%3A//www.discover.com/online-banking/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Discover Bank
+# Online Banking Privacy Policy | Discover
 
-  * [Discover Bank Home](http://www.discoverbank.com/ "Discover Bank Home")
-  * [Online Savings](http://www.discoverbank.com/online-savings-account.html "Online Savings")
-  * [Money Market](http://www.discoverbank.com/money-market.html "Money Market Accounts")
-  * [CD](http://www.discoverbank.com/cd.html "CD Accounts")
-  * [IRA CD](http://www.discoverbank.com/ira-cd.html "IRA CD Accounts")
-  * [Compare Banks](http://www.discoverbank.com/compare-banks-online-savings.html "Compare Banks")
-  * [Calculators](http://www.discoverbank.com/calculators.html "Calculators")
-  * [Tips & Advice](http://www.discoverbank.com/tips-and-advice/ "Tips & Advice")
-  * [About Us](http://www.discoverbank.com/about-us.html "About Us")
+Facts | 
 
+What Does Discover BankDo With Your Personal Information?
 
-
-## Discover Bank Privacy Policy
-
-or call 1-800-347-7000
-
-Rev. 10/11
-
-Facts| 
-
-What Does Discover BankDo With Your Personal Information?  
-  
----|---  
-Why?| 
+| Rev. 10/11  
+---|---|---  
+Why? | 
 
 Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
   
 ---|---  
-What?| 
+What? | 
 
 The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
@@ -40,55 +23,55 @@ The types of personal information we collect and share depend on the product or 
 
   
 ---|---  
-How?| 
+How? | 
 
 All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Discover Bank chooses to share; and whether you can limit this sharing.  
   
 ---|---  
-Reasons we can share your personal information| Does Discover Bank share?| Can you limit this sharing?  
+Reasons we can share your personal information | Does Discover Bank share? | Can you limit this sharing?  
 ---|---|---  
   
- **For our everyday business purposes —** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+**For our everyday business purposes —** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
 
-| Yes| No  
+| Yes | No  
   
- **For our marketing purposes —** to offer our products and services to you
+**For our marketing purposes —** to offer our products and services to you
 
-| Yes| No  
+| Yes | No  
   
- **For joint marketing with other financial companies**
+**For joint marketing with other financial companies**
 
-|  Yes| No  
+| Yes | No  
   
- **For our affiliates' everyday business purposes —** information about your transactions and experiences
+**For our affiliates' everyday business purposes —** information about your transactions and experiences
 
-| Yes| No  
+| Yes | No  
   
- **For our affiliates' everyday business purposes —** information about your creditworthiness
+**For our affiliates' everyday business purposes —** information about your creditworthiness
+
+| Yes | Yes  
+  
+**For our affiliates to market to you**
 
 | Yes| Yes  
   
- **For our affiliates to market to you**
+**For nonaffiliates to market to you**
 
-|  Yes| Yes  
-  
- **For nonaffiliates to market to you**
-
-|  Yes| Yes  
-To limit our sharing| 
+| Yes| Yes  
+To limit our sharing | 
 
   * Call 1-866-402-1048 — our menu will prompt you through your choices
 
 
 
- **Please note:**
+**Please note:**
 
 If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
 However, you can contact us at any time to limit our sharing.  
   
 ---|---  
-Questions?| 
+Questions? | 
 
 Call 1-800-347-7000  
   
@@ -180,8 +163,8 @@ A formal agreement between nonaffiliated financial companies that together marke
 Other important information  
 ---  
   
- **Vermont Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates unless you call us at **1-866-402-1048** and authorize us to do so.
+**Vermont Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates unless you call us at **1-866-402-1048** and authorize us to do so.
 
- **California Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California.
+**California Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California.
 
- **Nevada Residents —** You may call **1-866-402-1048** to be placed on our Do Not Call List. For more information, mail Discover Bank, PO Box 30416, Salt Lake City, UT 84130. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us "BCPINFO@ag.state.nv.us"). This notice is provided pursuant to state law.
+**Nevada Residents —** You may call **1-866-402-1048** to be placed on our Do Not Call List. For more information, mail Discover Bank, PO Box 30416, Salt Lake City, UT 84130. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us). This notice is provided pursuant to state law.
