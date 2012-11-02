@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the shopkitson.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602174216id_/http%3A//www.shopkitson.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopkitson.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102135817id_/http%3A//www.shopkitson.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
-<title>ShopKitson.com - The Online Store For The Famous Kitson Boutique</title>
+<title>ShopKitson - Privacy</title>
 
 <meta name="Author" content="Stephan Themis">
 <meta name="copyright" content="Copyright 2011, shopkitson.com, All rights reserved">
-<meta name="date" content="2011-09-30">
-<meta name="Description" content="Your One Stop Shop For The Latest Men's, Women's, Kid's, Apothecary and Gifts.">
-<meta name="Keywords" content="kitson on robertson, Team Sandra Shirt, Harajuku Lovers Jewelry, House of Harlow, Winter Kate, Mens Clothing, Kids Clothing, Handbags, Shoes">
+<meta name="Date" content="2012-07-02">
+<meta name="Description" content="Kitson is committed to respecting and protecting your privacy by adhering to five foundational principles: Notice, Choice, Access, Security, and Enforcement.">
+<meta name="Keywords" content="privacy, privacy protection, security, children privacy, personal information, protection, contact, Kitson">
 <meta name="ROBOTS" content="FOLLOW,INDEX">
-<meta name="google-site-verification" content="MODPNa1PjYNhq3gjp-PUyGe7j8kCAu2AAcPmadsQEEw">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -23,6 +22,9 @@
 <script language="JavaScript" src="js/cmn_string.js"></script>
 
 <script language="JavaScript">
+
+
+	var menuTimer = null;
 
 	function updateNumOfCartItems()
 	{
@@ -49,15 +51,14 @@
 	
 	function showLoginBox()
 	{
-		loginForm.loginUserName.value = "Email";
-		loginForm.loginPassword.type = "Text";
-		loginForm.loginPassword.value = "Password";
+		loginForm.loginUserName.value = "";
+		loginForm.loginPassword.value = "";
 		beginModalDialog("divLoginBox");
 	}
 
 	function newsletterSignup()
 	{
-		newsletterSignupForm.emailAddress.value = "Email";
+		newsletterSignupForm.emailAddress.value = "";
 		beginModalDialog('divNewsletterBox');
 	}
 
@@ -87,25 +88,122 @@
 			return false;
 		}
 	}
+	
+	function hideAllMenus()
+	{
+		var tagElements = document.getElementsByTagName("DIV");
+
+		for (var i=0; i<tagElements.length; i++)
+		{
+			if(tagElements[i].getAttribute("ID"))
+			{
+				id = tagElements[i].getAttribute("ID");
+
+				if(id.indexOf("divSubMenu") == 0)
+					tagElements[i].style.display = "none";
+			}
+		}
+	}
+	
+	function menuMouseOut(e)
+	{
+		if(!e)
+			var e = window.event;
+
+		var tg = (window.event)?e.srcElement:e.target;
+
+		if (tg.nodeName != 'DIV')
+			return;
+
+		var reltg = (e.relatedTarget)?e.relatedTarget:e.toElement;
+		
+		while(reltg != null && reltg != tg && reltg.nodeName != 'BODY')
+			reltg= reltg.parentNode;
+		
+		if (reltg == tg)
+			return;
+			
+		hideAllMenus();
+	}
+
+
+	function showContextMenu(contextMenu)
+	{
+		if(window.addEventListener)
+			contextMenu.addEventListener('mouseout', menuMouseOut, false);
+		else
+			contextMenu.attachEvent('onmouseout', menuMouseOut);
+
+		hideAllMenus();
+		contextMenu.style.display = "block";
+		clearMenuTimer();
+	}
+	
+	
+	function startMenuTimer()
+	{
+		clearMenuTimer();			
+		menuTimer = setTimeout("hideAllMenus();", 1000);
+	}
+	
+	function clearMenuTimer()
+	{
+		if(menuTimer != null)
+			clearTimeout(menuTimer);
+	}
+	
+	function initSearchField()
+	{
+		if(searchForm.keywords.value == "")
+		{
+			searchForm.keywords.value = "search keyword or item #";
+			searchForm.keywords.style.color = "#a9a9ac";
+		}
+		else
+		{
+			searchForm.keywords.style.color = "black";
+		}
+	}
+
+	function focusSearchField()
+	{
+		if(searchForm.keywords.value == "search keyword or item #")
+		{
+			searchForm.keywords.value = "";
+			searchForm.keywords.style.color = "black";
+		}
+	}
+
+	function blurSearchField()
+	{
+		if(searchForm.keywords.value == "")
+		{
+			searchForm.keywords.value = "search keyword or item #";
+			searchForm.keywords.style.color = "#a9a9ac";
+		}
+	}
 
 </script>
 
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-25942662-1']);
-  _gaq.push(['_trackPageview']);
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-25942662-1']);
+	_gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
 </script>
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#appId=194341153970184&amp;xfbml=1"></script></head>
-<body>
+</head>
+<body onload="hideAllMenus();">
+
+
+<a name="top"></a>
 
 <center>
 
@@ -113,31 +211,28 @@
  <div style="position: relative; text-align: left; width: 1035px;">
 
 
-   <div id="divLoginBox" style="position: absolute; left: 620px; top: 52px; width: 380px; height: 95px; background-image: url('images/login_frame.gif'); display: none;">
-    <form name="loginForm" action="https://shopkitson.com/index.php?page=member" method="POST">
+   <div id="divLoginBox" style="position: absolute; left: 620px; top: 92px; width: 238px; height: 126px; background-color: white; border: solid 6px #e6e6e6; border-top: none; display: none;">
+    <form name="loginForm" action="https://shopkitson.com/index.php?page=member&amp;sessionString=poscshj0e8dbfajuk4ccmfmcn6" method="POST">
     <div style="position: relative;">
-     <div style="position: absolute; left: 6px; top: 6px; width: 367px; height: 78px; background-color: #f3f3f3;"></div>
-     <div style="position: absolute; left: 23px; top: 13px; font-family: Arial; font-size: 12px;">Please input your <font color="#30a0ca">email and password.</font></div>
-     <div style="position: absolute; left: 23px; top: 30px; width: 335px; border-top: dashed 1px #bcbcbc;"></div>
-     <div style="position: absolute; left: 21px; top: 37px;"><input type="Text" name="loginUserName" value="Email" onfocus="if(this.value=='Email'){this.value='';};" style="width: 186px; height: 20px; border: solid 1px #dddddd; color: #4c4c4c;"></div>
-     <div style="position: absolute; left: 214px; top: 37px;"><input type="Text" name="loginPassword" value="Password" onfocus="if(this.type!='Password'){this.type='Password'; this.value='';};" style="width: 74px; height: 20px; border: solid 1px #dddddd; color: #4c4c4c;"></div>
-     <div style="position: absolute; left: 295px; top: 37px;"><input type="Image" src="images/login_submit.gif"></div>
-     <div style="position: absolute; left: 338px; top: 37px;"><img src="images/login_clear.gif" alt="Close Login Window" border="0" class="pointer" onclick="endModalDialog();"></div>
-     <div style="position: absolute; left: 21px; top: 64px; font-family: Arial; font-size: 12px; font-style: italic;"><input type="CheckBox" name="keepLoggedIn">&nbsp;Keep me logged in</div>
-     <div style="position: absolute; left: 217px; top: 64px; font-family: Arial; font-size: 12px; font-style: italic;"><img src="images/login_arrow.gif" alt="Forgot Your Password" border="0">&nbsp;&nbsp;<a href="index.php?page=resetPassword"><font color="#51af69">Forgot your password?</font></a></div>
+     <div style="position: absolute; left: 15px; top: 5px; font-family: Century Gothic, Helvetica; font-size: 13px; color: #43bbca; font-weight: bold;">SIGN IN</div>
+     <div style="position: absolute; left: 15px; top: 25px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828;">Email Address:</div>
+     <div style="position: absolute; left: 15px; top: 45px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828;">Password:</div>
+     <div style="position: absolute; left: 110px; top: 25px;"><input type="Text" name="loginUserName" style="width: 109px; height: 13px; border: solid 1px #282828; color: #282828; font-size: 9px;"></div>
+     <div style="position: absolute; left: 110px; top: 45px;"><input type="Password" name="loginPassword" style="width: 109px; height: 13px; border: solid 1px #282828; color: #282828; font-size: 9px;"></div>
+     <div style="position: absolute; left: 128px; top: 65px; font-family: Arial; font-size: 8px; font-style: italic;"><a href="index.php?page=resetPassword"><font color="#282828">I forgot my password!</font></a></div>
+     <div style="position: absolute; left: 113px; top: 87px;"><input type="Submit" value="SIGN IN" style="width: 107px; height: 25px; background-color: #43bbca; border: none; font-size: 10px; color: white; font-family: Century Gothic, Helvetica; cursor: pointer;"></div>
     </div>
     </form>
    </div>
 
 
-   <div id="divNewsletterBox" style="position: absolute; left: 320px; top: 100px; width: 230px; height: 95px; background-image: url('images/newsletter_frame.gif'); display: none;">
+   <div id="divNewsletterBox" style="position: absolute; left: 770px; top: 180px; width: 238px; height: 96px; background-color: white; border: solid 6px #e6e6e6; border-top: none; display: none;">
     <form name="newsletterSignupForm" action="" method="POST" onsubmit="return validateNewsletterSignupForm(this);">
     <div style="position: relative;">
-     <div style="position: absolute; left: 6px; top: 6px; width: 217px; height: 78px; background-color: #f3f3f3;"></div>
-     <div style="position: absolute; left: 23px; top: 13px; font-family: Arial; font-size: 12px;">Please input your <font color="#30a0ca">email address.</font></div>
-     <div style="position: absolute; left: 23px; top: 30px; width: 185px; border-top: dashed 1px #bcbcbc;"></div>
-     <div style="position: absolute; left: 21px; top: 37px;"><input type="Text" name="emailAddress" value="Email" style="width: 186px; height: 20px; border: solid 1px #dddddd; color: #4c4c4c;" onfocus="if(this.value=='Email'){this.value='';};"></div>
-     <div style="position: absolute; left: 92px; top: 60px;"><input type="Image" src="images/newsletter_submit.png"></div>
+     <div style="position: absolute; left: 15px; top: 5px; font-family: Century Gothic, Helvetica; font-size: 13px; color: #43bbca; font-weight: bold;">SIGN UP</div>
+     <div style="position: absolute; left: 15px; top: 25px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828;">Email Address:</div>
+     <div style="position: absolute; left: 110px; top: 25px;"><input type="Text" name="emailAddress" style="width: 109px; height: 13px; border: solid 1px #282828; color: #282828; font-size: 9px;"></div>
+     <div style="position: absolute; left: 113px; top: 57px;"><input type="Submit" value="SIGN UP" style="width: 107px; height: 25px; background-color: #43bbca; border: none; font-size: 10px; color: white; font-family: Century Gothic, Helvetica; cursor: pointer;"></div>
     </div>
     </form>
    </div>
@@ -173,67 +268,215 @@
  <img src="images/main_top.png" alt="Top Frame Border" border="0"><br>
  <div style="border-left: solid 1px #f2f2f2; border-right: solid 1px #f2f2f2; background: white; text-align: left;">
 
-  <div style="height: 98px; position: relative;">
-  
-   <div style="position: absolute; left: 367px; top: 23px; width: 635px; text-align: right;">
-<a href="javascript: showLoginBox();"><img src="images/login_text.png" alt="Login" border="0"></a>
-    &nbsp;
-    <img src="images/top_separator.png" alt="Separator" border="0">
-    &nbsp;
-    <a href="index.php?page=cart"><img src="images/cart_text.png" alt="Shopping Cart" border="0"></a>
-    <span id="divNumOfCartItems" style="font-family: Arial; font-size: 11px; color: #449e5a;"></span>
-   </div>
-
-   <div style="position: absolute; left: 850px; top: 55px; width: 100px; height: 30px; overflow: hidden;">
-    <div id="fb-root"></div>
-    <script>(function(d)
-	{
-		var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-		js = d.createElement('script'); js.id = id; js.async = true;
-		js.src = "//connect.facebook.net/en_US/all.js#appId=194341153970184&xfbml=1";
-		d.getElementsByTagName('head')[0].appendChild(js);
-	}(document));</script>
-    <div class="fb-like" data-href="http://www.facebook.com/pages/Kitson-LA/114991108540706" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div>
-   </div>
-
-   <div style="position: absolute; left: 940px; top: 55px;">
-    <a href="http://www.facebook.com/pages/Kitson-LA/114991108540706" target="_new"><img src="images/icon_facebook.png" alt="Facebook" border="0"></a>
-    &nbsp;
-    <a href="http://twitter.com/#!/KitsonLA" target="_new"><img src="images/icon_twitter.png" alt="Twitter" border="0"></a>
-   </div>
-
-   <div style="position: absolute; left: 530px; top: 51px;">
-    <div style="width: 306px; height: 33px; background-color: #606060; position: relative;">
-     <form action="index.php?page=search" method="POST">
-     <div style="position: absolute; left: 0px; top: 0px;"><img src="images/search_arrow.png" alt="Search Results" border="0"></div>
-     <div style="position: absolute; left: 21px; top: 11px;"><img src="images/search_text.png" alt="Search" border="0"></div>
-     <div style="position: absolute; left: 70px; top: 5px; background-color: white; width: 221px; height: 23px;"><input type="TextField" name="keywords" style="width: 218px; height: 20px; border: none; margin-top: 1px; padding: 0px;" value=""></div>
-     <div style="position: absolute; left: 291px; top: 5px;"><input type="Image" src="images/search_button.gif"></div>
-     <div style="position: absolute; left: 294px; top: 33px; background-color: #606060;"><img src="images/search_tip.png" alt="Search Area" border="0"></div>
-     </form>
-    </div>
-   </div>
- 
-  </div>
+  <div style="height: 20px; position: relative;"></div>
 
   <div style="height: 51px; position: relative;">
    <div style="position: absolute; left: 39px; top: 0px;"><a href="index.php?page=home"><img src="images/logo.gif" alt="Kitson" border="0"></a></div>
-   <div style="position: absolute; left: 185px; top: 0px; width: 813px; height: 34px; background-color: #00466a;">
+   <div style="position: absolute; left: 185px; top: 0px; width: 813px; height: 34px;">
     <div style="position: relative;">
-     <div style="position: absolute; left: 0px; top: 0px;"><img src="images/nav_left.png" alt="Navigation Left Border" border="0"></div>
-     <div style="position: absolute; left: 795px; top: 0px;"><img src="images/nav_right.png" alt="Navigation Right Border" border="0"></div>
-     <div style="text-align: center; padding-top: 10px; font-family: Arial; font-size: 14px; font-style: italic; font-weight: bold; color: white;">
-<a href="index.php?page=home"><font color="white">HOME</font></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#a1c9eb">/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="javascript: newsletterSignup();"><font color="white">NEWSLETTER SIGN UP</font></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#a1c9eb">/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="index.php?page=service"><font color="white">CUSTOMER SERVICE</font></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#a1c9eb">/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="index.php?page=locations"><font color="white">STORE LOCATIONS</font></a>
+
+     <div style="position: absolute; left: 130px; top: 8px; width: 500px; text-align: right;">
+<a href="javascript: showLoginBox();"><span style="font-family: Century Gothic, Helvetica; font-size: 12px; font-weight: bold; color: #99ccff;">MY ACCOUNT</span></a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="index.php?page=cart"><span style="font-family: Century Gothic, Helvetica; font-size: 12px; font-weight: bold; color: #99ccff;">MY BAG</span></a>
+      <span id="divNumOfCartItems" style="font-family: Century Gothic, Helvetica; font-size: 12px; font-weight: bold; color: #99ccff;"></span>
      </div>
+
+     <div style="position: absolute; left: 530px; top: 0px;">
+      <div style="position: relative;">
+       <form name="searchForm" action="index.php" method="GET">
+       <input type="Hidden" name="page" value="search">
+       <div style="position: absolute; left: 120px; top: 5px;"><input type="TextField" name="keywords" onfocus="focusSearchField();" onblur="blurSearchField();" style="width: 144px; height: 20px; margin-top: 1px; padding: 0px; color: rgb(169, 169, 172);" value=""></div>
+       <div style="position: absolute; left: 267px; top: 7px;"><input type="Image" src="images/button_magnifier.gif"></div>
+       </form>
+      </div>
+     </div>
+
     </div>
    </div>
   </div>
+  
+  <div style="height: 16px; position: relative; z-index: 10;">
+  
+<!--   
+
+   <DIV STYLE="position: absolute; left: 950px; top: 3px;">
+    <DIV STYLE="width: 2px; height: 10px; background-color: #c8c8c8; overflow: hidden;"></DIV>
+   </DIV>
+
+   <DIV STYLE="position: absolute; left: 963px; top: 0px; font-family: Century Gothic, Helvetica; font-size: 12px; font-weight: bold; color: #282828;">
+    <A HREF="http://www.blog-shopkitson.com/" TARGET="_new" onMouseOver="hideAllMenus();"><FONT COLOR="#282828">BLOG</FONT></A>
+   </DIV>
+-->   
+   <table height="16" cellspacing="0" cellpadding="0" border="0" style="font-family: Century Gothic, Helvetica; font-size: 12px; font-weight: bold; color: #282828;">
+    <tbody><tr>
+     <td width="39"></td>
+     <td><a href="index.php?page=whatsNew" onmouseover="hideAllMenus();"><font color="#282828">WHAT'S NEW</font></a></td>
+     <td width="11"></td>
+     <td><div style="width: 2px; height: 10px; background-color: #c8c8c8; overflow: hidden;"></div></td>
+     <td width="16"></td>
+<td>
+ <div style="height: 16px; overflow: hidden;">
+  <a href="index.php?page=browse&amp;categoryID=5" onmouseover="showContextMenu(document.getElementById(&quot;divSubMenu_1&quot;));" onmouseout="startMenuTimer();"><font color="#282828">WOMEN</font></a>
+ </div>
+ <div style="position: relative;">
+  <div id="divSubMenu_1" style="position: absolute; top: 10px; left: -10px; border: solid 5px #e6e6e6; border-top: none; background-color: white; display: none;" onmouseover="clearMenuTimer();">
+   <div style="margin-left: 5px; margin-right: 13px; margin-top: 8px; margin-bottom: 12px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828; line-height: 18px; font-weight: normal;">
+   <a href="index.php?page=browse&amp;subcategoryID=20"><font color="#282828">Tops</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=58"><font color="#282828">Tees&nbsp;&amp;&nbsp;Tanks</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=59"><font color="#282828">Sweaters</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=60"><font color="#282828">Jackets&nbsp;&amp;&nbsp;Hoodies</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=62"><font color="#282828">Pants</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=61"><font color="#282828">Denim</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=45"><font color="#282828">Dresses</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=63"><font color="#282828">Shorts</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=64"><font color="#282828">Skirts</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=85"><font color="#282828">Jumpsuits/Rompers</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=22"><font color="#282828">Shoes</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=24"><font color="#282828">Bags&nbsp;&amp;&nbsp;Clutches</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=88"><font color="#282828">Jewelry</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=23"><font color="#282828">Accessories</font></a><br>
+   </div>
+  </div>
+ </div>
+</td>
+<td width="22"></td>
+<td>
+ <div style="height: 16px; overflow: hidden;">
+  <a href="index.php?page=browse&amp;categoryID=4" onmouseover="showContextMenu(document.getElementById(&quot;divSubMenu_2&quot;));" onmouseout="startMenuTimer();"><font color="#282828">MEN</font></a>
+ </div>
+ <div style="position: relative;">
+  <div id="divSubMenu_2" style="position: absolute; top: 10px; left: -10px; border: solid 5px #e6e6e6; border-top: none; background-color: white; display: none;" onmouseover="clearMenuTimer();">
+   <div style="margin-left: 5px; margin-right: 13px; margin-top: 8px; margin-bottom: 12px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828; line-height: 18px; font-weight: normal;">
+   <a href="index.php?page=browse&amp;subcategoryID=29"><font color="#282828">Shirts</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=51"><font color="#282828">Tees&nbsp;&amp;&nbsp;Tanks</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=52"><font color="#282828">Sweaters</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=53"><font color="#282828">Jackets&nbsp;&amp;&nbsp;Hoodies</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=28"><font color="#282828">Pants</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=55"><font color="#282828">Denim</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=56"><font color="#282828">Shorts</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=27"><font color="#282828">Shoes</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=26"><font color="#282828">Accessories</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=68"><font color="#282828">Swim</font></a><br>
+   </div>
+  </div>
+ </div>
+</td>
+<td width="22"></td>
+<td>
+ <div style="height: 16px; overflow: hidden;">
+  <a href="index.php?page=browse&amp;categoryID=1" onmouseover="showContextMenu(document.getElementById(&quot;divSubMenu_3&quot;));" onmouseout="startMenuTimer();"><font color="#282828">KIDS&nbsp;&amp;&nbsp;BABIES</font></a>
+ </div>
+ <div style="position: relative;">
+  <div id="divSubMenu_3" style="position: absolute; top: 10px; left: -10px; border: solid 5px #e6e6e6; border-top: none; background-color: white; display: none;" onmouseover="clearMenuTimer();">
+   <div style="margin-left: 5px; margin-right: 13px; margin-top: 8px; margin-bottom: 12px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828; line-height: 18px; font-weight: normal;">
+   <a href="index.php?page=browse&amp;subcategoryID=33"><font color="#282828">Babies</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=31"><font color="#282828">Girls</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=32"><font color="#282828">Boys</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=57"><font color="#282828">Shoes</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=49"><font color="#282828">Accessories</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=30"><font color="#282828">Toys&nbsp;&amp;&nbsp;Games</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=34"><font color="#282828">Books</font></a><br>
+   </div>
+  </div>
+ </div>
+</td>
+<td width="22"></td>
+<td>
+ <div style="height: 16px; overflow: hidden;">
+  <a href="index.php?page=browse&amp;categoryID=7" onmouseover="showContextMenu(document.getElementById(&quot;divSubMenu_4&quot;));" onmouseout="startMenuTimer();"><font color="#282828">BEAUTY&nbsp;&amp;&nbsp;FRAGRANCE</font></a>
+ </div>
+ <div style="position: relative;">
+  <div id="divSubMenu_4" style="position: absolute; top: 10px; left: -10px; border: solid 5px #e6e6e6; border-top: none; background-color: white; display: none;" onmouseover="clearMenuTimer();">
+   <div style="margin-left: 5px; margin-right: 13px; margin-top: 8px; margin-bottom: 12px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828; line-height: 18px; font-weight: normal;">
+   <a href="index.php?page=browse&amp;subcategoryID=83"><font color="#282828">Bags&nbsp;&amp;&nbsp;Cases</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=44"><font color="#282828">Beauty</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=42"><font color="#282828">Fragrance</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=40"><font color="#282828">Candles</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=50"><font color="#282828">Men's</font></a><br>
+   </div>
+  </div>
+ </div>
+</td>
+<td width="22"></td>
+<td>
+ <div style="height: 16px; overflow: hidden;">
+  <a href="index.php?page=browse&amp;categoryID=6" onmouseover="showContextMenu(document.getElementById(&quot;divSubMenu_5&quot;));" onmouseout="startMenuTimer();"><font color="#282828">GIFTS&nbsp;&amp;&nbsp;NOVELTIES</font></a>
+ </div>
+ <div style="position: relative;">
+  <div id="divSubMenu_5" style="position: absolute; top: 10px; left: -10px; border: solid 5px #e6e6e6; border-top: none; background-color: white; display: none;" onmouseover="clearMenuTimer();">
+   <div style="margin-left: 5px; margin-right: 13px; margin-top: 8px; margin-bottom: 12px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828; line-height: 18px; font-weight: normal;">
+   <a href="index.php?page=browse&amp;subcategoryID=89"><font color="#282828">Boo&nbsp;The&nbsp;World's&nbsp;Cutest&nbsp;Dog</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=87"><font color="#282828">Pop&nbsp;Phones</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=81"><font color="#282828">Journals&nbsp;&amp;&nbsp;Cards</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=80"><font color="#282828">Office</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=79"><font color="#282828">Novelties</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=78"><font color="#282828">Home&nbsp;&amp;&nbsp;Entertaining</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=77"><font color="#282828">Games</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=76"><font color="#282828">Pillows</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=75"><font color="#282828">Tech</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=74"><font color="#282828">Frames</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=73"><font color="#282828">Wallets&nbsp;&amp;&nbsp;Cases</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=38"><font color="#282828">Books</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=90"><font color="#282828">Pets</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=86"><font color="#282828">Holiday</font></a><br>
+   </div>
+  </div>
+ </div>
+</td>
+<td width="22"></td>
+<td>
+ <div style="height: 16px; overflow: hidden;">
+  <a href="index.php?page=browse&amp;categoryID=8" onmouseover="showContextMenu(document.getElementById(&quot;divSubMenu_6&quot;));" onmouseout="startMenuTimer();"><font color="#282828">KITSON&nbsp;MERCHANDISE</font></a>
+ </div>
+ <div style="position: relative;">
+  <div id="divSubMenu_6" style="position: absolute; top: 10px; left: -10px; border: solid 5px #e6e6e6; border-top: none; background-color: white; display: none;" onmouseover="clearMenuTimer();">
+   <div style="margin-left: 5px; margin-right: 13px; margin-top: 8px; margin-bottom: 12px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828; line-height: 18px; font-weight: normal;">
+   <a href="index.php?page=browse&amp;subcategoryID=46"><font color="#282828">Totes</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=47"><font color="#282828">Clothing</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=48"><font color="#282828">Gifts</font></a><br>
+   </div>
+  </div>
+ </div>
+</td>
+<td width="22"></td>
+<td>
+ <div style="height: 16px; overflow: hidden;">
+  <a href="index.php?page=browse&amp;categoryID=9" onmouseover="showContextMenu(document.getElementById(&quot;divSubMenu_7&quot;));" onmouseout="startMenuTimer();"><font color="#ff0000">SALE</font></a>
+ </div>
+ <div style="position: relative;">
+  <div id="divSubMenu_7" style="position: absolute; top: 10px; left: -10px; border: solid 5px #e6e6e6; border-top: none; background-color: white; display: none;" onmouseover="clearMenuTimer();">
+   <div style="margin-left: 5px; margin-right: 13px; margin-top: 8px; margin-bottom: 12px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #282828; line-height: 18px; font-weight: normal;">
+   <a href="index.php?page=browse&amp;subcategoryID=70"><font color="#282828">Women</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=72"><font color="#282828">Men</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=71"><font color="#282828">Kids</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=84"><font color="#282828">Beauty&nbsp;&amp;&nbsp;Apothecary</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=82"><font color="#282828">Gifts&nbsp;&amp;&nbsp;Novelties</font></a><br>
+   <a href="index.php?page=browse&amp;subcategoryID=69"><font color="#282828">Kitson&nbsp;Merchandise</font></a><br>
+   </div>
+  </div>
+ </div>
+</td>
+<td width="22"></td>
+    </tr>
+   </tbody></table>
+  </div>
+
+  <div style="height: 10px; position: relative; overflow: hidden;"></div>
+  
+  <div style="height: 6px; position: relative; overflow: hidden; padding-left: 39px; padding-right: 32px;">
+   <div style="width: 100%; height: 6px; background-color: #e6e6e6;"></div>
+  </div>
+
+  <div style="height: 14px; position: relative; overflow: hidden;"></div>
+  <div style="height: 12px; position: relative;">
+  
+
+   <div style="position: absolute; left: 865px; top: 0px; font-family: Century Gothic, Helvetica; font-size: 12px; font-weight: bold;"><a href="javascript: newsletterSignup();"><font color="#99ccff">SIGN UP FOR EMAIL</font></a></div>
+   <div style="position: absolute; left: 981px; top: 2px;"><a href="javascript: newsletterSignup();"><img src="images/icon_email2.gif" border="0"></a></div>
+  
+  </div>
+  <div style="height: 16px; position: relative; overflow: hidden;"></div>
 
   <div style="width: 959px; margin-left: 40px; margin-right: 38px; position: relative;">
  
@@ -284,37 +527,50 @@
  
   </div>
  
-  <br><br>
- 
-  <div style="height: 182px; position: relative;">
-   <div style="position: absolute; left: 40px; top: 0px; width: 959px;">
-    <div style="width: 500px; float: right; text-align: right;">
-     <div style="height: 26px;">&nbsp;</div>
-     <div style="font-family: Verdana; font-size: 11px; color: #525252;">
-      <a href="index.php?page=about"><font color="#525252">About Us</font></a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="index.php?page=service"><font color="#525252">Contact Us</font></a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="index.php?page=privacy"><font color="#525252">Privacy Policy</font></a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="mailto:careers@shopkitson.com"><font color="#525252">Career Opportunities</font></a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="index.php?page=sitemap"><font color="#525252">Site Map</font></a>
-     </div>
-    </div>
-    <div style="font-family: Verdana; font-size: 11px; color: #969595;">
-     <img src="images/bottom_logo.gif" alt="Kitson" border="0"> © 2011 Kitson All rights reserved.
-    </div>
-    <div style="clear: both;"></div>
-    <br>
-    <div style="font-family: Verdana; font-size: 10px; color: #969595; line-height: 22px; text-align: justify;">
-     Kitson is neither affiliated or associated in any manner whatsoever with Ciro Paone Spa, the manufacturer of men suits and apparel bearing the Kiton label.
-    </div>
-    <div style="font-family: Verdana; font-size: 10px; color: #969595; line-height: 17px; font-style: italic; text-align: justify;">
-     You may visit the Ciro Paone website at <a href="http://www.kiton.it"><font color="#6a6a6a">http://www.kiton.it</font></a> in order to view Kiton apparel. Kitson manufactures and/or licenses its own branded apparel and accessories under the Kitson LA label.
+  <div style="height: 10px; overflow: hidden;"></div>
+
+  <div style="height: 90px; position: relative;">
+
+   <div style="position: absolute; left: 40px; top: 0px; font-family: Century Gothic, Helvetica; font-size: 10px;">
+    <a href="index.php?page=about"><font color="#666666">ABOUT</font></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="index.php?page=service"><font color="#666666">CUSTOMER SERVICE</font></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="index.php?page=locations"><font color="#666666">STORE LOCATIONS</font></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="index.php?page=privacy"><font color="#666666">PRIVACY POLICY</font></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:careers@shopkitson.com"><font color="#666666">CAREERS</font></a>
+   </div>
+
+   <div style="position: absolute; left: 516px; top: 0px; width: 480px; text-align: right; font-family: Century Gothic, Helvetica; font-size: 10px; color: #666666;">
+    © 2012 KITSON ALL RIGHTS RESERVED.
+   </div>
+
+   <div style="position: absolute; left: 40px; top: 18px; font-family: Century Gothic, Helvetica; font-size: 10px; color: #666666;">
+<!--    1-800-814-8447 -->
+   </div>
+
+   <div style="position: absolute; left: 847px; top: 18px; font-family: Century Gothic, Helvetica; font-size: 11px; color: #666666;">
+    STAY IN TOUCH
+   </div>
+
+   <div style="position: absolute; left: 930px; top: 18px; font-family: Century Gothic, Helvetica; font-size: 11px;">
+    <a href="http://www.facebook.com/pages/Kitson-LA/114991108540706" target="_new"><img src="images/circle_facebook.gif" border="0"></a>
+    <a href="http://twitter.com/#!/KitsonLA" target="_new"><img src="images/circle_twitter.gif" border="0"></a>
+    <a href="http://pinterest.com/source/shopkitson.com/" target="_new"><img src="images/circle_pinterest.gif" border="0"></a>
+   </div>
+    
+   <div style="position: absolute; left: 40px; top: 40px; padding: 6px; width: 945px; height: 36px; position: relative; background-color: #99ccff;">
+    <div style="font-family: Century Gothic, Helvetica; font-size: 10px; color: white; line-height: 14px;">
+     Kitson is neither affiliated or associated in any manner whatsoever with Ciro Paone Spa, the manufacturer of men suits and apparel bearing the Kiton label.<br>
+     You may visit the Ciro Paone website at <a href="http://www.kiton.it"><font color="white">http://www.kiton.it</font></a> in order to view Kiton apparel. Kitson manufactures and/or licenses its own branded apparel and accessories under the Kitson LA label.
     </div>
    </div>
+
   </div>
+  
+  <br><br>
 
  </div>
 </div>
@@ -324,6 +580,7 @@
 <script language="JavaScript">
 
 	updateNumOfCartItems();
+	initSearchField();
 	
 </script>
 
