@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcshoes.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608092543id_/http%3A//www.dcshoes.com/us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcshoes.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102055352id_/http%3A//www.dcshoes.com/us/en/privacy) for the most accurate reproduction.*
 
 # Privacy / en / us / DC Shoes / DC Shoes Brand Root - DC Shoes
 
