@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conrad.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628094956id_/http%3A//www.conrad.com/int%252ftpl_inhalt.htm%3Fwebsale7%3Dconrad-int%26tpl%3Dint/tpl_inhalt.htm%26include_tpl%3Dws-customer-int/servicepages/inc_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conrad.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102022505id_/http%3A//www.conrad.com/int%252ftpl_inhalt.htm%3Fwebsale7%3Dconrad-int%26tpl%3Dint/tpl_inhalt.htm%26include_tpl%3Dws-customer-int/servicepages/inc_privacy_policy.htm) for the most accurate reproduction.*
 
 # Conrad Electronic SE
 
