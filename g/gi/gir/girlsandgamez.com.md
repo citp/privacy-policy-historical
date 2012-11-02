@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsandgamez.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013300id_/http%3A//www.girlsandgamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsandgamez.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102062911id_/http%3A//www.girlsandgamez.com/privacy.html) for the most accurate reproduction.*
 
 # Girls And Gamez privacy policy
 
