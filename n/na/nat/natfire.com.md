@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natfire.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614021833id_/http%3A//www.natfire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natfire.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102132808id_/http%3A//www.natfire.com/privacy.php) for the most accurate reproduction.*
 
 # National Fireproofing - Flamex PF Fire Retardant Spray - FS I-DS Fire Retardant Spray - FS-II Fire Retardant Spray - DC 333 DC 315 Fire Blocking Paint
 
-This privacy policy is intended for all users of **National Fireproofing, Inc** ( **torque.heritagewebdesign.com** ).
+This privacy policy is intended for all users of **National Fireproofing, Inc**
 
 **National Fireproofing, Inc** is dedicated to respecting and protecting the privacy of our clients. All information you provide, such as E-mail addresses or any additional personal information on or through any forms found on our site, will be used solely to support your relationship with **National Fireproofing, Inc**. We strive to develop innovative methods to better serve our users. Our services are designed and operate with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use **National Fireproofing, Inc** ’s services, as well as some of the steps we take to safeguard it.
 
