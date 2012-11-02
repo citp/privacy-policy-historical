@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moe.edu.sg privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015256id_/http%3A//www.moe.edu.sg/global/legalese/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moe.edu.sg privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102090946id_/http%3A//www.moe.edu.sg/global/legalese/privacy) for the most accurate reproduction.*
 
 # Ministry of Education, Singapore: Privacy Statement
 
@@ -8,5 +8,8 @@
   4. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
   5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
   6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+  7. Please contact us using the [online feedback form](https://web.archive.org/feedback/): 
+    * For any enquires or feedback on our data protection policies and procedures,
+    * If you require more information on or access to the data which you have earlier provided to us.
 
 
