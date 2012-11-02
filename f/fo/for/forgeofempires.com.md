@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forgeofempires.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611224637id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dportal%26lang%3Den%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forgeofempires.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102213625id_/http%3A//legal.innogames.de/portal/us/privacy) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
