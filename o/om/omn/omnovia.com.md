@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622183431id_/http%3A//www.omnovia.com/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102183633id_/http%3A//www.omnovia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Policy
 
-This privacy notice discloses the privacy practices for www.omNovia.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for www.webinato.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
@@ -32,8 +32,8 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should **contact us immediately** via telephone at 281-500-4065 or via email at [support@omnovia.com](mailto:support@omnovia.com).
+If you feel that we are not abiding by this privacy policy, you should **contact us immediately** via telephone at 281-500-4065 or via email at [support@webinato.com](mailto:support@webinato.com).
