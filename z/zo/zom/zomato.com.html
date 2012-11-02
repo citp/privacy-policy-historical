@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zomato.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629133222id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zomato.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102130110id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -16,7 +16,7 @@
 
 
        
-    <link rel="stylesheet" type="text/css" href="http://www.zomato.com/library/min90/index.php?b=application/stylesheets&amp;f=reset.css,styles.css,custom.css,dialog.css&amp;nocache=90">
+    <link rel="stylesheet" type="text/css" href="http://www.zomato.com/library/min104/index.php?b=application/stylesheets&amp;f=reset.css,styles.css,custom.css,dialog.css,ie-icons.css&amp;nocache=104">
             <!--[if IE 6]>
                 <link href="http://www.zomato.com/library/min/index.php?b=application/stylesheets&amp;f=ie6.css" rel="stylesheet" type="text/css">
             <![endif]-->
@@ -24,13 +24,14 @@
         var zomato = zomato || {};
         FB_APP_ID = "288523881080";
         HOST = "http://www.zomato.com/";
-        CDN = "http://www.zmtcdn.com/";
-        CITY_ID = "5";
+        CDN = "http://www.zomato.com/";
+        HOST_TRACK = "http://track.zomato.com/";
+        CITY_ID = "1";
         USER_ID = "";
         COOKIE_DOMAIN = "zomato.com";
         //  ADREF = "";
         SECTION = "restaurants";
-        CITY_URL = "pune/";
+        CITY_URL = "ncr/";
     </script>
 
     <!-- make html5 tags work in IE -->
@@ -59,7 +60,7 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
     _gaq.push(['t2._trackPageLoadTime']);
 
     
-        _gaq.push(['_setAccount', 'UA-19617341-6']);
+        _gaq.push(['_setAccount', 'UA-19617341-2']);
         _gaq.push(['_trackPageview']);
         _gaq.push(['_trackPageLoadTime']);
 
@@ -68,7 +69,11 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
         _gaq.push(['t3._trackPageLoadTime']);
         _gaq.push(['t3._addIgnoredOrganic', 'zomato']);
         _gaq.push(['t3._addIgnoredOrganic', 'zomato.com']);
-    
+
+                    _gaq.push(['t4._setAccount', 'UA-19617341-30']);
+            _gaq.push(['t4._trackPageview']);
+            _gaq.push(['t4._trackPageLoadTime']);
+            
     (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -78,59 +83,44 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
 
     <!-- Clicky tracking code --> 
     
-    <script type="text/javascript">
-    // remove cookie if user opened in new window
-    var isjmn = false;
-    
-    if(!isjmn || top.window.location == window.location) {
-        var nDays = 1;
-        var today = new Date();
-        var expire = new Date();
-        expire.setTime(today.getTime() - 3600000*24*nDays);
-        document.cookie = "jmn=false"
-            + ";path=/;domain="+COOKIE_DOMAIN+";expires="+expire.toGMTString();
-
-    }
-</script>
-
-</head>
-<body style="min-width: 1000px;">
-    <header id="header">
+    </head>
+    <body style="min-width: 1000px; " itemscope="" itemtype="http://schema.org/Restaurant">
+                    <header id="header">
 
 <div class="container">
     <div class="grid_8 column">
-        <div class="left"><a class="zlogo" href="http://www.zomato.com/" title="Zomato Pune - Restaurant search, View Menus, Pictures, Reviews, Address and Phone numbers for restaurants in Pune">
-                <img id="logo" src="http://www.zmtcdn.com/images/newtest/zomato-logo-black-c.png" alt="Zomato - Restaurant Directory and Food Guide for Pune, Restaurant Reviews, Menus, Events">
+        <div class="left"><a class="zlogo" href="http://www.zomato.com/" title="Zomato Delhi NCR - Restaurant search, View Menus, Pictures, Reviews, Address and Phone numbers for restaurants in Delhi NCR">
+                <img id="logo" src="http://www.zomato.com/images/newtest/zomato-logo-black-c.png" alt="Zomato - Restaurant Directory and Food Guide for Delhi NCR, Restaurant Reviews, Menus, Events">
             </a></div>
-        <div id="city_list" class="left">
-            <div class="header-selected"><img src="http://www.zomato.com/images/in.png" class="cflag">Pune</div><span class="caret"></span><div class="user-city-list"><a href="http://www.zomato.com/ncr">Delhi NCR</a><a href="http://www.zomato.com/mumbai">Mumbai</a><a href="http://www.zomato.com/bangalore">Bangalore</a><a href="http://www.zomato.com/hyderabad">Hyderabad</a><a href="http://www.zomato.com/chennai">Chennai</a><a href="http://www.zomato.com/kolkata">Kolkata</a><a href="http://www.zomato.com/jaipur">Jaipur</a><a href="http://www.zomato.com/ahmedabad">Ahmedabad</a><a href="http://www.zomato.com/chandigarh">Chandigarh</a></div>        </div>
+        <div id="city_list" class="left country_1">
+            <div class="header-selected left">Delhi NCR</div><span class="caret"></span><div class="user-city-list"><a href="http://www.zomato.com/mumbai">Mumbai</a><a href="http://www.zomato.com/bangalore">Bangalore</a><a href="http://www.zomato.com/pune">Pune</a><a href="http://www.zomato.com/hyderabad">Hyderabad</a><a href="http://www.zomato.com/chennai">Chennai</a><a href="http://www.zomato.com/kolkata">Kolkata</a><a href="http://www.zomato.com/lucknow">Lucknow</a><a href="http://www.zomato.com/jaipur">Jaipur</a><a href="http://www.zomato.com/ahmedabad">Ahmedabad</a><a href="http://www.zomato.com/chandigarh">Chandigarh</a><a href="http://www.zomato.com/indore">Indore</a><a href="http://www.zomato.com/ludhiana">Ludhiana</a><div class="country_id country_214">UAE</div><a href="http://www.zomato.com/dubai">Dubai</a><a href="http://www.zomato.com/sharjah">Sharjah</a><a href="http://www.zomato.com/abudhabi">Abu Dhabi</a><div class="country_id country_191">Sri Lanka</div><a href="http://www.zomato.com/colombo">Colombo</a></div>        </div>
     </div>
     <div class="grid_8 column ta-right">
         <div class="user-dropdown">
             <!--<a class="login-link" href="http://www.zomato.com/careers?ref=header" >We're Hiring!</a> &nbsp;&middot;&nbsp;
 -->
+
         <div id="loginbox" class="head-link column alpha omega">
-            <div class="user-tab" id="header-login-dd-link">            
-                <div class="user-area login-link" id="signin-link">
-                    <img src="http://www.zmtcdn.com/images/default_avatar_50.png">
-                    <div class="not-signed-in">Not Signed In</div>
-                    <div class="clear"></div>
-                </div>
+            <div class="left">
+                <div id="header-notifications" class="notifications-container">
+                    
+            <div class="notifications "><p class="count">0</p><span class="caret"></span></div>
+            <div id="header-notifications-content" class="notifications-content activity-feed">
+                <ul class="content">
+                </ul>
+                <ul><li class="view-all"><a href="http://www.zomato.com/notifications">View all notifications</a></li></ul>
             </div>
+                        </div>
+            </div>
+
+            <a id="signin-link" class="btn">Login</a>
+            <a id="signup-link" class="btn">Signup</a>
         </div>
     <!--
     <div id="loginbox" class="head-link mtop0">
         <a id="signin-link" class="login-link" href="#">Sign In</a>
     </div>-->
-
-            <div id="login-notification" class="hidden">
-                <div class="login-tip">
-                    Tip
-                </div>
-                <div class="rb5 login-notification-content">
-                    <b>Logged in successfully</b>
-                </div>
-            </div>        </div>
+        </div>
     </div>
     <div class="clear"></div>
     <div class="grid_16 column">
@@ -145,7 +135,7 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
                                     </form>
                             </div> 
                         </div> </div>
-                <ul id="sections"><li class="sel"><a href="http://www.zomato.com/" class="head-link header-first-link">Restaurant Guide</a></li><li><a href="http://www.zomato.com/events" class="head-link">Events</a></li><li><a href="http://www.zomato.com/print" class="head-link">Handbooks</a></li><li><a href="http://www.zomato.com/yummyyatra" class="head-link"><span class="hot-link"></span>Yummy Yatra</a></li><li><a href="http://www.zomato.com/euro" class="head-link">Euro 2012</a></li></ul>
+                <ul id="sections"><li class="sel"><a href="http://www.zomato.com/" class="head-link header-first-link">Restaurant Guide</a></li><li><a href="http://www.zomato.com/print" class="head-link">Handbooks</a></li><li><a href="http://www.zomato.com/blog" class="head-link">Blog</a></li></ul>
             </div>
             
         </div>
@@ -230,7 +220,7 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
 			<br><h2 class="heading2">X. Dispute resolution</h2>
 
 			<p>If you believe that Zomato has not adhered to this Privacy Policy you may write to Zomato at the following address:</p>
-			<p>e-mail:<span id="e937750891"><a href="mailto:privacy@zomato.com">privacy@zomato.com</a></span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"ryYEGCv39Vq@eBb.WKcmXTuA-_4L56MPkpfJnaUlNisF1QzwRhgdIODtZo0H7x+S82j\";var b=a.split(\"\").sort().join(\"\");var c=\"Z0h+iF2BjtOi7tYFtO\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e937750891\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script></p>
+			<p>e-mail:<span id="e132476920"><a href="mailto:privacy@zomato.com">privacy@zomato.com</a></span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"Uo8ZAykMxVBz@wHTb7uG-41LOXflieE26QqtnCjmhrWsRa.JKpdFIvS3g_9Y5cP0+DN\";var b=a.split(\"\").sort().join(\"\");var c=\"g9pPrsDwN3vr538s3v\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e132476920\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script></p>
 
 			<p>In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.</p>
 			<br><h2 class="heading2">XI. Contacting the website and access to your personal information</h2>
@@ -248,13 +238,9 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
 <footer class="clear">
 <div class="footer">
     <div class="container pos-relative">
-        <div style="position: absolute; top: 100px; right: 10px; opacity: 0.8;">
-            <a href="http://www.facebook.com/groups/33149066063/" target="_blank"><img src="http://www.zmtcdn.com/images/firstcity.png"></a>
-        </div>
-        <div class="clear"></div>
         <div class="grid_16 column" id="footer-logo">
             <div class="redlogo column">
-                <img src="http://www.zmtcdn.com/images/redlogo.png" style="padding-top: 2px; border-radius: 0px;">
+                <img src="http://www.zomato.com/images/redlogo.png" style="padding-top: 2px; border-radius: 0px;">
             </div>
             <div class="left" style="color: #ffffff; text-shadow: 0 -1px 0 rgba(0,0,0,0.3); box-shadow: 1px 0 0 rgba(255,255,255, 0.2) inset;  font-size: 15px; padding-left: 10px; border-left: 1px solid rgba(0,0,0,0.2);">
                 Discover more places to eat around you
@@ -269,23 +255,14 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
                     <ul>	
                         <li><a href="http://www.zomato.com/about">About</a></li> 
                         <li><a href="http://www.zomato.com/blog">Blog</a></li>
-                        <li><a href="http://www.zomato.com/information">Merchants</a></li>
+                        <li><a href="http://www.zomato.com/press">Press</a></li>
+                        <li><a href="http://www.zomato.com/information">Restaurants</a></li>
                         <li><a href="http://www.zomato.com/advertise">Advertise</a></li>
                         <li><a href="http://www.zomato.com/careers">Careers</a></li>
-                        <li><a href="http://www.zomato.com/crunch">Newsletter</a></li>
-                        <li><a href="http://www.zomato.com/mobile">Mobile Apps</a></li> 
-                        <li><a href="http://www.zomato.com/contact">Contact Us</a></li>
-                        <li class="clear ieclear"></li>
-                    </ul>
-                    </li>
-                    <li class="footer-link-bar second grid_2 column"> 
-                    <ul>    
-                        <li><a href="http://www.zomato.com/press">Media Center</a></li>
+                        <li><a href="http://www.zomato.com/mobile">Mobile</a></li> 
                         <li><a href="http://www.zomato.com/api">API</a></li>
-                        <li><a href="http://www.zomato.com/widget">Widgets</a></li> 
-                        <li><a href="http://www.zomato.com/privacy" rel="nofollow">Privacy Policy</a></li> 
-                        <li><a href="http://www.zomato.com/faqs" rel="nofollow">FAQs</a></li> 
-                        <li><a href="http://www.zomato.com/contact?type=feedback" rel="nofollow">Feedback</a></li> 
+                        <li><a href="http://www.zomato.com/privacy">Privacy</a></li>
+                        <li><a href="http://www.zomato.com/contact">Contact</a></li>
                         <li class="clear ieclear"></li>
                     </ul>
                     </li>
@@ -293,7 +270,7 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
             </div>
             <div class="clear"></div>
         </div>
-        <div class="footer-bottom med">
+        <div class="footer-bottom med mtop0">
             <div id="footer-bottom-left" class="grid_8 column">
                 By continuing past this page, you agree to abide by <a href="http://www.zomato.com/conditions" rel="nofollow">Terms of Use</a>.
                 All trademarks are properties of their respective owners.	
@@ -303,21 +280,47 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
         </div>
         <div class="clear"></div>		
         <div class="footer-bottom grid_8 column med mtop0">
-            Alphabetical directory of pages: <a class="sec-link" href="http://www.zomato.com/pune/directory/num">#</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/a">A</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/b">B</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/c">C</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/d">D</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/e">E</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/f">F</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/g">G</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/h">H</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/i">I</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/j">J</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/k">K</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/l">L</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/m">M</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/n">N</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/o">O</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/p">P</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/q">Q</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/r">R</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/s">S</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/t">T</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/u">U</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/v">V</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/w">W</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/x">X</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/y">Y</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/pune/directory/z">Z</a>
+            Alphabetical directory of pages: <a class="sec-link" href="http://www.zomato.com/ncr/directory/num">#</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/a">A</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/b">B</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/c">C</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/d">D</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/e">E</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/f">F</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/g">G</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/h">H</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/i">I</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/j">J</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/k">K</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/l">L</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/m">M</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/n">N</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/o">O</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/p">P</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/q">Q</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/r">R</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/s">S</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/t">T</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/u">U</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/v">V</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/w">W</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/x">X</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/y">Y</a>&nbsp;·&nbsp;<a class="sec-link" href="http://www.zomato.com/ncr/directory/z">Z</a>
+            · <a class="sec-link" href="http://www.zomato.com/directory">Full Directory</a>
+            · <a class="sec-link" href="http://www.zomato.com/ncr/directory/tags">Tags</a>
             <br>
-            List of restaurants in:            <a class="sec-link" href="http://www.zomato.com/ncr/directory">Delhi NCR</a> ·
-            <a class="sec-link" href="http://www.zomato.com/mumbai/directory">Mumbai</a> ·
-            <a class="sec-link" href="http://www.zomato.com/bangalore/directory">Bangalore</a> ·
-            <a class="sec-link" href="http://www.zomato.com/chennai/directory">Chennai</a> ·
-            <a class="sec-link" href="http://www.zomato.com/pune/directory">Pune</a> ·
-            <a class="sec-link" href="http://www.zomato.com/kolkata/directory">Kolkata</a> ·
-            <a class="sec-link" href="http://www.zomato.com/hyderabad/directory">Hyderabad</a> ·
-            <a class="sec-link" href="http://www.zomato.com/ahmedabad/directory">Ahmedabad</a> ·
-            <a class="sec-link" href="http://www.zomato.com/jaipur/directory">Jaipur</a> ·
-            <a class="sec-link" href="http://www.zomato.com/chandigarh/directory">Chandigarh</a> ·
-            <a class="sec-link" href="http://www.zomato.com/directory">Full Directory</a> ·
-            <a class="sec-link" href="http://www.zomato.com/pune/directory/tags">Tags</a> ·
-            <a href="http://www.zomato.com/newsletters" class="sec-link">Newsletter Archives</a>       
+            List of restaurants in:                                                            <a class="sec-link" href="http://www.zomato.com/ncr/directory">Delhi NCR</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/mumbai/directory">Mumbai</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/bangalore/directory">Bangalore</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/pune/directory">Pune</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/hyderabad/directory">Hyderabad</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/chennai/directory">Chennai</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/kolkata/directory">Kolkata</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/lucknow/directory">Lucknow</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/jaipur/directory">Jaipur</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/ahmedabad/directory">Ahmedabad</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/chandigarh/directory">Chandigarh</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/indore/directory">Indore</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/ludhiana/directory">Ludhiana</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/dubai/directory">Dubai</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/sharjah/directory">Sharjah</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/abudhabi/directory">Abu Dhabi</a>
+                                            ·
+                                                <a class="sec-link" href="http://www.zomato.com/colombo/directory">Colombo</a>
+                        <br>
+
+            
+            <a href="http://www.zomato.com/newyear" rel="nofollow">New Year Parties</a> 
             <br>
 
             <div>
@@ -327,21 +330,25 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
                 <a target="_blank" href="http://www.jeevansathi.com/">Jeevansathi</a> ·
                 <a target="_blank" href="http://www.shiksha.com/">Shiksha</a> ·
                 <a target="_blank" href="http://www.mumbaiboss.com/">Mumbai Boss</a>
+                
+                <!--
                 &nbsp;&nbsp; |&nbsp;&nbsp;
                 Coming soon:
-                <a href="http://www.zomato.com/dubai">Dubai</a> · 
+                <a href="http://www.zomato.com/abudhabi">Abu Dhabi</a> &middot;
                 <a href="http://www.zomato.com/singapore">Singapore</a>
+                -->
+                
             </div>
         </div>	
         <div class="clear"></div>
         <div class="mtop0 column footer-bottom-stats" style="width: 952px;">
             <div class="bottom-stats left">
-                <b>33,700 restaurants</b> discovered by <b>28.5 million foodies</b> since July 2008; <b>2,120 foodies</b> online now.
+                <b>49,700 restaurants</b> discovered by <b>49.7 million foodies</b> since July 2008; <b>4,963 foodies</b> online now.
             </div>
-            <div class="bottom-stats right pbot0">
-                <a target="_blank" href="https://twitter.com/#!/zomato"><img src="http://www.zmtcdn.com/images/ftwitter.png"></a>&nbsp;&nbsp;
-                <a target="_blank" href="http://www.youtube.com/user/zomatodotcom/featured"><img src="http://www.zmtcdn.com/images/fyoutube.png"></a>&nbsp;&nbsp;
-                <a target="_blank" href="https://www.facebook.com/zomato"><img src="http://www.zmtcdn.com/images/ffacebook.png"></a>
+            <div class="bottom-stats right pbot0 social-icons">
+                <a target="_blank" href="https://twitter.com/#!/zomato" class="twitter"></a>
+                <a target="_blank" href="https://www.facebook.com/zomato" class="facebook"></a>
+                <a target="_blank" href="http://www.youtube.com/user/zomatodotcom/featured" class="youtube"></a>
             </div>
             <div class="clear"></div>
         </div>
@@ -352,9 +359,13 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
     <div class="clear"></div>
 </div>
 </footer>
-    <div class="clear" id="fb-root"></div> 
-    <script type="text/javascript" src="http://www.zomato.com/library/min92/index.php?b=application/javascript&amp;f=jquery.min.js,common.js,dialog.js,login.js,jquery.easing.js,jquery-ui.js,customscroll.js,analytics.js&amp;nocache=92"></script>
-        
+<div class="clear" id="fb-root"></div> 
+    <script type="text/javascript" src="http://www.zomato.com/library/min117/index.php?b=application/javascript&amp;f=modernizr.js,jquery.min.js,common.js,dialog.js,login.js,jquery.easing.js,jquery-ui.js,customscroll.js,analytics.js&amp;nocache=117"></script>
+        <script>zomato.anonymousnotifications.fetch();</script> 
+    <script type="text/javascript">
+      var hiring_msg_positions = " for Sales Managers, Technocrats & Graphics Designers";
+    </script>
+
 <script type="text/javascript">
         
     window.fbAsyncInit = function() {
@@ -390,6 +401,7 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
         js.src = "//connect.facebook.net/en_US/all.js";
+        // js.defer = "defer";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 
@@ -404,24 +416,20 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
 */
 </script> 
 
+
+
+
+
     
-
-    <script type="text/javascript">
-    if(typeof(isjmn) != 'undefined' && isjmn && top.window.location != window.location) {
-        $("#breadcrumb a.home").replaceWith($("#breadcrumb a.home").html());
-        $("#logo").parent().replaceWith($("#logo"));
-    }
-</script>
-
     
     
     
     
     <script>
             var tdata = tdata || {};tdata["regime"] = "-1";tdata["adref"] = "deleted";
-                tdata["fbtrack"] = "290fc3243c1b4e7d5b4c6021152ce1a74fedad73aae138.53017941";
+                tdata["fbtrack"] = "290fc3243c1b4e7d5b4c6021152ce1a75093c292655011.96928352";
                 tdata["userid"] = "0";
-                tdata["city_id"] = "5";
+                tdata["city_id"] = "1";
                 tdata["res_id"] = "";
                 tdata["ref"] = document.referrer; tdata["page"] = document.location.href;
                 if(typeof(userActionType) == "undefined")
