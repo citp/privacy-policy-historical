@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seeknews.info privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517123631id_/http%3A//seeknews.info/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeknews.info privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102232842id_/http%3A//seeknews.info/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Seek News
+# Privacy Policy |
 
 Privacy Policy for seeknews.info 
 
