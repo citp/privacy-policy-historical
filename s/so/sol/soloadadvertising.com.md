@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soloadadvertising.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501102121id_/http%3A//www.soloadadvertising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloadadvertising.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102045136id_/http%3A//soloadadvertising.com/privacy.php) for the most accurate reproduction.*
 
 # Solo Ad Advertising Solo Ads
 
-[](http://soloadadvertising.com/bannerclick.php?id=7)
+[](http://soloadadvertising.com/bannerclick.php?id=6)
 
 Solo Ad Advertising Privacy Policy
 
