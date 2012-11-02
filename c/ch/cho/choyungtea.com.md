@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041516id_/http%3A//www.choyungtea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102025038id_/http%3A//www.choyungtea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Cho-Yung Tea
 
@@ -6,7 +6,7 @@ Cho-Yung (Cyprus) Limited ( **"We"; "Us"** ) is committed to protecting and resp
 
 **1\. DATA CONTROLLER**
 
-For the purpose of the Data Protection Act 1998 (the **"Act"** ), the Data Controller is Cho-Yung (Cyprus) Limited **,** a company incorporated in registered in Cyprus under company number HE273919 having its registered office at Ivykou, 74 P.C.3081, Limassol, Cyprus.
+For the purpose of the Data Protection Act 1998 (the **"Act"** ), the Data Controller is Cho-Yung (Cyprus) Limited **,** a company incorporated in registered in Cyprus under company number HE273919 having its registered office at Eressou 1, Mesa Geitonia, 4002, Limassol, Cyprus (VAT No: 10273919L).
 
 **2\. INFORMATION WE MAY COLLECT FROM YOU**
 
@@ -90,4 +90,4 @@ Any changes We may make to our Privacy Policy in the future will be posted on th
 
 **9\. CONTACT**
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Cho-Yung (Cyprus) Ltd., Ivikou 74, 3081, Limassol, Cyprusor or [help@mycysupport.com](mailto:help@mycysupport.com)
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Cho-Yung (Cyprus) Ltd., Eressou 1, Mesa Geitonia, 4002, Limassol, Cyprus (VAT No: 10273919L), or [help@mycysupport.com](mailto:help@mycysupport.com)
