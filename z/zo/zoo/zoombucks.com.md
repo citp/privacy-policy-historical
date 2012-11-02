@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621111705id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102112718id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
 
 # privacy - ZoomBucks.com
 
