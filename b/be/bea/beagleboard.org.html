@@ -1,21 +1,16 @@
-<!--The following is the downloaded HTML source of the beagleboard.org privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510203744id_/http%3A//beagleboard.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beagleboard.org privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102115528id_/http%3A//beagleboard.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>BeagleBoard.org - privacy</title>
-  <meta name="keywords" content="Beagle Board, BeagleBoard, beagleboard.org, BeagleBone, BeagleBoard-xM, bealgeboard, open hardware, open source">
+  <meta name="keywords" content="Beagle Board, BeagleBoard, beagleboard.org, BeagleBone, BeagleBoard-xM, bealgeboard, open hardware, open source, Linux, computer">
   <link href="http://feeds.feedburner.com/BeagleBoard" rel="alternate" title="Beagle Board news feed" type="application/atom+xml">
   <link rel="icon" href="/static/beagle.ico" type="image/x-icon">
   <link rel="shortcut icon" href="/static/beagle.ico" type="image/x-icon">
-  <style type="text/css">
-   @import "dojoroot/dijit/themes/tundra/tundra.css";
-   @import "/static/dojo/resources/dojo.css";
-   @import "/static/dojox/image/resources/image.css";
-  </style>
-  <script type="text/javascript" src="/static/dojo/dojo.js" djconfig="parseOnLoad: true"></script>
   <style type="text/css" media="screen">@import "/static/common.css";</style>
   <style type="text/css" media="screen">@import "/static/login.css";</style>
+  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/static/jquery-1.4.2.min.js"></script>
  </head>
  <body>
   <a name="top" id="top"></a>
@@ -23,14 +18,14 @@
   <div id="wrapper">
    <!-- Header/Logo Area - START -->
    <div id="header">
-    <div id="logo"><a href="/"><img src="/static/images/beagle-hd-logo.gif" alt="Beagle Board - beagleboard.org" border="0"></a></div>
+    <div id="logo"><a href="/"><img src="/static/images/beagle-hd-logo.gif" alt="Beagle Board - beagleboard.org" border="0" width="301" height="53"></a></div>
     <!-- Horizontal Navigation - START -->
     <div id="nav2">
      <ul>
       <li><a href="/support">Support</a> |</li>
       <li><a href="/about">About</a> |</li>
       <li><a href="/media">Pics</a> |</li>
-      <li><a href="http://www.twitter.com/BeagleBoardOrg">Tweets</a></li>
+      <li><div class="g-plusone" data-size="small" data-annotation="none"></div></li>
       <li>&nbsp;&nbsp;</li>
       <li class="google">
        <form action="http://www.google.com/cse" id="cse-search-box">
@@ -49,7 +44,7 @@
     <div id="nav">
      <ul>
       <li class="navitem1"><a href="/discuss">Discuss</a></li>
-      <li class="navitem2"><a href="/hardware">Details</a></li>
+      <li class="navitem2"><a href="/details">Details</a></li>
       <li class="navitem3"><a href="/project">Projects</a></li>
       <li class="navitem4"><a href="/buy">Buy</a></li>
      </ul>
@@ -118,20 +113,33 @@
   <!-- DIV that centers page - END -->
   <!-- Footer - START -->
   <div id="footer">
-   <div id="cc"><a href="http://creativecommons.org/about/license/" target="_blank"><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="Creative Commons - Conditions - Attribution and Share Alike" border="0"></a></div>
+   <div id="cc"><a href="http://creativecommons.org/about/license/" target="_blank"><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="Creative Commons - Conditions - Attribution and Share Alike" border="0" width="88" height="31"></a></div>
    <div id="footernav">
     <p>
-     <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use</a> | </p><div class="login">  <form method="post" action="">
-   <input type="text" id="openid" name="openid_url">
-   <button type="submit">Login</button>
-  </form>
- | <a href="/register">Register</a></div><br>
+     <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use</a> | </p><div class="login"> <div id="prompt_form"> | </div> <a href="/register">Register</a>
+</div><br>
      Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-Share Alike 3.0 license
     <p></p>
    </div>
   </div>
   <br>
   <!-- Footer - END -->
+  <script type="text/javascript">
+    $('#prompt_form').html(''
+     + '  <form method="post" action="">'
+     + '   <input type="text" id="openid" name="openid_url"></input>'
+     + '   <button type="submit">Login</button>'
+     + '  </form>'
+     + $('#prompt_form').html()
+    );
+  </script>
+  <script type="text/javascript">
+   (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+   })();
+  </script>
   <script type="text/javascript">
    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
