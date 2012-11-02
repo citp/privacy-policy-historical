@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyfeetstore.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512025725id_/http%3A//www.healthyfeetstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfeetstore.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102012951id_/http%3A//www.healthyfeetstore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
