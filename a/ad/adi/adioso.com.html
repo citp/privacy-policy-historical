@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adioso.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504021343id_/http%3A//adioso.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adioso.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102060410id_/http%3A//adioso.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -16,7 +16,7 @@
 
     
     <meta property="og:title" content="">
-    <meta property="og:type" content="activity">
+	<meta property="og:type" content="website">
     <meta property="og:url" content="http://adioso.com/privacy">
     <meta property="og:site_name" content="Adioso">
     <meta property="fb:admins" content="594131406,667456646">
@@ -26,41 +26,69 @@
     <meta property="og:description" content="Amazing travel search for spontaneous and adventurous travellers. Adioso lets you have the best vacations humanly possible. It lets you search for destinations with flexibility, follow the things you're interested in, then book the best deals.">
     
 
-    <link rel="stylesheet" href="/media/CACHE/css/773e676a90e2.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/media/CACHE/css/ee6806aec1a4.css" type="text/css" media="all"><link rel="stylesheet" href="/media/CACHE/css/a370cd9ae4f3.css" type="text/css"><link rel="stylesheet" href="/media/CACHE/css/fc3f501dfe02.css" type="text/css" media="all">
 
     <!--[if gte IE 8]><link rel="stylesheet" type="text/css" href="/media/styles/ie8plus.css?rid=None" media="all" /><![endif]-->
-    <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/media/styles/ie.css?rid=None" media="all" /><![endif]-->
-    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/media/styles/ie6.css?rid=None" media="all" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/media/styles/ie8lte.css?rid=None" media="all" /><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/media/styles/ie.css?rid=None" media="all" /><![endif]-->
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/CACHE/js/e950d475554a.js"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/CACHE/js/2a3817b6e8dc.js"></script>
+
+    
 
 	
     
-
-    
-    <style type="text/css" media="screen">
-        iframe { vertical-align: top; }
-    </style>
 
     <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&amp;sensor=false"></script>
 
     
     
-    
-    
     <script type="text/javascript">
-    $(document).ready(function() {
-      
-      Adioso.makeHoverable($(".options .list li"));
-      
-      Adioso.makePlaceHolder("#search_form input.text_area");
-      Adioso.makePlaceHolder("#flight_origin");
-      Adioso.makePlaceHolder("#flight_destination");
-      Adioso.makePlaceHolder("#flight_when");
-      
-      
-    });
-    </script>
+
+	    $(document).ready(function() {
+	
+		//sticky
+		$(window).scroll(function(){
+			var topDistance = $('#header').height();
+			var top = $(window).scrollTop();
+			$('div#search_form').toggleClass('sticky', top >= topDistance);    		
+		})
+	
+		if(Modernizr.opacity)
+		{
+			//If we can't use the opacity trick to hide the select box, then
+			//it will do all of the necessary display. I'm looking at you IE8.
+			$('#stops_select').change(function() {
+				var text = $(this).find('option:selected').text();
+				$('#stops_dropdown_container .value').text(text);
+			}).trigger('change');
+		}
+		
+		Adioso.makeHoverable($(".options .list li"));
+		
+		Adioso.makePlaceHolder("#search_form input.text_area");
+		Adioso.makePlaceHolder("#flight_origin");
+		Adioso.makePlaceHolder("#flight_destination");
+		Adioso.makePlaceHolder("#flight_when");
+		Adioso.makePlaceHolder("#flight_trip_length");
+		
+		Adioso.makeDepartingMenu($("#flight_when"));
+		Adioso.makeRoundTripMenu($("#flight_trip_length"),
+					  	      		"Never",
+									function() {
+											 	  var date = Date.parse($("#flight_when").val());
+											 	  if(date == null)
+													  return null;
+											
+												  var yesterday = Date.now().add(-1).day();
+													
+												  if(date < yesterday)
+													  date.add(1).year();
+												  return date;
+											   }
+						 			   );
+		});
+	</script>
 
 
     <script type="text/javascript">
@@ -69,11 +97,18 @@
     	
     		ab_user_types = {};
     		   
-    			ab_user_types['followtooltip'] = {'type':'hide'};
+    			ab_user_types['melbourne_home_page_welcome'] = {'type':'original'};
     		
+    		
+    		//Mark as human
+    		var a=Math.floor(Math.random()*11);
+			var b=Math.floor(Math.random()*11);
+			var x=$.post('/mark_as_human', {a: a, b: b, c: a+b});
     	
     
 		var currSymbol = '$';
+		
+	  
     </script>
 
         
@@ -90,18 +125,20 @@
       _gaq.push(['_setAccount', 'UA-17854055-1']);
       _gaq.push(['_setDomainName', '.adioso.com']);
 	  
+	    
 	    _gaq.push(['_setCustomVar',
-	               1,  // Slot ID
-	               'followtooltip',   // Category
-	               'hide',   // Actual user type
+	               2,  // Slot ID
+	               'melbourne_home_page_welcome',   // Category
+	               'original',   // Actual user type
 	                               2]); // Session level var
+		
 	  
       
       
       _gaq.push(['_setCustomVar',
                  5,              // Slot ID
                  'User-City',    // Category
-                 'US/Calif/San Francisco',
+                 'US/DC/Washington',
                  2               // Session level var
               ]);
       
@@ -112,9 +149,6 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
-    
-    
-      var _saq = [];    
     
     </script>
     
@@ -139,18 +173,31 @@
           <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1009246068/?label=hwpOCMSRwgIQ9L6f4QM&amp;guid=ON&amp;script=0"/>
       </div>
     </noscript>
-</head>
-<body id="flatpage">
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body id="flatpage"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
 	<div id="header">
 		<div class="inner">
 			<div id="logo">
 			    <a href="/">
-			        <img title="" alt="Adioso" src="/media/i/shared/logo-sml.png">
+			        <img title="" alt="Adioso" src="/media/i/header/logo.png">
 			    </a>
 			</div>
+			<span class="tagline">
+				Thinking travel.
+			</span>
 	        <div class="options">
-    <ul class="socket">
-       <li class="location"><span class="link pseudo_link"><i></i><var><span>San Francisco</span><ins></ins></var></span>
+    <ul class="socket clearfix">
+       <li class="location"><span class="link pseudo_link"><i></i><var><span>Washington</span><ins></ins></var></span>
            <div class="list hidden">
                <div class="d_wrap">
                <div class="container">
@@ -167,7 +214,7 @@
            <div class="list hidden">
                <div class="d_wrap">
                <div class="container">
-               <ul data-cookie="userCurrency">
+               <ul class="userCurrency" data-cookie="userCurrency">
                
                    <li data-id="AUD"><span class="opt">AUD</span></li>
                
@@ -200,41 +247,59 @@
                </div>
            </div>
        </li>
-       <!--
-       <li class="lang"><span class="link pseudo_link"><i></i><var><span>Portugues</span><ins></ins></var></span>
-           <div class="list hidden">
-               <div class="d_wrap">
-               <div class="container">
-               <ul data-cookie="userLanguage">
-                   <li data-id="ENG"><span class="opt">English</span></li>
-                   <li data-id="GER"><span class="opt">German</span></li>
-                   <li data-id="UKR"><span class="opt">Ukrainian</span></li>
-               </ul>
-               </div>
-               <div class="cn tl png"></div>
-               <div class="cn tr png"></div>
-               </div>
-               <div class="cn bl png"></div>
-               <div class="cn br png"></div>
-           </div>
-       </li>
-        -->
     </ul>
 </div>
 		</div>
 	</div>
 	
 	<div id="container">
-	    <div class="inner">
-	        
-<div id="search_form"></div>
+		<div id="search_form">
 
-	
+			    <form id="flight_search" class="flight_search inner clearfix" method="get" action="/search_form" autocomplete="off">
+			    	<img id="plane_icon" title="" alt="Adioso Plane" src="/media/i/header/plane.png">
+	        
+	        	<ul class="clearfix">
+	        		<li>
+	        			<label for="flight_origin">From</label>
+	        			<input id="flight_origin" class="text_area" type="text" name="origin" value="Washington">
+	        		</li>
+		            <li>
+		            	<label for="flight_destination">To</label>
+		            	<input id="flight_destination" class="text_area" type="text" name="destination" value="Anywhere">
+		            </li>
+		            <li>
+		            	<label for="flight_when">When</label>
+		            	<input id="flight_when" class="text_area" type="text" name="when" value="Anytime">
+		            </li>
+		            <li>
+			            <label for="flight_trip_length">Returning</label>
+			            <input id="flight_trip_length" class="text_area" type="text" name="trip_length" placeholder="Never">
+		            </li>
+		          	<li>
+		          		<label>&nbsp;</label>
+		          		<div id="stops_dropdown_container">
+		          			<span class="value"></span>
+				            <select name="route_opt" id="stops_select">
+				                <option value="direct">Direct</option>
+				                <option value="1 stop">1 stop</option>
+				                <option selected="selected" value="">2+ stops</option>
+				            </select>
+		          		</div>		          		
+		           	</li>
+		            <li class="search">
+		            	<button class="search_button" type="submit"><span class="icon"></span>Search</button>
+		          	</li>
+	          	</ul>
+	        </form>
+        </div>      		
+	    
+	    <div class="inner">
 	        <div id="page_body">
 	        
-<div class="static">
-<h1>Privacy Policy</h1>
-<p>&nbsp;</p>
+<div id="content">
+	<h1 class="page_title">Privacy Policy</h1>
+	<div class="box flatpage">
+		<p>&nbsp;</p>
 <p><strong>Adioso, Inc.</strong>&nbsp;</p>
 <p>Privacy Policy</p>
 <p>This Privacy Policy was last revised on February 10, 2010.</p>
@@ -282,8 +347,7 @@
 <p>None at this time.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-</div>
-<div id="content">
+	</div>
     <script type="text/javascript">
     $(document).ready(function() {
         var ajax_options = {
@@ -314,7 +378,7 @@
     <div class="bottom">
     	
     	<form id="feedback_form" method="post" action="/api/send_feedback">
-        	<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="1e0db851bf4715cf2e145adb1887c849"></div>
+        	<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="062656929cb54de322778838bf0e4250"></div>
        		<textarea name="message"></textarea>
         	<div>
         		<label for="mail">Email (optional)</label>
@@ -337,10 +401,17 @@
     
 
         <div id="footer">
-        <p class="tagline"><img src="/media/i/shared/footer-logo.png" alt="Adioso" title="Adioso"> is a travel search engine that finds the best flight deals.</p>
+    
+        <p> &nbsp; </p>
+
+		<div class="fb-like-box" data-href="http://www.facebook.com/adioso" data-width="570" data-height="290" data-show-faces="true" data-stream="false" data-header="true"></div>        
+
+        <p> &nbsp; </p>
+        
         <p class="tl-nav">
             <a href="/">Home</a> |
-            <a href="/following/manage">Subscribe</a> |
+            <a href="/following/missing_routes">Upcoming Routes</a> |
+            <a href="/following/manage">Manage</a> |
             <a href="http://blog.adioso.com">Blog</a> |
             <a href="/about">About</a> |
             <a href="/help">Help</a> |
@@ -370,5 +441,29 @@
         </p>
     </div>
     
+    <!-- Adroll retargeting pixel -->
+    <script type="text/javascript">
+	adroll_adv_id = "5MJYICFPKVDJ7LR25WOZHC";
+	adroll_pix_id = "466HY4NP2NCQJMG6VPNIOK";
+	(function () {
+	var oldonload = window.onload;
+	window.onload = function(){
+	   __adroll_loaded=true;
+	   var scr = document.createElement("script");
+	   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	   scr.setAttribute('async', 'true');
+	   scr.type = "text/javascript";
+	   scr.src = host + "/j/roundtrip.js";
+	   ((document.getElementsByTagName('head') || [null])[0] ||
+	    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	   if(oldonload){oldonload()}};
+	}());
+	</script>	    
+    <!-- begin olark code --><script data-cfasync="false" type="text/javascript">/*{literal}<![CDATA[*/
+window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('7360-612-10-1127');/*]]>{/literal}*/
+$('#olark').next().css('display', 'block');
+</script><noscript><a href="https://www.olark.com/site/7360-612-10-1127/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript><!-- end olark code -->
 
 </body></html>
