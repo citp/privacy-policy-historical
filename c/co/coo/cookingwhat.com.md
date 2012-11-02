@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingwhat.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102550id_/http%3A//www.cookingwhat.com/page/1/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingwhat.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102115541id_/http%3A//www.cookingwhat.com/page/1/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
