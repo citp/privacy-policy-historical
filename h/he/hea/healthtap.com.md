@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525150614id_/https%3A//www.healthtap.com/pages/privacy_sharing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102110047id_/https%3A//www.healthtap.com/pages/privacy_sharing) for the most accurate reproduction.*
 
 # HealthTap
 
@@ -14,8 +14,8 @@ Our company culture respects the values of secure sharing. Our employees receive
 
 Your Identity is Private
 
-  * Your real name is private (only the Public Profile Name you choose is visible to others)
-  * Personally Identifiable Information is not visible to others on the site
+  * Your real name is kept private (and shown only to a doctor if you enter into a Private Conversation)
+  * Personally Identifiable Information is not visible to other users on the site
   * Our privacy protection standards are certified by TRUSTe
 
 
@@ -30,12 +30,12 @@ We are Secure
 
 More on Secure Sharing While Remaining Private
 
-Sharing in a safe and secure setting benefits both you and all community participants by allowing everyone to learn in new ways. You should never be required to give up your privacy when you share, and that’s why member accounts are identified by a Public Profile Name and a Public Profile Image, instead of real names. By properly choosing and safeguarding your unique online HealthTap name, you are anonymous when you share information with our community.
+Sharing in a safe and secure setting benefits both you and all community participants by allowing everyone to learn in new ways. You should never be required to give up your privacy when you share, and that’s why member accounts are identified by a Public Profile Name and image instead of real names. By properly choosing and safeguarding your unique online HealthTap name, you are anonymous when you share information with our community.
 
 Here are some of the ways we have designed this system with you in mind:
 
-  * Your Public Profile does not contain your real name or other Personally Identifiable Information
-  * You can update and delete information in your Account Settings and Health History at any time
+  * Your real name or other Personally Identifiable Information are not revealed to other HealthTap users
+  * You can update and delete information in your Account Settings and Health Activity at any time
   * We automatically log members out of HealthTap after a short period of inactivity
 
 
@@ -46,7 +46,7 @@ Here are some tips about how to stay private and share securely:
 
   * Always keep your password and Public Profile Name private
   * Create a unique Public Profile Name for HealthTap (for example, don’t use the same name on HealthTap that you use on other sites, such as Twitter)
-  * Don’t reveal Personally Identifiable Information to other HealthTap members (for example, don’t give a Connection your name or phone number when exchanging Messages, and don’t post Personally Identifiable Information on the site, such as in a question or comment)
+  * Don’t reveal Personally Identifiable Information to other HealthTap members (for example, don’t post Personally Identifiable Information on the site, such as in a question or comment)
   * Don’t leave an active HealthTap session unattended
 
 
@@ -66,9 +66,9 @@ HealthTap’s Privacy Constitution & Member Bill of Rights
 Our Pledge to You:
 
   1. **We are here to help.**  
-We are here to help you find useful answers and health information from trusted physicians to help you make better decisions about your health and well-being. We ask only for data that can help us provide this service to you, and to use the data provided to improve your experience on our site. 
+We are here to help you find useful answers and health information from trusted physicians to help you make better decisions about your health and well-being. We ask only for data that can help us provide this service to you, and to use the data provided to improve your experience on our service. 
   2. **We let you decide.**  
-We let you decide what you want to share. Other than the information required to sign up for HealthTap, you are not required to share any information with us to use HealthTap. 
+We let you decide what you want to share. Other than the information requested at sign up, you are not required to share any information with us to use HealthTap. 
   3. **We are safe and secure.**  
 We will keep the personal information that you provide to us safe and secure. Our data security meets or exceeds industry standards. We use technology, policies, and conduct, together with a privacy-centered company culture, to ensure that your data is safe with us. 
   4. **Your Identity is Not For Sale.**  
@@ -78,14 +78,14 @@ We won’t sell your personally identifiable information.
 
 Your Rights:
 
-  1. **You share what you want.**  
-Sharing is a matter of personal choice. While sharing improves your experience on HealthTap and the experience of everyone who uses the service, people have different opinions about how much they want to share. With HealthTap you share what you want, when you want, and sharing is not required to use HealthTap. 
-  2. **You control your privacy.**  
-You control your privacy. Our experience is designed to make all information about members on the site anonymous, and identified only by a member’s Public Profile Name and Public Profile Image. 
-  3. **You control your personal information.**  
-You can edit or delete any personal information that you add to your account and Health History. 
+  1. **You control your privacy.**  
+You control your privacy. Our experience is designed to keep your information anonymous and secure. 
+  2. **You control your personal information.**  
+You can edit or delete any personal information that you add to your account and Health Activity. 
+  3. **You share what you want.**  
+Sharing is a matter of personal choice. You share what you want, when you want, and sharing is not required to use HealthTap. 
   4. **You are entitled to know what and how we use the information provided to us.**  
-You have the right to know what Personally Identifiable Information we collect and how it is shared. Our sharing preferences are transparent and we clearly state what information we collect and how it is used. 
+You have the right to know what Personally Identifiable Information we collect and how it is used. Our sharing preferences are transparent and our Privacy Statement discloses this information. 
 
 
 
