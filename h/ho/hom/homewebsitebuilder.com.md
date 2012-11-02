@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homewebsitebuilder.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531222415id_/http%3A//homewebsitebuilder.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homewebsitebuilder.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102224523id_/http%3A//www.homewebsitebuilder.com/page/privacy) for the most accurate reproduction.*
 
 # Your FREE Money Making Website - Home Website Builder
 
@@ -44,12 +44,11 @@ If you do not want your data used in this way or passed onto third parties for m
 
 #### DISCLOSURE OF YOUR INFORMATION
 
-We may disclose your personal information to third parties:
+We reserve the right to disclosure your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, Court order, or legal process served on our Website.
 
-  * To the prospective buyer or seller of any business or assets in the event that we sell or buy.
-  * If we are under a duty to comply with any legal obligation to disclose or share your personal data. To protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site. For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations.
+We use other third Parties such as a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf. When you sign up for our services we will share your information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
-
+If HomeWebsiteBuilder is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 #### THIRD PARTY WEBSITES
 
