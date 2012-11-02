@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countlesscoupons.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504035419id_/http%3A//www.countlesscoupons.com/Shrd/Docs/Privacy.aspx%3FType%3DCoupons) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countlesscoupons.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102204618id_/http%3A//countlesscoupons.com/Shrd/Docs/Privacy.aspx%3FType%3DCoupons) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
@@ -20,7 +20,7 @@ We use the information we collect about you to deliver the products and services
 
 ## Disclosure of Information to Others
 
-We share your information with third parties who deliver the products and services you have requested. These third parties may not use your information for any purpose other than assisting us in providing those products and services.  
+We share your information with third parties who deliver the products and services you have requested. These third parties may not use your information for any purpose other than assisting us in providing those products and services. However, your email address will only be shared with All Inbox, LLC and Adrevolution LLC. 
 
 We may also use your information to contact you about other products or services available from third parties.  We may also share your information with third parties who may contact you about their products or services.  We also share information where legally required. Information collected on our Sites is stored in whole or in part in the United States, and therefore subject to U.S. law. Finally, we may disclose and transfer information if our business is sold or acquired.
 
@@ -123,9 +123,9 @@ __Improving our Website.__   We use the information we gather on the Site to re
 
 We disclose to third parties throughout the world your personal information, combined personal, demographic, behavioral or indirect information, as set forth below: 
 
-__Product and Service Delivery.__ _    _ We may share your information with third parties who help us in the delivery the products and services you have requested. We disclose information to companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance, process credit card payments, and provide customer service. These companies and individuals may not share that information with any other third party or use that data for any other purpose. 
+__Product and Service Delivery.__ _    _ We may share your information with third parties who help us deliver the products and services you have requested. Examples include but are not limited to third parties who help us disseminate online printable coupons and third parties who's offers you specifically check a box to opt-in to. We disclose information to companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance, process credit card payments, and provide customer service. These companies and individuals may not share that information with any other third party or use that data for any other purpose. 
 
-__Third Party Products and Services__. We may disclose such information to third parties to provide you with information about the opportunities, products or services of third parties.  We use the data and data logs we have about you, including interests and preferences you have expressed, to determine whether you might be interested in the opportunities, products or services of a particular third party. This type of marketing may be in the form of email offers or mobile offers sent to by third parties or telemarketing calls from third parties. 
+__Third Party Products and Services__. We may provide your information to All Inbox LLC and Adrevolution LLC who will send promotional offers via email on behalf of CouponCaboodle. These offers may include services for third parties. 
 
 __Anonymous information__ _._ _  _We also share aggregated anonymous information about you and other persons using our Site with third parties so that they can understand the kinds of visitors to the Site and how those visitors use the Sites.  This includes demographic information and behavioral information.
 
@@ -147,7 +147,7 @@ Again, in each of these situations, the recipients of your data may potentially 
 
 ## __Email and Unsubscribe Policy.__   We may provide your personal information to third parties for promotional offers by email.  These offers may be our services and products or those of third parties.  We may maintain separate email lists for different purposes.  If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.  To unsubscribe from all Company’s email lists, a person must send an email to [unsubscribe@CountlessCoupons.com](mailto:unsubscribe@CountlessCoupons.com).
 
-## __Content of Email Messages.__   You may receive certain commercial email messages sent by third parties for products which may be of interest to you.  In such case, an Advertiser's name will appear in the "From:" and the email will have a method at the bottom of the email to unsubscribe from that Advertiser.   Company is not responsible for third party emails sent to you.
+## __Content of Email Messages.__   You may receive certain commercial email messages sent by All Inbox LLC and Adrevolution LLC for products which may be of interest to you.
 
 ## __Opting Out of Email Marketing Material.__ We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when it asks for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference by emailing us at [unsubscribe@CountlessCoupons.com](mailto:unsubscribe@CountlessCoupons.com).
 
