@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosecrets.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105171136id_/http%3A//www.videosecrets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosecrets.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102120738id_/https%3A//www.videosecrets.com/privacy.php) for the most accurate reproduction.*
 
 # Video Secrets Privacy Policy
 
