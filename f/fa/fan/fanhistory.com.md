@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanhistory.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110342id_/http%3A//www.fanhistory.com/wiki/Fanhistory.com%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanhistory.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102014920id_/http%3A//www.fanhistory.com/wiki/Fanhistory.com%3APrivacy_policy) for the most accurate reproduction.*
 
 # Fanhistory.com:Privacy policy - Fan History Wiki: The Fandom History Resource
 
