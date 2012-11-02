@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618193937id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102015127id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « « perkspot.com perkspot.com
+# Privacy Policy « perkspot.com
 
 **Your Privacy  
 **We are committed to protecting your privacy. At no time will we trade, sell, or distribute for free organization specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization,  
