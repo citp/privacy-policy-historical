@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the exhaustivenews.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617064625id_/http%3A//exhaustivenews.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exhaustivenews.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102181738id_/http%3A//exhaustivenews.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Exhaustive News
-
-  
-
 
 Privacy Policy for exhaustivenews.com 
 
