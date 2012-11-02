@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192230id_/http%3A//www.optumhealthfinancial.com/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102022018id_/http%3A//www.optumhealthfinancial.com/privacypolicy) for the most accurate reproduction.*
 
-# OptumHealth.com - About Us - Privacy Policy
+# Privacy Policy - OptumHealthFinancial.com
+
+* * *
 
 **Financial Privacy Rule Notice:**  
-To read more about our privacy policy as it applies to OptumHealth Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/content/File/financial-privacy-notice.pdf "Financial Privacy Notice"), which links to our Financial Notice of Privacy Practices.
+To read more about our privacy policy as it applies to OptumHealth Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/web/20121102022018id_/http://www.optumhealthfinancial.com/privacypolicy/~/media/DDB76BE8A7804DCE817A502D5403AB16.pdf), which links to our Financial Notice of Privacy Practices.
 
 **Social Security Number Protection Policy:**  
 Protecting personal information is important to OptumHealth Financial Services and its current and future subsidiaries. It is the policy of OptumHealth and its current and future affiliates to protect the confidentiality of Social Security numbers (“SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
@@ -28,6 +30,8 @@ You may disable these cookies and similar items by adjusting your browser prefer
   * Enabling certain functions and tools on this website. 
   * Tracking paths of visitors to this site and within this site. 
 
+
+
 We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information.
 
 **With whom is non-personal information shared?**  
@@ -51,6 +55,8 @@ We may use personal information for a number of purposes such as:
   * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use. 
   * To keep a record of our transactions and communications.
   * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
+
+
 
 You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. 
 
@@ -92,4 +98,4 @@ To contact us regarding this Website Privacy Policy and our related privacy prac
 The Effective Date of this Privacy Policy is September 1, 2011. 
 
 **Changes to this Website Privacy Policy**  
-We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy. 
+We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy.
