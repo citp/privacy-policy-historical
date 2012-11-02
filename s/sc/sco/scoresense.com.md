@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614071726id_/http%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102110238id_/http%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ScoreSense Privacy Policy
 
@@ -54,7 +54,7 @@ As we continue to develop our business, we might sell or buy assets. In such tra
 
 **Opting out**
 
-If you no longer wish to receive our emails, newsletter or promotional offers, you may "opt-out" of receiving these communications by opting-out on our unsubscribe page or by clicking here to [unsubscribe](http://scoresense.1tusc.com/unsub/unsub.form?id=3ee602f5075fd3892d8ee7dc798a92ef). 
+If you no longer wish to receive our emails, newsletter or promotional offers, you may "opt-out" of receiving these communications by opting-out on our unsubscribe page or by clicking here to [unsubscribe](http://www.optout-jnjw.net/o-jnjw-v08-c0737ff57739080e35f0817fbb38ac21). 
 
 **Changes to our policy**
 
