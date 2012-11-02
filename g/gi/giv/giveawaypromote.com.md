@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveawaypromote.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615031525id_/http%3A//www.giveawaypromote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawaypromote.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102113617id_/http%3A//www.giveawaypromote.com/privacy-policy) for the most accurate reproduction.*
 
 # Giveaway Promote | Privacy Policy | Find and list giveaways and giveaway events.
 
@@ -69,7 +69,7 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 12/30/2011
+This policy was last modified on 9/2/2012
 
 **Contacting Us**
 
@@ -77,4 +77,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.giveawaypromote.com/contact/
 
-info|at| giveawaypromote DOT com
+info |at| giveawaypromote DOT com
