@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analizearticles.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007193936id_/http%3A//analizearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analizearticles.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102133850id_/http%3A//www.analizearticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
