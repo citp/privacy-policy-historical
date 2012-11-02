@@ -1,162 +1,83 @@
-> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630030034id_/http%3A//www.findmypast.com.au/content/fmpau_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102214240id_/http%3A//www.findmypast.com.au/content/privacy-policy) for the most accurate reproduction.*
 
-# findmypast.com.au
+# Privacy Policy | findmypast.com.au
 
-## Privacy Policy
+This Privacy Policy applies to bright **solid** online publishing Australasia Pty Limited trading as findmypast.com.au, ACN 149 492 688, the operator of the findmypast.com.au website. It explains how we use information that you provide us with or that we collect about you when you use the website and how we make sure it is stored and managed safely and legally.
 
-###  THE FOLLOWING IS A SUMMARY OF THIS PRIVACY POLICY ONLY AND YOU SHOULD READ THE FULL PRIVACY POLICY BEFORE AGREEING TO ANY OF THE SETS OF TERMS AND CONDITIONS APPLYING TO USE OF OUR WEBSITE 
+This Privacy Policy is part of the [ Terms & Conditions of using this website](http://main.findmypast.com.au/content/terms-and-conditions), so please read it carefully. We take your privacy extremely seriously, and will store all your personal information securely in line with good professional practice.
 
-  * This Privacy Policy forms part of the Sets of Conditions. 
-  * We take your privacy very seriously and we will hold all your Personal Information securely within the scope of applicable law.
-  * By using the Website you acknowledge that you have read, understood and agreed to the applicable Sets of Conditions and you give Us permission to collect, use and transfer your Personal Information as set out in this Privacy Policy. 
-  * Your Personal Information will be used only for the purposes set out in this Privacy Policy and will not be kept by us for longer than necessary. 
-  * Your Personal Information will be used only for the purposes set out in this Privacy Policy and will not be kept by us for longer than necessary.
-  * We guarantee that we will not sell or rent your Personal Information to third parties, or disclose your Personal Information to any third party (unless it is a third party acting on our behalf as explained in this Privacy Policy, disclosure is required by law or you consent to such disclosure).
-  * We will use reasonable efforts to make sure that you do not receive spam email as a result of registering with the Website or using the Services.
-  * We use cookies to improve the overall service we provide to you. You may choose not to accept cookies but if you do, some features of the Website may not work.
-  * You should tell us about any changes to your Personal Information so we can keep it up to date.
-  * In some circumstances, we use third parties outside Australia and New Zealand to process your Personal Information. We have contracts in place with them to make sure they have adequate security in place to protect your Personal Information.
-  * Except for Service Announcement, Administrative or Welcome emails sent by us, (which are necessary to maintain our service), you can easily unsubscribe from any emails we send to you (see Clause 5.8).
-  * You can request details of the Personal Information that we hold on you at any time. We may charge a small fee for providing details you request.
-  * We might make changes to this Privacy Policy from time to time. You should check the Website regularly for changes.
+**The laws you're protected by:** As we are an Australian company, you are protected by Australian privacy laws. If you are a New Zealander, you will be pleased to know we also comply with New Zealand privacy laws. If you'd like to know more about data protection generally, [there is information available from the Australian Information Commissioner](http://www.privacy.gov.au/) and [the New Zealand Privacy Commissioner](http://www.privacy.org.nz/).
 
+**Information we gather about you:** Whenever you visit the website, we gather information about what you do during your visit, including the searches that you perform and the records you view, using cookies. For further information about our use of cookies, see below. We also gather some statistics about your computer, such as the browser you use and how big your screen is. We gather personal information (e.g. name, address, phone number, email address, postal address) about you when you register, pay for a service or get in contact with us, or sometimes if you reply to a survey.
 
+If you create a family tree or create content on the website, we also gather that information, which may include personal information about you and other people (for example, names and birthdays of people in your family). We always aim to gather only the information that we need in order to provide the records and services which you have subscribed to and/or purchased PayAsYouGo credits for.
 
-For the avoidance of doubt, the definitions listed in the Sets of Conditions (being the Terms and Conditions, Library Terms and Conditions and Corporate Terms and Conditions apply throughout this Privacy Policy except where the definitions conflict, in which case the definitions in this Privacy Policy will prevail for this document only. 
+**What we use this information for:** We won't keep your personal information for longer than is necessary for the purposes below, and will only use the personal information that we gather to:
 
-**_Full Length privacy policy_**
+  * manage the website (including your account);
+  * provide advanced website features to you and others;
+  * understand your needs to help us improve the website;
+  * improve search results;
+  * understand website usage to allow us to improve our marketing or the way we do business;
+  * send you emails or other communications (more details below)
 
-This Privacy Policy forms part of our Sets of Conditions and covers our treatment of Personal Information we collect or hold about individuals. We recognise the right of individuals to keep their Personal Information private within the scope of applicable law. By accepting any one or more of our Sets of Conditions, you consent to our collection, use and transfer of your Personal Information as outlined in this Privacy Policy. 
 
-**1.       Definitions**
 
-| 
+**What happens if you don't provide the personal information we request?:** If you don't provide the information we request, we may not be able to provide the services you are seeking from the website.
 
-Terms and Conditions
+**We use decent security technology and processes:** We aim to keep your details safe when you sign in or pay by using encryption ([this guide will tell you more about encryption and how it works](http://en.wikipedia.org/wiki/Encryption)). We always use up-to-date technology security standards and make every effort to keep our systems as secure as they can reasonably be. Please be aware that although our systems are as secure as they reasonably can be, your information might be intercepted on its way to us via the internet, although it is extremely uncommon for this to happen. Keep your sign in details private at all times, do not share them with anybody.
 
-| 
+**We don't store your payment card information:** When we take a payment from you, we use a secure third party service to process the payment and do not keep a record of your credit or debit card details in our systems. This means that even if (heaven forbid) someone broke into our systems, your payment details would not be available for them to steal.
 
-means the terms and conditions between us and individual consumers seeking access to the services on the Website;  
-  
----|---  
-  
-Library Terms and Conditions
+**We won't sell your information to third parties:** We won't ever sell your information to third parties, full stop. If we run a promotion or competition where your information would be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first.
 
-| 
+**Who in our company group sees your information:** Only specific people within the brightsolid group of companies (meaning brightsolid online publishing Australasia Pty Limited, brightsolid online innovation limited, and any of their subsidiaries from time to time) have access to your information, and we restrict this as much as we can. In general, we try to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records.
 
-means the terms and conditions between us and relevant libraries seeking access to the services on the Website;  
-  
-Corporate Terms and Conditions
+**Using third parties to process your information:** We occasionally use third party companies to manage information that you provide us with: for example, when you complete a survey or pay for a subscription or PayAsYouGo credits. When we do, we keep the amount of personal information they hold to an absolute minimum, have contracts in place to stop them using your information except on our behalf and obviously use reasonable efforts to make sure they are as careful with your information as we are.
 
-| 
+**Where your information is stored:** The vast majority of your information is stored securely on our servers in Scotland, United Kingdom. Some of our third party partners use servers in the United States. When we process data in the United States, we only use providers certified under the [EU-approved Safe Harbor scheme](http://www.export.gov/safeharbor/eu/eg_main_018365.asp).
 
-means the terms and conditions between us and corporate customers seeking access to the services on the Website; and  
-  
-we/us/our
+**When we can delete your information:** If your account is inactive for two or more years and you are not paying for a service, we reserve the right to delete your information (including information in your family tree), although we'll try to contact you first by email. Of course, if you have an active subscription or PayAsYouGo credits, we won't delete your information unless our Terms & Conditions allows this for a different reason.
 
-| 
+**Information stored in your family tree:** Information stored in your family tree on the website will, in almost all cases, include personal information about other people who are still alive.
 
-bright **solid** online publishing limited (trading as findmypast.com.au), a company incorporated under the Companies Acts (company number 04369607) and having its registered office at 185 Fleet Street, London, EC4A 2HS, United Kingdom.   
-  
-**2.       What Personal Information do we collect and how?**
+You must always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarise yourself with how they work as you're responsible for using them to control who sees the information you have provided. We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person's permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the findmypast.com.au site, please send an email to our Customer Support team  with details and we will investigate and, if necessary, remove this information.
 
-2.1     We may collect and hold information about you, including but not limited to, your name, address, phone number, email address, Records you have searched and images you have viewed, transaction information (the number, amount and time of payments you have made to us), credit/debit card details and billing address details or any other information from which your identity is apparent or reasonably ascertainable ("Personal Information"). If you don't provide us with certain Personal Information, we may be unable to provide you the information, products or services you wish to buy or receive.
+**Emails we send you:** We try only to send you emails which are relevant and help you with your family history or tell you important things about the website. There are some emails which we send you only if we have your permission (marketing emails) and you can notify us at any time if you no longer wish to receive these marketing emails (see below). There are some emails which we send you even if we don't have your permission (service emails) - we send these to administer the service. Each is explained below.
 
-2.2     We may collect Personal Information from you when you complete registration forms and order forms on the Website or directly from us or otherwise generally in the course of dealing with you, whether by email, telephone or any other means.
+**Marketing emails:** These emails include our regular newsletter, emails which help you with your family history, special offers and market research emails. They also include product updates: announcements of new features or historical records on the website. Very occasionally, we might tell you about a service offered by another company within our group, or even outside it, but this is rare.
 
-2.3.    We also collect Personal Information from cookies. Cookies are small information files sent out automatically by the Website and then stored on your PC that can contain certain information that the Website uses to track the pages you have visited. The only Personal Information a cookie can contain is information you personally supply. A cookie cannot read data off your hard disk or read cookie files created by other websites.
+**Unsubscribing from marketing emails:** You can do this in a number of ways and we make it easy for you to do this. The easiest way is to change the settings in the "my account" area of the website. There are also instructions on every email we send and you can usually unsubscribe directly from the email without visiting the website.
 
-2.4     We collect Personal Information from your computer's IP (Internet Protocol) address and browser configuration.
+**Service emails:** We need to send these to administer the service. Service emails include registration and payment confirmations, warnings that we are about to charge you or that your subscription or credits are about to expire, and welcome emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our Terms & Conditions that we think we need to make you aware of (for legal or simply for courtesy reasons), we may send you a service email.
 
-**3.       Keeping your Personal Information secure**
+**Unsubscribing from service emails:** Because of the nature of these emails, we don't allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. [Contact our Customer Support team](https://web.archive.org/content/contact-us) to do this.
 
-3.1     We will take reasonable steps to ensure your Personal Information is protected from risks such as loss, unauthorised access or use, destruction, modification or disclosure. We will hold all of your Personal Information on a secure server and in accordance with our own internal security policy.
+**Information we gather and track through cookies:** We use cookies (small text files which are placed on your web browser and/or your computer) to help us provide many features on the website.
 
-3.2     The Website may provide links or references to other 3rd party websites and resources. These websites and resources are not subject to this Privacy Policy. You should review the privacy policy of each 3rd party website and resource accessed via links from the Website, and assess whether the policy of each website and resource is satisfactory to you before you use the website or resource. We are not responsible for the security or use of Personal Information you disclose to 3rd party websites or resources even if you learn of them (or use a link to them) from the Website.
+**Information gathered on registration.** When you register for the findmypast.com.au service, you provide your name, gender, year of birth and email address, and may provide other optional information such as your place of birth. We use cookies to store this login information. The details are available to you and capable of being changed through the 'My Account' page.
 
-3.3     Although we will do our best to protect your Personal Information and keep it secure, unfortunately the transmission of information via the internet is never completely secure. We can therefore not guarantee or accept responsibility for the security of your Personal Information transmitted to the Website and any transmission is at your own risk. Nevertheless, once we have received your Personal Information, we will use strict procedures and security features to try to prevent unauthorised access.  
+Our use of cookies. We use cookies to enhance your experience of the findmypast.com.au service as follows:
 
+  * To hold your login information (mentioned above), so that we can identify you, and your homepage with your name and membership details can be displayed when you visit the findmypast.com.au website. This option can be turned off by unticking the 'Remember me' option upon signing in.
+  * To facilitate optimal use of the findmypast.com.au service by means of a temporary 'session' cookie which helps you to navigate through the website. These cookies disappear when your browser session ends, or when you click the 'Logout' link which appears on the findmypast.com.au homepage.
 
-**4.       Use of your Personal Information**
 
-4.1    Subject to clause 4.2, we confirm that any Personal Information which you provide to us shall be used only for the following purposes and shall not be kept longer than as is necessary to fulfil these purposes unless authorised or required by law or you consent otherwise:-
 
-4.1.1  to process your requests, manage your Accounts with us, provide you with products or services you request from time to time and information about those products and services and let you know of important things that affect you, for example changes to the Website or our Sets of Conditions;
+Third party cookies. Some of the web analytics companies and advertisers used on the findmypast.com.au website may also place tracking cookies on your web browsers and/or computer. They use cookies and embedded code on our website to gather **non-personal** data regarding the visitors to our website. Both the cookies and the embedded code provide **general** site and **non-personal** statistical information about visits to pages on the findmypast.com.au website, the duration of individual page view, paths taken by visitors through the website, and other general information.
 
-4.1.2 to process and obtain payment for products and services provided by us or via the Website;
+Further information. Please contact our [customer support service](https://web.archive.org/content/contact-us) to request further details about our use of cookies or use of cookies on our site by third parties.
 
-4.1.3  if necessary, to verify your identity or age;
+Disabling cookies. Most internet browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies by changing your browser's security settings, or you can ask your browser to show you where a cookie has been set up. Certain features on our website are only activated by the presence of a cookie so, if you choose to refuse cookies, our website might not work as intended, and particular features on the website may not be available to youYou can find out more information on how to disable/enable cookies via the following link: <http://www.allaboutcookies.org/manage-cookies/>.
 
-4.1.4  to help diagnose problems with our server, to collect general report information and to administer the Website;
+**Seeing what information we hold on you:** If you want to know what personal information we hold on you, [get in contact](https://web.archive.org/content/contact-us) and we'll be happy to supply you with it: there is an AUD 10 administration charge to cover the cost of pulling it together.
 
-4.1.5  to understand what you want and provide you with better products, services and information and to notify you by post or telephone of any products or special offers that may be of interest to you; 
+**Updating your personal information:** If the information we hold about you is no longer correct, please update your details in the 'my account' area or alternatively, [let us know ](https://web.archive.org/content/contact-us) and we will update our records. Privacy law allows us to choose not to amend your personal information in certain situations. If we choose not to make a change, we will include an appropriate statement or note about it adjacent to or with the information.
 
-4.1.6  to contact you for direct marketing and promotional purposes including providing you with information about new products, services or special offers, unless you tell us that you do not wish to receive this type of information;
+**When we might disclose your information:** We will only disclose your information to somebody outside our group companies (or third parties who are providing services that help us run the website, under contract) if we are required to by law, or if we are permitted to do so by law.
 
-4.1.7  any other purposes we may disclose to you from time to time at the time of collecting the Personal Information.
+**If we change hands:** If findmypast's business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service.
 
-4.2     We use cookies on a limited basis to improve the performance of particular Website pages, to help us analyse how our users use the Website, to better serve users when they revisit the Website and to help us regulate restrictions applicable to Free Trial Offers. You can choose not to accept cookies. However, this may prevent certain features of the Website from working fully. If you block or delete cookies, we cannot guarantee that you will be able to benefit from all of our facilities. In particular, we will not be able to prevent you being charged again to look at an image you have already paid to view. Third party companies we use to process your data on our behalf (for example, to send you emails on our behalf about our products or process your payments to us) may also use tracking technology such as cookies.  
+**Changes to this policy:** We might make changes to this policy from time to time – check back here to stay up to date. If we make a major change to it, we'll usually send you a service email describing the change and what it means for you.
 
-
-**5.       Disclosing your Personal Information**
-
-5.1     We will not disclose your Personal information to any third party except as in accordance with this Privacy Policy, as required by law or any regulatory obligation to which we are subject or if you consent to such disclosure. 
-
-5.2     Subject to Clause 5.4, we guarantee that we will never sell or rent your Personal Information to third parties without your consent. By not selling or renting your Personal Information to third parties (other than as set out in Clause 5.4) we strive to ensure as far as is reasonably practicable that you do not receive spam mail as a result of registering with this Website or using the Services, however we cannot guarantee this.
-
-5.3     Subject to this Clause 5, we will only disclose your Personal Information to our employees, related entities and companies working on our behalf on a contractual basis
-
-5.4     We may disclose your Personal Information to third parties if we, or substantially all of our assets, are acquired or are in the process of being acquired by a third party, in which case Personal Information held by us, about our customers will be one of the transferred assets.
-
-5.5     The Personal Information we collect from you may be transferred to, and stored at, a destination outside Australia and New Zealand. It may also be processed by staff operating outside Australia or New Zealand who work for us or for one of our suppliers processing such Personal Information on our behalf. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By agreeing to one of the Sets of Conditions, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this Privacy Policy.
-
-5.6     Where we use third party companies to process your Personal Information on our behalf, these companies are bound by strict contractual provisions with us that comply with this Privacy Policy. These companies have no right to use your Personal Information except on our behalf and only for fulfilling the task they have been contracted to do.
-
-5.7    We may send you various types of emails to provide you with information about your Account. The most common types of emails are listed below:-
-
-  * Newsletters and Product Updates;
-  * Tips and Special Offers;
-  * Service Announcements and Welcome and Administrative emails. 
-
-
-
-We always try to make sure that you know what type of email you are receiving and why by placing this information at the bottom of every email we send out. 
-
-We send Service Announcement emails when we need to provide you with information that may affect your use of a product or service. For example, we may send a Service Announcement if there is a disruption of service, a change in price or a major change to the service.
-
-We may automatically send Administrative emails when you take certain actions such as changing your password. We may also send Welcome messages that are informational and provide details about service activation or product usage instructions when you sign up for the service.
-
-5.8     We need to be able to send you Service Announcements, Administrative or Welcome emails which you will not be able to unsubscribe from. However, should you no longer wish to receive any other emails from us (e.g. marketing or competition emails), you can stop receiving such emails by visiting the Website, writing to us at the postal address at the end of this Privacy Policy or following the instructions at the bottom of the communications. You cannot refuse to receive information that we are required to provide you by law.  
-
-
-**6.       Updating your Personal Information**
-
-6.1     We aim to keep the Personal Information we hold about you accurate and up-to-date. If you tell us that we are holding any inaccurate Personal Information about you, we will take reasonable steps to correct the Personal Information where required by law or we will tell you why we cannot correct the information. Where we do not correct the information, we will include a note in the record that indicates that you have requested that this information be changed.
-
-6.2     We offer you three options for changing and updating Personal Information about yourself: 
-
-6.2.1  modifying your User details through the "My Account" link once logged-on to the Website; or
-
-6.2.2  sending an email to [support@findmypast.com.au](mailto:support@findmypast.com.au)
-
-6.2.3  writing to the postal address provided at the end of this Privacy Policy.  
-
-
-**7.       Accessing your Personal Information**
-
-         You have the right to access Personal Information which we have collected from you within the requirements of applicable law. You can request access to Personal Information about you that you have provided us by emailing us at [support@findmypast.com.au](mailto:support@findmypast.com.au). We may charge a nominal fee of approximately AUD 20 to cover administration costs. We may withhold or refuse you access to your Personal Information if we are legally authorised to do so or where its disclosure to you is restricted by law, is the subject of legal action or may compromise the privacy of another person.  
-
-
-**8.       General**
-
-8.1    We reserve the right to modify or change this Privacy Policy at any time by posting the amended version on the Website with or without notice to you. You confirm that we shall not be liable to you or any third party for any change to this Privacy Policy from time to time. It is your responsibility to check the Website regularly to determine whether this Privacy Policy has changed.
-
-8.2    If you have any questions about your Personal Information, this Privacy Policy, practices of this Website or your dealings with this Website, please contact:-
-
-bright **solid** online publishing Australasia Pty Ltd.   
-
-
-Registered in Australia, company registration numbers ACN 149 492 688, ABN 97 149 492 6. Registered company address: c/o Hayes Knight (NSW) Pty Ltd, Level 2, 115 Pitt St, Sydney, NSW 2000, Australia;  
-
-
-Email: [support@findmypast.com.au](mailto:support@findmypast.com.au)
+**Contact Us:** We hope that's clear. If it isn't or you have another question that isn't covered, [please contact us](https://web.archive.org/content/contact-us) This document was last updated on 10 April 2012.
