@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iupui.edu privacy policy that was archived on 2012-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527142208id_/http%3A//www.iupui.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iupui.edu privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102184045id_/http%3A//www.iupui.edu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Notice : IUPUI</title>
@@ -27,34 +27,14 @@
 	@import "https://www.iupui.edu/_Assets/style_ie.css.jgz";
 </style>
 <![endif]-->
+
+<!-- Search Results CSS -->
+<link type="text/css" rel="stylesheet" href="https://www.iupui.edu/_Assets/css/search_results.css">
 </head>
 
 <body>
 
 <!-- Protect IU Notification System -->
-
-<!-- <script src="http://www.iu.edu/~iuinfo/backend/js/jquery-1.7.js" type="text/javascript"></script>
-<script src="http://www.iu.edu/~iuinfo/backend/js/jquery.textshadow.js" type="text/javascript"></script>
-
-<script>
-$(document).ready(function(){
-	var status = {
-		x:      1, 
-		y:      1, 
-		radius: 3,
-		color:  "#000000"
-	}
-	$(".status_alert").textShadow(status);	
-	
-	var alertlink = {
-		x:      0.5, 
-		y:      0.5, 
-		radius: 3,
-		color:  "#000000"
-	}
-	$(".alertlink").textShadow(alertlink);
-})
-</script> -->
 
 
 <div id="pageWrapper">
@@ -63,20 +43,29 @@ $(document).ready(function(){
 		<a class="logo" href="http://www.iupui.edu/" title="IUPUI Homepage"><img class="logo" src="https://www.iupui.edu/_Assets/images/template/iupui_logo.png" alt="IUPUI"></a>
 		<h1><a href="http://www.iupui.edu/">IUPUI</a></h1>
 		<p id="skipNav"><a href="#main">Skip page navigation</a></p>
- <form method="get" action="https://search.sharepoint.iu.edu/sites/iupui/Pages/results.aspx" onsubmit="return searchSubmit()" name="siteSearch">
- <div id="nav_search" onmouseover="mdd('search',25,-7);" onmouseout="resetMddHideTimer('search',500);">
- <input name="s" value="iupui" type="hidden">
- <input name="campus" value="IN" type="hidden">
- <input name="firstname" value="" type="hidden">
- <input name="lastname" value="" type="hidden">
- <input name="search_type" value="E" type="hidden">
- <input name="search_field" value="" type="hidden">
- <input name="search" value="" type="hidden">
- <input name="exactness" value="starts" type="hidden">
- <input id="headerSearchText" onkeyup="searchSuggest();" autocomplete="off" name="k" value="Search IUPUI" onfocus="if (value=='Search IUPUI') { value='';}" onblur="if (value=='') { resetSearch(); }">
- <input id="headerSearchSubmit" type="submit" value="">
- </div>
- </form>
+ 		<div id="nav_search">
+			<!-- GOOGLE CUSTOM SEARCH CODE -->
+			<!-- GOOGLE SEARCH BOX -->
+			<div id="cse-search-form" style="width: 100%;">Loading</div>
+			<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+			<script type="text/javascript">
+			  google.load('search', '1', {language : 'en'});
+			  google.setOnLoadCallback(function() {
+				var customSearchOptions = {};
+				var orderByOptions = {};
+				orderByOptions['keys'] = [{label: 'Relevance', key: ''},{label: 'Date', key: 'date'}];
+				customSearchOptions['enableOrderBy'] = true;
+				customSearchOptions['orderByOptions'] = orderByOptions;  var customSearchControl = new google.search.CustomSearchControl(
+				  '016278320858612601979:pwcza8pis6k', customSearchOptions);
+				customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+				var options = new google.search.DrawOptions();
+				options.setAutoComplete(true);
+				options.enableSearchboxOnly("http://www.iupui.edu/search/index.html");
+				customSearchControl.draw('cse-search-form', options);
+			  }, true);
+			</script>
+			<!-- END GOOGLE SEARCH BOX -->
+		</div>
  </div>
  <ul id="topNav">
  <li id="nav_about"><a href="http://www.iupui.edu/about/" title="" onmouseover="mdd('about',42,-6);" onmouseout="resetMddHideTimer('about',500);" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/mdd/About']);" class="topnav"><em>ABOUT IUPUI</em></a></li>
@@ -287,35 +276,33 @@ $(document).ready(function(){
 	<li><a href="http://www.purdue.edu/" title="Purdue University" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/purdue.edu']);">Purdue University</a></li>
 	<li id="campus_social_media">
 		Follow us:<br>
-		<a href="http://www.facebook.com/IUPUI" title="IUPUI @ Facebook" class="campus_social_icon"><img src="https://www.iupui.edu/_Assets/images/template/social_media/facebook.png" alt="Facebook icon"></a>
-		<a href="http://twitter.com/iupui" title="IUPUI @ Twitter" class="campus_social_icon"><img src="https://www.iupui.edu/_Assets/images/template/social_media/twitter.png" alt="Twitter icon"></a>
-		<a href="http://www.youtube.com/iupui" title="IUPUI @ YouTube" class="campus_social_icon"><img src="https://www.iupui.edu/_Assets/images/template/social_media/youtube.png" alt="YouTube icon"></a>
-		<a href="http://www.linkedin.com/company/3324" title="IUPUI @ LinkedIn" class="campus_social_icon"><img src="https://www.iupui.edu/_Assets/images/template/social_media/linkedin.png" alt="LinkedIn icon"></a>
-		<a href="https://plus.google.com/117811186326409108051?prsrc=3" style="text-decoration:none;" class="campus_social_icon" title="+IUPUI @ Google+"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" id="g+" style="border:0;width:23px;height:23px;" alt="Google+ icon"></a>
-		<!--<a href="http://www.iupui.edu/galleries" title="IUPUI Photo Gallery" class="campus_social_icon"><img src="https://www.iupui.edu/_Assets/images/template/social_media/gallery.png" alt="Photo Gallery icon" /></a>-->
-
+		<a href="http://www.facebook.com/IUPUI" title="IUPUI @ Facebook" class="campus_social_icon" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/facebook.com']);"><img src="https://www.iupui.edu/_Assets/images/template/social_media/facebook.png" alt="Facebook icon"></a>
+		<a href="http://twitter.com/iupui" title="IUPUI @ Twitter" class="campus_social_icon" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/twitter.com']);"><img src="https://www.iupui.edu/_Assets/images/template/social_media/twitter.png" alt="Twitter icon"></a>
+		<a href="http://www.youtube.com/iupui" title="IUPUI @ YouTube" class="campus_social_icon" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/youtube.com']);"><img src="https://www.iupui.edu/_Assets/images/template/social_media/youtube.png" alt="YouTube icon"></a>
+		<a href="http://www.linkedin.com/company/3324" title="IUPUI @ LinkedIn" class="campus_social_icon" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/linkedin.com']);"><img src="https://www.iupui.edu/_Assets/images/template/social_media/linkedin.png" alt="LinkedIn icon"></a>
+		<a href="https://plus.google.com/117811186326409108051?prsrc=3" style="text-decoration:none;" class="campus_social_icon" title="+IUPUI @ Google+" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/plus.google.com']);"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" id="g+" style="border:0;width:23px;height:23px;" alt="Google+ icon"></a>
 	</li>
  </ul>
 </li>
 
 	<li class="news">
 	<div class="header"><a href="http://newscenter.iupui.edu/" title="IUPUI News"><strong>Campus News</strong></a>
-	<a href="http://www.twitter.com/IUPUINews" title="@iupuiNews feed" class="feedIcon" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/iupuiNewsTwitterFeed']);"><img src="https://www.iupui.edu/_Assets/images/template/twitter.gif" alt="Twitter Icon"></a>
+	<!--<a href="http://www.twitter.com/iupui" title="@iupuiNews feed" class="feedIcon" onClick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/iupuiNewsTwitterFeed']);"><img src="https://www.iupui.edu/_Assets/images/template/twitter.gif" alt="Twitter Icon" /></a>-->
 	<a href="http://newscenter.iupui.edu/rss/mrel-general.xml" title="News RSS Feed" class="feedIcon" onclick="javascript: _gaq.push(['_trackPageview','/outgoing/footer/iupuiNewsRSSFeed']);"><img src="https://www.iupui.edu/_Assets/images/template/rss_icon.gif" alt="RSS Icon"></a>
 	</div>
 	 <ul>
 		
 <li>
-<a href="http://newscenter.iupui.edu/5642/IUPUI-program-pairs-business-students-with-engineering-students-to-research-patent-options" class="tnimg" title="IUPUI program pairs business students with engineering students to ..."><img src="http://newscenter.iupui.edu/images/60_sq_rishi-and-plew small -img_7501.jpg" alt="IUPUI program pairs business students with engineering students to ...">
-</a><a href="http://newscenter.iupui.edu/5642/IUPUI-program-pairs-business-students-with-engineering-students-to-research-patent-options" class="txt" title="IUPUI program pairs business students with engineering students to ...">IUPUI program pairs business students with engineering students to ...</a></li>
+<a href="http://newscenter.iupui.edu/5799/Major-conference-focused-on-teaching-STEM-disciplines-returns-to-IUPUI" class="tnimg" title="Major conference focused on teaching STEM disciplines returns to IUPUI"><img src="http://newscenter.iupui.edu/images/60_sq_kim nguyen, operations director for ucase.jpg" alt="Major conference focused on teaching STEM disciplines returns to IUPUI">
+</a><a href="http://newscenter.iupui.edu/5799/Major-conference-focused-on-teaching-STEM-disciplines-returns-to-IUPUI" class="txt" title="Major conference focused on teaching STEM disciplines returns to IUPUI">Major conference focused on teaching STEM disciplines returns to IUPUI</a></li>
 
 <li>
-<a href="http://newscenter.iupui.edu/5645/IUPUI-alumna-creates-design-for-Izod-IndyCar-Tshirts" class="tnimg" title="IUPUI alumna creates design for Izod IndyCar T-shirts"><img src="http://newscenter.iupui.edu/images/60_sq_lauren-smith-shirt-300x277.jpg" alt="IUPUI alumna creates design for Izod IndyCar T-shirts">
-</a><a href="http://newscenter.iupui.edu/5645/IUPUI-alumna-creates-design-for-Izod-IndyCar-Tshirts" class="txt" title="IUPUI alumna creates design for Izod IndyCar T-shirts">IUPUI alumna creates design for Izod IndyCar T-shirts</a></li>
+<a href="http://newscenter.iupui.edu/5798/IUPUI-expands-Motorsports-Day-to-include-automotive-road-show" class="tnimg" title="IUPUI expands Motorsports Day to include automotive road show"><img src="http://newscenter.iupui.edu/images/60_sq_motorsports 2010 small dsc_0182.jpg" alt="IUPUI expands Motorsports Day to include automotive road show">
+</a><a href="http://newscenter.iupui.edu/5798/IUPUI-expands-Motorsports-Day-to-include-automotive-road-show" class="txt" title="IUPUI expands Motorsports Day to include automotive road show">IUPUI expands Motorsports Day to include automotive road show</a></li>
 
 <li>
-<a href="http://newscenter.iupui.edu/5643/IUPUI-professor-receives-Technology-Oscar-for-hightech-entrepreneurial-success" class="tnimg" title="IUPUI professor receives 'Technology Oscar' for high-tech ..."><img src="http://newscenter.iupui.edu/images/60_sq_ali jafari 350200.jpg" alt="IUPUI professor receives 'Technology Oscar' for high-tech ...">
-</a><a href="http://newscenter.iupui.edu/5643/IUPUI-professor-receives-Technology-Oscar-for-hightech-entrepreneurial-success" class="txt" title="IUPUI professor receives 'Technology Oscar' for high-tech ...">IUPUI professor receives 'Technology Oscar' for high-tech ...</a></li>
+<a href="http://newscenter.iupui.edu/5796/Gene-Tempel-nominated-as-founding-dean-for-new-School-of-Philanthropy" class="tnimg" title="Gene Tempel nominated as founding dean for new School of Philanthropy"><img src="http://newscenter.iupui.edu/images/60_sq_gene tempel 5123.jpg" alt="Gene Tempel nominated as founding dean for new School of Philanthropy">
+</a><a href="http://newscenter.iupui.edu/5796/Gene-Tempel-nominated-as-founding-dean-for-new-School-of-Philanthropy" class="txt" title="Gene Tempel nominated as founding dean for new School of Philanthropy">Gene Tempel nominated as founding dean for new School of Philanthropy</a></li>
 
 	 </ul>
 	</li>
@@ -328,19 +315,19 @@ $(document).ready(function(){
  <ul>
 	
 <li>
-<a href="http://events.iupui.edu/event/?event_id=6702" class="txt" title="Art in the Park at the IMA (Off campus)">Art in the Park at the IMA (Off campus)</a><br><span class="rssdate">Sun, May 27</span> 
+<a href="http://events.iupui.edu/event/?event_id=5675" class="txt" title="2012 PFF &amp; PFP Fall Symposium">2012 PFF &amp; PFP Fall Symposium</a><br><span class="rssdate">Fri, Nov  2</span> 
 </li>
 
 <li>
-<a href="http://events.iupui.edu/event/?event_id=6745" class="txt" title="Summer 1 - Memorial Day (No Classes)â€¦">Summer 1 - Memorial Day (No Classes)â€¦</a><br><span class="rssdate">Mon, May 28</span> 
+<a href="http://events.iupui.edu/event/?event_id=7732" class="txt" title="Preparing Future Faculty &amp; Professionals Fall Conference">Preparing Future Faculty &amp; Professionals Fall Conference</a><br><span class="rssdate">Fri, Nov  2</span> 
 </li>
 
 <li>
-<a href="http://events.iupui.edu/event/?event_id=6746" class="txt" title="Summer 1 - Last day to withdraw with automatic grade of W...">Summer 1 - Last day to withdraw with automatic grade of W...</a><br><span class="rssdate">Tue, May 29</span> 
+<a href="http://events.iupui.edu/event/?event_id=7153" class="txt" title="CompTIA Linux+">CompTIA Linux+</a><br><span class="rssdate">Fri, Nov  2</span> 
 </li>
 
 <li>
-<a href="http://events.iupui.edu/event/?event_id=6607" class="txt" title="Automating Windows Server 2008 Administrator With PowerShell (MOC 6434)">Automating Windows Server 2008 Administrator With PowerShell (MOC 6434)</a><br><span class="rssdate">Tue, May 29</span> 
+<a href="http://events.iupui.edu/event/?event_id=7616" class="txt" title="3 on 3 Intramural Basketball Tournament Nov 13">3 on 3 Intramural Basketball Tournament Nov 13</a><br><span class="rssdate">Fri, Nov  2</span> 
 </li>
 
  </ul>
@@ -363,7 +350,7 @@ $(document).ready(function(){
 </div>
 
 <address class="footer">			
-	<a href="http://copyright.iu.edu/" title="IU Copyright">Copyright</a> © 2002-2011 The Trustees of Indiana University - 
+	<a href="http://copyright.iu.edu/" title="IU Copyright">Copyright</a> © 2002-2012 The Trustees of Indiana University - 
 	<a href="http://www.indiana.edu/copyright_complaints.shtml" title="Copyright Complaints">Copyright Complaints</a> |
 	<a href="http://www.iupui.edu/privacy/" title="IUPUI Privacy Notice">Privacy Notice</a>
 
