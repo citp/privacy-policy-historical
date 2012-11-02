@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerapparel.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505124413id_/http%3A//www.designerapparel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerapparel.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102094115id_/http%3A//www.designerapparel.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - DesignerApparel.com
 
@@ -90,5 +90,12 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 ### VIII. Questions or Concerns
 
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to help@onsugar.com. We will make every effort to resolve your concerns.
+
+Phone Number: 415-391-7576
+
+Address:  
+Designer Apparel, Inc.  
+111 Sutter Street, 8th Floor  
+San Francisco, CA 94104
 
 _Effective Date: March 13, 2012_
