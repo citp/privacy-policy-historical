@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankoncit.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503151805id_/https%3A//www.bankoncit.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankoncit.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102105327id_/https%3A//www.bankoncit.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Online Privacy Policy | CIT Bank
 
