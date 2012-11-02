@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125151722id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102073615id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,7 +46,31 @@ The cookies do not contain any personal information about you, and they cannot b
 
 You can set your browser not to accept cookies. If you do not know how to do this, contact us, giving details on the type of browser you are using, and we will do our best to help. However some features of the site may not work as expected if all cookies are disabled.
 
-[View our cookie policy](http://www.dft.gov.uk/dvla/privacy/RegistrationCookies.aspx)
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. 
+
+These pieces of information are used to improve services for you through, for example:
+
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
+
+
+
+You can manage these small files yourself and learn more about them through "[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/managingcookies)
+
+### Our use of cookies
+
+The cookies used on our Personalised Registrations website: 
+
+Cookies stored by Google analytics used to provide DVLA with website analysis. 
+
+Current session ID used to link the current user session to actions performed on the website for functionality and statistics (including the return from the purchasing process to confirm a sale). 
+
+Last session ID used to determine when a visitor last visited (if present) for statistics. 
+
+Last visit date/time used to record the date and time the user last visited for statistical purposes. 
+
+Wishlist ID used to store a link to databases of wishlist number plates for keeping the user's saved plates.are when a user is taking advantage of our wish list facility that keeps a memory of certain registration numbers identified by the user.
 
 ### Page tagging
 
