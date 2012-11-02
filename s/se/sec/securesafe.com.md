@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503035042id_/http%3A//www.securesafe.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102074026id_/http%3A//www.securesafe.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | SecureSafe
+# SecureSafe - online secure storage for passwords & files / Privacy Policy | SecureSafe
 
 We are committed to safeguarding the privacy of our website visitors and SecureSafe service users. This policy sets out how we will treat your personal information. Throughout the text of this policy we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
 
@@ -32,8 +32,6 @@ Our primary purpose in collecting personal information is to provide you with a 
 \- customize, evaluate, and improve our services and the content and layout of our website;
 
 \- send you targeted marketing, service update notices, and promotional offers based on your communication preferences; - compare information to test for accuracy and verify it with third parties.
-
- 
 
 ## How we share personal information with other parties
 
