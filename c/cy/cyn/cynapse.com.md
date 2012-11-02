@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cynapse.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215138id_/http%3A//www.cynapse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynapse.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102034217id_/http%3A//www.cynapse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cynapse.com
 
