@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124225434id_/http%3A//www.wsjwine.com/Customer_Service/Customer_Service_Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102130627id_/http%3A//www.wsjwine.com/jsp/templates/page_elements/us/wsj/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy > Customer Service | WSJwine from The Wall Street Journal Wine
+# Privacy Policy | WSJwine from The Wall Street Journal
 
 WSJwine (the “Site”) is operated by Direct Wines, Inc. under an agreement between Direct Wines, Inc. and Dow Jones & Company, Inc., publisher of The Wall Street Journal (“We” and “Us”). The Site offers the opportunity to purchase wines for home or office delivery and review related tastings notes.
 
@@ -20,13 +20,13 @@ We use "cookies" (small pieces of information placed on your computer hard drive
 
 We may use third-party advertising companies to serve ads or conduct email campaigns on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.
 
-We may use cookies and similar tools to relate your use of the Site to PII obtained from you or a reputable third party. For example, if you’ve asked us to send you information about our upcoming products or promotions, cookie and other data about your activities on the Site may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. However, if we wish to coordinate your personal and Site activity information in this manner, we will obtain your express affirmative consent.
+We may use cookies and similar tools to relate your use of the Site to PII obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and other data about your activities on the Site may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. However, if we wish to coordinate your personal and Site activity information in this manner, we will obtain your express affirmative consent.
 
 **Notice About Collection of Information**
 
 When you voluntarily provide your PII to us, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses we will make of the information.
 
-The Site may be linked to Internet sites operated by other companies. We are not responsible for the privacy practices of Web sites operated by third parties that are linked to or integrated with the Site or for the privacy practices of third parties. Once you’ve left the Site via such a link, you should check the applicable privacy policy of the third party site to determine how they will handle any PII they collect from you.
+The Site may be linked to Internet sites operated by other companies. We are not responsible for the privacy practices of Web sites operated by third parties that are linked to or integrated with the Site or for the privacy practices of third parties. Once you've left the Site via such a link, you should check the applicable privacy policy of the third party site to determine how they will handle any PII they collect from you.
 
 **Choice About the Use of Your Information**
 
