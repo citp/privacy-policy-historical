@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620122231id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102043859id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | World-Leading Language Solutions by WhiteSmoke
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.whitesmoke.com/seal_m "Validate TRUSTe privacy certification")
+[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=174&sealid=112 "Validate TRUSTe privacy certification")
 
 **WhiteSmoke Privacy Statement**
 
