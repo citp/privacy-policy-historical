@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeandgardenideas.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621065257id_/http%3A//www.homeandgardenideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeandgardenideas.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102171235id_/http%3A//www.homeandgardenideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home & Garden Ideas
 
