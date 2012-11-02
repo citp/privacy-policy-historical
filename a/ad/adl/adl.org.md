@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612010838id_/http%3A//www.adl.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102010300id_/http%3A//www.adl.org/privacy.asp) for the most accurate reproduction.*
 
 # ADL Privacy Policy
 
@@ -35,9 +35,16 @@ Our online surveys ask visitors for contact information (like their e-mail or ma
 
 **Sharing**   
 We may share aggregated demographic information with our partners. This is not linked to any personal information that can identify any individual person.   
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies are contractually prohibited from retaining, sharing, storing or using personally identifiable information for any secondary purposes.  
-We may partner with third parties to provide specific services. When a user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.   
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies are contractually prohibited from retaining, sharing, storing or using personally identifiable information for any secondary purposes.
+
+We may partner with third parties to provide specific services. When a user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
+
 These parties are contractually prohibited from using personally identifiable information except for the purpose of providing these services. 
+
+We occasionally exchange or rent our contributor mailing lists with carefully selected organizations  whose  information we believe may be of interest to our donors .
+
+Our ability to share your name  with other charities or businesses will help us build our supporter base and expand our programs in  a cost-effective way.  
+Please note that we do not exchange or rent-e mail  addresses, phone numbers  or financial information. If you prefer that we do not exchange or rent your name and postal address, please let us know by following  the instructions  in the opt-out procedures  below.
 
 **Tell-A-Friend**   
 If a user elects to use our electronic mail referral service to inform a friend about our site, we collect the friend's name and e-mail address. ADL will automatically send the friend the e-mail and an invitation them to visit the site. ADL stores this information for the sole purpose of sending this introductory e-mail. The friend may write to ADL through our [Contact Us](http://www.adl.org/contact_us.asp) form to request the removal of this information from our database. 
@@ -58,7 +65,7 @@ Our Web site provides users the opportunity to opt-out of receiving communicatio
 The following options are available for removing information from our database to discontinue receiving future communications or our service. 
 
   1. You can unsubscribe or change your e-mail preferences by following the link at the bottom of any e-mail you receive from ADL.
-  2. You can notify us through the form on our [Contact Us ](http://www.adl.org/contact_us.asp) page of your desire to be removed from our e-mail list. 
+  2. You can notify us through the form on our [Contact Us ](http://www.adl.org/contact_us.asp) page of your desire to be removed from our e-mail list or contributor mailing list.
 
 
 
@@ -69,4 +76,4 @@ If you have any questions about this privacy statement, the practices of our Web
 If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and the circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. 
 
   
-**Last Updated July 2006**
+**Last Updated August 2012**
