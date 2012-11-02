@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516224909id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/page.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102235017id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/page.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Sainsbury's Entertainment | Privacy Policy
 
@@ -78,6 +78,8 @@ The dynamics of the Internet may mean that information is sent electronically ou
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard-drive. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. We only use cookies to keep track of the pages you visit on the Website and to tell us whether you have visited the Website previously so that, in order to serve you better, we understand how you and other visitors use the Website. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. We have sought to set up our Website so as to notify you before a cookie is used. However, if you choose to reject all cookies, you may be unable to use parts of the Website. 
 
+To view our Cookie Policy, please click [ here.](https://web.archive.org/web/20121102235017id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/en/Sainsbury-s-Entertainment-Cookie-Policy/page.html?page=Cookies)
+
 **Your Consent**
 
 You represent and warrant that all information you provide to us shall be truthful and accurate and shall not violate the rights of any third party. By using the Website and submitting information, you consent to the collection and use of your personal information by us as described above and the transfer of your personal information to countries outside of the EEA or the United States as applicable.
@@ -100,4 +102,4 @@ This Privacy Policy is governed by the laws of England.
 
 **Further Information**
 
-If you have any requests or questions regarding this Privacy Policy please write to Sainsbury's Guernsey PCC Ltd at PO Box 336, Anson Court, La Route des Camps, St Martin, Guernsey, GY1 3UQ or contact us by e-mail using the following address: [onlineservice@sainsburys.co.uk](mailto:onlineservice@sainsburys.co.uk).
+If you have any requests or questions regarding this Privacy Policy please write to Sainsbury's Guernsey PCC Ltd at PO Box 336, Anson Court, La Route des Camps, St Martin, Guernsey, GY1 3UQ or contact us by e-mail using the following address: [onlineservice@sainsburys.co.uk ](mailto:onlineservice@sainsburys.co.uk)
