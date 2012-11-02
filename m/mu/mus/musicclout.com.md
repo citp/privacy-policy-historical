@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the musicclout.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501165303id_/http%3A//www.musicclout.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicclout.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102125929id_/http%3A//www.musicclout.com/contents/Privacy.aspx) for the most accurate reproduction.*
 
-# Music Clout - Privacy Policy
+# Music Clout
 
-### Music Clout Privacy Policy 
+### Privacy Policy
 
 **The effective date of this Privacy Policy is February 2011**
 
