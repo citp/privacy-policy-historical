@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the losangeles.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520001017id_/http%3A//www.losangeles.com/app/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losangeles.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102032520id_/http%3A//www.losangeles.com/privacy.html) for the most accurate reproduction.*
 
-# LosAngeles.com Privacy Policy
-
-Effective Date: April 1, 2009
+# Default site title
 
 Boulevards New Media, Inc., a California corporation (hereafter, "us," "we" or "our"), is committed to protecting your privacy. This Website Privacy Policy ("Privacy Policy") is provided in order to ensure the confidence of users of and visitors to (hereafter, "you" or "your") this Website (defined below), and is intended to comply with the State of California Online Privacy Protection Act of 2003.
 
-This Privacy Policy governs the use and collection of information from you by LosAngeles.com ("we" or "us") through your use of this site and our online services. This Privacy Policy does not apply to any other information you may provide us through other means (e.g., via mail, via telephone or at a live event).
+This Privacy Policy governs the use and collection of information from you by losangeles.com ("we" or "us") through your use of this site and our online services. This Privacy Policy does not apply to any other information you may provide us through other means (e.g., via mail, via telephone or at a live event).
 
 This Privacy Policy is made effective as of the Effective Date set forth above, but we reserve the right to add, change, update, or modify this Privacy Policy at any time and without notice by posting such addition, change, update, or modification on the Website. Any such addition, change, update or modification will be effective immediately upon posting on the Website. Please check this page periodically for changes. Information collected prior to the time any change is posted will be used according to the rules and policies that are applied at the time the information was collected.
 
@@ -48,4 +46,4 @@ Some vendors such as Google use cookies to serve ads on our sites. Google's DART
 
 Our Websites sometimes provides links and pointers to various websites maintained by other organizations. Our Websites provide these links as a convenience to our users, but does not operate, control or endorse these outside linked sites unless otherwise expressly and duly noted. We are solely responsible for the Websites owned and operated by divisions of Boulevards New Media, Inc. In addition, various partnered sites are governed under contractual agreements which incorporate this Privacy Policy. WE, ON OUR OWN BEHALF AND ON BEHALF OF OUR DIVISIONS, SUBSIDIARIES, AFFILIATES, PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, AND CONTRACTORS, EXPRESSLY DISCLAIM ANY OBLIGATION, RESPONSIBILITY OR LIABILITY FOR THE COLLECTION, USE OR DISTRIBUTION OF INFORMATION COLLECTED THOUGH ANY THIRD PARTY SITES. We encourage you to read the privacy policies contained on each of the websites you visit.
 
-If you have any questions about this Privacy Policy, the practices of our Websites or your dealings with our Websites, please [contact us](https://web.archive.org/app/contact/us.php).
+If you have any questions about this Privacy Policy, the practices of our Websites or your dealings with our Websites, please [contact us](https://web.archive.org/contact.html).
