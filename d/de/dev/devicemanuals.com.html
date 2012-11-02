@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the devicemanuals.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504035402id_/http%3A//www.devicemanuals.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devicemanuals.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102182443id_/http%3A//www.devicemanuals.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy Statement - Device Manuals </title>
@@ -12,6 +12,95 @@
 <style type="text/css" media="all">@import "/css/devicemanuals.css";</style>
 
 
+
+
+
+ 
+
+<script type="text/javascript">
+
+
+function loadOptions(p) {
+
+    deleteOptions({select: p.select});
+ 
+    for (var i = 0; i < p.options.length; i++) {
+
+        p.select.options[i] = new Option(p.options[i].text, p.options[i].value, null, (p.options[i].selected) ? true : false);
+
+    }
+
+}
+
+function deleteOptions(p) {
+    //alert(p);
+    p.select.options.length = 0;
+    return;
+
+}
+
+
+function getURL(linkurl) {
+
+    var xhr = xmlHttpRequestLoader();
+	try{
+     	xhr.open("GET", linkurl, false);
+    	xhr.send(null);
+    }
+    catch(exception)
+    {
+        alert("xhr fail");
+    }
+
+   
+    if (xhr.readyState == 4 && xhr.status == 200) {
+
+    	 var result=xhr.responseText;
+  
+	}
+    return result;
+}
+
+function xmlHttpRequestLoader() {
+
+    if (window.XMLHttpRequest) {
+        return new XMLHttpRequest();
+    } else {
+        return new ActiveXObject('Microsoft.XMLHTTP');
+    }
+}
+
+function manualQuickFindSelections(disable, enable, value) {
+
+    //document.getElementById(disable).disabled=true;
+    document.getElementById(enable).disabled=false;
+    
+    //if (parent_option == '') return;
+ 
+ 
+    var locationhref='/manual_finder.php?';
+    var querystring='op=get_options&selected='+escape(disable)+'&selection='+escape(value);
+    
+    var linkurl=locationhref + querystring;
+ 	// alert(linkurl); 
+    var result= getURL(linkurl) ;
+ 	//alert(result);
+ 		    loadOptions({
+         		select:   document.getElementById(enable),
+         		options:  eval( '(' + result + ')' )
+    		});
+    		if(disable=='qf_listing'){
+    			 	document.getElementById('qf_model').selectedIndex = 0;
+					document.getElementById('qf_model').disabled=true;
+					document.getElementById('qf_submit_button').src='/images/button_qf_submit_off.gif';
+					document.getElementById('qf_submit_button').disabled=true;
+    			
+    		}
+	
+ 
+} 
+
+</script>
 
 </head>
 <body>
@@ -150,6 +239,8 @@
 <input type="image" src="/cssimages/search.gif" align="absmiddle">
 </form>
 
+
+
  <div id="mainheader">Advertisement</div>
   <div id="contentlists">
 
@@ -166,15 +257,1036 @@ google_ad_height = 90;
 
 </div>
 
-<!--
+  <div id="mainheader">Manual Quick Finder</div>
  
+<form id="rightQuickFindSelections" method="post" action="/manual_finder.php"><select id="qf_listing" onchange="manualQuickFindSelections('qf_listing', 'qf_category', this.options[this.selectedIndex].value)" name="qf_listing" style="font-size:14px;"><option value="0">Select a Brand</option><option value="121TIME">121TIME</option>
+<option value="2Wire">2Wire</option>
+<option value="360 Systems">360 Systems</option>
+<option value="3Com">3Com</option>
+<option value="3D Perception">3D Perception</option>
+<option value="3G Technology">3G Technology</option>
+<option value="3JTech">3JTech</option>
+<option value="3M">3M</option>
+<option value="3R System">3R System</option>
+<option value="3com">3com</option>
+<option value="3dlabs">3dlabs</option>
+<option value="3ware">3ware</option>
+<option value="4G Systems">4G Systems</option>
+<option value="4XEM">4XEM</option>
+<option value="A&amp;D">A&amp;D</option>
+<option value="A&amp;D Lifesource">A&amp;D Lifesource</option>
+<option value="A.O.Smith">A.O.Smith</option>
+<option value="AAD">AAD</option>
+<option value="AB Amps">AB Amps</option>
+<option value="ACI">ACI</option>
+<option value="ACR">ACR</option>
+<option value="ACURA">ACURA</option>
+<option value="ACURA">ACURA</option>
+<option value="ACV">ACV</option>
+<option value="ADCOM">ADCOM</option>
+<option value="ADDER">ADDER</option>
+<option value="ADS">ADS</option>
+<option value="ADT">ADT</option>
+<option value="ADTRAN">ADTRAN</option>
+<option value="AEG Electrolux">AEG Electrolux</option>
+<option value="AG Neovo">AG Neovo</option>
+<option value="AGFA">AGFA</option>
+<option value="AGFA">AGFA</option>
+<option value="AISIN Toyota">AISIN Toyota</option>
+<option value="AIWA">AIWA</option>
+<option value="AMANO">AMANO</option>
+<option value="AME-Link">AME-Link</option>
+<option value="AMF Reece">AMF Reece</option>
+<option value="AMPEG">AMPEG</option>
+<option value="AOC">AOC</option>
+<option value="AOR">AOR</option>
+<option value="APEX Digital">APEX Digital</option>
+<option value="ARX">ARX</option>
+<option value="ASA">ASA</option>
+<option value="AT&amp;T">AT&amp;T</option>
+<option value="ATI">ATI</option>
+<option value="AV-GAD">AV-GAD</option>
+<option value="AV123">AV123</option>
+<option value="AVS">AVS</option>
+<option value="AWA">AWA</option>
+<option value="Aastra">Aastra</option>
+<option value="Abit">Abit</option>
+<option value="Acco Europe">Acco Europe</option>
+<option value="Accton">Accton</option>
+<option value="Accusplit">Accusplit</option>
+<option value="Accutone">Accutone</option>
+<option value="Ace">Ace</option>
+<option value="Aceex">Aceex</option>
+<option value="Acer">Acer</option>
+<option value="Acoustic Energy">Acoustic Energy</option>
+<option value="Acoustic Research">Acoustic Research</option>
+<option value="Acronova">Acronova</option>
+<option value="Acroprint">Acroprint</option>
+<option value="Actel">Actel</option>
+<option value="Ademco">Ademco</option>
+<option value="Ademco">Ademco</option>
+<option value="Adler">Adler</option>
+<option value="Admart">Admart</option>
+<option value="Aerus">Aerus</option>
+<option value="Aguilar">Aguilar</option>
+<option value="Aico">Aico</option>
+<option value="Aiphone">Aiphone</option>
+<option value="Aiptek">Aiptek</option>
+<option value="Air Comm Systems">Air Comm Systems</option>
+<option value="Air King">Air King</option>
+<option value="Air-O-Swiss">Air-O-Swiss</option>
+<option value="AirLink">AirLink</option>
+<option value="Airfree">Airfree</option>
+<option value="Akai">Akai</option>
+<option value="Akai Professional">Akai Professional</option>
+<option value="Akura">Akura</option>
+<option value="Alarm Lock">Alarm Lock</option>
+<option value="Albion">Albion</option>
+<option value="Albrecht">Albrecht</option>
+<option value="Alcatel">Alcatel</option>
+<option value="Alcorn Mcbride">Alcorn Mcbride</option>
+<option value="Alde">Alde</option>
+<option value="Alen">Alen</option>
+<option value="Alesis">Alesis</option>
+<option value="Alinco">Alinco</option>
+<option value="Alpatec">Alpatec</option>
+<option value="Alpha">Alpha</option>
+<option value="Alphasonik">Alphasonik</option>
+<option value="Alpine">Alpine</option>
+<option value="Altec Lansing">Altec Lansing</option>
+<option value="Altech UEC">Altech UEC</option>
+<option value="Altigen">Altigen</option>
+<option value="Altronix">Altronix</option>
+<option value="Amaircare">Amaircare</option>
+<option value="Amana">Amana</option>
+<option value="Amanda">Amanda</option>
+<option value="American DJ">American DJ</option>
+<option value="Ameriphone">Ameriphone</option>
+<option value="Amphony">Amphony</option>
+<option value="Amplivox">Amplivox</option>
+<option value="Amseco">Amseco</option>
+<option value="Andover Controls">Andover Controls</option>
+<option value="Anthem">Anthem</option>
+<option value="Apacer">Apacer</option>
+<option value="Apex">Apex</option>
+<option value="Apex digital">Apex digital</option>
+<option value="Apogee">Apogee</option>
+<option value="Apple">Apple</option>
+<option value="Aprilaire">Aprilaire</option>
+<option value="Arcam">Arcam</option>
+<option value="Argus Camera">Argus Camera</option>
+<option value="Ariston">Ariston</option>
+<option value="Aritech">Aritech</option>
+<option value="Armalite">Armalite</option>
+<option value="Aroma">Aroma</option>
+<option value="Arrisi">Arrisi</option>
+<option value="Arrowhead">Arrowhead</option>
+<option value="Artisan">Artisan</option>
+<option value="Asante">Asante</option>
+<option value="Ascaso">Ascaso</option>
+<option value="Ashdown">Ashdown</option>
+<option value="Ashly">Ashly</option>
+<option value="Ask Proxima">Ask Proxima</option>
+<option value="Asko">Asko</option>
+<option value="Astar">Astar</option>
+<option value="Astroflex">Astroflex</option>
+<option value="Astrostart">Astrostart</option>
+<option value="Asus">Asus</option>
+<option value="Athena">Athena</option>
+<option value="Atlantic">Atlantic</option>
+<option value="Atlantis Camera">Atlantis Camera</option>
+<option value="Atma-Sphere">Atma-Sphere</option>
+<option value="Audio Analogue">Audio Analogue</option>
+<option value="Audio Control">Audio Control</option>
+<option value="Audio Note">Audio Note</option>
+<option value="Audio Source">Audio Source</option>
+<option value="Audio Space">Audio Space</option>
+<option value="Audiobahn">Audiobahn</option>
+<option value="Audioline">Audioline</option>
+<option value="Audion">Audion</option>
+<option value="Audiopipe">Audiopipe</option>
+<option value="Audiotrak">Audiotrak</option>
+<option value="Audison">Audison</option>
+<option value="August">August</option>
+<option value="AutoPage">AutoPage</option>
+<option value="Automate">Automate</option>
+<option value="Autostart">Autostart</option>
+<option value="Autotek">Autotek</option>
+<option value="AvMap">AvMap</option>
+<option value="Avanti">Avanti</option>
+<option value="Avayon">Avayon</option>
+<option value="Aventura">Aventura</option>
+<option value="Averatec">Averatec</option>
+<option value="Avio">Avio</option>
+<option value="Avision">Avision</option>
+<option value="Avital">Avital</option>
+<option value="Axion">Axion</option>
+<option value="Ayre">Ayre</option>
+<option value="Azden">Azden</option>
+<option value="Azden">Azden</option>
+<option value="Azentek">Azentek</option>
+<option value="Aztech">Aztech</option>
+<option value="B&amp;K">B&amp;K</option>
+<option value="B&amp;W">B&amp;W</option>
+<option value="BBE">BBE</option>
+<option value="BC Biomedical">BC Biomedical</option>
+<option value="BC Time Recorder">BC Time Recorder</option>
+<option value="BMW">BMW</option>
+<option value="BOSE">BOSE</option>
+<option value="BOXLIGHT">BOXLIGHT</option>
+<option value="BSS Audio">BSS Audio</option>
+<option value="BT">BT</option>
+<option value="BTC">BTC</option>
+<option value="BUDDA">BUDDA</option>
+<option value="BW Broadcast">BW Broadcast</option>
+<option value="Baby Lock">Baby Lock</option>
+<option value="Balanced">Balanced</option>
+<option value="Bang &amp; Olufsen">Bang &amp; Olufsen</option>
+<option value="Banner American">Banner American</option>
+<option value="Barco">Barco</option>
+<option value="Barracuda">Barracuda</option>
+<option value="Baumatic">Baumatic</option>
+<option value="Bazooka">Bazooka</option>
+<option value="Beam">Beam</option>
+<option value="Beko">Beko</option>
+<option value="Belson">Belson</option>
+<option value="Beltronics">Beltronics</option>
+<option value="BenQ">BenQ</option>
+<option value="Benefon">Benefon</option>
+<option value="Benelli">Benelli</option>
+<option value="Beretta">Beretta</option>
+<option value="Bernina">Bernina</option>
+<option value="Bersa">Bersa</option>
+<option value="Bertazzoni">Bertazzoni</option>
+<option value="Billion">Billion</option>
+<option value="Bionaire">Bionaire</option>
+<option value="Bizfon">Bizfon</option>
+<option value="Black &amp; Decker">Black &amp; Decker</option>
+<option value="Black Widow">Black Widow</option>
+<option value="BlackBerry">BlackBerry</option>
+<option value="Blackstar">Blackstar</option>
+<option value="Blaupunkt">Blaupunkt</option>
+<option value="Blitz Audio">Blitz Audio</option>
+<option value="Blomberg">Blomberg</option>
+<option value="BlueAnt">BlueAnt</option>
+<option value="Blueair">Blueair</option>
+<option value="Bluestar">Bluestar</option>
+<option value="Bogen">Bogen</option>
+<option value="Boost">Boost</option>
+<option value="Bosch">Bosch</option>
+<option value="Boss Audio">Boss Audio</option>
+<option value="Boston Acoustics">Boston Acoustics</option>
+<option value="Brady">Brady</option>
+<option value="Braun">Braun</option>
+<option value="Breadman">Breadman</option>
+<option value="Brite View">Brite View</option>
+<option value="Brother">Brother</option>
+<option value="Browning">Browning</option>
+<option value="Bryston">Bryston</option>
+<option value="Buick">Buick</option>
+<option value="Bulldog">Bulldog</option>
+<option value="Bush">Bush</option>
+<option value="Bushnell">Bushnell</option>
+<option value="Butler Audio">Butler Audio</option>
+<option value="Byron">Byron</option>
+<option value="CAD Audio">CAD Audio</option>
+<option value="CAVS">CAVS</option>
+<option value="CES">CES</option>
+<option value="CHIMEI">CHIMEI</option>
+<option value="CITIZEN Systems">CITIZEN Systems</option>
+<option value="COWON">COWON</option>
+<option value="CTX">CTX</option>
+<option value="CURTIS">CURTIS</option>
+<option value="CVA">CVA</option>
+<option value="CZ">CZ</option>
+<option value="Cadco">Cadco</option>
+<option value="Cadence">Cadence</option>
+<option value="Cadillac">Cadillac</option>
+<option value="Califone">Califone</option>
+<option value="Cambridge">Cambridge</option>
+<option value="Cambridge Soundworks">Cambridge Soundworks</option>
+<option value="Campbell">Campbell</option>
+<option value="Candy">Candy</option>
+<option value="Cannon">Cannon</option>
+<option value="Canon">Canon</option>
+<option value="CapTel">CapTel</option>
+<option value="Caple">Caple</option>
+<option value="Capri">Capri</option>
+<option value="Carver">Carver</option>
+<option value="Cary Audio">Cary Audio</option>
+<option value="Casio">Casio</option>
+<option value="Cello">Cello</option>
+<option value="Cerwin Vega">Cerwin Vega</option>
+<option value="Changhong">Changhong</option>
+<option value="Char-Griller">Char-Griller</option>
+<option value="Charnwood">Charnwood</option>
+<option value="Chef">Chef</option>
+<option value="Chevrolet">Chevrolet</option>
+<option value="Chord">Chord</option>
+<option value="Cinetron">Cinetron</option>
+<option value="Cineversum">Cineversum</option>
+<option value="Cingular">Cingular</option>
+<option value="Cirrus Logic">Cirrus Logic</option>
+<option value="Cissell">Cissell</option>
+<option value="Clarion">Clarion</option>
+<option value="Clarity">Clarity</option>
+<option value="Classe">Classe</option>
+<option value="Cleveland">Cleveland</option>
+<option value="Clevo">Clevo</option>
+<option value="Clifford">Clifford</option>
+<option value="Cobra">Cobra</option>
+<option value="Cobra Pistol">Cobra Pistol</option>
+<option value="Coby">Coby</option>
+<option value="Comdial">Comdial</option>
+<option value="Comdial">Comdial</option>
+<option value="Compal">Compal</option>
+<option value="Compaq">Compaq</option>
+<option value="Compustar">Compustar</option>
+<option value="Comtek">Comtek</option>
+<option value="Concord Camera">Concord Camera</option>
+<option value="Consew">Consew</option>
+<option value="Convex">Convex</option>
+<option value="Coustic">Coustic</option>
+<option value="Crate">Crate</option>
+<option value="Creda">Creda</option>
+<option value="Creek Audio">Creek Audio</option>
+<option value="Crestron">Crestron</option>
+<option value="Crimestopper">Crimestopper</option>
+<option value="Crock Pot">Crock Pot</option>
+<option value="Crosley">Crosley</option>
+<option value="Crown Audio">Crown Audio</option>
+<option value="Crunch">Crunch</option>
+<option value="Cuisinart">Cuisinart</option>
+<option value="Cypress">Cypress</option>
+<option value="DALI">DALI</option>
+<option value="DATOptic">DATOptic</option>
+<option value="DB Drive">DB Drive</option>
+<option value="DBX">DBX</option>
+<option value="DCM">DCM</option>
+<option value="DEFY">DEFY</option>
+<option value="DLS">DLS</option>
+<option value="DOD">DOD</option>
+<option value="DORO">DORO</option>
+<option value="DP Audio Video">DP Audio Video</option>
+<option value="DPA Microphone">DPA Microphone</option>
+<option value="DSC">DSC</option>
+<option value="DViCO">DViCO</option>
+<option value="DX Antenna">DX Antenna</option>
+<option value="DXG">DXG</option>
+<option value="DYMO">DYMO</option>
+<option value="Daewoo">Daewoo</option>
+<option value="Daikin">Daikin</option>
+<option value="Dakota Alert">Dakota Alert</option>
+<option value="Danby">Danby</option>
+<option value="Dane-Elec">Dane-Elec</option>
+<option value="Danger">Danger</option>
+<option value="Dat Optic">Dat Optic</option>
+<option value="Datatronics">Datatronics</option>
+<option value="Datavideo">Datavideo</option>
+<option value="Davis">Davis</option>
+<option value="DeDietrich">DeDietrich</option>
+<option value="DeLonghi">DeLonghi</option>
+<option value="Definitive">Definitive</option>
+<option value="Delphi">Delphi</option>
+<option value="Denon">Denon</option>
+<option value="DesignTech">DesignTech</option>
+<option value="Diamond">Diamond</option>
+<option value="DigiTech">DigiTech</option>
+<option value="Digital Projection">Digital Projection</option>
+<option value="Digital Spectrum">Digital Spectrum</option>
+<option value="Digiview">Digiview</option>
+<option value="Dimplex">Dimplex</option>
+<option value="Directed Audio">Directed Audio</option>
+<option value="Disc Makers">Disc Makers</option>
+<option value="Dishlex">Dishlex</option>
+<option value="Dodge">Dodge</option>
+<option value="Dometic">Dometic</option>
+<option value="Drake">Drake</option>
+<option value="Dream Multimedia">Dream Multimedia</option>
+<option value="Dual">Dual</option>
+<option value="Dualit">Dualit</option>
+<option value="Ducati">Ducati</option>
+<option value="Duerkopp Adler">Duerkopp Adler</option>
+<option value="Dukane">Dukane</option>
+<option value="Durabrand">Durabrand</option>
+<option value="Dye Matrix">Dye Matrix</option>
+<option value="Dynaudio">Dynaudio</option>
+<option value="Dynaudio Acoustics">Dynaudio Acoustics</option>
+<option value="Dynex">Dynex</option>
+<option value="EAA">EAA</option>
+<option value="EIKI">EIKI</option>
+<option value="ELMO">ELMO</option>
+<option value="EMP Tek">EMP Tek</option>
+<option value="EOS Wireless">EOS Wireless</option>
+<option value="ESA">ESA</option>
+<option value="EUROCOM">EUROCOM</option>
+<option value="Eagle">Eagle</option>
+<option value="Earthquake">Earthquake</option>
+<option value="Eclipse">Eclipse</option>
+<option value="Edge">Edge</option>
+<option value="EdgeStar">EdgeStar</option>
+<option value="Electrocompaniet">Electrocompaniet</option>
+<option value="Electrohome">Electrohome</option>
+<option value="Electrolux">Electrolux</option>
+<option value="Element">Element</option>
+<option value="Elna">Elna</option>
+<option value="Elo Touch">Elo Touch</option>
+<option value="Emerson">Emerson</option>
+<option value="Emerson Radio">Emerson Radio</option>
+<option value="Eminent">Eminent</option>
+<option value="Emprex">Emprex</option>
+<option value="Energy">Energy</option>
+<option value="Eonon">Eonon</option>
+<option value="Epson">Epson</option>
+<option value="Equator">Equator</option>
+<option value="Ergotech">Ergotech</option>
+<option value="Escient">Escient</option>
+<option value="Escort">Escort</option>
+<option value="Estate">Estate</option>
+<option value="Eten">Eten</option>
+<option value="Eton">Eton</option>
+<option value="Euphonix">Euphonix</option>
+<option value="Eviant">Eviant</option>
+<option value="FIC">FIC</option>
+<option value="FLI Audio">FLI Audio</option>
+<option value="Fagor">Fagor</option>
+<option value="Farenheit">Farenheit</option>
+<option value="Faroudja">Faroudja</option>
+<option value="Fender">Fender</option>
+<option value="Ferrari">Ferrari</option>
+<option value="Finlux">Finlux</option>
+<option value="Fire-Lite">Fire-Lite</option>
+<option value="Firefly Mobile">Firefly Mobile</option>
+<option value="Firenzi">Firenzi</option>
+<option value="First Alert">First Alert</option>
+<option value="Fisher &amp; Paykel">Fisher &amp; Paykel</option>
+<option value="Fishman">Fishman</option>
+<option value="Flex-a-Lite">Flex-a-Lite</option>
+<option value="Focal">Focal</option>
+<option value="FoodSaver">FoodSaver</option>
+<option value="Ford">Ford</option>
+<option value="Fostex">Fostex</option>
+<option value="Freecom">Freecom</option>
+<option value="Friedrich">Friedrich</option>
+<option value="Frigidaire">Frigidaire</option>
+<option value="Fryette">Fryette</option>
+<option value="Fujifilm">Fujifilm</option>
+<option value="Fujitsu">Fujitsu</option>
+<option value="Funai">Funai</option>
+<option value="Fusion">Fusion</option>
+<option value="GCC">GCC</option>
+<option value="GE">GE</option>
+<option value="GFM">GFM</option>
+<option value="GMC">GMC</option>
+<option value="GN Netcom">GN Netcom</option>
+<option value="GPX">GPX</option>
+<option value="Galileo">Galileo</option>
+<option value="Gallien Krueger">Gallien Krueger</option>
+<option value="Gamut">Gamut</option>
+<option value="Garmin">Garmin</option>
+<option value="Gemini">Gemini</option>
+<option value="Genelec">Genelec</option>
+<option value="George Foreman">George Foreman</option>
+<option value="Gerber">Gerber</option>
+<option value="Globalsat">Globalsat</option>
+<option value="GoPro">GoPro</option>
+<option value="Goldmund">Goldmund</option>
+<option value="Goodmans">Goodmans</option>
+<option value="Grundig">Grundig</option>
+<option value="Gryphon">Gryphon</option>
+<option value="HAMEG">HAMEG</option>
+<option value="HANNSpree">HANNSpree</option>
+<option value="HONDA">HONDA</option>
+<option value="HP">HP</option>
+<option value="HP Velotechnik">HP Velotechnik</option>
+<option value="HTC">HTC</option>
+<option value="HUMAX">HUMAX</option>
+<option value="Hafler">Hafler</option>
+<option value="Haier">Haier</option>
+<option value="Halcro">Halcro</option>
+<option value="Hanna Instruments">Hanna Instruments</option>
+<option value="Hayes">Hayes</option>
+<option value="Health o Meter">Health o Meter</option>
+<option value="Heat &amp; Glo">Heat &amp; Glo</option>
+<option value="Heath">Heath</option>
+<option value="Heatline">Heatline</option>
+<option value="Hi-point">Hi-point</option>
+<option value="Hifonics">Hifonics</option>
+<option value="Hisense">Hisense</option>
+<option value="Hitachi">Hitachi</option>
+<option value="Holmes">Holmes</option>
+<option value="Home Easy">Home Easy</option>
+<option value="Honeywell">Honeywell</option>
+<option value="Hornet">Hornet</option>
+<option value="Hotpoint">Hotpoint</option>
+<option value="Hotpoint Ariston">Hotpoint Ariston</option>
+<option value="Humminbird">Humminbird</option>
+<option value="Hunter">Hunter</option>
+<option value="Husqvarna">Husqvarna</option>
+<option value="Husqvarna">Husqvarna</option>
+<option value="Hyundai">Hyundai</option>
+<option value="IBM">IBM</option>
+<option value="ILO">ILO</option>
+<option value="IQAir">IQAir</option>
+<option value="IZUMI">IZUMI</option>
+<option value="Ibanez">Ibanez</option>
+<option value="Imagination Technologies">Imagination Technologies</option>
+<option value="InSinkErator">InSinkErator</option>
+<option value="Indesit">Indesit</option>
+<option value="Inglis">Inglis</option>
+<option value="Initial">Initial</option>
+<option value="Insignia">Insignia</option>
+<option value="Intergraph">Intergraph</option>
+<option value="Interphase">Interphase</option>
+<option value="Iriver">Iriver</option>
+<option value="J&amp;J Communication">J&amp;J Communication</option>
+<option value="JARLTECH">JARLTECH</option>
+<option value="JL Audio">JL Audio</option>
+<option value="JUKI">JUKI</option>
+<option value="JVC">JVC</option>
+<option value="Jaguar">Jaguar</option>
+<option value="Jamo">Jamo</option>
+<option value="Janome">Janome</option>
+<option value="Jawbone">Jawbone</option>
+<option value="Jeep">Jeep</option>
+<option value="Jenn-Air">Jenn-Air</option>
+<option value="Jetway">Jetway</option>
+<option value="John Lewis">John Lewis</option>
+<option value="Juiceman">Juiceman</option>
+<option value="Just Mobile">Just Mobile</option>
+<option value="KAGA TAXAN">KAGA TAXAN</option>
+<option value="KAGA TAXAN">KAGA TAXAN</option>
+<option value="KAM">KAM</option>
+<option value="KOBE">KOBE</option>
+<option value="KONICA MINOLTA">KONICA MINOLTA</option>
+<option value="Karcher">Karcher</option>
+<option value="Kenmore Elite">Kenmore Elite</option>
+<option value="Kenmore PRO">Kenmore PRO</option>
+<option value="Kenwood">Kenwood</option>
+<option value="Keston">Keston</option>
+<option value="Kicker">Kicker</option>
+<option value="KitchenAid">KitchenAid</option>
+<option value="Klaxon">Klaxon</option>
+<option value="Knoll">Knoll</option>
+<option value="Kodak">Kodak</option>
+<option value="Kogan">Kogan</option>
+<option value="Kolin">Kolin</option>
+<option value="Koss">Koss</option>
+<option value="Kreisen">Kreisen</option>
+<option value="Krell">Krell</option>
+<option value="Kyocera">Kyocera</option>
+<option value="LA Audio">LA Audio</option>
+<option value="LG">LG</option>
+<option value="La Crosse">La Crosse</option>
+<option value="Lacie">Lacie</option>
+<option value="Laney">Laney</option>
+<option value="Lanier">Lanier</option>
+<option value="Lanzar">Lanzar</option>
+<option value="Lasko">Lasko</option>
+<option value="Lasonic">Lasonic</option>
+<option value="Legacy Audio">Legacy Audio</option>
+<option value="Leica">Leica</option>
+<option value="Lenovo">Lenovo</option>
+<option value="Lenoxx">Lenoxx</option>
+<option value="Leupold">Leupold</option>
+<option value="Lexar">Lexar</option>
+<option value="Lexicon Pro">Lexicon Pro</option>
+<option value="Lexmark">Lexmark</option>
+<option value="Liesegang">Liesegang</option>
+<option value="Lincoln">Lincoln</option>
+<option value="Linear">Linear</option>
+<option value="Linn">Linn</option>
+<option value="Littermaid">Littermaid</option>
+<option value="Livescribe">Livescribe</option>
+<option value="Logitech">Logitech</option>
+<option value="Looqs">Looqs</option>
+<option value="Lowrance">Lowrance</option>
+<option value="Lynx">Lynx</option>
+<option value="Lyra">Lyra</option>
+<option value="M-Audio">M-Audio</option>
+<option value="MAGNADYNE">MAGNADYNE</option>
+<option value="MAMIYA">MAMIYA</option>
+<option value="MF DIGITAL">MF DIGITAL</option>
+<option value="MFJ">MFJ</option>
+<option value="MINOX">MINOX</option>
+<option value="MPIO">MPIO</option>
+<option value="MTX">MTX</option>
+<option value="Mackie">Mackie</option>
+<option value="Magellan">Magellan</option>
+<option value="Magic Chef">Magic Chef</option>
+<option value="Magnasonic">Magnasonic</option>
+<option value="Magnavox">Magnavox</option>
+<option value="Majestic">Majestic</option>
+<option value="Manley">Manley</option>
+<option value="Marantz">Marantz</option>
+<option value="Mark Levinson">Mark Levinson</option>
+<option value="Marshall Amplification">Marshall Amplification</option>
+<option value="Marvel">Marvel</option>
+<option value="Massive Audio">Massive Audio</option>
+<option value="Mazda">Mazda</option>
+<option value="McIntosh">McIntosh</option>
+<option value="Meade">Meade</option>
+<option value="Memorex">Memorex</option>
+<option value="Memphis">Memphis</option>
+<option value="Mercedes-Benz">Mercedes-Benz</option>
+<option value="Mercury">Mercury</option>
+<option value="Meridian">Meridian</option>
+<option value="Meridian Audio">Meridian Audio</option>
+<option value="Mesa Boogie">Mesa Boogie</option>
+<option value="Metronic">Metronic</option>
+<option value="Meyer">Meyer</option>
+<option value="Microcom">Microcom</option>
+<option value="Microdia">Microdia</option>
+<option value="Microlife">Microlife</option>
+<option value="Midas">Midas</option>
+<option value="Midland">Midland</option>
+<option value="Miele">Miele</option>
+<option value="Millennia">Millennia</option>
+<option value="Mirage">Mirage</option>
+<option value="Mitsubishi">Mitsubishi</option>
+<option value="Mitsumi">Mitsumi</option>
+<option value="Moffat">Moffat</option>
+<option value="Monitor Audio">Monitor Audio</option>
+<option value="Monroe">Monroe</option>
+<option value="Morel">Morel</option>
+<option value="Motorola">Motorola</option>
+<option value="Mr. Coffee">Mr. Coffee</option>
+<option value="Mr. Heater">Mr. Heater</option>
+<option value="Muratec">Muratec</option>
+<option value="Mx Onda">Mx Onda</option>
+<option value="Myryad">Myryad</option>
+<option value="NAD">NAD</option>
+<option value="NAPCO">NAPCO</option>
+<option value="NAVIGON">NAVIGON</option>
+<option value="NEC">NEC</option>
+<option value="NEFF">NEFF</option>
+<option value="NESCO">NESCO</option>
+<option value="Nady">Nady</option>
+<option value="Naim">Naim</option>
+<option value="Nakamichi">Nakamichi</option>
+<option value="National Time">National Time</option>
+<option value="Navman">Navman</option>
+<option value="Naxa">Naxa</option>
+<option value="Neodigits">Neodigits</option>
+<option value="Neuton">Neuton</option>
+<option value="Neway">Neway</option>
+<option value="Nextbase">Nextbase</option>
+<option value="Nikon">Nikon</option>
+<option value="Niles Audio">Niles Audio</option>
+<option value="Nintendo">Nintendo</option>
+<option value="Nissan">Nissan</option>
+<option value="Nokia">Nokia</option>
+<option value="Norcent">Norcent</option>
+<option value="Norcold">Norcold</option>
+<option value="Northern Lights">Northern Lights</option>
+<option value="Numark">Numark</option>
+<option value="Nvidia">Nvidia</option>
+<option value="OKI">OKI</option>
+<option value="OKI">OKI</option>
+<option value="OPPO Digital">OPPO Digital</option>
+<option value="ORION">ORION</option>
+<option value="OSO">OSO</option>
+<option value="OXX Digital">OXX Digital</option>
+<option value="Odyssey">Odyssey</option>
+<option value="Officezone">Officezone</option>
+<option value="Oldsmobile">Oldsmobile</option>
+<option value="Olive">Olive</option>
+<option value="Olivetti">Olivetti</option>
+<option value="Olympus">Olympus</option>
+<option value="Omega">Omega</option>
+<option value="Omnia Audio">Omnia Audio</option>
+<option value="Omron">Omron</option>
+<option value="Onix">Onix</option>
+<option value="Onkyo">Onkyo</option>
+<option value="Optoma">Optoma</option>
+<option value="Orange">Orange</option>
+<option value="Oreck">Oreck</option>
+<option value="Oricom">Oricom</option>
+<option value="Oris">Oris</option>
+<option value="Oster">Oster</option>
+<option value="Outbacker">Outbacker</option>
+<option value="Outlaw Audio">Outlaw Audio</option>
+<option value="Output">Output</option>
+<option value="Oz Audio">Oz Audio</option>
+<option value="PLUS">PLUS</option>
+<option value="PLUS Vision">PLUS Vision</option>
+<option value="POSIFLEX">POSIFLEX</option>
+<option value="PS Audio">PS Audio</option>
+<option value="PSB">PSB</option>
+<option value="PURE">PURE</option>
+<option value="PYLE Audio">PYLE Audio</option>
+<option value="Packard Bell">Packard Bell</option>
+<option value="Palsonic">Palsonic</option>
+<option value="Panasonic">Panasonic</option>
+<option value="Pantech">Pantech</option>
+<option value="Paragon">Paragon</option>
+<option value="Parasound">Parasound</option>
+<option value="Parkinson Cowan">Parkinson Cowan</option>
+<option value="Parrot">Parrot</option>
+<option value="Pass">Pass</option>
+<option value="Patton">Patton</option>
+<option value="Peavey">Peavey</option>
+<option value="Pentax">Pentax</option>
+<option value="Peterson">Peterson</option>
+<option value="Pharos">Pharos</option>
+<option value="Phase">Phase</option>
+<option value="Phatnoise">Phatnoise</option>
+<option value="Philco">Philco</option>
+<option value="Philips">Philips</option>
+<option value="Phoenix Gold">Phoenix Gold</option>
+<option value="Phoenix Technologies">Phoenix Technologies</option>
+<option value="Piazzetta">Piazzetta</option>
+<option value="Pioneer">Pioneer</option>
+<option value="Pitney Bowes">Pitney Bowes</option>
+<option value="Pixel Magic">Pixel Magic</option>
+<option value="Planar">Planar</option>
+<option value="Planet Audio">Planet Audio</option>
+<option value="Planet Technology">Planet Technology</option>
+<option value="Plantronics">Plantronics</option>
+<option value="Plextor">Plextor</option>
+<option value="Plinius Audio">Plinius Audio</option>
+<option value="Polar">Polar</option>
+<option value="Polaroid">Polaroid</option>
+<option value="Polk Audio">Polk Audio</option>
+<option value="Poly Planar">Poly Planar</option>
+<option value="Pontiac">Pontiac</option>
+<option value="Porsche">Porsche</option>
+<option value="Power Acoustik">Power Acoustik</option>
+<option value="Power Acoustik">Power Acoustik</option>
+<option value="Precision Power">Precision Power</option>
+<option value="Presonus">Presonus</option>
+<option value="Presto">Presto</option>
+<option value="Primare">Primare</option>
+<option value="Primera">Primera</option>
+<option value="Pringle">Pringle</option>
+<option value="Printek">Printek</option>
+<option value="Profile">Profile</option>
+<option value="Projectiondesign">Projectiondesign</option>
+<option value="Proscan">Proscan</option>
+<option value="Python">Python</option>
+<option value="QSC Audio">QSC Audio</option>
+<option value="Quad">Quad</option>
+<option value="Quatech">Quatech</option>
+<option value="RBI">RBI</option>
+<option value="RCA">RCA</option>
+<option value="REGA">REGA</option>
+<option value="RICCAR">RICCAR</option>
+<option value="RIKA">RIKA</option>
+<option value="RKC">RKC</option>
+<option value="RME Audio">RME Audio</option>
+<option value="ROSEN">ROSEN</option>
+<option value="Rabbit Air">Rabbit Air</option>
+<option value="Randall">Randall</option>
+<option value="Rane">Rane</option>
+<option value="Rangemaster">Rangemaster</option>
+<option value="Rattler">Rattler</option>
+<option value="Ravenheat">Ravenheat</option>
+<option value="Redfyre">Redfyre</option>
+<option value="Reelin">Reelin</option>
+<option value="Regal">Regal</option>
+<option value="Regency">Regency</option>
+<option value="Regency Fan">Regency Fan</option>
+<option value="Remington">Remington</option>
+<option value="Renkus-Heinz">Renkus-Heinz</option>
+<option value="ReplayTV">ReplayTV</option>
+<option value="Resolution">Resolution</option>
+<option value="Revel">Revel</option>
+<option value="Revo">Revo</option>
+<option value="Ricoh">Ricoh</option>
+<option value="Rinnai">Rinnai</option>
+<option value="Rival">Rival</option>
+<option value="Roadmaster">Roadmaster</option>
+<option value="Roadpost">Roadpost</option>
+<option value="Roberts">Roberts</option>
+<option value="Robomow">Robomow</option>
+<option value="Rockford">Rockford</option>
+<option value="Rocstor">Rocstor</option>
+<option value="Roland">Roland</option>
+<option value="Rollei">Rollei</option>
+<option value="Roper">Roper</option>
+<option value="Rosen Aviation">Rosen Aviation</option>
+<option value="Rotel">Rotel</option>
+<option value="Royal">Royal</option>
+<option value="Runco">Runco</option>
+<option value="SAM Audio">SAM Audio</option>
+<option value="SATO">SATO</option>
+<option value="SATURN">SATURN</option>
+<option value="SEIKO">SEIKO</option>
+<option value="SEKURE">SEKURE</option>
+<option value="SGC">SGC</option>
+<option value="SIM2">SIM2</option>
+<option value="SMART">SMART</option>
+<option value="SMEG">SMEG</option>
+<option value="SONIQ">SONIQ</option>
+<option value="SPECTRONIQ">SPECTRONIQ</option>
+<option value="SUBARU">SUBARU</option>
+<option value="SV2000">SV2000</option>
+<option value="SWRSound">SWRSound</option>
+<option value="Saab">Saab</option>
+<option value="Saeco">Saeco</option>
+<option value="Saeco">Saeco</option>
+<option value="Sagem">Sagem</option>
+<option value="Sager">Sager</option>
+<option value="Sako">Sako</option>
+<option value="Salora">Salora</option>
+<option value="Samsung">Samsung</option>
+<option value="SanDisk">SanDisk</option>
+<option value="Sangean">Sangean</option>
+<option value="Sansui">Sansui</option>
+<option value="Sanyo">Sanyo</option>
+<option value="Saunier Duval">Saunier Duval</option>
+<option value="Savage">Savage</option>
+<option value="Savin">Savin</option>
+<option value="Scitec">Scitec</option>
+<option value="Scytek">Scytek</option>
+<option value="Seal a Meal">Seal a Meal</option>
+<option value="Sears">Sears</option>
+<option value="Second Wind">Second Wind</option>
+<option value="Sennheiser">Sennheiser</option>
+<option value="Sentry">Sentry</option>
+<option value="Sharp">Sharp</option>
+<option value="ShoreTel">ShoreTel</option>
+<option value="Shure">Shure</option>
+<option value="Si-tex">Si-tex</option>
+<option value="Siemens">Siemens</option>
+<option value="Sigma Photo">Sigma Photo</option>
+<option value="Sigsauer">Sigsauer</option>
+<option value="SilverCrest">SilverCrest</option>
+<option value="SimAudio">SimAudio</option>
+<option value="Sima">Sima</option>
+<option value="Simoncells">Simoncells</option>
+<option value="Simpson Electric">Simpson Electric</option>
+<option value="Singer">Singer</option>
+<option value="Sirius">Sirius</option>
+<option value="Smart Temp">Smart Temp</option>
+<option value="Smith &amp; Wesson">Smith &amp; Wesson</option>
+<option value="Sonic Alert">Sonic Alert</option>
+<option value="SonicImpact">SonicImpact</option>
+<option value="Sonim">Sonim</option>
+<option value="Sony">Sony</option>
+<option value="SoundTraxx">SoundTraxx</option>
+<option value="Soundstream">Soundstream</option>
+<option value="Southbend">Southbend</option>
+<option value="Speed Queen">Speed Queen</option>
+<option value="Standard Horizon">Standard Horizon</option>
+<option value="Star Choice">Star Choice</option>
+<option value="Star Micronics">Star Micronics</option>
+<option value="Starkey">Starkey</option>
+<option value="Stellar">Stellar</option>
+<option value="Sub-Zero">Sub-Zero</option>
+<option value="Sumas">Sumas</option>
+<option value="Sun Microsystems">Sun Microsystems</option>
+<option value="Sunbeam">Sunbeam</option>
+<option value="Sunfire">Sunfire</option>
+<option value="Sungale">Sungale</option>
+<option value="Sylvania">Sylvania</option>
+<option value="Symphonic">Symphonic</option>
+<option value="System Fidelity">System Fidelity</option>
+<option value="T+A">T+A</option>
+<option value="T-Mobile">T-Mobile</option>
+<option value="TC electronic">TC electronic</option>
+<option value="TEAC">TEAC</option>
+<option value="THD">THD</option>
+<option value="TIC">TIC</option>
+<option value="TISSOT">TISSOT</option>
+<option value="TVix">TVix</option>
+<option value="Tact Audio">Tact Audio</option>
+<option value="Tamron">Tamron</option>
+<option value="Taurus">Taurus</option>
+<option value="Technaxx">Technaxx</option>
+<option value="TechniSat">TechniSat</option>
+<option value="Teledex">Teledex</option>
+<option value="Teledyne">Teledyne</option>
+<option value="Telefunken">Telefunken</option>
+<option value="Telematrix">Telematrix</option>
+<option value="Teletype">Teletype</option>
+<option value="Telex">Telex</option>
+<option value="TerraTec">TerraTec</option>
+<option value="Texas Instruments">Texas Instruments</option>
+<option value="Thane">Thane</option>
+<option value="Themescene">Themescene</option>
+<option value="Thermador">Thermador</option>
+<option value="Theta">Theta</option>
+<option value="Thomson">Thomson</option>
+<option value="Thuraya">Thuraya</option>
+<option value="Tiger">Tiger</option>
+<option value="Tikka">Tikka</option>
+<option value="Timeclocking">Timeclocking</option>
+<option value="Timex">Timex</option>
+<option value="Titan">Titan</option>
+<option value="Tivoli">Tivoli</option>
+<option value="Toastmaster">Toastmaster</option>
+<option value="Toft">Toft</option>
+<option value="Tomtom">Tomtom</option>
+<option value="Tone Commander">Tone Commander</option>
+<option value="Toshiba">Toshiba</option>
+<option value="Totevision">Totevision</option>
+<option value="Toyota">Toyota</option>
+<option value="Triad">Triad</option>
+<option value="Tricity Bendix">Tricity Bendix</option>
+<option value="Trillium">Trillium</option>
+<option value="Triumph Adler">Triumph Adler</option>
+<option value="Trutech">Trutech</option>
+<option value="Turbo Air">Turbo Air</option>
+<option value="Tview">Tview</option>
+<option value="Twinhead">Twinhead</option>
+<option value="U-Line">U-Line</option>
+<option value="UMAX">UMAX</option>
+<option value="Ultra Start">Ultra Start</option>
+<option value="UniMac">UniMac</option>
+<option value="Uniden">Uniden</option>
+<option value="Universal Audio">Universal Audio</option>
+<option value="Univex">Univex</option>
+<option value="Uniwill">Uniwill</option>
+<option value="V Speakers">V Speakers</option>
+<option value="VIZIO">VIZIO</option>
+<option value="VODAVI">VODAVI</option>
+<option value="VOX">VOX</option>
+<option value="VPI">VPI</option>
+<option value="VTech Electronics">VTech Electronics</option>
+<option value="VTech Phone">VTech Phone</option>
+<option value="Valcom">Valcom</option>
+<option value="Valet">Valet</option>
+<option value="Valve">Valve</option>
+<option value="Vectronics">Vectronics</option>
+<option value="Velodyne">Velodyne</option>
+<option value="Vertical">Vertical</option>
+<option value="Vestax">Vestax</option>
+<option value="Vialta">Vialta</option>
+<option value="Vicks">Vicks</option>
+<option value="Victor">Victor</option>
+<option value="Vidicode">Vidicode</option>
+<option value="Vidikron">Vidikron</option>
+<option value="ViewEra">ViewEra</option>
+<option value="ViewSonic">ViewSonic</option>
+<option value="Viking">Viking</option>
+<option value="Villaware">Villaware</option>
+<option value="Viore">Viore</option>
+<option value="Viper">Viper</option>
+<option value="Visionquest">Visionquest</option>
+<option value="Vita Audio">Vita Audio</option>
+<option value="Vitalsys">Vitalsys</option>
+<option value="Vivitar">Vivitar</option>
+<option value="Vivitek">Vivitek</option>
+<option value="Vivotek">Vivotek</option>
+<option value="Vixen Optics">Vixen Optics</option>
+<option value="Vizualogic">Vizualogic</option>
+<option value="VocoPro">VocoPro</option>
+<option value="Voice Trak">Voice Trak</option>
+<option value="Volvo">Volvo</option>
+<option value="Vornado">Vornado</option>
+<option value="Voxson">Voxson</option>
+<option value="Voxtel">Voxtel</option>
+<option value="VuPoint">VuPoint</option>
+<option value="Wacom">Wacom</option>
+<option value="Wadia">Wadia</option>
+<option value="Walther">Walther</option>
+<option value="Weber">Weber</option>
+<option value="Weitech">Weitech</option>
+<option value="Welbilt">Welbilt</option>
+<option value="West Bend">West Bend</option>
+<option value="Western Digital">Western Digital</option>
+<option value="Westinghouse">Westinghouse</option>
+<option value="Wet Labs">Wet Labs</option>
+<option value="Wharfedale Pro">Wharfedale Pro</option>
+<option value="Wheelock">Wheelock</option>
+<option value="Whirlpool">Whirlpool</option>
+<option value="Whistler">Whistler</option>
+<option value="White and Brown">White and Brown</option>
+<option value="Win">Win</option>
+<option value="Winchester">Winchester</option>
+<option value="Windmere">Windmere</option>
+<option value="Windsor">Windsor</option>
+<option value="Wintal">Wintal</option>
+<option value="Wolf">Wolf</option>
+<option value="Wolfgang Puck">Wolfgang Puck</option>
+<option value="Worx">Worx</option>
+<option value="X-Micro">X-Micro</option>
+<option value="XO Vision">XO Vision</option>
+<option value="Xante">Xante</option>
+<option value="Xantrex">Xantrex</option>
+<option value="Xblue">Xblue</option>
+<option value="Xbox">Xbox</option>
+<option value="Xerox">Xerox</option>
+<option value="Xtant">Xtant</option>
+<option value="Xtreamer">Xtreamer</option>
+<option value="XtremeMac">XtremeMac</option>
+<option value="YAMADA">YAMADA</option>
+<option value="YOKOGAWA">YOKOGAWA</option>
+<option value="Yaesu">Yaesu</option>
+<option value="Yakumo">Yakumo</option>
+<option value="Yakumo">Yakumo</option>
+<option value="Yamaha">Yamaha</option>
+<option value="Yamaha Motor">Yamaha Motor</option>
+<option value="Yashica">Yashica</option>
+<option value="Yeoman">Yeoman</option>
+<option value="Yorkville">Yorkville</option>
+<option value="Yukon Optics">Yukon Optics</option>
+<option value="Yupiteru">Yupiteru</option>
+<option value="Yuraku">Yuraku</option>
+<option value="Z Systems">Z Systems</option>
+<option value="ZEPTO">ZEPTO</option>
+<option value="ZETRON">ZETRON</option>
+<option value="ZT Amplifiers">ZT Amplifiers</option>
+<option value="ZTE">ZTE</option>
+<option value="Zanussi Electrolux">Zanussi Electrolux</option>
+<option value="Zapco">Zapco</option>
+<option value="Zavio">Zavio</option>
+<option value="Zebra">Zebra</option>
+<option value="Zed Audio">Zed Audio</option>
+<option value="Zenex">Zenex</option>
+<option value="Zeon">Zeon</option>
+<option value="Zhumell">Zhumell</option>
+<option value="Zibro">Zibro</option>
+<option value="Ziga">Ziga</option>
+<option value="Zinwell">Zinwell</option>
+<option value="Zlive">Zlive</option>
+<option value="Zojirushi">Zojirushi</option>
+<option value="Zonet">Zonet</option>
+<option value="Zoom">Zoom</option>
+<option value="Zoombak">Zoombak</option>
+<option value="Zotac">Zotac</option>
+<option value="Zvox Audio">Zvox Audio</option>
+<option value="ZyXEL">ZyXEL</option>
+<option value="Zyliss">Zyliss</option>
+<option value="achiever">achiever</option>
+<option value="adi">adi</option>
+<option value="iHome">iHome</option>
+<option value="iLive">iLive</option>
+<option value="iMainGo">iMainGo</option>
+<option value="jWin">jWin</option>
+<option value="nMedia">nMedia</option>
+<option value="weatherX">weatherX</option>
+</select>
+  	<select id="qf_category" onchange="manualQuickFindSelections('qf_category', 'qf_model', this.options[this.selectedIndex].value)" disabled="" name="qf_category" style="font-size:14px;">
+		<option value="">Select a Category</option>
+	</select>
+
+<select id="qf_model" disabled="" onclick="document.getElementById('qf_submit_button').src='/images/button_qf_submit.gif'; document.getElementById('qf_submit_button').disabled=false;" name="qf_model" style="font-size:14px;">
+	<option value="">Select a Product</option>
+</select>
+<br>
+<a onclick="document.getElementById('qf_category').disabled=true; document.getElementById('qf_category').selectedIndex = 0; document.getElementById('qf_model').disabled=true; document.getElementById('qf_model').selectedIndex = 0; document.getElementById('qf_listing').disabled=false; document.getElementById('qf_listing').selectedIndex = 0; document.getElementById('qf_submit_button').src='/images/button_qf_submit_off.gif'; document.getElementById('qf_submit_button').disabled=true; return false;" href="#"><img src="/images/reset_qf.gif">
+</a>
+
+<input id="qf_submit_button" disabled="" name="qf_submit_button" src="/images/button_qf_submit_off.gif" type="image"></form> 
   <div id="contentlists">
   
-  <script src="/ads/devicemanuals_google_160x600.js"></script>
+  <script src="/ads/devicemanuals_google_160x600.js"></script><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8421929332612738";
+/* manual160x600 */
+google_ad_slot = "3550081847";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20130430202909/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><ins style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"><ins id="aswift_0_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"><iframe width="160" height="600" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;"></iframe></ins></ins>
+
   
   </div>
  
- -->
+ 
  
 
  
@@ -207,7 +1319,7 @@ google_ad_height = 90;
 | <a href="/privacypolicy.php" title="Privacy Policy Statement"> Privacy Policy Statement </a>| <br>
  
 
-(C)2006-2011,devicemanuals.com. All rights reserved. 248394 Guides, <br> Focus on User Guide, Owner Manual, Operating Instruction, Service handbook.  2012x-05p-03q
+(C)2006-2011,devicemanuals.com. All rights reserved. 239840 Guides, <br> Focus on User Guide, Owner Manual, Operating Instruction, Service handbook.  2012x-11p-02q
 </div>
 
 <div id="statement">
