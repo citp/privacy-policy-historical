@@ -1,88 +1,92 @@
-<!--The following is the downloaded HTML source of the appleone.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618120507id_/http%3A//www.appleone.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appleone.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102130522id_/http%3A//www.appleone.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="ctl00_Head1"><title>
 	AppleOne
-</title><link href="/App_Themes/layout.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/App_Themes/InternalPages.css" type="text/css"><script language="javascript" type="text/javascript">
-   function OnClientClickBtnSearch()
-   {  //[Client-side function] when btnSearch button is clicked
+</title>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Includes/clientscript/detectmobilebrowser.min.js"></script>
+  <link href="/App_Themes/layout.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/App_Themes/InternalPages.css" type="text/css">
+		
+	<script language="javascript" type="text/javascript">
+	    function OnClientClickBtnSearch() {  //[Client-side function] when btnSearch button is clicked
 
-	  //store keywords data in hidden field because ASP.NET Master page adds uniqueID (ctl00) to all controls so the controls cannot be accessed
-	  document.forms[0].txtKeywords.value = document.forms[0].elements['ctl00$txtKeywords2'].value;
-	  if (document.forms[0].txtKeywords.value == 'Type Keywords Here')
-		document.forms[0].txtKeywords.value = '';
+	        //store keywords data in hidden field because ASP.NET Master page adds uniqueID (ctl00) to all controls so the controls cannot be accessed
+	        document.forms[0].txtKeywords.value = document.forms[0].elements['ctl00$txtKeywords2'].value;
+	        if (document.forms[0].txtKeywords.value == 'Type Keywords Here')
+	            document.forms[0].txtKeywords.value = '';
 
-	  //erase the viewstate so it wouldn't collide with another ASP.NET page
-	  if (document.getElementById('__VIEWSTATE'))
-		document.getElementById('__VIEWSTATE').parentNode.removeChild(document.getElementById('__VIEWSTATE'));
+	        //erase the viewstate so it wouldn't collide with another ASP.NET page
+	        if (document.getElementById('__VIEWSTATE'))
+	            document.getElementById('__VIEWSTATE').parentNode.removeChild(document.getElementById('__VIEWSTATE'));
 
-	  //remove ASP.NET postback component preventing IsPostBack = true in next ASP.NET page
-	  if (document.getElementById('__EVENTTARGET'))
-		document.getElementById('__EVENTTARGET').parentNode.removeChild(document.getElementById('__EVENTTARGET'));
-	  if (document.getElementById('__EVENTARGUMENT'))
-		document.getElementById('__EVENTARGUMENT').parentNode.removeChild(document.getElementById('__EVENTARGUMENT'));
+	        //remove ASP.NET postback component preventing IsPostBack = true in next ASP.NET page
+	        if (document.getElementById('__EVENTTARGET'))
+	            document.getElementById('__EVENTTARGET').parentNode.removeChild(document.getElementById('__EVENTTARGET'));
+	        if (document.getElementById('__EVENTARGUMENT'))
+	            document.getElementById('__EVENTARGUMENT').parentNode.removeChild(document.getElementById('__EVENTARGUMENT'));
 
-	  document.forms[0].method = "post";
-      switch (document.forms[0].elements['ctl00$ddlSearchList'].selectedIndex)
-      {
-		case 0:	//Search Site
-		default:
-  		  document.forms[0].action="/IndexSearch/Default.aspx";
-		  break;
-		case 1:	//Search Career
-  		  document.forms[0].action="/CareerSearch/mcs_searchResults.aspx";
-		  break;
-		case 2:	//Search Resumes
-  		  document.forms[0].action="http://search.appleone.com/ResumeSearch/process.asp?page=HomePage";
-		  break;
-      }
-	}
+	        document.forms[0].method = "post";
+	        switch (document.forms[0].elements['ctl00$ddlSearchList'].selectedIndex) {
+	            case 0: //Search Site
+	            default:
+	                document.forms[0].action = "/IndexSearch/Default.aspx";
+	                break;
+	            case 1: //Search Career
+	                document.forms[0].action = "/CareerSearch/mcs_searchResults.aspx";
+	                break;
+	            case 2: //Search Resumes
+	                document.forms[0].action = "http://search.appleone.com/ResumeSearch/process.asp?page=HomePage";
+	                break;
+	        }
+	    }
 
-	function ShowAdvanceSearch(){
-		with(document.forms[0]){
-			var iEmployType = document.getElementById('ctl00$ddlSearchList').selectedIndex;
-			if(iEmployType == 0){
-				document.location.href='/IndexSearch/Default.aspx';
-			}else if(iEmployType == 1){
-				document.location.href='/CareerSearch/mcs_findCareer2.aspx';
-			}else if(iEmployType == 2){
-				document.location.href='http://search.appleone.com/ResumeSearch/SearchDetailed.asp';
-			}
-		}
-	}
+	    function ShowAdvanceSearch() {
+	        with (document.forms[0]) {
+	            var iEmployType = document.getElementById('ctl00$ddlSearchList').selectedIndex;
+	            if (iEmployType == 0) {
+	                document.location.href = '/IndexSearch/Default.aspx';
+	            } else if (iEmployType == 1) {
+	                document.location.href = '/CareerSearch/mcs_findCareer2.aspx';
+	            } else if (iEmployType == 2) {
+	                document.location.href = 'http://search.appleone.com/ResumeSearch/SearchDetailed.asp';
+	            }
+	        }
+	    }
 
-	function ShowHelpTipsLink()
-	{
-	  if (document.getElementById('ctl00$ddlSearchList').selectedIndex == 0)
-		document.getElementById("HelpTipsLink").style.visibility = 'visible';
-	  else
-		document.getElementById("HelpTipsLink").style.visibility = 'hidden';
-	}
+	    function ShowHelpTipsLink() {
+	        if (document.getElementById('ctl00$ddlSearchList').selectedIndex == 0)
+	            document.getElementById("HelpTipsLink").style.visibility = 'visible';
+	        else
+	            document.getElementById("HelpTipsLink").style.visibility = 'hidden';
+	    }
 
-    function defaultButtonFix(source, arguments) 
-    {	//As of 20060726, fix to a ASP.NET 2.0 bug that defaultButton in panel stop working after validation failed on a control
-		//detail in doc
-        __defaultFired = false; 
-    }
-  </script></head>
+	    function defaultButtonFix(source, arguments) {	//As of 20060726, fix to a ASP.NET 2.0 bug that defaultButton in panel stop working after validation failed on a control
+	        //detail in doc
+	        __defaultFired = false;
+	    }
+  </script>	 
+<style type="text/css">
+	.ctl00_TreeView1_0 { text-decoration:none; }
+	.ctl00_TreeView1_1 { border-style:none; }
+	.ctl00_TreeView1_2 {  }
+	.ctl00_TreeView1_3 { border-style:none; }
+	.ctl00_TreeView1_4 {  }
+	.ctl00_TreeView1_5 { border-style:none; }
+	.ctl00_TreeView1_6 {  }
+	.ctl00_TreeView1_7 { border-style:none; }
+	.ctl00_TreeView1_8 {  }
+	.ctl00_TreeView1_9 { font-size:Small;border-style:none; }
+	.ctl00_TreeView1_10 {  }
+	.ctl00_TreeView1_11 { font-weight:bold;border-style:none; }
+	.ctl00_TreeView1_12 {  }
 
-
-
-
-
-  
-
-
-
-
-
-
+</style></head>
 <body>
-<form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIBD2QWCAIDD2QWBAIBDzwrAAUBAA8WAh4HVmlzaWJsZWhkZAIDDw8WAh4EVGV4dAU2PGEgaHJlZj0nL0RlZmF1bHQuYXNweCcgY2xhc3M9J2JyZWFkY3J1bWJCYXInPkhvbWU8L2E+ZGQCBQ8WBh4SU3RhcnRpbmdOb2RlT2Zmc2V0Zh4PU2l0ZU1hcFByb3ZpZGVyBRFDU1NpdGVNYXBQcm92aWRlch4QU2hvd1N0YXJ0aW5nTm9kZWhkAgsPZBYEAgEPEA9kFgIeCG9uQ2hhbmdlBR1qYXZhc2NyaXB0OlNob3dIZWxwVGlwc0xpbmsoKWRkZAIDDw9kFgQeB29uZm9jdXMFNWlmKHRoaXMudmFsdWU9PSdUeXBlIEtleXdvcmRzIEhlcmUnKSB7dGhpcy52YWx1ZT0nJzt9HgZvbmJsdXIFNWlmKHRoaXMudmFsdWU9PScnKSB7dGhpcy52YWx1ZT0nVHlwZSBLZXl3b3JkcyBIZXJlJzt9ZAIPD2QWBgIDDw9kFgQfBgUzaWYodGhpcy52YWx1ZT09J1R5cGUgRS1tYWlsIEhlcmUnKSB7dGhpcy52YWx1ZT0nJzt9HwcFM2lmKHRoaXMudmFsdWU9PScnKSB7dGhpcy52YWx1ZT0nVHlwZSBFLW1haWwgSGVyZSc7fWQCBw8PFgIeFFZhbGlkYXRpb25FeHByZXNzaW9uBVxeW2EtekEtWjAtOV1bXHdcLi1dKlthLXpBLVowLTldQFthLXpBLVowLTldW1x3XC4tXSpbYS16QS1aMC05XVwuW2EtekEtWl1bYS16QS1aXC5dKlthLXpBLVpdJGRkAg0PEGRkFgFmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkVHJlZVZpZXcx">
+<form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIDD2QWCAIDD2QWBAIBDzwrAAUBAA8WAh4HVmlzaWJsZWhkZAIDDw8WAh4EVGV4dAU2PGEgaHJlZj0nL0RlZmF1bHQuYXNweCcgY2xhc3M9J2JyZWFkY3J1bWJCYXInPkhvbWU8L2E+ZGQCBQ8WBh4SU3RhcnRpbmdOb2RlT2Zmc2V0Zh4PU2l0ZU1hcFByb3ZpZGVyBRFDU1NpdGVNYXBQcm92aWRlch4QU2hvd1N0YXJ0aW5nTm9kZWhkAgsPZBYEAgEPEA9kFgIeCG9uQ2hhbmdlBR1qYXZhc2NyaXB0OlNob3dIZWxwVGlwc0xpbmsoKWRkZAIDDw9kFgQeB29uZm9jdXMFNWlmKHRoaXMudmFsdWU9PSdUeXBlIEtleXdvcmRzIEhlcmUnKSB7dGhpcy52YWx1ZT0nJzt9HgZvbmJsdXIFNWlmKHRoaXMudmFsdWU9PScnKSB7dGhpcy52YWx1ZT0nVHlwZSBLZXl3b3JkcyBIZXJlJzt9ZAIPD2QWBgIDDw9kFgQfBgUzaWYodGhpcy52YWx1ZT09J1R5cGUgRS1tYWlsIEhlcmUnKSB7dGhpcy52YWx1ZT0nJzt9HwcFM2lmKHRoaXMudmFsdWU9PScnKSB7dGhpcy52YWx1ZT0nVHlwZSBFLW1haWwgSGVyZSc7fWQCBw8PFgIeFFZhbGlkYXRpb25FeHByZXNzaW9uBVxeW2EtekEtWjAtOV1bXHdcLi1dKlthLXpBLVowLTldQFthLXpBLVowLTldW1x3XC4tXSpbYS16QS1aMC05XVwuW2EtekEtWl1bYS16QS1aXC5dKlthLXpBLVpdJGRkAg0PEGRkFgFmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkVHJlZVZpZXcx">
 
 <input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="sIXj_92kC9yd669HZhfBMkdaFAJYWJ55NBSK8uJbKIj3GeH5MVzSx-WUnaKbVaShv4Rv21JKAbOFlA-S0">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgKezc2LBgLEvf+VBALbvf+VBALavf+VBALfxryWCAL9n+COAgLk3cPmCAL73cPmCAKdj8gbAt3rtUoC2eu1SgLWhJ+kDALPkYeYAgKRn7T1Bw==">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgKcgr27AwLEvf+VBALbvf+VBALavf+VBALfxryWCAL9n+COAgLk3cPmCAL73cPmCAKdj8gbAt3rtUoC2eu1SgLWhJ+kDALPkYeYAgKRn7T1Bw==">
 <div id="container">
 	<div id="header">
     	<div id="header-nav"><img src="/images/Candidate/appleLogo-main.jpg" alt="AppleOne Logo" title="AppleOne" name="logoMap" border="0" usemap="#logoMap" id="logoMap"><a href="/Default.aspx"><img src="/images/Candidate/new-workers-tab.jpg" alt="Career Seekers" border="0" class="tab" title="Employers"></a><a href="/Employers/Default.aspx"><img src="/images/Candidate/new-employers-tab.jpg" alt="Employer Center" title="Apply Today" border="0" class="tab"></a><a href="https://www.appleone.com/OnlineApplication/default.aspx"><img src="/images/Candidate/new-apply-Tab.jpg" border="0" title="Office Locator" alt="Office Locator" class="tab"></a><a href="/LocalOffice.aspx"><img src="/images/Candidate/new-office-locator-tab.jpg" alt="Office Locator" border="0" title="Contact Us"></a></div>
@@ -110,7 +114,7 @@
 			        <a href="#ctl00_TreeView1_SkipLink"><img alt="Skip Navigation Links." src="/WebResource.axd?d=mqjgtZKRMw5ck2JN_0CdAPD4nuBQgqNn70Z40skRxXFBy2_6y0XlybGRzFoGge0yiIttH0AJdyp9kgA90&amp;t=634752414739800295" width="0" height="0" border="0"></a><div id="ctl00_TreeView1">
 	<table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td class="nodeStyle1"><a class="nodeStyle1" href="/Career_Seekers/Default.aspx" title="Career Seekers" id="ctl00_TreeView1n0">Career Seekers</a></td>
+			<td class="nodeStyle1 ctl00_TreeView1_2"><a class="ctl00_TreeView1_0 nodeStyle1 ctl00_TreeView1_1" href="/Career_Seekers/Default.aspx" title="Career Seekers" id="ctl00_TreeView1n0">Career Seekers</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -118,19 +122,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle2"><a class="nodeStyle2" href="/Career_Seekers/CareerCenter.aspx" title="Career Center" id="ctl00_TreeView1n1">Career Center</a></td>
-		</tr>
-	</tbody></table><table cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td><table width="7">
-				<tbody><tr>
-					<td></td>
-				</tr>
-			</tbody></table></td><td><table width="7">
-				<tbody><tr>
-					<td></td>
-				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/CareerSearch/mcs_findcareer.aspx" title="Career Search" id="ctl00_TreeView1n2">Career Search</a></td>
+			</tbody></table></td><td class="nodeStyle2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nodeStyle2 ctl00_TreeView1_3" href="/Career_Seekers/CareerCenter.aspx" title="Career Center" id="ctl00_TreeView1n1">Career Center</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -142,7 +134,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/OnlineApplication/" title="Schedule Instant Interview" id="ctl00_TreeView1n3">Apply</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/CareerSearch/mcs_findcareer.aspx" title="Career Search" id="ctl00_TreeView1n2">Career Search</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -154,7 +146,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/CareerCenter/benefits.aspx" title="AppleOne Benefits" id="ctl00_TreeView1n4">Benefits</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/OnlineApplication/" title="Schedule Instant Interview" id="ctl00_TreeView1n3">Apply</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -166,7 +158,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/CareerCenter/verification.aspx" title="Employment Verification" id="ctl00_TreeView1n5">Employment Verification</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/CareerCenter/benefits.aspx" title="AppleOne Benefits" id="ctl00_TreeView1n4">Benefits</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -178,7 +170,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/CareerCenter/Handbook/Default.aspx" title="AppleOne Handbook" id="ctl00_TreeView1n6">AppleOne Handbook</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/CareerCenter/verification.aspx" title="Employment Verification" id="ctl00_TreeView1n5">Employment Verification</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -190,7 +182,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/CareerCenter/TimeSheet/Default.aspx" title="Your Time Sheet" id="ctl00_TreeView1n17">Your Time Sheet</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/CareerCenter/Handbook/Default.aspx" title="AppleOne Handbook" id="ctl00_TreeView1n6">AppleOne Handbook</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -202,7 +194,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/CareerCenter/W2.aspx" title="About Your W2" id="ctl00_TreeView1n20">About Your W2</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/CareerCenter/TimeSheet/Default.aspx" title="Your Time Sheet" id="ctl00_TreeView1n17">Your Time Sheet</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -214,7 +206,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/Jobs/" title="Local Jobs" id="ctl00_TreeView1n21">Local Jobs</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/CareerCenter/W2.aspx" title="About Your W2" id="ctl00_TreeView1n20">About Your W2</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -226,15 +218,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Apply/Default.aspx?src=16" title="Sign In" id="ctl00_TreeView1n22">Sign In</a></td>
-		</tr>
-	</tbody></table><table cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td><table width="7">
-				<tbody><tr>
-					<td></td>
-				</tr>
-			</tbody></table></td><td class="nodeStyle2"><a class="nodeStyle2" href="/Career_Seekers/ToolsAndResources.aspx" title="Tools/Resources" id="ctl00_TreeView1n23">Tools/Resources</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/Jobs/" title="Local Jobs" id="ctl00_TreeView1n21">Local Jobs</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -246,7 +230,15 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/ToolsAndResources/social-media.aspx" title="Connect To AppleOne Social Media" id="ctl00_TreeView1n24">Connect To AppleOne Social Media</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Apply/Default.aspx?src=16" title="Sign In" id="ctl00_TreeView1n22">Sign In</a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><table width="7">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td class="nodeStyle2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nodeStyle2 ctl00_TreeView1_3" href="/Career_Seekers/ToolsAndResources.aspx" title="Tools/Resources" id="ctl00_TreeView1n23">Tools/Resources</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -258,7 +250,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/ToolsAndResources/bookstore_CS.aspx" title="Bookstore" id="ctl00_TreeView1n26">Bookstore</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/ToolsAndResources/social-media.aspx" title="Connect To AppleOne Social Media" id="ctl00_TreeView1n24">Connect To AppleOne Social Media</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -270,7 +262,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/ToolsAndResources/core.aspx" title="Core Newsletter" id="ctl00_TreeView1n27">Core Newsletter</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/ToolsAndResources/bookstore_CS.aspx" title="Bookstore" id="ctl00_TreeView1n26">Bookstore</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -282,7 +274,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/ToolsAndResources/careerguide.aspx" title="Career Search Guide" id="ctl00_TreeView1n474">Career Search Guide</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/ToolsAndResources/core.aspx" title="Core Newsletter" id="ctl00_TreeView1n27">Core Newsletter</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -294,7 +286,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle3"><a class="nodeStyle3" href="/Career_Seekers/ToolsAndResources/continuingEducation.aspx" title="Continuing Education" id="ctl00_TreeView1n475">Continuing Education</a></td>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/ToolsAndResources/careerguide.aspx" title="Career Search Guide" id="ctl00_TreeView1n474">Career Search Guide</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -302,7 +294,11 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle2"><a class="nodeStyle2" href="/Career_Seekers/About.aspx" title="About AppleOne" id="ctl00_TreeView1n476">About AppleOne</a></td>
+			</tbody></table></td><td><table width="7">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td class="nodeStyle3 ctl00_TreeView1_6"><a class="ctl00_TreeView1_0 nodeStyle3 ctl00_TreeView1_5" href="/Career_Seekers/ToolsAndResources/continuingEducation.aspx" title="Continuing Education" id="ctl00_TreeView1n475">Continuing Education</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -310,7 +306,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle2"><a class="nodeStyle2" href="/Career_Seekers/testimonials.aspx" title="Testimonials" id="ctl00_TreeView1n477">Testimonials</a></td>
+			</tbody></table></td><td class="nodeStyle2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nodeStyle2 ctl00_TreeView1_3" href="/Career_Seekers/About.aspx" title="About AppleOne" id="ctl00_TreeView1n476">About AppleOne</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -318,7 +314,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle2"><a class="nodeStyle2" href="/Career_Seekers/Questions.aspx" title="Frequent Questions" id="ctl00_TreeView1n478">Frequent Questions</a></td>
+			</tbody></table></td><td class="nodeStyle2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nodeStyle2 ctl00_TreeView1_3" href="/Career_Seekers/testimonials.aspx" title="Testimonials" id="ctl00_TreeView1n477">Testimonials</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -326,7 +322,7 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle2"><a class="nodeStyle2" href="/Contact.aspx?src=can" title="Contact AppleOne" id="ctl00_TreeView1n479">Contact AppleOne</a></td>
+			</tbody></table></td><td class="nodeStyle2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nodeStyle2 ctl00_TreeView1_3" href="/Career_Seekers/Questions.aspx" title="Frequent Questions" id="ctl00_TreeView1n478">Frequent Questions</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -334,7 +330,15 @@
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="nodeStyle2"><a class="nodeStyle2" href="/LocalOffice.aspx?src=can" title="Find Local Office" id="ctl00_TreeView1n480">Find Local Office</a></td>
+			</tbody></table></td><td class="nodeStyle2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nodeStyle2 ctl00_TreeView1_3" href="/Contact.aspx?src=can" title="Contact AppleOne" id="ctl00_TreeView1n479">Contact AppleOne</a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><table width="7">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td class="nodeStyle2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nodeStyle2 ctl00_TreeView1_3" href="/LocalOffice.aspx?src=can" title="Find Local Office" id="ctl00_TreeView1n480">Find Local Office</a></td>
 		</tr>
 	</tbody></table>
 </div><a id="ctl00_TreeView1_SkipLink"></a>
@@ -461,8 +465,8 @@ site. </p>
     </div>
     
 <div id="footer">
-       	  <div id="footer-links"><a href="/Career_Seekers/CareerCenter.aspx">Career Center</a> | <a href="/Employers/Default.aspx">Employers</a> | <a href="http://www.appleone.ca/">AppleOne Canada</a> | <a href="/Privacy.aspx">Privacy Statement</a> | <a href="/Career_Seekers/ToolsAndResources/social-media.aspx">Connect on Social Media</a></div>
-  <div class="clear">AppleOne is Copyright © 2000-2012 - AppleOne, Inc. - All Rights Reserved</div>
+       	  <div id="footer-links"><a href="/Career_Seekers/CareerCenter.aspx">Career Center</a> | <a href="/Employers/Default.aspx">Employers</a> | <a href="http://www.appleone.ca/">AppleOne Canada</a> | <a href="/Privacy.aspx">Privacy Statement</a> | <a href="/Career_Seekers/ToolsAndResources/social-media.aspx">Connect on Social Media</a> | <a href="/mobile/">Mobile Version</a></div>
+  <div class="clear">AppleOne is Copyright © 2000-2012 - AppleOne, Inc. - All Rights Reserved.<br>AppleOne is an <a href="http://www.act1group.com" class="act1group" target="_blank">ACT•1 Group</a> Company</div>
  <!-- <a href="http://www.nbcam.org/" target="_blank"><img class="badge" src="/images/breast-cancer-awareness-badge.png" alt="Support Breast Cancer Awareness" /></a>-->
       </div>
 
@@ -476,18 +480,17 @@ site. </p>
 </form>
 <map name="logoMap" id="logoMap"><area shape="rect" coords="7,1,179,44" href="/default.aspx"></map>
  
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3402201-1']);
+    _gaq.push(['_trackPageview']);
 
-<script type="text/javascript" src="/js/awstats_misc_tracker.js"></script><img src="/js/awstats_misc_tracker.js?SCREEN=800x600&amp;CDI=24&amp;JAVA=false&amp;SHK=N&amp;FLA=N&amp;RP=N&amp;MOV=N&amp;WMA=N&amp;PDF=N&amp;UC=UserCode1580392421008r7019&amp;SC=SessionCode1580392421008r7019" height="0" width="0" border="0">
-<noscript><p><img src="/js/awstats_misc_tracker.js?nojs=y" alt="" height="0" width="0" style="display: none" /></p></noscript>
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        var pageTracker = _gat._getTracker("UA-3402201-1");
-        pageTracker._initData();
-        pageTracker._trackPageview();
-    </script>
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 
 
 
