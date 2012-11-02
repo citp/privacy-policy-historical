@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e3hub.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503172224id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e3hub.com privacy policy that was archived on 2012-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102064811id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
 
 <html><!--
 ################################################################################
@@ -12,7 +12,7 @@
  ">
 <meta name="keywords" content="auction, classifieds, Buy, sell, Sell books, sell your home, sell Jewelry, sell antiques.">
 <meta http-equiv="Content-Language" content="en-us">
-<meta name="Classification" content="auction, Auction, AUCTION, auctions">
+<meta name="Classification" content="Social Network, social network, Social Network, Marketplace">
 <meta name="author" content="RScript">
 <meta name="Copyright" content="e3hub.com">
 <meta name="Publisher" content="e3hub.com">
@@ -133,9 +133,24 @@ function do_search(){
 		alert("Please enter a keyword.");
 		document.paymentformh.searchstring.focus();
 	}else{
-	    document.paymentformh.cmd.value  =  "simple_search";
-		document.paymentformh.action = "http://e3hub.com/cgi-bin/Search";
+		if(e3searchcategory == "Connections"){
+			document.paymentformh.action = "http://e3hub.com/cgi-bin/Connections/services";
+		}else if(e3searchcategory == "HubPages"){
+			var searchstring	= document.paymentformh.searchstring.value;
+			document.paymentformh.action = "http://e3hub.com/cgi-bin/HubPages?e3searchstring="+searchstring;
+		}else if(e3searchcategory == "Projects"){
+			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/projects";
+		}else if(e3searchcategory == "Services"){
+			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/services";
+		}else if(e3searchcategory == "Products"){
+			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/products";
+		}else if(e3searchcategory == "Buy Requests"){
+			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/request";
+		}
+
+		if(e3searchcategory != ""){
 		document.paymentformh.submit();
+		}
 	}
 }
 </script>
@@ -431,18 +446,20 @@ function req_paymentpopuph (title,width,height) {
 		   <table cellpadding="0" cellspacing="0" border="0" align="right">
 		   <tbody><tr height="30px">
 				
-				<td height="30px" width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Trade-network/services';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab.jpg)';this.style.color='#66574B';">Professional</td>
-				<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
+					
+					<td height="30px" width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Trade-network/services';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab.jpg)';this.style.color='#66574B';">Professional</td>
+					<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
+					
+					<td width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Social';">Social</td>
+					<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
+					
+					<td width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/black_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="headwhite_text" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';">MarketPlace</td>
+					<td align="center" width="2px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
+					
+					
+					<td width="77px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='https://e3hub.com/cgi-bin/MyHub';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab_small.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg)';this.style.color='#66574B';">My Hub</td>
+					
 				
-				
-				<td width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Social';">Social</td>
-				<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
-				
-				
-				<td width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/black_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="headwhite_text" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';">MarketPlace</td>
-				<td align="center" width="2px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
-				
-				<td width="77px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='https://e3hub.com/cgi-bin/MyHub';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab_small.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg)';this.style.color='#66574B';">My Hub</td>
 		   </tr>
 		   </tbody></table>
 		 </td>
@@ -734,13 +751,13 @@ function req_paymentpopuph (title,width,height) {
   
    
    <tbody><tr>
-	  <td width="2px" height="34px" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';" style="cursor:pointer;"><img src="http://e3hub.com/auction/images/e3hub/menu_left.jpg" border="0"></td>
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';" width="100px">Home</td>
+	  <!-- <td width="2px" height="34px" OnClick="window.location='http://e3hub.com/cgi-bin/marketplace';" style="cursor:pointer;"><img src="http://e3hub.com/auction/images/e3hub/menu_left.jpg" border="0"></td> -->
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';" width="100px" id="headerhome" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">Home</td>
 	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
 	   
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;border:0px solid #000000;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Marketplace/browse';" height="34px" width="90px">Browse  </td>
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;border:0px solid #000000;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Marketplace/browse';" height="34px" width="90px" id="headerbrowse" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">Browse  </td>
 	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td>
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Post';" width="70px">Post
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Post';" width="70px" id="headerpost" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">Post
 	    </td>
 	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
 	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Members';" width="95px">
@@ -777,19 +794,43 @@ function req_paymentpopuph (title,width,height) {
 	    </div>
 	   </td>
 	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Help';" width="130px">
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Help';" width="130px" id="headerhowitworks" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">
 	   How it works
 	
 	   </td>
+	    <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
 	   <td align="center" width="350px" style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;" class="header_text">
 	   <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
 		<tbody><tr>
 			 <td valign="middle" width="75px"><img src="http://e3hub.com/auction/images/spacer.gif" border="0"></td>
 		  <td valign="middle" width="50px"><input type="text" name="searchstring" id="searchstring" class="tradetextbox" value="" size="20"></td>
 		  <td valign="middle" width="137px">
-			  <select name="e3hub_category" id="e3hub_category" class="site_text">
+			  <select name="e3hub_category" id="e3hub_category" class="site_text" onchange="do_search();">
 				  <option value="">Search</option>
-				</select>
+				  <option value="Connections">People</option>
+				  <option value="HubPages">HubSites</option>
+				  <option value="Projects">Projects</option>
+				  <option value="Services">Services</option>
+				  <option value="Products">Products</option>
+				  <option value="Buy Requests">Buy Requests</option>
+			  </select>
+			  <script>
+			  var e3searchcategory = "";
+		
+				if(e3searchcategory == "Connections"){
+					document.paymentformh.e3hub_category[1].selected = true;
+				}else if(e3searchcategory == "HubPages"){
+					document.paymentformh.e3hub_category[2].selected = true;
+				}else if(e3searchcategory == "Projects"){
+					document.paymentformh.e3hub_category[3].selected = true;
+				}else if(e3searchcategory == "Services"){
+					document.paymentformh.e3hub_category[4].selected = true;				
+				}else if(e3searchcategory == "Products"){
+					document.paymentformh.e3hub_category[5].selected = true;
+				}else if(e3searchcategory == "Buy Requests"){
+					document.paymentformh.e3hub_category[6].selected = true;
+				}
+			  </script>
 			 
 		  </td>
 		 
@@ -845,7 +886,7 @@ function req_paymentpopuph (title,width,height) {
 		    </tr>
 		   <tr>
 		    <td valign="top">
-			<iframe src="http://e3hub.com/cgi-bin/Adsdisplay?data=CgCgCgCgEABQDHDmEbEsCyEDCNEdCeDiEfEdEiCdDvAjDOAtAsDpELCkBVEdCpDwChEbCgAABYBxBACKCbEmEhAHBtEGAxDbCIBaDpDdEuCOEgBAByBnENCTCPzZBO" name="ehubFrameta" id="ehubFrameta" scrolling="no" frameborder="0" width="457px" height="20px"></iframe>
+			<iframe src="http://e3hub.com/cgi-bin/Adsdisplay?data=CgCgCgCgApCIEiARDHBmAICLEIDGAHCxDrBXBQDMBwAnDJBFAQBeDGAXBfEyCEDBDlDPANCyERDRECBJEiDWAQDWADDYCdDKDDCqCtDyBUDEBcCnBoDhBWEHEyAYCSEIBpBeEB" name="ehubFrameta" id="ehubFrameta" scrolling="no" frameborder="0" width="457px" height="20px"></iframe>
 		      </td>
 		     </tr>
 		     <tr>
