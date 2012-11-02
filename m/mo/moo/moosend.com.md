@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moosend.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515174929id_/http%3A//www.moosend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosend.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102182243id_/http%3A//moosend.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Moosend
 
