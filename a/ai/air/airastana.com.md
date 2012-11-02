@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508134134id_/http%3A//www.airastana.com/kaz/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102010122id_/http%3A//www.airastana.com/kaz/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Air Astana - Privacy Policy
 
@@ -26,7 +26,7 @@ If your browser does not support SSL, we recommend you to update to the latest v
 
 When you subscribe to receiving such communications as Air Astana’s electronic newsletter, you are giving Air Astana permission to use your email address for sending you the newsletter, and other mail such as surveys and news about special offers. You can subscribe to electronic newsletters via our Frequent Flyer Programme [Nomad Club](https://web.archive.org/kaz/en/Join-Now.aspx) or on [Subscribe to Specials Offers](https://web.archive.org/kaz/en/Subscribe-to-Special-Offers.aspx) page at airastana.com.
 
-If you wish to retract your permission for Air Astana and do not want to receive information by email, you can do so any time by clicking the ‘unsubscribe’ link in the email.
+If you wish to retract your permission for Air Astana and do not want to receive information by email, you can do so any time by clicking the ‘unsubscribe’ link at the bottom of the email.
 
  **Contact**
 
@@ -38,4 +38,5 @@ Air Astana JSC
 Customer Relations  
 4A, Zakarpatskaya Str.  
 Almaty 050039  
-Kazakhstan
+Kazakhstan  
++7 727 258 41 36
