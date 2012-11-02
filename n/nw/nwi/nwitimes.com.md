@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nwitimes.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609145739id_/http%3A//www.nwitimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwitimes.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102053219id_/http%3A//www.nwitimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy : The Times of Northwest Indiana
+# Privacy
 
 Welcome to the web sites of the NWI Times. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
