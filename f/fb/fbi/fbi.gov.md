@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501043147id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102174108id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
 
 # FBI — Privacy Policy
 
@@ -70,6 +70,3 @@ Reference herein to any specific commercial products, processes, or services by 
 For more details, please read the [Privacy Policy of the Department of Justice](http://www.justice.gov/privacy-file.htm), which also applies to the FBI.
 
 For videos that are visible on FBI.gov, a persistent cookie is set by third party providers when you click to play a video. This persistent cookie is used by these third party providers to help maintain the integrity of video statistics. The third party providers do not use web measurement and customization technologies on behalf of the FBI; in addition, Personally Identifiable Information (PII), or any information that could be used to determine an individual’s online activity derived from such uses, is not shared with the FBI.
-
-|   
----|---
