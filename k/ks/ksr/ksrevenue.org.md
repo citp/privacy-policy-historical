@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513192025id_/http%3A//www.ksrevenue.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102181430id_/http%3A//www.ksrevenue.org/privacy.html) for the most accurate reproduction.*
 
 # Kansas Department of Revenue - Privacy Statement
 
