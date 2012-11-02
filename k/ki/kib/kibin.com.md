@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kibin.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501172413id_/https%3A//kibin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kibin.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102123328id_/https%3A//kibin.com/privacy) for the most accurate reproduction.*
 
 # Proofreading Services & Editing Services by Professionals | Kibin - Privacy Policy
 
