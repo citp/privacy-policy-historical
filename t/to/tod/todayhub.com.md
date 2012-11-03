@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the todayhub.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506122059id_/http%3A//todayhub.com/index.php%3F%26pageid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayhub.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103083620id_/http%3A//todayhub.com/index.php%3F%26pageid%3D55) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the Privacy Policy governing your use of the Todayhub.com site. 
+Todayhub.com
 
-If you have questions or concerns regarding this statement, please contact **todayhub@gmail.com**. 
+This is the Privacy Policy governing your use of the Todayhub.com site.
 
-By using this Site, you approve and agree to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Todayhub.com which by use of this Site you agree to accept. 
+If you have questions or concerns regarding this statement, please contact  **admin@todayhub.com**.
 
-The fundamental purpose of the services that Todayhub.com provides you requires that we gather, process, use and distribute the member's information which also you provide directly by filling out our various forms and formats; for example, your company name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, Todayhub.com does not guarantee that your information will be protected from exposure in any particular party or group. In fact the purpose of this e-marketplace web site is to make you and your company known all over the commercial world. If you wish to remove your company or update your company's information, please Contact Us.
+By using this Site, you approve and agree to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Miindasakti.com which by use of this Site you agree to accept.
+
+The fundamental purpose of the services that Todayhub.com provides you requires that we gather, process, use and distribute the member's information which also you provide directly by filling out our various forms and formats; for example, your name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, Todayhub.com does not guarantee that your information will be protected from exposure in any particular party or group. In fact the purpose of this web site is to make you and your company known all over the commercial world. If you wish to remove your details or company details or update your information, please Contact Us.
 
 **1\. The Information We Collect**
 
 **1.1 Registration Information.**  
-At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business (“Registration Information”). 
+At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your profile and business (“Registration Information”).
 
 **1.2 Publishing Information.**  
-If you submit any information to Todayhub.com to be published on the Site through the publishing tools, including but not limited to Company Directory, Product Catalog, Trade Leads, then you are deemed to have given consent to the publication of such information (“Publishing Information”). 
+If you submit any information to Todayhub.com to be published on the Site through the publishing tools, including but not limited to Company Directory, Product Catalog, Trade Leads, then you are deemed to have given consent to the publication of such information (“Publishing Information”).
 
 **1.3 Statistical Information.**  
 In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. (“Statistical Information”).
@@ -28,54 +30,56 @@ We use your Collected Information to improve our marketing and promotional effor
 
 We use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users.
 
-We use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message. 
+We use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
 
-**2.2 Registration Information.**  
-We use your Registration Information to provide services that you request or to contact you regarding additional services about which Todayhub.com determines that you might be interested.
+**2.2 Registration Information.**    
+We use your Registration Information to provide services that you request or to contact you regarding additional services about which Todayhub.com determines that you might be interested.
 
 Specifically, we use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site, such as newsletters, if you choose to receive these as indicated at the time of registration.
 
-We generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions. 
+We generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions.
 
 **2.3 Publishing Information.**  
 All of your Publishing Information will be publicly available on the Site and therefore accessible by any internet user.
 
-Any Publishing Information that you disclose to Todayhub.com becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information.
+Any Publishing Information that you disclose to 
+
+Todayhub.com becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information.
 
 You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us.
 
-**2.4 Statistical Information.**  
+**2.4 Statistical Information.**    
 We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance your Site and services based on the usage pattern data we receive.
 
 We generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We provide Statistical Information to third parties.
 
 **3\. Disclosure of Information**
 
-3.1 We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who be infringing or threatening to infringe, or who otherwise be causing injury to or interference with, the title, rights, interests or property of Todayhub.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities. 
+3.1 We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who be infringing or threatening to infringe, or who otherwise be causing injury to or interference with, the title, rights, interests or property of Todayhub.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
 
-3.2 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority. 
+3.2 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
-3.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User’s Collected Information in order to pursue our claim or prevent further injury to Todayhub.com or others.
+3.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User’s Collected Information in order to pursue our claim or prevent further injury to Todayhub.com or others.
 
 **4\. Cookies**
 
-We use “cookies” to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. A “cookie” is a small amount of data that is sent to your browser and stored on your computer's hard drive. 
+We use “cookies” to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. A “cookie” is a small amount of data that is sent to your browser and stored on your computer's hard drive.
 
-A cookie can be sent to your computer’s hard drive only if you access our Site using the computer. 
+A cookie can be sent to your computer’s hard drive only if you access our Site using the computer.
 
-If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we have knowledge of your visit and the pattern of your usage. 
+If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we have knowledge of your visit and the pattern of your usage.
 
-Some of our business partners (e.g., advertisers, tracking utlities) use cookies on our site. We have no access to or control over these cookies. 
+Some of our business partners (e.g., advertisers, tracking utlities) use cookies on our site. We have no access to or control over these cookies.
 
-This privacy statement covers the use of cookies by Todayhub.com at http://todayhub.com only and does not cover the use of cookies by any third parties.
+This privacy statement covers the use of cookies by Todayhub.com at [http://todayhub.com](http://todayhub.com/) or [http://www.todayhub.com](http://www.todayhub.com/) only and does not cover the use of cookies by any third parties.
 
-Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions. 
+Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions.
 
 You can determine if and how a cookie will be accepted by configuring your browser’s which is installed in the computer you are using to access the Site.
 
 If you desire, you can change those configurations in your browser.
 
-By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies. 
+By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies.
 
 If you reject all cookies by choosing the cookie-disabling function in your browser, you be required to re-enter your information on our Site more often and certain features of our Site be unavailable.
 
@@ -103,18 +107,22 @@ Remember to sign out of your Account and close your browser window when you have
 
 As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
 
-**7\. Changes to Privacy Policy**
+**7\. Changes to Privacy Policy**  
 
 Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective.
 
 You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect.
 
-If you do not agree to the new changes in our Privacy Policy, you should contact Todayhub.com in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that Todayhub.com return and/or destroy all copies of all or part of your Collected Information in Todayhub.com possession.
+If you do not agree to the new changes in our Privacy Policy, you should contact 
 
-This Privacy Policy was last amended on January 1 , 2012.
+Todayhub.com in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that Todayhub.com return and/or destroy all copies of all or part of your Collected Information in Todayhub.com possession.
 
-**8\. Correcting Your Information**
+This Privacy Policy was last amended on July 2, 2012.
 
-You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Todayhub.com.
+**8\. Correcting Your Information**  
 
-If you wish to unsubscribe to our email communications and/or de-list your company profile please send an email to todayhub@gmail.com.
+You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with 
+
+Todayhub.com.
+
+If you wish to unsubscribe to our email communications and/or de-list your company profile please send an email to admin@todayhub.com.
