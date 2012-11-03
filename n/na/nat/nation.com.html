@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the nation.com privacy policy that was archived on 2012-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530105630id_/http%3A//www.nation.com/p/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nation.com privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103031613id_/http%3A//www.nation.com/p/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
     
   
+ 
  
 
 
@@ -28,37 +29,25 @@
   
 
 
-
-  
-    
-      
-      
-      
-    
-  
- 
-
 <meta charset="UTF-8">
-<link href="http://caprica.s3.amazonaws.com/production/versions/105/assets/normalize.css" media="all" rel="stylesheet" type="text/css">
+<link href="http://caprica.s3.amazonaws.com/production/versions/133/assets/normalize.css" media="all" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="http://caprica.s3.amazonaws.com/production/versions/105/assets/pc.css">
-
+<link rel="stylesheet" href="http://caprica.s3.amazonaws.com/production/versions/133/assets/pc.css">
 
 
 <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 
-<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/105/assets/pc.js"></script>
+<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/pc.js"></script>
+<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/moment.min.js"></script>
 
 
-<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/105/assets/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/105/assets/all-search.js"></script>
-  
-  
-
-
+<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/all-search.js"></script>
+ <script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/jquery.total-storage.js"></script> 
+ <script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/all-movies.js"></script>   
 
 <!--[if lt IE 10]>
-<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/105/assets/PIE.js"></script>
+<script type="text/javascript" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/PIE.js"></script>
 <script type="text/javascript">
 $(function() {
     if (window.PIE) {
@@ -73,13 +62,14 @@ $(function() {
 <![endif]-->
 
 <!--[if lt IE 9]>
-<script src="http://caprica.s3.amazonaws.com/production/versions/105/assets/html5.js"></script>
+<script src="http://caprica.s3.amazonaws.com/production/versions/133/assets/html5.js"></script>
 
 <![endif]-->
 
 
-
-
+<!--[if lt IE 8]>
+<link rel="stylesheet" href="http://caprica.s3.amazonaws.com/production/versions/133/assets/pc-ie7.css" />
+<![endif]-->
 
 <!--[if lt IE 7]>
 
@@ -104,14 +94,19 @@ padding-right: 0;
   var videosSearchUrl = '/p/search-videos' ; 
   var newsSearchUrl = '/p/search-news' ; 
 
-  
-  
-
-  </script>
+</script>
 
 
-	
- <title>Nation Privacy Policy</title>
+
+
+
+<script src="http://caprica.s3.amazonaws.com/production/versions/133/assets/colonial_raptor.js"></script>
+<script src="http://caprica.s3.amazonaws.com/production/versions/133/assets/underscore-min.js"></script>
+<script src="http://caprica.s3.amazonaws.com/production/versions/133/assets/underscore.string.min.js"></script>
+<script src="http://caprica.s3.amazonaws.com/production/versions/133/assets/doT.js"></script>
+
+
+  <title>Nation Privacy Policy</title>
    
    <!-- local override -->
    <style type="text/css">
@@ -165,60 +160,133 @@ padding-right: 0;
 
 	<header id="header">
 
-          <header id="pageHeader">
+          
+
+
+
+
+
+
+
+ 
+   
+ 
+      
+   	
+      
+ 
+   
+ 
+
+
+ 
+	
+  
+
+
+
+
+
+<script type="text/javascript">
+   //replace conditional-zip template with colonial raptor 
+$(window).load(function() {
+  //parse zipcode string from inspcookie and assign it to zipcode 
+  var zip = getCookie("inspcookie");
+ 
+  var cookies = zip.split("&");
+  var name = "";
+  var value = "";
+  var myZip = "";
+  for (i=0; i<cookies.length; i++)
+  {
+    name=cookies[i].substr(0,cookies[i].indexOf("="));
+    value=cookies[i].substr(cookies[i].indexOf("=")+1);
+   
+    if (name == 'zip') {
+      
+      myZip = value;
+    } 
+  }
+  //console.log(myZip);
+  //if zip cookie is present, use colonial raptor to get city and state.  
+  //update zip
+  //update location text
+  //update client side panels (local news, weather, reviews, events)  
+   if (myZip) { 
+Infospace.ColonialRaptor.location(myZip,
+           { force_sync: 1 },
+         function(data, status, xhr) {
+           if (status == 'success') {
+             setCookie("zip",data.zip,null);
+             $('#usrLocation').html(data.city + ', ' + data.state);
+             $(document).trigger("cr.location.zip", data.zip);
+             //if (setRegion){setRegion(data.state);};
+              } else {
+                //console.log('fail');
+           }  
+     });     
+     //if zip cookie is not present, use colonial raptor city, state and zip of current ip location
+     //update the zip cookie
+     //update the location text
+     //update client side panels (local news, weather, reviews, events)
+   } else {
+     //console.log('zip is empty string')
+      Infospace.ColonialRaptor.location_by_ip(null, null,
+        function(data, status, xhr) {
+          if(status == 'success') {
+            setCookie("zip",data.zip,null); 
+                $('#usrLocation').html(data.city + ', ' + data.state);
+                $(document).trigger("cr.location.zip", data.zip);
+            
+                window.location.reload();
+            	
+             }
+       });
+    }
+
+});
+</script>
+
+<header id="pageHeader">
   <div id="headerWrapper">
     <div id="logoWrapper">
-      <a rel="external" href="/p/home" alt="Nation.com" title="Nation.com">    
-      	<img src="http://caprica.s3.amazonaws.com/production/versions/105/assets/Nation_Logo.png" alt="Nation.com">
+      <a rel="external" href="/p/home" title="Nation.com">    
+      	<img src="http://caprica.s3.amazonaws.com/production/versions/133/assets/Nation_Logo.png" alt="Nation.com">
       </a>
     </div>
 
     <div id="webSearchWrapper">
-      
+    
+   
+   
           <div class="search">
-<div class="searchMenu">
-    <div id="searchCategoryButton" class="searchCategoryUnselected">
-        <img class="searchIcon" src="http://caprica.s3.amazonaws.com/production/versions/105/assets/search-icon.png" alt="">
+<!-- <div class="searchMenu">
+    <div id="searchCategoryButton" class="searchCategoryUnselected ">
+      <img class="searchIcon" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/search-icon.png" alt="" />
     </div>
     <ul class="searchList">
         <li id="web" class="searchListItem currentSearch">Web</li>
         <li id="images" class="searchListItem">Images</li>
 	<li id="videos" class="searchListItem">Video</li>
 	<li id="news" class="searchListItem">News</li>
-	<!--<li class="separator"></li>
-	<li class="searchListOptions"><a href="">Advanced</a></li>
-	<li class="searchListOptions"><a href="">Preferences</a></li>-->
     </ul>
-</div>
-            <form id="searchBoxForm" class="searchForm" method="GET" action="/p/search">
-              <!--<div class="verticalWrapper">
-              	<img src="http://caprica.s3.amazonaws.com/production/versions/105/assets/Dropdownbox.png" />
-              </div>-->
+</div>-->
+           <form id="searchBoxForm" name="searchBoxForm" class="searchForm" onsubmit="return validateQuery()" method="GET" action="/p/search">
               <div class="searchBoxWrapper">
               
               	<input id="searchBox" type="text" placeholder="Search the Web" name="query" class="searchTxt" data-role="none" value="">
               </div>
-              <button class="btn-search" type="submit">
-                Search<img src="http://caprica.s3.amazonaws.com/production/versions/105/assets/img_trans.gif">
+             <button class="btn-search" type="submit">
+                Search<img src="http://caprica.s3.amazonaws.com/production/versions/133/assets/img_trans.gif" alt="">
               </button>
                 
             </form>
           </div>
       <div id="location">
         <span id="usrLocation" class="headerCategoryHeading">
+
           
-          
-            
-              
-                
-                
-              
-            
-          
-  
-          
-            Washington, DC
-          
+
         </span>
         <!--<span id="locEdit" class="locInfo locationEdit">edit</span>--><br>
 	<span class="dateInfo headerDateTime">
@@ -231,39 +299,48 @@ padding-right: 0;
       
       </div>
         </div>  
-  <div id="headerControls" style="position: absolute; left: 954px; bottom: 10px;">
-  <img id="locEdit" class="editInfo locationEdit toggleLocationButton" src="http://caprica.s3.amazonaws.com/production/versions/105/assets/tablet-icon-options-header.png">
+  <div id="headerControls">
+  <img id="locEdit" class="editInfo locationEdit toggleLocationButton" src="http://caprica.s3.amazonaws.com/production/versions/133/assets/tablet-icon-options-header.png" alt="">
   </div><!-- headerControls -->
     </div>
    
 
   
 </header>
-   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
 
+<script type="text/javascript">
+$(document).ready(function() {
+  // Handler for .ready() called.
+  $("#locEditText").val("");
+});
+</script>
+  
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
 
 <div id="locEditPanel" class="toggleLocationPanel">
     <div class="locationEditCol1">
-      <p class="editPanelHeader">Edit Location <span class="headerPanelArrow">▶</span></p>
+      <h2 class="editPanelHeader">Edit Location <span class="headerPanelArrow">▶</span></h2>
 	</div><!-- locationEditCol1 -->
 	<div id="locationEditWrapper" class="locationEditCol2">
         <div id="locFinder">
-            <img src="http://caprica.s3.amazonaws.com/production/versions/95/assets/tablet-icon-findlocation.png">
+            <img src="http://caprica.s3.amazonaws.com/production/versions/133/assets/tablet-icon-findlocation.png">
             <span class="editPanelText">Automatically find my location</span>
         </div><!-- locFinder -->
         <div id="autoLocFinder">
             <form action="javascript:locationProxy()">
-			    <input id="locEditText" type="text" placeholder="  Enter a Zip Code or City, State">
-                <button class="locButton" type="submit"><span>GO</span></button>
+              <input id="locEditText" type="text" placeholder="  Enter a Zip Code or City, State">
+              <button class="locButton" type="submit"><span>GO</span></button>
             </form>
         </div><!-- autoLocFinder -->
+        <div id="location-prompt">
+        </div>
         <div id="defaultLocation">
             <input id="defLocChkBox" type="checkbox" checked="true">
             <span class="editPanelBoldText">Make this my default location</span>
         </div><!-- defaultLocation -->
     </div><!-- locationEditCol2 -->
     <div class="locationEditCol3">
-	    <p><span class="editPanelBoldText">Recent Locations</span></p> 
+	    <p><span class="editPanelBoldText"></span></p> 
 	</div><!-- locationEditCol3 -->
 	<div class="locationEditCol4">
 	    <div id="closeLocation">
@@ -272,70 +349,128 @@ padding-right: 0;
 	</div><!-- locationEditCol4 -->
 </div><!-- locEditPanel -->
 
+
 <script type="text/javascript">     
-
-
-/*****************************************************************
-/* functions to get users location
-******************************************************************/
-
-       $('#locEdit').click(
+ $('#locEdit').click(
     function(){
-      updateLocation();
-    });
+     // updateLocation();
+	 locationProxy();
+ });
   
   function closeLocationEditPanel() {
-$("#locEditPanel").hide(500, "swing");
+    $("#locEditPanel").hide(500, "swing");
     }
   
-  function locationProxy() {
+   function locationProxy() {
     address = $("#locEditText").val();
      if( address == null || address.length == 0) {
       return;
     }
-    components = address.split(",",2);
-    // remove the trailing space
-    city = components[0].replace(/^\s+/g,"").replace(/\s+$/g,"");
-    // remove the trailing space
-    state = null;
-    if( components[1] != null) {
-      state = components[1].replace(/^\s+/g,"").replace(/\s+$/g,""); }
-    zip = getZip(city);
-    if(zip != null)  {            
-      city = null;
-    }
-    var url = "/p/verify-location";
-    if(city != null) {
-      url += "/city/" + city;
-    }
-    if(state != null) {
-      url += "/state/" + state;
-    }
-    if(zip != null) {
-      url += "/zip/" + zip;
+     
+    gcGoogle(address);
+    //update weather
+    //updateWeather(null, address, '', 1, true);
+  }
+	
+  function updateWeather(zip, city, state, skip_cookie, reload_page) {
+    if( zip != null) {
+      Infospace.ColonialRaptor.location(zip,
+          { force_sync: 1, skip_cookie: skip_cookie },
+          function(data, status, xhr) {
+          if(status == 'success') {
+            // we can avoid reloading weather module if we are re-loading the entire page
+            if( reload_page ) { 
+                setCookie("zip",zip,null);
+                window.location.reload();                
+            } else {
+            }};
+          });
+     } else {
+     Infospace.ColonialRaptor.location_by_city(city, state,
+          { force_sync: 1, skip_cookie: skip_cookie },
+          function(data, status, xhr) {
+          if(status == 'success') {            
+            if( reload_page ) { 
+                setCookie("zip",data.zip,null);
+                window.location.reload();                
+            }};
+          });
+     }
+  
+  }
+ 
+  function gcGoogle(address) {
+    var gc = new google.maps.Geocoder();
+    gc.geocode( { 'address': address, 'region': '021' }, function(results, status) {
+        if (status == google.maps.GeocoderStatus.OK) {
+          if (results.length == 1) {
+            var addr = getAddr(results[0].address_components);
+            if (addr.city && addr.state && addr.zipCode) {
+              updateLocation(addr.city + ',' + addr.state);
+              handleDefaultLocation(addr.zipCode);
+            } else {
+              
+              var pos = { coords: {
+                
+                  latitude: results[0].geometry.location.lat(),
+                  longitude: results[0].geometry.location.lng()
+                }};
+              //console.log("Google reverse geocode: " + pos);
+                getLocationFromGoogle(pos);
+            }
+          } else if (results.length > 1) {
+            var addrs = getAddresses(results, false);
+            addrs = _.uniq(addrs, false, function(a) {
+              return a.city + ',' + a.state;
+            });
+            if (addrs.length > 1) {
+              showAddressDialog(addrs);
+            } else if (addrs.length == 1) {
+              getLocationFromGoogle(posFromAddr(addrs[0]));
+              
+            }
+            else {
+              //console.log("No results");  
+              //locationError();
+            }
+            //console.log(addrs);
+      
+          } else {
+            //console.log("No results");
+          }
+        } else {
+          //console.log("Failed with " + status);
+          locationError();
+        }
+      });
+  }
+  
+  function posFromAddr(addr) {
+    return { coords: {
+      latitude: addr.latitude,
+      longitude: addr.longitude
+    }};
+  }
+  
+  function showAddressDialog(addresses) {
+    var list = $('<ul></ul>');
+    for (var i=0; i<addresses.length; i++) {
+      var addr = addresses[i];
+      var pos = posFromAddr(addr);
+      var entry = $('<li><a href="#">' + addr.city + ', ' + addr.state + '</a></li>');
+      entry.click({pos: pos}, function(e) {
+        hideAddressDialog();
+        getLocationFromGoogle(e.data.pos);
+      });
+      list.append(entry);
     }
     
-   $.ajax({
-      url:url,      
-      success: function(data) {
-        try {        
-        var obj = jQuery.parseJSON(data.toString());
-          if(obj.current != null) {
-        	updateLocation(obj.current.city + ", " + obj.current.state);
-                console.log(obj.current.city + ", " + obj.current.state);
-                handleDefaultLocation(obj.zip);
-          }
-          else {
-            alert("Location does not exist");
-          }
-        }catch(e) {
-          //alert("inside catch " + e.message);
-        }
-      },
-      error: function(jqXHR, textStatus, errorThrown) {
-        //alert("inside error " + textStatus);
-      }
-    });
+    $('#location-prompt').html(list);
+    $('#location-prompt').show();
+  }
+  
+  function hideAddressDialog() {
+    $('#location-prompt').hide();
   }
   
   function handleDefaultLocation(zip) {
@@ -348,6 +483,8 @@ $("#locEditPanel").hide(500, "swing");
     //closeLocationEditPanel();
     window.location.reload();
   }
+  
+  
   
   function setCookie(key, value, expiryDays) {
     inspCookieKey = 'inspcookie';
@@ -389,6 +526,8 @@ $("#locEditPanel").hide(500, "swing");
   function removeKeyFromInspCookie(key,cookieValue) {
     regExp = new RegExp(key + "=\[^&\]+", "gi");
     cookieValue = cookieValue.replace(regExp,"");
+    cookieValue = cookieValue.replace(/^&+/,"");
+    cookieValue = cookieValue.replace(/&+$/,"");
     return cookieValue;
   }
   
@@ -429,67 +568,103 @@ $("#locEditPanel").hide(500, "swing");
    }
     
    function getLocationFromGoogle(position) {
+     
       try {
 	var latitude = position.coords.latitude;	
 	var longitude = position.coords.longitude;
       
         var geocoder = new google.maps.Geocoder();	  
 	var latlng = new google.maps.LatLng(latitude, longitude);
-
+       
         geocoder.geocode( {'latLng':latlng}, function(results, status) {				
-				if(status == google.maps.GeocoderStatus.OK) {
- 
-					if(results[0]) {
-					  address = getAddress(results[0].address_components);    
-                                          // alert(address[0]);
-                                          // alert(address[1]);
-                                          updateLocation(address[0]);
-                                          handleDefaultLocation(address[1]);
-					}// if results[3] is there
-				}	
-			} );
+          if(status == google.maps.GeocoderStatus.OK) {
+
+            var addrs = getAddresses(results, true);
+            if(typeof addrs[0] == "undefined") {
+              //console.log('undefined address');
+                 locationError();
+            }
+            if(addrs.length > 0) {
+              var address = addrs[0];
+              updateLocation(address.city + ',' + address.state);
+              handleDefaultLocation(address.zipCode);
+            }// if results[3] is there
+          }	
+        } );
      }
       catch(err) {
+        // console.log(err.message);
         //alert(err.message);
       }
   }
   
-  function getAddress(address_components) {
-          
-          var city;
-          var state;
-          var zipCode;
-          var country;
-          var address = new Array(2);
-    	
-          $.each(address_components, function(i, component) {
-            
-            switch(component.types[0]) {
-              case 'locality':
-                city = component.long_name;
-                break;
-              case 'administrative_area_level_1':
-                state = component.short_name;
-                break;
-              case 'country':
-                country = component.short_name;
-                break;
-              case 'postal_code':
-                zipCode = component.long_name;
-                break;
-            }
-          });
-          
-    	  address[0] = city + ',' + state;
-    	  address[1] = zipCode;
-    	  
-          return address;
-          
+  // Takes a Google geocode result array and returns an array of addresses
+  // Only complete addresses with city, state, country and zip are returned
+  function getAddresses(results, zip_required) {
+    var ret = [];
+    
+    if ($.isArray(results)) {
+      for (var i=0; i<results.length; i++) {
+        var addr = getAddr(results[i].address_components);
+        if (addr.city && addr.state && addr.country && (!zip_required || addr.zipCode)) {
+          addr.latitude = results[i].geometry.location.lat();
+          addr.longitude = results[i].geometry.location.lng();
+          ret.push(addr);
         }
-     
-   
-</script>
+      }
+    }
+    return ret;
+  }
+  
+  function getAddr(address_components) {
+    var city, state, zipCode, country;
+  
+    out:
+    for (var i=0; i<address_components.length; i++) {
+      var component = address_components[i];
+      for (var j=0; j<component.types.length; j++) {
+        var type = component.types[j];
+        switch(type) {
+          case 'locality':
+            city = component.long_name;
+            continue out;
+          case 'administrative_area_level_1':
+            state = component.short_name;
+            continue out;
+          case 'country':
+            country = component.short_name;
+            continue out;
+          case 'postal_code_prefix':
+            continue out;
+          case 'postal_code':
+            zipCode = component.long_name;
+            continue out;
+        }
+      };
+    };
+    
+    return {city: city, state: state, zipCode: zipCode, country: country};
+  }
+  
+  function getAddress(address_components) {
+    var addr = getAddr(address_components);
+    var address = new Array(2);
+    address[0] = addr.city + ',' + addr.state;
+    address[1] = addr.zipCode;
+    return address;
+  }
+    
+  
+    function locationError() {
+           $('#location-prompt').html("Location not found");
+           $('#location-prompt').css("color", "red");
+          $('#location-prompt').show();
+      return false;
+  }
+  
 
+  
+</script>
 
 
 	</header>
@@ -507,6 +682,7 @@ $("#locEditPanel").hide(500, "swing");
     <li><a href="/p/events/source/events_ef">Events</a></li>
     <li><a href="/p/photos/source/photos_fl">Photos</a></li>
     <li><a href="/p/videos/source/videos_yt">Videos</a></li>
+     <li><a href="/p/movies">Movies</a></li>
   </ul>
 </nav> 
           
@@ -593,18 +769,38 @@ $("#locEditPanel").hide(500, "swing");
     <li><a href="/p/terms-of-use">TERMS OF USE</a></li>
     <li><a href="/p/privacy-policy">PRIVACY POLICY</a></li>
        <li class="tablet-icon">
-         <a href="/p/privacy-policy?device_override=2&amp;query=">TABLET</a>
+         <a href="?device_override=2">TABLET</a>
         </li>
         <li class="phone-icon">
-          <a href="/p/privacy-policy?device_override=3&amp;query=">MOBILE</a>
+          <a href="?device_override=3">MOBILE</a>
         </li>
     </ul>
   
     <p class="copyRight">Copyright © 2012 Infospace All rights reserved</p>
 
 </footer>
+<script type="text/javascript">
+$(window).load(
+    function() {  
+		$('.headlineImage').each(function(){ 
+			 var image = new Image(); 	
+             image.src = extractUrl($(this).css("background-image")); 			 
+		     if (image.height > image.width){
+			     $(this).height(220);
+			  }  else {
+			     $(this).height(120);
+			  }			  
+		});
+    }
+);
+function extractUrl(input)
+{
+ // remove quotes and wrapping url()
+ return input.replace(/"/g,"").replace(/url\(|\)$/ig, "");
+}
+  
 
-
+</script>
 <script type="text/javascript">
   // initialize CEP logging data
   // example /nation.toolbar/home.tablet:news_ap,sports,article
@@ -631,12 +827,12 @@ $("#locEditPanel").hide(500, "swing");
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/34/eum/rum.js";
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","22aa22d823",435701,"dQpWEkVfVQoBFk4TEFQJUQVoRlADExdOEA1ZEg==",0.0,190,new Date().getTime(),"","","","",""])</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","875f1bf33f",377097,"dw1XEBMKWFkBExdETVYOUAc+E11QExIXR1BbFQ==",0,94,new Date().getTime(),"","","","",""])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/34/eum/rum.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
