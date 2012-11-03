@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623014555id_/http%3A//www.holidayautos.co.uk/GBR/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103055401id_/http%3A//www.holidayautos.co.uk/GBR/privacy.htm) for the most accurate reproduction.*
 
 # Car Hire - Book cheap car rental in the UK, Europe and Worldwide from Holiday Autos
 
 ### Data Protection and Privacy Policy for the Holiday Autos site
 
-Please find below our privacy policy for the Holiday Autos site which shall be deemed to be incorporated into these terms and conditions. We are Holiday Autos and our registered address is **holiday autos uk and ireland limited,** 39 Victoria Street, London, SW1E 6JP. Holiday Autos takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of one of our distribution channels. Those distribution channels will include our website, our WAP, PDA and digital TV services our Interactive Voice Recognition software and other channels as they evolve. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons. 
+Please find below our privacy policy for the Holiday Autos site which shall be deemed to be incorporated into these terms and conditions. We are Holiday Autos and our registered address is **holiday autos uk and ireland limited,** 77 Hatton Garden London, EC1N 8JS. Holiday Autos takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of one of our distribution channels. Those distribution channels will include our website, our WAP, PDA and digital TV services our Interactive Voice Recognition software and other channels as they evolve. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons. 
 
 ### When do we collect data?
 
