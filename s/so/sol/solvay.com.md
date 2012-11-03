@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516010246id_/http%3A//www.solvay.com/EN/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103075247id_/http%3A//www.solvay.com/EN/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy & Application Statement Solvay
 
@@ -6,7 +6,6 @@
 
 |  |   
 ---  
-Privacy & Application Statement Solvay   
   
 The Solvay Group of companies (“we”) are strongly committed to maintaining your privacy when you visit our sites. This Privacy Statement explains how we collect and use your personal data. Some of the information kept on a Solvay web server is information that you volunteer to provide through forms and some is collected automatically. Unless you volunteer to submit personal data yourself, we will not collect any information from which individual visitors can be identified. We will do everything possible to guarantee that the data you provide us with remain confidential and are used only for the purposes described in our website. By using this website, you agree with the processing of your personal data in accordance with and as described in this Privacy Statement. Please read it carefully.
 
