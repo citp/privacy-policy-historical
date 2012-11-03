@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630224951id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103212921id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EziBuy New Zealand
 
@@ -10,9 +10,11 @@ You may give us information about yourself, such as your name, address, email ad
 
 When you visit our website we may collect more information, such as the address of your Internet service provider, the name of the web page directing you, and your clicks and activity on our site.
 
-ClickTale
+Remarketing with Google Analytics
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve the user experience on our website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+We use Remarketing through Google Analytics to advertise online by delivering EziBuy ad content to you which is specifically targeted to your interests based on your visits to our website. Third-party vendors, including Google, show EziBuy ads on sites across the Internet. Please see the Cookies section below for further information.
+
+EziBuy website visitors who wish to opt out of Google Analytics for Display Advertisers and/or customized Google Display Network ads can do so by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb). You can also download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
 How do we use the personal information?
 
@@ -34,7 +36,9 @@ Cookies
 
 Our website uses a technology called cookies. A cookie is a small element of data that our website may send to your computer. Any such cookie is typically stored on your computer's hard drive and permits our website to recognise you when you return. Our use of cookies helps us to provide you with a better experience during your use of our website by allowing us to understand what areas of the site are of interest to you. You may configure your web browser to not accept cookies, although you may experience a loss of functionality as a result.
 
-Third party vendors, including Google, show advertisements for our products on various sites on the internet. These third party vendors may use cookies to serve advertisements based on a user's prior visits to our website. If you would like to opt out of Google’s use of cookies for this purpose, please do so on the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
+Third party vendors, including Google, show advertisements for our products on various sites on the internet. EziBuy and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+
+If you would like to opt out of Google’s use of cookies for this purpose, please visit the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb), select Opt Out from the left hand menu and follow the prompts.
 
 Security
 
@@ -50,8 +54,8 @@ You may obtain confirmation from us as to whether or not we hold personal inform
 
 Policy changes
 
-We may review this policy from time to time and will notify you of any changes by posting an updated version on our website. This document represents our privacy policy as at 02 February 2010.
+We may review this policy from time to time and will notify you of any changes by posting an updated version on our website. This document represents our privacy policy as at 15 October 2012.
 
 Feedback
 
-We welcome your questions and comments about privacy at EziBuy. Please call us on 0508 500 500 or email us at [mail@ezibuy.co.nz](mailto:mail@ezibuy.co.nz).
+We welcome your questions and comments about privacy at EziBuy. Please call us on 0508 500 500 or email us at [mail@ezibuy.co.nz](mailto:mail@ezibuy.co.nz)...
