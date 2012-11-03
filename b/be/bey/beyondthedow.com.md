@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondthedow.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504172149id_/http%3A//beyondthedow.com/orphans/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondthedow.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103215816id_/http%3A//www.beyondthedow.com/orphans/privacy_statement) for the most accurate reproduction.*
 
 # Beyond The Dow Privacy Statement
 
@@ -67,6 +67,8 @@ Children
 No one under age 13 is eligible to use our services, and we do not direct any of our content specifically at children who are under 13 years of age.  Beyond The Dow does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register.  If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.  No one under age 13 is allowed to provide any personal information to or on Beyond The Dow.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from or about a child under 13, please contact us through our Report Abuse page.
 
 Information Use
+
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Beyond The Dow uses information obtained from its members and other visitors as stated in this Policy and to enhance members' and other visitor's experiences on the Beyond The Dow website.
 
