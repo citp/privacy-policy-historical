@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musictribe.com privacy policy that was archived on 2012-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120108035109id_/http%3A//musictribe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictribe.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103220623id_/http%3A//www.musictribe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MusicTribe
 
