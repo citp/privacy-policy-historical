@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506045930id_/http%3A//whatismyipaddress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103173042id_/http%3A//whatismyipaddress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,8 @@ While on our site, our advertisers, promotional partners or other third parties 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For information about their specific privacy policies please contact the advertisers directly.
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WhatIsMyIPAddress.com and this policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 ## Changes to this policy
 
