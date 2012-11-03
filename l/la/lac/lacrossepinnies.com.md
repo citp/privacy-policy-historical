@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lacrossepinnies.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628032603id_/http%3A//www.lacrossepinnies.com/Pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossepinnies.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103100557id_/http%3A//www.lacrossepinnies.com/Pages/privacy.php) for the most accurate reproduction.*
 
-# Site Articles :: Privacy Custom Lacrosse Reversible Jerseys Custom Tank Tops | Lacrosse Pinnies - Reversible Jerseys - Custom Lax Pinnies
+# Site Articles :: Lax Pinnies - Privacy Statement - Custom Lacrosse Reversible Jerseys Custom Tank Tops | Lacrosse Pinnies - Reversible Jerseys - Custom Lax Pinnies
 
-[Home](http://www.lacrossepinnies.com/ "Home") » [Site Articles](http://www.lacrossepinnies.com/Pages/index.php "Site Articles") » Privacy Custom Lacrosse Reversible Jerseys Custom Tank Tops
+[Home](http://www.lacrossepinnies.com/ "Home") » [Site Articles](http://www.lacrossepinnies.com/Pages/index.php "Site Articles") » Lax Pinnies - Privacy Statement - Custom Lacrosse Reversible Jerseys Custom Tank Tops
 
 Our Commitment to Privacy Lightningwear.com respects the privacy of its customers and strives to maintain customer confidence. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties.  
 
