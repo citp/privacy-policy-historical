@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629024534id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103093245id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -55,7 +55,7 @@ If it is necessary to transfer your data to a company based outside the EU (eg. 
   
 **How can you amend or suppress your personal data?**
 
-We have done our best to make it easy for you to amend or suppress the personal data you have submitted. In addition, when you sign in you will see a link called 'Profile' that allows you to edit or delete your details. If you require any other information about the data we hold about you please email [enquiries@opodo.com](mailto:enquiries@opodo.com). 
+We have done our best to make it easy for you to amend or suppress the personal data you have submitted. In addition, when you sign in you will see a link called 'Profile' that allows you to edit or delete your details. If you require any other information about the data we hold about you please email [enquiriesuk@opodo.com](mailto:enquiriesuk@opodo.com). 
 
 Alternatively you can write to us at: The Data Protection Officer, Waterfront, Hammersmith Embankment, Chancellors Road, London W6 9RU
 
