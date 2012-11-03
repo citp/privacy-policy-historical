@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619053257id_/http%3A//www.synology.com/company/privacy.php%3Flang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103212018id_/http%3A//www.synology.com/company/privacy.php%3Flang%3Dus) for the most accurate reproduction.*
 
 # Synology Network Attached Storage - Privacy
 
@@ -59,7 +59,7 @@ Synology Inc. uses cookies on this Site to ensure the integrity of the registrat
 
 ## Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20120619053257id_/http%3A//www.synology.com/company/contact_us.php?lang=us) Synology Inc. 
+If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20121103212018id_/http%3A//www.synology.com/company/contact_us.php?lang=us) Synology Inc. 
 
 ## Changes to this Statement
 
