@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tantalize.in privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629023807id_/http%3A//www.tantalize.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tantalize.in privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103012259id_/http%3A//www.tantalize.in/privacy-policy) for the most accurate reproduction.*
 
 # Tantalize.in | Privacy Policy
 
