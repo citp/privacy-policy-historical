@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000memories.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617093350id_/http%3A//1000memories.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000memories.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103214133id_/http%3A//1000memories.com/privacy) for the most accurate reproduction.*
 
 # Privacy | 1000memories
 
