@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511145052id_/http%3A//www.laketrust.org/Privacy-24.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103103104id_/http%3A//www.laketrust.org/Privacy-24.html) for the most accurate reproduction.*
 
 # Privacy - Lake Trust Credit Union
 
@@ -11,7 +11,7 @@ Lake Trust Credit Union
 501 S. Capitol Avenue  
 Lansing, MI 48933-2320
 
-## [Lake Trust Credit Union Privacy Notice](https://web.archive.org/files/ltrust/1/file/Disclosures/PrivacyPolicy052011.pdf)
+## [Lake Trust Credit Union Privacy Notice](https://web.archive.org/files/ltrust/1/file/Disclosures/Privacy%20Notice.pdf)
 
 What Members Can Do to Help
 
