@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the 1tube.my privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220518id_/http%3A//www.1tube.my/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1tube.my privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103121951id_/http%3A//www.1tube.my/static/privacy) for the most accurate reproduction.*
 
-# 1tube Dot My | About Us
+# Privacy Policy - 1tube.my
 
-**Privacy Policy**  
-The use of this version of the "1tube.my" website and/or 1tube.my software and any other related software, upgrades or updates and all related services and special offers provided by "1tube.my" are subject to the hereunder provisions of this Privacy Policy.:
+The use of this version of the "1tube.my" website and/or 1tube.my software and any other related software, upgrades or updates and all related services and special offers provided by "1tube.my" are subject to the hereunder provisions of this Privacy Policy.: 
 
 **General**  
 "1tube.my" takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.  
@@ -34,8 +33,3 @@ If you wish to modify or update your personally identifiable information, use th
 
 **Third Parties' Practices**  
 This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that 1tube.my does not own or control, or does not employ or manage.
-
-|   | 
-
-Contact Us   
-admin@1tube.my
