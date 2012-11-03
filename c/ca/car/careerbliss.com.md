@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506130607id_/http%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103075110id_/http%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CareerBliss.com
+# Privacy Policy | CareerBliss
 
 At CareerBliss, we recognize that privacy is important. This Privacy Policy applies to all of the services offered by CyberCoders, LLC or its related companies (the "Services").
 
