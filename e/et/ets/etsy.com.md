@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501030541id_/http%3A//www.etsy.com/help/article/480) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103160224id_/http%3A//www.etsy.com/help/article/480) for the most accurate reproduction.*
 
-# Etsy - Privacy Policy - Highlights
+# Etsy - Help
 
 We love our community at Etsy. You’ve trusted us with a big responsibility, and we’re committed to upholding a high standard when it comes to our privacy practices. It’s important to us that you’re comfortable on Etsy, so we provide options for you to control how much information you share and your communication preferences. We use secure technologies and follow best practices, as evidenced by TRUSTe's Privacy Seal, recognized and trusted by millions of consumers as a sign of responsible privacy practices. We believe in being transparent about our practices, which is why we provide a detailed [Privacy Policy](http://www.etsy.com/help/article/1262) to explain how we gather, use and protect your information. We’ve pulled out the highlights here, in an effort to better communicate the key points.
 
-Current policy published: February 7, 2012
+Current policy published: October 9, 2012
 
   **Scope**
 
@@ -32,7 +32,7 @@ Etsy will not sell or disclose your personal information to third parties withou
 
 Members may review and change your information in your account settings, and you may remove certain optional pieces of information.
 
-You may opt-out of receiving certain types of messages from Etsy in your account settings.
+You may opt-out of receiving certain types of communications from Etsy in your account settings.
 
 You may disable cookies in your web browser.
 
