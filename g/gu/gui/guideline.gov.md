@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222334id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103042604id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # Health Care: AHRQ Privacy Policy Notice
 
@@ -24,7 +24,20 @@ We use this information for statistics on the traffic to our site, to find out a
 
 We track the keywords that are entered into our search engine and the browse terms used to measure interest in specific topics, but we do not monitor which terms a particular user enters.
 
-No additional information is collected about your visit, and we do not record information about individual behavior or use of the site.
+### Web Measurement and Customization
+
+We use Web measurement and customization technologies, such as cookies, to help our Web site function better for visitors and to understand better how the public is using our site.
+
+#### Cookies
+
+AHRQ uses "cookies" to test and optimize our Web site design and content. A cookie is a small text file automatically placed on your computer. We use two types of cookies:
+
+  * **Session cookies** are used to gather data for technical purposes, such as enabling better navigation through our Web site and generating statistics about how it is used. Session cookies are also used with an online survey given to improve the site. Session cookies are temporary text files that expire when you leave our Web site. When cookies expire, they are automatically deleted from your computer. We do not use session cookies to collect personally identifiable information (PII), and we do not share data collected from session cookies. Our use of session cookies is defined as "Tier 1" usage in accordance with the OMB Memorandum (M)-10-22 [Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) (PDF File, [Plugin Software Help](https://web.archive.org/pluginhelp.htm#pdf)).
+  * **Multi-session cookies,** a.k.a. persistent cookies, are used to identify return visits for our statistics. Multi-session cookies are cookies that are stored over more than a single session on your computer. We do not use multi-session cookies to collect PII, and we do not share data collected from multi-session cookies. Our multi-session cookies are set to expire 5 years after your last visit to our Web site. After 5 years, they are automatically deleted from your computer. Our use of multi-session cookies is defined as "Tier 2" usage in accordance with the OMB Memorandum (M)-10-22 Guidance for Online Use of Web Measurement and Customization Technologies.
+
+
+
+You can take actions to block cookies. Blocking these cookies from your computer will not affect your access to the content and tools on our Web site. Instructions to opt out are available on USA.gov <http://www.usa.gov/optout_instructions.shtml>.
 
 ### Personally Provided Information
 
@@ -60,12 +73,12 @@ Electronically submitted information is maintained and destroyed according to th
 
 Our Web site has links to other Federal agencies. We also have selected links to other Web resources. The privacy policy described here does not necessarily apply to those other sites. Once you link to another site, you are subject to the privacy policy of that site.
 
-_Current as of September 2011_
+_Current as of July 2012_
 
 * * *
 
 **Internet Citation:**
 
-_AHRQ Privacy Policy Notice_. September 2011. Agency for Healthcare Research and Quality, Rockville, MD. http://www.ahrq.gov/news/privacy.htm
+_AHRQ Privacy Policy Notice_. July 2012. Agency for Healthcare Research and Quality, Rockville, MD. http://www.ahrq.gov/news/privacy.htm
 
 * * *
