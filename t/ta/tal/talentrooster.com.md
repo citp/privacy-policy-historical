@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the talentrooster.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505151153id_/http%3A//www.talentrooster.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentrooster.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103065809id_/http%3A//www.talentrooster.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
-##  **Privacy Policy**
+**
+
+### TalentRooster Privacy Policy
+
+**
 
 Welcome to TalentRooster (the "Site"). 
 
