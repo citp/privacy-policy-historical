@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smarterbalanced.org privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506004057id_/http%3A//www.smarterbalanced.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterbalanced.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103232226id_/http%3A//www.smarterbalanced.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smarter Balanced Assessment Consortium
 
-Thank you for visiting the Smarter Balanced Assessment Consortium website and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through this website. This notice covers the following topics:
+Thank you for visiting the Smarter Balanced Assessment Consortium website and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through this website. This notice covers the following topics:
 
 Section A. Information Collected and How it is Used  
 Section B. Personal Information and Choice  
@@ -26,18 +26,17 @@ If you do nothing during your visit to our website but browse, read pages, or do
 
 #### What we collect if you volunteer information.
 
-  
 If during your visit to our website you participate in a survey, send an email, or perform some other transaction on-line, the following additional information will be collected:
 
-  * The email address, and contents of email, for those who communicate with us via email.
+  * The email address, and contents of email for those who communicate with us via email.
   * Information volunteered in response to a survey.
   * Information volunteered through an on-line form for any other purpose.
 
 
 
-The information collected is not limited to text characters and may include audio, video and graphic information formats you send us.
+The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
 
-Email may be used as a means of communicating with you. If your request requires assistance from another agency your email address may be forwarded to another agency for appropriate action. Information collected from surveys and on –line forms will be used for educational purposes.
+Email may be used as a means of communicating with you. If your request requires assistance from another agency, your email address may be forwarded to another agency for appropriate action. Information collected from surveys and on –line forms will be used for educational purposes.
 
 ### Section B. Personal Information and Choice
 
@@ -45,7 +44,7 @@ You may choose whether to provide personal information online.
 
 “Personal information” is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual’s name, address, and phone number. A domain name or Internet Protocol address is not considered personal information.
 
-We collect no personal information about you unless you voluntarily provide it to us by sending us email, participating in a survey or completing an on-line form. You may choose not to contact us by email, participate in a survey or to provide any personal information using an online form. Your choice to not participate in these activities will not impair your ability to browse the Smarter Balanced website and read or download any information provided on the site.
+We collect no personal information about you unless you voluntarily provide it to us by sending us email, participating in a survey, or completing an on-line form. You may choose not to contact us by email, participate in a survey, or to provide any personal information using an online form. Your choice to not participate in these activities will not impair your ability to browse the Smarter Balanced website and read or download any information provided on the site.
 
 If personal information is requested on the website or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
@@ -63,13 +62,13 @@ Cookies created on your computer by using this website do not contain personally
 
 ### Section E. Security
 
-Smarter Balanced has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by us. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information and to provide reasonable protection of private information in our possession
+Smarter Balanced has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by us. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Smarter Balanced website.
 
 ### Section F. Disclaimer
 
-The Smarter Balanced website has many links to other websites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Smarter Balanced website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
+The Smarter Balanced website has many links to other websites. These include links to websites operated by other government agencies, nonprofit organizations, and private businesses. When you link to another site, you are no longer on the Smarter Balanced website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
 
 ### Section G. Smarter Balanced Contact Information
 
