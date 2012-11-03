@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silabs.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209141822id_/http%3A//www.silabs.com/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silabs.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103043056id_/http%3A//www.silabs.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
-# privacypolicy
+# Privacy Policy | Silicon Labs
 
 Silicon Laboratories appreciates your concerns about how personal information is used and shared. This notice describes our privacy policy. By visiting www.silabs.com, you are accepting the practices described in this Privacy Notice.
 
