@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511230156id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103081609id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
 
 # Gift Ideas, Unique Gifts and Personalised Gifts | notonthehighstreet.com
 
@@ -60,6 +60,18 @@ A cookie is a small text file that a website can send to your computer's browser
 
 Most computers are set up to automatically accept cookies. However, you can reset your browser settings to refuse cookies, or alert you when a cookie is being sent so you can choose whether or not to accept it.
 
+In addition to the cookies set by notonthehighstreet.com in order to ensure the site functions as it should, you may also find the following cookies:
+
+**COOKIE PROVIDER** | **WHAT THEIR COOKIES ARE USED FOR**  
+---|---  
+**Criteo; Struq** | notonthehighstreet.com work with third party agencies Criteo and Struq to display banner advertising on other selected websites within their display networks. The cookies used by Criteo and Struq help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The information collected through these cookies is anonymous and does not identify specific individuals.  
+**Google Adwords; MSN/Bing** | Google Adwords and MSN/Bing use cookies to track our paid advertising activity on Google and MSN/Bing. We use the information collected by these cookies to help us determine where our ads will be most effective online. The information collected through these cookies is anonymous and does not identify specific individuals.  
+**Google Analytics** | Google Analytics use cookies to collect data that helps us understand how people are using the site. We use this information to identify how and where we can improve the customer experience. The information collected through these cookies is anonymous and does not identify specific individuals.  
+**Peerius** | Peerius use cookies to track the activity of customers on the site in order to help us provide the most relevant product recommendations to you based on the products you have previously viewed or purchased and the categories in which you have previously expressed an interest.  
+**ShareThis** | Share This allows customers to share content, products and web pages from our website with other websites and social networking sites. The cookies used by Share This allow us to track the type of content, products and pages that our users are sharing to help us better understand which content is most engaging for our customers so that we can improve the content and customer experience in other areas of the website.  
+**Qubit** | QuBit use cookies to track the behavioral activity of customers across the site in order to help us improve the customer experience and identify any problems customers may be having using areas of the site. We also use this information to refine all our marketing activity to ensure it is as relevant as possible for each individual customer.  
+**YourAmigo** | YourAmigo help us create additional pages on the site that are optimised to help customers more easily find them when searching within search engines. The cookies used by YourAmigo help us to identify those pages that need to be built and monitor how effective the new pages are. The information collected through these cookies is anonymous and does not identify specific individuals.  
+  
 ### data over the internet
 
 The internet is a global network, so it is possible for your data to travel internationally, which may include places outside the European Union. If you visit or shop at notonthehighstreet.com, you're agreeing and authorising us to process data in this way.
