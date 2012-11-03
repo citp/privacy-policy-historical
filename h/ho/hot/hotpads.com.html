@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623022341id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103045218id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
@@ -11,8 +11,14 @@
 			<meta name="keywords" content="HotPads Privacy Policy">
 		
 		<title>Privacy Policy - HotPads</title>
-		<link href="/css/main_blu.css?cce5a3db89593d33d264a47f51fe17a8" media="all" rel="stylesheet" type="text/css">		
-		<link href="/css/blu.css?11676daa070a8af2ba33b238309d7d22" media="all" rel="stylesheet" type="text/css">
+		<link href="/css/main_blu.css?269d5fb525071d2a4c3bf4789376a269" media="all" rel="stylesheet" type="text/css">	
+		
+		<!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="/css/main_blu_IE9.css?d7d8fcc6cf4bf2e98108a7942d2d0e6b" />	
+		<![endif]-->
+		<!--[if lt IE 9]>	
+		<link rel="stylesheet" type="text/css" href="/css/main_blu_IE8below.css?068421380bc6f24b5c6b23c37dc890d8" />
+		<![endif]-->	
 		
 		<style type="text/css">
 			ul { 
@@ -24,8 +30,8 @@
 			}
 		</style>				
 		
-		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/compressed/jquery.compressed.js?b11ced65f32fedbe9bf81ef9db0f3c94"></script>		
-		<script type="text/javascript" language="JavaScript" src="/js/raptor/bin/hotpads/util.js?5052a9a26ed71842d38ee2bb157d7233"></script>
+		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/lib.min.js?05b5250b916a19a32563f665350ce38c"></script>
+<script type="text/javascript" src="/js/core.min.js?daed7a512bec244b2e13b996a543f37c"></script> 
 		
 
 
@@ -51,24 +57,45 @@
 
 
 	<script type="text/javascript">
-		var googletag = googletag || {};
-		googletag.cmd = googletag.cmd || [];
-		(function() {
-		var gads = document.createElement('script');
-			gads.async = true;
-			gads.type = 'text/javascript';
-			var useSSL = 'https:' == document.location.protocol;
-			gads.src = (useSSL ? 'https:' : 'http:') + 
-			'//www.googletagservices.com/tag/js/gpt.js';
-			var node = document.getElementsByTagName('script')[0];
-				node.parentNode.insertBefore(gads, node);
+		
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') + 
+				'//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(gads, node);
+			})();
+		
+		
+	</script>
+	<script>
+		
+		var flashVersion = (function () {
+			var getFlashVersion = null;
+			if (typeof window.getFlashVersion != "undefined") {
+				getFlashVersion = window.getFlashVersion;
+			} else if (typeof window.parent.getFlashVersion != "undefined") {
+				getFlashVersion = window.parent.getFlashVersion;
+			}
+			return getFlashVersion ? getFlashVersion() : "";
 		})();
+
 		googletag.cmd.push(function() {
 			
 				googletag.pubads().setTargeting("role", "anonymous");		
 			
+
+			googletag.pubads().setTargeting("flash", flashVersion);
+			googletag.pubads().set("page_url", window.location); 
+
 			
-			googletag.pubads().enableSingleRequest();
+			googletag.pubads().enableSingleRequest();	
+			
 			googletag.enableServices();
 		});
 	</script>
@@ -78,6 +105,7 @@
 		
 			gam_attr.role = "anonymous";
 		
+		gam_attr.flash = flashVersion;
 		gam_st = "";
 		gam_city = "";
 		gam_cnty = "";
@@ -85,6 +113,7 @@
 		gam_zip = "";
 		gam_country = "";
 		gam_msa = "";
+		gam_flash = flashVersion;
 		
 		
 		
@@ -128,6 +157,8 @@
 <div class="header">	
 	<h1 class="header-logo"><a href="/">HotPads.com</a></h1>	
 	
+
+
 
 
 
@@ -268,11 +299,14 @@
 
 <span id="loginBox" class="login-box">
 
+
+
+
+
 	
 		
-		<a id="loginLink" rel="nofollow" href="/login.jsp">sign in</a> <span style="color:#C0DBF0">|</span> 
+		<a id="loginLink" rel="nofollow" href="/login.jsp">sign in</a> <span class="blue-light-border">|</span> 
 		<a href="/users/newUser.htm" rel="nofollow">create an account</a>  
-	
 	
 	
 	
