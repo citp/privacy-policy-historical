@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223114id_/http%3A//fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103124207id_/http%3A//fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 ##  Fayette County Public Schools 
 
@@ -28,3 +28,11 @@ With respect to ad servers: We do not partner with or have special relationships
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this website is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+## About this page
+
+  * For questions: **[Pete Koutoulas](https://web.archive.org/administration/staff-directory/k/koutoulas-pete)**
+  * To report a broken link or other website issues: [Tammy Lane](https://web.archive.org/administration/staff-directory/l/lane-tammy)
+  * Updated: **June 13, 2012**
+
+
