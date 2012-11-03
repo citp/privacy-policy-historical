@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bfreezone.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501231459id_/http%3A//www.b2bfreezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bfreezone.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103170446id_/http%3A//www.b2bfreezone.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - B2BFreezone.com
 
