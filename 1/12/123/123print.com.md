@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123print.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506115322id_/http%3A//www.123print.com/go/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123print.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103065443id_/http%3A//www.123print.com/go/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
