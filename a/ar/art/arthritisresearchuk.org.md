@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624033114id_/http%3A//www.arthritisresearchuk.org/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103155729id_/http%3A//www.arthritisresearchuk.org/footer/our-privacy-and-cookies-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Arthritis Research UK
+# Our privacy and cookies policy | Arthritis Research UK
 
 **Privacy Policy**
 
