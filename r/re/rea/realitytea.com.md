@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitytea.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620162926id_/http%3A//www.realitytea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytea.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103103119id_/http%3A//www.realitytea.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Reality Tea
 
