@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623153501id_/http%3A//travoramedia.com/about_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103155654id_/http%3A//travoramedia.com/about_privacy_policy.php) for the most accurate reproduction.*
 
 # Travora Media
 
@@ -73,4 +73,4 @@ To opt-out of other cookies, or if you would like more information about this pr
 
 **PII Opt-Out:** To opt out of our use of your PII, you may (a) click the appropriate "Opt Out" link in any applicable email communication or newsletter or (b) visit [http://travelad.listrak.com](http://travelad.listrak.com/)
 
-Emails that are sent to you as a result of you performing a business transaction with us or requesting specific information from the Sites are not subject to an Opt Out process. If you have any suggestions on how to improve these emails, please communicate to our Customer Service group on the [Contact Us](https://web.archive.org/web/20120623153501id_/http%3A//travoramedia.com/info_contact.php) functionality on the applicable Site. 
+Emails that are sent to you as a result of you performing a business transaction with us or requesting specific information from the Sites are not subject to an Opt Out process. If you have any suggestions on how to improve these emails, please communicate to our Customer Service group on the [Contact Us](https://web.archive.org/web/20121103155654id_/http%3A//travoramedia.com/info_contact.php) functionality on the applicable Site. 
