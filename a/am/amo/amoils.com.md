@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513193759id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103064728id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Healing Natural Oils - Amoils.com
 
@@ -8,9 +8,8 @@
   * [About](http://www.amoils.com/about.html)
   * [FAQs](http://www.amoils.com/faq.html)
   * [Shipping](http://www.amoils.com/shipping.html)
+  * [Returns](http://www.amoils.com/returns.html)
   * [Contact Us](http://www.amoils.com/contact.html)
-  
-
   *   * [Bundle Packs](http://www.amoils.com/bundle-packs.html)
   * [All Products](http://www.amoils.com/products.html)
 
@@ -40,11 +39,17 @@
     * [Warts](http://www.amoils.com/warts.html "Warts")
     * [Wrinkles](http://www.amoils.com/wrinkle-treatment.html "Wrinkle Treatment")
   * Pregnancy / Moms
+    * [Fissures](http://www.amoils.com/pregnancy-products/pregnancy-fissures.html "Fissures")
+    * [Hemorrhoids](http://www.amoils.com/pregnancy-products/pregnancy-hemorrhoids.html "Hemorrhoids")
+    * [Stretch Marks](http://www.amoils.com/pregnancy-products/pregnancy-stretch-marks.html "Stretch Marks")
+    * [Varicose Veins](http://www.amoils.com/pregnancy-products/varicose-veins-treatment.html "Varicose Veins")
   * Enhancements
+    * [Fsensual](http://www.amoils.com/sexual-enhancement/increase-libido.html "FSensual")
+    * [Msensual](http://www.amoils.com/sexual-enhancement/enhanced-sex.html "MSensual")
 
 
   * [Image Gallery](http://www.amoils.com/image-gallery.html)
-  * [Treatment Articles](http://www.amoils.com/treatment/)
+  * [Health Articles](http://www.amoils.com/treatment/)
   * [Health News Blog](http://www.amoils.com/health-blog/)
 
 | 
@@ -69,9 +74,12 @@ Healing Natural Oils will not obtain personally-identifying information about yo
 
 | 
 
-Over  
-500,000  
-Sold  
+Over 500,000 Sold 
+
+Click Here   
+
+
+  
   
   
 ---|---|---
