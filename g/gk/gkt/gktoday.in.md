@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gktoday.in privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609032102id_/http%3A//www.gktoday.in/disclaimer-copyright-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gktoday.in privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103212757id_/http%3A//www.gktoday.in/disclaimer-copyright-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer, Copyright and Privacy Policy
 
@@ -80,4 +80,4 @@ _**Can this Privacy Policy Change?** Please note that this Privacy Policy may ch
 
 If you have additional questions regarding your privacy and www.gktoday.in, please contact Suresh Soni electronically via email [gktoday.in@gmail.com](mailto:gktoday.in@gmail.com) or mobile : +919928053351 .
 
-**Last Updated : June 2, 2011**
+**Last Updated : July 2, 2012**
