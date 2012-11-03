@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchesonnet.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513020523id_/http%3A//www.watchesonnet.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchesonnet.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103054046id_/http%3A//www.watchesonnet.com/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security | WatchesOnNet.com
 
@@ -6,13 +6,11 @@
 
 We gather information from you when you create an account our site, order an item on our site, subscribe to receive emails from us, respond to a questionnaire or complete a form. When you place an order on our site, or create an account on our site, you may be asked to enter one or more of the following details: your name, your email address, your mailing address, your phone number, your credit card information. Note that you are able to visit our website anonymously.
 
-**WHY WE NEED INFORMATION FROM YOU**
+**WHY WE REQUIRE INFORMATION FROM YOU**
 
-We gather certain information from you in order to carry out one or more of the following processes:   
-1\. Transaction Processing  
-We will never sell, exchange, transfer, or give any other company for any reason whatsoever your public or private information without your consent, that is, for any reason other than to deliver the product or service you have purchased.   
-2\. Email Delivery Note   
-We will only use the email address you provide for order processing to send you updates and information regarding your order. If have signed up to our email newsletter, you can at any time unsubscribe from receiving future emails; detailed unsubscribe instructions are provided at the footer of these emails.
+1\. Transaction Processing We will never sell, exchange, transfer, or give any other company for any reason whatsoever your public or private information without your consent, for any reason other than to deliver the product or service you have purchased.
+
+2\. Email Delivery Note We will only use the email address you provide for order processing to send you updates and information regarding your order. If you have signed up for our email newsletter, you can at any time unsubscribe from receiving future emails. If you would like to unsubscribe, instructions are provided at the footer of these emails.
 
 **SECURITY MEASURES WE TAKE TO PROTECT YOUR INFORMATION**
 
@@ -20,7 +18,7 @@ The personal information you provide when you place an order on our site, or whe
 
 **USE OF COOKIES**
 
-Cookies are very small files that a website or website providers transfer to a user’s computer’s hard drive through the user’s web browser, if the user allows cookies, in order to enable the website or website’s provider’s systems to identify the user’s browser and capture and recall specific information. Our website uses cookies to compile aggregate data in regards to website traffic and site interaction so that in the future we can offer a better site experience and tools to our users. We also use cookies to help process and remember the items in a user’s shopping cart. While we may also contract with third-party service providers to help us better understand our site visitors, these providers are only allowed to use the information they collect on our behalf to help us improve and conduct our business. Note that your computer has the option to warn you each time a cookie is being sent, as well as the option to turn off cookies through your browser settings. Note that in the event that you turn off cookies, some services may not work properly, in which case you could still contact us to place an order or to receive any other services.
+Cookies are very small files that a website or website providers transfer to a user’s computer’s hard drive through the user’s web browser, if the user allows cookies, in order to enable the website or website’s provider’s systems to identify the user’s browser and capture and recall specific information. Our website uses cookies to compile aggregate data in regards to website traffic and site interaction so in the future we can offer a better site experience and tools to our users. We also use cookies to help process and remember the items in a user’s shopping cart. While we may also contract with third-party service providers to help us better understand our site visitors, these providers are only permitted to use the information they collect on our behalf to help us improve and conduct our business. Note that your computer has the option to warn you each time a cookie is being sent, as well as the option to turn off cookies through your browser settings. In the event that you turn off cookies, some services may not work properly. If this should happen you can contact us to place an order or to receive any other services.
 
 **INFORMATION DISCLOSURE**
 
@@ -32,7 +30,7 @@ Third party products or services that may be included on our website, as per our
 
 **CALIFORNIA ONLINE PRIVACY PROTECTION ACT**
 
-****We do comply with the California Online Privacy Protection Act, and therefore do not distribute your personal information to external parties without your consent. In compliance with the California Online Privacy Protection Act, all site users have the capabilities to make any changes to their information at any given type by simply logging into their account page and editing their profile and settings.
+****We comply with the California Online Privacy Protection Act, and therefore do not distribute your personal information to external parties without your consent. In compliance with the California Online Privacy Protection Act, all site users have the capabilities to make any changes to their information at any given time by simply logging into their account page and editing their profile and settings.
 
 **CHILDREN’S ONLINE PRIVACY PROTECTION ACT**
 
@@ -40,7 +38,7 @@ We also comply with the Children’s Online Privacy Protection Act, or COPPA, an
 
 **TERMS AND CONDITIONS**
 
-We encourage you to read our terms and conditions, which establishes the limitations of liability, disclaimers and use of our website. http://www.watchesonnet.com/terms-conditions.html
+We encourage you to read our terms and conditions, which establishes the limitations of liability, disclaimers and use of our website.
 
 **YOUR CONSENT**
 
@@ -52,12 +50,7 @@ Any changes in our privacy policy will be posted here on this page.
 
 **HOW TO CONTACT US**
 
-For questions regarding this policy, please feel free to contact us using any of the following methods:
-
--Online: http://www.watchesonnet.com/contact-us.html   
--Snail Mail: 4311 Wilshire Blvd, Suite # 302 Los Angeles, California 90010 United States   
--Email: info@watchesonnet.com   
--Phone: (877) 928-2499.
+For questions regarding this policy, please feel free to [contact us](https://web.archive.org/contact-us.html)
 
 
 
