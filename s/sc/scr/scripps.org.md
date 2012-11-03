@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505035727id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103171301id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Scripps Health - San Diego
+# Scripps Health - Privacy Policy
 
 Last Updated: 11/29/10
 
 **By using this website, you agree to the following Privacy Policy. If you do not agree to all of these terms, please do not use this website. Scripps Health reserves the right to change, modify, add, or delete portions of this Privacy Policy at any time. Your continued use of this website following any changes to the Privacy Policy will mean that you accept those changes. Please refer to the date listed above to determine when the last changes were made.**
 
-This Privacy Policy does not apply to any information collected offline. This information is available on the [Notice of Privacy Practices](https://web.archive.org/notice-of-privacy-practices "Notice of Privacy Practices") page.
+This Privacy Policy does not apply to any information collected offline. This information is available on the [Notice of Privacy Practices](https://web.archive.org/notice-of-privacy-practices "Notice Of Privacy Practices") page.
 
 #### Use of personal information/privacy
 
@@ -86,15 +86,15 @@ Scripps Health also may disclose your personal information to another party, suc
 
 #### Changing or Deleting Information
 
-If you wish to delete or correct your personally identifiable information obtained through this Web site, you may: 
+If you wish to delete or correct your personally identifiable information obtained through this Web site, you may:
 
   * Send a written request to:  
 Marketing and Communications Web Team,  
 Scripps Health,  
 4275 Campus Point Court, CP10,  
-San Diego, CA 92121 
+San Diego, CA 92121
   * Send an electronic request to: [webteam@scrippshealth.org](mailto:%77%65%62%74%65%61%6d@%73%63%72%69%70%70%73%68%65%61%6c%74%68.%6f%72%67)
-  * [Submit](https://web.archive.org/about-us__contact-us__contact-form "Submit") an electronic request. 
+  * [Submit](https://web.archive.org/about-us__contact-us__contact-form "Submit") an electronic request.
   * Call **1-800-SCRIPPS** and submit a verbal request.
 
 
