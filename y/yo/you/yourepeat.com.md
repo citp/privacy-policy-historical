@@ -1,29 +1,37 @@
-> *The following text is extracted and transformed from the yourepeat.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924052516id_/http%3A//yourepeat.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourepeat.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103205217id_/http%3A//www.yourepeat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.yourepeat.com
+# YouTube Repeat
 
-##  Privacy Policy for www.yourepeat.com 
+[](http://www.yourepeat.com/)
 
-At www.yourepeat.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.yourepeat.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **zerospree[at]yahoo.com**.
+## Privacy Policy
 
-**Log Files**  
-Like many other Web sites, www.yourepeat.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+AVSoftware Ltd ("YouRepeat") takes your privacy very seriously. Please read the following to learn more about YouRepeat's Privacy Policy ("Policy"). This Policy details how YouRepeat receives, collects and uses information in connection with their website located at YouRepeat.com and software provided on the YouRepeat.com website (the website and software collectively referred to herein as "Site").
 
-**Cookies and Web Beacons**  
-www.yourepeat.com does not use cookies. 
+### Collection and Use of Information
 
-**DoubleClick DART Cookie**
+YouRepeat does not automatically collect any personally identifiable information, such as names, e-mail, age, gender, address, telephone numbers, login names and passwords or other self-identifying information ("Personal Information"). YouRepeat may request that a user provide an e-mail address if such user wishes to be contacted regarding any offers, updates, newsletters and service related announcements. If a user provides an e-mail address to YouRepeat, such user authorizes YouRepeat to send user communications.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.yourepeat.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.yourepeat.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [ http://www.google.com/privacy/ads/privacy-policy.html](http://www.google.com/privacy/ads/privacy-policy.html)
+YouRepeat may use cookies on the Site. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier by saving preferences and browsing patterns while you are at YouRepeat's Site. Cookies may be used to analyze Site usage, improve content, customize the Site's content and layout and for other customer service purposes. YouRepeat's use of cookies is in no way linked to any Personal Information.
 
-Google Adsense may use cookies and web beacons on our site.
+YouRepeat may automatically receive and record certain non-personally identifiable information on its server logs from your browser, including your IP address, browser type, internet service provider (ISP), cookie information, and the webpage that a user visits. YouRepeat collects non-personally identifiable information for general purposes, including but not limited to analyzing trends, administering the site, tracking user movements, conducting research, and providing anonymous reporting to internal and external clients. YouRepeat will not link any Personal Information, including e-mail addresses, with aggregate data of its users.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.yourepeat.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+### YouRepeat and Disclosure of Information
 
-www.yourepeat.com has no access to or control over these cookies that are used by third-party advertisers. 
+YouRepeat does not rent, sell, or share any information about the user with any third-parties. YouRepeat may disclose your Personal Information if YouRepeat believes such action is necessary to: (a) comply with the law or legal process served on YouRepeat; (b) protect and defend the rights or property of YouRepeat (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of YouRepeat services or members of the public.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.yourepeat.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+### Children's Privacy
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+Protecting the privacy of the very young is especially important. We operate our website in compliance with the Children's Online Privacy Protection Act (COPPA). We never knowingly collect or maintain information at or on our website from those we actually know are under 13, and no part of our website is directed at or structured to attract anyone under 13. Visitors younger than 13 years of age may NOT use the YouRepeat website and software and must LEAVE immediately.
+
+### Security
+
+YouRepeat takes reasonable precaution to protect Personal Information from misuse, loss and unauthorized access. Although YouRepeat cannot guarantee that Personal Information will not be subject to unauthorized access, YouRepeat has physical, electronic, and procedural safeguards to protect the Personal Information. Personal Information is protected by secured networks and access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however.
+
+### Business Transitions
+
+In the event that YouRepeat goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, Personal Information will likely be among the assets transferred. YouRepeat will post a notice on this website of any such change in ownership or control of the Personal Information YouRepeat may have prior to such transfer.
+
+### Changes to Policy
+
+From time to time, YouRepeat may revise this Policy. YouRepeat will post the revised Policy on the Site, so that users can always be aware of what information YouRepeat collects, how the information is used and under what circumstances such information may be disclosed.
