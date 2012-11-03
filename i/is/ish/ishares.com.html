@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ishares.com privacy policy that was archived on 2012-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528223710id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ishares.com privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103221809id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -50,20 +50,11 @@
   <title>Privacy Statement - iShares</title>
   
 	<link rel="shortcut icon" href="/images/favicon.ico">
-    
 
     
     
-        
-            
-            
-            
-                <link rel="stylesheet" type="text/css" href="/combined.css.h-953881228.pack" charset="utf-8">
-            
-        
+        <link rel="stylesheet" type="text/css" href="/combined.css.h122808735.pack" charset="utf-8">
     
-
-
 
 
 
@@ -117,6 +108,7 @@
   var isHomePage    = false;
   var isLegacyPage	= true;
   var useQuickFinder= true;
+  // hp rebrand 2012 changes
   var isExpanded    = true;
   var isDisabled    = false;
   var isBlocked     = false;
@@ -131,6 +123,7 @@
     var isIE6         = false;
     var isIE7         = false;
     var isIE8         = false;
+  var isMobile      = false;  // JJ added to fix autoplay for mobile
   var isInst        = false;    
   var isCookiedForInvestorType     = false; // true if they have a cookie for investor type, false if they do not
 
@@ -197,7 +190,7 @@
 
 
   
-  <body id="blk" class="ishares-na main_back false false">
+  <body id="blk" class="ishares-na main_back false false" style="display: block;">
 
   
 
@@ -326,7 +319,7 @@
             </li>
               <li class="pipe">|</li>
             <li>
-              <a name="&amp;lpos=Header" href="/misc/international.htm" target="_blank" class="flag flag-us">
+              <a name="&amp;lpos=Header" href="/misc/international.htm" target="_blank" class="icon flag flag-us">
         <span>USA (Change)</span>
               </a>
             </li>
@@ -338,21 +331,38 @@
 
           <div id="accessLinks">
               <div id="site-for-container">
-        <p>Site Optimized for
+      <p>Select Your <a id="site-for-usertype" href="javascript:void(0);" name="&amp;lpos=Header"><span class="user">Investor Type</span><span class="arrow"> ▼</span></a>
+      </p>
+    </div>
+    
+        
+      
+        
+            
+        
+        
+            
+        
+        
+            
+        
+      
+        
+    
       
         
         
          
-            <a id="site-for-usertype" title="Change Investor Type" href="javascript:void(0);" name="&amp;lpos=Header"><span class="user">Financial Professionals</span><span class="arrow"> ▼</span></a>
+       
+    
         
       
-        </p>
-      </div>
+
     <div id="site-for-panel"> 
       <div class="call-to-action-text">
         <span id="close-button">&nbsp;</span>
-        <p><span class="strong">Not the right investor category?</span><br>
-        <span class="smaller">iShares offers customized sites for an array of investor types.</span>
+        <p>You are viewing the <span class="strong">Financial Professional</span> site.
+        
         </p>
       
       
@@ -364,10 +374,10 @@
         
          
           
-            <a class="gradient-green" href="/misc/switch.htm?investorType=INDIV&amp;return=%2Fmisc%2Fprivacy.htm" name="&amp;lpos=Header:Investor Type Overlay">Individual Investor</a>
-            <a class="gradient-green" href="/misc/switch.htm?investorType=INST&amp;return=%2Fmisc%2Fprivacy.htm" name="&amp;lpos=Header:Investor Type Overlay">Institutional Investor</a>
+            <span class="gradient-gray" href="/misc/switch.htm?investorType=FP&amp;return=%2Fmisc%2Fprivacy.htm" name="&amp;lpos=Header:Investor Type Overlay">Financial Professional</span>
+            <a class="gradient-blue-convex" href="/misc/switch.htm?investorType=INDIV&amp;return=%2Fmisc%2Fprivacy.htm" name="&amp;lpos=Header:Investor Type Overlay">Individual Investor</a>
+            <a class="gradient-blue-convex" href="/misc/switch.htm?investorType=INST&amp;return=%2Fmisc%2Fprivacy.htm" name="&amp;lpos=Header:Investor Type Overlay">Institutional Investor</a>
           
-
         
       
       </div>
@@ -420,46 +430,61 @@
 
 
 
+<div id="nav" class="nav autonav">
+  <ul>
+    <span class="qf-head-left"></span>
+    <li class="qetf-nav">
+      <div id="qf-head" class="expand">
+        <div class="title">FIND AN iSHARES ETF<span id="plus-minus-icon">&nbsp;</span></div>
+      </div>
+      <span class="qf-head-right"></span>
+    </li>
 
-        
-        <div id="nav" class="nav autonav">
-           <ul>
-              
-               <span class="qf-head-left"></span>
-              <li class="qetf-nav">
-              	 
- 			   	  <div id="qf-head" class="expand">
-      				<div class="title">QUICK ETF FINDER<span id="plus-minus-icon">&nbsp;</span></div>
-  				  </div>
-  				  <span class="qf-head-right"></span>
-              </li>
+    
+    
+    <li>
+      <a id="_nav1" class="nav-ctrl id_nav1 " name="&amp;lpos=Top Nav&amp;lid=Products" href="/tools/fundscreener.htm">Products</a>
+    </li>
 
-              <li>
-                <a id="_nav1" class="nav-ctrl id_nav1 " name="&amp;lpos=Top Nav&amp;lid=iShares ETFs" href="/product_info/fund/index.htm">iShares ETFs</a>
-              </li>
-              
-              
-              
-              
-              <li>
-                <a id="_nav2" class="nav-ctrl id_nav2 " name="&amp;lpos=Top Nav&amp;lid=Understanding ETFs" href="/understand_etf/index.htm">Understanding ETFs</a>
-              </li>
-              <li>
-                <a id="_nav3" class="nav-ctrl id_nav3 " name="&amp;lpos=Top Nav&amp;lid=Portfolio Strategies" href="/portfolio_strategies/index.htm">Portfolio Strategies</a>
-              </li>
-              <li>
-                <a id="_nav4" class="nav-ctrl id_nav4 " name="&amp;lpos=Top Nav&amp;lid=Tools - Charts" href="/tools/tools.htm">Tools &amp; Charts</a>
-              </li>
-              <li class="last">
-                <a id="_nav5" class="nav-ctrl id_nav5 " name="&amp;lpos=Top Nav&amp;lid=Advisor Resources" href="/advisor_resources/index.htm">Advisor Resources</a>
-              </li>
-              
-              
-              
-          </ul>
-        </div>
-        <div id="navmenu">
-          
+    
+
+    <li>
+      <a id="_nav2" class="nav-ctrl id_nav2 " name="&amp;lpos=Top Nav&amp;lid=Solutions" href="/products/why_ishares.htm">Solutions</a>
+    </li>
+
+
+    
+    <li>
+      <a id="_nav3" class="nav-ctrl id_nav3 " name="&amp;lpos=Top Nav&amp;lid=Insights" href="/resources/market_commentaries/index.htm">Insights</a>
+    </li>
+
+    
+    <li>
+      <a id="_nav4" class="nav-ctrl id_nav4 " name="&amp;lpos=Top Nav&amp;lid=Tools" href="/tools/tools.htm">Tools</a>
+    </li>
+    
+
+    
+    
+    
+      
+
+      
+
+      
+        <li class="last">
+          <a id="_nav5" class="nav-ctrl id_nav5 " name="&amp;lpos=Top Nav&amp;lid=Resources" href="/understand_etf/index.htm">Resources</a>
+        </li>
+      
+    
+    
+
+    
+    
+  </ul>
+</div>
+<div id="navmenu">
+  
 
 
 
@@ -486,14 +511,45 @@
                   
                   
 
+	
+		
+	
+		
+	
+		
+	
+		
+            <span class="arbitration-span" rel="">
+				  
 
+<!-- str: nav1 FP -->
+<ul class="mega-list two-col">
+  <li class="col1">
+    <ul class="col-items">
+      <li class="title"><a name="&amp;lpos=Top Nav:Products" href="/tools/fundscreener.htm">Find an iShares ETF</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/solutions/core_products.htm">Our Core Products</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/tools/fundscreener.htm">Fund Screener</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/fund/index/EQ.htm">Equity</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/fund/index/FI.htm">Fixed Income</a></li>
+    </ul>
+    <ul class="col-items">
+      <li class="title"><a name="&amp;lpos=Top Nav:Products" href="/product_info/fund/index.htm">See All iShares ETFs</a></li>
+    </ul> 
+  </li>
+  
+  <li class="col2">
+    <ul class="col-items">
+      <li><a name="&amp;lpos=Top Nav:Products" href="/advisor_resources/resource_library/fact_sheets.htm">Fund Fact Sheets</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/advisor_resources/resource_library/tax_legal_documents.htm?topicFilter=Prospectuses">Prospectuses</a></li>      
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/index/overview/eq.htm">Equity Index Data</a> <span class="premium-content-tooltip inline"></span></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/index/overview/fi.htm">Fixed Income Index Data</a> <span class="premium-content-tooltip inline"></span></li>
+    </ul>
+  </li>
+</ul>
+<!-- end: nav1 FP -->
 
-                                                            <!-- str: nav1 FP -->                    <ul class="mega-list two-col">                      <li class="col1">                          <ul class="col-items">                            <li class="title">                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/fund/index.htm">All iShares ETFs</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/core_solutions.htm">Core Solutions</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/fund/index/EQ.htm">Equity</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/fund/index/FI.htm">Fixed Income</a>                            </li>                            </ul>                      </li>                      <li class="col2">                          <ul class="col-items">                            <li class="title">Index Data</li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/index/overview/eq.htm">Equity Index Overview</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/index/overview/fi.htm">Fixed Income Index Overview</a>                            </li>                          </ul>                      </li>                    </ul>                    <!-- end: nav1 FP -->                    
-
-
-
-
-
+            </span>
+		
 
                   
                   
@@ -532,12 +588,72 @@
                   
                   
 
+	
+		
+	
+		
+	
+		
+            <span class="arbitration-span" rel="">
+				  
 
+<!-- str: nav3 SOLUTIONS -->
+<ul class="mega-list three-col">                      
+	<li class="col1">                       
+		<ul class="col-items">                          
+			<li class="title">Model Portfolios</li>
 
-                                        <!-- str: nav2 -->                    <ul class="mega-list one-col">                      <li class="col1">                        <ul class="col-items">                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/fundamental/index.htm">Track 1: Fundamentals of ETFs</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/benefits/index.htm">Track 2: Benefits of ETFs</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/why_ishares/index.htm">Track 3: Why iShares ETFs?</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/fixed_income/index.htm">Track 4: Fixed Income ETFs</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/international/index.htm">Track 5: International ETFs</a>                          </li>                        </ul>                      </li>                    </ul>                    <!-- end: nav2 -->
-
-
-
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/model_portfolios/model_portfolios_active_index_overview.htm">Active/Index</a>  <span class="premium-content-tooltip inline"></span>
+			</li>
+            
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/model_portfolios/model_portfolios_index_overview.htm">Index</a>  <span class="premium-content-tooltip inline"></span>
+			</li>
+		</ul>                      
+	</li>
+	<li class="col2">                        
+		<ul class="col-items">                          
+			<li class="title">Investment Strategies</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/core_products.htm">iShares Core Products</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/fixed_income.htm">Fixed Income</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/equity_income.htm">Equity Income</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/tax.htm">Tax Strategies</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/asset_class_solutions/international_overview.htm">International</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/asset_class_solutions/gold.htm">Gold</a>
+			</li>
+            <li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/investment_strategies/sector_strategies_overview.htm">Sector Strategies</a>
+			</li>
+		</ul>
+	</li>
+	<li class="col3">                        
+		<ul class="col-items">                          
+			<li class="title">Investment Goals</li>
+            
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/advisor_resources/ishares_401k.htm">iShares in 401(k) Retirement Plans</a>
+			</li>
+            
+            <li class="title"><a name="&amp;lpos=Top Nav:Solutions" href="/products/why_ishares.htm">Why iShares</a></li>
+            
+		</ul>
+	</li>
+</ul>
+<!-- end: nav3 SOLUTIONS -->
+            </span>
+		
 
                   
                   
@@ -558,13 +674,6 @@
 
 
 
-  
-  
-  
-    
-    
-    
-    
 
 
 
@@ -587,30 +696,26 @@
 		
 	
 		
+	
+		
+	
+		
             <span class="arbitration-span" rel="">
-				                                          <!-- str: nav3 PORTFOLIO -->                    <ul class="mega-list two-col">                      
-	<li class="col1">                       
-	<ul class="col-items">                          
-	<li class="title"> <a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/index.htm">Investment Strategies</a>                      </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/cash_equitization.htm">Cash Equitization</a>                        </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/sector_strategies_overview.htm">Sector Strategies</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/dividend_strategies.htm">Dividend Strategies</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/portfolio_completion.htm">Portfolio Completion</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/index_active.htm">Blending Index and Active</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/tax_strategies_overview.htm">Tax Strategies</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/alpha.htm">Seeking Alpha</a>                          </li>                        
-	</ul>                      
-	</li>                      
-<li class="col2">                        
-<ul class="col-items">                          
-<li class="title"> <a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/index.htm">Asset Class Solutions</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/us_equity.htm">US Equity</a>                          </li>                                                 
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/developed_international.htm">Developed International</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/fixed_income_overview.htm">Fixed Income</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/emerging_markets.htm">Emerging Markets</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/alternatives.htm">Alternatives</a>                          </li>
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/gold.htm">Gold</a>                          </li>   
-                        </ul>                      </li>                    </ul>                                        <!-- end: nav3 PORTFOLIO -->
+				  
+
+<!-- str: nav3 INDIV -->
+<ul class="mega-list one-col">
+  <li class="col1">
+    <ul class="col-items">
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/resources/market_commentaries/market_update.htm" class="title">Market Updates:</a> Bi-weekly insights into market-shaping events</li>
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/resources/market_commentaries/market_perspectives.htm" class="title">Perspectives:</a> Monthly in-depth reports on global markets</li>
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/resources/market_commentaries/investment_directions.htm" class="title">Investment Directions:</a> Monthly outlooks for the global equity and fixed income markets</li>
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/advisor_resources/resource_library/whitepapers.htm" class="title">White Papers:</a> Covering critical topics shaping the markets</li>
+    </ul>
+  </li>
+</ul>
+<!-- end: nav3 INDIV -->
+
             </span>
 		
 
@@ -628,10 +733,9 @@
           <!-- end: mega menu template -->
           
           
-    
 
-    
-    
+
+
 
 
 
@@ -659,42 +763,40 @@
             <span class="arbitration-span" rel="">
 				  
 
-<!-- str: nav4 -->
+<!-- str: nav4 TOOLS FP -->
 <ul class="mega-list two-col">
   <li class="col1">
     <ul class="col-items">
       <li class="title">Portfolio Construction Tools</li>
-	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=108&amp;c=FIPBLaunch#trg_108">Asset Class Illustrator</a></li>
-	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=145&amp;c=FIPBLaunch#trg_145">Sector &amp; Country Exposure</a></li>
-            <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=111&amp;c=FIPBLaunch#trg_111">Fixed Income Portfolio Builder</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=110&amp;c=FIPBLaunch#trg_110">Correlation Calculator</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=109&amp;c=FIPBLaunch#trg_109">Core/Satellite Portfolio Builder</a></li>
+	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=108#trg_108">Asset Class Illustrator</a> <span class="premium-content-tooltip inline"></span></li>
+	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=145#trg_145">Sector &amp; Country Exposure</a> <span class="premium-content-tooltip inline"></span></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=111&amp;#trg_111">Fixed Income Portfolio Builder</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=110&amp;#trg_110">Correlation Calculator</a> <span class="premium-content-tooltip inline"></span></li>
+      <li>&nbsp;</li>
+      <li class="title"><a name="&amp;lpos=Top Nav:Tools - Charts" href="/topics/iphone_app.htm">iShares Mobile App for iPhone</a></li>
 
-      <!--<li>&nbsp;</li>
-      <li class="title">Desktop Widgets</li>
-      <li><a name="&lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&toolId=100003108&c=FIPBLaunch#trg_100003108">Index Leaders and Trailers</a></li>
-      <li><a name="&lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&toolId=100003109&c=FIPBLaunch#trg_100003109">iShares Fund Quick Finder</a></li>-->
+
 
     </ul>
   </li>
   <li class="col2">
     <ul class="col-items">
       <li class="title">Research &amp; Performance Tools</li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=225&amp;c=FIPBLaunch#trg_225">Fund Comparison</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=112&amp;c=FIPBLaunch#trg_112">Fund Screener</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=115&amp;c=FIPBLaunch#trg_115">Quotes &amp; Charts</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=225#trg_225">Fund Comparison</a> <span class="premium-content-tooltip inline"></span></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=112#trg_112">Fund Screener</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=115#trg_115">Quotes &amp; Charts</a></li>
 
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=103&amp;c=FIPBLaunch#trg_103">Index Returns Chart</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=135&amp;c=FIPBLaunch#trg_135">Index Comparison Tool</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=103#trg_103">Index Returns Chart</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=135#trg_135">Index Comparison Tool</a> <span class="premium-content-tooltip inline"></span></li>
 
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=117&amp;c=FIPBLaunch#trg_117">Tracking Error Chart</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=114&amp;c=FIPBLaunch#trg_114">Premium/Discount Chart</a></li>
-	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=247&amp;c=FIPBLaunch#trg_247">Historical Returns Tool</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=116&amp;c=FIPBLaunch#trg_116">Performance Reports Tool</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=117#trg_117">Tracking Error Chart</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=114#trg_114">Premium/Discount Chart</a></li>
+	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=247#trg_247">Historical Returns Tool</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=116#trg_116">Performance Reports Tool</a></li>
     </ul>
   </li>
 </ul>
-<!-- end: nav4 -->
+<!-- end: nav4 TOOLS FP -->
             </span>
 		
 
@@ -712,9 +814,9 @@
           <!-- end: mega menu template -->
           
           
-    
-    
-    
+
+
+
 
 
 
@@ -744,40 +846,32 @@
             <span class="arbitration-span" rel="">
 				  
 
-<!-- str: nav5 fp -->
+<!-- str: nav5 RESOURCES FP -->
 <ul class="mega-list two-col">
   <li class="col1">
     <ul class="col-items">
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/">iShares Market Commentaries</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/market_update.htm">Market Update</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/investment_directions.htm">Investment Directions</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/market_perspectives.htm">Market Perspectives</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/contributors.htm">Contributors</a></li>
+      <li class="title"><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/index.htm">Understanding ETFs</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/fundamental/index.htm">Fundamentals</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/benefits/index.htm">Benefits</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/fixed_income/index.htm">Fixed Income ETFs</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/international/index.htm">International ETFs</a></li>
       <li>&nbsp;</li>
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/practice_evolution.htm">Practice Evolution</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/practice_evolution/practice_resources.htm">Resources for Your Practice</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/practice_evolution/client_resources.htm">Resources to use with Clients</a></li>
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/ishares_401k.htm">iShares in 401(k)</a></li>
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/charitable_giving.htm">Charitable Giving</a></li>
     </ul>
   </li>
 					
   <li class="col2"> 
-    <ul class="col-items">		
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/index.htm">Resource Library</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/whitepapers.htm">Whitepapers</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/fact_sheets.htm">Fund Fact Sheets</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/brochures_newsletters.htm">Brochures and Newsletters</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/tax_legal_documents.htm">Financial, Legal and Tax Documents</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/continuing_education_credits.htm">Continuing Education Credits</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/videos.htm">Videos</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/audio.htm">Audio</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/webinars_events.htm">Webinars and Events</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/data_downloads.htm">iShares ETF Data Download</a></li>
+    <ul class="col-items">	
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/tax_legal_documents.htm">Financial, Legal and Tax Documents</a></li>	
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/fact_sheets.htm">Fund Fact Sheets</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/brochures_newsletters.htm">Marketing Publications</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/videos.htm">Videos</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/audio.htm">Audio</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/webinars_events.htm">Webinars and Events</a> <span class="premium-content-tooltip inline"></span></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/continuing_education_credits.htm">Continuing Education Credits</a> <span class="premium-content-tooltip inline"></span></li>
     </ul>
   </li>
 </ul>
-<!-- end: nav5 fp -->
+<!-- end: nav5 RESOURCES FP -->
 
             </span>
 		
@@ -796,17 +890,14 @@
           <!-- end: mega menu template -->
           
           
+
+
+
+
   
 
 
-
-
-
-
-  
-
-
-			<!-- Start: Quick ETF Finder Code -->
+  <!-- Start: Quick ETF Finder Code -->
 <div id="qf" class="quickfinder clearfix expand">
 
 
@@ -825,8 +916,8 @@
   </div>
   </div>
 </div>
-        </div>
-        
+</div>
+
 
           
         
@@ -872,8 +963,7 @@
 
   <p>This Privacy Policy explains the Site's processing and storage practices in the United States for personal
     information transmitted through the Site. Visitors subject to the jurisdiction of other countries must not submit
-    information through this Site, and by doing so waive any and all liability iShares or BlackRock Institutional Trust
-    Company, N.A. and its affiliates ("BlackRock") may have to them in connection with such information. By browsing the
+    information through this Site, and by doing so waive any and all liability iShares or BlackRock, Inc., and its affiliates ("BlackRock") may have to them in connection with such information. By browsing the
     Site and communicating electronically with us, Site visitors acknowledge that we are processing and storing their
     personal information in the United States under U.S. privacy standards.</p>
 
@@ -1088,49 +1178,137 @@
 
 <div class="sitemap">
 
-  
-  <div class="site-map-group" id="isharesEtfs">
-    <a class="group-header" href="/product_info/fund/index.htm" name="&amp;lpos=Footer">iShares ETFs</a>
     
+    <div class="site-map-group" id="products">
+      <a class="group-header" href="/tools/fundscreener.htm" name="&amp;lpos=Footer">Products</a>
+      
       
     
 
+	
+		
+	
+		
+	
+		
+	
+		
+            <span class="arbitration-span" rel="">
+				  
 
+<!-- str: nav1 FP -->
+<ul class="mega-list two-col">
+  <li class="col1">
+    <ul class="col-items">
+      <li class="title"><a name="&amp;lpos=Top Nav:Products" href="/tools/fundscreener.htm">Find an iShares ETF</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/solutions/core_products.htm">Our Core Products</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/tools/fundscreener.htm">Fund Screener</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/fund/index/EQ.htm">Equity</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/fund/index/FI.htm">Fixed Income</a></li>
+    </ul>
+    <ul class="col-items">
+      <li class="title"><a name="&amp;lpos=Top Nav:Products" href="/product_info/fund/index.htm">See All iShares ETFs</a></li>
+    </ul> 
+  </li>
+  
+  <li class="col2">
+    <ul class="col-items">
+      <li><a name="&amp;lpos=Top Nav:Products" href="/advisor_resources/resource_library/fact_sheets.htm">Fund Fact Sheets</a></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/advisor_resources/resource_library/tax_legal_documents.htm?topicFilter=Prospectuses">Prospectuses</a></li>      
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/index/overview/eq.htm">Equity Index Data</a> <span class="premium-content-tooltip inline"></span></li>
+      <li><a name="&amp;lpos=Top Nav:Products" href="/product_info/index/overview/fi.htm">Fixed Income Index Data</a> <span class="premium-content-tooltip inline"></span></li>
+    </ul>
+  </li>
+</ul>
+<!-- end: nav1 FP -->
 
-                                                            <!-- str: nav1 FP -->                    <ul class="mega-list two-col">                      <li class="col1">                          <ul class="col-items">                            <li class="title">                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/fund/index.htm">All iShares ETFs</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/core_solutions.htm">Core Solutions</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/fund/index/EQ.htm">Equity</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/fund/index/FI.htm">Fixed Income</a>                            </li>                            </ul>                      </li>                      <li class="col2">                          <ul class="col-items">                            <li class="title">Index Data</li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/index/overview/eq.htm">Equity Index Overview</a>                            </li>                            <li>                              <a name="&amp;lpos=Top Nav:iShares ETFs" href="/product_info/index/overview/fi.htm">Fixed Income Index Overview</a>                            </li>                          </ul>                      </li>                    </ul>                    <!-- end: nav1 FP -->                    
-
-
-
-
-
+            </span>
+		
 
   </div>
 
-  
+      
     
+    <div class="site-map-group" id="solutions">
+      <a class="group-header" href="/products/why_ishares.htm" name="&amp;lpos=Footer">Solutions</a>
+      
+            
+          
+
+	
+		
+	
+		
+	
+		
+            <span class="arbitration-span" rel="">
+				  
+
+<!-- str: nav3 SOLUTIONS -->
+<ul class="mega-list three-col">                      
+	<li class="col1">                       
+		<ul class="col-items">                          
+			<li class="title">Model Portfolios</li>
+
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/model_portfolios/model_portfolios_active_index_overview.htm">Active/Index</a>  <span class="premium-content-tooltip inline"></span>
+			</li>
+            
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/model_portfolios/model_portfolios_index_overview.htm">Index</a>  <span class="premium-content-tooltip inline"></span>
+			</li>
+		</ul>                      
+	</li>
+	<li class="col2">                        
+		<ul class="col-items">                          
+			<li class="title">Investment Strategies</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/core_products.htm">iShares Core Products</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/fixed_income.htm">Fixed Income</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/equity_income.htm">Equity Income</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/solutions/tax.htm">Tax Strategies</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/asset_class_solutions/international_overview.htm">International</a>
+			</li>
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/asset_class_solutions/gold.htm">Gold</a>
+			</li>
+            <li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/portfolio_strategies/investment_strategies/sector_strategies_overview.htm">Sector Strategies</a>
+			</li>
+		</ul>
+	</li>
+	<li class="col3">                        
+		<ul class="col-items">                          
+			<li class="title">Investment Goals</li>
+            
+			<li>
+				<a name="&amp;lpos=Top Nav:Solutions" href="/advisor_resources/ishares_401k.htm">iShares in 401(k) Retirement Plans</a>
+			</li>
+            
+            <li class="title"><a name="&amp;lpos=Top Nav:Solutions" href="/products/why_ishares.htm">Why iShares</a></li>
+            
+		</ul>
+	</li>
+</ul>
+<!-- end: nav3 SOLUTIONS -->
+            </span>
+		
+
+        </div>
     
+
+    
+    <div class="site-map-group" id="insights">
+      <a class="group-header" href="/resources/market_commentaries/index.htm" name="&amp;lpos=Footer">Insights</a>
       
-
-      
-      <div class="site-map-group" id="understandingEtfs">
-       <a class="group-header" href="/understand_etf/index.htm" name="&amp;lpos=Footer">Understanding ETFs</a>
-       
-         
-       
-
-
-
-                                        <!-- str: nav2 -->                    <ul class="mega-list one-col">                      <li class="col1">                        <ul class="col-items">                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/fundamental/index.htm">Track 1: Fundamentals of ETFs</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/benefits/index.htm">Track 2: Benefits of ETFs</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/why_ishares/index.htm">Track 3: Why iShares ETFs?</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/fixed_income/index.htm">Track 4: Fixed Income ETFs</a>                          </li>                          <li>                            <a name="&amp;lpos=Top Nav:Understanding ETFs" href="/understand_etf/international/index.htm">Track 5: International ETFs</a>                          </li>                        </ul>                      </li>                    </ul>                    <!-- end: nav2 -->
-
-
-
-
-     </div>
-
-      
-      <div class="site-map-group" id="portStrat">
-        <a class="group-header" href="/portfolio_strategies/index.htm" name="&amp;lpos=Footer">Portfolio Strategies</a>
-        
           
         
 
@@ -1138,38 +1316,34 @@
 		
 	
 		
+	
+		
+	
+		
             <span class="arbitration-span" rel="">
-				                                          <!-- str: nav3 PORTFOLIO -->                    <ul class="mega-list two-col">                      
-	<li class="col1">                       
-	<ul class="col-items">                          
-	<li class="title"> <a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/index.htm">Investment Strategies</a>                      </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/cash_equitization.htm">Cash Equitization</a>                        </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/sector_strategies_overview.htm">Sector Strategies</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/dividend_strategies.htm">Dividend Strategies</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/portfolio_completion.htm">Portfolio Completion</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/index_active.htm">Blending Index and Active</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/tax_strategies_overview.htm">Tax Strategies</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/investment_strategies/alpha.htm">Seeking Alpha</a>                          </li>                        
-	</ul>                      
-	</li>                      
-<li class="col2">                        
-<ul class="col-items">                          
-<li class="title"> <a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/index.htm">Asset Class Solutions</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/us_equity.htm">US Equity</a>                          </li>                                                 
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/developed_international.htm">Developed International</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/fixed_income_overview.htm">Fixed Income</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/emerging_markets.htm">Emerging Markets</a>                          </li>                          
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/alternatives.htm">Alternatives</a>                          </li>
-	<li><a name="&amp;lpos=Top Nav:Portfolio Strategies" href="/portfolio_strategies/asset_class_solutions/gold.htm">Gold</a>                          </li>   
-                        </ul>                      </li>                    </ul>                                        <!-- end: nav3 PORTFOLIO -->
+				  
+
+<!-- str: nav3 INDIV -->
+<ul class="mega-list one-col">
+  <li class="col1">
+    <ul class="col-items">
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/resources/market_commentaries/market_update.htm" class="title">Market Updates:</a> Bi-weekly insights into market-shaping events</li>
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/resources/market_commentaries/market_perspectives.htm" class="title">Perspectives:</a> Monthly in-depth reports on global markets</li>
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/resources/market_commentaries/investment_directions.htm" class="title">Investment Directions:</a> Monthly outlooks for the global equity and fixed income markets</li>
+      <li><a name="&amp;lpos=Top Nav:Insights" href="/advisor_resources/resource_library/whitepapers.htm" class="title">White Papers:</a> Covering critical topics shaping the markets</li>
+    </ul>
+  </li>
+</ul>
+<!-- end: nav3 INDIV -->
+
             </span>
 		
 
       </div>
 
-      
+    
       <div class="site-map-group" id="isharesTools">
-        <a class="group-header" href="/tools/tools.htm" name="&amp;lpos=Footer">Tools &amp; Charts</a>
+      <a class="group-header" href="/tools/tools.htm" name="&amp;lpos=Footer">Tools</a>
         
           
         
@@ -1183,50 +1357,53 @@
             <span class="arbitration-span" rel="">
 				  
 
-<!-- str: nav4 -->
+<!-- str: nav4 TOOLS FP -->
 <ul class="mega-list two-col">
   <li class="col1">
     <ul class="col-items">
       <li class="title">Portfolio Construction Tools</li>
-	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=108&amp;c=FIPBLaunch#trg_108">Asset Class Illustrator</a></li>
-	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=145&amp;c=FIPBLaunch#trg_145">Sector &amp; Country Exposure</a></li>
-            <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=111&amp;c=FIPBLaunch#trg_111">Fixed Income Portfolio Builder</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=110&amp;c=FIPBLaunch#trg_110">Correlation Calculator</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=109&amp;c=FIPBLaunch#trg_109">Core/Satellite Portfolio Builder</a></li>
+	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=108#trg_108">Asset Class Illustrator</a> <span class="premium-content-tooltip inline"></span></li>
+	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=145#trg_145">Sector &amp; Country Exposure</a> <span class="premium-content-tooltip inline"></span></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=111&amp;#trg_111">Fixed Income Portfolio Builder</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=110&amp;#trg_110">Correlation Calculator</a> <span class="premium-content-tooltip inline"></span></li>
+      <li>&nbsp;</li>
+      <li class="title"><a name="&amp;lpos=Top Nav:Tools - Charts" href="/topics/iphone_app.htm">iShares Mobile App for iPhone</a></li>
 
-      <!--<li>&nbsp;</li>
-      <li class="title">Desktop Widgets</li>
-      <li><a name="&lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&toolId=100003108&c=FIPBLaunch#trg_100003108">Index Leaders and Trailers</a></li>
-      <li><a name="&lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&toolId=100003109&c=FIPBLaunch#trg_100003109">iShares Fund Quick Finder</a></li>-->
+
 
     </ul>
   </li>
   <li class="col2">
     <ul class="col-items">
       <li class="title">Research &amp; Performance Tools</li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=225&amp;c=FIPBLaunch#trg_225">Fund Comparison</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=112&amp;c=FIPBLaunch#trg_112">Fund Screener</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=115&amp;c=FIPBLaunch#trg_115">Quotes &amp; Charts</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=225#trg_225">Fund Comparison</a> <span class="premium-content-tooltip inline"></span></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=112#trg_112">Fund Screener</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=115#trg_115">Quotes &amp; Charts</a></li>
 
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=103&amp;c=FIPBLaunch#trg_103">Index Returns Chart</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=135&amp;c=FIPBLaunch#trg_135">Index Comparison Tool</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=103#trg_103">Index Returns Chart</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=135#trg_135">Index Comparison Tool</a> <span class="premium-content-tooltip inline"></span></li>
 
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=117&amp;c=FIPBLaunch#trg_117">Tracking Error Chart</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=114&amp;c=FIPBLaunch#trg_114">Premium/Discount Chart</a></li>
-	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=247&amp;c=FIPBLaunch#trg_247">Historical Returns Tool</a></li>
-      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=116&amp;c=FIPBLaunch#trg_116">Performance Reports Tool</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=117#trg_117">Tracking Error Chart</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=114#trg_114">Premium/Discount Chart</a></li>
+	  <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=247#trg_247">Historical Returns Tool</a></li>
+      <li><a name="&amp;lpos=Top Nav:Tools - Charts" href="/tools/tools.htm?investorType=FP&amp;toolId=116#trg_116">Performance Reports Tool</a></li>
     </ul>
   </li>
 </ul>
-<!-- end: nav4 -->
+<!-- end: nav4 TOOLS FP -->
             </span>
 		
 
       </div>
 
+    
+    
+    
+      
+
       
       <div class="site-map-group" id="resources">
-        <a class="group-header" href="/advisor_resources/index.htm" name="&amp;lpos=Footer">Advisor Resources</a>
+        <a class="group-header" href="/advisor_resources/index.htm" name="&amp;lpos=Footer">Resources</a>
         
           
         
@@ -1242,40 +1419,32 @@
             <span class="arbitration-span" rel="">
 				  
 
-<!-- str: nav5 fp -->
+<!-- str: nav5 RESOURCES FP -->
 <ul class="mega-list two-col">
   <li class="col1">
     <ul class="col-items">
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/">iShares Market Commentaries</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/market_update.htm">Market Update</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/investment_directions.htm">Investment Directions</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/market_perspectives.htm">Market Perspectives</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/resources/market_commentaries/contributors.htm">Contributors</a></li>
+      <li class="title"><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/index.htm">Understanding ETFs</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/fundamental/index.htm">Fundamentals</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/benefits/index.htm">Benefits</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/fixed_income/index.htm">Fixed Income ETFs</a></li>
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/understand_etf/international/index.htm">International ETFs</a></li>
       <li>&nbsp;</li>
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/practice_evolution.htm">Practice Evolution</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/practice_evolution/practice_resources.htm">Resources for Your Practice</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/practice_evolution/client_resources.htm">Resources to use with Clients</a></li>
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/ishares_401k.htm">iShares in 401(k)</a></li>
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/charitable_giving.htm">Charitable Giving</a></li>
     </ul>
   </li>
 					
   <li class="col2"> 
-    <ul class="col-items">		
-      <li class="title"><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/index.htm">Resource Library</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/whitepapers.htm">Whitepapers</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/fact_sheets.htm">Fund Fact Sheets</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/brochures_newsletters.htm">Brochures and Newsletters</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/tax_legal_documents.htm">Financial, Legal and Tax Documents</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/continuing_education_credits.htm">Continuing Education Credits</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/videos.htm">Videos</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/audio.htm">Audio</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/webinars_events.htm">Webinars and Events</a></li>
-      <li><a name="&amp;lpos=Top Nav:Advisor Resources" href="/advisor_resources/resource_library/data_downloads.htm">iShares ETF Data Download</a></li>
+    <ul class="col-items">	
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/tax_legal_documents.htm">Financial, Legal and Tax Documents</a></li>	
+      <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/fact_sheets.htm">Fund Fact Sheets</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/brochures_newsletters.htm">Marketing Publications</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/videos.htm">Videos</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/audio.htm">Audio</a></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/webinars_events.htm">Webinars and Events</a> <span class="premium-content-tooltip inline"></span></li>
+       <li><a name="&amp;lpos=Top Nav:Resources" href="/advisor_resources/resource_library/continuing_education_credits.htm">Continuing Education Credits</a> <span class="premium-content-tooltip inline"></span></li>
     </ul>
   </li>
 </ul>
-<!-- end: nav5 fp -->
+<!-- end: nav5 RESOURCES FP -->
 
             </span>
 		
@@ -1335,9 +1504,6 @@
       |
       <a href="/exit_tracking.htm?url=http%3A%2F%2Fwww.iPathETN.com" target="_blank" name="&amp;lpos=Footer">iPath ETNs</a>
       
-      |
-      <a href="/advisor_resources/charitable_giving.htm" name="&amp;lpos=Footer">Charitable Giving</a>
-      
     </div>  <!-- about-link-group other-products -->
 
 
@@ -1354,8 +1520,10 @@
     <div class="about-link-group social-media-links">
       <p class="about-link-group-title follow-us">Follow Us On:</p>
       <a class="facebook" href="/exit_tracking.htm?url=http://www.facebook.com/iSharesETFs" target="_blank">Facebook</a>
+      <a class="linkedin" href="/exit_tracking.htm?url=http://www.linkedin.com/company/ishares" target="_blank">Linked In</a>
       <a class="twitter" href="/exit_tracking.htm?url=http://www.twitter.com/iSharesETFs" target="_blank">Twitter</a>
       <a class="blog" href="http://www.isharesblog.com" target="_blank">iShares Blog</a>
+      <a class="youtube" href="/exit_tracking.htm?url=http://www.youtube.com/user/isharesetfs" target="_blank">You Tube</a>
     </div>
 
   </div> <!-- about-link-group-container -->
@@ -1600,7 +1768,10 @@
     
         
         
-            <script type="text/javascript" src="/combined.js.h1001459091.pack" charset="utf-8"></script>
+            <script type="text/javascript" src="/combined.js.h1649222869.pack" charset="utf-8"></script>
+            
+            
+
         
     
 
@@ -1624,7 +1795,6 @@
 <!--WEBSIDESTORY CODE UNICA -->
 
 <script type="text/javascript">
-
   var pagetitles = {
     overview      :"Overview - ()",
     performance   :"Performance - ()",
@@ -1661,6 +1831,17 @@
  // alert('url : '+'/misc/privacy.htm');
  // alert('staticWssTitle : '+'Privacy Statement');
  // alert('pageInner.wsstitle : '+'Privacy Statement'); 
+ 
+ // EBISHRNA-4972 - Unica variable for use with tracking usage of the internal version of the FCT
+ //check whether user is LDAP authenticate or not(by checking attribute UID is present in session or not) 
+ //and set cms_internaluser internal or external accordingly.
+ 
+  
+ 	
+ 	
+ 		cms_internaluser="external";
+ 	
+  
 
   
     
@@ -1725,6 +1906,17 @@
 <!-- End: $File: /publish/common/unica_page.jsp $ -->
 
 
+
+    	<style>
+  		body {display:none;}
+  	</style>
+  	<script>
+  		if(self==top) {
+  	  		document.getElementsByTagName("body")[0].style.display = 'block';
+  		} else {
+  	  		top.location=self.location;
+  		}
+  	</script>
 
 
 
