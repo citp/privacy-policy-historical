@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afuturewithus.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515203927id_/http%3A//www.afuturewithus.com/careers/al-futtaim/Page.aspx%3FPageId%3D2721) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afuturewithus.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103205451id_/http%3A//www.afuturewithus.com/careers/al-futtaim/Page.aspx%3FPageId%3D2721) for the most accurate reproduction.*
 
 # Online Privacy Statement
 
