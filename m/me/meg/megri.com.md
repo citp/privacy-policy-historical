@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megri.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501230437id_/http%3A//www.megri.com/temp/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megri.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103093636id_/http%3A//www.megri.com/temp/policy.html) for the most accurate reproduction.*
 
 # Megri.com - Privacy Policy
 
