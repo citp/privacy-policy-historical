@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ct-mls.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505024544id_/http%3A//ct-mls.com/Privacy_Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ct-mls.com privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103203319id_/http%3A//ct-mls.com/Privacy_Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html401/loose.dtd"><html><head id="ctl00_Head1"><link rel="shortcut icon" href="favicon.ico"><title>
 	Greater Fairfield County CMLS
@@ -36,24 +36,107 @@ function addLoadEvent(func) {
 
 addLoadEvent(initHighlight);      
     </script>
+<script type="text/javascript">
+
+    // this example makes a non-clickable image area if the presentity is offline
+    var rwc_pids = null;
+
+    // called by server response when status fetch has completed
+    function rwc_statusUpdated(pid, status, custom, display, group,
+id) 
+{
+var o = document.getElementById("rwc_id_" + pid.replace(/\@/g, ":"));
+if (o) 
+{
+// find the pid, we need the group
+for (i = 0; i < rwc_pids.length; i += 2) {
+ if (rwc_pids[i] == pid) {
+// set the new link
+ var html = '';
+if (status == 'offline') 
+{
+    html += '<a target="_blank" href="https://ct-mls.revation.com/chat/?im=adminsupport@ct-mls.com&group=ct-mls" style="text-decoration:none;"></a><img src="../../../images/livechat/liveChat-offline.gif" style="border-width:0px;">';
+}
+else if (status == 'away') {
+    html += '<a target="_blank" href="https://ct-mls.revation.com/chat/?im=adminsupport@ct-mls.com&group=ct-mls" style="text-decoration:none;"></a><img src="../../../images/livechat/liveChat-offline.gif" style="border-width:0px;">';
+}
+else if (status == 'declined') {
+    html += '<a target="_blank" href="https://ct-mls.revation.com/chat/?im=adminsupport@ct-mls.com&group=ct-mls" style="text-decoration:none;"></a><img src="../../../images/livechat/liveChat-offline.gif" style="border-width:0px;">';
+}
+else if (status == 'unknown') {
+    html += '<a target="_blank" href="https://ct-mls.revation.com/chat/?im=adminsupport@ct-mls.com&group=ct-mls" style="text-decoration:none;"><img src="../../../images/livechat/liveChat-offline.gif" style="border-width:0px;">';
+}
+else if (status == 'busy') 
+{
+    html += '<a target="_blank" href="https://ct-mls.revation.com/chat/?im=adminsupport@ct-mls.com&group=ct-mls"style="text-decoration:none;"></a><img src="../../../images/livechat/liveChat-busy.gif" style="border-width:0px;">';
+}
+else
+{
+    html += '<a target="_blank" href="https://ct-mls.revation.com/chat/?im=adminsupport@ct-mls.com&group=ct-mls" style="text-decoration:none;"><img src="../../../images/livechat/liveChat-online.gif" style="border-width:0px;"></a>';
+}
+  o.innerHTML = html;
+   break;
+                }
+            }
+        }
+    }
+
+    // called by html document to write a clickable link into the document
+    function rwc_writeLink(pid, group) {
+        // create a storage array if necessary
+        if (rwc_pids == null) {
+            rwc_pids = new Array();
+        }
+
+        // store the pid and group
+        rwc_pids[rwc_pids.length] = pid;
+        rwc_pids[rwc_pids.length] = group;
+
+        // write the link out
+        document.write("<span id='rwc_id_" + pid.replace(/\@/g,
+":") + "'><font size=2>Loading...</font></span>");
+
+        // fetch the current status from the server
+        var head = document.getElementsByTagName('head').item(0);
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.id = 'myscript' + rwc_pids.length;
+        script.defer = true;
+        script.src = 'https://secure.revation.com/status/js?im=' + pid + '&group=' + group;
+        head.appendChild(script);
+    }
+</script>
     
 <link href="includes/style.css" rel="stylesheet" type="text/css"><link href="includes/style_print.css" rel="stylesheet" type="text/css" media="print"><link rel="shortcut icon" href="/favicon.ico">
     <style type="text/css">
 
 
 html { height:100%;}
+        .style1
+        {
+            color: #ccc;
+            font-size: 10px;
+            line-height: 10px;
+            width: 203px;
+        }
+        .style2
+        {
+            float: left;
+            width: 170px;
+            height: 11px;
+        }
     </style>
 
-<link rel="alternate" type="application/rss+xml" title="RSS" href="/newsfeed.rss"></head>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/newsfeed.rss"><script type="text/javascript" id="myscript2" defer="" src="https://secure.revation.com/status/js?im=adminsupport@ct-mls.com&amp;group=ct-mls"></script></head>
 <body id="main_body">
     <form name="aspnetForm" method="post" action="Privacy_Policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgQCAw9kFgwCCQ8PFgIeC05hdmlnYXRlVXJsBTR+L01pc2MvUmVwb3J0QnVnLmFzcHg/UmVmZXJQYWdlPS9Qcml2YWN5X1BvbGljeS5hc3B4ZGQCGA9kFgICAQ9kFgJmDw8WAh4HVmlzaWJsZWdkZAIcDxYCHgtfIUl0ZW1Db3VudAIHFg5mD2QWAmYPDxYIHghDc3NDbGFzc2UfAAUZL0dlbmVyYWxJbmZvL0RlZmF1bHQuYXNweB4ISW1hZ2VVcmwFI34vaW1hZ2VzL25hdmlnYXRpb24vYi1yZXNvdXJjZXMuZ2lmHgRfIVNCAgIWBh4FVGl0bGUFCVJlc291cmNlcx4Lb25Nb3VzZU92ZXIFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2ItJywgJ2JiLScpOx4Kb25Nb3VzZU91dAVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYmItJywgJ2ItJyk7ZAIBD2QWAmYPDxYIHwNlHwAFGS9NZW1iZXJzT25seS9EZWZhdWx0LmFzcHgfBAUofi9pbWFnZXMvbmF2aWdhdGlvbi9iLW1hbmFnZS1hY2NvdW50LmdpZh8FAgIWBh8GBQ5NYW5hZ2UgQWNjb3VudB8HBUV0aGlzLmNoaWxkTm9kZXNbMF0uc3JjID0gdGhpcy5jaGlsZE5vZGVzWzBdLnNyYy5yZXBsYWNlKCdiLScsICdiYi0nKTsfCAVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYmItJywgJ2ItJyk7ZAICD2QWAmYPDxYIHwNlHwAFHC9NZW1iZXJzaGlwSW5mby9EZWZhdWx0LmFzcHgfBAUkfi9pbWFnZXMvbmF2aWdhdGlvbi9iLW1lbWJlcnNoaXAuZ2lmHwUCAhYGHwYFCk1lbWJlcnNoaXAfBwVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYi0nLCAnYmItJyk7HwgFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2JiLScsICdiLScpO2QCAw9kFgJmDw8WCB8DZR8ABR8vTWVtYmVyc09ubHkvRm9ybXMvRGVmYXVsdC5hc3B4HwQFH34vaW1hZ2VzL25hdmlnYXRpb24vYi1mb3Jtcy5naWYfBQICFgYfBgUFRm9ybXMfBwVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYi0nLCAnYmItJyk7HwgFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2JiLScsICdiLScpO2QCBA9kFgJmDw8WCB8DZR8ABSEvTWVtYmVyc09ubHkvU3VwcG9ydC9EZWZhdWx0LmFzcHgfBAUhfi9pbWFnZXMvbmF2aWdhdGlvbi9iLXN1cHBvcnQuZ2lmHwUCAhYGHwYFB1N1cHBvcnQfBwVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYi0nLCAnYmItJyk7HwgFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2JiLScsICdiLScpO2QCBQ9kFgJmDw8WCB8DZR8ABRUvQ2xhc3Nlcy9EZWZhdWx0LmFzcHgfBAUpfi9pbWFnZXMvbmF2aWdhdGlvbi9iLWNsYXNzLW9mZmVyaW5ncy5naWYfBQICFgYfBgUPQ2xhc3MgT2ZmZXJpbmdzHwcFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2ItJywgJ2JiLScpOx8IBUV0aGlzLmNoaWxkTm9kZXNbMF0uc3JjID0gdGhpcy5jaGlsZE5vZGVzWzBdLnNyYy5yZXBsYWNlKCdiYi0nLCAnYi0nKTtkAgYPZBYCZg8PFggfA2UfAAURL2lkeC9EZWZhdWx0LmFzcHgfBAUdfi9pbWFnZXMvbmF2aWdhdGlvbi9iLWlkeC5naWYfBQICFgYfBgUDSURYHwcFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2ItJywgJ2JiLScpOx8IBUV0aGlzLmNoaWxkTm9kZXNbMF0uc3JjID0gdGhpcy5jaGlsZE5vZGVzWzBdLnNyYy5yZXBsYWNlKCdiYi0nLCAnYi0nKTtkAiEPFgIfAmZkAicPZBYCAgEPZBYCZg9kFgICCg8WAh4HRW5hYmxlZGdkAi8PDxYEHwlnHwFnZGQCBQ8PFgIfAAUNL25ld3NmZWVkLnJzc2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBRdjdGwwMCRMb2dpblN0YXR1cyRjdGwwMQUXY3RsMDAkTG9naW5TdGF0dXMkY3RsMDMFHmN0bDAwJExvZ2luQ29udHJvbCRMb2dpbkJ1dHRvbgUMY3RsMDAkaW1nYnRutZgZeEiA0KAZxKTGbCMNe+OFCLs=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgQCAw9kFgwCCQ8PFgIeC05hdmlnYXRlVXJsBTR+L01pc2MvUmVwb3J0QnVnLmFzcHg/UmVmZXJQYWdlPS9Qcml2YWN5X1BvbGljeS5hc3B4ZGQCFg9kFgICAQ9kFgJmDw8WAh4HVmlzaWJsZWdkZAIaDxYCHgtfIUl0ZW1Db3VudAIHFg5mD2QWAmYPDxYIHghDc3NDbGFzc2UfAAUZL0dlbmVyYWxJbmZvL0RlZmF1bHQuYXNweB4ISW1hZ2VVcmwFI34vaW1hZ2VzL25hdmlnYXRpb24vYi1yZXNvdXJjZXMuZ2lmHgRfIVNCAgIWBh4FVGl0bGUFCVJlc291cmNlcx4Lb25Nb3VzZU92ZXIFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2ItJywgJ2JiLScpOx4Kb25Nb3VzZU91dAVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYmItJywgJ2ItJyk7ZAIBD2QWAmYPDxYIHwNlHwAFGS9NZW1iZXJzT25seS9EZWZhdWx0LmFzcHgfBAUofi9pbWFnZXMvbmF2aWdhdGlvbi9iLW1hbmFnZS1hY2NvdW50LmdpZh8FAgIWBh8GBQ5NYW5hZ2UgQWNjb3VudB8HBUV0aGlzLmNoaWxkTm9kZXNbMF0uc3JjID0gdGhpcy5jaGlsZE5vZGVzWzBdLnNyYy5yZXBsYWNlKCdiLScsICdiYi0nKTsfCAVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYmItJywgJ2ItJyk7ZAICD2QWAmYPDxYIHwNlHwAFHC9NZW1iZXJzaGlwSW5mby9EZWZhdWx0LmFzcHgfBAUkfi9pbWFnZXMvbmF2aWdhdGlvbi9iLW1lbWJlcnNoaXAuZ2lmHwUCAhYGHwYFCk1lbWJlcnNoaXAfBwVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYi0nLCAnYmItJyk7HwgFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2JiLScsICdiLScpO2QCAw9kFgJmDw8WCB8DZR8ABR8vTWVtYmVyc09ubHkvRm9ybXMvRGVmYXVsdC5hc3B4HwQFH34vaW1hZ2VzL25hdmlnYXRpb24vYi1mb3Jtcy5naWYfBQICFgYfBgUFRm9ybXMfBwVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYi0nLCAnYmItJyk7HwgFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2JiLScsICdiLScpO2QCBA9kFgJmDw8WCB8DZR8ABSEvTWVtYmVyc09ubHkvU3VwcG9ydC9EZWZhdWx0LmFzcHgfBAUhfi9pbWFnZXMvbmF2aWdhdGlvbi9iLXN1cHBvcnQuZ2lmHwUCAhYGHwYFB1N1cHBvcnQfBwVFdGhpcy5jaGlsZE5vZGVzWzBdLnNyYyA9IHRoaXMuY2hpbGROb2Rlc1swXS5zcmMucmVwbGFjZSgnYi0nLCAnYmItJyk7HwgFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2JiLScsICdiLScpO2QCBQ9kFgJmDw8WCB8DZR8ABRUvQ2xhc3Nlcy9EZWZhdWx0LmFzcHgfBAUpfi9pbWFnZXMvbmF2aWdhdGlvbi9iLWNsYXNzLW9mZmVyaW5ncy5naWYfBQICFgYfBgUPQ2xhc3MgT2ZmZXJpbmdzHwcFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2ItJywgJ2JiLScpOx8IBUV0aGlzLmNoaWxkTm9kZXNbMF0uc3JjID0gdGhpcy5jaGlsZE5vZGVzWzBdLnNyYy5yZXBsYWNlKCdiYi0nLCAnYi0nKTtkAgYPZBYCZg8PFggfA2UfAAURL2lkeC9EZWZhdWx0LmFzcHgfBAUdfi9pbWFnZXMvbmF2aWdhdGlvbi9iLWlkeC5naWYfBQICFgYfBgUDSURYHwcFRXRoaXMuY2hpbGROb2Rlc1swXS5zcmMgPSB0aGlzLmNoaWxkTm9kZXNbMF0uc3JjLnJlcGxhY2UoJ2ItJywgJ2JiLScpOx8IBUV0aGlzLmNoaWxkTm9kZXNbMF0uc3JjID0gdGhpcy5jaGlsZE5vZGVzWzBdLnNyYy5yZXBsYWNlKCdiYi0nLCAnYi0nKTtkAh8PFgIfAmZkAiUPZBYCAgEPZBYCZg9kFgICCg8WAh4HRW5hYmxlZGdkAi0PDxYEHwlnHwFnZGQCBQ8PFgIfAAUNL25ld3NmZWVkLnJzc2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBRdjdGwwMCRMb2dpblN0YXR1cyRjdGwwMQUXY3RsMDAkTG9naW5TdGF0dXMkY3RsMDMFHmN0bDAwJExvZ2luQ29udHJvbCRMb2dpbkJ1dHRvbgUMY3RsMDAkaW1nYnRukxqnFF431ZjO47qVY1jj+97Plpk=">
 
 
 <script src="/ScriptResource.axd?d=AJi37g6PtdZGYbhyVMFtrIEtHLYpZLVfHHE6Sm6txVMfNk1Sq-WRhZar4p5jtH19MAiN_vkwTLOjY_F8DLd6IxBtLGnZzwZn0l8d2KYfG9D_Dgq1uzS7N2nP2ZAXBgr4aVW_69gYqkQFcbDFY1GrDTvcQvI1&amp;t=633056617463270414" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=AwBzIy3ybesZf4iHZ2NCxvZYvKu9YmHsYq6lBO_k5dHf2oOL0RSsF_IH7frm5D50bP0cyf69Cn22lP5FIZ7160wkW0ZqG1J0LMDAi0Ptq9tWsorEhHy9RN8s3BZ4ZqT3A3ErXbpdBtA-QvaKhcGH4Rh5Pi01&amp;t=633083934300000000" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=Qs18d9snmBScRiodwbBVRisfa9IERZRNtNdOri5haIUL0-YNRjGSqCkLoV8UiTUC4G5KJbGlIcHFf6088LMtFu-uzi4S4DJPMiYtZ9p7yiss-80_qwgBLsUxr5o1d3xo8tMv29qWHaA7qu-FZaobSvOBgZIeXlMfbWdJ8y-np52VxzOR0&amp;t=633083934300000000" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKDt+KrCQLCpfm4AgLt2OPtDALPvOOCCAKGyeOBCwLUy/L9BgLvuqTpAwLEvrfsC5NlenRRH2Vm1EOkjxKmESovLqpy">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKX/NuMAgLCpfm4AgLt2OPtDALPvOOCCAKGyeOBCwLUy/L9BgLvuqTpAwLEvrfsC8/QfDV5NlSKoaV2HscR76MDwYSB">
         
         
         
@@ -75,15 +158,19 @@ html { height:100%;}
           <tr>
             <td width="248" style="padding-top:6px;"><a href="default.aspx"><img id="ctl00_Image1" src="images/greaterFairfieldCounty1.gif" alt="Greater Fairfield Count CMLS" height="48" width="248" border="0"></a></td>
             <td align="right" class="Tier1_callouts">
-            <table border="0" cellspacing="0" cellpadding="0" style="float:left; margin:22px 0px 10px 14px;">
+            <table border="0" cellspacing="0" cellpadding="0" style="margin:22px 0px 10px 14px; " class="style2">
  			 <tbody><tr>
-    			<td class="Tier0"><a href="default.aspx">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="GeneralInfo/Default.aspx">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ContactUS/Default.aspx">Contact</a></td>
+    			<td class="style1"><a href="default.aspx">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="GeneralInfo/Default.aspx">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ContactUS/Default.aspx">Contact</a></td>
  			 </tr>
 			</tbody></table>
-            <a id="ctl00_hplAdminSupport" href="AdminChat.aspx?im=adminsupport"><img src="http://live.ct-mls.com/status?im=adminsupport" border="0"></a><a id="ctl00_Hplrdesk" href="http://cmls.rdesk.com/LoginPersonal.aspx?ReturnUrl=%2fStartPagePersonal.aspx" target="_self"><img src="images/navcons/rdesk.gif" border="0"></a><a id="ctl00_HyperLink6" href="http://www.listingbook.com/tf_mlslogin?mls=MCTGFC" target="_self"><img src="images/navcons/listingBook.gif" border="0"></a>
-                <a id="ctl00_hplParagon" href="http://cmls.paragonrels.com/ParagonLS/Default.mvc/Login" target="_self"><img src="images/navcons/paragon4.gif" border="0"></a><a id="ctl00_hplSystemStatus" href="http://cmls.rexplorer.net/rex$gfc/rexhome.htm"><!--exStart--><div id="ctl00_SystemStatus1_pnlOnline">
+<script type="text/javascript">
+    // write out link based on group status
+    rwc_writeLink('adminsupport@ct-mls.com', 'ct-mls');
+</script><span id="rwc_id_adminsupport:ct-mls.com"><font size="2">Loading...</font></span>            
+            <a id="ctl00_HyperLink7" href="http://matrix.ct-mls.com/matrix/mobile/wlogin.aspx" target="_self"><img src="images/MX-mobile.jpg" border="0"></a><a id="ctl00_HyperLink6" href="http://www.listingbook.com/tf_mlslogin?mls=MCTGFC" target="_self"><img src="images/navcons/listingBook.gif" border="0"></a>
+            <a id="ctl00_hplSystemStatus" href="http://matrix.ct-mls.com/matrix/login.aspx"><!--exStart--><div id="ctl00_SystemStatus1_pnlOnline">
 	
-    <img id="ctl00_SystemStatus1_imgOnline" src="images/RX_on.gif" alt="System is Operational" border="0">
+    <img id="ctl00_SystemStatus1_imgOnline" src="images/MX_on.gif" alt="System is Operational" border="0">
 </div>
 
 
