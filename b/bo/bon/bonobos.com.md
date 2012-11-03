@@ -1,39 +1,78 @@
-> *The following text is extracted and transformed from the bonobos.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617103328id_/http%3A//www.bonobos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonobos.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103053300id_/http%3A//www.bonobos.com/privacy) for the most accurate reproduction.*
 
-# Bonobos Men's Clothes - Bonobos Men's Clothes - Help Center - Privacy Policy
+# Bonobos Men's Clothes - Help Center - Privacy Policy
 
-## Your Privacy on Bonobos.com
+Bonobos, Inc. (“Bonobos,” “our,” “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.bonobos.com (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. 
 
-This policy covers how Bonobos treats personal information that Bonobos collects and receives, including information related to your past use of Bonobos products. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Bonobos does not own or control, or to people that Bonobos does not employ or manage.
+As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to, collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our company or among our affiliates within the United States or internationally. 
 
-#### Collecting Information
+#### Information Collection and Use
 
-Bonobos collects personal information when you register with Bonobos, when you use Bonobos products, when you visit Bonobos pages or the pages of certain Bonobos partners, and when you enter promotions or sweepstakes. Bonobos may combine information about you that we have with information we obtain from business partners or other companies. When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Bonobos and sign in to our services, you are not anonymous to us. Bonobos automatically receives and records information on our server logs from your browser, including your IP address, Bonobos cookie information, and the page you request. Bonobos uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your use of the Site and to enable users to enjoy and easily navigate the Site (collectively, the “Service”). 
 
-#### Cookies
+#### Personally Identifiable Information. 
 
-Bonobos may set and access Bonobos 'cookies' on your computer. Bonobos lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one.
+* When you register with us through the Site, when you join our mailing list or when you make a purchase via the Site, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (“Personal Information”). Personal Information includes, but is not limited to, your name, phone number, email address, and postal address. If you choose to make a purchase via the Site, our third party payment processor service providers may also collect billing information such as your credit card number or billing address. We use the Personal Information you provide mainly to provide the Service, process your transactions and administer your inquiries. 
+* In order to access additional functionality of the Site, you may be required to create an account for your use of the Service (“Account”). You may create an Account directly via the Site or by logging into your account with certain third party social networking sites (“SNS”) (including, but not limited to, Facebook and Twitter) via our Service. If you decide to create an Account by logging into an SNS via our Service, we will obtain the Personal Information you have provided to the SNS (such as your “real” name, profile picture, email address and other information you make publicly available via the applicable SNS) from the account you have with such SNS and use that information to create your Account. The information we obtain may depend on the privacy settings you have with the SNS. When you create an Account, you will become a “Member” of the Service. 
+* We also collect the other information that you provide as part of account registration and your use of the Service (e.g., without limitation, zip code (on its own) and individual preferences) (“Non-Identifying Information”). 
+* We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries. 
+* Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Bonobos Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions. 
+* We also use your Personal Information to contact you with marketing and promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or contact us at ninjas@bonobos.com with “Privacy” as the subject line of the email. (See “Changing or Deleting Your Information,” below.) 
 
-#### Your Information
+#### Log Data. 
 
-You can edit your Bonobos account information at any time. We reserve the right to send you certain communications relating to the Bonobos service, such as service announcements, administrative messages and the Bonobos Newsletter, that are considered part of your Bonobos account, without offering you the opportunity to opt-out of receiving them. You can delete your account by contacting Bonobos.
+When you visit the Site, whether as a Bonobos Member or a non-registered user just browsing (any of these, a “Bonobos User”), our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. 
 
-#### Confidentiality and Security
+#### Cookies and Pixel Tags
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we use persistent cookies to save your login information for future logins to the Site. Second, we use session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Bonobos Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. 
 
-#### Protecting Your Information
+We may also use “pixel tags,” “web beacons,” “clear GIFs” or similar means (individually or collectively “Pixel Tags”) in connection with our Service to collect usage, demographic and geographical location data. A Pixel Tag is an electronic image, often a single pixel that is ordinarily not visible to users and may be associated with cookies on a user’s hard drive. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns. 
 
-Bonobos does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+#### Sending Emails via the Service
 
-We provide the information to trusted partners who work on behalf of or with Bonobos under confidentiality agreements. These companies may use your personal information to help Bonobos communicate with you about offers from Bonobos and our marketing partners.
+As part of the Service, Members may communicate with third parties through use of their Accounts. When a Member selects the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Bonobos to those email addresses on their behalf. These email addresses will be used only for the purpose of sending the email communication to the addressee. 
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+#### Phishing
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Bonobos' terms of use, or as otherwise required by law.
+Identity theft and the practice currently known as “phishing” are of great concern to Bonobos. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
 
-We transfer information about you if Bonobos is acquired by or merged with another company. In this event, Bonobos will notify you before information about you is transferred and becomes subject to a different privacy policy.
+#### Information Sharing and Disclosure
 
-#### Policy Updates
+**Bonobos Blog.** Bonobos offers a publicly accessible blog at www.bonobos.com/blog (the “Blog”). Please note that any information you provide on the Blog, including, but not limited to, comments, may be read, collected and used by others who access the Blog. Also, if you choose to comment on any Blog post, the content of such comment, along with your name, email address and website URL will be publicly viewable via the Blog. 
 
-Bonobos may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Bonobos account or by placing a prominent notice on our site.
+**SNS**. The Service gives you the option to share information contained in your Account with certain social networking services (i.e. Twitter and Facebook). Bonobos will not share your Account information, which may contain your Personal Information, with such social networking services unless you expressly authorize such disclosure.
+
+**Aggregated Information and Non-Identifying Information.** We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. Any aggregated information shared in these contexts will not contain your Personal Information. 
+
+**Service Providers.** We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, payment processors, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+
+**Compliance with Laws and Law Enforcement.** Bonobos cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Bonobos or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity. 
+
+**Business Transfers.** Bonobos may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+
+#### Changing or Deleting Your Information
+
+All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us or by making edits via the “My Account” section of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your account in our system, please contact us at ninjas@bonobos.com with “Privacy” as the subject line of the email with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
+
+#### Security 
+
+Bonobos is very concerned with safeguarding your information, but no method of transmission over the Internet, or method of electronic storage, is 100% secure. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems.
+
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+#### International Transfer
+
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Bonobos transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+#### Links to Other Sites
+
+Our Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites may follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+#### Our Policy Toward Children
+
+This Site is not directed to persons under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at ninjas@bonobos.com with “Privacy” as the subject line of the email. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+
+#### Contacting Us 
+
+If you have any questions about this Privacy Policy, please contact us at ninjas@bonobos.com with “Privacy” as the subject line of the email or at 45 W. 25th St., 5th Floor, New York, NY 10010.
