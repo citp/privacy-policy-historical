@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626154541id_/http%3A//www.qualityunit.com/company/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103235821id_/http%3A//www.qualityunit.com/company/privacy-policy-quality-unit) for the most accurate reproduction.*
 
 # Privacy Policy - Company
 
 This is the privacy policy for Quality Unit. Our homepage on the Web is located at [http://www.qualityunit.com](http://www.qualityunit.com/ "QualityUnit homepage").  
 If you have any questions about this policy, please contact us. 
 
-**Data Collection**
+## **Data Collection**
 
 **Quality Unit** Cares about your privacy, so we follow The Platform for Privacy Preferences Project, or P3P practices. P3P was designed to give web users more precise control of the kind of information that they want to allow to be released. 
 
@@ -84,7 +84,7 @@ The following explanation is provided for why this data is collected:
 
 
 
- **Cookies**
+##  **Cookies**
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
@@ -97,7 +97,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 
 
- **Compact Policy Summary**
+##  **Compact Policy Summary**
 
 The compact policy which corresponds to this policy is: 
 
@@ -129,7 +129,7 @@ The following table explains the meaning of each field in the compact policy.
   
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
 
-**Policy Evaluation**
+## **Policy Evaluation**
 
 Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
 
