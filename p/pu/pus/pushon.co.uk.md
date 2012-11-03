@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushon.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511081434id_/http%3A//www.pushon.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushon.co.uk privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103141712id_/http%3A//www.pushon.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PushON
 
@@ -23,7 +23,7 @@ We may collect the following information:
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping. 
+  * Internal record keeping.
   * We may use the information to improve our products and services.
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
@@ -43,6 +43,8 @@ We use traffic log cookies to identify which pages are being used. This helps us
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+For further information about the cookies we use and what they do have a look at our [cookies in use on this site](http://www.pushon.co.uk/privacy/cookies/ "Cookies In Use on This Site") page.
 
 ## Links to other websites
 
