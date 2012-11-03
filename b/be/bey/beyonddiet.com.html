@@ -1,11 +1,69 @@
-<!--The following is the downloaded HTML source of the beyonddiet.com privacy policy that was archived on 2012-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120428002819id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beyonddiet.com privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103011809id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:bd="http://www.beyonddiet.com/2011/bdml" xml:lang="en" lang="en"><head>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.8.1.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.inputhints.min.js"></script>
+    <script type="text/javascript">
+        window.onerror = function logJavascriptError(msg, url, line) {
+            try {
+                $.ajax({
+                    url: '/Home/LogError',
+                    data: { message: msg, url: url, line: line },
+                    dataType: "json",
+                    type: 'POST',
+                    timeout: 1000,
+                    cache: false
+                });
+            }
+            catch (err) {
+                logError(err);
+            }
+
+            return false;
+        };
+
+        // create the ajax handler
+        function logAjaxError(jqXHR, url) {
+            var msg = jqXHR.status + ' ' + jqXHR.textStatus;
+
+            try {
+                $.ajax({
+                    url: '/Home/LogError',
+                    data: { message: msg, url: url, line: 'unknown' },
+                    dataType: "json",
+                    type: 'POST',
+                    timeout: 1000,
+                    cache: false
+                });
+            }
+            catch (err) {
+                logError(err);
+            }
+        }
+
+        // create the general handler
+        function logError(msg) {
+            try {
+                $.ajax({
+                    url: '/Home/LogError',
+                    data: { message: msg, url: window.location.href, line: 'unknown' },
+                    dataType: "json",
+                    type: 'POST',
+                    timeout: 1000,
+                    cache: false
+                });
+            }
+            catch (err) {
+                // intentionally swallow here
+            }
+        }
+    </script>
+
     
 
 <!-- ChartBeat -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">    var _sf_startpt = (new Date()).getTime()</script>
+<script type="text/javascript">    var _sf_startpt = (new Date()).getTime()</script>
 
 <!-- GA -->
 <script type="text/javascript">
@@ -38,11 +96,10 @@
     
 
 Beyond Diet
-</title><link rel="stylesheet" href="/content/reset.css"><link rel="stylesheet" href="/content/text.css"><link rel="stylesheet" href="/content/960.css"><link rel="Stylesheet" type="text/css" href="/Content/fonts.css?27501553">
-<link rel="Stylesheet" type="text/css" href="/Content/Site.css?27501553">
-<link rel="Stylesheet" type="text/css" href="/Content/jquery-ui.css?27501553">
-
-
+</title><script type="text/javascript" src="/scripts/site.js?2399524"></script>
+<link rel="stylesheet" href="/content/reset.css"><link rel="stylesheet" href="/content/text.css"><link rel="stylesheet" href="/content/960.css"><link rel="Stylesheet" type="text/css" href="/Content/fonts.css?2399524">
+<link rel="Stylesheet" type="text/css" href="/Content/Site.css?2399524">
+<link rel="Stylesheet" type="text/css" href="/Content/jquery-ui.css?2399524">
 
     <!--[if IE 7]>
     <link rel="stylesheet" href="/content/ie7.css" />
@@ -51,16 +108,10 @@ Beyond Diet
     <!--[if IE 8]><link rel="stylesheet" href="/content/ie8.css" /><![endif]-->
     <!--[if gte IE 9]><link rel="stylesheet" href="/content/ie9.css" /><![endif]-->
     
-    <script type="text/javascript" src="/scripts/jquery-1.4.4.min.js"></script>
-    <script type="text/javascript" src="/scripts/jquery.inputhints.min.js"></script>
-
-    <script type="text/javascript" src="/scripts/site.js?27501553"></script>
-
     
 
 <script type="text/javascript">
     var curvyCornersVerbose = false;        
-
 </script>
 
 
@@ -70,92 +121,86 @@ Beyond Diet
 
 <meta property="og:site_name" content="Beyond Diet">
 <meta property="fb:app_id" content="141845559221852">
-<meta property="fb:admins" content="47702244,562453015,527287623,47700560">
 
 
-<link rel="Stylesheet" type="text/css" href="/areas/members/content/Collapsible.css?27501553">
-<link rel="Stylesheet" type="text/css" href="/areas/members/content/Tips.css?27501553">
-<link rel="Stylesheet" type="text/css" href="/areas/members/content/Members.css?27501553">
+<script type="text/javascript">
+
+    var beyondDietUrl = '//www.beyonddiet.com';
+    var servicesUrl = '//services.beyonddiet.com';
+
+</script>
+
+<link rel="Stylesheet" type="text/css" href="/areas/members/content/Collapsible.css?2399524">
+<link rel="Stylesheet" type="text/css" href="/areas/members/content/Tips.css?2399524">
+<link rel="Stylesheet" type="text/css" href="/areas/members/content/Members.css?2399524">
 
 
-<script type="text/javascript" src="/areas/members/scripts/members.js?27501553"></script>
-<script type="text/javascript" src="/scripts/jquery-ui-1.8.7.custom.min.js?27501553"></script>
-<script type="text/javascript" src="/scripts/jquery.cookie.js?27501553"></script>
-<script type="text/javascript" src="/scripts/api.js?27501553"></script>
-<script type="text/javascript" src="/areas/members/scripts/Collapsible.js?27501553"></script>
-<script type="text/javascript" src="/areas/members/scripts/Tips.js?27501553"></script>
+<script type="text/javascript" src="/areas/members/scripts/members.js?2399524"></script>
+<script type="text/javascript" src="/scripts/jquery-ui-1.8.23.custom.min.js?2399524"></script>
+<script type="text/javascript" src="/scripts/jquery.cookie.js?2399524"></script>
+<script type="text/javascript" src="/scripts/api.js?2399524"></script>
+<script type="text/javascript" src="/areas/members/scripts/Collapsible.js?2399524"></script>
+<script type="text/javascript" src="/areas/members/scripts/Tips.js?2399524"></script>
 
 
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Rock+Salt">
 <link rel="icon" href="//d3f3hlqdx4azlp.cloudfront.net/icons/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="//d3f3hlqdx4azlp.cloudfront.net/icons/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="/areas/members/content/Print.css" media="print"><script type="text/javascript" src="/Scripts/EmailSequenceOptIn.js?27501553"></script>
-<script type="text/javascript" src="/scripts/MicrosoftAjax.js?27501553"></script>
-<script type="text/javascript" src="/scripts/MicrosoftMvcAjax.js?27501553"></script>
+<link rel="stylesheet" type="text/css" href="/areas/members/content/Print.css" media="print"><script type="text/javascript" src="/Scripts/EmailListOptIn.js?2399524"></script>
+<script type="text/javascript" src="/scripts/MicrosoftAjax.js?2399524"></script>
+<script type="text/javascript" src="/scripts/MicrosoftMvcAjax.js?2399524"></script>
 
      
 
 
 </head>
-<body>
+<body>    
     
     
-
 
     <div id="head" class="container_12">
-
         <div class="grid_5">
-
             
     
 <a href="/">
     <img src="//d3f3hlqdx4azlp.cloudfront.net/images/logo.png" alt="Beyond Diet"></a>
-
         </div>
-
         <div id="quick_menu" class="grid_7">
-
             <div class="right">
-
                 
     
-
-
-
-<a target="_blank" href="http://go.beyonddiet.com/FacebookFanpage"><img src="http://www.facebook.com/favicon.ico" alt="Join our Facebook Fanpage!" style="margin-top: 2px;"></a>
-<a target="_blank" href="http://go.beyonddiet.com/TwitterPage"><img src="http://www.twitter.com/favicon.ico" alt="Follow us on Twitter!" style="margin-top: 2px;margin-left:8px;"></a>
-<a target="_blank" href="http://go.beyonddiet.com/YoutubePage"><img src="http://www.youtube.com/favicon.ico" alt="Subscribe to us on YouTube" style="margin-top: 2px;margin-left:8px;"></a>
-
-<div class="quick_divide">
-</div>
-
-<a class="bold" href="/Members/Downloads">My Downloads</a>
-
-<div class="quick_divide">
-</div>
-
-<a href="/Members/Contact">Contact</a>
-
-<div class="quick_divide">
-</div>
-
-<a class="home-login-top-link" href="/Members/Account/LogOn?returnUrl=%2FMembers%2FPages%2FPrivacyPolicy">Log on</a>
-
+<div class="small-tm left">
+    
+    
+    <a target="_blank" href="http://go.beyonddiet.com/FacebookFanpage">
+        <img src="http://www.facebook.com/favicon.ico" alt="Join our Facebook Fanpage!" style="margin-top: 2px;"></a>
+    <a target="_blank" href="http://go.beyonddiet.com/YoutubePage">
+        <img src="//www.youtube.com/favicon.ico" alt="Subscribe to us on YouTube" style="margin-top: 2px;
+            margin-left: 8px;"></a> <a target="_blank" href="http://go.beyonddiet.com/pinterest">
+                <img src="//pinterest.com/favicon.ico" alt="Check out our Pinterest page!" style="margin-top: 2px;
+                    margin-left: 4px;"></a> <a target="_blank" href="http://go.beyonddiet.com/TwitterPage">
+                        <img src="//www.twitter.com/favicon.ico" alt="Follow us on Twitter!" style="margin-top: 2px;
+                            margin-left: 8px;"></a>
+    <div class="quick_divide"></div>
+    <a href="/Members/Contact">Contact Us</a>
+    <div class="quick_divide"></div>
+    <a href="/Members/Account/Register">Register</a>
+    
+    <div class="quick_divide"></div>
+    
+</div> <a href="/bd/login">
+    <img src="https://s3.amazonaws.com/beyonddiet/buttons/login-button.png" alt="Login"></a>
 
             </div>
-
         </div>
-
     </div>
-
     
     
 <a id="navigation" name="navigation"></a>
 <div id="nav" class="container_12">
-   
+    
+    <ul id="Ul1" class="list anon">
         
-            <ul id="Ul1" class="list anon">
-           
 
 <li class="first ">
     <a class="pri" href="/BD" style="width: 930px; padding: 12px 0px;">Home</a></li>
@@ -174,7 +219,7 @@ Beyond Diet
 
 <li class="">
     <a class="pri" href="/Members/Categories/Shopping-List" style="width: 930px; padding: 12px 0px;">
-        Shopping</a></li>
+            Products</a></li>
 
 
                 <script type="text/javascript">
@@ -185,20 +230,35 @@ Beyond Diet
                         });
                     });
         </script>
-            </ul>
-           
-        
-
+    </ul>
+    
 </div>
 
-
-
     <div id="main" class="container_12">
-
         
 
     <div id="content_top" class="fullPage grid_12">
     
+<script type="text/javascript">
+    $(function () {
+        var pathName = document.location.pathname.toLowerCase();
+        var possiblePaths = new Array("/members/tools", "/members/stories", "/members/ask", "/members/recipes", "/members/categories", "/members/articles");
+
+        for (var i = 0; i < possiblePaths.length; i++) {
+            if (pathName.indexOf(possiblePaths[i]) != -1) {
+                if (readCookie('Yummy') != null && JSON.parse(readCookie(cookieName)).Food != "")
+                    addStatCount('EFPI-' + pathName, "{'Food':'" + JSON.parse(readCookie(cookieName)).Food + "'}"); // log email form page impression
+                else
+                    addStatCount('EFPI-' + pathName); // log email form page impression
+                pathName = pathName.substr(0, pathName.indexOf(possiblePaths[i]) + possiblePaths[i].length); // need to truncate the pathname to be able to query for leads analytics
+            }
+        }
+        if (readCookie('Yummy') != null && JSON.parse(readCookie(cookieName)).Food != "")
+            addStatCount('EFI-' + pathName, "{'Food':'" + JSON.parse(readCookie(cookieName)).Food + "'}"); // log email form impression
+        else
+            addStatCount('EFI-' + pathName); // log email form impression
+    });
+</script>
 <style type="text/css">
     #content_top.fullPage
     {
@@ -274,166 +334,45 @@ Beyond Diet
     }
     .anonLogin
     {
-        width:233px;
-        height:117px;
-        margin-left:5px;
-        margin-top:8px;    
-        background:url(//d3f3hlqdx4azlp.cloudfront.net/images/nonMember-Login.png) no-repeat;
+        width: 233px;
+        height: 117px;
+        margin-left: 5px;
+        margin-top: 8px;
+        background: url(//d3f3hlqdx4azlp.cloudfront.net/images/nonMember-Login.png) no-repeat;
     }
 </style>
 <a href="http://go.beyonddiet.com/BurnFat">
     <div id="watch">
         <div class="text">
-            <p>
-                Find more about the program and get</p>
-            <p>
-                <span style="color: #f9bb91;">WEIGHT LOSS and FAT BURNING</span></p>
-            <p>
-                tips you can use right now!</p>
+            <p>Find more about the program and get</p>
+            <p><span style="color: #f9bb91;">WEIGHT LOSS and FAT BURNING</span></p>
+            <p>tips you can use right now!</p>
         </div>
     </div>
-  
 </a>
-
 <div class="anonLogin left">
     
-<link rel="Stylesheet" href="/Content/bubbletip/bubbletip.css">
-<script type="text/javascript" src="/scripts/jQuery.bubbletip-1.0.6.js"></script>
-
-<style type="text/css">
-    .login-textbox
-    {
-        width:120px;
-        height:24px;
-    }
-    #login-now-button, .password-edit
-    {
-        margin-bottom:0px;
-    }
-    .newsletter-signup
-    {
-        height: 113px;
-    }
-    iframe
-    {
-        margin-left:15px;    
-    }
-    #login-now-button
-    {
-        padding:3px 11px;
-        }
-</style>
-<script type="text/javascript">
-    $(function () {
-        $('input[title]').inputHints();
-        $('input#Password').hide();
-
-        $('input#PasswordLabel').focus(function () {
-            $('input#PasswordLabel').hide();
-            $('input#Password').show().focus();
-        });
-
-        $('input#Password').blur(function () {
-            if ($('input#Password').attr('value') == '') {
-                $('input#Password').hide();
-                $('input#PasswordLabel').show();
-            }
-        });
-
-        var checkedCreds = false;
-        $('#logOn').submit(function () {
-            if (checkedCreds) // bypass if we've already checked
-                return true;
-
-            if ($('#UserName').val() == '' || $('#Password').val() == '') {
-                $('#validation-message').html("Please enter your username/email and password.");
-                showValidationMsg();
-            }
-            else {
-                // ajax authenticate before submitting
-                $.ajax({
-                    url: 'https://www.beyonddiet.com/BD/Account/Authenticate',
-                    data: { userID: $('#UserName').val(), password: $('#Password').val() },
-                    type: 'GET',
-                    dataType: 'jsonp',
-                    cache: false,
-                    success: function (data) {
-                        if (data.isValid) {
-                            checkedCreds = true;
-                            $('#logOn').submit();
-                        }
-                        else {
-                            $('#validation-message').html(data.message);
-                            showValidationMsg();
-                        }
-                    },
-                    error: function (res) { // error event does not get triggered for jsonp requests
-                        // log error
-                        $.ajax({
-                            url: '/Members/Home/LogError',
-                            data: { message: res.responseText },
-                            type: 'POST',
-                            cache: false
-                        });
-
-                        // try to post anyway
-                        checkedCreds = true;
-                        $('#logOn').submit();
-                    }
-                });
-            }
-
-            return false;
-        });
-
-        function showValidationMsg() {
-            // show bubble validation message
-            $('input#UserName').bubbletip($('#validation-message'), {
-                width: 400,
-                bindShow: 'focus',
-                bindHide: 'blur',
-                offsetTop: 10
-            }).focus();
-        }
-    });
-</script>
-<!-- Tooltip validation messages -->
-<div id="validation-message" class="error" style="display: none;">
-    Your username or password is incorrect.
-</div>
-<div class="login-now" style="position: relative;">
     
+<div id="pub-quiz" style="position: relative; text-align: center">
     
-    
-    <form action="https://www.beyonddiet.com/Members/Account/LogOn" method="post" id="logOn">
-    <input type="hidden" name="returnUrl" value="/Members/Pages/PrivacyPolicy">
-    <div class="editor-field">
-        <input class="login-textbox small-tm small-lm hint" id="UserName" name="UserName" title="Username or Email" type="text" value="">
-    </div>
-    <div class="editor-field left password-edit">
-        <input class="login-textbox small-lm" id="Password" name="Password" type="password" style="display: none;">
-        <input id="PasswordLabel" name="PasswordLabel" value="Password" class="hint login-textbox small-lm" type="text">
-    </div>
-    <button type="submit" class="button orange left smaller-lm" id="login-now-button">Login
-    </button>
-   
-
-    <div class="clear-both smaller-lm">
-        <input checked="checked" id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">
-        <label for="RememberMe" style="font-weight: normal; color: #fff; font-size: 11px;">
-            Remember Me?</label>
-    </div>
-    <p class="small-lm" style="font-weight: normal; color: #fff; font-size: 12px;">
-        <a style="color:#fff;" href="/BD/Account/Register"><b>New User? &nbsp;Register Here</b></a>
-    </p>
-    </form>
-    
+        <div id="pub-quiz-text">
+            Think you're smart
+            <br>
+            about fat loss?
+        </div>
+    <a href="/BD/Quiz/DietKnowledge">
+        <button id="btnPubQuiz" type="submit" class="button orange smaller-lm">
+            Test Your
+            <br>
+            Knowledge Here!
+        </button>
+    </a>
 </div>
 
 </div>
-
-<div class="box" style="border: solid 1px #CCC;width: 225px;height: 115px;margin-top: 8px;float: left;margin-left: 10px;">
-     
+<div class="box" style="border: solid 1px #CCC; width: 225px; height: 115px; margin-top: 8px;
+    float: left; margin-left: 10px;">
+    
 
 <div class="box newsletter-signup">
     <h4 class="sidebar-newsletter" style="padding: 0px 87px 0px 6px;">
@@ -446,25 +385,29 @@ Beyond Diet
     
 
 <div id="ESForm">
-    <form action="/Members/EmailSequence/SubmitEmail" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, loadingElementId: 'ESLoading', updateTargetId: 'ESResponse', onBegin: Function.createDelegate(this, ESValidate), onFailure: Function.createDelegate(this, ESError), onSuccess: Function.createDelegate(this, ESSubmitted) });"><input id="ESEmail" name="ESEmail" title="Enter Email" type="text" value="" class="hint">
+
+    <form action="">
+    <input id="ESEmail" name="ESEmail" title="Enter Email" type="text" value="">
     <input id="ESFood" name="ESFood" type="hidden">
     <input id="ESTag" name="ESTag" type="hidden">
     <input id="ESVTag" name="ESVTag" type="hidden">
     <input id="ESHost" name="ESHost" type="hidden" value="www.beyonddiet.com">
     <input id="ESPage" name="ESPage" type="hidden" value="/Members/Pages/PrivacyPolicy">
-    <input id="ESReferrer" name="ESReferrer" type="hidden" value="">
-    <input id="ESSequence" name="ESSequence" type="hidden" value="Beyond Diet E-Course Newsletter">
-    <input id="ESTags" name="ESTags" type="hidden" value="Subscribers,PubBar">
+    <input id="ESReferrer" name="ESReferrer" type="hidden" value="http://www.beyonddiet.com/BD">
+    <input id="ESLists" name="ESLists" type="hidden" value="648">
+    <input id="ESTriggeredEmails" name="ESTriggeredEmails" type="hidden" value="">
     <input id="ESFormLocation" name="ESFormLocation" type="hidden" value="PubBar">
     <input id="ESSubmit" type="submit" value="Sign Up" class="button">
-    
     <span id="ESLoading" class="loading" style="display: none">&nbsp; </span>
 
     <div id="ESResponse" class="red clear-left" style="display: none;">
     </div>
-    <div class="clear"></div>
+
+    <div class="clear">
+    </div>
 
     </form>
+
 </div>
 
     <div class="clear"></div>
@@ -476,10 +419,6 @@ Beyond Diet
 
 
 </div>
-
-
-
-
 
     </div>
 
@@ -495,7 +434,7 @@ Beyond Diet
         Privacy Policy</h1>
 
     <p>
-        LIVE SMART SOLUTIONS, Inc., a Nevada limited liability company (“LIVE SMART SOLUTIONS”)
+        LIVE SMART SOLUTIONS LLC, a Nevada limited liability company (“LIVE SMART SOLUTIONS”)
         is engaged in the business of selling the The Beyons Diet Program Products and
         distributing information in the form of newsletters, current research, and articles
         and selling e-books, audios and videos (“Products”) associated with nutrition, diet,
@@ -696,7 +635,7 @@ Beyond Diet
         Suite 200D Mt. Pleasant, SC 29466, or via email at info [at] beyonddiet.com.</p>
 
     <p style="text-decoration: underline;">
-        LIVE SMART SOLUTIONS Inc.<br>
+        LIVE SMART SOLUTIONS LLC<br>
         3405 Salterbeck Street Suite 200D<br>
         Mt. Pleasant, SC 29466
     </p>
@@ -723,20 +662,12 @@ Beyond Diet
 </div>
 
 
-
         <div id="site_menu">
-
             
     
 <p>
-    <a href="/Members">Home</a> | <a href="/Members/Tools">
-        Tools</a> | <a href="/Members/Ask">Ask a Question</a> |
-    <a href="/Members/Stories">Share</a> | <a href="/Members/Recipes">
-        Recipes</a> | <a href="/Members/Categories/Shopping-List">
-            Shopping</a> | <a href="/Members/Categories/Weight-Loss-Articles">
-                Articles</a>
-</p>
-<p>
+    <a href="/Members">Home</a> | <a href="/Members/Categories/Weight-Loss-Articles">
+                Articles</a> | 
     <a href="/Members/Pages/HealthDisclaimer">Health Disclaimer</a>
     |
     <a href="/Members/Pages/PrivacyPolicy">Privacy Policy</a>
@@ -751,7 +682,7 @@ Beyond Diet
     |
     <a href="/Members/Contact">Contact</a>
     |
-    <a href="/Members/Pages/AboutIsabel">About Isabel</a>
+    <a href="/Members/Pages/Isabel-De-Los-Rios">About Isabel</a>
     |
     <a href="/Members/Account/LogOn">Log on</a>
     
@@ -759,14 +690,11 @@ Beyond Diet
 <p id="legal">
     ©
     2012
-    Live Smart Solutions, Inc.
+    Live Smart Solutions LLC
 </p>
 
-
         </div>
-
     </div>
-
     
 
     
@@ -794,7 +722,6 @@ Beyond Diet
     })();
 
 </script>
-
 
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
