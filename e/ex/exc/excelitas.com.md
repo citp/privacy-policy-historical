@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the excelitas.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621071634id_/http%3A//www.excelitas.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelitas.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103222242id_/http%3A//www.excelitas.com/pages/privacy.aspx) for the most accurate reproduction.*
 
-# 
-
-**Privacy Policy**
+# Privacy
 
 Excelitas Technologies Corp. and affiliates (“us,” “we” or “our”) created this Web Site Privacy Policy (“Privacy Policy”) to ensure the confidence of our visitors and clients (“you” or “your”) with our Web site (the “Site”), and to demonstrate our commitment to fair information practices and to protect your privacy.
 
