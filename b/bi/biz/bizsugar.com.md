@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizsugar.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607001715id_/http%3A//www.bizsugar.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizsugar.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103040402id_/http%3A//www.bizsugar.com/page/privacy) for the most accurate reproduction.*
 
 # Small business news; tips; networking | BizSugar | Privacy Policy
 
