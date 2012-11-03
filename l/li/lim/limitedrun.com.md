@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limitedrun.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626082121id_/http%3A//limitedrun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limitedrun.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103031110id_/http%3A//limitedrun.com/privacy) for the most accurate reproduction.*
 
-# Limited Run - Hosted stores for people selling unique products.
+# Limited Run - A platform for labels, musicians, and artists.
 
 We collect information from you when you register on our site.
 
