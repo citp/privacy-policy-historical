@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the synology.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619053257id_/http%3A//www.synology.com/company/privacy.php%3Flang%3Dus) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the synology.com privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103212018id_/http%3A//www.synology.com/company/privacy.php%3Flang%3Dus) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,15 +36,21 @@ behavior: url(http://www.synology.com/js/ie-css3.htc);
 
 <!--script for search input value-->
 <script type="text/javascript">
+/*                               
 $(function(){
-var o=$('#js_language').val('Search');
+//var o=$('#js_language').val('Search');
 $('#js_language').focus(function(){
 	//console.log(o);
-	$(this).val('');
+    if ('Search' == $(this).val()) {
+        $(this).val('');
+	}
 }).focusout(function(){
-	$(this).val('Search');
+	if ('' == $.trim($(this).val())) {
+        $(this).val('Search');
+    }
+});
 })
-})
+*/
 </script>
 
 </head>
@@ -73,6 +79,7 @@ $('#js_language').focus(function(){
 		<li><a href="http://www.synology.com/index.php?lang=cht">繁體中文</a></li>
 		<li><a href="http://www.synology.com/index.php?lang=chs">简体中文</a></li>
 		<li><a href="http://www.synology.com/index.php?lang=jpn">日本語</a></li>
+		<li><a href="http://www.synology.com/index.php?lang=kor">한국어</a></li>
 	</ul>
 </div>
 <a href="#" name="jumpMenu" id="langMenu" class="lang_div" onchange="ChangeLanguage();"> English-US </a>
@@ -80,7 +87,7 @@ $('#js_language').focus(function(){
 <div id="header_search"> 
 <form action="http://www.google.com/cse" target="_blank">
 <input type="hidden" name="cx" value="017354781659461153473:cqa2y-ovvhk">
-<input class="searchbox" type="text" name="q" size="15" id="js_language" value="Search">
+<input class="searchbox" type="text" name="q" size="15" id="js_language" value="enu">
 <input class="searchbtn" type="submit" name="sa" value="">
 </form>
 </div>
@@ -102,73 +109,94 @@ $('#js_language').focus(function(){
 		<a class="nav_us_item first" href="http://www.synology.com/products/index.php?lang=us">Products</a> | 
 		<div class="submenu products">
 			<ul class="left"> 
-				<li class="dropdownitem_header"><a href="http://www.synology.com/products/choose.php?lang=us">Choose your DiskStation</a></li>
+				<!--li class="dropdownitem_header"><a href="http://www.synology.com/products/choose.php?lang=us">Choose your DiskStation</a></li-->
 				<li class="dropdownitem_header">Large Scale Business</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS3612xs&amp;lang=us">DiskStation DS3612xs</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/product.php?product_name=RS3412xs&amp;lang=us">RackStation RS3412xs/RS3412RPxs</a></li>
+				
 				<li class="dropdownitem_header">Standard Business</li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS2411%2B&amp;lang=us">DiskStation DS2411+</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS2413%2B&amp;lang=us">DiskStation DS2413+</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=RS2212%2B&amp;lang=us">RackStation RS2212+/RS2212RP+</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS1812%2B&amp;lang=us">DiskStation DS1812+</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS1512%2B&amp;lang=us">DiskStation DS1512+</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=RS812%2B&amp;lang=us">RackStation RS812+/RS812RP+</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS712%2B&amp;lang=us">DiskStation DS712+</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS412%2B&amp;lang=us">DiskStation DS412+</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/product.php?product_name=DS212%2B&amp;lang=us">DiskStation DS212+</a></li>
+				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/product.php?product_name=DS213%2B&amp;lang=us">DiskStation DS213+</a></li>
 				
 				<li class="dropdownitem_header">Workgroups &amp; Small Business</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=RS812&amp;lang=us">RackStation RS812</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=RS212&amp;lang=us">RackStation RS212</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS411&amp;lang=us">DiskStation DS411</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS212&amp;lang=us">DiskStation DS212</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/product.php?product_name=DS112&amp;lang=us">DiskStation DS112</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS413&amp;lang=us">DiskStation DS413</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS213&amp;lang=us">DiskStation DS213</a></li>
+				<li class="dropdownitem_last"><a href="http://www.synology.com/products/product.php?product_name=DS112&amp;lang=us">DiskStation DS112</a></li>
+			</ul>
+			
+			<ul class="middle"> 
 				<li class="dropdownitem_header">Personal &amp; Home Office</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS411slim&amp;lang=us">DiskStation DS411slim</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS411j&amp;lang=us">DiskStation DS411j</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS413j&amp;lang=us">DiskStation DS413j</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS213air&amp;lang=us">DiskStation DS213air</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS212j&amp;lang=us">DiskStation DS212j</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/product.php?product_name=DS112j&amp;lang=us">DiskStation DS112j</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/product.php?product_name=USB Station 2&amp;lang=us">USB Station 2</a></li>
-			</ul>
-			<ul class="right"> 
+				
 				<li class="dropdownitem_header">Surveillance</li>
-				<li class="dropdownitem"><a href="http://www.synology.com/surveillance/index.php?lang=us">Surveillance Station</a></li>
+				<!--li class="dropdownitem"><a href="http://www.synology.com/surveillance/index.php?lang=us">Surveillance Station</a></li-->
 				<li class="dropdownitem"><a href="http://www.synology.com/products/dsm_livedemo.php?lang=us">Surveillance Station Demo</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/nvr.php?lang=us">NVR Selector</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/vs80.php?lang=us">VS80</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/license_pack.php?lang=us">Camera License Pack</a></li>
-				<li class="dropdownitem_header">Expansion Units</li>
-                	<li class="dropdownitem"><a href="http://www.synology.com/products/dx1211.php?lang=us">DX1211</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/dx510.php?lang=us">DX510</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/rx1211.php?lang=us">RX1211/RX1211RP</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/rx410.php?lang=us">RX410</a></li>
 				
+				<li class="dropdownitem_header">Expansion Units</li>
+                <li class="dropdownitem"><a href="http://www.synology.com/products/dx1211.php?lang=us">DX1211</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/DX513.php?lang=us">DX513</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/DX213.php?lang=us">DX213</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/rx1211.php?lang=us">RX1211/RX1211RP</a></li>
+				<li class="dropdownitem_last"><a href="http://www.synology.com/products/rx410.php?lang=us">RX410</a></li>
+			</ul>
+			
+			<ul class="right"> 
 				<li class="dropdownitem_header">Accessories</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/2.5_hd_holder.php?&amp;lang=us">2.5" Disk Holder</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/rail_kit.php?lang=us">Rail Kit</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/ram_module.php?lang=us">RAM Module</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/synology_remote.php?lang=us">Synology Remote</a></li>
-				<li class="dropdownitem_header">Other Resources</li>
+				
+				<!--li class="dropdownitem_header">Other Resources</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/dsm_livedemo.php?lang=us">DSM 4.0 Live Demo</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/tutorials/tutorials.php?lang=us">Tutorials &amp; Webinars</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/support/video_your_cloud.php?lang=us">Video Gallery</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/choose.php?lang=us">How to Choose a DiskStation</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/compare_spec.php?lang=us">View Technical Product Specs</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/products/brochures.php?lang=us">Product Brochures</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/status.php?lang=us">Product Support Status</a></li>
+				<li class="dropdownitem_btm"><a href="http://www.synology.com/products/status.php?lang=us">Product Support Status</a></li-->
+				
+				<li class="dropdownitem_header"><a href="http://www.synology.com/us/resources/getting_started.php">Getting Started</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/network_attached_storage.php">What is NAS?</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/new_to_synology.php">New to Synology?</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/choose.php?lang=us">Which Product Do I Choose?</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/products/brochures.php?lang=us">Product Brochures</a></li>
+				<!--li class="dropdownitem"><a href="http://www.synology.com/tutorials/tutorials.php?lang=us">Tutorials</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/webinar/index.php">Webinars</a></li-->
+				<li class="dropdownitem"><a href="http://www.synology.com/support/video_your_cloud.php?lang=us">Video Gallery</a></li>
+				<li class="dropdownitem_btm"><a href="http://forum.synology.com/wiki/index.php/Getting_Started_with_the_Synology_Disk_Station" target="_blank">Installation Guide (Wiki) </a></li>
+				
 				<li class="dropdownitem_header"><a href="http://www.synology.com/support/compatibility.php?lang=us">Compatibility List</a></li>
-				<li class="dropdownitem_header"><a href="https://myds.synology.com/support/register.php?lang=us">MyDS Center</a></li>
+				<!--li class="dropdownitem_header"><a href="https://myds.synology.com/support/register.php?lang=us">MyDS Center</a></li-->
 			</ul>
 		</div>
 	</li><!--Products end-->
 	<!--DSM-->
 	<li class="haschildren"> 
-		<a class="nav_us_item" href="http://www.synology.com/dsm/index.php?lang=us">DSM 4.0</a> | 
+		<a class="nav_us_item" href="http://www.synology.com/dsm/index.php?lang=us">DSM 4.1</a> | 
 			<ul class="submenu dsm"> 
 				<li><a href="http://www.synology.com/dsm/index.php?lang=us">Highlight</a></li>
 				<li><a href="http://www.synology.com/dsm/dsm_for_home.php?lang=us">For Home</a></li>
 				<li><a href="http://www.synology.com/dsm/dsm_for_business.php?lang=us">For Business</a></li>
 				<li><a href="http://www.synology.com/dsm/dsm_user_interface.php?lang=us">User Interface</a></li>
-				<li><a href="http://www.synology.com/dsm/dsm_app.php?lang=us">Apps</a></li>
+				<li><a href="http://www.synology.com/dsm/dsm_app.php?lang=us">Packages</a></li>
+				<li><a href="http://www.synology.com/products/dsm_livedemo.php?lang=us">DSM Live Demo</a></li>
 			</ul> 
 	</li>
 	<!--DSM end-->
@@ -177,7 +205,7 @@ $('#js_language').focus(function(){
 		<a class="nav_us_item" href="http://www.synology.com/us/solutions/index.php">Solutions</a> | 
 		<div class="submenu solution">
 			<ul class="left"> 
-				<li class="dropdownitem_header"><a href="http://www.synology.com/us/solutions/index.php">Industry Solutions</a></li>
+				<li class="dropdownitem_header">Industry Solutions</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/architecture_engineering/index.php">Architecture/Engineering</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/education/index.php">Education</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/healthcare/index.php">Healthcare</a></li>
@@ -186,21 +214,24 @@ $('#js_language').focus(function(){
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/publishing/index.php">Publishing</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/research/index.php">Research</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/us/solutions/surveillance/index.php">Surveillance NVR</a></li>
+				
 				<li class="dropdownitem_header">Home &amp; Business Solutions</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/pc_alternative/pc_alternative.php">DiskStations as File Servers</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/us/solutions/productivity/index.php">Office Productivity on a Budget</a></li>
+				
 				<li class="dropdownitem_header">Complete Backup</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/tape_replacement/tape_replacement.php">Tape Replacement</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/backup/index.php">Time Machine Backup</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/backup/backup_office/bkp_office.php">Office Backup</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/backup/backup_remote/bkp_remote.php">Network/Remote Backup</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/us/solutions/backup/linux_unix_backup/index.php">Linux/Unix Backup</a></li>
-                <li class="dropdownitem_header">Growth and Expansion</li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/iSCSI/index.php">iSCSI - Virtualization</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/us/solutions/storage_expansion/index.php">Storage Expansion</a></li>
 			</ul>
 			<ul class="right"> 
-								<li class="dropdownitem_header"><a href="http://www.synology.com/us/solutions/cross_plat/index.php">Cross Platform</a></li>
+				<li class="dropdownitem_header">Growth and Expansion</li>
+				<li class="dropdownitem"><a href="http://www.synology.com/us/solutions/iSCSI/index.php">iSCSI - Virtualization</a></li>
+				<li class="dropdownitem_btm"><a href="http://www.synology.com/us/solutions/storage_expansion/index.php">Storage Expansion</a></li>
+				
+				<li class="dropdownitem_header"><a href="http://www.synology.com/us/solutions/cross_plat/index.php">Cross Platform</a></li>
 				<li class="dropdownitem_header"><a href="http://www.synology.com/us/solutions/remote_access/index.php">Remote Access</a></li>
 				<li class="dropdownitem_header"><a href="http://www.synology.com/dsm/home_mobile_support_ds_audio.php?lang=us">Mobile Solutions</a></li>
 
@@ -208,18 +239,12 @@ $('#js_language').focus(function(){
 				<li class="dropdownitem"><a href="http://www.synology.com/dsm/home_mobile_support_ds_audio.php?lang=us">Audio Station</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/dsm/home_home_applications_media_server.php?lang=us">DLNA</a></li>
 				<li class="dropdownitem_btm"><a href="http://www.synology.com/dsm/home_home_applications_photo_station.php?lang=us">Photo Station</a></li>
-				<li class="dropdownitem_header">Getting Started</li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/network_attached_storage.php">What is NAS?</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/new_to_synology.php">New to Synology Products?</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/choose.php?lang=us">Which Product Do I Choose?</a></li>
-				<li class="dropdownitem"><a href="http://forum.synology.com/wiki/index.php/Getting_Started_with_the_Synology_Disk_Station" target="_blank">Installation Guide</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/tutorials/tutorials.php?lang=us">Tutorials &amp; Webinars</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/support/video_your_cloud.php?lang=us">Video Gallery</a></li>
+				
 				<li class="dropdownitem_header">Resources</li>
-				<li class="dropdownitem"><a href="http://www.synology.com/dsm/dsm_app.php?lang=us">Value Add Applications</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/casestudies/index.php">Success Stories</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/casestudies/index.php#whitepaper">White Papers</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/support/comments.php?lang=us&amp;year=2012">Customer Feedback</a></li>
+				<!--li class="dropdownitem"><a href="http://www.synology.com/dsm/dsm_app.php?lang=us">Value Add Applications</a></li-->
+				<li class="dropdownitem"><a href="http://www.synology.com/products/success_stories.php?lang=us">Success Stories</a></li>
+				<li class="dropdownitem_btm"><a href="http://www.synology.com/us/resources/casestudies/whitepaper.php">White Papers</a></li>
+				<!--li class="dropdownitem_btm"><a href="http://www.synology.com/support/comments.php?lang=us&year=2012">Customer Feedback</a></li-->
 			</ul>
 		</div>
 	</li><!--Solutions end-->
@@ -242,25 +267,38 @@ $('#js_language').focus(function(){
 		<div class="submenu support">
 			<ul class="left"> 
 				<li class="dropdownitem_header">Product Support</li>
-				<li class="dropdownitem"><a href="http://www.synology.com/support/faq_all.php?lang=us">FAQ</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/knowledge_base.php?lang=us">Knowledge Base</a></li>
+				<!--li class="dropdownitem"><a href="http://www.synology.com/support/faq_all.php?lang=us">FAQ</a></li-->
+				<li class="dropdownitem"><a href="http://www.synology.com/support/compatibility.php?lang=us">Compatibility</a></li>
 				<li class="dropdownitem"><a href="http://www.synology.com/support/RAID_calculator.php?lang=us">RAID Calculator</a></li>
 				<li class="dropdownitem"><a href="http://forum.synology.com/enu/">Synology Community Forum</a></li>
 				<li class="dropdownitem"><a href="http://forum.synology.com/wiki" target="_blank">Synology Official Wiki Articles</a></li>
 				<li class="dropdownitem"><a href="https://myds.synology.com/support/support_form.php?lang=us">Submit Support Form</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/products/index.php?lang=us">How To Choose a DiskStation</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/resources/webinar/index.php">Video Guides/Webinars</a></li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/tutorials/tutorials.php?lang=us">Tutorials</a></li>
+				<!--li class="dropdownitem"><a href="http://www.synology.com/products/index.php?lang=us">How To Choose a DiskStation</a></li-->
+				<li class="dropdownitem_btm"><a href="http://www.synology.com/us/resources/webinar/index.php">Video Guides/Webinars</a></li>
+				<!--li class="dropdownitem"><a href="http://www.synology.com/tutorials/tutorials.php?lang=us">Tutorials</a></li-->
+				
+				<li class="dropdownitem_header">Download Center</li>
+				<li class="dropdownitem" style="margin-bottom: 10px;"><a href="http://www.synology.com/support/download.php?lang=us">Download Center</a></li>
+				
 			</ul>
 			<ul class="right"> 
-				<li class="dropdownitem_header">Download Center</li>
-				<li class="dropdownitem_btm"><a href="http://www.synology.com/support/download.php?lang=us">Download Center</a></li>
+				
 				<li class="dropdownitem_header">Other Resources</li>
 				<li class="dropdownitem"><a href="http://www.synology.com/support/beta_program.php?lang=us">Beta Programs</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/../support/warranty.php?lang=us">Product Warranty Info</a></li>
-				<li class="dropdownitem"><a href="http://www.synology.com/us/../support/EULA.php?lang=us">Software EULA</a></li>
-				<li class="dropdownitem"><a href="https://myds.synology.com/support/register.php?lang=us">MyDS Center</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/warranty.php?lang=us">Product Warranty Info</a></li>
+				<li class="dropdownitem_btm"><a href="http://www.synology.com/support/EULA.php?lang=us">Software EULA</a></li>
+				<!--li class="dropdownitem"><a href="https://myds.synology.com/support/register.php?lang=us">MyDS Center</a></li-->
+				
+				<li class="dropdownitem_header">Developers</li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/3rd_party.php?lang=us">3rd Party Applications</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/3rd_party_app_int.php?lang=us">3rd Party Apps Integration</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/developer.php?lang=us">Developers</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/download_station.php?lang=us">Download Station Developer Guide</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/snmp_mib.php?lang=us">MIB Guide</a></li>
+				<li class="dropdownitem"><a href="http://www.synology.com/support/gpl.php?lang=us">Request GPL Source</a></li>
+				<li class="dropdownitem_btm"><a href="http://www.synology.com/support/ss_web_API.php?lang=us">Synology Surveillance Station Web API</a></li>
 			</ul>
-			
 			<ul class="topmenu_myds_center">
 				<li>
 				<a href="https://myds.synology.com/support/register.php?lang=us">
@@ -498,8 +536,8 @@ Taiwan</p>
 <div class="list">
 <dl>
 <dt>Resources</dt>
-<dd><a href="http://www.synology.com/support/faq_all.php?lang=us">FAQ</a></dd>
-<dd><a href="http://www.synology.com/tutorials/tutorials.php?lang=us">Tutorials</a></dd>
+<dd><a href="http://www.synology.com/support/knowledge_base.php?lang=us">Knowledge base</a></dd>
+<dd><a href="http://www.synology.com/support/index_apps.php?lang=us">Developers</a></dd>
 <dd><a href="http://www.synology.com/support/download.php?lang=us">DSM Download</a></dd>
 <dd><a href="https://myds.synology.com/support/support_form.php?lang=us">Get Support</a></dd>
 </dl>
@@ -521,9 +559,9 @@ Taiwan</p>
 <div id="footer" class="clearfix">
 <div class="about">
 <a href="http://www.synology.com/us/company/term.php" class="first">Terms &amp; Conditions</a>  |   
-<a href="/company/privacy.php?lang=us"> Privacy </a>  | 
+<a href="http://www.synology.com/company/privacy.php?lang=us"> Privacy </a>  | 
 <a href="http://www.synology.com/us/company/index.php">About Synology</a>  | 
-<a href="/company/contact_us.php?lang=us">Contact Us</a>
+<a href="http://www.synology.com/company/contact_us.php?lang=us">Contact Us</a>
 </div>
 <div class="copyright" style="width:450px;">Copyright © 2012 Synology Inc. All rights reserved.<br>
 
@@ -537,7 +575,7 @@ Taiwan</p>
 <a href="http://www.facebook.com/home.php#!/pages/Synology/239099852896?ref=nf" target="_blank" class="social_fb"> </a>
 <a href="http://twitter.com/synology" target="_blank" class="social_twitter"> </a>
 <a href="http://www.youtube.com/user/synologyinc" target="_blank" class="social_youtube"> </a>
-<!--a href="/support/RSS.php?lang=us" class="social_rss"> </a-->
+<a href="/support/RSS.php?lang=us" class="social_rss"> </a>
 <!--script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
 <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ece26f435da03d4"></script-->
 <!--AddThis Button END-->
@@ -593,6 +631,9 @@ pageTracker._trackPageview();
 <script language="JavaScript" type="text/javascript">
 function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&amp;t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}
 </script>
+
+
+
 <!--footer customize-->
 </div><!--wrapper end-->
 
