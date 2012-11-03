@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623174000id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103200421id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The Land of Nod
 
@@ -45,7 +45,7 @@ The Land of Nod adheres to a strict privacy code regarding children and does not
 
 ## Mmmm, Cookies
 
-"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. They sound friendly and helpful because they are. They flag information about your activity on our Web site. This information helps us improve our site and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information.
+"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. They sound friendly and helpful because they are. They flag information about your activity on our Web site. This information helps us improve our site and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them to provide enhanced online marketing based on your interests and preferences. To opt out of these ads, please click here. 
 
 ## Additional Online Information
 
