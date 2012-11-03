@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603001818id_/http%3A//www.travelmole.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103174643id_/http%3A//www.travelmole.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Travelmole
+# TravelMole - Privacy Policy
 
 ### TravelMole takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
