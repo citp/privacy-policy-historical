@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504145358id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103030907id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
 
 # CYDEC — Privacy Policy
 
@@ -51,31 +51,29 @@ name=”*” value=”*” domain=”*” path=”*”
 
 ### Product Highlight
 
-Discover how the 1-Click Upsell System increases sale from up to 266% to over 1000%
+Use our advanced affiliate reporting to see who sent the most subscribers & run a JV contest.
 
 ### Company News
+
+  * May11
+
+#### [NMI Integration](http://cydec.com/blog/news/nmi-integration/)
+
+We are now fully integrated with the payment processor Network Merchants Inc., (NMI)
 
   * May03
 
 #### [Discount Groups](http://cydec.com/blog/news/discount-groups/)
 
-We are excited to roll out advanced functionality that allows you to offer special discounts to your existing customers. Add a discount function to the Order Form, and if a customer qualifies for the discount their email will unlock the discount which is instantly subtracted from their order’s total. 
+We are excited to roll out advanced functionality that allows you to offer special discounts to your existing customers. Add a discount function to the Order Form, and if a customer qualifies for the discount their email will unlock the discount which is instantly subtracted from their order’s total.
 
   * Apr24
 
 #### [Blocked User Database](http://cydec.com/blog/news/blocked-user-database/)
 
-Do you have a customer who is always purchasing products just to process a charge back later? Now, you can add that customers name and email address to Blocked Users, and if that person tries to make a purchase they’ll see an error message telling them to contact support. 
-
-  * Mar12
-
-#### [WYSIWYG Editor in Broadcast](http://cydec.com/blog/news/wysiwyg-editor-in-broadcast/)
-
-We’ve added a new HTML editor that makes composing your broadcast and auto-responders simple. You can design your HTML broadcasts and followups directly in our communication center without having to code a single line. 
+Do you have a customer who is always purchasing products just to process a charge back later? Now, you can add that customers name and email address to Blocked Users, and if that person tries to make a purchase they’ll see an error message telling them to contact support.
 
 
 
 
 [Older News](http://cydec.com/category/blog/news/)
-
-Free Marketing Newsletter
