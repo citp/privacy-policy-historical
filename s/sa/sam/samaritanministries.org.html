@@ -1,38 +1,241 @@
-<!--The following is the downloaded HTML source of the samaritanministries.org privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524180742id_/http%3A//www.samaritanministries.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samaritanministries.org privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103204646id_/http%3A//samaritanministries.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>SMI Privacy Policy</title>
-<style type="text/css">
-	body {background-color: white;}
-</style>
-</head>
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="a Biblical, non-insurance approach to health care needs">
 
-<body>
-<p><strong>PRIVACY POLICY</strong> <br>
-  Samaritan Ministries International Christian Health Care Newsletter (hereafter SMI) is committed to protecting your privacy. We endeavor to maintain industry standard safeguards to protect information you provide to us.<br>
-  <br>
-  <strong>Sharing of Information</strong><br>
-  SMI will not sell, rent, lease, give or lend mailing lists to other organizations for them to use for any fund-raising purpose without consent.<br>
-  <br>
-  <strong>Collection and Use of Information</strong><br>
-  SMI may collect information from you such as mailing and email addresses in order to help you. We will use this information to process your requests in a timely fashion.<br>
-</p>
+    <title>Privacy Policy</title>
+
+    <link rel="stylesheet" type="text/css" href="http://samaritanministries.org/wp-content/themes/SamaritanMinistries-v2/style.css" media="screen">
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.samaritanministries.org/mainfiles/css/IE7.css" /><![endif]-->
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://www.samaritanministries.org/mainfiles/js/slideshow.js"></script>
+    <script type="text/javascript" src="http://www.samaritanministries.org/mainfiles/js/jquery.scrollTo-min.js"></script>
+    <script type="text/javascript" src="http://www.samaritanministries.org/mainfiles/js/jquery.smoothDivScroll-0.9-min.js"></script>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-9893188-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+      $(".navigation ul li").hover(function() {
+        $(this).find("ul").slideDown('fast');
+        $(this).hover(function() {}, function(){
+          $(this).find("ul").slideUp('fast');
+        });
+      });
+
+      //Slideshow
+      var slideShow = new Array()
+      slideShow[0] = "http://www.samaritanministries.org/images/home/promo_img1.png";
+      slideShow[1] = "http://www.samaritanministries.org/images/home/promo_img2.png";
+      slideShow[2] = "http://www.samaritanministries.org/images/home/promo_img3.png";
+
+      processSlideshow(".slideshow", slideShow, 5000, 2000);
+
+      //FAQ
+      $("#faq ol li h3").toggle(function(){$(this).addClass("active");}, function () { $(this).removeClass("active"); });
+      $("#faq ol li h3").click(function(){ $(this).parent().children("p").slideToggle("fast"); }); });
+
+      //scrollpane parts
+      var scrollPane = $('.scroll-pane');
+      var scrollContent = $('.scroll-content');
+
+      //build slider
+      var scrollbar = $(".scroll-bar").slider({
+        slide:function(e, ui){
+          if( scrollContent.width() > scrollPane.width() ){ scrollContent.css('margin-left', Math.round( ui.value / 100 * ( scrollPane.width() - scrollContent.width() )) + 'px'); }
+          else { scrollContent.css('margin-left', 0); }
+        }
+      });
+
+      //append icon to handle
+      var handleHelper = scrollbar.find('.ui-slider-handle')
+      .mousedown(function(){
+        scrollbar.width( handleHelper.width() );
+      })
+      .mouseup(function(){
+        scrollbar.width( '100%' );
+      })
+      .append('<span class="ui-icon ui-icon-grip-dotted-vertical"></span>')
+      .wrap('<div class="ui-handle-helper-parent"></div>').parent();
+
+      //change overflow to hidden now that slider handles the scrolling
+      scrollPane.css('overflow','hidden');
+
+      //size scrollbar and handle proportionally to scroll distance
+      function sizeScrollbar(){
+        var remainder = scrollContent.width() - scrollPane.width();
+        var proportion = remainder / scrollContent.width();
+        var handleSize = scrollPane.width() - (proportion * scrollPane.width());
+        scrollbar.find('.ui-slider-handle').css({
+          width: handleSize,
+          'margin-left': -handleSize/2
+        });
+        handleHelper.width('').width( scrollbar.width() - handleSize);
+      }
+
+      //reset slider value based on scroll content position
+      function resetValue(){
+        var remainder = scrollPane.width() - scrollContent.width();
+        var leftVal = scrollContent.css('margin-left') == 'auto' ? 0 : parseInt(scrollContent.css('margin-left'));
+        var percentage = Math.round(leftVal / remainder * 100);
+        scrollbar.slider("value", percentage);
+      }
+
+      //if the slider is 100% and window gets larger, reveal content
+      function reflowContent(){
+          var showing = scrollContent.width() + parseInt( scrollContent.css('margin-left') );
+          var gap = scrollPane.width() - showing;
+          if(gap > 0){
+            scrollContent.css('margin-left', parseInt( scrollContent.css('margin-left') ) + gap);
+          }
+      }
+
+      //change handle position on window resize
+      $(window)
+      .resize(function(){
+          resetValue();
+          sizeScrollbar();
+          reflowContent();
+      });
+
+      //init scrollbar size
+      setTimeout(sizeScrollbar,10);//safari wants a timeout
+    </script>
+  </head>
+
+  <body>
+    <iframe src="http://servedby.ipromote.com/ad/?src=pixel_cat&amp;cat=2822" width="1" height="1" style="border: none; display: none !important; visibility: hidden !important; opacity: 0 !important; background-position: 1px 1px;"></iframe>
+
+    <div id="container">
+      <div id="header">
+        <a href="/"><div id="logo"></div></a>
+        <div id="header_text">a Biblical, non-insurance approach to health care needs</div>
+        <div id="social_links">
+          <ul>
+            <li><a href="http://www.facebook.com/samaritanministries" target="_blank"><img src="http://www.samaritanministries.org/images/layout/facebook.jpg" alt="Facebook"></a></li>
+            <li><a href="http://www.twitter.com/samaritanmin" target="_blank"><img src="http://www.samaritanministries.org/images/layout/twitter.jpg" alt="Twitter"></a></li>
+            <li><a href="http://www.samaritanministries.org/blog/?feed=rss2"><img src="http://www.samaritanministries.org/images/layout/rss.jpg" alt="RSS"></a></li>
+          </ul>
+        </div>
+
+        <div class="navigation">
+          <div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-4715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4715"><a href="http://samaritanministries.org/intro/">Why Samaritan?</a>
+<ul class="sub-menu">
+	<li id="menu-item-4726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4726"><a href="http://samaritanministries.org/intro/">Introductory Video</a></li>
+	<li id="menu-item-4722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4722"><a href="http://samaritanministries.org/testimonies/">Testimonies from Members</a></li>
+	<li id="menu-item-4708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4708"><a href="http://samaritanministries.org/endorsements-from-groups/">Endorsements from Groups</a></li>
+	<li id="menu-item-4707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4707"><a href="http://samaritanministries.org/brief-history/">Brief History</a></li>
+	<li id="menu-item-4709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4709"><a href="http://samaritanministries.org/foundational-principles/">Foundational Principles</a></li>
+	<li id="menu-item-4704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4704"><a href="http://samaritanministries.org/accountability/">Accountability</a></li>
+</ul>
+</li>
+<li id="menu-item-4773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4773"><a href="http://samaritanministries.org/how-it-works/balancing-needs-and-shares/">How it Works</a>
+<ul class="sub-menu">
+	<li id="menu-item-4781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4781"><a href="http://samaritanministries.org/how-it-works/the-need-process/">The Need Process</a></li>
+	<li id="menu-item-4777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4777"><a href="http://samaritanministries.org/how-it-works/balancing-needs-and-shares/">Balancing Needs and Shares</a></li>
+	<li id="menu-item-4780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4780"><a href="http://samaritanministries.org/how-it-works/savetoshare/">Save to Share™</a></li>
+	<li id="menu-item-4778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4778"><a href="http://samaritanministries.org/how-it-works/faq/">FAQ</a></li>
+	<li id="menu-item-4779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4779"><a href="http://samaritanministries.org/how-it-works/guidelines/">Guidelines</a></li>
+</ul>
+</li>
+<li id="menu-item-4725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4725"><a href="http://samaritanministries.org/costs/monthly/">What’s the Cost?</a>
+<ul class="sub-menu">
+	<li id="menu-item-4728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4728"><a href="http://samaritanministries.org/costs/monthly/">Monthly Share</a></li>
+	<li id="menu-item-4723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4723"><a href="http://samaritanministries.org/costs/administrative/">Administrative Costs</a></li>
+	<li id="menu-item-4724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4724"><a href="http://samaritanministries.org/costs/extragiving/">Extra Giving</a></li>
+</ul>
+</li>
+<li id="menu-item-4717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4717"><a href="http://samaritanministries.org/resources/alliance/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-4730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4730"><a href="http://samaritanministries.org/resources/alliance/">Alliance</a></li>
+	<li id="menu-item-4718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4718"><a href="http://samaritanministries.org/resources/discount-prescriptions/">Discount Prescriptions</a></li>
+	<li id="menu-item-4719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4719"><a href="http://samaritanministries.org/resources/find-health-care-providers/">Find Health Care Providers</a></li>
+	<li id="menu-item-4720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4720"><a href="http://samaritanministries.org/resources/pci-allergy-program/">PCI Allergy Program</a></li>
+</ul>
+</li>
+<li id="menu-item-4705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4705"><a href="http://samaritanministries.org/blog/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-4729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4729"><a href="http://samaritanministries.org/blog/">Blog</a></li>
+	<li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="http://samaritanministries.org/newsletter/">Newsletter Archive</a></li>
+	<li id="menu-item-4706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4706"><a href="http://samaritanministries.org/blog/podcasts/">Podcasts</a></li>
+	<li id="menu-item-4721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4721"><a href="http://samaritanministries.org/resources/press-releases/">Press Releases</a></li>
+</ul>
+</li>
+<li id="menu-item-4716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4716"><a href="http://samaritanministries.org/mysamaritan/">MySamaritan</a></li>
+</ul></div>        </div>
+      </div>
+
+            <div id="privacy-policy"><div class="content"><div class="left"><h2><strong>Privacy Policy</strong></h2>
+<p>Samaritan Ministries International Christian Health Care Newsletter (hereafter SMI) is committed to protecting your privacy. We endeavor to maintain industry standard safeguards to protect information you provide to us.</p>
+<p><strong>Sharing of Information</strong><br>
+SMI will not sell, rent, lease, give or lend mailing lists to other organizations for them to use for any fund-raising purpose without consent.</p>
+<p><strong>Collection and Use of Information</strong><br>
+SMI may collect information from you such as mailing and email addresses in order to help you. We will use this information to process your requests in a timely fashion.</p>
 <p><strong>Protection of Information</strong><br>
-  SMI uses the Secure Socket Layer (SSL) protocol when collecting or transferring sensitive data such as credit card information over the web, along with other security measures.<br>
-  </p>
+SMI uses the Secure Socket Layer (SSL) protocol when collecting or transferring sensitive data such as credit card information over the web, along with other security measures.</p>
 <p><strong>Links</strong><br>
-  SMI’s websites and communications may contain links to other websites. The privacy and data collection practices on linked websites are separate from SMI and do not accompany this privacy statement.<br>
-  </p>
+SMI’s websites and communications may contain links to other websites. The privacy and data collection practices on linked websites are separate from SMI and do not accompany this privacy statement.</p>
 <p><strong>Changing Your Information and Mailing Preferences</strong><br>
-  Your information is used to send information to you about Samaritan Ministries or to send items you requested from us. If you would like to change our information about you or your mailing preferences, simply let us know. Contact Member Services: call (877) 764-2426; write Samaritan Ministries, PO Box 3618, Peoria, IL 61612 or email <a href="mailto:smchcn@smchcn.net">smchcn@smchcn.net</a>. We will try to respond promptly to your request.<br>
-  </p>
+Your information is used to send information to you about Samaritan Ministries or to send items you requested from us. If you would like to change our information about you or your mailing preferences, simply let us know. Contact Member Services: call (877) 764-2426; write Samaritan Ministries, PO Box 3618, Peoria, IL 61612 or email&nbsp;<a href="mailto:smchcn@smchcn.net">smchcn@smchcn.net</a>. We will try to respond promptly to your request.</p>
 <p><strong>Changes to this Statement</strong><br>
-  SMI reserves the right to make changes to this privacy statement at any time and requests that you review this statement periodically for updates.<br>
-  </p>
+SMI reserves the right to make changes to this privacy statement at any time and requests that you review this statement periodically for updates.</p>
 <p><strong>Contact Us</strong><br>
-  If you feel that we are not complying with this privacy statement, please <a href="http://www.samaritanministries.org/contactus/" target="_blank">click here</a>. We will be happy to respond to your concerns.</p>
+If you feel that we are not complying with this privacy statement, please&nbsp;<a href="http://www.samaritanministries.org/contact-us/" target="_blank">click here</a>. We will be happy to respond to your concerns.</p>
+</div>
+  <div class="right">
+    	<div id="sidebar" role="complementary">
+		<ul>
+			<li id="text-5" class="widget widget_text">			<div class="textwidget"><a title="Guidelines" href="/introductory-tour/"><img class="alignnone" src="http://samaritanministries.org/wp-content/uploads/2012/08/video_tv.jpeg" alt=""></a>
+<p class="want">Want to know more?</p>
+        <p class="watch"><a class="video" href="/introductory-tour/">Watch this short video!</a></p></div>
+		</li>
+<li id="text-4" class="widget widget_text">			<div class="textwidget"><a title="Guidelines" href="/how-it-works/guidelines/"><img class="alignnone" src="http://www.samaritanministries.org/images/sidebar/guidelines_button.png" alt="" width="222" height="223"></a></div>
+		</li>
+<li id="text-3" class="widget widget_text">			<div class="textwidget"><ul>
+<li><a href="/costs/monthly">How much does it cost?</a></li>
+<li><a href="/how-it-works/savetoshare">What about needs over $250,000?</a></li>
+<li><a href="/join" class="button">Request Info Packet</a><a href="http://samaritanministries.org/wp-content/uploads/2012/10/Member-App-201210.pdf" class="button" target="_blank" onclick="_gaq.push(['_trackPageview', this.pathname]);">Download Application</a></li>
+</ul></div>
+		</li>
+		</ul>
+	</div>
+  </div>
+  </div>
+</div>
+    
+  
+<div class="footer">
+  <div class="logo"><a href="/"><img src="http://www.samaritanministries.org/images/layout/footer_SMILogo.jpg" title="Go to the home page"></a></div>
+      <div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-4796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4796"><a href="http://samaritanministries.org/how-it-works/the-need-process/">How it Works</a></li>
+<li id="menu-item-4731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4731"><a href="http://samaritanministries.org/blog/">News</a></li>
+<li id="menu-item-4736" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3428 current_page_item menu-item-4736"><a href="http://samaritanministries.org/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-4733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4733"><a href="http://samaritanministries.org/disclaimers/">Disclaimers</a></li>
+<li id="menu-item-4802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4802"><a href="http://samaritanministries.org/costs/extragiving/">Donations</a></li>
+<li id="menu-item-4735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4735"><a href="http://samaritanministries.org/prayer/">Be in Prayer</a></li>
+<li id="menu-item-4732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4732"><a href="http://samaritanministries.org/contact-us/">Contact Us</a></li>
+</ul></div>  <div class="copy">©2012 Samaritan Ministries</div>
+  <div class="join">
+    <a href="/join"><strong>Join Samaritan!</strong></a><br><a href="/how-it-works/guidelines/">Read our Guidelines</a>
+  </div>
+
+  </div>
+</div>
 
 
 </body></html>
