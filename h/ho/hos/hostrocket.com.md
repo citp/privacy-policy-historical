@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostrocket.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618044946id_/http%3A//www.hostrocket.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostrocket.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103181535id_/http%3A//www.hostrocket.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Shared Web Hosting & Dedicated Server Hosting
 
