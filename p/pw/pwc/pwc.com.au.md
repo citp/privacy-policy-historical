@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the pwc.com.au privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005005id_/http%3A//pwc.com.au/contact-us/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.com.au privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103081035id_/http%3A//www.pwc.com.au/contact-us/privacy-policy.htm) for the most accurate reproduction.*
 
 # PwC PricewaterhouseCoopers Australia - CONTACT US - PwC privacy policy
 
-## Purpose
+Purpose
 
-This privacy policy applies to PricewaterhouseCoopers (ABN 52 780 433 757) and any entity owned or controlled by PricewaterhouseCoopers ("Related Entity") in relation to PricewaterhouseCoopers' and its Related Entities' (together **"PricewaterhouseCoopers"** ) operations in Australia. This policy explains how PricewaterhouseCoopers handles personal information and complies with the requirements of the Australian _Privacy Act 1988_ (Cth) ( **"Privacy Act"** ). If you have any further questions in relation to this policy, please contact our Privacy Officer at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
+This privacy policy applies to PricewaterhouseCoopers (ABN 52 780 433 757) and any entity owned or controlled by PricewaterhouseCoopers ("Related Entity") in relation to PricewaterhouseCoopers' and its Related Entities' (together **"PricewaterhouseCoopers"** ) operations in Australia. This policy explains how PricewaterhouseCoopers handles personal information and complies with the requirements of the Australian _Privacy Act 1988_ (Cth) ( **"Privacy Act"** ). If you have any further questions in relation to this policy, please contact our Privacy Officer at privacy.officer@au.pwc.com.
 
 This policy relates to PricewaterhouseCoopers' collection and handling of personal information that is covered by the Privacy Act. It is not intended to cover categories of personal information that are not covered by the Privacy Act.
 
-  
-
-
-## Policy
+Policy
 
 ###### Collection of personal information
 
@@ -39,7 +36,7 @@ The main purposes in collecting personal information about individuals are:
 
 
 
-We may use personal information about individuals to market our services, including by email. However, individuals always have the opportunity to elect not to receive further marketing information from us by writing to The National Privacy Office, PricewaterhouseCoopers, 201 Sussex Street, Sydney NSW 2000, or by emailing us at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com). Please allow 28 days for your request to be processed.
+We may use personal information about individuals to market our services, including by email. However, individuals always have the opportunity to elect not to receive further marketing information from us by writing to The National Privacy Office, PricewaterhouseCoopers, 201 Sussex Street, Sydney NSW 2000, or by emailing us at privacy.officer@au.pwc.com. Please allow 28 days for your request to be processed.
 
 Alternatively, if we have contacted you by email, you may use the unsubscribe function in that email to notify us that you do not want to receive further marketing information from us by email.
 
@@ -115,7 +112,7 @@ We will provide access to personal information upon request by an individual, ex
 
 When you make a request to access personal information, we will require you to provide some form of identification (such as a driver's licence or passport) so we can verify that you are the person to whom the information relates. In some cases we may also request an administrative fee to cover the cost of access.
 
-If at any time you want to know what personal information we hold about you, you may contact us by writing to: The National Privacy Office, PricewaterhouseCoopers, 201 Sussex Street, Sydney, or emailing us at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
+If at any time you want to know what personal information we hold about you, you may contact us by writing to: The National Privacy Office, PricewaterhouseCoopers, 201 Sussex Street, Sydney, or emailing us at privacy.officer@au.pwc.com.
 
   
 
@@ -126,7 +123,7 @@ If you believe that information we hold about you is incorrect or out of date, o
 
 If you wish to have your personal information deleted, please let us know and we will take reasonable steps to delete it (unless we need to keep it for legal, auditing or internal risk management reasons).
 
-If PricewaterhouseCoopers becomes aware of any ongoing concerns or problems concerning our privacy practices, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact our Privacy Officer at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
+If PricewaterhouseCoopers becomes aware of any ongoing concerns or problems concerning our privacy practices, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact our Privacy Officer at privacy.officer@au.pwc.com.
 
   
 
@@ -135,6 +132,6 @@ If PricewaterhouseCoopers becomes aware of any ongoing concerns or problems conc
 
 PricewaterhouseCoopers operates in a dynamic business environment. Over time, aspects of our business may change as we respond to changing market conditions. This may require our policies to reviewed and revised. PricewaterhouseCoopers reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on this website.
 
-The amended policy will apply between us whether or not we have given you specific notice of any change. 
+The amended policy will apply between us whether or not we have given you specific notice of any change.
 
-## This policy was last updated in February 2012.
+### This policy was last updated in February 2012.
