@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movzap.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607030735id_/http%3A//www.movzap.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movzap.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103054356id_/http%3A//movzap.com/privacy.html) for the most accurate reproduction.*
 
 # MovZAP - Dedicated Hosting Service
 
