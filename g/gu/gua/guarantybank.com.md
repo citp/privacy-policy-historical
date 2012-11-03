@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505043110id_/http%3A//www.guarantybank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210338id_/http%3A//guarantybank.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Guaranty Bank
 
@@ -224,5 +224,5 @@ A formal agreement between nonaffiliated financial companies that together marke
 Guaranty Bank does business as BestBank in Georgia and Michigan.  
   
 Lost or Stolen  
-ATM/Check Card Notification  
+ATM/Debit Card Notification  
 1-800-554-8969
