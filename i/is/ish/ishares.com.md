@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528223710id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103221809id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - iShares
 
@@ -10,7 +10,7 @@ To put it simply: We will not sell non-public, personal information we collect a
 
 Please direct any questions to [isharesetfs@blackrock.com](mailto:isharesetfs@blackrock.com) or call 1-800-iShares.
 
-This Privacy Policy explains the Site's processing and storage practices in the United States for personal information transmitted through the Site. Visitors subject to the jurisdiction of other countries must not submit information through this Site, and by doing so waive any and all liability iShares or BlackRock Institutional Trust Company, N.A. and its affiliates ("BlackRock") may have to them in connection with such information. By browsing the Site and communicating electronically with us, Site visitors acknowledge that we are processing and storing their personal information in the United States under U.S. privacy standards.
+This Privacy Policy explains the Site's processing and storage practices in the United States for personal information transmitted through the Site. Visitors subject to the jurisdiction of other countries must not submit information through this Site, and by doing so waive any and all liability iShares or BlackRock, Inc., and its affiliates ("BlackRock") may have to them in connection with such information. By browsing the Site and communicating electronically with us, Site visitors acknowledge that we are processing and storing their personal information in the United States under U.S. privacy standards.
 
 **Personally Identifiable Information**  
  _When you register_ with the Site we collect your name, company address, email address, telephone number, and additional contact information. We also ask whether you are an individual or a financial professional and for related information. We collect a web site username and password.
