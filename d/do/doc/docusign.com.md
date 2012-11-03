@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629203848id_/http%3A//www.docusign.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103201155id_/http%3A//www.docusign.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Electronic Signature, e-Sign, and Digital Signatures from DocuSign
+# Privacy Policy | DocuSign
 
    [We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor)The privacy practices of this statement apply to services from DocuSign, Inc. (“DocuSign”) available under the domain and sub domains of [www.docusign.com](http://www.docusign.com/) (the "Site") (including docusign.net).  By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy.  If you do not agree, please do not use or access our Site or products.
+[](http://www.export.gov/safeharbor)The privacy practices of this statement apply to services from DocuSign, Inc. (“DocuSign”) available under the domain and sub domains of www.docusign.com (the "Site") (including docusign.net).  By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy.  If you do not agree, please do not use or access our Site or products.
 
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.  Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about DocuSign's practices so that you can make informed decisions.
 
 By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy.  This Privacy Policy is incorporated into and subject to the terms of the DocuSign Terms of Use Agreement.  This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on November 24th, 2003 for all users.
 
-DocuSign, Inc.  has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@docusign.com](mailto:legal@docusign.com).  If you are not satisfied with our response, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint), by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company.  For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above.  The TRUSTe dispute resolution process shall be conducted in English.  The TRUSTe program covers only information that is collected through this Web site **** and does not cover information that may be collected through our applications or software downloaded from the site.
+DocuSign, Inc.  has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at legal@docusign.com.  If you are not satisfied with our response, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint), by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company.  For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see http://www.truste.org/consumers/watchdog_complaint.php or request this information from TRUSTe at any of the addresses listed above.  The TRUSTe dispute resolution process shall be conducted in English.  The TRUSTe program covers only information that is collected through this Web site **** and does not cover information that may be collected through our applications or software downloaded from the site.
 
 DocuSign complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  DocuSign has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view DocuSign’s certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -24,6 +24,8 @@ Under some circumstances, users may require some additional information in order
 You can log in to our docusign.net site using social network sign-in services.  These services will authenticate your identity and provide you the option to share certain personal information with us, such as your name and email address, to pre-populate the sign up form for our services.  Such social network sign-in services such as this give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 We use third party tracking-utility partners to automatically track certain information to increase security such as IP addresses, email addresses, and other information through log files.
+
+### Use of Cookies
 
 We may use data collection devices such as "cookies" on certain pages of the Site to help analyze our web page flow, measure effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services.  We do not link the information we store in cookies to any personally identifiable information you submit while on our site.  We offer certain features that are only available through the use of a "cookie".  We also use cookies to allow you to enter your password less frequently during a session.  Cookies can also help us provide information that is targeted to your interests.  Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.  You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Site and you may be required to reenter your password more frequently during a session.
 
@@ -41,7 +43,7 @@ If you send us personal correspondence, such as emails, requests for demos or le
 
 If you register for DocuSign on another web site or use a web site providing a service for DocuSign or a web site that helps facilitate your activity on DocuSign, that web site may provide personal information about you and your transactions back to DocuSign.
 
-**2\. Our Use of Your Information.**
+ **2\. Our Use of Your Information.**
 
 We use your personal information to facilitate the services you request.  We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe exchange of documents for signature and delivery; collect fees owed; authenticate users, inform you about online and offline offers, products, services (if you wish to no longer receive these offers you may follow the unsubscribe instructions contained in each of the email communications you receive), and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection.  At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases.  We may compare and review your personal information for errors, omissions and for accuracy.
 
@@ -49,9 +51,9 @@ If you choose to use our service and pay with credit card or corporate invoice, 
 
 We use third-party advertising companies to serve ads when you visit our Website.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.aboutads.info/).  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-We post customer testimonials on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.  If you wish to request the removal of your testimonial, you may contact us at [media@docusign.com](mailto:media@docusign.com).
+We post customer testimonials on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.  If you wish to request the removal of your testimonial, you may contact us at media@docusign.com.
 
-**3\. Our Disclosure of Your Information.**
+ **3\. Our Disclosure of Your Information.**
 
 As a matter of policy, we do not share, sell or rent any of your personal information to third parties other than as outlined in this privacy policy.  However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services.
 
@@ -61,11 +63,11 @@ Internal Service Providers for Our Operations. We may use third parties that we 
 
 If DocuSign is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-Our Web site offers publicly accessible blogs or community forums.  You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personal information from our blog or community forum, contact us at [media@docusign.com](mailto:media@docusign.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums.  You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personal information from our blog or community forum, contact us at media@docusign.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy.  Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private, but you should know that we will take all reasonable steps to provide you a highly secure environment.
 
-**4\. Safe Harbor:**
+ **4\. Safe Harbor:**
 
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQ) to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EEA to the United States.  DocuSign, Inc. adheres to the Safe Harbor Principles outlined below.  The privacy principles in this policy are based on the Safe Harbor Principles.
 
@@ -97,7 +99,7 @@ Upon request, DocuSign, Inc. will grant individuals reasonable access to persona
 
 DocuSign, Inc. utilizes the self-assessment approach to assure its compliance with our privacy statement.  DocuSign, Inc. periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Safe Harbor Principles.
 
-**5\. Your Use of Other Users' Information.**
+ **5\. Your Use of Other Users' Information.**
 
 In order to facilitate interaction among all DocuSign members, our Product may allow you limited access to other users' contact and authentication status information.
 
@@ -109,19 +111,19 @@ Your friend may contact us at the email address below to request that we remove 
 
 DocuSign and our users do not tolerate spam.  Therefore, without limiting the foregoing, you are not licensed to send any message to another DocuSign user, (email or physical mail) without their express consent.  To report DocuSign related spam to DocuSign, please contact us at [info@docusign.com](mailto:%20info@docusign.com).
 
-**6\. Control of Your Password.**
+ **6\. Control of Your Password.**
 
 You are responsible for all actions taken with your User ID and password, including fees charged to your account, and all actions taken with your account.  Therefore we do not recommend that you disclose your DocuSign password to any third parties.  If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf.  Therefore, if your password has been compromised for any reason, you should immediately change your password.
 
-**7\. Accessing, Reviewing and Changing Your Personal Information.**
+ **7\. Accessing, Reviewing and Changing Your Personal Information.**
 
 We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself.  Generally, we will not modify your personal information based on your request because it is difficult to authenticate your account manually.  You can change your password, contact information, financial information, and user preferences by going to the profile area.  You must promptly update your personal information if it changes or is inaccurate.  Changing your personal information will not impact any completed transactions.
 
-Upon your request, we will deactivate your account, contact information, billing information, shipping information, and financial information from our active databases.  To make this request, email [sales@docusign.com](mailto:sales@docusign.com).  Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law.
+Upon your request, we will deactivate your account, contact information, billing information, shipping information, and financial information from our active databases.  To make this request, email sales@docusign.com.  Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law.
 
 We will retain in our files some personal information, and past document transactions to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.  However, such personal information will be deactivated from member viewing and will only be available to select DocuSign personnel.
 
-**8\. Other Information Collectors.**
+ **8\. Other Information Collectors.**
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you.  To the extent that you disclose your information to other parties using our system or follow links to other sites, different rules may apply to their use or disclosure of the information you disclose to them.  Since DocuSign does not control the privacy policies of third parties, or other individuals’ actions, you are subject to the privacy policies of that third party or those individuals.  We encourage you to be sure the recipients are authenticated to your satisfaction before you send them any documents.
 
@@ -131,14 +133,14 @@ We use this information to notify contest winners and award prizes, to personali
 
 We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose.  We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**9\. Security.**
+ **9\. Security.**
 
-Your information is stored on DocuSign, Inc.'s servers located in the United States.  We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "firewalls" and Secure Socket Layers.  We treat data as an asset that must be protected against loss and unauthorized access.  We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.  However, "perfect security" does not exist on the Internet.  If you have any questions about security on our Web site, you can contact us at [info@docusign.com](mailto:info@docusign.com).
+Your information is stored on DocuSign, Inc.'s servers located in the United States.  We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "firewalls" and Secure Socket Layers.  We treat data as an asset that must be protected against loss and unauthorized access.  We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.  However, "perfect security" does not exist on the Internet.  If you have any questions about security on our Web site, you can contact us at info@docusign.com.
 
-**10\. Notice.**
+ **10\. Notice.**
 
 We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms shall automatically be effective 30 days after they are initially posted on the Site.  If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**11\. Contact us.**
+ **11\. Contact us.**
 
-If you have any questions or suggestions regarding our privacy policy, you may contact us at [media@docusign.com](mailto:media@docusign.com) or via postal mail at 1301 Second Avenue, Suite 2000, Seattle, WA 98101. 
+If you have any questions or suggestions regarding our privacy policy, you may contact us at media@docusign.com or via postal mail at 1301 Second Avenue, Suite 2000, Seattle, WA 98101. 
