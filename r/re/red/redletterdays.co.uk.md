@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614010459id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103195242id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
 
 # Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
 
