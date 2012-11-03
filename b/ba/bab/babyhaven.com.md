@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyhaven.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607045233id_/http%3A//www.babyhaven.com/site/content.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhaven.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103231909id_/http%3A//www.babyhaven.com/site/content.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Baby Products, Strollers, Baby Safety
 
