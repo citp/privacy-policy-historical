@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chubbybrain.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507070249id_/http%3A//www.chubbybrain.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbybrain.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103065919id_/http%3A//www.chubbybrain.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ChubbyBrain - Privacy Policy
 
@@ -64,15 +64,13 @@ We may modify this Privacy Policy at any time, and we will post any new versions
 
 * **Dispute Resolution**
 
-If you believe that we have not adhered to this Privacy Policy you may write to our Privacy Office at the following address:
+If you believe that we have not adhered to this Privacy Policy you may contact us:
 
-Sachin@mehtalegal.com CBIS, Inc
+info@chubbybrain.com CBIS, Inc
 
-160 Varick Street, 12th Floor
+137 Varick Street, 2nd Floor
 
 New York, NY 10013
-
-info@chubbybrain.com
 
 In your letter, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.
 
