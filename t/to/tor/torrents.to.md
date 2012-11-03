@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233942id_/http%3A//www.torrents.to/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103014616id_/http%3A//www.torrents.to/pages/privacy) for the most accurate reproduction.*
 
 # torrents | Privacy Policy
 
