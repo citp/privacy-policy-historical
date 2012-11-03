@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trickswindow.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406222008id_/http%3A//www.trickswindow.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickswindow.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103042654id_/http%3A//www.trickswindow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tricks Window
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
