@@ -1,100 +1,10 @@
-> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604182352id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103043242id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy for UPside Visa Prepaid Cards
-
-This Privacy Disclosure explains the privacy policies of MetaBank and Plastyc with respect to the UPside Visa® prepaid card program. 
-
-We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. 
-
-**DEFINITIONS**
-
-**We, our, and us** , means MetaBank, the issuer of your UPside card. 
-
-**You and your** , means customers with an UPside card issued by MetaBank, as well as any consumers who enroll for an UPside card issued by MetaBank. 
-
-**Nonpublic personal information** , means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter we will use the term “information” to mean nonpublic personal information as defined by this section. 
-
-**Affiliate** , means a company MetaBank owns or controls, a company that owns or controls MetaBank, or a company that is owned or controlled by the same company that owns or controls MetaBank. Ownership does not mean complete ownership, but means enough to have control. 
-
-**Nonaffiliated third party** , means a person not employed by MetaBank or a company that is not an affiliate of MetaBank. 
-
-**Opt out** , means a choice you can make to prevent certain sharing or use of information. We will explain how you can exercise this choice. 
-
-**INFORMATION WE COLLECT AND DISCLOSE**
-
-We collect and may disclose the following information about you: 
-
-  * Information you provide on applications or other forms, such as name, address, e-mail address, social security number, telephone number, and date of birth;
-  * Information about your transactions with us, our affiliates, or other parties, such as card balance, payment history, parties to transactions, and card usage;
-  * Information we receive from a consumer reporting agency, such as verification of your identity and creditworthiness.
-
-
-
-We may also collect and disclose information about how users use our Web site, for example, by tracking unique views received by pages of the Web site or the domains from which users originate. This information is not personally identifiable. We may also use “cookies” to track returning users to our Web site. A cookie is a piece of software that a Web server can store on the users’ PCs and use to identify the users should they visit the Web site again. Information collected may be associated with nonpublic personal information users provide us through our Web site. 
-
-**INFORMATION WE SHARE WITH SERVICE PROVIDERS OR JOINT MARKETERS**
-
-We may disclose all of the information we collect, as described above, to companies (including affiliates) that perform services on our behalf, including those who assist us in preparing and mailing statements (if applicable) and responding to customer inquiries. We may provide that information, except for information from consumer reporting agencies, to others who perform marketing services for us and to financial institutions that are not our affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information. 
-
-**INFORMATION WE SHARE WITH AFFILIATES**
-
-Our respective affiliates include nonfinancial companies, and may include financial service providers, such as insurance companies. In addition to the information we share with affiliates that provide services to us, we may share information described above among our respective affiliates in order to provide you with information about additional products and services. You have the choice to opt out from our sharing of information with affiliates although, even if you opt out, we may still disclose your information as permitted by law. 
-
-**INFORMATION WE SHARE WITH NONAFFILIATED THIRD PARTIES**
-
-We may disclose information to third parties who do not belong to our corporate family. These nonaffiliated third parties may include financial services providers, such as mortgage and insurance companies; nonfinancial companies, such as direct marketers, retailers and publishers; and others, such as nonprofit organizations. 
-
-You have the choice to opt out from our sharing of information with these types of third parties although we may still disclose your information as permitted by law. In addition, we generally will not disclose information to nonaffiliated third parties as long as your billing address is in California or Vermont except as permitted by law. 
-
-**YOUR RIGHT TO OPT-OUT OF DISCLOSURES TO AFFILIATES AND NON-AFFILIATED THIRD PARTIES**
-
-If you prefer that we not share nonpublic personal information about you with third parties, you may opt-out of those disclosures at any time by directing us not to make those disclosures (other than disclosures permitted or required by law). You may opt-out by calling Customer Service at (866) 845-6273 or by writing to us at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004. 
-
-**INFORMATION SECURITY**
-
-We restrict access to nonpublic personal information about you to our employees who have a need to know such information (e.g., to process your transactions). We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the nonpublic personal information of our customers. 
-
-**INFORMATION ABOUT FORMER CUSTOMERS**
-
-The privacy policies and practices described in this Privacy Disclosure also apply to our former customers. 
-
-**PRIVACY PRACTICES OF THIRD PARTIES**
-
-Our website may feature links to third-party sites that offer goods, services, or information. We are not responsible for content or privacy policies or practices of any advertisers or linked sites of any third parties. We encourage you to review their privacy policy before providing them with any personally identifiable information. Third party sites may collect and use information about you in a way that is different from this policy. 
-
-**ACCESS OR CORRECT YOUR INFORMATION**
-
-You can access most of your nonpublic personal information that we collect online and maintain at [www.upsidecard.com](http://www.upsidecard.com/) or [www.upsideaccount.com](http://www.upsideaccount.com/). You can correct factual errors in your nonpublic personal information by contacting us at the number or address listed above. 
-
-**CHANGES TO THIS PRIVACY DISCLOSURE**
-
-We may change our Privacy Disclosure from time to time. We will provide current customers with a revised disclosure that describes the new practices as required by law. 
-
-**SPECIAL NOTICE FOR CALIFORNIA RESIDENTS**
-
-In order to comply with California law, if our records with respect to your card indicate a California address we will not disclose information that we have about you outside of our family of companies, unless otherwise permitted by law. 
-
-**SPECIAL NOTICE FOR VERMONT RESIDENTS**
-
-In order to comply with Vermont law, if our records with respect to your card indicate a Vermont address we will not disclose nonpublic personal financial information about you to nonaffiliated third parties, other than permitted by law, unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you. 
-
-**QUESTIONS**
-
-If you have any questions regarding this Privacy Disclosure, you can contact us at (866) 845-6273 or write to us at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004. 
 
 This Privacy Disclosure explains the privacy policies of Plastyc Inc. (“Plastyc”) with respect to the UPside Card Services inclusive of customer enrollment, self care and value added services provided through any combination of the UPside Card websites, phone lines and electronic mail and postal mail services, but exclusive of the payment transaction services and card issuance services, which are governed by the MetaBank Privacy Policy. 
 
 We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. This Privacy Disclosure applies to all users of our websites and value-added services, whether they are minor or major, and whether they are a prospective cardholder, existing cardholder, or parent/tutor of a prospective or existing cardholder. 
-
-**The Children Online Privacy Protection Act (COPPA)**
-
-The Children Online Privacy Protection Act, effective April 21, 2000 applies to the online collection of personally identifiable information and aggregate information from children under 13. We do not knowingly market to or solicit information from children under 13. We have made it a policy at Plastyc to not accept any applications or communications from children under the age of 13. Since we do not collect information from children we are not required by law to comply with COPPA, but we do choose to adhere to its principles. We are not responsible for the data collection and practices of nonaffiliated third parties that may be linked to/from our Web site, with respect to COPPA compliance. 
-
-We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. While Plastyc works to protect your personal information, you also have responsibility. 
-
-**INTERNET SAFETY For CHILDREN**
-
-The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate Web sites and be exposed to unwanted risks. Parents can be proactive by installing filtering software that gives them more control over their family’s Internet experience. Learn more about COPPA at [www.coppa.org](http://www.coppa.org/) and on the Federal Trade Commission’s Web Site at [www.ftc.gov](http://www.ftc.gov/). 
 
 **1\. DEFINITIONS**
 
