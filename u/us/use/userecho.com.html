@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the userecho.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504203254id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the userecho.com privacy policy that was archived on 2012-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103134150id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
     <title>UserEcho - customer support solution, feedback service.</title>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/cdn.userecho.com/js/widget-1.4.gz.js"></script><script type="text/javascript">var _uls_ls=(new Date()).getTime()</script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.userecho.com/js/widget-1.4.gz.js"></script><script type="text/javascript">var _uls_ls=(new Date()).getTime()</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="description" content="">
@@ -17,12 +17,12 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link rel="stylesheet" href="/s/CACHE/css/fb069a2ad9bf.css" type="text/css">
+    <link rel="stylesheet" href="/s/CACHE/css/4272f3d9064c.css" type="text/css">
     
     
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/s/images/favicon.ico">
 
     <link href="https://plus.google.com/112664946570127826464" rel="publisher">
 
@@ -52,6 +52,7 @@ var RLANG = {
 	paragraph: 'Paragraph',
 	quote: 'Quote',
 	code: 'Code',
+	confirm: 'Confirm',
 	header1: 'Header 1',
 	header2: 'Header 2',
 	format: 'Format',
@@ -107,11 +108,16 @@ var RLANG = {
 	upload: 'Upload',
 	download: 'Download',
 	yes:'Yes',
-	no:'No'
+	no:'No',
+	anchor: 'Anchor',
+	formatting: 'Formatting',
+	header3: 'Header 3',
+	header4: 'Header 4',
+	deleted: 'Deleted'
 };
 </script>
 
-  <script type="text/javascript" src="/s/CACHE/js/c9435de29ef8.js"></script>
+  <script type="text/javascript" src="/s/CACHE/js/2b0a631b9ba5.js"></script>
 
   
   
@@ -125,6 +131,7 @@ var RLANG = {
       
       <ul class="nav">
         <li><a href="/why-userecho/">Why UserEcho</a></li>
+        <li><a href="/clients/">Our clients</a></li>
         <li><a href="/pricing/">Pricing</a></li>
         <li><a href="http://feedback.userecho.com">Support</a></li>
         <li><a href="http://blog.userecho.com">Blog</a></li>
@@ -132,13 +139,12 @@ var RLANG = {
 
       
 
-
-    <div id="sigin_popup" class="popBlock"></div>
+<div id="sigin_popup" class="popBlock"></div>
 <script language="javascript">
 function showSigninPanel(locResult){ 
 	params='';if (locResult) params = '?local_result='+escape(locResult);
 
-	ue_modal({'src':'/popup/signin/'+params});
+	ue_modal({'src':'/dialog/signin/'+params});
 
 	 }
 </script>
@@ -252,36 +258,64 @@ UserEcho uses cookies to record current session information, but does not use pe
             <dd><a href="http://userecho.com/feeds/blog/">Blog RSS</a></dd>
           </dl>
         </div>
-        <hr>
-        <div>
-        <p class="pull-right"><a href="/terms-of-service/">Terms of service</a><a href="/privacy-policy/">Privacy policy</a><a href="#">Back to top</a></p>
-        <p>© UserEcho 2012 
-            
-            
-            <a id="lang-selector" href="#" onclick="$('#lang-select-div').jqmShow().css({'top':($(this).offset().top>270?$(this).offset().top-260:10)+'px','left':$(this).offset().left+'px'}); return false;">English (EN) <img src="http://static.userecho.com/img/arrowdwn.gif"></a>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            </p></div>
-        <p></p>
-        <div>
-      </div></footer>
+      </footer>
+
+      <div class="ue-footer row">
+        <div class="span12">
+            <div style="float:left;"><span id="copyright">© 2012 UserEcho, LLC. All rights reserved.</span>
+                <li class="dropdown dropup" style="list-style:none;display:inline-block;">
+                        
+                        
+                        <a id="lang-selector" href="#" class="dropdown-toggle" data-toggle="dropdown">English (EN) <b class="caret"></b></a>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+
+                <ul class="dropdown-menu">
+                    
+                                  <li href="" onclick="location.href='?lang=en'"><a>English (EN)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=ru'"><a>Русский (RU)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=es'"><a>Spanish (ES)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=fr'"><a>French (FR)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=de'"><a>German (DE)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=nl'"><a>Dutch (NL)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=is'"><a>Icelandic (IS)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=et'"><a>Estonian (ET)</a></li>
+                    
+                                  <li href="" onclick="location.href='?lang=kk'"><a>Kazakh (KK)</a></li>
+                    
+                </ul>
+                </li>
+         
+            </div>
+            <div id="tos" style="float:right;">
+              <a href="http://feedback.userecho.com">Leave feedback</a> <a href="/terms-of-service/">Terms of service</a><a href="/privacy-policy/">Privacy policy</a>
+            </div>
+        </div>
+    </div>
 
     </div><!-- /container -->
 
@@ -340,13 +374,14 @@ UserEcho uses cookies to record current session information, but does not use pe
 
 
   
+  
   <script type="text/javascript">
 
 var _ues = {
 host:'feedback.userecho.com',
 forum:'1',
 lang:'en',
-tab_icon_show:false,
+tab_icon_show:true,
 tab_corner_radius:5,
 tab_font_size:20,
 tab_image_hash:'RmVlZGJhY2s%3D',
@@ -354,16 +389,17 @@ tab_alignment:'right',
 tab_text_color:'#FFFFFF',
 tab_bg_color:'#57A957',
 tab_hover_color:'#F45C5C',
-tab_top:'185px'
+tab_top:'130px'
 };
 
 (function() {
     var _ue = document.createElement('script'); _ue.type = 'text/javascript'; _ue.async = true;
-    _ue.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/' : 'http://') + 'cdn.userecho.com/js/widget-1.4.gz.js';
+    _ue.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.userecho.com/js/widget-1.4.gz.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(_ue, s);
   })();
 
 </script>
+  
   
 
   
@@ -388,6 +424,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </script>
 
   
+
 <script type="text/javascript">
 var _uls={acc:3,host:"userecho.com", server:"io.userlook.com"};
 
@@ -404,28 +441,23 @@ window.onload = (typeof window.onload != 'function') ? loadUL : function() { ol_
 })();
 </script>
 
+
+
     <!-- Le javascript -->
     <!-- Placed at the end of the document so the pages load faster -->
 
-
-    <script src="/s/assets/js/bootstrap-transition.js"></script>
-    <!--
-    <script src="/s/assets/js/bootstrap-scrollspy.js"></script>
-    -->
-    <script src="/s/assets/js/bootstrap-carousel.js"></script>
-    <script src="/s/assets/js/bootstrap-tooltip.js"></script>
-    <script src="/s/assets/js/bootstrap-dropdown.js"></script>
-    <script src="/s/assets/js/bootstrap-button.js"></script>
-
-    <script src="/s/assets/js/bootstrap-modal.js"></script>
+    <script src="/s/assets/js/bootstrap.min.js"></script>
 
     <script src="/s/assets/js/prettify.js"></script>
 
 
 
-
     <script>
 	  var global_is_staff = false;
+    
+    var __file_upload = false;
+    
+
     $(function () { 
       $('#lang-select-div').jqm({toTop: true});
       })
