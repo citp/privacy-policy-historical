@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506044736id_/http%3A//www.pantagraph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210853id_/http%3A//www.pantagraph.com/privacy) for the most accurate reproduction.*
 
-# Privacy : Pantagraph.com | Central Illinois
+# Privacy
 
 Welcome to the web sites of the The Pantagraph. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
