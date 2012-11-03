@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpoint.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604031846id_/http%3A//www.clickpoint.com/en/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpoint.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103191436id_/http%3A//www.clickpoint.com/en/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # CLICKPOINT Privacy
 
