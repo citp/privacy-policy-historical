@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celinedion.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506034836id_/http%3A//www.sonymusic.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celinedion.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103204033id_/http%3A//www.sonymusic.ca/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-[français](https://web.archive.org/web/20120506034836id_/http://www.sonymusic.ca/privacy/fr/)
+[français](https://web.archive.org/web/20121103204033id_/http://www.sonymusic.ca/privacy/fr/)
 
 **SONY MUSIC ENTERTAINMENT WEBSITE PRIVACY POLICY**
 
