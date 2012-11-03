@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediascience.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621114904id_/http%3A//socialmediascience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediascience.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103192129id_/http%3A//socialmediascience.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Media Science: Privacy Policy
 
@@ -40,7 +40,7 @@ include: (1) when you claim a prize or seek to redeem an offer by Company or by 
 
 (e) Data Analysis. Data Analysis technology may be employed from time to time if used by a Client of Company.
 
-(f) New Technology. The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of new technology. 
+(f) New Technology. The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of new technology.
 
 **1.6.** No Information Collected from Children. Company will never knowingly collect any Personal Information about children under the age of 13. If Company obtains actual knowledge that it has collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, Company has no such information to use or to disclose to third parties.
 
@@ -111,7 +111,6 @@ We endeavor to safeguard and protect your information. When you submit informati
 
 Company provides you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when it asks for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference by emailing or calling us per the information contained on our contact page.
 
-If you no longer wish to receive our promotions, you may opt-out of receiving it by following the instructions included in each newsletter or communication or by emailing or calling us per the information contained on our contact page.  
-Customer Care Contact Information: 800-494-3963
+If you no longer wish to receive our promotions, you may opt-out of receiving it by following the instructions included in each newsletter or communication or by emailing or calling us per the information contained on our contact page.
 
-**8.0.** California User Consumer Rights. California Civil Code Section 1798.83 permits California residents who have provided Personal Information to Company or third parties under a list management arrangement with Company to request certain information regarding Company’s disclosure of such information to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section. If you have questions about this policy, please contact us at _privacy@socialmediascience.com_ or in writing at 2729 South Bluff Court Wichita, Kansas 67218.
+**8.0.** California User Consumer Rights. California Civil Code Section 1798.83 permits California residents who have provided Personal Information to Company or third parties under a list management arrangement with Company to request certain information regarding Company’s disclosure of such information to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section. If you have questions about this policy, please contact us at privacy@socialmediascience.com or in writing at 2719 South Bluff Court Wichita, Kansas 67218. 
