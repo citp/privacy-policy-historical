@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505203136id_/http%3A//www.frightcatalog.com/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210249id_/http%3A//www.frightcatalog.com/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Policy as of 5/5/2012
+Policy as of 11/3/2012
 
 ## PRIVACY STATEMENT
 
