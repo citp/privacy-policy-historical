@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockyadventurestore.com privacy policy that was archived on 2012-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120208042341id_/http%3A//rockyadventurestore.com/index.php%3Fukey%3Dauxpage_3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyadventurestore.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210113id_/http%3A//rockyadventurestore.com/index.php%3Fukey%3Dauxpage_3) for the most accurate reproduction.*
 
-# Privacy Policy ― Rocky Adventure Store 2011. All rights reserved.
+# Privacy Policy ― Rocky Adventure Store 2012. All rights reserved.
 
 **RockyAdventureStore.com** is committed to respect the privacy rights of visitors. If you have any questions, please call toll-free **1- 888-510-9525** or email us at [custservices@rockyadventurestore.com](mailto:custservices@rockyadventurestore.com).
 
