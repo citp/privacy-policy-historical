@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchbit.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606000346id_/http%3A//www.launchbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchbit.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103065358id_/http%3A//www.launchbit.com/privacy) for the most accurate reproduction.*
 
 # LaunchBit | Privacy Policy
 
