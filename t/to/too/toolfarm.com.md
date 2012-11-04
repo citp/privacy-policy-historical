@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toolfarm.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626092913id_/http%3A//www.toolfarm.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolfarm.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104073551id_/http%3A//www.toolfarm.com/info/privacy) for the most accurate reproduction.*
 
-# Toolfarm.com :: The Video Plug-ins People
+# Toolfarm.com :: The Video Plug-ins People - After Effects Plug-ins, CINEMA 4D Plug-ins, and Final Cut Pro Plug-ins
 
 **What information do we collect?**
 
