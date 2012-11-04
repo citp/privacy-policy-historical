@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexforums.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507100227id_/http%3A//www.forexforums.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexforums.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104232223id_/http%3A//www.forexforums.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Forums
 
@@ -29,5 +29,3 @@ Forex Forums INC will not obtain personally-identifying information about you wh
 Generally speaking, cookies are used on this website for those who wish to register and keep a connection with our database and your computer.  This connection is secure and is not shared or reproduced for third parties before, during, or after your visit.  We simply do not monitor our website’s traffic in this way.  Cookies do not read your hard drive, a cookie is a way for web sites to recognize whether or not you have visited the site before. It is a piece of data given to a browser by a web server, so that the browser will hand it back to the server on subsequent visits.  In all cases the server only hands the cookie back to itself, to keep track of your database session.  At the time of the writing of this policy, cookies are set to be stored for 6000 seconds from the time of your login until you manually log out or time expires.  We do not recommend leaving your browser open with sensitive material, please log out and shut down your browser when finished using our website and/or browsing the net altogether. We also use an accredited Stat Counting service that may keep track of your visit via cookies if you have them enabled, please read their cookie policy for more clarification on their usage of this feature.
 
 **Disabling cookies is completely your option and this website may be browsed without cookies activated, but it is not recommended for those who register and wish to partake in forum activities.**
-
-Cash Advance | Debt Consolidation | Insurance | Free Credit Report | Cell Phones at Seolinknet.com
