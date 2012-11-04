@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imvu.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501212955id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imvu.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104155941id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.*
 
 # IMVU Information
 
@@ -94,6 +94,8 @@ We use other third party service providers such as a credit card processing comp
 ## Third Party Advertisements
 
 Certain advertisements that appear on this Site are sometimes delivered (or "served") directly to users by third party advertisers. Some of these third party advertisers automatically receive certain of your PII through your interaction with an advertisement. These third party advertisers may also download non-personally identifiable cookies to your computer, or use other technologies such as "web beacons" to measure the effectiveness of their ads and to personalize advertising content. Their use of your PII will be governed by the terms of their privacy policies and their privacy policies may explain the way in which you can "opt-out" of certain tracking by their advertisements.
+
+For more information about online advertising, please visit the Digital Advertising Alliance webpage at <http://www.aboutads.info/consumers/>. Additionally, certain third party advertisers may adhere to the Network Advertising Initiative ("NAI") Principles. You may learn more about the NAI Principles and opt-out of receiving targeted ad programs certain third party advertisers provide at <http://www.networkadvertising.org/>.
 
 ## Third Party Offers
 
