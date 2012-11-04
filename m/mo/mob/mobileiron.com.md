@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619033324id_/http%3A//www.mobileiron.com/component/content/article/73/131-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104172313id_/http%3A//www.mobileiron.com/component/content/article/73/131-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileIron
 
 [](http://privacy.truste.com/privacy-seal/MobileIron/validation?rid=446aa561-481d-420f-8034-419298d4ba3e)[](http://privacy.truste.com/privacy-seal/MobileIron/validation?rid=446aa561-481d-420f-8034-419298d4ba3e)
 
-The Company, MobileIron, Inc., is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our Website Services, including at our Website located at [www.mobileiron.com](http://www2.mobileiron.com/en/component/content/section/8). This Privacy Policy is incorporated into, and considered part of, the Company's Terms of Service available at [www.mobileiron.com/terms-of-service](http://www2.mobileiron.com/en/component/content/article/73/132-terms-of-service). Capitalized terms not defined herein are defined in Terms of Service.
+The Company, MobileIron, Inc., is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our Website Services, including at our Website located at [www.mobileiron.com](http://www.mobileiron.com/en/component/content/section/8). This Privacy Policy is incorporated into, and considered part of, the Company's Terms of Service available at [www.mobileiron.com/terms-of-service](http://www.mobileiron.com/en/component/content/article/73/132-terms-of-service). Capitalized terms not defined herein are defined in Terms of Service.
 
 **1\. USER CONSENT.** By submitting Personal Data through our Website you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
 
