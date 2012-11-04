@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spoonflower.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510215027id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spoonflower.com privacy policy that was archived on 2012-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104121609id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <!-- The following comment is our Alexa verification ID -->
@@ -11,10 +11,11 @@
     <meta name="msvalidate.01" content="9BBDE5DF7C2E197176C0F62DB44F1E79">
     
     <title>Spoonflower: Privacy Policy</title>
+    
     <!-- FACEBOOK OPEN GRAPH META TAGS -->
     <meta property="fb:page_id" content="14321714465">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="http://www.spoonflower.com/images/logo_150.jpg">
+    <meta property="og:image" content="http://www.spoonflower.com/images/Spoonflower_FB.jpg">
     <meta property="og:site_name" content="Spoonflower">
     <meta property="og:url" content="http:www.spoonflower.com">
     <meta property="fb:admins" content="822159710,878835316">
@@ -22,7 +23,7 @@
     <meta property="og:title" content="Spoonflower: Privacy Policy">
    
     
-    <meta property="og:description" content="Custom fabric created at Spoonflower">
+    <meta property="og:description" content="Custom fabric, wallpaper and wall decals created at Spoonflower">
     
     
 
@@ -30,16 +31,16 @@
     <!-- Puts logo in URL bar in browser, on Tabs in tabbed browsers -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     
-      <link href="/stylesheets/site2.css?1336682063" media="screen" rel="stylesheet" type="text/css">
-      <link href="/stylesheets/spoonflower_new.css?1336682183" media="screen" rel="stylesheet" type="text/css">
+      <link href="/stylesheets/site2.css?1351872449" media="screen" rel="stylesheet" type="text/css">
+      <link href="/stylesheets/spoonflower_new.css?1351872443" media="screen" rel="stylesheet" type="text/css">
     
     <!--[if IE 6]>
-        <link href="/stylesheets/ie6.css?1336682183" media="screen" rel="stylesheet" type="text/css" />    <![endif]-->
-    <script src="/javascripts/jquery.js?1336682183" type="text/javascript"></script>
-<script src="/javascripts/jquery-ui.js?1336682183" type="text/javascript"></script>
-<script src="/javascripts/jquery-fx.js?1336682183" type="text/javascript"></script>
-<script src="/javascripts/jrails.js?1336682183" type="text/javascript"></script>
-<script src="/javascripts/application.js?1336682183" type="text/javascript"></script>
+        <link href="/stylesheets/ie6.css?1351872443" media="screen" rel="stylesheet" type="text/css" />    <![endif]-->
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-LWHV"></script><script src="/javascripts/jquery.js?1351872443" type="text/javascript"></script>
+<script src="/javascripts/jquery-ui.js?1351872443" type="text/javascript"></script>
+<script src="/javascripts/jquery-fx.js?1351872443" type="text/javascript"></script>
+<script src="/javascripts/jrails.js?1351872443" type="text/javascript"></script>
+<script src="/javascripts/application.js?1351872443" type="text/javascript"></script>
     <script type="text/javascript" src="/javascripts/jquery-1.6.2.min.js"></script>
     <script type="text/javascript" src="/javascripts/mootools.js"></script>  
     <script type="text/javascript" src="/javascripts/Zoomer.js"></script>
@@ -64,11 +65,60 @@
           };
         
     </script>
-    
-  
+    <script> //Script to use to open and close the rollover cart tab
+    $(document).ready(function(){
+      var _counter = 0;
+      var _counter_out = 0;
+      var _seconds = 0;
+      $("#cart_container_tab").hover(
+        function () {
+          if (typeof _counter_addTo != 'undefined'){
+            console.log(_counter_addTo)
+            if (_counter_addTo == 0) {
+              clearTimeout(_counter_out);
+              _counter = setTimeout(openDialogNow, 800);
+            } else {
+              clearTimeout(_counter_addTo);
+              _counter_addTo = 0;
+            }
+          } else {
+            clearTimeout(_counter_out);
+            _counter = setTimeout(openDialogNow, 800);
+          }
+        }, 
+        function () {
+          clearTimeout(_counter);
+          _counter_out = setTimeout(closeDialogNow, 800);
+        });
+        function openDialogNow() {
+          // this function will run every second while the user does not mouseout the image
+          $("#cart_pop").show();
+          $("#all_cart_items").show();
+          $("#cart_pop_title").show();
+          $("#cart_pop_title_add").hide();
+          $("#purchased_item").hide();
+          $("#cart_show").slideDown(300, function() {});
+        }
+        function closeDialogNow() {
+          $("#cart_pop").hide();
+          $("#cart_show").hide();
+        }
+     }); 
+    </script>
   </head>
 
   <body id="pages_show" ,="" class="yui3-skin-sam">  
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LWHV"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-LWHV');</script>
+    <!-- End Google Tag Manager -->
+    
+    
     <noscript>
       <div style="background-color: #AE0000;
       color: #FFFFFF;
@@ -89,6 +139,9 @@
       <div style = 'clear:both'></div>
     </noscript>
     
+
+    
+    
     
     <div id="doc5">  <!-- provides width 974 px -->
       <!-- Comments added by Stephanie. You are welcome.-->
@@ -96,7 +149,7 @@
       <div id="hd" style="margin-bottom:10px">
             <!-- Start of Top Row Nav including: f&p, account and help links, search, log in and cart -->
             <div style="position:relative; height:35px; width: 1000px;"> 
-              <!-- Start of Fabrics & Pricing, My Account, Help Section -->
+              <!-- Start of Products & Pricing, My Account, Help Section -->
                 
                   <div style="float:left;">
                 
@@ -104,14 +157,14 @@
 
                       <ul class="nav topchrome" style="padding-left: 0px; margin-top:5px; float:left; font-family: georgia, serif">
 
-                        <li><a href="http://www.spoonflower.com/spoonflower_fabrics" class="topchrome" title="All about Spoonflower's base fabrics.">Fabrics &amp; Pricing</a></li>
+                        <li><a href="http://www.spoonflower.com/spoonflower_fabrics" class="topchrome" title="All about Spoonflower's base fabrics.">Products &amp; Pricing</a></li>
                         
                         <li style="padding:0px">•</li>
                         <li><a href="http://www.spoonflower.com/help" title="Everything you need to know to make beautiful fabric">Help</a></li>
                       </ul>
                     </div>
                   </div>
-              <!-- End of Fabrics & Pricing, My Account, Help Section -->
+              <!-- End of Products & Pricing, My Account, Help Section -->
                   
               <!-- Start of Search Section -->
                 
@@ -121,7 +174,7 @@
                     <form action="/spelunks" id="search_form" method="get" name="search_form">
                       <input id="filter" name="type" style="display:none" type="text">
                       <input id="q" name="q" onclick="value=''" size="30" style="font-family:Georgia, serif; color: #90857f; vertical-align: top; margin-top: 9px;" type="text" value="search">
-                      <input onmouseout="this.src = '/images/Go_ON.png'" onmouseover="this.src = '/images/Go_HOVER.png'" src="/images/Go_ON.png?1336682183" style="margin-top:9px; padding-left: 2px" type="image">
+                      <input onmouseout="this.src = '/images/Go_ON.png'" onmouseover="this.src = '/images/Go_HOVER.png'" src="/images/Go_ON.png?1351872443" style="margin-top:9px; padding-left: 2px" type="image">
                     </form>
                   
                 </div> 
@@ -135,7 +188,7 @@
                 
                 <!-- Start of Log In/Out Button -->
                 <div style="width:75px; float:left; margin-top: 10px;">
-                                      <a href="http://www.spoonflower.com/login"><img alt="Login" onmouseout="this.src = '/images/Login_Button_OFF.png'" onmouseover="this.src = '/images/Login_Button_HOVER.png'" src="/images/Login_Button_OFF.png?1336682183"></a>
+                                      <a href="http://www.spoonflower.com/login"><img alt="Login" onmouseout="this.src = '/images/Login_Button_OFF.png'" onmouseover="this.src = '/images/Login_Button_HOVER.png'" src="/images/Login_Button_OFF.png?1351872443"></a>
                                   </div>
                 <!-- End of Log In/Out Button -->
 
@@ -153,7 +206,7 @@
           
             <!-- Start of Logo -->
             <div style="float:left; margin: 15px 5px 0 5px">
-              <a href="http://www.spoonflower.com/welcome"><img alt="Headerlogo_new" src="/images/HeaderLogo_NEW.png?1336682183"></a>
+              <a href="http://www.spoonflower.com/welcome"><img alt="Headerlogo_new" src="/images/HeaderLogo_NEW.png?1351872443"></a>
             </div>
             <!-- End of Logo -->
                       
@@ -163,31 +216,31 @@
               <div style="background-color: #FFF; float:right;opacity:0.85; filter:alpha(opacity=85); position:absolute;width: 500px; height:38px;"></div>
             
                 <div style="position:absolute">
-                
+                  
 <div id="site_navbar" style="width: 500px; height:38px; letter-spacing: 0.025em ">
 
   <div style="font-family:'Georgia', serif; color: #5b4a42; text-transform: uppercase; font-size:18px;z-index: 30">
     
       <div id="create_nav" style="position:relative; float:left; width: 97px; height: 24px; padding: 8px 0px 8px 26px; z-index:40" onmouseover="document.getElementById('create_drop').style.display = 'block'" onmouseout="document.getElementById('create_drop').style.display = 'none'">        
         
-          
-            <a href="http://www.spoonflower.com/designs/new" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left: 3px">Create</a>
-          
+          <a href="http://www.spoonflower.com/create" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left: 3px">Create</a>
         
         
         
-          <div id="create_drop" style="position: absolute; right: -24px; top: 0px; padding: 7px 0px 8px 27px; display: none; width: 120px; height:65px; border: 1px solid #DCD8BD; background-color:#FFF; z-index: 50" onmouseover="document.getElementById('create_drop').style.display = 'block'" onmouseout="document.getElementById('create_drop').style.display = 'none'">
+        <div id="create_drop" style="position: absolute; right: -24px; top: 0px; padding: 7px 0px 8px 27px; display: none; width: 120px; height:95px; border: 1px solid #DCD8BD; background-color:#FFF; z-index: 50" onmouseover="document.getElementById('create_drop').style.display = 'block'" onmouseout="document.getElementById('create_drop').style.display = 'none'">
         
         
-        
-          
-            <a href="http://www.spoonflower.com/designs/new" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left: 3px">Create</a>
-          
+          <a href="http://www.spoonflower.com/create" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left: 3px">Create</a>
         
         <div style=" text-transform: lowercase; font-size:11px; margin-top: 5px; line-height:12pt">
           
             <a href="http://www.spoonflower.com/designs/new?create=fabric" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">custom fabric</a><br>
           
+          
+            <a href="http://www.spoonflower.com/designs/new?create=wallpaper" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">custom wallpaper</a><br>
+          
+          
+            <a href="http://www.spoonflower.com/designs/new?create=walldecal" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">custom wall decals</a><br>
           
           
             <a href="http://www.spoonflower.com/help#design_help" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">faqs</a>
@@ -200,33 +253,32 @@
       
       <div id="shop_nav" style="position:relative; float:left; width: 75px; height: 24px; padding: 8px 0px 8px 26px" onmouseover="document.getElementById('shop_drop').style.display = 'block'" onmouseout="document.getElementById('shop_drop').style.display = 'none'">
         
-          <a href="http://www.spoonflower.com/shop" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42">Shop</a>  
+      
+        <a href="http://www.spoonflower.com/shop" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42">Shop</a>  
             
       
+      <div id="shop_drop" style="position: absolute; right: -8px; top: 0px; padding: 7px 0px 8px 27px; display: none; width: 85px; height:90px; border: 1px solid #DCD8BD; background-color:#FFF; z-index: 5" onmouseover="document.getElementById('shop_drop').style.display = 'block'" onmouseout="document.getElementById('shop_drop').style.display = 'none'">
+    
       
+        <a href="http://www.spoonflower.com/shop" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left:3px">Shop</a>  
       
-        <div id="shop_drop" style="position: absolute; right: -8px; top: 0px; padding: 7px 0px 8px 27px; display: none; width: 85px; height:80px; border: 1px solid #DCD8BD; background-color:#FFF; z-index: 5" onmouseover="document.getElementById('shop_drop').style.display = 'block'" onmouseout="document.getElementById('shop_drop').style.display = 'none'">
-      
+      <div style=" text-transform: lowercase; font-size:11px; margin-top: 5px; line-height:12pt">
         
-          <a href="http://www.spoonflower.com/shop" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left:3px">Shop</a>  
+          <a href="http://www.spoonflower.com/shop?shop=fabric" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 6px 0px 3px">Fabric</a><br>  
         
-        <div style=" text-transform: lowercase; font-size:11px; margin-top: 5px; line-height:12pt">
+        
+          <a href="http://www.spoonflower.com/shop?shop=wallpaper" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 6px 0px 3px">Wallpaper</a><br>  
+        
+        
+          <a href="http://www.spoonflower.com/shop?shop=walldecal" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 6px 0px 3px">Wall Decals</a><br>  
+        
+        
+          <a href="http://www.spoonflower.com/help#shop_help" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 24px 0px 3px">faqs</a>
+        
               
-                <a href="http://www.spoonflower.com/shop" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 6px 0px 3px">Fabric</a><br>  
-              
-              
-              <form action="https://www.paypal.com/cgi-bin/webscr" id="giftCert" target="_blank" method="post" style="text-align: center;" name="giftCert">
-              <input type="hidden" name="cmd" value="_s-xclick">
-              <input type="hidden" name="hosted_button_id" value="1356889">
-              </form>
-              <a href="#" onclick="document.giftCert.submit()" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 4px">Gift Cards</a><br>
-              
-                <a href="http://www.spoonflower.com/help#shop_help" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 24px 0px 3px">faqs</a>
-              
-              
-            </div>
-          </div>
       </div>
+    </div>
+  </div>
       
       
       <div style="float:left; margin-top:7px">|</div>
@@ -237,8 +289,7 @@
           <a href="http://www.spoonflower.com/connect" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left:2px">Connect</a>
         
         
-        <div id="connect_drop" style="position: absolute; right: -8px; top: 0px; padding: 7px 0px 8px 28px; display: none; width: 129px; height:110px; border: 1px solid #DCD8BD; background-color:#FFF; z-index: 2000" onmouseover="document.getElementById('connect_drop').style.display = 'block'" onmouseout="document.getElementById('connect_drop').style.display = 'none'">
-        
+        <div id="connect_drop" style="position: absolute; right: -8px; top: 0px; padding: 7px 0px 8px 28px; display: none; width: 129px; height:125px; border: 1px solid #DCD8BD; background-color:#FFF; z-index: 2000" onmouseover="document.getElementById('connect_drop').style.display = 'block'" onmouseout="document.getElementById('connect_drop').style.display = 'none'">
           
             <a href="http://www.spoonflower.com/connect" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin-left:4px">Connect</a>
           
@@ -248,13 +299,16 @@
               <a href="http://www.spoonflower.com/connect" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">community</a><br>
             
             
-              <a href="http://www.spoonflower.com/contests/137" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">weekly contest</a><br>
+              <a href="http://www.spoonflower.com/contests/162" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">weekly contest</a><br>
             
           
             <a href="http://www.spoonflower.com/contests" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">past contests</a><br>
           
           
             <a href="http://blog.spoonflower.com/" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">blog</a><br>
+          
+          
+            <a href="http://www.spoonflower.com/events" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 3px">events</a><br>
           
           
             <a href="http://www.spoonflower.com/feedback/new" onmouseout="this.style.color = '#5b4a42'" onmouseover="this.style.color = '#cea601'" style="color: #5b4a42; margin: 4px 0px 0px 4px">contact us</a><br>
@@ -401,7 +455,8 @@
           <li style="margin-bottom: 2px"><a href="http://www.spoonflower.com/create">Create</a></li>
           <ul class="secondary terms_chrome" style="font-style: normal">
             <li><a href="http://www.spoonflower.com/designs/new?create=fabric">fabric</a></li> 
-            
+            <li><a href="http://www.spoonflower.com/designs/new?create=wallpaper">wallpaper</a></li>  
+            <li><a href="http://www.spoonflower.com/designs/new?create=walldecal">wall decals</a></li> 
             <li><a href="http://www.spoonflower.com/help#design_help">faqs</a></li>           
             </ul>
             </ul>
@@ -411,11 +466,11 @@
         <div style="float: left; width: 110px"> 
           <div style="border-left:1px solid #968972; height: 125px">
           <ul class="nav aboutus_chrome">
-          <li style="margin-bottom: 2px"><a href="http://www.spoonflower.com/shop">Shop</a></li>
+          <li style="margin-bottom: 2px"><a href="http://www.spoonflower.com/shop?shop=fabric">Shop</a></li>
           <ul class="secondary terms_chrome" style="font-style: normal">
-          <li><a href="http://www.spoonflower.com/shop">Fabric</a></li>
-          
-          <li><a href="#" onclick="document.giftCert.submit()">Gift Cards</a></li>
+          <li><a href="http://www.spoonflower.com/shop?shop=fabric">Fabric</a></li>
+          <li><a href="http://www.spoonflower.com/shop?shop=wallpaper">wallpaper</a></li>  
+          <li><a href="http://www.spoonflower.com/shop?shop=walldecal">wall decals</a></li> 
           <li><a href="http://www.spoonflower.com/help#help8">faqs</a></li>
           </ul>
           </ul>
@@ -430,9 +485,11 @@
           <ul class="secondary terms_chrome" style="font-style: normal">
           <li><a href="http://www.spoonflower.com/connect">community</a></li>
           
-          <li><a href="http://www.spoonflower.com/contests/137">weekly contest</a></li>
+          <li><a href="http://www.spoonflower.com/contests/162">weekly contest</a></li>
+
           <li><a href="http://www.spoonflower.com/contests">past contests</a></li>
           <li><a href="http://blog.spoonflower.com/">Blog</a></li>
+          <li><a href="http://www.spoonflower.com/events">events</a></li>
           <li><a href="http://www.spoonflower.com/feedback/new">contact us</a></li>
           </ul>
           </ul>
@@ -445,23 +502,24 @@
         <div style="float:right"> 
           <div style="margin-right: -5px"> 
           
-          <form action="https://www.spoonflower.com/users" id="community email" method="post" name="monkey"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="f783506ae8f788d218298aed2fb88ac24bf7dd5c"></div>
+          <form action="https://www.spoonflower.com/users" id="community email" method="post" name="monkey"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="f451cb7f96dfb09ed428d3de733f788506c4459d"></div>
             <input id="email" name="email" onclick="value=''" size="30" style="font-family:Georgia, serif; color: #90857f; vertical-align: top; margin-top: 0px;" type="text" value="subscribe to community emails">
-            <input onmouseout="this.src = '/images/Submit_Brown.png'" onmouseover="this.src = '/images/Submit_BrownHOVER.png'" src="/images/Submit_Brown.png?1336682183" style="margin-top:0px; padding-left: 2px" type="image">
+            <input onmouseout="this.src = '/images/Submit_Brown.png'" onmouseover="this.src = '/images/Submit_BrownHOVER.png'" src="/images/Submit_Brown.png?1351872443" style="margin-top:0px; padding-left: 2px" type="image">
           </form>
           
           </div>
           <br>
         <ul class="secondary terms_chrome" style="display: block; text-align: right; margin-right: -15px">
 
-          <li> <a href="http://www.facebook.com/spoonflower" style="margin-left:20px" target="_blank"><img alt="Facebook_icon_off" onmouseout="this.src='/images/Facebook_Icon_OFF.png'" onmouseover="this.src='/images/Facebook_Icon_HOVER.png'" src="/images/Facebook_Icon_OFF.png?1336682183"></a>
+          <li> <a href="http://www.facebook.com/spoonflower" style="margin-left:20px" target="_blank"><img alt="Facebook_icon_off" onmouseout="this.src='/images/Facebook_Icon_OFF.png'" onmouseover="this.src='/images/Facebook_Icon_HOVER.png'" src="/images/Facebook_Icon_OFF.png?1351872443"></a>
 
-             <a href="http://twitter.com/spoonflower" style="margin-left:5px" target="_blank"><img alt="Twitter_icon_off" onmouseout="this.src='/images/Twitter_Icon_OFF.png'" onmouseover="this.src='/images/Twitter_Icon_HOVER.png'" src="/images/Twitter_Icon_OFF.png?1336682183"></a>
+             <a href="http://twitter.com/spoonflower" style="margin-left:5px" target="_blank"><img alt="Twitter_icon_off" onmouseout="this.src='/images/Twitter_Icon_OFF.png'" onmouseover="this.src='/images/Twitter_Icon_HOVER.png'" src="/images/Twitter_Icon_OFF.png?1351872443"></a>
 
-             <a href="http://pinterest.com/spoonflower/" style="margin-left:5px" target="_blank"><img alt="Pinterest_icon_off" onmouseout="this.src='/images/Pinterest_Icon_OFF.png'" onmouseover="this.src='/images/Pinterest_Icon_HOVER.png'" src="/images/Pinterest_Icon_OFF.png?1336682183"></a></li>
+             <a href="http://pinterest.com/spoonflower/" style="margin-left:5px" target="_blank"><img alt="Pinterest_icon_off" onmouseout="this.src='/images/Pinterest_Icon_OFF.png'" onmouseover="this.src='/images/Pinterest_Icon_HOVER.png'" src="/images/Pinterest_Icon_OFF.png?1351872443"></a></li>
           
           
           <li><a href="http://www.spoonflower.com/about">About us</a></li>
+          <li><a href="http://blog.spoonflower.com/jobs-at-spoonflower.html" target="_blank">Jobs</a></li>
           <li><a href="http://www.spoonflower.com/privacy">Privacy</a></li>
           <li><a href="http://www.spoonflower.com/terms">Terms of Service</a></li>
           <li style="color: #968972;">© 2008-2012 Spoonflower Inc</li>
