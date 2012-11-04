@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-articles.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601025342id_/http%3A//www.easy-articles.com/Privacy-Policy-CM11.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-articles.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104155103id_/http%3A//www.easy-articles.com/Privacy-Policy-CM11.aspx) for the most accurate reproduction.*
 
 # Welcome To Easy Article
 
