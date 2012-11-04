@@ -1,15 +1,24 @@
-> *The following text is extracted and transformed from the openstudy.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209041947id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstudy.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104164240id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – OpenStudy – Make the World Your Study Group
+# OpenStudy: Study Together
+
+## Sign Up For Free
+
+### 188 helpers are online right now
+
+75% of questions are answered within 5 minutes.
+
+##### Forgot Your Password?
 
   * [About Us](https://web.archive.org/about-us)
-  * [Partner With Us](https://web.archive.org/partner-with-us)
   * [Contact Us](mailto:contact@openstudy.com)
+  * [Partner With Us](https://web.archive.org/partner-with-us)
   * [Press](https://web.archive.org/press)
   * [Terms](https://web.archive.org/terms-and-conditions)
   * [Privacy](https://web.archive.org/privacy-policy)
+  * [Code of Conduct](https://web.archive.org/code-of-conduct)
 
-[OpenStudy](https://web.archive.org/home)
+
 
   1. ## Introduction
 
@@ -21,7 +30,7 @@ By registering with the Openstudy.com web site ("Web Site") or by using any of t
 
 Open Study collects and stores certain personally identifiable information about you when you provide it to us during registration (or when you update your account information), when you use or subscribe to Open Study’s products and services, including when you respond to Open Study’s surveys or submit content or materials to Open Study, or when you otherwise communicate with Open Study, such as through emails. The type of personally identifiable information collected may include your name, address, email address, telephone number, credit card information, school, demographic information, and other personal information, depending upon the particular Open Study product or service, the information requested and provided and the category of user. 
 
-For example, a user, as part of the registration process, will provide Open Study with the necessary and correct information to properly collect payment or duee for the use of the Open Study services. Certain information requested by Open Study during the registration process is optional, including providing demographic information, and for Visitors who may wish to participate in surveys, the requested personal information is optional. For a Visitor wishing to receive the monthly Open Study newsletter, only a valid email address is required.
+For example, a user, as part of the registration process, will provide Open Study with the necessary and correct information to properly collect payment or due for the use of the Open Study services. Certain information requested by Open Study during the registration process is optional, including providing demographic information, and for Visitors who may wish to participate in surveys, the requested personal information is optional. For a Visitor wishing to receive the monthly Open Study newsletter, only a valid email address is required.
 
 Open Study also collects and stores certain non-personally identifiable information about you when you visit and use the Web Site or otherwise interact with Open Study, including using Open Study's products and services, submitting content or materials to Open Study and responding to surveys and email communications. The type of non-personal information collected may include your computer and internet connection information, including IP address and operating system, and your usage history of the Web Site and its web pages.
 
