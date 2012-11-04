@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysteryshops.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618154605id_/http%3A//www.mysteryshops.com/index.php/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysteryshops.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104095219id_/http%3A//www.mysteryshops.com/index.php/about/privacy-policy) for the most accurate reproduction.*
 
-# Corporate Research International » Privacy Policy
+# Privacy Policy | Corporate Research International
 
 The following Privacy Policy describes the information which Stericycle, Inc. (“Stericycle” or “us”) collects, how we use it, and with whom we share it.  This Privacy Policy is governed by the Terms and Conditions found at http://www.stericycle.com.
 
