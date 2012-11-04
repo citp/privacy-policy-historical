@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecowebhosting.co.uk privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612185223id_/http%3A//www.ecowebhosting.co.uk/tandc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecowebhosting.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104011552id_/http%3A//ecowebhosting.co.uk/tandc/privacy) for the most accurate reproduction.*
 
 # Eco Web Hosting - Privacy Policy
 
@@ -13,13 +13,13 @@
 
 ## Website Builder
 
-[ ](http://extendcp.com/demo.cgi?account=495058;rd-url=/builder.cgi;)
+[ ](http://extendcp.com/demo.cgi?account=963882;rd-url=/builder.cgi;)
 
 ## Web Hosting Control Panel
 
 \- Feature-Rich  
 \- User-Friendly  
-\- [Try Demo](http://extendcp.com/demo.cgi?account=495058;)
+\- [Try Demo](http://extendcp.com/demo.cgi?account=963882;)
 
 ## Money Back Guarantee
 
