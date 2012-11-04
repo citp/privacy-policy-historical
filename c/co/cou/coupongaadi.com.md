@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupongaadi.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308042416id_/http%3A//coupongaadi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupongaadi.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104053419id_/http%3A//www.coupongaadi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Coupon Codes, Discount Codes, Voucher Codes for Indian Stores
+# for November 2012 | Coupon Codes, Discount Codes, Voucher Codes for Indian Stores
 
 The privacy of our visitors  is important to us.
 
