@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notalwaysworking.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625033601id_/http%3A//notalwaysworking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysworking.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104071854id_/http%3A//notalwaysworking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Bad customer service, bosses and co-workers – Not Always Working
 
