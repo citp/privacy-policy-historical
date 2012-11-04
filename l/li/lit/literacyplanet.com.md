@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505180723id_/http%3A//www.literacyplanet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104103749id_/http%3A//www.literacyplanet.com/privacy.html) for the most accurate reproduction.*
 
 # Literacy Planet – Children’s literacy - Online learning | Privacy Policy
 
+| 
+
 ## Privacy Policy
 
-Intrepica Pty Ltd ACN 128 896 980 ("Literacy Planet") recognises and values the protection of your personal information. We are aware of our obligations under the Privacy Act 1988 (Cth) and we will ensure that we fulfill our obligations under that Act.
+Intrepica Pty Ltd ACN 128 896 980 (we, us, our or Intrepica) recognises and values the protection of your personal information. We are aware of our obligations under the Privacy Act 1988 (Cth) and we will ensure that we fulfill our obligations under that Act.
 
-We also recognise that you may have concerns about our collection of your personal information via the Literacy Planet website ("Website") which is located at www.Literacy Planet.com and how we may use that information.
+We also recognise that you may have concerns about our collection of your personal information via the Literacy Planet website ("the Website") which is located at [ www.literacyplanet.com](http://www.literacyplanet.com/) and how we may use that information.
 
-We have implemented this Privacy Policy in order to let you know about how we will collect, store, use and disclose your personal information.
+We have implemented this Privacy Policy in order to inform you about how we will collect, store, use your personal information and under what circumstances we may disclose your personal information.
 
-Please note that this Privacy Policy forms part of the [Literacy Planet Terms of Use](https://web.archive.org/web/20120505180723id_/http%3A//www.literacyplanet.com/terms.html "Literacy Planet Terms of Use").
-
-When subscribing to the Literacy Planet program, we may ask you to supply personal information such as your name, address, date of birth, telephone number and e-mail address.
+Please note that this Privacy Policy forms part of the [Intrepica Terms of Use](https://web.archive.org/web/20121104103749id_/http%3A//www.literacyplanet.com/terms.html "Intrepica Terms of Use") document, which is displayed at the bottom of the Website.
 
 #### Information we collect from you
 
-**We will not** collect any information from you that may reveal your:
+From time to time, we may ask you to supply personal information such as your name, gender, address, date of birth, telephone number, e-mail address, whether you have any allergies or pre-existing health conditions. However, under no circumstances will we request or collect any information from you that may disclose your:
 
   * political, religious or philosophical beliefs or affiliations;
-  * health and sexuality;
+  * sexuality;
   * racial or ethnic origin; or
   * criminal convictions.
 
@@ -45,15 +45,14 @@ You may opt out of these additional communications at any time and can do so by 
 
 Your personal information, including your e-mail address, will be used for three primary purposes:
 
-  * to ensure the proper functioning of the Literacy Planet program;
+  * to ensure the proper functioning of the Website; and
   * to assist us with our marketing, planning, product development and research requirements.
 
 
 
 We will not use or disclose (or permit the use or disclosure of) personal information that could be used to identify an individual member in any circumstances except:
 
-to ensure the proper functioning of our business in relation to the person in question (for example, to confirm your acceptance of the Terms of Use, or to seek your views on the operation of the Literacy Planet program in order to improve it);
-
+  * to ensure the proper functioning of our business in relation to the person in question (for example, to confirm your acceptance of the Terms of Use, or to seek your views on the operation of the Literacy Planet program in order to improve it);
   * to communicate promotional offers and special events to you; 
   * to avoid risks to health and safety of an individual or society at large;
   * where the law requires us, or authorises us to do so; or 
@@ -71,22 +70,24 @@ Please note that no information transmitted over the Internet can be guaranteed 
 
 #### Unsubscribing from our E-mail database
 
-To unsubscribe from our e-mail database, please send an e-mail to unsubscribe@intrepica.com.au with "UNSUBSCRIBE" typed into the subject line of the e-mail.
+To unsubscribe from our e-mail database, please send an e-mail to [unsubscribe@intrepica.com.au](mailto:unsubscribe@intrepica.com.au) with "UNSUBSCRIBE" typed into the subject line of the e-mail.
 
 #### Accessing, correcting and updating your information
 
 You have the right to access the information that you provide to us.
 
-If you wish to access or modify any personal information that you have provided to us, please contact our Privacy Officer on +61 (07) 5656 9699.
+If you wish to access or modify any personal information that you have provided to us, please contact our Privacy Officer at [privacy@intrepica.com.au](mailto:privacy@intrepica.com.au).
 
 #### Contacting us
 
 If you have any concerns or questions about our Privacy Policy, please contact us on +61 (07) 5656 9696 or [privacy@intrepica.com.au](mailto:privacy@intrepica.com.au).
 
-We reserve our right to modify or amend this Privacy Policy at any time and without notice to you. For further information about privacy, please refer to the Australian Privacy Commissioner’s website www.privacy.gov.au.
+We reserve our right to modify or amend this Privacy Policy at any time and without notice to you. For further information about privacy, please refer to the Australian Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 We appreciate you taking the time to read the Literacy Planet Privacy Policy.
 
-© 2009 Intrepica Pty Ltd ACN 128 896 980.
+© 2012 Intrepica Pty Ltd ACN 128 896 980.
 
-Privacy Policy last updated on 17 February 2009.
+_Privacy Policy last updated on 2 May 2012._  
+  
+---|---
