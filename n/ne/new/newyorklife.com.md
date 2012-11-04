@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523053230id_/http%3A//www.newyorklife.com/nyl/v/index.jsp%3FcontentId%3D10564%26vgnextoid%3Ddb00a2b3019d2210a2b3019d221024301cacRCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104041340id_/http%3A//newyorklife.com/about/nyl-online-privacy-policy) for the most accurate reproduction.*
 
 # New York Life Online Privacy Policy
 
-New York Life Online Privacy Policy   
-(Effective as of April, 2008) 
+**New York Life Online Privacy Policy  
+(Effective as of July 2012)**
 
-We know that keeping your personal information private is important to you. That's why the New York Life Family of Companies* wants you to know how we protect the information you share with us and the measures we take to safeguard your information. 
+We know that keeping your personal information private is important to you. That's why the New York Life Family of Companies* wants you to know how we protect the information you share with us and the measures we take to safeguard your information.
 
 We have built our business on a foundation of integrity, honesty, and trust. These values are reflected in our longstanding commitment to protect your privacy. 
 
-On www.newyorklife.com we strive to provide you with the most comprehensive and dependable source of life insurance and financial products information on the Web. You can access this information on our various sites with complete anonymity. Whether researching our products and services, using our planning tools, or accessing our educational content, you need provide no personal information whatsoever. Whenever you do supply personal information, such as your name, address, telephone number, or e-mail address, it is kept secure and used solely to answer your inquiry, comply with your request, or supply you with information about new products and services to help you meet your needs. 
+On [www.newyorklife.com](http://www.newyorklife.com/) we strive to provide you with the most comprehensive and dependable source of life insurance and financial products information on the Web. You can access this information on our various sites with complete anonymity. Whether researching our products and services, using our planning tools, or accessing our educational content, you need provide no personal information whatsoever. Whenever you do supply personal information, such as your name, address, telephone number, or e-mail address, it is kept secure and used solely to answer your inquiry, comply with your request, or supply you with information about new products and services to help you meet your needs.
 
-If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here](https://web.archive.org/nyl/v/index.jsp?contentId=11102&vgnextoid=0dd6a2b3019d2210a2b3019d221024301cacRCRD).. 
+If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here](https://web.archive.org/about/customer-privacy-policy).
 
 We will follow the privacy law in your state if that law is different than the policy described in this notice. 
 
 **Our Privacy Pledge**  
 To meet our users' insurance and financial needs, we gather and maintain many types of information. To preserve your privacy we pledge to: 
 
-  * Collect only the information we need to help us deliver superior products and services; 
-  * Protect against unauthorized access to your information; 
-  * Refuse to disclose your health information to third parties for marketing purposes; 
-  * Refuse to sell your information to outside mailing list companies or telemarketers; 
-  * Require companies that help us service your policy or account to protect your information in accordance with strict privacy standards; 
-  * Give you a choice about sharing your information for marketing purposes; 
-  * Maintain up-to-date privacy notices on our Web sites. 
+  * Collect only the information we need to help us deliver superior products and services
+  * Protect against unauthorized access to your information
+  * Refuse to disclose your health information to third parties for marketing purposes
+  * Refuse to sell your information to outside mailing list companies or telemarketers
+  * Require companies that help us service your policy or account to protect your information in accordance with strict privacy standards
+  * Give you a choice about sharing your information for marketing purposes
+  * Maintain up-to-date privacy notices on our Web sites
 
 
 
 **Our Online Information Practices**   
-For a more detailed explanation of the policies and procedures we use online to protect the privacy of your information, including the types of information we may collect online and how we use that information, please [click here](https://web.archive.org/nyl/v/index.jsp?contentId=11092&vgnextoid=e596a2b3019d2210a2b3019d221024301cacRCRD). 
+For a more detailed explanation of the policies and procedures we use online to protect the privacy of your information, including the types of information we may collect online and how we use that information, please [click here](https://web.archive.org/about/questions-and-answers-about-privacy). 
 
 We may disclose information to non-affiliated entities when required by law, such as to respond to a subpoena, to prevent fraud, or to comply with an inquiry by a governmental agency. 
 
@@ -37,22 +37,27 @@ We may disclose information to non-affiliated entities when required by law, suc
 We maintain physical, electronic, and procedural safeguards that meet state and federal regulations. We regularly update and improve our security standards, procedures, and technology to protect against unauthorized access to your confidential information. Access to information gathered on our Web sites is limited to people who need the information to perform their job responsibilities. 
 
 **Keeping Up-To-Date With Our Privacy Policy**   
-This privacy policy takes effect June, 2005. We reserve the right to change our privacy policy. You can always review the current privacy policy from the front page of the site, [ www.newyorklife.com](http://www.newyorklife.com/) , or you can contact us for a copy by writing to: 
+This privacy policy takes effect in July 2012. We reserve the right to change our privacy policy. You can always review the current privacy policy from the front page of the site, [ www.newyorklife.com](http://www.newyorklife.com/), or you can contact us for a copy by writing to: 
 
-New York Life P.O. Box 6916 Cleveland, OH 44101 
+New York Life  
+P.O. Box 6916  
+Cleveland, OH 44101  
+
 
 * The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds: 
 
 New York Life Insurance Company | McMorgan Funds  
 ---|---  
 New York Life Insurance and Annuity Corporation | McMorgan & Company LLC  
-New York Life International, Inc. | NYL Executive Benefits LLC  
+New York Life Enterprises LLC | NYL Executive Benefits LLC  
 NYLife Investment Management LLC | New York Life Retirement Plan Services  
 Eagle Strategies LLC | New York Life Trust Company  
-Eclipse Funds | NYLIFE Distributors LLC  
-ICAP Funds, Inc. | NYLIFE Insurance Company of Arizona  
-Institutional Capital LLC | NYLIFE Securities LLC  
-MainStay Funds | NYLIM Service Company LLC  
-MainStay VP Series Fund, Inc. | NYLINK Insurance Agencies, Inc.  
+Eclipse Funds | NYLCAP Manager LLC  
+ICAP Funds, Inc. | NYLIFE Distributors LLC  
+Institutional Capital LLC | NYLIFE Insurance Company of Arizona  
+Madison Capital Funding LLC | NYLIFE Securities LLC  
+Madison Square Investors LLC | NYLIM Service Company LLC  
+MainStay Funds | NYLINK Insurance Agencies, Inc.  
+MainStay VP Series Fund, Inc. | Private Advisors, LLC  
   
-If you would like more detailed information about this site's privacy practices, please [click here](https://web.archive.org/nyl/v/index.jsp?contentId=11092&vgnextoid=e596a2b3019d2210a2b3019d221024301cacRCRD). 
+If you would like more detailed information about this site's privacy practices, please [click here](https://web.archive.org/about/questions-and-answers-about-privacy). 
