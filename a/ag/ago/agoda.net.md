@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoda.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502220111id_/http%3A//www.agoda.com/info/agoda_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoda.net privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104094423id_/http%3A//www.agoda.com/info/agoda_privacy.html) for the most accurate reproduction.*
 
 # Agoda Privacy Policy
 
@@ -41,6 +41,19 @@ To serve you faster and with better quality, we use "cookie" technology on our S
 How You Can Access or Change Your Personally-Identifying Information
 
 If you wish to update any Personal Data you have previously provided, or to exercise any right of access, rectification, deletion, or opposition to the processing of your Personal Data that you may have under applicable law, please contact us via our [Customer Support page](http://www.agoda.com/info/contact_agoda.html). To protect your privacy and security, we will verify your identity before granting access or making changes to your Personal Data. Any request to access your Personal Data will be answered in less than 30 days.
+
+If you wish to contact our customer service representatives via email you may send an email to:  
+privacy@agoda.com
+
+Alternatively you may send a registered letter to the agoda offices at the following address:
+
+Privacy C/O Agoda Co. PTE Ltd  
+20 Cecil Street #14-01  
+Singapore 49705  
+Singapore
+
+You may also contact our customer service agents 24/7 via phone at the following number:  
++44 20 3027 7900
 
 A Special Note About Children
 
