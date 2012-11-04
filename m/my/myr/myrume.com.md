@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505010811id_/http%3A//www.myrume.com/Content.aspx%3FPage%3DPolicy%2Band%2BReturns%26PK%3Dac3c3702-0750-4284-94ac-af2c412c63d8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104233328id_/http%3A//www.myrume.com/Content.aspx%3FPage%3DPolicy%2Band%2BReturns%26PK%3Dac3c3702-0750-4284-94ac-af2c412c63d8) for the most accurate reproduction.*
 
 # MyRuMe.com - Policy and Returns
 
