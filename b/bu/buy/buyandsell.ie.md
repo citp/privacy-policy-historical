@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519092639id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104022857id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
 
 # Buy and Sell anything in Ireland | Easy to use – BuyandSell.ie
 
