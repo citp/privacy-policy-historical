@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204000237id_/http%3A//www.biocompare.com/Pages/48/Biocompare-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104072745id_/http%3A//www.biocompare.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Biocompare Buyer's Guide For Life Scientists
+# Privacy Policy | Biocompare: The Buyer's Guide for Life Scientists
 
 _Effective: 12/15/2010_
 
@@ -132,14 +132,4 @@ CompareNetworks Inc.
 STE 321  
 South San Francisco, CA 94080 
 
-Please see the [ disclaimer](http://www.biocompare.com/Pages/47/Biocompare-Disclaimer-and-terms-of-use.html "Disclaimer") for additional, related information.
-
-  
-
-
-  * [ Biocompare.com Disclaimer and Terms of Use](http://www.biocompare.com/Pages/47/Biocompare-Disclaimer-and-terms-of-use.html "Biocompare.com Disclaimer and Terms of Use")
-  * [ Biocompare.com RSS Feeds Terms of Use](http://www.biocompare.com/RssFeedHelp.aspx#terms "Biocompare.com RSS Feeds Terms of Use")
-  * [About Biocompare.com](http://www.biocompare.com/Pages/42/About-Biocompare.html "About Biocompare.com")
-  * [Contact Biocompare.com](http://www.biocompare.com/ContactUs.aspx "Contact Biocompare.com")
-
-
+Please see the [disclaimer](https://web.archive.org/Disclaimer/ "Diclaimer") for additional related information. 
