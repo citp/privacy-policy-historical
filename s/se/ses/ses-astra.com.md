@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610175204id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104024043id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SES.com
+# Privacy Policy - Satellite Services - SES.com
 
 SES is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you we receive on the Internet. This Privacy policy covers our use of information which is collected through or in connection with this site.
 
