@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506143352id_/http%3A//www.millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104045159id_/http%3A//www.millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Romance, fiction books and ebooks from Mills & Boon
 
@@ -47,4 +47,4 @@ By using our site, you consent to the collection and use of this information by 
 
 [](http://www.dma.org.uk/)
 
-[Back to help menu](https://web.archive.org/web/20120506143352id_/http%3A//www.millsandboon.co.uk/faqs.asp)
+[Back to help menu](https://web.archive.org/web/20121104045159id_/http%3A//www.millsandboon.co.uk/faqs.asp)
