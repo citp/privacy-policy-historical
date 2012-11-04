@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428041128id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104062826id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
 
 # This is Uncommon - Privacy
 
