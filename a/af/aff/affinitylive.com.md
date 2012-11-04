@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622064755id_/http%3A//www.affinitylive.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105004317id_/http%3A//affinitylive.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » AffinityLive
+# Privacy Policy » AffinityLive - integrated CRM, Project Management, Issue Tracking, Time Billing & Resource Management for Digital Marketers, MSPs & Professional Services
 
 This privacy statement describes how **Hiive Systems** collects and uses the personal information you provide on **AffinityLive**. It also describes the choices available to you regarding our use of your information and how you can access and update this information.
 
@@ -24,6 +24,8 @@ We use this information to:
   * Send you service updates and marketing communications. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails
 
 
+
+Â 
 
 We collect the following personal information from you
 
@@ -56,6 +58,8 @@ We may also disclose your personal information:
 
 
 
+Â 
+
 ## Security
 
 The security of your personal information is important to us. We take commercially reasonable measures and follow generally accepted standards to protect the information you provide us, both during transmission and once we receive it. For example, if you provide sensitive information such as a credit card number through our app, we encrypt the transmission of that information using secure socket layer technology (SSL).
@@ -70,10 +74,12 @@ We use this aggregated information to understand and optimize how our app is use
 
 ## Accessing your Information
 
+Â 
+
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to close your account or request that we no longer use your information to provide you services contact [AffinityLive support](mailto:support@affinitylive.com).
 
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Updates to this Policy
 
-We may update this privacy statement to reflect changes to our business or this app as it pertains to the information collected from you and our use of it. If the change impacts how we use or handle information collected from you, we will email you and/or your company’s account administrator, or post a notice where you first access this app prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy statement to reflect changes to our business or this app as it pertains to the information collected from you and our use of it. If the change impacts how we use or handle information collected from you, we will email you and/or your companyâ€™s account administrator, or post a notice where you first access this app prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
