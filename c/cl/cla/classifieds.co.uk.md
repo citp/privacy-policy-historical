@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509003753id_/http%3A//www.classifieds.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104105826id_/http%3A//www.classifieds.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Classifieds.co.uk - Classified ads
 
@@ -6,7 +6,7 @@ Effective Date: Wednesday 15th September 2010
 
 _Generally Classifieds.co.uk ("Site" or "we", "our" or "us") will not collect, store, use ordisclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in very specific instances, for example, when you provide PII through registering on the Site and placing an advert on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy._
 
-This service is provided by Classifieds.co.uk which is owned by ValueClick Europe Ltd. For us, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us. 
+This service is provided by Classifieds.co.uk which is operated by Freeads Classifieds Ltd. For us, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us. 
 
 **What does this Privacy Policy cover?**
 
@@ -24,7 +24,7 @@ Classifieds.co.uk may release account and any other personal information when we
 
 **a) Traffic or Clickstream Data ("Clickstream Data").**
 
-Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and ValueClick Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and ValueClick Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or ValueClick Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services. Within the company and with respect to online behavioural advertising, certain affiliated companies may use non-personally identifiable information (which may or may not include click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) collected during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice and/or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and Freeads Classifieds Ltd Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and Freeads Classifieds Ltd Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or Freeads Classifieds Ltd Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services. Within the company and with respect to online behavioural advertising, certain affiliated companies may use non-personally identifiable information (which may or may not include click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) collected during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice and/or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 **(b) Non-Personally Identifiable Information.**
 
@@ -58,17 +58,15 @@ Finally, from time to time, but only with your permission, we may provide your P
 
 **Do we collect personally identifying information from or about children?**
 
-We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children aged 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [privacy@classifieds.co.uk](mailto:privacy@classifieds.co.uk). 
+We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children aged 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [support@classifieds.co.uk](mailto:support@classifieds.co.uk). 
 
 **How is my data processed?**
 
-We may disclose data to other entities within the EU belonging to the Value Click group of companies and to third parties located in the EU to the extent that such disclosure is not incompatible with the purposes for which data are collected as mentioned above, but only that they provide adequate privacy protection. 
+We may disclose data to other entities within the EU belonging to the Freeads Classifieds Ltd and to third parties located in the EU to the extent that such disclosure is not incompatible with the purposes for which data are collected as mentioned above, but only that they provide adequate privacy protection. 
 
 You acknowledge that Classifieds.co.uk and its affiliate entities operate in the United States and the European Union and agree to (i) permit Classifieds.co.uk to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by us shall be subject to the Terms stated in this Privacy Policy and our [Terms of Use](http://www.classifieds.co.uk/info/terms). 
 
 **Do I have choices?**
-
-Yes. You may opt-out at any time by sending a request that includes your full name, email address, and postal address with a request for opt-out with regard to your PII to: Classifieds.co.uk, Oxford House, 182 Upper Richmond Road, Putney, London, SW15 2 SH, United Kingdom or you can email us including your full name, email address with a request for opt-out with regard to your PII to [privacy@classifieds.co.uk](mailto:privacy@classifieds.co.uk). 
 
 The Cookies we use do not have an "opt-out" option, yet you still have the option of blocking the use of cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this. 
 
@@ -78,9 +76,7 @@ Please note that the implementation of browser settings that refuse all cookies 
 
 We may need to share information you have supplied with third parties in limited circumstances for legal compliance, to prevent fraud or imminent harm, to ensure security, or in case of a transfer of ownership of the company. We do not collect or process any sensitive data such as data about health or similarly sensitive matters. 
 
-If at any time you no longer wish to receive e-newsletters from Classifieds.co.uk, you may "unsubscribe" by sending an email to [privacy@classifieds.co.uk](mailto:privacy@classifieds.co.uk) or by using the unsubscribe option within the email. In compliance with the Privacy and Electronic Communications (EC Directive) Regulations 2003, you will be removed entirely from our email list and will no longer receive e-newsletters from us. If you have registered or submitted PII under more than one email account, you must submit separate unsubscribe requests from each account. 
-
-Classifieds.co.uk sends a confirming email for each member registration. You may change, correct or update your information by contacting us at this address: Classifieds.co.uk, Oxford House, 182 Upper Richmond Road, Putney, London, SW15 2 SH, United Kingdom. Changing or deleting your information or otherwise opting-out of receipt of communications from Classifieds.co.uk will change or delete the data only in our database for purposes of transacting future business on our sites and for managing future communications from Classifieds.co.uk. These changes and deletions will not change or delete information already collected as part of a particular transaction. 
+If at any time you no longer wish to receive e-newsletters from Classifieds.co.uk, you may "unsubscribe" by sending an email to [support@classifieds.co.uk](mailto:support@classifieds.co.uk) or by using the unsubscribe option within the email. In compliance with the Privacy and Electronic Communications (EC Directive) Regulations 2003, you will be removed entirely from our email list and will no longer receive e-newsletters from us. If you have registered or submitted PII under more than one email account, you must submit separate unsubscribe requests from each account. 
 
 **Is data stored by us secure?**
 
@@ -102,23 +98,23 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 If you have any questions about anything in this Privacy Policy, please contact us as follows: 
 
-Classifieds.co.uk, Oxford House, 182 Upper Richmond Road, Putney, London, SW15 2SH should you have any questions regarding this Privacy Policy. 
-
-  * E-Mail: [privacy@classifieds.co.uk](mailto:privacy@classifieds.co.uk)
-  * Classifieds.co.uk, is a division of ValueClick Europe Ltd.
-  * Registered in England and Wales, No. 03807256.
+  * E-Mail: [support@classifieds.co.uk](mailto:support@classifieds.co.uk)
+  * Classifieds.co.uk is operated by Freeads Classifieds Ltd.
+  * Registered in England and Wales, No. 04438153.
 
 
-  * ValueClick Europe Limited,
-  * 182 Upper Richmond Road,
-  * Putney,
-  * London,
-  * SW15 2SH.
+  * Freeads Classifieds Ltd.
+  * Westmead House
+  * Westmead
+  * Farnborough
+  * Hampshire
+  * GU14 7LP
 
 
   * Registered office:
-  * 190 Strand,
+  * 15 Bolton Street,
+  * Mayfair,
   * London,
-  * WC2R 1JN. 
+  * W1Y 8AR
 
 
