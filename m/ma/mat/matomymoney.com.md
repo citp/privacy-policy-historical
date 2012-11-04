@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matomymoney.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614190358id_/http%3A//www.matomymoney.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matomymoney.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104070051id_/http%3A//www.matomymoney.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Matomy Money
 
