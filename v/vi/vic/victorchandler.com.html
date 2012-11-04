@@ -1,24 +1,81 @@
-<!--The following is the downloaded HTML source of the victorchandler.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620112201id_/http%3A//www.betvictor.com/sports/en/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the victorchandler.com privacy policy that was archived on 2012-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105002911id_/http%3A//www.betvictor.com/sports/en/content/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<title>BetVictor  : Sports : Privacy Policy</title>
+<title>Sports - Privacy Policy -  - BetVictor</title>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="ZVEahZgsivxfQgLEWU2c1xGISx5JyZiMoeXvcOA3KPo=" name="csrf-token">
+<meta content="YlwTXLCsyFBAvarbb4HYn+Zi2+t0QwBCvOuKtWuYmOA=" name="csrf-token">
 <link href="http://betvictor.com/sports/en/content/privacy-policy" rel="canonical">
 <meta content="yes" name="apple-mobile-web-app-capable">
-<link href="http://assets1.image-repository.com/zaynar/packages/sports_en.css?1339663382" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets1.image-repository.com/zaynar/packages/sports_en.css?1351768879" media="screen" rel="stylesheet" type="text/css">
 <!--[if lte IE 8]>
-<link href="http://assets1.image-repository.com/zaynar/stylesheets/ie_hacks/sports_ie.css?1339663347" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://assets1.image-repository.com/zaynar/stylesheets/ie_hacks/sports_ie.css?1351768837" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://assets1.image-repository.com/zaynar/packages/all.js?1339663380" type="text/javascript"></script>
-<script src="http://assets1.image-repository.com/zaynar/packages/sports.js?1339663356" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script src="http://assets1.image-repository.com/zaynar/javascripts/libs/respond.min.js?1351768748" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://assets1.image-repository.com/zaynar/packages/all.js?1351768877" type="text/javascript"></script>
+<script src="http://assets1.image-repository.com/zaynar/packages/sports.js?1351768845" type="text/javascript"></script>
 <meta content="" name="description">
+
+<script>
+  //<![CDATA[
+    var CURRENT_PAGE_TYPE = 'subpage';
+  //]]>
+</script>
 
 <script src="/javascripts/locales/translate_en-gb.js" type="text/javascript"></script>
 
-<link href="/images/favicon/sports.ico" rel="shortcut icon">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27425583-1']);
+  _gaq.push(['_setDomainName', 'www.betvictor.com']); 
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  var GAData = {};
+  GAData.page  = 'Sports'
+  GAData.sport = 'Subpage';
+  if(GAData.sport === 'Tab'){
+    GAData.sport = "";
+  }
+
+  $(document).ready(function() {
+    function getLength(lengthable){
+      var the_length = 0;
+      if(lengthable !== undefined){
+        the_length = lengthable.length;
+      }
+      return the_length;
+    }
+
+    function bestslipCount(data){
+      var multiples_length, singles_length;
+      multiples_length = getLength(data.betslip_multiples);
+      singles_length   = getLength(data.betslip_singles);
+      return multiples_length + singles_length;
+    }
+
+    App.vent.bind("betslip:addsingle", function(bet){
+      // _gaq.push(['_trackEvent', 'Sport', 'Select Bet', 'Tennis']);
+      _gaq.push(['_trackEvent', GAData.page, 'Select Bet', GAData.sport]);
+    });
+    
+    App.vent.bind("bets:submited", function(data){
+      // _gaq.push(['_trackEvent', 'Sport', 'Place Bets', '', no_of_items_on_the_bet_slip]);
+      _gaq.push(['_trackEvent', GAData.page, 'Place Bets', '', bestslipCount(data)]);
+    });
+  });
+</script>
+
+
+<link href="http://assets0.image-repository.com/zaynar/images/favicon/sports.ico?1351768748" rel="shortcut icon">
 </head>
 <body data-allow-utf8="false" data-lang="en-gb" data-site="sports" ontouchmove="BlockMove(event)">
 <div dir="LTR" id="container">
@@ -26,39 +83,34 @@
 <header>
 <a href="/sports/en-gb" id="headLogo" title="Sports"><div id="logo_image"></div></a>
 <ul id="site_tabs">
-<li class="tab"><a href="/sports/en" class="sports  active">Sports</a></li>
-<li class="tab"><a href="/live/en" class="live  inactive">Live</a></li>
-<li class="tab"><a href="/euro2012/en" class="euro2012  inactive">Euro 2012</a></li>
-<li class="tab"><a href="/casino/en" class="casino  inactive">Casino</a></li>
-<li class="tab"><a href="/vcpoker/en-gb/" class="poker-old  inactive">Poker</a></li>
-<li class="tab"><a href="/games/en" class="games  inactive">Games</a></li>
-<li class="tab"><a href="/slots/en" class="slots  inactive">Slots</a></li>
-<li class="tab"><a href="/live-casino/en" class="live-casino  inactive">Live Casino</a></li>
-<li class="tab"><a href="/mobile/en" class="mobile  inactive">Mobile</a></li>
-<li class="tab"><a href="/financials/en" class="financials  inactive">Financials</a></li>
+<li class="tab"><a href="/sports/en" class="sports  active first ">Sports</a></li>
+<li class="tab"><a href="/live/en" class="live  inactive  ">Live</a></li>
+<li class="tab"><a href="/casino/en" class="casino  inactive  ">Casino</a></li>
+<li class="tab"><a href="/poker/en" class="poker  inactive  ">Poker</a></li>
+<li class="tab"><a href="/games/en" class="games  inactive  ">Games</a></li>
+<li class="tab"><a href="/slots/en" class="slots  inactive  ">Slots</a></li>
+<li class="tab"><a href="/live-casino/en" class="live-casino  inactive  ">Live Casino</a></li>
+<li class="tab"><a href="/mobile/en" class="mobile  inactive  ">Mobile</a></li>
+<li class="tab"><a href="/financials/en" class="financials  inactive  last">Financials</a></li>
 
 </ul>
 </header>
 <div id="login_bar">
 <span id="language_select">
-<img alt="Flag-en" src="http://assets2.image-repository.com/zaynar/images/flags/flag-en.png?1339662885">
+EN
 <ul id="language_options">
-<li>
-<a href="http://www.betvictor.com/sports/de-de"><img alt="Flag-small-de-de" border="0" src="http://assets2.image-repository.com/zaynar/images/flags/flag-small-de-de.gif?1339662885">&nbsp;Deutsch</a>
-</li>
-<li>
-<a href="http://www.betvictor.com/sports/en-gb"><img alt="Flag-small-en-gb" border="0" src="http://assets2.image-repository.com/zaynar/images/flags/flag-small-en-gb.gif?1339662885">&nbsp;English</a>
-</li>
-<li>
-<a href="http://www.betvictor.com/euro2012/el-gr"><img alt="Flag-small-el-gr" border="0" src="http://assets2.image-repository.com/zaynar/images/flags/flag-small-el-gr.gif?1339662885">&nbsp;Greek</a>
-</li>
-<li>
-<a href="http://www.victorbet.com/euro-2012/he"><img alt="Flag-small-he" border="0" src="http://assets2.image-repository.com/zaynar/images/flags/flag-small-he.gif?1339662885">&nbsp;Hebrew</a>
-</li>
+<li><a href="http://www.betvictor.com/sports/en">English</a></li>
+<li><a href="http://www.betvictor.com/sports/el-gr">Ελληνικά</a></li>
+<li><a href="http://www.betvictor.com/sports/de">Deutsch</a></li>
+<li><a href="http://www.victorbet.com/sports/he">עברית</a></li>
+<li><a href="http://www.thespinroom.com/sports/it">Italiano</a></li>
+<li><a href="http://www.xinweide.com/welcome/zh-cn/">简体中文</a></li>
+<li><a href="http://www.xinweide.com/welcome/zh-tw/">繁體中文</a></li>
 </ul>
 </span>
+
 <div id="login">
-<form accept-charset="UTF-8" action="https://www.betvictor.com/sports/en/login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ZVEahZgsivxfQgLEWU2c1xGISx5JyZiMoeXvcOA3KPo="></div>
+<form accept-charset="UTF-8" action="https://www.betvictor.com/sports/en/login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="YlwTXLCsyFBAvarbb4HYn+Zi2+t0QwBCvOuKtWuYmOA="></div>
 <p>
 <input id="username" name="username" placeholder="Username:" type="text">
 </p>
@@ -74,8 +126,8 @@ LOGIN
 </form>
 
 <div id="login_options">
-<div id="chat_top_bar">
-<a href="#" onclick="javascript:window.open('https://chat.betvictor.com/netagent/cimlogin.aspx?questid=66688E3C-53A4-4985-8CA5-FDDF7B84C54C&amp;portid=33DEDC95-941A-44F7-9F6B-A4240A5EE4FC&amp;nareferer='+escape(document.location),'_blank','resizable=yes,width=600,height=475,scrollbars=yes'); return false;"><img alt="Chat-top-bar-on" border="0" src="http://assets2.image-repository.com/zaynar/images/chat/en/chat-top-bar-on.png?1339662885"></a>
+<div class="full_size" id="chat_top_bar">
+<a href="#" onclick="javascript:window.open('http://chat.betvictor.com/netagent/cimlogin.aspx?questid=A1D6BD06-9C5F-400B-9A1F-7F36E8424F4E&amp;portid=33DEDC95-941A-44F7-9F6B-A4240A5EE4FC&amp;nareferer='+escape(document.location),'_blank','resizable=yes,width=600,height=475,scrollbars=yes'); return false;"><img alt="Chat-top-bar-on" border="0" src="http://assets2.image-repository.com/zaynar/images/chat/chat-top-bar-on.png?1351768748"> <p>CHAT</p></a>
 </div>
 <a href="/sports/en/account/new" class="open_account">OPEN ACCOUNT</a>
 </div>
@@ -100,10 +152,10 @@ LOGIN
 Help Centre
 </span>
 </a>
-<a href="http://vchandler.teamtalk.com/Victor_Chandler/Audio_Centre/Index/0,,Horse_Racing,00.html" id="commentary"><img alt="Commentary" src="http://assets2.image-repository.com/zaynar/images/icon-commentary.png?1339662885" title="Commentary"></a>
-<a href="http://betvictor.goalsfeed.com" id="results"><img alt="Results" src="http://assets2.image-repository.com/zaynar/images/icon-results.png?1339662885" title="Results"></a>
+<a href="http://vchandler.teamtalk.com/Victor_Chandler/Audio_Centre/Index/0,,Horse_Racing,00.html" id="commentary"><img alt="Commentary" src="http://assets2.image-repository.com/zaynar/images/icon-commentary.png?1351768748" title="Commentary"></a>
+<a href="http://betvictor.goalsfeed.com" id="results"><img alt="Results" src="http://assets2.image-repository.com/zaynar/images/icon-results.png?1351768748" title="Results"></a>
 <span id="price_formats">
-<img alt="Fractions" src="http://assets2.image-repository.com/zaynar/images/price-fractions.png?1339662885" title="Fractions">
+<img alt="Fractions" src="http://assets2.image-repository.com/zaynar/images/price-fractions.png?1351768748" title="Fractions">
 <ul id="price_format_options">
 <li><a href="http://www.betvictor.com/sports/en/price_formats?price_format=1">US</a></li>
 <li><a href="http://www.betvictor.com/sports/en/price_formats?price_format=2">Fractions</a></li>
@@ -116,9 +168,9 @@ Help Centre
 <div id="external_social">
 
 
-<a href="http://altfarm.mediaplex.com/ad/ck/15121-148014-24755-1" target="_blank"><img alt="Media-facebook" src="http://assets2.image-repository.com/zaynar/images/media-facebook.png?1339662885" title="Facebook"></a>
-<a href="http://altfarm.mediaplex.com/ad/ck/15121-148014-27276-0" target="_blank"><img alt="Media-twitter" src="http://assets2.image-repository.com/zaynar/images/media-twitter.png?1339662885" title="Twitter"></a>
-<a href="http://altfarm.mediaplex.com/ad/ck/15121-148014-15838-0" target="_blank"><img alt="Media-youtube" src="http://assets2.image-repository.com/zaynar/images/media-youtube.png?1339662885" title="Youtube"></a>
+<a href="http://altfarm.mediaplex.com/ad/ck/15121-148014-24755-1" target="_blank"><img alt="Media-facebook" src="http://assets2.image-repository.com/zaynar/images/media-facebook.png?1351768748" title="Facebook"></a>
+<a href="http://altfarm.mediaplex.com/ad/ck/15121-148014-27276-0" target="_blank"><img alt="Media-twitter" src="http://assets2.image-repository.com/zaynar/images/media-twitter.png?1351768748" title="Twitter"></a>
+<a href="http://altfarm.mediaplex.com/ad/ck/15121-148014-15838-0" target="_blank"><img alt="Media-youtube" src="http://assets2.image-repository.com/zaynar/images/media-youtube.png?1351768748" title="Youtube"></a>
 
 </div>
 </div>
@@ -126,66 +178,68 @@ Help Centre
 <div id="flash"></div>
 
 <div id="content">
-<div id="left_content"><section id="search">
-<form accept-charset="UTF-8" action="http://www.betvictor.com/sports/en/search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ZVEahZgsivxfQgLEWU2c1xGISx5JyZiMoeXvcOA3KPo="></div>
-<input id="q" name="q" type="text" value="Search This Site...">
-<input class="submit" type="submit" value=" ">
-</form>
-
-</section>
-<nav id="sports_component">
-<h2 class="top_sports">
-Top Sports
-</h2>
-<ul class="top_sports">
-<li><a href="/sports/en/football">Football</a></li>
-<li><a href="/sports/en/horse-racing">Horse Racing</a></li>
-<li><a href="/sports/en/tennis">Tennis</a></li>
-</ul>
-<h2 class="sports">
-Sports
-</h2>
-<ul class="sports">
-<li><a href="/sports/en/american-football">American Football</a></li>
-<li><a href="/sports/en/australian-rules-football">Australian Rules Football</a></li>
-<li><a href="/sports/en/baseball">Baseball</a></li>
-<li><a href="/sports/en/basketball">Basketball</a></li>
-<li><a href="/sports/en/bowls">Bowls</a></li>
-<li><a href="/sports/en/boxing-ufc">Boxing/MMA</a></li>
-<li><a href="/sports/en/cricket">Cricket</a></li>
-<li><a href="/sports/en/cycling">Cycling</a></li>
-<li><a href="/sports/en/darts">Darts</a></li>
-<li><a href="/sports/en/entertainment">Entertainment</a></li>
-<li><a href="/financials/en" url="{:popup=>[&quot;&quot;, &quot;width=800,height=600&quot;]}">Financials</a></li>
-<li><a href="/sports/en/football">Football</a></li>
-<li><a href="/sports/en/football-specials">Football Specials</a></li>
-<li><a href="/sports/en/gaelic-games">Gaelic Games</a></li>
-<li><a href="/sports/en/golf">Golf</a></li>
-<li><a href="/sports/en/dogs">Greyhounds</a></li>
-<li><a href="/sports/en/horse-racing">Horse Racing</a></li>
-<li><a href="/sports/en/motor-racing">Motor Racing</a></li>
-<li><a href="/sports/en/motorcycling">Motorcycling</a></li>
-<li><a href="/sports/en/olympic-games">Olympic Games</a></li>
-<li><a href="/sports/en/politics">Politics</a></li>
-<li><a href="/sports/en/rugby-league">Rugby League</a></li>
-<li><a href="/sports/en/rugby-union">Rugby Union</a></li>
-<li><a href="/sports/en/snooker">Snooker</a></li>
-<li><a href="/sports/en/speedway">Speedway</a></li>
-<li><a href="/sports/en/tennis">Tennis</a></li>
-<li><a href="/sports/en/tote" url="{:popup=>[&quot;&quot;, &quot;width=800,height=600&quot;]}">Tote Betting</a></li>
-<li><a href="/sports/en/tote" url="{:popup=>[&quot;&quot;, &quot;width=800,height=600&quot;]}">US Horse Racing</a></li>
-<li><a href="/live/en-gb/#virtuals" url="{:popup=>[&quot;&quot;, &quot;width=800,height=600&quot;]}">Virtual Sports</a></li>
-</ul>
+<div id="left_content"><nav class="links_component" id="links_component_3531">
+<h2>Top Links</h2>
+<ul><li class=" "><a href="/sports/en/team-pages">Premier League Zone</a></li><li class=" "><a href="/sports/en/football/coupon/713/both-teams-to-score">Both Teams to Score</a></li><li class=" "><a href="/sports/en/football/coupon/713/football-bankers">Football Bankers</a></li></ul>
 </nav>
-</div><aside id="right_content"><section data-account-url="http://www.betvictor.com/sports/en/views/history_details" data-add-top-multi-url="http://www.betvictor.com/sports/en/betslip/add_top_multi" data-base-url="http://www.betvictor.com/sports/en" data-betslip-action="placebets" data-betslip-receipt-url="http://www.betvictor.com/sports/en/betslip/receipt" data-confirm-bets-url="http://www.betvictor.com/sports/en/betslip/confirm" data-deposit-url="http://www.betvictor.com/sports/en/views/banking_details" data-forgot-password-url="http://www.betvictor.com/sports/en/account/forgot_password" data-login-form-url="http://www.betvictor.com/sports/en/login_form" data-login-url="https://www.betvictor.com/sports/en/login" data-new-account-url="http://www.betvictor.com/sports/en/account/new" data-new-betslip-url="http://www.betvictor.com/sports/en/betslip/new" data-place-bets-url="http://www.betvictor.com/sports/en/betslip/save" data-quick-deposit-url="http://www.betvictor.com/sports/en/quick_deposit" data-show-betslip-url="http://www.betvictor.com/sports/en/betslip/show" id="betslip"></section>
+<nav class="links_component" id="links_component_6188">
+<h2>Top Sports</h2>
+<ul><li class=" "><a href="/sports/en/horse-racing">Horse Racing</a></li><li class=" "><a href="/sports/en/football">Football</a></li><li class=" "><a href="/sports/en/tennis">Tennis</a></li></ul>
+</nav>
+<nav class="links_component" id="links_component_6187">
+<h2>Sports</h2>
+<ul><li class=" "><a href="/sports/en/american-football">American Football</a></li><li class=" "><a href="/sports/en/australian-rules-football">Australian Rules Football</a></li><li class=" "><a href="/sports/en/baseball">Baseball</a></li><li class=" "><a href="/sports/en/basketball">Basketball</a></li><li class=" "><a href="/sports/en/bowls">Bowls</a></li><li class=" "><a href="/sports/en/boxing">Boxing/MMA</a></li><li class=" "><a href="/sports/en/cricket">Cricket</a></li><li class=" "><a href="/sports/en/cycling">Cycling</a></li><li class=" "><a href="/sports/en/darts">Darts</a></li><li class=" "><a href="/sports/en/entertainment">Entertainment</a></li><li class=" "><a href="/financials/en">Financials</a></li><li class=" "><a href="/sports/en/football">Football</a><ul><li class=" sub_item"><a href="/sports/en/team-pages">Premier League Zone</a></li><li class=" sub_item"><a href="/sports/en/championship">Championship Zone</a></li><li class=" sub_item"><a href="/sports/en/champions-league">Champions Lge Zone</a></li><li class=" sub_item"><a href="/sports/en/europa-league-zone">Europa League Zone</a></li><li class=" sub_item"><a href="/sports/en/football-specials">Football Specials</a></li></ul></li><li class=" "><a href="/sports/en/futsal">Futsal</a></li><li class=" "><a href="/sports/en/gaelic-games">Gaelic Games</a></li><li class=" "><a href="/sports/en/golf">Golf</a></li><li class=" "><a href="/sports/en/dogs">Greyhounds</a></li><li class=" "><a href="/sports/en/handball">Handball</a></li><li class=" "><a href="/sports/en/horse-racing">Horse Racing</a></li><li class=" "><a href="/sports/en/ice-hockey">Ice Hockey</a></li><li class=" "><a href="/sports/en/motor-racing">Motor Racing</a></li><li class=" "><a href="/sports/en/politics">Politics</a></li><li class=" "><a href="/sports/en/rugby-league">Rugby League</a></li><li class=" "><a href="/sports/en/rugby-union">Rugby Union</a></li><li class=" "><a href="/sports/en/snooker">Snooker</a></li><li class=" "><a href="/sports/en/speedway">Speedway</a></li><li class=" "><a href="/sports/en/tennis">Tennis</a></li><li class=" "><a href="/sports/en-gb/tote-betting">Tote bets</a></li><li class=" "><a href="/sports/en-gb/tote-betting">US Horse Racing</a></li><li class=" "><a href="/sports/en/volleyball">Volleyball</a></li></ul>
+</nav>
+</div><div id="two_column_width_head_content"><span class="hidden_div"></span>
+<script>
+   $(function() {
+     $(".header_background").hide();
+   });
+</script>
+</div><aside id="right_content"><section data-account-url="http://www.betvictor.com/sports/en/views/history_details" data-add-top-multi-url="http://www.betvictor.com/sports/en/betslip/add_top_multi" data-base-url="http://www.betvictor.com/sports/en" data-betslip-action="placebets" data-betslip-receipt-url="http://www.betvictor.com/sports/en/betslip/receipt" data-confirm-bets-url="http://www.betvictor.com/sports/en/betslip/confirm" data-deposit-url="http://www.betvictor.com/sports/en/views/banking_details" data-forgot-password-url="http://www.betvictor.com/sports/en/account/forgot_password" data-login-form-url="http://www.betvictor.com/sports/en/login_form" data-login-url="http://www.betvictor.com/sports/en/login" data-new-account-url="http://www.betvictor.com/sports/en/account/new" data-new-betslip-url="http://www.betvictor.com/sports/en/betslip/new" data-place-bets-url="http://www.betvictor.com/sports/en/betslip/save" data-quick-deposit-url="http://www.betvictor.com/sports/en/quick_deposit" data-show-betslip-url="http://www.betvictor.com/sports/en/betslip/show" id="betslip"></section>
 <script charset="utf-8" type="text/javascript">
 loadBetslip();
-Betslip.refreshHighlights();
+<!-- /Betslip.refreshHighlights(); -->
 </script>
 
 <div class="banner_image">
 <a href="/sports/en/account/new"><img alt="Whychoosebetvictor" src="http://assets3.image-repository.com/zaynar/uploads/components/attachments/1287/original/whychoosebetvictor.jpg?1332418783"></a>
 </div>
+<div class="banner_image">
+<a href="/sports/en/content/best?vcbanner=_bestprice_side_1409"><img alt="Bestfootball-small" src="http://assets3.image-repository.com/zaynar/uploads/components/attachments/6508/original/bestfootball-small.jpg?1350570719"></a>
+</div>
+<div class="banner_image">
+<a href="/sports/en/content/sign-up-bonus?vcbanner=25pound_righthandbanner_small"><img alt="Signup-small" src="http://assets3.image-repository.com/zaynar/uploads/components/attachments/1312/original/signup-small.jpg?1350651243"></a>
+</div>
+<!-- / insert Spincast code here -->
+<!-- / probably requires passing them current_locale (e.g "en") and current_price_format (e.g 3) -->
+<div style="position:relative;top:0px;left:0px;width:100%;height:100%;border:0px; margin-bottom: 10px">
+  <div id="spinCast">
+  </div>
+</div>
+<script>
+  //<![CDATA[
+    $(function () {
+       var flashvars  = {'requestURL': "/api/en-gb/2/spincast/"};
+       var params     = {wmode:"transparent", "allowScriptAccess": "always" };
+       var attributes = {};
+       swfobject.embedSWF("http://assets0.image-repository.com/zaynar/swf/spincast/spinCast.swf?1347352039", 'spinCast', '100%', '330', '9', 'false', flashvars, params, attributes);
+    });
+    
+      function rglAddToBetSlip(description, outcome_id, price, price_formatted, price_id, event_description){
+        Betslip.addBet({
+          price_id: price_id,
+          event_description: event_description,
+          market_description: "Spincast",
+          outcome_description: description,
+          outcome_id: outcome_id,
+          price: price,
+          price_formatted: price_formatted
+        });
+      }
+  //]]>
+</script>
+
 </aside><div id="center_content"><div class="static_header">
 <span class="header_background" style="background-image: url('http://assets3.image-repository.com/zaynar/uploads/page_drafts/headers/194/original/privacy_policy.jpg?1321372906')"></span>
 <h1>Privacy Policy</h1>
@@ -213,15 +267,11 @@ Betslip.refreshHighlights();
 <p>
 	<strong>Opting in and out of Promotional Communications</strong></p>
 <p>
-	Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing <a href="mailto:help@betvictor.com">help@betvictor.com</a> Please note, when opting out, whilst every endeavor will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.</p>
+	Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing <a href="mailto:help@betvictor.com">help@betvictor.com</a> or go to 'My Account' then 'Settings' and tick or untick the relevant boxes. Please note, when opting out, whilst every endeavor will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.</p>
 <p>
 	<strong>Changing your personal details</strong></p>
 <p>
 	You may also change your personal details at anytime by log-in and go to My Account then click on Change my details.</p>
-<p>
-	<strong>Cookies</strong></p>
-<p>
-	On your first visit to www.betvictor.com a piece of data called a cookie will be sent to your browser for the purpose of analysing your visits to the site. The cookie contains a unique ID that enables us to recognise your computer upon any subsequent return visits. This helps us to enhance your visits by allowing us to use your previous interests and preferences to create an experience unique to you. Please note that if you do not allow your cookies to be enabled you will be unable to use betvictor.com.</p>
 <p>
 	<strong>International Transfers of Data</strong></p>
 <p>
@@ -257,7 +307,7 @@ Betslip.refreshHighlights();
 </div>
 <div id="loginPopup">
 <div class="topBar">
-<img alt="Close" class="close" src="http://assets2.image-repository.com/zaynar/images/error-close.gif?1339662885">
+<img alt="Close" class="close" src="http://assets2.image-repository.com/zaynar/images/error-close.gif?1351768748">
 </div>
 <h4>
 Please log in to continue
@@ -281,29 +331,55 @@ New to BetVictor?
 
 </div>
 <div id="footer">
+<span class="footer_logo"><img src="//assets1.image-repository.com/zaynar/images/footer/logo-white.png"></span>
+<span>For more information, visit <a target="_blank" href="https://www.gambleaware.co.uk">www.gambleaware.co.uk</a></span><br>
+<span><a href="/sports/en/content/terms-and-conditions">Terms &amp; Conditions</a></span>
+<span> | </span>
+<span><a href="/sports/en/content/privacy-policy">Privacy Policy</a></span>
+<span> | </span>
+<span><a href="/sports/en/content/cookie-policy">Cookie Policy</a></span>
+<span> | </span>
+<span><a href="http://helpcentre.betvictor.com/al/12/2/article.aspx?aid=1100&amp;tab=browse&amp;bt=4&amp;r=0.6344267" target="_blank">Fairness</a></span>
+<span> | </span>
+<span><a href="/sports/en/content/responsible-gambling">Responsible Gambling</a></span>
+<span> | </span>
+<span><a href="http://www.victorsaffiliates.com/en-gb/index.htm">Victor's Affiliates</a></span>
+<span> | </span>
+<span><a href="/sports/en/content/careers">Careers</a><span> | 
+<span><a href="/sports/en/content/about-us">About Us</a></span>
+<span> | </span>
+<span><a href="/sports/en/content/contact-us">Contact Us</a></span>
+<br><br>
+Disclaimer: Victor Chandler International Ltd, trading as BetVictor, address: Leanse Place, 50 Town Range, Gibraltar, is licensed by the Government of Gibraltar (licence numbers 001 and 014) and is regulated by the Gibraltar Gambling Commissioner. Customers should check the laws and regulations in their own country and comply with them. Information on this website is subject to change without notice.
+
+<ul class="footer_icons">
+  <li><a href="/sports/en/content/responsible-gambling"><img border="0" src="//assets1.image-repository.com/zaynar/images/footer/18-white.png"></a></li>
+  <li><a href="http://www.gibraltar.gov.gi/remotegambling/" target="_blank"><img border="0" src="//assets1.image-repository.com/zaynar/images/footer/gra.png"></a></li>
+  <li><a href="http://www.ibas-uk.com" target="_blank"><img border="0" src="//assets1.image-repository.com/zaynar/images/footer/ibas.png"></a></li>
+  <li><a href="http://www.gamcare.org.uk" target="_blank"><img border="0" src="//assets1.image-repository.com/zaynar/images/footer/gamcare.png"></a></li>
+  <li><a target="_blank" href="http://www.gambleaware.co.uk"><img border="0" src="//assets1.image-repository.com/zaynar/images/footer/gambleaware.png"></a></li>
+  <li><a href="http://www.tstglobal.com" target="_blank"><img border="0" src="//assets1.image-repository.com/zaynar/images/footer/tst.png"></a></li>
+<li><img border="0" src="//assets1.image-repository.com/zaynar/images/footer/payment.gif" style="margin-top:10px"></li>
+</ul>
+<div class="strap_line"><img src="//assets1.image-repository.com/zaynar/images/footer/victor-chandler-white.png"></div>
+<script>
+//<![CDATA[
+  $(document).ready(function(){ 
+    var url = '//cdn.optimizely.com/js/129510763.js';
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = url;
+    var h = document.getElementsByTagName("head")[0];
+    h.insertBefore(script, h.childNodes[0]);
+});
+//]]>
+</script>  
 
 <div id="show_environment">
-v1.6.5f
+v1.9.0a
 </div>
 
-</div>
-<div id="google_analytics">
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-27425583-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-</div>
+</span></span></div>
 
 
 </body></html>
