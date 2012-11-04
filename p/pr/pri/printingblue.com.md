@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618221903id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104072800id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -228,8 +228,8 @@
     * [»  Parking Stickers and Tags](https://web.archive.org/parking-stickers-and-parking-tags.asp)
     * [»  Swing Tags](https://web.archive.org/swing-tags-printing.asp)
   * [»  Tickets](https://web.archive.org/tickets-printing.asp)
-    * [»  Jumbo Tickets](https://web.archive.org/jumbo-tickets.asp)
     * [»  Standard Tickets](https://web.archive.org/standard-tickets.asp)
+    * [»  Jumbo Tickets](https://web.archive.org/jumbo-tickets.asp)
     * [»  Custom Tickets](https://web.archive.org/tickets-printing/custom-tickets.asp)
   * [»  Vinyl Banners](https://web.archive.org/vinylbanners-printing.asp)
     * [»  10 oz Vinyl Banners](https://web.archive.org/10oz-vinylbanners.asp)
@@ -238,7 +238,7 @@
 
 | 
 
-[www.printingblue.com](https://web.archive.org/web/20120618221903id_/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases.
+[www.printingblue.com](https://web.archive.org/web/20121104072800id_/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases.
 
 Information Collection
 
