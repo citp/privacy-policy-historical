@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soraup.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626021941id_/http%3A//www.soraup.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soraup.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104234424id_/http%3A//www.soraup.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Sora Up » More Information » Privacy Policy
 
@@ -8,4 +8,4 @@ We may also collect the URL from which you linked into our site, your IP address
 
 User privacy is something we take very seriously at Sora Up. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of Sora Up. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-If you have any question, please do not hesitate to [contact us](http://soraup.com/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [contact us](http://www.soraup.com/contact.php?act=contact_us). 
