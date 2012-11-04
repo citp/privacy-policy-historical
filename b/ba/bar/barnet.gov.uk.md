@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504094629id_/http%3A//www.barnet.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105005155id_/http%3A//www.barnet.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Privacy - London Borough of Barnet
 
 Barnet Council is a registered Data Controller and will only process your personal information in accordance with the requirements of the Data Protection Act 1998 (the Act). This privacy statement applies to all personal data the council collects and processes whether by letter, email, face to face or online.
-
-Details of how we use information gathered on this website is detailed further down this page.
 
 We endeavour to safeguard the privacy of our residents, service users and website visitors. This statement explains what you can expect in regards to how we collect and use your information.
 
@@ -26,30 +24,53 @@ This information is collected in a way which doesn’t allow us to identify you 
 
 Where we do collect personal information from you when you are visiting our website we will make it clear and tell you that we are doing so. For example, if you register with the website or fill in an online form.
 
-## Cookies
+## 
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently. Our cookie policy is set to be compliant with the EU Privacy and Electronic Communications Directive. 
+Cookies are small text files, placed on your computer or mobile device by the websites you visit. They are widely used to make websites work, or work more efficiently. 
 
-We use two cookies on this site:
+We uses cookies to control our websites’ functions, to keep statistics and for session management. We do not store any personal information in cookies. Examples of how we use cookies include: 
 
-  * TestCookie - to determine whether a user's browser accepts cookies and can therefore log in. 
-
-
-  * PHPSESSID (ASP.NET_SessionId on .Net systems) - used to store the individual session id of a user. This is required to determine whether a user is logged in to the web site. Session data is also stored when a user is filling in a form, however the data is stored on the server and not in the cookie.
-
+  * recognising your computer so you don't have to give the same information several times
+  * recognising that you may already have given a username and password 
+  * measuring how many people are using our websites, so we can make improvements. 
 
 
-Both of these cookies are required for the site to operate and do not contain personal data.  We do not store any cookies on your computer.
 
+If you do not want to accept cookies, your browser can be set to automatically reject them or to inform you every time a website asks to store a cookie. You can also delete previously stored cookies. 
+
+You can find out more about cookies and how to manage them on the [Direct Gov website](http://www.direct.gov.uk/en/SiteInformation/Cookies/DG_WP201851?CID=Central&PLA=url_mon&CRE=managing_cookies "How government websites use cookies"). 
+
+Our cookie policy is set to be compliant with the EU Privacy and Electronic Communications Directive.
+
+##  The cookies we use 
+
+**Cookie name** | **Type** | **Purpose** | **Domain** |   
+---|---|---|---|---  
+TestCookie | Non-persistent | This cookie is used to determine whether a user's browser accepts cookies and can therefore log in |  barnet.gov.uk  
+PHPSESSID  | Non-persistent | This cookie is used to store the individual session id of a user. This is required to determine whether a user is logged in to the website. Session data is also stored when a user is filling in a form, however the data is stored on the server and not in the cookie. (This cookie is ASP.NET_SessionID on .Net systems) |  barnet.gov.uk   
+nmstat | Persistent | This cookie is used to collect statistics about site usage such as when the visitor last visited the site.  | siteimprove.co.uk  
+  
+_utma
+
+_utmz 
+
+| Persistent | These cookies are used to collect information about how visitors use our sites.To find out more, view [Google's privacy policy](http://www.google.com/policies/privacy/faq/ "Google's cookie policy") |  google.com  
+  
+_utmb
+
+_utmc 
+
+| Non-persistent | These cookies are used to collect information about how visitors use our sites. To find out more, view [Google's privacy policy](http://www.google.com/policies/privacy/faq/ "Google's privacy policy") |  google.com  
+  
 ## Social media
 
 Any details you provide to register with council for social media such as Twitter and Facebook will only be used for that purpose. We do not cross reference these details with any other information held by the council.
 
-## Computer Viruses
+## Computer viruses
 
 Barnet Council makes every effort to ensure all information is virus checked before it is uploaded and made available on this site. The council cannot accept responsibility for any loss or damage which may occur from use of downloaded documents, it is the responsibility of users to re-check all downloaded documents with their own virus check software.
 
-## Email Messages
+## Email messages
 
 We are keen to ensure that we are providing our citizens with services that they need. Consequently, you may receive occasional email messages from Barnet Council on matters that we consider may be of interest to you based on your previous interaction with us.
 
