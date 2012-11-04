@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicuploadz.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502075034id_/http%3A//www.musicuploadz.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicuploadz.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105004313id_/http%3A//www.musicuploadz.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,4 +70,6 @@ You are responsible for maintaining the accuracy of your profile by notifying us
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. 
 
 Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on our website. Users are bound by any changes to the Privacy Policy when they use MusicUploadz.com after such changes have been first posted. Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of MusicUploadz.com, and you are responsible for reviewing such legal notices for changes, as posted on MusicUploadz.com.   
-
+  
+  
+---|---
