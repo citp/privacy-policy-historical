@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the classifiedsxpress.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511152337id_/http%3A//www.classifiedsxpress.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsxpress.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105000805id_/http%3A//www.classifiedsxpress.com/pages/privacy.html) for the most accurate reproduction.*
 
 # ClassifiedsXpress - Submit Free Classified Ads | Post Free Ads | Find, buy, sell or rent cars, properties, your products, services, jobs, business advertising and many more...
+
+  * [Home](http://www.classifiedsxpress.com/)
+  * »
+  * [ClassifiedsXpress - Submit Free Classified Ads](https://web.archive.org/hsx/classifieds.hsx/)
+
+[Search Ads](https://web.archive.org/search.html) [Post Ads](https://web.archive.org/post.html) [My Account](https://web.archive.org/my_account.html) [My Checklist](https://web.archive.org/my_checklist.html) [My Searches](https://web.archive.org/my_searches.html) [Auto Notify](https://web.archive.org/auto_notify.html)
+
+Submit **Free Classified Ads** \- Find, Buy, sell or rent cars, properties, your products and services, jobs, business advertising and many more...
+
+Just about anything you want! Enhance your ads visibility with featured, premium and ranked classifieds.
+
+Classified ad solutions powered by a "state of the art" SEO friendly application software. All ads are human edited and goes live after our editorial team review.
+
+**IMPORTANT:** Please ensure you select and post your ad in the **correct category** in order to avoid rejection of your ad!
 
 ## ClassifiedsXpress - Submit Free Classified Ads Privacy Policy Statement
 
@@ -134,3 +148,5 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 Back to Top
 
 * * *
+
+[ ](http://www.worldpay.com/ "Payment Processing - WorldPay - Opens in new browser window")
