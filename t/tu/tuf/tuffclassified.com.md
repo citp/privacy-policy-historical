@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615214327id_/http%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104050412id_/http%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
 
-# Privacy - Tuffclassified Free India Classified ads
+# Privacy - Tuff Classified
 
-We can be contacted via e-mail at [Contact Us](https://web.archive.org/web/20120615214327id_/http%3A//tuffclassified.com/contact/).[](http://st1.tuffclassified.in/wp-content/uploads/2009/08/PagePicsPrivacy.png)
+We can be contacted via e-mail at [Contact Us](https://web.archive.org/web/20121104050412id_/http%3A//tuffclassified.com/contact/).[](http://st1.tuffclassified.in/wp-content/uploads/2009/08/PagePicsPrivacy.png)
 
 For each visitor to our Web page, our Web server automatically recognizes information of your browser, IP address, City/State/Country.
 
