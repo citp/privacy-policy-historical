@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503060701id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104061006id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fool Australia
 
@@ -19,7 +19,7 @@ The information outlined above is processed and stored by our parent company, Th
 
   * **More Customised Service:** The Motley Fool collects personal information to provide you, the user, with the best and most personalised Web experience possible and to provide our advertisers with an efficient means to reach the right audience. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and advertisements to you while at our Web site and thus, provide you with a more efficient, customise and seamless experience when using our service.
   * **Internal Research:** Cookies and the other information we automatically track are used to help us better understand how our audience uses our site as well as for internal research on users’ demographics and interests. Each browser accessing The Motley Fool is given a unique cookie which is then used to determine usage patterns, and to help in targeting content and ads based on user interests.
-  * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these subsequent communications, unsubscribe [here](https://web.archive.org/web/20120503060701id_/http://www.fool.com.au/unsubscribe).
+  * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these subsequent communications, unsubscribe [here](https://web.archive.org/web/20121104061006id_/http%3A//unsubscribe).
 
 
 
