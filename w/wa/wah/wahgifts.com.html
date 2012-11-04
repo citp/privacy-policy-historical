@@ -1,0 +1,1809 @@
+<!--The following is the downloaded HTML source of the wahgifts.com privacy policy that was archived on 2012-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104120755id_/http%3A//www.wahgifts.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<base href="http://www.wahgifts.com/">
+<title>WahGifts.com - Privacy Policy</title>
+<meta name="Generator" content="EditPlus">
+<meta name="Author" content="WoodpeckerTechnologies.com">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<link href="assets/css/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<style type="text/css">
+		body
+		{
+			background-color:#1775c3;
+			background:url("admin/themes/diwali/diwali-bg.gif");
+		}
+		a.WahGiftsLogo
+		{
+			float:left;	
+			width:493px;
+			height:128px;
+			display:block;
+			text-indent:-9999px;
+			background:url("admin/themes/diwali/diwali-logo.gif") no-repeat;
+		}
+	</style>
+	<link media="only screen and (max-device-width: 480px)" href="assets/css/mstyle.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=320454494705410"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?RcExwFCMqbjKPhiP7I5Ngcm8xwCEtCRI" type="text/javascript"></script><script type="text/javascript" src="assets/js/dropdowntabs.js"></script>
+<script type="text/javascript" src="assets/js/jquery.min.js">//for slide show</script>
+<script type="text/javascript" src="assets/js/fadeslideshow.js">//for slide show</script>
+<script src="assets/js/jquery-1.7.2.js"></script>
+<script type="text/javascript">
+	function getGetsValue(PageLocation)
+	{
+		$.ajax({url:"dbbyajax.php?&Mode=getGetValues&PageLocation="+encodeURIComponent(PageLocation),success: function(GetValue)
+		{
+			if(GetValue != 'Error')
+			{
+				var DataArr	=	GetValue.split(':|:');
+				var x;
+
+				for (x in DataArr)
+				{
+					var GetArr	= DataArr[x].split(':-:');
+
+					var Val		= GetArr[1];
+
+					if(GetArr[1] == 'undefined' || GetArr[1] == null)
+					{
+						Val	=	'';
+					}
+
+					if(trim(GetArr[0]) == '')
+					{
+						continue;
+					}
+					else
+					{
+						document.getElementById(GetArr[0]).value = Val;
+					}
+				}
+			}
+		}});
+	}
+	function LoadProducts() 
+	{ 		   
+		var RowNo			= $(".ProductContainer:last").attr("row-no");
+		var SQLCondition	= $("#SQLCondition").attr("value");
+		var TotalProductsListed	=	$(".ProductContainerAnchor").length;
+		
+		var LoadNoOfProductsOnScrolling =  '';
+		var ShowCorporatePrice =  '';
+
+		if($('#LoadNoOfProductsOnScrolling'))
+		{
+			LoadNoOfProductsOnScrolling = $('#LoadNoOfProductsOnScrolling').val();
+		}
+		if($('#ShowCorporatePrice'))
+		{
+			ShowCorporatePrice = $('#ShowCorporatePrice').val();
+		}
+		
+		$('div#LastProductLoader').html('<img src="assets/images/loader.gif" style="margin-top:70px; margin-bottom:70px;">');
+		$.get("dbbyajax.php","&Mode=LoadDynamicData&RowNo="+RowNo+"&SQLCondition="+SQLCondition+"&TotalProductsListed="+TotalProductsListed+"&LoadNoOfProductsOnScrolling="+LoadNoOfProductsOnScrolling+"&ShowCorporatePrice="+ShowCorporatePrice,
+		function(data)
+		{
+			if (data != "")
+			{
+				$(".ProductContainerAnchor:last").after(data);	
+				document.getElementById('IsAjaxLoaded').value	=	1;
+				
+				$("img.lazy").lazyload({
+					event: "load",
+					effect : "fadeIn"
+				});
+			}
+			$('div#LastProductLoader').empty();
+		});
+	};  
+	function LoadFeaturedProducts() 
+	{ 		   
+		var IDArr			= $(".CategoryNameStrip:last").attr("id");
+		var CatStripColorID = $(".CategoryNameStrip:last").attr("color-id");
+		var CatStripRowNo	= $(".CategoryNameStrip:last").attr("row-no");
+		var ProductRowNo	= $(".ProductContainer:last").attr("row-no");
+		
+		if(IDArr != '')
+		{
+			IDArr	= IDArr.split('-');
+			var ID	= IDArr[1];
+						$('div#LastProductLoader').html('<img src="assets/images/loader.gif" style="margin-top:70px; margin-bottom:70px;">');
+			$.get("dbbyajax.php","&Mode=LoadDynamicFeaturedData&LastCatID="+ID+"&CatStripRowNo="+CatStripRowNo+"&CatStripColorID="+CatStripColorID+"&ProductRowNo="+ProductRowNo,
+			function(data)
+			{
+				if (data != "")
+				{
+					$(".ProductContainerAnchor:last").after(data);	
+					document.getElementById('IsAjaxLoaded').value	=	1;
+					
+					$("img.lazy").lazyload({
+						event: "load",
+						effect : "fadeIn"
+					});
+				}
+				$('div#LastProductLoader').empty();
+			});
+		}
+	};  		
+	
+	$(window).scroll(function()
+	{
+		if ($(window).scrollTop() >= $(document).height() - $(window).height() -400)
+		{
+			var IsAjaxLoadedObj = document.getElementById('IsAjaxLoaded');
+			if(IsAjaxLoadedObj)
+			{
+				var IsAjaxLoaded	= IsAjaxLoadedObj.value;
+			}
+			else
+			{
+				var IsAjaxLoaded	= 0;
+			}
+
+			if(IsAjaxLoaded == 1)
+			{
+				IsAjaxLoadedObj.value = 0;
+				var NewArrivalsPageObj = document.getElementById('NewArrivalsPage');
+				var ShowProductsOnUserChoiceObj = document.getElementById('ShowProductsOnUserChoice');
+
+				if(ShowProductsOnUserChoiceObj)
+				{
+					var NewArrivalsPage	= 0;
+					if(NewArrivalsPageObj)
+					{
+						NewArrivalsPage				= NewArrivalsPageObj.value;
+					}
+					var ShowProductsOnUserChoice	= ShowProductsOnUserChoiceObj.value;
+
+					if(ShowProductsOnUserChoice == '1')
+					{
+						var TotalProductLoaded	=	$('.ProductContainer').length;
+
+						if(TotalProductLoaded%96 == 0)
+						{
+							$('#ShowMoreProducts').show();
+						}
+						else
+						{
+							if(NewArrivalsPage == '1')
+							{
+								LoadProducts2();
+							}
+							else
+							{
+								LoadProducts();
+							}
+							$('#ShowMoreProducts').hide();
+						}
+					}
+				}
+				else
+				{
+					var NonProductListingPageObj	= document.getElementById('NonProductListingPage');
+					var SkipDynamicLoadingObj		= document.getElementById('SkipDynamicLoading');
+					var IndexPageObj				= document.getElementById('IndexPage');
+					
+					if(NonProductListingPageObj || SkipDynamicLoadingObj)
+					{
+					}
+					else
+					{
+						if(IndexPageObj)
+						{
+							LoadFeaturedProducts();
+						}
+						else
+						{
+							LoadProducts();
+						}
+					}
+				}
+			}
+		}
+	}); 
+
+	function CallLoadPageFunction()
+	{
+		var RelValStr	=	document.getElementById('Relation').value;
+		var RelValArr	=	RelValStr.split('-::-');
+		var RelCod		=	RelValArr[0];
+		var RelID		=	RelValArr[1];
+		if(RelID  == 'undefined' || RelID == null)
+		{
+			RelID = "";
+		}
+		var UrlString	=	'searchresults.php?&RID='+RelCod+'&ReID='+RelID+'&CID='+document.getElementById('Category').value+'&Range='+document.getElementById('PriceRange').value+'&OID='+document.getElementById('Occasion').value;
+
+		LoadPage(UrlString);
+	}
+	function strrpos (haystack, needle)
+	{
+		var i = -1;
+		i = (haystack + '').lastIndexOf(needle);
+		return i >= 0 ? i : -1;
+	}
+	(function($)
+	{
+		$.fn.equalHeight = function()
+		{
+			tallest = 0;
+			this.each(function()
+			{
+				thisHeight = $(this).height();
+				if( thisHeight > tallest)
+					tallest = thisHeight;
+			});
+
+			this.each(function()
+			{
+				$(this).height(tallest);
+			});
+		}
+	})(jQuery);
+	
+
+	$(function(){
+		$("a[rev='tag']").click(function(e)
+		{
+			var StopPageReloadingObj	= document.getElementById('StopPageReloading');
+			if(StopPageReloadingObj)
+			{
+				pageurl = $(this).attr('href');
+				pageurl	= str_replace('DonotInclude=Yes', '', pageurl);
+				var PageLocation = pageurl;
+				if(PageLocation != '#')
+				{
+					LoadPage(PageLocation);
+					getGetsValue(PageLocation);
+				}
+				return false;
+			}
+		});
+	});
+	$(window).bind('popstate', function()
+	{
+		var StopPageReloadingObj	= document.getElementById('StopPageReloading');
+		if(StopPageReloadingObj)
+		{
+			var PageLocation = location.href;
+			PageLocation	= str_replace('<=$BaseServerUrl;?>', '', PageLocation);
+
+			if(!$("body").hasClass("historypushed"))
+			{
+				//var PageLocation = location.pathname;
+				if(strrpos(PageLocation,'?') >= 0)
+				{
+					PageLocation = PageLocation+"&DonotInclude=Yes";
+				}
+				else
+				{
+					PageLocation = PageLocation+"?DonotInclude=Yes";
+				}
+				//PageLocation = PageLocation+"";
+				
+				$('#PageContentLoading').show();
+				$.ajax({url:PageLocation,success: function(data)
+				{
+					$('#PageContentLoading').hide();
+					$('#ContentContainer').empty().html(data);
+
+					var StopPageScrollingObj = document.getElementById('StopPageScrolling');
+					if(StopPageScrollingObj)
+					{
+						if(StopPageScrollingObj.value == 1)
+						{
+						}
+						else
+						{
+							animateScroll('ContentContainer');
+						}
+					}
+					else
+					{
+						animateScroll('ContentContainer');
+					}
+
+					var NonProductListingPageObj = document.getElementById('NonProductListingPage');
+					if(NonProductListingPageObj)
+					{
+					}
+					else
+					{
+						$("img.lazy").lazyload({
+							event: "load",
+							effect : "fadeIn"
+						});
+					}
+
+					var IsAjaxLoadedObj = document.getElementById('IsAjaxLoaded');
+					IsAjaxLoadedObj.value = '1';
+					getGetsValue(PageLocation);
+				}});
+			}
+			$("body").removeClass("historypushed");
+		}
+	});
+
+	function LoadPage(HREF)
+	{
+		var StopPageReloadingObj	= document.getElementById('StopPageReloading');
+		if(StopPageReloadingObj)
+		{
+			pageurl = HREF;
+			pageurl	= str_replace('DonotInclude=Yes', '', pageurl);
+			var PageLocation = pageurl;
+
+			if(PageLocation != '#')
+			{
+				if(strrpos(PageLocation,'?') >= 0)
+				{
+					PageLocation = PageLocation+"&DonotInclude=Yes";
+				}
+				else
+				{
+					PageLocation = PageLocation+"?DonotInclude=Yes";
+				}
+				
+				$('#PageContentLoading').show();
+
+				$.ajax({url:PageLocation,success: function(data)
+				{
+					$('#PageContentLoading').hide();
+					$('#ContentContainer').empty().html(data);
+					var StopPageScrollingObj = document.getElementById('StopPageScrolling');
+					if(StopPageScrollingObj)
+					{
+						if(StopPageScrollingObj.value == 1)
+						{
+						}
+						else
+						{
+							animateScroll('ContentContainer');
+						}
+					}
+					else
+					{
+						animateScroll('ContentContainer');
+					}
+
+					var IsAjaxLoadedObj = document.getElementById('IsAjaxLoaded');
+					IsAjaxLoadedObj.value = '1';
+
+					$("img.lazy").lazyload({
+						/*event: "scrollstop",*/
+						event: "load",
+						effect : "fadeIn"
+					});
+				}});
+				
+				if(pageurl!=window.location)
+				{
+					window.history.pushState({path:pageurl},'',pageurl);	
+					$("body").addClass("historypushed");
+				}
+			}
+			$("body").removeClass("historypushed");
+			return false;  
+		}
+		else
+		{
+			window.location.href = HREF;
+			return false;
+		}
+	}
+</script>
+<script src="assets/colorbox/jquery.colorbox.js"></script>
+<script>
+	$(document).ready(function(){
+		$(".AddToCart").colorbox({iframe:true, width:"800px", height:"452px"});
+		$(".Login").colorbox({inline:true, width:"630px", height:"273px",scrolling:false,onComplete:function(){$('#PopupLoginEmail').focus();}});
+		$(".Signup").colorbox({inline:true, width:"630px", height:"314px",scrolling:false,onComplete:function(){$('#RegEmail').focus();}});
+		$("body").addClass("historypushed");
+	});
+</script>
+<script src="assets/js/jquery.ui.core.js"></script>
+<script src="assets/js/jquery.ui.widget.js"></script>
+<script src="assets/js/jquery.ui.position.js"></script>
+<script src="assets/js/jquery.ui.autocomplete.js"></script>
+
+<script>
+	$(function() {
+		var cache = {},
+			lastXhr;
+		$("#Keyword").autocomplete({
+			minLength: 1,
+			source: function( request, response ) {
+				var term = request.term;
+				if ( term in cache ) {
+					response( cache[ term ] );
+					return;
+				}
+
+				lastXhr = $.getJSON( "search.php", request, function( data, status, xhr ) {
+					cache[ term ] = data;
+					if ( xhr === lastXhr ) {
+						response( data );
+					}
+				});
+			}
+		});
+	});
+</script>
+	<!--Start of Zopim Live Chat Script-->
+	<script type="text/javascript">
+	window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+	d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+	_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+	$.src='//cdn.zopim.com/?RcExwFCMqbjKPhiP7I5Ngcm8xwCEtCRI';z.t=+new Date;$.
+	type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+	</script>
+	<!--End of Zopim Live Chat Script-->
+	</head>
+
+<body id="GreenPattern">
+		<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=320454494705410";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+		<center>
+		<div class="TopColorFullStrip"></div>
+		<div class="BlueFullStrip">
+			<div class="Container">
+				<span class="CallUs">Call Us : +91- 78 38 32 66 88</span>
+				<!-- <span class="CallTimings">Timings : 9:00am to 9:00pm(7 days)</span> -->
+				<span class="CallTimings" style="background:url('test_image.gif') no-repeat; background-position: center left; width:350px;">All India Shipping and Cash On Delivery FREE</span>
+				<div class="TopFBLikeButton"><fb:like href="http://www.facebook.com/WahGifts" send="false" layout="button_count" width="100" height="18" show_faces="false" font="arial" style="border:none; overflow:hidden;"></fb:like></div>
+				<div class="SignupNLoginTopLinkWrapper" style="float:right;">
+										<div id="UnLoggedInDiv" style="display:block; width:180px;">
+						<a href="#SignupContainer" class="Signup LightGrayText">Signup</a>
+						<span class="RefundPolicy LightGrayText"> | </span>
+						<a href="#LoginContainer" class="Login LightGrayText">Login</a>
+						<br class="clear">
+					</div>
+					<div id="LoggedInDiv" style="display:none;">
+						<a href="javascript:void(0);" id="LoggedInUserTopMenu">
+							<span class="MyAccountPic"></span>
+							<div id="LoggedInUserEmail">
+															</div>
+							<span class="ArrowDown"></span>
+							<br class="clear">
+						</a>
+						<div class="LoggedInUserDropDownMenuContainer" style="display:none; z-index:9;">
+							
+<ul>
+	<li><a href="my_account.php">My Account</a></li>
+	<li><a href="orders.php">My Orders</a></li>
+	<li><a href="wishlist.php">My Wishlist</a></li>
+	<li><a href="recommendations_for_me.php">Recommendations For You</a></li>
+	<li><a href="index.php?logout=1">Logout</a></li>
+</ul>						</div>
+					</div>
+				</div>
+				<!-- <a href="refund_policy" class="RefundPolicy LightGrayText">Refund Policy</a>
+				<span class="RefundPolicy LightGrayText"> | </span>
+				<a href="/shipping-policy.php" class="RefundPolicy LightGrayText">Shipping Policy</a> -->
+				<br class="clear">
+			</div>
+		</div>
+		<div class="Container">
+								<div style="position:relative;">
+					<a href="index.php" class="WahGiftsLogo" title="WahGifts.com">WahGifts.com Logo</a>
+					<div class="MyCartContainer" style="z-index:1; margin-top:15px;">
+						<a href="viewcart.php" class="MyCart AddToCart">
+							<div class="ItemsInMyCart" id="ItemsInMyCart">0</div>
+						</a>							
+						<div class="CartInfoToolContainer">
+							<div class="CartInfoToolTopBG"></div>
+							<div class="CartInfoToolContaer">
+								<div class="CartInfoToolHeading">
+									You have 0 item in your cart
+								</div>
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody><tr>
+										<td valign="top" align="left" width="85">
+											<div class="CartInfoToolTotalCartTitle">Cart Total : </div>
+										</td>
+										<td align="left">
+											<div class="CartInfoToolTotalPrice" style="float:left;">Rs.0</div>
+											<div class="LoadingSmall" id="CartInfoToolTotalPriceLoading" style="float:left; background:url('assets/images/loader_small_pink.gif') no-repeat;">&nbsp;</div>
+											<br class="clear">
+										</td>
+										<td align="right" width="14" valign="top">
+											<a href="javascript:void(0);" class="CloseCartInfoToolContainer"></a>									
+										</td>
+									</tr>
+								</tbody></table>
+								<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top:5px; padding-bottom:5px;">
+									<tbody><tr>
+										<td valign="middle" align="right">
+											<a href="viewcart.php" class="CartInfoToolViewCartLink AddToCart">View Shopping Cart</a>
+										</td>
+										<td align="right">
+											<a href="checklogin.php" class="Button Blue" style="padding:5px 4px 5px 4px;">CheckOut</a>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+							<div class="CartInfoToolBottomBG"></div>
+						</div><!-- Cart Info Tool Container Closed -->
+					</div>
+					<br class="Clear">
+				</div>
+				<style type="text/css">
+	.BottomCenter
+	{
+		/*width:292px;*/
+		width:100%;
+	}
+</style>
+<div class="NavigationBarWrapper">
+	<a href="index.php" class="Home" title="Home"> Home </a>
+	<div class="NavigationCenter">				
+		<table border="0" cellpadding="0" cellspacing="0" align="center">
+			<tbody><tr>
+				<td align="left" valign="top">
+					<div id="dropmenu1_a" class="dropmenudiv_a">
+						<table border="0" cellpadding="0" cellspacing="5" width="100%" onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';" class="DropDownBG">
+							<tbody><tr>
+							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="searchresults.php?OID=ANVD" title="Anniversary" rev="tag">Anniversary</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=BDJ" title="Bhai Duj" rev="tag">Bhai Duj</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=BDAY" title="Birthday" rev="tag">Birthday</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=BRD" title="Brother's Day" rev="tag">Brother's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=CRD" title="Children's Day" rev="tag">Children's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=CHCD" title="Chocolate Day" rev="tag">Chocolate Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=CRS" title="Christmas" rev="tag">Christmas</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=DRD" title="Daughter's Day" rev="tag">Daughter's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=DWL" title="Diwali" rev="tag">Diwali</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=EID" title="Eid" rev="tag">Eid</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=FRD" title="Father's Day" rev="tag">Father's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=FND" title="Friendship Day" rev="tag">Friendship Day</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="searchresults.php?OID=GNC" title="Ganesh Chaturthi" rev="tag">Ganesh Chaturthi</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=HL" title="Holi" rev="tag">Holi</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=HW" title="House Warming" rev="tag">House Warming</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=KRC" title="Karva Chauth" rev="tag">Karva Chauth</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=LTCD" title="Literacy Day" rev="tag">Literacy Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=MRGD" title="Marriage" rev="tag">Marriage</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=RCPD" title="Marriage Reception" rev="tag">Marriage Reception</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=MUD" title="Miss U Day" rev="tag">Miss U Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=MRD" title="Mother's Day" rev="tag">Mother's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=NYD" title="New Years" rev="tag">New Years</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=RBN" title="Raksha Bandhan" rev="tag">Raksha Bandhan</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=RNGD" title="Ring Ceremony" rev="tag">Ring Ceremony</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="searchresults.php?OID=RKCD" title="Roka Ceremony" rev="tag">Roka Ceremony</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=RSD" title="Rose Day" rev="tag">Rose Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=SRD" title="Sister's Day" rev="tag">Sister's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=SND" title="Son's Day" rev="tag">Son's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=SYD" title="Sorry Day" rev="tag">Sorry Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=TRD" title="Teacher's Day" rev="tag">Teacher's Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=TDY" title="Teddy Day" rev="tag">Teddy Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=TYD" title="Thank You Day" rev="tag">Thank You Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=TGD" title="Thanks Giving Day" rev="tag">Thanks Giving Day</a></td></tr>
+																<tr><td valign="top"><a href="searchresults.php?OID=VND" title="Valentine's Day" rev="tag">Valentine's Day</a></td></tr>
+								</tbody></table></td>							</tr>
+						</tbody></table>
+						<!-- <div onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';">
+							<div class="BottomLeftCorner"></div>
+							<div class="BottomCenter"></div>
+							<div class="BottomRightCorner"></div>
+							<br class="clear" />
+						</div> -->
+					</div>
+					<div id="dropmenu2_a" class="dropmenudiv_a">
+						<table border="0" cellpadding="0" cellspacing="5" width="100%" onmouseover="document.getElementById('Nav2').className='selected';" onmouseout="document.getElementById('Nav2').className='';" class="DropDownBG">
+							<tbody><tr>
+							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=6" title="Aunt" rev="tag">Aunt</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SINL&amp;ReID=35" title="Bhabhi" rev="tag">Bhabhi</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=OFFF&amp;ReID=29" title="Boss-Female" rev="tag">Boss-Female</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=OFFM&amp;ReID=28" title="Boss-Male " rev="tag">Boss-Male </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=BF&amp;ReID=50" title="Boyfriend" rev="tag">Boyfriend</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=BNL&amp;ReID=11" title="Brother-in-Law" rev="tag">Brother-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=BR&amp;ReID=3" title="Brother/Bhai" rev="tag">Brother/Bhai</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=30" title="Bua Ji" rev="tag">Bua Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=47" title="Chacha Ji" rev="tag">Chacha Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=32" title="Chachi Ji" rev="tag">Chachi Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=OFFF&amp;ReID=41" title="Colleague-Female" rev="tag">Colleague-Female</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=OFFM&amp;ReID=40" title="Colleague-Male" rev="tag">Colleague-Male</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=BR&amp;ReID=43" title="Cousin-Brother" rev="tag">Cousin-Brother</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SR&amp;ReID=42" title="Cousin-Sister" rev="tag">Cousin-Sister</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=DNL&amp;ReID=10" title="Daughter-in-Law" rev="tag">Daughter-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=DR&amp;ReID=7" title="Daughter/Beti" rev="tag">Daughter/Beti</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?RID=FIL&amp;ReID=27" title="Father-in-Law" rev="tag">Father-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=FR&amp;ReID=1" title="Father/Papa" rev="tag">Father/Papa</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=FRNDF&amp;ReID=51" title="Friend-Female" rev="tag">Friend-Female</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=FRNDM&amp;ReID=22" title="Friend-Male" rev="tag">Friend-Male</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=49" title="Fuffar/Fufa Ji" rev="tag">Fuffar/Fufa Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=GF&amp;ReID=26" title="Girl Friend" rev="tag">Girl Friend</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=GDR&amp;ReID=16" title="Granddaughter/Poti/Doti" rev="tag">Granddaughter/Poti/Doti</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=GFR&amp;ReID=13" title="Grandfather/Dada/Nana" rev="tag">Grandfather/Dada/Nana</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=GMR&amp;ReID=14" title="Grandmother/Dadi/Naani" rev="tag">Grandmother/Dadi/Naani</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=GSN&amp;ReID=15" title="Grandson/Pota/Dota" rev="tag">Grandson/Pota/Dota</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=HBD&amp;ReID=17" title="Husband" rev="tag">Husband</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SNL&amp;ReID=38" title="Jija Ji" rev="tag">Jija Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=46" title="Maama Ji" rev="tag">Maama Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=33" title="Maami Ji" rev="tag">Maami Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=48" title="Massar/Mausa Ji" rev="tag">Massar/Mausa Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=31" title="Massi/Mausi Ji" rev="tag">Massi/Mausi Ji</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?RID=MR&amp;ReID=2" title="Mother/Maa/Mummy" rev="tag">Mother/Maa/Mummy</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=NPW&amp;ReID=20" title="Nephew" rev="tag">Nephew</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=NIC&amp;ReID=21" title="Niece" rev="tag">Niece</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=OFFF&amp;ReID=44" title="Official-Female" rev="tag">Official-Female</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=OFFM&amp;ReID=39" title="Official-Male" rev="tag">Official-Male</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SNL&amp;ReID=37" title="Saala" rev="tag">Saala</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SINL&amp;ReID=36" title="Saali" rev="tag">Saali</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SINL&amp;ReID=12" title="Sister-in-Law" rev="tag">Sister-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SR&amp;ReID=4" title="Sister/Behan" rev="tag">Sister/Behan</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SNL&amp;ReID=9" title="Son-in-Law" rev="tag">Son-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=SN&amp;ReID=8" title="Son/Beta" rev="tag">Son/Beta</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=45" title="Taya Ji" rev="tag">Taya Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=34" title="Tayi Ji" rev="tag">Tayi Ji</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=TR&amp;ReID=24" title="Teacher" rev="tag">Teacher</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=5" title="Uncle" rev="tag">Uncle</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?RID=WF&amp;ReID=18" title="Wife" rev="tag">Wife</a></td></tr>
+								</tbody></table></td>							</tr>
+						</tbody></table>
+						<!-- <div onmouseover="document.getElementById('Nav2').className='selected';" onmouseout="document.getElementById('Nav2').className='';">
+							<div class="BottomLeftCorner"></div>
+							<div class="BottomCenter"></div>
+							<div class="BottomRightCorner"></div>
+							<br class="clear" />
+						</div> -->
+					</div>
+					<div id="dropmenu3_a" class="dropmenudiv_a">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%" onmouseover="document.getElementById('Nav3').className='selected';" onmouseout="document.getElementById('Nav3').className='';" class="DropDownBG">
+							<tbody><tr>
+							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=APPM" title="Apparels - Men " rev="tag">Apparels - Men </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=APPF" title="Apparels - Women " rev="tag">Apparels - Women </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=BA" title="Bags " rev="tag">Bags </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=BO" title="Boxes" rev="tag">Boxes</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=CADI" title="Candles/Diyas" rev="tag">Candles/Diyas</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=CAR" title="Car Accessories " rev="tag">Car Accessories </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=CHC" title="Chocolates " rev="tag">Chocolates </a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=CO" title="Coasters" rev="tag">Coasters</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=CRKY" title="Crockery" rev="tag">Crockery</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=DP" title="Decorating Pieces " rev="tag">Decorating Pieces </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=DM" title="Door Mats" rev="tag">Door Mats</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=FW" title="Footwear " rev="tag">Footwear </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=GC" title="Greeting Cards" rev="tag">Greeting Cards</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=HC" title="Handicrafts " rev="tag">Handicrafts </a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=HD" title="Home Decor " rev="tag">Home Decor </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=HFU" title="Home Furnishings " rev="tag">Home Furnishings </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=IS" title="Idols &amp; Sculptures " rev="tag">Idols &amp; Sculptures </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=JW" title="Jewellery " rev="tag">Jewellery </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=MKU" title="Make-Up " rev="tag">Make-Up </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=MU" title="Mugs " rev="tag">Mugs </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=NAG" title="Naughty/Adult Gifts" rev="tag">Naughty/Adult Gifts</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=PT" title="Paintings " rev="tag">Paintings </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=PF" title="Photo Frames " rev="tag">Photo Frames </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=STN" title="Stationery " rev="tag">Stationery </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=TP" title="Time Pieces " rev="tag">Time Pieces </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=TR" title="Trays" rev="tag">Trays</a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=UTL" title="Utilities " rev="tag">Utilities </a></td></tr>
+																<tr><td class="Value"><a href="searchresults.php?CID=WEDA" title="Wedding Accessories" rev="tag">Wedding Accessories</a></td></tr>
+								</tbody></table></td>							</tr>
+						</tbody></table>
+					</div>
+					<ul id="nav-menu">
+						<li id="Nav1"><a href="javascript:void(0);" rel="dropmenu1_a"><b>Gifts By Occasion</b></a></li>
+						<li id="Nav2"><a href="javascript:void(0);" rel="dropmenu2_a"><b>Gifts By Relation</b></a></li>
+						<li id="Nav3"><a href="javascript:void(0);" rel="dropmenu3_a"><b>Gifts By Category</b></a></li>
+						<!-- <li id="Nav4" class="highlighted"><a href='javascript:void(0);' onclick="CreateYourWishList();"><b>Create Your Wishlist</b></a></li> -->
+						<li id="Nav4" class="highlighted"><a href="tracking-order.php"><b>Track Your Order</b></a></li>
+														<li id="Nav5"><a href="new-arrivals.php"><b>Newly Arrived Gifts</b></a></li>
+																<li id="Nav6"><a href="faqs.php"><b>FAQs</b></a></li>
+																<li id="Nav7"><a href="http://www.wahgifts.com/blog/"><b>Blog</b></a></li>
+																<li id="Nav8"><a href="contact-us.php"><b>Contact Us</b></a></li>
+														<br class="clear">
+					</ul>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	<span class="NavRightCorner"></span>
+	<br class="clear">
+</div><!-- Navigation Bar Wrapper closed -->
+
+<script type="text/javascript">
+	//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+	tabdropdown.init("nav-menu", "auto")
+</script>					<div class="SearchContainer">
+						<div class="SearchLeftBG"></div>
+						<div class="SearchMidBG">
+							<div class="FindAGift"> Find A Gift</div>
+							<div class="OccasionDropDown">
+								<select name="Occasion" id="Occasion" onchange="CallLoadPageFunction();">
+									<option value="">Choose an occasion</option>
+																			<option value="ANVD">Anniversary</option>
+																				<option value="BDJ">Bhai Duj</option>
+																				<option value="BDAY">Birthday</option>
+																				<option value="BRD">Brother's Day</option>
+																				<option value="CRD">Children's Day</option>
+																				<option value="CHCD">Chocolate Day</option>
+																				<option value="CRS">Christmas</option>
+																				<option value="DRD">Daughter's Day</option>
+																				<option value="DWL">Diwali</option>
+																				<option value="EID">Eid</option>
+																				<option value="FRD">Father's Day</option>
+																				<option value="FND">Friendship Day</option>
+																				<option value="GNC">Ganesh Chaturthi</option>
+																				<option value="HL">Holi</option>
+																				<option value="HW">House Warming</option>
+																				<option value="KRC">Karva Chauth</option>
+																				<option value="LTCD">Literacy Day</option>
+																				<option value="MRGD">Marriage</option>
+																				<option value="RCPD">Marriage Reception</option>
+																				<option value="MUD">Miss U Day</option>
+																				<option value="MRD">Mother's Day</option>
+																				<option value="NYD">New Years</option>
+																				<option value="RBN">Raksha Bandhan</option>
+																				<option value="RNGD">Ring Ceremony</option>
+																				<option value="RKCD">Roka Ceremony</option>
+																				<option value="RSD">Rose Day</option>
+																				<option value="SRD">Sister's Day</option>
+																				<option value="SND">Son's Day</option>
+																				<option value="SYD">Sorry Day</option>
+																				<option value="TRD">Teacher's Day</option>
+																				<option value="TDY">Teddy Day</option>
+																				<option value="TYD">Thank You Day</option>
+																				<option value="TGD">Thanks Giving Day</option>
+																				<option value="VND">Valentine's Day</option>
+																		</select>
+							</div>
+							<div class="RelationDropDown">
+								<select name="Relation" id="Relation" onchange="CallLoadPageFunction();">
+									<option value="">Select a relation</option>
+																			<option value="AN-::-6">Aunt</option>
+																				<option value="SINL-::-35">Bhabhi</option>
+																				<option value="OFFF-::-29">Boss-Female</option>
+																				<option value="OFFM-::-28">Boss-Male </option>
+																				<option value="BF-::-50">Boyfriend</option>
+																				<option value="BNL-::-11">Brother-in-Law</option>
+																				<option value="BR-::-3">Brother/Bhai</option>
+																				<option value="AN-::-30">Bua Ji</option>
+																				<option value="UL-::-47">Chacha Ji</option>
+																				<option value="AN-::-32">Chachi Ji</option>
+																				<option value="OFFF-::-41">Colleague-Female</option>
+																				<option value="OFFM-::-40">Colleague-Male</option>
+																				<option value="BR-::-43">Cousin-Brother</option>
+																				<option value="SR-::-42">Cousin-Sister</option>
+																				<option value="DNL-::-10">Daughter-in-Law</option>
+																				<option value="DR-::-7">Daughter/Beti</option>
+																				<option value="FIL-::-27">Father-in-Law</option>
+																				<option value="FR-::-1">Father/Papa</option>
+																				<option value="FRNDF-::-51">Friend-Female</option>
+																				<option value="FRNDM-::-22">Friend-Male</option>
+																				<option value="UL-::-49">Fuffar/Fufa Ji</option>
+																				<option value="GF-::-26">Girl Friend</option>
+																				<option value="GDR-::-16">Granddaughter/Poti/Doti</option>
+																				<option value="GFR-::-13">Grandfather/Dada/Nana</option>
+																				<option value="GMR-::-14">Grandmother/Dadi/Naani</option>
+																				<option value="GSN-::-15">Grandson/Pota/Dota</option>
+																				<option value="HBD-::-17">Husband</option>
+																				<option value="SNL-::-38">Jija Ji</option>
+																				<option value="UL-::-46">Maama Ji</option>
+																				<option value="AN-::-33">Maami Ji</option>
+																				<option value="UL-::-48">Massar/Mausa Ji</option>
+																				<option value="AN-::-31">Massi/Mausi Ji</option>
+																				<option value="MR-::-2">Mother/Maa/Mummy</option>
+																				<option value="NPW-::-20">Nephew</option>
+																				<option value="NIC-::-21">Niece</option>
+																				<option value="OFFF-::-44">Official-Female</option>
+																				<option value="OFFM-::-39">Official-Male</option>
+																				<option value="SNL-::-37">Saala</option>
+																				<option value="SINL-::-36">Saali</option>
+																				<option value="SINL-::-12">Sister-in-Law</option>
+																				<option value="SR-::-4">Sister/Behan</option>
+																				<option value="SNL-::-9">Son-in-Law</option>
+																				<option value="SN-::-8">Son/Beta</option>
+																				<option value="UL-::-45">Taya Ji</option>
+																				<option value="AN-::-34">Tayi Ji</option>
+																				<option value="TR-::-24">Teacher</option>
+																				<option value="UL-::-5">Uncle</option>
+																				<option value="WF-::-18">Wife</option>
+																		</select>
+							</div>
+							<div class="CategoryDropDown">
+								<select name="Category" id="Category" onchange="CallLoadPageFunction();">
+									<option value="">Select a Category</option>
+																			<option value="APPM">Apparels - Men </option>
+																				<option value="APPF">Apparels - Women </option>
+																				<option value="BA">Bags </option>
+																				<option value="BO">Boxes</option>
+																				<option value="CADI">Candles/Diyas</option>
+																				<option value="CAR">Car Accessories </option>
+																				<option value="CHC">Chocolates </option>
+																				<option value="CO">Coasters</option>
+																				<option value="CRKY">Crockery</option>
+																				<option value="DP">Decorating Pieces </option>
+																				<option value="DM">Door Mats</option>
+																				<option value="FW">Footwear </option>
+																				<option value="GC">Greeting Cards</option>
+																				<option value="HC">Handicrafts </option>
+																				<option value="HD">Home Decor </option>
+																				<option value="HFU">Home Furnishings </option>
+																				<option value="IS">Idols &amp; Sculptures </option>
+																				<option value="JW">Jewellery </option>
+																				<option value="MKU">Make-Up </option>
+																				<option value="MU">Mugs </option>
+																				<option value="NAG">Naughty/Adult Gifts</option>
+																				<option value="PT">Paintings </option>
+																				<option value="PF">Photo Frames </option>
+																				<option value="STN">Stationery </option>
+																				<option value="TP">Time Pieces </option>
+																				<option value="TR">Trays</option>
+																				<option value="UTL">Utilities </option>
+																				<option value="WEDA">Wedding Accessories</option>
+																		</select>
+							</div>
+							<div class="PriceRangeDropDown">
+								<select name="PriceRange" id="PriceRange" onchange="CallLoadPageFunction();">
+									<option value="">Choose a price range</option>
+																			<option value="Upto-500">Upto-500</option>
+																				<option value="500-1000">500-1000</option>
+																				<option value="1000-1500">1000-1500</option>
+																				<option value="1500-2000">1500-2000</option>
+																				<option value="2000-2500">2000-2500</option>
+																				<option value="2500-3000">2500-3000</option>
+																				<option value="3000-Above">3000-Above</option>
+																		</select>
+							</div>
+							<div class="FindAGift" style="margin-right:4px;"> OR </div>
+														<form style="float:left;" method="get" action="" name="FindRegistrySearch" id="FindRegistrySearch" onsubmit="return ValidateKeywordSearch('Keyword','Enter Keyword/Code');">
+								<!-- <input type="hidden" name="KeywordSearchSubmitted" id='KeywordSearchSubmitted' value='1' /> -->
+								<div class="KeywordSearch">
+									<input type="text" name="Keyword" id="Keyword" value="Enter Keyword/Code" onclick="blankthis('Keyword','Enter Keyword/Code');" onblur="default_message('Keyword','Enter Keyword/Code')" border="0">
+								</div>
+								<div class="SeacrhButtonWrapper" style="margin-left:3px;">
+									<input type="image" src="assets/images/search_button.png" onmouseover="this.src='assets/images/search_button_hover.png';" onmouseout="this.src='assets/images/search_button.png';" title="Search">
+								</div>
+								<br class="clear">
+							</form>
+							<br class="clear">
+						</div>
+						<div class="SearchRightBG"></div>
+						<br class="clear">
+					</div>				<div class="MainContainer" style="position:relative;">				
+					<input type="hidden" id="IsAjaxLoaded" name="IsAjaxLoaded" value="1">
+					<input type="hidden" name="LoginSignUpAction" id="LoginSignUpAction" value="">
+											<input type="hidden" name="IsUserLoggedInHidden" id="IsUserLoggedInHidden" value="0">
+											<div id="PageContentLoading" style="position:absolute; top:0px; left:0px; width:100%; height:100%; display:none; background:url(&quot;assets/images/loader.gif&quot;) no-repeat; background-position:top center; background-color:#fff;-moz-opacity:0.6;	opacity: 0.6; filter: alpha(opacity = 60);"></div>
+
+					<div class="FeaturedProductContainer" id="ContentContainer"><script>
+	var Titles = document.getElementsByTagName('title');
+	Titles[0].innerHTML = "WahGifts.com - Privacy Policy";
+</script>
+<input type="hidden" name="SkipDynamicLoading" id="SkipDynamicLoading" value="1">
+<input type="hidden" name="StopPageScrolling" id="StopPageScrolling" value="1">
+					<div class="InnerPageContentWrapper" style="border:0px;">
+				<div class="InnerPageTitle">
+					Privacy Policy				</div>
+					<div class="InnerPageBodyContent">
+			<p>
+	We understand your concern about the personal information you submit on our web-site. We also go by the notion that has to be a fine equilibrium between the need to give better, tailored and customized service to you and to protect your personal details, simultaneously&nbsp;<a href="http://www.wahgifts.com/" target="_blank">www.wahgifts.com</a><wbr>&nbsp;value your trust in us that we shall not misuse your personal information in any way.</p>
+<p>
+	<wbr>
+	</p><p>
+		<wbr></p>
+	<wbr>
+	<p>
+		<wbr> </p>
+	<wbr><wbr>
+	<p>
+		<wbr></p>
+	<wbr><wbr><wbr>
+	<p>
+		<wbr> </p>
+	<wbr><wbr><wbr><wbr>
+	<p>
+		<wbr></p>
+	<wbr><wbr><wbr><wbr><wbr>
+	<p>
+		<wbr> </p>
+	<wbr><wbr><wbr><wbr><wbr><wbr>
+	<p>
+		<wbr></p>
+	<wbr><wbr><wbr><wbr><wbr><wbr><wbr>
+	<p>
+		<wbr> </p>
+	<wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr>
+	<p>
+		<wbr></p>
+	<wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr>
+	<p>
+		<wbr> </p>
+	<wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr>
+	<p>
+		<wbr></p>
+	<wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr>
+	<p>
+		<wbr><wbr><wbr> </p>
+	<wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr><wbr>
+	<p>
+		You can visit the Site and explore our offerings without submitting any personal details. During your visit to the Site you are anonymous and we could not discover you unless you have an account on the Site and log on with your user name and password.</p>
+	<p>
+		<span style="color:#ff00cc;">Data that we collect</span></p>
+	<p>
+		We may collect little information if you place an order for a product to us on the Site. We gather your data only for processing your order on&nbsp;<a href="http://www.wahgifts.com/" target="_blank">www.wahgifts.com</a>&nbsp;&amp; any possible future claims &amp; offer you our services.It might be possible that we collect your name, gender, email address, postal address, delivery address (if different), contact number, fax number, payment details, payment card details or bank account details.</p>
+	<p>
+		Basically, we need the information to process the payment for the product(s) &amp; deliver the product at your doorsteps. We also use the data to inform you about the possible time when the product is to be delivered.</p>
+	<p>
+		At times, we may share your name &amp; address on to a third party, (for example to our courier or supplier) to deliver the product to you. We may also share your data with our franchisor. You further authorize the franchisor to use this information to sell products to you, directly or indirectly. Under no circumstances do we rent, trade or share your personal information that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.</p>
+	<p>
+		<span style="color:#ff00cc;">Cookies</span></p>
+	<p>
+		Like many online services,&nbsp;<a href="http://www.wahgifts.com/" target="_blank">www.wahgifts.com</a>&nbsp;uses “cookies” on our portal to gather information. A cookie is a small text file that is transferred to your computer or mobile device’s hard disk when you visit a website. We use cookies for two things. Firstly, we use “persistent” cookies to save your login information for future logins to the Service. Second, we employ “session ID” cookies to enable certain features of the Service, to better understand how you interact with the Service and to monitor the web traffic routing on the Service. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Service and then close your browser.</p>
+	<p>
+		<span style="color:#ff00cc;">Consent</span></p>
+	<p>
+		By submitting data to us, you allow us to use your data in the manner set out in this Privacy Policy.</p>
+	<p>
+		<span style="color:#ff00cc;">Links with other sites</span></p>
+	<p>
+		Our site may contain some links which may take you to some other websites which may have their own privacy policy, different from ours. It means that once you leave our site, our privacy policy will no longer apply.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p></p>
+		</div>
+	</div>
+					</div><!-- Featured Product Container Closed -->
+				<div id="LastProductLoader"></div>
+			</div><!-- Main Container Closed -->
+		</div><!-- Container closed -->	
+		<div class="TopColorFullStrip"></div>
+				<div class="FooterContainer">
+			<table border="0" cellpadding="0" cellspacing="0" width="935" align="center">
+				<tbody><tr>
+												<td valign="top" align="left">
+								<div class="FooterMasterLink"><a href="help">Help</a></div>
+									<div class="FooterSubLinks">
+																					<!-- <a href="javascript:void(0);" onclick="TrackOrderStatus1();">Track Your Order</a> <br /> -->
+											<a href="tracking-order.php">Track Your Order</a> <br>
+																							<a href="shipping-policy.php">Shipping</a> <br>
+																								<a href="refund-policy.php">Cancellation &amp; Returns</a> <br>
+																								<a href="same-day-delivery.php">Same Day Delivery</a> <br>
+																								<a href="faqs.php">FAQ</a> <br>
+																					</div>
+																</td>
+															<td width="70" align="center">
+									<div style="width:5px; height:158px; background:url('hr.png') no-repeat; background-position:top center; display:block;">
+										&nbsp;
+									</div>
+								</td>
+															<td valign="top" align="left">
+								<div class="FooterMasterLink"><a href="about-us.php">About</a></div>
+									<div class="FooterSubLinks">
+																						<a href="about-us.php">About Us</a> <br>
+																								<a href="careers.php">Careers</a> <br>
+																								<a href="http://www.wahgifts.com/blog/">Blog</a> <br>
+																								<a href="contact-us.php">Contact Us</a> <br>
+																								<a href="terms-conditions.php">Terms &amp; Conditions</a> <br>
+																								<a href="privacy-policy.php">Privacy Policy</a> <br>
+																					</div>
+																</td>
+															<td width="70" align="center">
+									<div style="width:5px; height:158px; background:url('hr.png') no-repeat; background-position:top center; display:block;">
+										&nbsp;
+									</div>
+								</td>
+															<td valign="top" align="left">
+								<div class="FooterMasterLink"><a href="do_more">Do More</a></div>
+									<div class="FooterSubLinks">
+																						<a href="referfriends.php">Refer A Friend</a> <br>
+																					</div>
+																			<div style="margin-top:7px;">
+											<a href="https://www.facebook.com/pages/WahGiftscom/230412783746564" title="Facebook" style="width:38px; height:38px; background:url('assets/images/fb.png') no-repeat; display:block; float:left;">&nbsp;</a>
+											<a href="https://twitter.com/#!/WahGiftscom" target="_blank" title="Twitter" style="width:38px; height:38px; background:url('assets/images/twitter.png') no-repeat; display:block; float:left; margin-left:5px;">&nbsp;</a>
+										</div>
+										<div class="PaymentModes">Payment Modes</div>
+										<div class="PaymentModesImages">VISA, Master Card</div>
+										<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=3W9YEgEPdODMLQ2Ocb2vCt4fsjuaTEBJ4FlFBlE6UCnk8grNb8IhCbjJ"></script></span>
+																	</td>
+												<td valign="top" align="right" width="327">
+						<!-- <div class="TestimonialsTitle">Customer Testimonials</div>
+						<div class="TestimonialsDiscription">
+							“ I genuinely advice purchase with WahGifts. Great customer care and no fake promises. I have purchased over Rs 40,000 deals and WahGifts never disappointed me...”
+						</div> -->
+						<!-- <a href="javascript:void(0);" title="Twitter" class="Twitter">Twitter</a>
+						<a href="javascript:void(0);" title="Facebook" class="Facebook">Facebook</a> -->
+						<a href="/shipping_policy" style="width:206px; height:170px; background:url('freeshipping-icon.jpg') no-repeat; display:block;">
+						</a>
+					</td>
+				</tr>
+			</tbody></table>
+		</div><!-- Footer Container closed -->
+		<div style="display:none;">
+			<div id="LoginContainer">
+				<table border="0" cellpadding="0" cellspacing="5" width="100%">
+					<tbody><tr>
+						<td width="57%" valign="top">
+							<table border="0" cellpadding="0" cellspacing="3" width="100%">
+								<tbody><tr>
+									<td>
+										<div class="LoginDiv" style="width:91px; height:30px; display:block; background:url('assets/images/login_heading.gif') no-repeat; text-indent:-99999px;">Login</div>
+										<div class="clear" style="height:14px"></div>										<div id="PopupEmailLoginError" class="FieldName" style="font-size:14px; border:1px solid #A00; color:#A00; background-color:#FEE; line-height:12px; padding:3px 4px 2px 4px; display:none;">																	
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<div class="LoginDiv">
+											<form method="post" action="" onsubmit="return Login();">
+												<table border="0" cellpadding="2" cellspacing="3" width="100%">
+													<tbody><tr>
+														<td align="right" valign="center">
+															<div class="FieldName"><label for="PopupLoginEmail">Email </label></div>
+														</td>
+														<td align="left">
+															<div class="InputBoxInnerShadow"><input type="text" name="PopupLoginEmail" id="PopupLoginEmail" value="" size="28" class="InnerShadow"></div>
+														</td>
+													</tr>
+													<tr>
+														<td align="right" valign="center">
+															<div class="FieldName"><label for="PopupLoginPassword">Password </label></div>
+														</td>
+														<td align="left">
+															<div class="InputBoxInnerShadow"><input type="password" name="PopupLoginPassword" id="PopupLoginPassword" value="" size="28" class="InnerShadow"></div>
+														</td>
+													</tr>
+													<tr>
+														<td align="right">
+															<div class="LoadingSmall" id="PopupLoginLoading">&nbsp;</div>
+														</td>
+														<td valign="middle">
+															<input type="submit" class="Button Green LoginDiv" style="margin-top:5px; float:left;" value="Login">
+															<a href="javascript:void(0);" class="FieldName" style="font-size:14px; color:#606060; text-decoration:none; float:left; margin-left:7px; margin-top:18px;" onclick="ShowHidePopupForgotForgotPassDiv();">Forgot your password?</a>
+															<br class="clear">
+														</td>
+													</tr>
+												</tbody></table>
+											</form>
+											<table border="0" cellpadding="2" cellspacing="3" width="100%">
+												<tbody><tr>
+													<td align="left">				
+														<div class="FieldName" style="margin-left:3px;">
+															Don't have an account? <a href="javascript:void(0);" class="FieldName" style="font-size:14px; color:#1775c3; text-decoration:none;" onclick="ShowHideSignInSignUp();">Create One!</a>
+														</div>
+														<div id="PopupForgotForgotPassDiv" style="display:none;">
+															<form method="post" action="" onsubmit="return PopUpPasswordRecoveryMail();">
+																<table border="0" cellpadding="0">
+																	<tbody><tr>
+																		<td colspan="2">
+																			<div class="FieldName" style="font-size:14px; color:#ce3636;">Enter your Email here to receive a link to change your password.</div>
+																			<div id="PopupForgotPassErrDiv" class="FieldName" style="font-size:14px; border:1px solid #A00; color:#A00; background-color:#FEE; line-height:12px; padding:3px 4px 2px 4px; display:none;">																	
+																			</div>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td align="right" valign="middle">
+																			<div class="FieldName"><label for="PopupForgotEmail">Email</label></div>
+																		</td>
+																		<td>
+																			<div class="InputBoxInnerShadow"><input type="text" name="PopupForgotEmail" id="PopupForgotEmail" value="" size="20" class="InnerShadow"></div>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td align="right">
+																			<div class="LoadingSmall" id="PopupForgotEmailLoading">&nbsp;</div>
+																		</td>
+																		<td>
+																			<input type="submit" class="Button Green" style="margin-top:5px;" value="Send Email">
+																		</td>
+																	</tr>
+																</tbody></table>
+															</form>
+														</div>
+													</td>
+												</tr>
+											</tbody></table>
+										</div>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+						<td style="width:52px; height:178px; background:url('assets/images/or_vrline.gif') no-repeat; display:block; background-position:center center;">
+							
+						</td>
+						<td valign="top">
+							<div style="width:152px; height:30px; background:url('assets/images/signin_with.gif') no-repeat; text-indent:-99999px; margin-left:0px; margin-bottom:25px;">Sign in with</div>
+							<center>
+								<a href="javascript:void(0);" onclick="FacebookLogin();"><img src="assets/images/facebook_button.gif" border="0"></a>
+								<div class="clear" style="height:7px"></div>								<a href="?login&amp;oauth_provider=google"><img src="assets/images/google_button.gif" border="0"></a><br>
+							</center>
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<div id="SignupContainer">
+				<table border="0" cellpadding="0" cellspacing="5" width="100%">
+					<tbody><tr>
+						<td width="57%" valign="top">
+							<table border="0" cellpadding="0" cellspacing="3" width="100%">
+								<tbody><tr>
+									<td>
+										<div class="SignUpDiv" style="width:276px; height:35px; background:url('assets/images/new_user_singup.gif') no-repeat; text-indent:-99999px;">New User? Sign Up</div>
+										<div class="clear" style="height:14px"></div>									</td>
+								</tr>
+								<tr>
+									<td>
+										<div class="SignUpDiv">
+											<form method="post" action="" onsubmit="return SignUp();">
+												<table border="0" cellpadding="2" cellspacing="3" width="100%">
+													<tbody><tr>
+														<td align="right" valign="center">
+															<div class="FieldName"><label for="RegEmail">Email </label></div>
+														</td>
+														<td align="left">
+															<div class="InputBoxInnerShadow"><input type="text" name="RegEmail" id="RegEmail" value="" size="28" class="InnerShadow"></div>
+														</td>
+													</tr>
+													<tr>
+														<td align="right" valign="center">
+															<div class="FieldName"><label for="RegPassword">Password </label></div>
+														</td>
+														<td align="left">
+															<div class="InputBoxInnerShadow"><input type="password" name="RegPassword" id="RegPassword" value="" size="28" class="InnerShadow"></div>
+														</td>
+													</tr>
+													<tr>
+														<td align="right" valign="center">
+															<div class="FieldName"><label for="RegConfirmPassword">Repeat </label></div>
+														</td>
+														<td align="left">
+															<div class="InputBoxInnerShadow"><input type="password" name="RegConfirmPassword" id="RegConfirmPassword" value="" size="28" class="InnerShadow"></div>
+														</td>
+													</tr>
+													<tr>
+														<td align="right">
+															<div class="LoadingSmall" id="PopupSignupLoading">&nbsp;</div>
+														</td>
+														<td>
+															<input type="submit" class="Button Green" style="margin-top:5px;" value="Sign Up Now">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2" align="left">				
+															<div class="FieldName">
+																Already have an account?<a href="javascript:void(0);" class="FieldName" style="font-size:14px; color:#1775c3; text-decoration:none;" onclick="ShowHideSignInSignUp();"> Login!</a>
+															</div>
+														</td>
+													</tr>
+												</tbody></table>
+											</form>
+										</div>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+						<td style="width:52px; height:178px; background:url('assets/images/or_vrline.gif') no-repeat; display:block; background-position:center center;">
+							
+						</td>
+						<td valign="top">
+							<div style="width:152px; height:30px; background:url('assets/images/signin_with.gif') no-repeat; text-indent:-99999px; margin-left:0px; margin-bottom:25px;">Sign in with</div>
+							<center>
+								<a href="javascript:void(0);" onclick="FacebookLogin();"><img src="assets/images/facebook_button.gif" border="0"></a>
+								<div class="clear" style="height:7px"></div>								<a href="?login&amp;oauth_provider=google"><img src="assets/images/google_button.gif" border="0"></a><br>
+							</center>
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<span style="font-family:'BebasNeue'; font-size:1px;">www.wahgifts.com</span>
+		</div>
+	</center>
+
+	<p id="BackToTop">
+		<a href="#GreenPattern">Back to Top</a>
+	</p>
+	<script type="text/javascript" src="assets/js/MM_preloadImages.js"></script>
+	<script type="text/javascript" src="assets/js/common.js"></script>
+	<script type="text/javascript">
+	  AttachEvent(window, 'load', LoadImages);
+	  function LoadImages()
+	  {
+		  MM_preloadImages('assets/images/leftnav_large.png',
+			  'assets/images/rightnav_large.png',
+			  'assets/images/cart_info_tool_top.gif',
+			  'assets/images/cart_info_tool_bottom.gif',
+			  'assets/images/cc_email_login_inactive.png',
+			  'assets/images/cc_email_login.png',
+			  'assets/images/cc_shipping_add_active.png',
+			  'assets/images/cc_shipping_add_inactive.png',
+			  'assets/images/cc_shipping_add_og.png',
+			  'assets/images/cc_order_summary_active.png',
+			  'assets/images/cc_order_summary_inactive.png',
+			  'assets/images/cc_order_summary_og.png',
+			  'assets/images/cc_payment_options_active.png',
+			  'assets/images/cc_payment_options_inactive.png',
+			  'assets/images/cc_payment_options_og.png',
+			  'assets/images/loader_small.gif',
+			  'assets/images/loader_small_pink.gif',
+			  'assets/colorbox/images/controls.png',
+			  'assets/colorbox/images/border.png');
+	  }
+	</script>
+	<script src="assets/js/jquery.scrollstop.js" type="text/javascript" charset="utf-8"></script>
+	<script src="assets/js/jquery.lazyload.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" charset="utf-8">
+		$(function() {
+			var NonProductListingPageObj = document.getElementById('NonProductListingPage');
+			if(NonProductListingPageObj)
+			{
+			}
+			else
+			{
+				$("img.lazy").lazyload({
+					event: "load",
+					effect : "fadeIn"
+				});
+			}
+		});
+	</script>
+	<script type="text/javascript">
+		function Login()
+		{
+			var PopupLoginEmail		= $.trim($('#PopupLoginEmail').val());
+			var PopupLoginPassword	= $.trim($('#PopupLoginPassword').val());
+
+			var Str1	= 'Following errors occured: \n';
+			var Str		= '';
+			if(PopupLoginEmail == '')
+			{
+				Str += '* Please enter your email address. \n';
+				$('#PopupLoginEmail').css('border', '1px solid red');
+			}
+			else if(validateEmailFun($.trim(PopupLoginEmail)) == false)
+			{
+				Str += 'Please enter valid email address. \n';
+				$('#PopupLoginEmail').css('border', '1px solid red');
+			}
+			else
+			{
+				$('#PopupLoginEmail').css('border', '0px solid #cacaca');
+			}
+
+			if(PopupLoginPassword == '')
+			{
+				Str += '* Please enter your password. \n';
+				$('#PopupLoginPassword').css('border', '1px solid red');
+			}
+			else
+			{
+				$('#PopupLoginPassword').css('border', '0px solid #cacaca');
+			}
+
+			if(Str != '')
+			{
+				alert(Str1+Str);
+				return false;
+			}
+			else
+			{		
+				$('#PopupLoginLoading').show();
+				var Data = '&Email='+encodeURIComponent(PopupLoginEmail)+'&Password='+encodeURIComponent(PopupLoginPassword)+'&Mode=SignIn';
+
+				$.ajax({
+					type: "GET",
+					url: "dbbyajax.php",
+					data: Data,
+					success: function(Response){
+						var ResArr	= Response.split('-::-');
+						var Type	= ResArr[0];
+						var Msg		= ResArr[1];
+
+						if(Type == 'Success')
+						{			
+							$('#LoggedInUserEmail').html(Msg);
+							$('#UnLoggedInDiv').hide('1');
+							$('#LoggedInDiv').show('1');
+							$('#LoggedInUserDropDownMenuContainer').show('1');
+							parent.jQuery.fn.colorbox.close();
+							
+							var IsUserLoggedInHiddenObj		=	document.getElementById('IsUserLoggedInHidden');
+							if(IsUserLoggedInHiddenObj)
+							{
+								IsUserLoggedInHiddenObj.value = '1';
+							}
+
+							var LoginSignUpAction	= $('#LoginSignUpAction').val();
+							var SKUCode				= $('#SKUCode').val();
+							var SubCatIDs			= $('#SubCatIDs').val();
+							var CatIDs				= $('#CatIDs').val();
+							if(LoginSignUpAction == 'WishList')
+							{
+								AddToWishList(SKUCode,CatIDs,SubCatIDs);
+							}
+							else if(LoginSignUpAction == 'WriteReview')
+							{
+								LoadPage('write_review.php?id='+SKUCode);
+							}
+							else if(LoginSignUpAction == 'CreateYourWishList')
+							{
+								LoadPage('wishlist.php');
+							}
+							else if(LoginSignUpAction == 'track_order')
+							{
+								LoadPage('track_order.php');
+							}
+						}
+						else if(Type == 'SuccessError')
+						{
+							parent.$.colorbox.resize({width:(583+47), height:(280+62)});
+							$('#PopupEmailLoginError').html(Msg);
+							$('#PopupEmailLoginError').show('fast');
+						}
+						else
+						{
+							alert(Msg);
+						}
+						$('#PopupLoginLoading').hide();
+						return false;
+					}
+				});
+				return false;
+			}
+		}
+		function PopUpPasswordRecoveryMail()
+		{
+			var PopupForgotEmail		= $.trim($('#PopupForgotEmail').val());
+			var Str = '';
+			if(PopupForgotEmail == '')
+			{
+				Str += 'Please enter your email address. \n';
+				$('#PopupForgotEmail').css('border', '1px solid red');
+			}
+			else if(validateEmailFun($.trim(PopupForgotEmail)) == false)
+			{
+				Str += 'Please enter valid email address. \n';
+				$('#PopupForgotEmail').css('border', '1px solid red');
+			}
+			else
+			{
+				$('#PopupForgotEmail').css('border', '0px solid #cacaca');
+			}
+
+			if(Str != '')
+			{
+				alert(Str);
+				return false;
+			}
+			else
+			{		
+				$('#PopupForgotEmailLoading').show();
+				var Data = '&Email='+encodeURIComponent(PopupForgotEmail)+'&Mode=SendPassword';
+
+				$.ajax({
+					type: "GET",
+					url: "dbbyajax.php",
+					data: Data,
+					success: function(Response){
+						$('#PopupForgotPassErrDiv').html(Response);
+						$('#PopupForgotPassErrDiv').show('fast');
+
+						var h = $('#PopupForgotPassErrDiv').height();
+						var h1 = $('#PopupEmailLoginError').height();
+						parent.$.colorbox.resize({width:(583+47), height:(365+62+Number(h)+Number(h1))});
+						
+						$('#PopupForgotEmailLoading').hide();
+						return false;
+					}
+				});
+				return false;
+			}
+		}
+		function AddToCart(I,CanUserDesireDelivery,HrefLink,AttributeName)
+		{ 
+			if(AttributeName != '' && CanUserDesireDelivery == 1)
+			{
+				var AttributeValue = $('#UserChoiceAttributeValue'+I).val();
+				var Date1 = $('#UserChoiceDeliveryDate'+I).val();
+				var Str	=	'';
+				if(Date1 == '' || Date1 == null)
+				{
+					Str  = "Please select desired delivery date first. \n";
+				}
+				if(AttributeValue == '' || AttributeValue == null)
+				{
+					Str += "Please select "+AttributeName+" first. \n";
+				}
+				if(Str != '')
+				{
+					alert(Str);
+				}
+				else
+				{
+					$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink+"&AttributeValue="+AttributeValue+"&AttributeName="+AttributeName+"&DesiredDeliveryTime="+Date1)});
+				}
+			}
+			else if(CanUserDesireDelivery == 1)
+			{
+				var Date1 = $('#UserChoiceDeliveryDate'+I).val();
+				if(Date1 == '' || Date1 == null)
+				{
+					alert("Please select desired delivery date first.");
+				}
+				else
+				{
+					$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink+"&DesiredDeliveryTime="+Date1)});
+				}
+			}
+			else if(AttributeName != '')
+			{
+				var AttributeValue = $('#UserChoiceAttributeValue'+I).val();
+				if(AttributeValue == '' || AttributeValue == null)
+				{
+					alert("Please select "+AttributeName+" first.");
+				}
+				else
+				{
+					$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink+"&AttributeValue="+AttributeValue+"&AttributeName="+AttributeName)});
+				}
+			}
+			else
+			{
+				$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink)});
+			}
+		}
+		function EditUserChoiceDeliveryDate(I)
+		{
+			$('#UserChoiceDeliveryDateWrapper'+I).show(); 
+			$("#UserChoiceDeliveryDateHtmlWrapper"+I).hide();
+		}
+		function SaveUserChoiceAttribute(I,AttributeName)
+		{
+			var Value	= $("#UserChoiceAttributeValue"+I).val();
+
+			if(Value == '')
+			{
+				alert("Please select "+AttributeName+" first.");
+			}
+			else
+			{
+				$('#UserChoiceAttributeLoading'+I).show(); 
+				$("#UserChoiceAttributeHtmlWrapper"+I).show();
+
+				$("#UserChoiceAttributeHtml"+I).html('<table border="0" cellpadding="2" cellspacing="2"><tr><td align="left"><div style="font-size:14px; width:50%; float:left;">'+AttributeName+':</div></td><td valign="middle" align="left">'+Value+'</td><td valign="middle" align="left"><input type="button" class="Button Green Small" value="Change" onclick="EditUserChoiceAttribute('+I+');" /></td></tr></table>');
+
+				$('#UserChoiceAttributeWrapper'+I).hide();
+				return false;
+			}
+		}
+		function EditUserChoiceAttribute(I)
+		{
+			$('#UserChoiceAttributeWrapper'+I).show(); 
+			$("#UserChoiceAttributeHtmlWrapper"+I).hide();
+		}
+		function SaveUserChoiceDeliveryDate(I,DeliveryTime)
+		{
+			var Month	= $("select[name='UserDeliveryDate"+I+"_Month']").val();
+			var Day		= $("#UserDeliveryDate"+I+"_Day_ID").val();
+			var Year	= $("#UserDeliveryDate"+I+"_Year_ID").val();
+			var Hrs		= $("#UserDeliveryDateHour"+I).val();
+			/*var Mins	= $("#UserDeliveryDateMinutes"+I).val();*/
+			if(Hrs == '')
+			{
+				alert("Please select time of delivery.");
+			}
+			else
+			{
+				$('#UserChoiceDeliveryDateLoading'+I).show();
+				var Data = '&Mode=ValidateUserChoiceDeliveryDate&Date='+encodeURIComponent(Month+'/'+Day+'/'+Year)+'&Time='+encodeURIComponent(Hrs)+"&MinDays="+DeliveryTime;
+
+				$.ajax({
+					type: "GET",
+					url: "dbbyajax.php",
+					data: Data,
+					success: function(Response){
+						$('#UserChoiceDeliveryDateLoading'+I).hide();
+						var ResArr	= Response.split('-::-');
+						var Type	= ResArr[0];
+						var Msg		= ResArr[1];
+
+						if(Type == 'Success')
+						{		
+							var DateStr		= ResArr[2];
+							$('#UserChoiceDeliveryDate'+I).val(Msg);
+							$('#UserChoiceDeliveryDateWrapper'+I).hide(); 
+							$("#UserChoiceDeliveryDateHtmlWrapper"+I).show();
+							$("#UserChoiceDeliveryDateHtml"+I).html('<table border="0" cellspacing="3" align="left"><tr><td align="left">'+DateStr+'</td><td valign="left"><input type="button" class="Button Green Small" value="Change" style="float:left;" onclick="EditUserChoiceDeliveryDate('+I+');" /></td></tr></table>');
+						}
+						else
+						{
+							alert(Msg);
+						}
+						return false;
+					}
+				});
+				return false;
+			}
+		}
+		function ShowHideSignInSignUp()
+		{
+			
+			$('#PopupForgotEmail').val('');
+			$('#PopupLoginEmail').val('');
+			$('#PopupLoginPassword').val('');
+
+			$('#PopupEmailLoginError').hide();
+			$('#PopupForgotPassErrDiv').hide('1');
+			$('#PopupForgotForgotPassDiv').hide('1');
+			
+			$('#RegEmail').val('');
+			$('#RegPassword').val('');  
+			$('#RegConfirmPassword').val('');
+
+			if($('#LoginContainer').is(':visible'))
+			{
+				$.colorbox({inline:true, width:"630px", height:"304px",scrolling:false, href:'#SignupContainer',onComplete:function(){$('#RegEmail').focus();}});
+				parent.$.colorbox.resize({width:(583+47), height:(252+62)});
+			}
+			else
+			{
+				$.colorbox({inline:true, width:"630px", height:"263px",scrolling:false, href:'#LoginContainer',onComplete:function(){$('#PopupLoginEmail').focus();}});
+				parent.$.colorbox.resize({width:(583+47), height:(210+62)});
+			}
+		}
+		function ShowHidePopupForgotForgotPassDiv()
+		{
+			if($('#PopupForgotForgotPassDiv').is(':visible'))
+			{
+				var h = $('#PopupEmailLoginError').height();
+				parent.$.colorbox.resize({width:(583+47), height:(220+62+Number(h))});
+			}
+			if($('#PopupEmailLoginError').is(':visible'))
+			{
+				var h = $('#PopupEmailLoginError').height();
+				parent.$.colorbox.resize({width:(583+47), height:(335+62+Number(h))});
+			}
+			else
+			{
+				parent.$.colorbox.resize({width:(583+47), height:(330+62)});
+			}
+			$('#PopupForgotForgotPassDiv').toggle('1');
+			$('#PopupForgotEmail').val('');
+			$('#PopupForgotPassErrDiv').hide('1');
+			
+			if($('#PopupForgotForgotPassDiv').is(':visible'))
+			{
+				$('#PopupForgotEmail').focus();
+			}
+		}
+		function SignUp()
+		{
+			var RegEmail			= $.trim($('#RegEmail').val());
+			var RegPassword			= $.trim($('#RegPassword').val());
+			var RegConfirmPassword	= $.trim($('#RegConfirmPassword').val());
+
+			var Str1	= 'Following errors occured: \n';
+			var Str		= '';
+			if(RegEmail == '')
+			{
+				Str += '* Please enter your email address. \n';
+				$('#RegEmail').css('border', '1px solid red');
+			}
+			else if(validateEmailFun($.trim(RegEmail)) == false)
+			{
+				Str += 'Please enter valid email address. \n';
+				$('#RegEmail').css('border', '1px solid red');
+			}
+			else
+			{
+				$('#RegEmail').css('border', '0px solid #cacaca');
+			}
+
+			if(RegPassword == '')
+			{
+				Str += '* Please enter your password. \n';
+				$('#RegPassword').css('border', '1px solid red');
+			}
+			else
+			{
+				$('#RegPassword').css('border', '0px solid #cacaca');
+			}
+			if(RegConfirmPassword == '')
+			{
+				Str += '* Please enter repeat password. \n';
+				$('#RegConfirmPassword').css('border', '1px solid red');
+			}
+			else
+			{
+				$('#RegConfirmPassword').css('border', '0px solid #cacaca');
+			}
+			if(RegPassword != '' && RegConfirmPassword != '')
+			{
+				if(RegPassword != RegConfirmPassword)
+				{
+					Str += '* Passwords do not match. \n';
+					$('#RegConfirmPassword').css('border', '1px solid red');
+					$('#RegPassword').css('border', '1px solid red');
+				}
+				else
+				{
+					$('#RegConfirmPassword').css('border', '0px solid #cacaca');
+					$('#RegPassword').css('border', '0px solid #cacaca');
+				}
+			}
+
+			if(Str != '')
+			{
+				alert(Str1+Str);
+				return false;
+			}
+			else
+			{		
+				$('#PopupSignupLoading').show();
+				var Data = '&Email='+encodeURIComponent(RegEmail)+'&Password='+encodeURIComponent(RegPassword)+'&Mode=SignUp';
+
+				$.ajax({
+					type: "GET",
+					url: "dbbyajax.php",
+					data: Data,
+					success: function(Response){
+						var ResArr	= Response.split('-::-');
+						var Type	= ResArr[0];
+						var Msg		= ResArr[1];
+
+						if(Type == 'Success')
+						{			
+							$('#LoggedInUserEmail').html(Msg);
+							$('#UnLoggedInDiv').hide('1');
+							$('#LoggedInDiv').show('1');
+							$('#LoggedInUserDropDownMenuContainer').show('1');
+							parent.jQuery.fn.colorbox.close();
+
+							var IsUserLoggedInHiddenObj		=	document.getElementById('IsUserLoggedInHidden');
+							if(IsUserLoggedInHiddenObj)
+							{
+								IsUserLoggedInHiddenObj.value = '1';
+							}
+
+							var LoginSignUpAction	= $('#LoginSignUpAction').val();
+							var SKUCode				= $('#SKUCode').val();
+							var SubCatIDs			= $('#SubCatIDs').val();
+							var CatIDs				= $('#CatIDs').val();
+							if(LoginSignUpAction == 'WishList')
+							{
+								AddToWishList(SKUCode,CatIDs,SubCatIDs);
+							}
+							else if(LoginSignUpAction == 'WriteReview')
+							{
+								LoadPage('write_review.php?id='+SKUCode);
+							}
+							else if(LoginSignUpAction == 'CreateYourWishList')
+							{
+								LoadPage('wishlist.php');
+							}
+							else if(LoginSignUpAction == 'track_order')
+							{
+								LoadPage('track_order.php');
+							}
+						}
+						else
+						{
+							alert(Msg);
+						}
+						$('#PopupSignupLoading').hide();
+						return false;
+					}
+				});
+				return false;
+			}
+		}
+		function TrackOrderStatus1()
+		{
+			var IsUserLoggedInHiddenObj		=	document.getElementById('IsUserLoggedInHidden');
+			if(IsUserLoggedInHiddenObj)
+			{
+				var Value = IsUserLoggedInHiddenObj.value;
+				if(Value == 1)
+				{
+					LoadPage('track_order.php');
+				}
+				else
+				{
+					$('#LoginSignUpAction').attr('value','track_order');
+
+					$.colorbox({inline:true, width:"630px", height:"273px",scrolling:false, href:'#LoginContainer',onComplete:function(){$('#PopupLoginEmail').focus();}});
+					parent.$.colorbox.resize({width:(583+47), height:(200+73)});
+				}
+			}
+		}
+		function CreateYourWishList()
+		{
+			var IsUserLoggedInHiddenObj		=	document.getElementById('IsUserLoggedInHidden');
+			if(IsUserLoggedInHiddenObj)
+			{
+				var Value = IsUserLoggedInHiddenObj.value;
+				if(Value == 1)
+				{
+					window.location.href = 'wishlist.php';
+					return false;
+				}
+				else
+				{
+					$('#LoginSignUpAction').attr('value','CreateYourWishList');
+
+					$.colorbox({inline:true, width:"630px", height:"273px",scrolling:false, href:'#LoginContainer',onComplete:function(){$('#PopupLoginEmail').focus();}});
+					parent.$.colorbox.resize({width:(583+47), height:(200+73)});
+				}
+			}
+		}
+		function FacebookLogin()
+		{
+			/*window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy.php&state=bfc4294538a0b95d4722342a0928694a&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
+			return false;*/
+			var Msg = '';
+			var Data = 'Mode=FacebookLogin';
+
+			$.ajax({
+				type: "GET",
+				url: "dbbyajax.php",
+				data: Data,
+				success: function(Response){
+					if(Response == 'Success')
+					{			
+						window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy.php&state=bfc4294538a0b95d4722342a0928694a&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
+						return false;
+					}
+					else
+					{
+						alert(Msg);
+					}
+				}
+			});
+			return false;
+			/*
+			FB.login(function(response) {
+			   if (response.authResponse) {
+				 console.log('Welcome!  Fetching your information.... ');
+				 FB.api('/me', function(response) {
+				   console.log('Good to see you, ' + response.name + '.');
+					  window.location.reload();
+				 });
+			   } else {
+				 console.log('User cancelled login or did not fully authorize.');
+			   }
+			 }, {scope: 'email,user_likes'});*/
+
+		}
+	</script>
+			<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-32790619-1']);
+		  _gaq.push(['_setDomainName', 'wahgifts.com']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+		<!-- Start of StatCounter Code for Default Guide -->
+		<script type="text/javascript">
+		var sc_project=8051998; 
+		var sc_invisible=1; 
+		var sc_security="77b196c5"; 
+		</script>
+		
+		<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+		<noscript><div class="statcounter"><a title="tumblr hit
+		counter" href="http://statcounter.com/tumblr/"
+		target="_blank"><img class="statcounter"
+		src="http://c.statcounter.com/8051998/0/77b196c5/1/"
+		alt="tumblr hit counter"></a></div></noscript>
+		<!-- End of StatCounter Code for Default Guide -->
+		
+</body></html>
