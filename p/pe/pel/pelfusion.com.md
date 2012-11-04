@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pelfusion.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602124905id_/http%3A//pelfusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelfusion.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104080214id_/http%3A//pelfusion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PelFusion
+# Privacy Policy - PelFusion
 
 [Home](http://pelfusion.com/)  »  Privacy Policy
 
@@ -18,7 +18,7 @@ PelFusion.com does use cookies to store information about visitors preferences, 
 
 \- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. 
+Some of our advertising partners may use cookies and web beacons on our site.
 
 ## Privacy Contact
 
