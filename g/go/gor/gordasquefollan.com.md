@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the gordasquefollan.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601092709id_/http%3A//support.bigfatbeauties.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2936%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordasquefollan.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104100149id_/http%3A//www.gordasquefollan.com/privacy) for the most accurate reproduction.*
 
-# Big Fat Beauties
+# Gordas que Follan
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
