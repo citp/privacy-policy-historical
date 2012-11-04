@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510055049id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104072246id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy I Bennetts
+# Privacy Policy | Bennetts | Bennetts -
 
-* ### Who is the Data Controller?
+## Bennetts Bike Insurance Privacy & Cookie Policy
 
-Bennetts is a trading name of BISL Limited, part of BGL Group of Companies. The data controller is BISL Limited registered in England and Wales registered number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS. In this Privacy Policy, "we", "us" and "our" means BISL Limited and "you" and "your" means the person who wishes to use the website.
+  1. ### Who is the Data Controller?
 
-* ### Your Rights
+Bennetts is a trading name of BISL Limited, part of BGL Group of Companies. The data controller is BISL Limited registered in England and Wales registered number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS. In this Privacy & Cookie Policy, "we", "us" and "our" means BISL Limited and "you" and "your" means the person who wishes to use the website.
+
+  2. ### Your Rights
 
 We comply with and are registered under the data protection laws in the United Kingdom and take all reasonable steps to prevent any unauthorised access to your personal data.
 
@@ -18,15 +20,15 @@ You are also entitled to ask us to remove personal information from our records 
 
 We reserve the right to amend or modify this privacy policy at any time in response to changes in applicable data protection and privacy legislation. We also reserve the right to transfer our rights under this Agreement at any time.
 
-* ### How will we use your data?
+  3. ### How will we use your data?
 
 The following paragraphs set out in detail how your data will be used by us.
 
-* ### Claims & Underwriting Exchange Register
+  4. ### Claims & Underwriting Exchange Register
 
 Insurers pass information to the Claims and Underwriting Exchange Register run by Insurance Database Services Limited (IDS Ltd), the Hunter Database, run by MCL Software Ltd and the Motor Insurance Anti Fraud and Theft Register, run by the Association of British Insurers (ABI) to help us check information provided and also to prevent fraudulent claims. When we deal with your request for insurance, we may search these Registers and any other relevant registers. Under the conditions of your policy, you must tell us about any incident (such as an accident or theft) which may give rise to a claim. When you tell us about an incident, we will pass this information to the Registers and to any other relevant registers. You can ask us for more information about this.
 
-* ### Motor Insurance Database
+  5. ### Motor Insurance Database
 
 Information relating to your insurance policy will be added to the Motor Insurance Database ("MID") managed by the Motor Insurers’ Bureau ("MIB").
 
@@ -48,67 +50,192 @@ It is vital that the MID holds your correct registration number. If it is incorr
 
 You can check that your correct registration number details are shown on the MID at [www.askmid.com](http://www.askmid.com/)
 
-* ### Insurance Administration, Renewal and Claims Handling
+  6. ### Insurance Administration, Renewal and Claims Handling
 
 Information you supply may be used for the purpose of insurance administration, renewal and claims handling by the insurer, its agents, re-insurers and your intermediary. In assessing any claims made, insurers may undertake checks against publicly available information such as Electoral Register, County Court Judgments, bankruptcy or repossession information. Information may also be shared with other insurers either directly or via those acting for the insurer such as Loss Adjusters or investigators.
 
-* ### Marketing and Market Research
+  7. ### Marketing and Market Research
 
 BISL Limited, part of the BGL group of companies, which also trades as Dial Direct and Budget and other carefully selected companies may use your information to keep you informed by post, telephone, e-mail or other means of products and services which may be of interest to you. They may also contact you to conduct market research.
 
-* ### Send to a Friend Option
+  8. ### Send to a Friend Option
 
 If you provide details of a friend to whom an e-mail is to be sent about Bennetts you confirm the following:
 
-  * That you have obtained the consent of your friend to pass your friends details to us and for your friend to receive the e-mail from us. 
-  * That you are happy for us to disclose your details as the person who asked that we send the e-mail to your friend. 
-  * We will not use that persons details for any marketing purposes. 
-
-
-* ### Credit Searches
+    * That you have obtained the consent of your friend to pass your friends details to us and for your friend to receive the e-mail from us. 
+    * That you are happy for us to disclose your details as the person who asked that we send the e-mail to your friend. 
+    * We will not use that persons details for any marketing purposes.
+  9. ### Credit Searches
 
 In assessing your application/renewal, we may search files made available to us by Credit Reference Agencies. They may keep a record of that search. We may also pass to Credit Reference Agencies information we hold about you and your payment record with us. Credit Reference Agencies share information with other organisations, enabling applications for financial products to be assessed or to assist the tracing of debtors, or to prevent fraud. We may ask Credit Reference Agencies to provide a credit scoring computation. Credit scoring uses a number of factors to work out risks involved in any application. A score is given to each factor and a total score obtained and this together with other factors will be used to accept or reject your application.
 
-* ### Sensitive Personal Data
+  10. ### Sensitive Personal Data
 
 In order to assess the terms of the insurance contract or administer claims, we will need to collect personal data which the Data Protection Act 1998 defines as sensitive, such as medical history or criminal convictions. By proceeding with this contract, you will signify your explicit consent to such information being processed by the insurer or its agents.
 
-* ### Use of Cookies
+  11. ### Use of Cookies
 
-A cookie identifies your computer to a server that then enables information to be stored on the hard drive of your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a Site previously. Cookies are commonly used on the Internet and do not harm your computer system. We may, from time to time use and serve cookies, pixel tags or action tags. Any information that is collected via cookies, pixels and action tags is completely anonymous.  
+A cookie identifies your computer to a server that then enables information to be stored on the hard drive of your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a Site previously. Cookies are commonly used on the Internet and do not harm your computer system. We may, from time to time use and serve cookies, pixel tags or action tags. 
+
 We use cookies, pixel tags or action tags for various purposes, including:
 
-  * collating anonymous aggregated information that is used to manage and plan enhancements to our services 
-  * to evaluate the effectiveness of our advertising and promotions on third party websites, for example by tracking whether these advertisements are clicked on by users.
+    * collating anonymous aggregated information that is used to manage and plan enhancements to our services 
+    * to evaluate the effectiveness of our advertising and promotions on third party websites, for example by tracking whether these advertisements are clicked on by users.
 
+Cookies in use on our website are shown below: 
 
+**Cookie**
 
+| 
+
+**Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**More Information**  
+  
+---|---|---|---  
+  
+Session ID & ASP.NET Authentication Token
+
+| 
+
+NSC_htmc_wtsw_cfoofuut_rvpuft  
+_support_check  
+ASP.NET_SessionID  
+ASPSESSIONIDAAAQ  
+RART  
+ASP.NET
+
+| 
+
+These essential cookies are used to maintain state between pages including quote retrieval etc and ensure your personal data you enter on our site is secure.
+
+| 
+
+[Visit the Microsoft website](http://privacy.microsoft.com/en-gb/fullnotice.mspx "Visit the Microsoft Website")  
+  
+Google Analytics
+
+| 
+
+_utmb  
+_utmc  
+_utma  
+_utmv  
+_utmz
+
+| 
+
+This cookie is used to collect information about how visitors use our site. We use the information to track behaviour across our website so we can review and improve our online service.
+
+| 
+
+[Visit Google](http://www.google.com/policies/privacy/ "Google Analytics") for a privacy overview  
+  
+Doubleclick Dart Floodlight  & Invite MediaTags
+
+| 
+
+id  
+invite media
+
+| 
+
+Thesecookies are used to collect information from users who have entered our website via display, pay per click or  affiliate advertising. We use the information to track behaviour from this channel through to sale so we can review and improve our online service.
+
+| 
+
+[Visit Google](http://www.google.com/policies/privacy/ "Google") for a privacy overview  
+  
+AdServer
+
+| 
+
+MUID  
+AA002
+
+| 
+
+This cookie is used on our pricing pages. We collect information from users to track behaviour through to sale so we can review and improve our online service.
+
+| 
+
+[Visit Atdmt](http://atlassolutions.com/privacy-policy "Visit Atdmt") for a privacy overview  
+  
+Google Conversion Tag
+
+| 
+
+id
+
+| 
+
+This cookie is used to collect information from users who have entered our website via pay per click advertising. We use the information to track behaviour from this channel through to sale so we can review and improve our online service.
+
+| 
+
+[Visit Google](http://www.google.com/policies/privacy/ "Visit Google") for a privacy overview  
+  
+Optimost Atlas Tag
+
+| 
+
+op[clientid][testname]gum
+
+op[clientid][testname]liid       
+
+| 
+
+This cookie is used to deliver improved customer experience options to our customers. We will serve different designs in order to track how visitors interact. This helps us review and improve the online customer experience throughout.
+
+| 
+
+[Visit Optimost](https://asp.optimost.com/avatar/privacy-policy "Visit Optimost") for a privacy overview  
+  
+Add This Analytics
+
+| 
+
+.addthis.com
+
+| 
+
+This cookie is used to collect information from users on how they are interacting with us via social media i.e. Facebook, Twitter, YouTube or Google +
+
+| 
+
+[Visit Addthis.com](http://www.addthis.com/privacy "Visit Addthis.com") for a Privacy Overview  
+  
 We are continually looking to adopt and implement certain practices and technologies in order that we may improve your user experience.
 
-* ### How can I stop cookies and what effect will this have?
+  12. ### How can I stop cookies and what effect will this have?
 
-You can stop cookies from being deployed on your computer by configuring your browser not to accept them or opt-out. Please refer to your browser's 'help' facility.
+Two of the cookies we use are essential for parts of the Bennetts Bike Insurance Site to operate and have already been set. You can stop cookies from being deployed on your computer by configuring your browser not to accept them or opt-out. Please refer to your browser's 'help' facility.
 
-If cookies are already on your system, you can delete them - For more information on cookies and deletion of cookies please visit: <http://www.allaboutcookies.org/manage-cookies/>  
-Please be aware that deleting certain cookies can result in difficulties when navigating around sites.
+If cookies are already on your system, you can delete them - For more information on cookies and deletion of cookies please visit: <http://www.allaboutcookies.org/manage-cookies/>. Please be aware that restricting or deleting certain cookies can result in difficulties when navigating around sites.
 
-* ### Overseas Transfer of Data
+  13. ### Overseas Transfer of Data
 
 We and the other companies processing your data for the purposes mentioned above may from time to time need to undertake some of the processing in countries outside of the European Economic Area which may not have laws to protect your personal data but in all cases we will ensure that it is kept securely and only used for the purposes for which you provided it.
 
-* ### How secure is the information I give to you?
+  14. ### How secure is the information I give to you?
 
 The payment site employs enhanced encryption techniques which seek to ensure that all of your confidential data (such as credit card number, name, address and other information) cannot be intercepted, unscrambled or copied when being transmitted between our server and yourself.
 
-* ### Who will process my credit/debit card information?
+  15. ### Who will process my credit/debit card information?
 
 This will be done by our partners at Cardnet.
 
-* ### UK Residents Only
+  16. ### UK Residents Only
 
 The products and services described on this website are only available to residents of the United Kingdom insuring private motorcycles within Great Britain, Northern Ireland and the Isle of Man (excluding the Channel Islands). By requesting a quote, you confirm that all drivers on your policy are UK residents and that if there is any change to this status then you would immediately notify the insurance provider.
 
-* ### Responsibility for content
+  17. ### Responsibility for content
 
 17.1   
 We are providing this Website on an "as is" either end basis and make no representations or warranties of any kind in respect of this site or its contents and disclaim all such representations and warranties. In addition, We make no representations or warranties about the accuracy, completeness, or suitability for any purpose of the information and related graphics published in this Website. The information contained in this site may contain technical inaccuracies or typographical errors. All Our liability howsoever arising for any such inaccuracies or errors is expressly excluded to the fullest extent permitted by law.
@@ -119,36 +246,40 @@ We make no warranty that the Website or any linked website is free from viruses 
 17.3   
 Notwithstanding the foregoing, none of the exclusions and limitations under the clause are intended to limit any rights You may have as a consumer under local law or other statutory rights which may not be excluded or in any way to exclude or limit Our liability to You for death or personal injury resulting from Our negligence or that of Our employees or agents.
 
-* ### Third Party Websites
+  18. ### Third Party Websites
 
 This Website may also contain hyper text links to websites operated by third parties. The operation and content of those websites shall be determined by the organisation which controls the website and this will be governed by separate terms and conditions. Links are provided for convenience only and inclusion of any links should not be taken to imply endorsement in any way of the site to which it links. We accept no responsibility or liability for the contents of any other website.
 
-* ### Use of the Website
+  19. ### Use of the Website
 
 You agree that Your use of the Website will in no way affect the integrity or security of the Website or cause unreasonable inconvenience to any of Our staff.
 
-* ### Termination
+  20. ### Termination
 
 We have in Our sole discretion the right to issue a warning, temporary suspension, or an indefinite suspension and termination of Your rights to use the website if You:
 
-  * act inconsistently and in breach of these terms and conditions; 
-  * at any time violate or attempt to violate any rights of any other user of the website or third parties; 
-  * are engaged in any fraudulent activity.
+    * act inconsistently and in breach of these terms and conditions; 
+    * at any time violate or attempt to violate any rights of any other user of the website or third parties; 
+    * are engaged in any fraudulent activity.
+  21. ### Law
+
+This Privacy & Cookie Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
 
 
-* ### Law
 
-This Privacy Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
 
-This Privacy Policy applies to the Bennetts Classified website (“Classifieds”) only.
+##   
+Bennetts Classifieds Privacy & Cookie Policy
 
-* ### Who is the Data Controller?
+This Privacy & Cookie Policy applies to the Bennetts Classified website (“Classifieds”) only.
 
-Bennetts is a trading name of BISL Limited part of the BGL Group of Companies. The data controller is BISL Limited registered in England and Wales number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS. In this Privacy Policy “We”, “Us” and “Our” means BISL Limited and “You” and “Your” means the person who wishes to use Classifieds. 
+  1. ### Who is the Data Controller?
 
-We reserve the right to amend or modify this privacy policy at any time but will give You as much notice as possible where this is necessary.
+Bennetts is a trading name of BISL Limited part of the BGL Group of Companies. The data controller is BISL Limited registered in England and Wales number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS. In this Privacy & Cookie Policy “We”, “Us” and “Our” means BISL Limited and “You” and “Your” means the person who wishes to use Classifieds. 
 
-* ### Your Rights
+We reserve the right to amend or modify this Privacy & Cookie Policy at any time but will give You as much notice as possible where this is necessary.
+
+  2. ### Your Rights
 
 2.1      
 
@@ -162,7 +293,7 @@ We reserve the right to amend or modify this privacy policy at any time but will
 
 You are also entitled to ask Us to remove personal information from Our records and if You wish to do this then please write to the Data Protection Officer at the address above. Please provide Your full name, address and date of birth when contacting Us.
 
-* ### Data Security
+  3. ### Data Security
 
 3.1              
 
@@ -172,7 +303,7 @@ We are committed to ensuring Your personal information is used properly and kept
 
    You are responsible for keeping Your account details including Your password confidential.
 
-* ### Use of Data
+  4. ### Use of Data
 
 **4.1         Administration**Data You provide to Classifieds will be used for the administration of the Classifieds service.     You must register and provide Us with the data We ask for in order to use Classifieds.   Advertisements that You submit on Classifieds will be displayed on the Classifieds website.
 
@@ -186,7 +317,7 @@ We have the right to disclose Your identity to any third party who claims that a
 ** **  
 **The Classifieds site contains a “Contract the Seller” function.     If You use the function then We will send Your name and contact details to the seller that You would like to contact. By using the Contact the Seller function You are consenting to Your data being used in this way.
 
-* **4.5                ****Send to a Friend**
+  5. **Send to a Friend**
 
 If You provide us with details of a friend to whom You would like us to send an e-mail You are confirming the following:-
 
@@ -194,36 +325,333 @@ If You provide us with details of a friend to whom You would like us to send an 
 
 -  that You are happy for Us to disclose Your details as the person who asked that We send the e-mail to Your friend.
 
-* ### Cookies
+  6. ### Cookies
 
-**5.1                ****Use of Cookies**
+**6.1                ****Use of Cookies**
 
-A cookie identifies Your computer to a server that then enables information to be stored on the hard drive of Your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a website previously. Cookies are commonly used on the Internet and do not harm Your computer system. We may, from time to time use and serve cookies, pixel tags or action tags. Any information that is collected via cookies, pixels and action tags is completely anonymous.
+A cookie identifies Your computer to a server that then enables information to be stored on the hard drive of Your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a website previously. Cookies are commonly used on the Internet and do not harm Your computer system. We may, from time to time use and serve cookies, pixel tags or action tags. 
 
 We use cookies, pixel tags or action tags for various purposes, including:
 
-  1.  
-    * collating anonymous aggregated information that is used to manage and plan enhancements to Our services 
-    * to evaluate the effectiveness of Our advertising and promotions on third party websites, for example by tracking whether these advertisements are clicked on by users. 
+    1.       * collating anonymous aggregated information that is used to manage and plan enhancements to Our services 
+      * to evaluate the effectiveness of Our advertising and promotions on third party websites, for example by tracking whether these advertisements are clicked on by users
 
+Cookies in use on our website are shown below: 
 
+**Cookie**
 
+| 
+
+**Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**More Information**  
+  
+---|---|---|---  
+  
+Session ID & ASP.NET Authentication Token
+
+| 
+
+ASP.net_SessionID  
+ASP.net_UserRole  
+Single Sign On  
+ASP.NET
+
+| 
+
+These essential cookies are used to enable your account if you have created one, retrieve details you have entered at the registration process and ensure your personal data you enter on our site is secure.
+
+| 
+
+[Visit the Microsoft website](http://privacy.microsoft.com/en-gb/fullnotice.mspx "Visit the Microsoft website")  
+  
+Google Analytics
+
+| 
+
+_utmb  
+_utmc  
+_utma  
+_utmv  
+_utmv
+
+| 
+
+This cookie is used to collect information about how visitors use our site. We use the information to track behaviour across our website so we can review and improve our online service.
+
+| 
+
+[Visit Google](http://www.google.com/policies/privacy/ "Visit Google") for a privacy overview  
+  
+Doubleclick Dart Floodlight  Tag
+
+| 
+
+id
+
+| 
+
+This cookie is used to collect information from users who have entered our website via adverts on third party sites (including search engines). We use the information to track behaviour from this channel through to sale so we can review and improve our online service.
+
+| 
+
+[Visit Google](http://www.google.com/policies/privacy/ "Visit Google") for a privacy overview  
+  
+Google Conversion Tag
+
+| 
+
+id
+
+| 
+
+This cookie is used to collect information from users who have entered our website via pay per click advertising. We use the information to track behaviour from this channel through to sale so we can review and improve our online service.
+
+| 
+
+[Visit Google](http://www.google.com/policies/privacy/ "Visit Google") for a privacy overview  
+  
+Add This Analytics
+
+| 
+
+Addthis.com
+
+| 
+
+This cookie is used to collect information from users on how they are interacting with us via social media i.e. Facebook, Twitter, YouTube or Google +
+
+| 
+
+[Visit Addthis.com](http://www.addthis.com/privacy "Visit Addthis.com") for a Privacy Overview  
+  
+  
 We are continually looking to adopt and implement certain practices and technologies in order that We may improve Your user experience.
 
-**5.2             ****How can I stop cookies and what effect will this have?**
+**6.2             ****How can I stop cookies and what effect will this have?**
 
-You can stop cookies from being deployed on Your computer by configuring Your browser not to accept them or opt-out. Please refer to Your browser's 'help' facility.
+Two of the cookies We use are essential for parts of the Bennetts Classifieds Site to operate and have already been set. You can stop cookies from being deployed on Your computer by configuring Your browser not to accept them or opt-out. Please refer to Your browser's 'help' facility.
 
 If cookies are already on Your system, You can delete them - For more information on cookies and deletion of cookies please visit: <http://www.allaboutcookies.org/manage-cookies/>
 
-Please be aware that deleting certain cookies can result in difficulties when navigating around sites.
+Please be aware that restricting or deleting certain cookies can result in difficulties when navigating around sites.
 
-* ### Overseas Transfer of Data
+  7. ### Overseas Transfer of Data
 
 From time to time it may be necessary for Us to undertake some of the processing of Your data in countries outside of the European Economic Area which may not have laws to protect Your personal data but in all cases We will ensure that it is kept securely and only used for the purposes for which You provided it.
 
-* ### Law
+  8. ### Law
 
-This Privacy Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
+This Privacy & Cookie Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
 
 _Use of Classifieds is subject to the[Classifieds Terms and Conditions](http://www.bennetts.co.uk/terms-and-conditions/ "Classifieds Terms & Conditions")_
+
+
+
+**BENNETTS BIKE SOCIAL PRIVACY& COOKIE POLICY**
+
+**SUMMARY**
+
+This Privacy & Cookie Policy provides You with everything You need to know about how We will use the data that You provide to Us.    
+
+You will find detailed information below about all aspects of Our data processing including:-
+
+  * Our commitment to keep Your data secure and confidential.
+  * How We will use Your information to allow Us to run the Bike Social Site and how You can control what information other users to Bike Social Site can see. 
+  * What to do if You want to amend or remove Your personal information.
+  * An explanation of what a ‘cookie’ is and how We use them on the Bike Social Site. 
+  * The limited circumstances where it might be necessary for Us to disclose information to other people and when We would need to do this.
+
+
+
+If you are also a Bennetts Insurance customer please note that the Bike Social Site is separate from Bennetts Insurance and your profile is not linked to your insurance policy.
+
+**1               This Privacy & Cookie Policy**
+
+1.1          This website, located at [www.bennetts.co.uk/bikesocial](http://www.bennetts.co.uk/bikesocial) **(Bike Social Site)** is operated by BISL Limited (registered in England with registration number 3231094 whose registered office is at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS) **(We, Us, Our)**. 
+
+1.2          Expressions used but not defined in this Privacy & Cookie Policy will have the meanings set out in the Terms located at [www.bennetts.co.uk/terms-and-conditions](http://www.bennetts.co.uk/terms-and-conditions/) of which this Privacy Policy forms a part.
+
+**2              Changes to this Privacy & Cookie Policy**
+
+2.1          From time to time We may revise and update this Privacy & Cookie Policy and We will indicate at the top of this page when this Privacy & Cookie Policy was last revised. Please regularly review the Privacy & Cookie Policy, as Your continued use of the Bike Social Site indicates Your agreement with any changes that We make.
+
+**3               We respect Your privacy**
+
+3.1          The protection of Your privacy in the processing of Your personal information is an important concern to Us. Any personal information collected during visits to the Bike Social Site is processed by Us according to applicable data privacy and data protection legislation and as set out in the Privacy & Cookie Policy.    
+
+3.2          **We promise to keep your information confidential.**   We will never sell or pass on your personal information to third parties for marketing purposes. The limited circumstances in which we may need to pass on personal information to third parties are fully explained in this Privacy and Cookie Policy.  (See Section 7 – Other sharing of your personal information).
+
+3.3        We keep your data safe. The pages on the Bike Social Site where you provide us with personal information (for example the registration page) are SSL certified. SSL allows secure connections from our web server to your browser to allow information to be transmitted securely.
+
+3.4        If you have any queries regarding how your data is processed you can contact our Data Protection Officer by post at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS or by e-mail at [bikesocial@bennetts.co.uk](mailto:bikesocial@bennetts.co.uk)
+
+**4             Collection of Your personal information and acceptance by You**
+
+4.1          We collect certain personal information about You when You register for the Bike Social Site and create or edit Your Profile and when You upload Content to the Bike Social Site.
+
+4.2          If You are a Visitor to the Bike Social Site and You do not register to ' **Create a Profile** ' We do not collect any personal information about You through the Bike Social Site, although We may track Your use of the Bike Social Site by using cookies if You consent (please see the section entitled 'Cookies' below).
+
+4.3          **By submitting Your personal information to the Bike Social Site, by ticking appropriate boxes to indicate consent where relevant and by using the Bike Social Site, You are agreeing to the processing of Your personal information by Us in accordance with this Privacy Policy.   **
+
+**5               Use and storage of Your personal information**
+
+5.1          Before You are able to create Your Profile and post Content to the Bike Social Site, You must provide Your name, a valid email address and the other mandatory personal information We indicate on the registration page within the Bike Social Site. There is also optional personal information You can fill in which will help to enhance Your experience.  Mandatory personal information is marked with an asterisk on the registration page.
+
+5.2          When you create a profile on Bike Social the data that you provide will also be used to allow you to access other areas of the Bennetts website with the same username and password ( **Single Sign On** ). Before you use other areas of the Bennetts website you must read and agree to the Privacy & Cookie Policy for the relevant area of the website.  
+
+5.3          We may use this personal information only for the purposes of:
+
+5.3.1       administering Your Profile with the Bike Social Site;
+
+5.3.2       keeping a record of the comments You make on the Bike Social Site so that we can, if necessary, identify whether You have complied with the Terms and Code of Conduct and otherwise for the administration and operation of the Bike Social Site;
+
+5.3.3       asking You to participate in surveys and feedback relating to the Bike Social Site and for processing and analysing the results of surveys or feedback internally;
+
+5.3.4       sending You Our Newsletter and other information regarding other products and services provided by Bennetts (including but not limited to Bennetts Insurance and Bennetts Classifieds) by e- mail, mail, telephone, SMS or other forms of transmission unless you have told us that you don’t to receive this information. You will be given an opportunity to select your marketing preferences which you register on the Bike Social Site; and
+
+5.4         To help us improve the service we provided we may undertake market research and/or data analysis and we may use information provided in relation Bike Social or any other products or services that you may use with Bennetts (including but not limited to Bennetts Insurance or Bennetts Classified) for these purposes.
+
+5.5        In some circumstances it may be necessary for some of your data to be processed outside of the European Economic Area where data protection safeguards are not as high as they are in the UK. Where this is necessary we will ensure that your personal information has the same protection as when it is processed in the UK.
+
+**6            How other Users and Visitors may see Your personal information**
+
+6.1        The Bike Social Site is a community for all users to share personal information. By ‘ **registering’** and ‘ **creating a profile’** the personal information You upload to the Bike Social Site through your profile page (i.e personal information, rides, points of interest, events, blogs, polls, photo galleries, video galleries, clubs, comments, ratings and further information) can be:
+
+6.1.1    viewed by other users and visitors; and
+
+6.1.2    added to by other registered users in the form of photos, videos, comments, shares and ratings.
+
+6.2       When you upload materials to the Bike Social Site you will be given options regarding the privacy settings you wish to allocate to that material. You can review and amend your privacy settings at any time by logging in to Your account. If you become ‘mates’ with another user you will be able to see each others full profile page. If you are not ‘mates’ they will not be able to see all personal information on Your personal profile page.
+
+6.3       We will ensure that Your personal information is managed on the Bike Social Site in accordance with the preferences You indicate in Your privacy settings.
+
+7           **Other sharing of Your personal information**
+
+7.1       It is of paramount importance to Us that We keep your data secure and confidential however there are limited situations where it may be necessary to share your personal information and these are set out below:
+
+7.1.1     We may use third parties to process personal information on Our behalf. (For example, We may use a third party to provide Bike Social Site hosting services.) Where third parties process Your personal information on Our behalf, We will ensure that they have the necessary high standards of security in place so that your data is kept secure and only used in accordance with this Privacy and Cookie Policy.   
+
+7.1.2      We will release Your personal information when We are required to do so for legal or regulatory purposes or as part of legal proceedings.
+
+7.1.3      If in the future we sell our business it may be necessary for us to pass your personal information to the new owner however you will always be notified in advance of this happening. 
+
+7.2         We may disclose Your name and contact details where We are required to do so under a subpoena or court order, or following any other request (including criminal and civil matters) if We believe that the response is required by law or is reasonably necessary to protect the values and objectives of the Bike Social Site or other Users.
+
+7.3         To prevent or detect crime or fraud or in cases where We are required to investigate reports that inaccurate information has been provided in relation to any Bennetts products or services (whether in relation to Bike Social, Bennetts Classifieds, Bennetts Insurance or otherwise),  We may disclose information provided in connection with any use of the Bike Social Site to third parties to the extent We believe such disclosure is strictly necessary. 
+
+7.4         We may also disclose Your name and contact details to any third party who is claiming that any Content posted by You constitutes a violation their intellectual property rights, or of their right to privacy, although We will try to notify You first before doing this by using the contact details You have provided.
+
+**8             Changing or removing personal information**
+
+8.1         You can change or remove the personal information We hold about You by logging in and editing Your profile at [www.bennetts.co.uk/bikesocial/profile](http://www.bennetts.co.uk/bikesocial).
+
+8.2          You can delete your Bike Social account  by emailing [bikesocial@bennetts,co.uk](mailto:bikesocial@bennetts,co.uk) with your request. Following receipt of  Your request We will endeavour to delete Your personal information as soon as practicable, but We will not be able to do so immediately following Your request. 
+
+8.3          Following removal of personal information or deletion of account We will retain Your name, email address and contact details provided in Your Profile for the purposes of keeping a record of the comments You make in the Bike Social Site so that We can, if necessary, identify whether You have complied with the Terms and Code of Conduct.
+
+**9             Cookies**
+
+_               Use of cookies_
+
+9.1          A cookie identifies Your computer to a server that then enables information to be stored on the hard drive of Your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a website previously. Cookies are commonly used on the Internet and do not harm Your computer system. We may, from time to time use and serve cookies, pixel tags or action tags.
+
+9.2          We use cookies, pixel tags or action tags for various purposes, including:
+
+9.2.1       collating anonymous aggregated information that is used to manage and plan enhancements to Our services; and
+
+9.2.2       evaluating the effectiveness of Our advertising and promotions on third party websites, for example by tracking whether these   
+              advertisements are clicked on by users.
+
+9.3          Cookies in use on our website are shown below:
+
+ Cookie
+
+| 
+
+Name
+
+| 
+
+Purpose
+
+| 
+
+More Information  
+  
+---|---|---|---  
+  
+Session ID & ASP.net Authentication Token
+
+| 
+
+ASP.net_SessionID  
+ASP.net_UserRole  
+Single Sign On  
+ASP.NET
+
+| 
+
+These essential cookies are used to enable Your account if You have created one, retrieve details You have entered at the registration process and ensure Your personal data You enter on Our site is secure.
+
+| 
+
+Visit the Microsoft website  
+  
+Google Analytics
+
+| 
+
+_utmb  
+_utmc  
+_utma  
+_utmv  
+_utmv
+
+| 
+
+This cookie is used to collect information about how visitors use Our site. We use the information to track behaviour across Our website so we can review and improve Our online service.
+
+| 
+
+Visit Google for a privacy overview  
+  
+Add This Analytics
+
+| 
+
+.addthis.com
+
+| 
+
+This cookie is used to collect information from users on how they are interacting with Us via social media, e.g. Facebook, Twitter, YouTube or Google +
+
+| 
+
+Visit Addthis.com for a Privacy Overview  
+  
+9.4       We are continually looking to adopt and implement certain practices and technologies in order that We may improve Your user experience.
+
+_How can I stop cookies and what effect will this have?_
+
+9.5       Two of the cookies We use are essential for parts of the Bike Social Site to operate and have already been set (Session ID & ASP.net Authentication Token cookies).
+
+9.6       You can stop cookies from being deployed on Your computer by configuring Your browser not to accept cookies. Please refer to Your browser's 'help' facility.
+
+9.7       If cookies are already on Your system, You can delete them. For more information on cookies and deletion of cookies please visit: <http://www.allaboutcookies.org/manage-cookies>
+
+9.8       Please be aware that restricting or deleting certain cookies can result in difficulties when navigating around our site.
+
+**10         Links**
+
+10.1     The Bike Social Site may contain links to other websites. This Privacy & Cookie Policy applies to the Bike Social Site only and We are not responsible for  the privacy practices of other websites. We recommend that You read the privacy policies of those other websites.
+
+**11        Contact Us**
+
+11.1    If You have any questions about this Privacy & Cookie Policy or any of the Terms of which it forms part please contact us at Bennetts, Pegasus House,  Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS United Kingdom or at [bikesocial@bennetts.co.uk](mailto:bikesocial@bennetts.co.uk).
