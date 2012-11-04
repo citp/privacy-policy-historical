@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndb.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317055205id_/http%3A//ndb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndb.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104025020id_/http%3A//ndb.com/privacy.php) for the most accurate reproduction.*
 
 # NDB Privacy Policy | NDB.com - Since 1994
 
