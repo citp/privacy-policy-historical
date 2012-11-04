@@ -1,42 +1,30 @@
-> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430201523id_/http%3A//www.syncfusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104153210id_/http%3A//www.syncfusion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Syncfusion
 
-Last Updated on: 03/16/2010
+Last Updated on: April 24,2012
 
-At Syncfusion, Inc., your privacy is very important to us. This document sets forth the Syncfusion Online Privacy Policy (the "Privacy Policy") for this Web site, www.syncfusion.com (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site. You can browse through most of our website without giving us any information about yourself, but there are certain areas of our site, for example the online technical support area, for which we do need information from you. We, therefore, encourage you take a moment to read our online privacy policy. 
+Your privacy is very important to us, therefore our policy is to respect and protect your privacy to the extent that you share information with us. This Syncfusion Online Privacy Policy summarizes our policies with regard to privacy and your use of our website. If you have objections to this Privacy Policy, you should not access or use our website. You can browse through most of our website without giving us any information about yourself, but there are certain areas of our site, for example the online technical support area, for which we do need information from you. Therefore, we strongly encourage you take a moment to read this online Privacy Policy. 
 
-#### Defining Personal information
+Does Syncfusion ask for personal information?
 
-Personal Information 
+We do not ask for personal information if you simply choose to browse our website, but we do ask for such information if you request information from us. Personal information may include your name, mailing address, and/or email address. We will ask for additional personal information in the event that you download our products, request services, or contact sales support. Such other personal information may include your company name, job title and department, telephone and facsimile numbers. When ordering products or services, you may be asked to provide a credit card number. 
 
-"Personal Information" is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains. This includes first and last name, mailing address (including ZIP code), e-mail address, employer, job title and department, telephone and facsimile numbers. When ordering products or services on the Site, you may be asked to provide a credit card number. 
+Syncfusion collects your personal information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As another example, if you enter a contest, information is collected to qualify your entry and so that we may contact you regarding the contest or prize awards. Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of Syncfusion. 
 
-Technical Information 
+Will Syncfusion disclose any of my personal information?
 
-When you use the Site, Syncfusion or third parties authorized by Syncfusion may also collect certain technical and routing information about your computer to facilitate your use of the Site and its services. For example, we may log environmental variables, such as browser type, operating system, CPU speed, and the Internet Protocol ("IP") address of your computer. We use these environmental variables to facilitate and track your use of the Site and its services. Syncfusion also uses such environmental variables to measure traffic patterns on the Site. Without expressly informing you in each particular circumstance, we do not match such information with any of your Personal Information.
+Syncfusion will not disclose any of your personal information, except as described below, or when we believe in good faith that the law requires it, or to protect the rights or property of Syncfusion or others. If compelled by law to divulge your personal information to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of Syncfusion or others, Syncfusion will use its best business judgment to minimize such compelled disclosures. 
 
-Cookies
-
-When you visit this Site, you can browse the Site and access important information without revealing your identity. In order to improve our Site, we use "cookies" to track your visit. A cookie is a small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as an identification card for your web browser, and it enables Syncfusion to record your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the opportunity to decide whether or not to accept it. (For some Web pages that require an authorization, cookies are not optional, as the authorization information is stored in the cookie. Users choosing not to accept cookies will probably not be able to access those pages.) While Syncfusion uses cookies to track your visit to the Site, and our Web servers automatically log the IP/Internet address of your computer, Syncfusion does not use this information to identify you personally. 
-
-#### Collecting Personal information 
-
-Who collects it 
-
-Personal Information on this Site is collected by Syncfusion, Inc. Syncfusion's address is 2501 Aerial Center Parkway, Suite 200, Morrisville, NC 27560, and its telephone number is (919) 481-1974.
-
-The Site contains links to other Web sites at which Personal Information may be collected. In such instances, unless expressly provided to the contrary, the collection and use of your Personal Information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your Personal Information. 
-
-When and how is Personal Information collected 
+Syncfusion does disclose aggregated user statistics and demographic information (for example, the geographic spread of our customer inquiries) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. If and/or when we do match user information, we endeavor to keep personal information confidential from those third parties. 
 
 Syncfusion collects your information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As another example, if you enter a contest, information is collected to qualify the entry and contact you regarding the contest or prize awards. Your Personal Information is also used to keep you informed about product upgrades, special offers, and other products and services of Syncfusion.
 
-Syncfusion may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
+Additionally, if you make a purchase from our website, the information obtained during your visit to these parts of our website, and the information that you give such as your credit card number and contact information, is provided to our credit card service provider. Our credit card service provider has its own separate privacy and data collection policy, and Syncfusion has no responsibility or liability for such third party policies. 
 
-####  Using Personal Information 
+How does Syncfusion use my personal information?
 
-Who uses it and how 
+Syncfusion’s goal in collecting personal information is to provide you, the user, with a personalized web experience, and our business partners with an efficient means to reach the right audience. By knowing a little about you, Syncfusion is able to deliver more relevant website content, and hence better service, to you.
 
 Syncfusion uses your personal information to: 
 
@@ -44,50 +32,46 @@ Syncfusion uses your personal information to:
   * Enable you to track the status of your technical support incidents. 
   * Enable you to post messages in our technical support forums. 
   * Help us maintain and retrieve information regarding the status of your product or subscription. 
-  * Send you information regarding product updates and special offers if you have signed up for these. 
-  * If you are a customer we will send you information on product updates. If you use our support system we will send you e-mail updates when your incident has been updated by our support personnel.
-  * If you sign up to receive updates from our site, you will be requested by email for confirmation of such requests. Only if you confirm the request will it be treated as valid. 
+  * Send you information regarding product updates and special offers. Note that by initially providing us with your personal information, you are agreeing to receive such information. You do have the option of unsubscribing from receiving further information. 
+  * Send you information on product updates (if you are a customer). If you use our support system we will send you e-mail updates when your incident has been updated by our support personnel. 
 
 
 
-####  Protection and access to collected information 
+Personal Information that you provide resides on a secure server and is only accessible to selected Syncfusion personnel and contractors via password. Since this information is not accessible by you, you will not be asked to select a password in order to view or modify such information. In the interest of providing better service to its customers, Syncfusion uses resellers and other partners to provide certain marketing, sales, and support services to our customers. By submitting your personal information to Syncfusion, you understand and agree that Syncfusion may allow its resellers and other partners to access a portion of your personal information (contact information only) for the purpose of providing you with marketing, sales, and support services. Syncfusion will not share any demographic or payment information with any third party. 
 
-How is the collected information protected? 
+The personal information that you provide in connection with registering yourself as a user of Syncfusion products or services or registering a Syncfusion product is classified as Registration Information. Registration Information is protected in several ways. Access by you to your Registration Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Registration Information resides on a secure server that only selected Syncfusion personnel and contractors have access to via password. Syncfusion encrypts your Personal Information and thereby strives to prevent unauthorized parties from viewing such information when it is transmitted to Syncfusion. 
 
-The Personal Information that you provide in connection with registering yourself as a user of Syncfusion products or services or registering a Syncfusion product is classified as Registration Information. Registration Information is protected in several ways. Access by you to your Registration Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Registration Information resides on a secure server that only selected Syncfusion personnel and contractors have access to via password. Syncfusion encrypts your Personal Information and thereby strives to prevent unauthorized parties from viewing such information when it is transmitted to Syncfusion. 
+How do I update or change my privacy preferences?
 
-Personal Information that you provide that does not constitute Registration Information also resides on a secure server and is only accessible to selected Syncfusion personnel and contractors via password. Since this information is not accessible by you, you will not be asked to select a password in order to view or modify such information. Within Syncfusion, only authorized support personnel and executives have access to your Personal Information. 
+You may access and correct your personal information and privacy preferences at any time. This may be done by logging in to our support system at <http://www.syncfusion.com/support/> and selecting the 'Edit My Account' option. 
 
-Please note that any information you post to a public bulletin board or chat room, such as the Syncfusion User to User Forums (the "Forums"), is available to all persons accessing that location. Your e-mail address would then be available to all persons accessing the Forums. 
+Will Syncfusion use my information for direct mailing or email mailings? 
 
-Syncfusion recognizes and appreciates the importance of responsible use of information collected on this Site. Without your consent, Syncfusion will not communicate any information to you regarding products, services, and special offers available from Syncfusion, although we may find it necessary to communicate with you regarding your use of the services on this Site. Except in the particular circumstances described in this Privacy Policy, Syncfusion will also not provide your name to other companies or organizations without your consent. 
+You may browse our website as you wish, and you will **remain an anonymous user until you fill out one of our lead capture forms or otherwise provide your email address to us**. We may send you promotional emails about our various products and services, or other products and services we feel may be of interest to you. Unless you specifically opt-out of receiving promotional emails from our business partners (see paragraph above), you may receive mailings from our business partners as well. Each such mailing, whether direct or by email, will include instructions for removing your name from this distribution list. In the case of email mailings, this means a link in the email that you can use to opt-out of future mailings. All such mailings will originate from Syncfusion or one of Syncfusion’s business partners, and each such mailing will clearly identify the source of the mailing. Emails sent from Syncfusion include a link allowing you to unsubscribe from receiving further emails. 
 
-There are instances in which Syncfusion will be compelled to divulge your Personal Information. Syncfusion may provide your Personal Information if necessary, in Syncfusion's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of Syncfusion or others. 
+Does Syncfusion use cookies and IP addresses?
 
-####  Updating your personal information and privacy preferences
+Yes. Syncfusion uses cookies in various ways to track your visit to our website, but this information is not used to identify you personally. 
 
-You have the right to access and correct your personal information and privacy preferences at any time. 
+  * We use cookies to determine which of our visitors are interested in our products. **You will remain an anonymous user until you fill out one of our lead capture forms, at which time your information will be used by our marketing department. Our lead capture form is clearly identified as such**. 
+  * We also use cookies to be reminded of who you are and to access your account information (stored on our computers) in order to deliver to you better and more personalized service by presenting information that we believe you may be interested in. This cookie is created by your web browser when you register with us at our website.
+  * Cookies may also used to estimate the size of our visitor base. Each web browser that accesses our website is given a unique cookie which is then used to determine repeat usage versus initial usage. 
+  * We use **Google Analytics** to conduct anonymous web traffic analysis for our website. While Google Analytics makes use of cookies, no personal information is ever collected or analyzed by this service. 
+  * We collect IP addresses for the purposes of system administration and security only. Our web servers automatically log the IP/Internet address of your computer, but this information is not used to identify you personally. 
 
-  * Update information you have submitted to us. Simply login into our support system at <http://www.syncfusion.com/support/> and select the 'Edit My Account' option. 
 
 
+What else should I know about my privacy? 
 
-####  Contacting Syncfusion about Privacy 
+Please keep in mind that whenever you voluntarily disclose personal information online, such as in a discussion forum or through email or in a chat room, that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Please note that any information you post to a public bulletin board or chat room, such as the Syncfusion User to User Forums (the "Forums"), is available to all persons accessing that location. Your e-mail address would then be available to all persons accessing the Forums. The content of these messages and posts do not constitute the opinions of Syncfusion, but are expressly those of the online community members and their guests. Syncfusion makes no claims of agreement or disagreement with the opinions expressed online. We seek to maintain a dignified and business-like environment in these discussion areas, and will remove those posts that we deem to be unacceptable. 
 
-Who uses it and how
+Furthermore, while we strive to protect your personal information, Syncfusion cannot ensure or warrant the security of any information you transmit to us. Therefore, you agree that you do so at your own risk and you assume any associated liabilities. In addition, if you access any third party website through a link from our website, the privacy and data collection practices of those third parties will apply and Syncfusion assumes and has no responsibility or liability for the policies and practices of such third parties. We tell you this to make it clear that you are solely responsible for maintaining the secrecy of your passwords and any account or personal information when you visit any website. Syncfusion stands behind its privacy policies and practices, but does not make any representations or warranties regarding our website or any third party websites. 
 
-Syncfusion takes its users' privacy concerns seriously. If you believe that Syncfusion has not complied with this Online Privacy Policy with respect to your Personal Information, or you have other related inquiries or concerns, you may write to the Syncfusion at privacy@syncfusion.com.
+Syncfusion reserves the right to revise this Privacy Policy from time to time without direct notice to you; however, we will post the most recent revision date in connection with this Privacy Policy. 
 
-If you are a customer we will send you information on product updates. If you use our support system we will send you e-mail updates when your incident has been updated by our support personnel. 
+If you believe that Syncfusion has not complied with this Online Privacy Policy with respect to your personal information, or you have other related inquiries or concerns, you may write to Syncfusion at [privacy@syncfusion.com.](mailto:privacy@syncfusion.com) , or you may contact us in writing or by telephone at: 
 
-Also please note that Syncfusion is not responsible for the content or privacy practices of non-Syncfusion Web sites to which this Site or any other Syncfusion Web site may link. You should review the privacy policy of such sites before using the sites. 
-
-####  Changes in Privacy Policy 
-
-All "Personal Information" that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. Syncfusion reserves the right to change the Privacy Policy from time to time at its sole discretion, and will provide notice of material changes on the home page of the Site. If, as the result of such changes, you want to alter the ways in which Syncfusion is allowed to use your Personal Information, you can do so by following the procedure described above in the section titled "Updating your Personal Information and privacy preferences." 
-
-You will be deemed to have been made aware of, and will be subject to, any changes to the Privacy Policy by your continued use of the Site after such notice has been posted for thirty (30) days with the following exception: If at the time you provide Personal Information to Syncfusion you are given the opportunity (as you currently are) to limit how such information will be used to communicate with you, either by Syncfusion or by third parties, Syncfusion will not change your preference in this regard without your express consent. However, if Syncfusion sells its business assets or operations (or the assets of a division or subsidiary of Syncfusion) to another entity, or Syncfusion (or a division or subsidiary) is acquired by or merged with another entity, Syncfusion may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent 
-
-####  Notification of Changes 
-
-Syncfusion will also revise the "last updated" date at the top of this Privacy Policy any time the Privacy Policy is modified. 
+Syncfusion, Inc.  
+2501 Aerial Center Parkway, Suite 200  
+Morrisville, NC 27560  
+(919) 481-1974 
