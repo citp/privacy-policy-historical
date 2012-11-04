@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507052624id_/http%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104223632id_/http%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
 
-# Eat Your World | A global guide to local foods | Privacy Policy
+# Privacy Policy | Eat Your World
 
 Eat Your World, LLC (“Company,” “we,” “our,” “us”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Eat Your World website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.  
 
