@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the styleseat.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627074615id_/http%3A//www.styleseat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styleseat.com privacy policy that was archived on 2012-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104032028id_/http%3A//www.styleseat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="//widgets.awe.sm/v3/widgets.js?key=c4e2cc2a143cd4741589587221017e476474399de7d50b21d73c78f20eaf45da&amp;async=true"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/0f926739cd92029668a1eb7be394466b7f0f6567.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
         <title>StyleSeat Privacy Policy</title>
@@ -8,15 +8,15 @@
         <meta name="keywords" content="">
         <meta property="fb:app_id" content="111891482183773">
         <link rel="shortcut icon" href="/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="//d2nibjxagc37ko.cloudfront.net/static/css/min/ssnew.ea81dde2.css">
+        <link rel="stylesheet" type="text/css" href="//d116z2zrbldebi.cloudfront.net/static/css/min/ssnew.87f12e34.css">
 
         <!--[if lt IE 9]>
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         
         
-            <link rel="image_src" href="//d3o64ar3ga83us.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
-            <meta property="og:image" content="//d3o64ar3ga83us.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
+            <link rel="image_src" href="//d3ekddjly7rbp4.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
+            <meta property="og:image" content="//d3ekddjly7rbp4.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
         
         
             <meta property="og:title" content="Welcome to StyleSeat">
@@ -29,7 +29,7 @@
 <body id="">
 
 
-  <script type="text/javascript" src="//d3o64ar3ga83us.cloudfront.net/static/js/min/ssnew.73a7b4f3.js"></script>
+  <script type="text/javascript" src="//d2nibjxagc37ko.cloudfront.net/static/js/min/ssnew.6a6d0872.js"></script>
 
 
 
@@ -55,6 +55,7 @@
   function _kmq_wr(arr) {
      
        _kmq.push(arr);
+       console.log('KM: ' + arr);
      
   }
       
@@ -130,8 +131,7 @@ function completedUserSignupLogin(data) {
 
           
 
-          (function() {
-
+          $j(document).ready(function() {
             try {
                 var domainRE = /^(?:[^\/]+:\/\/)?([^\/:]+)/;
                 var matches = ''.match(domainRE);
@@ -140,24 +140,45 @@ function completedUserSignupLogin(data) {
                     referrerDomain = matches[1];
                 }
 
-                if(referrerDomain.lastIndexOf('styleseat.com') == -1) {
-                    $j.ajax("/tracker/record_event",
+                var page_seq = getCookie('page_seq');
+                if(!page_seq) { page_seq = 0; }
+                page_seq = parseInt(page_seq) + 1;
+                setCookie('page_seq', page_seq, 0, "/", false);
+                var logSession = (referrerDomain.lastIndexOf('styleseat.com') == -1);
+
+                $j.ajax("/tracker/log_page",
                         { 'type': 'POST',
-                          'data': {
-                              'r' : "",
-                              'i' : "174.129.228.67",
-                              'u' : "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)",
-                              
-                              'e' : '1'
-                          }
+                            'data': {
+                                'pid': 0,
+                                'r' : "",
+                                'rOver' : "", // if GET has trackRef then use that, else use referrer (used to force referrer on modal opens etc)
+                                'i' : "174.129.228.67",
+                                'u' : "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)",
+                                'e' : '1',
+                                'utm_source' : "",
+                                'utm_medium' : "",
+                                'utm_content' : "",
+                                'utm_campaign' : "",
+                                'page_seq' : page_seq,
+                                'pf': window.location.protocol + "//" + window.location.host + window.location.pathname + window.location.search,
+                                'ppr': window.location.protocol,
+                                'ph':window.location.host,
+                                'pp':window.location.pathname,
+                                'pqs':window.location.search,
+                                
+                                'log_session':logSession,
+                                'session':getCookie('sessionid'),
+                                'pref': "",
+                                'prefOver': ""
+                            }
                         }
-                    );
-                }
+                );
             }
             catch(e) {
                 logError(e, 'Tracker', 'Something failed while making tracker call for non ss referrer visit.');
+
             }
-          })();
+          });
 
     </script>
     <!-- END GA -->
@@ -173,26 +194,30 @@ trackPageview('/site/privacy');
 $j(document).ready(function(){
     $j('#logoutLink').click(function() {
         var href = $j(this).attr("href");
-        FB.getLoginStatus(function(response) {
-            if (response.authResponse) {
-                FB.logout(function() {
+        if(!(typeof FB === 'undefined')) {
+            FB.getLoginStatus(function(response) {
+                if (response.authResponse) {
+                    FB.logout(function() {
+                        window.location.href = href;
+                    });
+                } else {
                     window.location.href = href;
-                });
-            } else {
-                window.location.href = href;
-            }
-        });
-        return false;
+                }
+            });
+            return false;
+        }
     });
 
     function hideProfileCompletion() {
         $j('#profileCompletion').parent().fadeToggle("slow");
-        setCookie('hpc', "1", 31, "/")
+        setCookie('hpc', "1", null, "/")
     }
 
     $j("#hideProfileCompletion").click(function() {
         hideProfileCompletion();
     });
+
+    
 });
 
 var styleSeatAwesmButtons = {
@@ -202,7 +227,9 @@ var styleSeatAwesmButtons = {
 };
 
 </script>
-<script src="//connect.facebook.net/en_US/all.js"></script>
+
+
+
 <script language="javascript">
     var AWESM = AWESM || {};
     AWESM.api_key = 'c4e2cc2a143cd4741589587221017e476474399de7d50b21d73c78f20eaf45da';
@@ -270,14 +297,15 @@ var styleSeatAwesmButtons = {
     
         <!-- start:loggedOutHeader -->
 		    <header id="siteHeader" role="banner">
-		      <h1><a href="/"><img id="logoLight" width="162" height="38" src="//d2nibjxagc37ko.cloudfront.net/static/new/images/logo.eaff61f3.png" alt="StyleSeat"></a></h1>
+		      <h1><a href="/"><img id="logoLight" width="162" height="38" src="//d116z2zrbldebi.cloudfront.net/static/new/images/logo.eaff61f3.png" alt="StyleSeat"></a></h1>
 		      <nav id="siteNav" role="navigation">
 		        <ul>
 		          
-		          <li class="siteNavItem"><a href="/search">Offers</a></li>
+		          <li class="siteNavItem"><a href="/offer">Offers</a></li>
 		          <li class="siteNavItem "><a href="/photos">Browse photos</a></li>
-		          <li class="siteNavItem"><a href="/signup">Get listed</a></li>
+		          <li class="siteNavItem"><a href="/signup?pref=getListed">Get listed</a></li>
 		          <li class="siteNavItem "><a href="/howitworks/clients">About</a></li>
+                      
 		          <li class="siteNavItem " id="searchBox">
 		            <form id="nav_var_search" method="GET" action="/search" role="search">
 		                <fieldset>
@@ -296,17 +324,22 @@ var styleSeatAwesmButtons = {
 		            </script>
 		
 		            </li><!--end:searchBox-->
+                          
 		          
 		        </ul>
 		      </nav><!--end:nav-->
-             
-		      <ul id="tools">
-		        <li class="it01"><div class="padMe"><a href="/signup">Join as a Professional</a></div></li>
-		        <li class="it01" style="margin-left:8px"><div class="padMe"><a href="#" class="doClientSignup">Join as Client</a></div>
-		        </li><li><div class="padMe"><a href="/login?next=/privacy">Log in</a></div></li>
-		  	  </ul><!--end:tools-->
-              
-		      
+                
+                    
+                        
+                            <ul id="tools">
+                                <li class="it01"><div class="padMe"><a href="/signup?pref=origHead">Join as a Professional</a></div></li>
+                                <li class="it01" style="margin-left:8px"><div class="padMe"><a href="#" class="doClientSignup">Join as Client</a></div>
+                                </li><li><div class="padMe"><a href="/login?next=/privacy">Log in</a></div></li>
+                            </ul><!--end:tools-->
+                        
+                    
+                
+                
 		      <div id="breadcrumbs">
 		        <span>Privacy Policy</span>
 		      </div><!--end:breadcrumbs-->
@@ -387,7 +420,7 @@ var styleSeatAwesmButtons = {
       <div>
           <div id="FacebookFooterId" style="display:none;">
               <a target="_blank" href="/howitworks/pros?"><div style="margin: 18px 15px 15px; font-size: 1.5em;" class="teal left">Learn more about StyleSeat</div></a>
-              <a target="_blank" href="/signup?"><div style="line-height: 1em; text-align: center; margin: 15px; font-size: 1.15em; margin-right:20px;" class="tealButton inlineblock right">Get a free profile</div></a>
+              <a target="_blank" href="/signup?&amp;pref=footr"><div style="line-height: 1em; text-align: center; margin: 15px; font-size: 1.15em; margin-right:20px;" class="tealButton inlineblock right">Get a free profile</div></a>
               <a target="_blank" href=""><div style="line-height: 1em; text-align: center; margin: 15px; font-size: 1.15em; margin-right:20px;" class="tealButton inlineblock right">Add this tab to my Facebook page!</div></a>
           </div>
           
@@ -431,12 +464,15 @@ var styleSeatAwesmButtons = {
         <ul id="footerUl" class="siteFooterSection">
           <li role="contentinfo">© 2012 StyleSeat, Inc. All rights reserved.</li>
           <li><a href="/search">Find professionals</a></li>
-          <li><a href="/signup">Get listed</a></li>
+          <li><a href="/signup?pref=foot2">Get listed</a></li>
           <li><a href="/site/about_us">Team</a></li>
           <li><a href="/tos">Terms</a></li>
           <li><a href="/privacy">Privacy</a></li>
           <li><a href="/pricing" class="itLast">Pricing</a></li>
         </ul>
+
+        
+        
 
         
       </div>
@@ -483,7 +519,7 @@ var styleSeatAwesmButtons = {
                 }
             }
 
-            if(document.getElementById("id_footer_fblike")) {
+            if(false && document.getElementById("id_footer_fblike")) {
                 AWESM.fblike({
                     "href": "http://www.facebook.com/pages/StyleSeat/484439085178",
                     "show_faces": "false",
@@ -506,7 +542,21 @@ var styleSeatAwesmButtons = {
 </script>
 
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","4b1135a577",328162,"NQNaYkAHDUQDVhFZWwxJfkNcBRdeDVtKQlEFD0tCQAcXXg1bS0ZdBxFLDEIUCkEDVhw=",0,56,new Date().getTime()])</script>
+
+<script type="text/javascript">
+
+    $j("#id_subscriber_learn_more").click(function(event) {
+
+        $j('li.appNavLi.dir.premium').addClass('show')
+                .mouseover( function (event) {
+            $j(this).removeClass('show');
+        });
+
+    });
+
+</script>
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","4b1135a577",328162,"NQNaYkAHDUQDVhFZWwxJfkNcBRdeDVtKQlEFD0tCQAcXXg1bS0ZdBxFLDEIUCkEDVhw=",0,60,new Date().getTime()])</script>
 <script type="text/javascript">var _kiq = _kiq || [];</script>
 
 <script type="text/javascript" src="//s3.amazonaws.com/j.kissinsights.com/u/117/cb0cfddec5f425f23f4076e15ec0a8b1f8520b5f.js" async="true"></script>
@@ -518,4 +568,4 @@ var styleSeatAwesmButtons = {
     })();
 </script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
