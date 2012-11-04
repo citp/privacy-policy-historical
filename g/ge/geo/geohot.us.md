@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geohot.us privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505102237id_/http%3A//www.geohot.us/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geohot.us privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104032901id_/http%3A//www.geohot.us/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Geohot: Privacy Policy
 
