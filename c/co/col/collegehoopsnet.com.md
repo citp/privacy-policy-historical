@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601011305id_/http%3A//www.collegehoopsnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104081032id_/http%3A//www.collegehoopsnet.com/privacy.html) for the most accurate reproduction.*
 
 # Collegehoopsnet.com - Privacy Policy
 
@@ -14,7 +14,7 @@ We can see hostnames of our visitors through out 3rd party statistics provider (
 
 Will CHN disclose the information it collects? 
 
-CHN may eventually disclose the aforementioned GENERAL information about visitors (how many visitors, what countries are they from, etc)- information that does NOT identify who you are. We may disclose answers to questions such as: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. 
+CHN may eventually disclose the aforementioned GENERAL information about visitors (how many visitors, what countries are they from, etc)- information that does NOT identify who you are. We may disclose answers to questions such aa style= height= color=Arials: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. 
 
 About Our Advertisers and Affiliates: 
 
