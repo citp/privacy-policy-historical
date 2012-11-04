@@ -1,57 +1,82 @@
-> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510191552id_/http%3A//www.tattoofinder.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104052450id_/http%3A//tattoofinder.com/about/privacy-policy) for the most accurate reproduction.*
 
-# About TattooFinder.com
+# TattooFinder.com : Privacy Policy
 
-  
-The Internet contains a wealth of information; unfortunately, it may also contain personal details about you that you don't want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos, or nicknames), street address, phone number, or e-mail address. When you go online, sites you visit may be gathering information about you without your knowledge. At TattooFinder.com, we strive to help our customers protect their privacy while using our services.
+## What This Privacy Policy Covers
 
-TattooFinder.com's policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. Be assured that TattooFinder.com will not disclose your personal information to third parties without your consent. TattooFinder.com may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) TattooFinder.com's rights or property, other TattooFinder.com users, or anyone else that could be harmed by such activities. TattooFinder.com may disclose user information when we believe in good faith that the law requires it. TattooFinder.com shares aggregate information about our users with advertisers, business partners, sponsors, and other third parties. For example, we will say TattooFinder.com's audience is x percent female and y percent male. This data is used to customize TattooFinder.com's content and advertising to deliver a better experience for our users. There are cases where TattooFinder.com may ask you for personal information such as your name, e-mail address, and birth date. For example, we request personal information when you make a purchase with TattooFinder.com. TattooFinder.com needs to collect this information for fulfilling prizes, tracking/verifying compliance with TattooFinder.com policies as well as federal, state, and local laws, and/or for editorial and feedback solicitation purposes. In case you change your mind or some personal information changes (such as your ZIP code), we will endeavor to provide a way to correct, update, or remove the personal data you give us.
+TattooFinder.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-**POLICIES FOR KIDS (INDIVIDUALS UNDER 13 YEARS OF AGE)**
+## How TattooFinder.com Uses Your Personal Information
 
-TattooFinder.com encourages parents and guardians to spend time online with their children and to participate in the activities offered on the sites. No information should be submitted to or posted at TattooFinder.com by Guests under 13 years of age without the consent of their parent or guardian. Unless otherwise disclosed during collection, TattooFinder.com does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever from our Guests under 13 years of age. All registrants receive an e-mail confirming their Registration. In addition, when a Guest under 13 registers, he/she is required to provide the e-mail address of his/her parent or guardian and that parent or guardian receives an e-mail alerting them to that Registration. Although Guests under 13 years of age may be allowed to participate in some contests and promotions, if such a Guest wins, notification and prizes are sent to the parent or guardian identified in the initial registration process. Publication of names, ages, or images for contest winners under 13 require parental or guardian consent.
+This policy covers how TattooFinder.com treats personal information that TattooFinder.com collects and receives, including information related to your past use of TattooFinder.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-**POLICIES FOR TEENS (INDIVIDUALS 13 TO 17 YEARS OF AGE)**
+## This Privacy Policy Only Applies To TattooFinder.com
 
-Teens are required to provide the e-mail address of a parent or guardian and a notification message is sent to the parent or guardian of all Guests who are 13 to 17 years of age, which identifies the information supplied at Registration and allows the parent or guardian to be aware of and participate in the Guest's online experience.
+This policy does not apply to the practices of companies that TattooFinder.com does not own or control, or to people that TattooFinder.com does not employ or manage. 
 
-**USE OF IP ADDRESSES**
+## Information Collection and Use
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address. TattooFinder.com collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When Guests request pages from TattooFinder.com, our servers log the Guests' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, site, customers, or others. Some services within TattooFinder.com, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing.
+### General
 
-**USE OF COOKIES**
+TattooFinder.com collects personal information when you register with TattooFinder.com, when you use TattooFinder.com products or services, when you visit TattooFinder.com pages or the pages of certain TattooFinder.com partners, and when you enter promotions or sweepstakes. 
 
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at our site. We never credit card information in cookies. The use of cookies is an industry standard -- you'll find them at most major Web sites. By showing how and when Guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users needs. Visitors to TattooFinder.com always have the option of disabling cookies via their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of the TattooFinder.com service will not function properly or may be considerably slower if you refuse cookies.
+TattooFinder.com may combine information about you that we have with information we obtain from business partners or other companies. When you register we ask for information such as your email address and birthday. When you register with TattooFinder.com and sign in to our services, you are not anonymous to us. 
 
-**LINKS TO OTHER SITES**
+TattooFinder.com collects information about your transactions with us and with some of our business partners. TattooFinder.com automatically receives and records information from your computer and browser, including your IP address, TattooFinder.com cookie information, software and hardware attributes, and the page you request.
 
-Users should be aware that when they are on TattooFinder.com, they could be directed to other sites that are beyond our control. There are links to other sites from TattooFinder.com pages that take you outside our service. For example, if you "click" on a banner advertisement, the "click" takes you off the TattooFinder.com site. This includes links from advertisers, sponsors, and partners that may use TattooFinder.com's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data, or solicit personal information. Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. While TattooFinder.com strives to protect their users' personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. TattooFinder.com's policy does not extend to anything that is inherent in the operation of the  
-Internet, and therefore beyond TattooFinder.com's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
+TattooFinder.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-**THIRD-PARTY ADVERTISING**
+We use third-party advertising companies to serve ads when you visit our website. These companies may use some of the above discussed information (not including your name, address, email address, payment information, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. They may also place or read cookies on your web browser, or use web beacons to collect information. [If you would like more information about this practice and which companies use this information, click here.](https://www.google.com/adsense/support/bin/answer.py?answer=94149)
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use some of the above discussed information (not including your name, address, email address, payment information, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/adsense/support/bin/answer.py?answer=94149).
+### Children
 
-**SECURITY**
+If you are under age 13, please do not attempt to register with TattooFinder.com or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, [please contact us.](https://web.archive.org/help)
 
-The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, TattooFinder.com can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption. TattooFinder.com will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information.
+## Information Sharing and Disclosure
 
-**YOUR ACCEPTANCE OF THESE TERMS**
+TattooFinder.com does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-By using this site, you signify your assent to the TattooFinder.com Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the TattooFinder.com site following the posting of changes to these terms will mean you accept those changes.
+  * We provide the information to trusted partners who work on behalf of or with TattooFinder.com under confidentiality agreements. These companies may use your personal information to help TattooFinder.com communicate with you about offers from TattooFinder.com and our marketing partners. However, these companies do not have any independent right to share this information.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, suspected breaches of intellectual property, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.
+  * We transfer information about you if TattooFinder.com is acquired by or merged with another company. In this event, TattooFinder.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-If you have questions or concerns regarding this Web site's privacy statement, you should first contact the company as follows: TattooFinder.com, 1115 Broadway, Denver CO 80203; telephone number: (303) 774-0208; or via e-mail.
 
-**TattooFinder.com's INTERNET SAFETY TIPS**
 
-  * Keep your passwords private, even from your best friend! Your online service will never ask for them, so neither should anyone else.
-  * Use only your member name and/or e-mail address when chatting or sending e-mail.
-  * Never give out personal information like your name, address, or phone number.
-  * Don't share photos of yourself, your family, or your home with people you meet online.
-  * Always delete unknown e-mail attachments without opening them. They can contain destructive viruses. 
-  * If a person writes something that is mean or makes you feel uncomfortable, don't respond. Just log off and tell your parents, who can report it to your online service provider.
-  * Remember that nothing you write on the Web is completely private \-- including e-mail. So be careful and think about what you type and who you tell. Not everyone is as nice, cute, and funny as they may sound online.   
-Never make plans to meet an online "friend" in person.
-  * WHEN IN DOUBT -- always ask your parents for help -- and just LOG OFF if you're not sure! You can always go back online later.
+TattooFinder.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria for example, women ages 18-24 from a particular geographic area.
 
+TattooFinder.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+
+## Cookies
+
+TattooFinder.com may set and access TattooFinder.com cookies on your computer. 
+
+TattooFinder.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to TattooFinder.com's cookies.
+
+TattooFinder.com uses web beacons to access TattooFinder.com cookies inside and outside our network of web sites and in connection with TattooFinder.com products and services.
+
+## Your Ability to Edit and Delete Your Account Information and Preferences
+
+You can edit your TattooFinder.com Account Information, including your marketing preferences, [at any time on the My Account page.](https://web.archive.org/my-account) New categories of marketing communications might be added to the My Account page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+
+We reserve the right to send you certain communications relating to the TattooFinder.com service, such as service announcements, administrative messages and company announcements, that are considered part of your TattooFinder.com account, without offering you the opportunity to opt out of receiving them.
+
+You can delete your TattooFinder.com account by [contacting us through our contact page.](https://web.archive.org/help)
+
+## Confidentiality and Security
+
+We limit access to personal information about you to employees and contractors who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Employees and contractors who have access to this information have signed separate confidentiality agreements that protect your information.
+
+## Changes To This Privacy Policy
+
+TattooFinder.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your TattooFinder.com account or by placing a prominent notice on our site.
+
+## Questions and Suggestions
+
+If you have questions, suggestions, or wish to make a complaint, [please use our contact page](https://web.archive.org/help), or reach us at the following address or phone number:
+
+Flash2xs.com, LLC (TattooFinder.com)  
+Customer Care - Privacy Policy Issues  
+757 E 20th Ave, STE 370 #301 Denver, CO 80205  
+303-774-0208  
 
