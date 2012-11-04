@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollywoodbowl.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512011250id_/http%3A//www.hollywoodbowl.com/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodbowl.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104220600id_/http%3A//www.hollywoodbowl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy|Hollywood Bowl Presented by LA Phil
+# Privacy Policy | Hollywood Bowl
 
 THE LOS ANGELES PHILHARMONIC ASSOCIATION (the "ASSOCIATION") knows that you care how personal information you provide to us is used and shared. The ASSOCIATION adopted this Privacy Policy to inform users of how the Association's websites collect, store, and use personal information submitted via the sites owned and operated by the ASSOCIATION. By interacting with the ASSOCIATION websites, you agree to and accept the practices described in this privacy notice.
 
