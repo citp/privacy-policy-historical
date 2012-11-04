@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505151519id_/http%3A//www.hunter-ed.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104190155id_/http%3A//www.hunter-ed.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Today's Hunter Rider, Official Site for Hunter Safety Education
 
@@ -12,7 +12,7 @@ You are free to visit the hunter safety course pages, take the Chapter Review qu
 
 ## What Hunter Ed Does with the Information We Collect
 
-The personal information you supply to **Hunter Ed** will not be disclosed outside of **Hunter Ed** , except to securely transfer the personal data to the agency in your state which is responsible for hunter safety in order to issue your boater education certificate. Your credit card information will be used only for processing your fee(s) related to taking the online certification exam.
+The personal information you supply to **Hunter Ed** will not be disclosed outside of **Hunter Ed** , except to securely transfer the personal data to the agency in your state which is responsible for hunter safety in order to issue your hunter education certificate. Your credit card information will be used only for processing your fee(s) related to taking the online certification exam.
 
 **Hunter Ed** will not use the personal information we collect for any other purpose other than to help you obtain your hunter safety certification.
 
@@ -28,7 +28,7 @@ All of your personal and credit card information is collected using SSL (Secure 
 
 ## Children and privacy
 
-**Hunter Ed** encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. **Hunter Ed** fully complies with the Federal Trade Commission's COPPA Act Children's Online Privacy Protection Act and follows state guidelines for compliance for each state boater education course we offer.
+**Hunter Ed** encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. **Hunter Ed** fully complies with the Federal Trade Commission's COPPA Act Children's Online Privacy Protection Act and follows state guidelines for compliance for each state hunter education course we offer.
 
 **Parental access** : Parents of students of any age may contact our Privacy Coordinator at the mailing address provided below if you would like to do any of the following:
 
@@ -52,6 +52,6 @@ Telephone: 214-351-0461
 
 **Hunter Ed** hopes this document answers your questions and concerns about our privacy policy. **Hunter Ed** is committed to protecting the privacy of our students.
 
-Read Hunter Ed's [copyright notice](https://web.archive.org/web/20120505151519id_/http%3A//www.hunter-ed.com/copyright.html).
+Read Hunter Ed's [copyright notice](https://web.archive.org/web/20121104190155id_/http%3A//www.hunter-ed.com/copyright.html).
 
 Send mail to the Hunter Ed Webmaster at webmaster@hunterbbt-ed.com with questions or comments about this website.
