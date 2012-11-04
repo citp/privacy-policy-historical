@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504200208id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104052310id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Customized Photo Gifts for Mother's Day | ArtsCow.com
+# Privacy Policy - Celebrate the Halloween & Thanksgiving with Personalized Gifts | ArtsCow
 
 Effective Date January 01, 2006
 
