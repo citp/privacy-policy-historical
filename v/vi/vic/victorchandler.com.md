@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the victorchandler.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620112201id_/http%3A//www.betvictor.com/sports/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorchandler.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105002911id_/http%3A//www.betvictor.com/sports/en/content/privacy-policy) for the most accurate reproduction.*
 
-# BetVictor : Sports : Privacy Policy
-
-## Privacy Policy
+# Sports - Privacy Policy - - BetVictor
 
 This site is powered by BetVictor. At BetVictor we take the security of your data very seriously. The following policy outlines our obligation and commitment to you based on the Gibraltar Data Protection Act 2004 and the principles held within that Act. It will also inform you of the type of processing that is carried out with your personal data once it has been collected. By using victorchandler.com you acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your data is collected.
 
@@ -20,15 +18,11 @@ When you open and subsequently use your BetVictor account, specific data is coll
 
 **Opting in and out of Promotional Communications**
 
-Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing [help@betvictor.com](mailto:help@betvictor.com) Please note, when opting out, whilst every endeavor will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.
+Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing [help@betvictor.com](mailto:help@betvictor.com) or go to 'My Account' then 'Settings' and tick or untick the relevant boxes. Please note, when opting out, whilst every endeavor will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.
 
 **Changing your personal details**
 
 You may also change your personal details at anytime by log-in and go to My Account then click on Change my details.
-
-**Cookies**
-
-On your first visit to www.betvictor.com a piece of data called a cookie will be sent to your browser for the purpose of analysing your visits to the site. The cookie contains a unique ID that enables us to recognise your computer upon any subsequent return visits. This helps us to enhance your visits by allowing us to use your previous interests and preferences to create an experience unique to you. Please note that if you do not allow your cookies to be enabled you will be unable to use betvictor.com.
 
 **International Transfers of Data**
 
