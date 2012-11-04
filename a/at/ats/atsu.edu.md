@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atsu.edu privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615003945id_/http%3A//www.atsu.edu/policies/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atsu.edu privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104074954id_/http%3A//www.atsu.edu/policies/privacy_policy.htm) for the most accurate reproduction.*
 
 # A.T. Still University - Policies - Privacy Policy
 
