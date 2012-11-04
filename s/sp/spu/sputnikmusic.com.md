@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputnikmusic.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505213424id_/http%3A//www.sputnikmusic.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputnikmusic.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104072801id_/http%3A//www.sputnikmusic.com/policy.php) for the most accurate reproduction.*
 
 # Sputnikmusic - Privacy Policy
 
@@ -38,7 +38,11 @@ A cookie is a string of information that a website stores on a visitor's compute
 
 **Ads**
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Sputnikmusic and does not cover the use of cookies by any advertisers. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Sputnikmusic and does not cover the use of cookies by any advertisers. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+You may opt out of behavioral targeting through the opt-out link located [here](http://www.networkadvertising.org/managing/opt_out.asp)
+
+We are participating in the [Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/)
 
 **Privacy Policy Changes**
 
