@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504221347id_/http%3A//www.brac.net/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104164324id_/http%3A//brac.net/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BRAC-Privacy Policy
 
 **Respecting Your Privacy**
 
-This Website is owned and operated by BRAC. We recognize that visitors to our site may be concerned about the information they provide to us and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. If you have any questions about our Privacy Policy, you can contact us at: BRAC Centre  
+This Website is owned and operated by BRAC. We recognize that visitors to our site may be concerned about the information they provide to us and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. If you have any questions about our Privacy Policy, you can contact us at: 
+
+BRAC Centre  
 75 Mohakhali,  
 Dhaka-1212  
 Bangladesh
 
 Tel: + 880-2-9881265, 8824180-7.   
-Ext: 2155, 2158, 2159, 2161  
+Ext: 3107, 3155, 3158, 3161  
 Fax: +880-2-8823542  
 E-mail: [info@brac.net](mailto:info@brac.net)
 
@@ -36,11 +38,16 @@ This site contains links to other sites. Unless we expressly state otherwise, BR
 
 **Note to Parents and Children**
 
-BRAC welcomes children to learn more about our organization and about the issues presented on the BRAC sites, and we are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this site or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a child under 13 has provided us with such information without consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that a child under 13 has provided such information to us, he or she should contact us at michelle@bracusa.org.
+BRAC welcomes children to learn more about our organization and about the issues presented on the BRAC sites, and we are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this site or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a child under 13 has provided us with such information without consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that a child under 13 has provided such information to us, he or she should contact us at scott@bracusa.org.
 
 **Updating Your Information**
 
-We work to process and maintain accurately the information that you share with us. If you have donated to us and would like to correct or update your personal data or to adjust your mail preferences, you can do so by emailing us at Michelle@bracusa.org, calling us at 212-808-5615, or by sending us the update via postal mail sent to BRAC, 11 East 44th Street, Suite 1600 New York, NY 10017, United States.
+We work to process and maintain accurately the information that you share with us. If you have donated to us and would like to correct or update your personal data or to adjust your mail preferences, you can do so by emailing us at scott@bracusa.org, calling us at 212-808-5615, or by sending us the update via postal mail sent to,
+
+BRAC  
+110 William Street, 29th Floor  
+New York, NY 10038  
+United States.
 
  **Photo Copyrights  
 **
@@ -55,11 +62,4 @@ We may, from time to time, make changes to our Privacy Policy, based on your com
 
 You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York.
 
-This Privacy Policy was last updated on August 25, 2009. BRAC® and BRAC® and other marks used on this website are trademarks of BRAC or its affiliates and may not be used without permission.
-
-  
-
-
-  * [](http://www.addthis.com/bookmark.php)
-
-
+This Privacy Policy was last updated on October 1, 2012. BRAC® and BRAC® and other marks used on this website are trademarks of BRAC or its affiliates and may not be used without permission.
