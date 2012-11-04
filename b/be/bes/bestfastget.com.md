@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfastget.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611205646id_/http%3A//bestfastget.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfastget.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104081425id_/http%3A//bestfastget.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bestfastget.com- Privacy Policy
 
