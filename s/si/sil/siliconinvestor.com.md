@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513144703id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104122316id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Silicon Investor (SI) -- Invest This!
 
