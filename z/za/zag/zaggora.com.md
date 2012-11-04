@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628040304id_/http%3A//zaggora.com/pages/PRIVACY-POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104065636id_/http%3A//zaggora.com/pages/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 This Privacy Policy was last updated on October 5th, 2011.
 
-CELU-LITE LTD, trading through WWW.ZAGGORA.COM ("CELU-LITE", "ZAGGORA" "we", "our", "us") and its subsidiary companies respect the privacy rights of its online visitors ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We have adopted a corporate wide Privacy Policy that guides how we collect, store and use the information that you provide us with. As part of our commitment to your privacy rights and security, our website has been certified by Geotrust.
+ZAGGORA LTD, trading through WWW.ZAGGORA.COM ("ZAGGORA" "we", "our", "us") and its subsidiary companies respect the privacy rights of its online visitors ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We have adopted a corporate wide Privacy Policy that guides how we collect, store and use the information that you provide us with. As part of our commitment to your privacy rights and security, our website has been certified by Geotrust.
 
 If you are under 16, we require that you inform a parent or guardian about ZAGGORA's Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering or placing an order with ZAGGORA.
 
@@ -60,8 +60,8 @@ If you are using a public computer, we strongly encourage you to LOG OUT at the 
 
 If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered. 
 
-If you require more information please go to the Contact Us section of the web site and send an email to the relevant ZAGGORA department. If you wish to talk to a ZAGGORA customer care representative please write to: c/o Data Protection Officer, ZAGGORA, 22 LONG ACRE, London WC2E 9LY.
+If you require more information please go to the Contact Us section of the web site and send an email to the relevant ZAGGORA department. If you wish to talk to a ZAGGORA customer care representative please write to: c/o Data Protection Officer, ZAGGORA, 2nd Floor South, 85 New Oxford Street, London, WC1A 1DT.
 
 **CALIFORNIA PROVISIONS**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: CELU-LITE LTD, 22 Long Acre, London, SW1H 0HZ. Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: ZAGGORA LTD, 2nd Floor South, 85 New Oxford Street, London, WC1A 1DT. Please allow 30 days for a response.
