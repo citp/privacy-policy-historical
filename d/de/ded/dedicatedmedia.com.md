@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedmedia.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512054510id_/http%3A//www.dedicatedmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedmedia.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104065753id_/http%3A//www.dedicatedmedia.com/privacy.html) for the most accurate reproduction.*
 
 # DedicatedMedia.com | A Leader in Quality Online Advertising, Ad Networks, CPA Networks, Lead Generation
 
