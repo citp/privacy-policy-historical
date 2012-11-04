@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journaldev.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616094622id_/http%3A//www.journaldev.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journaldev.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104192214id_/http%3A//www.journaldev.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JournalDev
 
@@ -34,5 +34,3 @@ If you have any questions regarding the privacy policy of JournalDev then you ma
 
 Best Regards,  
 The [JournalDev](http://www.journaldev.com/) Team
-
-Rating: 0.0/ **10** (0 votes cast)
