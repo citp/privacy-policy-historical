@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the lawnsite.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618071653id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawnsite.com privacy policy that was archived on 2012-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104092219id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr"><head>
 <title>LawnSite.com™ - Lawn Care &amp; Landscaping Business Forum</title>
 <!-- BEGIN TEMPLATE: headinclude -->
+<script src="js/jquery-1.3.2.min.js"></script>
 <meta name="google-site-verification" content="BBIbceylKtpUYNgDcOxn8GKtzU2A8Lov9jaGtfBl3FE">
 
 <link rel="image_src" href="http://www.lawnsite.com/images/logo_with_turf.jpg">
@@ -310,7 +311,7 @@ TD
    vertical-align: top;
 }
 .header{
-	background: url("images/top.jpg");
+	background: url("images/top.jpg") no-repeat;
 	height: 194px;
 }
 
@@ -729,7 +730,7 @@ z-index: 1000;
 <script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=386"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "s=a714ea52dd47a6cb2dba7cb6b5dc8319&";
+var SESSIONURL = "";
 var SECURITYTOKEN = "guest";
 var IMGDIR_MISC = "images/misc";
 var vb_disable_ajax = parseInt("0", 10);
@@ -937,7 +938,7 @@ pageTracker._trackPageview();
 
 <meta name="google-site-verification" content="0Qwzf-TgTRFNaC-2GXGEv5lrJTCmeZ2QO88jvbEP_qs">
 <!-- END TEMPLATE: headinclude -->
-</head>
+<style type="text/css" media="screen">#DivWeatherWidgetFX {visibility:hidden}</style></head>
 <body>
 <!-- BEGIN TEMPLATE: header -->
 <div id="darkBackgroundLayer" style="display: none;" class="darkenBackground">
@@ -1171,7 +1172,7 @@ vb_login_md5password_utf, 0)">
 			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
 		</tr>
 		</tbody></table>
-		<input type="hidden" name="s" value="a714ea52dd47a6cb2dba7cb6b5dc8319">
+		<input type="hidden" name="s" value="">
 		<input type="hidden" name="securitytoken" value="guest">
 		<input type="hidden" name="do" value="login">
 		<input type="hidden" name="vb_login_md5password">
@@ -1301,8 +1302,82 @@ Subscriptions"><img src="http://www.lawnsite.com/images/logomrp.png" border="0" 
 <span style="font-size: 9px;"><a href="http://www.mooserivermedia.com" alt="Click Here for Magazine Sites and 
 
 Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
-
 					<br>
+
+<!-- weather -->
+<script type="text/javascript" language="javascript">
+		$(document).ready(function(){
+			$("#expand").click(function(){
+				if($("#weatherHolder").hasClass("open")){
+					$(".weatherInner").animate( { width:"110px", height:"80px" }, 400 );
+					$("#expand").animate( { width:"110px" }, 400 );
+					$("#weatherHolder").removeClass("open");
+					$("#expand").text("Click to Expand");
+				}else{
+					$(".weatherInner").animate( { width:"264px", height:"209px" }, 400 );
+					$("#expand").animate( { width:"264px" }, 400 );
+					
+					$("#weatherHolder").addClass("open");
+					$("#expand").text("Click to Contract");
+				}
+			});
+		});
+	</script>
+	<style>
+		
+		.weatherHolder {
+                        display: none;
+   			float: left;
+   			margin-bottom: 10px;
+   			margin-left: 5px;
+   			margin-top: -7px;
+    			position: relative;
+    			z-index: 5;
+		}
+		#DivWeatherWidgetFX {
+   			float: left;
+    			margin-left: -6px;
+    			margin-top: -26px;  			
+		}
+		#expand{
+			cursor: pointer;			
+			text-align: center;
+			background: #528F49;
+			color: white;
+			font-weight: bold;
+			font-size: 11px;
+			width: 110px;
+                        height: 18px;
+                        padding-top: 5px;                        
+			float: left;
+		}
+		
+		.weatherInner {
+    			height: 80px;
+    			overflow: hidden;
+    			width: 110px;
+		}
+	</style>
+        <div class="weatherHolder" id="weatherHolder">
+		<div class="weatherInner">
+			<div id="DivWeatherWidgetFX" style="visibility: visible;"></div>			
+		</div>
+		<div id="expand">Click to Expand</div>
+	</div>
+	<script type="text/javascript" src="js/swfobject.js"></script>
+	<script type="text/javascript">
+		var flashvars = {};
+		var params = {};
+		params.base = "weather";
+		params.scale = "noscale";
+		params.salign = "tl";
+		params.wmode = "transparent";
+		params.allowFullScreen = "true";
+		params.allowScriptAccess = "always";
+		swfobject.embedSWF("weather/WeatherWidgetFX.swf", "DivWeatherWidgetFX", "280", "235", "9.0.0", false, flashvars, params);
+	</script>
+<!-- /weather -->
+
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://adserver.lawnsite.com/openx/www/delivery/ajs.php':'http://adserver.lawnsite.com/openx/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
@@ -1317,13 +1392,14 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:967&amp;cb=63535726413&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120618071653id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a38d40db&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:967&amp;n=a38d40db' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:967&amp;cb=26616537678&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121104092219id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a38d40db&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:967&amp;n=a38d40db' border='0' alt='' /></a></noscript>
 <br>
 <br>
 
-<!-- Commercial Mowing - 1 -->
-<!-- KAWASAKI -->
+
+
 <div align="center" style="margin-bottom: 5px;">
+
 
 
 <!-- Snapper Pro -->
@@ -1343,7 +1419,7 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:1024&amp;cb=34727037215&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120618071653id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a09b0bec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:1024&amp;n=a09b0bec' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:1024&amp;cb=70850923241&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121104092219id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a09b0bec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:1024&amp;n=a09b0bec' border='0' alt='' /></a></noscript>
 
 					
 <br>
@@ -1365,7 +1441,7 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:901&amp;cb=4813628752&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120618071653id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a09b0bec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:901&amp;n=a09b0bec' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:901&amp;cb=36555421040&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121104092219id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a09b0bec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:901&amp;n=a09b0bec' border='0' alt='' /></a></noscript>
 <br><br>
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://adserver.lawnsite.com/openx/www/delivery/ajs.php':'http://adserver.lawnsite.com/openx/www/delivery/ajs.php');
@@ -1381,10 +1457,9 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:955&amp;cb=87031975016&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120618071653id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a09b0bec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:955&amp;n=a09b0bec' border='0' alt='' /></a></noscript>
-
-<br><br>
-
+//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:955&amp;cb=53084217290&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121104092219id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a09b0bec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:955&amp;n=a09b0bec' border='0' alt='' /></a></noscript>
+<br>
+<br>
 
 					</div>
 					</div>
@@ -1478,55 +1553,10 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
     /* [id223] LawnSite - Tower 12 */
     OA_show(223);
 // ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=30a7bbd'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=223&amp;n=30a7bbd' /></a></noscript>
-
-
-
-<!--/* OpenX Javascript Tag v2.6.3 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://adserver.lawnsite.com/openx/www/delivery/ajs.php':'http://adserver.lawnsite.com/openx/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?what=bannerid:1162");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:1162&amp;cb=9956127288&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120618071653id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=ab5e0dff&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:1162&amp;n=ab5e0dff' border='0' alt='' /></a></noscript>
-
-
-				<br>
-
-
-				<br>
+<br>
+<br>
 </div>
-<div class="menuheader">
-						<div>
-							Resources
-						</div>
-					</div>
-					
-					<div class="leftmenuinner">
-<br>
 
-<a href="http://www.lawnsite.com/buttons/jump.php?id=bookstore" target="_blank"><img src="http://www.lawnsite.com/images/bookstore.jpg" border="0" style="margin-top: 5px;margin-bottom: 5px;"></a>
-
-<br>
-<br>
-						<a href="http://www.turfmagazine.com/dealers.aspx"><img src="images/dealerdirectory.gif" border="0" style="margin-top: 5px;margin-bottom: 5px;"></a>
-						<br>
-					<br>
-
-<a href="http://store.lawnsite.com" target="_blank"><img src="http://www.lawnsite.com/images/merch.jpg" border="0" alt="Lawnsite Merchandise!" title="Lawnsite Merchandise!"></a><br>
-<span style="font-size: 9px;"><a href="http://store.lawnsite.com" target="_blank">Click here for LawnSite Merchandise</a></span>
-
-<br><br>
-</div>
 		
 				
 			</td>
@@ -1572,7 +1602,7 @@ links.push('http://www.lawnsite.com/buttons/jump.php?id=adkad', 'http://www.lawn
 var xy=Math.floor(Math.random()*ad.length);
 
 document.write('<div align="center"><a href="'+links[xy]+'" target="_blank"><img border=0 vspace=3 src="'+ad[xy]+'" width="'+img_width+'" height="'+img_height+'" alt="'+img_title+'"  align="center"/></a></div>');
-</script><div align="center"><a href="http://www.lawnsite.com/buttons/jump.php?id=adkad" target="_blank"><img border="0" vspace="3" src="http://adserver.lawnsite.com/ads/groundskeeper90x30_06.gif" width="90" height="30" alt="Adkad - Groundskeeper Pro" align="center" title="Adkad - Groundskeeper Pro"></a></div>
+</script><div align="center"><a href="http://www.lawnsite.com/buttons/jump.php?id=adkad" target="_blank"><img border="0" vspace="3" src="http://adserver.lawnsite.com/ads/groundskeeper90x30_01.gif" width="90" height="30" alt="Adkad - Groundskeeper Pro" align="center" title="Adkad - Groundskeeper Pro"></a></div>
 	</td>
 	<td width="14%" align="center" height="34">
 		<a href="http://www.lawnsite.com/buttons/jump.php?id=hustler" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/hustler90x30.gif" alt="Hustler" width="90" height="30" title="Hustler"></a>
@@ -1613,7 +1643,7 @@ document.write('<div align="center"><a href="'+links[xy]+'" target="_blank"><img
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:1206&amp;cb=82937533862&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120618071653id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a2e3b915&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:1206&amp;n=a2e3b915' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:1206&amp;cb=79813245900&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121104092219id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a2e3b915&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:1206&amp;n=a2e3b915' border='0' alt='' /></a></noscript>
 
 	</td>
 	<td width="14%" align="center" height="34">
@@ -1637,6 +1667,8 @@ document.write('<div align="center"><a href="'+links[xy]+'" target="_blank"><img
 	
     </tr>
 </tbody></table>  
+
+
 
   </center>
 </div>
@@ -1662,14 +1694,13 @@ document.write('<div align="center"><a href="'+links[xy]+'" target="_blank"><img
 
 <!-- END TEMPLATE: ad_header_end -->
 <!-- END TEMPLATE: header -->
-
 <!-- BEGIN TEMPLATE: navbar -->
 <br>
 
 <table cellspacing="0" cellpadding="0" border="0" style="float: left;"><tbody><tr>
 <td><a href="http://www.lawnsite.com"><img src="http://www.lawnsite.com/images/tabforumson.jpg" border="0"></a></td>
-<td><a href="http://www.lawnsite.com/forumdisplay.php?f=247"><img src="http://www.lawnsite.com/images/tabpodcastsoff_lefton.jpg" border="0"></a></td>
-<td><a href="http://www.lawnsite.com/vbtube.php"><img src="http://www.lawnsite.com/images/tabvideosoff_leftoff.jpg" border="0"></a></td>
+
+<td><a href="http://www.lawnsite.com/vbtube.php"><img src="http://www.lawnsite.com/images/tabvideosoff_lefton.jpg" border="0"></a></td>
 </tr>
 </tbody></table>
 <a href="https://weatherbriefings.com/lawn" target="_blank"><img src="images/weathertab.png" style="float: left; margin-left: -34px; position: relative; z-index: 2;" border="0"></a>
@@ -1683,7 +1714,7 @@ document.write('<div align="center"><a href="'+links[xy]+'" target="_blank"><img
 			<tbody><tr valign="bottom">
 				<td><a href="#" onclick="history.back(1); return false;"><img src="images/misc/navbits_start.gif" alt="Go Back" border="0" title="Go Back"></a></td>
 				<td>&nbsp;</td>
-				<td width="100%"><span class="navbar"><a href="index.php?s=a714ea52dd47a6cb2dba7cb6b5dc8319" accesskey="1">LawnSite.com™ - Lawn Care &amp; Landscaping Business Forum</a></span> </td>
+				<td width="100%"><span class="navbar"><a href="index.php" accesskey="1">LawnSite.com™ - Lawn Care &amp; Landscaping Business Forum</a></span> </td>
 			</tr>
 			<tr>
 				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/privacypolicy.php"><img class="inlineimg" src="images/misc/navbits_finallink_ltr.gif" alt="Reload this Page" border="0" title="Reload this Page"></a> <strong><!-- BEGIN TEMPLATE: navbar_link -->
@@ -1712,15 +1743,15 @@ document.write('<div align="center"><a href="'+links[xy]+'" target="_blank"><img
 		
 
 		
-			<td class="vbmenu_control"><a href="register.php?s=a714ea52dd47a6cb2dba7cb6b5dc8319" rel="nofollow">Register</a></td>
+			<td class="vbmenu_control"><a href="register.php" rel="nofollow">Register</a></td>
 		
 		
-		<td class="vbmenu_control"><a href="faq.php?s=a714ea52dd47a6cb2dba7cb6b5dc8319" accesskey="5">FAQ</a></td>
+		<td class="vbmenu_control"><a href="faq.php" accesskey="5">FAQ</a></td>
 		
-		<td class="vbmenu_control"><a href="calendar.php?s=a714ea52dd47a6cb2dba7cb6b5dc8319">Calendar</a></td>
+		<td class="vbmenu_control"><a href="calendar.php">Calendar</a></td>
 		
 			
-			<td class="vbmenu_control"><a href="forumdisplay.php?s=a714ea52dd47a6cb2dba7cb6b5dc8319&amp;do=markread&amp;markreadhash=guest" rel="nofollow" style="text-decoration:none"><strong>Mark Forums Read</strong></a></td>
+			<td class="vbmenu_control"><a href="forumdisplay.php?do=markread&amp;markreadhash=guest" rel="nofollow" style="text-decoration:none"><strong>Mark Forums Read</strong></a></td>
 			
 		
 		
@@ -1798,170 +1829,160 @@ document.write('<div align="center"><a href="'+links[xy]+'" target="_blank"><img
 <!-- Power Washing - 175 -->
 
 </div>
-
-
 <!-- END TEMPLATE: ad_navbar_below -->
 <!-- END TEMPLATE: navbar -->
-
-<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<table>
 <tbody><tr>
-	<td class="tcat">Privacy Policy</td>
+	<td>Privacy Policy</td>
 </tr>
 <tr>
-	<td class="alt1"><p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b><span style="font-size: 24.0pt">PRIVACY POLICY
-        <o:p></o:p>
-    </span></b>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    MRP Acquisitions LLC d/b/a Moose River Media (“MRM”) has created this Privacy Policy (“Privacy Policy”) to demonstrate its commitment to fully disclosing the information collection and use practices applicable to this Internet Web site (the “Web site”). <span style="mso-spacerun: yes"></span><span style="mso-spacerun: yes"></span>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>By using or accessing the Web site, you signify your acceptance of the terms of this Privacy Policy.<span style="mso-spacerun: yes"> </span>If you do not agree to the terms of this Privacy Policy, please do not use the Web site, products and/or services and exit the Web site immediately.
-        <o:p></o:p>
-    </b>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    1. <u>Types of Information and Method of Collection</u>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>General Information Collection </b>
-</p>
-<ul style="margin-top: 0in" type="disc">
-    <li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">By Browsing. <span style="mso-spacerun: yes"></span>As you browse the Web site the Internet protocol (IP) address of your computer, “cookies” (described below) and other standard tracking data MRM uses to evaluate Web site traffic and usage patterns are collected. <span style="mso-spacerun: yes"></span>Such information is aggregated with tracking data from all Web site visitors. <span style="mso-spacerun: yes"></span>If you only browse this Web site, but do not become a member you are not required to identify yourself or provide any personally identifiable information. <span style="mso-spacerun: yes"></span>For purposes of this Privacy Policy, the term “Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.</li>
+	<td><br>
+<b>PRIVACY POLICY
+</b>
+
+<br>
+MRP Acquisitions LLC d/b/a Moose River Media (“MRM”) has created this Privacy Policy (“Privacy Policy”) to demonstrate its commitment to fully disclosing the information collection and use practices applicable to this Internet Web site (the “Web site”).
+
+<br>
+<b>By using or accessing the Web site, you signify your acceptance of the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Web site, products and/or services and exit the Web site immediately.
+</b>
+
+<br>
+1. <u>Types of Information and Method of Collection</u>
+
+<br>
+<b>General Information Collection </b>
+
+<ul>
+<li>By Browsing. As you browse the Web site the Internet protocol (IP) address of your computer, “cookies” (described below) and other standard tracking data MRM uses to evaluate Web site traffic and usage patterns are collected. Such information is aggregated with tracking data from all Web site visitors. If you only browse this Web site, but do not become a member you are not required to identify yourself or provide any personally identifiable information. For purposes of this Privacy Policy, the term “Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.</li>
 </ul>
-<p class="MsoNormal">
-    <o:p>&nbsp;</o:p>
-</p>
-<ul style="margin-top: 0in" type="disc">
-    <li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">By Web Site Requirement. <span style="mso-spacerun: yes"></span>To register as a member of this Web site you are required to provide the following Personally Identifiable Information:<span style="mso-spacerun: yes"> </span>a user name that you create and a personal, active e-mail address.</li>
+<br>
+ 
+
+<ul>
+<li>By Web Site Requirement. To register as a member of this Web site you are required to provide the following Personally Identifiable Information: a user name that you create and a personal, active e-mail address.</li>
 </ul>
-<p class="MsoNormal" style="margin-left: .25in">
-    <o:p>&nbsp;</o:p>
-</p>
-<ul style="margin-top: 0in" type="disc">
-    <li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">By User’s Voluntary Submission.<span style="mso-spacerun: yes"> </span>When using the chat room, forum and message board features on the Web site, you may choose to provide other Personally Identifiable Information, such as your residential or business contact information. <span style="mso-spacerun: yes"></span>If you post Personally Identifiable Information anywhere on the Web site, it will be available to third parties and you may receive unsolicited messages from those parties. <span style="mso-spacerun: yes"></span>MRM has no obligation to ensure the security or confidentiality of any information you choose to make available in any chat room, forum or message board on the Web site. <span style="mso-spacerun: yes"></span>Also, MRM cannot ensure that parties who have access to such information will respect your privacy. <span style="mso-spacerun: yes"></span>Please exercise caution when deciding to disclose Personally Identifiable Information.<span style="mso-spacerun: yes"> </span></li>
+<br>
+ 
+
+<ul>
+<li>By User’s Voluntary Submission. When using the chat room, forum and message board features on the Web site, you may choose to provide other Personally Identifiable Information, such as your residential or business contact information. If you post Personally Identifiable Information anywhere on the Web site, it will be available to third parties and you may receive unsolicited messages from those parties. MRM has no obligation to ensure the security or confidentiality of any information you choose to make available in any chat room, forum or message board on the Web site. Also, MRM cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when deciding to disclose Personally Identifiable Information. </li>
 </ul>
-<p class="MsoNormal">
-    <o:p>&nbsp;</o:p>
-</p>
-<p class="MsoNormal">
-    The Web site uses a feature of your browser to set “cookies” on your computer. <span style="mso-spacerun: yes"></span>Cookies are small packets of information sent by the Web site through your browser to your computer. <span style="mso-spacerun: yes"></span>MRM uses cookies to save your password so you do not have to re-enter it each time you visit the Web site. <span style="mso-spacerun: yes"></span>These cookies can be deleted or modified through your browser Internet settings. <span style="mso-spacerun: yes"></span>If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser’s settings. <span style="mso-spacerun: yes"></span>You may modify your browser preferences to provide you with choices relating to cookies. <span style="mso-spacerun: yes"></span>You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. <span style="mso-spacerun: yes"></span>If you choose to reject cookies you may be unable to use those MRM services that require registration in order to participate, will have to sign in each time you visit the Web site, or may not be able to utilize fully all of the Web site’s features and information.</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>Information on Children
-        <o:p></o:p>
-    </b>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    MRM does not knowingly collect information from children under the age of 13. <span style="mso-spacerun: yes"></span>On-line registration and Web site usage is intended for people who are professionally engaged in the businesses MRM serves. <span style="mso-spacerun: yes"></span>If MRM learns that it has Personally Identifiable Information on a child under the age of 13, MRM will delete that information from its systems. <span style="mso-spacerun: yes"></span>MRM encourages parents and guardians to monitor children’s online usage. <span style="mso-spacerun: yes"></span>Parental control protections, such as computer hardware, software or filtering services, are commercially available to limit the access to material that is harmful to minors.</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    2. <u>How Information Collected is Used</u>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
+<br>
+ 
+
+<br>
+The Web site uses a feature of your browser to set “cookies” on your computer. Cookies are small packets of information sent by the Web site through your browser to your computer. MRM uses cookies to save your password so you do not have to re-enter it each time you visit the Web site. These cookies can be deleted or modified through your browser Internet settings. If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser’s settings. You may modify your browser preferences to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those MRM services that require registration in order to participate, will have to sign in each time you visit the Web site, or may not be able to utilize fully all of the Web site’s features and information.
+<br>
+<b>Information on Children
+</b>
+
+<br>
+MRM does not knowingly collect information from children under the age of 13. On-line registration and Web site usage is intended for people who are professionally engaged in the businesses MRM serves. If MRM learns that it has Personally Identifiable Information on a child under the age of 13, MRM will delete that information from its systems. MRM encourages parents and guardians to monitor children’s online usage. Parental control protections, such as computer hardware, software or filtering services, are commercially available to limit the access to material that is harmful to minors.
+<br>
+2. <u>How Information Collected is Used</u>
+
+<br>
 The information collected by and through the Web site is owned solely by MRM. The information collected by and through this Web site will by used solely by MRM, its divisions, subsidiaries, and affiliates, or other entities that are involved in the operation of this Web site for MRM’s internal purposes.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    MRM may use the information collected and provided, individually or in an aggregate form, as follows:
-</p>
-<ul style="margin-top: 0in" type="disc">
-    <li class="MsoNormal" style="margin-top: 6.0pt; margin-bottom: 6.0pt; mso-list: l0 level1 lfo2; tab-stops: list .5in">to contact you about the Web site.<span style="mso-spacerun: yes"> </span>For example, MRM may contact you to send a welcome e-mail to verify your username and password, to inform you about User benefits, to inform you if another user has responded to a post you have made on the Web site, to inform you of changes to the Terms of Use Agreement of the Web site, to inform you that you have violated the Terms of Use Agreement, to inform you that the Web site is suspended for maintenance, or to inform you of a change in ownership or control of the information collected by and through the Web site; </li>
-    <li class="MsoNormal" style="margin-top: 6.0pt; margin-bottom: 6.0pt; mso-list: l0 level1 lfo2; tab-stops: list .5in">to evaluate products and services MRM or third parties could offer to you; </li>
-    <li class="MsoNormal" style="margin-top: 6.0pt; margin-bottom: 6.0pt; mso-list: l0 level1 lfo2; tab-stops: list .5in">to monitor or improve use of the Web Site;</li>
-    <li class="MsoNormal" style="margin-top: 6.0pt; margin-bottom: 6.0pt; mso-list: l0 level1 lfo2; tab-stops: list .5in">to customize the advertising and content you see on the Web site; </li>
-    <li class="MsoNormal" style="margin-top: 6.0pt; margin-bottom: 6.0pt; mso-list: l0 level1 lfo2; tab-stops: list .5in">to monitor compliance with MRM’s Terms of Use Agreement of the Web site; </li>
-    <li class="MsoNormal" style="margin-top: 6.0pt; margin-bottom: 6.0pt; mso-list: l0 level1 lfo2; tab-stops: list .5in">to provide special offers to you from MRM and/or its affiliates and subsidiaries and other third parties; and </li>
-    <li class="MsoNormal" style="margin-top: 6.0pt; margin-bottom: 6.0pt; mso-list: l0 level1 lfo2; tab-stops: list .5in">to send you promotional material on behalf of MRM and/or its affiliates and subsidiaries and other third parties. </li>
+
+<br>
+MRM may use the information collected and provided, individually or in an aggregate form, as follows:
+
+<ul>
+<li>to contact you about the Web site. For example, MRM may contact you to send a welcome e-mail to verify your username and password, to inform you about User benefits, to inform you if another user has responded to a post you have made on the Web site, to inform you of changes to the Terms of Use Agreement of the Web site, to inform you that you have violated the Terms of Use Agreement, to inform you that the Web site is suspended for maintenance, or to inform you of a change in ownership or control of the information collected by and through the Web site; </li>
+<li>to evaluate products and services MRM or third parties could offer to you; </li>
+<li>to monitor or improve use of the Web Site;</li>
+<li>to customize the advertising and content you see on the Web site; </li>
+<li>to monitor compliance with MRM’s Terms of Use Agreement of the Web site; </li>
+<li>to provide special offers to you from MRM and/or its affiliates and subsidiaries and other third parties; and </li>
+<li>to send you promotional material on behalf of MRM and/or its affiliates and subsidiaries and other third parties. </li>
 </ul>
-<p class="MsoNormal" style="margin-top: 6.0pt; margin-right: 0in; margin-bottom: 6.0pt; margin-left: .25in">
-    <o:p>&nbsp;</o:p>
-</p>
-<p class="MsoNormal" style="margin-top: 6.0pt; margin-right: 0in; margin-bottom: 6.0pt; margin-left: .25in">
-    <o:p>&nbsp;</o:p>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    3. <u>With Whom Information is Shared</u>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    At times, we may share the information collected on this Web site with third parties for various purposes. <span style="mso-spacerun: yes"></span>While MRM will seek to require those third parties to follow appropriate privacy policies and security measures, MRM does not bear responsibility for any actions or policies of third parties.<span style="mso-spacerun: yes"> </span>The following outlines the ways in which your information may be shared with others:
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>Promotional Offers: <span style="mso-spacerun: yes"></span></b>Our third party partners and sponsors may use your Web site user name to contact you through the Web site with special offers or promotional material. <span style="mso-spacerun: yes"></span>We will not provide third party partners or sponsors with any of the Personally Identifiable Information you provide to MRM when you register as a member on the Web site.<span style="mso-spacerun: yes"> </span>Any Personally Identifiable Information that you post voluntarily in a chat room, forum, or message board on the Web site may be accessed by third parties.<span style="mso-spacerun: yes"> </span>We are not responsible for the privacy practices of third parties, and you should review the privacy practices of such third parties prior to providing any of your Personally Identifiable Information to them. <span style="mso-spacerun: yes"></span>If you do not want to receive special offers or promotional materials from MRM or third parties, you may either “opt-out” during the registration process, change your user preferences later on, or contact MRM by using the contact information provided in Section 8, below.</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>Aggregate Information: <span style="mso-spacerun: yes"></span></b>We may share aggregate information, such as general demographics and Web Site usage statistics to third party advertisers, sponsors or other organizations.<span style="mso-spacerun: yes"> </span>The general demographic information may include how many professionals are registered as members on the Web site. <span style="mso-spacerun: yes"></span>We do not share specific demographic information, such as users’ ages or addresses. <span style="mso-spacerun: yes"></span>When general demographic information is shared with third parties, we do not provide them with the Personally Identifiable Information that you provide to MRM when you register as a member on the Web site.<span style="mso-spacerun: yes"> </span>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>MRM Subsidiaries and Affiliates: <span style="mso-spacerun: yes"></span></b>We may share your Personally Identifiable Information with employees, agents, parents, subsidiaries, and affiliates of MRM.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>Business Transfers: <span style="mso-spacerun: yes"></span></b>The Web site, MRM and/or a subsidiary or division of MRM may be sold along with its assets, or other transactions may occur in which your Personally Identifiable Information is one of the business assets transferred. <span style="mso-spacerun: yes"></span>In such a case, your Personally Identifiable Information, which we have gathered, may be one of the business assets we transfer.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <b>Legal Process: <span style="mso-spacerun: yes"></span></b>MRM reserves the right to disclose the information collected by and through this Web site, including your Personally Identifiable Information, as required by law and when MRM believes that such disclosure is necessary to protect MRM’s rights and/or comply with a judicial proceeding, subpoena, court order or other legal process served on MRM. <span style="mso-spacerun: yes"></span>The disclosure of this information may be without notice to you.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    4. <u>Security and Encryption</u>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    While there is no such thing as “perfect security” on the Internet, MRM takes commercially reasonable precautions to protect the Personally Identifiable Information that you provide to MRM when you register as a member on the Web site. <span style="mso-spacerun: yes"></span>We use SSL encryption technology on the Web site and a secure server to encrypt information transmitted between your browsers and our server. <span style="mso-spacerun: yes"></span>As a result, Personally Identifiable Information that you submit during the registration process is transmitted using commercially reasonable security over the Internet.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    Our security policies are reviewed periodically and revised as required. <span style="mso-spacerun: yes"></span>The servers for the Web site that contain Personally Identifiable Information are stored in a physically secure and climate controlled off-site facility. <span style="mso-spacerun: yes"></span>We protect against data loss by backing-up data, performing, consistency checks and restricting access to information on our servers. <span style="mso-spacerun: yes"></span>It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. <span style="mso-spacerun: yes"></span>No data transmission over the Internet can be 100% secure.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    5. <u>Third Party Links, Web Sites, and Cookies</u>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    Our Web site contains external links to third party Web sites. <span style="mso-spacerun: yes"></span>We have no control over, and are not responsible for, the content of, or information gathered by these other Web sites. <span style="mso-spacerun: yes"></span>Any Personally Identifiable Information collected by such third parties is subject to such third parties’ privacy policy. <span style="mso-spacerun: yes"></span>Companies that advertise on our Web site do not have access to Personally Identifiable Information that you do not post in chat rooms, forums, or message boards on the Web site or to our cookies on the Web site.<span style="mso-spacerun: yes"> </span>Those advertisers may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser and you access their Web sites. <span style="mso-spacerun: yes"></span>Third parties’ use of cookies is subject to their own privacy policies.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    6. <u>Notification of Changes</u>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    MRM reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy simply by posting such change, update or modification on the Web site. <span style="mso-spacerun: yes"></span>Any such change, update or modification will be effective immediately upon posting on the Web site. <span style="mso-spacerun: yes"></span>If at any point MRM decides to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we may notify you by way of an e-mail or some other means. <span style="mso-spacerun: yes"></span>Your continued use of the Web site shall constitute your acceptance of such revised Privacy Policy. <span style="mso-spacerun: yes"></span>Since this Privacy Policy may change from time to time, you should review it periodically before you provide any additional Personally Identifiable Information anywhere on the Web site.
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    7. <u>Corrections and Updates to Personal Profile</u>
-</p>
-<p class="MsoNormal">
-    You have the option of reviewing, correcting, updating, modifying, and deleting your Personally Identifiable Information or member profile, at any time and as often as desired by personally changing your profile information or by contacting MRM by telephone, facsimile, e-mail, or mail by using the contact information in Section 8, below. <span style="mso-spacerun: yes"></span>However, you must always have an active, personal e-mail address registered on the Web site. <span style="mso-spacerun: yes"></span>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    To the extent that such information is stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. <span style="mso-spacerun: yes"></span>We will use all reasonable efforts to ensure that your information is removed from or corrected in our records. <span style="mso-spacerun: yes"></span>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    8.<span style="mso-spacerun: yes"> </span><u>MRM Contact Information</u></p>
-<p class="MsoNormal">
-    Moose River Media<br>
-    PO Box 449<br>
-    374 Emerson Falls Road<br>
-    St. Johnsbury, VT <span style="mso-spacerun: yes"></span>05819</p>
-<p class="MsoNormal">
-    Telephone:<span style="mso-spacerun: yes"> </span>802-748-8908</p>
-<p class="MsoNormal">
-    Facsimile:<span style="mso-spacerun: yes"> </span>(802) 748-1866</p>
-<p class="MsoNormal">
-    Email:<span style="mso-spacerun: yes"> </span>kstagnito@mooserivermedia.com</p>
-<p class="MsoNormal">
-    <o:p>&nbsp;</o:p>
-</p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    <i>Last Revised 6/08<o:p></o:p></i></p>
-<p class="DocID">
-    <a name="_iDocIDField_1">
-        <o:p>&nbsp;</o:p>
-    </a>
-</p>
-<p class="DocID">
-    <span style="mso-bookmark: _iDocIDField_1">
-        <o:p>&nbsp;</o:p>
-    </span>
-</p>
-<p class="DocID">
-    <span style="mso-bookmark: _iDocIDField_1">2780749.1</span></p>
+<br>
+ 
+
+<br>
+ 
+
+<br>
+3. <u>With Whom Information is Shared</u>
+
+<br>
+At times, we may share the information collected on this Web site with third parties for various purposes. While MRM will seek to require those third parties to follow appropriate privacy policies and security measures, MRM does not bear responsibility for any actions or policies of third parties. The following outlines the ways in which your information may be shared with others:
+
+<br>
+<b>Promotional Offers: </b>Our third party partners and sponsors may use your Web site user name to contact you through the Web site with special offers or promotional material. We will not provide third party partners or sponsors with any of the Personally Identifiable Information you provide to MRM when you register as a member on the Web site. Any Personally Identifiable Information that you post voluntarily in a chat room, forum, or message board on the Web site may be accessed by third parties. We are not responsible for the privacy practices of third parties, and you should review the privacy practices of such third parties prior to providing any of your Personally Identifiable Information to them. If you do not want to receive special offers or promotional materials from MRM or third parties, you may either “opt-out” during the registration process, change your user preferences later on, or contact MRM by using the contact information provided in Section 8, below.
+<br>
+<b>Aggregate Information: </b>We may share aggregate information, such as general demographics and Web Site usage statistics to third party advertisers, sponsors or other organizations. The general demographic information may include how many professionals are registered as members on the Web site. We do not share specific demographic information, such as users’ ages or addresses. When general demographic information is shared with third parties, we do not provide them with the Personally Identifiable Information that you provide to MRM when you register as a member on the Web site.
+
+<br>
+<b>MRM Subsidiaries and Affiliates: </b>We may share your Personally Identifiable Information with employees, agents, parents, subsidiaries, and affiliates of MRM.
+
+<br>
+<b>Business Transfers: </b>The Web site, MRM and/or a subsidiary or division of MRM may be sold along with its assets, or other transactions may occur in which your Personally Identifiable Information is one of the business assets transferred. In such a case, your Personally Identifiable Information, which we have gathered, may be one of the business assets we transfer.
+
+<br>
+<b>Legal Process: </b>MRM reserves the right to disclose the information collected by and through this Web site, including your Personally Identifiable Information, as required by law and when MRM believes that such disclosure is necessary to protect MRM’s rights and/or comply with a judicial proceeding, subpoena, court order or other legal process served on MRM. The disclosure of this information may be without notice to you.
+
+<br>
+4. <u>Security and Encryption</u>
+
+<br>
+While there is no such thing as “perfect security” on the Internet, MRM takes commercially reasonable precautions to protect the Personally Identifiable Information that you provide to MRM when you register as a member on the Web site. We use SSL encryption technology on the Web site and a secure server to encrypt information transmitted between your browsers and our server. As a result, Personally Identifiable Information that you submit during the registration process is transmitted using commercially reasonable security over the Internet.
+
+<br>
+Our security policies are reviewed periodically and revised as required. The servers for the Web site that contain Personally Identifiable Information are stored in a physically secure and climate controlled off-site facility. We protect against data loss by backing-up data, performing, consistency checks and restricting access to information on our servers. It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be 100% secure.
+
+<br>
+5. <u>Third Party Links, Web Sites, and Cookies</u>
+
+<br>
+Our Web site contains external links to third party Web sites. We have no control over, and are not responsible for, the content of, or information gathered by these other Web sites. Any Personally Identifiable Information collected by such third parties is subject to such third parties’ privacy policy. Companies that advertise on our Web site do not have access to Personally Identifiable Information that you do not post in chat rooms, forums, or message boards on the Web site or to our cookies on the Web site. Those advertisers may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser and you access their Web sites. Third parties’ use of cookies is subject to their own privacy policies.
+
+<br>
+6. <u>Notification of Changes</u>
+
+<br>
+MRM reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy simply by posting such change, update or modification on the Web site. Any such change, update or modification will be effective immediately upon posting on the Web site. If at any point MRM decides to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we may notify you by way of an e-mail or some other means. Your continued use of the Web site shall constitute your acceptance of such revised Privacy Policy. Since this Privacy Policy may change from time to time, you should review it periodically before you provide any additional Personally Identifiable Information anywhere on the Web site.
+
+<br>
+7. <u>Corrections and Updates to Personal Profile</u>
+
+<br>
+You have the option of reviewing, correcting, updating, modifying, and deleting your Personally Identifiable Information or member profile, at any time and as often as desired by personally changing your profile information or by contacting MRM by telephone, facsimile, e-mail, or mail by using the contact information in Section 8, below. However, you must always have an active, personal e-mail address registered on the Web site.
+
+<br>
+To the extent that such information is stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
+
+<br>
+8. <u>MRM Contact Information</u>
+<br>
+Moose River Media<br>
+Suite 201, 515 Bay Street<br>
+St. Johnsbury, VT 05819
+<br>
+Telephone: 802-748-8908
+<br>
+Facsimile: (802) 748-1866
+<br>
+Email: kstagnito@mooserivermedia.com
+<br>
+ 
+
+<br>
+<i>Last Revised 8/12</i>
+<br>
+<a name="_iDocIDField_1">
+ 
+</a>
+
+<br>
+ 
+
+<br>
+2780749.1
 </td>
 </tr>
 </tbody></table>
-
 <!-- BEGIN TEMPLATE: footer -->
 <!-- BEGIN TEMPLATE: ad_footer_start -->
 <br><div align="center"><script type="text/javascript"><!--// <![CDATA[
@@ -1986,14 +2007,14 @@ The information collected by and through the Web site is owned solely by MRM. Th
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:376&amp;cb=98847981845&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120618071653id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=af57aa23&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:376&amp;n=af57aa23' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://adserver.lawnsite.com/openx/www/delivery/ajs.php?what=bannerid:376&amp;cb=91419038051&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121104092219id_/http%253A//www.lawnsite.com/privacypolicy.php"></script><noscript><a href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=af57aa23&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?what=bannerid:376&amp;n=af57aa23' border='0' alt='' /></a></noscript>
 
 </div>
 
 <!-- END TEMPLATE: ad_footer_start -->
 
 <br>
-<div class="smallfont" align="center">All times are GMT -4. The time now is <span class="time">03:16 AM</span>.</div>
+<div class="smallfont" align="center">All times are GMT -4. The time now is <span class="time">05:22 AM</span>.</div>
 <br>
 
 <!-- BEGIN TEMPLATE: spacer_close -->
@@ -2047,12 +2068,12 @@ The information collected by and through the Web site is owned solely by MRM. Th
 <a target="_blank" href="http://www.superintendentmagazine.com">Superintendent Magazine</a> - 
 <a target="_blank" href="http://www.amerinursery.com">American Nurseryman</a> - 
 <a target="_blank" href="http://www.mooserivermedia.com/sourcebook.php">Moose River Media Source Book</a> 
-</p><p><a href="partnerlinks.php"><strong>View our Partner links</strong></a></p>
+
 
 <br>
 <br>
 
-<div align="center">
+</p><div align="center">
 	<div class="smallfont" align="center">
 	<!-- Do not remove this copyright notice -->
 	Powered by vBulletin® Version 3.8.6<br>Copyright ©2000 - 2012, Jelsoft Enterprises Ltd.
@@ -2137,6 +2158,8 @@ replaceText();
 
 
 <!-- END TEMPLATE: footer -->
-<center><span class="smallfont">Page generated in <b>0.02328</b> seconds with <b>5</b> queries</span></center>
+<center><span class="smallfont">Page generated in <b>0.02526</b> seconds with <b>5</b> queries</span></center>
+
+
 
 <!-- END TEMPLATE: Privacypolicy --></body></html>
