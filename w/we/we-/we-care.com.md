@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620121807id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104071859id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
 
 # We-Care.com :: Privacy Policy
 
@@ -14,7 +14,7 @@ If you do decide to register, you may change the information we have on file for
 
 From time to time, we may provide you with the opportunity to participate in surveys. If you choose to participate, we may request certain personally identifiable and/or demographic information from you. Participation in such surveys is completely optional. You may also elect, at your discretion, to provide demographic information during the registration process (such as your age, income, geographic location, or gender). 
 
-We-Care.com uses your personally identifiable information to provide you with the Services and for the purposes described above, such as managing your account and preferences, tracking your donations, sending you email communications and responding to your questions or inquiries. If we haven,t identified a particular purpose, you can generally assume that we will use your personally identifiable information for the purpose for which it was provided. 
+We-Care.com uses your personally identifiable information to provide you with the Services and for the purposes described above, such as managing your account and preferences, tracking your donations, sending you email communications and responding to your questions or inquiries. If we haven’t identified a particular purpose, you can generally assume that we will use your personally identifiable information for the purpose for which it was provided. 
 
 **Server Logs**
 
@@ -30,13 +30,11 @@ Depending on participating merchant policies, tracking cookies are set when you 
 
 We set cookies to store your user name (if provided), your favorite Cause and other information so you don't have to enter this information every time you visit our Site. We also use cookies for non-registered users to track them based on an anonymous user ID. Cookies also enable us to track users sessions on the Site, such as features that you use, actions that you take, and the information you access. We use this information to target the interests of our users and enhance their experience on the Site. Similarly, we use this information in statistical and aggregate formats to assess the effectiveness of our Site and to better understand your priorities and interests. 
 
-We also employ a technology called clear web beacons (also known as clear pixels and clear gifs) placed in the pages of our Site to help us gather additional information about which parts of the Site receive the most visits and other user traffic patterns. Web beacons do not contain or collect personally identifiable information, but do contain a unique user ID that tracks online movements. We use web beacons to help us learn how users are using the Services, which in turn helps us operate and improve those Services. We also use web beacons so that we can understand your browsing behavior and provide Merchants and other third parties with information regarding user interactions with them, such as when and how often their coupons and offers are displayed. 
+We also employ a technology called clear web beacons (also known as clear pixels and clear gifs) placed in the pages of our Site to help us gather additional information about which parts of the Site receive the most visits and other user traffic patterns. Web beacons do not typically contain or collect personally identifiable information, but do contain a unique user ID that tracks online movements. We use web beacons to help us learn how users are using the Services, which in turn helps us operate and improve those Services. We also use web beacons so that we can understand your browsing behavior and provide Merchants and other third parties with information regarding user interactions with them, such as when and how often their coupons and offers are displayed. 
 
 We may also use cookies and web beacons in our email campaigns so we can determine which emails have been opened by our users. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
 
-No personally-identifiable information is contained in our cookies or transmitted through our Web beacons. 
-
-You can set your browser to reject most cookies by following the browser help file directions. However, if your browser is set to reject cookies or you delete cookies, you may not be able to use some features of our Site or other websites. You can also delete cookies already set on your computer by following the browser help file directions. 
+If you have registered at the Site, cookies or Web beacons may contain your user ID information which we can then match with other information collected from you in order to provide you with the additional functionality available only to registered users. You can set your browser to reject most cookies by following the browser help file directions. However, if your browser is set to reject cookies or you delete cookies, you may not be able to use some features of our Site or other websites. You can also delete cookies already set on your computer by following the browser help file directions. 
 
 The We-Care Software collects and transmits back to our servers certain information that is not personally identifiable such as which Internet browser you are using, which version of our software you downloaded, your software application preferences and whether you have certain features enabled or disabled. 
 
@@ -69,7 +67,7 @@ With respect to non personally identifiable information collected about you in c
 
 **This Privacy Policy applies only to information gathered by We-Care.com.**
 
-Some of our business associates (e.g., advertisers, affiliate networks, and analytics services) also serve cookies, web beacons and similar technologies through our Services. All data collected by such business associates using these tracking technologies is anonymous and is not linked to your personally identifiable information. This data may be used to determine site usage, target advertisements, analyze whether advertising resulted in sales, clicks, or other activity and for other purposes. These business partners include but are not limited to Google, Linkshare, Commission Junction, PepperJam, Appnexus, Yahoo, Gigya, and Didit. To learn more about how these companies use such data, please visit and check their respective privacy policies. 
+Some of our business associates (e.g., advertisers, affiliate networks, and analytics services) also serve cookies, web beacons and similar technologies through our Services. All data collected by such business associates using these tracking technologies is anonymous and is not linked to your personally identifiable information. This data may be used to determine site usage, target advertisements, analyze whether advertising resulted in sales, clicks, or other activity and for other purposes. These business partners include but are not limited to Google, Linkshare, Commission Junction, PepperJam, Appnexus, Yahoo, Gigya, Impact Radius, and Didit. To learn more about how these companies use such data, please visit and check their respective privacy policies. 
 
 When you visit one of our Merchants or Causes, or click through any link from our Site, you are leaving our Site. These third parties may use cookies and tracking technologies on their site for purposes that include identifying you as a user from We-Care.com in order to pay the commission on your purchase. (These commissions are the source of the donations we make on your behalf.) Many Merchants also use a third-party “affiliate network” to do this on their behalf. Please note that any information you provide to them or that is collected about you while visiting their websites is governed by their respective privacy policies. 
 
@@ -83,7 +81,7 @@ The security of your personal information is important to us. We follow generall
 
 We reserve the right to modify this Privacy Policy at any time. If we do make modifications, we will post them on our Site, so please visit the Site and review the Privacy Policy frequently. If we make material changes to this Privacy Policy, we may also attempt to notify you by email (if you have registered to receive email from us) or by means of a notice on our homepage. 
 
-If you have questions or suggestions about our Privacy Policy or wish to correct, change, or verify any personal information we have about you, please contact us. 
+If you have questions or suggestions about our Privacy Policy or wish to correct, change, or verify any personal information we have about you, please [contact us](http://www.we-care.com/About/ContactUs?subject=Privacy+Policy). 
 
 We-Care.com  
 Attn: Privacy Department  
@@ -92,4 +90,4 @@ Ste 206
 Mineola, NY 11570  
 (800) 768-1399 
 
-Updated December 16, 2011 
+_Updated June 18, 2012_
