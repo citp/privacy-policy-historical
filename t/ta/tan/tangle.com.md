@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tangle.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192613id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tangle.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105223549id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,3 +73,5 @@ In the event that Company is acquired by or merged with a third party entity, we
 Changes and updates to this Privacy Policy
 
 This Privacy Policy may be revised periodically and at the Company’s sole discretion with such changes becoming effective upon the applicable revision and thereafter. Please revisit this page to stay aware of any changes. Your continued use of the Site constitutes your ongoing and continuing agreement to this Privacy Policy and any future revisions.
+
+No playlists found for this account.
