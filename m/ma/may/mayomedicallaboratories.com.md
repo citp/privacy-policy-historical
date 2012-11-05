@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayomedicallaboratories.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507080446id_/http%3A//www.mayomedicallaboratories.com/customer-service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayomedicallaboratories.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105163751id_/http%3A//www.mayomedicallaboratories.com/customer-service/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mayo Medical Laboratories
 
