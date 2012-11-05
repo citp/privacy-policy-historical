@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurotunnel.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623203607id_/http%3A//www.eurotunnel.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurotunnel.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105012245id_/http%3A//www.eurotunnel.com/uk/privacy) for the most accurate reproduction.*
 
 # Eurotunnel Privacy and cookie policy
 
@@ -102,7 +102,7 @@ We are entitled by law to charge a fee of up to £10 to meet our costs in provid
 
 ##### How can you unsubscribe from the marketing database?
 
-If you have previously consented to us keeping your data for marketing purposes you may change your mind at any time. Once you have unsubscribed we will not retain and use your data for marketing purposes. [Click here to unsubscribe](https://web.archive.org/uk/Unsubscribe-thanks/ "Click here to unsubscribe") or contact the Group Secretary at:
+If you have previously consented to us keeping your data for marketing purposes you may change your mind at any time. Once you have unsubscribed we will not retain and use your data for marketing purposes. [Click here to unsubscribe](https://web.archive.org/uk/unsubscribe/ "Click here to unsubscribe") or contact the Group Secretary at:
 
 Eurotunnel Le Shuttle, UK Terminal, Ashford Road, Folkestone, Kent, CT18 8XX 
 
