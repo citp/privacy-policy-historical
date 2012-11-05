@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507172300id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105163120id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.*
 
 # Inter-State Studio & Publishing Company
 
-Login or [Create Account](https://web.archive.org/account/register/)
+Ingresa o [Crea una Cuenta ](https://web.archive.org/account/register/)
 
-|  |  |   
+|  | 
+
+**Registro para el Boletin Electronico**
+
+|   
 ---|---|---  
   
-[](http://www.facebook.com/InterStateStudio) [](http://www.linkedin.com/companies/inter-state-studio-%26-publishing-co.)
+
 
 Customer Service Available  
-8:00 am-5:00 pm CST  
+7:00 am-10:00 pm CST   
+now until December!  
 Monday-Friday 
 
 **Inter-State Studio & Publishing Company® Privacy Policy**  
