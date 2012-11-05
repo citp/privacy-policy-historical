@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204235852id_/http%3A//www.tamuk.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105051046id_/http%3A//www.tamuk.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
