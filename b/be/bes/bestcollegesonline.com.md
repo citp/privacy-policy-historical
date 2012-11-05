@@ -1,23 +1,40 @@
-> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621183124id_/http%3A//www.bestcollegesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105085428id_/http%3A//www.bestcollegesonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Best Colleges Online for Privacy Policy
 
-BestCollegesOnline takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+This privacy statement details how BestCollegesOnline.com gathers, utilizes, and shares users’ personal information. It is possible that it will be updated in the future if our policies change. Thus, we suggest that users read through it now and again to ensure their BestCollegesOnline.com information policy knowledge is current.
 
-## Routine Information Collection
+#### Contact Information 
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+If upon reviewing our privacy policy you have questions or concerns, you may contact us using our contact form. 
 
-## Cookies and Web Beacons
+#### Information Collection
 
-Where necessary, Online College uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+BestCollegesOnline.com may collect personal information from you during your use of our site and services, such as contact and demographic information, as well as information about your computer. This information may include, but is not limited to, your name, education, zip code, operating system, IP address, telephone number, or mailing address. 
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+#### Information Use
 
-## Controlling Your Privacy
+Information you give to BestCollegesOnline.com is considered an inquiry into our website and services. As such, you give us, our partners, and our affiliates the right to contact you. You also give said parties permission to call you despite your being listed on a state or federal Do Not Call list because companies queried are omitted from Do Not Call list stipulations.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+Information is used to: 
 
-## Contact Information
+  * Suggest online college degree programs suitable for you and your busy schedule
+  * Provide you with information pertaining to your education and career goals, or on schools for which you’ve requested such information
+  * Address your questions, concerns, or customer service requests 
+  * Provide you with news or marketing information that relates to your career or educational pursuits 
+  * Better our services and business model
+  * Engage in various forms of research and analysis as they relate to our business
 
-Concerns or questions about this privacy policy can be directed to info (@) bestcollegesonline.com for further clarification.
+
+
+#### Unsubscribe from Marketing Communications 
+
+We understand that some users will not want to be participants in our marketing communications. As such, we’ve made unsubscribing to such communications simple. You will find unsubscribe directions in our emails to you.
+
+#### Information Sharing 
+
+BestCollegesOnline.com will only share users’ personal information in ways that are consistent with this privacy policy. Under no circumstance will BestCollegesOnline.com sell your information to other companies with inappropriate marketing intentions. Meanwhile, there are some cases in which we will share your personal information. One of those cases is if we hire a third party service company to assist us in our business undertakings and it needs users’ personal information to complete its duties. In such a case, a service company contracted by us will use this information only for BestCollegesOnline.com’s business purposes, not its own.
+
+Another instance is when we have your permission and are legally ordered to do so if we’re engaged in merging, acquiring, or selling some or all of our business assets. In this case, if we feel with good reason (i.e. in good faith) that doing so will meet a government demand, aid us in investigating fraud, or necessarily safeguard yours, another’s, or our physical safety or rights, we may give a third party your personal information.
+
+Effective 08/18/2012 
