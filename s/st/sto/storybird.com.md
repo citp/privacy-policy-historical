@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507163756id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106001132id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
 
 # Storybird - Artful storytelling
 
