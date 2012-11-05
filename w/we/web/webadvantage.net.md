@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513044807id_/http%3A//www.webadvantage.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106002701id_/http%3A//www.webadvantage.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Ad.vantage
 
