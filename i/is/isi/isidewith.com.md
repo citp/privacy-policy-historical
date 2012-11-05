@@ -1,0 +1,37 @@
+> *The following text is extracted and transformed from the isidewith.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105223126id_/http%3A//www.isidewith.com/privacy-policy) for the most accurate reproduction.*
+
+# iSideWith - Which candidate do you side with in 2012?
+
+Your privacy is very important to us here at iSideWith.com (the “Site”). Accordingly, we’ve developed this Privacy Policy (“Policy”) to help you understand how we collect information, and what we do with the information we collect. We are committed to conducting iSideWith.com in accordance with the following terms in order to maintain the integrity of the Site and ensure a positive user experience.
+
+  * We will only collect information by lawful, fair and reasonable means.
+  * We may serve you ads, but we won’t use the information we collect to spam or market to you (or let others do the same).
+  * We may collect certain website usage information, including your location, browser type, operating system, and preceding page view, among other things. However, we won’t use this information in connection with your name or contact info – we’ll only use it to improve the Site or to create aggregated user statistics (such as how respondents in each State answered).
+  * We encourage you to add your name to your results page so it's easier for your friends to identify your results from their list of friends. Keep in mind that although we don't promote your results page, all results pages are public. If you have a distinguishable name and do not want your results connected to your name, we advise you to use only your first name and last initial, or choose a nickname that your friends will easily recognize.
+  * If you choose to share your results or Site content using Facebook, Twitter or email (“Share”), we may collect additional information about you, such as your gender. However, we won’t use this information in connection with your name or contact info – we only use it to create aggregated user (such as how respondents of a certain gender answered).
+  * Likewise, if you choose to Share, the information you provide or we collect (names, e-mail addresses, etc.) will be used solely to facilitate the communication, and not for any other marketing purpose.
+
+
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+If you submit ideas, votes, comments, reviews, suggestions, photographs, videos, music, text or other content to the Site, it may be published online or offline in any media or format (currently existing or hereafter developed). Others may have access to this content and may have the ability to share it with third parties across the Internet. iSideWith.com may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding user-generated content you submit to the Site, please review the Site's Terms of Use.
+
+Please note that information submitted to the Site via a "contact us" or other similar function may not receive a response. We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise.
+
+If you send someone else a communication from the Site, such as sending Site content to a friend, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.
+
+In addition to any Personal Information or other information that you choose to provide to us on the Site, we and our third-party service providers may use a variety of technologies that automatically collect certain web site usage information whenever you visit or interact with the Site. This information may include browser type, operating system, the page served, the time, and the preceding page view, among other information. We may use this web site usage information for a variety of purposes, including to enhance or otherwise improve the Site. In addition, your IP address or some other unique identifier for the particular device you use to access the Internet (collectively referred to as a "Device Identifier"), as applicable, may be collected. A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the Personal Information you provide.
+
+The methods that may be used to collect this information include the following:
+
+  * Cookies. A cookie is a data file placed on a computer when it is used to visit the Site. Cookies may be used for many purposes, including, without limitation, tracking user preferences and web pages visited while using the Site. You may disable cookies using your browser's preferences, but some features of the Site may not function properly or may operate slowly if you disable the cookies.
+  * Web Beacons. Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
+  * Mobile Device Identifiers. Certain mobile service providers uniquely identify mobile devices and we or our third-party service providers may receive such device information if you access the Site through mobile devices. Certain features of our Site may require collection of mobile phone numbers and we may associate that phone number to mobile device identification information. Additionally, some mobile phone service providers operate systems that pinpoint the physical location of devices that use their service. Depending on the provider, we or our third-party service providers may receive this information.
+  * Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Site, such as which links you click on. The code is temporarily downloaded onto your computer from our Web server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter
+
+
+
+iSideWith.com reserves the right to change this Privacy Policy at any time without notice and effective immediately in accordance with our Terms and Conditions of Use. iSideWith.com is operated in the United States and intended for users located in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States please be aware that information we collect will be transferred to and processed in the United States. By using the Site or providing us with any information, you consent to this transfer and processing of your that information in the United States.
+
+7/19/2012
