@@ -1,20 +1,11 @@
-<!--The following is the downloaded HTML source of the followshows.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628232546id_/http%3A//followshows.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the followshows.com privacy policy that was archived on 2012-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105044942id_/http%3A//followshows.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="/js/ping-033012.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/aav=3029832572/cloudflare.min.js"></script><script type="text/javascript">
-//<![CDATA[
-try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",mirage:{responsive:0,lazy:0},oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/aav=1499794953/"},atok:"09716401c6a03bf96e3794863b050704",zone:"followshows.com",rocket:"0",apps:{"dnschanger_detector":{"fix_url":null}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/aav=3029832572/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-window.__CF=window.__CF||{};window.__CF.AJS={"dnschanger_detector":{"fix_url":null}};
-//]]>
-</script>
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script><link rel="shortcut icon" href="/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="/js/ping-033012.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script><link rel="shortcut icon" href="/favicon.ico">
 <link rel="icon" href="/favicon.gif" type="image/gif">
 <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="/css/fsh-052112.css" rel="stylesheet" type="text/css">
+<link href="/css/fsh-100312.css" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="fb:admins" content="617302501">
 <meta property="fb:app_id" content="287824544623545">
@@ -32,9 +23,13 @@ $(function() {
         select: function( event, ui ) {
         	if (ui.item.type == 'show') {
             	window.location = "/show/" + ui.item.id;
-        	} else {
+        	} else if (ui.item.type == 'user') {
         		window.location = "/user/" + ui.item.id;
         	}
+        },
+        open: function(){
+            $(this).autocomplete('widget').css('z-index', 100);
+            return false;
         }
     }).data( "autocomplete" )._renderItem = function( ul, item ) {
     	if (item.type == 'show') {
@@ -48,8 +43,7 @@ $(function() {
     		return $('<li></li>')
     		.addClass('show-result')
     		.data("item.autocomplete", item)
-    		.append('<a><img width="30" height="42" border="0" src="http://d2spmqy4pos7su.cloudfront.net/' 
-    				+ item.id + '/' + item.id + '_30x42.jpg"/>' + item.label + '</a>')
+    		.append('<a><img width="30" height="42" border="0" src="' + item.image + '"/>' + item.label + '</a>')
     		.appendTo(ul);
     	} else if (item.type == 'user') {
     		if ($(ul).children('li.user-result').length == 0) {
@@ -63,11 +57,14 @@ $(function() {
     		.data("item.autocomplete", item)
     		.append('<a><img src="' + item.image + '" width="30" height="30" border="0" />' + item.label + '</a>')
     		.appendTo(ul);
+    	} else {
+    		return $('<li>No result.<br><span style="font-size: 11px;">Email us at <a style="display:inline;padding:0;" href="mailto:contact@followshows.com">contact@followshows.com</a> if<br> you don&#39;t see your favorite show.</span></li>')
+    					.addClass('ui-menu-item no-result').appendTo(ul);
     	}
 	};
 });
 </script>
-<script src="/js/fsh-052012.js"></script>
+<script src="/js/fsh-091412.js"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1144297-5']);
@@ -244,7 +241,7 @@ This document was last updated on March 06, 2012<br><br>
 </div>
 <script src="/js/bootstrap.min.js"></script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","ae22c1016d",453504,"ZAFVYUNWCkdTVBdbV11LfWZhGDNxcBoqfH4cEl5QRkRLREBeFVNbSkpdRkE=",0,2,new Date().getTime()])</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","f54a1e7c5b",812608,"ZAMGN0NRChVUUUMMWl1JLjBhHzMjdx9+K3McEA0GRkNLFkdbQQRWSkgOEEE=",0,107,new Date().getTime()])</script>
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum-staging.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
