@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the pasepremium.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607080719id_/http%3A//support.allpremiumpass.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D3046%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pasepremium.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105221209id_/http%3A//www.pasepremium.com/privacy) for the most accurate reproduction.*
 
-# All Premium Pass
+# Pase Premium
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
