@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhsdirect.nhs.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627145719id_/http%3A//www.nhsdirect.nhs.uk/en/About/TermsAndConditions/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhsdirect.nhs.uk privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105190704id_/http%3A//www.nhsdirect.nhs.uk/About/TermsAndConditions/PrivacyPolicy) for the most accurate reproduction.*
 
 # NHS Direct - Privacy policy
 
@@ -100,11 +100,11 @@ E1 8EU
 
 Telephone: 020 7599 4200
 
-You can also submit an enquiry using [contact us](https://web.archive.org/About/ContactUs).
+You can also submit an enquiry using [contact us](https://web.archive.org/en/About/ContactUs).
 
-Further details about your rights under the Data Protection Act can be accessed on the [Information Commissioner’s Office (ICO) website](https://web.archive.org/sitecore/content/ExternalLinks/Information%20Commissioners%20Office).
+Further details about your rights under the Data Protection Act can be accessed on the [Information Commissioner’s Office (ICO) website](https://web.archive.org/en/sitecore/content/ExternalLinks/Information%20Commissioners%20Office).
 
 ### Contacting us
 
-This website is operated by NHS Direct. If you have any queries relating to this policy, please [contact us](https://web.archive.org/About/ContactUs).  
+This website is operated by NHS Direct. If you have any queries relating to this policy, please [contact us](https://web.archive.org/en/About/ContactUs).  
 
