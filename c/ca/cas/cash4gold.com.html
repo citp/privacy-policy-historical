@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cash4gold.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523123825id_/https%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cash4gold.com privacy policy that was archived on 2012-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105181303id_/https%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="https://gmpg.org/xfn/11">
     <title>Privacy Policy « Cash4Gold.com</title>
@@ -58,7 +58,7 @@
 	<meta name="google-site-verification" content="Z_ZTLlrTlxSQA5CUA6BrYh6XZMXHkMfgmngFGdeLs6A">
 	<meta name="msvalidate.01" content="9B4920307FAACD33306C3FF0039919C2">
 
-	 <!--  SERVER: 192.168.100.204, sessID: bvtsl7tut41111iji4li7a4i85 -->
+	 <!--  SERVER: 50.63.147.204, sessID: 5f3f5ef6d13f4a7383549f7e40ad3159 -->
     <link rel="shortcut icon" href="https://www.cash4gold.com/wp-content/themes/theme_cash4gold_black/favicon.ico">
     <link rel="stylesheet" type="text/css" href="https://www.cash4gold.com/wp-content/themes/theme_cash4gold_black/style.css">
     <link rel="stylesheet" type="text/css" href="https://www.cash4gold.com/js/carousel/carousel.css">
@@ -67,7 +67,7 @@
             if (top.location != self.location)
             {
                 //top.location = self.location;
-                self.location = "/adTracking.php?trusted=&from=207.241.237.239";
+                self.location = "/adTracking.php?trusted=&from=204.236.235.245";
             }
         </script>
             <script src="https://www.cash4gold.com/js/jquery.min.js" type="text/javascript"></script>
@@ -304,6 +304,24 @@ $(document).ready(function() {
 
 <link rel="stylesheet" type="text/css" href="https://www.cash4gold.com/wp-content/themes/theme_cash4gold_black/sidebar.css">
 
+<script type="text/javascript">
+	$(document).ready(function(){ 
+		$("ul.mlddm").superfish({ 
+			animation: {opacity:'show'},
+			speed: 350,
+			delay: 250,
+			autoArrows: false,
+			dropShadows: false,
+			disableHI: true
+		});
+	});
+	function setFormValue(val)
+	{
+		$('.mlddm li ul').fadeOut(350);
+		document.requestkit.howdidyouhear.value = val;
+		$('#displayHowDidYouHearValue').html(val);
+	}
+</script>
 
 <div class="sidebarMenuContainer">
 	<div id="formContainer">       
@@ -425,7 +443,20 @@ $(document).ready(function() {
 			
 			<div class="clearDiv"></div>
 			
-						<input type="hidden" name="howdidyouhear" value="racing">
+						<div class="formItem">
+				<div class="howDidYouHearLabelContainer">
+					<label for="email" class="formLabel">How did you hear about us?</label>
+				</div>
+				<select name="howdidyouhear" id="howdidyouhear" class="formfield formfieldhow">
+                    <option value="">-</option>
+                    <option value="45131712VQ">TV</option>
+                    <option value="45121712VQ">Radio</option>
+                    <option value="45141712VQ">Print</option>
+                    <option value="451A1712VQ">Friend</option>
+                    <option value="451B1712VQ">Internet</option>
+                    <option value="45151712VQ">Other</option> 
+                </select> 
+			</div>
 						<div class="formItem">
 				<div class="checkboxContainer">
 					<input type="checkbox" name="term" id="term" class="formfield inputCheckbox" value="y">
