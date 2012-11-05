@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616154154id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105173431id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
 
 # Privacy | Roland Berger
 
@@ -32,6 +32,16 @@ There are many points on Roland Berger Strategy Consultants' websites where we o
 
 You can withdraw your consent to your data and e-mail address being recorded and used to send newsletters at any time.
 
-## 3.2.3 Other matters
+## 3.2.3 Web Analytics
+
+Information on using etracker GmbH's Web Analytics technology:
+
+On this website, data is temporarily collected and saved on a test basis using technology provided by etracker GmbH ([www.etracker.com  ](http://www.etracker.com/en/)) for the purposes of marketing and optimization. Usage profiles with a pseudonym can be created using this data via cookies. The data collected with etracker technology is not used to personally identify website users, unless they give their specific consent, and not combined with personal data about the bearer of the pseudonym. Users can, at any time, [refuse  ](http://www.etracker.de/privacy?et=XdE73b) permission for their data to be collected and saved in the future.
+
+Roland Berger Strategy Consultants uses web analysis on their web pages using the data protection option of "Extended data protection conformity". This means that complete IP addresses are not processed and are only saved for a short period of time. To sanitize the IP addresses, they are shortened to the last 8 bits.
+
+In order to improve content, we will analyze the categories of "Visitors" (number and frequency), "Usage" (content, entry/exit pages, click habits), "Origin" (country, search machines) and access technologies of "Web" and "Mobile".
+
+## 3.2.4 Other
 
 We will never record any of your personal details otherwise without your ex-press consent.
