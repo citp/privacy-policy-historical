@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvmetronews.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508094948id_/http%3A//www.wvmetronews.com/main.cfm%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvmetronews.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106001915id_/http%3A//www.wvmetronews.com/main.cfm%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # West Virginia Headline News and Talk Radio
 
