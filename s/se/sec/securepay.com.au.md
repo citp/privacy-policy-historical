@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620110928id_/http%3A//www.securepay.com.au/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105204015id_/http%3A//www.securepay.com.au/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # SecurePay - Privacy Policy
+
+eCommerce payments and biller solutions from Australia's most trusted online payment gateway
 
 It is the policy of SecurePay Pty Ltd to comply with the National Privacy Principles set out in the  _Privacy Act 1988_ (Cwth) as required by that Act ("federal privacy law"). Apart from our legal and ethical commitment to compliance with the law, we value and respect our professional relationships with our clients, staff and other individuals with whom we deal and we respect their desire for privacy. 
 
