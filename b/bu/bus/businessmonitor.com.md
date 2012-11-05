@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225074630id_/http%3A//store.businessmonitor.com/pages/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105094456id_/http%3A//www.businessmonitor.com/privacy.html) for the most accurate reproduction.*
 
-# None
+# Business Monitor: Privacy Policy
 
 ## Privacy Statement for Business Monitor
 
-This web-site (the 'Site') is owned and operated by Business Monitor International who is also the data controller for the purposes of the Data Protection Act 1998 ('DPA').  
+This web-site (the 'Site') is owned and operated by Business Monitor International who is also the data controller for the purposes of the Data Protection Act 1998 ('DPA').
 
-Respecting and protecting your privacy is critical to Business Monitor International. The purpose of this Privacy Policy together with the Terms of Use is to set out the basis on which any personal data which we collect from the Site, or that you provide to us, will be processed by us and to ensure that we interact with you in line with current data protection legislation such as the DPA and in accordance with your wishes.  
+Respecting and protecting your privacy is critical to Business Monitor International. The purpose of this Privacy Policy together with the Terms of Use is to set out the basis on which any personal data which we collect from the Site, or that you provide to us, will be processed by us and to ensure that we interact with you in line with current data protection legislation such as the DPA and in accordance with your wishes.
 
-The Site is not intended for individuals under 16 years of age. Business Monitor International does not knowingly collect personal information from individuals under 16 via the Site.  
+The Site is not intended for individuals under 16 years of age. Business Monitor International does not knowingly collect personal information from individuals under 16 via the Site.
 
-**By accessing and viewing the Web Site, you agree to the terms and conditions of this Privacy Policy.** In order to access certain portions of the Web Site you will be required to register by providing certain limited information regarding you and the company you represent and in doing so you consent to the collection, use and transfer of such information under the terms of this privacy policy.  
+**By accessing and viewing the Web Site, you agree to the terms and conditions of this Privacy Policy.** In order to access certain portions of the Web Site you will be required to register by providing certain limited information regarding you and the company you represent and in doing so you consent to the collection, use and transfer of such information under the terms of this privacy policy.
 
 ## Registration
 
@@ -31,7 +31,7 @@ Using your contact information, Business Monitor International may also send you
 
 
 
-In order to maintain accurate records concerning communications that Business Monitor International may have received from or sent to you, Business Monitor International may also indefinitely store any information that you provide to Business Monitor International through the Website. We may also collect and process details of your visits to the Site and the resources that you access.  
+In order to maintain accurate records concerning communications that Business Monitor International may have received from or sent to you, Business Monitor International may also indefinitely store any information that you provide to Business Monitor International through the Website. We may also collect and process details of your visits to the Site and the resources that you access.
 
 ## Information Sharing and Disclosure
 
@@ -39,7 +39,7 @@ If Business Monitor International or substantially all of its assets are acquire
 
 ## Special Offers 
 
-We do not provide copies of our email subscriber database information to third parties. As a Registered User and based on the preferences you share at registration, you will occasionally receive information on products, services, special deals and newsletters. 
+We do not provide copies of our email subscriber database information to third parties. As a Registered User and based on the preferences you share at registration, you will occasionally receive information on products, services, special deals and newsletters.
 
 ## Where We Store Your Information 
 
@@ -49,7 +49,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ## Links to Other Web Sites 
 
-The Site contains links to other web sites of our partner networks, sponsors, advertisers and affiliates ('Partners'). Please be aware that Business Monitor International is not responsible for the privacy practices of other sites. This privacy policy applies solely to information collected by this website.  
+The Site contains links to other web sites of our partner networks, sponsors, advertisers and affiliates ('Partners'). Please be aware that Business Monitor International is not responsible for the privacy practices of other sites. This privacy policy applies solely to information collected by this website.
 
 ## Cookies 
 
@@ -59,11 +59,11 @@ Cookies can also enable us to track and target the interests of our users in ord
 
 ## Log Files 
 
-We use IP addresses to analyse trends, administer the Site, track user's movement, and gather broad demographic information for aggregate use. IP addresses that we collect are not linked to personally identifiable information.  
+We use IP addresses to analyse trends, administer the Site, track user's movement, and gather broad demographic information for aggregate use. IP addresses that we collect are not linked to personally identifiable information.
 
 ## Your Rights 
 
-The DPA gives you the right to access information held about you. Your right of access can be exercised in accordance with the DPA. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+The DPA gives you the right to access information held about you. Your right of access can be exercised in accordance with the DPA. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Notification of Policy Changes 
 
@@ -75,14 +75,8 @@ You may update or correct information you previously provided to Business Monito
 
 ## Choice/Opt-out 
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive a newsletter/alert/briefing etc. may opt-out of receiving these communications by replying to the unsubscribe link in the e-mail 
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive a newsletter/alert/briefing etc. may opt-out of receiving these communications by replying to the unsubscribe link in the e-mail
 
 ## Questions or Comments Regarding the Privacy Policy 
 
 For additional questions, or to be taken off our marketing lists, please send an e-mail to [marketing@businessmonitor.com](mailto:marketing@businessmonitor.com)
-
-Business Monitor International • Mermaid House • 2 Puddle Dock • London EC4V 3DS • United Kingdom  
-Registration Number: 1763490 • Registered Address: 3rd Floor, Marlborough House, 179-189 Finchley Road, London NW3, United Kingdom 
-
-All material on this site is protected by international copyright laws, and use of this site is subject to our [Terms and Conditions](https://web.archive.org/pages/?action=legal).  
-© 2009 Business Monitor International Ltd 
