@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homedesigndecorating.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601040020id_/http%3A//homedesigndecorating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedesigndecorating.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105022208id_/http%3A//homedesigndecorating.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Home Design and Decorating Ideas - Homedesigndecorating.com Page
+# Privacy | Homedesigndecorating.com
 
 ### Privacy Policy
 
@@ -35,7 +35,7 @@ Content :
 
 We gathered the content and images from google search engine and google images search and from blog post and we always give the link from the original site (source), contact us if we forgot to link it, If you see your copyrighted images or material has been published at this blog, please contact us and we will remove it as soon as possible.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp ](http://homedesigndecorating.com/goto/http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Regards,  
 Homedesigndecorating.com
