@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503044648id_/http%3A//www.drafttek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105090148id_/http%3A//www.drafttek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,8 @@ By accessing this website, you acknowledge your agreement and consent to the **D
 
   1) Burst Media - [Burst Media Privacy Policy ](http://www.burstmedia.com/privacy.html)
 
+2) ValueClickMedia - We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>
+
   **Links:**  
 ** **  
 This web site contains links to other sites. Please be aware that **Draft Tek** is not responsible for the privacy practices of such other sites. We encourage you to read the privacy practices of each and every web site that collects your personally identifiable information. 
@@ -57,4 +59,4 @@ We use IP (Internet Protocol) addresses to analyze trends, administer the site, 
 ** **  
 If you have any questions or comments about our privacy policy, please contact the [editor](mailto:warren@Drafttek.com). If you wish your communication to remain private, please label it as such. 
 
-  *This Document Was Last Updated on June 1, 2010
+  *This Document Was Last Updated on June 29, 2012
