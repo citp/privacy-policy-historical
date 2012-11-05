@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608220132id_/https%3A//www.cscglobal.com/global/web/csc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105214825id_/https%3A//www.cscglobal.com/global/web/csc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Corporation Service Company
 
@@ -7,7 +7,7 @@ At Corporation Service Company, we value your relationship and honor your trust.
   * We respect your privacy. We will not sell your personal information to third parties for marketing or other purposes.
   * We secure your data. We employ strict security standards and safeguards to help protect your personal information and prevent fraud.
   * We offer continued protection. We protect your personal information, whether you are a current or former customer.
-  * View our [U.S. Safe Harbor Compliance Statement for Data Privacy](https://web.archive.org/web/20120608220132id_/https%3A//www.cscglobal.com/global/web/csc/safe-harbor.html).
+  * View our [U.S. Safe Harbor Compliance Statement for Data Privacy](https://web.archive.org/web/20121105214825id_/https%3A//www.cscglobal.com/global/web/csc/safe-harbor.html).
 
 
 
