@@ -1,49 +1,151 @@
-> *The following text is extracted and transformed from the necn.com privacy policy that was archived on 2008-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080317062459id_/http%3A//www.necn.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necn.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105204327id_/http%3A//www.necn.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | NECN
+# NECN - Breaking News, Boston Weather, politics and the Latest Business, Health, Arts and Sports
 
-This site is owned by New England Cable News (“NECN”) and/or its subsidiaries. NECN’s privacy policy covers the collection, use and dissemination of personal information that may be collected by NECN anytime you interact with NECN on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact NECN. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. 
+  
 
-Why we collect information.  
-NECN collects information to assist us in delivering a superior level of product. We collect information to gain a better understanding of our customers and their needs and thus provide more valuable services. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.  
-It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about.
 
-What information we collect.  
-The information we learn from customers helps us personalize and continually improve your experience with our products and services. Here are the types of information we gather.
+**Privacy Policy**
 
-· Automatic Information:  
-Our servers automatically collect certain non-personally identifying information, such as your computer’s IP address, the type of browser in use, and pages viewed, streams viewed or listened to and when you visit our sites. We use this information to understand how visitors navigate through our sites and use our products, to enhance your experience while using our sites, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information. 
+New England Cable News ("Network," "we," or "us") operates the [_www.necn.com_](http://www.necn.com/) website (with all subdomains thereto, the "Site") and Network focuses on delivering news and information to our Internet users in the market we serve. Network is similarly focused on respecting and protecting the privacy of its users. This privacy policy ("Privacy Policy") tells you how we collect information from you, how we use it and to whom we share it. When you access the Site, we recognize you may be entrusting us with personally identifiable information and we are committed to honoring that trust by working to safeguard your privacy. This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the Site. In this Privacy Policy, we refer to information that specifically identifies you or can be used to contact you as "personally identifiable information" or "personal information." This Privacy Policy applies only to information collected by Network online and does not apply to information collected or obtained by Network by any other means. 
 
-· Information You Give Us:  
-We receive and store any information you enter during account creation or any information you voluntarily provide us in any other way. You can choose not to provide certain personally identifiable information, but then you might not be able to take advantage of many of our features. We use the personally identifiable information that you provide to us for such purposes as responding to your requests, customizing your experience, improving our product, and communicating with you.
+_**Network's Security Measures**_
 
-How we use the information collected.  
-There are a number of situations in which your personal information may help us give you better service.  
-It helps us gain a better understanding of how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.  
-This information is also used to improve our software and services by providing personalized content recommendations, location customization, and/or personalized help and instructions.  
-We track content accesses and downloads for the purpose of paying royalties and license fees to third party providers, such as record labels, advertisers and other copyright holders and content distributors.  
-When you create an account — providing your name, email address, zip code and birth date — and choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ID — in many cases simply your email address, because it is unique and easy to remember. You have the option for streaming services to “remember” you, and your favorites or other preferences you have set will be available automatically, and on occasion greet you by first name. Some this information may, on occasion, be transferred to 3rd parties to automatically fill in relevant form fields and simplify the process. This information is not stored on the 3rd party website until you submit the form. However, once the form is submitted, then this personally identifiable information may be stored on the 3rd party website.  
-If you use a message board, chat room or other means of public communication, you should be aware that any information you share is visible to other users. Personally identifiable information you post as a message to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. NECN is not responsible for the personally identifiable information you choose to submit in these forums.
+Since even the best Privacy Policy doesn't mean much if your information isn't safe, Network uses industry standard physical and electronic procedures (including firewalls) to protect your personally identifiable information. Digital certificates encrypt certain sensitive data using Secure Sockets Layer (SSL) technology, the industry standard method for protecting web communications. The SSL security protocol provides data encryption, server authentication, message integrity, and optional client authentication for a TCP/IP connection. SSL has been universally accepted on the Internet for authenticated and encrypted communication between members' computers and our servers. Although we cannot guarantee the security of any communication over the Internet, SSL helps to secure information exchanged between your computer and our servers over the Internet and prevent unauthorized access. 
 
-Technologies used to collect information.  
-As is standard practice on many corporate websites, NECN’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. A cookie is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the Web site. This unique number identifies your Web browser to our computer system whenever you visit one of the sites in the NECN Network. A cookie will not allow a Web site to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. We use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us. For example, knowing your first name lets us welcome you with a greeting the next time you use our products.  
-Our advertisers help us deliver a number of useful services which are free of charge to you. Our advertisers will often employ the use of a “click-through URL” linked to content on their website. When a customer clicks one of these URLs, they pass through a web server before arriving at the destination web page. They track this click-through data to help determine general interest and measure the effectiveness of customer communications. 
+Please note that you are responsible for protecting any user name(s) and password(s) that provide you with access to the Site. Network disclaims any responsibility for a breach of privacy as a result of your willingly or inadvertently disclosing user name(s) and password(s) to others.
 
-When we disclose information.  
-NECN does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.  
-In some cases, access to certain products and services, such as content subscription products or products distributed by third parties, may require the provision of personal information to a third party, such as a content provider or distributor. In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party’s use of such information is governed by that party’s privacy policy, and NECN’s use is governed by this privacy policy. Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. Additionally, NECN may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties. In such cases, NECN may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider.  
-NECN may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for NECN, and to better serve our customers. NECN’s contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of NECN.  
-Also, NECN may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on NECN; (b) protect and defend the rights or property of NECN and its products; or (c) act in urgent circumstances to protect the personal safety of users of NECN products or the public at large.
+_**The Information Network Collects and How It Is Used**_
 
-Links to other websites.  
-NECN websites and products contain links to other websites and products. NECN is not responsible for the privacy practices or the content of such websites or products. Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices. NECN has no liability for these third party sites, their policies or actions.
+_**Collection of Personally Identifiable Information**_
 
-Security of personal information.  
-The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to try to protect guest information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods.  
-NECN shall make all reasonable efforts to comply with this privacy policy; however, this policy should not be construed as a contractual undertaking and NECN cannot warrant the security of any information that you transmit to us. Please be aware that, despite our best efforts, no security measures are perfect or impenetrable and by transmitting personal information over the internet to us, you are accepting any risks associated with doing so. In addition, you are responsible for taking appropriate measures to protect and secure all passwords, log-on or membership identification information and account information.
+When using the Site, you may be asked to provide various types of personally identifiable information to enhance your experience on the Site. For example, the Site asks for personally identifiable information (such as your name, address, zip code, phone number, and email address) when you register for an account, make a purchase, sign up for email newsletters, use the forward information function, enter a contest, post or ask a question, or participate in a promotion. You can always go back to read this Privacy Policy by clicking on the Privacy Policy link on the bottom of all of the pages on Site. Please also see below about "cookies" and what other information is collected.
 
-Changes to this policy.  
-We may revise this Privacy Policy to keep it up to date with NECN’s current policies, practices, products, services and web pages. NECN reserves the right to revise, change or modify this policy at any time for any reason. “Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ’s from time to time on specific product.
+_**Children's Privacy**_
 
-Privacy questions.  
-If you have questions or concerns about NECN’s Privacy Policy or data processing or use, please send an email to Feedback@NECN.com. We will respond to your inquiry within 30 days.
+**Simply stated,** **Network does not knowingly collect personally identifiable information from children under the age of 13.** If we learn that we have collected personally identifiable information on a child under the age of 13, we will delete that data from our systems. Network encourages parents and guardians to go online with their children and suggests the following to help make a child's online experience safer: 
+
+  * Teach children never to give personally identifiable information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult;
+
+  * Know the websites your children are visiting and which websites are appropriate; and 
+
+  * Look for website privacy policies. Know how your child's information is treated.
+
+
+
+
+_**Use of Personally Identifiable Information**_
+
+We use and share the personally identifiable information you provide on the Site for several purposes. For example, Network may use the information:
+
+  * To provide the services you request;
+
+  * To process your purchases and subscriptions;
+
+  * To provide your personally identifiable information to third parties for such third parties direct marketing purposes;
+
+  * By sharing personal information with our affiliates for promotional, operational or other lawful purposes;
+
+  * To send you promotional emails and emails containing information about the Site. If you don't want to receive promotional emails from us, please refer to the Email Opt-Out Policy below;
+
+  * To help provide you with the ability to create personal profile areas;
+
+  * To provide customer feedback, service and support;
+
+  * To support and run contests, sweepstakes or other marketing or promotional activities on the Site; 
+
+  * To conduct questionnaires and surveys in order to provide better products and services to our customers;
+
+  * To understand more about you, so we can personalize newsletters and websites to your preferences;
+
+  * To enhance your web browsing experience and help personalize the Site for your viewing preferences;
+
+  * To allow you to forward information to another individual such as a friend or co-worker. Network does not store the personal information about the third party to whom you forward such information; we only collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address; 
+
+  * To meet contractual obligations; and
+
+  * As permitted by applicable law.
+
+
+
+
+_**Aggregate Information**_
+
+On an aggregate basis only, we collect comprehensive demographic information and data, and other non-personally identifying information about users of the Site. We do not typically disclose any personally identifiable information as part of this aggregate information, but we may lend, sell, share or otherwise disclose aggregate information with others so we can perform research and provide the results to third parties, enhance and market the Site, and conduct accounting and process record keeping functions. To the extent aggregate information is associated with your personal information, Network will treat the associated information as personal information under this privacy policy.
+
+_**Service Providers**_
+
+We use operational service providers to perform certain services on our behalf, such as maintaining the Site and our mailing lists, storing, processing and transmitting data, creating and executing email campaigns, processing purchase and subscription transactions, and providing marketing assistance, web analytics and data analysis. We may provide your personally identifiable information to these operational service providers when the information is necessary for them to perform their duties. We request that our operational service providers protect your privacy and not disclose your personally identifiable information to third party marketers that are not associated with Network. Additionally, we request such providers not to use your personally identifiable information for their own marketing or promotional purposes.
+
+_**Cookies and IP Address Information**_
+
+Network uses a feature of your browser called a "cookie." Cookies are small text files sent to and accessed from your computer. Your cookie automatically identifies your computer - but not you - to our servers when you visit the Site and allows us to correlate your computer with certain usage patterns which are stored in our log files. We use cookies to gather general, aggregate statistics about the overall usage of the Site in our continual attempt to improve our products and services. Network also uses temporary cookies, often referred to as session cookies, to keep a user logged into the system and aid in the exchange of information between pages without loss of data. Such a cookie, however, is only stored for the current browsing session and is deleted once the browser is closed. Our service providers may also place cookies at the Site in connection with the services they provide. Search for Cookies under your Web browser's Help menu for more information on cookie management features available to you. If your browser is set to reject all cookies, the Site may not function properly. 
+
+Additionally, we may use IP address information to count and track aggregate visits to the Site, to help diagnose problems with our server, and to administer the Site. It is not our policy to link IP addresses to anything personally identifiable; while a particular user's session can be tracked, the user typically remains completely anonymous.
+
+_**Third Party Ad Servers**_
+
+We may use third-party advertising companies and advertising networks to serve certain ads to you on our behalf when you visit the Site or other websites. These third-party delivered ads appearing on the Site may be delivered to you by DoubleClick and 24/7 Real Media. Please be aware that we may add or subtract from this list of third-party advertising companies in the future, in our sole discretion and without notice to you. Information (not including your name, address email address or telephone number) about your visits to this and other websites, may be used in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this Site, a third-party advertising company may place or recognize a unique cookie or web beacon on your browser. For more information about DoubleClick and 24/7 Real Media, cookies, and how to "opt-out," please click here.
+
+_**Clear Gifs**_
+
+We also may collect information through the use of clear gifs (also called Web Beacons and Web Bugs) in selected email messages we send you. These are tiny graphic files, not visible to the human eye, that are included in HTML-based emails and used to let us know which emails we send are opened. Clear gifs may also see or read cookies on your computer. When authorized by Network, third parties specializing in monitoring aggregate statistical use of the Site with whom we contract, may use cookies, our web log files, web beacons, and other monitoring technologies to compile anonymous aggregate data.
+
+_**Information Posted to Any Community Feature**_
+
+If you chose to use a forum, a blog, participate in a chat room or otherwise use a community feature available through the Site, you should be aware that any personally identifiable or other information you post can be read, collected or used by other users of the Site, and could be used to send you unsolicited messages or used in an otherwise unauthorized manner. We cannot be responsible for any personally identifiable or other information you choose to post through those means and we recommend careful consideration before you post such information.
+
+_**Privacy Policy Coverage and Links to Other Websites**_
+
+We may include links to other websites we think may be of interest to you or operated by our business partners, affiliates, advertisers and others. These websites include, but are not limited to, the SNY.TV website. These third parties may have separate data collection and privacy practices independent from ours, and Network cannot be responsible for their policies or activities. Please contact those third parties directly if you have questions about their privacy policies.
+
+_**Changes to Our Privacy Policy  
+**_ We encourage you to review our Privacy Policy not just the first time you visit the Site, but periodically afterwards since we may modify our Privacy Policy from time to time. The date of the last update of the Privacy Policy will always be posted below:
+
+**THIS PRIVACY POLICY WAS LAST REVISED ON JANUARY 14, 2010.**
+
+If we make any substantive changes to our Privacy Policy in the future with regard to how we use your personally identifiable information, we will incorporate those changes here. Your continued use of the Site after the changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue use of the Site. Lastly, if Network is sold or merged with another company, your personally identifiable information will be included as part of the sale but unless you're notified that the Privacy Policy is changed, your personally identifiable information will be maintained in the same manner.
+
+_**Accessing and Updating Information**_
+
+To access or update the personally identifiable information that Network may have, please send an email to legal@comcastsportsnet.com with your request. Please include your email address and indicate the nature of your request or the information you wish to change. In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data. You may also set your browser to reject cookies, but doing so may prevent you from using some of our services. There may be certain instances when Network may not be able to respond, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the personally identifiable information has been lawfully obtained from third party sources. 
+
+_**Email Opt-Out Policy**_  
+You may opt-out of receiving promotional email communications from us by emailing us at: legal@comcastsportsnet.com or writing to us at: Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn: Business and Legal Affairs. **  
+**
+
+In addition, when we contact you via email, we may include instructions to unsubscribe from future emails if you so choose.
+
+Please allow sufficient time for us to process your opt-out request.
+
+_**International Users  
+**_ The Site is solely intended for users located in the U.S. However, like almost every website, the Site is accessible around the world. By visiting the Site and providing your personally identifiable information, you acknowledge and agree that your personally identifiable information can be collected, processed and stored for the purposes identified in this Privacy Policy. We collect, process and store your personally identifiable information in the United States of America. You acknowledge that your personally identifiable information may be stored on servers located outside your residential jurisdiction in jurisdictions which may have less stringent privacy practices than your own. If you access the Site from outside the United States, your usage constitutes consent to the transfer of your data outside of your country and to the United States of America. 
+
+_**California Privacy Rights**_
+
+If you are a California resident and would like to opt-out from the disclosure of personally identifiable information to third parties for their direct marketing purposes, please make your request by email to: legal@comcastsportsnet.com or write to us at: : Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn: Business and Legal Affairs. **  
+**  
+
+
+_**Legal Disclaimer**_
+
+_Though we will make every effort to preserve user privacy, we may need to disclose personally identifiable information when required by law or if we have a good-faith belief the action is necessary to comply with a pending judicial proceeding, a court order or legal process served on Network or to protect our rights or the rights of others, to fight fraud, identity theft, to ensure the integrity and operation of our business and systems, or to protect the rights, property or safety of Network, its employees, members or others._
+
+_**Contact Us**_ **  
+**Please feel free to share any comments and concerns with us. If you have any questions about this Privacy Policy or the privacy practices of the Site, please contact us at:
+
+Comcast Sports Group
+
+One Comcast Center
+
+Philadelphia, PA 19103
+
+Attn: Business and Legal Affairs. **  
+**
+
+Or by email at: legal@comcastsportsnet.com
+
+  
+�2010 Comcast Sports Management Services, LLC. All rights reserved.  
+  
+---
