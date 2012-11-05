@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the godtube.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523192613id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the godtube.com privacy policy that was archived on 2012-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105223549id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
     <title>Privacy Policy</title>
     <!-- Enable IE9 Standards mode -->
   	<meta http-equiv="X-UA-Compatible" content="IE=9">
@@ -14,14 +14,14 @@
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="">
 <meta property="og:type" content="website">
-<meta property="og:image" content="http://media.salemwebnetwork.com/godtube/resource/theme/default/logos/logo.png?v=10020731">
+<meta property="og:image" content="http://media.salemwebnetwork.com/godtube/resource/theme/default/logos/logo.png?v=10039941">
 <meta property="og:url" content="http://www.godtube.com/">
 
     <meta name="content-language" content="en-US">
-    <link href="http://media.salemwebnetwork.com/godtube/resource/theme/jqueryui/base/jquery.ui.combined.css?r=10020731" rel="stylesheet" type="text/css">
-    <link href="http://media.salemwebnetwork.com/godtube/resource/theme/structure/structure.css?r=10020731" rel="stylesheet" type="text/css">    
-    <link href="http://media.salemwebnetwork.com/godtube/resource/theme/default/style.css?v=10020731" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="http://media.salemwebnetwork.com/godtube/resource/javascript/combined.js?r=10020731"></script>
+    <link href="http://media.salemwebnetwork.com/godtube/resource/theme/jqueryui/base/jquery.ui.combined.css?r=10039941" rel="stylesheet" type="text/css">
+    <link href="http://media.salemwebnetwork.com/godtube/resource/theme/structure/structure.css?r=10039941" rel="stylesheet" type="text/css">    
+    <link href="http://media.salemwebnetwork.com/godtube/resource/theme/default/style.css?v=10039941" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://media.salemwebnetwork.com/godtube/resource/javascript/combined.js?r=10039941"></script>
     <script async="" src="http://allpass.salemwebnetwork.com/newsletters/init" type="text/javascript"></script>
     
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
@@ -32,6 +32,16 @@
                 var _gaq = _gaq || [];
                 _gaq.push(['_setAccount', 'UA-4546428-1']);
                 _gaq.push(['_trackPageview']);
+
+                // Google Analytics is dumb in that if it can't determine how long a user was on the site (i.e., single-page visits), 
+                // it will count them as a bounce - even if they sat on the page and watched an entire video. We're adding an event 
+                // that will fire 30 seconds after page load - if the user is still on the page at this point, we won't count them as 
+                // a bounce.
+                setTimeout('_gaq.push([\'_trackEvent\', \'NoBounce\', \'Over 30 seconds\'])', 30000);
+				
+				// Let's also add one that will fire after three minutes so we can try to get a more accurate count of the length of 
+				// single-page visits
+				setTimeout('_gaq.push([\'_trackEvent\', \'ThreeMinuteMark\', \'Over 3 minutes\'])', 180000);
 
                 (function () {
                     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -44,53 +54,65 @@
 
 <script type="text/javascript">
     var oasUrl = 'http://oascentral.salemweb.net/RealMedia/ads/';
-    var oasSitePage = 'swn.godtube/';
+    var oasSitePage = 'www.godtube.com' + window.location.pathname.toLowerCase() + (window.location.pathname == '/' ? 'home' : '');;
     var oasPositionList = 'Top,Middle1,Middle2,Bottom';
-    var oasQuery = '';
+    var oasQuery = window.location.search.length > 1 ? window.location.search.substr(1) : '';
     var oasRandom = Math.floor(Math.random() * 1E9);
     var oasAd = function (position) { if (typeof(OAS_RICH) != 'undefined') OAS_RICH(position); };
     document.write('<scr' + 'ipt type="text/javascript" src="' + oasUrl + 'adstream_mjx.ads/' + oasSitePage + '/1' + oasRandom + '@' + oasPositionList + '?' + oasQuery + '"></scr' + 'ipt>');
-</script><script type="text/javascript" src="http://oascentral.salemweb.net/RealMedia/ads/adstream_mjx.ads/swn.godtube//1540910884@Top,Middle1,Middle2,Bottom?"></script>
+</script><script type="text/javascript" src="http://oascentral.salemweb.net/RealMedia/ads/adstream_mjx.ads/www.godtube.com/web/20121105223549id_/http%3a//www.godtube.com/privacy-policy.html/187392450@Top,Middle1,Middle2,Bottom?"></script>
 </head>
 <body>
 
-
     <div id="fb-root"></div>
-    <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js#appId=132280000165846&amp;xfbml=1"></script>
+	<!--<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=132280000165846"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>-->
+     <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js#appId=132280000165846&amp;xfbml=1"></script> 
     
     
 
 <div class="header">
     
+    <div class="logoHeader">
     <a class="logo" href="http://www.godtube.com/">
-        <img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/logos/logo.png?v=10020731" alt="logo" class="logo printMe">
+        <img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/logos/logo.png?v=10039941" alt="logo" class="logo printMe">
+       
     </a>
+    
+    <div class="socialIcons"> 
+     <ul class="headerLinklist"><li><a class="facebook facebookShare" title="Share to Facebook" href="#" onclick="window.open('http://www.facebook.com/godtubecom');return false;"><div class="facebookHeader"></div></a></li><li><a class="" title="Pinterest" href="#" onclick="window.open('http://pinterest.com/godtube');return false;"><div class="pinterestHeader"></div></a></li><li><a class="twitterlinkHeader" title="" href="http://twitter.com/DailyGodtube" onclick="window.open('http://twitter.com/DailyGodtube');return false;"><div class="twitterHeader"></div></a></li><li><a class="" title="Google" href="#" onclick="window.open('https://plus.google.com/share?url=www.godtube.com');return false;"><div class="googlePlus"></div></a></li><li><a class="" title="RSS This Page" href="http://www.godtube.com/most-popular/rss.xml"><div class="rss"></div></a></li></ul>
+    </div>
+    </div>
 
 
 
-    <div class="advertisement advertisement-728-90"><script type="text/javascript">oasAd('Top');</script></div>
+    <div class="advertisement advertisement-728-90"><script type="text/javascript">if (typeof(oasAd) != 'undefined') oasAd('Top');</script></div>
 
-    <form action="http://www.godtube.com/search/" method="get" class="headersearch"><span class="textbox textboxsearch"><input type="text" class="defaultText" id="q" name="q" value="search videos"><a class="search" href="#" onclick="$(this).parents('form:first').submit();return false;" title="SEARCH"></a></span></form>
+    <div class="HeaderSearchBar"><form action="http://www.godtube.com/search/" method="get" class="headersearch"><span class="textboxS "><input type="text" class="defaultText" id="q" name="q" value="search videos"><a class="search-button" href="#" onclick="$(this).parents('form:first').submit();return false;" title="SEARCH"></a></span></form></div>
 
-    <ul class="mediaoptions"><li><a class="uploadlink" href="http://www.godtube.com/upload/"><span>Upload</span><span class="linksuffix">&nbsp;VIDEO</span></a></li><li class="browse"><a href="http://www.godtube.com/browse/">Browse&nbsp;<span="linksuffix">Videos</span="linksuffix"></a></li><li class="devotionals last"><a href="http://www.godtube.com/devotionals/">Devotionals</a></li></ul>
+    <ul class="mediaoptions"><li><a class="uploadlink" href="http://www.godtube.com/upload/"><span></span><span class="linksuffix">Upload&nbsp;VIDEO</span></a></li><li class="browse"><a href="http://www.godtube.com/browse/">Browse&nbsp;<span="linksuffix">Videos</span="linksuffix"></a></li><li class="devotionals"><a href="http://www.godtube.com/devotionals/">Devotionals</a></li><li class="newsletters last"><a href="http://www.godtube.com/newsletters/">Newsletters</a></li></ul>
 
-    <ul class="headeroptions socialoptions"><li><a class="twitterlink" title="Follow Us" href="#" onclick="window.open('http://twitter.com/DailyGodtube');return false;"><span>Follow Us</span></a></li><li class="facebook"><fb:like class="FBlike" title="" reference="" layout="button_count" href="http://www.facebook.com/godtubecom" show_faces="false" width="75"></fb:like></li></ul>
+    <ul class="headeroptions accountoptions"><li class="last"><a class="si" href="http://www.godtube.com/user/login.html?returnurl=http%3A%2F%2Fwww.godtube.com%2Fprivacy-policy.html">LOG IN</a><span class="new">New here?</span><a class="signIn" href="http://www.godtube.com/user/create.html?returnurl=http%3A%2F%2Fwww.godtube.com%2Fprivacy-policy.html">Sign Up</a><div class="newFB"><a href="http://allpass.salemwebnetwork.com/login/oauth/facebook?returnUrl=http%3a%2f%2fwww.godtube.com%2fthirdpartylogin%2f&amp;app=godtube" class="popup"><span class="new">Log in using</span><img src="http://media.salemwebnetwork.com/godtube/theme/default/icons/login/facebook.png" width="20" height="20" title="Sign in via Facebook" alt="Sign in via Facebook"></a></div></li></ul>
 
-    <ul class="headeroptions accountoptions"><li><a href="http://www.godtube.com/user/create.html?returnurl=http%3A%2F%2Fwww.godtube.com%2Fprivacy-policy.html">Create Account</a></li><li class="last"><a href="http://www.godtube.com/user/login.html?returnurl=http%3A%2F%2Fwww.godtube.com%2Fprivacy-policy.html">Sign In</a></li></ul>
+
 
 </div>
 
 
 <div class="headermenu"><ul class="categoryLinks"><li class="child item1 "><a href="http://www.godtube.com/">Christian Videos</a></li><li class="child item2 "><a href="http://www.godtube.com/music-videos/">Music Videos</a></li><li class="child item3 "><a href="http://www.godtube.com/artists-directory/">Artist Directory</a></li><li class="child item4 "><a href="http://www.godtube.com/ministry-videos/">Ministry Videos</a></li><li class="child item5 "><a href="http://www.godtube.com/movies/">Movies</a></li><li class="child item6 "><a href="http://www.godtube.com/inspirational-videos/">Inspirational Videos</a></li><li class="child item7 "><a href="http://www.godtube.com/comedy-videos/">Comedy Videos</a></li><li class="child item8 "><a href="http://www.godtube.com/cute-videos/">Cute Videos</a></li><li class="child item9 "><a href="http://www.godtube.com/sermon-videos/">Sermons</a></li><li class="child item10 "><a href="http://www.godtube.com/español-videos/">Español</a></li></ul></div>
     <div class="themewrapper">
-        <div class="mainbody">
-            
-            
+        <div class="outsiteBody">
+            <div class="socialShare">
+                &nbsp;        
+            </div>
+            <div class="mainbody">
                 
-                <div class="leftcolumn">
+                
                     
-    
-    <div class="breadCrumbMenu "><a href="http://www.godtube.com/" class="home">Home</a><a class="title">Privacy Policy</a></div>
+                    
+                    <div class="leftcolumn">
+                    
+
+<div class="breadCrumbMenu "><a href="http://www.godtube.com/" class="home">Home</a><a class="title">Privacy Policy</a></div>
 
     <h1 class="bigtitle">Privacy Policy</h1>
 
@@ -171,21 +193,19 @@
     </div>
 
     
-                </div>
-                <div class="rightcolumn">
-                    
+                        <div id="playlistContainer"><div id="playlistHeader"><span class="playlistIterator"></span><span class="playlistHeaderItem playlistName"></span><span class="playlistInfo"></span><a class="playlistToggle" href="javascript:void(0)">Hide</a><ul class="playlistHeaderItem playlistOptions"><li class="menu"><a href="javascript:void(0)">options</a><a></a><ul><a></a><li><a></a><a id="closePlaylist" href="javascript:void(0)">Close playlist</a></li></ul></li></ul></div><div id="playlist"></div></div><div class="playlistDialog"><form class="playlistDetails"><p>Please add a name and description in order to save your playlist to your user profile.</p><hr><span class="label">Name: </span><input class="Name" type="text"><span class="label">Description: </span><textarea class="Description"></textarea><span class="label">Public: </span><input type="checkbox" class="Public"></form></div><div class="playlistSelect">No playlists found for this account.</div>
+                    </div>
+                    <div class="rightcolumn">
+                        
     
     
- 
-    <div class="advertisement advertisement-300-250"><script type="text/javascript">oasAd('Middle1');</script></div>
-
+     <div class="advertisement advertisement-300-250"><script type="text/javascript">if (typeof(oasAd) != 'undefined') oasAd('Middle1');</script></div>
     <fb:like-box href="http://www.facebook.com/godtubecom" class="gutterBottom" width="300" height="360" show_faces="true" stream="false" header="true"></fb:like-box>
-
-    <div class="advertisement advertisement-300-250"><script type="text/javascript">oasAd('Middle2');</script></div>
-
-
-                </div>
-            
+    <div class="advertisement advertisement-300-250"><script type="text/javascript">if (typeof(oasAd) != 'undefined') oasAd('Middle2');</script></div>
+    
+                    </div>
+                
+            </div>
         </div>
     </div>
     <div class="themewrapperfooter">
@@ -193,9 +213,8 @@
     
     <div class="MainSiteFooter">
 
-        <div class="advertisement advertisement-728-90"><script type="text/javascript">oasAd('Bottom');</script></div>
-        
-        <ul class="footerLinks video"><lh>VIDEO</lh><li class="child item0"><a href="http://www.godtube.com/best-of/2010/">Best of 2010</a></li><li class="child item1"><a href="http://www.godtube.com/music-videos/">Music Videos</a></li><li class="child item2"><a href="http://www.godtube.com/ministry-videos/">Ministry Videos</a></li><li class="child item3"><a href="http://www.godtube.com/movies/">Movies</a></li><li class="child item4"><a href="http://www.godtube.com/inspirational-videos/">Inspirational Videos</a></li><li class="child item5"><a href="http://www.godtube.com/comedy-videos/">Comedy Videos</a></li><li class="child item6"><a href="http://www.godtube.com/cute-videos/">Cute Videos</a></li><li class="child item7"><a href="http://www.godtube.com/español-videos/">Español Videos</a></li><li class="child item8"><a href="http://www.godtube.com/education-videos/">Education Videos</a></li><li class="child item9"><a href="http://www.godtube.com/kids-videos/">Kids' Videos</a></li><li class="child item10"><a href="http://www.godtube.com/Kids-Choir-Entry/">Kids Choir Entry</a></li><li class="child item11"><a href="http://www.godtube.com/sermon-videos/">Sermon Videos</a></li><li class="child item12"><a href="http://www.godtube.com/book-trailers/book-trailers/">Book Trailers</a></li></ul><ul class="footerLinks resources"><lh>Resources</lh><li><a href="http://www.biblestudytools.com/community/groups/">Christian Groups</a></li><li><a href="http://www.godtube.com/ministry-videos/">Christian Ministries</a></li><li><a href="http://www.godtube.com/music-videos/">Christian Music Bands &amp; Artists</a></li><li><a href="http://forums.crosswalk.com/">Join Christian Community Online</a></li><li><a href="http://forums.crosswalk.com/Prayer_Wall/forumid_14/tt.htm">Post a Prayer Request</a></li><li><a href="http://www.biblestudytools.com">Read Online Bible</a></li></ul><ul class="footerLinks aboutus"><lh>About Us</lh><li><a href="http://www.godtube.com/terms-of-use.html">Terms of Use</a></li><li><a href="http://www.godtube.com/privacy-policy.html">Privacy Policy</a></li><li><a href="http://godtube.zendesk.com">Contact Us</a></li><li><a href="http://www.salememail.com/godtube/">Advertise With Us</a></li><li><a href="http://www.godtube.com/about-us.html">About Us</a></li><li><a href="http://godtube.zendesk.com/forums/258240-frequently-asked-questions">Godtube FAQ</a></li><li><a href="http://godtube.zendesk.com/forums">Help</a></li></ul>
+        <div class="advertisement advertisement-728-90"><script type="text/javascript">if (typeof(oasAd) != 'undefined') oasAd('Bottom');</script></div>
+        <ul class="footerLinks video"><lh>VIDEO</lh><li class="child item0"><a href="http://www.godtube.com/best-of/2010/">Best of 2010</a></li><li class="child item1"><a href="http://www.godtube.com/music-videos/">Music Videos</a></li><li class="child item2"><a href="http://www.godtube.com/ministry-videos/">Ministry Videos</a></li><li class="child item3"><a href="http://www.godtube.com/movies/">Movies</a></li><li class="child item4"><a href="http://www.godtube.com/inspirational-videos/">Inspirational Videos</a></li><li class="child item5"><a href="http://www.godtube.com/comedy-videos/">Comedy Videos</a></li><li class="child item6"><a href="http://www.godtube.com/cute-videos/">Cute Videos</a></li><li class="child item7"><a href="http://www.godtube.com/español-videos/">Español Videos</a></li><li class="child item8"><a href="http://www.godtube.com/education-videos/">Education Videos</a></li><li class="child item9"><a href="http://www.godtube.com/kids-videos/">Kids' Videos</a></li><li class="child item10"><a href="http://www.godtube.com/sermon-videos/">Sermon Videos</a></li><li class="child item11"><a href="http://www.godtube.com/book-trailers/">Book Trailers</a></li></ul><ul class="footerLinks resources"><lh>Resources</lh><li><a href="http://www.biblestudytools.com/community/groups/">Christian Groups</a></li><li><a href="http://www.godtube.com/ministry-videos/">Christian Ministries</a></li><li><a href="http://www.godtube.com/music-videos/">Christian Music Bands &amp; Artists</a></li><li><a href="http://forums.crosswalk.com/">Join Christian Community Online</a></li><li><a href="http://forums.crosswalk.com/Prayer_Wall/forumid_14/tt.htm">Post a Prayer Request</a></li><li><a href="http://www.biblestudytools.com">Read Online Bible</a></li></ul><ul class="footerLinks aboutus"><lh>About Us</lh><li><a href="http://godtube.zendesk.com/forums/258240-frequently-asked-questions">Godtube FAQ</a></li><li><a href="http://www.godtube.com/about-us.html">About Us</a></li><li><a href="http://www.salememail.com/godtube/">Advertise With Us</a></li><li><a href="http://godtube.zendesk.com">Contact Us</a></li><li><a href="http://www.godtube.com/privacy-policy.html">Privacy Policy</a></li><li><a href="http://www.godtube.com/terms-of-use.html">Terms of Use</a></li><li><a href="http://godtube.zendesk.com/forums">Help</a></li></ul>
 
         <ul class="footerLinks aboutgodtube">
             <lh>About GodTube.com</lh>
@@ -204,7 +223,7 @@
 <p>Also, check out the <a href="http://townhall.com/political-cartoons/" title="Funny Political Cartoon Humor">political cartoons</a> at Townhall.com!</p></li>
         </ul>
         
-        <ul class="SocialLinks"><li><a href="http://get.adobe.com/flashplayer/"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/media/get-flashplayer.png?r=10020731" alt="Get Adobe Flash Player"></a></li><li><a href="http://www.facebook.com/godtubecom"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/footer/footer-facebook.gif?r=10020731" alt="Become a fan of GodTube.com on Facebook"></a></li><li><a href="http://twitter.com/DailyGodtube"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/footer/footer-twitter.gif?r=10020731" alt="Follow GodTube.com on Twitter"></a></li><li><a href="http://www.godtube.com/most-popular/rss.xml"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/footer/footer-rss.gif?r=10020731" alt="Subscribe to the GodTube.com RSS feed"></a></li></ul>
+        <ul class="SocialLinks"><li><a href="http://get.adobe.com/flashplayer/"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/media/get-flashplayer.png?r=10039941" alt="Get Adobe Flash Player"></a></li><li><a href="http://www.facebook.com/godtubecom"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/footer/footer-facebook.gif?r=10039941" alt="Become a fan of GodTube.com on Facebook"></a></li><li><a href="http://twitter.com/DailyGodtube"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/footer/footer-twitter.gif?r=10039941" alt="Follow GodTube.com on Twitter"></a></li><li><a href="http://www.godtube.com/most-popular/rss.xml"><img src="http://media.salemwebnetwork.com/godtube/resource/theme/default/buttons/footer/footer-rss.gif?r=10039941" alt="Subscribe to the GodTube.com RSS feed"></a></li></ul>
 
     </div>
 
@@ -213,7 +232,7 @@
 <script type="text/javascript">
 
     $(document).ready(function() {
-        $("#UniversalFooterContainer").html("<div class=\"Footer_Main_Container\"><div class=\"Default_Brand_DIV\"><a href=\"http://www.salemwebnetwork.com/\" rel=\"nofollow\"><img class=\"Footer_Brand_IMG_Default_Brand\" src=\"http://media.salemwebnetwork.com/logo/swn/SWN_logo_blue_text.png\"/></a></div><div class=\"Footer_Default_Message_DIV\">This site is a proud member of the Salem Web Network, a subsidiary of <a href=\"http://www.salem.cc/\" target=\"_blank\">Salem Communications Corporation</a>.  <br/> Other Salem Web Network sites include:</div><div class=\"Footer_Links_DIV\"><ul><li><a href=\"http://www.godtube.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Video - Godtube</a></li><li><a href=\"http://www.christianity.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christianity</a></li><li><a href=\"http://www.christianjobs.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Jobs</a></li><li><a href=\"http://www.churchstaffing.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Church Jobs</a></li><li><a href=\"http://www.crosscards.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Free Online ecards</a></li><li><a href=\"http://www.crossdaily.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Church Media</a></li><li><a href=\"http://www.crosswalk.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Living - Crosswalk</a></li><li><a href=\"http://www.crosswalkpastors.com\" rel=\"nofollow\" class=\"Default_Footer_Link\">Pastors</a></li><li><a href=\"http://www.lightsource.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Ministry Video</a></li><li><a href=\"http://www.oneplace.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Ministry Radio</a></li><li><a href=\"http://www.singingnews.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Southern Gospel Music News</a></li><li><a href=\"http://www.southerngospel.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Southern Gospel Online</a></li><li><a href=\"http://www.sermonsearch.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Free Sermons</a></li><li><a href=\"http://www.biblestudytools.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Bible</a></li><li><a href=\"http://www.crosswalk.com/who-is-jesus/\" rel=\"nofollow\" class=\"Default_Footer_Link\">Who is Jesus Christ</a></li><li><a href=\"http://todayschristianmusic.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Todays Christian Music</a></li><li><a href=\"http://www.christiancollege.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Colleges</a></li><li><a href=\"http://www.thefish.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Entertainment Reviews</a></li><li><a href=\"http://www.ccmmagazine.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic \" rel=\"nofollow\" class=\"Default_Footer_Link\">CCM Magazine </a></li><li><a href=\"http://www.christianmusicplanet.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Music Planet</a></li><li><a href=\"http://magazine.townhall.com/Featured?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Townhall Magazine</a></li><li><a href=\"http://www.preaching.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Preaching</a></li><li><a href=\"http://townhall.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Conservative Townhall</a></li><li><a href=\"http://www.xulonpress.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Book Self Publishing</a></li><li><a href=\"http://www.youthworkerjournal.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Youth Ministry</a></li></ul></div><div class=\"Footer_Default_AD_Message_DIV\">Enjoy the websites of these GodTube.com sponsors:</div><div class=\"Footer_AD_Links_DIV\"><ul><li><a href=\"http://www.MyChristianCare.org \" rel=\"nofollow\" class=\"Default_Footer_Link\">Medi-Share</a></li><li><a href=\"http://www.samaritanfundraising.com/\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Fundraising</a></li><li><a href=\"http://www.christianbookstore.net/?utm_source=swn&utm_medium=web&utm_campaign=swn-footer\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Bookstore</a></li><li><a href=\"http://www.ccci.org/\" rel=\"nofollow\" class=\"Default_Footer_Link\">Campus Crusade for Christ</a></li><li><a href=\"http://www.billygraham.org/\" rel=\"nofollow\" class=\"Default_Footer_Link\">BillyGraham.org</a></li><li><a href=\"http://www.goisrael.com\" rel=\"nofollow\" class=\"Default_Footer_Link\">Israel Ministry of Tourism</a></li><li><a href=\"http://www.luonline.com/\" rel=\"nofollow\" class=\"Default_Footer_Link\">Liberty University</a></li></ul></div><div class=\"Footer_Default_Legal_DIV\">Copyright &#169; 2012, GodTube.com. All rights reserved. Article Images Copyright &#169; 2012 JupiterImages Corporation.</div></div>");
+        $("#UniversalFooterContainer").html("<div class=\"Footer_Main_Container\"><div class=\"Default_Brand_DIV\"><a href=\"http://www.salemwebnetwork.com/\" rel=\"nofollow\"><img class=\"Footer_Brand_IMG_Default_Brand\" src=\"http://media.salemwebnetwork.com/logo/swn/SWN_logo_blue_text.png\"/></a></div><div class=\"Footer_Default_Message_DIV\">This site is a proud member of the Salem Web Network, a subsidiary of <a href=\"http://www.salem.cc/\" target=\"_blank\">Salem Communications Corporation</a>.  <br/> Other Salem Web Network sites include:</div><div class=\"Footer_Links_DIV\"><ul><li><a href=\"http://www.godtube.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Video - Godtube</a></li><li><a href=\"http://www.christianity.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christianity</a></li><li><a href=\"http://www.christianjobs.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Jobs</a></li><li><a href=\"http://www.churchstaffing.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Church Jobs</a></li><li><a href=\"http://www.crosscards.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Free Online ecards</a></li><li><a href=\"http://www.crossdaily.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Church Media</a></li><li><a href=\"http://www.crosswalk.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Living - Crosswalk</a></li><li><a href=\"http://www.crosswalkpastors.com\" rel=\"nofollow\" class=\"Default_Footer_Link\">Pastors</a></li><li><a href=\"http://www.lightsource.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Ministry Video</a></li><li><a href=\"http://www.oneplace.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Ministry Radio</a></li><li><a href=\"http://www.singingnews.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Southern Gospel Music News</a></li><li><a href=\"http://www.southerngospel.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Southern Gospel Online</a></li><li><a href=\"http://www.sermonsearch.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Free Sermons</a></li><li><a href=\"http://www.biblestudytools.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Bible</a></li><li><a href=\"http://www.crosswalk.com/who-is-jesus/\" rel=\"nofollow\" class=\"Default_Footer_Link\">Who is Jesus Christ</a></li><li><a href=\"http://todayschristianmusic.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Todays Christian Music</a></li><li><a href=\"http://www.christiancollege.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Colleges</a></li><li><a href=\"http://www.thefish.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Entertainment Reviews</a></li><li><a href=\"http://www.ccmmagazine.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic \" rel=\"nofollow\" class=\"Default_Footer_Link\">CCM Magazine </a></li><li><a href=\"http://www.christianmusicplanet.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Music Planet</a></li><li><a href=\"http://magazine.townhall.com/Featured?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Townhall Magazine</a></li><li><a href=\"http://www.preaching.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Preaching</a></li><li><a href=\"http://townhall.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Conservative Townhall</a></li><li><a href=\"http://www.xulonpress.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Christian Book Self Publishing</a></li><li><a href=\"http://www.youthworkerjournal.com/?utm_source=footer&utm_medium=link&utm_campaign=traffic\" rel=\"nofollow\" class=\"Default_Footer_Link\">Youth Ministry</a></li></ul></div><div class=\"Footer_Default_AD_Message_DIV\">Enjoy the websites of these GodTube.com sponsors:</div><div class=\"Footer_AD_Links_DIV\"><ul><li><a href=\"http://www.MyChristianCare.org \" rel=\"nofollow\" class=\"Default_Footer_Link\">Medi-Share</a></li><li><a href=\"http://www.ccci.org/\" rel=\"nofollow\" class=\"Default_Footer_Link\">Campus Crusade for Christ</a></li><li><a href=\"http://www.billygraham.org/\" rel=\"nofollow\" class=\"Default_Footer_Link\">BillyGraham.org</a></li><li><a href=\"http://goisrael.com/tourism_eng/deals/Pages/default.aspx\" rel=\"nofollow\" class=\"Default_Footer_Link\">Israel Ministry of Tourism</a></li><li><a href=\"http://www.luonline.com/\" rel=\"nofollow\" class=\"Default_Footer_Link\">Liberty University</a></li></ul></div><div class=\"Footer_Default_Legal_DIV\">Copyright &#169; 2012, GodTube.com. All rights reserved. Article Images Copyright &#169; 2012 JupiterImages Corporation.</div></div>");
     });
 
 </script>
@@ -223,10 +242,20 @@
 
     
     
-    
     <input type="hidden" id="RedirectJsonInput" value="">
 
     <script type="text/javascript">
+
+    $(document).ready(function () {
+            $(".popup").click(function (e) {
+                e.preventDefault();
+                var url = $(this).attr("href");
+                var providerWindow = window.open(url, "providerWindow", "location=1,status=1,scrollbars=1,width=900,height=625");
+                providerWindow.moveTo(100, 200);
+            });
+        });
+
+
         var _sf_async_config = { uid: 23131, domain: "godtube.com" };
         (function () {
             function loadChartbeat() {
@@ -246,8 +275,13 @@
 
     </script>
 
+    
+
+
 
 <!-- POWERED BY SALEM WEB NETWORK -->
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<script>    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+
+</body></html>
