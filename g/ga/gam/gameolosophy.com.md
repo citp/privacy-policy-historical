@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameolosophy.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100148id_/http%3A//gameolosophy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameolosophy.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105190019id_/http%3A//gameolosophy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gameolosophy
 
