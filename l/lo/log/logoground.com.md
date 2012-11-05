@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531003428id_/http%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105210754id_/http%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
 
 # LogoGround Privacy Policy
 
-Privacy Policy
+Privacy Policy 
 
 LogoGround.com does not collect personally identifiable information from you during your visit unless you offer such information when contacting LogoGround, creating an account or making a purchase.
 
