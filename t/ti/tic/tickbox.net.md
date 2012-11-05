@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006105934id_/http%3A//tickbox.net/dataprotection.php%3FSES%3D10e61c4951d04c79465848546accf91b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105032321id_/http%3A//tickbox.net/dataprotection.php%3FSES%3D158040892e0e4dbfff6a682c96d85194) for the most accurate reproduction.*
 
 # Tickbox.net surveys :: Welcome to Tickbox.net online surveys
 
