@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the freakify.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527054634id_/http%3A//freakify.com/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakify.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105185448id_/http%3A//freakify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Freakify.com | Learn Technology
 
-Update
-
-Privacy Policy for Freakify.com
+## Privacy Policy for Freakify.com
 
 At freakify.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by freakify.com and how it is used.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 freakify.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Privacy Policy
@@ -45,10 +43,4 @@ Our web sites contain links to other sites. Freakify.com is not responsible for 
 
 Note: This Page can get updated any time, without an prior noitce, so keep checking back.
 
-Last updated: 12th August,2011
-
-### [AhmadAwais](http://freakify.com/author/ahmadawais/ "AhmadAwais")
-
-I have been designing web pages since the early days of tables and spacers. And No – I've never used the scrolling marquee with Comic Sans fonts :P.Well, I am doing Electrical Engineering from U.E.T Lahore , but web development is the area of my deep interest .I can speak HTML, CSS, PHP, Assembly, C, C++(OOP), Visual Basic, Verilog, and MySQL etc.Personally I like tablets having Andriod OS in them.When not on the computer, I enjoy spending time with my family & Friends, taking pictures and drinking strong coffee. I blog at [Freakify.com](http://freakify.com/) .Connect With Ahmad Awais on [Google+](https://plus.google.com/102220710143180184553?rel=author),[ Facebook](http://facebook.com/ahmadawais) and [Twitter](http://twitter.com/mrahmadawais).
-
-[More Posts](http://freakify.com/author/ahmadawais/ "More posts by AhmadAwais") \- [Website](http://ahmadawais.tk/ "AhmadAwais") \- [Twitter](http://www.twitter.com/mrahmadawais) \- [Facebook](http://www.facebook.com/ahmadawais) \- [LinkedIn](http://www.linkedin.com/in/mrahmadawais) \- [Digg](http://www.digg.com/mrahmadawais)
+Last updated: 26th July,2012
