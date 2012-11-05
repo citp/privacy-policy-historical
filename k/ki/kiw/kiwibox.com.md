@@ -1,41 +1,216 @@
-> *The following text is extracted and transformed from the kiwibox.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513234623id_/http%3A//www.kiwibox.com/registration/dialog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwibox.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105045404id_/http%3A//www.kiwibox.com/registration/dialog/privacy) for the most accurate reproduction.*
 
-# | Kiwibox Community
+# | Kiwibox Community | Kiwibox Community
 
-**Privacy Policy** Your privacy is an important issue with us as it is with you. Our goal in collecting personal information from you upon registration is to provide   
-you, the user, with the best experience possible by targeting site content and advertisements to our audience. Your information is stored in our   
-database We will not sell, rent, or distribute any of the registration information that you provide to us without your prior consent. Please see,   
-however, “Your Information and Content Posted on our Website”, below.
-
-You should be aware that whenever you voluntarily give out any personally identifying information in chat, instant messenger, discussion areas   
-or elsewhere, that information can be collected and used by others. Personally identifying information includes your name, your home or other   
-physical address, e-mail address, telephone number, or any information that makes you identifiable. If you post any of this personally identifying   
-information in online areas that are accessible to the public, you may receive unsolicited messages from other parties in return. We cannot ensure   
-or warrant the security of any information you transmit to us, and you do so at your own risk. 
-
-Anyone under the age of 18 must obtain parental permission before giving out any personally identifying information or sending any information   
-to us. Children under age 13 must obtain parental permission to register on our site.
+**Privacy Policy**
 
 **  
-Your Information and Content Posted on our Website.  
-**
+**Your privacy is an important issue with us as it is with you. Our goal in collecting personal information from you upon registration is to provide  
+you, the user, with the best experience possible by targeting site content and advertisements to our audience. 
 
-You own all of the information such as text, photos and video you post on our Website. We call this information “Content”. You will control how   
-you want to share this Content with others through your “Privacy Settings” . If you voluntarily make your Content available to our Website,   
-including personal identifying information such as your name, your home or other physical address, e-mail address, telephone number, through   
-your “Privacy Settings” keeping in mind, however, that whenever you voluntarily give out any personally identifying information in discussion   
-areas or elsewhere, that information can be collected and used by others, you automatically: grant, and you represent and warrant that you have   
-the right to grant, to Kiwibox an irrevocable, non-exclusive, perpetual, royalty-free, worldwide license to use, copy, edit, perform, publicly display   
-and distribute such Content and to prepare derivative works of, or incorporate into other works, such Content and to grant and authorize sublicenses   
-of the Content. We call this a “Kiwibox License”. This Kiwibox License shall give us the right to freely use any ideas, concepts, know-how, or   
-techniques contained in your Content for any purpose whatsoever including, but not limited to, developing, manufacturing, or marketing products   
-incorporating such Content, and we may use your Content to compile demographics for the use of our Website in any manner that does not reveal   
-your identity. You will terminate our Kiwibox License when you delete your Content, unless you shared it with others who have not deleted this   
-Content. When you delete some or all of the Content, it is removed and not available to others but may continue to exist in backup copies for a   
-reasonable period of time. Remember, when you post Content to our Website it will be available to everyone, including people not on our Website   
-and we may not have control over what other people may do with your Content.  
+**  
+Data Protection Declaration  for the Online Platform of KIWIBOX**
 
-All of the services and functions we provide on or through our Website are “public”, not private, communications. Your use of any messenger   
-boards or instant messaging services we may provide to you on or through our Website, including chats, postings, conferences, and other   
-communications are not endorsed by us since we will not review, screen or approve such communications before they are sent. You are entirely   
-responsible and liable for all of your activities on Kiwibox.com
+This Data Protection Declaration serves to provide information about the type of data collected, saved and processed by KIWIBOX and how KIWIBOX guarantees protection and security of personal data.
+
+Kiwibox is an online social network ("General Interest Network Community") based on the principle that the members (hereinafter also: users) can provide correct information about themselves to other members or even non-registered users to a degree which can be individually determined at the user's free discretion. It is only in this way that a network such as KIWIBOX can function sensibly and correctly.
+
+The data collected during registration and use of our services, described in detail in this Declaration, helps to provide the various services offered by KIWIBOX to its users. The data and information posted by the members on KIWIBOX and uploaded texts, images or files (hereinafter collectively: data) in profiles or in contributions (e.g. in forums or guest books) can, with the exception of certain personal data – depending on the privacy settings – be viewed freely by third parties on KIWIBOX and also located by search engines. Since it is not possible to guarantee 100% protection of data on the Internet against unauthorized access by third parties (hackers) on the basis of the current state of the art, despite the highest possible security standards provided for by KIWIBOX by way of firewalls, which are constantly updated, and further protection measures, abuse by third parties cannot be completely excluded. Every user should always be aware of this. 
+
+**Note for minors**
+
+If you are younger than twelve (12) years old you may not register with KIWIBOX under any circumstances. However, if you are not fully aware of the consequences of publication of your personal data on the Internet you may not register with KIWIBOX either. This is because publication of your personal data on the Internet requires your prior consent. In order to be able to declare this consent independently you must have a certain ability to make rational judgments and a certain amount of personal maturity. You must therefore be in a position to assess the significance and consequences of consenting to data processing.
+
+The term "data processing" includes the collection, saving, amendment, transmission, blocking, deletion and use of your personal data, in particular also publication of your personal data on the Internet. Personal data includes all information about your person (e.g. name, age, place of residence, photos, etc.).
+
+You will be considered unable to make the rational decisions necessary for the declaration of consent if you are not yet twelve (12) years old or if you are unable to appreciate in full the consequences of data processing.
+
+Please therefore read through this Data Protection Declaration carefully. Should you be in doubt about whether you completely understand the significance and consequences of consenting to data processing, you should ask your parents or guardians to explain the scope and consequences of consenting in detail. You should also ask them whether they agree to you registering with KIWIBOX.
+
+**  
+1\. Required data on registration (mandatory information)**
+
+1.1 When registering the users must provide the following minimum information:
+
+  * User name
+  * Gender
+  * Date of birth
+  * Place of residence, postcode, country
+  * E-mail address and repeat e-mail address
+  * Password and repeat password
+
+
+
+1.2 Of this mandatory data input during registration, only the following details can be seen in the user's "Profile":
+
+  * User name
+  * Gender
+  * Age (calculated from the date of birth)
+  * Place of residence
+
+
+
+1.3 Whether third parties can see your surname, first name (real names) and your exact date of birth depends on your privacy settings (no. 3). The other mandatory information, e-mail address and password, obviously remains confidential, is stored in an encrypted manner and serves primarily the management of the member account by KIWIBOX. This data cannot be seen by third parties.
+
+**  
+2\. Voluntary information**
+
+2.1 In addition to the mandatory information each registered member can, independently and at his own free discretion, provide numerous voluntary items of information about his person, upload a profile photo and much more. This voluntary information is not necessary for use of KIWIBOX but definitely increases the attractiveness of one's own profile and thus the chance of coming into contact with other users. Each user is completely free to decide what additional personal data he wants to disclose about himself and make accessible to other users.
+
+2.2 The voluntary information which the member can post in his profile includes, e.g.:
+
+  * Company name and logo
+  * Marital status
+  * Children (if any)
+  * Nationality
+  * Smoker (if applicable)
+  * Education
+  * Profession
+  * Favorite music
+  * Activities
+  * Schools attended, etc.
+
+
+
+2.3 Furthermore, each member can include extensive free descriptions about his person and likes and dislikes of all kinds, upload individual photos or even create whole photo albums, link videos, set up and update a blog as his own online diary, etc.
+
+**  
+3\. Privacy settings (optional)**
+
+3.1 Each member can freely manage access to his own data under Privacy Settings (<http://www.kiwibox.com/about/privacy/>) The following can be decided at the member's free discretion:
+
+  * whether third parties can see his/ her last and first names (real names),
+  * whether search engines should be able to locate his profile, particularly his real names (last and first name),
+  * who may see what type of content of his own profile,
+  * who or which groups of persons may write messages or e-mails,
+  * who can write in his own guest book or link pictures therein,
+  * who may read his own guest book,
+  * who may request to be friends,
+  * who may look at his own photo and/or picture galleries,
+  * what age groups can view his/ her profile.
+
+
+
+3.2 When deciding which persons may view individual data and information, the member can choose between four (4) options:
+
+  * Everyone (even non-registered users of KIWIBOX - this option does not include releasing the profile for search engines which is only possible when the member makes a separate request to this effect).
+  * Members (everyone who is registered as a member on KIWIBOX)
+  * Friends (who the member has already confirmed on KIWIBOX)
+  * Nobody (absolutely nobody)
+
+
+
+3.3 The member may also further restrict the ways in which he/ she can be contacted (guest book entries, messages, e-mails and friendship requests) and the access to blogs and photo albums) by selecting a maximum and/or minimum age for authorized persons.
+
+3.4 Further, the member can modify the KIWIBOX-internal search options (in the KIWIBOX search functions) so that he/ she can only be found under his/ her user name or his/ her name, last name and/or e-mail address. Names, last names and e-mail addresses cannot be seen by third parties in principle even if these parameters are approved for searches; names and last names only if the member has published his real name as voluntary information on KIWIBOX.
+
+3.5 Last but not least each member can determine at his own free discretion whether friends should be automatically informed about circumstances which are not generally accessible, e.g. about profile visits, new friends, etc.
+
+**  
+4\. Purpose**
+
+The purpose of collecting, saving, processing and using the personal data  **mentioned in 1. to 3. above**  is to enable operation and continued operation of the online platform of KIWIBOX.
+
+**  
+5\. Forwarding data to third parties**
+
+5.1 KIWIBOX does not pass on personal data of users to third parties in principle unless the user has given his prior express consent or there is a statutory requirement to pass on information. If the user grants his/ her consent he/ she may revoke it at any time with effect for the future by way of a simple message in text format (e-mail, fax, letter). The revocation right and the address to which such a revocation should be sent is expressly notified to the user when he grants his/ her consent.
+
+5.2 On the basis of statutory provisions KIWIBOX may and must provide information in the individual case on written request by the competent authorities (in particular criminal prosecution authorities) regarding inventory and/or user data (the latter in principle only if there is a court order to this effect), where this is necessary for the purpose of criminal prosecution, to avert danger by the police authorities of the State in question, the United States government, the Federal Bureau of Investigation or the Military Counterintelligence Agency or to enforce rights in intellectual property.
+
+**  
+6\. Creation of user profiles**
+
+6.1 In order to continually improve the range of services offered by KIWIBOX, e.g. to set up new rubrics or offers, KIWIBOX can analyze the behavior of its users on the network and set up anonymous user profiles for this purpose. The evaluation of these user profiles is not user-specific, i.e. the identity of the user remains unknown. KIWIBOX warrants, both on the basis of technical and also personal and organizational considerations, that the anonymous user profiles cannot be combined with the personal data of users.
+
+6.2 KIWIBOX can set up pseudo anonymous user profiles (user names) for purposes of advertising, market research or designing demand-driven media services. These pseudo anonymous user profiles cannot be combined with data about the carrier of the pseudonym. KIWIBOX also warrants these both from technical, personal and organizational points of view.  **The user may at any time object to the creation of pseudo anonymous user profiles for the future by way of a message in text form (letter, fax, e-mail).**  
+
+ _The objection should be sent to: KIWIBOX.com Inc.  
+330 W 38th St Suite 1602  
+New York, NY 10018_
+
+**  
+7\. Advertising**
+
+7.1 KIWIBOX includes advertising of third parties on its WebPages which can be tailor-made to the suspected special interests of the user. Exclusively irreversible anonymous data is used in this type of "personal" advertising. Anonymous data processed for this purpose is not/no longer personal data and thus does not allow any conclusions to be drawn about the identity of the person concerned. KIWIBOX can transmit such anonymous data to its own media partners. In these cases KIWIBOX does not transmit to its partners any information which could make identification possible.
+
+7.2 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+
+**  
+8\. Cookies**
+
+8.1 Cookies are small text files which are either temporarily saved in the user memory (session cookies) or permanently saved on the hard disk (permanent cookies). The session cookies only saved in the user memory automatically close when the Internet browser program is closed. By using cookies users are allocated anonymous user IDs but no programs are run on or computer viruses transmitted to the computer of the user.
+
+8.2 Each user is free to decide, by setting his Internet browser program accordingly, whether he/ she wants to enable cookies, to be informed each time a cookie is enabled or whether he/ she wants to refuse all cookies. However, KIWIBOX wishes to point out that the use of the range of services offered by KIWIBOX is not possible or only possible to a restricted degree if cookies are refused.
+
+8.3 KIWIBOX uses session cookies to authenticate the user during a session and to compensate for the server capacity load of KIWIBOX. Cookies are thus used to guarantee smooth operation and to improve the range of services offered by KIWIBOX.
+
+8.4 KIWIBOX also uses permanent cookies which concern the last KIWIBOX pages viewed and the respective region in which the user's computer is located. Moreover, KIWIBOX uses so-called intelligent cookies (e.g. pop up check) to prevent certain pop ups opening several times within one session. This increases surfing comfort on KIWIBOX.
+
+8.5 This website uses Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses so-called "cookies", text files which are saved on your computer and which make it possible to analyze your use of the website. The information generated by the cookie regarding your use of the website (including your IP address) is transmitted to a Google server in the USA and saved there. Google uses this information to evaluate your use of the website in order to compile reports about the website activities for the website operators and in order to provide services connected with use of the website and use of the Internet. Google may transfer this information to third parties where this is required by statute or where third parties process this data on Google's behalf. Under no circumstances will Google bring your IP address into contact with other data. You can prevent cookies being installed by setting your browser software accordingly: however, we wish to point out that you may be unable to use all functions of this website in full in this case. By using this website you declare that you consent to the processing of the data collected about you by Google in the above-described manner and for the above-described purpose.
+
+**  
+9\. Automatic login**
+
+Where a member actively selects the option "SAVE LOGIN", when logging in to KIWIBOX by actively clicking on a corresponding box, the computer of the member concerned saves his/ her access data on this computer. The member is then automatically logged in to KIWIBOX as soon as KIWIBOX is open in his browser.  **For security reasons and in order to avoid unauthorized persons obtaining access to your own profile, this option should only be selected if you can be certain that nobody else has access to this computer.**  This function should thus never be selected in Internet cafes or on other computers accessible to the public such as in schools. The member's attention is drawn to these security issues again separately when selecting this option. In any case the data is encrypted (SSL certificate) during login.
+
+**  
+10\. Server Log Files ("logs")**
+
+10.1 Every time a page is retrieved by the user, his Internet browser transmits access data which is automatically saved in log files, so-called Server Log Files, of KIWIBOX. The log files contain the following information: IP address, by way of which the computer (but not the user) can be identified, remote host (name and IP address of the computer requesting the page), user name, data, time, website requested (URL), volume of data transmitted and, where appropriate, the URL from which the user has arrived at the KIWIBOX page (referrer) and product and version information of the browser used (user agent). KIWIBOX does not, as a matter of principle, combine this data with other data sources, in particular with personal user information.
+
+**10.2 Certain data which is input during login (IP address, user name, date, login successful or not, type of browser) is saved by KIWIBOX for a maximum of seven (7) days. The user declares his express consent hereto by accepting this Data Protection Declaration.**
+
+10.3 All further logs which arise during a session (in particular IP address, user name, data, URL requested) are only saved for a few days, up to a maximum of one week, by KIWIBOX in order to guarantee security of the network.
+
+10.4 KIWIBOX generates so-called backups to secure the databases which are overwritten after approx. four weeks and thus finally deleted. Where these backups contain log files, these are also deleted. In the event of complete deletion of a user profile, the log files are also deleted. KIWIBOX uses the standardized "combined" log file format of the Apache web server for this purpose. KIWIBOX uses the logs anonymously, i.e. without allocation or reference to the person of the user, for statistical evaluations. In this way KIWIBOX can, e.g. find out on which days and at what times the services offered by KIWIBOX are particularly popular and the data volume generated. Furthermore, KIWIBOX can detect possible errors through the log files, e.g. faulty links or programming errors and thus use the log files to further develop the website. KIWIBOX does not link the page requests saved in the server log with individual persons. However, KIWIBOX reserves the right to use the log files to subsequently verify the last known IP address of such users with respect to which there is a suspicion, as a result of certain facts, that these are using the KIWIBOX website and/or the services offered by KIWIBOX illegally or in breach of contract. This primarily serves to protect the members of KIWIBOX and the protection of their personal information.
+
+**  
+11\. Data protection**
+
+11.1 The aim of the firewalls and other security systems used by KIWIBOX, which are constantly updated, is to protect the user as far as possible against viruses, worms, Trojans, etc. and also from illegal access by third parties (hackers). KIWIBOX shall maintain a reasonable level of protection and adjust the security technologies used in accordance with the current state of technical development. However, the user should still be aware of the fact that, as a result of the fact that new viruses, worms, Trojans and other means of attacking secure systems of Internet services are being discovered all the time, one hundred per cent protection against such attacks is impossible.
+
+11.2 KIWIBOX is not responsible for virus protection outside of the KIWIBOX network. KIWIBOX is not responsible for damage or destruction of user data either. KIWIBOX shall prosecute every attack by a hacker or similar under civil and, where appropriate, criminal law.
+
+**  
+12\. Information**
+
+Every user has the right to receive free information from KIWIBOX about the personal information saved about his person. The information request should be sent to: KIWIBOX, 330 W 38th St Suite 1602, New York, NY 10018. To avoid unauthorized requests, a certified copy of an official and valid identity card/ license/ passport should be attached to the information request. The information will be sent by post to the address given in the identity card of the user.
+
+**  
+13\. Correction, blocking and deleting data and profiles**
+
+13.1 Where the user changes or corrects data provided by him and in doing so deletes old entries, the data formerly posted by him will be irreversibly and completely deleted. There is no need to apply for correction or deletion. Irrespective of this, the user has a right at all times to demand correction of incorrect data about his person saved on KIWIBOX. The simplest option for the user is for him/ her to change his/ her entries himself/ herself.
+
+13.2 If the user finally deletes his entire profile and thus his membership of KIWIBOX, all data formerly posted by him in his profile will be automatically completely deleted. Excluded from deletion is the length of the membership, where appropriate the reason the membership was terminated and anonymous statistical data regarding the previous user behavior. Contributions to forums are also retained but marked "unknown" since they could form the basis of a discussion. Irrespective of this, the user has a right at all times to demand deletion of all personal data about him saved on KIWIBOX. The simplest option in this case too is for the user to change his/ her entries himself/ herself.
+
+13.3 The former user name and e-mail address remain saved whenever the profile is deleted and blocked for further use on KIWIBOX in order to avoid abuse. The user name can only be used again when registering with KIWIBOX after an expiration of four (4) weeks.
+
+13.4 If the user wishes to request an amendment, correction or deletion of his personal data, he may do so by letter, fax or e-mail. The request should be sent to: LETTER: KIWIBOX, 330 W 38th St Suite 1602, New York, NY 10018; E-MAIL: info@kiwibox.net. In order to avoid unauthorized requests the request must contain at least the following information/documents:
+
+  * User name
+  * Last name
+  * First name
+  * E-Mail
+  * Address
+  * Copy of identity card (valid passport or identity card)
+  * In the case of minors without their own valid identity card: copy of identity card and copy of the birth certificate
+
+
+
+13.5 KIWIBOX wishes to point out that it may still be possible to request deleted data for up to 72 hours owing to caching systems and the interposition of proxy servers.
+
+13.6 In the event of abuse of the services offered by KIWIBOX by users, KIWIBOX is entitled to temporarily block or completely delete the entire profile of the responsible user. In the event that a profile is blocked, the user concerned will be unable to access his/ her profile and all data saved under it with the exception of his/ her age, sex, town and profile image.
+
+**  
+14\. Protection of minors**
+
+14.1 KIWIBOX takes the protection of minors very seriously. However, KIWIBOX is unable to verify the actual age of a member, i.e. an adult can claim to be a young person and a young person can claim to be an adult. In addition to active monitoring of the site by the Kiwibox team and its Online Manager, the following rules and measures thus apply with respect to the protection of minors:
+
+  * Members registered as adults are unable to directly contact young persons under the age of 16. Members under the age of 16 will not be shown or cannot be found in the member database, the online catalogue and in many other places by adult users.
+  * Advertising and content unsuitable for children and young people in the forum (18+/21+) will not be visible to them.
+  * KIWIBOX cooperates with standards set forth by the United States Government in the interest of constantly improving the protection of minors.
+
+
+
+14.2 KIWIBOX has taken requisite measures per government and social media standards to protect children and young people in the KIWIBOX network. Questions of comments regarding these procedures should be directed towards KIWIBOX’s Online Support by Email: info@kiwibox.net
