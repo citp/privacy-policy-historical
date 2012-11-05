@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digicelgroup.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618181629id_/http%3A//www.digicelgroup.com/en/help_faqs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digicelgroup.com privacy policy that was archived on 2012-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105102904id_/http%3A//www.digicelgroup.com/en/help_faqs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -135,18 +135,39 @@ function hideAdvert() {
       var jq2 = jQuery.noConflict();
     
       jq2(document).ready(function () {
-      
      
-		jq2(".datacalc").fancybox({
-			'width'           	: 750,
-			'height'            : 550,
-			'padding'           : 10,
-			'autoScale'     	: false,
-			'autoDimensions'    : false,
-			'transitionIn'		: 'none',
-			'transitionOut'		: 'none'
-		});       
+    		jq2(".datacalc").fancybox({
+    			'width'           	: 750,
+    			'height'            : 550,
+    			'padding'           : 10,
+    			'autoScale'     	: false,
+    			'autoDimensions'    : false,
+    			'transitionIn'		: 'none',
+    			'transitionOut'		: 'none'
+    		});   
+    		
+    		jq2("a.datacalc_iframe").fancybox({
+    		  'type': 'iframe',
+    			'width'           	: 750,
+    			'height'            : 550,
+    			'autoScale'     	: false
+    		});      		
+        
+    		jq2(".fancybox").fancybox();         
+        
+      });
       
+    </script>     
+    
+    
+   
+
+    
+    <script type="text/javascript">
+    
+      var jq_flange = jQuery.noConflict();
+    
+      jq_flange(document).ready(function () {
        
         var displayCount = getCookie("flange");
         
@@ -154,21 +175,21 @@ function hideAdvert() {
         
         if(!splashToBeDisplayed) {
           if(!displayCount) {
-            jq2('#flange_v2').slideDown('slow');
+            jq_flange('#flange_v2').slideDown('slow');
           }
         }
           
-        jq2('#flange_v2_close').click(function() {
-           jq2('#flange_v2').slideUp('slow');
+        jq_flange('#flange_v2_close').click(function() {
+           jq_flange('#flange_v2').slideUp('slow');
            setCookie("flange", 1, 1);
            return false;
         });
         
       });
       
-    </script>    
-
+    </script>     
     
+      
     
     
     
@@ -214,6 +235,8 @@ function hideAdvert() {
 
 
 
+
+<!-- test URI /en/help_faqs/privacy -->
 
 <div id="graphic-hover">
 	<div id="graphic-hover-close">
@@ -345,20 +368,16 @@ function hideAdvert() {
                                         <a style="background:url(/assets/img/GRP/markets/pcf.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicelpacific.com" title="Group Pacific">
                                           Group Pacific                                        </a>                                        
                                         
-							                                         
-                                        <a style="background:url(/assets/img/GRP/markets/gya.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicelguyana.com" title="Guyana">
-                                          Guyana                                        </a>                                        
-                                        
 							 							     </td>
 							     <td class="right" style="width:50%">
 							     
 							                                             
-                                        <a style="background:url(/assets/img/GRP/markets/hai.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicelhaiti.com" title="Haiti">
-                                          Haiti                                        </a>                                        
+                                        <a style="background:url(/assets/img/GRP/markets/gya.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicelguyana.com" title="Guyana">
+                                          Guyana                                        </a>                                        
                                         
 							                                         
-                                        <a style="background:url(/assets/img/GRP/markets/hnd.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicel.hn" title="Honduras">
-                                          Honduras                                        </a>                                        
+                                        <a style="background:url(/assets/img/GRP/markets/hai.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicelhaiti.com" title="Haiti">
+                                          Haiti                                        </a>                                        
                                         
 							                                         
                                         <a style="background:url(/assets/img/GRP/markets/jam.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digiceljamaica.com" title="Jamaica">
@@ -456,7 +475,6 @@ function hideAdvert() {
 <li id="nav_3">
 <a href="http://www.digicelgroup.com/en/services" title="Services">Services</a><ul>
 <li><a href="http://www.digicelgroup.com/en/services/digicel-online-top-up" title="Digicel Online Top Up"> Digicel Online Top Up</a></li>
-<li><a href="http://www.digicelgroup.com/en/services/per-second-billing" title="Per Second Billing"> Per Second Billing</a></li>
 <li><a href="http://www.digicelgroup.com/en/services/digicel-live" title="Digicel Live" class="parent">Digicel Live</a><ul>
 <li><a href="http://www.digicelgroup.com/en/services/digicel-live/gprs-settings" title="GPRS settings"> GPRS settings</a></li>
 </ul>
@@ -468,17 +486,25 @@ function hideAdvert() {
 </li>
 <li id="nav_4">
 <a href="http://www.digicelgroup.com/en/media-center" title="Media Center">Media Centre</a><ul>
-<li><a href="http://www.digicelgroup.com/en/media-center/waves" title="Waves"> Waves</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/media-pr-contact" title="Media &amp; PR Contact"> Media &amp; PR Contact</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/waves" title="WAVES"> WAVES</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases" title="Press Releases" class="parent">Press Releases</a><ul>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements" title="Achievements" class="parent">Achievements</a><ul>
-<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-leads-project-to-deliver-high-capacity-undersea-cable-to-haiti" title="- US$16m ‘Fibralink’ Extension will Reconnect Haiti to the Global Economy through Broadband Services from July 2012"> DIGICEL LEADS PROJECT TO DELIVER HIGH-CAPACITY UNDERSEA CABLE TO HAITI</a></li>
-<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-limited-annnounces-strong-financial-results-with-us1.1-billion-ebitda-for-the-year-ended-31-mar" title="US$1.1 BILLION EBITDA FOR THE YEAR ENDED 31 MARCH 2012"> DIGICEL GROUP LIMITED ANNNOUNCES STRONG FINANCIAL RESULTS WITH  US$1.1 BILLION EBITDA FOR THE YEAR ENDED 31 MARCH 2012</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicels-tchotcho-mobile-reaches-the-5-million-transactions-milestone-monitored-by-haiti-mobile-money-initiat" title="DIGICEL’S TCHOTCHO MOBILE REACHES THE 5 MILLION TRANSACTIONS MILESTONE MONITORED BY “HAITI MOBILE MONEY INITIATIVE” (HMMI)"> DIGICEL’S TCHOTCHO MOBILE REACHES THE 5 MILLION TRANSACTIONS MILESTONE MONITORED BY “HAITI MOBILE MONEY INITIATIVE” (HMMI)</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-acquires-voil-in-haiti" title="Digicel Group, the best value mobile operator in the Caribbean, Central America and Pacific, has acquired Haitian mobile operator, Voilà,"> DIGICEL GROUP ACQUIRES VOILÀ IN HAITI</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-limited-annnounces-strong-financial-results-with-us1.1-billion-ebitda-for-the-year-ended-31-mar" title="US$1.1 BILLION EBITDA FOR THE YEAR ENDED 31 MARCH 2012"> DIGICEL GROUP LIMITED ANNNOUNCES STRONG FINANCIAL RESULTS WITH  US$1.1 BILLION EBITDA FOR THE YEAR ENDED 31 MARCH 2012</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-and-government-of-antigua-and-barbuda-open-the-gate-to-lte" title="Multi-million dollar partnership will build broadband internet connectivity and create jobs for youth in Antigua and Barbuda"> DIGICEL AND GOVERNMENT OF ANTIGUA AND BARBUDA OPEN THE “GATE” TO LTE</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-leads-project-to-deliver-high-capacity-undersea-cable-to-haiti" title="- US$16m ‘Fibralink’ Extension will Reconnect Haiti to the Global Economy through Broadband Services from July 2012"> DIGICEL LEADS PROJECT TO DELIVER HIGH-CAPACITY UNDERSEA CABLE TO HAITI</a></li>
 </ul>
 </li>
-<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services" title="Products &amp; Services"> Products &amp; Services</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services" title="Products &amp; Services" class="parent">Products &amp; Services</a><ul>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/m-via-pioneer-in-mobile-banking-for-the-unbanked-raises-17-million-changes-name-to-boom-financial" title="New Investor Digicel Group Bolsters Boom Financial’s Position as the Premier Mobile Banking and Money Transfer Service for U.S. Immigrants"> m-Via, Pioneer in Mobile Banking for the Unbanked, Raises $17 Million; Changes Name to Boom Financial</a></li>
+</ul>
+</li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship" title="Sponsorship" class="parent">Sponsorship</a><ul>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/usain-bolt-speaks-with-digicel-the-worlds-fastest-man-tells-digicel-what-the-world-can-expect-from-him-hours-b" title="USAIN BOLT SPEAKS WITH DIGICEL"> USAIN BOLT SPEAKS WITH DIGICEL</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/shelly-ann-fraser-pryce-live-from-london" title="SHELLY-ANN FRASER-PRYCE LIVE FROM LONDON"> SHELLY-ANN FRASER-PRYCE LIVE FROM LONDON</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-launches-youth-initiative-with-chelsea-football-club" title="DIGICEL LAUNCHES YOUTH INITIATIVE WITH CHELSEA FOOTBALL CLUB"> DIGICEL LAUNCHES YOUTH INITIATIVE WITH CHELSEA FOOTBALL CLUB</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-launches-unprecedented-marketing-campaign-inviting-customers-to-feature-in-tv-and-press-ads-alongside-" title="Customers invited to join Usain Bolt in “The Run To London”"> DIGICEL LAUNCHES UNPRECEDENTED MARKETING CAMPAIGN INVITING CUSTOMERS TO FEATURE IN TV AND PRESS ADS ALONGSIDE USAIN BOLT</a></li>
 </ul>
 </li>
@@ -729,5 +755,5 @@ Digicel reserves the right to amend or modify this Privacy Policy Statement at a
   }
   </script>  
 			
-<!-- cached on:Monday 18th of June 2012 02:07:47 PM -->
+
 <div id="lbOverlay" style="visibility: hidden; zoom: 1; opacity: 0;"></div><div id="lbCenter" style="width: 250px; height: 250px; margin-left: -125px; display: none;"><div id="lbImage"><a id="lbPrevLink" href="#" style="display: none;"></a><a id="lbNextLink" href="#" style="display: none;"></a></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>
