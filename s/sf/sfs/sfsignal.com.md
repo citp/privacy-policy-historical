@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfsignal.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512025528id_/http%3A//www.sfsignal.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfsignal.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106001007id_/http%3A//www.sfsignal.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SF Signal – A Speculative Fiction Blog
+# Privacy Policy - SF Signal - SF Signal
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sfmgmt (at) sfsignal.com.
 
