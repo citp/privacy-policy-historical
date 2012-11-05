@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fibogroup.com privacy policy that was archived on 2012-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526010728id_/http%3A//fibogroup.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fibogroup.com privacy policy that was archived on 2012-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105080921id_/http%3A//www.fibogroup.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DtdXHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<link rel="shortcut icon" href="/favicon.ico">
@@ -10,7 +10,7 @@
     <meta name="Description" content="">
     <meta name="webmoney.attestation.label" content="webmoney attestation label#342C9EB2-C161-4241-B992-926FBF9732B4">
     <!--<script language="JavaScript" src="/js/jquery.js"></script>-->
-    <script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
     <script language="JavaScript" src="/js/jquery.form.js"></script>
     <script language="JavaScript" src="/js/jquery.cookie.js"></script>
     <script language="JavaScript" src="/js/validatorForm.js"></script>
@@ -30,6 +30,7 @@
     <script language="JavaScript" src="/js/function.js"></script>
     <link rel="stylesheet" href="/styles/print.css" type="text/css" media="print">
     <link rel="stylesheet" href="/styles/styles.css?2" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="/styles/flags.css" type="text/css" media="screen, projection">
     <link rel="stylesheet" href="/styles/styles2.css?1" type="text/css" media="screen, projection">
     <link rel="stylesheet" href="/styles/thermo.css" type="text/css" media="screen, projection">
     <link rel="stylesheet" href="/styles/jquery.lightbox-0.5.css" type="text/css" media="screen">
@@ -48,8 +49,11 @@
     <script type="text/javascript" src="http://fibo.ru/lib/amstock/jquery.amstock.php"></script>
 
     <script type="text/javascript" src="/js/JsHttpRequest/js.js"></script>
-	
-<!-- time -->
+
+    <!-- turn off Skype plugin -->
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+    <!-- time -->
     <link rel="stylesheet" href="/js/time_synchronizer/css/style.css" type="text/css" media="screen, projection">
     <!--<link rel="stylesheet" href="/js/time_synchronizer/css/ui-lightness/jquery-ui-1.8.16.custom.css" type="text/css" media="screen, projection" />-->
     <link rel="stylesheet" href="/js/time_synchronizer/css/jScrollPane.css" type="text/css" media="screen, projection">
@@ -59,11 +63,20 @@
     <script type="text/javascript" src="/js/time_synchronizer/js/jquery.mousewheel.min.js"></script>	
     <script type="text/javascript" src="/js/time_synchronizer/js/jquery.tabSlideOut.v1.2.js"></script>
     <script type="text/javascript" src="/js/time_synchronizer/js/general.js"></script>
-	
-<!-- form real_account -->
-	<link rel="stylesheet" type="text/css" href="/js/datepicker/jquery-ui-1.7.3.custom.css">
-	<script type="text/javascript" src="/js/datepicker/jquery-ui-1.7.3.custom.min.js"></script>
-	
+
+    <!-- form real_account -->
+    <link rel="stylesheet" type="text/css" href="/js/datepicker/jquery-ui-1.7.3.custom.css">
+    <script type="text/javascript" src="/js/datepicker/jquery-ui-1.7.3.custom.min.js"></script>
+
+	<!-- login form -->
+	<script type="text/javascript" src="/js/loginform.js"></script>
+
+	<!--[if lte IE 7]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie.css" />
+	<![endif]-->
+<!--  FIBO Tracker-->
+<script type="text/javascript" src="http://stat.fibo.ru/tracker.js" id="fibo_tracker"></script>
+<!-- /FIBO Tracker-->
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=24636735"></script></head>
 
 <body onload="init()" class=" yui-skin-sam">
@@ -79,55 +92,111 @@ pageTracker._setAllowLinker(true);
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<div id="left">
-  <div id="logo" class=""><a href="/"><img src="/images/logo.gif" alt="FIBO Group Ltd." width="182" height="64"></a></div>
-    <script language="JavaScript" src="/js/common.js"></script>
-<script language="JavaScript" src="/js/thermo3.js"></script>
+<div id="container">
+	<div id="left">
+		  <div id="logo" class=""><a href="/"><img src="/images/logo.png" alt="Fibo Group Ltd." width="70" height="70"></a></div>
 
-<ul class="thermo">
+<div id="top">
+          <div id="main_menu">
+            <ul>
+                            <li>
+                <a id="2" class="button button_grey" href="/beginners.html">
+                  <span class="shadow">Beginners                     <span class="text">Beginners </span>
+                  </span>
+                </a>
+                <div id="tosubmenu_2" class="tosubmenu"></div>
+                <ul id="submenu_2">
+			<li><a href="/beginners.html">Beginners </a> |</li>
+                  <li><a href="/beginners/how_start.html">How-to?</a> |</li><li><a href="/beginners/about_forex.html">About Forex</a> |</li><li><a href="/beginners/about_cfd_trading.html">About CFD trading</a> |</li><li><a href="/beginners/attempt.html">Have a try </a> |</li><li><a href="/beginner/trade_futures.html">About Futures &amp; Options trading</a></li>                </ul>
+              </li>
+                            <li>
+                <a id="3" class="button button_grey" href="/traders.html">
+                  <span class="shadow">Traders                     <span class="text">Traders </span>
+                  </span>
+                </a>
+                <div id="tosubmenu_3" class="tosubmenu"></div>
+                <ul id="submenu_3">
+			<li><a href="/traders.html">Traders </a> |</li>
+                  <li><a href="/traders/accounts_types.html">Types of trading accounts</a> |</li><li><a href="/traders/forex.html">Forex </a> |</li><li><a href="/traders/cfd.html">CFD</a> |</li><li><a href="/trader/futures.html">Futures &amp; Options</a> |</li><li><a href="/traders/account_transactions.html">Account transactions </a> |</li><li><a href="/trader/graphics.html">On-line charts</a> |</li><li><a href="/trader/analytics.html">Analytics</a> |</li><li><a href="/trader/pamm.html">PAMM account</a> |</li><li><a href="/traders/replenishment.html">Deposit funds</a> |</li><li><a href="/traders/withdraw.html">Withdraw funds</a> |</li><li><a href="/traders/dealsmart.html">DealSmart</a> |</li><li><a href="/traders/platform.html">Тrading Platforms</a> |</li><li><a href="/traders/download_quotes.html">History Center</a> |</li><li><a href="/trader/tradency.html">Automated Trading</a> |</li><li><a href="/trader/mt4nddpromo.html">PAMM account MT4 NDD</a></li>                </ul>
+              </li>
+                            <li>
+                <a id="4" class="button button_grey" href="/partner-programs.html">
+                  <span class="shadow">Partner programs                     <span class="text">Partner programs </span>
+                  </span>
+                </a>
+                <div id="tosubmenu_4" class="tosubmenu"></div>
+                <ul id="submenu_4">
+			<li><a href="/partner-programs.html">Partner programs </a> |</li>
+                  <li><a href="/partner-programs/anketa.html">IB application form</a></li>                </ul>
+              </li>
+                            <li>
+                <a id="5" class="button button_grey" href="/interested.html">
+                  <span class="shadow">About                    <span class="text">About</span>
+                  </span>
+                </a>
+                <div id="tosubmenu_5" class="tosubmenu"></div>
+                <ul id="submenu_5">
+			<li><a href="/interested.html">About</a> |</li>
+                  <li><a href="/interesting/who_we.html">Who we are </a> |</li><li><a href="/interesting/what_we_do.html">What we do</a> |</li><li><a href="/interesting/feedback.html">Feedback</a> |</li><li><a href="/interesting/our_news.html">Our news</a> |</li><li><a href="/interesting/contacts.html">Contacts</a> |</li><li><a href="/interested/disclaimer.html">Disclaimer</a> |</li><li><a href="/interesting/informers.html">Informers</a> |</li><li><a href="/fibogroup/action.html">Current promotions</a></li>                </ul>
+              </li>
+                          </ul>
+          </div>
+</div>
 
+<script type="text/javascript">
 
-</ul>
+      /*Р—Р°Р»РёРїР°РЅРёРµ СЃРµСЂРѕР№ РєРЅРѕРїРєРё*/
+      $('.button_grey').mousedown(function(){
+        $(this).css('background-position','0 -60');
+      });
+      $('.button_grey').mouseup(function(){
+        $(this).css('background-position','0 0');
+      });
+      $('.button_grey').mouseenter(function(){
+        $(this).css({'padding-top':'4px','padding-bottom':'1px'});
+        $(this).find('.shadow').css('padding-right', '2px');
+      });
+      $('.button_grey').mouseleave(function(){
+        $(this).css({'padding-top':'5px','padding-bottom':'0px'});
+        $(this).find('.shadow').css('padding-right', '0px');
+      });
+	  
+	  var menu_id = 0;
 
-<div class="thermo-nav">
-    
-      <ul id="thermoid6">
-        
-        
-          <li><a href="/beginners.html"><noindex>Beginners </noindex></a></li>
-            
-        
-          <li><a href="/traders.html"><noindex>Traders </noindex></a></li>
-            
-        
-          <li><a href="/partner-programs.html"><noindex>Partner programs </noindex></a></li>
-            
-        
-          <li><a href="/interested.html"><noindex>For Those who are interested</noindex></a></li>
-            </ul>
-        
-      <ul id="thermoid661">
-        
-        
-          <li><a href="/get_quotes.html"><noindex>Quotes</noindex></a></li>
-            
-        
-          <li><a href="/quotes.html"><noindex>quotes settings</noindex></a></li>
-            </ul>
-        
-  
-</div>	
-	
+      $('.button_grey').hover(
+        function() {
+          var id = $(this).attr('id');
+          $('#tosubmenu_'+id).show();
+          $('#submenu_'+id).show();
+          if (menu_id != id && menu_id != 0) {
+            $('#tosubmenu_'+menu_id).hide();
+            $('#submenu_'+menu_id).hide();
+          }
+          menu_id = id;
+        },
+        function() {}
+      );
 
+      $('#main_menu').hover(
+        function() {},
+        function() {
+          $('#tosubmenu_'+menu_id).hide();
+          $('#submenu_'+menu_id).hide();
+        }
+      );
+     
+</script>		  <script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/thermo3.js"></script>
 
-
-	
-<div id="left-content">
-<div id="content">
+  <ul class="thermo">
+  <span style="color: #505050;">Privacy policy</span></ul><br><br>
+	<div id="left-content">
+	<div id="content">
+				
+			<h1 class="head">FIBO Group Privacy Policy</h1>
 			
-		<h1 class="head">FIBO Group Privacy Policy</h1>
-		
-			<h2>General Provisions</h2>
+
+				<h2>General Provisions</h2>
 <p>The International Financial Holding FIBO Group (hereinafter referred to as “FIBO Group”) highly appreciates the relationships with the existing and potential clients (hereinafter referred to as “Clients”) and visitors of the FIBO Group Internet resources, and understands the importance of security and privacy of their personal data.</p>
 <p>FIBO Group operates in full compliance with the International Safe Harbour Privacy Principles and the existing legislation.</p>
 <p>We always pay a due attention to the privacy protection of your personal data. Visitors of the FIBO Group Internet resources can view most of the pages of our website, but the amount of the information that is being collected from the visitors does not exceed the volume of data that is normally collected at the work protocols of an average internet server. However, in order for us to provide you with the basic services, we may require some of your personal details. Any information received from you is used solely and exclusively for the purpose of improving the quality of our services and to make our services as well as the contents of the FIBO Group Internet resources simpler and more comfortable to use.</p>
@@ -186,14 +255,22 @@ pageTracker._trackPageview();
 <p>This Privacy Policy is an open document for general use. The current edition is available on our site and has a permanent address - <a href="http://fibogroup.com/privacy_policy.html">http://fibogroup.com/privacy_policy.html</a>.</p>
 <p>FIBO Group reserves the right to change the Privacy Policy, notifying about any changes on the webpage situated at the above address. Date of the current edition would be indicated at the top of the page. Changes that are made in this Privacy Policy will be published on this page. In the case of significant changes to the Policy, we will notify you in more evident way (eg. by sending a newsletter via e-mail).</p>
 <p>Please send your comments on this Privacy Policy, to the e-mail addresses shown under the "Contacts" Section on the FIBO Group internet resources.</p>	
-			</div>	
-</div>
-</div>
-<div id="right">           
-    <div id="right-content">
-    
-        <div class="margin20">
-  <p class="center">
+				</div>	
+	</div>
+	</div>
+	<div id="right">           
+		<div id="right-content">
+		
+			<!-- Языковой блок -->
+<ul class="languages overflow_hidden">
+<li><a rel="nofollow" href="http://fibo.ru/">RU</a></li>
+<li class="current_language">EN</li>
+<li><a rel="nofollow" href="http://de.fibogroup.com/">DE</a></li>
+<li><a rel="nofollow" href="http://es.fibogroup.com/">ES</a></li>
+<li class="last"><a rel="nofollow" href="http://farsi1.fibogroup.com/">IR</a></li>
+</ul>
+<div class="margin20imp">
+  <p class="center margin20imp">
     <a href="/trader/account_operation/open_account.html" class="button button_red centered_block">
       Open real account
     </a>
@@ -204,10 +281,34 @@ pageTracker._trackPageview();
     </a>
   </p>
 </div>
-<div class="margin20">
-  <p class="center margin20"><a href="https://mt.fibogroup.com/" class="menu_link">Login to your account</a></p>
+
+<!-- Вход в кабинет -->
+<div class="newloginwrap">
+	<div class="formwrap">
+		<div class="loginform">
+			<div class="top"></div>
+				<div class="middle">
+					<form action="https://mt.fibogroup.com/" method="post" id="cabinetLogin">
+						<label for="login">Username</label>
+						<input class="loginput" maxlength="60" type="text" name="login"><div class="inputright"></div><div class="clear"></div>
+						<label for="password">Password</label>
+						<input name="password" type="password" class="loginput" maxlength="15" id="password"><div class="inputright"></div><div class="clear"></div>
+						<a href="https://mt.fibogroup.com/?forgotten_password" class="right12">Lost password?</a><a href="/trader/account_operation/open_account.html">Registration</a><div class="clear"></div>
+						<a href="javascript:void(0)" class="enterBtn"><span>Login</span></a><div class="clear"></div>
+						<a class="secureLogin" href="https://mt.fibogroup.com/">Login through SSL-connection</a>
+					</form>
+				 </div><div class="clear"></div>
+			<div class="bottom"></div>
+		</div>
+	</div>
+	<div id="cabinet_new" class="center">
+	  <img src="/images/cabinet_new.png" id="cabImage" alt="Cabinet">	
+	  <p class="logClearCont"><a class="menu_link" id="openMenu" href="https://mt.fibogroup.com/">Login to your<br> account</a></p>
+	</div>
 </div>
-<div class="information margin20">
+
+<div class="merlon_top"></div>
+<div class="infoblock snow">
   <h3 class="red_circle question">Any questions?</h3>
   <p class="margin20"><a href="/callback.html">Call-back request</a></p>
   <p class="margin20">
@@ -217,6 +318,8 @@ pageTracker._trackPageview();
   <p class="margin10">Telephone:</p>
   <p class="phone"><span>+43 (1) 253 084 05 81</span></p>
 </div>
+<div class="merlon_bottom"></div>
+
 <noindex>
 <!-- BEGIN LivePerson Button Code -->
 <div class="margin20">
@@ -227,71 +330,143 @@ pageTracker._trackPageview();
 <script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "24636735",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
 <!-- END LivePerson Monitor. -->
 </noindex>
-<p class="margin20"><a href="/interesting/our_news/news-1210.html"><img src="/images/newTyp_en.jpg" alt="New_Types"></a></p>
+<!--<p class="margin20"><a href="/interesting/our_news/news-1210.html"><img src="/images/newTyp_en.jpg" alt="New_Types"/></a></p>-->
 <!--<p class="margin20"><a href="/traders/ecn.html"><img src="/images/ECN_New_GIF_eng.gif" alt="ECN"/></a></p>-->
 <!--<p class="margin20"><a href="http://fibogroup.com/interesting/our_news/news-1199.html"><img src="/images/schedule_eng.jpg" alt="schedule"/></a></p>-->
-  <!-- Цитаты -->
-<div class="information margin20">
+
+<!-- Котировки он-лайн -->
+<div id="main_quotes">
+  <script>
+    $("#main_quotes").load("/get_quotes_new.html");
+  </script>
+</div>
+
+<!-- Цитаты -->
+<div class="merlon_top"></div>  
+<div class="infoblock snow">
   <h3 class="red_circle citation">Direct speech:</h3>
     <p class="margin20">
-      <em>Whenever I enter a position, I have a predetermined stop. That is the only way I can sleep. I know where I am getting out before I get in.</em>
+      <em>It is amazing how one trading sin led to a cascade of others.</em>
     </p>
-    <p class="text_right no_bottom">Bruce Kovner<br>“The Market Wizards”</p>
+    <p class="text_right no_bottom">Jack Schwager<br>“The New Market Wizards”</p>
 </div>
+<div class="merlon_bottom"></div>
 
-<div id="main_quotes"></div>
-<script>
-  $("#main_quotes").load("/get_quotes_new.html");
+<!-- Рейтинг ПАММ-счетов -->
+<p style="margin-bottom:20px;"><a class="menu_link" href="/trader/pamm.html">PAMM account rating</a></p>
+<div class="border margin30" id="pamm"></div>
+<script type="text/javascript">
+  $("#pamm").load("/index_pamm.html");
+</script>
+
+<!-- График -->
+<h3 class="list_header">On-line charts</h3>
+<div class="margin30">
+  <a class="text" href="/trader/graphics.html">
+    <img src="/files/graphs/analytics/img_small.php" width="198" height="105">
+  </a>
+</div>
+<script type="text/javascript">
+  $("#quotes_img").load(function(){
+    setTimeout(function(){
+      $("#quotes_img").attr("src", "/files/graphs/analytics/img_small.php?rand=" + Math.random());
+    }, 5000);
+  })
 </script> 
-        
-    </div>
+			
+		</div>
+	</div>
 </div>
 
-
-<div id="mini-buttons">
-  <ul>
-      <li>
-         <a href="/" id="home-icon">Home</a>      </li>
-      <li><a href="/map.html" id="search-icon">Map</a></li>
-        <li><a href="mailto:service@fibogroup.com" id="mail-icon">Send mail</a></li>
-
-     </ul>
-</div>
-<!--LiveInternet counter--><script type="text/javascript"><!--
-new Image().src = "http://counter.yadro.ru/hit?r"+
-escape(document.referrer)+((typeof(screen)=="undefined")?"":
-";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";h"+escape(document.title.substring(0,80))+
-";"+Math.random();//--></script><!--/LiveInternet-->
+<!-- facebook sdk -->
+<div id="fb-root"></div>
 
 <!-- Yandex.Metrika counter -->
 <div style="display:none;"><script type="text/javascript">
 (function(w, c) {
     (w[c] = w[c] || []).push(function() {
         try {
-            w.yaCounter9636898 = new Ya.Metrika({id:9636898, enableAll: true});
+            w.yaCounter9636898 = new Ya.Metrika({id:9636898,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
         }
         catch(e) { }
     });
-})(window, "yandex_metrika_callbacks");
+})(window, 'yandex_metrika_callbacks');
 </script></div>
 <script src="//mc.yandex.ru/metrika/watch_visor.js" type="text/javascript" defer="defer"></script>
 <noscript><div><img src="//mc.yandex.ru/watch/9636898" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+<!-- Google Analitics-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6268950-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- /Google Analitics-->
+<div id="footer">
+  <div class="merlon_top"></div>
+  <div class="snow padding_b100">
+    <div class="overflow_hidden" id="menu">
+              <div class="float_left padding2010">
+          <p>
+            <a class="menu_link" href="/beginners.html">
+            Beginners           </a>
+        </p>
+        <!--noindex--><a rel="nofollow" href="/beginners/how_start.html">How-to?</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/beginners/about_forex.html">About Forex</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/beginners/about_cfd_trading.html">About CFD trading</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/beginners/attempt.html">Have a try </a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/beginner/trade_futures.html">About Futures &amp; Options trading</a><!--/noindex--><br>
+          </div>
+        <div class="float_left padding2010">
+          <p>
+            <a class="menu_link" href="/traders.html">
+            Traders           </a>
+        </p>
+        <!--noindex--><a rel="nofollow" href="/traders/accounts_types.html">Types of trading accounts</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/forex.html">Forex </a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/cfd.html">CFD</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/trader/futures.html">Futures &amp; Options</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/account_transactions.html">Account transactions </a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/trader/graphics.html">On-line charts</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/trader/analytics.html">Analytics</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/trader/pamm.html">PAMM account</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/replenishment.html">Deposit funds</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/withdraw.html">Withdraw funds</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/dealsmart.html">DealSmart</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/platform.html">Тrading Platforms</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/traders/download_quotes.html">History Center</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/trader/tradency.html">Automated Trading</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/trader/mt4nddpromo.html">PAMM account MT4 NDD</a><!--/noindex--><br>
+          </div>
+        <div class="float_left padding2010">
+          <p>
+            <a class="menu_link" href="/partner-programs.html">
+            Partner programs           </a>
+        </p>
+        <!--noindex--><a rel="nofollow" href="/partner-programs/anketa.html">IB application form</a><!--/noindex--><br>
+          </div>
+        <div class="float_left padding2010">
+          <p>
+            <a class="menu_link" href="/interested.html">
+            About          </a>
+        </p>
+        <!--noindex--><a rel="nofollow" href="/interesting/who_we.html">Who we are </a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/interesting/what_we_do.html">What we do</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/interesting/feedback.html">Feedback</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/interesting/our_news.html">Our news</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/interesting/contacts.html">Contacts</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/interested/disclaimer.html">Disclaimer</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/interesting/informers.html">Informers</a><!--/noindex--><br><!--noindex--><a rel="nofollow" href="/fibogroup/action.html">Current promotions</a><!--/noindex--><br>
+          </div>
+	
+      <div class="clear"></div>
+		<div style="clear:both;">
+			<div id="logo" style="position: relative; bottom: 30px;">
+			  <a href="/"><img src="/images/logo_mini.png" alt="FIBO"></a>
+			</div>
+			<hr class="red_line">
+		</div>
+      <p class="font_small">© FIBO Group Ltd.  <a href="/privacy_policy.html">Privacy Policy</a> | <a href="/insurance.html">Risks are insured</a>
+	  </p><p class="font_small">Wipplingerstrasse 34 (office 37), 1010 Wien <br>
+	  Customer Services: <a href="mailto:service@fibogroup.com">service@fibogroup.com</a>, phone: +43 (1) 253 084 05 81, fax: +43 (1) 253 672 23 901<br>
+	  * Services described on our website are not available in the UK, Iraq, North Korea,the USA and Austria&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interested/disclaimer.html">Legal disclaimer</a><br>
+	  We do not provide any banking services on the territory of Austria.</p>
+	      <p class="icons right_align">
+        <a href="/"><img src="/images/home.gif" alt=""></a>
+        <a href="/map.html"><img src="/images/site_map.gif" alt=""></a>
+        <a href="mailto:sales@fibo.ru"><img src="/images/mail.gif" alt=""></a>
+      </p>
+      
+    </div>
 
-
-<div style="clear:both"></div>
-<div id="copyright">
-<h3 class="font110">© FIBO Group Ltd.  <a href="/privacy_policy.html">Privacy Policy</a> | <a href="/insurance.html">Risks are insured</a> | <a href="/files/docs/Clients_Complaints_Procedure.pdf" target="_blank">Client's complaint procedure</a></h3>
-<p>Wipplingerstrasse 34 (office 37), 1010 Wien <br>
-Customer Services: <a href="mailto:service@fibogroup.com">service@fibogroup.com</a>, phone: +43 (1) 253 084 05 81, fax: +43 (1) 253 672 23 901<br>
-* Services described on our website are not available in the UK, Iraq, North Korea,the USA and Austria&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interested/disclaimer.html">Legal disclaimer</a><br>
-We do not provide any banking services on the territory of Austria.</p>
+  </div>
 </div>
-
-
-
 
  
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
