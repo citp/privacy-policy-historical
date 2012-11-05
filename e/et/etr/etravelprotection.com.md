@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the etravelprotection.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119075827id_/http%3A//www.etravelprotection.com/AccessAmerica/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etravelprotection.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105134503id_/http%3A//www.etravelprotection.com/AccessAmerica/PrivacyPolicy) for the most accurate reproduction.*
 
-# Access America
+# Allianz Global Assistance
 
-World Access, Inc. and its subsidiaries, including Jefferson Insurance Company and World Access Service Corp., d/b/a Mondial Assistance USA, are committed to protecting your privacy. By using our products, services or website, you are consenting to our collection and use of your data under this Policy.
+AGA, Inc. and its subsidiaries, including Jefferson Insurance Company and AGA Service Company, d/b/a Allianz Global Assistance, are committed to protecting your privacy. By using our products, services or website, you are consenting to our collection and use of your data under this Policy.
 
  **Definitions.**
 
@@ -43,8 +43,8 @@ We may amend this Policy at any time and will notify you of any updates by posti
 You are responsible to regularly review this Policy.
 
 **Contact**   
-Questions or comments regarding this Policy or the way that we collect or handle your Personal Data should be submitted to our Chief Privacy Officer either by e-mail at [privacy@mondialusa.com](mailto:privacy@mondialusa.com) or by regular mail at the following address:   
-Mondial Assistance USA, ATTN: Chief Privacy Officer, 2805 N. Parham Rd., Richmond, VA 23294.
+Questions or comments regarding this Policy or the way that we collect or handle your Personal Data should be submitted to our Chief Privacy Officer either by e-mail at [privacy@allianzassistance.com](mailto:privacy@mondialusa.com) or by regular mail at the following address:   
+Allianz Global Assistance, ATTN: Chief Privacy Officer, 2805 N. Parham Rd., Richmond, VA 23294.
 
 **Effective Date**   
 This policy was last revised on and is effective as of, June 22, 2009.
