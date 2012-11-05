@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509212231id_/http%3A//www.classmarker.com/online-testing/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105184223id_/http%3A//www.classmarker.com/online-testing/privacy) for the most accurate reproduction.*
 
 # Privacy ClassMarker
 
@@ -23,7 +23,7 @@ We may monitor this website (including using 'cookies') in order to identify use
 
 **Instructors** will have access to, and only to, their own information and some information on the users they have registered under them. Information Instructors have from their users is user name, full name, email address and test results. users do not have access to anyones user name or email except their own.
 
-**Users** will have access only to their own information and their Instructs name. They will also see any notes left by an Instructor which is intended to be seen by the whole class.
+**Users** will have access only to their own information and their Instructors name. They will also see any notes left by an Instructor which is intended to be seen by the whole group.
 
 **Results from online testing** will only be available for the test taker (individual user) only and their Instructors. Users cannot see each others online test results.
 
