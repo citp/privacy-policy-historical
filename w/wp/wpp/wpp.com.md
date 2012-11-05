@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617204058id_/http%3A//www.wpp.com/wpp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105050441id_/http%3A//www.wpp.com/wpp/privacy.htm) for the most accurate reproduction.*
 
 # WPP Internet Privacy Policy - WPP
 
@@ -15,7 +15,7 @@ We respect the privacy of users of our website and recognise that when you choos
 
  **What information do we collect?**  
 At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you want us to provide you with information.  
-We may gather the following information about you: 
+We may gather the following information about you:
 
   * Name
   * Email address
@@ -27,7 +27,7 @@ We may gather the following information about you:
 
 Information provided by you in relation to submitting a job application to us (this may include sensitive personal information e.g. ethnic origin)
 
-**How do we use it?**  
+ **How do we use it?**  
 We will use this information in the following ways: 
 
   * to provide you with information that you have requested e.g. a newsletter, bulletins;
@@ -63,7 +63,7 @@ We may use information obtained from cookies or similar technology. Cookies are 
 
 Cookies come in many forms. We have set out below the main types and categories of cookies that are used. This section refers to all types and categories of cookies and not just those we use on our website.
 
- **First and third-party cookies** \- whether a cookie is first-party or third-party refers to the domain placing the cookie. First-party cookies are those set by a website that is being visited by the user, the website displayed in the URL window e.g. **[www.wpp.com](http://www.wpp.com/)**. Third-Party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website this would be a third-party cookie.
+ **First and third-party cookies** \- whether a cookie is first-party or third-party refers to the domain placing the cookie. First-party cookies are those set by a website that is being visited by the user, the website displayed in the URL window e.g. **[www.wpp.com](http://www.wpp.com/wpp/)**. Third-Party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website this would be a third-party cookie.
 
  **Persistent cookies** – these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
 
