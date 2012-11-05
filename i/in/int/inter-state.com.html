@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inter-state.com privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507172300id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inter-state.com privacy policy that was archived on 2012-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105163120id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 			<title> Inter-State Studio &amp; Publishing Company</title>
@@ -18,11 +18,13 @@
 			<meta name="MSSmartTagsPreventParsing" content="TRUE">
 			<meta http-equiv="imagetoolbar" content="no">
 			<meta name="zipcode" content="65301">
-			<link href="/style.css" rel="stylesheet" type="text/css">
+			<link href="/style.css?v1" rel="stylesheet" type="text/css">
 			<link href="/components/jquery/jquery-tooltip/jquery.tooltip.css" rel="stylesheet" type="text/css">
 			<link href="/components/jquery/ui/css/smoothness/jquery-ui-1.8.1.custom.css" rel="stylesheet" type="text/css">
 			<link rel="stylesheet" href="/components/jquery/fancybox/jquery.fancybox-1.3.1.edited.css">
 			<link href="/components/jquery/flowplayer/scrollable-combined.edited.css" rel="stylesheet" type="text/css">
+			<link rel="stylesheet" type="text/css" media="screen" href="/components/superfish/css/superfish.css">
+			<link rel="stylesheet" type="text/css" media="screen" href="/components/superfish/css/override.css">
 
 			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/components/jquery/jquery-1.4.2.min.js"></script>
 			<script src="/components/jquery/ui/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
@@ -42,13 +44,14 @@
 			<script src="/components/jquery/flowplayer/scrollable.navigator.min.js" type="text/javascript"></script>
 			<script src="/components/jquery/flowplayer/toolbox.mousewheel.min.js" type="text/javascript"></script>
 			<script src="/components/jquery/jquery.cycle.all.min.js"></script>
+			<script type="text/javascript" src="/components/superfish/js/superfish.js"></script>
 			<script src="/components/load.js.cfm" type="text/javascript"></script>
 			<style>
 				
-				body {background-color:#50988c;background-image:url('/siteart/vendors/backgrounds/12-2882 spring web background2 2.jpg');background-repeat:no-repeat;}
+				body {background-color:#fbeec2;background-image:none;}
 				
 					.ui-widget, .ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Arial, sans-serif; }
-					.blue, DIV.title, #iss_main_submenu, .outputTable tr.header td, DIV.scrollable-title {background-color:#c3c229}
+					.blue, DIV.title, #iss_main_sidebar, .outputTable tr.header td, DIV.scrollable-title {background-color:#accec0}
 					.lightblue  {background-color:#EDEDED}
 					.w-corner-blue{background-image:none}
 					.e-corner-blue{background-image:none}
@@ -62,9 +65,15 @@
 					.outputTable tr.altRow td{background-color:#F1F1F1}
 					A.imgbutton{background-image:url(siteart/button_gray.png);}
 				
-					a, STRONG.title, H1, #iss_main_subnav a, #UIModalContent a {color:#50988c}
+					a, STRONG.title, H1, #iss_main_subnav a, .ui-widget-content a, #UIModalContent a {color:#61a6ab !important}
 				
-					#iss_main_submenu a.yellow, DIV.scrollable-title a, DIV.title {color:#292522}
+					#iss_main_sidebar a.yellow, DIV.scrollable-title a, DIV.title {color:#605951}
+				
+					.sf-menu li li a{color: #c3c229; /* Different color for submenu and below */}
+					.sf-menu li li a, .sf-menu li li a:visited  { /* visited pseudo selector so IE6 applies text colour - different for submenu and below*/color: #c3c229;}
+					.sf-menu li li a:hover {color:#c3c229; /* Sets hover color of all links in submenu and below */}
+					.sf-menu li li {background:#F2F2F2; /* Background color for submenu and below */border-bottom:1px solid #c3c229; /* Dividing line between items on submenu and below */}
+					.sf-menu li li:hover, .sf-menu li li.sfHover, .sf-menu li li a:focus, .sf-menu li li a:hover, .sf-menu li li a:active{	background:#FFFFFF; /* Puts background hover color on submenu */}
 				
 			</style>
 			<script type="text/javascript">
@@ -94,11 +103,11 @@
 			<script>
 			function validate_main_flyerform(frm){
 				msg="";
-				if(frm.code.value.length==0||frm.code.value=='Enter Your Code'){
-					msg += " - enter the code.\n";
+				if(frm.code.value.length==0||frm.code.value=='Entra tu codigo'){
+					msg += " - Entre el Codigo.\n";
 				}
 				if(msg.length){
-					alert("Please correct the following:\n\n"+msg);
+					alert("Por favor corrija lo siguiente:\n\n"+msg);
 					return false;
 				}
 				return true;
@@ -106,19 +115,28 @@
 			</script>
 			<form id="iss_main_flyerform" name="iss_main_flyerform" method="post" action="/code/" onsubmit="return validate_main_flyerform(this)">
 			<div align="right">
-				<a href="/index.cfm/lang/es/">Cambiar A Español</a>
+				<a href="/index.cfm/lang/en/">Switch To English</a>
 				
 			</div>
 			<div id="iss_main_utility" class="padding" style="margin-left:175px;">
 				<div style="font-size:10px;">
-					Hello, Guest. (Already registered? <a href="/account/login/">Login now</a>)
+					Hola, Invitado. (¿Ya estás registrado? <a href="/account/login/">Ingresa Ya</a>)
 					
 				</div>
-				<div style="float:right;">
-					<a href="/AJAX/help/code.cfm" class="ajaxdialog" title="What is this code?" style="font-weight:bold;">?</a> <input type="text" name="code" id="code" value="" placeholder="Enter Your Code" class="placeholder"> <input type="submit" value="Go" class="UIBtn ui-button ui-widget ui-state-default ui-corner-all" role="button" aria-disabled="false" style="font-size: 10px;">&nbsp;&nbsp;&nbsp;<a href="/account/" onmouseover="showhidesubnav('main_menu_blank')">My Account</a> | <a href="/customer-service/faq/">Help</a>
+				<div style="float:right;margin-bottom:1px">
+					<table>
+						<tbody><tr>
+							<td style="padding:5px 5px 3px 5px;background-color:#F9F9F9;border:1px solid #BBBBBB;vertical-align:middle;">
+								<a href="/order/" style="font-weight:bold;font-size:15px">Ordenar Fotos</a> <input type="text" name="code" id="code" value="" placeholder="Entra tu codigo" class="placeholder"><a href="/AJAX/help/code.cfm" class="ajaxdialog" title="¿Que es este Codigo??" style="font-weight:bold;">?</a> <input type="submit" value="Iniciar" class="UIBtn ui-button ui-widget ui-state-default ui-corner-all" role="button" aria-disabled="false" style="font-size: 10px;">
+							</td>
+							<td style="vertical-align:bottom;padding-left:15px;">
+								<a href="/account/">Mi Cuenta</a> | <a href="/customer-service/faq/">Ayuda</a>
+							</td>
+						</tr>
+					</tbody></table>
 				</div>
-				<div style="float:right;margin:-12px 50px 0px 4px;height:37px;overflow-y:hidden"><a href="/order/"><img src="/siteart/order_pictures_EN.png" width="150" alt="Order Pictures" title="Order Pictures" class="order_picture_btn"></a></div>
-				<a href="/account/gallery/">My Gallery</a>
+				
+				<a href="/account/">Mi Galería</a>
 			</div>
 			</form>
 		</td>
@@ -130,72 +148,54 @@
 					<td><img src="/siteart/trans.gif" width="5" height="5"></td>
 					<td>
 						<div id="iss_main_nav" class="padding" style="margin-left:145px;">
-							<div style="float:right;"><a href="/store/cart/" class="imgbutton" id="carttip"><img src="/siteart/cart_sm_white.png">Your Cart<br><img src="/siteart/trans.gif" class="coverup" onmouseover="showCart()" onmouseout="hideCart()"></a></div>
-							<a href="/store/" onmouseover="showhidesubnav('main_menu_onlinestore')">Online Store</a> | <a href="/portraits/" onmouseover="showhidesubnav('main_menu_schoolpictures')">School Pictures</a> | <a href="#" onmouseover="showhidesubnav('main_menu_otherservices')">Other Services</a> | <a href="/customer-service/" onmouseover="showhidesubnav('main_menu_customerservice')">Customer Service</a><br>
+							<div style="float:right;"><a href="/store/cart/" class="imgbutton" id="carttip"><img src="/siteart/cart_sm_white.png">Mi Carrito<br><img src="/siteart/trans.gif" class="coverup" onmouseover="showCart()" onmouseout="hideCart()"></a></div>
+							
+
+<div style="float:left;height:30px;">
+<ul id="mainMenu" class="sf-menu">
+	<li>
+		<a href="#">Tienda en Linea</a>
+		<ul>
+			
+			<li><a href="/order/">Ordenar Fotos</a></li>
+			<li><a href="/store/photo-gifts/">Regalos de Fotos</a></li>
+			<li><a href="http://www.inter-state.com/photobooks" target="_blank">Libro de Fotos</a></li>
+			
+			
+		</ul>
+	</li>
+	<li class="divider">|</li>
+	<li>
+		<a href="#">Fotos de Escuela</a>
+		<ul>
+			<li><a href="/portraits/fall/">Fotos de Otoño</a></li>
+			<li><a href="/portraits/spring/">Fotos de Primavera</a></li>
+			<li><a href="/portraits/retouch/">Retoque</a></li>
+			<li><a href="/portraits/softtouch/">Toque Suave</a></li>
+			
+				<li><a href="/my-digital-portrait/">Mi Retrato Digital</a></li>
+				<li><a href="/portraits/smile-of-the-year/">Concurso de La Sonrisa del Año</a></li>
+				<li><a href="/spreadingsmiles/">Spreading Smiles Classroom Photo Contest</a></li>
+				
+			
+		</ul>
+	</li>
+	<li class="divider">|</li>
+	
+	<li>
+		<a href="#">Servicio al Cliente</a>
+		<ul>
+			<li><a href="/customer-service/feedback/">Somete Comentarios / Solicitar Ayuda</a></li>
+			
+			<li><a href="/customer-service/faq/">Preguntas Mas Frecuentes</a></li>
+			<li><a href="/customer-service/contact/">Contactanos</a></li>
+		</ul>
+	</li>
+</ul>
+</div>
+
 						</div>
-						<table style="margin-bottom:5px;" class="white">
-							<tbody><tr>
-								<td id="iss_main_subnav_l" class="w-corner-blue lightblue"><img src="/siteart/trans.gif" width="5" height="5"></td>
-								<td id="iss_main_subnav">
-									<div id="main_menu_blank" style="">
-										<span class="lightblue"><div class="padding">Inter-State Studio</div></span>
-										<div class="padding">
-											<em style="float:right">Monday, May 7, 2012</em>
-											
-												<a href="/" onclick="return false;">&nbsp;</a>
-											
-										</div>
-									</div>
-									<div id="main_menu_onlinestore" style="display:none;">
-										<span class="lightblue"><div class="padding">Online Store</div></span>
-										<div class="padding">
-											
-											<a href="/order/">Order Portraits</a> •
-											<a href="/store/photo-gifts/">Photo Gifts</a> •
-											<a href="http://www.inter-state.com/photobooks" target="_blank">Photobook</a>
-											
-										</div>
-									</div>
-									<div id="main_menu_schoolpictures" style="display:none;">
-										<span class="lightblue"><div class="padding">School Pictures</div></span>
-										<div class="padding">
-											<a href="/portraits/fall/">Fall Portraits</a> •
-											<a href="/portraits/spring/">Spring Portraits</a> •
-											<a href="/portraits/retouch/">ReTouch</a> •
-											<a href="/portraits/softtouch/">Soft Touch</a>
-											
-												 •
-												<a href="/my-digital-portrait/">My Digital Portrait</a> •
-												<a href="/portraits/smile-of-the-year/">Smile of the Year Contest</a>
-											
-										</div>
-									</div>
-									
-										<div id="main_menu_otherservices" style="display:none;">
-											<span class="lightblue"><div class="padding">Other Services</div></span>
-											<div class="padding">
-												<a href="http://www.isspub.com/yearbook-advisors/" target="_blank">Yearbooks</a> •
-												<a href="http://www.isspub.com/portraits/other-sports.cfm" target="_blank">Sports Photography</a> •
-												<a href="http://www.isspub.com/planners/" target="_blank">Planners</a>
-											</div>
-										</div>
-									
-									<div id="main_menu_customerservice" style="display:none;">
-										<span class="lightblue"><div class="padding">Customer Service</div></span>
-										<div class="padding">
-											<a href="/customer-service/feedback/">Submit Feedback / Request Help</a> •
-											
-											<a href="/customer-service/faq/">FAQ</a> •
-											<a href="/customer-service/contact/">Contact Us</a>
-										</div>
-									</div>
-									<script>
-									
-									</script>
-								</td>
-								<td class="e-corner-blue"><img src="/siteart/trans.gif" width="5" height="5"></td>
-							</tr>
-						</tbody></table>
+						
 					</td>
 					<td class="e-corner-white"><img src="/siteart/trans.gif" width="5" height="5"></td>
 				</tr>
@@ -203,17 +203,17 @@
 		</td>
 	</tr>
 </tbody></table>
-<div style="text-align:left"><a href="/"><img src="/siteart/vendors/logos/new ISS logo copy copy.png" id="iss_main_logo" height="100"></a></div>
+<div style="text-align:left"><a href="/"><img src="/siteart/vendors/logos/80th Logo1.gif" id="iss_main_logo" height="100"></a></div>
 
 		</td>
 	</tr>
 	<tr>
-		<td id="iss_main_submenu">
+		<td id="iss_main_sidebar">
 	<div class="padding" style="text-align:left;">
 		<div style="width:165px;height:1px;overflow:hidden;"></div>
 		<div class="vfloat">
 			<br>
-			Login or <a href="/account/register/" class="yellow">Create Account</a>
+			Ingresa o <a href="/account/register/" class="yellow">Crea una Cuenta </a>
 				<script>
 				function validate_main_login(frm){
 					msg="";
@@ -232,20 +232,20 @@
 				</script>
 				<form id="iss_main_login" name="iss_main_login" method="post" action="https://www.inter-state.com/account/login/" onsubmit="return validate_main_login(this)">
 					<input type="hidden" name="login" value="1">
-					<input type="text" name="username" id="iss_main_login_username" value="" placeholder="Username" style="width:158px;" class="placeholder"><br>
-					<input type="password" name="password" id="iss_main_login_password" value="" placeholder="Password" style="width:109px;" class="placeholder"><input type="submit" name="submit" id="iss_main_login_submit" value="Login" class="button">
+					<input type="text" name="username" id="iss_main_login_username" value="" placeholder="Nombre de Usuario" style="width:158px;" class="placeholder"><br>
+					<input type="password" name="password" id="iss_main_login_password" value="" placeholder="Contraseña" style="width:109px;" class="placeholder"><input type="submit" name="submit" id="iss_main_login_submit" value="Ingresa" class="button">
 				</form>
 			
 			<table style="margin-bottom:5px;margin-top:10px;width:165px;" class="white" id="iss_main_sidenav_subscribe" onclick="$('#iss_main_sidenav_subscribe .vfloat_hide').show()">
 				<tbody><tr>
 					<td class="w-corner-blue"><img src="/siteart/trans.gif"></td>
 					<td>
-						<div class="padding">
-							<strong>Quick Links</strong><br>
+						<div class="padding" style="font-size:120%">
+							<strong>Conexiones Rapidas</strong><br>
 							<ul class="quick_link">
-								<li>- <a href="/order/">Order Pictures</a></li>
-								<li>- <a href="/store/photo-gifts/">Order Photo Gifts</a></li>
-								<li>- <a href="/store/yearbook/">Order Yearbooks</a></li>
+								<li>- <a href="/order/">Ordenar Fotos</a></li>
+								<li>- <a href="/store/photo-gifts/">Ordenar Regalos de Fotos</a></li>
+								<li>- <a href="/store/yearbook/">Ordenar Anuarios</a></li>
 							</ul>
 						</div>
 					</td>
@@ -258,16 +258,16 @@
 						<td class="w-corner-blue"><img src="/siteart/trans.gif"></td>
 						<td>
 							<div class="padding">
-								<strong>Newsletter Signup</strong><br>
+								<strong>Registro para el Boletin Electronico</strong><br>
 									<div class="vfloat_hide">
 									<script>
 									function validate_main_subscribe(frm){
 										msg="";
 										if(frm.email.value.length==0||frm.email.value=='Email Address' || !isValidEmail(frm.email.value)){
-											msg += " <li>enter a valid email address <em>(The address you entered was '" + frm.email.value +"'.  Please verify it is correct.  If the address looks correct, please <a href=\"/customer-service/contact/\">contact Customer Service</a>)</em></li>";
+											msg += " <li>Entra una dirección válida de correo electrónico <em>(The address you entered was '" + frm.email.value +"'.  Please verify it is correct.  If the address looks correct, please <a href=\"/customer-service/contact/\">Contacta a Servicio al Cliente</a>)</em></li>";
 										}
 										if(msg.length){
-											loadDialog('Form Validation', "Please correct the following:<br><ul>"+msg+'</ul>');
+											loadDialog('Validacion de Forma', "Por favor corrija lo siguiente:<br><ul>"+msg+'</ul>');
 											return false;
 										}
 										return true;
@@ -281,15 +281,15 @@
 	
 	<input type="hidden" name="formfield1234567892" id="formfield1234567892" value="">
 	
-	<input type="hidden" name="formfield1234567893" value="39860713,19862514">
+	<input type="hidden" name="formfield1234567893" value="39861311,19843333">
 
 	
 	<span style="display:none">Leave this field empty <input type="text" name="formfield1234567894" value=""></span>
 
 										<input type="hidden" name="subscribe" value="1">
-										<input type="text" name="email" id="iss_main_subscribe_email" value="" placeholder="Email Address" style="width:114px;" class="placeholder"><input type="submit" name="submit" id="iss_main_subscribe_submit" value=">" class="button" style="width:25px;">
+										<input type="text" name="email" id="iss_main_subscribe_email" value="" placeholder="Correo Electrónico" style="width:114px;" class="placeholder"><input type="submit" name="submit" id="iss_main_subscribe_submit" value=">" class="button" style="width:25px;">
 									</form>
-									<a href="/AJAX/help/newsletter.cfm" class="ajaxdialog" title="Inter-State Email Newsletter" style="color:gray;font-size:10px;">More Information</a>
+									<a href="/AJAX/help/newsletter.cfm" class="ajaxdialog" title="Boletin electronico de Inter-State" style="color:gray;font-size:10px;">Mas Informacion</a>
 								</div>
 							</div>
 						</td>
@@ -303,16 +303,9 @@
 				
 				<table cellpadding="0" cellspacing="0" align="center">
 					<tbody><tr><td align="center"><img src="https://www.websitealive10.com/2186/Visitor/vButton_v3.asp?groupid=2186&amp;departmentid=0&amp;buttonid=16" border="0" onclick="window.open('http://www.websitealive10.com/2186/rRouter.asp?groupid=2186&amp;websiteid=0&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');return false;" style="cursor:pointer;"></td></tr>
-					<tr><td align="center" style="background-color:#666666; text-align:center; padding:4px; font-size:8px; color:#fff; font-family:Verdana, Helvetica, sans-serif;"><a href="http://www.websitealive.com/" style="text-decoration:none; font-size:8px; color:#fff; font-family:Verdana, Helvetica, sans-serif;" target="_blank">Live chat</a> by <a href="http://www.websitealive.com/" style="text-decoration:none; font-size:8px; color:#fff; font-family:Verdana, Helvetica, sans-serif;" target="_blank"><b>AliveChat</b></a></td></tr>
+					
 				</tbody></table>
-			
-				<br><br>
-				<div align="center">
-					<a href="http://www.facebook.com/InterStateStudio" target="_blank"><img src="/siteart/social/facebook.png" title="Inter-State on Facebook" alt="Inter-State on Facebook"></a>
-					
-					<a href="http://www.linkedin.com/companies/inter-state-studio-%26-publishing-co." target="_blank"><img src="/siteart/social/linkedin.png" title="Inter-State on LinkedIn" alt="Inter-State on LinkedIn"></a>
-					
-				</div>
+
 			
 			<div style="width:165px;text-align:center;margin-top:15px;">
 				<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
@@ -321,7 +314,7 @@
 			
 				<div style="color:#ffffff;padding:0px 0px 0px 3px">
 					Customer Service Available<br>
-					8:00 am-5:00 pm CST<br>
+					7:00 am-10:00 pm CST <br>now until December!<br>
 					Monday-Friday
 				</div>
 			
@@ -422,12 +415,12 @@ If you have any questions about the terms contained herein, please contact Inter
 		<td id="iss_main_footer">
             <div align="center">
                 <br>
-				<a href="/store/">Store</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/store/packages/">Portrait Packages</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/store/photo-gifts/">Photo Gifts</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.inter-state.com/photobooks" target="_blank">Photobook</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/customer-service/feedback/">Customer Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/customer-service/faq/">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/customer-service/contact/">Contact Us</a>
+				<a href="/store/">Tienda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/store/packages/">Paquetes de Fotografias</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/store/photo-gifts/">Regalos de Fotos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.inter-state.com/photobooks" target="_blank">Libro de Fotos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="/customer-service/feedback/">Servicio al Cliente</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/customer-service/faq/">Preguntas Mas Frecuentes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/customer-service/contact/">Contactanos</a>
                 <br>
-                <a href="/portraits/fall/">Fall Portraits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/spring/">Spring Portraits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/retouch/">Retouch</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/softtouch/">Soft Touch</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/my-digital-portrait/">My Digital Portrait</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/smile-of-the-year/">Smile of the Year</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy.cfm">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap/">Sitemap</a>
+                <a href="/portraits/fall/">Fotos de Otoño</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/spring/">Fotos de Primavera</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/retouch/">Retoque</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/softtouch/">Toque Suave</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/my-digital-portrait/">Mi Retrato Digital</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/portraits/smile-of-the-year/">Sonrisa del Año</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy.cfm">Declaracion de Privacidad</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap/">Mapa del Sitio</a>
             </div>
-        	<div class="padding">© 2012 Inter-State Studio &amp; Publishing Company. All Rights Reserved.<br>All text, graphics, HTML and contents of this website are protected by US and International copyright laws and may not be reproduced or distributed in any manner without the explicit permission of Inter-State Studio &amp; Publishing Company, Inc.®</div>
+        	<div class="padding">© 2012 Inter-State Studio &amp; Publishing Company  . Todos los Derechos Reservados. Todo texto, graficos, HTML y contenido del sito web son protegidos por las leyes  de EE.UU y Internationales de los derechos de autor y no pueden ser reproducidos o distribuidos de ninguna manera sin el permiso explícito de Inter-State Studio &amp; Publishing Company, Inc.®</div>
         </td>
 	</tr>
 </tbody></table>
