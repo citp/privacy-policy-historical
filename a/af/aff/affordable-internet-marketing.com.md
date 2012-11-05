@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527185425id_/http%3A//www.affordable-internet-marketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105081304id_/http%3A//www.affordable-internet-marketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 You're here: [AIM Home](http://www.affordable-internet-marketing.com/) » [Internet Marketing](http://www.affordable-internet-marketing.com/category/internet-marketing/) » **Privacy Policy**
 
-This is the web site of Affordable [Internet marketing](http://www.affordable-internet-marketing.com/).  
+This is the web site of Affordable Internet Marketing.  
 This site is owned by Case Stevens  
 Our postal address is  
 Postbus 132  
