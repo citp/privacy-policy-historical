@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623053338id_/http%3A//www.backlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105225313id_/http%3A//www.backlinks.com/privacy.php) for the most accurate reproduction.*
 
 # BackLinks.com: Privacy Policy
 
@@ -21,7 +21,7 @@ Your information helps us to better respond to your individual needs.
   * To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs. 
   * To send periodic emails  
-The email address you provide for registering will only be used to send you information and updates pertaining to your account. 
+The email address you provided during registration may be used to send updates pertaining to your account as well as occasional newsletters. You may opt out of the newsletters at any time by using the link at the bottom email. 
 
 
 
@@ -79,11 +79,11 @@ info@nextnetmedia.com
   
 
 
-Generate revenue from your web site by selling simple text link ads. Our powerful control panel allows you to manage all text link sales. We have thousands of advertisers interested in buying text links on your web pages.
+Increase your search engine rankings and link popularity with quality one way text links. We offer the lowest prices on 1000's of high PR text links at the lowest monthly rates. Search for relevant text links by PageRank and category.
 
-  * Make money selling text link ads
-  * Generate revenue from each of your web pages
-  * You control the placement of the text links
+  * Increase link popularity and backlinks
+  * Improve search engine rankings (SERPs)
+  * Find relevant text links at the lowest prices
 
 
 
