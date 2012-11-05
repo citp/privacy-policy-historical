@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055702id_/http%3A//www.fcc.gov/encyclopedia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105041950id_/http%3A//www.fcc.gov/encyclopedia/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FCC.gov
 
@@ -29,7 +29,7 @@ We use this information, in the aggregate, to make our website more useful to vi
 
 Prior to commenting, you will be prompted to login, either by providing your e-mail address, or by linking your comment to an existing account on a popular website such as Google, Facebook, or Twitter. While your e-mail address will not be made public, if you login with a social media service, your picture, as well as a link to your profile will be posted alongside your comment. 
 
-For more information on how comments are handled throughout the site, please review our [comment moderation policy](http://beta.fcc.gov/comment-policy).
+For more information on how comments are handled throughout the site, please review our [comment moderation policy](http://www.fcc.gov/comment-policy).
 
 ### How Information is Used
 
@@ -64,7 +64,7 @@ This website contains educational content for children under 13. No personal inf
 ###  **Third Party Web sites**
 
  **Social Media and Online Engagement  
-**To better engage the public in ongoing dialog, the FCC uses several third-party platforms including [bit.ly](http://bit.ly/), [Facebook](http://www.fcc.gov/facebook), [Flickr](http://www.fcc.gov/flickr), [Disqus](http://disqus.com/), [IdeaScale](http://broadband.ideascale.com/), [MySpace](http://www.fcc.gov/myspace), [Scribd](http://www.scribd.com/), [Twitter](http://www.fcc.gov/twitter), [UserVoice](http://rebootfcc.uservoice.com/), and [YouTube](http://www.fcc.gov/youtube). When interacting with the FCC presence on those websites, you may reveal certain personal information to the FCC or to third parties. Except when used by FCC web staff for the purpose of responding to a specific message or request, the FCC will neither use nor share nor retain such data. For additional information regarding your rights on social media platforms, please see our _Comment Policy_.
+**To better engage the public in ongoing dialog, the FCC uses several third-party platforms including [bit.ly](http://bit.ly/), [Facebook](http://www.fcc.gov/facebook), [Flickr](http://www.fcc.gov/flickr), [Disqus](http://disqus.com/), [IdeaScale](http://broadband.ideascale.com/), [MySpace](http://www.fcc.gov/myspace), [Scribd](http://www.scribd.com/), [Twitter](http://www.fcc.gov/twitter), [UserVoice](http://rebootfcc.uservoice.com/), and [YouTube](http://www.fcc.gov/youtube). When interacting with the FCC presence on those websites, you may reveal certain personal information to the FCC or to third parties. Except when used by FCC web staff for the purpose of responding to a specific message or request, the FCC will neither use nor share nor retain such data. For additional information regarding your rights on social media platforms, please see our [comment moderation policy](http://www.fcc.gov/comment-policy).
 
  **Usage Statistics  
 **This website employs Google Analytics (a service from Google, Inc.) and the URL shortener bit.ly (a service of bit.ly inc.) to collect aggregate usage information. In utilizing this analytics service, the FCC maintains its existing standards in regards to the sharing and disclosure of information, security and privacy safeguards for the data, and the data retention policy, each described above.
