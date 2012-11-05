@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safeschools.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506235848id_/http%3A//www.safeschools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeschools.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105013900id_/http%3A//www.safeschools.com/privacy.php) for the most accurate reproduction.*
 
-# SafeSchools Suggest a Topic
+# School Safety Training, K-12 Safety Training, SafeSchools.com – SafeSchools
 
 ## Accuracy of Information
 
