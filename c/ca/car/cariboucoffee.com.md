@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507090607id_/http%3A//www.cariboucoffee.com/page/1/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105181603id_/http%3A//www.cariboucoffee.com/page/1/privacy.jsp) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -71,3 +71,9 @@ Any comments or materials sent to Caribou Coffee through this Site, including al
 The Site may include links to other sites on the Internet that are owned and operated by vendors and other third parties (the "External Sites"). Caribou Coffee is not responsible for the availability of, or the content, products, services, information or materials located on or available through, any External Site. 
 
 You should contact the site administrator or Webmaster for those External Sites if you have any concerns regarding any matter related to or available from such External Sites, including without limitation, the privacy practices of such sites. 
+
+**Cell Phone** Caribou will only send our customers text messages regarding promotional offers or other news if a customer specifically grants us permission. A customer has the right to choose not to receive Caribou text messages by simply notifying us of their preference or responding STOP to 70626. This process is commonly termed opting-out or unsubscribing. 
+
+Caribou keeps your cell phone number private at all times. As the term suggests, "customer identifiable information" is information which can be associated with a specific individual or entity, including, for example, a customer's name, address, or telephone number or any preferences. 
+
+Caribou does not knowingly, directly or passively, collect information cell phone information from children under the age of 13. If we create offers and products that make it appropriate to collect information from children under the age of 13, we will notify you of the change in this Policy. 
