@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellercluster.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512043858id_/http%3A//www.resellercluster.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellercluster.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105142703id_/http%3A//www.resellercluster.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - About us - ResellerCluster.com - Hosting Reseller with private label and complete automation
 
