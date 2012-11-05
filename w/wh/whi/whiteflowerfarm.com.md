@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519015513id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105142844id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
 
 # Online Privacy & Security - White Flower Farm
 
@@ -21,13 +21,13 @@ Orders placed through our Web site utilize SSL (secure socket layers) to protect
 
 **Our Use of Web Technologies:**
 
-In order to improve our site, products and services and provide more convenient, relevant experiences and advertisements to our customers, we and our service providers and partners may use "cookies," "web beacons," and similar web technologies to track your online activities. ?Cookies are small data text files that are stored by your web browser. Web beacons (also known as clear gifs or web bugs) are small, transparent, pixel-sized graphic images that are embedded in an HTML webpage, web-based document or email message and used to track when the page or email has been viewed.
+In order to improve our site, products and services and provide more convenient, relevant experiences and advertisements to our customers, we and our service providers and partners may use "cookies," "web beacons," and similar web technologies to track your online activities.  Cookies are small data text files that are stored by your web browser. Web beacons (also known as clear gifs or web bugs) are small, transparent, pixel-sized graphic images that are embedded in an HTML webpage, web-based document or email message and used to track when the page or email has been viewed.
 
 **Our Use of Targeted Advertising and 3rd party use of Web Technologies:**
 
-We may also use third party advertising partners and service providers to deliver our ads to you that we feel may be of interest. ?To enable our advertising partners or service providers to serve ads to you, they may place a cookie on your browser or a pixel tag in an email to later deliver you an ad. ?They may collect and use information about your visits to this site in order to provide you with advertisements on other sites about our goods and services.
+We may also use third party advertising partners and service providers to deliver our ads to you that we feel may be of interest.  To enable our advertising partners or service providers to serve ads to you, they may place a cookie on your browser or a pixel tag in an email to later deliver you an ad.  They may collect and use information about your visits to this site in order to provide you with advertisements on other sites about our goods and services.
 
-Should you not be interested in these ads, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also disable cookies altogether. ?Please note that if you refuse to accept cookies, you may not be able to access portions of our site.
+Should you not be interested in these ads, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also disable cookies altogether.  Please note that if you refuse to accept cookies, you may not be able to access portions of our site.
 
 If you would like to erase all cookies at the end of every session or disable them entirely, please refer to your browser instructions on how to do so. Please note that disabling cookies will prevent you from placing items in your shopping cart, and you will not be able to order online. To order by phone, please call 1-800-503-9624 to reach one of our customer service associates. The Call Center is open from 9 a.m. to 5 p.m. Eastern Time Monday-Saturday and most Sundays from noon to 5 p.m.
 
@@ -37,4 +37,4 @@ You may manage your online profile and your opt-out choices by visiting the [**D
 
 **More Information:**
 
-For information about targeted advertising and cookies, please visit [**www.aboutads.info**](http://www.aboutads.info/)?and [**www.iab.net/privacymatters**](http://www.iab.net/privacymatters/) .
+For information about targeted advertising and cookies, please visit [**www.aboutads.info**](http://www.aboutads.info/) and [**www.iab.net/privacymatters**](http://www.iab.net/privacymatters/) .
