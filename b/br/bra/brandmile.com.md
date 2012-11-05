@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandmile.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620113530id_/http%3A//www.brandmile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmile.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105032826id_/http%3A//www.brandmile.com/privacy-policy) for the most accurate reproduction.*
 
-# brandmile | Privacy Policy
+# Privacy Policy | brandmile
 
 brandmile is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the Terms & Conditions of brandmile. By visiting the website of brandmile and/or by becoming a member you accept the provisions of this Privacy Policy. If you do not agree to our Privacy Policy please refrain from using or accessing our website.
 
