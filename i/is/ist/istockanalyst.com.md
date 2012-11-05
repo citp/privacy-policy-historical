@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the istockanalyst.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515221922id_/http%3A//www.istockanalyst.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istockanalyst.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105204114id_/http%3A//www.istockanalyst.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : iStockAnalyst.com
 
   
 
 
-### iStockAnalyst.com Privacy Policy
+###  iStockAnalyst.com Privacy Policy
 
 iStockAnalyst.com is owned and operated by **Wall Street Tools LLC, an Oregon corporation.**  We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the "Site").  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site. ****
 
@@ -85,7 +85,7 @@ By consenting to the Terms and Conditions of the Site and hence the Privacy Poli
 
 **10) Notification of Changes**
 
-**[Website Name]** reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
+**iStockAnalyst.com** reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
 
 **11)   CONTACT INFORMATION:**
 
