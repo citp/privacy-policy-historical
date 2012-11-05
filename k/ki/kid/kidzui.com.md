@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616150011id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105171655id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
 
 # KidZui Privacy Policy
 
@@ -61,6 +61,6 @@ Zuigames Copyright - We believe we have taken the necessary steps to obtain lice
 
 Modifications to this policy - If KidZui makes modifications or changes to this privacy policy, we will post an amendment to the privacy policy on the website.
 
-Questions? - If you have any other questions or require any additional assistance please send an email to [support@kidzui.com](mailto:support@kidzui.com) , or write us at KidZui, Inc., attention CFO, 4660 La Jolla Village Drive, Suite 850, San Diego, CA 92122. 
+Questions? - If you have any other questions or require any additional assistance please send an email to [support@kidzui.com](mailto:support@kidzui.com) , or write us at KidZui, Inc., attention CFO, 4350 Executive Drive, Suite 300, San Diego CA 92121. 
 
 Effective: January 5, 2011.
