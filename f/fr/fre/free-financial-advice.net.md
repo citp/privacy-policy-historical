@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-financial-advice.net privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626072114id_/http%3A//www.free-financial-advice.net/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-financial-advice.net privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105213519id_/http%3A//www.free-financial-advice.net/disclaimer.html) for the most accurate reproduction.*
 
 # Free Financial Advice - Disclaimer and Privacy Policy
 
