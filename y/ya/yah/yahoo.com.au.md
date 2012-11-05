@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahoo.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510164653id_/http%3A//au.yahoo.com/s/15255) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoo.com.au privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105160356id_/http%3A//au.yahoo.com/s/428975) for the most accurate reproduction.*
 
 # Yahoo!7 Privacy Policy
 
