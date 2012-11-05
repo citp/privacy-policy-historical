@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacial.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627120851id_/http%3A//spacial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacial.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105150358id_/http%3A//spacial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spacial.com
 
