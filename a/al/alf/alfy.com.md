@@ -1,8 +1,57 @@
-> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509231850id_/http%3A//www.alfy.com/About/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105060709id_/http%3A//www.alfy.com%3Fabout%3D2) for the most accurate reproduction.*
 
-# ALFY.com - Free Games and Fun! - Privacy Policy
+# ALFY.com -- the Best Free Online Games - Privacy Policy
 
-[](https://web.archive.org/)
+Tags:  
+[2 Players](https://web.archive.org/?tag=2%20Players)  
+[3D](https://web.archive.org/?tag=3D)  
+[Action](https://web.archive.org/?tag=Action)  
+[Adventure](https://web.archive.org/?tag=Adventure)  
+[Android](https://web.archive.org/?tag=Android)  
+[Angry Birds](https://web.archive.org/?tag=Angry%20Birds)  
+[Animals](https://web.archive.org/?tag=Animals)  
+[Arcade](https://web.archive.org/?tag=Arcade)  
+[Ball](https://web.archive.org/?tag=Ball)  
+[Board](https://web.archive.org/?tag=Board)  
+[Boat](https://web.archive.org/?tag=Boat)  
+[Bomb](https://web.archive.org/?tag=Bomb)  
+[Bubbles](https://web.archive.org/?tag=Bubbles)  
+[Cars](https://web.archive.org/?tag=Cars)  
+[Celebrities](https://web.archive.org/?tag=Celebrities)  
+[Cooking](https://web.archive.org/?tag=Cooking)  
+[Decorate](https://web.archive.org/?tag=Decorate)  
+[Defense](https://web.archive.org/?tag=Defense)  
+[Dress-Up](https://web.archive.org/?tag=Dress-Up)  
+[Fashion](https://web.archive.org/?tag=Fashion)  
+[Fighting](https://web.archive.org/?tag=Fighting)  
+[Flying](https://web.archive.org/?tag=Flying)  
+[Food](https://web.archive.org/?tag=Food)  
+[Girls](https://web.archive.org/?tag=Girls)  
+[Holiday](https://web.archive.org/?tag=Holiday)  
+[Jewels](https://web.archive.org/?tag=Jewels)  
+[Logic](https://web.archive.org/?tag=Logic)  
+[Mario](https://web.archive.org/?tag=Mario)  
+[Math](https://web.archive.org/?tag=Math)  
+[Memory](https://web.archive.org/?tag=Memory)  
+[Mobile](https://web.archive.org/?tag=Mobile)  
+[Ninja](https://web.archive.org/?tag=Ninja)  
+[PacMan](https://web.archive.org/?tag=PacMan)  
+[Pang](https://web.archive.org/?tag=Pang)  
+[Platform](https://web.archive.org/?tag=Platform)  
+[Puzzles](https://web.archive.org/?tag=Puzzles)  
+[Physics](https://web.archive.org/?tag=Physics)  
+[Racing](https://web.archive.org/?tag=Racing)  
+[Ship](https://web.archive.org/?tag=Ship)  
+[Shooting](https://web.archive.org/?tag=Shooting)  
+[SmartPhone](https://web.archive.org/?tag=SmartPhone)  
+[Soccer](https://web.archive.org/?tag=Soccer)  
+[Space](https://web.archive.org/?tag=Space)  
+[Sports](https://web.archive.org/?tag=Sports)  
+[Strategy](https://web.archive.org/?tag=Strategy)  
+[Water](https://web.archive.org/?tag=Water)  
+[Zombie](https://web.archive.org/?tag=Zombie)  
+[Zuma](https://web.archive.org/?tag=Zuma)  
+| 
 
 Privacy Policy
 
@@ -26,4 +75,8 @@ The Site may include links to third party web-sites. Our Privacy Policy does not
 
 We reserve the right to change the information, features, products, policies, promotions, disclosures and disclaimers of this Site at any time, including this Privacy Policy. We will notify users of the Site of any material changes to this Privacy Policy by posting on the Site a revised Privacy Policy, which will indicate the new effective date of such Privacy Policy. BY VISITING THE SITE, YOU ACCEPT THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY; UNLESS YOU ARE A CHILD UNDER THE AGE OF 13, IN WHICH CASE, YOUR PARENTS ACCEPT THIS PRIVACY POLICY. Please check this Privacy Policy periodically to determine if any changes were made to it since you last visited us. Your continued use of the Site following the posting of changes to this Privacy Policy is conclusive proof that you have accepted such changes.
 
-_Last updated on November 28, 2011_
+_Last updated on July 20, 2012_
+
+|   
+  
+Welcome to ALFY.com, featuring hundreds of free online games for all ages! Our team-members carefully select the best [Action Games](https://web.archive.org/?category=Action) and many other categories of games, for your enjoyment. We are proud to feature a variety of [online arcade games](https://web.archive.org/?tag=Arcade), ranging from Pac-Man to Space Invaders. Each game on ALFY.com is tagged, with several tags that you can select from the Tags menu; and you can see similar games by clicking on a Tag of your choice. You are sure to find at ALFY.com the most fascinating [logic games](https://web.archive.org/?tag=Logic) and highly intriguing [board games](https://web.archive.org/?tag=Board), that will challenge your mind. Don't forget to try some of the fast-paced [Running Games](https://web.archive.org/?tag=Adventure) that we have, including games similar to the famous Temple Run smartphone game. We proudly present Flash [Racing Games](https://web.archive.org/?tag=Racing) that are entirely free to play, together with [Animal Games](https://web.archive.org/?tag=Animals) that are fun for the entire family. Hey, don't forget to tell all your friends about our excellent [Cooking Games](https://web.archive.org/?tag=Cooking) in which you cook, bake and prepare virtual food! If you are looking for the coolest free [Celebrity Games](https://web.archive.org/?tag=Celebrities) online, then you have come to the right place at ALFY.com! If you like the [Jonas Brothers](https://web.archive.org/show_game.php?gameID=57), [Miley Cyrus](https://web.archive.org/show_game.php?gameID=58), [Beyonce](https://web.archive.org/show_game.php?gameID=99), [Selena Gomez](https://web.archive.org/show_game.php?gameID=108), [Johnny Depp](https://web.archive.org/show_game.php?gameID=110), [Katy Perry](https://web.archive.org/show_game.php?gameID=113), [Fergie](https://web.archive.org/show_game.php?gameID=118) or [Bratz](https://web.archive.org/show_game.php?gameID=143), then ALFY.com is the online place to be! If you enjoy free online games, with [exploding bombs](https://web.archive.org/?tag=Bomb), [flying airplanes](https://web.archive.org/?tag=Flying), [virtual cooking and baking](https://web.archive.org/?category=Cooking), or simply a careful [defense](https://web.archive.org/?tag=Defense) of your towers, you and your family can enjoy all these great online games on ALFY.com. 
