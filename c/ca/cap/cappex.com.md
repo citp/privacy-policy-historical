@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610235306id_/http%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105182008id_/https%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Cappex
 
@@ -25,6 +25,8 @@ Information is collected from our users at several different points during visit
 
 **Registration** \- A user must register in order to use this site. During the registration process, a user is required to provide certain information, such as name, address, e-mail address, a password, date of birth, gender, country of citizenship, educational background, grades, and extracurricular activities. In addition, a user may choose to provide other information, such as intended major, career objectives, hobbies and other interests. This information may be updated and amended at any time after the initial registration. Cappex encourages its users to provide these fields of information so that users may maximize the effectiveness of our college search and matching services. If the user will be applying for financial assistance, certain financial and other information regarding the user's family will also need to be provided.
 
+You may also elect to register using an account you already have with certain third-party social networking sites ("SNS") (including, but not limited to, Facebook) via our service. For example, Cappex allows you to create an account and login to Cappex using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user on Cappex and you click on "Sign Up Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Cappex.
+
 **Collection of Information from Children** \- Cappex abides by federal law and the guidelines set up by the Federal Trade Commission regarding youth privacy. As such, Cappex will not knowingly collect any personal information from or allow the registration of young people under the age of thirteen (13) years.
 
 **Referring Friends** \- You can choose to let others know about Cappex through our referral feature. If you choose to use this feature, we will ask you for that person's name and e-mail address and Cappex will send him or her one or more e-mails inviting him or her to visit Cappex to learn more about our services. Cappex stores their contact information for the sole purpose of sending these e-mails.
@@ -34,8 +36,6 @@ Information is collected from our users at several different points during visit
 **Newsletter** \- If a user wishes to subscribe to any of our newsletters, we ask them to register by providing their contact information, including email address, geographic information (ZIP code), and other information about themselves (such as high school student, parent, etc.). Newsletter recipients will also receive offers from time-to-time from Cappex and select sponsors; however, you may opt-out of receiving these offers at any time.
 
 **Cookies and Web Site Information** \- We use "cookie" technology and web server logs to collect information about how our web site is used by you. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computer used by you to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. Information gathered through cookies and by our web server logs may include the date and time of visits, your IP address, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information may be appended to your personal information provided by you to us to help us provide you with better service and information. It also may be collected on an aggregate basis, and shared with or collected by third-party Web analytics services to help Cappex understand our users' aggregated Web site usage patterns and related trends. 
-
-**Click Tracking** \- This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service exclusively for improving the usefulness of Cappex.com for our visitors. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
 Information gathered through cookies and by our web server logs may include the date and time of visits, your IP address, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information may be appended to your personal information provided by you to us to help us provide you with better service and information. It also may be collected on an aggregate basis, and shared with or collected by third-party Web analytics services to help Cappex understand our users' aggregated Web site usage patterns and related trends.
 
@@ -59,6 +59,8 @@ In addition, Cappex uses your information in order to customize our site to your
 
 Please be sure to consult the official rules of any contest or sweepstakes you enter on Cappex as specific data collection and usage practices may vary by contest or sweepstakes.
 
+**Use of SNS in Account Creation** \- If you decide to create your account by logging into a SNS via Cappex, you are using the personal information you have already provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS) to create your user account on Cappex; the information we collect may depend on the privacy settings you have with the SNS, so please consult the SNS's privacy and data practices. For example, by using Facebook Connect, you are allowing Cappex to access the personal information in your Facebook account pursuant to the Facebook Terms of Use regarding your use of Cappex via Facebook. 
+
 back to top
 
 ### 3\. Sharing of Information
@@ -72,6 +74,10 @@ Cappex will not knowingly sell, share, rent or otherwise transfer your informati
 **Third Party Service Providers** \- From time to time, Cappex may decide that it is more efficient to use third parties to perform specific services, such as sending newsletters to Cappex's users. If we use a third party to provide specific services (such as sending newsletters to our users on our behalf), then personally identifiable information (such as contact information) may be shared with that party to the extent necessary for such third party service provider to provide these services. These third party service providers are only allowed to use personally identifiable information only for the purpose of providing the specific services requested by Cappex. These third party service providers have agreed to hold and use your confidential information in accordance with this Privacy Policy. The third party services covered by this paragraph do not include links to third party sites found on our site, which are governed by a more specific provision (Links to Other Sites) below.
 
 **Scholarship Administrators** \- If you applied for a scholarship on Cappex, your profile information may be shared with a third-party scholarship administrator to select scholarship recipients. If you are selected as a scholarship winner, a third-party scholarship administrator will contact you directly to verify your profile information, including but not necessarily limited to obtaining copies of academic transcripts, proof of financial need if required, or any other documentation Cappex or the scholarship administrator requires to award the scholarship and disburse funds to your college or university.
+
+**Social Networking Sites:** We may share the information in your Cappex account (including your personal information) with the SNSs that you have linked to your Cappex account. These third parties have access to your personal information only for this purpose (unless the SNS has received your personal information independently of Cappex) and not for other purposes.
+
+**Facebook Connect:** We allow users to link their Facebook account to Cappex. Users can then post recent activity on Cappex back to their Facebook account. You will be prompted to decide whether or not your activity on Cappex will be shared and disclosed on your Facebook account. Use of this feature is entirely optional. 
 
 **Links to Other Sites** \- Cappex may present links to third party websites in a format that enables us to keep track of where those links have been followed. This Privacy Policy applies only to web sites and services that are owned and operated by Cappex, LLC. As we do not control other sites to which we may link, they are not subject to our Privacy Policy. Please realize that we do not control the information provided by you to any other third party site to which you may link from the Cappex site.
 
@@ -119,4 +125,4 @@ Highland Park, IL 60035
 
 back to top
 
-Last Updated: September 12, 2011
+Last Updated: August 30, 2012
