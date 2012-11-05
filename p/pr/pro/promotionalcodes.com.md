@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510134257id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105060557id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+#### Privacy Policy
 
 Your privacy is important to us!
 
@@ -8,7 +10,7 @@ PromotionalCodes.com has created this statement to illustrate our dedication to 
 
 PromotionalCodes.com understands the importance of privacy. We assure you that should we ask you to provide us with any personal or identifying information, such information will only be used in a manner specified in this privacy statement. 
 
-#### Data Collection
+_Data Collection_
 
 **Coupon Comments** —You are by no means obligated to share any personal information on this website. However, there is one area where, if you like, you may comment on a coupon offer. In order to make your comment seem more personal and easier to reply to you are asked to enter a user name and a state of residence to go along with your comment. You are not required to enter a name or place and if you choose to leave these fields blank your comment will still be posted anonymously. However, should you choose to enter this information PromotionalCodes.com assures you that neither your name nor location will be shared with any other parties. 
 
