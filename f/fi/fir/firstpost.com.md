@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620081925id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105013513id_/http%3A//firstpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Firstpost
 
