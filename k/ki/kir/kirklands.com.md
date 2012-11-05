@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515123619id_/http%3A//www.kirklands.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105165340id_/http%3A//www.kirklands.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Kirkland's: Privacy and Security
+# Privacy and Security | Kirkland's
 
 Welcome to the Kirkland’s, Inc.’s websites, available at “Kirklands.com” and “MyKirklands.com” (collectively, the “Sites”). This Statement discloses the Security and Privacy Policy (this “Policy”) for the Sites and describes how Kirkland’s, Inc. (“Kirkland’s”), the operator of the Sites, collects, protects and uses information we receive from visitors to the Sites. This Policy has been created in order to demonstrate and inform you of our firm commitment to privacy and to outline how we deal with any personal data you provide while visiting the Sites. If you do not agree with any portion of this Policy, you should not use the Sites. This Policy applies only to information collected through the Sites and not to information collected offline or through any other websites (even if affiliated with Kirkland’s).
 
