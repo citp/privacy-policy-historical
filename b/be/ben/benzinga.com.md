@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benzinga.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624235338id_/http%3A//www.benzinga.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benzinga.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105210810id_/http%3A//www.benzinga.com/page/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Benzinga
 
@@ -62,9 +62,9 @@ Because we value your privacy, we have taken the necessary precautions to be in 
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account page and going to the 'Edit Account' page.
 
-**CHILDRENS ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
+**CHILDREN'S ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **ONLINE PRIVACY POLICY**
 
@@ -74,4 +74,4 @@ This online Privacy Policy applies only to information collected through our web
 
 If we decide to change our Privacy Policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 02/16/2011.
+This policy was last modified on 10/21/2012.
