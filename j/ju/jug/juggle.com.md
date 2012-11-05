@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414143131id_/http%3A//www.juggle.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105043015id_/http%3A//www.juggle.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Juggle.com
 
@@ -12,9 +12,9 @@ The information we learn from users helps us personalize and continually improve
 
 **Information You Give Us:** We receive and store any information you enter on the Juggle site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing the Juggle site for you, improving the Juggle site, and communicating with you.
 
-**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the Juggle site. [Click here](https://web.archive.org/corporate/terms-of-service/) to see examples of the information we receive. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Juggle if we cannot recognize you, we want you to be aware that these tools exist.
+**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the Juggle site. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and pages you viewed or searched for.
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and pages you viewed or searched for.
+A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Juggle if we cannot recognize you, we want you to be aware that these tools exist.
 
 ## What About Cookies?
 
