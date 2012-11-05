@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flykingfisher.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517190911id_/http%3A//www.flykingfisher.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flykingfisher.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105033726id_/http%3A//www.flykingfisher.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Kingfisher Airlines - Airline Privacy Policy
 
