@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genuineonlinebank.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316044027id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genuineonlinebank.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105065417id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy) for the most accurate reproduction.*
 
 # GOB | Genuine Online Bank
 
@@ -34,7 +34,7 @@ By making your deposit with Genuine Online Bank , you declare that you have read
 ---  
 Username: |   
 Password: |   
-|  |  | [(forget?)](https://web.archive.org/web/20120316044027id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy?a=forgot_password)  
+|  |  | [(forget?)](https://web.archive.org/web/20121105065417id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy?a=forgot_password)  
 ---|---  
   
 
@@ -49,10 +49,10 @@ Password: |
 ---|---  
 |  [ ](https://www.libertyreserve.com/?ref=U3546101) |  [ ](https://www.perfectmoney.com/?ref=976514)  
 ---|---  
-[ ](https://www.alertpay.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d) |  [ ](http://30972.c-gold.com/)  
-[ ](https://www.globaldigitalpay.com/?rid=G0913694) |  [ ](https://www.alertpay.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d)  
-[ ](http://www.routepay.com/?ref=RB224851) |  [ ](https://ecumoney.com/)  
-[ ](https://www.alertpay.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d) |     
+[ ](https://secure.payza.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d) |  [ ](http://30972.c-gold.com/)  
+[ ](https://secure.payza.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d) |  [ ](https://secure.payza.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d)  
+[ ](http://www.routepay.com/?ref=RB224851) |     
+  |     
    
   
 [ ](http://www.histats.com/)
