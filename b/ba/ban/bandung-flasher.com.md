@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandung-flasher.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505004235id_/http%3A//www.bandung-flasher.com/goto.php%3Fsection%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandung-flasher.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105040817id_/http%3A//www.bandung-flasher.com/goto.php%3Fsection%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Bandung-Flasher.com GSM CDMA Cell Phone Repair Forum
 
