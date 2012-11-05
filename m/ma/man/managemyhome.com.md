@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managemyhome.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513044703id_/http%3A//www.managemylife.com/mmh/dhtml/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managemyhome.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105171110id_/http%3A//www.managemylife.com/mmh/dhtml/Privacy.html) for the most accurate reproduction.*
 
 # Manage My Life - Privacy policy
 
