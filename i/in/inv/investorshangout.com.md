@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investorshangout.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615102451id_/http%3A//investorshangout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorshangout.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105034402id_/http%3A//investorshangout.com/privacy) for the most accurate reproduction.*
 
-# Investors Hangout - Privacy Site
+# Privacy Policy | Investors Hangout
 
 **Your use of the Investors Hangout Website indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy**
 
