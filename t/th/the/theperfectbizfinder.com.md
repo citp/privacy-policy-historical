@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theperfectbizfinder.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523163616id_/http%3A//www.theperfectbizfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfectbizfinder.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106000955id_/http%3A//www.theperfectbizfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
