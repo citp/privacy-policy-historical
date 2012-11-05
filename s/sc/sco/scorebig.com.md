@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606231930id_/http%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105220617id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ScoreBig
+# ScoreBig.com - Privacy Policy
 
 Thank you for accessing the web site ("Site") of ScoreBig, Inc. ("ScoreBig.com"). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -10,7 +10,7 @@ This Privacy Policy applies only to this Site. This privacy policy does not nece
 
 We are not responsible for the content or privacy practices on any non-ScoreBig.com web site to which this Site links or that links to this Site.
 
-ScoreBig.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-SCOREBIG or help@scorebig.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+ScoreBig.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-SCOREBIG or via [email](http://help.scorebig.com/anonymous_requests/new). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ###  INFORMATION COLLECTION AND USE
 
@@ -69,7 +69,7 @@ This Site incorporates physical, electronic, and administrative procedures to sa
 
 ###  OPT OUT/CORRECTIONS
 
-On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or emailing your request to our Customer Support department at 1-877-726-7324 or [help@scorebig.com](mailto:help@scorebig.com). Please do not email your credit-card number or other sensitive information.
+On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or [emailing](http://help.scorebig.com/anonymous_requests/new) your request to our Customer Support department at 1-877-726-7324. Please do not email your credit-card number or other sensitive information.
 
 ###  OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
@@ -77,10 +77,10 @@ As you might expect, the majority of information that we collect is obtained thr
 
 ###  CALIFORNIA PRIVACY RIGHTS
 
-California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [help@scorebig.com](mailto:help@scorebig.com) or write to us at 1800 N. Highland Ave, first Floor, Los Angeles, CA 90028. Attn: Customer Service.
+California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an [e-mail](http://help.scorebig.com/anonymous_requests/new) or write to us at 1800 N. Highland Ave, first Floor, Los Angeles, CA 90028. Attn: Customer Service.
 
 ###  UPDATES TO THIS POLICY
 
-If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. If you have any questions about the Privacy Policy, please contact our Customer Service department at 1-877-726-7324 or [help@scorebig.com](mailto:help@scorebig.com).
+If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. If you have any questions about the Privacy Policy, please contact our Customer Service department at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new).
 
 This Privacy Policy was last updated on September 14, 2010
