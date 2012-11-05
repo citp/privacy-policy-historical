@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localnet360.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619062555id_/http%3A//www.localnet360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localnet360.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105145905id_/http%3A//www.localnet360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,7 +95,7 @@ We may offer links to sites that are not operated by LocalNet360.com. If you vis
 _  
 Changes_
 
-This privacy policy is effective as of September 1, 2010. LocalNet360.com reserves the right to change this policy at anytime. Please check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. 
+This privacy policy is effective as of August 1, 2012. LocalNet360.com reserves the right to change this policy at anytime. Please check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. 
 
 **HOW TO CONTACT US**
 
