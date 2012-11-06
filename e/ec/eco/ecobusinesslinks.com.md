@@ -1,19 +1,11 @@
-> *The following text is extracted and transformed from the ecobusinesslinks.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314212133id_/http%3A//www.ecobusinesslinks.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobusinesslinks.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106014445id_/http%3A//www.ecobusinesslinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# EcoBusinessLinks – Privacy Policy | EcoBusinessLinks
 
-**
+Last Updated: 11/03/2012
 
-EcoBusinessLinks is committed to protecting the privacy of website visitors. Any information provided to EcoBusinessLinks will be for internal use only. Personal   
-information submitted to this website, including contact information and email addresses, will not be provided to any third-party, except for legal purposes if necessary. 
+EcoBusinessLinks is committed to protecting the privacy of website visitors. Any information provided to EcoBusinessLinks will be for internal use only. Personal information submitted to this website, including contact information and email addresses, will not be provided to any third-party, except for legal purposes if necessary.
 
-**
+We use third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone  number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please refer to the following links: [Google Advertising Policy](http://www.google.com/privacy_ads.html) & [Network Advertising Initiative](http://www.networkadvertising.org/).
 
-**We use third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone  
-number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice   
-and to know your choices about not having this information used by these companies, please refer to the following links:  [Google Advertising Policy](http://www.google.com/privacy_ads.html) & [Network Advertising Initiative](http://www.networkadvertising.org/).**
-
-  
-
-
-> 
+Rating: 0.0/ **10** (0 votes cast)
