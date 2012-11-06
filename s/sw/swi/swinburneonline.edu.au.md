@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swinburneonline.edu.au privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625170156id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swinburneonline.edu.au privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083828id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,38 +8,11 @@ Swinburne University of Technology acknowledges and respects the privacy of indi
 
 **Why do we collect your information**
 
-This information is normally collected for the purposes of processing your application, registration or inquiry for a Swinburne University of Technology course, activity or interest group. Information that we collect will be used for keeping you informed of upcoming events, improving the student experience and assisting us in improving and marketing our services to you. 
-
-**How do we collect your information**
-
-**Registration**
-
-Swinburne University of Technology generally collects information through forms, direct marketing, Internet registration or contracts with external education and training providers. The provision of this personal information is voluntary but if information is not provided, Swinburne University of Technology University may be unable to process your details for the purpose for which they were intended. 
-
-**e-Learning**
-
-Some Swinburne University of Technology sites may have chat rooms, forums, online teaching environments, message boards and or/news groups available to their users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Online recruitment**
-
-We collect personal information from Careerhub.com about Swinburne University students that are registered through the Swinburne University/ Careerhub.com web site. We collect this information to improve student employment and to enhance the student experience. 
-
-**Cookies**
-
-The Swinburne University of Technology web systems have extensive security features and may temporarily install "cookie(s)" on your computer. These cookie(s) communicates to secure servers at the Swinburne University of Technology to authenticate access to a number of Swinburne University of Technology systems. The cookie(s) do not collect any information about you, or how you are using your computer and only serve to ensure that you have identified yourself with the correct username and password. 
+This information is normally collected for the purposes of processing your application, registration or inquiry for a Swinburne University of Technology course, activity or interest group. Information that we collect will be used for keeping you informed of upcoming events, improving the student experience and assisting us in improving and marketing our services to you. For more information refer to the [Privacy Collection Notice](https://web.archive.org/web/20121106083828id_/http%3A//www.swinburne.edu.au/privacy_collection.htm).
 
 **Security**
 
-Any personal information that we collect is held with the strictest confidence. Swinburne University uses and implements industry standards for the security and protection of information collected, and this information is securely stored and access is restricted to authorised personnel only, ensuring that your personal information is protected and safeguarded 
-
-Information Swinburne University collects is used only for the purpose stipulated at the time that the information is collected. Swinburne University is required by law not to reveal, disclose, sell, distribute, rent, licence, share or pass on to any third parties, any personal information that you may have provided to us unless we have your express consent to do so. 
-
-Exceptions to this include:
-
-  * Where there are reasonable grounds to believe that disclosure is necessary to prevent a threat to life or health; and;
-  * Where Swinburne University is required to provide information in response to Subpoenas or Warrants or other legal process, including requests from the Australian Stock Exchange.
-
-
+Swinburne University uses and implements industry standards for the security and protection of information collected, and this information is securely stored and access is restricted to authorised personnel only, ensuring that your personal information is protected and safeguarded 
 
 **Access to your information**
 
@@ -47,7 +20,7 @@ You have a right of access to, and alteration of personal information concerning
 
 **Privacy policy**
 
-Swinburne University has a Privacy Policy that can be found on its Policies and Procedures Database, which outlines the ways in which we intends to meet our privacy commitments and details the procedures for making complaints under the Act. The Privacy Policy can be located at:  <http://policies.swinburne.edu.au/ppdonline/showdoc.aspx?recnum=POL/2008/166>
+Swinburne University has a [Privacy Policy](http://policies.swinburne.edu.au/ppdonline/showdoc.aspx?recnum=POL/2008/166) that can be found on its Policies and Procedures Database, which outlines the ways in which we intends to meet our privacy commitments and details the procedures for making complaints under the Act. 
 
 **Contact**
 
