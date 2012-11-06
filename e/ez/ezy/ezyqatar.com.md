@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ezyqatar.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624035454id_/http%3A//www.ezyqatar.com/contents/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezyqatar.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106011023id_/http%3A//www.ezyqatar.com/contents/view/privacy_policy) for the most accurate reproduction.*
 
-# ezyqatar.com
-
-## Privacy Policy
+# ezyQatar.com
 
 This is the privacy policy of ezyQatar and is applicable to all the people who intend to use any of our services.
 
