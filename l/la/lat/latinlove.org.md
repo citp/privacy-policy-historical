@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106183705id_/http%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
 
 # Latin Love
 
-| [Home](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/index.php?l=en&randm=3&randw=5)|   |  | [Browse](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/browse_members.php?l=en&randm=3&randw=5)|   |  | [Search](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/a_search_all.php?l=en&randm=3&randw=5)|   |  | [Register](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/join_now.php?l=en&randm=3&randw=5)|   |  | [Galleries](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/gallery.php?l=en&randm=3&randw=5)|   |  | [Statistic](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/statistik.php?l=en&randm=3&randw=5)|   |  | [Success Stories](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/testimonials.php?l=en&randm=3&randw=5)|   |  | [Member's login](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/login.php?l=en&randm=3&randw=5)|   |  | [Contact us](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/impressum.php?l=en&randm=3&randw=5)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-| | |   
+|  | | |   
 ---|---|---  
 |  |    
   
@@ -96,5 +94,5 @@ The author intended not to use any copyrighted material for the publication or, 
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
 | | | |   
-| |  | [Freeware](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20120512112950id_/http%3A//www.latinlove.org/agb.php?l=en&randm=3&randw=5)  
+| |  | [Freeware](https://web.archive.org/web/20121106183705id_/http%3A//www.latinlove.org/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20121106183705id_/http%3A//www.latinlove.org/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20121106183705id_/http%3A//www.latinlove.org/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20121106183705id_/http%3A//www.latinlove.org/agb.php?l=en&randm=3&randw=5)  
 ---|---|---|---|---|---
