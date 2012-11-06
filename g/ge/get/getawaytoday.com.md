@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619011934id_/http%3A//www.getawaytoday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106053122id_/http%3A//www.getawaytoday.com/Privacy) for the most accurate reproduction.*
 
 # Get Away Today Vacations - Official Site - Privacy Policy
 
