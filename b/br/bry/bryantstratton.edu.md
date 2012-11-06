@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502233550id_/http%3A//www.bryantstratton.edu/Utilities/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106014143id_/http%3A//www.bryantstratton.edu/Utilities/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Bryant & Stratton College Privacy Policy - Bryant & Stratton
 
