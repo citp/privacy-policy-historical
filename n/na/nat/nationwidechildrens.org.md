@@ -1,124 +1,131 @@
-> *The following text is extracted and transformed from the nationwidechildrens.org privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510121846id_/http%3A//www.nationwidechildrens.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwidechildrens.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106084240id_/http%3A//www.nationwidechildrens.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice :: Nationwide Children's Hospital
 
-**Notice of Privacy Practices**   
+##  **Notice of Privacy Practices**
 
+This notice describes how your health information may be used and shared with others (disclosed) and how you can get access to this information. Please review this notice carefully.
 
-**Integrated Child Healthcare Arrangement**
+###  **I. Who must follow this Notice?**
 
-This notice describes how medical information about you, your child, or any patient for whom you are responsible, may be used and disclosed and how you can get access to this information. Please review it carefully.
+Nationwide Children’s Hospital provides health care to patients in partnership with other professionals and health care organizations. Collectively, the following organizations will be referred to as “we” or “us.” While each of these facilities and affiliates operates independently, we will share your health information among ourselves to carry out our treatment, payment, and health care operations.
 
-This is a formal notice, as required by law, explaining how we may use and disclose your PROTECTED HEALTH INFORMATION to carry out treatment, payment, or health care operations, and for other purposes permitted by law. It also describes your rights to access and control your PROTECTED HEALTH INFORMATION ("PHI").
+**The information privacy practices in this Notice will be followed by:**
 
-The terms of this Notice apply to all of the following corporate entities (hereafter collectively referred to as "ICHA") which have voluntarily elected to operate as an integrated health care arrangement for purposes of this Privacy Notice.   
-  
----  
-|   
-**Independent or Joint Entities**   
-Greater Ohio Orthopedic Surgeon  
-Ohio Urology, Inc.  
-Children's Anesthesia Associates  
-Children's Surgery Center, Inc.  
-Pediatric Academic Association  
-Partners for Kids, Inc.  |   
-**Children's Entities**  
-Children's Hospital  
-Children's Research Institute  
-Children's Hospital Foundation  
-Children's Surgical Associates Corp.  
-Children's Radiological Institute. Inc.  
-Children's Homecare Services  
-Center for Child and Family Advocacy  
-Pediatric Clinical Trials International  
-Pediatric Pathology Assocs. of Columbus  
-  
----|---  
-  
-Protected Health Information, hereafter noted as "PHI" or "your PHI", is information about you or a patient for whom you are responsible, including demographic or billing information, that may individually identify you or the patient, and that relates to past, present, or future health conditions and related health care services and payment.
-
-This serves as notice of our intent to maintain all medical records and information in the strictest of confidence.  
-  
-_HOW WE MAY USE AND DISCLOSE YOUR PHI_
-
-_FOR TREATMENT._  We will use PHI to provide, coordinate or manage health care and any related services. This includes communication with other physicians, nurses, technicians, office staff, or providers of services (specialists, laboratories, orthotists, prosthetists, facilities, pharmacies, etc.) who provide care or services requested by your physician. For example, your doctor or nurse or social worker may provide medical information to your other doctors or health care providers to coordinate your care.
-
-_FOR PAYMENT._ We will use PHI to obtain payment for services you receive from ICHA, or another provider who has treated you, from an insurance company or a third party. This may include pre-treatment reviews or authorizations, determinations of eligibility and coverage, reviewing services provided to you for medical necessity, and undertaking utilization review activities. For example, we may contact your insurance company before an office or home visit, or surgery, or testing, to determine the need for precertification or to determine whether your plan will cover the services.
-
-_BUSINESS OPERATIONS._ We may use or disclose PHI in order to support our business activities. These include, but are not limited to, professional peer review, employee review activities, clinical improvement, training or education of students or residents, continuation of medical education, accrediting, insurance and licensing activities, and conducting or arranging for other business activities. For example, we may use your PHI to train medical residents or students who see our patients. We may also disclose your PHI to another health care facility, professional or plan for such purposes as quality assurance if that entity has a healthcare relationship with you.
-
-_APPOINTMENTS AND SERVICES._ We may contact you as a reminder that you have an appointment for treatment or medical care at the office. We may also contact you with test results. You have the right to request and we will attempt to accommodate reasonable requests by you to receive communications regarding your PHI from us by alternative means or at alternative locations (see "Your Rights").
-
-_BUSINESS ASSOCIATES._ We will share your PHI with third party 'business associates' who perform various activities (e.g., billing, transcription) for us. Whenever an arrangement with a business associate involves the use or disclosure of PHI, we will have a written contract that contains terms that will protect the privacy of this PHI.
-
-_OTHERS INVOLVED IN YOUR HEALTHCARE._ Unless you request otherwise, we may disclose, to a member of your or the patient's family, relative, or close friend or any other person you identify, PHI that directly relates to that person's involvement in the patient's health care. If you are unable to agree or object to such a disclosure, we may disclose such information as necessary if we determine that is in the patient's best interest based on our professional judgement. We may use or disclose PHI to notify or assist in notifying a family member, personal representative, or any other person that is responsible for the patient of the patient's location, and general condition.
-
-_COMMUNICATION BARRIERS:_ We may use and disclose your PHI if we or your physician or another physician attempts to obtain consent from you but is unable to do so due to substantial communication barriers and the physician determines, using professional judgement, that you intend to consent to use or disclose under the circumstances.
-
-_EMERGENCIES._ **_Your consent is not required before using or disclosing PHI in an emergency treatment situation._** We will attempt to obtain consent, but will proceed with treatment and use and disclosure of PHI as needed. If this happens, we or your physician will try to obtain your consent as soon as reasonably possible.
-
-_GOODS AND SERVICES:_ Unless you object, we may use and disclose your PHI to provide you with information about treatment alternatives or other health related benefits and services we offer. For example, your name and address may be used to send you a newsletter about a product or service that may be beneficial to you.
-
-_REVOKING CONSENT:_ You may revoke your Consent at any time by giving us written notice. Your revocation will be effective when we receive it, but it will not apply to any uses and disclosures that occurred before that time. If you do revoke your Consent, we will not be permitted to use or disclose information for purposes of treatment, payment or healthcare operations, and we may therefore choose to discontinue providing you with healthcare treatment and services.
-
-Other uses and disclosures of PHI will be made only with your written Authorization, unless otherwise permitted or required by law as described below. You may revoke an Authorization at any time, in writing.
-
-_FACILITY DIRECTORY AND FUNDRAISING:_ If you receive care from a Children's Hospital entity, and unless you object, we may disclose the patient's name in our inpatient facility directory (name, room, general condition and religious affiliation). Also, unless you object, we may contact you to contribute to a fundraising effort for or on our behalf, and you may be contacted by someone in the future either during or after your care to inquire about your interest in:
-
-  * having your story used for fundraising, newsletter articles, fundraising videos, direct mail, and other marketing related efforts; 
-  * visiting with a celebrity or athlete during the patient's stay; 
-  * participating in events, such as press conferences, symphony concerts, and other events both inside and outside our facilities. 
+  * Nationwide Children’s Hospital, Inc.
+  * Nationwide Children’s Hospital
+  * The Center for Family Safety and Healing
+  * Nationwide Children’s Hospital’s ChildLabs
+  * Children’s Radiological Institute, Inc.
+  * Children’s Anesthesia Associates, Inc.
+  * Children’s Surgical Associates Corp.
+  * Nationwide Children’s Hospital Foundation
+  * Nationwide Children’s Hospital Homecare
+  * Pediatric Pathology Associates of Columbus, Inc.
+  * Pediatric Academic Association, Inc.
+  * Research Institute at Nationwide Children’s Hospital
+  * Any healthcare professional that treats you at any of our locations.
+  * All employees, medical staff, trainees, students, or volunteers of the entities listed above.
 
 
 
-You and the patient will always have the option not to participate in the activities above, and may formally opt out at inpatient admission or by writing to Children's Hospital Foundation, 700 Children's Drive, Columbus, OH 43205 with a statement that you do not wish to participate.
+We reserve the right to change this Notice of Privacy Practices and to make any new practices effective for information we already have and for information that we receive in the future. Any changes made to the Notice of Privacy Practices will be posted throughout Nationwide Children’s Hospital and affiliated facilities, in the Patient Registration area, posted on our Web site (www.nationwidechildrens.org) and made available to you at your next appointment.
 
-[TOP](https://web.archive.org/privacy-notice#top)
+###  **II. To what information does this Notice apply?**
 
-The following is a statement of your rights with respect to your PHI. All forms are available online in an Adobe PDF document. If you need to download the latest version - [click here](http://www.adobe.com/products/acrobat/readstep2.html).
+Protected Health Information (PHI) is information that you provide us or that we create or receive about your health care. PHI contains a patient’s age, race, sex, and other personal health information that may identify the patient. The information relates to the patient’s physical or mental health in the past, present, or future, and to the care, treatment, services, and payment for care needed by a patient because of his or her health.
 
-_You have the right to inspect and copy your PHI._ You may inspect and obtain a copy of PHI about you or your child. All requests must be in writing to the entity or location providing your care and signed by the patient or his parent or legal guardian if a minor. We will charge for all copies and postage, if mailed. However, under federal law, you may not have a right to inspect or copy certain types of your PHI. In some cases you may have a right to a review of our decision to deny you access to such PHI. [Click here to print](https://web.archive.org/Document/Get/23927).
+###  **III. Ways We Can Use and Share Your PHI Without Your Written Permission (Authorization)**
 
-_You have the right to request limits on the use and disclosure of PHI._ You may ask us not to use or disclose any part of PHI for the purposes of treatment, payment or healthcare operations. You may also ask that PHI not be disclosed to family members or friends who may be involved in your care or the payment for it. Your request must state the specific restriction requested and to whom you want the restriction to apply. [Click here to print](https://web.archive.org/Document/Get/23929).
+In many situations, we can use and share your PHI for activities that are common in hospitals. In certain other situations, which we will describe below, we must have your written permission (authorization) to use and/or share your PHI. We do not need any type of permission from you for the following uses and disclosures:
 
-Your physician is not required to agree to a restriction that you may request. If the physician believes it is in you or your child's best interest to permit use of PHI, the PHI use will not be restricted. If your physician agrees to the requested restriction, we may not use PHI in violation of that restriction unless it is needed to provide emergency treatment.
+  1. We must use and disclose your health information to provide that information:  
+a. To you or someone who has the legal right to act for you (your personal  
+representative) in order to administer your rights as described in this Notice; and  
+b. To the Secretary of the Department of Health and Human Services, if  
+necessary, to make sure your privacy is protected.
+  2. Uses and Disclosures for Treatment, Payment and Health Care Operations. We may use and share your PHI to provide “Treatment,” obtain “Payment” for your Treatment, and perform our“Health Care Operations.” These terms mean the following:  
+**a. Treatment.** We use and share your PHI to provide care and other services to you; for example, to diagnose and treat your injury or illness. In addition, we may contact you to provide appointment reminders or information about treatment options. We may tell you about other health-related benefits and services that might interest you. We may also access and/or disclose PHI with doctors, nurses, and others involved in your care.  
+**b. Payment.** We may use and share your PHI to receive payment for services that we provide to you. For example, we may share your PHI to request payment and receive payment from Medicare, Medicaid, your health insurer, HMO, or other company or program that arranges or pays the cost of some or all of your health care (“Your Payor”) and to confirm that Your Payor will pay for health care. As another example, we may share your PHI with the person who you told us is primarily responsible for paying for your Treatment, such as your spouse or parent.  
+**c. Health Care Operations.** We may use and share your PHI for our health care operations, which include management, care coordination, planning, and activities that improve the quality and lower the cost of the care that we deliver. For example, we may use PHI to review the quality and skill of our physicians, nurses, and other health care providers. We may use your PHI to conduct quality assessment and improvement activities, including outcomes evaluation and the development of clinical guidelines. We may also use your PHI to participate in population-based activities related to improving health or reducing health care costs. Finally, we might use your PHI to provide you information on health related programs or products such as alternative medical treatments and programs or about health-related products and services, subject to limits imposed by law.
+  3. **Disclosures to Your Other Health Care Providers.** We may also share PHI with your doctor and other health care providers when they need it to provide Treatment to you, to obtain Payment for the care they give to you, to perform certain Health Care Operations, such as reviewing the quality and skill of health care professionals, or to review their actions in following the law.
+  4. **Use or Disclosure for the Facility Directory of Patients at Nationwide Children’s Hospital.** We may include your name, location in the hospital, general health condition and religious affiliation in a patient directory without receiving your permission; however, you reserve the right to tell us you do not want your information in the directory. Information in the directory may be shared with anyone who asks for you by name or with members of the clergy; however, religious affiliation will only be shared with members of the clergy.
+  5. **Use or Disclosure for track boards, white boards, bed boards, and patient room placards.** We may write your first name, the first three letters of your last name, and your medical record number on various tracking boards, at nurse’s  
+stations, and/or outside of your room unless you tell your caregiver that you do not want your information placed there.
+  6. **Disclosure to Relatives, Close Friends and Your Other Caregivers.** We may share your PHI with your family member/relative, a close personal friend, or another person who you identify if we (1) first provide you with the chance to  
+object to the disclosure and you do not object; (2) infer that you do not object to the disclosure; or (3) obtain your agreement to share your PHI with these individuals. If you are not present at the time we share your PHI, or you are not  
+able to agree or disagree to our sharing your PHI because you are not capable or there is an emergency circumstance, we may use our professional judgment to decide that sharing the PHI is in your best interest. We may also use or share your PHI to notify (or assist in notifying) these individuals about your location and general condition.
+  7. **To Business Associates** that perform functions on our behalf or provide us with services if the information is necessary for such functions or services. Our business associates are required, under contract with us, to protect the privacy of your information and are not allowed to use or disclose any information other than as specified in our contract.
+  8. **For Data Breach Notification Purposes.** We may use your contact information to provide legally-required notices of unauthorized acquisition, access, or disclosure of your health information.
+  9. **Fundraising Communications.** We may contact you with information about the importance of contributions to Nationwide Children’s Hospital and invite you to participate. We may share with our fundraising staff limited information about you (e.g., your name, address, gender, insurance status, and phone number) including the dates on which we provided health care to you, without your written authorization. If you do not want to receive any fundraising information in the future, you may opt out in writing to Nationwide Children’s Hospital Foundation, 700 Children’s Drive, Columbus, OH 43205 or opt out electronically on any email communications.
+  10. **Public Health Activities.** We are required or are permitted by law to report PHI to certain government agencies and others. For example, we may share your PHI for the following reasons:  
+**a.** to report health information to public health authorities for the purpose of preventing or controlling disease, injury, or disability;  
+**b.** to report known or suspected abuse or neglect to the appropriate public child protective services agency, as we are required to do by law;  
+**c.** to report information about products and services to the U.S. Food and Drug Administration;  
+**d.** to alert a person who may have been exposed to a communicable disease or may otherwise be at risk of developing or spreading a disease or condition;  
+**e.** to report information to your employer as required under laws addressing work-related illnesses and injuries or workplace medical surveillance; and  
+**f.** to prevent or lessen a serious and imminent threat to a person for the public’s health or safety or to certain government agencies with special functions such as the State Department.
+  11. **Health Oversight Activities.** We may share your PHI with a health oversight agency that oversees the health care system and ensures the rules of government health programs, such as Medicaid, are being followed.
+  12. **Judicial and Administrative Proceedings.** We may share your PHI in the course of a judicial or administrative proceeding in response to a court order or other lawful process.
+  13. **Law Enforcement Purposes.** We may share your PHI with the police or other law enforcement officials as required or permitted by law or in compliance with a court order or warrant.
+  14. **Correctional Facilities.** We may share your PHI if you are an inmate of a cor rectional institution or under the custody of a law enforcement official, but only if necessary (1) for the institution to provide you with health care; (2) to protect your health and safety or the health and safety of others; or (3) for the safety and security of the correctional institution.
+  15. **Decedents.** We may share PHI with a coroner, funeral director, or medical examiner as authorized by law.
+  16. **Organ and Tissue Procurement.** We may share your PHI with organizations that facilitate organ, eye, or tissue procurement, banking, or transplantation.
+  17. **Research.** We may use or share your PHI if the group that oversees our research, the Institutional Review Board, approves a waiver of permission (authorization) for disclosure or for a researcher to begin the research process.
+  18. **Workers’ Compensation.** We may share your PHI as permitted by or required by state law relating to workers’ compensation or other similar programs.
+  19. **As required by law.** We may use and share your PHI when required to do so by any other law not already referred to above.
 
-_You have the right to request to receive confidential communications from us by alternative means or at an alternative location._ You have the right to request that we communicate with you about medical matters in a certain way or at a certain location. We will accommodate reasonable requests. We will not request an explanation from you as to the basis for the request. This request must be made in writing. [Click here to print](https://web.archive.org/Document/Get/23931).
 
-_You may have the right to amend your PHI._ If you believe PHI we have about you is incorrect or incomplete, you may ask us to amend the information. You have the right to request an amendment as long as the information is kept by this office. You must complete and submit a Medical Record Amendment/ Correction Form. We may deny your request for an amendment if it is not in writing or does not include a reason to support the request. In addition, we may deny your request if you ask us to amend information that we did not create, or is not part of the health information that we keep, or you would not be permitted to inspect and copy, or is accurate and complete. [Click here to print](https://web.archive.org/Document/Get/23933).
 
-_You have the right to receive an accounting of certain disclosures we have made._ This right applies to disclosures for purposes _other than_ treatment, payment and healthcare operations. You have the right to receive specific information regarding many disclosures that occurred after April 14, 2003. You must submit this request in writing. We may charge you for the costs of providing the list. [Click here to print](https://web.archive.org/Document/Get/23935).
+###  IV. Uses and Disclosures Requiring Your Written Permission (Authorization)
 
-_You have the right to obtain a paper copy of this notice from us, upon request, at any time._ You will be asked to sign an acknowledgement that you received this notice.
+  1. For any purpose other than the ones described above, we may only use or share your PHI when you grant us your written permission (authorization). For example, you will need to give us your permission before we send your PHI to your life insurance company.
+  2. Marketing. We must also obtain your written permission (authorization) prior to using your PHI to send you any marketing materials. However, we may communicate with you about products or services related to your Treatment, case management, or care coordination, or alternative treatments, therapies, health care providers, or care settings without your permission. For example, we may not sell your PHI without your written authorization.
+  3. Uses and Disclosures of Your Highly Confidential Information. Federal and state law requires special privacy protections for certain highly confidential information about you (“Highly Confidential Information”), including any portion of your PHI that is: (1) kept in psychotherapy notes; (2) about mental health and developmental disabilities services; (3) about alcohol and drug abuse prevention, Treatment and referral; (4) about HIV/AIDS testing, diagnosis or Treatment; (5) about sexually transmitted disease(s); (6) about genetic testing; (7) about child abuse and neglect; (8) about sexual assault; or (9) Invitro Fertilization (IVF). Before we share your Highly Confidential Information for a purpose other than those permitted by law, we must obtain your written permission.
 
-_CHANGES TO THIS NOTICE._ ICHA, or any of its voluntary participants, reserves the right to withdraw from or modify or change this Notice at any time, and to make the revised or changed notice effective for medical information we already have about you as well as any information we receive in the future. Revision to the Notice will be available on request by contacting the office. An updated ICHA Privacy Notice, or a separate corporate Notice in the event of a withdraw from this notice, will be posted by all affected participants within 60 days of the revision.
 
-_COMPLAINTS._ If you believe your privacy rights have been violated, you can file a written complaint by requesting a complaint form from the location or entity providing your care. You may also file a complaint with the _Secretary of Health and Human Services in Washington DC_ in writing within 180 days of the violation. There will be no retaliation for filing a complaint. [Click here to print](https://web.archive.org/Document/Get/23937).
 
-You may be asked to sign an acknowledgment that you received this Notice of Privacy Practices. This Notice was published and becomes effective April 14, 2003.
+###  V. Patient Rights
 
-[TOP](https://web.archive.org/privacy-notice#top) AS REQUIRED BY LAW. We may disclose PHI when required to do so by federal, state or local law. In some cases, you will be notified of such disclosures. Some areas that require release include gun shot wounds, domestic violence, and victims of abuse and neglect. We may disclose your PHI to your employer if we have provided health care to you for a work-place injury or illness. 
+  1. You have the right to be informed of our privacy practices.  
+a. Our practices related to protecting the privacy of your health information are described in our Notice of Privacy Practices (NOPP). The NOPP describes how we use your information to provide treatment to you, to obtain payment for that treatment and for our internal business operations. You will be given the opportunity to obtain a paper copy of the NOPP anytime you visit. When you first become our patient, we will ask you to sign an acknowledgement indicating that you have been given the opportunity to review and/or obtain a paper copy of our NOPP. A current version of our NOPP can also be viewed on our website at www.nationwidechildrens.org.
+  2. You have the right to request access to your health information.  
+a. You have the right to see and obtain a copy of health information that may be used to make decisions about you, such as nurse’s notes, lab tests, reports, and treatment plans. You also may, in some cases, receive a summary of this health information. You must make a written request to inspect and/or obtain a copy of your health information. The request form is available by mail at the addr ess below, can be downloaded from our website, or you may call 614-355-0777 to request a copy. We may charge a reasonable fee for any copies.  
+b. In certain limited circumstances, we may deny your request to inspect and copy your health information. For example, you may not read or be given a copy of psychotherapy notes; information collected for use in a civil, criminal, or administrative action, or court case; and certain PHI that is protected by law. In some situations, you may have the right to have this decision reviewed. Please contact the Health Information Management Department at 614-355-0777 if you have questions about access to your medical record.
+  3. You have the right to request that we disclose your health information to others.  
+a. If you would like some of your health information sent to someone else, for example to an attorney or to your employer, you will need to complete our authorization form indicating that you agree to our disclosing (providing) the information to the others you select. The authorization form is available by mail at the address below, can be downloaded from our website, or you may call 614-355-0777 to request a copy. Once you authorize us to release your health information, we cannot guarantee that the person to whom the information is provided will not disclose the information. You may take back or “revoke” your written authorization at any time, in writing, by mailing your revocation request to the address below, except if we have already acted based on your authorization.  
+b. If we maintain an electronic health record containing your health information, when and if we are required by law, you will have the right to request that we send a copy of your health information in an electronic format to you or to  
+a third party that you identify. We may charge a reasonable fee for preparing the electronic copy of your health information.
+  4. You have the right to request that we amend your health information.  
+a. You have the right to ask us to amend health information we maintain about you if you believe the health information is wrong or incomplete. Your request must be in writing and provide the reasons for the requested amendment. The amendment form is available by mail at the address below, can be downloaded from our website, or you may call 614-355-0777 to request an amendment form. Mail your completed amendment form to the address listed below. We  
+will review the information as requested and either make the correction or let you know why we think our information is correct. If we deny your request, you may give us a written statement disagreeing with our decision that we will keep with your health information.
+  5. You have the right to request to receive communications related to your health in another way or at other locations.  
+a. We normally send your health information to the address and phonenumbers you have provided. However, if you would like to have the information sent elsewhere to protect your privacy, you may request this. We will not ask you to explain why you are making the request. We will agree to reasonable requests. To carry out the request, we will ask you for another address or another way to contact you, for example, mailing to a post office box. The confidential communication request form is available by mail at the address below, can be downloaded from our website, or you may call 614-355-0777 to request a form. Mail your completed form to the address listed below or turn it in at any Patient Registration location.
+  6. You have the right to request restrictions on the use and disclosure of your health information.  
+a. You have the right to ask to restrict uses or disclosures of your health information for treatment, payment, or health care operations. You also have the right to ask to restrict disclosures to family members or to others who are involved in your health care or payment for your health care. While we will try to honor your request and will permit requests consistent with our policies, we are not required to agree to any restriction.  
+b. We may also have policies on minors that permit your minor child to request certain limits on your access to their health information.  
+c. The restriction request form is available by mail at the address below, can be downloaded from our website, or you may call 614-355-0777 to request a form. Mail your completed request to the address listed below.
+  7. You have the right to request an accounting of people to whom we have disclosed your health information.  
+a. You have the right to receive an accounting of certain disclosures of your health information made by us during the six years prior to your request. The request must be made in writing. This accounting will not include disclosures of information made: (i) prior to April 14, 2003; (ii) for treatment, payment, and health care operations purposes; (iii) to you or pursuant to your authorization; (iv) to correctional institutions or law enforcement officials; and (v) other disclosures for which federal law does not require us to provide an accounting. The accounting request form is available by mail at the address below, can be downloaded from our website, or you may call 614-355-0777 to request a form. Mail your completed request to the address listed below.
+  8. You have the right to express concerns or to ask questions.  
+a. If you have any concerns about the privacy of your health information or if you have questions about our procedures, you may contact our Privacy Officer at:  
+By Mail:              Nationwide Children’s Hospital  
+                           Attention: Privacy Officer  
+                           700 Children’s Drive  
+                           Columbus OH 43205  
+By Phone:          614-355-0777  
+By Email:           privacyofficer@nationwidechildrens.org  
+Via the Web:      www.nationwidechildrens.org
+  9. You have the right to file a complaint.  
+a. If you believe your privacy rights have been violated, you may file a complaint with us at the address listed above. You may also notify the Secretary of the U.S. Department of Health and Human Services at the following address:
 
-_PUBLIC HEALTH._ We may disclose health information about you for public health reasons in order to prevent or control disease, injury or disability; or report births, deaths, non-accidental physical injuries, reactions to medications (for example, in cooperation with the FDA), or problems with products, or if we suspect a serious risk to public safety.
 
-_HEALTH OVERSIGHT._ We may disclose PHI to a health oversight agency for audits, investigations, inspections, or licensing purposes. These disclosures may be necessary for certain state and federal agencies to monitor the healthcare system, government programs, and compliance with civil rights laws.
 
-_LEGAL PROCEEDINGS._ We may disclose PHI in the course of any judicial or administrative proceeding, in response to an order of a court, subpoena, discovery request or other lawful process, subject to all applicable legal requirements.
+Celeste Davis, Acting Regional Manager  
+Office for Civil Rights  
+U.S. Department of Health and Human Services  
+233 North Michigan Avenue Suite 240  
+Chicago, IL 60601  
+(312) 886-2359
 
-_LAW ENFORCEMENT._ We may release PHI if asked to do so by a law enforcement official in response to a subpoena, warrant, summons or similar process, subject to all applicable legal requirements. We may also provide limited information for identification, location, or apprehension purposes, information pertaining to victims of crime, suspicion that death has occurred as a result of criminal conduct, in the event that a crime occurs on our premises, or regarding a medical emergency (not on our premises) where it is likely that a crime has occurred.
-
-_CORONERS, MEDICAL EXAMINERS AND FUNERAL DIRECTORS._ We may disclose PHI for identification purposes, determining cause of death or for these persons to perform their duties as authorized by law.
-
-_HEALTH AND SAFETY._ We may disclose PHI, if permitted by federal and state laws, if we believe that this information is necessary to prevent or lessen a serious and imminent threat to the health and safety of a person or the public.
-
-_MILITARY, VETERANS, NATIONAL SECURITY, AND INTELLIGENCE._ We may disclose PHI of individuals who are or were Armed Forces, national security or intelligence personnel if requested by military command or other government authorities for the purposes of determination of eligibility for benefits, for activities deemed necessary by appropriate military command, or for conducting national security and intelligence activities (protection of the President or others legally authorized to receive protection). We may also disclose PHI to foreign military authorities if you are a member of that foreign military service.
-
-_WORKER'S COMPENSATION._ We may disclose PHI as authorized to comply with worker's compensation laws and other similar legally established programs.
-
-_INMATES._ We may disclose PHI if you are an inmate of a correctional facility and your physician created or received your PHI in the course of providing care to you.
-
-_RESEARCH._ We may use or disclose your PHI to researchers when their research has been approved by an institutional review board that has reviewed the research proposal and established protocols to ensure the privacy of this PHI.
-
-_OHIO LAW:_ Ohio law requires we obtain a consent from you before disclosing the performance or results of an HIV test or diagnoses of AIDS or related conditions.
-
-[TOP](https://web.archive.org/privacy-notice#top)
+We will not take any action against you for filing a complaint.
