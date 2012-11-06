@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtranormal.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607022739id_/http%3A//www.xtranormal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtranormal.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106085405id_/http%3A//www.xtranormal.com/privacy) for the most accurate reproduction.*
 
 # Storytelling | Xtranormal
 
