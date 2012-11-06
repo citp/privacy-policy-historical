@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbansurvivalsite.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510042251id_/http%3A//urbansurvivalsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbansurvivalsite.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106123849id_/http%3A//urbansurvivalsite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Urban Survival Site
+# Privacy Policy - Urban Survival Site
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -15,12 +15,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Urban Survival Site, feel free to [Contact Us](http://urbansurvivalsite.com/contact-us/).
-
-[](http://www.printfriendly.com/print/v2?url=http://urbansurvivalsite.com/privacy-policy/)
-
-#### Incoming search terms:
-
-  * [urban survival ip address websites](http://urbansurvivalsite.com/privacy-policy/ "urban survival ip address websites")
-  * [urbansurvival ip](http://urbansurvivalsite.com/privacy-policy/ "urbansurvival ip")
-
-
