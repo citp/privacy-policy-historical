@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512103623id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106084359id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marine Insight
 
@@ -55,4 +55,14 @@ Once a comment is made public on the Marine Insight website, we will not remove 
 
 Comments will only be considered for removal (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
 
-It is to be noted that, this policy may be updated at anytime, and may be found within the site. We encourage your feedback, opinions, and suggestions; these may be forwarded to contact@marineinsight.com
+**Privacy Policy – Products and Services**
+
+We take your privacy seriously and will take all measures to protect your personal information.
+
+Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
+
+**Refund Policy – Product and Services**
+
+If you are not 100% satisfied with your purchase, just let us know and we will give you a full refund up to 60 days from the purchase date.
+
+It is to be noted that, this policy may be updated at anytime, and may be found within the site. We encourage your feedback, opinions, and suggestions; these may be forwarded to info@marineinsight.com
