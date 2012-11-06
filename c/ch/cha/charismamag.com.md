@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508041906id_/http%3A//www.charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231630id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,3 +71,6 @@ Lake Mary, FL 32746
 ### Your consent
 
 By using our Web site, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
+
+Get Charisma News on your phone.  
+[Click here](http://www.strangmail.com/scripts/track_redirect/?go=13567&sc=ChmMagArticleContributePhoneApp "Download the Charisma News smartphone app to keep up to date with today's news").
