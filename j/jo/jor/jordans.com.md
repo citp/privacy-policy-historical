@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605010526id_/http%3A//www.jordans.com/en/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106062620id_/http%3A//www.jordans.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Jordan's Furniture
+# Privacy Statement for jordans.com
 
 At JORDAN’S FURNITURE we believe in the importance of your privacy and strive to manage your personal information in accordingly. This policy describes: 
 
