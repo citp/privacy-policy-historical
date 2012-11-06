@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617200015id_/http%3A//www.shine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106091950id_/http%3A//www.shine.com/privacypolicy) for the most accurate reproduction.*
 
 # Shine.com - Privacy Policy
 
@@ -118,4 +118,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at:[support@shine.com](mailto:support@shine.com) to [contactus@shine.com](mailto:contactus@shine.com)
+If you have any questions or suggestions regarding our privacy policy, please contact us at:[support@shine.com](mailto:support@shine.com) or [contactus@shine.com](mailto:contactus@shine.com)
