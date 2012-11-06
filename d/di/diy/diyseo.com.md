@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyseo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210806id_/http%3A//www.diyseo.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyseo.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106115836id_/http%3A//www.diyseo.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # SEO Software for Your Small Business | DIYSEO
 
@@ -45,6 +45,6 @@ From time to time DIYSEO may make changes to its privacy policy. If DIYSEO makes
 
 If you have any questions about this privacy statement, the practices of the DIYSEO Site, or your dealings with the DIYSEO Site, please contact us at: [info@diyseo.com](mailto:info@diyseo.com).
 
-Want to learn more about the DIYSEO solution? Start your [Free Trial](https://www.diyseo.com/signup) today!
+Want to learn more about the DIYSEO solution? Start your [Trial](https://www.diyseo.com/signup) today!
 
-Wondering how well your website is doing with SEO? Get a Free [SEO Report](https://web.archive.org/free-tools/seo-report-card/)!
+Wondering how well your website is doing with SEO? Get a Free [SEO Report](http://www.diyseo.com/free-tools/seo-report-card)!
