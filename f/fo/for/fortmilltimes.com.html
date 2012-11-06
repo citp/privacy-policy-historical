@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fortmilltimes.com privacy policy that was archived on 2012-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526010220id_/http%3A//www.fortmilltimes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fortmilltimes.com privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106075533id_/http%3A//www.fortmilltimes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -111,8 +111,8 @@ dart_reg="reg=0;";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)=
 -->
 </script>
 
-<!-- templates/ads/dart_init.ett :start -->
-<!-- templates/ads/dart_init.ett :end -->
+<!-- support/ads/dart_init.ett :start -->
+<!-- support/ads/dart_init.ett :end -->
 
 
 	 
@@ -145,6 +145,19 @@ dart_reg="reg=0;";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)=
 	*/
 	miAppControler.prototype.findnsave = 0;
   miAppControler.prototype.dealsaver = 1;
+
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
+	*/  
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
 
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
@@ -247,14 +260,14 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
  
  
 <center><div class="advertisement ts_shared_mastheads_site_header dart3" id="dart_960x30_ats_1">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=FortMillTimes;ord=531348480553469' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=FortMillTimes;ord=890688860885898' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -263,13 +276,13 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div></center><!-- /.advertisement ts_shared_mastheads_site_header -->
@@ -283,7 +296,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
 <script type="text/javascript">
 var firstName = (mi_cookie_manager.firstName)?mi_cookie_manager.firstName:"Guest" 
 document.write('Welcome <span style="font-weight: bold;">' + firstName + ': </span>');
-document.write('<span id="nonmember"><a href="/static/insite/login.html?' + rurl_qs + '">Login</a> | <a href="/reg-bin/int.cgi?mode=register">Register</a></span>')
+document.write('<span id="nonmember"><a href="/reg-bin/int.cgi?mode=login&' + rurl_qs + '">Login</a> | <a href="/reg-bin/int.cgi?mode=register">Register</a></span>')
 </script>
 <span id="member">
     <a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Logout</a> | <a href="/reg-bin/tint.cgi?mode=edit">Member Center</a>
@@ -313,14 +326,14 @@ document.write('<span id="nonmember"><a href="/static/insite/login.html?' + rurl
  
  
 <center><div class="advertisement ts_shared_mastheads dart3" id="dart_728x90_ats_1">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=FortMillTimes;ord=531348480553469' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=FortMillTimes;ord=890688860885898' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -329,13 +342,13 @@ document.write('<span id="nonmember"><a href="/static/insite/login.html?' + rurl
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div></center><!-- /.advertisement ts_shared_mastheads -->
@@ -779,14 +792,14 @@ McClatchy DC Cartoons</a></li>
  
  
 <center><div class="advertisement ts_pubsys_section_hp1_sidebar dart3" id="dart_300x250_ats_1">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=3;!c=news;pub=FortMillTimes;ord=531348480553469' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=3;!c=news;pub=FortMillTimes;ord=890688860885898' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -795,13 +808,13 @@ McClatchy DC Cartoons</a></li>
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=3;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=3;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=3;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x250;tile=3;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div></center><!-- /.advertisement ts_pubsys_section_hp1_sidebar -->
@@ -814,14 +827,14 @@ McClatchy DC Cartoons</a></li>
  
  
 <center><div class="advertisement ts_pubsys_section_hp1_sidebar dart3" id="dart_300x100_bts_1">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=4;!c=news;pub=FortMillTimes;ord=531348480553469' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=4;!c=news;pub=FortMillTimes;ord=890688860885898' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -830,13 +843,13 @@ McClatchy DC Cartoons</a></li>
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=4;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=4;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=4;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=300x100;tile=4;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div></center><!-- /.advertisement ts_pubsys_section_hp1_sidebar -->
@@ -876,27 +889,27 @@ McClatchy DC Cartoons</a></li>
                     <ul>
 			
 	
-		<li class="odd"><a href="http://www.fortmilltimes.com/2012/05/22/2021374/two-men-rob-harris-teeter-in-fort.html#storylink=omni_popular">Two men rob Harris Teeter in Fort Mill</a></li>
+		<li class="odd"><a href="http://www.fortmilltimes.com/2012/11/05/2309048/fire-reported-at-juneau-apartment.html#storylink=omni_popular">Fire reported at Juneau apartment building</a></li>
 	
 	
 
 	
 	
-		<li class="even"><a href="http://www.fortmilltimes.com/2012/05/24/2025361/fort-mill-elementary-schools-new.html#storylink=omni_popular">Fort Mill Elementary School’s new walking path ‘a family activity’</a></li>
+		<li class="even"><a href="http://www.fortmilltimes.com/2012/10/31/2297515/fort-mill-voters-to-choose-school.html#storylink=omni_popular">Fort Mill voters to choose school board, S.C. legislators</a></li>
 	
 
 	
-		<li class="odd"><a href="http://www.fortmilltimes.com/2012/05/25/2026280/former-fort-mill-school-board.html#storylink=omni_popular">Former Fort Mill School Board Chairwoman Anne Suite dies at 75; Funeral set for May 30</a></li>
+		<li class="odd"><a href="http://www.fortmilltimes.com/2012/11/03/2305697/missouri-voters-to-decide-4-ballot.html#storylink=omni_popular">Missouri voters to decide 4 ballot measures</a></li>
 	
 	
 
 	
 	
-		<li class="even"><a href="http://www.fortmilltimes.com/2012/05/21/2019397/fort-mill-man-charged-with-attempted.html#storylink=omni_popular">Fort Mill man charged with attempted murder</a></li>
+		<li class="even"><a href="http://www.fortmilltimes.com/2012/11/06/2308160/fort-mill-parent-wants-district.html#storylink=omni_popular">Fort Mill parent wants district to revise alternative school rule</a></li>
 	
 
 	
-		<li class="odd"><a href="http://www.fortmilltimes.com/2012/05/25/2025544/celebrating-30-years-as-a-city.html#storylink=omni_popular">Celebrating 30 years as a city: Tega Cay collecting items for time capsule</a></li>
+		<li class="odd"><a href="http://www.fortmilltimes.com/2012/11/01/2301867/council-narrows-list-down-to-3.html#storylink=omni_popular">Cronin among final 3 candidates for Fort Mill Town Manager</a></li>
 	
 	
 
@@ -1263,14 +1276,14 @@ Sponsored by<br><a href="http://www.yorktech.com/" target="_blank"><img src="htt
  
  
 <center><div class="advertisement ts_pubsys_section_hp1_sidebar dart3" id="dart_300x250_bts_2">
-<!-- templates/ads/dart_call.ett :start v.15690 -->
-<!-- templates/ads/dart3_render_adj.ett :start -->
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
 	<script type="text/javascript">
 	<!-- 
         if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
 	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
     document.write('<scr' + 
-        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=2;sz=300x250;tile=5;dcopt=ist;!c=news;pub=FortMillTimes;ord=531348480553469' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=2;sz=300x250;tile=5;dcopt=ist;!c=news;pub=FortMillTimes;ord=890688860885898' + 
         ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
         ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
         ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
@@ -1279,13 +1292,13 @@ Sponsored by<br><a href="http://www.yorktech.com/" target="_blank"><img src="htt
 	//-->
 	</script>
 	<noscript>
-        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=2;sz=300x250;tile=5;dcopt=ist;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
-            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=2;sz=300x250;tile=5;dcopt=ist;!c=news;pub=FortMillTimes;ord=531348480553469;gender=;year=;income=?" 
+        <a  href="http://ad.doubleclick.net/jump/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=2;sz=300x250;tile=5;dcopt=ist;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhhfm/Online/SiteInformation;atf=N;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=2;sz=300x250;tile=5;dcopt=ist;!c=news;pub=FortMillTimes;ord=890688860885898;gender=;year=;income=?" 
             border="0" alt="Advertisement"></a>
     </noscript> 
-<!-- templates/ads/dart3_render_adj.ett :end -->
+<!-- support/ads/dart3_render_adj.ett :end -->
 
-<!-- templates/ads/dart_call.ett :end -->
+<!-- support/ads/dart_call.ett :end -->
 
 
 </div></center><!-- /.advertisement ts_pubsys_section_hp1_sidebar -->
