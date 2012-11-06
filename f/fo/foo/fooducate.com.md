@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fooducate.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527085326id_/http%3A//www.fooducate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooducate.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106071816id_/http%3A//www.fooducate.com/privacy) for the most accurate reproduction.*
 
-# Fooducate | eat a bit better
+# Fooducate | Privacy Policy
 
 _Last Updated:_ April 15, 2012 
 
@@ -56,11 +56,11 @@ Feedback. You should feel free to give us feedback, register a complaint, or ask
 
 **Customer Service.** Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. 
 
-**Updating Personally Identifiable Information.** If your personally identifiable information changes, you may update it by making the changes in the Fooducate Services Settings screen. If you wish to delete your account please email us at support@Fooducate.com. We will respond to your request to access within 30 days. 
+**Updating Personally Identifiable Information.** If your personally identifiable information changes, you may update it by making the changes in the Fooducate Services Settings screen. If you wish to delete your account please email us at [support@Fooducate.com](mailto:support@Fooducate.com). We will respond to your request to access within 30 days. 
 
 ## DATA RETENTION
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@Fooducate.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@Fooducate.com](mailto:support@Fooducate.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## SECURITY
 
