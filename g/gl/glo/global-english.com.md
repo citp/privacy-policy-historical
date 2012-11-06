@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-english.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510160254id_/http%3A//www.global-english.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-english.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233635id_/http%3A//www.global-english.com/privacy.php) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -9,6 +9,30 @@ Our Privacy Policy is subject to change, so we encourage you to visit this page 
 **How Global English gathers your data** On our website we may ask you for some basic details, such as your name, e-mail address, post code, country and telephone number. Whenever you give this kind of information, it helps us provide you with the appropriate type of information and experience.
 
 At other times – such as when you purchase a teaching practice programme, volunteer experience or a TEFL course, complete a survey or a competition, or answer surveys on our site – we may ask for more detailed personal information. For example, if you purchase a product collect your billing address, telephone number, credit card information, and other information necessary to complete the transaction. Wherever we ask you for personal information, we include a link to this Privacy Policy for your review.
+
+**Cookie policy**
+
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. You can find more information about cookies at:[ www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. On this website we have the following: 
+
+**Category 1: Strictly necessary cookies** :  
+These cookies are essential in order to enable you to  
+move around the website and use its features, such as utilising the  FB ‘like’  or ‘share’ features.
+
+By using our website you agree that we can place these types of cookies on your device. **
+
+Category 2: performance cookies:
+
+**  
+These cookies collect information analytics; about how visitors use a website, for instance which pages visitors go to most  
+often, and if they get error messages from web pages.  
+These cookies don’t collect information that identifies a  
+visitor. All information these cookies collect is aggregated  
+and therefore anonymous. It is only used to improve how  
+a website works. 
+
+By using our website you agree that we can place these types of cookies on your device.
 
 **Access to your personal information** Global English does not sell or trade user information to other companies, unless your course or programme is with one of our partner organisations. Capture of data from other third parties which may link to our site is not within Global English’s control and is not covered by this Privacy Policy.
 
