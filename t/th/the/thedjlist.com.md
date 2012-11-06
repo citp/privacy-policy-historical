@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527204018id_/http%3A//thedjlist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234020id_/http%3A//thedjlist.com/privacy) for the most accurate reproduction.*
 
 # The DJ List
 
