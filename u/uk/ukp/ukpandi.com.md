@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501194809id_/http%3A//www.ukpandi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234205id_/http%3A//www.ukpandi.com/cookie-privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - UK P&I
+# Cookie & Privacy policy - UK P&I
 
 ## 1\. Application 
 
@@ -16,8 +16,8 @@ It does not relate to information about companies held and processed by us.
 
 In this privacy policy references to
 
-  * “we”, "us" or "our" are to the UK P&I Club (registered in England number: 1901414) whose registered address is at 90 Fenchurch Street, London EC3M 4ST, England;
-  * “the Website” are to [www.ukpandi.com](http://www.barmutual.co.uk/) and any other website owned or operated by us. 
+  * “we”, "us" or "our" are to the UK P&I Club whose website is managed on their behalf by Thomas Miller P&I Ltd.; registered in England number: 1901414; registered address is at 90 Fenchurch Street, London EC3M 4ST, England;
+  * “the Website” are to [www.ukpandi.com](http://www.ukpandi.com/) and any other website owned or operated by us. 
 
 
 
@@ -57,4 +57,10 @@ d. Your browser may be capable of being programmed to reject cookies, or to warn
 
 For an explanation of cookies see: <http://www.webopedia.com/TERM/c/cookie.html>
 
-This privacy policy only covers the Website. Any other websites which may be linked to by the Website may be subject to their own privacy policy, which may differ from ours and we are not responsible for the content provided on any third party web sites.
+Below is a table of all cookies on this website – their name, type and purpose:
+
+We use third party companies as suppliers for some of our functions. Their use of the data is controlled by our contract with them and they are only allowed to use the data strictly for the purpose we have stated e.g. the data is not used in connection with data from other companies and we are not tracking user behavior outside our own sites.
+
+## 6\. Other Websites
+
+This privacy policy only covers the Website. Any other websites which may be linked to by the Website may be subject to their own privacy policy, which may differ from ours and we are not responsible for the content provided on any third party web sites. 
