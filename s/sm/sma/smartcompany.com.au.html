@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the smartcompany.com.au privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604233749id_/http%3A//www.smartcompany.com.au/privacy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartcompany.com.au privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106111458id_/http%3A//www.smartcompany.com.au/privacy/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <meta property="fb:admins" content="699974551">
-  <base href="http://www.smartcompany.com.au/">
+  <script type="text/javascript" async="" src="https://au-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<base href="http://www.smartcompany.com.au/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="">
@@ -19,7 +20,7 @@
   <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <link rel="stylesheet" href="/components/com_rsform/assets/css/front.css" type="text/css">
   <link rel="stylesheet" href="http://www.smartcompany.com.au/modules/mod_news_show_gk3/style/style.php?modid=newsshowheadpic&amp;news_content_header_pos=1&amp;news_content_image_pos=2&amp;img_height=0&amp;img_width=0&amp;news_content_info_pos=0&amp;news_content_readmore_pos=0&amp;news_content_text_pos=1" type="text/css">
-  <script type="text/javascript" async="" src="https://au-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/plugins/system/jceutilities/js/jceutilities.js?v=222"></script>
   <script type="text/javascript" src="http://www.smartcompany.com.au/plugins/system/mediaobject/js/mediaobject-150.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
@@ -96,122 +97,55 @@ var jc_commentForm;
 				   else var expires = "";
 				   document.cookie = name+"="+value+expires+"; path=/";
 				}
-				function showP()
+				function checkCookie()
 				{
-					var mydiv = document.getElementById('jfconversion');
-					mydiv_children = mydiv.getChildren();
-					if ((mydiv_children == null) || (mydiv_children == "")) {
-						return;
-					}
-
-					if (0 == 0) {	// popup in corner
-
-						// the order of operations in this block cannot be changed
-
-						_gaq.push(['_trackEvent','PopUp', 'Display', 'PO - PopUp appears']);
-
-						var closerbox = new Element('div', { id: 'sbox-btn-close' });
-						closerbox.inject(document.body);
-
-						// override the close button css coordinates and 
-						// z it to be in front of the jfconversion div
-						boxz = 10000000;
-						closerz = boxz+10;
-						closerbox.setStyles({
-							'zIndex': closerz,
-							'right': '-5px',
-							'cursor': 'pointer'
-						});
-
-						closerbox.addEvent('click', function(event){
-							mydiv.setStyles({
-								'display': 'none'
-							});
-							_gaq.push(['_trackEvent','PopUp', 'Close', 'PO - PopUp closed']);
-							setCookie('showpopup','no',30);
-						});
-
-						closerbox.inject(mydiv,'bottom');
-
-						cornerBorder = 0;
-						if (0 == 0) {	// show border
-							var bstyle = "solid";
-						} else {				// no border
-							var bstyle = "none";
-						}
-
-						mydiv.setStyles({
-							'display': 'block',
-							'position': 'fixed',
-							'right': '0px',
-							'bottom': '0px',
-							'zIndex': boxz,
-							'height': '300px',
-							'width': '420px',
-							'borderStyle': bstyle,
-							'borderColor': 'black',
-							'backgroundColor': 'white'
-
-						});
-
-					} else { 				// popup in squeezebox
-
-						var div = new Element('div', {'id': 'popupcontainer'});
-						div.setHTML(mydiv.innerHTML);
-
-						SqueezeBox.fromElement(div,{
-							size: {x: 420, y: 300},
-							overlayOpacity: 0.4,
-							handler: 'adopt',
-							iframePreload:true,
-							onOpen: function() {
-								_gaq.push(['_trackEvent','PopUp', 'Display', 'PO - PopUp appears']);
-								if (window.ie6) { 
-								  window.scrollTo(0,0);
-								  var t=$('sbox-btn-close'); var g = t.getStyle('background-image');
-								  if (g!="none") {
-								    g = g.replace("url(\"","").replace("\")","");
-								    t.setStyle("filter", 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="' + g + '",sizingMethod="crop")');
-								    t.setStyle("background","none");
-										t.setStyle("cursor","pointer");
-								  }
-								}
-							},
-							onHide: function(){
-								_gaq.push(['_trackEvent','PopUp', 'Close', 'PO - PopUp closed']);
-								setCookie('showpopup','no',30);
-							}
-						});
-					}
+				   showrightpane=getCookie('showpopup');
+				   if ((showrightpane==null) || (showrightpane=="")) {
+				     setCookie('showpopup','no',30); //set the default cookie value here
+				   }
 				}
-				function closeV()
-				{
+				function showP() {
+					var div = new Element('div', {'id': 'popupcontainer'});
+					var mydiv = document.getElementById('jfconversion');
+					div.setHTML(mydiv.innerHTML);
+
+					SqueezeBox.fromElement(div,{
+						size: {x: 500, y: 270},
+						overlayOpacity: 0.4,
+						handler: 'adopt',
+						iframePreload:true,
+						onOpen: function() {
+							if (window.ie6) { 
+							  window.scrollTo(0,0);
+							  var t=$('sbox-btn-close'); var g = t.getStyle('background-image');
+							  if (g!="none") {
+							    g = g.replace("url(\"","").replace("\")","");
+							    t.setStyle("filter", 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="' + g + '",sizingMethod="crop")');
+							    t.setStyle("background","none");
+									t.setStyle("cursor","pointer");
+							  }
+							}
+						},
+						onHide: function(){
+							setCookie('showpopup','yes',30);
+						}
+					});
+				}
+				function closeV() {
 					SqueezeBox.close();
 				}
-				function doPop()
-				{
-					if (0 == 1) {
-						showP();
-						return;
-					}
-					// showP() itself handles outputing the cookie back
-					cookiecontents = getCookie('showpopup');
-					// leave this conditional unrolled for the future
-					if((cookiecontents == null) || (cookiecontents == ""))
-					{
-						showP();
-					} else {
-						if (cookiecontents != 'no') {
-							showP();
-						}
-					}
-				}
-
-				window.addEvent('domready', function() {
-					setTimeout("doPop()", 1000);							
-				});
-				//--> 
-				</script>
+				checkCookie();
+							window.addEvent('domready', function() {
+							v = getCookie('showpopup');
+							
+							if(!((v==null) || (v == "") || (v=="yes")))
+							{
+								showP();
+							}
+							
+				 });
+				 //--> 
+				 </script>
   <style type="text/css">
 .chkSpecial {
 font-size: 11px;
@@ -263,6 +197,15 @@ z-index:0;
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
+		<script src="http://au-01.adtomafusion.com:80/script.js"></script>
+		<script>
+			window.Fusion.adServer = "au-01.adtomafusion.com:80";
+			window.Fusion.mediaZone = "private_media.smartcompany.privacy";
+			window.Fusion.layout = "article";
+			window.Fusion.parameters["url_path"] = self.location.pathname;
+			window.Fusion.loadAds();
+		</script>
+		
 </head>
 <body id="bd" class="fs3 Others">
 
@@ -293,7 +236,7 @@ column</a></li>
 column</a></li>
 </ul>
 	<div id="cw_container">
-		<div id="ad1" class="gutter left"></div>
+		<div id="ad1" class="gutter left"><script type="text/javascript">window.Fusion.space("gutter_left");</script></div>
 	<div id="containerwrap">
 	<!-- BEGIN: HEADER -->
 		<div id="headerwrap">
@@ -302,7 +245,7 @@ column</a></li>
 <div style="display: block;float:
 right;padding-top:1px;">&nbsp;|&nbsp; 
                                                           
-<a href="/049679-register-to-smartcompany-46.html" title="Register a user account with SmartCompany.com.au">Register</a>&nbsp;|&nbsp;
+<a href="/registration/registers-2.html" title="Register a user account with SmartCompany.com.au">Register</a>&nbsp;|&nbsp;
 <a href="/registration/login.html" title="Login to SmartCompany.com.au">Login</a>&nbsp;&nbsp;
                                                                                     </div>
                                          <div style="display: block;float: right;">
@@ -318,7 +261,7 @@ right;padding-top:1px;">&nbsp;|&nbsp;
 													
 											<td style="width: 100%;" class="gk_news_show_center"><br>
 							
-							<table><tbody><tr valign="top"><td valign="top"><table><tbody><tr><td><h3 class="gk_news_show_news_headercat"><a href="/entrepreneur-watch.html">Entrepreneur Watch</a></h3><span style="" class="gk_news_show_news_header"><a href="/entrepreneur-watch/a-flickering-light-in-the-gloom.html"><b>A flickering light in the gloom</b></a></span><br>  <span class="gk_news_show_news_text">The global economy is spluttering, but the growth of the internet should give us hope.</span></td></tr></tbody></table></td><td><a href="/entrepreneur-watch/a-flickering-light-in-the-gloom.html"> <img class="gk_news_show_news_image_profile" src="/images/stories/largeheads/james-thomson.gif"></a></td></tr><tr><td align="center"></td></tr></tbody></table>								
+							<table><tbody><tr valign="top"><td valign="top"><table><tbody><tr><td><h3 class="gk_news_show_news_headercat"><a href="/the-fast-lane.html">The Fast Lane</a></h3><span style="" class="gk_news_show_news_header"><a href="/the-fast-lane/if-there-s-a-discrimination-claim-who-you-gonna-call.html"><b>If there’s a discrimination claim: Who you gonna call? </b></a></span><br>  <span class="gk_news_show_news_text">The FWO has added to the duplication of agencies and laws in discrimination cases.</span></td></tr></tbody></table></td><td><a href="/the-fast-lane/if-there-s-a-discrimination-claim-who-you-gonna-call.html"> <img class="gk_news_show_news_image_profile" src="/images/stories/largeheads/mentor-cara-med.gif"></a></td></tr><tr><td align="center"></td></tr></tbody></table>								
 
 						</td>		
 														</tr>
@@ -328,21 +271,14 @@ right;padding-top:1px;">&nbsp;|&nbsp;
 			</tbody></table>
 					</div>
 													<div id="top_banner">
-						<div style="width:728px;height:90px;padding:1px">
-<!-- begin ad tag (tile=1) -->
-<script language="JavaScript" type="text/javascript">
-if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.net/adj/dfp.smartcompany.com.au/privacy;kw=,;pos=1;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad-apac.doubleclick.net/adj/dfp.smartcompany.com.au/privacy;kw=,;pos=1;tile=1;dcopt=ist;sz=728x90;ord=6174016686299406?" type="text/javascript"></script><noscript><a href="http://ad-apac.doubleclick.net/jump/dfp.smartcompany.com.au/privacy;kw=,;pos=1;tile=1;sz=728x90;ord=123456789?>?" target="_blank"><img src="http://ad-apac.doubleclick.net/ad/dfp.smartcompany.com.au/privacy;kw=,;pos=1;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
-</div>
+						<script type="text/javascript">window.Fusion.space("header");</script>
 					</div>
 													<div id="logo">     
 						<h5 class="logo">
 							<a href="/index.php" title="Business news, business advice and information for Australian SMEs | SmartCompany"></a></h5>
                                          			                               <div id="dateheader">
 				                            		<div class="moduletable">
-					Tuesday, 5 June 2012		</div>
+					Tuesday, 6 November 2012		</div>
 	
 			                               </div>
 			                           						     
@@ -362,7 +298,7 @@ document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.ne
 		<!-- BEGIN: MAIN NAVIGATION -->
 				<div id="ja-mainnavwrap">
 			<div id="ja-mainnav">
-				<ul class="menu"><li class="item1"><a href="http://www.smartcompany.com.au/"><span>home</span></a></li><li class="parent item27"><a href="/news.html"><span>news</span></a><ul><li class="item281"><a href="/trends.html"><span>Trends</span></a></li><li class="item282"><a href="/features.html"><span>Features</span></a></li><li class="item380"><a href="/entrepreneur-zone.html"><span>Entrepreneur Zone</span></a></li></ul></li><li class="parent item392"><a href="/ask-the-experts-2.html"><span>ask the experts</span></a><ul><li class="item355"><a href="/tech-strategy.html"><span>IT Systems</span></a></li><li class="item356"><a href="/online-sales.html"><span>Online sales</span></a></li><li class="item343"><a href="/people-problems.html"><span>People Problems</span></a></li><li class="item394"><a href="/profitable-growth.html"><span>Profitable Growth</span></a></li><li class="item341"><a href="/sell-like-a-woman.html"><span>Selling</span></a></li><li class="item354"><a href="/second-time-around.html"><span>Teams</span></a></li></ul></li><li class="parent item33"><a href="/blogs.html"><span>blogs</span></a><ul><li class="item327"><a href="/aunty-b.html"><span>Aunty B</span></a></li><li class="item363"><a href="/boss-lady.html"><span>Boss Lady</span></a></li><li class="item653"><a href="/behavioural-economics.html"><span>Behavioural Economics</span></a></li><li class="item339"><a href="/brand-matters.html"><span>Brand</span></a></li><li class="item345"><a href="/business-tech-talk.html"><span>Business Tech Talk</span></a></li><li class="item359"><a href="/the-futurist.html"><span>Change Maker</span></a></li><li class="item587"><a href="/customer-experience.html"><span>Customer Experience</span></a></li><li class="item362"><a href="/entrepreneur-watch.html"><span>Entrepreneur Watch</span></a></li><li class="item574"><a href="/authentic-leadership.html"><span>Enterprise Leadership</span></a></li><li class="item344"><a href="/franchise-tips-and-trends.html"><span>Franchise tips and trends</span></a></li><li class="item357"><a href="/female-entrepreneur.html"><span>Female Entrepreneur</span></a></li><li class="item352"><a href="/gen-y-millionaire.html"><span>Gen-Y Millionaire</span></a></li><li class="item347"><a href="/internet-secrets.html"><span>Internet Secrets</span></a></li><li class="item360"><a href="/property-investor.html"><span>Property Investor</span></a></li><li class="item590"><a href="/retail-advice.html"><span>Retail advice</span></a></li><li class="item338"><a href="/retail-trends.html"><span>Retail Trends</span></a></li><li class="item408"><a href="/selling-strategies.html"><span>Selling Strategies</span></a></li><li class="item652"><a href="/it-means-business-2.html"><span>IT Means Business</span></a></li></ul></li><li class="parent item8"><a href="#"><span>hot topics</span></a><ul><li class="item480"><a href="/people.html"><span>People</span></a></li><li class="item482"><a href="/special-events.html"><span>Special Events</span></a></li><li class="item464"><a href="/how-to.html"><span>How To</span></a></li><li class="item283"><a href="/business-information.html"><span>Business Information</span></a></li><li class="item306"><a href="/export.html"><span>Export</span></a></li><li class="item323"><a href="/wealth.html"><span>Wealth</span></a></li><li class="item324"><a href="/web-20.html"><span>Web 2.0</span></a></li><li class="item315"><a href="/managing-people.html"><span>Managing People</span></a></li><li class="item511"><a href="/ohs-2.html"><span>OHS</span></a></li><li class="item321"><a href="/superannuation.html"><span>Superannuation</span></a></li><li class="item308"><a href="/firing.html"><span>Firing</span></a></li><li class="item310"><a href="/hiring.html"><span>Hiring</span></a></li><li class="item307"><a href="/finance.html"><span>Finance</span></a></li><li class="item311"><a href="/industrial-relations.html"><span>Industrial Relations</span></a></li><li class="item322"><a href="/tax.html"><span>Tax</span></a></li><li class="item303"><a href="/cashflow.html"><span>Cashflow</span></a></li><li class="item317"><a href="/sales.html"><span>Sales</span></a></li><li class="item318"><a href="/seo.html"><span>SEO</span></a></li><li class="item319"><a href="/start-up.html"><span>Start-Up</span></a></li><li class="item309"><a href="/franchising.html"><span>Franchising</span></a></li><li class="item302"><a href="/buy-or-sell-a-business.html"><span>Buy or Sell a Business</span></a></li><li class="item304"><a href="/climate-change.html"><span>Climate Change</span></a></li><li class="item301"><a href="/business-travel.html"><span>Travel</span></a></li><li class="item312"><a href="/intellectual-property.html"><span>Intellectual Property</span></a></li><li class="item314"><a href="/legal.html"><span>Legal</span></a></li></ul></li><li class="parent item34"><a href="#"><span>industry</span></a><ul><li class="item284"><a href="/advertising-and-marketing.html"><span>Advertising and Marketing</span></a></li><li class="item285"><a href="/agribusiness.html"><span>Agribusiness</span></a></li><li class="item286"><a href="/construction-and-engineering.html"><span>Construction and Engineering</span></a></li><li class="item288"><a href="/financial-services-and-insurance.html"><span>Financial Services and Insurance</span></a></li><li class="item287"><a href="/food-and-beverages.html"><span>Food and Beverages</span></a></li><li class="item289"><a href="/health-and-pharmaceuticals.html"><span>Health and Pharmaceuticals</span></a></li><li class="item290"><a href="/information-technology.html"><span>Information Technology</span></a></li><li class="item291"><a href="/internet.html"><span>Internet</span></a></li><li class="item292"><a href="/leisure-and-gaming.html"><span>Leisure and Gaming</span></a></li><li class="item293"><a href="/manufacturing.html"><span>Manufacturing</span></a></li><li class="item294"><a href="/media.html"><span>Media</span></a></li><li class="item296"><a href="/professional-services.html"><span>Professional Services</span></a></li><li class="item295"><a href="/property.html"><span>Property</span></a></li><li class="item297"><a href="/resources-and-energy.html"><span>Resources and Energy</span></a></li><li class="item298"><a href="/retail.html"><span>Retail</span></a></li><li class="item299"><a href="/telecommunications.html"><span>Telecommunications</span></a></li><li class="item300"><a href="/transport-and-logistics.html"><span>Transport and Logistics</span></a></li></ul></li><li class="parent item429"><a href="#"><span>community</span></a><ul><li class="item449"><a href="/business-resources"><span>Business Resources</span></a></li><li class="item440"><a href="/webinars.html"><span>Webinars</span></a></li><li class="item430"><a href="/smart-learning.html"><span>Smart Learning</span></a></li><li class="item418"><a href="/smartcompany-web-awards-2011"><span>Web Awards</span></a></li><li class="item419"><a href="/smart50-2011"><span>Smart50 Awards</span></a></li></ul></li></ul>
+				<ul class="menu"><li class="item1"><a href="http://www.smartcompany.com.au/"><span>home</span></a></li><li class="parent item27"><a href="/news.html"><span>news</span></a><ul><li class="item281"><a href="/trends.html"><span>Trends</span></a></li><li class="item282"><a href="/features.html"><span>Features</span></a></li><li class="item380"><a href="/entrepreneur-zone.html"><span>Entrepreneur Zone</span></a></li></ul></li><li class="parent item392"><a href="/ask-the-experts-2.html"><span>ask the experts</span></a><ul><li class="item355"><a href="/tech-strategy.html"><span>IT Systems</span></a></li><li class="item356"><a href="/online-sales.html"><span>Online sales</span></a></li><li class="item343"><a href="/people-problems.html"><span>People Problems</span></a></li><li class="item394"><a href="/profitable-growth.html"><span>Profitable Growth</span></a></li><li class="item341"><a href="/sell-like-a-woman.html"><span>Selling</span></a></li><li class="item354"><a href="/second-time-around.html"><span>Teams</span></a></li><li class="item590"><a href="/retail-advice.html"><span>Retail advice</span></a></li><li class="item804"><a href="/sports-business-insider.html"><span>Sports Business Insider</span></a></li></ul></li><li class="parent item33"><a href="/blogs.html"><span>blogs</span></a><ul><li class="item327"><a href="/aunty-b.html"><span>Aunty B</span></a></li><li class="item363"><a href="/boss-lady.html"><span>Boss Lady</span></a></li><li class="item653"><a href="/behavioural-economics.html"><span>Behavioural Economics</span></a></li><li class="item339"><a href="/brand-matters.html"><span>Brand and Promises</span></a></li><li class="item345"><a href="/business-tech-talk.html"><span>Business Tech Talk</span></a></li><li class="item359"><a href="/the-futurist.html"><span>Change Maker</span></a></li><li class="item587"><a href="/customer-experience.html"><span>Customer Experience</span></a></li><li class="item362"><a href="/entrepreneur-watch.html"><span>Entrepreneur Watch</span></a></li><li class="item574"><a href="/authentic-leadership.html"><span>Enterprise Leadership</span></a></li><li class="item344"><a href="/franchise-tips-and-trends.html"><span>Franchise tips and trends</span></a></li><li class="item357"><a href="/female-entrepreneur.html"><span>Female Entrepreneur</span></a></li><li class="item352"><a href="/gen-y-millionaire.html"><span>Gen-Y Millionaire</span></a></li><li class="item347"><a href="/internet-secrets.html"><span>Internet Secrets</span></a></li><li class="item360"><a href="/property-investor.html"><span>Property Investor</span></a></li><li class="item338"><a href="/retail-trends.html"><span>Retail Trends</span></a></li><li class="item408"><a href="/selling-strategies.html"><span>Selling Strategies</span></a></li><li class="item652"><a href="/it-means-business-2.html"><span>IT Means Business</span></a></li><li class="item781"><a href="/winning-at-retail.html"><span>Winning at Retail</span></a></li><li class="item783"><a href="/culture-is-everything.html"><span>Culture is Everything</span></a></li><li class="item793"><a href="/neuro-branding.html"><span>Neuro Branding</span></a></li><li class="item801"><a href="/digital-strategy-5.html"><span>The Digital Strategist</span></a></li><li class="item802"><a href="/social-media-13.html"><span>Social Media Business</span></a></li><li class="item803"><a href="/the-online-anthropologist.html"><span>The Online Anthropologist</span></a></li><li class="item806"><a href="/the-fast-lane.html"><span>The Fast Lane</span></a></li><li class="item807"><a href="/the-seo-expert.html"><span>SEO Insights</span></a></li><li class="item809"><a href="/recovery-watch.html"><span>Recovery Watch</span></a></li><li class="item864"><a href="/it-in-the-workplace.html"><span>IT in the Workplace</span></a></li><li class="item867"><a href="/hr-for-smes.html"><span>HR for SMEs</span></a></li><li class="item872"><a href="/tech-head.html"><span>Tech Head</span></a></li></ul></li><li class="parent item8"><a href="#"><span>hot topics</span></a><ul><li class="item480"><a href="/people.html"><span>People</span></a></li><li class="item482"><a href="/special-events.html"><span>Special Events</span></a></li><li class="item464"><a href="/how-to.html"><span>How To</span></a></li><li class="item283"><a href="/business-information.html"><span>Business Information</span></a></li><li class="item306"><a href="/export.html"><span>Export</span></a></li><li class="item323"><a href="/wealth.html"><span>Wealth</span></a></li><li class="item324"><a href="/web-20.html"><span>Web 2.0</span></a></li><li class="item315"><a href="/managing-people.html"><span>Managing People</span></a></li><li class="item511"><a href="/ohs-2.html"><span>OHS</span></a></li><li class="item321"><a href="/superannuation.html"><span>Superannuation</span></a></li><li class="item308"><a href="/firing.html"><span>Firing</span></a></li><li class="item310"><a href="/hiring.html"><span>Hiring</span></a></li><li class="item307"><a href="/finance.html"><span>Finance</span></a></li><li class="item311"><a href="/industrial-relations.html"><span>Industrial Relations</span></a></li><li class="item322"><a href="/tax.html"><span>Tax</span></a></li><li class="item303"><a href="/cashflow.html"><span>Cashflow</span></a></li><li class="item317"><a href="/sales.html"><span>Sales</span></a></li><li class="item318"><a href="/seo.html"><span>SEO</span></a></li><li class="item319"><a href="/start-up.html"><span>Start-Up</span></a></li><li class="item309"><a href="/franchising.html"><span>Franchising</span></a></li><li class="item302"><a href="/buy-or-sell-a-business.html"><span>Buy or Sell a Business</span></a></li><li class="item304"><a href="/climate-change.html"><span>Climate Change</span></a></li><li class="item301"><a href="/business-travel.html"><span>Travel</span></a></li><li class="item312"><a href="/intellectual-property.html"><span>Intellectual Property</span></a></li><li class="item314"><a href="/legal.html"><span>Legal</span></a></li></ul></li><li class="parent item34"><a href="#"><span>industry</span></a><ul><li class="item284"><a href="/advertising-and-marketing.html"><span>Advertising and Marketing</span></a></li><li class="item285"><a href="/agribusiness.html"><span>Agribusiness</span></a></li><li class="item286"><a href="/construction-and-engineering.html"><span>Construction and Engineering</span></a></li><li class="item288"><a href="/financial-services-and-insurance.html"><span>Financial Services and Insurance</span></a></li><li class="item287"><a href="/food-and-beverages.html"><span>Food and Beverages</span></a></li><li class="item289"><a href="/health-and-pharmaceuticals.html"><span>Health and Pharmaceuticals</span></a></li><li class="item290"><a href="/information-technology.html"><span>Information Technology</span></a></li><li class="item291"><a href="/internet.html"><span>Internet</span></a></li><li class="item292"><a href="/leisure-and-gaming.html"><span>Leisure and Gaming</span></a></li><li class="item293"><a href="/manufacturing.html"><span>Manufacturing</span></a></li><li class="item294"><a href="/media.html"><span>Media</span></a></li><li class="item296"><a href="/professional-services.html"><span>Professional Services</span></a></li><li class="item295"><a href="/property.html"><span>Property</span></a></li><li class="item297"><a href="/resources-and-energy.html"><span>Resources and Energy</span></a></li><li class="item298"><a href="/retail.html"><span>Retail</span></a></li><li class="item299"><a href="/telecommunications.html"><span>Telecommunications</span></a></li><li class="item300"><a href="/transport-and-logistics.html"><span>Transport and Logistics</span></a></li></ul></li><li class="parent item429"><a href="#"><span>community</span></a><ul><li class="item449"><a href="/business-resources"><span>Business Resources</span></a></li><li class="item440"><a href="/webinars.html"><span>Webinars</span></a></li><li class="item430"><a href="/smart-learning.html"><span>Smart Learning</span></a></li><li class="item418"><a href="/smartcompany-web-awards-2011"><span>Web Awards</span></a></li><li class="item419"><a href="http://www.smartcompany.com.au/smart50-2012"><span>Smart50 Awards</span></a></li></ul></li></ul>
 											<div id="search">
 					<div id="cse-search-form" style="width: 100%;"></div>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
@@ -454,7 +390,6 @@ position:absolute;}
 <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
 <a class="addthis_button_tweet"></a>
 <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
-<a class="addthis_button_pinterest" pi:pinit:layout="horizontal"></a> 
 <a class="addthis_button_linkedin_counter"></a>
 <a class="addthis_button_compact"></a>
 </div>
@@ -514,14 +449,6 @@ ui_use_css:true}</script>
 
 </div><script defer="defer" type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
 <!-- AddThis Button END -->
-</div><div style="border:1px dotted #CFE491;padding:1px;margin:10px 0 0 0;">
-<!-- begin ad tag-->
-
-<!-- begin ad tag-->
-
-<script language="JavaScript" src="http://ad.au.doubleclick.net/adj/dfp.smartcompany.com.au/;sect=comments;dcopt=ist;sz=600x60;ord=ord=' + ord + '?" type="text/javascript"></script>
-<noscript><a href="http://ad.au.doubleclick.net/jump/dfp.smartcompany.com.au/;sect=comments;sz=600x60;ord=123456789?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/dfp.smartcompany.com.au/;sect=comments;sz=600x60;ord=123456789?" width="600" height="60" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
 </div>
 </div>
 
@@ -531,25 +458,7 @@ ui_use_css:true}</script>
 					</div>
 						
 					<div class="clear"></div>
-								<div class="moduletablegreyborder">
-					
-<div class="rsformgreyborder">
-	<form method="post" id="userForm" enctype="multipart/form-data" action="http://www.smartcompany.com.au/privacy/privacy.html"><br> 
-<table cellpadding="10">
-<tbody>
-<tr>
-<td>
-<p><span><img style="float: right;" width="120" alt="Steve Jobs - Free eBook" src="/images/stories/marketing/pdfs/ebooks2011/steve-jobs150w.gif"><strong><span style="color: #0096c4; font-size: 15px;">FREE eBOOK: Steve Jobs - Lessons from a legend</span></strong></span> </p>
-<p>In this eBook, we look at the career of Steve Jobs and showcase a number of different lessons you can gain from following his example</p>
-<p><span style="font-size: 12px; color: #0096c4;">Register for the SmartCompany Newsletter and receive <strong><em>'Steve Jobs - Lessons from a legend'</em></strong>.</span></p>
-<p><span style="font-family: &amp;amp;amp; mso-ansi-language: EN-GB;" lang="EN-GB"><span style="font-size: x-small;"><o:p></o:p></span></span><input type="text" value=" Your email address..." size="27" maxlength="150" name="form[email]" id="email" onfocus="value=''"><input type="submit" value="Download" name="form[Download]" id="Download" class="button"><span id="component1138" class="formNoError">Please enter a valid email address. For example fred@domain.com .</span> <input type="hidden" name="form[othermailchimpfields]" id="othermailchimpfields" value=""><input type="hidden" name="form[mailChimpSource]" id="mailChimpSource" value="148"><input type="hidden" name="form[hdnTechCompany]" id="hdnTechCompany" value="I would like to subscribe to TechCompany, SmartCompany's weekly tech update"><input type="hidden" name="form[hdnwebinar]" id="hdnwebinar" value="I would like to receive invitations to SmartCompany's free webinars"></p>
-<span class="tccheck"><input checked="checked" name="form[chkSpecial][]" type="checkbox" value="I wish to receive special offers via email from related companies" id="chkSpecial0"><label for="chkSpecial0">I wish to receive special offers via email from related companies</label> </span>
-<p class="tccheck">By submitting your email you are agreeing to our <a href="/terms-and-conditions" target="_blank">Terms &amp; Conditions</a>.<input type="hidden" name="form[na]" id="na" value="N\A"><input type="hidden" name="form[pleaseselect]" id="pleaseselect" value="- please select below -"><input type="hidden" name="form[number]" id="number" value="0"></p>
-</td>
-</tr>
-</tbody>
-</table><input type="hidden" name="form[formId]" value="148"></form><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(148); form.onsubmit = ajaxValidation;});</script></div>		</div>
-	
+						
 				</div>					
 			</div>
 
@@ -558,7 +467,7 @@ ui_use_css:true}</script>
 							<div class="moduletable">
 					
 <div class="rsform">
-	<form method="post" id="userForm" enctype="multipart/form-data" action="http://www.smartcompany.com.au/privacy/privacy.html"><div class="clear"></div>
+	<form method="post" id="userForm" enctype="multipart/form-data" action="http://www.smartcompany.com.au/privacy/privacy.html?q=/privacy/privacy.html&amp;"><div class="clear"></div>
 <table border="0" width="100%" id="shareboxgreen" style="margin-top: 10px;">
 	<tbody>
 		<tr>
@@ -596,7 +505,7 @@ ui_use_css:true}</script>
 							<td align="center">
 								<a href="http://twitter.com/smartcompany" title="Follow us on Twitter" target="_blank"><img src="/images/stories/socialnetworks/twitter.png"></a>
 								<a href="http://www.facebook.com/pages/Melbourne-Australia/SmartCompanycomau/126215308565?ref=ts" title="Become a fan on Facebook" target="_blank"><img src="/images/stories/socialnetworks/facebook.png"></a>
-								<a href="http://www.linkedin.com/groups?gid=2344499&amp;trk=hb_side_g" title="Meeting on Linkedin ?" target="_blank"><img src="/images/stories/socialnetworks/linkedin.png"></a>
+								<a href="http://www.linkedin.com/today/smartcompany.com.au" title="LinkedIn" target="_blank"><img src="/images/stories/socialnetworks/linkedin.png"></a>
 								<a href="http://www.smartcompany.com.au/rss/rss.html" title="Register our RSS"><img src="/images/stories/socialnetworks/rss.png"></a>
 								</td>
 						</tr>
@@ -611,68 +520,45 @@ ui_use_css:true}</script>
 </table>
 <input type="hidden" name="form[spoffer]" id="spoffer" value=""><input type="hidden" name="form[othermailchimpfields]" id="othermailchimpfields" value=""><input type="hidden" name="form[hdnTechCompany]" id="hdnTechCompany" value="I would like to subscribe to TechCompany, SmartCompany's weekly tech update"><input type="hidden" name="form[hdnwebinar]" id="hdnwebinar" value="I would like to receive invitations to SmartCompany's free webinars"><input type="hidden" name="form[mailchimpsource]" id="mailchimpsource" value="44"><input type="hidden" name="form[na]" id="na" value="N/A"><input type="hidden" name="form[pleaseselect]" id="pleaseselect" value="- please select below -"><input type="hidden" name="form[number]" id="number" value="0">
 
-
 <input type="hidden" name="form[formId]" value="44"></form><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(44); form.onsubmit = ajaxValidation;});</script></div>		</div>
 			<div class="moduletablelatestcontent">
 					<h3>Business Resources</h3>
-					<!-- begin ad tag-->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.net/adj/dfp.smartcompany.com.au/;kw=;pos=businessresources;dcopt=ist;sz=300x100;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad-apac.doubleclick.net/adj/dfp.smartcompany.com.au/;kw=;pos=businessresources;dcopt=ist;sz=300x100;ord=5405333525046301?" type="text/javascript"></script><noscript><a href="http://ad-apac.doubleclick.net/jump/dfp.smartcompany.com.au/;kw=;pos=businessresources;sz=300x100;ord=123456789?" target="_blank"><img src="http://ad-apac.doubleclick.net/ad/dfp.smartcompany.com.au/;kw=;pos=businessresources;sz=300x100;ord=123456789?" width="300" height="100" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
-<div style="display: block; text-align: right;margin: 0px 0 10px 0 !important; "><a href="/business-resources" style="color: #999999;">Click here for resources</a></div>		</div>
+					<script type="text/javascript">window.Fusion.space("tile1");</script>		</div>
 			<div class="moduletablelatestcontent">
 					<h3>Most Read</h3>
 					<ul class="mostreadlatestcontent">
 	<li class="mostreadlatestcontent">
-		<a href="/retail/049846-myer-dresses-down-for-a-long-bleak-winter-bartholomeusz.html" class="mostreadlatestcontent">
-			Myer dresses down for a long, bleak winter: Bartholomeusz</a>
+		<a href="/advertising-and-marketing/052620-how-the-advertising-standards-board-became-the-facebook-police-for-business.html" class="mostreadlatestcontent">
+			How the Advertising Standards Board became the Facebook police for business</a>
 	</li>
 	<li class="mostreadlatestcontent">
-		<a href="/construction-and-engineering/049909-how-a-20-million-fraud-took-down-construction-firm-hastie-group.html" class="mostreadlatestcontent">
-			How a $20 million fraud took down construction firm Hastie Group</a>
+		<a href="/information-technology/052547-dodgy-social-media-buying-followers-and-why-it-may-not-always-be-a-bad-idea-2.html" class="mostreadlatestcontent">
+			Dodgy social media: Buying followers, and why it may not always be a bad idea</a>
 	</li>
 	<li class="mostreadlatestcontent">
-		<a href="/retail/049813-inside-the-retravision-collapse-six-things-the-retailer-failed-to-do.html" class="mostreadlatestcontent">
-			Inside the Retravision collapse: Six things the retailer failed to do</a>
+		<a href="/information-technology/052580-annual-list-of-top-25-passwords-is-released-and-no-we-haven-t-learned-a-thing.html" class="mostreadlatestcontent">
+			Annual list of top 25 passwords is released – and, no, we haven't learned a thing </a>
 	</li>
 	<li class="mostreadlatestcontent">
-		<a href="/economy/049908-wasted-work-time-costs-40-billion-how-to-spot-it-and-put-a-stop-to-it.html" class="mostreadlatestcontent">
-			Wasted work time costs $40 billion – how to spot it and put a stop to it</a>
+		<a href="/retail/052609-retail-adventures-collapses-but-enters-restructuring-plan-three-of-the-company-s-biggest-mistakes.html" class="mostreadlatestcontent">
+			Retail Adventures collapses but enters restructuring plan: Three of the company's biggest mistakes </a>
 	</li>
 	<li class="mostreadlatestcontent">
-		<a href="/construction-and-engineering/049884-application-filed-to-wind-up-troubled-reed-construction-group-as-investigation-continues-into-missing-90-million.html" class="mostreadlatestcontent">
-			Application filed to wind up troubled Reed construction group as investigation continues into missing $90 million</a>
+		<a href="/information-technology/052562-five-lessons-from-five-years-on-twitter.html" class="mostreadlatestcontent">
+			Five lessons from five years on Twitter</a>
 	</li>
 </ul>		</div>
 			<div class="moduletable">
-					<img src="http://smartcompany.com.au/images/stories/marketing/intel_widget_header.jpg" alt="SmartCompany Smart Reads" title="SmartCompany Smart Reads" height="59" width="300">		</div>
-			<div class="moduletable">
-					<ul class="latestnews">
-	<li class="latestnews">
-		<a href="/information-technology/050035-new-deals-direct-chief-to-chase-more-acquisitions.html" class="latestnews">
-			New Deals Direct chief to chase more acquisitions</a>
-	</li>
-	<li class="latestnews">
-		<a href="/information-technology/049982-five-of-the-best-highlights-from-apple-chief-tim-cook-s-public-interview.html" class="latestnews">
-			Five of the best highlights from Apple chief Tim Cook’s public interview</a>
-	</li>
-	<li class="latestnews">
-		<a href="/information-technology/049960-what-we-learned-this-week-no-excuses-for-not-backing-up-data.html" class="latestnews">
-			WHAT WE LEARNED THIS WEEK: No excuses for not backing up data</a>
-	</li>
-	<li class="latestnews">
-		<a href="/information-technology/049961-gadget-watch-samsung-chromebook.html" class="latestnews">
-			GADGET WATCH: Samsung Chromebook</a>
-	</li>
-	<li class="latestnews">
-		<a href="/information-technology/049962-best-of-the-web-meet-the-world-s-most-successful-website-copycat.html" class="latestnews">
-			BEST OF THE WEB: Meet the world’s most successful website copycat</a>
-	</li>
-</ul>		</div>
-			<div class="moduletable">
-					<a href="http://ad.doubleclick.net/clk;256943976;81612400;m" target="_blank"><img src="http://www.smartcompany.com.au/images/stories/marketing/intel_widget_sponsor.jpg" alt="brought to you by Ultrabook[TM] Inspired by Intel" title="brought to you by Ultrabook[TM] Inspired by Intel" width="300" height="53" border="0"></a>		</div>
+					<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6993608102179164";
+/* SmartCompany Main Right */
+google_ad_slot = "8744779189";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
 	
 				</div>	
 			</div>
@@ -708,7 +594,7 @@ document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.ne
                 }
 
 		function showFeeds() {
-			 loadFeedAjax("www.crikey.com.au/feed/", "crikeyfeed"); 			 loadFeedAjax("blogs.crikey.com.au/welcome/files/blogs.xml", "crikeyblogsfeed"); 						 loadFeedAjax("www.startupsmart.com.au/features.html?format=feed&type=rss", "startupsmartfeed"); 			 loadFeedAjax("feeds.propertyobserver.com.au/propertyobserver/news", "propertyobserverfeed"); 			 loadFeedAjax("feeds.leadingcompany.com.au/leadingcompany/news", "leadingcompanyfeed"); 		}
+			 loadFeedAjax("www.crikey.com.au/feed/", "crikeyfeed"); 						 loadFeedAjax("www.startupsmart.com.au/features.html?format=feed&type=rss", "startupsmartfeed"); 			 loadFeedAjax("feeds.propertyobserver.com.au/propertyobserver/news", "propertyobserverfeed"); 			 loadFeedAjax("feeds.leadingcompany.com.au/leadingcompany/news", "leadingcompanyfeed"); 			 loadFeedAjax("www.womensagenda.com.au/index.php?option=com_obrss&task=feed&id=24", "womensagendafeed"); 		}
 
                 if (window.addEventListener) // W3C standard
                 {
@@ -731,7 +617,7 @@ document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.ne
 		#stablemates div ul li a {font-size:11px; font-weight:normal; font-family:arial, verdana, helvetica, sans-serif; color:#333 !important; text-decoration:none;}
 		#stablemates h4 {text-align:center; height:40px; margin:10px 0 0 0;}
 		#stablemates h3 {display:none;}
-		#stablemates .crikeyblogs a {color: #6A9D33;}
+		#stablemates .womensagenda a {color: #6A9D33;}
 		#stablemates .crikey a {color: #ee0000;}
 		#stablemates .smartcompany a {color: #2B9CD5;}
 		#stablemates .startupsmart a {color: #f36648;}
@@ -750,13 +636,7 @@ document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.ne
 				<h4><a href="http://www.crikey.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/crikey.png" alt="Crikey"></a></h4>
 				<span id="crikeyfeed"></span>
 			</div>
-				
-		 
-			<div class="crikeyblogs">
-				<h4><a href="http://blogs.crikey.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/crikeyblogs.png" alt="Crikey Blogs"></a></h4>
-				<span id="crikeyblogsfeed"></span>
-			</div>
-				
+					
 				
 		 
 			<div class="startupsmart">
@@ -764,16 +644,21 @@ document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.ne
 				<span id="startupsmartfeed"></span>
 			</div>
 				 
-			<div class="propertyobserver  ">
+			<div class="propertyobserver">
 				<h4><a href="http://www.propertyobserver.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/propertyobserver.jpg" alt="Property Observer"></a></h4>
 				<span id="propertyobserverfeed"></span>
 			</div>
 				
 		 
-			<div class="leadingcompany last">
+			<div class="leadingcompany">
 				<h4><a href="http://www.leadingcompany.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/leadingcompany.png" alt="Leading Company"></a></h4>
 				<span id="leadingcompanyfeed"></span>
 			</div>
+		
+		            <div class="womensagenda ">
+                <h4><a href="http://www.womensagenda.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/womensagenda.png" alt="Womens Agenda" border="0"></a></h4>
+                <span id="womensagendafeed"></span>
+            </div>
 		
 		<div class="clear"></div>
 
@@ -798,7 +683,7 @@ document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.ne
 		 				</tr>
 						<tr>		 							
 		 							<td align="left">
-						<ul class="menufootermenu"><li class="item130"><a href="/"><span>Home</span></a></li><li class="item138"><a href="/about-us/about-us.html"><span>About Us</span></a></li><li class="item131"><a href="/contact-us.html"><span>Contact Us</span></a></li><li class="item137"><a href="http://www.privatemedia.com.au/our-websites"><span>Advertise</span></a></li><li id="current" class="active item411"><a href="/privacy/privacy.html"><span>Privacy</span></a></li><li class="item412"><a href="/terms-and-conditions/terms-and-conditions.html"><span>Terms &amp; Conditions</span></a></li><li class="item437"><a href="/sitemap.html"><span>Sitemap</span></a></li><li class="item371"><a href="/smart50-2011"><span>Smart50 Awards</span></a></li><li class="item477"><a href="/web-awards-2011"><span>Web Awards</span></a></li><li class="item481"><a href="/049679-register-to-smartcompany-55.html"><span>Registration</span></a></li><li class="item654"><a href="/smartcompany-code-of-conduct-2.html"><span>Code of Conduct</span></a></li></ul><div class="copyright">Editor: James Thomson<br>Publisher: Amanda Gome</div>
+						<ul class="menufootermenu"><li class="item130"><a href="/"><span>Home</span></a></li><li class="item138"><a href="/about-us/about-us.html"><span>About Us</span></a></li><li class="item131"><a href="/contact-us.html"><span>Contact Us</span></a></li><li class="item137"><a href="http://www.privatemedia.com.au/our-websites"><span>Advertise</span></a></li><li id="current" class="active item411"><a href="/privacy/privacy.html"><span>Privacy</span></a></li><li class="item412"><a href="/terms-and-conditions/terms-and-conditions.html"><span>Terms &amp; Conditions</span></a></li><li class="item437"><a href="/sitemap.html"><span>Sitemap</span></a></li><li class="item477"><a href="/web-awards-2011"><span>Web Awards</span></a></li><li class="item481"><a href="/049679-register-to-smartcompany-55.html"><span>Registration</span></a></li><li class="item654"><a href="/smartcompany-code-of-conduct-2.html"><span>Code of Conduct</span></a></li></ul><div class="copyright">Editor: James Thomson<br>Publisher: Amanda Gome</div>
 <div class="copyright">SmartCompany.com.au<br>Level 6, 22 William St,</div>
 <div class="copyright">Melbourne, 3000</div>
                 </td>
@@ -993,15 +878,7 @@ document.write('<script language="JavaScript" src="http://ad-apac.doubleclick.ne
 				</div>
 				<!-- END: FOOTER -->
 </div>
-		<div id="ad2" class="gutter right"><script type="text/javascript">
-var ord = window.ord || Math.floor(Math.random() * 1e16);
-  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/dfp.smartcompany.com.au/;pos=right;sz=155x870;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/dfp.smartcompany.com.au/;pos=right;sz=155x870;ord=5405333525046301?"></script>
-<noscript>
-<a href="http://ad.doubleclick.net/N3831/jump/dfp.smartcompany.com.au/;pos=right;sz=155x870;ord=123456789?">
-<img src="http://ad.doubleclick.net/N3831/ad/dfp.smartcompany.com.au/;pos=right;sz=155x870;ord=123546789?"/>
-</a>
-</noscript></div>
+		<div id="ad2" class="gutter right"><script type="text/javascript">window.Fusion.space("gutter_right");</script></div>
 	</div>
 <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
 <!-- COPYRIGHT 2007 Nielsen//NetRatings -->
@@ -1016,23 +893,28 @@ var ord = window.ord || Math.floor(Math.random() * 1e16);
 	<div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=smartcompany&amp;cg=0" alt=""/></div>
 </noscript>
 <!-- END Nielsen//NetRatings SiteCensus V5.3 --><!-- List Id = 24584 and List Name = SmartCo retargeting --> 
-<!-- Begin ad tag --> 
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<img src="http://ad-apac.doubleclick.net/activity;src=1098196;dcnet=3831;boom=24584;sz=1x1;ord='+ ord +'?"width="1" height="1" border="0" alt="">');
-</script><img src="http://ad-apac.doubleclick.net/activity;src=1098196;dcnet=3831;boom=24584;sz=1x1;ord=687712163726563.8?" width="1" height="1" border="0" alt="">
-<noscript>
-<img src="http://ad-apac.doubleclick.net/activity;src=1098196;dcnet=3831;boom=24584;sz=1x1;ord=1?"width="1" height="1" border="0" alt="">
-</noscript>
-<!-- End ad tag --> 
-
 <div id="jfconversion" style="display:none;">
-		<div class="moduletable">
-					<a target="_blank" title="SME Directions Survey" href="https://www.surveymonkey.com/s/scwhkmayjune2012">
-<p style="text-align: center;"><img src="/images/stories/marketing/partners/popup-400x240-whk-2012-directions-survey.gif"></p>
-</a>		</div>
+		<div class="moduletable_popup">
+					
+<div class="rsform_popup">
+	<form method="post" id="userForm" enctype="multipart/form-data" action="http://www.smartcompany.com.au/privacy/privacy.html?q=/privacy/privacy.html&amp;"><table style="width: 500px;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td>
+<h2><img width="140" style="float: right;" alt="50 gems from Australia's top SME entrepreneurs" src="http://www.smartcompany.com.au/images/stories/marketing/ebooks/50_gems_cover150w.gif"></h2>
+<h2><span style="color: #0098ca;">Free eBook: 50 gems from Australia's top SME entrepreneurs</span><span style="color: #0096c4;">&nbsp;<br></span></h2>
+<p>Subscribe to the SmartCompany Newsletter and keep up-to-date with all the news and resources essential to the small to medium business owner. Receive your free eBook immediately.</p>
+<p><span style="color: #1566b6;"><strong><span style="color: #0098ca;">Subscribe and download your free eBook now</span></strong></span> <br><br> <input type="text" value=" Your email address..." size="27" maxlength="150" name="form[email]" id="email" onfocus="value=''"><input type="submit" value="Download" name="form[Download]" id="Download" class="button"> <span id="component1572" class="formNoError">Please enter a valid email address. For example fred@domain.com .</span><br> <span style="font-size: x-small;"><input checked="checked" name="form[chkSpecial][]" type="checkbox" value="I wish to receive special offers via email from related companies" id="chkSpecial0"><label for="chkSpecial0">I wish to receive special offers via email from related companies</label>  <input type="hidden" name="form[hdnTechCompany]" id="hdnTechCompany" value="I would like to subscribe to TechCompany, SmartCompany's weekly tech update"><input type="hidden" name="form[othermailchimpfields]" id="othermailchimpfields" value=""><input type="hidden" name="form[mailChimpSource]" id="mailChimpSource" value="175"><input type="hidden" name="form[hdnwebinar]" id="hdnwebinar" value="I would like to receive invitations to SmartCompany's free webinars"></span></p>
+</td>
+</tr>
+</tbody>
+</table><input type="hidden" name="form[na]" id="na" value="N/A"><input type="hidden" name="form[pleaseselect]" id="pleaseselect" value="- please select below -"><input type="hidden" name="form[number]" id="number" value="0">
+
+<input type="hidden" name="form[formId]" value="175"></form><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(175); form.onsubmit = ajaxValidation;});</script></div>		</div>
 	
 </div>
 
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","47c9021fa3","958615","NQFbYhQDWEFRBxIMWgxLeFUSC1lcHycJC0EHCk11CQxCQF8ICgBHTQBQRRYOV0s=",0,549,new Date().getTime()]);</script>
 
-</body></html>
+
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
