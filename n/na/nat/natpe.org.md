@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513055413id_/http%3A//www.natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D390%26Itemid%3D663) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106182859id_/http%3A//www.natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D390%26Itemid%3D663) for the most accurate reproduction.*
 
 # Privacy Policy | NATPE | Content First | NATPE | Content First
 
