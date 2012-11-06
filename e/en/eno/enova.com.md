@@ -1,100 +1,113 @@
-> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106013922id_/http%3A//www.enova.com/additional-info/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | EnovaEnova
 
-**Go Daddy Respects Your Privacy**
+This policy replaces any privacy policy previously delivered to you or appearing on our website, any transaction agreement, application, loan document or any other document previously delivered to you. If there are conflicts between this Policy and any other policy we have delivered to you, the terms of this Policy shall control until revised.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Enova International, Inc. (“Enova”) is serious about protecting your privacy. This notice is provided to you on behalf of Enova, its parent company, Cash America International, Inc., their respective family of companies, and all of their respective subsidiaries and affiliates, (hereafter collectively referred to as the “Enova Related Companies,” “we,” “our,” or “us”). The Enova Related Companies include, but are not limited to: Cash America Net Holdings, LLC, Cash America International, Inc., and all of their respective subsidiaries and affiliates, including those that operate under the trade names CashNetUSA, Cash America Net, Cash America, Cash America Pawn, Cashland, SuperPawn, Cash America Payday Advance, Primary Pay Card (or variations thereof), or company-owned Mr. Payroll locations. “You” or “Your” means you as a participant in or as a user of the products and/or services offered by an Enova Related Company.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+All information transmitted, printed or otherwise submitted to us shall be deemed to be our property and we shall be free to use such information for any lawful purpose described herein, and for other purposes as required or permitted by law.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Please read this notice carefully. This notice provides important information about the way we collect, share, and protect your information. This privacy policy applies to anyone who applies for or uses our products or services, or visits our websites, including, but not limited to, current and former customers. We must notify you about our sharing practices when you establish a customer relationship and each year while you are a customer. A customer relationship begins when you obtain a financial product or service from us. A customer relationship terminates when you pay off a transaction in full.
 
-**Information Collection and Use**
+## Information We Collect
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect personally identifiable information, including, but not limited to, non-public personal information, as well as other types of personally identifiable information from you and from other sources as described herein (collectively, “Your Information”). Our primary goal in collecting Your Information is to provide you with efficient, accurate, and customized financial products and services. Your Information also helps us personalize and improve your customer experience with us.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect and/or track the following types of information:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * Information we receive from you on applications or other forms, such as transaction documents, sales documents, online forms, e-mails, registration forms, surveys, or other documents or submissions related to the products and services we provide, including your name, address, telephone number, social security number, driver’s license number, email address, employment information, demographic information, bank account information, and information about your assets, debts and income;
+  * Information about your transactions with us, our affiliates, or others, such as your account history, transaction balances, payment history, overdraft history, parties to transactions, and your reasons for doing business with us;
+  * Information we receive from third parties, such as consumer reporting agencies and other lenders, regarding your credit worthiness and credit history, and to verify your identity;
+  * Information we obtain to verify representations made by you, such as your employment history or income;
+  * Information obtained from specialized marketing information firms, such as household demographics;
+  * Information obtained from Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
+  * Information, user specific or aggregate, we receive from our web pages recording visitor’s access;
+  * Information you provide when you contact our customer service department; and
+  * Information you provide to us when you communicate with us via email.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## How We Use Your Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use Your Information to:
 
-**Security**
+  * Provide you with products and services you request;
+  * Offer you additional products or services, from us or from others, that may be of interest to you;
+  * Comply with all reporting and other legal requirements;
+  * Enhance your experience at our websites;
+  * Process payments and update account records;
+  * Analyze customer demographics, payment histories, and preferences;
+  * Conduct statistical analyses; and
+  * Provide our advertisers with editorial or feedback information.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## Sharing Your Information
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+(Customers that reside in California, North Dakota or Vermont should refer to the state-specific notices provided at the end of this policy)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+The Enova Related Company delivering this Privacy Policy to you (the “Enova Provider”) may share or sell Your Information with any other Enova Related Company (collectively, its “Affiliated Companies”) and with other companies with whom any Enova Related Company does business (“Non-Affiliated Third Parties”) as permitted by law and described in this Privacy Policy. These Affiliated Companies and Non-Affiliated Third Parties may be (1) financial service providers, such as mortgage bankers, mortgage brokers, consumer lenders, small loan lenders, tax refund anticipation loan lenders, loan brokers, deferred deposit providers, check cashers, supervised lenders, delayed deposit providers, deferred presentment providers, collection agencies, consumer reporting agencies, banks, credit card providers, debit card providers, store valued card providers, insurance agencies, bill payment agencies, ATM providers, pawn and title pawn providers, automobile dealers, automobile financing providers, automobile leasing providers, money transfer and remittance providers, sellers and remitters of money orders, insurance services providers, and financial service provider holding companies, or agents, contractors, or representatives of any of the foregoing; (2) non-financial companies, such as retailers, tax preparers, payroll service providers, advertisers, marketing companies, lead generators, advertisers on our websites, companies or individuals that do industry-related research, surveys or polls, automobile dealers, and any person who offers a non-financial product or service, and holding companies, or agents, contractors, or representatives of any of the foregoing; and (3) other businesses, such as non-profit organizations, trade associations, and industry analysts or agents, contractors, or representatives of any of the foregoing.
 
-      iii.      You may call us at: (480) 505-8800
+Affiliated Companies and Non-Affiliated Third Parties may use Your Information for any legal purpose, including, but not limited to, developing and promoting new or joint products, improving existing products and services, and contacting you to offer products and services that may be of interest to you. We may also disclose Your Information, as described above, to companies who perform services on our behalf or to other financial institutions with which we have joint marketing agreements.
 
-       iv.      You may fax us at: (480) 505-8844
+The Enova Provider may also disclose Your Information to Affiliated Companies and Non-Affiliated Third Parties that provide services to us (“Service Providers”). We contract with service providers to perform certain functions on our behalf. Examples include database providers who assist in identity verification, credit scoring companies, magazine publishers, retailers, and direct marketers. Their access is limited only to the personal data needed to perform their functions, and only for the purpose of performing those functions, and they are prohibited from using or disclosing Your Information for other purposes.
 
-**Sending Emails**
+We also may release Your Information if it becomes necessary for compliance with the law or to protect the rights, property, or safety of our websites, our users, or third parties. We reserve the right to release such personal data to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law. In addition, we reserve the right to use and disclose Your Information that is not in individually identifiable form as we deem appropriate in our sole discretion.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## Notice of Furnishing Negative Information
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+WE MAY REPORT INFORMATION ABOUT YOUR ACCOUNT TO CREDIT BUREAUS. LATE PAYMENTS, MISSED PAYMENTS, OR OTHER DEFAULTS ON YOUR ACCOUNT MAY BE REFLECTED IN YOUR CREDIT REPORT.
 
-**Compliance with Laws and Law Enforcement**
+## Notice of Furnishing Negative Information
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may receive and store certain types of information whenever you interact with our websites. For example, like many websites, we use “cookies” to obtain certain types of information when your web browser accesses our websites and when you login, such as: your name and your email address. Cookies are pieces of information that are transferred to your computer’s hard drive via your web browser. They allow us to provide you with a more convenient and personalized shopping experience by recording information about your preferences.
 
-**Third Party Service Providers**
+A web browser is usually set to accept cookies automatically but can be changed to decline them. The Help section of the toolbar on most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the web browser notify you when you receive a new cookie or how to disable cookies altogether. In most cases, a visitor may refuse a cookie and still fully navigate our websites.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Your Right to Limit the Sharing of Your Information
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+In some circumstances, you have the right to direct the Enova Provider to not share Your Information with its Affiliated Companies and/or Non-Affiliated Third Parties (i.e. “Opt-Out”). Please note that even if you Opt-Out, the Enova Provider may still share Your Information with its Affiliated Companies and Non-Affiliated Third Parties as permitted or required by law. Also, the Enova Provider may share information it collects regarding its transactions and experiences with you with its Affiliated Companies. The Enova Provider may also share all information it collects about you with Affiliated Companies and Non-Affiliated Third Parties: to facilitate providing our services to you, to administer our business, in order to receive services from those companies, as permitted under joint marketing agreements, and as otherwise permitted or required by law.
 
-**Supplementation of Information**
+The Enova Provider is delivering this notice to you on behalf of itself and all other Enova Related Companies. You may limit how the Enova Provider’s Affiliated Companies use Your Information the Enova Provider shares with them. Federal law gives you the right to limit some but not all marketing from the Enova Provider’s Affiliated Companies. You may limit an Enova Provider’s Affiliated Companies from marketing their products or services to you based on Your Information that they receive from the Enova Provider. This information includes your income, your account and payment history, and your credit history, report or score.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Opt-Out Information and Notice
 
-**Contests/Surveys**
+To limit the Enova Provider’s sharing of Your Information with Affiliated Companies and Non- Affiliated Third Parties, as described above, contact us:
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+  * On the web: [www.enova.com](https://web.archive.org/web/20121106013922id_/http://www.enova.com/additional-info/privacy-policy/www.enova.com), or
+  * By email: [optout@enova.com](mailto:optout@enova.com).
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Unless we hear from you, we can begin sharing Your Information thirty (30) days from the date we first deliver this Notice to you. However, you may Opt-Out at any time by contacting us. Once we receive your Opt-Out request, we will stop sharing this information as soon as reasonably practicable. Your Opt- Out request will remain in effect until you notify us otherwise in writing.
 
-**What Happens to my Personal Information if I Opt Out?**
+## How We Protect Your Information
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We restrict access to Your Information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard Your Information.
 
-**Transfer of Data Abroad**
+## Our Right to Contact You
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, our privacy policy, or any other policies or agreements relevant to you. By visiting our websites, you understand and agree that we may contact you at the phone number or email address you provide to us through our websites or on your transaction agreements, applications, loan documents or any other document to assist you with your product or to discuss other products and services that an Enova Related Company may provide for you.
 
-**Changes in Our Practices**
+## We Do Not Collect Data from Children
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+The information and services provided by us or by our affiliates, sponsors, and advertisers, are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly collected or used for any purpose whatsoever, including marketing and promotional purposes, either inside or outside the Enova Related Companies.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+## Our Right to Change This Policy
 
-**Contacting Our Site**
+We reserve the right to change this policy at any time by either providing you a revised copy of the policy, or notifying you of the existence and location of the new or revised privacy policy.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+## Notice to California Residents
 
-* * *
+Pursuant to state law, the Enova Provider may not share information it collects about you with its Affiliated Companies or with Non-Affiliated Third Parties, except in the limited circumstances permitted under state law, or if you give us your permission.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+California Civil Code Section 1798.83, also known as S.B. 27, allows California residents to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at www.enova.com or write to us at attn: Customer Service, 200 W. Jackson Blvd., 14th Floor, Chicago, Illinois 60606-6941.
+
+## Notice to North Dakota Residents
+
+Pursuant to state law, we will only share information with our service providers and with third parties as required or permitted by law, or if you give us your permission.
+
+## Notice to Vermont Residents
+
+The Enova Provider will not disclose information about you with its Affiliated Companies or with Non-Affiliated Third Parties, other than as required or permitted by law, without your express permission.
