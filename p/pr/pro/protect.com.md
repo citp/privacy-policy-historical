@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protect.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619094639id_/http%3A//www.protect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protect.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106182658id_/http%3A//www.protect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Protect.com
 
