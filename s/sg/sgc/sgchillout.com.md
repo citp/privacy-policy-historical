@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgchillout.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630073714id_/http%3A//sgchillout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgchillout.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106120342id_/http%3A//sgchillout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SG Chill Out - Singapore Part & Full Time Jobs, Tuition Assignments, Deals & Discounts
 
