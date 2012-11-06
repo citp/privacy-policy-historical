@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dead.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615132846id_/http%3A//www.dead.net/online-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dead.net privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106024825id_/http%3A//dead.net/online-privacy-notice) for the most accurate reproduction.*
 
 # Online Privacy Notice | Grateful Dead
 
