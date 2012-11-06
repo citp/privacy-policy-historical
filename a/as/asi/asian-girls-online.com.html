@@ -1,22 +1,27 @@
-<!--The following is the downloaded HTML source of the asian-girls-online.com privacy policy that was archived on 2012-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120411020034id_/http%3A//www.asian-girls-online.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asian-girls-online.com privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106225636id_/http%3A//www.asian-girls-online.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <!-- <title>Find your missing Oriental piece in one of our women</title> -->
+    <meta name="description" content="Your privacy is important to us. We do not sell any of your personal information and only using it for legitimate business purposes.">
+<meta name="title" content="Privacy Statement - Asian-Girls-Online.com">
+<meta name="keywords" content="want to marry, Vietnamese women, Asian dating,  Philipina, pretty Thai, Japanese bride, Geisha, looking for love, meet Thai, single Chinese">
+
+    <title>Find your missing Oriental piece in one of our women</title>
+    <meta name="title" content="Find your missing Oriental piece in one of our women.">
+    
+        <meta name="keywords" content="meet asian, date japanese, pretty korean, single filipinas, vietnamese bride, thai girls online, pretty chinese women, geisha, maiko">
+        <meta name="description" content="The number 1 resource of Asiatic beauties is bringing you your 1 and only. The woman of your life. Get back on track, it's time to thrive.">
+        
 
 
     <link href="/css/style.css" rel="stylesheet" type="text/css">
     
-        <meta name="title" content="Find your missing Oriental piece in one of our women.">
-        <meta name="keywords" content="meet asian, date japanese, pretty korean, single filipinas, vietnamese bride, thai girls online, pretty chinese women, geisha, maiko">
-        <meta name="description" content="The number 1 resource of Asiatic beauties is bringing you your 1 and only. The woman of your life. Get back on track, it's time to thrive.">
         <link rel="stylesheet" type="text/css" href="/css/invitation.css">
         <link rel="stylesheet" type="text/css" href="/js/yui/build/container/assets/skins/sam/container.css">
-        <link rel="stylesheet" type="text/css" href="/js/jquery.lightbox/css/jquery.lightbox-0.5.css" media="screen">
-        <script type="text/javascript" src="/js/jquery.min.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui-1.7.2/jquery-ui-1.7.2.custom.min.js"></script>
         <script type="text/javascript" src="/js/jquery.tmpl.min.js"></script>
-        <script type="text/javascript" src="/js/jquery.lightbox/js/jquery.lightbox-0.5.min.js"></script>
         <script type="text/javascript" src="/js/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
         <script type="text/javascript" src="/js/yui/build/connection/connection-min.js"></script>
         <script type="text/javascript" src="/js/yui/build/animation/animation-min.js"></script>
@@ -24,10 +29,12 @@
         <script type="text/javascript" src="/js/yui/build/container/container-min.js"></script>
         <script type="text/javascript" src="/js/yui/build/json/json-min.js"></script>
         <script type="text/javascript" src="/js/jquery-1.6.1.min.js"></script>
-        <script type="text/javascript" src="/js/invitations.js"></script>
         <script type="text/javascript"> var SITEURL = "http://www.asian-girls-online.com"; </script>
         <script type="text/javascript" src="/js/common.js"></script>
+        <!--script type="text/javascript" src="/js/invitations.js"></script-->
         <script type="text/javascript" src="/js/chat_invite.js"></script>
+        <script type="text/javascript" src="/js/uniform/jquery.uniform.js"></script>
+        <link rel="stylesheet" href="/js/uniform/uniform.default.css" type="text/css" media="screen" charset="utf-8">
         <script type="text/javascript">
         var jq = jQuery.noConflict();
         jQuery(function(){
@@ -38,38 +45,85 @@
            });
         });
         </script>
+
         <script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-18601452-11']);
-            _gaq.push(['_trackPageview']);
-
-            $(function () {
-                            // Invitation widget
-                startupInvitations(
-                    0,
-                    0,
-                    0,
-                    0
-                );
-
-                            // Lightbox
-                $('a[rel*=lightbox]').lightBox();
-
-                            // Google analytics
-                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            });
+              // enables uniform for listed elements, making forms pretty
+        jQuery(function(){
+                jq("select, input:checkbox, input:radio, input:file, textarea, input:text, input:password").not('.no_uni').uniform();
+        });
         </script>
+       
         <script id="chat-invite-template" type="text/x-jquery-tmpl">
-        <div class="chat-invite">
-            <p><span class="name">${displayname}</a> has invited you to chat!</p>
-            <div class="links">
-                <a href="#" class="chat-now">Chat now</a>
-                <a href="/${userid}.php">View Profile</a>
-                <a href="#" class="no-thanks">No Thanks</a></div>
+            <div class="invite"
+                data-userid="${userid}"
+                data-displayname="${displayname}"
+                data-time="${timestamp}">
+                <div class="profile_pic">
+                    <a href="#"><img src="/images/profilebox/photo-overlay.gif" style="background-image:url('${picture}');" border="0"></a>
+                </div>
+                <div class="chat_info">
+                    <span><p>${displayname} is online right now!</p></span>
+                    <a href="#" class="chat-now chat">
+                        <img src="/images/chat_now_bg.gif" alt="Chat Now" border="0" />
+                    </a>
+                    <span class="goto_prof_btns">
+                        <a href="/${userid}.php">
+                            <img src="/images/chat_view_profile.png" alt="View Profile" border="0" />
+                        </a>
+                                                
+                    </span>
+                    <a id="video-btn" href="#" class="chat-now video" style="display: ${videoonline}">
+                        <img src="/images/chat_vid_bg.png" alt="View Live Video" border="0" />
+                    </a>
+                    <span class="bluebar">
+                        <div class="bar">
+                             <div class="filledbar"></div>
+                        </div>
+                    </span>
+                </div>
             </div>
-        </div>
+        </script>
+       
+        <script type="text/javascript">
+        //new analytics code
+        var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-18601452-11']);
+          _gaq.push(['_trackPageview']);
+        
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        
+        </script>
+        <script type="text/javascript" src="/js/jquery.simplemodal.1.4.3.min.js"></script>
+        <link rel="stylesheet" href="/css/chosen.css">
+        <script type="text/javascript">
+        function ModalAlert(string) {
+            jQuery("span.stringmessage #addedstring").remove();
+            jQuery("span.stringmessage").append("<span id='addedstring'>" + string + ".</span>");
+            jQuery('#signuppopup2.modalalert').modal({
+                overlayClose: true
+            });
+            return false;
+
+        }
+        function Modal(path) {
+            var src = 'http://www.asian-girls-online.com' + path;
+            jQuery('#signuppopup #modalportrait').attr("src",src);
+            jQuery('#signuppopup').modal({
+                overlayClose: false,
+                escClose: false,
+                onClose: function () {
+                    jQuery.modal.close();
+                    jq("input:checkbox, input:radio, input:file, textarea, input:text, input:password").not('.no_uni').uniform();
+                    jQuery("select").removeClass("chzn-done").css('display', 'inline').data('chosen', null);
+                    jQuery("*[class*=chzn]").remove();
+                    $('#country_id2').chosen();
+                }
+            });
+        }
         </script>
     
 </head>
@@ -77,11 +131,29 @@
     
     <table id="asian-women-online"><tbody><tr><td style="padding:0px" align="center">
         <div id="asian-girls-body">
-            <div style="display:block;float:left;">
+            <div id="tempheader">
+                <div class="link_bar">
+                    <div style="display: inline;">
+                        <!-- <span>Dating in:&nbsp;</span>
+                        <ul>
+                            <li><a href="#">Asia</a></li>
+                            <li>|</li>
+                            <li><a href="http://www.latingirlsnetwork.com">Latin America</a></li>
+                            <li>|</li>
+                            <li><a href="http://www.dream-marriage.com">Russia &amp; Ukraine</a></li>
+                        </ul> -->
+                    </div>
+                    <span>
+                         Already a Member? <a href="http://www.asian-girls-online.com/member-login">Log in Here</a>&nbsp;
+                    </span>
+                    
+                </div>
+            </div>
+            <div style="display:block;float:left">
                 <div id="asian-girls-header">
                 	<div id="logo" onclick="window.location='http://www.asian-girls-online.com'">Asian-Girls-Online.com</div>
-                    <div id="headerphone"><h2>+1(888)746-0414</h2></div>
-                	<h1>Meet Beautiful Asian Brides <b>Now!</b></h1>
+                	<div id="headerphone"><img src="/images/header-phone-icon.png"><h2>+1(888)746-0414</h2></div>
+                	<h1>Meet Beautiful Asian Brides Now!</h1>
                     
                     <!-- <form class="headerform" method="post" action="https://www.asian-girls-online.com/member/index.php"> -->
                         <!-- login -->
@@ -102,8 +174,42 @@
                             <td class="left-repeat" valign="top"><img src="/images/bg-shadow-left.png"></td>
                             <td class="contentbody" valign="top">
                                 
+                               
                                 
+                                <div id="chat-invites">
+                                    <div id="chat-invite" style="display:none;">
+                                        <div id="chat_open" class="chat_open" style="display: none;">
+                                            <div class="chat_online" style="background: url(/images/chat_head_bg_man.gif) no-repeat;">
+                                                <span class="controls">
+                                                    <a href="#" class="minimize">
+                                                        Minimize 
+                                                        <img src="/images/min_chat_icon.png" alt="Minimize Chat Box">
+                                                    </a>
+                                                </span>
+                                                <span style="float: left; color: white; font-weight: bold; padding-left: 4px; font-size: 14px; padding-top: 2px;">
+                                                These ladies are ONLINE right Now!
+                                                </span>
+                                            </div>
+                                            <div id="chat_box_profiles">
+                                            </div>
+                                        </div>
+                                        <div id="chat_closed" class="chat_closed" style="background: url(/images/chat_close_bg_man.gif) no-repeat;">
+                                            <span id="chat_num"></span>
+                                            <span class="controls">
+                                                <a href="#" class="maximize">
+                                                    Maximize 
+                                                    <img src="/images/max_chat_icon.png" alt="Maximize Chat Box">
+                                                </a>
+                                                <a href="#" class="close">
+                                                    <img src="/images/close_chat_icon.png" alt="Close Chat Box">
+                                                </a>
+                                            </span>
+                                        </div>
+                                    </div>                                            
+                                </div>
+                            
                                 <div class="clear"></div>
+                                <!--<a href="https://www.asian-girls-online.com/member/feedbacksurvey.php"><img id="feedbackbutton" src="http://www.asian-girls-online.com/images/feedbackBTN.png"/></a>-->
 
 
 
@@ -140,7 +246,7 @@
         </tbody></table>
     </div>
     
-        </td> <td class="right-repeat" valign="top"><img src="/images/bg-shadow-right.png"></td>
+        </td><td class="right-repeat" valign="top"><img src="/images/bg-shadow-right.png"></td>
         </tr>
         </tbody></table>
         </div>
@@ -158,11 +264,55 @@
         </div>
     </div>
 
-        </div>
+            <div id="bottom_menu_bg" style="margin-left: -19px;">
+                <table width="856" height="56" bgimage="/images/index_bottom_menu_bg.jpg" border="0" id="bottom_menu" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/about-us">About Us</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/contact-us">Contact Us</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/live-chat">Live Chat</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/live-video">Live Video Streaming</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/success-stories">Testimonials</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/terms">Terms of Use</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/privacy">Privacy Statement</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/faq">FAQ</a>
+                        </td>    
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/gallery-qian/page1">Browse</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>        
+        </div>   
+        
+        </td></tr>
+        <tr><td>
         </td></tr></tbody></table>
-        <div id="asian-girls-footer" align="center" style="clear:both;">
-            <a href="http://www.asian-girls-online.com/about.php">About Us</a> | <a href="http://www.asian-girls-online.com/contact.php">Contact Us</a> | <a href="http://www.asian-girls-online.com/live-chat.php">Live Chat</a> | <a href="http://www.asian-girls-online.com/live-video.php">Live Video Streaming</a> | <a href="http://www.asian-girls-online.com/testimonials.php">Testimonials</a> | <a href="http://www.asian-girls-online.com/terms.php" target="_blank">Terms of Use</a> | <a href="http://www.asian-girls-online.com/privacy.php">Privacy Statement</a> | <a href="http://www.asian-girls-online.com/faq.php">FAQ</a> | <a href="http://www.asian-girls-online.com/search.php?__tcAction=search">Browse</a>
+<!--         
+        <div id="asian-girls-footer" align=center style="clear:both;">
+            <a href="http://www.asian-girls-online.com/about-us">About Us</a> | <a href="http://www.asian-girls-online.com/contact-us">Contact Us</a> | <a href="http://www.asian-girls-online.com/live-chat">Live Chat</a> | <a href="http://www.asian-girls-online.com/live-video">Live Video Streaming</a> | <a href="http://www.asian-girls-online.com/success-stories">Testimonials</a> | <a href="http://www.asian-girls-online.com/terms" target="_blank">Terms of Use</a> | <a href="http://www.asian-girls-online.com/privacy">Privacy Statement</a> | <a href="http://www.asian-girls-online.com/faq">FAQ</a> | <a href="http://www.asian-girls-online.com/gallery-qian/page1">Browse</a>
+        </div> -->
+ 
+        <div align="center" style="margin-top: 20px;">
+            <img src="/images/safety_guarantee.png" border="0" alt="">
+            <img src="/images/rapidssl_ssl_certificate.gif" border="0" alt="">
         </div>
+        <div id="copyright" align="center">
+        <p>© Copyright Asian-Girls-Online.com 2008. All rights reserved</p>      
         <!--[if lt IE 7]>
         <![if gte IE 5.5]>
         <style>
@@ -202,7 +352,7 @@
                     </ul>
                 </div>
                 <div class="popupbutton">
-                    <a href="https://www.asian-girls-online.com/freetrial.php" style="font-size:12pt;-moz-outline-style: none;"><img title="Sign Up for an Account FREE!" src="/images/button-signupnow.gif" border="0" onmouseover="this.src='/images/button-signupnow-hover.gif'" onmouseout="this.src='/images/button-signupnow.gif'"></a>
+                    <a href="https://www.asian-girls-online.com/3day-trial" style="font-size:12pt;-moz-outline-style: none;"><img title="Sign Up for an Account FREE!" src="/images/button-signupnow.gif" border="0" onmouseover="this.src='/images/button-signupnow-hover.gif'" onmouseout="this.src='/images/button-signupnow.gif'"></a>
                 </div>
                 <div class="popupfooter">
                     Already a member? <a href="http://www.asian-girls-online.com/member/">Login here</a>
@@ -214,4 +364,4 @@
     
 
 
-</body></html>
+</div></body></html>
