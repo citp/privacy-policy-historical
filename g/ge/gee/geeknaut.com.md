@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeknaut.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623070659id_/http%3A//www.geeknaut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeknaut.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106042050id_/http%3A//www.geeknaut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,8 @@ Geeknaut also collects potentially personally-identifying information like Inter
 ### Gathering of Personally-Identifying Information
 
 Certain visitors to Geeknaut’s websites choose to interact with Geeknaut in ways that require Geeknaut to gather personally-identifying information. The amount and type of information that Geeknaut gathers depends on the nature of the interaction. However, Geeknaut does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://valueclickmedia.com/member_privacy.shtml](http://valueclickmedia.com/member_privacy.shtml)
 
 ### Aggregated Statistics
 
