@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-top-tens.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505035354id_/http%3A//www.the-top-tens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-top-tens.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106114640id_/http%3A//www.the-top-tens.com/privacy.asp) for the most accurate reproduction.*
 
 # TheTopTens - Privacy Policy
 
