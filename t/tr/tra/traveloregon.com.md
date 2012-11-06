@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508122604id_/http%3A//traveloregon.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234619id_/http%3A//traveloregon.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Oregon
 
@@ -9,10 +9,10 @@ About TravelOregon
 TravelOregon.com is the official website of The Oregon Tourism Commission (dba Travel Oregon), the official destination marketing agency for the State of Oregon.
 
 Our postal address is:  
-670 Hawthorne SE, Suite 240  
-Salem, Oregon 97301
+317 SW Alder, Suite 200  
+Portland, Oregon 97204
 
-We can be reached via e-mail at [ info@traveloregon.com](mailto:%20info@traveloregon.com)
+We can be reached via e-mail at [ info@traveloregon.com](mailto:info@traveloregon.com)
 
 ### About
 
