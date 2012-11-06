@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinechest.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130100905id_/http%3A//cinechest.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinechest.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107005656id_/https%3A//cinechest.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -57,7 +57,7 @@ Film World Media makes it easy for you to keep your personal information accurat
 
 **Access to Personal Information**
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at www.Flix123.com. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Film World Media is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. 
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at cinechest.com. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Film World Media is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. 
 
 **Children**
 
