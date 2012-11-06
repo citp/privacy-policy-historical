@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504225221id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106163947id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheHill.com
+# Privacy Policy - The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill | TheHill.com
 
 **A **THE HILL’S PRIVACY POLICY****
 
