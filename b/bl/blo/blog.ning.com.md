@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.ning.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606053117id_/http%3A//www.ning.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.ning.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106085409id_/http%3A//www.ning.com/about/legal/privacy) for the most accurate reproduction.*
 
 # About Ning - Privacy Policy
 
@@ -73,7 +73,7 @@ The Children’s Online Privacy Protection Act (“COPPA”) protects the online
         * [ Cyber Sitter ](http://www.cybersitter.com/)
         * [Common Sense Media](http://www.commonsensemedia.org/)
         * [WebWiseKids.org ](http://www.webwisekids.org/)
-        * [Center for Safe and Responsible Internet Use](http://www.cyberbully.org/)
+        * [Center for Safe and Responsible Internet Use](http://csriu.org/)
         * [ Cyber Angels](http://www.cyberangels.org/)
         * [Cyber Bullying US](http://www.cyberbullying.us/)
 
