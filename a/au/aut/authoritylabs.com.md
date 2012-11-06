@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authoritylabs.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508094450id_/http%3A//authoritylabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritylabs.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231819id_/http%3A//authoritylabs.com/privacy) for the most accurate reproduction.*
 
-# AuthorityLabs Privacy Policy
+# AuthorityLabs Privacy Policy - AuthorityLabs
 
 We collect certain information relative to users who visit the site. AuthorityLabs does not make any attempt to obtain information that personally identifies our users who visit our site. It is not our policy to sell or otherwise provide access to such information to unaffiliated third parties. We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission.
 
