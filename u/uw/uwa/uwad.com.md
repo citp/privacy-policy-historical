@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the uwad.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624114026id_/http%3A//uwad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwad.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106085444id_/http%3A//uwad.com/privacy.html) for the most accurate reproduction.*
 
-# ¤¤ SEO Booster ::: Instant Web Site Generator and Search Engine Optimization Supplementary Tool ¤¤
+# ¤¤ uWad ::: Where social media for business finally makes sense ¤¤
 
-**SEO Booster Privacy Policies and Practices**
+**uWad Privacy Policies and Practices**
 
-This privacy policy sets out how “SEO Booster & Marsoft LLC ” uses and protects any information that you give “SEO Booster & Marsoft LLC ” when you use this website.
+This privacy policy sets out how “uWad & uWad LLC ” uses and protects any information that you give “uWad & uWad LLC ” when you use this website.
 
-“SEO Booster & Marsoft LLC ” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+“uWad & uWad LLC ” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-“SEO Booster & Marsoft LLC ” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10/20/2011.
+“uWad & uWad LLC ” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10/20/2011.
 
 **What we collect**
 
@@ -60,8 +60,7 @@ whenever you are asked to fill in a form on the website, look for the box that y
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:  
-2701 San Pedro Dr NE Suite #4 Albuquerque, NM 87110 United States of America  
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable.   
 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
@@ -71,4 +70,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 * * *
 
-Last Update : 10/20/2011 
+Last Update : 09/28/2012 
