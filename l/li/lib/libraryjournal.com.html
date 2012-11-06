@@ -1,401 +1,30 @@
-<!--The following is the downloaded HTML source of the libraryjournal.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617145102id_/http%3A//www.libraryjournal.com/csp/cms/sites/LJ/info/privacypolicy.csp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the libraryjournal.com privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106182812id_/http%3A//lj.libraryjournal.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-
-<!-- FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/head.csp -->
-<script type="text/javascript"> function doLog(logStatement){}</script>
-<script type="text/javascript">
-	var cookies_enabled = false;
-	function dti_ad_area_HTMLDecode(textToDecode)
-	{      
-		var result = textToDecode
-
-		if (result && result != '')
-		{
-			var amp = '&';
-			var gt = '>';
-			var lt = '<';
-			var quot = '"';
-			var apos = "'";
-			var iframe_disabled = "ifrme_not";
-			var iframe_enabled = "iframe";
-		
-		
-			var html_gt = /&gt;/gi;
-			var html_lt = /&lt;/gi;
-			var html_amp = /&amp;/gi;
-			var html_quot = /&quot;/gi;
-			var html_apos = /&apos;/gi;
-			var html_39Ref = /&#39;/gi;
-			var search_iframe_disabled = /ifrme_not/gi;
-			var search_iframe_enabled = /iframe/gi;
-		
-			result = result.replace(search_iframe_enabled, iframe_disabled);
-			result = result.replace( html_amp,amp);
-			result = result.replace(html_quot, quot);
-			result = result.replace(html_39Ref, quot);
-			result = result.replace( html_lt, lt);
-			result = result.replace(html_gt, gt);
-			result = result.replace(html_apos, apos);
-			result = result.replace(search_iframe_disabled, iframe_enabled);
-		}
-		return result;
-	}
-
-	// Finds a movie with the 
-	function dti_ad_area_PlayMovie(id)
-	{
-		//console.log("dti_play_area_PlayMovie("+id+")");
-		var player =document.getElementById(id);
-		if (player != null && player.IsPlaying() == false)
-		{
-			player.Play();
-		}
-		else
-		{
-			setTimeout("dti_ad_area_PlayMovie('"+id+"')", 1000);
-		}
-	}
-
-	// Stores the adRequest objects so they don't get garbage collected before the response is finished.
-	function XHRContainer()
-	{
-		var xhrArray = [];
-		var next = 0;
-		
-		this.getNewRequest = function() {
-			var req = new adRequest();
-			var index = next++;
-			xhrArray[index] = req;
-			req.containerIndex = index;
-			return req;
-		}
-		
-		this.disposeRequest = function(req) {
-			xhrArray[req.containerIndex] = null;
-		}	
-	}
-	
-	var adReqContainer = new XHRContainer();
-	
-	/* Gets the value of a cookie */
-	function Get_Cookie( check_name ) 
-	{
-		// first we'll split this cookie up into name/value pairs
-		// note: document.cookie only returns name=value, not the other components
-		var a_all_cookies = document.cookie.split( ';' );
-		var a_temp_cookie = '';
-		var cookie_name = '';
-		var cookie_value = '';
-		var b_cookie_found = false; // set boolean t/f default f
-
-		for ( i = 0; i < a_all_cookies.length; i++ )
-		{
-			// now we'll split apart each name=value pair
-			a_temp_cookie = a_all_cookies[i].split( '=' );
-
-
-			// and trim left/right whitespace while we're at it
-			cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
-
-			// if the extracted name matches passed check_name
-			if ( cookie_name == check_name )
-			{
-				b_cookie_found = true;
-				// we need to handle case where cookie has no value but exists (no = sign, that is):
-				if ( a_temp_cookie.length > 1 )
-				{
-					cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
-				}
-				// note that in cases where cookie is initialized but no value, null is returned
-				return cookie_value;
-				break;
-			}
-			a_temp_cookie = null;
-			cookie_name = '';
-		}
-		if ( !b_cookie_found )
-		{
-			return null;
-		}
-	}
-
-	
-	/* Sets a cookie that will allow ads to be served in a faster way */
-	function enableFastAdServing()
-	{
-		
-		var name = "_dtFastAds2";
-		var value = 1;
-		var path = "/";
-		var expireDays = 7;
-		var domain = null;
-		var secure = null;
-		
-		// set time, it's in milliseconds
-		var today = new Date();
-		today.setTime( today.getTime() );
-		
-		var expires = expireDays * 1000 * 60 * 60 * 24;
-		var expires_date = new Date( today.getTime() + (expires) );
-		
-		document.cookie = name + "=" +escape( value ) +
-		( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
-		( ( path ) ? ";path=" + path : "" ) +
-		( ( domain ) ? ";domain=" + domain : "" ) +
-		( ( secure ) ? ";secure" : "" );
-		
-		// make sure cookies are enabled by getting the cookie we just set.
-		cookies_enabled = Get_Cookie(name);
-	}
-	
-	enableFastAdServing();
-
-	function adRequest()
-	{
-		this.xmlhttp = null;
-		this.divId = "";
-		this.stateChange = adRequest_StateChange;
-		this.loadXMLDoc = adRequest_loadXMLDoc;
-	}
-	var isMozilla = false;
-	function GetXmlHttpObject()
-	{
-		var xmlhttp=null;
-		if (window.XMLHttpRequest)
-		  {
-		  // code for IE7+, Firefox, Chrome, Opera, Safari
-		  	xmlhttp=new XMLHttpRequest();
-		  	isMozilla = true;
-		  }
-		else if (window.ActiveXObject)
-		  {
-		  // code for IE6, IE5 - giving errors, just return an empty object and treat as not supporting scripts
-		 // xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-		  isMozilla = false
-		  
-		  }
-		else
-		  {
-		 // alert("Your browser does not support XMLHTTP!");
-		 	// returning an empty object emulates the <noscript> tag
-		  }	
-		  return xmlhttp;
-	}
-
-	function adRequest_loadXMLDoc(url, index, noScriptContents, areaName, theId)
-	{
-		this.xmlhttp=GetXmlHttpObject();
-		var divId = index + 1;
-		var itemId = theId+".adSlot"+divId
-		
-		if (this.xmlhttp!=null)
-		  {
-			  url = url + "&itemId="+itemId;
-			  this.xmlhttp.owner = this
-			  this.xmlhttp.onreadystatechange=this.stateChange;
-			  this.xmlhttp.open("GET",url,true);
-			  this.divId = itemId
-			  if (isMozilla == true)
-			  {
-			  	this.xmlhttp.send(null);
-			  }
-			  else
-			  {
-				  this.xmlhttp.send();
-			  }			  
-		  }
-		else
-		  {
-		  	var outStr = noScriptContents + "&itemId="+itemId;
-		  	var adSlotName = itemId;
-			var adSlot = document.getElementById(adSlotName);
-			if (adSlot)
-			{
-				adSlot.innerHTML= dti_ad_area_HTMLDecode(outStr);
-			}
-			else
-			{
-				doLog("NON-AJAX: failed to find element: "+adSlotName);
-				
-			}
-		  }
-	}
-
-	function adRequest_StateChange()
-	{
-		var xmlhttp;
-		xmlhttp = this.owner.xmlhttp
-
-		if (xmlhttp != null && xmlhttp != "")
-		{
-			if (xmlhttp.readyState==4)// 4 = "loaded"
-			{
-				if (xmlhttp.status == 200)// 200 = "OK"
-				{
-					var adSlotName = this.owner.divId
-					adSlot = document.getElementById(adSlotName);
-					if (adSlot)
-					{
-						adSlot.innerHTML=xmlhttp.responseText;
-					}
-					else
-					{
-						doLog("AJAX RESPONSE: failed to find div: "+adSlotName);
-					}
-				}
-				else
-				{
-					doLog("AJAX RESPONSE: Problem retrieving data:" + xmlhttp.statusText);
-				}
-				adReqContainer.disposeRequest(this.owner);
-			}
-		}
-	}
-
-	function serveAds(refreshAdRate, numSlots, encodedURL, noScriptContents, areaName, theId)
-	{
-		countDown = refreshAdRate;
-	
-		for (loop = 0; loop < numSlots ;++loop)
-		{
-			var xmlhttpRequest = adReqContainer.getNewRequest();
-			xmlhttpRequest.loadXMLDoc(encodedURL, loop, noScriptContents, areaName, theId);
-		}
-	
-		if (refreshAdRate > 0)
-		{
-			t=setTimeout("serveAds("+ refreshAdRate + ", " + numSlots + ", '" + encodedURL + "', '" + noScriptContents + "', '"+ areaName + "', '" + theId + "')", refreshAdRate * 1000); 
-		}
-	}
-	</script>
-<!-- FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/ad.csp -->
-
- 	
- 
-<!--/FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/ad.csp, took .002919 -->
-
-<!-- CSS -->
-<link rel="shortcut icon" type="image/x-icon" href="/csp/cms/sites/LJ/assets/images/LJFav.gif">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/lj.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/characterstyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/paragraphstyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/shared.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/PagingAreas.css" media="screen">
-<script type="text/javascript" src="/csp/cms/sites/LJ/assets/scripts/PagingAreas.js"></script>
-
-
-
-
-<!--- Google Analytics Code --->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16323142-1");
-pageTracker._setDomainName(".libraryjournal.com");
-
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!--- Google Analytics Code End --->
-<!--- Google Ad Tracking Code Begin --->
-<script type="text/javascript">
-GA_googleAddAttr("site", "LJ");
-       </script>
-<!--- Google Ad Tracking Code End --->
-
-
-<!--- Google Double Click Code Begin --->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "LJ_160x160_B");
-GA_googleAddSlot("ca-pub-1872221973353849", "Webinar_334x60");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJHalfpage300x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJLeaderboard728x90");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJLeaderboard728x90_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJMarketing160x160_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJRectangle300x250");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJRectangle300x250_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJSkyscraper160x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJTicker920x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJBoomBox336x280");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJSearchButton88x31");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJSkyscraper160x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJTickerAd983x25");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!--- Google Double Click Code End Added by AM on October 6 2010 --->
-
-<!-- Script to auto-size blog roll iframe -->
-<script type="text/javascript">
-function resizeIframeToFitContent(iframe) {
-    // This function resizes an IFrame object
-    // to fit its content.
-    // The IFrame tag must have a unique ID attribute.
-    iframe.height = document.frames[iframe.id]
-                    .document.body.scrollHeight;
-}
-</script>
-<!-- End blog roll iframe script -->
-<!--/FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/head.csp, took .003632 -->
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy</title>
+<meta name="robots" content="noodp,noydir">
+<link rel="Shortcut Icon" href="http://lj.libraryjournal.com/wp-content/themes/news/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://lj.libraryjournal.com/wp-content/themes/news/style.css" type="text/css" media="screen">
 
-<script type="text/javascript" src="https://scout.libraryjournal.com/a4ec6/sat.ashx"></script></head>
-<body>  
-  
-<!-- FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/wrapper.csp -->
- <div id="wrapper"><!-- BEGIN RICH-MEDIA Reed Business CODE -->
+<!-- Google Ads code -->
 
-
-
-<!-- CSS -->
-<link rel="shortcut icon" type="image/x-icon" href="/csp/cms/sites/LJ/assets/images/LJFav.gif">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/lj.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/characterstyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/paragraphstyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/shared.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/LJ/assets/css/PagingAreas.css" media="screen">
-
-
-<!-- END BURST CODE -->
-<!--- BLOG RSS FEED --->
-<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAPp3boQG1YFO76X-6YBzVlxTLGARPlgDHyNbjd2bDtC9a7QrAlhQb_azqVR2zScuRPQemlfyucUgDvw">
+<!-- <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'> [^] -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005834851677093827430:a3lps4efuhm"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 
-<script type="text/javascript" src="/csp/cms/sites/LJ/assets/scripts/gfeedfetcher.js"><link rel="shortcut icon" type="image/x-icon" href="/csp/cms/sites/LJ/assets/images/LJFav.gif" />
-
-
-</script>
-
-<!--- Google Ad Tracking Code Begin --->
-<script type="text/javascript">
-GA_googleAddAttr("site", "LJ");
-       </script>
-<!--- Google Ad Tracking Code End --->
-
-
-<!--- Google Double Click Code Begin --->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-1872221973353849");
 GS_googleEnableAllServices();
 </script>
+
 <script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "LJ_160x160_B");
-GA_googleAddSlot("ca-pub-1872221973353849", "Webinar_334x60");
+GA_googleAddAttr("Site", "LJ");
+GA_googleAddAttr("Page", "privacy-policy");
+</script>
+
+<script type="text/javascript">
 GA_googleAddSlot("ca-pub-1872221973353849", "LJHalfpage300x600");
 GA_googleAddSlot("ca-pub-1872221973353849", "LJLeaderboard728x90");
 GA_googleAddSlot("ca-pub-1872221973353849", "LJLeaderboard728x90_2");
@@ -405,351 +34,562 @@ GA_googleAddSlot("ca-pub-1872221973353849", "LJRectangle300x250");
 GA_googleAddSlot("ca-pub-1872221973353849", "LJRectangle300x250_2");
 GA_googleAddSlot("ca-pub-1872221973353849", "LJSkyscraper160x600");
 GA_googleAddSlot("ca-pub-1872221973353849", "LJTicker920x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJBoomBox336x280");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJSearchButton88x31");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJSkyscraper160x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "LJTickerAd983x25");
 </script>
+
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
-<!--- Google Double Click Code End Added by AM on October 6 2010 --->
-<!--- Google Ad Tracking Code Begin --->
+
+<!-- Google Analytics code -->
+
 <script type="text/javascript">
-GA_googleAddAttr("site", "LJ");
-       </script>
-<!--- Google Ad Tracking Code End --->
-<!---BLOG RSS FEED END--->
 
-<div id="headerContainer">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16323142-1']);
+  _gaq.push(['_setDomainName', '.libraryjournal.com']);
+  _gaq.push(['_trackPageview']);
 
-<!-- <span class="noindex"> RML -->
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' [^] : 'http://www' [^]) + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript">
+
+// Private social media sharing buttons
+// http://james.cridland.net/code/
+//
+// Acknowledgement: some code in popShareWin (the bit that centres the pop-up window)
+// is from the Twitter bookmarklet code.
+
+function popShareWin(sWidth,sHeight,url) {
+    var C=screen.height,B=screen.width,H=Math.round((B/2)-(sWidth/2)),G=0;
+    if(C>sHeight){G=Math.round((C/2)-(sHeight/2))};
+    url=url.replace("%%URL%%",encodeURIComponent(window.location.href));
+    url=url.replace("%%TITLE%%",encodeURIComponent(document.title));
+    window.open(url,'','left='+H+',top='+G+',width='+sWidth+',height='+sHeight+',personalbar=0,toolbar=0,scrollbars=1,resizable=1');
+    return false;    
+}
+</script><!-- Put the following javascript before the closing </head> tag. -->
+<script>
+  (function() {
+    // var cx = '004874457805279786782:-6r_pz69khg'; CHANGED PER TICKET 1684
+    var cx = '005834851677093827430:a3lps4efuhm';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Library Journal » Feed" href="http://lj.libraryjournal.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Library Journal » Comments Feed" href="http://lj.libraryjournal.com/comments/feed/">
+<link rel="canonical" href="http://lj.libraryjournal.com/about/privacy-policy/">
+<link rel="stylesheet" id="portfolio_slideshow-css" href="http://lj.libraryjournal.com/wp-content/plugins/portfolio-slideshow/css/portfolio-slideshow.min.css?ver=1.4.1" type="text/css" media="screen">
+<link rel="stylesheet" id="interncss-css" href="http://lj.libraryjournal.com/wp-content/plugins/wp-intern-ads/internAds.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="popular-widget-css" href="http://lj.libraryjournal.com/wp-content/plugins/popular-widget/_css/pop-widget.css?ver=1.5.5" type="text/css" media="all">
+<link rel="stylesheet" id="genesis-printstyle-plus-css" href="http://lj.libraryjournal.com/wp-content/plugins/genesis-printstyle-plus/css/print.css?ver=1.6.1" type="text/css" media="print">
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/plugins/wp-intern-ads/jquery.internads.js?ver=1.0"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.3.4"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lj.libraryjournal.com/xmlrpc.php?rsd">
+
+<!-- Portfolio Slideshow-->
+<noscript><link rel="stylesheet" type="text/css" href="http://lj.libraryjournal.com/wp-content/plugins/portfolio-slideshow/css/portfolio-slideshow-noscript.css?ver=1.4.1" /></noscript><script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array();  var psAutoplay = new Array();  var psFluid = new Array(); var psTrans = new Array(); var psSpeed = new Array(); var psLoop = new Array();/* ]]> */</script>
+<!--//Portfolio Slideshow-->
+
+
+<!-- Start SHR Open Graph Tags -->
+
+	<!-- Shareaholic Notice: There is neither a featured nor gallery image set -->
+
+<!-- END SHR Open Graph Tags -->
+
+
+		<link href="http://lj.libraryjournal.com/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.min.css" rel="stylesheet">
+		<script src="http://lj.libraryjournal.com/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video.min.js"></script>
+		<style type="text/css" media="screen">.simple-social-icons { overflow: hidden; } .simple-social-icons .alignleft, .simple-social-icons .alignright { margin: 0; padding: 0; } .simple-social-icons ul li { background: none !important; border: none !important; float: left; list-style-type: none !important; margin: 0 5px 10px !important; padding: 0 !important; } .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background: #999999 url(http://lj.libraryjournal.com/wp-content/plugins/simple-social-icons/images/sprite_32x32.png) no-repeat; -moz-border-radius: 3px -webkit-border-radius: 3px; border-radius: 3px; display: block; height: 32px; overflow: hidden; text-indent: -999px; width: 32px; }  .simple-social-icons ul li a:hover { background-color: #666666; }</style>
+<!-- Dynamic Widgets v1.5.3 by QURL - http://www.qurl.nl //-->
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://lj.libraryjournal.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
+@import url("http://lj.libraryjournal.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
+.salarysurvey {
+text-align: right;
+}
+
+.salarysurvey thead {
+text-align: left;
+}
+
+/* ]]> */
+</style><style type="text/css">#header { background: url(http://lj.libraryjournal.com/wp-content/uploads/2012/01/LJ-Header.jpg) no-repeat; }</style><!-- Google Analytics Tracking by Google Analyticator 6.3.4: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-16323142-1']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body class="page page-id-1323 page-child parent-pageid-7 page-template-default header-image content-sidebar">
+<div id="wrap">
+
 
 <div id="navbarContainer">
   <ul id="ljnav">
-    <li id="btn1"><a href="http://lj.libraryjournal.com/">News</a></li>
-	<li id="btn2"><a href="http://lj.libraryjournal.com/category/opinion/">Opinion</a></li>
-    <li id="btn3"><a href="http://www.thedigitalshift.com/" target="_blank">Tech</a></li>
-    <li id="btn4"><a href="http://reviews.libraryjournal.com/">Reviews</a></li>
-    <li id="btn5"><a href="http://lj.libraryjournal.com/events/">Events</a></li>
-	<li id="btn6"><a href="http://lj.libraryjournal.com/category/webcasts/">Webcasts</a></li>
-    <li id="btn7"><a href="http://jobs.libraryjournal.com/">Job Zone</a></li>
-    <li id="btn8"><a href="http://lj.libraryjournal.com/newsletters/">Newsletters</a></li>
-    <li id="btn9"><a href="https://w1.buysub.com/loc/LJL/webani" target="_blank">Subscribe</a></li>
+    <li id="btn1"><a href="http://lj.libraryjournal.com/?ref=menu">News</a></li>
+	<li id="btn2"><a href="http://lj.libraryjournal.com/category/opinion/?ref=menu">Opinion</a></li>
+    <li id="btn3"><a href="http://www.thedigitalshift.com/?ref=menu" target="_blank">Tech</a></li>
+    <li id="btn4"><a href="http://reviews.libraryjournal.com/?ref=menu">Reviews</a></li>
+    <li id="btn5"><a href="http://lj.libraryjournal.com/events/?ref=menu">Events</a></li>
+	<li id="btn6"><a href="http://lj.libraryjournal.com/category/webcasts/?ref=menu">Webcasts</a></li>
+    <li id="btn7"><a href="http://jobs.libraryjournal.com/?ref=menu">Job Zone</a></li>
+    <li id="btn8"><a href="http://lj.libraryjournal.com/newsletters/?ref=menu">Newsletters</a></li>
+    <li id="btn9"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=LJL&amp;cds_page_id=67103&amp;cds_response_key=QXXNDST" target="_blank">Subscribe</a></li>
     <li id="btn10"><a href="http://lj.libraryjournal.com/contact-us/lj-social-media/">Social Media</a>
       <ul> 
         <li><a href="https://www.facebook.com/pages/Library-Journal/11249119181" target="_blank">Facebook</a></li>
-    
         <li><a href="http://twitter.com/libraryjournal" target="_blank">@LibraryJournal</a></li>
 		<li><a href="http://twitter.com/ljreviews" target="_blank">@LJReviews</a></li>
-
         <li><a href="https://plus.google.com/b/112191822419996631817/" target="_blank">Google+</a></li>
         <li><a href="http://tumblr.libraryjournal.com" target="_blank">Tumblr</a></li>
         <li><a href="http://www.flickr.com/photos/libraryjournal/" target="_blank">Flickr</a></li>
       </ul>
     </li>
+    <li id="btn11"><a title="+1 this with Google" onclick="javascript:popShareWin(460,240,'http://lj.libraryjournal.com/wp-content/themes/genesis/plusone.php?url=%%URL%%');return false;"><img src="http://lj.libraryjournal.com/wp-content/themes/genesis/images/google_plus_one.png" alt="G+"></a></li>
+    <li id="btn12"><a title="Share on Facebook" href="http://www.facebook.com/sharer/sharer.php" onclick="popShareWin(626,436,'http://www.facebook.com/sharer/sharer.php?u=%%URL%%&amp;t=%%TITLE%%');return false;"><img alt="FB" src="http://lj.libraryjournal.com/wp-content/themes/genesis/images/like-button.png"></a></li>
+    
   </ul>
 </div>
-
-<div id="header">
-<div id="mainLogo"><a href="http://www.libraryjournal.com" class="LJLogo">Library Journal</a></div>
-<div id="leaderboard"><!--<img src="#(gPublication.getPublicationPath())#/assets/images/rbius_adv_top.gif" width="20" alt="Advertisement" align="left" />-->
-<!-- BEGIN RICH-MEDIA NETWORK CODE -->
-<!-- <dti:ads:area id="61" name="LJLeaderboard728x90"> -->
-<!-- LJLeaderboard728x90 -->
-<script type="text/javascript">
-GA_googleFillSlot("LJLeaderboard728x90");
-</script>
-<!-- End LJLeaderboard728x90 9/9/11 SMS -->
-<!-- END BURST CODE --><!-- ad tag updates 05262010, JEP-->
-</div><!-- end leaderboard -->
-</div><!-- end header -->
-
-<div id="topSearchBox">
-	<div id="topSearchInt">
-
-<div id="searchbar">
-<div id="headersearch">
-<!--<form name="SearchForm" onsubmit="return doSearchStuff()" id="SearchForm" action="/search/siteall" method="get">-->
-<div id="searchbox">
-
-<form action="http://www.libraryjournal.com/csp/cms/sites/LJ/SearchTest/index.csp" id="cse-search-box">
-
-
-  
-    <input type="hidden" name="cx" value="008072844330499557307:ixrrlyslflg">
-    <input type="hidden" name="cof" value="FORID:10">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" name="q" size="31">
-    <select name="as_qdr">
-<option value="all">Any time</option>
-<option value="d">Past 24 hours</option>
-<option value="w">Past week</option>
-<option value="w2">Past 2 weeks</option>
-<option value="m">Past month</option>
-<option value="m2">Past 2 months</option>
-<option value="m6">Past 6 months</option>
-<option value="y">Past year</option>
-<option value="y2">Past 2 years</option>
-<option value="y5">Past 5 years</option>
-<option value="y10">Past 10 years</option>
-</select>
-
-<script type="text/javascript">
-  try {
-    var qdr = /[?&]as_qdr=([^&]*)/
-      .exec(window.location.search)[1];
-    var opts = document
-      .getElementsByName("as_qdr")[0]
-      .getElementsByTagName("option");
-    for (var i = 0; i < opts.length; i++)
-      opts[i].selected = (opts[i].value == qdr);
-  } catch (e) {}
-</script>
-    <input type="submit" name="sa" value="Search">
-
-</form>
-<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
-
-</div>
-
-
-
-	</div><!-- end headersearch -->
-	</div><!-- end searchbar -->
-	</div><!-- end topSearchInt -->
-
-
-<div id="sponsorby">
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE -->
-<!-- <dti:ads:area id="65" name="LJSearchButton88x31"> -->
-<!-- LJSearchButton88x31 -->
-<script type="text/javascript">
-GA_googleFillSlot("LJSearchButton88x31");
-</script>
-<!-- End LJSearchButton88x31 9/9/11 SMS -->
-<!-- END BURST CODE -->
-
-
-</div><!-- end sponsorby -->
-
-<div id="magsub"><a href="https://w1.buysub.com/loc/LJL/webani"><!--<img src="http://a330.g.akamai.net/7/330/2540/20090506175646/www.libraryjournal.com/contents/images/subscribe_magazine_lja.gif" border="0" alt="Subscribe to LJ Magazine"  style="vertical-align:9px;margin:0px 10px;width:273px;" />--><img src="/csp/cms/sites/LJ/assets/images/subscribe_magazine_lja.gif" border="0" alt="Advertisement" align="left"></a>
-</div><!-- end magsub -->
-</div><!-- end topSearchBox -->
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE -->
-
-<!-- <dti:ads:area id="67" name="LJTickerAd983x25"> -->
-<div align="center">
+<div align="center" ;="" style="background-color:#333333; clear: both;">
 <!-- LJTicker920x25 -->
 <script type="text/javascript">
 GA_googleFillSlot("LJTicker920x25");
 </script>
 </div>
-<!-- END Reed Business CODE -->
-
-</div>
-</div><!-- end headerContainer -->
-<!-- boombox ad -->
-<!-- END BURST CODE -->
-  
-  
-  
-  
-<!--/FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/wrapper.csp, took .000549 -->
-
-
- <table id="bottomBox" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-   <td id="mainContent" valign="top"><div id="article">
-<h1>Privacy Policy</h1>
-
-
-
-<p class="NormalParagraphStyle">PRIVACY POLICY<br>MAY 31, 2010<br><br><br>
-  <strong>Overview</strong><br>Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. <br>This Privacy Policy describes the policies of Library Journals LLC (“LJLLC” or “we”), a wholly owned subsidiary of Media Source Inc., regarding the collection, use, disclosure and protection of the following types of information:<br><br>• Information obtained when you (“you” or “User”) visit the www.libraryjournal.com web site (this “Site” or “LJ”).<br>• Information obtained through e-mail communications with you related to the Site.</p>
-<p class="NormalParagraphStyle"><br>
-  This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.</p>
-<p class="NormalParagraphStyle"><br>
-  We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes. <br><br>
-  <strong>Information We Collect and How We Collect It</strong><br>We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards). <br><br>The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.<br><br>When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.<br><br>Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: <a href="http://www.networkadvertising.org/optout_nonppii.asp.">http://www.networkadvertising.org/optout_nonppii.asp. </a><br><br>You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at www.privacychoices.org.<br><br>
-  <strong>How We Use Your Information</strong><br>
-  We use Personally Identifiable Information collected on this Site for the following purposes:<br>• To provide you with this Site and other products and services.<br>• To respond to your inquiries and contact you about changes regarding this Site.<br>• To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.<br>• For any other purpose disclosed at the time the information is collected or to which you consent.<br>• As otherwise specifically described in this Privacy Policy.<br>We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.</p>
-<p class="NormalParagraphStyle"><br>
-  We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other LJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. <br>We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to websupport@mediasourceinc.com with the subject line “opt out – third party.”<br><br>
-  <strong>Our Disclosure of Your Information</strong><br>
-  We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:<br><br>• Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.<br>• To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.<br>• Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.<br>• To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to websupport@mediasourceinc.com with the subject line: “do not disclose.”<br>• To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving LJ. LJLLC, or this Site.<br>• When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.<br>• When disclosure is necessary to accomplish the purpose for which you provide it.<br>• To other Media Source, Inc. companies for any uses consistent with those disclosed in this Privacy Policy.<br><br>
-  <strong>Security</strong><br>
-  We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.<br><br>
-  <strong>Right to Access and Change Information</strong><br>
-  You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. <br><br>
-  <strong>Links</strong><br>
-  This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.<br><br>This Site is operated by:<br>websupport@mediasourceinc.com<br>Library Journals LLC<br>160 Varick St, 11th Fl.<br>New York, NY 10013<br>
-</p>
-<p></p>
-
-</div>
-<br clear="all">
-<!-- end boombox ad --></td>
-    <td rowspan="2" valign="top" class="rightBorder"><span class="noindex">
-<div id="rightCol">
-
-<!-- advertisement -->
-<div id="rtAdvertisement">Advertisements<br>
-
-
-<!-- BEGIN RICH-MEDIA NETWORK CODE -->
-
-
-
-<!-- END BURST CODE -->
-
-
-<br><br><br>
-
-
-
-</div>
-
-<!-- end advertisement -->
-
-<br>
-
-</div>
-<!-- /noindex --></span>
-
-
-</td>
-</tr><tr>
-    <td id="mainContentBtm"><span class="noindex"></span>
-<!-- sponsored links -->
-
-<!--div id="sponsorLink">
-<div id="sectHead" >SPONSORED LINKS</div -->
-<!-- eLogicModuleLateBind type="sponlink" sz="1x1" width="1" height="1" num="3">dartAdTagLateBind</eLogicModuleLateBind -->
-<!-- /div -->
-<!-- end sponsored links -->
-<br clear="all">
-
-
-<span class="noindex">
-
-
-<!-- FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/ads.csp -->
-<!--<div align="center"><script type="text/javascript"><!--
-google_ad_client = "pub-1872221973353849";
-/* 728x90 bottom banner */
-google_ad_slot = "3340816676";
-google_ad_width = 728;
-google_ad_height = 90;
-//
+	<div id="topnav">
+	<div class="topnav-left">
+	<p>November 6, 2012</p>
+	</div><!-- end .topnav-left -->
+	<div class="topnav-right">
+	<ul id="menu-about-menu" class="topnav superfish"><li id="menu-item-9373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9373"><a href="https://shop.mediasourceinc.com/Login.aspx?t=login">Manage Your Account</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://lj.libraryjournal.com/contact-us/">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1332"><a href="http://lj.libraryjournal.com/contact-us/lj-social-media/">LJ Social Media</a></li>
+	<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="http://lj.libraryjournal.com/contact-us/media-kit/">Advertising</a></li>
+</ul>
+</li>
+<li id="menu-item-6615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6615"><a>Submissions</a>
+<ul class="sub-menu">
+	<li id="menu-item-1331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1331"><a href="http://lj.libraryjournal.com/contact-us/submissions/">News, Features, Feedback, etc.</a></li>
+	<li id="menu-item-6614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6614"><a href="http://reviews.libraryjournal.com/about/submitting-titles-for-review/?ref=lj-about">Submitting Titles to the LJ Book Review</a></li>
+	<li id="menu-item-2742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2742"><a href="http://lj.libraryjournal.com/awards/?ref=menu">Awards</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-12"><a href="http://lj.libraryjournal.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1329" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1323 current_page_item menu-item-1329"><a href="http://lj.libraryjournal.com/about/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-3673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3673"><a href="http://lj.libraryjournal.com/about/comment-policy/">Comment Policy</a></li>
+	<li id="menu-item-1330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1330"><a href="http://lj.libraryjournal.com/about/terms-of-use/">Terms of Use</a></li>
+</ul>
+</li>
+</ul>	</div><!-- end .topnav-right -->
+	</div><!-- end #topnav -->
+<div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://lj.libraryjournal.com/" title="Library Journal">Library Journal</a></p><p id="description">Library News, Reviews, and Views</p></div><!-- end #title-area --><div class="widget-area"><div id="text-21" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div id="cse-search-form" style="width: 100%;">Loading ...</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+    var orderByOptions = {};
+    orderByOptions['keys'] = [{label: 'Relevance', key: ''},{label: 'Date', key: 'date'}];
+    customSearchOptions['enableOrderBy'] = true;
+    customSearchOptions['orderByOptions'] = orderByOptions;  var customSearchControl = new google.search.CustomSearchControl(
+      '005834851677093827430:a3lps4efuhm', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://lj.libraryjournal.com/search-results/");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
 </script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div><BR><BR>
--->
-<!--/FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/ads.csp, took .000073 -->
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css"></div>
+		</div></div>
+</div><!-- end .widget-area --><div id="ljheader">
+<div style="background:#EFECE0; width: 100%; text-align: center;">
+	<!-- LJ_Features_728x90_top -->
+	<script type="text/javascript">
+	GA_googleFillSlot("LJLeaderboard728x90");
+	</script>
+	</div><!-- end leaderboard -->
+	</div><!-- end ljheader -->
+</div><!-- end .wrap --></div><!--end #header--><div id="nav"><div class="wrap"><ul id="menu-main-menu" class="menu menu-primary superfish"><li id="menu-item-310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-310"><a href="http://lj.libraryjournal.com/latest-stories/?ref=ljnav">Latest Stories</a>
+<ul class="sub-menu">
+	<li id="menu-item-7010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7010"><a href="http://www.infodocket.com/?ref=ljnav-news">More on INFOdocket.com</a></li>
+	<li id="menu-item-7086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7086"><a href="http://lj.libraryjournal.com/category/academic-libraries/?ref=ljnav">Academic Libraries</a></li>
+	<li id="menu-item-2701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2701"><a href="http://www.thedigitalshift.com/category/ebooks/?ref=ljnav">Ebooks</a></li>
+	<li id="menu-item-7087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7087"><a href="http://lj.libraryjournal.com/category/copyright/?ref=ljnav">Copyright &amp; Fair Use</a></li>
+	<li id="menu-item-314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314"><a href="http://lj.libraryjournal.com/?cat=35,31?ref=ljnav">Publishing &amp; Industry News</a></li>
+	<li id="menu-item-7088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7088"><a href="http://lj.libraryjournal.com/category/shows-events/ala/?ref=ljnav">ALA Conferences &amp; Meetings</a></li>
+	<li id="menu-item-7301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7301"><a href="http://lj.libraryjournal.com/more-categories/?ref=ljnav">More Categories</a></li>
+</ul>
+</li>
+<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a href="#">Special Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-13209" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13209"><a href="http://lj.libraryjournal.com/2012/10/placements-and-salaries/2012-survey/a-job-by-any-other-name-ljs-placements-salaries-survey-2012/">Placements &amp; Salaries Survey 2012</a></li>
+	<li id="menu-item-9287" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-9287"><a href="http://lj.libraryjournal.com/2012/06/library-services/2012-galelj-library-of-the-year-san-diego-county-library-empowering-the-public/">2012 Library of the Year: San Diego County Library</a></li>
+	<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-317"><a href="http://lj.libraryjournal.com/star-libraries/class-of-2011/americas-star-libraries-2011-top-rated-libraries/?ref=ljnav">Star Libraries</a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-319"><a href="http://lj.libraryjournal.com/architecture/library-buildings-2011/year-in-architecture-2011/?ref=ljnav">Year in Architecture</a></li>
+</ul>
+</li>
+<li id="menu-item-7089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7089"><a href="http://lj.libraryjournal.com/category/managing-libraries/?ref=ljnav">Managing Libraries</a>
+<ul class="sub-menu">
+	<li id="menu-item-7090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7090"><a href="http://lj.libraryjournal.com/category/funding/?ref=ljnav">Budgets &amp; Funding</a></li>
+	<li id="menu-item-7091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7091"><a href="http://lj.libraryjournal.com/category/buildings/?ref=ljnav">Architecture, Buildings, &amp; Facilities</a></li>
+	<li id="menu-item-7092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7092"><a href="http://lj.libraryjournal.com/category/legislation/?ref=ljnav">Legislation</a></li>
+	<li id="menu-item-7093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7093"><a href="http://lj.libraryjournal.com/category/library-services/?ref=ljnav">Library Services</a></li>
+	<li id="menu-item-7094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7094"><a href="http://lj.libraryjournal.com/category/marketing/?ref=ljnav">Marketing</a></li>
+</ul>
+</li>
+<li id="menu-item-7095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7095"><a href="http://lj.libraryjournal.com/category/careers/?ref=ljnav">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://lj.libraryjournal.com/category/placements-and-salaries/?ref=ljnav">Placements &amp; Salaries</a></li>
+	<li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-316"><a href="http://lj.libraryjournal.com/2012/03/people/movers-shakers/movers-shakers-2012/?ref=ljnav">Movers &amp; Shakers</a></li>
+	<li id="menu-item-7096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7096"><a href="http://lj.libraryjournal.com/category/people/?ref=ljnav">People</a></li>
+	<li id="menu-item-7097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7097"><a href="http://lj.libraryjournal.com/category/library-education/?ref=ljnav">LIS Education</a></li>
+	<li id="menu-item-2702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2702"><a href="http://jobs.libraryjournal.com?ref=ljnav">Job Zone</a></li>
+</ul>
+</li>
+<li id="menu-item-2606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a href="http://reviews.libraryjournal.com/?ref=ljnav">Reviews</a>
+<ul class="sub-menu">
+	<li id="menu-item-2833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2833"><a href="http://reviews.libraryjournal.com/category/prepub/?ref=ljnav">Prepub Alert</a></li>
+	<li id="menu-item-2834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2834"><a href="http://reviews.libraryjournal.com/category/collection-development/?ref=ljnav">Collection Development</a></li>
+	<li id="menu-item-2835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2835"><a href="http://reviews.libraryjournal.com/category/readers-advisory/?ref=ljnav">Readers’ Advisory</a></li>
+	<li id="menu-item-2836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2836"><a href="http://bookverdict.com/browse.xqy?ref=menu">Book Verdict</a></li>
+</ul>
+</li>
+<li id="menu-item-2607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a href="http://www.thedigitalshift.com/?ref=ljnav">Technology</a></li>
+<li id="menu-item-7098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7098"><a href="http://lj.libraryjournal.com/category/opinion/?ref=ljnav">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-7115" class="category-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-7115"><a>Columns</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099"><a href="http://lj.libraryjournal.com/category/opinion/backtalk/?ref=ljnav">Backtalk</a></li>
+		<li id="menu-item-7111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7111"><a href="http://lj.libraryjournal.com/category/opinion/peer-to-peer-review/?ref=ljnav">Peer to Peer Review by Various</a></li>
+		<li id="menu-item-7103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7103"><a href="http://lj.libraryjournal.com/category/opinion/steven-bell/?ref=ljnav">From the Bell Tower by Steven Bell</a></li>
+		<li id="menu-item-11572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11572"><a href="http://lj.libraryjournal.com/category/opinion/not-dead-yet/?ref=ljnav">Not Dead Yet by Cheryl LaGuardia</a></li>
+		<li id="menu-item-7109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7109"><a href="http://lj.libraryjournal.com/category/opinion/leading-from-the-library/?ref=ljnav">Leading from the Library by Steven Bell</a></li>
+		<li id="menu-item-7104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7104"><a href="http://lj.libraryjournal.com/category/opinion/aaron-schmidt/?ref=ljnav">The User Experience by Aaron Schmidt</a></li>
+		<li id="menu-item-7105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7105"><a href="http://lj.libraryjournal.com/category/opinion/michael-stephens/?ref=ljnav">Office Hours by MIchael Stephens</a></li>
+		<li id="menu-item-7106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7106"><a href="http://lj.libraryjournal.com/category/opinion/john-berry/?ref=ljnav">Blatant Berry by John N. Berry III, Editor-at-Large</a></li>
+		<li id="menu-item-7108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7108"><a href="http://lj.libraryjournal.com/category/opinion/editorial/?ref=ljnav">Editorial</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7114" class="category-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-7114"><a>Blogs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2636"><a href="http://blog.libraryjournal.com/annoyedlibrarian/?ref=ljnav">Annoyed Librarian</a></li>
+		<li id="menu-item-7011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7011"><a href="http://www.infodocket.com/?ref=ljnav-blog">INFOdocket by Gary Price</a></li>
+		<li id="menu-item-7117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7117"><a href="http://www.thedigitalshift.com/category/roy-tennant-digital-libraries/?ref=ljnav">Digital Libraries by Roy Tennant</a></li>
+		<li id="menu-item-7107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7107"><a href="http://lj.libraryjournal.com/category/opinion/bubble-room/?ref=ljnav">Bubble Room: Marketing Libraries by Alison Circle</a></li>
+		<li id="menu-item-7116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7116"><a href="http://reviews.libraryjournal.com/category/blogs/eviews/?ref=ljnav">E-Views by Cheryl LaGuardia</a></li>
+		<li id="menu-item-7110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7110"><a href="http://lj.libraryjournal.com/category/opinion/lj-insider/?ref=ljnav">LJ Insider (LJ Staff Blog)</a></li>
+		<li id="menu-item-7113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7113"><a href="http://reviews.libraryjournal.com/category/in-the-bookroom/?ref=ljnav">In the Bookroom (LJ Reviews Staff Blog)</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7112"><a href="http://lj.libraryjournal.com/newsletters/?ref=ljnav">Newsletters</a></li>
+</ul></div><!-- end .wrap --></div><div id="subnav"><div class="wrap"><ul id="menu-secondary-menu" class="menu menu-secondary superfish"><li id="menu-item-2710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2710"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=LJL&amp;cds_page_id=67103&amp;cds_response_key=QXXNDST">Subscribe</a>
+<ul class="sub-menu">
+	<li id="menu-item-2678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2678"><a href="http://lj.libraryjournal.com/about/lj-magazine-archive/">LJ Magazine Archive</a></li>
+</ul>
+</li>
+<li id="menu-item-2800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2800"><a href="http://www.thedigitalshift.com/research/patron-profiles/?ref=ljnav-2">Patron Profiles</a></li>
+<li id="menu-item-3549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3549"><a href="http://lj.libraryjournal.com/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-13026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13026"><a href="http://lj.libraryjournal.com/events/directors-summit-2012/">LJ Directors’ Summit 2012</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13025"><a href="http://lj.libraryjournal.com/events/directors-summit-2012/schedule/">Schedule</a></li>
+		<li id="menu-item-13024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13024"><a href="http://lj.libraryjournal.com/events/directors-summit-2012/register/">Register</a></li>
+		<li id="menu-item-13023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13023"><a href="http://lj.libraryjournal.com/events/directors-summit-2012/sponsors/">LJ Directors’ Summit | Sponsors</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3718"><a href="http://lj.libraryjournal.com/events/lead-the-change/">Lead the Change!</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4891"><a href="http://lj.libraryjournal.com/events/lead-the-change/agenda/">Agenda</a></li>
+		<li id="menu-item-4892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4892"><a href="http://lj.libraryjournal.com/events/lead-the-change/locations/">Locations</a></li>
+		<li id="menu-item-4893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4893"><a href="http://lj.libraryjournal.com/events/lead-the-change/speakers/">Speakers</a></li>
+		<li id="menu-item-4894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4894"><a href="http://lj.libraryjournal.com/events/lead-the-change/sponsors/">Sponsors</a></li>
+		<li id="menu-item-4895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4895"><a href="http://lj.libraryjournal.com/events/lead-the-change/faq/">FAQ</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11923"><a href="http://www.thedigitalshift.com/events/tech-summit/">Technology Summit 2012</a></li>
+	<li id="menu-item-3553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3553"><a href="http://www.thedigitalshift.com/events/ebooks-and-beyond/">The Digital Shift: Libraries, Ebooks and Beyond</a></li>
+	<li id="menu-item-11103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11103"><a href="http://lj.libraryjournal.com/events/design-institute-oh/">Design Institute Ohio</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11104"><a href="http://lj.libraryjournal.com/events/design-institute-oh/register/">Register</a></li>
+		<li id="menu-item-12237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12237"><a href="http://lj.libraryjournal.com/events/design-institute-oh/schedule/">Schedule</a></li>
+		<li id="menu-item-11105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11105"><a href="http://lj.libraryjournal.com/events/design-institute-oh/sponsors/">Sponsors</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11107"><a href="http://lj.libraryjournal.com/events/design-institute-oh/design-institute-co/">Design Institute Denver Spring 2012</a></li>
+	<li id="menu-item-10624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10624"><a href="http://lj.libraryjournal.com/events/academicsymposium/">Academic Symposium</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10639"><a href="http://lj.libraryjournal.com/events/academicsymposium/schedule/">Schedule</a></li>
+		<li id="menu-item-10640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10640"><a href="http://lj.libraryjournal.com/events/academicsymposium/speakers/">Speakers</a></li>
+		<li id="menu-item-10641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10641"><a href="http://lj.libraryjournal.com/events/academicsymposium/sponsors/">Sponsors</a></li>
+		<li id="menu-item-10642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10642"><a href="http://lj.libraryjournal.com/events/academicsymposium/register/">Register</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2617"><a href="http://lj.libraryjournal.com/category/webcasts/">Webcasts</a>
+<ul class="sub-menu">
+	<li id="menu-item-2618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2618"><a href="http://lj.libraryjournal.com/category/webcasts/book-webcasts/">Books</a></li>
+	<li id="menu-item-2619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2619"><a href="http://lj.libraryjournal.com/category/webcasts/library-services-webcasts/">Library Services</a></li>
+	<li id="menu-item-2620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2620"><a href="http://lj.libraryjournal.com/category/webcasts/media-webcasts/">Media</a></li>
+	<li id="menu-item-2621" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2621"><a href="http://lj.libraryjournal.com/category/webcasts/reference-webcasts/">Reference</a></li>
+	<li id="menu-item-2622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2622"><a href="http://lj.libraryjournal.com/category/webcasts/tech-webcasts/">Technology</a></li>
+</ul>
+</li>
+<li id="menu-item-2703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2703"><a href="http://jobs.libraryjournal.com">Job Zone</a></li>
+<li id="menu-item-2679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2679"><a href="http://bookverdict.com/browse.xqy?ref=menu">Book Verdict</a></li>
+</ul></div><!-- end .wrap --></div><div id="inner">	<div id="content-sidebar-wrap">
+				<div id="content" class="hfeed">
+			<div class="breadcrumb">You are here: <a href="http://lj.libraryjournal.com/" title="View Home">Home</a> / <a href="http://lj.libraryjournal.com/about/" title="View About">About</a> / Privacy Policy</div>	<div class="post-1323 page type-page status-publish hentry">
 
-<!-- /noindex --></span>
-
-
-</td>
-</tr><tr>
-    <td id="footerContainer" colspan="2"><span class="noindex">
-
-<!--end reednetwork-->
-
-
-
-<!-- END FOOTER -->
-
-<!-- /noindex --></span>
-</td>
-</tr>
-</tbody></table>
-
-
-
-  
-<!-- FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/footer.csp -->
-<div id="alignFooter" align="center">
-
+				<h1 class="entry-title">Privacy Policy</h1>
+		
+				<div class="entry-content">
+			<!-- Start Shareaholic LikeButtonSetTop Automatic --><div style="clear: both; min-height: 1px; height: 3px; width: 100%;"></div><div class="shareaholic-like-buttonset" style="float:right;height:30px;"><a class="shareaholic-tweetbutton" data-shr_count="horizontal" data-shr_href="http%3A%2F%2Flj.libraryjournal.com%2Fabout%2Fprivacy-policy%2F" data-shr_title="Privacy+Policy"></a><a class="shareaholic-fblike" data-shr_layout="button_count" data-shr_showfaces="false" data-shr_href="http%3A%2F%2Flj.libraryjournal.com%2Fabout%2Fprivacy-policy%2F" data-shr_title="Privacy+Policy"></a><a class="shareaholic-googleplusone" data-shr_size="medium" data-shr_count="true" data-shr_href="http%3A%2F%2Flj.libraryjournal.com%2Fabout%2Fprivacy-policy%2F" data-shr_title="Privacy+Policy"></a></div><div style="clear: both; min-height: 1px; height: 3px; width: 100%;"></div><!-- End Shareaholic LikeButtonSetTop Automatic --><p>MAY 31, 2010</p>
+<p><strong>Overview</strong><br>
+Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.<br>
+This Privacy Policy describes the policies of Library Journals LLC (“LJLLC” or “we”), a wholly owned subsidiary of Media Source Inc., regarding the collection, use, disclosure and protection of the following types of information:</p>
+<p>• Information obtained when you (“you” or “User”) visit the www.libraryjournal.com web site (this “Site” or “LJ”).<br>
+• Information obtained through e-mail communications with you related to the Site.</p>
+<p>This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.</p>
+<p>We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.</p>
+<p><strong>Information We Collect and How We Collect It</strong><br>
+We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards).</p>
+<p>The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.</p>
+<p>When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.</p>
+<p>Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit:<a href="http://www.networkadvertising.org/optout_nonppii.asp.">http://www.networkadvertising.org/optout_nonppii.asp.&nbsp;</a></p>
+<p>You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at www.privacychoices.org.</p>
+<p><strong>How We Use Your Information</strong><br>
+We use Personally Identifiable Information collected on this Site for the following purposes:<br>
+• To provide you with this Site and other products and services.<br>
+• To respond to your inquiries and contact you about changes regarding this Site.<br>
+• To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.<br>
+• For any other purpose disclosed at the time the information is collected or to which you consent.<br>
+• As otherwise specifically described in this Privacy Policy.</p>
+<p>We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.</p>
+<p>We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other LJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.</p>
+<p>We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to websupport@mediasourceinc.com with the subject line “opt out – third party.”</p>
+<p><strong>Our Disclosure of Your Information</strong><br>
+We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:</p>
+<p>• Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.<br>
+• To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.<br>
+• Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.<br>
+• To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to websupport@mediasourceinc.com with the subject line: “do not disclose.”<br>
+• To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving LJ. LJLLC, or this Site.<br>
+• When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.<br>
+• When disclosure is necessary to accomplish the purpose for which you provide it.<br>
+• To other Media Source, Inc. companies for any uses consistent with those disclosed in this Privacy Policy.</p>
+<p><strong>Security</strong><br>
+We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</p>
+<p><strong>Right to Access and Change Information</strong><br>
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.</p>
+<p><strong>Links</strong><br>
+This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</p>
+<p>This Site is operated by:<br>
+websupport@mediasourceinc.com<br>
+Library Journals LLC<br>
+160 Varick St, 11th Fl.<br>
+New York, NY 10013</p>
+<div class="shr-publisher-1323"></div><!-- Start Shareaholic LikeButtonSetBottom Automatic --><!-- End Shareaholic LikeButtonSetBottom Automatic -->		</div><!-- end .entry-content -->
+		
+	</div><!-- end .postclass -->
+			</div><!-- end #content -->
+		<div id="sidebar" class="sidebar widget-area">
+<div id="text-4" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><!-- LJRectangle300x250 -->
 <script type="text/javascript">
+GA_googleFillSlot("LJRectangle300x250");
+</script></div>
+		</div></div>
+<div id="text-34" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><hr>
+<a href="http://lj.libraryjournal.com/lj-movers-shakers/?ref=sidebar"><img src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/Movers2013slug300b.jpeg" alt="Nominate a 2013 Mover &amp; Shaker!"></a></div>
+		</div></div>
+<div id="popular-widget-4" class="widget popular-widget"><div class="widget-wrap">
+<h4 class="widgettitle">Recent &amp; Popular</h4>
 
-    var aUrl = location.href.toLowerCase().replace("//", "").split("/");
-          
-    if ( !(aUrl[1]) || (aUrl[2] && aUrl[2] == 'home')  || (aUrl[5] && aUrl[5] == 'home') ) {
-          var section = 'home'
-    } else if (window['SAlocation'] != "undefined" &&  aUrl[2] == 'careersjobzone') {
-         var section = aUrl[2] + '-' + SAlocation;
-    } else if (aUrl[1] && aUrl[1] == 'csp' && aUrl[5] && aUrl[6]) {
-         var section = aUrl[5] + aUrl[6];
-    } else if (aUrl[1] && aUrl[1] == 'article') {
-         var section = 'legacy';
-    } else if (aUrl[2] && aUrl[3]) {
-                var section = aUrl[2];
-    } else {
-         var section = aUrl[1];
-    }
+<div class="pop-layout-v"><ul id="pop-widget-tabs-4" class="pop-widget-tabs pop-widget-tabs-3"><li><a href="#recent" rel="nofollow"><span>Recent </span> Posts</a></li><li><a href="#commented" rel="nofollow"><span>Most </span>Commented</a></li><li><a href="#viewed" rel="nofollow"><span>Most </span>Viewed</a></li></ul><div class="pop-inside-4 pop-inside"><ul id="pop-widget-recent-4"><li><a href="http://www.thedigitalshift.com/2012/11/discovery/discovery-game-for-libraries-kickstarted-by-booklamp-org/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/11/discovery-game-for-libraries-kickstarted-by-booklamp-org-70x70.jpg" class="attachment-Mini Square" alt="Discovery Game for Libraries Kickstarted by Booklamp.org" title="Discovery Game for Libraries Kickstarted by Booklamp.org"><div class="pop-overlay"><span class="pop-title">Discovery Game for Libraries Kickstarted by Booklamp.org</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/11/shows-events/librarian-brings-bouchercon-to-cleveland-and-1m-to-its-economy/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Librarian Brings Bouchercon to Cleveland—and $1M+ to Its Economy</span> </div></a><div class="pop-cl"></div></li><li><a href="http://www.infodocket.com/2012/11/05/honors-institute-of-museum-and-library-services-imls-announces-recipients-of-2012-national-medal-for-museum-and-library-service/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Honors: Institute of Museum and Library Services (IMLS) Announces Recipients of 2012 National Medal for Museum and Library Service</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/11/industry-news/lj-directors-summit-moocs-museums-poets-and-irises-lj-insider/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/11/01-70x70.jpg" class="attachment-Mini Square wp-post-image" alt="LJ Directors’ Summit: MOOCs, Museums, Poets, and Irises | LJ Insider" title="LJ Directors’ Summit: MOOCs, Museums, Poets, and Irises | LJ Insider"><div class="pop-overlay"><span class="pop-title">LJ Directors' Summit: MOOCs, Museums, Poets, and Irises | LJ Insider</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/11/litigation/tn-supreme-court-memphis-library-cards-are-voter-id/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">TN Supreme Court: Memphis Library Cards Are Voter ID</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/11/academic-libraries/new-lj-report-closely-examines-what-makes-academic-library-patrons-tick/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">New LJ Report Closely Examines What Makes Academic Library Patrons Tick</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/11/industry-news/new-york-city-libraries-relatively-unscathed-new-jersey-still-taking-stock/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/11/PiscatawayNJ-70x70.jpg" class="attachment-Mini Square wp-post-image" alt="After the storm, the door count doubled at the Piscataway, NJ Public Library." title="PiscatawayNJ"><div class="pop-overlay"><span class="pop-title">New York City Libraries Relatively Unscathed; New Jersey Still Taking Stock </span> </div></a><div class="pop-cl"></div></li></ul><ul id="pop-widget-commented-4"><li><a href="http://lj.libraryjournal.com/2012/10/litigation/mi-court-of-appeals-no-gun-ban-for-libraries/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Update: MI Court of Appeals: No Gun Ban for Libraries</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/peer-to-peer-review/why-are-some-publishers-so-wrong-about-fair-use-peer-to-peer-review/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Why Are Some Publishers So Wrong About Fair Use? | Peer to Peer Review</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/11/industry-news/new-york-city-libraries-relatively-unscathed-new-jersey-still-taking-stock/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/11/PiscatawayNJ-70x70.jpg" class="attachment-Mini Square wp-post-image" alt="After the storm, the door count doubled at the Piscataway, NJ Public Library." title="PiscatawayNJ"><div class="pop-overlay"><span class="pop-title">New York City Libraries Relatively Unscathed; New Jersey Still Taking Stock </span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/not-dead-yet/technology-for-technologys-sake-not-so-much-not-dead-yet/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/Cheryl-70x70.png" class="attachment-Mini Square" alt="Cheryl" title="Cheryl"><div class="pop-overlay"><span class="pop-title">Technology for Technology’s Sake… Not So Much | Not Dead Yet</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/peer-to-peer-review/to-share-or-not-to-share-peer-to-peer-review/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">To Share Or Not To Share? | Peer to Peer Review</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/steven-bell/current-awareness-service-and-academia-never-really-mixed-from-the-bell-tower/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Current Awareness Service and Academia Never Really Mixed | From the Bell Tower</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/random-house-says-libraries-own-their-ebooks-lj-insider/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Random House Says Libraries Own Their Ebooks | LJ Insider</span> </div></a><div class="pop-cl"></div></li></ul><ul id="pop-widget-viewed-4"><li><a href="http://lj.libraryjournal.com/2012/10/opinion/random-house-says-libraries-own-their-ebooks-lj-insider/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Random House Says Libraries Own Their Ebooks | LJ Insider</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/placements-and-salaries/2012-survey/a-job-by-any-other-name-ljs-placements-salaries-survey-2012/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/Salaries2012image-70x70.jpg" class="attachment-Mini Square wp-post-image" alt="Placements &amp; Salaries Survey 2012 Cover Image" title="Placements &amp; Salaries Survey 2012 Cover Image"><div class="pop-overlay"><span class="pop-title">A Job By Any Other Name | LJ's Placements &amp; Salaries Survey 2012</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/backtalk/kirtsaeng-v-wiley-backtalk/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/brandon-butler-70x70.png" class="attachment-Mini Square" alt="Brandon Butler" title="Brandon Butler"><div class="pop-overlay"><span class="pop-title">Kirtsaeng v. Wiley | Backtalk</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/peer-to-peer-review/why-are-some-publishers-so-wrong-about-fair-use-peer-to-peer-review/" rel="bookmark"><div class="pop-overlay"><span class="pop-title">Why Are Some Publishers So Wrong About Fair Use? | Peer to Peer Review</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/placements-and-salaries/2012-survey/emerging-jobs-new-titles/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/Salaries2012stat1-70x70.jpg" class="attachment-Mini Square wp-post-image" alt="Salaries2012stat1" title="Salaries2012stat1"><div class="pop-overlay"><span class="pop-title">Placements &amp; Salaries 2012: Emerging Jobs, New Titles</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/opinion/editorial/first-words-where-the-librarian-surpasses-the-warrior/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/mikekelley-70x70.jpg" class="attachment-Mini Square wp-post-image" alt="mikekelley" title="mikekelley"><div class="pop-overlay"><span class="pop-title">First Words: Where the Librarian Surpasses the Warrior | Editorial</span> </div></a><div class="pop-cl"></div></li><li><a href="http://lj.libraryjournal.com/2012/10/buildings/polaris-to-bid-on-historic-carnegie-library/" rel="bookmark"><img width="70" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/syracuselib5-70x70.jpg" class="attachment-Mini Square" alt="syracuselib5" title="syracuselib5"><div class="pop-overlay"><span class="pop-title">Polaris To Bid On Historic Carnegie Library</span> </div></a><div class="pop-cl"></div></li></ul></div><!--.pop-inside--></div><!--.pop-layout-v--></div></div>
 
-
-
-    var scoutTransactionTypeInt = 4;
-    var $SAT = $SAT || [];
-
-    $SAT.push(['setContent', 'Section', section]);
-
-    (function() {
-        var sa = document.createElement('script'); sa.type = 'text/javascript';
-        sa.src = 'http' + ('https:' == document.location.protocol ? 's' : '') + '://scout.libraryjournal.com/a4ec6/sat.ashx';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(sa);
-    })();
-
-</script>
-
-
-<div align="center">
-<!-- LJLeaderboard728x90_2 -->
+<div id="text-16" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">Job Zone</h4>
+			<div class="textwidget"><center><a href="http://jobs.libraryjournal.com?ref=sbar" target="new"><img src="http://lj.libraryjournal.com/wp-content/uploads/2012/01/JobZone_238X90-sidebar.gif" alt="Job Zone"></a></center></div>
+		</div></div>
+<div id="rss-5" class="widget widget_rss"><div class="widget-wrap"><h4 class="widgettitle"><a class="rsswidget" href="http://www.infodocket.com/feed/" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://lj.libraryjournal.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.infodocket.com" title="Information Industry News and Resources from Gary Price">INFOdocket by Gary Price</a></h4>
+<ul><li><a class="rsswidget" href="http://www.infodocket.com/2012/11/06/reference-world-wide-science-adds-access-to-six-datasets-via-federated-search-service/" title="From the OSTI Blog: WorldWideScience.org now offers the capability to search scientific data collections.&nbsp; Six new data sources have been added to WWS.org, representing a significant milestone in improving access to scientific data from around the world.&nbsp; Users seeking scientific datasets can conduct a real-time, one-stop search and immediately gain access n […]">Reference: Access to Six Datasets Added to World Wide Science Federated Search Service</a></li><li><a class="rsswidget" href="http://www.infodocket.com/2012/11/06/research-article-using-social-bookmarks-and-tags-as-alternative-indicators-of-journal-content-description/" title="Title Using Social Bookmarks and Tags as Alternative Indicators of Journal Content Description Author Stefanie Haustein Central Library at Forschungszentrum Jülich, Germany Lecturer at Heinrich Heine University Düsseldorf, Germany Isabella Peters Heinrich Heine University Düsseldorf, Germany Source First Monday Volume 17, Number 11 November 2012 Abstract Qua […]">Research Article: “Using Social Bookmarks and Tags as Alternative Indicators of Journal Content Description”</a></li><li><a class="rsswidget" href="http://www.infodocket.com/2012/11/06/industry-news-from-project-muse-and-ebsco/" title="1. Project MUSE to Offer Single Title Sales of UPCC Books through YBP Partnership 2. Wiley Establishes Print on Demand Solution for Online Only Journals through The Sheridan Press 3. EBSCO Publishing Introduces Humanites Source and Announces Partnership with Accessible Archives Inc. […]">Industry News From Project Muse, EBSCO, and Wiley</a></li><li><a class="rsswidget" href="http://www.infodocket.com/2012/11/06/uk-government-report-released-public-library-closures-may-be-unlawful-mps-warn/" title="Direct to News Release/Summary: In a report released today, Tuesday 6 November 2012, the Commons Culture, Media and Sport Committee says that some local authorities, under considerable pressure to quickly find cost savings, have drawn up plans without taking proper account of local needs for library services and the variety of options available to provide [. […]">UK Government Report Released: Public Library Closures May be Unlawful, MPs Warn</a></li><li><a class="rsswidget" href="http://www.infodocket.com/2012/11/06/ct-hartford-public-library-will-forgive-fines-on-election-day-for-those-with-i-voted-stickers/" title="From The Hartford Courant: At the Hartford Public Library, where polling booths await voters, Tuesday is not just Election Day. “Wipe Out Your Fines Day” will also be in full swing. People with “I Voted” stickers can walk into the Main Street library or any of the city’s public library branches and get their overdue […]">CT: Hartford Public Library Will Forgive Fines On Election Day For Those With ‘I Voted’ Stickers</a></li><li><a class="rsswidget" href="http://www.infodocket.com/2012/11/05/ereaders-ebooks-sony-brings-reader-software-and-bookstore-to-ios-platform/" title="From an Article by Matthew Miller on ZDNet: The Reader application not only gives you access to your Reader library though, it also offers another ebook reading experience on iOS devices. According to Sony, you will find the following features: A natural, book-like reading experience Intuitive navigation making use of the app as easy as […]">eReaders &amp; eBooks: Sony Brings Reader Software and Bookstore to iOS platform</a></li></ul></div></div>
+<div id="text-5" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">Advertisement</h4>
+			<div class="textwidget"><center><!-- LJHalfpage300x600 -->
+<script type="text/javascript">
+GA_googleFillSlot("LJHalfpage300x600");
+</script></center></div>
+		</div></div>
+<div id="text-6" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><!-- LJRectangle300x250_2 -->
+<script type="text/javascript">
+GA_googleFillSlot("LJRectangle300x250_2");
+</script></div>
+		</div></div>
+<div id="text-10" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">Book Verdict</h4>
+			<div class="textwidget"><hr><a href="http://bookverdict.com"><img src="http://c0003264.cdn2.cloudfiles.rackspacecloud.com/BookVerdict_logo-black-300px.gif" alt="Book Verdict"></a></div>
+		</div></div>
+<div id="socialprofiles-3" class="widget social-profiles"><div class="widget-wrap"><h4 class="widgettitle">Library Journal Social Club</h4>
+<a href="http://rssmix.com/u/3301806/rss.xml" target="_blank"><img src="http://lj.libraryjournal.com/wp-content/plugins/social-profiles-widget/images/default/Feed_48x48.png" alt="RSS"></a><a href="http://twitter.com/libraryjournal" target="_blank"><img src="http://lj.libraryjournal.com/wp-content/plugins/social-profiles-widget/images/default/Twitter_48x48.png" alt="Twitter"></a><a href="https://www.facebook.com/pages/Library-Journal/11249119181" target="_blank"><img src="http://lj.libraryjournal.com/wp-content/plugins/social-profiles-widget/images/default/Facebook_48x48.png" alt="Facebook"></a><a href="http://www.flickr.com/photos/libraryjournal/" target="_blank"><img src="http://lj.libraryjournal.com/wp-content/plugins/social-profiles-widget/images/default/Flickr_48x48.png" alt="Flickr"></a></div></div>
+<div id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widgettitle">LJ Resources</h4>
+<div class="menu-marketing-container"><ul id="menu-marketing" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://lj.libraryjournal.com/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-10623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10623"><a href="http://lj.libraryjournal.com/events/academicsymposium/">Academic Symposium</a></li>
+	<li id="menu-item-10483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10483"><a href="http://www.thedigitalshift.com/events/beyondebooks-alert-me/">The Digital Shift: Libraries, Ebooks and Beyond</a></li>
+	<li id="menu-item-6318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6318"><a href="http://lj.libraryjournal.com/events/lead-the-change/">Lead the Change</a></li>
+</ul>
+</li>
+<li id="menu-item-6320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6320"><a href="http://lj.libraryjournal.com/category/webcasts/">Webcasts</a>
+<ul class="sub-menu">
+	<li id="menu-item-6319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6319"><a href="http://lj.libraryjournal.com/events/directors-summit-2012/webcast-discover-a-21st-century-roadmap-for-community-outcomes/">Discover a 21st Century Roadmap for Community Outcomes</a></li>
+	<li id="menu-item-6321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6321"><a href="http://www.thedigitalshift.com/research/patron-profiles/key-findings/webcast-meet-the-power-patron/">Meet the Power Patron</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a href="http://jobs.libraryjournal.com/">Job Zone</a></li>
+<li id="menu-item-6322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6322"><a href="http://bookverdict.com/browse.xqy">Book Verdict</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://lj.libraryjournal.com/newsletters/">Newsletters</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://lj.libraryjournal.com/subscribe/">Subscribe</a></li>
+</ul></div></div></div>
+<div id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widgettitle">About Library Journal</h4>
+<div class="menu-about-menu-container"><ul id="menu-about-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9373"><a href="https://shop.mediasourceinc.com/Login.aspx?t=login">Manage Your Account</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://lj.libraryjournal.com/contact-us/">Contact Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1332"><a href="http://lj.libraryjournal.com/contact-us/lj-social-media/">LJ Social Media</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="http://lj.libraryjournal.com/contact-us/media-kit/">Advertising</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6615"><a>Submissions</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1331"><a href="http://lj.libraryjournal.com/contact-us/submissions/">News, Features, Feedback, etc.</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6614"><a href="http://reviews.libraryjournal.com/about/submitting-titles-for-review/?ref=lj-about">Submitting Titles to the LJ Book Review</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2742"><a href="http://lj.libraryjournal.com/awards/?ref=menu">Awards</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="http://lj.libraryjournal.com/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329"><a href="http://lj.libraryjournal.com/about/privacy-policy/">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3673"><a href="http://lj.libraryjournal.com/about/comment-policy/">Comment Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1330"><a href="http://lj.libraryjournal.com/about/terms-of-use/">Terms of Use</a></li>
+</ul>
+</li>
+</ul></div></div></div>
+</div>
+	</div><!-- end #content-sidebar-wrap -->
+	</div><!-- end #inner --><div align="center" style="margin-top:20px; margin-bottom:20px">
+<!-- 728x90_2 -->
 <script type="text/javascript">
 GA_googleFillSlot("LJLeaderboard728x90_2");
 </script>
-</div><br>
-<div id="footerNav" align="center">
-<a href="/csp/cms/sites/LJ/info/aboutus.csp">About Us</a>  |  
-<a href="/csp/cms/sites/LJ/info/advertisinginformation.csp">Advertising Information</a>  |  <a href="/csp/cms/sites/LJ/info/submissions.csp">Submissions</a>  |  
-<a href="/csp/cms/sites/LJ/info/sitemap.csp">Site Map</a>  |  
-<a href="http://features.libraryjournal.com/contact-us/">Contact Us</a>  <!--|  <a href="#(gPublication.getPublicationPath())#/Tools/Links/Linksa.csp">Affiliate Links</a> -->|  
-<a href="/csp/cms/sites/LJ/info/rss.csp">RSS</a> |  
-<a href="https://w1.buysub.com/loc/LJL/webbot">Subscriptions</a>
-
 </div>
-
-<div id="footerText">
-©2011 <a target="_blank" href="http://www.mediasourceinc.com/index.html">Media Source, Inc.</a>, All rights reserved.<br>
-Use of this Web site is subject to its <a href="/csp/cms/sites/LJ/info/termsofuse.csp">Terms of Use</a> |  <a href="/csp/cms/sites/LJ/info/privacypolicy.csp">Privacy Policy</a>
-</div>
-
-<table cellspacing="4" border="0" bgcolor="#ffffff" align="center">
-<tbody><tr><td>
-
- <table width="400" border="0" cellspacing="10">
-  <tbody><tr>
-    <td><a href="http://www.mediasourceinc.com/"><img src="/csp/cms/sites/LJ/assets/images/msi_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/LJ/assets/images/jlg_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/LJ/assets/images/hbinc_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/LJ/assets/images/slj_logo_sm.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/LJ/assets/images/lj_logo_sm.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/LJ/assets/images/libhot_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-  </tr>
-</tbody></table>
-
- </td>
-</tr></tbody></table>
-</div>
-
-<!-- END FOOTER -->
-<!--/FileInclude:Normal, /csp/cms/sites/LJ/assets/includes/footer.csp, took .000809 -->
+<div id="footer-widgets" class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><div id="text-15" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">LJ Features &amp; Extras</h4>
+			<div class="textwidget"><a href="http://lj.libraryjournal.com/2012/10/placements-and-salaries/2012-survey/a-job-by-any-other-name-ljs-placements-salaries-survey-2012/" title="Placements and Salaries Survey"><img src="http://lj.libraryjournal.com/wp-content/uploads/2012/10/Salaries2012slug300-2.jpg" alt="Placements &amp; Salaries Survey slug"></a>
 
 
-</body></html>
+<a href="http://lj.libraryjournal.com/2012/03/people/movers-shakers/movers-shakers-2012/" title="Movers &amp; Shakers 2012"><img src="http://lj.libraryjournal.com/wp-content/uploads/2012/03/Movers2012webSide1.jpg" alt="Movers &amp; Shakers 2012 slug"></a>
+
+<center>
+<a href="http://thedigitalshift.com/roadshow/" target="_blank"><img title="2012roadshow_ds_sidebanner" src="http://www.thedigitalshift.com/wp-content/uploads/2012/02/2012roadshow_ds_sidebanner.png" alt="The Great Library Roadshow" width="300" height="104"></a>
+<br>
+<a href="http://www.thedigitalshift.com/research/patron-profiles/" target="_blank"><img src="http://lj.libraryjournal.com/wp-content/uploads/2012/01/PAT_245x100.png" alt="Patron Profiles"></a>
+<br>
+<a href="http://www.thedigitalshift.com/research/ebook-penetration/" target="_blank"><img src="http://lj.libraryjournal.com/wp-content/uploads/2012/01/2011EbookSurveys_245x100.png" alt="Ebook Penetration Report"></a>
+<br>
+</center></div>
+		</div></div>
+</div><div class="footer-widgets-2 widget-area"><div id="text-32" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">On Facebook</h4>
+			<div class="textwidget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-activity" data-site="http://lj.libraryjournal.com" data-width="300" data-height="500" data-header="true" data-font="tahoma" data-recommendations="true"></div></div>
+		</div></div>
+</div><div class="footer-widgets-3 widget-area"><div id="text-31" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">FOLLOW @LIBRARYJOURNAL</h4>
+			<div class="textwidget"><script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 6,
+  interval: 30000,
+  width: 'auto',
+  height: 500,
+  theme: {
+    shell: {
+      background: '#333333',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#cc3333'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    behavior: 'all'
+  }
+}).render().setUser('libraryjournal').start();
+</script></div>
+		</div></div>
+</div></div><!-- end .wrap --></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Top of Page</a></p></div><div class="creds"><p>Copyright <em>Library Journal</em> © 2012</p></div></div><!-- end .wrap --></div><!-- end #footer -->
+</div><!-- end #wrap -->
+<script type="text/javascript">/* <![CDATA[ */ var portfolioSlideshowOptions = {  psHash:false, psLoader:false, psFluid:false };/* ]]> */</script><script type="text/javascript">var SHRSB_Settings = {"shr-publisher-1323":{"link":"http:\/\/lj.libraryjournal.com\/about\/privacy-policy\/","shortener":"google","title":"Privacy Policy","notes":"MAY%2031%2C%202010%0D%0A%0D%0AOverview%0D%0AOur%20site%20visitors%E2%80%99%20privacy%20and%20trust%20are%20important%20to%20us.%20We%20provide%20this%20notice%20in%20order%20to%20make%20sure%20that%20your%20expectations%20and%20our%20practices%20are%20aligned%2C%20and%20that%20you%20are%20aware%20of%20your%20choices%20with%20regard%20to%20our%20use%20and%20disclosure%20of%20the%20information%20you%20provide%20to%20this","service":"236,201,7,5,88,78,38,40","apikey":"8afa39428933be41f8afdb8ea21a495c","expand":true,"src":"http:\/\/lj.libraryjournal.com\/wp-content\/plugins\/sexybookmarks\/spritegen_default","localize":true,"share_src":"http:\/\/www.shareaholic.com","rel":"nofollow","target":"_blank","center":true,"twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40LibraryJournal","mode":"inject","designer_toolTips":"1","tip_bg_color":"#000000","tip_text_color":"#ffffff"}};</script><!--
+<p style="text-align:center" class="yd_linkware"><small><a href="http://www.yann.com/en/wp-plugins/yd-feedwordpress-content-filter">Featuring YD Feedwordpress Content Filter Plugin</a></small></p>
+--><script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/plugins/portfolio-slideshow/js/jquery.cycle.all.min.js?ver=2.99"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/plugins/portfolio-slideshow/js/portfolio-slideshow.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.8.20"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.8.20"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.8.20"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/themes/news/js/tabs.js?ver=1.0"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/themes/genesis/lib/js/menu/superfish.js?ver=1.4.8"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/themes/genesis/lib/js/menu/superfish.args.js?ver=1.8.1"></script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/plugins/popular-widget/_js/pop-widget.js?ver=1.5.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var SHRSB_Globals = {"src":"http:\/\/lj.libraryjournal.com\/wp-content\/plugins\/sexybookmarks\/spritegen_default","perfoption":"1","twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40LibraryJournal","locale":"0","shortener":"google","shortener_key":"","pubGaSocial":"1","pubGaKey":"UA-16323142-1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://lj.libraryjournal.com/wp-content/plugins/sexybookmarks/spritegen_default/jquery.shareaholic-publishers-sb.min.js?ver=6.0.0.3"></script>
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 3501/4171 objects using apc
+
+Served from: lj.libraryjournal.com @ 2012-11-06 13:28:12 --></body></html>
