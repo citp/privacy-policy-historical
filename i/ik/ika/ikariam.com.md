@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508144644id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26special%3D%26%26f_text%3D612D04%26f_text_hover%3D804000%26f_text_h%3D9ebde4%26f_text_hr%3DDED3B9%26f_text_hrbg%3DDED3B9%26f_text_hrborder%3D804000%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3DFEF2DC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106174300id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26special%3D%26%26f_text%3D612D04%26f_text_hover%3D804000%26f_text_h%3D9ebde4%26f_text_hr%3DDED3B9%26f_text_hrbg%3DDED3B9%26f_text_hrborder%3D804000%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3DFEF2DC) for the most accurate reproduction.*
 
 # Gameforge
 
