@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotjobskenya.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508135641id_/http%3A//hotjobskenya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotjobskenya.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106044221id_/http%3A//hotjobskenya.com/privacy) for the most accurate reproduction.*
 
 # Jobs in Kenya – Latest Jobs in Kenya, Recruitment, Employment Job Vacancies In Kenya - Privacy
 
