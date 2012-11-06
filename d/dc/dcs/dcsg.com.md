@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2012-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120216114219id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106235000id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_Know_PrivacyPolicy) for the most accurate reproduction.*
 
 # Dick's Sporting Goods
 
