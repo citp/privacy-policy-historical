@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the active.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614210435id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106081708id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Active.com 09.14.11
 
