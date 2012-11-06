@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldfamousdesignjunkies.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522115815id_/http%3A//worldfamousdesignjunkies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfamousdesignjunkies.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106084251id_/http%3A//worldfamousdesignjunkies.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | WFDJ
+# PRIVACY POLICY | World Famous Design Junkies
 
 At http://worldfamousdesignjunkies.com/ we value your readership and respect your privacy. This privacy policy describes what types of personal information we receive when you visit the World Famous Design Junkies website, and how we safeguard your information. We never sell your personal information to third parties. This policy may be revised or updated at any time, so please check back often to find the latest version.
 
