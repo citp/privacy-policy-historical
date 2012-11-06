@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508172529id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106201719id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,8 +52,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-www.achieve3000.com  
-1091 River Avenue  
+[www.achieve3000.com](https://web.archive.org/web/20121106201719id_/)   
+1985 Cedar Bridge Ave   
 Lakewood, NJ 08701  
 United States  
 [support@achieve3000.com](mailto:support@achieve3000.com)
