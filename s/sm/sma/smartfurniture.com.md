@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartfurniture.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617144402id_/http%3A//www.smartfurniture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartfurniture.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106073945id_/http%3A//www.smartfurniture.com/privacy.html) for the most accurate reproduction.*
 
 # Smart Furniture Privacy Policy
 
@@ -30,5 +30,5 @@ This Site incorporates physical, electronic, and administrative procedures to sa
 
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.
 
-Copyright 2009 by Smart Furniture, Inc. All rights reserved. _Last updated March 10, 2010.  
+Copyright 2012 by Smart Furniture, Inc. All rights reserved. _Last updated August 1, 2012.  
 _
