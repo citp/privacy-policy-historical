@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alcoholics-anonymous.org privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505011524id_/http%3A//www.aa.org/lang/en/subpage.cfm%3Fpage%3D25) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alcoholics-anonymous.org privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106213409id_/http%3A//www.aa.org/lang/en/subpage.cfm%3Fpage%3D25) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -10,6 +10,7 @@
 <meta name="DESCRIPTION" content="">
 
 <link rel="stylesheet" type="text/css" href="/css/aa.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/box459.css" media="all">
 <link rel="stylesheet" type="text/css" href="/css/carousel.css" media="all">
 <link rel="stylesheet" type="text/css" href="/css/quicknav.css" media="all">
 <!--[if IE 6]>
@@ -44,6 +45,34 @@ function changeQuickMenuBackOn(obj) {
 	//menu = document.getElementById('quickmenu'+n);
 	menu = obj;
 	menu.className = "quickmenuon";
+}
+function getSendButton() {
+	var buttons = YAHOO.util.Dom.getElementsBy(function(elem){
+		if (elem.type == 'submit' && elem.value == 'Send') {
+			return true;
+		}
+		else {
+			return false;
+		}
+	},'input');
+	var button = null;
+	if (buttons.length>0) {
+		button = buttons[0];
+	}
+	return button;
+}
+function addFormSec() {
+	var sec = document.createElement('input');
+	sec.type = 'hidden';
+	sec.name = 'sec';
+	sec.value = 'asdf1234';
+	var f = YAHOO.util.Dom.get('GSOFeedbackForm');
+	if (f!=null) {
+		var b = getSendButton();
+		if (b!=null) {
+		    f.appendChild(sec);
+        }
+	}
 }
 var currQuickMenu = null;
 function showQuickNav(num) {
@@ -99,7 +128,6 @@ function showQuickNav(num) {
 
 //stop hiding//-->
 </script>
-
 <script type="text/javascript" language="javascript">
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
@@ -276,6 +304,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/subpage.cfm?page=427" class="quicknavlink">Newsletters</a></td></tr></tbody></table>
             
             <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="http://www.aa.org/subpage.cfm?page=98" class="quicknavlink">Service Material</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="http://www.aa.org/en_pdfs/en_aa_literature_newandrevised.pdf" class="quicknavlink">A.A. Literature Updates</a></td></tr></tbody></table>
             
         </td>
     
@@ -497,7 +527,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <li class="submenuitem"><a href="subpage.cfm?page=94" class="submenuitemlink">Intellectual Property Policies</a></li>
 
-<li class="submenuitem"><a href="subpage.cfm?page=33" class="submenuitemlink">Web site Policy</a></li>
+<li class="submenuitem"><a href="subpage.cfm?page=33" class="submenuitemlink">A.A.W.S. Inc.'s Policy on G.S.O.'s A.A. Web site</a></li>
 
 </ul>
 <br>
@@ -574,7 +604,7 @@ If you have any questions or concerns about this privacy statement, you may cont
             
             <li><a href="/lang/en/subpage.cfm?page=94" class="copyright" style="text-transform: uppercase;">Intellectual Property Policies</a></li>
             
-            <li><a href="/lang/en/subpage.cfm?page=33" class="copyright" style="text-transform: uppercase;">Web site Policy</a></li>
+            <li><a href="/lang/en/subpage.cfm?page=33" class="copyright" style="text-transform: uppercase;">A.A.W.S. Inc.'s Policy on G.S.O.'s A.A. Web site</a></li>
             
             <li><a href="/lang/en/subpage.cfm?page=391" class="copyright" style="text-transform: uppercase;">Web site Feedback</a></li>
             
