@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginblue.com.au privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531052213id_/http%3A//www.virginaustralia.com/au/en/about-us/legal-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginblue.com.au privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106024409id_/http%3A//www.virginaustralia.com/us/en/about-us/legal-policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Virgin Australia
 
@@ -99,7 +99,12 @@ If you are making a flight booking for yourself and other persons to the same de
 
 Personal information we collect from you may be disclosed:
 
-  * To any entity to which we are required or authorised by or under law to disclose such information (for instance, law enforcement agencies and investigative agencies, courts, various other government bodies);
+  * If we reasonably believe that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of an enforcement body: 
+    * the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law;
+    * the enforcement of laws relating to the confiscation of the proceeds of crime;
+    * the protection of the public revenue;
+    * the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct;
+    * the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal;
   * To our subsidiaries, other related entities, contractors or agents for the purposes set out in the section above entitled "How your personal information will be used", or for other purposes directly related to the purpose for which the personal information is collected;
   * To other airlines or travel-related businesses for the purpose of processing your travel arrangements;
   * To others in the event of a medical emergency or aircraft incident;
@@ -282,3 +287,9 @@ We do not have any control over how third party website operators may deal with 
 
 We do not make any representations or warranties of any kind about any of these matters. We are not responsible in any way for any loss or damage which third party website operators may cause to you, in relation to your personal information. We are unable to address any complaint which you may have about the way that third party website operators deal with your personal information. You must contact the third party website operator directly if you have concerns or require any information about any of those matters.  
  
+
+You have previously accepted Virgin Australia cookies. If you wish to opt out, and no longer accept Virgin Australia cookies, please clear cookies using the button below.
+
+  * To find out more about the use of cookies by Virgin Australia [read our Cookie Policy.](https://web.archive.org/web/20121106024409id_/http://www.virginaustralia.com/us/en/plan/destinations/destination-guides/asia-pacific/bangalore/)
+
+
