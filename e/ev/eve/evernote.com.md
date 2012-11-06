@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413205734id_/http%3A//www.evernote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106100132id_/https%3A//evernote.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Evernote
 
@@ -8,7 +8,7 @@ Evernote Corporation values the privacy of those who use our web site, products 
 
 ## Information Collection and Use
 
-The primary reason that we collect certain personal information is to provide the best possible level of customer service. It enables us to deliver product announcements, software updates and special offers as well as provide convenient and personalized user access and improve the features and usability of our products. Registered Evernote users can view and change their personal information at any time by visiting the Evernote account information page by signing in at [www.evernote.com](https://web.archive.org/Login.action) and clicking on the “Settings” link. Unregistered users may still be able to use certain Evernote web sites and services, in which case no personal information is collected.
+The primary reason that we collect certain personal information is to provide the best possible level of customer service. It enables us to deliver product announcements, software updates and special offers as well as provide convenient and personalized user access and improve the features and usability of our products. Registered Evernote users can view and change their personal information at any time by visiting the Evernote account information page by signing in at www.evernote.com and clicking on the “Settings” link. Unregistered users may still be able to use certain Evernote web sites and services, in which case no personal information is collected.
 
 Evernote may collect information and use it for internal business purposes in a number of situations, for example:
 
@@ -37,7 +37,7 @@ When you post information to the Evernote sites, you are granting Evernote permi
 
   * We have your explicit consent to share the information;
   * We need to share your information to fulfill your product or service request;
-  * We wish to contact you with information about products and services from our business partners, which we may do unless you “opt out” of such communications by clicking the unsubscribe link found within Evernote email updates or by logging into your Evernote account at [www.evernote.com](http://www.evernote.com/) and going to Settings > Personal Settings > Contact Preferences and changing your contact preferences;
+  * We wish to contact you with information about products and services from our business partners, which we may do unless you “opt out” of such communications by clicking the unsubscribe link found within Evernote email updates or by logging into your Evernote account at www.evernote.com and going to Settings > Personal Settings > Contact Preferences and changing your contact preferences;
   * We have a good faith belief that sharing or otherwise permitting access, disclosure, use or preservation of such information is reasonably necessary in order to comply with our legal obligations;
   * You have explicitly requested information from Evernote business partners, in which case it will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply;
   * We believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons or property;
@@ -90,9 +90,9 @@ If Evernote should ever sell its assets, merge with another entity or file for b
 
 ## Contact Us
 
-Evernote welcomes your feedback regarding this Privacy Policy and our [Terms of Service](https://web.archive.org/about/tos/). If you have questions, comments, or concerns about either one, please contact us by e-mail at **compliance AT evernote.com** or postal mail at:
+Evernote welcomes your feedback regarding this Privacy Policy and our [Terms of Service](https://web.archive.org/tos/). If you have questions, comments, or concerns about either one, please contact us by e-mail at **compliance AT evernote DOT com** or postal mail at:
 
 Evernote Corporation  
 Attn: Compliance Manager  
-333 Evelyn Ave  
-Mountain View, CA 94041
+305 Walnut Street  
+Redwood City, CA 94063
