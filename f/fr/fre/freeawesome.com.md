@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeawesome.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616225931id_/http%3A//freeawesome.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeawesome.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106032601id_/http%3A//freeawesome.com/site/privacy) for the most accurate reproduction.*
 
 # Free Awesome - Privacy Policy
 
-**Policy Last Revised: September 20, 2010.**
+**Policy Last Revised: July 3, 2012.**
 
 The following sets forth the policies for the collection and use of personally identifiable information ("Information") by AVCOM, LLC dba FreeAwesome ("FreeAwesome") in connection with its operation of its Web site located at http://www.freeawesome.com (the "Site"), and supersedes any previous statement of such policies. FreeAwesome know that users' personal information is important to them, and that it is important that FreeAwesome respect that importance and treat that information responsibly. FreeAwesome has created the below policy to explain the types of information it collects from users, how it uses this information, with whom and for what purposes it shares the information, and how users can interact with FreeAwesome in connection with the information collection and use. FreeAwesome takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
 
@@ -58,7 +58,7 @@ FreeAwesome may use Information collected in connection with the Site in the fol
 
 
 
-In order to do the foregoing, FreeAwesome may provide the Information to trusted third parties, including but not limited to selected third party marketers and vendors as well as third party contractors providing services to FreeAwesome such as the operation of the Site, communication services and fulfillment of orders, and credit card verification and payment services. FreeAwesome will use commercially reasonable efforts to limit use of the Information by such third parties to the specific uses set forth above. FreeAwesome also utilizes electronic and physical security to reduce the risk of improper access to or manipulation of Information during transmission and storage, but cannot guarantee the security or integrity of the Information and shall have no liability for breaches of security or integrity or third-party interception in transit.
+In order to do the foregoing, FreeAwesome may provide the Information to trusted third parties, including but not limited to selected third party marketers and vendors as well as third party contractors providing services to FreeAwesome such as the operation of the Site, communication services and fulfillment of orders, and credit card verification and payment services. All email you receive from FreeAwesome.com will be from FreeAwesome. FreeAwesome will use commercially reasonable efforts to limit use of the Information by such third parties to the specific uses set forth above. FreeAwesome also utilizes electronic and physical security to reduce the risk of improper access to or manipulation of Information during transmission and storage, but cannot guarantee the security or integrity of the Information and shall have no liability for breaches of security or integrity or third-party interception in transit.
 
 FreeAwesome may also disclose Information when it determines it is necessary to comply with applicable laws or regulations, in connection with a merger, acquisition, asset purchase or sale of or by FreeAwesome, or to protect the interests or safety of FreeAwesome, its customers, or other visitors to the Site.
 
