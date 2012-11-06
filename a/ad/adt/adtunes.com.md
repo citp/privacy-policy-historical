@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adtunes.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506204144id_/http%3A//adtunes.com/forums/faq.php%3Ffaq%3Dsitefaq%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtunes.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106024955id_/http%3A//adtunes.com/forums/faq.php%3Ffaq%3Dsitefaq%23faq_privacy) for the most accurate reproduction.*
 
-# Adtunes Forums - FAQ: Site FAQ
+# Site FAQ
 
 Your privacy is important to us. Please read this document and take time to understand it. By registering with Adtunes and/or using this site you have accepted these terms. If you do not agree to this policy, please do not use this site. This privacy policy may change from time to time without notice. Please ensure you keep up to date with any changes. 
 
@@ -30,10 +30,12 @@ We will use all reasonable efforts to safeguard the confidentiality of any perso
 
 There may be links to other sites, affiliates, advertising, or products on Adtunes. It is important to check the privacy policies of these sites as you view them and provide information on them. Adtunes is not responsible for any information, links, products, advertising, or any other type of third party content that may appear on our web site. 
 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
+
 **Cookies**
 
 Cookies are used to store information and make your visit more convenient and time efficient. Cookies are text files that are place on your hard drive by our site to save your preferences. For example if you allow the cookie from Adtunes you may visit the site without logging in each time. This cookie collects NO personal information and does not forward your information or browsing habits to any third party. 
 
 **Contact**
 
-If you have any questions, concerns or comments regarding our privacy policy, please [Contact Us](https://web.archive.org/web/20120506204144id_/http%3A//adtunes.com/forums/sendmessage.php). 
+If you have any questions, concerns or comments regarding our privacy policy, please [Contact Us](http://adtunes.com/forums/sendmessage.php?s=e329d91cfbaabc19fca672bdef6f0f05). 
