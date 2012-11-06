@@ -1,56 +1,9 @@
-> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508075549id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107000835id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
 
 # Crankyape.com Bank repo rvs, motorcycles, snowmobiles, atvs, boats, trucks, trailers, go karts, jet skis, sleds, fourwheelers, trailers, motorhomes, rvs.
 
-| 
-
-  Search By Unit #  
   
----  
-  
-  Categories  
-  
-  * [  Buy It Now!](http://www.crankyape.com/default.asp?pg=DisItems&Cat=BuyItNow)
-  * [  ATVs](http://www.crankyape.com/default.asp?pg=DisItems&Cat=1)
-  * [  Cars](http://www.crankyape.com/default.asp?pg=DisItems&Cat=11)
-  * [  Motorcycles](http://www.crankyape.com/default.asp?pg=DisItems&Cat=3)
-  * [  RVs](http://www.crankyape.com/default.asp?pg=DisItems&Cat=6)
-  * [  Snowmobiles](http://www.crankyape.com/default.asp?pg=DisItems&Cat=4)
-  * [  Trailers](http://www.crankyape.com/default.asp?pg=DisItems&Cat=10)
-  * [  Trucks](http://www.crankyape.com/default.asp?pg=DisItems&Cat=12)
-  * [  Vans](http://www.crankyape.com/default.asp?pg=DisItems&Cat=13)
-  * [  Watercraft](http://www.crankyape.com/default.asp?pg=DisItems&Cat=5)
-  * [  Miscellaneous](http://www.crankyape.com/default.asp?pg=DisItems&Cat=7)
-  * [  Lawn & Garden](http://www.crankyape.com/default.asp?pg=DisItems&Cat=17)
-
-  
-  
-  FAQ's  
-  
-  * [  FAQ's](http://www.crankyape.com/faq.aspx)
-
-  
-  
-  Resources  
-  
-  * [  View My Bill](http://www.crankyape.com/default.asp?pg=ViewMyBill)
-  * [  Online Store](http://www.crankyapestore.com/ "get your CrankyApe.com GEAR here")
-  * [  Forums](http://www.crankyapeforums.com/ "CrankyApe Forums")
-  * [  Shipping](http://www.crankyape.com/shipping.aspx)
-  * [  Links](http://www.crankyape.com/Links.aspx)
-
-  
-  
-  Company  
-  
-  * [  About us](http://www.crankyape.com/default.asp?pg=Company)
-  * [  Locations](http://www.crankyape.com/locationinformation.aspx)
-  * [  Work for us](http://www.applicantstack.com/client/crankyape/x/openings)
-  * [  News](http://www.crankyape.com/default.asp?pg=News)
-
-  
-  
-| 
+|  | 
 
  Your Privacy
 
