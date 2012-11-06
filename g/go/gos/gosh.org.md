@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629114025id_/http%3A//www.gosh.org/gen/hidden/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106013556id_/http%3A//www.gosh.org/gen/hidden/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
