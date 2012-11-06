@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528080809id_/http%3A//www.websitemagazine.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106085053id_/http%3A//www.websitemagazine.com/content/blogs/about/pages/privacy.aspx) for the most accurate reproduction.*
 
-# Website Magazine Privacy Policy - WebsiteMagazine.com
+# Privacy - About - Website Magazine
+
+## Website Magazine Privacy Policy
 
 Website Magazine (hereinafter “WM”) values the privacy of our visitors/customers and takes every known precaution to safe guard the information we collect from unauthorized use. The following is a detailed explanation of the privacy policy for WM. Please note that this policy does not apply to those third-party sites that you may visit by selecting a hypertext link on one of our pages. You will need to consult those web sites’ privacy policies in order to determine how your privacy is protected.
 
