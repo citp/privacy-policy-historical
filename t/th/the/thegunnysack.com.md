@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510194715id_/http%3A//www.thegunnysack.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106102036id_/http%3A//www.thegunnysack.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # The Gunny Sack: Privacy Policy
 
