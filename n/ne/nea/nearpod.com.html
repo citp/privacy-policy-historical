@@ -1,303 +1,576 @@
-<!--The following is the downloaded HTML source of the nearpod.com privacy policy that was archived on 2010-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100308002429id_/http%3A//www.nearpod.com/privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nearpod.com privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106233234id_/http%3A//www.nearpod.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>NEARPOD - Interactive presentations, survey and data capture mobile solutions</title>
-<meta name="description" content="Nearpod provides turnkey solutions for market research, mall intercepts, event marketing, onsite data capture, surveys, polling and interactive presentations using ipod &amp; iphone devices.">
-<meta name="keywords" content="iphone, ipod touch, market research, survey, surveys, poll, polling, data capture, questionnaire, stats, statistics, mobile devices, face to face interviews, CAPI, Mcapi, interviewee, interviewer, tool, data analysis, trial, demo, Audience Response System, Wireless Audience Response System, Interactive Audience Polling, Audience Response Systems, Audience Response, Student Response System, Audience Voting System, Group Response System, mobile marketing, event marketing, mall intercepts, near marketing, interactive presentation, interactive presentations, trivia game, mobile computing aided personal interviewing, mobile panels, opinion panels, data capture, paper survey, real time reporting, real time responses">
+<!DOCTYPE html><html><head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta charset="UTF-8">
+<title>Privacy Policy | Nearpod</title>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/modernizr.js?1.4"></script>
+<script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/jquery-1.7.1.min.js?1.4"></script>
+<script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/jquery.cycle.all.js?1.4"></script>
+<script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/cufon-yui.js?1.4"></script>
+<script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/Myriad_Pro_400-Myriad_Pro_700-Myriad_Pro_italic_400-Myriad_Pro_italic_700.font.js?1.4"></script>
+<script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/jquery.fancybox.pack.js?1.4"> </script>
+<script src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/jquery.placeholder.js?1.4"></script>
+<script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/functions.js?1.4"></script>
 
-<link href="css/reset.css" rel="stylesheet" type="text/css">
-<link href="css/styles.css" rel="stylesheet" type="text/css">
-<link href="css/form.css" rel="stylesheet" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=100">
+<meta name="apple-itunes-app" content="app-id=523540409">
+<script type="text/javascript">
+
+	function MM_preloadImages() { //v3.0
+		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+
+	function customFancyShow(_id){
+		var id = _id.slice(6);
+		$.fancybox({
+			'type'				: 'iframe',
+			'autoDimensions'	: false,
+			'width'         	: 890,
+			'height'        	: 504,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'href'				: 'http://player.vimeo.com/video/'+id+'?title=0&amp;byline=0&amp;portrait=0',
+			'beforeClose'		: function(e){
+				window.location = "#/";
+			}
+		});
+	}
 
 
-<!--[if IE 6]>
-<script src="js/DD_belatedPNG_0.0.8a.js"></script>
-<script>
-  /* EXAMPLE */
-  DD_belatedPNG.fix('*');
-  
-  /* string argument can be any CSS selector */
-  /* .png_bg example is unnecessary */
-  /* change it to what suits you! */
+	function customPicsFancyShow(_id){
+		var id = _id;
+
+		$.fancybox({
+			'autoDimensions'	: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'href'				: id,
+			'beforeClose'		: function(e){
+				window.location = "#/";
+			}
+		});
+	}
+
+
+	function initCustomFancyShow(){
+		var index = window.location.href.indexOf("#video");
+		if(index != -1){
+			if (window.location.href.slice(index).slice(1).length>0)
+			customFancyShow(window.location.href.slice(index));
+		}
+	}
+
+	$(document).ready(function() {
+		$("#socialLinks").click(function(e){
+			$.fancybox({
+				'type'				: 'iframe',
+				'autoDimensions'	: false,
+				'width'         	: 500,
+				'height'        	: 380,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'href'				: 'http://www.nearpod.com/wp-content/themes/nearpod2012Theme/popupSocial.php'
+			});
+
+		})
+		//
+		$("#linkNewsletter").click(function(e){
+			$.fancybox({
+				'type'				: 'iframe',
+				'autoDimensions'	: false,
+				'width'         	: 500,
+				'height'        	: 220,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'href'				: 'http://www.nearpod.com/wp-content/themes/nearpod2012Theme/popupNewsletter.php'
+			});
+
+		})
+		//
+		initCustomFancyShow();
+		//
+		$(".inSessionLink").click(function(e){
+			e.preventDefault();
+			$.fancybox({
+					'type'				: 'iframe',
+					'autoDimensions'	: false,
+					'width'         	: 500,
+					'height'        	: 360,
+					'transitionIn'		: 'none',
+					'fixed'				: false,
+					'transitionOut'		: 'none',
+					'href'				: 'http://www.nearpod.com/wp-content/themes/nearpod2012Theme/inSession.php'
+				});
+		})
+		//
+		$(".videoPopup").click(function(){
+			customFancyShow($(this).attr('href'));
+		});
+
+		$(".picPopup").click(function(){
+			customPicsFancyShow($(this).attr('rel'));
+		});
+
+		//
+
+		jQuery(function() {
+			jQuery.support.placeholder = false;
+			test = document.createElement('input');
+			if('placeholder' in test) jQuery.support.placeholder = true;
+		});
+		$(function() {
+			if(!$.support.placeholder) {
+				var active = document.activeElement;
+				$(':text, textarea, :password').focus(function () {
+					if ($(this).attr('placeholder') != '' && $(this).val() == $(this).attr('placeholder')) {
+						$(this).val('').removeClass('hasPlaceholder');
+					}
+				}).blur(function () {
+					if ($(this).attr('placeholder') != '' && ($(this).val() == '' || $(this).val() == $(this).attr('placeholder'))) {
+						$(this).val($(this).attr('placeholder')).addClass('hasPlaceholder');
+					}
+				});
+				$(':text, textarea, :password').blur();
+				$(active).focus();
+				$('form').submit(function () {
+					$(this).find('.hasPlaceholder').each(function() { $(this).val(''); });
+				});
+			}
+		});
+
+
+		$("#btnPrivacy").click(function(){
+			$.fancybox({
+				'type'				: 'iframe',
+				'autoDimensions'	: false,
+				'width'         	: 690,
+				'height'        	: 370,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'href'				: 'http://www.nearpod.com/wp-content/themes/nearpod2012Theme/privacyPolicy.html'
+			});
+		});
+		$("#terms").click(function(){
+			$.fancybox({
+				'type'				: 'iframe',
+				'autoDimensions'	: false,
+				'width'         	: 690,
+				'height'        	: 440,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'href'				: 'http://www.nearpod.com/wp-content/themes/nearpod2012Theme/termsConditions.html'
+			});
+		});
+
+
+
+
+		$('#mediaNews .quotes').cycle({
+			speed: 501,
+			pager: '#paginador',
+			fit:	true,
+			height:	210,
+			timeout:  5000,
+			delay:500,
+			cleartypeNoBg: true
+		});
+
+        if($("html").hasClass("canvas")){
+		//if (!Modernizr.canvas) {
+		Cufon.replace('.glossyButton, h1, h2, h3, #quotes .mainTxt, #mediaNews .cols li.quotes .texto, #mediaNews .cols li.quotes .nombre, #mediaNews .cols li.quotes .detalle, #mediaNews .cols li.theApp .dwnTxt, #splash #downloadBox .txtTry, #splash #mainTxt h4, #splash #mainTxt p, .myriad, #myriadH5');
+} else {
+  // no native canvas support available :(
+}
+		//
+
+	});
 </script>
-<![endif]--> 
+<link href="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/css/reset.css?1.4" rel="stylesheet" type="text/css">
+<link href="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/css/main.css?1.4" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/css/jquery.fancybox.css?1.4" type="text/css" media="screen">
+
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "8145a055-cb6a-4121-aed9-72bb5d551ae2"}); </script>
 
 
 
-<script src="js/AC_RunActiveContent.js" type="text/javascript"></script>
 </head>
 
 <body>
-<div id="wrapper">
-  <div id="header_Inner">
-    	<div id="logo"><a href="#"><img src="images/spacer.png" alt="Nearpod" style="width:261px; height:97px"></a></div>
-		<div id="menu">
-            <ul class="topMenu">
-                <li><a href="index.html"><b>HOME</b></a></li>
-              	<li><a href="modules.html"><b>MODULES</b></a></li>
-              	<li class="current"><a href="about_Us.html"><b>ABOUT US</b></a></li>
-              	<li><a href="case_Studies.html"><b>CASE STUDIES</b></a></li>
+
+
+<!--HEADER -->
+<div id="header">
+	<div class="wrapper">
+    	<a href="http://www.nearpod.com" target="_self" class="logo"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/header/logoS.png"></a>
+		<ul class="langMenu">
+			<!--
+			<li><a href="?lang=en" class="active">English</a></li>
+			<li><a href="?lang=es">Español</a></li>
+			<li><a href="?lang=pt">Portugués</a></li>
+			 -->
+		</ul>
+        <ul class="menu">
+        	<li><a href="http://www.nearpod.com/how-it-works/">How it works</a></li>
+            <li><a href="http://new.nearpod.com" target="_blank">Log in</a></li>
+            <li><a href="http://www.nearpod.com/upgrade/" class="upgradeLink">Upgrade</a></li>
+        </ul>
+
+      <!--<ul class="langSelector">
+      	<li><a href="#" class="active">english</a></li>
+        <li><a href="#">portugu&ecirc;s</a></li>
+        <li><a href="/feed/" class="feed" target="_blank">Nearpod Feed</a></li>
+      </ul> -->
+    </div>
+</div>
+<div class="ribbonDiv">
+	<a href="http://www.nearpod.com/new" target="_blank"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/header/checkNewVersion.png" title="Check out the new version!" class="newVersionRibbon"></a>
+</div>
+<!--FIN DEL HEADER -->
+
+      
+
+<!-- ABOUT US -->
+
+<div class="fullBackground">
+	<div class="cajaCentral">
+	<div id="contenido">
+    
+    	<!--		<img src="" width="384" height="298" class="ipad-1">
+
+				<img src="" width="384" height="298" class="ipad-2"> -->
+
+    	<div class="header">
+   		  
+          <h1><strong>Privacy Policy</strong></h1>
+        </div>
+        <div class="cuerpo">
+        <br>
+          <p>Nearpod Privacy Policy</p>
+<p>Please read our Privacy Policy carefully before accessing or using the Nearpod website or&nbsp;any of the Nearpod mobile applications.</p>
+<p>&nbsp;</p>
+<p>By accessing or registering to the Nearpod website, and/or by downloading any of the&nbsp;Nearpod mobile applications, you agree to become bound by this Privacy Policy. If you&nbsp;do not agree, then you may not access the Nearpod website or use any of our products or&nbsp;services.</p>
+<p>&nbsp;</p>
+<p>Personal Identifiable Information from Children</p>
+<p>We do not intentionally collect any personal identifiable information from users under the age of 13.</p>
+<p>If you are a parent or guardian or teacher and believe that your child or student has provided Nearpod with Personal Identifiable Information, you should notify us at&nbsp;<a href="mailto:support@nearpod.com" target="_blank">support@nearpod.com</a>&nbsp; so that we may immediately delete the information from our servers.</p>
+<p>&nbsp;</p>
+<p>Our Privacy Policy describes how we use any personally identifiable information that&nbsp;is collected when you register and complete our form to activate your account. The&nbsp;Nearpod Materials includes mobile applications, website and its contents, and hardware&nbsp;equipment. Not all of the opportunities, methods, or technologies that can be used&nbsp;to collect or receive user information or Submissions, as described below, are in use&nbsp;or released, but may become used or made available as we release new features and&nbsp;offerings. Certain matters referred to in this Privacy Policy are dealt with in more detail&nbsp;in our Terms and Conditions. We recommend that you read this Privacy Policy and&nbsp;Terms and Conditions prior to enrolling and start using Nearpod and Nearpod Materials.</p>
+<p>&nbsp;</p>
+<p>What types of information do we collect?</p>
+<p>&nbsp;</p>
+<p>As used below:<br>
+-”You” or “your” will refer to the user in charge of implementing Nearpod.<br>
+-”We” or “our” or “Nearpod” refers to Nearpod.</p>
+<p>&nbsp;</p>
+<p>During the Nearpod sign-up process, we may collect the following information from<br>
+the user in charge of implementing Nearpod: First Name, Last Name, Institution Name,&nbsp;Title, E-mail Address, Phone Number, Address, City, State, ZIP code, Country, SchoolType, District, Approximate number of mobile devices in school, Twitter, Blog, etc.</p>
+<p>&nbsp;</p>
+<p>Nearpod and Nearpod Materials may offer conversation pages, chat rooms, social<br>
+community environments, profile pages, as well as other interactive features in which&nbsp;you may provide us with your Submissions. If you provide personal information when&nbsp;you use any of these features, that personal information shall be privately posted on the&nbsp;Nearpod Materials. You are responsible for your communications, and are responsible for&nbsp;the consequences of their posting. Further, during the registration process, we will&nbsp;ask you to create a “username” to be used to access your account and the features of&nbsp;Nearpod and Nearpod Materials. Should you choose to post to the Nearpod Materials,&nbsp;make comments, give feedback, or provide us with other types of “Submissions,” we&nbsp;may use your member name to identify or credit you as the source of such Submissions.</p>
+<p>&nbsp;</p>
+<p>Submissions and your username may be used in perpetuity, even if you elect to<br>
+terminate, delete, or remove your account or request us to remove your personally<br>
+identifiable information. Please see our “Terms and Conditions” to read more about&nbsp;how “Submissions” are treated and handled.</p>
+<p>&nbsp;</p>
+<p>Newsletters</p>
+<p>&nbsp;</p>
+<p>Nearpod may be offering an e-mail newsletter to the user in charge of implementing&nbsp;Nearpod. To sign up to receive regular e-mails, you will be required to opt-in to&nbsp;receive said e-mails. This information will be used in aggregate form to assess general&nbsp;user interest in various internal products and services, and your personal and contact&nbsp;information will not be passed to any other organization. If you choose to sign up for a&nbsp;mailing list, you will receive regular e-mails, including alerts about new articles, industry&nbsp;trends, and/or other offerings.</p>
+<p>&nbsp;</p>
+<p>Will information be collected automatically by technology?</p>
+<p>&nbsp;</p>
+<p>We do not collect any kind of non-personally identifiable information through the use of&nbsp;cookie technology or IP numbers that track the audience. In HTML e-mails that we may&nbsp;send you, we may use technical methods for a number of purposes, including determining&nbsp;whether you have opened or forwarded those e-mails and/or clicked on links in those e-&nbsp;mails. These technical methods may enable us to collect and use information in a form&nbsp;that is personally identifiable.</p>
+<p>&nbsp;</p>
+<p>Notwithstanding any other statements or representations here or elsewhere on our site,&nbsp;Nearpod reserves its right to disclose any information in its possession if it is required to&nbsp;do so by law, or it believes, in good faith, that such a disclosure is necessary to comply&nbsp;with the law, defend its rights or property, or to respond to an emergency situation.</p>
+<p>&nbsp;</p>
+<p>How you can access, change, or delete personally identifiable information?</p>
+<p>&nbsp;</p>
+<p>You can contact us to access, change, or remove any personally identifiable information&nbsp;that we have collected from you by sending an e-mail to support@nearpod.com. Please&nbsp;include your username and e-mail address so that we can better assist you with your&nbsp;inquiry or request. Please be advised that (a) requesting the removal of or not providing&nbsp;personally identifiable information may result in the termination, removal, or blocking&nbsp;of your account, registration, and/or access to the Nearpod Materials and (b) change&nbsp;of personal information may affect your use of the Nearpod Materials including the&nbsp;correctness of any results. We reserve the right to maintain archival copies of any&nbsp;personally identifiable information you have provided to us in a manner that will not&nbsp;allow it to be publicly used or accessed. Once you request a change or removal of your&nbsp;personally identifiable information and/or your account, we can give you no assurances&nbsp;that such information or account may be retrieved or reopened in the future.</p>
+<p>&nbsp;</p>
+<p>Nothing requires us to delete, block or remove any non-personally identifiable&nbsp;information from our Nearpod Materials or our databases, or any “Submissions” you&nbsp;have made even if they contain personally identifiable information from the user in&nbsp;charge of implementing Nearpod. All such information will be treated as a “Submission”&nbsp;under the “Terms and Conditions.”</p>
+<p>&nbsp;</p>
+<p>Will there be changes to our Privacy Policy?</p>
+<p>&nbsp;</p>
+<p>We may amend our Privacy Policy at any time. We expect to amend our Privacy Policy&nbsp;from time to time as we change the registration procedure, possibly introduce or alter our&nbsp;offerings, change levels of user participation, and/or release new features. Nearpod elects&nbsp;the right in its sole discretion to remove or delete, temporarily or permanently, any and&nbsp;all information, including personally-identifiable and non-personally identifiable profile&nbsp;and registration information, Submissions (as defined in the “Terms and Conditions”),&nbsp;and any other information collected from or provided by you during and after installing&nbsp;Nearpod. Please note that, at all times, you should update your personal information to&nbsp;provide us with current e-mail addresses.</p>
+<p>&nbsp;</p>
+<p>How do you contact us?</p>
+<p>&nbsp;</p>
+<p>If you are concerned about the information you provided to Nearpod, please contact us at&nbsp;support@nearpod.com.</p>
+          <br><br>
+          <!--<div class="clientsAndPartners">
+           	<h3>Clients &amp; Partners</h3>
+            <br>
+              <ul class="logos">
+           	    
+                  
+				
+					<li><img width="95" height="87" src="http://www.nearpod.com/wp-content/uploads/2012/02/temple-copy.png" class="attachment-logoClientes wp-post-image" alt="temple copy" title="temple copy" /></li>
+               
+
+				  
+				
+					<li><img width="97" height="87" src="http://www.nearpod.com/wp-content/uploads/2012/02/pine-crest-97x87.gif" class="attachment-logoClientes wp-post-image" alt="pine-crest" title="pine-crest" /></li>
+               
+
+				  
+				
+					<li><img width="97" height="87" src="http://www.nearpod.com/wp-content/uploads/2012/02/logos_santillana-97x87.png" class="attachment-logoClientes wp-post-image" alt="logos_santillana" title="logos_santillana" /></li>
+               
+
+				  
+				
+					<li><img width="97" height="87" src="http://www.nearpod.com/wp-content/uploads/2012/02/everest-97x87.gif" class="attachment-logoClientes wp-post-image" alt="everest" title="everest" /></li>
+               
+
+				  
+				
+					<li><img width="97" height="87" src="http://www.nearpod.com/wp-content/uploads/2012/02/mc-graw-hill-97x87.gif" class="attachment-logoClientes wp-post-image" alt="mc-graw-hill" title="mc-graw-hill" /></li>
+               
+
+				  
+				
+					<li><img width="97" height="87" src="http://www.nearpod.com/wp-content/uploads/2012/02/logogris_damasio.jpg" class="attachment-logoClientes wp-post-image" alt="logogris_damasio" title="logogris_damasio" /></li>
+               
+
+				                
+              </ul>
+          </div> -->
+        </div>
+        <div class="footer">
+        	<h3>Contact Us</h3>
+            <br><br>
+          <ul>
+            	<script language="javascript" type="text/javascript" src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/js/functions.js?1.4"> </script>
+					<script>
+					$(function() {
+
+						$(document).ready(function(e) {
+                            $("#submitbutton").click(function(e){
+								var acumMsg = "";
+								if ($("#name").val() == ""){
+									acumMsg += "- Please type your First Name<br>";
+								}
+								var _email = $("#email").val();
+								if ( checkEmail(_email) == false ){
+									acumMsg += "- Please type a valid Email<br>";
+								}
+								/*if ($("#organization").val() == ""){
+									acumMsg += "- Please type your Organization<br>";
+								}
+								if ($("#country").val() == ""){
+									acumMsg += "- Please type your Country<br>";
+								}
+								if ($("#city").val() == ""){
+									acumMsg += "- Please type your City<br>";
+								}*/
+								if ($("#message").val() == ""){
+									acumMsg += "- Please type your Message<br>";
+								}
+								var num1 = $("span#num1").html();
+								var num2 = $("span#num2").html();
+								iNum1 = parseInt(num1);
+								iNum2 = parseInt(num2);
+								var sum = iNum1 + iNum2;
+								var res = $("input#res").val();
+								if (res != sum) {
+									acumMsg += "- Are you a human?<br>";
+								}
+								if (acumMsg != ""){
+									e.preventDefault();
+									$.fancybox({
+										'type'				: 'iframe',
+										'autoDimensions'	: false,
+										'width'         	: 500,
+										'height'        	: 270,
+										'transitionIn'		: 'none',
+										'transitionOut'		: 'none',
+										'href'				: 'http://www.nearpod.com/wp-content/themes/nearpod2012Theme/validationMessage.php?val='+acumMsg
+									});
+								}else{
+									e.preventDefault();
+									$("#submitbutton").attr("disabled", "disabled");
+									$('#loading').show();
+									var dataString = "";
+									dataString += 'name='+ $("#name").val();
+									dataString += '&email=' + $("#email").val();
+									dataString += '&organization=' + $("#organization").val();
+									dataString += '&country=' + $("#country").val();
+									dataString += '&city=' + $("#city").val();
+									dataString += '&message=' + $("#message").val();
+									dataString += '&toMail=' + $("#toMail").val();
+									dataString += '&toMailCC=' + $("#toMailCC").val();
+									dataString += '&mailSubject=' + $("#mailSubject").val();
+									//
+									$.ajax({
+									  type: "POST",
+									  url: "http://www.nearpod.com/wp-content/themes/nearpod2012Theme/contactSender.php",
+									  data: dataString,
+									  success: function(e){
+										$('#loading').hide();
+										$("#submitbutton").removeAttr("disabled");
+									  	$.fancybox({
+											'type'				: 'iframe',
+											'autoDimensions'	: false,
+											'width'         	: 500,
+											'height'        	: 220,
+											'transitionIn'		: 'none',
+											'transitionOut'		: 'none',
+											'href'				: 'http://www.nearpod.com/wp-content/themes/nearpod2012Theme/contactOk.php'
+										});
+									  }
+									});
+								}
+							})
+                        });
+                  });
+  				</script>
+
+                <form method="post" id="contactForm" name="contactForm">
+                                <li>
+                    <input type="text" placeholder="Name *" id="name" name="name" class="inputForm">
+                    <input type="text" placeholder="Email *" id="email" name="e-mail" class="inputForm">
+                    <input type="text" placeholder="Organization" id="organization" name="organization" class="inputForm">
+                    <input type="text" placeholder="Country" id="country" name="country" class="inputForm">
+                    <input type="text" placeholder="City/State" id="city" name="city" class="inputForm">
+                    <input type="hidden" name="toMail" id="toMail" value="support@nearpod.com">
+                    <input type="hidden" name="toMailCC" id="toMailCC" value="">
+                    <input type="hidden" name="mailSubject" id="mailSubject" value="Contact Form Nearpod">
+                    </li>
+                    <li>
+                    <textarea name="message" id="message" cols="" rows="" placeholder="Message *" class="inputForm"></textarea>
+                    <div class="captcha">
+                        <p>Human?  <span id="num1">9</span> + <span id="num2">4</span> =</p>
+                        <input type="text" id="res" name="res" class="inputForm">
+                    </div>
+                    <div class="bottom">
+						<input type="button" class="glossyButton btnSend" id="submitbutton" value="Send">
+					</div>
+                    </li>
+                </form>
+
+                
+                
+                <li class="last">
+                	<div class="data">
+                        <p class="text_help">Need <strong>help?</strong></p>
+                    	<p class="link"><a href="http://community.nearpod.com" target="_blank" title="FAQ, Ideas and feedback">FAQ, Ideas and feedback</a></p>
+                    	<p class="link"><a href="http://twitter.com/nearpodhelp" target="_blank">Twitter @nearpodhelp</a></p>
+                    	<p class="link"><a href="mailto:support@nearpod.com" target="_blank">support@nearpod.com</a></p>
+                        <!--(6327763)--><p></p>
+                    </div>
+                </li>
             </ul>
         </div>
-        <div id="headerData"><a href="mailto:info@nearpod.com">info@nearpod.com</a><br>
-        305-677-5030</div>
-    <div class="clear"></div>
-    <div id="headerText_Inner">
-	        <h1>Mobile Marketing Plataform</h1>
-            <p>Do you host interactive presentations? perform onsite data capture?, require immediate feedback? Introducing Nearpod, a powerful and flexible near marketing platform based on Apple’s highly attractive IPod touch / I phone devices.</p>
-      <div id="ipodInner"><img src="images/iPodTouch_Inner.png" width="244" height="177"> </div>
-      </div>
-    </div>  <!--End #header -->
-    
-    <div class="clear"></div>
-    
-    <div id="content">
-    	<div id="left">
-          <h1>Privacy Policy</h1>
-          <div class="divider-full"></div>
+    </div>
+    </div>
+</div>
 
-          <p><span style=" font-style:italic">Nearpod</span> is committed to protecting the privacy of our customers and Web site users. The following explains how we gather and use your information</p>
-          
-          <br><br>
-          
-          
-          
-          
-          
-          <h2>Purpose of this Privacy Policy</h2>
-          <div class="divider-full"></div>
-          
-          <p>This privacy policy describes how Nearpod treat the personally identifiable information that is collected about you when you visit our web site (<a href="http://www.nearpod.com">www.nearpod.com</a>), and the information collected on Nearpod’s  behalf to the extent we use third-party service providers to host the web site or collect information about site users. This policy may change over time. Any changes will be posted at this URL and will be effective when posted. Your use of this site constitutes your acceptance of this policy.</p>
-          
-		  <div class="clear"></div>
-          <br><br> 
-
-          
-          
-          <h2>Collection of Personally Identifiable Information</h2>
-          <div class="divider-full"></div>
-          
-          <p style="font-weight:bold"><span style=" font-style:italic; font-weight:bold">Nearpod</span> generally collects personally identifiable information with your specific knowledge and consent and only to provide you with the service you have requested.</p>
-			<br>
-          <p>“Personally identifiable information” is information that we can use to identify you as an individual. Personally identifiable information includes your name, address, telephone number and any other information that is connected with you personally For instance, when you set up an online account or subscribe to our e-newsletters, you will be asked to provide information such as your e-mail address, name, phone number, and shipping address. Information such as your age, gender, month of birth may also be requested for verification purposes.<br><br>
-            <span style=" font-style:italic">Nearpod</span> uses this information to provide you with the service you have requested. If you subscribe to our magazine, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter online form, we will use this information to contact or follow-up with you.<br><br>
-          	We might also send out periodic e-mails about subscription renewals, new services and announcements from our site. We may also use any personal information you send for marketing and promotional purposes and we may combine information we receive online with outside records to enhance our ability to market our products or those of our advertisers. You may elect to stop receiving e-mail messages or promotional mailings (other than transactional messages relating to any accounts you may have with us) by accessing your account preferences online.
-          </p>
-
-          
-		  <div class="clear"></div>
-          <br><br> 
-          
-          
-          
-          <h2>Third Party Service Providers</h2>
-          <div class="divider-full"></div>
-          
-          <p>The information you provide may be collected by third party service providers with whom Nearpod contracts to host the web site or to fulfill requests for services; in that event, Nearpod asks such service providers to make the personal information available only to <span style=" font-style:italic">Nearpod</span> for <span style=" font-style:italic">Nearpod</span> to use in accordance with the terms of this policy and not to use the information for any other purpose.<br><br>
-          	 In addition to the foregoing, <span style=" font-style:italic">Nearpod</span> may share or disclose personally identifiable information about you to other companies or individuals when:
-          </p>
-          
-          <br><br> 
-
-          
-<ul style="text-indent:-18px; margin-left: 10px; padding-top:5px">
-              <li>We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;</li>
-              <li>You have entered a contest or sweepstakes sponsored by a third party, in which case the information may be shared with that third party for their use in their discretion, including direct marketing (if you don’t want your name shared, you should not enter the contest or sweepstakes);</li>
-              <li>We need to protect our legal rights (for example, if we are trying to collect money you owe us);</li>
-              <li>We must comply with applicable laws, regulations, or legal or regulatory process; or</li>
-              <li>In connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by Nearpod.com .</li>
-          </ul>
+<!-- FIN ABOUT US -->
 
 
-		  <div class="clear"></div>
-          <br>
+         
+<script type="text/javascript" charset="utf-8">
+var is_ssl = ("https:" == document.location.protocol);
+var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
 
+<script type="text/javascript" charset="utf-8">
+var feedback_widget_options = {};
 
-          
-          <h2>Cookies</h2>
-          <div class="divider-full"></div>
-          
-          <p><span style=" font-style:italic">Nearpod</span> (or third party service providers on our behalf) may set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. <span style=" font-style:italic">Nearpod</span> uses cookies to understand site usage and to improve the content and offerings on our site. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, to record requests for subscriptions and to personalize information. <span style=" font-style:italic">Nearpod</span> (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose. Some of our advertisers may serve you cookies as well. We do not have control over cookies placed by advertisers. If you don’t want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our site may not function efficiently.</p>
-          
-		  <div class="clear"></div>
-          <br><br> 
-          
-          
-          
-          
-          <h2>IP Address</h2>
-          <div class="divider-full"></div>
-          
-          <p>Your Internet Protocol (“IP”) address is usually  associated with the place from which you enter the Internet, like your Internet  Service Provider, your company or your university. We may use your IP address  to help diagnose problems with our servers, gather broad demographic  information, and administer our website. </p>
-          <div class="clear"></div>
-          <br><br> 
-          
-          
-          
-          
-          <h2>Kids And Parents</h2>
-          <div class="divider-full"></div>
-          
-          <p>The site covered by this policy is not intended  for use by children under age 18. No one under age 18 is allowed to provide any  personal information or use our public discussion areas. Minors under the age  of 18 must get the permission of their parent(s) or legal guardian(s) before  subscribing to any magazines or services on our site. </p>
-          
-		  <div class="clear"></div>
-          <br><br> 
-          
-          
-          
-          
-          
-          <h2>Non-U.S. Users</h2>
-          <div class="divider-full"></div>
-          
-          <p>If you are located outside of the United States, please note that the  information you provide to us will be transferred to the United States. By  using this web site, you consent to this transfer. You also consent to the  adjudication of any disputes arising in connection with this website in the  federal and state courts of, and in accordance with the laws of, the state of  Florida</p>
-          
-		  <div class="clear"></div>
-          <br><br> 
-          
-          
-          
-          
-          
-          <h2>Information This Privacy Policy Does Not Apply To</h2>
-          <div class="divider-full"></div>
-          
-          <p>This privacy policy does not apply to information  collected about you by anyone except <span style=" font-style:italic">Nearpod</span> and only applies to&nbsp;<a href="http://nearpod.com">nearpod.com</a>.  Any information you provide when you visit web sites other than those covered  by this policy (including those linked from&nbsp;<a href="http://Nearpod.com">Nearpod.com</a>) or when you purchase any products or  services that may be offered or advertised on our web site by companies other  than <span style=" font-style:italic">Nearpod</span> is subject to the privacy policies  posted on those sites. </p>
-          
-		  <div class="clear"></div>
-          <br><br> 
+feedback_widget_options.display = "overlay"; feedback_widget_options.company = "nearpod"; feedback_widget_options.placement = "left"; feedback_widget_options.color = "#222"; feedback_widget_options.style = "question"; feedback_widget_options.tag = "Help"; feedback_widget_options.limit = "3"; var feedback_widget = new GSFN.feedback_widget(feedback_widget_options); </script>
 
+<!--FOOTER -->
+<div id="footer">
+	<div class="sombraFooter"></div>
+	<div class="wrapper" style="padding-bottom:10px">
 
-          
-          <h2>Changes to Privacy Policy and Notice</h2>
-          <div class="divider-full"></div>
-          
-          <p><span style=" font-style:italic">Nearpod</span> may change this policy from time to time  in its discretion. Your continued use of our site indicates your consent to  this privacy policy and any amended versions of it. </p>
-          
-		  <div class="clear"></div>
-          <br><br> 
+   	  <div class="firma">
+   	  	<a href="http://www.nearpod.com" target="_self"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/footer/logo.png" width="146" height="34"></a>
+      	<p>
+      		© 2012 Nearpod™. Nearpod Patent Pending.<br>
+        	<span style="color:#2dbbca; display:block; margin-top:10px">SUPPORT</span>
+        	<a class="support" target="_blank" href="https://twitter.com/nearpodhelp">@NearpodHelp</a>
+			<a class="support" target="_blank" href="http://community.nearpod.com/">FAQ, Ideas or Feedback?</a>
+     		<a class="support">support@nearpod.com</a>
+     	</p>
+     </div>
 
-
-          <h2>Contact Information</h2>
-          <div class="divider-full"></div>
-          
-          <p>If you have any questions about the practices of  this site, or your dealing with this web site, you can contact us at&nbsp;<a href="mailto:info@nearpod.com">info@nearpod.com</a>&nbsp;or call us at  305-677-5030.</p>
-          <p>&nbsp;</p>
-          <p>&nbsp;</p>
-          <p>This policy was last updated on February 17, 2010. </p>
-          <div class="clear"></div>
-
-          
-
-		  <div class="clear"></div>
-          <br>
-          <br>
-          <br> 
-          
-          
-                    
-          
-          <br>	
-
-          
-
-   	  </div><!-- End Div left -->
         
-  <div id="right">
-            <h2>Menu</h2>
-            <div class="divider-full" style="margin-bottom:0"></div>
-            
-            
-            <ul class="vertical-menu" style="padding-top:10px">
-              <li><a href="modules_Near_Data.html">Near Data</a></li>
-              <li><a href="modules_Near_Answers.html">Near Answers</a></li>
-              <li><a href="modules_Near_Prize.html">Near Prize</a></li>
-              <li><a href="modules_Near_Hub.html">Near Hub</a></li>
-              <li><a href="modules_Near_Metrics.html">Near Metrics</a></li>
-              <li><a href="modules_Near_Options.html">Near Options</a></li>
+        <div class="siteMap">
+        	<ul>
+            	<li>About Nearpod</li>
+                <div class="menu-about-container"><ul id="menu-about" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-41"><a href="http://www.nearpod.com/">Home</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.nearpod.com/how-it-works/">How It Works</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="http://www.nearpod.com/components/content-tool/">Components</a></li>
+<li id="menu-item-2309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2309"><a title="Schools" href="http://www.nearpod.com/school">Schools</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://www.nearpod.com/about-us/">About Us</a></li>
+</ul></div>            </ul>
+            <ul>
+            	<li>For users</li>
+                <div class="menu-users-container"><ul id="menu-users" class="menu"><li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a target="_blank" href="http://new.nearpod.com/">Log In</a></li>
+<li id="menu-item-920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-920"><a title="Upgrade" href="http://www.nearpod.com/upgrade/">Upgrade</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59"><a target="_blank" href="http://community.nearpod.com">Support</a></li>
+</ul></div>                </ul>
+            <ul>
+            	<li>Stay tuned</li>
+                <div class="menu-publishers-container"><ul id="menu-publishers" class="menu"><li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="http://www.nearpod.com/news/">Community Blog</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="http://www.nearpod.com/contact/">Contact Us</a></li>
+<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://www.nearpod.com/publishers/">For Publishers</a></li>
+<li id="menu-item-811" class="inSessionLink menu-item menu-item-type-custom menu-item-object-custom menu-item-811"><a href="#">In Session</a></li>
+</ul></div>                </ul>
+            <ul class="last">
+            	<li>Legal</li>
+                <div class="menu-contact-container"><ul id="menu-contact" class="menu"><li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-279 current_page_item menu-item-287"><a href="http://www.nearpod.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="http://www.nearpod.com/terms-conditions/">Terms &amp; Conditions</a></li>
+</ul></div>                </ul>
+        </div>
+
+        <div class="social">
+        	<ul style="margin-right:20px; float:left;">
+                <li><a href="https://www.facebook.com/nearpod" target="_blank"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/footer/social/fb.png" width="24" height="24"><p>Like us</p></a></li>
+                <li><a href="https://twitter.com/#!/nearpod" target="_blank"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/footer/social/tw.png" width="24" height="24"><p>Follow us</p></a></li>
+                <li><a href="https://plus.google.com/s/nearpod" target="_blank"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/footer/social/g+.png" width="24" height="24"><p>Find us</p></a></li>
             </ul>
-            </div>
-        
-        <div class="clear"></div>
-        
-      	<h2 style="margin-top:20px">Selected Clients</h2>
-        <div id="ourClients">
-          <div id="OurClientsImg">
-            <!--<a href="#"><img src="images/img_Logos1.png" alt="Clients 1" /></a> -->
-            <!--<a href="#"><img src="images/img_Logos2.png" alt="Clients 2" /></a>
-            <a href="#"><img src="images/img_Logos3.png" alt="Clients 3" /></a> -->
-            <script type="text/javascript">
-				AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','888','height','105','src','images/ourClients_logos','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','images/ourClients_logos' ); //end AC code
-			</script>
-            <noscript>
-            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="888" height="105">
-                  <param name="movie" value="images/ourClients_logos.swf" />
-                  <param name="quality" value="high" />
-                  <embed src="images/ourClients_logos.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="888" height="105"></embed>
-            </object>
-          	</noscript>
-          </div>
-      </div>
-		
-  </div> <!--End #content -->
-    
-    <div id="footerWrapper">
-        <div id="footer">
-        	<div id="footerLeft">
-              <h3>Company</h3>
-              <p>E-mail: <a href="mailto:info@nearpod.com">info@nearpod.com</a> <br>
-                Phone: 305-677-5030</p>
-              <div class="copyright">© copyright 2009 Nearpod LLC &nbsp;&nbsp;- &nbsp; <a href="privacy_Policy.html">Privacy Policy</a> </div>
+            <ul>
+                <li><a href="http://vimeo.com/nearpod" target="_blank"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/footer/social/vm.png" width="24" height="24"><p>Watch our videos</p></a></li>
+                <li><a href="http://www.nearpod.com/feed/"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/footer/social/rss.png" width="24" height="24"><p>Receive our news</p></a></li>
+                <li><a href="http://pinterest.com/nearpod/" target="_blank"><img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/img/footer/social/pin.png" width="24" height="24"><p>Pinterest</p></a></li>
+            </ul>
+        </div>
 
 
-               <div id="footerMiniText">
-                Nearpod is committed to protecting the privacy of our customers and Web site users.<br>
-                We won’t share this registration with a third party without your permission. This means you won’t receive emails from anyone other Nearpod as a result of registering. We generally collect your information only to provide you with the service you have requested.
-              </div>
+  		
+    </div>
+</div>
 
+<!--
+-->
 
-        	</div>
-            <div id="footerRight">
-               <h3>Quick Contact</h3>
-                <div class="form">
-                <form id="contactform" action="#" method="post" enctype="multipart/form-data" class="formfooter">
-                    <ul>						
-                        <li>
-                            <label for="name">Your Name</label>
-                            <input id="name" name="name" type="text">
-                        </li>
-                        <li>
-                            <label for="email">Your Email</label>
-                            <input id="email" name="email" type="text">
-                        </li>
-                        <li>
-                            <label for="message">Message</label>
-                            <textarea id="message" name="message" rows="5" cols="60"></textarea>
-                        </li>
-                        <li>							
-                            <input type="submit" class="submit" value="Send Now">
-                        </li>
-                    </ul>
-                </form>
-                </div><!-- END DIV FORM -->
-                <div id="footerLinks">
-                        <ul class="bottomMenu">
-                            <li><a href="index.html"><b>HOME</b></a></li>
-                          <li><a href="modules.html"><b>MODULES</b></a></li>
-                          <li class="current"><a href="about_Us.html"><b>ABOUT US</b></a></li>
-                          <li><a href="case_Studies.html"><b>CASE STUDIES</b></a></li>
-                        </ul>
+<!--FIN FOOTER -->
 
-                </div>
-            </div>
+<div id="loading" style="display:none;">
+	<img src="http://www.nearpod.com/wp-content/themes/nearpod2012Theme/images/loading.gif" title="">
+</div>
+<script type="text/javascript">
 
-      </div> <!--End #footer -->
-    </div> <!--End #footerWrapper -->
-    
-    
-</div> <!--End #wrapper -->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17597409-1']);
+  _gaq.push(['_setDomainName', 'nearpod.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 
 
