@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorityemulator.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505174252id_/http%3A//authorityemulator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorityemulator.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106113715id_/http%3A//authorityemulator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Authority Emulator
 
