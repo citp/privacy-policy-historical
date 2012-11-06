@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swissarmy.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507233122id_/http%3A//www.swissarmy.com/us/content/footer_slot_privacy_policyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissarmy.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083334id_/http%3A//www.swissarmy.com/us/content/footer_slot_privacy_policyPage) for the most accurate reproduction.*
 
 # Victorinox Swiss Army
 
@@ -56,7 +56,7 @@ We retain your information for as long as we reasonably believe that there is a 
 
 **Opt-Out Process**
 
-All unsubscribe or opt-out requests should be sent to us at [unsubscribe@swsissarmy.com](mailto:unsubscribe@swsissarmy.com) and we will process your request within a reasonable time after receipt.  However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided your information in accordance with this Privacy Policy or your consent, such as a third party company selling products to you through the Website.  You should contact such third parties directly.
+All unsubscribe or opt-out requests should be sent to us at [unsubscribe@swissarmy.com](mailto:unsubscribe@swissarmy.com) and we will process your request within a reasonable time after receipt.  However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided your information in accordance with this Privacy Policy or your consent, such as a third party company selling products to you through the Website.  You should contact such third parties directly.
 
 **Communications with Victorinox**
 
@@ -64,7 +64,7 @@ By providing your email address to us, you expressly consent to receive emails f
 
 **Terms of Use**
 
-Use of this Website is governed by, and subject to, the [ Terms of Use ](https://web.archive.org/web/20120507233122id_/http%3A//www.swissarmy.com/us/content/footer_slot_terms_and_safetyPage)  ** **
+Use of this Website is governed by, and subject to, the [ Terms of Use ](https://web.archive.org/web/20121106083334id_/http%3A//www.swissarmy.com/us/content/footer_slot_terms_and_safetyPage)  ** **
 
 **United States of America**
 
