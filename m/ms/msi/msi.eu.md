@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msi.eu privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508025026id_/http%3A//eu.msi.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msi.eu privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106043950id_/http%3A//eu.msi.com/about/privacy-policy) for the most accurate reproduction.*
 
 # MSI Europe - MSI Privacy Policy
 
