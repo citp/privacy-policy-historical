@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kall8.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235448id_/http%3A//www.kall8.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kall8.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234445id_/http%3A//www.kall8.com/privacy) for the most accurate reproduction.*
 
 # Kall8 Toll-free, Local, and International Telephone Service - Terms and Conditions
 
