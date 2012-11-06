@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverbeach.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523172009id_/http%3A//www.serverbeach.com/about-server-beach/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverbeach.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106045127id_/http%3A//www.serverbeach.com/about-server-beach/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ServerBeach
 
