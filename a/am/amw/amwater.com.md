@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508122447id_/http%3A//www.amwater.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231454id_/http%3A//www.amwater.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ From time to time, we may change our privacy practices, and this Privacy Policy,
 If you have any questions or suggestions about the Site, American Water, or our products, services, or privacy practices, please contact us at the numbers or address given below.
 
 American Water Works  
-Attn: Marketing and Advertising Department  
+Attn: Communications and External Affairs  
 1025 Laurel Oak Road  
 Voorhees, NJ 08043  
 Telephone: 856.346.8200  
