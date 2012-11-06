@@ -1,67 +1,86 @@
-> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630041014id_/http%3A//www.elfster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106095532id_/http%3A//www.elfster.com/privacy) for the most accurate reproduction.*
 
 # Elfster
 
-Elfster respects each individual user's right to privacy. Please be sure to read this Privacy Policy before using our web site or submitting information to us. Your use of this web site is subject to the terms of the Privacy Policy. This Privacy Policy is subject to change from time to time, so please check back periodically. By accessing and using our web site, and by providing us with your information, you agree to be bound by this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our site. Your continued use of our site following the posting of changes to these terms will mean you accept those changes.
 
-If you are under age 18, please review this Privacy Policy with your parents and ask them to explain about anything you do not understand. If you are under age 13, we apologize for any inconvenience as you cannot currently use our site or service. Elfster is concerned with the safety of children and will comply with Federal privacy regulations under COPPA by not collecting information from children under the age of 13.
-
-If you have questions or concerns regarding this privacy policy, please contact Elfster via the email address help@elfster.com or via postal mail at the following address:
-
-3500 S Dupont Hwy  
-Dover, DE 19901
-
-### Personal Information collected from you
-
-Elfster respects each individual user's right to privacy. Elfster collects personal information provided from users during site registration, contests, surveys or use of public areas. The personal information collected on the site includes your first and last name, email address, mailing address, mobile phone number, birthday and year, login name, password, and gender. You may also provide us photographs or other video materials, which may contain personal information. We may collect personal information when you register on, log on, or visit our Web sites, including when you participate in activities on our Web sites, such as sweepstakes, contests, games, and informational and promotional offers, and when you provide information to our customer service representatives.
-
-### Use of Personal Information we collect
-
-From time to time, we may share aggregated site traffic information with our partners and advertisers. Also, your information is visible to the person buying for you and people in your group in order to help them buy an appropriate gift and deliver that gift to you. If you come to Elfster and/or are using our services through a partnered branded site, such as the one with Claire’s Stores, we will share your data with that partner, and anyone acting on their behalf.
-
-### Information collected from technology
-
-In addition to information we ask from you specifically, our Web site also tracks some information passively. This information is collected in order to assure that our site runs smoothly, and that you have a good experience using Elfster services. When you visit our Web site, our Web server automatically recognizes the browser you are using, your IP address, the URL that referred you to our site, and all of the areas within our site that you visit. We use this information only in a general context that does not personally identify individual users but still allows us to analyze trends concerning our site and thus improve it accordingly.
-
-### Cookies
-
-Non-personal information and data may be automatically collected through the standard operation of Elfster's Internet servers (i.e. log file information like IP address) or through the use of "cookies." Cookies are small text files that our site places on your computer's hard drive to recognize repeat users and to facilitate your use of the site. Also, our cookies allow the tracking of site usage and the compilation of aggregate data for content improvement, targeted advertising, and marketing and promotional purposes.
-
-Some of our business partners use cookies on our site (for example, advertisers). Users should be aware that Elfster cannot control the use of cookies or the resulting information by advertisers or other third parties. Most browsers allow a user to deny cookies; however, users should note that cookies may be required to provide certain web site features. Also, users may opt out of receiving those cookies using a resource such as the Network Advertising Initiative ([www.networkadvertising.org](http://www.networkadvertising.org/)). The information collected in these cookies cannot be linked to personally identifiable information.
-
-### Blogs
-
-If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
-
-### Third Party Advertising
-
-Some of the ads appearing on this Web site are delivered to users by our Web advertising partners. Information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. Please understand we have no access to or control over these cookies, once we have given permission for third parties to place advertising on elfster.com.
-
-### Opt-In and Opt-Out
-
-Once registered, users who no longer wish to receive general communications may opt-out of (i.e., discontinue receiving) these communications by clicking on the unsubscribe link in the general communication email and setting their preference. We offer opt-out mechanisms in the text of each general communication email we send, and you may also contact us at the email or street address at the top of this page to opt-out. Unless otherwise stated in this policy, Elfster does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
-
-If your personally identifiable information changes (such as zip code, phone, email or postal address), or if you no longer desire our service, we provide a way to correct, update or delete/deactivate your personally identifiable information. This can be done at Elfster.com or by contacting us via  [help@elfster.com](mailto:help@elfster.com).
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law if we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order, or a legal process served on our Web site.
-
-### Security
-
-Elfster uses reasonable precautions to keep the personal information disclosed to us secure. This includes the use of fire walls, secure sockets layer encryption, and secure facilities. If an Elfster user knowingly provides personal information, such as a name or email address, in an answer or public wish list item or other public service, message or bulletin board, that user should be aware that the information provided can be collected and used by third parties. Such activities are beyond the control of Elfster.
-
-### For Children Under 18 Years Old
-
-ATTENTION KIDS: No information should be submitted to Elfster by anyone under 18 years of age without their parent's or guardian's consent. Currently, we are not accepted any registrations from Children under 13 years of age.
-
-### Changes and Updates
-
-Elfster reserves the right to make material changes this policy at any time by posting notice of the existence of a new privacy statement. If we decide to change our privacy policy, we will post a prominent notice on our homepage 30 calendar days prior to implementing the changes so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-
-### YOUR CALIFORNIA PRIVACY RIGHTS
-
-California Civil Code Section 1798.83 permits customers of the Elfster.com who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to  [help@elfster.com](mailto:help@elfster.com)  or write us:
-
-3500 S Dupont Hwy  
-Dover, DE 19901
-
-Effective Date: 11/24/09 (or for prior existing users, 30 days after posting the new policy)
+    PRIVACY POLICY
+    
+    This Privacy Policy was last updated on October 8, 2012.
+    
+    Our Policy:
+    Welcome to the web site (the “Site”) of Elfster, Inc. (“Elfster”, “we”, “us” and/or “our”). This Site is operated by Elfster and has been created to provide information about our Elfster and our social giftgiving services and related services (together with the Site, the “Services”) to our Service visitors (“you”, “your”). This Privacy Policy sets forth Elfster’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services.
+    
+    Information We Collect:
+    
+    When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below.
+    
+    Personal Data That You Provide Through the Services: 
+    We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever Elfster collects Personal Data we make an effort to provide a link to this Privacy Policy.
+    
+    By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Elfster and the authorized third parties referred to herein located in the United States.
+    
+    Other Information:
+    
+    Non-Identifiable Data:
+    When you interact with Elfster through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Elfster may store such information itself or such information may be included in databases owned and maintained by Elfster affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
+    
+    In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
+    
+    Aggregated Personal Data:
+    In an ongoing effort to better understand and serve the users of the Services, Elfster often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Elfster may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Elfster may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+    
+    Our Use of Your Personal Data and Other Information:
+    Elfster uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Elfster and its subsidiaries and affiliates (the “Elfster Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. Elfster and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+    
+    If Elfster intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+    
+    Our Disclosure of Your Personal Data and Other Information:
+    Elfster is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+    
+    Business Transfers:
+    As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
+    
+    Related Companies: 
+    We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
+    
+    Agents, Consultants and Related Third Parties: Elfster, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+    
+    Legal Requirements:
+    Elfster may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Elfster, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
+    
+    Your Choices:
+    You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.
+    
+    Exclusions:
+    This Privacy Policy does not apply to any Personal Data collected by Elfster other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to Elfster through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Elfster shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+    
+    Children:
+    Elfster does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Elfster through the Services, please contact us, and we will endeavor to delete that information from our databases.
+    
+    Links to Other Web Sites:
+    This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Elfster (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Elfster endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+    
+    Integrating Social Networking Services:
+    One of the special features of the Service is that it allows you to enable or log in to the Services via various social networking services like Facebook or Twitter (“Social Networking Service(s)”). By directly integrating these services, we make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to log into or grant us permission via the relevant Social Networking Service. When you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we will collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store and disclose your information is governed by the policies of such third parties, and Elfster shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service.
+    
+    You may also have the option of posting your Services activities to Social Networking Services when you access content through the Services (for example, you may post to Facebook that you performed an activity on the Service); you acknowledge that if you choose to use this feature, your friends, followers and subscribers on any Social Networking Services you have enabled will be able to view such activity.
+    
+    Security:
+    Elfster takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Elfster via the Internet. 
+    
+    Other Terms and Conditions:
+    Your access to and use of the Services is subject to the Terms of Use at www.elfster.com/tos.
+    
+    Changes to Elfster’s Privacy Policy:
+    The Services and our business may change from time to time. As a result, at times it may be necessary for Elfster to make changes to this Privacy Policy. Elfster reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+    
+    Access to Information; Contacting Elfster:
+    To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services.
+    
+    Please also feel free to contact us if you have any questions about Elfster’s Privacy Policy or the information practices of the Services. 
+    
+    You may contact us as follows: 
+    help@elfster.com
+    3500 S Dupont Hwy
+    Dover, DE 19901
+    (650) 353.7837
