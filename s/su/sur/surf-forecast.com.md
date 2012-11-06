@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022148id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083805id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,5 +19,3 @@ Surf-Forecast.com uses cookies to allow its visitors access their accounts witho
 Pages of Surf-Forecast.com contain banner ads and analytics tools hosted by 3rd parties, such as Google Analytics. These companies have their own privacy policies with regard to utilizing the cookies and tracking user behavior. 
 
 Surf-Forecast.com will not share the list of users' email or postal addresses with any third parties without consent of the users, with the exception of providing postal services with information required for delivery of the products ordered by the user or awarded to the user. 
-
-**Important update in the Photo Gallery:** see the swell and wind conditions at the times photos were taken. Example: ['Big at Bells Beach' by Xray](http://www.surf-forecast.com/breaks/Bells-Beach/photos/4916). Upload your photos to see what the model predicted at that time. 
