@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slickcar.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504033037id_/http%3A//www.slickcar.com/yourprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickcar.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106195942id_/http%3A//www.slickcar.com/yourprivacy.asp) for the most accurate reproduction.*
 
-# We Protect Your Privacy...
+# Slickcar.com | We Protect Your Privacy
 
 At SlickCar.com, every Customer is a **Valued Customer**. SlickCar.com wants your shopping experience to be the best and we want you to find the value, convenience and products that you're looking for. 
 
