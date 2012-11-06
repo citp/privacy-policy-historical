@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205135152id_/http%3A//www.iste.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106080816id_/https%3A//www.iste.org/privacy-policy) for the most accurate reproduction.*
 
-# ISTE | Privacy Policy
+# Privacy Policy
 
 ### ISTE Privacy Policy Notice
 
@@ -19,4 +19,4 @@ ISTE is sincerely committed to protecting the privacy of our membership, as well
 >  Fax: 541.302.3778  
 > 
 
-Please see our complete [Privacy Policy under Legal Notices](http://www.iste.org/legal-notice.aspx) for more detailed information.
+Please see our complete [Privacy Policy under Legal Notices](https://web.archive.org/legal-notice) for more detailed information.
