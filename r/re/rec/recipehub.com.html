@@ -1,429 +1,908 @@
-<!--The following is the downloaded HTML source of the recipehub.com privacy policy that was archived on 2012-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614163139id_/http%3A//www.recipehub.com/info/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recipehub.com privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106233650id_/http%3A//www.recipehub.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<script language="javascript" id="ajax" src="/info/cms/cmsfiles/ez_saucea/ajax.js"></script>
-<title>RecipeHub.com Privacy Policy</title>
-<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<!-- add your meta tags here -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <title>Privacy Policy</title>
+    <meta name="keywords" content="Privacy, cookie recipe, cooking recipe, crock pot recipe, pork chop recipe, recipe, salmon recipe, slow cooker recipe, smoothie recipe, weight watcher recipe, ">
+    <meta name="description" content="Privacy Policy for RecipeHub www.recipehub.com. Over 23,000 free recipes online now.">
+    <meta name="revisit-after" content="1 days">
+    <meta http-equiv="Content-Style-Type" content="text/css">
 
+    <link rel="shortcut icon" href="/images/recipehub.ico">
+    <link rel="apple-touch-icon" href="/images/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/touch-icon-iphone4.png">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="layout.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="http://download.recipehub.com/info/css/styles.css">
+    <!--[if IE]>
+      <link href="ie_style.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="rssbox/rssdisplaybox.css">
+    <link rel="stylesheet" type="text/css" href="rssbox/feed.css">
+    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="rssbox/virtualpaginate.js"></script>
+    <script type="text/javascript" src="rssbox/rssdisplaybox.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 
-
-
-<link href="/info/cms/cmsfiles/ez_saucea/my_layout.css" rel="stylesheet" type="text/css">
-<!--[if lte IE 7]>
-
-
-<link href="/info/cms/cmsfiles/ez_saucea/patch_my_layout.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-
-<style>
-body { 
-background: #DEC7A8 url("/info/cms/cmsimages/ez_saucea/bg4.jpg") repeat-y center; 
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px; 
+    <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_TOBTiRka26gGESopuMDUedQaLYZsIwvD7ql1oATJK2euCtDxR0-GOiYM5SqheHf4"></script>
+<script type="text/javascript" src="/gigya_wrapper.js"></script>
+<script type="text/javascript">
+var conf=
+{
+  APIKey: '2_TOBTiRka26gGESopuMDUedQaLYZsIwvD7ql1oATJK2euCtDxR0-GOiYM5SqheHf4'
+  ,enabledProviders: 'facebook,twitter,yahoo,messenger,google,myspace,aol'
 }
 
-/* ----Layout Alignment | Layout-Ausrichtung---- */
+ var login_params=
+  {
+    showTermsLink: 'false'
+    ,hideGigyaLink : true
+    ,height: 40
+    ,width: 200
+    ,containerID: 'componentDiv'
+  , redirectURL: 'http://www.recipehub.com/gigya_login.php?redirect_url=http%3A%2F%2Fwww.recipehub.com%2Fprivacy.html'
+  }
 
-#page_margins { 
-margin: 0 auto; 
+  var login_params2=
+  {
+  showTermsLink: 'false'
+  ,hideGigyaLink : true
+  ,height: 120
+  ,width: 500
+  ,UIConfig: '<config><body><controls><snbuttons buttonsize="35"></snbuttons></controls></body></config>'
+  ,autoDetectUserProviders: ''
+  ,redirectURL: 'http://www.recipehub.com/gigya_login.php?redirect_url=http%3A%2F%2Fwww.recipehub.com%2Fprivacy.html'
+  ,facepilePosition: 'none'
+  }
+
+var userLoggedIn = false;
+function checkLogin(response) {  
+  server_logged_in = false;  if ( response.errorCode == 0 ) {             
+    var u = response['user'];
+    if (u['isConnected']) {
+      userLoggedIn = true;
+    }
+    //alert(u['isConnected'] + ' ' + server_logged_in + ' ' + u['UID']);
+    if (u['isConnected'] != server_logged_in) {
+      $.ajax({
+            type: 'POST',
+            data: {ajax:1, g_uid:u['UID']},
+            url: 'http://www.recipehub.com/gigya_logout.php'
+            //success : function() {window.location.reload()}
+      });
+    }
+  }
 }
 
-/* ----Layout Properties | Layout-Eigenschaften---- */
-
-#bg {
-width: 100%;
-height: 260px;
-background: #FFF;
+function promptLogin() {
+  //$("html, body").animate({scrollTop: /*$("#header_glogin").attr("scrollHeight")*/ 0 }, 'fast');
+  gigya.services.socialize.showLoginUI(conf,login_params2);
 }
 
-#page_margins { 
-width: 959px;  
-background: none; 
-padding: 0 0 30px;
-}
+gigya.services.socialize.getUserInfo(conf,{callback:checkLogin});
+gigya.services.socialize.addEventHandlers(conf,
+  {
+    onLogout: function(eventObj) {
+      window.location.replace('http://www.recipehub.com/gigya_logout.php?redirect_url=http%3A%2F%2Fwww.recipehub.com%2Fprivacy.html');
+    }
+  }
+);
+</script>
 
-#page { 
-padding: 10px; 
-}
+              </head>
 
-#header { 
-padding: 20px 2em 0px 0px; 
-color: #000; 
-<!-- background:url("../../images/bg_header.gif") repeat-x bottom left; -->
-}
+  <body id="page1">
+    <div class="tail-top">
+      <div id="gigya-login-widgets">
+          <div id="header_glogin">
+    <div id="componentDiv"></div>
+  </div>
+  <script type="text/javascript">
+     gigya.services.socialize.showLoginUI(conf,login_params);
+  </script>
+      </div>
 
-#topnav { 
-position:static; 
-color: #aaa; 
-background: transparent; 
-display: none;
-}
+      <div id="main">
+        <div class="main-box"><!-- main-box begin -->
+          <div class="inside">
+            <!-- header -->
+            <div id="header">
+              <div class="row-1">
+                <div class="logo">
+                  <a href="/index.html"><img alt="" src="/images/rh_logo.png" class="png"></a>
+                </div>
+                <div class="search-box">
+                  <form id="search-form" style="margin:0px" action="/search.html">
+                    <input name="criteria" style="width:190px;height:17px;font-size:11px;border-color:#396C0C;border-style:solid;border-width:1px" align="absmiddle" type="text" value="">
+                    <input src="/images/search.jpg" align="absmiddle" border="0" type="image">
+                  </form>
+                </div><!-- search-box end -->
+              </div><!--/row-1-->
+              <div class="clear"> </div>
+              <script type="text/javascript"><!--
+                google_ad_client = "ca-pub-4659644490955201";
+                /* RecipeHub 728 */
+                google_ad_slot = "7671711562";
+                google_ad_width = 728;
+                google_ad_height = 90;
+                //-->
+              </script>
+              <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+ 
+              <div class="row-2"><!-- row-2 nav-box begin -->
+                <div class="nav-box">
+                  <ul class="nav">
+                    <li><a href="/index.html" class="first">home</a></li>
+                    <li><a href="/browse.html">Browse Categories</a></li>
+                    <li><a href="/news">Recipe Hubbub</a></li>
+                    <li><a href="/contact-us.html">contact</a></li>
+                  </ul>
+                </div>
+              </div> <!-- row-2 nav-box end -->
+            </div><!-- header -->
+<div id="content">
+  <div class="wrapper">
+    <div class="col-1a"> <!-- Left Column -->
+              <h4 class="ind1">Top Recipes</h4>
+        <ul class="list7">
+                    <li>
+            <div class="inner">
+              <h6><a href="s-Wine.html">Wine</a></h6>
+              <img src="/images/pic-4.jpg" alt=""><br>
+              <div class="wrapper"><a class="link2" href="s-Wine.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+                  <li>
+            <div class="inner">
+              <h6><a href="s-Caviar.html">Caviar</a></h6>
+              <img src="/images/pic-1.jpg" alt=""><br>
+              <div class="wrapper"><a class="link2" href="s-Caviar.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+                  <li>
+            <div class="inner">
+              <h6><a href="s-Cheese.html">Cheese</a></h6>
+              <img src="/images/pic-2.jpg" alt=""><br>
+              <div class="wrapper"><a class="link2" href="s-Cheese.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+                  <li>
+            <div class="inner">
+              <h6><a href="s-Bread.html">Bread</a></h6>
+              <img src="/images/pic-3.jpg" alt=""><br>
+              <div class="wrapper"><a class="link2" href="s-Bread.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+                  <li>
+            <div class="inner">
+              <h6><a href="s-Salmon.html">Salmon</a></h6>
+              <img src="/images/pic-5.jpg" alt=""><br>
+              <div class="wrapper"><a class="link2" href="s-Salmon.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+                  <li>
+            <div class="inner">
+              <h6><a href="s-Truffles.html">Truffles</a></h6>
+              <img src="/images/pic-6.jpg" alt=""><br>
+              <div class="wrapper"><a class="link2" href="s-Truffles.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+                  <li>
+            <div class="inner">
+              <h6><a href="s-Dessert.html">Dessert</a></h6>
+              <img src="/images/back-10.jpg" alt="" width="120"><br>
+              <div class="wrapper"><a class="link2" href="s-Dessert.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+                  <li>
+            <div class="inner">
+              <h6><a href="s-Stir Fry.html">Stir Fry</a></h6>
+              <img src="/images/back-11.jpg" alt="" width="120"><br>
+              <div class="wrapper"><a class="link2" href="s-Stir Fry.html"><em><b>get recipes</b></em></a></div>
+            </div>
+          </li>
+              </ul>
+          </div>
 
-#main { 
-background: #fff; 
-}
-
-#tmain {
-background: #FFF; border:1px solid tan; padding:20px; width:878px; margin: 20px 0;
-}
-
-#footer { 
-padding: 2px 2px 2px 2px; 
-color:#666; 
-background: tan; 
-border-top: 2px #B9AA91 solid; 
-clear: left;
-height: 15px;
-font-size: 10px;
-width: 918px;
-}
-
-  /*-------------------------------------------------------------------------*/
-
-  /**
-   * (en) Formatting content container
-   * (de) Formatierung der Inhalts-Container
-   *
-   */
-
-a img { 
-border:none; 
-}
-
-#logo {
-padding-left: 0px;
-}
+    <div class="col-1">
+  <div id="topcategory" class="ind1">
+      </div><!--- end topcategory --->
 
 
-.fimage {
+  <div class="ind1">
+  
+   <h3>
+	Overview Of Our Privacy Policy
+</h3>
+    <br>
+<p>
+	We supply free entertainment and utility software including recipe search software, ingredient and meal planning software and games. Our Products may include Toolbars. Our Toolbars add search functionality to your browser. They also allow one click access to news and our offers. (We refer to our software and Products throughout this agreement as our "Services"). 
+</p>
+<p>
+	We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software. 
+</p>
+<p>
+	Please read this Privacy Policy carefully so that you understand our online privacy practices regarding: 
+</p>
+<ul>
+	<li>
+		• Information we collect 
+	</li>
+	<li>
+		• How we use the information 
+	</li>
+	<li>
+		• How we share your information, if at all 
+	</li>
+	<li>
+		• Your choices 
+	</li>
+</ul><br>
+<p>
+	We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary this policy will govern. Where there is a conflict between this policy and our supplement, the supplement will govern. 
+</p>
+<p>
+	We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites’ homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+</p>
+<h3>
+	What information do we collect? 
+</h3>
+<p>
+	We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
+</p>
+<p>
+	When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously. 
+</p>
+<h3>
+	What do we use your information for? 
+</h3>
+<p>
+	Any of the information we collect from you may be used in one of the following ways: 
+</p>
+<ul>
+	<li>
+		• To personalize your experience — Your information helps us to better respond to your individual needs. 
+	</li>
+	<li>
+		• To improve our website—We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+	</li>
+</ul><br>
+<h3>
+	Do we use cookies? 
+</h3>
+<p>
+	Yes. Cookies are small files that sites and service providers may transfer to your computer's hard drive through your Web browser. They enable the site and service provider systems to recognize your browser and capture and remember certain information. You can turn off cookies in your settings at any time. 
+</p>
+<p>
+	We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+</p>
+<h3>
+	Do we disclose any information to outside parties? 
+</h3>
+<p>
+	We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other's rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+</p>
+<h3>
+	Third party links 
+</h3>
+<p>
+	Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+</p>
+<h3>
+	Opt-Out 
+</h3>
+<p>
+	We currently do not send messages to or collect data from users. If at any time we do contact you, it would only be for support reasons. If in that regard, you would like stop receiving messages or notifications, you can click on an unsubscribe link from any message we provide to no longer receive our messages. 
+</p>
+<p>
+	If you would like to be removed from our system, you can reach us via email at 
+<a href="mailto:contactus@recipehub.com">
+	contactus@recipehub.com. 
+</a>
+</p>
+<h3>
+	How Do Toolbars Affect Your Browser And Operating System? 
+</h3>
+<p>
+	Toolbars install into your Internet browser and allow you to search the Internet. If you consent to make a toolbar your default search, your Internet browser default search feature will be set and you will access search services (i) by entering queries in your browser search box; (ii) by entering queries in your browser address bar, and/or (iii) in response to misspelled, incorrectly formatted or unresolved DNS submissions in your browser address bar. 
+</p>
+<p>
+	Toolbars do not affect your operating system. Toolbars can be removed at any time. For more information regarding toolbars, please view our Terms of Service. 
+</p>
+<p>
+	If you would like to reset your browser, follow the General Toolbar Uninstall Instructions below. 
+</p>
+<h3>
+	General Toolbar Uninstall Instructions: 
+</h3>
+<p>
+	If, for any reason at all, you decide you no longer want the downloaded software or offers on your computer, you can easily uninstall them at any time. We're sorry to see you go! 
+</p>
+<p>
+	The following are general instructions regarding the software uninstallation process: 
+</p>
+<blockquote>
+	<p>
+		<b>
+			For Firefox Users 
+		</b>
+	</p>
+	<ul>
+		<li>
+			• Go to the orange "Firefox" menu located at the top left of your Firefox browser window 
+		</li>
+		<li>
+			• Select "Add-ons" to open the Add-ons Manager 
+		</li>
+		<li>
+			• Under "Extensions" click the name of the add-on that you would like to disable or remove 
+		</li>
+		<li>
+			• Select "Disable" or "Remove" 
+		</li>
+		<li>
+			• Select the "Restart Now" link to restart Firefox 
+		</li>
+		<li>
+			• That's it! You will now have successfully uninstalled the software. 
+		</li>
+	</ul><br>
+	<p>
+		<b>
+			For Windows 7 &amp; Vista Users 
+		</b>
+	</p>
+	<ul>
+		<li>
+			• Go to the "Start Menu" located at the bottom right of your screen 
+		</li>
+		<li>
+			• Select "Control Panel" 
+		</li>
+		<li>
+			• Under "Programs" click "Uninstall a Program" 
+		</li>
+		<li>
+			• Right click on the program you wish to remove, then click "Uninstall/Change" 
+		</li>
+		<li>
+			• Follow the uninstallation steps 
+		</li>
+		<li>
+			• That's it! You will now have successfully uninstalled the software. 
+		</li>
+	</ul><br>
+	<p>
+		<b>
+			For Windows XP Users 
+		</b>
+	</p>
+	<ul>
+		<li>
+			• Go to the "Start Menu" located at the bottom right of your screen 
+		</li>
+		<li>
+			• Select "Control Panel" 
+		</li>
+		<li>
+			• Click "Add or Remove Programs" 
+		</li>
+		<li>
+			• Click the program you wish to remove, then click "Remove" or "Change/Remove" 
+		</li>
+		<li>
+			• Follow the uninstallation steps 
+		</li>
+		<li>
+			• That's it! You will now have successfully uninstalled the software. 
+		</li>
+	</ul><br>
+	<p>
+		<b>
+			For Windows 95, 98, Me, NT, 2000, and XP Users In Classic View 
+		</b>
+	</p>
+	<ul>
+		<li>
+			• From the "Start Menu," select "Settings," and then "Control Panel" 
+		</li>
+		<li>
+			• Double-click the "Add/Remove Programs" icon 
+		</li>
+		<li>
+			• Select the program you wish to remove and click on the "Remove" or "Change/Remove" button 
+		</li>
+		<li>
+			• Follow the prompts to finish the uninstallation of the software 
+		</li>
+		<li>
+			• That's it! You will now have successfully uninstalled the software. 
+		</li>
+	</ul><br>
+	<p>
+		*Note: After you have uninstalled the software, certain data such as folders, files, registry keys, and cookies, may remain on your computer. We recommend that you clear your cookies after uninstalling.<br> **If for any reason you are having difficulties uninstalling your software, please reach us via email at 
+	<a href="mailto:contactus@recipehub.com">
+		contactus@recipehub.com. 
+	</a>
+	</p>
+</blockquote>
+<h3>
+	California Online Privacy Protection Act Compliance 
+</h3>
+<p>
+	Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+</p>
+<p>
+	As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account via the "Sign In" link on the top right of the home page. Then click on 'Page Settings' and then go to the 'Account' section. 
+</p>
+<h3>
+	Children's Online Privacy Protection Act Compliance 
+</h3>
+<p>
+	We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+</p>
+<h3>
+	Online Privacy Policy Only 
+</h3>
+<p>
+	This online privacy policy applies only to information collected through our website and not to information collected offline. 
+</p>
+<h3>
+	Terms &amp; Conditions 
+</h3>
+<p>
+	Please also visit our "Terms of Service" section establishing the use, disclaimers, and limitations of liability governing the use of our website at Terms Of Service. 
+</p>
+<h3>
+	Your Consent 
+</h3>
+<p>
+	By using our site, you consent to our privacy policy. 
+</p>
+<h3>
+	Changes to our Privacy Policy 
+</h3>
+<p>
+	If we decide to change our privacy policy, we will post those changes on this page. <br>This policy was last modified&nbsp; 
+	<b>
+		August 28, 2012. 
+	</b>
+</p>
+<h3>
+	Contact Us 
+</h3>
+<p>
+	If there are any questions regarding this privacy policy you may Contact Us at: 
+</p>
+<p>
+	<b>
+		RecipeHub 
+	</b>
+	<br>588 Sutter St. #551 <br>San Francisco, CA 94102 <br>(415) 649-6124 
+<a href="mailto:contactus@recipehub.com">
+	<br>contactus@recipehub.com 
+</a>
 
-}
 
-#col1 { 
-float: left; 
-width: 423px;
-padding-bottom: 25px;
-padding-top: 10px;
-}
+  </p></div><!--- End #categorylist --->
 
-#col2 { 
-display: none;
-}
+  <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-4659644490955201";
+    /* Recipehub 468 */
+    google_ad_slot = "7922195200";
+    google_ad_width = 468;
+    google_ad_height = 60;
+    //-->
+  </script>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 
-#col3 { 
-width: 459px; 
-padding: 15px 0 0 68px;
-float: left;
-}
+  <div id="recent" class="ind1">
+    <h4>Latest added</h4>
+    <div class="wrapper p3">
+              <ul class="list4 col-1">
+                      <li><a href="/23843-recipe-haitian-rice-pudding.html">Haitian Rice Pudding</a></li>
+                      <li><a href="/23619-recipe-chocolate-chip-banana-bread-pudding-with-caramel-sauce.html">Chocolate Chip Banana Bread Pudding with Caramel Sauce</a></li>
+                      <li><a href="/23432-recipe-bajan-salt-fish-cake.html">Bajan Salt Fish Cake</a></li>
+                      <li><a href="/24045-recipe-moroccan-eggs.html">Moroccan Eggs</a></li>
+                      <li><a href="/23804-recipe-ghanaian-salad.html">Ghanaian Salad</a></li>
+                      <li><a href="/24414-recipe-watermelon-juice.html">Watermelon Juice</a></li>
+                  </ul>
+                    <ul class="list4 col-2">
+                      <li><a href="/24365-recipe-thanksgiving-turkey-coating.html">Thanksgiving Turkey Coating</a></li>
+                      <li><a href="/24170-recipe-pop-tarts.html">Pop Tarts</a></li>
+                      <li><a href="/24040-recipe-monvrovian-collards-and-cabbage.html">Monvrovian Collards and Cabbage</a></li>
+                      <li><a href="/23634-recipe-coconut-bean-soup.html">Coconut Bean Soup</a></li>
+                      <li><a href="/23421-recipe-bacala-tos.html">Bacalaítos</a></li>
+                      <li><a href="/24094-recipe-oyster-soup.html">Oyster Soup</a></li>
+                  </ul>
+          </div>
 
-#col3_content { 
-padding: 0px 0px 0 0px;
-background:#edf2f8
-height: 20px;
+    <div class="wrapper">
+      <a class="link2" href="/atoz.html">
+        <em>
+          <b>read more</b>
+        </em>
+      </a>
+    </div>
+  </div><!--- end recently added --->
+</div>
+    <div class="col-2">
+      <div id="toolbarcopy">
+        <p>RecipeHub also offers a toolbar that gives food lovers convenient access to recipes, cooking tips, food news &amp; more.</p>
+      </div>
+      <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-4659644490955201";
+        /* Recipehub 300 */
+        google_ad_slot = "4020133548";
+        google_ad_width = 300;
+        google_ad_height = 250;
+        //-->
+      </script>
+      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    <div class="box alt">
+      <div class="border-top">
+        <div class="border-right">
+          <div class="border-bot">
+            <div class="border-left">
+              <div class="left-top-corner">
+                <div class="right-top-corner">
+                  <div class="right-bot-corner">
+                    <div class="left-bot-corner">
+                      <div class="inner">
+                        <h2 class="bg2">Category</h2>
+                        <!-- box1 begin -->
+                          <div class="box1">
+                            <div class="border-top">
+                              <div class="border-right">
+                                <div class="border-bot">
+                                  <div class="border-left">
+                                    <div class="left-top-corner">
+                                      <div class="right-top-corner">
+                                        <div class="right-bot-corner">
+                                          <div class="left-bot-corner">
+                                            <div class="inner">
+                                              <div class="wrapper line-ver">
+                                                <ul class="list5 col-1">
+                                                  <li>» <a href="/browse.html">All Categories Listing</a></li>
+                                                  <li>» <a href="/atoz.html">A to Z Listing</a></li>
+                                                                                                                                                            <li>» <a href="c-cheese-1.html">Cheese</a></li>
+                                                                                                          <li>» <a href="c-mixes-sauces-2.html">Mixes &amp; Sauces</a></li>
+                                                                                                          <li>» <a href="c-ethnic-3.html">Ethnic</a></li>
+                                                                                                          <li>» <a href="c-salad-4.html">Salad</a></li>
+                                                                                                          <li>» <a href="c-desserts-5.html">Desserts</a></li>
+                                                                                                          <li>» <a href="c-main-dish-6.html">Main Dish</a></li>
+                                                                                                          <li>» <a href="c-soups-7.html">Soups</a></li>
+                                                                                                          <li>» <a href="c-seafood-8.html">Seafood</a></li>
+                                                                                                          <li>» <a href="c-appetizers-snacks-9.html">Appetizers &amp; Snacks</a></li>
+                                                                                                          <li>» <a href="c-fruits-vegetables-10.html">Fruits &amp;Vegetables</a></li>
+                                                                                                          <li>» <a href="c-breakfast-brunch-11.html">Breakfast &amp; Brunch</a></li>
+                                                                                                          <li>» <a href="c-meat-poultry-12.html">Meat &amp; Poultry</a></li>
+                                                                                                          <li>» <a href="c-holidays-events-13.html">Holidays &amp; Events</a></li>
+                                                                                                          <li>» <a href="c-pasta-14.html">Pasta</a></li>
+                                                                                                          <li>» <a href="c-bbq-grilling-15.html">BBQ &amp; Grilling</a></li>
+                                                                                                          <li>» <a href="c-healthy-recipes-16.html">Healthy Recipes</a></li>
+                                                                                                          <li>» <a href="c-bread-17.html">Bread</a></li>
+                                                                                                          <li>» <a href="c-others--1.html">Others</a></li>
+                                                                                                                                                      </ul>
+                                                                                                  <ul class="list6 col-2">
+                                                                                                          <li><a href="/2623-recipe-crown-roast-of-pork-with-rice-d-orange.html">Crown Roast of Pork with Rice D'Orange</a></li>
+                                                                                                          <li><a href="/15170-recipe-vegetable-alicha.html">Vegetable Alicha</a></li>
+                                                                                                          <li><a href="/2350-recipe-creamy-bean-soup.html">Creamy Bean Soup</a></li>
+                                                                                                          <li><a href="/14150-recipe-taco-salads.html">Taco Salads</a></li>
+                                                                                                          <li><a href="/42-recipe-2-minute-souffl-au-grand-marnier-with-raspberry-cr-me-fra-che.html">2-minute Soufflé au Grand Marnier with Raspberry Crème Fraîche</a></li>
+                                                                                                          <li><a href="/4916-recipe-golden-rice-pilaf-mix.html">Golden Rice Pilaf Mix</a></li>
+                                                                                                          <li><a href="/23706-recipe-dinuguan.html">Dinuguan</a></li>
+                                                                                                          <li><a href="/9633-recipe-passover-hermit-cookies.html">Passover Hermit Cookies</a></li>
+                                                                                                          <li><a href="/12034-recipe-sarma-ii.html">Sarma II</a></li>
+                                                                                                          <li><a href="/18993-recipe-veggie-tostitos-for-the-brain-dead.html">Veggie Tostitos for the Brain Dead</a></li>
+                                                                                                      </ul>
+                                                                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <!-- box1 end -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+     <!-- box end -->
+    </div>
+  </div><!-- wrapper -->
+</div><!-- content -->
+<!-- footer -->
+      <div id="footer">
+        <ul class="footer-nav">
+          <li><a href="/index.html" class="first">home</a></li>
+          <li><a href="/browse.html">Browse Categories</a></li>
+          <li><a href="/atoz.html">Browse All Recipes</a></li>
+          <li><a href="/about-us.html">About Us</a></li>
+          <li><a href="/friends.html">Friends</a></li>
+          <li><a href="/contact-us.html">Contact</a></li>
+          <li><a href="/learn_more.html">Learn More</a>
+          </li><li><a href="/uninstall.html">Uninstall</a>
+        </li></ul>
+        RecipeHub &nbsp; ©&nbsp; 2012&nbsp; <a href="/privacy.html">Privacy Policy</a>  &nbsp;&nbsp;&nbsp; <a href="/terms.html">Terms of Use</a>
+        <p>One North Lexington, 9th Floor, White Plains, NY, 10601&nbsp;&nbsp;(415) 649-6124</p>
+       </div>
 
-}
+      </div><!-- end inside -->
+    </div><!-- end main-box -->
+  </div><!-- main end -->
+</div><!-- end tail-top -->
 
-#col1_content { 
-padding: 0 42px 0 20px;
-border-right: 1px solid #B9AA91;
-height: auto;
-width: 392px;
-}
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17338967-2']);
+  _gaq.push(['_trackPageview']);
 
-#teasep {
-margin-top: 0px;
-margin-left: 0px;
-float: right;
-}
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<style type="text/css">
 
-#pcopy {
-padding-top: 16px;
-color: #5D402E;
-margin-left: 10px;
-font-weight: normal;
-font-family: georgia;
-font-size: 17px;
-height: auto;
-}
+  .backdrop
+  {
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    background:#000;
+    z-index:1100;
+    opacity: .0;
+    display:none;
+  }
 
-#copycopy {
-padding-top: 10px;
-}
 
-#tcol1 {
-float: left;
-width: 449px;
-padding-left: 24px;
-}
+  .lightbox
+  {
+    z-index: 1101;
+    position:fixed;
+    top:40%;
+    left:20%;
+    background: url("images/muffin_lightbox_bg.jpg") no-repeat scroll center top #000000;
+    height: 254px;
+    /*margin: 300px auto 0px;*/
+    padding: 0;
+    width: 710px;
+    
+    display:none;
+  }
 
-#container {
-height: auto;
-}
+  .close
+  {
+    float:right;
+    margin-right:6px;
+    cursor:pointer;
+  }
 
-#topname {
-font-family: georgia;
-font-size: 12px;
-font-weight: bold;
-padding: 10px 0 2px 19px;
-color: #48190B;
-}
+  .lightbox h1 {
+    color: #942254;
+    font-family: Georgia,Times,serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 22px 0 0 30px;
+  }
 
-#topbox {
-background: url(/info/cms/cmsimages/ez_saucea/topbox.png) no-repeat; 
-height: 39px;
-padding: 10px 10px 0px 20px;
 
-}
 
-#tophead {
+  #content_left {
+    width: 465px;
+    height: 254px;
+    float: left;
+  }
 
-}
+  #text_area {
+    margin: 21px 0 0 45px;
+  }
 
-#midbox {
-background: url(/info/cms/cmsimages/ez_saucea/boxback.png) repeat-y; 
-padding: 5px 70px 5px 30px;
-}
+  #text_area p {
+    color: #ffffff;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0 0 5px 0;
+    width: 325px;
+  }
 
-#bottombox {
-background: url(/info/cms/cmsimages/ez_saucea/boxbot.png) no-repeat;
-height: 17px; 
-}
+  #text_area p a {
+    color: #ffffff;
+  }
 
-#tcol2 {
-width: auto;
-margin: 0 0 0 50%;
-}
+  #close_btn {
+    position: absolute;
+    right: -14px;
+    top: -14px;
+  }
 
-#tcol3 {
-height: auto;
-}
+  #close_btn a {
+    border: none;
+  }
 
-#tcol1_content {
-padding: 0 10px 0 0px;
-width: 419px;
-height: 312px;
-background: #edf2f8 no-repeat; 
-}
+  #close_btn img {
+    border: none;
+  }
 
-#tcol3_content {
-width: 448px;
-height: 312px;
-padding: 0px 0px 0 0px;
-background: #edf2f8 url(/info/cms/cmsimages/ez_saucea/hpic2.jpg) no-repeat; 
-float: left;
-}
+  #content_right {
+    float: left;
+  }
 
-#thead {
-padding-top: 0px;
-}
+  #facebook_info h2 {
+    color: #942254;
+    font-family: "helvetica neue",helvetica,arial,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    margin: 10px 0 0 11px;
+  }
 
-#dbutton {
-padding: 20px 0 0 45px;
-width: 380px;
-}
+  .social_sm_title {
+    font-weight: normal;
+    font-size: 13px; 
+  }
 
-#col1_bott {
-padding: 10px 0px 0px 5px;
-}
+  #facebook_btn {
+    margin: 6px 0 0 11px;
+    padding: 0;
+  }
 
-#bcontainer {
-width: 400px;
-height: 75px;
-}
+  #google_plus_info h2 {
+    color: #942254;
+    font-family: "helvetica neue",helvetica,arial,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    margin: 10px 0 0 11px;
+    /* IE7 styles */
+    *margin: 30px 0 0 11px;
+  }
 
-#tbutton {
-float: left;
-}
+  #google_plus_btn {
+    margin: 5px 0 0 11px;
+    padding: 0;
+  }
 
-#btext {
-width: 141px;
-margin-left: 245px;
-padding-top: 10px;
-}
+  #content_right p {
+    color: #FFFFFF;
+    font-family: "helvetica neue",helvetica,arial,sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    width: 212px;
+    margin: 20px 0 0 0;
+    *margin: 50px 0 0 0; /* IE 7 Style */
+  }
 
-  /*-------------------------------------------------------------------------*/
-
-h1 {
-font-family: georgia;
-font-weight: normal;
-font-size: 42px;
-margin-top: 1px;
-margin-bottom: 1px;
-padding-top: 1px;
-padding-bottom: 1px;
-}
-
-h2 {
-font-family: arial;
-font-weight: bold;
-font-size: 15pt;
-color: orange;
-margin-top: 8px;
-margin-bottom: 0px;
-margin-left: 4px;
-}
-
-h3 {
-font-family: arial;
-font-weight: normal;
-font-size: 17px;
-color: #6D6D6D;
-margin-top: 1px;
-margin-bottom: 1px;
-padding-top: 1px;
-padding-bottom: 1px;
-}
-
-h4 {
-font-family: georgia;
-font-size: 11px;
-color: #3F1D0B;
-margin-top: 0px;
-margin-bottom: 0px;
-}
-
-h6 {
-padding-top: 1px;
-padding-bottom: 1px;
-margin-top: 1px;
-margin-bottom: 1px;
-font-weight: normal;
-font-size: 9px;
-font-family: arial;
-color: ##6D6D6D;
-}
-
-h5 {
-margin-top: 0px;
-margin-bottom: 0px;
-background-color: #F9F7F2;
-width: 370px;
-padding: 1px 1px 1px 5px;
-border-left: 5px solid orange;
-}
-
-#p {
-font-family: arial;
-font-size: 11px;
-color: dark gray;
-margin-top: 3px;
-}
-
-#pcopy p {
-margin-bottom: 10px;
-margin-top: 0px;
-}
-
-#midbox h2 {
-font-family: arial;
-font-weight: bold;
-font-size: 12pt;
-color: orange;
-margin-top: 4px;
-margin-bottom: 8px;
-margin-left: 0px;
-}
-
-#midbox #featureList, #featureList li {
--x-system-font: none;
-color: #5D402E;
-font-family: georgia;
-font-size: 13px;
-font-size-adjust: none;
-font-stretch: normal;
-font-style: normal;
-font-variant: normal;
-font-weight: normal;
-line-height: 14px;
-margin: 0 0 0 45px;
-padding: 5px 0 5px 0px;
-}
-
-/* ----LIST Properties---- */
-
-element.style {
-list-style-image: url(/info/cms/cmsimages/ez_saucea/arrow.png);
-} 
-
-#featureList, #featureList li {
--x-system-font: none;
-color: #5D402E;
-font-family: georgia;
-font-size: 13px;
-font-size-adjust: none;
-font-stretch: normal;
-font-style: normal;
-font-variant: normal;
-font-weight: normal;
-line-height: 14px;
-margin: 0 0 0 25px;
-padding: 5px 0 5px 0px;
-}
-
-#teasep img {
-border: 3px solid #B9AA91;
-} 
-
-#midbox h1 {
-font-size: 16px;
-font-weight: bold;
-color: darkred;
-}
-p, ul, li, ol{ font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#333; line-height:1.3em; margin:5px 0;}
 </style>
 
-</head>
-<body>
-
-
-
-<div id="bg">
-
-
-
-  <div id="page_margins">
-
-    <div id="page">
-
-<!-- being HEADER -->
-      <div id="header">
-    <div id="logo">
-    <img src="/images/rh_logo.png">
-    </div>
-    <!--  <div class="fimage"> <img src="/info/cms/cmsimages/ez_saucea/fork.jpg" />  -->  </div>
-      </div>
-<!-- end HEADER -->
-
-
-<div id="pagecontainer">
-<div id="tmain">
-
-<h3><b>Privacy Policy</b></h3>
-<p>&nbsp;</p>
-<p style="line-height: normal;">Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.</p>
-<p><b>1. </b> Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</p>
-<p><b>2. </b>We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.</p>
-<p><b>3. </b>We will only retain personal information as long as necessary for the fulfillment of those purposes.</p>
-<p><b>4. </b>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</p>
-<p><b>5. </b>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</p>
-<p><b>6. </b>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</p>
-<p><b>7. </b>We will make readily available to customers information about our policies and practices relating to the management of personal information.</p>
-<p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have problem related privacy issues, please contact us through email at <a href="mailto:webmaster@recipehub.com">webmaster@recipehub.com</a>. We are committed to resolving any issues in a timely manner.</p>
-<p><b>Conditions of Use </b></p>
-<p>By using and accessing recipehub.com you are agreeing to the Online Privacy Policy set forth. As our business changes and grows, we may change the privacy policy. Any changes will be posted on our site. Please check back often for any updates.</p></div>
-
-<!-- begin FOOTER -->
-      <div id="footer"> <div style="text-align: center;" class="disclaimer"><a href="/info/terms.php" target="_blank">Terms and Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RecipeHub.com ©2009. All Rights Reserved&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/info/privacy.php" target="_blank">Privacy Policy</a></div>      </div>
-<!-- end FOOTER -->
-
+<script type="text/javascript">
+ 			
+  $(document).ready(function(){
+			
+    var str = document.URL
+	
+    if(str.match(/thanks=1$/)){
+      lightbox();
+    }
+                                
+    $('#close_btn').click(function(){
+      close_box();
+    });
+ 
+    $('.backdrop').click(function(){
+      close_box();
+    });
+    
+  });
+ 			
+  function lightbox(){
+    $('.backdrop, .lightbox').animate({'opacity':'.50'}, 300, 'linear');
+    $('.lightbox').animate({'opacity':'1.00'}, 300, 'linear');
+    $('.lightbox, .backdrop, ').css('display', 'block');
+  }
+ 			
+  function close_box()
+  {
+    $('.backdrop, .lightbox').animate({'opacity':'0'}, 300, 'linear', function(){
+      $('.backdrop, .lightbox').css('display', 'none');
+    });
+  }
+ 
+</script>
+<div class="backdrop">
 </div>
-
-    </div>
-  </div>
-
-
+<div class="lightbox">
+	<div class="container">
+		<div id="content_left">
+			<h1>
+				Bon Appetit!
+			</h1>
+			<div id="text_area">
+				<p>
+					Thank you for downloading! RecipeHub appreciates your continued support.
+				</p>
+				<p>
+					Hungry for more delicious, quick &amp; easy recipes? Check out the latest FREE recipes, cooking tips &amp; more at RecipeHub.com.
+				</p>
+				<p>
+					We welcome any feedback! If you have questions, compliments or comments, please 
+					<a href="http://www.recipehub.com/contact-us.html">
+						Contact Us
+					</a>
+					.
+				</p>
+			</div>
+<!-- end text-area -->
+		</div>
+<!-- end content_left -->
+		<div id="content_right">
+			<div id="close_btn">
+				<a href="#">
+					<img src="images/lightbox_btn.png" alt="lightbox button">
+				</a>
+			</div>
+<!-- end close_btn -->
+			<div id="facebook_info">
+				<h2>
+					RecipeHub 
+					<span class="social_sm_title">
+						on Facebook
+					</span>
+				</h2>
+				<div id="facebook_btn">
+					<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.recipehub.com&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true">
+					</iframe>
+				</div>
+<!-- end facebook_btn -->
+			</div>
+<!-- end facebook_info -->
+			<div id="google_plus_info">
+				<h2>
+					RecipeHub 
+					<span class="social_sm_title">
+						on Google
+					</span>
+				</h2>
+<!-- Place this tag where you want the +1 button to render. -->
+				<div id="google_plus_btn">
+					<div class="g-plusone" data-size="medium">
+					</div>
+				</div>
+<!-- end google_plus_btn -->
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+              (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+            </script> 
+			</div>
+<!-- end google_plus_info -->
+			<p>
+				Connect with us on Facebook and Google+ to get instant updates, free recipes, exclusive offers &amp; more.
+			</p>
+		</div>
+<!-- end content_right -->
+	</div>
+<!-- end content container -->
+</div>
 
 
 
