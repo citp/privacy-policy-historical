@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the uk-babes.co.uk privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112161701id_/http%3A//app2.uk-babes.co.uk/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-babes.co.uk privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106232533id_/http%3A//app2.uk-babes.co.uk/help/privacy.cfm) for the most accurate reproduction.*
 
 # UK Babes :: Privacy Policy
 
 ## UK Babes Member Privacy Policy
 
-_Last updated on Wednesday 3rd March, 2010_
+_Last updated on Tuesday 6th November, 2012_
 
 ### Proprietor
 
-For the purposes of the Data Protection Act 1998 we confirm that the proprietor and operator of the UK Babes website at http://www.uk-babes.co.uk/adult (the "Website") and the dating and networking service offered via the site (the "Service") is Global Personals Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG ("we," "us," "our" or "Global Personals"). Global Personals can be contacted via the contact section on the Website or by writing to our registered address.
+For the purposes of the Data Protection Act 1998 we confirm that the proprietor and operator of the UK Babes website at http://www.uk-babes.co.uk (the "Website") and the dating and networking service offered via the site (the "Service") is Global Personals Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG ("we," "us," "our" or "Global Personals"). Global Personals can be contacted via the contact section on the Website or by writing to our registered address.
 
 Global Personals respects the privacy of each user accessing the Website ("you," "your") and is committed to protecting your privacy. Global Personals has structured the Website so that, in general, it is necessary to provide log-in information and identify yourself to access the Website. Global Personals ensures that any personal information provided by you to Global Personals will be processed in accordance with the eight principles of the Data Protection Act 1998 and the Privacy Policy set out below. The Website is registered with the Information Commissioner in accordance with the Data Protection Act 1998.
 
