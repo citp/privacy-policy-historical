@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115140214id_/http%3A//www.themennonite.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106100622id_/http%3A//www.themennonite.org/privacy_policy) for the most accurate reproduction.*
 
 # The Mennonite
 
