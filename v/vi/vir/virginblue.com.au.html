@@ -1,63 +1,250 @@
-<!--The following is the downloaded HTML source of the virginblue.com.au privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531052213id_/http%3A//www.virginaustralia.com/au/en/about-us/legal-policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virginblue.com.au privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106024409id_/http%3A//www.virginaustralia.com/us/en/about-us/legal-policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
+	<title>Privacy | Virgin Australia
+</title>
+	<meta name="keywords" content="">
+  		<meta name="description" content="">
+ 	 <meta name="robots" content="">
+  <meta name="title" content="">
 	
 
 
 
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=252925428078207"></script><script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+	
+<script type="text/javascript">
+var VAUS_doubleclick = {
+
+	setTargets: function() {
+		var that = VAUS_doubleclick;
+		that.member.setTargets();
+		that.search.setTargets();
+	},
+
+	member: {
+		targetkeys: [
+	   		{doubleclick: 'status', cookie: 'dc1'},
+	   		{doubleclick: 'title', cookie: 'title'},
+	   		{doubleclick: 'gender', cookie: 'dc2'},
+	   		{doubleclick: 'addressState', cookie: 'dc3'},
+	   		{doubleclick: 'addressPostcode', cookie: 'dc4'},
+	   		{doubleclick: 'currentAge', cookie: 'dc5'},
+	   		{doubleclick: 'loungeMember', cookie: 'dc6'},
+	   		{doubleclick: 'loyaltyTier', cookie: 'loyaltyTier'},
+	   		{doubleclick: 'loyaltyPoints', cookie: 'dc7'},
+	   		{doubleclick: 'residentCountry', cookie: 'dc8'},
+	   		{doubleclick: 'competitorTier', cookie: 'dc9'},
+	   		{doubleclick: 'channel', cookie: 'dc11'},
+	   		{doubleclick: 'company', cookie: 'dc12'},
+	   		{doubleclick: 'statusCredits', cookie: 'dc13'},
+	   		{doubleclick: 'statusCreditsSinceLastReview', cookie: 'dc14'},
+	   		{doubleclick: 'statusPreviousTier', cookie: 'dc15'},
+	   		{doubleclick: 'loyaltyTierType', cookie: 'dc16'},
+	   		{doubleclick: 'eligibleSectors', cookie: 'dc17'},
+	   		{doubleclick: 'eligibleSectorsSinceLastReview', cookie: 'dc18'},
+	   		{doubleclick: 'favouriteDestination', cookie: 'dc19'}],
+
+	   	setTargets: function() {
+			var that = VAUS_doubleclick.member;
+			var common = VAUS_doubleclick.common;
+			
+			var cookieTargetsRaw = common.readCookie('velocityRemember');
+			if(cookieTargetsRaw === null) {
+				return;
+			}
+			
+			var cookieTarget = that.parseJson(cookieTargetsRaw);
+			if(cookieTarget === null) {
+				return;
+			}
+			
+			that.setTargetsToDoubleclick(cookieTarget);
+		},
+		
+		parseJson: function(json) {
+			if(json === null) {
+				return null;
+			}
+			try {
+				return JSON.parse(JSON.parse(json));
+			} catch(e) {
+				return null;
+			}
+		},
+
+		setTargetsToDoubleclick: function(cookieTargets) {
+			var that = VAUS_doubleclick.member;
+			var common = VAUS_doubleclick.common;
+
+			if(typeof cookieTargets === 'object') {
+				for(var i=0; i<that.targetkeys.length; ++i ) {
+					var targetkey =  that.targetkeys[i];
+					common.setTargetToDoubleclick(targetkey.doubleclick, cookieTargets[targetkey.cookie]);
+				}
+			}
+		}
+	},
+
+	search: {
+		targetsearches : [
+			{doubleclick: 'searchOrigin',  regex: /^.*origin%3D([A-Z]{3}).*$/ },
+			{doubleclick: 'searchDestination',  regex: /^.*destination%3D([A-Z]{3}).*$/ }],
+
+		searchcookies : [
+			{name: 'bookingsearchformdata-0', suffix: '1'},
+			{name: 'bookingsearchformdata-1', suffix: '2'},
+			{name: 'bookingsearchformdata-2', suffix: '3'}],
+			
+		setTargets: function() {
+			var that=VAUS_doubleclick.search;
+			for(var i=0; i<that.searchcookies.length; ++i) {
+				that.setTargetForCookie(that.searchcookies[i]);
+			}
+		},
+
+		setTargetForCookie: function(searchcookie) {
+			var that = VAUS_doubleclick.search;
+			var common = VAUS_doubleclick.common;
+			
+			var cookieRaw = common.readCookie(searchcookie.name);
+			if(cookieRaw) {
+				for(var i=0; i<that.targetsearches.length; ++i) {
+					var regexResult = that.targetsearches[i].regex.exec(cookieRaw);
+					if (regexResult !== null) {
+						common.setTargetToDoubleclick(
+							that.targetsearches[i].doubleclick + searchcookie.suffix,
+							regexResult[1]
+						);
+					}
+				}
+			}
+		}
+	},
+
+	common: {
+		setTargetToDoubleclick: function(targetKey, targetValue) {
+			if(typeof targetValue ==='undefined') {
+				return;
+			}
+			
+			if(typeof targetValue === 'number') {
+				googletag.pubads().setTargeting(targetKey, targetValue.toString());
+			} else {
+				googletag.pubads().setTargeting(targetKey, targetValue);
+			} 
+		},
+
+		readCookie: function(name) {
+			var nameeq = name + "=";
+			var cookies = document.cookie.split(';');
+			for(var i=0; i<cookies.length; i++) {
+				var cookie = cookies[i];
+				while (cookie.charAt(0) == ' ') {
+					cookie = cookie.substring(1, cookie.length);
+				}
+				if (cookie.indexOf(nameeq) == 0) {
+					return cookie.substring(nameeq.length, cookie.length);
+				}
+			}
+			return null;
+		}
+	}
+};
+</script>
 
 
-
+	<script type="text/javascript">
+		
+			googletag.defineSlot('/6314/virginaustralia-homepage/VEL-LOG-IN', [414, 130], 'div-gpt-ad-1351214008311-0').addService(googletag.pubads());
+		
+			googletag.defineSlot('/6314/virginaustralia-homepage/FOOTER/0', [300, 250], 'div-gpt-ad-1347348083600-0').addService(googletag.pubads());
+		
+			googletag.defineSlot('/6314/virginaustralia-homepage/FOOTER/1', [300, 250], 'div-gpt-ad-1349232439269-0').addService(googletag.pubads());
+			    
+	    googletag.pubads().enableSyncRendering();
+	    googletag.pubads().enableSingleRequest();
+	    googletag.enableServices();		
+	    VAUS_doubleclick.setTargets();
+	    
+	    	googletag.pubads().setTargeting('pos', 'us');
+	    	googletag.pubads().setTargeting('lang', 'en');
+	    
+	</script>
 
 
  
-	<link rel="stylesheet" type="text/css" href="/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_fonts.css?v1.15.2=">
-	<link rel="stylesheet" type="text/css" href="/css/application-min.css?v1.15.2=">
-	<!--[if IE]>
-	<link rel="stylesheet" type="text/css" href="/css/ie.css?v1.15.2="/>
-	<![endif]-->
-	<!--[if IE 6]>
-	<link rel="stylesheet" type="text/css" href="/css/ie6.css?v1.15.2="/>
-	<![endif]-->
-	<!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="/css/ie7.css?v1.15.2="/>
-	<![endif]-->
-	<!--[if IE 8]>
-	<link rel="stylesheet" type="text/css" href="/css/ie8.css?v1.15.2="/>
-	<![endif]-->
-	<meta property="og:title" content="Virgin Australia">
+	<link rel="stylesheet" type="text/css" href="http://css.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_fonts.css?v2.5.3=">
+	
+	<link rel="stylesheet" type="text/css" href="http://css.virginaustralia.com/css/application-min.css?v2.5.3=">
+
+
+
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://css.virginaustralia.com/css/ie.css?v2.5.3="/>
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://css.virginaustralia.com/css/ie6.css?v2.5.3="/>
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://css.virginaustralia.com/css/ie7.css?v2.5.3="/>
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="http://css.virginaustralia.com/css/ie8.css?v2.5.3="/>
+<![endif]-->
+	
+	<script type="text/javascript" src="http://js.virginaustralia.com/js/jquery-min.js?v2.5.3="></script>
+
+
+
+	
+
+	
+
+
+	
+	<meta property="og:title" content="Privacy | Virgin Australia
+">
 	<meta property="og:type" content="Company">
-	<meta property="og:url" content="http://www.virginaustralia.com/au/en/about-us/legal-policies/privacy/">
+	<meta property="og:url" content="http://www.virginaustralia.com/us/en/about-us/legal-policies/privacy/">
 	<meta property="og:image" content="http://www.virginaustralia.com/cms/fragments/vbe_frag_header/images/va_Icon-Small_2x.png">
 	<meta property="og:site_name" content="Virgin Australia">
-	<meta property="fb:page_id" content="94622926989">
 	<meta property="fb:app_id" content="153299558076800">
 	<link rel="image_src" href="http://www.virginaustralia.com/cms/fragments/vbe_frag_header/images/va_Icon-Small_2x.png">
-<link rel="alternate" href="/ae/en/about-us/legal-policies/privacy/" hreflang="en-ae">
-<link rel="canonical" href="/au/en/about-us/legal-policies/privacy/">
-<link rel="alternate" href="/eu/en/about-us/legal-policies/privacy/" hreflang="en-eu">
-<link rel="alternate" href="/nz/en/about-us/legal-policies/privacy/" hreflang="en-nz">
-<link rel="alternate" href="/ws/en/about-us/legal-policies/privacy/" hreflang="en-ws">
-<link rel="alternate" href="/uk/en/about-us/legal-policies/privacy/" hreflang="en-uk">
-<link rel="alternate" href="/us/en/about-us/legal-policies/privacy/" hreflang="en-us">
+	<link rel="canonical" href="http://www.virginaustralia.com/us/en/about-us/legal-policies/privacy/">
+<link rel="alternate" href="http://www.virginaustralia.com/ae/en/about-us/legal-policies/privacy/" hreflang="en-ae">
+<link rel="alternate" href="http://www.virginaustralia.com/au/en/about-us/legal-policies/privacy/" hreflang="en-au">
+<link rel="alternate" href="http://www.virginaustralia.com/eu/en/about-us/legal-policies/privacy/" hreflang="en-de">
+<link rel="alternate" href="http://www.virginaustralia.com/nz/en/about-us/legal-policies/privacy/" hreflang="en-nz">
+<link rel="alternate" href="http://www.virginaustralia.com/ws/en/about-us/legal-policies/privacy/" hreflang="en-ws">
+<link rel="alternate" href="http://www.virginaustralia.com/uk/en/about-us/legal-policies/privacy/" hreflang="en-gb">
+<link rel="alternate" href="http://www.virginaustralia.com/us/en/about-us/legal-policies/privacy/" hreflang="en-us">
 
-	<title>Privacy | Virgin Australia
-</title>
-  <meta name="keywords" content="">
-  	<meta name="description" content="">
-  <meta name="robots" content="">
-  <meta name="title" content="">
 </head>
-	<body data-widgetclass="BodySetup" data-usessl="true">
+	<body class="generic-body" data-usessl="true">
 <noscript>
+	
+									
 	<div id="warning-banner">
 		<div class="warning-inner ui-helper-clearfix">
 			<p>We have detected that your browser is not JavaScript 1.5 enabled. As a result the site may not display as designed. To enable JavaScript follow these steps on <a href="../../../information/enable-java-script/">how to enable JavaScript</a> to the browser you are using.&nbsp;</p>
 		</div>
 	</div>
+					
+	
 		</noscript>
+	
+									
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -68,6 +255,15 @@
 	
 	
 		
+	
+	
+	
+	
+	
+					
+	
+		
+
 
 
 
@@ -77,97 +273,230 @@
 
 
 	<!-- Start Main Body --> 
-	<div id="bodyWide" class="outer">
+	<div id="bodyWide" class="outer-velocity">
 		<!--start bodyCenter-->
 		<div id="bodyCenter">
 			<div id="bodyMain">
-				<div class="mboxDefault" style="visibility: visible; display: block;"></div>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=252925428078207"></script><script type="text/javascript" src="/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+				<div class="mboxDefault"></div>
+<script type="text/javascript" src="http://js.virginaustralia.com/js/mbox.js?v2.5.3="></script>
 <script type="text/javascript">
 var mboxSiteSection = 'virginaus:site-section:legal-policies';
 if (mboxSiteSection != '') {
     mboxCreate(mboxSiteSection);
 }
-</script><div id="mboxMarker-default-virginaus:site-section:legal-policies-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://dollarthriftyautomot.tt.omtrdc.net/m2/dollarthriftyautomot/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1582532396527-668767&amp;mboxPage=1582532396527-668767&amp;mboxCount=1&amp;mbox=virginaus%3Asite-section%3Alegal-policies&amp;mboxId=0&amp;mboxTime=1582532396528&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120531052213id_%2Fhttp%253A%2F%2Fwww.virginaustralia.com%2Fau%2Fen%2Fabout-us%2Flegal-policies%2Fprivacy&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
-<div id="header">
+</script>
+<div id="header-velocity">
 	<div id="site_logo"> 
-	<a href="../../../"><img src="/cs/groups/internetasset/@wc/documents/webasset/~edisp/img_header_logo.gif" alt="img_header_logo.gif"></a>
-	</div>
-	<div class="shortcut">
-		<a href="#main-content" tabindex="2">Skip to content</a>
+	
+				
+									
+	<a href="../../../"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/img_header_logo.gif?v2.5.3=" alt="Virgin Australia"></a>
+					
+	
 	</div>
 	<div id="header_right">
-			<div class="header-functions">
-				<div id="location">
-		<form id="pos-form" data-widgetclass="PosSelect" data-listenevents="meganavOver">
-<label for="pos-selector">It looks like you're in</label>
-<select id="pos-selector" class="pos-selector" name="pos-selector">
-	<option data-flagimage="<img src=&quot;/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/au-flag-pos.gif&quot; alt=&quot;au-flag-pos&quot;/>" value="/au/en/about-us/legal-policies/privacy/" selected="selected">Australia</option>
-	<option data-flagimage="<img src=&quot;/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/eu-flag-pos.gif&quot; alt=&quot;eu-flag-pos&quot;/>" value="/eu/en/about-us/legal-policies/privacy/">Europe</option>
-	<option data-flagimage="<img src=&quot;/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/nz-flag-pos.gif&quot; alt=&quot;nz-flag-pos&quot;/>" value="/nz/en/about-us/legal-policies/privacy/">New Zealand</option>
-	<option data-flagimage="<img src=&quot;/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/ws-flag-pos.gif&quot; alt=&quot;ws-flag-pos&quot;/>" value="/ws/en/about-us/legal-policies/privacy/">Samoa</option>
-	<option data-flagimage="<img src=&quot;/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/uk-flag-pos.gif&quot; alt=&quot;uk-flag-pos&quot;/>" value="/uk/en/about-us/legal-policies/privacy/">United Kingdom</option>
-	<option data-flagimage="<img src=&quot;/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/usa-flag-pos.gif&quot; alt=&quot;usa-flag-pos&quot;/>" value="/us/en/about-us/legal-policies/privacy/">United States</option>
-	<option data-flagimage="<img src=&quot;/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/ae-flag-pos.gif&quot; alt=&quot;ae-flag-pos&quot;/>" value="/ae/en/about-us/legal-policies/privacy/">United Arab Emirates</option>
-</select>
-</form>
-</div>
-				<div class="header-buttons">
-					<!-- ***************** Velocity Button *****************  -->
-<div class="ui-button" data-widgetclass="VelocityFlyoutToggle" data-velocityflyouttoggle="{&quot;logoutText&quot;: &quot;Velocity Log Out&quot;}"><span class="ui-button-text">Velocity Login</span></div>
-<!-- ***************** Search Button *****************  -->
-<a href="../../../help/search-results/" data-widgetclass="SearchFlyoutToggle" class="ui-button"><span class="search-button ui-button-text">Search</span></a>
-<!-- ***************** Contact Us Button *****************  -->
-<a href="../../../help/contact-us/" class="ui-button"><span class="ui-button-text">Contact Us</span></a>
-	
+		<div class="header-functions">
+			<ul>
+				<!-- ***************** POS Selector *****************  -->
+				<li>
+					<div id="location">
+		
 
+<form id="pos-form" data-listenevents="meganavOver">
 
+	<div id="current-pos" data-widgetclass="PosSelectVelocityTrigger">
+		<div class="country">
+			<a>
+				
+				
+				
+				
+				
+				<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046842.gif?v2.5.3=" alt="toolbar_flag_us.gif"> United States
+				
+			</a>
+		</div>
+		<div class="select-arrow inactive"></div>
+	</div>
 
-<form method="post" action="https://www.virginaustralia.com/velocity/login.submit" id="flyout-velocity-login" class="hide form-velocity-login" data-widgetclass="VelocityLogin">
-	<div class="logo"><img src="/images/velocity-login/velocity-login_logo.gif" alt="Velocity Frequent Flyer"></div>
-	
-
-		<fieldset>
-			<input type="text" id="velocity-flyout-number" name="customerId" value="" class="ui-text-input hint required" title="Membership No." autocomplete="off">
-			<input type="password" id="velocity-flyout-password" name="password" value="" class="ui-text-input hint" title="Password" autocomplete="off">
-		</fieldset>
-		<fieldset class="submit-bar">
-			<input id="velocity-flyout-remember" class="ui-checkbox" type="checkbox" name="remember"> <label for="velocity-flyout-remember" class="ui-text-label">Remember me</label>
-			<button class="ui-button" id="velocity-flyout-submit" type="submit"><span class="ui-button-text">Log In</span></button>
-			<input type="hidden" name="referrer" value="/au/en/about-us/legal-policies/privacy/">
-			<input type="hidden" name="type" value="login">
-		</fieldset>
-		<ul class="tools">
-			<li><a href="https://www.velocityrewards.com.au/content/ForgotMembership/index.html" target="_blank">Forgot membership number?</a></li>
-			<li><a href="https://www.velocityrewards.com.au/content/ResetPassword/index.html" target="_blank">Forgot password?</a></li>
+	<div id="velocity-pos-dropdown" data-widgetclass="Flyout PosSelectVelocityCloseButton" class="hide" data-flyout="{&quot;flyoutName&quot;:&quot;PosSelect&quot;,&quot;showArrow&quot;:false,&quot;dialogClass&quot;:&quot;dialog-posselect&quot;,&quot;showCloseButton&quot;:&quot;false&quot;,&quot;showArrow&quot;:&quot;false&quot;,&quot;useTransparentOverlay&quot;:&quot;true&quot;,&quot;offsetTop&quot;:&quot;-39&quot;,&quot;flyoutWidth&quot;:&quot;188px&quot;}">
+		<div class="select-arrow"></div>
+		<ul>
+			<li><a href="/au/en/about-us/legal-policies/privacy/"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046846.gif?v2.5.3=" alt="toolbar_flag_au.gif"> Australia</a></li>
+			<li><a href="/eu/en/about-us/legal-policies/privacy/"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046845.gif?v2.5.3=" alt="toolbar_flag_eu.gif"> Europe</a></li>
+			<li><a href="/nz/en/about-us/legal-policies/privacy/"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046844.gif?v2.5.3=" alt="toolbar_flag_nz.gif"> New Zealand</a></li>
+			<li><a href="/ws/en/about-us/legal-policies/privacy/"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046841.gif?v2.5.3=" alt="toolbar_flag_ws.gif"> Samoa</a></li>
+			<li><a href="/uk/en/about-us/legal-policies/privacy/"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046843.gif?v2.5.3=" alt="toolbar_flag_uk.gif"> United Kingdom</a></li>
+			<li class="selected"><a href="/us/en/about-us/legal-policies/privacy/"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046842.gif?v2.5.3=" alt="toolbar_flag_us.gif"> United States</a></li>
+			<li class="last"><a href="/ae/en/about-us/legal-policies/privacy/"><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_046847.gif?v2.5.3=" alt="toolbar_flag_ae.gif"> United Arab Emirates</a></li>
 		</ul>
+	</div>
+	
+</form>			
+
+</div>
+				</li>
+				<!-- ***************** Velocity *****************  -->
+	
+									
 	
 
 
 
 
 
-
-
-	
-
-
-
-
-
-
-
-
+	<li id="velocityAuthenticated" data-widgetclass="VelocityAuthenticatedContent" data-velocityauthenticatedcontent="{&quot;authenticatedSelector&quot;:&quot;.velocity-panel-authenticated&quot;,&quot;unauthenticatedSelector&quot;:&quot;.velocity-panel-unauthenticated&quot;}">
+		<div class="velocity-panel-unauthenticated">
+			
+<ul>
+	<li class="header-joinVelocity">
+		<a href="http://www.velocityrewards.com.au/content/ProgramBenefits/JoinNow/?icmpid=hp20120628_1704" target="_blank">Join Velocity</a>
+	</li>
+	<li class="velocity-login-panel">
+		<form method="post" accept-charset="UTF-8" action="https://www.virginaustralia.com/velocity/login.submit" id="form-velocity-header-login" data-widgetclass="VelocityFlyoutLauncher">
+			<fieldset class="submit-bar">
+				<label for="customerId">Log In</label>
+				<input type="text" class="velocity-flyout-number hint" name="customerId" size="15" autocomplete="off" placeholder="Velocity Number">
+				<input type="password" class="velocity-flyout-password hint" name="password" size="15" autocomplete="off" placeholder="Password">				
+				<button class="velocity-flyout-submit velocity-button" type="submit"></button>
+				<input type="hidden" name="referrer" value="/us/en/about-us/legal-policies/privacy/">
+				<input type="hidden" name="type" value="login">
+			</fieldset>
+		</form>
+	</li>
+</ul>
+<form method="post" accept-charset="UTF-8" action="https://www.virginaustralia.com/velocity/login.submit" id="flyout-velocity-login" class="hide form-velocity-login" data-widgetclass="VelocityLogin" data-velocitylogin="{&quot;flyoutClass&quot;:&quot;dialog-velocityLogin dialog-light-notitle&quot;,&quot;numberSelector&quot;:&quot;.velocity-flyout-number&quot;,&quot;passwordSelector&quot;:&quot;.velocity-flyout-password&quot;,&quot;rememberSelector&quot;:&quot;.velocity-flyout-remember&quot;,&quot;submitSelector&quot;:&quot;.velocity-flyout-submit&quot;,&quot;submitTxtSelector&quot;:&quot;.velocity-flyout-submit-txt&quot;,&quot;hasArrow&quot;:&quot;false&quot;,&quot;offsetTop&quot;:&quot;-46&quot;,&quot;offsetLeft&quot;:&quot;-11&quot;,&quot;flyoutWidth&quot;:&quot;395&quot;,&quot;arrg&quot;:&quot;true&quot;,&quot;anchorSelector&quot;:&quot;#form-velocity-header-login&quot;}">
+	<label for="customerId">Log In</label>
+	<input type="text" name="customerId" value="" autocomplete="off" class="velocity-flyout-number ui-text-input hint required" placeholder="Velocity Number" title="Velocity Number">
+	<input type="password" name="password" value="" autocomplete="off" class="ui-text-input hint velocity-flyout-password" placeholder="Password" title="Password">
+	<button class="velocity-flyout-submit velocity-button" type="submit"></button>
+	<span class="hide widget-errorSpan"></span>
+	<span class="label-remember-me">
+		<input id="velocity-flyout-remember" type="checkbox" name="remember" class="ui-checkbox velocity-flyout-remember">
+		<label for="velocity-flyout-remember">Remember me</label>
+	</span>
+	<a href="https://www.velocityrewards.com.au/content/ResetPassword/" target="_blank">Forgot Password?</a>
+	<a href="https://www.velocityrewards.com.au/content/ForgotMembership/" target="_blank">Forgot Member Number?</a>
+	<input type="hidden" name="referrer" value="/us/en/about-us/legal-policies/privacy/">
+	<input type="hidden" name="type" value="login">
 </form>
+	   
+		</div>
+		<div class="velocity-panel-authenticated hide" data-widgetclass="VelocityMemberInfo">
+			
+<ul class="velocityAuthenticated">
+	<li class="header-memberVelocity">
+		<div class="velocity-member-information" data-widgetclass="FlyoutToggle" data-flyouttoggle="{&quot;flyoutName&quot;:&quot;myAccount&quot;, &quot;anchorSelector&quot;:&quot;li.header-memberVelocity&quot;}">
+			<div id="myaccount_authenticated" class="velocity-my-account-toggle inactive">
+				<a id="velocity-member-account-url" href="https://www.velocityrewards.com.au/content/MyAccount/index.htm" target="_blank">My Account</a>
+				<div class="flyout-toggle select-arrow inactive"></div>
+			</div>
+			<div class="velocity-member-balance-info">
+				<span class="velocity-member-balance"></span>&nbsp;Points
+			</div>
+			<div class="velocity-member-name-info">
+				Welcome&nbsp;<span class="velocity-member-title"></span>&nbsp;<span class="velocity-member-lastname"></span>
+			</div>  		   
+		</div>
+	</li>
+	<li class="header-logoutVelocity" data-widgetclass="VelocityLogout" data-velocitylogout="{&quot;linkSelector&quot;:&quot;#velocity-member-logout&quot;}">
+		<a id="velocity-member-logout" href="//www.virginaustralia.com/velocity/logout.submit">Log Out</a>
+	</li>
+</ul>	   
+			
+<div id="velocity-panel" class="velocity-myAccount hide" data-widgetclass="Flyout" data-flyout="{&quot;flyoutName&quot;:&quot;myAccount&quot;, &quot;showArrow&quot;:&quot;false&quot;, &quot;flyoutWidth&quot;:&quot;416&quot;, &quot;offsetTop&quot;:&quot;-47&quot;, &quot;offsetLeft&quot;:&quot;-5&quot;, &quot;dialogClass&quot;:&quot;velocity-myaccount-flyout-dialog&quot;}">
+	<div class="velocity-member">
+	    <div class="velocity-member-information">
+		    <div id="myaccount_flyout" class="velocity-my-account-toggle inactive" data-widgetclass="Widget" data-publishevents="{&quot;click&quot;:&quot;closeFlyout&quot;}">
+				<span class="velocity-my-account" id="velocity-panel-member-account-url">My Account</span>
+				<div class="select-arrow inactive"></div>
+			</div>
+			<div class="velocity-member-name-info">
+				Welcome&nbsp;<span class="velocity-member-title"></span>&nbsp;<span class="velocity-member-lastname"></span>		
+			</div>		
+			<div class="velocity-member-balance-info">
+				<span class="velocity-member-balance"></span>&nbsp;Points
+			</div>
+		</div>
+    	<dl class="velocity-member-details">
+			<dt class="status hide" id="flyoutMemberDetailLevelKey">Membership level:</dt>
+			<dd class="velocity-member-status hide" id="flyoutMemberDetailLevelVal"></dd>
+			<dt class="number">Membership number:</dt>
+			<dd class="velocity-member-number"></dd>
+		</dl>
+		<div class="velocity-quicklinks">
+			<div class="free-text">
+				<div class="quicklinks-left"><ul>     <li><a href="https://www.velocityrewards.com.au/content/MyAccount/" target="_blank">Account Summary</a></li>     <li><a href="https://www.velocityrewards.com.au/content/MyAccount/MyBookings/" target="_blank">My Bookings</a></li>     <li><a href="https://www.velocityrewards.com.au/content/MyAccount/MyBenefits/" target="_blank">My Benefits</a></li> </ul></div>
+				<div class="quicklinks-right"><ul>     <li><a href="https://www.velocityrewards.com.au/content/MyAccount/FamilyPooling/" target="_blank">Family Pooling</a></li>     <li><a href="https://www.velocityrewards.com.au/content/MyAccount/ClaimMissingPoints/" target="_blank">Claim Missing Points</a></li>     <li><a href="https://www.velocityrewards.com.au/content/MyAccount/MakeaBooking/" target="_blank">Book flights using Points</a></li> </ul></div>
+			</div>
+		</div>
+		
+			
+			
+				<div class="velocity-no-alertbox"></div>
+			
+		
+	</div>
+</div>
+		</div>
+	</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+					
+	
+				<!-- ***************** Search *****************  -->
+				<li>
+					<div class="search-button"><a href="../../../help/search-results/" data-widgetclass="SearchFlyoutToggle" class="ui-button"><span class="search-button ui-button-text">&nbsp;</span></a>
+</div>
+				</li>
+				<!-- ***************** Contact Us Button *****************  -->
+				<li>
+					<div class="contactus-button"><a href="../../../help/contact-us/">&nbsp;</a>
+</div>
+				</li>
+			</ul>
+				
+
+
 
 
 <form method="post" action="https://www.virginaustralia.com/velocity/login.submit" title="Log in" id="dialog-velocity-challenge" class="hide form-velocity-login" data-widgetclass="VelocityChallenge">
-	<div class="logo"><img src="/images/velocity-challenge/velocity-challenge_logo.gif" alt="Velocity Frequent Flyer"></div>
-	
+	<div class="logo"><img src="http://img.virginaustralia.com/images/velocity-challenge/velocity-challenge_logo.gif?v2.5.3=" alt="Velocity Frequent Flyer"></div>
 	<div class="body">
 		
 	
-			<p>Please log in to your  Velocity Frequent Flyer account to continue...</p>						
+			<p>Please login to your Velocity Account</p>						
 			<fieldset>
 				<input type="text" id="velocity-dialog-number" name="customerId" value="" class="ui-text-input hint required" title="Membership No." autocomplete="off">
 				<input type="password" id="velocity-dialog-password" name="password" value="" class="ui-text-input hint" title="Password" autocomplete="off">
@@ -175,14 +504,14 @@ if (mboxSiteSection != '') {
 			<fieldset class="submit-bar">
 				<input id="velocity-dialog-remember" class="ui-checkbox" type="checkbox" name="remember"> <label for="velocity-dialog-remember" class="ui-text-label">Remember me</label>
 				<button class="ui-button" id="velocity-dialog-submit" type="submit"><span class="ui-button-text">Log In</span></button>
-				<input type="hidden" name="referrer" value="/au/en/about-us/legal-policies/privacy/">
+				<input type="hidden" name="referrer" value="/us/en/about-us/legal-policies/privacy/">
 				<input type="hidden" name="type" value="challenge">
 				<input type="hidden" name="redirect" value="">
 				<input type="hidden" name="origin" value="">
 			</fieldset>
 			<ul class="tools">
-				<li><a href="https://www.velocityrewards.com.au/content/ForgotMembership/index.html" target="_blank">Forgot membership number?</a></li>
-				<li><a href="https://www.velocityrewards.com.au/content/ResetPassword/index.html" target="_blank">Forgot password?</a></li>
+				<li><a href="https://www.velocityrewards.com.au/content/ForgotMembership/index.html" target="_blank">Forgot Membership number?</a></li>
+				<li><a href="https://www.velocityrewards.com.au/content/ResetPassword/index.html" target="_blank">Forgot Password?</a></li>
 			</ul>			
 		
 
@@ -192,9 +521,9 @@ if (mboxSiteSection != '') {
 
 
 
-				
+
 		
-		
+
 
 
 
@@ -207,16 +536,17 @@ if (mboxSiteSection != '') {
 	</div>
 </form>
 
-	
-<form method="get" action="#" id="flyout-search" class="hide" data-widgetclass="SearchFlyout" data-searchflyout="{&quot;headerId&quot;:&quot;header&quot;}">
+
+
+				
+<form method="get" action="#" id="flyout-search" class="hide" data-widgetclass="SearchFlyout" data-searchflyout="{&quot;headerId&quot;:&quot;header-velocity&quot;,&quot;flyoutDistance&quot;:&quot;35&quot;}">
 	<div class="search-central">
 		<button id="button-search-close" class="button-search-close" type="button" title="Close"></button>
 		<input id="search-text" class="search-text hint" type="text" name="searchtext" value="" title="enter keyword">
 	</div>
 	<button id="button-search-search" class="button-search-search" type="submit" title="Search"></button>
 </form>
-				</div>
-			</div>
+		</div>
 		<!-- reading from cache "mega_nav": mega_nav_all -->
 	<div id="mega-nav" class="mega-nav" data-widgetclass="MegaNav">
 		<ul class="level1">
@@ -227,7 +557,7 @@ if (mboxSiteSection != '') {
 		
 		
 	<li class="mega-nav-item" id="nav-6">
-		<a href="../../../plan/" class="mega-nav-shim-right"><span class="mega-nav-shim-left">Plan<input type="hidden" class="id" value="6"></span></a>
+		<a href="../../../plan/" class="mega-nav-shim-right"><span class="mega-nav-shim-left">Planning<input type="hidden" class="id" value="6"></span></a>
 	</li>
 		
 		
@@ -236,13 +566,13 @@ if (mboxSiteSection != '') {
 	</li>
 		
 		
-	<li class="mega-nav-item" id="nav-355">
-		<a href="http://www.velocityrewards.com.au" class="mega-nav-shim-right"><span class="mega-nav-shim-left">Velocity Frequent Flyer<input type="hidden" class="id" value="355"></span></a>
+	<li class="mega-nav-item" id="nav-356">
+		<a href="../../../specials-offers/" class="mega-nav-shim-right"><span class="mega-nav-shim-left">Specials &amp; Offers<input type="hidden" class="id" value="356"></span></a>
 	</li>
 		
 		
-	<li class="mega-nav-item last" id="nav-356">
-		<a href="../../../specials-offers/" class="mega-nav-shim-right"><span class="mega-nav-shim-left">Specials &amp; Offers<input type="hidden" class="id" value="356"></span></a>
+	<li class="mega-nav-item last" id="nav-355">
+		<a href="http://www.velocityrewards.com.au" class="mega-nav-shim-right"><span class="mega-nav-shim-left">Velocity Frequent Flyer<input type="hidden" class="id" value="355"></span></a>
 	</li>
 		
 		</ul><!-- end .level1 -->
@@ -255,7 +585,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-7" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif" alt="At the Airport">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif?v2.5.3=" alt="At the Airport">
 				</div>
 		<div class="mega-nav-sub-name">
 			At the Airport
@@ -288,7 +618,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-75" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_onboard.gif" alt="Onboard the Flight">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_onboard.gif?v2.5.3=" alt="Onboard the Flight">
 				</div>
 		<div class="mega-nav-sub-name">
 			Onboard the Flight
@@ -327,7 +657,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-128" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_service.gif" alt="Service Experience">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_service.gif?v2.5.3=" alt="Service Experience">
 				</div>
 		<div class="mega-nav-sub-name">
 			Service Experience
@@ -351,7 +681,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-132" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_corporate.gif" alt="Corporate Travel ">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_corporate.gif?v2.5.3=" alt="Corporate Travel ">
 				</div>
 		<div class="mega-nav-sub-name">
 			Corporate Travel 
@@ -372,17 +702,17 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-605" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_mobile.gif" alt="Mobile">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_mobile.gif?v2.5.3=" alt="On the Move">
 				</div>
 		<div class="mega-nav-sub-name">
-			Mobile
+			On the Move
 		</div>
 		<ul class="level3">
 		
-	<li id="nav-606"><a href="../../../experience/mobile/mobile-website/">Mobile Website</a></li>
+	<li id="nav-606"><a href="../../../experience/on-the-move/mobile-website/">Mobile Website</a></li>
 		
 		
-	<li id="nav-814"><a href="../../../experience/mobile/blackberry/">BlackBerry Application</a></li>
+	<li id="nav-1036"><a href="../../../experience/on-the-move/flight-specials-app/">Flight Specials App</a></li>
 		
 		</ul>
 	</li>
@@ -393,7 +723,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-153" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_status.gif" alt="Operational Performance">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_status.gif?v2.5.3=" alt="Operational Performance">
 				</div>
 		<div class="mega-nav-sub-name">
 			Operational Performance
@@ -411,7 +741,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-253" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif" alt="Airline Partners">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif?v2.5.3=" alt="Airline Partners">
 				</div>
 		<div class="mega-nav-sub-name">
 			Airline Partners
@@ -433,7 +763,13 @@ if (mboxSiteSection != '') {
 	<li id="nav-261"><a href="../../../experience/airline-partners/skywest/">Skywest Airlines</a></li>
 		
 		
+	<li id="nav-1096"><a href="../../../experience/airline-partners/virgin-america/">Virgin America</a></li>
+		
+		
 	<li id="nav-260"><a href="../../../experience/airline-partners/virgin-atlantic/">Virgin Atlantic</a></li>
+		
+		
+	<li id="nav-1097"><a href="../../../experience/airline-partners/hawaiian-airlines/">Hawaiian Airlines</a></li>
 		
 		
 	<li id="nav-263"><a href="../../../experience/airline-partners/other-partners/">Other Partners</a></li>
@@ -459,12 +795,15 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-160" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif" alt="Routes and Schedules">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif?v2.5.3=" alt="Flights">
 				</div>
 		<div class="mega-nav-sub-name">
-			Routes and Schedules
+			Flights
 		</div>
 		<ul class="level3">
+		
+	<li id="nav-1071"><a href="http://www.virginaustralia.com/au/en/bookings/flights/make-a-booking/">Book a Flight</a></li>
+		
 		
 	<li id="nav-161"><a href="http://virginaustralia.innosked.com">Interactive Route Map</a></li>
 		
@@ -477,7 +816,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-162" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_destinations.gif" alt="Destinations">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_destinations.gif?v2.5.3=" alt="Destinations">
 				</div>
 		<div class="mega-nav-sub-name">
 			Destinations
@@ -486,13 +825,16 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-163"><a href="../../../plan/destinations/destination-guides/">Destination Guides</a></li>
 		
+		
+	<li id="nav-1072"><a href="http://www.weatherzone.com.au/virginaustralia/">Local Weather</a></li>
+		
 		</ul>
 	</li>
 		
 		
 	<li id="nav-269" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_baggage.gif" alt="Baggage">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_baggage.gif?v2.5.3=" alt="Baggage">
 				</div>
 		<div class="mega-nav-sub-name">
 			Baggage
@@ -528,7 +870,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-453" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif" alt="Fare Types">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif?v2.5.3=" alt="Fare Types">
 				</div>
 		<div class="mega-nav-sub-name">
 			Fare Types
@@ -552,7 +894,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-322" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif" alt="Fees and Surcharges">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif?v2.5.3=" alt="Fees and Surcharges">
 				</div>
 		<div class="mega-nav-sub-name">
 			Fees and Surcharges
@@ -573,7 +915,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-264" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_destinations.gif" alt="Flying Internationally">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_destinations.gif?v2.5.3=" alt="Flying Internationally">
 				</div>
 		<div class="mega-nav-sub-name">
 			Flying Internationally
@@ -594,7 +936,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-283" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_specialneeds.gif" alt="Special Needs and Assistance">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_specialneeds.gif?v2.5.3=" alt="Special Needs and Assistance">
 				</div>
 		<div class="mega-nav-sub-name">
 			Special Needs and Assistance
@@ -602,6 +944,9 @@ if (mboxSiteSection != '') {
 		<ul class="level3">
 		
 	<li id="nav-284"><a href="../../../plan/special-needs-assistance/infants/">Infants</a></li>
+		
+		
+	<li id="nav-285"><a href="../../../plan/special-needs-assistance/children/">Children</a></li>
 		
 		
 	<li id="nav-286"><a href="../../../plan/special-needs-assistance/children-travelling-alone/">Children Travelling Alone (Unaccompanied Minors)</a></li>
@@ -654,7 +999,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-298" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif" alt="Flights">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif?v2.5.3=" alt="Flights">
 				</div>
 		<div class="mega-nav-sub-name">
 			Flights
@@ -663,13 +1008,16 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-848"><a href="../../../bookings/flights/make-a-booking/">Book a Flight</a></li>
 		
+		
+	<li id="nav-1094"><a href="../../../bookings/flights/how-to-book-online/">How to Book Online</a></li>
+		
 		</ul>
 	</li>
 		
 		
 	<li id="nav-304" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_holidayspecials.gif" alt="Holidays">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_holidayspecials.gif?v2.5.3=" alt="Holidays">
 				</div>
 		<div class="mega-nav-sub-name">
 			Holidays
@@ -687,7 +1035,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-308" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_extras.gif" alt="Travel Extras">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_extras.gif?v2.5.3=" alt="Travel Extras">
 				</div>
 		<div class="mega-nav-sub-name">
 			Travel Extras
@@ -700,20 +1048,20 @@ if (mboxSiteSection != '') {
 	<li id="nav-310"><a href="https://hire-cars.virginaustralia.com/?clientId=215757">Car Hire</a></li>
 		
 		
-	<li id="nav-312"><a href="https://insurance.virginaustralia.com/home?utm_source=VirginAust&amp;utm_medium=web&amp;utm_campaign=mainnav">Travel Insurance</a></li>
+		
+	<li id="nav-921"><a href="http://www.etravelprotection.com/virginaustralia/">Travel Insurance</a></li>
 		
 		
+	<li id="nav-314"><a href="http://www.tickets.showbiz.com.au/virginaustralia/">Show and Event Tickets</a></li>
 		
-	<li id="nav-869"><a href="http://www.con-x-ion.com/Virgin/home/Virgin.aspx">Airport Transfers</a></li>
+		
+	<li id="nav-869"><a href="http://www.virginaustralia.com/au/en/experience/at-the-airport/airport-transfers/">Airport Transfers</a></li>
 		
 		
 	<li id="nav-910"><a href="http://www.airportparking.net.au/virginaustralia/">Airport Parking</a></li>
 		
 		
 	<li id="nav-313"><a href="http://virginaustralia.godo.com.au/">Tours and Activities</a></li>
-		
-		
-	<li id="nav-314"><a href="http://greatseats.com.au/bluetix/">Show and Event Tickets</a></li>
 		
 		
 	<li id="nav-870"><a href="http://www.virginaustralia.com/experience/at-the-airport/lounge">Lounge Membership</a></li>
@@ -730,7 +1078,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-337" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_manage.gif" alt="Manage My Bookings">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_manage.gif?v2.5.3=" alt="Manage My Bookings">
 				</div>
 		<div class="mega-nav-sub-name">
 			Manage My Bookings
@@ -748,13 +1096,16 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-347"><a href="../../../bookings/manage-my-bookings/resend-itinerary/">Re-send Itinerary</a></li>
 		
+		
+	<li id="nav-953"><a href="../../../bookings/manage-my-bookings/retrieve-booking-details/">Retrieve Booking Details</a></li>
+		
 		</ul>
 	</li>
 		
 		
 	<li id="nav-872" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif" alt="Flight Extras">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif?v2.5.3=" alt="Flight Extras">
 				</div>
 		<div class="mega-nav-sub-name">
 			Flight Extras
@@ -775,7 +1126,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-349" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_status.gif" alt="Flight Status">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_status.gif?v2.5.3=" alt="Flight Status">
 				</div>
 		<div class="mega-nav-sub-name">
 			Flight Status
@@ -793,7 +1144,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-873" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_corporate.gif" alt="Agents and Corporate Bookings">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_corporate.gif?v2.5.3=" alt="Agents and Corporate Bookings">
 				</div>
 		<div class="mega-nav-sub-name">
 			Agents and Corporate Bookings
@@ -811,7 +1162,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-317" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_groups.gif" alt="Group Bookings ">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_groups.gif?v2.5.3=" alt="Group Bookings ">
 				</div>
 		<div class="mega-nav-sub-name">
 			Group Bookings 
@@ -838,7 +1189,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-352" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_freight.gif" alt="Freight ">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_freight.gif?v2.5.3=" alt="Freight ">
 				</div>
 		<div class="mega-nav-sub-name">
 			Freight 
@@ -853,7 +1204,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-335" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_airpass.gif" alt="Airpass">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_airpass.gif?v2.5.3=" alt="Airpass">
 				</div>
 		<div class="mega-nav-sub-name">
 			Airpass
@@ -861,6 +1212,144 @@ if (mboxSiteSection != '') {
 		<ul class="level3">
 		
 	<li id="nav-336"><a href="http://www.virginaustralia.com/airpass">The Virgin Australia Airpass</a></li>
+		
+		</ul>
+	</li>
+		
+		</ul></div><!-- end .mega-nav-group -->
+			<div class="clearBoth"></div>
+		</div><!-- end .mega-nav-groups -->
+		<div class="clearBoth"></div>
+	</div><!-- end .mega-nav-content -->
+		
+		
+	<div class="mega-nav-content mega-nav-flyout" id="nav-content-356">
+		<input type="hidden" class="id" value="356">
+		<div class="mega-nav-groups">
+				<div class="mega-nav-group first">
+					<ul class="level2">
+		
+	<li id="nav-357" class="mega-nav-sub">
+				<div class="mega-nav-sub-image">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif?v2.5.3=" alt="Flight Specials">
+				</div>
+		<div class="mega-nav-sub-name">
+			Flight Specials
+		</div>
+		<ul class="level3">
+		
+	<li id="nav-358"><a href="../../../specials-offers/flight-specials/view-best-fares/">View Best Fares</a></li>
+		
+		
+	<li id="nav-1044"><a href="http://www.virginaustralia.com/au/en/experience/on-the-move/flight-specials-app/">Flight Specials App</a></li>
+		
+		</ul>
+	</li>
+		
+		
+	<li id="nav-373" class="mega-nav-sub">
+				<div class="mega-nav-sub-image">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_vmail.gif?v2.5.3=" alt="Sale Alerts">
+				</div>
+		<div class="mega-nav-sub-name">
+			Sale Alerts
+		</div>
+		<ul class="level3">
+		
+	<li id="nav-374"><a href="../../../specials-offers/sales-alert-v-mail/sign-up-to-v-mail/">Sign-up to V-mail Sale Alerts</a></li>
+		
+		
+	<li id="nav-1016"><a href="../../../specials-offers/sales-alert-v-mail/blue-holidays-sale-alerts/">Sign-up to Blue Holidays Sale Alerts</a></li>
+		
+		</ul>
+	</li>
+		
+		
+	<li id="nav-882" class="mega-nav-sub">
+				<div class="mega-nav-sub-image">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif?v2.5.3=" alt="Advertised Specials">
+				</div>
+		<div class="mega-nav-sub-name">
+			Advertised Specials
+		</div>
+		<ul class="level3">
+		
+	<li id="nav-360"><a href="../../../specials-offers/advertised-specials/advertised-specials/">View Advertised Specials</a></li>
+		
+		</ul>
+	</li>
+		
+				</ul></div><!-- end .mega-nav-group -->
+				<div class="mega-nav-group">
+					<ul class="level2">
+		
+	<li id="nav-359" class="mega-nav-sub">
+				<div class="mega-nav-sub-image">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_holidayspecials.gif?v2.5.3=" alt="Holiday Specials">
+				</div>
+		<div class="mega-nav-sub-name">
+			Holiday Specials
+		</div>
+		<ul class="level3">
+		
+	<li id="nav-bh_holiday_packages"><a href="../../../specials-offers/holiday-specials/holiday-packages/">Holiday Packages</a></li>
+		
+		
+	<li id="nav-363"><a href="../../../specials-offers/holiday-specials/breakations/">Breakations</a></li>
+		
+		
+	<li id="nav-435"><a href="http://www.virginaustralia.com/mysterybreaks">Mystery Breaks</a></li>
+		
+		
+	<li id="nav-737"><a href="../../../specials-offers/holiday-specials/event-holidays/">Event Holidays</a></li>
+		
+		</ul>
+	</li>
+		
+				</ul></div><!-- end .mega-nav-group -->
+				<div class="mega-nav-group last">
+					<ul class="level2">
+		
+	<li id="nav-364" class="mega-nav-sub">
+				<div class="mega-nav-sub-image">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_partneroffers.gif?v2.5.3=" alt="Offers from Our Partners ">
+				</div>
+		<div class="mega-nav-sub-name">
+			Offers from Our Partners 
+		</div>
+		<ul class="level3">
+		
+	<li id="nav-272"><a href="../../../specials-offers/offers-from-our-partners/hotels/">Hotels</a></li>
+		
+		
+	<li id="nav-271"><a href="../../../specials-offers/offers-from-our-partners/car-hire/">Car Hire</a></li>
+		
+		
+	<li id="nav-888"><a href="../../../specials-offers/offers-from-our-partners/cruises/">Cruises</a></li>
+		
+		
+	<li id="nav-1074"><a href="../../../specials-offers/offers-from-our-partners/event-show-tickets/">Event and Theatre</a></li>
+		
+		
+	<li id="nav-274"><a href="../../../specials-offers/offers-from-our-partners/tours-and-activities/">Activities</a></li>
+		
+		</ul>
+	</li>
+		
+		
+	<li id="nav-375" class="mega-nav-sub">
+				<div class="mega-nav-sub-image">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_vouchers.gif?v2.5.3=" alt="Gift Vouchers">
+				</div>
+		<div class="mega-nav-sub-name">
+			Gift Vouchers
+		</div>
+		<ul class="level3">
+		
+	<li id="nav-376"><a href="../../../specials-offers/gift-vouchers/purchase-gift-vouchers/">Purchase Gift Vouchers </a></li>
+		
+		
+	<li id="nav-254"><a href="../../../specials-offers/gift-vouchers/gift-voucher-balance/">Check Gift Voucher Balance</a></li>
 		
 		</ul>
 	</li>
@@ -880,7 +1369,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-456" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_manage.gif" alt="Program Benefits">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_manage.gif?v2.5.3=" alt="Program Benefits">
 				</div>
 		<div class="mega-nav-sub-name">
 			Program Benefits
@@ -913,7 +1402,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-467" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_groups.gif" alt="Status">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_groups.gif?v2.5.3=" alt="Status">
 				</div>
 		<div class="mega-nav-sub-name">
 			Status
@@ -949,7 +1438,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-464" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif" alt="Earn">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif?v2.5.3=" alt="Earn">
 				</div>
 		<div class="mega-nav-sub-name">
 			Earn
@@ -965,22 +1454,25 @@ if (mboxSiteSection != '') {
 	<li id="nav-470"><a href="http://www.velocityrewards.com.au/content/Earn/CarHire/" target="_blank">Car Hire</a></li>
 		
 		
-	<li id="nav-471"><a href="http://www.velocityrewards.com.au/content/Earn/Accommodation/" target="_blank">Accommodation</a></li>
+	<li id="nav-471"><a href="http://www.velocityrewards.com.au/content/Earn/Accommodation/" target="_blank">Hotels</a></li>
 		
 		
-	<li id="nav-472"><a href="http://www.velocityrewards.com.au/content/Earn/TravelExtras/" target="_blank">Travel and Entertainment</a></li>
+	<li id="nav-472"><a href="http://www.velocityrewards.com.au/content/Earn/TravelExtras/" target="_blank">Holidays and Travel Extras</a></li>
 		
 		
-	<li id="nav-473"><a href="http://www.velocityrewards.com.au/content/Earn/Shopping/" target="_blank">Shopping</a></li>
+	<li id="nav-473"><a href="http://www.velocityrewards.com.au/content/Earn/Shopping/" target="_blank">Online Shopping</a></li>
 		
 		
-	<li id="nav-474"><a href="http://www.velocityrewards.com.au/content/Earn/BankingFinance/" target="_blank">Utilities, Insurance and Finance</a></li>
+	<li id="nav-1014"><a href="http://www.velocityrewards.com.au/content/Earn/Dining/">Wine and Dine</a></li>
 		
 		
-	<li id="nav-475"><a href="http://www.velocityrewards.com.au/content/Earn/BusinessServices/" target="_blank">Business Services</a></li>
+	<li id="nav-1011"><a href="http://www.velocityrewards.com.au/content/Earn/entertainment/">Lifestyle and Entertainment</a></li>
 		
 		
-	<li id="nav-476"><a href="http://www.velocityrewards.com.au/content/Earn/StatusCredits/" target="_blank">Status Credits</a></li>
+	<li id="nav-474"><a href="http://www.velocityrewards.com.au/content/Earn/BankingFinance/" target="_blank">Energy, Insurance and Finance</a></li>
+		
+		
+	<li id="nav-476"><a href="http://www.velocityrewards.com.au/content/Earn/StatusCredits/" target="_blank">Earning Status Credits</a></li>
 		
 		</ul>
 	</li>
@@ -988,7 +1480,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-465" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif" alt="Redeem">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif?v2.5.3=" alt="Redeem">
 				</div>
 		<div class="mega-nav-sub-name">
 			Redeem
@@ -1004,13 +1496,13 @@ if (mboxSiteSection != '') {
 	<li id="nav-479"><a href="http://www.velocityrewards.com.au/content/Redeem/CarHire/" target="_blank">Car Hire</a></li>
 		
 		
-	<li id="nav-480"><a href="http://www.velocityrewards.com.au/content/Redeem/Accommodation/" target="_blank">Accommodation</a></li>
+	<li id="nav-480"><a href="http://www.velocityrewards.com.au/content/Redeem/Accommodation/" target="_blank">Hotels</a></li>
 		
 		
-	<li id="nav-481"><a href="http://www.velocityrewards.com.au/content/Redeem/TravelExtras/">Travel and Entertainment</a></li>
+	<li id="nav-481"><a href="http://www.velocityrewards.com.au/content/Redeem/TravelExtras/">Holidays and Travel Extras</a></li>
 		
 		
-	<li id="nav-482"><a href="http://www.velocityrewards.com.au/content/Redeem/Shopping/">Shopping</a></li>
+	<li id="nav-482"><a href="http://www.velocityrewards.com.au/content/Redeem/Shopping/">Online Shopping</a></li>
 		
 		
 	<li id="nav-483"><a href="https://shop.velocityrewards.com.au/Pages/SOR/Browse.aspx?CategoryCode=GREENCROSS">Charities</a></li>
@@ -1024,17 +1516,29 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-876" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_manage.gif" alt="My Account">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_manage.gif?v2.5.3=" alt="My Account">
 				</div>
 		<div class="mega-nav-sub-name">
 			My Account
 		</div>
 		<ul class="level3">
 		
-	<li id="nav-877"><a href="http://www.velocityrewards.com.au/content/ProgramBenefits/JoinNow/">Join Velocity</a></li>
+	<li id="nav-1021"><a href="https://www.velocityrewards.com.au/content/MyAccount/">Account Summary</a></li>
 		
 		
-	<li id="nav-878"><a href="https://www.velocityrewards.com.au/content/Login/?redirect=%2Fcontent%2FMyAccount%2Findex.htm&amp;require=customer%3DLOYALTY">Manage Account</a></li>
+	<li id="nav-1022"><a href="https://www.velocityrewards.com.au/content/MyAccount/MyBookings/">My Bookings</a></li>
+		
+		
+	<li id="nav-1023"><a href="https://www.velocityrewards.com.au/content/MyAccount/MyBenefits/">My Benefits</a></li>
+		
+		
+	<li id="nav-1024"><a href="https://www.velocityrewards.com.au/content/MyAccount/MyDetails/">My Details</a></li>
+		
+		
+	<li id="nav-1025"><a href="https://www.velocityrewards.com.au/content/MyAccount/ClaimMissingPoints/">Claim missing Points</a></li>
+		
+		
+	<li id="nav-1026"><a href="https://www.velocityrewards.com.au/content/MyAccount/MakeaBooking/">Book Flights using Points</a></li>
 		
 		</ul>
 	</li>
@@ -1042,7 +1546,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-466" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_extras.gif" alt="Member Specials">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_extras.gif?v2.5.3=" alt="Member Specials">
 				</div>
 		<div class="mega-nav-sub-name">
 			Member Specials
@@ -1058,16 +1562,22 @@ if (mboxSiteSection != '') {
 	<li id="nav-696"><a href="http://www.velocityrewards.com.au/content/Specials/CarHire/">Car Hire</a></li>
 		
 		
-	<li id="nav-697"><a href="http://www.velocityrewards.com.au/content/Specials/Accommodation/">Accommodation</a></li>
+	<li id="nav-697"><a href="http://www.velocityrewards.com.au/content/Specials/Accommodation/">Hotels</a></li>
 		
 		
-	<li id="nav-698"><a href="http://www.velocityrewards.com.au/content/Specials/TravelExtras/">Travel and Entertainment</a></li>
+	<li id="nav-698"><a href="http://www.velocityrewards.com.au/content/Specials/TravelExtras/">Holidays and Travel Extras</a></li>
 		
 		
-	<li id="nav-699"><a href="http://www.velocityrewards.com.au/content/Specials/Shopping/">Shopping</a></li>
+	<li id="nav-699"><a href="http://www.velocityrewards.com.au/content/Specials/Shopping/">Online Shopping</a></li>
 		
 		
-	<li id="nav-700"><a href="http://www.velocityrewards.com.au/content/Specials/UtilitiesInsuranceandFinance/">Utilities, Insurance and Finance</a></li>
+	<li id="nav-1015"><a href="http://www.velocityrewards.com.au/content/Specials/Dining/">Wine and Dine</a></li>
+		
+		
+	<li id="nav-1013"><a href="http://www.velocityrewards.com.au">Lifestyle and Entertainment</a></li>
+		
+		
+	<li id="nav-700"><a href="http://www.velocityrewards.com.au/content/Specials/UtilitiesInsuranceandFinance/">Energy, Insurance and Finance</a></li>
 		
 		</ul>
 	</li>
@@ -1075,7 +1585,7 @@ if (mboxSiteSection != '') {
 		
 	<li id="nav-879" class="mega-nav-sub">
 				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_airpass.gif" alt="Lounge">
+					<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_airpass.gif?v2.5.3=" alt="Lounge">
 				</div>
 		<div class="mega-nav-sub-name">
 			Lounge
@@ -1093,167 +1603,30 @@ if (mboxSiteSection != '') {
 		<div class="clearBoth"></div>
 	</div><!-- end .mega-nav-content -->
 		
-		
-	<div class="mega-nav-content mega-nav-flyout" id="nav-content-356">
-		<input type="hidden" class="id" value="356">
-		<div class="mega-nav-groups">
-				<div class="mega-nav-group first">
-					<ul class="level2">
-		
-	<li id="nav-357" class="mega-nav-sub">
-				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_flights.gif" alt="Flight Specials">
-				</div>
-		<div class="mega-nav-sub-name">
-			Flight Specials
-		</div>
-		<ul class="level3">
-		
-	<li id="nav-358"><a href="../../../specials-offers/flight-specials/view-best-fares/">View Best Fares</a></li>
-		
-		</ul>
-	</li>
-		
-		
-	<li id="nav-882" class="mega-nav-sub">
-				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_fees.gif" alt="Advertised Specials">
-				</div>
-		<div class="mega-nav-sub-name">
-			Advertised Specials
-		</div>
-		<ul class="level3">
-		
-	<li id="nav-360"><a href="../../../specials-offers/advertised-specials/advertised-specials/">View Advertised Specials</a></li>
-		
-		</ul>
-	</li>
-		
-		
-	<li id="nav-373" class="mega-nav-sub">
-				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_vmail.gif" alt="Sales Alert (V-mail)">
-				</div>
-		<div class="mega-nav-sub-name">
-			Sales Alert (V-mail)
-		</div>
-		<ul class="level3">
-		
-	<li id="nav-374"><a href="../../../specials-offers/sales-alert-v-mail/sign-up-to-v-mail/">Sign-up to V-mail Sales Alerts</a></li>
-		
-		</ul>
-	</li>
-		
-				</ul></div><!-- end .mega-nav-group -->
-				<div class="mega-nav-group">
-					<ul class="level2">
-		
-	<li id="nav-359" class="mega-nav-sub">
-				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_holidayspecials.gif" alt="Holiday Specials">
-				</div>
-		<div class="mega-nav-sub-name">
-			Holiday Specials
-		</div>
-		<ul class="level3">
-		
-	<li id="nav-bh_holiday_packages"><a href="../../../specials-offers/holiday-specials/holiday-packages/">Holiday Packages</a></li>
-		
-		
-	<li id="nav-363"><a href="../../../specials-offers/holiday-specials/breakations/">Breakations</a></li>
-		
-		
-	<li id="nav-435"><a href="http://www.virginaustralia.com/mysterybreaks">Mystery Breaks</a></li>
-		
-		
-	<li id="nav-737"><a href="../../../specials-offers/holiday-specials/event-holidays/">Event Holidays</a></li>
-		
-		</ul>
-	</li>
-		
-				</ul></div><!-- end .mega-nav-group -->
-				<div class="mega-nav-group last">
-					<ul class="level2">
-		
-	<li id="nav-364" class="mega-nav-sub">
-				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_partneroffers.gif" alt="Offers from Our Partners ">
-				</div>
-		<div class="mega-nav-sub-name">
-			Offers from Our Partners 
-		</div>
-		<ul class="level3">
-		
-	<li id="nav-272"><a href="../../../specials-offers/offers-from-our-partners/hotels/">Hotels</a></li>
-		
-		
-	<li id="nav-271"><a href="../../../specials-offers/offers-from-our-partners/car-hire/">Car Hire</a></li>
-		
-		
-	<li id="nav-888"><a href="../../../specials-offers/offers-from-our-partners/cruises/">Cruises</a></li>
-		
-		
-	<li id="nav-275"><a href="../../../specials-offers/offers-from-our-partners/event-show-tickets/">Event and Theatre</a></li>
-		
-		
-	<li id="nav-274"><a href="../../../specials-offers/offers-from-our-partners/tours-and-activities/">Activities</a></li>
-		
-		
-	<li id="nav-934"><a href="../../../specials-offers/offers-from-our-partners/experience-australia/">Experience Australia</a></li>
-		
-		
-	<li id="nav-795"><a href="../../../specials-offers/offers-from-our-partners/theres-nothing-like-australia/">There's Nothing Like Australia</a></li>
-		
-		</ul>
-	</li>
-		
-		
-	<li id="nav-375" class="mega-nav-sub">
-				<div class="mega-nav-sub-image">
-					<img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/meganav_icon_vouchers.gif" alt="Gift Vouchers">
-				</div>
-		<div class="mega-nav-sub-name">
-			Gift Vouchers
-		</div>
-		<ul class="level3">
-		
-	<li id="nav-376"><a href="../../../specials-offers/gift-vouchers/purchase-gift-vouchers/">Purchase Gift Vouchers </a></li>
-		
-		
-	<li id="nav-254"><a href="../../../specials-offers/gift-vouchers/gift-voucher-balance/">Check Gift Voucher Balance</a></li>
-		
-		</ul>
-	</li>
-		
-		</ul></div><!-- end .mega-nav-group -->
-			<div class="clearBoth"></div>
-		</div><!-- end .mega-nav-groups -->
-		<div class="clearBoth"></div>
-	</div><!-- end .mega-nav-content -->
-		
 	</div><!-- end #side2 -->
-	<!-- created "mega_nav": mega_nav_all at 31/05/2012 14:00 (0d 0h 5m 0s [300s] )-->
-			<div class="clearBoth"></div> 
+	<!-- created "mega_nav": mega_nav_all at 06/11/2012 12:00 (0d 0h 5m 0s [300s] )-->
+		<div class="clearBoth"></div> 
 	</div>
 	<div class="clearBoth"></div>
-	<a id="main-content" name="main-content"></a>
+	<a id="main-content"></a>
 </div>
 				<div id="centralPane" class="clearBoth"><div class="layout-top-content">
-	<div id="greyPageTitle">
-	<h1>About Us</h1>
+	<!--wcmPlaceholder("Velocity_Authenticated_Bar", "placeholderDefinitionDocName=PD_VELOCITY_AUTH_BAR")-->
+	<div id="greyPageBar">
+	<div class="pageTitle">About Us</div>
 </div>
 	<div id="leftContentPane">
 		<div id="topContentPane"></div>
-		<div id="breadcrumb">
+		<div itemscope="" id="breadcrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
 	<ul>
 					<li>				
-							<a href="../../../">Home</a>
+							<a href="../../../" itemprop="url"><span itemprop="title">Home</span></a>
 					</li>
 					<li>				
-							<a href="../../../about-us/">About Us</a>
+							<a href="../../../about-us/" itemprop="url"><span itemprop="title">About Us</span></a>
 					</li>
 					<li>				
-							<a href="../../../about-us/legal-policies/">Legal Policies</a>
+							<a href="../../../about-us/legal-policies/" itemprop="url"><span itemprop="title">Legal Policies</span></a>
 					</li>
 					<li class="last">				
 							Privacy
@@ -1263,19 +1636,20 @@ if (mboxSiteSection != '') {
 		<div id="topLevelPane">
 			<div id="leftSidebar">
 	<div class="widget_navaccordion" data-widgetclass="NavAccordionWidget">
-				<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Company Overview</a></h3> 
+					<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Company Overview</a></h3>
 				<div>
 					<ul>
 									<li><a href="../../../about-us/company-overview/the-virgin-family/">The Virgin Family </a></li>
 									<li><a href="../../../about-us/company-overview/virgin-australia-history/">Virgin Australia History</a></li>
 									<li><a href="../../../about-us/company-overview/virgin-australia-group-executive-team/">Virgin Australia Group Executive Team</a></li>
 									<li><a href="../../../about-us/company-overview/virgin-australia-board-of-directors/">Virgin Australia Board of Directors</a></li>
-									<li><a href="../../../about-us/company-overview/investor-information/">Investor Information</a></li>
+									<li><a href="../../../about-us/company-overview/investor-information/">Shareholder Information</a></li>
+									<li><a href="../../../about-us/company-overview/corporate-governance/">Corporate Governance</a></li>
 									<li><a href="../../../about-us/company-overview/our-awards/">Our Awards </a></li>
 									<li><a href="../../../about-us/company-overview/blue-holidays/">Blue Holidays</a></li>
 					</ul>
 				</div>
-				<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Media </a></h3> 
+					<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Media </a></h3>
 				<div>
 					<ul>
 									<li><a href="../../../about-us/media/2012/">2012</a></li>
@@ -1293,28 +1667,31 @@ if (mboxSiteSection != '') {
 									<li><a href="../../../about-us/media/2000/">2000</a></li>
 					</ul>
 				</div>
-				<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Careers</a></h3> 
+					<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Careers</a></h3>
 				<div>
 					<ul>
+									<li><a href="../../../about-us/careers/indigenous-employment-program/">Virgin Australia's Indigenous Employment Program</a></li>
 									<li><a href="../../../about-us/careers/career-opportunities/">Career Opportunities</a></li>
+									<li><a href="../../../about-us/careers/our-recruitment-process/">Our Recruitment Process</a></li>
 									<li><a href="../../../about-us/careers/welcome/">Welcome</a></li>
 									<li><a href="../../../about-us/careers/culture-and-values/">Culture and Values</a></li>
 									<li><a href="../../../about-us/careers/benefits/">Benefits</a></li>
 									<li><a href="../../../about-us/careers/department-profiles/">Department Profiles</a></li>
+									<li><a href="../../../about-us/careers/pilot-cadetship/">Pilot Cadet Program</a></li>
 									<li><a href="../../../about-us/careers/graduate-recruitment/">Graduate Recruitment </a></li>
 									<li><a href="../../../about-us/careers/work-experience/">Work Experience</a></li>
 									<li><a href="../../../about-us/careers/non-residents/">Non-residents</a></li>
 									<li><a href="../../../about-us/careers/agencies/">Agencies</a></li>
 					</ul>
 				</div>
-				<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Sponsorship</a></h3> 
+					<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Sponsorship</a></h3>
 				<div>
 					<ul>
 									<li><a href="../../../about-us/sponsorship/our-sponsorships/">Our Sponsorships</a></li>
 									<li><a href="../../../about-us/sponsorship/sponsorship-information/">Sponsorship Information</a></li>
 					</ul>
 				</div>
-				<h3 class="selectedHeader"><a href="../../../about-us/legal-policies/privacy/">Legal Policies</a></h3> 
+					<h3 class="selectedHeader"><a href="../../../about-us/legal-policies/privacy/">Legal Policies</a></h3>
 				<div>
 					<ul>
 									<li><a href="../../../about-us/legal-policies/conditions-of-carriage/">Conditions of Carriage</a></li>
@@ -1322,11 +1699,11 @@ if (mboxSiteSection != '') {
 									<li><a href="../../../about-us/legal-policies/terms-of-use/">Terms of Use</a></li>
 					</ul>
 				</div>
-				<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Sustainability</a></h3> 
+					<h3 class=""><a href="../../../about-us/legal-policies/privacy/">Sustainability</a></h3>
 				<div>
 					<ul>
 									<li><a href="../../../about-us/sustainability/environment/">Environment</a></li>
-									<li><a href="../../../about-us/sustainability/sustainable-aviation-biofuel/">Sustainable Aviation Biofuel</a></li>
+									<li><a href="../../../about-us/sustainability/sustainable-aviation-biofuel/">Renewable Jet Fuel</a></li>
 									<li><a href="../../../about-us/sustainability/carbon-offset-program/">Fly Carbon Neutral</a></li>
 									<li><a href="../../../about-us/sustainability/sustainability-governance/">Sustainability Governance</a></li>
 									<li><a href="../../../about-us/sustainability/stakeholder-engagement/">Stakeholder Engagement</a></li>
@@ -1341,15 +1718,38 @@ if (mboxSiteSection != '') {
 <h1>Privacy</h1>
 </div>
 					<div id="content">
+	
+									
 	<div class="free-text">
-	<h2>Privacy Policy – Virgin Australia</h2> <p>Virgin Australia Holdings Ltd ACN 100 686 226, its subsidiaries and other related companies, including Virgin Australia Airlines, Virgin Australia Airlines (NZ), Virgin Australia Airlines (SE Asia), Virgin Samoa, Virgin Australia International Airlines and Velocity Rewards (“we”, “us”, and “our”, singularly or collectively as the context requires) recognises the importance of privacy issues. This Privacy Policy briefly tells you how we manage the personal information that we collect, use, hold and disclose and how to contact us if you have any queries. This Privacy Policy does not cover personal information collected or held by us about our employees and is to be read subject to any overriding provisions of law or contract. There are special terms in this privacy policy that will apply to you if you link from one of our websites to a website operated by another person (such as a social media website), using an icon displayed on our websites.</p> <p>We comply with the applicable privacy laws and we are committed to take all reasonably available measures to protect your privacy.</p> <p>By visiting our website and/or providing personal information to us and/or by clicking a link to a another person's website, you consent to the terms and conditions in this Privacy Policy unless you tell us to the contrary by following the instructions contained on our website or by contacting our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> or our <a href="http://www.virginaustralia.com/help/contact-us/">Guest Contact Centre</a>.</p> <h2>General notice for flights to the United States</h2> <p>The Transportation Security Administration (TSA) requires you to provide your full name, date of birth, and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA Web site at <a href="http://www.tsa.gov" target="_blank">www.tsa.gov</a>.<br> &nbsp;</p> <h2>1. Background</h2> <p>Personal information is information or an opinion, in any form and whether true or not, about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion.</p> <p>Other than in the United States, sensitive information encompasses health information and information about a person's race, ethnic origin, political opinions, membership of political, professional or trade associations, religious or philosophical beliefs, sexual preferences and criminal history. Sensitive information may only be collected if you consent to it or when required by law. We will assume that, unless you tell us otherwise, you have consented to the collection of the information that you have provided to us for use in accordance with this Privacy Policy which may vary from time to time.</p> <p>In this policy, we refer collectively to personal information and sensitive information as personal information.</p> <p>We only collect the personal information we reasonably require, in the course of our business of providing services, in accordance with this Privacy Policy by lawful, fair and non intrusive means.</p> <h2>2.	Personal information collected in the United States</h2> <p>In the United States, personal information might include your name, mailing address, telephone number, mobile phone number, email address, and other identification and contact information.  We may also collect certain financial information; whenever we do so, we will attempt to provide a link to this Policy so that you can confirm how this information will be used.  With this information, we can fill your service and product orders and better provide you with personalized services. Personal information is not information that does not identify a specific individual by itself or in combination with other information.  We may gather certain information about you such as age, date of birth, gender, as well as consumer purchasing information based upon where you shop on any one of our websites.  This information may be compiled and analyzed on both a personal and an aggregated basis.  This information may include the website's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address.  A URL is the global address of documents and other resources on the Internet.  An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the Internet.  Networks use the TCP/IP protocol to route information based on the IP address of the destination.  In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet, allowing Internet servers to locate and identify your computer.  Computers require IP addresses in order for users to communicate on the Internet, browse and shop.</p> <h2>3. Collection of Personal Information by Us</h2> <p>In addition to our need to collect personal information to provide services, we are also required to collect personal information under the laws pertaining to civil aviation and air travel.</p> <p>The kinds of personal information we collect and store will depend on what products and services you request from us. However, it may include (amongst other things):</p> <ul>     <li>Personal information you give us when you request a product or service from us. This information may include your intended travel dates, place of departure, intended destination and whether you are an adult or a child;</li>     <li>Personal information you give us when you make a flight booking. This information may include your name, address, telephone numbers, email address, credit card details, passport details and Velocity Rewards membership number;</li>     <li>Communications between you and us;</li>     <li>Transactional information about your use of our products and services (for example your feedback on how you enjoyed your flight with us); and</li>     <li>If you are applying for a position, we will collect information as outlined in the section below titled "Employment Applications".</li> </ul> <h2>4. Where Your Personal Information is Stored</h2> <p>Where we store your personal information depends on what products and services you have requested from us. However, some areas may include (amongst other things):</p> <ul>     <li>Our booking system for use of processing transactions, providing confirmation of flights, being aware of any special travel requirements (health or otherwise) and confirming identity;</li>     <li>Feedback databases for processing customer feedback; and</li>     <li>Email databases for V-Mail and The Lounge subscriptions.</li> </ul> <p>For further information on how we use your information, check the section entitled Use and disclosure of personal information by us.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>5. How Your Personal Information is Stored</h2> <p>We take reasonable steps to preserve your personal information from loss, unauthorised access, modification or disclosure in accordance with the Virgin Australia Web Site Terms of Use and this Privacy Policy.</p> <p>We regularly review developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.</p> <p>If a substantial data breach has or may have occurred (i.e. your personal information was shared with unauthorised entities), we will promptly notify you and the Privacy Commissioner about that actual or possible breach.</p> <p>We only keep your personal information for as long as it is required for the purpose for which it was collected or as otherwise required by law. We take appropriate measures to destroy or permanently de-identify your personal information when we no longer need to retain it. These measures may vary depending on the type of personal information concerned, the way it was collected and how it is stored.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>6. How Your Personal Information will be Used</h2> <p>We collect your personal information so that we can use it for our functions and activities and to provide services to you, which include, amongst other things:</p> <ul>     <li>Processing your flight booking and any flight booking of a person travelling with you;</li>     <li>Being aware of any special travel requirements (health or otherwise) you or your travelling companion may have;</li>     <li>Providing you with confirmation of your flight booking and advising you of any changes to your itinerary;</li>     <li>Confirming your identity when you check in;</li>     <li>Processing your purchase of in-flight services such as video, entertainment, food and beverages;</li>     <li>Processing and considering your employment application (refer to "Employment Application" section below);</li>     <li>Addressing any feedback or complaints you may have;</li>     <li>Assisting Customs and Immigration officials;</li>     <li>Answering any queries you may have;</li>     <li>Developing and marketing our products and services;</li>     <li>Conducting research about our products and services;</li>     <li>Responding to your request to link from our websites to another person's website (such as a social media website); and</li>     <li>Collecting payment from you for services or goods we supply to you.</li> </ul> <p>If you do not provide us with your personal information, we will be unable to do one or more of the above (including being unable to accept any flight booking).</p> <p>If you also subscribe to our mailing list, we may email to you updates about our products and services. If you do not wish to remain a subscriber to our mailing list or otherwise receive updates on our products and services, you are able to unsubscribe from our mailing list via our website, by clicking on the ‘Unsubscribe’ link on an email from us, or by contacting our Guest Contact Centre.</p> <p>If you are making a flight booking for yourself and other persons to the same destination, you acknowledge that your personal information will be shared with such other persons.</p> <h2>7. Exchange of Personal Information with Third Parties</h2> <p>Personal information we collect from you may be disclosed:</p> <ul>     <li>To any entity to which we are required or authorised by or under law to disclose such information (for instance, law enforcement agencies and investigative agencies, courts, various other government bodies);</li>     <li>To our subsidiaries, other related entities, contractors or agents for the purposes set out in the section above entitled "How your personal information will be used", or for other purposes directly related to the purpose for which the personal information is collected;</li>     <li>To other airlines or travel-related businesses for the purpose of processing your travel arrangements;</li>     <li>To others in the event of a medical emergency or aircraft incident;</li>     <li>To others that you have been informed of at the time any personal information is collected from you;</li>     <li>To your travelling companions where you have booked a flight for yourself and other person(s) to the same destination;</li>     <li>To our business associates and others for purposes directly related to the purpose for which the personal information is collected;</li>     <li>To airport management and security personnel;</li>     <li>To our professional advisors and other contractors (for example IT consultants and mailing houses);</li>     <li>In accordance with the Special terms for links to third party websites; or</li>     <li>With your consent (express or implied), to others.</li> </ul> <p>Such disclosure may include the transfer of your personal information between Australia and Canada, Cook Islands, Fiji, Indonesia, New Zealand, Papua New Guinea, Samoa, Solomon Islands, South Africa, Thailand, Tonga, United Kingdom, United States of America and Vanuatu or, if the Special terms for links to third party websites apply, to any country in the world. You consent to your personal information being disclosed to these overseas recipients unless you advise the <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> or the Guest Contact Centre otherwise. Please note that if you do not authorise us to transfer your personal information, it may limit the services we can provide to you or may prevent us from supplying services to you.</p> <p>We may also obtain personal and other information from some or all of the third parties listed above to enable us to provide our services or products to you. When we obtain personal and other information from third parties whom we are referred to by you, we will assume and you will ensure that you have made that third party aware of the referral of the persons and purposes involved in the collection, use and disclosure of the relevant personal or other information.</p> <h2>8. Use and Disclosure of Personal Information by Us</h2> <p>If we use or disclose your personal information for a purpose (the "secondary purpose") other the main reason for which it was originally collected (the "primary purpose"), to the extent required by law, we will ensure that:</p> <ul>     <li>The secondary purpose is related to the primary purpose of collection (and directly related in the case of sensitive information), and you would reasonably expect that we would use or disclose your information in that way; or</li>     <li>You have consented to the use or disclosure of your personal information for the secondary purpose; or</li>     <li>The use or disclosure is required or authorised by or under law; or</li>     <li>The use or disclosure is otherwise permitted by law (for example, as a necessary part of an investigation of suspected unlawful activity).</li> </ul> <h2 style="text-align: left">9. Employment Applications</h2> <p>Generally, the type of personal information we collect about you is the information included in your application, for example, your name, mailing address, telephone number, email address, career history, education details or other information relating to your career.</p> <p>In considering your application, we may also obtain personal information about you from third parties, for example, from your previous employers or nominated referees. We may also collect sensitive information about you such as information about your health (including any disability) or any criminal record that you may have.</p> <p>We collect personal information for any one or more of the following purposes:</p> <ul>     <li>Assess you for a position or positions with us or our related entities;</li>     <li>Assess whether you are suitable to progress to each stage of the recruitment process for a vacant position; or</li>     <li>Store your information for future job opportunities.</li> </ul> <p>If you do not provide us with the information we seek, we will be unable to do one or more of the above.</p> <p>We may disclose your personal information to:</p> <ul>     <li>Organisations that conduct competency or psychometric tests;</li>     <li>Referees or previous employers;</li>     <li>Recruitment agencies or related entities acting on our behalf;</li>     <li>Our related entities;</li>     <li>Law enforcement agencies to verify whether you have a criminal record; or</li>     <li>Educational or vocational organisations to the extent necessary to verify your qualifications.</li> </ul> <p>If we engage third party contractors to perform services for us which involves handling personal information we will take reasonable steps to prohibit the contractor from using personal information except for the purposes for which it was supplied.</p> <h2>10. Collection of Information Other than Personal Information</h2> <p>If you visit our website, some of the information we and/or our contractors collect about your visit to our website is not personal information because it does not reveal your identity. Information of this nature can include:</p> <p><strong>Site Visit Information</strong></p> <p>When you visit our website, we and/or our contractors collect general information about your visit which may include your server address, the date and time of your visit, the pages you accessed, the information you downloaded and the type of Internet browser you used.</p> <p>We and/or our contractors may use this information in anonymous, aggregated form, for statistical purposes only, to assist us in improving the quality and usability of our website.</p> <p><strong>Cookies </strong></p> <p>A cookie is a small string of information that a website transfers to your browser for identification purposes. The cookies we and/or our contractors use may identify individual users.</p> <p>Cookies can either be "persistent" or "session" based. Persistent cookies are stored on your computer, contain an expiration date, and are mainly for the user's convenience. Session cookies are short-lived and are held on your browser's memory only for the duration of your session, they are used only during a browsing session, and expire when you quit your browser.</p> <p>We and/or our contractors may use both session and persistent cookies. This information may be used to personalise your current visit to our and our contractors' websites. Upon closing your browser, the session cookie is destroyed.</p> <p>Most Internet browsers can be set to accept or reject cookies. If you do not want to accept cookies, you can adjust your Internet browser to reject cookies or to notify you when they are being used. However, rejecting cookies may limit the functionality of our website.</p> <h2>11. Collection of Personal Information from Children</h2> <p>Virgin Australia hosts general audience sites and does not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide us with personally identifiable information of any kind whatsoever. If your child provides us with personally identifiable information, you may contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> to delete this information from our records.</p> <h2>12. Access and Correction of Your Personal Information</h2> <p>You can ask to obtain access to your personal information that we and/or our contractors hold, although under some circumstances permitted by law, we may not provide such information to you. Also, we may not be able to require our contractors to provide personal information to you. We may not be able to require the operators of websites operated by other people (such as social media website operators) to provide personal information to you</p> <p>We may ask you to put your request in writing and pay a reasonable fee levied by us for providing you with the information you have requested. We may also ask you to provide us with some proof of identification before releasing or correcting your personal information.</p> <p>It is important to us that the personal information we hold about you is accurate, complete and up-to-date. If you are aware that this is not case and would like to correct your personal information, or simply desire access to your personal information, please contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a>.</p> <p>We will deal with your request within a reasonable time and, if we decide not to correct or provide you with access to your personal information, we will give you our reasons for our decision.</p> <h2>13. Site Security Policy</h2> <p>Our website uses up-to-date technology to maximise the security of your personal information. Technology such as Secure Site Certificates and Secure Socket Layers ensure your information is as secure as possible. Particularly, we use a Thawte Secure Site Certificate to protect your personal information. Details and validity of this certificate can be viewed by clicking the thawte verification link in our Website Security FAQ.</p> <p>More information on Website Security can be found in our FAQ section and includes the topics below</p> <ul>     <li>What is SSL?</li>     <li>What Are Cookies Used For?</li>     <li>How Do I Maximise My Security Settings And Still Be Able To Book Flights?</li>     <li>What Is Virgin Australia's Security Certification?</li> </ul> <p>Using supported browsers and plugins also plays a part in your Website Security. For information on supported Browsers and Plugins check the minimum requirements in our FAQ.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>14. Method of Sale</h2> <p>There are three ways to book a flight with Virgin Australia and those are:</p> <ul>     <li>Through our website (<a href="http://www.virginaustralia.com">www.virginaustralia.com</a>) or related entity websites or through other legitimate travel websites;</li>     <li>Through your local travel agent; or</li>     <li>By calling our friendly Guest Contact Centre on one of the following numbers:</li> </ul> <table width="100%" cellspacing="1" cellpadding="1" border="1">     <thead>         <tr>             <th width="50%" scope="col">If Calling from<span style="white-space: pre" class="Apple-tab-span"> </span></th>             <th width="50%" scope="col">Contact Number</th>         </tr>     </thead>     <tbody>         <tr>             <td style="text-align: left">Australia (all airlines)</td>             <td style="text-align: left">13 67 89</td>         </tr>         <tr>             <td style="text-align: left">New Zealand</td>             <td style="text-align: left">0800 67 0000</td>         </tr>         <tr>             <td style="text-align: left">United States of America</td>             <td style="text-align: left">1-800 444 0260</td>         </tr>         <tr>             <td style="text-align: left">United Arab Emirates</td>             <td style="text-align: left">8000 170 050</td>         </tr>         <tr>             <td style="text-align: left">United Kingdom</td>             <td style="text-align: left">0843 104 7777</td>         </tr>         <tr>             <td style="text-align: left"><p>South Africa **</p>             <p>(**being decommissioned on 22nd Feb 2012)</p></td>             <td style="text-align: left">+27 11 461 6444</td>         </tr>         <tr>             <td style="text-align: left">Anywhere else in the world</td>             <td style="text-align: left">+61 7 3295 2296</td>         </tr>     </tbody> </table> <p style="text-align: left">&nbsp;</p> <p>Please note that Virgin Australia does NOT cold call Guests or engage in unsolicited telemarketing campaigns, so do not under any circumstances accept a verbal offer over the phone or provide credit card details to anyone calling you directly and claiming to be from Virgin Australia.</p> <h2>15. Complaints</h2> <p>If you have a complaint about the way we have dealt with your personal information, please contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a>.</p> <p>We will make all attempts to respond to your complaints or requests within a reasonable time after the complaint or request was made.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>16. Updates to Privacy Policy</h2> <p>We may amend this Privacy Policy at any time and from time to time. If we do so, we will post the amended Privacy Policy on our website (mentioned above) so that you will always be aware of how we manage your personal information.  For the avoidance of doubt, the Privacy Policy applicable to the management of your personal information will be the policy published on our website at the time we handle your personal information. The Privacy Policy is also available upon request to our Guest Contact Centre.. Please review our <a href="http://www.virginaustralia.com/about-us/legal-policies/terms-of-use/">Terms of Use</a>  before proceeding to use our website.</p> <h2>17. Further Information</h2> <p>Please contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> if you have any queries about the personal information that we hold about you or the way we handle that personal information.<a name="privacy_officer"></a></p> <h2>18. Privacy Officer Contact Details</h2> <p>The Privacy Officer - Legal<br> Virgin Australia Holdings Ltd<br> PO Box 1034<br> SPRING HILL QLD 4004<br> AUSTRALIA <br> Ph: +61 7 3295 3000<br> Fax: +61 7 3839 4024<br> Email: <a href="mailto:feedback@virginaustralia.com">feedback@virginaustralia.com</a></p> <h2>19. Special Terms For Links To Third Party Websites</h2> <p>These special terms apply to you if you link from one of our websites to a website operated by somebody else, such as a social media website (referred to as a third party website). By clicking on a link to any third party website, you consent to these special terms.</p> <p>In order for us to process your request to link to a third party website, we must share your personal information with our software provider and the operator of that website. You consent to us sharing your personal information with those people.</p> <p>We do not have any control over how third party website operators may deal with your personal information once we provide it to them. In particular, we do not have any control over:</p> <ul>     <li>Where they store your personal information;</li>     <li>How they store your personal information;</li>     <li>How they use your personal information;</li>     <li>Whether and how they exchange your personal information with other people;</li>     <li>Which other countries (if any) they transfer your personal information to;</li>     <li>How you can access or correct your personal information held by the third party website operators;</li>     <li>The security policies and procedures (if any) implemented on the third party websites;</li>     <li>Whether those third party website operators have privacy policies and whether they comply with those policies (if any); or</li>     <li>Whether or not those third party website operators comply with privacy laws.</li> </ul> <p>We do not make any representations or warranties of any kind about any of these matters. We are not responsible in any way for any loss or damage which third party website operators may cause to you, in relation to your personal information. We are unable to address any complaint which you may have about the way that third party website operators deal with your personal information. You must contact the third party website operator directly if you have concerns or require any information about any of those matters.<br> &nbsp;</p>
+	<h2>Privacy Policy – Virgin Australia</h2> <p>Virgin Australia Holdings Ltd ACN 100 686 226, its subsidiaries and other related companies, including Virgin Australia Airlines, Virgin Australia Airlines (NZ), Virgin Australia Airlines (SE Asia), Virgin Samoa, Virgin Australia International Airlines and Velocity Rewards (“we”, “us”, and “our”, singularly or collectively as the context requires) recognises the importance of privacy issues. This Privacy Policy briefly tells you how we manage the personal information that we collect, use, hold and disclose and how to contact us if you have any queries. This Privacy Policy does not cover personal information collected or held by us about our employees and is to be read subject to any overriding provisions of law or contract. There are special terms in this privacy policy that will apply to you if you link from one of our websites to a website operated by another person (such as a social media website), using an icon displayed on our websites.</p> <p>We comply with the applicable privacy laws and we are committed to take all reasonably available measures to protect your privacy.</p> <p>By visiting our website and/or providing personal information to us and/or by clicking a link to a another person's website, you consent to the terms and conditions in this Privacy Policy unless you tell us to the contrary by following the instructions contained on our website or by contacting our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> or our <a href="http://www.virginaustralia.com/help/contact-us/">Guest Contact Centre</a>.</p> <h2>General notice for flights to the United States</h2> <p>The Transportation Security Administration (TSA) requires you to provide your full name, date of birth, and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA Web site at <a href="http://www.tsa.gov" target="_blank">www.tsa.gov</a>.<br> &nbsp;</p> <h2>1. Background</h2> <p>Personal information is information or an opinion, in any form and whether true or not, about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion.</p> <p>Other than in the United States, sensitive information encompasses health information and information about a person's race, ethnic origin, political opinions, membership of political, professional or trade associations, religious or philosophical beliefs, sexual preferences and criminal history. Sensitive information may only be collected if you consent to it or when required by law. We will assume that, unless you tell us otherwise, you have consented to the collection of the information that you have provided to us for use in accordance with this Privacy Policy which may vary from time to time.</p> <p>In this policy, we refer collectively to personal information and sensitive information as personal information.</p> <p>We only collect the personal information we reasonably require, in the course of our business of providing services, in accordance with this Privacy Policy by lawful, fair and non intrusive means.</p> <h2>2.	Personal information collected in the United States</h2> <p>In the United States, personal information might include your name, mailing address, telephone number, mobile phone number, email address, and other identification and contact information.  We may also collect certain financial information; whenever we do so, we will attempt to provide a link to this Policy so that you can confirm how this information will be used.  With this information, we can fill your service and product orders and better provide you with personalized services. Personal information is not information that does not identify a specific individual by itself or in combination with other information.  We may gather certain information about you such as age, date of birth, gender, as well as consumer purchasing information based upon where you shop on any one of our websites.  This information may be compiled and analyzed on both a personal and an aggregated basis.  This information may include the website's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address.  A URL is the global address of documents and other resources on the Internet.  An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the Internet.  Networks use the TCP/IP protocol to route information based on the IP address of the destination.  In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet, allowing Internet servers to locate and identify your computer.  Computers require IP addresses in order for users to communicate on the Internet, browse and shop.</p> <h2>3. Collection of Personal Information by Us</h2> <p>In addition to our need to collect personal information to provide services, we are also required to collect personal information under the laws pertaining to civil aviation and air travel.</p> <p>The kinds of personal information we collect and store will depend on what products and services you request from us. However, it may include (amongst other things):</p> <ul>     <li>Personal information you give us when you request a product or service from us. This information may include your intended travel dates, place of departure, intended destination and whether you are an adult or a child;</li>     <li>Personal information you give us when you make a flight booking. This information may include your name, address, telephone numbers, email address, credit card details, passport details and Velocity Rewards membership number;</li>     <li>Communications between you and us;</li>     <li>Transactional information about your use of our products and services (for example your feedback on how you enjoyed your flight with us); and</li>     <li>If you are applying for a position, we will collect information as outlined in the section below titled "Employment Applications".</li> </ul> <h2>4. Where Your Personal Information is Stored</h2> <p>Where we store your personal information depends on what products and services you have requested from us. However, some areas may include (amongst other things):</p> <ul>     <li>Our booking system for use of processing transactions, providing confirmation of flights, being aware of any special travel requirements (health or otherwise) and confirming identity;</li>     <li>Feedback databases for processing customer feedback; and</li>     <li>Email databases for V-Mail and The Lounge subscriptions.</li> </ul> <p>For further information on how we use your information, check the section entitled Use and disclosure of personal information by us.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>5. How Your Personal Information is Stored</h2> <p>We take reasonable steps to preserve your personal information from loss, unauthorised access, modification or disclosure in accordance with the Virgin Australia Web Site Terms of Use and this Privacy Policy.</p> <p>We regularly review developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.</p> <p>If a substantial data breach has or may have occurred (i.e. your personal information was shared with unauthorised entities), we will promptly notify you and the Privacy Commissioner about that actual or possible breach.</p> <p>We only keep your personal information for as long as it is required for the purpose for which it was collected or as otherwise required by law. We take appropriate measures to destroy or permanently de-identify your personal information when we no longer need to retain it. These measures may vary depending on the type of personal information concerned, the way it was collected and how it is stored.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>6. How Your Personal Information will be Used</h2> <p>We collect your personal information so that we can use it for our functions and activities and to provide services to you, which include, amongst other things:</p> <ul>     <li>Processing your flight booking and any flight booking of a person travelling with you;</li>     <li>Being aware of any special travel requirements (health or otherwise) you or your travelling companion may have;</li>     <li>Providing you with confirmation of your flight booking and advising you of any changes to your itinerary;</li>     <li>Confirming your identity when you check in;</li>     <li>Processing your purchase of in-flight services such as video, entertainment, food and beverages;</li>     <li>Processing and considering your employment application (refer to "Employment Application" section below);</li>     <li>Addressing any feedback or complaints you may have;</li>     <li>Assisting Customs and Immigration officials;</li>     <li>Answering any queries you may have;</li>     <li>Developing and marketing our products and services;</li>     <li>Conducting research about our products and services;</li>     <li>Responding to your request to link from our websites to another person's website (such as a social media website); and</li>     <li>Collecting payment from you for services or goods we supply to you.</li> </ul> <p>If you do not provide us with your personal information, we will be unable to do one or more of the above (including being unable to accept any flight booking).</p> <p>If you also subscribe to our mailing list, we may email to you updates about our products and services. If you do not wish to remain a subscriber to our mailing list or otherwise receive updates on our products and services, you are able to unsubscribe from our mailing list via our website, by clicking on the ‘Unsubscribe’ link on an email from us, or by contacting our Guest Contact Centre.</p> <p>If you are making a flight booking for yourself and other persons to the same destination, you acknowledge that your personal information will be shared with such other persons.</p> <h2>7. Exchange of Personal Information with Third Parties</h2> <p>Personal information we collect from you may be disclosed:</p> <ul>     <li>If we reasonably believe that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of an enforcement body:     <ul>         <li>the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law;</li>         <li>the enforcement of laws relating to the confiscation of the proceeds of crime;</li>         <li>the protection of the public revenue;</li>         <li>the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct;</li>         <li>the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal;</li>     </ul></li>     <li>To our subsidiaries, other related entities, contractors or agents for the purposes set out in the section above entitled "How your personal information will be used", or for other purposes directly related to the purpose for which the personal information is collected;</li>     <li>To other airlines or travel-related businesses for the purpose of processing your travel arrangements;</li>     <li>To others in the event of a medical emergency or aircraft incident;</li>     <li>To others that you have been informed of at the time any personal information is collected from you;</li>     <li>To your travelling companions where you have booked a flight for yourself and other person(s) to the same destination;</li>     <li>To our business associates and others for purposes directly related to the purpose for which the personal information is collected;</li>     <li>To airport management and security personnel;</li>     <li>To our professional advisors and other contractors (for example IT consultants and mailing houses);</li>     <li>In accordance with the Special terms for links to third party websites; or</li>     <li>With your consent (express or implied), to others.</li> </ul> <p>Such disclosure may include the transfer of your personal information between Australia and Canada, Cook Islands, Fiji, Indonesia, New Zealand, Papua New Guinea, Samoa, Solomon Islands, South Africa, Thailand, Tonga, United Kingdom, United States of America and Vanuatu or, if the Special terms for links to third party websites apply, to any country in the world. You consent to your personal information being disclosed to these overseas recipients unless you advise the <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> or the Guest Contact Centre otherwise. Please note that if you do not authorise us to transfer your personal information, it may limit the services we can provide to you or may prevent us from supplying services to you.</p> <p>We may also obtain personal and other information from some or all of the third parties listed above to enable us to provide our services or products to you. When we obtain personal and other information from third parties whom we are referred to by you, we will assume and you will ensure that you have made that third party aware of the referral of the persons and purposes involved in the collection, use and disclosure of the relevant personal or other information.</p> <h2>8. Use and Disclosure of Personal Information by Us</h2> <p>If we use or disclose your personal information for a purpose (the "secondary purpose") other the main reason for which it was originally collected (the "primary purpose"), to the extent required by law, we will ensure that:</p> <ul>     <li>The secondary purpose is related to the primary purpose of collection (and directly related in the case of sensitive information), and you would reasonably expect that we would use or disclose your information in that way; or</li>     <li>You have consented to the use or disclosure of your personal information for the secondary purpose; or</li>     <li>The use or disclosure is required or authorised by or under law; or</li>     <li>The use or disclosure is otherwise permitted by law (for example, as a necessary part of an investigation of suspected unlawful activity).</li> </ul> <h2 style="text-align: left">9. Employment Applications</h2> <p>Generally, the type of personal information we collect about you is the information included in your application, for example, your name, mailing address, telephone number, email address, career history, education details or other information relating to your career.</p> <p>In considering your application, we may also obtain personal information about you from third parties, for example, from your previous employers or nominated referees. We may also collect sensitive information about you such as information about your health (including any disability) or any criminal record that you may have.</p> <p>We collect personal information for any one or more of the following purposes:</p> <ul>     <li>Assess you for a position or positions with us or our related entities;</li>     <li>Assess whether you are suitable to progress to each stage of the recruitment process for a vacant position; or</li>     <li>Store your information for future job opportunities.</li> </ul> <p>If you do not provide us with the information we seek, we will be unable to do one or more of the above.</p> <p>We may disclose your personal information to:</p> <ul>     <li>Organisations that conduct competency or psychometric tests;</li>     <li>Referees or previous employers;</li>     <li>Recruitment agencies or related entities acting on our behalf;</li>     <li>Our related entities;</li>     <li>Law enforcement agencies to verify whether you have a criminal record; or</li>     <li>Educational or vocational organisations to the extent necessary to verify your qualifications.</li> </ul> <p>If we engage third party contractors to perform services for us which involves handling personal information we will take reasonable steps to prohibit the contractor from using personal information except for the purposes for which it was supplied.</p> <h2>10. Collection of Information Other than Personal Information</h2> <p>If you visit our website, some of the information we and/or our contractors collect about your visit to our website is not personal information because it does not reveal your identity. Information of this nature can include:</p> <p><strong>Site Visit Information</strong></p> <p>When you visit our website, we and/or our contractors collect general information about your visit which may include your server address, the date and time of your visit, the pages you accessed, the information you downloaded and the type of Internet browser you used.</p> <p>We and/or our contractors may use this information in anonymous, aggregated form, for statistical purposes only, to assist us in improving the quality and usability of our website.</p> <p><strong>Cookies </strong></p> <p>A cookie is a small string of information that a website transfers to your browser for identification purposes. The cookies we and/or our contractors use may identify individual users.</p> <p>Cookies can either be "persistent" or "session" based. Persistent cookies are stored on your computer, contain an expiration date, and are mainly for the user's convenience. Session cookies are short-lived and are held on your browser's memory only for the duration of your session, they are used only during a browsing session, and expire when you quit your browser.</p> <p>We and/or our contractors may use both session and persistent cookies. This information may be used to personalise your current visit to our and our contractors' websites. Upon closing your browser, the session cookie is destroyed.</p> <p>Most Internet browsers can be set to accept or reject cookies. If you do not want to accept cookies, you can adjust your Internet browser to reject cookies or to notify you when they are being used. However, rejecting cookies may limit the functionality of our website.</p> <h2>11. Collection of Personal Information from Children</h2> <p>Virgin Australia hosts general audience sites and does not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide us with personally identifiable information of any kind whatsoever. If your child provides us with personally identifiable information, you may contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> to delete this information from our records.</p> <h2>12. Access and Correction of Your Personal Information</h2> <p>You can ask to obtain access to your personal information that we and/or our contractors hold, although under some circumstances permitted by law, we may not provide such information to you. Also, we may not be able to require our contractors to provide personal information to you. We may not be able to require the operators of websites operated by other people (such as social media website operators) to provide personal information to you</p> <p>We may ask you to put your request in writing and pay a reasonable fee levied by us for providing you with the information you have requested. We may also ask you to provide us with some proof of identification before releasing or correcting your personal information.</p> <p>It is important to us that the personal information we hold about you is accurate, complete and up-to-date. If you are aware that this is not case and would like to correct your personal information, or simply desire access to your personal information, please contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a>.</p> <p>We will deal with your request within a reasonable time and, if we decide not to correct or provide you with access to your personal information, we will give you our reasons for our decision.</p> <h2>13. Site Security Policy</h2> <p>Our website uses up-to-date technology to maximise the security of your personal information. Technology such as Secure Site Certificates and Secure Socket Layers ensure your information is as secure as possible. Particularly, we use a Thawte Secure Site Certificate to protect your personal information. Details and validity of this certificate can be viewed by clicking the thawte verification link in our Website Security FAQ.</p> <p>More information on Website Security can be found in our FAQ section and includes the topics below</p> <ul>     <li>What is SSL?</li>     <li>What Are Cookies Used For?</li>     <li>How Do I Maximise My Security Settings And Still Be Able To Book Flights?</li>     <li>What Is Virgin Australia's Security Certification?</li> </ul> <p>Using supported browsers and plugins also plays a part in your Website Security. For information on supported Browsers and Plugins check the minimum requirements in our FAQ.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>14. Method of Sale</h2> <p>There are three ways to book a flight with Virgin Australia and those are:</p> <ul>     <li>Through our website (<a href="http://www.virginaustralia.com">www.virginaustralia.com</a>) or related entity websites or through other legitimate travel websites;</li>     <li>Through your local travel agent; or</li>     <li>By calling our friendly Guest Contact Centre on one of the following numbers:</li> </ul> <table width="100%" cellspacing="1" cellpadding="1" border="1">     <thead>         <tr>             <th width="50%" scope="col">If Calling from<span style="white-space: pre" class="Apple-tab-span"> </span></th>             <th width="50%" scope="col">Contact Number</th>         </tr>     </thead>     <tbody>         <tr>             <td style="text-align: left">Australia (all airlines)</td>             <td style="text-align: left">13 67 89</td>         </tr>         <tr>             <td style="text-align: left">New Zealand</td>             <td style="text-align: left">0800 67 0000</td>         </tr>         <tr>             <td style="text-align: left">United States of America</td>             <td style="text-align: left">1-800 444 0260</td>         </tr>         <tr>             <td style="text-align: left">United Arab Emirates</td>             <td style="text-align: left">8000 170 050</td>         </tr>         <tr>             <td style="text-align: left">United Kingdom</td>             <td style="text-align: left">0843 104 7777</td>         </tr>         <tr>             <td style="text-align: left"><p>South Africa **</p>             <p>(**being decommissioned on 22nd Feb 2012)</p></td>             <td style="text-align: left">+27 11 461 6444</td>         </tr>         <tr>             <td style="text-align: left">Anywhere else in the world</td>             <td style="text-align: left">+61 7 3295 2296</td>         </tr>     </tbody> </table> <p style="text-align: left">&nbsp;</p> <p>Please note that Virgin Australia does NOT cold call Guests or engage in unsolicited telemarketing campaigns, so do not under any circumstances accept a verbal offer over the phone or provide credit card details to anyone calling you directly and claiming to be from Virgin Australia.</p> <h2>15. Complaints</h2> <p>If you have a complaint about the way we have dealt with your personal information, please contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a>.</p> <p>We will make all attempts to respond to your complaints or requests within a reasonable time after the complaint or request was made.</p> <p>For special terms that apply if you link from one of our websites to a website operated by another person, using an icon displayed on our websites, check the section entitled Special terms for links to third party websites.</p> <h2>16. Updates to Privacy Policy</h2> <p>We may amend this Privacy Policy at any time and from time to time. If we do so, we will post the amended Privacy Policy on our website (mentioned above) so that you will always be aware of how we manage your personal information.  For the avoidance of doubt, the Privacy Policy applicable to the management of your personal information will be the policy published on our website at the time we handle your personal information. The Privacy Policy is also available upon request to our Guest Contact Centre.. Please review our <a href="http://www.virginaustralia.com/about-us/legal-policies/terms-of-use/">Terms of Use</a>  before proceeding to use our website.</p> <h2>17. Further Information</h2> <p>Please contact our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Officer</a> if you have any queries about the personal information that we hold about you or the way we handle that personal information.<a name="privacy_officer"></a></p> <h2>18. Privacy Officer Contact Details</h2> <p>The Privacy Officer - Legal<br> Virgin Australia Holdings Ltd<br> PO Box 1034<br> SPRING HILL QLD 4004<br> AUSTRALIA <br> Ph: +61 7 3295 3000<br> Fax: +61 7 3839 4024<br> Email: <a href="mailto:feedback@virginaustralia.com">feedback@virginaustralia.com</a></p> <h2>19. Special Terms For Links To Third Party Websites</h2> <p>These special terms apply to you if you link from one of our websites to a website operated by somebody else, such as a social media website (referred to as a third party website). By clicking on a link to any third party website, you consent to these special terms.</p> <p>In order for us to process your request to link to a third party website, we must share your personal information with our software provider and the operator of that website. You consent to us sharing your personal information with those people.</p> <p>We do not have any control over how third party website operators may deal with your personal information once we provide it to them. In particular, we do not have any control over:</p> <ul>     <li>Where they store your personal information;</li>     <li>How they store your personal information;</li>     <li>How they use your personal information;</li>     <li>Whether and how they exchange your personal information with other people;</li>     <li>Which other countries (if any) they transfer your personal information to;</li>     <li>How you can access or correct your personal information held by the third party website operators;</li>     <li>The security policies and procedures (if any) implemented on the third party websites;</li>     <li>Whether those third party website operators have privacy policies and whether they comply with those policies (if any); or</li>     <li>Whether or not those third party website operators comply with privacy laws.</li> </ul> <p>We do not make any representations or warranties of any kind about any of these matters. We are not responsible in any way for any loss or damage which third party website operators may cause to you, in relation to your personal information. We are unable to address any complaint which you may have about the way that third party website operators deal with your personal information. You must contact the third party website operator directly if you have concerns or require any information about any of those matters.<br> &nbsp;</p>
 	</div>
+					
+	
+	
+									
+	<div class="free-text">
+	<p>You have previously accepted Virgin Australia cookies. If you wish to opt out, and no longer accept Virgin Australia cookies, please clear cookies using the button below.</p> <ul>     <li>To find out more about the use of cookies by Virgin Australia <a href="../../../plan/destinations/destination-guides/asia-pacific/bangalore/">read our Cookie Policy.</a></li> </ul>
+	</div>
+					
+	
+	
+									
+	<div class="cookieButton">
+		<div data-widgetclass="CookieCutter" class="grey-button">
+			<a href="../../../about-us/legal-policies/privacy/" class="button"><span><span>Clear Cookies</span></span></a>
 		</div>
+	</div>
+	<div class="clearBoth"></div>
+					
+	
+</div>
 				</div>
 			<div class="clearBoth"></div>
 		</div>
 	</div>
 	<div id="rightSidebar">
+	
+									
 	<div class="booking-panel">
 		<h3 class="flightsHeading">Book Flights</h3>
 		<div id="book-flights">
@@ -1362,10 +1762,56 @@ if (mboxSiteSection != '') {
 
 
 
-			 
+
+			
 
 
-			<form data-widgetclass="BookingSearchFormValidator" data-savecookie="bookingsearchformdata" method="post">
+				
+
+
+
+
+
+<div id="flyout-portalert" class="hide" data-widgetclass="PortAlertFlyout" data-portalertflyout="{&quot;alertIds&quot;:[&quot;134516803552&quot;,&quot;13454346439&quot;,&quot;134543479699&quot;,&quot;134628312634&quot;],&quot;positionRightOfTarget&quot;:&quot;false&quot;,&quot;leftOffset&quot;:&quot;16&quot;}">
+	<h2>Please note</h2>
+	
+		<div id="portalert134516803552" class="hide segment">
+		<p><span style="font-weight:bold;color:	#BE0F34;">New:</span>&nbsp; All guests receive a complimentary hot meal and beverage offering.  Beverages include beer and wine after 9:30.</p>
+		
+			<ul><li>&gt;  <a href="http://www.virginaustralia.com/uk/en/experience/on-board-the-flight/on-board-menu/" title="Learn More">Learn More</a></li></ul>
+		
+		<div class="hr"></div>
+		</div>
+	
+		<div id="portalert13454346439" class="hide segment">
+		<p><span style="font-weight:bold;color:	#BE0F34;">New:</span>&nbsp; All guests receive a complimentary hot meal and beverage offering. Beverages include beer and wine after 9:30.</p>
+		
+			<ul><li>&gt;  <a href="http://www.virginaustralia.com/uk/en/experience/on-board-the-flight/on-board-menu/" title="Learn More">Learn More</a></li></ul>
+		
+		<div class="hr"></div>
+		</div>
+	
+		<div id="portalert134543479699" class="hide segment">
+		<p><span style="font-weight:bold;color:	#BE0F34;">New:</span>&nbsp; All guests receive a complimentary hot meal and beverage offering. Beverages include beer and wine after 9:30.</p>
+		
+			<ul><li>&gt;  <a href="http://www.virginaustralia.com/uk/en/experience/on-board-the-flight/on-board-menu/" title="Learn More">Learn More</a></li></ul>
+		
+		<div class="hr"></div>
+		</div>
+	
+		<div id="portalert134628312634" class="hide segment">
+		<p>A recent uplift ban has been issued by PNG for any foreign media personnel intending to enter PNG for journalism/media purposes to Manus Island.</p>
+		
+			<ul><li>&gt;  <a href="http://www.virginaustralia.com/information/domestic-and-short-haul-international/PNG-media-notice/" title="Find out more">Find out more</a></li></ul>
+		
+		<div class="hr"></div>
+		</div>
+	
+	<span class="portalert-button"><a class="button linkBtn_three"><span><span>Ok</span></span></a></span>
+</div>
+
+
+				<form data-widgetclass="BookingSearchFormValidator PortAlert" data-savecookie="bookingsearchformdata" method="post" data-portalert="{&quot;url&quot;:&quot;/json/flight/portAlerts.json&quot;, &quot;listenevents&quot;:&quot;ajaxUpdateComplete tripTypeChange dateChanged destChange&quot;, &quot;targetSelector&quot;:&quot;#flights_destination ~ .input_required&quot;}">
 				<div class="section">
 						<div data-widgetclass="Sitecatalyst" data-sitecatalyst="{&quot;eVar48&quot;:&quot;My_Recent_Searches_Side_Panel&quot;}" class="recentSearches" data-recentsearchesformat="%{origin} to %{destination} - %{date_start} - %{calc_return} - %{seat_count}"></div>
 					<input type="radio" data-widgetclass="TripTypeHandler" data-publishevents="{&quot;change&quot;:&quot;tripTypeChange&quot;,&quot;ready&quot;:&quot;tripTypeReady&quot;}" id="flights_trip_return" name="trip_type" value="1" checked="checked" data-persistfield="true" data-persistdelay="true" data-retriggerchange="true">
@@ -1375,6 +1821,7 @@ if (mboxSiteSection != '') {
 					<a href="http://book.virginaustralia.com/Search.aspx?multicity=true" class="ui-helper-clearfix bridged">Multi-city</a>
 				</div>
 				<div data-widgetclass="CityPair" class="city-pair section ui-helper-clearfix">
+						
 						
 
 <div data-optiondialogpreselect="" data-predictivelistformat="%{city}, %{country} <span>(%{iata})</span>" data-optiondialoggroup="region" data-optiondialogdisplayall="true" data-dialoganchor=".myanchor" data-optiondialogformat="%{city} <span>(%{iata})</span>" data-optiondialogsectionsubject="city" data-dialoglabel="origin" data-widgetclass="PredictiveList OptionDialogPorts">
@@ -1418,29 +1865,45 @@ if (mboxSiteSection != '') {
 <option value="PER" data-iata="PER" data-city="Perth" data-display="Perth" data-country="Australia" data-international="false" data-region="Australia">Perth, Australia (PER)</option>
 <option value="PHE" data-iata="PHE" data-city="Port Hedland" data-display="Port Hedland" data-country="Australia" data-international="false" data-region="Australia">Port Hedland, Australia (PHE)</option>
 <option value="PQQ" data-iata="PQQ" data-city="Port Macquarie" data-display="Port Macquarie" data-country="Australia" data-international="false" data-region="Australia">Port Macquarie, Australia (PQQ)</option>
+<option value="PPP" data-iata="PPP" data-city="Proserpine (Whitsunday Coast)" data-display="Proserpine (Whitsunday Coast)" data-country="Australia" data-international="false" data-region="Australia">Proserpine (Whitsunday Coast), Australia (PPP)</option>
 <option value="ROK" data-iata="ROK" data-city="Rockhampton" data-display="Rockhampton" data-country="Australia" data-international="false" data-region="Australia">Rockhampton, Australia (ROK)</option>
 <option value="MCY" data-iata="MCY" data-city="Sunshine Coast" data-display="Sunshine Coast" data-country="Australia" data-international="false" data-region="Australia">Sunshine Coast, Australia (MCY)</option>
 <option value="SYD" data-iata="SYD" data-city="Sydney" data-display="Sydney" data-country="Australia" data-international="false" data-region="Australia">Sydney, Australia (SYD)</option>
 <option value="TSV" data-iata="TSV" data-city="Townsville" data-display="Townsville" data-country="Australia" data-international="false" data-region="Australia">Townsville, Australia (TSV)</option>
-<option value="PPP" data-iata="PPP" data-city="Whitsunday Coast" data-display="Whitsunday Coast" data-country="Australia" data-international="false" data-region="Australia">Whitsunday Coast, Australia (PPP)</option>
 <option value="APW" data-iata="APW" data-city="Apia" data-display="Apia" data-country="Samoa" data-international="false" data-region="Pacific">Apia, Samoa (APW)</option>
 <option value="AKL" data-iata="AKL" data-city="Auckland" data-display="Auckland" data-country="New Zealand" data-international="false" data-region="Pacific">Auckland, New Zealand (AKL)</option>
+<option value="BHE" data-iata="BHE" data-city="Blenheim" data-display="Blenheim" data-country="New Zealand" data-international="false" data-region="Pacific">Blenheim, New Zealand (BHE)</option>
 <option value="CHC" data-iata="CHC" data-city="Christchurch" data-display="Christchurch" data-country="New Zealand" data-international="false" data-region="Pacific">Christchurch, New Zealand (CHC)</option>
 <option value="DUD" data-iata="DUD" data-city="Dunedin" data-display="Dunedin" data-country="New Zealand" data-international="false" data-region="Pacific">Dunedin, New Zealand (DUD)</option>
+<option value="GIS" data-iata="GIS" data-city="Gisborne" data-display="Gisborne" data-country="New Zealand" data-international="false" data-region="Pacific">Gisborne, New Zealand (GIS)</option>
 <option value="HLZ" data-iata="HLZ" data-city="Hamilton" data-display="Hamilton" data-country="New Zealand" data-international="false" data-region="Pacific">Hamilton, New Zealand (HLZ)</option>
+<option value="HKK" data-iata="HKK" data-city="Hokitika" data-display="Hokitika" data-country="New Zealand" data-international="false" data-region="Pacific">Hokitika, New Zealand (HKK)</option>
 <option value="HIR" data-iata="HIR" data-city="Honiara" data-display="Honiara" data-country="Solomon Islands" data-international="false" data-region="Pacific">Honiara, Solomon Islands (HIR)</option>
+<option value="IVC" data-iata="IVC" data-city="Invercargill" data-display="Invercargill" data-country="New Zealand" data-international="false" data-region="Pacific">Invercargill, New Zealand (IVC)</option>
+<option value="KAT" data-iata="KAT" data-city="Kaitaia" data-display="Kaitaia" data-country="New Zealand" data-international="false" data-region="Pacific">Kaitaia, New Zealand (KAT)</option>
+<option value="KKE" data-iata="KKE" data-city="Kerikeri" data-display="Kerikeri" data-country="New Zealand" data-international="false" data-region="Pacific">Kerikeri, New Zealand (KKE)</option>
+<option value="MRO" data-iata="MRO" data-city="Masterton" data-display="Masterton" data-country="New Zealand" data-international="false" data-region="Pacific">Masterton, New Zealand (MRO)</option>
 <option value="NAN" data-iata="NAN" data-city="Nadi" data-display="Nadi" data-country="Fiji" data-international="false" data-region="Pacific">Nadi, Fiji (NAN)</option>
 <option value="NPE" data-iata="NPE" data-city="Napier-Hastings" data-display="Napier-Hastings" data-country="New Zealand" data-international="false" data-region="Pacific">Napier-Hastings, New Zealand (NPE)</option>
 <option value="NSN" data-iata="NSN" data-city="Nelson" data-display="Nelson" data-country="New Zealand" data-international="false" data-region="Pacific">Nelson, New Zealand (NSN)</option>
 <option value="NPL" data-iata="NPL" data-city="New Plymouth" data-display="New Plymouth" data-country="New Zealand" data-international="false" data-region="Pacific">New Plymouth, New Zealand (NPL)</option>
 <option value="TBU" data-iata="TBU" data-city="Nuku'alofa" data-display="Nuku'alofa" data-country="Tonga" data-international="false" data-region="Pacific">Nuku'alofa, Tonga (TBU)</option>
 <option value="PMR" data-iata="PMR" data-city="Palmerston North" data-display="Palmerston North" data-country="New Zealand" data-international="false" data-region="Pacific">Palmerston North, New Zealand (PMR)</option>
+<option value="PPQ" data-iata="PPQ" data-city="Paraparaumu" data-display="Paraparaumu" data-country="New Zealand" data-international="false" data-region="Pacific">Paraparaumu, New Zealand (PPQ)</option>
 <option value="POM" data-iata="POM" data-city="Port Moresby" data-display="Port Moresby" data-country="Papua New Guinea" data-international="false" data-region="Pacific">Port Moresby, Papua New Guinea (POM)</option>
 <option value="VLI" data-iata="VLI" data-city="Port Vila" data-display="Port Vila" data-country="Vanuatu" data-international="false" data-region="Pacific">Port Vila, Vanuatu (VLI)</option>
 <option value="ZQN" data-iata="ZQN" data-city="Queenstown" data-display="Queenstown" data-country="New Zealand" data-international="false" data-region="Pacific">Queenstown, New Zealand (ZQN)</option>
 <option value="RAR" data-iata="RAR" data-city="Rarotonga" data-display="Rarotonga" data-country="Cook Islands" data-international="false" data-region="Pacific">Rarotonga, Cook Islands (RAR)</option>
 <option value="ROT" data-iata="ROT" data-city="Rotorua" data-display="Rotorua" data-country="New Zealand" data-international="false" data-region="Pacific">Rotorua, New Zealand (ROT)</option>
+<option value="TUO" data-iata="TUO" data-city="Taupo" data-display="Taupo" data-country="New Zealand" data-international="false" data-region="Pacific">Taupo, New Zealand (TUO)</option>
+<option value="TRG" data-iata="TRG" data-city="Tauranga" data-display="Tauranga" data-country="New Zealand" data-international="false" data-region="Pacific">Tauranga, New Zealand (TRG)</option>
+<option value="TIU" data-iata="TIU" data-city="Timaru" data-display="Timaru" data-country="New Zealand" data-international="false" data-region="Pacific">Timaru, New Zealand (TIU)</option>
+<option value="WKA" data-iata="WKA" data-city="Wanaka" data-display="Wanaka" data-country="New Zealand" data-international="false" data-region="Pacific">Wanaka, New Zealand (WKA)</option>
+<option value="WAG" data-iata="WAG" data-city="Wanganui" data-display="Wanganui" data-country="New Zealand" data-international="false" data-region="Pacific">Wanganui, New Zealand (WAG)</option>
 <option value="WLG" data-iata="WLG" data-city="Wellington" data-display="Wellington" data-country="New Zealand" data-international="false" data-region="Pacific">Wellington, New Zealand (WLG)</option>
+<option value="WSZ" data-iata="WSZ" data-city="Westport" data-display="Westport" data-country="New Zealand" data-international="false" data-region="Pacific">Westport, New Zealand (WSZ)</option>
+<option value="WHK" data-iata="WHK" data-city="Whakatane" data-display="Whakatane" data-country="New Zealand" data-international="false" data-region="Pacific">Whakatane, New Zealand (WHK)</option>
+<option value="WRE" data-iata="WRE" data-city="Whangarei" data-display="Whangarei" data-country="New Zealand" data-international="false" data-region="Pacific">Whangarei, New Zealand (WRE)</option>
 <option value="DPS" data-iata="DPS" data-city="Denpasar" data-display="Denpasar" data-country="Indonesia" data-international="false" data-region="Asia">Denpasar, Indonesia (DPS)</option>
 <option value="HKT" data-iata="HKT" data-city="Phuket" data-display="Phuket" data-country="Thailand" data-international="false" data-region="Asia">Phuket, Thailand (HKT)</option>
 <option value="ASE" data-iata="ASE" data-city="Aspen " data-display="Aspen " data-country="United States" data-international="false" data-region="North America">Aspen , United States (ASE)</option>
@@ -1476,8 +1939,11 @@ if (mboxSiteSection != '') {
 <option value="SEA" data-iata="SEA" data-city="Seattle" data-display="Seattle" data-country="United States" data-international="false" data-region="North America">Seattle, United States (SEA)</option>
 <option value="TPA" data-iata="TPA" data-city="Tampa" data-display="Tampa" data-country="United States" data-international="false" data-region="North America">Tampa, United States (TPA)</option>
 <option value="IAD" data-iata="IAD" data-city="Washington" data-display="Washington" data-country="United States" data-international="false" data-region="North America">Washington, United States (IAD)</option>
+<option value="DUS" data-iata="DUS" data-city="Düsseldorf" data-display="Düsseldorf" data-country="Germany" data-international="false" data-region="Europe">Düsseldorf, Germany (DUS)</option>
+<option value="FRA" data-iata="FRA" data-city="Frankfurt" data-display="Frankfurt" data-country="Germany" data-international="false" data-region="Europe">Frankfurt, Germany (FRA)</option>
 <option value="LHR" data-iata="LHR" data-city="London" data-display="London" data-country="United Kingdom" data-international="false" data-region="Europe">London, United Kingdom (LHR)</option>
 <option value="MAN" data-iata="MAN" data-city="Manchester" data-display="Manchester" data-country="United Kingdom" data-international="false" data-region="Europe">Manchester, United Kingdom (MAN)</option>
+<option value="MUC" data-iata="MUC" data-city="Munich" data-display="Munich" data-country="Germany" data-international="false" data-region="Europe">Munich, Germany (MUC)</option>
 </select></div>
 						
 
@@ -1485,9 +1951,7 @@ if (mboxSiteSection != '') {
 
 
 <div data-optiondialogpreselect="" data-predictivelistformat="%{city}, %{country} <span>(%{iata})</span>" data-optiondialoggroup="region" data-optiondialogdisplayall="true" data-dialoganchor=".myanchor" data-optiondialogformat="%{city} <span>(%{iata})</span>" data-optiondialogsectionsubject="city" data-dialoglabel="destination" class="widget_predictive_list widget_option_dialog" data-widgetclass="PredictiveList OptionDialogPorts" data-listenevents="ajaxLoad ajaxLoadComplete">
-<select data-persistfield="true" data-retriggerchange="true" id="flights_destination" name="destination" data-optiontpl="<option value=&quot;%{iataCode}&quot; data-iata=&quot;%{iataCode}&quot; data-city=&quot;%{airport}&quot; data-display=&quot;%{airport}&quot; data-country=&quot;%{country}&quot; data-region=&quot;%{region}&quot; data-international=&quot;%{international}&quot;>%{airport}, %{country} (%{iataCode})</option>" class="input_required widget_citypair_target" placeholder="Destination" data-persistevents="ajaxUpdateComplete">class="input_required widget_citypair_target"
-&gt;
-
+<select data-persistfield="true" data-retriggerchange="true" id="flights_destination" name="destination" data-optiontpl="<option value=&quot;%{iataCode}&quot; data-iata=&quot;%{iataCode}&quot; data-city=&quot;%{airport}&quot; data-display=&quot;%{airport}&quot; data-country=&quot;%{country}&quot; data-region=&quot;%{region}&quot; data-international=&quot;%{international}&quot;>%{airport}, %{country} (%{iataCode})</option>" class="input_required widget_citypair_target" placeholder="Destination" data-persistevents="ajaxUpdateComplete">
 <option value=""></option>
 <option value="ADL" data-iata="ADL" data-city="Adelaide" data-display="Adelaide" data-country="Australia" data-international="false" data-region="Australia">Adelaide, Australia (ADL)</option>
 <option value="WSY" data-iata="WSY" data-city="Airlie Beach" data-display="Airlie Beach" data-country="Australia" data-international="false" data-region="Australia">Airlie Beach, Australia (WSY)</option>
@@ -1527,35 +1991,50 @@ if (mboxSiteSection != '') {
 <option value="PER" data-iata="PER" data-city="Perth" data-display="Perth" data-country="Australia" data-international="false" data-region="Australia">Perth, Australia (PER)</option>
 <option value="PHE" data-iata="PHE" data-city="Port Hedland" data-display="Port Hedland" data-country="Australia" data-international="false" data-region="Australia">Port Hedland, Australia (PHE)</option>
 <option value="PQQ" data-iata="PQQ" data-city="Port Macquarie" data-display="Port Macquarie" data-country="Australia" data-international="false" data-region="Australia">Port Macquarie, Australia (PQQ)</option>
+<option value="PPP" data-iata="PPP" data-city="Proserpine (Whitsunday Coast)" data-display="Proserpine (Whitsunday Coast)" data-country="Australia" data-international="false" data-region="Australia">Proserpine (Whitsunday Coast), Australia (PPP)</option>
 <option value="ROK" data-iata="ROK" data-city="Rockhampton" data-display="Rockhampton" data-country="Australia" data-international="false" data-region="Australia">Rockhampton, Australia (ROK)</option>
 <option value="MCY" data-iata="MCY" data-city="Sunshine Coast" data-display="Sunshine Coast" data-country="Australia" data-international="false" data-region="Australia">Sunshine Coast, Australia (MCY)</option>
 <option value="SYD" data-iata="SYD" data-city="Sydney" data-display="Sydney" data-country="Australia" data-international="false" data-region="Australia">Sydney, Australia (SYD)</option>
 <option value="TSV" data-iata="TSV" data-city="Townsville" data-display="Townsville" data-country="Australia" data-international="false" data-region="Australia">Townsville, Australia (TSV)</option>
-<option value="PPP" data-iata="PPP" data-city="Whitsunday Coast" data-display="Whitsunday Coast" data-country="Australia" data-international="false" data-region="Australia">Whitsunday Coast, Australia (PPP)</option>
 <option value="APW" data-iata="APW" data-city="Apia" data-display="Apia" data-country="Samoa" data-international="false" data-region="Pacific">Apia, Samoa (APW)</option>
 <option value="AKL" data-iata="AKL" data-city="Auckland" data-display="Auckland" data-country="New Zealand" data-international="false" data-region="Pacific">Auckland, New Zealand (AKL)</option>
+<option value="BHE" data-iata="BHE" data-city="Blenheim" data-display="Blenheim" data-country="New Zealand" data-international="false" data-region="Pacific">Blenheim, New Zealand (BHE)</option>
 <option value="CHC" data-iata="CHC" data-city="Christchurch" data-display="Christchurch" data-country="New Zealand" data-international="false" data-region="Pacific">Christchurch, New Zealand (CHC)</option>
 <option value="DUD" data-iata="DUD" data-city="Dunedin" data-display="Dunedin" data-country="New Zealand" data-international="false" data-region="Pacific">Dunedin, New Zealand (DUD)</option>
+<option value="GIS" data-iata="GIS" data-city="Gisborne" data-display="Gisborne" data-country="New Zealand" data-international="false" data-region="Pacific">Gisborne, New Zealand (GIS)</option>
 <option value="HLZ" data-iata="HLZ" data-city="Hamilton" data-display="Hamilton" data-country="New Zealand" data-international="false" data-region="Pacific">Hamilton, New Zealand (HLZ)</option>
+<option value="HKK" data-iata="HKK" data-city="Hokitika" data-display="Hokitika" data-country="New Zealand" data-international="false" data-region="Pacific">Hokitika, New Zealand (HKK)</option>
 <option value="HIR" data-iata="HIR" data-city="Honiara" data-display="Honiara" data-country="Solomon Islands" data-international="false" data-region="Pacific">Honiara, Solomon Islands (HIR)</option>
 <option value="IVC" data-iata="IVC" data-city="Invercargill" data-display="Invercargill" data-country="New Zealand" data-international="false" data-region="Pacific">Invercargill, New Zealand (IVC)</option>
+<option value="KAT" data-iata="KAT" data-city="Kaitaia" data-display="Kaitaia" data-country="New Zealand" data-international="false" data-region="Pacific">Kaitaia, New Zealand (KAT)</option>
+<option value="KKE" data-iata="KKE" data-city="Kerikeri" data-display="Kerikeri" data-country="New Zealand" data-international="false" data-region="Pacific">Kerikeri, New Zealand (KKE)</option>
+<option value="MRO" data-iata="MRO" data-city="Masterton" data-display="Masterton" data-country="New Zealand" data-international="false" data-region="Pacific">Masterton, New Zealand (MRO)</option>
 <option value="NAN" data-iata="NAN" data-city="Nadi" data-display="Nadi" data-country="Fiji" data-international="false" data-region="Pacific">Nadi, Fiji (NAN)</option>
 <option value="TBU" data-iata="TBU" data-city="Nuku'alofa" data-display="Nuku'alofa" data-country="Tonga" data-international="false" data-region="Pacific">Nuku'alofa, Tonga (TBU)</option>
+<option value="PPQ" data-iata="PPQ" data-city="Paraparaumu" data-display="Paraparaumu" data-country="New Zealand" data-international="false" data-region="Pacific">Paraparaumu, New Zealand (PPQ)</option>
 <option value="POM" data-iata="POM" data-city="Port Moresby" data-display="Port Moresby" data-country="Papua New Guinea" data-international="false" data-region="Pacific">Port Moresby, Papua New Guinea (POM)</option>
 <option value="VLI" data-iata="VLI" data-city="Port Vila" data-display="Port Vila" data-country="Vanuatu" data-international="false" data-region="Pacific">Port Vila, Vanuatu (VLI)</option>
 <option value="ZQN" data-iata="ZQN" data-city="Queenstown" data-display="Queenstown" data-country="New Zealand" data-international="false" data-region="Pacific">Queenstown, New Zealand (ZQN)</option>
 <option value="RAR" data-iata="RAR" data-city="Rarotonga" data-display="Rarotonga" data-country="Cook Islands" data-international="false" data-region="Pacific">Rarotonga, Cook Islands (RAR)</option>
+<option value="TUO" data-iata="TUO" data-city="Taupo" data-display="Taupo" data-country="New Zealand" data-international="false" data-region="Pacific">Taupo, New Zealand (TUO)</option>
+<option value="TRG" data-iata="TRG" data-city="Tauranga" data-display="Tauranga" data-country="New Zealand" data-international="false" data-region="Pacific">Tauranga, New Zealand (TRG)</option>
+<option value="TIU" data-iata="TIU" data-city="Timaru" data-display="Timaru" data-country="New Zealand" data-international="false" data-region="Pacific">Timaru, New Zealand (TIU)</option>
+<option value="WKA" data-iata="WKA" data-city="Wanaka" data-display="Wanaka" data-country="New Zealand" data-international="false" data-region="Pacific">Wanaka, New Zealand (WKA)</option>
+<option value="WAG" data-iata="WAG" data-city="Wanganui" data-display="Wanganui" data-country="New Zealand" data-international="false" data-region="Pacific">Wanganui, New Zealand (WAG)</option>
 <option value="WLG" data-iata="WLG" data-city="Wellington" data-display="Wellington" data-country="New Zealand" data-international="false" data-region="Pacific">Wellington, New Zealand (WLG)</option>
+<option value="WSZ" data-iata="WSZ" data-city="Westport" data-display="Westport" data-country="New Zealand" data-international="false" data-region="Pacific">Westport, New Zealand (WSZ)</option>
+<option value="WHK" data-iata="WHK" data-city="Whakatane" data-display="Whakatane" data-country="New Zealand" data-international="false" data-region="Pacific">Whakatane, New Zealand (WHK)</option>
+<option value="WRE" data-iata="WRE" data-city="Whangarei" data-display="Whangarei" data-country="New Zealand" data-international="false" data-region="Pacific">Whangarei, New Zealand (WRE)</option>
 <option value="BKK" data-iata="BKK" data-city="Bangkok" data-display="Bangkok" data-country="Thailand" data-international="false" data-region="Asia">Bangkok, Thailand (BKK)</option>
-<option value="PEK" data-iata="PEK" data-city="Beijing, China" data-display="Beijing, China" data-country="China" data-international="false" data-region="Asia">Beijing, China, China (PEK)</option>
+<option value="PEK" data-iata="PEK" data-city="Beijing" data-display="Beijing" data-country="China" data-international="false" data-region="Asia">Beijing, China (PEK)</option>
 <option value="DPS" data-iata="DPS" data-city="Denpasar" data-display="Denpasar" data-country="Indonesia" data-international="false" data-region="Asia">Denpasar, Indonesia (DPS)</option>
 <option value="HKG" data-iata="HKG" data-city="Hong Kong International Apt" data-display="Hong Kong International Apt" data-country="Hong Kong" data-international="false" data-region="Asia">Hong Kong International Apt, Hong Kong (HKG)</option>
-<option value="ICN" data-iata="ICN" data-city="Incheon  " data-display="Incheon  " data-country="Korea, Republic of" data-international="false" data-region="Asia">Incheon  , Korea, Republic of (ICN)</option>
-<option value="KUL" data-iata="KUL" data-city="Kuala Lumpur, Malaysia" data-display="Kuala Lumpur, Malaysia" data-country="Malaysia" data-international="false" data-region="Asia">Kuala Lumpur, Malaysia, Malaysia (KUL)</option>
+<option value="KUL" data-iata="KUL" data-city="Kuala Lumpur" data-display="Kuala Lumpur" data-country="Malaysia" data-international="false" data-region="Asia">Kuala Lumpur, Malaysia (KUL)</option>
 <option value="MNL" data-iata="MNL" data-city="Manila" data-display="Manila" data-country="Philippines" data-international="false" data-region="Asia">Manila, Philippines (MNL)</option>
-<option value="BOM" data-iata="BOM" data-city="Mumbai, India" data-display="Mumbai, India" data-country="India" data-international="false" data-region="Asia">Mumbai, India, India (BOM)</option>
+<option value="BOM" data-iata="BOM" data-city="Mumbai/Bombay" data-display="Mumbai/Bombay" data-country="India" data-international="false" data-region="Asia">Mumbai/Bombay, India (BOM)</option>
 <option value="KIX" data-iata="KIX" data-city="Osaka (Kansai)" data-display="Osaka (Kansai)" data-country="Japan" data-international="false" data-region="Asia">Osaka (Kansai), Japan (KIX)</option>
 <option value="HKT" data-iata="HKT" data-city="Phuket" data-display="Phuket" data-country="Thailand" data-international="false" data-region="Asia">Phuket, Thailand (HKT)</option>
+<option value="ICN" data-iata="ICN" data-city="Seoul" data-display="Seoul" data-country="Korea, Republic of" data-international="false" data-region="Asia">Seoul, Korea, Republic of (ICN)</option>
 <option value="PVG" data-iata="PVG" data-city="Shanghai" data-display="Shanghai" data-country="China" data-international="false" data-region="Asia">Shanghai, China (PVG)</option>
 <option value="SIN" data-iata="SIN" data-city="Singapore" data-display="Singapore" data-country="Singapore" data-international="false" data-region="Asia">Singapore, Singapore (SIN)</option>
 <option value="TPE" data-iata="TPE" data-city="Taipei" data-display="Taipei" data-country="Taiwan" data-international="false" data-region="Asia">Taipei, Taiwan (TPE)</option>
@@ -1598,7 +2077,7 @@ if (mboxSiteSection != '') {
 <option value="SFO" data-iata="SFO" data-city="San Francisco" data-display="San Francisco" data-country="United States" data-international="false" data-region="North America">San Francisco, United States (SFO)</option>
 <option value="SEA" data-iata="SEA" data-city="Seattle" data-display="Seattle" data-country="United States" data-international="false" data-region="North America">Seattle, United States (SEA)</option>
 <option value="IAD" data-iata="IAD" data-city="Washington" data-display="Washington" data-country="United States" data-international="false" data-region="North America">Washington, United States (IAD)</option>
-<option value="AMS" data-iata="AMS" data-city="Amsterdam-Schiphol " data-display="Amsterdam-Schiphol " data-country="Netherlands" data-international="false" data-region="Europe">Amsterdam-Schiphol , Netherlands (AMS)</option>
+<option value="AMS" data-iata="AMS" data-city="Amsterdam" data-display="Amsterdam" data-country="Netherlands" data-international="false" data-region="Europe">Amsterdam, Netherlands (AMS)</option>
 <option value="ATH" data-iata="ATH" data-city="Athens" data-display="Athens" data-country="Greece" data-international="false" data-region="Europe">Athens, Greece (ATH)</option>
 <option value="BCN" data-iata="BCN" data-city="Barcelona" data-display="Barcelona" data-country="Spain" data-international="false" data-region="Europe">Barcelona, Spain (BCN)</option>
 <option value="BRU" data-iata="BRU" data-city="Brussels" data-display="Brussels" data-country="Belgium" data-international="false" data-region="Europe">Brussels, Belgium (BRU)</option>
@@ -1608,18 +2087,18 @@ if (mboxSiteSection != '') {
 <option value="IST" data-iata="IST" data-city="Istanbul" data-display="Istanbul" data-country="Turkey" data-international="false" data-region="Europe">Istanbul, Turkey (IST)</option>
 <option value="LHR" data-iata="LHR" data-city="London" data-display="London" data-country="United Kingdom" data-international="false" data-region="Europe">London, United Kingdom (LHR)</option>
 <option value="MAN" data-iata="MAN" data-city="Manchester" data-display="Manchester" data-country="United Kingdom" data-international="false" data-region="Europe">Manchester, United Kingdom (MAN)</option>
-<option value="MXP" data-iata="MXP" data-city="Milan" data-display="Milan" data-country="Italy" data-international="false" data-region="Europe">Milan, Italy (MXP)</option>
-<option value="DME" data-iata="DME" data-city="Moscow" data-display="Moscow" data-country="Russian Federation" data-international="false" data-region="Europe">Moscow, Russian Federation (DME)</option>
+<option value="MXP" data-iata="MXP" data-city="Milan-Malpensa" data-display="Milan-Malpensa" data-country="Italy" data-international="false" data-region="Europe">Milan-Malpensa, Italy (MXP)</option>
+<option value="DME" data-iata="DME" data-city="Moscow-Domodedovo" data-display="Moscow-Domodedovo" data-country="Russian Federation" data-international="false" data-region="Europe">Moscow-Domodedovo, Russian Federation (DME)</option>
 <option value="MUC" data-iata="MUC" data-city="Munich" data-display="Munich" data-country="Germany" data-international="false" data-region="Europe">Munich, Germany (MUC)</option>
-<option value="CDG" data-iata="CDG" data-city="Paris" data-display="Paris" data-country="France" data-international="false" data-region="Europe">Paris, France (CDG)</option>
-<option value="FCO" data-iata="FCO" data-city="Rome" data-display="Rome" data-country="Italy" data-international="false" data-region="Europe">Rome, Italy (FCO)</option>
+<option value="CDG" data-iata="CDG" data-city="Paris-De Gaulle" data-display="Paris-De Gaulle" data-country="France" data-international="false" data-region="Europe">Paris-De Gaulle, France (CDG)</option>
+<option value="FCO" data-iata="FCO" data-city="Rome-Da Vinci" data-display="Rome-Da Vinci" data-country="Italy" data-international="false" data-region="Europe">Rome-Da Vinci, Italy (FCO)</option>
 <option value="CAI" data-iata="CAI" data-city="Cairo" data-display="Cairo" data-country="Egypt" data-international="false" data-region="Africa">Cairo, Egypt (CAI)</option>
 <option value="CPT" data-iata="CPT" data-city="Cape Town" data-display="Cape Town" data-country="South Africa" data-international="false" data-region="Africa">Cape Town, South Africa (CPT)</option>
 <option value="CMN" data-iata="CMN" data-city="Casablanca" data-display="Casablanca" data-country="Morocco" data-international="false" data-region="Africa">Casablanca, Morocco (CMN)</option>
 <option value="JNB" data-iata="JNB" data-city="Johannesburg" data-display="Johannesburg" data-country="South Africa" data-international="false" data-region="Africa">Johannesburg, South Africa (JNB)</option>
 </select></div>
 				</div>
-				<div data-widgetclass="Datepickerslim" class="ui-helper-clearfix widget_datepicker">
+				<div data-widgetclass="DatepickerslimNonModal" class="ui-helper-clearfix widget_datepicker">
 					<div class="date ui-helper-clearfix section">
 						<label for="flights_date_start">Departing:</label>
 						<input type="text" id="flights_date_start" name="date_start" data-dialoglabel="Departing:" class="input_start input_required form_date" data-persistfield="true" data-persistdelay="true" data-retriggerblur="true">
@@ -1649,7 +2128,7 @@ if (mboxSiteSection != '') {
 						<div class="w33">
 							<label for="flights_adults">Adults:</label>
 							<select id="flights_adults" name="adults" class="form_adults" data-persistfield="true" data-widgetclass="CityPairPax" data-maxshorthaul="20" data-maxlonghaul="9" data-listenevents="destChange">
- 			<option value="1">1</option>
+	 		<option value="1" selected="selected">1</option>
  			<option value="2">2</option>
  			<option value="3">3</option>
  			<option value="4">4</option>
@@ -1661,7 +2140,7 @@ if (mboxSiteSection != '') {
  							</select>
 						</div>
 						<div class="w33">
-							<label for="flights_children">Children:</label>
+							<label for="flights_children"><a href="../../../plan/special-needs-assistance/children/">Children:</a></label>
 							<select id="flights_children" name="children" class="form_children" data-persistfield="true" data-widgetclass="CityPairPax" data-maxshorthaul="6" data-maxlonghaul="6" data-listenevents="destChange">
 	 		<option value="0" selected="selected">0</option>
  			<option value="1">1</option>
@@ -1674,7 +2153,7 @@ if (mboxSiteSection != '') {
 							<label class="note ui-helper-clearfix" for="flights_children">2–11 years</label>
 						</div>
 						<div class="w33">
-							<label for="flights_infants">Infants:</label>
+							<label for="flights_infants"><a href="../../../plan/special-needs-assistance/infants/">Infants:</a></label>
 							<select id="flights_infants" name="infants" class="form_infants" data-persistfield="true" data-widgetclass="CityPairPax" data-maxshorthaul="4" data-maxlonghaul="6" data-listenevents="destChange">
 	 		<option value="0" selected="selected">0</option>
  			<option value="1">1</option>
@@ -1706,6 +2185,7 @@ if (mboxSiteSection != '') {
 
 
 
+
 					</div>
 				</div>
 				<div class="ui-helper-clearfix">
@@ -1721,8 +2201,11 @@ if (mboxSiteSection != '') {
 
 
 
+
 		</div>
 	</div>
+					
+	
 </div>
 	<div class="clearBoth"></div>
 </div></div>
@@ -1744,88 +2227,42 @@ if (mboxSiteSection != '') {
 			</div>
 		</div>
 		<div id="footerWide">
-			<div id="megaFooter"><div class="widget_footer">
-	<div class="header">
-		<div class="logo">
-	<a href="../../../"><img src="/cs/groups/internetasset/@wc/documents/webasset/~edisp/img_footer_logo.gif" alt="img_footer_logo.gif"></a>
+			<div id="megaFooter"><div id="doubleFooter">
+	<div class="widget_footer">
+		<div class="footer-top">
+			<div class="footer-right">
+				<div class="text"> 
+	
+									
+	<p>Best Airline Australia Pacific</p> <p>Best Airline Staff Service Australia Pacific</p>
+					
+	
 		</div>
-		<div class="phone">
-	<div class="free-text">
-	<h2>ph: 13 67 89</h2>
-	</div>
+				<div class="image">
+	
+									
+	<img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/52x49-award-skybaner.gif?v2.5.3=" alt="52x49-award-skybaner">
+					
+	
 		</div>
-		<div class="likes">
-	<div class="facebook">
-		<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=252925428078207";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-		<div class="fb-like" data-href="http://www.virginaustralia.com/au/en/about-us/legal-policies/privacy/" data-send="false" data-width="250" data-show-faces="false" data-font="arial"></div>
-	</div>	
-	<div class="googleplus" data-widgetclass="Script" data-script="{&quot;src&quot;:&quot;https://apis.google.com/js/plusone.js&quot;}">
-		<div class="g-plusone" data-size="medium" data-href="/au/en/about-us/legal-policies/privacy/"></div>
-	</div>	
-	<div class="twitter" data-widgetclass="Script" data-script="{&quot;src&quot;:&quot;//platform.twitter.com/widgets.js&quot;}">
-        <a data-url="http://www.virginaustralia.com" data-via="virginaustralia" href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
-    </div>			
-</div>
-	</div>
-	<div class="nav">
-	<div class="col">
-<h4>About Us</h4>
-	<ul><li><a href="../../../about-us/company-overview/">Company Overview</a></li><li><a href="../../../about-us/media/2012/">Media</a><a href="../../../about-us/legal-policies/privacy/" title="Our Fleet"><br></a></li><li><a href="../../../about-us/sponsorship/our-sponsorships/">Sponsorships</a></li><li><a href="../../../about-us/sustainability/">Sustainability</a></li><li><a href="../../../about-us/careers/">Careers</a></li><li><a href="../../../about-us/sustainability/carbon-offset-program/">Carbon Offset Program</a></li><li><a href="../../../about-us/legal-policies/conditions-of-carriage/">Conditions of Carriage</a></li><li><a href="../../../about-us/legal-policies/privacy/">Privacy</a></li><li><a href="../../../about-us/legal-policies/terms-of-use/">Terms of Use</a>&nbsp;</li></ul>
-</div>
-<div class="col">
-<h4>Travel Extras</h4>
-	<ul>
-    <li><a href="../../../bookings/holidays/holiday-packages/">Holidays</a></li>
-    <li><a href="http://clk.tradedoubler.com/click?p=207071&amp;a=1976383&amp;g=19716364&amp;url=http://hotels.virginaustralia.com/virginaustralia/">Hotels</a></li>
-    <li><a href="https://hire-cars.virginaustralia.com/">Car Hire</a></li>
-    <li><a href="https://insurance.virginaustralia.com/home?utm_source=va&amp;utm_medium=website&amp;utm_campaign=footer">Travel Insurance</a></li>
-    <li><a href="../../../bookings/travel-extras/transfers/">Transfers</a></li>
-    <li><a href="../../../bookings/travel-extras/tours-activities/">Tours &amp; Activities</a></li>
-    <li><a href="http://www.greatseats.com.au/bluetix">Shows &amp; Tickets</a></li>
-    <li><a href="../../../bookings/holidays/cruises/">Cruises</a></li>
-    <li><a href="https://www.fx4you.com/australia/virginAustralia/" target="_blank">Currency Exchange</a></li>
-</ul>
-</div>
-<div class="col">
-<h4>Velocity Frequent Flyer</h4>
-	<ul>     <li><a href="https://www.velocityrewards.com.au/content/ProgramBenefits/JoinNow/" target="_blank">Join Velocity</a></li>     <li><a href="https://www.velocityrewards.com.au/content/Login/" target="_blank">My Account</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Status/Benefitsat-a-glance/" target="_blank">Benefits at-a-Glance</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Redeem/" target="_blank">Redeem Points</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Earn/" target="_blank">Earn Points</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Status/" target="_blank">Status</a></li>     <li><a href="http://www.velocityrewards.com.au/content/ProgramBenefits/GlobalCoverage/" target="_blank">Global Coverage</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Specials/" target="_blank">Specials</a></li>     <li><a href="http://www.velocityrewards.com.au/content/ContactUs/" target="_blank">Membership Enquiries</a></li> </ul>
-</div>
-<div class="col">
-<h4>Quick Links</h4>
-	<ul><li><a href="../../../help/contact-us/">Contact Us</a></li><li><a href="../../../help/faq/">FAQs</a></li><li><a href="../../../help/site-map/">Sitemap</a></li><li><a href="http://flights.virginaustralia.com/flight-status/">Flight Status</a></li><li><a href="../../../bookings/manage-my-bookings/">Manage Booking</a></li><li><a href="../../../bookings/manage-my-bookings/check-in/">Check-in</a></li><li><a href="https://book.virginaustralia.com/LoginAgent.aspx" target="_blank">Corporate Login</a></li><li><a href="https://book.virginaustralia.com/LoginAgent.aspx" target="_blank">Agent Login</a></li><li><a href="https://mobile.virginaustralia.com/" target="_blank">Mobile Website</a></li></ul>
-</div>
-		<div class="col-end">
-<h4>Stay Connected with Virgin Australia</h4>
-	<ul>
-		 <li><img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007405.gif" alt="Footer Facebook Icon"><p><a href="http://www.facebook.com/virginaustralia">Like Us on Facebook</a></p></li>
-		 <li><img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007404.gif" alt="Footer Twitter Icon"><p><a href="http://www.twitter.com/virginaustralia?CMP=BAC-twitlink">Follow Us on Twitter</a></p></li>
-		 <li><img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/linkedin_icon.gif" alt="LinkedIn Icon"><p><a href="http://www.linkedin.com/company/virgin-australia">Connect on Linkedin</a></p></li>
-		 <li><img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/u_017817.gif" alt="footer_social_googleplus"><p><a href="https://plus.google.com/105888846306683033614/posts" target="_blank">Join Us on Google+</a></p></li>
-	</ul>
-	<ul>
-		 <li><img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007409.gif" alt="Footer Youtube Icon"><p><a href="http://www.youtube.com/virginaustralia?CMP=BAC-ytubelink">See Us on YouTube</a></p></li>
-		 <li><img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007407.gif" alt="Footer Blog Icon"><p><a href="http://blog.virginaustralia.com/?CMP=BAC-bloglink">Read Our Blog</a></p></li>
-		 <li><img src="/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007408.gif" alt="Footer Vmail Icon"><p><a href="http://www.virginaustralia.com/specials-offers/sales-alert-v-mail/sign-up-to-v-mail/">Sign-up to V-mail</a></p></li>
-	</ul>
+			</div>
+			<div class="logo">
+	
+									
+	<a href="../../../"><img src="http://img.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/img_footer_logo.gif?v2.5.3=" alt="Virgin Australia"></a>
+					
+	
+			</div>
+			<div class="phone">
+	
+				
+	
 		</div>
-	</div>
-	<div class="base">
-		<a href="#" class="top" data-widgetclass="Sitecatalyst" data-sitecatalyst="{&quot;eVar48&quot;:&quot;Back_to_Top_CTA_Button&quot;}"><span><span>Back to top</span></span></a>
-	<p>© Virgin Australia Airlines Pty Ltd ABN 36 090 670 965</p>
-	</div>
-</div>
-</div> 
-			<div class="clearBoth"></div>
-		</div><!-- #footerWide -->
-	</div> 
-	<!--End Footer-->
+		</div>
+		<div class="footer-bottom">
+			<div class="footer-ad-id">
+	
+									
 	
 
 
@@ -1838,13 +2275,201 @@ if (mboxSiteSection != '') {
 
 
 
+	
+	
+	<div id="div-gpt-ad-1347348083600-0">
+		<script type="text/javascript">
+		    googletag.display('div-gpt-ad-1347348083600-0');
+		</script>
+	</div>
+	
+	
 
-<iframe src="http://serv1.vizury.com/analyze/analyze.php?account_id=VIZVRM182&amp;param=t100&amp;section=1&amp;level=1" width="" height="" frameborder="0" class=""></iframe>
+					
+	
+			</div>
+			<div class="footer-links-id">
+	
+			
+		<div class="footer-list">
+<h4>About Us</h4>
+	<ul>     <li><a href="../../../about-us/company-overview/">Company Overview</a></li><li><a href="../../../about-us/company-overview/investor-information/">Shareholder Information</a></li>     <li><a href="../../../about-us/media/2012/">Media</a></li>     <li><a href="../../../about-us/sponsorship/our-sponsorships/">Sponsorships</a></li>     <li><a href="../../../about-us/sustainability/">Sustainability</a></li>     <li><a href="../../../about-us/careers/">Careers</a></li>     <li><a href="../../../about-us/sustainability/carbon-offset-program/">Carbon Offset Program</a></li>     <li><a href="../../../about-us/legal-policies/conditions-of-carriage/">Conditions of Carriage</a></li>     <li><a href="../../../about-us/legal-policies/privacy/">Privacy</a></li>     <li><a href="../../../about-us/legal-policies/terms-of-use/">Terms of Use</a></li> </ul>
+</div>
+<div class="footer-list">
+<h4>Travel Extras</h4>
+	<ul>     <li><a href="../../../bookings/holidays/holiday-packages/">Holidays</a></li>     <li><a href="http://clk.tradedoubler.com/click?p=207071&amp;a=1976383&amp;g=19716364&amp;url=http://hotels.virginaustralia.com/virginaustralia/">Hotels</a></li>     <li><a href="https://hire-cars.virginaustralia.com/">Car Hire</a></li>     <li><a href="http://www.etravelprotection.com/virginaustralia/">Travel Insurance</a></li>     <li><a href="../../../bookings/travel-extras/transfers/">Transfers</a></li>     <li><a href="../../../bookings/travel-extras/tours-activities/">Tours &amp; Activities</a></li>          <li><a href="../../../bookings/holidays/cruises/">Cruises</a></li>     <li><a href="https://www.fx4you.com/australia/virginAustralia/" target="_blank">Currency Exchange</a></li> </ul>
+</div>
+<div class="footer-list">
+<h4>Velocity Frequent Flyer</h4>
+	<ul>     <li><a href="https://www.velocityrewards.com.au/content/ProgramBenefits/JoinNow/" target="_blank">Join Velocity</a></li>     <li><a href="https://www.velocityrewards.com.au/content/Login/" target="_blank">My Account</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Status/Benefitsat-a-glance/" target="_blank">Benefits at-a-Glance</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Redeem/" target="_blank">Redeem Points</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Earn/" target="_blank">Earn Points</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Status/" target="_blank">Status</a></li>     <li><a href="http://www.velocityrewards.com.au/content/ProgramBenefits/GlobalCoverage/" target="_blank">Global Coverage</a></li>     <li><a href="http://www.velocityrewards.com.au/content/Specials/" target="_blank">Specials</a></li>     <li><a href="http://www.velocityrewards.com.au/content/ContactUs/" target="_blank">Membership Enquiries</a></li> </ul>
+</div>
+<div class="footer-list">
+<h4>Quick Links</h4>
+	<ul>     <li><a href="../../../help/contact-us/">Contact Us</a></li>     <li><a href="../../../help/faq/">FAQs</a></li>     <li><a href="../../../help/site-map/">Sitemap</a></li>     <li><a href="http://flights.virginaustralia.com/flight-status/">Flight Status</a></li>     <li><a href="../../../bookings/manage-my-bookings/">Manage Booking</a></li>     <li><a href="../../../bookings/manage-my-bookings/check-in/">Check-in</a></li>     <li><a href="https://book.virginaustralia.com/LoginAgent.aspx" target="_blank">Corporate Login</a></li>     <li><a href="https://book.virginaustralia.com/LoginAgent.aspx" target="_blank">Agent Login</a></li> </ul>
+</div>
+			
+			
+	
+			</div>
+		</div>
+		<div class="footer-bottom">	   
+			<div class="footer-ad-id">
+	
+									
+	
 
+
+
+
+
+
+
+
+
+
+
+	
+	
+	<div id="div-gpt-ad-1349232439269-0">
+		<script type="text/javascript">
+		    googletag.display('div-gpt-ad-1349232439269-0');
+		</script>
+	</div>
+	
+	
+
+					
+	
+			</div>
+			<div class="footer-links-id">
+	
+			
+		<div class="footer-list">
+<h4>Flights Down Under</h4>
+	<ul>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=syd&amp;to=mel&amp;t_type=1&amp;s_type=1">Sydney to Melbourne</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=mel&amp;to=syd&amp;t_type=1&amp;s_type=1">Melbourne to Sydney</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=bne&amp;to=syd&amp;t_type=1&amp;s_type=1">Brisbane to Sydney</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=syd&amp;to=bne&amp;t_type=1&amp;s_type=1">Sydney to Brisbane</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=bne&amp;to=mel&amp;t_type=1&amp;s_type=1">Brisbane to Melbourne</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=mel&amp;to=bne&amp;t_type=1&amp;s_type=1">Melbourne to Brisbane</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=mel&amp;to=ool&amp;t_type=1&amp;s_type=1">Melbourne to Gold Coast</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=ool&amp;to=sydt_type=1&amp;s_type=1">Gold Coast to Sydney</a></li>     <li><a href="http://www.virginaustralia.com/flightsearch/?from=adl&amp;to=mel&amp;t_type=1&amp;s_type=1">Adelaide to Melbourne</a></li> </ul>
+</div>
+<div class="footer-list">
+<h4>Information</h4>
+	<ul>     <li><a href="../../../experience/service-experience/customer-service-plan/">Customer Service Plan</a></li>     <li><a href="../../../experience/service-experience/customer-service-plan/tarmac-delay-plan/">Tarmac Delay Plan</a></li>     <li><a href="../../../plan/fees-surcharges/fees-for-optional-services/">Fees for Optional Services</a></li>     <li><a href="../../../plan/baggage/baggage-change-policy/">Baggage Change Policy</a></li> </ul>
+</div>
+			
+			
+	
+				<div class="footer-list-double">
+<h4>Stay Connected with Virgin Australia</h4>
+	
+			
+				<ul>
+		 	<li><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007405.gif?v2.5.3=" alt="Facebook Icon"><a href="https://www.facebook.com/pages/Virgin-Australia-USA/271962559521322">Like us on Facebook</a></li>
+		 	<li><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007404.gif?v2.5.3=" alt="Twitter Icon"><a href="http://twitter.com/?CMP=BAC-twitlink#!/virginaustralia">Follow Us on Twitter</a></li>
+		 	<li><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/linkedin_icon.gif?v2.5.3=" alt="LinkedIn Icon"><a href="http://www.linkedin.com/company/virgin-australia">Connect on Linkedin</a></li>
+		 	<li><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007409.gif?v2.5.3=" alt="Youtube Icon"><a href="http://www.youtube.com/virginaustralia?CMP=BAC-ytubelink">See Us on YouTube</a></li>
+		</ul>
+		<ul>
+		 	<li><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007407.gif?v2.5.3=" alt="Blog Icon"><a href="http://blog.virginaustralia.com/?CMP=BAC-bloglink">Read our Blog</a></li>
+		 	<li><img src="http://img.virginaustralia.com/cs/groups/internetcontent/@wc/documents/webcontent/~edisp/d_007408.gif?v2.5.3=" alt="Vmail Icon"><a href="http://www.virginaustralia.com/au/en/specials-offers/sales-alert-v-mail/sign-up-to-v-mail/">Sign-up to V-mail</a></li>
+		</ul>
+			
+			
+	
+	
+									
+<div class="likes">
+		<div class="facebook">
+			<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=252925428078207";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+			<div class="fb-like" data-href="http://www.virginaustralia.com/us/en/about-us/legal-policies/privacy/" data-send="false" data-width="250" data-show-faces="false" data-font="arial"></div>
+		</div>	
+      		<div class="twitter" data-widgetclass="Script" data-script="{&quot;src&quot;:&quot;//platform.twitter.com/widgets.js&quot;}">
+        	<a data-url="http://www.virginaustralia.com" data-via="virginaustralia" href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+    	</div>
+</div>
+					
+	
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div> 
+			<div class="clearBoth"></div>
+		</div><!-- #footerWide -->
+	</div>
+	<!--End Footer-->
+	<div id="footer-partners">
+		 <div id="footerWide">
+			<div id="doubleFooter">
+	<div class="widget_footer">
+		<div class="partner-list">
+			<a href="#" class="top" data-widgetclass="Sitecatalyst" data-sitecatalyst="{&quot;eVar48&quot;:&quot;Back_to_Top_CTA_Button&quot;}"><span><span>Back to top</span></span></a>
+			<div class="footer-partner-logos">
+				<div class="text-copyright">
+	
+				
+									
+	<p>© Virgin Australia Airlines Pty Ltd ABN 36 090 670 965</p>
+					
+	
+				</div>
+				<div class="text">
+	
+				
+	
+				</div>
+				<div class="logo-list">
+				</div>		
+			</div><!--end footner-partner-logos-->
+		</div>
+	</div>
+</div>
+		 </div>
+	</div>	
+	
+									
+			
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe src="http://serv1.vizury.com/analyze/analyze.php?account_id=VIZVRM182&amp;param=t100&amp;section=1&amp;level=1" width="1" height="1" frameborder="0" class=""></iframe>
+
+
+
+					
+	
+	
+	<script type="text/javascript" src="http://js.virginaustralia.com/js/application-min.js?v2.5.3="></script>
+
+
+
+<script type="text/javascript" src="http://js.virginaustralia.com/us/en/dynamic/js/messageBundle/?v1352141029554="></script>
+
+
+<div class="hidden" style="display:none">
+	<img alt="preloaded css resource" src="http://css.virginaustralia.com/images/velocity-challenge/lightbox_close.gif">
+</div>
+<div class="hidden" style="display:none">
+	<img alt="preloaded css resource" src="http://css.virginaustralia.com/images/popup/lightbox_close.gif">
+</div>
 	<script type="text/javascript">
 var s_account = "virginausprod";
-</script><script type="text/javascript" src="/js/application-min.js?v1.15.2="></script>
+</script>
 
+<script type="text/javascript" src="http://js.virginaustralia.com/js/s_code.js?v2.5.3="></script>
+<div id="velocity-tracking" data-widgetclass="VelocityTracking" class="hide"></div>
 <!--SiteCatalyst code version: H.23.3.-->
 <!--Copyright 1996-2011 Adobe, Inc. All Rights Reserved-->
 <!--More info available at http://www.omniture.com-->
@@ -1855,12 +2480,12 @@ if (typeof(s) != 'undefined') {
 		s.prop57 = "en";
 	
         
-		s.prop56 = "au";
+		s.prop56 = "us";
 	
 	if(typeof(setPageQueryParameter) == 'function') {
 		setPageQueryParameter();
 	}
-	s.pageName = s.getPageName().replace(':au:en','');
+	s.pageName = s.getPageName().replace(':us:en','');
 	var s_code=s.t();
 	if(s_code) { 
 		document.write(s_code);
