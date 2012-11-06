@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the liveoutthere.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627140405id_/http%3A//www.liveoutthere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoutthere.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106130357id_/http%3A//www.liveoutthere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
 
 LiveOutThere.com is committed to protect your privacy. LiveOutThere.com is informing you of its security measures, its policy on the nature of customer information collected when you order products via the Site, the reasons for which this information is collected, and the use that is made of this information.
 
 ### Security
 
-LiveOutThere.com has implemented state-of-the-art security measures in order to protect you against loss or unauthorized use of customer information that is in LiveOutThere.com's possession, notably information concerning your credit card. LiveOutThere.com's servers use the latest information-transmission technology (Secure Socket Layers, or SSL), which render its transmission highly secure. In addition, LiveOutThere.com's servers are protected by firewall technology. LiveOutThere.com ensures its hardware is always state-of-the-art in order to allow you to perform secure transactions on the Site at any time. However, no security mechanism is perfect and you must be aware that your are always at some level of risk that personal information transmitted to LiveOutThere.com may be disclosed without any fault on the part of LiveOutThere.com and without your consent. LiveOutThere.com declines all responsibility regarding forwarded confidential information, except in case of negligence on the part of LiveOutThere.com. Note that, for your security, no information on credit cards is kept on the servers LiveOutThere.com uses.
+LiveOutThere.com has implemented state-of-the-art security measures in order to protect you against loss or unauthorized use of customer information that is in LiveOutThere.com's possession, notably information concerning your credit card. LiveOutThere.com's servers use the latest information-transmission technology (Secure Socket Layers, or SSL), which render its transmission highly secure. In addition, LiveOutThere.com's servers are protected by firewall technology. LiveOutThere.com ensures its hardware is always state-of-the-art in order to allow you to perform secure transactions on the Site at any time. However, no security mechanism is perfect and you must be aware that you are always at some level of risk that personal information transmitted to LiveOutThere.com may be disclosed without any fault on the part of LiveOutThere.com and without your consent. LiveOutThere.com declines all responsibility regarding forwarded confidential information, except in case of negligence on the part of LiveOutThere.com. Note that, for your security, no information on credit cards is kept on the servers LiveOutThere.com uses.
 
 ### What personal information does LiveOutThere.com collect?
 
