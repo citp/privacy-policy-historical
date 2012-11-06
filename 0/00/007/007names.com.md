@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 007names.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510212046id_/https%3A//www.007names.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 007names.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106034141id_/https%3A//www.007names.com/privacy.jsp) for the most accurate reproduction.*
 
-# 007Names Privacy Policy
+# None
 
 007Names, Inc. knows that you care how information about you is shared and we appreciate your faith that we will do so judiciously. This notice describes our privacy policy. By visiting the 007Names, Inc. website, you are accepting the practices described in the Privacy Notice. If you have any questions regarding our privacy policy, please contact [info@007names.com](mailto:info@007names.com). 
 
