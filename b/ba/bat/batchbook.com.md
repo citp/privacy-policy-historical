@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the batchbook.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102194130id_/http%3A//www.batchblue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchbook.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106115412id_/http%3A//batchbook.com/meta/privacy.html) for the most accurate reproduction.*
 
-# BatchBlue Privacy Statement | BatchBook
+# Batchbook | Privacy Policy
 
 ## _Effective as of October 2010_
 
@@ -27,6 +27,8 @@ E. To protect the rights and safety of our company, our employees, members and o
 F. To meet legal requirements such as complying with court orders and valid subpoenas. In the rare Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within Setup. Customers can view their updated profile to confirm their edits have been made. Customers of the Service will be using the Site to host data and information ("Data"). BatchBlue Software will not review, share, distribute, print, or reference any such Data except as provided in the BatchBlue Software End User License Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the End User License Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password. BatchBlue Software may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
 ## Use and Disclosure of Your Information
+
+If you log into your Facebook account through Batchbook, we only use your Facebook credentials to identify whether contacts in your Batchbook account are "friends" [or are otherwise using Facebook]. Your private Facebook settings cannot be accessed through Batchbook by anyone, even if your Facebook Privacy Settings are set to "public." Batchbook will only display to you common connections between your Facebook friends and your Batchbook Data. No Data or search results are retained on Batchbook and no Facebook data is pulled from your Facebook account into Batchbook. Each new log in through Facebook is a new interaction between your Batchbook Data and your Facebook friends and your status updates, photo albums, and other personal information on Facebook will never be visible to your Batchbook contacts unless they are also Facebook friends and you choose to make that information visible through your Facebook Privacy Settings. The terms of the [Facebook Privacy Policy](https://www.facebook.com/policies/) also apply to your use of the Batchbook application through Facebook. 
 
 Except as we explicitly state at the time we request information, or as provided for in the BatchBlue Software End User License Agreement, we do not disclose to third parties the information provided. BatchBlue will use and disclose your Information and Data only as follows:
 
@@ -68,7 +70,7 @@ If customers need to update or change registration information they may do so by
 
 ## Additional Information
 
-Questions regarding this Statement or the practices of this Site should be directed to BatchBlue Software’s Security Administrator by e-mailing such questions to [admin@batchblue.com](mailto:admin@batchblue.com) or by regular mail addressed to BatchBlue Software, Inc., 10 Elmgrove Avenue, Providence, RI 02906 Attn: Security Administrator.
+Questions regarding this Statement or the practices of this Site should be directed to BatchBlue Software’s Security Administrator by e-mailing such questions to [admin@batchblue.com](mailto:admin@batchblue.com) or by regular mail addressed to BatchBlue Software, Inc., 171 Chestnut St, Providence, RI 02903 Attn: Security Administrator.
 
 ## Notices and Revisions
 
