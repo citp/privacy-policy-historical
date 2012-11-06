@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igennie.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511150516id_/http%3A//www.igennie.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igennie.net privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106150440id_/http%3A//www.igennie.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Windows Help and Support | Computer Support | Microsoft Technical Support | Online Computer Help | Outlook Support
 
@@ -62,7 +62,7 @@ In order for this toolbar to properly fulfil its obligation to our customers, it
 
 If user has any questions about the privacy Policy at our Web site, user can e-mail user inquiries to [support@igennie.net](mailto:support@igennie.net)
 
-Call iGennie at +1-800-831-9601 for FREE and get Expert Advice
+Call iGennie at +1-786-871-6053 for FREE and get Expert Advice
 
 |   |   |   
 ---|---|---|---  
