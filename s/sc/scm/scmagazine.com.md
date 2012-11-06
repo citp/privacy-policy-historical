@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601083326id_/http%3A//www.scmagazine.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106092244id_/http%3A//www.scmagazine.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SC Magazine
 
@@ -16,7 +16,7 @@ Haymarket Media Inc. ("Haymarket") has created this privacy statement to demonst
 
 **General Principles**
 
-  * In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the ÒDigital OfferingÓ)without identifying yourself or revealing any personal information. 
+  * In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the "Digital Offering")without identifying yourself or revealing any personal information. 
   * As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We will use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you. 
   * Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) registration for attendance at certain Haymarket trade shows, conferences and events; and (ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information. 
   * If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. Other uses of Personal Information are described elsewhere in this Policy.
@@ -27,9 +27,9 @@ Haymarket Media Inc. ("Haymarket") has created this privacy statement to demonst
 
 **Information Sharing**
 
-Unless you opt-out, we share your Personal Information with Haymarket's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out, send us an email to [Newlettersupport@haymarketmedia.com](mailto:Newlettersupport@haymarketmedia.com)
+Unless you opt-out, we share your Personal Information with Haymarket's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out, send us an email to [Newslettersupport@haymarketmedia.com](mailto:Newslettersupport@haymarketmedia.com)
 
-Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary t (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. 
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. 
 
 Several companies unaffiliated with Haymarket provide email deployment services for our email messages. The personally identifiable information, such as e-mail address, we provide to these vendors for the purposes of e-mail deployment is only used by them for that purpose and not for any other business activity. 
 
