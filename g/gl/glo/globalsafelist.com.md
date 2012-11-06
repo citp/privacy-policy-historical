@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsafelist.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518160643id_/http%3A//globalsafelist.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsafelist.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106135504id_/http%3A//globalsafelist.com/Privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -80,8 +80,8 @@ This policy was last modified on 09-01-2009
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://globalsafelist.com  
-PO Box 6001  
-Palm Harbor, FL 34684  
+PO Box 1015  
+Palm Harbor, FL 34682  
 USA  
 support@globalsafelist.com  
 
