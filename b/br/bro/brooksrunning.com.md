@@ -1,76 +1,95 @@
-> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508002236id_/http%3A//www.brooksrunning.com/on/demandware.store/Sites-BrooksRunning-Site/default/About-Content%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106225652id_/http%3A//www.brooksrunning.com/on/demandware.store/Sites-BrooksRunning-Site/default/About-Content%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Brooks Sports Privacy Policy
+# Brooks Sports, Inc. Privacy Policy
 
-Privacy Policy
+Brooks Sports, Inc. Privacy Policy
 
-At Brooks Sports, Inc. ("Brooks"), we respect your privacy and are fully committed to ensuring that your privacy is protected. We realize the importance of feeling safe online and take great care to safeguard the information you provide. Your preferences for use of your personal information are our highest priority. The privacy policy below details the measures taken by Brooks to protect your privacy in connection with your use of Brooksrunning.com and other websites owned and operated by Brooks (the "Company Sites").
+**Last Updated: October 12, 2012**
 
-### How does Brooks use my personally identifiable information?
+This Privacy Policy describes how information about you is collected, used, and disclosed by Brooks Sports, Inc., and its subsidiaries and affiliated companies, including Brooks Running and Moving Comfort (collectively, "Brooks" or "we"). This Privacy Policy applies to information we collect when you access or use our websites or other online or mobile services or applications ("Services"), shop in our stores, or otherwise interact with us.
 
-**Customized Experience.** Brooks gathers user information to provide you with a customized experience on the Company Sites. Your user information helps us tailor content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you visit certain areas of Brooks, download free software, enter a contest, order products or subscribe to a newsletter. If you choose not to register, you may not have access to areas that require personal identification.
+From time to time, Brooks may revise this Privacy Policy. If we make changes, we will notify you by revising the "Last Updated" date above, and in some cases, we may provide you with more prominent notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review this Privacy Policy whenever you access our Services to stay informed about our information practices and the ways you can help protect your privacy.
 
-**Email.** If you opt in to receive email messages from Brooks when you register or purchase products on a Company Site, we may email you periodically with newsletters or informative messages about our products and services that we believe may be of interest to you, such as new features, special offers and updates. The email may contain code that enables our database to track your usage of the email, including whether the email was opened and/or what links (if any) were clicked. We will combine that information with other information we have collected about you (with your permission) and may use that information to improve your site experience and/or provide customized email communications to you.
+## Collection of Information
 
-### When does Brooks collect my information, and what information does it collect?
+### Information You Provide to Us
 
-**Registration.** If you want to purchase products from Brooks or receive our newsletter, you will be asked to register when you visit the Company Sites. When you register, Brooks may ask for your email address, name, address, gender, date of birth, and user/contact preferences. Once you are a registered user, you can update your profile and may be able to provide additional preferential information (such as a member name and certain user preferences). Brooks may also ask for other optional information.
+We collect information you provide directly to us. For example, we collect information when you: access or use the Services; purchase our products; participate in a survey, contest, promotion, activity, or event; subscribe to our newsletter; communicate with us via third-party social media sites; request customer support; or otherwise communicate with us. The types of information we may collect directly from you include your name, email address, postal address, phone number, birth date, photographs, information about your exercise habits, demographic information, and transaction history.
 
-**Order Forms and Products Store.** Brooks also uses an order form through which users can request information, products and services. Via that order form, we collect a user's contact information (email address, et cetera.) and financial information required to process the order (i.e. credit card number). Contact information provided in association with the order is used to ship orders, send order and shipping confirmations to our registered users, and to get in touch with the user when necessary (i.e. if an issue arises with credit card processing or product availability). Brooks may use third parties to accept and process orders and credit card purchases for merchandise and products.
+### Information We Collect Automatically When You Use Our Services
 
-**Special Contests or Promotions.** Brooks may occasionally present a special contest or promotion that is sponsored by Brooks or another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information, and we will detail how this information will be used. If we plan to share that information with third-party sponsor(s), we will provide a statement to that effect within the contest or promotion terms.
+When you access or use the Services, Brooks may also automatically collect information about you such as: 
 
-**IP Address.** An Internet Protocol ("IP") address is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer the Company Sites. Your IP address also may be used to gather broad demographic information.
-
-**Cookies.** A "cookie" is a small line of text that is stored with your web browser for record-keeping purposes and to help us provide better service to you, including allowing you to use some specialized features on the Company Sites. Your browser has options to accept, reject, or provide you with notice when a cookie is sent. We use cookies during a user's visits to the Company Sites in order to identify each unique online session. We do not store any of your personally identifiable information on our cookies.
-
-**Links to Other Sites.** The Company Sites may contain links, including banner and other ads, to other websites. Brooks is not responsible for the privacy practices or the content of such websites. The Company Sites may also link to websites that feature Brooks trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded website, as the co-branded website may not be under Brooks' control.
-
-**Information from Other Sources.** For reasons such as improving your experience and providing customized communications to our users, we may receive information about you from other sources and add it to the information that we have received from you.
-
-### With whom does Brooks share information?
-
-We will not share your personally identifiable information with third parties (aside from entities that perform services for us, such as fulfilling orders). Brooks may use third parties to accept and process orders or credit card transactions for merchandise and products. However, Brooks may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on Brooks; (2) protect and defend the rights or property of Brooks; or (3) act in an emergency to protect someone's safety.
-
-We may gather demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity. We may share certain statistical information with our marketing partners, advertisers or other third parties for research purposes.  If we share such demographic information with third parties, it will contain aggregate information only.
-
-Brooks is a wholly owned subsidiary of the Russell Corporation. In the event that Brooks is sold by Russell Corporation, or that Russell Corporation is acquired by another company, your personal information may be part of the assets transferred to the acquiring party.
-
-### What are my options to control the use of my personally identifiable information?
-
-If you do not want to receive information from Brooks, you may decline to receive it (or "opt out") when you provide personal information to Brooks, or you may sign in to your account and update your preferences.
-
-### What about kids' personally identifiable information?
-
-Brooks does not sell products for purchase by children. We may sell children’s products for purchase by adults. If you are under 18, you may use Company Sites only with the involvement of a parent or guardian. If a parent believes that his or her child has submitted personal information to Brooks, he or she can contact us via email or postal mail as listed below. Brooks will promptly delete the information upon learning that it relates to a child under the age of 13.
-
-### What else should I know about my privacy?
-
-**Security.** Brooks has security measures in place to protect the loss, misuse and alteration of the information under our control. These include firewalls to prevent unauthorized access to our systems. Although we will exercise the utmost care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption.
-
-**Message Boards and Other Public Areas.** Brooks may offer message boards, chat rooms or other public functions. Any posting by you in any of these areas is considered public information available to other users. You should be aware that if you voluntarily disclose personal information online in a public area, that information may be collected and used by others. We do not control the actions of our visitors and registered users. If you disclose personal information in a publicly accessible place on the Company Sites, you do so at your own risk and you understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements or for other purposes. Any posting is governed by Brooks' Terms of Use.
-
-**Refer a Friend.** If a user elects to use our referral service for informing a friend about the Company Sites or particular Brooks products, services or features, we ask them for the friend's name and email address in order to send the desired information. Brooks will automatically send the friend a one-time email inviting them to visit a Company Site. Brooks stores this information for the sole purpose of sending this one-time email. The friend may contact Brooks to request the removal of this information from our database.
-
-**Password Protection.** Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with Brooks in order to prevent others from accessing your personal information.
-
-### How can I update my profile?
-
-You can help Brooks maintain the accuracy of your profile by notifying us when you change your street address, title, phone number or email address. If at any time you wish to update your information or stop receiving communications from Brooks, please sign in to your account and review your account settings.  
+  * **Log Information.** We log information about you when you visit and use the Services, including your Internet Protocol ("IP") address, access times, operating system, browser type and language, Internet Service Provider ("ISP"), and the web pages that you visit.
+  * **Information Collected by Cookies and Other Tracking Technologies.** We may automatically collect information about you using cookies, web beacons, and other tracking technologies. "Cookies" are small data files stored on your hard drive by a website. Among other things, cookies help us to improve the Services and your experience, understand which areas and features of the Services are popular, and count visits. For more information about removing or rejecting cookies, please see "Your Privacy Choices" below. We may also collect information via web beacons (also known as "tracking pixels"), which are electronic images that may be used in the Services or in emails. Among other things, web beacons help us to monitor user activity, deliver cookies, count visits, understand usage and campaign effectiveness, and determine whether an email has been opened and acted upon.
 
 
-### Contacting Brooks.
 
-Brooks welcomes your comments and questions about our privacy policy. Please address comments or questions to us via the following mailing address.
+### Information We Collect From Other Sources
 
-Brooks Sports, Inc.  
-19820 North Creek Parkway  
-Suite 200  
-Bothell, WA 98011-8223  
-ATTN: Web Privacy Policy
+Brooks may also obtain information from other sources and combine that with information we collect about you.
 
-### Acceptance of Privacy Policy.
+## Use of Information
 
-Your use of any Company Site, including any dispute concerning privacy, is subject to this privacy policy and Brooks' Terms of Use. By using the Company Sites, you are accepting the practices set out in this privacy policy and those Terms of Use. We reserve the right to modify this privacy policy at any time by posting the changes on this page. If this policy is modified by Brooks, you will be notified by email of any changes which affect how we use your personal information. As stated above, you can modify your personal information communication preferences at any time. Please check the revision date at the bottom of this paragraph to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of any Company Site following posting of the updated privacy policy will constitute your acceptance of the changes.
+We may use the information we collect about you for a variety of purposes, including to:
 
-This privacy policy was last revised on February 12th, 2006.
+  * Provide, maintain, and improve the Services;
+  * Provide and deliver products and services, process and complete transactions, and send you related information, including purchase confirmations and invoices;
+  * Respond to your comments, questions, and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, contests, sweepstakes, rewards, and events, and provide other news and information about Brooks and our select partners;
+  * Process and deliver contest or sweepstakes entries and prizes;
+  * Monitor and analyze trends, usage, and activities in connection with the Services;
+  * Investigate and prevent fraudulent transactions and other illegal activities;
+  * Personalize and improve the Services, and provide content, features, and/or advertisements that match your interests and preferences or otherwise customize your experience on the Services; and
+  * Link or combine with other information we receive from third parties to help understand your needs and provide you with better service.
+
+
+
+Our Services are based in the United States and the information we collect is governed by U.S. law. By accessing or using our Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+
+## Sharing of Information
+
+We may share personal information about you as follows:
+
+  * With third-party vendors, consultants, and other service providers who are working on our behalf and who require access to your information to carry out their work;
+  * When you sign up for and participate in the interactive areas of our Services, certain information about you may be displayed publicly, such as your name, photos, and any other information you choose to provide;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation, or legal process;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights and property of Brooks or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company; and 
+  * With your consent or at your direction.
+
+
+
+We may also share aggregated, non-personally identifiable information about you.
+
+## Social Sharing Features
+
+The Services may offer social sharing features or other integrated tools, which let you share actions you take on the Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.
+
+## Security
+
+We take reasonable measures, including administrative, technical, and physical safeguards, to help protect personal information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
+
+## Third Party Advertising and Analytics
+
+We may allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services. These third parties may use cookies, web beacons, and other technologies to collect information, such as your IP addresses, identifiers associated with your mobile device or applications on the device, web browsers, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used by Brooks and other companies to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies, and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices>.
+
+We also use a third party to "power" product reviews on our Services. When you submit a product review, you become subject to the terms of use and privacy policy of this third party and the reviews you submit may be posted on our Services and on third party sites.
+
+## Your Privacy Choices
+
+### Online Account Information
+
+You may access, update and correct your online account information at any time by logging into your online account and updating your preferences. If you wish to delete your online account, please email us at [store@brooksrunning.com](mailto:store@brooksrunning.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.
+
+### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Services.
+
+### Promotional Communications
+
+You may opt out of receiving promotional emails or text messages from Brooks by following the instructions in those communications or by emailing [store@brooksrunning.com](mailto:store@brooksrunning.com). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing relations.
+
+## Contact Us
+
+Brooks welcomes your comments and questions about this Privacy Policy. Please address comments or questions to [store@brooksrunning.com](mailto:store@brooksrunning.com) or Brooks Sports, Inc., Attn: Privacy Policy, 19820 North Creek Parkway, Suite 200, Bothell, WA 98011-8223.
