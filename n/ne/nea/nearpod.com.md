@@ -1,67 +1,57 @@
-> *The following text is extracted and transformed from the nearpod.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308002429id_/http%3A//www.nearpod.com/privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearpod.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233234id_/http%3A//www.nearpod.com/privacy-policy) for the most accurate reproduction.*
 
-# NEARPOD - Interactive presentations, survey and data capture mobile solutions
+# Privacy Policy | Nearpod
 
-Nearpod is committed to protecting the privacy of our customers and Web site users. The following explains how we gather and use your information
+Nearpod Privacy Policy
 
-## Purpose of this Privacy Policy
+Please read our Privacy Policy carefully before accessing or using the Nearpod website or any of the Nearpod mobile applications.
 
-This privacy policy describes how Nearpod treat the personally identifiable information that is collected about you when you visit our web site ([www.nearpod.com](http://www.nearpod.com/)), and the information collected on Nearpod’s behalf to the extent we use third-party service providers to host the web site or collect information about site users. This policy may change over time. Any changes will be posted at this URL and will be effective when posted. Your use of this site constitutes your acceptance of this policy.
+By accessing or registering to the Nearpod website, and/or by downloading any of the Nearpod mobile applications, you agree to become bound by this Privacy Policy. If you do not agree, then you may not access the Nearpod website or use any of our products or services.
 
-## Collection of Personally Identifiable Information
+Personal Identifiable Information from Children
 
-Nearpod generally collects personally identifiable information with your specific knowledge and consent and only to provide you with the service you have requested.
+We do not intentionally collect any personal identifiable information from users under the age of 13.
 
-  
+If you are a parent or guardian or teacher and believe that your child or student has provided Nearpod with Personal Identifiable Information, you should notify us at [support@nearpod.com](mailto:support@nearpod.com)  so that we may immediately delete the information from our servers.
 
+Our Privacy Policy describes how we use any personally identifiable information that is collected when you register and complete our form to activate your account. The Nearpod Materials includes mobile applications, website and its contents, and hardware equipment. Not all of the opportunities, methods, or technologies that can be used to collect or receive user information or Submissions, as described below, are in use or released, but may become used or made available as we release new features and offerings. Certain matters referred to in this Privacy Policy are dealt with in more detail in our Terms and Conditions. We recommend that you read this Privacy Policy and Terms and Conditions prior to enrolling and start using Nearpod and Nearpod Materials.
 
-“Personally identifiable information” is information that we can use to identify you as an individual. Personally identifiable information includes your name, address, telephone number and any other information that is connected with you personally For instance, when you set up an online account or subscribe to our e-newsletters, you will be asked to provide information such as your e-mail address, name, phone number, and shipping address. Information such as your age, gender, month of birth may also be requested for verification purposes.
+What types of information do we collect?
 
-Nearpod uses this information to provide you with the service you have requested. If you subscribe to our magazine, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter online form, we will use this information to contact or follow-up with you.
+As used below:  
+-”You” or “your” will refer to the user in charge of implementing Nearpod.  
+-”We” or “our” or “Nearpod” refers to Nearpod.
 
-We might also send out periodic e-mails about subscription renewals, new services and announcements from our site. We may also use any personal information you send for marketing and promotional purposes and we may combine information we receive online with outside records to enhance our ability to market our products or those of our advertisers. You may elect to stop receiving e-mail messages or promotional mailings (other than transactional messages relating to any accounts you may have with us) by accessing your account preferences online. 
+During the Nearpod sign-up process, we may collect the following information from  
+the user in charge of implementing Nearpod: First Name, Last Name, Institution Name, Title, E-mail Address, Phone Number, Address, City, State, ZIP code, Country, SchoolType, District, Approximate number of mobile devices in school, Twitter, Blog, etc.
 
-## Third Party Service Providers
+Nearpod and Nearpod Materials may offer conversation pages, chat rooms, social  
+community environments, profile pages, as well as other interactive features in which you may provide us with your Submissions. If you provide personal information when you use any of these features, that personal information shall be privately posted on the Nearpod Materials. You are responsible for your communications, and are responsible for the consequences of their posting. Further, during the registration process, we will ask you to create a “username” to be used to access your account and the features of Nearpod and Nearpod Materials. Should you choose to post to the Nearpod Materials, make comments, give feedback, or provide us with other types of “Submissions,” we may use your member name to identify or credit you as the source of such Submissions.
 
-The information you provide may be collected by third party service providers with whom Nearpod contracts to host the web site or to fulfill requests for services; in that event, Nearpod asks such service providers to make the personal information available only to Nearpod for Nearpod to use in accordance with the terms of this policy and not to use the information for any other purpose.
+Submissions and your username may be used in perpetuity, even if you elect to  
+terminate, delete, or remove your account or request us to remove your personally  
+identifiable information. Please see our “Terms and Conditions” to read more about how “Submissions” are treated and handled.
 
-In addition to the foregoing, Nearpod may share or disclose personally identifiable information about you to other companies or individuals when: 
+Newsletters
 
-  * We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;
-  * You have entered a contest or sweepstakes sponsored by a third party, in which case the information may be shared with that third party for their use in their discretion, including direct marketing (if you don’t want your name shared, you should not enter the contest or sweepstakes);
-  * We need to protect our legal rights (for example, if we are trying to collect money you owe us);
-  * We must comply with applicable laws, regulations, or legal or regulatory process; or
-  * In connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by Nearpod.com .
+Nearpod may be offering an e-mail newsletter to the user in charge of implementing Nearpod. To sign up to receive regular e-mails, you will be required to opt-in to receive said e-mails. This information will be used in aggregate form to assess general user interest in various internal products and services, and your personal and contact information will not be passed to any other organization. If you choose to sign up for a mailing list, you will receive regular e-mails, including alerts about new articles, industry trends, and/or other offerings.
 
-  
+Will information be collected automatically by technology?
 
+We do not collect any kind of non-personally identifiable information through the use of cookie technology or IP numbers that track the audience. In HTML e-mails that we may send you, we may use technical methods for a number of purposes, including determining whether you have opened or forwarded those e-mails and/or clicked on links in those e- mails. These technical methods may enable us to collect and use information in a form that is personally identifiable.
 
-## Cookies
+Notwithstanding any other statements or representations here or elsewhere on our site, Nearpod reserves its right to disclose any information in its possession if it is required to do so by law, or it believes, in good faith, that such a disclosure is necessary to comply with the law, defend its rights or property, or to respond to an emergency situation.
 
-Nearpod (or third party service providers on our behalf) may set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Nearpod uses cookies to understand site usage and to improve the content and offerings on our site. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, to record requests for subscriptions and to personalize information. Nearpod (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose. Some of our advertisers may serve you cookies as well. We do not have control over cookies placed by advertisers. If you don’t want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our site may not function efficiently.
+How you can access, change, or delete personally identifiable information?
 
-## IP Address
+You can contact us to access, change, or remove any personally identifiable information that we have collected from you by sending an e-mail to support@nearpod.com. Please include your username and e-mail address so that we can better assist you with your inquiry or request. Please be advised that (a) requesting the removal of or not providing personally identifiable information may result in the termination, removal, or blocking of your account, registration, and/or access to the Nearpod Materials and (b) change of personal information may affect your use of the Nearpod Materials including the correctness of any results. We reserve the right to maintain archival copies of any personally identifiable information you have provided to us in a manner that will not allow it to be publicly used or accessed. Once you request a change or removal of your personally identifiable information and/or your account, we can give you no assurances that such information or account may be retrieved or reopened in the future.
 
-Your Internet Protocol (“IP”) address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, and administer our website. 
+Nothing requires us to delete, block or remove any non-personally identifiable information from our Nearpod Materials or our databases, or any “Submissions” you have made even if they contain personally identifiable information from the user in charge of implementing Nearpod. All such information will be treated as a “Submission” under the “Terms and Conditions.”
 
-## Kids And Parents
+Will there be changes to our Privacy Policy?
 
-The site covered by this policy is not intended for use by children under age 18. No one under age 18 is allowed to provide any personal information or use our public discussion areas. Minors under the age of 18 must get the permission of their parent(s) or legal guardian(s) before subscribing to any magazines or services on our site. 
+We may amend our Privacy Policy at any time. We expect to amend our Privacy Policy from time to time as we change the registration procedure, possibly introduce or alter our offerings, change levels of user participation, and/or release new features. Nearpod elects the right in its sole discretion to remove or delete, temporarily or permanently, any and all information, including personally-identifiable and non-personally identifiable profile and registration information, Submissions (as defined in the “Terms and Conditions”), and any other information collected from or provided by you during and after installing Nearpod. Please note that, at all times, you should update your personal information to provide us with current e-mail addresses.
 
-## Non-U.S. Users
+How do you contact us?
 
-If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and state courts of, and in accordance with the laws of, the state of Florida
-
-## Information This Privacy Policy Does Not Apply To
-
-This privacy policy does not apply to information collected about you by anyone except Nearpod and only applies to [nearpod.com](http://nearpod.com/). Any information you provide when you visit web sites other than those covered by this policy (including those linked from [Nearpod.com](http://nearpod.com/)) or when you purchase any products or services that may be offered or advertised on our web site by companies other than Nearpod is subject to the privacy policies posted on those sites. 
-
-## Changes to Privacy Policy and Notice
-
-Nearpod may change this policy from time to time in its discretion. Your continued use of our site indicates your consent to this privacy policy and any amended versions of it. 
-
-## Contact Information
-
-If you have any questions about the practices of this site, or your dealing with this web site, you can contact us at [info@nearpod.com](mailto:info@nearpod.com) or call us at 305-677-5030.
-
-This policy was last updated on February 17, 2010. 
+If you are concerned about the information you provided to Nearpod, please contact us at support@nearpod.com.
