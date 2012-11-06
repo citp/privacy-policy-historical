@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508032601id_/http%3A//www.myfatpocket.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231418id_/http%3A//www.myfatpocket.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - My Fat Pocket
 
 Privacy Policy
 
-Sunday, 25 July 2010 21:49 |  by myfatpocket.com 
+Sunday, 25 July 2010 | by  myfatpocket.com 
 
 Privacy Policy
 
