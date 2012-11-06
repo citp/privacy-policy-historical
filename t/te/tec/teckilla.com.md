@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teckilla.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606062937id_/http%3A//www.teckilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teckilla.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233253id_/http%3A//www.teckilla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Teckilla | Teckilla
+# Privacy Policy - Teckilla - Tech, Social-Media, Make Money, How-to's, Gadgets and Web News | Teckilla - Tech, Social-Media, Make Money, How-to's, Gadgets and Web News
 
 **Privacy Policy for www.teckilla.com**
 
