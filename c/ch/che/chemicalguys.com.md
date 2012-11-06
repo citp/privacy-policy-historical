@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemicalguys.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630205344id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalguys.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234759id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -53,7 +53,7 @@ In an attempt to provide you with increased value, we may include third party li
 
  **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 1, 2012.**
 
  **Questions and feedback**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120630205344id_/http%3A//www.chemicalguys.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20121106234759id_/http%3A//www.chemicalguys.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
