@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626200330id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106071134id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
 
 # Privacy-and-Security
 
@@ -29,7 +29,7 @@ We may share your name and address information with certain trusted resources un
 
 A Cookie is a small data file stored by your Web browser on your computer's hard drive. Cookies allow The Vermont Country Store website to keep track of your order information, such as items placed in your Shopping Bag. Cookies also allow us to provide customers with a more personalized experience.
 
-Tracking Pixels are small images that are used by the website to identify pages that are being viewed by customers. No personal data is collected when these images are viewed. Aggregate data from Tracking Pixels is used to improve the customer experience. Cookies and Tracking Pixels may be disabled in your browser. If disable, however, certain portions of The Vermont Country Store website may not function.
+Tracking Pixels are small images that are used by the website to identify pages that are being viewed by customers. No personal data is collected when these images are viewed. Aggregate data from Tracking Pixels is used to improve the customer experience. Cookies and Tracking Pixels may be disabled in your browser. If disabled, however, certain portions of The Vermont Country Store website may not function.
 
 The Vermont Country Store may contract with third parties who may also use Cookies and Tracking Pixels to collect data on our behalf, or to provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited from sharing that information with anyone other than The Vermont Country Store or our partners.
 
