@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628022345id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107004425id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
