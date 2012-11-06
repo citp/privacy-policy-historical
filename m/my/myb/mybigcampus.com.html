@@ -1,20 +1,24 @@
-<!--The following is the downloaded HTML source of the mybigcampus.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508163412id_/http%3A//www.mybigcampus.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mybigcampus.com privacy policy that was archived on 2012-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106175134id_/http%3A//www.mybigcampus.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<script>
+  //<![CDATA[
+    var _sf_startpt=(new Date()).getTime()
+  //]]>
+</script>
 <meta charset="utf-8">
 <meta content="My Big Campus extends the classroom to a safe, engaging online environment." name="description">
 <title>My Big Campus Privacy Policy</title>
-<link href="/stylesheets/pages.css?1336447116" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/smoothness/jquery-ui-1.8.12.custom.css?1336447116" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/prettyPhoto.css?1336447116" media="screen" rel="stylesheet" type="text/css">
-<script src="/javascripts/jquery-1.6.1.min.js?1336447116" type="text/javascript"></script>
-<script src="/javascripts/jquery-ui-1.8.12.custom.min.js?1336447116" type="text/javascript"></script>
-<script src="/javascripts/rails.js?1336447116" type="text/javascript"></script>
-<script src="/javascripts/pages.js?1336447116" type="text/javascript"></script>
-<script src="/javascripts/jquery.prettyPhoto.js?1336447116" type="text/javascript"></script>
+<link href="/images/favicon.png" rel="icon" type="image/png">
+<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/c/video.js"></script>
+<script src="/javascripts/jwplayer/swfobject.js"></script>
+<link href="/assets/application-63ad36ae3599dbf2fe959d2a3c54fdb6.css" media="screen" rel="stylesheet" type="text/css">
+<!--[if IE]><link href="/stylesheets/application-ie.css" rel="stylesheet" type="text/css" media="screen"><![endif]-->
+<script src="/assets/application-e95caafb0802b4969dc084cb716c1649.js" type="text/javascript"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="jtAgUbjLKxKPSKJl7JXO1v92TcsnRRXB5KuvhJSmHbs=" name="csrf-token">
+<meta content="2ee+AdojcbpnAXCtZEgdlJfvXp+W+SIYT22tsN2kfC4=" name="csrf-token">
 <script>
   //<![CDATA[
     var _gaq = _gaq || [];
@@ -29,8 +33,8 @@
   //]]>
 </script>
 </head>
-<body class="sub-page privacy">
-<div id="top-header">
+<body class="logged-out-homepage sub-page privacy" data-jsinit="pages-privacy_policy">
+<div id="homepage-header">
 <h1>
 <a href="/">My Big Campus</a>
 </h1>
@@ -38,7 +42,7 @@
 <li class="pop-out">
 <a href="#" id="login-link">Login</a>
 <div id="login-pop-out">
-<form accept-charset="UTF-8" action="https://www.mybigcampus.com/login" class="user_new" id="user_new" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="jtAgUbjLKxKPSKJl7JXO1v92TcsnRRXB5KuvhJSmHbs="></div>
+<form accept-charset="UTF-8" action="https://www.mybigcampus.com/login" class="user_new" id="user_new" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="2ee+AdojcbpnAXCtZEgdlJfvXp+W+SIYT22tsN2kfC4="></div>
 <input id="i_can_haz_cookie" type="hidden" value="no">
 <p>
 <input id="username" name="username" type="text" value="username">
@@ -56,7 +60,7 @@
 <input id="school_id" name="school_id" type="hidden">
 </p>
 <p>
-<a href="#" onclick="selectDifferentSchool(); return false;">Select a different school</a>
+<a class="change-school" href="#">Select a different school</a>
 </p>
 </div>
 <div class="login" style="display: none">
@@ -69,15 +73,19 @@ Remember me
 </span>
 <button type="submit">Login</button>
 </p>
+<hr style="margin-bottom:5px">
+<p>
+<a href="http://parents.mybigcampus.com" style="font-weight:bold">Are you a parent? Login here</a>
+</p>
 </div>
 </form>
 
-<form accept-charset="UTF-8" action="" id="school-not-selected" method="post" style="display: block"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="jtAgUbjLKxKPSKJl7JXO1v92TcsnRRXB5KuvhJSmHbs="></div>
+<form accept-charset="UTF-8" action="" id="school-not-selected" method="post" style="display: block"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="2ee+AdojcbpnAXCtZEgdlJfvXp+W+SIYT22tsN2kfC4="></div>
 <p>
 Find your school by
-<a href="#" onclick="schoolSearchType('name'); return false;">name</a>
+<a class="school-search-type" data-search_type="name" href="#">name</a>
 or
-<a href="#" onclick="schoolSearchType('zip'); return false;">zip code</a>
+<a class="school-search-type" data-search_type="zip" href="#">zip code</a>
 </p>
 <p class="name">
 <input id="school-search" type="text" value="name">
@@ -102,18 +110,26 @@ Search for a school
 <li>
 <a href="/sign-up">Sign Up</a>
 </li>
-</ul>
-<ul>
 <li>
 <a href="/tour">Tour</a>
-</li>
-<li>
-<a href="/blog/bob-campuss-blog">Blog</a>
 </li>
 <li>
 <a href="/get-help">Help</a>
 </li>
 </ul>
+<!--
+<ul>
+<li>
+<a href='/tour'>Tour</a>
+</li>
+<li>
+<a href='/blog/bob-campuss-blog'>Blog</a>
+</li>
+<li>
+<a href='/get-help'>Help</a>
+</li>
+</ul>
+-->
 </div>
 <div id="content-container">
 <h2 id="page-title">My Big Campus Privacy Policy</h2>
@@ -271,15 +287,37 @@ Bakersfield, CA 93301
 <a href="/privacy-policy">Privacy Policy</a>
 </p>
 </div>
+<script>
+  //<![CDATA[
+    var _sf_async_config = { uid: 40301, domain: "www.mybigcampus.com" };
+    (function() {
+      function loadChartbeat() {
+        window._sf_endpt = (new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+          (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+          "js/chartbeat.js");
+        document.body.appendChild(e);
+      };
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+        loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })()
+  //]]>
+</script>
+
+
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js";
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","24964483f7",36036,"ewxXRUZbCV0GEUsUBV8GSh4cWxFZBhFN",0,29,new Date().getTime(),"","","","",""])</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","24964483f7",36036,"ewxXRUZbCV0GEUsUBV8GSh4cWxFZBhFN",0,28,new Date().getTime(),"","","","",""])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
