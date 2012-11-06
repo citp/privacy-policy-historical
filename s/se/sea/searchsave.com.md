@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchsave.com privacy policy that was archived on 2008-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081117192151id_/http%3A//www.searchsave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsave.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106095835id_/http%3A//www.searchsave.com/privacy-policy) for the most accurate reproduction.*
 
 # Search Save - Privacy Policy
 
