@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625211955id_/http%3A//hoodamath.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106084052id_/http%3A//hoodamath.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,6 +49,10 @@ This site contains links to other sites. Hooda Math® is not responsible for the
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.   
 
+
+#### Mobile Application
+
+Download our apps at your own device risk. Hooda Math® takes no responsibility for the operation of your mobile device. If you do have a problem with one of our apps, contact us immediately and we will either try to help, or create an update to the app if necessary. 
 
 #### Children's Guidelines
 
