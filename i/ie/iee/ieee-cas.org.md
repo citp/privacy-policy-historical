@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieee-cas.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625073338id_/http%3A//www.ieee.org/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee-cas.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106092421id_/http%3A//www.ieee.org/privacy) for the most accurate reproduction.*
 
 # IEEE - About Your Privacy and Cookies
 
