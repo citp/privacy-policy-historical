@@ -1,39 +1,40 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507015124id_/http%3A//www.superbreak.com/info/privacyandterms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106200015id_/http%3A//www.superbreak.com/info/privacyandterms.htm) for the most accurate reproduction.*
 
 # Superbreak Privacy & Terms - Customer Help Section - Superbreak
 
-### Our Address
-
-Eboracum Way  
-York  
-YO31 7RE  
-
-
-Tel: 0871 221 3366
-
-(calls cost 10p per minute plus network extras)
-
-Fax: 0871 221 3377
-
-(calls cost 10p per minute plus network extras)
-
-Email: [internet@superbreak.com](mailto:internet@superbreak.com "Email internet@superbreak.com")
-
-### Privacy
-
-Superbreak.com is a website owned and operated by Superbreak Mini-Holidays Ltd, part of Cox & Kings group. Superbreak Mini-Holidays Ltd is registered in England with registered number 1674987. Its registered address is Eboracum Way, York YO31 7RE
-
 ### Cookies
 
-This website uses cookies to collect information about you. Cookies are small data files that are stored on your computer when you visit our website. The cookie contains merely a unique number and therefore no personal data. We collect information about you in order to develop the quality of our website and tailor our service to you.
+What are cookies?
 
-We may use reputable third party applications to collect some data for tracking and monitoring purposes. These applications may also use cookie based technology.
+Cookies are small data files that are stored on your computer when you visit websites. It is very important to note that cookies can't harm your computer or mobile device.
+
+At Superbreak.com we use cookies to collect information about your visit to our website. We do not store any personally identifiable information about you in the cookies we create – the cookie merely contains a unique number. Our use of cookies helps to contribute to a better experience for you when you visit our website, such as improving the searching process by remembering your query.
 
 You can restrict the use of cookies on your computer by changing your browser settings.
 
-Please note: Our website uses cookies to retain the information about your availability searches through the booking process. If you choose to disable cookies, you will still be able to book on our website but certain information about your searches will not be retained. To get the best experience on our website, we recommend that you leave cookies turned on.
+We use cookies for a number of reasons:
 
-For further information about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies")
+1\. Session cookies
+
+These cookies are used so that we can improve your overall experience on our website. For example we retain the details of what you have searched for, such as the number of passengers and number of nights. This has been designed to help you if make multiple searches whilst visiting our website. In order to get the best experience on our website, we recommend that you leave cookies turned on.
+
+2\. Analytical cookies
+
+These cookies helps us understand and analyse visitor information such as browser usage, visitor numbers, response to promotions and how long you spend using our website. This information helps us to improve our website and your experience and to make our promotions relevant. No personal data is collected and they are used for statistical purposes only.
+
+3\. Third party cookies
+
+We have relationships with carefully selected and monitored suppliers who may also set cookies during your visit.
+
+Examples include:
+
+Advertising Performance - These cookies allow us to monitor the effectiveness of our promotions that appear on search engines and banner advertising. This means we can make our advertisements more useful to you by providing timely and relevant content.
+
+Behavioral Advertising - These cookies allow us to show you advertisements on other websites after you have left Superbreak.com. They show the best hotel and theatre deals for the locations you have been searching for on our website to make finding our best deals easier and quicker. In the industry this is called behavioral advertising, a common online advertising practice and again does not collect any personal data.
+
+Social Networks - If you decide to 'share' Superbreak.com content with your friends through social networks such as Facebook and Twitter you may be sent cookies from these websites. We don't control the setting of these cookies, so we suggest you check third-party websites for more information about their cookies and how to manage them.
+
+If you'd like to learn more about cookies or for further information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies")
 
 ### Your Information
 
@@ -51,20 +52,17 @@ The data you provide can include, but is not limited to, your name, address, det
 
 We will use any data gathered through the Superbreak website to issue regular e-mail promotions, or special deal offers. Such communications will only be sent to you if you have chosen to receive them.
 
-If you do not wish to receive such communications from Superbreak then please follow these instructions:
+To stop receiving communications from Superbreak, please follow our unsubscribe link which is featured at the bottom of all of our newsletters. Alternatively, you can send an e-mail with the word unsubscribe in the subject line to: [newsletter@superbreak.com](mailto:newsletter@superbreak.com?subject=unsubscribe "newsletter@superbreak.com").
 
-  * Send an email with the word unsubscribe in the subject line to: [newsletter@superbreak.com](mailto:newsletter@superbreak.com?subject=unsubscribe)
-  * Ensure you are sending the e-mail from the same address that was originally used when making your request, or purchase. If not, you may continue to receive our promotional e-mails.
-
-
+Please ensure you email from the same address that is currently receiving our communications.
 
 ### Terms & Conditions
 
-The following Booking Conditions form the basis of your contract with Superbreak Mini Holidays Limited t/as Superbreak and The Luxury Hotel Collection of Eboracum Way, York, YO31 7RE. Superbreak Mini-Holidays Limited is part of the Cox & Kings group.Please read them carefully as they set out our respective rights and obligations.All bookings are subject to these Booking Conditions.Where we arrange travel arrangements for you the relevant operator's conditions of carriage will apply to your booking.Our contract will apply to the services we provide to you in arranging your flight or other travel arrangements (including agency services) however if there is any conflict between our contract and the operator's conditions of carriage, the operator's conditions of carriage will take priority.
+The following Booking Conditions form the basis of your contract with Superbreak Mini Holidays Limited t/as Superbreak and The Luxury Hotel Collection of Eboracum Way, York, YO31 7RE. Superbreak Mini-Holidays Limited is part of the Cox & Kings group. Please read them carefully as they set out our respective rights and obligations. All bookings are subject to these Booking Conditions. Where we arrange travel arrangements for you the relevant operator's conditions of carriage will apply to your booking. Our contract will apply to the services we provide to you in arranging your flight or other travel arrangements (including agency services) however if there is any conflict between our contract and the operator's conditions of carriage, the operator's conditions of carriage will take priority. 
 
 #### Package Holidays
 
-If you book a package holiday through us, once your package holiday has been confirmed we will accept responsibility for it in accordance with these Booking Conditions as an "organiser" under the Package Travel, Package Holidays and Package Tours Regulations 1992.A "package holiday" is a combination of at least two out of (a) transport, (b) accommodation or (c) other tourist services (not ancillary to any transport or accommodation and forming a significant part of the arrangements) where booked through us at the same time, for which payment is made to us and which last at least 24 hours or include overnight accommodation. 
+If you book a package holiday through us, once your package holiday has been confirmed we will accept responsibility for it in accordance with these Booking Conditions as an "organiser" under the Package Travel, Package Holidays and Package Tours Regulations 1992. A "package holiday" is a combination of at least two out of (a) transport, (b) accommodation or (c) other tourist services (not ancillary to any transport or accommodation and forming a significant part of the arrangements) where booked through us at the same time, for which payment is made to us and which last at least 24 hours or include overnight accommodation. 
 
 #### Groups
 
@@ -84,7 +82,9 @@ Please check any documentation carefully as soon as you receive it. Contact us i
 
 Full payment is required at the time of booking
 
-If you have booked via an agent, all monies you pay to one of our authorised travel agents for your holiday with us will be held by the agent on your behalf until we issue our confirmation invoice. After that point, your agent will hold the monies on our behalf.
+For flight inclusive bookings, all monies paid to any authorised travel agent of ours for your holiday with us will be held on behalf of and for the benefit of the Trustees of the Air Travel Trust subject to the travel agent's obligation to pay such monies to us in accordance with our trading terms unless we fail. In the unlikely event of our financial failure, all monies then held by the travel agent or subsequently paid by you to the travel agent will be held by the agent on behalf of and for the benefit of the Trustees of the Air Travel Trust without any obligation on the agent to pay such monies to us.
+
+For holidays which do not include flights arranged by us, all monies you pay to one of our authorised travel agents for your holiday with us will be held by the agent on your behalf until we issue our confirmation invoice. After that point, your agent will hold the monies on our behalf.
 
 #### 3\. Your contract
 
@@ -112,7 +112,7 @@ If changes to transportation costs, taxes, dues, fees or exchange rates arise be
 
 #### 5\. Changes by you
 
-Should you wish to make any changes to your confirmed break, you must notify us (by post, telephone or email) as soon as possible.If a person is prevented from travelling, we will agree to that person's booking being transferred to another person who satisfies all the conditions applicable to the booking, subject to both persons accepting joint and several liability for full payment of the booking and our charge for confirming the transfer and any additional costs arising from the transfer.Whilst we will endeavour to assist, we cannot guarantee we will be able to meet any such requests. Where we can, an amendment fee of £15 per amendment (unless it is to increase the value of the booking) will be payable together with any costs incurred by ourselves and any costs or charges incurred or imposed by any of our suppliers.Any alteration requested by you on the day of travel (or in the case of overseas bookings, within 7 days of travel) will be treated as a cancellation by you and you will have to pay the cancellation charges set out in clause 6.
+Should you wish to make any changes to your confirmed break, you must notify us (by post, telephone or email) as soon as possible. If a person is prevented from travelling, we will agree to that person's booking being transferred to another person who satisfies all the conditions applicable to the booking, subject to both persons accepting joint and several liability for full payment of the booking and our charge for confirming the transfer and any additional costs arising from the transfer. Whilst we will endeavour to assist, we cannot guarantee we will be able to meet any such requests. Where we can, an amendment fee of £15 per amendment (unless it is to increase the value of the booking) will be payable together with any costs incurred by ourselves and any costs or charges incurred or imposed by any of our suppliers. Any alteration requested by you on the day of travel (or in the case of overseas bookings, within 7 days of travel) will be treated as a cancellation by you and you will have to pay the cancellation charges set out in clause 6.
 
 #### Changes by you for flight, Eurostar or ferry inclusive packages
 
@@ -237,7 +237,7 @@ It is the party leader's responsibility to ensure that all members of the party 
 
 #### 16\. Financial security
 
-Superbreak Mini-Holidays Ltd holds an Air Travel Organiser's Licence issued by the Civil Aviation Authority (CAA) (ATOL number 10518). This means the package holidays inclusive of air travel are ATOL protected. In the unlikely event of our insolvency, the CAA will ensure that you are not left stranded abroad and will arrange to refund any money you have paid to us for an advance booking. For further information, visit the ATOL website at [www.atol.org.uk](http://www.atol.org.uk/ "ATOL Website").
+Superbreak Mini-Holidays Ltd holds an Air Travel Organiser's Licence issued by the Civil Aviation Authority (CAA) (ATOL number 10518). This means the package holidays inclusive of air travel are ATOL protected. We, or the suppliers identified on your ATOL Certificate, will provide you with the services listed on the ATOL Certificate (or a suitable alternative). In some cases, where neither we nor the supplier are able to do so for reasons of insolvency, an alternative ATOL holder may provide you with services you have bought or a suitable alternative (at no extra cost to you). You agree to accept that in those circumstances the alternative ATOL holder will perform those obligations and you agree to pay any money outstanding to be paid by you under your contract to that alternative ATOL holder. However, you also agree that in some cases it will not be possible to appoint an alternative ATOL holder, in which case you will be entitled to make a claim under the ATOL scheme (or your credit card issuer where applicable). For further information, visit the ATOL website at [www.atol.org.uk](http://www.atol.org.uk/ "ATOL Website").
 
 For non flight-inclusive package holidays only we hold a bond with ABTA. This arrangement means your money will be refunded or you will be brought back to the UK (where your contracted holiday arrangements include return travel to the UK) if already abroad in the unlikely event of our being unable to provide your break due to our insolvency.
 
