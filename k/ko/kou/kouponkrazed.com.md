@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kouponkrazed.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615223851id_/http%3A//kouponkrazed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kouponkrazed.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106174154id_/http%3A//kouponkrazed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Koupon Krazed
 
