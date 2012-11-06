@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505072613id_/https%3A//www.playfire.com/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106012351id_/https%3A//www.playfire.com/a/privacy) for the most accurate reproduction.*
 
 # About Playfire - Playfire
 
