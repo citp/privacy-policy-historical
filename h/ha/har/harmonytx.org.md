@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmonytx.org privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603003733id_/http%3A//www.harmonytx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonytx.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106041848id_/http%3A//www.harmonytx.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy. Cosmos Foundation - Harmony Public Schools
+# Privacy Policy. Harmony Public Schools
 
 ## Privacy Policy
 
