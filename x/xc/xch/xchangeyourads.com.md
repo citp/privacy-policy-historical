@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xchangeyourads.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509134821id_/http%3A//xchangeyourads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xchangeyourads.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233859id_/http%3A//xchangeyourads.com/privacy.php) for the most accurate reproduction.*
 
 # ExchangeYourAds
 
@@ -35,7 +35,11 @@ We at XchangeYourAds (the "Site") understand that privacy online is important to
 **Copyright (c) 2011 http://xchangeyourads.com All Rights Reserved
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)   
-[**Universal Solo Ads**](http://universalsoloads.info/) | [ **Power Solo Hosting**](http://www.powersolohosting.com/index.html?&aff_id=587)   
+[**Universal Solo Ads**](http://universalsoloads.info/) | [ **Daily Ad Response**](http://dailyadresponse.com/)| [ **Power Solo Hosting**](http://www.powersolohosting.com/index.html?&aff_id=587)   
 
 
+| **VOTE FOR US 10 AT**  
+[](http://www.leadpaging.com/cgi-bin/ars/gateway.pl?member=ivang) |  | [](http://www.alexa.com/siteinfo/http://xchangeyourads.com)  
+---|---|---  
+  
 **
