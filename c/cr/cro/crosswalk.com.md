@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501123656id_/http%3A//www.crosswalk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107204813id_/http%3A//www.crosswalk.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Jesus Christ, Bible Study Tools, Online Christian Living Resources
+# Daily Christian Living Articles, Devotionals, and Faith Inspiration
 
 **Privacy Policy**  
 **Last Updated:** November 3, 2007
@@ -10,7 +10,7 @@ This policy informs you of the policies of Salem Communications Corporation and 
 **Please note that by visiting this website, you consent to the collection of Your Information by Salem as set forth in this Privacy Policy.**
 
 **1\. Will Salem Disclose the Information It Collects to Outside Parties?**  
-Generally, Salem does not sell, trade, or rent your personal information to others. However, Salem may provide aggregate statistics about our customers, traffic patterns, and related site information to third-party vendors. Generally, these statistics will include no personally identifying information. However, Salem may release Your Information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law; (ii) protect the rights, property or safety of Salem, our users, or others; (iii) enforce or apply the Terms of Use applicable to this website; or (iv) enforce contest, sweepstakes, promotions, and/or game rules. Also, we may give some or all of Your Information to third-party vendors who assist us in fulfilling some of the functions of this Website. Finally, we may provide Your Information to third parties if you authorize us to.
+Generally, Salem does not sell, trade, or rent your personal information to others. However, Salem may provide aggregate statistics about our customers, traffic patterns, and related site information to third-party vendors. Generally, these statistics will include no personally identifying information. However, Salem may release Your Information when we believe, in good [faith](http://www.crosswalk.com/faith/), that such release is reasonably necessary to (i) comply with the law; (ii) protect the rights, property or safety of Salem, our users, or others; (iii) enforce or apply the Terms of Use applicable to this website; or (iv) enforce contest, sweepstakes, promotions, and/or game rules. Also, we may give some or all of Your Information to third-party vendors who assist us in fulfilling some of the functions of this Website. Finally, we may provide Your Information to third parties if you authorize us to.
 
 **2\. What Information Do We Collect? How Do We Use It?**
 
