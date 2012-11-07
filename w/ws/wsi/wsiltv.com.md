@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsiltv.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205125643id_/http%3A//www.wsiltv.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsiltv.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107011442id_/http%3A//www.wsiltv.com/home/privacy) for the most accurate reproduction.*
 
 # WSILTV | Privacy Policy
 
@@ -57,6 +57,8 @@ Collection, Use and Disclosure of Non-Personal Information
 In some cases, a WSIL TV site may collect information about you that is not personally identifiable, as described below. Internet Protocol Addresses An Internet Protocol (IP) address is a number automatically assigned to your computer whenever you access the Internet. This number does not identify your name, e-mail address or other personal information. If you request pages from any WSIL TV website, that site's server will enter your IP address into a log.
 
 To maintain user anonymity, WSIL TV does not associate IP addresses with records containing personal information. We also do not permit IP addresses to be associated and viewed with posts to chat rooms and bulletin boards. We store IP addresses for a period of time to help us to identify anyone who refuses to comply with our in-house rules or terms of service, and to identify visitors who threaten our service, site, customers or others. We also will use this information to measure site traffic for purposes of system administration and for our sponsors. This aggregate data also helps us to understand how people are using the website and helps us improve your online experience.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit http://www.networkadvertising.org and http://www.networkadvertising.org/managing/opt_out.asp
 
 Cookies
 
