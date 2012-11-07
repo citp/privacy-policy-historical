@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511090615id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107133434id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
 [Home](https://web.archive.org/) > Privacy Policy
 
-The website [www.softwareadvice.com](https://web.archive.org/) ("Website") is owned and operated by Software Advice, Inc. ("Software Advice"). Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
+You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by Software Advice, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice.. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
 
 SO THAT WE MAY ASSIST YOU WITH YOUR SOFTWARE LICENSING/PURCHASE INQUIRY, PLEASE BE ADVISED THAT SOFTWARE ADVICE WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR PARTICIPATING SOFTWARE VENDORS SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS. WHEN YOU DOWNLOAD ARTICLES OF INTEREST WRITTEN (IN WHOLE OR IN PART) BY ONE OF OUR GUEST AUTHORS (AN "ADVISOR"), SOFTWARE ADVICE WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO SUCH ADVISOR SO THAT HE/SHE MAY CONTACT YOU ABOUT THE SUBJECT MATTER OF THE ARTICLE.
 
@@ -12,7 +12,7 @@ Software Advice may gather information about you from the Website and from other
 
 As a general rule, you will not be required to provide personally identifiable information as a condition to your browsing the Website. When such information is gathered, we will gather a limited scope of information from you that is necessary to facilitate the requests submitted by you, to improve this Website and your experience with the Website, and to make future visits to the Website easier and more personalized for you.
 
-**WHAT INFORMATION IS COLLECTED AND HOW COLLECTED INFORMATION IS USED**   
+**WHAT INFORMATION IS COLLECTED AND HOW COLLECTED INFORMATION IS USED**  
 Users of the Website may browse without being obligated to submit any personal information; however, we may collect certain personally identifiable information from you in certain areas of the Website for certain purposes. These purposes include:
 
   * providing information to us, to owners/operators of affiliate Websites, and/or to the vendor(s) of the software product(s) which you express an interest in purchasing or licensing so that we can contact you and help initiate contact and establish communication between you and such vendor(s) or Affiliates;
@@ -61,6 +61,9 @@ Cookies may also be placed by third parties prior to or during your visit to the
 
 **Pixel Tracking**  
 Software Advice may employ a common technique usually referred to as "pixel tracking" to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on the Website or in e-mail messages, involves the use of pixel tags (also known as "clear gifs," "Web beacons" or "1-by-1 gifs") that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit the Website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report Website activity to us.
+
+**Third Party Advertising**  
+We use third-­‐party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/). 
 
 **Other Information**  
 We may also request other personally identifiable information from you, or you may affirmatively provide us with such information. As a general matter, we try to limit the information we gather to the minimum information we need to perform the applicable services and to improve your experience on the Website. If you send an e-mail to the Website or otherwise affirmatively provide us with information beyond what we request, we will treat such information as having your consent to collect, retain and use such information for purposes reasonably associated with the purpose for which you provided the information. For example, we may retain a copy of the e-mail and any personally identifiable information you may have supplied in the e-mail with respect to a user service question to help us evaluate our service, train our employees and provide better service to our users.
@@ -116,4 +119,4 @@ If you have any specific questions regarding any issues about privacy on the Web
 **APPLICABLE LAW**  
 Our collection and use of information shall be governed by laws of the United States.
 
-_Updated March 2011_
+Updated: July 2012.
