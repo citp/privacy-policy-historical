@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayako.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622050014id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.net privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107144506id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Kayako
 
@@ -39,7 +39,7 @@ Kayako does not intentionally collect information from children under the age of
 
 ### Credit card information
 
-Kayako does not store your credit card information. This information is held by RBS WorldPay, a payment processor who processes your payments on behalf of Kayako. RBS WorldPay's privacy agreement can be found [http://www.rbsworldpay.com/shopper/index.php?page=safety&sub=privacy](http://www.rbsworldpay.com/shopper/index.php?page=safety&sub=privacy). 
+Your transaction may be processed by one of our third-party payment vendors: RBS WorldPay, 2Checkout, ICICI or Paymentech. These vendors are payment processors who can process your payment on behalf of Kayako. The vendor which will be used to process your own transaction will depend on the kind of product or subscription you purchase. 
 
 ### Protection of personally identifying information
 
