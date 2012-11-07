@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymfb.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628035836id_/http%3A//mymfb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymfb.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107033013id_/http%3A//mymfb.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » My - MFB - Uniting Over 1.6 Billion Muslims and Peaceful people from other Faiths
 
@@ -56,4 +56,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 *Updated January 25th, 2012 (1st Rabiul Awal 1433 Hijri)
 
-_Page has been viewed 85 times.._
+_Page has been viewed 141 times.._
