@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesfree.me privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504150924id_/http%3A//www.gamesfree.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfree.me privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107120336id_/http%3A//www.gamesfree.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GamesFree.me
 
