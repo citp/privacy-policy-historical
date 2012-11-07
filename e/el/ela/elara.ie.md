@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522094702id_/http%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107190911id_/http%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
 
 # Elara Online Ireland - Buy Laptops, Netbooks, Notebooks, Computers ,Printers, LCD LED Monitors, Hard Disk, Memory, Camera, Motherboards, Routers and more
 
