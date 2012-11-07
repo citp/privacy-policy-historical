@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205114753id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107032701id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.*
 
 # HolidayIQ | Home
 
@@ -6,7 +6,7 @@ This Policy covers the treatment of personally identifiable information collecte
 
 We will collect information from you if you choose to register for certain services provided by HIQ or the Company. The following specific information will be sought by us when requesting information about you: Name, Age/Date of Birth, Gender, Marital Status, Anniversary, Occupation, E-mail address, Holiday Preferences.
 
-HIQ uses the personal information collected from you for two general purposes: to fulfill your requests for certain information, products and services; and to contact you about the latest about HolidayIQ.
+HIQ uses the personal information collected from you for two general purposes: to fulfill your requests for certain information, products and services; and to contact you about the latest about HolidayIQ and to complete your online profile on HolidayIQ.com. If you choose to connect your HolidayIQ account with Facebook, we will receive and retain basic account registration data you provide to Facebook, such as name, email address and location. We will not post anything to Facebook without your permission.
 
 Collection of non-identifiable information
 
@@ -44,6 +44,6 @@ Amendment of this policy
 
 HIQ and/or the Company may from time to time amend this policy. When this policy is so amended, the last date of such amendment shall be indicated on this policy under the legend "Revised on ____". In the event the amendment of this policy results in an enlargement of the scope of permitted disclosures of personally identifiable information, we shall obtain your consent before such disclosure.
 
-If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by [clicking here](https://web.archive.org/web/20111205114753id_/http%3A//www.holidayiq.com/contactus.php):
+If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by [clicking here](https://web.archive.org/web/20121107032701id_/http%3A//www.holidayiq.com/contactus.php):
 
 If you do not wish to receive any further information about us, our products and our services, please [click here](http://www.holidayiq.com/unsubscribe.php) to unsubscribe.
